@@ -9,12 +9,14 @@
     </head>
     <body>
         <header class="header"><h1>観光スポット推薦システム</h1></header>
-        <form action="{{ url_for('get_search_sentence') }}" method="post" class="saerch_form">
+        <form class="search_form" id="search_form" action="/search" method="POST">
             <p>検索したい観光スポットの特徴を入力してください</p>
-            <input type="search" name="search" placeholder="検索キーワード・文を入力">
-            <input type="submit" name="submit" value="検索">
+            <input type="search" id="search" name="search" placeholder="検索キーワード・文を入力">
+            <input type="submit" id="submit" name="submit" value="検索">
         </form>
+
         <div id="mapid"></div>
+        <script src="{{ url_for('static',filename = 'js/get_keywords.js') }}"></script>
         <script src="{{ url_for('static',filename = 'js/for_interface.js') }}"></script>
 
 
