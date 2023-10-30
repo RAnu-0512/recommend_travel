@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8"/>
+        <title>観光スポット推薦システム</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+        <link rel="stylesheet" href="{{ url_for('static',filename = 'css/for_interface.css') }}">
+    </head>
+    <body>
+        <header class="header"><h1>観光スポット推薦システム</h1></header>
+        <form action="{{ url_for('get_search_sentence') }}" method="post" class="saerch_form">
+            <p>検索したい観光スポットの特徴を入力してください</p>
+            <input type="search" name="search" placeholder="検索キーワード・文を入力">
+            <input type="submit" name="submit" value="検索">
+        </form>
+        <div id="mapid"></div>
+        <script src="{{ url_for('static',filename = 'js/for_interface.js') }}"></script>
+
+
+    </body>
+</html>

@@ -1,23 +1,80 @@
-from flask import Flask, render_template, jsonify, request
+from flask import Flask, render_template, jsonify, request, url_for
 import webbrowser
+import gensim
+import csv
+import math
+
+# wor2vecモデル読み込み
+model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
+#model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False)
+
+#県のスポットの緯度経度情報を読み込む
+latlng_info_path = "D:\\Desktop\\recommend_travel\\data\\latlng\\岡山.csv"
+all_sn = []
+all_lat = []
+all_lng = []
+with open(latlng_info_path, 'r', encoding='utf-8') as f_latlng:
+    reader = csv.reader(f_latlng)
+    for row in reader:
+        if(len(row) >= 3):  # 最低3つの要素があることを確認
+            all_sn.append(row[0])
+            all_lat.append(float(row[1]))
+            all_lng.append(float(row[2]))
+
 
 app = Flask(__name__)
+
+
+# 緯度と経度から距離を計算する(単位:km)
+def haversine_distance(lat1, lng1, lat2, lng2):
+    earth_radius = 6371
+    # 緯度と経度をラジアンに変換
+    lat1 = math.radians(lat1)
+    lng1 = math.radians(lng1)
+    lat2 = math.radians(lat2)
+    lng2 = math.radians(lng2)
+    # ハーバーサインの公式
+    dlng = lng2 - lng1
+    dlat = lat2 - lat1
+    a = math.sin(dlat/2)**2 + math.cos(lat1) * math.cos(lat2) * math.sin(dlng/2)**2
+    c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
+    return earth_radius * c
+
+# 引数(緯度と経度)とn番目に近いスポットの情報を返却(sn,lat,lng,dist)(n>=1)
+def calc_near_spot(lat,lng,n):
+    if n <= 0 or n > len(all_sn):
+        print("指定した順位のスポットは存在しません")
+        return ["存在しません",0,0,0]
+    calc_km = []
+    for i in range(len(all_sn)):    
+        calc_km.append(haversine_distance(lat,lng,all_lat[i],all_lng[i]))
+    sorted_spot = sorted(zip(all_sn,all_lat,all_lng,calc_km), key=lambda x:x[-1])
+    return sorted_spot[n-1]
 
 @app.route("/", methods= ['GET'])
 def return_html_test():
     print("test sucsess")
-    return render_template("test.html")
+    return render_template("travel_recommend.html")
 
-@app.route("/send_data", methods=['POST'])
-def send_data():
-    print("send data app")
+@app.route("/send_latlng", methods=['POST'])
+def send_latlng():
+    print("send latlng")
     data = request.get_json()
     lat = float(data.get('lat'))
     lng = float(data.get('lng'))
-    
-    # 何らかの処理を行い、"success"を付けてJavaScriptに返す
-    response_data = {'result': 'success', 'lat': lat - 1.0, 'lng': lng - 1.0 }
+
+    sp_info = calc_near_spot(lat,lng,1)
+
+    #JavaScriptに返す  
+    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1], 'lng': sp_info[2], "distance": sp_info[3] }
     return jsonify(response_data)
+
+@app.route("/send_sentence", methods=["POST"])
+def get_search_sentence():
+    print("get search sentence")
+    search_sentence = request.form["search"]
+#    print(model.most_similar(search_sentence, topn=10))
+    return search_sentence + "ありがとう"
 
 if __name__ == "__main__":
     webbrowser.open('http://localhost:8000')

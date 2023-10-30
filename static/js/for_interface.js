@@ -20,10 +20,10 @@ function onMapClick(e){
   let lat = e.latlng.lat;
   let lng = e.latlng.lng;
   // マーカー画像の場所を指定する
-  L.marker([lat, lng]).addTo(mymap).bindPopup("開始位置").openPopup(); 
+  L.marker([lat, lng]).addTo(mymap).bindPopup("選択された位置").openPopup(); 
   console.log(lat,lng)
   // JavaScriptからPythonにデータを送信
-  fetch('/send_data', {
+  fetch('/send_latlng', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
@@ -42,4 +42,3 @@ function onMapClick(e){
 }
 
 mymap.on('click', onMapClick)
-
