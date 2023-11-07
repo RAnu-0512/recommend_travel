@@ -1,6 +1,6 @@
 from flask import Flask, render_template, jsonify, request, url_for,redirect
 import webbrowser
-import gensim
+#import gensim
 from read_sp_info import get_spotinfo
 from calculate_distance import calc_near_spot
 
