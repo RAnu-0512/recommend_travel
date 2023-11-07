@@ -6,7 +6,7 @@ import csv
 def get_spotinfo():
     # spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1]], ... ]
     spots_info = []
-    latlng_info_path = "data\\latlng\\岡山.csv"
+    latlng_info_path = "data\\latlng\\岡山_2.csv"
     #latlng_info_path=""
 
     with open(latlng_info_path, 'r', encoding='utf-8') as f_latlng:

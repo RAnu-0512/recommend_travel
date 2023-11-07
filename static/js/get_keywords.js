@@ -2,6 +2,8 @@ document.getElementById('search_form').addEventListener('submit', function (e) {
   e.preventDefault(); // ページの再読み込みを防ぐ
   const search_keyword = document.getElementById("search_keyword").value;
   console.log(search_keyword)
+
+  document.getElementById("send_selected_results").style.display = "block"
   // Ajaxリクエストを送信
   fetch('/search_form', {
     method: 'POST', // または 'GET'、サーバーの要件に合わせて設定
@@ -18,10 +20,31 @@ document.getElementById('search_form').addEventListener('submit', function (e) {
   })
   .then(data => {
     console.log(data); // Pythonからの応答を表示
+    displaySearchResults(data.keyword);
   })
   .catch(error => {
     console.error('エラー:', error);
   });
 })
 
-  
+
+
+function displaySearchResults(results) {
+  const resultsContainer = document.getElementById('makecheckboxes');
+  resultsContainer.innerHTML = ''; // 既存の結果をクリア
+
+  results.forEach((result, index) => {
+    const resultElement = document.createElement('div');
+    const checkbox = document.createElement('input');
+    checkbox.type = "checkbox";
+    checkbox.name = "selected_results";
+    checkbox.value = result.value; // 結果の値をセット
+    resultElement.appendChild(checkbox);
+
+    const label = document.createElement('label');
+    label.textContent = result.label;
+    resultElement.appendChild(label);
+
+    resultsContainer.appendChild(resultElement);
+  });
+}

@@ -12,6 +12,9 @@ model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデー�
 #spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1]], ... ]
 spots_info = get_spotinfo()
 
+def return_aspect(query):
+    result = ["結果"+query,"です","結果は"+query+"かもしれない"]
+    return result
 
 
 app = Flask(__name__)
@@ -39,9 +42,25 @@ def get_search_keyword():
     print("get serach keyword")
     user_input=request.get_json()
     print(user_input)
-    result = "KeyWordは  : " + user_input.get("search_keyword")
-    return jsonify({"keyword": result})
+    results = return_aspect(user_input.get("search_keyword"))
+    checkboxes = [{"label": result, "value": result} for result in results]
+    return jsonify({"keyword": checkboxes})
 
+@app.route("/process_selected_results", methods=["POST"])
+def process_selected_results():
+    data = request.get_json()
+    selected_results = data.get("selected_results")
+    
+    # 選択された結果に対する何らかの処理を行う
+    # 例: 選択された結果をログに記録
+    send_result = []
+    for result in selected_results:
+        print(f"選択された結果: {result}")
+        send_result.append(result)
+
+    # 処理結果をJavaScriptに返す
+    response_data = {"message": send_result }
+    return jsonify(response_data)
 
 if __name__ == "__main__":
     webbrowser.open('http://localhost:8000')
