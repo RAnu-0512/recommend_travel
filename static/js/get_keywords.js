@@ -1,3 +1,4 @@
+//検索キーワードを取る
 document.getElementById('search_form').addEventListener('submit', function (e) {
   e.preventDefault(); // ページの再読み込みを防ぐ
   const search_keyword = document.getElementById("search_keyword").value;
@@ -19,7 +20,7 @@ document.getElementById('search_form').addEventListener('submit', function (e) {
     return res.json()
   })
   .then(data => {
-    console.log(data); // Pythonからの応答を表示
+    console.log(data); // Pythonからの観点を返却
     displaySearchResults(data.keyword);
   })
   .catch(error => {
@@ -28,7 +29,7 @@ document.getElementById('search_form').addEventListener('submit', function (e) {
 })
 
 
-
+//リザルトをチェックボックスで表示
 function displaySearchResults(results) {
   const resultsContainer = document.getElementById('makecheckboxes');
   resultsContainer.innerHTML = ''; // 既存の結果をクリア

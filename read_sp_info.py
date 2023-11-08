@@ -47,3 +47,4 @@ def get_spotinfo():
         spots_info[spot_index].append(cluster_vec_float)
 
     return spots_info
+

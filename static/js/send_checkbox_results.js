@@ -1,4 +1,4 @@
-// 既存のコードに以下を追加
+//チェックボックスの値をpythonに返却
 document.getElementById('send_selected_results').addEventListener('click', function () {
     const selectedCheckboxes = document.querySelectorAll('input[type=checkbox]:checked');
     const selectedValues = Array.from(selectedCheckboxes).map(checkbox => checkbox.value);

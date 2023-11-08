@@ -2,7 +2,17 @@
     height: 650px;
 }
 
-
 #send_selected_results {
     display: none; /* 初期状態で非表示 */
+}
+
+.parameters {
+    display: flex;
+    align-items: center;
+}
+
+
+.recommend_range {
+    display: flex;
+    align-items: center;
 }

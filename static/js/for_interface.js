@@ -52,3 +52,9 @@ function onMapClick(e){
 
 mymap.on('click', onMapClick)
 
+const value = document.querySelector("#selected_range");
+const input = document.querySelector("#distance_bar");
+value.textContent = input.value;
+input.addEventListener("input", (event) => {
+  value.textContent = event.target.value;
+});

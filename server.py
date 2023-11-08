@@ -2,6 +2,7 @@ from flask import Flask, render_template, jsonify, request, url_for,redirect
 import webbrowser
 #import gensim
 from read_sp_info import get_spotinfo
+from return_aspect import return_aspect
 from calculate_distance import calc_near_spot
 
 # wor2vecモデル読み込み
@@ -11,11 +12,6 @@ model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデー�
 
 #spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1]], ... ]
 spots_info = get_spotinfo()
-
-def return_aspect(query):
-    result = ["結果"+query,"です","結果は"+query+"かもしれない"]
-    return result
-
 
 app = Flask(__name__)
 
@@ -42,7 +38,7 @@ def get_search_keyword():
     print("get serach keyword")
     user_input=request.get_json()
     print(user_input)
-    results = return_aspect(user_input.get("search_keyword"))
+    results = return_aspect(user_input.get("search_keyword"),spots_info)
     checkboxes = [{"label": result, "value": result} for result in results]
     return jsonify({"keyword": checkboxes})
 
