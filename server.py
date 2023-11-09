@@ -59,8 +59,8 @@ def process_selected_results():
     return jsonify(response_data)
 @app.route("/distance_bar",methods = ["POST"])
 def get_range():
-    range = int(request.get_data())
-    return range
+    range = int(request.get_json().get("value"))
+    return str(range)
 
 if __name__ == "__main__":
     webbrowser.open('http://localhost:8000')

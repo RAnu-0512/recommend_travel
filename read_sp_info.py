@@ -22,7 +22,7 @@ def get_spotinfo():
     aspect_folder_path = "data\\aspect_and_vector_list\\岡山\\"
     #aspect_path=""
     for spot_index in range(len(spots_info)):
-        print(spots_info[spot_index][0])
+#        print(spots_info[spot_index][0])
         aspect_path = aspect_folder_path + spots_info[spot_index][0] + "_aspects_vecs.csv"
         with open(aspect_path,"r",encoding="utf-8") as f_aspect:
             reader = csv.reader(f_aspect)

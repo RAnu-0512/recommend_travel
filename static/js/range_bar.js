@@ -1,25 +1,28 @@
-$(function(){
-    // ページ読み込み時にも描画されるようにする
-    updateBlend();
+const distanceBar = document.getElementById('distance_bar');
+const selectedRange = document.getElementById('selected_range');
 
-    // スライダーを操作したときにblend画像を更新する
-    $('#distance_bar').on('change', function() {
-        updateBlend();
-    });
-});
+// バーの値が変更されたときのイベントリスナーを追加
+distanceBar.addEventListener('input', function () {
+    // ユーザが動かしたバーの値を取得
+    const selectedValue = distanceBar.value;
 
-function updateBlend() {
-    // flaskの/blendエンドポイントにリクエストする
-    $.ajax({
-        type: 'POST',                     // リクエストメソッドはPOSTでいくぜ、という宣言
-        url: '/distance_bar',                    // flaskサーバの/blendというエンドポイントにリクエストする
-        data: $('#selected_range').val(),   // flaskのrequest.get_data()で取得できるデータ 
-        contentType: 'application/json',  // よく分からなければおまじないの認識でいい
+    // ページ上にその値を表示
+    selectedRange.textContent = selectedValue;
+
+    // Pythonにデータを送るためのFetchリクエストを作成
+    fetch('/distance_bar', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ value: selectedValue }),
     })
+    .then(response => response.json())
     .then(data => {
-        console.log(data); // Pythonからの応答を表示
+        // Pythonからの応答を処理する（必要に応じて）
+        console.log(data);
     })
     .catch(error => {
-        console.error('エラー:', error);
+        console.error('Error:', error);
     });
-};
+    });
