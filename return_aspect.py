@@ -5,9 +5,9 @@ def return_aspect(query,spots_info):
         spotname =spot[0]
         spot_latlng = spot[1]
         aspects = spot[2]
-        print(f"spotname : {spotname}")
-        print(f"latlng : {spot_latlng}")
-        print(f"aspects : {aspects}")  
+#       print(f"spotname : {spotname}")
+#       print(f"latlng : {spot_latlng}")
+#       print(f"aspects : {aspects}")  
         if query in aspects:
             result.append(f"{query} is in {spot[0]}")
             print(f"{query} is in {spot[0]}")

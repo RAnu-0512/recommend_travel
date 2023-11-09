@@ -19,12 +19,13 @@
             </form>
             <div class = "recommend_range" role="group">
                 <p>推薦範囲: <output id="selected_range"></output> (km) </p>
-                <input type="range" name="distance_bar" id="distance_bar" min = "1" max = "100" step ="1">
+                <input type="range" name="distance_bar" id="distance_bar" min = "1" max = "100" step ="1" value="50">
             </div>
         </div>
         <div id="mapid"></div>
         <script src="{{ url_for('static',filename = 'js/get_keywords.js') }}"></script>
         <script src="{{ url_for('static',filename = 'js/for_interface.js') }}"></script>
         <script src="{{ url_for('static',filename = 'js/send_checkbox_results.js') }}"></script>
+        <script src="{{ url_for('static',filename = 'js/range_bar.js') }}"></script>
     </body>
 </html>

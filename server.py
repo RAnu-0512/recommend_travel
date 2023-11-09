@@ -57,6 +57,10 @@ def process_selected_results():
     # 処理結果をJavaScriptに返す
     response_data = {"message": send_result }
     return jsonify(response_data)
+@app.route("/distance_bar",methods = ["POST"])
+def get_range():
+    range = int(request.get_data())
+    return range
 
 if __name__ == "__main__":
     webbrowser.open('http://localhost:8000')
