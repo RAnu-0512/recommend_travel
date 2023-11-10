@@ -1,9 +1,10 @@
-#mapid{
+#mapid {
     height: 650px;
 }
 
 #send_selected_results {
-    display: none; /* 初期状態で非表示 */
+    display: none;
+    /* 初期状態で非表示 */
 }
 
 .parameters {
