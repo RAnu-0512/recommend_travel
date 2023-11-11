@@ -49,7 +49,10 @@ function onMapClick(e) {
         })
         .then(data => {
             console.log(data); // 最も近いスポット
-            L.marker([data.lat, data.lng]).addTo(mymap).bindPopup(data.spot_name).openPopup();
+            data.forEach(element => {
+                console.log(element)
+                L.marker([element.lat,element.lng]).addTo(mymap).bindPopup(element.spot_name).openPopup();
+            });
             recommend_mode = "end_spot"
         })
         .catch(error => {

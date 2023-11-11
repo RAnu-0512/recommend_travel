@@ -5,7 +5,8 @@ from read_sp_info import get_spotinfo
 from return_aspect import return_aspect
 from calculate_distance import calc_near_spot
 from return_spot import return_spot
-
+import copy
+top_n = 10
 # wor2vecモデル読み込み
 model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
 #model_path = "C:\\Users\\kobayashi\\Desktop\\word2vec\\cc.ja.300.vec.gz"
@@ -25,15 +26,22 @@ def return_html_test():
 
 @app.route("/send_latlng", methods=['POST'])
 def send_latlng():
-    print("send latlng")
     data = request.get_json()
     lat = float(data.get('cliked_lat'))
     lng = float(data.get('cliked_lng'))
-#    sp_info = calc_near_spot(lat,lng,1,spots_info) #一番近いスポット
-    sp_info = return_spot(lat,lng,returned_distance_range,returned_aspect_list,spots_info)
-#    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
-#    return jsonify(response_data)
-    return sp_info
+    recommend_spots = return_spot(lat,lng,returned_distance_range,returned_aspect_list,spots_info,top_n) #形式 : [[spot_name,[lat,lng],aspects,score], ...]
+    response_data = []
+    #    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
+    for recommend_spot in recommend_spots:
+        converted_data = {
+            "spot_name" : recommend_spot[0],
+            "lat" : recommend_spot[1][0],
+            "lng" : recommend_spot[1][1],
+            "aspects" : recommend_spot[2],
+            "score" : recommend_spot[3]
+        }
+        response_data.append(converted_data)
+    return response_data
 
 @app.route("/search_form", methods=["POST"])
 def get_search_keyword():
@@ -46,6 +54,7 @@ def get_search_keyword():
 
 @app.route("/process_selected_results", methods=["POST"])
 def process_selected_results():
+    global returned_aspect_list
     data = request.get_json()
     selected_results = data.get("selected_results")
     send_result = []
@@ -58,10 +67,10 @@ def process_selected_results():
 
 @app.route("/distance_bar",methods = ["POST"])
 def get_range():
-    range = int(request.get_json().get("value"))
-    returned_distance_range = range
+    global returned_distance_range
+    returned_distance_range = int(request.get_json().get("value"))
     print("推薦範囲 : ",  returned_distance_range, "(km)")
-    return str(range)
+    return str(returned_distance_range)
 
 if __name__ == "__main__":
     webbrowser.open('http://localhost:8000')

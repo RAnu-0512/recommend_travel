@@ -10,8 +10,9 @@ def return_aspect(query,spots_info):
 #       print(f"aspects : {aspects}")  
         if query in aspects:
             result.append(f"{query} is in {spot[0]}")
+            result.append(query)
 #            print(f"{query} is in {spot[0]}")
         
 
-    result.extend(["結果"+query,"です","結果は"+query+"かもしれない"])
+    result.extend(["自然","景色","子ども","子供"])
     return result
