@@ -1,19 +1,57 @@
 #mapid {
-    height: 650px;
+    height: 800px;
+    width: 1200px;
 }
 
+#recommend_spot_info{
+    height: 800px;
+    width: 400px;
+    cursor: pointer;
+    background-color: seashell;
+    overflow-y: scroll;
+}
+
+#map_info{
+    display: flex;
+}
 #send_selected_results {
-    display: none;
+    display: end;
     /* 初期状態で非表示 */
 }
 
+#makecheckboxes {
+    width: 300px; /* 任意の幅を指定 */
+    height: 100px; /* 任意の高さを指定 */
+    overflow-y: scroll;
+    background-color: Seashell;
+}
+#search_keyword{
+    height: 25px;
+}
+#head-selected_results{
+    height: 25px;
+}
+#selected_results{
+    width: 300px; /* 任意の幅を指定 */
+    height: 100px; /* 任意の高さを指定 */
+    overflow-y: scroll;
+    background-color: Seashell;
+}
+
+
 .parameters {
     display: flex;
-    align-items: center;
+    align-items: start;
 }
 
 
 .recommend_range {
     display: flex;
     align-items: center;
+}
+
+
+.remove_button {
+    cursor: pointer;
+    color: black;
 }

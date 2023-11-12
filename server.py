@@ -1,16 +1,17 @@
 from flask import Flask, render_template, jsonify, request, url_for,redirect
 import webbrowser
-#import gensim
+import gensim
 from read_sp_info import get_spotinfo
 from return_aspect import return_aspect
 from calculate_distance import calc_near_spot
 from return_spot import return_spot
 import copy
-top_n = 10
+top_n = 10 #推薦スポット数
+aspect_top_n = 10 #ヒットする観点数
 # wor2vecモデル読み込み
 model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
 #model_path = "C:\\Users\\kobayashi\\Desktop\\word2vec\\cc.ja.300.vec.gz"
-#model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False)
+model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False)
 
 #spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1]], ... ]
 spots_info = get_spotinfo()
@@ -48,7 +49,7 @@ def get_search_keyword():
     print("get serach keyword")
     user_input=request.get_json()
     print(user_input)
-    results = return_aspect(user_input.get("search_keyword"),spots_info)
+    results = return_aspect(user_input.get("search_keyword"),spots_info,aspect_top_n,model)
     checkboxes = [{"label": result, "value": result} for result in results]
     return jsonify({"keyword": checkboxes})
 

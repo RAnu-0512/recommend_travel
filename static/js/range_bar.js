@@ -9,8 +9,7 @@ function range_bar() {
     });
 
     // ページ上にその値を表示
-    document.getElementById('send_selected_results').addEventListener('click', function () {
-        distanceBar.disabled = true;
+    document.getElementById('decide_button').addEventListener('click', function () {
         fetch('/distance_bar', {
             method: 'POST',
             headers: {

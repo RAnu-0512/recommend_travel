@@ -1,12 +1,11 @@
 //検索キーワードを取る
 function get_keyword() {
-    document.getElementById('search_form').addEventListener('submit', function (e) {
+    document.getElementById('search_form').addEventListener('submit', function (e){
         e.preventDefault(); // ページの再読み込みを防ぐ
         const search_keyword = document.getElementById("search_keyword").value;
         console.log(search_keyword)
 
-        document.getElementById("send_selected_results").style.display = "block"
-        // Ajaxリクエストを送信
+        // fetchリクエストを送信
         fetch('/search_form', {
             method: 'POST', // または 'GET'、サーバーの要件に合わせて設定
             headers: {
@@ -27,7 +26,7 @@ function get_keyword() {
             .catch(error => {
                 console.error('エラー:', error);
             });
-    })
+    });
 }
 
 //リザルトをチェックボックスで表示
@@ -39,7 +38,8 @@ function displaySearchResults(results) {
         const resultElement = document.createElement('div');
         const checkbox = document.createElement('input');
         checkbox.type = "checkbox";
-        checkbox.name = "selected_results";
+        checkbox.name = "search_result";
+        checkbox.className = "search_result";
         checkbox.value = result.value; // 結果の値をセット
         resultElement.appendChild(checkbox);
 

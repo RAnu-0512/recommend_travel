@@ -31,7 +31,7 @@ function onMapClick(e) {
     const cliked_lng = e.latlng.lng;
     // マーカー画像の場所を指定する
     L.marker([cliked_lat, cliked_lng], { icon: greenIcon }).addTo(mymap).bindPopup("選択された位置").openPopup();
-    console.log("cliked : ",cliked_lat, cliked_lng)
+    console.log("cliked : ", cliked_lat, cliked_lng)
     mymap.off('click', onMapClick);
     // JavaScriptからPythonにデータを送信
     fetch('/send_latlng', {
@@ -49,9 +49,22 @@ function onMapClick(e) {
         })
         .then(data => {
             console.log(data); // 最も近いスポット
-            data.forEach(element => {
+            data.forEach((element, index) => {
                 console.log(element)
-                L.marker([element.lat,element.lng]).addTo(mymap).bindPopup(element.spot_name).openPopup();
+                var popupContent = "<b>[" + (index+1) + "]" + element.spot_name + "</b><br>" + element.aspects.join(",");
+                const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(popupContent).openPopup();
+
+                const recommendSpotInfo = document.getElementById("recommend_spot_info");
+                const popupInfo = document.createElement("div");
+                popupInfo.innerHTML = popupContent;
+                recommendSpotInfo.appendChild(popupInfo);
+
+                // クリックイベントハンドラを追加
+                popupInfo.addEventListener("click", () => {
+                    // 対応するポップアップに移動
+                    mymap.panTo([element.lat, element.lng]);
+                    marker.openPopup();
+                });
             });
             recommend_mode = "end_spot"
         })
@@ -63,13 +76,14 @@ function onMapClick(e) {
 
 range_bar();
 get_keyword();
+add_selected_aspects();
 (async () => {
     try {
-        await send_checkbox_results();
+        await send_selected_aspects();
         if (recommend_mode == "select_spot") {
             mymap.on('click', onMapClick);
         }
-    }catch(error){
-        console.error("エラー",error);
+    } catch (error) {
+        console.error("エラー", error);
     }
 })();

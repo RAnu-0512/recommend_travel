@@ -1,9 +1,9 @@
-import gensim
 import MeCab
 import ipadic
 import re
-import numpy as np
 from collections import defaultdict
+import numpy as np
+
 
 def tokenize(text):
     tokenizer = MeCab.Tagger(f"-Owakati {ipadic.MECAB_ARGS}")
@@ -39,6 +39,17 @@ def del_stopwords_from_candidates(tokenized_candidate):
             formatted_candidate.append(word_info)
     return formatted_candidate
 
+def calc_aspect_score(query,all_aspects,model):
+    score_list = []
+    for aspect in all_aspects:
+        score = 0
+        if query in aspect:
+            score = score + 1
+        score_list.append(score)
+    return score_list
+
+
+
 def deduplication(aspect_vector_list):
     aspect_vectors_sum = defaultdict(list)
     # アスペクトごとにベクトルを足し合わせる
@@ -47,8 +58,9 @@ def deduplication(aspect_vector_list):
 
     # アスペクトごとにベクトルを合計して新しいアスペクトとベクトルを格納するリスト
     result_list = [[aspect, [sum(values) / len(values) for values in zip(*vectors)]] for aspect, vectors in aspect_vectors_sum.items()]
-    return result_list
 
+    print(result_list)
+    return result_list
 
 def cos_sim(v1, v2):
     return np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2))
@@ -56,32 +68,31 @@ def add_list_int(list1,list2):
     return [x + y for x, y in zip(list1, list2)]
 def divide_list_int(list1,num1):
     return [x/num1 for x in list1]
-# spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1]], ... ]
-#上位top_nの観点を返す[観点1,観点2,観点3]
-def return_aspect(query,spots_info,aspect_top_n,model):
-    result = []
-    all_aspectsAndvector = []
-    for spot in spots_info:
-        aspects = spot[2]
-        vectors = spot[3]
-        for aspect,vector in zip(aspects,vectors):
-            all_aspectsAndvector.append([aspect,vector])
-    all_aspectsAndvector = deduplication(all_aspectsAndvector)
-    all_aspects_score = calc_aspect_score(query,all_aspectsAndvector,model)
-
-    sorted_aspect = sorted(zip(all_aspectsAndvector,all_aspects_score), key=lambda x:x[-1],reverse=True)
-    result = [item[0][0] for item in sorted_aspect[:aspect_top_n]]
-    return result
-
-def calc_aspect_score(query,all_aspects_vectors,model):
+def calc_aspect_score(query,all_aspects_vectors):
     score_list = []
     tokenized_candidates = del_stopwords_from_candidates(candidates_maker_mecab(query,1)[0])
-    query_vector = [0]*300
+    query_vector = [0,0,0]
     for candidate in tokenized_candidates:
         word = candidate[0]
-        query_vector = add_list_int(query_vector,model[word])
+        query_vector = add_list_int(query_vector,[1,2,3])
     query_vector = divide_list_int(query_vector,len(tokenized_candidates))
     for aspect,vector in all_aspects_vectors:
         similarity = cos_sim(query_vector,vector)
         score_list.append(similarity)
     return score_list
+
+words = "観光できる"
+all_aspectsAndvector = [
+    ["自然", [3, 4, 7]],
+    ["観光", [1, 2, 4]],
+    ["適当", [1, 2, 3]]
+]
+
+
+all_aspects_score = calc_aspect_score(words,all_aspectsAndvector)
+print(all_aspects_score)
+
+sorted_aspect = sorted(zip(all_aspectsAndvector,all_aspects_score), key=lambda x:x[-1],reverse=True)
+print(sorted_aspect)
+result = [item[0][0] for item in sorted_aspect[:2]]
+print(result)
