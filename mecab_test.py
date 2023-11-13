@@ -96,10 +96,4 @@ sorted_aspect = sorted(zip(all_aspectsAndvector,all_aspects_score), key=lambda x
 print(sorted_aspect)
 result = [item[0][0] for item in sorted_aspect[:2]]
 print(result)
-response_data = []
-converted_data = {'spot_name': '岡山城', 'lat': 34.66521699, 'lng': 133.93598582, 'aspects': ['秀家', '櫓', '天守', '元年', '烏', '堀', '城', '城', '雰囲気', 'イベント', '遊歩道', 'カフェ', '天守閣', '子ども', '城主', '殿様', '黒', '桜', '宗高', '天守閣', '甲冑', '復元', '会場', '景色', '風情', '近代', '上記', '内容', '足裏', 'の外', '隣', '子橋', '子供', '入場券', '名所', '商店街', '工事', '体験', '展示', '撮影'], 'score': 0}
-response_data.append(converted_data)
-response_data.append(converted_data)
-print(jsonify(response_data))
-print(type(jsonify(response_data)))
 

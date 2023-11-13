@@ -9,7 +9,8 @@ top_n = 10 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
 # wor2vecモデル読み込み
 #model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
-model_path = "C:\\Users\\kobayashi\\Desktop\\小林_B4\\プログラムおよびデータ\\02.Google Colab\\drive\\cc.ja.300.vec.gz"
+#model_path = "C:\\Users\\kobayashi\\Desktop\\小林_B4\\プログラムおよびデータ\\02.Google Colab\\drive\\cc.ja.300.vec.gz"
+model_path = "C:\\Users\\fkddn\\OneDrive\\デスクトップ\\cc.ja.300.vec.gz"
 model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False)
 
 #spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1]], ... ]
