@@ -5,12 +5,11 @@ from read_sp_info import get_spotinfo
 from return_aspect import return_aspect
 from calculate_distance import calc_near_spot
 from return_spot import return_spot
-import copy
 top_n = 10 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
 # wor2vecモデル読み込み
-model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
-#model_path = "C:\\Users\\kobayashi\\Desktop\\word2vec\\cc.ja.300.vec.gz"
+#model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
+model_path = "C:\\Users\\kobayashi\\Desktop\\小林_B4\\プログラムおよびデータ\\02.Google Colab\\drive\\cc.ja.300.vec.gz"
 model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False)
 
 #spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1]], ... ]
@@ -31,6 +30,7 @@ def send_latlng():
     lat = float(data.get('cliked_lat'))
     lng = float(data.get('cliked_lng'))
     recommend_spots = return_spot(lat,lng,returned_distance_range,returned_aspect_list,spots_info,top_n) #形式 : [[spot_name,[lat,lng],aspects,score], ...]
+    print("recommend_spots: ", recommend_spots)
     response_data = []
     #    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
     for recommend_spot in recommend_spots:
@@ -42,7 +42,8 @@ def send_latlng():
             "score" : recommend_spot[3]
         }
         response_data.append(converted_data)
-    return response_data
+        print("converted_data : ",converted_data)
+    return jsonify(response_data)
 
 @app.route("/search_form", methods=["POST"])
 def get_search_keyword():

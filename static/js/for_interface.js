@@ -48,7 +48,7 @@ function onMapClick(e) {
             return res.json()
         })
         .then(data => {
-            console.log(data); // 最も近いスポット
+            console.log(data); 
             data.forEach((element, index) => {
                 console.log(element)
                 var popupContent = "<b>[" + (index+1) + "]" + element.spot_name + "</b><br>" + element.aspects.join(",");

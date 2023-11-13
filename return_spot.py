@@ -17,8 +17,10 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
             recommend_spots_info.append([sn,[lat,lng],aspect_list,score])
         sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[-1],reverse=True)
     if len(sorted_recommend_spots_info) <= n:
+        print("return_spot : " ,sorted_recommend_spots_info)
         return sorted_recommend_spots_info
     else:
+        print("return_spot : " ,sorted_recommend_spots_info[0:n])
         return sorted_recommend_spots_info[0:n]
 
 def calc_spot_score(selected_aspect_list, aspect_list, asp_vec_list):
