@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿革クラフト>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+時間, 指導, 温泉, 娘, 聞き上手, 説明, 体験, キーホルダー, 姉さん, 店
+cluster1:(3)
+巾着, 三角コインケース, 巾着コインケース
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

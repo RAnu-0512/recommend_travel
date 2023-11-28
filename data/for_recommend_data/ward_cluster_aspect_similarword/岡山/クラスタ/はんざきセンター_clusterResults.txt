@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はんざきセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+はんざき, はんざきミュージアム, 半裂き=はんざき
+cluster1:(3)
+国, 当地, 地方
+cluster2:(2)
+物, 資料
+cluster3:(2)
+口, 体
+cluster4:(7)
+こと, センター, オオサンショウオ, 半分, 上, 隅っこ, オオサンショウウオ
+cluster5:(1)
+語源
+cluster6:(4)
+水槽, オオサンショウウオ保護センター, 生態, 生物
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 5entities.

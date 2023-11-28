@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ROMEOBLEU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+中, 参考, 方, 時間, 種類, アロマ, コツ, 経験, 知識, 作り方, アドバイス, 話, 説明, アロマオイル, 店, 作業, 雰囲気
+cluster1:(5)
+香水, 精油, 匂い, 香り, 香水作り
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

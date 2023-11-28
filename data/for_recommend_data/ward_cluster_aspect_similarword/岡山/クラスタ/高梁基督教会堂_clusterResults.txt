@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁基督教会堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+教会堂, 教会, ミサ
+cluster1:(3)
+木造, 建築, 建物
+cluster2:(19)
+城下町, 麓, 時代, 街, オススメ, 貴重, スポット, 内部, もの, 通り, 山, 見学, 中期, 明治, 昼過ぎ, 県, ゴールデンウィーク, 日本, 桜
+cluster3:(2)
+迫害石, 街巡り
+cluster4:(6)
+教会建築, 組合教会系, 紺屋川沿い, 吹屋地区, 中松山城, 洋風建築
+
+howmany entities : 33
+howmany clusters : 5
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 4
+deleted 2entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:WASHU BLUE RESORT 風籠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+た.ko, ぅ.l
+cluster1:(14)
+食事, 時間, 部屋, 料理, メニュー, キャンペーン, nx, 値段, *^^*, 夕食, 充実, 景色, 味, 昼
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

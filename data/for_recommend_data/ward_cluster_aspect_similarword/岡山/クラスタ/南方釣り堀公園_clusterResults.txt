@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南方釣り堀公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+釣り, ヘラブナ釣り, 竿掛け
+cluster1:(2)
+備前IC, 閑谷トンネル
+cluster2:(2)
+県道, 国道
+cluster3:(2)
+標識, 左折
+cluster4:(6)
+画像, 場所, 左側, もの, 人, 方面
+cluster5:(1)
+つりぼり公園
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 7entities.

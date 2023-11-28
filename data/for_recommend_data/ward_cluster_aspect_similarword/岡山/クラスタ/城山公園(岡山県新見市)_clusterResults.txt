@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山公園(岡山県新見市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+こと, ピクニック, 方, 場所, オススメ, 新見, 人, 春先, ソメイヨシノ, ピンク, スポット, ところ, 時期, おすすめスポット, 市街地, 子供, 多く, 季節, 心, 中国
+cluster1:(2)
+花見, 夜桜
+cluster2:(3)
+花, 満開, 桜
+cluster3:(1)
+開花
+cluster4:(8)
+弁当, 芝生, 菓子, 遊具, 名所, 公園, 国道, 景色
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 3
+deleted 3entities.

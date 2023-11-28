@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夢すき公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+ポンプ, 標識, 資料, 公園, 車, 建物
+cluster1:(2)
+水, 大小
+cluster2:(4)
+自力, 心, 気, 事
+cluster3:(5)
+水車上, 親子孫水車, 水車横, 水車, 親・子・孫
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 2entities.

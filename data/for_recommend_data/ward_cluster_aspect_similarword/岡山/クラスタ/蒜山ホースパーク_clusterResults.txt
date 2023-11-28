@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒜山ホースパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+馬, 引き馬, 馬たち
+cluster1:(2)
+競馬, 牧場
+cluster2:(2)
+手綱, 鼻面
+cluster3:(2)
+癒し効果, 撫
+cluster4:(23)
+年寄り, ちびっこちゃん, えさやり, 車, 我が家, ストレス, 動物, 施設, 人参, ロングコース, 初心者, 家族, サラブレッド, コース, 人, ポニー, ニンジン, スタッフ, ポイント, 子供, 子, 子ども, ジャージーランド
+cluster5:(3)
+場内, 売店, 休憩スペース
+cluster6:(4)
+中, 分, 最後, 最初
+cluster7:(2)
+左側, 写真
+cluster8:(1)
+隣り
+cluster9:(4)
+案内, 利用, 各種コース, 受付
+cluster10:(1)
+先頭
+cluster11:(2)
+体験, 馬乗り体験
+cluster12:(3)
+値段, 抜群, 人気
+cluster13:(6)
+場所, もの, 気分, コツ, 方, 事
+cluster14:(1)
+障り
+cluster15:(1)
+子供連れ
+cluster16:(1)
+蒜山
+cluster17:(12)
+観光乗馬, 乳絞り体験, 体験乗馬, 乗馬体験, エサ, エサやり, 餌, 乗馬クラブ, エサやり体験, 餌やり, えさ, 乗馬
+
+howmany entities : 73
+howmany clusters : 18
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 8
+deleted 15entities.

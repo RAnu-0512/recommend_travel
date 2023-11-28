@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛の村パーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ご飯, 弁当, 野菜, 釜飯, 献立
+cluster1:(7)
+レストラン, 土産物, コテージ, ローラー滑り台, 和洋折衷デザート, ランチバイキング, ローラースライダー
+cluster2:(2)
+車, 施設
+cluster3:(2)
+中心, 近く
+cluster4:(3)
+こと, 方, 今回
+cluster5:(2)
+水, 昼
+cluster6:(1)
+バイキング形式
+cluster7:(5)
+自然, 愛, 村パーク, 緑, 天然露天風呂
+cluster8:(1)
+宍粟
+cluster9:(1)
+遊具広場
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 9entities.

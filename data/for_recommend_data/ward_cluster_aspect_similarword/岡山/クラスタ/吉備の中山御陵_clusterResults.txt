@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉備の中山御陵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+形, 距離, 禁止, 前方後円墳, スポット, 何か, 名前
+cluster1:(5)
+吉備, 山中, 古墳, 御陵, 中山
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鯉が窪湿原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こどもたち, 子供
+cluster1:(2)
+家族, 人
+cluster2:(2)
+服, 物
+cluster3:(13)
+中, 何種類, 方, 場所, 時間, 地域, 状況, 名前, 注意, 気, 季節, 必要, 周り
+cluster4:(18)
+道, トンボ, 蛇, オススメ, アタリ, スポット, 駅, 奥, 生き物, スイタ, マムシ, 湿生植物, 西, チョウチョ, イトトンボ, 心, トノサマガエル, 杖
+cluster5:(14)
+植物, 尾瀬, 残存植物, 池, 自然, 花, 雑音, 堤防, 写真, 湿原, 空気, 空間, 全景, 景色
+cluster6:(3)
+鯉たち, 鯉達, 鯉
+cluster7:(2)
+餌やり, 餌
+cluster8:(3)
+窪湿原, 散策, 散策路
+
+howmany entities : 59
+howmany clusters : 9
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 5
+deleted 8entities.

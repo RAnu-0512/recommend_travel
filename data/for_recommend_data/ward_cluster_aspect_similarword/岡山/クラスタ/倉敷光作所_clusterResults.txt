@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷光作所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+半分, 下半分
+cluster1:(3)
+和紙, 灯り, 糊
+cluster2:(11)
+お気に入り, 既存, 先生, 時間, 部屋, スタンド, 土産, アドバイス, 次, 雰囲気, 模様
+cluster3:(4)
+加工, 型紙, 完成, 制作
+cluster4:(1)
+阿知神社麓
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 3entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯原温泉 森のホテル ロシュフォール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+*̄ー̄, た.h(^
+cluster1:(15)
+食事, 孫達, 料理, 温度, 温泉, 子供会席, vど, ボリューム, 好み, しゃぶしゃぶ会席, 子供, 日本, とお婆ちゃん, 味, 人
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 2entities.

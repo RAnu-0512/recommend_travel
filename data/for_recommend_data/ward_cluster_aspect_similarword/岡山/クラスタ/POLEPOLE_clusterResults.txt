@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:POLEPOLE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+満載, 圧巻
+cluster1:(15)
+中, 方, コース, 関係, コウモリ, 写真, ガイド, ライト, 鍾乳洞, ゴムボート, ツアー, インストラクター, ツナギ, 入り口, 出迎え
+cluster2:(2)
+全国, 全身
+cluster3:(1)
+前進
+cluster4:(13)
+山奥, 自然, 洞窟, 空洞, 靴, 岩, 山, 雨, 空気, 緑, 空間, 岩肌, 虫
+cluster5:(2)
+冷やり, 洞窟オタク感
+cluster6:(1)
+止んだり
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 2
+deleted 8entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧因幡街道大原宿(古町町並保存地区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本陣, 本陣跡
+cluster1:(3)
+彩, 白, 黒
+cluster2:(10)
+街, 自動車, 配色, クルマ, 家屋, 消防署, 町, デザイン, 町並み, 道路
+cluster3:(2)
+案内標識, 統一感
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 4entities.

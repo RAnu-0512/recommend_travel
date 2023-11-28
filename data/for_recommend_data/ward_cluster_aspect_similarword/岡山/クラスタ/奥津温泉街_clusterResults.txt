@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥津温泉街>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温泉, 駅
+cluster1:(2)
+風情, 印象
+cluster2:(5)
+歴史, もの, 露天風呂, 時代, 人
+cluster3:(1)
+活気
+cluster4:(1)
+奥津
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 6entities.

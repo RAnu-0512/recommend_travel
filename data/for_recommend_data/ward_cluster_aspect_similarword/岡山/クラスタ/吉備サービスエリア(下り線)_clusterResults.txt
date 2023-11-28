@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉備サービスエリア(下り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+倉敷デニム, 山陰, 岡山, 岡山IC, 地元岡山
+cluster1:(17)
+ハンディモップ, レストラン, 山陽自動車道, サービス, フルーツ, レーン, ソフトクリーム, マスカット, エビ, エリア, イライラマックス, SA, スナックコーナー, ほこり, 桃, 大きめ, 桃太郎
+cluster2:(12)
+前, こと, 場所, 像, し先, 位置, 帯状, 部分, 特徴, 半分, 途中, 注意
+cluster3:(4)
+店員, 客, 店内, レジ入り口
+cluster4:(3)
+軽食, 試食, 土産
+cluster5:(2)
+出店, 通過
+cluster6:(1)
+高速道
+cluster7:(1)
+冷蔵商品
+
+howmany entities : 45
+howmany clusters : 8
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 5
+deleted 4entities.

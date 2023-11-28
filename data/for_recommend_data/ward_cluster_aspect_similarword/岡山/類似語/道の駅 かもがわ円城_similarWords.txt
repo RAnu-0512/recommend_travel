@@ -1,0 +1,7 @@
+--------------------similar_words:道の駅 かもがわ円城--------------------
+top3 entities near to cluster1>>
+野菜, 餅
+top3 entities near to cluster2>>
+駅, 構内, 国道
+top3 entities near to cluster5>>
+休憩, 昼食, 仮眠

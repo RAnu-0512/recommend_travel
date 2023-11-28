@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円城ふるさと村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+雰囲気, ネーミング, コミュニティー, 近く, 人々
+cluster1:(3)
+道, 道路, 駅
+cluster2:(1)
+高原
+cluster3:(2)
+保母, 幼稚園児
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

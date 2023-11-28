@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝採り野菜リヤカー市>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+我が家, リアカー, リヤカー, 看板, 棚, 方, もの, 商品, 事
+cluster1:(2)
+カキ, 牡蠣
+cluster2:(2)
+大根, 野菜
+cluster3:(1)
+道路側
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 5entities.

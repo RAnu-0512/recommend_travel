@@ -1,0 +1,9 @@
+--------------------similar_words:招き猫美術館--------------------
+top3 entities near to cluster0>>
+描く絵, 描く, 描き
+top3 entities near to cluster1>>
+体験, 入館, 展示
+top3 entities near to cluster3>>
+美術館, 招き猫, 絵画
+top3 entities near to cluster4>>
+家族, 夫婦, 土産

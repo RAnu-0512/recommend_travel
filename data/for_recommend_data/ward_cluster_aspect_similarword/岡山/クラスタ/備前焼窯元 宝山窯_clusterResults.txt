@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備前焼窯元 宝山窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+形, こと, 体験, 時間, もの, 作品, 文句, 気, 違い, 技法
+cluster1:(8)
+プレゼント, あちこち, 終わり, アドバイス, 母さん, 仕上がり, クーポン, ポイント
+cluster2:(2)
+備前焼, 植木鉢
+cluster3:(5)
+先生, 主人, 店, 友達, 料理
+cluster4:(2)
+鉢, 産地
+cluster5:(2)
+手びねり, 焼き方
+cluster6:(4)
+陶芸, 粘土, 陶芸体験, 焼成
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 6entities.

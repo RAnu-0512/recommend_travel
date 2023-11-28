@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みなとの見える丘公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日生, 日生大橋
+cluster1:(2)
+五味, 五味の市
+cluster2:(36)
+道, こと, 鐘, 場所, 海産物市場, 初心者ドライバー, 車, 景観, 晴れ晴れ, スグ北, 道のり, 山頂公園, 横浜, 幸福, 島, 海, クルマ, 丘, 頂上, 道幅, 心地, 階段, 市, 瀬戸内海, 公園, 休日, 季節, 急斜面, 山頂, 島々, 海側, 日, 街側, 景色, 桜, 散歩
+cluster3:(1)
+できたて
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 1
+deleted 5entities.

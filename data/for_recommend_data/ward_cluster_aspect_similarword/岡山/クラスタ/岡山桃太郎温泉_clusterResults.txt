@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山桃太郎温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+泉質, かけ湯, 温泉, 露天, 天然温泉
+cluster1:(10)
+接客, 方, 女性, 人, じろじろ客, 女性方, 客, 受付, 愛想, 対応
+cluster2:(26)
+腹, 前, うどん, 恥, 建物, 足元, 食堂, 種類, メガネ, 言動, おかげ, 位置, シャワー, 昔, 感じ, ロッカー, マスク, 露天風呂, タオル, 普通うどん, 気分, フロント, 雰囲気, 設備, 思い, 他
+cluster3:(1)
+瞬間視界
+
+howmany entities : 42
+howmany clusters : 4
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 3
+deleted 1entities.

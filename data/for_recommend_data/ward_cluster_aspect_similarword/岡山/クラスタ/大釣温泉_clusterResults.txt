@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大釣温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+こと, 参考, 時間, 感じ, 余裕
+cluster1:(2)
+川, 雨
+cluster2:(7)
+夫, 写真, 笑顔, 親戚, バイキング, 食事, 集まり
+cluster3:(6)
+時期, 窓, 紅葉, 季節, 建物, 景色
+cluster4:(1)
+愛想
+cluster5:(1)
+津山
+cluster6:(9)
+奥津方面, 日帰り湯, 湯船, 風呂, 大釣温泉, 脱衣室, 温泉, お湯, 奥津温泉郷
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 4entities.

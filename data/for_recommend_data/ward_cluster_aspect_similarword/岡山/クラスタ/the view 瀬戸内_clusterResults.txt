@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:the view 瀬戸内>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+海老, 魚, 美星牛, 白子, 鯛, 魚料理
+cluster1:(7)
+斜め, 絨毯, シミ, 皮, パイ, 壁, 床
+cluster2:(2)
+染み抜き, 支払い
+cluster3:(13)
+メイン, コース, 茶碗蒸し, 我が家, スタッフ, オードブル, クーポン, ポイント, デザート, すべて, パリパリ, ホテル, ランチ
+cluster4:(3)
+夫, 近く, 今回
+cluster5:(5)
+味, 店, 食事, 料理, 前菜
+cluster6:(2)
+ゴミ, 田舎
+cluster7:(4)
+季節, 気分, 絵, 景色
+cluster8:(2)
+ランチ予約, 予約
+cluster9:(2)
+満足, 感動
+cluster10:(7)
+コース内容, こと, 方, 点, もの, 感じ, 気
+cluster11:(3)
+記載, 美味しさ, 利用
+cluster12:(1)
+可
+cluster13:(1)
+しおソース
+
+howmany entities : 58
+howmany clusters : 14
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 8
+deleted 10entities.

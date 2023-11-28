@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山本農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+友人, 馴染み, 店員, 方, 場所, 斜め, 女性, 当たったみかん, 時間, 靴, ビタミン, 土産, 坂, 笑, 体, 受付, みかん, タクシー, 取り方, 木, 上, みかん全て, 子ども, 違い, ウエットテッシュ
+cluster1:(7)
+甘み, みかん園, 姉親子, 味, 直売店, みかん狩り, 農園
+cluster2:(1)
+元離れ小島
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 2
+deleted 1entities.

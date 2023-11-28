@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:月と花 Japanese tea ceremony salon>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+軽食, 茶道, 菓子, 地酒, 味, 茶会, 点心, 食事, 酒, 料理, 茶室, 抹茶
+cluster1:(2)
+季節限定, 季節
+cluster2:(4)
+最後, 手作り, 日本, 和菓子
+cluster3:(2)
+先生, 話
+cluster4:(6)
+場所, 時間, 経験, 感じ, 説明, 意味
+cluster5:(1)
+量
+cluster6:(1)
+地図
+cluster7:(1)
+所作
+cluster8:(1)
+女性一人
+
+howmany entities : 30
+howmany clusters : 9
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 8entities.

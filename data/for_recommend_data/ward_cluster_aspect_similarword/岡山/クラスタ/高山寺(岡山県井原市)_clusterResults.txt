@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高山寺(岡山県井原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+行基菩薩, 行基
+cluster1:(3)
+境内, 寺, 灯篭
+cluster2:(2)
+農家, 信者
+cluster3:(2)
+紅葉, 季節
+cluster4:(2)
+見た目, 雰囲気
+cluster5:(2)
+天然記念物, 入り口
+cluster6:(1)
+もの
+cluster7:(1)
+人
+cluster8:(1)
+中
+cluster9:(1)
+高山寺
+cluster10:(1)
+付近
+cluster11:(1)
+山
+cluster12:(1)
+国
+cluster13:(1)
+看板
+cluster14:(1)
+温室
+cluster15:(1)
+もっこく
+
+howmany entities : 23
+howmany clusters : 16
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 20entities.

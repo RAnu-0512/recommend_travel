@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北庄の棚田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+道路, 棚田, 景観
+cluster1:(10)
+北海道, こと, 田んぼ, 規模, 場所, 近く, 奥行き, 日本, 池, ゴールデンウィーク
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

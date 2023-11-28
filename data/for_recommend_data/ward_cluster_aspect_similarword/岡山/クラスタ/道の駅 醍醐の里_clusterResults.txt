@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 醍醐の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(44)
+ボール, 道, レストラン, 顔, 買い物, 陶器, 休憩, 方, ミニサイズ, 旅館, 中央, パーキング, 車, トイレ, 焼き, 親子, 落合, 機会, 地元, 駅, 土産, モニュメント, 張り紙, 羊羹, 名前, 禁止, お土産物, 備前焼, 途中, 醍醐ラーメン, ボール遊び, 気, 妻, 木, 店, ドライブ, 事, 付近, 魚屋, 雛人形, パン, 他, 商品, 桜
+cluster1:(6)
+野菜販売所, 営業曜日, 野菜, 果物, 温泉地, 野菜コーナー
+
+howmany entities : 50
+howmany clusters : 2
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 2
+deleted 0entities.

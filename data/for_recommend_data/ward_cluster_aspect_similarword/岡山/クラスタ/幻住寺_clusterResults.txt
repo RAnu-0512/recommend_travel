@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:幻住寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+花, 寺, 仁王門, 後醍醐, サツキ
+cluster1:(2)
+天皇, 皐月
+cluster2:(3)
+耳, 守り, 音色
+cluster3:(3)
+幻住寺, 石段 両脇, 道了尊
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 2entities.

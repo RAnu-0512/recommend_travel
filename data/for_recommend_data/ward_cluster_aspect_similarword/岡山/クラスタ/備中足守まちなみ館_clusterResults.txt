@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備中足守まちなみ館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岡山, 足守
+cluster1:(2)
+観光, 観光案内
+cluster2:(2)
+展示, 説明
+cluster3:(7)
+ボランティア, 周辺, 歴史, 写真, 町, 城下町, 建物
+cluster4:(2)
+城郭, 商家
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 8entities.

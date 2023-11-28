@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:落合総合公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+形, お子様連れファミリー, 中国自動車道, ハイランドおちあい, モチーフ, 花, 車, 存分, 園内, テーマ, スポーツ, 昆虫, グランド, スポット, 施設, 近く, 所, 遊具, サブアリーナ, 公園, ファミリー, 運動公園, 体育館, 紫陽花, 練習, 試合, メインアリーナ, スポーツ施設
+cluster1:(2)
+落合IC, 湯原・勝山
+cluster2:(3)
+梅・桜, 白梅総合体育館, 芝生斜面
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アイビー学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示即売, 混打綿室
+cluster1:(2)
+明治22, 明治
+cluster2:(13)
+中, デニム, 倉敷紡績, 時代, レトロ, イベント, 写真, もの, アイビー, 魅力, 雰囲気, アイビースクエア, ホテル
+cluster3:(5)
+倉敷紡績所, 展示, 施設, 外観, 建物
+cluster4:(1)
+創業
+cluster5:(1)
+倉敷
+cluster6:(1)
+ツタ
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 7entities.

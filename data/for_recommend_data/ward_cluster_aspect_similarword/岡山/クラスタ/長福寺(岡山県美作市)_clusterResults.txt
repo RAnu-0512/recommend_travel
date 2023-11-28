@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長福寺(岡山県美作市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+神社, お寺めぐり, 寺院建築, 建築, 境内, 寺, 仏閣, 紅葉, 観光, 参拝
+cluster1:(8)
+側, 長福寺, 時代, 歴史, 写真, 国, 積み重ね, 気持ち
+cluster2:(7)
+風情, こと, もの, 感じ, 魅力, 気, 印象
+cluster3:(4)
+朱色, 青空, 緑, 色
+cluster4:(2)
+塔, 堂
+cluster5:(2)
+鎌倉, 三重
+cluster6:(1)
+朱塗り
+
+howmany entities : 34
+howmany clusters : 7
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 4
+deleted 5entities.

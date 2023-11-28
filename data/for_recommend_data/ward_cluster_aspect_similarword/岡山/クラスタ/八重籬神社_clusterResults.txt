@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八重籬神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+板倉勝, 板倉公, 板倉
+cluster1:(3)
+農耕, 農民, 労苦
+cluster2:(13)
+多数, 神社, 歴代, 最北端, 左手, 石碑, 境内, 城主, 階段, 市, 文化財, 神, 国道
+cluster3:(1)
+臥牛亭
+cluster4:(1)
+藤の胴の太鼓
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 2entities.

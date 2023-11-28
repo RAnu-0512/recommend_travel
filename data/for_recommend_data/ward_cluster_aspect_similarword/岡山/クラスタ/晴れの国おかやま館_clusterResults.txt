@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:晴れの国おかやま館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岡山, 岡山後楽園
+cluster1:(2)
+天気, 晴れ
+cluster2:(7)
+中, 予定, 方, 種類, 大半, もの, 国
+cluster3:(3)
+問い合わせ, メール, しびれ
+cluster4:(2)
+土産物, 手土産
+cluster5:(1)
+備前焼
+cluster6:(1)
+友人
+cluster7:(1)
+文章
+cluster8:(1)
+詫び
+cluster9:(9)
+御土産, 試食, 店舗, 飲食, 食品, 土産, 店, 名物, 帰り
+cluster10:(3)
+名産品, 国おかやま館, 工芸品
+
+howmany entities : 32
+howmany clusters : 11
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 10entities.

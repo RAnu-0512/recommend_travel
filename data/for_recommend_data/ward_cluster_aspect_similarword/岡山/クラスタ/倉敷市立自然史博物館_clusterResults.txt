@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷市立自然史博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+ナウマンゾウ, 世界, 植物, こと, 水槽, 自然, 市立, 数, 親子, マンモス, 興味, 動物, ワークショップ, 施設, 岡山, 息子, エリア, 図書館, 迫力, 反対側, 夏休み, 子供, 多く, 倉敷, 入口, 友人曰く, 博物館, 子ども, 入り口, 美術館, 他
+cluster1:(2)
+模型, 復元模型
+cluster2:(3)
+展示室, 展示, 展示資料
+cluster3:(7)
+水生生物, 昆虫, 標本, 昆虫コレクション, 化石, 剥製, 虫
+
+howmany entities : 43
+howmany clusters : 4
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:西の湯温泉--------------------
+top3 entities near to cluster0>>
+温泉, 風呂, 湯船
+top3 entities near to cluster2>>
+料理, 食材, 食事
+top3 entities near to cluster4>>
+ホテル, プラン, ランチ
+top3 entities near to cluster5>>
+美味しい, おいしい, すき焼き
+top3 entities near to cluster10>>
+家族, 時間, 両親

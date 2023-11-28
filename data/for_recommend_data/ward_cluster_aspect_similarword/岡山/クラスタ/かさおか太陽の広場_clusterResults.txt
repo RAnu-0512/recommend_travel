@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かさおか太陽の広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人, 子供
+cluster1:(12)
+ピクニック, 貸し出し, コース, ローラースケート, スポット, ウォーキングコース, BMX, おまけ, ウォーキング, MTB, サイクリング, 自転車
+cluster2:(2)
+太陽, 泉
+cluster3:(1)
+笠岡
+cluster4:(11)
+道路沿い, 噴水広場, 施設, 各種スポーツ施設, 市制, 子供連れ, 遊具, 公園, イベント広場, 敷地, 散歩コース
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 5entities.

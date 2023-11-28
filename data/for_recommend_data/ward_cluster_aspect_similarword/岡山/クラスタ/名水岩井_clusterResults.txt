@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名水岩井>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+往復, 山道
+cluster1:(4)
+水, 友人, 両親, 昼
+cluster2:(1)
+調理
+cluster3:(1)
+田舎住まい
+cluster4:(1)
+名水
+cluster5:(1)
+雪歩き
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 6entities.

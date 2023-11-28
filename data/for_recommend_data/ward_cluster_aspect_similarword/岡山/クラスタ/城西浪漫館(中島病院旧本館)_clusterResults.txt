@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城西浪漫館(中島病院旧本館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+館内, 洋館, 外観
+cluster1:(8)
+カフェ, 珈琲, 現代, 国, 病院, 地域, 人, コーヒー
+cluster2:(1)
+コーヒーカン
+cluster3:(1)
+史跡
+cluster4:(1)
+城西まるごと博物館
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 3entities.

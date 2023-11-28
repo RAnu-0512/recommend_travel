@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 みやま公園 みどりの館みやま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+直販コーナー, 産直売り場, 鮮魚売り場, 鮮魚コーナー
+cluster1:(28)
+道, レストラン, こと, 買い物, 大根, 魚, レモン, 白菜, みやま公園, とんがり屋根, 地元, 駅, 地域, もの, コ, 野菜, 洋風, 情報コーナー, 惣菜, 果物, メニュー, 子供, 公園, 平屋, そろ, 建物, 字型, 自販機
+
+howmany entities : 32
+howmany clusters : 2
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 2
+deleted 0entities.

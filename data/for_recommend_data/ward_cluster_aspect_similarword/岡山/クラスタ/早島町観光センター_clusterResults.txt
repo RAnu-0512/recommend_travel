@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:早島町観光センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光案内, 観光案内所
+cluster1:(2)
+岡山, 倉敷
+cluster2:(3)
+特産, 観光, 観光センター
+cluster3:(11)
+中, 情報, 展示, 施設, 駅, 地図, カフェ, コースター, 建物, パンフレット, コーヒー
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 4entities.

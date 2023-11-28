@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:のとろ原キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ソロ, ソロ向き
+cluster1:(9)
+下見, ランタン, ファミキャン, キャンプ, ストーブ, テント, キャンパー, キャンプサイト, 使用
+cluster2:(5)
+施設, 料金, 温泉, 環境, 区画
+cluster3:(3)
+調理器具, 焚火台, 野営地
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 2entities.

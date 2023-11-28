@@ -1,0 +1,58 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大崎八幡宮(岡山県玉野市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+平家水軍, 平清盛の父・忠盛, 平家ゆかり, 備前国司, 四季折々, 平家, 市岐島姫
+cluster1:(19)
+拝殿, 鳥居, 本殿, 与太郎神社, 守神, 参道, 神社, 境内, 石畳, 宮, 社, 石段, 社殿, 階段, 参拝, 狛犬, 宮山, 寺社, 八幡
+cluster2:(3)
+文化財, 平忠盛, 八幡宮
+cluster3:(4)
+思い出, 気持ち, 居心地, 雰囲気
+cluster4:(4)
+見ごたえ, ひとつ, 見どころ, ところ
+cluster5:(5)
+ストレス, 建て替え, スポット, スニーカー, こじんまり
+cluster6:(1)
+パワー
+cluster7:(1)
+ゆかり
+cluster8:(1)
+なごり
+cluster9:(5)
+もの, 感じ, 違い, 理由, こと
+cluster10:(2)
+場所, 時間
+cluster11:(2)
+方, 人
+cluster12:(2)
+上, 中
+cluster13:(3)
+案内, 連れ, 興味
+cluster14:(4)
+説明看板, 古さ, 心安らぐ場所, 生え方
+cluster15:(13)
+バス, 島, 海, 景色, 山, 中腹, 緑, 歴史, 石碑, 自然, 観光, 建物, 火災
+cluster16:(3)
+駅, 徒歩, 距離
+cluster17:(2)
+木, 平成
+cluster18:(2)
+全国, 地元
+cluster19:(3)
+周り, 一帯, 周辺
+cluster20:(1)
+平安
+cluster21:(13)
+潮流, 気分, 水位, 潮風, 傷み, 時期, 風情, 新緑, 侵食, 空気, 紅葉, 季節, 渦
+cluster22:(1)
+大崎歴史コース
+cluster23:(1)
+下車 徒歩
+cluster24:(1)
+神饌幣帛料供進神社
+
+howmany entities : 103
+howmany clusters : 25
+howmany entities (more than3entities) : 86
+howmany clusters (more than3entities) : 13
+deleted 17entities.

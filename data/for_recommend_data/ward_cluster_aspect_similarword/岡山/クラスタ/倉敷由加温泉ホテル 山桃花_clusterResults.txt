@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷由加温泉ホテル 山桃花>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+風呂, 日帰り入浴, 温泉, 天然温泉
+cluster1:(13)
+懐, 自然, 四季それぞれ, 旬, 四季, 近く, セット, 味, JAF, 露天風呂, 倉敷, 気分, 付近
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

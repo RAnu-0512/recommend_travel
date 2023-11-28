@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円応禅師誕生井(寂室元光)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+禅師誕生, 禅師
+cluster1:(3)
+永源寺, スポット, 臨済宗
+cluster2:(2)
+中心, 歴史
+cluster3:(2)
+僧, 開祖
+cluster4:(1)
+井戸
+cluster5:(1)
+偉人
+cluster6:(1)
+勝山
+cluster7:(1)
+指定文化財
+cluster8:(1)
+産湯
+cluster9:(1)
+郷土出身
+cluster10:(1)
+一人
+
+howmany entities : 16
+howmany clusters : 11
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 13entities.

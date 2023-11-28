@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夢二郷土美術館 夢二生家記念館・少年山荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山荘, 分館
+cluster1:(2)
+葡萄, 岡山
+cluster2:(3)
+意, 口, 愛情
+cluster3:(7)
+原点, 屋根, 部屋, 生家, 夢, 家, 庭
+cluster4:(10)
+こと, 場所, 施設, 作品, 絵画, 周辺, 季節, 環境, 資料, 建物
+cluster5:(2)
+母, 姉
+cluster6:(7)
+セット, 中心地, スタッフ, 雰囲気, 居心地, 美術館, 和菓子
+cluster7:(1)
+注意
+cluster8:(2)
+点前, かわいらしい判子
+cluster9:(1)
+スタッフさん達
+
+howmany entities : 37
+howmany clusters : 10
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 10entities.

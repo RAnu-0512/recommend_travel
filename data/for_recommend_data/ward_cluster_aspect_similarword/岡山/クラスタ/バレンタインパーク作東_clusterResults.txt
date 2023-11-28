@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:バレンタインパーク作東>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作東美術館, 作東バレンタインホテル
+cluster1:(4)
+こと, 目的, 感じ, 気
+cluster2:(10)
+レストラン, フレンチレストラン, レイモン・ペイネ, テーマ, ライト, フランス, 雰囲気, ウエディング, カップル, ライトアップ
+cluster3:(3)
+曇り空, 運動公園, 美術館
+cluster4:(1)
+バレンタインパーク
+cluster5:(1)
+セント
+cluster6:(2)
+人, 作品
+cluster7:(7)
+星, 像, 星空, 画家, 恋人, 遺産, 聖地
+cluster8:(13)
+バレンタイン市, 照明, 行政施設, 新市, 建物, 旧町, 施設, 愛の泉, 合併, スポーツ施設, 公園, 敷地, 東バレンタインホテル
+cluster9:(1)
+作東B&G海洋センター
+
+howmany entities : 44
+howmany clusters : 10
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 5
+deleted 7entities.

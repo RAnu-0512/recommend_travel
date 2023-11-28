@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:工房銀>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+リング作り, 焼き, 乾燥, リング見本, 作り
+cluster1:(17)
+シルバーアクセサリー, 世界, リング, シルバーリング, スイーツ, ピカピカ, 思い出, 表, ところ, アドバイス, 仕上がり, 次, デザイン, 色とりどり, リード, ノアクセサリー, スペシャルリング
+cluster2:(8)
+体験, 先生, 奥様, 民家, 店主, 講師, ナビ, 工房
+cluster3:(5)
+会話, 作成, 説明, 案内, 開始
+cluster4:(4)
+こと, 方, 人, もの
+cluster5:(2)
+場所, 時間
+cluster6:(1)
+機会
+cluster7:(1)
+祝い
+cluster8:(3)
+プチ休憩, 作業, 作業席
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 6
+deleted 4entities.

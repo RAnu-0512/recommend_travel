@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芳井歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+昭和, 平成, 昔, 地方
+cluster1:(5)
+展示, 写真, 行事, 資料, 様子
+cluster2:(2)
+土器, 化石
+cluster3:(1)
+芳井地方
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

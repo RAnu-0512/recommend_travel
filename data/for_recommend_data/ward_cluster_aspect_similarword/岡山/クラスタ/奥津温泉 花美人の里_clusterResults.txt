@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥津温泉 花美人の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+ジャグジー風呂, 風呂, 花風呂, 温泉, 温度, お湯, 入浴, 湯
+cluster1:(2)
+津山, 津山旅
+cluster2:(8)
+時間, 近く, 名前, 受付, 途中, 次回, 帰り, 日
+cluster3:(7)
+道, 建物, 部屋, 駅, 施設, 物, 高台
+cluster4:(3)
+疲れ, 笑顔, 脚
+cluster5:(7)
+アイス, ジュース, すべすべ, テーブル, 露天風呂, 博物館, ぶんぶんファクトリー
+cluster6:(2)
+家族, 人
+cluster7:(2)
+息子, 親父
+cluster8:(1)
+大人
+cluster9:(1)
+客
+cluster10:(1)
+イス
+cluster11:(2)
+広さ, 休憩室
+
+howmany entities : 44
+howmany clusters : 12
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 11entities.

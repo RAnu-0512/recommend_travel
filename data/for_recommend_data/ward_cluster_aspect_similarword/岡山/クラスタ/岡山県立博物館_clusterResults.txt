@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山県立博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+昭和, 近代, 歴史, 現在改修, 古代, 歴史博物館
+cluster1:(4)
+正門, 入口, 出口, 門前
+cluster2:(3)
+刀, 華美, 鎧
+cluster3:(4)
+建物, 園内, 施設, 館内
+cluster4:(3)
+オリエント美術館, 博物館, 美術館
+cluster5:(4)
+古文書, 日本刀, 雰囲気, 入り口
+cluster6:(2)
+備前焼, 後楽園
+cluster7:(3)
+記念, 展示, 資料
+cluster8:(13)
+他, 場所, 手, 中心, 時間, もの, 客, 横, 工夫, 隣, 事, 印象, 日本
+cluster9:(4)
+展示室, 博物, 共通券, 出土品
+cluster10:(8)
+備前刀, 県立美術館, 岡山, 県立博物館, 岡山後楽園, 兜や鎧・日本刀, ^)後楽園, 吉備の国岡山
+
+howmany entities : 54
+howmany clusters : 11
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 10
+deleted 2entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アトリエ〜ピピ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+グラス, グラスアート
+cluster1:(3)
+カッター, ナイフ, ハサミ
+cluster2:(2)
+小さめ, 小学生
+cluster3:(6)
+フィルム, Welcome, ハーバリウム, ステンドグラス, デザイン, 雰囲気
+cluster4:(1)
+リボン
+cluster5:(1)
+先生
+cluster6:(1)
+ヘラ
+cluster7:(1)
+薔薇
+cluster8:(2)
+ロゴ, 図案
+cluster9:(4)
+手順, 体験, 道具, 専用
+cluster10:(2)
+所, 気
+cluster11:(3)
+色, 部屋, ステンドグラス風
+cluster12:(1)
+線
+
+howmany entities : 29
+howmany clusters : 13
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 13entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:作山古墳(岡山県総社市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+見学, 散歩
+cluster1:(9)
+前方後円墳, 天皇陵, つくり, イメージ, ハニワ, 山, 国, 立ち入り, 国分寺
+cluster2:(6)
+こと, 近く, 前方, 上, 周り, おじいちゃんのガイド
+cluster3:(2)
+全国, 規模
+cluster4:(2)
+価値, 歴史
+cluster5:(1)
+ピン
+cluster6:(3)
+総社, 史跡, 古墳
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 7entities.

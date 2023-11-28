@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備前福岡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+こと, 場所, 水運, 時代, 人, 地名, 歴史, 街並み, 活躍, 地
+cluster1:(5)
+備前, 室町, 姫路, 福岡, 鎌倉
+cluster2:(3)
+息子・官兵衛, 父, 長男
+cluster3:(3)
+大名, 秀吉, 家康
+cluster4:(4)
+軍師, 吉井川, 関ケ原, 官兵衛
+cluster5:(1)
+職隆
+cluster6:(1)
+九州福岡52
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 2entities.

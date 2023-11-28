@@ -1,0 +1,11 @@
+--------------------similar_words:岡山ドーム--------------------
+top3 entities near to cluster0>>
+催し, 下車, 案内
+top3 entities near to cluster1>>
+交通, 安全
+top3 entities near to cluster2>>
+辺り, あたり
+top3 entities near to cluster3>>
+会社, フリマ, イベント
+top3 entities near to cluster4>>
+駅車, 駅, 駐車

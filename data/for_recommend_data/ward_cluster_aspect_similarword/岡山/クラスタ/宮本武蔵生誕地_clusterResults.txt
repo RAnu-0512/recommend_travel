@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮本武蔵生誕地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+生家, 田舎, 故郷
+cluster1:(13)
+中, こと, 誕生, 場所, 勉強, 人, イメージ, スポット, 近く, 看板, 大河ドラマ, 印象, ドラマ
+cluster2:(2)
+縁, 地
+cluster3:(6)
+人物, 歴史, 物語, 小説, 書, 映画
+cluster4:(2)
+五輪, 播磨
+cluster5:(2)
+生誕地, 聖地訪問
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 6entities.

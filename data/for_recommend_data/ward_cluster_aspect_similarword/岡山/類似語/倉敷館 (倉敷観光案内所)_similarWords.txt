@@ -1,0 +1,9 @@
+--------------------similar_words:倉敷館 (倉敷観光案内所)--------------------
+top3 entities near to cluster0>>
+資料, 情報, 地図
+top3 entities near to cluster2>>
+地元人, 地元
+top3 entities near to cluster4>>
+裏手, トイレ, 入り口
+top3 entities near to cluster5>>
+建物, 景観, 外観

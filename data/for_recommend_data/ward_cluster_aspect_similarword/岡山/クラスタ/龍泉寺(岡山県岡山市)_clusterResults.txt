@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍泉寺(岡山県岡山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+最上の滝, 滝祭り, お滝祭り
+cluster1:(8)
+拝殿, 鳥居, 神社, 初詣, 稲荷, 境内, 本殿, 神社風
+cluster2:(4)
+案内図, 奥ゆかしさ, 美しさ, 掘り方
+cluster3:(5)
+奈良, 竜王, 八大, 龍, 岡山
+cluster4:(2)
+自然崇拝, <神様
+cluster5:(5)
+こと, もの, 感じ, 呼び名だ, 手段
+cluster6:(4)
+口, 跡, 足, クセ
+cluster7:(9)
+場所, 自然, 北部, 時代, 水, 歴史, 施設, 古代, 環境
+cluster8:(2)
+信仰, 神
+cluster9:(2)
+体験, 祭り
+cluster10:(7)
+中, 善男善女, 人, イベント, カーブ, 雰囲気, 入り口
+cluster11:(5)
+龍泉寺, 日蓮宗, 奥の院, 雨乞い, 吉備路
+cluster12:(2)
+石, 文字
+cluster13:(7)
+寺院, 教派, 寺, 斜面, 名所, 紅葉, 滝
+
+howmany entities : 65
+howmany clusters : 14
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 10
+deleted 8entities.

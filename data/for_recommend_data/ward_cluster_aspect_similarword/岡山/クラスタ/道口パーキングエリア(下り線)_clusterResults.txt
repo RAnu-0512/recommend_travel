@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道口パーキングエリア(下り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+フロント, アストンマーチン
+cluster1:(1)
+ゴルフ
+cluster2:(1)
+マスク
+cluster3:(1)
+特徴
+cluster4:(1)
+黒
+cluster5:(1)
+朝食
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

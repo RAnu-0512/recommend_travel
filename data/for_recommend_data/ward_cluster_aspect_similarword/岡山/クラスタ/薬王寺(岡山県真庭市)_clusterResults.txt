@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:薬王寺(岡山県真庭市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+風格, 厄除け, 花, 背, 下, 初期, 見た目, 絨毯, 満載, 秋, 葉, お参り, 門, 朝鮮半島, 銀杏, 薬師如来, 葉っぱ, 薬王寺, 木, 枝垂桜, 手入れ, 紅葉, 緑, 雰囲気, 飽き, 辺り, イチョウ, 佐甚五郎
+cluster1:(8)
+古代寺院, 歴史, 古代, 彫刻, 指定文化財, 国道, 庭園, 建物
+cluster2:(9)
+古刹, 山門, 真言宗派, 境内, 寺, 伽藍, 本堂, 本尊, 古寺
+
+howmany entities : 45
+howmany clusters : 3
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 3
+deleted 0entities.

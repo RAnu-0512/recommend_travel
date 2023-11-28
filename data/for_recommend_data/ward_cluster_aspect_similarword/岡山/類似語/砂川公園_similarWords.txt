@@ -1,0 +1,9 @@
+--------------------similar_words:砂川公園--------------------
+top3 entities near to cluster0>>
+予約, 利用, 購入
+top3 entities near to cluster1>>
+敷地, 公園
+top3 entities near to cluster5>>
+子供, 子ども, 家族
+top3 entities near to cluster7>>
+薪, 炭, 焚き火

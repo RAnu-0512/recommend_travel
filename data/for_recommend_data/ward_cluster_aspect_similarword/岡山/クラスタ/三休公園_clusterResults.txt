@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三休公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+みち亭あさひ, 三休公園
+cluster1:(21)
+家族, 花見, 休憩, 場所, 花, 鯉のぼり, 園内, 施設, 弁当, 時期, 山, 名所巡り, 感じ, 桜見, 公園, 村, 気分, 観光, ツツジ, 景色, 桜
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 1
+deleted 2entities.

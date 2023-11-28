@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渋川公園藤棚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+渋川公園, 渋川
+cluster1:(10)
+藤棚, 海, 海岸, 遊具, 天気, 公園, 海水浴客, 砂浜, 気候, 散歩
+cluster2:(22)
+家族, 夏, シーズン, 祖母, 子連れ, トンネル, 人, イメージ, スポット, 日差し, ところ, 海水浴シーズン, 瀬戸内海, 子供, 海水浴, ゴールデンウィーク, 水族館, 次回, 気持ち, 子ども, ホテル, 日本
+cluster3:(5)
+下, 近く, 横, 隣, そば
+cluster4:(2)
+催し, 祭り
+cluster5:(2)
+感じ, 眺め
+cluster6:(7)
+道, 場所, 車, 種類, バーベキュー場, 時期, 季節
+cluster7:(1)
+全長
+cluster8:(10)
+紫色, 花, 紫, 藤, 蜂, 香り, ふじ, フジ, 満開, 心
+cluster9:(1)
+日本有数
+
+howmany entities : 62
+howmany clusters : 10
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 5
+deleted 8entities.

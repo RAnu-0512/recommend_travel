@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キャットランド 猫カフェルアナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+猫達, 猫
+cluster1:(3)
+店長, 内装, 店内
+cluster2:(2)
+子供, 子
+cluster3:(6)
+方, 毛並み, コース, スタッフ, ルール, 小学生
+cluster4:(1)
+時間
+cluster5:(2)
+愛情, 匂い
+cluster6:(2)
+待合スペース, 長居
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 9entities.

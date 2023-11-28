@@ -1,0 +1,11 @@
+--------------------similar_words:のとろ温泉 天空の湯--------------------
+top3 entities near to cluster0>>
+温泉, 湯, 銭湯
+top3 entities near to cluster1>>
+天空, ドキドキ・ワクワク
+top3 entities near to cluster4>>
+露天風呂, 森林浴, 日替わり
+top3 entities near to cluster6>>
+日, 月, 年
+top3 entities near to cluster8>>
+景色, 山並み, 眺望

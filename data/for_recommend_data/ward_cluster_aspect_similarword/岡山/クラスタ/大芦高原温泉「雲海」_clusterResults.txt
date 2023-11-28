@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大芦高原温泉「雲海」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+カレー, コテージ, イベント, 山, アクセス, プライベート, バンガロー, バングラディシュ, プール, アルカリ性, プリン
+cluster1:(7)
+場所, つくり時間, 地元, 写真, もの, 次, 仕事
+cluster2:(2)
+豚汁, 雲海
+cluster3:(1)
+標高
+cluster4:(6)
+泉質, ^^)温泉, 風呂, 浴場, アルカリ温泉, 温泉
+
+howmany entities : 27
+howmany clusters : 5
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 3entities.

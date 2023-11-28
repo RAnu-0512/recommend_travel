@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石原果樹園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ブドウ, ぶどう
+cluster1:(1)
+中心
+cluster2:(1)
+購入
+cluster3:(1)
+試食
+cluster4:(1)
+梨
+cluster5:(1)
+直売店
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

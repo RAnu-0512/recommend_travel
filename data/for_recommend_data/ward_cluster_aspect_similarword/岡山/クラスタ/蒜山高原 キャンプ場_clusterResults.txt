@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒜山高原 キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+スプレー, 冷蔵庫, マット, キャンプ, 近く, プラン, ブッフェ, ホテル, バイク, 手ぶら
+cluster1:(3)
+家族, 人, 子供
+cluster2:(2)
+こと, 話
+cluster3:(5)
+芝生, 山キャンプ, ブヨ, 紅葉, 温泉
+cluster4:(1)
+蒜山
+cluster5:(1)
+調理所
+cluster6:(1)
+入浴券つき
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 5entities.

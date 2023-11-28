@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:頼久寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+名勝, 借景, 頼久寺庭園, 石組, 庭園
+cluster1:(3)
+お庭, 剪定, 庭
+cluster2:(45)
+中, 価値, 他, 風格, 参道, 鐘, 趣, 場所, 城下町, 廊下, 種々, 安国寺, 縁, アナウンス, 人, 初期, 時間, 部屋, 畳, 近く, 縁側, 名前, 山, 境内, 余裕, 京都, 寺, 説明, 枯山水, 紅葉, 本堂, 頼久寺, 諸国, 季節, 寺門, 干支, 雰囲気, 環境, 周り, 心, 入り口, 名, 建物, 由来, 亀島
+cluster3:(1)
+作蓬莱式枯山水庭園
+
+howmany entities : 54
+howmany clusters : 4
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 3
+deleted 1entities.

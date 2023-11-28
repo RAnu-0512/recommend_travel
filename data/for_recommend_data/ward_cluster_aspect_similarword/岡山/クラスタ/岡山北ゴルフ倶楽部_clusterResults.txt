@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山北ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+精度, 距離, 傾斜
+cluster1:(11)
+バンカー, アプローチ, 頭, 印象, 機会, 全体, グリーン, ショートホール, グリーン周り, 客, コース
+cluster2:(1)
+友の会割引券
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

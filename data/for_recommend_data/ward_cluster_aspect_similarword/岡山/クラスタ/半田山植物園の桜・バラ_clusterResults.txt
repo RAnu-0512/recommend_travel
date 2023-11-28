@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:半田山植物園の桜・バラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+花見, 満開, 夜桜, 桜
+cluster1:(10)
+電車, 植物, 花, バス, 弁当, 山, バラ, 公園, 酒, 景色
+cluster2:(14)
+こと, 方, 場所, オススメ, 人, スポット, 服装, 赤ちゃん連れ, 時期, ライト, ベビーカー, スロープ, ピンク色, 季節
+cluster3:(2)
+駐車料金, 斜面沿い
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 2entities.

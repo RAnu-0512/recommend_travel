@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たまの温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+万全, 対策
+cluster1:(10)
+日帰り, 終わり, 施設, 海, 露天風呂, バイキング, 食事, マッサージ, サウナ, ホテル
+cluster2:(4)
+人, 大人, 割, 目
+cluster3:(4)
+こと, 基本, 日々, 設定
+cluster4:(4)
+疲れ, 体, 気分, 心
+cluster5:(5)
+価値, 値段, 地下, 清潔, 裏手
+cluster6:(1)
+四国
+cluster7:(12)
+日帰り入浴客, 風呂, たまの温泉, 日帰り入浴, 旅行, 宿泊者, 訪問, 温泉, お湯, 宿泊, ピアノ演奏, 湯
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 6
+deleted 3entities.

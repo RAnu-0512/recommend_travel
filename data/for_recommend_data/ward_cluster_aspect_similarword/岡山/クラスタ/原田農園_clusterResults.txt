@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:原田農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+原田農園, 農園主, 農園
+cluster1:(13)
+口コミ, シャイン, スーパー, マスカット, アレキサンドリア, 思い出, 写真, 親孝行, 葉っぱ, ぶどう, シャインマスカット, マスカットオブアレキサンドリア, レクチャー
+cluster2:(4)
+家族, 娘, 主人, 母親
+cluster3:(2)
+時間, 話
+cluster4:(2)
+道中, 帰り
+cluster5:(1)
+岡山
+cluster6:(6)
+試食, 育成, 粒, 皮, 収穫, 張り
+cluster7:(7)
+甘み, 価格, 方, 値段, 相場, 見分け方, 人柄
+cluster8:(6)
+大きさ, ぶどう狩り, 子供連れ, 狩り, 子ども連れ, 食べ比べ
+
+howmany entities : 44
+howmany clusters : 9
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 6
+deleted 5entities.

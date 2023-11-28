@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備前焼 陶吉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+周辺, 地区
+cluster1:(2)
+備前焼, 窯
+cluster2:(1)
+陶吉
+cluster3:(1)
+JR赤穂線
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

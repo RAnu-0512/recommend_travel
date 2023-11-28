@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:化生寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高田, 越後高田, 美作高田
+cluster1:(2)
+高僧玄翁, 玄翁和尚
+cluster2:(2)
+時代末期, 乱にもかかわり
+cluster3:(2)
+小松天皇, 上皇
+cluster4:(11)
+美女, こと, 毒, 説明版, 正体, 伝説, 誘惑, 感じ, 禍い, 重病, 由来
+cluster5:(16)
+石, 狐, 勝山, 近衛天皇, 豊後高田, 鳥居, 奥, 吉備真備, 那須, 平安, 玉雲宮, 船, 遣唐使, 現地, 玉藻, 日本
+cluster6:(7)
+寺院, 調伏, 境内, 和尚, 寺, 本堂, 殺生
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 4
+deleted 6entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備前焼 蕃山窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+窯入れ, ガス窯, 窯
+cluster1:(9)
+家族, 道, 備前, 胡麻, 夫婦, 旗, 粘土, 茶碗, 孫
+cluster2:(6)
+時間変更, 時間, 到着, 待ち, 参加, 予約
+cluster3:(8)
+他, イメージ, フォロー, アドバイス, 仕上がり, 備前焼, 桟切, おちょこ
+cluster4:(3)
+こと, 場所, 仕方
+cluster5:(2)
+作品, 物
+cluster6:(1)
+注意
+cluster7:(6)
+先生, 興味, 指導, 調子, 世話, 要望
+cluster8:(9)
+体験, ひねり体験, 焼き上がり, 追加料金, 体験日, 焼き方, プラス料金, 教え方, 陶芸体験
+
+howmany entities : 47
+howmany clusters : 9
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 7
+deleted 3entities.

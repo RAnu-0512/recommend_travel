@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清音ふるさとふれあい広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水鳥, 白鳥
+cluster1:(7)
+池, ところ, 拠点, テニス, 公園, アスレチック, 人
+cluster2:(1)
+子供連れ
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 3entities.

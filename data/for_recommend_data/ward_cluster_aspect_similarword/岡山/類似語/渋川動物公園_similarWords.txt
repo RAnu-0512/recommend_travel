@@ -1,0 +1,29 @@
+--------------------similar_words:渋川動物公園--------------------
+top3 entities near to cluster0>>
+動物, 猛獣, 人間
+top3 entities near to cluster1>>
+散歩, 付き添い
+top3 entities near to cluster3>>
+柵門, 柵, 檻
+top3 entities near to cluster6>>
+景色, 斜面, 山
+top3 entities near to cluster7>>
+許道, 許
+top3 entities near to cluster8>>
+入場, 料金, 入館
+top3 entities near to cluster10>>
+猫, ウサギ, ネコ
+top3 entities near to cluster13>>
+距離, 時間, 日数
+top3 entities near to cluster15>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster16>>
+ツンデレ, かわいらしい, 可愛らしい
+top3 entities near to cluster17>>
+コーナー, イメージ, システム
+top3 entities near to cluster19>>
+入り口, トイレ, 小さめ
+top3 entities near to cluster20>>
+ふれあい, 自然体, 手作り
+top3 entities near to cluster21>>
+ウサギ, タヌキ, インコ

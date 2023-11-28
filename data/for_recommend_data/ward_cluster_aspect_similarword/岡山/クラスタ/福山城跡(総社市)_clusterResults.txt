@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福山城跡(総社市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+頂上, 階段, 登山
+cluster1:(12)
+車, 下, 人, ほとんど, 歴史, スポット, 暮らし, 人々, トレッキング, 国, ハイキング, 城
+cluster2:(1)
+史跡
+cluster3:(1)
+清音
+cluster4:(1)
+説明板
+cluster5:(1)
+歩かず城跡
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 4entities.

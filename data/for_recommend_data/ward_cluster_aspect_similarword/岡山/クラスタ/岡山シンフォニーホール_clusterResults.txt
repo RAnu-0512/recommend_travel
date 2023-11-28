@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山シンフォニーホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+目印, クラッシック専門
+cluster1:(4)
+独特, 外観, 感じ, 建物
+cluster2:(14)
+後楽園近く, イベント, クラシック, コンサート, 駅, 近く, 岡山, コンサートホール, 周辺, イベントホール, ホール, 観光, 後楽園, ホテル
+cluster3:(1)
+円筒状
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 3entities.

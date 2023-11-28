@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:WASHU BLUE RESORT風籠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+はちみつパール風呂, 日帰り入浴, 内湯
+cluster1:(19)
+日帰り, コース, バス, 部屋, 児島, ふもと, 瀬戸大橋, 瀬戸内海, 露天風呂, 鷲羽山, 屋上, 料理, 連休, 温泉, サウナ, アトラクション, ホテル, 人気, 景色
+cluster2:(1)
+下津井循環バス
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 1entities.

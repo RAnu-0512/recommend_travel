@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新見市観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伯備線, 列車
+cluster1:(3)
+時間, 町, 駅
+cluster2:(3)
+北上, 米子行, 新見
+cluster3:(1)
+観光案内所
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:満天の湯 温泉家くらしき--------------------
+top3 entities near to cluster0>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster1>>
+常連, 年配, 年輩
+top3 entities near to cluster2>>
+サウナ, 飲み物, 椅子

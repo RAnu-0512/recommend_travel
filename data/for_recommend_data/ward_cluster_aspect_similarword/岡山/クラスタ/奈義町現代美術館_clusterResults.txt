@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奈義町現代美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+展示作品, 常設作品, 常設展示, 展示室, 展示
+cluster1:(17)
+現代美術館, 石庭, 開館, 美術館巡り, 借景, 作品, アート作品, 建築, 設計, 入場, 美術, 美術品, 円筒, 写真, 外観, 建築環境, 建物
+cluster2:(10)
+田舎, 高齢, 客, 雨, 人口, 両親, 携帯, 町民, 町, 子供
+cluster3:(4)
+大分, 大地, 太陽, 磯崎
+cluster4:(2)
+シフィック美術館, 美術館
+cluster5:(9)
+待ち時間, アーティスト, テーマ, コントラスト, アクセス, 先駆け, それぞれ, ところ, すべて
+cluster6:(3)
+図書館, イタリアンレストラン, 紙芝居
+cluster7:(2)
+パズル, アート
+cluster8:(1)
+那岐山
+cluster9:(13)
+場所, もの, 近く, 中, 規模, 方, 数, 目玉, 月, 順番, 一体, 人, 人気
+cluster10:(4)
+入り方, 感謝, 勇気, 興味
+cluster11:(2)
+奈義, 秀峰那岐山
+
+howmany entities : 72
+howmany clusters : 12
+howmany entities (more than3entities) : 65
+howmany clusters (more than3entities) : 8
+deleted 7entities.

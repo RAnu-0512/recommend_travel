@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いかしの舎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+風情, 素材, 建物
+cluster1:(4)
+量, 質, 気, 内容
+cluster2:(2)
+ウニ, タコ
+cluster3:(10)
+あわび, ランチ, ガトーショコラ, 茶わん, デザートプレート, ステーキ, アナゴ, 下津井, ウナギ, 昼
+cluster4:(1)
+笠岡
+cluster5:(5)
+刺身, バイラアイスクリーム・桃, 前菜, 法事後, 会席
+
+howmany entities : 25
+howmany clusters : 6
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 3entities.

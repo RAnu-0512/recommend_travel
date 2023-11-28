@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なぎビカリアミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+発掘, 発掘体験, 化石ほり, 化石, 化石探し, 化石掘り
+cluster1:(29)
+土, 確率, 方, 奈義, 体験, 勉強, 人, 中学校, 親子, 興味, 砂岩, 施設, 歴史, 貝殻, 地理, ビカリア, 教材, 番組, 訪問, 子供, 貝, 解説, 教科書, 博物館, 違い, ノジュール, 地質, 岩, ブラタモリ
+
+howmany entities : 35
+howmany clusters : 2
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 2
+deleted 0entities.

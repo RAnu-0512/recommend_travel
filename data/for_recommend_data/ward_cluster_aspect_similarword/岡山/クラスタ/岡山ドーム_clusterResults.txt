@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山ドーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+催し, 体験, 下車, イベント案内
+cluster1:(3)
+安全フォーラム, 交通, 便
+cluster2:(3)
+前, 目, 辺り
+cluster3:(8)
+ドーム, フリマ, イベント, 会社, コンビニ, フットサル, ウォーキング, 北長瀬
+cluster4:(6)
+電車, 駐車, 車, 大型ドーム, 駅, 周辺
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 0entities.

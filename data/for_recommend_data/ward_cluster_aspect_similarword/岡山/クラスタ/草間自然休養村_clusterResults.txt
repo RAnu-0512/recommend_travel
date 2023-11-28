@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:草間自然休養村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+家族, 高梁川, りんご, シーズン, 写真, 時期, 車, やりんご
+cluster1:(2)
+桃, 草
+cluster2:(1)
+台地
+cluster3:(1)
+清流高梁川
+cluster4:(1)
+そば打ち
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 5entities.

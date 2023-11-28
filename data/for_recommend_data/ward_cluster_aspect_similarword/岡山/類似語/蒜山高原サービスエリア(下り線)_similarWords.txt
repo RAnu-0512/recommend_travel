@@ -1,0 +1,13 @@
+--------------------similar_words:蒜山高原サービスエリア(下り線)--------------------
+top3 entities near to cluster2>>
+牛乳, ミルク, 乳
+top3 entities near to cluster3>>
+運転, 掃除, 洗車
+top3 entities near to cluster4>>
+景色, 天気, 眺め
+top3 entities near to cluster6>>
+屋台, 神社, 境内
+top3 entities near to cluster7>>
+土産, 試食
+top3 entities near to cluster8>>
+休憩, 食券, 昼食

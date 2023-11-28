@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷グリーンファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+苔, 苔丸
+cluster1:(19)
+植物, 土, 前, 水分, 夫婦, 時間, 点, 種類, 部屋, 機会, 性質, 感じ, メンテナンス, 質感, 目, 説明, 手入れ, 違い, 水やり
+cluster2:(2)
+体験, 体験検索
+cluster3:(2)
+屋内, 屋外向き
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 1
+deleted 6entities.

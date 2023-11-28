@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山天文博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展示室, 展示, 見学
+cluster1:(2)
+星空, 天文博物館
+cluster2:(14)
+こと, 夫, 場所, 車, 望遠鏡, 岡山, 赤ちゃん, チケット, プラネタリウム, 発想, 女性スタッフ, 博物館, 小学生, 怒り
+cluster3:(1)
+幼稚園児
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 3entities.

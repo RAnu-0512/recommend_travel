@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深山イギリス庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+みやま公園, 庭園
+cluster1:(12)
+中, バラ, 施設, 色とりどり, 門, イギリス, 土産, ところ, 花, 中心, 手入れ, 季節
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

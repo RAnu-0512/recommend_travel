@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名勝豪渓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+渓谷沿い, 川沿い
+cluster1:(17)
+赤色, 紅葉シーズン, 川, 小鳥, 風, 奇岩, 渓谷, 新緑, 名所, 雨, 倉敷, 紅葉, 緑, 鶯, 若葉, 山モミジ, 岩
+cluster2:(2)
+混雑, 行列
+cluster3:(3)
+解消, 転換, 気分
+cluster4:(2)
+眺め, 景色
+cluster5:(3)
+声, 足, 心
+cluster6:(9)
+ストレス, 広葉樹, 一面, トイレ, ところ, コントラスト, 弥高山, 気持ち, フィトンチッド
+cluster7:(2)
+感じ, 気
+cluster8:(2)
+方, 人
+cluster9:(1)
+流れ
+cluster10:(5)
+道, 場所, 車, 時期, 季節
+cluster11:(1)
+美しさ
+
+howmany entities : 49
+howmany clusters : 12
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 5
+deleted 12entities.

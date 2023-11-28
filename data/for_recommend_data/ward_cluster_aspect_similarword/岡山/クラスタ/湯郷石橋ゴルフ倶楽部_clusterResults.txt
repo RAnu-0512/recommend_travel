@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯郷石橋ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温泉行き, 温泉
+cluster1:(5)
+値段, 定食, ゴルフ料金, 食事, 昼
+cluster2:(5)
+スタート, アップダウン, オススメ, コース, 手作り
+cluster3:(2)
+スコア, プレー
+cluster4:(2)
+方, 感じ
+cluster5:(1)
+距離
+cluster6:(1)
+好感
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 8entities.

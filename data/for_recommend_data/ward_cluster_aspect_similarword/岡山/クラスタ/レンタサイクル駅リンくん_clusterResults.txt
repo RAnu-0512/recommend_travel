@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レンタサイクル駅リンくん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+タバコ, 男性, 携帯, 自転車
+cluster1:(2)
+自覚, 対応
+cluster2:(1)
+詰所
+cluster3:(1)
+携帯触り
+cluster4:(1)
+加古川の駅りんくん
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉井城山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天守, 模造天守
+cluster1:(9)
+花見, 坂道, 天守閣, 散歩コース, 城, 景色, 桜, 頂上, 山
+cluster2:(1)
+片桐池田
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 3entities.

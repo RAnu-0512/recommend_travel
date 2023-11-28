@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西の屋グループ 美作店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+もも狩り体験, もも狩り
+cluster1:(3)
+ぶどう狩り, いちご狩り, 桃狩り
+cluster2:(19)
+すきしゃぶ, 気温, 方々, 娘, 湯温泉, 親, 時期, 雨, 子供, ぶどう, プラン, 食事, 昼食, 桃, 農園, 温泉, 楽しみ膳, 肉, ランチ
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁市郷土資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+手回し式, 足踏み式
+cluster1:(2)
+方, 人
+cluster2:(5)
+ガイド, 町並み, オルガン, レンタサイクル, スポット
+cluster3:(3)
+蓄音機, 柱時計, 振り子
+cluster4:(3)
+歴史, 時代, 道具
+cluster5:(1)
+高梁
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 5entities.

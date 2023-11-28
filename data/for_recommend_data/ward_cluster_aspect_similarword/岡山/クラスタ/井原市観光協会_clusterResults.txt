@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井原市観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+多数, パンフレット, モニター, ロビー
+cluster1:(3)
+左側, 入口, 建物
+cluster2:(4)
+振興センター, 観光パンフレット, 井原観光, 観光
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 0entities.

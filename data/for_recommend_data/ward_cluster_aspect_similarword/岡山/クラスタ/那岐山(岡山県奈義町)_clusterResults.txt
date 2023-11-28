@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:那岐山(岡山県奈義町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+那岐, 大神岩, 滝巡り, 岩
+cluster1:(2)
+声, 音
+cluster2:(9)
+マップ, 場所, コース, 日差し, 途中, 那岐山, 上, ヒグラシ, せせらぎ
+cluster3:(2)
+自然, 水
+cluster4:(1)
+足
+cluster5:(1)
+岡山
+cluster6:(14)
+木々, 茶屋, 気温, 県境, 駅, 山, 散策, 境, 峠, 町, 山麓, 山頂, 景色, 登山
+cluster7:(1)
+雄大さ
+cluster8:(1)
+那岐山麓山
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 8entities.

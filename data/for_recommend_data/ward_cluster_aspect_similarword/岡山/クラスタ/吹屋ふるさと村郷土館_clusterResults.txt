@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吹屋ふるさと村郷土館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(42)
+住居部分, こと, 写真右, 商家, 町家, 富豪, 郷土館, 顔料ベンガラ, 見所, オススメ, 人, 支配人, 興味, 片山, 商屋, 展示, 財, 歴史, 歴史価値, 内部, 細かさ, 奥, 土地, 土間, ベンガラ製造, 国, 明治, 窯, ベンガラ色, 文化財, 向かい, ベンガラ, 家, 左, 雰囲気, 町並み, 真ん中あたり, 邸宅, 構造, 資料, 建物, 商品
+cluster1:(3)
+隠し棚, 片山家, 隠し部屋
+
+howmany entities : 45
+howmany clusters : 2
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 2
+deleted 0entities.

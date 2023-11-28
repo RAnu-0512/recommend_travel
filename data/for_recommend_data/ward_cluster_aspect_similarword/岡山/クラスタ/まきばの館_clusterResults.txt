@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まきばの館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+犬連れ, 犬
+cluster1:(2)
+肝心, 気
+cluster2:(15)
+ボール, ボード, レストラン, アスファルト, ラベンダー, ハーブ, 人, ドッグラン, ウサギ, ところ, エリア, 飼い主, ドライブ, 気持ち, リード
+cluster3:(1)
+受付
+cluster4:(8)
+紫色, 花, 園内, 絨毯, 施設, 規模, 木陰, 土地
+cluster5:(1)
+体格差
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 6entities.

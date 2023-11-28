@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円通寺(岡山県鏡野町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺跡, 僧空海
+cluster1:(11)
+エドヒガンザクラ, 円通寺, もと, 歴史, 和田, もの, 見ごたえ, 弘法大師, 指, 感じ, 町
+cluster2:(4)
+仏像, 寺, 青銅, 本堂
+cluster3:(1)
+名木
+cluster4:(1)
+経瓦
+cluster5:(1)
+樹令
+cluster6:(1)
+町郷土館
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 6entities.

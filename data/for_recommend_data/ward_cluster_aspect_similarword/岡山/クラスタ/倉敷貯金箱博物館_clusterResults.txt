@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷貯金箱博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+犬, ビクターの犬, ビクター犬
+cluster1:(4)
+現代, 江戸, 倉敷, 日本
+cluster2:(2)
+置物, 貯金
+cluster3:(4)
+屋根, 外観, 館内, 建物
+cluster4:(5)
+ビクター, 車, アニメ, 博物館, アイビースクエア
+cluster5:(2)
+中心, 近く
+cluster6:(3)
+中, もの, 上
+cluster7:(1)
+ヒーローたち
+cluster8:(1)
+南東
+cluster9:(1)
+満載
+
+howmany entities : 26
+howmany clusters : 10
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 5
+deleted 7entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:奥津温泉 花美人の里--------------------
+top3 entities near to cluster0>>
+風呂, お湯, 温泉
+top3 entities near to cluster2>>
+日, 時間, 午後
+top3 entities near to cluster3>>
+建物, 施設, 駅
+top3 entities near to cluster4>>
+笑顔, 脚
+top3 entities near to cluster5>>
+アイス, アイスクリーム, ジュース

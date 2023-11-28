@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハッピーホースファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+馬, 馬達, スタッフさん達
+cluster1:(29)
+中, 道, 車キター, 自然, 体験, コース, そら, 人, 時間, 動物, 草, ススメ, 背後, スポット, 感じ, スタッフ, プロフィール, 世話, 途中, ニンジンスティック, 子供, 故郷, 度, インストラクター, 季節, キャッシー, 性格, 他, 送迎
+cluster2:(1)
+予約制
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 2
+deleted 1entities.

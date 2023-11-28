@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高島(岡山県笠岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+離島, ひなびた離島
+cluster1:(2)
+高島, 笠岡
+cluster2:(7)
+民宿, 島, 海, 国, 船, 島めぐり, 沖
+cluster3:(32)
+白石島, 中, こと, 方, 場所, 中央, 大飛島, 体験, 小飛島, 中心, 景観, 肘, 様子, 手前, 晩秋, アクセス, 北木島, 真鍋島, 瀬戸内海, 周囲, 南側, 気, 紅葉, 気分, ながめ, 大小, 雰囲気, フェリー, 整理, 六島, 景色, 気候
+cluster4:(1)
+欠航
+
+howmany entities : 44
+howmany clusters : 5
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 2
+deleted 5entities.

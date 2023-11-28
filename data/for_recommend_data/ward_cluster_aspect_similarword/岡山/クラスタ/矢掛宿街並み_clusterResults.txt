@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:矢掛宿街並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大名, 宿場, 本陣
+cluster1:(3)
+昭和, 税金, 石井
+cluster2:(20)
+中, 飲み物, こと, 土産物, 買い物, 輿入れ, 色, レトロ, 外見, イメージ, ところ, 街並み, 昔, 感じ, ぶらぶら, コンビニ, 普通, 雰囲気, 違い, ホテル
+cluster3:(13)
+街, 駅, 歴史, 奥, 風景, 看板, 町, 入口, 外, 家, 道路, 建物, 蔵
+cluster4:(2)
+製法, 面影
+cluster5:(1)
+現代風
+cluster6:(5)
+食事施設, 点在型, 部屋とお風呂, 観光案内所, 開放感
+
+howmany entities : 47
+howmany clusters : 7
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 5
+deleted 3entities.

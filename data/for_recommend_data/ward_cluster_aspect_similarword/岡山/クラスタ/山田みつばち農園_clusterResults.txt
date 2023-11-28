@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山田みつばち農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+そばはちみつ, 香り
+cluster1:(3)
+はちみつソフトクリーム, はちみつ, ブルーベリーはちみつ
+cluster2:(3)
+ソフトクリーム, イチゴ, 食べ物
+cluster3:(1)
+蜂蜜
+cluster4:(2)
+パン, 土産
+cluster5:(1)
+週替わりはちみつ
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

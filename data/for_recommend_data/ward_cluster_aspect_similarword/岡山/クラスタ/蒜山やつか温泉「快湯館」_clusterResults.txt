@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒜山やつか温泉「快湯館」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+戸, ガチャリ鍵, 玄関
+cluster1:(3)
+風呂, 温泉, 入浴
+cluster2:(15)
+オープン, 前, 場所, 洗い場, 裸, 体, 割引, 目, 子供, 露天風呂, タオル, 制服, ホウキ, サウナ, 支払いレシート
+cluster3:(3)
+掃除, ゴミ, 大声
+cluster4:(1)
+網戸ごし
+
+howmany entities : 25
+howmany clusters : 5
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 1entities.

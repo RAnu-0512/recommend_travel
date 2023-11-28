@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牛窓諸島(多島美)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+前島, 前島フェリー
+cluster1:(9)
+高台, 島, 海, 岡山, オリーブ園, 船, 緑, 島々, 景色
+cluster2:(12)
+こと, エーゲ海, 思い出, 底, 所, 息, セット, スタッフ, フレーズ, 気持ち, 心, ホテル
+cluster3:(3)
+牛窓諸島諸島, 赤穂・竜野・三木, 牛窓諸島
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 2entities.

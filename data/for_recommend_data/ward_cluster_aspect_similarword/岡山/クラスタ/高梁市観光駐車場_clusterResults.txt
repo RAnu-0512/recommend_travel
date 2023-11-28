@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁市観光駐車場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光面, 市街観光, 観光
+cluster1:(2)
+料金, 駐車料金
+cluster2:(9)
+高梁川, 方, 近隣, 城下, 実物, 市, 童謡, 辺り, 高瀬舟
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:センチュリオンホテル&スパ倉敷--------------------
+top3 entities near to cluster0>>
+入浴, 温泉, 風呂
+top3 entities near to cluster1>>
+髪, ヘア, 髪の毛
+top3 entities near to cluster8>>
+アメニティ, シャワー, アニメティ
+top3 entities near to cluster9>>
+シャンプー, トリートメント, フロント
+top3 entities near to cluster12>>
+サウナ, 水風呂, タオル
+top3 entities near to cluster13>>
+家族, 女性, 子供

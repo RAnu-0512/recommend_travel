@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菩提寺のイチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+緑, コラボレーション, もの, イチョウ, 自然, パワー
+cluster1:(2)
+葉, 木
+cluster2:(3)
+姿, 想像, 改修
+cluster3:(1)
+募金箱
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

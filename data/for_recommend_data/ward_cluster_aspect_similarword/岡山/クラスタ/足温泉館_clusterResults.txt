@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足温泉館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+真賀温泉, 足温泉, 温泉
+cluster1:(2)
+浴槽, お湯
+cluster2:(3)
+早朝風呂, 風呂, ジェット風呂
+cluster3:(14)
+泉質, 川, 年寄り, 施設, 地元, ところ, 癒し, 体, 露天風呂, 川沿い, 雰囲気, 景気, かた, 国道
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 2entities.

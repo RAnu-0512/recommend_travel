@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Glass Studio TooS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+こと, 機会, もの, 感じ, 気, 思い
+cluster1:(3)
+愛嬌, 表情, 動き
+cluster2:(3)
+グラス作り, 作り, だり
+cluster3:(4)
+仏壇, 泡, 花器, 丸ガラス
+cluster4:(2)
+左手, 右手
+cluster5:(14)
+形, 最後, 工房, 先生, 手, 見本, 写真, 作品, 話, 次, 途中, 説明, 順番, 色
+cluster6:(3)
+旅, 土産, 安全
+cluster7:(4)
+娘, 主人, 子供, 母
+cluster8:(16)
+グラス, タイプ, 悪戦苦闘, 思い出, ところ, 姉さん, 作り方, ガラス, スタッフ, コップ, マンツーマン, 高校生, こだわり, 子ども, いくつか, 一輪挿し
+cluster9:(6)
+体験, 行程, ガラス体験, コップ作り体験, 硝子体験, 作業行程
+
+howmany entities : 61
+howmany clusters : 10
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 9
+deleted 2entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恩原湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+イベント, こと, 紅葉シーズン, すすき, 面積, 湖, 周辺, 周囲, 近く, 高原, 湖周辺, 紅葉
+cluster1:(2)
+恩原湖, 白樺林
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

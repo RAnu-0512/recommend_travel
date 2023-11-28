@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:衆楽園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+姿, 場所, 時代, 大半, もの, 特徴, 気, 時間, 名, 構造, こと, 本数, 名前, 名称, 建物
+cluster1:(10)
+森, 島, 鯉, 池, 楽園, 亀, 松, 蓮, 餌, コイ
+cluster2:(4)
+殿様, 小姓, 大名, 作庭師
+cluster3:(3)
+庭, 築庭, 庭園
+cluster4:(2)
+景色, 紅葉
+cluster5:(2)
+散策, 公園
+cluster6:(19)
+住まい, バス, 北, 中国, 車, 売店, 中之島, 雨, 中央, 足, 訪問, 明治, おすすめ, 貸し切り, 子連れ, 休憩スペース, 駅, 徒歩, いくつか
+cluster7:(9)
+池泉回遊式, 広さ, 余芳閣・迎賓館, 散策路, 大きさ, 風月軒, 桜祭り会場, その子・長継, 初代藩主
+
+howmany entities : 64
+howmany clusters : 8
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 6
+deleted 4entities.

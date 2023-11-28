@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:前島海水キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+魚, 浜辺, 海
+cluster1:(9)
+心遣い, 文字, 家内, 夕食, 若旦那, 皆さま, クラス, おもてなし, 大将
+cluster2:(1)
+感慨
+cluster3:(1)
+先陣
+cluster4:(1)
+投稿内容
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 3entities.

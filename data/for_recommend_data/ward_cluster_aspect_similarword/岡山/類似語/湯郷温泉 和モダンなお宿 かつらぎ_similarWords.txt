@@ -1,0 +1,13 @@
+--------------------similar_words:湯郷温泉 和モダンなお宿 かつらぎ--------------------
+top3 entities near to cluster0>>
+外観, 建物, 内装
+top3 entities near to cluster1>>
+受付, 予約, 口頭
+top3 entities near to cluster5>>
+タイマー, 子ども, リピータ
+top3 entities near to cluster8>>
+人達, 大勢
+top3 entities near to cluster10>>
+小物, 成分, 鍵
+top3 entities near to cluster11>>
+風呂, 露天風呂, 温泉

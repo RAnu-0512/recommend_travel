@@ -1,0 +1,63 @@
+--------------------similar_words:津山城(鶴山公園)--------------------
+top3 entities near to cluster1>>
+街並み, 気持ち, 町並み
+top3 entities near to cluster2>>
+ピンク, 花びら, サクラ
+top3 entities near to cluster3>>
+ビール, 飲み物, ホテル
+top3 entities near to cluster4>>
+木々, 新緑, 紅葉
+top3 entities near to cluster5>>
+肉, 手羽, 胸
+top3 entities near to cluster9>>
+週末, 休み, 季節
+top3 entities near to cluster10>>
+南口, 徒歩, 北口
+top3 entities near to cluster11>>
+地元, 某, 大学
+top3 entities near to cluster12>>
+バス車, バス, タクシー
+top3 entities near to cluster13>>
+宿道, 宿街, 宿
+top3 entities near to cluster14>>
+有数, 世界, 国内
+top3 entities near to cluster15>>
+平成, 明治, 月
+top3 entities near to cluster16>>
+一部, 内部, 一般
+top3 entities near to cluster17>>
+時次, 時, 初日
+top3 entities near to cluster19>>
+感動, 歓声, 喜び
+top3 entities near to cluster25>>
+視点, 印象, 人達
+top3 entities near to cluster26>>
+発見, 面影, 痕跡
+top3 entities near to cluster28>>
+天守閣, 城郭, 城
+top3 entities near to cluster29>>
+秀吉, 家康, 信長
+top3 entities near to cluster30>>
+出発, 案内, 入場
+top3 entities near to cluster31>>
+出店, 店舗
+top3 entities near to cluster32>>
+旅, 散歩, 恋愛
+top3 entities near to cluster33>>
+祭り, 花見, 花火
+top3 entities near to cluster35>>
+中心, 南東, 北東
+top3 entities near to cluster36>>
+公園, 緑地, 広場
+top3 entities near to cluster38>>
+眺望, 景色, 景観
+top3 entities near to cluster39>>
+敷地, 庭園, 建物
+top3 entities near to cluster40>>
+天守, 天守閣, 櫓
+top3 entities near to cluster41>>
+城跡, 城址, 城
+top3 entities near to cluster42>>
+城巡り, 城, めぐり
+top3 entities near to cluster43>>
+桜, 満開, 八重桜

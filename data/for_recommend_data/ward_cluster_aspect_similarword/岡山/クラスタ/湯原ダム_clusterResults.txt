@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯原ダム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+砂湯露天風呂, 輝乃湯, 砂湯, 露天風呂砂湯
+cluster1:(2)
+区間, 国道
+cluster2:(4)
+こと, 場所, 目的, 景色
+cluster3:(7)
+真下, トンネル, 露天風呂, 目, 上, あたり, 中国
+cluster4:(1)
+旭川
+cluster5:(7)
+放水, 下流, 東岸, 上流, 電力, 発電, ダム
+cluster6:(1)
+はんざきセンター
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 4entities.

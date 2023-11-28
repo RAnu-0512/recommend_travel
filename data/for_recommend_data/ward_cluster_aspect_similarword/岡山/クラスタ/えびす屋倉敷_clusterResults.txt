@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:えびす屋倉敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+写真, 目線, 写真スポット, 挨拶
+cluster1:(2)
+外国, スタッフ同士
+cluster2:(15)
+方, 情報, 人, オススメ, 客引き, ポイントポイント, 時間, おかげ, スタッフ, 話, 説明, 多く, 兄さん, 人力車, 組み合わせ
+cluster3:(3)
+値段, 店, 着物
+cluster4:(1)
+手段
+cluster5:(3)
+観光案内, 人生初人力車, 観光
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 3entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ひな人形の喜峯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+羽子板, 破魔弓
+cluster1:(1)
+雛人形
+cluster2:(1)
+ほか
+cluster3:(1)
+人形
+cluster4:(1)
+老舗
+cluster5:(1)
+全般
+cluster6:(1)
+節句用品
+cluster7:(1)
+雛人形・鎧・兜
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

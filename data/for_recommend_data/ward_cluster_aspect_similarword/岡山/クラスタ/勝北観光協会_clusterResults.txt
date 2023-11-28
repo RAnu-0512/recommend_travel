@@ -1,0 +1,10 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝北観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光案内所, 中
+
+howmany entities : 2
+howmany clusters : 1
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 2entities.

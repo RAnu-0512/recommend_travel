@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桃茂実苑観光農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+予約, 予約時間
+cluster1:(3)
+木, 桃, 孫
+cluster2:(3)
+下, 丘, 上
+cluster3:(21)
+家族, 顔, こと, 方, 値段, 場所, 人, 試食, 時間, 種類, マスカット, 別, 土産, 味, スタッフ, ひと時, 説明, 気, プレハブ, 手際, 変更
+cluster4:(3)
+桃狩り, 清水白桃, 桃狩り体験
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 2entities.

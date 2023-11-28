@@ -1,0 +1,7 @@
+--------------------similar_words:足温泉館--------------------
+top3 entities near to cluster0>>
+温泉, 湯, 温泉郷
+top3 entities near to cluster2>>
+風呂, 湯船, 入浴
+top3 entities near to cluster3>>
+川沿い, 川, 温泉

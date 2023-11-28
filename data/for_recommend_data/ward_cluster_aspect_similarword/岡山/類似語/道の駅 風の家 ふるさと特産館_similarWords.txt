@@ -1,0 +1,13 @@
+--------------------similar_words:道の駅 風の家 ふるさと特産館--------------------
+top3 entities near to cluster2>>
+名物, 駅, そば
+top3 entities near to cluster3>>
+規模, 一帯, 内部
+top3 entities near to cluster6>>
+冬, 野菜, 農作物
+top3 entities near to cluster7>>
+土産, 軽食, 土産物
+top3 entities near to cluster9>>
+野菜, 果物, 食材
+top3 entities near to cluster10>>
+大根, だいこん, 風呂吹き

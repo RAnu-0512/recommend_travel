@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後楽園の梅・桜・ツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+後楽園内, 岡山後楽園
+cluster1:(4)
+一角, 淡いピンク色, 南側, 正面入り口
+cluster2:(2)
+足, 心
+cluster3:(11)
+中, 結婚式, こと, マップ, あちこち, 人, 海外, 大勢, エリア, 手入れ, 後楽園
+cluster4:(9)
+風情, 和装, 花, 園内, 時期, お花, 季節, 庭園, 景色
+cluster5:(1)
+入園者
+cluster6:(10)
+花見, のんびり梅, 四季折々楽しめる後楽園, 桜・梅エリア, 紅梅, 枝垂れ梅, 桜そのもの, 白梅, 梅, 桜
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 4
+deleted 5entities.

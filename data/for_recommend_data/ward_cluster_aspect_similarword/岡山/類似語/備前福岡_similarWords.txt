@@ -1,0 +1,9 @@
+--------------------similar_words:備前福岡--------------------
+top3 entities near to cluster0>>
+地名, 時代, 歴史
+top3 entities near to cluster2>>
+息子, 長男, 次男
+top3 entities near to cluster3>>
+家康, 秀吉, 大名
+top3 entities near to cluster4>>
+軍師, 官兵衛, 関ヶ原

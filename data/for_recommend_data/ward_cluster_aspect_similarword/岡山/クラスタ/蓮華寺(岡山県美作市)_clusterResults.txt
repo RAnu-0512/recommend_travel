@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮華寺(岡山県美作市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+庭, 庭園
+cluster1:(6)
+裏山, 真言宗, 蓮花寺, 枯山水, 文化財, 気持ち
+cluster2:(3)
+山々, 思想, 技法
+cluster3:(1)
+往時
+cluster4:(7)
+住職, 寺号, 仁王, 当山, 寺, 美作, 蓮花
+cluster5:(5)
+江戸前期, 石段, 階段, 本堂裏, 鐘楼門
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 3entities.

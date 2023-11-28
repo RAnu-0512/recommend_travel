@@ -1,0 +1,11 @@
+--------------------similar_words:岡山市観光案内所--------------------
+top3 entities near to cluster0>>
+案内, 名所, 周遊
+top3 entities near to cluster2>>
+改札, 構内, 駅
+top3 entities near to cluster4>>
+周辺, 施設, 状況
+top3 entities near to cluster5>>
+資料, 情報, 地図
+top3 entities near to cluster6>>
+土産, おみやげ

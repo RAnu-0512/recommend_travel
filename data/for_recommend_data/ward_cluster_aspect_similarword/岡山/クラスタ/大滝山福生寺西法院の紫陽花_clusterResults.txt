@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大滝山福生寺西法院の紫陽花>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ひけ, 紫, 密, 赤
+cluster1:(2)
+高低, 距離
+cluster2:(6)
+人, 数, 大勢, 時期, 名前, 規模
+cluster3:(2)
+寺, 滝
+cluster4:(2)
+株, 土地
+cluster5:(5)
+花, アクセス, アジサイ, 手入れ, 紫陽花
+cluster6:(2)
+道, 車
+cluster7:(1)
+茶席
+cluster8:(1)
+広さ
+
+howmany entities : 25
+howmany clusters : 9
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 10entities.

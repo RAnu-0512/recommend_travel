@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城東町並み(重要伝統的建造物群保存地区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+津山城下町, 洋学, 津山
+cluster1:(2)
+知, 正
+cluster2:(5)
+来訪, 禁止, 功績, 撮影, 資料
+cluster3:(4)
+海, 町, 県, 扉
+cluster4:(5)
+時代, 昔, 流れ, 感じ, 意外
+cluster5:(11)
+すれ違い, 城下町, スマホ, 車, テーマ, 時間, 中高生, ガソリン, ゴールデンウィーク, 町並み, ガソリンスタンド
+cluster6:(1)
+明治
+cluster7:(7)
+町家, 町屋, 民家, 発展史, 中心都市, 道幅, 寺社
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 6
+deleted 3entities.

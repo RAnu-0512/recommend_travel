@@ -1,0 +1,45 @@
+--------------------similar_words:倉敷アイビースクエア--------------------
+top3 entities near to cluster0>>
+記念, 館, 記念碑
+top3 entities near to cluster3>>
+地区, 美観, 景観
+top3 entities near to cluster4>>
+工場, 紡績
+top3 entities near to cluster5>>
+宿泊, 施設, 体験
+top3 entities near to cluster8>>
+レストラン, ホテル, イベント
+top3 entities near to cluster10>>
+オススメ, おすすめ, ススメ
+top3 entities near to cluster12>>
+見どころ, 見所, シンボル
+top3 entities near to cluster16>>
+町並み, 雰囲気, 街並み
+top3 entities near to cluster19>>
+ランチ, カフェ, レストラン
+top3 entities near to cluster20>>
+アイビー, アリス, スクエア
+top3 entities near to cluster21>>
+ガイド, 人達
+top3 entities near to cluster22>>
+煉瓦, レンガ, 石造り
+top3 entities near to cluster24>>
+皆さん, 皆様, いらっしゃる
+top3 entities near to cluster25>>
+提示, 対応, 用意
+top3 entities near to cluster32>>
+建物, 中庭, 敷地
+top3 entities near to cluster33>>
+駅前, 界隈, 近辺
+top3 entities near to cluster34>>
+土産物, 土産, 名産
+top3 entities near to cluster35>>
+食材, 料理, 菓子
+top3 entities near to cluster36>>
+景色, 風情, 風景
+top3 entities near to cluster39>>
+団体, 外客, 乗客
+top3 entities near to cluster40>>
+近隣, 同士, 友達
+top3 entities near to cluster42>>
+遺産, 歴史, 負

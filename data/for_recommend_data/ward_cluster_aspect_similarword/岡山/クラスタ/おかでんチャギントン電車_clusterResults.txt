@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おかでんチャギントン電車>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+おかでん, おかでんチャギントン, おかでんミュージアム
+cluster1:(2)
+高島屋, 急ぎ足
+cluster2:(3)
+ミュージアムチケット, ホテル, ランチ
+cluster3:(9)
+オススメ, チャギントン, イベント, ウィルソン, スタッフ, ミュージアム, ゴールデンウィーク, ナビゲーター, ガイドブック
+cluster4:(2)
+おもちゃ, 子ども
+cluster5:(1)
+姉さん
+cluster6:(1)
+仕掛け
+cluster7:(1)
+クイズ
+cluster8:(1)
+コロナ
+cluster9:(1)
+チャギントンランチBOX
+cluster10:(19)
+こと, 席, 姉さん達, 方, 値段, 時間, 興味, 施設, 写真, 希望, 今回, 息子, 笑顔, 感じ, ミュージアム近く, 子供, 入口, 子, 孫
+cluster11:(1)
+雨足
+cluster12:(6)
+電車, 車内, 出発時刻, 市電, チャギントン電車, 乗車
+cluster13:(1)
+和洋美膳せ
+
+howmany entities : 51
+howmany clusters : 14
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 5
+deleted 11entities.

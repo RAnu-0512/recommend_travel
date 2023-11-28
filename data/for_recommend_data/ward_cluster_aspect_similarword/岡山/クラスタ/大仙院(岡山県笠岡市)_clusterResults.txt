@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大仙院(岡山県笠岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+大仙通り, 大仙, 大仙橋, 大仙智明大, 大仙さん
+cluster1:(10)
+中国, 色, 朱色, 松, 赤色, 岡山, 室町, 朱, 大山, 日本
+cluster2:(2)
+駅, 徒歩
+cluster3:(15)
+トイレ, 入口, 文化財, 伯耆大山, 見ごたえ, 入り口, 口コミ, イベント, 真言宗, アクセス, スポット, ところ, 雰囲気, インパクト, 建物
+cluster4:(2)
+木, おかげ市
+cluster5:(2)
+場所, 時期
+cluster6:(3)
+近く, 最寄り, 前
+cluster7:(2)
+途中, 中
+cluster8:(1)
+時間
+cluster9:(1)
+目
+cluster10:(6)
+多く, 大人, 方, 人, 地元, 人気
+cluster11:(3)
+時代, 価値, 歴史
+cluster12:(2)
+心, 神
+cluster13:(10)
+風格, もの, 感じ, 特徴, 思い, 説明, 印象, 構え, 風情, こと
+cluster14:(1)
+御分体
+cluster15:(5)
+門, 鐘, 竜宮門, 鐘楼, 鐘楼門
+cluster16:(7)
+本殿, 神社, 山門, 境内, 本堂, 寺院, 寺
+cluster17:(3)
+地蔵, 本尊, 権現
+cluster18:(4)
+お花, 庭, 植木, 庭園
+cluster19:(5)
+出店, 縁日, 露店, 祭り, 観光
+cluster20:(1)
+方丈建築
+
+howmany entities : 90
+howmany clusters : 21
+howmany entities (more than3entities) : 76
+howmany clusters (more than3entities) : 12
+deleted 14entities.

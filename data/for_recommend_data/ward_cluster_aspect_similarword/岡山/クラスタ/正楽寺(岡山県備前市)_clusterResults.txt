@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正楽寺(岡山県備前市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+奈良, 高野山, 時代
+cluster1:(3)
+寺, 信仰, 名刹
+cluster2:(2)
+藩主, 札所
+cluster3:(1)
+真言宗準別格
+cluster4:(1)
+報恩大師
+cluster5:(1)
+中国33観音霊場
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 5entities.

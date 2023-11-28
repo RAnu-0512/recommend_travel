@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川上町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高梁, 津山, 真庭
+cluster1:(3)
+観光パンフレット, 観光, 観光案内所
+cluster2:(2)
+休憩場所, トイレ休憩
+cluster3:(2)
+県道, 国道
+cluster4:(6)
+道, 弥高654, トイレ, 弥高山, ドライブイン, せせらぎ
+cluster5:(4)
+施設, 野菜, 周辺, 建物
+cluster6:(5)
+軽食, 駅風, 店, おかあさんの店せせらぎ, 喫茶
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 4entities.

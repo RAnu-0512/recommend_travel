@@ -1,0 +1,17 @@
+--------------------similar_words:後楽温泉ほのかの湯--------------------
+top3 entities near to cluster0>>
+風呂, 湯, お湯
+top3 entities near to cluster1>>
+髪の毛, 接客, 髪
+top3 entities near to cluster2>>
+女性, 男性, 女
+top3 entities near to cluster3>>
+日目, 月目, 日, 月
+top3 entities near to cluster4>>
+こっち, そっち
+top3 entities near to cluster6>>
+施設, 指導, 所内
+top3 entities near to cluster8>>
+浴槽, 床, 入り口
+top3 entities near to cluster10>>
+受付, 休憩, 予約

@@ -1,0 +1,23 @@
+--------------------similar_words:広兼邸--------------------
+top3 entities near to cluster0>>
+歴史, 郷土, 文化
+top3 entities near to cluster2>>
+銅山, 足尾, 成羽
+top3 entities near to cluster4>>
+発券, 両替
+top3 entities near to cluster5>>
+屋敷, 部屋, 庭
+top3 entities near to cluster6>>
+建物, 邸宅, 家屋
+top3 entities near to cluster7>>
+土蔵, 商家, 庄屋
+top3 entities near to cluster8>>
+映画, ロケ, 実写
+top3 entities near to cluster11>>
+山道
+top3 entities near to cluster13>>
+原作, 話, 歴史
+top3 entities near to cluster18>>
+勉強, 経営, 仕事
+top3 entities near to cluster19>>
+富家, 富, 巨万

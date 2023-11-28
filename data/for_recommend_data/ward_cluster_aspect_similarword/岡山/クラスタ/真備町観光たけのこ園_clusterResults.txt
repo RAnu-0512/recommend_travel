@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真備町観光たけのこ園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+真備, 倉敷
+cluster1:(2)
+タケノコ掘り, 筍
+cluster2:(2)
+家, 車
+cluster3:(3)
+タケノコ, 場所, 意外
+cluster4:(1)
+大人
+cluster5:(1)
+想像
+cluster6:(3)
+ホール体験, 経験, 機会
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 8entities.

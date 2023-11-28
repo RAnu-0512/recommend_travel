@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:満天の湯 温泉家くらしき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ジャグジー風呂, 風呂, 女風呂
+cluster1:(5)
+年配, 会話, 声, 客, 常連
+cluster2:(18)
+場所, マナー, 人, マット, ジャグジー, 施設, 飲食, 氷, シャワー, 椅子, 感じ, 禁止, 水風呂, コップ, 露天風呂, サウナ意外, スペース, サウナ
+cluster3:(1)
+場所取り
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 1entities.

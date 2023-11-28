@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牛窓ヨットハーバー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大型帆船, 三角帆
+cluster1:(2)
+施設, 建物
+cluster2:(4)
+側, 人, 一般, 日本
+cluster3:(2)
+ヨット, ヨット乗り場
+cluster4:(3)
+ヨットハーバー, ガラス張り, クラブハウス
+cluster5:(2)
+クルーザー, ディンギー
+cluster6:(1)
+スケール
+cluster7:(1)
+ハーバー
+cluster8:(1)
+西日本
+cluster9:(1)
+島
+cluster10:(1)
+釣り
+cluster11:(1)
+海原
+cluster12:(1)
+牛窓
+cluster13:(4)
+リゾート気分, 天気, 光景, 景色
+cluster14:(7)
+価値, こと, 場面, 場所, 証明, 楽し, 気
+cluster15:(1)
+子供連れ
+
+howmany entities : 34
+howmany clusters : 16
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 16entities.

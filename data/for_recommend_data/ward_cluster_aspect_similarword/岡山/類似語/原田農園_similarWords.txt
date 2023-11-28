@@ -1,0 +1,13 @@
+--------------------similar_words:原田農園--------------------
+top3 entities near to cluster0>>
+農園, 農場, 果樹
+top3 entities near to cluster1>>
+写真, 思い出, おみやげ
+top3 entities near to cluster2>>
+母親, 娘, 両親
+top3 entities near to cluster6>>
+収穫, 試食
+top3 entities near to cluster7>>
+値段, 価格, 人柄
+top3 entities near to cluster8>>
+狩り, 食べ

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山県美作ラグビー・サッカー場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+場所, 甲斐, 芝, 応援, スポーツ, 選手, 主人, サッカー, 見応え, ラグビー, 客席, 帰り, 試合
+cluster1:(2)
+美作サッカーラグビー場, 湯郷belle
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

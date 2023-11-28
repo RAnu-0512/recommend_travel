@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷・とんぼ玉工房・MABO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+簪, 根付
+cluster1:(5)
+色, 棒, ガラス, ガラスビーズ, 紙
+cluster2:(2)
+体験, 作業
+cluster3:(2)
+時間, 度
+cluster4:(3)
+こと, 物, 事
+cluster5:(3)
+主人, 子供, 妻
+cluster6:(2)
+最後, みんなそれぞれお気に入り
+cluster7:(8)
+チョーカー, ブレスレット, お話し, 夏休み, アトリエ, アクセサリー, 小学生, 想い出
+cluster8:(3)
+先生, 作品, 話
+cluster9:(1)
+火
+cluster10:(1)
+倉敷
+cluster11:(1)
+作品作り
+cluster12:(1)
+個人宅
+cluster13:(1)
+蜻蛉玉作り
+
+howmany entities : 35
+howmany clusters : 14
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 13entities.

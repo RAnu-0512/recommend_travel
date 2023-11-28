@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:郷緑温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(36)
+雪, 前, 自然, 女性, 人間, 声, 予約制, 下, 人, 浴槽, 浴室, 夫婦, 風呂, 神経, 気温, 軟らかさ, 貸切風呂, 主人, 無遠慮, 身, 事実, 体, 女将, スッポン, 伴侶, 予約, 間, ドライブ, 扉, 運, 温度, 案内, 入浴システム, 入浴, 建物, 岩
+cluster1:(2)
+泉質, 足元湧出泉
+cluster2:(2)
+湯温, 上り湯
+cluster3:(7)
+温泉水, 真賀温泉, 源泉, 温泉地, 温泉, 天然温泉, 湯
+cluster4:(1)
+郷緑温泉
+cluster5:(1)
+加温浴槽
+cluster6:(1)
+湯2軒目郷緑温泉
+
+howmany entities : 50
+howmany clusters : 7
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 2
+deleted 7entities.

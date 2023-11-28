@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安国寺(岡山県津山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+形, こと, 場所, 写真, もの, 見ごたえ, 感じ, 目, 雰囲気, 日当たり
+cluster1:(3)
+記憶, 歴史, 心
+cluster2:(1)
+空気
+cluster3:(3)
+屋根, 裏手, 立派
+cluster4:(5)
+小田中, 日蓮宗, 指定, 安国寺, 善通寺
+cluster5:(2)
+安国, 美作
+cluster6:(10)
+寺院, 名勝庭園, お庭, 寺, 禅寺, 本堂, 石林園, 庭, 本堂裏, 庭園
+
+howmany entities : 34
+howmany clusters : 7
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 5
+deleted 3entities.

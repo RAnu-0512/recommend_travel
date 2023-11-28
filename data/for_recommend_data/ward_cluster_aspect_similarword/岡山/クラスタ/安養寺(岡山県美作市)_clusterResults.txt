@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安養寺(岡山県美作市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+安養寺会陽, 会陽文化
+cluster1:(13)
+池, 椿, 真木, 陽, 山, 中腹, 築山, 木, 紅葉, 山里, 大木, 桜, 亀島
+cluster2:(2)
+歴史, 地域
+cluster3:(5)
+中, 目, 枯山水, 多く, 雰囲気
+cluster4:(2)
+横, 裏側
+cluster5:(1)
+印象
+cluster6:(3)
+機会, 迫力, 信頼
+cluster7:(1)
+構え
+cluster8:(2)
+散策, 観光
+cluster9:(2)
+前庭, 庭園
+cluster10:(4)
+餌, 水鳥, 男たち, 瀬戸内地方
+cluster11:(1)
+季節毎
+cluster12:(14)
+とお寺巡り, 寺院, 客殿裏, はだか祭り, 鐘楼, 石段, 浮見堂, 境内, 本殿, 寺, 梵鐘, 本堂, 堂, 秘仏
+
+howmany entities : 52
+howmany clusters : 13
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 5
+deleted 13entities.

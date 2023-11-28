@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神代鬼の穴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鬼の穴, 穴
+cluster1:(2)
+伝説, 鬼
+cluster2:(5)
+鍾乳洞, こと, センサー, 地方, 人
+cluster3:(1)
+神代
+cluster4:(1)
+電灯
+cluster5:(1)
+神庭
+cluster6:(3)
+石灰岩地帯, 存在入口, 滝近く
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 7entities.

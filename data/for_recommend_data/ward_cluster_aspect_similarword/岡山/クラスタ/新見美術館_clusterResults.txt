@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新見美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+世界, 場所, 車, 中心, レトロ, 人, 道具, アクティビティ, シーン, 我が家, もの, 横, 所, カメラ, 町, 意外, こだわり, 美術館
+cluster1:(9)
+制作, 素材, 作家, 風景, 作品, 感性, 紙, 映画, 絵
+cluster2:(8)
+寄贈, 石段, 散策, 館内, 徒歩, 猛暑, 屋外, 石垣
+cluster3:(8)
+贋作, 鉄斎, 岡山, 美術品, 新見美術館, 名車, 太田作品, ペーパーアート展
+
+howmany entities : 43
+howmany clusters : 4
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 4
+deleted 0entities.

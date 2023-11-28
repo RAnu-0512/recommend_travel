@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くっつ木工房 丞庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+モノづくり体験, 木工体験
+cluster1:(2)
+箸作り, 箸
+cluster2:(9)
+完成, 好み, 体験, 種類, もの, 特徴, 作業, 硬め, 何か
+cluster3:(2)
+材料, 木材
+cluster4:(2)
+弁当, 土産
+cluster5:(12)
+中, 夫, ヒノキ, 下, 思い出, 檜, 箸置き, カンナ, 栗, 木, 桜, 昼
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 8entities.

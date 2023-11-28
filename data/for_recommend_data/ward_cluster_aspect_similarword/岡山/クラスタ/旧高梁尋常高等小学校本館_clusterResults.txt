@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧高梁尋常高等小学校本館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+木造, 洋風, 外観, 外壁, 建物
+cluster1:(7)
+中, こと, 小学校, 昔, 見栄え, 感じ, 雰囲気
+cluster2:(2)
+自然, 歴史
+cluster3:(3)
+場所, 公園, 付近
+cluster4:(2)
+明治, 紅葉
+cluster5:(3)
+学校時代, 木造校舎, 廃校
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 4entities.

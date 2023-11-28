@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山市観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+観光ルート, 割引券, 案内所, 観光マップ, 観光, 観光案内所, 列車案内
+cluster1:(3)
+岡山, 岡山後楽園, おみやげ街道岡山
+cluster2:(4)
+JR, 駅, 改札, 構内
+cluster3:(2)
+桃, 英
+cluster4:(7)
+全体, 場所, 点, 施設, 状況, 周辺, 市
+cluster5:(4)
+参考, 情報, 地図, 資料
+cluster6:(13)
+語, 人, 土産, スタッフ, アクセス, インフォメーションセンター, 入り口, ホテル, インフォメーション, 地下街, 桃太郎, パンフレット, 道案内
+
+howmany entities : 40
+howmany clusters : 7
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 6
+deleted 2entities.

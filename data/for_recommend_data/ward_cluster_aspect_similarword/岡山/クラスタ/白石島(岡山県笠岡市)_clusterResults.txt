@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白石島(岡山県笠岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+民宿, 島, 島々
+cluster1:(2)
+風情, 空気
+cluster2:(2)
+海, 船
+cluster3:(3)
+白石島, 瀬戸内海, フェリー
+cluster4:(2)
+オススメ, 気持ち
+cluster5:(1)
+海水浴
+cluster6:(1)
+人
+cluster7:(1)
+クラゲだらけ
+cluster8:(1)
+家
+cluster9:(1)
+体
+cluster10:(1)
+ハチ
+cluster11:(2)
+頂上, 付近
+cluster12:(5)
+こと, 方, 時間, 時期, 途中
+cluster13:(1)
+金儲け根性
+cluster14:(1)
+笠岡
+cluster15:(2)
+魚見台, 鎧岩
+
+howmany entities : 29
+howmany clusters : 16
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 18entities.

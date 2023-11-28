@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中山神社(岡山県津山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+屋台, 出店
+cluster1:(2)
+初詣, 参拝
+cluster2:(6)
+猿神社, 神社, 鳥居, 社殿, 境内, 本殿
+cluster3:(1)
+大社本殿
+cluster4:(1)
+観光案内所
+cluster5:(4)
+津山, 美作, 美作地方, 一宮
+cluster6:(3)
+正面, 崖, 安全
+cluster7:(8)
+道, 旅, 駅, 地域, 文化財ハンター, 国, 文化財, 建物
+cluster8:(13)
+こと, 他, 方, 趣, あちこち, 異, レンタサイクル, 感動, 途中, 魅力, デポジット, ゴールデンウィーク, 違い
+cluster9:(2)
+本拠, 格式
+cluster10:(5)
+電動アシスト, 予報, 天気, 雨, 昼
+cluster11:(1)
+道順
+cluster12:(3)
+庇部分, 造り, 中山造り
+
+howmany entities : 51
+howmany clusters : 13
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 7
+deleted 9entities.

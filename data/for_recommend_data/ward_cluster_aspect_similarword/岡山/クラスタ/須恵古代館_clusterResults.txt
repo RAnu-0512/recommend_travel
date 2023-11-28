@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須恵古代館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+途中, 地域, 売り場, 日本一, 中心, 所縁
+cluster1:(3)
+土器, 古代資料, 古代
+cluster2:(2)
+三輪族, 奈良・大神神社
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

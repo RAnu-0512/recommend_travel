@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸内観光汽船株式会社(両備小豆島フェリーグループ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+小豆島, 車, 時間, 会社, 近く, 金額, 横, 岡山, チケット, 発売, プラン, 転換, 必要, 気分, 売り場, フェリー
+cluster1:(7)
+往復, 弁当, 旅行, 船旅, 食事, 国道, フェリー代
+cluster2:(2)
+早朝便, 半額以下
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 2entities.

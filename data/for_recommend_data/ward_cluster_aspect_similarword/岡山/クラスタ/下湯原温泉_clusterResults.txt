@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下湯原温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+露天風呂棟, 回廊, 温泉, 露天, 湯, ひまわり館
+cluster1:(12)
+利用申込み, 真ん中, ペット専用, 総称, 地下, 隣, 受付, 男女, 露天風呂, 仕組み, 写真手前, 下湯原
+cluster2:(1)
+開放感
+cluster3:(9)
+郷緑温泉, 田園地帯, 男女岩風呂, 風呂, 湯原温泉郷, 真賀温泉, 岩風呂, 露天岩風呂, 足温泉
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 1entities.

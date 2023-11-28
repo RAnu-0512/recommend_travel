@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:与太郎様>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神社, 祠
+cluster1:(1)
+太郎神社
+cluster2:(2)
+風情, 御利益
+cluster3:(1)
+利益
+cluster4:(1)
+足腰
+cluster5:(1)
+宇喜多与
+cluster6:(1)
+健康祈願
+cluster7:(1)
+太郎基家
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

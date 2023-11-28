@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:不動滝(岡山県新庄村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+滝壷, 男滝, 女滝, 下流, 上流, 滝
+cluster1:(2)
+竜神, 岡山
+cluster2:(18)
+小さめ, 中, 車, 人, 時間, 姫, 近く, 所, 山, 途中, ミスト, 夏休み, 子供, 身投げ, イカダ, 気持ち, 不動滝, 毛無山
+cluster3:(2)
+紅葉, 観光
+cluster4:(2)
+伝承, 源流
+cluster5:(2)
+癒し, 心
+cluster6:(3)
+自然, 水, 緑
+cluster7:(1)
+城主
+cluster8:(4)
+落差, 残暑, 勢い, 迫力
+cluster9:(1)
+美しさ
+
+howmany entities : 41
+howmany clusters : 10
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 4
+deleted 10entities.

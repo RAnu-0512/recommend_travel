@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥高山の雲海>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+カメラ, 大阪, 方, 両親, 多く, 弥高山, 山
+cluster1:(2)
+到着, 頂上
+cluster2:(3)
+太陽, 備中高梁城, 雲海
+cluster3:(1)
+かぶ
+cluster4:(1)
+お椀型
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 4entities.

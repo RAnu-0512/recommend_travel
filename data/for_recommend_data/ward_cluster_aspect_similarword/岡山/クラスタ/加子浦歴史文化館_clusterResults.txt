@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加子浦歴史文化館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日生, とおり日生
+cluster1:(12)
+こと, 他, 千石船, 太平洋戦争, フィリピン, 歴史, 悲劇, 大工, 印象, 曲, バーベキュー会場, 建物
+cluster2:(3)
+牡蠣, 舌, 満州
+cluster3:(1)
+精巧さ
+cluster4:(6)
+文芸館, 魚市, 入館者, 反戦作家, 五味の市, 製作者
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 3entities.

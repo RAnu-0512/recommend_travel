@@ -1,0 +1,11 @@
+--------------------similar_words:衆楽園--------------------
+top3 entities near to cluster1>>
+鯉池, 鯉魚, 鯉
+top3 entities near to cluster2>>
+殿様, 小姓, 大名
+top3 entities near to cluster3>>
+庭園, 庭, 築庭
+top3 entities near to cluster6>>
+駅, 徒歩, 駅前
+top3 entities near to cluster7>>
+景長, 広い, 景

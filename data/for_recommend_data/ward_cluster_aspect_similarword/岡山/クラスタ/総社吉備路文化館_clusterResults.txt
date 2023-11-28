@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:総社吉備路文化館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車, 車
+cluster1:(2)
+展示, 館内
+cluster2:(13)
+方, 自動車, 時間, 個人コレクション, 歴史, もの, 間, もてなし, 書, 国分寺, 五重塔, 吉備路, 他
+cluster3:(1)
+舘
+cluster4:(1)
+史跡
+cluster5:(1)
+道路側
+cluster6:(1)
+吉備
+cluster7:(1)
+作品展示室
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 9entities.

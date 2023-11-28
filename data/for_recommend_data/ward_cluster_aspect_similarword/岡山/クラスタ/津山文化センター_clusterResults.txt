@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津山文化センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+イベント, バレエ, コンサート, コンクリート, ホール
+cluster1:(2)
+友人, 昔
+cluster2:(1)
+そば
+cluster3:(1)
+催し
+cluster4:(4)
+改修, 軒, 構造, 新築
+cluster5:(1)
+木造寺院建築
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 5entities.

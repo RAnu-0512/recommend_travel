@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水車の里フルーツトピア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+体験, 体験場所, 体験時間, 農業体験
+cluster1:(2)
+ピザ, ピザ作り
+cluster2:(5)
+イチゴ, ピオーネ, いちご, ブドウ, ぶどう
+cluster3:(9)
+ロザリオビアンコ, シーズン, BBQ, オススメ, フルーツ, マスカット, グループ, フルーツトピア, 急斜面
+cluster4:(7)
+旬, ぶどう狩り, 果物, 水車, 品種, 国道, 里フルーツトピア
+cluster5:(16)
+こと, 方, 場所, ほう, 他施設, 施設, 近く, 奥, 足, 時期, 手前, 受付, 案内看板, 説明, 違い, 他
+
+howmany entities : 43
+howmany clusters : 6
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 5
+deleted 2entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉備路観光案内センター(国民宿舎サンロード吉備路 内)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光, 観光案内
+cluster1:(2)
+総社, 岡山
+cluster2:(9)
+米, 販売, 周辺, 鶴, 吉備路, パネル, 紹介, パンフレット, サンロード
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 4entities.

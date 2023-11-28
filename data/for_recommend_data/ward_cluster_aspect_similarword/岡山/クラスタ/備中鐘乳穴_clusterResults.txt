@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備中鐘乳穴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+水, 姫ボタル, 岡山, 木, 緑, 青
+cluster1:(2)
+坂, 坂道
+cluster2:(4)
+洞窟, 鍾乳洞, 鍾乳石, 岩
+cluster3:(2)
+道, 杖
+cluster4:(3)
+照明, 距離, 床
+cluster5:(5)
+靴, 防水, 靴下, 薄手, 夏場
+cluster6:(2)
+気持ち, 雰囲気
+cluster7:(2)
+Tシャツ, シャツ
+cluster8:(2)
+メッシュ, ひんやり
+cluster9:(7)
+コンクリート, あちこち, コウモリ, スニーカー, ライティング, おすすめ, ライトアップ
+cluster10:(3)
+帰り道, インター, 入り口
+cluster11:(1)
+下り坂
+cluster12:(1)
+のぼり
+cluster13:(20)
+風情, 中, ほう, 自然, 人, 音, 時間, もの, 様子, 役, 匂い, 感じ, 雨, 気, 頭, 意外, 友達, 先, 帰り, 他
+cluster14:(1)
+削れ方
+cluster15:(3)
+鍾乳穴, 穴, 外気温
+cluster16:(1)
+完全貸切状態
+cluster17:(1)
+備中鐘乳穴
+
+howmany entities : 66
+howmany clusters : 18
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 8
+deleted 15entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白石島海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岡山, 笠岡
+cluster1:(4)
+海, 海岸, 砂浜, 浜
+cluster2:(3)
+波, 島, 船
+cluster3:(14)
+白石島, 日帰り, トイレ, 水, 船着き場, イメージ, ビーチ, 瀬戸内海, ビール, 海水浴, カヤック, 高速艇, フェリー, カップル
+cluster4:(10)
+家族, 旅, 方, 時間, 喜ぶ, 子供, 気分, 友達, 家, 帰り
+cluster5:(1)
+子供連れ
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 4
+deleted 3entities.

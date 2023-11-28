@@ -1,0 +1,61 @@
+--------------------similar_words:おもちゃ王国--------------------
+top3 entities near to cluster0>>
+アトラクション, イベント, テーマパーク
+top3 entities near to cluster1>>
+水遊び, プール, 川遊び
+top3 entities near to cluster2>>
+こども, 子連れ, 子ども
+top3 entities near to cluster3>>
+ハウス, パーク, ショー
+top3 entities near to cluster5>>
+おもちゃ, 子ども, 子供
+top3 entities near to cluster6>>
+飲み物, 食べ物, トイレ
+top3 entities near to cluster7>>
+つれ, 引き連れ
+top3 entities near to cluster8>>
+子, 娘, 目の子
+top3 entities near to cluster10>>
+息子, 娘, パパ
+top3 entities near to cluster11>>
+両親, 家族, 親
+top3 entities near to cluster22>>
+木, 金, 日
+top3 entities near to cluster25>>
+規模, 大, 大型
+top3 entities near to cluster32>>
+対策室, 対策
+top3 entities near to cluster34>>
+時間, 半日
+top3 entities near to cluster35>>
+館, 入口, 入り口
+top3 entities near to cluster36>>
+敷地, 園内, 施設
+top3 entities near to cluster39>>
+ゴー, ブラ, パス
+top3 entities near to cluster40>>
+天気雨, 天気, 大雨
+top3 entities near to cluster41>>
+混雑, 満員, 行列
+top3 entities near to cluster42>>
+遊ぶ, 砂場
+top3 entities near to cluster43>>
+土産, おみやげ, 土産物
+top3 entities near to cluster44>>
+乗り物
+top3 entities near to cluster45>>
+土産店, 土産, 仕事
+top3 entities near to cluster47>>
+小学生, 幼児, 子供
+top3 entities near to cluster48>>
+料金, 運賃, 価格
+top3 entities near to cluster50>>
+遊具, 室内, 滑り台
+top3 entities near to cluster51>>
+室内, 室外, 屋内
+top3 entities near to cluster52>>
+屋内, 屋外, 野外
+top3 entities near to cluster54>>
+やり
+top3 entities near to cluster57>>
+入園券, フリーパスチケット, 入園

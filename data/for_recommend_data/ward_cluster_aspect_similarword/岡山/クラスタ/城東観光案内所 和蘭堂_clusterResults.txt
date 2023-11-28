@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城東観光案内所 和蘭堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光案内所, 案内所, 街並みが立ち並ぶ所
+cluster1:(2)
+必要, 気
+cluster2:(3)
+カフェ, 場所, 近く
+cluster3:(1)
+姿
+cluster4:(3)
+道, 車道, 菓子
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 3entities.

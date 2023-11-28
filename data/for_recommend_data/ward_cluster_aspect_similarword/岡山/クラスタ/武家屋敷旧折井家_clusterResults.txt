@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武家屋敷旧折井家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+贅沢さ, 複数個所訪問, 共通券, 素敵さ
+cluster1:(4)
+折井, 船石組, 大松, 折居家
+cluster2:(3)
+石, 門, リ
+cluster3:(17)
+こと, 姿, 価値, 方, 女性, それぞれ, 歴史, スポット, 奉公人, 暮らし, 昔, 特徴, 味わい, 立ち, 家, 日本, 風通し
+cluster4:(20)
+武士, 近景, 身分, 屋敷, 遠景, 部屋, 部屋際, 室内, 家屋, 更衣, 技量, 家具, 武家, 住居, 武具, 庭, 什器, 大工, 庭園, 景色
+
+howmany entities : 48
+howmany clusters : 5
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 5
+deleted 0entities.

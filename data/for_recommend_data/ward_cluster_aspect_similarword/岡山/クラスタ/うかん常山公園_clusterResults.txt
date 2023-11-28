@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:うかん常山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+石, 自然, 風車, 丘, 斜面, 公園, 城
+cluster1:(2)
+好み, 風
+cluster2:(2)
+場所, 時間
+cluster3:(6)
+ドチラ, コラボ, 人, 気, 周り, オブジェ
+cluster4:(2)
+形, 手
+cluster5:(1)
+噂
+cluster6:(1)
+気分
+cluster7:(1)
+訪問
+cluster8:(1)
+無風
+cluster9:(1)
+うかん常山公園
+
+howmany entities : 24
+howmany clusters : 10
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 11entities.

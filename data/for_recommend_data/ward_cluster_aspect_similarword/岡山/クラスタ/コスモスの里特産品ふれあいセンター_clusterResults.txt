@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コスモスの里特産品ふれあいセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+白菜, 野菜, 名産
+cluster1:(8)
+購入, 隣, マスカット, 価格, 近く, 岡山, 花, 背丈
+cluster2:(1)
+北傍コスモス畑
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 1entities.

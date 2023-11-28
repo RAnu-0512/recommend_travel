@@ -1,0 +1,23 @@
+--------------------similar_words:湯郷鷺温泉館--------------------
+top3 entities near to cluster0>>
+風呂, 択以
+top3 entities near to cluster1>>
+温泉, 旅館, 足湯
+top3 entities near to cluster3>>
+浴槽, お湯, 湯船
+top3 entities near to cluster5>>
+料金, 混雑, 有料
+top3 entities near to cluster6>>
+プレビュー, プリビュー, バレンタインホテル
+top3 entities near to cluster12>>
+サウナ, 露天風呂, ホテル
+top3 entities near to cluster13>>
+家族, 食事, 子供
+top3 entities near to cluster21>>
+座敷, 広間, 椅子
+top3 entities near to cluster22>>
+敷地, 建物, 館内
+top3 entities near to cluster24>>
+休憩, 閉館, 仮眠
+top3 entities near to cluster25>>
+温泉, 風呂, 湯

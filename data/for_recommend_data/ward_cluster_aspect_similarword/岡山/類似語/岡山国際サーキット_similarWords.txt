@@ -1,0 +1,17 @@
+--------------------similar_words:岡山国際サーキット--------------------
+top3 entities near to cluster0>>
+バイク, ライダー, レーサー
+top3 entities near to cluster1>>
+トイレ, コンビニ, 帰り道
+top3 entities near to cluster2>>
+サーキット, テクニカルサーキット, ドライバー
+top3 entities near to cluster3>>
+イベント, コーナー, スペース
+top3 entities near to cluster6>>
+レース, 自転車, 食事
+top3 entities near to cluster7>>
+会場, レース, サーキット
+top3 entities near to cluster8>>
+一泊, 宿泊, 夕食
+top3 entities near to cluster13>>
+走行, 迫力, 送迎

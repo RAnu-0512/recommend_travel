@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯原温泉 湯快感 花やしき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+風呂, 貸切, 旅行, 効能, 風呂上がり, 温泉, お湯
+cluster1:(19)
+家族, 接客, 川, 方, トイレ, 下, 建物, 部屋, 旧館, 感じ, 受付, 天気, 露天風呂, 子供, 紅葉, ドライブ, 季節, 母, 景色
+cluster2:(3)
+屋上露天風呂, 星2, 屋上
+cluster3:(1)
+大佐オートキャンプ場
+cluster4:(1)
+開放感
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 2entities.

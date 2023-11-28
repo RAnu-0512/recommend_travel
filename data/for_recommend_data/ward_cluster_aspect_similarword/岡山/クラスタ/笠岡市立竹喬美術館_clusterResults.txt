@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笠岡市立竹喬美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+笠岡市立竹喬美術館, 竹喬
+cluster1:(18)
+遺族, 場所, 展示作品, 生誕, バス, 画家, 機会, 展示, 美術, 研究, 作品, 公共交通, 小野, 美術館, 出身, 開館, 日本, 他
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 1
+deleted 2entities.

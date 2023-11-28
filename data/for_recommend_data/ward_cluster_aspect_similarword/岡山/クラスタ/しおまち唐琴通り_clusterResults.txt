@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しおまち唐琴通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+琴, 唐琴
+cluster1:(3)
+こと, 説, 感じ
+cluster2:(3)
+現代, 歴史, 中国
+cluster3:(2)
+近く, 昔
+cluster4:(5)
+喫茶店, 人, スポット, あたり, 町並み
+cluster5:(1)
+町
+cluster6:(6)
+道, 車, 街, 風景, 看板, 建物
+cluster7:(1)
+地名
+cluster8:(1)
+散策
+cluster9:(5)
+スイーツ&コーヒー, 井戸, 情緒, 酒蔵, 空気
+cluster10:(1)
+和琴
+cluster11:(1)
+牛窓
+
+howmany entities : 31
+howmany clusters : 12
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 9entities.

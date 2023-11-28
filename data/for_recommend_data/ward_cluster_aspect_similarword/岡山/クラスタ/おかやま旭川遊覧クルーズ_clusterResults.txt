@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おかやま旭川遊覧クルーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+乗り場, 後楽園, ボート, まわり, スワン
+cluster1:(3)
+時間, 目, 人
+cluster2:(1)
+旭川遊覧クルーズ
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 1entities.

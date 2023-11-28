@@ -1,0 +1,9 @@
+--------------------similar_words:瀬戸大橋温泉 やま幸--------------------
+top3 entities near to cluster0>>
+入湯, 宿泊, 料金
+top3 entities near to cluster2>>
+浴場, 温泉, 風呂
+top3 entities near to cluster5>>
+食事, 料理, 雰囲気
+top3 entities near to cluster7>>
+湯, 薬湯, 温泉

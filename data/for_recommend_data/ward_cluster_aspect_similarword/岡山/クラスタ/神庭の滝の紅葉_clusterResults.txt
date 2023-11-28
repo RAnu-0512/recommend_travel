@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神庭の滝の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+滝, 猿
+cluster1:(6)
+ハイカー, 因み, 帰り道, 絵葉書, 時期, 意外
+cluster2:(2)
+撮影ポイント, 景色
+cluster3:(1)
+JAF会員
+cluster4:(3)
+紅葉時期, 蒜山, 紅葉
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 5entities.

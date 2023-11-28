@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:語らい座 大原本邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+倉敷, 倉, 大原, 倉敷格子
+cluster1:(20)
+中, こと, 想像, 方, 場所, スポット, 歴史, もの, 理解, 部分, スタッフ, 国, 言葉, 文化財, 家, 語らい, 雰囲気, 思い, 日本, 倉敷川
+cluster2:(2)
+天井, 地面
+cluster3:(3)
+窓, 外, 緑
+cluster4:(11)
+避暑, 白壁, 町家, 外観, 建造, 住宅, 観光, 書棚カフェ, 邸宅, 庭園, 建物
+cluster5:(1)
+展示交流施設
+
+howmany entities : 41
+howmany clusters : 6
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 4
+deleted 3entities.

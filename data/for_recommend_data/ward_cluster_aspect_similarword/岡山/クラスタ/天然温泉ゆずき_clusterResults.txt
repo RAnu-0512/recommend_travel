@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天然温泉ゆずき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+おちおち入浴, 浴槽, 風呂, 温泉, 天然温泉, 入浴
+cluster1:(2)
+案内不足, 利用料
+cluster2:(19)
+中, 場所, サービス, 手, 時間, 近く, 身, スタンス, 全開, 目, 露天風呂, プール, 気, 極めつけ, おむつ, 気持ち, 居心地, サウナ, パスポート
+cluster3:(11)
+会話, 存在, 声, 方々, 客, 営業, 扱い, 受付, 案内, 利用マナー, 対応
+cluster4:(2)
+毛, 髪
+cluster5:(2)
+私物, ゴミ
+cluster6:(3)
+荷物, 棚, 扉
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 4
+deleted 6entities.

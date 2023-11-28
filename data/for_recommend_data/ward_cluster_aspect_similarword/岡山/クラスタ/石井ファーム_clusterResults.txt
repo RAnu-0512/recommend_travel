@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石井ファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+採りたて, 備え置き
+cluster1:(3)
+アスパラ畑, アスパラ狩り, 収穫
+cluster2:(3)
+醤油, 塩, たれそれぞれ
+cluster3:(4)
+オーナー, グループ, テーブル, 持ち込み
+cluster4:(5)
+アスパラ, おにぎり, サラダオイル, アスパラガス, マヨネーズ
+cluster5:(1)
+レモン
+cluster6:(1)
+焼き肉
+cluster7:(1)
+バケツ
+cluster8:(1)
+コンロ
+cluster9:(2)
+方, 数
+cluster10:(1)
+紙
+cluster11:(5)
+昭和, 自然, 笑顔, 子供, 両親
+cluster12:(1)
+美味しさ
+
+howmany entities : 30
+howmany clusters : 13
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 5
+deleted 10entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くろせ農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ぶどう摘み, ぶどう狩り
+cluster1:(22)
+中, 値段, 場所, 体験, 車, 夫婦, 持ち帰り, マスカット, 手作り, 大阪, 主人, ピオーネ, 話, ブドウ, 看板, 子供, デザート, ぶどう, シャインマスカット, 心配, 帰り, ハウス
+cluster2:(1)
+採れたて
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 1
+deleted 3entities.

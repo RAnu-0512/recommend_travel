@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:星の郷ふれあいセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+星の郷美星産直プラザ, 美星産直プラザ
+cluster1:(8)
+原, 中世夢, 施設, 星の郷ふれあいセンター, 星, 郷ふれあいセンター, 建物, 校舎
+cluster2:(4)
+観光案内所, 体験施設, 国際尺八研修センター, 合宿施設
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 2entities.

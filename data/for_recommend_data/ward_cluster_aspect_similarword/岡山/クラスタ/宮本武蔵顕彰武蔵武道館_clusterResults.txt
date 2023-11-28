@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮本武蔵顕彰武蔵武道館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+屋根, イベント, 武道館, 近く, バレーボール
+cluster1:(3)
+剣道場, 施設, 用途施設
+cluster2:(1)
+生誕地
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁自然公園キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+こと, 上り坂, メイン, バス, 水, サイト, バンガロー, 体裁, 必要, 制約, 管理, オマケ
+cluster1:(4)
+キャンプ区画, 施設, 民間施設, 行政
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

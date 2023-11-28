@@ -1,0 +1,17 @@
+--------------------similar_words:牛窓オリーブ園--------------------
+top3 entities near to cluster0>>
+オリーブ, カフェ, アイスクリーム
+top3 entities near to cluster2>>
+試食, 食事, 休憩
+top3 entities near to cluster3>>
+散策, 散歩, 狩り
+top3 entities near to cluster7>>
+店先
+top3 entities near to cluster8>>
+海, 海辺, 陸
+top3 entities near to cluster9>>
+島々, 島, 気候
+top3 entities near to cluster10>>
+林畑, 林, 棚田
+top3 entities near to cluster13>>
+景色, 眺望, 風景

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大田ふるさと資料館_Oota蓄音機ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蓄音機, 蓄音機コレクション
+cluster1:(3)
+スピーカー, オススメ, 人
+cluster2:(1)
+音楽
+cluster3:(1)
+昭和
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

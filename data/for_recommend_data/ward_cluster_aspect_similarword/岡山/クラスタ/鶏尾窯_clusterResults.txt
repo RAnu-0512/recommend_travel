@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鶏尾窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+夫, 汗, 息子 娘, 娘, 先生, 場所, 子供, 体験, 親, 作品, 小学生, 意欲
+cluster1:(3)
+釉薬, 陶芸体験, 陶芸
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

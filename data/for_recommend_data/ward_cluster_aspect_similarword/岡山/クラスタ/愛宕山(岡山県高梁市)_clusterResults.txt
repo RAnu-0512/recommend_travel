@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛宕山(岡山県高梁市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+絶景, 新緑, 空気, 季節, 景色
+cluster1:(2)
+価値, 趣
+cluster2:(2)
+山, 山頂
+cluster3:(2)
+大元, 中国
+cluster4:(6)
+愛宕山, シンボル, ハイキング, 気持ち, 初心者, 名
+cluster5:(3)
+自然, 人々, 市
+cluster6:(1)
+信仰
+cluster7:(2)
+標高, 山名
+cluster8:(1)
+成羽
+cluster9:(1)
+自然歩道
+
+howmany entities : 25
+howmany clusters : 10
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 11entities.

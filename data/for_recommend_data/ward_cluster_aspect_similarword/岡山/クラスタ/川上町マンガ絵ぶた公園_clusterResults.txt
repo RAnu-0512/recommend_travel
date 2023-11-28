@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川上町マンガ絵ぶた公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+絵ぶたまつり, マンガ絵ぶた館, マンガ絵ぶたまつり, マンガ絵ぶた公園, まんが絵ぶ
+cluster1:(2)
+大賞, 準大賞
+cluster2:(11)
+会場, 中止, ねぶた, 公園, 漫画, 観光, あたり, マンガ, 国道, 絵, 建物
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 2entities.

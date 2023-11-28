@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まにわ温泉 白梅の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+風呂, 温泉, お湯
+cluster1:(2)
+段差, 階段
+cluster2:(8)
+洗い場, 女性, シャンプー, エレベーター, コンディショナー, 露天風呂, サウナ, ホテル
+cluster3:(2)
+館内, 外
+cluster4:(2)
+満員, 無色
+cluster5:(1)
+ヌルヌル感
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 7entities.

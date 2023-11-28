@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビッグジョン児島本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+店員, 客, 店, 本店
+cluster1:(4)
+バス, 時間, 予約, 現地
+cluster2:(1)
+お子
+cluster3:(24)
+ボタン, 買い物, ジャパンジーンズ, ジーンズ, ダメージジーンズ, 水玉, 大人, コツ, 仕切り, ダメージ, 位置, スタッフ, 生地, 仕上がり, クーポン, 商品, 力, 気, 作業, 機械, リベット, 子ども, バンダナ, 絵
+cluster4:(1)
+勘違いすり人
+cluster5:(3)
+染め液, インディゴ液, カメ桶
+cluster6:(9)
+体験, バス無料デー, 児島デニム店, ペンケース体験, 全国旅行支援, リベット打ち体験, リベット打ち, ジーンズ作成体験, インディゴ染め体験
+
+howmany entities : 46
+howmany clusters : 7
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 5
+deleted 2entities.

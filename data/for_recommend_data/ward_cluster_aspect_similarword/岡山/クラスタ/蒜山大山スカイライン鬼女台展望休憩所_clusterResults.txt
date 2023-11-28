@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒜山大山スカイライン鬼女台展望休憩所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+大山スカイライン, 大山ドライブ, 米子城跡, 大山
+cluster1:(8)
+小鳥, 野菜, 山, 天気, 緑, 高原, 曇, 椎茸
+cluster2:(2)
+喧騒, 混雑
+cluster3:(7)
+運転, 撮影スポット, 車, 売店, 駐車スペース, 階段, 土産
+cluster4:(3)
+心, 腰, 足
+cluster5:(3)
+山並み, 烏ヶ山, 鏡ヶ成
+cluster6:(8)
+待ち時間, さえずり, ドライブ, 入り口, ホテル, スポット, ところ, スカイライン
+cluster7:(2)
+ベンチ, トイレ
+cluster8:(1)
+大山寺
+cluster9:(4)
+日々, 休日, 時期, 季節
+cluster10:(2)
+地元, 人気
+cluster11:(2)
+途中, 次
+cluster12:(4)
+もの, 方, こと, 人
+cluster13:(2)
+場所, 時間
+cluster14:(1)
+価値
+cluster15:(17)
+風景, 夕方近く, 道, 展望所, 県境, 道沿い, 掛峠, 感動遊歩道, 絶景, 休憩, 中間地点, 雲海, 絶景スポット, 紅葉, 途中休憩, 眺望, 景色
+cluster16:(7)
+蒜山の町, 蒜山, お城巡り旅行, 大山南麓を見渡せる絶景スポット, 蒜山三座, 蒜山大山, 蒜山・大山
+
+howmany entities : 77
+howmany clusters : 17
+howmany entities (more than3entities) : 65
+howmany clusters (more than3entities) : 10
+deleted 12entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真鍋島ふるさと村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木造, 木造校舎
+cluster1:(2)
+四国, 真鍋小中学校
+cluster2:(4)
+道, 勾配, 迷路, 道路
+cluster3:(8)
+ロケ, 場所, 街, 港町, 歴史, 風景, 映画, 景色
+cluster4:(10)
+こと, マップ, 方, 待ち時間, 島, 真鍋島, 気, 外, フェリー, 問題
+cluster5:(1)
+健脚
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 5entities.

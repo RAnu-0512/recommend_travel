@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遍照寺(岡山県笠岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜, 西
+cluster1:(8)
+多宝塔, 遍照寺多宝塔, 真言宗, 歴史, 場所, 梵鐘, 古刹, 建物
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

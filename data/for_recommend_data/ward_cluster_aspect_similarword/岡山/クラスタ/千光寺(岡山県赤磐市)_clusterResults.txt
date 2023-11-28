@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千光寺(岡山県赤磐市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時代, 江戸 時代
+cluster1:(2)
+桜, 梅
+cluster2:(2)
+秋, 紅葉
+cluster3:(1)
+奈良
+cluster4:(14)
+寺院, 想像, 歴史, 勅命, 迫力, 千光寺, 境内, 寺, 目, 本堂, 文化, 仁王門, 建物, 火災
+cluster5:(1)
+報恩大師
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 8entities.

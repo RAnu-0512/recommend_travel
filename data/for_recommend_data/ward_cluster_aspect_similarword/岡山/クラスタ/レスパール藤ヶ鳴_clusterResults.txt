@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レスパール藤ヶ鳴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+入浴券, 日帰り入浴, 入浴
+cluster1:(18)
+キャラ, ラベンダー, タイプ, オーナー, ローズマリーエキス, サイト, 岡山, ペット, ロッカー, 露天風呂, バスボム, タオル, タネ, 飛行機, レスパール, ローズマリー, 小学生, エキス
+cluster2:(4)
+こと, 体験, 検討, もの
+cluster3:(3)
+場所, 時間, 近く
+cluster4:(2)
+種類, 別
+cluster5:(1)
+値段
+cluster6:(1)
+足
+cluster7:(9)
+家族, 学年, 女性, 笑顔, 全員, 雨, 子供, 食事, 景色
+cluster8:(9)
+塩サウナ, 風呂, 男女時間, 浴場, 電源, 遊具, 公園, 温泉, 水道
+
+howmany entities : 50
+howmany clusters : 9
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 6
+deleted 4entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弘法寺(岡山県瀬戸内市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+シーズン, 方, 年寄り, 景観, 高台, お子様連れ, 歴史, 佇まい, 新緑, 散策, 階段, 西, 高野山, 千手観音, 景色, 体力, 桜
+cluster1:(7)
+焼失, 大寺, 山門, 寺, 本堂, 本尊, 堂
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 0entities.

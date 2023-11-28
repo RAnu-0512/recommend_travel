@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白山神社(岡山県岡山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伝説, 伝説ゆかり
+cluster1:(5)
+姿, 感じ, 気, 形, こと
+cluster2:(14)
+場所, 近く, 木, 中, 縁, 時間, 方々, 歴史, 地, 人, 地元, 昔, 子供, 市民
+cluster3:(15)
+小さめ, お参り, 縁結び, 山陽自動車道, ミステリースポット, 気持ち, 桃太郎, パワー, 桃太郎ゆかり, ゆかり, スポット, ところ, 鬼, 雰囲気, 神
+cluster4:(13)
+地名, 風景, 環境, 心, 住宅, 歯, 首, 階段, 利益, 風情, 自然, 季節, 建物
+cluster5:(3)
+岡山IC, 岡山, 吉備
+cluster6:(6)
+神社, 境内, 神社めぐり, 狛犬, 神社内, 寺
+cluster7:(5)
+旅行, 清掃, 清め, 参拝, 散策
+cluster8:(6)
+白山, 木花, 構え獅子, ゆっくり花, 塚, 花々
+cluster9:(2)
+のんびり歩き散策, 由緒正しき神社
+
+howmany entities : 71
+howmany clusters : 10
+howmany entities (more than3entities) : 67
+howmany clusters (more than3entities) : 8
+deleted 4entities.

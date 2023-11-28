@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:衆楽園の神代杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, 神代杉
+cluster1:(2)
+建物, 樹木
+cluster2:(1)
+楽園
+cluster3:(1)
+神代
+cluster4:(1)
+造園
+cluster5:(1)
+樹齢
+cluster6:(1)
+杉の木
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

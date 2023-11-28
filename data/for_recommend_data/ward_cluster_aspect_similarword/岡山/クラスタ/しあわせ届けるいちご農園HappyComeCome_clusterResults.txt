@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しあわせ届けるいちご農園HappyComeCome>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+オンラインいちご狩り, いちご狩りいちご狩り, 狩り方, いちご狩り, いちご狩り体験
+cluster1:(10)
+農家, いちご園, しあわせ届けるいちご農園, 苺, 完熟, イチゴ味, 完熟いちご, いちご農園, 農園, 品種
+cluster2:(4)
+方, 見分け方, 取り方, 食べ比べ
+cluster3:(13)
+予定, 場所, 場, 体験, 時間, 種類, 写真, 意見, 話, 全て, 説明, 内容, 他
+cluster4:(5)
+こと, 美味しさ, 笑, 感じ, 気
+cluster5:(1)
+口調
+cluster6:(2)
+隣, 後ろ
+cluster7:(13)
+口コミ, イチゴ, ジェラード, スーパー, おみやげ, ズボン, いちご, テーブル, イートイン, スペース, スタイル, ハウス, ジェラート
+cluster8:(4)
+家族, 子供, 子ども, お子様
+cluster9:(4)
+足場, 裾, 土産, 長靴
+cluster10:(1)
+笠岡
+
+howmany entities : 62
+howmany clusters : 11
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 8
+deleted 4entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:相原公園周辺の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+場所, 近代, ソメイヨシノ, 桜並木, 一帯, 近く, 時期, 農業, 周辺, 公園, 木, ランチ
+cluster1:(6)
+花見, 開花, 名所, 天気, 満開, 桜
+cluster2:(3)
+相原池そば, 井原桜まつり, 相原池
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:我無らん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雨, 傘
+cluster1:(2)
+温泉, 旅館
+cluster2:(6)
+館内, 料理, 部屋, 雰囲気, 冬, 味付け
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

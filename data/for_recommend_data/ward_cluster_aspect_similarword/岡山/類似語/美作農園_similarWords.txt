@@ -1,0 +1,23 @@
+--------------------similar_words:美作農園--------------------
+top3 entities near to cluster0>>
+イチゴ, 苺, いちご
+top3 entities near to cluster1>>
+時間, 制限, 制約
+top3 entities near to cluster2>>
+イチゴ, ブドウ, ぶどう
+top3 entities near to cluster3>>
+トイレ, ベンチ, 売り場
+top3 entities near to cluster7>>
+おすすめ, オススメ, メイン
+top3 entities near to cluster8>>
+トッピング, テーブル, デザート
+top3 entities near to cluster16>>
+自宅
+top3 entities near to cluster18>>
+土産物, 土産, 売店
+top3 entities near to cluster20>>
+孫, 喜ぶ, ひ孫
+top3 entities near to cluster21>>
+予約, 受付, 案内
+top3 entities near to cluster22>>
+C, ベリー, アンド

@@ -1,0 +1,19 @@
+--------------------similar_words:道の駅 風の家--------------------
+top3 entities near to cluster1>>
+野菜, 果物, 農産物
+top3 entities near to cluster2>>
+蕎麦, 野菜, 大根
+top3 entities near to cluster3>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster4>>
+ブドウ, ぶどう, 葡萄
+top3 entities near to cluster5>>
+トマト, ヒマワリ, ひまわり
+top3 entities near to cluster7>>
+スーパー, ドライブ, ショップ
+top3 entities near to cluster8>>
+ソフトクリーム, アイスクリーム, ジェラート
+top3 entities near to cluster12>>
+土産物, 売り場, おみやげ
+top3 entities near to cluster15>>
+家族, 両親, 農家

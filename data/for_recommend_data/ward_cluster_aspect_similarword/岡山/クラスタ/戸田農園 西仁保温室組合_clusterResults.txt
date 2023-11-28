@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:戸田農園 西仁保温室組合>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+実, 年齢
+cluster1:(5)
+場所, 手, 時期, 料金, 人あたり
+cluster2:(2)
+家族, 夫婦
+cluster3:(3)
+マスカット, シャインマスカット, (*^^*
+cluster4:(2)
+ところ, スタッフ
+cluster5:(1)
+子ども
+cluster6:(1)
+ぶどう
+cluster7:(1)
+口コミ
+cluster8:(1)
+ココ
+cluster9:(1)
+味
+cluster10:(1)
+粒
+cluster11:(6)
+美味しさ, 感じ, 程度話, 説明, 狩り, 対応
+cluster12:(2)
+岡山旅行, 貸切状態
+
+howmany entities : 28
+howmany clusters : 13
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 14entities.

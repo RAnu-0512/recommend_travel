@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JFE瀬戸内海ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+オープン, 全英オープン
+cluster1:(3)
+クオリティ, グリーン, アドバイス
+cluster2:(1)
+キャディ
+cluster3:(1)
+コース
+cluster4:(1)
+初心者
+cluster5:(1)
+友人
+cluster6:(1)
+景色
+cluster7:(1)
+開催コース
+
+howmany entities : 11
+howmany clusters : 8
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 8entities.

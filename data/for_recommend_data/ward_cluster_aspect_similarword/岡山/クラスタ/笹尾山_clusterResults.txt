@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笹尾山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+道, 方, 場所, 車, 勉強, ひとつ, ところ, 瀬戸内海, 関ヶ原, 浦伊部, 気持ち, 初心者
+cluster1:(2)
+姫路, 備前エリア
+cluster2:(2)
+大橋, 竹矢
+cluster3:(11)
+絶景, 管理道路, 標高, 景観, 山腹, 頂上, 山, 山頂, 島々, 景色, 登山
+cluster4:(3)
+片上湾, 生諸島, 西島・家島
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 4entities.

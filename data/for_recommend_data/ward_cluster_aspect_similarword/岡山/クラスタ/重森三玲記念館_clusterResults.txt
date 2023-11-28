@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:重森三玲記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ふるさと, 真ん中
+cluster1:(1)
+公民館
+cluster2:(1)
+彼
+cluster3:(1)
+隣
+cluster4:(1)
+庭
+cluster5:(1)
+吉川地区
+cluster6:(1)
+記念館
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日生諸島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+日生, 日生 ひなせ, た.13, 日生大橋
+cluster1:(6)
+品質, 屈指, 背シャロット, 南東, 瀬戸内海特有, 人気
+cluster2:(2)
+海産物, 無人島
+cluster3:(2)
+気持ち, 雰囲気
+cluster4:(4)
+フェリー, カキオコ, 瀬戸内海, 鹿久居島
+cluster5:(3)
+レストラン, 魚介類, フルコース
+cluster6:(2)
+オススメ, 見どころ
+cluster7:(1)
+レジャー
+cluster8:(1)
+夕暮れ
+cluster9:(1)
+ミカン
+cluster10:(1)
+シェフ
+cluster11:(3)
+ご飯, 自然, 子供
+cluster12:(13)
+場所, 目, 中, 今回, 前, 方, 方々, 施設, 印象, 手, 写真, 土産, 町
+cluster13:(6)
+史跡, 絶景, 景観, 美しさ, 気候, 景色
+cluster14:(18)
+頭島レストラン, 牡蠣, 波, 諸島, 島, 海, 島々, 島巡り, 頭島, 定期船, 海鮮, 橋, 船, 大橋, 焼き牡蠣, 島内, 前港, 小豆島行きフェリー
+
+howmany entities : 67
+howmany clusters : 15
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 8
+deleted 10entities.

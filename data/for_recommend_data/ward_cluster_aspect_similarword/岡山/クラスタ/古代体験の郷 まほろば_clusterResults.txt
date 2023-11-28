@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古代体験の郷 まほろば>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ピザ体験予約, ピザ作り
+cluster1:(16)
+アドベンチャー, 車高, 泊まり, 次回, 古代, 時間, 釣り, 施設, 遅れ, カヌー, 子供, 体験, 生活, 岡山, 車, 海水浴
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 2entities.

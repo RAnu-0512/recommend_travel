@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井山宝福寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+修業時代, 修行
+cluster1:(13)
+湯豆腐, 静けさ, ネズミ, 虚空蔵菩薩, ゆかり, ライト, 臨済宗, 京都, スペース, 紅葉狩り, 雰囲気, ガードマン, みどころ
+cluster2:(2)
+伝説, 涙
+cluster3:(5)
+青もみじ, 秋, 時期, 冬, 季節
+cluster4:(13)
+中, こと, 好み, 人, 時間, 満載, もの, 評価, 余裕, 清々しさ, 多く, 事, お腹
+cluster5:(8)
+お庭, 散策, 駐車スペース, 整備, 予約, 渋滞, 庭, 敷地
+cluster6:(1)
+つけ汁
+cluster7:(18)
+寺院, 紅葉シーズン, 天井絵, 秋紅葉, 石仏, 紅葉客, 新緑, 井山, 境内, 寺, 紅葉, 本堂, 本尊, 山号, 絵, 雪舟, 石造, 塔頭
+
+howmany entities : 62
+howmany clusters : 8
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 5
+deleted 5entities.

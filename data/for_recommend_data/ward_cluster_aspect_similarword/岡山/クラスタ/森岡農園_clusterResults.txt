@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森岡農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ぶどう狩り, ピオーネ狩り
+cluster1:(6)
+家族, 中, 畑, ピオーネ, 出会い, ぶどう
+cluster2:(2)
+貸し切り状態, 所
+cluster3:(1)
+試食
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 5entities.

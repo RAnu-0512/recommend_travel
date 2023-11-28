@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山中鹿介の墓(岡山県高梁市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+こと, 時代, 公園風, 田んぼ, 周囲, 規模, 大河ドラマ, 地, 墓, 畑, 国道, 題材
+cluster1:(3)
+浦, 鞆, 尼子
+cluster2:(1)
+居城跡
+cluster3:(1)
+幟旗
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,71 @@
+--------------------similar_words:倉敷美観地区--------------------
+top3 entities near to cluster1>>
+土産物店, 土産店, 土産, 土産物
+top3 entities near to cluster3>>
+撮影, 写真, 撮る
+top3 entities near to cluster4>>
+散歩, 散策, 出掛け
+top3 entities near to cluster6>>
+時間, 午前, 早朝
+top3 entities near to cluster13>>
+大正, 明治, 佐原
+top3 entities near to cluster14>>
+デニム, ジーンズ, パンツ
+top3 entities near to cluster15>>
+町並み, 街並み, 町並
+top3 entities near to cluster17>>
+夕暮れ, 散歩道, 夕方
+top3 entities near to cluster18>>
+ひと時, 気持ち, 思い出
+top3 entities near to cluster20>>
+ライト, カメラ, チョーク
+top3 entities near to cluster21>>
+タクシー, パーキング, レンタル
+top3 entities near to cluster22>>
+ショップ, スタッフ, オーナー
+top3 entities near to cluster25>>
+レストラン, テーマパーク, ショッピング
+top3 entities near to cluster27>>
+スケジュール, アウトレット, ゴールデンウィーク
+top3 entities near to cluster32>>
+ホテル, カード, タイムズ
+top3 entities near to cluster33>>
+グルメ, ガイド, ショッピング
+top3 entities near to cluster35>>
+かき氷, パフェ, アイス
+top3 entities near to cluster36>>
+スイーツ, スィーツ, 飲み物
+top3 entities near to cluster38>>
+トイレ, ゴミ箱, 図書館
+top3 entities near to cluster39>>
+川, 川沿い, 川岸
+top3 entities near to cluster40>>
+地区, 町, 一帯
+top3 entities near to cluster41>>
+木々, 水路, 水辺
+top3 entities near to cluster42>>
+駅街, 駅, 駅前
+top3 entities near to cluster45>>
+建物, 外壁, 家屋
+top3 entities near to cluster47>>
+風景, 景色, 景観
+top3 entities near to cluster48>>
+食事, 料理, 家族
+top3 entities near to cluster49>>
+情緒, 風情
+top3 entities near to cluster50>>
+孫, 息子, 友人
+top3 entities near to cluster51>>
+季節, 時期, 気分
+top3 entities near to cluster52>>
+期間, 限定, 時間
+top3 entities near to cluster54>>
+天気雨, 天気, 人出
+top3 entities near to cluster56>>
+世界, 歴史, 各国
+top3 entities near to cluster60>>
+日, 木, 土
+top3 entities near to cluster61>>
+頃, 以前, 昔
+top3 entities near to cluster62>>
+夕方, 今日, 地元

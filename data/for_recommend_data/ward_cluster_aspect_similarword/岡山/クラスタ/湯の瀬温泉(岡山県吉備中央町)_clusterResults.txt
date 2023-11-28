@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯の瀬温泉(岡山県吉備中央町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+硫黄臭, 硫黄
+cluster1:(2)
+近く, 意外
+cluster2:(3)
+方, 人, 事
+cluster3:(4)
+シャワー, 山, カラン, トロン
+cluster4:(2)
+匂い, 温度
+cluster5:(5)
+泉質, 小森温泉, 温泉, お湯, 湯
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 6entities.

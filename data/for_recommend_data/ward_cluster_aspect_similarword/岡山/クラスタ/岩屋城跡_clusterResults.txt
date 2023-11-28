@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩屋城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+争奪, 激戦
+cluster1:(4)
+森, 山上, 草, 木
+cluster2:(3)
+傾斜, 景色, 体力
+cluster3:(5)
+中心, スポット, スニーカー, 知名度, 岩屋山
+cluster4:(3)
+場所, もの, 感じ
+cluster5:(1)
+幾度
+cluster6:(1)
+指定
+cluster7:(1)
+守護
+cluster8:(1)
+国道
+cluster9:(2)
+指定史跡, 史跡
+cluster10:(4)
+岩屋城跡, 城跡巡り, 城跡, 城
+cluster11:(2)
+跡地, 跡
+cluster12:(2)
+山城跡, 山城
+cluster13:(1)
+案内板
+cluster14:(1)
+籠城戦
+cluster15:(1)
+嘉吉元年
+
+howmany entities : 34
+howmany clusters : 16
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 5
+deleted 15entities.

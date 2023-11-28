@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水島展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+夜景, 工場夜景, 工場
+cluster1:(2)
+室蘭, 倉敷
+cluster2:(6)
+感じ, きっかけ, 煙, 明かり, 昼間, コンビナート
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宿場町跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+花見, がいせん桜, がいせん桜まつり, いせん桜, 桜
+cluster1:(5)
+水車, わき, 小川, 鯉, 用水
+cluster2:(14)
+道, 街, 人, 関係, 桜並木, 駅, 通り, 街並み, 枝振り, コチラ, 範囲, 多く, 心, 邸宅
+cluster3:(5)
+寒さ, 秋, 時期, 冬, 季節
+cluster4:(1)
+新庄宿
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 4
+deleted 1entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:自然牧場公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+牧草, 放牧
+cluster1:(5)
+こと, 側, 姿, 場所, 又
+cluster2:(5)
+駅, 芝生, 広場, 公園, 道路
+cluster3:(3)
+弁当, 牛, 紅葉
+cluster4:(1)
+案内図
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 3entities.

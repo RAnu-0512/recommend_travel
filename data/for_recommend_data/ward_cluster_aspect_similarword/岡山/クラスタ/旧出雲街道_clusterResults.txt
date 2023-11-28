@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧出雲街道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+姫路, 出雲
+cluster1:(5)
+家, 街道, 歴史, 参勤交代, 建物
+cluster2:(1)
+松平藩
+cluster3:(1)
+津山城東むかし町
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

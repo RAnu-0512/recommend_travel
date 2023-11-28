@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天神峡(岡山県井原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+斜面沿い, 川沿い
+cluster1:(2)
+東側, 西側
+cluster2:(4)
+夕方, 方, 場所, 近く
+cluster3:(8)
+家族, デイキャンプ, トイレ, 人, コントラスト, 子供, バーベキュー, 子ども
+cluster4:(2)
+魚, 釣り
+cluster5:(3)
+川, 川岸, 山
+cluster6:(3)
+陽, 夕日, 紅葉
+cluster7:(1)
+子供連れ
+cluster8:(2)
+道具類, 炊事場
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 9entities.

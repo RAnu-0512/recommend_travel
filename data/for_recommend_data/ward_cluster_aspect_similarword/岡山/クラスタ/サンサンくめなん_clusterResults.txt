@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サンサンくめなん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JA津山管, JA岡山管
+cluster1:(2)
+岡山, JA岡山
+cluster2:(13)
+道, 品ぞろえ, 秋, 駅, もの, 野菜, 果物, 商品構成, 直売施設, 国道, 敷地, クリ, 管内
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 4entities.

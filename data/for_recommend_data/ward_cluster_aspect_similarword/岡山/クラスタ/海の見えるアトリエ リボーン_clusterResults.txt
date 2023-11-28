@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海の見えるアトリエ リボーン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+天気, 夏休み, 説明, 子供, 海, クーラー, カフェReborn, 瀬戸内
+cluster1:(3)
+思い出作り, アクセサリー作り, 体験会場
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 0entities.

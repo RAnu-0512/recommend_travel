@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永生与窯(とおとがま)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+陶器制作体験, 陶窯体験, 陶芸体験
+cluster1:(10)
+場所, 体験, 先生, 時間, 目的, 作品, 全て, 次, 説明, 感想
+cluster2:(2)
+満足, 自信
+cluster3:(5)
+方, ほう, 笑, 感じ, 影響
+cluster4:(1)
+連携 楽しみ
+cluster5:(6)
+夫, 店員, 息子, 子供, 両親, 中学
+cluster6:(2)
+信楽焼, 焼き物
+cluster7:(2)
+コロナ, コップ
+cluster8:(11)
+おかげ, スポット, ところ, スタッフ, 修学旅行, おっさん, スタンプ, こじんまり, 初心者, お子様, タンブラー
+cluster9:(1)
+猫
+cluster10:(1)
+岡山
+cluster11:(12)
+陶器, 陶芸, 焼酎カップ, 手びねり, 焼酎, ソーダ水, 備前焼き, 土ひねり体験, 粘土, 手ひねり体験, 皿, 湯の郷温泉
+
+howmany entities : 56
+howmany clusters : 12
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 6
+deleted 9entities.

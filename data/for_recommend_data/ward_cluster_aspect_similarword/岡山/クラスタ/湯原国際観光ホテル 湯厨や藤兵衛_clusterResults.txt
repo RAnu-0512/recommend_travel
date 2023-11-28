@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯原国際観光ホテル 湯厨や藤兵衛>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ボリューム, ほう
+cluster1:(2)
+食事, 料理
+cluster2:(1)
+開店
+cluster3:(1)
+た.do
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

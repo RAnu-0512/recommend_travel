@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:azovii jewelry>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石, ストーン代
+cluster1:(16)
+中, 最後, ビーズ, ストーン, 時間, 思い出, 姉さん, スタッフ, ストラップ, 親父, 物, 子供, 仕上げ, こじんまり, ネックレス, 他
+cluster2:(7)
+値段, 体験, 料金, 店内, 店, 予約, ネックレス制作
+cluster3:(3)
+機会, 悩み, 何か
+cluster4:(1)
+色形
+cluster5:(1)
+家族全員本気
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 4entities.

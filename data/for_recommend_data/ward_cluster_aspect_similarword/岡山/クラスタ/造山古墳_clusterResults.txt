@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:造山古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+墳丘, 普通古墳, 盾築遺跡, 古墳
+cluster1:(3)
+岡山, 吉備地方, 地元岡山
+cluster2:(2)
+履中天皇陵, 説明文
+cluster3:(6)
+形, 形状, 想像, 様子, 感動, 威厳
+cluster4:(6)
+全国, 歴史, 古代, 規模, 日本, 国内
+cluster5:(2)
+樹木, 山々
+cluster6:(3)
+中央, 下, 上
+cluster7:(3)
+場所, 車, 近く
+cluster8:(8)
+中, 天皇陵, 昼休み, ビジターセンター, グルグル, 山, つながり, 吉備路
+cluster9:(1)
+道
+cluster10:(6)
+政権, 借景, 整備, 史跡, 訪問, 観光
+cluster11:(6)
+作り込み, 大きさ, 後円部, 前方部, 前方, 巨大さ
+
+howmany entities : 50
+howmany clusters : 12
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 9
+deleted 5entities.

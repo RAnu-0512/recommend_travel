@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津黒山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西ピーク1, 作北山地
+cluster1:(3)
+縦走ツアー, 山頂, 登山
+cluster2:(11)
+中生代, 側, 津黒山, イワカガミ, 岡山, 頂, 山, 草原, 山地, 安山岩, 中国
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 2entities.

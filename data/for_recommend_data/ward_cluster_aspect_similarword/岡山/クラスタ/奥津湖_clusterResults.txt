@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥津湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+奥津湖, 郷奥津湖
+cluster1:(2)
+道路, 景色
+cluster2:(5)
+家族, 水, 友人, 時間, カヤック
+cluster3:(6)
+湖面, 湖, ダム, 渓流, 水面, 浮島
+cluster4:(1)
+みた看板
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 5entities.

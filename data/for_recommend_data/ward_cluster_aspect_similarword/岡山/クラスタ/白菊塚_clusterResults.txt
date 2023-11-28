@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白菊塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+白菊, 里翠, 白菊塚
+cluster1:(23)
+しらきく, 勝山, 石段, 句集, 散策, 石碑, 美しさ, 境内, 説明板, 目, 没後, 塵, 文化財, 碑, 芭蕉, 建立, カフェ, 料亭, 文化, 句, 現地, 女主人, 高台
+cluster2:(1)
+無塵集
+cluster3:(1)
+勝山の俳人松毬庵里翠 (しょうきゅうあん・りすい
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,23 @@
+--------------------similar_words:西川緑道公園--------------------
+top3 entities near to cluster0>>
+豚, デミ, 串
+top3 entities near to cluster2>>
+カフェ, レストラン, 喫茶店
+top3 entities near to cluster3>>
+子供, 幼児, 子ども
+top3 entities near to cluster9>>
+時間, 時期, 話
+top3 entities near to cluster10>>
+中心, 周辺, 横
+top3 entities near to cluster11>>
+洋服, 小物, 雑貨
+top3 entities near to cluster12>>
+駅店, 駅車, 駅
+top3 entities near to cluster17>>
+桜, 花, 緑
+top3 entities near to cluster18>>
+夜雨, 夜, 週末
+top3 entities near to cluster26>>
+公園, 散歩, 散策
+top3 entities near to cluster27>>
+緑道, 公園道, 公園, 緑

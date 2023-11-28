@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベルピール自然公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+喫茶コーナー, 喫茶室
+cluster1:(7)
+結婚式, ボランティア, ベンチ, リボン, シャッター, トイレ, 張り紙
+cluster2:(3)
+稲刈り, 東粟倉, 田んぼ
+cluster3:(9)
+友人, 人, 時期, 昔, 途中, 力, 意味, 気, 上
+cluster4:(1)
+幾つか
+cluster5:(22)
+道, 鐘, 自然, 石, 園内, 建物, 音, 跡, 鐘楼, 施設, 眼下, 石段, 山, 中腹, 看板, ハート型, 公園, ベル, 集落, 緑, 国道, 景色
+
+howmany entities : 44
+howmany clusters : 6
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 4
+deleted 3entities.

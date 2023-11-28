@@ -1,0 +1,15 @@
+--------------------similar_words:トム・ソーヤー冒険村--------------------
+top3 entities near to cluster0>>
+家族, 子供, 友達
+top3 entities near to cluster2>>
+掃除, 汚れ, 台所
+top3 entities near to cluster3>>
+天気, 豪雨, 運
+top3 entities near to cluster4>>
+緑, 川, 山
+top3 entities near to cluster6>>
+バーベキュー, キャンプ, コテージ
+top3 entities near to cluster7>>
+ロッジ, ホテル, 山小屋
+top3 entities near to cluster8>>
+タオル, ふきん, 珪藻土

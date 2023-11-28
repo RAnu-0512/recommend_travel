@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ガラス工房Minerva>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+ステンドグラス, 形, 作業, 感じ, 夫, 時間, ママ, 組み合わせ, 講師, もの, ペース, キーホルダー, ガラス
+cluster1:(3)
+雪, 結晶, 菱形
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥高山公園キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+通話, 電話, 電話途中
+cluster1:(2)
+設営, ペグ
+cluster2:(2)
+芝, かぶ
+cluster3:(2)
+効き, 態度
+cluster4:(2)
+雲海, 景色
+cluster5:(2)
+友人, 人
+cluster6:(3)
+アウトドア, キャンプ, バンガロー
+cluster7:(2)
+オススメ, イベント
+cluster8:(1)
+思い出
+cluster9:(1)
+中
+cluster10:(1)
+水はけ
+cluster11:(1)
+場所
+cluster12:(1)
+ほう
+cluster13:(5)
+川, 自然, 雨, 地面, 虫
+
+howmany entities : 28
+howmany clusters : 14
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 17entities.

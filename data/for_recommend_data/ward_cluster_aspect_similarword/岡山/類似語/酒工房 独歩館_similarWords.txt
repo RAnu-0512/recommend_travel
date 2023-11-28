@@ -1,0 +1,9 @@
+--------------------similar_words:酒工房 独歩館--------------------
+top3 entities near to cluster0>>
+訪問, 見学, 訪れ
+top3 entities near to cluster1>>
+女性, 男性, 年配
+top3 entities near to cluster4>>
+料理酒, 料理, 地酒
+top3 entities near to cluster5>>
+醸造, 酒造, 飲み

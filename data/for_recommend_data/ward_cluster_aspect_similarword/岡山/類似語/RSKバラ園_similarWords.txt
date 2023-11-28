@@ -1,0 +1,19 @@
+--------------------similar_words:RSKバラ園--------------------
+top3 entities near to cluster1>>
+バラ園, バラ, 薔薇園, 薔薇
+top3 entities near to cluster3>>
+子供, 母親, 子ども
+top3 entities near to cluster4>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster5>>
+イベント, レストラン, ピクニック
+top3 entities near to cluster9>>
+気持ち, 見た目, カメラ
+top3 entities near to cluster14>>
+バス, 管理, 株
+top3 entities near to cluster21>>
+種類, 看板
+top3 entities near to cluster22>>
+入口, 入り口, 裏手
+top3 entities near to cluster23>>
+園内, 季節, 公園

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR岡山駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+岡山, 岡山ー, すて岡山
+cluster1:(3)
+博多行, 方面, 方面行
+cluster2:(2)
+乗車時間, 乗車
+cluster3:(3)
+関東, 四国, 東京
+cluster4:(5)
+みずほ, 新幹線, 乗り継ぎ, のぞみ, きっぷ
+cluster5:(3)
+津山線, 吉備線, 桃太郎
+cluster6:(1)
+JR
+cluster7:(16)
+路線, 本数, 人, 機会, 調整, 駅, 列車, 感じ, 線, 狙い, 時刻, 桃太郎像, 多く, 店, 団体ツアー, 観光
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 6
+deleted 3entities.

@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿智神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+場所, 気分, 所, 名残, 意味, 方, 風情, 予定, こと, 態度
+cluster1:(3)
+正面, 表, 端
+cluster2:(12)
+守護神, アーケード, 思い出, 御朱印, 町並み, 歴史, 瀬戸内海, アイビースクエア, 倉敷川, 行き方, つもり, 雰囲気
+cluster3:(2)
+女性, 人
+cluster4:(2)
+友人, 家族
+cluster5:(8)
+近く, 上, お陰, 米, 他, 地元, 次, 人気
+cluster6:(18)
+同級生旅, 眼下, 景色, 道, 車, 街, 観察, ナビ, 調べ, 清掃, 途中寄り道, 訪問, 参拝, 旅, 駅, 観光, 地区, 高台
+cluster7:(4)
+階段側, 正面階段, 石段, 階段
+cluster8:(3)
+御朱印帳, 御朱印頂, 絵馬殿
+cluster9:(2)
+倉敷, 本町
+cluster10:(3)
+藤, 桜, 藤棚
+cluster11:(1)
+アケボノフジ
+cluster12:(10)
+鳥居, 海, 石, 神社, 境内, 敷地, おじちゃん, 寺, 巫女, 神
+cluster13:(1)
+鶴形公園
+cluster14:(1)
+阿智の藤
+
+howmany entities : 80
+howmany clusters : 15
+howmany entities (more than3entities) : 71
+howmany clusters (more than3entities) : 9
+deleted 9entities.

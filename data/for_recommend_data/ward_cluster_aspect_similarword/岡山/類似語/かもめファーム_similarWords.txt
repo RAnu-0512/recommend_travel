@@ -1,0 +1,17 @@
+--------------------similar_words:かもめファーム--------------------
+top3 entities near to cluster1>>
+いちご, イチゴ, 苺
+top3 entities near to cluster2>>
+バッグ, 飲み物, スイーツ
+top3 entities near to cluster4>>
+子供, 家族, 母親
+top3 entities near to cluster6>>
+受付, 予約, 受付け
+top3 entities near to cluster7>>
+種類, 値段
+top3 entities near to cluster8>>
+利用, 仕事, 使用
+top3 entities near to cluster13>>
+時間, 天気
+top3 entities near to cluster15>>
+イチゴ, いちご, 苺

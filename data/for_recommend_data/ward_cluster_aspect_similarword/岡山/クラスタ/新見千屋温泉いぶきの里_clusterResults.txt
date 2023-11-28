@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新見千屋温泉いぶきの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+こと, 前, 方, 疲れ, 場所, スジャータ, イオン, 人, ソフトクリーム, 種類, いぶき, プライバシー, 時期, 釣り堀, 体, 露天風呂, ついたて, スノボ帰り, タオル, ドライブ, 転換, 気持ち, 周り, スキー, ポカポカ
+cluster1:(10)
+施設, 座敷, 館内, 冬, 山麓, 料理, 設備, 宿泊, 景色, 気候
+cluster2:(2)
+千屋, 千屋温泉
+cluster3:(2)
+いぶきの里, 里
+cluster4:(2)
+新見, 岡山
+cluster5:(1)
+泉質
+cluster6:(13)
+温泉気分, ^)温泉, すべすべ美肌温泉, 浴槽, 風呂, 美肌, 浴場, 炭酸水素, 気分, 肌, 温泉, お湯, 湯
+
+howmany entities : 55
+howmany clusters : 7
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 3
+deleted 7entities.

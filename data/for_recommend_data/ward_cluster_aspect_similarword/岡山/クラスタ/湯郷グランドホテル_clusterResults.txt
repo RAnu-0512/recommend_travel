@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯郷グランドホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+方たち, 満足, 量, 理由, 感じ, 気分, 内容, 対応, 過ごし方
+cluster1:(18)
+家族, 時間, ピカピカ, スタッフ, 昼間, ポイント, 夏休み, 露天風呂, 子供, 休日, プラン, 家, 温泉, 雰囲気, サウナ, 子ども, ホテル, ランチ
+cluster2:(7)
+接客, ご飯, 洋食, 予約, 食事, 昼食, 料理
+cluster3:(1)
+貸切状態
+cluster4:(2)
+備考欄, 一品一品
+
+howmany entities : 37
+howmany clusters : 5
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 3
+deleted 3entities.

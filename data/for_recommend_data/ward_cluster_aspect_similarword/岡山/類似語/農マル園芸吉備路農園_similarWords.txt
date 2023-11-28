@@ -1,0 +1,27 @@
+--------------------similar_words:農マル園芸吉備路農園--------------------
+top3 entities near to cluster0>>
+ピザ屋, パン屋, パン, ピザ
+top3 entities near to cluster2>>
+食材店, 飲食店, 飲食, 食材
+top3 entities near to cluster3>>
+果物, イチゴ, お菓子
+top3 entities near to cluster4>>
+販売, 購入, 価格
+top3 entities near to cluster5>>
+子供, 子ども, 家族
+top3 entities near to cluster6>>
+エリア, 施設, 駅
+top3 entities near to cluster7>>
+態度
+top3 entities near to cluster11>>
+時期, 時, 時間
+top3 entities near to cluster13>>
+ピザ, ピッツア, ピッツァ
+top3 entities near to cluster14>>
+野菜, 果物, 食材
+top3 entities near to cluster16>>
+農家, 産直, 農産物
+top3 entities near to cluster17>>
+農園, 狩り, 体験
+top3 entities near to cluster19>>
+季節, 時季, 時期

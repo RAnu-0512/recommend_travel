@@ -1,0 +1,9 @@
+--------------------similar_words:「のれん」の町並み--------------------
+top3 entities near to cluster1>>
+軒先, 店先, 暖簾
+top3 entities near to cluster2>>
+町並み, 町並
+top3 entities near to cluster3>>
+町, 町民, 役場
+top3 entities near to cluster4>>
+風情, 人達, 本当

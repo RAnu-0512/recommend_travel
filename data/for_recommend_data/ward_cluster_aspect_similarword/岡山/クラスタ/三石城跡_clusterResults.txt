@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三石城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伊東, 岡山, 山城
+cluster1:(4)
+天皇, 境, 町, 天王山
+cluster2:(1)
+地頭頭
+cluster3:(1)
+伊東大和二郎
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

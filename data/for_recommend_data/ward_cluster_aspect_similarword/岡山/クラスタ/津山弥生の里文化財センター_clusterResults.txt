@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津山弥生の里文化財センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+付属施設, 隣, 展示, 機能, 暮らし, テーマ, 地方, 関係, 住居
+cluster1:(2)
+住居址, 沼弥生住居址群
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

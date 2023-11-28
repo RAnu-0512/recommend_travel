@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 岡山駅東口店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+店員, 客
+cluster1:(2)
+変更, 日程
+cluster2:(5)
+時間, 遅れ, レンタカー側, 不手際, 他県
+cluster3:(1)
+旅
+cluster4:(1)
+責任
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 6entities.

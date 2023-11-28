@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井原市文化財センター古代まほろば館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+展示室, 展示, 考古学資料, 資料
+cluster1:(4)
+遺跡, 銅鐸, 文様, 痕跡
+cluster2:(2)
+中心, 大半
+cluster3:(2)
+方, ハンズオンテーブル
+cluster4:(1)
+時代
+cluster5:(2)
+体験, 勉強
+cluster6:(3)
+奥, 館内, 建物
+cluster7:(1)
+朱
+cluster8:(1)
+研修室整理作業室
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 9entities.

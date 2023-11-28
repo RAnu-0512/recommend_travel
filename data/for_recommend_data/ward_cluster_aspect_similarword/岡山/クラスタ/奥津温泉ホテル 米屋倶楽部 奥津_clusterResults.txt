@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥津温泉ホテル 米屋倶楽部 奥津>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+休み, 電話, 予約
+cluster1:(3)
+フロント, メール, ところ
+cluster2:(2)
+こと, 場合
+cluster3:(1)
+外観
+cluster4:(1)
+確定
+cluster5:(1)
+お湯
+cluster6:(1)
+予約確定メール
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

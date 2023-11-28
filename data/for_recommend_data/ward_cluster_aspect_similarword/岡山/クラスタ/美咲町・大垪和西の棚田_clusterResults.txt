@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美咲町・大垪和西の棚田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+棚田界, 大垪和西の棚田, 棚田観, 日本棚田百選, 棚田, 棚田公園, 棚田巡り, 小山棚田
+cluster1:(4)
+案内板, 看板, 観光案内地図, 案内看板
+cluster2:(5)
+山陽地区, 谷全体, 谷, すり鉢状, 山間地
+cluster3:(2)
+大きさ, 美しさ
+cluster4:(3)
+風景, 景色, 景観
+cluster5:(2)
+地名, 地図
+cluster6:(2)
+写真, 建物
+cluster7:(2)
+店, 車
+cluster8:(1)
+民家
+cluster9:(1)
+道
+cluster10:(5)
+旅行, 縦断, ファミリーカー, 旅, 観光
+cluster11:(14)
+妨げ, 場所, 声, 経験, もの, 角度, 方, 目的, 納得, 設定, 形, こと, 前提, 手
+cluster12:(3)
+星空, 虫, 星
+cluster13:(4)
+田んぼ, あぜ道, 案山子, 田植え
+cluster14:(13)
+ふらり, テレビ, 大垪和, 寄り道, ルート, 見栄え, 手入れ, ゴールデンウィーク, アクセス, 北海道, パンフレット, ところ, 明かり
+cluster15:(12)
+水, 瀬戸内地域, 中, 規模, 米, 時期, 水田, 夕方, 自然, 地元, 季節, 日本
+cluster16:(1)
+古き良き日本
+
+howmany entities : 82
+howmany clusters : 17
+howmany entities (more than3entities) : 71
+howmany clusters (more than3entities) : 10
+deleted 11entities.

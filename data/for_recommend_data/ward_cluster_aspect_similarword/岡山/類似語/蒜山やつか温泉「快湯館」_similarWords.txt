@@ -1,0 +1,9 @@
+--------------------similar_words:蒜山やつか温泉「快湯館」--------------------
+top3 entities near to cluster0>>
+玄関, 鍵, 戸
+top3 entities near to cluster1>>
+入浴, 風呂, 温泉
+top3 entities near to cluster2>>
+子供服, 子供, 制服
+top3 entities near to cluster3>>
+ゴミ, 掃除, 大声

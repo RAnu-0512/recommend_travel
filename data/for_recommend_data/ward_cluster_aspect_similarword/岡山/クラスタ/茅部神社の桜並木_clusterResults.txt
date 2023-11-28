@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:茅部神社の桜並木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+道, 参道, 桜並木道, 神社
+cluster1:(13)
+大鳥居, こと, 場所, トンネル, 車, 下, 桜並木, 時期, セット, 満開, 桜, 景色, ルート
+cluster2:(2)
+蒜山三座と桜, 新庄凱旋桜
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベンガラ館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+赤色顔料ベンガラ, 赤色顔料, 顔料
+cluster1:(45)
+風情, こと, 方, 場所, 昭和, 色, 時代, 勉強, 車, オススメ, 街, 人, 施設, オバちゃん, スポット, 地域, 近く, 岡山, 客, 様子, 昔, 街並み, 感じ, 肝心, 原動力, 町, 明治, 水車, 赤, ベンガラ色, 昔ベンガラ, ベンガラって何, 気分, ベンガラ, ころ, 光景, 雰囲気, 大正, 心, )部ベンガラ, ベンガラ染, 建物, 赤錆, 富, 基礎
+cluster2:(3)
+工業, ベンガラ工場, 工場
+cluster3:(4)
+製造, 工程, 生産, 製造方法
+cluster4:(4)
+屋並み, 友達同士, 豪商たち, 共通券
+cluster5:(1)
+繁昌
+
+howmany entities : 60
+howmany clusters : 6
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 5
+deleted 1entities.

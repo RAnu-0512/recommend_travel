@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羅生門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+偉大さ, 雄大さ, 大きさ, 陥没ドリーネ群中
+cluster1:(2)
+草間台地, 草間
+cluster2:(2)
+阿哲, 標高
+cluster3:(15)
+洞窟, 門, 岩石, 地上, 道, 山奥, 山道, 橋, 天然, 洞, 太古, 鍾乳洞巡り, 自然, 地下, 岩
+cluster4:(3)
+空気, 光景, 景色
+cluster5:(3)
+価値, スケール感, 迫力
+cluster6:(5)
+もの, 気, 方, 形, こと
+cluster7:(4)
+一部, 途中, 目, 中
+cluster8:(2)
+場所, 時期
+cluster9:(2)
+前後, 時間
+cluster10:(1)
+都合
+cluster11:(21)
+オススメ, 羅生門, 看板, アーチ, 現地, 車, 国, 小説, 石灰岩, 入り口, 友人, 女性, 鍾乳洞, 触れ合い, 子連れ, 人, スポット, 写真, スニーカー, 名前, 雰囲気
+cluster12:(3)
+虫, 雨, 紅葉
+cluster13:(3)
+天井, 足元, 靴
+cluster14:(5)
+友達同士, 気分, 探検気分, 反対側, アーチ状
+cluster15:(1)
+満奇洞
+cluster16:(1)
+;̄◇̄
+
+howmany entities : 77
+howmany clusters : 17
+howmany entities (more than3entities) : 66
+howmany clusters (more than3entities) : 10
+deleted 11entities.

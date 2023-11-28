@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:屋敷の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+造形, 境界
+cluster1:(2)
+滝, 屋敷
+cluster2:(7)
+水, 縦長, 最後, 近く, ところ, 日本, 且つ
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 4entities.

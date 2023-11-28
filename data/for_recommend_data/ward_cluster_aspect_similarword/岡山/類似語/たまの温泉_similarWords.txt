@@ -1,0 +1,11 @@
+--------------------similar_words:たまの温泉--------------------
+top3 entities near to cluster1>>
+食事, ホテル, レストラン
+top3 entities near to cluster2>>
+割人, 割目, 割
+top3 entities near to cluster3>>
+日々, 設定, よう
+top3 entities near to cluster5>>
+清潔, 裏手, 値段
+top3 entities near to cluster7>>
+入浴, 温泉, 宿泊

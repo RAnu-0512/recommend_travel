@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉島通町1丁目商店街>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+港町, 鉄道, 郊外, 国道, 映画
+cluster1:(7)
+こと, レトロ, 具合, 感じ, 根, アーケード, 雰囲気
+cluster2:(5)
+全国, 昭和, 時代, 玉島, 平成時代
+cluster3:(4)
+改修方針, 客足, 衰退例, 自ら息
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 0entities.

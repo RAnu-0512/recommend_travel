@@ -1,0 +1,11 @@
+--------------------similar_words:キリンビール岡山工場--------------------
+top3 entities near to cluster0>>
+ビール, 生ビール, ワイン
+top3 entities near to cluster1>>
+子供, 子ども
+top3 entities near to cluster4>>
+五感, 敷地, 工程
+top3 entities near to cluster6>>
+見学, 視察, 試食
+top3 entities near to cluster12>>
+工場, 製造, 工程

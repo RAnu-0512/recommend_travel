@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮本武蔵生家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+熊本, 昭和, 弓削, 剣豪, 武蔵ゆかり, 木刀
+cluster1:(15)
+一族, 祖父, 父母, 神社, 里, 駅, 近く, 生家, 石碑, 周辺, 墓, 家, 銅像, 辺り, 火事
+cluster2:(2)
+浄財, 趣意
+cluster3:(2)
+気配, 隙
+cluster4:(12)
+中, こと, 方, 苦しみ, 手, 人, 方々, ファン, もの, 部分, 想い, ルーツ
+cluster5:(3)
+世界, 全国, 偉大
+cluster6:(1)
+生家跡
+cluster7:(1)
+派手派手
+cluster8:(1)
+武蔵奉賛会
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 4
+deleted 7entities.

@@ -1,0 +1,57 @@
+--------------------similar_words:おかやまフォレストパーク ドイツの森--------------------
+top3 entities near to cluster0>>
+パン, 窯, ピザ
+top3 entities near to cluster1>>
+体験, 体感, 見学
+top3 entities near to cluster2>>
+パン作り, パン焼き, パン
+top3 entities near to cluster3>>
+子ども, 自転車, 子供
+top3 entities near to cluster4>>
+レストラン, アトラクション, テーマパーク
+top3 entities near to cluster5>>
+ドッグラン, フリスビー, バーベキュー
+top3 entities near to cluster6>>
+カピバラ, アルパカ, アジサイ
+top3 entities near to cluster10>>
+テーマ, メイン, アニメ
+top3 entities near to cluster11>>
+雰囲気, 目当て, 無愛想
+top3 entities near to cluster13>>
+ウサギ, うさぎ, ひつじ
+top3 entities near to cluster14>>
+ビール, ワイン, 地ビール
+top3 entities near to cluster16>>
+チーズ, バター, ソーセージ
+top3 entities near to cluster17>>
+飲み物, ジュース, 自販機
+top3 entities near to cluster19>>
+テント, テラス, タープ
+top3 entities near to cluster20>>
+ボート, パーク, ショー
+top3 entities near to cluster22>>
+芝, 樂市, 翫茶
+top3 entities near to cluster23>>
+木火, 土, 木
+top3 entities near to cluster24>>
+園内, 敷地, 入り口
+top3 entities near to cluster25>>
+電車, 汽車
+top3 entities near to cluster29>>
+子供, 家族
+top3 entities near to cluster30>>
+花, 庭, 公園
+top3 entities near to cluster31>>
+動物, 羊, ヤギ
+top3 entities near to cluster33>>
+子供連れ, つれ, 子供
+top3 entities near to cluster36>>
+軽食, 食事, 昼食
+top3 entities near to cluster38>>
+移動
+top3 entities near to cluster39>>
+案内, 担当, 対応
+top3 entities near to cluster43>>
+接客, 営業, 休業
+top3 entities near to cluster45>>
+景色, 天気, 気分

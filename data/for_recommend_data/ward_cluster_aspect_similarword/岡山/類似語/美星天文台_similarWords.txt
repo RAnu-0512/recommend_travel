@@ -1,0 +1,23 @@
+--------------------similar_words:美星天文台--------------------
+top3 entities near to cluster0>>
+天体, 望遠鏡, 天文台
+top3 entities near to cluster2>>
+国内, 国外, 海外
+top3 entities near to cluster3>>
+雰囲気, 思い出, 景色
+top3 entities near to cluster6>>
+施設, 金額, 建物
+top3 entities near to cluster7>>
+周り, 友人
+top3 entities near to cluster9>>
+夏雪, 冬雪, 冬, 夏
+top3 entities near to cluster11>>
+山道, 平地, 山
+top3 entities near to cluster12>>
+景色, 絶景, 天気
+top3 entities near to cluster13>>
+空間, 空気, 宇宙
+top3 entities near to cluster16>>
+補足, 展示, 案内
+top3 entities near to cluster17>>
+友達

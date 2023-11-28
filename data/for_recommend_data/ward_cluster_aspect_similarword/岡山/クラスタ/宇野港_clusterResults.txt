@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇野港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国鉄宇高, JR宇高
+cluster1:(7)
+真庭, 高松行, 四国, 直島行, 三井, 宇野, 直島
+cluster2:(15)
+魚, 島, 港, 玄関, 島々, JR, 国鉄, 近距離バス, 船, 島めぐり, 電車, 駅, 民間フェリー, 周辺, 公園
+cluster3:(2)
+瀬戸内アート, アート
+cluster4:(2)
+乗り場, リパーク
+cluster5:(12)
+フェリー, すべり台, コロナ, ストッカー, アクセス, 瀬戸内海, エステル, 小豆島, 宇高連絡船, ツーリング, 直島諸島, インパクト
+cluster6:(1)
+廃止
+cluster7:(20)
+期間展示, 場所, 時代, 近く, 看板, 目, 時間, 横, 作品, アート作品, 天気, 体感, 前, 方, 予定, 人, 昔, スタート地点, 感覚, 期間
+cluster8:(7)
+旅行誌, 旅行, 県外一泊ツーリング, チヌ, 小チヌ, 運航, 船旅
+cluster9:(1)
+往復乗船券
+
+howmany entities : 69
+howmany clusters : 10
+howmany entities (more than3entities) : 61
+howmany clusters (more than3entities) : 5
+deleted 8entities.

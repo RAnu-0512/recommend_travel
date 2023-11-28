@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笹畝坑道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+冒険気分, 作業風景
+cluster1:(2)
+冷気, 外気
+cluster2:(11)
+価値, 方, 苦労, 人, 機会, もの, これ位, 様子, 感じ, 年齢, 注意
+cluster3:(25)
+場所, 裾, 重機, トンネル, 洞窟, 水, 足元, 眼鏡, 出張, ズボン, 履き物, スポット, ところ, マネキン, 人形, 磁硫, ヘルメット, 頭, 観光, 出口, 付近, 雰囲気, 町並み, 入り口, 腰
+cluster4:(8)
+時代, 真夏, 先達, 現代, 昔, 心地, 江戸, 大正
+cluster5:(8)
+鉱山, 坑道, 笹畝坑道, 吹屋銅山, 鉄鉱, 坑道内, 採掘, 銅山
+
+howmany entities : 56
+howmany clusters : 6
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 4
+deleted 4entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:環境学習センター「めだかの学校」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水辺近く, おもちゃの宿
+cluster1:(11)
+めだか, 全国, 旭川, 施設, メダカ, 学校, 淡水魚水族館, 天然メダカ, サマースクール, 魚, フォーラム
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 2entities.

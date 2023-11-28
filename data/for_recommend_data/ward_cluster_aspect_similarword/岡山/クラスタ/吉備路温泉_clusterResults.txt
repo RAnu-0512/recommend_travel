@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉備路温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+温浴施設, 美肌, 吉備路温泉, 浴場, 日帰り入浴, 温浴, 温泉, 天然温泉, 湯
+cluster1:(2)
+総社, サンロード吉備路
+cluster2:(3)
+疲れ, 芯, 体
+cluster3:(7)
+農産物, 近く, 露天風呂, 説明, アルカリ性, 気持ち, 五重塔
+cluster4:(3)
+施設, 観光, 地区
+cluster5:(1)
+男女
+cluster6:(2)
+泉質, 国内屈指
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 5entities.

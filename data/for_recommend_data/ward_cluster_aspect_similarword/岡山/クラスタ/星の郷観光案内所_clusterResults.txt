@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:星の郷観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+原, ポスト, 願い, 中世, テーマパーク, 天文台, 郷, 中世夢, タイム, 気分, 町並み, 建物
+cluster1:(4)
+美星観光センター・星の郷観光案内所, 星の郷美星産直プラザ, 観光案内所, 星の郷観光案内所
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

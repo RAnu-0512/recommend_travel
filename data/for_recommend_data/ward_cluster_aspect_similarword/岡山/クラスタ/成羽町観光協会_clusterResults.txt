@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:成羽町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+前, 走行, トイレ, マイカー, 観光, 国道, 建物, パンフレット
+cluster1:(3)
+案内所, バス専用, トイレ休憩
+cluster2:(1)
+成羽美術館
+cluster3:(1)
+案内所建物奥側
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

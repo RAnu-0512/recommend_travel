@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高瀬舟発着場跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高瀬舟船場跡, 高瀬舟発着場, 舟着場
+cluster1:(5)
+川辺, 勝山, 岡山, 石壇, 旭川
+cluster2:(2)
+水運, 要衝
+cluster3:(7)
+商家, 跡, 石碑, 遺構, 石畳, 名残, 家々
+cluster4:(12)
+荷, こと, 鉄, 積み込み, 荷物, 裏側, 塩, 上流, 家, 木炭, 上り, 高瀬舟
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 2entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:BlueBerryはるな園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+目処, 到着時間
+cluster1:(2)
+自家製野菜, ブルーベリー畑
+cluster2:(2)
+美味しさ, かねスムージー
+cluster3:(3)
+電話, 予約, 空き
+cluster4:(8)
+家族, ベンチ, 主人, ブルーベリー, ピザ, スムージー, ブルーベリースムージー, WEB
+cluster5:(6)
+場所, 時間, 風, 日陰, 季節, 状態
+cluster6:(1)
+酵素玄米
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 7entities.

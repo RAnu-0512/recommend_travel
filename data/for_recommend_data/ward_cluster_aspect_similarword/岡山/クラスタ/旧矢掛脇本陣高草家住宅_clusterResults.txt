@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧矢掛脇本陣高草家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+場所, 屋敷, 天井, 人, 宿場, 保存, 門, 本陣, 歴史, 国, 御一行, 多く, 札, 文化財, 入り口, 邸宅
+cluster1:(2)
+観光案兄所, 割引券
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:和気神社--------------------
+top3 entities near to cluster1>>
+歴史, 建物, 建築
+top3 entities near to cluster2>>
+猪, 藤, 駒
+top3 entities near to cluster4>>
+鑑賞, 紅葉, 修理
+top3 entities near to cluster5>>
+お守り, ご利益, 御利益
+top3 entities near to cluster7>>
+子ども, 水たまり, 赤ちゃん
+top3 entities near to cluster11>>
+本殿, 境内, 拝殿

@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅 蒜山高原サイクルセンター--------------------
+top3 entities near to cluster0>>
+駅車, 駅, 車道
+top3 entities near to cluster1>>
+食事, 土産, 軽食
+top3 entities near to cluster3>>
+ホテル, レストラン, レンタサイクル
+top3 entities near to cluster5>>
+自然, 普通, 時間

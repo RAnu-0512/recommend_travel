@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桃畑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+灯り, 外灯
+cluster1:(9)
+感じ, 虫除け, 桃, シーズン, イルミネーション, 時期, 花, 虫, 数
+cluster2:(3)
+五日市地区, 農家, 収穫
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:文塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+塚, 文塚
+cluster1:(12)
+草稿, 記念, 部類, 俳人, もの, 石碑, 供養, 手紙, 説明, 詩文, 碑, 現地
+cluster2:(5)
+勝山, 大坂, 境内, 本殿, 玉雲宮
+cluster3:(3)
+文学碑, 江戸中期, 芭蕉一門
+cluster4:(3)
+松木淡々, 松木淡々先生, 景山青千
+
+howmany entities : 25
+howmany clusters : 5
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 2entities.

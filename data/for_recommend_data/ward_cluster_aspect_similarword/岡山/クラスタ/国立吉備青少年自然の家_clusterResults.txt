@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国立吉備青少年自然の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こと, 目的
+cluster1:(2)
+吉備高原, 青少年
+cluster2:(1)
+中
+cluster3:(1)
+家
+cluster4:(1)
+自然
+cluster5:(1)
+心
+cluster6:(1)
+体験活動
+cluster7:(1)
+国立吉備青少年自然
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:道の駅 がいせん桜新庄宿--------------------
+top3 entities near to cluster0>>
+牛, 丼, 豚
+top3 entities near to cluster2>>
+美味, 美味しい
+top3 entities near to cluster5>>
+桜, 餅, さくら
+top3 entities near to cluster6>>
+特産, 名産, 産品
+top3 entities near to cluster7>>
+休憩, 一休み, ひと休み
+top3 entities near to cluster8>>
+駅, 村, 駅前
+top3 entities near to cluster9>>
+土産店, 土産物店, 土産, 土産物

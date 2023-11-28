@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:絹掛の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+素晴らしさ, 力強さ
+cluster1:(3)
+天然, 自然, 絹
+cluster2:(6)
+こと, 姿, 場所, もの, 注意, 事
+cluster3:(12)
+小さめ, マイナス, イオン, 水, スポット, ところ, 名前, 上, ゴールデンウィーク, ドライブ, 気持ち, オブジェ
+cluster4:(4)
+音, ひと, 雨, 心
+cluster5:(2)
+休憩, 方面
+cluster6:(7)
+落差, 勢い, 景観, 迫力, 水量, 岩肌, 景色
+cluster7:(8)
+井倉, 滝壺, 滝下, 高橋市街, 滝登りする鯉, 滝, 国道, 国道沿い
+
+howmany entities : 44
+howmany clusters : 8
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 6
+deleted 4entities.

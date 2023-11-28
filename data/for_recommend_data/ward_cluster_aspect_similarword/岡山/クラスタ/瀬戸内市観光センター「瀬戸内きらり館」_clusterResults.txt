@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸内市観光センター「瀬戸内きらり館」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土産物屋, お土産物屋
+cluster1:(15)
+こと, 方, 車, 台風, 情報, 恋, もの, 海, 役, 近く, 神戸, オリーブ, 観光, 気持ち, 映画
+cluster2:(3)
+土産物販売, 食事場所, 朝市
+cluster3:(1)
+牛窓
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 3entities.

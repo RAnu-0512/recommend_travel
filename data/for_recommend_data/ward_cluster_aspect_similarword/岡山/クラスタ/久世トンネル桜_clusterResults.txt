@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久世トンネル桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+道, スタートライン, 川, 方, 場所, トンネル, 並木道, 車, オススメ, さくら, 人, 桜並木, 時期オススメ, 地元, トンネル状, スポット, 綺麗さ, 時期, 感じ, 並木, 左右, 道路, 両側
+cluster1:(2)
+土手沿い, 川沿い
+cluster2:(2)
+久世, 久世トンネル桜
+cluster3:(6)
+花見, トンネル桜, 桜まつり, 満開, 夜桜, 桜
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 4entities.

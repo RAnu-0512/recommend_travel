@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鶴形山公園の桜・藤>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+こと, 人, 治療, 時期
+cluster1:(2)
+棚, 階段
+cluster2:(4)
+境内, ツツジ, 花, 桜
+cluster3:(1)
+阿智の藤
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

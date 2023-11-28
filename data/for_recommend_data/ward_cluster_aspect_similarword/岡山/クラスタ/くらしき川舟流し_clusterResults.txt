@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くらしき川舟流し>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+乗船時間, 出船時間, 乗船券, 乗船チケット, 乗船
+cluster1:(5)
+くらしき桃子, 倉敷館, 倉敷, 観光案内所, 倉敷観光
+cluster2:(3)
+白鳥, ヒナ, 桃
+cluster3:(2)
+開店, 行列
+cluster4:(2)
+風情, 景色
+cluster5:(2)
+参考, 説明
+cluster6:(4)
+こと, 場所, 時間, 範囲
+cluster7:(3)
+名前, 地区, 人気
+cluster8:(1)
+料金
+cluster9:(2)
+足, 背中
+cluster10:(14)
+売り切れ, 待ち時間, 朝ドラ, 人, パフェ, 写真, ガイド, 笑, ライト, アップ, チケット, 町並み, 映画, 倉敷川
+cluster11:(1)
+横着者
+cluster12:(9)
+川, 船頭, 運航, 舟, 川舟, 物資, 船, 便, 川沿い
+cluster13:(1)
+デミカツ
+
+howmany entities : 54
+howmany clusters : 14
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 7
+deleted 11entities.

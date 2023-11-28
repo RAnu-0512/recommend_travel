@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石火矢町ふるさと村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+麓, 山城, 城
+cluster1:(2)
+帰路, 安全
+cluster2:(12)
+全体, 場所, 城下町, 門構え, 様子, 昔, 臥牛山, 事, 頼久寺, 雰囲気, 町並み, 辺り
+cluster3:(3)
+道, 門, 高校
+cluster4:(1)
+土塀
+cluster5:(1)
+標高
+cluster6:(1)
+降り口
+cluster7:(2)
+木杖, 武家屋
+cluster8:(3)
+天守, 天守窓, 中松山城
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 7entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 風の家 ふるさと特産館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+蒜山インター, かな蒜山, 皆さん蒜山, 大山・蒜山, 蒜山, 蒜山大根
+cluster1:(2)
+小腹, 朝早め
+cluster2:(5)
+道, 地元, 駅, 名物, そば
+cluster3:(3)
+一帯, 内部, 規模
+cluster4:(6)
+こと, 前, 人, もの, 所, 目
+cluster5:(1)
+活気
+cluster6:(18)
+雪, シーズン, チーズ, 農産物, トウモロコシ, スーパー, トマト, ソフトクリーム, 農作物, 秋, ところ, はずれ, 冬, 焼きそば, インター, キャベツ, 乳製品, コンビニスタイル
+cluster7:(11)
+枝豆, 値段, 軽食コーナー, 土産, 旅行, 手作りパン, 物販スペース, コーヒー販売, 産地, 豆腐, 商品
+cluster8:(2)
+土産品売り場, 品揃え
+cluster9:(4)
+野菜, 果物, 野菜市, 野菜類
+cluster10:(4)
+大根, おでん大根, 大根目当て, ぜん大根
+cluster11:(1)
+野菜産直市場
+cluster12:(1)
+四季折々
+
+howmany entities : 64
+howmany clusters : 13
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 8
+deleted 7entities.

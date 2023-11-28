@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:祇園寺(岡山県高梁市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大杉, 天狗大杉
+cluster1:(3)
+道中, もの, 眺め
+cluster2:(4)
+建立, 参道, 寺, 空海
+cluster3:(1)
+位置しお寺
+cluster4:(1)
+樹齢
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 4entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妙興寺(岡山県瀬戸内市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+宇喜田興家, T字路, 宇喜田秀家, 赤松則輿
+cluster1:(2)
+山門, 寺
+cluster2:(2)
+黒田, 福岡
+cluster3:(12)
+前, 祖父, 防衛, 宇喜多, 歴史, 奥, 区割り, 墓, 先, 家, 道路, イチョウ
+cluster4:(1)
+秘仏公開
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 5entities.

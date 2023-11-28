@@ -1,0 +1,15 @@
+--------------------similar_words:道の駅 みやま公園--------------------
+top3 entities near to cluster2>>
+入り口, 入口, バス停
+top3 entities near to cluster3>>
+カフェ, ランチ, レストラン
+top3 entities near to cluster7>>
+野菜, 果物
+top3 entities near to cluster8>>
+紅葉, 季節, 桜
+top3 entities near to cluster9>>
+散策, 公園, 駅
+top3 entities near to cluster15>>
+施設, 特産, 直売
+top3 entities near to cluster17>>
+鮮魚, 魚屋, 鮮度

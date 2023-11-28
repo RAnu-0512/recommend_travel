@@ -1,0 +1,57 @@
+--------------------similar_words:最上稲荷--------------------
+top3 entities near to cluster1>>
+首題, 殿, 見逸れる
+top3 entities near to cluster2>>
+祭祀, 祈祷, 参拝
+top3 entities near to cluster3>>
+境内, 本殿, 参道
+top3 entities near to cluster4>>
+寺, 仏教, 寺院
+top3 entities near to cluster5>>
+稲荷, 神社
+top3 entities near to cluster9>>
+名称, 形態
+top3 entities near to cluster12>>
+時間数, 案内, 時間
+top3 entities near to cluster13>>
+ふもと, 下り坂, のぼり
+top3 entities near to cluster14>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster17>>
+タクシー, お父さん, おみやげ
+top3 entities near to cluster18>>
+タバコ, トイレ, たばこ
+top3 entities near to cluster19>>
+お参り, ご利益, 御利益
+top3 entities near to cluster20>>
+手前付近, 手前, 横
+top3 entities near to cluster21>>
+ヘン, 新興, 変
+top3 entities near to cluster23>>
+家族, 近所, 週末
+top3 entities near to cluster24>>
+定番, 名物, 恒例
+top3 entities near to cluster25>>
+時代, 昔, 歴史
+top3 entities near to cluster26>>
+大勢, 大半, 数多い
+top3 entities near to cluster31>>
+駐車, 車代, 料金
+top3 entities near to cluster33>>
+正月, 元旦, 元日
+top3 entities near to cluster35>>
+人出, 混雑, 時期
+top3 entities near to cluster37>>
+中腹, 山頂, 登り
+top3 entities near to cluster38>>
+景観, 絶景, 景色
+top3 entities near to cluster39>>
+建物, 敷地, 照明
+top3 entities near to cluster41>>
+駅車, 駅, 乗り継ぎ
+top3 entities near to cluster42>>
+気分, 歩き, 散歩
+top3 entities near to cluster43>>
+饅頭, 煎餅, 線香
+top3 entities near to cluster44>>
+飲食店, 飲食, 出店

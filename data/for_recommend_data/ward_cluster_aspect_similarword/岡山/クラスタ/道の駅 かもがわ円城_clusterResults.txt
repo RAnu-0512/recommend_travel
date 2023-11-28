@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 かもがわ円城>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白菜, 購入白菜
+cluster1:(6)
+飾り, 野菜, 餅, 地域色, 鍋, パン
+cluster2:(6)
+道, 自宅, 駅, 構内, 庭, 国道
+cluster3:(19)
+独特, どなた, うどん, 農産物, トイレ, イベント, 藤, 地元, もの, 外観, 途中, 規模, 魅力, 県, ゴールデンウィーク, 事, 沢山, 売り場, キムチ
+cluster4:(1)
+オタフク南天
+cluster5:(4)
+休憩, トイレ休憩, かけめし, 昼食
+cluster6:(1)
+再くさぎ菜
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 4
+deleted 4entities.

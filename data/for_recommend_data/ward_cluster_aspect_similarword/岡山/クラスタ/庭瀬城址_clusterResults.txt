@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:庭瀬城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+庭瀬, 倉敷, 吉備津, 総社
+cluster1:(2)
+堀, 三村
+cluster2:(5)
+元親, 宿, 秀吉, 拠点, 築城
+cluster3:(1)
+毛利方国境防備
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

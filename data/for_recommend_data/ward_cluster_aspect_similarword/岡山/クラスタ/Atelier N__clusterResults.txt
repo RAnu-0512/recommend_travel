@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Atelier N_>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+世界, 体験
+cluster1:(10)
+シール, シート, マグカップ, 会社, 上がり, 説明, ポーセラーツ, 先生, デザインシート, コーヒー
+cluster2:(1)
+皿
+cluster3:(1)
+コツ
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 4entities.

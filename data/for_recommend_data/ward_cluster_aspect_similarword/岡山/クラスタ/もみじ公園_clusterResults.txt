@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:もみじ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+公園, 芝生, 園内
+cluster1:(2)
+紅葉, 桜
+cluster2:(2)
+場所, 名前
+cluster3:(4)
+中, 秋, もみじ, 自然
+cluster4:(1)
+眺望
+cluster5:(1)
+北房ダム
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 6entities.

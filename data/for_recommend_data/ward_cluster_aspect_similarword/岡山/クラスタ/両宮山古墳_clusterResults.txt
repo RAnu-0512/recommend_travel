@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:両宮山古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+内濠, 周濠
+cluster1:(2)
+池, 古墳
+cluster2:(5)
+形, 全長, 前方後円墳, 水, 現代
+cluster3:(1)
+大きさ
+cluster4:(1)
+備前国分寺
+cluster5:(1)
+墳丘
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

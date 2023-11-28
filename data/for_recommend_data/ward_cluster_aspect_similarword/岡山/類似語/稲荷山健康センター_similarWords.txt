@@ -1,0 +1,9 @@
+--------------------similar_words:稲荷山健康センター--------------------
+top3 entities near to cluster0>>
+身体, 全身
+top3 entities near to cluster1>>
+食事, 料理, 滞在
+top3 entities near to cluster3>>
+駅, 送迎, バス
+top3 entities near to cluster6>>
+入浴, 湯, 温泉

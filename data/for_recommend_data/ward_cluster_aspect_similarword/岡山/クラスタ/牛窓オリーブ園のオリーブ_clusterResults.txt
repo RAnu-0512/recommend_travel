@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牛窓オリーブ園のオリーブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+オリーブ林, 木々, 実, オリーブ園, 木, 苗木, 生オリーブ
+cluster1:(2)
+売店, 対岸
+cluster2:(10)
+オイル, 小豆島, オススメ, ソフトクリーム, もの, 海, 時期, オリーブ, 収穫, 家
+cluster3:(1)
+古墳
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 3entities.

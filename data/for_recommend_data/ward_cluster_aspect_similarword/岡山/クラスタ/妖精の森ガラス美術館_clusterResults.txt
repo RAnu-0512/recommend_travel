@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妖精の森ガラス美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展示, 展示館, 人形峠アトムサイエンス館
+cluster1:(6)
+紫外線, 器, ガラス, 紫外線ライト, ガラス博物館, ソーダガラス
+cluster2:(3)
+購入, 飾り, 訪問
+cluster3:(2)
+時間切れ, ネックレス
+cluster4:(2)
+博物館, 美術館
+cluster5:(1)
+ウラン
+cluster6:(1)
+テンションアップ
+cluster7:(2)
+作品, 妻
+cluster8:(4)
+場所, 各地, 近く, 周囲
+cluster9:(1)
+観光
+cluster10:(1)
+岡山
+cluster11:(1)
+ガラス細工
+cluster12:(1)
+美しさ
+cluster13:(1)
+割引券
+
+howmany entities : 29
+howmany clusters : 14
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 13entities.

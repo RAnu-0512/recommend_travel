@@ -1,0 +1,17 @@
+--------------------similar_words:カブトガニ博物館--------------------
+top3 entities near to cluster0>>
+敷地, 施設, 入口
+top3 entities near to cluster1>>
+実物, 迫力, 本物
+top3 entities near to cluster2>>
+解説, 勉強, お話し
+top3 entities near to cluster4>>
+歴史, 時代, 記憶
+top3 entities near to cluster5>>
+内容, 特性, 関連
+top3 entities near to cluster8>>
+子供, 子ども, 人間
+top3 entities near to cluster9>>
+展示, 館内, 園内
+top3 entities near to cluster10>>
+恐竜, 化石, ティラノサウルス

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸大橋温泉 やま幸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+プラン料金, 宿泊者, 入湯税込み
+cluster1:(2)
+休憩, 休憩室
+cluster2:(3)
+風呂, 浴場, 温泉
+cluster3:(2)
+客室, 和室
+cluster4:(1)
+岩風呂
+cluster5:(20)
+夕食, 古さ, シャンプー, 人, 鍋ハーフ, 施設, 匂い, 感じ, カビ, 露天風呂, 観劇, 子供, プラン, 食事, バーコード式, 雰囲気, チェア, サウナ, 態度, 建物
+cluster6:(1)
+循環型
+cluster7:(4)
+薬湯, 薬湯 子供湯, 露天風呂 ぬる湯, 春彩御膳
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 6entities.

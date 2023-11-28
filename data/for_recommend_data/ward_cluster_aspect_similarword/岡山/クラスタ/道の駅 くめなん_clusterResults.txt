@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 くめなん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+休憩, トイレ休憩, スタート時間, 時間調整, 朝早め
+cluster1:(3)
+ゆず, 鳥取, 柚子
+cluster2:(6)
+道, 車, 施設, 駅, 国道, 建物
+cluster3:(3)
+野菜, 手提げカバン, 酒
+cluster4:(10)
+レストラン, 農産物, トイレ, ソフトクリーム, アンテナショップ, ゴルフ, 感じ, ドライブ, 雰囲気, 辺り
+cluster5:(4)
+自然, 地元, 体, 子供
+cluster6:(2)
+店員, 到着
+cluster7:(1)
+態度
+cluster8:(1)
+自然感
+cluster9:(1)
+久米南道
+
+howmany entities : 36
+howmany clusters : 10
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 6
+deleted 5entities.

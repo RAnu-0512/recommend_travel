@@ -1,0 +1,29 @@
+--------------------similar_words:倉敷ロイヤルアートホテル--------------------
+top3 entities near to cluster0>>
+宿泊, 予約, 案内
+top3 entities near to cluster2>>
+ランチ, 食事, ディナー
+top3 entities near to cluster6>>
+苺, 紅茶, ミニ
+top3 entities near to cluster9>>
+スープ, ホット, 温かい
+top3 entities near to cluster10>>
+タルト, ケーキ, ムース
+top3 entities near to cluster11>>
+飲み物, グラス, ドリンク
+top3 entities near to cluster12>>
+思い出, 雰囲気, 決め手
+top3 entities near to cluster13>>
+ホテル, ロビー, カフェ
+top3 entities near to cluster15>>
+スタッフ, メイン, サービス
+top3 entities near to cluster19>>
+メニュー, レストラン, ハンバーグ
+top3 entities near to cluster20>>
+バーガー, アップル, ホイップ
+top3 entities near to cluster23>>
+趣味, 趣, 空間
+top3 entities near to cluster25>>
+子供, 夫婦, 子ども
+top3 entities near to cluster26>>
+会場, 写真, イベント

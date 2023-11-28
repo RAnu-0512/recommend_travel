@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おさふねサービスエリア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天然, 天然温泉
+cluster1:(2)
+長船サービス, 備前カレー
+cluster2:(3)
+場所, 近く, 途中
+cluster3:(6)
+レストラン, サービス, 人, 吉井川, エリア, 山陽新幹線
+cluster4:(4)
+電車, ご飯, 馬, 温泉
+cluster5:(1)
+国道
+cluster6:(2)
+日帰り入浴, 乗馬クラブ
+cluster7:(1)
+JR赤穂線
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 8entities.

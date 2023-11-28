@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善福寺(岡山県井原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+椿, 足利, 木, 大木
+cluster1:(5)
+電車, 駅, 建築, 徒歩, 立地
+cluster2:(13)
+中, 如意輪観音, 場所, 廊下, 人, 釈迦堂, 鴬張り, 近く, ところ, アクセス, 善福寺, 雰囲気, 裏手
+cluster3:(2)
+山, 緑
+cluster4:(2)
+自然, 歴史
+cluster5:(1)
+心
+cluster6:(1)
+空気
+cluster7:(6)
+創建, 境内, 寺, 樹齢, 本堂, 本尊
+cluster8:(1)
+ハローズ井原店
+cluster9:(2)
+徒歩圏, 県指定重要文化
+
+howmany entities : 37
+howmany clusters : 10
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 9entities.

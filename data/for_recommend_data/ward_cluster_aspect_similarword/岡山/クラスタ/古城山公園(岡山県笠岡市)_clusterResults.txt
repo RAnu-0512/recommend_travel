@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古城山公園(岡山県笠岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+笠岡古城山公園, 笠岡市街地
+cluster1:(5)
+花見, 見頃, 名所, 満開, 桜
+cluster2:(2)
+猿, 石
+cluster3:(3)
+池, 丘, 公園
+cluster4:(18)
+運動, 見晴らし, 人, 水, スポット, 弁当, 頂上, 山, 感じ, 周囲, 上, ハイキング, 配置, 眺め, 日, 古城山, 景色, 登山
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 4entities.

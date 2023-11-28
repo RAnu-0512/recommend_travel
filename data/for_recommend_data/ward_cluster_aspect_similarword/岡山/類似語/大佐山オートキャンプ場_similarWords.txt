@@ -1,0 +1,15 @@
+--------------------similar_words:大佐山オートキャンプ場--------------------
+top3 entities near to cluster0>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster2>>
+ワンコ, テラス, プール
+top3 entities near to cluster4>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster6>>
+キャンプ, ファミキャン, オートキャンプ
+top3 entities near to cluster7>>
+イベント, キッチン, パーティー
+top3 entities near to cluster10>>
+マナー, 初心者
+top3 entities near to cluster12>>
+家族, 友人

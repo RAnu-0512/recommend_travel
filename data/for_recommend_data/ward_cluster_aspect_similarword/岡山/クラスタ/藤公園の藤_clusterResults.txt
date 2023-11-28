@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藤公園の藤>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+花繚乱, 花鉢
+cluster1:(4)
+顔, 写真, 情景, 撮影
+cluster2:(7)
+形, 方, 場所, 垂れ下がり方, 経験, もの, 時期
+cluster3:(26)
+折り畳み, 川, 全国, スマホ, 花, 種類, 都道府県, 近く, 左手, 椅子, 県外, 年, 白色, ふと, 目, 子供, 多く, 田舎, アーチ, 緑, フジ, 心, フォルム, 日本, 色, ピンク
+cluster4:(1)
+多さ
+cluster5:(2)
+藤祭り, 藤
+cluster6:(5)
+演奏, 神社, 屋台, 祭り, 太鼓
+cluster7:(2)
+藤棚, 満開
+cluster8:(2)
+人出, 連休
+cluster9:(1)
+咲きぶり
+
+howmany entities : 52
+howmany clusters : 10
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 4
+deleted 10entities.

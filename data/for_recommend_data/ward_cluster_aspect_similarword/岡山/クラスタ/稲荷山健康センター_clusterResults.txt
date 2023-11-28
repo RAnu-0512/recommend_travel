@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲荷山健康センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+熱, 足, 身体, 体, 肌, 心, 全身, 動悸
+cluster1:(4)
+掃除, 滞在, 食事, 料理
+cluster2:(2)
+応対, 参拝
+cluster3:(5)
+バス, 駅, 山頂, 景色, 送迎
+cluster4:(30)
+入り方, こと, 方, コース, 暇, アナウンス, 時間, ソファー, 山中, 万能, 気配り, 昔, 数カ所, 感じ, スタッフ, 隣, ひと時, 漫画コーナー, クーポン, 汗, 男女, 露天風呂, ゲームコーナー, 気, ハイキング, 名物, 噂, 常連, 不具合, 薬師
+cluster5:(1)
+年齢層
+cluster6:(13)
+薬湯, 名湯, 風呂, 休憩室, 黎明薬湯, 館内, 夕方入浴, 入館手続き, 温泉, お湯, 館内着, 入浴, 湯
+cluster7:(1)
+頸椎枕湯わ至福
+
+howmany entities : 64
+howmany clusters : 8
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 5
+deleted 4entities.

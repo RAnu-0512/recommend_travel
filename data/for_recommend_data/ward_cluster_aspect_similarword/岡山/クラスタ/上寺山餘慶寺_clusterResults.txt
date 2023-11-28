@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上寺山餘慶寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+価値, 姿, 時代, 中心, 吉井川, 現代, 写真, 岡山城主, 薬師堂, 整備, 露出, 時刻, 桜まつり, 多く, オーバー, ロケーション, 撮影, 曇天, 梅, 桜
+cluster1:(3)
+餘慶寺, 札所, 寺
+cluster2:(9)
+寺院, 木造, 仏像, 秘仏, 境内, 寺社, 平安, 本堂, 堂
+cluster3:(1)
+寺建築寺院
+cluster4:(1)
+病気平癒祈願
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 3
+deleted 2entities.

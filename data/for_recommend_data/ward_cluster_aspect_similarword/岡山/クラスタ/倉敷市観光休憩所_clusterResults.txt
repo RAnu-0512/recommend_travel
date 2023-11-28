@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷市観光休憩所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+飲み物, トイレ, 一休み
+cluster1:(10)
+貸し出し, レンタサイクル, スポット, テーブル, ベビーカー, パンフ, スペース, ポスター, コインロッカー, パンフレット
+cluster2:(4)
+街並み, 図書館, 博物館, 美術館
+cluster3:(15)
+中, こと, 休憩, 場所, 中心, 情報, 散策, 隣, 対応, 多く, 紹介, 地図, 案内, 資料, 拠点
+cluster4:(5)
+壁際, 椅子, テーブルといす, 反対側, おむつ交換スペース
+cluster5:(9)
+バス, 観光案内パンフレット, 案内所, 観光パンフレット, 倉敷, 美顔地区, 観光, 観光案内所, 倉敷観光
+
+howmany entities : 46
+howmany clusters : 6
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 6
+deleted 0entities.

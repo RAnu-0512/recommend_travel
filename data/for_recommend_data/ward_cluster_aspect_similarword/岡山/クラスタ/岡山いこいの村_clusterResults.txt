@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山いこいの村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+こどもたち, 動物たち, 動物
+cluster1:(2)
+家族, 妻
+cluster2:(4)
+買い物, こども, 近く, パンフ
+cluster3:(1)
+駅
+cluster4:(1)
+眺め
+cluster5:(4)
+海, 頂上, 山, 心
+cluster6:(1)
+朝日
+cluster7:(5)
+風呂, 施設, 浴場, 世話, 宿泊
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 5entities.

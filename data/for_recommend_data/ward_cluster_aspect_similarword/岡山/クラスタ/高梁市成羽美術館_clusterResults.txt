@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁市成羽美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示室, 化石展示室
+cluster1:(3)
+美術作品, 美術, 美術品
+cluster2:(4)
+外観, 建築, 設計, 建物
+cluster3:(2)
+廊下, 出口
+cluster4:(2)
+作品, 絵
+cluster5:(5)
+こと, コレクション, 彼, 美術館, おばあさん
+cluster6:(1)
+頭
+cluster7:(1)
+客
+cluster8:(1)
+出身
+cluster9:(1)
+迫力
+cluster10:(1)
+考古学系博物館
+cluster11:(3)
+成羽美術館, 成羽, 相田みつ
+
+howmany entities : 26
+howmany clusters : 12
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 4
+deleted 11entities.

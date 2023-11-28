@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津山高等学校旧本館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+学校, 校舎, 高校
+cluster1:(6)
+地図, マーク, 駅, 国, 途中, 文化財
+cluster2:(4)
+見学, 敷地, 外観, 建物
+cluster3:(1)
+津山市街地
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 1entities.

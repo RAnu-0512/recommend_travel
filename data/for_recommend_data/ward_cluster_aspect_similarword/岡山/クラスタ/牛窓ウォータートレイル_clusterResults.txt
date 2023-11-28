@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牛窓ウォータートレイル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+こと, ベテランガイド, ワクワク感, 下, 貸し切り状態, アクセス, フェリー, 眺め, 日本
+cluster1:(8)
+前島, 魚, 島, 海, 海面, 青空, 島々, 浜カフェ
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

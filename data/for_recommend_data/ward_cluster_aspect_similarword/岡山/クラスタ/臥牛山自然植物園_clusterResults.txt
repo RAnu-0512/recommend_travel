@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:臥牛山自然植物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+植物, 植生, 自然
+cluster1:(2)
+大松山, 山
+cluster2:(2)
+絵, 風景
+cluster3:(1)
+大木
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

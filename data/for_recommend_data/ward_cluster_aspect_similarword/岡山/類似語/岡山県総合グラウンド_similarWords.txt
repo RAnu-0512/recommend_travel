@@ -1,0 +1,25 @@
+--------------------similar_words:岡山県総合グラウンド--------------------
+top3 entities near to cluster0>>
+コース, グルメ, 子連れ
+top3 entities near to cluster2>>
+ジョギング, ランニング, ウォーキング
+top3 entities near to cluster5>>
+ホームスタジアム, ファジフーズ, カンコースタジアム
+top3 entities near to cluster7>>
+イベント, ピクニック, タイトル
+top3 entities near to cluster12>>
+ススメ, オススメ, おすすめ
+top3 entities near to cluster13>>
+プール, トイレ, ボール
+top3 entities near to cluster15>>
+体育館, 武道館, 運動公園
+top3 entities near to cluster17>>
+試合, 観戦, 対戦
+top3 entities near to cluster18>>
+紅葉, 秋, 春
+top3 entities near to cluster19>>
+公園, 遊歩道, 原っぱ
+top3 entities near to cluster20>>
+祭り, 当地, 名物
+top3 entities near to cluster22>>
+施設, 総合, 遊具

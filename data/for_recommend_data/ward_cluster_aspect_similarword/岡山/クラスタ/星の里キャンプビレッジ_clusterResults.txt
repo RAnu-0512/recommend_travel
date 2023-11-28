@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:星の里キャンプビレッジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+感じ, もの
+cluster1:(6)
+シャワールーム, キッチン, タワシ, ホコリ, ところ, ログハウス
+cluster2:(1)
+夏
+cluster3:(1)
+施設
+cluster4:(5)
+汚れ, カビ, 掃除, 寝具, 布団
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 4entities.

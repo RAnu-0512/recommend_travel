@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジャージー牛放牧>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+毛, 草, 草原, 斜面, 遠, 高原, 裏手
+cluster1:(2)
+姿, 様子
+cluster2:(2)
+顔, 写真
+cluster3:(10)
+ほう, 茶色, ところ, 時期, 特徴, ジャージープリン, ヨーグルト, 日本, スリム, 乳製品
+cluster4:(1)
+胃
+cluster5:(5)
+放牧地, 厩舎, 何頭, 牧場, 放牧
+cluster6:(4)
+牛, 蒜山, ジャージ牛, 牛たち
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 5entities.

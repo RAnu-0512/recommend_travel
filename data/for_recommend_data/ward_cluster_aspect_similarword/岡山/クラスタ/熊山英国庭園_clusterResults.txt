@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熊山英国庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+熊山, 熊山英国庭園
+cluster1:(13)
+キッズハウス, 小学校, イベント, イメージ, ガーデン, セット, ガーデニング, イングリッシュガーデン, アジサイ, 手入れ, 子ども, ガゼボ, 西日本
+cluster2:(2)
+娘, 子供
+cluster3:(2)
+方, 人
+cluster4:(1)
+国
+cluster5:(1)
+英国
+cluster6:(1)
+パン
+cluster7:(4)
+場所, 時期, イベント目的, 季節
+cluster8:(2)
+香り, 気分
+cluster9:(6)
+小学校・幼稚園, 天気, 雨, 満開, お子, 散歩
+cluster10:(5)
+花, 草花, バラ, 花々, 薔薇
+cluster11:(3)
+跡地, 建物東側, 敷地
+cluster12:(4)
+園内, 温室, 庭, 庭園
+cluster13:(2)
+鉢物, 品種
+
+howmany entities : 48
+howmany clusters : 14
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 6
+deleted 13entities.

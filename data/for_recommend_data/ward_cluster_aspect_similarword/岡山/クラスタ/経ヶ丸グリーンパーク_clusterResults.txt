@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:経ヶ丸グリーンパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+室内, 室内滑り台, 室内施設
+cluster1:(5)
+遊具, 施設, 備品, 敷地, 建物
+cluster2:(7)
+家族, 事, ドラゴンハウス, 子供, モチーフ, 紹介, オブジェ
+cluster3:(2)
+骨, 恐竜
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 2entities.

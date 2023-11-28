@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:般若寺温泉(岡山県鏡野町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+予約制, 予約
+cluster1:(5)
+風呂, 温泉, お湯, 貸し切り温泉, 貸し切り風呂
+cluster2:(2)
+ぽかぽか体, 体
+cluster3:(3)
+風情, 景色, 不便
+cluster4:(4)
+女性, トイレ, 露天風呂, 貸し切り
+cluster5:(3)
+前, 目, 周り
+cluster6:(1)
+所
+cluster7:(1)
+川
+cluster8:(1)
+囲い
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 4
+deleted 7entities.

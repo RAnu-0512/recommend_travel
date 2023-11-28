@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:閑谷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+藩主, 初代藩主
+cluster1:(4)
+神社, 祭神, 仏閣, 芳烈祠
+cluster2:(2)
+こと, 前
+cluster3:(2)
+地域, 学校
+cluster4:(1)
+庶民
+cluster5:(1)
+紅葉
+cluster6:(1)
+社.
+cluster7:(1)
+東御堂
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 10entities.

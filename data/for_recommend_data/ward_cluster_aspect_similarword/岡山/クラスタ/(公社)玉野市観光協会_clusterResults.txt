@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:(公社)玉野市観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+時間, 前, 人, フェリー, 目, パンフレット
+cluster1:(2)
+入口, 建物
+cluster2:(1)
+観光
+cluster3:(3)
+港, 港脇, 玉野
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

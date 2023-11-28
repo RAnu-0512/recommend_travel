@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遠州堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紺屋川筋, 紺屋川沿い
+cluster1:(16)
+友人, 砂糖, 前, 値段, 専門, チラシ, 歴史, 正面, 土産, 味, 香り, 感じ, 餅, ゆず, 店, 柚子
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 2entities.

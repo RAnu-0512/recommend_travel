@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧矢掛本陣石井家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+矢掛宿, 矢掛
+cluster1:(2)
+本陣職, 本陣
+cluster2:(5)
+車, 国, 参勤交代, 文化財, 家
+cluster3:(2)
+屋敷, 敷地
+cluster4:(3)
+時代, 国元, 江戸
+cluster5:(1)
+石井
+cluster6:(1)
+距離事
+cluster7:(1)
+現在国
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 9entities.

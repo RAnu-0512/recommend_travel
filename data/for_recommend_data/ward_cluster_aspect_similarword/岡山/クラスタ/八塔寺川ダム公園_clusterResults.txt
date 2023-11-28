@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八塔寺川ダム公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+川, あかね橋, ダム
+cluster1:(3)
+時期, 紅葉, 季節
+cluster2:(8)
+自宅, ピクニック, 弁当, 子供, 近く, 公園, 車, 人
+cluster3:(1)
+良さ
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 1entities.

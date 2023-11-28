@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯郷温泉からくり時計>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+音声解説, 町内案内図, 音声解説付き
+cluster1:(3)
+太郎, さんぶ太郎, 円珍和尚
+cluster2:(4)
+白鷺, 椰子並木, 湯郷, 美作
+cluster3:(5)
+斜め, 屋根, 足, 左右, 外
+cluster4:(4)
+秘密, 伝説, 地元, 出身
+cluster5:(12)
+中, こと, ベンチ, 格納庫, 人, 時間, からくり, シーン, ところ, 話, 子供, 仕組み
+cluster6:(2)
+所, 入口
+cluster7:(1)
+時計
+cluster8:(1)
+剣豪
+cluster9:(5)
+毎正, 巨人, 壁板, 電動式, 巨人ぶり
+
+howmany entities : 40
+howmany clusters : 10
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 7
+deleted 4entities.

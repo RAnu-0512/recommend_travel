@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷物語館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+木々, こと, 休憩, ベンチ, 場所, 軒, 情報, トイレ, 喫茶店, イベント, 施設, 門, 地元, 写真, 館内, 倉敷館, 倉敷, 入口, ホール, 入り口, 木陰, 旧家, 建物
+cluster1:(4)
+喫茶室, 展示室, 案内所, 観光案内所
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 2
+deleted 0entities.

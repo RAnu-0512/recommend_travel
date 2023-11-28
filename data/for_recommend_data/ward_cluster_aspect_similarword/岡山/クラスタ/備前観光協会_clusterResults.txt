@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備前観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+レストラン, センター, シーズン, サンバース, サン, カキオコ, 海, 身, 時期, パンフ, 焼きそば, お好み焼き, 瀬戸, プリプリ, パンフレット
+cluster1:(9)
+ビル, 牡蠣, 駅, 店, 昼食, 海鮮, そば, 観光センター, レストラン夕立
+cluster2:(1)
+ネギ焼き
+cluster3:(1)
+観光案内御
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 2entities.

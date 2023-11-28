@@ -1,0 +1,66 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:塩釜冷泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+蒜山, 塩窯冷戦, 冷泉, 塩釜堂, 塩釜冷泉, マス釣り, 蒜山観光, 鱒釣り, マス釣り場
+cluster1:(3)
+冷たさきれいさ, 挽きたて, 冷たさ
+cluster2:(2)
+水くみ場所, 水汲み
+cluster3:(2)
+水温, 気温
+cluster4:(3)
+気分, 香り, 空気
+cluster5:(2)
+魚, 野菜
+cluster6:(2)
+こどもたち, 子供
+cluster7:(2)
+家族, 人
+cluster8:(4)
+風景, 文字, 歴史, 自然
+cluster9:(5)
+大雨, 雨, 温泉, 登山, 観光
+cluster10:(5)
+池, 水筒, 泉, 名水, 冷水
+cluster11:(1)
+土産屋
+cluster12:(9)
+場所, 箇所, 出口, 車, 売店, 所, 場, そば, 敷地
+cluster13:(2)
+処理, 作り
+cluster14:(2)
+程度, 中
+cluster15:(4)
+気, 方, ほう, こと
+cluster16:(1)
+経験
+cluster17:(1)
+禁止
+cluster18:(10)
+夏, 水, 近く, 周り, 山, 周囲, 足元, 地元, 昔, 肝心
+cluster19:(2)
+釣り堀, アマゴ
+cluster20:(5)
+持ち帰りコーヒー, ボトル, コーヒー, 湧き水, 入れ物
+cluster21:(2)
+気持ち, 雰囲気
+cluster22:(2)
+中蒜山, キャンプ
+cluster23:(8)
+レストラン, オススメ, ペットボトル, ボリューム, スポット, ところ, スペース, こじんまり
+cluster24:(1)
+キャー
+cluster25:(1)
+マナー
+cluster26:(1)
+わき
+cluster27:(6)
+特A, 友達同士, 指, 足, 時間手, 手
+cluster28:(1)
+透明感
+
+howmany entities : 98
+howmany clusters : 29
+howmany entities (more than3entities) : 71
+howmany clusters (more than3entities) : 12
+deleted 27entities.

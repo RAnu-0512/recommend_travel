@@ -1,0 +1,17 @@
+--------------------similar_words:道の駅 久米の里--------------------
+top3 entities near to cluster1>>
+野菜, 果物, 山菜
+top3 entities near to cluster3>>
+国道, 駅, 県道
+top3 entities near to cluster4>>
+名物, 土産, 名産
+top3 entities near to cluster8>>
+ガンダム, モビルスーツ, ガンダムファン
+top3 entities near to cluster9>>
+イベント, 見どころ, 食べ物
+top3 entities near to cluster13>>
+土産物, 手作り, みやげ物
+top3 entities near to cluster15>>
+迫力, 興味, 価値
+top3 entities near to cluster18>>
+野菜, 特産, 農産物

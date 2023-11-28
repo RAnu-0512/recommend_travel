@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁市商家資料館 池上邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+池上邸, 池上
+cluster1:(3)
+家, 歴史, 時期
+cluster2:(3)
+館内, 看板, 入口
+cluster3:(1)
+屋敷
+cluster4:(1)
+醤油
+cluster5:(1)
+豪商
+cluster6:(1)
+ひな飾り
+cluster7:(1)
+池上醤油醸造元
+
+howmany entities : 13
+howmany clusters : 8
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 7entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:総社市まちかど郷土館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+窓口, 薬, 玄関, 役所, 建物
+cluster1:(6)
+存在, 地元, 人々, 親, 唯一, 待合室
+cluster2:(3)
+記憶, 感じ, 気
+cluster3:(1)
+明治
+cluster4:(1)
+展示室
+cluster5:(1)
+洋風建築
+cluster6:(3)
+総社, 総社宮, 備中売薬
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 3entities.

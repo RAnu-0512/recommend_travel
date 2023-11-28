@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神楽尾公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+遊具, 園内, バーベキュー施設, 公園
+cluster1:(8)
+ゴーカート, 滑り台, 子連れ, 親子連れ, 上, ローラー滑り台, 自転車, ブランコ
+cluster2:(2)
+花見, 桜
+cluster3:(2)
+季節, 景色
+cluster4:(1)
+神楽尾山
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 5entities.

@@ -1,0 +1,10 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝央美術文学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+図書館, 画家
+
+howmany entities : 2
+howmany clusters : 1
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 2entities.

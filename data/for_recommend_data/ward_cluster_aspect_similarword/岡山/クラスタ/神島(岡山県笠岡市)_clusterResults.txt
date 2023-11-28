@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神島(岡山県笠岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+離島, 干拓事業, 神島, 片島, 笠岡湾
+cluster1:(2)
+遍路, 遍路回り
+cluster2:(2)
+先端, 先端部分
+cluster3:(3)
+ケ所, 施設, スポーツ施設
+cluster4:(4)
+想像, 方, こう, 事
+cluster5:(8)
+場所, 時間, 地元, 近く, 昔, 名前, 県, 地区
+cluster6:(17)
+私有地, 自然, ビーチコーミング, 海沿い, 島, ゲート, 海, 山, 白装束, 瀬戸内海, 空気, 神島外浦, 地蔵, 気持ち, レジャーランド, 道路, 景色
+cluster7:(1)
+洋菓子屋
+cluster8:(1)
+なびっくランド
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 5
+deleted 6entities.

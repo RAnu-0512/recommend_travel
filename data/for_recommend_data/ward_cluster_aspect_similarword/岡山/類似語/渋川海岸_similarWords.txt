@@ -1,0 +1,31 @@
+--------------------similar_words:渋川海岸--------------------
+top3 entities near to cluster0>>
+海岸, 砂浜, 浜辺
+top3 entities near to cluster1>>
+海水魚, 海水, 海藻
+top3 entities near to cluster3>>
+島船, 島々, 島
+top3 entities near to cluster4>>
+秋, 春, 夏
+top3 entities near to cluster5>>
+海, 浜, 霞
+top3 entities near to cluster6>>
+密波, 密音, 密
+top3 entities near to cluster7>>
+ビーチ, 夕暮れ, 海沿い
+top3 entities near to cluster8>>
+雰囲気, 気持ち, ムード
+top3 entities near to cluster11>>
+オフシーズン, シーズンオフ, スポーツ
+top3 entities near to cluster12>>
+カップル, シャワー, ドライブ
+top3 entities near to cluster13>>
+カフェ, ホテル, レストラン
+top3 entities near to cluster15>>
+夕方, 早朝, 午前
+top3 entities near to cluster17>>
+海水浴, 水遊び, 散歩
+top3 entities near to cluster21>>
+景色, 風景, 人達
+top3 entities near to cluster22>>
+五岳, 五, 麓

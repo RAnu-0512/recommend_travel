@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和気町歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岡山, 和気
+cluster1:(3)
+歴史, 郷土, 文化
+cluster2:(3)
+勉強, 展示, 資料
+cluster3:(3)
+ゆかり, 古文書, 和気清麻呂
+cluster4:(2)
+場所, もの
+cluster5:(1)
+施設
+cluster6:(1)
+そば
+cluster7:(1)
+神社
+cluster8:(1)
+民族資料
+cluster9:(1)
+遺跡出土資料
+
+howmany entities : 18
+howmany clusters : 10
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 9entities.

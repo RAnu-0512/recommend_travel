@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぶどう畑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ブドウ, ぶどう
+cluster1:(2)
+中腹, 山
+cluster2:(1)
+ぶどう畑
+cluster3:(1)
+台地
+cluster4:(1)
+赤土
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

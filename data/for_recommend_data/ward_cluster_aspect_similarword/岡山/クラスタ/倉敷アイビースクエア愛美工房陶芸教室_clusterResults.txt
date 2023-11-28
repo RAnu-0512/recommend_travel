@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷アイビースクエア愛美工房陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+団体, 声, 作品, 絵
+cluster1:(10)
+スタッフ, 備前焼, コップ, プチプチ, デザイン, 気持ち, 出来上がり, アイビースクエア, 上がり, おすすめスポット
+cluster2:(5)
+先生, 別, 主人, 隣, 担当
+cluster3:(7)
+形, あと, 方, 時間, 希望, もの, 一つ
+cluster4:(1)
+量
+cluster5:(3)
+茶碗, 粘土, 皿
+cluster6:(7)
+ねり体験, 体験, 刻銘, 陶芸絵付け体験, 絵付け体験, 陶芸体験, 倉敷観光
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 6
+deleted 1entities.

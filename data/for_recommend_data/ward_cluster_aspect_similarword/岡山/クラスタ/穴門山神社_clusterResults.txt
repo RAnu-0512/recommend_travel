@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:穴門山神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+拝殿, 本殿, 神社, 詣り, 鳥居, 社殿
+cluster1:(12)
+道, 周り, 谷, 苔, 昼間, 陽, 方, 写真, 気, 車, 景色, 建物
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

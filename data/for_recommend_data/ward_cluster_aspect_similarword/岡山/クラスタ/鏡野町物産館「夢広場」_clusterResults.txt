@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鏡野町物産館「夢広場」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+レストラン, 買い物, 農産物, 水, 地元, スポット, 山田養蜂場, ジビエ, 魅力, 環境
+cluster1:(3)
+蜂蜜, 弁当, 野菜
+cluster2:(3)
+産直野菜, 土産品, 土産
+cluster3:(2)
+トマトやきゅうり一味違い, 取れたて野菜
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩井滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雨量, 水量
+cluster1:(2)
+関西NO, 関西
+cluster2:(2)
+昔子供, 子供
+cluster3:(5)
+夏, 自然, 水, 境, 夏場
+cluster4:(2)
+注意, 案内
+cluster5:(8)
+方, 人, 写真, 近く, 感じ, 上, 周り, 沢山
+cluster6:(2)
+ひと, 無駄
+cluster7:(20)
+口コミ, 遊歩道, 布滝, トイレ, 夫婦, 時間, 水浴び, カエル, スポット, 見ごたえ, クマ, スクリーン, 話, 道中, 途中, 階段, 雨, 老夫婦, 気持ち, 入り口
+cluster8:(1)
+大声
+cluster9:(9)
+道, 山奥, 車, 奥, 裏側, 看板, 裏, 道路, 建物
+cluster10:(1)
+岩井
+cluster11:(1)
+訪問時期
+cluster12:(9)
+滝そのもの, 谷沿い, 子宝の水, 名水, 滝壺, 白髪滝, 途中滝, 滝, 途中名水 岩井
+
+howmany entities : 64
+howmany clusters : 13
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 5
+deleted 13entities.

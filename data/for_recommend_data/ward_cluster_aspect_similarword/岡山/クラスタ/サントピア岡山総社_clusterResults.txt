@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サントピア岡山総社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+山, 種類, 工夫, 大人, スライダー, 子供, プール, スペース
+cluster1:(3)
+宿泊プラン, 料金, 軽食
+cluster2:(1)
+サントピア総社
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 1entities.

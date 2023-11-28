@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宗忠神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+地名, 神社, 駅, 屋台, 穴場
+cluster1:(3)
+絵馬, 初詣, 参拝
+cluster2:(3)
+餅, 行事, 節分
+cluster3:(1)
+御朱印集め
+cluster4:(3)
+安永, 朝廷, 明治
+cluster5:(10)
+チャリティーバザー, 自動車, 人, イベント, 七五三, 市街地, チェック, 子供, 普通, 子ども
+cluster6:(3)
+こと, 気, 印象
+cluster7:(1)
+便
+cluster8:(3)
+赤木忠, 神道系, 御守り
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 7
+deleted 2entities.

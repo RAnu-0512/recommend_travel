@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五果苑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+袋, 量
+cluster1:(6)
+感じ, 別, 場所, 写真, 体験, 事
+cluster2:(2)
+フルーツ, クリーム
+cluster3:(3)
+テーブル, 折りたたみ, スペース
+cluster4:(2)
+コーン, アイス
+cluster5:(1)
+子供
+cluster6:(1)
+足
+cluster7:(1)
+席
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 9entities.

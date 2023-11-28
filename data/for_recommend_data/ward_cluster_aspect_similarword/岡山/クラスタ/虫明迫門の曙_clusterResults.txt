@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:虫明迫門の曙>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+鴻島, 長島, 頭島, 鶴島
+cluster1:(13)
+日の出, こと, 場所, オススメ, 時間, 鹿久居島, ところ, 大多府島, 話, 友達, 先, カップル, 人気
+cluster2:(3)
+風情, 季節, 景色
+cluster3:(2)
+太陽, 夕日
+cluster4:(2)
+虫明漁港, 東方海上
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 4entities.

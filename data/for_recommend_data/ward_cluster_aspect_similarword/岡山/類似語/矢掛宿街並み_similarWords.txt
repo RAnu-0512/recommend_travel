@@ -1,0 +1,7 @@
+--------------------similar_words:矢掛宿街並み--------------------
+top3 entities near to cluster0>>
+宿場, 本陣, 大名
+top3 entities near to cluster3>>
+建物, 入口, 駅
+top3 entities near to cluster6>>
+施設, 部屋, 宿泊

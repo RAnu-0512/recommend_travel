@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西粟倉村観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川沿い, 川
+cluster1:(3)
+風車, 果物, 山村
+cluster2:(4)
+気持ち, ホッコリ, 場所, ソコ
+cluster3:(2)
+道, 駅
+cluster4:(1)
+何か
+cluster5:(1)
+観光案内所
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 6entities.

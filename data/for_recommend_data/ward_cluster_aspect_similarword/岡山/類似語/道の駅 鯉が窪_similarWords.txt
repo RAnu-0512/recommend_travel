@@ -1,0 +1,11 @@
+--------------------similar_words:道の駅 鯉が窪--------------------
+top3 entities near to cluster0>>
+野菜, 果物, 食材
+top3 entities near to cluster1>>
+地元, 駅, 国道
+top3 entities near to cluster3>>
+トイレ, 図書館, レストラン
+top3 entities near to cluster4>>
+食べ物, 飲み物, 食べもの
+top3 entities near to cluster7>>
+湿原, 駅, 鯉

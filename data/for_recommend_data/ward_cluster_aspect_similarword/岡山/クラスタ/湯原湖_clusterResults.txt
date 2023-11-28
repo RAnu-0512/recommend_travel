@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯原湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+川, 湖, 湖沿い, 旭川, ダム
+cluster1:(16)
+側, 前, のどか, トンネル, 車, ひまわり館, 時期, 左手, 先ほど, 世話, 目, 露天風呂, 距離, 右手, 辺り, 中国
+cluster2:(7)
+絶景, 景観, 新緑, 天気, 県道, 休日, 景色
+cluster3:(4)
+湯原温泉郷, 真賀温泉, 足温泉, 温泉
+cluster4:(4)
+砂湯露天風呂, 名物砂湯露天風呂, 砂湯, 名湯砂湯
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 0entities.

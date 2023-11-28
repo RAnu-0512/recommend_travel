@@ -1,0 +1,9 @@
+--------------------similar_words:吉備川上ふれあい漫画美術館--------------------
+top3 entities near to cluster0>>
+時間, 徒歩, 休み
+top3 entities near to cluster1>>
+川, 集落, 山
+top3 entities near to cluster4>>
+学校, 図書館, 漫画
+top3 entities near to cluster5>>
+交通, 乗車, 対策

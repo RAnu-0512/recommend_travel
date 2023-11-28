@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 みやま公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島, 岡山
+cluster1:(2)
+スズキ, アナゴ
+cluster2:(4)
+入り口, バス停, プレイゾーンコーナー, コース
+cluster3:(12)
+レストラン, ドックラン, オススメ, カフェ, コロッケ, スーパー, モーニング, おにぎり, イベント, シーバス, 買い物, ドッグラン
+cluster4:(1)
+農産物
+cluster5:(1)
+朝風呂
+cluster6:(10)
+途中, 販売, 由来, 日, 価格, 方, 開店, 手, 地元, 人気
+cluster7:(9)
+魚, 野菜, 米, 食堂, 弁当, 果物, パン, 鳥, 主婦
+cluster8:(7)
+絵, 花, 自然, 桜まつり, 空気, 紅葉, 季節
+cluster9:(5)
+道, 散策コーナー, 旅, 駅, 公園
+cluster10:(2)
+夜景, イギリス庭園
+cluster11:(1)
+遊具
+cluster12:(1)
+標示
+cluster13:(2)
+朝早め, 子供連れ
+cluster14:(1)
+深山カフェ食堂
+cluster15:(6)
+魚販売施設, 情報施設, 特産物, 地元超品, 施設, 直売施設
+cluster16:(2)
+生鮮野菜, 花・野菜
+cluster17:(4)
+鮮魚類, 鮮度, 魚屋, 鮮魚
+cluster18:(1)
+四季折々
+
+howmany entities : 73
+howmany clusters : 19
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 8
+deleted 16entities.

@@ -1,0 +1,39 @@
+--------------------similar_words:湯郷温泉--------------------
+top3 entities near to cluster0>>
+肌触り, 手触り, 味わい
+top3 entities near to cluster1>>
+ひとつ, 一つ, いくつ
+top3 entities near to cluster3>>
+ジャグジー, 露天風呂, ジャグジーバス
+top3 entities near to cluster6>>
+イベント, スタッフ, レストラン
+top3 entities near to cluster13>>
+カフェ, ホテル, ランチ
+top3 entities near to cluster18>>
+身体
+top3 entities near to cluster20>>
+田舎, 美人, 自然
+top3 entities near to cluster21>>
+子供, 家族, 夫婦
+top3 entities near to cluster22>>
+料理
+top3 entities near to cluster24>>
+膝, 痛み, 足
+top3 entities near to cluster26>>
+足湯, 温泉, 露天風呂
+top3 entities near to cluster27>>
+館, 表慶, 棲龍
+top3 entities near to cluster28>>
+親戚, 農園, 家族
+top3 entities near to cluster29>>
+繁華街, 繁華
+top3 entities near to cluster31>>
+食事, 夕食, 部屋
+top3 entities near to cluster34>>
+和室, 部屋, 館内
+top3 entities near to cluster41>>
+宿泊, 宿, ホテル
+top3 entities near to cluster42>>
+着用, 消毒, 陳列
+top3 entities near to cluster43>>
+温泉, 湯, 温泉郷

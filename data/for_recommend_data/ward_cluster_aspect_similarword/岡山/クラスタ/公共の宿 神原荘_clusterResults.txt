@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:公共の宿 神原荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+使用料金, 半額
+cluster1:(3)
+方, 市, スポーツ施設
+cluster2:(2)
+旅, 食材
+cluster3:(1)
+公共
+cluster4:(1)
+宿泊者
+cluster5:(1)
+宿 神原荘
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 7entities.

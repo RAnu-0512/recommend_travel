@@ -1,0 +1,29 @@
+--------------------similar_words:アリオ倉敷--------------------
+top3 entities near to cluster0>>
+レストラン, デパート, ショップ
+top3 entities near to cluster2>>
+施設, 空港, 駅
+top3 entities near to cluster3>>
+家電品, 食品, 家電
+top3 entities near to cluster5>>
+洋服店, 雑貨店, 洋服, 雑貨
+top3 entities near to cluster9>>
+本屋, レジ, 書店
+top3 entities near to cluster10>>
+土産, 土産物, おみやげ
+top3 entities near to cluster11>>
+広場, 公園, 遊具
+top3 entities near to cluster12>>
+時間, 休憩, 昼休み
+top3 entities near to cluster13>>
+購入, 利用, 調達
+top3 entities near to cluster22>>
+地元, 当地, 近隣
+top3 entities near to cluster25>>
+充実, 中心, トップクラス
+top3 entities near to cluster26>>
+ご飯, 夕飯, 夕食
+top3 entities near to cluster27>>
+子供, 家族, 子ども
+top3 entities near to cluster31>>
+緑雨, 庭, 緑

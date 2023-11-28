@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷市立美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+美術, 美術品, 日本美術
+cluster1:(2)
+郷土作家, 共同作家
+cluster2:(1)
+池田遙邨
+cluster3:(4)
+展示, 作家, 作品, 遺作
+cluster4:(3)
+臨時, 地元ゆかり, 観光
+cluster5:(13)
+こと, 場所, 中心, イベント, 近く, 図書館, アクセス, 市, 辺り, 美術館, 敷地, 日本, 建物
+cluster6:(1)
+倉敷
+cluster7:(3)
+市役所移転, 跡地利用, 反対側
+cluster8:(1)
+役所庁舎
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 5
+deleted 5entities.

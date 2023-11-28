@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆめ農園 晴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+苺, いちご狩り
+cluster1:(5)
+シーズン, 子ども, イチゴ, イメージ, いちご
+cluster2:(2)
+もの, 他
+cluster3:(1)
+家族
+cluster4:(3)
+終わり頃, GW, 貸し切り状態
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

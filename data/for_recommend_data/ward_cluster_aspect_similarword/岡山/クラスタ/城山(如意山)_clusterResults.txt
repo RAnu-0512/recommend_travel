@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山(如意山)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+山側, 城山森林公園, 如意山, 解説欄, 案内板, ところ, 山, 丸遺跡, 丸跡, 公園, 徒歩, 草ぼうぼう, 状態, 城山
+cluster1:(3)
+高田城址, JR姫新線中国, 勝山城址
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

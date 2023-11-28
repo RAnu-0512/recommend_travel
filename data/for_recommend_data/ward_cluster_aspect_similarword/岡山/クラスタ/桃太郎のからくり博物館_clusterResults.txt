@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桃太郎のからくり博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+こと, 方, 錯覚, 感じ, 引っかかり方, シュールさ, 意外
+cluster1:(2)
+秘密, 人気
+cluster2:(4)
+こども, 大人, 子供, 子ども
+cluster3:(2)
+鬼ヶ島, 桃太郎
+cluster4:(3)
+からくり博物館, からくり仕掛け, 博物館
+cluster5:(8)
+スリル, テーマ, からくり, 息抜き, テーマパーク, 種明かし, スタッフ, マジック
+cluster6:(2)
+世界, 目
+cluster7:(1)
+鬼
+cluster8:(1)
+命
+cluster9:(10)
+係, からくり施設, 展示, 施設, 体感型アトラクション, 館内, 係員, 入口, 資料, 桃太郎説話
+cluster10:(3)
+洞窟探検, 倉敷, 倉敷観光
+
+howmany entities : 43
+howmany clusters : 11
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 6
+deleted 8entities.

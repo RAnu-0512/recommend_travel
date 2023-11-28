@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:風の道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+電車, 駅名, 電車たち
+cluster1:(4)
+勾配, 丘, 坂, 頂上
+cluster2:(3)
+方, 感じ, 上
+cluster3:(7)
+遊歩道, バス停, 瀬戸大橋線, コース, 瀬戸大橋, 瀬戸内海, 自転車
+cluster4:(2)
+鷲羽山, 下津井
+cluster5:(1)
+地元
+cluster6:(3)
+道, バス, 駅
+cluster7:(3)
+風, 海, 景色
+cluster8:(1)
+跡
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 6
+deleted 4entities.

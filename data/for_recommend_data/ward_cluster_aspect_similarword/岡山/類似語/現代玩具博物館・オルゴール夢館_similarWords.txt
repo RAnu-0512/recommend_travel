@@ -1,0 +1,11 @@
+--------------------similar_words:現代玩具博物館・オルゴール夢館--------------------
+top3 entities near to cluster0>>
+玩具, おもちゃ, オモチャ
+top3 entities near to cluster1>>
+おもちゃ, 子供, 子ども
+top3 entities near to cluster11>>
+種類
+top3 entities near to cluster12>>
+時間, 日分, 日
+top3 entities near to cluster14>>
+案内, 展示, 実演

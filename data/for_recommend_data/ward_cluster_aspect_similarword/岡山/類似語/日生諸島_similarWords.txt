@@ -1,0 +1,13 @@
+--------------------similar_words:日生諸島--------------------
+top3 entities near to cluster0>>
+月, 12, 11
+top3 entities near to cluster1>>
+屈指, 有数, 随一
+top3 entities near to cluster5>>
+レストラン, 魚介類, フルコース
+top3 entities near to cluster11>>
+子供, ご飯, 自然
+top3 entities near to cluster13>>
+景観, 景色, 絶景
+top3 entities near to cluster14>>
+島船, 島, 島々

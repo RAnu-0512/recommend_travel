@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:軽部神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乳房, 乳房全般
+cluster1:(4)
+境内, おっぱい神社, 絵馬, 祭神
+cluster2:(8)
+垂乳根, 地域おこし, 桜, 現地, 由来, 枝垂桜, 大木, 関係
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 2entities.

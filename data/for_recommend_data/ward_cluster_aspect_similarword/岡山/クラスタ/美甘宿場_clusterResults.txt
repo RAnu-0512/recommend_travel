@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美甘宿場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+がいせん桜, 桜
+cluster1:(1)
+桜まつり
+cluster2:(2)
+桜並木, 新庄川
+cluster3:(1)
+人間
+cluster4:(1)
+途中
+cluster5:(1)
+枝ぶり
+cluster6:(1)
+美甘
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

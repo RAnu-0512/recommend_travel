@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぐらすたTOMO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+確定連絡, 電話連絡, 予約確定連絡
+cluster1:(16)
+オプション, グラス, ビアグラス, 思い出, サイト, オレンジ, ガラス, ドット, スタッフ, コップ, リクエスト, デザイン, らせん, 雰囲気, 出来上がり, 手続き
+cluster2:(3)
+娘, 主人, 妻
+cluster3:(4)
+家族, 小学生, 子供, 子ども
+cluster4:(2)
+バス, 旅行
+cluster5:(6)
+先生, 指導, デザイン画, 作品, 素人丸出し, 絵
+cluster6:(17)
+形, 違う物, 最後, 深緑, 幅, 時間, 程度デザイン, 終了, 今回, グラス作り, 感じ, 前回, 次, 物, 作業, 色, 模様
+cluster7:(6)
+巻きつけ, 体験, ガラス体験, ガラス吹き体験, 体験内容, ガラス細工
+cluster8:(1)
+*́`
+
+howmany entities : 58
+howmany clusters : 9
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 7
+deleted 3entities.

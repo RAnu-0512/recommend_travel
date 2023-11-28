@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備前市総合運動公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+コート, サッカー, スポーツ, 運動公園, 子供, プール, 人
+cluster1:(2)
+施設, 駅
+cluster2:(1)
+雨
+cluster3:(1)
+興味
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 4entities.

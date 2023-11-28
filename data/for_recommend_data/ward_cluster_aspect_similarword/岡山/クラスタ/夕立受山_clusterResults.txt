@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夕立受山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+島々, 湾
+cluster1:(2)
+心, 気持
+cluster2:(3)
+ハイライト, スポット, 此処
+cluster3:(2)
+旅, 景色
+cluster4:(1)
+橋
+cluster5:(1)
+駐車スペース
+cluster6:(1)
+夕立受山
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 9entities.

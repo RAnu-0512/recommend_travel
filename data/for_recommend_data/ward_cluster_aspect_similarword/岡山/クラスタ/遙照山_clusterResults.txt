@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遙照山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+絶景, 夜景, 眺め, 景色
+cluster1:(6)
+昼間, スポット, 島々, 場所, 瀬戸内海, 関係
+cluster2:(1)
+遙照山
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝山文化往来館ひしお>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寺町, 寺, 勝山
+cluster1:(6)
+イベント, カフェ, 施設, ギャラリー, 上, ホール
+cluster2:(2)
+町, 丘
+cluster3:(1)
+寄贈
+cluster4:(3)
+文化交流拠点, 地元醤油店, 醤油蔵
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 3entities.

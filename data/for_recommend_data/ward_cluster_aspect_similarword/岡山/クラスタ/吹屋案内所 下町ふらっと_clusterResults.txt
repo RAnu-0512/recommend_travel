@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吹屋案内所 下町ふらっと>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+染め, ベンガラ染め, 泥染め
+cluster1:(14)
+方, GW, 色, 体験, 時間, おかげ, もの, 息子, ステンシル, 子, 洋服, 講師, 絵, 小学生
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

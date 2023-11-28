@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:株式会社バイストン本店&ショールーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+倉敷帆, 大阪, 倉敷
+cluster1:(10)
+裏, 店員, ショルダーバッグ, 布, もの, 対応, ポーチ, 商品, 目移り, 帆布
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

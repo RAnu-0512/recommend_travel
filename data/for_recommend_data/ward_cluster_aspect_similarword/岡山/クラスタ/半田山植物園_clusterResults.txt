@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:半田山植物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+坂, 階段, 古墳
+cluster1:(2)
+外食, 旅行
+cluster2:(2)
+興味, 趣味
+cluster3:(2)
+投稿, 木
+cluster4:(2)
+時期, 季節
+cluster5:(2)
+こと, 場所
+cluster6:(2)
+全体, 色
+cluster7:(11)
+人, かんじ, カエル, ところ, カメラ, おすすめ, 手入れ, ツツジ, 子ども, コロッコロ, 自転車
+cluster8:(2)
+山, 半田山
+cluster9:(3)
+相棒, 夫, 車
+cluster10:(1)
+運動
+cluster11:(12)
+花見, 植物, 花, 園内, 岡山, 蓮池, ハーブ園, 温室, 満開, 熱帯植物, ぱり春, 桜
+
+howmany entities : 44
+howmany clusters : 12
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 4
+deleted 15entities.

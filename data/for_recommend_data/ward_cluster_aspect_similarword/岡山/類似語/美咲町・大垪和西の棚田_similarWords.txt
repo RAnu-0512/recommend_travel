@@ -1,0 +1,17 @@
+--------------------similar_words:美咲町・大垪和西の棚田--------------------
+top3 entities near to cluster0>>
+棚田, 田んぼ, 水田
+top3 entities near to cluster1>>
+案内, 看板, 標識
+top3 entities near to cluster2>>
+谷地, 山間地, 谷, 山間
+top3 entities near to cluster4>>
+景色, 景観, 風景
+top3 entities near to cluster10>>
+旅, 周遊, 縦断
+top3 entities near to cluster12>>
+星空
+top3 entities near to cluster13>>
+田んぼ, 田植え, あぜ道
+top3 entities near to cluster14>>
+寄り道, 立ち寄る, 出掛ける

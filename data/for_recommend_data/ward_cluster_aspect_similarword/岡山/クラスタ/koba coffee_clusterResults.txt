@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:koba coffee>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+独学, 勉強
+cluster1:(8)
+インターネット, こと, コーヒードリップ, 湯, 量, 道具, コスト, コーヒー
+cluster2:(1)
+入れ方
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 3entities.

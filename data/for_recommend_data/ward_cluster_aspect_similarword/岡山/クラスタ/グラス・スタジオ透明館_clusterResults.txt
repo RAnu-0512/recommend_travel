@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グラス・スタジオ透明館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+トンボ玉, 小鉢
+cluster1:(2)
+体験, ガラス体験
+cluster2:(4)
+もの, 物, 思い, 品
+cluster3:(3)
+時間, 施設, 工程
+cluster4:(1)
+日付
+cluster5:(3)
+グラス, 子供, 小学生
+cluster6:(2)
+家族, 主人
+cluster7:(1)
+先生
+cluster8:(1)
+助手
+cluster9:(1)
+底
+cluster10:(1)
+厚意
+cluster11:(1)
+自慢顔
+
+howmany entities : 22
+howmany clusters : 12
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 12entities.

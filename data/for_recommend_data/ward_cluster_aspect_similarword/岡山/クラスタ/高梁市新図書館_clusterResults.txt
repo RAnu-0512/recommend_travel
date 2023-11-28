@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁市新図書館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+遊具, 子供, 幼児
+cluster1:(2)
+書店, 他店
+cluster2:(2)
+斜め, 窓際
+cluster3:(2)
+こと, 姿
+cluster4:(10)
+コーナー, スタバ, フロア, 図書館, ツタヤ, 館内, 隣, 貸し出しカウンター, エレベータ, コーヒー
+cluster5:(3)
+ビル, 駅, 都会
+cluster6:(1)
+4Fテラス
+cluster7:(3)
+専門書, 実用書コーナー, 観光案内所
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 7entities.

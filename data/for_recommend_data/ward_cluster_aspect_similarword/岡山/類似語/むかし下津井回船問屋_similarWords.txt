@@ -1,0 +1,25 @@
+--------------------similar_words:むかし下津井回船問屋--------------------
+top3 entities near to cluster0>>
+廻船, 回船, 問屋
+top3 entities near to cluster2>>
+展示, 資料, 収蔵
+top3 entities near to cluster4>>
+土産, おみやげ, 土産物
+top3 entities near to cluster8>>
+レストラン, タクシー, コーナー
+top3 entities near to cluster11>>
+土産物, みやげ物, 海産物
+top3 entities near to cluster12>>
+海, タコ, 蔵
+top3 entities near to cluster13>>
+地元, 昔, 大半
+top3 entities near to cluster14>>
+商家, 港町, 問屋
+top3 entities near to cluster15>>
+文化, 営み, 繁栄
+top3 entities near to cluster16>>
+部屋
+top3 entities near to cluster17>>
+敷地, 建物, 施設
+top3 entities near to cluster18>>
+絶景, 景色, 旅

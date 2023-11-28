@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷市歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+入り口, 正面, 奥
+cluster1:(3)
+こと, もの, 時代
+cluster2:(3)
+部屋, 資料, 建物
+cluster3:(1)
+事物
+cluster4:(1)
+大正
+cluster5:(1)
+極普通
+cluster6:(1)
+洋風建築
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 4entities.

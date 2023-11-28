@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテル作州武蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+思いがけず心, 心
+cluster1:(2)
+季節, 春
+cluster2:(19)
+フロントスタッフ, フェイスタオル・バスタオル, コース, トラベルクーポン, ばあちゃん, ジェットバス, づくし, ゴルフ, メニュー, 水風呂, 露天風呂, デザート, バイキング, ホール, フロント, 気持ち, サウナ, ホテル, 日本
+cluster3:(8)
+こと, 上質, 好物, 目的, 程度, 感じ, 作り, ・・
+cluster4:(4)
+刺身, 膳, 松茸, 前菜
+cluster5:(3)
+噴水, 温泉, 湯
+cluster6:(2)
+窓口, 料金
+cluster7:(3)
+家族, 夫婦, 家内
+cluster8:(2)
+部屋, 風呂
+cluster9:(4)
+夕食, 食事, 料理, 仕事
+
+howmany entities : 49
+howmany clusters : 10
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 6
+deleted 8entities.

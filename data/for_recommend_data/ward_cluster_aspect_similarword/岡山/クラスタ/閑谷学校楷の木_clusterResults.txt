@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:閑谷学校楷の木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+楷の木, 学問の木, 楷
+cluster1:(7)
+価値, 姿, 写真, 様子, 魅力, 威厳, 写真スポット
+cluster2:(3)
+色, 黄色, 赤
+cluster3:(2)
+木, 別名
+cluster4:(4)
+自然, 秋, 次回, 日本
+cluster5:(1)
+岡山
+cluster6:(14)
+方, 場所, オススメ, 人, 時間, スポット, もの, 時期, ライト, コントラスト, おすすめ, 季節, 気持ち, ジャム
+cluster7:(10)
+孔子, 講堂, 境内, 櫂, 学校, 入口, 巨木, 床, 敷地, 建物
+cluster8:(6)
+バス, 散策, 紅葉, 観光, 紅葉スポット, 出店
+cluster9:(1)
+ウルシ科
+cluster10:(1)
+京都・兵庫・岡山
+
+howmany entities : 52
+howmany clusters : 11
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 7
+deleted 5entities.

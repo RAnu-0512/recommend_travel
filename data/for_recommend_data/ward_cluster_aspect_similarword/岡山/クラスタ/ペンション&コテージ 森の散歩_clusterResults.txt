@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ペンション&コテージ 森の散歩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+家族, 持ち帰り, 愛犬, 針, 再セット, 長女, テグス, セット, 久々
+cluster1:(2)
+見学側, 釣り体験
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

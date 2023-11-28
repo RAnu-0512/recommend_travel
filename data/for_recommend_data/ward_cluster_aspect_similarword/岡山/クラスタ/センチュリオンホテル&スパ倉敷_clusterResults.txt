@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:センチュリオンホテル&スパ倉敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+浴場, 浴槽, 女湯, 日帰り入浴, 温泉, 入浴, 浴室, 風呂, 湯
+cluster1:(4)
+ヘアエッセンス, 乳液, 毛, 髪
+cluster2:(4)
+感じ, 気, 方, こと
+cluster3:(2)
+利用, 対応
+cluster4:(1)
+貸し切り状態
+cluster5:(1)
+機会
+cluster6:(17)
+値段, 場所, 水, 時計, 近く, 上, 床, 下, 時間, 倉敷, 他, 最後, 金額, 温度, 限定ポイント, ほか, 地下
+cluster7:(2)
+気持ち, 段取り
+cluster8:(3)
+シャワー, アメニティ, アメニティー
+cluster9:(7)
+マッサージ, シャンプートリートメント, コンディショナー, エレベーター, フロント, シャンプー, チェックイン
+cluster10:(1)
+ポツポツ
+cluster11:(1)
+ホテル
+cluster12:(5)
+チェア, 水風呂, サウナ, タオル, 扇風機
+cluster13:(8)
+主人, 体, 客, 清掃, 女性, 家族, 子供, 交代
+cluster14:(1)
+クシ
+cluster15:(1)
+衛生面
+
+howmany entities : 67
+howmany clusters : 16
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 8
+deleted 10entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備中国総社宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+備中国総社, 総社, 総社宮
+cluster1:(2)
+国府, 国司
+cluster2:(2)
+絵馬, 鳥居
+cluster3:(3)
+拝殿, 祭礼, 神社
+cluster4:(5)
+池, 神殿, 古代, 回廊, 神
+cluster5:(1)
+巡拝
+cluster6:(21)
+独特, 姿, 全国, 軒, 案内板, 人, 地名, 面, 各地, 近く, 社, 造り, 任地, 全て, 手間, 解説, 雰囲気, 中国, 由来, 建物, 国内
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 5entities.

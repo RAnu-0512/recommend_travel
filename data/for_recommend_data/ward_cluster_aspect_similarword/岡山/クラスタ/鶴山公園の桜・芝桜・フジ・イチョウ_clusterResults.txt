@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鶴山公園の桜・芝桜・フジ・イチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上下左右どこ, 南側入り口周辺
+cluster1:(2)
+桜祭り, 桜祭り自体
+cluster2:(3)
+人出, 屋台, 出店
+cluster3:(6)
+会場, 写真, 時期, 季節, 撮影スポット, 意味
+cluster4:(3)
+小雨, 中国, 地方
+cluster5:(8)
+サクラ, 花見, 花, 名所, フジ, 夜桜, 八重桜, 桜
+cluster6:(5)
+曲輪, 鶴山, 櫓, 城, 石垣
+cluster7:(1)
+小高い城跡一面に桜
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 5entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍宮岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+清流, 先, 湧き水, 奇岩, 石灰岩, 看板, 下流, 左岸, アート, 新庄川, 岩, 景観
+cluster1:(2)
+鬼清水, 雪白
+cluster2:(1)
+作西の三清水
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 3entities.

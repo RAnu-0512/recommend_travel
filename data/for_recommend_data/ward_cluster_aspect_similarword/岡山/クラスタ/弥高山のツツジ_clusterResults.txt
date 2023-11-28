@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥高山のツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+景観, 頂上, 山, 斜面, 山並, 山頂, 眺望, 雲海
+cluster1:(3)
+施設, 遊具, 公園
+cluster2:(2)
+下旬, 木
+cluster3:(3)
+イメージ, ところ, アスレチック
+cluster4:(2)
+吉備高原, 瀬戸内海
+cluster5:(4)
+つつじ, ワラビ, ツツジ, 紫陽花
+cluster6:(2)
+ここ弥高山, 部分
+cluster7:(5)
+花, 時期, 紅葉, 季節, 桜
+cluster8:(1)
+ツジ
+cluster9:(1)
+子供連れ
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 8entities.

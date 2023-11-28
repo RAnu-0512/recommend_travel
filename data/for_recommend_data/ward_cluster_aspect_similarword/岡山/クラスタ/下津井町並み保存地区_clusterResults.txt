@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下津井町並み保存地区>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+下津井, 船
+cluster1:(3)
+場所, 記録, 時代
+cluster2:(1)
+奈良
+cluster3:(1)
+脚光
+cluster4:(1)
+内海航路
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

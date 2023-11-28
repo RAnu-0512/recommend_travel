@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おりんぴあどりーむせと>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+孫達, 孫
+cluster1:(2)
+ミニクルーズ, 岡山
+cluster2:(3)
+体験, 感じ, 印象
+cluster3:(3)
+家族, 息子, 子供
+cluster4:(5)
+方, 人, 時間, 番, 他
+cluster5:(16)
+小豆島, 滑り台, チャギントン, クルーズきっかけ, サロンルーム, 行き帰り, 乗り場, キッズスペース, 人混み, ブランコ, ひと時, チケット, サロン, プラン, フェリー, クルーズ
+cluster6:(12)
+席, 荷物, 売店, 風船, 弁当, 職員, 広報, チャギントン弁当, 船, 観光, 昼食, 帰り
+cluster7:(2)
+電車, チャギントン電車
+cluster8:(2)
+チャギントン乗車, 乗車
+cluster9:(1)
+下りず
+cluster10:(1)
+休憩室
+
+howmany entities : 49
+howmany clusters : 11
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 5
+deleted 10entities.

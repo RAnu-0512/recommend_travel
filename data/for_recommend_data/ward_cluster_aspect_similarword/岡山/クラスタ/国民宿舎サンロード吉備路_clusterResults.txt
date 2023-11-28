@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国民宿舎サンロード吉備路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+予約, 予約分
+cluster1:(18)
+高齢, 家族, 席, 接客, 卓球, 夫婦, 風呂, 椅子, 子供, 店, 寿司, 季節, 食事, 料理, 温泉, 道路, ファミリー層, 皿
+cluster2:(26)
+飲み物, セルフサービス, カレー, カート, チョコレートファウンテン, 揚げ物, BBQ, サービス, ジュース, テーブル, かき氷, スタッフ, 焼酎, ジャスト, サラダ, 半分, ビール, デザート, 焼きそば, バイキング, 勿論ワイン, 次回, ラーメン, 日本, ランチ, トレー
+cluster3:(2)
+準備, 対応
+cluster4:(2)
+到着, 案内
+cluster5:(4)
+方, 声, 楽し, 過ごし方
+
+howmany entities : 54
+howmany clusters : 6
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 3
+deleted 6entities.

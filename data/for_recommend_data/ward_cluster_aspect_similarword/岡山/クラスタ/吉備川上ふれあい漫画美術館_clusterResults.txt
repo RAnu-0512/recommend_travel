@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉備川上ふれあい漫画美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+訪問日, 時間, 休み, 受付, 徒歩
+cluster1:(4)
+川, 山, 空気, 集落
+cluster2:(7)
+中, こと, 方, 場所, 人, もの, 多く
+cluster3:(2)
+笑, 感想
+cluster4:(13)
+施設, 図書館, 館内, オフシーズン, 一心不乱, 学校, 子供, 漫画, スペース, マンガ, ジャンル, 美術館, バスターミナル
+cluster5:(3)
+コロナ対策, 交通, 乗車
+cluster6:(1)
+手消毒
+cluster7:(1)
+終点地頭下車
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 5
+deleted 4entities.

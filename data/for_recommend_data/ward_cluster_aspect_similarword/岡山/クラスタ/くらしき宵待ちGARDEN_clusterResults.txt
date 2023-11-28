@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くらしき宵待ちGARDEN>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+竹林, 庭
+cluster1:(2)
+レストラン利用, 予約
+cluster2:(7)
+雰囲気, 出入り, 方, ギャラリー, イタリアン, オススメ, ランチ
+cluster3:(2)
+予定, 場所
+cluster4:(1)
+うら
+cluster5:(1)
+良さ
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 8entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:犬島海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+家, 人, 終わり
+cluster1:(3)
+海, 海水浴スポット, 海水浴
+cluster2:(1)
+気分
+cluster3:(1)
+穴場
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 2entities.

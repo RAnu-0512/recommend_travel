@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津山駅観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+中, 前, 駅前ロータリー, JR, 機関車, 立ち寄り先, 隣, 目, 注意, 津山, 地図
+cluster1:(5)
+交通観光, 観光案内, 案内所, 観光案内所, 交通観光案内所
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

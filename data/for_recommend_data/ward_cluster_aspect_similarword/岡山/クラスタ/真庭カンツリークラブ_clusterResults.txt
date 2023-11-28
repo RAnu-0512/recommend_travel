@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真庭カンツリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ピンクティー, 赤ティー
+cluster1:(2)
+稼働, 設置
+cluster2:(8)
+チャンピオンコース, メンテナンス, 距離, 前, 初心者, 女性, ホテル, コース
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝山運動公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+温泉, 近く, ツーリング, 公園, 運動公園
+cluster1:(3)
+必要, 設備, 利用
+cluster2:(1)
+勝山運動公園
+cluster3:(1)
+中継点
+cluster4:(1)
+総合運動施設
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

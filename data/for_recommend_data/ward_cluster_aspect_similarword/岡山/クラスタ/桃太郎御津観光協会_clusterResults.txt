@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桃太郎御津観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+果物, 地産, 野菜
+cluster1:(9)
+みつ, 里, 看板, 心, 国道, 地元, 誕生寺, 帰り, 津山
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

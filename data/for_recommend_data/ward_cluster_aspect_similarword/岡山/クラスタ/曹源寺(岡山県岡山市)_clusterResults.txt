@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:曹源寺(岡山県岡山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+美しさ, 大きさ
+cluster1:(8)
+臨済宗, 寺院, 寺, 山門, 歴史, 御朱印, 菩提寺, 庭園
+cluster2:(1)
+岡山藩主池田家
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 3entities.

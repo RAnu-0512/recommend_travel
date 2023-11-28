@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山森林公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+簡易小屋, 木材チップ, 木材
+cluster1:(12)
+城山森林公園, 城山, 標高, 散策道, 勝山, グラウンド, 山中, 森林浴, ウォーキングコース, 森林公園, 公園, 散歩道
+cluster2:(3)
+高田城址, 木の町勝山, 緑豊かでバードウォッチング
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 0entities.

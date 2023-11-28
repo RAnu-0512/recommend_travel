@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キリンビール岡山工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+グラス, ノンアルコールビール, チューハイ, ジュース, フローズンビール, ビールづくり, ガラス, ソフトドリンク, スタッフ, ネット, 味わい, ビール, キリンビール, 楽しみ, アルコール, つまみ, ビデオ, キリン
+cluster1:(3)
+人, 子供, 子ども
+cluster2:(2)
+最後, 普通
+cluster3:(3)
+場所, 感じ, 映像
+cluster4:(7)
+バス, GWキャンペーン, 工程, 予約, 五感, 機械, 敷地
+cluster5:(2)
+キリンビール岡山工場, 岡山工場
+cluster6:(3)
+見学, 見学時間, 見学コース
+cluster7:(2)
+アサヒビール派, キリンビール派
+cluster8:(2)
+ビン, 缶
+cluster9:(2)
+ビール作り, 試飲
+cluster10:(1)
+若ビール
+cluster11:(1)
+搾り
+cluster12:(4)
+ビール工場, ビール園, 製造過程, 工場
+cluster13:(1)
+できたて
+cluster14:(1)
+岡山工場限定醸造 一番しぼり
+
+howmany entities : 52
+howmany clusters : 15
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 6
+deleted 14entities.

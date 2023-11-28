@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キャンドル フェアリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+倉敷, 倉敷観光
+cluster1:(3)
+方, もの, 話
+cluster2:(2)
+予定, 前回
+cluster3:(1)
+時間
+cluster4:(1)
+変更
+cluster5:(1)
+機会
+cluster6:(17)
+友人, プレゼント, 旅, アイテム, 思い出, イメージ, 娘, 写真, キャンドル作り, スタッフ, キャンドルづくり, 子供, 店, 店主, 雰囲気, 温かさ, キャンドル
+cluster7:(1)
+キャンドル作り体験
+cluster8:(1)
+不器
+
+howmany entities : 29
+howmany clusters : 9
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 9entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大芦高原キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+殻, ゴミ
+cluster1:(6)
+キャンプ, グループキャンプ, バンガロー, チェックイン, バーベキュー, ロケーション
+cluster2:(2)
+スタート, グループ
+cluster3:(1)
+サイト
+cluster4:(2)
+レベル, 子ども
+cluster5:(1)
+トイレ
+cluster6:(1)
+クリーンセンター
+cluster7:(1)
+近く
+cluster8:(2)
+経験, 電話
+cluster9:(6)
+満点, 星空, 盆, 志, ぬけ, 温泉
+cluster10:(4)
+不在看板, 管理事務所, 管理状態, 運営法人
+
+howmany entities : 28
+howmany clusters : 11
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 12entities.

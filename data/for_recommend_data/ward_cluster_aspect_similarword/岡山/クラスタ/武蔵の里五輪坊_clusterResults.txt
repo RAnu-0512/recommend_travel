@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵の里五輪坊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+武蔵, 武蔵道場, リゾート武蔵, 武蔵関連
+cluster1:(2)
+五輪, 五輪坊
+cluster2:(4)
+里, 門, 温泉, 坊
+cluster3:(8)
+友人, 中心, 時間, 施設, 書, 内容, 敷地, 他
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 2entities.

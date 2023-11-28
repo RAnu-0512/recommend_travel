@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萬福寺(岡山県津山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+儀式, 虚空蔵菩薩信仰
+cluster1:(5)
+黒沢山, 萬福寺, 大人, 寺, 山頂
+cluster2:(4)
+価値, 場所, 名前, 地
+cluster3:(1)
+標高
+cluster4:(3)
+黒澤山, 日本三所虚空蔵菩薩, 日本三大虚空蔵
+cluster5:(1)
+福・智恵・力
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 4entities.

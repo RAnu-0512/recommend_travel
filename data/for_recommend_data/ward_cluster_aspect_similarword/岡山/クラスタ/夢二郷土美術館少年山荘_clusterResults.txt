@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夢二郷土美術館少年山荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+肉筆作品, 洋風建築
+cluster1:(2)
+山荘, 少年山荘
+cluster2:(4)
+最後, 人, ファン, 近く
+cluster3:(4)
+場所, もの, 作品, 思い
+cluster4:(1)
+夢
+cluster5:(1)
+協力
+cluster6:(1)
+遺族
+cluster7:(5)
+分館, 本館, 生家, 大正, 建物
+cluster8:(1)
+記念事業
+cluster9:(1)
+竹久夢
+
+howmany entities : 22
+howmany clusters : 10
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 9entities.

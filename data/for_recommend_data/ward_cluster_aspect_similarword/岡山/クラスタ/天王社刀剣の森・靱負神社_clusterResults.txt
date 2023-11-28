@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天王社刀剣の森・靱負神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+刀剣, 刀工達, 備前長
+cluster1:(2)
+里, 森
+cluster2:(2)
+神社, 信仰
+cluster3:(2)
+社, 車
+cluster4:(3)
+隣駅, 下車, 国道
+cluster5:(1)
+靱負神社
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 7entities.

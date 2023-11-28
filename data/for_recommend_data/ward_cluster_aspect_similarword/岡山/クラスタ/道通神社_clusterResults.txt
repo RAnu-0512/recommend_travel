@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道通神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+道通神社, 道通信仰
+cluster1:(3)
+白蛇信仰, 白蛇, 蛇
+cluster2:(13)
+拠点, 人, 像, 神社, 祭神, 瀬戸内海, 置物, 導通, 利益, 場合, 災厄, トウビョウ, 桜
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 2entities.

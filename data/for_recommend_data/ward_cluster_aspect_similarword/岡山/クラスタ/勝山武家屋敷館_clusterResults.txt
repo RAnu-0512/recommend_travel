@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝山武家屋敷館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+武士, 上級武士, 幕府領, 江戸中期, 初代藩
+cluster1:(3)
+勝山, 渡辺, 三浦
+cluster2:(4)
+母屋, 家屋, 土蔵, 建物
+cluster3:(2)
+武具, 高禄
+cluster4:(3)
+井戸, 屋敷, 蔵
+cluster5:(13)
+中, 場所, 時代, 人, 長屋門, 展示, 古文書, 室内, 衣類, 解説, 家, 雰囲気, 証
+cluster6:(1)
+保存状態
+cluster7:(1)
+支族
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 4entities.

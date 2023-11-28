@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷駅前観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+割引券, 観光案内所
+cluster1:(26)
+ビル, パンフレット類, スマホ, 情報, 海外, 体制, 夕焼け, ペデストリアンデッキ, 駅, 立ち寄り, ところ, パソコン, 職員, 得情報, 南口, スタッフ, アクセス, パンフ, 倉敷, 紹介, 前南口, 観光, 地図, 周り, 建物, パンフレット
+
+howmany entities : 28
+howmany clusters : 2
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 1
+deleted 2entities.

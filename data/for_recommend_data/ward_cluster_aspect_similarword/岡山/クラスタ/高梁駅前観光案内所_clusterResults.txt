@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁駅前観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+中, こと, 入口左手, スターバックスコーヒー, 場所, 伯備線, 情報, フロアー一角, 駅, レンタサイクル, 改札, 左手, TSUTAYA, 図書館, 観光パンフレット, 一角, ツタヤ, 市, 土産コーナー, 観光, 建物
+cluster1:(2)
+中高梁駅, JR備
+cluster2:(6)
+観光案内, 街歩きマップ, 案内所, 訪共通券, 町歩き地図, 観光案内所
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 2
+deleted 2entities.

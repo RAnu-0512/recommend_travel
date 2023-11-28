@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山乗渓谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+景観, 渓谷, 断崖, 巨岩
+cluster1:(2)
+満点, 迫力
+cluster2:(6)
+夏, こと, 遊歩道, イオン, 先, 不動滝
+cluster3:(2)
+全長, 落差
+cluster4:(1)
+蒜山
+cluster5:(1)
+滝巡り
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 6entities.

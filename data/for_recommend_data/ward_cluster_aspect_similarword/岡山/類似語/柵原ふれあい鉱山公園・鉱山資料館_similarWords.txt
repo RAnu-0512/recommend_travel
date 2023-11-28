@@ -1,0 +1,21 @@
+--------------------similar_words:柵原ふれあい鉱山公園・鉱山資料館--------------------
+top3 entities near to cluster0>>
+列車, 車両, 電車
+top3 entities near to cluster1>>
+駅, 公園, 周辺
+top3 entities near to cluster4>>
+ホーム, ドライブ, サイクリングロード
+top3 entities near to cluster5>>
+関係人, 関係, 人達
+top3 entities near to cluster6>>
+昔, 帰り道
+top3 entities near to cluster8>>
+興味, 価値, 関心
+top3 entities near to cluster9>>
+資料, 展示, 写真
+top3 entities near to cluster10>>
+動態, 輸送, 整備
+top3 entities near to cluster12>>
+地点, 高度, スタート
+top3 entities near to cluster13>>
+鉱山, 鉄道, 鉱業

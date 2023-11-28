@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯原温泉スポーツ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+湯原クライミングセンター, 湯原IC, ゲートランド湯原
+cluster1:(9)
+屋内, 施設, クライミング施設, 屋外施設, 食事棟, 室内施設, おすすめ施設, 設備, 屋外
+cluster2:(2)
+壁, リード壁
+cluster3:(2)
+山, 公園
+cluster4:(10)
+ボルダリング, 貸し出し, 人, スポーツ, ナイター, クライミング, コンビニ, 子供, クライミングセンター, 初心者
+cluster5:(1)
+心
+cluster6:(5)
+こと, 場所, 今回, 流石, 感想
+cluster7:(2)
+看板, 人気
+cluster8:(1)
+知識
+cluster9:(3)
+靴, 弁当, 市外
+cluster10:(1)
+クライミン
+cluster11:(1)
+経験者
+
+howmany entities : 40
+howmany clusters : 12
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 10entities.

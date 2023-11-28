@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝央文化ホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+公民館, コンサート, 県, ホール
+cluster1:(2)
+文化ホール, 音響
+cluster2:(1)
+舞台規模
+cluster3:(1)
+音響反射板
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

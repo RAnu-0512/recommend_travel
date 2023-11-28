@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津山観光センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+津山観光センター, 津山名産, 津山
+cluster1:(2)
+情報, 流れ
+cluster2:(7)
+お気に入り, 買い物, 方, 農産物, 地元, ファン, 入り口
+cluster3:(2)
+自然, 野菜
+cluster4:(1)
+休みスポット
+cluster5:(1)
+入手
+cluster6:(2)
+カブ, タレ
+cluster7:(1)
+稲葉
+cluster8:(13)
+道, 前, 中央, 車, 軽食, 駅, 手前, 位置, 駐車スペース, 隣, 地図, 建物, 正面入り口
+cluster9:(7)
+土産品, ふしぎ館, 郷土博物館, 土産, 観光パンフレット, 観光, 観光センター
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 9entities.

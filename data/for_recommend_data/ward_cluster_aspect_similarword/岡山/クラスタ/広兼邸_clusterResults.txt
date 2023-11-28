@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広兼邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+郷土館, 歴史もの, 文化年間
+cluster1:(2)
+屋敷跡, 八墓村
+cluster2:(4)
+銅山, 吹屋地区, 小泉銅山, 高梁市街地
+cluster3:(1)
+笹畝坑道
+cluster4:(8)
+案内板, 圧倒感, 保存状態, 両替, セット券, 釣り銭切れ, 紙幣, 発券場
+cluster5:(10)
+長屋, 門, 入口, 玄関, 庭, 城塞, 屋敷, 部屋, 不寝番部屋, 城
+cluster6:(7)
+建築マニア, 土地, 住宅, 豪邸, 外観, 邸宅, 建物
+cluster7:(4)
+豪商, 母屋, 庄屋, 土蔵
+cluster8:(3)
+ロケ, 映画ファン, 映画
+cluster9:(2)
+坂道, 坂
+cluster10:(2)
+神社, 着物
+cluster11:(3)
+道, 車, 山道
+cluster12:(2)
+山奥, 山裾
+cluster13:(4)
+原作, 個人, 話, 歴史
+cluster14:(4)
+一部, 中, 下, 全て
+cluster15:(6)
+近く, 多く, 方, 辺り, 人, 昔
+cluster16:(1)
+すべて外
+cluster17:(6)
+場所, もの, 感じ, 所, こと, 興味
+cluster18:(18)
+製造, オススメ, トイレ, シーン, 経営, 不寝番, 小学校, ローハ, 手入れ, 支払い, スマホ, 勉強, リサーチ, 説明, ベンガラ, 長屋門, スポット, 雰囲気
+cluster19:(11)
+多治見家, 銅, 巨万, 家, 蔵, 片山, 石垣, 県, 富, 金, 糸目
+
+howmany entities : 101
+howmany clusters : 20
+howmany entities (more than3entities) : 91
+howmany clusters (more than3entities) : 14
+deleted 10entities.

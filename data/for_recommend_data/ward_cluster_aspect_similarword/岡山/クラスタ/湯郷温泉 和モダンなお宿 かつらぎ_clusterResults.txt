@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯郷温泉 和モダンなお宿 かつらぎ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+客室, 建物, 外観, 内装, 窓, 景色
+cluster1:(6)
+口頭, 受付, 説明, 予約, 対応, 挨拶
+cluster2:(7)
+こと, 値段, もの, 感じ, 言葉, 文句, 気
+cluster3:(2)
+貸し切り露天風呂, 露天風呂
+cluster4:(2)
+扇風機, タオル
+cluster5:(5)
+コメント, タイマー, シャンプー, リピータ, 子ども
+cluster6:(2)
+雰囲気, ロビー
+cluster7:(1)
+口コミ
+cluster8:(7)
+他, 方, 場所, 女性, 人, 時間, 家
+cluster9:(1)
+休憩
+cluster10:(4)
+小物, 成分, 鍵, シャンプー&ボディー
+cluster11:(9)
+脱衣籠, 風呂, 脱衣室, 温泉, 露天, 貸切露天風呂, 宿, 風呂場, 湯
+
+howmany entities : 52
+howmany clusters : 12
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 7
+deleted 8entities.

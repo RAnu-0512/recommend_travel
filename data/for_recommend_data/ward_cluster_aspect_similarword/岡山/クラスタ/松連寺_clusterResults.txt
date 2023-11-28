@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松連寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高梁案内パンフレット, 高梁駅
+cluster1:(3)
+外観, 造り, 見学
+cluster2:(5)
+車, お隣, 帰りがけ, 薬師院, 組み方
+cluster3:(4)
+こと, 場所, 納得, 気
+cluster4:(6)
+東口, 岡山, 寺, 砦, 城, 石垣
+cluster5:(1)
+拝観
+cluster6:(1)
+屋川
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 4entities.

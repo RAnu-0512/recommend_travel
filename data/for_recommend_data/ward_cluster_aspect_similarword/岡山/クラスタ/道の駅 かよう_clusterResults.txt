@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 かよう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+白菜, 野菜, 果物, 豆腐
+cluster1:(2)
+道, 駅
+cluster2:(2)
+自然, 歴史
+cluster3:(9)
+施設, 地元, 時期, 評価, 気, 食事, 難点, 販売, 他
+cluster4:(11)
+レストラン, ドックラン, ドッグラン, ソフトクリーム, テレビ, ツバメ, ひな壇, コンビニ, 手作りせんべい, シャインマスカット, パン
+cluster5:(1)
+開業
+cluster6:(4)
+焼き屋, 体験実習, 直売施設, 生鮮野菜類
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 5entities.

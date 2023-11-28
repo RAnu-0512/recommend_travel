@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湯郷全体, 湯郷
+cluster1:(6)
+絶景, 星空, 霧, 眺め, 雲海, 景色
+cluster2:(14)
+こと, 側, 場所, 人, 道のり, ◎トイレ, 時期, 運, 次回, 紫陽花, 条件, 宿, 現地, 気候
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 2entities.

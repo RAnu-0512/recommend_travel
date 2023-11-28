@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広昌山 観音寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+岩, 巨岩, 岩肌
+cluster1:(2)
+木, 土だらけ
+cluster2:(2)
+寺, 綱
+cluster3:(10)
+矢印, 独特, パワー, 途中, 瀬戸内海, リュック, 後ろ, 男性, 根っこ, 京都大学
+cluster4:(2)
+心, 感謝
+cluster5:(5)
+こと, 場所, 経験, 感じ, 言葉
+cluster6:(2)
+道, 景色
+cluster7:(1)
+滑り滑り
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 9entities.

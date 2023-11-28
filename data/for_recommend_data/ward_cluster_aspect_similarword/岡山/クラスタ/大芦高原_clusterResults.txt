@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大芦高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+中, 感じ, テーブル, ロッジ, 寝具, コテージ, 場所, 敷地, 窓, 匂い
+cluster1:(4)
+湖畔, 温泉, 温泉ジャクジー, 大芦温泉
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

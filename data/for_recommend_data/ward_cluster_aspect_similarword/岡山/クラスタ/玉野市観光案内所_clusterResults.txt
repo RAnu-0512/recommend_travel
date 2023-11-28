@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉野市観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高松, 玉野, 岡山
+cluster1:(9)
+場所, 待ち時間, レンタサイクル, 近く, 感性, 周辺, デザイン, 芸術, パンフレット
+cluster2:(2)
+JR, JR宇野線
+cluster3:(3)
+電車, 列車, 船
+cluster4:(4)
+駅舎, 駅, 改札, 構内
+cluster5:(1)
+出港時間
+cluster6:(6)
+観光案内, 案内所, 直島方面, 観光, 観光案内所, 島直島
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 3entities.

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御嶽山(岡山県笠岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+訪問客, 友達同士
+cluster1:(2)
+離合, 道幅
+cluster2:(5)
+頂上, 山, 道中, 山道, 山頂
+cluster3:(5)
+絶景, 景観, 山々, 島々, 景色
+cluster4:(3)
+眼下, 整備, 眺め
+cluster5:(3)
+休み, 弁当, 天気
+cluster6:(3)
+海沿い, 瀬戸大橋, 瀬戸内海
+cluster7:(2)
+晴れ晴れ, 気持ち
+cluster8:(3)
+ハイキング, ドライブ, ファミリー
+cluster9:(2)
+オススメ, スポット
+cluster10:(1)
+見晴らし
+cluster11:(1)
+御嶽山
+cluster12:(5)
+夏, 車, 人, 子供, 友達
+cluster13:(5)
+健康, 自然, 空気, 心, 虫
+cluster14:(11)
+価値, 場所, 時間, みたけさん, 近く, 迫力, 途中, 注意, 付近, 距離, 日
+cluster15:(3)
+低山, 四国, 瀬戸
+
+howmany entities : 56
+howmany clusters : 16
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 10
+deleted 10entities.

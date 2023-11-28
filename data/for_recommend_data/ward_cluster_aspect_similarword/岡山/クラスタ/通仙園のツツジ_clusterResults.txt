@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:通仙園のツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+絶景, 瀬戸内海が見渡せる絶景スポット, 絶景スポット
+cluster1:(8)
+園内, 脇道, 駐車スペース, 公園, 入口, 徒歩, 空地, 国道
+cluster2:(23)
+紫色, 車, 背景, 背, 人, つつじ, ピンク, スポット, 地域, 陽, 時期, アドバイス, コバノミツバツツジ, 瀬戸内海, ピンク色, 季節, 児島通生, ツツジ, 満開, 光景, 光, 景色, 遠く
+cluster3:(1)
+通仙園
+
+howmany entities : 35
+howmany clusters : 4
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 3
+deleted 1entities.

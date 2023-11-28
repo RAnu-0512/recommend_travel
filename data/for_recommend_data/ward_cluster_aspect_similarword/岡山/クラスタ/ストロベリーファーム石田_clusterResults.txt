@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ストロベリーファーム石田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+白イチゴ, いちご狩り, 白苺, 果肉, 天使のいちご, 練乳, 苺
+cluster1:(28)
+何種類, 場所, パック売り, 店, お腹, 違い, 品種, 色, 道, 方達, 時間, 客, 味, 雨, 予約, 対応, 他, 方, 負担, 受付, 説明, 事, 形, こと, 人, 種類, 駅, 全額
+cluster2:(2)
+イチゴ, いちご
+cluster3:(2)
+キャンセル, 持ち帰り
+cluster4:(2)
+ファーム, スーパー
+cluster5:(7)
+シーズン, フレンドリー, お気に入り, イベント, イチオシ, オーナー, スタッフ
+cluster6:(1)
+おかげ
+cluster7:(1)
+ネット
+cluster8:(1)
+ハウス
+cluster9:(1)
+ハサミ
+cluster10:(1)
+レーン
+cluster11:(7)
+妻, 農家, 家族, 娘, おじ, 子供, 子ども
+cluster12:(1)
+笠岡
+cluster13:(5)
+制限時間, 大きさ, 食べ比べ, 味比べ, 笑)品種
+
+howmany entities : 66
+howmany clusters : 14
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 5
+deleted 12entities.

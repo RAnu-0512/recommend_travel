@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中国自然歩道モデルコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+中, 程度, 現存, 場所, コース, 中国
+cluster1:(3)
+石段, 道標, 体力
+cluster2:(1)
+天守
+cluster3:(1)
+自然歩道モデルコース
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

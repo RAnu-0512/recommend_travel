@@ -1,0 +1,29 @@
+--------------------similar_words:倉紡記念館--------------------
+top3 entities near to cluster0>>
+館, 記念, 記念碑
+top3 entities near to cluster1>>
+館, 資料, 記念
+top3 entities near to cluster3>>
+熱意, 気概, 意欲
+top3 entities near to cluster5>>
+倉敷紡績, クラボウ, クラレ
+top3 entities near to cluster6>>
+雰囲気, 見応え, 見ごたえ
+top3 entities near to cluster8>>
+大勢, 大半
+top3 entities near to cluster9>>
+建物, 部屋
+top3 entities near to cluster13>>
+発祥, 徒歩, 創立
+top3 entities near to cluster14>>
+産業史, 文化史, 産業, 文化
+top3 entities near to cluster15>>
+家業, 社長, 父親
+top3 entities near to cluster17>>
+社員, 社宅, 企業
+top3 entities near to cluster18>>
+経済, 教育, 産業
+top3 entities near to cluster19>>
+絵画, 資料, 版画
+top3 entities near to cluster20>>
+紡績, 工場, 織物

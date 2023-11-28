@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:華翠房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+香り物, 香り, 香, 名刺香
+cluster1:(14)
+方, 好み, 持ち帰り, 娘, 別, もの, 作り方, メニュー, ポイント, お陰, 説明, 雰囲気, 印象, 初心者
+cluster2:(2)
+体験, 旅行
+cluster3:(1)
+初岡山
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 3entities.

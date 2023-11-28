@@ -1,0 +1,7 @@
+--------------------similar_words:高瀬舟発着場跡--------------------
+top3 entities near to cluster0>>
+発着場, 船着場, 発着, 船着
+top3 entities near to cluster3>>
+遺構, 石碑, 跡
+top3 entities near to cluster4>>
+荷物, 荷, 砂利

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レンタル着物 CHACHA 岡山表町店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+髪, 髪型
+cluster1:(9)
+ランク, イベント, イメージ, 帯, 着付け, 支払い, 着物, 後楽園, 対応
+cluster2:(6)
+家族, 保険, 地域, 旅行, 店, 現金
+cluster3:(1)
+食べ物屋
+cluster4:(1)
+追加料金
+cluster5:(1)
+着付師
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 5entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西の湯温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+美作農園, 湯温泉, 風呂上がり, 天然温泉, 浴槽, ヒノキ風呂, 温泉, 浴室利用, 足湯, 檜風呂, 風呂, 硫黄, 源泉, 檜, お湯, 湯
+cluster1:(2)
+すきしゃぶ, すきしゃぶ膳
+cluster2:(7)
+料理, 肉, 香り, 温度, 土産, 食事, 肌
+cluster3:(2)
+におい, 気持ち
+cluster4:(3)
+ランチ, ホテル, プラン
+cluster5:(11)
+レストラン, すき焼き, しゃぶしゃぶ, オススメ, サイコー, おばさん, すべすべ, 受け付け, ボリューム, スタッフ, ポイント
+cluster6:(2)
+シャワー, クーポン
+cluster7:(1)
+うどん
+cluster8:(1)
+水風呂
+cluster9:(1)
+ミス
+cluster10:(14)
+日程, 主人, 途中, 妻, 時間, 母, 前, 施設, 別, 受付, 敷地, 家族, 人, 地元
+cluster11:(13)
+もの, 感じ, 気, 美味しさ, 貸し切り状態, 出, 変更, 又機会, 移動, 方, 熱め, 意外, 難点
+
+howmany entities : 73
+howmany clusters : 12
+howmany entities (more than3entities) : 64
+howmany clusters (more than3entities) : 6
+deleted 9entities.

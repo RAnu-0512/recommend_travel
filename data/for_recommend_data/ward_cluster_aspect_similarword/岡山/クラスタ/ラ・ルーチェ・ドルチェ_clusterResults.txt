@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ラ・ルーチェ・ドルチェ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出来栄え, オムライス
+cluster1:(1)
+もの
+cluster2:(1)
+無理
+cluster3:(1)
+娘
+cluster4:(1)
+時間
+cluster5:(1)
+体験
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

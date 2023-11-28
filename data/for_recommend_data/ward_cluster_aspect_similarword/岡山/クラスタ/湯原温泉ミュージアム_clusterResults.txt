@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯原温泉ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+資料室, 記念資料室
+cluster1:(7)
+全国, 卓球, 各地, ガラス工房, 古本, 民話, 野口
+cluster2:(4)
+入場, 施設, 駐車スペース, 建物
+cluster3:(7)
+形, こと, 場所, もの, 部分, 事, 次第
+cluster4:(2)
+道, 奥
+cluster5:(2)
+ギャラリー, ミュージアム
+cluster6:(2)
+ステンドグラス, アトラクション
+cluster7:(1)
+スペース
+cluster8:(1)
+スリッパ
+cluster9:(1)
+ラケット
+cluster10:(5)
+人物, 人, 歴史, お方, 書籍
+cluster11:(5)
+工芸品, 温泉めぐり, 足湯, 温泉地, 温泉
+cluster12:(1)
+はんざき店
+
+howmany entities : 40
+howmany clusters : 13
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 12entities.

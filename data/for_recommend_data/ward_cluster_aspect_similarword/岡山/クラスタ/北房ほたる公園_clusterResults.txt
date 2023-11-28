@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北房ほたる公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時期, 状況
+cluster1:(2)
+時間, 日
+cluster2:(3)
+町, 公園, 観光
+cluster3:(8)
+車, 上着, 人, 風, 方々, ホタル, チェック, 会い
+cluster4:(1)
+hp
+cluster5:(2)
+湿気, 熱々カップル
+cluster6:(6)
+蛍, 乱舞, 下道, 岡山, 光, ホタル道
+cluster7:(1)
+多さ
+cluster8:(2)
+乱舞い, 川沿い
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 10entities.

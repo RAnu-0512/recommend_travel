@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三ツ山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風景, 景色
+cluster1:(2)
+人, 場所
+cluster2:(4)
+三郎島, 三ツ山, 瀬戸内, 山
+cluster3:(2)
+釣り, 潮
+cluster4:(2)
+皇后ゆかり, 神功
+cluster5:(1)
+寄島園地
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 9entities.

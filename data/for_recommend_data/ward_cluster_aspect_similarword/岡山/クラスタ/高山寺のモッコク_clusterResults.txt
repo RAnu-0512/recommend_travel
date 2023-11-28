@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高山寺のモッコク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+モッコク, 高山寺, 天然記念物, 寺, 見ごたえ, 木, 花
+cluster1:(2)
+上空, 南北
+cluster2:(2)
+樹齢, 枝張り
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 4entities.

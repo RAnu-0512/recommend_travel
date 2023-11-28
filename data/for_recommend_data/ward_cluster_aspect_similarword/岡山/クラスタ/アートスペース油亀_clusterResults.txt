@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アートスペース油亀>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アート作品, 作家作品
+cluster1:(12)
+風情, プレゼント, 展示, イメージ, ところ, 昔, アートスペース, コップ, カフェスペース, 店, 空間, 建物
+cluster2:(2)
+茶, 皿
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 4entities.

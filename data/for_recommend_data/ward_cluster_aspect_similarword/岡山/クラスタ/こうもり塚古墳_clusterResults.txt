@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:こうもり塚古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+夏, 中, こと, 前方後円墳, 方, 石, 車, コウモリ, 歴史, ところ, 鉄格子ごし, ライト, 名前, 部分, 感じ, ロマン, 国, 説明, 地, 徒歩, 前方, 柵, 事, 国分寺, そば, 仁徳天皇, 入り口, 由来
+cluster1:(2)
+石棺, 石室
+cluster2:(3)
+史跡, 古墳, 墓
+cluster3:(7)
+中国分寺, 清掃, 信仰, 仏教, 外来, こうもり塚, 蝙蝠
+
+howmany entities : 40
+howmany clusters : 4
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 3
+deleted 2entities.

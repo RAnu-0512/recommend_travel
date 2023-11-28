@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神庭の滝鬼の穴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+神庭, 滝鬼, 鬼, 滝, 岩
+cluster1:(17)
+中, 照明, 洞窟, 時間, 長居, 写真, 奥, ところ, 鍾乳洞体験, 神庭の滝, 途中, 入口, 穴, システム, 入り口, 神代, 日本
+cluster2:(4)
+滝百選, 鬼の穴, 迫力満点, 神庭の滝鬼の穴
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 0entities.

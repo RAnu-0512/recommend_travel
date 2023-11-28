@@ -1,0 +1,17 @@
+--------------------similar_words:道の駅 黒井山グリーンパーク--------------------
+top3 entities near to cluster0>>
+野菜, 産直, 生鮮
+top3 entities near to cluster1>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster3>>
+時期, 季節, 時季
+top3 entities near to cluster4>>
+バイク, シャワー, 買い物
+top3 entities near to cluster5>>
+秋晴れ, つつじ, 農産物
+top3 entities near to cluster6>>
+プール, 幼稚園, 滑り台
+top3 entities near to cluster7>>
+子供, 家族, 大人
+top3 entities near to cluster8>>
+駐車, 売店, 道路

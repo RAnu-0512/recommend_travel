@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石山寺(岡山県津山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+石切り場, 摩利支天, 石山城, 津山IC, 石山
+cluster1:(2)
+安全祈願, 感謝感謝人
+cluster2:(7)
+仏像, 山門, 境内, 本堂, 住職, とお寺, 寺
+cluster3:(23)
+場所, もの, 近く, 感じ, 話, おじさん, 途中, 切り出し, 無事, 心配, 中, 時間, 山, 周囲, 気持ち, 友人, 石山寺, 安全, こと, 人, 雰囲気, 石切場, 人気
+cluster4:(2)
+伝統, 歴史
+cluster5:(2)
+敷地, 建物
+cluster6:(6)
+事故, 道, 車, JR, 作業, 工事
+cluster7:(1)
+古さ
+cluster8:(11)
+痕, ノミ, 大日如来様, 石, 鐘, 跡, 草, 石材, 大日如来さま, 家臣, 城
+cluster9:(2)
+心安らぐ雰囲気, 心
+cluster10:(2)
+緑, 木々
+cluster11:(2)
+紅葉, 季節
+cluster12:(6)
+環境, 景色, 景観, 風情, 自然, 空気
+cluster13:(1)
+岩肌
+cluster14:(4)
+参拝, 旅, 観光案内, 散策
+
+howmany entities : 76
+howmany clusters : 15
+howmany entities (more than3entities) : 62
+howmany clusters (more than3entities) : 7
+deleted 14entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:真賀温泉--------------------
+top3 entities near to cluster0>>
+風呂, 混浴, 露天風呂
+top3 entities near to cluster1>>
+源泉, お湯, 湯船
+top3 entities near to cluster2>>
+温泉, 湯, 温泉郷
+top3 entities near to cluster8>>
+態度, 言葉
+top3 entities near to cluster12>>
+雰囲気, 気持ち, 気持
+top3 entities near to cluster13>>
+湯上がり, テレビ, 湯上り
+top3 entities near to cluster20>>
+友人, 人々, 家族
+top3 entities near to cluster22>>
+男性, 女性, 男女
+top3 entities near to cluster24>>
+施設, 道路
+top3 entities near to cluster25>>
+工事, 受付, 日程

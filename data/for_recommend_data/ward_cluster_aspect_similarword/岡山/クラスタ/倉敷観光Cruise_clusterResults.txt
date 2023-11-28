@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷観光Cruise>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+休憩, 走行, 練習, 先頭, 公道
+cluster1:(18)
+店員, 前, コース, 風, 思い出, 恋人, 写真, 海, 山, スタッフ, アドバイザー, 手続き, 要望, 説明, 倉敷, 友達, 内容, 対応
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 0entities.

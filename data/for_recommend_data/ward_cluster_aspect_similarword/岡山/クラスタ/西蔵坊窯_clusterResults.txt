@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西蔵坊窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+興味, 機会
+cluster1:(3)
+道, ドライブ旅, 計画
+cluster2:(12)
+方, 体験, 夫婦, 思い出, 主人, もの, 作品, 備前焼, 物, 鷲羽山, 気持ち, 出来上がり
+cluster3:(1)
+牛窓
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 3entities.

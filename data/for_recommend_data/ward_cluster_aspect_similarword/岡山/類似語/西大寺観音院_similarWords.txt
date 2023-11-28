@@ -1,0 +1,13 @@
+--------------------similar_words:西大寺観音院--------------------
+top3 entities near to cluster1>>
+境内, 本堂, 寺
+top3 entities near to cluster2>>
+裸, 全裸, 露出
+top3 entities near to cluster4>>
+土, 日, 月
+top3 entities near to cluster9>>
+会場, 地元, 近辺
+top3 entities near to cluster11>>
+祭り, 見物, 風景
+top3 entities near to cluster12>>
+観音, 地蔵, 菩薩

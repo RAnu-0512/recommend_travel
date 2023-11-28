@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:やかげ郷土美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川, 池
+cluster1:(2)
+街, 建物
+cluster2:(2)
+地元, 昔
+cluster3:(5)
+人, もの, 見張り, ホール, 美術館
+cluster4:(1)
+展示
+cluster5:(1)
+奥
+cluster6:(1)
+興味
+cluster7:(1)
+蓄積
+cluster8:(3)
+書道, 書家, 郷土美術館
+cluster9:(1)
+矢掛
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 11entities.

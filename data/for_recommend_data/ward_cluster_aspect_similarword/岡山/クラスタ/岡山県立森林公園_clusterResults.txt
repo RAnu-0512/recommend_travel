@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山県立森林公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+場所, 所, 位置, 距離
+cluster1:(7)
+中, 他, 方, 間, 人, 関係, 種類
+cluster2:(4)
+感じ, 気, 癖, 格好
+cluster3:(1)
+心地
+cluster4:(22)
+遊歩道, オススメ, トイレ, 森林公園, レベル, ハイキング, イオン, 大人, トレッキング, 気持ち, ウエア, バードウォッチング, 犬, 森林浴, おすすめ, 家族, コース, ところ, 子供, バードウオッチング, ウォーキング, 子ども
+cluster5:(5)
+虫, 音, 雪, 鳥, 空気
+cluster6:(2)
+道, 登山
+cluster7:(2)
+道具, 弁当
+cluster8:(7)
+運動, 植物, 木陰, 敷地, 自然, 公園, 森林
+cluster9:(2)
+境近く, 建設当時
+cluster10:(5)
+森林公園., 中国, 上斎原村, 県, 北部
+cluster11:(5)
+山地, 川, 山, 滝, 大山
+cluster12:(5)
+山々, 遠望, 新緑, 紅葉, 景色
+cluster13:(2)
+時期, 季節
+cluster14:(3)
+春, 春先, 秋
+cluster15:(1)
+残暑
+cluster16:(2)
+散策程度, 散策
+cluster17:(2)
+散歩程度, 散歩
+cluster18:(1)
+四季折々
+cluster19:(1)
+岡山県立森林公園
+cluster20:(1)
+明治百年記念事業
+
+howmany entities : 84
+howmany clusters : 21
+howmany entities (more than3entities) : 67
+howmany clusters (more than3entities) : 10
+deleted 17entities.

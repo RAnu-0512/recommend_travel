@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉備真備公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+真備神社, 真備公園
+cluster1:(14)
+遣唐使船, 双方, 池, ほう, 園内, それぞれ, 神社, 論争, ゆかり, 地域, 吉備真備, 地, 地区, オブジェ
+cluster2:(2)
+記念公園, 生誕地
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 4entities.

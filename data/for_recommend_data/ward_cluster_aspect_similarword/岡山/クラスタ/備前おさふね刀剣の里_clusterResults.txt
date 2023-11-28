@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備前おさふね刀剣の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+刀剣装飾品, 装飾品
+cluster1:(8)
+刀剣, 鍔, 刀, 刀匠, 備前長, 名刀, 刀工, 平安
+cluster2:(2)
+土産品, 土産
+cluster3:(12)
+こと, 方たち, 場所, モチーフ, 人, 興味, 歴史, 施設, 様子, ほか, 話, 説明
+cluster4:(3)
+作成, 配布, 予約
+cluster5:(2)
+本物, 職人
+cluster6:(2)
+裏方, 作業
+cluster7:(1)
+鍛錬
+cluster8:(1)
+菓子
+
+howmany entities : 33
+howmany clusters : 9
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 10entities.

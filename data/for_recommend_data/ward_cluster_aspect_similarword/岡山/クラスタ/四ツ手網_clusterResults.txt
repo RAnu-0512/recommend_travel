@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四ツ手網>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+手網, 網, 四つ手, 打尽
+cluster1:(4)
+電灯, 手動, 夜間, 飲酒
+cluster2:(21)
+一網打尽, 子連れグループ, 子連れ, BBQ, トイレ, 瀬戸内, 海沿い, こども, ところ, 魚つり, 仲間, コンロ, タオルケット, 市街地, タクシー, あみ, 子供, 児島湾, バーベキュー, 友達, 小学生
+cluster3:(10)
+家族, 場, 小屋, 家族たち, 座敷, 台所, 焼肉, 野趣, 魚屋, 鍋
+cluster4:(1)
+引揚
+cluster5:(16)
+中, こと, 方, 場所, 体験, 舞台, 中心, 機会, もの, 昔, 頃合い, 用意, 魅力, 注意, 難点, 場合
+cluster6:(2)
+電動, 電動ウインチ
+cluster7:(5)
+潮, 沿岸, 海, 海面, 気候
+cluster8:(3)
+魚, 魚好き, 漁
+cluster9:(1)
+地元漁協
+cluster10:(1)
+獲れたて
+
+howmany entities : 68
+howmany clusters : 11
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 7
+deleted 5entities.

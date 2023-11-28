@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:醍醐桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+吉念寺地区, 備中鐘乳穴
+cluster1:(2)
+道, 途中道
+cluster2:(7)
+出口, 上空, 車, 灯り, 住民, 集落, 駅
+cluster3:(2)
+名所, 渋滞
+cluster4:(4)
+通行, 道路規制, 国道, 国道走行
+cluster5:(1)
+登り坂
+cluster6:(3)
+面倒, 価値, イヤー値打ち
+cluster7:(2)
+迫力, 規模
+cluster8:(10)
+姿, 出発, 気配, 辛抱, 変更, 模様, 事, 予定, こと, 準備
+cluster9:(18)
+結婚式, 年寄り, 行き先, ライトアップ, スケジュール, すれ違い, ギャラリー, 爺さん, 婆さん, 天然記念物, ワイン, NPO, 後醍醐, 大河ドラマ, カーナビ, ところ, たこ焼き, (*^^*
+cluster10:(4)
+GO, 禁止, 木, 看板ゴール
+cluster11:(3)
+春先, 時期, 季節
+cluster12:(7)
+近く, 多く, 方, 方々, 地元, 昔後醍醐天皇, 日本
+cluster13:(3)
+上, 下, 横
+cluster14:(6)
+途中, 目, 中, 時間, 間, 人
+cluster15:(1)
+閉じこもりきり状態
+cluster16:(3)
+開花時期, 満開, 満開時期
+cluster17:(11)
+土佐, 丘, 北, 山, 雨, 岡山, 昼, 隠岐, ハイシーズン, 山路, 山里
+cluster18:(2)
+老木, 幹
+cluster19:(5)
+葉桜, 花見, 花, 桜, 夜桜
+cluster20:(2)
+桜花, 天皇
+cluster21:(3)
+醍醐, 醍醐さくら, 醍醐 桜
+cluster22:(2)
+樹齢, 推定樹齢
+
+howmany entities : 103
+howmany clusters : 23
+howmany entities (more than3entities) : 87
+howmany clusters (more than3entities) : 14
+deleted 16entities.

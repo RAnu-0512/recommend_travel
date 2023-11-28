@@ -1,0 +1,13 @@
+--------------------similar_words:あの日のおもちゃ箱・昭和館--------------------
+top3 entities near to cluster1>>
+建物, 民家, 外観
+top3 entities near to cluster2>>
+おもちゃ, 駄菓子, クイズ
+top3 entities near to cluster3>>
+両親, 父親, 母親
+top3 entities near to cluster8>>
+人々, 人達
+top3 entities near to cluster10>>
+頃, ころ, 昔
+top3 entities near to cluster16>>
+展示, 館, 施設

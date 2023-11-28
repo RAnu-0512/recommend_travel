@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ひるぜんベアバレー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+スポーツ, スポット, 気持ち, 初心者, スピード
+cluster1:(3)
+雪景色, ゲレンデ, スキー
+cluster2:(1)
+子供
+cluster3:(1)
+山
+cluster4:(4)
+場所, 遊び, 気, そば
+cluster5:(1)
+ナイター営業
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 3entities.

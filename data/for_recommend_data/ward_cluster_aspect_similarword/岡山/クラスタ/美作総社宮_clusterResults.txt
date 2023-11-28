@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美作総社宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+社殿, 神社, 本殿, 参道
+cluster1:(7)
+中, 大ぶり, 背後, 近く, 住民, 丘, 文化財
+cluster2:(2)
+国府, 中山
+cluster3:(1)
+散策路
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 3entities.

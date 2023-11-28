@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:興譲館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+一橋家, 一橋家代官
+cluster1:(2)
+子弟教育, 郷校
+cluster2:(18)
+風情, 維新, 講堂, 代官, 時間, 歴史, もの, エリア, 名前, 一八五三, 庶民, 所領, 明治, ドライブ, 雰囲気, 建物, 地元有志, 幕末
+cluster3:(1)
+十万石
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 1
+deleted 5entities.

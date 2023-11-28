@@ -1,0 +1,19 @@
+--------------------similar_words:勝山町並み保存地区--------------------
+top3 entities near to cluster0>>
+町並み, 街並み, 雰囲気
+top3 entities near to cluster2>>
+雛人形, ひな人形, お雛様
+top3 entities near to cluster3>>
+おすすめ, ならでは, 面白い
+top3 entities near to cluster4>>
+図書館, カフェ, トイレ
+top3 entities near to cluster9>>
+地元, 昔, 普段
+top3 entities near to cluster14>>
+風景, 景観, 町並み
+top3 entities near to cluster15>>
+壁, 色紙
+top3 entities near to cluster16>>
+起点, 跡, 融合
+top3 entities near to cluster23>>
+土蔵, 民家, 酒蔵

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寒風陶芸会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+満足, 完成, カップ作り, 失敗
+cluster1:(13)
+やり方, 締めくくり, ところ, スタッフ, 仕上がり, 備前焼, コップ, 手ぶら, ファミリー, 仕上げ, 楽しみ, 出来上がり, 手直し
+cluster2:(4)
+場所, 時間, 間, 辺り
+cluster3:(4)
+形, 方, もの, ほか
+cluster4:(2)
+説明, 担当
+cluster5:(1)
+作業
+cluster6:(5)
+価格, 学年, 施設, 料金, 館内
+cluster7:(6)
+家族, 先生, 娘, はじめ先生, 息子, 子供
+cluster8:(1)
+時間差
+cluster9:(11)
+陶器, 陶芸, 牛窓, 粘土感覚, 焼き上がり, 瀬戸内海ぐるり旅, 置物, 粘土, 仕上がり 陶芸, 皿, 景色
+cluster10:(2)
+カップとお皿, 親&小学生高学年
+cluster11:(3)
+絵付け, 絵付け体験, 絵
+cluster12:(3)
+体験, 土ひねり体験, 陶芸体験
+
+howmany entities : 59
+howmany clusters : 13
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 9
+deleted 6entities.

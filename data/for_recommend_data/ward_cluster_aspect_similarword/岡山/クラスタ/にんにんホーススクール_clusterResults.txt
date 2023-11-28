@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:にんにんホーススクール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+アップダウン, ホーススクール, コース, 園内, 久しぶり, トレッキング, ホーストレッキング, 山, ノースビレッジ, 馬場, 山道, 道産子, スクール, ウォーミングアップ
+cluster1:(2)
+体験, 練習
+cluster2:(7)
+中, 方, 場所, 方々, 動き, もの, 問題
+cluster3:(2)
+起伏, 体力
+cluster4:(1)
+案内看板
+cluster5:(7)
+馬, 乗馬レッスン, 引き馬, ウマ友, 馬たち, 乗馬, 屈伸運動
+cluster6:(1)
+にんにんホーススクール
+
+howmany entities : 34
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 6entities.

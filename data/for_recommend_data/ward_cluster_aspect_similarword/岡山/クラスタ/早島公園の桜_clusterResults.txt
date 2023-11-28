@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:早島公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西側, 高台
+cluster1:(2)
+スポット, ライト
+cluster2:(3)
+さくら, さくらカーニバル, 八重桜
+cluster3:(7)
+場所, 人, 時期, 昼間, 子供, 多く, 沢山
+cluster4:(1)
+旭川
+cluster5:(1)
+日柄
+cluster6:(4)
+桜祭, ウコン桜, 遅咲き桜, 桜
+cluster7:(2)
+公園全体, 公園
+cluster8:(2)
+散策, 出店
+cluster9:(3)
+花見, 弁当, 夜桜
+cluster10:(1)
+花見日和
+cluster11:(1)
+早島公園
+
+howmany entities : 29
+howmany clusters : 12
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 12entities.

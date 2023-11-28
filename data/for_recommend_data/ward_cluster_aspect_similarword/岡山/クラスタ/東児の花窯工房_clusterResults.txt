@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東児の花窯工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+陶芸, 陶芸体験
+cluster1:(6)
+形, コツ, ところ, 程度, スペース, すすめて
+cluster2:(3)
+風, 海, 景色
+cluster3:(4)
+体験, 先生, 指導, 工房
+cluster4:(2)
+雑談, 観光
+cluster5:(1)
+素人男
+cluster6:(1)
+要所要所
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 6entities.

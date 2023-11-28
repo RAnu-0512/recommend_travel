@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本蓮寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+番神堂, 時代建立, 神社, 塔, 社殿, 境内, 本殿, 寺, 重文, 本堂, 本尊
+cluster1:(24)
+中, こと, 場所, 牛窓, ホテルリマーニ, 車, 人, エーゲ海, 歴史, 海, 社, シュロ, シンボル, 歴史遺産, 考え, 天気, 木, 文化財, 外面, 向こう, 三重, 海側, 日本, 建物
+
+howmany entities : 35
+howmany clusters : 2
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 2
+deleted 0entities.

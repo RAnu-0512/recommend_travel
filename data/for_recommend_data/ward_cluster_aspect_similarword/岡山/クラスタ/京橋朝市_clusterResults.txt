@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京橋朝市>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+朝市, 旭川河川敷, 岡山, 京橋, 京橋朝市
+cluster1:(2)
+ピザ, パン
+cluster2:(3)
+魚, 野菜, 果物
+cluster3:(7)
+人気店, 屋台, 店, 名物, 料理, カヌー体験, 散歩
+cluster4:(2)
+列, 行列
+cluster5:(3)
+夏, 冬, 季節
+cluster6:(2)
+たもと, 河川敷
+cluster7:(2)
+肉まん, おかゆ
+cluster8:(6)
+買い物, テイクアウトグルメ, 目当て, 買い出し, テント, ラーメン
+cluster9:(5)
+友人, 旦那, 人, 地元, 朝
+cluster10:(1)
+川
+cluster11:(12)
+趣, 場, 会場, 種類, 断念, 元気, もの, 時期, 活気, 気, 薦め, 開催
+
+howmany entities : 50
+howmany clusters : 12
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 7
+deleted 9entities.

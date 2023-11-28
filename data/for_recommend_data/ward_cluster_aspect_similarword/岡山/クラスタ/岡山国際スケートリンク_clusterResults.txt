@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山国際スケートリンク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歩き方, 遊ぶならスタッフジャンパー
+cluster1:(6)
+こと, リンク外, 事, 作業, 仕方, 対応
+cluster2:(6)
+声, 人, 施設, 服装, 女性スタッフ, 建物
+cluster3:(18)
+スケートリンク, サポート, 手, スケート, 下, フィギュア, ところ, 姉さん, スナック, スタッフ, リンク, そり, スタッフジャンパー, コーン, 保育園, 子, 子ども, 初心者
+cluster4:(3)
+氷上, 母 生涯, 一般営業
+cluster5:(1)
+製氷作業
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 4
+deleted 3entities.

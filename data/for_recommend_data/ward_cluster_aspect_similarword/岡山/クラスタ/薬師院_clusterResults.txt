@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:薬師院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仁王像, 阿吽
+cluster1:(5)
+山門, 境内, 寺, 本堂, 拝観
+cluster2:(2)
+睨み, 利益
+cluster3:(11)
+いす, 人, 自動車, 東側, 近く, 途中, 薬師院, 上, 寅, 映画, 高台
+cluster4:(1)
+観光マップ
+cluster5:(1)
+高梁駅
+cluster6:(1)
+参道石段
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 7entities.

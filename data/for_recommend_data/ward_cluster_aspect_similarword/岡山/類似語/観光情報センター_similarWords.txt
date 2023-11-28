@@ -1,0 +1,7 @@
+--------------------similar_words:観光情報センター--------------------
+top3 entities near to cluster1>>
+参道, 狛犬, 敷石
+top3 entities near to cluster2>>
+駅舎, 駅, 構内
+top3 entities near to cluster3>>
+趣, 趣き, 雰囲気

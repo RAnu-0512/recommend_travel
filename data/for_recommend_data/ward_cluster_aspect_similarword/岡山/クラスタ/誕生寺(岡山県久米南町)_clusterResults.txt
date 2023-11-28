@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:誕生寺(岡山県久米南町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+寺., 宗派, 本殿, 御朱印帳, 門前, 参道, 山門, 境内, 本堂, 寺院, 参拝, とお寺, 寺
+cluster1:(2)
+敦盛, 直実
+cluster2:(4)
+上人, 上人誕生, 宗祖, 法然
+cluster3:(1)
+生誕地
+cluster4:(5)
+像, 開祖, 生家, 宝物, 弟子
+cluster5:(14)
+シーズン, 文化財, 津山線, 御朱印, お守り, ゴールデンウィーク, イチョウ, イベント, 誕生寺, 浄土真宗, 浄土宗, ゆかり, タイトル, 雰囲気
+cluster6:(2)
+道路, 車
+cluster7:(2)
+歴史, 建物
+cluster8:(2)
+山奥, 地
+cluster9:(1)
+JR
+cluster10:(4)
+木, 井戸, 根, 杖
+cluster11:(2)
+我が子, お社
+cluster12:(2)
+趣, 風情
+cluster13:(4)
+名, 種類, 名前, 名称
+cluster14:(4)
+秋, 時期, 祭り, 季節
+cluster15:(6)
+姿, 感じ, 気分, 方, こと, 人
+cluster16:(4)
+誕生, 友人, 勉強, 母親
+cluster17:(4)
+近く, 途中, 目, 人気
+cluster18:(1)
+下車
+cluster19:(10)
+中島, 枝, 津山, 枝ぶり, 山陽花, 黄葉, 桜, 銀杏, 紅葉, 黄落
+cluster20:(5)
+法然上人誕生の寺, 法然上人誕生, 法然上人産湯, 法然上人ゆかり, 中国観音霊場
+
+howmany entities : 92
+howmany clusters : 21
+howmany entities (more than3entities) : 77
+howmany clusters (more than3entities) : 12
+deleted 15entities.

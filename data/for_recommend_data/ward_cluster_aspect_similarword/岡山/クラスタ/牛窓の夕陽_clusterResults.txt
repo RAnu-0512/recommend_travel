@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牛窓の夕陽>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+牛窓, 瀬戸
+cluster1:(2)
+夕陽, 夕日
+cluster2:(2)
+癒し, 心
+cluster3:(8)
+夕方, 場所, もの, 近く, 感じ, リマーニ辺り, 周辺, 目
+cluster4:(10)
+ホテルリマーニ, エーゲ海, 夕焼け, 海, ドライブ, カフェ, カップル, 日本, 景色, ジェラート
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 6entities.

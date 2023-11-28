@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NPO法人 あさくちスポーツクラブ遊ぶところ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+漕ぎ方, 体験, カヤック体験
+cluster1:(3)
+動画, 参考, 写真
+cluster2:(3)
+途中, 上, 最後
+cluster3:(2)
+時間, 日
+cluster4:(2)
+場所, 時期
+cluster5:(1)
+随時スタッフ
+cluster6:(20)
+ミス, 帰宅, 面倒, 様子, 心配, カヤック購入, 対応, 係, 方, 止め, 方々, 世話, 説明, 事, 問題, こと, 準備, 安定, 手厚いサポート, 感覚
+cluster7:(1)
+集合時間
+cluster8:(2)
+貴重品, 焼け対策
+cluster9:(2)
+瀬戸, 小島
+cluster10:(2)
+フジ, ツボ
+cluster11:(3)
+ガイド, プラン, コース
+cluster12:(13)
+コメント, アッケシソウ, アドバイス, シーカヤック, スタミナ, ゴールデンウィーク, ストレス, Tシャツ, スタッフ, コンディション, ポイント, クチコミ, インストラクター
+cluster13:(3)
+嫁さん, 帰り道, 子ども
+cluster14:(2)
+思い出, 気持ち
+cluster15:(1)
+コーチ
+cluster16:(1)
+コスパ
+cluster17:(6)
+カヌー, パドル, カヤック, オール, 瀬戸内, 無人島
+cluster18:(13)
+倉庫, 帽子, カニ, 車, 友達, 足, そば, 家族, 自然, 親子, 娘, 子供, 子
+cluster19:(2)
+水温, 気温
+cluster20:(4)
+波, 台風, 天気, 景色
+cluster21:(7)
+島, 海, 島々, 海水, 海上, 岸壁, 海岸
+
+howmany entities : 96
+howmany clusters : 22
+howmany entities (more than3entities) : 78
+howmany clusters (more than3entities) : 11
+deleted 18entities.

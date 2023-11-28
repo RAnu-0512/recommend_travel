@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉備路サイクリングコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+秋, 春
+cluster1:(2)
+サイクリングロード, 自転車
+cluster2:(1)
+気持ち
+cluster3:(1)
+国分寺
+cluster4:(1)
+こと
+cluster5:(1)
+外側
+cluster6:(1)
+道
+cluster7:(1)
+寺
+cluster8:(1)
+パン
+cluster9:(1)
+跡
+cluster10:(1)
+さぞ
+
+howmany entities : 13
+howmany clusters : 11
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 13entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:石井ファーム--------------------
+top3 entities near to cluster1>>
+収穫, 狩り
+top3 entities near to cluster2>>
+醤油, 塩, しょうゆ
+top3 entities near to cluster3>>
+オーナー, テーブル, 持ち込み
+top3 entities near to cluster4>>
+アスパラ, マヨネーズ, アスパラガス
+top3 entities near to cluster11>>
+子供, 両親, 自然

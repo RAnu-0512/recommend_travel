@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:星の郷青空市>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+限定数, しておすすめ
+cluster1:(14)
+買い物, オススメ, 農産物, スイーツ, スィートポテト, 地元, スポット, もの, ドライブコース, ドライブ, プリン, 美空, スイートポテト, ジェラート
+cluster2:(5)
+星椎茸, 野菜, 牛乳, 果物, 卵
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 2entities.

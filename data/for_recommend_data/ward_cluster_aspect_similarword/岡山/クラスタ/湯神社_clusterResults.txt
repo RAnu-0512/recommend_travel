@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+一体, 神宮寺, ピカピカ, ゆかり, もの, 横, 造り, 守護神, 場合
+cluster1:(2)
+神殿, 階段
+cluster2:(2)
+歴史, 温泉
+cluster3:(1)
+像
+cluster4:(8)
+神社, 長興寺, 薬師堂, 社殿, 長興寺薬師堂, 境内, 本殿, 寺
+cluster5:(2)
+円仁法師, 観光案内所
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 7entities.

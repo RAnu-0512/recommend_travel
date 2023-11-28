@@ -1,0 +1,9 @@
+--------------------similar_words:アトリエ〜ピピ--------------------
+top3 entities near to cluster1>>
+ハサミ, ナイフ, カッター
+top3 entities near to cluster3>>
+雰囲気, デザイン, ステンドグラス
+top3 entities near to cluster9>>
+道具, 手順, 体験
+top3 entities near to cluster11>>
+部屋

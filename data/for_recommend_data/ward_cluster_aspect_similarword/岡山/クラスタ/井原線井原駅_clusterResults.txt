@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井原線井原駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+児島デニム, 井原デニム, 総社, 神辺, 井原
+cluster1:(9)
+レストラン, 井原線, 車, イベント, ガラス張り, イルミネーション, 食事, デザイン, 建物
+cluster2:(5)
+駅舎, 駅, 鉄道, 市, 構内
+cluster3:(1)
+吉備路紀行
+cluster4:(11)
+形, 満足, 中心, 円錐形, 役割, 作品, 不安, 魅力, 側面, 事, 印象
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 1entities.

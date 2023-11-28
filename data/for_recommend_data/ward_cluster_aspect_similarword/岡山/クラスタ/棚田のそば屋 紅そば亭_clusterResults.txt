@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:棚田のそば屋 紅そば亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+蕎麦, 大将, そば, こじんまり, 写真, 場所, 説明, 土産, 体験, 店, 体験場所, 人
+cluster1:(3)
+そば打ち体験, 蕎麦打ち体験, 蕎麦打ち
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

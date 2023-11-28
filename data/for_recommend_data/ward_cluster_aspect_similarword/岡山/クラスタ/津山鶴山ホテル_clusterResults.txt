@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津山鶴山ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食事, 食事内容
+cluster1:(3)
+客, 笑顔, 肉
+cluster2:(12)
+レストラン, スープ, 別, 今回, 感じ, スタッフ, メニュー, 予約, プラン, ステーキ, ランチ, サラダ
+cluster3:(1)
+席間隔
+cluster4:(1)
+奈義牛ステーキ
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 4entities.

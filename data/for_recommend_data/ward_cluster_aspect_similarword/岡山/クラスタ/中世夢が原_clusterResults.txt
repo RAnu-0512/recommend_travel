@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中世夢が原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+原, 中, 購入, ロケ, ポスト, こと, 願い, 体験, 時代, 人, テーマ, テーマパーク, 岡山, 土産, ところ, 天文台, 昔, 山, 子供連れ, 子供, 公園, 気分, 家, 町並み, 感覚, 日本
+cluster1:(5)
+室町, 中世, 中世夢, 鎌倉室町, 鎌倉
+cluster2:(1)
+星の郷美星産直プラザ
+
+howmany entities : 32
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沙美海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+夏, シーズン, ベンチ, くらげ, オススメ, トイレ, 思い出, ところ, ウインドサーフィン, シャワー, 海水浴シーズン, 瀬戸大橋, 夏休み, リピーター, 海水浴, ドライブ, 雰囲気
+cluster1:(6)
+人, 地元, 近く, 子供, 多く, 日本
+cluster2:(2)
+美人, 人気
+cluster3:(5)
+方, 場所, 所, 気, かた
+cluster4:(3)
+倉敷方面, 岡山, 瀬戸
+cluster5:(3)
+水玉ブリッジ, ウニ, トゲ
+cluster6:(2)
+釣り, 散歩
+cluster7:(5)
+島, 海, 海岸, 砂浜, 海水
+cluster8:(1)
+大潮
+cluster9:(1)
+海岸沿い
+
+howmany entities : 45
+howmany clusters : 10
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 6
+deleted 6entities.

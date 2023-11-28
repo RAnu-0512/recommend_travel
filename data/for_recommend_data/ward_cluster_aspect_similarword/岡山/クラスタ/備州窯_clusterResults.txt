@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備州窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中皿, 皿
+cluster1:(3)
+駅, 場所, 作品
+cluster2:(5)
+備前焼, コップ, スタート, 出来上がり, 終了
+cluster3:(1)
+距離
+cluster4:(1)
+釜
+cluster5:(1)
+土ひねり
+cluster6:(4)
+練り方, 陶芸体験, 貸切状態, 体験
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 5entities.

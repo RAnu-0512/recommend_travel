@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぞうさん広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+喜ぶ, 客
+cluster1:(3)
+子, 子供, 用水路
+cluster2:(2)
+場所, 公園
+cluster3:(1)
+小学生位
+cluster4:(1)
+ジム
+cluster5:(1)
+遊具
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 7entities.

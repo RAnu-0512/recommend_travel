@@ -1,0 +1,19 @@
+--------------------similar_words:ホテルグランヴィア岡山--------------------
+top3 entities near to cluster0>>
+料理, 和食, 夕食
+top3 entities near to cluster1>>
+スタッフ, ウェルカムサービス, サービス
+top3 entities near to cluster2>>
+デザート, ビュッフェ, ディナー
+top3 entities near to cluster5>>
+サラダ, ランチ, パスタ
+top3 entities near to cluster6>>
+初, 全国, 独立
+top3 entities near to cluster8>>
+前回, 前々回
+top3 entities near to cluster13>>
+笑顔, 香り
+top3 entities near to cluster14>>
+部屋, 窓, 景色
+top3 entities near to cluster17>>
+予約, 宿泊, 注文

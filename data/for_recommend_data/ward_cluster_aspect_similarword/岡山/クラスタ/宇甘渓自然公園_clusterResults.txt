@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇甘渓自然公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紅葉樹, 紅葉
+cluster1:(6)
+形, コントラスト, 降り注ぐ期間, 葉, トイレ, 近く
+cluster2:(3)
+渓谷, 谷間, 景観
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

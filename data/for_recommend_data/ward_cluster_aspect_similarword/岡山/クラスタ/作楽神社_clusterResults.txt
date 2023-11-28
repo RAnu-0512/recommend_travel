@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:作楽神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+室町, 天皇, 隠岐, 神戸, 明治, 鎌倉, 高徳
+cluster1:(2)
+神社, 祭神
+cluster2:(7)
+こと, 場所, 時代, 御朱印, スポット, 後醍醐, 地
+cluster3:(1)
+御朱印帳
+cluster4:(1)
+院庄館
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 4entities.

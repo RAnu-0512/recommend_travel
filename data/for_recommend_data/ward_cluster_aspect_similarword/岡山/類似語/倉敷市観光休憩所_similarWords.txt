@@ -1,0 +1,13 @@
+--------------------similar_words:倉敷市観光休憩所--------------------
+top3 entities near to cluster0>>
+飲み物, トイレ, 一休み
+top3 entities near to cluster1>>
+パンフレット, パンフ, ポスター
+top3 entities near to cluster2>>
+美術館, 博物館, 図書館
+top3 entities near to cluster3>>
+中心, 案内, 拠点
+top3 entities near to cluster4>>
+椅子, 座る, 壁際
+top3 entities near to cluster5>>
+案内, 周遊, 名所

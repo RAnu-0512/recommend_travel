@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁サービスエリア(上り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+標高, 休憩, 場所, サービス, 山々, 岡山, エリア, 土産物売り場, 頂上, 山, 隣, 途中, 吉備高原, 公園, 気分, 手洗い, 高原, 唯一
+cluster1:(2)
+展望所, 庭園風
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 1
+deleted 2entities.

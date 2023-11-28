@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯郷鷺温泉館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+外, 外風呂, 外露天風呂
+cluster1:(3)
+旅館, 温泉, 足湯
+cluster2:(2)
+浴場, 大露天風呂
+cluster3:(4)
+湯舟, 浴槽, 石鹸, お湯
+cluster4:(1)
+湯量
+cluster5:(6)
+値段, 有料, 通行, 料金, 利用プラン, 混雑
+cluster6:(3)
+ローリュー, バレンタインホテル, プレビュー
+cluster7:(2)
+ほとんど, おすすめ
+cluster8:(1)
+オープン
+cluster9:(1)
+持ち込み
+cluster10:(1)
+大きめ
+cluster11:(1)
+気持ち
+cluster12:(7)
+食べ物, サウナ, ホテル, 飲み物, 露天風呂, 家族づれ, 日帰り
+cluster13:(3)
+家族, 子供, 食事
+cluster14:(1)
+傷
+cluster15:(2)
+何種類, 種類
+cluster16:(2)
+場所, 待ち合わせ場所
+cluster17:(4)
+感じ, 気, 事, こと
+cluster18:(3)
+他, 方, 人
+cluster19:(2)
+時間, 前
+cluster20:(1)
+人気
+cluster21:(7)
+道, 椅子, 食堂, 足, 広間, 座敷, 一角
+cluster22:(6)
+館内, 施設, 温度, 敷地, 室内, 建物
+cluster23:(2)
+倉敷, 鷺
+cluster24:(3)
+休憩室, 休憩, 閉館時刻
+cluster25:(24)
+露店風呂, 男風呂, 岩風呂, 風呂上がり, 静の湯, 天然温泉, ヒノキ風呂, 動の湯, 女湯, 女風呂, 洞窟風呂, 温泉館, 元湯, 湯郷鷺温泉館, 風呂場, 日帰り湯, 風呂, 療養風呂, 貸切風呂, 温泉臭, 総元湯, 温泉地, 鷺温泉館, 湯
+
+howmany entities : 95
+howmany clusters : 26
+howmany entities (more than3entities) : 76
+howmany clusters (more than3entities) : 13
+deleted 19entities.

@@ -1,0 +1,47 @@
+--------------------similar_words:五味の市--------------------
+top3 entities near to cluster0>>
+牡蠣, 牡蛎, 殻
+top3 entities near to cluster1>>
+牡蠣, カキ, 牡蛎
+top3 entities near to cluster2>>
+かき, でかい, 掻き
+top3 entities near to cluster3>>
+おこ, かき
+top3 entities near to cluster5>>
+漁港, 漁師, 屋台
+top3 entities near to cluster6>>
+穴子, 寿司, 丼
+top3 entities near to cluster7>>
+貝, 海老, 海
+top3 entities near to cluster8>>
+佃煮, 醤油, 缶
+top3 entities near to cluster9>>
+身骨, 肉骨, 肉, 身
+top3 entities near to cluster10>>
+魚介, 野菜
+top3 entities near to cluster11>>
+産直, 市場, 漁協
+top3 entities near to cluster13>>
+サンマ, アナゴ, カレイ
+top3 entities near to cluster14>>
+チーズ, ソフトクリーム, お好み焼き
+top3 entities near to cluster15>>
+イベント, メイン, 楽しい
+top3 entities near to cluster16>>
+駅, 徒歩, 駅前
+top3 entities near to cluster19>>
+周辺, そば, 近辺
+top3 entities near to cluster20>>
+実家
+top3 entities near to cluster21>>
+地元, 近所, 地元民
+top3 entities near to cluster22>>
+名物, 名産, 特産
+top3 entities near to cluster28>>
+購入, 販売, 設置
+top3 entities near to cluster36>>
+季節, 冬, 冬場
+top3 entities near to cluster37>>
+値段, 金額
+top3 entities near to cluster39>>
+駐車場, 駐車, 施設

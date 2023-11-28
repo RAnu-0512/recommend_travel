@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JEANS FACTORY 岡山店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+店員, 接客, バイパス沿い, 場所, 天井, 倉庫, 店舗, 服, 店内, 店, 国道, 建物
+cluster1:(5)
+デニム, ユニクロ, ジーパン, シャツ, ジーンズ
+cluster2:(2)
+買い物, セール
+cluster3:(9)
+お気に入り, バイパス, ジーンズファクトリー, オススメ, スニーカー, アドバイス, おすすめ, 雰囲気, こだわり
+cluster4:(7)
+家族, 方, 好み, 人, 他, 横, 日本
+cluster5:(3)
+岡山, 男女, 無言
+cluster6:(8)
+価値, こと, 値段, 品質, もの, 感じ, セール時期, 何か
+cluster7:(1)
+品揃え
+cluster8:(1)
+履き心地
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 6
+deleted 4entities.

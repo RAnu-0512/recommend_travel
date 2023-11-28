@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:林原美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+調度品, 展示品, 工芸品, 美術品, 常設展示, 収蔵展示品, 展示内容, 展示室, 展示
+cluster1:(9)
+もの, アーカイブ集, 方, 説明, 品々, 見せ方, こと, 興味, 状態
+cluster2:(10)
+近く, 途中, 時間, 今回, 歴史, 目玉, 地, 中心, 金, 日本
+cluster3:(2)
+館内, 外観
+cluster4:(2)
+人, 娘
+cluster5:(8)
+文化財, コレクション, ロッカー, 美術館, おすすめ, コース, 長屋門, スポット
+cluster6:(1)
+手荷物バック
+cluster7:(1)
+休憩スペース
+cluster8:(14)
+大人料金, 屏風, 武士, 能装束, 刀, 屋敷, 美術, 日本美術, 刀剣, 大名, 国宝, 絵画, 刀剣中心, 甲冑
+cluster9:(7)
+林原, 岡山藩主池田家, 岡山, 故林原一郎, 池田家, 林原コレクション, 林原一郎
+
+howmany entities : 63
+howmany clusters : 10
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 6
+deleted 6entities.

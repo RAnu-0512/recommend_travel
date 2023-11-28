@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:児島駅観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+案内所, 所
+cluster1:(6)
+瀬戸内, バス, 駅, 瀬戸大橋, 宿, 自転車
+cluster2:(2)
+方法, 事
+cluster3:(2)
+中, お陰
+cluster4:(3)
+要望, 説明, 案内
+cluster5:(1)
+交代
+cluster6:(4)
+観光案内, 児島, 観光, 児島観光マップ
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 7entities.

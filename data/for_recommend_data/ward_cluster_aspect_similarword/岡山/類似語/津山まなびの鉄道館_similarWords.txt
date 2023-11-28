@@ -1,0 +1,15 @@
+--------------------similar_words:津山まなびの鉄道館--------------------
+top3 entities near to cluster0>>
+機関, 車庫, 扇形
+top3 entities near to cluster1>>
+鉄道, 私鉄, 鉄路
+top3 entities near to cluster2>>
+列車, 電車, 車内
+top3 entities near to cluster3>>
+車両, 車輌, 車輛
+top3 entities near to cluster8>>
+言葉
+top3 entities near to cluster12>>
+見学, 体験, 体感
+top3 entities near to cluster13>>
+子ども, 子供, 鉄道

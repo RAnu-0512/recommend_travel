@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木下利玄生家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歌人, 奇, 利玄
+cluster1:(4)
+屋敷, 門, 門扉, 門前
+cluster2:(14)
+中, 土, 建物, 屋根, 内部, 人々, 外観, 線, 見学, 紅葉狩り, 家, 壁, 影響, 色
+cluster3:(1)
+足守
+cluster4:(1)
+寄棟
+cluster5:(1)
+風水思想
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 3entities.

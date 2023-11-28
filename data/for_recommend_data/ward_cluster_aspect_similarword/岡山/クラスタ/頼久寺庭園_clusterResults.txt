@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:頼久寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+屋川, 街巡り
+cluster1:(3)
+左手サツキ, 徒歩, 大刈込み
+cluster2:(2)
+領主, 山地
+cluster3:(2)
+天下, 鶴
+cluster4:(13)
+素人, 人, さつき, 愛宕山, 街並み, ガイド, 見応え, 関ヶ原, 頼久寺, 気持ち, 向こう, 雰囲気, サツキ
+cluster5:(2)
+国, 中国
+cluster6:(3)
+背後, 一部, 周辺
+cluster7:(5)
+定番, 時期, 京都, 紅葉, 季節
+cluster8:(11)
+こと, 初期作, 場所, ほう, 知識, もの, 素晴らしさ, 説明, 意味, 案内, 音声
+cluster9:(9)
+小石, 高梁, 縁側, 塀, 亀島, 和室, 寺, 本堂, 庭
+cluster10:(10)
+枯山水庭園, 景観, 借景, 名園, 頼久寺庭園, 蓬莱式枯山水庭園, 拝観料, 名勝公園, 庭園, 景色
+
+howmany entities : 62
+howmany clusters : 11
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 7
+deleted 8entities.

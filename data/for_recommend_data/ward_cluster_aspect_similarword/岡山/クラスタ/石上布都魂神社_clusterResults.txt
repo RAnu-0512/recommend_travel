@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石上布都魂神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+こと, 日本書紀, 方, 場所, 時代, レンタカー, バス, 剣, 往復, 山歩き, パワー, タクシー, 途中, 天気, スサノオ, 明治, 妻, ハイキング, 最寄りバス停, 吉備, 山頂, 場合, 帰り, 自販機, メーター
+cluster1:(6)
+神社, 社殿, 祭神, 社伝, 参拝, 御守り
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 0entities.

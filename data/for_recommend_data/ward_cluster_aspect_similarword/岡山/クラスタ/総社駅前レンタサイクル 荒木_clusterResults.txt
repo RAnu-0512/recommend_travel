@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:総社駅前レンタサイクル 荒木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レンタサイクル荒木です, 荒木
+cluster1:(8)
+問い合わせ, レンタサイクル, サイクリングロード, 国分寺, システム, 吉備路, サイクリング, 自転車
+cluster2:(4)
+こと, 説明, 態度, 対応
+cluster3:(4)
+車, 料金, 電話, 観光
+cluster4:(5)
+前レンタサイクル, 時間, 近く, 周辺, 距離
+cluster5:(3)
+会社, 一般会社, はい?
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 2entities.

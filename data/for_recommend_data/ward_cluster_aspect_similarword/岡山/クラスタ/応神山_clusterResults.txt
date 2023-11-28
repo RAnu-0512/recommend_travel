@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:応神山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+応神山, 人
+cluster1:(1)
+山
+cluster2:(1)
+気
+cluster3:(1)
+山頂
+cluster4:(1)
+道
+cluster5:(1)
+景観
+cluster6:(2)
+途中倒木, 障害物
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

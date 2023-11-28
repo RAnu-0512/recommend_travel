@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小森温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+中, 感じ, スペース, おすすめ, 人, 山
+cluster1:(2)
+温泉, 浴槽
+cluster2:(2)
+泉質, ぬる湯
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

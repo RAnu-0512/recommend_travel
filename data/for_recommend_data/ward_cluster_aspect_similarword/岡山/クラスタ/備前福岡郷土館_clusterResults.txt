@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備前福岡郷土館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+家, 歴史, 時代, 初期
+cluster1:(2)
+所有, 展示
+cluster2:(2)
+医院, 郷土
+cluster3:(4)
+平井, 大正, 昭和, 室町
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 4entities.

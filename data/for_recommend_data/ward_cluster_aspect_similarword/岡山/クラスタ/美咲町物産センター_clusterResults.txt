@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美咲町物産センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+果物, パン
+cluster1:(3)
+店舗, 建物, 店
+cluster2:(5)
+米, 地元, 近く, 存在, 人達
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

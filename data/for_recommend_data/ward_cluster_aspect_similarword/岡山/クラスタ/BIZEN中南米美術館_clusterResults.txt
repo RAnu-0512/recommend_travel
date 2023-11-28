@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:BIZEN中南米美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+土器, 土偶, 展示品
+cluster1:(10)
+こと, 方, 勉強, 興味, 目的, 感じ, 説明, 計画, 噂, 何か
+cluster2:(6)
+世界, 大学, 時代, 国, 文化, 日本
+cluster3:(2)
+BIZEN中南米美術館, 美術館
+cluster4:(2)
+地中海, 中南米
+cluster5:(6)
+コメント, アステカ, ネット, 雰囲気, ガラスケース, ペッカリー
+cluster6:(1)
+インカ
+cluster7:(2)
+海辺, 雨
+cluster8:(1)
+マヤ
+cluster9:(1)
+日生
+cluster10:(1)
+オリーブ園
+cluster11:(13)
+連絡, 館長, 建物, 人柄, 音, 文字, 町並, 写真, 鍵, 入口, 予約, 講師, 探索
+cluster12:(1)
+森下美術館
+
+howmany entities : 49
+howmany clusters : 13
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 5
+deleted 11entities.

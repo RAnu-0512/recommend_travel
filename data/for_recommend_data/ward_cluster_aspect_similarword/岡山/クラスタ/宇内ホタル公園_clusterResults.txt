@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇内ホタル公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+清流, 方たち, 生息, 地元, ホタル, 地域, 蛍, 車, オススメ
+cluster1:(3)
+宇内ホタルを守り育てる会, 宇内地区, 宇内ホタルまつり
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

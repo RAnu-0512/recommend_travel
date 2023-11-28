@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ファーザークリスマス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+クリスマス, 親子, 店員, 娘, 店内, オーナー, オモチャ, スノードーム, (*^^*, 物, 親, 店
+cluster1:(4)
+ノードーム作り, スノードーム作り, スノードーム作り体験, 体験
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

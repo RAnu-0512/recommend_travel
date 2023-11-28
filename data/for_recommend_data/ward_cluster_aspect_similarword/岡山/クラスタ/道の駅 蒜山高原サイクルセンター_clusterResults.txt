@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 蒜山高原サイクルセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+道, 車, 駅, 車道, おり車
+cluster1:(4)
+土産, レンタル料金, 併設, 食事
+cluster2:(2)
+レンタルサイクル, 自転車
+cluster3:(7)
+レストラン, マウンテンバイク, ソフトクリーム, レンタサイクル, パンフレット, ホテル, サイクリング
+cluster4:(1)
+肌寒い
+cluster5:(5)
+自然, 時間, 季節, 流石, 普通
+cluster6:(1)
+高原
+cluster7:(1)
+蒜山ヒルズ
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 5entities.

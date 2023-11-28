@@ -1,0 +1,39 @@
+--------------------similar_words:吹屋ふるさと村--------------------
+top3 entities near to cluster1>>
+乗客, 旅客, 外客
+top3 entities near to cluster2>>
+旅, 土産, おみやげ
+top3 entities near to cluster3>>
+仕事, 商売
+top3 entities near to cluster4>>
+映画, ロケ, 舞台
+top3 entities near to cluster5>>
+景色, 風景, 景観
+top3 entities near to cluster6>>
+木造, 家屋, 建築
+top3 entities near to cluster7>>
+鉱山, 銅山, 坑道
+top3 entities near to cluster8>>
+山奥, 山道, 田舎
+top3 entities near to cluster9>>
+内部, 壁
+top3 entities near to cluster10>>
+町並み, 駅, 街並み
+top3 entities near to cluster11>>
+集落, 地区, 屋敷
+top3 entities near to cluster12>>
+バス, 往路, 駅前
+top3 entities near to cluster13>>
+土産物屋, みやげ物屋, 土産物, みやげ物
+top3 entities near to cluster14>>
+豪商, 商人, 商家
+top3 entities near to cluster15>>
+館券, 施設, 館
+top3 entities near to cluster16>>
+重要, 町並み, 稀有
+top3 entities near to cluster17>>
+屋根, 瓦, 葺材
+top3 entities near to cluster18>>
+茶色, 黄色
+top3 entities near to cluster19>>
+ベンガラ, 染

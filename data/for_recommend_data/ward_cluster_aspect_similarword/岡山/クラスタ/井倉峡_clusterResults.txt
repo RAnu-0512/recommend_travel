@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井倉峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+方, 場所, 人, 関係, 地域, もの, 時期, 流れ, 多く
+cluster1:(4)
+自然, 風, 秋, 夏場
+cluster2:(6)
+中, 水, 時間, 足, 途中, 毎日
+cluster3:(1)
+圧巻
+cluster4:(16)
+SL, 高梁川, 雪景色, トンネル, ショートカット, オススメ, 通りすがり, 水遊び, スポット, 鍾乳洞, 汗, おすすめ, ゴールデンウィーク, 気持ち, 石灰岩, 滝
+cluster5:(3)
+大きさ, おみやげ物屋, ダイナミックさ
+cluster6:(2)
+健脚向き, 台風接近
+cluster7:(2)
+井倉, 新見方面
+cluster8:(6)
+川, 渓谷, 峡谷, 流域, 川沿い, 峡谷美
+cluster9:(11)
+地形, 景勝地域, 景観, 鍾乳洞周辺, 絶壁, 新緑, 周辺, 清涼スポット, 巨岩, 紅葉, 景色
+
+howmany entities : 60
+howmany clusters : 10
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 7
+deleted 5entities.

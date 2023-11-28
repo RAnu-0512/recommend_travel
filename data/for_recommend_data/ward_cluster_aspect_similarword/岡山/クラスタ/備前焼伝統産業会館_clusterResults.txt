@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備前焼伝統産業会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伊部, 備前焼の町, 窯元
+cluster1:(22)
+レストラン, 数々, 会館, 駅舎, 人, 時間, 興味, 展示, 施設, JR, 作家, 備前焼ミュージアム, 里, 作品, 赤穂線, 隣, 周辺, 備前焼, 店, 販売, 国道, 喫茶
+cluster2:(3)
+土産品, 展示即売コーナー, 体験教室
+cluster3:(1)
+備前焼伝統産業会館
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 1entities.

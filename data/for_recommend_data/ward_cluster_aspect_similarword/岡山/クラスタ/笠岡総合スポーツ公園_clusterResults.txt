@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笠岡総合スポーツ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+施設, 場
+cluster1:(6)
+感じ, サッカーコート, スポーツ, ダイナミック, トラック, トイレ
+cluster2:(4)
+遊具, 総合体育館, こども広場, 公園
+cluster3:(1)
+笠岡湾
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 3entities.

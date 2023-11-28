@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あの日のおもちゃ箱・昭和館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+もの, 感じ, 気, 方, 匂い, 品々, こと, 興味, 物, 空気, 嘆息, 何か
+cluster1:(5)
+民家, 館内, 施設, 外観, 建物
+cluster2:(19)
+生まれ, クイズ, こども, おもちゃ, 手作りクイズ, おじさん, コレクション, 思い出, 駄菓子, たつ, 入り口, そのもの, アイテム, テーマ, オルゴール, 見た目, スポット, 懐かしさ, 雰囲気
+cluster3:(5)
+主人, 両親, 娘, 子供, 父親
+cluster4:(2)
+画家, 漫画
+cluster5:(2)
+旅行, 社員
+cluster6:(2)
+場所, 時間
+cluster7:(2)
+数, 種類
+cluster8:(5)
+世界, 話, 人々, 手, 人
+cluster9:(1)
+町
+cluster10:(4)
+昭和, 時代, ころ, 昔
+cluster11:(2)
+し子供, 子供連れ
+cluster12:(2)
+子供心, 歓喜子供
+cluster13:(1)
+正解親
+cluster14:(2)
+時間潰し, 再訪問
+cluster15:(1)
+古き良き
+cluster16:(11)
+展示施設, おもちゃ館, 収集品, 湯郷, 展示品, 品, 湯郷宿泊予定, 館長, 展示, 展示館, 観覧施設
+
+howmany entities : 78
+howmany clusters : 17
+howmany entities (more than3entities) : 61
+howmany clusters (more than3entities) : 7
+deleted 17entities.

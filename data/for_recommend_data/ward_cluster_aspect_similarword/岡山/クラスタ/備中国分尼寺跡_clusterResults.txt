@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備中国分尼寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+道, 直線, 方, 道路, 駅, 札, 場所, 車, 建物
+cluster1:(3)
+尼寺, 金堂, 講堂
+cluster2:(1)
+伽藍配置
+cluster3:(1)
+国分寺前
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:硯井天満宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雰囲気, ゆかり
+cluster1:(1)
+天満宮
+cluster2:(1)
+辺り
+cluster3:(1)
+場所
+cluster4:(1)
+水
+cluster5:(1)
+井戸
+cluster6:(1)
+硯井
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

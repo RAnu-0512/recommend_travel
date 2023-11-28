@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津谷渓流公園(放流釣り体験)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アマゴ, 放流
+cluster1:(1)
+人気
+cluster2:(1)
+マス
+cluster3:(1)
+親子釣れ
+cluster4:(1)
+津谷渓流公園
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

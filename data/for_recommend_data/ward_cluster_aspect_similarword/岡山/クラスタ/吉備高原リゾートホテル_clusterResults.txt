@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉備高原リゾートホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+雨, 季節, 紅葉, 高原
+cluster1:(2)
+接客, 館内
+cluster2:(2)
+米, 粉
+cluster3:(4)
+ご飯, ピザ, 料理, 仕事
+cluster4:(1)
+お腹
+cluster5:(2)
+実行日, 半ば
+cluster6:(2)
+スーパー代わり, ごとくサイクリング
+cluster7:(8)
+レストラン, アップダウン, ブルーベリー, ロードレース, バイキング, ボリューム, スタイリッシュ, サイクリング
+cluster8:(2)
+スタッフ, メニュー
+cluster9:(1)
+コンビニ
+cluster10:(1)
+メイン
+cluster11:(1)
+ランチ
+cluster12:(1)
+気持ち
+cluster13:(1)
+プラン
+cluster14:(1)
+ハーフバイキング
+cluster15:(3)
+こと, 方, 普段
+cluster16:(1)
+字
+cluster17:(1)
+お試しコース
+
+howmany entities : 38
+howmany clusters : 18
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 19entities.

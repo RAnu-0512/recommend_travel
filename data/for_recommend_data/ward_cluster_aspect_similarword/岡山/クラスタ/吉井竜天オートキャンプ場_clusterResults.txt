@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉井竜天オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+オートキャンプ場, 広場サイト, キャンプ, 設備, サイト, デイキャンプ, 市営
+cluster1:(2)
+上位, 完全オートサイト
+cluster2:(1)
+温水シャワー
+cluster3:(1)
+子供連れ
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 4entities.

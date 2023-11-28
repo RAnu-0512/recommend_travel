@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津黒高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+津黒高原, 津黒高原ナイトスノーシュー
+cluster1:(14)
+前述, ヒント, 温度, スポーツ施設, 温泉, 一帯, 又小学, 施設, 近く, ツアー, 表面, 津黒山山麓スノーシュー, 遊び, 腰
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

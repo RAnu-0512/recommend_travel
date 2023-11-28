@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鷲羽窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+陶芸体験, 体験, 日帰り体験
+cluster1:(12)
+時間, 子, 小学, 最後, 珈琲, 教室, 備前焼, 且つ作品, 子ども, 思い出作り, 予約, カップ
+cluster2:(1)
+電動轆轤体験
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 1entities.

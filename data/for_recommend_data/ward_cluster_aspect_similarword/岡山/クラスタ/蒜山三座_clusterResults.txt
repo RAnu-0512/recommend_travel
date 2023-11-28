@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒜山三座>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(34)
+中, 絶景, 雪, こと, 側, 標高, 場所, 自然, 車, 人, 時間, ヒザ, 山歩き, 坂, 冷泉, 山, 感動, 登山, 中蒜山, 下山, 上蒜山, ポイント, コマクサ, 塩釜, 裾野, 意外, 気持ち, 距離, 手洗い, 冷水, 山頂, ホテル, 景色, 体力
+cluster1:(6)
+蒜山三山, 大山連峰, 蒜山, 蒜山・中, 蒜山・下蒜山, 蒜山三座
+
+howmany entities : 40
+howmany clusters : 2
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 2
+deleted 0entities.

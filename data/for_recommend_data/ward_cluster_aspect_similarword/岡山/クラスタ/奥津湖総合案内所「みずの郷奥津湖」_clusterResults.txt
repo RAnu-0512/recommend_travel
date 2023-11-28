@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥津湖総合案内所「みずの郷奥津湖」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+奥津湖, みずの郷奥津湖
+cluster1:(3)
+観光案内, 案内所, 観光
+cluster2:(3)
+小瓶, 弁当, 土産
+cluster3:(2)
+休憩, 受付
+cluster4:(3)
+食事, 敷地, 景色
+cluster5:(3)
+カヌー, レンタルサイクル, カヤック
+cluster6:(3)
+土産物, 枝垂れ桜, 唐辛子
+cluster7:(1)
+こと
+cluster8:(1)
+好み
+cluster9:(1)
+カヤック体験
+cluster10:(1)
+もた
+cluster11:(1)
+雪柳
+
+howmany entities : 24
+howmany clusters : 12
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 5
+deleted 9entities.

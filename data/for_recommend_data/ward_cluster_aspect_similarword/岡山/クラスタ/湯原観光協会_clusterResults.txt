@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯原観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+中, 道, 場所, コーナー, 水, 幟, 奥, 横, 土産, 館内, イベントホール, ホール, 観光, 温泉, 茶, 右手, 印象, 空間, 雰囲気, 入り口, 建物
+cluster1:(3)
+有料施設, 休息所, 観光案内所
+cluster2:(1)
+はんざきグッズ
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 1entities.

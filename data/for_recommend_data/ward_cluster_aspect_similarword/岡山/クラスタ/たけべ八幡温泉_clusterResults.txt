@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たけべ八幡温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+店員, 内風呂, 方, 洗い場, 人, 自宅, ぬるめ, ところ, 所, 今回, 感じ, 体, 辺, 水風呂, 露天風呂, スペース, サウナ, 建物
+cluster1:(2)
+女湯, 湯
+cluster2:(2)
+浴槽, 風呂
+cluster3:(2)
+温泉, 露天
+cluster4:(1)
+源泉
+cluster5:(5)
+槽, 温度, 砂利っぽい床, 床, 温度低め
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 7entities.

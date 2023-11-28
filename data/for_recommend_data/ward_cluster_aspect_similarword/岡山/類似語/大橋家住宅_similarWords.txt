@@ -1,0 +1,9 @@
+--------------------similar_words:大橋家住宅--------------------
+top3 entities near to cluster1>>
+人々, 歴史, 人達
+top3 entities near to cluster2>>
+建物, 邸宅, 建築
+top3 entities near to cluster5>>
+後期, 幕末, 近世
+top3 entities near to cluster8>>
+商家, 豪商, 土蔵

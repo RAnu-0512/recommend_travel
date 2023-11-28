@@ -1,0 +1,11 @@
+--------------------similar_words:四ツ手網--------------------
+top3 entities near to cluster1>>
+夜間, 電灯, 飲酒
+top3 entities near to cluster2>>
+子供, 友達, 子連れ
+top3 entities near to cluster3>>
+座敷, 家族, 台所
+top3 entities near to cluster7>>
+沿岸, 海面, 海
+top3 entities near to cluster8>>
+漁師

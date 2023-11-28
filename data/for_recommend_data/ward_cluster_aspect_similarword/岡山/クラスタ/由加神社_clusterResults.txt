@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:由加神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+相談結果, 相談
+cluster1:(6)
+歴史, 線, 占い, 徒歩, 図面, 建物
+cluster2:(11)
+娘, ところ, パワー, 七五三, 感じ, 肝心, 次, 子供, 祭り, 文化財, 雰囲気
+cluster3:(2)
+全国, HP
+cluster4:(1)
+客
+cluster5:(1)
+おまもり
+cluster6:(1)
+風格
+cluster7:(11)
+神主, 社格, 神社, 児島, 家相, 本山, 本殿, 管轄, 分社, 本庁, 本宮
+cluster8:(1)
+由緒正しき神社
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 8entities.

@@ -1,0 +1,29 @@
+--------------------similar_words:神庭の滝--------------------
+top3 entities near to cluster0>>
+しぶき, ミスト, 水しぶき
+top3 entities near to cluster1>>
+雰囲気, 自然体, 気持ち
+top3 entities near to cluster2>>
+見どころ, たくさん, 見所
+top3 entities near to cluster3>>
+遊歩道, 入り口, 森林浴
+top3 entities near to cluster6>>
+新緑, 木々, 紅葉
+top3 entities near to cluster8>>
+川池, 川, 小川
+top3 entities near to cluster12>>
+岩石, 岩, 杖
+top3 entities near to cluster16>>
+散策, 見学, 距離
+top3 entities near to cluster18>>
+禁止, 誘導, 開始
+top3 entities near to cluster19>>
+勢い, 空気, 流れ
+top3 entities near to cluster20>>
+想像, 期待, 満足
+top3 entities near to cluster29>>
+姿, 迫力, 風情
+top3 entities near to cluster33>>
+猿, 落君, 啄城
+top3 entities near to cluster38>>
+滝, 随一, 屈指

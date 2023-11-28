@@ -1,0 +1,13 @@
+--------------------similar_words:つやま自然のふしぎ館--------------------
+top3 entities near to cluster0>>
+剥製, 展示, 動物
+top3 entities near to cluster1>>
+展示, 常設, 出展
+top3 entities near to cluster2>>
+標本, 化石, 昆虫
+top3 entities near to cluster4>>
+建物, 施設, 館内
+top3 entities near to cluster5>>
+子供, 大人, 子ども
+top3 entities near to cluster8>>
+各地, 世界, 全国

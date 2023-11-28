@@ -1,0 +1,33 @@
+--------------------similar_words:池田動物園--------------------
+top3 entities near to cluster0>>
+動物, 動物園, 植物園, 植物
+top3 entities near to cluster1>>
+エサ, 餌, えさ
+top3 entities near to cluster7>>
+レッサーパンダ, チンパンジー, ミーアキャット
+top3 entities near to cluster12>>
+ウサギ, タヌキ, 小動物
+top3 entities near to cluster13>>
+ひよこ, ヒヨコ, きりん
+top3 entities near to cluster14>>
+子ども, イベント, カフェ
+top3 entities near to cluster22>>
+工夫, コツ, 満載
+top3 entities near to cluster24>>
+種類数, 種類, 数種類
+top3 entities near to cluster26>>
+公園, 遊歩道, 園内
+top3 entities near to cluster27>>
+料金車, 料金, 職員
+top3 entities near to cluster35>>
+各種, 人気, 写真
+top3 entities near to cluster36>>
+夏, 夏場, 子供
+top3 entities near to cluster37>>
+腕
+top3 entities near to cluster39>>
+ぞう, きち, おさん
+top3 entities near to cluster40>>
+鹿, 熊, 猪
+top3 entities near to cluster41>>
+子供, 家族, 息子

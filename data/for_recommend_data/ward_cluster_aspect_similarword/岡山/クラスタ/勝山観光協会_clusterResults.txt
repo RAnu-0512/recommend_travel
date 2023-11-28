@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝山観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+電車, 構内, 地図
+cluster1:(12)
+風情, スポット, パンフレッ, オフィス, 土産物ショップ, 協会, 各種サービス, 販売, 町並み, そぞろ歩き, 場合, 中国
+cluster2:(2)
+暖簾, 勝山
+cluster3:(1)
+JR姫新線
+cluster4:(1)
+観光案内所
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 4entities.

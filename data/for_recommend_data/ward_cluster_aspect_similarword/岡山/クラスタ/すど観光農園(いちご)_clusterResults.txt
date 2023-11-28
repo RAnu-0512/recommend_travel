@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:すど観光農園(いちご)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+種類, 方, 金額
+cluster1:(3)
+イチゴ, GW, いちご
+cluster2:(1)
+土産
+cluster3:(1)
+農園
+cluster4:(1)
+いちご狩り
+cluster5:(1)
+笑)いちご
+cluster6:(1)
+食べ比べ
+
+howmany entities : 11
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 5entities.

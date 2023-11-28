@@ -1,0 +1,13 @@
+--------------------similar_words:道の駅 奥津温泉--------------------
+top3 entities near to cluster0>>
+美味しい, 人達, おいしい
+top3 entities near to cluster3>>
+昼食, 休憩
+top3 entities near to cluster5>>
+駅車, 駐車, 駅
+top3 entities near to cluster6>>
+家具, 民家, 肌
+top3 entities near to cluster7>>
+品数, 店内
+top3 entities near to cluster8>>
+野菜, 料理, 食材

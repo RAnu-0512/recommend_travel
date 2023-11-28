@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥津渓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紅葉, 紅葉スポット
+cluster1:(2)
+吉井川, 岡山
+cluster2:(3)
+時期, 季節, 気分
+cluster3:(12)
+車, 人, 時間, スポット, 近く, 花崗岩, 名前, 流れ, 途中, 屏風岩, ドライブ, 雰囲気
+cluster4:(4)
+自然, 岩場, 温泉, 景色
+cluster5:(4)
+渓谷, 渓谷沿い, 下流側, 下り口
+cluster6:(1)
+奥津狭
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 5entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田中美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+作品作り, 彫刻, 彫刻子, 木彫作品
+cluster1:(6)
+井原線, 人, 作品, 迫力, 美術館, 命
+cluster2:(3)
+昭和, 田中, 明治
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 0entities.

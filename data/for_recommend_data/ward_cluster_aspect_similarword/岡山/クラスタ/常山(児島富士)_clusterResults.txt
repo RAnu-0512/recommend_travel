@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常山(児島富士)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+形, 構造
+cluster1:(4)
+すそ野, 地元, 山, 通行止め
+cluster2:(1)
+丸
+cluster3:(1)
+標題
+cluster4:(2)
+遺構, 石垣
+cluster5:(3)
+往, 徒歩, 国道
+cluster6:(1)
+残り本丸
+cluster7:(1)
+山容
+cluster8:(2)
+道路事情, 連結式
+cluster9:(3)
+児島富士, 常山城跡, 常山
+
+howmany entities : 20
+howmany clusters : 10
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 10entities.

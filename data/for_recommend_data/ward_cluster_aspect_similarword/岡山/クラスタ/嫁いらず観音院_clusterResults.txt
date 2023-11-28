@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:嫁いらず観音院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+こと, 場所, 手, 水, 興味, 真言宗, 現代, スポット, 名前, 嫁, ネット, 上
+cluster1:(3)
+健康, 生涯, 利益
+cluster2:(7)
+花見, 裏山, 山中, 山, 寺, 本尊, 桜
+cluster3:(1)
+霊験
+cluster4:(5)
+霊場巡り, 観音巡り, 観音, 観音像, 嫁いらず観音
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 1entities.

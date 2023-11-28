@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ひるぜんキッズスノーパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, 時期
+cluster1:(6)
+冬, 子供, 雪景色, ゲレンデ, 紅葉, 山
+cluster2:(1)
+空気
+cluster3:(1)
+高原
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

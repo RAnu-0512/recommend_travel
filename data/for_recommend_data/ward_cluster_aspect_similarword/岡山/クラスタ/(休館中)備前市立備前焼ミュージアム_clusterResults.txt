@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:(休館中)備前市立備前焼ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+展示場, 土産品, 菓子器, 展示品
+cluster1:(4)
+駅, 駅隣接, 土産物店, 本館横
+cluster2:(2)
+年寄, 和式
+cluster3:(3)
+無料バス, 運行, 開催
+cluster4:(2)
+興味, 魅力
+cluster5:(3)
+歴史, 施設, 資料
+cluster6:(3)
+備前焼ミュージアム, 備前焼, 焼き物
+cluster7:(5)
+サービス, トイレ, イメージ, タクシー, 美術館
+cluster8:(6)
+こと, 方, 色, 作品, 目, 他
+cluster9:(6)
+ビル, 各階, 地元中学生, JR, 女子, 右手
+cluster10:(1)
+JR赤穂線
+
+howmany entities : 39
+howmany clusters : 11
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 8
+deleted 5entities.

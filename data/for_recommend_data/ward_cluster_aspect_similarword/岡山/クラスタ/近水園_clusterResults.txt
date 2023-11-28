@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:近水園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木下家, 足守
+cluster1:(27)
+友, 場所, トンネル, 勉強, 小学校, 祖父, 人, 水, 風, スポット, 奥, 目的, 人々, 流れ, 前回, 途中, 町, 側面, 角, 且つ, 外側, モミジ, 路, 周り, 光, イチョウ, 散歩
+cluster2:(7)
+木々, 名所, 紅葉, 季節, 五感, 桜, 景色
+cluster3:(2)
+建物横, 建物
+cluster4:(6)
+水路, 池, 校庭, 花壇, 庭, 庭園
+cluster5:(3)
+石畳, 島々, 石垣
+cluster6:(2)
+池泉式回遊庭園, 足守藩主木下家
+
+howmany entities : 49
+howmany clusters : 7
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 4
+deleted 6entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽山渓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+羽山渓, 羽山第2トンネル
+cluster1:(4)
+道, 山中, 山道, 出口
+cluster2:(2)
+前, 目
+cluster3:(2)
+場所, 状況
+cluster4:(8)
+スマホ, 自然, トンネル, 車, パトカー, グループ, ルームミラー, ゴールデンウィーク
+cluster5:(1)
+ナビ
+cluster6:(1)
+天井
+cluster7:(3)
+まんま岩の裂け目, 素掘り, 岩
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 8entities.

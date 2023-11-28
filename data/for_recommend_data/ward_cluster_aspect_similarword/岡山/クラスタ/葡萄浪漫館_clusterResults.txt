@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葡萄浪漫館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+原因, こと, シーズン, 値段, 種, 自宅, 我が家, ぶどう, シャインマスカット, 他県
+cluster1:(2)
+ローカル放送, ぶり
+cluster2:(1)
+出費
+cluster3:(1)
+直送
+cluster4:(4)
+甘み, 葡萄, 渋み, ブランド葡萄
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 4entities.

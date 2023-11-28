@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美星町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+金魚, 美星高原, 徳山牧場, メダカ, 直営, 興味, 地元, 工芸品, 野菜, 牛乳, 牛肉, 和蕎麦, 青空市場, 付近, 他, ジーンズ, ジェラート
+cluster1:(3)
+巾着袋, 箸袋, 搾りたて
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 0entities.

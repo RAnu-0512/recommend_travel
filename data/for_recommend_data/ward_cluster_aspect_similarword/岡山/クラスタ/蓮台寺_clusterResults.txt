@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮台寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+階段下, 階段
+cluster1:(2)
+寺院, 本堂
+cluster2:(4)
+御朱印, 歴史, 敷地, 上
+cluster3:(1)
+行基菩薩
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

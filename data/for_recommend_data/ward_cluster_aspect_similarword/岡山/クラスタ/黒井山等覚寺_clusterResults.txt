@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒井山等覚寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺院, 寺
+cluster1:(2)
+駅, 徒歩
+cluster2:(2)
+地下, 通路
+cluster3:(4)
+道, 真言宗, 弘法大師, 地下道
+cluster4:(1)
+井戸
+cluster5:(1)
+対面
+cluster6:(1)
+黒井
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 9entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旭川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+旭川のほんの一部, 旭川!, 旭川
+cluster1:(2)
+鼓岳, 鼓橋
+cluster2:(5)
+川, 流域, 支流, 下流, 上流
+cluster3:(2)
+岩屋, 淵
+cluster4:(2)
+北部, 南
+cluster5:(2)
+正面, 端
+cluster6:(7)
+写真, ライト, 傍ら, 瀬戸内海, あたり, 次回, 桜
+cluster7:(3)
+景観, 屋台, 釣り
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 8entities.

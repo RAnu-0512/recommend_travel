@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲街道(岡山県真庭市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+新庄, 勝山, 岡山, 久世, 出雲, 津山, 出雲松平家, 真庭
+cluster1:(6)
+宿場, 上方, 酒屋, 江戸, 粋, 寅
+cluster2:(4)
+こと, 笑, 感動, 感じ
+cluster3:(2)
+風情, 気分
+cluster4:(15)
+道, 場所, リリー, シーン, 近く, 昔, 街並み, 参勤交代, 店, 気持ち, 雰囲気, 町並み, 映画, 名, 建物
+cluster5:(1)
+切符
+cluster6:(1)
+良さ
+cluster7:(3)
+街道, 街道沿い, 石標
+
+howmany entities : 40
+howmany clusters : 8
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 4entities.

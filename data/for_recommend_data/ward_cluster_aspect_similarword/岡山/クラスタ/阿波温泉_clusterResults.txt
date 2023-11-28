@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿波温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+満席, 入荷
+cluster1:(13)
+食事, 中, 温泉, 行程, メニュー, 魚, 目当て, 定食, 品, 昼, 限定, 人, 理由
+cluster2:(1)
+尾所桜
+cluster3:(1)
+阿波温泉
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 4entities.

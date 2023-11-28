@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カバヤ食品(株)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+菓子作り, 菓子
+cluster1:(2)
+展示品, 展示
+cluster2:(3)
+行程, 工程, 工場
+cluster3:(6)
+時期, 昔, 子供, 祭り, 桜, 季節
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 4entities.

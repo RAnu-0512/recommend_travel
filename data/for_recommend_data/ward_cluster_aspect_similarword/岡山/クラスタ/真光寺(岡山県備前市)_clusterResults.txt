@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真光寺(岡山県備前市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寺, 大きなお寺, 本堂
+cluster1:(2)
+観音, 本尊
+cluster2:(1)
+寺巡り
+cluster3:(17)
+時代, 室町, 方面, 屋根, 見, 様式, 真光寺, 歴史, もの, 外観, 建築美, 途中, 国, ドライブ, 文化財, 雰囲気, 人気
+cluster4:(1)
+国重要指定文化
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 4entities.

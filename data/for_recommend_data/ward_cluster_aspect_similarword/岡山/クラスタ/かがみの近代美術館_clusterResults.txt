@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かがみの近代美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+奈良, サービス, 方, 備前焼, せんべい, コーヒー
+cluster1:(3)
+絵画, 名画, 館長
+cluster2:(1)
+夭折
+cluster3:(1)
+天才画家たち
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

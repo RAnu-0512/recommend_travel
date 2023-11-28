@@ -1,0 +1,23 @@
+--------------------similar_words:道の駅 笠岡ベイファーム--------------------
+top3 entities near to cluster0>>
+施設, 設備, 目的
+top3 entities near to cluster3>>
+ひまわり, コスモス, 鯉のぼり
+top3 entities near to cluster4>>
+レストラン, サイクリング, ランチ
+top3 entities near to cluster6>>
+買い物, カフェ, トイレ
+top3 entities near to cluster8>>
+販売, 発信, 訪問
+top3 entities near to cluster9>>
+地元人, 地元, 大勢
+top3 entities near to cluster10>>
+時期, 理由, 目的
+top3 entities near to cluster11>>
+野菜, 直売
+top3 entities near to cluster12>>
+駅, 道路, 沿線
+top3 entities near to cluster13>>
+花畑, 秋畑, 花, 秋
+top3 entities near to cluster15>>
+産直, 農産物, 野菜

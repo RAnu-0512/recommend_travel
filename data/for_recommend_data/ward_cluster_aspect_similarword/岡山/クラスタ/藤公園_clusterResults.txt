@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藤公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+藤苑, 藤, 花繚乱
+cluster1:(4)
+全国, 岐阜, 全国都道府県, 沖縄
+cluster2:(21)
+こと, 花, 紫, 垂れ下がり方, 人, 種類, 横, 白, 八重, 香り, 国, 訪問, アーチ, 故郷, 影響, 天然記念物, 品種, 和気清麻呂, 日本, 色, ピンク
+cluster3:(2)
+藤棚, フジ
+cluster4:(5)
+GW, 気温, 時期, 季節, 満開
+cluster5:(7)
+開花, 多さ, 開花状況, 強風, 強雨, 雨, 混雑情報
+cluster6:(1)
+竹鼻別院
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 5
+deleted 3entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アンティーク&ヴィンテージ着物 着物浪漫>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+フリル, 裾, 着物
+cluster1:(2)
+紺, 桜
+cluster2:(1)
+帯
+cluster3:(1)
+デニム調
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅 彩菜茶屋--------------------
+top3 entities near to cluster0>>
+野菜, 果物, 食材
+top3 entities near to cluster2>>
+販売, 直売, 製造
+top3 entities near to cluster4>>
+土産店, 土産, 名物
+top3 entities near to cluster5>>
+果物, お花, 花

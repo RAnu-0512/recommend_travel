@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田中苑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+田中, 田中作, 田中美術館, 西山公
+cluster1:(8)
+木々, 庭園公園, 専門美術館, 自然, 良寛来, 長寿明王, 花々, 近代彫刻
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

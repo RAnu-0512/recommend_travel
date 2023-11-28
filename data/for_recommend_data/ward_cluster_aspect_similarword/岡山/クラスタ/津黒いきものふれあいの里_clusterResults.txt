@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津黒いきものふれあいの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+田舎, 都会
+cluster1:(3)
+緑, 川, 魚
+cluster2:(2)
+施設, 場所
+cluster3:(5)
+ストレス, ホタル, つかみ取り, アスレチック, バーベキュー
+cluster4:(2)
+家族, 子供
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 6entities.

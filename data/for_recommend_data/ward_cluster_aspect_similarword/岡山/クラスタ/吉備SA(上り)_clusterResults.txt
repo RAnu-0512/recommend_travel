@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉備SA(上り)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+SA, 下り
+cluster1:(10)
+レストラン, 山陽自動車道, 腹いっぱい, もの, 近く, 笑, 嫁, 事, ランチ, コーヒー
+cluster2:(1)
+岡山
+cluster3:(1)
+名産
+cluster4:(1)
+吉備SA
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 5entities.

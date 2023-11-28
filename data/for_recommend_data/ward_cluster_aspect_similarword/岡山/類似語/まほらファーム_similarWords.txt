@@ -1,0 +1,15 @@
+--------------------similar_words:まほらファーム--------------------
+top3 entities near to cluster0>>
+時間, 予約, 受付
+top3 entities near to cluster2>>
+ぶどう, ブドウ, ピオーネ
+top3 entities near to cluster3>>
+いちご, イチゴ, 苺
+top3 entities near to cluster4>>
+ハウス, イベント, おみやげ
+top3 entities near to cluster5>>
+房, ヤギ
+top3 entities near to cluster11>>
+土産店, 飲食店, 飲食, 土産
+top3 entities near to cluster12>>
+イチゴ, ぶどう, 葡萄

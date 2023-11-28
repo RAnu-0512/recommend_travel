@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:砂川公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+サイト予約, サイト選び, 予約, 使用, 利用
+cluster1:(9)
+場所, オートキャンプ場, 時期, 量, サイト場, 遊具, 公園, 敷地, 区画
+cluster2:(2)
+自然, 秋
+cluster3:(2)
+川, 水
+cluster4:(2)
+柿, JR
+cluster5:(19)
+家族, 小さめ, カート, ホームセンター, BBQ, ファミキャン, サービス, トイレ, 人, キャンプファイア, 大人, キャンプ, 大勢, サイト, キャンプファイアスペース, 子供, バーベキュー, 周り, 子ども
+cluster6:(1)
+良さ
+cluster7:(10)
+薪販売有り, 炊事棟, 薪&炭, 炭, 河川工事, 砂川公園, バーべキュー, 薪, 砂川, 焚き火台
+
+howmany entities : 50
+howmany clusters : 8
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 4
+deleted 7entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後楽温泉ほのかの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+炭酸風呂, 浴槽, 風呂, 寝湯, 岩風呂, かけ湯, 風呂上がり, 温泉, 露天, お湯, 湯
+cluster1:(7)
+接客, 毛, 掃除, 髪, 喋り, 体温, 大声
+cluster2:(8)
+男, 女性, 人, 客, 子供, 女, 女性スタッフ, 子ども
+cluster3:(4)
+中, 種類, 目, 日
+cluster4:(3)
+ほう, 後ろ, 帰り
+cluster5:(1)
+気分
+cluster6:(5)
+場所, 指導, 施設, 所, 会員
+cluster7:(1)
+何か
+cluster8:(21)
+くつ, 桶, 洗い場, 所定, マット, 帰りがけ, スタッフ, サウナマット, 水風呂, 出入り, ペチャクチャ, 露天風呂, エントランス, カギ, フロント, 壁, サウナ, カウンター, 入り口, 床, サントリー
+cluster9:(1)
+子供連れ
+cluster10:(4)
+休憩室, 受付, 時短結果, 受付対応
+
+howmany entities : 66
+howmany clusters : 11
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 8
+deleted 3entities.

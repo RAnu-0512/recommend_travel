@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:元禄旅籠 油屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+身, 心
+cluster1:(2)
+地下, 米
+cluster2:(9)
+世界, 美人, イメージ, ペース, 神隠し, メニュー, グリーン, カチカチ, 河川敷
+cluster3:(1)
+千尋
+cluster4:(4)
+風呂, 浴場, 温泉, 湯
+cluster5:(2)
+部屋, 外観
+cluster6:(2)
+食事, 宿泊
+cluster7:(1)
+釜飯
+cluster8:(1)
+宿道
+cluster9:(1)
+蒜山ジャージーアイス
+cluster10:(4)
+夢酔庵, ぬる湯, 食湯館, 源泉かけ
+
+howmany entities : 29
+howmany clusters : 11
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 12entities.

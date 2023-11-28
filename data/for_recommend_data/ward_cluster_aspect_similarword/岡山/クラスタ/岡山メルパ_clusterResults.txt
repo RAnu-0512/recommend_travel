@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡山メルパ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+映画館, 映画
+cluster1:(6)
+お気に入り, 人, スポット, 近く, 雰囲気, デート
+cluster2:(1)
+駅
+cluster3:(1)
+条件
+cluster4:(2)
+大型映画館, 岡山
+cluster5:(1)
+割引サービス
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 7entities.

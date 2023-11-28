@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かもがた町家公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+町屋, 町家
+cluster1:(2)
+公園仕立て, 公園
+cluster2:(5)
+中心地, スポット, 景色, 蔵, 建物
+cluster3:(1)
+忠実
+cluster4:(4)
+街道沿い, 芝生広場, 展望所, 交流館
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 5entities.

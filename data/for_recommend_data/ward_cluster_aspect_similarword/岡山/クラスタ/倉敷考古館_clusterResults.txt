@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷考古館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+中, 価値, 白壁, 時代, 室町, トイレ, 土器, 興味, 遺物, 米倉, 一帯, 歴史, 地元, もの, 見ごたえ, 歴史ファン, 昔, 外観, マストスポット, 館内, 蔵, 物, 倉敷, ゴールデンウィーク, 地図, デザイン, 壁, 博物館, 内容, 倉敷川, 建物
+cluster1:(2)
+美しさ, 展示品
+cluster2:(3)
+米蔵, 貼り瓦, 土蔵作り
+cluster3:(5)
+考古, 倉敷考古館, 吉備地方, 考古館, 倉敷の歴史郷土博物館
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 3
+deleted 2entities.

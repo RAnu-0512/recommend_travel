@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あわくら温泉 湯〜とぴあ 黄金泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+方, 車, 時間, 種類, 日々, 所, 状況, 規模, 事, 方向
+cluster1:(2)
+店員, 誘導
+cluster2:(3)
+顔, 疲れ, 体
+cluster3:(12)
+お気に入り, 自然, 地元, 知り合い, 山, タヌキ, 水風呂, 露天風呂, 気持ち, 後ろ, 手招き, 他
+cluster4:(2)
+狸, 床
+cluster5:(1)
+鳥取
+cluster6:(11)
+脱衣場, 風呂, 壁側カビ, タヌキ風呂, ジェット風呂, 休憩室, 黄金泉, 温泉, お湯, 入浴, 湯
+
+howmany entities : 41
+howmany clusters : 7
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 4
+deleted 5entities.

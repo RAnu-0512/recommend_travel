@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:(一社)高梁市観光協会 高梁支部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+前, 近く, 奥, 目
+cluster1:(2)
+看板, 建物
+cluster2:(5)
+情報, 精霊流し, 精霊舟, 事務所, パンフレット
+cluster3:(1)
+観光
+cluster4:(1)
+パンフレット類
+cluster5:(3)
+方面, 駐車スペース, 左手消防署
+cluster6:(1)
+国道沿い
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 5entities.

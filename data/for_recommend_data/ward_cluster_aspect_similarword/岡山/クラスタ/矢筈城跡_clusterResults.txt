@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:矢筈城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+草苅, 河合
+cluster1:(5)
+家, 末裔, 城跡, 駅, 職場
+cluster2:(1)
+職場異動
+cluster3:(1)
+矢筈城
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

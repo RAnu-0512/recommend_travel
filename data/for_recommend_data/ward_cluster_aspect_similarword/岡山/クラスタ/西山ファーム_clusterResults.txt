@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西山ファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+予約時間, クーポン配布時期, 予約, 受付, 昼食抜き, 食べ比べ
+cluster1:(11)
+もの, 感じ, ^)ハウス, 気, 美味しさ, 所, ガツガツ感, 印象, こと, 笑, 状態
+cluster2:(3)
+イメージ, スタッフ, ポイント
+cluster3:(2)
+ドライブ, ドッグラン
+cluster4:(1)
+クーポン
+cluster5:(1)
+カフェ
+cluster6:(1)
+コース
+cluster7:(1)
+ドイツ
+cluster8:(1)
+Free parking
+cluster9:(4)
+イチゴ, 被り物, いちご, かおり
+cluster10:(4)
+帽子, イチゴハウス, フルーツハウス, ハウス
+cluster11:(1)
+You can
+cluster12:(6)
+森, 蜂, 木, 虫, 西山ファーム, 桃
+cluster13:(13)
+店, 案内, 品種, 体験, 売店, 味, 市場, 対応, 説明, 夕食, 試食, 写真, 土産
+cluster14:(3)
+母, 友人, 子
+cluster15:(2)
+方, 方々
+cluster16:(2)
+女性, 人
+cluster17:(1)
+声
+cluster18:(1)
+冗談
+cluster19:(4)
+時間, 時期, 週末, 予定
+cluster20:(6)
+近く, 目, 中, 他, 初め, 次
+cluster21:(1)
+外
+cluster22:(4)
+夏, 春先, 地元コラボ, 旬
+cluster23:(17)
+甘み, 山陽イチゴハウス, いちご狩り, モモ狩り, 桃狩り, 農園, 某農園, 甘味, 妹夫婦, 孫達, 酸味, 清水白桃, 苺愛, 練乳, 苺, 国道沿い, 山陽ハウス
+
+howmany entities : 96
+howmany clusters : 24
+howmany entities (more than3entities) : 81
+howmany clusters (more than3entities) : 12
+deleted 15entities.

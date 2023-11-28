@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁美しい森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンプサイト, ビジターセンター
+cluster1:(1)
+トイレ
+cluster2:(2)
+水, 冬場
+cluster3:(1)
+森林
+cluster4:(1)
+凍結
+cluster5:(1)
+炊事棟
+cluster6:(1)
+高梁美しい森
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

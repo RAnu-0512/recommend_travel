@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城東むかし町家(旧梶村邸)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+江戸期, 大正, 明治, 昭和
+cluster1:(5)
+国, 世代, 絵, 奥, 一角
+cluster2:(6)
+建築, 母屋, 商家, 軒, 家屋, 建物
+cluster3:(1)
+建群
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 1entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備中松山城雲海展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+城郭, 城, 天空の城
+cluster1:(7)
+姿, 感嘆, 時間, もの, ところ, ゴールデンウィーク, 流行り
+cluster2:(4)
+天神, 雲, 雲海, 山のてっぺん
+cluster3:(1)
+季節柄
+cluster4:(1)
+孤高ぶり
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 2entities.

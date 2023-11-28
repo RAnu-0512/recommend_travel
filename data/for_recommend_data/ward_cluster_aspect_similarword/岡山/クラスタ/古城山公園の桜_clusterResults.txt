@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古城山公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+コントラスト, 緑, 青空, 春, 周囲, 近く, 海, ピンク色
+cluster1:(5)
+花見, 満開, 名所, 公園, 桜
+cluster2:(1)
+笠岡湾
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

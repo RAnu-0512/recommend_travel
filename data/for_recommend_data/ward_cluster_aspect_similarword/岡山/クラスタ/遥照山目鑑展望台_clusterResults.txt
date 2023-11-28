@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遥照山目鑑展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山々, 景色
+cluster1:(5)
+ストレス, 遥照山, 写真, 場所, 晴れ間
+cluster2:(2)
+側, 自然
+cluster3:(1)
+空気
+cluster4:(1)
+梅雨
+cluster5:(1)
+美しさ
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

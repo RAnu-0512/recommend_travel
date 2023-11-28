@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:atelier&gallery 土と月>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(35)
+形, 飛び込み, 念願, 土, 体験, 先生, 人, 焼き, SNS, 時間, 思い出, 施設, 写真, キャンセル, 岡山, 片付け, 作品, 良さ, 笑顔, 県外, 天候, 工程, 男女, 身内カップル, 全員, エプロン, 子供, 枠, 予約, 気分, 作業, 空間, 雰囲気, 上がり, 立地
+cluster1:(3)
+備前焼き陶芸体験, 陶芸, 陶芸体験
+
+howmany entities : 38
+howmany clusters : 2
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 2
+deleted 0entities.

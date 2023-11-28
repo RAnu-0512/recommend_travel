@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:「のれん」の町並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+玄関先, 玄関
+cluster1:(3)
+暖簾, 軒先, 店先
+cluster2:(5)
+街, 町並, 並ぶ街, のれんの町並み, 建物
+cluster3:(3)
+町民, のれんが町, 町
+cluster4:(19)
+風情, こと, 住まい, 勝山, 心意気, それぞれ, 商売, 昔, のれん, 魅力, ゴールデンウィーク, 噂, 家, 仕事, れん, 町並み, 旭川, 心, アイデア
+cluster5:(1)
+白壁とのれんの町
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 3entities.

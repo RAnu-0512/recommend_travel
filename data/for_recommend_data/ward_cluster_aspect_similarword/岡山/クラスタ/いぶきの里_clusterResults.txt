@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いぶきの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+級者コース, 上級者
+cluster1:(9)
+ストレス, 車, スポット, 場所, 自然, 中国自動車道, 心配, コース, 人
+cluster2:(3)
+雪, 景色, 紅葉
+cluster3:(1)
+豊かさ
+cluster4:(1)
+新見IC
+cluster5:(1)
+四季折々
+cluster6:(1)
+人工造雪機
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 6entities.

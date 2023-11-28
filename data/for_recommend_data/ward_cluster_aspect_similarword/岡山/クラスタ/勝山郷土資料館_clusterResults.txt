@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝山郷土資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+中, 城下町, 建物, 歴史, 古文書, 暮らし, のれん, 町, 地, 武具, 資料, 史料
+cluster1:(2)
+勝山, 三浦家
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

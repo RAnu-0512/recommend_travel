@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝山木材ふれあい会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+木材の町勝山, 勝山, 勝山木材ふれあい会館, 町勝山
+cluster1:(8)
+銘木, 食器, 木材類, 木片, 木材売り場, 家具, 木材, 多種木材
+cluster2:(11)
+施設, 駅, JR, 所, 館内, 町, 店内, 間口, 国道, 敷地, 建物
+cluster3:(19)
+品ぞろえ, 他, 手打ち, メイン, 宣伝, アンテナ, DIY, 種類, 地元, 運営, 感じ, メニュー, 外, 雰囲気, 販売, 木製品, 中国, ショップ, 昼
+cluster4:(3)
+コシ, 蕎麦, そば
+cluster5:(3)
+一心庵, 木, 木の駅
+
+howmany entities : 48
+howmany clusters : 6
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 6
+deleted 0entities.

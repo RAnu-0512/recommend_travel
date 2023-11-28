@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+川, 白壁, 川岸, 塀, 散歩コース, 河原
+cluster1:(18)
+高梁川, ビューエリア, 場所, 城下町, 見晴らし, 川遊び, 人, 水, 山, 為, ドライブ, バーベキュー, 付近, 輸送, 気持ち, ・・, 辺り, 日本
+cluster2:(7)
+河川, 所処川, 観光者, 支流, 水量, 発電施設, 川沿い
+
+howmany entities : 31
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 3
+deleted 0entities.

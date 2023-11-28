@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トム・ソーヤー冒険村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+家族, 友達家族, 冒険小屋, 子供連れ
+cluster1:(14)
+中, こと, 方, 独占状態, 人, 機会, もの, 追加料金, 体, 次, 全員, 印象, 場合, 他
+cluster2:(7)
+自炊, 食器, 掃除, ゴミ, 汚れ, 台所, カビ
+cluster3:(3)
+豪雨, 天気, 運
+cluster4:(4)
+川, 自然, 山, 緑
+cluster5:(2)
+子供, 子ども
+cluster6:(8)
+コテージ, BBQ, ログハウス, キャンプ, キャンセル, アスレチック, バンガロー, バーベキュー
+cluster7:(4)
+山小屋, ロッジ, 泊まり, ホテル
+cluster8:(4)
+ふきん, マナー, タオル, 珪藻土
+cluster9:(1)
+釣り
+cluster10:(2)
+値段, 格安
+cluster11:(2)
+部屋, 家
+cluster12:(2)
+場所, 施設
+cluster13:(2)
+窓, 室内アスレチック
+cluster14:(1)
+遊具
+
+howmany entities : 60
+howmany clusters : 15
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 8
+deleted 12entities.

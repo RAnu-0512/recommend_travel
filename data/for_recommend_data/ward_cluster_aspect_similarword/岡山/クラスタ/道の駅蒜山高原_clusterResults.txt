@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅蒜山高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+蒜山そば, 蒜山ジャージー, 蒜山大根, 蒜山ヨーグルト
+cluster1:(29)
+中, 道, レストラン, 休憩, 値段, 大根, 食べ物, 車, アイス, 人, 風, ソフトクリーム, 地元, 駅, もの, 土産, 野菜, 地元食材, 牛乳, おじ, 旅行, 感じ, ドライブ, 家, 手狭, 手洗い, 野菜類, ヨーグルト, 宿泊
+
+howmany entities : 33
+howmany clusters : 2
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 2
+deleted 0entities.

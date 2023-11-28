@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯郷温泉観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+こと, チラシ, 情報, 見どころ, 催し物, 懐かしさ, 計画, 案内
+cluster1:(4)
+車, 次, 目, 間
+cluster2:(2)
+休憩, オルゴール館
+cluster3:(1)
+もぅ
+cluster4:(2)
+湯郷, 美作
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 5entities.

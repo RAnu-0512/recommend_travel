@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:公益社団法人 津山市観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+石垣, 合間, 土産, 変, 観光, 本能寺, 仕事, パンフレット, 観
+cluster1:(3)
+津山, 鶴山, 津山名菓
+cluster2:(1)
+美作一国18
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 1entities.

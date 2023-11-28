@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真備美しい森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ピクニック広場, 遊具
+cluster1:(2)
+持参, 敷物
+cluster2:(9)
+道, 基本, テント, 子ども, スタイル, 蛍, 端くれ, オススメ, 鯉のぼり
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 4entities.

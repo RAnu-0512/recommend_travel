@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:別格本山大聖寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+梅雨, 梅雨時期
+cluster1:(3)
+古刹, 庭園, 本堂
+cluster2:(8)
+中, アジサイ, 見どころ, あじさい, 時期, 手, 大木, あじさいまつり
+cluster3:(1)
+境内一面
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 3entities.

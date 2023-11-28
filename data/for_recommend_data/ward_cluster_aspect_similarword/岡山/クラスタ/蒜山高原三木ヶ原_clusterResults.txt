@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒜山高原三木ヶ原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+目当て, チーズフォンドュ, 訪問, チーズ
+cluster1:(4)
+草原, 斜面, 牧場, ジャージーふれあい広場
+cluster2:(1)
+雪遊び
+cluster3:(1)
+明峰大山
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

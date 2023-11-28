@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長法寺(あじさい寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+見頃, 名所
+cluster1:(13)
+側, 参道, 梅雨, 場所, 色, JR, 山門, 山, 中腹, アジサイ, 南側, 紫陽花, 地面
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

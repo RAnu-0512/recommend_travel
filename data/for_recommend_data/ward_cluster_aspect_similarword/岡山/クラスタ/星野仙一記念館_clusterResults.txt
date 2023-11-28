@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:星野仙一記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+土産, 世話, 訪問, 観光
+cluster1:(2)
+出身, 同郷
+cluster2:(6)
+こと, 方, 場所, 表情, もの, 喜ぶ
+cluster3:(4)
+男, 人, 息子, 父親
+cluster4:(7)
+グローブ, イメージ, ゆかり, 写真, ジャイアンツ, ユニホーム, ユニフォーム
+cluster5:(1)
+ロゴ
+cluster6:(1)
+記念館
+cluster7:(1)
+首掛けタオル
+cluster8:(17)
+備前, 中日阪神, 王選手, 野球, 長嶋, 楽天・・・全日本, 阪神, 岡山, 倉敷デニムストリート, 闘将, 野球グッズ, 監督, 倉敷, 投手, 監督時代, 中日, 球団
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 5
+deleted 5entities.

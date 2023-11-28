@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渋川海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+海, 海岸, 水族館, 砂浜, マリン水族館, 沖, 水質, 海水
+cluster1:(2)
+若者達, 海水浴客
+cluster2:(2)
+岡山, 渋川
+cluster3:(2)
+屋台, 景色
+cluster4:(3)
+方, 人, 大勢
+cluster5:(3)
+友人, 家族, 子供
+cluster6:(1)
+人気
+cluster7:(5)
+車, 近く, 足, 家, そば
+cluster8:(1)
+金
+cluster9:(11)
+シーズン, 子連れ, ところ, コロナ, シャワー, 瀬戸内海, 日本海, ビーチバレー, 海水浴, カップル, ホテル
+cluster10:(2)
+夏, 夏場
+cluster11:(1)
+入浴
+
+howmany entities : 41
+howmany clusters : 12
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 11entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水寺(岡山県吉備中央町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時代, 時代初期
+cluster1:(4)
+奈良, 越後, 室町, 京都
+cluster2:(2)
+町, 県
+cluster3:(2)
+雰囲気, 他
+cluster4:(3)
+天台宗, 平清盛, 清水寺
+cluster5:(1)
+作
+cluster6:(2)
+歴史, 名前
+cluster7:(1)
+注意
+cluster8:(4)
+寺院, 創建, 山門, 寺
+cluster9:(3)
+美術品, 県指定, 指定文化財
+cluster10:(3)
+平野清盛, 天平8, 仁王像
+cluster11:(3)
+供養塔, 平清盛供養塔, 山護法祭
+
+howmany entities : 30
+howmany clusters : 12
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 6
+deleted 10entities.

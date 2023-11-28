@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 笠岡ベイファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+施設, 施設裏側, 購買目的, 休憩施設
+cluster1:(2)
+自転車コース, 自転車
+cluster2:(2)
+菜の花, ポピー
+cluster3:(3)
+ひまわり, 鯉のぼり, コスモス
+cluster4:(10)
+レストラン, シーズン, レンタサイクル, サイクリング, バイパス, コンサート, キバナコスモス, 魚介類, バイキング, スポット
+cluster5:(1)
+ソフト
+cluster6:(5)
+トイレ, カフェ, 目当て, 気持ち, 買い物
+cluster7:(1)
+品切れ
+cluster8:(6)
+情報, 販売, 商品, 発信, 訪問, 鑑賞
+cluster9:(6)
+近く, 多く, 客, 自然, 人, 地元
+cluster10:(5)
+もん, 理由, 目的, 時期, 季節
+cluster11:(4)
+魚, 直売, 野菜, 水産物
+cluster12:(6)
+道路, 道, 沿線, 地理, 駅, 周辺
+cluster13:(11)
+夏, コスモス畑, ポピー畑, 春, 盛り, 花, 秋, 花々, 満開, 花畑, 畑
+cluster14:(1)
+詰め放題
+cluster15:(6)
+農水産物, 菜の花・ひまわり・コスモス, 産直野菜, 笠岡ベイファーム, コスモス・ひまわり・ポピー, 笠岡湾
+cluster16:(1)
+獲れたて鮮魚
+
+howmany entities : 74
+howmany clusters : 17
+howmany entities (more than3entities) : 66
+howmany clusters (more than3entities) : 11
+deleted 8entities.

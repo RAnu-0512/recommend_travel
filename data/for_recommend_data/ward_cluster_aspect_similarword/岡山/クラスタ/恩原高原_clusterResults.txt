@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恩原高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+水, 湖, 陽, 岡山
+cluster1:(2)
+看板, 標識
+cluster2:(2)
+スノボ, スノボー
+cluster3:(2)
+ゲレンデ, スキー
+cluster4:(7)
+コース, キャンプ, ニッコウキスゲ, スポット, ススキ, スペース, 初心者
+cluster5:(1)
+紅葉
+cluster6:(1)
+上級者
+cluster7:(1)
+恩原湖
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 9entities.

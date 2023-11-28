@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆ〜らぎ橋鷺の大噴水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+噴水, 大噴水
+cluster1:(2)
+時間, 時間通り
+cluster2:(5)
+水, 形, 翼, 触れ込み, 部分
+cluster3:(1)
+鷺
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 5entities.

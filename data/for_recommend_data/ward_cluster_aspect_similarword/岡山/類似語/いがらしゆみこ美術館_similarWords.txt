@@ -1,0 +1,19 @@
+--------------------similar_words:いがらしゆみこ美術館--------------------
+top3 entities near to cluster0>>
+コスチューム, 女の子, ドレス
+top3 entities near to cluster2>>
+館内, 入館, 展示
+top3 entities near to cluster4>>
+小物, 装飾, 雑誌
+top3 entities near to cluster5>>
+カフェ, レストラン
+top3 entities near to cluster6>>
+印象, 貧相, 地味
+top3 entities near to cluster12>>
+記念, 記念碑, 館
+top3 entities near to cluster13>>
+漫画, 作品, マンガ
+top3 entities near to cluster16>>
+体験, 試着, 体感
+top3 entities near to cluster21>>
+写真, 撮影, 衣装

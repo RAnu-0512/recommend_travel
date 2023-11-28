@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牛窓海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+シャワー, 瀬戸内海, 海水浴, バーベキュー
+cluster1:(2)
+女性, 人
+cluster2:(5)
+場所, 近く, 家, 後ろ, 人気
+cluster3:(1)
+GW
+cluster4:(2)
+姿, 公園代わり
+cluster5:(1)
+幅
+cluster6:(8)
+参道, 波, 鳥居, 海, 時折船, 砂浜, 釣り, 浜
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 6entities.

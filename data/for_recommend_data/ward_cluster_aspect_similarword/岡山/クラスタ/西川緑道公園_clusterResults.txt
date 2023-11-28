@@ -1,0 +1,64 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西川緑道公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+デミグラス, 豚串, 有機マーケットいち
+cluster1:(2)
+イチ, イス
+cluster2:(31)
+ベンチ, 遊歩道, トイレ, 手作り, カフェ, イオン, 車椅子, 歩き疲れ, ライト, クレープ, 気持ち, ホテル, コーヒー, 飲み屋, イベント, 雨宿り, ソーセージ, イルミネーション, おすすめ, 買い物, スポット, パスタ, ところ, 用水路, ウォーキング, パフォーマンス, 雰囲気, 後楽園, アクセサリー, 散歩道, クリスマスシーズン
+cluster3:(4)
+小学生, 子供, 子ども, 幼児
+cluster4:(2)
+桃太郎通り, 通り
+cluster5:(2)
+感じ, 気
+cluster6:(4)
+もの, 方, こと, 場合
+cluster7:(1)
+流れ
+cluster8:(1)
+注意
+cluster9:(7)
+場所, 話, 途中, 時間, 他, 時期, 人
+cluster10:(4)
+横, 側, 中心, 周辺
+cluster11:(7)
+野菜, 小物, 彫刻, 洋服, 食べ物屋, パン, 粉
+cluster12:(3)
+店, 車, 駅
+cluster13:(2)
+道路, 道
+cluster14:(1)
+飲み屋街
+cluster15:(1)
+通行
+cluster16:(2)
+天候, 気候
+cluster17:(3)
+緑, 花, 桜
+cluster18:(4)
+冬, 雨, 週末, 夜カップル
+cluster19:(2)
+都会, 日常
+cluster20:(6)
+水, 東, JR, 米, 西川, 南北
+cluster21:(1)
+花々
+cluster22:(1)
+おしめ替えスペース
+cluster23:(2)
+水路沿い, 水路
+cluster24:(2)
+川, 川沿い
+cluster25:(3)
+沿い, 西側沿い, 公園沿い
+cluster26:(7)
+散歩, 散策, 細長い公園, 公園, 石井公園, 散歩コース, 散策型公園
+cluster27:(3)
+岡山後楽ホテル, 緑道公園, 枝川緑道公園
+
+howmany entities : 111
+howmany clusters : 28
+howmany entities (more than3entities) : 89
+howmany clusters (more than3entities) : 14
+deleted 22entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:作州城東屋敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+街全体, 余韻
+cluster1:(2)
+山田, 寅
+cluster2:(4)
+ロケ, 作品, 俳優, 映画
+cluster3:(15)
+男, 最後, 場所, 人, だんじり, 写真, 地域, 風景, 街並み, 感じ, 田舎, すべて, 想い, 秋祭り, 建物
+cluster4:(2)
+悪さ, ゴミ
+cluster5:(1)
+いうか山
+cluster6:(5)
+寅次郎 紅の花, 岡山, 津山, 出雲往来をだんじり, 津山だんじり
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 7entities.

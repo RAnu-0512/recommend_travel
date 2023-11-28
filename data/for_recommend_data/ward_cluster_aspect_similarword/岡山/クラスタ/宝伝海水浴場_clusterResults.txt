@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝伝海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+犬島, 岡山
+cluster1:(4)
+アクセス, 場所, 市, ビーチ
+cluster2:(2)
+船, 波
+cluster3:(1)
+アクセス抜群
+cluster4:(1)
+東南端
+cluster5:(1)
+海水客
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 7entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高松城址公園資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+秀吉, 水攻め
+cluster1:(2)
+遺構, 資料
+cluster2:(4)
+平地, 公園, 建物, 景色
+cluster3:(1)
+田園
+cluster4:(3)
+本丸跡, 高松城址, 最上神社
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 5entities.

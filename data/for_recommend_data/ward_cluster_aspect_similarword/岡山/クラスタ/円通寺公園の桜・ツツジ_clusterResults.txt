@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円通寺公園の桜・ツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+玉島, 柚木
+cluster1:(3)
+四季, 風景, 景色
+cluster2:(3)
+散策, 訪問, 修行
+cluster3:(12)
+場所, 建物, 高台, 宿舎, 丘, 所, 山, 境内, 公園, 円通寺公園, 家, 裏手
+cluster4:(1)
+外港
+cluster5:(3)
+花, 一輪, お花
+cluster6:(2)
+池, 睡蓮
+cluster7:(2)
+自筆, 書
+cluster8:(13)
+円通寺, さくら, つつじ, 御朱印, レンタサイクル, 呼び鈴, カメラ, 区割り, 瀬戸内海, ツツジ, 気持ち, 町並み, 自転車
+cluster9:(2)
+時期, 季節
+cluster10:(3)
+人, 次, 目
+cluster11:(3)
+こと, 方, 上
+cluster12:(1)
+美しさ
+cluster13:(12)
+花見, 良寛, 花見スポット, 円通寺の桜, 通寺, 良寛和尚, 寺, 庄屋屋敷, 花見時期, 満開, 桜・ツツジ, 桜
+cluster14:(1)
+港町玉島地区
+
+howmany entities : 63
+howmany clusters : 15
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 8
+deleted 11entities.

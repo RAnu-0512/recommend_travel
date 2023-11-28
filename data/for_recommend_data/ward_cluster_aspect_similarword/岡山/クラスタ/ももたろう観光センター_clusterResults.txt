@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ももたろう観光センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+目印, 場所, 周辺, 看板, 地図
+cluster1:(6)
+イオン, 猫, 地下道, 地下街, 桃太郎, パンフレット
+cluster2:(2)
+地下, 南口
+cluster3:(3)
+観光パンフレット, 観光, 観光案内所
+cluster4:(1)
+駅改札横
+cluster5:(1)
+ももたろう観光センター
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 4entities.

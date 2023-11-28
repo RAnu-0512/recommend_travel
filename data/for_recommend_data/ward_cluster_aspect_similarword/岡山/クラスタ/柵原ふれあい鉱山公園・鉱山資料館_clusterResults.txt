@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柵原ふれあい鉱山公園・鉱山資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+電車, 車両, 駅舎, 運転日, 鉄道, 列車, 運転, 線路
+cluster1:(6)
+場所, 施設, 駅, 周辺, 公園, 景色
+cluster2:(2)
+日本, 国内
+cluster3:(2)
+大人, 休日
+cluster4:(7)
+ボランティア, 吉井川, ホーム, スポット, サイクリングロード, ドライブ, 雰囲気
+cluster5:(3)
+関係, 人, 方々
+cluster6:(3)
+近く, 昔, 帰り
+cluster7:(2)
+暮らしぶり, 閑散
+cluster8:(3)
+価値, 興味, 変化
+cluster9:(5)
+展示, 写真, 様子, 歴史, 資料
+cluster10:(3)
+動態, 整備, 輸送
+cluster11:(1)
+栄華
+cluster12:(3)
+高度成長, ゴール地点, スタート地点
+cluster13:(15)
+若原駅, 鉄道展示場, 鉱山, 柵原, 鉱山資料, 片上鉄道, 鉱石輸送, 資源, 鉱山記念館, 鉱物, 産業, 高瀬船, 片山鉄道, 鉱石搬出, 静態展示
+
+howmany entities : 63
+howmany clusters : 14
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 10
+deleted 7entities.

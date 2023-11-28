@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅の里公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+甘い香り, 香り
+cluster1:(6)
+下敷き, 風向き, イベント, 様子, ステージ, 帰り道
+cluster2:(2)
+販売, 各種
+cluster3:(2)
+下あたり, 昼
+cluster4:(3)
+美味しさ, 格別, 気分
+cluster5:(12)
+車, 花, 弁当, 土産, 山, 広場, 坂道, 山道, 花道, 満開, 山頂, 梅
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 6entities.

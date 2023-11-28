@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:布滝・大滝・白髪滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+道, 車, 道中, 途中, 雨
+cluster1:(10)
+口コミ, 方, オススメ, トイレ, ところ, 時期, 感じ, 事, ドライブ, 物見峠
+cluster2:(1)
+徒歩
+cluster3:(7)
+布滝, 岡山, 水量, 白髪滝, 紅葉, 大滝, 滝
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 1entities.

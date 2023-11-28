@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷民藝館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+倉敷ガラス, 倉敷緞, 米倉
+cluster1:(30)
+場所, 時代, コーナー, 経験, 作家, もの, アドバイス, 目, 蔵, 川, 見ごたえ, 所, コマ, 理解, 米, 博物館, 思い, 美術館, 他, 友人, 方, 別, 玩具, ガラス, 良さ, 倉敷川, 形, こと, 人, 昔
+cluster2:(7)
+館内, 建築, 風情, 白壁, 展示, 外観, 建物
+cluster3:(2)
+世界, 日本
+cluster4:(2)
+各国, 各地
+cluster5:(6)
+地域, 土地, 文化, 民衆, 歴史, 観光
+cluster6:(7)
+中心部分, 素晴らしさ, 広さ, 一線, 一翼, 幅, 中心
+cluster7:(8)
+展示品, 民芸専門美術館, 日本民芸館, 民芸館, 工芸品, 民芸作家, 民芸, 光徳寺展示室
+
+howmany entities : 65
+howmany clusters : 8
+howmany entities (more than3entities) : 61
+howmany clusters (more than3entities) : 6
+deleted 4entities.

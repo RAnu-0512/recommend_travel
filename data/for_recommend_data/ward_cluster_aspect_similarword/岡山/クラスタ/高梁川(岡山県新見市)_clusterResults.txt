@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高梁川(岡山県新見市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+川, 河川, 渓谷, 渓谷沿い, 流域, 縦断流域, 川沿い
+cluster1:(3)
+高梁, 倉敷, 旭川
+cluster2:(4)
+風情, 風景, 旅情, 景色
+cluster3:(6)
+こと, ほう, もの, 流れ, 気, 注意
+cluster4:(25)
+家族, 夏, 高梁川, トンボ, 旅, 場所, 自然, 車, あちこち, 伯備線, 人, 吉井川, 水遊び, ローカル線, 近く, 鍾乳洞, 大雨, ひと, 高校生, ドライブ, バーベキュー, 故郷, 釣り, 日本, 河川敷
+cluster5:(4)
+南, 西部, 県, 北
+cluster6:(2)
+天然, 水
+
+howmany entities : 51
+howmany clusters : 7
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 6
+deleted 2entities.

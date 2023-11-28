@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津黒高原キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+星空, 温泉, 高原
+cluster1:(6)
+キャンプ, フリーサイト, 場所, 時期, ロケーション, サイト周辺
+cluster2:(2)
+木々, 空気
+cluster3:(1)
+津黒高原荘
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

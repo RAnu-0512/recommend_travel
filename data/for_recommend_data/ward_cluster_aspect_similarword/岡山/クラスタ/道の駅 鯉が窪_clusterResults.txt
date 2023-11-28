@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 鯉が窪>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+土産, 野菜, 果物, 産地, 米, 食事, 料理, パン, 粉
+cluster1:(9)
+道, 地元, 駅, 地域, 近く, 隣, 国道, 人気, 地方
+cluster2:(2)
+ドライブコース, バイクツーリング
+cluster3:(8)
+レストラン, トイレ, 我が家, 図書館, おすすめ, ドライブ, デザイン, 天然記念物
+cluster4:(4)
+飲み物, 食べ物, 農産物, おかず
+cluster5:(1)
+人
+cluster6:(8)
+購入, 値段, 場所, 補充, もの, 名前, 注意, 由来
+cluster7:(8)
+窪湿原, 特産物, 湿原, 県境辺り, 駅 鯉, 圏内位, お兄さんたち, 鯉
+cluster8:(1)
+鯉ヶ窪
+
+howmany entities : 50
+howmany clusters : 9
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 6
+deleted 4entities.

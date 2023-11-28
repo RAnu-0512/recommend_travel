@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金光教本部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+会堂, 祭事, 立教150, 大祭, 式典, 祭場
+cluster1:(16)
+こと, 舞台, 建物, 施設, 元気, エリア, 図書館, 本部機能, 関連, 周辺, ギャップ, 町, 雰囲気, 神, 心配, 本部
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

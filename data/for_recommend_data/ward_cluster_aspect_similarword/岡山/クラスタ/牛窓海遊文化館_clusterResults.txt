@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牛窓海遊文化館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+牛窓, 牛窓地域, 港町牛窓
+cluster1:(11)
+だんじり, 歴史, 地元, 様子, 船形だんじり, 人形, 明治, 洋館, 雰囲気, 秋祭り, 建物
+cluster2:(1)
+洋風建物@国登録有形文化
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

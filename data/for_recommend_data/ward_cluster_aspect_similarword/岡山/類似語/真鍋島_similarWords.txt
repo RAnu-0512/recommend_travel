@@ -1,0 +1,13 @@
+--------------------similar_words:真鍋島--------------------
+top3 entities near to cluster1>>
+島民, 島々, 漁村
+top3 entities near to cluster3>>
+景色, 風景, 風情
+top3 entities near to cluster6>>
+港船, 桟橋, 港
+top3 entities near to cluster7>>
+採算店, 採算
+top3 entities near to cluster9>>
+猫, ネコ, 子猫
+top3 entities near to cluster10>>
+島, 島内, 島々

@@ -1,0 +1,15 @@
+--------------------similar_words:(休館中)備前市立備前焼ミュージアム--------------------
+top3 entities near to cluster0>>
+展示品, 土産品, 展示, 土産
+top3 entities near to cluster1>>
+駅, 駅前, 構内
+top3 entities near to cluster3>>
+運行, 開催, バス
+top3 entities near to cluster5>>
+資料, 歴史, 施設
+top3 entities near to cluster6>>
+備前焼, 焼き物, 陶芸
+top3 entities near to cluster7>>
+トイレ, 美術館, タクシー
+top3 entities near to cluster9>>
+各階, 駅前, ビル

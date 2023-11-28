@@ -1,0 +1,35 @@
+--------------------similar_words:瀬戸内温泉 たまの湯--------------------
+top3 entities near to cluster0>>
+距離, 間隔
+top3 entities near to cluster1>>
+時間, 休日, 平日
+top3 entities near to cluster4>>
+利用, 対応, 活用
+top3 entities near to cluster7>>
+施設, 館内, 設備
+top3 entities near to cluster8>>
+サウナ, 飲み物, タオル
+top3 entities near to cluster9>>
+サービス, セット, スタイル
+top3 entities near to cluster10>>
+居心地, 雰囲気, 気持ち
+top3 entities near to cluster13>>
+海水, 塩, 海
+top3 entities near to cluster14>>
+食事, 夕食, 昼食
+top3 entities near to cluster15>>
+席, 待ち客, 先客
+top3 entities near to cluster17>>
+夕方, 日, 今日
+top3 entities near to cluster19>>
+子供, 家族
+top3 entities near to cluster23>>
+値段, 価格, 格安
+top3 entities near to cluster24>>
+耳音, 耳
+top3 entities near to cluster25>>
+肌
+top3 entities near to cluster27>>
+食堂車, 窓車, 食堂, 窓
+top3 entities near to cluster29>>
+温泉, 風呂, 露天風呂

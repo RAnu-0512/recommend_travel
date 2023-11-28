@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丁畷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+忙しさ, 美しさ
+cluster1:(4)
+平原, 海水面, 平原面, 雨水
+cluster2:(2)
+浸食, 侵食
+cluster3:(6)
+自然, 地底, 太古, 海中, 高原, 中国
+cluster4:(22)
+風情, 中, 地形, 旅, 場所, 時代, 人, もの, 風景, エリア, 八丁畷, 途中, 吉備高原, 休日, 転換, 気分, 気持ち, 距離, 影響, 雰囲気, 天然記念物, 景色
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 3
+deleted 4entities.

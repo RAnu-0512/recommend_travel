@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和気神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+京都, 和気ちゃん, 京都とここ, 和気
+cluster1:(12)
+像, 生誕, 子どもの守り神, 建築, 歴史, 木造, 勢力下, 利益, 造り, 命, 建物, 末裔
+cluster2:(4)
+猪, 藤, 駒イノシシ, 神
+cluster3:(5)
+感じ, しろイノシシ, 趣, 事, こと
+cluster4:(4)
+体力, 修理, 紅葉, 鑑賞
+cluster5:(5)
+御朱印, お守り, 御利益, 書置き, 守り神
+cluster6:(4)
+代わり, 見どころ, ところ, 雰囲気
+cluster7:(6)
+雨上がり, 赤ちゃん, 和気清麻呂, イノシシ, 水たまり, 子ども
+cluster8:(1)
+かわり
+cluster9:(1)
+水はけ
+cluster10:(10)
+場所, 近く, 途中, 多く, 地面, 車, 地, 敷地, 人, 帰り
+cluster11:(15)
+拝殿, 本殿, 門前, 朱印, 神社, 狛猪, 境内, 石段, 社殿, 階段, 氏神, 狛犬, 朱印対応, 屋根瓦, 狛イノシシ
+cluster12:(1)
+藤と夜の藤
+
+howmany entities : 72
+howmany clusters : 13
+howmany entities (more than3entities) : 69
+howmany clusters (more than3entities) : 10
+deleted 3entities.

@@ -1,0 +1,74 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉敷ロイヤルアートホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+案内, 接客, 予約, 宿泊ホテル, 併設, 電話, 観光
+cluster1:(2)
+蔵カフェ, 蔵
+cluster2:(3)
+ランチ, ステーキランチ, 食事
+cluster3:(2)
+店, 料理
+cluster4:(1)
+肉
+cluster5:(2)
+パン, 軽食
+cluster6:(3)
+紅茶, 苺, ミニハンバーガー
+cluster7:(1)
+カニピラフ
+cluster8:(1)
+星つきホテル
+cluster9:(3)
+スープ 暖かい, スープ, ホットレモネード
+cluster10:(5)
+ケーキ, ムース, カボチャペースト, いちご, タルト
+cluster11:(4)
+飲み物, パイン, グラス, ドリンク
+cluster12:(3)
+思い出, 決め手, 雰囲気
+cluster13:(3)
+カフェ, ロビー, ホテル
+cluster14:(2)
+サイズ, コース
+cluster15:(6)
+ストップ, メイン, サービス, イベント, フロント, スタッフ
+cluster16:(2)
+キッシュ, カボチャ
+cluster17:(2)
+スイーツ, デザート
+cluster18:(2)
+カトラリー, アフタヌーン
+cluster19:(7)
+レストラン, メニュー, ハンバーグ, ホテルクオリティ, ロールケーキ, ボリューム, ミックスジュース
+cluster20:(3)
+ホイップ, バーガー, アップル
+cluster21:(1)
+カツレツ
+cluster22:(1)
+倉敷
+cluster23:(7)
+空間, 色, 趣, 味, 天井, 和, カルパッチョ風
+cluster24:(8)
+満足, 値段, もの, 感じ, 気, こと, ステーキ出, 状態
+cluster25:(4)
+海外, 夫婦, 子供, 子
+cluster26:(3)
+場所, 会場, 写真
+cluster27:(2)
+中, 最後
+cluster28:(2)
+方, 人
+cluster29:(1)
+時間
+cluster30:(1)
+勝手
+cluster31:(1)
+声
+cluster32:(1)
+お腹
+
+howmany entities : 96
+howmany clusters : 33
+howmany entities (more than3entities) : 69
+howmany clusters (more than3entities) : 15
+deleted 27entities.

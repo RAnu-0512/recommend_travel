@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:招き猫美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+絵付け, 猫絵付け体験, 猫絵, 絵付け体験, 絵
+cluster1:(6)
+体験, 展示, 入館, 館内, 体験時間, 観賞
+cluster2:(2)
+部屋, 色
+cluster3:(8)
+絵の具, スマホ, 招き猫, 山, 招き猫美術館, デザイン, 気持ち, 美術館
+cluster4:(3)
+家族, 夫婦, 土産
+cluster5:(8)
+他, 前, 参考, 場所, ほう, 見本, 時間, 隣
+cluster6:(2)
+猫グッズ, 猫
+cluster7:(2)
+銀色, 金色
+cluster8:(1)
+金山寺みそ
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 7entities.

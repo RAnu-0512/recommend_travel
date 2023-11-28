@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北木島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+石切り場, 島, 島巡り, 石の島, 島めぐり
+cluster1:(18)
+オススメ, 心, 出身, フェリー, 石, 大阪城, 息子, 海水浴, 薬, 瀬戸内海, 自転車, 自然, 石積み, 人, 剥き出し, ところ, 子供, 雰囲気
+cluster2:(5)
+もの, 気, 流れ, 方, こと
+cluster3:(2)
+場所, 時間
+cluster4:(2)
+途中, 次
+cluster5:(1)
+何か
+cluster6:(5)
+迫力, 魅力, 跡, 風情, 興味
+cluster7:(24)
+魚, 某テレビ, 海, 港, 堀, 夕日, 真鍋島, 大悟, 島々, フェリー真鍋島, 小島, 家族みんな大, 北木島, 岩場, 石垣, 岡山, 船, 地図, 釣り, 千鳥, 離島, 海岸, 某芸人, 観光
+
+howmany entities : 62
+howmany clusters : 8
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 5
+deleted 5entities.

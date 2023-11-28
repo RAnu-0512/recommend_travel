@@ -1,0 +1,15 @@
+--------------------similar_words:阿智神社--------------------
+top3 entities near to cluster1>>
+正面, 端
+top3 entities near to cluster2>>
+町並み, 街並み, 歴史
+top3 entities near to cluster6>>
+景色, 散策, 旅
+top3 entities near to cluster7>>
+階段, 石段, 廊下
+top3 entities near to cluster8>>
+御朱印帳, 御朱印, 絵馬
+top3 entities near to cluster10>>
+藤, 藤棚, 桜
+top3 entities near to cluster12>>
+神社, 境内, 鳥居

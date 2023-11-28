@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉備路文学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ホテル, テレビ
+cluster1:(1)
+旅
+cluster2:(1)
+行
+cluster3:(1)
+文学
+cluster4:(1)
+岡山
+cluster5:(1)
+関心
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

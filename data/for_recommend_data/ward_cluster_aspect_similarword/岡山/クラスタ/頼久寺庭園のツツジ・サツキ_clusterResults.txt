@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:頼久寺庭園のツツジ・サツキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+名勝, 頼久寺庭園, 庭園
+cluster1:(5)
+台風, 雨天, 余波, 雨, 小雨
+cluster2:(17)
+こと, 前, 方, 名人, 芝, 草, 歴史, 呼び鈴, 石段, 名前, 受付, 寺, 頼久寺, ツツジ, 庭, 雰囲気, サツキ
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 3
+deleted 0entities.

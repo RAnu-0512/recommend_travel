@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:atelier青音-ANON->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+お気に入り, 娘, 奥様, ネコ, 七宝焼
+cluster1:(4)
+物, 体験, 所, 事
+cluster2:(1)
+下さりお気に入り
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 1entities.

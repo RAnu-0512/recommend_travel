@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鴻ノ池サービスエリア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+食事, レストラン, こと, 場所, もの
+cluster1:(4)
+タコ, 土産, 丼, 名物
+cluster2:(1)
+岡山
+cluster3:(1)
+小腹
+cluster4:(1)
+デミカツ
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

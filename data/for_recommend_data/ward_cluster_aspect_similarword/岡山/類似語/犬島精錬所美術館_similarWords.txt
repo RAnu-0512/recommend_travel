@@ -1,0 +1,11 @@
+--------------------similar_words:犬島精錬所美術館--------------------
+top3 entities near to cluster1>>
+廃墟, 工場, 煉瓦
+top3 entities near to cluster2>>
+景色, 景観, 天気
+top3 entities near to cluster3>>
+自然, 環境, 観察
+top3 entities near to cluster4>>
+建物, 空間, 建築
+top3 entities near to cluster7>>
+精錬, 精練, 製鉄

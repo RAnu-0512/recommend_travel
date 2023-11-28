@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:のとろ温泉 天空の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+泉質, とろ温泉, 番頭, 風呂, 女湯, 温泉巡り, 温泉, 入浴客, 湯
+cluster1:(3)
+天空, 天空感, ぬる感
+cluster2:(6)
+こと, 方, 幅, 具合, 期待, 感じ
+cluster3:(2)
+体, 心
+cluster4:(7)
+それぞれ, 日替わり, 森林浴, エアコン, 露天風呂, イケメン, 向こう
+cluster5:(2)
+地元, 帰り
+cluster6:(3)
+中, 場所, 日
+cluster7:(1)
+良さ
+cluster8:(17)
+道, 絶景, 雪, 標高, 車, 方面, 広角, 山々, 起伏, 山, 道程, 屈曲, 山道, 雲, 眺め, 眺望, 景色
+
+howmany entities : 50
+howmany clusters : 9
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 6
+deleted 5entities.

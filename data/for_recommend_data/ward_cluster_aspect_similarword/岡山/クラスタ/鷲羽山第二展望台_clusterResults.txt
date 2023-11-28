@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鷲羽山第二展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展望休憩室, 鷲羽山第二展望台
+cluster1:(9)
+絶景, 夕陽, 夜景, 夕日, 天気, 全景, 島々, 眺め, 景色
+cluster2:(9)
+望遠鏡, レストハウス, イター, スポット, ビュースポット, 瀬戸大橋, 瀬戸内海, ドライブ, コンビナート
+cluster3:(3)
+バス停, 駐輪場, 身障者
+cluster4:(1)
+鷲羽山
+cluster5:(6)
+こと, 場所, ほう, もの, 迫力, 写真スポット
+cluster6:(8)
+車, バス, 靴, 頂上, 駐車スペース, 階段, 妊婦, 山頂
+cluster7:(4)
+四国 坂出, 四国, 瀬戸, 与島PA
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 6
+deleted 3entities.

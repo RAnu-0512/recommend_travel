@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青年期宮本武蔵像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+武蔵, 武蔵像
+cluster1:(3)
+像, 命日, 銅像
+cluster2:(3)
+写真, 迫力, 感じ
+cluster3:(4)
+里, 門, 地, 庭
+cluster4:(1)
+五輪
+cluster5:(1)
+青年期
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 4entities.

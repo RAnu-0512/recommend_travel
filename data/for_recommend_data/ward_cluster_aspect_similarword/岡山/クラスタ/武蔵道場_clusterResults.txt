@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵道場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+剣道場, 武蔵, 稽古, 流派, 武蔵道場, 剣士達, 道場
+cluster1:(3)
+友人, 地元, 朝
+cluster2:(4)
+こと, かけ声, 場所, スポット
+cluster3:(2)
+施設, 周辺
+cluster4:(1)
+縁
+cluster5:(1)
+生誕地
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 4entities.

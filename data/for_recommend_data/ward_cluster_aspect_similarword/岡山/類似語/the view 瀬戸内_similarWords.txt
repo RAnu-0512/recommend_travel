@@ -1,0 +1,13 @@
+--------------------similar_words:the view 瀬戸内--------------------
+top3 entities near to cluster0>>
+鯛, 海老
+top3 entities near to cluster1>>
+絨毯, 床, 壁
+top3 entities near to cluster3>>
+ランチ, デザート, ディナー
+top3 entities near to cluster5>>
+料理, 食事, 前菜
+top3 entities near to cluster7>>
+景色, 気分, 季節
+top3 entities near to cluster11>>
+記載, 利用, 明記
