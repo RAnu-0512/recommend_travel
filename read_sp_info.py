@@ -6,7 +6,7 @@ import csv
 def get_spotinfo():
     # spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1]], ... ]
     spots_info = []
-    latlng_info_path = "data\\latlng\\岡山_2.csv"
+    latlng_info_path = "data\\latlng\\岡山_latlng_review_exist3.csv"
     #latlng_info_path=""
 
     with open(latlng_info_path, 'r', encoding='utf-8') as f_latlng:
@@ -19,7 +19,7 @@ def get_spotinfo():
                 latlng.append(float(row[2]))
             spots_info.append([sn,latlng])
 
-    aspect_folder_path = "data\\aspect_and_vector_list\\岡山\\"
+    aspect_folder_path = "data\\for_recommend_data\\aspects_and_vectors\\岡山\\"
     #aspect_path=""
     for spot_index in range(len(spots_info)):
 #        print(spots_info[spot_index][0])
