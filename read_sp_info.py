@@ -19,7 +19,7 @@ def get_spotinfo():
                 latlng.append(float(row[2]))
             spots_info.append([sn,latlng])
 
-    aspect_folder_path = "data\\for_recommend_data\\aspects_and_vectors\\岡山\\"
+    aspect_folder_path = "data\\aspects_and_vectors\\岡山\\"
     #aspect_path=""
     for spot_index in range(len(spots_info)):
 #        print(spots_info[spot_index][0])
