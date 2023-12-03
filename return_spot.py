@@ -1,7 +1,18 @@
 from calculate_distance import haversine_distance 
+import csv
+import numpy as np
+
+
+#レビュー数を読み込みこむ
+review_num_path  = "data\\number_of_review\\岡山_numOfRview.csv"
+with open(review_num_path,"r",encoding="utf-8") as f_r:
+    reader = csv.reader(f_r)
+    spot_and_numOfrev = {row[0]: int(row[1]) for row in reader}
+max_review_num = max(spot_and_numOfrev.values())
+
 
 #スコアが高いtop nスポットのスポットを返却
-#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1]], ... ]
+#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev], ... ]
 #形式は[[spot_name,[lat,lng],aspects,score], ...]
 def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, spots_info,n):
     recommend_spots_info = []
@@ -12,8 +23,10 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         aspect_list = spot_info[2]
         asp_vec_list = spot_info[3]
         cluster_vec_list = spot_info[4]
+        spots_aspectsVector = spot_info[5]
+        spot_numOfRev = spot_info[6]
         if haversine_distance(selected_lat,selected_lng,lat,lng) <= recommend_range:
-            score = calc_spot_score(selected_aspect_list, aspect_list, asp_vec_list)
+            score = calc_spot_score(selected_aspect_list, spots_aspectsVector, spot_numOfRev)
             recommend_spots_info.append([sn,[lat,lng],aspect_list,score])
         sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[-1],reverse=True)
     if len(sorted_recommend_spots_info) <= n:
@@ -23,9 +36,33 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         print("return_spot : " ,sorted_recommend_spots_info[0:n])
         return sorted_recommend_spots_info[0:n]
 
-def calc_spot_score(selected_aspect_list, aspect_list, asp_vec_list):
-    score = 0
-    for selected_aspect in selected_aspect_list:
-        if selected_aspect in aspect_list:
-            score = score + 1
+def cos_sim(v1, v2):
+  if v1 != [0.0]*len(v1) and v2 != [0.0]*len(v2) :
+    return np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2))
+  else:
+    return 0.0
+def return_selected_aspectsVector(selected_aspect_list):
+    read_clustering_path = "data\\all_aspect_clustering\\岡山aspect_clustering_result.csv"
+    #全ての観点のクラスタリング結果から、選択した観点のベクトルを生成
+    list_aspects = []
+    with open(read_clustering_path, 'r', newline='', encoding='utf-8') as csvfile:
+        csv_reader = csv.reader(csvfile)
+        for row in csv_reader:
+            # 各行の要素数を取得
+            list_aspects.append(row[1:])
+    selected_aspectsVector = [0.0]*len(list_aspects)
+    for index in range(len(list_aspects)):
+        for selected_aspect in selected_aspect_list:
+            if selected_aspect in list_aspects[index]:
+                selected_aspectsVector[index] += 1
+    return selected_aspectsVector
+
+
+def calc_spot_score(selected_aspect_list, spots_aspectsVector, spot_numOfRev):
+    score = 0.0
+    selected_aspectsVector = return_selected_aspectsVector(selected_aspect_list)
+    similarity = cos_sim(selected_aspectsVector,spots_aspectsVector)
+    if spot_numOfRev != None:
+        popularity  = spot_numOfRev/max_review_num
+        score = popularity * similarity
     return score

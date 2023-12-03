@@ -56,8 +56,9 @@ def add_list_int(list1,list2):
     return [x + y for x, y in zip(list1, list2)]
 def divide_list_int(list1,num1):
     return [x/num1 for x in list1]
-# spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1]], ... ]
-#上位top_nの観点を返す[観点1,観点2,観点3]
+#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev], ... ]
+#上位top_nの観点を返す[観点1,観点2,観点3, ... ]
+#クエリと似ている観点を返す
 def return_aspect(query,spots_info,aspect_top_n,model):
     result = []
     all_aspectsAndvector = []
