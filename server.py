@@ -31,7 +31,7 @@ def send_latlng():
     data = request.get_json()
     lat = float(data.get('cliked_lat'))
     lng = float(data.get('cliked_lng'))
-    recommend_spots = return_spot(lat,lng,returned_distance_range,returned_aspect_list,spots_info,top_n) #形式 : [[spot_name,[lat,lng],aspects,score], ...]
+    recommend_spots = return_spot(lat,lng,returned_distance_range,returned_aspect_list,spots_info,top_n) #形式 : [[spot_name,[lat,lng],aspects,[similar_aspect],score], ...]
     print("recommend_spots: ", recommend_spots)
     response_data = []
     #    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
@@ -41,7 +41,8 @@ def send_latlng():
             "lat" : recommend_spot[1][0],
             "lng" : recommend_spot[1][1],
             "aspects" : recommend_spot[2],
-            "score" : recommend_spot[3]
+            "similar_aspects" : recommend_spot[3],
+            "score" : recommend_spot[4]
         }
         response_data.append(converted_data)
         print("converted_data : ",converted_data)
