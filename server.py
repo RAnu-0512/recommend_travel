@@ -8,12 +8,14 @@ from return_spot import return_spot
 top_n = 10 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
 # wor2vecモデル読み込み
+
 #model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
 #model_path = "C:/Users/kobayashi/Desktop/小林_B4/プログラムおよびデータ/02.Google Colab/drive/cc.ja.300.vec.gz"
 #model_path = "C:\\Users\\fkddn\\OneDrive\\デスクトップ\\cc.ja.300.vec.gz"
-model_path = "/home/kobayashi/word2vec/cc.ja.300.vec.gz"
+#model_path = "/home/kobayashi/word2vec/cc.ja.300.vec.gz"
+model = "test_model"
+#model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False)
 
-model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False)
 
 #spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev], ... ]
 spots_info = get_spotinfo()
@@ -79,5 +81,5 @@ def get_range():
     return str(returned_distance_range)
 
 if __name__ == "__main__":
-#    webbrowser.open('http://localhost:8000')
+    #webbrowser.open('http://localhost:8000')
     app.run(debug=True,host='0.0.0.0', port=8000, threaded=True, use_reloader=False)
