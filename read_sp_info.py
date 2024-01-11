@@ -6,7 +6,7 @@ import csv
 def get_spotinfo():
     # spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev], ... ]
     spots_info = []
-    latlng_info_path = "data\\latlng\\岡山_latlng_review_exist3.csv"
+    latlng_info_path = "data/latlng/岡山_latlng_review_exist3.csv"
 
     with open(latlng_info_path, 'r', encoding='utf-8') as f_latlng:
         reader = csv.reader(f_latlng)
@@ -18,8 +18,8 @@ def get_spotinfo():
                 latlng.append(float(row[2]))
             spots_info.append([sn,latlng])
 
-    aspect_folder_path = "data\\aspects_and_vectors_rm_dup\\岡山\\"
-    read_aspectsVector_path = "data\\spots_aspect_vector\\岡山aspectVector.csv"
+    aspect_folder_path = "data/aspects_and_vectors_rm_dup/岡山/"
+    read_aspectsVector_path = "data/spots_aspect_vector/岡山aspectVector.csv"
 
     spots_aspectsVector = []
     spots_aspectsVector_float = []
@@ -31,7 +31,7 @@ def get_spotinfo():
             spots_aspectsVector_float.append([float(value) for value in spots_aspectsVector[spot_index].replace("[", "").replace("]", "").replace("\n", "").replace(",","").split()])
 
     #レビュー数を読み込みこむ
-    review_num_path  = "data\\number_of_review\\岡山_numOfRview.csv"
+    review_num_path  = "data/number_of_review/岡山_numOfRview.csv"
     with open(review_num_path,"r",encoding="utf-8") as f_r:
         reader = csv.reader(f_r)
         spot_and_numOfrev = {row[0]: int(row[1]) for row in reader}
