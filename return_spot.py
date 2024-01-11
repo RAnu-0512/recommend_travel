@@ -4,7 +4,7 @@ import numpy as np
 
 
 #レビュー数を読み込みこむ
-review_num_path  = "data\\number_of_review\\岡山_numOfRview.csv"
+review_num_path  = "data/number_of_review/岡山_numOfRview.csv"
 with open(review_num_path,"r",encoding="utf-8") as f_r:
     reader = csv.reader(f_r)
     spot_and_numOfrev = {row[0]: int(row[1]) for row in reader}
@@ -49,7 +49,7 @@ def cos_sim(v1, v2):
   else:
     return 0.0
 def return_selected_aspectsVector(selected_aspect_list,selected_aspect_parm_list):
-    read_clustering_path = "data\\all_aspect_clustering\\岡山aspect_clustering_result.csv"
+    read_clustering_path = "data/all_aspect_clustering/岡山aspect_clustering_result.csv"
     #全ての観点のクラスタリング結果から、選択した観点のベクトルを生成
     #含まれる位置で指定されたパラメータ * 1を足す
     list_aspects = []
