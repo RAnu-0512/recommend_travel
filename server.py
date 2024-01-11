@@ -79,6 +79,5 @@ def get_range():
     return str(returned_distance_range)
 
 if __name__ == "__main__":
-    webbrowser.open('http://localhost:8000')
-    app.run(debug=True,host='localhost', port=8000, threaded=True, use_reloader=False)
-
+#    webbrowser.open('http://localhost:8000')
+    app.run(debug=True,host='0.0.0.0', port=8000, threaded=True, use_reloader=False)
