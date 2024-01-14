@@ -12,6 +12,7 @@ function add_selected_aspects() {
                 })
             }
             else console.log("No element selected"); 
+
             if (isAspectInList == 0) addSearchResults(selectedValue);
         })
     });
@@ -27,12 +28,12 @@ function addSearchResults(result) {
 
     const removeButton = document.createElement("span");
     removeButton.className = "remove_button";
-    removeButton.textContent = ' x';
+    removeButton.textContent = '  【削除】';
     removeButton.onclick = function () {
         removeItem(resultElement);
     };
-    resultElement.appendChild(removeButton);
 
+    resultElement.appendChild(removeButton);
     resultsContainer.appendChild(resultElement);
 }
 

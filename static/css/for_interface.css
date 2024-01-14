@@ -2,6 +2,22 @@
     height: 800px;
     width: 1200px;
 }
+#distance_bar {
+    width: 150px; /* 固定したい横幅を指定 */
+    /* その他のスタイルを追加 */
+}
+.recommend_range {
+    display: flex;
+    flex-direction: column;
+}
+
+.recommend_range p output {
+    width: 30px; /* 固定したい output 要素の幅 */
+    display: inline-block; /* インラインブロック要素に設定 */
+    margin-right: 5px; /* output 要素の右側にマージンを追加 */
+}
+
+
 
 
 #recommend_spot_info{
@@ -52,11 +68,6 @@
     align-items: start;
 }
 
-
-.recommend_range {
-    display: flex;
-    align-items: center;
-}
 
 
 .remove_button {

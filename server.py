@@ -26,7 +26,7 @@ app = Flask(__name__)
 
 @app.route("/", methods= ['GET'])
 def return_html_test():
-    print("test sucsess")
+    print("server sucsess")
     return render_template("travel_recommend.html")
 
 @app.route("/send_latlng", methods=['POST'])
@@ -82,4 +82,4 @@ def get_range():
 
 if __name__ == "__main__":
     #webbrowser.open('http://localhost:8000')
-    app.run(debug=True,host='0.0.0.0', port=8000, threaded=True, use_reloader=False)
+    app.run(debug=True,host='0.0.0.0', port=8080, threaded=True, use_reloader=False)

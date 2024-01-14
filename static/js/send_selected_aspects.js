@@ -5,15 +5,17 @@ function send_selected_aspects() {
             const DecideButton = document.getElementById("decide_button")
             DecideButton.removeEventListener("click", clickHandler);
 
-            const distanceBar = document.getElementById('distance_bar');
             const checkboxes = document.querySelectorAll('input[type=checkbox]');
             const AddButton = document.getElementById("add_selected_aspects");
             const SearchForm = document.getElementById("search_form")
             const SearchButton = document.getElementById("submit_query");
+            const removebuttons = document.querySelectorAll(".remove_button");
+            removebuttons.forEach(removeButton => {
+                removeButton.onclick = null;
+            })
             checkboxes.forEach(checkbox => {
                 checkbox.disabled = true;
             })
-            distanceBar.disabled = true;
             AddButton.disabled = true;
             DecideButton.disabled = true;
             SearchButton.disabled = true;
@@ -24,9 +26,9 @@ function send_selected_aspects() {
             const selectedResultsTextArray = []
             selectedResults_Array.forEach(selectedresults_array_n=>{
                 selectedResultsTextArray.push(selectedresults_array_n.textContent)
-                console.log(selectedresults_array_n.textContent)
+                //console.log(selectedresults_array_n.textContent)
             })
-            console.log("最後",selectedResultsTextArray)
+            console.log("選択された観点",selectedResultsTextArray)
             fetch('/process_selected_results', {
                 method: 'POST',
                 headers: {
@@ -42,7 +44,11 @@ function send_selected_aspects() {
                 })
                 .then(data => {
                     console.log(data); // Pythonからの応答を表示
-                    recommend_mode = "select_spot"
+                    recommend_mode = "select_distance"
+                    const distanceBar = document.getElementById('distance_bar');
+                    if (distanceBar.disabled == true){
+                        fix_distance_button.disabled = false;
+                    }
                     resolve();
                 })
                 .catch(error => {
