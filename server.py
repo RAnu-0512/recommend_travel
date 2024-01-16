@@ -5,10 +5,12 @@ from read_sp_info import get_spotinfo
 from return_aspect import return_aspect
 from calculate_distance import calc_near_spot
 from return_spot import return_spot
+import argparse
+
 top_n = 10 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
-# wor2vecモデル読み込み
 
+# wor2vecモデル読み込み
 #model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
 #model_path = "C:/Users/kobayashi/Desktop/小林_B4/プログラムおよびデータ/02.Google Colab/drive/cc.ja.300.vec.gz"
 #model_path = "C:\\Users\\fkddn\\OneDrive\\デスクトップ\\cc.ja.300.vec.gz"
@@ -80,6 +82,27 @@ def get_range():
     print("推薦範囲 : ",  returned_distance_range, "(km)")
     return str(returned_distance_range)
 
+
+
+def parse_args():
+    parser = argparse.ArgumentParser(description='Process some arguments.')
+    parser.add_argument('--port', dest='port_num', type=int, help='Port number to be assigned')
+    args = parser.parse_args()
+    return args
+
+
+def main():
+    args = parse_args()
+    port_num = args.port_num
+
+    if port_num is not None:
+        print(f'Port number is set to {port_num}')
+    else:
+        print('Port number is not provided.')
+
+    #webbrowser.open('http://localhost:'+ port_num)
+    app.run(debug=True,host='0.0.0.0', port=port_num, threaded=True, use_reloader=False)
+
 if __name__ == "__main__":
-    #webbrowser.open('http://localhost:8000')
-    app.run(debug=True,host='0.0.0.0', port=8080, threaded=True, use_reloader=False)
+    main()
+    
