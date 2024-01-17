@@ -10,6 +10,14 @@
     display: flex;
     flex-direction: column;
 }
+.highlighted {
+    background-color: rgb(197, 237, 255); /* ハイライトの背景色 */
+    font-weight: bold; /* 文字を太くする */
+    /* 他にも必要なスタイルを追加 */
+  }
+.unhighlighted{
+    color: rgba(0, 0, 0, 0.6); /* 文字の色を薄くする */
+}
 
 .recommend_range p output {
     width: 30px; /* 固定したい output 要素の幅 */
@@ -18,7 +26,9 @@
 }
 
 
-
+.custom_popup {
+    font-size: 16px; /* 好みに応じて適切なフォントサイズを指定 */
+}
 
 #recommend_spot_info{
     height: 775px;

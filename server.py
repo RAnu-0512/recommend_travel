@@ -98,6 +98,7 @@ def main():
     if port_num is not None:
         print(f'Port number is set to {port_num}')
     else:
+        port_num = 8000
         print('Port number is not provided.')
 
     #webbrowser.open('http://localhost:'+ port_num)

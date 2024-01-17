@@ -33,7 +33,21 @@ const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.pn
 tileLayer.addTo(mymap);
 
 const popups = []; //ポップアップのリスト
+
+
+
+
 function onMapClick(e) {
+    // aspects中にsimilarAspectsが含まれていればaspectsを赤く表示
+    function highlightSimilarAspects(aspects, similarAspects) {
+        // 含まれている場合は強調表示するスタイルを追加
+        const highlightedAspects = aspects.map(aspect => {
+            return similarAspects.includes(aspect) ? '<b><span style="color: red;">' + aspect + '</span></b>' : aspect;
+        });
+
+        // 強調表示した結果を返す
+        return highlightedAspects;
+    }
     // すべてのポップアップを消す関数
     function clearPopups() {
         popups.forEach(popup => {
@@ -47,12 +61,33 @@ function onMapClick(e) {
         var element = document.getElementById("recommend_spot_info");
         element.innerHTML = ""; // 要素内のコンテンツを空にする
     }
+    function findCircleInMap(mymap) {
+        let foundCircle = null;
+    
+        mymap.eachLayer(function (layer) {
+            // サークルかどうかを確認
+            if (layer instanceof L.Circle) {
+                // ここで特定の条件などを使用してサークルを判定
+                // 例: サークルの半径が一定の範囲内かどうかなど
+    
+                // 条件に合致する場合、foundCircleに格納
+                foundCircle = layer;
+            }
+        });
+    
+        return foundCircle;
+    }
+
     //クリック位置経緯度取得
     const cliked_lat = e.latlng.lat;
     const cliked_lng = e.latlng.lng;
+    let circle = findCircleInMap(mymap)
+    if(circle){
+        circle.remove();
+    }
     clearRecommendInfo();
     clearPopups();
-    // マーカー画像の場所を指定する
+    // 場所を指定する(緑色)
     const selectedPopup = L.marker([cliked_lat, cliked_lng], { icon: greenIcon }).addTo(mymap).bindPopup("選択された位置").openPopup();
     popups.push(selectedPopup)
     console.log("cliked : ", cliked_lat, cliked_lng)
@@ -72,24 +107,89 @@ function onMapClick(e) {
             return res.json()
         })
         .then(data => {
-            console.log(data);
+            console.log("推薦された全スポット情報", data);
             data.forEach((element, index) => {
-                console.log(element)
+                console.log("スポットの情報", element)
+                var similarAspects = element.similar_aspects
+                var spotAspectPopup = "<b>[" + (index + 1) + "]" + element.spot_name + "</b><br>" + highlightSimilarAspects(element.aspects, similarAspects).join(",");
 
-                var popupContent = "<b>[" + (index + 1) + "]" + element.spot_name + "</b><br>" + element.aspects.join(",");
-                const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(popupContent).openPopup();
+                const popupId = "popup_" + index;
+                const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId });
                 popups.push(marker)
+
                 const recommendSpotInfo = document.getElementById("recommend_spot_info");
                 const popupInfo = document.createElement("div");
-                popupInfo.innerHTML = popupContent;
+                popupInfo.innerHTML = spotAspectPopup;
+                popupInfo.dataset.popupId = popupId; // 表示するスポット情報に，マップのポップアップIDを設定
                 recommendSpotInfo.appendChild(popupInfo);
-                // クリックイベントハンドラを追加
-                popupInfo.addEventListener("click", () => {
-                    // 対応するポップアップに移動
-                    mymap.panTo([element.lat, element.lng]);
-                    marker.openPopup();
+
+                //map中のピンがクリックされた時のイベント追加
+                marker.on("popupopen", () => {
+                    console.log("popup opened!")
+                    //console.log(recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]'))
+                })
+                marker.on('popupclose', () => {
+                    // ポップアップが閉じられたときの処理
+                    console.log('Popup closed!');
+                    //console.log(recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]'))
                 });
+                // スポット情報がクリックされたときのイベント追加
+                popupInfo.addEventListener("click", () => {
+                    if (popupInfo.classList.contains("highlighted")) {
+                        popups.forEach(marker => {
+                            marker.closePopup(); // ポップアップを閉じる
+                        });
+                        recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+                            element.classList.value = "";
+                        });
+                    }
+                    else {
+                        const findMarker = popups.find(marker => marker._popup.options.id === popupId);
+                        // 対応するポップアップに移動
+                        if (findMarker) {
+                            mymap.panTo(findMarker.getLatLng());
+                            findMarker.openPopup();
+                        }
+
+                        // recommend_spot_info内の全ての要素から強調表示を削除
+                        recommendSpotInfo.querySelectorAll(".highlighted").forEach(element => {
+                            element.classList.remove("highlighted");
+                            element.classList.remove("unhighlighted");
+                        });
+
+                        // クリックされたポップアップの情報を強調表示
+                        popupInfo.classList.remove("unhighlighted");
+                        popupInfo.classList.add("highlighted");
+
+
+                        var AllSpotsAspectsInfo = recommendSpotInfo.getElementsByTagName("div");
+                        // <div> 要素に対して処理を実行
+                        for (var i = 0; i < AllSpotsAspectsInfo.length; i++) {
+                            var divElement = AllSpotsAspectsInfo[i];
+
+                            // highlighted クラスが付与されていない場合に unhighlighted クラスを追加
+                            if (!divElement.classList.contains("highlighted")) {
+                                divElement.classList.add("unhighlighted");
+                            }
+                        }
+                    }
+
+                });
+
             });
+            // マップ上の中心座標（例：東京タワーの座標）
+            const centerCoordinates = [cliked_lat, cliked_lng];
+            // 半径50kmの円を描画
+            const distance = document.getElementById('distance_bar').value;
+            const circle = L.circle(centerCoordinates, {
+                radius: distance * 1000, // 半径50km
+                color: 'rgba(255, 0, 0, 0.3)',
+                fillColor: 'rgba(255, 0, 0, 0.1)', // 赤色で透明度0.2
+                fillOpacity: 0.5
+            }).addTo(mymap);
+
+            // 地図を指定された半径の範囲にズームアップ
+            mymap.fitBounds(circle.getBounds());
             recommend_mode = "end_recommend"
         })
         .catch(error => {
