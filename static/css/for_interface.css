@@ -2,35 +2,79 @@
     height: 800px;
     width: 1200px;
 }
+
 #distance_bar {
-    width: 150px; /* 固定したい横幅を指定 */
+    width: 150px;
+    /* 固定したい横幅を指定 */
     /* その他のスタイルを追加 */
 }
+
 .recommend_range {
     display: flex;
     flex-direction: column;
 }
+
 .highlighted {
-    background-color: rgb(197, 237, 255); /* ハイライトの背景色 */
-    font-weight: bold; /* 文字を太くする */
-    /* 他にも必要なスタイルを追加 */
-  }
-.unhighlighted{
-    color: rgba(0, 0, 0, 0.6); /* 文字の色を薄くする */
+    background-color: rgb(197, 237, 255);
+    /* ハイライトの背景色 */
+    font-weight: bold;
+    /* 文字を太くする */
+}
+
+.unhighlighted {
+    color: rgba(0, 0, 0, 0.6);
+    /* 文字の色を薄くする */
+}
+
+.button{
+    background-color: rgb(252, 255, 206);
+    border-radius: 8px;
+    border-color : rgba(252, 255, 206, 0.912);
+    font-weight: bold; 
+}
+
+
+.reesthbutton {
+    background-color: red;
+    border-color: rgba(255, 0, 0, 0.81);
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    height: 25px;
+    width: 150px;
+    margin-left: 955px;
+    /* output 要素の右側にマージンを追加 */
 }
 
 .recommend_range p output {
-    width: 30px; /* 固定したい output 要素の幅 */
-    display: inline-block; /* インラインブロック要素に設定 */
-    margin-right: 5px; /* output 要素の右側にマージンを追加 */
+    width: 30px;
+    /* 固定したい output 要素の幅 */
+    display: inline-block;
+    /* インラインブロック要素に設定 */
+    margin-right: 5px;
+    /* output 要素の右側にマージンを追加 */
 }
 
 
 .custom_popup {
-    font-size: 16px; /* 好みに応じて適切なフォントサイズを指定 */
+    font-size: 16px;
+    /* 好みに応じて適切なフォントサイズを指定 */
 }
 
-#recommend_spot_info{
+#explain {
+    border-bottom: 2px solid grey;
+    /* 下線のスタイルと色を指定 */
+    display: inline;
+    /* ブロック要素からインライン要素に変更 */
+    padding-bottom: 2px;
+    /* 下線とテキストの間隔を調整 */
+}
+
+#search_keyword {
+    width: 200px;
+}
+
+#recommend_spot_info {
     height: 775px;
     width: 400px;
     cursor: pointer;
@@ -38,36 +82,48 @@
     overflow-y: scroll;
 }
 
-#recommend_spot_info_header{
+#recommend_spot_info_header {
     height: 25px;
     width: 400px;
     font-size: 24px;
     text-align: center;
+    font-weight: bold;
+    /* 太字にする */
+
 }
 
-#map_info{
+
+#map_info {
     display: flex;
 }
+
 #send_selected_results {
     display: end;
     /* 初期状態で非表示 */
 }
 
 #makecheckboxes {
-    width: 300px; /* 任意の幅を指定 */
-    height: 100px; /* 任意の高さを指定 */
+    width: 300px;
+    /* 任意の幅を指定 */
+    height: 100px;
+    /* 任意の高さを指定 */
     overflow-y: scroll;
     background-color: Seashell;
 }
-#search_keyword{
+
+#search_keyword {
     height: 25px;
 }
-#head-selected_results{
+
+#head-selected_results {
     height: 25px;
 }
-#selected_results{
-    width: 300px; /* 任意の幅を指定 */
-    height: 100px; /* 任意の高さを指定 */
+
+#selected_results {
+    width: 300px;
+    /* 任意の幅を指定 */
+    height: 100px;
+    /* 任意の高さを指定 */
     overflow-y: scroll;
     background-color: Seashell;
 }
@@ -76,6 +132,8 @@
 .parameters {
     display: flex;
     align-items: start;
+    margin-top: 10px;
+    /* 上部のマージンを設定 */
 }
 
 

@@ -123,15 +123,21 @@ function onMapClick(e) {
                 popupInfo.dataset.popupId = popupId; // 表示するスポット情報に，マップのポップアップIDを設定
                 recommendSpotInfo.appendChild(popupInfo);
 
-                //map中のピンがクリックされた時のイベント追加
+                //map中のピンが上がった場合と下がった場合の処理
                 marker.on("popupopen", () => {
                     console.log("popup opened!")
-                    //console.log(recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]'))
+                    recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+                        element.classList.value = "unhighlighted";
+                    });
+                    recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]').classList.value = "highlighted"
+                    
                 })
                 marker.on('popupclose', () => {
                     // ポップアップが閉じられたときの処理
                     console.log('Popup closed!');
-                    //console.log(recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]'))
+                    recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+                        element.classList.value = "";
+                    });
                 });
                 // スポット情報がクリックされたときのイベント追加
                 popupInfo.addEventListener("click", () => {
@@ -198,6 +204,10 @@ function onMapClick(e) {
 }
 
 
+
+document.getElementById('resetButton').addEventListener('click', function() {
+    location.reload();
+});
 
 
 range_bar_always();

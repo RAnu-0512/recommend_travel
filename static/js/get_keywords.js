@@ -1,6 +1,6 @@
 //検索キーワードを取る
 function get_keyword() {
-    document.getElementById('search_form').addEventListener('submit', function (e){
+    document.getElementById('search_form').addEventListener('submit', function (e) {
         e.preventDefault(); // ページの再読み込みを防ぐ
         const search_keyword = document.getElementById("search_keyword").value;
         console.log(search_keyword)
@@ -41,6 +41,9 @@ function displaySearchResults(results) {
         checkbox.name = "search_result";
         checkbox.className = "search_result";
         checkbox.value = result.value; // 結果の値をセット
+        // チェックボックスのサイズを変更
+        checkbox.style.width = "15px"; // 任意のサイズに変更
+        checkbox.style.height = "15px"; // 任意のサイズに変更
         resultElement.appendChild(checkbox);
 
         const label = document.createElement('label');
