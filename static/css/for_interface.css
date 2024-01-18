@@ -4,11 +4,8 @@
 }
 
 #distance_bar {
-    width: 150px;
-    /* 固定したい横幅を指定 */
-    /* その他のスタイルを追加 */
+    width: 100%;
 }
-
 .recommend_range {
     display: flex;
     flex-direction: column;
@@ -27,22 +24,57 @@
 }
 
 .button{
-    background-color: rgb(252, 255, 206);
-    border-radius: 8px;
-    border-color : rgba(252, 255, 206, 0.912);
-    font-weight: bold; 
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 5px;
+    text-align: center;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.button:disabled {
+    opacity: 0.4; /* 透明度を調整して薄く表示 */
+    cursor: not-allowed; /* カーソルを変更してクリックを無効に */
+}
+#makecheckboxes {
+    margin-top: 10px;
 }
 
+#add_selected_aspects {
+    margin-top: 10px;
+}
+.button:hover {
+    background-color: #45a049;
+}
+#selected_range {
+    font-weight: bold;
+    font-size: 18px;
+}
+/* 選択結果のスタイル */
+.selected_results {
+    margin-top: 15px;
+    margin-right: 5px;
+}
+#fix_distance{
+    margin-top: 2px;
+}
 
+.fixed-button-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+}
 .reesthbutton {
     background-color: red;
     border-color: rgba(255, 0, 0, 0.81);
     border-radius: 8px;
     color: white;
     font-weight: bold;
-    height: 25px;
+    height: 35px;
     width: 150px;
-    margin-left: 955px;
     /* output 要素の右側にマージンを追加 */
 }
 
@@ -71,14 +103,22 @@
 }
 
 #search_keyword {
-    width: 200px;
+    width: 70%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+/* 地図コンテナの角を丸める */
+.leaflet-container {
+    border-radius: 20px; /* 任意の丸みの半径を指定 */
+    overflow: hidden; /* 丸みがはみ出ないようにoverflowをhiddenに設定 */
 }
 
 #recommend_spot_info {
     height: 775px;
     width: 400px;
     cursor: pointer;
-    background-color: seashell;
+    background-color: rgb(241, 241, 241);
     overflow-y: scroll;
 }
 
@@ -108,15 +148,20 @@
     height: 100px;
     /* 任意の高さを指定 */
     overflow-y: scroll;
-    background-color: Seashell;
+    background-color: rgb(241, 241, 241);
 }
 
 #search_keyword {
     height: 25px;
 }
 
+.search_form{
+    margin-right: 5px;
+}
+
 #head-selected_results {
     height: 25px;
+    font-weight: bold;
 }
 
 #selected_results {
@@ -125,7 +170,7 @@
     height: 100px;
     /* 任意の高さを指定 */
     overflow-y: scroll;
-    background-color: Seashell;
+    background-color: rgb(241, 241, 241);
 }
 
 
@@ -135,7 +180,14 @@
     margin-top: 10px;
     /* 上部のマージンを設定 */
 }
-
+.parameters {
+    max-width: 800px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
 
 
 .remove_button {
