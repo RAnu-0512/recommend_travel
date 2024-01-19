@@ -78,6 +78,7 @@ function onMapClick(e) {
         return foundCircle;
     }
 
+
     //クリック位置経緯度取得
     const cliked_lat = e.latlng.lat;
     const cliked_lng = e.latlng.lng;
@@ -110,43 +111,42 @@ function onMapClick(e) {
             console.log("推薦された全スポット情報", data);
             data.forEach((element, index) => {
                 console.log("スポットの情報", element)
-                var similarAspects = element.similar_aspects
-                var spotAspectPopup = "<b>[" + (index + 1) + "]" + element.spot_name + "</b><br>" + highlightSimilarAspects(element.aspects, similarAspects).join(",");
-
+                const similarAspects = element.similar_aspects
+                const spotAspectPopup = "<b>[" + (index + 1) + "] <a href='" + element.url + "' target='_blank'>" + element.spot_name + "</a></b><br>" 
+                const spotAspectExplain = "<b>[" + (index + 1) + "]" + element.spot_name + "</b><br>" + highlightSimilarAspects(element.aspects, similarAspects).join(",");
                 const popupId = "popup_" + index;
                 const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId });
                 popups.push(marker)
 
                 const recommendSpotInfo = document.getElementById("recommend_spot_info");
                 const popupInfo = document.createElement("div");
-                popupInfo.innerHTML = spotAspectPopup;
+                popupInfo.innerHTML = spotAspectExplain;
                 popupInfo.dataset.popupId = popupId; // 表示するスポット情報に，マップのポップアップIDを設定
+                popupInfo.className = "normal_info"
                 recommendSpotInfo.appendChild(popupInfo);
 
                 //map中のピンが上がった場合と下がった場合の処理
                 marker.on("popupopen", () => {
-                    console.log("popup opened!")
                     recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
-                        element.classList.value = "unhighlighted";
+                        element.classList.value = "unhighlighted_info";
                     });
-                    recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]').classList.value = "highlighted"
-                    
+                    const select_spotinfo = recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]')
+                    select_spotinfo.classList.value = "highlighted_info"
+                    recommendSpotInfo.scrollTop = select_spotinfo.offsetTop - recommendSpotInfo.offsetTop;
                 })
                 marker.on('popupclose', () => {
-                    // ポップアップが閉じられたときの処理
-                    console.log('Popup closed!');
                     recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
-                        element.classList.value = "";
+                        element.classList.value = "normal_info";
                     });
                 });
                 // スポット情報がクリックされたときのイベント追加
                 popupInfo.addEventListener("click", () => {
-                    if (popupInfo.classList.contains("highlighted")) {
+                    if (popupInfo.classList.contains("highlighted_info")) {
                         popups.forEach(marker => {
                             marker.closePopup(); // ポップアップを閉じる
                         });
                         recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
-                            element.classList.value = "";
+                            element.classList.value = "normal_info";
                         });
                     }
                     else {
@@ -158,14 +158,14 @@ function onMapClick(e) {
                         }
 
                         // recommend_spot_info内の全ての要素から強調表示を削除
-                        recommendSpotInfo.querySelectorAll(".highlighted").forEach(element => {
-                            element.classList.remove("highlighted");
-                            element.classList.remove("unhighlighted");
+                        recommendSpotInfo.querySelectorAll(".highlighted_info").forEach(element => {
+                            element.classList.remove("highlighted_info");
+                            element.classList.remove("unhighlighted_info");
                         });
 
                         // クリックされたポップアップの情報を強調表示
-                        popupInfo.classList.remove("unhighlighted");
-                        popupInfo.classList.add("highlighted");
+                        popupInfo.classList.remove("unhighlighted_info");
+                        popupInfo.classList.add("highlighted_info");
 
 
                         var AllSpotsAspectsInfo = recommendSpotInfo.getElementsByTagName("div");
@@ -174,8 +174,8 @@ function onMapClick(e) {
                             var divElement = AllSpotsAspectsInfo[i];
 
                             // highlighted クラスが付与されていない場合に unhighlighted クラスを追加
-                            if (!divElement.classList.contains("highlighted")) {
-                                divElement.classList.add("unhighlighted");
+                            if (!divElement.classList.contains("highlighted_info")) {
+                                divElement.classList.add("unhighlighted_info");
                             }
                         }
                     }
@@ -265,6 +265,7 @@ document.getElementById('fix_aspect').addEventListener('click', async function (
         const SearchButton = document.getElementById("submit_query");
         const removebuttons = document.querySelectorAll(".remove_button");
         const distanceBar = document.getElementById('distance_bar');
+        const recommend_aspect_button =  document.getElementById("recommend_aspect_button");
         if (AddButton.disabled == true | DecideButton.disabled == true | SearchButton.disabled == true | SearchForm.disabled == true) {
             // 各 remove_button 要素に対してクリックイベントリスナーを追加
             removebuttons.forEach(removeButton => {
@@ -280,6 +281,7 @@ document.getElementById('fix_aspect').addEventListener('click', async function (
             DecideButton.disabled = false;
             SearchButton.disabled = false;
             SearchForm.disabled = false;
+            recommend_aspect_button.disabled = false;
             fix_distance_button.disabled = true;
             await send_selected_aspects();
             fix_distance_button.disabled = false;

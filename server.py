@@ -2,7 +2,7 @@ from flask import Flask, render_template, jsonify, request, url_for,redirect
 import webbrowser
 import gensim
 from read_sp_info import get_spotinfo
-from return_aspect import return_aspect
+from return_aspect import return_aspect,popular_aspects
 from calculate_distance import calc_near_spot
 from return_spot import return_spot
 import argparse
@@ -10,16 +10,17 @@ import argparse
 top_n = 10 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
 
+print(".....モデル読み込み中")
 # wor2vecモデル読み込み
-#model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
+model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
 #model_path = "C:/Users/kobayashi/Desktop/小林_B4/プログラムおよびデータ/02.Google Colab/drive/cc.ja.300.vec.gz"
 #model_path = "C:\\Users\\fkddn\\OneDrive\\デスクトップ\\cc.ja.300.vec.gz"
 #model_path = "/home/kobayashi/word2vec/cc.ja.300.vec.gz"
-model = "test_model"
-#model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False)
+#model = "test_model"  #テストするときのモデル
+model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False)
+print(".....モデル読み込み完了!!")
 
-
-#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev], ... ]
+#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
 spots_info = get_spotinfo()
 returned_aspect_list = []
 returned_distance_range = 0
@@ -36,7 +37,7 @@ def send_latlng():
     data = request.get_json()
     lat = float(data.get('cliked_lat'))
     lng = float(data.get('cliked_lng'))
-    recommend_spots = return_spot(lat,lng,returned_distance_range,returned_aspect_list,spots_info,top_n) #形式 : [[spot_name,[lat,lng],aspects,[similar_aspect],score], ...]
+    recommend_spots = return_spot(lat,lng,returned_distance_range,returned_aspect_list,spots_info,top_n) #形式 : [[spot_name,[lat,lng],aspects,[similar_aspect],score,url], ...]
     print("recommend_spots: ", recommend_spots)
     response_data = []
     #    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
@@ -47,7 +48,8 @@ def send_latlng():
             "lng" : recommend_spot[1][1],
             "aspects" : recommend_spot[2],
             "similar_aspects" : recommend_spot[3],
-            "score" : recommend_spot[4]
+            "score" : recommend_spot[4],
+            "url" : recommend_spot[5]
         }
         response_data.append(converted_data)
         print("converted_data : ",converted_data)
@@ -61,6 +63,13 @@ def get_search_keyword():
     results = return_aspect(user_input.get("search_keyword"),spots_info,aspect_top_n,model)
     checkboxes = [{"label": result, "value": result} for result in results]
     return jsonify({"keyword": checkboxes})
+
+@app.route("/recommend_aspects",methods = ["POST"])
+def recommend_aspects():
+    print("recommend aspects")
+    recommended_aspects = popular_aspects(spots_info,aspect_top_n)
+    return_aspects = [{"label": result, "value": result} for result in recommended_aspects]
+    return jsonify({"recommend_aspects": return_aspects})
 
 @app.route("/process_selected_results", methods=["POST"])
 def process_selected_results():

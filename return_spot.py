@@ -12,8 +12,8 @@ max_review_num = max(spot_and_numOfrev.values())
 
 
 #スコアが高いtop nスポットのスポットを返却
-#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev], ... ]
-#形式は[[spot_name,[lat,lng],aspects,score], ...]
+#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
+#形式は[[spot_name,[lat,lng],aspects,score,url], ...]
 def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, spots_info,n):
     recommend_spots_info = []
     for spot_info in spots_info:
@@ -25,6 +25,7 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         cluster_vec_list = spot_info[4]
         spots_aspectsVector = spot_info[5]
         spot_numOfRev = spot_info[6]
+        spot_url = spot_info[7]
         if haversine_distance(selected_lat,selected_lng,lat,lng) <= recommend_range:
             selected_aspects_parm = [1] * len(selected_aspect_list)
             selected_aspectsVector,check_needed_aspect = return_selected_aspectsVector(selected_aspect_list,selected_aspects_parm)
@@ -34,8 +35,8 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                 for aspect in aspect_list:
                     if aspect in check_needed_aspect:
                         similar_aspects.append(aspect)
-                recommend_spots_info.append([sn,[lat,lng],aspect_list,similar_aspects,score])
-        sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[-1],reverse=True)
+                recommend_spots_info.append([sn,[lat,lng],aspect_list,similar_aspects,score,spot_url])
+        sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[4],reverse=True)
     if len(sorted_recommend_spots_info) <= n:
         #print("return_spot : " ,sorted_recommend_spots_info)
         return sorted_recommend_spots_info

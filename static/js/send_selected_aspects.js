@@ -10,6 +10,7 @@ function send_selected_aspects() {
             const SearchForm = document.getElementById("search_form")
             const SearchButton = document.getElementById("submit_query");
             const removebuttons = document.querySelectorAll(".remove_button");
+            const recommend_aspect_button =  document.getElementById("recommend_aspect_button")
             removebuttons.forEach(removeButton => {
                 removeButton.onclick = null;
             })
@@ -20,7 +21,7 @@ function send_selected_aspects() {
             DecideButton.disabled = true;
             SearchButton.disabled = true;
             SearchForm.disabled = true;
-            
+            recommend_aspect_button.disabled = true;
             const selectedResults = document.getElementsByClassName('selected_result');
             const selectedResults_Array = Array.from(selectedResults);
             const selectedResultsTextArray = []

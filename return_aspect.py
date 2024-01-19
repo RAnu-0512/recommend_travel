@@ -4,6 +4,7 @@ import ipadic
 import re
 import numpy as np
 from collections import defaultdict
+import random
 
 def tokenize(text):
     tokenizer = MeCab.Tagger(f"-Owakati {ipadic.MECAB_ARGS}")
@@ -56,27 +57,44 @@ def add_list_int(list1,list2):
     return [x + y for x, y in zip(list1, list2)]
 def divide_list_int(list1,num1):
     return [x/num1 for x in list1]
-#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev], ... ]
+
+
+#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
 #上位top_nの観点を返す[観点1,観点2,観点3, ... ]
 #クエリと似ている観点を返す
-# def return_aspect(query,spots_info,aspect_top_n,model):
-#     result = []
-#     all_aspectsAndvector = []
-#     for spot in spots_info:
-#         aspects = spot[2]
-#         vectors = spot[3]
-#         for aspect,vector in zip(aspects,vectors):
-#             all_aspectsAndvector.append([aspect,vector])
-#     all_aspectsAndvector = deduplication(all_aspectsAndvector)
-#     all_aspects_score = calc_aspect_score(query,all_aspectsAndvector,model)
-
-#     sorted_aspect = sorted(zip(all_aspectsAndvector,all_aspects_score), key=lambda x:x[-1],reverse=True)
-#     result = [item[0][0] for item in sorted_aspect[:aspect_top_n]]
-#     return result
-
-#テスト関数
 def return_aspect(query,spots_info,aspect_top_n,model):
-    return ["自然","絶景","温泉","ひな祭り","自転車","散策","神社","子供","家族","ホテル"]
+    result = []
+    all_aspectsAndvector = []
+    for spot in spots_info:
+        aspects = spot[2]
+        vectors = spot[3]
+        for aspect,vector in zip(aspects,vectors):
+            all_aspectsAndvector.append([aspect,vector])
+    all_aspectsAndvector = deduplication(all_aspectsAndvector)
+    all_aspects_score = calc_aspect_score(query,all_aspectsAndvector,model)
+
+    sorted_aspect = sorted(zip(all_aspectsAndvector,all_aspects_score), key=lambda x:x[-1],reverse=True)
+    result = [item[0][0] for item in sorted_aspect[:aspect_top_n]]
+    return result
+
+# #テスト関数
+# def return_aspect(query,spots_info,aspect_top_n,model):
+#     return ["自然","絶景","温泉","ひな祭り","自転車","散策","神社","子供","家族","ホテル"]
+
+def popular_aspects(spots_info,n):
+  min_numberOfaspects = 10
+
+  all_aspect_dict = {}
+  for spot_info in spots_info:
+    for aspect in spot_info[2]:
+      # 観点が辞書に存在するか確認
+      if aspect in all_aspect_dict:
+          all_aspect_dict[aspect] += 1
+      else:
+        all_aspect_dict[aspect] = 1
+  popular_aspects = [key for key, value in all_aspect_dict.items() if value >= min_numberOfaspects]
+  recommend_aspect = random.sample(popular_aspects, k=n)
+  return recommend_aspect
 
 def calc_aspect_score(query,all_aspects_vectors,model):
     score_list = []

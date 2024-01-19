@@ -4,10 +4,9 @@ import csv
 
 #県のスポットの情報を読み込む
 def get_spotinfo():
-    # spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev], ... ]
+    # spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
     spots_info = []
     latlng_info_path = "data/latlng/岡山_latlng_review_exist3.csv"
-
     with open(latlng_info_path, 'r', encoding='utf-8') as f_latlng:
         reader = csv.reader(f_latlng)
         for row in reader:
@@ -36,6 +35,12 @@ def get_spotinfo():
         reader = csv.reader(f_r)
         spot_and_numOfrev = {row[0]: int(row[1]) for row in reader}
 
+    #スポットのurlを読み込む
+    url_info_path = "data/url/岡山_Spots_url_exist_3.csv"
+    with open(url_info_path,"r",encoding="utf-8") as f_r:
+        reader = csv.reader(f_r)
+        url_info = {row[0]: row[1] for row in reader}
+
     for spot_index in range(len(spots_info)):
 #        print(spots_info[spot_index][0])
         aspect_path = aspect_folder_path + spots_info[spot_index][0] + "_aspects_vecs_deleted.csv"
@@ -62,6 +67,6 @@ def get_spotinfo():
         spots_info[spot_index].append(cluster_vec_float)
         spots_info[spot_index].append(spots_aspectsVector_float[spot_index])
         spots_info[spot_index].append(spot_and_numOfrev.get(spots_info[spot_index][0],None))
-
+        spots_info[spot_index].append(url_info.get(spots_info[spot_index][0],None))
     return spots_info
 

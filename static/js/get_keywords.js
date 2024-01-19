@@ -27,6 +27,30 @@ function get_keyword() {
                 console.error('エラー:', error);
             });
     });
+
+    document.getElementById("recommend_aspect_button").addEventListener("click", () => {
+        console.log("aspect recommend button clicked!")
+        fetch('/recommend_aspects', {
+            method: 'POST', // または 'GET'、サーバーの要件に合わせて設定
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ search_keyword: search_keyword }), // サーバーに送信するデータ
+        })
+            .then((res) => {
+                if (!res.ok) {
+                    throw new Error("fetchに失敗しました");
+                }
+                return res.json()
+            })
+            .then(data => {
+                console.log(data); // Pythonからの観点を返却
+                displaySearchResults(data.recommend_aspects);
+            })
+            .catch(error => {
+                console.error('エラー:', error);
+            });
+    });
 }
 
 //リザルトをチェックボックスで表示
@@ -42,8 +66,8 @@ function displaySearchResults(results) {
         checkbox.className = "search_result";
         checkbox.value = result.value; // 結果の値をセット
         // チェックボックスのサイズを変更
-        checkbox.style.width = "15px"; // 任意のサイズに変更
-        checkbox.style.height = "15px"; // 任意のサイズに変更
+        checkbox.style.width = "17px"; // 任意のサイズに変更
+        checkbox.style.height = "17px"; // 任意のサイズに変更
         resultElement.appendChild(checkbox);
 
         const label = document.createElement('label');

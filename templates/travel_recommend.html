@@ -19,7 +19,8 @@
             <input type="search" id="search_keyword" name="search_keyword" placeholder="検索キーワード・文を入力">
             <input type="submit" class="button" id="submit_query" name="submit" value="検索">
             <div id="makecheckboxes"></div>
-            <input type="button" class="button" id="add_selected_aspects" value="観点を追加">
+            <input type="button" class = "button" id="add_selected_aspects" value="観点を追加">
+            <input type="button" class = "recommend_aspect_button" id = "recommend_aspect_button" value="オススメの観点" >
         </form>
         <div class="selected_results">
             <div id="head-selected_results">選択した観点</div>
@@ -35,12 +36,12 @@
         </div>
     </div>
     <div class="fixed-button-container">
-        <input type="button" class="reesthbutton" name="resetButton" id="resetButton" value="全てをリセット">
+        <input type="button" class="resetButton" name="resetButton" id="resetButton" value="全てをリセット">
     </div>
     <div id="map_info">
         
         <div id="mapid"></div>
-        <div>
+        <div id = "recommend_spot_info_frame">
             <div id="recommend_spot_info_header">推薦されたスポット</div>
             <div id="recommend_spot_info"></div>
         </div>
