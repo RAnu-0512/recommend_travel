@@ -11,11 +11,15 @@ top_n = 10 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
 
 print(".....モデル読み込み中")
-# wor2vecモデル読み込み
+# wor2vecモデル読み込み   :  絶対パス
 #model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
-model_path = "C:/Users/kobayashi/Desktop/小林_B4/プログラムおよびデータ/02.Google Colab/drive/cc.ja.300.vec.gz"
+#model_path = "C:/Users/kobayashi/Desktop/小林_B4/プログラムおよびデータ/02.Google Colab/drive/cc.ja.300.vec.gz"
 #model_path = "C:\\Users\\fkddn\\OneDrive\\デスクトップ\\cc.ja.300.vec.gz"
 #model_path = "/home/kobayashi/word2vec/cc.ja.300.vec.gz"
+
+#相対パス(relative_path)
+model_path = "../word2vec/cc.ja.300.vec.gz"
+
 #model = "test_model"  #テストするときのモデル
 model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False)
 print(".....モデル読み込み完了!!")
