@@ -112,7 +112,9 @@ function onMapClick(e) {
             data.forEach((element, index) => {
                 console.log("スポットの情報", element)
                 const similarAspects = element.similar_aspects
-                const spotAspectPopup = "<b>[" + (index + 1) + "] <a href='" + element.url + "' target='_blank'>" + element.spot_name + "</a></b><br>" 
+                const photo_url = "../../data/photo/岡山/" + element.spot_name + ".jpg";
+                console.log(photo_url);
+                const spotAspectPopup = "<b>[" + (index + 1) + "] <a href='" + element.url + "' target='_blank'>" + element.spot_name + "</a></b><br>" + "<img src='" + photo_url + "' alt='写真'>";
                 const spotAspectExplain = "<b>[" + (index + 1) + "]" + element.spot_name + "</b><br>" + highlightSimilarAspects(element.aspects, similarAspects).join(",");
                 const popupId = "popup_" + index;
                 const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId });
