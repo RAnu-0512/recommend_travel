@@ -45,9 +45,13 @@
 # プログラム実行方法
 python server.pyでプログラムが実行される
 
+python server.py --port ____　でポート番号を指定することができる
+
 但し、"../wordvec/"のパスに事前に用意したword2vecのベクトルモデルが必要である
 
 以下のURLで事前に学習済みの単語ベクトルを獲得できる
 
 https://fasttext.cc/docs/en/crawl-vectors.html
+
+フロントエンドはJavaScript、バックエンドはPythonで、Flaskを利用して構築している
 
