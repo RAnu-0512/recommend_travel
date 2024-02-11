@@ -131,8 +131,9 @@ function onMapClick(e) {
                 loadSpotImage(photo_url, noImageUrl)
                     .then((imageUrl) => {
                         imgElement.src = imageUrl;
-                        const spotAspectPopup = "<b>[" + (index + 1) + "] <a href='" + element.url + "' target='_blank'>" + element.spot_name + "</a></b><br>" + imgElement.outerHTML
-                        const spotAspectExplain = "<b>[" + (index + 1) + "]" + element.spot_name + "</b><br>" + highlightSimilarAspects(element.aspects, similarAspects).join(",");
+                        const replaced_spot_name = element.spot_name.replace("second","").replace("third","");
+                        const spotAspectPopup = "<b>[" + (index + 1) + "] <a href='" + element.url + "' target='_blank'>" + replaced_spot_name + "</a></b><br>" + imgElement.outerHTML
+                        const spotAspectExplain = "<b>[" + (index + 1) + "]" + replaced_spot_name + "</b><br>" + highlightSimilarAspects(element.aspects, similarAspects).join(",");
                         const popupId = "popup_" + index;
                         const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId })
                         popups.push(marker)
