@@ -1,4 +1,4 @@
-#map_info{
+#map_info {
     height: 650px;
 }
 
@@ -11,7 +11,7 @@
     width: 100%;
 }
 
-.header{
+.header {
     margin-top: -10px;
     margin-bottom: -20px;
 }
@@ -49,7 +49,7 @@
     /* 文字の色を薄くする */
 }
 
-.normal_info{
+.normal_info {
     font-weight: bold;
     margin-top: 2px;
     margin-bottom: 2px;
@@ -81,6 +81,7 @@
     cursor: not-allowed;
     /* カーソルを変更してクリックを無効に */
 }
+
 .button:hover {
     background-color: rgb(12, 116, 10);
 }
@@ -92,9 +93,11 @@
 #add_selected_aspects {
     margin-top: 3px;
 }
+
 #decide_button {
     margin-top: 3px;
 }
+
 #fix_aspect {
     margin-top: 3px;
 }
@@ -153,6 +156,7 @@
     cursor: not-allowed;
     /* カーソルを変更してクリックを無効に */
 }
+
 .recommend_aspect_button:hover {
     background-color: rgb(10, 86, 116);
 }
@@ -170,6 +174,11 @@
 .custom_popup {
     font-size: 16px;
     /* 好みに応じて適切なフォントサイズを指定 */
+}
+
+.selected_latlng{
+    font-size: 16px;
+    font-weight: bold;
 }
 
 #explain {
@@ -196,7 +205,7 @@
     /* 丸みがはみ出ないようにoverflowをhiddenに設定 */
 }
 
-#recommend_spot_info_frame{
+#recommend_spot_info_frame {
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 20px;
@@ -287,4 +296,25 @@
 .remove_button {
     cursor: pointer;
     color: black;
+}
+
+
+.leaflet-popup-content {
+    max-width: 200px; 
+    word-wrap: break-word; 
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.leaflet-popup-content-wrapper {
+    text-align: center;
+}
+
+.leaflet-popup-content img {
+    max-width: 200px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
 }

@@ -63,33 +63,31 @@ function onMapClick(e) {
     }
     function findCircleInMap(mymap) {
         let foundCircle = null;
-    
+
         mymap.eachLayer(function (layer) {
             // サークルかどうかを確認
             if (layer instanceof L.Circle) {
                 // ここで特定の条件などを使用してサークルを判定
                 // 例: サークルの半径が一定の範囲内かどうかなど
-    
+
                 // 条件に合致する場合、foundCircleに格納
                 foundCircle = layer;
             }
         });
-    
+
         return foundCircle;
     }
-
-
     //クリック位置経緯度取得
     const cliked_lat = e.latlng.lat;
     const cliked_lng = e.latlng.lng;
     let circle = findCircleInMap(mymap)
-    if(circle){
+    if (circle) {
         circle.remove();
     }
     clearRecommendInfo();
     clearPopups();
     // 場所を指定する(緑色)
-    const selectedPopup = L.marker([cliked_lat, cliked_lng], { icon: greenIcon }).addTo(mymap).bindPopup("選択された位置").openPopup();
+    const selectedPopup = L.marker([cliked_lat, cliked_lng], { icon: greenIcon }).addTo(mymap).bindPopup("選択された位置",{ className: 'selected_latlng', id: "popup_selected" }).openPopup();
     popups.push(selectedPopup)
     console.log("cliked : ", cliked_lat, cliked_lng)
     mymap.off('click', onMapClick);
@@ -110,79 +108,104 @@ function onMapClick(e) {
         .then(data => {
             console.log("推薦された全スポット情報", data);
             data.forEach((element, index) => {
+                function loadSpotImage(photo_url, noImageUrl) {
+                    return new Promise((resolve,) => {
+                        const img = new Image();
+                        img.onload = function () {
+                            resolve(photo_url);
+                        };
+                        img.onerror = function () {
+                            resolve(noImageUrl); // エラーメッセージは適宜変更してください
+                        };
+                        img.src = photo_url;
+                    });
+                }
+
                 console.log("スポットの情報", element)
                 const similarAspects = element.similar_aspects
-                const photo_url = "../../data/photo/岡山/" + element.spot_name + ".jpg";
-                console.log(photo_url);
-                const spotAspectPopup = "<b>[" + (index + 1) + "] <a href='" + element.url + "' target='_blank'>" + element.spot_name + "</a></b><br>" + "<img src='" + photo_url + "' alt='写真'>";
-                const spotAspectExplain = "<b>[" + (index + 1) + "]" + element.spot_name + "</b><br>" + highlightSimilarAspects(element.aspects, similarAspects).join(",");
-                const popupId = "popup_" + index;
-                const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId });
-                popups.push(marker)
+                const prefecture = "岡山"
+                const photo_url = "static/images/" + prefecture + "/" + element.spot_name + ".jpg";
+                const noImageUrl = "static/images/NoImage.jpg";
+                const imgElement = document.createElement("img");
+                imgElement.className = "spot_image"
+                loadSpotImage(photo_url, noImageUrl)
+                    .then((imageUrl) => {
+                        imgElement.src = imageUrl;
+                        const spotAspectPopup = "<b>[" + (index + 1) + "] <a href='" + element.url + "' target='_blank'>" + element.spot_name + "</a></b><br>" + imgElement.outerHTML
+                        const spotAspectExplain = "<b>[" + (index + 1) + "]" + element.spot_name + "</b><br>" + highlightSimilarAspects(element.aspects, similarAspects).join(",");
+                        const popupId = "popup_" + index;
+                        const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId })
+                        popups.push(marker)
 
-                const recommendSpotInfo = document.getElementById("recommend_spot_info");
-                const popupInfo = document.createElement("div");
-                popupInfo.innerHTML = spotAspectExplain;
-                popupInfo.dataset.popupId = popupId; // 表示するスポット情報に，マップのポップアップIDを設定
-                popupInfo.className = "normal_info"
-                recommendSpotInfo.appendChild(popupInfo);
+                        const recommendSpotInfo = document.getElementById("recommend_spot_info");
+                        const popupInfo = document.createElement("div");
+                        popupInfo.innerHTML = spotAspectExplain;
+                        popupInfo.dataset.popupId = popupId; // 表示するスポット情報に，マップのポップアップIDを設定
+                        popupInfo.className = "normal_info"
+                        recommendSpotInfo.appendChild(popupInfo);
 
-                //map中のピンが上がった場合と下がった場合の処理
-                marker.on("popupopen", () => {
-                    recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
-                        element.classList.value = "unhighlighted_info";
-                    });
-                    const select_spotinfo = recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]')
-                    select_spotinfo.classList.value = "highlighted_info"
-                    recommendSpotInfo.scrollTop = select_spotinfo.offsetTop - recommendSpotInfo.offsetTop;
-                })
-                marker.on('popupclose', () => {
-                    recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
-                        element.classList.value = "normal_info";
-                    });
-                });
-                // スポット情報がクリックされたときのイベント追加
-                popupInfo.addEventListener("click", () => {
-                    if (popupInfo.classList.contains("highlighted_info")) {
-                        popups.forEach(marker => {
-                            marker.closePopup(); // ポップアップを閉じる
+                        //map中のピンが上がった場合と下がった場合の処理
+                        marker.on("popupopen", () => {
+                            recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+                                element.classList.value = "unhighlighted_info";
+                            });
+                            const select_spotinfo = recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]')
+                            select_spotinfo.classList.value = "highlighted_info"
+                            recommendSpotInfo.scrollTop = select_spotinfo.offsetTop - recommendSpotInfo.offsetTop;
+                        })
+                        marker.on('popupclose', () => {
+                            recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+                                element.classList.value = "normal_info";
+                            });
                         });
-                        recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
-                            element.classList.value = "normal_info";
-                        });
-                    }
-                    else {
-                        const findMarker = popups.find(marker => marker._popup.options.id === popupId);
-                        // 対応するポップアップに移動
-                        if (findMarker) {
-                            mymap.panTo(findMarker.getLatLng());
-                            findMarker.openPopup();
-                        }
-
-                        // recommend_spot_info内の全ての要素から強調表示を削除
-                        recommendSpotInfo.querySelectorAll(".highlighted_info").forEach(element => {
-                            element.classList.remove("highlighted_info");
-                            element.classList.remove("unhighlighted_info");
-                        });
-
-                        // クリックされたポップアップの情報を強調表示
-                        popupInfo.classList.remove("unhighlighted_info");
-                        popupInfo.classList.add("highlighted_info");
-
-
-                        var AllSpotsAspectsInfo = recommendSpotInfo.getElementsByTagName("div");
-                        // <div> 要素に対して処理を実行
-                        for (var i = 0; i < AllSpotsAspectsInfo.length; i++) {
-                            var divElement = AllSpotsAspectsInfo[i];
-
-                            // highlighted クラスが付与されていない場合に unhighlighted クラスを追加
-                            if (!divElement.classList.contains("highlighted_info")) {
-                                divElement.classList.add("unhighlighted_info");
+                        // スポット情報がクリックされたときのイベント追加
+                        popupInfo.addEventListener("click", () => {
+                            if (popupInfo.classList.contains("highlighted_info")) {
+                                popups.forEach(marker => {
+                                    marker.closePopup(); // ポップアップを閉じる
+                                });
+                                recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+                                    element.classList.value = "normal_info";
+                                });
                             }
-                        }
-                    }
+                            else {
+                                const findMarker = popups.find(marker => marker._popup.options.id === popupId);
+                                // 対応するポップアップに移動
+                                if (findMarker) {
+                                    mymap.panTo(findMarker.getLatLng());
+                                    findMarker.openPopup();
+                                }
 
-                });
+                                // recommend_spot_info内の全ての要素から強調表示を削除
+                                recommendSpotInfo.querySelectorAll(".highlighted_info").forEach(element => {
+                                    element.classList.remove("highlighted_info");
+                                    element.classList.remove("unhighlighted_info");
+                                });
+
+                                // クリックされたポップアップの情報を強調表示
+                                popupInfo.classList.remove("unhighlighted_info");
+                                popupInfo.classList.add("highlighted_info");
+
+
+                                var AllSpotsAspectsInfo = recommendSpotInfo.getElementsByTagName("div");
+                                // <div> 要素に対して処理を実行
+                                for (var i = 0; i < AllSpotsAspectsInfo.length; i++) {
+                                    var divElement = AllSpotsAspectsInfo[i];
+
+                                    // highlighted クラスが付与されていない場合に unhighlighted クラスを追加
+                                    if (!divElement.classList.contains("highlighted_info")) {
+                                        divElement.classList.add("unhighlighted_info");
+                                    }
+                                }
+                            }
+
+                        });
+                    })
+                    .catch((error) => {
+                        console.error("Error loading image:", error.message);
+                    });
+                // img_tag = "<img class='spot_image' src='" + photo_url + "' onerror= \"this.src='" + noImageUrl + "'\" />";
+                // console.log(img_tag)
 
             });
             // マップ上の中心座標（例：東京タワーの座標）
@@ -207,7 +230,7 @@ function onMapClick(e) {
 
 
 
-document.getElementById('resetButton').addEventListener('click', function() {
+document.getElementById('resetButton').addEventListener('click', function () {
     location.reload();
 });
 
@@ -267,7 +290,7 @@ document.getElementById('fix_aspect').addEventListener('click', async function (
         const SearchButton = document.getElementById("submit_query");
         const removebuttons = document.querySelectorAll(".remove_button");
         const distanceBar = document.getElementById('distance_bar');
-        const recommend_aspect_button =  document.getElementById("recommend_aspect_button");
+        const recommend_aspect_button = document.getElementById("recommend_aspect_button");
         if (AddButton.disabled == true | DecideButton.disabled == true | SearchButton.disabled == true | SearchForm.disabled == true) {
             // 各 remove_button 要素に対してクリックイベントリスナーを追加
             removebuttons.forEach(removeButton => {
