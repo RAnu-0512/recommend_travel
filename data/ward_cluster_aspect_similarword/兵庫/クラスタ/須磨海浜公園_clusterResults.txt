@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須磨海浜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水族園, 須磨水族園
+cluster1:(3)
+須磨海浜水族館, 須磨海浜公園, 海浜公園
+cluster2:(2)
+須磨水族館, 須磨
+cluster3:(3)
+阪神, 関西, 京都
+cluster4:(3)
+電車, JR, 高速
+cluster5:(1)
+名神
+cluster6:(49)
+一角, 出口, 海水, 散歩, 表記, ところ, 夏, 渋滞, 独占状態, 景色, 海水浴シーズン, アクアイルミナージュ, 札, 浜辺, 気持ち, ビーチ, コンビニ, 人, ベンチ, 下, 入口, クチコミ, 海水浴客, 人影, 家, ほう, 前, シーズン, 賑わい, 天気, 水族館, 海水浴, 係人, 駅, 水槽, 方, 公園, ホテル, 砂浜, 隣, 家族, 淡路島, 気, 木, 子供, こと, 瀬戸内海, 海, 電話
+cluster7:(2)
+警備員, 従業員
+cluster8:(2)
+海水浴場, 駐車場
+cluster9:(2)
+ゲート機横, ゲート機
+cluster10:(2)
+両替, 両替機
+
+howmany entities : 71
+howmany clusters : 11
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 4
+deleted 13entities.

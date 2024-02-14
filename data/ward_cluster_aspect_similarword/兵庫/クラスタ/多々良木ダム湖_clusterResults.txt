@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多々良木ダム湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ダム, 水力発電ダム, ダム湖
+cluster1:(2)
+朝来市, 兵庫県
+cluster2:(2)
+道路, 国道
+cluster3:(4)
+場所, 件, 時間, 方式
+cluster4:(9)
+コスト, ドライブ, 下, 東, 小さ目サイズ, ロックフィルダム, 意外, マニア, 上
+cluster5:(1)
+森美術館
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 5entities.

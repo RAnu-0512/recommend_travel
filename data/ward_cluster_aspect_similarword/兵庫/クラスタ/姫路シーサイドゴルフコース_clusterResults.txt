@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路シーサイドゴルフコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海, 風
+cluster1:(2)
+コース, アプローチ
+cluster2:(1)
+気持ち
+cluster3:(1)
+ホール
+cluster4:(1)
+スコア
+cluster5:(1)
+場所
+cluster6:(1)
+感想
+cluster7:(1)
+練習
+cluster8:(1)
+フェアウェイ
+cluster9:(1)
+帰路
+cluster10:(1)
+大塩駅
+
+howmany entities : 13
+howmany clusters : 11
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 13entities.

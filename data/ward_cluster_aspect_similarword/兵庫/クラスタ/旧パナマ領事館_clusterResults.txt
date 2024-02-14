@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧パナマ領事館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+異人館街, 北野異人館, 神戸異人館街, 異人館観光
+cluster1:(5)
+北野通り, 神戸, 神戸トリックアート, 北野, 神戸牛
+cluster2:(5)
+トリック体験, 入場, 記念写真, 見学, 開館
+cluster3:(4)
+パナマ領事館, 領事, 領事館, パナマ
+cluster4:(2)
+計画, 旅行
+cluster5:(2)
+建物, 施設
+cluster6:(3)
+場所, 部屋, 写真
+cluster7:(1)
+名称
+cluster8:(14)
+頭, 待ち時間, アミューズメントスポット, リクエスト, 人, 鏡, アインシュタイン, トリックアート, トリック, 中, ステーキ, 子ども, 他, 上
+cluster9:(1)
+入館料
+
+howmany entities : 41
+howmany clusters : 10
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 6
+deleted 6entities.

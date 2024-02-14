@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸華僑歴史博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+資料館, 資料, 資料展示
+cluster1:(4)
+神戸, メリケンパーク, 中国, 華僑
+cluster2:(10)
+場所, 途中, 石碑, 歴史, 勉強, 目, 道, 文化, 学校, ふつう
+cluster3:(4)
+海岸通り, 建物, ビル, ビル風
+cluster4:(1)
+神戸華僑歴史博物館
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 1entities.

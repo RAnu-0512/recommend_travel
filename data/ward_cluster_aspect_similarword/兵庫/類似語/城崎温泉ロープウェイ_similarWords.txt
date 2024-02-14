@@ -1,0 +1,51 @@
+--------------------similar_words:城崎温泉ロープウェイ--------------------
+top3 entities near to cluster1>>
+行き方, 乗り場, 乗り物
+top3 entities near to cluster2>>
+ホテル, カフェ, レストラン
+top3 entities near to cluster3>>
+温泉寺, お参り, 境内
+top3 entities near to cluster4>>
+姉ちゃん, はぎ, 子
+top3 entities near to cluster5>>
+子供, 子ども, 大人
+top3 entities near to cluster6>>
+餅, 運
+top3 entities near to cluster10>>
+香り, 空気, 匂い
+top3 entities near to cluster12>>
+横顔
+top3 entities near to cluster13>>
+街並み, 町並み
+top3 entities near to cluster16>>
+中間付近, 間付近, 間, 中間
+top3 entities near to cluster25>>
+投げ, 投げる, ぶん投げ
+top3 entities near to cluster27>>
+展望, 展望台, 眺望
+top3 entities near to cluster28>>
+頂上, 山頂, 中腹
+top3 entities near to cluster29>>
+景色, 眺望, 絶景
+top3 entities near to cluster30>>
+地蔵, 観音, 寺
+top3 entities near to cluster31>>
+乗場, 乗り場, ウェイ
+top3 entities near to cluster32>>
+出発, 下車
+top3 entities near to cluster33>>
+乗車, 乗客, 運行
+top3 entities near to cluster34>>
+小雨
+top3 entities near to cluster35>>
+階段, 登り
+top3 entities near to cluster36>>
+山, 海, 杭
+top3 entities near to cluster37>>
+温泉, 宿, 穴場
+top3 entities near to cluster38>>
+時間, 所要
+top3 entities near to cluster39>>
+往復券, 片道券, 往復, 片道
+top3 entities near to cluster40>>
+駅, 温泉, 駅前

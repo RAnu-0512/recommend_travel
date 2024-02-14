@@ -1,0 +1,19 @@
+--------------------similar_words:道の駅 但馬楽座--------------------
+top3 entities near to cluster0>>
+丼, 牛, 炙り
+top3 entities near to cluster1>>
+料理, 土産, 夕食
+top3 entities near to cluster2>>
+コスパ, におい, 長時間
+top3 entities near to cluster4>>
+レストラン, ホテル, ランチ
+top3 entities near to cluster6>>
+迂回, 開通, 渋滞
+top3 entities near to cluster7>>
+名物, 駅, 建物
+top3 entities near to cluster12>>
+入浴, 風呂, 休憩
+top3 entities near to cluster13>>
+施設, 宿泊, 駐車
+top3 entities near to cluster15>>
+温泉, 旅館, 温泉郷

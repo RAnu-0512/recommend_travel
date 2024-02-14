@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青垣いきものふれあいの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+自然観察会, 蛍観察会, 水生昆虫
+cluster1:(11)
+自然, 淡水魚, 場所, 魚, 入場料, 金, イベント, 大切さ, 青垣, 丹波, 施設
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

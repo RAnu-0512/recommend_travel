@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:県立高砂海浜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+海水, 散歩, 地形, 弁当, 釣り, 景観, 公園, 砂浜, 河口, 海
+cluster1:(2)
+子供達, 子供
+cluster2:(10)
+ボランティア, 場所, 人, 形, 加古川, 流れ, コンクリート, 昔, 地元, アオサ
+cluster3:(2)
+浜野, 松
+cluster4:(1)
+清掃活動
+cluster5:(1)
+海浜公園
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 6entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮田陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+陶芸, 茶碗, 皿
+cluster1:(2)
+味, 見本
+cluster2:(2)
+友達, 先生
+cluster3:(4)
+受け取り, もの, サイズ, 作品
+cluster4:(1)
+横
+cluster5:(1)
+素人
+cluster6:(1)
+土
+cluster7:(1)
+不器
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 8entities.

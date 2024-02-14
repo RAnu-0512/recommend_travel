@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテル山荘有馬香花園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小川, 水道
+cluster1:(3)
+荷物, 野菜, 肉
+cluster2:(8)
+バーベキュースペース, デザート, コップ, トイレ, 手ぶら, キャンプ, ホテル, ジャグ
+cluster3:(2)
+下, 近く
+cluster4:(3)
+景色, 食後, ご飯
+cluster5:(1)
+芝生
+cluster6:(1)
+焚火
+cluster7:(4)
+小上がり, 水入り, 階段, 階段型
+cluster8:(1)
+ソロかデュオキャンパー
+cluster9:(5)
+有馬温泉, 炊飯器, 炊き立て, 炊事場, 駐車場
+
+howmany entities : 30
+howmany clusters : 10
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 7entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:山木ファーム--------------------
+top3 entities near to cluster0>>
+里芋, 掘
+top3 entities near to cluster1>>
+郵便局, 郵便, 局員
+top3 entities near to cluster2>>
+農園, 農家, 野菜
+top3 entities near to cluster5>>
+子供, 子ども, 家族
+top3 entities near to cluster6>>
+ジブリ, トトロ, みみず
+top3 entities near to cluster7>>
+スタッフ, 気遣い, サービス
+top3 entities near to cluster8>>
+焼き芋, ホタル, 葉っぱ
+top3 entities near to cluster11>>
+世話, 姿, 対応

@@ -1,0 +1,23 @@
+--------------------similar_words:六甲有馬ロープウェー--------------------
+top3 entities near to cluster1>>
+ロープウェー, ロープウエー, ロープーウェイ
+top3 entities near to cluster2>>
+気持ち, 思い出
+top3 entities near to cluster4>>
+季節, 秋, 初夏
+top3 entities near to cluster5>>
+乗り継ぎ, バス, 乗車
+top3 entities near to cluster6>>
+紅葉, 新緑, 紅葉狩り
+top3 entities near to cluster7>>
+景色, 夜景, 絶景
+top3 entities near to cluster8>>
+山頂, 斜面, 歩道
+top3 entities near to cluster10>>
+駐車場, 駐車, 料金
+top3 entities near to cluster11>>
+運行, 運転, 時間
+top3 entities near to cluster15>>
+温泉, 旅館, 湯
+top3 entities near to cluster16>>
+ロープ, ウェイ

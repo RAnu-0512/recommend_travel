@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸ファッションプラザ(六甲アイランド)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+神戸, 六甲アイランド, 神戸ファッション美術館, MOVIX六甲, 三宮, 住吉駅, リトル神戸, 六甲
+cluster1:(2)
+た.o, ぅ.m
+cluster2:(3)
+人気スイーツ店, 空き店舗, 食品店
+cluster3:(3)
+閑散, 活気, 良さ
+cluster4:(8)
+感じ, もの, 人, 想像, 普通, 昔, 決定, 名前
+cluster5:(20)
+映画館, ボリューム, メニュー, ショッピング, *^^*, スーパー, アイ, レストラン, カフェ, ファッション, ポートアイランド, ショッピングセンター, ショッピングモール, フロア, グルメ, 美術館, リピート, ケーキ, ショッピングスポット, 六甲ライナー
+cluster6:(1)
+nu
+cluster7:(2)
+雑貨, 洋服
+cluster8:(4)
+プラザホテル, シェラトンホテル, ホテル, ファッションプラザ
+cluster9:(2)
+休日, 食事
+cluster10:(4)
+店舗, 建物, 施設, 店
+cluster11:(1)
+週替わり
+cluster12:(1)
+*^
+
+howmany entities : 59
+howmany clusters : 13
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 7
+deleted 9entities.

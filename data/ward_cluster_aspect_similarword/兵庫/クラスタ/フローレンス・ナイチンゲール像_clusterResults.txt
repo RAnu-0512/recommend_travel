@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フローレンス・ナイチンゲール像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅地, 線路沿い
+cluster1:(13)
+前, 台座, 中, 遠回り, 銅像, 看護, 正解, 像, ナイチンゲール, コロナ禍中, 道, 方, 救苦観世音
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

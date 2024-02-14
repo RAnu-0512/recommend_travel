@@ -1,0 +1,13 @@
+--------------------similar_words:伊丹市立ローラースケート場--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+市営, 場外, 公営
+top3 entities near to cluster2>>
+見学, 体験, 開催
+top3 entities near to cluster5>>
+子供, 子ども, 大人
+top3 entities near to cluster6>>
+自転車, 一輪車
+top3 entities near to cluster7>>
+靴, 着用, 靴下

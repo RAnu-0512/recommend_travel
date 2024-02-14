@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清薗寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+境内, 寺
+cluster1:(3)
+公園, 場所, 道
+cluster2:(1)
+地元民憩い
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 3entities.

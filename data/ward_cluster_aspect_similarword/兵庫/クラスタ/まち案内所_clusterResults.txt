@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まち案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅, 加古川駅, 駅北側
+cluster1:(4)
+サイト, 車, こと, マンホールカード
+cluster2:(1)
+有料駐車場
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 1entities.

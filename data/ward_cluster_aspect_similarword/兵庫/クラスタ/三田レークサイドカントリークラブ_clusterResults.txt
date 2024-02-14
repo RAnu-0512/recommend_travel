@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三田レークサイドカントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+練習ラウンド, ゴルフ場
+cluster1:(19)
+ボリューム, カート, 場所, 印象, メンテナンス, 気持ち, コンペ, 人, レストラン, イベント, セルフ, アンジュレーション, 初心者, アップダウン, グリーン, 残り, 駅, 女性, コース
+cluster2:(2)
+緑, 自然
+cluster3:(2)
+味, 景色
+cluster4:(2)
+距離, 住所
+cluster5:(1)
+三田
+cluster6:(3)
+送迎バス, ナビ, ナビ付きカート
+cluster7:(1)
+コスパ感
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 10entities.

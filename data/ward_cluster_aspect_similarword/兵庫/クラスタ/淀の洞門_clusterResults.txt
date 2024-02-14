@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淀の洞門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+波, ° 波
+cluster1:(2)
+自然, 自然石
+cluster2:(6)
+世界, ほう, 影響, 余裕, 中, 近く
+cluster3:(3)
+海中, 船, 海
+cluster4:(3)
+岩, 青, 洞窟
+cluster5:(1)
+穴
+cluster6:(1)
+射し込む光
+cluster7:(1)
+淀
+cluster8:(1)
+洞門
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 8entities.

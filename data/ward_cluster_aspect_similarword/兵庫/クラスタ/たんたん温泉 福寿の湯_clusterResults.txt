@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たんたん温泉 福寿の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+人, 種類, 周り, 方, 効果, 機会, こと
+cluster1:(2)
+水風呂, サウナ水風呂
+cluster2:(7)
+洗い場, チューリップまつり, 露天風呂, リンスインシャンプー, 大人, 子ども, シャンプー
+cluster3:(3)
+外, 自宅, 近く
+cluster4:(1)
+料金
+cluster5:(1)
+スベスベ感
+cluster6:(2)
+休憩室, 半券
+cluster7:(5)
+露天, シルク温泉, 泉質, 内湯, 温泉
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 6entities.

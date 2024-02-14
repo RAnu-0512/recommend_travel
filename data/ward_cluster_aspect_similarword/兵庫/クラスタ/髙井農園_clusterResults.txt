@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:髙井農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+口調, 接客, 人柄
+cluster1:(2)
+苺, 旬
+cluster2:(2)
+金, 倍
+cluster3:(4)
+説明, 予約, 約束, こと
+cluster4:(5)
+イチゴ, 思い出, ベトナム, いちご, ハウス
+cluster5:(2)
+友人, 人
+cluster6:(1)
+手
+cluster7:(1)
+味
+cluster8:(1)
+上着
+cluster9:(8)
+食べ比べ, ヘタ取りバサミ, 食べ放題, いちご狩り, 初いちご狩り, エンボス手袋, 苺狩り, いちご狩り中
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 9entities.

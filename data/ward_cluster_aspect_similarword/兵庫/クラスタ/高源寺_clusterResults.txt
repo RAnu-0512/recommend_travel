@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高源寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+階段, 石階段
+cluster1:(9)
+場所, 見処, もの, 次回, 人, 見応え, 歴史, 多く, 徒歩
+cluster2:(6)
+坂, 山, 花, 塔, 紅葉, もみじ
+cluster3:(2)
+三重, 関西花
+cluster4:(1)
+三丹随一
+cluster5:(8)
+寺巡り, 寺院, 参拝客, 参拝, 高源寺, 寺, 本堂, 駐車場
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 5entities.

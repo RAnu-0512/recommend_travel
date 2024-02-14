@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八木城跡(兵庫県養父市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+室町, 豊臣, 石垣, 時代
+cluster1:(7)
+足元, 城跡, 整備, 興味, 山頂, 遺構, 頂上
+cluster2:(1)
+小雨まじり
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 1entities.

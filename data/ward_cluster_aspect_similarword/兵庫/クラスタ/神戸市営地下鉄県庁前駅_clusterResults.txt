@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸市営地下鉄県庁前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三宮駅, 駅, 大倉山駅
+cluster1:(5)
+往来, 地上, 新年最初, 県庁, 地下鉄
+cluster2:(1)
+神戸三宮
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 1entities.

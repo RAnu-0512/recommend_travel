@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有岡城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+日本城郭大系12, 鎌倉時代に豪族伊丹, 伊丹〜JR伊丹駅, 南北朝期, JR伊丹駅
+cluster1:(15)
+伊丹川, 荒木, 黒田官兵衛, 石垣, 明治, 国人伊丹, 伊丹, 荒木村, 村重, 織田信長, 伊丹城, 荒木村重, 惣構え, 信長, 摂津
+cluster2:(4)
+時代, 昔, 地元, 歴史
+cluster3:(6)
+東側, 前, 横, 下, 時間, 近く
+cluster4:(1)
+東西
+cluster5:(2)
+モール, イオン
+cluster6:(5)
+スポット, アクセス, ところ, 雰囲気, オススメ
+cluster7:(1)
+天守閣
+cluster8:(1)
+猪名川
+cluster9:(12)
+人, 思い, 配下, 所, もの, 方々, 方, こと, 感じ, 場所, 名, 気
+cluster10:(22)
+電車, 面影, JR, 天然, 憩い, 跡地, 改修, 一国一城制度, 要害, 丘, 建物, 公園, 階下, 構造, 石碑, 子供たち, 想い, 駅, 散策, 謀反, 情景, 駅前ロータリー
+cluster11:(4)
+連絡橋, 反対側, 駅側, 鉄道敷設
+cluster12:(2)
+史跡公園, 城跡公園
+cluster13:(4)
+本丸, 建物跡, 本丸跡, 跡
+cluster14:(5)
+城, お城マニア, 新城主, 城跡, 城郭
+cluster15:(1)
+本丸礎石建物跡
+
+howmany entities : 90
+howmany clusters : 16
+howmany entities (more than3entities) : 82
+howmany clusters (more than3entities) : 10
+deleted 8entities.

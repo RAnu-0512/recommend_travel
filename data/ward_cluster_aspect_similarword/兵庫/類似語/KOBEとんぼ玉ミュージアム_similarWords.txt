@@ -1,0 +1,17 @@
+--------------------similar_words:KOBEとんぼ玉ミュージアム--------------------
+top3 entities near to cluster0>>
+ガラス玉, とんぼ玉, とんぼ, ガラス
+top3 entities near to cluster1>>
+ビーズ, ガラス, パーツ
+top3 entities near to cluster7>>
+ショップ, ギャラリー, スタッフ
+top3 entities near to cluster12>>
+娘, 息子
+top3 entities near to cluster13>>
+ビル店, 値段, ビル
+top3 entities near to cluster14>>
+作業, 工程, 手作業
+top3 entities near to cluster19>>
+見本
+top3 entities near to cluster20>>
+体験, 展示, 出展

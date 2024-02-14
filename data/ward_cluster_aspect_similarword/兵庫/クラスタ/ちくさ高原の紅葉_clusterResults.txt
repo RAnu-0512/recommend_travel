@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ちくさ高原の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ちくさ高原, ちくさ高原キャンプ場, ちくさもみじ
+cluster1:(11)
+横, 霧, スポット, 祠, キャンプ場, 熊出没注意, 紅葉, トイレ, 祭り, 看板, オススメ
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

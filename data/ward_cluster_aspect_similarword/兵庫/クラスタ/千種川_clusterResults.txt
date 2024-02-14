@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千種川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+事, 水, 餌, 駅, クルマ, 近く
+cluster1:(5)
+上流, 水量, 川, 水鳥, 清流
+cluster2:(1)
+上郡市役所
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 1entities.

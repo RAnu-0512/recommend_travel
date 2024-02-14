@@ -1,0 +1,7 @@
+--------------------similar_words:共進ファミリー牧場--------------------
+top3 entities near to cluster0>>
+牛, ヤギ, 羊
+top3 entities near to cluster1>>
+ヒツジ, ソフトクリーム, ウサギ
+top3 entities near to cluster4>>
+牧場, 農場, 工場

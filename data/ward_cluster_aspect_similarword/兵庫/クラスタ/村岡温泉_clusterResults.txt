@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:村岡温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+感じ, 大人¥, 外, ボディーソープ, 景色, シャンプーリンス, 帰り, 世話, タオルシャンプー, スキー, 休憩スペース, シーズン, 持ち込み要, 脇道, スキーシーズン, ボード, シャンプー, 参考
+cluster1:(2)
+国道沿い, 国道
+cluster2:(4)
+駐車場スペース, 日帰り入浴施設, 案内看板, 食事亭
+cluster3:(6)
+風呂, 源泉, 温泉温度, お湯, 循環式, 温泉
+cluster4:(1)
+源泉掛け流し
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 3entities.

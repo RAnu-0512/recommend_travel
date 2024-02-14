@@ -1,0 +1,29 @@
+--------------------similar_words:神戸三田ながしお農場--------------------
+top3 entities near to cluster0>>
+子供, 子ども
+top3 entities near to cluster1>>
+甘味, 甘み
+top3 entities near to cluster2>>
+品種, 施設, 株
+top3 entities near to cluster3>>
+子供, 子ども, 家族
+top3 entities near to cluster4>>
+ハウス, ビニール, イチゴ
+top3 entities near to cluster5>>
+大きい, 食べ, 比べ
+top3 entities near to cluster6>>
+時間, 予約, 所要
+top3 entities near to cluster7>>
+受付, 予定, 開始
+top3 entities near to cluster9>>
+機会, 体験, 利用
+top3 entities near to cluster13>>
+密, 安定
+top3 entities near to cluster15>>
+狩り, 狩る, 狩っ
+top3 entities near to cluster16>>
+練乳, コンデンスミルク, 生クリーム
+top3 entities near to cluster19>>
+苺, いちご, イチゴ
+top3 entities near to cluster20>>
+農園, 農場, 駐車

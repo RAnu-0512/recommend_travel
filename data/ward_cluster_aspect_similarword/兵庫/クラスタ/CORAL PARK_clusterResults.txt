@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:CORAL PARK>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+スタッフ, ロケーション, ヨー, ウェイクボード, ニーボード, sup, Rigs, ケーブル, カフェ, チャレンジ, バス, マリンスポーツ, ロッカー, ニコニコ, マリンバイク, シャワールーム, 男の子, ^^)ロケーション, マネジャー
+cluster1:(2)
+コツ, 爽快
+cluster2:(2)
+心, 膝
+cluster3:(7)
+場所, 友人, 人, 兄さん達, 案内, 他, 体験
+cluster4:(1)
+海面
+cluster5:(1)
+西宮駅
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 6entities.

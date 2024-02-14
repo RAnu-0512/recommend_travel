@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:帆船みらいへ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+帆船, 船
+cluster1:(2)
+神戸, 思い
+cluster2:(1)
+天保
+cluster3:(1)
+母港
+cluster4:(1)
+山岸壁
+cluster5:(1)
+海遊館
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

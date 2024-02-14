@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安国寺(兵庫県加東市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+室町幕府, 但馬安国寺, 加東市, 室町, 兵庫
+cluster1:(2)
+観光スポット, 観光客
+cluster2:(2)
+庭, お庭
+cluster3:(2)
+将軍, 幕府
+cluster4:(4)
+緑, 空気, 紅葉, 庭園
+cluster5:(4)
+国家, 歴史, 国, 安全
+cluster6:(6)
+スポット, ドウダンツツジ, ツツジ, パワー, 雰囲気, 見どころ
+cluster7:(2)
+安国寺, 臨済宗
+cluster8:(5)
+場所, 人, 方々, 地元, 時期
+cluster9:(1)
+品
+cluster10:(1)
+応え
+cluster11:(10)
+妙心寺派, 首塚, 寺院, 東渓山, 古寺, 住職, 寺, 本堂, 安国, 山号
+cluster12:(7)
+足利尊氏, 室町幕府6代将軍足利義教, 足利家, 宝篋印塔, 足利義教, 将軍足利義教, 足利
+
+howmany entities : 51
+howmany clusters : 13
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 7
+deleted 10entities.

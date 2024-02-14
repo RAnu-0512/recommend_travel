@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒地山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+スポット, 人, 人気, 山, 日本, オススメ
+cluster1:(2)
+ボルタリング, ロック・クライミング
+cluster2:(1)
+荒地山
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

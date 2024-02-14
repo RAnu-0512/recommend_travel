@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:貴布禰神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+手洗い, 門, 旅, 御朱印, 公園, 先, 最後, 隣, 兵庫, だんじり, 安全
+cluster1:(4)
+だんじり祭り, 境内, 参拝, 祭り
+cluster2:(1)
+駐車場
+cluster3:(5)
+尼崎寺町七福神めぐり, 白波稲荷神社, 貴布禰神社, 阪神なんば線, 稲荷神社
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 1entities.

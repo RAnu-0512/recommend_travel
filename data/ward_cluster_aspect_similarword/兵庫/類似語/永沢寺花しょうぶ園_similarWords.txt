@@ -1,0 +1,11 @@
+--------------------similar_words:永沢寺花しょうぶ園--------------------
+top3 entities near to cluster0>>
+駐車, 入場, 宿泊
+top3 entities near to cluster1>>
+花, お花, 咲きほこる
+top3 entities near to cluster3>>
+イベント, 催し物, 人出
+top3 entities near to cluster4>>
+小雨, 土砂降り
+top3 entities near to cluster6>>
+蕎麦, そば

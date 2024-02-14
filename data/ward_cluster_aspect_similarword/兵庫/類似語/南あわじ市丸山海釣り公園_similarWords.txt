@@ -1,0 +1,15 @@
+--------------------similar_words:南あわじ市丸山海釣り公園--------------------
+top3 entities near to cluster0>>
+釣, 魚釣り
+top3 entities near to cluster1>>
+子供, 家族
+top3 entities near to cluster4>>
+ホテル, 入り口, 飲み物
+top3 entities near to cluster5>>
+カサゴ, メバル, カワハギ
+top3 entities near to cluster7>>
+魚釣り, 釣り場, 釣り堀
+top3 entities near to cluster9>>
+エサ, 釣れ
+top3 entities near to cluster11>>
+施設, 事務

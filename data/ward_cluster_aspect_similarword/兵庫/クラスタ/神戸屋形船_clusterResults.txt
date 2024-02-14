@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸屋形船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神戸, 神戸屋形船
+cluster1:(3)
+窓, 夜景, 観光スポット
+cluster2:(2)
+食事, 料理
+cluster3:(3)
+感じ, 屋形船, おすすめ
+cluster4:(1)
+停電
+cluster5:(1)
+潮風
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

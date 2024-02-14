@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩屋海水浴場(兵庫県淡路市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+貴重品, 家使用料, 使用数, 得感, 透明度
+cluster1:(2)
+施設, 物
+cluster2:(7)
+人, 家, 大人, ロッカー, シャワー, 方, 入り口
+cluster3:(1)
+合間
+cluster4:(1)
+袋
+cluster5:(1)
+キー
+cluster6:(1)
+海水浴場
+cluster7:(1)
+小さなお子
+cluster8:(8)
+海水, 波, 水深, 岩屋, 少し波, 台風, 温水シャワー, 海
+cluster9:(1)
+更衣室
+
+howmany entities : 28
+howmany clusters : 10
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 8entities.

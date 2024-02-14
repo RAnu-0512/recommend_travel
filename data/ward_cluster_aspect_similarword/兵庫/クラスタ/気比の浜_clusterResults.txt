@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:気比の浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+連休, 穴場, 釣り, 旅行
+cluster1:(10)
+懐かしさ, シーズンオフ, バギー, ファミリー, シーズン, キャンパー, トイレ, オススメ, キャンプ, ミッドシーズン
+cluster2:(3)
+気持ち, マナー, 雰囲気
+cluster3:(5)
+プライベートビーチ, 海水浴シーズン, ビーチ, マリンスポーツ, 海水浴
+cluster4:(14)
+感じ, 場所, 人, 家, ゴミ, 近く, 方, 娘, 水, 設備, 割り, 意外, 子供, 地元
+cluster5:(10)
+波, 浜辺, 津居山漁港, 浜, 気比, 砂浜, 青, 温水シャワー, 海, 遠浅
+cluster6:(2)
+昭和感, 童心
+cluster7:(1)
+城崎温泉
+cluster8:(9)
+キャンプ場, 浜海水浴場, 海水浴場, 家族連れ, 家利用者, 混み具合, 使用料, オートキャンプ場, 込み具合
+
+howmany entities : 58
+howmany clusters : 9
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 7
+deleted 3entities.

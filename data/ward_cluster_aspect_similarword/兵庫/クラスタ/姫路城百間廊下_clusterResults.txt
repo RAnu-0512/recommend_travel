@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路城百間廊下>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石落しもあり戦, のち池田光政室
+cluster1:(4)
+化粧櫓, 櫓, 天守, 多門櫓
+cluster2:(2)
+長さ, 長局=
+cluster3:(2)
+防御, 防御力
+cluster4:(5)
+休憩所, 体験コーナー, 見学, 体験, 展示物
+cluster5:(5)
+石垣, 千姫, 城, 百間, 姫路
+cluster6:(3)
+丸, 通称, 西
+cluster7:(2)
+欠点, 外見
+cluster8:(7)
+天守閣, 人, コーナー, 姫路城, 歴史, 中, こと
+cluster9:(7)
+部屋, 石落とし, 靴, 小部屋, 侍女たち, 廊下, 階段
+cluster10:(1)
+白漆喰
+
+howmany entities : 40
+howmany clusters : 11
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 6
+deleted 9entities.

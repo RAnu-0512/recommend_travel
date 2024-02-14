@@ -1,0 +1,11 @@
+--------------------similar_words:有馬玩具博物館--------------------
+top3 entities near to cluster0>>
+時間帯, 時間
+top3 entities near to cluster1>>
+金, 木, 土
+top3 entities near to cluster3>>
+売店, 湯
+top3 entities near to cluster5>>
+子供, 子ども, 大人
+top3 entities near to cluster6>>
+玩具, 温泉, 入場

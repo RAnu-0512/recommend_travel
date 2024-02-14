@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:内尾神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+阿蘇系, 日向系
+cluster1:(13)
+感じ, 豪族, 造り, 水運, 神宮, 海沿い, 境内, 九州, 参道, 神社, 本殿, 拝殿, 佇まい
+cluster2:(1)
+宮崎・鵜戸神社
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 3entities.

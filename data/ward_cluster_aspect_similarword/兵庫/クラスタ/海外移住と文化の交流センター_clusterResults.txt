@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海外移住と文化の交流センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展示館, 展示室, 展示
+cluster1:(3)
+移民先, 移民, 海外移住
+cluster2:(2)
+青春, 旅路
+cluster3:(2)
+神戸, 南米
+cluster4:(2)
+生活, 旅行
+cluster5:(5)
+人々, 博物館, 日本, 施設, 三ノ宮
+cluster6:(3)
+人たち, 徒歩, 西日本方面
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 4
+deleted 6entities.

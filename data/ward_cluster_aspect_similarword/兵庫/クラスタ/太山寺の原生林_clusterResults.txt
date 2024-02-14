@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太山寺の原生林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+なでしこの湯, 湯
+cluster1:(3)
+建物, 木々, 朱色
+cluster2:(3)
+林, 川, 橋
+cluster3:(10)
+感じ, 場所, 国宝, 太山寺, どこか, 唯一, 時間, 大山寺, 極楽浄土, 近く
+cluster4:(1)
+神戸市
+cluster5:(1)
+原生林
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 4entities.

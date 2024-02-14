@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:animal cafe fuleca 三宮店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+動物達, 動物, 動物たち, 子たち
+cluster1:(6)
+量, 内容, 方, 気, こと, 経験
+cluster2:(2)
+ご飯, 餌
+cluster3:(2)
+ふれあい, 触れ合い
+cluster4:(4)
+フェレット, アニマルカフェ, フェネック, フクロウ
+cluster5:(2)
+スタッフ, レビュー
+cluster6:(1)
+カフェ
+cluster7:(1)
+レオパ
+cluster8:(6)
+手, 人, 種類, 次, 恋人, 娘
+cluster9:(1)
+ワンドリンク
+cluster10:(7)
+金額設定, おやつ, 店側, 客, 店内, 店, 触り方
+cluster11:(1)
+清潔感
+cluster12:(1)
+もふもふの子
+
+howmany entities : 38
+howmany clusters : 13
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 11entities.

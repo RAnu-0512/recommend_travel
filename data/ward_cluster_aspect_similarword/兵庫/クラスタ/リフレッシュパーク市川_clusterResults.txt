@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リフレッシュパーク市川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食材, 料理
+cluster1:(4)
+囲炉裏, バーベキュー, サービス, 振り替え
+cluster2:(3)
+日程, 中止, 変更
+cluster3:(1)
+台風
+cluster4:(1)
+参加者
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 4entities.

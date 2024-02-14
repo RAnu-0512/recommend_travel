@@ -1,0 +1,11 @@
+--------------------similar_words:寺町(兵庫県尼崎市)--------------------
+top3 entities near to cluster0>>
+寺, お寺, 寺社
+top3 entities near to cluster1>>
+子供, 時代, 子ども
+top3 entities near to cluster2>>
+スタンプ, たこ焼き, お好み焼き
+top3 entities near to cluster7>>
+町並み, 街並み, 駅
+top3 entities near to cluster8>>
+商店街, 駅前, 商店

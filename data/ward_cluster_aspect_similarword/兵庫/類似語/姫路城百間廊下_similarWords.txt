@@ -1,0 +1,11 @@
+--------------------similar_words:姫路城百間廊下--------------------
+top3 entities near to cluster1>>
+櫓, 天守, 天守閣
+top3 entities near to cluster4>>
+体験, 見学, 展示
+top3 entities near to cluster5>>
+石垣, 百間, 城
+top3 entities near to cluster6>>
+丸, 通称, 別名
+top3 entities near to cluster9>>
+部屋, 廊下, 階段

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長泉寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本堂, 庭園
+cluster1:(2)
+こじんまり, 長泉寺
+cluster2:(2)
+感じ, もの
+cluster3:(1)
+左側
+cluster4:(1)
+道
+cluster5:(1)
+目的地
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

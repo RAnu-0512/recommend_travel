@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三田市野外活動センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+カビ, 巣だらけ, 蜘蛛
+cluster1:(30)
+キャンプ場, 場所, 又冷蔵庫, スタッフ, 話, 日帰り, 管理, 自然, 人, 態度, 口コミ, 思い, 係り, 対応, バンガロー, 換気扇, 川, コロナ, 運営, レンタル, 方, 子ども, テントサイト, 気, 所長, 他, 押入れ, こと, 言い方, 電話
+cluster2:(14)
+備品, 施設利用, 施設長, 予約制, 団体, 楽しさ, 日帰り利用, 予約車, 名簿, 加湿器, 利用料, 施設, 捉え方, 利用団体
+
+howmany entities : 47
+howmany clusters : 3
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 3
+deleted 0entities.

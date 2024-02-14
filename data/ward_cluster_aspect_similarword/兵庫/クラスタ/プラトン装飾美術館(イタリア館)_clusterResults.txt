@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:プラトン装飾美術館(イタリア館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+絵画, 食事, 像, 建物, 素描, 彫刻, 装飾, 写真
+cluster1:(7)
+カフェ, キッチン, 大理石, テラス, アンティーク, アート, ガイド
+cluster2:(4)
+ミレー, ルソー, ロダン, コクトー
+cluster3:(6)
+手, 多く, 方, 女性, 他, 受付
+cluster4:(5)
+装い, 空間, 密度, 全面, 隙間
+cluster5:(3)
+共通券, 豪華さ, ガイドつき
+cluster6:(6)
+執事風, 調度品, 西洋家具, 異人館, メイド風, 美術品
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 7
+deleted 0entities.

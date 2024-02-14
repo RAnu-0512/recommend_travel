@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大手前通り西側歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東通り, 大手前通り, 大手前通り西側歩道
+cluster1:(4)
+姫路おでん, JR姫路駅, 姫路駅, 姫路
+cluster2:(6)
+道沿い, 整備工事, 右左両側, 東側歩道, 道, 西側歩道
+cluster3:(5)
+道路, 天気, 景観, 歩道, 彫刻
+cluster4:(2)
+石垣, 城
+cluster5:(7)
+大手町, スーパー, ルート, 姫路城, メインストリート, ショップ, 大手門
+cluster6:(2)
+車, 店
+cluster7:(3)
+人, 方, 地元
+cluster8:(1)
+訪問
+cluster9:(9)
+距離, 北口, 西側, 東側, 真正面, 正面, 駅, 横, 徒歩
+cluster10:(3)
+観光, 地元利用者, 観光客
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 8
+deleted 5entities.

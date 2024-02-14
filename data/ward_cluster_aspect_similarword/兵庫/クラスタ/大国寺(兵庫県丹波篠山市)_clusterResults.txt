@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大国寺(兵庫県丹波篠山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+丹波篠山, 丹波茶, 丹波大山駅, 丹波, 丹波茶まつり
+cluster1:(2)
+期間限定, 秋限定
+cluster2:(2)
+撮影, 写真撮影
+cluster3:(11)
+敷地, 山, 自転車, 木立, 屋根, 御朱印, 麓, 木, 西, もみじ, 篠山口
+cluster4:(2)
+季節, 時期
+cluster5:(7)
+周囲, 目, 色, 方, 事, こと, 他
+cluster6:(3)
+歴史, 時代, 体験
+cluster7:(1)
+距離
+cluster8:(1)
+数人
+cluster9:(4)
+バスツアー, 催し, 名所, 行事
+cluster10:(3)
+国重文, 仏像@重文, 本堂@重文
+cluster11:(2)
+拝観時間, 入山料
+cluster12:(2)
+大国寺, 大国寺紅葉まつり
+cluster13:(2)
+禅宗様式, 和様式
+cluster14:(2)
+電動アシスト自転車, 観光客
+cluster15:(7)
+仏像, 神社, 座禅, 境内, 寺, 本堂, 古刹
+cluster16:(4)
+紅葉色, 紅葉寺, もみじ三山, 紅葉
+
+howmany entities : 60
+howmany clusters : 17
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 8
+deleted 16entities.

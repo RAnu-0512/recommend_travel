@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アイランドゴルフリゾート三田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+アイランドゴルフリゾート三田, 洋芝, 三田, 芝
+cluster1:(2)
+距離, 標高
+cluster2:(4)
+難点, 値段, 品数, 設備
+cluster3:(30)
+カート, ところ, 山奥, 緑, 景色, 最寄りインター, 友人, 気持ち, ナビ, 霧, クラブハウス, 人, 自然, 体感, ふもと, 芝生, ゴルフ, ゴルフ場, 山, 初心者, 昼食, 前, バイキング, 天気, 平地, 中, 雰囲気, コース, ナイトゴルフ, 昼
+cluster4:(1)
+年中緑
+cluster5:(1)
+食べ過ぎ
+cluster6:(1)
+送迎バス
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 3
+deleted 5entities.

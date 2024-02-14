@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:忠度塚と両馬川旧跡、腕塚神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+一ノ谷, あたり
+cluster1:(1)
+合戦
+cluster2:(1)
+腕塚神社
+cluster3:(1)
+平忠
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

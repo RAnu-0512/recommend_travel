@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒岡神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+感じ, 黒岡神社, 奈良, 墓, 侵攻, 古墳, 日本, 塚, 時代
+cluster1:(2)
+貞国, 藤原貞国
+cluster2:(2)
+新羅, ^^)/奈良時代新羅
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 4entities.

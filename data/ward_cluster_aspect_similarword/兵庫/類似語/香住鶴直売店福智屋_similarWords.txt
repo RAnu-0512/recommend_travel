@@ -1,0 +1,33 @@
+--------------------similar_words:香住鶴直売店福智屋--------------------
+top3 entities near to cluster0>>
+香住, 鶴, 旭
+top3 entities near to cluster4>>
+地酒, 酒蔵
+top3 entities near to cluster5>>
+気持ち, 雰囲気, マナー
+top3 entities near to cluster6>>
+土産物, 買い物, みやげ物
+top3 entities near to cluster7>>
+コーナー, イベント, タイトル
+top3 entities near to cluster8>>
+おすすめ, オススメ, こだわり
+top3 entities near to cluster13>>
+山, 酒造り, 北アルプス
+top3 entities near to cluster14>>
+上流, 下流, 上側
+top3 entities near to cluster16>>
+時間, 時分, 時
+top3 entities near to cluster17>>
+ほか, 各種, 地元
+top3 entities near to cluster18>>
+友人, 息子, 父
+top3 entities near to cluster21>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster22>>
+見学, 直売, 酒蔵
+top3 entities near to cluster25>>
+限定, 数量, 季節
+top3 entities near to cluster26>>
+品等
+top3 entities near to cluster27>>
+可能性, 時間, 可能

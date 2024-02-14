@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハトヤかまぼこ道場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ちくわ, ちくわやかまぼこ, ちくわ作り, ちくわ作り体験
+cluster1:(28)
+玉ねぎ, 小学, 生地, 母, 棒, 試食, 貸し切り状態, 子供達, 竹輪, 子供たち, ハトミン, スポット, 工場見学, コツ, 工場, 形, 竹輪作り, 時間, 甘み, かまぼこ, かまぼこ作り, 試供品, 親, ネット, 子供, 店長, ビデオ, 感謝
+
+howmany entities : 32
+howmany clusters : 2
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 2
+deleted 0entities.

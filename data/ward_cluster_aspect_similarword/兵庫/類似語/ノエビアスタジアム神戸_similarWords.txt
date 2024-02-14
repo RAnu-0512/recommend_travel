@@ -1,0 +1,33 @@
+--------------------similar_words:ノエビアスタジアム神戸--------------------
+top3 entities near to cluster0>>
+応援, 購入, 楽天
+top3 entities near to cluster1>>
+サッカー, ラグビー, スタジアム
+top3 entities near to cluster4>>
+ホームスタジアム, ホームグラウンド, ノエビアスタジアム
+top3 entities near to cluster5>>
+スタジアム, グラウンド, サポーター
+top3 entities near to cluster7>>
+イベント, チケット, サービス
+top3 entities near to cluster8>>
+久しぶり, アナログ, 久し振り
+top3 entities near to cluster9>>
+アウェイ, セレッソ, ヴィッセル
+top3 entities near to cluster10>>
+雰囲気, 気持ち, フラッ
+top3 entities near to cluster12>>
+スタジアム, ホーム, スタンド
+top3 entities near to cluster18>>
+距離感, 距離
+top3 entities near to cluster20>>
+専用, 球技, 競技
+top3 entities near to cluster21>>
+観戦, 試合, 中継
+top3 entities near to cluster22>>
+席, 座席, 客席
+top3 entities near to cluster24>>
+選手, 子供
+top3 entities near to cluster25>>
+試合, 観客, 球場
+top3 entities near to cluster29>>
+屈指, 国内, 有数

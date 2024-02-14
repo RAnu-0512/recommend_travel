@@ -1,0 +1,25 @@
+--------------------similar_words:住吉神社(兵庫県三田市)--------------------
+top3 entities near to cluster0>>
+指定, 文化財, 有形
+top3 entities near to cluster1>>
+景色, 風景, 景観
+top3 entities near to cluster2>>
+全国水, 土水, 全国, 土
+top3 entities near to cluster3>>
+桜, 花, 緑
+top3 entities near to cluster4>>
+村石, 村国, 村
+top3 entities near to cluster9>>
+御朱印, 境内, 神社
+top3 entities near to cluster14>>
+風情, よう, 趣き
+top3 entities near to cluster15>>
+神社, 大社, ＫｉＬａＬａ
+top3 entities near to cluster16>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster17>>
+本殿, 境内, 拝殿
+top3 entities near to cluster19>>
+神社, 祭神, 境内
+top3 entities near to cluster20>>
+住宅, 文化, 建築

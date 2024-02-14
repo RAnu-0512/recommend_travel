@@ -1,0 +1,23 @@
+--------------------similar_words:癒しの森 ナチュラルピュアガーデン 但馬高原植物園 (ツリーハウス&かまくらレストラン)--------------------
+top3 entities near to cluster0>>
+時間, 予約, 受付
+top3 entities near to cluster1>>
+肉, 内臓, 部位
+top3 entities near to cluster4>>
+鳥雪, 鳥虫, 鳥
+top3 entities near to cluster11>>
+森林浴, 落ち葉, ジブリ
+top3 entities near to cluster12>>
+貸し出し, バーベキュー, 貸出
+top3 entities near to cluster13>>
+見た目, オマケ, ボリューム
+top3 entities near to cluster18>>
+バイキング, レストラン, バーベキュー
+top3 entities near to cluster33>>
+建物, 園内, 散策
+top3 entities near to cluster34>>
+木水, 土水, 木, 土
+top3 entities near to cluster35>>
+牛, マイ, セン
+top3 entities near to cluster36>>
+植物園, 植物, 高原

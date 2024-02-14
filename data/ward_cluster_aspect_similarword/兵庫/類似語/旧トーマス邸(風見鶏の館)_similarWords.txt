@@ -1,0 +1,25 @@
+--------------------similar_words:旧トーマス邸(風見鶏の館)--------------------
+top3 entities near to cluster1>>
+異人, 館, 洋館
+top3 entities near to cluster3>>
+フォト, メイン, オススメスポット
+top3 entities near to cluster6>>
+ベンチ, ソファ, ソファー
+top3 entities near to cluster12>>
+ライト, トーマス, サックス
+top3 entities near to cluster23>>
+風見鶏, 風見, ざみどり
+top3 entities near to cluster24>>
+坂, 高台, 丘
+top3 entities near to cluster26>>
+赤, レンガ, 茶色
+top3 entities near to cluster27>>
+外国, 異国
+top3 entities near to cluster28>>
+館, 入館, 本館
+top3 entities near to cluster29>>
+連続, ドラマ, テレビ
+top3 entities near to cluster30>>
+建物, 建築, 外壁
+top3 entities near to cluster32>>
+写真, 風景, 部屋

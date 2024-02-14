@@ -1,0 +1,67 @@
+--------------------similar_words:生野銀山--------------------
+top3 entities near to cluster0>>
+気分, 気持ち, 気持
+top3 entities near to cluster4>>
+価値, 興味, 観点
+top3 entities near to cluster10>>
+解説, 紹介, 補足
+top3 entities near to cluster11>>
+オブジェ, テーマパーク, 景色
+top3 entities near to cluster13>>
+作業, 仕事, 技術
+top3 entities near to cluster14>>
+子供, 子, 娘
+top3 entities near to cluster15>>
+入口, 入り口, 階段
+top3 entities near to cluster16>>
+名物, 土産, 名産
+top3 entities near to cluster17>>
+建物, 車両
+top3 entities near to cluster19>>
+人達, 人々
+top3 entities near to cluster21>>
+外側, 内側, 内部
+top3 entities near to cluster22>>
+金水, 土水, 金, 土
+top3 entities near to cluster25>>
+相方, 夕方, 笑
+top3 entities near to cluster27>>
+昔, 大昔, 戦前
+top3 entities near to cluster28>>
+人工, 天然, 自然
+top3 entities near to cluster30>>
+真夏, 半袖, 岩
+top3 entities near to cluster32>>
+入場料, 入園料, 入場, 入園
+top3 entities near to cluster33>>
+砂金掘り, 砂金
+top3 entities near to cluster34>>
+子供, 人達
+top3 entities near to cluster37>>
+方向道, 方向
+top3 entities near to cluster38>>
+避暑地, 避暑, 名所
+top3 entities near to cluster39>>
+見学, 展示, 資料
+top3 entities near to cluster40>>
+人形, 探し, 土産
+top3 entities near to cluster41>>
+靴, 足, 駐車
+top3 entities near to cluster44>>
+時代, 道路, 戦国
+top3 entities near to cluster46>>
+鉱山, 坑道, 炭鉱
+top3 entities near to cluster47>>
+鉱山, 炭鉱, 官営
+top3 entities near to cluster48>>
+鉱山, 炭鉱, 鉱業
+top3 entities near to cluster49>>
+採掘, 鉱物, 鉱石
+top3 entities near to cluster51>>
+跡, 跡地, 遺構
+top3 entities near to cluster52>>
+坑, 遊坑, 山神
+top3 entities near to cluster53>>
+坑道, 洞窟, 坑内
+top3 entities near to cluster56>>
+坑内, 坑道, 入坑

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:やしろ鴨川の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+卓球, テニスコート, パターゴルフ
+cluster1:(2)
+値段, 定食
+cluster2:(6)
+レストラン, 食事, コテージ, 郷, レンタル, キャンプ
+cluster3:(1)
+鴨川
+cluster4:(1)
+チキンカツ
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 4entities.

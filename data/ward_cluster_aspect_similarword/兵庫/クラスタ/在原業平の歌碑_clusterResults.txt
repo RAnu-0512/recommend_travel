@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:在原業平の歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+エリア, 松ノ内, 川沿い, 在原業平, 案内板, 所, 地, 歌碑, 緑地, 歌, 芦屋
+cluster1:(2)
+東灘・芦屋, 阪急芦屋川駅
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 2entities.

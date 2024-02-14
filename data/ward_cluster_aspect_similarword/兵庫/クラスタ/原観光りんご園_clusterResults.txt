@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:原観光りんご園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+自然, 滝, ナイフ, りんご, 子供, リンゴ, 近く
+cluster1:(3)
+禁止, 受付, 料金
+cluster2:(1)
+子供連れ
+cluster3:(1)
+原観光リンゴ園
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

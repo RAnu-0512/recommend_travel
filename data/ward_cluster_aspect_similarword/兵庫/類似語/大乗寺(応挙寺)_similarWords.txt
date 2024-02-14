@@ -1,0 +1,29 @@
+--------------------similar_words:大乗寺(応挙寺)--------------------
+top3 entities near to cluster0>>
+応挙, 応瑞, 応震
+top3 entities near to cluster2>>
+イラスト, 絵画
+top3 entities near to cluster3>>
+襖絵, 屏風絵, 襖, 屏風
+top3 entities near to cluster8>>
+神木, 石垣, 巨木
+top3 entities near to cluster9>>
+靴下, 毛糸, 厚手
+top3 entities near to cluster10>>
+足手, 足, 床
+top3 entities near to cluster13>>
+寺, 本堂, 住職
+top3 entities near to cluster14>>
+解説, 内容, 補足
+top3 entities near to cluster15>>
+対策, 通風, 感染
+top3 entities near to cluster18>>
+鑑賞, 勉強
+top3 entities near to cluster21>>
+解説, 案内, 紹介
+top3 entities near to cluster26>>
+弟子, 師匠, 一門
+top3 entities near to cluster27>>
+絵画, 作品, 画風
+top3 entities near to cluster28>>
+入館, 宿泊, 拝観

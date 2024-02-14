@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三国公園キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+国道, 道沿い, 道
+cluster1:(3)
+車, バイク, 駅
+cluster2:(2)
+日, 中心
+cluster3:(1)
+キャンプ場
+cluster4:(1)
+R427かみ
+cluster5:(2)
+交通量, 三国公園
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藍染め草木染体験工房 棉屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+友達, 人, 大人, 息子, 夫, 小学, 家族, 子供, 主人, 子供たち, パパ, 娘, 母, 子どもたち
+cluster1:(2)
+時間, 予定時間
+cluster2:(2)
+参加, 活動
+cluster3:(2)
+説明, 勉強
+cluster4:(1)
+作業
+cluster5:(5)
+指導, 宿題, 先生, 学校, 講師
+cluster6:(3)
+興味, 人柄, 好み
+cluster7:(4)
+次回, 次, 他, 最後
+cluster8:(11)
+資料, 話, 言葉, 模様, 所, 作品, 感想, お話, もの, 方, こと
+cluster9:(2)
+会話, 冗談
+cluster10:(1)
+何か
+cluster11:(6)
+サッカー, 夏休み, お子さん, 小学生, 輪ゴム, 思い出
+cluster12:(2)
+雰囲気, 話し方
+cluster13:(2)
+バック, バッグ
+cluster14:(4)
+ストール, ブラウス, Tシャツ, エプロン
+cluster15:(10)
+仕上がり, アイディア, ワクワク, デザイン, サンプル, ところ, コミュニケーション, サポート, 持ち込み, オススメ
+cluster16:(1)
+スキル
+cluster17:(5)
+自然, 世界, 日本, 歴史, 文化
+cluster18:(4)
+壺, 店主, 店, 液体
+cluster19:(5)
+綿, 柄, 色, 藍色, 長Tシャツ
+cluster20:(5)
+姫路, 姫路木綿, エコバッグ, 姫路旅行, エコバック
+cluster21:(4)
+料金, 追加料金, 駐車場, 重量分追加料金
+cluster22:(4)
+糸紡ぎ, 染め, 染め方, 藍染め
+cluster23:(2)
+藍染, 藍染作品
+cluster24:(2)
+藍染初体験, 藍染体験
+cluster25:(8)
+染色体験, 体験者みんな, 夏休み自由作品, 体験スタート, 染色, 自由研究, JAPAN BLUE サッカー日本代表, 体験
+
+howmany entities : 111
+howmany clusters : 26
+howmany entities (more than3entities) : 92
+howmany clusters (more than3entities) : 15
+deleted 19entities.

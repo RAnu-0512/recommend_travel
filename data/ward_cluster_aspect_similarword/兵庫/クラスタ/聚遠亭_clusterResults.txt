@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:聚遠亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コロナ禍前, 辺り一帯
+cluster1:(19)
+感じ, ボランティア, コケ, 目, 初期, ほう, シーズン, 建物, 方々, ヒガシマル, 風景, 横, 職, 見学, 淡路島, こと, 聚遠, 風情, 上
+cluster2:(2)
+紅葉時期, 紅葉
+cluster3:(2)
+池, 御所
+cluster4:(4)
+桜, 茶, 季節, 秋
+cluster5:(2)
+孝明, 安政
+cluster6:(9)
+茶席, 京都所司, 日本庭園, 茶室, 展望絶景, 聚遠亭, 庭園, 茶会, 楽庵
+cluster7:(4)
+龍野公園, 龍野, 龍野城, 龍野神社
+cluster8:(2)
+龍野藩, 龍野藩主脇
+cluster9:(2)
+坂安宅に功, 野見宿禰神社
+
+howmany entities : 48
+howmany clusters : 10
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 4
+deleted 12entities.

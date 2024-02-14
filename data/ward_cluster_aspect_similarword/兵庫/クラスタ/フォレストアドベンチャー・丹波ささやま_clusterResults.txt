@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フォレストアドベンチャー・丹波ささやま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+使い方, スタッフ, 数カ所, マイペース, ストレス, 後ろ向き, スポット, 着地, ジップライン, ペース, 着替え, コース, ハーネス, スタート, コンビニ
+cluster1:(2)
+存分, 良き
+cluster2:(6)
+後ろ, 店員, 大声, 服, 背中, 体
+cluster3:(3)
+感じ, 気, こと
+cluster4:(5)
+場所, 最後, 中, 他, 近く
+cluster5:(2)
+方々, 方
+cluster6:(3)
+人, 子供, おじさんたち
+cluster7:(5)
+空気, 自然, 山, 田舎, 道
+cluster8:(5)
+しゃぎ服, 恐怖心, 楽しさ, 高所恐怖症, 駐車場
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 7
+deleted 4entities.

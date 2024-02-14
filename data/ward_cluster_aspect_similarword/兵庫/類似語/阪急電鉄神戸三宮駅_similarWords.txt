@@ -1,0 +1,11 @@
+--------------------similar_words:阪急電鉄神戸三宮駅--------------------
+top3 entities near to cluster2>>
+電車, 改札, 特急
+top3 entities near to cluster3>>
+拠点, 中心, 周辺
+top3 entities near to cluster4>>
+乗り換え, マイカー, 最寄り駅
+top3 entities near to cluster9>>
+よう, 必要
+top3 entities near to cluster11>>
+駅, 駅前, 徒歩

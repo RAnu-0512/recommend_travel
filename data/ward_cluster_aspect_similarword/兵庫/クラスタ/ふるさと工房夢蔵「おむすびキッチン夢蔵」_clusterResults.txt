@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふるさと工房夢蔵「おむすびキッチン夢蔵」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+店内, ドーナツ, イートイン, ドッグ, メニュー, 売り切れ状態, おにぎり, 種類, 方, 持ち帰り
+cluster1:(3)
+鹿押し, シカ, 鹿バーガー
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

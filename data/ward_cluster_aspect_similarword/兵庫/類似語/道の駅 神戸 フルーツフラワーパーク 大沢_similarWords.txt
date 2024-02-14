@@ -1,0 +1,73 @@
+--------------------similar_words:道の駅 神戸 フルーツフラワーパーク 大沢--------------------
+top3 entities near to cluster0>>
+ドッグラン, ドックラン, ミニドックラン
+top3 entities near to cluster2>>
+テーマパーク, アトラクション, レストラン
+top3 entities near to cluster3>>
+ソフトクリーム, ポルトバザール, グランブッフェ
+top3 entities near to cluster4>>
+ライトアップ, イルミネーション, マッピング
+top3 entities near to cluster5>>
+チューリップ, 色とりどり, ファーマーズ
+top3 entities near to cluster6>>
+イベント, ショップ, サイト
+top3 entities near to cluster8>>
+エリア, フロント, ドライブ
+top3 entities near to cluster9>>
+フラワー, ラベンダー, フルーツ
+top3 entities near to cluster10>>
+プール, ジェット, バケツ
+top3 entities near to cluster11>>
+カフェ, 雰囲気, 隅っこ
+top3 entities near to cluster13>>
+バイキング, スイーツ, デザート
+top3 entities near to cluster14>>
+売り場, 買い物, イオン
+top3 entities near to cluster15>>
+ランチ, ディナー, ランチタイム
+top3 entities near to cluster16>>
+秋, 夏, 冬
+top3 entities near to cluster18>>
+パン, プリン, チーズ
+top3 entities near to cluster24>>
+お花, フラワー, 花
+top3 entities near to cluster25>>
+点灯, がり
+top3 entities near to cluster26>>
+子供, 子ども, 劇場
+top3 entities near to cluster27>>
+会場, 席, 客席
+top3 entities near to cluster28>>
+飲食店, 店内, 飲食
+top3 entities near to cluster29>>
+料理, 食事, 食材
+top3 entities near to cluster32>>
+外観, 建物, 写真
+top3 entities near to cluster37>>
+夕方, お昼, 昼
+top3 entities near to cluster38>>
+入口付近, 入り口付近, 入口, 入り口
+top3 entities near to cluster40>>
+近隣, 地元, 家族
+top3 entities near to cluster44>>
+駅, 駅前, 港
+top3 entities near to cluster47>>
+入場, 駐車, 入園
+top3 entities near to cluster50>>
+狩り, 狩る, 狩っ
+top3 entities near to cluster53>>
+パン屋, ピザ屋, パン, ピザ
+top3 entities near to cluster55>>
+大型犬, 大型, 遊園
+top3 entities near to cluster56>>
+温泉, 温泉郷, 露天風呂
+top3 entities near to cluster58>>
+湯, お湯, 温泉
+top3 entities near to cluster62>>
+農家, 農産物, 農作物
+top3 entities near to cluster63>>
+野菜, 農家, 果物
+top3 entities near to cluster65>>
+園内, 庭園, 公園
+top3 entities near to cluster66>>
+施設, 駐車

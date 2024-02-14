@@ -1,0 +1,19 @@
+--------------------similar_words:有馬温泉 兵衛向陽閣--------------------
+top3 entities near to cluster0>>
+閣, 向陽, 閣前
+top3 entities near to cluster1>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster3>>
+食事, 夕食, 和食
+top3 entities near to cluster6>>
+滞在, 日帰り, 宿泊
+top3 entities near to cluster7>>
+店内, 人達
+top3 entities near to cluster8>>
+老舗, 格式, 一流
+top3 entities near to cluster9>>
+川, 鯉, 町
+top3 entities near to cluster10>>
+旅館, 宿, 民宿
+top3 entities near to cluster13>>
+宿泊, 温泉, 浴場

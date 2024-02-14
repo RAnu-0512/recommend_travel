@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:谷崎潤一郎「細雪」文学碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+細雪, 谷崎潤一郎
+cluster1:(7)
+エリア, 人, 記述, 水害, 多く, 石碑, 芦屋川
+cluster2:(4)
+東灘・芦屋, 阪神大, 神戸阪神, 阪急芦屋川駅
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

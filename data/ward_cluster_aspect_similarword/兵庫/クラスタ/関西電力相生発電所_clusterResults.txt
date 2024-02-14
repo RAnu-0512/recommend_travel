@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:関西電力相生発電所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+重油タンク, 発電所
+cluster1:(2)
+パイプ, ライト
+cluster2:(3)
+海沿い, 自動車, クルマ
+cluster3:(1)
+中
+cluster4:(1)
+家
+cluster5:(1)
+金属フレーム
+cluster6:(1)
+直系
+cluster7:(1)
+付加物
+cluster8:(1)
+スグ横
+cluster9:(1)
+臨場感
+
+howmany entities : 14
+howmany clusters : 10
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 11entities.

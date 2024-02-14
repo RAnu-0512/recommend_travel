@@ -1,0 +1,21 @@
+--------------------similar_words:出石皿そば みくら--------------------
+top3 entities near to cluster0>>
+蕎麦, そば, ソバ
+top3 entities near to cluster1>>
+子供, 子ども, 親達
+top3 entities near to cluster3>>
+笑顔, 人柄
+top3 entities near to cluster4>>
+教室, 指導, 先生
+top3 entities near to cluster5>>
+連絡, 予約, 世話
+top3 entities near to cluster6>>
+息子, 娘, 母
+top3 entities near to cluster10>>
+子供, 小学生, 大人
+top3 entities near to cluster14>>
+体験, 体験談, 初
+top3 entities near to cluster15>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster16>>
+作業, 接客, 工程

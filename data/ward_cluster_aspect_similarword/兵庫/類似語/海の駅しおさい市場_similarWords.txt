@@ -1,0 +1,23 @@
+--------------------similar_words:海の駅しおさい市場--------------------
+top3 entities near to cluster0>>
+駐車, 食べ, 停め
+top3 entities near to cluster1>>
+駅車, 駅, 駐車
+top3 entities near to cluster2>>
+海産物, シャコ, むき身
+top3 entities near to cluster3>>
+バーベキュー, 釣り堀, ＢＢＱ
+top3 entities near to cluster4>>
+おみやげ, レストラン, イベント
+top3 entities near to cluster7>>
+季節, 時季, 時期
+top3 entities near to cluster9>>
+海鮮, 定食
+top3 entities near to cluster13>>
+牡蠣
+top3 entities near to cluster14>>
+牡蠣, 牡蛎, カキ
+top3 entities near to cluster15>>
+牡蠣, 牡蛎, カキ
+top3 entities near to cluster20>>
+食べ放題, 食べ, たべ

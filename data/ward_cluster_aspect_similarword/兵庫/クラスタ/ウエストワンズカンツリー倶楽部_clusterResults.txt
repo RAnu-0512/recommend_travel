@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ウエストワンズカンツリー倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+南部, 北部
+cluster1:(4)
+コース, 雨, バンカー, 職員
+cluster2:(1)
+天気予報
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 3entities.

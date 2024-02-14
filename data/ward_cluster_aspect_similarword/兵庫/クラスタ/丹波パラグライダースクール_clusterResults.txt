@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波パラグライダースクール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+初体験, 体験, 滑空時間
+cluster1:(2)
+鳥, 飛ぶ
+cluster2:(2)
+景色, 気分
+cluster3:(3)
+パラグライダー, パイロット, 写真
+cluster4:(3)
+話, 方, こと
+cluster5:(2)
+帰り, 時間
+cluster6:(1)
+後ろ
+cluster7:(1)
+怪我
+cluster8:(1)
+豊岡
+cluster9:(1)
+怖さ
+cluster10:(1)
+石生駅
+
+howmany entities : 20
+howmany clusters : 11
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 11entities.

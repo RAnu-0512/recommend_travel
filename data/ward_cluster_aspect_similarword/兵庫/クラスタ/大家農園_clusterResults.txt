@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大家農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(41)
+感じ, 場所, 通路, 外, 界隈, 後ろ, レーン, 通行, 気持ち, ナビ, 荷物, スーパー, スポット, 人, 上着, 恒例, 車, ベンチ, 対応, 客, イチゴ, 当たりハズレ, マナー, 時間, をえらん, 赤, 状態, 残り物, コンテナ, 方, ジャケット無し, くさ, 女性, いちご, 何グループ, イオン, 受付, 看板立て, ハウス, 出来, 葉っぱ
+cluster1:(2)
+いちご狩り, イチゴ狩り
+cluster2:(3)
+大家農園, 農家, 農園
+cluster3:(2)
+果汁たっぷり, 果汁
+cluster4:(2)
+章姫, 子供達
+cluster5:(7)
+苺, 粒, 味, 香り, 品種, 甘, 雑味
+cluster6:(1)
+4.5.6
+
+howmany entities : 58
+howmany clusters : 7
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 3
+deleted 7entities.

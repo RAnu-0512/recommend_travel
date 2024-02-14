@@ -1,0 +1,55 @@
+--------------------similar_words:三井アウトレットパーク マリンピア神戸--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 満車
+top3 entities near to cluster7>>
+海岸, 海浜, 公園
+top3 entities near to cluster9>>
+カフェ, ショップ, レストラン
+top3 entities near to cluster11>>
+最寄り, バス停, 中心地
+top3 entities near to cluster13>>
+レストラン, ハーバーセンター, テーマパーク
+top3 entities near to cluster14>>
+バーゲン, カジュアル, シューズ
+top3 entities near to cluster15>>
+イベント, アイテム, デザイン
+top3 entities near to cluster16>>
+レジャー, ワールド, スペース
+top3 entities near to cluster18>>
+好み, おすすめ, 面白い
+top3 entities near to cluster21>>
+コート, ウエア, ウェア
+top3 entities near to cluster23>>
+海, 向こう, 山側
+top3 entities near to cluster24>>
+海, 海岸, 海辺
+top3 entities near to cluster25>>
+景色, 夕陽, 夕日
+top3 entities near to cluster27>>
+子供, 子ども, 息子
+top3 entities near to cluster31>>
+週末, 夕方, 休日
+top3 entities near to cluster32>>
+値段, 価格, 商品
+top3 entities near to cluster37>>
+店舗数, 総数, 店舗
+top3 entities near to cluster41>>
+雑貨, 屋内
+top3 entities near to cluster42>>
+名所, 気分, 周遊
+top3 entities near to cluster43>>
+施設, 設備, 敷地
+top3 entities near to cluster44>>
+建物, 敷地, 中庭
+top3 entities near to cluster45>>
+公園, 遊具, 広場
+top3 entities near to cluster47>>
+軽食, 休憩, 喫煙
+top3 entities near to cluster49>>
+食事, 散歩, 行動
+top3 entities near to cluster51>>
+購入, 利用, 試着
+top3 entities near to cluster52>>
+駅車, 駅, 駅前
+top3 entities near to cluster53>>
+バス, 時間, 送迎

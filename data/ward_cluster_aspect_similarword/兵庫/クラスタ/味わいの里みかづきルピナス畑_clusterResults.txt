@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:味わいの里みかづきルピナス畑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宍粟〜佐, 大歳神社
+cluster1:(7)
+感じ, もの, 前, 中, 木, 時期, 名前
+cluster2:(5)
+ルピナス, 花, 我が家, お花畑, 色とりどり
+cluster3:(2)
+色, 写真
+cluster4:(1)
+周辺
+cluster5:(1)
+販売
+cluster6:(1)
+ルピナス祭り
+cluster7:(1)
+縦長
+cluster8:(1)
+花畑
+cluster9:(1)
+晩春
+cluster10:(6)
+蕎麦屋, ひまわり畑, コスモス畑, 直売所, 観光地, ルピナス畑
+
+howmany entities : 28
+howmany clusters : 11
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 10entities.

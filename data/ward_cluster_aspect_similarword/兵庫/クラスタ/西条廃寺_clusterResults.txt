@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西条廃寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+北山公園, 加古川市, 兵庫県, 印南野平野
+cluster1:(6)
+寺院, 中, 構成要素, 寺院跡, 遺跡, 高台
+cluster2:(1)
+西条古墳群
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 1entities.

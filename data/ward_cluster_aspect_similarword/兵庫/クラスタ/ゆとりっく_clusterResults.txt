@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆとりっく>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+受付, 価格
+cluster1:(4)
+人, プール, 気持ち, 方
+cluster2:(2)
+隣, 地元
+cluster3:(1)
+プール帰り
+cluster4:(1)
+光景
+cluster5:(1)
+喋り
+cluster6:(5)
+内湯, 湯, 温泉地, 観光客, 温泉
+cluster7:(1)
+うずしお温泉
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 8entities.

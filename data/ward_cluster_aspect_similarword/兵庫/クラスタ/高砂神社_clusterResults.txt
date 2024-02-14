@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高砂神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+高砂神社, 松, 神功皇后, 高砂城, 高砂, 高砂の松
+cluster1:(3)
+疫病流行, 国家鎮護, 疫病
+cluster2:(5)
+能舞台, 神社, 境内, 謡曲, 縁結び神社
+cluster3:(2)
+発祥, 地
+cluster4:(5)
+スサノオ, 場所, 途中, 雰囲気, 写真
+cluster5:(3)
+街, 地域, 地元
+cluster6:(1)
+クシナダ夫婦
+cluster7:(3)
+かこのみなと, 帆, 浦舟
+cluster8:(1)
+江戸時代
+cluster9:(1)
+鹿子水門
+cluster10:(1)
+おほなむち
+cluster11:(1)
+大己貴命
+cluster12:(1)
+高砂城築城の為に神社
+
+howmany entities : 33
+howmany clusters : 13
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 6
+deleted 8entities.

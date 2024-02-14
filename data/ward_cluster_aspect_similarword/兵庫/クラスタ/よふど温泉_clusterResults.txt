@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:よふど温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+よふど温泉, ふど温泉
+cluster1:(2)
+小川, 田園
+cluster2:(3)
+温度, 身体, 肌
+cluster3:(2)
+食堂, 館内
+cluster4:(5)
+感じ, 勢い, 中, 物, こと
+cluster5:(3)
+サウナ, ラドン, 水風呂
+cluster6:(14)
+メニュー, ところ, 露天風呂, 気持ち, ホタル, ごはん, レバー, メイン, サラサラ, 田んぼ, ドライヤー, シャワー, 手ぶら, 雰囲気
+cluster7:(1)
+和田山
+cluster8:(3)
+人, ☆露天風呂, 男性
+cluster9:(11)
+風呂, 露天, 無色透明, 清潔感, 温泉久しぶり, 泉質, 内湯, 湯, 湯質, タオル巻き付けお湯, 温泉
+
+howmany entities : 46
+howmany clusters : 10
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 6
+deleted 7entities.

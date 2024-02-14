@@ -1,0 +1,11 @@
+--------------------similar_words:播磨中央公園ふじいでんこうさいくるらんど--------------------
+top3 entities near to cluster1>>
+子供, 子ども, 家族
+top3 entities near to cluster3>>
+公園, 景色, 敷地
+top3 entities near to cluster5>>
+自転車, サイクリング
+top3 entities near to cluster6>>
+子, 目の子, 家の子
+top3 entities near to cluster7>>
+子供連れ, 子供, 子ども

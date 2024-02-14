@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路の宝蔵(姫路城前)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土産品, 工芸品
+cluster1:(2)
+商業施設, 駐車場
+cluster2:(4)
+一角, 姫路城, 姫路, いの屋敷
+cluster3:(1)
+家老屋敷跡公園
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ユニチカ記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+レンガ作り, 建物, 魅力, 明治, 時代, 風景
+cluster1:(3)
+ユニチカ記念館, 展示品, 記念館
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 0entities.

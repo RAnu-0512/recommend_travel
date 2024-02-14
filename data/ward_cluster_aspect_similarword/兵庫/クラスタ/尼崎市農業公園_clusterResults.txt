@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尼崎市農業公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+芝生ゾーン, 芝生
+cluster1:(4)
+薔薇, お花, 花, 梅
+cluster2:(4)
+憩い, 広場, 市民, 公園
+cluster3:(12)
+菜の花, 河川敷, 人, 弁当, ランニング, 目当て, 季節, 老若男女, 真ん中, 子連れ, 横, 子供
+cluster4:(6)
+感じ, 場所, 場, 見所, 何か, 目的
+cluster5:(1)
+お勧め
+cluster6:(1)
+梅野木
+cluster7:(7)
+公的施設だし農業公園, 害虫被害, 駐車場無料, 農業公園, 都市部, 写真家達, 農業公園四季
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 4entities.

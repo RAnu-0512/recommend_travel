@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寺家町周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JR加古川駅, JR
+cluster1:(2)
+加古川市, 兵庫県
+cluster2:(4)
+周辺, 商店街, 印象, 寺家町
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

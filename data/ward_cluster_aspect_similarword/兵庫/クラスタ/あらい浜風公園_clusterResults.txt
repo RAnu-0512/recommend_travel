@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あらい浜風公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 遊具
+cluster1:(2)
+天気, 景色
+cluster2:(8)
+息子, 横, 感じ, 子ども, 海沿い, ローラー滑り台, トイレ, 海
+cluster3:(1)
+子供達
+cluster4:(1)
+駐車場
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 6entities.

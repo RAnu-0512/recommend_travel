@@ -1,0 +1,11 @@
+--------------------similar_words:太閤の湯殿館--------------------
+top3 entities near to cluster1>>
+太閤, 秀吉, 豊臣
+top3 entities near to cluster4>>
+裏手, 入り口, 境内
+top3 entities near to cluster5>>
+湯, 温泉, 風呂
+top3 entities near to cluster6>>
+温泉, 寺, 御殿
+top3 entities near to cluster7>>
+施設, 宿泊, 設備

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城周辺観光ループバス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+姫路観光, 好古園, 姫路市, 姫路駅, 山陽姫路駅
+cluster1:(2)
+子供たち, 子供
+cluster2:(15)
+バス停, 人, 姫路城, 車体, 足, 周辺, 乗り物, レトロバス, JR, 施設, 駅, 週末, 城, 市, 近く
+cluster3:(6)
+感じ, 値段, パス, 人気, 場合, 方
+cluster4:(1)
+国宝姫路城
+cluster5:(1)
+可能性
+cluster6:(1)
+一筆書き
+cluster7:(1)
+土日祝日
+cluster8:(12)
+観光, 乗車券, 路線バス, 運賃, 乗車料金, ボンネット型バス, バス, 姫路城ループバス, 観光地, ボンネットバス, ループバス, 観光客
+
+howmany entities : 44
+howmany clusters : 9
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 4
+deleted 6entities.

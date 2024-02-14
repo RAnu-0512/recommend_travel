@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青玉神社の大杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+社叢, 青玉神社, 神社
+cluster1:(6)
+大杉, 天然記念物, 兵庫県, 見ごたえ, 高さ, 神秘
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 0entities.

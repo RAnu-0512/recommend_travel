@@ -1,0 +1,7 @@
+--------------------similar_words:酒ミュージアム(白鹿記念酒造博物館)--------------------
+top3 entities near to cluster0>>
+土産, 昔, おみやげ
+top3 entities near to cluster1>>
+樽酒, 酒蔵, 樽
+top3 entities near to cluster2>>
+記念, 館, 入館

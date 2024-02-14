@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津居山港漁協フィッシャーマンズビレッジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温泉旅館, 観光客
+cluster1:(23)
+値段, 場所, 価格, 魚介類, 朝ごはん, 配送, もの, カレイ, 人, ハタハタ, 帰り, 甘み, 家族, 土産, 現地, 意外, 地元, こと, 他, お気に入り, 大きめ, 津居山, オススメ
+cluster2:(6)
+若カニ, 豊岡, だしカニ, 蟹, 城崎, カニ
+cluster3:(2)
+干しカレイ, 鰈
+cluster4:(4)
+魚好き, 魚, 干物, 水槽
+cluster5:(2)
+保冷バッグ, トロ箱
+
+howmany entities : 39
+howmany clusters : 6
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 3
+deleted 6entities.

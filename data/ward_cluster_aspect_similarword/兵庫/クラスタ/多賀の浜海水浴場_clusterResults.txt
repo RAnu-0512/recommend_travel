@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多賀の浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駐車場, 海水浴場, 更衣室, 駐車料金, 整備費, 滞在時間
+cluster1:(2)
+仕方ないかぁ, あとだし
+cluster2:(37)
+感じ, 禁止, 人達, ペット, テント, 大半, 気持ち, 人, 口コミ, 概要, パラソル, 対応, 当方, 家, ファミリー, シーズン, 持ち込み, 可, プラス, トイレ, 海水浴, コロナ, 子連れ, 影響, シャワー, 方, 一文, 状況, 子ども, 淡路島, 子供, 評価, 時期, 他, 羽目, 仕方, 近く
+cluster3:(2)
+子ども達, 子供たち
+cluster4:(2)
+子供連れ, 家族連れ
+cluster5:(6)
+波, 海水浴客, 水着, 海デビュー, 海, 遠浅
+cluster6:(2)
+小型犬, ペット遊泳
+
+howmany entities : 57
+howmany clusters : 7
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 3
+deleted 8entities.

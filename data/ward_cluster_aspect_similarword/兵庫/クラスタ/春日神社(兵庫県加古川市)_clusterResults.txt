@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:春日神社(兵庫県加古川市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+映画化, 化猫話
+cluster1:(5)
+神社, 境内, 分霊, ロケーション神社, 春日神社
+cluster2:(2)
+時代頃, 時代
+cluster3:(3)
+加古川市, 駅, 加古川駅
+cluster4:(3)
+洋館, 建物, 住宅
+cluster5:(3)
+緑, 川, 壁
+cluster6:(13)
+たたずまい, 川べり, 場所, 気持ち, 称名寺, 春日大社, 歴史, 目, 銀杏木, 付近, 雰囲気, 地元, ニッケ
+cluster7:(1)
+利益
+cluster8:(1)
+赤壁さん
+cluster9:(5)
+丸亀稲荷神社, 丸亀神社, 奈良本宮, 奈良・春日大社, 兵庫県
+
+howmany entities : 38
+howmany clusters : 10
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 6
+deleted 6entities.

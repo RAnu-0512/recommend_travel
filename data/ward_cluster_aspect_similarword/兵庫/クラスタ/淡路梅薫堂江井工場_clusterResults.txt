@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路梅薫堂江井工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+匂袋づくり体験, 線香職人体験, お香作り, お香作り体験, 香づくり体験, 陶芸体験, お香づくり体験, 体験
+cluster1:(7)
+プチ情報, 営業時間過ぎ, 予約, 旅行プラン, 淡路宿泊旅行, 予約時間, 関空→淡路島
+cluster2:(5)
+好み, 種類, 色, 選ぶ, 違い
+cluster3:(2)
+作成, 対応
+cluster4:(5)
+話, 時間, 方, 中, こと
+cluster5:(19)
+コーヒー, 工作, 母, 手作り, 大阪, 産地, 生産, 大人, ダブルデート, 日本, 秋, 父, かおり, 地域, 家族, 淡路島, 店, 小学校, 娘
+cluster6:(7)
+途中鼻, 香, 香り, 鼻, 香料, 匂い袋, 線香
+cluster7:(1)
+梅薫堂
+
+howmany entities : 54
+howmany clusters : 8
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 6
+deleted 3entities.

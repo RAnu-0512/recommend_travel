@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:扁妙の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+落石注意, 落石
+cluster1:(5)
+水量, 所, 途中, 山道, 看板
+cluster2:(3)
+滝, グリーンエコー笠形, 扁妙滝
+cluster3:(1)
+あり入村料
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

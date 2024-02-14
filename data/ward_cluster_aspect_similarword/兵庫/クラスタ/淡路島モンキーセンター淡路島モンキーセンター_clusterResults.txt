@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路島モンキーセンター淡路島モンキーセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+餌, 食事風景, 餌やり
+cluster1:(11)
+姿, 淡路島, 山道, 嵐山, 鹿, 取合い, サル山, タイム, 気持ち良さ, サル, 猿
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

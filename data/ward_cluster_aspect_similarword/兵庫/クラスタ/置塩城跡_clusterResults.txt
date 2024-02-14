@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:置塩城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+おすすめポイント, 黒田, 全体, 服装, アドバイス, 遺構, 交通手段, 絨毯, 由来, 麓, 木, 時期, バス., 落ち葉, 葉っぱ
+cluster1:(4)
+名城, 空堀・郭, 置塩城跡, 本丸跡
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 0entities.

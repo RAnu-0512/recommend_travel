@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一宮温泉 まほろばの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食事, 食事処
+cluster1:(3)
+風呂, お湯, 温泉
+cluster2:(2)
+海水, 塩
+cluster3:(9)
+洗い場, サウナ, 露天風呂, 景色, 気持ち, 匂い, 清掃, こと, 館内
+cluster4:(3)
+山, 森, 姫路
+cluster5:(3)
+体中, どこか, 小旅行
+cluster6:(3)
+食塩泉, 乾燥肌, 肌
+cluster7:(1)
+畳敷き
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 5entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:M'sファクトリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+作成, 説明, 変更
+cluster1:(7)
+作り方, スマホケース, オーナー, ペンケース, ポーチ, 他, プラン
+cluster2:(2)
+メガネケース, ブックカバー
+cluster3:(1)
+現地
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東山公園(兵庫県たつの市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国民宿舎, 観光客
+cluster1:(8)
+桜, 桜秋, 季節, 紅葉, 春, 秋, てら紅葉, 時期
+cluster2:(29)
+散歩, ところ, ライト, ライトアップ, 緑, 景色, 気持ち, 自然, 人, スポット, SNS映え, 利用, ツツジ, シーズン, 名所, 揖保川, おすすめスポット, 吊り橋, いろ, 公園, 紅葉狩り, 子供, 東山公園, もみじ, 環境, 温泉, 風情, 価値, 近く
+cluster3:(1)
+志んぐ荘
+
+howmany entities : 40
+howmany clusters : 4
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 2
+deleted 3entities.

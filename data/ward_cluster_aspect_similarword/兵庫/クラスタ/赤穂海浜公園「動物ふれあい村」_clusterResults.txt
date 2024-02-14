@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤穂海浜公園「動物ふれあい村」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+子供たち, 家族連れ, 息子, 家族, 子供
+cluster1:(2)
+海沿い, 瀬戸内海
+cluster2:(4)
+チケット, そのもの, コーナー, オススメ
+cluster3:(6)
+アルパカ, モルモット, カンガルー, カピパラ, ワラビー, カピバラ
+cluster4:(1)
+マーラ
+cluster5:(1)
+感じ
+cluster6:(3)
+景色, 園内, 公園
+cluster7:(6)
+赤穂, エサ, やぎ, 餌, カメ, 塩
+cluster8:(1)
+兵庫県
+cluster9:(5)
+動物園, 動物, 動物たち, 赤穂海浜公園, 動物ふれあい村
+
+howmany entities : 34
+howmany clusters : 10
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 6
+deleted 5entities.

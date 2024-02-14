@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 宿場町ひらふく>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(29)
+途中, ひまわり畑, 利用者, 外, ソフト, コロッケ, レストラン, 食事, 物販コーナー, 帰り, 国道, ソフトクリーム, 昼食, 城跡, 規模, 食事処, 名物, 作用インター, かけそば, 武蔵, 駅, 道, 当地ソフトクリーム, こんにゃくミックスソフトクリーム, カツカレー, 農産物, 地元, こと, こんにゃく
+cluster1:(3)
+観光場所, 展望台, 特産物
+cluster2:(4)
+利神, 利神城跡, ひらふく定食, 佐用町
+
+howmany entities : 36
+howmany clusters : 3
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 3
+deleted 0entities.

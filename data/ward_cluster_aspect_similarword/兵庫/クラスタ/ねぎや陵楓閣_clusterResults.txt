@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ねぎや陵楓閣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+有馬温泉, 有馬温泉街, 老舗旅館, 湯有馬温泉, 温泉旅館, 城崎温泉
+cluster1:(8)
+新しさ, 熱め, 清潔感, 立派さ, 豊富さ, べきもの, 古め, 噛み応え
+cluster2:(17)
+値段, 歯, 味, 場所, 部屋, 世辞, 弁当, 品数, 掃除, 食事, 予約, 建物, 紅葉, 応対, 料理, 設備, 館内
+cluster3:(4)
+感じ, 選択, 作り, こと
+cluster4:(2)
+交互, 両方
+cluster5:(8)
+スタッフ, サービス, 露天風呂, オプション, 赤褐色, 楽しみ, 泊まり, 雰囲気
+cluster6:(2)
+母, 妻
+cluster7:(2)
+日本, 昔
+cluster8:(3)
+人, 最後, 中
+cluster9:(5)
+無色, バラエティ豊か, 旨味, 良さ, 濁り
+cluster10:(3)
+銀泉, 有馬, 金泉
+cluster11:(2)
+蛤, 鮑
+cluster12:(6)
+仲居, 風呂, 宿, 旅館, 湯, 温泉
+cluster13:(3)
+貸切風呂, 晩ご飯, 貸切
+cluster14:(1)
+兵庫県
+
+howmany entities : 72
+howmany clusters : 15
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 10
+deleted 9entities.

@@ -1,0 +1,25 @@
+--------------------similar_words:伊丹スカイパーク--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場代
+top3 entities near to cluster2>>
+離陸, 着陸, 離着陸
+top3 entities near to cluster3>>
+遊具, 公園, 滑り台
+top3 entities near to cluster6>>
+発着, 空港, 航空
+top3 entities near to cluster7>>
+子ども, 子供, お子さん
+top3 entities near to cluster8>>
+水遊び, 滑り台, 遊び場
+top3 entities near to cluster10>>
+オススメ, こっち, とこ
+top3 entities near to cluster12>>
+アトラクション, 滑り台, アスレチック
+top3 entities near to cluster17>>
+自販機, トイレ, ベンチ
+top3 entities near to cluster19>>
+デート, カフェ, オトナ
+top3 entities near to cluster21>>
+飛行機, 航空機, 離発着
+top3 entities near to cluster23>>
+公園, 散歩, 広場

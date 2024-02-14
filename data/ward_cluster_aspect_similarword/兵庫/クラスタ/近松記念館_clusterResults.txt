@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:近松記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+右手, 胸像, 芸術, カラー舗装, 商店街, 墓, 記念館, 東, 人形浄瑠璃, 人々, 奥, 森, 川, 設立, 道, 方, 地域, 一帯, 住宅街, 展示物
+cluster1:(2)
+近松門左衛門の記念館, 近松記念館
+cluster2:(2)
+近松, 近松公園
+cluster3:(1)
+JR宝塚線塚口駅
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 1
+deleted 5entities.

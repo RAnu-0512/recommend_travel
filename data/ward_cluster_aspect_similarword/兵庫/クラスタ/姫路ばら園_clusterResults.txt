@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路ばら園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+バラゼリー, バラ, 薔薇, 薔薇園, 姫路ばら園, バラ園内, バラ園
+cluster1:(39)
+感じ, 場所, メニュー, 香り, 朝イチ, 景色, 休日, 開園, 品種, 見所, 満載, 人, 空間, 車, カフェ, 種類, 園内, バスツアー, 満開, 次, 工場, カフェ利用, 時間, カメラ, 入園, 癒し, 鑑賞, 見, 方, キャンバス, ツアー, かんじ, 雰囲気, 家族, 気, 姫路, 時期, バック, 駐車場
+
+howmany entities : 46
+howmany clusters : 2
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 2
+deleted 0entities.

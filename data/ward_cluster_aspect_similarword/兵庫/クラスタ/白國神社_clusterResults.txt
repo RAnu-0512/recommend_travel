@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白國神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+アトラクション, 利益, コノハナサクヤヒメ, 明治, 神社, 仔犬, 白国神社, 像, 皇子, 景行天皇, 播磨国造, 女性必須, 安産, 白國神社, 絶世, 中期, 本殿
+cluster1:(4)
+神吾田津日売命, 阿曽武命, 稲背入命, 美女コノハナ後拝所
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 0entities.

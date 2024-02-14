@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Sobar>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蕎麦打ち体験, 蕎麦打ち
+cluster1:(6)
+食べ比べ, 蕎麦, そば, 体験型, 蕎麦作り, 体験
+cluster2:(8)
+場, まとめ方, 方, 理由, 評価, こと, 美味しさ, 経験
+cluster3:(3)
+店主, 店, 店長
+cluster4:(2)
+休み, 仕事
+cluster5:(10)
+デート, ところ, 宅急便, 笑, おっちゃん, 思い出, おかげ, ズバッ, お節介, 写真
+cluster6:(7)
+話, 人間, 主人, 人, 彼, 最後, 先生
+cluster7:(1)
+親戚
+cluster8:(3)
+パン, 株, 箱
+cluster9:(5)
+神戸, 塩屋, 将来タメ, THE関西, 関東
+cluster10:(2)
+距離感, 誕生日旅行
+
+howmany entities : 49
+howmany clusters : 11
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 7
+deleted 7entities.

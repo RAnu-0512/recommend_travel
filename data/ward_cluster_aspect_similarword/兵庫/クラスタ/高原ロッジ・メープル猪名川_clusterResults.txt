@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高原ロッジ・メープル猪名川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レトロ感, 得感
+cluster1:(4)
+対応, 利用, 状態, 開始
+cluster2:(2)
+サウナ, 水風呂
+cluster3:(2)
+気持ち, 生き物
+cluster4:(3)
+スタッフ, ロッカー, フロント
+cluster5:(2)
+ドリンクバー, レストラン
+cluster6:(2)
+ジェットバス, エレベーター
+cluster7:(1)
+メニュー
+cluster8:(1)
+乗り換え
+cluster9:(1)
+露天風呂
+cluster10:(1)
+ランチ
+cluster11:(1)
+フロア
+cluster12:(1)
+支払い
+cluster13:(1)
+コロナ
+cluster14:(1)
+猪名川
+cluster15:(2)
+別, 地域
+cluster16:(3)
+人, 方, 子供
+cluster17:(12)
+味, 無色, ご飯, 敷地, 食事, 花, 入口, 奥, 匂い, 紅葉, ワイヤー動物, 秋
+cluster18:(12)
+日帰り入浴, 風呂, 駐車場, 池, 露天, 散策路, 散策気分, 脱衣所, 内湯, 川・池, 温泉, 紅葉弁当
+
+howmany entities : 54
+howmany clusters : 19
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 5
+deleted 20entities.

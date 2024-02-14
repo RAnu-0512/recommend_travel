@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:篠田いちご園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+イチゴ園, 篠田いちご園, イチゴ狩り
+cluster1:(4)
+パック分, 差, ネット予約, 大パック
+cluster2:(3)
+粒, 品種, 品質
+cluster3:(11)
+ポイント, 猛暑, 嫁, イチゴ, 今回, 釣り, 息子, いちご, 他, ハウス, 各地
+cluster4:(2)
+章姫, 元プロ
+cluster5:(1)
+体験料
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 3entities.

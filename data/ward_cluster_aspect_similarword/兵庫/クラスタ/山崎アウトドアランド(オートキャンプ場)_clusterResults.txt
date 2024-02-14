@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山崎アウトドアランド(オートキャンプ場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+友達家族, 友達
+cluster1:(7)
+キャンプ場, 場所, 事故, 星, 山道, 利用, 道
+cluster2:(2)
+小さい落石, 通行
+cluster3:(1)
+対向車
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

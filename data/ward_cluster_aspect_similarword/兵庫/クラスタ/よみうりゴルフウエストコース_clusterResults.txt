@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:よみうりゴルフウエストコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+パブリックコース, グリーン, メンバーコース, コース, ゴルフ, 腕, オープンコンペ, 他, コストパフォーマンス, オープン, 価格, アップダウン, メンバー
+cluster1:(3)
+ゴルフ場, 距離, 名門コース
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

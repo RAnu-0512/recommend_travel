@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:斑鳩寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+褒美, 応え
+cluster1:(2)
+建物, 建築
+cluster2:(2)
+歴史, 文化
+cluster3:(1)
+聖徳太子像
+cluster4:(20)
+場所, 外, 文化財, 地, 天台宗, 斑鳩寺, ゆかり, 聖徳太子, 太子堂, 推古天皇, 聖徳太子ゆかり, 国, 京都, 広隆寺, 中, 雰囲気, 姫路, 気品, 法隆寺, 朱色
+cluster5:(2)
+神仏, 習合
+cluster6:(2)
+伽藍, 荘園
+cluster7:(6)
+神社, 寺院, 門, 旅所, 寺, 堂
+cluster8:(1)
+聖徳太子開基
+cluster9:(1)
+有形文化財
+cluster10:(11)
+鵤の太子, 太子町, 聖徳殿, 三重塔, 斑鳩荘, お太子さん, 斑鵤寺, 植髪太子像, 奈良・飛鳥, 播磨国揖保郡, 豊浦宮
+
+howmany entities : 50
+howmany clusters : 11
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 3
+deleted 13entities.

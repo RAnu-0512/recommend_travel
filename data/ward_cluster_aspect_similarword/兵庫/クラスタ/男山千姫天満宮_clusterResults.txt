@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:男山千姫天満宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+比叡山, 場所, 途中, 守護神, 神社, 妹, 姫路城, 男女, 帯, 天満宮, 羽子板, 中, 時期, 他, 人生, 法華経, 嫁
+cluster1:(2)
+虎, 丸
+cluster2:(2)
+足, 爪
+cluster3:(1)
+息
+cluster4:(2)
+木像, 茶碗
+cluster5:(2)
+城, 城内
+cluster6:(2)
+階段, 廊下
+cluster7:(8)
+天神, 淀, 北西, 江, 朝夕西, 二子, 姫路, 西
+cluster8:(4)
+丸長局, 観音経, 金泥法, 唐鏡
+cluster9:(8)
+の子・千姫, 千姫天満宮, 男山, 男山八幡宮, 千姫, 本多忠, 水尾神社, 徳川秀忠
+cluster10:(5)
+化粧料十万石, 天満大自在天神, 延暦寺第十三代座主法, 性坊尊意作, 男山配水池公園
+
+howmany entities : 53
+howmany clusters : 11
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 5
+deleted 11entities.

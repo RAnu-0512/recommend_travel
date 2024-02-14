@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サングレートゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+芝, 池
+cluster1:(6)
+感じ, ラフ, 整備, コース, ゴルフ, ホール
+cluster2:(1)
+山岳コース
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

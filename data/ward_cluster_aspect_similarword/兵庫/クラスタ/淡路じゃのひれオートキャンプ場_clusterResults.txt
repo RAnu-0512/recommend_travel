@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路じゃのひれオートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+カヤック, ドルフィンファーム, タッチ, コテージ, ポイント
+cluster1:(3)
+イルカ, 水族館, 釣り堀
+cluster2:(3)
+見学, 体験, 乗馬
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 0entities.

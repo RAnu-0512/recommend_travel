@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高砂市青年の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+外, 家
+cluster1:(2)
+鳥, 海
+cluster2:(1)
+青年
+cluster3:(1)
+高砂市
+cluster4:(1)
+研修施設
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

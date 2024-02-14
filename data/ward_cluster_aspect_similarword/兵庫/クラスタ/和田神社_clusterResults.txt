@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和田神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+安全祈願, 交通安全, 海上交通安全
+cluster1:(6)
+参拝者, 神社, 参拝, 鳥居, 和田神社, 三石神社
+cluster2:(11)
+和田岬, 場所, 波, 神戸港, 時代, 規模, 自動車, 商船, 昼間, 一環, 兵庫県
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 0entities.

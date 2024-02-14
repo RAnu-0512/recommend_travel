@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高源寺の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+山門, 寺, 本堂, 石段, 階段
+cluster1:(3)
+紅葉, 見頃, 勿論紅葉
+cluster2:(2)
+新芽, 葉
+cluster3:(16)
+エリア, 姿, ポイント, 人, タイミング, マイカー, マダラ, イチョウ, 方, 紅葉狩り, 異常, 木, 時期, もみじ, モミジ, 葉っぱ
+cluster4:(2)
+民家, 道
+cluster5:(5)
+黄色, 茶色い落ち葉, 絨毯, 色, 雨
+cluster6:(1)
+気温
+cluster7:(3)
+駐車場, 異常気象, 駐車
+cluster8:(1)
+高源寺
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 5
+deleted 6entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:関西学院構内古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+関西学院, 興味, 石室
+cluster1:(4)
+関西学院構内古墳, 古墳群, 古墳時代後期, 古墳
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 0entities.

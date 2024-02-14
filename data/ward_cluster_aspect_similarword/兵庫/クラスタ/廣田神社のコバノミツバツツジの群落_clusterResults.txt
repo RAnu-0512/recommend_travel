@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:廣田神社のコバノミツバツツジの群落>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+廣田山, 廣田神社
+cluster1:(2)
+西宮の, 兵庫県
+cluster2:(8)
+南南東山麓, ツジ, 象徴, 天然記念物, 神苑, 甲山, 境内, 神社
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

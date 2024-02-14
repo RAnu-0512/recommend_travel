@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フルーツファーム果楽土>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+食べ放題, 食べ方, 取り放題, 食べ過ぎ
+cluster1:(2)
+いちご狩り, イチゴ狩り
+cluster2:(2)
+イチゴ畑, 帰り道果物
+cluster3:(3)
+苺, イチゴサンド, フルーツサンド
+cluster4:(2)
+イチゴ探し, いいいちご
+cluster5:(1)
+いちご大
+cluster6:(3)
+ちご, 小粒, 甘み
+cluster7:(3)
+容器練乳, 練乳, 有馬温泉
+cluster8:(5)
+予約, 予約時間, 集合時間, 受付, 時間帯
+cluster9:(2)
+大きさ, 甘さ
+cluster10:(4)
+年輩者, 孫たち, 孫, 後輩達
+cluster11:(5)
+観光スポット, 混雑, 店員, 客, 入場
+cluster12:(2)
+買い取り方式, 人数
+cluster13:(4)
+値段, 想像, 利用, 販売
+cluster14:(3)
+位置, 名前, 場所
+cluster15:(4)
+始め, 方, こと, 感じ
+cluster16:(4)
+中, 他, 時間, 最後
+cluster17:(2)
+形, 問題
+cluster18:(17)
+仕組み, 猪名川, 待ち時間, ウォーターサーバー, タイマー, いちご, ハウス, カフェ, テーブル, 小ぶり, ところ, パフェ, ハサミ, イチゴ, ビニールハウス, コンデンスミルク, ファーム
+cluster19:(2)
+人, 全員
+cluster20:(2)
+家族, 子供
+cluster21:(4)
+車, 自宅, 主人, 職場
+
+howmany entities : 80
+howmany clusters : 22
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 13
+deleted 17entities.

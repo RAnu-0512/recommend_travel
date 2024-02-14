@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:篠山城大書院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広間, 足早
+cluster1:(2)
+戦場, 市民
+cluster2:(8)
+シアター, タイム, セット, シャッター, キムタク, レプリカ, 男の子, 入り口
+cluster3:(3)
+城下町, 中心地, 天守閣
+cluster4:(3)
+昔, 子供, 映画
+cluster5:(7)
+一部, 部屋, 内部, 建物, 中, 施設, 左手
+cluster6:(1)
+火災
+cluster7:(10)
+実, 様子, 姿, もの, 身, こと, 苦笑, 場所, 現在目, 物
+cluster8:(2)
+Legend of Butterfly, 深さ
+cluster9:(17)
+石垣, 鎧, 築城, 篠山, 堀, 城, 甲冑鎧, 篠山城址, 梵鐘, 甲冑, 書院, 関西文化, 鬼瓦, 青山歴史村, 篠山城, 戦国時代, 天守
+cluster10:(23)
+資料, 共通券, 木造住宅建築, 障壁画, 展示資料室, 展示室, 見学, 受付終了時間, 展示物, 共通入館券, ロケ地, 模型, シアター室, 歴史美術館, 入館料, 日本百名城巡り, 入場料, 宿泊者, 資料館, 歴史, 再建大書院, 撮影ロケ, 展示
+cluster11:(1)
+篠山城大書院・武家屋敷史料館・歴史美術館
+
+howmany entities : 79
+howmany clusters : 12
+howmany entities (more than3entities) : 71
+howmany clusters (more than3entities) : 7
+deleted 8entities.

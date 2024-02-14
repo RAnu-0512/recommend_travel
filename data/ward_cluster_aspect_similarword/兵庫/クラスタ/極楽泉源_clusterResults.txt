@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:極楽泉源>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+湯気, 源泉, 有馬温泉, 湯山御殿, 極楽泉源, 泉源, 金泉, 湯, 温泉
+cluster1:(13)
+裏手, 入場料, 遺構, 歴史, 極楽寺, 秀吉, 寺, 金, 庭園, 銀, 太閤, 近く, 一部
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

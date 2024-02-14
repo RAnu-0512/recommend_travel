@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:篠山口駅観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+構内, 効率, バス, 目的, 観光スポット
+cluster1:(2)
+乗り方, お勧め
+cluster2:(3)
+JR篠, 改札口, 山口駅
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

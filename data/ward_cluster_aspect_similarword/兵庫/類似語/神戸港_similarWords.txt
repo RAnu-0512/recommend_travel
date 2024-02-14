@@ -1,0 +1,33 @@
+--------------------similar_words:神戸港--------------------
+top3 entities near to cluster0>>
+突堤, 旅客, 外国
+top3 entities near to cluster2>>
+夜景, ホテル, タワー
+top3 entities near to cluster5>>
+周辺, 情報, 人気
+top3 entities near to cluster12>>
+距離, 空気, 足
+top3 entities near to cluster13>>
+風景, 景色, 光景
+top3 entities near to cluster14>>
+夜景, 絶景, 花火
+top3 entities near to cluster15>>
+散策, 散歩, 旅
+top3 entities near to cluster16>>
+旅情, 夕景, 情景
+top3 entities near to cluster17>>
+海, 港, 海沿い
+top3 entities near to cluster18>>
+震災, 大震災, 被災
+top3 entities near to cluster20>>
+埠頭, 開港, ふ頭
+top3 entities near to cluster21>>
+ポート, ベイ, パーク
+top3 entities near to cluster25>>
+施設, 飲食, 商業
+top3 entities near to cluster26>>
+遊覧船, 遊覧, 船舶
+top3 entities near to cluster27>>
+大型船, 客船, 大型
+top3 entities near to cluster28>>
+出港, 出航, 入港

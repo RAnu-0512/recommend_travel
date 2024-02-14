@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三木市立金物資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三木城, 三木市, 兵庫県
+cluster1:(13)
+前庭, 周辺, 資料館, 製品, 館内, 歌碑, こぎり, 金物, 近世, 大工道具, 現代, 鋸, 町
+cluster2:(1)
+古式鍛錬場
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 1entities.

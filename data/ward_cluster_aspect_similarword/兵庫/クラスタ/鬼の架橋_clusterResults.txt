@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鬼の架橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+頂上, 景色
+cluster1:(6)
+ところ, 下, こと, 架け橋, こども, 鬼
+cluster2:(1)
+金山
+cluster3:(1)
+金山城登山道
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

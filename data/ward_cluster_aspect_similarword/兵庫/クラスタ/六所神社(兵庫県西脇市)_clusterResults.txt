@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六所神社(兵庫県西脇市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+樹齢, 推定樹齢
+cluster1:(2)
+見頃, 藤棚
+cluster2:(4)
+観光, 神社, 境内, 電車
+cluster3:(1)
+日本書記
+cluster4:(16)
+場所, 途中, 緑, 空気, ドライブ, 人, アクセス, 花, 場合, 次, シーズン, 神, 雰囲気, 紫色, 仕事, 風情
+cluster5:(5)
+花房, 大木, フジ, ふじ, 木
+cluster6:(3)
+六所神社, 西脇, 川西市
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 5entities.

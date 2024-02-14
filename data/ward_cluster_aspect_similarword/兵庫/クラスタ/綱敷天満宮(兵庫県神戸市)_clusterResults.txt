@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:綱敷天満宮(兵庫県神戸市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+綱敷, 綱敷天満宮の御, 網敷天満宮, 綱敷天満宮
+cluster1:(3)
+祈願像, 合格祈願, 像
+cluster2:(2)
+願い, 願い玉
+cluster3:(2)
+受験, 学問
+cluster4:(2)
+休日, 天気
+cluster5:(1)
+国道
+cluster6:(1)
+語呂
+cluster7:(10)
+おまけ無し, 多く, 前, 由来, 意見, 方, 地元, こと, 他, 名前
+cluster8:(12)
+須磨寺, 腰かけ, 東, 受験生, 御朱印, 左手, 神, 縁起物, サーフボード, 天満宮, 御利益, 筆塚
+cluster9:(3)
+仇, 実, 親
+cluster10:(5)
+壺, 花, 茄子, 色, 梅
+cluster11:(7)
+漁網, 神社, 境内, 須磨, 円座, 初詣, 本殿
+cluster12:(1)
+山陽電鉄須磨駅
+cluster13:(1)
+菅原道真公
+
+howmany entities : 54
+howmany clusters : 14
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 7
+deleted 10entities.

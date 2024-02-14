@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足立いちご園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+苺, 練乳, 足立イチゴ園, いちご狩り
+cluster1:(5)
+予約, 施行, 販売, 納税, 提供
+cluster2:(10)
+所, 味, 場所, 点, 感想, 時間, 条件, 事, 気, こと
+cluster3:(15)
+手, カバン, ハンガー, ハサミ, 多人数, 椅子, 遠方, イチゴ, 持ち込み, 赤, コロナ, ウエットティッシュ, いちご, ハウス, ウェットティッシュ
+cluster4:(4)
+貴重品ロッカー, キレイさ, 大きさ, 美味しさ
+
+howmany entities : 38
+howmany clusters : 5
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 5
+deleted 0entities.

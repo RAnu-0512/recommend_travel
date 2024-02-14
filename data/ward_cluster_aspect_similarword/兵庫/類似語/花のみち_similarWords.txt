@@ -1,0 +1,27 @@
+--------------------similar_words:花のみち--------------------
+top3 entities near to cluster1>>
+ライト, スター, ブルー
+top3 entities near to cluster2>>
+ホテル, 鉢植え, 植え込み
+top3 entities near to cluster3>>
+気持ち, 雰囲気, ファン
+top3 entities near to cluster9>>
+人達, 大勢, 人々
+top3 entities near to cluster10>>
+ランド, 人気, マーク
+top3 entities near to cluster13>>
+桜, 夜桜, 満開
+top3 entities near to cluster14>>
+陸橋, 壁, 屋根
+top3 entities near to cluster15>>
+季節, 花, お花
+top3 entities near to cluster16>>
+風景, 景色, 写真
+top3 entities near to cluster22>>
+銅像, 石碑
+top3 entities near to cluster24>>
+歌劇, 歌劇団, 管弦楽団, 管弦楽
+top3 entities near to cluster29>>
+歩道, 車道, 横断
+top3 entities near to cluster35>>
+阪急, フレミラ, ベガホール

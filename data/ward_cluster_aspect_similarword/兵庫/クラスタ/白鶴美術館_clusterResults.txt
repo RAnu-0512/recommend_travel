@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白鶴美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+白鶴, 白鶴美術館, 東灘区, 住吉川, 鶴
+cluster1:(3)
+お子, 庭, お庭
+cluster2:(3)
+期待, 必要, 価値
+cluster3:(3)
+器, 酒, 甘酒
+cluster4:(3)
+散歩, 飾り, 絨毯
+cluster5:(3)
+山, 石, 川
+cluster6:(2)
+所, 場所
+cluster7:(2)
+歴史, 時代
+cluster8:(7)
+友人, 人, クラシック, 美術館, 雰囲気, 陶磁器, 近く
+cluster9:(7)
+新館, 公開, 同館, 建物, 意匠, 外観, 展示物
+cluster10:(11)
+宋, 神戸, 鉄筋コンクリート造, 中国, バス, 便, 交通, 和風, JR, 昭和, 駅
+cluster11:(3)
+古美術品, 住宅街, 邸宅街
+
+howmany entities : 52
+howmany clusters : 12
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 10
+deleted 4entities.

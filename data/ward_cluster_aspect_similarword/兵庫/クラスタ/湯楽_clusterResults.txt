@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯楽>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+蟹料理, 蟹, カニ
+cluster1:(2)
+SNS映え, 大きさ
+cluster2:(9)
+風呂, 部屋, 食事, フラワーバス, 刺身, 予約, 料理, 徒歩, 館内
+cluster3:(24)
+今夜, ボリューム, 所, 通り, 露天風呂, 予想, 車, 感動, 男女, 目, チェックイン, メイン, ストリート, 奥, 女子, 方, ご存知, 物, 雰囲気, こと, アメニティー, 他, ロープウェイ, 環境
+cluster4:(12)
+貸切風呂, 客室数, 城崎連, 温泉街, 宿, 湯楽, 城崎ロープウェイ, 内湯, 旅館, 温泉, 外湯, 駐車場
+
+howmany entities : 50
+howmany clusters : 5
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 4
+deleted 2entities.

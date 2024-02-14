@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥城崎シーサイドホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+インストラクター, プラン, シーカヤック, 方, ガイド, 人生, カヌー, ミッション, 臨機応変, 写真
+cluster1:(3)
+洞窟, 海, 磯
+cluster2:(3)
+生き物観察, 天気, 晴れ
+cluster3:(2)
+あり波, 星1
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 2entities.

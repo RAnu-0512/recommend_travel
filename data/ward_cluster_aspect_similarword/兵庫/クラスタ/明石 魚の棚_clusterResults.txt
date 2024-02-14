@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明石 魚の棚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+魚の棚商店街, 棚商店街, アーケード商店街
+cluster1:(19)
+感じ, 買い物, 野菜, 煮物, 年末, 魚, 買い物客, イイダコ, 生もの, 当地グルメ, 買物, アーケード, 活気, 仕入れ, 食べ歩き, 鮮魚, 漬物専門店, 購買意欲, 旅行
+cluster2:(4)
+明石, 明石駅, 明石港, 明石城
+cluster3:(2)
+焼き, 明石焼き
+cluster4:(1)
+兵庫県
+cluster5:(1)
+明石城に訪れ駅
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 4entities.

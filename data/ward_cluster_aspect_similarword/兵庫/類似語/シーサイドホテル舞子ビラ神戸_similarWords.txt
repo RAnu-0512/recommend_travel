@@ -1,0 +1,21 @@
+--------------------similar_words:シーサイドホテル舞子ビラ神戸--------------------
+top3 entities near to cluster0>>
+デザート, サラダ, 飲み物
+top3 entities near to cluster1>>
+ホテル, 泊まり, 泊まる
+top3 entities near to cluster4>>
+受付, 注文, 支払
+top3 entities near to cluster5>>
+時間, 徒歩
+top3 entities near to cluster7>>
+金水, 土水, 金, 土
+top3 entities near to cluster10>>
+景色, 夜景, 景観
+top3 entities near to cluster13>>
+食事, 料理, ご飯
+top3 entities near to cluster14>>
+家族, 両親, 子供
+top3 entities near to cluster15>>
+宿泊, 部屋, ホテル
+top3 entities near to cluster18>>
+予約, 料金, 宿泊

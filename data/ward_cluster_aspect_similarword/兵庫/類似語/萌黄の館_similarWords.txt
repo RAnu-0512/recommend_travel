@@ -1,0 +1,21 @@
+--------------------similar_words:萌黄の館--------------------
+top3 entities near to cluster1>>
+異人, 館, 洋館
+top3 entities near to cluster3>>
+萌黄, 館, 緑
+top3 entities near to cluster5>>
+黄色, 緑色, 茶色
+top3 entities near to cluster8>>
+後世
+top3 entities near to cluster16>>
+家具類, 家具
+top3 entities near to cluster17>>
+中庭, 部屋, 暖炉
+top3 entities near to cluster18>>
+建物, 建築, 外壁
+top3 entities near to cluster19>>
+内装, 外装, 装飾
+top3 entities near to cluster21>>
+洋館, 様式, 邸宅
+top3 entities near to cluster22>>
+地震, 震災, 被害

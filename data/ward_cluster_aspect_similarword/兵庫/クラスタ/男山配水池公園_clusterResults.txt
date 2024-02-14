@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:男山配水池公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ここ男山配水池公園, 配水池, 男山配水池公園
+cluster1:(4)
+男山, 男山八幡宮, 姫路駅, 姫路
+cluster2:(3)
+景色, 眺め, 絶景
+cluster3:(5)
+山頂, 山, 石, 山道, 階段
+cluster4:(2)
+周辺, 公園
+cluster5:(2)
+数, 先
+cluster6:(7)
+ロケーション, 町並み, ポイント, スポット, 姫路城, ビュースポット, 写真
+cluster7:(1)
+北西
+cluster8:(1)
+登山靴
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 6entities.

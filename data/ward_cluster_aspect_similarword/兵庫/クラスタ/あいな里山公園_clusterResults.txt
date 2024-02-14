@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あいな里山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+感じ, 懐かしさ, 人, 子連れ, 子供, 違和感
+cluster1:(5)
+田舎, 家, 日本, 隣, 昔
+cluster2:(1)
+体験
+cluster3:(1)
+客
+cluster4:(9)
+場所, 柵, 道路, 村, 里山, 遊ぶ場所, 施設, 公園, 税金
+cluster5:(2)
+高齢者, 維持費
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 4entities.

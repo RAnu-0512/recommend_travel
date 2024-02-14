@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三熊山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海, 淡路島, 山
+cluster1:(2)
+車, 景色
+cluster2:(1)
+町
+cluster3:(1)
+洲本
+cluster4:(1)
+展望台
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

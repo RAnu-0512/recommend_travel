@@ -1,0 +1,7 @@
+--------------------similar_words:Craft Circus(クラフトサーカス)--------------------
+top3 entities near to cluster0>>
+牛焼, 牛
+top3 entities near to cluster2>>
+飲み物, サービス, 値段
+top3 entities near to cluster3>>
+料理, 食材, 食べ物

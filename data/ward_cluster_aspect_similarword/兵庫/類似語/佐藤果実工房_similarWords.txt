@@ -1,0 +1,15 @@
+--------------------similar_words:佐藤果実工房--------------------
+top3 entities near to cluster0>>
+狩り, 狩る, 狩っ
+top3 entities near to cluster1>>
+子供, 子ども, 娘
+top3 entities near to cluster2>>
+トイレ, シート, ウェット
+top3 entities near to cluster3>>
+気持ち, 気配り, 心遣い
+top3 entities near to cluster4>>
+ハウス, イチゴ, いちご
+top3 entities near to cluster5>>
+鏡外, 鏡
+top3 entities near to cluster7>>
+苺, イチゴ, 蜂

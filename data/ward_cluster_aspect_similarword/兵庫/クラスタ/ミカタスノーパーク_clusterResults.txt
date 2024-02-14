@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ミカタスノーパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+スキー場, 駐車場代, 駐車場
+cluster1:(2)
+リフト券, リフト代
+cluster2:(10)
+休憩, コース巾, カレーパン, 食堂, 絶好, 迂回コース, オープン時間, 上級, 斜面, 練習
+cluster3:(11)
+チェック, 昼過ぎ, メニュー, スタッフ, ストレス, 初心者, ファミリー, スポーツ, コース, ウィンタースポーツ, クラブ
+cluster4:(5)
+ゲレンデ, キッズパーク, スキー, リフト, ボード
+cluster5:(4)
+人, 子ども, 家族, 子供
+cluster6:(10)
+注意, 味, 印象, 技術, 関係, 声, 年齢, 方, 自信, こと
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 6
+deleted 2entities.

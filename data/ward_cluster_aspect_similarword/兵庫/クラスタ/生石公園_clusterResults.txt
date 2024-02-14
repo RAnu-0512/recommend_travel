@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:生石公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+大砲, 由良, 由良港, 砲台跡, 遺構, 全景, 要塞, 日本, 此方, 公園, 中, 淡路島, 南東端, 予定, より成ヶ島, 兵庫県, 近く
+cluster1:(2)
+生石公園, 由良・生石公園
+cluster2:(2)
+展望台, 生石展望台
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 1
+deleted 4entities.

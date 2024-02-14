@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大杉神社の大ヒノキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ヒノキ, 村
+cluster1:(1)
+根元
+cluster2:(1)
+年酒
+cluster3:(1)
+大杉神社
+cluster4:(1)
+推定樹齢
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

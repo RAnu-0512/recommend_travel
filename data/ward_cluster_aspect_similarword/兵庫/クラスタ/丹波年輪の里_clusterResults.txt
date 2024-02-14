@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波年輪の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散策, 登山
+cluster1:(3)
+公園, 周辺, 施設
+cluster2:(3)
+自然, 丹波市, 方
+cluster3:(1)
+木
+cluster4:(1)
+台風
+cluster5:(1)
+子供達
+cluster6:(1)
+体験教室
+cluster7:(1)
+三釈迦山
+cluster8:(1)
+大喜び駐車場
+
+howmany entities : 14
+howmany clusters : 9
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 8entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菓子処 手毬>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+抹茶, 茶会
+cluster1:(2)
+味, 店
+cluster2:(4)
+次回, 今回, 最後, 定番
+cluster3:(7)
+もの, 飛び入り, イベント, 和菓子, コース, 他, 先生
+cluster4:(1)
+手本
+cluster5:(6)
+製作, 和菓子屋, 作り体験, 和菓子作り, 和菓子製作, 体験
+cluster6:(2)
+ねりきり, 定番 手毬
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 7entities.

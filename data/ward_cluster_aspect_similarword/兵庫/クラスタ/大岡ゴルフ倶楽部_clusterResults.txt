@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大岡ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+おまけ, バンカー
+cluster1:(1)
+コース
+cluster2:(1)
+フェアウェイ
+cluster3:(1)
+砲台グリーン
+cluster4:(1)
+高低差
+cluster5:(1)
+優待券
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西宮高原ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+わり, コスパ, コース, アクセス
+cluster1:(3)
+ゴルフコース, ゴルフ倶楽部, ゴルフ場
+cluster2:(5)
+高原ゴルフ, 西宮高原, 山岳地形, 高原, 神戸市
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 0entities.

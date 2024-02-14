@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ネスタリゾート神戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+主人, 大人, 息子, 家族, 子供
+cluster1:(2)
+スカイジャングル, スカイイーグル
+cluster2:(8)
+飛行機, スプラッシュバージョン, チケット, バーベキュー, ジップライン, グランピング, コース, ドロップ
+cluster3:(3)
+景色, 水, 雨
+cluster4:(1)
+ネスタリゾート神戸
+cluster5:(1)
+品数
+cluster6:(3)
+体験型アトラクション, 高速回転, 入場時間
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 4entities.

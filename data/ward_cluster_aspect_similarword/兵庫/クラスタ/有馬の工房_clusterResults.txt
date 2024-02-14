@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有馬の工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蕎麦屋, 工芸品
+cluster1:(2)
+休憩, 休憩室
+cluster2:(4)
+蛍, 町屋, 小宿, 湯
+cluster3:(13)
+別名, 街並み, 部屋, 情報, 周り, 極楽寺, どうじ, 金, 温泉寺, ホームページ, ホテル, 店内, ギャラリー
+cluster4:(6)
+そば, 歴史, 文化, 展示, 工房, 体験
+cluster5:(1)
+江戸時代
+cluster6:(6)
+有馬筆, 有馬温泉, 有馬温泉街, 温泉街, 湯泉神社, 有馬千軒
+cluster7:(2)
+有馬温泉観光交流センター, 外国人観光客
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 4
+deleted 7entities.

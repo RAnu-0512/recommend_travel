@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:横蔵寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+高知, 事実, 岡山, 地域, 互い
+cluster1:(3)
+運慶, 快慶, 湛慶
+cluster2:(2)
+寺, 仏像
+cluster3:(1)
+阿弥陀如来立像
+cluster4:(1)
+墨書
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 4entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西床尾山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山々, 景観
+cluster1:(4)
+人, 登山, コース, あたり
+cluster2:(1)
+踏み
+cluster3:(1)
+西床
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

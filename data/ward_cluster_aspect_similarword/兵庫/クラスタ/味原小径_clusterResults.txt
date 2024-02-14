@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:味原小径>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+感じ, 外観, 興味, 風情
+cluster1:(3)
+散歩, 水路, 生活
+cluster2:(6)
+場所, 西光寺, スポット, 間, 時間, 中
+cluster3:(2)
+駅, 道
+cluster4:(1)
+都合
+cluster5:(7)
+味原川, 石垣, 浜坂駅, 川, 以命亭, 小路, 木橋
+cluster6:(1)
+加藤文太郎記念図書館
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 4entities.

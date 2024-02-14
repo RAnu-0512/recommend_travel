@@ -1,0 +1,15 @@
+--------------------similar_words:兵庫県立芸術文化センター--------------------
+top3 entities near to cluster0>>
+裕, 嶋, 恭
+top3 entities near to cluster1>>
+音楽, 演劇, 公演
+top3 entities near to cluster2>>
+大, 中小, 小
+top3 entities near to cluster3>>
+駅, 建物, 構内
+top3 entities near to cluster4>>
+コンサート, オーケストラ, ダンス
+top3 entities near to cluster7>>
+時人, 時間, 時
+top3 entities near to cluster9>>
+指揮, 距離, 練習

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雪彦温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+感じ, 場所, メニュー, 外, 池, 露天風呂, 緑, 景色, 足元, 人, 山, 雪彦山, 床, ドライヤー, 建物, マット, 施設, 宍粟, 中, 雰囲気
+cluster1:(2)
+天ぷらそば, もりそば
+cluster2:(6)
+風呂場, 風呂, 温泉ポーチ, 脱衣所, お湯, 温泉
+cluster3:(3)
+自然素材, 食事処, 泉質
+cluster4:(1)
+雪彦温泉
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 3entities.

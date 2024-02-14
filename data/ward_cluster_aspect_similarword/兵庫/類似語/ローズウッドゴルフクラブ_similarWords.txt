@@ -1,0 +1,11 @@
+--------------------similar_words:ローズウッドゴルフクラブ--------------------
+top3 entities near to cluster1>>
+上司, 接待, 部下
+top3 entities near to cluster2>>
+コース, クラブハウス, フィットネスメニュー
+top3 entities near to cluster4>>
+コンペ, ゴルフ, スコア
+top3 entities near to cluster8>>
+景色, 近辺, 風景
+top3 entities near to cluster11>>
+駐車場, 駐車, 手段

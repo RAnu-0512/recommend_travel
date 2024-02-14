@@ -1,0 +1,27 @@
+--------------------similar_words:日岡神社--------------------
+top3 entities near to cluster0>>
+姫, 稲, 佐
+top3 entities near to cluster1>>
+周辺, 公園, 駅
+top3 entities near to cluster2>>
+子供, 息子, 双子
+top3 entities near to cluster3>>
+実家, 地元, 昔
+top3 entities near to cluster6>>
+モデル, 赤ちゃん, イメージ
+top3 entities near to cluster8>>
+七五三, 腹巻き, 宮参り
+top3 entities near to cluster13>>
+妊婦, お産, 妊娠
+top3 entities near to cluster14>>
+由緒, 祭神, 神社
+top3 entities near to cluster15>>
+屋台, 行列, 夜店
+top3 entities near to cluster16>>
+祈願, 祈祷, 祝い
+top3 entities near to cluster17>>
+神社, 初詣, 境内
+top3 entities near to cluster18>>
+古墳, 花見
+top3 entities near to cluster19>>
+参拝, 元号, 参詣

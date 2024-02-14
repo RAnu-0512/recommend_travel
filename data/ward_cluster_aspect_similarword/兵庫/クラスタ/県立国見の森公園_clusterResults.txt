@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:県立国見の森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+弁当, ピザ
+cluster1:(2)
+予約, 窓口
+cluster2:(2)
+方向, 景色
+cluster3:(2)
+驚き, 体験
+cluster4:(2)
+家族, 子供
+cluster5:(2)
+それぞれ, オススメ
+cluster6:(2)
+モノレール, ハイキング
+cluster7:(1)
+写真
+cluster8:(3)
+場所, 車, 近く
+cluster9:(1)
+坂
+cluster10:(1)
+家族連れ
+cluster11:(1)
+SNS映え間違い
+cluster12:(4)
+山頂展望台, 山頂駅, 展望台, 登り下り
+
+howmany entities : 25
+howmany clusters : 13
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 18entities.

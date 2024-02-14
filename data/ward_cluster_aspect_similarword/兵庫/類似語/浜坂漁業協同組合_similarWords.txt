@@ -1,0 +1,17 @@
+--------------------similar_words:浜坂漁業協同組合--------------------
+top3 entities near to cluster1>>
+冬, 季節, 夏
+top3 entities near to cluster2>>
+海, 浜辺, 海辺
+top3 entities near to cluster3>>
+海産物, ハタハタ, ホタルイカ
+top3 entities near to cluster5>>
+ホテル, 雰囲気, レストラン
+top3 entities near to cluster7>>
+活気, 人心, 身
+top3 entities near to cluster13>>
+値段, 価格, 定食
+top3 entities near to cluster14>>
+土産, 土産物, 旅館
+top3 entities near to cluster15>>
+海鮮, 温泉, カニ

@@ -1,0 +1,15 @@
+--------------------similar_words:河原町妻入商家群--------------------
+top3 entities near to cluster1>>
+土産物店, 街並み, 土産物
+top3 entities near to cluster2>>
+特徴, 構造, 大小
+top3 entities near to cluster6>>
+風景, 景色, 写真
+top3 entities near to cluster7>>
+土蔵, 建物, 民家
+top3 entities near to cluster9>>
+宿, 街道, 民宿
+top3 entities near to cluster13>>
+館, 史料, 資料
+top3 entities near to cluster14>>
+民家, 町並み, 商店

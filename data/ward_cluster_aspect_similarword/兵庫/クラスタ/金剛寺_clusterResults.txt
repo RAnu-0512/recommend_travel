@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金剛寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+城崎温泉・出石, 城崎温泉
+cluster1:(2)
+兵庫県, 豊岡市
+cluster2:(3)
+(o, ます.v, ぅ.i
+cluster3:(41)
+感じ, 外国人, 味, 場所, メニュー, 地蔵寺, 植物, 観光, 御住職, 自然, 人, 食事, 花, シャクナゲ, 境内, 小川, 心, 季節, シーズン, 金剛寺, 紅葉, 寺, 秋, 幸せ, 料理, 事, ひぐらし, 雰囲気, 観光名所, 決定, リピート, ススメ, 時期, もみじ, 昼, かた, 観光客, 充実, 夫婦, パワースポット, 旅行
+cluster4:(1)
+た.k川o'-')dど
+
+howmany entities : 49
+howmany clusters : 5
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 2
+deleted 5entities.

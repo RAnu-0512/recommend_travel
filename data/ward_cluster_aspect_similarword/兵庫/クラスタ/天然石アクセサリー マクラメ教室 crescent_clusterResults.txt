@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天然石アクセサリー マクラメ教室 crescent>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+満足, 購入
+cluster1:(2)
+もの, 物
+cluster2:(3)
+マンツーマン, 友達, 先生
+cluster3:(2)
+作品, 話
+cluster4:(1)
+作業
+cluster5:(1)
+長居
+cluster6:(1)
+マクラメ編み
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 9entities.

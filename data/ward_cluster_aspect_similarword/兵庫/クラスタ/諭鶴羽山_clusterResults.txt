@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:諭鶴羽山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+途中道沿い, 登山道, 道
+cluster1:(3)
+軽トラ, 北京五輪, 羽生クン
+cluster2:(4)
+桜, 黒岩, 大阪, 春
+cluster3:(4)
+場所, 距離, 時期, 目的
+cluster4:(2)
+到着, 展示
+cluster5:(8)
+モンキーセンター, 人, 一軒家, ファン, 断崖絶壁, 淡路島, 諭鶴羽山, 近く
+cluster6:(2)
+関係, 側
+cluster7:(2)
+新聞, 看板
+cluster8:(1)
+普通乗用車
+cluster9:(7)
+巨木, 樹林, 参拝者, 神社, 林道, ダム, 眺望
+cluster10:(7)
+淡路旅行, 山頂, 淡路島最高峰608m, 休憩所, 頂上, 頂上直下, 駐車場
+cluster11:(4)
+諭鶴羽神社, 論鶴羽神社, 灘黒岩水仙郷, 鶴羽神社
+
+howmany entities : 47
+howmany clusters : 12
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 8
+deleted 7entities.

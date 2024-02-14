@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:市ノ池公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜, 満開
+cluster1:(2)
+遊具, 公園
+cluster2:(6)
+ところ, 水たまり, バーベキュー, コスモス, 滑り台, 水遊び
+cluster3:(3)
+人, 息子, 子供
+cluster4:(3)
+車, 服, 雨
+cluster5:(1)
+入場
+cluster6:(1)
+子供たち
+cluster7:(1)
+駐車場
+cluster8:(1)
+・・・
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 8entities.

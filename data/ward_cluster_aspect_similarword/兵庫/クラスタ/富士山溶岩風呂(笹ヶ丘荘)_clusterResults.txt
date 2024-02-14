@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山溶岩風呂(笹ヶ丘荘)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+温泉施設, 風呂, 温泉
+cluster1:(6)
+公園, スポット, 温度, 滑り台, 目的, 近く
+cluster2:(1)
+子供連れ
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 1entities.

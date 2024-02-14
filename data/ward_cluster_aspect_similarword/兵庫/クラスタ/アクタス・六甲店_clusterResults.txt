@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アクタス・六甲店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子どもたち, 子供
+cluster1:(2)
+暇, 機会
+cluster2:(3)
+もの, 方, こと
+cluster3:(3)
+友人, 人, 他
+cluster4:(2)
+値段, 季節
+cluster5:(1)
+利用度
+cluster6:(22)
+ムーミン, 年季, 買い物, アクタス, イメージ, 机, ベット, おすすめ, ファブリック, モール, 雑貨, サザンモール, 郊外, イス, 椅子, デザイン, 接客, 北欧, ペットショップ, 店内, 店, インテリア
+cluster7:(10)
+六甲店, 家具屋, 調度品, 食器, 空港店, 家具店, 家具, 観葉植物, 食器類, 駐車場
+
+howmany entities : 45
+howmany clusters : 8
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 4
+deleted 7entities.

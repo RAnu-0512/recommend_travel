@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぎゃらりーの宿 つばきの>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+気持ち, チェックアウト, 対応
+cluster1:(2)
+車, 荷物
+cluster2:(1)
+方たち
+cluster3:(1)
+家族風呂
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

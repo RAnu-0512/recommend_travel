@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩瀧寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本尊, 住職, 本堂
+cluster1:(5)
+中, 愛染明王, 門, 聖観音, 空気
+cluster2:(1)
+浅山不動明王
+cluster3:(1)
+茅葺
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

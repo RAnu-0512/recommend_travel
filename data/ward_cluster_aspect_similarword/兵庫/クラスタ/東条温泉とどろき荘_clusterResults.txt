@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東条温泉とどろき荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+店, 部屋, ビール, 料理
+cluster1:(2)
+夏場, 下
+cluster2:(1)
+釣り旅
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 3entities.

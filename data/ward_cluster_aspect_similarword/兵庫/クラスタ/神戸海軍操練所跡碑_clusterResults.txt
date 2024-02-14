@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸海軍操練所跡碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸幕府軍艦奉行, 江戸幕府軍艦奉行勝海舟
+cluster1:(10)
+海軍, 錨, 場所, 新港町, 付近, 建言, 勝海舟, 幕府, 神戸市, 中央区
+cluster2:(2)
+元治元年, 江戸時代の元治元年
+cluster3:(3)
+海軍士官養成機関, 海軍工廠, 神戸海軍操練所
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 4entities.

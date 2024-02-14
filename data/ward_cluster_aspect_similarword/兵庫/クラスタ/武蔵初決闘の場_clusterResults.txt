@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵初決闘の場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+平福, 兵庫県, 佐用町
+cluster1:(15)
+場, 看板, 場所, 車, スペース, 当流, 初決闘, 地元, 決闘, ファン, 武蔵, 慶長, 方, 有馬喜兵衛, 駐車場
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

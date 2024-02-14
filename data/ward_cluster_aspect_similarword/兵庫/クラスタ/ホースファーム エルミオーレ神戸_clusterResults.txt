@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホースファーム エルミオーレ神戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人手不足がら, 調整不足
+cluster1:(3)
+馬房, 馬, 自馬
+cluster2:(8)
+床, スタッフ, 半分, レッスン数, 体験, オガ, 乗馬, インストラクター
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

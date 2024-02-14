@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:緑ケ丘公園(兵庫県伊丹市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+散歩, お子様連れ, 広場, 散策, 名所, 自生, 遊具, 公園
+cluster1:(3)
+桜, 梅林, 梅
+cluster2:(2)
+池, 空気
+cluster3:(10)
+緑, 昆陽池, 自然, 人, 地元民, 中国, 周り, 子ども, 子供, 地元
+cluster4:(4)
+場所, 敷地, 時間, 木
+cluster5:(1)
+伊丹市
+cluster6:(1)
+鴻臚館
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 4entities.

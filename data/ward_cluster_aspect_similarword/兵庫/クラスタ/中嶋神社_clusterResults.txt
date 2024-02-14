@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中嶋神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+奥野, バス停, 本数, 神社, 参拝, 間, 自動車, 幸福パス, 奥, 本殿わき, 名, 神, 菓子, 横, こと, 本殿
+cluster1:(5)
+乗り放題, 鉄道, 路線バス, バス, 観光客
+cluster2:(7)
+中島神社, 丹後地方, 京都丹後, 豊岡, 森野口バス停, 出石神社, 豊岡駅
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 0entities.

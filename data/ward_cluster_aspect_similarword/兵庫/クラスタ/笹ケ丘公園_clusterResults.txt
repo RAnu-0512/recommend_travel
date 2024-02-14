@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笹ケ丘公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+短期間, ピクニック, 段ボール, 滑り台, イベント, コンビニ
+cluster1:(2)
+ほう, こと
+cluster2:(1)
+期間
+cluster3:(1)
+災害
+cluster4:(4)
+公園, 子供たち, 遊具, 子供
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 4entities.

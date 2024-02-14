@@ -1,0 +1,33 @@
+--------------------similar_words:有馬温泉 太閤の湯--------------------
+top3 entities near to cluster0>>
+サウナ, ホテル, 飲み物
+top3 entities near to cluster2>>
+予約, 食事, 夕食
+top3 entities near to cluster3>>
+お気, 人目
+top3 entities near to cluster12>>
+奥, 隣, 横
+top3 entities near to cluster14>>
+匂い, 香り
+top3 entities near to cluster15>>
+岩盤浴, 岩盤, 岩床
+top3 entities near to cluster19>>
+入館, 入場, 拝観
+top3 entities near to cluster21>>
+休憩, 所内, 仮眠
+top3 entities near to cluster22>>
+飲食店, 飲食, 食事
+top3 entities near to cluster23>>
+入浴, 風呂, 入湯
+top3 entities near to cluster25>>
+施設, 宿泊, 設備
+top3 entities near to cluster26>>
+時間, 人数, 制限
+top3 entities near to cluster27>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster28>>
+金泉, 泉, 銀
+top3 entities near to cluster30>>
+温泉, 銭湯, 露天風呂
+top3 entities near to cluster31>>
+温泉, 泉, 金泉

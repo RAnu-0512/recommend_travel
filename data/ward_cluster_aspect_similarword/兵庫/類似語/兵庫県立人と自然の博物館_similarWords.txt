@@ -1,0 +1,17 @@
+--------------------similar_words:兵庫県立人と自然の博物館--------------------
+top3 entities near to cluster0>>
+展示, 施設, 入場
+top3 entities near to cluster2>>
+子供, 子ども, 大人
+top3 entities near to cluster4>>
+資料, 歴史, 解説
+top3 entities near to cluster5>>
+大学, 自然, 周辺
+top3 entities near to cluster6>>
+種類名, 種類
+top3 entities near to cluster9>>
+集団, 階層, 夫婦
+top3 entities near to cluster12>>
+化石, 標本, 地層
+top3 entities near to cluster13>>
+植物, 昆虫, 生物

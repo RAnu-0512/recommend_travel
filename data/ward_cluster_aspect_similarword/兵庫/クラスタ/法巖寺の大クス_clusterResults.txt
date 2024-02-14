@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法巖寺の大クス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+JR伊丹駅, 伊丹駅, 阪急伊丹駅
+cluster1:(10)
+広場, 法巖寺, 寺, 境内, 西, 東, JR, 西側, 駅, 道
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

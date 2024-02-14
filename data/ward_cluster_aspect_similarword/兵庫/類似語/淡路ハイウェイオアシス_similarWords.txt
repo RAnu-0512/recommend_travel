@@ -1,0 +1,35 @@
+--------------------similar_words:淡路ハイウェイオアシス--------------------
+top3 entities near to cluster1>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster2>>
+玉ねぎ, 野菜, スープ
+top3 entities near to cluster6>>
+コーヒー, トマト, カフェ
+top3 entities near to cluster7>>
+ガラス張り, オープン, スペース
+top3 entities near to cluster12>>
+レストラン, ドッグラン, ソフトクリーム
+top3 entities near to cluster14>>
+オススメ, おすすめ, こっち
+top3 entities near to cluster15>>
+サービス, コーナー, タイトル
+top3 entities near to cluster18>>
+食べ物, ランチ, 美味しい
+top3 entities near to cluster21>>
+充実, 品数, 満足
+top3 entities near to cluster22>>
+時間, 期間, 日
+top3 entities near to cluster23>>
+愛犬, ワンコ
+top3 entities near to cluster24>>
+エリア, イベント, 写真
+top3 entities near to cluster25>>
+全車, 車両
+top3 entities near to cluster30>>
+モノ, 機械, 物品
+top3 entities near to cluster31>>
+子供, 子ども, 家族
+top3 entities near to cluster32>>
+海, 花, 庭
+top3 entities near to cluster35>>
+景色, 眺望, 景観

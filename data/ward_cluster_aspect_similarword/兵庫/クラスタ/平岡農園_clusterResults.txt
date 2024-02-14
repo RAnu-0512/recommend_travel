@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平岡農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食べ放題, みかん食べ放題
+cluster1:(5)
+平岡農園, みかん狩り, レモン狩り, 農園, ミカン狩り
+cluster2:(2)
+酸味, 甘いみかん
+cluster3:(5)
+旗, 園内, 山道, 木, 雨
+cluster4:(5)
+みかん, 味, ミカン, ジュース, レモン
+cluster5:(2)
+説明, 商品
+cluster6:(3)
+ところ, こと, 時期
+cluster7:(2)
+母, 友人
+cluster8:(3)
+車椅子, 人, 他
+cluster9:(1)
+美味しさ
+cluster10:(3)
+洲本市, 代引き, 淡路
+
+howmany entities : 33
+howmany clusters : 11
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 6
+deleted 9entities.

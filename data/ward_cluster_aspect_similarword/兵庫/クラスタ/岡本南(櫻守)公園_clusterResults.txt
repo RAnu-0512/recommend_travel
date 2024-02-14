@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡本南(櫻守)公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜, 満開
+cluster1:(6)
+公園, 水, エリア, 北側, 所, 雰囲気
+cluster2:(4)
+岡本駅, 東灘・芦屋, 阪急岡本駅, 岡本梅林公園
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

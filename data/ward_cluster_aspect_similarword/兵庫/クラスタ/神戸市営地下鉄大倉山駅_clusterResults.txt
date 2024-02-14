@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸市営地下鉄大倉山駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中央図書館, 中央体育館
+cluster1:(3)
+イベント, 地下鉄, 最寄り駅
+cluster2:(3)
+大倉山駅, 湊川公園駅, 駅
+cluster3:(6)
+神戸三宮, 神戸文化ホール, 湊川神社, 文化ホール, 神戸市立図書館, 神戸市
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 2entities.

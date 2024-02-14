@@ -1,0 +1,11 @@
+--------------------similar_words:日本玩具博物館--------------------
+top3 entities near to cluster1>>
+子供, 道具, 子ども
+top3 entities near to cluster5>>
+ままごと, 子ども, おもちゃ
+top3 entities near to cluster6>>
+インテリア, クオリティ, クリスマス
+top3 entities near to cluster12>>
+各地, 国内, 館内
+top3 entities near to cluster14>>
+展示, 収蔵, 出展

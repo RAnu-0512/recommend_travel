@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:原不動滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温泉, 旅館
+cluster1:(7)
+レストラン, 子ども, 気持ち, バーベキュー, つかみ取り, ところ, オススメ
+cluster2:(4)
+夫婦滝, 釣り橋, 遊歩道, 山登り
+cluster3:(5)
+吊り橋, しぶき, 滝つぼ, つり橋, 不動滝
+cluster4:(1)
+マイナスイオン
+cluster5:(4)
+魚, 車, 旅, 橋
+cluster6:(6)
+間近, 姿, 方, こと, 感じ, 勿論
+cluster7:(4)
+夏, 冬, 季節, 時期
+cluster8:(2)
+空間, 空気
+cluster9:(3)
+日本, 次, 最後
+cluster10:(2)
+場所, 此処
+cluster11:(6)
+自然, 周辺, 山, 周り, 水, 近く
+cluster12:(16)
+水量, 岩肌, 原不動滝, 落差, 木々, 途中山登り, 女滝, 男滝, 景色, 途中つり橋, 紅葉, 高所恐怖症, 小川, 清流, 豪雨, 雨
+cluster13:(4)
+高さ, 緊迫感, 美しさ, SNS映え間違い
+cluster14:(13)
+キャンプ場, 滝壺, 宿泊施設, 夫婦連れ, 子供連れ, 夫婦円満, 滝百選, 観光地, 原生林, 入場料, 滝中腹, 駐車場, 滝
+
+howmany entities : 79
+howmany clusters : 15
+howmany entities (more than3entities) : 72
+howmany clusters (more than3entities) : 11
+deleted 7entities.

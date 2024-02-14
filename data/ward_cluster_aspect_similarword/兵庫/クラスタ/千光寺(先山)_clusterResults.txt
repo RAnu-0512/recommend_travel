@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千光寺(先山)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+国生み神話, だんご転がし, 多少神仏習合
+cluster1:(14)
+山頂, 癒しスポット先山, 四国, 山, 団子, 崖下, 茶屋, 洲本市, 淡路, 猫ちゃん, 猫, 富士, 先山, 頂上
+cluster2:(6)
+伝承, 親族, 審判, 故人, 儀式, 神話
+cluster3:(6)
+感じ, 一端, もの, 場合, こと, 風情
+cluster4:(5)
+所, 車, 付近, 駐車, 階段
+cluster5:(12)
+タクシー, 文化財, 人, 真言宗, 高野山, 千光寺, おにぎり, イザナギ・イザナミ, 国, 中, 雰囲気, 淡路島
+cluster6:(3)
+別, 人気, 昔
+cluster7:(2)
+神, 西
+cluster8:(2)
+土, 廃止
+cluster9:(4)
+子供たち, 少年野球, 国生み, 減罪
+cluster10:(15)
+寺巡り, 路線バス, 葬送儀礼, 境内, 梵鐘, 住職, 展望台, 寺, 檀家, 登山口, 登山, 信者寺, 道路終点, 閻魔大王, 駐車場
+cluster11:(1)
+三十五日法要
+
+howmany entities : 73
+howmany clusters : 12
+howmany entities (more than3entities) : 68
+howmany clusters (more than3entities) : 9
+deleted 5entities.

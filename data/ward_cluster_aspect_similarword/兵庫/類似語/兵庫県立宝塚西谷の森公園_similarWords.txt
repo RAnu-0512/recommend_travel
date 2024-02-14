@@ -1,0 +1,11 @@
+--------------------similar_words:兵庫県立宝塚西谷の森公園--------------------
+top3 entities near to cluster1>>
+ハイキング, コース, トレッキング
+top3 entities near to cluster2>>
+公園, 歩道, 散歩
+top3 entities near to cluster3>>
+頂上, 山, 平地
+top3 entities near to cluster5>>
+体験, 農業, 農家
+top3 entities near to cluster9>>
+駐車台, 駐車場, 駐車

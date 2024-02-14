@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤西渓谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+場所, 途中, 様子, 携帯, シーズン, 奥, 途中今, 仕方
+cluster1:(3)
+空気, 電波, 泥水
+cluster2:(2)
+孤島, 陸
+cluster3:(3)
+渓谷, 川, 渓流
+cluster4:(3)
+車, 山道, 紅葉
+cluster5:(1)
+復旧作業
+cluster6:(1)
+です.2018.7.28
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 4entities.

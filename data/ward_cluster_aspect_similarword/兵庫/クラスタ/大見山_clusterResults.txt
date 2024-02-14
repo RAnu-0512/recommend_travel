@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大見山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+建物, 道路, 景色, 道幅
+cluster1:(5)
+もの, 慰霊, 人々, こと, 心境
+cluster2:(1)
+福良
+cluster3:(1)
+おのころ島
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

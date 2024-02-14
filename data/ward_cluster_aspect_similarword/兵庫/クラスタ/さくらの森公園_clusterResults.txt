@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さくらの森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 森公園
+cluster1:(7)
+弁当, 桜, トンネル, 場所, さくら, トイレ, 並木道
+cluster2:(1)
+駐車場
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 3entities.

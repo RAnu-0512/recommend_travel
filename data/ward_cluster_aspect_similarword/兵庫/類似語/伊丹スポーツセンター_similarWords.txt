@@ -1,0 +1,35 @@
+--------------------similar_words:伊丹スポーツセンター--------------------
+top3 entities near to cluster0>>
+利用者, 登録者, 利用, 登録
+top3 entities near to cluster1>>
+コート, テニス, オムニコート
+top3 entities near to cluster3>>
+ピラティス, エクササイズ, ジョギング
+top3 entities near to cluster4>>
+スタンド, グラウンド, コーヒー
+top3 entities near to cluster5>>
+イベント, スタッフ, エリア
+top3 entities near to cluster8>>
+運動会, 子ども, 小学生
+top3 entities near to cluster9>>
+スポーツ, サイクリング, 自転車
+top3 entities near to cluster10>>
+憩い, 庶民, 緑
+top3 entities near to cluster11>>
+利用, 購入, 使用
+top3 entities near to cluster14>>
+価値, 値段, 価格
+top3 entities near to cluster16>>
+子供, 大人, 子ども
+top3 entities near to cluster18>>
+運動場, 競技場, 競技, 運動
+top3 entities near to cluster19>>
+教室, レッスン, 月謝
+top3 entities near to cluster21>>
+野球, 水泳, 競技
+top3 entities near to cluster22>>
+室内, 屋内, 屋外
+top3 entities near to cluster24>>
+施設, 設備, 敷地
+top3 entities near to cluster29>>
+施設局, 事務局, 施設, 事務

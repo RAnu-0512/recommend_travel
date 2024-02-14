@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐津温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+香住地区, 香住, 香住カニ, 兵庫県
+cluster1:(2)
+前, 日本
+cluster2:(3)
+ところ, 海沿い, 雰囲気
+cluster3:(3)
+ごはん, 天ぷら, カエル
+cluster4:(1)
+方
+cluster5:(1)
+塩焼き小さめ
+cluster6:(1)
+カニ
+cluster7:(1)
+全般
+cluster8:(1)
+過
+cluster9:(8)
+炊き込みご飯, 風呂, 景色, 部屋, 品数, 箸, 料理, お湯
+cluster10:(1)
+蟹酢
+cluster11:(2)
+湯量, 温泉らしさ
+cluster12:(2)
+佐津温泉, 佐津
+cluster13:(2)
+海岸, 砂浜
+cluster14:(2)
+海側, 海
+cluster15:(11)
+民宿, 観光, 観光場所, 田舎, 町, 和牛ステーキ, 宿, 集落, 民宿旅館, 旅館, 温泉
+
+howmany entities : 45
+howmany clusters : 16
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 5
+deleted 16entities.

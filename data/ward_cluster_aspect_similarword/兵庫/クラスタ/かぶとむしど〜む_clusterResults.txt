@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かぶとむしど〜む>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+カブトムシドーム, 他, カブトムシ
+cluster1:(2)
+思い, やつ
+cluster2:(1)
+中身
+cluster3:(1)
+容器
+cluster4:(1)
+土
+cluster5:(1)
+札
+cluster6:(1)
+息
+cluster7:(1)
+ぁー
+
+howmany entities : 11
+howmany clusters : 8
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 8entities.

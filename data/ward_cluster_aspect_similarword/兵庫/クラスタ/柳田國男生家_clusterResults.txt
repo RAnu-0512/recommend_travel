@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柳田國男生家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+柳田國男, 辻川山公園, 河神崎郡, 故郷七十年, 福崎町, 兵庫県
+cluster1:(3)
+民俗学者, 民俗学, 民族研究者
+cluster2:(7)
+人物, 経歴, 著書, いたずらもの, 方, こと, 名前
+cluster3:(2)
+全員, 兄弟
+cluster4:(2)
+家, 近く
+cluster5:(4)
+ガタロ, カッパ, 日本, 父
+cluster6:(1)
+生家
+cluster7:(1)
+延長
+cluster8:(1)
+血
+cluster9:(1)
+・・
+cluster10:(9)
+池, 妖怪, 記念館, 天狗, 河童, 童, 公園, カッパ公園, 遠野物語
+
+howmany entities : 37
+howmany clusters : 11
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 5
+deleted 8entities.

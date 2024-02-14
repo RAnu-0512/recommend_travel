@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大蔵旧街道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+街道, 国道
+cluster1:(3)
+南, 播磨, 大蔵
+cluster2:(1)
+西国街道
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 3entities.

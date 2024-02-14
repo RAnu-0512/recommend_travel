@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:県立自然公園鴨池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鴨池, 女池
+cluster1:(2)
+由来, 名前
+cluster2:(3)
+昔, コハクチョウ, 時期
+cluster3:(4)
+鳥, 池, 釣り, 通り鴨
+cluster4:(1)
+カモ類
+cluster5:(1)
+飛来地
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 6entities.

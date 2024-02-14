@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸BAL>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+店員, 店内, 店
+cluster1:(3)
+場所, 事, 気
+cluster2:(3)
+Three, ショッピングモール, 雰囲気
+cluster3:(3)
+買い物, セレクトショップ, カフェ
+cluster4:(1)
+人気
+cluster5:(1)
+笑顔
+cluster6:(1)
+バル
+cluster7:(8)
+直結, 滞在, アネックス館, 地下, 宿泊ホテル, ファッションビル, ビル, 本館
+cluster8:(1)
+接客態度
+cluster9:(8)
+二階建て, 無印良品, 無印, 三宮センター街, 神戸元町, 元町, R&Bホテル, ですー無印
+cluster10:(1)
+居留地・大丸前駅
+
+howmany entities : 33
+howmany clusters : 11
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 6
+deleted 5entities.

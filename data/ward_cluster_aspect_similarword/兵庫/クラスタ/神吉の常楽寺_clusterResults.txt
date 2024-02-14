@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神吉の常楽寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+播磨守, 赤松則村, 神吉城址
+cluster1:(6)
+寺院, 本尊, 阿弥陀仏, 建物, 浄土宗, 常楽寺
+cluster2:(2)
+法性山, 西山禅林寺派
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

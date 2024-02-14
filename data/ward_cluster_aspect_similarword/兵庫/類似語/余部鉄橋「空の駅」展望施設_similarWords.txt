@@ -1,0 +1,21 @@
+--------------------similar_words:余部鉄橋「空の駅」展望施設--------------------
+top3 entities near to cluster0>>
+展望, 展望台, 眺望
+top3 entities near to cluster1>>
+景観, 名所, 景色
+top3 entities near to cluster2>>
+駐車料, 駐車場, 駐車
+top3 entities near to cluster8>>
+必見, 迫力, 感動
+top3 entities near to cluster11>>
+タワー, 景色, エレベーター
+top3 entities near to cluster13>>
+施設, 跡地, 跡
+top3 entities near to cluster16>>
+帰る, 旅
+top3 entities near to cluster18>>
+海雪, 海, 空
+top3 entities near to cluster19>>
+線路, 鉄橋, 橋梁
+top3 entities near to cluster21>>
+駅, 列車, 電車

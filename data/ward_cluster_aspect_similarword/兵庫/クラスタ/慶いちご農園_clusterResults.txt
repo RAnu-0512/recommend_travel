@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:慶いちご農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+苺, いちご狩り
+cluster1:(3)
+声, 子供, 孫
+cluster2:(2)
+イチゴ, いちご
+cluster3:(2)
+ベンチ, トイレ
+cluster4:(3)
+スタッフ, ポイント, ハウス
+cluster5:(1)
+ハサミ
+cluster6:(5)
+時間, 移動, 方, 最後, 他
+cluster7:(1)
+一口
+cluster8:(3)
+間隔, 品種, 列
+cluster9:(1)
+食べ比べ
+
+howmany entities : 23
+howmany clusters : 10
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 4
+deleted 9entities.

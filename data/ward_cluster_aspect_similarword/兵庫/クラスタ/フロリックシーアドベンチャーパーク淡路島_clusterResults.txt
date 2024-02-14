@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フロリックシーアドベンチャーパーク淡路島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+海水, 魚, 鯛, 鰤
+cluster1:(11)
+感じ, 値段, 体力, 対応, バランス感覚, 自信, 見学, 機会, こと, 体験, 料金
+cluster2:(4)
+手, 裸足, 足, 靴下
+cluster3:(9)
+係, 全体, 目, 周り, 前, 時間, 身体, 中, 声
+cluster4:(10)
+遊び場, 子, 主人, 人, パパ, 娘, 息子, 子ども, 家族, 子供
+cluster5:(2)
+ライフジャケット, ナイスジャンプ
+cluster6:(10)
+ところ, スタッフ, 気持ち, ロープ, ゴーグル, アスレチック, クーポン, スリル, ホテル, パーク
+cluster7:(1)
+車
+cluster8:(3)
+台風, 遊具, 雨
+cluster9:(6)
+スタッフさん達, 陸側, 盆, 盆料金, 海, 海側
+cluster10:(3)
+海水浴場, 場, 駐車場
+cluster11:(2)
+安全面, 利便性
+cluster12:(4)
+説明, 注意点, ルール説明, 事前説明
+
+howmany entities : 69
+howmany clusters : 13
+howmany entities (more than3entities) : 64
+howmany clusters (more than3entities) : 10
+deleted 5entities.

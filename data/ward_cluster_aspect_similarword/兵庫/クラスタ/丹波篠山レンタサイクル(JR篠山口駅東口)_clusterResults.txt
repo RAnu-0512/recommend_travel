@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波篠山レンタサイクル(JR篠山口駅東口)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+特急, 車内販売, 旅路, とり号
+cluster1:(4)
+駅, 和田山駅, 篠山城, 竹田駅
+cluster2:(1)
+自動販売機
+cluster3:(1)
+篠山口駅
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

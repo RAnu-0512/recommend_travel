@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路島SUP&カヤック総合案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+ユーモア, インストラクター, 大学生, マリンシューズ, SAP, ガイド, トイレ, 持ち物, シャワー, シャワーと, 方, カヤック, プログラム, 気, こと, 上
+cluster1:(10)
+指導, 水着, 息子, 家族, 先生, 体験, 娘, 動画, 夫婦, 写真
+cluster2:(1)
+潮風
+cluster3:(1)
+更衣室
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 2entities.

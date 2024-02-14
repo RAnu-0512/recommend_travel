@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲美町郷土資料館・播州ぶどう園歴史の館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+一角, 淡河川, ワイナリー, 始め
+cluster1:(3)
+森, 館, 歴史
+cluster2:(1)
+明治
+cluster3:(1)
+万葉
+cluster4:(2)
+播州ぶどう園, 稲美町
+cluster5:(1)
+稲美町郷土資料館
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 5entities.

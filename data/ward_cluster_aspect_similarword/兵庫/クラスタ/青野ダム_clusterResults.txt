@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青野ダム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+憩い, 釣り人
+cluster1:(3)
+魚, 足, 水
+cluster2:(3)
+バス, 公園, 地図
+cluster3:(8)
+折り, 場所, 人, 多く, クルマ, トイレ, 気, 配慮
+cluster4:(3)
+小川, 山肌, 車道
+cluster5:(1)
+魚道
+cluster6:(1)
+駐車場
+cluster7:(1)
+生態系
+cluster8:(7)
+湖, ダム, 有馬富士公園, 青野ダム記念館, ダム建設, 千丈寺湖, ダム湖
+
+howmany entities : 29
+howmany clusters : 9
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 5entities.

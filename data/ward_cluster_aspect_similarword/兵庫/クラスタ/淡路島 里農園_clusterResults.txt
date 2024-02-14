@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路島 里農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+木オーナー, 手塩, 木
+cluster1:(6)
+景色, 子供達, 大地, みかん狩り, 農園, 斜面
+cluster2:(18)
+感じ, 玉ねぎ, みかん, 秋晴れ, ミカン, カゴ, 人, 対応, おまけ, オーナー, 時間, 揚げたて, 方々, キャンセル, 玉ねぎ天ぷら, 先, 天ぷら, 淡路島
+cluster3:(3)
+揚げたてサクサク, 食べ放題, 玉ねぎ天ぷら食べ放題
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 0entities.

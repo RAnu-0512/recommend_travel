@@ -1,0 +1,41 @@
+--------------------similar_words:湯村温泉--------------------
+top3 entities near to cluster0>>
+卵, 玉子, ゆで
+top3 entities near to cluster1>>
+温泉街, 温泉, 旅館街, 旅館
+top3 entities near to cluster2>>
+温泉, 湯, 石和
+top3 entities near to cluster5>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster7>>
+足湯, 温泉, 脚湯
+top3 entities near to cluster8>>
+温泉, 旅館, 露天風呂
+top3 entities near to cluster10>>
+ホテル, レストラン, カフェ
+top3 entities near to cluster11>>
+牛, 山, 猪
+top3 entities near to cluster14>>
+お湯, 温泉, 湯量
+top3 entities near to cluster15>>
+時間, 入れ
+top3 entities near to cluster16>>
+人達, 大勢
+top3 entities near to cluster17>>
+風情, 名残, 閑散
+top3 entities near to cluster24>>
+夕食, 食事, 昼食
+top3 entities near to cluster27>>
+建物, 宿, 駅
+top3 entities near to cluster28>>
+夢, 千, 代
+top3 entities near to cluster29>>
+土産物屋, 定食屋, 定食, 土産物
+top3 entities near to cluster36>>
+山間部, 山間
+top3 entities near to cluster37>>
+散歩, 散策, 出掛け
+top3 entities near to cluster40>>
+宿泊, 家族, 施設
+top3 entities near to cluster42>>
+土産物店, 土産店, 土産, 土産物

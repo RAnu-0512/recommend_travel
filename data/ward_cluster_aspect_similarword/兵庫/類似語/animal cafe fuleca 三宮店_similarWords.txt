@@ -1,0 +1,9 @@
+--------------------similar_words:animal cafe fuleca 三宮店--------------------
+top3 entities near to cluster0>>
+動物, 子供, 人間
+top3 entities near to cluster4>>
+フクロウ, フェネック, フェレット
+top3 entities near to cluster8>>
+娘, 恋人
+top3 entities near to cluster10>>
+店内, 店員

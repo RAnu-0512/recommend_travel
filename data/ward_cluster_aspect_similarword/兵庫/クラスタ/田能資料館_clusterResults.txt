@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田能資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+竪穴式住居, 竪穴式
+cluster1:(3)
+資料館, 展示, 展示物
+cluster2:(11)
+価値, 場所, 外, 土器, 住居, 骨, 遺跡, 再現, 屋外, 人骨, 古代
+cluster3:(4)
+伊丹駅, 千里川, 尼崎, 田能遺跡
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 2entities.

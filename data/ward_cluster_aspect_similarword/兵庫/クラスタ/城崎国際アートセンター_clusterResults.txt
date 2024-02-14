@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城崎国際アートセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+舞台, 舞台美術
+cluster1:(9)
+土産物, 時間, 子ども, 土産, 建物, 展示, こと, 施設, 方
+cluster2:(2)
+興味, 衝撃
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 4entities.

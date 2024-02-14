@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾上神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+手, 漁師, 神社, 海賊, 祭神, 松, 境内, 鐘, 出雲, 仕上がり, 高野山, 周辺, 朝鮮鐘, 神社仏閣, 日本, 神, 結婚式, 彫刻, 海, 高砂, 本殿
+cluster1:(7)
+片枝の松, 尾上神社, 尾上の鐘@重文, 尾上, 相生霊松, 尾上の松, 住吉大明
+
+howmany entities : 28
+howmany clusters : 2
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 2
+deleted 0entities.

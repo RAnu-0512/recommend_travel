@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀山城跡(兵庫県たつの市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+スポット, 状態, 注目, 面影, 大河ドラマ, 歴史, 勉強, 頂上
+cluster1:(5)
+城跡, 城マニア, 石垣, 亀山城跡, 城
+cluster2:(1)
+臨場感
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

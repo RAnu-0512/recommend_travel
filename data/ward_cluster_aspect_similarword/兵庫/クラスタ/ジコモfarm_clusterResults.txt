@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジコモfarm>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+子ども, 芋, 話, 農薬, 体験, 両親, 野菜
+cluster1:(2)
+有機栽培, 化学肥料
+cluster2:(1)
+安納芋
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 3entities.

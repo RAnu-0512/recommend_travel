@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:原不動滝の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紅葉祭, 紅葉
+cluster1:(2)
+滝, 色
+cluster2:(1)
+観光名所
+cluster3:(3)
+宍粟市, 原不動滝, 此処原不動滝
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

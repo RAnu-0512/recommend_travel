@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スキューバ&フィットネス VeryVery>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+台風, 台風発生
+cluster1:(2)
+泣, 心配
+cluster2:(4)
+場所, ダイビング, 海, インストラクター
+cluster3:(1)
+連絡
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

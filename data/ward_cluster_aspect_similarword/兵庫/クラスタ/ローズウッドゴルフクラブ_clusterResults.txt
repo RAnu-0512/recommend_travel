@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ローズウッドゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+服装, 格好コース
+cluster1:(4)
+上司, 朝ごはん, 接待, 夫
+cluster2:(6)
+クラブハウス, アドバイス, コンディション, バイキング, コース, お気に入り
+cluster3:(2)
+おすすめポイント, 初心者
+cluster4:(3)
+コンペ, ゴルフ, スコア
+cluster5:(1)
+練習
+cluster6:(1)
+フェアウェイ
+cluster7:(1)
+設計コンセプト
+cluster8:(7)
+値段, 場所, 池, 景色, 自然, 前, 近く
+cluster9:(1)
+丸み
+cluster10:(1)
+面白さ
+cluster11:(3)
+ゴルフ場, 交通手段, 駐車場
+
+howmany entities : 32
+howmany clusters : 12
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 9entities.

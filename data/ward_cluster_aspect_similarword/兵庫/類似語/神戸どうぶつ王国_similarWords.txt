@@ -1,0 +1,83 @@
+--------------------similar_words:神戸どうぶつ王国--------------------
+top3 entities near to cluster0>>
+時間, 入場, 期間
+top3 entities near to cluster1>>
+ショー, ショウ, ミー・ラヴ
+top3 entities near to cluster2>>
+ランチ, ホテル, フライト
+top3 entities near to cluster3>>
+ウサギ, カピバラ, コアリクイ
+top3 entities near to cluster4>>
+気持ち, 思い出, ファン
+top3 entities near to cluster6>>
+スペース, カフェ, エリア
+top3 entities near to cluster7>>
+ふれあい, うどん, ふれ合い
+top3 entities near to cluster9>>
+フレンドリー, オープン, アクセス
+top3 entities near to cluster10>>
+レストラン, バイキング, テーマパーク
+top3 entities near to cluster11>>
+ドッグショー, フリスビー, シープドッグ
+top3 entities near to cluster13>>
+イベント, ショップ, スタッフ
+top3 entities near to cluster14>>
+子ども, 小学生, 子供
+top3 entities near to cluster15>>
+室内, 屋内, 屋外
+top3 entities near to cluster16>>
+屋外, 屋内, 野外
+top3 entities near to cluster17>>
+飼育, 飛行, 飼養
+top3 entities near to cluster18>>
+ご飯, ごはん, お昼
+top3 entities near to cluster19>>
+団体, 施設, 職員
+top3 entities near to cluster20>>
+土産, おみやげ, 土産物
+top3 entities near to cluster21>>
+食事, 昼食, 休憩
+top3 entities near to cluster22>>
+展示, 館内, 園内
+top3 entities near to cluster26>>
+大人, オトナ, 子供
+top3 entities near to cluster30>>
+子供, 娘, 息子
+top3 entities near to cluster31>>
+おと, よさ, おじ
+top3 entities near to cluster32>>
+ほか, これら, 各種
+top3 entities near to cluster35>>
+時間, 半年分, 半年
+top3 entities near to cluster38>>
+昼, 夜, 夕方
+top3 entities near to cluster40>>
+割引, 料金, 値段
+top3 entities near to cluster41>>
+遠足, 入園, 弁当
+top3 entities near to cluster44>>
+植物, 緑, 自然
+top3 entities near to cluster45>>
+天候, 天気, 混雑
+top3 entities near to cluster46>>
+椅子, 席, 檻
+top3 entities near to cluster49>>
+餌, エサ, えさ
+top3 entities near to cluster52>>
+カメ, フン, カモ
+top3 entities near to cluster54>>
+バス, エコ, カー
+top3 entities near to cluster55>>
+動物園, 植物園, 動物, 植物
+top3 entities near to cluster56>>
+エサ, 餌, やり
+top3 entities near to cluster57>>
+鳥, 野鳥, 小鳥
+top3 entities near to cluster59>>
+子供, 子ども, 親達
+top3 entities near to cluster61>>
+王国, ぶつ, ツクモロボット
+top3 entities near to cluster62>>
+動物, 植物, 生き物
+top3 entities near to cluster64>>
+猫, ネコ

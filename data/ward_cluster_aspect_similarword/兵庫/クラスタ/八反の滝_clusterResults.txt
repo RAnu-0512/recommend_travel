@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八反の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+訪問, 日帰り旅行, 散策
+cluster1:(3)
+水量, 落差, 迫力
+cluster2:(2)
+神鍋山頂, 但馬ドーム
+cluster3:(21)
+場所, MAXマイナスイオン, 緑, 河原, 足元, 足らず, 音, マッタリ, 周り, レンタサイクル, 駅, 坂道, 道, 中, エメラルド色, 階段, コース, デートスポット, 手すり, 見どころ, 近く
+cluster4:(3)
+滝, 滝壺, 秘境感
+cluster5:(5)
+大手旅行会社, 駐車スペース, スポット駐車スペース, 神鍋高原, 駐車場
+cluster6:(1)
+新屋八反滝
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 5
+deleted 3entities.

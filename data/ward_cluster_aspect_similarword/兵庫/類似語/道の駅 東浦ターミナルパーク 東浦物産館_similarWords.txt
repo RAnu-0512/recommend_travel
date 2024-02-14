@@ -1,0 +1,15 @@
+--------------------similar_words:道の駅 東浦ターミナルパーク 東浦物産館--------------------
+top3 entities near to cluster0>>
+物産, 野菜, 生鮮
+top3 entities near to cluster1>>
+姿, 格好
+top3 entities near to cluster3>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster4>>
+イカ, タコ, スルメ
+top3 entities near to cluster6>>
+玉ねぎ, イチゴ, たまねぎ
+top3 entities near to cluster7>>
+トイレ, 買い物, 用足し
+top3 entities near to cluster14>>
+土産店, 土産, 農家

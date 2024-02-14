@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山田錦の館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+野菜, 地元野菜, 農家, 果物
+cluster1:(2)
+ぶどう大福, 枝豆
+cluster2:(23)
+値段, ジェラート, 複数, 吉川, 黒, 手作り, キノコ類, もの, 酒, 量, スーパー, 昼食, 山田, ぶどう, シーズン, 都会, 半分, 日本, 楽しみ, 米, 地元, いちじく, 近く
+cluster3:(7)
+土産屋, よかたんで温泉, 食事処, 温泉施設, よかたん温泉, 温泉, 駐車場
+
+howmany entities : 36
+howmany clusters : 4
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 3
+deleted 2entities.

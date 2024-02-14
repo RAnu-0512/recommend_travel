@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加西市観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+加西市, 北条駅, 北条鉄道, 北条町駅
+cluster1:(9)
+観光案内所, フリーきっぷ, 鉄印, 気動車, パッケージ, セット, 対応, パンフレット, 田園風景
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

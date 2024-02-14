@@ -1,0 +1,15 @@
+--------------------similar_words:舞子海上プロムナード--------------------
+top3 entities near to cluster0>>
+景色, 絶景, 土産
+top3 entities near to cluster5>>
+一部, 一部分, 大半
+top3 entities near to cluster7>>
+景色, 駅, 建物
+top3 entities near to cluster8>>
+壁面, ガラス
+top3 entities near to cluster10>>
+展望, 眺望, 見晴らし
+top3 entities near to cluster12>>
+時間, 開館, 閉館
+top3 entities near to cluster13>>
+駐車場, 駐車, 回遊

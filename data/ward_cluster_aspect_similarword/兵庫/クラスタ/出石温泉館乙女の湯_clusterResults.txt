@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出石温泉館乙女の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光, 地場産, 観光客
+cluster1:(3)
+野菜, 身体, 肌
+cluster2:(2)
+疲れ, 気楽
+cluster3:(2)
+美人, 人気
+cluster4:(3)
+帰り, 近く, 地元
+cluster5:(6)
+サウナ, 露天風呂, 日帰り, 気持ち, すべすべ, 雰囲気
+cluster6:(2)
+人, 方
+cluster7:(1)
+場所
+cluster8:(1)
+汗
+cluster9:(2)
+割引, 機会
+cluster10:(1)
+休憩スペース
+cluster11:(8)
+湯1, 風呂, 皿そば, 食事処, 内湯, 湯, お湯, 温泉
+cluster12:(8)
+静かな温泉, 天然温泉, 出石, 採れたて野菜, 日帰り入浴施設, 城崎行こか, 城崎温泉, 出石温泉
+
+howmany entities : 42
+howmany clusters : 13
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 6
+deleted 11entities.

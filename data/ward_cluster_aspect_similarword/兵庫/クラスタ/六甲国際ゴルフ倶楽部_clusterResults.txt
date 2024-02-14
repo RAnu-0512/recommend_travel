@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六甲国際ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴルフ場, 駐車場
+cluster1:(2)
+ツアー観戦, 森林浴気分
+cluster2:(2)
+トーナメントコース, コース
+cluster3:(2)
+ゴルフ, プレー
+cluster4:(3)
+アドバイス, ビール, カレーライス
+cluster5:(1)
+ギャラリープラザ
+cluster6:(1)
+中
+cluster7:(1)
+夫
+cluster8:(1)
+食事
+cluster9:(1)
+プロ
+cluster10:(2)
+趣味, 格好コース
+cluster11:(1)
+名門
+cluster12:(1)
+敷居
+
+howmany entities : 20
+howmany clusters : 13
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 17entities.

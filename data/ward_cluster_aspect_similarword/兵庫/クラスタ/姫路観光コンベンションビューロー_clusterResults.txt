@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路観光コンベンションビューロー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光案内所, 観光ナビ, 観光客
+cluster1:(3)
+姫路観光, 姫路駅, 姫路
+cluster2:(5)
+手伝い, 姫路城, 大手前, 地図, パンフレット
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 0entities.

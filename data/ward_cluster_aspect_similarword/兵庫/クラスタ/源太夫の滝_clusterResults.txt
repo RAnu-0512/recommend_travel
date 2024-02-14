@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:源太夫の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+滝, 滝壺
+cluster1:(4)
+水, ハイライトスポット, ハイキング, 岩肌
+cluster2:(1)
+阿瀬渓谷
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 3entities.

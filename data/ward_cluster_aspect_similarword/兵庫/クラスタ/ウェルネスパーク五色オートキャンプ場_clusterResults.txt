@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ウェルネスパーク五色オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+中, 自然, キャンプ場, 敷地, コテージ, オートキャンプ, 温泉, 料金, 近く
+cluster1:(2)
+芝生, 遊具
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

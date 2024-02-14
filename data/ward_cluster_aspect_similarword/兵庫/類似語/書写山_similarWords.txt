@@ -1,0 +1,21 @@
+--------------------similar_words:書写山--------------------
+top3 entities near to cluster0>>
+奥の院, 円教寺, 中腹
+top3 entities near to cluster2>>
+ハイキング, 山歩き, 山登り
+top3 entities near to cluster5>>
+映画, ラスト, ラストシーン
+top3 entities near to cluster6>>
+本堂, 寺, 参道
+top3 entities near to cluster7>>
+山道, 歩道, バス停
+top3 entities near to cluster9>>
+森林, 自然, 緑
+top3 entities near to cluster10>>
+登山, 山登り, 山頂
+top3 entities near to cluster14>>
+景色, 紅葉, 絶景
+top3 entities near to cluster15>>
+駅, 山頂, 駅前
+top3 entities near to cluster17>>
+寺教, 圓教, 寺, 圓

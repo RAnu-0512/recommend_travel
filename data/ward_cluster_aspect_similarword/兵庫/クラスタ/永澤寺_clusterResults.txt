@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永澤寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観音像, 霊場, 観音
+cluster1:(3)
+芝桜, 花しょうぶ園, 永沢寺花菖蒲園
+cluster2:(4)
+花菖蒲, 花, 牡丹, 菖蒲
+cluster3:(3)
+境内, 鐘, 寺
+cluster4:(9)
+感じ, 時季, 人, 種類, 観光し, 規模, 正面, 雰囲気, 他
+cluster5:(1)
+近畿地方
+cluster6:(1)
+関西花の寺二十五ヵ所
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 2entities.

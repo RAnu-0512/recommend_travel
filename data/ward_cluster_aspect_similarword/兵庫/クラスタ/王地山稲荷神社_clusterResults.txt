@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:王地山稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+坂道, 石段, 階段
+cluster1:(3)
+神社, 鳥居, 本殿
+cluster2:(14)
+感じ, 姿, 利益, まけきらい, 山, ショートカット, 笑, バスツアー, 道, 方, 王地, 御利益, シニア, 写真
+cluster3:(6)
+丹波篠山, きらい稲荷, 伏見稲荷, 稲荷, 千本鳥居, 山稲荷神社
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 0entities.

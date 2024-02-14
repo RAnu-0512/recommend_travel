@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波篠山市立青山歴史村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+篠山城大書院, 篠山藩主青山家
+cluster1:(3)
+青山歴史村, 青山家, 青山
+cluster2:(3)
+篠山城堀, 篠山城, 篠山
+cluster3:(2)
+丹波デカンショ, 篠山デカンショ館
+cluster4:(24)
+共通入館券, 共通券, デカンショ, 宿泊者, 別邸, 歴史, 民俗資料館, 前, 説, 施設, 歴史館, 版木, デカンショ館, 中, デカンショ節, 歴史美術館, 展示, 意外, セット, 市役所, 見どころ, 風情, 価値, 田園ホール
+cluster5:(1)
+篠山城大書院・武家屋敷史料館・歴史美術館
+
+howmany entities : 35
+howmany clusters : 6
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 5entities.

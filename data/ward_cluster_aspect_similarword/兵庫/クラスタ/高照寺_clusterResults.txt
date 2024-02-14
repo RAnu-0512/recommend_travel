@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高照寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仏, 寺
+cluster1:(2)
+モクレン, シャクナゲ
+cluster2:(1)
+ところ
+cluster3:(1)
+花
+cluster4:(1)
+茶
+cluster5:(1)
+萩
+cluster6:(1)
+撫
+cluster7:(1)
+撫で弘法
+cluster8:(1)
+高照寺
+cluster9:(1)
+関西花の寺二十五ヵ所
+
+howmany entities : 12
+howmany clusters : 10
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 12entities.

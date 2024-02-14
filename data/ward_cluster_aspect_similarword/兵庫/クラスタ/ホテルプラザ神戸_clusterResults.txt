@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルプラザ神戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+満足度, ボリューム満点, 満足, 予約可, お得感
+cluster1:(4)
+神戸, 六甲アイランド, 紅茶, ホット紅茶
+cluster2:(10)
+コーヒー, ドリンク, メニュー, ビュッフェ, レストラン, アフタヌーンティーセット, カフェ, スウィーツ, スイーツ, ケーキ
+cluster3:(6)
+スタッフ, ポイント, アドバイス, バラエティ, ホテル, フロント
+cluster4:(1)
+プラン
+cluster5:(1)
+バニラアイス
+cluster6:(11)
+感じ, 高齢, 比べ物, 場合, 笑, 方, 親, 女性, 他, 海, 夫
+cluster7:(1)
+消化
+cluster8:(1)
+ワンドリンク
+cluster9:(5)
+店員, 客, 接客, 店内, 店
+cluster10:(7)
+宿泊, 部屋, ポッド提供, 友達数, 空間, 時間, ホテルプラザ
+cluster11:(2)
+景色, 夜景
+cluster12:(3)
+値段, 味, 香り
+cluster13:(4)
+前菜, 食事, ステーキランチ, 料理
+cluster14:(1)
+ガーデン挙式
+cluster15:(1)
+従業員
+
+howmany entities : 63
+howmany clusters : 16
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 9
+deleted 8entities.

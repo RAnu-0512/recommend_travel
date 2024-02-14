@@ -1,0 +1,41 @@
+--------------------similar_words:新さんだ農園いな岡--------------------
+top3 entities near to cluster0>>
+イチゴ, ケーキ, 美味しい
+top3 entities near to cluster1>>
+撮影, 写真, 撮っ
+top3 entities near to cluster2>>
+品種, 甘み
+top3 entities near to cluster3>>
+写真, フォト, 撮影
+top3 entities near to cluster4>>
+子供, 子ども, 家族
+top3 entities near to cluster5>>
+笑顔, 足
+top3 entities near to cluster6>>
+栄養, 雑学, 満腹
+top3 entities near to cluster8>>
+店員, 接客
+top3 entities near to cluster12>>
+駅車, 駅, 土産
+top3 entities near to cluster13>>
+駐車, トイレ, 仮設
+top3 entities near to cluster15>>
+予約, 受付, 電話
+top3 entities near to cluster20>>
+種類数, 種類, 大量
+top3 entities near to cluster25>>
+対応, 扱い, 心配
+top3 entities near to cluster27>>
+狩り, 狩, イチゴ
+top3 entities near to cluster28>>
+枝豆, 狩り, 黒豆
+top3 entities near to cluster29>>
+苺, イチゴ, いちご
+top3 entities near to cluster32>>
+農園, 農場, 果樹
+top3 entities near to cluster33>>
+ちご, ひめ, あき
+top3 entities near to cluster35>>
+岡, 野, 藤
+top3 entities near to cluster36>>
+山, 沢, 紅

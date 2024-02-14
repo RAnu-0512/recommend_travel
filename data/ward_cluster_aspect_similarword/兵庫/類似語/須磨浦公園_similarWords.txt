@@ -1,0 +1,49 @@
+--------------------similar_words:須磨浦公園--------------------
+top3 entities near to cluster0>>
+海釣り, 海, 公園
+top3 entities near to cluster1>>
+芭蕉, 蕪村, 虚子
+top3 entities near to cluster2>>
+敦盛, 源平, 平家
+top3 entities near to cluster5>>
+電車, 電鉄姫路, 電鉄飾磨
+top3 entities near to cluster6>>
+平敦盛, 一ノ谷, 源義経
+top3 entities near to cluster7>>
+乗り物, アトラクション, クルマ
+top3 entities near to cluster8>>
+パスタ, コーヒー, ビール
+top3 entities near to cluster9>>
+サクラ, コート, ピーク
+top3 entities near to cluster10>>
+散歩道, 正岡子規, 子規
+top3 entities near to cluster12>>
+ピクニック, バーベキュー, レストラン
+top3 entities near to cluster15>>
+ウォーキング, ハイキング, アップダウン
+top3 entities near to cluster21>>
+スペース, スピード, とこ
+top3 entities near to cluster22>>
+ロープウェー, ロープーウェイ, ロープウエー
+top3 entities near to cluster24>>
+南東, 南西, 北東
+top3 entities near to cluster25>>
+山, 海, 海岸
+top3 entities near to cluster26>>
+季節, 定番, 時期
+top3 entities near to cluster27>>
+一角
+top3 entities near to cluster32>>
+電車, 子供
+top3 entities near to cluster34>>
+時間, 休憩
+top3 entities near to cluster37>>
+展望台, 駐車台, 展望, 駐車
+top3 entities near to cluster39>>
+花見, 桜, 満開
+top3 entities near to cluster40>>
+駅, 徒歩, 駅前
+top3 entities near to cluster43>>
+散策, 景色, ハイキング
+top3 entities near to cluster44>>
+公園, 遊具, 子供

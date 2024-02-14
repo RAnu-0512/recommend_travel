@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:デカパトス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 監視員
+cluster1:(32)
+値段, 神戸, 場所, ところ, 波, 夏, 幼児, 子供たち, 六甲アイランド, 人, スライダー, 人気, 滑り台, 中学生, 種類, 園内, 混雑, 浅いプール, 大人, 流水プール, ウォータースライダー, 夏休み, 方, 水, プール, 家族, 子供, 小学生, 定番, スペース, 六甲ライナー, オススメ
+
+howmany entities : 34
+howmany clusters : 2
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 1
+deleted 2entities.

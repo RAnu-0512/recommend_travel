@@ -1,0 +1,13 @@
+--------------------similar_words:ホテルヒューイット甲子園--------------------
+top3 entities near to cluster0>>
+飲み放題, 飲み, 呑み
+top3 entities near to cluster3>>
+味付け, スープ, ソース
+top3 entities near to cluster7>>
+レストラン, メニュー, テーブル
+top3 entities near to cluster8>>
+デザート, ビュッフェ, バイキング
+top3 entities near to cluster12>>
+ワイン, 飲み物, 野菜
+top3 entities near to cluster13>>
+料理, 食材, 調理

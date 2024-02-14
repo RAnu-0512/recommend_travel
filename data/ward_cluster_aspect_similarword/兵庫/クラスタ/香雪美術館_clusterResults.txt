@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香雪美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+芸術, 敷地, 同館, 邸宅
+cluster1:(16)
+感じ, 中之島, 魅力, 思い, ペース, フェスティバルタワー, 周辺, 時間, 茶道具, 今回, 日本, コレクション, 美術館, 中, 雰囲気, 近く
+cluster2:(4)
+企画展示, 甲冑, 刀剣, 展示
+cluster3:(1)
+住宅街
+cluster4:(7)
+神戸市, 東灘, 村山龍平, 村山, 御影, 阪急御影駅, 御影駅
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 4
+deleted 1entities.

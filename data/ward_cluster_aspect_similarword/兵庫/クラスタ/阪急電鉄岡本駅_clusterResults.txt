@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阪急電鉄岡本駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石畳, 坂道
+cluster1:(2)
+特急, 電車
+cluster2:(8)
+雰囲気, 店, カフェ, ホーム, 街, 駅, 遊び, 甲南大学
+cluster3:(1)
+女子同士
+cluster4:(1)
+住みたい街ランキング
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 6entities.

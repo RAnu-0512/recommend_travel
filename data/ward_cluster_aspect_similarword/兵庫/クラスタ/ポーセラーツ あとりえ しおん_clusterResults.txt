@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ポーセラーツ あとりえ しおん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+感じ, 構図, もの, こと
+cluster1:(2)
+皿, 品
+cluster2:(2)
+旅, 体験
+cluster3:(14)
+母, ポイント, 話, アドバイス, クリスマスツリー, 時間, オプション, おかげ, 想い出, ニコニコ, プレゼント, ホテル, 裏, 先生
+cluster4:(1)
+高齢
+cluster5:(1)
+舞子
+cluster6:(1)
+こー
+cluster7:(1)
+近場
+cluster8:(1)
+転写紙
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 9entities.

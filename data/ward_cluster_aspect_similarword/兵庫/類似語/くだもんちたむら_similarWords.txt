@@ -1,0 +1,13 @@
+--------------------similar_words:くだもんちたむら--------------------
+top3 entities near to cluster1>>
+家族, 夫婦, 友人
+top3 entities near to cluster2>>
+値段, 種類
+top3 entities near to cluster3>>
+四つ, ヘタ
+top3 entities near to cluster5>>
+状況, 時期, 状態
+top3 entities near to cluster7>>
+友達, 子供
+top3 entities near to cluster8>>
+甘み, 甘味, 果物

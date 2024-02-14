@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東大谷野外活動施設「たけのこ村」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+利用客, 施設側, 利用
+cluster1:(13)
+騒ぎ, 値段, バーベキュー, 隣, 家族, 大人, 外, コテージ, 受付, 年, 男性チーム, どんちゃん, キャンプ
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

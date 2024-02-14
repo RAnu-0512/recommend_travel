@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常盤観光ぶどう園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+道沿い, 道
+cluster1:(3)
+場所, ハサミ, ぶどう
+cluster2:(2)
+ぶどう狩り, ブドウ農園
+cluster3:(1)
+時間制限
+cluster4:(1)
+ぶどう食べ放題
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:神戸BAL--------------------
+top3 entities near to cluster0>>
+店員, 店内
+top3 entities near to cluster2>>
+雰囲気, 佇まい, フインキ
+top3 entities near to cluster3>>
+ショップ, カフェ, 買い物
+top3 entities near to cluster7>>
+ビル, 本館, 新館

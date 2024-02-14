@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩座神の棚田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+稲作, 棚田
+cluster1:(3)
+苔, 石, 石垣
+cluster2:(7)
+事, 谷間, 急斜面, 場所, こと, 足, 日本
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

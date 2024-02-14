@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹中半兵衛の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+病, 頭, 陣, 如し, 人, 車, 墓, 命令, 病死, 顔, 合戦, 跡, 塀, 方々, 半兵衛, 道, 方, 通称, 地元, 入り口, 近く
+cluster1:(2)
+容貌婦人, 天才軍師
+cluster2:(10)
+三顧の礼, 美濃斎藤, 木下藤吉郎, 竹中半兵衛, 国史跡・秀吉本陣, 秀吉, 太閤記, 三木市, 三木城, 三木城攻め
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 2entities.

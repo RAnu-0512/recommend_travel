@@ -1,0 +1,15 @@
+--------------------similar_words:竹中大工道具館--------------------
+top3 entities near to cluster0>>
+地下室, 地下, 時間
+top3 entities near to cluster2>>
+建物, 建築, 施設
+top3 entities near to cluster3>>
+駅, 駅前, 市営
+top3 entities near to cluster4>>
+道具, 用具, 大工
+top3 entities near to cluster5>>
+建築, 木造, 建物
+top3 entities near to cluster6>>
+展示, 展覧
+top3 entities near to cluster7>>
+木工, 工作, 陶芸

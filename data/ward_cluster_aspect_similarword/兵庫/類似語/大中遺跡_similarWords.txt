@@ -1,0 +1,21 @@
+--------------------similar_words:大中遺跡--------------------
+top3 entities near to cluster0>>
+住居, 竪穴, 石器
+top3 entities near to cluster1>>
+木々, 樹木, 植物
+top3 entities near to cluster6>>
+空間
+top3 entities near to cluster7>>
+こども, 遊び場, 子ども
+top3 entities near to cluster8>>
+博物館, 機関車, モニュメント
+top3 entities near to cluster10>>
+遺跡, 敷地, 町
+top3 entities near to cluster11>>
+昔, 頃, 近所
+top3 entities near to cluster12>>
+鉄道車, 鉄道, 車両
+top3 entities near to cluster13>>
+公園, 施設, 駐車
+top3 entities near to cluster14>>
+遺跡, 古代, 古墳

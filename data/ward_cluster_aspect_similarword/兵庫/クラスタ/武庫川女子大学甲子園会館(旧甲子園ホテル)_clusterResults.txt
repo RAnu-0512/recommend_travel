@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武庫川女子大学甲子園会館(旧甲子園ホテル)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ライト, ホール
+cluster1:(1)
+内部
+cluster2:(1)
+市
+cluster3:(1)
+庭園
+cluster4:(1)
+イベント講座
+cluster5:(1)
+アール・デコ文様
+cluster6:(1)
+近代建築
+cluster7:(1)
+松格子光天井
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

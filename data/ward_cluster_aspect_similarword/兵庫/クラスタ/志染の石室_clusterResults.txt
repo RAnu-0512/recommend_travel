@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:志染の石室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+金水, 光藻, 湧水
+cluster1:(8)
+もの, 雰囲気, 伝説, 大袈裟, 洞窟, 天皇, 季節, 駐車場
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:播磨中央公園桜の園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+ライトアップ, ところ, さくら, 多く, ソメイヨシノ, 子供, 時期, 終わり
+cluster1:(6)
+通路, 広場, 園, 芝生, 屋台, 公園
+cluster2:(6)
+桜, 時期桜まつり, 満開, 桜祭り, 播磨中央公園, 桜花見
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 0entities.

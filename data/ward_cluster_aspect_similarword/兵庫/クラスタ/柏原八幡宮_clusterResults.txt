@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柏原八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+たたずまい, 後ろ, 柏原八幡宮, 配置, 仏像, 文化財, 明治, 神社, 三重, 三重塔, 文庫, 正月三, 境内, 出雲族, 歴史, 塔, 柏原, 柏原別宮, 廃仏毀釈, 寺, 丹波, 方, 京都, 展示, 雨, 本殿, 大勢, きらびやかさ
+cluster1:(2)
+神仏分離令, 神仏習合
+cluster2:(3)
+織田神社, 五社稲荷神社, 稲荷神社
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 2entities.

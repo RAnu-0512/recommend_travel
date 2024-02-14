@@ -1,0 +1,45 @@
+--------------------similar_words:有馬街道温泉すずらんの湯--------------------
+top3 entities near to cluster1>>
+露天風呂, 内風呂, 内湯
+top3 entities near to cluster4>>
+ハーブ, もみじ, すずらん
+top3 entities near to cluster5>>
+シャンプー, トリートメント, シャワー
+top3 entities near to cluster6>>
+デート, レストラン, カップル
+top3 entities near to cluster7>>
+子ども, 子供, テレビ
+top3 entities near to cluster9>>
+雰囲気, デザイン, スペース
+top3 entities near to cluster12>>
+店員, レジ, お客
+top3 entities near to cluster14>>
+子供, 子ども, 大人
+top3 entities near to cluster16>>
+温度, 化粧, 時間
+top3 entities near to cluster17>>
+食事, 夕食, 料理
+top3 entities near to cluster18>>
+香り, 空間, 自然
+top3 entities near to cluster20>>
+館内, 屋内, 室内
+top3 entities near to cluster21>>
+銭湯, サウナ, 風呂
+top3 entities near to cluster22>>
+臭い, 匂い, におい
+top3 entities near to cluster23>>
+清潔感, 開放感, 清潔, 開放
+top3 entities near to cluster24>>
+駐車場, 駐車, 更衣
+top3 entities near to cluster30>>
+入浴, 風呂, 入湯
+top3 entities near to cluster34>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster35>>
+岩盤浴, 岩盤, 温浴
+top3 entities near to cluster37>>
+温泉, 温泉郷, 露天風呂
+top3 entities near to cluster39>>
+湯, 湯船, 内湯
+top3 entities near to cluster40>>
+湯屋, 湯, 温泉

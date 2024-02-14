@@ -1,0 +1,39 @@
+--------------------similar_words:好古園--------------------
+top3 entities near to cluster0>>
+庭園, 庭, 屋敷
+top3 entities near to cluster1>>
+入場券, 入園券, 入場, 入園
+top3 entities near to cluster3>>
+紅葉, 景色, 風景
+top3 entities near to cluster4>>
+時間, 食事, 夕食
+top3 entities near to cluster5>>
+散策, 散歩, 庭園
+top3 entities near to cluster6>>
+見学, 視察, 見物
+top3 entities near to cluster7>>
+撮影, ロケ, 写真
+top3 entities near to cluster11>>
+自信, 機会, 余裕
+top3 entities near to cluster12>>
+期待, 満足, 予想
+top3 entities near to cluster14>>
+気分, 表情, 状態
+top3 entities near to cluster15>>
+飽き
+top3 entities near to cluster17>>
+外国人, 時代, 外国
+top3 entities near to cluster18>>
+雰囲気, 気持ち, 見応え
+top3 entities near to cluster19>>
+ランチ, ホテル, レストラン
+top3 entities near to cluster22>>
+見どころ, イベント, 見所
+top3 entities near to cluster23>>
+もみじ, メジロ, モミジ
+top3 entities near to cluster25>>
+茶室, 茶会, 茶店
+top3 entities near to cluster26>>
+秋, 春, 冬
+top3 entities near to cluster27>>
+城池, 鯉池, 城, 鯉

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸市立平磯海づり公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+場所, 柵, 足場, 力, 流れ, 家族手, 不備, こと
+cluster1:(4)
+根, 潮, グレ, ウマ
+cluster2:(3)
+店員, 売店, 店内
+cluster3:(10)
+次回, 人, 魚, 大型, 大人, 晩秋, 最後, 家族, 隣, 子供
+cluster4:(10)
+おじさん, アクセス, 仕掛け, 初心者, 明石海峡, コッパグレ, トイレ, レンタル, アイス, ファミリーフィッシング
+cluster5:(2)
+釣り場, リール
+cluster6:(1)
+手ぶら
+cluster7:(1)
+交換
+cluster8:(1)
+良型
+cluster9:(1)
+肌寒さ
+cluster10:(12)
+レンタル釣竿, フカセ釣, レンタル釣竿x2, 仕掛け付きレンタル釣竿, 釣り方, 自動販売機, 釣り, 海釣り公園, 親子釣り, 海釣り, 竿, 駐車場
+
+howmany entities : 53
+howmany clusters : 11
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 6
+deleted 6entities.

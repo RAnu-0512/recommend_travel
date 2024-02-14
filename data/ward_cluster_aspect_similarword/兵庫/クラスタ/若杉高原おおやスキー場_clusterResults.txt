@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若杉高原おおやスキー場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スキー場, 駐車場
+cluster1:(8)
+食堂, 係員, 迷子, 子ども, 家族, 子どもたち, 子供, 温泉
+cluster2:(2)
+リフト, シングルリフト
+cluster3:(4)
+ゲレンデ, スキー, スノボー, 急斜面
+cluster4:(2)
+インストラクター, スクール
+cluster5:(2)
+ところ, あちこち
+cluster6:(1)
+初心者
+cluster7:(1)
+ゲレンデマップ
+cluster8:(1)
+方
+cluster9:(1)
+唯一
+cluster10:(1)
+価格
+cluster11:(1)
+斜面
+cluster12:(1)
+ペアリフト
+cluster13:(2)
+雪質, 上級者
+
+howmany entities : 29
+howmany clusters : 14
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 17entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジェム占いの街>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+占い, 場所, 女の子, 部屋, 人, 人気, 街, 多く, 異質, 予約, 占い師, 方, 評判, 中, 昔, 招き猫, こと, モザイク, 存在
+cluster1:(6)
+本店, ロゴ, 支店, 店頭, 看板, 店
+cluster2:(8)
+神戸, 神戸国際会館, 黄金の仮面, 元町商店街, 商店街, 元町駅, ジェム占いの街, 元町
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 3
+deleted 0entities.

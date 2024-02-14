@@ -1,0 +1,53 @@
+--------------------similar_words:金の湯--------------------
+top3 entities near to cluster0>>
+ぬるむ, すべすべ, ツルツル
+top3 entities near to cluster2>>
+サウナ, 朝風呂, 日帰り
+top3 entities near to cluster3>>
+トイレ, タオル, ゴミ箱
+top3 entities near to cluster4>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster6>>
+湯上がり, 湯あがり, 湯上り
+top3 entities near to cluster11>>
+シャンプー, 露天風呂, ドライヤー
+top3 entities near to cluster12>>
+待ち時間, スタッフ, アクセス
+top3 entities near to cluster15>>
+茶色, 金色, 茶褐色
+top3 entities near to cluster16>>
+髪, 髪の毛, 毛
+top3 entities near to cluster17>>
+身体, 芯
+top3 entities near to cluster18>>
+ソープ, ボディー, ボディ
+top3 entities near to cluster19>>
+温度, 効能, 値段
+top3 entities near to cluster21>>
+時間外, 休憩, 時間
+top3 entities near to cluster22>>
+年配, 人達
+top3 entities near to cluster23>>
+行楽, 連休, 休日
+top3 entities near to cluster35>>
+太閤, 大名, 秀吉
+top3 entities near to cluster36>>
+茶色, 黄色, 緑色
+top3 entities near to cluster37>>
+清潔感, 清潔
+top3 entities near to cluster38>>
+風呂, 湯船, 温泉
+top3 entities near to cluster42>>
+浴場, 公衆, 露天風呂
+top3 entities near to cluster43>>
+温泉地, 温泉, 旅館
+top3 entities near to cluster45>>
+温泉, 温泉郷, 旅館
+top3 entities near to cluster46>>
+入浴, 温泉, 入湯
+top3 entities near to cluster50>>
+湯, 金, 土
+top3 entities near to cluster51>>
+泉, 湯, 吐玉
+top3 entities near to cluster52>>
+湯, 泉, 温泉

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西神>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+警察署, 郵便局, 一般居住区域, 住宅地, 飲食店, 宿泊施設, 商業施設, 住宅, 観光客, 住宅街, 駐車場
+cluster1:(6)
+車, 電車, 病院, 施設, 公園, 銀行
+cluster2:(2)
+百貨店, そごう
+cluster3:(7)
+買い物, スーパー, スポット, デパート, ショッピングモール, グリコピア, プレンティ
+cluster4:(2)
+西神中央, 工業団地
+cluster5:(7)
+街並み, 始発駅, 人通り, 地下鉄, 図書館, オリエンタルホテル, 区役所
+cluster6:(12)
+場所, 界隈, 友達, もの, 自然, 街, 前, 中, 子供, 大抵, 中心, 近く
+cluster7:(2)
+治安, 本庁
+cluster8:(10)
+終点駅, 終点, 西区, 神戸市営, 改札, 中央駅, 三宮, 西神, 駅, 西神中央駅
+
+howmany entities : 59
+howmany clusters : 9
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 6
+deleted 6entities.

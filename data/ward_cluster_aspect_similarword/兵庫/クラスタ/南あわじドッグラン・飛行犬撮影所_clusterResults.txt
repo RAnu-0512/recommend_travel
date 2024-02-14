@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南あわじドッグラン・飛行犬撮影所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+空き, 希望時間, 予約, 時間
+cluster1:(22)
+対角線上, カメラマン, 全体, コーギー, カレンダーコース, トライ, クチコミ, フォトフレーム, 笑, 撮影, 笑顔, データ, 絶景, おかげ, 正面, cookie, 方, プロ, ブログ, こと, トリミング, 写真
+cluster2:(3)
+犬, 飛行犬, 愛犬
+cluster3:(2)
+冬晴れ, 暖冬
+cluster4:(2)
+撮影日和, 写真集
+cluster5:(1)
+躍動感
+cluster6:(1)
+天気予報
+
+howmany entities : 35
+howmany clusters : 7
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 6entities.

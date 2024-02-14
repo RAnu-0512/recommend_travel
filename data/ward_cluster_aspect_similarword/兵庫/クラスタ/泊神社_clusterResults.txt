@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:泊神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国懸・日前神宮, 国懸大神
+cluster1:(18)
+三種, 神代, 神社, 浜辺, 地, 祭神, スクナヒコ, 八咫鏡, 鏡, 宮本武蔵, 伊勢神宮, アマテラス, 神器, 創建, 神, 初詣, こと, 海
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 1
+deleted 2entities.

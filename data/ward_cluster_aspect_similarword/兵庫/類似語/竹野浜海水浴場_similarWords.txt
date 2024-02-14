@@ -1,0 +1,23 @@
+--------------------similar_words:竹野浜海水浴場--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+ビーチ, 海水浴, スキー
+top3 entities near to cluster2>>
+子ども, 子供, ビーチ
+top3 entities near to cluster3>>
+設備, 施設, 水質
+top3 entities near to cluster4>>
+混雑, 穴場, 人出
+top3 entities near to cluster5>>
+梅雨, 特有, 季節
+top3 entities near to cluster7>>
+子供, 子ども, 若者
+top3 entities near to cluster9>>
+近辺, ほど近い
+top3 entities near to cluster12>>
+砂浜, 海, 海岸
+top3 entities near to cluster13>>
+旅館, 温泉, 宿
+top3 entities near to cluster14>>
+海岸, 浜, 浜辺

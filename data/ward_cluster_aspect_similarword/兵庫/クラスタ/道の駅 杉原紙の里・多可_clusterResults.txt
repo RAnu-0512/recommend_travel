@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 杉原紙の里・多可>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, 駅スタンプラリー
+cluster1:(2)
+水浴び, トイレ
+cluster2:(1)
+近く
+cluster3:(1)
+車
+cluster4:(1)
+川
+cluster5:(1)
+子どもたち
+cluster6:(1)
+和紙
+cluster7:(1)
+おいでな青垣
+cluster8:(1)
+兵庫県道
+
+howmany entities : 11
+howmany clusters : 9
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 11entities.

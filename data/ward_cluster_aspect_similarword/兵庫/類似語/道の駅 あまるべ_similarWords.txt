@@ -1,0 +1,31 @@
+--------------------similar_words:道の駅 あまるべ--------------------
+top3 entities near to cluster1>>
+産直, 野菜
+top3 entities near to cluster2>>
+カニ, エビ, アジ
+top3 entities near to cluster3>>
+湯気, お腹
+top3 entities near to cluster4>>
+蕎麦, そば, うどん
+top3 entities near to cluster5>>
+飲食店, 店員, 飲食
+top3 entities near to cluster6>>
+土産, 煎餅, せんべい
+top3 entities near to cluster7>>
+野菜, 果物, 食材
+top3 entities near to cluster8>>
+パン屋, 土産屋, パン, 土産
+top3 entities near to cluster9>>
+抽選券, 抽選, くじ引き
+top3 entities near to cluster12>>
+歴史, 沿革, 年表
+top3 entities near to cluster19>>
+食事, 昼食, 軽食
+top3 entities near to cluster22>>
+列車, 駅, 鉄道
+top3 entities near to cluster23>>
+鉄道, 道路, 列車
+top3 entities near to cluster26>>
+鉄橋, 橋梁, 線路
+top3 entities near to cluster27>>
+橋梁, 橋脚

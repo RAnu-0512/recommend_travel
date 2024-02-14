@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:うずしお温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+洲本温泉とうずしお温泉, うずしお温泉, うずしお
+cluster1:(6)
+松竹館, 有馬温泉, 松原荘, 泉質, 伊香保温泉, 温泉
+cluster2:(2)
+感染予防, 新型コロナウイルス
+cluster3:(6)
+風呂, マスク着用, 検温, 入浴, お湯, 消毒
+cluster4:(17)
+渦潮, あちこち, 緑, 鳴門海峡, 気持ち, 慶, 種類, スベスベ, 施設, とろみ, 女性, 肌, 淡路島, 館内, こと, 海, 魚介類
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 2entities.

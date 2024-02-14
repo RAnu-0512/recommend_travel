@@ -1,0 +1,7 @@
+--------------------similar_words:新井神社--------------------
+top3 entities near to cluster0>>
+城, 谷, 森
+top3 entities near to cluster1>>
+伝承, 名物, 歴史
+top3 entities near to cluster2>>
+本殿, 拝殿, 神社

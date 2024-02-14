@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:慶野松原キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+キャンプ場, 海水浴場, オートキャンプ場
+cluster1:(6)
+家族, 居心地, 緑, 夕日, 夏休み, キャンプ
+cluster2:(1)
+慶野松原キャンプ場
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日和山温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風呂, 部屋
+cluster1:(4)
+値段, おすすめ, 露天風呂, 日帰り
+cluster2:(1)
+観光
+cluster3:(1)
+宿泊施設
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

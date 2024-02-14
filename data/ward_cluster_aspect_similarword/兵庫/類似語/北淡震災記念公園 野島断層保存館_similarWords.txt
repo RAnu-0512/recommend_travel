@@ -1,0 +1,19 @@
+--------------------similar_words:北淡震災記念公園 野島断層保存館--------------------
+top3 entities near to cluster0>>
+館, 資料, 物産
+top3 entities near to cluster3>>
+施設, 体験, 設備
+top3 entities near to cluster5>>
+家屋, 樹木, 地面
+top3 entities near to cluster6>>
+早足, 愛想, 閑散
+top3 entities near to cluster7>>
+展示, 見学, 映像
+top3 entities near to cluster8>>
+勉強, 活動, 質問
+top3 entities near to cluster11>>
+揺れ, 恐怖, 怖
+top3 entities near to cluster13>>
+断層, 衝上, 褶曲
+top3 entities near to cluster15>>
+地震, 本震, 前震

@@ -1,0 +1,23 @@
+--------------------similar_words:美湯・松帆の郷--------------------
+top3 entities near to cluster0>>
+温泉, 風呂, 入浴
+top3 entities near to cluster1>>
+時間, 所要
+top3 entities near to cluster3>>
+水風呂, サウナ, 内風呂
+top3 entities near to cluster5>>
+バス停, ホテル, 入り口
+top3 entities near to cluster6>>
+露天風呂, シャワー, シャンプー
+top3 entities near to cluster7>>
+価値, だけ
+top3 entities near to cluster8>>
+夕方, 夜, 昼間
+top3 entities near to cluster9>>
+母, 娘, 主人
+top3 entities near to cluster10>>
+地元, 人気, 近隣
+top3 entities near to cluster13>>
+土産, 旅
+top3 entities near to cluster14>>
+景色, 駅, 夜景

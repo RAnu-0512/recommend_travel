@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:インターネットカフェ アットワン JR三宮店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アクセス, サービス
+cluster1:(1)
+ドリンク
+cluster2:(1)
+クーポン
+cluster3:(1)
+シャワー
+cluster4:(1)
+インターネットカフェ
+cluster5:(1)
+販売
+cluster6:(1)
+星
+cluster7:(1)
+充実
+cluster8:(1)
+頻度
+cluster9:(1)
+ネット予約
+cluster10:(1)
+多さ
+
+howmany entities : 12
+howmany clusters : 11
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 12entities.

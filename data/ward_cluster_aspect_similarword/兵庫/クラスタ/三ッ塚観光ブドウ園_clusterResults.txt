@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三ッ塚観光ブドウ園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+星1, 皮, 今田, 粒, 氷
+cluster1:(7)
+事, もの, こと, さ, 物, 気, 時期
+cluster2:(11)
+人, 大人, 子ども, 年長, 家族, 子供, 全員, 方々, 方, 小学生, 声
+cluster3:(2)
+持ち込み, 持ち帰り
+cluster4:(2)
+マスカット, スーパー
+cluster5:(3)
+グループ, スタート, スタッフ
+cluster6:(2)
+スピーカー, カラオケ
+cluster7:(1)
+ストレス
+cluster8:(1)
+コース
+cluster9:(1)
+ぶどう
+cluster10:(1)
+口コミ
+cluster11:(1)
+レジャーシート
+cluster12:(1)
+ベリーA
+cluster13:(10)
+写真, 大量, 肝心, 説明, 都合, 元, 他, 付近, 水, 最後
+cluster14:(14)
+値段, 宴会, カラオケ大会, 貸切状態, 温泉, 料金, 猛暑, 爆音, 気候, 予約, 販売所, 道, 土産, 受付
+cluster15:(17)
+葡萄, ぶどう達, 藤稔, 農園, 外国人グループ, 子供達, ゴミ☆ぶどう, ぶどう園, ぶどう狩り, ベリーAが食べ放題, 子供たち, 虫取り, 外国人大学生, 外国, 家族連れ, 外国語, ぶどうがり
+cluster16:(1)
+丹波篠山城
+
+howmany entities : 80
+howmany clusters : 17
+howmany entities (more than3entities) : 67
+howmany clusters (more than3entities) : 7
+deleted 13entities.

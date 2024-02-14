@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ザ・サイプレスゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴルフクラブ, ゴルフ場
+cluster1:(8)
+ホテル, フロント, レストラン, ロッジ, スタッフ, 景色, 対応, サイプレス
+cluster2:(1)
+別荘感覚
+cluster3:(1)
+四季折々
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

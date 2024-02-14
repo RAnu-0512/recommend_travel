@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有馬忍者道場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+感じ, 人, 口コミ, 終了, 有馬, 土産, スペース, おすすめ, こと, 他, パニック, 菓子, 写真
+cluster1:(2)
+忍者体験, 体験
+cluster2:(3)
+大人, 子供, 子供達
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 2entities.

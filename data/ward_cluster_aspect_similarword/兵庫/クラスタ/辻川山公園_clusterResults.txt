@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:辻川山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+公園, 世, スポット, カッパ, 中, 途中, 日本, 仕掛け, 池, 姫路, 海側, 妖怪, 天狗, ガジロウ, ぼくら
+cluster1:(3)
+兵庫県, 福崎町, 城崎温泉
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

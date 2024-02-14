@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阪神 神戸三宮駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+買い物, 地上, 場所, 途中, バス停, 夏, 鉄道物語, 港, 神社, 運賃, 三ノ宮駅, 破格, 地下街, 電車, バス, 改札, 都会, 地下, 改札口, JR, 地下鉄, 駅, 旅行, グッドタイミング, 特急, 中, 三ノ宮, 乗り換え
+cluster1:(10)
+神戸, 奈良, 大阪, 大阪梅田, スーパー白兎1, 阪急, 姫島, 梅田, 尼崎, 兵庫県
+cluster2:(4)
+快速or普通, 阪神線, 山陽電鉄, 阪神電車
+cluster3:(4)
+神戸地下鉄三宮, 三宮駅, 篠山口駅, 三宮方面
+
+howmany entities : 46
+howmany clusters : 4
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 4
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸有馬温泉 元湯龍泉閣 〜赤ちゃんも楽しめるお部屋食の宿〜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+キッズスペース, プール, 子供連れ, 子供, 離乳食, 気持ち, 料理
+cluster1:(8)
+お湯加減, 貸切風呂, 温泉施設, 風呂, 宿, 有馬温泉, 部屋食, 温泉
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

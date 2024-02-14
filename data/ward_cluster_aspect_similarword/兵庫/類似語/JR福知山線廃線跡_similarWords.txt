@@ -1,0 +1,17 @@
+--------------------similar_words:JR福知山線廃線跡--------------------
+top3 entities near to cluster0>>
+バス車, 電車, バス
+top3 entities near to cluster1>>
+場合, 必要, ため
+top3 entities near to cluster5>>
+入口付近, 入り口付近, 入り口, 入口
+top3 entities near to cluster7>>
+撤退, 収容, 装備
+top3 entities near to cluster8>>
+遊歩道, ハイキング, 家族
+top3 entities near to cluster9>>
+予約, 入浴, 同伴
+top3 entities near to cluster10>>
+交通量, 交通費, 交通
+top3 entities near to cluster11>>
+駅, 駅前, 南口

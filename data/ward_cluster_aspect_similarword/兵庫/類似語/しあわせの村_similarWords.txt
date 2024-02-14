@@ -1,0 +1,43 @@
+--------------------similar_words:しあわせの村--------------------
+top3 entities near to cluster0>>
+アトラクション, サイクリング, ランチ
+top3 entities near to cluster3>>
+バスケ, テニス, バレー
+top3 entities near to cluster5>>
+グリーン, ジム, 有料
+top3 entities near to cluster10>>
+景色, 気分, 眺め
+top3 entities near to cluster11>>
+使う
+top3 entities near to cluster12>>
+散歩, 散策, 筋力
+top3 entities near to cluster13>>
+家族, 食事, 子供
+top3 entities near to cluster15>>
+夏風, 夏, 気候
+top3 entities near to cluster16>>
+部屋, 和室
+top3 entities near to cluster24>>
+接客, 清潔, 館内
+top3 entities near to cluster29>>
+施設, 温浴, 温泉
+top3 entities near to cluster30>>
+宿泊, 施設, 保養
+top3 entities near to cluster33>>
+施設, 設備, 宿泊
+top3 entities near to cluster34>>
+芝生, 広場, 公園
+top3 entities near to cluster36>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster37>>
+バス, 送迎, タクシー
+top3 entities near to cluster38>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster39>>
+照明, 電球, 充電
+top3 entities near to cluster40>>
+卓球台, 卓球, ビリヤード台, ビリヤード
+top3 entities near to cluster42>>
+運動, 広場, 施設
+top3 entities near to cluster43>>
+屋内, 屋外, 室内

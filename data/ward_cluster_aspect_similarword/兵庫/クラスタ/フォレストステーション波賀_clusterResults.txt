@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フォレストステーション波賀>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+場所, 敷地, 区画, ちびっこ広場
+cluster1:(2)
+坂, 小川
+cluster2:(12)
+ところ, 振る舞い, おじさん, 実体験, 塩焼き, 大人, 森林浴, 息子, 子ども, 水遊び, おじ, プラン
+cluster3:(4)
+アマゴつかみ, 魚, アマゴ, 温泉
+cluster4:(5)
+感触, 会話, 自然, 恵み, 体験
+cluster5:(1)
+焼き網
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 3entities.

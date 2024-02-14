@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野添であい公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+緑道, 広場, 芝生広場, 噴水, 遊具, 道, 公園, 北公園
+cluster1:(3)
+器材, バーベキュー施設, 設備
+cluster2:(5)
+休日, 子, 人, 家族, 子供
+cluster3:(7)
+途中, バーベキュー, 入口, パークセンター, 水, スペース, オススメ
+cluster4:(1)
+弁当
+cluster5:(1)
+子供連れ
+cluster6:(1)
+健康志向
+cluster7:(1)
+足つぼロード
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 4entities.

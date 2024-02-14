@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ほっともっとフィールド神戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+花火, 野球観戦, 花火大会, 野球場
+cluster1:(9)
+オリックス, 夏, 緑, フィールドスタジアム, ナイター, 天気, 楽しみ, 開催, チーム
+cluster2:(4)
+芝生, 照明, 試合, 球場
+cluster3:(1)
+夜風
+cluster4:(1)
+天然芝
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 2entities.

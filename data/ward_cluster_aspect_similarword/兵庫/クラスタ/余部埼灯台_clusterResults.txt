@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:余部埼灯台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+き気, つくまで
+cluster1:(15)
+注意, 感じ, ところ, 道のり, 外, 方向, 距離, 位置, カーブ, 想像, 日本, ひとつ, 方法, 自信, 必要
+cluster2:(14)
+海岸線, 登り, 西日本旅客鉄道山陰, 運転, 景色, 本線, 道路, 改札, 灯台, 登坂, 駅, 道, 徒歩, 観光客
+cluster3:(3)
+餘部駅, 余部埼灯台, 余部埼
+
+howmany entities : 34
+howmany clusters : 4
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北野外国人倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+外国人, 北野外国人倶楽部, 神戸北野, 新神戸駅
+cluster1:(3)
+異人館街, 神戸北野異人館街, 異人館
+cluster2:(2)
+社交界, 社交場
+cluster3:(4)
+集合写真, 撮影, 記念撮影, 写真
+cluster4:(2)
+試着&撮影, 試着
+cluster5:(21)
+北東エリア, 庭, 人気, 西側, チャペル, 衣装, 家具, アンティーク, 建物, ドレス, 方々, 居留者, 女性グループ, 方, 中, 女性, 開港, 男性, 暖炉, 館内, ジャケット
+cluster6:(1)
+家具調度品類
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 5entities.

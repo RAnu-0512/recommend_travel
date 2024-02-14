@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:辰馬考古資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+酒, 銅製, 展示, 考古学, 財, 勉強, 元手, コレクション
+cluster1:(2)
+銅鐸, 分銅
+cluster2:(4)
+資料館, 中心資料, 考古資料, 出土品
+cluster3:(1)
+辰馬考古資料館
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 3entities.

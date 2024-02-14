@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天然かさがた温泉せせらぎの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ふところ館, みはらし館
+cluster1:(4)
+空気, ゴミ, 垢, 消毒
+cluster2:(6)
+人, 大人, 女性, 家族, 男性, 子供
+cluster3:(5)
+電話, 施設, 投稿, 受付, 館内
+cluster4:(3)
+気持ち, におい, 雰囲気
+cluster5:(2)
+サウナ, ロッジ
+cluster6:(10)
+露天風呂, リニューアル, ふところ, はんせ, イベント, クチコミ, ソフトクリーム, 入り口, オススメ, みはらし
+cluster7:(1)
+オムツ
+cluster8:(9)
+感じ, 場所, 周囲, 山, 周り, 方, 事, 気, 近く
+cluster9:(10)
+ぬる湯, 風呂, 露天, 足湯, 天然岩風呂, お湯質, お湯, 湯, 再入浴, 温泉
+cluster10:(2)
+産直販売・博物館, 特産品
+cluster11:(6)
+食事, 休憩所, 食事処, お茶処はんせ, 足湯喫茶, 駐車場
+cluster12:(2)
+清潔感, かさがた温泉
+
+howmany entities : 62
+howmany clusters : 13
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 8
+deleted 9entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:薬師院のぼたん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+空気, 友人, 予想
+cluster1:(3)
+寺, 牡丹, 花好き
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路文学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+南館, 北館
+cluster1:(3)
+敷居, 興味, 価値
+cluster2:(3)
+もの, 時期, こと
+cluster3:(2)
+場所, 近く
+cluster4:(6)
+作品, 人, 方々, 方, 中, 娘
+cluster5:(2)
+資料, 歴史
+cluster6:(2)
+言葉, 物語
+cluster7:(1)
+所縁
+cluster8:(1)
+良さ
+cluster9:(19)
+観光, 和室, 外国, 姫路城, 播磨, つつじ, カフェ, イベント, 自転車, 足, ゆかり, 大正, デザイン, 大人, コンクリート, 図書館, 喫茶店, モニター, 子供
+cluster10:(4)
+訪問, 散策, 勉強, 見学
+cluster11:(4)
+家屋, 設計, 建物, 建築
+cluster12:(2)
+庭園, 回廊
+cluster13:(2)
+桜, 城
+cluster14:(1)
+眺望
+cluster15:(8)
+休憩, カフェ水屋珈琲, 休憩所, 記念室, 常設展示室, 展示, 展示会場, 駐車場
+cluster16:(14)
+安藤忠雄, 文学館, 姫路観光, 望景亭, 文学館訪問, 阿部知二ら播磨地方, 文学者, 椎名麟三, 和辻哲郎, 姫路市, 姫路駅, 姫路文学館, 文学, 司馬遼太郎
+
+howmany entities : 76
+howmany clusters : 17
+howmany entities (more than3entities) : 61
+howmany clusters (more than3entities) : 8
+deleted 15entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尼崎市立歴史博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+注意, 東
+cluster1:(2)
+学校, 校舎
+cluster2:(2)
+遺跡, 歴史
+cluster3:(1)
+お勧めスポット
+cluster4:(1)
+文化財収納庫
+cluster5:(7)
+阪尼南エリア, 尼崎市立女子高等学校, 古代尼崎, 尼崎市, 尼崎城, 尼崎警察署, 尼信会館
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 8entities.

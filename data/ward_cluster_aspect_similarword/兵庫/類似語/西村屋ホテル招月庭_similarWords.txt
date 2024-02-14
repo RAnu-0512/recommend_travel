@@ -1,0 +1,27 @@
+--------------------similar_words:西村屋ホテル招月庭--------------------
+top3 entities near to cluster0>>
+温泉, 旅館, 宿
+top3 entities near to cluster1>>
+サウナ, ホテル, プール
+top3 entities near to cluster3>>
+雰囲気, 気持ち, 見た目
+top3 entities near to cluster4>>
+味付け, 天ぷら, 食べ物
+top3 entities near to cluster5>>
+露天風呂, ジャグジー, ジャグジーバス
+top3 entities near to cluster7>>
+レストラン, カウンター, ラウンジ
+top3 entities near to cluster14>>
+子供, 母親, 息子
+top3 entities near to cluster15>>
+料理, 旅, 土産
+top3 entities near to cluster16>>
+時間, 混雑, 予約
+top3 entities near to cluster17>>
+店員, 店内
+top3 entities near to cluster19>>
+洋風, 設え, 空間
+top3 entities near to cluster20>>
+ランチ, 食事, ディナー
+top3 entities near to cluster21>>
+満足感, 満足, 効果

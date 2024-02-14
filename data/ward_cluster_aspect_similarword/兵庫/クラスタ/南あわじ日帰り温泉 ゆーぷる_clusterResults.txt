@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南あわじ日帰り温泉 ゆーぷる>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+女湯, 男湯
+cluster1:(2)
+森, 木
+cluster2:(3)
+別, 中, 夕方
+cluster3:(9)
+タオル, スタッフ, ボディーソープ, 滑り台, ドライヤー, レジャー, ロッカー, 着替え, 体育館
+cluster4:(3)
+町, 建物, 夫婦
+cluster5:(1)
+備品
+cluster6:(3)
+勤勉, 方たち, 方
+cluster7:(6)
+案内板, 風呂, 風呂上がり, 日帰り旅行, 食事処, 仕事帰り
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 5entities.

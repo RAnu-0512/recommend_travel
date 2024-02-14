@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お夏清十郎比翼塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スポット, 比翼塚
+cluster1:(1)
+臨済宗
+cluster2:(1)
+作品
+cluster3:(1)
+妙心寺派
+cluster4:(1)
+野里
+cluster5:(1)
+近松門左衛門
+cluster6:(1)
+左奥
+cluster7:(1)
+供養塔
+cluster8:(1)
+清十郎
+cluster9:(1)
+井原西鶴
+
+howmany entities : 11
+howmany clusters : 10
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 11entities.

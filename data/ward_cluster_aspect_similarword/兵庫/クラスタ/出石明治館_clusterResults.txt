@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出石明治館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作り, 展示
+cluster1:(6)
+趣味, もの, 人気, 見ごたえ, 時代, 目的
+cluster2:(3)
+明治, 全国, 各地
+cluster3:(1)
+出石
+cluster4:(6)
+洋館, 記念館, 建物, 外観, 建築, 建造物
+cluster5:(1)
+疑洋
+cluster6:(1)
+観光客
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 5entities.

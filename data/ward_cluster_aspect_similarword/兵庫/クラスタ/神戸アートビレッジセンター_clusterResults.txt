@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸アートビレッジセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パイプ椅子, 椅子
+cluster1:(5)
+場所, 手, 人, 場合, 前
+cluster2:(3)
+紹介, 情報, 展示
+cluster3:(3)
+地域, 地元, 祭り
+cluster4:(10)
+映画館, 映画, スルー, 新開地, イベント, アートフェスティバル, イタリア, パンフレット, フリーペーパー, 雰囲気
+cluster5:(1)
+神戸アートビレッジセンター
+cluster6:(1)
+情報紙
+cluster7:(4)
+開地, 上映時間, 商店街, ミニシアター系
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 4entities.

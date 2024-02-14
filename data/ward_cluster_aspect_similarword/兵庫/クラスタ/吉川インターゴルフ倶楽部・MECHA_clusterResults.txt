@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉川インターゴルフ倶楽部・MECHA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴルフコース, ゴルフ
+cluster1:(4)
+ハーフ, コース, 遊び場, セルフサービス
+cluster2:(1)
+子供
+cluster3:(1)
+気楽
+cluster4:(1)
+ゴルフ場
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

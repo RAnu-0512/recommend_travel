@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十輪寺(兵庫県高砂市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+境内, 寺, 本堂, 創建, 古刹
+cluster1:(3)
+空海, 唐, 仏画
+cluster2:(1)
+存在感
+cluster3:(1)
+絹本着色五仏尊像@重文
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

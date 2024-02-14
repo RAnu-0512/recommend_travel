@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西宮砲台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+大砲, 大砲方, 警備, 昔戦争, ウォーキング, 自己評価, もの, 砲台, 人, 建物, 来航, 公園, 趣き, 露使プチャーチン, 雰囲気, 週末ウォーキング, コース, 大きさ, こと, 来訪者
+cluster1:(5)
+尼崎藩, 夙川, 浜, 西宮, 臨港線
+cluster2:(2)
+安政元年, 勝海舟
+cluster3:(2)
+香櫨園, 日本城郭大系12
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 4entities.

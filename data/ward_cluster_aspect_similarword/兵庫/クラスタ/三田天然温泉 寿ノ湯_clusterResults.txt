@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三田天然温泉 寿ノ湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+中段, 上段, 下段
+cluster1:(9)
+所, 予約ページ, 作業, フード内容, 内容, 施設, 使用ボタン, 別料金, 美味しさ
+cluster2:(2)
+リボン, ポテト
+cluster3:(10)
+ボリューム, スタッフ, アウトレット, スポット, レストラン, アフォガード, パンナコッタ, ハンバーガー, フルーツ, クッキー
+cluster4:(2)
+露天風呂, テレビ
+cluster5:(5)
+気持ち, ページ, セット, ライブラリースペース, プラン
+cluster6:(3)
+サウナ, 炭酸泉, 水風呂
+cluster7:(2)
+次回, 泣
+cluster8:(3)
+帰り, 方, 先
+cluster9:(3)
+外, 自由, 屋外
+cluster10:(10)
+アフタヌーンティー, スイーツ焼き, 食事, 客, 紅茶, 漫画, 皿, 料理, 小袋クッキー, 子供
+cluster11:(7)
+出口, 風呂, 入口, 埃, 付近, 小屋サウナ, 温泉
+cluster12:(1)
+得感
+cluster13:(5)
+岩盤浴, 入店, 菓子系, 飲食店, じゃらん予約ページ
+
+howmany entities : 65
+howmany clusters : 14
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 10
+deleted 7entities.

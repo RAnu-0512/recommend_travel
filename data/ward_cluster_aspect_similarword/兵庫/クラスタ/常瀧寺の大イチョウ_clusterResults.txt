@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常瀧寺の大イチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+鞭打ち, 母乳, 夏, 鳥肌, 巨木, 景色, 炎天下, 大銀杏, 落ち葉達, 知り合い, 笑, 次, きっかけ, イチョウ, 途端, 事, 体, 木, 他, 素晴らしさ, 落ち葉, 風情
+cluster1:(3)
+運動不足, 登山道, 登山
+cluster2:(1)
+乳の木さん
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 1entities.

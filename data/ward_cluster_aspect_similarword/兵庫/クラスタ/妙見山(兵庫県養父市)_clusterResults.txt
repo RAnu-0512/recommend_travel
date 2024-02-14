@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妙見山(兵庫県養父市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+トロッコ列車, 電車
+cluster1:(12)
+BQQ, BBQ, 気持ち, バーベキュー, ゴルフ, ハイキングコース, 富士山, 乗り物, ケーブルカー, ハイキング, 子供, ロープウェイ
+cluster2:(3)
+場所, 次, こと
+cluster3:(2)
+自然, 色
+cluster4:(3)
+山, 妙見山, 頂上
+cluster5:(2)
+景色, 紅葉
+cluster6:(1)
+富士
+cluster7:(3)
+キャンプ場, BBQ場, 駐車場
+cluster8:(3)
+登山道, 登山, 登山初心者
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 7entities.

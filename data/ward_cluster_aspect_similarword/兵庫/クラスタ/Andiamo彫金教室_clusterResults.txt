@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Andiamo彫金教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体験, シルバーアクセサリー体験
+cluster1:(3)
+工具, 真鍮, 指輪
+cluster2:(12)
+歪, 教室, アトリエ, 時間, リング, 作品, 工房, 友達, 先生, クオリティ, 家, 味わい
+cluster3:(1)
+箸おき
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 3entities.

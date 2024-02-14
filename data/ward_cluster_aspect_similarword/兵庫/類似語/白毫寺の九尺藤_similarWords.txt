@@ -1,0 +1,19 @@
+--------------------similar_words:白毫寺の九尺藤--------------------
+top3 entities near to cluster0>>
+駐車, 渋滞, バス
+top3 entities near to cluster1>>
+藤, 藤棚, 花房
+top3 entities near to cluster3>>
+昼間, 夜間, 夕方
+top3 entities near to cluster7>>
+見頃, 開花, 満開
+top3 entities near to cluster8>>
+寺, 戒長, 専徳
+top3 entities near to cluster9>>
+国道, 県道
+top3 entities near to cluster10>>
+庭, 民家, お家
+top3 entities near to cluster14>>
+階段, 坂, 棚
+top3 entities near to cluster15>>
+紫色, 紫, 黄色

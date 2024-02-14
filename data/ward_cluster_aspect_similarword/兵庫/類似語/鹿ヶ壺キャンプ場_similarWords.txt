@@ -1,0 +1,9 @@
+--------------------similar_words:鹿ヶ壺キャンプ場--------------------
+top3 entities near to cluster0>>
+川, 浅瀬, 壷
+top3 entities near to cluster1>>
+コンロ, 冷蔵庫, オーブン
+top3 entities near to cluster2>>
+幼児, 宿泊, 大人
+top3 entities near to cluster3>>
+冷蔵庫, 料理, 冷蔵

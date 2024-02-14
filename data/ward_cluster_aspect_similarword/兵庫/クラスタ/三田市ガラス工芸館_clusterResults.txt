@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三田市ガラス工芸館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ガラス玉ワーク, とんぼ玉, ガラス玉
+cluster1:(3)
+作り, 風鈴作り, 作品作り
+cluster2:(13)
+ガラスコース, スタッフ, 季節, コップ, コロナ, 色, 身体, ガラス, 丸, グラス, 子ども, 雨, カラー
+cluster3:(3)
+方向, 形, こと
+cluster4:(5)
+友達, 人, 方々, 方, 他
+cluster5:(2)
+家, 先生
+cluster6:(2)
+車, 次
+cluster7:(5)
+作品, 製作, 写真, 笑い, 実演
+cluster8:(4)
+ガラス体験, 送迎, 発送, 体験
+cluster9:(1)
+駐車場
+cluster10:(1)
+ブラスト体験
+
+howmany entities : 42
+howmany clusters : 11
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 7
+deleted 6entities.

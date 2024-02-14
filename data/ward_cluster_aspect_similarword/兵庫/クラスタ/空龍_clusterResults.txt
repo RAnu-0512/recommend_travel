@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:空龍>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ブルースリー, ブルースリー像, ブルースリーグッズ, ブルース・リー
+cluster1:(3)
+店頭, 店内, 店
+cluster2:(8)
+映画, 黄色, 相手, テレビ, 中学生, ジャージ, レプリカ, 入り口
+cluster3:(1)
+大ブーム
+cluster4:(2)
+死亡遊戯, 空龍
+cluster5:(1)
+神戸南京町
+cluster6:(1)
+カンフー俳優ブルース・リー
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 5entities.

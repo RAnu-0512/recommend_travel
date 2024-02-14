@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:灘浜ガーデンバーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+プール, プールサイド, ジャグジー
+cluster1:(2)
+風呂, 温泉
+cluster2:(8)
+感触, 物, 人, 手, 方々, 受付, 対応, 足
+cluster3:(1)
+湿布
+cluster4:(1)
+監視員
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 4entities.

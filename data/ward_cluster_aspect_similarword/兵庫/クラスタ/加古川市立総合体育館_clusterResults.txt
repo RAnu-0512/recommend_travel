@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加古川市立総合体育館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+競技, 陸上競技場, 競技場
+cluster1:(23)
+総合体育館, 道具, テニス, 気持ち, トラック, バレーボール, 職員, 息, NBL, 対応, ランニングコース, ジム, 下手, 腹, 扱い方, 方, 陸上, プロ, 隣, 体育館, 試合, タメ口, 仕方
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 0entities.

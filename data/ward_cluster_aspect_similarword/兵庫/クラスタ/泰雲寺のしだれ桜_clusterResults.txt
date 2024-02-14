@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:泰雲寺のしだれ桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+桜, 竹筒, 枝, しだれ桜, 幹, 支柱
+cluster1:(15)
+場所, 姿, 募金, 人, 車, 見ごたえ, 想像, 枝垂れ桜, 看板, 見事, 出入り, 大きさ, 迫力, 道幅, 価値
+cluster2:(5)
+湯村温泉, 温泉旅行, 泰雲寺, 拝観料, 駐車場
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 0entities.

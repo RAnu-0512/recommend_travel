@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福海寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+兵庫駅, 兵庫区
+cluster1:(2)
+えびす祭り, 屋台
+cluster2:(3)
+人, えびす, 福海寺
+cluster3:(2)
+境内, 寺
+cluster4:(1)
+道路
+cluster5:(1)
+日本庭園
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 8entities.

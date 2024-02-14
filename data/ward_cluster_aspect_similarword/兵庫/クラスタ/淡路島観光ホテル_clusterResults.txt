@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路島観光ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+海釣り, 夜釣り, 船釣り, 釣り
+cluster1:(4)
+従業員, 風呂, 室内風呂, 駐車場
+cluster2:(2)
+釣り場, プライベート釣り場
+cluster3:(17)
+アナウンス, バイキング, ホテル, プラン, エリア, サービス, コーチ, ベテラン, クーポン, クーラーボックス, ネパール, スタッフ, ジェットバス, 仕掛け, リート, プール, パフォーマンス
+cluster4:(4)
+淡路島, 太刀魚, 釣り竿, ワカメ
+cluster5:(2)
+日帰り, 手ぶら
+cluster6:(1)
+ローストビーフ
+cluster7:(6)
+魚, 船, 岸, 同船, 餌, 氷
+cluster8:(18)
+人, 品数, 客室, 料理, 息子, 子ども, 小学, 子供連れ, 海外, 子供, 館内, 味, 食事, 笑顔, 客, 女性, 母親, 露天
+cluster9:(4)
+事, 問題, こと, 目的
+cluster10:(4)
+中, 次, 方, 時期
+cluster11:(1)
+意思
+cluster12:(3)
+チェックイン時間, 入室, 集合
+cluster13:(3)
+案内, 概要, 誘導
+cluster14:(2)
+動作, 処理
+cluster15:(4)
+利用人数, 利用者, 多さ, 人数
+
+howmany entities : 79
+howmany clusters : 16
+howmany entities (more than3entities) : 71
+howmany clusters (more than3entities) : 11
+deleted 8entities.

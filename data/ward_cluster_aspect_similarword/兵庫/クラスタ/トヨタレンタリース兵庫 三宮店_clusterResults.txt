@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタレンタリース兵庫 三宮店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ショールーム, ドライブ
+cluster1:(1)
+ホテル
+cluster2:(1)
+トヨタ
+cluster3:(1)
+手続き
+cluster4:(1)
+方
+cluster5:(1)
+対応
+cluster6:(1)
+目
+cluster7:(1)
+建物
+cluster8:(1)
+予約
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

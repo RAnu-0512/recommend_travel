@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立但馬ドーム(全但バス但馬ドーム)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+若者, バス, スポーツ団体, スポーツ施設, 遊具, 施設
+cluster1:(7)
+様相, もの, 比喩, あて, 形, こと, 迫力
+cluster2:(16)
+観戦, 写真, サッカー, 神鍋山, 前ドーム, イベント, サッカーグラウンド, 大仏殿, クルマ, スポーツ, 夏場, 応援, 子ども, フィールド, 近く, ドーム
+cluster3:(2)
+開閉式ドーム, 某スポーツ感観戦
+
+howmany entities : 31
+howmany clusters : 4
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 2entities.

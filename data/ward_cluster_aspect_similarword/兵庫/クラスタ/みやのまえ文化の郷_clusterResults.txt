@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みやのまえ文化の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+まえ文化, みやのまえ文化の郷
+cluster1:(3)
+改修工事, 休業期間, 休業
+cluster2:(2)
+伊丹市, 兵庫県
+cluster3:(2)
+みや, 郷
+cluster4:(2)
+町屋, 酒蔵
+cluster5:(1)
+岡田
+cluster6:(18)
+文化ゾーン, 文化財, 工芸センター, 空間, イベント, 民家, 遺構, 家, 見ごたえ, 造り酒屋, 長期, 建物, 博物館, 施設, 国, 美術館, 屋内, 住宅
+cluster7:(1)
+演奏会
+cluster8:(1)
+江戸時代
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 11entities.

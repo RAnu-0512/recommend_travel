@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山陰海岸ジオパークダイビングスクール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+場所, 提案, 影響, 方, 事
+cluster1:(11)
+ドチザメ, インストラクター, 笑, 次, 日常, おかげ, 子供, 仕事, 海, シュノーケル, プラン
+cluster2:(1)
+大将
+cluster3:(1)
+距離
+cluster4:(1)
+台風
+cluster5:(1)
+香住
+cluster6:(1)
+透明度
+cluster7:(1)
+なぁ観光客
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 6entities.

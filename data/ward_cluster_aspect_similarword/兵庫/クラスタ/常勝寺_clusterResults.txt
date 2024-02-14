@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常勝寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+薬師如来座像@重文, 千手観音立像@重文
+cluster1:(3)
+登り階段, 階段脇, 階段
+cluster2:(2)
+紅葉, 秋
+cluster3:(4)
+人, 左, 薬師如来, 写真
+cluster4:(7)
+本尊, 本堂, 寺, 堂, 石仏, 秘仏, 本殿
+cluster5:(1)
+丹波紅葉
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 5entities.

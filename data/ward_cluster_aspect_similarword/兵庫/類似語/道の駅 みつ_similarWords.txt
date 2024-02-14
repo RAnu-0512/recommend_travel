@@ -1,0 +1,43 @@
+--------------------similar_words:道の駅 みつ--------------------
+top3 entities near to cluster0>>
+牡蠣, 牡蛎, カキ
+top3 entities near to cluster1>>
+地場, 野菜, 地元
+top3 entities near to cluster4>>
+海岸, 海, 砂浜
+top3 entities near to cluster5>>
+海鮮, 牡蠣, 丼
+top3 entities near to cluster6>>
+気持ち, 雰囲気, マナー
+top3 entities near to cluster7>>
+バイク, ライダー, ツーリング
+top3 entities near to cluster9>>
+レストラン, バーベキュー, ランチ
+top3 entities near to cluster11>>
+スペース, テーブル, ストック
+top3 entities near to cluster12>>
+バランス, アドバイス, オススメ
+top3 entities near to cluster16>>
+海産物, 食べ物, 海鮮
+top3 entities near to cluster22>>
+侵入, 利用, 物色
+top3 entities near to cluster25>>
+食事, 散歩, 景色
+top3 entities near to cluster26>>
+駅車, 駅, 建物
+top3 entities near to cluster28>>
+大勢, 地元, 人々
+top3 entities near to cluster33>>
+季節, 時季, 旬
+top3 entities near to cluster36>>
+裏側
+top3 entities near to cluster37>>
+本当, たくさん
+top3 entities near to cluster39>>
+階段, 急坂
+top3 entities near to cluster40>>
+休憩, 時間, 昼休み
+top3 entities near to cluster41>>
+販売店, 販売, 店舗
+top3 entities near to cluster43>>
+衛生面, 衛生, 時代

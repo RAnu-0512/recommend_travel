@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:峰山高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩, 森
+cluster1:(14)
+エリア, 映画, 場所, ところ, 気持ち, 人, 車, リラクシア, ノルウェイ, トイレ, ホテル, 雰囲気, マイナスイオン, 落ち葉
+cluster2:(3)
+敷地, 入口, 看板
+cluster3:(2)
+下り, 途中トイレ
+cluster4:(1)
+天気
+cluster5:(2)
+荒涼, 冬木
+cluster6:(4)
+散策コース, 散策, ロケ地, 駐車場
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 7entities.

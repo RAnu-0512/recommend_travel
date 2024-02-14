@@ -1,0 +1,11 @@
+--------------------similar_words:ほたるの里--------------------
+top3 entities near to cluster0>>
+バラ, 薔薇, ばら
+top3 entities near to cluster3>>
+感動, 期待, 勢い
+top3 entities near to cluster6>>
+行い, 賜物, 行ない
+top3 entities near to cluster9>>
+天候, 天気, 気象
+top3 entities near to cluster13>>
+子供, 子ども, 家族

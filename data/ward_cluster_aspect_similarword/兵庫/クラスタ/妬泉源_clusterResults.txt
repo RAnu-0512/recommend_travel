@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妬泉源>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+有馬温泉, 有馬坂, 有馬
+cluster1:(4)
+泉源, 金泉, 湯気, 湯
+cluster2:(9)
+前, 横道, 女性, 昔美人, 中心部, 由来, こと, 名前, 宣言
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜坂温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+鳥取, 浜坂駅, 豊岡, 兵庫県
+cluster1:(20)
+場所, 途中, 風呂, 足湯, 露天, 温泉郷, 家庭, 人, 人気, 歴史, 足, 下駄, 近く, 日本, 旅館, 地元, セット, 海側, 温泉, カニ
+cluster2:(9)
+湯量, 名産地, 温泉巡り, 温泉地, 地元名産, 公衆浴場, 温泉街, 源泉塔, 温泉卵
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 3
+deleted 0entities.

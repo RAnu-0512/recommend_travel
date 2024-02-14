@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出石武家長屋資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史, 文化
+cluster1:(4)
+人, 大人, おすすめ, 方
+cluster2:(1)
+観光スポット
+cluster3:(1)
+資料館
+cluster4:(2)
+武家屋敷, 豊岡市
+cluster5:(1)
+入館料
+cluster6:(1)
+町立武家長屋資料館
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 8entities.

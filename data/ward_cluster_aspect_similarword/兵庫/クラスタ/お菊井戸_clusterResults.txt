@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お菊井戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+怪談話, 割と気
+cluster1:(2)
+井戸, 菊井戸
+cluster2:(3)
+菊, 皿, 丸
+cluster3:(6)
+南無阿弥陀仏, 帰り道, 話, 姫路城, 周り, 子供
+cluster4:(2)
+説明, 見学
+cluster5:(1)
+人影
+cluster6:(1)
+城見物
+cluster7:(1)
+GW姫路
+cluster8:(1)
+播州皿屋敷
+cluster9:(1)
+・・・G.W.
+
+howmany entities : 20
+howmany clusters : 10
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 11entities.

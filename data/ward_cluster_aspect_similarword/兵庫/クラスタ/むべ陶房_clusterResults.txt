@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:むべ陶房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+時間, 選択肢, 作品, 好み, 母, 色, 説明, 世話, 住宅街, 出来上がり, 器, 方
+cluster1:(2)
+電動ろくろ体験, 電動ろくろ
+cluster2:(2)
+陶房, むべ陶房
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 4entities.

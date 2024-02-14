@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桜の山桜華園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+表情, 場所, 日常, 種類, 時期, 期間, 方々, ハイキング感覚
+cluster1:(5)
+弁当, 桜, 絶景, 山, 町
+cluster2:(1)
+神河町
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

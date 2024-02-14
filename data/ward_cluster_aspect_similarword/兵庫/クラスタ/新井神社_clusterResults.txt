@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新井神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+高見城落城, 滝ケ谷, 中井権治, 神猿像, 湯の森
+cluster1:(15)
+伝承, 場所, 観光, 犬, 名工, もの, 歴史, 木彫り, 特徴, 奥, 柏原, 付近, 雰囲気, 本杉, 猿
+cluster2:(5)
+神社, 拝殿, 祭神, 境内, 本殿
+cluster3:(2)
+新井神社, 石見神社
+cluster4:(1)
+御神木
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 3
+deleted 3entities.

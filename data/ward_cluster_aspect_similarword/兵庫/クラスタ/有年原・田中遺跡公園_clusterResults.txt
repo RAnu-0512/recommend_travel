@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有年原・田中遺跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+類, 持参
+cluster1:(5)
+弁当, 家族, カップル, 遺跡, 春先
+cluster2:(1)
+新鮮さ
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹田城 城下町 ホテルEN(えん)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+前菜, 野菜, 箸, みなさん車, 季節, 接客, 料理, 店
+cluster1:(6)
+感じ, もの, 人, フレンチき, 方, 機会
+cluster2:(2)
+白, 赤
+cluster3:(2)
+母, 夫婦
+cluster4:(14)
+スタッフ, こだわり, シェフ, ランチ, レストラン, 造り酒屋, フルボトルワイン, ホテル, 雰囲気, コース, フレンチ, スフレ, ランチタイム, スープ
+cluster5:(2)
+ホール, 結婚式
+cluster6:(1)
+グラスワイン
+cluster7:(4)
+窓越し, 情報館, 価格設定, 誕生日
+cluster8:(5)
+竹田, 竹田駅, 桜咲く竹田城, 竹田城, 木村酒造場
+
+howmany entities : 44
+howmany clusters : 9
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 5
+deleted 7entities.

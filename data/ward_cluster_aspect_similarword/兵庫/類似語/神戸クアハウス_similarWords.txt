@@ -1,0 +1,27 @@
+--------------------similar_words:神戸クアハウス--------------------
+top3 entities near to cluster1>>
+肌, 髪, 布団
+top3 entities near to cluster3>>
+屋上, ビル
+top3 entities near to cluster4>>
+ホテル, タオル, ベッド
+top3 entities near to cluster5>>
+サウナ, スパ, 水風呂
+top3 entities near to cluster6>>
+ホテル, 館内, 施設
+top3 entities near to cluster14>>
+利用, 移動, 消費
+top3 entities near to cluster15>>
+食事, ご飯, 夕食
+top3 entities near to cluster18>>
+休憩室, 更衣室, 更衣, 休憩
+top3 entities near to cluster19>>
+送迎, バス, マイクロバス
+top3 entities near to cluster22>>
+定食
+top3 entities near to cluster24>>
+銭湯, 浴槽, 浴場
+top3 entities near to cluster25>>
+風呂, 湯船, 浴槽
+top3 entities near to cluster27>>
+温泉, 湯, お湯

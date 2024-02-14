@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:達身寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+丹波, 丹波講師
+cluster1:(2)
+快慶, 仏師
+cluster2:(8)
+奈良, 地, 聖観音, 東大寺, つながり, かの繋がり, 古文書, こと
+cluster3:(3)
+仏像, 寺, 堂
+cluster4:(1)
+重文
+cluster5:(1)
+お腹ポッコリ
+cluster6:(2)
+達身寺式仏像, メタポ仏像
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 8entities.

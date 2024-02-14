@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三木市観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+観光協会, スポット, 集合場所, スタッフ, 後程, 観光, 付近, 観光スポット, 案内, 注力スポット, 金物, 集合時間, 撮影スポット, パンフレット, 写真
+cluster1:(3)
+観光協会駐車場, 三木市, 三木市観光協会
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

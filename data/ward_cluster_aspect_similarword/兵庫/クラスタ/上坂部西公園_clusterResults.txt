@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上坂部西公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JR塚口駅, 塚口駅
+cluster1:(6)
+お子, 緑, 薔薇, 草木, お花, 花
+cluster2:(4)
+感じ, 所, 場所, こと
+cluster3:(14)
+人, 大道芸, ピクニック, 自転車, キャッチボール, バトミントン, 雰囲気, 子ども, 家族, オアシス, 子供, まわり, 大きめ, 交差点
+cluster4:(7)
+夏, 程度, 全体, 周辺, 中, 昼間, 近く
+cluster5:(2)
+右手, 練習
+cluster6:(1)
+閑散
+cluster7:(6)
+普通車, 北, 小川, 国道, JR, 南東
+cluster8:(1)
+家族連れ
+cluster9:(3)
+公園全体, 公園, 自然公園
+cluster10:(2)
+花壇, 芝生
+cluster11:(2)
+園内, 遊具
+cluster12:(1)
+温室
+cluster13:(1)
+駐車場
+cluster14:(1)
+果肉植物
+cluster15:(1)
+玉江橋
+
+howmany entities : 54
+howmany clusters : 16
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 6
+deleted 14entities.

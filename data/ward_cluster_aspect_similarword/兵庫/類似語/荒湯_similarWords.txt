@@ -1,0 +1,27 @@
+--------------------similar_words:荒湯--------------------
+top3 entities near to cluster0>>
+夏, 年, ７月
+top3 entities near to cluster2>>
+飲み物, 食べ物, お菓子
+top3 entities near to cluster3>>
+気持ち, 雰囲気, 思い出
+top3 entities near to cluster5>>
+遊歩道, たもと, 土産物
+top3 entities near to cluster9>>
+名物, 訪問, 売店
+top3 entities near to cluster20>>
+香り, 匂い, 塩味
+top3 entities near to cluster21>>
+風情, 情緒, 景色
+top3 entities near to cluster22>>
+川魚, 川橋, 川
+top3 entities near to cluster23>>
+お湯, 温度, 足湯
+top3 entities near to cluster24>>
+土産店, 土産, おみやげ
+top3 entities near to cluster25>>
+卵, 玉子, ゆで
+top3 entities near to cluster26>>
+荒, 湯, 灌場
+top3 entities near to cluster29>>
+温泉, 湯, 温泉郷

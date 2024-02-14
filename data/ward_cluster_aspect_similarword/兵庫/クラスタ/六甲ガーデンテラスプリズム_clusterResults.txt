@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六甲ガーデンテラスプリズム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車料金, 時間駐車
+cluster1:(8)
+時間, 関係, 空き地, 手段, 六甲山, パノラマ, コメント, 眺め
+cluster2:(3)
+土産屋, 土産, ガラス細工
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

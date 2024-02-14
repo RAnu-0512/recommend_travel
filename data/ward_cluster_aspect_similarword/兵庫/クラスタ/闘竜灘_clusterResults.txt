@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:闘竜灘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光駐車場, 駐車場
+cluster1:(8)
+感じ, 背景, どこか, 解禁, 笑, ほう, 流れ, 迫力
+cluster2:(3)
+景色, 風景, 異国
+cluster3:(6)
+下, 間, 水, 中, 上, 近く
+cluster4:(12)
+場所, 部屋, スポット, 人, レストラン, 車, 加古川, トイレ, 日本, スーパーミニサイズ, アニメ, 子供
+cluster5:(1)
+中心部
+cluster6:(1)
+異彩
+cluster7:(6)
+魚, 滝, 川, 河, 橋, 鮎
+cluster8:(3)
+激流, 岩, 岩場
+cluster9:(2)
+滝寺荘, 小林農園
+cluster10:(1)
+遡上
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 6
+deleted 7entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加古川河口>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+加古川, 部分, 時間, 建物, ベンチ, 側, 足, 瀬戸内海, 煙突
+cluster1:(5)
+河口, 川, 釣り, 対岸, 加古川河口
+cluster2:(1)
+高砂海浜公園
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

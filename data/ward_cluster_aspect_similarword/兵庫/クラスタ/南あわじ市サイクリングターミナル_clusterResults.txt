@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南あわじ市サイクリングターミナル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+サイクリングターミナル, 諭鶴羽山
+cluster1:(1)
+トイレ
+cluster2:(1)
+場所
+cluster3:(1)
+麓
+cluster4:(1)
+桜
+cluster5:(1)
+休憩所
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

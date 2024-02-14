@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:摩耶自然観察園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+途中, 景色, 学び, 季節, 時間, 変化, 時期, アトラクション気分
+cluster1:(5)
+池, 沢, 山道, 車道, 起伏
+cluster2:(16)
+神戸, ヘビ, ところ, 摩耶山, バードコール, 人, 小動物, プチハイキング, トンボ, モリアオガエル, アジサイ, アカハライモリ, 子連れ, カエル, 小学生, ロープウェイ
+cluster3:(7)
+植物, 野鳥, そば, 自然, 弁当, 花, 子どもたち
+cluster4:(1)
+摩耶ケーブル
+cluster5:(1)
+登り下り
+cluster6:(3)
+未就学児, 摩耶自然観察園, 掬星台
+
+howmany entities : 41
+howmany clusters : 7
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 5
+deleted 2entities.

@@ -1,0 +1,51 @@
+--------------------similar_words:神戸市立王子動物園--------------------
+top3 entities near to cluster0>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster2>>
+時間, 日数分, 日数
+top3 entities near to cluster3>>
+開園, 閉園, 開館
+top3 entities near to cluster4>>
+園内, 公園, 駐車
+top3 entities near to cluster6>>
+ペンギン, うさぎ, ウサギ
+top3 entities near to cluster7>>
+レッサーパンダ, シマウマ, カピバラ
+top3 entities near to cluster9>>
+ヒョウ, キリン, アシカ
+top3 entities near to cluster10>>
+コース, コーナー, パーク
+top3 entities near to cluster11>>
+レストラン, アトラクション, イベント
+top3 entities near to cluster13>>
+待ち時間, 昼過ぎ, おすすめ
+top3 entities near to cluster15>>
+子ども, こども, 子供
+top3 entities near to cluster16>>
+自販機, トイレ, ベンチ
+top3 entities near to cluster18>>
+食べ物, グッズ, 乗り物
+top3 entities near to cluster21>>
+タイム, カー, トラ
+top3 entities near to cluster23>>
+象, 猛獣, 羊
+top3 entities near to cluster24>>
+猫, 黒, メス
+top3 entities near to cluster25>>
+パンダ, ジャイアントパンダ, ペンギン
+top3 entities near to cluster31>>
+ゾウ, ババ, イヌ
+top3 entities near to cluster42>>
+生活, 勉強, 管理
+top3 entities near to cluster43>>
+感動, 会い, 体験
+top3 entities near to cluster44>>
+満足感, 満足, 予定
+top3 entities near to cluster46>>
+動物園, 動物, 園内
+top3 entities near to cluster47>>
+入園料, 入場料, 入場, 入園
+top3 entities near to cluster48>>
+駐車場, 駐車, 場代
+top3 entities near to cluster49>>
+動物, 動物園, 遊園

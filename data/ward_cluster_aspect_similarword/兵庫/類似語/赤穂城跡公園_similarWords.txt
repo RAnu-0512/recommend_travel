@@ -1,0 +1,17 @@
+--------------------similar_words:赤穂城跡公園--------------------
+top3 entities near to cluster0>>
+本丸, 城壁, 城
+top3 entities near to cluster1>>
+公園, 広場, 緑地
+top3 entities near to cluster2>>
+散策, 景観, 整備
+top3 entities near to cluster3>>
+眺め, 写真, 眺める
+top3 entities near to cluster5>>
+街並み, 雰囲気, 町並み
+top3 entities near to cluster7>>
+周辺, 近辺, 中心
+top3 entities near to cluster11>>
+駐車場, 駐車, 場代
+top3 entities near to cluster12>>
+城跡, 城址, 城

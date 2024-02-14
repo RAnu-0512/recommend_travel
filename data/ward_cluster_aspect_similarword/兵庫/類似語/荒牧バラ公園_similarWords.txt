@@ -1,0 +1,33 @@
+--------------------similar_words:荒牧バラ公園--------------------
+top3 entities near to cluster0>>
+バラ園, 荒牧園, バラ, 荒牧
+top3 entities near to cluster1>>
+薔薇園, バラ園, 薔薇, バラ
+top3 entities near to cluster2>>
+バラ, 薔薇, ばら
+top3 entities near to cluster4>>
+開花, 満開, 見頃
+top3 entities near to cluster5>>
+花, 花弁, お花
+top3 entities near to cluster8>>
+シート, カラー, ベンチ
+top3 entities near to cluster9>>
+バス停, 交差点, 幼稚園
+top3 entities near to cluster11>>
+スロープ, ハイキング, ショップ
+top3 entities near to cluster15>>
+手入れ, 水遊び, 仕立て
+top3 entities near to cluster17>>
+真ん中, 高温
+top3 entities near to cluster18>>
+種類, 数種類
+top3 entities near to cluster19>>
+外側, 部分, 内側
+top3 entities near to cluster22>>
+気分, 香り, 匂い
+top3 entities near to cluster23>>
+公園, 広場, 遊歩道
+top3 entities near to cluster25>>
+入園, 入場, 駐車
+top3 entities near to cluster26>>
+バス, タクシー, ツアー

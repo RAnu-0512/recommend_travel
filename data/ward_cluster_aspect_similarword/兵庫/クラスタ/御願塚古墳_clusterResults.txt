@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御願塚古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+阪急稲野駅, 阪急伊丹線, 稲野駅, 伊丹市
+cluster1:(3)
+古墳, 古墳み, 帆立貝式古墳
+cluster2:(2)
+住宅, 住宅街
+cluster3:(7)
+感じ, 場所, 周囲, 距離, 歴史, 前方, オススメ
+cluster4:(5)
+散歩, 神社, 散策, 川, 歩道
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 2entities.

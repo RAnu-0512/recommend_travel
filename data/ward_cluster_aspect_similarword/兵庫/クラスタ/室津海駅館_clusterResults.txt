@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:室津海駅館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+江戸末期, 室津, 朝鮮, 出島, 朝鮮通信使, 長崎
+cluster1:(2)
+前面窓, 書院
+cluster2:(2)
+腰掛け縁, 曲がり状
+cluster3:(4)
+座敷, 天井, 格子, 床
+cluster4:(2)
+嶋屋, 屋号
+cluster5:(15)
+表, 資料, 港, 明治, 町, ユネスコ, 形, 間, 参勤交代, オランダ, 建物, それぞれ, 日本, 富, 価値
+cluster6:(3)
+将軍, 豪商, 国王
+cluster7:(1)
+廻船業
+cluster8:(2)
+やかたぶねの間, 室津海駅館
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 9entities.

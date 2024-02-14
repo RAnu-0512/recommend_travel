@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御坂サイフォン橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川, 山
+cluster1:(2)
+橋, 眼鏡橋
+cluster2:(1)
+川原
+cluster3:(7)
+形, 水, 人, 明治, 日本, 風情, 価値
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

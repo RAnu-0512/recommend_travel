@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫の自然歴史体験 センス・オブ・ワンダー兵庫>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+フルーツ食べ放題, 食べ放題
+cluster1:(18)
+みかん, ドライブ, もの, 自然, カフェ, 度, ぶどう, おみやげ, 大人, みかんジュース, 中, 家族, 淡路島, 木, 子供, ハウスみかん, 体験, ハウス
+cluster2:(4)
+観光, おみやげ屋, 土産, 旅行
+cluster3:(4)
+野菜, 酸味, 果物, 甘いみかん
+cluster4:(1)
+甘さ
+cluster5:(4)
+淡路島フルーツ農園, ハウスみかん狩り, 里農園, みかん狩り
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 3entities.

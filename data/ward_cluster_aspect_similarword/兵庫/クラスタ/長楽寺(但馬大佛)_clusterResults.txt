@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長楽寺(但馬大佛)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仁王像, 仁王
+cluster1:(2)
+大仏様, 大仏
+cluster2:(4)
+奈良, 中国, 鎌倉, 兵庫
+cluster3:(2)
+仏, 佛
+cluster4:(2)
+仏像, 寺
+cluster5:(1)
+仏師
+cluster6:(2)
+但馬大佛, 湯村温泉
+cluster7:(2)
+金箔, 金色
+cluster8:(3)
+門, 塔, 堂
+cluster9:(5)
+景色, 雪, 建物, 階段, 木造
+cluster10:(5)
+タクシー会社, 社長, 参拝, マラソン大会, 車利用
+cluster11:(2)
+調べ, 事前
+cluster12:(5)
+場所, もの, 全て, 顔, 問題
+cluster13:(3)
+コース, ピカピカ, スケール
+cluster14:(2)
+大仏殿, 五重塔
+cluster15:(2)
+途中, 手前
+cluster16:(4)
+価値, 歴史, 機会, 迫力
+cluster17:(1)
+大きさ
+cluster18:(4)
+運転手, 交通機関, 拝観料, 駐車場
+
+howmany entities : 53
+howmany clusters : 19
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 8
+deleted 20entities.

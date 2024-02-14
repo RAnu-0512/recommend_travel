@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊丹市立こども文化科学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊丹, 伊丹スカイパーク
+cluster1:(12)
+近隣, 様子, もの, 季節, 内容, 時間, 施設, 方, 余裕, こと, 料金, 近く
+cluster2:(5)
+親子, 年長, 大人, 息子, 子供
+cluster3:(6)
+中高生, ちびっこ, 夏休み, ちびっこプラネタリウム, 子ども, こども
+cluster4:(5)
+プラネタリウム, イベント, 春夏秋冬, パーキング, セット
+cluster5:(2)
+テーマ, ゲーム
+cluster6:(1)
+飛行機
+cluster7:(4)
+星, 宇宙, スカイパーク, 屋上
+cluster8:(1)
+隕石
+cluster9:(10)
+レギュラー投影, トワイライト投影, 科学館, プラネタリウム館, 複合文化施設, 展示コーナー, 解説員, 展示, 投影, 駐車場
+
+howmany entities : 48
+howmany clusters : 10
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 6
+deleted 6entities.

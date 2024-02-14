@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:HELLO KITTY SHOW BOX_APPLE HOUSE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ショー感, ハローキティショー
+cluster1:(13)
+タクシー, YouTube, コンセプト, レストラン, Jpop, アップル, ボックス, さくらんぼ, ハナミズキ, グリーティング, キティ, ぐずぐず, スペース
+cluster2:(4)
+フルート, バイオリン, ピアノ, バレエ
+cluster3:(2)
+ショー, クイズ
+cluster4:(2)
+笑顔, 顔
+cluster5:(3)
+写真, 画像, 写真もぐしゃぐしゃ
+cluster6:(2)
+曲, 演奏
+cluster7:(4)
+食事, 商品, 施設, 案内
+cluster8:(5)
+外, 時間, 方, 昔, 近く
+cluster9:(1)
+騒ぎ
+cluster10:(1)
+交通
+cluster11:(1)
+大塚愛
+cluster12:(1)
+駐車場
+cluster13:(1)
+キティちゃんと会いたいと言う3歳児
+
+howmany entities : 42
+howmany clusters : 14
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 5
+deleted 13entities.

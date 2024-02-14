@@ -1,0 +1,21 @@
+--------------------similar_words:HAT神戸--------------------
+top3 entities near to cluster1>>
+駐車場, 駐車, 満車
+top3 entities near to cluster2>>
+飲食店, 店舗, 飲食
+top3 entities near to cluster7>>
+防災, 館, 記念
+top3 entities near to cluster8>>
+シネマ, 映画館, シネコン
+top3 entities near to cluster9>>
+モール, ショッピング, 買い物
+top3 entities near to cluster10>>
+ショップ, レストラン, カフェ
+top3 entities near to cluster12>>
+海沿い, エリア, 美術館
+top3 entities near to cluster14>>
+子供連れ, 子供, つれ
+top3 entities near to cluster17>>
+景色, 夜景, 散歩
+top3 entities near to cluster25>>
+友達, 友人, 大勢

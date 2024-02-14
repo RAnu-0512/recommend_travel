@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山の原ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+愛想, 社内コンペ, 接客, 仕事
+cluster1:(15)
+コーヒー, トーナメントコース, ラウンド, レストラン, ゴルフ, 山, 原コース, トーナメント, グリーン, オープンコンペ, ショップ, 芝, ティーショット, フロント, コース
+cluster2:(4)
+常識外, つるやオープン, 大阪市, 恋里コース
+cluster3:(1)
+従業員
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 1entities.

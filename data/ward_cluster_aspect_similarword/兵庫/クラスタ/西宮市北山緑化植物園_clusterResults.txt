@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西宮市北山緑化植物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展望台, 駐車場
+cluster1:(2)
+休憩, 避難
+cluster2:(3)
+方, 年配, かた
+cluster3:(2)
+館, 道
+cluster4:(6)
+目, 前, 水, 中, 時期, 名前
+cluster5:(8)
+バス停, トイレ, 手入れ, 気持ち良, 雰囲気, ハイキング, かん, まわり
+cluster6:(8)
+植物, 柵, 池, 四季, 花, 沢, 紅葉, 寒さ
+cluster7:(5)
+利用者, バス待ち, 園内, 入館, 館内
+cluster8:(1)
+暑さ
+cluster9:(5)
+北山公園, 北山山荘, 柏谷堂町, 甲陽園駅, 植物園
+
+howmany entities : 42
+howmany clusters : 10
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 6
+deleted 7entities.

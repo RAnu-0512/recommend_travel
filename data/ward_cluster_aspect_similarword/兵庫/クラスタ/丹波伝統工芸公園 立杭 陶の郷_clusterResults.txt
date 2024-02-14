@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波伝統工芸公園 立杭 陶の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中学生, 小学生
+cluster1:(2)
+仕上がり, 仕上げ
+cluster2:(5)
+イメージ, レストラン, インストラクター, プレゼント, スタッフ
+cluster3:(1)
+気持ち
+cluster4:(1)
+作り方
+cluster5:(1)
+上がり
+cluster6:(1)
+焼き物
+cluster7:(3)
+現代, 今回, 次回
+cluster8:(2)
+大人, 子供
+cluster9:(3)
+友達, 人, 家族
+cluster10:(2)
+親, 子
+cluster11:(1)
+鉛筆
+cluster12:(23)
+値段, 楽しみ方, 指導, 機会, 先生, 料金, 作家, 作品, 貸し切り状態, 事, 作品つくり, 見本, 説明, もの, 利用, 施設, 方, こと, 場所, 時間, 方法, 物, 展示
+cluster13:(1)
+所要時間
+cluster14:(3)
+飲食店, 芝生広場, 駐車場
+cluster15:(2)
+丹波, 丹波焼
+cluster16:(4)
+器, 大皿, 湯呑, 窯
+cluster17:(3)
+庭, 仏像, 置物
+cluster18:(2)
+蕎麦, 土産コーナー
+cluster19:(1)
+敬老
+cluster20:(1)
+焼き上がり
+cluster21:(1)
+カップとお皿
+cluster22:(4)
+窯元カード, 窯元めぐり, 窯元, 窯元横丁
+cluster23:(7)
+陶芸家, 体験教室, 陶芸, 陶芸作家, 作陶体験, 陶芸体験, 体験
+cluster24:(2)
+粘土細工, 粘土
+cluster25:(3)
+絵, 絵付け, 絵付け体験
+
+howmany entities : 81
+howmany clusters : 26
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 10
+deleted 23entities.

@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出石神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+地, 北部, 広島, 県, 北, 王子, 神, 町, 宮
+cluster1:(3)
+人, 初め, 方
+cluster2:(6)
+城下町, 最寄り駅, 雨上がり, 気持ち, シーズン, 一之宮
+cluster3:(1)
+閑叟
+cluster4:(2)
+先, 次
+cluster5:(2)
+他所, 地元
+cluster6:(2)
+日本, 国
+cluster7:(4)
+屋根, 車, 静寂, 市民
+cluster8:(10)
+運, 距離, 力, 趣, 時代, もの, 位置, こと, 感じ, 歴史
+cluster9:(1)
+辺り一帯
+cluster10:(9)
+参拝者, 訪問, 旅, 参拝, 初詣, 元旦, お社, 挨拶, 旅行
+cluster11:(9)
+山名, 拝殿, 願文, 鳥居, 記紀, 宮司, 鳥居バス停, 神社, 氏神
+cluster12:(1)
+安全祈念
+cluster13:(2)
+バス, バス代
+cluster14:(2)
+観光, 観光客
+cluster15:(1)
+駐車場
+cluster16:(3)
+全公, 禁足地, 新羅
+cluster17:(15)
+出石町, 天日槍命, 但馬地方, 一宮, 出石神社, 伊勢籠神社, 但馬一宮, 出石, 出石行き, 天日槍, 但馬国一之宮, 一宮さん, 出石市街地, 豊岡駅, 兵庫県
+
+howmany entities : 82
+howmany clusters : 18
+howmany entities (more than3entities) : 68
+howmany clusters (more than3entities) : 9
+deleted 14entities.

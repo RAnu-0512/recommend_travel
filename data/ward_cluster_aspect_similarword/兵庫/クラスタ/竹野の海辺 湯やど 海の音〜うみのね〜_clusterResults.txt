@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹野の海辺 湯やど 海の音〜うみのね〜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+うみの音, 磯遊び, 楽しみ子供達, 大荒れ
+cluster1:(2)
+目新しさ, 評価
+cluster2:(6)
+ライフジャケット, 人, トイレ, 日本, シャワー, 子供
+cluster3:(2)
+場所, 事
+cluster4:(3)
+目, 手前, 前
+cluster5:(3)
+魚, 音, 海
+cluster6:(1)
+世話
+cluster7:(7)
+風呂, 食事, 還暦, 宿, 貸切, 竹野, 温泉
+cluster8:(1)
+駐車場
+cluster9:(5)
+互い再婚予定, 女将, 婚前旅行, 城崎温泉, 美人女将
+
+howmany entities : 34
+howmany clusters : 10
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 6
+deleted 6entities.

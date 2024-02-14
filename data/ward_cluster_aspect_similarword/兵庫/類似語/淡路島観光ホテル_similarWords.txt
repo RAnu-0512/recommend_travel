@@ -1,0 +1,19 @@
+--------------------similar_words:淡路島観光ホテル--------------------
+top3 entities near to cluster0>>
+釣, 魚釣り
+top3 entities near to cluster1>>
+風呂場, 駐車場, 風呂, 駐車
+top3 entities near to cluster3>>
+ホテル, レストラン, サービス
+top3 entities near to cluster4>>
+太刀魚, 釣り竿, ワカメ
+top3 entities near to cluster7>>
+餌
+top3 entities near to cluster8>>
+子供, 子ども, 母親
+top3 entities near to cluster12>>
+入室, 集合, 時間
+top3 entities near to cluster13>>
+案内, 誘導, 概要
+top3 entities near to cluster15>>
+利用者, 人数, 利用

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二宮神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+嵐, 嵐ファン
+cluster1:(31)
+screenId=OUW2209, 記事, 人, こじんまり, アルバイト, 写真, 禁止, 気持ち, ネイル, 対応, 入れ替わり, 御朱印, ピアス, エリア, 前回, お守り, 身, メイク, 客, 間, ファン, こと, 名前, 感じ, 場所, ところ, 時間, 雰囲気, 気, 仕事, 終わり
+cluster2:(2)
+短期, 常勤
+cluster3:(5)
+近所, 都会, 地元, そば, 近く
+cluster4:(2)
+再訪, 聖地
+cluster5:(2)
+地名, 北東
+cluster6:(4)
+JR, 濃紺, 化粧, ビル
+cluster7:(3)
+神, 初詣, 巫女
+cluster8:(1)
+喧騒
+cluster9:(1)
+髪色
+cluster10:(1)
+けやき
+cluster11:(3)
+商店街, 飲食店, 繁華街
+cluster12:(2)
+三宮駅, 三ノ宮駅
+cluster13:(2)
+三宮, 神戸
+cluster14:(9)
+二宮, 一宮, 三宮神社, 八社, 二宮町, 一宮神社, 八宮神社, 生田神社, 二宮神社
+cluster15:(10)
+御祭神, 境内, 参拝者, 参拝, 本殿, 神社内, 社務所, 朱印, 神社, 御神木
+
+howmany entities : 80
+howmany clusters : 16
+howmany entities (more than3entities) : 65
+howmany clusters (more than3entities) : 7
+deleted 15entities.

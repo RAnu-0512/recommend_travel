@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東有年・沖田遺跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+バケツ, 現実, 様子, 全体, 感, 人, 金属製, 花, ねずみ返し, 村, 建物, 屋根, タイム, 萱, 古代人, 中, 火災, 木, 住宅
+cluster1:(6)
+住居消失, 高床式倉庫, 復元住居, 縦穴式住居, 住居, 弥生式住居
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 0entities.

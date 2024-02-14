@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有馬稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+階段, 景色
+cluster1:(5)
+休憩, 先, 右, 途中, 看板
+cluster2:(1)
+鳥居
+cluster3:(1)
+イス
+cluster4:(1)
+・・
+cluster5:(1)
+温泉街
+cluster6:(1)
+有馬稲荷神社
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

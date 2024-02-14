@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正福寺(兵庫県新温泉町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+気持ち, 光景, もの, 清潔感, 薙刀, 境内, 雪, 正福寺, 街, ハート, 季節, 茶釜, 丘, 立看板, 寺, 方, 石段, 先, 雰囲気, 中心地, 階段, 機会, 木, 時期, こと, 雪かき, 丘上, 見晴らし, 高台, 散策途中, パワースポット
+cluster1:(4)
+桜, 名木正福寺桜, 正福寺の桜, 正福寺桜
+cluster2:(4)
+湯村温泉, 荒湯, 温泉町, 温泉橋
+
+howmany entities : 39
+howmany clusters : 3
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 3
+deleted 0entities.

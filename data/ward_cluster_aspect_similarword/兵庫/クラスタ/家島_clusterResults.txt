@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:家島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+←→家島, 姫路港, ←→姫路港, 真浦・宮どちら, 姫路駅
+cluster1:(6)
+乗船料, 高速船, 船, 交通機関, 救急車, バス代
+cluster2:(27)
+場所, 軽自動車, おすすめ, 島, 島内, あちこち, 景色, 日帰り, 自然, 家島, 自由度, 自転車, 食べ物, バイク, 思い出, 離島, 坂道, 道, きっぷ, 方, 夏休み, 猫, 事, 階段, 徒歩, フェリー, 海
+
+howmany entities : 38
+howmany clusters : 3
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 3
+deleted 0entities.

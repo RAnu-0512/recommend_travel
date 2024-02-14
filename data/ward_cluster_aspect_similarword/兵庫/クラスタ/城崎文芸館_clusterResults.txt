@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城崎文芸館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+所, 通り, 場所, 地, 入口, 多く, 時間, 横, 中, 夫妻, 他, 縁, 中心
+cluster1:(11)
+ところ, 大文字, 記念碑, 与謝野, スポット, コーナー, ゆかり, メインストリート, 城の崎, 教科書, 中学校
+cluster2:(3)
+資料, 文字, 記憶
+cluster3:(6)
+人物, 作家, 作品, 人間, 人, 建物
+cluster4:(7)
+感じ, 散策, 魅力, 足跡, 匂い, 相性, 気
+cluster5:(4)
+して, 展示物, 展示, 駐車場
+cluster6:(2)
+文豪たち, 文豪
+cluster7:(2)
+文人たち, 文人
+cluster8:(1)
+小説家
+cluster9:(9)
+文学館, 文学碑, 文学者, 文芸博物館, 近代文学, 城崎文芸館, 日本文学, 文芸館, 文学
+cluster10:(14)
+島崎藤村, 白樺派, 入場料, 足湯, 城崎にて, 志賀直哉, 有島武郎, 温泉街, 温泉まつり, 手足湯, 城崎ゆかり, 入館料, 温泉, 城崎
+
+howmany entities : 72
+howmany clusters : 11
+howmany entities (more than3entities) : 67
+howmany clusters (more than3entities) : 8
+deleted 5entities.

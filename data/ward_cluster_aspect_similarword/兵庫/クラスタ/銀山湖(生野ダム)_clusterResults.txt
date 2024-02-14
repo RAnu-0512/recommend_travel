@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銀山湖(生野ダム)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+湖, 湖面, 黒川ダム, 銀山湖, 生野駅
+cluster1:(3)
+美しさ, 座面, ご愛敬
+cluster2:(21)
+場所, ところ, 方面, 景色, 坂, そば, ボート, 辺り, もの, 車, 椅子, 季節, 奥, 紅葉, 木製, 釣り, 道, サイクリング, 家内, 気, 駐車場
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 0entities.

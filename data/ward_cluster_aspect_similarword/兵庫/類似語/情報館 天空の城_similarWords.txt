@@ -1,0 +1,9 @@
+--------------------similar_words:情報館 天空の城--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+山頂, 景色, 雲海
+top3 entities near to cluster2>>
+資料, 人達, 歴史
+top3 entities near to cluster3>>
+情報, 館, 施設

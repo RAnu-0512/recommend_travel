@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:きねや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+もち, もの, 知人, 宝塚, 羽, きな粉, 持ち帰り, 粉, 和菓子店, きね, 店, 土産, 甘さ控えめ, 地元, 名前, 餅, 大スター
+cluster1:(2)
+乙女餅, 乙女
+cluster2:(2)
+天津, 天津乙女
+cluster3:(1)
+宝塚歌劇スタ−天津乙女
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 1
+deleted 5entities.

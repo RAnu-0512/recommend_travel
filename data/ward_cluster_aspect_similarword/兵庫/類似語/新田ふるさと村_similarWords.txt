@@ -1,0 +1,15 @@
+--------------------similar_words:新田ふるさと村--------------------
+top3 entities near to cluster0>>
+子供, 地元, 子ども
+top3 entities near to cluster2>>
+友人, 家族, 友達
+top3 entities near to cluster5>>
+キャンプ, バーベキュー, キャビン
+top3 entities near to cluster7>>
+近辺, 地元
+top3 entities near to cluster9>>
+そば, 蕎麦, 食べ
+top3 entities near to cluster12>>
+椅子, 机, 遊具
+top3 entities near to cluster14>>
+自然, 空気, 緑

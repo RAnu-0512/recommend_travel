@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尼崎城>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示内容, 展示
+cluster1:(7)
+場所, 方向, 入口, 周り, 裏側, 間, 時間
+cluster2:(4)
+感じ, 理解, こと, 風情
+cluster3:(11)
+建設, 天守閣, 連休, 幕府, 建物, レンガ, ビル, 公園, 家族, 子供, 線路
+cluster4:(1)
+子供連れ
+cluster5:(1)
+私財
+cluster6:(8)
+戸田, 鉄, 大阪, 新城, 阪神, 尼崎城, 尼崎駅, 尼崎
+cluster7:(6)
+細川高国, 阪神電鉄旧発電所, 如来院文書, 安保詮, ミドリ電化創業者, 駐車場
+cluster8:(3)
+城址公園, 尼崎城址公園, 尼崎城築城
+cluster9:(5)
+お城感, 復興天守, 棚城, 天守, 城
+cluster10:(1)
+日本城郭大系 12
+cluster11:(1)
+尼崎市立歴史文化収蔵庫
+
+howmany entities : 50
+howmany clusters : 12
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 7
+deleted 6entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仏蘭西館(洋館長屋)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(35)
+アールヌーボー, 外国人, あちこち, バス停, トランク, イギリス館, バラ, 部屋, 長屋, フランス, 下車, 元アパート, 洋館, 北野, シェード, トンボ, ガレ風, 家具, 原色, クリスマスシーズン, 建物, ヴィトン, 洋館長屋, アパート, チケット売り場, セットチケット, ルイ・ヴィトン, ランプ, 展示, 異彩, 不気味さ, フランス館, シンメトリー, 中世, 欧風家具
+cluster1:(2)
+調度品, 美術品
+cluster2:(2)
+周遊バス, バスタブ
+cluster3:(1)
+北野異人館
+
+howmany entities : 40
+howmany clusters : 4
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 1
+deleted 5entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加保坂のミズバショウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+観光, 指定文化財, ミズバショウ生息, 湿地帯, 自生, 目的地, 観光客, 群生地
+cluster1:(5)
+説明, もの, 部分, 方, 事
+cluster2:(2)
+ミズバショウ園, 斜面
+cluster3:(2)
+下, 中
+cluster4:(5)
+ボランティア, 天然記念物, 人, 花びら, ミズバショウ
+cluster5:(3)
+黄色, 花, 山
+cluster6:(1)
+ミズバショウ祭り
+cluster7:(2)
+葉, 軸
+cluster8:(1)
+粒
+cluster9:(1)
+ガク
+cluster10:(1)
+兵庫県
+
+howmany entities : 31
+howmany clusters : 11
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 10entities.

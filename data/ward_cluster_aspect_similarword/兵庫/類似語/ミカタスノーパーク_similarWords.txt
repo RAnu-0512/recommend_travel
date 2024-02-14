@@ -1,0 +1,11 @@
+--------------------similar_words:ミカタスノーパーク--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場代
+top3 entities near to cluster2>>
+コース, 斜面, 休憩
+top3 entities near to cluster3>>
+コース, クラブ, メニュー
+top3 entities near to cluster4>>
+ゲレンデ, スキー, リフト
+top3 entities near to cluster5>>
+子供, 家族, 子ども

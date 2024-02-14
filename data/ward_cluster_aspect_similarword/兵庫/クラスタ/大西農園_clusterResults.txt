@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大西農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+黒豆, 豆, 枝豆
+cluster1:(4)
+枝, 株, 収穫, 孫
+cluster2:(3)
+おすすめポイント, グラム, プラン
+cluster3:(2)
+内容, 説明
+cluster4:(1)
+終了
+cluster5:(1)
+ハイ
+cluster6:(1)
+相当数
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 5entities.

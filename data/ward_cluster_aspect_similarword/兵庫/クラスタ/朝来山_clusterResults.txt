@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝来山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+兵庫県, 天空の城, 竹田城
+cluster1:(2)
+展望台, 展望スポット
+cluster2:(2)
+孤高, 孤高さ
+cluster3:(3)
+山麓, 山城, 城
+cluster4:(5)
+天下, ブーム, 途中, こと, 余裕
+cluster5:(1)
+火付け役
+cluster6:(1)
+旅行日程
+cluster7:(1)
+立雲峡
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 7entities.

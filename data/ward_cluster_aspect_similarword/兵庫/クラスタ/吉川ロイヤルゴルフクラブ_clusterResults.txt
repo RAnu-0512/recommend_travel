@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉川ロイヤルゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+サム割増, 昼休憩
+cluster1:(2)
+運転, 事故
+cluster2:(9)
+カート, 場所, 気持ち, ゴルフ, スピード, グリーン, プレー, ボタン, 気
+cluster3:(2)
+グリーン手前, 夫婦
+cluster4:(2)
+品数, バイキングデー
+cluster5:(1)
+停車位置
+cluster6:(1)
+従業員
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 10entities.

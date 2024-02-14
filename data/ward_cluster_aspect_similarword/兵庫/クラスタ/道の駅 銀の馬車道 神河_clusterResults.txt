@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 銀の馬車道 神河>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+旅, 旅行
+cluster1:(4)
+店, 方面, 駅, 道
+cluster2:(4)
+常識, 途中, 年末, トイレ
+cluster3:(1)
+トイレ休憩
+cluster4:(4)
+姫路, 兵庫県, 神河町, 城崎
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 3entities.

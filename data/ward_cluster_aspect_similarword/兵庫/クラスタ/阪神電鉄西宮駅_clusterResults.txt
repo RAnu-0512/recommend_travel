@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阪神電鉄西宮駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+特急, 通勤特急, 快速急行
+cluster1:(5)
+規模, 西宮止まり, こと, 駅, リニューアル
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蘇武岳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+登山, 山頂, 林道
+cluster1:(2)
+登山道, 登山口
+cluster2:(2)
+妙見蘇武, 神鍋側
+cluster3:(1)
+植村直己
+cluster4:(1)
+国民栄誉賞
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

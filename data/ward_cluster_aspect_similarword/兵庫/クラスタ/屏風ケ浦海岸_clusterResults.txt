@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:屏風ケ浦海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+砂浜, 屏風ケ浦海岸, 沖, 海, 明石海峡, 万葉集, 海水, 面影, 崖, 遊歩道, 海岸, 屏風, 地, 大阪湾
+cluster1:(3)
+海岸線, 海岸沿い, 浜の道
+cluster2:(1)
+明石像骨発掘
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 1entities.

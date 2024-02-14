@@ -1,0 +1,21 @@
+--------------------similar_words:天然温泉石道--------------------
+top3 entities near to cluster0>>
+すき焼き鍋, お鍋, すき焼き
+top3 entities near to cluster2>>
+食事, 料理, ご飯
+top3 entities near to cluster8>>
+天ぷら, ポン酢, ランチ
+top3 entities near to cluster11>>
+スタッフ, フロント, ロッカー
+top3 entities near to cluster19>>
+わけ, 状態
+top3 entities near to cluster20>>
+建物, 外観, 施設
+top3 entities near to cluster21>>
+期間, 予約, 受付
+top3 entities near to cluster22>>
+温泉, 露天風呂, 湯
+top3 entities near to cluster23>>
+風呂, 湯船, 脱衣
+top3 entities near to cluster24>>
+食事, 処, 夕食

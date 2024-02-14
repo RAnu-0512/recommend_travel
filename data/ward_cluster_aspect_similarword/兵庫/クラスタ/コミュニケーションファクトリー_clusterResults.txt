@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コミュニケーションファクトリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+物等, 物
+cluster1:(4)
+量, 変化, 状態, 美味しさ
+cluster2:(2)
+訪問, 予約
+cluster3:(3)
+時間, 約束, 駅
+cluster4:(2)
+次回, ♪タケノコ
+cluster5:(7)
+ところ, もの, スイカ, ピーマン, カボチャ, 子供, 他
+cluster6:(1)
+畑
+cluster7:(1)
+皮
+cluster8:(3)
+体験, 体験施設, タケノコ掘り
+cluster9:(3)
+黄柚子, 柚味噌, 青柚子
+cluster10:(2)
+冬野菜, 野菜
+cluster11:(2)
+野菜収穫体験, 野菜収穫
+cluster12:(1)
+無農薬野菜
+
+howmany entities : 33
+howmany clusters : 13
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 5
+deleted 13entities.

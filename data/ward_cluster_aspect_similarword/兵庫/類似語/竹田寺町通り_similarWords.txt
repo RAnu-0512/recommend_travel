@@ -1,0 +1,11 @@
+--------------------similar_words:竹田寺町通り--------------------
+top3 entities near to cluster0>>
+石垣, 寺, 小川
+top3 entities near to cluster1>>
+風景, 風情, 車窓
+top3 entities near to cluster2>>
+駅, 町, 駅前
+top3 entities near to cluster3>>
+川, 水路, 鯉
+top3 entities near to cluster5>>
+線路, 踏切, 電車

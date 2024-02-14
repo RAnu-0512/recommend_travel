@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JOYXゴルフ倶楽部上月コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+コース, コースコンディション, トーナメントコース
+cluster1:(5)
+グリーン, コスパ, すべて, ティー, ホール
+cluster2:(1)
+JOYXゴルフ倶楽部
+cluster3:(1)
+箇所
+cluster4:(1)
+フェアウェイ
+cluster5:(1)
+距離
+cluster6:(1)
+芝
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

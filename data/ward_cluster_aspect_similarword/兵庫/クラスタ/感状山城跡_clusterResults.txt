@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:感状山城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+感状, 感状山, 感状山城
+cluster1:(4)
+鎌倉, 石垣, 山城, 城
+cluster2:(4)
+崩壊, かんじょう, こと, 名
+cluster3:(1)
+瓜生左衛門
+cluster4:(1)
+天下統一
+cluster5:(4)
+三男則祐, 足利尊氏, 則祐, 赤松則村
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 4
+deleted 2entities.

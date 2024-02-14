@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:立雲峡の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+竹田城, 一面霧
+cluster1:(29)
+カメラマン, パンフ, 具合, 庶民, もの, スポット, 人, 関係, 立て札, 両方, 高さ, 時間, カメラ, トイレ, 花見山, 日本, 春, 方, サクラ, 中, ハイキング, マチュピチュ, 徒歩, 木, 時期, まわり, こと, 上, かた
+cluster2:(4)
+桜, 開花, 花見シーズン, 桜まつり
+cluster3:(10)
+登り, 運, 神社, 山, 扉, 城跡, 宿, 山道, 道, 工事
+cluster4:(3)
+霧, 雲, 雲海
+cluster5:(2)
+快晴, 天気
+cluster6:(2)
+景色, 眺め
+cluster7:(6)
+まちなか駐車場, 桜花では無く桜, 料金所, 展望台, 展望所, 駐車場
+
+howmany entities : 58
+howmany clusters : 8
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 5
+deleted 6entities.

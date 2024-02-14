@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かどのの郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+おかず, 卵, ご飯
+cluster1:(2)
+席, 優先
+cluster2:(2)
+店員, 店
+cluster3:(3)
+人, 常連, 近く
+cluster4:(1)
+私達
+cluster5:(1)
+卵かけご飯セット
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

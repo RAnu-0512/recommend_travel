@@ -1,0 +1,15 @@
+--------------------similar_words:三宮神社--------------------
+top3 entities near to cluster0>>
+外国人, 外国, 大勢
+top3 entities near to cluster1>>
+関心, よう
+top3 entities near to cluster2>>
+間付近, 間, 近辺
+top3 entities near to cluster3>>
+中心地, 買い物, 雰囲気
+top3 entities near to cluster4>>
+真ん中, 交差点, 端っこ
+top3 entities near to cluster8>>
+地名, 歴史, 建物
+top3 entities near to cluster10>>
+神社, 境内, 参拝

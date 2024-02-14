@@ -1,0 +1,11 @@
+--------------------similar_words:栗拾い(乙原観光園)--------------------
+top3 entities near to cluster1>>
+栗, クリ, 拾い
+top3 entities near to cluster2>>
+子供, 子ども, 家族
+top3 entities near to cluster5>>
+我が家, わが家, キャンプ
+top3 entities near to cluster8>>
+自然, 森, 夜
+top3 entities near to cluster9>>
+農園, 公園, 農場

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城崎レンタサイクル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レンタサイクル, あたり
+cluster1:(1)
+台数
+cluster2:(2)
+観光, 観光客
+cluster3:(1)
+城崎駅
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

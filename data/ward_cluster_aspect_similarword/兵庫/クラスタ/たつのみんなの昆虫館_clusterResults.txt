@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たつのみんなの昆虫館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+幼虫, 昆虫館, 標本, 昆虫
+cluster1:(8)
+点々, 部類, スタッフ, 子供, (*^^*, ソフトクリーム, キャ, 菓子
+cluster2:(1)
+たつのみんなの昆虫館
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 1entities.

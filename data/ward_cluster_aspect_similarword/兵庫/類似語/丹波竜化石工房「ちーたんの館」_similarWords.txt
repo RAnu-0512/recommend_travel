@@ -1,0 +1,9 @@
+--------------------similar_words:丹波竜化石工房「ちーたんの館」--------------------
+top3 entities near to cluster0>>
+竜, 龍, 首長
+top3 entities near to cluster1>>
+化石, 地層, 標本
+top3 entities near to cluster4>>
+建物, 外観, 施設
+top3 entities near to cluster5>>
+展示, 体験, 映像

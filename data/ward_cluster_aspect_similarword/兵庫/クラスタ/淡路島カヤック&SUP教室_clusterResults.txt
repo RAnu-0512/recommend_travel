@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路島カヤック&SUP教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+操作方法, 安定感, 持ち方
+cluster1:(4)
+場所, 着替え場所, 集合場所, 駐車場
+cluster2:(3)
+子供たち, 私達, 息子たち
+cluster3:(24)
+参加, お子, スポット, パドル, まん丸, ペース, ガシラ, 生憎, 初心者, ブロック, 長男, TEL, ガイド, トイレ, 方, カヤック, 着替え, いざカヤック, ボード, 家族, 徒歩, 子供, 雨, 体験
+cluster4:(5)
+沖, 波, フグ, 猛毒, 釣り
+
+howmany entities : 39
+howmany clusters : 5
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 5
+deleted 0entities.

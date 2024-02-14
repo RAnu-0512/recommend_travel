@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あかし案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+改札, JR
+cluster1:(8)
+人, 魚, 神姫バス, グッズ, パンフレット, 方, タレント, 魚介類
+cluster2:(2)
+看板, 地図
+cluster3:(2)
+車, 駅
+cluster4:(3)
+場所, 南側, 近く
+cluster5:(1)
+クン
+cluster6:(1)
+博学
+cluster7:(11)
+明石駅, 案内所, 明石焼, 明石観光, 明石観光案協会, 観光案内所, 明石市, ピオレ明石, 特産品, 案内, 観光客
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 8entities.

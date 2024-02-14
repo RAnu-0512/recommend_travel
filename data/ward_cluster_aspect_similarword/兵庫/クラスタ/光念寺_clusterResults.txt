@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光念寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大谷派, 石井の清水
+cluster1:(13)
+もの, 西神吉町, 白鳳時代, 場所, 塔, 井戸枠, 弘法大師, 跡, 遺構, 中西, 心礎, 杖, 古代寺院
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

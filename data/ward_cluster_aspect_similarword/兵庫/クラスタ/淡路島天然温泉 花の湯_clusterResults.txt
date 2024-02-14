@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路島天然温泉 花の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+人, 種類, 目, 大人, 中
+cluster1:(13)
+ドライアー, タオル, 露天風呂, ジェットバス, ビーチ, 用水路, ペンキ, ロッカー, 備え付け, 淡路島, テニスコート, アメニティー, ジャグジー
+cluster2:(5)
+感じ, 疲れ, 泣, 肝心, 気
+cluster3:(2)
+匂い, 虫
+cluster4:(2)
+観光, 旅
+cluster5:(4)
+車, 建物, 施設, 看板
+cluster6:(1)
+軽食
+cluster7:(1)
+故障
+cluster8:(5)
+帰り, 夕刻 淡路島, 淡路, 自宅, 地元
+cluster9:(5)
+塩素, 靴, 畳, 靴箱, 石段
+cluster10:(2)
+駐車場無料, 駐車場
+cluster11:(10)
+風呂, 露天, 龍神温泉, ジャグジー風呂, 水風呂露天風呂, 露店風呂, 湯船, 浴槽, 湯, 温泉
+cluster12:(2)
+温度, 温度表示
+cluster13:(2)
+休憩所, 休憩スペース
+cluster14:(2)
+温泉施設, 宿泊施設
+cluster15:(1)
+浦県民サンビーチ
+
+howmany entities : 62
+howmany clusters : 16
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 7
+deleted 15entities.

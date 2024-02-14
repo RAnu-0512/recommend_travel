@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加古川海洋文化センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+子供連れ, 子供たち, 家族連れ, 大人, 子供, 小さなお子
+cluster1:(10)
+海水, 池, 水深, じゃぶじゃぶ池, 魚, タコ, 船, 浅いプール, イカダ風, 海
+cluster2:(5)
+夏, ミニアスレチック, 夏場, 冬, 膝
+cluster3:(2)
+レジャーシート, シート
+cluster4:(3)
+ボート, プール, 水遊び
+cluster5:(4)
+遊び場, 子連れ, 夏休み, 子ども
+cluster6:(2)
+図書館, 喫茶店
+cluster7:(8)
+エリア, ところ, テーマ, アスレチック, シャワー, オススメ, 親子連れ, スペース
+cluster8:(1)
+加古川
+cluster9:(15)
+場所, 外, 割, 子, そば, もの, 人, ほう, 方, 水, 中, こと, 雨, 市, 近く
+cluster10:(1)
+受付横
+cluster11:(14)
+空調, 入場料, 室内, 掃除, 検査, 建物, 遊具, 文化施設, 施設, 屋外, 屋内, 館内, 展示, 水質チェック
+cluster12:(2)
+臨時駐車場, 駐車場
+cluster13:(2)
+更衣室, 図書室
+
+howmany entities : 75
+howmany clusters : 14
+howmany entities (more than3entities) : 65
+howmany clusters (more than3entities) : 8
+deleted 10entities.

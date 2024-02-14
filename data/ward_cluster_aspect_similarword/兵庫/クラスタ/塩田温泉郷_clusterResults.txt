@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:塩田温泉郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+バス, マッサージ機
+cluster1:(3)
+場所, 景色, 宿
+cluster2:(7)
+鳥, 露天風呂, ホタル, 恒例, 日替わり, さえずり, 水
+cluster3:(1)
+休憩場所
+cluster4:(6)
+塩田温泉郷, 塩田, 日帰り温泉, 上山旅館, 黒豆茶, 温泉
+cluster5:(1)
+夢乃井
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 4entities.

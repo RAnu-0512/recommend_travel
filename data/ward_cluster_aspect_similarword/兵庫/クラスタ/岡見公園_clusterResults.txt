@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡見公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+景色, 船, 公園, 海
+cluster1:(15)
+八坂神社, 場所, もの, 人, 下, カフェ, ほう, 日本海, 東尋坊, 時間, 日本, 方, 通称, 家族, 安全
+cluster2:(1)
+人工
+cluster3:(2)
+豊漁, 離島
+cluster4:(2)
+風見公園, かまたりさん
+cluster5:(3)
+湯立神事, 漁業関係者, 鎌足神社
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 5entities.

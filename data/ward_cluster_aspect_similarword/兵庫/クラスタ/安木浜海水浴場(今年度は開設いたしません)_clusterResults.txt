@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安木浜海水浴場(今年度は開設いたしません)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+過疎化, 高齢化
+cluster1:(9)
+水, バーベキュー, 人, コロナ, プライベート, 家, 時代, 存在, かき氷
+cluster2:(4)
+魚, 食材, 釣り, 海
+cluster3:(2)
+但馬海岸, 駐車場
+cluster4:(1)
+素潜り
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 5entities.

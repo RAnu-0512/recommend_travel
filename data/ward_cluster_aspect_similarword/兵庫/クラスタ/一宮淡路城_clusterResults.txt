@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一宮淡路城>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ほう, 様子, 上
+cluster1:(6)
+本物, 人, 姫路城, 歴史, 鞍馬山, オススメ
+cluster2:(5)
+甲冑, 海, 城, 道路, 景色
+cluster3:(1)
+淡路
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 1entities.

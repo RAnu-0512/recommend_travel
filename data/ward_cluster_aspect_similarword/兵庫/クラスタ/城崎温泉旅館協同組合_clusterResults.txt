@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城崎温泉旅館協同組合>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+割引クーポン, 宿泊, チェックイン前, サービス, チェックアウト, 観光, 協会, 荷物, 広場, 散策マップ, 電車, チェックイン, 旅, 改札, レンタサイクル, 到着, メインストリート, 温泉街, 宿, 側, 駅, 方, 駅前, レンタルサイクル, 観光案内, 温泉場, 地図, 温泉, 城崎, カニ
+cluster1:(4)
+城崎温泉駅, 城崎温泉旅館協同組合, 城崎温泉観光センター, 山陰の名湯城崎温泉
+
+howmany entities : 34
+howmany clusters : 2
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 2
+deleted 0entities.

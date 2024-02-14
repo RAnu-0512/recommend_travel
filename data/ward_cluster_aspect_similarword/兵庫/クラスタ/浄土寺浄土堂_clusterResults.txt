@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浄土寺浄土堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+建築様式, 仏像, 国宝, 大きなお寺, 東大寺別当, 境内, 本尊, 観音, 寺, 堂, 国宝・阿弥陀如来, 阿弥陀像, 快慶作
+cluster1:(2)
+奈良, 京都
+cluster2:(4)
+季節, 秋, 夏場, 夕方
+cluster3:(3)
+夕日, 光, 夕焼けショー
+cluster4:(2)
+後ろ, 周り
+cluster5:(4)
+浄土寺, 阿弥陀堂, 東大寺, 阿弥陀
+cluster6:(3)
+NHK, 夕暮れ, 雰囲気
+cluster7:(1)
+番組
+cluster8:(1)
+バス
+cluster9:(1)
+雲間
+cluster10:(3)
+何か, 見え方, 方
+cluster11:(3)
+表情, 角度, 顔
+cluster12:(4)
+構造, 建物, 変化, 価値
+cluster13:(1)
+美しさ
+cluster14:(1)
+右斜め
+cluster15:(6)
+浄土, 阿弥陀三尊, 浄土堂, 国宝浄土堂, 阿弥陀三尊立像, 国宝阿弥陀三尊像
+
+howmany entities : 52
+howmany clusters : 16
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 9
+deleted 9entities.

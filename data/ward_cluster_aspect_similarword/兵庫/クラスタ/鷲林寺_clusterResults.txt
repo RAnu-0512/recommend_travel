@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鷲林寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本尊, 寺
+cluster1:(5)
+不動明王, 紅葉, 目, 系, ズングリムックリ
+cluster2:(1)
+不動明王立像
+cluster3:(1)
+脇侍
+cluster4:(1)
+駐車場
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 5entities.

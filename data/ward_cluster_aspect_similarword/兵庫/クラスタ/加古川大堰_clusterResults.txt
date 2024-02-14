@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加古川大堰>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建造物, 治水建造物
+cluster1:(7)
+ブリッジ, 此処, スターウォーズ, 足, 河面, 上, 宇宙船
+cluster2:(2)
+堰, ダム
+cluster3:(1)
+大きさ
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

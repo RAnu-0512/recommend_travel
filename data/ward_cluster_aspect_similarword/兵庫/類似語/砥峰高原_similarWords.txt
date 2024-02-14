@@ -1,0 +1,25 @@
+--------------------similar_words:砥峰高原--------------------
+top3 entities near to cluster0>>
+高原, 野原, 森
+top3 entities near to cluster1>>
+シーン, 雰囲気, 場面
+top3 entities near to cluster2>>
+夕暮れ, 終わり, 季節
+top3 entities near to cluster5>>
+ススキ, すすき
+top3 entities near to cluster6>>
+季節, 冬, 夏
+top3 entities near to cluster7>>
+電線, 電柱, 重機
+top3 entities near to cluster14>>
+スキ, すき, コブ
+top3 entities near to cluster16>>
+夕方, 時, 合間
+top3 entities near to cluster17>>
+家族, 仲間
+top3 entities near to cluster21>>
+随一, 屈指, 見所
+top3 entities near to cluster22>>
+景色, 気分, 風景
+top3 entities near to cluster23>>
+ロケ, 撮影, 散策

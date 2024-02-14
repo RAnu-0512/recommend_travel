@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まるおファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+食べ比べ, 食べ放題, イチゴ型, いちご狩り, 昼ご飯, 採りイチゴ, イチゴ狩り
+cluster1:(30)
+感じ, 場所, スタッフ, 香り, 章姫, 友人, 気持ち, お腹, 酸味, 満足, 好み, 種類, 私達, 帰り, ハウス, イチゴ, 目標, 予約, 時間, ビニールハウス, 甘み, 換気, 方々, 岡山旅行, 中, いちご, たつ, 市, 縁, 旅行
+cluster2:(2)
+感染対策, 清潔感
+
+howmany entities : 39
+howmany clusters : 3
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 2
+deleted 2entities.

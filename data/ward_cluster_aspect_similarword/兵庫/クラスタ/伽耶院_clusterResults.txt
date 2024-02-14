@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伽耶院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+もみじまつり, 紅葉, 初詣
+cluster1:(7)
+ホタル, 人, 弁当, 車, 中, 雰囲気, 時期
+cluster2:(4)
+御朱印です., 半紙, 御朱印紙, 台紙
+cluster3:(1)
+駐車場
+cluster4:(2)
+集印帳, 伽耶院
+cluster5:(2)
+三木商工会議所食づくりの会, 美嚢郡西国三十三ヵ所霊場
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 5entities.

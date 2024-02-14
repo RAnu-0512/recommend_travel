@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:パラスティン邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+異人館巡り, 異人館, 神戸異人館街, 異人館観光
+cluster1:(4)
+神戸, 明治, 坂, 北野
+cluster2:(5)
+庭, 部屋, 家, 建物, パラスティン邸
+cluster3:(9)
+ところ, 緑, レストラン, カフェ, 足, ロシア, ケーキセット, ハーブティー, 見学
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 0entities.

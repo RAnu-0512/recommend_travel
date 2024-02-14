@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古市>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+国道, 瓦屋根, 町並み国道, 観光地, 目的地, 無人駅, 観光シーズン
+cluster1:(4)
+酒, 利き酒, 酒屋, 酒蔵
+cluster2:(31)
+感じ, 城下町, 場所, 街並み, 懐かしさ, おすすめ, 町並み, 気持ち, もの, ヘン, アクセス, 趣, 歴史, 家, 時代, 町, 時間, 建物, 流れ, レトロ, 親戚, 日本, 秋, 風景, 佇まい, 中心地, 雰囲気, 昔, 祭り, 風情, 近く
+cluster3:(2)
+街, 街並
+cluster4:(2)
+黒豆, 田園
+cluster5:(7)
+散歩, 街道, 車, 電車, 駅, 道, 沿道
+cluster6:(1)
+江戸時代
+cluster7:(3)
+篠山方面, 篠山城, 篠山
+cluster8:(2)
+古市, 三田
+cluster9:(1)
+兵庫県
+cluster10:(1)
+赤穂浪士
+cluster11:(1)
+(笑)駅
+
+howmany entities : 62
+howmany clusters : 12
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 5
+deleted 10entities.

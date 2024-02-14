@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路島海上ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ふぐ, あじ
+cluster1:(2)
+風呂, 温泉
+cluster2:(3)
+日帰りプラン, 露天風呂, 魚釣り
+cluster3:(2)
+刺身, 夕食メニュー
+cluster4:(1)
+家族旅行
+cluster5:(1)
+県民割
+cluster6:(1)
+淡路牛
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 9entities.

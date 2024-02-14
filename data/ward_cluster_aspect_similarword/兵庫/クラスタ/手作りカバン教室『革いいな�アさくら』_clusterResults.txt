@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手作りカバン教室『革いいな�アさくら』>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+クーポン, ポイント, パーツ, 切り出し, デザイン
+cluster1:(2)
+メガネ, カバン
+cluster2:(1)
+ほか
+cluster3:(1)
+レザークラフト
+cluster4:(4)
+教室, 希望, 時間, 料金
+cluster5:(1)
+牛本革
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 5entities.

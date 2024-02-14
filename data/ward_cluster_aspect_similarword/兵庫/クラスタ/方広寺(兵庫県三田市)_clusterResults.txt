@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:方広寺(兵庫県三田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+ところ, 山奥, 人, 趣, 門, 三田, 秋, 新聞, モクレン, 独特, 雰囲気, 時期, もみじ, 入り口, 風情, 近く
+cluster1:(2)
+紅葉時期, 紅葉
+cluster2:(3)
+境内, 参道, 本殿
+cluster3:(2)
+石庭, 庭園
+cluster4:(4)
+寺巡り, 寺, 花とお寺, 駐車場
+
+howmany entities : 27
+howmany clusters : 5
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 4entities.

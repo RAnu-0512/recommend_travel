@@ -1,0 +1,47 @@
+--------------------similar_words:ハチ北高原--------------------
+top3 entities near to cluster0>>
+カレー, 飲み物, コーヒー
+top3 entities near to cluster1>>
+エリア, レベル, 気持ち
+top3 entities near to cluster5>>
+スノーボード, ウィンタースポーツ, スキー
+top3 entities near to cluster11>>
+景色, 景観, 町並み
+top3 entities near to cluster12>>
+コース, 初級, フォレストコース
+top3 entities near to cluster13>>
+スキー, スノーボード, スノボ
+top3 entities near to cluster16>>
+冬, 夏, 春
+top3 entities near to cluster18>>
+山頂, 頂上, 盟主
+top3 entities near to cluster19>>
+緑風, 自然風, 緑, 自然
+top3 entities near to cluster22>>
+子供, 子ども, 家族
+top3 entities near to cluster26>>
+時期, 季節, 時間
+top3 entities near to cluster28>>
+隣, 横
+top3 entities near to cluster30>>
+お客
+top3 entities near to cluster31>>
+混雑, 行列
+top3 entities near to cluster34>>
+ハチ, 高原, マキ
+top3 entities near to cluster36>>
+駐車場, 駐車, 場代
+top3 entities near to cluster38>>
+大雪, 積雪
+top3 entities near to cluster39>>
+子供, 子ども, 親達
+top3 entities near to cluster42>>
+上級, 中級, 初級
+top3 entities near to cluster43>>
+料金, 高速, 運賃
+top3 entities near to cluster44>>
+時間帯, 時間, 休憩
+top3 entities near to cluster45>>
+自動券, 自動
+top3 entities near to cluster46>>
+校外, 更衣, 学習

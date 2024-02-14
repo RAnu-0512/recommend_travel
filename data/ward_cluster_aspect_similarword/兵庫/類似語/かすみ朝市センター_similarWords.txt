@@ -1,0 +1,29 @@
+--------------------similar_words:かすみ朝市センター--------------------
+top3 entities near to cluster0>>
+海産物, ツボダイ, マツカワカレイ
+top3 entities near to cluster1>>
+ホテル, イベント, 買い物
+top3 entities near to cluster2>>
+時期, 冬季, 冬
+top3 entities near to cluster4>>
+周辺, 近辺, 一帯
+top3 entities near to cluster8>>
+女性人, 男性人, 女性, 男性
+top3 entities near to cluster10>>
+土産店, 客足, 土産
+top3 entities near to cluster12>>
+暴言, 態度, 威嚇
+top3 entities near to cluster15>>
+光景, 機会, 気分
+top3 entities near to cluster16>>
+購入, 対応, 納得
+top3 entities near to cluster23>>
+朝市, 宿泊
+top3 entities near to cluster25>>
+カニ, 蟹, かに
+top3 entities near to cluster26>>
+カニ, 蟹, かに
+top3 entities near to cluster27>>
+カニ, 蟹, ガニ
+top3 entities near to cluster28>>
+干し魚, 干物, 干し

@@ -1,0 +1,33 @@
+--------------------similar_words:室津(兵庫県たつの市)--------------------
+top3 entities near to cluster0>>
+牡蠣, 牡蛎, カキ
+top3 entities near to cluster2>>
+国道店, 国道
+top3 entities near to cluster4>>
+漁師, 料理
+top3 entities near to cluster5>>
+港湾, 港, 港町
+top3 entities near to cluster7>>
+雰囲気, 買い物, 楽しい
+top3 entities near to cluster8>>
+海沿い, 焼き魚, 船着き場
+top3 entities near to cluster12>>
+海, 幸, 冬
+top3 entities near to cluster13>>
+時間, 時分, 時
+top3 entities near to cluster18>>
+実家, 土産, 両親
+top3 entities near to cluster20>>
+昔, 地元, 大昔
+top3 entities near to cluster24>>
+映画, 小説, 舞台
+top3 entities near to cluster25>>
+街並み, 町並み
+top3 entities near to cluster26>>
+人々, 人達
+top3 entities near to cluster30>>
+漁港, 魚市場, 町
+top3 entities near to cluster33>>
+停泊地, 寄港地, 寄港, 停泊
+top3 entities near to cluster35>>
+食事, 試食, 食べ

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍野公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(38)
+寒い, 紅葉谷, 桜, 散歩, ところ, ポイント, 月の砂漠, 子, 散策, 構造物, 人, レストラン, スポット, 自然, ツキノワグマ, 園内, 遊歩道, カラス, 童謡, 満開, 名所, センサー, シーズン, 時間, 運動, 山道, システム, 紅葉, 春, 何か所, 公園, 中, 家族, 子どもたち, 土産, 子供, 時期, ちびっこ広場
+cluster1:(3)
+龍野公園, 聚遠亭, 三木露風
+cluster2:(2)
+動物園, ミニ動物園
+cluster3:(2)
+文学の小径, 童謡の小径
+
+howmany entities : 45
+howmany clusters : 4
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 2
+deleted 4entities.

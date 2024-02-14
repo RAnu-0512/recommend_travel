@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神呪寺(甲山大師)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+景色, 夜景, 絶景
+cluster1:(2)
+神官, 僧侶
+cluster2:(3)
+神社, 境内, 寺
+cluster3:(24)
+つもり, 生駒山, 朝日, 山, 休み, 帰り, 目, 前, 不動明王, 旭川, 唾, 由緒, 右, 神, 道, 意味, 女性, 登山, 体, 自宅, ベランダ, ホーム, 価値, 近く
+cluster4:(8)
+神呪寺, 歓心寺, 神呪, 甲山山麓, 籠神社, 廣田神社, 甲山, 西宮神社
+cluster5:(7)
+如意輪観音坐像@重文, 仏の真の言葉, 真言・マントラ・呪文, 仁和寺展@東京公立博物館, 聖観音立像@重文, 不動明王坐像@重文, 真名井御前
+
+howmany entities : 47
+howmany clusters : 6
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 5
+deleted 2entities.

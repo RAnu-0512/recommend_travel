@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀山御坊本徳寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+京都・西本願寺北集会所, 北集会所
+cluster1:(3)
+勤皇派, 屯所, 新撰組
+cluster2:(6)
+亀山」駅, 天井画, 本徳寺, 寺, 亀山, 姫路
+cluster3:(2)
+傷, 刀傷
+cluster4:(3)
+幕末, ロケ, 激闘
+cluster5:(12)
+NHK, ところ, 柱, 大河ドラマ, 上段, 対応, 西本願寺, 奥様, 建物, 顔, 子供, 鬼
+cluster6:(2)
+金, 松
+cluster7:(5)
+場所, もの, 息吹, こと, 気分
+cluster8:(3)
+閉門, 本尊, 本堂
+cluster9:(1)
+八木邸→前川邸→北集会所
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 6
+deleted 7entities.

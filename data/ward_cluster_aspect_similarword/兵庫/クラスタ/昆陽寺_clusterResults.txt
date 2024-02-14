@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昆陽寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+雰囲気, 人, 場所, 立像, 花, 地元, 紅葉, 札所, 文化財, 広目天・多聞天, イチョウ, 兵庫県, 山門, 参拝者
+cluster1:(3)
+西国街道, 行基堂, 行基
+cluster2:(1)
+西国薬師四十九霊場
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 1entities.

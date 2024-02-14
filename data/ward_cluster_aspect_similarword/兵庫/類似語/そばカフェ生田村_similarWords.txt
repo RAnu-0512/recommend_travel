@@ -1,0 +1,13 @@
+--------------------similar_words:そばカフェ生田村--------------------
+top3 entities near to cluster0>>
+蕎麦, そば, 野菜
+top3 entities near to cluster3>>
+卵, かき揚げ, 天ぷら
+top3 entities near to cluster4>>
+子供, 大人, 小学
+top3 entities near to cluster9>>
+友人, 家族
+top3 entities near to cluster11>>
+時間, 開始
+top3 entities near to cluster12>>
+蕎麦打ち, そば打ち, 蕎麦, そば

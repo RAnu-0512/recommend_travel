@@ -1,0 +1,15 @@
+--------------------similar_words:五色塚古墳--------------------
+top3 entities near to cluster0>>
+古墳, 遺跡, 塚
+top3 entities near to cluster2>>
+駅, 景色, 景観
+top3 entities near to cluster9>>
+森畑, 森, 松林
+top3 entities near to cluster10>>
+古墳, 遺跡, 墳墓
+top3 entities near to cluster13>>
+展示, 写真, 眺め
+top3 entities near to cluster17>>
+見学, 資料, 館
+top3 entities near to cluster18>>
+時代

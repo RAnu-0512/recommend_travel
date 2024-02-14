@@ -1,0 +1,13 @@
+--------------------similar_words:出石城山ガーデン--------------------
+top3 entities near to cluster1>>
+そば打ち, 体験, そば
+top3 entities near to cluster2>>
+体験, 作業
+top3 entities near to cluster4>>
+蕎麦, そば, 薬味
+top3 entities near to cluster5>>
+美味, 味見
+top3 entities near to cluster6>>
+焼肉店, 店舗, 焼肉
+top3 entities near to cluster10>>
+そば, 食べ, 蕎麦

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:関帝廟>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+異人館街, 元町中華街, 中華街, 神戸中華街, 横浜中華街
+cluster1:(4)
+関帝像, 英雄関羽, 関帝廟, 関羽
+cluster2:(6)
+価値, 様式, 建物, 意匠, 建築, 建築物
+cluster3:(4)
+境内, 参拝, 本尊, 寺
+cluster4:(2)
+門, 廟
+cluster5:(6)
+神戸, 台湾, 中国, 日本, 神, 山手
+cluster6:(2)
+顔, 写真
+cluster7:(3)
+感じ, なか, 中
+cluster8:(4)
+そのもの, エキゾチック, パーキング, まわり
+cluster9:(2)
+雰囲気, 関わり
+cluster10:(1)
+パネル
+cluster11:(1)
+中心地
+cluster12:(3)
+場所, 人, 近く
+cluster13:(4)
+三国志, 船, 商売, 三国志ファン
+cluster14:(8)
+一角, 閑散, 復興, 県庁, 休憩スペース, 町, 山側, 徒歩
+cluster15:(11)
+等身大, 異文化, 日本三大チャイナタウン, 阪神淡路大震災, 本格中華, 手水舎, 飲食店, 南京町, 観光客, 住宅街, 兵庫県
+
+howmany entities : 66
+howmany clusters : 16
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 11
+deleted 8entities.

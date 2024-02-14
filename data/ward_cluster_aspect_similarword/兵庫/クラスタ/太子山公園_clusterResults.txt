@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太子山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+公園, 頂上, 機関車, 平地, 聖徳太子
+cluster1:(2)
+像, 世代
+cluster2:(1)
+太子町
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

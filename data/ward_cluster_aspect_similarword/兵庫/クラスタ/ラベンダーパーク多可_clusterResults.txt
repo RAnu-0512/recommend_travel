@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ラベンダーパーク多可>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+山奥, 食堂, ラベンダー園, 園内, 喫茶, 施設
+cluster1:(5)
+坂, 山, 丘, 眺望, 斜面
+cluster2:(2)
+澄ん, 空気
+cluster3:(4)
+香り, 量, 種類, ラベンダー色
+cluster4:(15)
+冷蔵庫, おすすめ, 気持ち, モノ, ごはん, 上, ラベンダー, ほう, シーズン, ショップ, 機械, 森林浴, 雰囲気, タイプ, 摘み取り
+cluster5:(7)
+ご飯, 運動靴, かけごはん, 卵, 醤油, かけご飯, ごはん亭
+cluster6:(1)
+西日本最大級
+cluster7:(4)
+食べ放題, 卵かけごはん定食, 卵かけご飯, ごはん食べ放題
+
+howmany entities : 44
+howmany clusters : 8
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 6
+deleted 3entities.

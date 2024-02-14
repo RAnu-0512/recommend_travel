@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出石史料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ボリューム, スポット, 人, おすすめ
+cluster1:(3)
+資料, 展示, 歴史
+cluster2:(1)
+観光合間
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 1entities.

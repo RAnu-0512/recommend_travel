@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥飼八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+機会, 人出
+cluster1:(4)
+秋祭り, 淡路島, 祭り, 神社
+cluster2:(2)
+時代, 歴史
+cluster3:(2)
+場所, 建物
+cluster4:(1)
+風格
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 7entities.

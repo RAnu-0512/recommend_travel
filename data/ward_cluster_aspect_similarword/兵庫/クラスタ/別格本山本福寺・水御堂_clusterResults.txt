@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:別格本山本福寺・水御堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三洋電機創業者, 創業者
+cluster1:(2)
+安藤忠雄, 安藤
+cluster2:(4)
+製品, 設計, 建物, 建築
+cluster3:(4)
+墓, 地下, 坂道, 高台
+cluster4:(2)
+一見, 価値
+cluster5:(5)
+大阪湾, SANYO, コンクリート, 日本, 淡路島
+cluster6:(2)
+場所, 方
+cluster7:(1)
+光
+cluster8:(1)
+カメラ小僧
+cluster9:(1)
+感慨
+cluster10:(7)
+本尊, 御堂, 本堂, 寺, 堂, 蓮池, 水御堂
+cluster11:(1)
+拝観料
+cluster12:(1)
+本福寺水御堂
+
+howmany entities : 33
+howmany clusters : 13
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 13entities.

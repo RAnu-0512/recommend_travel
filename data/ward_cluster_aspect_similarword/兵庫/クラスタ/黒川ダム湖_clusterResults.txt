@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒川ダム湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+黒川ダム, 黒川温泉, 温泉場, 温泉
+cluster1:(2)
+湖, ダム湖
+cluster2:(2)
+ダム, ダム下
+cluster3:(2)
+下部ダム, 上部ダム
+cluster4:(1)
+良木ダム
+cluster5:(15)
+上流, 電力需要, 景色, 余剰電力, スポット, 石, 自動車, 夜間, 道, 水, 高低差, ロックフィルダム, 昼間, 揚水, タービン
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 7entities.

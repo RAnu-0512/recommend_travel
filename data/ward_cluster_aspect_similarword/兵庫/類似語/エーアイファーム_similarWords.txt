@@ -1,0 +1,21 @@
+--------------------similar_words:エーアイファーム--------------------
+top3 entities near to cluster0>>
+猪, 熊, 鹿
+top3 entities near to cluster1>>
+砂利, 斜面
+top3 entities near to cluster2>>
+イチゴ, 苺, いちご
+top3 entities near to cluster3>>
+子供, 家族
+top3 entities near to cluster4>>
+トイレ, ハサミ, エプロン
+top3 entities near to cluster9>>
+受付, 共用, 対応
+top3 entities near to cluster11>>
+相性, 酸味, 愛想
+top3 entities near to cluster12>>
+時間, 練乳
+top3 entities near to cluster13>>
+芋, ほり, さつまいも
+top3 entities near to cluster14>>
+狩り, 狩る, 狩っ

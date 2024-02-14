@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 とうじょう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+土産処, 野菜売場, 食事処, 特産品, 朝イチ野菜, 駐車場
+cluster1:(2)
+加東市, 東条インター
+cluster2:(16)
+難点, 運, 自分たち, 人, 帰り, 唯一, 規模, 施設, 駅, 週末, 道, 事, 中, 地元, こと, 近く
+cluster3:(4)
+ラーメン屋, 王国, 出店, コンビニ併設
+cluster4:(7)
+ラーメン, ファミリーマート, テレビ, イベント, コンビニエンスストアー, インター, コンビニ
+cluster5:(2)
+ゴーヤ, ブドウ
+cluster6:(1)
+粘り気
+cluster7:(1)
+東条湖
+cluster8:(1)
+山
+cluster9:(1)
+中国
+cluster10:(3)
+黒豆, 野菜, 芋
+
+howmany entities : 44
+howmany clusters : 11
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 8entities.

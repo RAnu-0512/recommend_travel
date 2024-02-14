@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:もちむぎのやかた>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+もち麦麺, 官兵衛麦とろ定食, もちむぎどらやき, もちむぎ麺, もち麦, むぎ, もちむぎ精麦, もちむぎ
+cluster1:(3)
+公園駐車場, 辻川界隈駐車場, 駐車場
+cluster2:(4)
+麺, つゆ, 打ち, 素麺
+cluster3:(25)
+別オーダー, 途中, 鼻, メニュー, 界隈, 病みつき, スタッフ, 妻, ごはん, もの, 北側, レストラン, 食事, ココ, ソフトクリーム, やかた, 昼食, 商品, ちびっこセット, 館, 店内, 子どもたち, 子供, 土産コーナー, 生家
+cluster4:(2)
+特産品, 食感
+cluster5:(2)
+観光, 観光客
+cluster6:(3)
+公園側, 公園, カッパ公園
+cluster7:(6)
+五色麺, 五種麺, 辻川山公園, すじ麺, 柳田国男, 福崎町
+
+howmany entities : 53
+howmany clusters : 8
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 6
+deleted 4entities.

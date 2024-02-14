@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新神戸駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+利用者, 帰省客, 混雑
+cluster1:(3)
+駅弁, 待合スペース, 改札
+cluster2:(2)
+神戸, 三宮
+cluster3:(5)
+外, 時間, 中, こと, 時期
+cluster4:(3)
+川, 平地, 水
+cluster5:(8)
+レストラン, カフェ, 地下鉄, 駅, 新幹線, 土産, 水遊び, スペース
+cluster6:(1)
+お土産屋
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 3entities.

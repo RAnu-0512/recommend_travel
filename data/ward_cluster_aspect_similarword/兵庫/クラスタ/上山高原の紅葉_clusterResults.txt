@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上山高原の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+紅葉, 山頂, 中腹
+cluster1:(4)
+自信, 運転, 方, グラデーション
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 0entities.

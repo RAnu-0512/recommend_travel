@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芦屋公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+整備, 散歩, テニス, 海浜, 河川, 国道, 有料, 遊具, 豪邸, 公園, テニスコート
+cluster1:(3)
+松林, 大木, 阪神
+cluster2:(19)
+白砂青松, 場所, 香り, 気持ち, 北側, スポット, 人, 時間, 方, 南北, 雰囲気, 昔, 木々, 木, こと, 地元, 芦屋川, 海, 対岸
+cluster3:(5)
+ぬえ, 子供たち, 大人, 子ども, 子供
+cluster4:(1)
+北寄り
+cluster5:(2)
+花火大会, 住宅街
+cluster6:(6)
+松並木, 芦屋駅, 芦屋河, 芦屋公園, 芦屋, 松
+
+howmany entities : 47
+howmany clusters : 7
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 5
+deleted 3entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:パインレークゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+ブラインド, イメージ, 初心者レベル, コース, 距離, 強風, 気持ち, 方, ドライバー
+cluster1:(2)
+飛ぶ方, ドライバー使う機会
+cluster2:(1)
+難易度
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 3entities.

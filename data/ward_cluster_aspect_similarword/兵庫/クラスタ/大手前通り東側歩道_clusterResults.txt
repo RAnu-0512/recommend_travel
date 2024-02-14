@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大手前通り東側歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(42)
+通り, 鬱蒼, 途中, 距離, ウォーキング, 北, 道路, 気持ち, 出張, 人, 樹木, 魅力, 姫路城, アクセス, 自転車, ヤマトヤシキ, 東, 実感, 周り, 真正面, 時間, 開放感, 正面, JR, 問題, 道, 城, 歩道, テンション, 工事, ホテル, 一筋東, 百貨店, 雰囲気, 集客, サイド, ぶらぶら歩き, 姫路, 兵庫, 彫刻, 道幅, 写真
+cluster1:(2)
+大手前通り東側歩道, 大手前通り
+cluster2:(2)
+商店街, アーケード商店街
+cluster3:(2)
+駅, 姫路城から駅
+cluster4:(2)
+JR姫路駅, 姫路駅
+cluster5:(2)
+交通量, 観光客
+cluster6:(3)
+東側歩道, 大手前公園, 西側歩道
+cluster7:(1)
+再整備工事
+
+howmany entities : 56
+howmany clusters : 8
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 2
+deleted 11entities.

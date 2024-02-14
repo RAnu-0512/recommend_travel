@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヒガシマル醤油(株)第一工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+予約, 途中, 出張先, 方々, 帰り, ヒガシマル, 醤油
+cluster1:(3)
+工場見学, 住宅街, 工場
+cluster2:(1)
+本竜野駅
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 1entities.

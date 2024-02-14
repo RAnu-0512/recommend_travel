@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸ムスリムモスク(回教寺院)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+神戸, 神戸三宮, 神戸ムスリムモスク, 三宮駅, 北野工房のまち, 元町駅, ルミナス神戸, 阪神・淡路大震災, 生田神社
+cluster1:(2)
+姿, 間近
+cluster2:(7)
+感じ, もの, 邪魔, 方, 気, こと, へん
+cluster3:(3)
+説明, 見学, 受付
+cluster4:(2)
+建物, 外観
+cluster5:(2)
+所, 場所
+cluster6:(22)
+右手, 北, モチベーション, 北側, イスラム, 人, ミナレット, イスラム文化, モスク, アラビアン, 歴史, アジア, バス, 見ごたえ, 東側, コーラン, 日本, 戦災, 中, 女性, 雰囲気, 新年最初
+cluster7:(10)
+祈り, 教会, 信仰者, 寺院, 二階席, 礼拝, 礼拝室, イスラム建築特有, 観光客, 教会系
+
+howmany entities : 57
+howmany clusters : 8
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 5
+deleted 6entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸体験工房和ろうそくkobe>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+和ろうそく, オリジナル和ロウソク
+cluster1:(5)
+友達, 子供達, 北野小学校, 大人, 子供
+cluster2:(27)
+スプレー, ろうそく, 香り, 絵, アロマ, ポイント, アロマスプレー, 消化, おすすめブレンド, 気持ち, もの, アドバイス, 好み, 作業時間, アロマスプレー作り, 奥, 匂い, オイル, 色, アロマオイル, 方, 店内, 中, 店, こと, ロウソク, 体験
+
+howmany entities : 34
+howmany clusters : 3
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ありなしファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+苺, 苺購入, 家族全員いちご狩り, いちご狩り
+cluster1:(2)
+子供たち, 子どもたち
+cluster2:(14)
+友達, 車, 帰り, 椅子, 大人, 息子, 女性, 子ども, 隣, 家族, 男性, 子供, 土産, 近く
+cluster3:(13)
+スタッフ, 手洗い, 選び方, カフェ, シーズン, ビニールハウス, トイレ, オススメ, いちご, 雰囲気, 打ち所, ファーム, ハウス
+cluster4:(4)
+感じ, 説明, 方, こと
+cluster5:(4)
+種類, 時間, 中, 時期
+cluster6:(3)
+笑顔, 口, 瞬間いちご
+cluster7:(1)
+良さ
+cluster8:(9)
+清潔感, ♪非, 兵庫県, 食べ応え, 制限時間, 公園, 大きさ, 遺跡公園, 駐車場
+
+howmany entities : 54
+howmany clusters : 9
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 7
+deleted 3entities.

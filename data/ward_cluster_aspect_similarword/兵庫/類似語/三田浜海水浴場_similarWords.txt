@@ -1,0 +1,9 @@
+--------------------similar_words:三田浜海水浴場--------------------
+top3 entities near to cluster0>>
+子供連れ, つれ, 子供
+top3 entities near to cluster2>>
+温水, 海水, 真水
+top3 entities near to cluster3>>
+砂浜, 海水浴, 浜辺
+top3 entities near to cluster7>>
+駐車場, 駐車, 浜

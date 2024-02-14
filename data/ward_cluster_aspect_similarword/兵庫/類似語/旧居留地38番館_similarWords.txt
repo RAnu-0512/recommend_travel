@@ -1,0 +1,21 @@
+--------------------similar_words:旧居留地38番館--------------------
+top3 entities near to cluster0>>
+居留地, 居留, 植民地, 植民
+top3 entities near to cluster1>>
+外観, 建物, 写真
+top3 entities near to cluster6>>
+隣人, 隣, 隣り
+top3 entities near to cluster8>>
+ショップ, カフェ, ブランド
+top3 entities near to cluster9>>
+街並み, 町並み, 石造り
+top3 entities near to cluster11>>
+ティー, タイム, アフタヌーン
+top3 entities near to cluster12>>
+雑貨店, 店舗, 雑貨
+top3 entities near to cluster14>>
+周遊, 旅, 宿泊
+top3 entities near to cluster15>>
+時間, 徒歩
+top3 entities near to cluster16>>
+情緒, 異国, 情勢

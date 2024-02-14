@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本興寺(兵庫県尼崎市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+尼崎, 所, 人, 大本山み, 法華宗, 寺, 文化財, 真言宗, 歴史
+cluster1:(2)
+開山堂, 三国堂
+cluster2:(1)
+(^ ^)法華宗
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 3entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かすみパドルモンキー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+冒険気分, 指導頂き, カヤック初体験, 体験, 家族旅行
+cluster1:(6)
+波, 岩, 香住, 洞門, 洞窟, 海
+cluster2:(2)
+天気, 天候
+cluster3:(3)
+カヌー, パドル, カヤック
+cluster4:(4)
+使い方, ところ, 気持ち, 思い出
+cluster5:(2)
+ドローン, カメラ
+cluster6:(4)
+スタッフ, インストラクター, シーカヤック, ツアー
+cluster7:(2)
+テント, 着替え
+cluster8:(1)
+コロナ
+cluster9:(17)
+途中, 全員, 説明, 景色, GW, 車, 目, 間, 声, 時間, 今回, 方, 最後, 興味, 家族, こと, 写真
+cluster10:(1)
+至れり尽くせり
+
+howmany entities : 47
+howmany clusters : 11
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 6
+deleted 8entities.

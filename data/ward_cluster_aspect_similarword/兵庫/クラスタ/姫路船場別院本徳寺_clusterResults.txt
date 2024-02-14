@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路船場別院本徳寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小さな楽市, 楽市
+cluster1:(9)
+姫路駅, 捕虜, 時間, 人, ドイツ, 屋根, 姫路城, 本堂, 距離
+cluster2:(1)
+姫路船場別院本徳寺
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 3entities.

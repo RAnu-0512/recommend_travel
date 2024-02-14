@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹野スノーケルセンター・ビジターセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+洞窟体験, カヌー体験, シュノーケル体験, 体験アクティビティ, 体験
+cluster1:(7)
+海, 波, 磯観察, 岩, 魚, さかり岩, カニ
+cluster2:(2)
+展示, 展示物
+cluster3:(3)
+人, 人たち, 方々
+cluster4:(3)
+夏, 冬場, 館内
+cluster5:(14)
+ボリューム, スタッフ, カヌー, スポット, 人気, 初心者, 見ごたえ, 眺め, 時間, 近く, ジオラマ, シュノーケリング, こと, 目的
+cluster6:(1)
+観光客
+
+howmany entities : 35
+howmany clusters : 7
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 5
+deleted 3entities.

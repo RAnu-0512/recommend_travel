@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クーカイ(Kukahi)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+沖, 常備, 海
+cluster1:(2)
+指導, 手厚いサポート
+cluster2:(2)
+体験, 経験
+cluster3:(1)
+感激
+cluster4:(1)
+技
+cluster5:(19)
+高校生, スタッフ, サップ, 母, SUP, レクチャー, サポート, 中学生, レベル, レース, シャンプー, ロッカー, シャワー, 父, ラウンジ, フォロー, 子供, 小学生, 必死
+cluster6:(3)
+子供達, サンセットSUP, 親達
+cluster7:(1)
+温水シャワー
+cluster8:(1)
+漕ぎ方
+cluster9:(2)
+大満足◎, 明石大橋
+cluster10:(1)
+駐車場代
+
+howmany entities : 36
+howmany clusters : 11
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 3
+deleted 11entities.

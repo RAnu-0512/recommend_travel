@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本住吉神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+神社, だんじり祭り, 境内, 鳥居, 本殿
+cluster1:(13)
+エリア, 神戸, 砂地, 人, 車, 下, 南, 跡, 神, 雰囲気, 地元, だんじり, 海
+cluster2:(2)
+国道, 海運
+cluster3:(3)
+徒歩圏, JR住吉駅, 進入可
+cluster4:(1)
+東灘・芦屋
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 3entities.

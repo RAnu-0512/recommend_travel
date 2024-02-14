@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路市立津名温水プール(カッパ天国)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+値段, 人, オススメスポット, ツール, 近く
+cluster1:(2)
+兵庫県, 淡路市
+cluster2:(1)
+室内温水プール
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

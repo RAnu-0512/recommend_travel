@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:総合公園(ふれあい公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+猪名川町, 人, バトミントン, 図書館, サイクリング, 各々, 中心地, 隣, イオン
+cluster1:(5)
+芝生, 公園, 斜面, BBQ広場, 雑草
+cluster2:(3)
+ボール遊び, 天気, 体育館もの
+cluster3:(1)
+総合公園
+cluster4:(2)
+駐車場, コーヒーもってふれあい公園
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 3entities.

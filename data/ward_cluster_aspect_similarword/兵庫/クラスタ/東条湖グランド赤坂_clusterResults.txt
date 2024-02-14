@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東条湖グランド赤坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遊覧船, 遊覧
+cluster1:(3)
+漬け物, 安心感, 赤だし
+cluster2:(10)
+乳児, 休日, 日帰り旅行, 私達, 客, 大人, 息子, 家族, 子供, 夫婦
+cluster3:(2)
+ホテル, プラン
+cluster4:(5)
+ボリューム, ベビーキャリー, テーブル, 小学生, スペース
+cluster5:(1)
+コロナ
+cluster6:(5)
+屋形船, 揚げたて, もずく, サラダ, 天ぷら
+cluster7:(1)
+東条湖
+cluster8:(2)
+黒豆, 電動
+cluster9:(3)
+景色, 風情, 外観
+cluster10:(6)
+感じ, 人, 笑, 影響, 方, 時期
+cluster11:(5)
+乗船, レジ, 対応, 到着, 案内
+cluster12:(20)
+味, 食後テレビ, 外食, 部屋, ご飯, 食事, 掃除, 茶碗, 個室, 刺身, 小鉢, 客室, 食事部屋, 料理, 窓側, 階段, 廊下, きつねうどん, おかわり, 肉
+cluster13:(1)
+レトロ感
+
+howmany entities : 66
+howmany clusters : 14
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 8
+deleted 9entities.

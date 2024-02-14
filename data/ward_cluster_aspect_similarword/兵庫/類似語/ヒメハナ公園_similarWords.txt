@@ -1,0 +1,9 @@
+--------------------similar_words:ヒメハナ公園--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 家族
+top3 entities near to cluster1>>
+遊具, 設備, 修理
+top3 entities near to cluster2>>
+滑り台, すべり台, 遊具
+top3 entities near to cluster7>>
+公園, 親水, 駐車

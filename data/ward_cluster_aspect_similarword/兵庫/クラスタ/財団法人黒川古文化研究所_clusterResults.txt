@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:財団法人黒川古文化研究所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+時間, スポット, 人, 春季, 観光スポット, 閲覧コーナー, 勉強, 歴史, 見ごたえ, フリードリンクコーナー, オススメ
+cluster1:(3)
+収蔵品, 展示品, 名品展
+cluster2:(1)
+財団法人黒川古文化研究所
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

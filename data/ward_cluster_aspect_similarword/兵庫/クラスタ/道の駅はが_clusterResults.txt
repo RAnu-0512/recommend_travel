@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅はが>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+パン工房, 物産館, 農産物直売所
+cluster1:(2)
+鳥取道, 鳥取
+cluster2:(2)
+梨サイダー, 梨
+cluster3:(2)
+駅, 道
+cluster4:(5)
+商品, レストラン, 雰囲気, ロマン, チーズケーキ
+cluster5:(1)
+湯
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 7entities.

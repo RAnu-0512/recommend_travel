@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立円山川公苑スケートリンク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 芝生
+cluster1:(5)
+スケート, 屋外, 人, 家族, スケートリンク
+cluster2:(1)
+兵庫県立円山川公苑
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

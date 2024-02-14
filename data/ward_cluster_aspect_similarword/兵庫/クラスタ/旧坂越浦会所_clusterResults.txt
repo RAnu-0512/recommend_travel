@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧坂越浦会所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+坂越湾, 赤穂市, 藩主専用, 浦会所, 観海楼, 坂越, 赤穂藩, 会所
+cluster1:(18)
+庭, 場所, あちこち, 部屋, 事務, 行政, 音, 風鈴, 建物, 茶屋, 殿様, 絨毯, 昔, 港町, 商業, 気分, 祭り, 海
+cluster2:(2)
+資料展示場, 観光案内所
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハウジングデザインセンター神戸(HDC)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+感じ, 場所, 引っ越し先, 夢, 場合, 笑, 目, 家, 週末, 事, 予定, 子供, 参考
+cluster1:(20)
+イメージ, ところ, センター, 風呂, こだわり, HDC, カフェ, イベント, キッチン, ショールーム, セルフ, デザイン, ハウジング, スタンプラリー, リフォーム, トイレ, メーカー, インテリアショップ, 大阪ガス, クッキングスクール
+cluster2:(13)
+新築, インテリア系, 住宅設備, 車, バス, 家具, 神戸駅, JR, 駅, ビル, 設備, 内装, 住宅
+cluster3:(3)
+水回り, 大手量販店, 水回り系
+
+howmany entities : 49
+howmany clusters : 4
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 4
+deleted 0entities.

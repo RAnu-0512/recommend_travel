@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江埼灯台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+洋式灯台, 灯台
+cluster1:(2)
+江崎公園, 江崎
+cluster2:(2)
+森, 海
+cluster3:(7)
+モニュメント, 明石海峡大橋, 明石海峡, 中, 淡路島, こと, ドライバー
+cluster4:(9)
+案内モニュメント, 北側, 建物, 側, 白色, 看板, 階段, 背, 本体
+cluster5:(1)
+明治
+cluster6:(1)
+上部
+cluster7:(4)
+写真, 休憩スポット, 紹介写真, 県道
+cluster8:(1)
+駐車場
+cluster9:(2)
+江埼灯台, 緑のみちしるべ
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 11entities.

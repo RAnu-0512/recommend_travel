@@ -1,0 +1,11 @@
+--------------------similar_words:奥神鍋スキー場--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 満車
+top3 entities near to cluster1>>
+降雪, 積雪
+top3 entities near to cluster2>>
+コース, 山頂, 中腹
+top3 entities near to cluster3>>
+上級, 中級, 初級
+top3 entities near to cluster4>>
+リフト券, フリーパスチケット, リフト

@@ -1,0 +1,29 @@
+--------------------similar_words:池本農園--------------------
+top3 entities near to cluster0>>
+駐車, 時間
+top3 entities near to cluster2>>
+イチゴ, 苺, いちご
+top3 entities near to cluster4>>
+予約, 受付, 申込
+top3 entities near to cluster6>>
+土産, 旅, 気分
+top3 entities near to cluster7>>
+時間数, 時間
+top3 entities near to cluster11>>
+状況, 時期, 日々
+top3 entities near to cluster12>>
+対応, 到着, 開始
+top3 entities near to cluster17>>
+トイレ, ハサミ, 食べ物
+top3 entities near to cluster18>>
+スタッフ, パック, シーズン
+top3 entities near to cluster22>>
+態度, 愛想, 物腰
+top3 entities near to cluster23>>
+人達, 口々, 大勢
+top3 entities near to cluster24>>
+奥道, 通路, 奥
+top3 entities near to cluster25>>
+息子, 子供, 家族
+top3 entities near to cluster26>>
+男性, 女性, 男女

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥勒寺(兵庫県姫路市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+秩父三十四観音, 西国三十三, 坂東三十三観音
+cluster1:(3)
+弥勒菩薩坐像@重文, 大妙相菩薩@重文, 本堂@重文
+cluster2:(2)
+上人, 寺
+cluster3:(2)
+石像, 観音
+cluster4:(7)
+もの, 弥勒寺, 間, 奥, 日本, 大黒天, 最後
+cluster5:(2)
+紅葉スポット, 公園
+cluster6:(1)
+本堂左
+cluster7:(1)
+札所
+cluster8:(3)
+圓教寺, 上人像, 弥勒三尊
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 8entities.

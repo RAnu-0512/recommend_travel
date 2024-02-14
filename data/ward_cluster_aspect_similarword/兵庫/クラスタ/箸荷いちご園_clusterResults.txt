@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:箸荷いちご園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+イチゴ, 時間, いちご, 道具, 子供
+cluster1:(4)
+感じ, 雰囲気, 香り, 印象
+cluster2:(1)
+いちご狩り
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:栗拾い(乙原観光園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+三田駅, 三田牛コース, 三田牛, 三田, 三田プレミアム
+cluster1:(7)
+甘栗, 栗拾い, クリ, クリご飯, 皮, クリ拾い, 栗
+cluster2:(6)
+お子さん連れ, 子供たち, 大人, 家族みんな楽しん, 子供, 親子
+cluster3:(2)
+値段, 料金
+cluster4:(2)
+人, 他
+cluster5:(6)
+アウトレット, スポット, 我が家, 加古川, キャンプ, お気に入り
+cluster6:(1)
+気
+cluster7:(1)
+時間
+cluster8:(4)
+自然, 喜び, 森, 夜ごはん
+cluster9:(3)
+観光農園, 森自然公園, 農園
+
+howmany entities : 37
+howmany clusters : 10
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 6
+deleted 6entities.

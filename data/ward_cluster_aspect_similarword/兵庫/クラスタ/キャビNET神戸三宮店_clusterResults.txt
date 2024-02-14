@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キャビNET神戸三宮店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+無し, デスクトップPC, ノートPC, パソコン有, PC, PC無し, PC有部屋, パソコン無し
+cluster1:(3)
+店員, 女性店員, 男性店員
+cluster2:(6)
+防音, 部屋, 暖房, 個室, シャワー室, 廊下
+cluster3:(26)
+愛想, 料金, 説明, ブランケット, ノーパソ, 人, 口コミ, フロント付近, 掃除, パソコン, お気, 洗面所, 目線, 埃, システム, 匂い, 無愛想, 方, 女性, 男性, 受付, ふり, 名前, 仕事, スペース, 上
+cluster4:(3)
+利用者, 利用, 清潔さ
+cluster5:(1)
+衛生面
+cluster6:(1)
+芳香剤
+
+howmany entities : 48
+howmany clusters : 7
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 5
+deleted 2entities.

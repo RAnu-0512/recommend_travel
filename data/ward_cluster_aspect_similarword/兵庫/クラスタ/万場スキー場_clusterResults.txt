@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:万場スキー場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+滑走者, 圧雪
+cluster1:(5)
+思い, 付近, 移動, 共通, 記載
+cluster2:(3)
+ファミリーゲレンデ, ゲレンデ, リフト
+cluster3:(4)
+初心者, パンフレット, ホームページ, コース
+cluster4:(1)
+センターホールゲレンデ
+cluster5:(1)
+雪
+cluster6:(4)
+上部, リフト側, 搬器, 斜面
+cluster7:(1)
+リフト券
+cluster8:(5)
+奥神鍋スキー場, 奥神鍋, 休憩所, 鍋スキー場, 駐車場
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 5entities.

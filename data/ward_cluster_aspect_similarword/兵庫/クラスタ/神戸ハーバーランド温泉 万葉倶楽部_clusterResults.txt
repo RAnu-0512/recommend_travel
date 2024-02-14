@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸ハーバーランド温泉 万葉倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神戸, 三宮
+cluster1:(4)
+タオル, サウナ, 水風呂, リラックスルーム
+cluster2:(13)
+メニュー, ポイント, 露天風呂, 期限切れ, リモコン, 気持ち, スリッパ, チェックアウト, テレビ, エレベーター, リラクゼーション, リピート, 貸し出し
+cluster3:(2)
+フロア, プラン
+cluster4:(2)
+日帰り, 手ぶら
+cluster5:(1)
+ベ
+cluster6:(11)
+感じ, もの, 人, 目, 利用, 次, 床, 方, 気, 端, 風
+cluster7:(6)
+支度, ご飯, 食事, 掃除, 料理, 御膳
+cluster8:(2)
+タオルバス, 送迎
+cluster9:(2)
+足湯, 温泉
+cluster10:(2)
+風呂, 入浴
+cluster11:(1)
+卓球
+cluster12:(1)
+裸足
+cluster13:(1)
+婦人専用
+cluster14:(14)
+映画, 場所, 景色, 上映, 客, 入館手続き, 夜景, 時間, 温度, 施設, 展望, 屋上, 受付, 館内
+cluster15:(1)
+埃だらけ
+cluster16:(5)
+岩盤浴, 休憩所, 時間帯, 食事処, 滞在時間
+
+howmany entities : 70
+howmany clusters : 17
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 6
+deleted 17entities.

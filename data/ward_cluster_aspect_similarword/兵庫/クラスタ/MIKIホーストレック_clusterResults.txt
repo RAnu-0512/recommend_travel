@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MIKIホーストレック>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+積雪, 天気
+cluster1:(2)
+馬, 乗馬
+cluster2:(15)
+スタッフ, 作成, 話, インストラクター, 久しぶり, 初心者, 森, 年賀状, 方, 森林浴, 中, 女性, コース, 体験, 写真
+cluster3:(1)
+子供連れ
+cluster4:(1)
+寒波襲来
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 6entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キングスロードゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レギュラーティ, フェアウエー
+cluster1:(1)
+スタンス
+cluster2:(1)
+コース
+cluster3:(1)
+コスパ
+cluster4:(1)
+気
+cluster5:(1)
+ラフ
+cluster6:(1)
+距離
+cluster7:(1)
+ファウェイ
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

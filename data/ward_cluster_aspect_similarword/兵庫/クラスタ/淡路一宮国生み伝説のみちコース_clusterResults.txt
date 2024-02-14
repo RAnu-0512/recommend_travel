@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路一宮国生み伝説のみちコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+価値, 俵石, 夫婦松, 先, 滝, 夫婦岩, 岩, 景色, 夫婦滝
+cluster1:(2)
+草香八幡神社, 智禅寺
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

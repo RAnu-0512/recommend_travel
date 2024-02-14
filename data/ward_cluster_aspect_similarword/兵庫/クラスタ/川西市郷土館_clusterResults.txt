@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川西市郷土館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, イベント
+cluster1:(1)
+近く
+cluster2:(1)
+場所
+cluster3:(1)
+家
+cluster4:(1)
+住宅
+cluster5:(1)
+国登録有形文化財
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

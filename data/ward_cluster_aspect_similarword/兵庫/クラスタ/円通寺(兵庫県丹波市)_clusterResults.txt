@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円通寺(兵庫県丹波市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+丹波紅葉三山, 杉の木
+cluster1:(2)
+薬師如来坐像, 釈迦如来坐像
+cluster2:(7)
+もみじまつり, 紅葉時期, 休み広場, 季節, 紅葉, しお茶, 時期
+cluster3:(5)
+時代, 末期, 鎌倉, 平安, 天皇
+cluster4:(2)
+池, 鯉
+cluster5:(2)
+野菜, 出店
+cluster6:(2)
+食べ物, 生き物
+cluster7:(5)
+恵心僧都, サービス, シーズン, 紅葉狩り, 見どころ
+cluster8:(1)
+後醍醐
+cluster9:(1)
+人
+cluster10:(1)
+現地
+cluster11:(5)
+左側, 作, 人気, 予定, 元気
+cluster12:(7)
+境内, 本尊, 寺, 本堂, 脇侍, 功徳, 僧
+cluster13:(4)
+餌やり, 餌, 入山料, 駐車場
+
+howmany entities : 46
+howmany clusters : 14
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 6
+deleted 13entities.

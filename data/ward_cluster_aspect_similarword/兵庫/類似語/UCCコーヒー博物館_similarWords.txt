@@ -1,0 +1,31 @@
+--------------------similar_words:UCCコーヒー博物館--------------------
+top3 entities near to cluster1>>
+喫茶店, カフェ, レストラン
+top3 entities near to cluster4>>
+テイスティング, ティスティング, ラテアート
+top3 entities near to cluster5>>
+イベント, スタッフ, コーナー
+top3 entities near to cluster8>>
+こだわり, おすすめ, オススメ
+top3 entities near to cluster10>>
+デザイン, アレンジ, 作り方
+top3 entities near to cluster12>>
+世界, 文化, 国々
+top3 entities near to cluster16>>
+友達, 会社
+top3 entities near to cluster19>>
+風味, 甘み
+top3 entities near to cluster20>>
+博士, 称号
+top3 entities near to cluster21>>
+専門, 専用
+top3 entities near to cluster22>>
+コーヒー, エスプレッソ, 珈琲
+top3 entities near to cluster25>>
+展示, 見学, 試飲
+top3 entities near to cluster28>>
+駅, 下車, 徒歩
+top3 entities near to cluster29>>
+博物, 科学, 博物館
+top3 entities near to cluster32>>
+珈琲, コーヒー, 煎

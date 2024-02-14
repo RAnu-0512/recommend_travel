@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あさご芸術の森美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+作品展示, フィギュア展, 常設展示, 作品群, 屋内展示, 企画展, 屋内展示施設, 展示物, 展示
+cluster1:(3)
+現代美術, 美術アート, 美術作品
+cluster2:(2)
+彫刻家, 彫刻
+cluster3:(2)
+野外彫刻展示, 野外彫刻
+cluster4:(1)
+文勲彫刻家
+cluster5:(3)
+朝来市, 良木ダム, 兵庫県
+cluster6:(13)
+場所, 記念, 作品, あちこち, 絵, もの, 人, フォルム, メイン, オブジェ, 方, 美術館, こと
+cluster7:(2)
+出身, 直下
+cluster8:(1)
+寡聞
+cluster9:(14)
+桜, 外, 野外, 緑, 自然, ダム, 森美術館, 道路脇, 紅葉, 春, 秋, 県政, 庭園, 山々
+cluster10:(2)
+躍動感, 海洋堂
+cluster11:(1)
+淀井敏夫
+
+howmany entities : 53
+howmany clusters : 12
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 5
+deleted 11entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝塚アン花のみち店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+入口, 店内, 店
+cluster1:(2)
+セール, ワゴン
+cluster2:(12)
+ポストカ, タカラジェンヌ, ショッピングセンター, グッズ, ファン, スター, パンフレット, グラフ, 雰囲気, DVD, ビデオ, カレンダー
+cluster3:(12)
+手, 生徒, もの, 人, 花, 中古, 種類, 商品, 書籍, 物, 近く, 写真
+cluster4:(5)
+観劇, 南フランス風, 劇場, 公演前後, CD.
+cluster5:(5)
+みちセルカ, 宝塚グッズ, 宝塚, 宝塚ファン, 宝塚大
+
+howmany entities : 39
+howmany clusters : 6
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 5
+deleted 2entities.

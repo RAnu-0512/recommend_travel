@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Renca>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+コツ, 方法, 興味, こと
+cluster1:(15)
+味, コーヒー, 人, 柔軟性, 初心者レッスン, テキスト, 初心者, 教室, オーナー, 交代, 雰囲気, 店, 自宅, 体験, 夫婦
+cluster2:(1)
+コーヒー豆
+cluster3:(1)
+清潔感
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 2entities.

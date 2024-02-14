@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ほろ酔い城下蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+試飲, 酒蔵, 酒蔵見学, 有料試飲, にごり梅酒, 仕込場
+cluster1:(3)
+様子, 跡, 見学
+cluster2:(7)
+城下町, おすすめ, 典型, 酒, 前, 日本, 国
+cluster3:(2)
+建物, 建築
+cluster4:(2)
+店舗, 商品
+cluster5:(2)
+場所, 施設
+cluster6:(2)
+篠山城下町, 江戸中期
+cluster7:(4)
+鳳鳴酒造, 中央商店街, 市立歴史美術館, 有形登録文化
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 8entities.

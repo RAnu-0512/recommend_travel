@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江井(線香の町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+線香工場見学, 線香作り, 線香臭, 線香
+cluster1:(10)
+地区, 江井, ところ, 淡路島, 香り, 車, 他, 兵庫県, 町, ら辺一帯
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

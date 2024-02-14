@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Dive Resort T-style>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+人, 利用者, 人たち
+cluster1:(10)
+予約, スタッフ, 人気, こと, アクティビティ体験, 体験, ダイビング, 海, ビーチ, 夏休み
+cluster2:(1)
+観光客
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

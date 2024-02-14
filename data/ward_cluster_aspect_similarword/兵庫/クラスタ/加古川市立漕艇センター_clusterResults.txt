@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加古川市立漕艇センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+フレンドリー, 場所, スタッフ, 自転車, 高校, ボート
+cluster1:(2)
+ボート競技, ボート部
+cluster2:(1)
+宿泊施設
+cluster3:(1)
+加古川市立漕艇センター
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

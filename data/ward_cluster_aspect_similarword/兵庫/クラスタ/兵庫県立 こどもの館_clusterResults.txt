@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立 こどもの館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宿泊型児童館, 児童館
+cluster1:(22)
+星, 製作, 景色, 遊び場, 坂, 部屋, 子, おもちゃ, 広場, 車, 楽楽, バス, ボールプール, 建物, 山道, 館, 外観, 建築, 子ども, 間違い, 木, 小学生
+cluster2:(7)
+幼児, 遊び, 子供たち, 昔遊び, 大人, 遊具, 子供
+cluster3:(2)
+安藤忠雄, 姫路市
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 4entities.

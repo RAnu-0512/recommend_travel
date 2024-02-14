@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR新神戸駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新神戸駅, 神戸三宮駅
+cluster1:(4)
+山, 地下鉄, 東海道新幹線, 新幹線
+cluster2:(4)
+場所, 全て, 必要, 近く
+cluster3:(1)
+神戸
+cluster4:(1)
+距離
+cluster5:(5)
+新幹線発着, 三ノ宮駅, 切符, JR, 駅
+cluster6:(3)
+登り坂, 改札口, 在来線
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 4entities.

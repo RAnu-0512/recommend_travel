@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:氷ノ山国際スキー場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スキー場, 駐車場
+cluster1:(2)
+日帰り, 子連れ
+cluster2:(3)
+ところ, コース, 初心者
+cluster3:(2)
+急斜面, リフト
+cluster4:(1)
+人
+cluster5:(1)
+道
+cluster6:(1)
+売り
+cluster7:(1)
+リフト料金
+cluster8:(1)
+一枚バーン
+cluster9:(2)
+兵庫県, 登行リフト
+
+howmany entities : 16
+howmany clusters : 10
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 13entities.

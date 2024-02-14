@@ -1,0 +1,87 @@
+--------------------similar_words:神戸みなと温泉 蓮--------------------
+top3 entities near to cluster1>>
+利用, 利用者, 使用者, 使用
+top3 entities near to cluster3>>
+確認, 対応, 記載
+top3 entities near to cluster5>>
+満喫, 景色, 寛ぎ
+top3 entities near to cluster6>>
+炭酸泉, 水風呂, リファ
+top3 entities near to cluster7>>
+ドライヤー, アイロン, タオル
+top3 entities near to cluster8>>
+カレー, おでん, ビール
+top3 entities near to cluster9>>
+日帰り, 夏休み, 春休み
+top3 entities near to cluster10>>
+雰囲気, 気持ち, 見応え
+top3 entities near to cluster11>>
+サービス, スタッフ, ポイント
+top3 entities near to cluster12>>
+レストラン, 喫茶店, カフェ
+top3 entities near to cluster13>>
+シャワーヘッド, クルクルドライヤー, アイマッサージ
+top3 entities near to cluster21>>
+使い捨て, リピート, リピ
+top3 entities near to cluster23>>
+ランチ, ビュッフェ, バイキング
+top3 entities near to cluster25>>
+日, 時間, 夕方
+top3 entities near to cluster27>>
+室内, 部屋, 自宅
+top3 entities near to cluster28>>
+横, 上段, 下段
+top3 entities near to cluster30>>
+女性, 男性, 母親
+top3 entities near to cluster31>>
+海船, 港船, 海, 港
+top3 entities near to cluster32>>
+プール, パーク, ショー
+top3 entities near to cluster35>>
+カフェ, スペース, ラウンジ
+top3 entities near to cluster36>>
+ソファ, ソファー, チェア
+top3 entities near to cluster38>>
+コテ, 大, ＤＪ
+top3 entities near to cluster39>>
+サウナ, 汗
+top3 entities near to cluster40>>
+ケーキ, 料理
+top3 entities near to cluster42>>
+生姜焼き, 生姜焼, 生姜
+top3 entities near to cluster43>>
+ご飯, ごはん, 御飯
+top3 entities near to cluster46>>
+食事, 夕食, 昼食
+top3 entities near to cluster49>>
+休憩, 時間, 期間
+top3 entities near to cluster50>>
+脱衣場, 脱衣, 洗面
+top3 entities near to cluster55>>
+バス, 送迎, シャトル
+top3 entities near to cluster56>>
+ヘア, ゴム, 髪
+top3 entities near to cluster57>>
+席, 座席, 喫煙
+top3 entities near to cluster58>>
+屋内, 屋外, 室内
+top3 entities near to cluster59>>
+館内, 展示, エントランスホール
+top3 entities near to cluster60>>
+施設, 宿泊, ホテル
+top3 entities near to cluster63>>
+施設, 従業員, 従業
+top3 entities near to cluster64>>
+高級感, 清潔感, 高級, 清潔
+top3 entities near to cluster65>>
+お湯, 風呂, 浴槽
+top3 entities near to cluster66>>
+温度, 湿度, 水温
+top3 entities near to cluster70>>
+温泉, 露天風呂, 湯
+top3 entities near to cluster71>>
+風呂, 湯船, 姉ちゃん
+top3 entities near to cluster72>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster74>>
+流し, かけ

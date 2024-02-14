@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東山寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+山中, 建物, 淡路島, 香り, 紅葉, 寺, 御朱印, 堂, 重文, 道, 東山寺
+cluster1:(4)
+寺院, 当寺院, 札所, 尼寺
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

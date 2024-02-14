@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:屏風岩(兵庫県猪名川町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+周辺, 他人, 役場, 屏風岩, 土地, 途中, 岩, 岩肌, 猪名川町, 写真, 景色, 駅, 道, 看板
+cluster1:(2)
+観光地, 駐車場
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

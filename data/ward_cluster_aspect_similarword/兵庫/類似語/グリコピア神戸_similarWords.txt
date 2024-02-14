@@ -1,0 +1,15 @@
+--------------------similar_words:グリコピア神戸--------------------
+top3 entities near to cluster0>>
+菓子, お菓子, 和菓子
+top3 entities near to cluster1>>
+見学, 工場, 視察
+top3 entities near to cluster2>>
+製造, 工程, 生産
+top3 entities near to cluster3>>
+工場, 作業場, 本社
+top3 entities near to cluster5>>
+予約, 事前, 受付
+top3 entities near to cluster7>>
+子供, 子ども, 親達
+top3 entities near to cluster9>>
+イベント, 土産, 体験

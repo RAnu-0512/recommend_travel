@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善福寺のしだれ桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+糸桜, 桜, 夜桜
+cluster1:(2)
+寺院, 山門
+cluster2:(6)
+感じ, 中, 木々, 階段, こじんまり, 善福寺
+cluster3:(1)
+ライトUPされ夜桜
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

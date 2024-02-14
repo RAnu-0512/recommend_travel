@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有限会社谷池健司製瓦所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+主人, ステージ, 時間, 思い出, スタッフ, 機会, 仕掛け, 気分, コスプレ, 瓦, 娘, 旅行, 写真
+cluster1:(2)
+撮影係, 衣装選ん
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

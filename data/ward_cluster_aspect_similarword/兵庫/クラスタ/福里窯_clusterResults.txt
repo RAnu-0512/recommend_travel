@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福里窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+電動ろくろ体験, 先生ろくろ, 電動ろくろ
+cluster1:(5)
+ねり体験, 初体験, 陶芸, 陶芸体験, 体験
+cluster2:(12)
+幼児, 紙, 粘土, 生徒, 教室, 焼き上がり, 手びねり, 看板犬, 先生工房, わんちゃん, 窯, 先生
+cluster3:(24)
+マグカップ, イメージ, 作品, 音沙汰, 友人, 思い通り, 連絡, イメージ図, 人, 旦那, テーブル, 初心者, めん棒, コップ, 時間, 席, カップル, 土, 代表, 最後, 雰囲気, コース, 電話, 近く
+cluster4:(2)
+形, 完成形
+cluster5:(2)
+作業, 準備
+cluster6:(6)
+感じ, 説明, 思い, 方, 事, こと
+cluster7:(2)
+身, 待ち時間長
+cluster8:(1)
+時間帯
+cluster9:(1)
+ロクロ
+
+howmany entities : 58
+howmany clusters : 10
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 5
+deleted 8entities.

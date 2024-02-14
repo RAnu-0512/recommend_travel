@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉丘史跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+玉丘古墳, 帆立貝式古墳, 古墳, 愛染古墳, 円墳
+cluster1:(7)
+公園, 芝生広場, ちびっこ遊具広場, 子供連れ, 子供, 長倉池, 前方後円墳
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

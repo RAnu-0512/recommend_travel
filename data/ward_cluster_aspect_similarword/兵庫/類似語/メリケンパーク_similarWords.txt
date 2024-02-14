@@ -1,0 +1,59 @@
+--------------------similar_words:メリケンパーク--------------------
+top3 entities near to cluster0>>
+海洋, 水産, 海中
+top3 entities near to cluster5>>
+港, 駅前, 中華
+top3 entities near to cluster11>>
+ルミ, ナス, エル
+top3 entities near to cluster12>>
+コンセプト, デザイン, イメージ
+top3 entities near to cluster13>>
+ランニング, ウォーキング, ジョギング
+top3 entities near to cluster14>>
+イルミネーション, ライトアップ, イベント
+top3 entities near to cluster16>>
+レストラン, テーマパーク, デートスポット
+top3 entities near to cluster18>>
+ショッピングモール, スターバックスコーヒー, イオンショッピングモール
+top3 entities near to cluster19>>
+ポートタワー, メリケンパークオリエンタルホテル, アンパンマンミュージアム
+top3 entities near to cluster26>>
+カフェ, ホテル, レストラン
+top3 entities near to cluster27>>
+ナイト, ランド, ワールド
+top3 entities near to cluster28>>
+パーク, バスライド, ライドサービス
+top3 entities near to cluster29>>
+メリケン, 波止場, 神戸港
+top3 entities near to cluster35>>
+遊覧船, バス, 遊覧
+top3 entities near to cluster37>>
+家族連れ, 家族, 泊り
+top3 entities near to cluster42>>
+人達, 大勢, 女性
+top3 entities near to cluster43>>
+大人, 恋人, 子供
+top3 entities near to cluster55>>
+パン屋, パン, 食パン
+top3 entities near to cluster56>>
+食事, 宿泊, 朝食
+top3 entities near to cluster57>>
+公園, 青空, 野外
+top3 entities near to cluster58>>
+景色, 風景, 景観
+top3 entities near to cluster59>>
+駅, 徒歩, 周辺
+top3 entities near to cluster61>>
+足車, 電車, 足
+top3 entities near to cluster62>>
+展示, 歴史, モノ
+top3 entities near to cluster70>>
+夜, 海辺, 夕方
+top3 entities near to cluster71>>
+工事, 改修, 改装
+top3 entities near to cluster73>>
+写真, 画像, 撮っ
+top3 entities near to cluster76>>
+散歩, 散策, 出掛け
+top3 entities near to cluster77>>
+夜景, 景色, 夕景

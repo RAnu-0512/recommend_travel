@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤穂海浜公園オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+赤穂, 赤穂キャンプ場, 赤穂海浜公園
+cluster1:(7)
+子供たち, 自然, 子連れ, 子ども, 家族, 子供, 若者グループ
+cluster2:(3)
+牡蠣, 酒, 塩
+cluster3:(9)
+オートキャンプ, キッチン, 真向かい, ファミリー, ログコテージ, キャンプ, ひとつ, ランド, オススメ
+cluster4:(2)
+隣, 近く
+cluster5:(7)
+値段, 人気, 方, 国, 事, 中, 時期
+cluster6:(11)
+キャンプ場, 道路, 宿泊料金, 成人男性, 温泉施設, シャワー室, 遊具, 施設, 公園, 設備, オートキャンプ場
+cluster7:(1)
+科学館海洋科学館
+
+howmany entities : 43
+howmany clusters : 8
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 6
+deleted 3entities.

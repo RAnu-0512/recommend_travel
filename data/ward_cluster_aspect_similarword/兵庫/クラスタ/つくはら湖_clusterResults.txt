@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:つくはら湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+農業用水, 兵庫県政
+cluster1:(2)
+水, ポンプ
+cluster2:(2)
+自然, 山
+cluster3:(1)
+呑吐
+cluster4:(1)
+上流
+cluster5:(1)
+上水
+cluster6:(3)
+ダム, ダム内部, 記念事業
+cluster7:(1)
+監査廊
+cluster8:(1)
+つくはら湖
+cluster9:(1)
+ダム探検隊
+cluster10:(1)
+淡山疏水
+
+howmany entities : 16
+howmany clusters : 11
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 13entities.

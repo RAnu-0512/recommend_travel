@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善楽寺(兵庫県明石市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+源氏物語, 実相院, 枯山水, 平清盛
+cluster1:(2)
+中, 市
+cluster2:(1)
+道
+cluster3:(1)
+総称
+cluster4:(1)
+寺院
+cluster5:(5)
+善楽寺, 珠院, 平清盛五輪塔, 戒光院, 宮本武蔵
+cluster6:(4)
+浜の松の碑, 明石入道の碑, 明石西国1番, 戒光院・円珠院
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 5entities.

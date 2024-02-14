@@ -1,0 +1,17 @@
+--------------------similar_words:伊丹市昆虫館--------------------
+top3 entities near to cluster0>>
+息子, 長男, 長女
+top3 entities near to cluster1>>
+館内, 建物, 展示
+top3 entities near to cluster2>>
+子ども, 子供, 小学生
+top3 entities near to cluster3>>
+圧巻, 間近, 本物
+top3 entities near to cluster6>>
+日数, 日, か月
+top3 entities near to cluster9>>
+興味, 知識, 機会
+top3 entities near to cluster12>>
+子供, 植物, 公園
+top3 entities near to cluster13>>
+昆虫, 植物

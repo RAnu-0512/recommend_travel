@@ -1,0 +1,11 @@
+--------------------similar_words:天空バス(竹田城跡周遊バス)--------------------
+top3 entities near to cluster0>>
+バス, 周遊, 循環
+top3 entities near to cluster1>>
+城跡, 城址, 城
+top3 entities near to cluster2>>
+中腹, 雲海, 山道
+top3 entities near to cluster3>>
+郷, 里, 浮春
+top3 entities near to cluster4>>
+徒歩, 駅, 時間

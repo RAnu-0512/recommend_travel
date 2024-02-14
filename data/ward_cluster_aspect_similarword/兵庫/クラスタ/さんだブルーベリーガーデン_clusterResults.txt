@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さんだブルーベリーガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+力, 機会, 余裕
+cluster1:(2)
+帽子, 太陽
+cluster2:(10)
+予約, 飲み物, 子ども, 家族, ブルーベリー, 我が家, 夫婦, 摘み取り, 方, 汗
+cluster3:(1)
+ブルーベリー狩り
+cluster4:(1)
+駐車場
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 4entities.

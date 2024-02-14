@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤穂東御崎展望台周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+赤穂東御崎, 赤穂御崎
+cluster1:(6)
+周辺, 桜, 恋人, デートスポット, 遊歩道, 日本
+cluster2:(2)
+赤穂, 御崎
+cluster3:(3)
+展望台, 瀬戸内海国立公園, 駐車場
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 4entities.

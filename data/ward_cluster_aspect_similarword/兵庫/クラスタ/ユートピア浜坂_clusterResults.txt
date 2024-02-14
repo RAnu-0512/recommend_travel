@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ユートピア浜坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩, 休憩所
+cluster1:(5)
+風呂, 温泉街, 旅館, お湯, 温泉
+cluster2:(5)
+同宿, 宿泊先, 送迎, 海水浴帰り, 徒歩
+cluster3:(7)
+サウナ, 露天風呂, 水風呂, 夕方, トリートメント, 雨, シャンプー
+cluster4:(9)
+話, 妻, 人, 車, 足, 町, 方々, 施設, 女性
+cluster5:(1)
+塩分
+cluster6:(4)
+浜坂温泉, 浜坂, 澄風荘, ユートピア浜坂
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 3entities.

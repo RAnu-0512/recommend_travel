@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:坊勢海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海, ビーチ
+cluster1:(1)
+事
+cluster2:(1)
+水
+cluster3:(1)
+対岸
+cluster4:(1)
+盆
+cluster5:(1)
+姫路
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

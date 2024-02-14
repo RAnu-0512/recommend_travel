@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:坂の上の異人館(旧中国領事館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+異人館街, 異人館巡り, 坂の上の異人館, 異人館, 館巡り
+cluster1:(2)
+展示品, 美術品
+cluster2:(22)
+感じ, イメージ, 別名, 場所, 北東, 観光, 丸い入口, アジア, 周り, 領事館, ほう, 家具, 狛犬, 間, 建物, 顔, 方, 中, 雰囲気, 他, パワースポット, 上
+cluster3:(8)
+神戸, 東洋, 中国領事館, 坂, 北野, 中国, 洋風, 西洋っぽい
+
+howmany entities : 37
+howmany clusters : 4
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:家原遺跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+家原遺跡公園, 建物, 弥生時代, 縄文時代, 縄文, 複合遺跡, 中世, 遺跡, 園内, 住居, 西日本, 見ごたえ, 時代
+cluster1:(5)
+竪穴住居2棟古墳, 竪穴住居4棟・高床式, 縦穴式住居, 竪穴式, 竪穴住居2
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

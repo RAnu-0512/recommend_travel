@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宿場町平福>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+平福, 平福宿場町, 宿場町, 平福駅, 智頭鉄道, 佐用町
+cluster1:(2)
+観光, 景観
+cluster2:(3)
+黄色, 提灯, 目玉
+cluster3:(2)
+町, 駅
+cluster4:(2)
+街, 建物
+cluster5:(1)
+道
+cluster6:(10)
+ホルモン焼きうどん, 気持ち, ハイライトスポット, 足らず, 眺め, クルマ, 時間, 自動車, 雰囲気, 風情
+cluster7:(1)
+何か
+cluster8:(2)
+土壁, 土塀
+cluster9:(2)
+雲海, 朝霧
+cluster10:(2)
+川端, 倉
+cluster11:(1)
+初決闘
+cluster12:(4)
+川, 鹿肉コロッケ, 川沿い, 黄土色
+cluster13:(3)
+宮本武蔵, 利神城, 武蔵
+
+howmany entities : 41
+howmany clusters : 14
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 5
+deleted 15entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三木市立堀光美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三木市, 堀田光雄, 兵庫県
+cluster1:(11)
+画, 美術館, 絵画, 実業家, 建物, 日本, 企画展, 町長, 常設展, 所蔵, コレクション
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

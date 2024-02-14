@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夢の森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+公園, ローラー滑り台, 滑り台, 滑り台目当て
+cluster1:(5)
+マスク, 他, 虫, 使用, 中止
+cluster2:(1)
+口呼吸
+cluster3:(1)
+R4.7
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

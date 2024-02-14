@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸山県民サンビーチキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+香り, ロケーション最高, 地面, ペンペン草
+cluster1:(1)
+キャンプ場
+cluster2:(1)
+潮
+cluster3:(1)
+ゴロ石
+cluster4:(1)
+丸山県民サンビーチキャンプ場
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

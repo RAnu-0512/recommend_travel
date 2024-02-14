@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兎和野高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+施設, 利用
+cluster1:(1)
+グラウンド大会
+cluster2:(1)
+空気
+cluster3:(1)
+兵庫
+cluster4:(1)
+兎和野高原
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

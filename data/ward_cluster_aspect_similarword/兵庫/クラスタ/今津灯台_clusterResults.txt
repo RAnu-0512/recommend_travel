@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今津灯台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+感じ, 野鳥, 甲子園浜, 雪, 潮風, 歴史, 周り, 木製, 日本, 現役, 佇まい, 評価, 今津港, 風情
+cluster1:(2)
+今津, 西宮
+cluster2:(2)
+今津灯台, 灯台
+cluster3:(1)
+偲ぶ木製灯台
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 5entities.

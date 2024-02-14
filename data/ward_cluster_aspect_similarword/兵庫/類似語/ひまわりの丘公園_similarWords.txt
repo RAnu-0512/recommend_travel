@@ -1,0 +1,19 @@
+--------------------similar_words:ひまわりの丘公園--------------------
+top3 entities near to cluster0>>
+子ども, 子供, 滑り台
+top3 entities near to cluster4>>
+遊具, 滑り台
+top3 entities near to cluster5>>
+公園, 広場, 噴水
+top3 entities near to cluster7>>
+田んぼ, 田圃
+top3 entities near to cluster8>>
+直売, 産直, 農産物
+top3 entities near to cluster9>>
+駐車場, 駐車, 場代
+top3 entities near to cluster10>>
+子供, 子ども, 親達
+top3 entities near to cluster11>>
+つれ, 同伴
+top3 entities near to cluster13>>
+花壇, 直売, 公園

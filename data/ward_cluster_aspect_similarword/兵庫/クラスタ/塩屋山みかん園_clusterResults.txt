@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:塩屋山みかん園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+みかん園一帯, みかん園
+cluster1:(11)
+みかん, 中, 斜面, 土産, 車, チケット, 金, 受付, ドライブスルー形式, 方, 袋
+cluster2:(4)
+酸味, 農家, みかん狩り, 農園
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 2entities.

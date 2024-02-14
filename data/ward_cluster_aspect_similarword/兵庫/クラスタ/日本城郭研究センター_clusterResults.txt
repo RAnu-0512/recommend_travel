@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本城郭研究センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+城郭, 城郭研究室, 城郭センター
+cluster1:(9)
+前庭, もの, 資料, 多少, 姫路城, 日本, こと, 期待外れ, 施設
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平池公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+蓮, ハス, 花, 華
+cluster1:(9)
+公園, 水, 人, 真ん中, 池, ランニング, ウォーキングコース, スペース, 道
+cluster2:(1)
+平池
+cluster3:(1)
+密生エリア
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

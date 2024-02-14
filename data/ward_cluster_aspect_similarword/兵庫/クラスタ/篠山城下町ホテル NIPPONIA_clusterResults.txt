@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:篠山城下町ホテル NIPPONIA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+西町市営駐車場, 市営駐車場, 駐車場
+cluster1:(3)
+篠山城, 篠山, 古民家
+cluster2:(15)
+フロント棟, 朝食, 部屋, 暖房, 食事, 車, 季節, 接客, 建物, 皿, 料理, 設備, 店, 電話, 真冬
+cluster3:(2)
+印象, 気分
+cluster4:(2)
+対応, 案内
+cluster5:(6)
+もの, 笑, 方, 予定, こと, 他
+cluster6:(1)
+機会
+cluster7:(1)
+美味しさ
+cluster8:(1)
+基本情報
+cluster9:(1)
+良さ
+cluster10:(2)
+見た目, 雰囲気
+cluster11:(8)
+ボリューム, ところ, スタッフ, NIPPONIA, メイン, 落ち着き, フロント, nipponia
+cluster12:(8)
+町並み, ランチ, デザート, おすすめスポット, ディナー, ホテル, コース, スープ
+cluster13:(2)
+辺り, 周辺
+cluster14:(2)
+現地, 地元
+cluster15:(2)
+日, 時間
+cluster16:(4)
+全員, 客, 心, 女性
+cluster17:(1)
+大州
+cluster18:(2)
+安心感, 調度品
+cluster19:(3)
+旅, 女性ひとり旅, お勧めグルメ
+cluster20:(2)
+予約, 予約時間
+cluster21:(2)
+宿泊, 宿泊客
+
+howmany entities : 73
+howmany clusters : 22
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 8
+deleted 23entities.

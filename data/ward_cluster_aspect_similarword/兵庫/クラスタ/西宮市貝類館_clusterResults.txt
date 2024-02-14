@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西宮市貝類館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+安藤忠雄, 西宮市
+cluster1:(3)
+貝合わせ, ホラ貝, 貝
+cluster2:(3)
+貝類館, 貝類専門, 貝類
+cluster3:(1)
+貝 貝貝
+cluster4:(3)
+魅力, 興味, 価値
+cluster5:(3)
+場所, 種類, 時間
+cluster6:(2)
+説明, 勉強
+cluster7:(4)
+なー, 方, 驚き, こと
+cluster8:(1)
+思いき
+cluster9:(35)
+ヨット, 大貝, 鞭打ち, スタッフ, インパクト, クリオネ, 会計, 代わり, 人, 世界, コーナー, 本気, 生物, サカナ, 目, 帆, タカラガイ系, 建物, 大人, 博物館, 老眼, ジオラマ, 洗礼, 外観, 貝殻, 砂利, 息子, 貨幣, 中, 土産, 水産, 子供, 雨, ガチャ, 館内
+cluster10:(8)
+選択制お土産プレゼント, 標本展示, 来館者, 生態展示, 展示物, パネル展示, 展示, 入館料
+
+howmany entities : 65
+howmany clusters : 11
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 7
+deleted 6entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高灯籠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+灯篭, 献灯
+cluster1:(2)
+街, 町
+cluster2:(3)
+車, 電車, 駅
+cluster3:(16)
+感じ, 夜, 本数, もの, アクセス, 山, 石, ポツン, 方々, 無事, 事, 中, 昔, 迫力, 背, 写真
+cluster4:(1)
+高さ
+cluster5:(1)
+江戸時代
+cluster6:(3)
+灯籠, 伊勢講, 参宮
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 6entities.

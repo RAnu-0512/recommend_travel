@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ファーマシア久保>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+いちご狩り, イチゴ狩り
+cluster1:(2)
+食べ比べ, 予約時間
+cluster2:(26)
+仮説, 場所, 禁止, 外, 説明, 練乳, お腹, 客, イチゴ, コロナ対策, 時間, 建物, トイレ, 甘いイチゴ, 事, いちご, 土産, 時期, こと, 貸し切り状態いちご, 人生, ハウス, 電話, 人数, 経験, 写真
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 1
+deleted 4entities.

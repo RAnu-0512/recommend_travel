@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:網干まちなかあるき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+場所, 建物, 途中, 趣, 景色, ドライブ
+cluster1:(2)
+網干, 姫路市
+cluster2:(1)
+あぼしまち交流館
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸ベイクルーズ ロイヤルプリンセス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神戸, 神戸空港
+cluster1:(9)
+潜水艦, 飛行機, チケット, ポートタワー, 持ち込み, ロイヤルプリンセス, クルーズ, 大きめ, クルージング
+cluster2:(2)
+神戸港, 大阪湾
+cluster3:(1)
+船
+cluster4:(5)
+プリンセス号, 整備, 様子, 解説, 手前
+cluster5:(4)
+観光, 飲食, セット券, 座席
+cluster6:(1)
+遊覧船
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 6entities.

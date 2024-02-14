@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:成田山法輪寺(通称播州西脇成田山)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+両替, 寺, 本堂, 祈祷, 太鼓
+cluster1:(6)
+前, 中, 所, 車, 受付, 守り売り場
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 0entities.

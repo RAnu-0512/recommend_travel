@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武庫川渡船バーベキュー広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+サビキ釣り, カサゴ釣り, 釣り, 釣り人, 引掛け釣り
+cluster1:(3)
+子供たち, おじさん達, 子どもたち
+cluster2:(4)
+大人, 息子, 子ども, 子供
+cluster3:(1)
+プロ並み
+cluster4:(4)
+運河クルーズ, 船頭, 船, 船長
+cluster5:(2)
+場所, 話
+cluster6:(3)
+感じ, 笑, 方
+cluster7:(2)
+手, 経験
+cluster8:(16)
+スタッフ, サップ, BBQ, ライフジャケット, ジョーズ, フライ, クルーズ, トイレ, USJ, 日差し, 兄さん, 釣り場, ツアー, +BBQ, クルージング, プラン
+cluster9:(8)
+長袖, ミニ釣り堀, 魚, 肉オンリー, 屋根, 日傘, 海, 風
+cluster10:(2)
+日射対策, 顎紐付き帽子
+
+howmany entities : 50
+howmany clusters : 11
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 7
+deleted 7entities.

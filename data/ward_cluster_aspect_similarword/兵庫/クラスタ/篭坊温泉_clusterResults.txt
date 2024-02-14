@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:篭坊温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+渓流沿い, 自然美
+cluster1:(4)
+冬, 時期, こと, ボタン鍋
+cluster2:(6)
+山奥, 旅館, 温泉地, 山峡, 温泉, 料理旅館
+cluster3:(1)
+丹波篠山
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 3entities.

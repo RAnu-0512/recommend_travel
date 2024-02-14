@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸市総合インフォメーションセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+神戸三宮, 神戸市, 神戸観光神戸, 三宮・元町, 神戸空港
+cluster1:(10)
+観光, 観光スポット, 観光立県, 観光パンフレット, 観光バス, バス, 観光地, 日帰り観光, バス乗り場, 観光客
+cluster2:(2)
+インフォメーション, パンフレット
+cluster3:(2)
+ポートタワー, シティループバス
+cluster4:(1)
+モノレール
+cluster5:(2)
+チケット, インフォメーションセンター
+cluster6:(2)
+ところ, もてなし
+cluster7:(2)
+ルート, マップ
+cluster8:(1)
+乗り場
+cluster9:(1)
+行き方
+cluster10:(1)
+ポートライナー
+cluster11:(2)
+思い, 事
+cluster12:(2)
+方々, 方
+cluster13:(2)
+対応, 影響
+cluster14:(3)
+所, 場所, 範囲
+cluster15:(7)
+そば, 裏側, 前, エレベーター下, 藁, 地元, 近く
+cluster16:(1)
+タクシ−
+cluster17:(5)
+情報, 総合インフォメーションセンター, 担当者, イベント情報, 地図
+cluster18:(1)
+胡坐
+cluster19:(15)
+外国人, 三宮駅, 帰路, ポートライナー駅, 三ノ宮駅, 構内, 電車, 改札, 台風, 阪神電車, JR, 駅, 西日本旅, 新年最初, 生田神社
+cluster20:(3)
+御座なり, お土産屋, 食べ歩き
+
+howmany entities : 70
+howmany clusters : 21
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 7
+deleted 22entities.

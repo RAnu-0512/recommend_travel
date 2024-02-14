@@ -1,0 +1,11 @@
+--------------------similar_words:藤の坊さんだ山荘--------------------
+top3 entities near to cluster1>>
+赤身, 牛肉, 肉
+top3 entities near to cluster7>>
+ハウス, イチゴ, いちご
+top3 entities near to cluster8>>
+カーナビ, ソフトドリンク, サービス
+top3 entities near to cluster11>>
+農家, 職場, 家族
+top3 entities near to cluster12>>
+対向車, 道幅, 対向

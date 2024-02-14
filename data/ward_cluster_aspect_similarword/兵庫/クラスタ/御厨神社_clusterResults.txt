@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御厨神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+兵糧, 出兵
+cluster1:(3)
+桜, 梅林, 梅
+cluster2:(9)
+八幡宮, 神社, 二見浦, 伝説, 境内, 碑, 船, 天満宮, こと
+cluster3:(1)
+みくり
+cluster4:(4)
+御厨神社, 神功皇后, 菅原道真, 天満宮ゆかりの霊牛神社
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 3entities.

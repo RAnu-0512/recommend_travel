@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 ちくさ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山奥, 山道
+cluster1:(5)
+ドッグラン, 手, ドッグフード, 方, くねくね
+cluster2:(3)
+地域, 地元, 駅
+cluster3:(2)
+地元野菜, 手作り石鹸
+cluster4:(1)
+鹿肉
+cluster5:(1)
+工芸品
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 6entities.

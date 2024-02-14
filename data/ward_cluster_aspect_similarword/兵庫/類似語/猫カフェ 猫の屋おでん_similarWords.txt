@@ -1,0 +1,5 @@
+--------------------similar_words:猫カフェ 猫の屋おでん--------------------
+top3 entities near to cluster0>>
+猫, ネコ, ねこ
+top3 entities near to cluster3>>
+保護, 猫, 子猫

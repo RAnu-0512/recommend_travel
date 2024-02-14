@@ -1,0 +1,71 @@
+--------------------similar_words:書写山圓教寺--------------------
+top3 entities near to cluster0>>
+三, 十, 四
+top3 entities near to cluster1>>
+見どころ, 見所, シーン
+top3 entities near to cluster2>>
+ロープーウェイ, ロープウェー, ロープウエー
+top3 entities near to cluster3>>
+サンダル, スニーカー, スカート
+top3 entities near to cluster5>>
+待ち時間, チケット, アクセス
+top3 entities near to cluster18>>
+雪景色, モミジ, 美術館
+top3 entities near to cluster20>>
+ランチ, 帰り道, カフェ
+top3 entities near to cluster21>>
+乗り場, コース, バス停
+top3 entities near to cluster23>>
+御朱印, お参り, お守り
+top3 entities near to cluster24>>
+円教寺, 奥の院, 仁王門
+top3 entities near to cluster29>>
+併設, 証明, なさ
+top3 entities near to cluster30>>
+満載, 必見, 見所
+top3 entities near to cluster31>>
+風情, 趣き, 風格
+top3 entities near to cluster34>>
+人達, 大勢, 周り
+top3 entities near to cluster38>>
+家族, 子供, 両親
+top3 entities near to cluster39>>
+写真, 撮影, 料理
+top3 entities near to cluster40>>
+靴, 足, 彫刻
+top3 entities near to cluster41>>
+景色, 景観, 風景
+top3 entities near to cluster43>>
+季節, 時期, 秋
+top3 entities near to cluster44>>
+施設, 敷地
+top3 entities near to cluster45>>
+建物, 講堂, 食堂
+top3 entities near to cluster47>>
+到着, 出発, 見学
+top3 entities near to cluster49>>
+書写, ロープ, 円教寺
+top3 entities near to cluster50>>
+山頂, 駅, 登山
+top3 entities near to cluster51>>
+ウェイ, ロープ, ゲート
+top3 entities near to cluster52>>
+バス, 送迎, タクシー
+top3 entities near to cluster54>>
+ロケ地, ロケ, ロケハン
+top3 entities near to cluster55>>
+時間, 所要, 行程
+top3 entities near to cluster56>>
+映画, ロケ, 実写
+top3 entities near to cluster57>>
+寺堂, 寺, 菩薩
+top3 entities near to cluster58>>
+麓, 山頂, 城山
+top3 entities near to cluster59>>
+参拝, 拝観, 参詣
+top3 entities near to cluster62>>
+寺院, お寺, 寺
+top3 entities near to cluster63>>
+書写, 写経, 写
+top3 entities near to cluster64>>
+本堂, 境内, 本尊

@@ -1,0 +1,39 @@
+--------------------similar_words:旧居留地--------------------
+top3 entities near to cluster0>>
+居留地, 居留, 植民地, 植民
+top3 entities near to cluster1>>
+ショップ, カフェ, ブティック
+top3 entities near to cluster2>>
+町並み, 街並み, 町並
+top3 entities near to cluster3>>
+ウインドウ, ウィンドウ, ウィンドー
+top3 entities near to cluster4>>
+カフェ, レストラン, ランチ
+top3 entities near to cluster5>>
+雰囲気, シック, センス
+top3 entities near to cluster6>>
+ハイ, ブルー, ティー
+top3 entities near to cluster7>>
+外国人, 外国, 外人
+top3 entities near to cluster11>>
+洋館, 建物, 洋風
+top3 entities near to cluster12>>
+時代, 昔, 歴史
+top3 entities near to cluster15>>
+繁華街, 商店街, 繁華, 商店
+top3 entities near to cluster16>>
+散策, 散歩, 旅
+top3 entities near to cluster18>>
+景色, 風景, 景観
+top3 entities near to cluster19>>
+気分, 席, 景色
+top3 entities near to cluster20>>
+間接, 照明
+top3 entities near to cluster22>>
+地区, 駅, 会場
+top3 entities near to cluster26>>
+横分, 時間, 横
+top3 entities near to cluster27>>
+人気, 個人, 前回
+top3 entities near to cluster34>>
+建築, 建物

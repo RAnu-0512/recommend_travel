@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路市立中浜稔猫美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+表情, 心, 言葉
+cluster1:(3)
+出身, 駅, 道
+cluster2:(12)
+人, 多く, レベル, 時間, それぞれ, 方, 最後, 美術館, 小さめ, 隣, 淡路島, 館内
+cluster3:(10)
+作品, 絵, ネコ, 画家, 陶芸館, 墨, 墨絵, 猫, と画, 猫美術館
+cluster4:(1)
+入場料
+cluster5:(4)
+東浦ターミナルパーク, 浦海浜公園, 中浜稔, 東浦
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 5
+deleted 1entities.

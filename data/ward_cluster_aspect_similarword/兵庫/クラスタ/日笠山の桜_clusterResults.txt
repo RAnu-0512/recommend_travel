@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日笠山の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+距離, コーキング, 人, 播磨灘, 岩, 山, 歴史, 方, ハイキング, 淡路島, 地元, 頂上, 九州, 桜並木, 日笠山
+cluster1:(2)
+桜, ボタン桜
+cluster2:(2)
+景色, 天気
+cluster3:(2)
+花見, 弁当
+cluster4:(8)
+山陽曽根駅, 高砂市, 伊保, 山陽本線曽根駅, 曽根, 姫路市, 菅原道真, 曽根駅
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 6entities.

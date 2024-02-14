@@ -1,0 +1,51 @@
+--------------------similar_words:神戸ポートピアホテル--------------------
+top3 entities near to cluster0>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster1>>
+デザート, サラダ, ケーキ
+top3 entities near to cluster2>>
+パスタ, グラタン, サラダ
+top3 entities near to cluster3>>
+飲み物, ドリンク, ビール
+top3 entities near to cluster5>>
+スタイル, ビュッフェ, バイキング
+top3 entities near to cluster9>>
+トイレ, マナー, デート
+top3 entities near to cluster11>>
+清潔感, 高級感, 清潔, 高級
+top3 entities near to cluster12>>
+パン, 食パン, ロールパン
+top3 entities near to cluster13>>
+野菜, 大根, 白菜
+top3 entities near to cluster14>>
+肉, 成形
+top3 entities near to cluster17>>
+日分, 時間, 日
+top3 entities near to cluster18>>
+男性人, 女性人, 男性, 女性
+top3 entities near to cluster19>>
+隣, 主人, お隣
+top3 entities near to cluster22>>
+利用, 案内, 予約
+top3 entities near to cluster25>>
+値段, 価格
+top3 entities near to cluster29>>
+形式, ドレス, ポート
+top3 entities near to cluster30>>
+店員, 店内
+top3 entities near to cluster31>>
+ホテル, 宿泊, 泊まる
+top3 entities near to cluster32>>
+いちご, イチゴ, 苺
+top3 entities near to cluster36>>
+ピザ, ポテト, サラダ
+top3 entities near to cluster37>>
+スープ, ポタージュ, カレー
+top3 entities near to cluster39>>
+ランチ, ディナー, ランチタイム
+top3 entities near to cluster41>>
+機会, 料理, 接客
+top3 entities near to cluster43>>
+食べ放題, 飲み放題, 食べ, 飲み
+top3 entities near to cluster44>>
+すじ, 牛, 丼

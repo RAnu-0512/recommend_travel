@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤穂市立美術工芸館田淵記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+美術館., 公開
+cluster1:(3)
+目的, 家, 中心
+cluster2:(2)
+古文書等, 書
+cluster3:(1)
+称号
+cluster4:(1)
+日本画
+cluster5:(8)
+赤穂市, 大名貸, 川口屋, 田淵, 兵庫県, 塩問屋, 御崎, 塩田
+cluster6:(1)
+美術工芸品
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 7entities.

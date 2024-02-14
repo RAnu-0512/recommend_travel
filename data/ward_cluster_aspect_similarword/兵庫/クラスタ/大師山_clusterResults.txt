@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大師山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+城崎温泉ロープウェイ, 城崎温泉
+cluster1:(8)
+ロープウェー, 人, カフェ, 山, 奥の院, 日本海, 温泉寺, ロープウェイ
+cluster2:(6)
+温泉寺奥, 山頂, 景色, 全景, みはらしテラスカフェ, 頂上
+cluster3:(1)
+の院
+cluster4:(1)
+展望台
+cluster5:(1)
+天気予報
+cluster6:(1)
+慈母観音像
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 6entities.

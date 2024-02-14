@@ -1,0 +1,9 @@
+--------------------similar_words:北公園--------------------
+top3 entities near to cluster0>>
+公園, 駅, 南公園
+top3 entities near to cluster4>>
+景色, 景観, 夜景
+top3 entities near to cluster6>>
+時間, 子供
+top3 entities near to cluster7>>
+海船, 港船, 港, 海

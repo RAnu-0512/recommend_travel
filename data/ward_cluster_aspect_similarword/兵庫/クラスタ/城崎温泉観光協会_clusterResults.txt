@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城崎温泉観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+感じ, 資料, 場所, ところ, おすすめ, 休日, 全国, 情報, 行き方, 駅, パンフレット, ハンバーガー, 店, 案内, ロープウェイ, 地図, 各地
+cluster1:(3)
+城崎町, 外湯巡り, 城崎温泉
+cluster2:(2)
+宿案内処, 観光案内所
+cluster3:(2)
+浴場, 温泉まつり
+cluster4:(2)
+温泉地, 観光地
+cluster5:(3)
+観光協会, 観光, 観光スポット
+cluster6:(3)
+駅構内, 営業時間, 川沿い
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 6entities.

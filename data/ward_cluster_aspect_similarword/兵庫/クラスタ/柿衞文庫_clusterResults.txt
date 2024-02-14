@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柿衞文庫>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+まえ文化, みやのまえ文化の郷
+cluster1:(2)
+きゅぎょう期間, 休業
+cluster2:(8)
+資料, 印象, 多く, 前, 方, 再オープン, 一帯, 予定
+cluster3:(2)
+みや, 伊丹
+cluster4:(4)
+所蔵品, 整備工事, 柿衛文庫, 入館料
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 6entities.

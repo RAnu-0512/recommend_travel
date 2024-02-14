@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸北野ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+利用客, 客, 大学受験, ホテル利用者
+cluster1:(3)
+神戸, 北野, 大阪
+cluster2:(17)
+女友達, 友人, 相手, 主人, 世界, 空間, 夢, 高校, 利用, 時間, 方, 機会, お疲れ様会, こと, 娘, 目的, 親子
+cluster3:(2)
+ホテルクラス, ホテル
+cluster4:(5)
+つもり, プラン, ペース, 気配り, 雰囲気
+cluster5:(3)
+ランチ, パスタ, サラダ
+cluster6:(5)
+メニュー, スタッフ, サービス, スタイル, フロント
+cluster7:(2)
+デザート, スイーツ
+cluster8:(2)
+パティシエ, オーベルジュ
+cluster9:(3)
+ティーポット, スコーン, クロワッサン
+cluster10:(1)
+ケーキ
+cluster11:(1)
+パート
+cluster12:(10)
+味, 香り, 朝食, ティーパック, 紅茶, 素材, 料理, 工事, 店, 茶会
+cluster13:(3)
+パン, 食べ放題, パン皿
+cluster14:(2)
+異人館街, 防雨風雨
+
+howmany entities : 63
+howmany clusters : 15
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 9
+deleted 10entities.

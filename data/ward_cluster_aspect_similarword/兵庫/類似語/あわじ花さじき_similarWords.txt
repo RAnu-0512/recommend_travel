@@ -1,0 +1,33 @@
+--------------------similar_words:あわじ花さじき--------------------
+top3 entities near to cluster0>>
+駐車, 入場, 料金
+top3 entities near to cluster5>>
+注文, 発注, 訪問
+top3 entities near to cluster12>>
+わん, 勧め, ねっ
+top3 entities near to cluster15>>
+買い物, 出掛け, 散歩
+top3 entities near to cluster16>>
+サイト, おすすめ, ロケーション
+top3 entities near to cluster17>>
+パンケーキ, コーヒー, ソフトクリーム
+top3 entities near to cluster18>>
+パノラマ, 見晴らし, ドライブ
+top3 entities near to cluster20>>
+菜の花, ヒマワリ, コスモス
+top3 entities near to cluster21>>
+ビワ, びわ
+top3 entities near to cluster22>>
+展望, 展望台, 眺望
+top3 entities near to cluster23>>
+景色, 景観, 建物
+top3 entities near to cluster24>>
+海, 緑, 青い
+top3 entities near to cluster26>>
+行楽, 家族, 出掛け
+top3 entities near to cluster27>>
+バス, 乗馬, ツアー
+top3 entities near to cluster29>>
+花, 季節, 時季
+top3 entities near to cluster30>>
+土産屋, 土産物屋, 土産, 土産物

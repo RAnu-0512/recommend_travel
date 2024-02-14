@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妙見山second>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+能勢電鉄, 能勢, 能勢電妙見口駅, 能勢妙見堂, 能勢駅
+cluster1:(2)
+まな板, トング
+cluster2:(2)
+スペース, バーベキュースペース
+cluster3:(4)
+ロープウェー, ケーブル, ロープウェイ, ケーブルカー
+cluster4:(2)
+ロケーション, コントラスト
+cluster5:(2)
+バーベキュー, ハイキング
+cluster6:(1)
+グループ
+cluster7:(1)
+オススメ
+cluster8:(1)
+アクセス
+cluster9:(1)
+ドライブ
+cluster10:(1)
+ところ
+cluster11:(3)
+シニア, ハイキングコース, リフト
+cluster12:(1)
+手ぶら
+cluster13:(3)
+日蓮宗, 妙見山, 山
+cluster14:(2)
+森, 小川
+cluster15:(5)
+人, 顔, 手, 名前, 娘
+cluster16:(5)
+意外, 人気, 方, こと, 対象
+cluster17:(7)
+足元, 足場, 全体, 下, 場所, 付近, 近く
+cluster18:(4)
+天気, 景色, 休日, 季節
+cluster19:(4)
+バス, 山道, 車, 道中
+cluster20:(2)
+信仰, 運動
+cluster21:(11)
+飯盒, 弁当, 飲食店, 包丁, 持参, 土産, 食材, ヤマメつり, 野菜, 茶, 木炭
+cluster22:(16)
+妙見口駅, 山頂, 紅葉シーズン, 参拝者, 子供達, 登山道, 初詣, 登り, 山上, 妙見, 下り, 紅葉, 駅, 頂上, 神社, 家族連れ
+cluster23:(7)
+花折街道, 上杉尾根コース, 大堂越コース, 見山, 杉木立, 山上駐車場, 駐車場
+
+howmany entities : 92
+howmany clusters : 24
+howmany entities (more than3entities) : 74
+howmany clusters (more than3entities) : 12
+deleted 18entities.

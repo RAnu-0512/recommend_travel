@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大神戸ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+時間, 初心者お断り, コスパ, スタッフ, コース, ネット, 受付, 初心者
+cluster1:(2)
+態度, 距離
+cluster2:(3)
+平日ラウンド料金, 須磨コース, 神戸市
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

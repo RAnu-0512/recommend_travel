@@ -1,0 +1,19 @@
+--------------------similar_words:甲山森林公園--------------------
+top3 entities near to cluster1>>
+森林, 樹木, 景観
+top3 entities near to cluster2>>
+紅葉, 新緑, 緑
+top3 entities near to cluster4>>
+子ども, 子供, ハイキング
+top3 entities near to cluster5>>
+景色, 光景, 眺め
+top3 entities near to cluster7>>
+宣言, 自粛, 挨拶
+top3 entities near to cluster10>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster12>>
+散歩, 弁当, 出掛け
+top3 entities near to cluster14>>
+遊具, 広場, 噴水
+top3 entities near to cluster15>>
+公園, 緑地, 遊歩道

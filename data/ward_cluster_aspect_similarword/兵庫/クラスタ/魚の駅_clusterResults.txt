@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:魚の駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+棚商店街, 商店街, 漁業組合, 飲食店, 観光客
+cluster1:(6)
+休憩, 休憩スペース, 食べ歩き, 無料休憩所, できたて館, 休憩スポット
+cluster2:(2)
+明石駅, 明石市
+cluster3:(6)
+野菜, 魚, タコ, 漬物, 干物, 鮮魚センター
+cluster4:(5)
+タイ, 人気, 名物, 土産, 地元
+cluster5:(6)
+場所, 市場, 駅, 道, 棚, 店
+cluster6:(11)
+絵, スポット, レストラン, イベント, 方々, 方, 小学生, 気分, 魚の棚, 名前, 魚介類
+cluster7:(1)
+活気
+cluster8:(1)
+長居
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 6
+deleted 4entities.

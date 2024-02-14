@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:表米神社相撲桟敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+相撲桟敷, 桟敷
+cluster1:(2)
+階段, 石段
+cluster2:(2)
+相撲, 土俵
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

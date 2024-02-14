@@ -1,0 +1,13 @@
+--------------------similar_words:神戸ポートタワー--------------------
+top3 entities near to cluster2>>
+景色, 建物, 風景
+top3 entities near to cluster3>>
+夜, 繁華, 各地
+top3 entities near to cluster5>>
+街並み, 喫茶店, 雰囲気
+top3 entities near to cluster7>>
+東京タワー, ライトアップ, エレベータ
+top3 entities near to cluster15>>
+タワー, パーク, ランド
+top3 entities near to cluster18>>
+展望, 駐車, 施設

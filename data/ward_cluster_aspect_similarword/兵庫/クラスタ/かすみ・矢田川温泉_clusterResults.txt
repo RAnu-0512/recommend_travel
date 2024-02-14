@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かすみ・矢田川温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+割引券, 町営, 観光客, 観光シーズン, 地元住民
+cluster1:(23)
+庭, 泉質, 砂, 民宿, 山景色, 川沿い, ガラス窓, 景色, 雪, 宿, 残雪, 木, 地元, 野鳥, 砂だらけ, 山, 田舎, 香住, 川, 風景, 帰省, 海, 近く
+cluster2:(2)
+高温, 高温サウナ
+cluster3:(2)
+清掃, 掃除
+cluster4:(3)
+建物, 施設, 商品
+cluster5:(3)
+人, 家族, 客
+cluster6:(16)
+ロビー, 正面, とろみ, 気持ち, シーズン, 肌, 水風呂, スポット, サウナ, ところ, 露天風呂, 海水浴シーズン, ツルツルすべすべ, ドライヤー, 株式会社トキワ, 雰囲気
+cluster7:(3)
+悪口, 疲れ, 気分
+cluster8:(10)
+機会, 自然, 空間, 流れ, 中, 方, 名前, 感じ, 場所, 時間
+cluster9:(1)
+利用者
+cluster10:(1)
+清潔感
+cluster11:(3)
+脱衣所, 脱衣場, 休憩室
+cluster12:(2)
+矢田川温泉, かすみ矢田川温泉
+cluster13:(2)
+日帰り温泉, 温泉
+cluster14:(1)
+我が家はみんな温泉
+cluster15:(1)
+天然温泉
+cluster16:(1)
+日帰り温泉施設
+cluster17:(2)
+浴場, 内湯
+cluster18:(2)
+風呂, 入浴
+cluster19:(2)
+湯, お湯
+cluster20:(1)
+湯舟
+cluster21:(3)
+露天温泉, 貸切風呂, 露天
+cluster22:(1)
+うたせ湯
+
+howmany entities : 90
+howmany clusters : 23
+howmany entities (more than3entities) : 69
+howmany clusters (more than3entities) : 9
+deleted 21entities.

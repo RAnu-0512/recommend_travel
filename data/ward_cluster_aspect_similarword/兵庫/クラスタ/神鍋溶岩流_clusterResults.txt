@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神鍋溶岩流>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スポット神鍋高原, 神鍋高原
+cluster1:(10)
+滝, 名, 溶岩流, 訪問落差, 滝住宅街, 駅, 落差, 道, 滝レンタサイクル, 溶岩
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長林寺(兵庫県洲本市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+淡路島七福神巡り, 七福神巡り
+cluster1:(5)
+仏, 寺, 本堂, 印, 説法
+cluster2:(3)
+陸橋, 道, 階段
+cluster3:(12)
+絵, 片手, 写真, 足, 七福神, 方, 看板, 味わい, 横, 女性, 淡路島, 孫
+cluster4:(4)
+態度, 悪さ, 始末, 雑
+cluster5:(1)
+うへえ
+cluster6:(1)
+駐車場
+cluster7:(2)
+大望成就, 納経帳
+cluster8:(1)
+福禄寿
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 7entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明石公園のフジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+明石駅, 明石市
+cluster1:(10)
+ところ, スポット, 人, 人気, 日, 季節, 明石公園, オススメ, 春先, こと
+cluster2:(6)
+桜, 池, 藤, 花, フジ, 藤棚
+cluster3:(5)
+都市公園, 名所, 遊具, 公園, 駐車場
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 2entities.

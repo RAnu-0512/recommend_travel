@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五色県民サンビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, 淡路島
+cluster1:(1)
+ほう
+cluster2:(1)
+場所
+cluster3:(2)
+砂浜, 海
+cluster4:(1)
+景色
+cluster5:(1)
+小石
+cluster6:(1)
+兵庫県
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

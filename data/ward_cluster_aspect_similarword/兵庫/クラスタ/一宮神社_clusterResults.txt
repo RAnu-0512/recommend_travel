@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一宮神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新年, 新年最初
+cluster1:(4)
+桜, 緑, 北野, 宮
+cluster2:(2)
+小銭, 釣り
+cluster3:(4)
+北側, 付近, 徒歩, 近く
+cluster4:(3)
+御朱印, 書き置き, 雰囲気
+cluster5:(2)
+人, 女性
+cluster6:(4)
+途中, 順番, 方, こと
+cluster7:(2)
+表情, 声
+cluster8:(2)
+八宮神社, 神戸八社巡り
+cluster9:(10)
+ちいさな神社, 三宮神社, 神社, 境内, 一宮, 一宮神社, 二宮神社, 巳神社, 生田神社, 四宮神社
+cluster10:(8)
+三宮駅, 中央区, 神戸市, 三宮, 神戸駅, 北野異人館, 中心街, 異人街
+
+howmany entities : 43
+howmany clusters : 11
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 6
+deleted 10entities.

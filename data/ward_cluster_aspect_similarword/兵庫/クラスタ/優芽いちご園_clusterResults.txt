@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:優芽いちご園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+苺, いちご販売, 甘味
+cluster1:(2)
+通路, 地面
+cluster2:(10)
+所, 帰り道, 子, 水たまり, 好み, 対応, 次, コロナ, 方, いちご
+cluster3:(4)
+高齢, 大人, 両親, 子供
+cluster4:(1)
+人柄
+cluster5:(1)
+姫路
+cluster6:(5)
+ちご狩り, 温泉宿泊, 当園, 朝取り, カニ歩き
+cluster7:(1)
+清潔感
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 5entities.

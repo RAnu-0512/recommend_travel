@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立人と自然の博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+資料集め, 入場料, 入場, 常設展示, 施設専用, 展示品, 自然史系博物館, 施設, 展示, ショッピング施設, 展示物, 駐車場
+cluster1:(4)
+丹波竜, 兵庫県, 三田, 六甲
+cluster2:(3)
+子供たち, 大人, 子供
+cluster3:(6)
+もの, 観点, 形, こと, 偏り, 必要
+cluster4:(4)
+資料, 解説, 歴史, 勉強
+cluster5:(17)
+高校生, キノコ, 大学, テーマ, 女の子, 子, 自然, 見応え, 成り立ち, 周辺, カップル, 博物館, 生き物, 図書館, クジラ, 小学生, 近く
+cluster6:(3)
+人, 種類, 名
+cluster7:(2)
+場所, 時間
+cluster8:(2)
+内容, セミナールーム
+cluster9:(3)
+集団, 階層, 夫婦
+cluster10:(1)
+木
+cluster11:(1)
+休憩スペース
+cluster12:(10)
+模型, 剥製, 骨, 原石, 地層, 恐竜, 標本, 化石, 発掘, 地震
+cluster13:(6)
+植物, 動物, 昆虫, 草木, 共生, 古代生物
+
+howmany entities : 74
+howmany clusters : 14
+howmany entities (more than3entities) : 68
+howmany clusters (more than3entities) : 10
+deleted 6entities.

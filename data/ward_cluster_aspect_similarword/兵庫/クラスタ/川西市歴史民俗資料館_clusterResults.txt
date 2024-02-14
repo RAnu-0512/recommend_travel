@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川西市歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸時代の暮らしぶり, 江戸時代
+cluster1:(2)
+農家, 家庭
+cluster2:(5)
+暮らし, 建物, 民家, 邸宅, 城
+cluster3:(1)
+暮らし振り
+cluster4:(1)
+福田家
+cluster5:(1)
+農器具
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

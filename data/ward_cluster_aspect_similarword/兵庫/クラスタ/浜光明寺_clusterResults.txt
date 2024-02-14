@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜光明寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+朝顔光明寺, 朝顔
+cluster1:(6)
+光明寺, 寺, 名前, 海, 右隣, 近く
+cluster2:(1)
+明石焼き
+cluster3:(1)
+本家きむらや
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

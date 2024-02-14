@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福知渓谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+渓谷, 河原, 川
+cluster1:(15)
+川遊び, 空気, 気持ち, もの, バーベキュー, 自然, 足, 次, 時間, SNS, 風景, 水, アマゴ, 子供, 水遊び
+cluster2:(1)
+水量
+cluster3:(2)
+景勝地, 福知渓谷
+cluster4:(1)
+雪彦峰山県立自然公園
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 4entities.

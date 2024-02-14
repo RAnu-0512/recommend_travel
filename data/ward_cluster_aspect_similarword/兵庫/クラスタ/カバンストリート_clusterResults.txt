@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カバンストリート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+豊岡, 豊岡駅
+cluster1:(2)
+旅番組, 旅
+cluster2:(8)
+終着駅, 価格, 割, もの, 設定, テレビ, 種類, 周辺
+cluster3:(6)
+カバン, カバン店, かばん屋, カバンストリート, 鞄, かばん
+cluster4:(1)
+商店街
+cluster5:(1)
+自動販売機
+cluster6:(1)
+京都丹後鉄道
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 7entities.

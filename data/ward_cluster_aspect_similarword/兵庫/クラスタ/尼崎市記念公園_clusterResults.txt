@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尼崎市記念公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 記念公園
+cluster1:(2)
+車, 駅
+cluster2:(7)
+子ども, 人, 体育館, 子連れ, こと, 週末, スポーツ
+cluster3:(5)
+大会, テニスコート, 練習, 試合, 研修
+cluster4:(1)
+陸上競技
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 5entities.

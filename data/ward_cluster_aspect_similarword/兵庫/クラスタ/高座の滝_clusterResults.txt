@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高座の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩所, 休憩場
+cluster1:(2)
+喫煙者, 喫煙所
+cluster2:(21)
+ロックガーデン, 途中, 休日, イノシシ, 面白味, 人, 多く, 周り, 芦屋, 高座, 滝, 芦屋川駅, 夫婦滝, 六甲山頂, マイナスイオン, 芦屋ロックガーデン, 再スタート, こと, ハイキング客, 売店, 近く
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 1
+deleted 4entities.

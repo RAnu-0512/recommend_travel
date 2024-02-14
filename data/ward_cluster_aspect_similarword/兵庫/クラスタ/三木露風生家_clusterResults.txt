@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三木露風生家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+家, 両親, 近所, 生家, 近く
+cluster1:(2)
+資料, 生涯
+cluster2:(1)
+明治
+cluster3:(10)
+ボランティア, 柱, 観光, おじさん, 赤とんぼ, 赤, 城, ビカビカ, 中, たつ
+cluster4:(1)
+童謡赤とんぼ
+cluster5:(1)
+ずっしり感
+cluster6:(3)
+龍野, 龍野城跡, 三木露風
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 5entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路国分寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+淡路国分寺, 八木のお釈迦さま, 三原平野, 兵庫県
+cluster1:(3)
+寺巡り, 寺めぐり, 寺
+cluster2:(2)
+参拝者, 参拝客
+cluster3:(2)
+歴史, 体験
+cluster4:(5)
+国分寺, 釈迦如来, 真ん中, 花祭り, 淡路島
+cluster5:(2)
+日本, 昔
+cluster6:(2)
+人, こと
+cluster7:(1)
+笑
+cluster8:(1)
+釈迦如来様
+cluster9:(7)
+仏像, 神社, 重文, 釈迦, 釈迦如来像, 建物, 木造
+cluster10:(4)
+中心礎石, 国指定文化財, 礎石, 駐車場
+
+howmany entities : 33
+howmany clusters : 11
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 10entities.

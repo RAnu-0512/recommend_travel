@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アサヒ飲料明石工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+飲料, 試飲
+cluster1:(6)
+予約, サイダー, アサヒ, 子供, 仕掛け, ソフトドリンク
+cluster2:(2)
+ビール工場, 工場見学
+cluster3:(2)
+明石, 明石工場
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 6entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳴尾浜臨海公園海づり広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+車, 海水浴, 山, 生き物, ガシラ
+cluster1:(3)
+岩場, 砂浜, 砂
+cluster2:(1)
+放流イベント
+cluster3:(1)
+芝フェス
+cluster4:(1)
+子供たち
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

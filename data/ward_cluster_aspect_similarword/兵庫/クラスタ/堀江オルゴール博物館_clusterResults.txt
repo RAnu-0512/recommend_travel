@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堀江オルゴール博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+楽器, 音色, オルゴール館, 博物館法, ツアー形式, ディスク型オルゴール
+cluster1:(2)
+便, 交通
+cluster2:(3)
+シリンダーオルゴール, オルゴール, オルゴール博物館
+cluster3:(2)
+バス停, 上り坂
+cluster4:(1)
+人
+cluster5:(3)
+場所, 別, 他
+cluster6:(2)
+解説, 係り
+cluster7:(3)
+予約, 販売, 人数
+cluster8:(1)
+息
+cluster9:(2)
+観光客, 住宅街
+cluster10:(1)
+苦楽園
+
+howmany entities : 26
+howmany clusters : 11
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 4
+deleted 11entities.

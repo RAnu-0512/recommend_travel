@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Kotorinata>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ピンク系, ブルー系
+cluster1:(5)
+ストレス, オーナー, 思い出, ハーバリウム, オイル
+cluster2:(2)
+もの, 中
+cluster3:(1)
+花
+cluster4:(1)
+姉さん先生
+cluster5:(1)
+コロナ禍
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

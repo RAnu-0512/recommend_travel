@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿ヶ壺キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+胸ぐらい, 浅瀬, 川, 鹿, 壷, 皿, ロッジ裏
+cluster1:(19)
+使い捨てコンロ, 川遊び, 冷蔵庫, ボール, まな板, ロッジ, コンロ, テーブル, オーブントースター, フライパン, ポット, 部分, 冷凍庫, 水, 歯ブラシ, グラス, シャンプー, コンビニ, 上
+cluster2:(4)
+宿泊, 業務スーパー, 幼児, 大人
+cluster3:(8)
+友人家族, 冷冷蔵庫, 料理バサミ, 湯沸し付, タオル類, 捨てコンロ, 冷蔵, しゃもじ
+cluster4:(1)
+深さ
+cluster5:(2)
+IH一口コンロ, 丸型 直径
+
+howmany entities : 41
+howmany clusters : 6
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 4
+deleted 3entities.

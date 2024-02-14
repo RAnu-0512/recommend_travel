@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:共進ファミリー牧場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+牛, ジャージー牛, ヤギ
+cluster1:(9)
+小野市, ヒツジ, ランチ, 間近, ふれあい, レストラン, ジャージーソフトクリーム, ソフトクリーム, ウサギ
+cluster2:(2)
+併設レストラン, 喫茶スペース
+cluster3:(1)
+浄谷町
+cluster4:(6)
+芝生広場, 入園料, つっこい牛, 直営牧場, 牧場, 牛乳工場
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 3entities.

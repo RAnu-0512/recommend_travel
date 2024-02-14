@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上田池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+釣り, バス, バス釣り
+cluster1:(6)
+趣味, 主人, 場所, 淡路島, 下見, 景色
+cluster2:(2)
+ダム, 池
+cluster3:(1)
+兵庫県
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

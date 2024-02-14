@@ -1,0 +1,25 @@
+--------------------similar_words:芦屋川河畔の桜並木--------------------
+top3 entities near to cluster0>>
+川沿い, 川, 川べり
+top3 entities near to cluster1>>
+ケーキ, パフェ, カフェ
+top3 entities near to cluster2>>
+見どころ, 雰囲気, 見所
+top3 entities near to cluster7>>
+遊歩道, 川べり, 散歩道
+top3 entities near to cluster12>>
+地元, 近所, 有志
+top3 entities near to cluster14>>
+景色, 風景, 風情
+top3 entities near to cluster15>>
+屋台店, 祭り, 屋台
+top3 entities near to cluster18>>
+駅車, バス車, 駅, バス
+top3 entities near to cluster19>>
+靴屋, パン屋, パン, 靴
+top3 entities near to cluster21>>
+桜, 満開, 八重桜
+top3 entities near to cluster25>>
+散歩, 散策, ぷらぷらお
+top3 entities near to cluster26>>
+花見, 行楽, 観桜

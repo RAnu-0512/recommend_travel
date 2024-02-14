@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鉄斎美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+奥, 清澄寺内
+cluster1:(2)
+印, 宝
+cluster2:(13)
+絵画, 作品, 清荒神, 絵, 訪問, 図, 書, おなじみ, 陶器, 方, プロ, 美術館, テレビ番組
+cluster3:(2)
+山水画, 富士山図屏風
+cluster4:(2)
+鉄斎, 鉄斎美術館
+cluster5:(2)
+富岡鉄斎, 富岡鉄斎美術館
+cluster6:(1)
+清州荒神の宮司・仁和寺
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 11entities.

@@ -1,0 +1,49 @@
+--------------------similar_words:神戸天空温泉 銀河の湯(みのたにグリーンスポーツホテル)--------------------
+top3 entities near to cluster0>>
+ステーキ, パスタ, トンカツ
+top3 entities near to cluster1>>
+ベビーベッド, 赤ちゃん, スリッパ
+top3 entities near to cluster2>>
+ビュッフェ, バイキング, スイーツ
+top3 entities near to cluster3>>
+レストラン, ファミレス, アイスクリーム
+top3 entities near to cluster4>>
+ボリューム, ヘルシーメニュー, ジェットバス
+top3 entities near to cluster6>>
+サービス, メニュー, スタッフ
+top3 entities near to cluster7>>
+フロント, スポーツ, スタイル
+top3 entities near to cluster9>>
+ホテル, 露天風呂, 見晴らし
+top3 entities near to cluster11>>
+気持ち, 手触り, 感触
+top3 entities near to cluster12>>
+セット, コース, ボード
+top3 entities near to cluster13>>
+サウナ, シャワー, 水風呂
+top3 entities near to cluster18>>
+利用, 使用, 活用
+top3 entities near to cluster19>>
+星空, 夕陽, 天空
+top3 entities near to cluster20>>
+滞在, 一泊
+top3 entities near to cluster21>>
+景色, 眺望, 眺め
+top3 entities near to cluster24>>
+満腹, 気分, 腹一杯
+top3 entities near to cluster25>>
+値段, 価格, 厚み
+top3 entities near to cluster26>>
+夕方, 早朝, 週末
+top3 entities near to cluster34>>
+別棟, 設備, 施設
+top3 entities near to cluster36>>
+駅前, 夜, 平日
+top3 entities near to cluster37>>
+料理店, 飲食店, 料理, 飲食
+top3 entities near to cluster38>>
+食事, 夕食, 昼食
+top3 entities near to cluster39>>
+バス, 送迎, 駐車
+top3 entities near to cluster40>>
+温泉, 湯, 露天風呂

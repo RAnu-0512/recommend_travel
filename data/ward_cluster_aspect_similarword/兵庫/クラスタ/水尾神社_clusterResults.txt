@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水尾神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+男山山麓, 男山, 男山八幡宮
+cluster1:(2)
+伊和大, 武大
+cluster2:(2)
+水尾神社, 荒神社
+cluster3:(3)
+車, 姫路城, 神
+cluster4:(3)
+山頂, 境内, 神社
+cluster5:(1)
+総社
+cluster6:(1)
+千姫天満宮
+cluster7:(1)
+播磨国
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 7entities.

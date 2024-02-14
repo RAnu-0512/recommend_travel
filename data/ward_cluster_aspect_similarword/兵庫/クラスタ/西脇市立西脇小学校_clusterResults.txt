@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西脇市立西脇小学校>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+構造, 協力, 問題
+cluster1:(5)
+卒業生, すりガラス, 昔, 小学校, 近く
+cluster2:(2)
+建物, 看板
+cluster3:(1)
+道
+cluster4:(1)
+通行
+cluster5:(1)
+耐震
+cluster6:(1)
+横尾忠則
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 6entities.

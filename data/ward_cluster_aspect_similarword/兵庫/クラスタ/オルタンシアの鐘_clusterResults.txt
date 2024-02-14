@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オルタンシアの鐘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+前, 横, 意外
+cluster1:(6)
+メリケンパーク, オルタンシア, スタバ, オブジェ, スターバックスコーヒー, モザイク
+cluster2:(1)
+神戸
+cluster3:(1)
+モザイク模様
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

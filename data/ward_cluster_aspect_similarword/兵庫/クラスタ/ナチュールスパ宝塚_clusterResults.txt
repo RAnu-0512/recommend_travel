@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ナチュールスパ宝塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建物, 施設
+cluster1:(2)
+駅, 近く
+cluster2:(3)
+家族, エステ, フィットネス
+cluster3:(1)
+喜び
+cluster4:(1)
+宝塚
+cluster5:(1)
+家族連れ
+cluster6:(1)
+金泉
+cluster7:(5)
+温泉施設, 複合スパ施設, 岩盤浴, 温泉, 大型温泉施設
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 8entities.

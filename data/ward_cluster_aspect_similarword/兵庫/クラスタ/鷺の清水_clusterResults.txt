@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鷺の清水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+水場, 名水, 湧水
+cluster1:(3)
+井戸, 播磨, 清水
+cluster2:(5)
+室町, 屋根, 姫路城, 形状, 時代
+cluster3:(1)
+鷺
+cluster4:(2)
+白川神社, 姫路城清水門
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 3entities.

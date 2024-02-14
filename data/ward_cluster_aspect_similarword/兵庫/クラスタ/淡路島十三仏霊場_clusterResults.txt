@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路島十三仏霊場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+読経, 屋根, 奥, 産直淡路島, 御朱印, 堂, 近く
+cluster1:(2)
+八幡寺, たこせんべいの里
+cluster2:(1)
+最終札所
+cluster3:(1)
+淡路島13仏霊場 第13番札所 虚空蔵坊 竹林山
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 4entities.

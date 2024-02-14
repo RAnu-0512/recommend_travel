@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:念仏寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仏閣, 神社
+cluster1:(5)
+寺院, 本尊, 浄土宗, 寺, 阿弥陀如来
+cluster2:(1)
+神戸七福神
+cluster3:(1)
+有馬温泉
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

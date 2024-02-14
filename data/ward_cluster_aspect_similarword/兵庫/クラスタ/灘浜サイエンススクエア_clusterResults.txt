@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:灘浜サイエンススクエア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展示場所, PR施設, 施設
+cluster1:(11)
+前, 会社, 技術, 世界, 鉄, 音声ガイド, 耳, 子供, 受付, 開放, 科学
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

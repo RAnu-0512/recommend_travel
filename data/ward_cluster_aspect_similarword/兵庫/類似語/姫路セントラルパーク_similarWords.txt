@@ -1,0 +1,69 @@
+--------------------similar_words:姫路セントラルパーク--------------------
+top3 entities near to cluster0>>
+ライオン, カピバラ, シマウマ
+top3 entities near to cluster2>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster4>>
+スピード, クォリティ, マイペース
+top3 entities near to cluster7>>
+スカート, サーカス, 焼きそば
+top3 entities near to cluster8>>
+フライパン, スピーカー, おじさん
+top3 entities near to cluster9>>
+アトラクション, テーマパーク, フリーフォール
+top3 entities near to cluster10>>
+サファリーパーク, ドライブスルーサファリ, モビリティーパーク
+top3 entities near to cluster12>>
+イベント, チケット, サービス
+top3 entities near to cluster14>>
+アトラクション, 乗り物, 遊具
+top3 entities near to cluster15>>
+ゾーン, エリア, ガイド
+top3 entities near to cluster16>>
+パーク, サファリ, バスライド
+top3 entities near to cluster20>>
+サファリ, トレッキング, サファリーパーク
+top3 entities near to cluster25>>
+バス, タクシー, 乗り場
+top3 entities near to cluster27>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster31>>
+子供, 子ども, 大人
+top3 entities near to cluster33>>
+時間, 所要, 距離
+top3 entities near to cluster34>>
+ゾウ, トラ, セン
+top3 entities near to cluster36>>
+利用, 案内, 購入
+top3 entities near to cluster38>>
+表情, 姿, 迫力
+top3 entities near to cluster40>>
+小雨, 雨降り
+top3 entities near to cluster44>>
+体験, 乗馬, 体感
+top3 entities near to cluster45>>
+観覧車, 運転, 観覧
+top3 entities near to cluster46>>
+施設, 敷地, 駐車
+top3 entities near to cluster47>>
+絶叫, 混雑, 渋滞
+top3 entities near to cluster49>>
+遊園地, 遊園, テーマパーク
+top3 entities near to cluster50>>
+動物, 猛獣
+top3 entities near to cluster51>>
+動物園, 植物園, 動物, 植物
+top3 entities near to cluster52>>
+草食, 動物, 肉食
+top3 entities near to cluster53>>
+パス, フリー, パスポート
+top3 entities near to cluster54>>
+入場券, 入園券, 入場, 入園
+top3 entities near to cluster55>>
+入場, 料金, 入館
+top3 entities near to cluster59>>
+やり
+top3 entities near to cluster60>>
+エサ, 餌, やり
+top3 entities near to cluster61>>
+餌, エサ, えさ

@@ -1,0 +1,13 @@
+--------------------similar_words:石ケ谷公園--------------------
+top3 entities near to cluster0>>
+子供, 喜び, 子ども
+top3 entities near to cluster1>>
+子供, 子ども, 遊具
+top3 entities near to cluster3>>
+花見, 弁当, 遠足
+top3 entities near to cluster4>>
+隣家, 神社, 隣
+top3 entities near to cluster9>>
+広場, 公園, 桜
+top3 entities near to cluster10>>
+遊具, 駐車, 乗馬

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:休暇村竹野海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+ところ, サービス, テント, 露天風呂, インストラクター, バーベキュー, シーカヤック, 日本海, ≧∀≦, バイキング, アクティビティ, リゾート, アドレス, キャンプ, カヤック, ホテル
+cluster1:(10)
+値段, 夕食, 帰路, 食事, 旅, 大人, 料理, 家族, 店, 子供
+cluster2:(3)
+休憩, ホテル受付, 時間
+cluster3:(8)
+指導, 撮影, コツ, 今回, 方, こと, 文面, 写真
+cluster4:(2)
+蟹料理, カニ
+cluster5:(2)
+外海, 竹野
+cluster6:(3)
+風呂, 入浴, 温泉
+cluster7:(3)
+筋肉, 痛み, 肩
+cluster8:(3)
+波, 海岸, 海
+cluster9:(4)
+空, 夕焼け色, 部屋, 雨
+cluster10:(1)
+睡魔
+cluster11:(12)
+体験予約, 割引クーポン, 水分補給, 期待値, 送迎バス, シーカヤック体験, 美しさ, 列車利用, 透明度, 体験, 沈む太陽, 水平線
+
+howmany entities : 67
+howmany clusters : 12
+howmany entities (more than3entities) : 62
+howmany clusters (more than3entities) : 9
+deleted 5entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後ケ島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+スポット, 時間, こと, 近く
+cluster1:(3)
+上陸, 島, 船
+cluster2:(1)
+観光客
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 1entities.

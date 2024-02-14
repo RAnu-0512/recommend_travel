@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:情報館 天空の城>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+街中駐車場, まちなか駐車場, 竹田まちなか観光駐車場, 駐車場
+cluster1:(5)
+山頂, 景色, 季節, 雲海, 登山
+cluster2:(24)
+資料, 場所, スタッフ, 町並み, 説明, 友人, 模型, 知識, アドバイス, 結果, 刀, 歴史, 勉強, 前, 獅子王, 方々, 施設, ジオラマ, 駅, 土産, 現地, 問い合わせ, 電話, 近く
+cluster3:(11)
+かな情報, 情報館, 情報館利用, 案内写真, 朱印帳, 情報, 方達, 入場時間, 観光情報, 宿泊施設, 情報館 天空
+cluster4:(2)
+竹田駅, 竹田城
+cluster5:(2)
+武田城, 城
+cluster6:(1)
+日本100名城のスタンプ
+
+howmany entities : 49
+howmany clusters : 7
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 4
+deleted 5entities.

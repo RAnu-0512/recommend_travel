@@ -1,0 +1,29 @@
+--------------------similar_words:花のじゅうたん--------------------
+top3 entities near to cluster0>>
+桜, 花, 芝
+top3 entities near to cluster3>>
+シーン, 気持ち, 場面
+top3 entities near to cluster4>>
+アニメ, テレビ, ネット
+top3 entities near to cluster5>>
+テーブル, スライド, ハンドル
+top3 entities near to cluster7>>
+ゴールデンウィーク, アクセス, ゴールデンウイーク
+top3 entities near to cluster9>>
+じゅうたん, ピンク色, ピンク
+top3 entities near to cluster10>>
+時季, 季節, 時期
+top3 entities near to cluster11>>
+満開, 見頃, 桜
+top3 entities near to cluster13>>
+茶色
+top3 entities near to cluster14>>
+敷地, 設備, 施設
+top3 entities near to cluster15>>
+開花, 満開, 花開く
+top3 entities near to cluster17>>
+花, お花, 草花
+top3 entities near to cluster18>>
+かけ, かかる
+top3 entities near to cluster19>>
+入園, 入場, 入学

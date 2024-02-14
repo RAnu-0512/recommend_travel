@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+桜, 丸広場, 距離, 国宝白鷺城, 広場, 姫路城, 入口, 天守閣迄, 城郭周辺, 景観, 広さ, 城, 公園, 姫路城公園, 観光客
+cluster1:(4)
+桜門橋, 姫路公園, 大手前公園, 姫路城=姫路公園
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 0entities.

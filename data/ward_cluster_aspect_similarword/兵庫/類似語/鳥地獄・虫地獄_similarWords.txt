@@ -1,0 +1,7 @@
+--------------------similar_words:鳥地獄・虫地獄--------------------
+top3 entities near to cluster0>>
+炭酸, ガス, 水素
+top3 entities near to cluster1>>
+鳥虫, 地獄, 鳥
+top3 entities near to cluster3>>
+温泉, 炭酸泉, 露天風呂

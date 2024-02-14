@@ -1,0 +1,13 @@
+--------------------similar_words:関帝廟--------------------
+top3 entities near to cluster0>>
+中華街, 中華, 繁華街, 繁華
+top3 entities near to cluster1>>
+関羽, 関, 麟徴
+top3 entities near to cluster2>>
+建築, 建物, 意匠
+top3 entities near to cluster3>>
+境内, 参拝, 本尊
+top3 entities near to cluster8>>
+まわり, 周り, そのもの
+top3 entities near to cluster13>>
+三国志, 商売

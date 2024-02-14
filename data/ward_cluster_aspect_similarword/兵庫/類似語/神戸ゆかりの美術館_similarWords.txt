@@ -1,0 +1,7 @@
+--------------------similar_words:神戸ゆかりの美術館--------------------
+top3 entities near to cluster1>>
+美術館, 隣, 博物館
+top3 entities near to cluster2>>
+建物, 施設, 歴史
+top3 entities near to cluster3>>
+設計展, 企画展, 設計, 企画

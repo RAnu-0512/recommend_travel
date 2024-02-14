@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国宝朝光寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西本尊, 東本尊
+cluster1:(2)
+高床式, 高床
+cluster2:(9)
+国宝, 吉祥院, 建築技術, 格式, 本尊, 本堂, 寺, 鐘楼, 室町
+cluster3:(2)
+左, 右
+cluster4:(3)
+車, 建物, 道
+cluster5:(2)
+ところ, 雰囲気
+cluster6:(2)
+もの, こと
+cluster7:(2)
+人, 中
+cluster8:(1)
+時間
+cluster9:(1)
+時代
+cluster10:(2)
+帰り, 案内
+cluster11:(3)
+シン, 床, 階段
+cluster12:(1)
+おもちゃ王国
+cluster13:(2)
+案内板, 高さ
+cluster14:(1)
+駐車場
+cluster15:(1)
+つくばねの滝
+
+howmany entities : 36
+howmany clusters : 16
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 21entities.

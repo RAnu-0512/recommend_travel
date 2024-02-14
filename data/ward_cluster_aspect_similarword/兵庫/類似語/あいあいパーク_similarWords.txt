@@ -1,0 +1,25 @@
+--------------------similar_words:あいあいパーク--------------------
+top3 entities near to cluster1>>
+ガーデニング, レストラン, カフェ
+top3 entities near to cluster2>>
+イベント, スタッフ, たくさん
+top3 entities near to cluster5>>
+カフェ, ショップ, ランチ
+top3 entities near to cluster6>>
+パーク, カモ
+top3 entities near to cluster14>>
+中庭, 敷地, 建物
+top3 entities near to cluster15>>
+天気, 景観, 季節
+top3 entities near to cluster16>>
+自然, 緑, 山
+top3 entities near to cluster17>>
+町街, 村街, 町, 村
+top3 entities near to cluster20>>
+歩き, 散策, 道幅
+top3 entities near to cluster22>>
+子供, 子ども, お子さん
+top3 entities near to cluster23>>
+教室, 支所
+top3 entities near to cluster24>>
+園芸, 雑貨, 花屋

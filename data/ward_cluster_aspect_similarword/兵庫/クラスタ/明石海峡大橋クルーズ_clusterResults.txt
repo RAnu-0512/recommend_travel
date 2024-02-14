@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明石海峡大橋クルーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+景色, 天気, 旅行
+cluster1:(2)
+迫力, 感謝
+cluster2:(2)
+チケット売り場, 方
+cluster3:(14)
+冷蔵庫, スタッフ, アナウンス, 姉さん, フルーツサンド, クルーズ, ガイド, 夏休み, 淡路島, コース, アイスクリーム, 明石海峡大橋, クルージング, プラン
+cluster4:(2)
+船上, 橋
+cluster5:(1)
+お腹
+cluster6:(2)
+船長室, 盆休み
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 9entities.

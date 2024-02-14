@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビジュオペラ神戸ステューディオ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+思い出作り, 指輪打ち, 細さ, いく物, 指輪作り, ペアリング, バングル作り, ペアアクセサリー, リング作り, 指輪
+cluster1:(4)
+彼氏, 店員, 個室, 店内
+cluster2:(4)
+満足, 磨き, 自信, 疑問
+cluster3:(6)
+刻印, 柄, 字, 色, 文字, 模様
+cluster4:(2)
+説明, 先生
+cluster5:(3)
+ゴールドフィル, シルバーリング, リング
+cluster6:(5)
+ゴールド, バングル, シルバー, シルバーバングル, ペンダント
+cluster7:(4)
+ところ, スタッフ, クリスマス, サプライズ
+cluster8:(4)
+作り方, 思い出, 雰囲気, プラン
+cluster9:(3)
+もの, 彼, 他
+cluster10:(6)
+所, 作業, 空間, 時間, 経験, 体験
+cluster11:(3)
+所用時間, 誕生日, 記念日
+
+howmany entities : 54
+howmany clusters : 12
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 11
+deleted 2entities.

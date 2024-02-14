@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広田梅林ふれあい公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+梅樹, 枝垂れ梅, しだれ梅, 観梅コース, 実梅, 南あわじ市, 花梅, 梅
+cluster1:(2)
+臨時駐車場, 駐車場
+cluster2:(2)
+地元老人会, 町村合併
+cluster3:(3)
+広田, 広田梅林, 梅林
+cluster4:(2)
+おうしゅく, 鶯宿
+cluster5:(9)
+写真, 花, オススメ, 方, 格安, 淡路島, 地元, 時期, 正確
+cluster6:(3)
+車, 売店, 道
+cluster7:(2)
+南高, 緑町
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 8entities.

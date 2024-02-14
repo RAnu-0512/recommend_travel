@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:KOBEとんぼ玉ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+色ガラス棒, かんざし, 引取り, 瞬間 ガラス, ガラス棒, トンボ玉, トンボ玉作り, ととんぼ玉, ガラス細工, KOBEとんぼ玉ミュージアム, 間とんぼ玉, とんぼ玉
+cluster1:(4)
+パーツ, ビーズ, ガラス, アート
+cluster2:(2)
+バーナー, バナー
+cluster3:(2)
+パンダ, 小学生
+cluster4:(2)
+ストラップ, キーホルダー
+cluster5:(2)
+ネックレス, アクセサリー
+cluster6:(1)
+ボールペン
+cluster7:(8)
+アドバイス, 色とりどり, ギャラリー, スペース, ショップ, ところ, スタッフ, ミュージアム
+cluster8:(1)
+トップ
+cluster9:(2)
+熱, 温度
+cluster10:(2)
+神戸, 三ノ宮駅
+cluster11:(2)
+Hp, 火
+cluster12:(13)
+GW, 人, 石, 男性, 小学, 作品, 横, 子, 他, 娘, 番, 最後, 雨
+cluster13:(4)
+値段, パーツ代, ビル, 店
+cluster14:(3)
+作業, 工程, 飾りつけ作業
+cluster15:(2)
+予定, 先
+cluster16:(2)
+場所, 時間
+cluster17:(7)
+例え, 点, もの, 形, 方, こと, 感じ
+cluster18:(1)
+機会
+cluster19:(9)
+柄, 相談, 色, 見本, 説明, 身, 飾り, 作成, 講師
+cluster20:(12)
+展示室, 展示物, 初体験, 制作体験, 展示数, 神戸旅行の日, 作り体験, 現代作家, 製作体験, 物, 展示, 体験
+
+howmany entities : 93
+howmany clusters : 21
+howmany entities (more than3entities) : 72
+howmany clusters (more than3entities) : 9
+deleted 21entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かばんのたなか>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供達, 子供
+cluster1:(7)
+感じ, もの, 方, 気, 意外, かなー, かた
+cluster2:(2)
+町, 倉庫
+cluster3:(3)
+田舎, 旅, 体験
+cluster4:(8)
+ショルダーバッグ, 人, デザイン, 思い出, ピンク, バック, 組み合わせ, 写真
+cluster5:(2)
+帰り, 時間
+cluster6:(2)
+作業, 対応
+cluster7:(4)
+愛想, 店員, 店内, 店
+cluster8:(8)
+カバン, カバン屋, バッグ, カバンストリート, 豊岡, カバン作り, 鞄, かばん
+cluster9:(7)
+生地, 紐, 種類, ドット柄, ビス, 色, 単色
+cluster10:(1)
+駐車場
+cluster11:(1)
+城崎温泉
+cluster12:(1)
+城崎温泉チェックイン前何かないかと探してバック
+
+howmany entities : 48
+howmany clusters : 13
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 6
+deleted 11entities.

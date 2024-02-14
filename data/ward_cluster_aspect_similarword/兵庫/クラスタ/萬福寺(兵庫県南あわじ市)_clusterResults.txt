@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萬福寺(兵庫県南あわじ市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+寺院, 僧侶, 寺, 御陵, 墓守
+cluster1:(4)
+木彫り, 醍醐天皇, ツアー, 淡路島
+cluster2:(3)
+布袋尊, エビス, えびす
+cluster3:(1)
+護国寺
+cluster4:(8)
+感じ, 妻, 相手, 車, 対応, 下手, 個人, 近く
+cluster5:(5)
+南, 観音, 神, 福, 恵比寿様
+cluster6:(1)
+出ろ
+cluster7:(1)
+鳴門寄り
+cluster8:(2)
+七福神めぐり, 淡路島七福神めぐり
+cluster9:(2)
+淡路島七福神巡り, 七福神巡り
+cluster10:(4)
+客, 商売繁盛, 観光客, 駐車場
+cluster11:(6)
+恵美酒太神!, 淡路島七福神の恵美酒太神, 敦仁親王, 恵美酒太神, 南あわじ市, 海上交通安全
+
+howmany entities : 42
+howmany clusters : 12
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 7
+deleted 7entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:ちくさ高原スキー場--------------------
+top3 entities near to cluster1>>
+コース, ゲレンデ, スキー
+top3 entities near to cluster2>>
+責任, 窓口, 業務
+top3 entities near to cluster3>>
+列順, 列
+top3 entities near to cluster6>>
+子供, 家族, 昼間
+top3 entities near to cluster7>>
+運搬車, 運搬, 車両
+top3 entities near to cluster8>>
+用紙, 記入, 申込
+top3 entities near to cluster9>>
+駐車場, 駐車, 停める

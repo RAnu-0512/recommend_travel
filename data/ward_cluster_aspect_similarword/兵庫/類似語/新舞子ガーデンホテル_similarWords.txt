@@ -1,0 +1,21 @@
+--------------------similar_words:新舞子ガーデンホテル--------------------
+top3 entities near to cluster0>>
+清掃, 接客, 消毒
+top3 entities near to cluster1>>
+食事, 料理, 刺身
+top3 entities near to cluster4>>
+過ぎ, いい
+top3 entities near to cluster5>>
+海, 霧, 海風
+top3 entities near to cluster6>>
+ランチ, レストラン, ホテル
+top3 entities near to cluster7>>
+内風呂, サウナ, 露天風呂
+top3 entities near to cluster8>>
+タオル, プラン, セット
+top3 entities near to cluster9>>
+家族, 人達, 子供
+top3 entities near to cluster11>>
+風呂, 温泉, 露天風呂
+top3 entities near to cluster12>>
+休憩場, 駐車場, 休憩, 駐車

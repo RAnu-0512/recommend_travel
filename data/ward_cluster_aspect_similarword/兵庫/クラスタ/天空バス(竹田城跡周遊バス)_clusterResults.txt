@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天空バス(竹田城跡周遊バス)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+周遊バス, 天空バス利用, 又循環バス, 天空バス
+cluster1:(3)
+竹田駅, 城跡, 竹田城跡
+cluster2:(3)
+雲海, 山道, 中腹
+cluster3:(3)
+里, 山城, 郷
+cluster4:(16)
+バス停, 距離, 人, ジュース, 電車, バス, 次, 利用, 疲労, 時間, 駅, 夏場, 徒歩, こと, 必要, 近く
+cluster5:(2)
+待合所, 駐車場
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 5
+deleted 2entities.

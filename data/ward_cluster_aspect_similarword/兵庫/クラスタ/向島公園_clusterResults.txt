@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:向島公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松原, 高砂
+cluster1:(3)
+クジャク, それぞれ, ジョギング
+cluster2:(2)
+市街地, 海沿い
+cluster3:(1)
+入り江
+cluster4:(1)
+人
+cluster5:(1)
+日常
+cluster6:(4)
+公園, 散歩, 犬, 釣り
+cluster7:(1)
+景観
+cluster8:(1)
+家族連れ
+cluster9:(2)
+競技場, 海岸沿い
+
+howmany entities : 18
+howmany clusters : 10
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 11entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フルーツハーベスト 田中農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+ブドウジュース, パフェ, 葡萄, ぶどう, おみやげ, 生ぶどうジュース, ブドウパフェ, ピオーネ, ぶどう追加, ブドウたち, ブドウ
+cluster1:(6)
+味, カフェメニュー, ボリューム感, カフェスペース, 一品カフェメニュー, 体験
+cluster2:(3)
+ぶどう狩り, 直売所, ブドウ狩り
+cluster3:(3)
+もぎたて, 時期 藤稔, 食べ放題
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 0entities.

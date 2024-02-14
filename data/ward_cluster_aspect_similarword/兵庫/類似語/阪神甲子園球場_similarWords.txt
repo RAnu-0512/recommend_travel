@@ -1,0 +1,79 @@
+--------------------similar_words:阪神甲子園球場--------------------
+top3 entities near to cluster1>>
+球児, 高校, 野球
+top3 entities near to cluster2>>
+野球, 高校, 中学
+top3 entities near to cluster3>>
+野球, プロ, 観戦
+top3 entities near to cluster4>>
+イベント, グッズ, ショップ
+top3 entities near to cluster5>>
+ファン, 高校生, 大学生
+top3 entities near to cluster7>>
+グラウンド, スタジアム, スタンド
+top3 entities near to cluster8>>
+アツアツ, たこ焼き, 熱々
+top3 entities near to cluster9>>
+ポカリスエット, スポーツドリンク, ペットボトル
+top3 entities near to cluster11>>
+デーゲーム, 外野席, 球場
+top3 entities near to cluster12>>
+マツダ, イオン, フェア
+top3 entities near to cluster13>>
+グッズ, 売り場, 売り子
+top3 entities near to cluster15>>
+飲み物, 食べ物, ビール
+top3 entities near to cluster19>>
+観客, 乗客, 外客
+top3 entities near to cluster20>>
+電車, 公共, バス
+top3 entities near to cluster21>>
+建物, 設備, 施設
+top3 entities near to cluster23>>
+土産店, 名物, 土産
+top3 entities near to cluster24>>
+風船, ふうせん, バルーン
+top3 entities near to cluster25>>
+レフト, スタンド, ライト
+top3 entities near to cluster26>>
+シート, グリーン, ブルー
+top3 entities near to cluster27>>
+フード, コート, ファースト
+top3 entities near to cluster28>>
+屋根, 帽子, 椅子
+top3 entities near to cluster29>>
+缶
+top3 entities near to cluster31>>
+高校, 大会, 大学
+top3 entities near to cluster35>>
+子供, 子ども
+top3 entities near to cluster37>>
+11, 7, 12
+top3 entities near to cluster38>>
+昔, 以前, 大昔
+top3 entities near to cluster41>>
+開催, 中止, 開始
+top3 entities near to cluster43>>
+制限, 練習, 距離
+top3 entities near to cluster44>>
+感動, 歴史, 世界
+top3 entities near to cluster45>>
+電車, 球場, 阪急
+top3 entities near to cluster46>>
+阪急, 金本, タイガーズ
+top3 entities near to cluster47>>
+対策
+top3 entities near to cluster48>>
+球場, スタジアム, 外野席
+top3 entities near to cluster49>>
+席, 外野, 内野
+top3 entities near to cluster50>>
+応援, 応援団, 声援
+top3 entities near to cluster51>>
+決勝戦, 決勝, 初戦
+top3 entities near to cluster52>>
+試合, 試合観, 観戦
+top3 entities near to cluster53>>
+観戦, 試合, 中継
+top3 entities near to cluster54>>
+野球, 選手, 球団

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西条古墳群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+尼塚古墳, 行者塚古墳, 人塚古墳
+cluster1:(3)
+史跡, 古墳群, 古墳
+cluster2:(3)
+加古川市, 兵庫県, 城山
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 0entities.

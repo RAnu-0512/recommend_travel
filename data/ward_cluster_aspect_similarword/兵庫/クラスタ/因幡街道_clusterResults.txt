@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:因幡街道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+武蔵, 宮本武蔵
+cluster1:(2)
+街道, 宿場
+cluster2:(4)
+昔, 地, 町並み, 風情
+cluster3:(1)
+初決闘
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

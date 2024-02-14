@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:生島樹林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+沖, 島, 島そのもの
+cluster1:(17)
+伝承, 植物, 我が国, 犬, 面, 立ち入り, 人, 天然記念物, 当社, 墓, 像, 町, 正面, 国, 話し, 地元, 祭り
+cluster2:(2)
+雅楽, 神域
+cluster3:(1)
+坂越
+cluster4:(10)
+生島樹林, 智天使, 秦河勝, 胡王面, 河勝, 宗像神社, 生島, 天使ケルビム, 弓月国, 大避神社
+
+howmany entities : 33
+howmany clusters : 5
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 3entities.

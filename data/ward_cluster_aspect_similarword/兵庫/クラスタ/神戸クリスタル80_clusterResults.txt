@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸クリスタル80>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ヘアゴム作り体験, ヘアゴム
+cluster1:(6)
+跡地, 店主, 建物, 店内, 館内, 店
+cluster2:(12)
+感じ, 場所, 人, 笑, 次, 時間, 方, 学校, 中, 事, 他, 娘
+cluster3:(2)
+GW, 本番
+cluster4:(2)
+手元, 元気
+cluster5:(2)
+土台, 色
+cluster6:(2)
+作業, 対応
+cluster7:(2)
+失敗, 体験
+cluster8:(1)
+予約
+cluster9:(1)
+スクエア型
+cluster10:(1)
+プロ顔負け
+cluster11:(27)
+神戸, ピンセット, やかん, マダム, ミルフィオリ, スワロフスキー, 試行錯誤, キラキラ, 出迎え, イヤリング, フットワーク, 仕上がり, ネックレス, TEL, ヴェネチアンガラス, コロナ, ガラス玉, ガラス, 上がり, 雰囲気, スタンプ, ベネチアンガラス, ブローチ, アングラス, ボンド, キーホルダー, ピアス
+cluster12:(6)
+菓子屋, 写真撮影会, 完成品, 緊張感, 焼き上がり, 開始時刻
+
+howmany entities : 66
+howmany clusters : 13
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 4
+deleted 15entities.

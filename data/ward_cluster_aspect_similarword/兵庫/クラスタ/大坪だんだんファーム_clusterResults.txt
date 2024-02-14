@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大坪だんだんファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+食べ比べ, 食べ放題, イチゴ狩りハウス, いちご狩り, 芋掘り, フルーツ摘み放題, イチゴ狩り
+cluster1:(2)
+淡路SA, 明石大橋
+cluster2:(30)
+苺, イチゴちゃん, 場所, 予約時刻, 説明, 限界, 観光スポット, 品種, 車, ハウス, 売店, イチゴ, 予約, 時間, 狩, イチジク, 方々, いちご, 農園, 淡路島, 土産, ブロッコリー, 事務所, 他, 雨, 案内, 体験, いちじく, 娘, 立地
+
+howmany entities : 39
+howmany clusters : 3
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 2
+deleted 2entities.

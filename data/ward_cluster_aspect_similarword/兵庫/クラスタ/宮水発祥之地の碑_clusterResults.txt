@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮水発祥之地の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+酒蔵, 酒造メーカー
+cluster1:(2)
+注意, 所
+cluster2:(2)
+散策, 界隈
+cluster3:(2)
+徒歩, 北
+cluster4:(1)
+何カ所
+cluster5:(1)
+宮水
+cluster6:(1)
+臨港線
+
+howmany entities : 11
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 11entities.

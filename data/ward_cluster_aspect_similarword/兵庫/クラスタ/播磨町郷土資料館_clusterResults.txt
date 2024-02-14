@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:播磨町郷土資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+別府鉄道, 播磨町, 大中遺跡
+cluster1:(6)
+ジョセフ・ヒコ, 人, 言葉, 乗り物, 機関車, 歴史
+cluster2:(2)
+屋外, 施設
+cluster3:(3)
+客車, テレビ番組, 車両
+cluster4:(1)
+出身地
+cluster5:(1)
+出土品
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 4entities.

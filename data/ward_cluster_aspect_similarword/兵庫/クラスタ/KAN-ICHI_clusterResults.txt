@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:KAN-ICHI>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+朝食, 一泊, 定刻, 昼
+cluster1:(3)
+魚, 干物, 海
+cluster2:(12)
+ところ, ランチ, インストラクター, もの, ハタハタ, 前, 声, エプロン, 方, 店, 体験, 近く
+cluster3:(2)
+香住, スルメイカ
+cluster4:(1)
+盛況ぶり
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 3entities.

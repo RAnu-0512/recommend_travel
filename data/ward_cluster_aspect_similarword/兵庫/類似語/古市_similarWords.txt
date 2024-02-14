@@ -1,0 +1,9 @@
+--------------------similar_words:古市--------------------
+top3 entities near to cluster0>>
+国道, 駅, 県道
+top3 entities near to cluster1>>
+酒蔵, 酒屋
+top3 entities near to cluster2>>
+風情, 雰囲気, 町並み
+top3 entities near to cluster5>>
+駅道, 駅, 街道

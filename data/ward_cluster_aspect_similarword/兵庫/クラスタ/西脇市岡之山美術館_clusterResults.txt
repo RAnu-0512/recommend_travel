@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西脇市岡之山美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出身, 出身地
+cluster1:(2)
+芸術家, 現代美術
+cluster2:(3)
+美術館, 作品, 横尾ワールド
+cluster3:(1)
+西脇市
+cluster4:(2)
+横尾忠則, 岡之山美術館
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 7entities.

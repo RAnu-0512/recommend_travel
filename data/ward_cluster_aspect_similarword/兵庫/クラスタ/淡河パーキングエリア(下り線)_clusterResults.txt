@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡河パーキングエリア(下り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+パーキングエリア, ミニストップ, コンビニ, 北海道, 今津港
+cluster1:(2)
+車, 施設
+cluster2:(1)
+塩ポテチ
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

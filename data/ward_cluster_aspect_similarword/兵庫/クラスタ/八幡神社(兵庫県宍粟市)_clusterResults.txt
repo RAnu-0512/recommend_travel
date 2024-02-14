@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡神社(兵庫県宍粟市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+神木, 樹齢, 御神木
+cluster1:(2)
+存在感, SNS映え間違い
+cluster2:(2)
+山間部, 山間
+cluster3:(5)
+緑, 山, 森, 木々, 木
+cluster4:(2)
+神社, 境内
+cluster5:(2)
+休憩, 散策
+cluster6:(7)
+味, 人, 歴史, 人々, 地域, 祭り, 仕事
+cluster7:(2)
+天然記念物, モッコク
+cluster8:(2)
+ドライブ, オススメ
+cluster9:(1)
+雰囲気
+cluster10:(1)
+能楽堂
+cluster11:(3)
+場所, 北側, 近く
+cluster12:(1)
+空気
+cluster13:(1)
+指定文化財
+cluster14:(8)
+兵庫県, 八幡神社, 宍粟市, 篠ノ丸城, 山崎八幡神社, 樹齢700年もの木, 姫路, 最上山公園
+
+howmany entities : 42
+howmany clusters : 15
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 5
+deleted 16entities.

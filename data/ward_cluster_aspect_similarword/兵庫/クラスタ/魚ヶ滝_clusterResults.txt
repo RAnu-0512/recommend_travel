@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:魚ヶ滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川, し川
+cluster1:(2)
+滝, 魚
+cluster2:(9)
+水, 子ども, ところ, 人, 子供, 時期, 飛び込み, 近く, キャンプ
+cluster3:(1)
+キャンプ場
+cluster4:(1)
+盆期間
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 6entities.

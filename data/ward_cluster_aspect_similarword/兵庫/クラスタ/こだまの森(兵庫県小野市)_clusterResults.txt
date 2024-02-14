@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:こだまの森(兵庫県小野市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+整備, 散策
+cluster1:(2)
+大人, 子供
+cluster2:(2)
+公園, 場所
+cluster3:(5)
+自然, プール, アスレチック, 小野市, 気持ち
+cluster4:(1)
+遊具
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

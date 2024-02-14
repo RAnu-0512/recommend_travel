@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸山総合公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場側, 展望台
+cluster1:(3)
+注意, 訪問, 貸出
+cluster2:(13)
+出口, ところ, 王国, 世界, 滑り台, スピード, 大人, マット, 尻, 公園, 地球儀モニュメント, 子供, 近く
+cluster3:(1)
+地球儀時計
+cluster4:(1)
+加西市
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 4entities.

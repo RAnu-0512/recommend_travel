@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:タカガワオーセントゴルフ倶楽部 関西迎賓館コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+インター, ラウンド, コース, メンテナンス, ホール
+cluster1:(2)
+気, 多く
+cluster2:(2)
+会社, 友人
+cluster3:(1)
+時間
+cluster4:(1)
+天候
+cluster5:(1)
+ゴルフ場
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

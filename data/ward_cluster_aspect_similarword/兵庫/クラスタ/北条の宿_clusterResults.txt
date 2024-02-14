@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北条の宿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+スポット, おもむき, 昔, こと, 見ごたえ
+cluster1:(3)
+建物, 宿, 歴史
+cluster2:(1)
+北条
+cluster3:(2)
+酒見寺, 宿場町
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

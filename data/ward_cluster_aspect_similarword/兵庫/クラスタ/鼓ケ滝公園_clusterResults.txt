@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鼓ケ滝公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鼓ケ滝, 鼓ケ滝公園
+cluster1:(2)
+有馬温泉, 有馬町内
+cluster2:(3)
+公園名, 現行円, 公園
+cluster3:(17)
+ルート, 山, 遊歩道, 風情, ほう, 滝, 奥, 紅葉, 天気, 流れ, 駅, 坂道, 水, ハイキング, 茶店, 六甲, 風
+cluster4:(1)
+益池
+cluster5:(1)
+のんびりわんこ
+cluster6:(1)
+鱒釣り
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 7entities.

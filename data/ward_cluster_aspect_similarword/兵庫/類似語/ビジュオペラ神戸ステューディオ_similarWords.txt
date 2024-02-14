@@ -1,0 +1,21 @@
+--------------------similar_words:ビジュオペラ神戸ステューディオ--------------------
+top3 entities near to cluster0>>
+指輪, リング
+top3 entities near to cluster1>>
+店内, 店員, 個室
+top3 entities near to cluster2>>
+自信, 満足, 疑問
+top3 entities near to cluster3>>
+文字色, 文字
+top3 entities near to cluster5>>
+リング, ゴールド, カラー
+top3 entities near to cluster6>>
+バングル, ゴールド, ネックレス
+top3 entities near to cluster7>>
+サプライズ, スタッフ, イベント
+top3 entities near to cluster8>>
+思い出, 雰囲気, プラン
+top3 entities near to cluster10>>
+経験, 体験, 作業
+top3 entities near to cluster11>>
+日, 月, 時間

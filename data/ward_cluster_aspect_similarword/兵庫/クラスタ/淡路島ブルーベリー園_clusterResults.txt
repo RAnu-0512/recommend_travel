@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路島ブルーベリー園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+所, 終了, 場所, 人達, 帰り道, 向こう, サークル, 人, 種類, いくつか, シーズン, 最後, 土産, 企画, 案内, ジャム
+cluster1:(2)
+実, 木
+cluster2:(3)
+ナビ, 畑, 道
+cluster3:(1)
+角辺り
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 3entities.

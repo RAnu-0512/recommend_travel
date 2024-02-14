@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:筱見四十八滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+桜, 場所, 夏, 気持ち, バーベキュー, 四十八滝, 紅葉, 春, 秋, 道, 個人, キャンプ, 冬, 避暑, 家族, 迫力
+cluster1:(2)
+渓流遊び, 渓流
+cluster2:(3)
+弁天滝, シャレ滝, 滝
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 2entities.

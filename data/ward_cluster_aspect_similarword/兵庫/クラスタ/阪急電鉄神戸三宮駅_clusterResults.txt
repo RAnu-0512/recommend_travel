@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阪急電鉄神戸三宮駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+阪急神戸, 神戸三宮, 阪急電鉄神戸線, 阪急神戸線, 阪急, 阪急電車, 神戸三宮駅
+cluster1:(10)
+神戸, 西宮ガーデンズ, 商店街, 有馬温泉, 大阪, 三宮, 梅田, 京都, 南京町, 生田神社
+cluster2:(8)
+出口, 電車, 改札, 往復, 地下, 特急, スヌーピー電車, 混ま
+cluster3:(9)
+場所, 観光, 方面, 拠点, 周辺, 設立, 移動, 中心, 近く
+cluster4:(10)
+ところ, ショッピング, アクセス, マイカー, 待ち合わせ, マクドナルド, スヌーピーlover, 雰囲気, 阪神電鉄, 乗り換え
+cluster5:(2)
+地下鉄, ホーム
+cluster6:(1)
+新開地
+cluster7:(1)
+人
+cluster8:(1)
+色
+cluster9:(4)
+噂, 気, 必要, こと
+cluster10:(1)
+渋み
+cluster11:(12)
+利用者, 駅名, 駅そのもの, 三ノ宮駅, 乗降客, JR, 駅, JR線, 商業施設, 利用価値, 徒歩, 駅周辺
+
+howmany entities : 66
+howmany clusters : 12
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 7
+deleted 6entities.

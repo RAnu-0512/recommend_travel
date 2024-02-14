@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:越木岩神社のヒメユズリハ群落>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩, 石垣
+cluster1:(5)
+ヒメユズリハ, ユズリハ, 甑岩, 大阪城, 神社
+cluster2:(1)
+工事
+cluster3:(1)
+石切
+cluster4:(1)
+ヒメユズリハ群落
+cluster5:(1)
+職人たち
+cluster6:(3)
+磐座, 西宮市, 兵庫県
+cluster7:(1)
+こしきいわ
+cluster8:(1)
+越木岩神社
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 8entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:心温まる宿 ひだまり--------------------
+top3 entities near to cluster0>>
+送迎, 温泉, バス
+top3 entities near to cluster1>>
+卓球, テニス, バドミントン
+top3 entities near to cluster2>>
+腹, 満腹, カニ
+top3 entities near to cluster4>>
+家族, 全員, 孫
+top3 entities near to cluster5>>
+コース, 日帰り, フルコース
+top3 entities near to cluster8>>
+食事, 料理, 部屋

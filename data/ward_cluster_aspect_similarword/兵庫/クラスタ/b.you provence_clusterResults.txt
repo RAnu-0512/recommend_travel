@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:b.you provence>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アーティフィシャルフラワー, コサージュ
+cluster1:(1)
+アイデア
+cluster2:(1)
+先生
+cluster3:(1)
+種類
+cluster4:(1)
+配置
+cluster5:(1)
+花材
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名水文殊の水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+感じ, ほか, 気持ち, 人, くせ, 仕上げ, 方
+cluster1:(2)
+場所, 地元
+cluster2:(1)
+料理
+cluster3:(3)
+自然, 恵み, 水
+cluster4:(1)
+洗顔
+cluster5:(1)
+ポリタンク
+cluster6:(3)
+福地渓谷, 名水, 湧水
+cluster7:(1)
+モチモチ感
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 6entities.

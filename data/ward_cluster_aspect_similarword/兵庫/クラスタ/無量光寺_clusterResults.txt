@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:無量光寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+源氏物語, 片隅, 明石, 祠, 月見, 光源氏, 寺, 墓地, 鳥居, ゆかり, 地, 光源氏大明神
+cluster1:(2)
+岡辺の館, 蔦の細道
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:賀茂神社(兵庫県たつの市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+片岡社, 室津, 室津74, 貴布祢社, 若宮社, 菅原道真, 太田社, たつの市, 御津町, 兵庫県
+cluster1:(10)
+社殿, 神社, 拝殿, 祭神, とび拝殿, 上賀茂神社, 主祭神, 摂社, 本殿左右, 本殿
+cluster2:(2)
+国重文, 初代天皇
+cluster3:(2)
+命, オカミ神
+cluster4:(2)
+海, 風
+cluster5:(5)
+別名, 場所, NHK, 歴史, 雰囲気
+cluster6:(1)
+道
+cluster7:(1)
+回廊
+cluster8:(1)
+室明
+cluster9:(7)
+賀茂建角身命@下鴨神社, 天照大神・豊受大神, 意富多多泥子命, 賀茂建角, 玉依日子命, 建速須佐之男命, 賀茂別雷命
+
+howmany entities : 41
+howmany clusters : 10
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 9entities.

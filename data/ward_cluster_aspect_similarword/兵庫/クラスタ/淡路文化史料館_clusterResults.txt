@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路文化史料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+自然, 歴史, 文化
+cluster1:(5)
+山, 人形浄瑠璃, スタンプ, 淡路島, ビデオ
+cluster2:(4)
+感じ, 場所, 時代, 前
+cluster3:(2)
+館内, 料金
+cluster4:(1)
+石垣
+cluster5:(4)
+復元舞台, 豊かさ, 展示, 展示物
+cluster6:(11)
+資料館, 文化資料, 御城印, 日本100名城, 大浜公園, 地方文化, 洲本城, 直原玉青画, 淡路文化史料館, 小さなお堀, 三熊山
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 3entities.

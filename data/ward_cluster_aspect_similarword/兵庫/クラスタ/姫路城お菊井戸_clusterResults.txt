@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路城お菊井戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+皿屋敷, 番長皿屋敷, お菊井戸
+cluster1:(2)
+怪談, 怪談伝説
+cluster2:(8)
+場所, 抜け道, 話, お化け, アプリ, 物語, 仕組み, 中
+cluster3:(3)
+感じ, 説, 作り話かも
+cluster4:(5)
+金網, 井戸, 姫路城内, 菊, 城外
+cluster5:(1)
+秘密保持
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 3entities.

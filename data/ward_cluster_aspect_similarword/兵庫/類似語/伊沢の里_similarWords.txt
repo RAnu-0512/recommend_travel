@@ -1,0 +1,13 @@
+--------------------similar_words:伊沢の里--------------------
+top3 entities near to cluster0>>
+湯, 風呂, お湯
+top3 entities near to cluster1>>
+予約, 受付, 消化
+top3 entities near to cluster3>>
+問題, 施設, 対応
+top3 entities near to cluster4>>
+気持ち, 露天風呂, 子ども
+top3 entities near to cluster5>>
+水風呂, サウナ, プール
+top3 entities near to cluster8>>
+近場, 貸切, 近

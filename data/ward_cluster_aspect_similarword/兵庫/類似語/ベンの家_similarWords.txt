@@ -1,0 +1,9 @@
+--------------------similar_words:ベンの家--------------------
+top3 entities near to cluster0>>
+館, 異人, 棲龍
+top3 entities near to cluster1>>
+ベン, ジャミン, サム
+top3 entities near to cluster2>>
+剥製, 動物, 標本
+top3 entities near to cluster6>>
+洋館, 邸宅, 建物

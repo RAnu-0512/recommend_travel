@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊岡市立コウノトリ文化館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供連れ, 小さなお子
+cluster1:(20)
+スタッフ, 野生, 鳥, 農薬, 動物, つがい, 望遠鏡, 剥製, スピーカー, 中国, 見ごたえ, 田んぼ, 羽, 大人, コウノトリ, 折り紙, 巣, 郷, 乱獲, 輪
+cluster2:(18)
+資料, 場所, 姿, 外, 説明, 地, 勉強, 内容, 協力金, 建物, 方々, 方, 地域, 展示, 必要, こと, 受付, 上
+cluster3:(7)
+コウノトリ館, 館内放送, 文化館, 文化, 豊岡駅, 館内, 駐車場
+cluster4:(1)
+豊岡市立コウノトリ文化館
+
+howmany entities : 48
+howmany clusters : 5
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 3
+deleted 3entities.

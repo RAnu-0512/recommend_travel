@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本・モンゴル民族博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+民族衣装, 衣装, 民族, 狩猟道具, 移動式住居
+cluster1:(7)
+資料, 品々, 見学者, 記念写真, 施設, 展示, 写真
+cluster2:(9)
+感じ, 値段, ほか, お子, もの, 人気, 思い, 方, 意外
+cluster3:(2)
+ゲル, モ ンゴル
+cluster4:(2)
+モンゴル, チベット
+cluster5:(3)
+スタッフ, 見どころ, チューリップ
+cluster6:(2)
+暮らし, 博物館
+cluster7:(1)
+遊牧民
+cluster8:(4)
+人, 両親, 日本, 女性
+cluster9:(5)
+芸術, 自然, 内部, 歴史, 文化
+cluster10:(1)
+豊岡
+cluster11:(1)
+・・・
+
+howmany entities : 42
+howmany clusters : 12
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 6
+deleted 9entities.

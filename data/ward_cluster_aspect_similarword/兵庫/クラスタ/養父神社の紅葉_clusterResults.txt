@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:養父神社の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紅葉巡り, 紅葉
+cluster1:(8)
+雰囲気, 絨毯, 境内, 兵庫, 橋, 葉, 風景, 季節
+cluster2:(1)
+養父神社
+cluster3:(1)
+鳥取&湯村温泉
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

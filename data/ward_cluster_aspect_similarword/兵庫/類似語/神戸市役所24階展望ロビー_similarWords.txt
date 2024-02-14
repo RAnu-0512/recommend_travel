@@ -1,0 +1,37 @@
+--------------------similar_words:神戸市役所24階展望ロビー--------------------
+top3 entities near to cluster0>>
+展望, 展望台, 眺望
+top3 entities near to cluster2>>
+ロード, パーク, フラワー
+top3 entities near to cluster3>>
+フロア, ロビー, 最上階
+top3 entities near to cluster4>>
+おすすめ, オススメ, ポイント
+top3 entities near to cluster5>>
+喫茶店, カフェ, デート
+top3 entities near to cluster6>>
+レストラン, イルミネーション, エレベーター
+top3 entities near to cluster7>>
+気持ち, 気持, 見ごたえ
+top3 entities near to cluster9>>
+サイド, ボタン, おなか
+top3 entities near to cluster10>>
+市街地, 市街, 街並み
+top3 entities near to cluster12>>
+時間, 平日, 混雑
+top3 entities near to cluster14>>
+展示, 紹介, 表記
+top3 entities near to cluster19>>
+景色, 眺望, 山並み
+top3 entities near to cluster21>>
+食事, 料理, 夕食
+top3 entities near to cluster22>>
+玄関, 時計
+top3 entities near to cluster23>>
+高層, 警備, ビル
+top3 entities near to cluster25>>
+港, 港町, 区
+top3 entities near to cluster26>>
+駅, 徒歩, 駅前
+top3 entities near to cluster29>>
+夜景, 景色, 絶景

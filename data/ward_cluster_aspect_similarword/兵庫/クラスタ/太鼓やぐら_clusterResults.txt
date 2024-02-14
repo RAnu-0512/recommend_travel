@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太鼓やぐら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+織田信長, 織田家の城下町
+cluster1:(4)
+櫓, 太鼓櫓, つつじ太鼓, 太鼓
+cluster2:(11)
+丹波市, 地, 偉容, 歴史, 末裔, 町, 前, 建物, 柏原, 雰囲気, こと
+cluster3:(2)
+藩主, 江戸時代
+cluster4:(1)
+兵庫県
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 5entities.

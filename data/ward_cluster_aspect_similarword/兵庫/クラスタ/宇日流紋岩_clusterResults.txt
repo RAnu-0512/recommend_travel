@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇日流紋岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光名所, 観光客
+cluster1:(8)
+スポット, 模様, 自然, 岩, 人気, 車, 迫力, 海
+cluster2:(2)
+高山累層宇日流紋岩層, 宇日流紋岩
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

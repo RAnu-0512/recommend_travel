@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸サウナ&スパ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩盤浴, 蒸気浴
+cluster1:(2)
+安心感, 清潔感
+cluster2:(3)
+神戸, 三宮, 生田神社
+cluster3:(3)
+開催時間, 暑さ, 予約時間
+cluster4:(7)
+外, 場所, 次回, 休憩スペース, 時間, 駅, 近く
+cluster5:(4)
+値段, 料金, 程度情報, 会員
+cluster6:(7)
+愛想, 風呂, 観光スポット, 食事, 清掃, 設備, 温泉
+cluster7:(5)
+ロウリュウサービス, ホテルスパ, チェックイン, ロケーション, ローズソルト
+cluster8:(2)
+スタッフ, フロント
+cluster9:(1)
+露天風呂
+cluster10:(1)
+クーポン
+cluster11:(1)
+メイン
+cluster12:(1)
+プラン
+cluster13:(3)
+ソファ, サウナ, フロア
+cluster14:(7)
+香り, 基調, 白, バラ, 女性フロア, 女性, 肌
+cluster15:(3)
+天然温泉, サウナ スパ, スパ
+
+howmany entities : 52
+howmany clusters : 16
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 9
+deleted 10entities.

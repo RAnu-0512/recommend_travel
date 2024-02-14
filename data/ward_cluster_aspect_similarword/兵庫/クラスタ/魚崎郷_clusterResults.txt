@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:魚崎郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+酒蔵巡り, 酒蔵
+cluster1:(3)
+神戸, 震災, 梅
+cluster2:(4)
+酒, 日本酒, 方, 土産
+cluster3:(5)
+遊歩道, 建物, 施設, 公園, 見学
+cluster4:(1)
+河岸
+cluster5:(6)
+魚崎駅, 住吉川, 魚崎郷, 櫻正宗, 菊正宗, 浜福鶴
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 3entities.

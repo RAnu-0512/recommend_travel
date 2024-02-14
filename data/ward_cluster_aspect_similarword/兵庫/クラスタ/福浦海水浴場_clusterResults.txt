@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福浦海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海水浴, プライベートビーチ
+cluster1:(3)
+ピーク, 小振り, 近く
+cluster2:(1)
+感じ
+cluster3:(1)
+民宿
+cluster4:(1)
+芋
+cluster5:(1)
+真夏
+cluster6:(1)
+海水浴場
+cluster7:(1)
+混み具合
+
+howmany entities : 11
+howmany clusters : 8
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 8entities.

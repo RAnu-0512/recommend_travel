@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐のう地区>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+自然, 場所, 車, 走行, 音, 地元, 窓, 景色, 電車, 豊
+cluster1:(2)
+佐のう地区, 朝来地区
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

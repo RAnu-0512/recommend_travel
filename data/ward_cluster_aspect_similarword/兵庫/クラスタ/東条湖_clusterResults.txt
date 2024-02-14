@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東条湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+赤ちゃん, ドライブ, ボート, 人造湖, 自然, テレビ, 東条湖, スワン, 水族館, 通行止め, ホテル, 夕焼け, 自動車ドライブ, 子供, 離乳食, 孫
+cluster1:(3)
+魚, 足, 宿
+cluster2:(10)
+場所, 景色, 訪問, 大昔, 光景, 郷里, 帰り, 方, 帰省, 近く
+cluster3:(4)
+朝食バイキング, 夕食, 娘夫婦, 休業
+cluster4:(11)
+湖, 湖面, 観光スポット, 遊覧船, 遊園地, ホテルグリーンプラザ東条湖, 鴨川ダム, 釣り, ブラックバス, 湖畔, バス釣り
+cluster5:(6)
+王国, 岐阜県, 東条湖ランドおもちゃ王国, 東条湖おもちゃ王国, 加東市, 兵庫県
+
+howmany entities : 50
+howmany clusters : 6
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 6
+deleted 0entities.

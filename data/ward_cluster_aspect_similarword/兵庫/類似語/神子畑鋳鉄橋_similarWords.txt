@@ -1,0 +1,17 @@
+--------------------similar_words:神子畑鋳鉄橋--------------------
+top3 entities near to cluster0>>
+線路橋, 鉄橋, 線路
+top3 entities near to cluster1>>
+設備, 支柱
+top3 entities near to cluster3>>
+跡, 跡地, 遠望
+top3 entities near to cluster7>>
+分離, 装置, 配電
+top3 entities near to cluster8>>
+選鉱場, 駐車場, 選鉱, 駐車
+top3 entities near to cluster9>>
+線路, 工場, 軌道
+top3 entities near to cluster10>>
+鋳鉄, 鉄製
+top3 entities near to cluster12>>
+神子畑, 選鉱, 神子

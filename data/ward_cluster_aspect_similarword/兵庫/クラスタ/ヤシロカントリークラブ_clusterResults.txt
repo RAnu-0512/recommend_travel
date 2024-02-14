@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヤシロカントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浮島グリーン, 池
+cluster1:(2)
+フェアウェイ, パー
+cluster2:(2)
+景色, 季節
+cluster3:(8)
+OUT, ホテル, ティーショット, グリーン, 人, 頭, コース, ホール
+cluster4:(1)
+飛距離
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 7entities.

@@ -1,0 +1,25 @@
+--------------------similar_words:掬星台--------------------
+top3 entities near to cluster0>>
+掬星, 掬
+top3 entities near to cluster1>>
+駅車, 駅, 運転
+top3 entities near to cluster2>>
+登山, 山道, 山頂
+top3 entities near to cluster3>>
+景色, 曇り空, 天気
+top3 entities near to cluster8>>
+コース, ウェイ, ハイキング
+top3 entities near to cluster9>>
+気持ち, 雰囲気, オススメ
+top3 entities near to cluster10>>
+ロープウェー, ケーブルカー, ロープーウェイ
+top3 entities near to cluster12>>
+景色, ハイキング, 夜景
+top3 entities near to cluster14>>
+ドライブ, ポイント, アクセス
+top3 entities near to cluster16>>
+カフェ, カメラ, 夕暮れ
+top3 entities near to cluster22>>
+夕方, 夜, 昼間
+top3 entities near to cluster27>>
+夜景, 展望, 景色

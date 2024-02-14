@@ -1,0 +1,13 @@
+--------------------similar_words:加古川温泉 みとろ荘--------------------
+top3 entities near to cluster0>>
+温泉, 湯, 風呂
+top3 entities near to cluster7>>
+建物, 設備, 施設
+top3 entities near to cluster8>>
+低温, 消化, 加熱
+top3 entities near to cluster10>>
+前回, 是非, 前々回
+top3 entities near to cluster16>>
+サウナ, 露天風呂, ホテル
+top3 entities near to cluster17>>
+食事, 休憩, 昼食

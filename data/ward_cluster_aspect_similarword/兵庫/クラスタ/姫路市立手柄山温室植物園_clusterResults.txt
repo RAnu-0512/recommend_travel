@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路市立手柄山温室植物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+サボテン, 感じ, 机, 植物, 入場料, 外, 弁当, 人, 車, 持参, 小温室, 入園料, 椅子, 食虫植物, 観葉植物, 駅, 手柄駅, 公園, 手柄山中央公園, 木々, 温室, 徒歩, こと, 駐車料金, 物足りなさ, こども
+cluster1:(4)
+洋ラン原種展, 播磨の絶滅危惧種展, 温室植物園, 手柄山温室植物園
+
+howmany entities : 30
+howmany clusters : 2
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍野公園の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+龍野城裏, 龍野公園
+cluster1:(13)
+公園, 紅葉狩り, 紅葉谷, 感じ, 中, 人, 森, 紅葉, 遊歩道, 紅葉スポット, 聚遠亭, 秋, 高台
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

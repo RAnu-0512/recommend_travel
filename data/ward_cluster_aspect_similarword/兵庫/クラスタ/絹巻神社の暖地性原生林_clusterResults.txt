@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:絹巻神社の暖地性原生林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+暖地性, 暖地性原生林, 原生林
+cluster1:(3)
+文化財指定, 指定文化財, 指定
+cluster2:(5)
+社殿, 神社, 古社, 気比, 創建
+cluster3:(4)
+森, 浜, 空色, 麓
+cluster4:(3)
+スダジイ, 天然記念物, クスノキ
+cluster5:(2)
+ところ, スポット
+cluster6:(1)
+ツバキ
+cluster7:(1)
+亜熱帯
+cluster8:(1)
+円山川
+cluster9:(2)
+途中, 周囲
+cluster10:(1)
+樹木
+cluster11:(1)
+迫力
+cluster12:(1)
+シイ
+cluster13:(1)
+散策路
+cluster14:(6)
+港大橋, レイセニット城崎スイート, 兵庫県, 絹巻山, 絹巻神社, 城崎温泉
+cluster15:(1)
+豊岡市気比の絹巻神社
+
+howmany entities : 36
+howmany clusters : 16
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 6
+deleted 12entities.

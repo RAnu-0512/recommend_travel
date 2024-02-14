@@ -1,0 +1,9 @@
+--------------------similar_words:上坂部西公園--------------------
+top3 entities near to cluster1>>
+花, お花, 薔薇
+top3 entities near to cluster3>>
+子供, 子ども, 家族
+top3 entities near to cluster4>>
+周辺, 近辺, 昼間
+top3 entities near to cluster9>>
+公園, 緑地, 遊歩道

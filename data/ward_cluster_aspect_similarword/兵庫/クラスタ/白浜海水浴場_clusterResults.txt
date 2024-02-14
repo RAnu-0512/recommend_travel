@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+海水浴場, 更衣室, 白浜海水浴場, 駐車場込み
+cluster1:(23)
+感じ, 海水, 場所, 波, 夏, 営業, 酒, 弁当, 浮き輪, 食事, 山下屋, 家, コロナ禍, トイレ, 砂浜, 家族, 姫路, 子供, 透明度, 温水シャワー, 海, 提供, 飲み物
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 2
+deleted 0entities.

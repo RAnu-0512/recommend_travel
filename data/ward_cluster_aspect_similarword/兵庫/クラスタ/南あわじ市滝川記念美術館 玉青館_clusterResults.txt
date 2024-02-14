@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南あわじ市滝川記念美術館 玉青館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山道, 首
+cluster1:(4)
+絵画, 作品, 建物, 題材
+cluster2:(2)
+場所, もの
+cluster3:(5)
+青銅器, エントランス, 見ごたえ, 美術館, 淡路島
+cluster4:(1)
+中国
+cluster5:(1)
+じき
+cluster6:(1)
+教え
+cluster7:(1)
+機会
+cluster8:(6)
+直原玉青, 故宮博物館, 特別展, 展示室, 天井絵, 展示
+cluster9:(3)
+現代南画, 雲龍図, 南画画家
+cluster10:(3)
+西淡三原IC, 南あわじ市, 禅の牧牛 うしかひ草
+
+howmany entities : 29
+howmany clusters : 11
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 8entities.

@@ -1,0 +1,5 @@
+--------------------similar_words:合格の湯(天然温泉まんどの湯)--------------------
+top3 entities near to cluster0>>
+お湯, 風呂, 温泉
+top3 entities near to cluster2>>
+サウナ, 水風呂, 露天風呂

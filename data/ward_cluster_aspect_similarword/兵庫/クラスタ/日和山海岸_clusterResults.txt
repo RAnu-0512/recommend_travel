@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日和山海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+沖, 途中, リアス式海岸, 波, 景色, お子さん連れ, ドライブ, 気持ち, キラキラ, 人, レストラン, 海蝕, 魚, 円山川, 遊歩道, 帰り, ワールド, マリンワールド, 開園待ち, 岩場, 間, 展望台, 日本, 奇岩, 雰囲気, 河口, 迫力, セット, 海, 風, 近く
+cluster1:(2)
+海岸線, 海岸沿い
+cluster2:(3)
+海岸美, 日和山海岸, 海岸
+cluster3:(7)
+日和山温泉, 観光スポット, 景勝地, 城崎温泉, 温泉, 龍宮城, 城崎マリン
+
+howmany entities : 43
+howmany clusters : 4
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 3
+deleted 2entities.

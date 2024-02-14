@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:絵島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+車, 建物, 売店, 橋
+cluster1:(6)
+中, 下, 場所, 時間, 隣, 近く
+cluster2:(3)
+自然, 表面, 歴史
+cluster3:(1)
+頂上
+cluster4:(14)
+面白み, ジェノバライン, 乗り場, 大輪田, 明石海峡大橋, 静けさ, 泊, 淡路島, パワースポット, 平清盛, スポット, 明石海峡, イザナギ・イザナミ, スープ
+cluster5:(1)
+径
+cluster6:(7)
+間近, 納得, 姿, 形, こと, 感じ, 影響
+cluster7:(4)
+人たち, 屈指, 孤高, 人柱
+cluster8:(2)
+海原, 波
+cluster9:(2)
+浸食, 上陸
+cluster10:(16)
+岩肌, 和歌, 神話, 景観, 石塔, 景色, 造形物, 地層, 観光, 美しさ, 岩, 眺め, 伝承地, 名所, 風景, 駐車場
+cluster11:(7)
+島, 絵, 絵島島, 島全体, 絵島, 国生み神話, おのころ島
+cluster12:(2)
+砂岩, 砂岩層
+cluster13:(3)
+明石, 岩屋港, 淡路
+cluster14:(2)
+北東, 北東端
+cluster15:(3)
+陸側, 海側, 海
+cluster16:(1)
+松王丸
+
+howmany entities : 78
+howmany clusters : 17
+howmany entities (more than3entities) : 67
+howmany clusters (more than3entities) : 10
+deleted 11entities.

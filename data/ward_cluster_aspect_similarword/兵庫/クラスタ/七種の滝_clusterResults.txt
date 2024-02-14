@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七種の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+家族, 途中, 時期, 雨, 見ごたえ
+cluster1:(3)
+ドライブ 滝, 滝, 水量
+cluster2:(1)
+やんだり
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 1entities.

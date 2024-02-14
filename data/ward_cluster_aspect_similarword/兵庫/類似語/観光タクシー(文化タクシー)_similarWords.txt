@@ -1,0 +1,7 @@
+--------------------similar_words:観光タクシー(文化タクシー)--------------------
+top3 entities near to cluster0>>
+異人, 館, 洋館
+top3 entities near to cluster1>>
+宿泊, バス, 周遊
+top3 entities near to cluster2>>
+建物, 洋館, 館

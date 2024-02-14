@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サンロイヤルゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ところ, コース, ゴルフ, スコア, セルフ
+cluster1:(3)
+食事, 景色, 昼食
+cluster2:(1)
+距離
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 1entities.

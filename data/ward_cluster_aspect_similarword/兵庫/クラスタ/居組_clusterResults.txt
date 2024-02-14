@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:居組>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+形跡, 面影
+cluster1:(4)
+景色, 岩, 海岸, 海
+cluster2:(7)
+場所, 途中, 鳥取砂丘, もの, 人, 移動, 山陰線
+cluster3:(3)
+車, 町, 駅
+cluster4:(1)
+駅舎
+cluster5:(6)
+海岸沿い, 居組駅, 兵庫県, 香住方面, 山陰海岸ジオパーク, 居組漁港
+cluster6:(1)
+乗降客数
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 4entities.

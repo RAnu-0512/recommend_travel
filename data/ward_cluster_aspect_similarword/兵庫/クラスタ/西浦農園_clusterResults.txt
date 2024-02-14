@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西浦農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+食べ比べ, 酸っぱさ, また採り方, 甘さ, 思いながらいざビニールハウス
+cluster1:(4)
+鳥, 自然, 稀, 水
+cluster2:(3)
+苺, イチゴ, いちご
+cluster3:(13)
+トップクラス, 切り返し, 春休み, 口コミ, ファミリー, ビニールハウス, カップル, さえずり, 雰囲気, 小学生, 言い方, ハウス, トラブル
+cluster4:(2)
+味, 口
+cluster5:(4)
+子供達, 主人, 息子, 子供
+cluster6:(12)
+全員, 人, 車, こちら側, 客, 割合, 方々, 方, 中, 男性, 他, 人数
+cluster7:(2)
+開始時間, 時間
+cluster8:(3)
+愛想, 態度, 悪気
+cluster9:(3)
+再訪, 予約, 体験
+cluster10:(3)
+もの, 気, こと
+cluster11:(2)
+説明, 対応
+cluster12:(1)
+不安
+cluster13:(1)
+ミス
+cluster14:(7)
+章姫, 西浦農園, 品種, 農家, 農園, イチゴ狩り, 駐車場
+
+howmany entities : 65
+howmany clusters : 15
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 10
+deleted 8entities.

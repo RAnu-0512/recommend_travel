@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆかた専門店いろは>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+髪飾り, 髪色, 髪
+cluster1:(2)
+日傘, 番傘
+cluster2:(16)
+デート, 気持ち, アドバイス, 系統, 色合い, 時間, ヘアーセット, 色, 帯, 方, 横, 中, 雰囲気, 雨, セット, 体験
+cluster3:(8)
+宿, ゆかた, 旅行, 浴衣, 女性, 肌, 店, 男性
+cluster4:(1)
+遜色
+cluster5:(1)
+城崎
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 4entities.

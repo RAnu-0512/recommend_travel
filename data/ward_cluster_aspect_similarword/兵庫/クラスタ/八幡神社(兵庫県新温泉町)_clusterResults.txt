@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡神社(兵庫県新温泉町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+散歩, 散策, 散歩コース
+cluster1:(21)
+感じ, 桜, 場所, ところ, 景色, もの, 人, 花, 趣, 帰り, 心, 人々, 人たち, 散歩道, 雰囲気, 階段, 時期, こと, 気分, パワースポット, 近く
+cluster2:(3)
+夫婦杉, 石塔, 夫婦
+cluster3:(2)
+(笑)温泉, 杉の木
+cluster4:(6)
+湯治, 湯村温泉, 温泉街, 宿, 観光客, 温泉
+cluster5:(7)
+神社, 境内, 八幡神社, 神社めぐり, イボ, 初詣, イボ神社
+
+howmany entities : 42
+howmany clusters : 6
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 5
+deleted 2entities.

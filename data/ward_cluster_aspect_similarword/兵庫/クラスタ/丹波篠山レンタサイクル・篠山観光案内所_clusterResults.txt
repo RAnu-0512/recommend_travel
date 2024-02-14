@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波篠山レンタサイクル・篠山観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+十字架, 所, もの, 人, 自転車, レンタサイクル, 方, 地元, マップ, 上
+cluster1:(2)
+教会, 屋根
+cluster2:(1)
+大正ロマン館
+cluster3:(4)
+篠山市, 篠山城, 堀周辺城下町, 篠山城石垣
+cluster4:(2)
+観光, 観光地
+cluster5:(2)
+篠山観光, 篠山観光協会
+cluster6:(4)
+篠山観光案内所, 観光案内所, 観光案内マップ, 案内書
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 7entities.

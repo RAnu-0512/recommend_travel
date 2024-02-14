@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木の殿堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入場料, 入館料
+cluster1:(5)
+安藤忠雄, 木材建築, 建築, 建築物, 展示物
+cluster2:(2)
+組み木, 木
+cluster3:(4)
+場所, 事, こと, 素晴らしさ
+cluster4:(2)
+必見, 力作
+cluster5:(2)
+指導, 先生
+cluster6:(3)
+ひととき, オススメ, ひんやり
+cluster7:(3)
+おもちゃ, オモチャ, 子ども
+cluster8:(1)
+パズル
+cluster9:(1)
+子供
+cluster10:(1)
+帰り
+cluster11:(13)
+香り, 近隣, 景色, 動物, 北, 自然, 但馬, 森, 太陽, 癒し, 日本, 光, 山々
+cluster12:(7)
+宿泊, 殿堂, 別館, 観光スポット, 入園, 施設, 本館
+cluster13:(12)
+垂直, 柱, 通路, 木材, 設計, 空間, 内部, 建物, 木製, 外観, 円形リング, 電動ノコギリ
+cluster14:(4)
+子供連れ, 生命力, 植物園, 幼稚園児
+cluster15:(4)
+休憩室, 湯村温泉, 展望場所, 駐車場
+
+howmany entities : 66
+howmany clusters : 16
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 9
+deleted 11entities.

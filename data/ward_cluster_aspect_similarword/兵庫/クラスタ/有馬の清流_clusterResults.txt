@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有馬の清流>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(29)
+清流沿い, ところ, 話, ホタル, 河川, 下, 蛍, 三宮, 太閤橋, 合流点, 川, 流れ, 又見, ねね橋, 清流, 方, 歩道, 公園, 水, 川沿い, 浴衣, 子ども, 雰囲気, 階段, 旅館, 神戸電鉄有馬線, 水遊び, 温泉, 終わり
+cluster1:(6)
+親水公園, 有馬温泉駅, 有馬温泉, 有馬, 有馬川親水公園, 有馬川
+
+howmany entities : 35
+howmany clusters : 2
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 2
+deleted 0entities.

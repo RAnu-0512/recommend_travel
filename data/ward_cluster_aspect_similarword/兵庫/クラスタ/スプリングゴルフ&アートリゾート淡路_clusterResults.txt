@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スプリングゴルフ&アートリゾート淡路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハモ, ハモづくし
+cluster1:(2)
+ゴルフ場, 総合リゾートホテル
+cluster2:(6)
+レストラン, サンセット, パノラマ, 客室, 高台, 料理
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

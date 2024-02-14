@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夢公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+公園, 広場, 夢公園
+cluster1:(4)
+酒, 腕組み, 自転車デビュー, こどもたち
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 0entities.

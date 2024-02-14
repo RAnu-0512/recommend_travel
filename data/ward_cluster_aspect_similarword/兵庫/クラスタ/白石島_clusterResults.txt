@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白石島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+海水, 沖, 島, 洞窟, 海
+cluster1:(3)
+観光, 釣りスポット, 釣り
+cluster2:(18)
+釣り船, 場所, ところ, 無人島, ビーチ, マイナースポット, もの, 人, クリア, スキューバダイビング, 白石島, 釣り場, 白色凝灰岩, 子供, 他, シュノーケル, 近く, 写真
+cluster3:(1)
+大きさ
+cluster4:(3)
+今子浦, 遊覧船, 香住
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 4
+deleted 1entities.

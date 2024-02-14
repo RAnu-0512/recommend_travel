@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:こうべ甲南武庫の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+平介茶屋, 平介定食
+cluster1:(2)
+登録有形文化財, 有形文化財
+cluster2:(25)
+作り方, 資料館, 場所, 道具, 座敷, 試食, 訪問, ランチ, 写真, 食事, 食事処, 漬物, 建物, 展示スペース, レトロ, 元社長, 廊下, お家, 後程, 展示, カレーライス, こと, 名前, 売店, オススメ
+cluster3:(2)
+甲南漬, 粕汁定食
+
+howmany entities : 31
+howmany clusters : 4
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 1
+deleted 6entities.

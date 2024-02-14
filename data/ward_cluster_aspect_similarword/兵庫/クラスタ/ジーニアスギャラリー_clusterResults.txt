@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジーニアスギャラリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大丸, 神戸
+cluster1:(7)
+大人, カフェ, ショップ, ジーニアスギャラリー, 目, ブルー, デザイン
+cluster2:(3)
+建物, 別館, ビル
+cluster3:(2)
+モダン建築家, 複合商業施設
+cluster4:(1)
+大丸近くの旧居留地
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 5entities.

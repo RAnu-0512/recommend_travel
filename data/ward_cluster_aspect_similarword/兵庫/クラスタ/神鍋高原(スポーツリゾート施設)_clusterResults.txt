@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神鍋高原(スポーツリゾート施設)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光地, 湯村方面
+cluster1:(12)
+感じ, スキー場, 自然, アクセス, 放置状態, 緑, 国道, トンネル開通, 中心, 道, 方, かんなべ
+cluster2:(1)
+神鍋高原
+cluster3:(1)
+ノД`
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 4entities.

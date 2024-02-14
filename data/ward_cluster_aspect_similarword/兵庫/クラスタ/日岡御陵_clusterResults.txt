@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日岡御陵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+御陵, 宮内庁, 説明, 神社
+cluster1:(3)
+関係, 関係者, 参拝者
+cluster2:(2)
+日岡神社, 社務所
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:休天神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+事, 大宰府, 別名, 一つ
+cluster1:(3)
+祠, 由緒, 神社
+cluster2:(1)
+明石天満宮
+cluster3:(1)
+やすみ てんじんしゃ
+cluster4:(3)
+休天神社, 菅公聖蹟, 菅原道真公
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲鍵ファーム(有馬富士)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+手摘み, 摘み方
+cluster1:(3)
+いちご大, 家族みんな大, 喜び勇ん
+cluster2:(4)
+笑ハウス, 開始時間, お持ち帰り分, 笑)スタッフ
+cluster3:(5)
+苺, いちご棚, ちご, いちご狩り, 農園
+cluster4:(10)
+子, 子供たち, 小さな子, 笑顔, 大人, 顔, 年齢, 子供, 娘, 夫
+cluster5:(7)
+所, 場所, 景色, 未来製作所, 車, 天気, 公園
+cluster6:(6)
+感じ, 注意, 説明, 方たち, 問題, 方
+cluster7:(2)
+イチゴ, いちご
+cluster8:(2)
+口コミ, 選び方
+cluster9:(12)
+ところ, スタッフ, ハズレ, バーベキュー, スーパー, ハサミ, お出かけ, ベンチ, エスコヤマ, ハウス, 兄さん, ハンバーガー
+cluster10:(7)
+外, 赤, 時間, 半分, 他, 昼, 近く
+cluster11:(3)
+駐車場入り口, 有馬富士公園, 駐車場
+
+howmany entities : 63
+howmany clusters : 12
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 9
+deleted 6entities.

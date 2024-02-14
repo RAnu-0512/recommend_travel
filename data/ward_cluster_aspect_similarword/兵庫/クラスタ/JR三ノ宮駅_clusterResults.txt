@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR三ノ宮駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神戸三宮, 神戸
+cluster1:(4)
+駅周辺, 繁華街, ターミナル駅, 駅
+cluster2:(10)
+人, 快速, 家族, 三ノ宮, 旅, JR, 列車, 電車, 多さ, 乗り継ぎ
+cluster3:(1)
+青春18きっぷ
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 3entities.

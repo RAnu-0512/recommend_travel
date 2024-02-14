@@ -1,0 +1,13 @@
+--------------------similar_words:御霊神社(兵庫県三田市)--------------------
+top3 entities near to cluster1>>
+歴史道, 歴史
+top3 entities near to cluster2>>
+必要, はず, 肝心
+top3 entities near to cluster5>>
+最寄り, バス停, 道のり
+top3 entities near to cluster13>>
+バス, 本数, 便数
+top3 entities near to cluster14>>
+鳥居, 坂, 林
+top3 entities near to cluster17>>
+神社, 境内, 本殿

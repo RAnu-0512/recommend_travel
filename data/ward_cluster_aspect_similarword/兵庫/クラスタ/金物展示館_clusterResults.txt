@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金物展示館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示即売会場, 金物展示館
+cluster1:(14)
+刃物類, 商品, 使う人, 宣伝, 製品, 業者, 好さ, 刃物, ・・, 金物, 三木市, まち, 駅, 道
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

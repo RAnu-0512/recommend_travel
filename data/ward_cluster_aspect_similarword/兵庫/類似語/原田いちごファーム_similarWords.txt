@@ -1,0 +1,13 @@
+--------------------similar_words:原田いちごファーム--------------------
+top3 entities near to cluster0>>
+イチゴ, 苺, いちご
+top3 entities near to cluster4>>
+息子, 娘, 孫
+top3 entities near to cluster8>>
+案内, 対応, 到着
+top3 entities near to cluster9>>
+美味しい, おいしい, ランチ
+top3 entities near to cluster10>>
+時間, 時, だけ
+top3 entities near to cluster11>>
+狩り, 食べ, イチゴ

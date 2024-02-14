@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清澄寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観賞式庭園, 池泉回遊式庭園
+cluster1:(10)
+江戸時代初期, 池泉, 滝, 書院, 亀島, 船着石, 石組, 中心, 鯉, 庭園
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

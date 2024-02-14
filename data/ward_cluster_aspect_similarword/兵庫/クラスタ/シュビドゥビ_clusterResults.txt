@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シュビドゥビ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+雑貨, 雑貨屋, 雑貨店
+cluster1:(2)
+パリ風, パリ
+cluster2:(2)
+値段, 店
+cluster3:(5)
+感じ, 昔, アクセサリー, プリン, アラカンパーニュ
+cluster4:(1)
+食器
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

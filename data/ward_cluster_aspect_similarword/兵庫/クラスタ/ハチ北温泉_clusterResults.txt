@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハチ北温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+旅館, 温泉
+cluster1:(8)
+中, 自然, 雰囲気, 他, 気分, 気持ち, 方, スキー
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

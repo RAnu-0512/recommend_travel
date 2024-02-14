@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青井浜ワンワンビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+犬連れ, ノーリード, ワンちゃん, わんちゃん
+cluster1:(2)
+風呂, 風呂上がり
+cluster2:(2)
+専用ビーチ, 設備
+cluster3:(2)
+ほう, こと
+cluster4:(3)
+ドライヤー, シャワー, スペース
+cluster5:(2)
+ビーチ, 海水浴
+cluster6:(1)
+人間
+cluster7:(1)
+海
+cluster8:(1)
+温泉
+cluster9:(1)
+水
+cluster10:(1)
+曇り
+cluster11:(1)
+盆
+cluster12:(1)
+駐車場
+cluster13:(1)
+水分補給
+
+howmany entities : 23
+howmany clusters : 14
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 16entities.

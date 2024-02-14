@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静の里公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+んびり散歩, 庭園公園, 駐車場
+cluster1:(19)
+感じ, 再生, 犬, 金塊, 黄金, 地, もの, 墓, 笑, 義経, 話題, 茶室, 金, オススメ, 国, 静御前, 公園, 名手, 淡路島
+cluster2:(3)
+静御, 津名, 兵庫県
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 3
+deleted 0entities.

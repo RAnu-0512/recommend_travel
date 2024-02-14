@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白毫寺(兵庫県丹波市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+薬師瑠璃光如来, 九尺藤, 大山白豪寺
+cluster1:(2)
+開山, 創建
+cluster2:(4)
+寺院, 境内, 本尊, 本堂
+cluster3:(21)
+白毫寺, 丹波市, 意, 開花, 藤, 天台宗, GW, 車, 花, アルプス, 見ごろ, 太鼓橋, フジ, ツツジ科, 側, パンフレット, フレーズ, 一種, ワタシ, ゴールデンウィーク旅, こと
+cluster4:(8)
+渋滞, 混雑, 旅行会社, 駐車待ち, 体力測定, 散り始め, 法道, 駐車場
+
+howmany entities : 38
+howmany clusters : 5
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 4
+deleted 2entities.

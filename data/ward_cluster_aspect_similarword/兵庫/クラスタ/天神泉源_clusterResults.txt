@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天神泉源>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+有馬本街道, 有馬温泉名物金泉, 有馬温泉, 有馬温泉街, 有馬天神社, 湯本坂・温泉街散策
+cluster1:(6)
+天神社, 天神, 神社, 境内, 鳥居, 石段
+cluster2:(3)
+程度, 周辺, 近く
+cluster3:(5)
+湯けむり, ポスト, 色, 雰囲気, 水蒸気
+cluster4:(1)
+屋根
+cluster5:(1)
+金
+cluster6:(4)
+感じ, 実感, 勢い, こと
+cluster7:(3)
+景色, 山々, 光景
+cluster8:(5)
+湯気, 鉄分, 煙, 蒸気, 高温
+cluster9:(3)
+源泉, 泉源, 金泉
+cluster10:(10)
+温泉がら, 排水溝, 坂, 湯本坂, 温泉地, 温泉街, 温泉坂, 温泉湯, 湯, 温泉
+
+howmany entities : 47
+howmany clusters : 11
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 9
+deleted 2entities.

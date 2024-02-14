@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東光寺(兵庫県猪名川町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+警報装置, 鬼退治, ガラス戸越し
+cluster1:(5)
+立木, 木, 樫, 木喰仏, 生木
+cluster2:(11)
+晩年, 場所, 人, 伝説, 歴史, 中, 機会, こと, 名前, 上, 近く
+cluster3:(4)
+参拝, 予約, 見学, 事前
+cluster4:(17)
+大井, 屏風岩, 庭, 猪名川町, 文化財, 薬師堂, 景色, 浄土宗, 薬師如来, 丘, 薬師, 堂, 東光寺, 石段, 階段, 大江山, 源頼光
+cluster5:(1)
+歴史文化
+cluster6:(2)
+戦勝, 戦勝祈願
+cluster7:(2)
+遊行僧, 行基上人
+cluster8:(8)
+仏像, 寺院, 境内, 本尊, 住職, 古刹, 寺, 本堂
+cluster9:(2)
+上人, 開基
+cluster10:(2)
+子安観音, 仏さま
+cluster11:(1)
+拝観料
+cluster12:(3)
+大井の乳薬師, 県指定文化財, 兵庫県
+
+howmany entities : 61
+howmany clusters : 13
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 7
+deleted 10entities.

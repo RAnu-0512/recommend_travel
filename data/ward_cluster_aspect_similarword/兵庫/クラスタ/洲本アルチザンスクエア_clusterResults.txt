@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:洲本アルチザンスクエア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+鐘紡, 紡績工場跡地, 文化芸術, 紡績工場, 商業複合施設, 産業振興, 洲本市, 商業施設, 鐘紡洲本工場
+cluster1:(4)
+場所, もの, 時代, こと
+cluster2:(2)
+創造, 価値
+cluster3:(1)
+私達
+cluster4:(22)
+デート, 明治, スポット, レストラン, 隠れ家レストラン, カフェ, 工場, ショッピングモール, 建物, レンガ, ショップ, レトロ, 図書館, 施設, 外観, 雰囲気, 洋風, 淡路島, 店, 土産, スペース, 写真
+cluster5:(1)
+お土産屋
+cluster6:(7)
+レトロ感, 赤レンガ造, 赤レンガ造り, 赤煉瓦, レンガ造り, 赤れん, 赤レンガ
+
+howmany entities : 46
+howmany clusters : 7
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 4
+deleted 4entities.

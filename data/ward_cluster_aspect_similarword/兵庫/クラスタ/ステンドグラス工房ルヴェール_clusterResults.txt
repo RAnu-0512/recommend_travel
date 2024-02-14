@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ステンドグラス工房ルヴェール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+会話, スタッフ, 母, 妻, 箇所, 車, 帰り, 口, 汗, 又, 時間, クオリティー, 色とりどり, 楽しみ, ガラス, 中, ステンドグラス, 昔, 淡路島, 家族, 旅行
+cluster1:(3)
+ステンドグラス体験, 興味, 体験
+cluster2:(5)
+作家, ガラス選び, 製作, 工房, 制作
+cluster3:(1)
+世界感
+cluster4:(1)
+古民家
+cluster5:(1)
+定年退職したて
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 3entities.

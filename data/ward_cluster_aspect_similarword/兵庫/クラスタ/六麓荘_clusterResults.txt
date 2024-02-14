@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六麓荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅, 住宅街
+cluster1:(2)
+暮らし, 六麓荘
+cluster2:(2)
+もの, 中
+cluster3:(1)
+海外
+cluster4:(1)
+芦屋
+cluster5:(1)
+景観
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

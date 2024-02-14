@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阪急電鉄花隈駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅全体, 駅
+cluster1:(2)
+隣, 地下
+cluster2:(1)
+相対式
+cluster3:(1)
+ホ-ム
+cluster4:(1)
+阪急神戸三宮
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

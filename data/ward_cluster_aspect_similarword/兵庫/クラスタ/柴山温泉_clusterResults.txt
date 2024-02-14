@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柴山温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+日本海, シーズン, 日本
+cluster1:(2)
+海, 山
+cluster2:(1)
+宿
+cluster3:(1)
+カニ
+cluster4:(1)
+疲れ
+cluster5:(1)
+入江
+cluster6:(1)
+漁火
+cluster7:(4)
+温泉街, 静かな温泉, お土産屋, 飲食店
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 7entities.

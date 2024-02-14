@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有馬玩具博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+授乳室, 時間帯, 時間
+cluster1:(3)
+順, 金, 木
+cluster2:(19)
+ほとんど, スタッフ, 説明, おもちゃ, もの, ドイツ, ほう, オモチャ, 博物館, ジオラマ, 方, 遊び方, 幼稚園, 雰囲気, 昔, 展示, 体験, スペース, 中心
+cluster3:(3)
+階, 湯, 売店
+cluster4:(1)
+どこか
+cluster5:(6)
+外国人, 子供たち, 電車, 大人, 鉄道ジオラマ, 子供
+cluster6:(10)
+木工玩具, 入場料, お土産物屋, くるみ割人形, 有馬玩具博物館, 有馬温泉, 有馬温泉街, 入場料金, 入館料, 玩具
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 6
+deleted 1entities.

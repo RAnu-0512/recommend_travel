@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちらん陶房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+作品, もの, 知識, 満足, 形, 焼き上がり, 時間, 奥, 中, 雰囲気, 先生, ウェルカムボード, 出来上がり, 変更
+cluster1:(5)
+陶芸, 体験スペース, 全員初体験, 陶芸体験, 体験
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 0entities.

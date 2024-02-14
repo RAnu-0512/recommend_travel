@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キッコーマン(株)高砂工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+限定品, 生活必需品
+cluster1:(2)
+野田市, 千葉県
+cluster2:(13)
+工夫, 説明, もの, 旅, 前, クイズ形式, キッコーマン, 大人, ショップ, 最後, 土産, 子供, DVD
+cluster3:(3)
+醤油達, 醤油作り, 醤油
+cluster4:(2)
+工場見学, 見学
+cluster5:(2)
+敷地, 工場
+cluster6:(2)
+アル工場, 高砂工場
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 10entities.

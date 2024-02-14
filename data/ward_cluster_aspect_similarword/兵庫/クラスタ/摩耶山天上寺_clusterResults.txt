@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:摩耶山天上寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+関西花の寺第10番霊場, 新西国第22番霊場
+cluster1:(6)
+作品, 全国, 間, 有料, 最後, 名残
+cluster2:(6)
+孝徳天皇, 摩耶山, インド, 天上寺, 不動明王, ケーブルカー
+cluster3:(4)
+掛け軸, 御朱印, 仕切り, ガラス
+cluster4:(5)
+場所, 車, 扉, 行き方, 建物
+cluster5:(1)
+補修
+cluster6:(1)
+台風
+cluster7:(6)
+脇, 左, 正面, 本堂右, 右, 書院
+cluster8:(23)
+寺院, 仙人, 毘沙門天像, 山水画, 花, 境内, 梵鐘, 遍路, 厨子, 釈迦, 本尊, 仏陀, 畳, 寺, 本堂, 関西花, 摩耶, 天竺, 天上界, 摩耶山天上寺宝物展, 六甲山牧場, 天空, 駐車場
+cluster9:(2)
+護摩炊き, 神仏習合
+cluster10:(2)
+高僧・法道, 本堂⇒金堂
+cluster11:(4)
+両脇侍, 梵天・帝釈天, 地蔵菩薩, 三尊形式
+cluster12:(2)
+聖☆おにいさん, 磐座
+cluster13:(1)
+摩耶夫人堂
+cluster14:(1)
+十一面観音
+cluster15:(1)
+三面四臂十一面観音像
+
+howmany entities : 67
+howmany clusters : 16
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 7
+deleted 13entities.

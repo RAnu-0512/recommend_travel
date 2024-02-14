@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:摩耶ケーブル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+摩耶ロープウェイ, 三宮, 六甲ケーブル, 摩耶ケーブル
+cluster1:(2)
+途中, 上
+cluster2:(11)
+ところ, 摩耶山, 六甲山, 上り坂, ケーブル, 乗り場, 天上寺, 乗り物, ケーブルカー, ハイキング, ロープウェイ
+cluster3:(6)
+休日, 絵本, 人, 覚悟, 時間, 子供
+cluster4:(6)
+景色, 山頂, 眺め, 下りケーブルカー, 頂上, 勾配
+cluster5:(12)
+本数, 麻耶ケーブル, 便数, 王子公園, バス, 車両, まやケーブル, ケーブル駅, 乗客, 駅, 徒歩, 線路
+
+howmany entities : 41
+howmany clusters : 6
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 5
+deleted 2entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たにい農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+かおり野, 章姫
+cluster1:(37)
+感じ, 所, 前回, 場所, 友達, 話, 訪問, ハサミ, 別, 帰り, 対応, イチゴ, 列, 土産イチゴ, 前, 時間, ビニールハウス, 予約, 半分, 今回, コロナ, 施設, 問題, あまクイーン, 方, 帰宅, 母さん, 中, 女性, いちご, 家族, 子供, こと, 他, 人生, ハウス, 摘み取り
+cluster2:(3)
+摘み取り体験, 収穫, 収穫体験
+cluster3:(3)
+農家, いちご農家, 農園
+cluster4:(3)
+香り, 品種, 甘み
+cluster5:(3)
+食べ比べ, 得感, 駐車場
+cluster6:(4)
+イチゴ狩り, 芋掘り, 芋, 苺狩り
+
+howmany entities : 55
+howmany clusters : 7
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 6
+deleted 2entities.

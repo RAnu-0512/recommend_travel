@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安冨白土瓦「かわらや」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+接客態度, 先住犬
+cluster1:(14)
+送料, 形, 焼き上がり, クーポン, 時間, ワンコ, 倍, コースター, 娘, 事, 淡路島, ビデオ, 近く, プラン
+cluster2:(2)
+瓦粘土, 瓦
+cluster3:(2)
+手型, 足型
+cluster4:(2)
+コースター作り, コースター作り体験
+cluster5:(2)
+彫刻体験, 体験
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 10entities.

@@ -1,0 +1,31 @@
+--------------------similar_words:神戸国際会議場--------------------
+top3 entities near to cluster0>>
+ポート, スター, ラリー
+top3 entities near to cluster2>>
+イベント, ホテル, レストラン
+top3 entities near to cluster3>>
+バッグ, 飲み物, ケーキ
+top3 entities near to cluster4>>
+カフェ, ホテル, ラウンジ
+top3 entities near to cluster5>>
+センター, ホール, 催し物
+top3 entities near to cluster7>>
+交通, 直通, 乗り継ぎ
+top3 entities near to cluster8>>
+仕事, 宿泊, 企業
+top3 entities near to cluster9>>
+移動, 休憩, 向かい
+top3 entities near to cluster10>>
+駅, 周辺, 町
+top3 entities near to cluster11>>
+休日, 海
+top3 entities near to cluster12>>
+立地, 都心
+top3 entities near to cluster13>>
+建物, 設備, 地下
+top3 entities near to cluster14>>
+規模, 各地, 各種
+top3 entities near to cluster16>>
+料理店, 飲食店, 飲食, 料理
+top3 entities near to cluster17>>
+会議, 会場, 国際

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:DRAGON DeLi 神戸店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+輸入菓子, 菓子
+cluster1:(2)
+神戸, 海外
+cluster2:(5)
+雑貨, 酒, 土産, 店, 食品
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

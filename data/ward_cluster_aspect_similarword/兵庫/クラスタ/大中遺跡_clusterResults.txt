@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大中遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+住居跡, 石器時代, 竪穴式, 住居
+cluster1:(4)
+桜, 樹木, 食物, 木々
+cluster2:(2)
+展示, 体験
+cluster3:(3)
+感じ, 勉強, こと
+cluster4:(1)
+散歩
+cluster5:(1)
+全貌
+cluster6:(4)
+空間, 心, 車内, 体
+cluster7:(3)
+遊び場, 中学生, こども
+cluster8:(7)
+モニュメント, 帰りがけ, ドングリ, 抱き合わせ, エレベーター, 博物館, 機関車
+cluster9:(1)
+加古川
+cluster10:(3)
+敷地, 遺跡, 町
+cluster11:(9)
+場所, 辺り, 家, 時代, 近所, 息子, 昔, 子供, 近く
+cluster12:(6)
+新型コロナ, 客車, 鉄道, 別府鉄道, 播磨町, 車移動
+cluster13:(7)
+資料館, 公園施設, 屋外活動, 展望台, 公園, 幼稚園児, 駐車場
+cluster14:(5)
+兵庫県立考古博物館, 大中遺跡まつり, 播磨大中古代村, 大仲遺跡, 大中遺跡
+
+howmany entities : 60
+howmany clusters : 15
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 11
+deleted 5entities.

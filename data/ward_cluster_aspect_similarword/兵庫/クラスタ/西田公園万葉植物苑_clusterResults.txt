@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西田公園万葉植物苑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西宮エリア, 夙川
+cluster1:(2)
+植物, 木々植物
+cluster2:(2)
+公園, 遊具
+cluster3:(2)
+車窓, 東
+cluster4:(1)
+線路沿い
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

@@ -1,0 +1,23 @@
+--------------------similar_words:篠山城跡--------------------
+top3 entities near to cluster0>>
+町並み, 街並み
+top3 entities near to cluster1>>
+角, 丸, 四方
+top3 entities near to cluster3>>
+横, 奥, 幅
+top3 entities near to cluster6>>
+満開, 曇り空, 景色
+top3 entities near to cluster8>>
+施設, 建物, 館
+top3 entities near to cluster11>>
+大名, 武家, 戦国
+top3 entities near to cluster14>>
+御殿, 本丸, 城
+top3 entities near to cluster16>>
+外堀, 濠, 外濠
+top3 entities near to cluster17>>
+天守閣, 城内, 本丸
+top3 entities near to cluster18>>
+入城, 縄張, 修築
+top3 entities near to cluster20>>
+城, 城跡, 城址

@@ -1,0 +1,55 @@
+--------------------similar_words:神戸 ホテル フルーツ・フラワー--------------------
+top3 entities near to cluster0>>
+アイスクリーム, ハンバーグ, ハンバーガー
+top3 entities near to cluster1>>
+バーベキュー, バーベキュ, ＢＢＱ
+top3 entities near to cluster2>>
+チョコファウンテン, チョコレートファウンテン, カフェマシーン
+top3 entities near to cluster9>>
+デザート, ビュッフェ, バイキング
+top3 entities near to cluster10>>
+雰囲気, スタッフ, 評判
+top3 entities near to cluster11>>
+ランチ, バイキング, ディナー
+top3 entities near to cluster14>>
+かき氷, アイスクリーム, アイス
+top3 entities near to cluster17>>
+マシン, ショー, モール
+top3 entities near to cluster19>>
+セット, プラン, パーク
+top3 entities near to cluster20>>
+変更, 用意, 記載
+top3 entities near to cluster21>>
+種類, 値段
+top3 entities near to cluster26>>
+お腹, 身, 手足
+top3 entities near to cluster32>>
+子供, 大人, 家族
+top3 entities near to cluster33>>
+プール, スイミング, 水着
+top3 entities near to cluster34>>
+料金, 高速, 代
+top3 entities near to cluster35>>
+会場, イベント, 開場
+top3 entities near to cluster36>>
+駅, 入口, 通路
+top3 entities near to cluster40>>
+駐車場, 駐車, 施設
+top3 entities near to cluster41>>
+食べ放題, 飲み放題, 食べ, 飲み
+top3 entities near to cluster43>>
+時間, 予約, 受付
+top3 entities near to cluster44>>
+子供, 子ども, 大人
+top3 entities near to cluster45>>
+やつ, 姉ちゃん, 姉さん
+top3 entities near to cluster46>>
+入場, 団体, 入館
+top3 entities near to cluster47>>
+野菜, 食材, 料理
+top3 entities near to cluster53>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster54>>
+送迎, バス, シャトル
+top3 entities near to cluster57>>
+室内, 屋外, 屋内

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松か井の水・新松か井の水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+多可町, 神河町
+cluster1:(24)
+トンネル, コーヒー, 途中, 加工, ダイソー, 水道水, 天然水, 水源, 人, 車, 多く, 加古川, 容器, 方々, 炊飯, 加熱, 汲み, 看板, 道, 水, 峠, こと, 市川, 駐車場
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 1
+deleted 2entities.

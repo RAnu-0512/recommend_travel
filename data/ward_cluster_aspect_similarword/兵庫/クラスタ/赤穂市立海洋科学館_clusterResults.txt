@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤穂市立海洋科学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海水, 機械, 体内
+cluster1:(2)
+赤穂, 塩田
+cluster2:(3)
+土産, 展示, 館内
+cluster3:(13)
+作り方, 質問, ボランティア, 場所, 説明, 人, 見応え, 場合, 目, 判定, 国, 方, 体験
+cluster4:(1)
+射的
+cluster5:(2)
+常設展示, 入館料
+cluster6:(3)
+塩作り体験, 塩づくり体験棟, 塩づくり体験
+cluster7:(5)
+塩づくり, 塩作り, 塩分量, ドロップ塩, 塩
+cluster8:(3)
+入浜式塩田, 赤穂海浜公園, 流下式塩田
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 6
+deleted 5entities.

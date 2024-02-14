@@ -1,0 +1,27 @@
+--------------------similar_words:浄土寺(兵庫県小野市)--------------------
+top3 entities near to cluster0>>
+西日, 夕日, 縁側
+top3 entities near to cluster1>>
+壁面, 天井, 壁
+top3 entities near to cluster2>>
+側面, 背面, 配置
+top3 entities near to cluster9>>
+輝き, 神秘, 奇跡
+top3 entities near to cluster10>>
+境内, 町並み, 風景
+top3 entities near to cluster11>>
+境内, 寺, 本堂
+top3 entities near to cluster14>>
+国宝, 国宝級, 文化財
+top3 entities near to cluster17>>
+尊像, 阿弥陀, 阿弥陀如来
+top3 entities near to cluster18>>
+快慶, 運慶, 康慶
+top3 entities near to cluster19>>
+立像, 座像, 坐像
+top3 entities near to cluster20>>
+仏像, 仏師, 光背
+top3 entities near to cluster21>>
+本尊, 本堂, 本殿
+top3 entities near to cluster22>>
+立像, 坐像, 八

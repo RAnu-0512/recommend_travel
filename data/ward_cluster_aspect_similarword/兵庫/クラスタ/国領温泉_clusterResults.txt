@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国領温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+前, 看板, 昔, 帰り道, 露天風呂, 説明, 程度, 期待, 道
+cluster1:(2)
+ぬる湯, 金の湯
+cluster2:(5)
+風呂, 日帰り温泉, 湯, 温泉, 国領温泉
+cluster3:(1)
+塩素臭
+cluster4:(1)
+朝来・山東
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 4entities.

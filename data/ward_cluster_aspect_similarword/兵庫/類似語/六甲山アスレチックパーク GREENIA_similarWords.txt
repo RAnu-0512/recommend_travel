@@ -1,0 +1,47 @@
+--------------------similar_words:六甲山アスレチックパーク GREENIA--------------------
+top3 entities near to cluster1>>
+コース, フォレストコース, アスリートコース
+top3 entities near to cluster2>>
+ハウス, ローズ, ウォーク
+top3 entities near to cluster3>>
+ボート, アイス, ロープ
+top3 entities near to cluster5>>
+魚釣り, 山登り, バーベキュー
+top3 entities near to cluster6>>
+子ども, 遊び場, こども
+top3 entities near to cluster11>>
+遊具, アトラクション, ピクニック
+top3 entities near to cluster13>>
+意外, 見応え, 見ごたえ
+top3 entities near to cluster14>>
+子供, 子ども, 小学生
+top3 entities near to cluster24>>
+笑, 苦笑, 汗
+top3 entities near to cluster25>>
+作品, 鑑賞, 映画
+top3 entities near to cluster26>>
+食材, 食べ物, 靴
+top3 entities near to cluster30>>
+入場, 混雑, 予約
+top3 entities near to cluster31>>
+入場料, 入園料, 入場, 入園
+top3 entities near to cluster32>>
+料金, 駐車, 場代
+top3 entities near to cluster33>>
+子供, 大人, 子ども
+top3 entities near to cluster34>>
+芝生, 広場, 原っぱ
+top3 entities near to cluster35>>
+休憩室, 休憩, 仮眠室, 仮眠
+top3 entities near to cluster36>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster39>>
+施設, 設備, 宿泊
+top3 entities near to cluster44>>
+便所, トイレ, 簡易
+top3 entities near to cluster46>>
+運動量, 運動, 不足
+top3 entities near to cluster48>>
+気温, 温度, 難易
+top3 entities near to cluster49>>
+花雪, 冬雪, 冬, 花

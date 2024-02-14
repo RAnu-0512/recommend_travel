@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:虚子記念文学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+文学作品, 展示, 退屈, 方, 俳句
+cluster1:(3)
+高浜虚子, 高浜虚子の記念館, 虚子記念文学館
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 0entities.

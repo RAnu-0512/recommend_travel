@@ -1,0 +1,29 @@
+--------------------similar_words:湊川神社--------------------
+top3 entities near to cluster0>>
+朱印帳, 御朱印帳, 朱印, 御朱印
+top3 entities near to cluster2>>
+参拝, 参詣, お参り
+top3 entities near to cluster3>>
+散歩, 出掛け, 天気
+top3 entities near to cluster4>>
+家族, 子供
+top3 entities near to cluster6>>
+武将, 忠誠, 忠臣
+top3 entities near to cluster7>>
+歴史, 戦い, 創建
+top3 entities near to cluster9>>
+雰囲気, 趣き, 質感
+top3 entities near to cluster10>>
+ホテル, イベント, レストラン
+top3 entities near to cluster12>>
+地元, 夕方, 近所
+top3 entities near to cluster18>>
+時代, 戦国, 南北
+top3 entities near to cluster19>>
+勤王, 勤皇, 志士
+top3 entities near to cluster23>>
+楠公, 皇居, 菊水
+top3 entities near to cluster25>>
+葉樹, 木々, 葉
+top3 entities near to cluster28>>
+境内, 本殿, 神社

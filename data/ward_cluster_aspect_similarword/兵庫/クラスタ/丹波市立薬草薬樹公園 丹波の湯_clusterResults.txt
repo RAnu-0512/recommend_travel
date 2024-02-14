@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波市立薬草薬樹公園 丹波の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+薬草風呂, 漢方風呂
+cluster1:(2)
+薬草, 漢方
+cluster2:(1)
+丹波の湯
+cluster3:(31)
+場所, サウナ, 風呂, 香り, 露天風呂, サウナマット, ランチ, 感染, 主, 常連客, 人, 食事, 空間, 人気, 地元民, 私物, 汗, 食事処, 数, マット, 注意書き, 防止, 女性達, 入室制限, ゴルフ帰り, ハーブ, 湯, 仲間, 場所取り, 温泉, 水風呂
+
+howmany entities : 36
+howmany clusters : 4
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 1
+deleted 5entities.

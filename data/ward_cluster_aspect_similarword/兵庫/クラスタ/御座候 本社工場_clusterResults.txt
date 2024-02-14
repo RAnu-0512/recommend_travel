@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御座候 本社工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+焼き立て御座候, 御座候
+cluster1:(2)
+焼きたて, 大判焼き
+cluster2:(5)
+姫路旅行, 文化指定, 本社内, 工場見学, 見学
+cluster3:(2)
+小豆本来, 小豆
+cluster4:(6)
+点, 詳細, ほう, 方, こと, 美味しさ
+cluster5:(2)
+白, 赤
+cluster6:(12)
+メニュー, レストラン, 世界, 姫路城, 歴史, 大人, あずきミュージアム, ショップ, ミュージアム, 日本, スイーツ, 子供
+cluster7:(4)
+工場, 軽食, 砂糖, 施設
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 8entities.

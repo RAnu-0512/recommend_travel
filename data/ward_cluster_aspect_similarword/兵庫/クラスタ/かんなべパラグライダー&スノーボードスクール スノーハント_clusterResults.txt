@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かんなべパラグライダー&スノーボードスクール スノーハント>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+体験時間, 飛行体験, 体験
+cluster1:(12)
+休憩, 子ども小学校, パラグライダー, 風, 使い方, 斜面, 大人, 山, 不安, パラシュート, 方, フライト
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南あわじ市浮体式多目的公園(海釣り公園メガフロート)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+サビキ釣り, 投げ釣り, 釣り, 釣り人, 海釣り
+cluster1:(8)
+サヨリ, 部屋, テレビ, 自販機, トイレ, 釣り場, クーラー, オッチャン
+cluster2:(4)
+人, 人気, 方, 事
+cluster3:(1)
+道
+cluster4:(1)
+係
+cluster5:(4)
+魚, 鯛, メガフロート, 潮
+cluster6:(1)
+対向車
+cluster7:(1)
+雑貨屋
+cluster8:(1)
+無料駐車場
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 5entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジオカヤック 尾崎屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+尾崎屋, 香美町
+cluster1:(13)
+カヤック, もの, 岩壁, 事前説明, ガイド, 天気, ジオパーク, 色, 洞窟, 海岸, 暑さ, 海, 方
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

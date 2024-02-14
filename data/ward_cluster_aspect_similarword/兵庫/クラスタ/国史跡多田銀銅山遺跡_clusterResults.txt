@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国史跡多田銀銅山遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+広場, 採掘跡, アドバイス, 天下統一, 車, 財源, 悠久の館, トイレ, 館内, こと, 兵庫県, 予備知識
+cluster1:(2)
+豊臣秀吉, 生野銀山
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

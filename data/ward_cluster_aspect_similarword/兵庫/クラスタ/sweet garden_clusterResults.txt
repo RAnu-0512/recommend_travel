@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:sweet garden>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+教室, リース, 作品, 先生, 笑, キーホルダー, バックチャーム, 部屋, レッスン
+cluster1:(2)
+思いき, 素敵さ
+cluster2:(1)
+不器
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 3entities.

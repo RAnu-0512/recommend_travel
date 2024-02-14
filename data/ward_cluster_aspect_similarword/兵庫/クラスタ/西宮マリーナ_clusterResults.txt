@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西宮マリーナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+西宮マリーナ, 西宮浜, 西宮, 西宮大橋
+cluster1:(6)
+ヨット, 人, ヨットハウス, 積み出し, 海, ボート
+cluster2:(2)
+港町, 駅
+cluster3:(1)
+酒作り
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 3entities.

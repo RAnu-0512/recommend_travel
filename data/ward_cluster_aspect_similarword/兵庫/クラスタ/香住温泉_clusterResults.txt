@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香住温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+気持ち, 華やかさ, 雰囲気
+cluster1:(7)
+イメージ, バーベキュー, スポット, スベスベ, アウトドア, ステーキ, オススメ
+cluster2:(1)
+海水浴
+cluster3:(1)
+レトロ
+cluster4:(4)
+感じ, 場所, 方, 時期
+cluster5:(7)
+人, 周辺, 釣り, 料理, 家族, 年配, 中心
+cluster6:(1)
+確率
+cluster7:(7)
+芯, 匂い, 春, 身体, 独特, 冬, 肌
+cluster8:(2)
+泉, 泉質
+cluster9:(2)
+家族連れ, 食旅行
+cluster10:(3)
+民宿, 宿, 旅館
+cluster11:(2)
+風呂, 入浴
+cluster12:(2)
+お湯, 湯
+cluster13:(15)
+香住温泉, 但馬牛, 温泉地, 香住, 魚介類全て, 矢田川温泉, 香住カニ, 温泉街, カニ, 温泉宿, かに, 蟹刺, 温泉, 蟹, 城崎温泉
+
+howmany entities : 57
+howmany clusters : 14
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 7
+deleted 11entities.

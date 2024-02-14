@@ -1,0 +1,78 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR姫路駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山陽本線・姫新線・播但線, 新幹線・在来線
+cluster1:(2)
+駅構内, 駅周辺
+cluster2:(3)
+旧駅, 駅, ターミナル駅
+cluster3:(1)
+駅ビル
+cluster4:(1)
+乗換駅
+cluster5:(1)
+中央改札口周辺
+cluster6:(5)
+ドーミーイン姫路, 姫路近辺, 姫路, JR姫路駅, 姫路駅
+cluster7:(2)
+大阪, 京都
+cluster8:(2)
+三ノ宮, 神戸
+cluster9:(2)
+山陰, 山陽
+cluster10:(1)
+黒田官兵衛
+cluster11:(1)
+大分・福岡
+cluster12:(3)
+城下町, 姫路城, NHK大河ドラマ
+cluster13:(2)
+イメージ, スタッフ
+cluster14:(2)
+最寄り駅, アクセス
+cluster15:(1)
+待ち時間
+cluster16:(1)
+セット
+cluster17:(1)
+キャラ
+cluster18:(1)
+ホーム
+cluster19:(1)
+タイル
+cluster20:(1)
+人
+cluster21:(2)
+城, 音
+cluster22:(2)
+道路, 都会
+cluster23:(5)
+所, 朝食, 場所, 休日, 時間
+cluster24:(12)
+正面, 注意, 点, 今回, 先, 昔, 本数, おり 車, 感じ, 様相, 目玉, 目線
+cluster25:(1)
+英気
+cluster26:(5)
+観光案内所, 展望デッキ, 世界遺産, 展望所, 目的地
+cluster27:(4)
+飲食店, 県庁所在地, お城口, 車道越し
+cluster28:(2)
+のぞみ号, 新幹線のぞみ号
+cluster29:(2)
+新駅, 改札
+cluster30:(2)
+普通列車, 快速
+cluster31:(5)
+電車, 東海道・山陽新幹線, JR, 新幹線ホーム, 新幹線
+cluster32:(3)
+おみやげ館, 観光イベント, 土産
+cluster33:(2)
+青春, 切符
+cluster34:(1)
+外国人
+
+howmany entities : 84
+howmany clusters : 35
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 9
+deleted 39entities.

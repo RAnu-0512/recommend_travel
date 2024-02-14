@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木の根橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+根橋, 川, 橋
+cluster1:(3)
+観光, 地, 地区
+cluster2:(2)
+根, 木
+cluster3:(2)
+味わい, 雰囲気
+cluster4:(2)
+根っこ, コンクリート
+cluster5:(1)
+丹波市
+cluster6:(2)
+方, 他
+cluster7:(1)
+写真
+cluster8:(3)
+そば, 横, 端
+cluster9:(1)
+子孫
+cluster10:(1)
+迫力
+cluster11:(1)
+川沿い
+cluster12:(9)
+柏原町, 柏原駅, 柏原藩, 柏原八幡宮, 織田信長, 柏原, ばら観光案内所, 織田神社, 兵庫県
+
+howmany entities : 31
+howmany clusters : 13
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 13entities.

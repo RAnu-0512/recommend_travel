@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:布引貯水池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+湖, 街道, 池, 水道水, 水量, 水道施設, 五本松ダム, ダム, 遊歩道沿い, 滝, 水, 堰堤脇
+cluster1:(2)
+外国船, ペリー来航
+cluster2:(5)
+明治, 淀川, 市民, 大阪, 維新
+cluster3:(29)
+イメージ, 技師, 途中, 周囲, 界隈, 六甲山, 文化財, 景色, 気持ち, 格好, 自然, 人, 人気, 五本松, 遊歩道, 貯水池, ハイキングコース, イギリス, 日本, 国, ハイキング, 昔, マイナスイオン, 一帯, 恩恵, こと, 時期, 山間, 一部
+cluster4:(3)
+布引川, 布引, 布引貯水池
+cluster5:(2)
+神戸市, 新神戸駅
+cluster6:(1)
+布引水源地施設
+cluster7:(1)
+司馬遼太郎
+
+howmany entities : 55
+howmany clusters : 8
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 4
+deleted 6entities.

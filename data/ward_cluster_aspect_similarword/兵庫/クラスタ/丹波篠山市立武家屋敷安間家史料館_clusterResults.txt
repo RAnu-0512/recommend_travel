@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波篠山市立武家屋敷安間家史料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+武士, 武家
+cluster1:(2)
+屋敷, 城
+cluster2:(19)
+茅葺き, 人, 西側, 歴史, 馬, 東側, 家, 到着, 南側, 屋根, 長屋門, 足早, 雰囲気, 見学, セット, 住宅, 西, 他, 苦笑
+cluster3:(1)
+塀等
+cluster4:(3)
+共通券, 受付終了時間, 駐車場
+cluster5:(2)
+御徒士町武家屋敷群, 御徒士町
+cluster6:(2)
+武家屋敷群, 武家屋敷
+cluster7:(2)
+青山歴史村, 篠山市
+cluster8:(2)
+下級武士, 江戸時代
+cluster9:(1)
+重伝健地区
+cluster10:(1)
+篠山城大書院
+cluster11:(1)
+茅葺屋根
+cluster12:(1)
+篠山城大書院・武家屋敷史料館・歴史美術館
+
+howmany entities : 39
+howmany clusters : 13
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 17entities.

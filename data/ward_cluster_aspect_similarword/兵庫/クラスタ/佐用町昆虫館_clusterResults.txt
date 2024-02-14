@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐用町昆虫館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+感じ, チョウ, ミミズ, 猿, カブト虫, 敷地, 奥, 華やかさ, スタッフ, 施設
+cluster1:(5)
+昆虫館, 餌, 虫, 子供達, 昆虫
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

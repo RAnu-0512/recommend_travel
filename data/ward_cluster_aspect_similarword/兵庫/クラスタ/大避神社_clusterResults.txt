@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大避神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+秦河勝, 京都太秦広隆
+cluster1:(5)
+大酒神社, 神社, 拝殿, 宗像神社, 礼拝堂
+cluster2:(2)
+船祭り, 祭り
+cluster3:(6)
+族長, 末裔, ユダヤ系, 古代キリスト教, 皇帝, 神秘
+cluster4:(12)
+近隣, パトロン, 圧迫, 聖徳太子, 蘇我入鹿, ダビデ, 寺, 朝鮮半島, 広隆寺, こと, 海, 近く
+cluster5:(7)
+倭国, 赤穂, 日本列島, 京, 生島, 秦, 京都広隆寺
+cluster6:(2)
+渡来人集団, 太子没後
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 6entities.

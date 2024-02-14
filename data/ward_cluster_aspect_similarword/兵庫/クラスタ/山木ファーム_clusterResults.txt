@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山木ファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+里芋掘, 里芋堀, 掘り方, 里芋掘り, 芋掘り
+cluster1:(3)
+簡易郵便局, 郵便局, 郵便ポスト
+cluster2:(16)
+里芋, 品種, 虫, 豆, 農園, 収穫, 枝豆もと, 農家, 山木農園, 茎, 山木ファーム, 里芋体験, 田植え体験, 野菜, 芋, 体験
+cluster3:(2)
+方向音痴, 駐車場
+cluster4:(3)
+子ども達, 私達, 子供たち
+cluster5:(4)
+息子, 子ども, 家族, 子供
+cluster6:(3)
+みみず, ジブリ, トトロ
+cluster7:(11)
+(*^^*, 雨上がり, ホクホク, サービス, アクセス, オーナー, トイレ, スタッフ, 気遣い, SNS, ファーム
+cluster8:(3)
+焼き芋, ホタル, 葉っぱ
+cluster9:(1)
+盛り土
+cluster10:(20)
+話, 赤色, 裏, 写真, さつまい, 土, 看板, 事, あと, 次回, 種類, 街, 方々, 方, 文字, 下部, 場所, 部分, 気, 経験
+cluster11:(11)
+世話, 帰宅, 生活, 光景, 対応, 電話, 姿, 説明, ナビ, 検索, 環境
+cluster12:(1)
+...橋本
+cluster13:(1)
+バス停留所
+cluster14:(1)
+相伝
+cluster15:(1)
+テントウ虫
+
+howmany entities : 86
+howmany clusters : 16
+howmany entities (more than3entities) : 79
+howmany clusters (more than3entities) : 10
+deleted 7entities.

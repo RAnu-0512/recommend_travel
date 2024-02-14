@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海と和(うみとなごむ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青空, 陽気
+cluster1:(2)
+機会, 体験
+cluster2:(3)
+家族, 子供, 夫婦
+cluster3:(6)
+途中, 説明, 写真, 時間, 方, 上
+cluster4:(7)
+インストラクター, シーカヤック, ポカポカ, 思い出, 想い出, カヤック, 海
+cluster5:(1)
+出航
+cluster6:(3)
+養殖場, 鳴門大橋, トラフグ
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 5entities.

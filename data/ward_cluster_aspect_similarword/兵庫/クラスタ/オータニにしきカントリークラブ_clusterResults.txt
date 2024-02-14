@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オータニにしきカントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+グリーン, コスパ
+cluster1:(1)
+桜
+cluster2:(1)
+整備
+cluster3:(1)
+ゴルフ場
+cluster4:(1)
+昼休憩
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:あゆ公園--------------------
+top3 entities near to cluster0>>
+生簀, 炭, 串
+top3 entities near to cluster1>>
+アマゴ釣り, アマゴ
+top3 entities near to cluster2>>
+鮎, アユ, アメゴ
+top3 entities near to cluster4>>
+川, あゆ, 公園
+top3 entities near to cluster5>>
+子供, 子ども, 家族
+top3 entities near to cluster8>>
+子ども, 子供, 夏休み
+top3 entities near to cluster9>>
+塩焼き, 手づかみ, 釣り堀
+top3 entities near to cluster11>>
+子供, 家族
+top3 entities near to cluster12>>
+時分, 時間, 時
+top3 entities near to cluster13>>
+駐車場, 駐車, 施設

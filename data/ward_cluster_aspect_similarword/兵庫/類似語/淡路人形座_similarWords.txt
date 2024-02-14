@@ -1,0 +1,19 @@
+--------------------similar_words:淡路人形座--------------------
+top3 entities near to cluster0>>
+家族, 人々, 人達
+top3 entities near to cluster2>>
+時間, 予約分, 予約
+top3 entities near to cluster5>>
+写真, 解説, 仕草
+top3 entities near to cluster8>>
+興味, 勇気, 希望
+top3 entities near to cluster9>>
+緊張, 感動, 体験
+top3 entities near to cluster11>>
+旅, 家族, 宿泊
+top3 entities near to cluster13>>
+伝統舞, 伝統, 文化
+top3 entities near to cluster15>>
+演目, 公演, 舞台
+top3 entities near to cluster16>>
+人形座, 人形, 座が

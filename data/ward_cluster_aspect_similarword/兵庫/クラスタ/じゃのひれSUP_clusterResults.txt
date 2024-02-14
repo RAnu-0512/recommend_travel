@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:じゃのひれSUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スタッフ同士, 客
+cluster1:(11)
+スポーツ, 海, 夕方, スタッフ, ノリ, 子供, 他, 体験, リクエスト, 方, 写真
+cluster2:(1)
+楽しさ
+cluster3:(1)
+じゃのひれSUP
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 4entities.

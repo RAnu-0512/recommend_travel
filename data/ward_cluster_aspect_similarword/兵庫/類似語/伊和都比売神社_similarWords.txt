@@ -1,0 +1,13 @@
+--------------------similar_words:伊和都比売神社--------------------
+top3 entities near to cluster0>>
+鳥居, 如昌, 大鳥居
+top3 entities near to cluster1>>
+海, 海辺, 陸
+top3 entities near to cluster2>>
+神社, 祭神, 参拝
+top3 entities near to cluster3>>
+海面, 海上, 海軍
+top3 entities near to cluster6>>
+神様, 神, 縁結び
+top3 entities near to cluster11>>
+駐車場, 駐車, 施設

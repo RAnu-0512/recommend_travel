@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高田屋顕彰館「菜の花ホール」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+資料館, 資料
+cluster1:(3)
+北方, ロシア, 日本
+cluster2:(2)
+映像, 説明
+cluster3:(1)
+開拓
+cluster4:(1)
+模型
+cluster5:(3)
+高田屋嘉兵衛, 功績, 生涯
+cluster6:(1)
+菜の花の沖
+cluster7:(1)
+民間外交
+cluster8:(1)
+司馬遼太郎
+
+howmany entities : 15
+howmany clusters : 9
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 9entities.

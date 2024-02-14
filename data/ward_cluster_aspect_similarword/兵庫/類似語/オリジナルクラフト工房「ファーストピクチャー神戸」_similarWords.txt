@@ -1,0 +1,33 @@
+--------------------similar_words:オリジナルクラフト工房「ファーストピクチャー神戸」--------------------
+top3 entities near to cluster0>>
+バッグ, ホテル, カバン
+top3 entities near to cluster5>>
+出来上がり, 仕上がり, できあがり
+top3 entities near to cluster7>>
+チャーム, アイテム, キーホルダー
+top3 entities near to cluster11>>
+つくり, 仕上げ
+top3 entities near to cluster15>>
+レザー, ケース, コインケース
+top3 entities near to cluster16>>
+小物, モノ
+top3 entities near to cluster17>>
+首輪
+top3 entities near to cluster18>>
+キー, バイ, カラー
+top3 entities near to cluster23>>
+対応, 利用, 使用
+top3 entities near to cluster29>>
+息子, 母, 娘
+top3 entities near to cluster31>>
+おじ, まち, おば
+top3 entities near to cluster33>>
+店員, 女性, 男性
+top3 entities near to cluster34>>
+体験, 体験談, 体感
+top3 entities near to cluster35>>
+つくり, 財布
+top3 entities near to cluster36>>
+入れ, 小銭, 入れる
+top3 entities near to cluster37>>
+革, 牛革, レザー

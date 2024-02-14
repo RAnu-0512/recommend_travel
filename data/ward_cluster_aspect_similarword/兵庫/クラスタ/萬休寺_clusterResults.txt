@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萬休寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+本尊, 寺院, 境内, 寺
+cluster1:(7)
+コウノトリ, スポット, 雰囲気, 通りすがり, おすすめ, 観光スポット, 地元
+cluster2:(5)
+聖観世音菩薩, 郷公園, 菩薩, 脇侍, 千手観音菩薩
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 0entities.

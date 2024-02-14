@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北はりま田園空間博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+製品, キクイモ, チラシ, トイレ, 博物館, 日向ぼっこ, イヌリン
+cluster1:(5)
+場所, 北, 地域, 地元, 近く
+cluster2:(1)
+休憩
+cluster3:(1)
+ハーブ園
+cluster4:(1)
+駐車場
+cluster5:(3)
+活性化, 地元食材, 特産品
+cluster6:(4)
+西脇市, 多可町, 播州織, ま田園空間博物館
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 3entities.

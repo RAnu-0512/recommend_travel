@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小代温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+予想外, 外, 幼児連れ
+cluster1:(10)
+姿, 根拠, 話, 考え, もの, 全貌, 裏側, 人たち, 流れ, 対比
+cluster2:(5)
+棘, 草木, 音, 雪, 流水
+cluster3:(5)
+場所, 遠方, 山中, 地元, 近く
+cluster4:(17)
+雪景色, 道のり, イノシシ, 黒, 気持ち, ミカタスノーパーク, 世界, 明かり, 地味, 周り, ポット, 吉滝, 余裕, どぶろく, 雰囲気, 子供, お気に入り
+cluster5:(5)
+景色, 旅, 町, 道, 仕事
+cluster6:(1)
+ボー
+cluster7:(5)
+標高, 落差, 温度, 段差, 大きさ
+cluster8:(2)
+度肝, 体験談
+cluster9:(5)
+小代初心者, 小代温泉, 小代衆, 小代どぶろく, 小代
+cluster10:(5)
+但馬牛, オーベルジュ花郷里, 美方, 花郷里, 兵庫県
+cluster11:(3)
+滝, 天滝, 荒滝
+cluster12:(4)
+おじろ温泉, 新屋地区, 湯, 温泉
+cluster13:(3)
+岩壁, ・・ 蜘蛛, 電子レンジ
+cluster14:(1)
+中佐屋旅館
+cluster15:(1)
+新屋八反滝
+
+howmany entities : 75
+howmany clusters : 16
+howmany entities (more than3entities) : 70
+howmany clusters (more than3entities) : 12
+deleted 5entities.

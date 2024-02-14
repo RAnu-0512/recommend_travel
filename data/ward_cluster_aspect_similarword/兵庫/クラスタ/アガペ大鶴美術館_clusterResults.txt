@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アガペ大鶴美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+象牙美術品, 象牙美術館, 展示品, 美術品, 象牙展示物, 象牙, 展示物
+cluster1:(21)
+神戸, 作品, マリア, 外, 学生, 友人, 多種, 人, 姫路城, 有馬温泉, 足, 眺め, テラス, 時間, 数, 美術館, 他, 西宮, 温泉, 価値, オススメ
+
+howmany entities : 28
+howmany clusters : 2
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 2
+deleted 0entities.

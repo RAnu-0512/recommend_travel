@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あぐり丹波3Dいちご園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+予約制, 完全予約制
+cluster1:(2)
+電話予約, 予約
+cluster2:(2)
+いちご狩り, イチゴ狩り
+cluster3:(5)
+苺, カビ, イチゴ, いちご, 兵庫
+cluster4:(2)
+品種, 気候
+cluster5:(13)
+説明, 人, 関係, 人気, 到着, 事, 物, 地点, 時期, 人生, こと, 他, 経験
+cluster6:(1)
+食べ比べ
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 9entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:生谷温泉伊沢の里ふるさと工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山崎インター, 伊沢
+cluster1:(2)
+温泉施設, 温泉
+cluster2:(3)
+建物, ところ, コンニャクづくり
+cluster3:(2)
+工房, 里
+cluster4:(1)
+少し先
+cluster5:(1)
+本格手打ちそば作り
+cluster6:(1)
+生谷温泉伊沢の里ふるさと工房
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 9entities.

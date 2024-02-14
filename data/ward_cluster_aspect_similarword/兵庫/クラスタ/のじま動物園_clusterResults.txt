@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:のじま動物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+抱っこ体験, モルモット抱っこ体験
+cluster1:(2)
+動物たち, 動物
+cluster2:(3)
+子供たち, アルパカ達, 子供
+cluster3:(11)
+場所, アルパカ, モルモット, 世話, エサ, 方, えさ, 家族, 小学校, 小学生, ヤギ
+cluster4:(4)
+ふれあい動物園, ミニ動物園, のじま動物園, のじまスコーラ
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 4entities.

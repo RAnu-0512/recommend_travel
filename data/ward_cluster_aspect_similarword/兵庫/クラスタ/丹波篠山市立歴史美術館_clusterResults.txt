@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波篠山市立歴史美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+篠山藩庁, 篠山城址大書院
+cluster1:(5)
+埋蔵文化財, 青山歴史村, 篠山裁判所, 篠山地方裁判所, 篠山
+cluster2:(8)
+説明, 資料説明, 順路, 展示資料, 展示品, 写真撮影, 展示, 写真
+cluster3:(2)
+共通券, 注意事項
+cluster4:(4)
+裁判, 裁判官席, 模擬裁判, 法廷
+cluster5:(12)
+姿, 笑, 衣装, 時間, 受付スタッフ, 方, 最後, 中, 昔, 機会, こと, 体験
+cluster6:(13)
+絵画, 桜, ドラマ, 部屋, 館長, 世界, 裁判官, 建物, 陶器, 裁判所, 美術館, 歴史美術館, 木造
+
+howmany entities : 46
+howmany clusters : 7
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 5
+deleted 4entities.

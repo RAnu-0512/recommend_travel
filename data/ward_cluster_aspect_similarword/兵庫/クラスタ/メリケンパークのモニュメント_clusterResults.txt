@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:メリケンパークのモニュメント>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+震災, メリケンパーク, 列, 時間, 人, ベンチ, 人気, BE KOBE, こと, モニュメント, 潮風, モニュメント., 近く
+cluster1:(4)
+写真撮影, SNS映えスポット, ポートピアホテル宿泊, 写真
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

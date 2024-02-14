@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ボートピア神戸新開地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+他場, 無料席
+cluster1:(4)
+場所, 食事, 名物, ボートレース目的
+cluster2:(6)
+ところ, ボートピア, レストランpier, レース, 飲み屋, ラインナップ
+cluster3:(2)
+新開地, 加古川
+cluster4:(4)
+人, 周り, ほう, 方々
+cluster5:(2)
+梅田, 新開地駅
+cluster6:(1)
+混ま
+cluster7:(2)
+警備員, 舟券
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 9entities.

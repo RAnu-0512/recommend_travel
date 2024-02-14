@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR兵庫駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+快速, 通勤
+cluster1:(3)
+南, 南側, 隣
+cluster2:(2)
+JR, 駅
+cluster3:(7)
+神戸, 所, 和田岬線, モール, 地下街, 川崎重工, イオン
+cluster4:(1)
+大型ショッピングモール
+cluster5:(4)
+長田駅, 駅直結, 兵庫駅, 製造工場
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 5entities.

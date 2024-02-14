@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲爪神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鉄人伝説, 鉄人
+cluster1:(7)
+秋祭り, 異国, 稲妻, 縁起, 市, 神社, 初め
+cluster2:(3)
+三嶋大明神, 無形民俗文化財, 牛乗り神事
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

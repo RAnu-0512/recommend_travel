@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三熊山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山上, 山城
+cluster1:(3)
+散歩, 撮影スポット, 登山
+cluster2:(2)
+姿, こと
+cluster3:(2)
+城下町, 天守閣
+cluster4:(3)
+ドライブウェイ, ホテル, 淡路島
+cluster5:(3)
+車, 時間, 近く
+cluster6:(3)
+景色, 道, 海
+cluster7:(1)
+芝生
+cluster8:(6)
+大浜公園, ニュー淡路, 洲本城, 洲本, 洲本市街地, 三熊山
+
+howmany entities : 25
+howmany clusters : 9
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 5
+deleted 7entities.

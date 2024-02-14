@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太子町総合運動公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+公園, 散歩, 芝生, 遊具
+cluster1:(8)
+大会, 子供, こと, 金, ランニング, アスレチック, 試合, オススメ
+cluster2:(1)
+駐車場
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふれあいの里上月特産物直売所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+収穫, 野菜
+cluster1:(3)
+間, こと, 近在
+cluster2:(1)
+豆乳プリン
+cluster3:(1)
+加工品
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

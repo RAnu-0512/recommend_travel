@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路インターナショナルホテルザ・サンプラザ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+網戸, 机, 前菜, 窓, 景色, 朝食, 部屋, 荷物, 釜飯, 食事, 部屋食, 給仕, 虫, 料理
+cluster1:(20)
+ティッシュ, 言葉遣い, 体温, 火, 露天風呂, 主人, 私達, 高さ, 心, 言葉, 顔, 妊婦, 態度ひとつ, 方, 入れ物, 掛かりダラッ, ホテル, 中, 心臓, こと
+cluster2:(6)
+貸切風呂, 浴場, 正面玄関, 従業員, 貸し切り風呂, 駐車場
+
+howmany entities : 40
+howmany clusters : 3
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 3
+deleted 0entities.

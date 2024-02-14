@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:固寧倉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+倉庫, 目的
+cluster1:(2)
+災害, 飢饉
+cluster2:(1)
+備荒貯穀
+cluster3:(1)
+江戸時代
+cluster4:(1)
+固寧倉
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

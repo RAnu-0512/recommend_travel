@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石ケ谷公園の梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+梅林, のんびり梅, 梅, 梅見, 芝緑
+cluster1:(6)
+明石, 桜, 緑, 花, 馬, 公園
+cluster2:(12)
+気冊, 友人, もの, タイミング, 人気, 種類, 季節, 色, 事, 気, 晴天, 写真
+cluster3:(1)
+駐車場
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 1entities.

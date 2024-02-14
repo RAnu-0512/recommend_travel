@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アミュージアム神戸ハーバーランド店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+ゲーム, ランチ, プリクラ, ハーバーランド, ゲームセンター, ショー, モザイク
+cluster1:(3)
+息子, 人, 子供
+cluster2:(1)
+マリオカート
+cluster3:(1)
+衣装
+cluster4:(1)
+散歩
+cluster5:(1)
+世代
+cluster6:(1)
+神戸
+cluster7:(1)
+太鼓
+cluster8:(1)
+大型クレーンゲーム
+
+howmany entities : 17
+howmany clusters : 9
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 7entities.

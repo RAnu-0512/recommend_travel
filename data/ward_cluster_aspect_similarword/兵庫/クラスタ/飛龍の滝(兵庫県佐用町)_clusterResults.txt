@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飛龍の滝(兵庫県佐用町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+滝, 滝壺, 飛龍
+cluster1:(2)
+距離, 量
+cluster2:(3)
+日陰, 階段, 徒歩
+cluster3:(16)
+感じ, 姿, 道のり, 大河ドラマ, 気持ち, 人, 車, オープニング, 道案内, 多く, タイトルバック, 千種川, 水, マイナスイオン, 近く, 写真
+cluster4:(2)
+実物, 造形
+cluster5:(1)
+高さ
+cluster6:(1)
+久崎駅
+cluster7:(1)
+一眼デジタルカメラ
+cluster8:(1)
+駐車場
+
+howmany entities : 30
+howmany clusters : 9
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 8entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しそう よい温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+外, 奥, 半分
+cluster1:(8)
+サウナ, 露天風呂, ランチ, 気持ち, コンビニ, キャパ, レベル, ぼちぼちリニューアル
+cluster2:(3)
+もの, 利用, 方
+cluster3:(1)
+年配
+cluster4:(1)
+休止
+cluster5:(1)
+ぬる目
+cluster6:(13)
+風呂, 露天気分, 食事, 介護風呂, 湯温, 別棟露天風呂, 食事処, 宍粟市, 内湯, 休憩処, 泡風呂, 温泉, 外湯
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 3entities.

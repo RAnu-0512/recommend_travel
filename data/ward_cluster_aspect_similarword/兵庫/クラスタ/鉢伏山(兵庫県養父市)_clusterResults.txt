@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鉢伏山(兵庫県養父市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハチ高原, 鉢伏山南麓
+cluster1:(3)
+冬山, 登山, 夏山
+cluster2:(2)
+キャンプ場, スキー場
+cluster3:(2)
+自然, 自然学校
+cluster4:(6)
+夏, 長野, 雪, 冬場, 冬, 年
+cluster5:(13)
+鉢伏山, スノボ, スポット, 山登り, 山, 初心者, スキー, 周辺, グラススキー, 学校, ハイキング, 子供, 小学校
+cluster6:(2)
+景色, 空気
+cluster7:(4)
+感じ, 場所, 疲れ, こと
+cluster8:(1)
+異常気象
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 9entities.

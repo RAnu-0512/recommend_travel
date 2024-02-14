@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清住コスモス畑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+ドライブ, シーズン, コスモス, スポット, コントラスト, 写真
+cluster1:(2)
+人気, 秋
+cluster2:(1)
+コスモス畑
+cluster3:(1)
+撮りがい
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

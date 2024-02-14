@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:波賀不動滝公園「楓香荘」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雪, 風
+cluster1:(4)
+魚, 山, 滝, 川
+cluster2:(1)
+猛暑
+cluster3:(13)
+ボリューム, 送迎, 部分, 建物, 施設, 駅, 道, つかみ取り, 横, 子供, 温泉, 飲み物, 近く
+cluster4:(3)
+国道沿い, 国民宿舎, キャンプ場隣接
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 3entities.

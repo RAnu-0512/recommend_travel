@@ -1,0 +1,15 @@
+--------------------similar_words:亀の井ホテル 有馬--------------------
+top3 entities near to cluster1>>
+刺身, 肉
+top3 entities near to cluster2>>
+ご飯, 食事, 昼食
+top3 entities near to cluster4>>
+階段, 坂道, 坂
+top3 entities near to cluster5>>
+肌質, 肌
+top3 entities near to cluster11>>
+ホテル, 駅, 駅前
+top3 entities near to cluster12>>
+宿泊, 利用, 滞在
+top3 entities near to cluster13>>
+温泉, 露天風呂, 旅館

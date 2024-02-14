@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:生田川公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+生田川沿い, 川沿い
+cluster1:(4)
+新神戸, 南, 生田川, 木
+cluster2:(2)
+影響, 雨
+cluster3:(9)
+場所, 界隈, 友達, 人, トイレ, 方々, 子供, 近く, オススメ
+cluster4:(9)
+桜, 生田川公園, 道路, 花見, 満開, 穴場スポット, 花見スポット, 公園, 夜桜
+cluster5:(1)
+交通量
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 5entities.

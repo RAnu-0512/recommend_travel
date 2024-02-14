@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千ヶ峰南山名水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+水割り, 透明感, 印象, 身体, 施設, ドライブ
+cluster1:(2)
+名水わらび餅, 名水
+cluster2:(4)
+水, 伏流水, 地下水, 湧水
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

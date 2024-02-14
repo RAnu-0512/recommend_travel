@@ -1,0 +1,13 @@
+--------------------similar_words:有馬温泉 メープル有馬--------------------
+top3 entities near to cluster1>>
+ホテル, 飲み物, ドリンク
+top3 entities near to cluster3>>
+料理, 食材
+top3 entities near to cluster5>>
+女性人, 男性人, 女性, 男性
+top3 entities near to cluster9>>
+食事, 昼食, 夕食
+top3 entities near to cluster10>>
+補給, 散歩, 滞在
+top3 entities near to cluster12>>
+温泉, 風呂, 入浴

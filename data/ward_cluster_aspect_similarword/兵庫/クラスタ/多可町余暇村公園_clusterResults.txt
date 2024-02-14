@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多可町余暇村公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+多可町, 多可町余暇村公園, 兵庫県
+cluster1:(35)
+ロング滑り台, ローラ, 遊戯施設, 体力, 場所, 子供連れ, 距離, 滑り, 部屋, 子供たち, 管理, 芝生, 滑り台, コテージ, スピード, アスレチック, ローラーコースター, ファミリー, 大人, こども, 尻, 遊具, 運営, 虫, 中間地点, 公園, 息子, 子ども, バラ園, ローラー滑り台, 地点, 基本無料, 子供, 頂上, 上
+cluster2:(2)
+駐車場料金, 駐車場
+cluster3:(2)
+入場料, 入園料
+
+howmany entities : 42
+howmany clusters : 4
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 2
+deleted 4entities.

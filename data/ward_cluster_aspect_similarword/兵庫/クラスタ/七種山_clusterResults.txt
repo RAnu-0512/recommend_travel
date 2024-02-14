@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七種山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ところ, オススメ
+cluster1:(1)
+此処
+cluster2:(1)
+山
+cluster3:(1)
+滝
+cluster4:(1)
+虹
+cluster5:(1)
+福崎
+cluster6:(1)
+なぐさ
+cluster7:(1)
+虹ケ滝
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

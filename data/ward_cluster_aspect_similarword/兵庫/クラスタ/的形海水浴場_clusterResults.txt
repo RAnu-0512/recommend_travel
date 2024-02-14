@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:的形海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+案内板, 駐車場, 海水浴場, 入場料, 送迎バス, 休憩所, 利用料
+cluster1:(5)
+場合, ほう, 方, 気, こと
+cluster2:(2)
+カニ, 肉
+cluster3:(11)
+バケツ, あちこち, テント, ヤドカリ, バーベキュー, にぎわい, シーズン, トイレ, シャワー, オススメ, キャンプ
+cluster4:(2)
+潮干狩り, 海水浴
+cluster5:(2)
+ハマグリ, あさり
+cluster6:(1)
+おじ
+cluster7:(4)
+夏, 朝, 到着, 近く
+cluster8:(3)
+合間, 連休, 仕事
+cluster9:(1)
+開店
+cluster10:(2)
+料金, 水道
+cluster11:(2)
+HP, 看板
+cluster12:(2)
+車, 屋根
+cluster13:(1)
+歌詞
+cluster14:(7)
+散歩, 人, 家族連れ, 散歩コース, 家族, 子どもたち, 子供
+cluster15:(16)
+海水, 潮干, ジワジワ潮, マテ貝, 大潮, 貝, 大きい潮干, 前日波, 海岸, 貝取り, 貝持ち帰り, 砂浜, ♪遠浅, 海, 砂, 遠浅
+
+howmany entities : 68
+howmany clusters : 16
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 7
+deleted 15entities.

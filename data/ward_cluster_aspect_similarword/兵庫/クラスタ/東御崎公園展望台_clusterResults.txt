@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東御崎公園展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+季節, 春, 機会, 時期
+cluster1:(15)
+休憩, 場所, 途中, 此処, ドライブ, 人, ベンチ, 人気, 遊歩道, シーズン, 時間, オススメ, 家族, 忠臣蔵ファン, 瀬戸内海
+cluster2:(2)
+先着, 蒸し暑さ
+cluster3:(2)
+銅像, 像
+cluster4:(4)
+桜, 花見, 弁当, 梅林
+cluster5:(11)
+波, 広場, 樹木, 音, 島々, 海岸, 道, 階段, 斜面, 海, 高台
+cluster6:(6)
+景色, 眺め, 小雨, 絶景, 天気, 視界
+cluster7:(6)
+駐車場, 家族連れ, 展望台, 展望, 観光客, 水平線
+cluster8:(6)
+赤穂市, 赤穂, 赤穂御崎, 赤穂東御崎, 赤穂温泉, 大石内蔵助
+cluster9:(4)
+御崎公園, 諸島・小豆島, 瀬戸内海や家島, 国立公園
+
+howmany entities : 60
+howmany clusters : 10
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 8
+deleted 4entities.

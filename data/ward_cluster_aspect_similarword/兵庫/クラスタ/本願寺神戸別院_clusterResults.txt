@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本願寺神戸別院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+神戸三宮, 神戸, 花隈駅, 西本願寺神戸
+cluster1:(5)
+モダン寺, 真宗, 寺, 通称モダン寺, 別院
+cluster2:(18)
+完備, 北, 亡き祖母, インド, 好感, 歴史, 西本願寺, デザイン, 建物, 本堂, バリアフリー, 外観, 最後, 新年最初, 建築物, 異彩, 地元, 近く
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 0entities.

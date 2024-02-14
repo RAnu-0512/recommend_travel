@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芦屋市谷崎潤一郎記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+転居, 疎開
+cluster1:(4)
+東京, 阪神, 関西, 日本
+cluster2:(10)
+作家, 作品, 遺品, 生涯, 愛用, 代表, 原稿, 文豪, 舞台, 歴代奥さん
+cluster3:(5)
+印象, もの, 方, 興味, こと
+cluster4:(18)
+生まれ, 気持ち, 見応え, アクセス, 勉強, 生い立ち, 見ごたえ, 彼, 思い出, 建物, ファン, 図書館, 駅, 美術館, 教科書, 雰囲気, 隣, 家族
+cluster5:(2)
+休憩, 観覧
+cluster6:(1)
+相関関係
+cluster7:(2)
+日本庭園, 庭園
+cluster8:(2)
+庭, お庭
+cluster9:(4)
+創作部屋, 小説家, 建築物, 住宅街
+cluster10:(1)
+喫茶室
+cluster11:(6)
+資料, 展示資料, 展示品, 展示, 入館料, 展示物
+cluster12:(11)
+阪神芦屋駅, 文学館, 谷崎潤一郎記念館, 有馬温泉, 記念館, 谷崎潤一郎, 芦屋市, 兵庫県, 細雪, 春琴抄, 芦屋市立図書館
+
+howmany entities : 68
+howmany clusters : 13
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 7
+deleted 10entities.

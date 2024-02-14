@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:atoa>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+魚, カメ, 亀, 鯉
+cluster1:(15)
+一角, 場所, ところ, 目玉, 景色, もの, 見応え, 空間, 思い, 圧巻, おしゃれ感, 球形, 雰囲気, 体験, 写真
+cluster2:(27)
+神戸, 見せ物, ファスト, アトラクション, 動物, タツノオトシゴ たち, 売り, スポット, 人, カワウソ, テナガザル, カフェ, フロア, アート, ペンギン, 尻, カップル, 水族館, 生き物, アクアリウム, プロジェクションマッピング, カピバラ, 土産, 子供, アクセサリー ネックレス, 娘, 指輪
+cluster3:(2)
+丸い水槽, 水槽
+cluster4:(2)
+見せ所, 場所代
+cluster5:(2)
+展示室, 展示
+cluster6:(3)
+室内, 屋内水族館, 屋上
+cluster7:(1)
+動線
+cluster8:(1)
+真珠採り
+cluster9:(1)
+入場料
+
+howmany entities : 58
+howmany clusters : 10
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 4
+deleted 9entities.

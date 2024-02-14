@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:万葉岬の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+瀬戸内海, ドライブ
+cluster1:(1)
+次
+cluster2:(1)
+海
+cluster3:(1)
+桜
+cluster4:(1)
+岬
+cluster5:(1)
+万葉
+cluster6:(1)
+海景色
+cluster7:(1)
+相生市
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

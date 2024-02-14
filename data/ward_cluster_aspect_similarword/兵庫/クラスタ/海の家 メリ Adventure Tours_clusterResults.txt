@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海の家 メリ Adventure Tours>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+竹野駅, 竹野
+cluster1:(6)
+車, 電車, 客, 宿, 駅, 道
+cluster2:(2)
+送迎, 駐車スペース
+cluster3:(1)
+運転手
+cluster4:(1)
+洞門
+cluster5:(1)
+近場
+cluster6:(7)
+ノリ, 波, 魚, 天気, 釣り, 雨, 海
+cluster7:(3)
+カヌー, 夕焼けカヌー, カヤック
+cluster8:(2)
+ファミリープラン, プラン
+cluster9:(15)
+スタッフ, サービス, ポイント, スマホ, 気持ち, インストラクター, スポット, シーカヤック, カメラ, 思い出, こども, SNS, シュノーケリング, ホームページ, 問い合わせ
+cluster10:(2)
+日本海, カサゴ
+cluster11:(1)
+人
+cluster12:(1)
+メリ
+cluster13:(30)
+アップ数, 場所, シーカヤック体験, 連絡, 写真, もの, 時刻, 人気, 別, 対応, 利用, 家, 確認, 予約, 時間, 参加者, 今回, 電話番号, ペア, 状況, 事, 子どもたち, 現場, 子供, こと, 他, 体験, 電話, 人数, 変更
+
+howmany entities : 74
+howmany clusters : 14
+howmany entities (more than3entities) : 61
+howmany clusters (more than3entities) : 5
+deleted 13entities.

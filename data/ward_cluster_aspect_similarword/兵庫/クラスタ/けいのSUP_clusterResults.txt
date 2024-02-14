@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:けいのSUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+波, 浜辺, 台風, 海
+cluster1:(17)
+高校生, スタッフ, SUP, sup, インストラクター, 次回, 思い出, 確定, 言葉, 状態, 影響, 夏休み, 方, ボード, 子ども, 上, 写真
+cluster2:(4)
+小学, 子ども達, 家族, 子供
+cluster3:(2)
+迷惑, 安全
+cluster4:(1)
+リピ
+cluster5:(5)
+サンセットSUP, 時間, 体験時間, 体験, SUP体験
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 3entities.

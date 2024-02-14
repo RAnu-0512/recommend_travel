@@ -1,0 +1,15 @@
+--------------------similar_words:はさかり岩--------------------
+top3 entities near to cluster1>>
+火山, 堆積, 噴火
+top3 entities near to cluster3>>
+奇岩, 奇観, 洞門
+top3 entities near to cluster4>>
+間付近, 辺り, 間
+top3 entities near to cluster6>>
+人達, 大勢
+top3 entities near to cluster9>>
+景色, 車中
+top3 entities near to cluster12>>
+漁火, 香住, カニ
+top3 entities near to cluster13>>
+道路沿い, 歩道沿い, 道路, 歩道

@@ -1,0 +1,13 @@
+--------------------similar_words:いちご畑 まっか--------------------
+top3 entities near to cluster0>>
+時間, 制限, 日数
+top3 entities near to cluster3>>
+案内, 到着, 購入
+top3 entities near to cluster9>>
+駅車, 駅, 通路
+top3 entities near to cluster16>>
+スタッフ, 帰り際, オーナー
+top3 entities near to cluster18>>
+息子, 子供, 母親
+top3 entities near to cluster20>>
+イチゴ, いちご, 苺

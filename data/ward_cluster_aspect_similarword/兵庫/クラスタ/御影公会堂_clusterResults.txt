@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御影公会堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+嘉納治五郎, 東灘・芦屋, 御影川
+cluster1:(10)
+エリア, 作り, 展示コーナー, 施設, 目, 館内, R2, 外観, ホール, 船
+cluster2:(2)
+改装工事, 耐震補強
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

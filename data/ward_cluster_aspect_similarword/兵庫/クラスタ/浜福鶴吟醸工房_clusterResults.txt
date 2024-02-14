@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜福鶴吟醸工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+大吟醸ソフト, 大吟醸ソフトクリーム, 大吟醸ケーキ, 浜福鶴吟醸工房
+cluster1:(3)
+全国区, 独自性, 地元密着
+cluster2:(22)
+ビデオ解説, 香り, おじさん, ドライバー, ブランド, モットー, 人, 音, 客, ソフトクリーム, 関東, ミルクソフト, 有料, 匂い, メーカー, 日本, 勢い, 売り切れ, ボタン, 階段, 他, 作業場
+cluster3:(2)
+試飲コーナー, 試飲
+cluster4:(2)
+作業, 工程
+cluster5:(2)
+体験, 見学ゾーン
+cluster6:(1)
+展示物
+cluster7:(1)
+駐車場
+cluster8:(15)
+男酒, 酒粕ソフト, 酒, 糀, 地酒酒造所, 六甲牧場, 酒蔵めぐり, 地酒, 酒饅頭, 灘, 菊正宗, 菓子, 酒蔵, 土産, 地元灘
+
+howmany entities : 52
+howmany clusters : 9
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 4
+deleted 8entities.

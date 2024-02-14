@@ -1,0 +1,17 @@
+--------------------similar_words:神戸市立博物館--------------------
+top3 entities near to cluster0>>
+存在感, 状態, 存在
+top3 entities near to cluster1>>
+町並み, 博物館, 街並み
+top3 entities near to cluster3>>
+企画, 内容, 主旨
+top3 entities near to cluster4>>
+交流, 勉強, 開催
+top3 entities near to cluster5>>
+外観, 外見, 趣
+top3 entities near to cluster6>>
+関心, 知識, 価値
+top3 entities near to cluster7>>
+駅, 絵画, 建物
+top3 entities near to cluster8>>
+博物館, 展示, 展覧

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尼崎市立青少年いこいの家(キャンプ場と館内泊)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+キャンプ場, 施設, 家, キャンプ
+cluster1:(2)
+季節, アウトドア体験
+cluster2:(1)
+尼崎市立青少年いこい
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 3entities.

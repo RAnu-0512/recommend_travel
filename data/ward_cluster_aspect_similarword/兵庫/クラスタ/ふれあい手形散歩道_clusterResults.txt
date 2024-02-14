@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふれあい手形散歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+荒湯, 温泉街, 湯村温泉街
+cluster1:(30)
+有名人, 散歩, 手, 復路, 手形, 足湯, 距離, 往路, 人, 人気, スポーツ選手, 遊歩道, お笑い芸人, 多く, 時間, 川, 歌舞伎役者, 道, 方, 壁, 散歩道, レリーフ, 川沿い, 政治家, 雰囲気, 階段, コース, 高低さ, 中心, 川面
+
+howmany entities : 33
+howmany clusters : 2
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 2
+deleted 0entities.

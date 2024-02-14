@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゴールデンバレーゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+洗礼, 餌食
+cluster1:(2)
+友人, 今回
+cluster2:(2)
+ゴルフコース, コース
+cluster3:(8)
+ほとんど, ホワイト, ショット, ラウンド, ゴールデン, コンディション, グループ, ハザード
+cluster4:(1)
+違いキャディ
+cluster5:(1)
+右
+cluster6:(1)
+フェアウェイ
+cluster7:(1)
+距離
+cluster8:(1)
+飛距離計
+
+howmany entities : 19
+howmany clusters : 9
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 11entities.

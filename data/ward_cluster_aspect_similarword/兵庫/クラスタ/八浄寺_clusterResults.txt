@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八浄寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+手水場, 駐車場
+cluster1:(3)
+左側, 左, 左手
+cluster2:(16)
+感じ, 所, 場所, 周囲, 外, 手, 関係, 目, 笑顔, 記憶, 心, 時間, 順番, 中, 期待, 光景
+cluster3:(13)
+絵, 朱色, 八浄寺, 気持ち, 出迎え, 七福神めぐり, すべて, 七福神, 建物, カーナビ, 大黒天, 看板, 淡路島
+cluster4:(25)
+七福神瓦, 神戸, 母念, 鬼瓦, 法話, 本堂正面, 神社, 山門, 淡路七福神, 宝塔, 農村部, 大黒, 参拝, 神めぐり, 塔, 七福神参り, 寺, 本堂, 堂, 神, 朱塗り, 瑜, 説教, 兵庫県, 七福神巡り
+
+howmany entities : 59
+howmany clusters : 5
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 4
+deleted 2entities.

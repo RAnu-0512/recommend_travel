@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐用のオオイチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+陣屋, 本陣
+cluster1:(2)
+近世, 戦乱
+cluster2:(5)
+佐, 銀杏, 木, イチョウ, 辺り
+cluster3:(1)
+赤松家
+cluster4:(2)
+播磨鑑, 出雲藩
+cluster5:(1)
+江戸時代半ば
+cluster6:(1)
+如意輪山
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 9entities.

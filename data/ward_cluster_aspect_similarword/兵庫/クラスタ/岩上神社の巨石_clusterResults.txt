@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩上神社の巨石>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+巨石, 巨石ブーム
+cluster1:(3)
+姿, 気配, 圧巻
+cluster2:(11)
+周囲, ゴロリ, 人, 岩, 大和, 神, 水, 雰囲気, 淡路島, 社, パワースポット
+cluster3:(1)
+高さ
+cluster4:(10)
+石上神宮, 社殿, 神社, 拝殿, 丹生川上神社, 本殿裏, 岩上神社, 磐座, 兵庫県, 本殿
+cluster5:(1)
+伊弉諾神宮
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 4entities.

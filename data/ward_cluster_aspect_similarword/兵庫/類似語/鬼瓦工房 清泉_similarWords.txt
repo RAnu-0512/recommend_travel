@@ -1,0 +1,23 @@
+--------------------similar_words:鬼瓦工房 清泉--------------------
+top3 entities near to cluster0>>
+時間, 時, 日
+top3 entities near to cluster1>>
+子供, 家族, 息子
+top3 entities near to cluster3>>
+笑顔, 表情, 人柄
+top3 entities near to cluster4>>
+風景, 写真, 教室
+top3 entities near to cluster6>>
+カップ, コップ, マグカップ
+top3 entities near to cluster9>>
+雰囲気, イメージ, 仕上がり
+top3 entities near to cluster13>>
+作業, 指導, 参加
+top3 entities near to cluster15>>
+地蔵, くろ, さま
+top3 entities near to cluster17>>
+貸切, バス, 湯
+top3 entities near to cluster18>>
+茶碗, 陶器, 徳利
+top3 entities near to cluster20>>
+体験, 陶芸, 教室

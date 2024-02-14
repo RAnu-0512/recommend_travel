@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒川ダリヤ園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+希望, 期待
+cluster1:(3)
+形, 情報, 周り
+cluster2:(1)
+機会
+cluster3:(4)
+ダリア, 品種, 父母, ダリヤ
+cluster4:(2)
+国道, 川西インター
+cluster5:(1)
+黒川ダリヤ園
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 6entities.

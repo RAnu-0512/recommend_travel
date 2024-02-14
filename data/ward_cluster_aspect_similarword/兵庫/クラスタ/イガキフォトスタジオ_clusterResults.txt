@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:イガキフォトスタジオ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+家族写真, 家族
+cluster1:(5)
+人, 記念, 人気, データ, 写真
+cluster2:(1)
+お宮参り
+cluster3:(1)
+写真館
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

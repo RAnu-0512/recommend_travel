@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊丹市立博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+てっきり入館料, 入館料
+cluster1:(3)
+伊丹市役所, 伊丹, 伊丹市立博物館
+cluster2:(4)
+観光スポット, 歴史, 文化, 歴史資料
+cluster3:(2)
+感じ, こと
+cluster4:(3)
+見ごたえ, 博物館, 市役所
+cluster5:(2)
+隣, 近く
+cluster6:(1)
+駅
+cluster7:(1)
+外観
+cluster8:(1)
+完成度
+cluster9:(1)
+常設展示
+
+howmany entities : 20
+howmany clusters : 10
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 10entities.

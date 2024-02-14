@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:樽見の大桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白系, 白色
+cluster1:(6)
+姿, 懸命, 興味, 迫力, 元気, 価値
+cluster2:(3)
+辺り, 下, 付近
+cluster3:(3)
+周囲, 全体, 周り
+cluster4:(17)
+違和感, 所, 作業, 気持ち, 天然記念物, 人, 情報, 名残り, 石積み, 時間, ピンク, 大桜, 方, 昔, こと, 時期, 保存
+cluster5:(9)
+大変さ, 運動不足, 標高差, 国指定, 案内表示, 時間帯, 記念撮影, 素晴らしさ, 駐車場
+cluster6:(5)
+樹勢, 樹齢, 老木, 古木, 大木
+cluster7:(5)
+桜, 花見, 満開, 仙桜, 桜自身
+cluster8:(9)
+大樹, 枝, 花, 石, 葉, 太陽, 光, 幹, 木
+cluster9:(5)
+蚕, 桑, 石垣, 養蚕, 桑畑
+cluster10:(2)
+足場, 日陰
+cluster11:(6)
+山, 山道, 道, 急坂, 斜面, 中腹
+cluster12:(1)
+北西斜面
+cluster13:(1)
+階段状
+cluster14:(1)
+幹線道路
+
+howmany entities : 75
+howmany clusters : 15
+howmany entities (more than3entities) : 68
+howmany clusters (more than3entities) : 10
+deleted 7entities.

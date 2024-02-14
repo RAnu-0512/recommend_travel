@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:近松門左衛門の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+菩提寺, 執筆, 仕事部屋, 境内, 墓所, 支援者, 寺, 近松, 本堂裏
+cluster1:(2)
+上記日昌, 広済寺
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

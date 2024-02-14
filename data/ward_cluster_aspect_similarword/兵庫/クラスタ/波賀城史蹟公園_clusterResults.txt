@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:波賀城史蹟公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅波賀, 因幡街道
+cluster1:(2)
+山道, 道
+cluster2:(3)
+途中, 方, 中
+cluster3:(2)
+車, 電車
+cluster4:(3)
+景色, 写真, 建物
+cluster5:(7)
+山頂, 森, 城, 公園, 頂上, 高台, 城山
+cluster6:(2)
+案内標識, 駐車場
+cluster7:(3)
+資料館, 波賀城学習資料館, 歴史資料館
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 8entities.

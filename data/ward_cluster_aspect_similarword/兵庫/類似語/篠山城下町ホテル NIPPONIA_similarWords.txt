@@ -1,0 +1,15 @@
+--------------------similar_words:篠山城下町ホテル NIPPONIA--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 市営
+top3 entities near to cluster1>>
+民家, 古, 城
+top3 entities near to cluster2>>
+食事, 料理, 設備
+top3 entities near to cluster11>>
+メイン, スタッフ, フロント
+top3 entities near to cluster12>>
+ランチ, ディナー, レストラン
+top3 entities near to cluster16>>
+女性, 全員, 男性
+top3 entities near to cluster19>>
+旅, 勧め, 旅先

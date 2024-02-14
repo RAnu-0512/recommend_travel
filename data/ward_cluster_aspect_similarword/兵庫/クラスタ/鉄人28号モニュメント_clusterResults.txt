@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鉄人28号モニュメント>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+地元商店街, 長田1番街, 鉄人28号
+cluster1:(7)
+神戸, 新長田, 東京, 元旦, 北陸, 新潟, 地元
+cluster2:(15)
+モニュメント, 地, テレビ, 能登半島, 車窓, ガンダム, 宿, JR, 駅, シンボル, 地震, スケール, 縁, 鉄人, ロボット
+cluster3:(6)
+実物, 何か, 活気, 直立, 迫力, 写真
+cluster4:(4)
+背中側, 足, 足先, 南向き
+cluster5:(3)
+高さ, 身長, 体重
+cluster6:(1)
+躍動感
+cluster7:(6)
+広場, 駅前広場, 震災復興, 復興モニュメント, 若松公園, モニュメント構 造
+
+howmany entities : 45
+howmany clusters : 8
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 7
+deleted 1entities.

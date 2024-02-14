@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:元気村かみくげ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+恐竜, 化石
+cluster1:(2)
+石, 砂利
+cluster2:(13)
+感じ, 所, 場所, マーキング, 目, オブジェ, JR, 子ども, 福知山線, 地点, 男性, ・・, 名前
+cluster3:(1)
+スグ横
+cluster4:(7)
+発電施設, 建物探訪ファン, 公園施設, 丹波竜, 川代公園, 発掘担当, 化石発見地点
+
+howmany entities : 25
+howmany clusters : 5
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 5entities.

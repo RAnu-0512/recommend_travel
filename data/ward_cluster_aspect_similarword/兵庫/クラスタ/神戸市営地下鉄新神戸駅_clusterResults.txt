@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸市営地下鉄新神戸駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+三宮, 三ノ宮駅, 神戸, 神戸駅, 駅
+cluster1:(2)
+新幹線新神戸駅, 三ノ宮・神戸街
+cluster2:(9)
+時間, 新幹線, 新幹線乗り場, エスカレーター, 距離, 地下鉄, 出発地点, 地下深く, 余裕
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 2entities.

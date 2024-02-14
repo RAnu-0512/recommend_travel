@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:生野義挙の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+生野義挙, 生野城, 生野
+cluster1:(4)
+幕府討伐, 石碑, 歴史, 碑
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 0entities.

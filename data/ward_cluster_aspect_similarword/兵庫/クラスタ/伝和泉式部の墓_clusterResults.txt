@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伝和泉式部の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+和泉式部, ポツン
+cluster1:(1)
+脇
+cluster2:(1)
+道
+cluster3:(1)
+墓
+cluster4:(1)
+風情
+cluster5:(1)
+坂道
+cluster6:(1)
+伝和泉式部
+cluster7:(1)
+西国街道
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

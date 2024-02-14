@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新宝塚カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴルフ場, 練習場
+cluster1:(2)
+食事, 練習
+cluster2:(9)
+グリーン, コース, 人気, アクセス, アプローチ, こと, おかげ, パター, パッティング
+cluster3:(1)
+開通
+cluster4:(1)
+名神
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 6entities.

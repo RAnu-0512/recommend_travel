@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高田屋嘉兵衛屋敷跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+父, 記念碑, 功績
+cluster1:(2)
+高田屋嘉兵衛, 幕末
+cluster2:(1)
+都志
+cluster3:(1)
+記念館
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

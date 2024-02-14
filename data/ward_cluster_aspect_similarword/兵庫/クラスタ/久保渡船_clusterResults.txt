@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久保渡船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+船長, 船
+cluster1:(4)
+フェニックス, 昼, 帰り, 乗り場
+cluster2:(2)
+全員, 現場
+cluster3:(1)
+武庫川一文字
+cluster4:(1)
+金
+cluster5:(1)
+徴収
+cluster6:(2)
+運転席, 発着場
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 9entities.

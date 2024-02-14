@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波市立薬草薬樹公園 リフレッシュ館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+感じ, 中, メイン, 花, 時期, 枯れ葉
+cluster1:(3)
+薬草, 施設, 温泉
+cluster2:(1)
+少なさ
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 1entities.

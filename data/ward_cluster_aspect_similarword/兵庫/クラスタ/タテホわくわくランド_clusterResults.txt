@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:タテホわくわくランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+赤穂市, 赤穂海浜公園
+cluster1:(14)
+タコ焼き, 中, 乗り物, 乗り放題チケット, 運動会, コチラ, チケット制, 遊具, 小学校, 観覧車, サービスセンター売店, 遊園, 遊園地, 近く
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

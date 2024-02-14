@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸北まつばら農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大阪府, 兵庫県
+cluster1:(3)
+いちご狩りハウス, いちご狩り, イチゴ狩り
+cluster2:(6)
+品種, 販売, 中, 土産, 機会, こと
+cluster3:(8)
+いちごハウス, 受付ハウス, ハウス, イチゴ, ビニールハウス, 娘, 子ども, いちご
+cluster4:(2)
+完熟, ちご
+cluster5:(1)
+おいCベリー
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 5entities.

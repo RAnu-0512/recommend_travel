@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルウイングインターナショナル神戸新長田駅前>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+茶漬け, ごはん, カレー, サラダ, 味噌汁
+cluster1:(5)
+ヨーグルト, ソーセージ, マクドナルド, プレーン, クロワッサン
+cluster2:(3)
+ビュッフェ, モーニング, バイキング
+cluster3:(1)
+プチパン
+cluster4:(1)
+ドリンク
+cluster5:(3)
+味付け, ソース, 気持ち
+cluster6:(1)
+新長田
+cluster7:(10)
+前回, 店員, 好み, 入口, 内容, JR, 供, 補充, 隣, 気
+cluster8:(1)
+長田
+cluster9:(15)
+揚げ餃子, 鮭フレーク, 野菜, ご飯, 豚汁, 大根, 梅ひじき, 漬物, 和食洋食, 料理, 果物, 切干, 出汁茶漬け, 当地名物, 餡掛け野菜
+cluster10:(3)
+ぼっかけカレー, だし巻き卵, ぼっかけ
+cluster11:(1)
+ピリ辛味噌野菜炒め
+cluster12:(1)
+イマイチ 豚汁 ぬるい 何か できあいの 寄せ集め感
+
+howmany entities : 50
+howmany clusters : 13
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 7
+deleted 6entities.

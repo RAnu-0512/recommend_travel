@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三田陶芸の森。>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体験場, 体験
+cluster1:(1)
+青磁体験
+cluster2:(1)
+型押し体験
+cluster3:(2)
+もの, プレート
+cluster4:(1)
+先生
+cluster5:(1)
+皿
+cluster6:(1)
+陶芸
+cluster7:(1)
+三田青磁
+cluster8:(1)
+干支入りイヤープレート
+
+howmany entities : 11
+howmany clusters : 9
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 11entities.

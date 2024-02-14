@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:頼光寺(兵庫県川西市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寺, 頼光寺, あじさい寺
+cluster1:(3)
+種類, 色, 季節
+cluster2:(4)
+主人, 人, 庭, あじさい
+cluster3:(1)
+駐車場
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 1entities.

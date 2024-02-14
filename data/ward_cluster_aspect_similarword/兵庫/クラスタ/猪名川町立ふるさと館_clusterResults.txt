@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猪名川町立ふるさと館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+人気, 夏場, 中, 昔
+cluster1:(6)
+スポット, 川, トイレ, 猪名川, 子ども, 水遊び
+cluster2:(7)
+姿, 広場, 敷地, 道, ふるさと館, 本館, 展示
+cluster3:(1)
+家族連れ
+cluster4:(1)
+駐車場
+cluster5:(1)
+民芸品
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 3entities.

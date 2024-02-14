@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出石家老屋敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+蝋人形, 上級武士, 江戸時代
+cluster1:(16)
+感じ, 所, 資料, 隠し階段, レンタサイクル, 建物, 屋根, 平屋, 宿, 正面, 広さ, 隠し, 街中, 階段, 写真撮影可, こと
+cluster2:(12)
+屋敷, 長老屋敷, 出石城, 出石藩, 屋敷跡, 出石家老屋敷, 忍者屋敷, 出石, 武家屋敷, 出石城跡, 家老, 家老屋敷
+
+howmany entities : 31
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 3
+deleted 0entities.

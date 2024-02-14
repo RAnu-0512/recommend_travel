@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:覚住寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+七福神めぐり, 七福神, 七福神巡り
+cluster1:(2)
+神社, 寺
+cluster2:(2)
+声, 看板
+cluster3:(7)
+若者, 毘沙門天, 人気, 神, ネチネチ, 中, 淡路島
+cluster4:(6)
+感じ, 勇気, 様子, もの, 嫌味, こと
+cluster5:(1)
+ハッピー券
+cluster6:(1)
+駐車場
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 6entities.

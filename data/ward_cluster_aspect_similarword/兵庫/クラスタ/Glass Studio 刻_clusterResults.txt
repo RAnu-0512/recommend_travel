@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Glass Studio 刻>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+右手, 左手
+cluster1:(2)
+作品, ガラス作品
+cluster2:(4)
+ガラス, 家族, 子供, 子
+cluster3:(5)
+形, 道具, 感想, 色, 順番
+cluster4:(1)
+予約
+cluster5:(1)
+息
+cluster6:(1)
+合間合間
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 7entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尼崎田能郵便局>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+阪急園田駅, 園田競馬場
+cluster1:(2)
+郵便局, 特定郵便局
+cluster2:(3)
+所, 局員, 近く
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

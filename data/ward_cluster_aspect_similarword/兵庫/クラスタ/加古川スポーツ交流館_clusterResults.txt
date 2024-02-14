@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加古川スポーツ交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+スポーツジム, マシンジム, ジム, ジム使い
+cluster1:(2)
+利用者, プール利用者
+cluster2:(9)
+レッスンプログラム, 利用, 部分, 問題, 方, 普通, マシン, プール, スタジオ
+cluster3:(2)
+風呂, スポーツ施設
+cluster4:(1)
+回数
+cluster5:(1)
+温水プール
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 6entities.

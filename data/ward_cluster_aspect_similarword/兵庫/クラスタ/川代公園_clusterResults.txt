@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川代公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+篠山川, キャンプ場, 場所, 桜, 印象, 夏, 丹波市, 気持ち, バーベキュー, ロープ, 眺め, クルマ, 頑丈, 川, 吊り橋, 施設, キャンプ, 公園, 曲線, 揺れ, 橋
+cluster1:(4)
+恐竜関連, 道都, 篠山方面, 中央付近
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 0entities.

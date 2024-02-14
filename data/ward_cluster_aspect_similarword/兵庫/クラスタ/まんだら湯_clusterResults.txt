@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まんだら湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宿泊, 開店
+cluster1:(7)
+ほとんど, 奥, 割り, 本筋, 外観, 方, 裏側
+cluster2:(2)
+城崎, 外湯
+cluster3:(1)
+まんだら湯
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

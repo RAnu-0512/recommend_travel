@@ -1,0 +1,15 @@
+--------------------similar_words:湯村温泉 佳泉郷 井づつや--------------------
+top3 entities near to cluster0>>
+家族, 両親, 息子
+top3 entities near to cluster1>>
+プラン, タイム, ランチ
+top3 entities near to cluster2>>
+ケーキ, 和菓子, お菓子
+top3 entities near to cluster3>>
+入り口, 露天風呂, 出入り口
+top3 entities near to cluster10>>
+屋上, 玄関, 入り口
+top3 entities near to cluster11>>
+宿泊, 食事, 風呂
+top3 entities near to cluster12>>
+温泉, 湯, 旅館

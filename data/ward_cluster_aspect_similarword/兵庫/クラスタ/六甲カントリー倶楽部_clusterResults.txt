@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六甲カントリー倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+グリーン, レストラン, バンカー, メンテナンス, グリーンコンディション
+cluster1:(2)
+スコアー, コース
+cluster2:(1)
+グリーン周り
+cluster3:(1)
+食事
+cluster4:(3)
+接客, ゴルフ場, 名門コース
+cluster5:(1)
+可能性
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

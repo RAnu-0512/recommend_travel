@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテル ラ・スイート神戸ハーバーランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+神戸タワー, 景色, 港, 部屋, ジャグジー
+cluster1:(2)
+舌鼓, 絶品料理
+cluster2:(1)
+映画見放題
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:TAKパラグライダースクール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+飛行, タンデム飛行
+cluster1:(16)
+スタッフ, TAKパラグライダースクール, スマホ, インストラクター, パラグライダー, ベテラン, 中学生, TAK, 思春期, データ, スクール, コンディション, パイロット, おかげ, タンデム, グリンパーク
+cluster2:(4)
+空, 山, 風, 上
+cluster3:(1)
+猛暑
+cluster4:(20)
+全力サポート, 感覚, 姿, 友達, 話, 楽しさ, ご飯屋, 時間, 息子相手, 方々, 方, 親, 息子, 事, タンデム体験, 見学, 人生, 気分, 体験, 動画
+
+howmany entities : 43
+howmany clusters : 5
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 3
+deleted 3entities.

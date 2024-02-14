@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新温泉町山陰海岸ジオパーク館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+展示館, 入場無料, ジオパーク館, 展示, 展示物, 駐車場
+cluster1:(3)
+山陰, ソロ旅, 山陰ジオパーク
+cluster2:(9)
+説明, もの, 感動, 勉強, 時間, 言葉, 方, 興味, 気
+cluster3:(3)
+質問, 回答, 訪問
+cluster4:(18)
+友人, ユネスコ世界ジオパーク, 自然, 海辺, 音, ジオパーク, 石, 別, 玄武岩, 建物, 施設, ジオラマ, 砂浜, 地元, 他, 砂, 職員, カニ
+cluster5:(1)
+鳴り砂
+cluster6:(1)
+説得力
+cluster7:(1)
+山陰海岸学習館
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 5
+deleted 3entities.

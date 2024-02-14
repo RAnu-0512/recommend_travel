@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸ドールミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+神戸, 場所, 人形, 距離, フランス, 大丸, 人, ドール, アンティークドール, アンティーク, グッズ, ショップ, ミュージアム, 興味, 徒歩, からくり人形, 展示, 館内, 洋服, 近く
+cluster1:(2)
+居留地, JR元町駅
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 1
+deleted 2entities.

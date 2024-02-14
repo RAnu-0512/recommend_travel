@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南あわじ温泉郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+南あわじ温泉郷, 南淡路温泉, 福良, 南淡路ロイヤル, 福良港
+cluster1:(8)
+感じ, ほか, 疲れ, 足, 目, 円形, 前, 横
+cluster2:(3)
+船, 釣り, 海
+cluster3:(10)
+ロケーション, 露天風呂, 日帰り, 子, 温泉郷, 滑り台, クルーズ, ホテル, 雰囲気, 淡路島
+cluster4:(3)
+場所, 部屋, 施設
+cluster5:(2)
+駅, 道
+cluster6:(1)
+天気
+cluster7:(1)
+ふくタオル
+cluster8:(1)
+乗り口
+cluster9:(16)
+日帰り入浴, 風呂, うずしお温泉, 足湯, 静かな温泉, 温泉処, 有馬温泉, 客, 温泉街, スーパー銭湯, 淡路島海上ホテル, 日帰り温泉, 宿泊客, 湯, お湯, 温泉
+
+howmany entities : 50
+howmany clusters : 10
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 6
+deleted 5entities.

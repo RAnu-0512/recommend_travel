@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:籠坊温泉 旅館 浪花館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+牡丹鍋コース, 牡丹鍋
+cluster1:(22)
+感じ, 値段, メニュー, 山奥, カラオケ, バルサン, 追加, 鉄分, 恒例, 手前, 自動ドア, スマホ片手, 焼きタイ, カメムシ, イノシシ肉, 色, 皿, 手動, 気, こと, 経験, 肉
+cluster2:(3)
+X4風呂, 誕生日, 男女比
+cluster3:(9)
+仲居, 料理旅館, 天然温泉, 宿, 炭酸温泉, 料理, 旅館, 入浴, 温泉
+cluster4:(1)
+入湯税
+
+howmany entities : 37
+howmany clusters : 5
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 3
+deleted 3entities.

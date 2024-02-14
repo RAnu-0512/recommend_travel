@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香住海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+香住海岸, 香住, 香住駅
+cluster1:(2)
+カエル岩, 岩
+cluster2:(4)
+整備, 散歩, 子供たち, 遊具
+cluster3:(4)
+町おこし, 島, 海岸, 砂浜
+cluster4:(2)
+斜め, 背
+cluster5:(6)
+ところ, 子, 人, ネーミング, 海水浴, カエル
+cluster6:(2)
+感じ, 形
+cluster7:(4)
+自然, 人気, 昔, 近く
+cluster8:(2)
+交通安全キャンペーン, 駐車場
+
+howmany entities : 29
+howmany clusters : 9
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 8entities.

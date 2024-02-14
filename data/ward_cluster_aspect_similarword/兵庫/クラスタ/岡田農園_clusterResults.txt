@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡田農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+収穫, 畑, 農園
+cluster1:(2)
+順, 土
+cluster2:(3)
+ところ, 人, 家族
+cluster3:(2)
+様子, 写真
+cluster4:(1)
+管理
+cluster5:(4)
+冷静, 自然, 心, 意識
+cluster6:(3)
+ツル, 小指, プロ
+cluster7:(1)
+ねーー
+cluster8:(1)
+芋掘り農園
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 4
+deleted 7entities.

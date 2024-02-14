@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+芦屋市, 芦有ドライブウェイ, 兵庫県
+cluster1:(16)
+禁止, 池, 六甲山, バーベキュー, 車, 貯水池, 標高, 周辺, 奥池, 南北, 家族, 湖畔, 必要, 中腹, 高台, 料金
+cluster2:(2)
+有料道路, 住宅街
+cluster3:(1)
+奥池園地
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 3entities.

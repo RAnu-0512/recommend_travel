@@ -1,0 +1,5 @@
+--------------------similar_words:出石城そば打ち道場--------------------
+top3 entities near to cluster1>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster2>>
+そば打ち, 蕎麦打ち, そば, 蕎麦

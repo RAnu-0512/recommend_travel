@@ -1,0 +1,21 @@
+--------------------similar_words:こんだ薬師温泉ぬくもりの郷--------------------
+top3 entities near to cluster0>>
+温度, 温度差, 気温差, 気温
+top3 entities near to cluster1>>
+開放感, 存在感, 存在, 開放
+top3 entities near to cluster2>>
+土産店, 土産, 食事
+top3 entities near to cluster3>>
+紅葉, 景色, 桜
+top3 entities near to cluster4>>
+底, 足, 階段
+top3 entities near to cluster5>>
+山星, 岩, 山
+top3 entities near to cluster8>>
+湯船, お湯, 浴槽
+top3 entities near to cluster9>>
+浴場, 露天風呂, 館内
+top3 entities near to cluster10>>
+休憩, 時間, 更衣
+top3 entities near to cluster11>>
+温泉, 風呂, 湯

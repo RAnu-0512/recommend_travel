@@ -1,0 +1,93 @@
+--------------------similar_words:キッザニア甲子園--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 小学生
+top3 entities near to cluster1>>
+女の子, お菓子, 男の子
+top3 entities near to cluster2>>
+スケジュール, チームワーク, タイミング
+top3 entities near to cluster3>>
+アクティビティー, アクティビティ, アウトドアアクティビティー
+top3 entities near to cluster4>>
+プログラム, ワークショップ, アーティスト
+top3 entities near to cluster8>>
+アトラクション, コスチューム, スタッフ
+top3 entities near to cluster9>>
+サービス, サポート, システム
+top3 entities near to cluster10>>
+カウンター, メイン, オープン
+top3 entities near to cluster11>>
+ショップ, バッグ, グッズ
+top3 entities near to cluster14>>
+バイザー, モール, カード
+top3 entities near to cluster15>>
+満足感, 満足度, 満足
+top3 entities near to cluster16>>
+つくり, 作る
+top3 entities near to cluster20>>
+月, 日, 12
+top3 entities near to cluster22>>
+制限外, 制限
+top3 entities near to cluster23>>
+中心部, 中心, 関係
+top3 entities near to cluster25>>
+大勢, たくさん
+top3 entities near to cluster27>>
+種類数, 種類, 順番
+top3 entities near to cluster31>>
+喜び, 感激, 感動
+top3 entities near to cluster33>>
+コツ, 要領, 工夫
+top3 entities near to cluster34>>
+状態, 具合, 過ぎ
+top3 entities near to cluster37>>
+利用, 対応, 勉強
+top3 entities near to cluster39>>
+入場券, 入場, 入館券, 入館
+top3 entities near to cluster40>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster41>>
+予約, 受付, 申し込み
+top3 entities near to cluster42>>
+混雑, 混み, 混む
+top3 entities near to cluster45>>
+時間, 半日
+top3 entities near to cluster50>>
+休憩, 昼食, お昼
+top3 entities near to cluster51>>
+寿司, すし, 鮨
+top3 entities near to cluster54>>
+ピザ, ピッツァ, ピッツア
+top3 entities near to cluster55>>
+体験, 経験, 職業
+top3 entities near to cluster58>>
+子, 家の子, 娘
+top3 entities near to cluster59>>
+親, 子供, バカ
+top3 entities near to cluster66>>
+小学, 中学, 学年
+top3 entities near to cluster67>>
+息子, 娘, 孫
+top3 entities near to cluster68>>
+園児, デー, 幼稚園
+top3 entities near to cluster69>>
+消防, 警察, 消防署
+top3 entities near to cluster70>>
+仕事, 業務, 経験
+top3 entities near to cluster71>>
+駅, 野球, バス
+top3 entities near to cluster72>>
+工場, 所内
+top3 entities near to cluster73>>
+会場, 写真, 地図
+top3 entities near to cluster74>>
+土産, 弁当, おみやげ
+top3 entities near to cluster75>>
+学校人, 学校, 家族
+top3 entities near to cluster76>>
+真横, 隣
+top3 entities near to cluster77>>
+予定, 休み, 週末
+top3 entities near to cluster78>>
+制服, 写真, 衣装
+top3 entities near to cluster79>>
+飲食店, 施設, 飲食

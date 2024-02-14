@@ -1,0 +1,65 @@
+--------------------similar_words:うずしおクルーズ--------------------
+top3 entities near to cluster1>>
+うず, めめしい, せんしよ
+top3 entities near to cluster2>>
+うず, したう, する
+top3 entities near to cluster4>>
+タオル, エアコン, トイレ
+top3 entities near to cluster5>>
+小学生, 子ども, 中学生
+top3 entities near to cluster8>>
+小さめ, 大き目, 大きめ
+top3 entities near to cluster9>>
+シーン, 思い出, 気持ち
+top3 entities near to cluster10>>
+チケット, Tシャツ, イベント
+top3 entities near to cluster11>>
+待ち時間, 行き帰り, ストレス
+top3 entities near to cluster17>>
+出迎え, 姉さん, テキパキ
+top3 entities near to cluster19>>
+クルーズ, ショー, クルー
+top3 entities near to cluster21>>
+案内, 見学, 勉強
+top3 entities near to cluster22>>
+撮影, 出発, 移動
+top3 entities near to cluster24>>
+かたは, いらっしゃる
+top3 entities near to cluster26>>
+デス, 満載, よー
+top3 entities near to cluster27>>
+心配, 影響
+top3 entities near to cluster31>>
+体験, 経験, 人生
+top3 entities near to cluster32>>
+想像, 期待, 感動
+top3 entities near to cluster33>>
+天気, 当日, 大雨
+top3 entities near to cluster34>>
+船内, 船上
+top3 entities near to cluster35>>
+反対, 双方, 向こう
+top3 entities near to cluster36>>
+両親, 子供, 息子
+top3 entities near to cluster37>>
+日, 月, 今日
+top3 entities near to cluster38>>
+時期, 季節, 間近
+top3 entities near to cluster40>>
+海, 島, 港
+top3 entities near to cluster44>>
+窓, 景色, 部屋
+top3 entities near to cluster45>>
+駅付近, 駅, 人々
+top3 entities near to cluster48>>
+出航, 出港, 入港
+top3 entities near to cluster49>>
+乗船, 時間, 出航
+top3 entities near to cluster50>>
+乗船, 下船, 出航
+top3 entities near to cluster53>>
+住民, 地元
+top3 entities near to cluster54>>
+宿泊, 気分, 旅
+top3 entities near to cluster55>>
+遊覧船, 遊覧, 船内

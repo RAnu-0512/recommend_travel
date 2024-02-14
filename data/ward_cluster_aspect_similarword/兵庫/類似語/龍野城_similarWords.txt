@@ -1,0 +1,11 @@
+--------------------similar_words:龍野城--------------------
+top3 entities near to cluster1>>
+散策, 散歩, 街並み
+top3 entities near to cluster4>>
+城, 城郭, 天守
+top3 entities near to cluster5>>
+塀, 町並, 町並み
+top3 entities near to cluster6>>
+御殿, 館, 跡
+top3 entities near to cluster8>>
+入場料, 入場, 入館料, 入館

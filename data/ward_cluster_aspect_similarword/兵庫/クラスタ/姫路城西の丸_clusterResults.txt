@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路城西の丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+美しさ, 生活感, 内部構造
+cluster1:(6)
+姫路城天守閣, 天守閣, 姫路城, 千姫, 庭園, 廊下
+cluster2:(2)
+満載, 見所
+cluster3:(2)
+丸, 西
+cluster4:(8)
+静けさ, 場所, 成立ち, 身体, 日本, 外観, 方, こと
+cluster5:(1)
+猛暑
+cluster6:(1)
+名城
+cluster7:(3)
+化粧櫓, 櫓, 観光客
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 6entities.

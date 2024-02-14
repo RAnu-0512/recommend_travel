@@ -1,0 +1,27 @@
+--------------------similar_words:阪神甲子園球場 甲子園歴史館--------------------
+top3 entities near to cluster0>>
+展示, 出展, 収蔵
+top3 entities near to cluster2>>
+ベンチ, 野球, スタジアム
+top3 entities near to cluster3>>
+ドラマ, テレビ, 飛行機
+top3 entities near to cluster5>>
+ボール, バット, パワー
+top3 entities near to cluster7>>
+歴史観, 歴史, 壮大
+top3 entities near to cluster12>>
+時期, 時間, 時
+top3 entities near to cluster16>>
+体験, 見学, 大会
+top3 entities near to cluster17>>
+入場券, 席券, 入場, 席
+top3 entities near to cluster18>>
+館, 歴史, 博物館
+top3 entities near to cluster19>>
+野球, サッカー, プロ
+top3 entities near to cluster20>>
+野球, 高校, 中学
+top3 entities near to cluster22>>
+球児, 熱闘, 野球
+top3 entities near to cluster27>>
+球団, 巨人, 野球

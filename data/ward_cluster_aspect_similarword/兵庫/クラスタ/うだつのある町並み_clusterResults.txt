@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:うだつのある町並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+城下町出石, 家々, 街並み, 途中, 車窓, 延焼, 家, うだつ
+cluster1:(2)
+JR八鹿駅, 全但バス
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

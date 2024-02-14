@@ -1,0 +1,9 @@
+--------------------similar_words:うずしお温泉--------------------
+top3 entities near to cluster0>>
+うず, 温泉, ぐりをお
+top3 entities near to cluster1>>
+温泉, 湯, 旅館
+top3 entities near to cluster3>>
+入浴, 風呂, お湯
+top3 entities near to cluster4>>
+渦潮, 海, 肌

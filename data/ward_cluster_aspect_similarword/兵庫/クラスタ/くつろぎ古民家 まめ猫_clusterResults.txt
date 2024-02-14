@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くつろぎ古民家 まめ猫>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+子猫ちゃん, 猫スペース, 子猫ちゃん達, 猫ちゃん達, 看板猫, 猫達, スタッフ猫たち, 猫スタッフ, 保護猫, 猫カフェ, 猫ちゃん, 猫, 子猫, 猫たち
+cluster1:(2)
+茶, 膝
+cluster2:(2)
+涙, 女将
+cluster3:(3)
+夏, 次回, 別
+cluster4:(3)
+部屋, 食事, 帰り
+cluster5:(2)
+時間, 動画
+cluster6:(8)
+ところ, 子, カフェスペース, ふれあいスペース, 組み合わせ, こと, スペース, 終わり
+cluster7:(1)
+名前
+cluster8:(2)
+癒し, 気分
+cluster9:(1)
+篠山
+cluster10:(1)
+古民家
+
+howmany entities : 39
+howmany clusters : 11
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 11entities.

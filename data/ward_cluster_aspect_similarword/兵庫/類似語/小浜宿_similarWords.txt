@@ -1,0 +1,11 @@
+--------------------similar_words:小浜宿--------------------
+top3 entities near to cluster0>>
+散策, 繁華街, 繁華
+top3 entities near to cluster2>>
+風情, 風景, 景色
+top3 entities near to cluster3>>
+町並み, 街並み, 建物
+top3 entities near to cluster5>>
+時代, 地蔵, 幕末
+top3 entities near to cluster6>>
+宿場, 街道, 町

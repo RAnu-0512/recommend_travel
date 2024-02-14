@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三木ホースランドパーク エオの森キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンプ場, 森キャンプ場
+cluster1:(4)
+サイト, カラダ, 施設, 天
+cluster2:(1)
+火気厳禁
+cluster3:(1)
+三木ホースランドパーク エオ
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

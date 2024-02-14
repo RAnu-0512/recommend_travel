@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瓜生羅漢石仏>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+時間, コテージ, 洞窟, 見ごたえ, 近く
+cluster1:(2)
+石仏, 仏
+cluster2:(1)
+瓜生羅漢石
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

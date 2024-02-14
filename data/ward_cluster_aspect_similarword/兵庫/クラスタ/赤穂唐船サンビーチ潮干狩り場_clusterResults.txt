@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤穂唐船サンビーチ潮干狩り場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+家族連れ, 利用客, 会員, 会員証
+cluster1:(2)
+粒, 温度
+cluster2:(6)
+現実, 情報, 状態, 方, 時期, 心配
+cluster3:(2)
+人気, 穴場
+cluster4:(8)
+膝下, 風呂, 子, 人, 大人, 息子, 家族, 子供
+cluster5:(2)
+潮干狩り, 潮干狩りスポット
+cluster6:(2)
+アサリ, ハマグリ
+cluster7:(1)
+狩り場
+cluster8:(1)
+新舞子
+cluster9:(7)
+ところ, スポット, 思い出, レンタル, オススメ, ネット, こども
+cluster10:(4)
+バケツ, テント, ビーチ, トイレ
+cluster11:(1)
+JAF
+cluster12:(1)
+狩り
+cluster13:(8)
+海水, 赤穂, 貝, 盆, 貝毒, 潮, 遠浅, 姫路
+cluster14:(9)
+潮干, 海水浴場, 潮干狩り場, 姫路周辺の潮干, 潮干狩場, 海浜公園, 駐車料金, ついでに潮干, 駐車場
+
+howmany entities : 58
+howmany clusters : 15
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 7
+deleted 12entities.

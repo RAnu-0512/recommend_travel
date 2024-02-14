@@ -1,0 +1,25 @@
+--------------------similar_words:スカイバレイ--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+鉢, ハイパーボウル, 東南
+top3 entities near to cluster3>>
+ハチ, マキ, スズメバチ
+top3 entities near to cluster4>>
+斜面, 急斜面, 緩
+top3 entities near to cluster5>>
+身体, 子供
+top3 entities near to cluster6>>
+コース, 初心者, ビギナー
+top3 entities near to cluster7>>
+ゲレンデ, スノーボード, スノードライブ
+top3 entities near to cluster9>>
+ボード, バーン, 急斜面
+top3 entities near to cluster10>>
+ハウス, パーク, マナー
+top3 entities near to cluster18>>
+バス, タクシー
+top3 entities near to cluster19>>
+共通券, 共通, フリーパスチケット
+top3 entities near to cluster22>>
+上級者, 中級者, 上級, 中級

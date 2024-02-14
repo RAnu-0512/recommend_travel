@@ -1,0 +1,21 @@
+--------------------similar_words:長田神社--------------------
+top3 entities near to cluster1>>
+参拝, 初詣, 参詣
+top3 entities near to cluster5>>
+本殿, 境内, 社殿
+top3 entities near to cluster6>>
+勧め, かお, くじ
+top3 entities near to cluster10>>
+カステラ, コロッケ, おもちゃ
+top3 entities near to cluster11>>
+最寄り駅, アクセス, おすすめ
+top3 entities near to cluster12>>
+最寄り, 我が家, 昼過ぎ
+top3 entities near to cluster14>>
+お参り, 御朱印, ご利益
+top3 entities near to cluster15>>
+界隈, 屋台, 人々
+top3 entities near to cluster17>>
+協力, 関係, 尽力
+top3 entities near to cluster22>>
+活気, 空気

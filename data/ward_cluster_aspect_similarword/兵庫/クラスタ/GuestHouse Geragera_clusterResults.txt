@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:GuestHouse Geragera>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ショート女性店員, 女性店員様
+cluster1:(2)
+電話口, 電話
+cluster2:(17)
+場所, ドリンク, 景色, BBQ, 浜辺, 店員, バーベキュー, 金髪, 敷地, 客, トイレ, 指定, 女性, 隣, 食材, 名前, 海
+cluster3:(6)
+こっち側, 態度, 為伺う, 問題, 気, こと
+cluster4:(1)
+駐車場
+cluster5:(1)
+飲み放題
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 6entities.

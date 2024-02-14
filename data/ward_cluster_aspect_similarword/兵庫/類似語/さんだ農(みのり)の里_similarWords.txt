@@ -1,0 +1,13 @@
+--------------------similar_words:さんだ農(みのり)の里--------------------
+top3 entities near to cluster0>>
+息子, 家族, 友人
+top3 entities near to cluster2>>
+子供, 家族, 別荘
+top3 entities near to cluster3>>
+カボチャ, ズッキーニ, かぼちゃ
+top3 entities near to cluster4>>
+手作り, 子ども, 子供
+top3 entities near to cluster10>>
+野菜, 肉, ピザ
+top3 entities near to cluster11>>
+収穫, 体験, 採れ

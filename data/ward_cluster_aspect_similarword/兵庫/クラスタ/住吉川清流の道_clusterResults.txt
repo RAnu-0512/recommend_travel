@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:住吉川清流の道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+道沿い, 住宅地, 道, 川沿い, 住宅街
+cluster1:(2)
+住吉, 住吉川
+cluster2:(2)
+神戸, 六甲
+cluster3:(1)
+両岸
+cluster4:(3)
+子供連れ, 子供たち, 子供
+cluster5:(3)
+気持ち, ウワサ, 雰囲気
+cluster6:(4)
+市街地, 遊歩道, 図書館, 水遊び
+cluster7:(11)
+おすすめ, ジョギング, 六甲山, ウォーキング, ホタル, アクセス, ランニング, 六甲山地, カエル, キング, 六甲ライナー
+cluster8:(3)
+休日, 夕方, 昼間
+cluster9:(2)
+ほう, 方
+cluster10:(3)
+子, 人, 家族
+cluster11:(2)
+場所, 近く
+cluster12:(2)
+中, 本
+cluster13:(1)
+経由
+cluster14:(16)
+散歩, 夏, 市民, 散策, 魚, 山, 川, カニ, 平地, 駅, 清流, 公園, 水, 階段, 河口, 海
+
+howmany entities : 60
+howmany clusters : 15
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 8
+deleted 12entities.

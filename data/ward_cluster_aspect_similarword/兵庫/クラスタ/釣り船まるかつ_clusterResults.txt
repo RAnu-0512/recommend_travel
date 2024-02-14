@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:釣り船まるかつ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+参加, 前回, 思い出作り, 帰り, 笑, 方, 興味, こと, 衝撃
+cluster1:(3)
+ハマチ, ツバス, ヒラメ
+cluster2:(4)
+ビギナーズラック, スタッフ, リピート, 大きめ
+cluster3:(2)
+使い方, 初心者
+cluster4:(2)
+クーラーボックス, リール
+cluster5:(9)
+助手, 船長, 職場, 同僚, 女性, 子ども, 子供, 娘, 夫
+cluster6:(6)
+青物, あり沢山魚, 釣り方, 魚, 鯛, 釣り
+
+howmany entities : 35
+howmany clusters : 7
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 5
+deleted 4entities.

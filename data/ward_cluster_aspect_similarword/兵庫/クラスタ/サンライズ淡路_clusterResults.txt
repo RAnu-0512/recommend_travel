@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サンライズ淡路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供連れ, 子供達, 子供料金
+cluster1:(6)
+女, 小学, 男, 男児, 大人, 子供
+cluster2:(4)
+野菜, ご飯, 焼肉, 肉
+cluster3:(4)
+バーベキュー, アスレチック, ノンアルコールビール, バトミントン
+cluster4:(2)
+ジュース, 飲み物
+cluster5:(2)
+手ぶら, 日帰りバーベキュー
+cluster6:(8)
+所, 量, 設定, 下, 車, 方, 事, 店
+cluster7:(4)
+宿泊, 飲み物代, 景色, 軒
+cluster8:(12)
+建物裏, 風呂, 自然, 水辺, サンライズ淡路, 芝生, 茶, 公園, 水, 日帰り温泉, 自然公園, 温泉
+cluster9:(1)
+開放感
+
+howmany entities : 46
+howmany clusters : 10
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 7
+deleted 5entities.

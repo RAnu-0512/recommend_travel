@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:橋本農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+芋ほり, 芋
+cluster1:(2)
+掘り方, 芋掘り
+cluster2:(6)
+子供達, スタッフ男性, 女性, 家族, 子供, 夫婦
+cluster3:(4)
+黒豆, 畑, 農家, 農園
+cluster4:(13)
+場所, ところ, スタッフ, 地面, ツル, 株, 別, 世話, 不出来, 土, 体験, 環境, スマイリー
+cluster5:(1)
+教員経験者
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 5entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:bbwonder land>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+無肥料, 無農薬, 無農薬無肥料
+cluster1:(34)
+電話予約, 味, たまねぎ, 犬, 野菜, 主人, スイカ, 車, 笑奥, ネギ, 種類, ズッキーニ, 家, ワンちゃん, 畑, 人参スティック, スナップエンドウ, 野菜収穫, カブ, 夏野菜, 収穫体験, ネギ焼き, レジャー, 虫, 道, 方, 子ども, 家族, 子供, ニンジン, 時期, 娘, クロポン, オクラ
+
+howmany entities : 37
+howmany clusters : 2
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:諏訪山公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+諏訪山公園, 公園
+cluster1:(4)
+眺め, 名所, 眺望, 光景
+cluster2:(2)
+坂道, 階段
+cluster3:(7)
+場所, バス停, 北側, 人, 市バス, メインストリート, ゴールデンウィーク
+cluster4:(2)
+桜, 樹木
+cluster5:(1)
+東西
+cluster6:(1)
+神戸市
+cluster7:(1)
+ほぼ葉桜
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 9entities.

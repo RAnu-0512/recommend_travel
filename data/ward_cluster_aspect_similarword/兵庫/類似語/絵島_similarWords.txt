@@ -1,0 +1,15 @@
+--------------------similar_words:絵島--------------------
+top3 entities near to cluster0>>
+売店車, 建物, 売店
+top3 entities near to cluster2>>
+自然, 歴史, 表面
+top3 entities near to cluster4>>
+泊, フェリー, 乗り場
+top3 entities near to cluster7>>
+孤高, 屈指
+top3 entities near to cluster10>>
+景観, 景色, 風景
+top3 entities near to cluster11>>
+島絵, 島, 島々
+top3 entities near to cluster15>>
+海, 陸, 山側

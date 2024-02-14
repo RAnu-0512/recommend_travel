@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊沢の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+風呂, 日帰り風呂, 女湯, 内湯, お湯, 湯, 入浴
+cluster1:(3)
+消化, 予約, 受付
+cluster2:(2)
+疲れ, 帰宅
+cluster3:(4)
+対応, 方々, 施設, 問題
+cluster4:(7)
+ポイント, 露天風呂, 気持ち, ルーティン, サウナー, フロント, 子ども
+cluster5:(3)
+サウナ, プール, 水風呂
+cluster6:(1)
+田舎
+cluster7:(1)
+温度
+cluster8:(3)
+じゃらんクーポン, 近場, 貸切状態
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 6
+deleted 4entities.

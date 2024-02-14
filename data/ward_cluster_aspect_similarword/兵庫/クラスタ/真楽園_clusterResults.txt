@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真楽園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+代替え案, 説明文
+cluster1:(4)
+ぶどう狩り, 葡萄, 畑, 栗
+cluster2:(2)
+品質, 誠意
+cluster3:(3)
+試食, 予約, 電話
+cluster4:(6)
+主人, ぶどう, シーズン, 子ども, 子供, 摘み取り
+cluster5:(4)
+数, 方々, 方, こと
+cluster6:(1)
+大雨
+cluster7:(1)
+シーズン終わりがけ
+cluster8:(3)
+観光ぶどう園, 高速道路, 事故渋滞
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 5
+deleted 6entities.

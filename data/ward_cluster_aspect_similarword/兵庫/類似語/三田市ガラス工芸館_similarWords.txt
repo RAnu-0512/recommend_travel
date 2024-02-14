@@ -1,0 +1,13 @@
+--------------------similar_words:三田市ガラス工芸館--------------------
+top3 entities near to cluster0>>
+ガラス玉, シャボン玉, ガラス, シャボン
+top3 entities near to cluster1>>
+つくり, 作る
+top3 entities near to cluster2>>
+ガラス, 季節
+top3 entities near to cluster4>>
+人達, 大勢
+top3 entities near to cluster7>>
+実演, 作品, 製作
+top3 entities near to cluster8>>
+体験, 送迎, 見学

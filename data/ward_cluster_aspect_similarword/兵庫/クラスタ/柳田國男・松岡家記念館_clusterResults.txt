@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柳田國男・松岡家記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+松岡家, 拝謁, 遠野, 作者, 天皇陛下, 知識, カッパ公園, 物語, 兄弟, 衣装
+cluster1:(2)
+辻川山公園, 福崎町
+cluster2:(2)
+柳田國男, 日本民俗学
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 4entities.

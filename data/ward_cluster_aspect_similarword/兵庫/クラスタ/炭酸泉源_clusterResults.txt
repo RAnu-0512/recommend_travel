@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:炭酸泉源>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+味, 湯気, 飲水, 炭酸泉, 炭酸泉店, 炭酸泉減, 蛇口, チョコ味, サイダー味
+cluster1:(3)
+金, 水, 徒歩
+cluster2:(8)
+修学旅行, 口コミ, ベンチ, 雰囲気, サイダー, 小学生, 親子連れ, 飲み物
+cluster3:(5)
+人, 下, 方, 中, 昔
+cluster4:(3)
+感じ, 場所, こと
+cluster5:(1)
+名前
+cluster6:(1)
+経験
+cluster7:(6)
+香り, 味見, 口, 奥, 森, 独特
+cluster8:(2)
+散策, 公園
+cluster9:(2)
+観光, 土産
+cluster10:(6)
+坂, 蟻, 有馬, 砂糖, 坂道, 銀
+cluster11:(1)
+時間帯
+cluster12:(1)
+手焼き実演
+cluster13:(19)
+泉, 源泉, 文字どおり炭酸, 炭酸源泉公園, 有馬温泉街, 炭酸水, 湯, 炭酸せんべい, ・・・炭酸, 温泉街, スーパー温泉, 炭酸泉源, 炭酸, 泉質, 泉源, 泉源公園, 炭酸泉源公園, 飲泉所, 温泉
+
+howmany entities : 67
+howmany clusters : 14
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 8
+deleted 8entities.

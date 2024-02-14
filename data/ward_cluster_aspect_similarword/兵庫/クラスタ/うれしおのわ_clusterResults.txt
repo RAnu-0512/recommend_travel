@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:うれしおのわ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+あきひめ, 章姫
+cluster1:(3)
+苺, 練乳, いちご狩り
+cluster2:(5)
+全員, 方々, 比べ, 方, 他
+cluster3:(4)
+説明, 対応, 理由, 心配
+cluster4:(2)
+品種, 農園
+cluster5:(2)
+地面, 靴
+cluster6:(8)
+スタッフ, スリッパ, ハサミ, シート, イチゴ, 施設, いちご, ハウス
+cluster7:(1)
+粒
+cluster8:(1)
+休憩スペース
+cluster9:(2)
+泥汚れ, 選び放題
+cluster10:(1)
+従業員
+
+howmany entities : 31
+howmany clusters : 11
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 11entities.

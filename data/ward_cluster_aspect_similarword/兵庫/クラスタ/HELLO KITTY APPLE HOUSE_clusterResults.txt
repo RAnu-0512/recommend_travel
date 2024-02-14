@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:HELLO KITTY APPLE HOUSE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+写真スポット, 写真
+cluster1:(3)
+もの, 人, 中
+cluster2:(6)
+SHOP, ショーボックス, アップル, エレベーター, プロジェクションマッピング, キティちゃん
+cluster3:(1)
+購入
+cluster4:(5)
+規模, 施設, 階段, 屋上, 人数
+cluster5:(1)
+ハローキティショー
+cluster6:(3)
+駐車場, 入場料, 利用券
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 4entities.

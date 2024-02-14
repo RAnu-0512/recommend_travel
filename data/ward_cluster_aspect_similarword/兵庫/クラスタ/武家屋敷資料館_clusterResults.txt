@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武家屋敷資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+龍野小学校, 龍野
+cluster1:(2)
+暮らし, 生活
+cluster2:(3)
+様子, 内部, 東側
+cluster3:(2)
+建物, 施設
+cluster4:(2)
+場所, 市
+cluster5:(3)
+横道, 応え, たつ
+cluster6:(4)
+資料館, 入場料, 赤とんぼ歌碑, 展示物
+cluster7:(5)
+下級武士, 武家, 武士, 武家屋敷, 武家屋敷資料館
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 4
+deleted 8entities.

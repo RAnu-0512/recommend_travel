@@ -1,0 +1,33 @@
+--------------------similar_words:産直淡路島「赤い屋根」--------------------
+top3 entities near to cluster1>>
+トマト, たまねぎ, 玉ねぎ
+top3 entities near to cluster2>>
+土産, おみやげ, 土産物
+top3 entities near to cluster3>>
+農産物, 海産物, 八百屋
+top3 entities near to cluster4>>
+ミニサイズ, 美味しい, メイン
+top3 entities near to cluster7>>
+駐車, 海水浴, 海岸
+top3 entities near to cluster8>>
+値段, 商品, 価格
+top3 entities near to cluster9>>
+店内, 店先
+top3 entities near to cluster10>>
+販売, 試飲, 試食
+top3 entities near to cluster11>>
+名産, 土産, 特産
+top3 entities near to cluster13>>
+特産品, 名産品, 特産, 名産
+top3 entities near to cluster15>>
+野菜, 産直, 果物
+top3 entities near to cluster16>>
+玉ねぎ, 玉葱, たまねぎ
+top3 entities near to cluster17>>
+玉ねぎ, たまねぎ, 玉葱
+top3 entities near to cluster18>>
+完熟, 玉ねぎ, トマト
+top3 entities near to cluster19>>
+わかめ, 海苔, タコ
+top3 entities near to cluster21>>
+土産物屋, ぐらび屋, 土産物, ぐらび

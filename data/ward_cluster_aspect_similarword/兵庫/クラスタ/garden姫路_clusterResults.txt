@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:garden姫路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+手作り指輪, 指輪作り, 婚約指輪, 指輪, 結婚指輪
+cluster1:(5)
+ペアリング作り体験, ペアリング手, 手作りペアリング, ペアリング作り, ペアリング
+cluster2:(3)
+誕生日旅行, 誕生日, 記念日
+cluster3:(7)
+あり作り, 思い出作り, 作り, 楽しさ, 渡し忘れ, 教え方, リング作り
+cluster4:(4)
+姫路旅行, ガーデン姫路, 旅行, 姫路
+cluster5:(2)
+のぎ, 星5
+cluster6:(19)
+作成, 作業, 説明, 合間, もの, 満足, 対応, 予算, 予約, 時間, アクセサリー体験, 経験, 制作過程, 方, 物, 機会, 意外, 体験, 立地
+cluster7:(4)
+店員, 接客, 店内, 店
+cluster8:(3)
+思い出づくり, 思い出, 写真
+cluster9:(2)
+手作りリング, リング
+cluster10:(2)
+作り方, 手作り
+cluster11:(2)
+シリーズ, スタッフ
+cluster12:(2)
+イメージ, 仕上がり
+cluster13:(1)
+アクセス
+cluster14:(1)
+雰囲気
+cluster15:(1)
+姫路城
+cluster16:(1)
+次
+cluster17:(9)
+彼氏, 友達, 妻, 人, 家, 指, 宝物, 互い, 一生
+
+howmany entities : 73
+howmany clusters : 18
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 9
+deleted 14entities.

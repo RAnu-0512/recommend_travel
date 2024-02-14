@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡神社(兵庫県加古川市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+厄神, 八幡神, 厄除八幡宮, 八幡神社, 神
+cluster1:(24)
+神社, 全国, 祭神, 人, 厄除け, 武家, 厄年, 恒例, 好感, 車, 出店, 加古川, 戦い, 本堂, 厄払い, ひとつ, 店, 地元, 一環, 時期, 正月, 参り, 祭り, 駐車場
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 0entities.

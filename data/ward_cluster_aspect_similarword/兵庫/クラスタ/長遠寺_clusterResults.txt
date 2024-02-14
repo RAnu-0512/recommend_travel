@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長遠寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+徒歩圏, 観光客
+cluster1:(21)
+上人, 奈良, 文化財, 入母屋造, 多宝塔, アクセス, 歴史, 時代, 寺, 本堂, 阪神, 鐘楼, 句, 駅, 方, 瓦葺, 長遠寺, 雰囲気, コース, 日蓮宗, 寺町
+cluster2:(5)
+尼崎寺町 七福神めぐり., 尼崎市, 尼崎駅, ミーツ・アートinあまがさき, 阪神なんば線
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 2entities.

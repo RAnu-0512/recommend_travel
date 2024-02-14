@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:生野まちづくり工房井筒屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+建物, 宿屋, 内部, こと, 趣, 歴史, 施設, 美しさ, 品, 佇まい
+cluster1:(4)
+鉱山, 江戸時代, 銀山, 生野
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

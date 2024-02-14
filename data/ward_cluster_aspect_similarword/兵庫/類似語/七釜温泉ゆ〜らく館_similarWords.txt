@@ -1,0 +1,13 @@
+--------------------similar_words:七釜温泉ゆ〜らく館--------------------
+top3 entities near to cluster0>>
+屋根, 週末
+top3 entities near to cluster1>>
+家族, 夫婦, 施設
+top3 entities near to cluster3>>
+お湯, 肌, 濁り
+top3 entities near to cluster4>>
+温泉, 温泉郷, 湯
+top3 entities near to cluster6>>
+風呂, 内風呂, 露天風呂
+top3 entities near to cluster7>>
+食事室, 食事

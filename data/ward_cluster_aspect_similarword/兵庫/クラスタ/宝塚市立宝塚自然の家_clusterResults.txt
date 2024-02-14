@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝塚市立宝塚自然の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+ボール, BBQ, 三輪車, バーベキュー, スポット, アスレチック, カレー, 子連れ
+cluster1:(2)
+子, 子供
+cluster2:(2)
+自然, 人気
+cluster3:(3)
+ボール遊び, BBQ場, 広場
+cluster4:(4)
+おもちゃ作り体験, 子供連れ, 家族連れ, 大人数
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 4entities.

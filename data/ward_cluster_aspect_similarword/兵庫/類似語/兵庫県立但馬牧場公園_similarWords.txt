@@ -1,0 +1,37 @@
+--------------------similar_words:兵庫県立但馬牧場公園--------------------
+top3 entities near to cluster0>>
+入場料, 入園料, 入場, 入園
+top3 entities near to cluster2>>
+ウサギ, うさぎ, ヒツジ
+top3 entities near to cluster3>>
+チーズ, ソーセージ, ビーフ
+top3 entities near to cluster5>>
+ゴールデンウィーク, ゴールデンウイーク, リフレッシュ
+top3 entities near to cluster9>>
+スタイル, オススメ, スニーカー
+top3 entities near to cluster15>>
+レシピ, 作り方, 飲み物
+top3 entities near to cluster16>>
+スキー, 滑り台, リフト
+top3 entities near to cluster17>>
+公園, 遊具, 広場
+top3 entities near to cluster18>>
+全員, 家族
+top3 entities near to cluster20>>
+子供, 子ども, 大人
+top3 entities near to cluster21>>
+先人, 歴史, 自然
+top3 entities near to cluster22>>
+冬馬, 冬雪, 冬
+top3 entities near to cluster24>>
+気分, 天気, 景色
+top3 entities near to cluster25>>
+時間, 距離, 自宅
+top3 entities near to cluster29>>
+子供, 家族, 宿泊
+top3 entities near to cluster30>>
+牧場, 農場, 公園
+top3 entities near to cluster31>>
+動物, 動植物, 植物
+top3 entities near to cluster33>>
+牛, ヤギ, 羊

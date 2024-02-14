@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:最上山公園もみじ山の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+臨時駐車場, 最上山公園
+cluster1:(33)
+生酒, 紅葉山, もみじ祭り, 名産品, 空気, 発祥, もみじ山, グラデーション, 地, 酒, 山, 目, 半ば, 山崎町, 声, 赤, 山道, 紅葉, 色, 土, 日本, 秋, 坂道, かなり数, 酒蔵, 木, 地元, 時期, 庭酒, 迫力, 山陽盃, 祭り, 近く
+
+howmany entities : 35
+howmany clusters : 2
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 1
+deleted 2entities.

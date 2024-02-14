@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倚松庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東灘区, 兵庫県, 神戸市
+cluster1:(2)
+蕎麦屋, 御所坊
+cluster2:(13)
+文豪, 建物, 戦中, 数, 老舗, 転居, 住まい, こと, 建造物, 関西, 谷崎潤一郎, 例会日, 回数
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 2entities.

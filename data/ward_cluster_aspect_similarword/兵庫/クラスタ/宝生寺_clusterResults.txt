@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝生寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+祈願料, 拝観料
+cluster1:(3)
+怒り口調, 御説法, 説法
+cluster2:(28)
+朱印, 愛想, 場所, 長寿, ヒドイ対応, 教育, 観光スポット, 淡路七福神, 口コミ, 全て, 境内, 寿老人, 対応, 寺, 金, 神, 方, 個人, 中, 女性, 淡路島, 気, 他, 橋, ハッピー券, 七福神巡り, 消毒, 駐車場
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 2entities.

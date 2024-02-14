@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日吉神社(兵庫県神河町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+感じ, ランチドライブ, 場所, 友人, 藤, ドライブ, 北側, 人, 見どころ, アクセス, 花, 帰り, 秋祭, 秋祭り, 紅葉, 秋, 雰囲気, 地域, 男性, 地元, 姫路, こと, 孔雀, 祭り, 人出, 近く
+cluster1:(10)
+石像, 神社, とんぼ道中, 日吉神社, 水車, 日帰り温泉, 竹田城跡, 観光客, 名水, 本殿
+cluster2:(3)
+花嫁姿, 仮装行列, 花嫁
+
+howmany entities : 39
+howmany clusters : 3
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 3
+deleted 0entities.

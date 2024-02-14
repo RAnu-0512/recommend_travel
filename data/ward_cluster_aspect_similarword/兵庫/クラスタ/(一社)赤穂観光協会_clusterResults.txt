@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:(一社)赤穂観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+赤穂城跡方面, 播州赤穂駅, 赤穂城祉
+cluster1:(5)
+赤穂, 乗り換え姫路, 赤穂観光, 三宮, 神戸空港
+cluster2:(2)
+地方旅, 荷物預かり
+cluster3:(3)
+駅舎, JR, 駅
+cluster4:(14)
+天守閣, もの, 業務, 非売品, 中国, 情報, ポートライナー, 赤穂線, レンタサイクル, パンフレット, スタイル, 中, 案内, 入り口
+cluster5:(1)
+世紀ぶり
+cluster6:(3)
+名産品, 土産品, 特産品
+cluster7:(6)
+観光協会, 観光情報センター, 観光, 観光パンフレット, 観光地, 観光案内
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 6
+deleted 3entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:由良生石展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+砲台, 砲台跡
+cluster1:(2)
+景色, 眺め
+cluster2:(4)
+要所, アチコチ, 島, 海
+cluster3:(1)
+淡路島海域
+cluster4:(1)
+展望台
+cluster5:(1)
+海上交通
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 7entities.

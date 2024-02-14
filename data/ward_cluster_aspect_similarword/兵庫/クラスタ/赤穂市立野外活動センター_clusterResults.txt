@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤穂市立野外活動センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+友人家族, 弟家族
+cluster1:(2)
+総勢, 管理人
+cluster2:(2)
+整備, 掃除
+cluster3:(4)
+キャンプ場, 家族, 方々, キャンプ
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 6entities.

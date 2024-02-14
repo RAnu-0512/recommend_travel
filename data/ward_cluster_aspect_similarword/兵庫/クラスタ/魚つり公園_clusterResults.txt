@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:魚つり公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+気, 方
+cluster1:(3)
+家族, 子供, 旦那
+cluster2:(4)
+日焼け, 女性, カップル, 武庫川
+cluster3:(1)
+おじ
+cluster4:(4)
+魚釣り公園, 沖, 魚, 釣り
+cluster5:(1)
+休憩場所
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 4entities.

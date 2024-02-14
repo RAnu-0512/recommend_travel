@@ -1,0 +1,23 @@
+--------------------similar_words:道の駅 いながわ--------------------
+top3 entities near to cluster2>>
+農家, 農産物, 直売
+top3 entities near to cluster3>>
+県道, 建物
+top3 entities near to cluster4>>
+駅, 駅前
+top3 entities near to cluster6>>
+豚, 肉, 牛
+top3 entities near to cluster9>>
+食べ物, お菓子, サンドイッチ
+top3 entities near to cluster10>>
+メロン, いちご, イチゴ
+top3 entities near to cluster11>>
+真ん中, 交差点, ベンチ
+top3 entities near to cluster14>>
+時間, 休止分, 休止
+top3 entities near to cluster20>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster22>>
+椎茸, 干し
+top3 entities near to cluster24>>
+野菜, 食材, 果物

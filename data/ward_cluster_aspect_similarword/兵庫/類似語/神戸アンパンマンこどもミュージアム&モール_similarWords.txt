@@ -1,0 +1,81 @@
+--------------------similar_words:神戸アンパンマンこどもミュージアム&モール--------------------
+top3 entities near to cluster0>>
+マン, ランド, ウォーク
+top3 entities near to cluster1>>
+マン, バイキン, アンパ
+top3 entities near to cluster2>>
+マン, バイキン, バク
+top3 entities near to cluster8>>
+入場, 入館, 駐車
+top3 entities near to cluster9>>
+アトラクション, テーマパーク, レストラン
+top3 entities near to cluster10>>
+スタンプ, おみやげ, 土産
+top3 entities near to cluster11>>
+イベント, チケット, コンサート
+top3 entities near to cluster12>>
+入り口, 最寄り駅, 待ち時間
+top3 entities near to cluster13>>
+みたい, 大好き, たくさん
+top3 entities near to cluster14>>
+シール, カード, パック
+top3 entities near to cluster15>>
+バイキン, ・・アンパンマン, メロンパンナ
+top3 entities near to cluster16>>
+食べ物, おもちゃ, お菓子
+top3 entities near to cluster17>>
+バーバ, ジージ, ジャム
+top3 entities near to cluster19>>
+パーク, スタジオ, シアター
+top3 entities near to cluster20>>
+ショップ, カフェ, グッズ
+top3 entities near to cluster21>>
+スペース, ゾーン, ブース
+top3 entities near to cluster22>>
+ホテル, プラン, エリア
+top3 entities near to cluster23>>
+シーン, 雰囲気, 場面
+top3 entities near to cluster25>>
+子ども, 子供, こども
+top3 entities near to cluster26>>
+ショー, ちゃん, ミニ
+top3 entities near to cluster27>>
+もらう, もらい
+top3 entities near to cluster28>>
+誕生, 日, 月
+top3 entities near to cluster29>>
+子供連れ, つれ, 子供
+top3 entities near to cluster30>>
+大人, 子供, オトナ
+top3 entities near to cluster31>>
+子供, 子ども, 大勢
+top3 entities near to cluster36>>
+友人, 親友, 親戚
+top3 entities near to cluster37>>
+話人, 家族, 話
+top3 entities near to cluster38>>
+長女, 息子, 次女
+top3 entities near to cluster42>>
+有料, 無料, 有償
+top3 entities near to cluster43>>
+土産, おみやげ, 限定
+top3 entities near to cluster44>>
+行列, 列, 混雑
+top3 entities near to cluster45>>
+笑顔
+top3 entities near to cluster46>>
+店舗, 売り場
+top3 entities near to cluster47>>
+駅, 周辺, 駅前
+top3 entities near to cluster49>>
+通路, 入口, 広場
+top3 entities near to cluster51>>
+平日, 昼, お昼
+top3 entities near to cluster52>>
+天気雨, 大雨, 天気
+top3 entities near to cluster54>>
+弁当, 食事, 昼寝
+top3 entities near to cluster55>>
+写真店, 写真, 施設
+top3 entities near to cluster56>>
+基地, 工場, パン

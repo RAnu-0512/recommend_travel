@@ -1,0 +1,19 @@
+--------------------similar_words:かぐや農園--------------------
+top3 entities near to cluster0>>
+時間, 人数, 日数
+top3 entities near to cluster1>>
+子供, 息子, 子ども
+top3 entities near to cluster4>>
+スタッフ, サービス, イベント
+top3 entities near to cluster12>>
+イチゴ, 苺, いちご
+top3 entities near to cluster17>>
+予約, 受付, 販売
+top3 entities near to cluster18>>
+値段, 金額, 荷物
+top3 entities near to cluster19>>
+通路, 施設, 出入り口
+top3 entities near to cluster21>>
+農園, 果物, 狩り
+top3 entities near to cluster22>>
+食べ放題, 食べ, 食する

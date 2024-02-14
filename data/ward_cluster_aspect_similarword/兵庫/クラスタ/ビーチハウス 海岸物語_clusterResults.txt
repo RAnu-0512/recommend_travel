@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビーチハウス 海岸物語>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+支払, 支払い前
+cluster1:(17)
+スタッフ, 話, ビーチ, 支払い, シート, シャワースペース, カーテン, 対応, 大人, 施設, 仕切り, シャワー, BBQタイム, 方, こと, 雨, スペース
+cluster2:(1)
+管理体制
+cluster3:(3)
+男女混合, 休憩所, 休憩スペース
+cluster4:(1)
+潮干狩り目的で行き休憩所
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 4entities.

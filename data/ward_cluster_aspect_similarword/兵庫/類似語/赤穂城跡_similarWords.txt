@@ -1,0 +1,51 @@
+--------------------similar_words:赤穂城跡--------------------
+top3 entities near to cluster1>>
+忠臣蔵, 内蔵助, 浅野内匠頭
+top3 entities near to cluster2>>
+天守閣, 三の丸, 天守
+top3 entities near to cluster3>>
+イベント, コーナー, 有名人
+top3 entities near to cluster4>>
+違和感, 雰囲気, 見応え
+top3 entities near to cluster5>>
+縄張り, 太鼓橋, ほとり
+top3 entities near to cluster8>>
+塩手, 横手, 塩, 横
+top3 entities near to cluster11>>
+人々, 学校
+top3 entities near to cluster13>>
+明治, 平成, 大正
+top3 entities near to cluster14>>
+見所, 逸話, 概要
+top3 entities near to cluster16>>
+周辺, 中心, 周囲
+top3 entities near to cluster17>>
+辺先, 元先, 元, 辺
+top3 entities near to cluster18>>
+時期, 時代, 時間
+top3 entities near to cluster19>>
+帰路, 帰途
+top3 entities near to cluster20>>
+駅, 徒歩, 駅前
+top3 entities near to cluster21>>
+散策, 景色, 散歩
+top3 entities near to cluster22>>
+建物, 敷地, 中庭
+top3 entities near to cluster23>>
+歴史家, 歴史
+top3 entities near to cluster24>>
+訪問, 来訪, 見学
+top3 entities near to cluster25>>
+案内, 施設, 紹介
+top3 entities near to cluster26>>
+名所, 名所旧跡
+top3 entities near to cluster30>>
+復元, 遺構, 跡
+top3 entities near to cluster31>>
+本丸門, 櫓門, 本丸, 櫓
+top3 entities near to cluster32>>
+石垣, 堀, 城内
+top3 entities near to cluster33>>
+淺野, 長矩, 渡邊
+top3 entities near to cluster34>>
+城, 城跡, 城郭

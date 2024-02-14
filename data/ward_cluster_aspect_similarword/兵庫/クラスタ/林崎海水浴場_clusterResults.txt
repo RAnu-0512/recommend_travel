@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:林崎海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+海水浴場, 場, 江井ヶ島海水浴場, 捨て場, 炭捨て場, 駐車料金, 駐車場
+cluster1:(3)
+脚力, 足洗い場, 増強
+cluster2:(3)
+隅, ゴミ, 炭
+cluster3:(2)
+ビーチ, 海水浴
+cluster4:(2)
+BBQ, バーベキューエリア
+cluster5:(6)
+ところ, 明石海峡大橋, フォトジェニック, シャワー, 淡路島, 瀬戸内海
+cluster6:(2)
+地元民, 遊歩道
+cluster7:(1)
+バケツ
+cluster8:(10)
+場所, 夏, そば, 辺り, 春, 水, 地元, 他, 対岸, 近く
+cluster9:(2)
+警備, 区域
+cluster10:(4)
+散歩, 景色, 穴場, 気分
+cluster11:(11)
+感じ, 人達, もの, 人, 家, ほう, 女子トイレ, 人たち, 方, 家族, こと
+cluster12:(1)
+地域住民
+cluster13:(13)
+大蔵海岸, 浜の道, 山陽電車, 海辺, 電車, 林崎, 須磨, 海岸, 明石市市, 砂浜, 遠浅, 漁港, 海
+
+howmany entities : 67
+howmany clusters : 14
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 8
+deleted 10entities.

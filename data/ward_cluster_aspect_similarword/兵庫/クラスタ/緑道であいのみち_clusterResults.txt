@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:緑道であいのみち>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+別府鉄道, 別府鉄道土山線, 播磨町, 土山駅
+cluster1:(2)
+大中遺蹟, 大中遺蹟公園
+cluster2:(2)
+廃線, 鉄道跡
+cluster3:(5)
+遊歩道です., JR, 歴史, モニュメント, 車両
+cluster4:(1)
+播磨町郷土資料館
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 5entities.

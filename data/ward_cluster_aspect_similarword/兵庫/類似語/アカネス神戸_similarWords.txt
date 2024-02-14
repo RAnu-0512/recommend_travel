@@ -1,0 +1,15 @@
+--------------------similar_words:アカネス神戸--------------------
+top3 entities near to cluster0>>
+つくり, 作る
+top3 entities near to cluster1>>
+内側, 外側, 表面
+top3 entities near to cluster2>>
+デザイン, リング, 手作り
+top3 entities near to cluster4>>
+好み
+top3 entities near to cluster6>>
+記念, 日, 誕生
+top3 entities near to cluster7>>
+恋人, 親友, 同士
+top3 entities near to cluster8>>
+指輪, ネックレス, ブレスレット

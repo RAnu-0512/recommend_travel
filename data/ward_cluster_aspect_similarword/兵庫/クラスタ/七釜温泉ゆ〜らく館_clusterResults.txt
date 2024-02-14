@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七釜温泉ゆ〜らく館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+屋根, 週末, 雨
+cluster1:(3)
+施設, 家族, 夫婦
+cluster2:(11)
+値段, 露天風呂, ボディーソープ, リンスインシャンプー, カルシュウム, 気持ち, 対策, ツルツル, コロナ, こと, お気に入り
+cluster3:(4)
+身体, 濁り, 肌, お湯
+cluster4:(4)
+湯村温泉, 日帰り温泉, 七釜温泉, 温泉
+cluster5:(3)
+大釜, 釜, 釜風呂
+cluster6:(4)
+風呂, 家族風呂, 露天, 内湯
+cluster7:(4)
+休憩室, 多目的風呂, 食事亭, 泉質
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 8
+deleted 0entities.

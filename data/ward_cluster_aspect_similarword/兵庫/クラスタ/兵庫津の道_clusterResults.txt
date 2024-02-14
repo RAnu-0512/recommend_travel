@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫津の道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+兵庫大仏, 兵庫津
+cluster1:(2)
+寺, 神社
+cluster2:(5)
+神戸, NHK, イオン, 兵庫運河, モール
+cluster3:(3)
+もの, 場所, 意外
+cluster4:(2)
+歴史, 時代
+cluster5:(1)
+道
+cluster6:(1)
+拠点
+cluster7:(1)
+貿易
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 9entities.

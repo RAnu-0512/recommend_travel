@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北淡室津ビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+雰囲気, 家族連れ, 海水浴, 波, こと, 潮風, 海, 家
+cluster1:(2)
+更衣室, 駐車場
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

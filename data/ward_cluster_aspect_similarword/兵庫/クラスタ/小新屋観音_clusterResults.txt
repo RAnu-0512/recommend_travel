@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小新屋観音>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+手観音像, 十一面
+cluster1:(2)
+川, 川沿い
+cluster2:(16)
+感じ, 山里, 景色, 量, スポット, 人, 準備, 車, 人気, 多く, シーズン, 堂, 秋, 方, 御利益, こと
+cluster3:(3)
+病, 病気, 手足
+cluster4:(2)
+煙, 火事
+cluster5:(2)
+護摩, もちまき
+cluster6:(5)
+紅葉シーズン, 紅葉, 丹波紅葉, 観光客, 駐車場
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 8entities.

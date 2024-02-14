@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はつらつセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+建物, 風呂, 露天風呂, はつらつセンター, 一連
+cluster1:(3)
+医療福祉系, 公共施設, 保健関係
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 0entities.

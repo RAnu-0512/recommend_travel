@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野口神社(兵庫県加古川市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神社, 参拝
+cluster1:(4)
+隣, 比叡山, 子供, 神
+cluster2:(1)
+主神
+cluster3:(1)
+山陽道
+cluster4:(1)
+教信寺
+cluster5:(1)
+日吉(ひえ)大神
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 6entities.

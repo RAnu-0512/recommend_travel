@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水, 川水
+cluster1:(2)
+滝, 岩肌
+cluster2:(6)
+形, 吉滝, 場所, 一枚岩, 他, 西日本
+cluster3:(3)
+空間, 壁面, 裏側
+cluster4:(1)
+信仰
+cluster5:(1)
+裏見
+cluster6:(1)
+駐車場
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 7entities.

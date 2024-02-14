@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須磨浦ロープウェイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山陽電車, 山陽電鉄須磨浦公園駅
+cluster1:(2)
+神戸, 須磨
+cluster2:(2)
+出発時間, 時間
+cluster3:(2)
+桜, 花見
+cluster4:(2)
+景色, 絶景
+cluster5:(2)
+海岸, 海
+cluster6:(18)
+売り場, 間隔, ところ, 高度, ロープウェー, 息, 真上, プウェイ乗り場, 列, 駅, Bコース, 隣, 階段, 和歌山, 時期, ロープウェイ, 大阪湾, 写真
+cluster7:(1)
+展望台
+cluster8:(1)
+ロ−プウェイ
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 1
+deleted 14entities.

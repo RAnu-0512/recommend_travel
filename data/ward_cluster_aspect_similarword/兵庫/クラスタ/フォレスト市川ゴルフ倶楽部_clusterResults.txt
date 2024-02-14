@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フォレスト市川ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+姫路, 市川町
+cluster1:(12)
+コンディション, バイキング, コース, ゴルフ, 町並み, プレー, 機会, ゴルフ場, ソフトドリンクバー, 初心者, 料金, 昼食
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

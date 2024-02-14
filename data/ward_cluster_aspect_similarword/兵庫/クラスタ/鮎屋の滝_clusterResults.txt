@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鮎屋の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+水量, ダム, 鮎屋の滝, 鮎屋, 滝, 鮎
+cluster1:(2)
+空気, 音
+cluster2:(5)
+感じ, 間近, 想像, 気, 迫力
+cluster3:(3)
+水, マイナスイオン, イオン
+cluster4:(9)
+途中, バス停, 気持ち, 人, 目, 方, 淡路島, 交差点, 近く
+cluster5:(3)
+所, 場所, 時期
+cluster6:(1)
+徒歩
+cluster7:(9)
+下り, 高齢, ナビ, 車, 祖母, バス, 道, 看板, 階段
+cluster8:(1)
+寒い時期
+cluster9:(11)
+駐車場手前, 登山道, 対向車, 縦貫線, 洲本インターチェンジ, 海峡バス, 高速舞子, 洲本市, 広田西, 登山, 駐車場
+
+howmany entities : 50
+howmany clusters : 10
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 7
+deleted 4entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:出石温泉館乙女の湯--------------------
+top3 entities near to cluster0>>
+地場, 産, 特産
+top3 entities near to cluster1>>
+肌, 身体, 野菜
+top3 entities near to cluster4>>
+地元, 帰り道
+top3 entities near to cluster5>>
+露天風呂, サウナ, 温泉
+top3 entities near to cluster11>>
+湯, 温泉, お湯
+top3 entities near to cluster12>>
+温泉, 露天風呂, 旅館

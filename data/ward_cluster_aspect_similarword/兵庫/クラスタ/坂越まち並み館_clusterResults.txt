@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:坂越まち並み館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+資料館, 資料
+cluster1:(3)
+中, 目, 時代
+cluster2:(3)
+建物, 町並み, 風情
+cluster3:(1)
+大正
+cluster4:(1)
+金庫
+cluster5:(3)
+名所, 坂越, 旧跡
+cluster6:(2)
+観光案内所, 活性化施設
+cluster7:(1)
+奥藤銀行坂越支店
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 7entities.

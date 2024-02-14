@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊弉諾神宮の夫婦楠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+夫婦杉, 夫婦円満, 大楠, 樹齢, 御神木, 楠木, 兵庫県, 楠, 夫婦の大楠, 夫婦楠
+cluster1:(2)
+右回り, 左回り
+cluster2:(3)
+美しさ, 生命力, 子孫繁栄
+cluster3:(4)
+神社, 敷地, 境内, 神宮
+cluster4:(2)
+大樹, 幹
+cluster5:(2)
+木, 大木
+cluster6:(4)
+苔, 陽, 光, 凸凹
+cluster7:(2)
+人, 人たち
+cluster8:(3)
+男女, 女性, 男性
+cluster9:(3)
+恋人, 夫, 夫婦
+cluster10:(1)
+恋愛パワー
+cluster11:(24)
+感じ, 場所, 途中, 手, 説明, もの, 天然記念物, 歴史, 時代, 周り, カップル, 移り変わり, 日本, 神, 名, 文化, 風格, パワー, 雰囲気, 縁結び, 気, 迫力, 地元, パワースポット
+cluster12:(1)
+伊弉諾神宮
+
+howmany entities : 61
+howmany clusters : 13
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 7
+deleted 10entities.

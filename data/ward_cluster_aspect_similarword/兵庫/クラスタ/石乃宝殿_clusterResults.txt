@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石乃宝殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+途中, 気持ち, もの, 上, スポット, 人, 下, ピン, 形, 間, 立方体, 日本, 神, 水, 淡路島
+cluster1:(5)
+世辞, 由縁, 驚き, 驚愕, 光景
+cluster2:(1)
+子供達
+cluster3:(3)
+景色, 眺望, 山々
+cluster4:(3)
+山, 階段, 頂上
+cluster5:(4)
+裏手, 高台, 後ろ, 正面
+cluster6:(6)
+巨石, 地面, 草木, 岩, 石, 空中
+cluster7:(7)
+採掘, 反乱, 全体像, 造営, 鎮圧, 大きさ, 消毒
+cluster8:(22)
+社殿, 高砂市, 宮城県, 四口の神竃, 宝殿山, 神社, 宮崎県, 播磨, 周囲一帯石灰, 境内, 宝殿, 出雲, 生石神社, 御釜神社, 天津神, 霧島東神社, 石乃宝殿, おうしこ, 日本三奇, 宝殿駅, 兵庫県, JR宝殿駅
+
+howmany entities : 66
+howmany clusters : 9
+howmany entities (more than3entities) : 65
+howmany clusters (more than3entities) : 8
+deleted 1entities.

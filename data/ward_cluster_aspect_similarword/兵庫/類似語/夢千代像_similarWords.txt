@@ -1,0 +1,21 @@
+--------------------similar_words:夢千代像--------------------
+top3 entities near to cluster0>>
+夢, 千代, 鶴
+top3 entities near to cluster1>>
+千, 夢, 代
+top3 entities near to cluster3>>
+庁舎, 階段
+top3 entities near to cluster4>>
+敷石, 手形, 足湯
+top3 entities near to cluster6>>
+夢, 吉永, 夢見
+top3 entities near to cluster8>>
+写真, 記念, 撮っ
+top3 entities near to cluster9>>
+銅像, 胸像
+top3 entities near to cluster11>>
+テレビ, ドラマ, 番組
+top3 entities near to cluster12>>
+思い出, 思い入れ, エピソード
+top3 entities near to cluster15>>
+温泉, 湯, 温泉郷

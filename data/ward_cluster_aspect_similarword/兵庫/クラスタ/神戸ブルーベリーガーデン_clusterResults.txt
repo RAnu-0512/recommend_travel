@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸ブルーベリーガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+説明, カフェ, 種類, 前, 時間, ブルーベリー, 方, 移動, 集合, 開始, 家族, 気, こと, 受付
+cluster1:(2)
+ブルーベリー狩り, 農園
+cluster2:(2)
+粒, 甘いブルーベリー
+cluster3:(1)
+食べ比べ
+cluster4:(1)
+駐車場
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 6entities.

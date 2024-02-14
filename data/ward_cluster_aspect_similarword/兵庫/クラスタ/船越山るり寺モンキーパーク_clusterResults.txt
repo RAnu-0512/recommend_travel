@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船越山るり寺モンキーパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場代, 駐車場
+cluster1:(3)
+子猿, ボス猿, 猿
+cluster2:(3)
+檻, なんで檻, 人間檻
+cluster3:(2)
+動物園, 動物
+cluster4:(20)
+スタッフ, 祖父母, 営業, 人, 山登り, 山, 小屋, 自販機, モンキーパーク, 缶, サル, 豆, アカン, 息子, ホームページ, 急斜面, 子ども, 事務所, 子供, 娘
+cluster5:(16)
+感じ, 途中, 景色, 世辞, 瞬間スタッフ, 歓迎, 前, 部分, 昭和, 故障, 中, 徒歩, 気, 朝入れ, 体験, 感じ方
+cluster6:(7)
+可能性, 入場料, 餌やり, 客, 餌, 飲み口, 観光客
+cluster7:(1)
+なんせほぼ野生のお猿
+
+howmany entities : 54
+howmany clusters : 8
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 5
+deleted 5entities.

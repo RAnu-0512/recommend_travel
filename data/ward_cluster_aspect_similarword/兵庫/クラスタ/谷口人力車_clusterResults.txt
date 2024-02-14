@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:谷口人力車>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+案内状, 観光ムード, 名所巡り, 観光スポット, 乗り心地, 観光案内, 観光気分
+cluster1:(2)
+た.j, た.w
+cluster2:(2)
+晴天出石, 出石
+cluster3:(6)
+場所, 雑誌, 価格, 食事, 車, 時間
+cluster4:(4)
+説明, 方, 事, 気
+cluster5:(9)
+てつだい, おじさん, 主人, 思い出, 人力車, ガイド, 最後, コース, 父さん
+cluster6:(1)
+声
+cluster7:(1)
+nr
+cluster8:(1)
+上限
+cluster9:(1)
+開店
+
+howmany entities : 34
+howmany clusters : 10
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 8entities.

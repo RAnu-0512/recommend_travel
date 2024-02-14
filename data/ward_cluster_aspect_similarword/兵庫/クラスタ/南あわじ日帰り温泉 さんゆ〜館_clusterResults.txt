@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南あわじ日帰り温泉 さんゆ〜館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+風呂, 湯温も, 日帰り温泉, 温泉
+cluster1:(2)
+有無, 質
+cluster2:(2)
+満足, 利用
+cluster3:(5)
+感じ, 思い, 今回, 方々, 方
+cluster4:(1)
+代わりぶり
+cluster5:(1)
+とろとろ感
+cluster6:(23)
+コロナ過, スタッフ, 露天風呂, 夏, 物価高, 気持ち, 店員, 男女, 世話, レベル, クーポン, 生ビール, 入れ替え, 半分, 息子, 父, 女性, 家族, プール, 淡路島, 子供, 問い合わせ, 期間
+cluster7:(1)
+運営側
+cluster8:(1)
+接客態度
+
+howmany entities : 40
+howmany clusters : 9
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 3
+deleted 8entities.

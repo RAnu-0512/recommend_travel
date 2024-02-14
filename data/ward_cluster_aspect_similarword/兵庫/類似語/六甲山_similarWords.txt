@@ -1,0 +1,65 @@
+--------------------similar_words:六甲山--------------------
+top3 entities near to cluster0>>
+ランチ, レストラン, カフェ
+top3 entities near to cluster1>>
+行き, 案内
+top3 entities near to cluster5>>
+山頂, 山道, 頂上
+top3 entities near to cluster6>>
+見, 眺め
+top3 entities near to cluster12>>
+気楽, 気分, 久しぶり
+top3 entities near to cluster13>>
+子供, 子ども, 息子
+top3 entities near to cluster14>>
+大半, 中心, 大勢
+top3 entities near to cluster17>>
+夕方, 昼, 早朝
+top3 entities near to cluster18>>
+施設, 宿泊, ホテル
+top3 entities near to cluster19>>
+食事, 夕食, 昼食
+top3 entities near to cluster20>>
+駐車場, 駐車
+top3 entities near to cluster21>>
+写真, 撮影, 撮っ
+top3 entities near to cluster22>>
+靴店, 服装, 靴
+top3 entities near to cluster24>>
+目的, 時間, 方法
+top3 entities near to cluster25>>
+人出, 本数, 行列
+top3 entities near to cluster26>>
+気温, 標高, 温度
+top3 entities near to cluster27>>
+冬, 真冬, 冬場
+top3 entities near to cluster28>>
+天候, 天気, 気候
+top3 entities near to cluster29>>
+景色, 眺望, 絶景
+top3 entities near to cluster30>>
+雲雪, 霧雪, 霧, 雲
+top3 entities near to cluster31>>
+日陰, 木陰, 日傘
+top3 entities near to cluster33>>
+テラス, カフェ, ハウス
+top3 entities near to cluster36>>
+自宅付近, 自宅, 近辺
+top3 entities near to cluster38>>
+駐車場, 駐車, 場代
+top3 entities near to cluster39>>
+夜景, 絶景, 夕景
+top3 entities near to cluster40>>
+展望台, 展望, 見晴らし台, 見晴らし
+top3 entities near to cluster41>>
+植物園, 動物園, 植物, 動物
+top3 entities near to cluster42>>
+子供連れ, つれ, 子供
+top3 entities near to cluster43>>
+動物, 植物, 動植物
+top3 entities near to cluster45>>
+子供, 大勢, 人達
+top3 entities near to cluster46>>
+牧場, 牛, 羊
+top3 entities near to cluster47>>
+登山, 周遊, ハイキング

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:廣峯神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+天忍穂耳命, 足摩乳命, 天穂日命
+cluster1:(16)
+こよみ, スサノオ, 場所, 妻, 車, 小言, 歴史, 守り神, おなじみ, 夜景, 薬師如来, クシナダ, カップル, 両親, 願い事, 息子
+cluster2:(9)
+星, 吉備真備公, 出雲, 火星, 神, 天, 裏, 天王, 穴
+cluster3:(16)
+九つの穴, 観光神社, 山頂, 五十猛命, 神社, 賽銭, 祭神, 広峰山, 休憩所, 古社, 右殿, 姫路市, 願い札, 本殿, 左殿, 駐車場
+cluster4:(7)
+九紫, 一白水星, 神功皇后, 九星占い, 宗像三女神, 九星, 神仏習合
+
+howmany entities : 51
+howmany clusters : 5
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 5
+deleted 0entities.

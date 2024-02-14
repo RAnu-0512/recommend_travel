@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:播磨国一の宮伊和神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+御守り, 食事処
+cluster1:(7)
+鉄道, 道向かい, 国道, 電車, バス, 駅, 道
+cluster2:(3)
+感じ, 必要, こと
+cluster3:(4)
+バス停, ルート, 乗り継ぎ, バスターミナル
+cluster4:(2)
+気持ち, さえずり
+cluster5:(2)
+書置き, 御朱印
+cluster6:(4)
+空間, 歴史, 前, 時間
+cluster7:(1)
+土産
+cluster8:(2)
+小鳥, 木々
+cluster9:(2)
+天, 鶴
+cluster10:(11)
+播磨国, 山崎, 佐用, 宍粟市, 京都・下鴨神社, 新宮駅, 駅 播磨いちのみ, 宍粟, 姫路駅, 播磨新宮, 津山
+cluster11:(9)
+社殿, 庭田神社, 神社, 境内, 中山神社, 宮伊和神社, 伊和神社, 鳥居, 出石神社
+
+howmany entities : 49
+howmany clusters : 12
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 6
+deleted 11entities.

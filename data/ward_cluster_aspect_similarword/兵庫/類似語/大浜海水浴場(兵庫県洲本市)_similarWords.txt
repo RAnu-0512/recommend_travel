@@ -1,0 +1,19 @@
+--------------------similar_words:大浜海水浴場(兵庫県洲本市)--------------------
+top3 entities near to cluster0>>
+海, 砂浜, 海水
+top3 entities near to cluster1>>
+脱衣室, 更衣室, 更衣, 脱衣
+top3 entities near to cluster2>>
+海水浴, 水着, 夏
+top3 entities near to cluster3>>
+ホテル, テント, ビーチ
+top3 entities near to cluster4>>
+子供, 身体, 車内
+top3 entities near to cluster7>>
+煙, 花火, ゴミ
+top3 entities near to cluster8>>
+景色, 曇り, 気分
+top3 entities near to cluster9>>
+施設, 宿泊, 温泉
+top3 entities near to cluster15>>
+駐車場, 駐車, 場裏

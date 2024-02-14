@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:忠度塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+千載和歌集, 詠み人知らず
+cluster1:(17)
+志賀, 場所, 山桜, 和歌, 平忠度, さざなみ, 平家, 塚, 碑, 兵, 歌, 都, 両馬川, 中, 源氏, 住宅街, 荒れ
+cluster2:(4)
+忠度を憐れんだ俊成, 藤原俊成, 忠度都落ち, 忠度
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 2entities.

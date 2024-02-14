@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 山田錦発祥のまち・多可>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅, 道, 公園
+cluster1:(4)
+美味, 帰り, 近く, 地元
+cluster2:(12)
+給食, 犬, パン, 野菜, コッペパン, ミルク, 食べ物, タイヤりんご, ソフトクリーム, キャンプ, 米, 山田
+cluster3:(1)
+多可
+cluster4:(1)
+お土産物屋
+cluster5:(3)
+総合観光案内所, 朝採り野菜, 地場野菜
+cluster6:(1)
+マイスター工房八千代
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 3entities.

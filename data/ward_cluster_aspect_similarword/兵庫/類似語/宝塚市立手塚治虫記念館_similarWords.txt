@@ -1,0 +1,41 @@
+--------------------similar_words:宝塚市立手塚治虫記念館--------------------
+top3 entities near to cluster0>>
+治虫, プロ・タツノコプロワンダーランド, 館
+top3 entities near to cluster1>>
+アトム, ジャック, コープ
+top3 entities near to cluster3>>
+グッズ, イベント, ブース
+top3 entities near to cluster5>>
+フィギア, フィギュア, ジオラマ
+top3 entities near to cluster6>>
+オブジェ, モチーフ, モニュメント
+top3 entities near to cluster7>>
+イラスト, キャラクター, コーナー
+top3 entities near to cluster8>>
+ドラえもん, デビルマン, ジェット機
+top3 entities near to cluster13>>
+喫茶, イス, ミニ
+top3 entities near to cluster14>>
+建物, 入り口, 出入り口
+top3 entities near to cluster16>>
+アニメ絵, アニメ, 作品
+top3 entities near to cluster17>>
+子供, 家族, 子ども
+top3 entities near to cluster24>>
+鳥虫, 鳥, 昆虫
+top3 entities near to cluster27>>
+人達, 大勢, 仲間
+top3 entities near to cluster32>>
+作品, 漫画, 長編
+top3 entities near to cluster33>>
+展示, 出展, 展覧
+top3 entities near to cluster36>>
+制作, 製作, 研究
+top3 entities near to cluster37>>
+上映, 映画, 館
+top3 entities near to cluster39>>
+ナチュールスパ, ベガホール, フレミラ
+top3 entities near to cluster40>>
+阪急, フレミラ, ベガホール
+top3 entities near to cluster41>>
+アトム, 石ノ森, 治虫

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白鷺宮 姫路護国神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+GW姫路, 白鷺宮, 姫路, 兵庫県
+cluster1:(3)
+一角, 横, 別称
+cluster2:(6)
+お守り, 人, 姫路城, 御朱印, 気, 時期
+cluster3:(4)
+神社, 鈴, 巫女, 護国
+cluster4:(1)
+御朱印帳
+cluster5:(1)
+駐車場
+cluster6:(1)
+おみくじ
+cluster7:(4)
+護国神社, 姫路城=白鷺城にちなんで白鷺宮, 姫路護国神社, 元々護国神社
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 3entities.

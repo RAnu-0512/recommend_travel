@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯村温泉 佳泉郷 井づつや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+母, 高齢, 私達, 対応, 世話, 方, 息子, 家族, 夫婦, 感謝
+cluster1:(3)
+タイムスケジュール, ランチプラン, プラン
+cluster2:(3)
+和菓子, ケーキセット, ケーキ
+cluster3:(6)
+コーヒー, スタッフ, サービス, 露天風呂, 入り口, スロープ
+cluster4:(2)
+ランチ, ホテル
+cluster5:(1)
+車椅子
+cluster6:(1)
+日帰り
+cluster7:(1)
+井筒屋
+cluster8:(1)
+文字
+cluster9:(2)
+茶, 巾着
+cluster10:(7)
+敷居, 部屋, 玄関, 前, 地下, 夕方, 屋上
+cluster11:(13)
+日帰り入浴, 宿泊, 利用サービス時間, 風呂, 観光, 日帰りランチプラン, 食事, 日本庭園, 限定プラン, 老舗ホテル, 近場, ヒノキ風呂, 土産
+cluster12:(8)
+岩盤浴, 湯村温泉, 日帰り温泉プラン, 荒湯, 温泉街, 旅館, 日帰り温泉, 温泉
+
+howmany entities : 58
+howmany clusters : 13
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 7
+deleted 8entities.

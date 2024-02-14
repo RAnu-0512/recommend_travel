@@ -1,0 +1,15 @@
+--------------------similar_words:てっちゃん工房--------------------
+top3 entities near to cluster0>>
+子供, 大人, 子ども
+top3 entities near to cluster1>>
+勉強, 宣伝, 補助
+top3 entities near to cluster7>>
+小学生, 子ども, 子供
+top3 entities near to cluster8>>
+ショップ, おみやげ, スタッフ
+top3 entities near to cluster11>>
+かまぼこ, 練り物, カマボコ
+top3 entities near to cluster12>>
+家族, 親子, 学年
+top3 entities near to cluster13>>
+見学, 試食, 体験

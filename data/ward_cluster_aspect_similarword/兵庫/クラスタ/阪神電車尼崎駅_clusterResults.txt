@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阪神電車尼崎駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+JR, 電車, 本線, 駅, 近鉄, なんば線
+cluster1:(5)
+名所, 接続, こと, 乗り入れ, ホーム
+cluster2:(6)
+尼崎城が駅, 尼崎駅, 尼崎, 神戸三宮, 阪神電車, 尼崎城
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 0entities.

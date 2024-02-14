@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 宿場町ひらふく 因幡街道平成福市>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+駅, 隣, 国道, 入り口, 道
+cluster1:(3)
+陣屋門, 本陣跡, 平福宿
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 0entities.

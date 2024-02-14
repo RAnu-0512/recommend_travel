@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立海洋体育館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西宮, 芦屋
+cluster1:(3)
+円, 場合, 割り勘
+cluster2:(5)
+ヨット, ヨットスクール, 子供, 街, カヌー
+cluster3:(1)
+海上
+cluster4:(1)
+シャワー室
+cluster5:(1)
+貸ヨット
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銀の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+感じ, 感覚, 場所, サウナ, おすすめ, チケット, 無色透明, 感, 人, セット券, 人気, 炭酸泉, 湯上り, 次, 特徴, サラッ, 方, 混合, 冬, 体, 爽快感, セット, 旅行
+cluster1:(2)
+金湯, 金の湯
+cluster2:(2)
+銀湯, 銀の湯
+cluster3:(7)
+銀泉, 金銀, ラジウム泉, 金, 通称銀, 銀, 金泉
+cluster4:(19)
+温泉です.2館セット, 立ち寄り湯, 道後温泉, 有馬温泉, 有馬, 温泉施設, ハシゴ温泉, 温泉街, スーパー銭湯, 炭酸, ふらっと有馬温泉, 炭酸温泉, 入浴, 湯, お湯, 日帰り温泉, 観光客, 温泉, 外湯
+
+howmany entities : 53
+howmany clusters : 5
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 3
+deleted 4entities.

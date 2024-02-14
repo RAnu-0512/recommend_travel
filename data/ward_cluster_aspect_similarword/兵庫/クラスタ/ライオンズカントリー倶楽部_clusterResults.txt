@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ライオンズカントリー倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+レディースティ, 中, グリーン, ラウンド, コース, レインウエア, コストパフォーマンス, スタート, ライン, パソコン, マスター室
+cluster1:(3)
+雨, 雨雲レーダー, 雨脚
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

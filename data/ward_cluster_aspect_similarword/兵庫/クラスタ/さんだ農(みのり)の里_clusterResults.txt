@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さんだ農(みのり)の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+友人家族, 息子夫婦, 孫たち
+cluster1:(2)
+餅つき, 餅
+cluster2:(19)
+値段, 話, 休日, 食後, 手取り足取り, 敷地, 車, 種類, 多く, 季節, 別荘, 予約, 奥様, 大人, 遊具, 中, 子供, 自宅, 娘
+cluster3:(6)
+イガグリ, オーブン, ズッキーニ, カボチャ, イチジク, フルーツ
+cluster4:(7)
+コンセプト, 手作り, バーベキュー, オーナー, 楽しみ, 子ども, ジジババ
+cluster5:(1)
+ハサミ
+cluster6:(1)
+オクラ
+cluster7:(1)
+遊び方
+cluster8:(1)
+片栗粉
+cluster9:(1)
+バーベ
+cluster10:(6)
+野菜, 里, ピザ, ナス, 栗, 肉
+cluster11:(7)
+もぎたて, 野菜収穫体験, 満足感, 採り方, 野菜収穫, 収穫体験, 体験
+
+howmany entities : 55
+howmany clusters : 12
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 6
+deleted 7entities.

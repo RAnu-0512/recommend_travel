@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルニューアワジ別亭淡路夢泉景>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+明朝, 朝日
+cluster1:(2)
+通路, 本館
+cluster2:(2)
+海, 温泉
+cluster3:(9)
+ごはん, 家族, 会社, 淡路島, 露天風呂, 娘, 部屋, 月明かり, 瞬間
+cluster4:(1)
+天候
+cluster5:(1)
+別邸
+cluster6:(1)
+社員旅行
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 9entities.

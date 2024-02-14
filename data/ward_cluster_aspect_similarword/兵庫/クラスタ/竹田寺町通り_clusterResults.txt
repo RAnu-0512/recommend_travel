@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹田寺町通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+石垣, 小川, 寺町, 寺, 白壁
+cluster1:(4)
+印象, 車窓, 風景, 風情
+cluster2:(9)
+朝, 播但線, 陽ざし, 町, 竹田川, 駅, 数件, ホテル, 中
+cluster3:(3)
+水路, 川, 鯉
+cluster4:(1)
+泳ぎ津和野
+cluster5:(6)
+電車, 線路沿い, 登山口, 寺町測, 線路, 踏切
+cluster6:(6)
+竹田の城下町, 竹田, 竹田駅, 竹田寺町, 竹田城址, JR姫路駅
+
+howmany entities : 34
+howmany clusters : 7
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 6
+deleted 1entities.

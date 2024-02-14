@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しゃくなげの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(32)
+感じ, イメージ, 桜, 場所, 白, ドライブ, 美しさ, ピンクどれ, テレビ, 西洋しゃくなげ, 高地, 花, シャクナゲ, 山, 種類, つつじ, 里, 目, 赤, 丘, ピンク, 大人, 見頃, 日本, 西洋, 斜面, 遠景, 時期, 植物園, なげ, 薄ピンク, 駐車場
+cluster1:(4)
+佐用IC, 智頭急行, 兵庫県, 佐用町
+
+howmany entities : 36
+howmany clusters : 2
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 2
+deleted 0entities.

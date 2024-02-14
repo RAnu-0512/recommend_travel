@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百段苑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+淡路夢, 安藤忠雄
+cluster1:(13)
+野菜, チューリップ, 階段, 舞台, 設計, 花, 花壇, 頂上, 海, 眺め, エレベーター, 方, 階段状
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

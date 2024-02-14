@@ -1,0 +1,9 @@
+--------------------similar_words:青野ダム--------------------
+top3 entities near to cluster1>>
+足水, 足
+top3 entities near to cluster2>>
+公園, 地図, バス
+top3 entities near to cluster4>>
+山肌, 車道, 小川
+top3 entities near to cluster8>>
+ダム, 湖, 湖畔

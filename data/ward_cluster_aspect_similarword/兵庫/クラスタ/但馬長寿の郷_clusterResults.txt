@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:但馬長寿の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+レストラン棟, 施設, 中止
+cluster1:(2)
+鳥, 里
+cluster2:(3)
+日替わりランチ, タルタルソースランチ, 小鉢
+cluster3:(1)
+長寿
+cluster4:(4)
+ステーキ丼, 但馬牛, 牛たたき定食, ランチ定食
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 3entities.

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 東浦ターミナルパーク 東浦物産館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+採りたて野菜, 物産品, 生鮮野菜, 物産館
+cluster1:(9)
+姿, 名物☆道, 巻き寿司, ちょいピリ辛, どーして, キレ口調, 姿焼き, 大きさ, こ焼き
+cluster2:(3)
+東浦ターミナル, 東浦バスターミナル, 淡路産
+cluster3:(3)
+駐車場, 海水浴場, 場
+cluster4:(3)
+元気巻, タコ, イカ
+cluster5:(2)
+価格, 格安
+cluster6:(3)
+玉ねぎ, イチゴ, 淡路島
+cluster7:(5)
+買い物, ターミナル, パリパリ, バスターミナル, トイレ
+cluster8:(2)
+パック, カット
+cluster9:(1)
+口コミ
+cluster10:(1)
+丸焼き
+cluster11:(1)
+生
+cluster12:(7)
+場所, 目, 前, 施設, 方, あと, 写真
+cluster13:(2)
+バス, 道
+cluster14:(10)
+野菜, 店員, 客, 農家, 名物, 粉, 土産, 店, 地元, 袋
+cluster15:(1)
+東浦ターミナルパーク 東浦物産館
+
+howmany entities : 57
+howmany clusters : 16
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 9
+deleted 10entities.

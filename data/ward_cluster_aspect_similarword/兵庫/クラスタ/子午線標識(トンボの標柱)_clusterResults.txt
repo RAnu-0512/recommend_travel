@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:子午線標識(トンボの標柱)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+標識, 標柱
+cluster1:(15)
+神社, もの, スポット, 天文台, 標準, トンボ, 眺め, デザイン, 時間, 天辺, 日本, 意外, 地点, 高台, 近く
+cluster2:(1)
+裏手北側
+cluster3:(5)
+明石子午線, 明石市, 明石市立天文科学館, 兵庫県, 明石子午線が正
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 3entities.

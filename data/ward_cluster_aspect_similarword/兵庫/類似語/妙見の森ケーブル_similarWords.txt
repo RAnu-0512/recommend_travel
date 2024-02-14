@@ -1,0 +1,15 @@
+--------------------similar_words:妙見の森ケーブル--------------------
+top3 entities near to cluster0>>
+紅葉, 季節, 秋
+top3 entities near to cluster1>>
+子供, 子ども, 大人
+top3 entities near to cluster2>>
+駅道, 駅, 料金
+top3 entities near to cluster4>>
+乗り物, ケーブルカー, ロープウェー
+top3 entities near to cluster6>>
+間人, 年間, 間
+top3 entities near to cluster8>>
+景色, 往路, 往復
+top3 entities near to cluster9>>
+森, 駅, 山麓

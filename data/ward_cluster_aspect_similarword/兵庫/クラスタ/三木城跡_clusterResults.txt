@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三木城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三木城主別所長治, 三木城主・別所長治, 三木城城主別所長治
+cluster1:(3)
+配置図, 騎乗像, 大きさ
+cluster2:(2)
+井戸, かんかん井戸
+cluster3:(4)
+屈指, 口径, 全国, 唯一
+cluster4:(8)
+景色, 牛, 馬, 川, 草, 公園, 麓, 木
+cluster5:(2)
+戦い, 合戦
+cluster6:(6)
+場所, 様子, もの, 条件, 事, こと
+cluster7:(8)
+起こり, イメージ, 人, 神戸電鉄, 水攻め, 口, 方, 軍
+cluster8:(2)
+命, 看板
+cluster9:(2)
+句碑, 辞世
+cluster10:(3)
+領民, 一族, 家臣
+cluster11:(2)
+秀吉, 武将
+cluster12:(2)
+叛旗, 助命
+cluster13:(4)
+別所則治, 別所長治, 辞世之碑, 城主長治
+cluster14:(8)
+三木合戦, 神戸電鉄三木駅, 織田信長, 兵糧攻め, 三木城内, 三木城, 毛利攻め, 三木上ノ丸駅
+cluster15:(12)
+籠城戦, 城兵, 遺構, 本丸, 城外, 城跡, 城, 城址, 攻城, 備中高松城, 日本城郭大系 12, 本丸跡
+
+howmany entities : 71
+howmany clusters : 16
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 10
+deleted 12entities.

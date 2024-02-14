@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リブマックスリゾート瀬戸内シーフロント>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+愛犬, 柴犬, 伊豆
+cluster1:(2)
+金, 全額ポイント
+cluster2:(4)
+指導, 対応, 予約, 窓口
+cluster3:(4)
+感じ, 今回, 問題, こと
+cluster4:(3)
+表面, 夏場, 体
+cluster5:(12)
+ボリューム, サウナ, カラオケ, 露天風呂, 気持ち, 内風呂, カーテン, 漫画, ホテル, プール, こっち, リブマックス
+cluster6:(9)
+景色, 部屋, 源泉, 食事, 浴場, 効能, 温度, 客室, 宿可
+cluster7:(6)
+加水利用, 日帰り旅行, 日帰り温泉利用, 日帰り温泉, 温泉, 従業員
+
+howmany entities : 43
+howmany clusters : 8
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 7
+deleted 2entities.

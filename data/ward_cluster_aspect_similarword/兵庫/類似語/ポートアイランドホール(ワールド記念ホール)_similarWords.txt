@@ -1,0 +1,15 @@
+--------------------similar_words:ポートアイランドホール(ワールド記念ホール)--------------------
+top3 entities near to cluster1>>
+コンサート, アリーナ, ステージ
+top3 entities near to cluster2>>
+スポーツ, ホッケー, スケート
+top3 entities near to cluster3>>
+ホテル, イベント, ライブ
+top3 entities near to cluster4>>
+ホール, セール, コンサート
+top3 entities near to cluster6>>
+近辺, 遠方
+top3 entities near to cluster12>>
+建物, 大学, 大会
+top3 entities near to cluster13>>
+会場, 競技, 施設

@@ -1,0 +1,23 @@
+--------------------similar_words:兵庫県立フラワーセンター--------------------
+top3 entities near to cluster1>>
+桜, 春, 花
+top3 entities near to cluster2>>
+公園, 園内, 景色
+top3 entities near to cluster4>>
+祭り, 衣装
+top3 entities near to cluster8>>
+パーク, センター, フラワー
+top3 entities near to cluster9>>
+食べ物, 飲み物, カフェ
+top3 entities near to cluster10>>
+チューリップ, ポピー, アジサイ
+top3 entities near to cluster12>>
+子供, 子ども, 大人
+top3 entities near to cluster15>>
+花, お花, 草花
+top3 entities near to cluster16>>
+バラ園, 植物園, バラ, 植物
+top3 entities near to cluster17>>
+子供, 子ども
+top3 entities near to cluster19>>
+年間, 料金, パス

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出石 永楽館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+芝居小屋, いろは丸展示館
+cluster1:(2)
+出石城下町, 近畿最古
+cluster2:(24)
+空調, 場所, 冷房, 人, ココ, 何か, イベント, 入口, 客, 建物, 大人, 劇場, 奈落, 昭和, 方, ホームページ, 文字, 興行, 見学, 舞台, 裏, 昔, 催し物, 舞台裏
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 1
+deleted 4entities.

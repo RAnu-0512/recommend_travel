@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥地獄・虫地獄>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+炭酸ガス, 炭酸, 炭酸地獄
+cluster1:(6)
+鳥, 虫たち, 地獄, 鳥地獄, 虫地獄, 虫
+cluster2:(2)
+石碑, 碑
+cluster3:(4)
+六甲山, 地獄谷, 炭酸泉, 温泉
+cluster4:(2)
+原因, 様子
+cluster5:(4)
+場所, 人, 手前, 昔
+cluster6:(1)
+道
+cluster7:(1)
+炭素
+cluster8:(1)
+有馬町内
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 7entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波ふるさと村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レジ袋, 駐車場
+cluster1:(2)
+点呼, 集合場所
+cluster2:(17)
+場所, スタッフ, ナビ, 人, ハサミ, 経由, 別, 利用, ビール, 形, クーポン, 建物, 方, ローソン, 裏, 現地, 体験
+cluster3:(6)
+味, 極上, 量, 余裕, 事, 出来
+cluster4:(9)
+猛暑, 子供達, 軍手, 実, 収穫, ふるさと村, 畑, 収穫申し込み, 子供
+cluster5:(6)
+黒豆, 枝, 黒枝豆, 枝切り, 豆, 枝豆
+cluster6:(8)
+枝豆狩り, 枝豆収穫体験, 丹波黒枝豆, 丹波黒豆, 黒枝豆刈り, 丹波黒豆狩り, 丹波ふるさと村, ローソン篠山八上下店
+
+howmany entities : 50
+howmany clusters : 7
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 5
+deleted 4entities.

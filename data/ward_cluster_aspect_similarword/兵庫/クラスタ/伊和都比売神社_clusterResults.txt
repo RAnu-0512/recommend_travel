@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊和都比売神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+立ち鳥居, 鳥居, 鳥居越し
+cluster1:(3)
+神・海, 海側, 海
+cluster2:(4)
+神社, 祭神, 参拝, 外宮
+cluster3:(4)
+地上, 海面, 海上, 海軍
+cluster4:(10)
+場所, もの, 位置, 書, 手前, 前, 額, 文字, 縁, 近く
+cluster5:(2)
+岩, 松
+cluster6:(12)
+スニーカー, 人, ベンチ, 掛け軸, 伊勢神宮, レンタサイクル, 神, 日本, 水, 縁結び, 御利益, 瀬戸内海
+cluster7:(2)
+聖地, 恋人
+cluster8:(2)
+景色, 海岸
+cluster9:(1)
+勇士
+cluster10:(1)
+トヨウケ
+cluster11:(5)
+再就職先, 駐車スペース, 温泉宿泊施設, 無料駐車場, 駐車場
+cluster12:(13)
+赤穂, 比売神社, 赤穂御崎, 伊和都, 播磨国, いわつひめじんじゃ, 一宮・伊和神社, 東郷平八郎, 比売大神, 播州赤穂駅, 廣田神社, 西宮神社, 比売神
+
+howmany entities : 62
+howmany clusters : 13
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 8
+deleted 8entities.

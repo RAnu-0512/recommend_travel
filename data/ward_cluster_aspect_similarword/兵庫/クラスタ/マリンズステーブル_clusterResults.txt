@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マリンズステーブル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+乗馬倶楽部, 乗馬, 乗馬体験
+cluster1:(7)
+スタッフ, スマホ, ピント, 次, カメラ, ミッキー, 写真
+cluster2:(4)
+動き, 意味, こと, 必要
+cluster3:(4)
+場所, 時間, 施設, 体験
+cluster4:(6)
+馬たち, 馬, 参加者, 猫ちゃんスタッフ, 観光価格, 性能補
+cluster5:(1)
+兵庫県
+cluster6:(1)
+下さり写真
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 2entities.

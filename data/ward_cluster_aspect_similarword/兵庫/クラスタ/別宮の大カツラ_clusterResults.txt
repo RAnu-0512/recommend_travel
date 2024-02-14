@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:別宮の大カツラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+水, 幹, 根元, 木
+cluster1:(8)
+大カツラ, すばらしさ, 場所, 弘法大師, 迫力, カツラ, 歴史, 気持ち
+cluster2:(1)
+養父市
+cluster3:(4)
+生命力, 大きさ, 太さ, 存在感
+cluster4:(1)
+推定樹齢
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 2entities.

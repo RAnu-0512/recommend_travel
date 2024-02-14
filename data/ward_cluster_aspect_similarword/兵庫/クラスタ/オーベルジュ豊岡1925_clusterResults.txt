@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オーベルジュ豊岡1925>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+豊岡, オーベルジュ豊岡1925
+cluster1:(16)
+前菜, 食事内容, 食事, 空間, 魚, 個室, 旅, 接客, コロナ禍, 予約, 素材, 都市レストラン, 魚料理, 料理, 店, 体験
+cluster2:(8)
+中盤, 友人, 目, 周り, 時間, 方々, 方, 地元
+cluster3:(14)
+ところ, ランチ, ドライブ, デザート, 口コミ, タイミング, マナー, ワイン, クーポン, ワゴンデザート, ディナー, 盛り付け, 雰囲気, デザートワゴン
+cluster4:(10)
+感じ, 閑散, 説明, もの, 内容, 目的, 案内, 気分, 期待, 記載
+cluster5:(2)
+美しさ, 言葉使い
+cluster6:(1)
+駐車場
+cluster7:(1)
+配膳
+cluster8:(1)
+一品一品
+
+howmany entities : 55
+howmany clusters : 9
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 4
+deleted 7entities.

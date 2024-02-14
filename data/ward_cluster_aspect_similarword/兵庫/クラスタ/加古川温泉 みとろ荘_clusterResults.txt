@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加古川温泉 みとろ荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+洞窟風呂, 源泉, 内湯, 日帰り温泉, 温泉, 外湯, 風呂, 風呂上がり, スーパー温泉, 釜風呂, 温泉宿, 外風呂, お湯, 湯, 展望風呂, 寝湯, 源泉湯, 源泉風呂, 天然温泉, 有馬温泉, みとろ荘
+cluster1:(2)
+レトロ感, 昭和レトロ
+cluster2:(2)
+買い物帰り, 帰り
+cluster3:(2)
+車, 休日
+cluster4:(2)
+名物, 田舎
+cluster5:(3)
+加古川駅, 昭和, 加古川唯一
+cluster6:(1)
+田園
+cluster7:(6)
+広間, 外観, 部屋, 建物, 設備, 施設
+cluster8:(4)
+扇風機使用, 低温, 消化, クルクルドライヤー派
+cluster9:(3)
+事, こと, 感じ
+cluster10:(3)
+前回, 次回, 是非ごはん
+cluster11:(2)
+昔, 近く
+cluster12:(3)
+人, 方, 他
+cluster13:(1)
+数
+cluster14:(1)
+体
+cluster15:(1)
+米
+cluster16:(16)
+お子様, 混, 待合い, 泊まり, フロント, ポイント, リピート, コンセント, ヘアードライヤー, サウナ, 露天風呂, そのもの, 練り物, ドライヤー, レジャー, 雰囲気
+cluster17:(8)
+近場, 試作品, 従業員, 休憩, 巻き寿司, 休憩場所, 食事, 食事処
+
+howmany entities : 81
+howmany clusters : 18
+howmany entities (more than3entities) : 67
+howmany clusters (more than3entities) : 9
+deleted 14entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:とれとれ市場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+ボリューム, 外, 待ち時間, バーベキュー, 博物館, 雰囲気, シャコ, 海, 魚介類
+cluster1:(3)
+場所, 店内, 店
+cluster2:(2)
+一角, 敷地
+cluster3:(1)
+土産
+cluster4:(14)
+赤穂, 相生市, ペーロン船, 牡蠣, 海鮮, 食事, 魚介, 調理, 海鮮丼, c牡蠣, 料理, 鮮魚, 食材, 漁港
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 3entities.

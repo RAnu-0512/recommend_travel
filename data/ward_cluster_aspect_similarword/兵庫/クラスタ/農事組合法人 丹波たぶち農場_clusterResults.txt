@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:農事組合法人 丹波たぶち農場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+黒枝豆, コロナ禍, 枝豆, イチゴ狩り
+cluster1:(2)
+篠山, 三田
+cluster2:(2)
+キッチンバサミ, 袋
+cluster3:(7)
+秋晴れ, 気持ち, プリプリ, ハサミ, イチゴ, 春, レシピ
+cluster4:(3)
+所, 手, 時間
+cluster5:(1)
+遠方
+cluster6:(6)
+根元, 枝, 株, 畑, 豆, 米
+cluster7:(1)
+長男夫婦
+cluster8:(1)
+糖質
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 7entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北野坂 か和うそ Cafe>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+動物達, 動物, 動物臭
+cluster1:(6)
+店員, 女性スタッフ, 男性店長, 店, 男性, 店長
+cluster2:(3)
+ドア, ビル, 階段
+cluster3:(3)
+小動物, キリン, ネズミ
+cluster4:(15)
+イメージ, ドリンク, テナント, あたり, カワウソ, カフェ, プリン, キッチン, テーブル, タイマー, オーナー, コツメカワウソ, 触れ合い, シャツ, 入り口
+cluster5:(2)
+ケージ, ガラス
+cluster6:(2)
+茶, 席
+cluster7:(6)
+神戸, ベンガル猫, ライチソーダ, ネコ, ソーダ水, 震災
+cluster8:(17)
+感じ, 値段, 程度仕方, 腕, 手, 説明, もの, 人, 鳴き方, 時間, 匂い, 方, 中, 家族, 気, 他, 体験
+
+howmany entities : 57
+howmany clusters : 9
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 7
+deleted 4entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:慧日寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+場所茅葺き屋根, 茅葺, 屋根, かやぶき屋根, 茅葺き屋根
+cluster1:(4)
+まさかお寺, 境内, 寺, 本堂
+cluster2:(2)
+逸話, 伝説
+cluster3:(2)
+歴史, 後世
+cluster4:(1)
+美貌
+cluster5:(10)
+竹林, 場所, 景色, 人, 家, 建物, 紅葉, 穴場, 臨済宗, 雰囲気
+cluster6:(1)
+予備知識
+cluster7:(1)
+明智光秀
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 7entities.

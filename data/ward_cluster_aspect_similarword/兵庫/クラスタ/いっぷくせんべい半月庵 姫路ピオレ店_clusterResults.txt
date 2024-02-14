@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いっぷくせんべい半月庵 姫路ピオレ店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+せんべい, 手土産, 定番, ハート
+cluster1:(3)
+駅, 味, 店
+cluster2:(1)
+かき
+cluster3:(1)
+辛め
+cluster4:(1)
+醤油味
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 3entities.

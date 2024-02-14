@@ -1,0 +1,51 @@
+--------------------similar_words:神戸市立六甲山牧場--------------------
+top3 entities near to cluster1>>
+バー, ウェイ, 定員
+top3 entities near to cluster2>>
+土産, 土産物, おみやげ
+top3 entities near to cluster3>>
+妊娠, 授乳, 妊婦
+top3 entities near to cluster4>>
+滞在, 時間, 受付
+top3 entities near to cluster7>>
+ハイキング, レストラン, ソフトクリーム
+top3 entities near to cluster8>>
+ぬいぐるみ, ヌイグルミ, 縫いぐるみ
+top3 entities near to cluster9>>
+ハイヒール, スニーカー, ベビーカー
+top3 entities near to cluster12>>
+ゾーン, ルール, シート
+top3 entities near to cluster13>>
+エリア, イベント, 見どころ
+top3 entities near to cluster15>>
+雰囲気, 気持ち, 気持
+top3 entities near to cluster17>>
+ウサギ, ヒツジ, うさぎ
+top3 entities near to cluster21>>
+食べ物, ラーメン, お菓子
+top3 entities near to cluster23>>
+ミルク, バター, アイス
+top3 entities near to cluster26>>
+子供, 子ども
+top3 entities near to cluster28>>
+入り, 入っ, チーズ
+top3 entities near to cluster29>>
+つくり, 作る
+top3 entities near to cluster32>>
+チーズ, カマンベール, クリームチーズ
+top3 entities near to cluster35>>
+工房, チーズ, トテッポ
+top3 entities near to cluster37>>
+バス, 直通, 周遊
+top3 entities near to cluster38>>
+牧場, 農場, 酪農
+top3 entities near to cluster40>>
+羊, 牛, ヤギ
+top3 entities near to cluster41>>
+動物, 動物園, 植物園, 植物
+top3 entities near to cluster43>>
+子供連れ, 家族連れ, 子供, 家族
+top3 entities near to cluster44>>
+駐車場, 駐車, 料金
+top3 entities near to cluster45>>
+体験, 体感

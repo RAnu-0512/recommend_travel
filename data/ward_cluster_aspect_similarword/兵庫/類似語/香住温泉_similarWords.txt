@@ -1,0 +1,13 @@
+--------------------similar_words:香住温泉--------------------
+top3 entities near to cluster0>>
+雰囲気, 気持ち, 華やかさ
+top3 entities near to cluster1>>
+ステーキ, おすすめ, バーベキュー
+top3 entities near to cluster5>>
+家族, 年配, 料理
+top3 entities near to cluster7>>
+身体, 肌, 冬
+top3 entities near to cluster10>>
+旅館, 民宿, 宿
+top3 entities near to cluster13>>
+温泉, 香住, 蟹

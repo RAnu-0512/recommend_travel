@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:世界の梅公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+特別梅, 梅
+cluster1:(4)
+各国, 世界, 中国, 日本
+cluster2:(2)
+映画, 歴史ドラマ
+cluster3:(16)
+感じ, 友達, アピール, 種類, 桃源郷, 季節, 間, 県外, 色, 転換, 雰囲気, 時期, こと, 気分, 瀬戸内海, 名前
+cluster4:(7)
+整備, 景色, 園内, 喫茶, 建物, 公園, 海
+cluster5:(2)
+風流, 風情
+cluster6:(3)
+花, 満開, 蕾
+cluster7:(1)
+お勧め
+cluster8:(1)
+展望台
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 8entities.

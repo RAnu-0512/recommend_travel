@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宗鏡寺(沢庵寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光, 観光客
+cluster1:(4)
+女性, 人, 友人, ☆人
+cluster2:(5)
+感じ, 雰囲気, ところ, ほのぼの, こと
+cluster3:(2)
+時間, 受付
+cluster4:(5)
+朱印, 雪, 寺, 順路, 庭園
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 4entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:エアレーベン八千代>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+ドーナツ, 味, バイキング, 特産, 子供, ワッフル, 美味しさ, 目, 自家, 主体
+cluster1:(3)
+高野豆腐, 自家製豆腐, 豆腐
+cluster2:(2)
+湯どうふ, ゆば
+cluster3:(1)
+地鶏唐揚げ
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 3entities.

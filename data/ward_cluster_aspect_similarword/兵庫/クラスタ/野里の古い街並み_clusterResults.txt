@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野里の古い街並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人気, 地元
+cluster1:(5)
+高校生, イメージ, 店, イベント, こども
+cluster2:(1)
+趣
+cluster3:(1)
+線
+cluster4:(3)
+茶席, 姫路城観光, 旧車パレード
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 4entities.

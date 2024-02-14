@@ -1,0 +1,11 @@
+--------------------similar_words:東条湖--------------------
+top3 entities near to cluster0>>
+子供, 赤ちゃん, 子ども
+top3 entities near to cluster1>>
+宿, 足
+top3 entities near to cluster2>>
+故郷, 帰省
+top3 entities near to cluster3>>
+夕食, 朝食, 昼食
+top3 entities near to cluster4>>
+遊覧, 湖, バス

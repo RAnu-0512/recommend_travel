@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大野山(兵庫県猪名川町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+キャンプ場, 携帯電話, 駐車場
+cluster1:(9)
+星, 散歩, 紅葉シーズン, 景色, 眺め, 星空, 絶景, 紅葉, 天気
+cluster2:(7)
+山頂, 通行, 山, 標高, 登山, 頂上, 勾配
+cluster3:(3)
+神戸, 奈良, 大阪
+cluster4:(3)
+テント, 天文台, ロッジ
+cluster5:(2)
+淡路島, 大野山
+cluster6:(2)
+ルート, ハイキングコース
+cluster7:(10)
+ロケーション, おすすめ, あたり, プラネタリウム, ドライブ, 気持ち, シーズン, キャンプ, ハイキング, 奥さん
+cluster8:(11)
+感じ, 途中, 場所, 人, 人気, 季節, 周辺, 道, 方, 時期, 写真
+
+howmany entities : 50
+howmany clusters : 9
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 7
+deleted 4entities.

@@ -1,0 +1,49 @@
+--------------------similar_words:武庫川河川敷緑地--------------------
+top3 entities near to cluster0>>
+駐車場, 競馬場, 駐車, 競馬
+top3 entities near to cluster7>>
+河川敷, 空き地, 原っぱ
+top3 entities near to cluster9>>
+自転車, ママチャリ, ジョガー
+top3 entities near to cluster11>>
+ジョギング, ランニング, ウォーキング
+top3 entities near to cluster14>>
+サイクリング, サイクリングロード, サイクリングコース
+top3 entities near to cluster16>>
+ピクニック, バーベキュー, 色とりどり
+top3 entities near to cluster20>>
+デート, ワンコ, マナー
+top3 entities near to cluster21>>
+マラソン, コース, ジョギング
+top3 entities near to cluster22>>
+子供, 子ども, 家族
+top3 entities near to cluster23>>
+河口, 川岸, 川
+top3 entities near to cluster24>>
+元気, 気分
+top3 entities near to cluster26>>
+季節, 時期, 景色
+top3 entities near to cluster27>>
+人達, 大勢
+top3 entities near to cluster29>>
+近所, 隣, お隣
+top3 entities near to cluster32>>
+週末, 天気, お天気
+top3 entities near to cluster33>>
+境界, 緑, 境
+top3 entities near to cluster34>>
+秋, 月, 年
+top3 entities near to cluster35>>
+河川, 緑地, 河川敷
+top3 entities near to cluster36>>
+花, お花, 桜
+top3 entities near to cluster37>>
+野球, サッカー, 軟式
+top3 entities near to cluster38>>
+砂利道, 砂利, 道路
+top3 entities near to cluster39>>
+休憩場, 練習場, 休憩, 練習
+top3 entities near to cluster40>>
+道路, 遊具, 公園
+top3 entities near to cluster41>>
+散歩, 花見, 見物

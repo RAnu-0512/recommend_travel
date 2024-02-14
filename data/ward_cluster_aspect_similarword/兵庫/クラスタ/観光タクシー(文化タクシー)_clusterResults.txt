@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観光タクシー(文化タクシー)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+異人館街, 異人館散策, 異人館巡り, 異人館, 北野異人館, 異人館めぐり
+cluster1:(3)
+宿泊, 観光, バス
+cluster2:(5)
+洋館, 街, 建物, 館, 施設
+cluster3:(1)
+案内所
+cluster4:(14)
+神戸, 途中, チケット, 六甲山, 北, 坂, スニーカー, スポット, 時間, 坂道, 雰囲気, 意外, セット, ロープウェイ
+cluster5:(2)
+三宮駅, 有馬温泉
+cluster6:(1)
+裏六甲山系
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 4entities.

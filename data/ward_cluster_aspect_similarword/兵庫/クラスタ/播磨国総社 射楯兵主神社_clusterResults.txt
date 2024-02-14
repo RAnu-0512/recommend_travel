@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:播磨国総社 射楯兵主神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+ミミズク, 混, 姫路城, 朱, 我が家, 人達, 門, 車, 近く, 神
+cluster1:(2)
+境内, 神社
+cluster2:(2)
+初詣, 元旦
+cluster3:(1)
+祓い
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 5entities.

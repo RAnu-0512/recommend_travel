@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花屋敷ゴルフ倶楽部 よかわコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+服装, 格好コース
+cluster1:(7)
+おすすめポイント, アドバイス, 食事, コース, プレー, キャディー, 近く
+cluster2:(1)
+女子プロ
+cluster3:(2)
+交通手段, 駐車場
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Paris Flower>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+教室, 店, 体験
+cluster1:(2)
+お花, 笑顔
+cluster2:(12)
+もの, 種類, オーナー, 時間, ハーバリウム, 大人, オイル, 中, 雰囲気, 出来上がり, アラフィフ, パリ
+cluster3:(2)
+先生 世間話, お花つみ
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 4entities.

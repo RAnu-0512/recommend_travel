@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸空港ターミナル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展望階, 展望デッキ
+cluster1:(2)
+三宮駅, 三ノ宮駅
+cluster2:(2)
+神戸, 三宮
+cluster3:(3)
+福知山, 大阪, 京都
+cluster4:(2)
+便, 東京便
+cluster5:(16)
+飛行機, 空, 羽田空港, 離発着, スカイマーク, 太平洋, 地方, アクセス, 青春, 中国, 伊丹空港, ポートライナー, 天気, JR, ラウンジ, 海
+cluster6:(2)
+閑散, 発着
+cluster7:(5)
+地, 都合, 時間, 側, 中心
+cluster8:(2)
+帰路, 到着
+cluster9:(3)
+感じ, 満足, 意外
+cluster10:(6)
+初訪問, 旅, 菓子, 西日本旅, 土産, 旅行
+cluster11:(1)
+移動距離
+cluster12:(4)
+空港全体, 空港, ローカル空港, 地方空港
+cluster13:(2)
+米子空港, 神戸空港
+cluster14:(2)
+JR在来線, 発着便数
+
+howmany entities : 54
+howmany clusters : 15
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 6
+deleted 17entities.

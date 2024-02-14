@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鎧の袖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+岩, 絶景, 崖, 奇岩, 洞窟
+cluster1:(2)
+鎧, 袖
+cluster2:(6)
+感じ, ドラマ, 見ごたえ, 日本海, 見た目, コース
+cluster3:(4)
+人, 名, 方, 他
+cluster4:(2)
+場所, 写真
+cluster5:(2)
+迫力, 価値
+cluster6:(4)
+海岸線, 香住海岸, 遊覧船, 兵庫県
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 6entities.

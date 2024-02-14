@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜の宮公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松林, 松
+cluster1:(2)
+浜, 松原
+cluster2:(1)
+黒松
+cluster3:(1)
+加古
+cluster4:(11)
+散歩, 東加古川, グラウンド, ジョギングコース, 公園, 宮公園, 昔, プール, 木, 子供, 近く
+cluster5:(3)
+市民ブール, 市民プール, 駐車場
+cluster6:(1)
+浜宮天神社
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 7entities.

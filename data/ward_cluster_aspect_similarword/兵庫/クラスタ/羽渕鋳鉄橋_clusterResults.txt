@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽渕鋳鉄橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鉱石, 鉄鉱
+cluster1:(7)
+姿, 絵, アーチ, フォルム, 風景, かたち, こと
+cluster2:(4)
+通路, 緑, 周辺, 水
+cluster3:(4)
+洪水, 鋳鉄, 鉄橋, 橋
+cluster4:(3)
+資料館, 選鉱場あと, 貴重な橋
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 2entities.

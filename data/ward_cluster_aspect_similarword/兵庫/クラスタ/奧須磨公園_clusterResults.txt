@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奧須磨公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+桜, 夏, 北, 神社, バーベキュー, 自然, 人, 締め, 季節, ほう, シーズン, 遊具, 今回, 公園, 近く, 旅行
+cluster1:(4)
+多井畑厄神, 須磨駅, 地下鉄妙法寺駅, 妙法寺駅
+cluster2:(1)
+日本最古の厄除け神社
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 1entities.

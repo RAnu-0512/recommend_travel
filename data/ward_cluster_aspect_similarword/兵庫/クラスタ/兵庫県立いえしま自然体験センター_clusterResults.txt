@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立いえしま自然体験センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+バーベキュー釣り, アジ
+cluster1:(4)
+島, 自然, 砂浜, 海
+cluster2:(2)
+山羊, 蟹
+cluster3:(8)
+説明, 感動, 対応, 涙, 方, 事, こと, 受付
+cluster4:(3)
+風呂, 夕食, ご飯
+cluster5:(2)
+場所, 部屋
+cluster6:(2)
+施設, 職員
+cluster7:(9)
+BBQ, エアコン, アウトドア, シャンプー, クーラー, キャンプ, 子ども, フェリー, 飲み物
+cluster8:(2)
+話, 昔
+cluster9:(3)
+母, 子, 家族
+cluster10:(1)
+金
+cluster11:(1)
+雄大さ
+cluster12:(1)
+姫路港
+
+howmany entities : 40
+howmany clusters : 13
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 13entities.

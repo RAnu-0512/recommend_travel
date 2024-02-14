@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸北野美術館(ホワイトハウス)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+異人館巡り, 北野, 神戸北野美術館
+cluster1:(3)
+入場料, 常設展, 収蔵数
+cluster2:(3)
+作品, 多く, こと
+cluster3:(2)
+時間, 余裕
+cluster4:(10)
+アメリカ領事館, 米国, カフェ, ソファー, カフェスペース, 領事館, 建物, 東端, 美術館, 改装
+cluster5:(1)
+官舎
+cluster6:(2)
+ベンの家, 画家たち
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 5entities.

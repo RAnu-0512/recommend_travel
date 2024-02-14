@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青倉神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+独特, 建物, 山奥, 田舎, 社
+cluster1:(2)
+巨岩, 巨石
+cluster2:(3)
+社殿, 神体, 神社
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

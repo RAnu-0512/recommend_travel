@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名湯宝乃湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+源泉, 源泉風呂, 源泉掛け流し
+cluster1:(3)
+時間, コンボ, 露天風呂
+cluster2:(2)
+風呂, 部屋
+cluster3:(1)
+気温
+cluster4:(1)
+有馬
+cluster5:(1)
+サウナ×水風呂
+cluster6:(1)
+外気浴
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

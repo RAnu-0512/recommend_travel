@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊丹市立工芸センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+作品, 七宝作品, もの, ジュエリー, スポット, 入場無料, 伊丹, 建物, 地下, 展示スペース, 施設, 設備, 美術館, 雰囲気, 作品展, 展示, 工芸品, 近く
+cluster1:(2)
+みやのまえ文化の郷, 白雪ブルワリービレッジ長寿蔵
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 1
+deleted 2entities.

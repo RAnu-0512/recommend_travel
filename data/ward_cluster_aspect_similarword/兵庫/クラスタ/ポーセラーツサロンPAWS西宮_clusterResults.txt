@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ポーセラーツサロンPAWS西宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+作り方, シリーズ, ポーセラーツ, ティーポット, ランチ, レッスン, リボン, 次回, 上がりテンション, アドバイス, サロン, タイミング, シート, 種類, センス, 次, 初心者, アレ, 時間, SNS, フィリング, 楽しみ, プレゼント, 出会い, お気に入り, 他
+cluster1:(3)
+茶, 白磁, ティーカップ
+cluster2:(15)
+会話, 作品, おやつ, 生徒, 同席, 世話, 教室, リボン作品, お話, 方々, 自信, 作品づくり, こと, 気分, 先生
+cluster3:(3)
+兜飾り, 転写紙, 焼きたて
+
+howmany entities : 47
+howmany clusters : 4
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 4
+deleted 0entities.

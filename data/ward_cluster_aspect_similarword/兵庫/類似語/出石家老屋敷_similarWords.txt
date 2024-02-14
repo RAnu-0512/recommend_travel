@@ -1,0 +1,7 @@
+--------------------similar_words:出石家老屋敷--------------------
+top3 entities near to cluster0>>
+人形, 蝋, 武士
+top3 entities near to cluster1>>
+建物, 階段, 屋根
+top3 entities near to cluster2>>
+屋敷, 家老, 武家

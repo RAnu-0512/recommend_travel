@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:内山いちごの国>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+練乳, いちご狩り, 練乳入れ, イチゴ狩り
+cluster1:(39)
+苺, 値段, 味変, 愛想, 味, 場所, ハズレ, 母, 渋滞, ペット, staff, レーン, 蛇, もの, 子供たち, 人, 足, 客, オッケー, レベル, 周り, 季節, イチゴ, 時間, 金, 施設, オススメ, 方, 国, 内山いちご, いちご, 隣, 食べごたえ, 子供, イチゴ摘み取り, こと, 孫, ハウス, イチバン
+cluster2:(4)
+予約, 受付, 予約時間, 駐車場
+
+howmany entities : 47
+howmany clusters : 3
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 3
+deleted 0entities.

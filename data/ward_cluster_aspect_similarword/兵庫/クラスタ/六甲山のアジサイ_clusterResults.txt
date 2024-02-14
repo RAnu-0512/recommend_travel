@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六甲山のアジサイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+高山植物園, 森林植物園, 植物園, 六甲森林植物園
+cluster1:(3)
+気温, 雨, 梅雨
+cluster2:(6)
+神戸, 池, 紫陽花群, 摩耶山, 六甲山, 山
+cluster3:(3)
+脇, 足, 心
+cluster4:(10)
+ところ, ドライブ, あじさい, 花, アジサイ, 入り口, 色とりどり, 紫陽花, カントリーハウス, 写真
+cluster5:(2)
+気, こと
+cluster6:(2)
+途中, 近く
+cluster7:(2)
+季節, 時期
+cluster8:(2)
+種類, 色
+cluster9:(1)
+風情
+cluster10:(11)
+道々, 道路沿い, 道沿い, 道路, 六甲牧場, 山道, 牧場, 道, 道中, 紫陽花街道, 道中あちこち
+
+howmany entities : 46
+howmany clusters : 11
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 6
+deleted 9entities.

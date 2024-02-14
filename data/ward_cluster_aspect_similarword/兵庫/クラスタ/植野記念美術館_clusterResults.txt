@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:植野記念美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+美術館, オススメ, 地元
+cluster1:(2)
+建物, 内部
+cluster2:(1)
+空間
+cluster3:(1)
+価格
+cluster4:(1)
+画家
+cluster5:(2)
+入館料, 植野記念美術館
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 7entities.

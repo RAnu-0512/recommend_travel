@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヨドコウ迎賓館(旧山邑家住宅)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+補修工事, 改修工事
+cluster1:(4)
+建築家, 建築, ライト建築, 建築物
+cluster2:(2)
+芦屋市, 阪急芦屋川駅
+cluster3:(2)
+ライト感, 重厚感
+cluster4:(29)
+デート, ライト, 景色, 左右, 部屋, もの, 設計, 家, フランク・ロイド, 彼, 季節, デザイン, 周辺, 建物, 応接, 雛人形展, 一体, 施設, 帝国ホテル, 意匠, 外観, 日本, 味わい, フランク ロイド, 雰囲気, 徒歩, 内装, 機会, 大勢
+cluster5:(2)
+窓, FIX窓
+cluster6:(5)
+桜, 坂, 山邑邸, 丘, 屋上
+cluster7:(3)
+道路, 歩道, 尾根
+
+howmany entities : 49
+howmany clusters : 8
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 4
+deleted 8entities.

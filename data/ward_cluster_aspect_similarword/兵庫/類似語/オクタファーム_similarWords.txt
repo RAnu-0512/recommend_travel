@@ -1,0 +1,19 @@
+--------------------similar_words:オクタファーム--------------------
+top3 entities near to cluster0>>
+時間, 駐車場, 駐車
+top3 entities near to cluster1>>
+子供, 子ども, 子
+top3 entities near to cluster2>>
+設置, 換気, 撤去
+top3 entities near to cluster3>>
+通路, 列, 地面
+top3 entities near to cluster4>>
+イチゴ, 家族, 母
+top3 entities near to cluster6>>
+時間数, 周辺, 時間
+top3 entities near to cluster7>>
+いらっしゃる, 親切
+top3 entities near to cluster10>>
+イチゴ, 農園, 苺
+top3 entities near to cluster11>>
+狩り, イチゴ, 苺

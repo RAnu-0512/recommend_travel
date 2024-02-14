@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:焚き火BASE~HOKAGE~>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+気温, 空, 夕日, 山, 星空, 天気, 虫, 米, 風, 海
+cluster1:(2)
+淡路島オールスターズ, 淡路島
+cluster2:(7)
+BBQ, テント, 薪割り, bbq, 手ぶら, キャンプ, 焚き火
+cluster3:(9)
+フレンドリー, スタッフ, ロケーション, スポット, 夕焼け, スイーツ, まわり, スペース, オススメ
+cluster4:(3)
+タオル, トイレ, 飲み物
+cluster5:(2)
+プール, 水風呂
+cluster6:(1)
+スウェーデントーチ
+cluster7:(2)
+ホットサンド, 水着
+cluster8:(11)
+場所, 火, 次回, 持参, 目, 前, 時間, 施設, 方, 気, こと
+cluster9:(5)
+友達, 店員, 兄さん達, 迷惑, 家族
+cluster10:(14)
+寝袋, 時間外, 初テントサウナ, 集合時間, 薪ストーブ, キャンプ道具, 外気浴, BBQ用品, 貸切状態, 薪, ドラム缶風呂, 時間制限, 貸切, テントサウナ
+
+howmany entities : 66
+howmany clusters : 11
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 7
+deleted 7entities.

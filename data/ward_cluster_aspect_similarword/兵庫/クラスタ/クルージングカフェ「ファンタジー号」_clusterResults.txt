@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クルージングカフェ「ファンタジー号」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+クルージング, 神戸, デッキ, 潜水艦, 和田岬, コーヒー, スタッフ, ドリンク, 明石海峡大橋, 神戸港, 気持ち, メリケンパーク, タイミング, カフェ, 居心地, クルーズ, ワンチャン, 航空機, スイーツ, コース, 大阪湾
+cluster1:(3)
+在住, 友人, 旧友
+cluster2:(5)
+方面, ファンタジー号, 横, カフェ風, 海
+cluster3:(2)
+人気, 女性
+cluster4:(2)
+次, 時期
+cluster5:(1)
+価格
+cluster6:(1)
+気分
+cluster7:(2)
+上着, アルコール類
+cluster8:(3)
+中突堤中央ターミナル, 兵庫県, 神戸空港
+cluster9:(14)
+沖, 観光, 乗船, 景色, 港, 船内, セット券, フリー観光, 桟橋, 船, 観光船, 観覧車, 離着陸風景, クルーズ船
+cluster10:(2)
+造船所, 右舷方向
+
+howmany entities : 56
+howmany clusters : 11
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 5
+deleted 10entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベンの家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+異人館, 異人館めぐり, 異人館三館セット
+cluster1:(3)
+ベン, ベンの家, ベン・アリソン
+cluster2:(6)
+動物, ヘラ鹿, 生物室, アルコール標本, 動物の剥製, 剥製
+cluster3:(25)
+神戸, 姿, ホームズグッズ, 丈, 明治, 坂, 人, 世界, 北野, 身, メタルカラー, 家, シロクマ, トナカイ, イギリス, 壁, 昔, 階段, インテリア風, 迫力, 蝶, 不気味さ, 北極熊, ヘラジカ, 貴族
+cluster4:(2)
+土産ショップ, 土産
+cluster5:(2)
+英国館, 館
+cluster6:(3)
+洋館, 建物, 邸宅
+cluster7:(2)
+館内, 展示
+cluster8:(1)
+車庫
+cluster9:(1)
+窓枠
+
+howmany entities : 48
+howmany clusters : 10
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 5
+deleted 8entities.

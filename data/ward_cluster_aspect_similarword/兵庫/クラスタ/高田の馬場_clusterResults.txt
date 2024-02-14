@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高田の馬場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+GW姫路, 姫路おでん, 姫路土産, 姫路
+cluster1:(5)
+店員, 土産物店, 集客, 店, 立地
+cluster2:(3)
+黒豆, 茶, 菓子
+cluster3:(2)
+付近, 近く
+cluster4:(2)
+目, 前
+cluster5:(2)
+方, 中
+cluster6:(1)
+美味しさ
+cluster7:(2)
+おでん, つまみ
+cluster8:(5)
+サービス, ランチ, 高田馬場, テレビ, お薦め
+cluster9:(1)
+土産物
+cluster10:(2)
+姫路城, あなご
+cluster11:(4)
+食堂, 食事, 名物, 昼
+cluster12:(1)
+鰻重
+cluster13:(6)
+土産屋, ろの屋敷, 土産売り場, 土産, 土産物屋, 信号機
+cluster14:(1)
+家老屋敷跡公園
+
+howmany entities : 41
+howmany clusters : 15
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 6
+deleted 14entities.

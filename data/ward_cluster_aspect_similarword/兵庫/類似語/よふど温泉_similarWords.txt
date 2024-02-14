@@ -1,0 +1,11 @@
+--------------------similar_words:よふど温泉--------------------
+top3 entities near to cluster2>>
+肌, 温度, 身体
+top3 entities near to cluster5>>
+サウナ, 水風呂, ラドン
+top3 entities near to cluster6>>
+露天風呂, ご飯, ごはん
+top3 entities near to cluster8>>
+男性人, 女性人, 男性, 女性
+top3 entities near to cluster9>>
+温泉, 湯, お湯

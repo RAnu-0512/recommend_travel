@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝塚ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+場所, ところ, スタッフ, 気持ち, 姉さん, レストラン, ゴルフ, グリーン, プレー, トイレ, かしこ, ゴルフコース, 中, 雰囲気, コース, オススメ
+cluster1:(2)
+感じ, 状態
+cluster2:(2)
+対応, 利用
+cluster3:(2)
+宝塚, 芝
+cluster4:(4)
+ゴルフ場, 清掃, 施設, 設備
+cluster5:(5)
+風呂, 休日, 食事, 中華, 交通
+cluster6:(1)
+利便性
+cluster7:(1)
+従業員
+
+howmany entities : 33
+howmany clusters : 8
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 3
+deleted 8entities.

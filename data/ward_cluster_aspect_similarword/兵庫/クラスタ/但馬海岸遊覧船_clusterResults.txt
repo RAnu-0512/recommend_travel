@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:但馬海岸遊覧船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(34)
+場所, 島, 子供連れ, 波, 説明, 話, ランチ, 人, 岩肌, ジオパーク, グラスボート, 数々, 乗り場, 但馬, 前, 時間, 島々, スリル, 海底, 海岸, ジオパーク館, 日本, 渡辺水産, 天候, 揺れ, 隣, マル海, コース, 子供, 迫力, 洞窟, 海, 風, オススメ
+cluster1:(14)
+就航時間, 運航時間, 運転席, 観光, 乗船, 遊覧船, 客, あまり船, 船, 船長, ゆっくり船, 運航, 船旅, 観光客
+
+howmany entities : 48
+howmany clusters : 2
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 2
+deleted 0entities.

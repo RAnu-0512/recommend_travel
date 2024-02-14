@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:chord farm 175>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+いちご狩り, イチゴ狩り
+cluster1:(21)
+スタッフ, 気持ち, ベンチ, 貸出, 次, ☆スタッフ, イチゴ, 自販機, 建物, 傘, ウエットティッシュ, 方, いちご他, いちご, 大粒, 店, 小学生, 受付, 雨, 美味しさ, ハウス
+cluster2:(4)
+食べ比べ, 子供たち, 土産いちご, 土産
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 2entities.

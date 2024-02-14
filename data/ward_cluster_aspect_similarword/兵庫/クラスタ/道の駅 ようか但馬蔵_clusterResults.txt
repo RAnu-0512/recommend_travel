@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 ようか但馬蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+豊岡道, 但馬牛, 八鹿氷ノ山インターチェンジ, 八鹿豚
+cluster1:(3)
+山椒, 山椒ロールケーキ, 山椒ペースト
+cluster2:(18)
+ロールケーキ, 蕎麦, もの, レストラン, 豚まん, 限定, 行き帰り, 日, ソフトクリーム, スキー, 駅, 道, インター直近, スタンプ, 地元, 他, 蔵, 朝倉
+cluster3:(8)
+休憩, 足湯, 飲食, 店内, 物販, 入浴, 温泉, 売店
+cluster4:(5)
+土産品, 品, 土産, 土産物屋, 駐車場
+cluster5:(1)
+八鹿豚のカツ定食但馬鶏
+
+howmany entities : 39
+howmany clusters : 6
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 5
+deleted 1entities.

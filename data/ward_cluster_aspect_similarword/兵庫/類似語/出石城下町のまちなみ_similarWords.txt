@@ -1,0 +1,53 @@
+--------------------similar_words:出石城下町のまちなみ--------------------
+top3 entities near to cluster0>>
+ランチ, おみやげ, 美味しい
+top3 entities near to cluster2>>
+町並み, 街並み, 町並
+top3 entities near to cluster10>>
+歴史, 起源, 時代
+top3 entities near to cluster12>>
+周辺, 中心, 一帯
+top3 entities near to cluster15>>
+奥, 路地, 横
+top3 entities near to cluster18>>
+食べ, 食する, 比べ
+top3 entities near to cluster19>>
+風味, 香り
+top3 entities near to cluster20>>
+風情, 好み, 趣き
+top3 entities near to cluster25>>
+薬味, 出汁, 野菜
+top3 entities near to cluster26>>
+店舗, 期間
+top3 entities near to cluster34>>
+散策, 散歩, 歩く
+top3 entities near to cluster35>>
+子供, 家族, 夫婦
+top3 entities near to cluster36>>
+景色, 風景, 紅葉
+top3 entities near to cluster37>>
+早朝, 往復
+top3 entities near to cluster38>>
+土産, 訪問, 食事
+top3 entities near to cluster40>>
+運転手, 運転
+top3 entities near to cluster41>>
+昔, お昼, 今日
+top3 entities near to cluster45>>
+城跡, 城址, 城
+top3 entities near to cluster50>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster51>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster52>>
+蕎麦屋, そば屋, 蕎麦, そば
+top3 entities near to cluster53>>
+蕎麦屋, そば屋, 蕎麦, そば
+top3 entities near to cluster54>>
+そば, 皿, 蕎麦
+top3 entities near to cluster55>>
+蕎麦, そば, ソバ
+top3 entities near to cluster57>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster60>>
+駐車場, 駐車, 敷地

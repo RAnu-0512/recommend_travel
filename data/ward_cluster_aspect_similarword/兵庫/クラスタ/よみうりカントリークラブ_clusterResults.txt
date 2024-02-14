@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:よみうりカントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コース, トーナメント
+cluster1:(1)
+初心者
+cluster2:(1)
+コスト
+cluster3:(1)
+オープンコンペ
+cluster4:(1)
+人気
+cluster5:(1)
+プロ
+cluster6:(1)
+名門コース
+cluster7:(1)
+ゴルフ場
+cluster8:(1)
+ハイシーズン
+cluster9:(1)
+利用者
+
+howmany entities : 11
+howmany clusters : 10
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 11entities.

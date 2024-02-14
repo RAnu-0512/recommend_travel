@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河原町妻入商家群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東, 南
+cluster1:(17)
+城下町, 土産物, 買い物, 街並み, スタッフ, 帰り道, スペース, スポット, 奥行き, 笑, 商品, タイム, 河原町, 雰囲気, 店, アクセント, 交差点
+cluster2:(3)
+構造, 大小, 特徴
+cluster3:(2)
+日本, 現代
+cluster4:(6)
+場所, 人, 目, 家, 前, 近く
+cluster5:(3)
+所々, 南側, 側
+cluster6:(5)
+映えストリート, 面影, 景観, 風景, 写真撮影
+cluster7:(10)
+屋敷, 鬼瓦, 灯篭, 民家, 建物, 間口, 白壁, 電線, 壁, 商家
+cluster8:(2)
+町歩き, 町
+cluster9:(5)
+唄, 民宿, 街道, 宿, デカンショ節
+cluster10:(2)
+きらい稲荷, 妻入り
+cluster11:(2)
+建造物群保存地区, 河原町妻入商家群
+cluster12:(2)
+市営駐車場, 駐車場
+cluster13:(3)
+能楽資料館, 史料館, 丹波古陶館
+cluster14:(11)
+篠山城址, 食べ物屋, 商店街, 雑貨屋, 瓦屋根, 観光地, 萩津和野, 倉敷美観地区, 篠山, 古民家, 藩政時代
+
+howmany entities : 75
+howmany clusters : 15
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 9
+deleted 12entities.

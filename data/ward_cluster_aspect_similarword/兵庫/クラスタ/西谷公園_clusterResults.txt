@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西谷公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+里山風景, 四季折々
+cluster1:(2)
+展望台, 駐車場
+cluster2:(9)
+公園, 自然, ハイキング, 弁当, 家族連れ, 運動, 解消, 運動不足, ハイキングコース
+cluster3:(1)
+都市近郊型里山公園
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 5entities.

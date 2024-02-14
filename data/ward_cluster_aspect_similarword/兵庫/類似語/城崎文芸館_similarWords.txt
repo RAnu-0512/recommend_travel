@@ -1,0 +1,15 @@
+--------------------similar_words:城崎文芸館--------------------
+top3 entities near to cluster1>>
+中学校, 小学校, 教科書
+top3 entities near to cluster2>>
+資料, 記憶, 文字
+top3 entities near to cluster3>>
+人物, 作品, 作家
+top3 entities near to cluster4>>
+匂い, 相性, におい
+top3 entities near to cluster5>>
+展示場, 展示, 駐車場, 駐車
+top3 entities near to cluster9>>
+文学, 文芸, 館
+top3 entities near to cluster10>>
+温泉, 足湯, 旅館

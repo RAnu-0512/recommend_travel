@@ -1,0 +1,33 @@
+--------------------similar_words:六甲ケーブル--------------------
+top3 entities near to cluster0>>
+乗り物, 街並み, アトラクション
+top3 entities near to cluster1>>
+傾斜, 勾配, 気温
+top3 entities near to cluster5>>
+斜め, 上側
+top3 entities near to cluster6>>
+子供, 子ども, 大人
+top3 entities near to cluster8>>
+景色, 夜景, 絶景
+top3 entities near to cluster9>>
+駅, 駅前, 構内
+top3 entities near to cluster12>>
+山頂, 頂上, 中腹
+top3 entities near to cluster13>>
+木々, 山々, 紅葉
+top3 entities near to cluster14>>
+山, 海, 麓
+top3 entities near to cluster15>>
+乗車, 運行, 運転
+top3 entities near to cluster17>>
+車両, 車体
+top3 entities near to cluster19>>
+乗り場, バス, バスターミナル
+top3 entities near to cluster20>>
+運賃, 片道, 料金
+top3 entities near to cluster22>>
+子供, 人達
+top3 entities near to cluster24>>
+展望台, 駐車台, 展望, 駐車
+top3 entities near to cluster28>>
+駅, 山頂, 山麓

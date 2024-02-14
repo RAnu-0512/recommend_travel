@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平池公園の大賀ハス(兵庫県)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+大賀, 古代ハス, ハス好き, ハス, 一面ハス, ハス公園, 大賀ハス
+cluster1:(2)
+詳し内容, 休憩所
+cluster2:(16)
+場所, もの, 人, 人気, 季節, 内容, 時間, 道, 方, 中, 時期, 他, こと, 回り, 名前, 近く
+cluster3:(6)
+現実, 全国, 世界, 個人, 独特, 太古
+cluster4:(5)
+植物, 大輪, 花, 甕, 蓮
+cluster5:(3)
+散歩, 池, 公園
+cluster6:(4)
+絵画, 景色, 楽し, 写真
+cluster7:(2)
+白, 赤
+cluster8:(4)
+スイセン, スイレン, ショウブ, ハナショウブ
+cluster9:(3)
+ランチ, ベンチ, コンビニ
+cluster10:(3)
+ピンク, ピンク色, 雰囲気
+cluster11:(1)
+教科書
+cluster12:(1)
+クロウ
+cluster13:(3)
+子ども, 娘, 子供
+cluster14:(1)
+博士
+cluster15:(5)
+平池公園, 加東市, 水生植物, 観光客, 兵庫県
+
+howmany entities : 66
+howmany clusters : 16
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 11
+deleted 7entities.

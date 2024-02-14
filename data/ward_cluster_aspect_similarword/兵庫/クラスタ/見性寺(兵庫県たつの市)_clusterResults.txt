@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:見性寺(兵庫県たつの市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+右手, 製作, カープ, 唯一
+cluster1:(2)
+寺, 町
+cluster2:(1)
+平安
+cluster3:(1)
+腰部
+cluster4:(1)
+宝塔
+cluster5:(1)
+室津
+cluster6:(1)
+時代後期
+cluster7:(1)
+五ケ精舎
+cluster8:(1)
+文人墨客
+cluster9:(2)
+室津の長の娘・室, 木造毘沙門天立像@重文
+
+howmany entities : 15
+howmany clusters : 10
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 11entities.

@@ -1,0 +1,35 @@
+--------------------similar_words:神戸市立森林植物園--------------------
+top3 entities near to cluster0>>
+植物園, 植物, 森林
+top3 entities near to cluster1>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster3>>
+写真, 家族
+top3 entities near to cluster6>>
+実施, 方法, 行う
+top3 entities near to cluster8>>
+コース, ハイキング, トレランコース
+top3 entities near to cluster9>>
+紫陽花, あじさい, アジサイ
+top3 entities near to cluster10>>
+気持ち, 雰囲気, つもり
+top3 entities near to cluster11>>
+カフェ, トイレ, 乗り物
+top3 entities near to cluster12>>
+ハイキング, トレッキング, ウォーキング
+top3 entities near to cluster19>>
+景色, 登山, 山道
+top3 entities near to cluster20>>
+森池, 森, 木々
+top3 entities near to cluster21>>
+駐車料, 料金, 駐車
+top3 entities near to cluster25>>
+植物園, 動物園, 植物, 動物
+top3 entities near to cluster26>>
+広場, 散策, 公園
+top3 entities near to cluster27>>
+禮巨, 應弘
+top3 entities near to cluster28>>
+季節, 時季, 春先
+top3 entities near to cluster29>>
+紅葉, 新緑, 見頃

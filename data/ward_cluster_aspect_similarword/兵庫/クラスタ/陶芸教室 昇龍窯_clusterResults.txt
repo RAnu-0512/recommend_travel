@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶芸教室 昇龍窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+焼き上がり楽しみ, 粘土, 陶芸, 焼き上がり, 昇龍窯, 陶芸体験, 釉薬, 粘土細工
+cluster1:(4)
+器, 量, 欲, 蜜
+cluster2:(2)
+体験, 経験
+cluster3:(2)
+感じ, 覚悟
+cluster4:(1)
+世話
+cluster5:(1)
+何か
+cluster6:(3)
+生徒, 教室, 先生
+cluster7:(5)
+友達, 子, こども達, 家族, 子供
+cluster8:(22)
+作り方, 場所, 作品, 会話, 手, ランチ, エアコン, 久しぶり, 車, 下, 真横, 初心者, 仕上がり, 時間, 思い出, 建物, 土, 子ども, リピート, 予定, 小学生, 出来上がり
+cluster9:(1)
+m場所
+cluster10:(1)
+楽しさ
+cluster11:(2)
+学校行事, 駐車場
+cluster12:(1)
+緊急事態宣言
+
+howmany entities : 53
+howmany clusters : 13
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 5
+deleted 11entities.

@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:綾部山梅林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+姫路, 相生, 室津, 兵庫県
+cluster1:(4)
+傾斜, 坂道, 勾配, 坂
+cluster2:(11)
+敷地, 花, 海, 自然, 世界, 中腹, 景色, 全体, 頂上, 山, 猿まわし
+cluster3:(3)
+演奏, 訪れ, 満開
+cluster4:(2)
+春先, 春
+cluster5:(2)
+季節, 時期
+cluster6:(1)
+日程
+cluster7:(2)
+よ., 木
+cluster8:(2)
+運動, 足
+cluster9:(4)
+横, 下, 付近, 近く
+cluster10:(3)
+先, 方, こと
+cluster11:(3)
+人, 子供, 目
+cluster12:(2)
+種類, 時間
+cluster13:(1)
+人気
+cluster14:(1)
+不便
+cluster15:(1)
+本数
+cluster16:(11)
+色とりどり, ホテル, メイン, シーズン, 飲み物, イベント, ピーク, ところ, 見ごたえ, ピンク, 入り口
+cluster17:(4)
+瀬戸内海, 西日本, 瀬戸内, 菜の花
+cluster18:(3)
+うめ, 白, 赤
+cluster19:(9)
+弁当, 餅, 甘酒, 土産, お勧め, 駐車場, 牡蠣, 家族連れ, 塩味饅頭
+cluster20:(18)
+播磨灘を見下ろせる海の見える梅林, 梅林, 菜の花畑, とれたて, 山一面, 梅, 御津梅太鼓, 梅公園, 入場料, 入場券, 余り梅, 綾部山梅林, 枝垂れ梅, 一面梅, ひとめ2万本, 梅園, ・・・梅, 梅ジュース
+
+howmany entities : 91
+howmany clusters : 21
+howmany entities (more than3entities) : 77
+howmany clusters (more than3entities) : 12
+deleted 14entities.

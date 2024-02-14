@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:こうでら温泉竹取の湯 香寺荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+洗い場, 感じ, 竹林, 婦人, サウナ, 露天風呂, 雑誌, 便器周り, ジェットバス, 道路, 気持ち, 汚れ, テレビ, レストラン, 休み, 炭酸泉, ミニカー, レベル, 芯, 埃, 建物, トイレ, 身体, 体, 水風呂
+cluster1:(2)
+洗面台, 駐車場
+cluster2:(2)
+湯温, 湯質
+cluster3:(2)
+炭酸, 炭酸温泉
+cluster4:(3)
+風呂, 掃除, 入浴
+cluster5:(5)
+露天, 浴場, 日帰り温泉, 湯, 温泉
+
+howmany entities : 39
+howmany clusters : 6
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 3
+deleted 6entities.

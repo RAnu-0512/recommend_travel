@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ポートライナー三宮駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+神戸三宮, 神戸, 三宮駅, 三ノ宮駅, 関西旅, 新交通システム, 電車, 阪神電車, JR, 駅, 神戸空港, 西
+cluster1:(19)
+感じ, 空, ラッシュアワー, 人波, 景色, 逆方向, 人, 始発駅, ポートライナー, 確認, 席, 乗り心地, 方, 予定, 必要, ホーム, スペース, 違い, 乗り換え
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 0entities.

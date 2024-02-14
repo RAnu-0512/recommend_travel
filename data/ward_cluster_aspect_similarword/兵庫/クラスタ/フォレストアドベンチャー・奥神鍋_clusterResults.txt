@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フォレストアドベンチャー・奥神鍋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高さ, 怖さ
+cluster1:(5)
+感じ, ほう, 扱い方, 方, 感じ方
+cluster2:(2)
+大型車, 対向車
+cluster3:(10)
+小学, 子, 主人, 人, 大人, 男子, 身長ギリギリ, 家族, 子供, 娘
+cluster4:(12)
+値段, 次回, 位置, 下, 別コース, 中, 自信, 現地, 木, 受付, 体験, 上
+cluster5:(2)
+アドベンチャーコース, コース
+cluster6:(12)
+チェック, ところ, スタッフ, ターザン, ジップライン, アスレチック, キャノピー, アクティビティ, キャノピーコース, フォレストアドベンチャー, ハーネス, 小学生
+cluster7:(2)
+使い方, ビデオ
+cluster8:(1)
+スイカ
+cluster9:(1)
+綱渡り
+cluster10:(1)
+その子
+cluster11:(3)
+道路, 手袋, 装置
+cluster12:(1)
+アザ
+cluster13:(3)
+時間指定, 安全講習, 時間
+
+howmany entities : 57
+howmany clusters : 14
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 6
+deleted 12entities.

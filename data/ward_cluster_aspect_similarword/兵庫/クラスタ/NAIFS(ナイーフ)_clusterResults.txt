@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NAIFS(ナイーフ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レジ, 接客
+cluster1:(5)
+店員, 客, 店内, 店, 男性
+cluster2:(1)
+食器
+cluster3:(5)
+感じ, 事, こと, 気分, かく当たり
+cluster4:(22)
+各国, 場所, 後ろ, モットー, 口コミ, タイミング, アジア, レベル, オーナー, 子連れ, 無愛想, レシート, 婆さん, 咳払い, 方, 雰囲気, 子供, 他, こっち, 孫, 地元, 中心
+cluster5:(2)
+価格, 商品
+cluster6:(2)
+声, 顔
+cluster7:(2)
+老舗, 年代
+cluster8:(1)
+岡本
+cluster9:(5)
+品揃え, 雑貨, 雑貨屋, 雑貨店, アジアン雑貨
+
+howmany entities : 47
+howmany clusters : 10
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 4
+deleted 10entities.

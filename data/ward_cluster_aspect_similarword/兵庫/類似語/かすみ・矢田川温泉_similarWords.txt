@@ -1,0 +1,17 @@
+--------------------similar_words:かすみ・矢田川温泉--------------------
+top3 entities near to cluster0>>
+住民, 宿泊, 町営
+top3 entities near to cluster1>>
+景色, 海, 山
+top3 entities near to cluster4>>
+建物, 施設, 商品
+top3 entities near to cluster5>>
+家族, 乗客
+top3 entities near to cluster6>>
+肌, 露天風呂, サウナ
+top3 entities near to cluster7>>
+気分, 悪口
+top3 entities near to cluster11>>
+脱衣場, 脱衣, 所内
+top3 entities near to cluster21>>
+露天, 露天風呂, 温泉

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古法華自然公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+キャンプ場, バーベキュー場, 駐車場
+cluster1:(2)
+公園, 自然公園
+cluster2:(24)
+途中, 場所, 管理者, ウォーキング, テント, 使用, そば, 自然, ゴールデンウイーク, 花, 彩り, 規模, 賑わい, トイレ, 側, 春, 散歩道, キャンプ, 中, 八重桜, 子供, 時期, 必要, 気分
+cluster3:(3)
+ハヤ, 鮠, 枯野
+cluster4:(7)
+山桜, 小川, 山腹, 古法華寺, 小山, 岩山, 沿道
+cluster5:(5)
+紅梅白梅, 古法華自然公園, 大柳ダム, 加西市, ダム湖
+
+howmany entities : 44
+howmany clusters : 6
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 5
+deleted 2entities.

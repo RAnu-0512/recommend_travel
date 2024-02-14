@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍野公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+龍野公園, 龍野城, 龍野城周辺の桜
+cluster1:(2)
+動物園, ^)/動物園
+cluster2:(7)
+桜, 花見, 花見シーズン, 満開, 花見客, 夜桜, チリ桜
+cluster3:(6)
+散策, 自然, 碑, 周辺, 名所, 公園
+cluster4:(2)
+季節, 時期
+cluster5:(2)
+場所, こと
+cluster6:(11)
+ライト, 人, スポット, 姫路城, 花, 遊歩道, 赤とんぼ, 春, オススメ, 木, 昼
+cluster7:(1)
+赤トンボ
+cluster8:(1)
+駐車場
+cluster9:(1)
+県下有数
+
+howmany entities : 36
+howmany clusters : 10
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 9entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富松神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+神社, 人, 態度, 境内, クチコミ, 守り神, 城跡, 楠, 神, 方, 中, 評価, こと, 初詣, 地元, 住宅街, 行基, 絵馬
+cluster1:(3)
+阪急, 塚口駅, 阪急武庫之荘駅
+cluster2:(2)
+富松城跡, 富松城
+cluster3:(2)
+富松, 富松市
+cluster4:(1)
+御城印
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 5entities.

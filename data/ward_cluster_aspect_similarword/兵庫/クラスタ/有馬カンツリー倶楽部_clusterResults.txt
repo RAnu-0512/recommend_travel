@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有馬カンツリー倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+コンペ, ゴルファー, ラウンド, フェアウェイ, コース, アウトコース, 初心者, ホール, インコース
+cluster1:(3)
+ゴルフ場, 距離, 勇気
+cluster2:(1)
+戦略性
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 1entities.

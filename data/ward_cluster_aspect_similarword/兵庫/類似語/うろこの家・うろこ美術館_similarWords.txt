@@ -1,0 +1,45 @@
+--------------------similar_words:うろこの家・うろこ美術館--------------------
+top3 entities near to cluster0>>
+異人, 館, 洋館
+top3 entities near to cluster1>>
+異人, 館街, 館
+top3 entities near to cluster2>>
+異人, 館, 洋館
+top3 entities near to cluster3>>
+絵画, うろこ
+top3 entities near to cluster4>>
+天然石, 天然, パワーストーンビーズ
+top3 entities near to cluster5>>
+神戸港, 風見鶏, トーアロード
+top3 entities near to cluster7>>
+街並み, 市街地, 町並み
+top3 entities near to cluster9>>
+オブジェ, デイスプレー, デザイン
+top3 entities near to cluster16>>
+異彩, きつい
+top3 entities near to cluster17>>
+入館料, 入場料, 入館, 入場
+top3 entities near to cluster18>>
+調度品, 調度, 品等
+top3 entities near to cluster21>>
+うろこ状, うろこ, ウロコ
+top3 entities near to cluster22>>
+展望, 展望台, 展望塔
+top3 entities near to cluster23>>
+外国人, 外国, 海外
+top3 entities near to cluster24>>
+家具, 建築, 建物
+top3 entities near to cluster25>>
+訪問, 見学, 視察
+top3 entities near to cluster26>>
+景色, 景観, 眺望
+top3 entities near to cluster28>>
+中庭, 庭, 窓
+top3 entities near to cluster29>>
+建物, 外壁, 内装
+top3 entities near to cluster33>>
+売店, 徒歩
+top3 entities near to cluster34>>
+洋館, めぐり
+top3 entities near to cluster37>>
+館, 棲龍, 賓日

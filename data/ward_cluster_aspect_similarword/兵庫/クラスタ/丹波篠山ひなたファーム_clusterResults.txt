@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波篠山ひなたファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+人参, 野菜, 大根, 黒枝豆, 白菜, 夏野菜
+cluster1:(3)
+都合, 量, 力
+cluster2:(2)
+軍手, 泥
+cluster3:(2)
+土産, 体験
+cluster4:(11)
+頭, キクイモ, 山盛り, オーナー, 大人, それぞれ, 日にち, 中, 冬, バスケット, オクラ
+cluster5:(3)
+根元, 山, 畑
+cluster6:(1)
+カマ
+cluster7:(2)
+収穫方法, 遠足み
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 7entities.

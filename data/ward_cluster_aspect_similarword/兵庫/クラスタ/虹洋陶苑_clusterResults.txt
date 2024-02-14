@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:虹洋陶苑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+絵付け, 絵
+cluster1:(2)
+旅, 体験
+cluster2:(8)
+メンバー, 人, 両親, 子供, こと, 小学生, エピソード, 出来上がり
+cluster3:(4)
+記念, 場, 皿, 裏
+cluster4:(1)
+日付
+cluster5:(1)
+良さ
+cluster6:(1)
+出石焼き
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 7entities.

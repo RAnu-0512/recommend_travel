@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立歴史博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+姫路, 兵庫県, JR姫路駅, 姫路駅, 兵庫県立歴史博物館
+cluster1:(6)
+展示物, 展示物内容, 展示品, 特別展, 随時企画展, 浮世絵展
+cluster2:(17)
+大人, 見学, 子供博物館, こども文化, 見学ゾーン, 歴史博物館, 観光スポット, 装束, 障害者, 子供, 歴史工房, 妖怪, 解読説明, 建築設計, 甲冑, 歴史, 文化
+cluster3:(2)
+立派さ, 重さ
+cluster4:(3)
+解説, 説明, 勉強
+cluster5:(2)
+体験, 祭り
+cluster6:(5)
+思い, 内容, もの, 企画, こと
+cluster7:(1)
+ガラス作り
+cluster8:(2)
+館内, 展示
+cluster9:(3)
+建物, 施設, 職員
+cluster10:(2)
+外壁, 模型
+cluster11:(2)
+金, 昭和
+cluster12:(2)
+こども博物館, 博物館
+cluster13:(2)
+成り立ち, ところ
+cluster14:(3)
+コーナー, スペース, スポット
+cluster15:(1)
+エリア
+cluster16:(1)
+カフェ
+cluster17:(1)
+ゾーン
+cluster18:(4)
+日時計, 古文書, 姫路城, ガラス
+cluster19:(7)
+北側, 世界, 多く, 中, 構造, 場所, 近く
+cluster20:(9)
+2F有料, 有料エリア, 玄関前テラス, ます.2F, 有料, 無料ゾーン, 有料ゾーン, シロトピア記念公園, 駐車場
+cluster21:(7)
+歴代城主, 丹下健三, 城, 姫路城と城下町, 世界遺産姫路城, お城博物館, 城と城下町
+
+howmany entities : 87
+howmany clusters : 22
+howmany entities (more than3entities) : 69
+howmany clusters (more than3entities) : 11
+deleted 18entities.

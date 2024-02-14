@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新田ふるさと村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+地元産, あまご, 子供達, 徒歩圏, 子供たち, 新田ふるさと村
+cluster1:(2)
+ゴミ袋, ゴミ
+cluster2:(8)
+友達, 人, 知人, 父, 家族, 子供, 子キャビン, 娘
+cluster3:(2)
+予約, シャワー施設
+cluster4:(2)
+ところ, 雰囲気
+cluster5:(5)
+キャビン, バーベキュー, ログコテージ, キャンプ, 持ち帰り
+cluster6:(3)
+もの, 笑, 気
+cluster7:(6)
+場所, 周り, 中, 店, 地元, 近く
+cluster8:(1)
+不動
+cluster9:(5)
+行き当たりばったり, 蕎麦, おそば, 汚さ, 美味しさ
+cluster10:(2)
+キャンプ場, 遊び場 オートキャンプ場
+cluster11:(2)
+曇り, 小雨
+cluster12:(4)
+机, 野外, 椅子, 遊具
+cluster13:(2)
+網, 虫
+cluster14:(5)
+緑, 空気, 自然, 川, 水
+cluster15:(1)
+水車
+
+howmany entities : 56
+howmany clusters : 16
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 8
+deleted 14entities.

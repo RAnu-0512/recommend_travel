@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふれあい温泉・おじろん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+源泉, 内湯, 湯, 温泉
+cluster1:(2)
+店員, 客
+cluster2:(11)
+サウナ, ポイント, 露天風呂, ボディーソープ, リンスインシャンプー, おじさん, スキー, 大人, 茶褐色, スタンプ, カレンダー
+cluster3:(2)
+対応, 施設
+cluster4:(1)
+デー
+cluster5:(1)
+スキー場
+cluster6:(3)
+休憩室, 日帰り入浴施設, 温度低め
+cluster7:(1)
+ポイント2倍デー
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 7entities.

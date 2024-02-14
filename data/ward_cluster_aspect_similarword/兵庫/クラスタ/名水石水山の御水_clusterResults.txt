@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名水石水山の御水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+水, 宮水, b水, 御水
+cluster1:(4)
+地酒, 柵, 堂, 道
+cluster2:(1)
+名水石水山
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 1entities.

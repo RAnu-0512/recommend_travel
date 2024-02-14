@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御所泉源>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+太閤泉, 有馬温泉, 御所泉源, 有馬町, 泉質, 元祖有馬温泉
+cluster1:(23)
+天神, 場所, 湯気, 鉄分, 地底, 源泉, 有明, 蒸気, 湧出, 温泉街, 極楽泉源, 炭酸泉源, 金, 日本, 温泉寺, 事, 泉源, 金泉, 塩分濃度, 湯, 温泉, 塩分, 泉源巡り
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 0entities.

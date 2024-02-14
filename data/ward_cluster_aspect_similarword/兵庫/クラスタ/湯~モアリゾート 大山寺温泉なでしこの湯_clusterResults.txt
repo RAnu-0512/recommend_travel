@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯~モアリゾート 大山寺温泉なでしこの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+神戸, ラジウム泉, 天然
+cluster1:(6)
+趣, 温度, 効果, 肌, 体, マイナス点
+cluster2:(19)
+NO, ところ, サウナ, 近隣, スペース, 露天風呂, 人, レストラン, 家, 多く, 町, コスパ, リゾート, 方々, 漫画, 大山寺, 紅葉狩り, 地元, 近く
+cluster3:(1)
+国宝大山寺
+cluster4:(1)
+国産原料
+cluster5:(10)
+温泉棟, 送迎バス, 脱衣所, 温浴施設, 清掃, 施設, 清掃道具, 宿泊施設, 高齢者, 宿泊棟
+cluster6:(11)
+風呂, 露天, 掛け流し温泉, ラジウム温泉, 源泉, 浴場, 湯温, 天然ラドン温泉, お湯, 湯, 温泉
+cluster7:(1)
+地下鉄学園都市駅
+
+howmany entities : 52
+howmany clusters : 8
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 5
+deleted 3entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅東浦ターミナルパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東海地区, 東浦マルシェ, 鍵庄
+cluster1:(4)
+値段, 味, 種類, 厚み
+cluster2:(4)
+客, 中, 淡路島, 大勢
+cluster3:(3)
+駅, 高速, 道
+cluster4:(4)
+タコ, 干物, 味付け海苔, 大袋
+cluster5:(1)
+桟敷
+cluster6:(1)
+姿焼き
+cluster7:(4)
+農水産物, 産地直売, 野菜類, 海藻類
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 6
+deleted 2entities.

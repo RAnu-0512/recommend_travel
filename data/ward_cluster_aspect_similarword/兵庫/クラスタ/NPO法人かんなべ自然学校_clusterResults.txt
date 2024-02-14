@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NPO法人かんなべ自然学校>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+雪山キャンプ, 陰, 新緑, 自然, 魚, 自然相手, 季節, 滝, 川, 溶岩
+cluster1:(2)
+教室, スキー教室
+cluster2:(5)
+質問, 知識, 答え, 興味, 経験
+cluster3:(3)
+心, 身体, 年齢
+cluster4:(4)
+遊び, アミューズメント施設, 学校, 仕事
+cluster5:(2)
+気持ち, 思い出
+cluster6:(2)
+アスレチック, キャンプ
+cluster7:(3)
+フィナーレ, リラックス, オススメ
+cluster8:(2)
+ガイド, コース
+cluster9:(1)
+ラバートレッキング
+cluster10:(2)
+周り, 時間
+cluster11:(1)
+感動
+cluster12:(1)
+充実度
+cluster13:(6)
+子供連れ, 子供達, 子供たち, 運動神経, かんなべ自然学校, 子供
+
+howmany entities : 44
+howmany clusters : 14
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 6
+deleted 13entities.

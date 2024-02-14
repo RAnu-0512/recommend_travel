@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:独鈷の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+迫力, 落差
+cluster1:(2)
+災害, 被害
+cluster2:(2)
+場所, 道
+cluster3:(2)
+滝, 石
+cluster4:(1)
+独鈷の滝
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

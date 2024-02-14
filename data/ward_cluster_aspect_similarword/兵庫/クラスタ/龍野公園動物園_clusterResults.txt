@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍野公園動物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+池田・五月山, 大阪府
+cluster1:(20)
+動物園, 龍野公園, チャボ, 動物, ヒツジ, 入場, 子供たち, 見どころ, ツキノワグマ, 白クジャク, 顔, ニワトリ, 公園, キンケイ, 子供, サルクジャク, 猿, ヤギ, 近く, 駐車場
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 1
+deleted 2entities.

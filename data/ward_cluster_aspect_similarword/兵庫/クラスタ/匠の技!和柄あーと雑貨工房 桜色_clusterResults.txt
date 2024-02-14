@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:匠の技!和柄あーと雑貨工房 桜色>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+粉塵, 粉
+cluster1:(15)
+ほう, 体験スペース, 中, スタッフ, 色, グラインダー, 作業, ベルトサンダー, 服, 他, 目, 施設, レジン, エプロン, テンション
+cluster2:(1)
+参加者皆
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 3entities.

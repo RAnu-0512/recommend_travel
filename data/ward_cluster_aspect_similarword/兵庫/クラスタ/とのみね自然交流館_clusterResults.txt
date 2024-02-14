@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:とのみね自然交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+俳優, 映画, コーヒー, ドラマ, 景色, ロケ, 当地, もの, スチール, サイン, 目, 東屋, ソフトクリーム, 写真展示, ハイキング, ススキ, ロケ地
+cluster1:(5)
+砥峰高原, 高原アイス, 大河内高原, 釜飯弁当, 高原
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

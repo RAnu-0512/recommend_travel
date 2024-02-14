@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大野山キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+キャンプ場, 炊事棟, 排水口, 炊事場
+cluster1:(5)
+下界, 山頂, 地面, 斜面, 頂上
+cluster2:(10)
+注意, 所, 場所, 禁止, 予約, 匂い, 勢い, 水, 状況, 気
+cluster3:(2)
+満開, 星空
+cluster4:(15)
+乗り入れ, テント, プラネタリウム, ズボン, 人, 天文台, ソロキャンプ, アルプスランド, マナー, 人混み, アジサイ, トイレ, 鹿, 大野山, 紫陽花
+cluster5:(7)
+自動, 車, 糞, 山道, ゴミ, 道, 男子トイレ
+cluster6:(3)
+満タン, 直火関係, 大野アルプスランド
+
+howmany entities : 46
+howmany clusters : 7
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 6
+deleted 2entities.

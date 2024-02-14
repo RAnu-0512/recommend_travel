@@ -1,0 +1,13 @@
+--------------------similar_words:ありなしファーム--------------------
+top3 entities near to cluster0>>
+苺, 狩り, イチゴ
+top3 entities near to cluster2>>
+子供, 子ども, 友達
+top3 entities near to cluster3>>
+ハウス, トイレ, カフェ
+top3 entities near to cluster5>>
+時期, 時間, 種類
+top3 entities near to cluster6>>
+笑顔, 瞬間
+top3 entities near to cluster8>>
+駐車場, 公園, 駐車

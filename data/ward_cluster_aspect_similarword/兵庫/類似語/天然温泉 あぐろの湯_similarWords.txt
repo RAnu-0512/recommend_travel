@@ -1,0 +1,17 @@
+--------------------similar_words:天然温泉 あぐろの湯--------------------
+top3 entities near to cluster0>>
+女性人, 女性, 子供
+top3 entities near to cluster1>>
+サウナ, 銭湯, ホテル
+top3 entities near to cluster2>>
+敷地, 施設, 併設
+top3 entities near to cluster3>>
+バス, 駅, ジム
+top3 entities near to cluster4>>
+食事, 近所, 夕食
+top3 entities near to cluster8>>
+風呂, 湯船, 銭湯
+top3 entities near to cluster10>>
+温泉, 温泉郷, 露天風呂
+top3 entities near to cluster13>>
+食事, 駐車, 風呂

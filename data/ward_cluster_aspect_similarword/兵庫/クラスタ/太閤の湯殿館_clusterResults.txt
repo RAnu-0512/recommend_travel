@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太閤の湯殿館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+太閤の湯殿館, 秀吉の湯殿跡資料館
+cluster1:(3)
+太閤秀吉, 豊太閤, 太閤
+cluster2:(2)
+昔の太閤, 太閤の湯
+cluster3:(1)
+豊臣秀吉
+cluster4:(37)
+脇, 路地, 宿泊, 資料, 場所, サウナ, ところ, 坊, 角, 日帰り, 辺り, 人, 金字, 車, 蒸し風呂, 境内, 遺構, 歴史, 利用, いくつか, 見ごたえ, 次, 碑, 裏側, 極楽寺, ジャグジー, バラエティ, 状態, 跡, 金, 左手, 温泉寺, 方, 石段, 興味, 展示, 意外
+cluster5:(9)
+風呂, 岩盤浴, 湯当たり, 湯銀, 温泉湯, 銀の湯, 湯, 温泉, 岩風呂
+cluster6:(4)
+念仏寺, 有馬温泉, 湯山御殿, 有馬大茶会
+cluster7:(5)
+セット券, 有料施設, 公共温泉施設, 施設名, 施設
+cluster8:(2)
+湯殿, 湯殿館
+cluster9:(2)
+資料館, 発掘資料館
+cluster10:(1)
+いこうや岩ぶろ
+
+howmany entities : 68
+howmany clusters : 11
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 5
+deleted 10entities.

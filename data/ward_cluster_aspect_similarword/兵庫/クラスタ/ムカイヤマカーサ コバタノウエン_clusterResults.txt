@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ムカイヤマカーサ コバタノウエン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イチゴ, 方
+cluster1:(1)
+体験
+cluster2:(1)
+笑顔
+cluster3:(1)
+農園
+cluster4:(1)
+私達
+cluster5:(1)
+芋掘り
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

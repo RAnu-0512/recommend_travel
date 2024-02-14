@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼島海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+子供連れ, おのころ島, 子供たち, 子供
+cluster1:(3)
+自然, 自然現象, 透明度
+cluster2:(6)
+海水浴場, 泳ぎ, 魚, 赤潮, 釣り, 海
+cluster3:(2)
+評価, 価値
+cluster4:(2)
+フェリー乗り場, 船
+cluster5:(7)
+人, トイレ, 海水浴, シャンプー, シャワー, 淡路島, フェリー
+cluster6:(7)
+場所, 大阪, 南側, 半分, 水, 気, 近く
+cluster7:(1)
+工事
+cluster8:(1)
+星1
+cluster9:(1)
+兵庫県
+
+howmany entities : 34
+howmany clusters : 10
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 7entities.

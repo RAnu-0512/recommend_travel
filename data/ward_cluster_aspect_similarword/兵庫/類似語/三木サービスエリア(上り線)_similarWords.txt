@@ -1,0 +1,11 @@
+--------------------similar_words:三木サービスエリア(上り線)--------------------
+top3 entities near to cluster1>>
+レストラン, ホテル
+top3 entities near to cluster2>>
+休憩, 食事, 昼食
+top3 entities near to cluster4>>
+ビニール袋, 紙袋, ビニール
+top3 entities near to cluster5>>
+保冷, 蓄冷, 保温
+top3 entities near to cluster6>>
+土産, おみやげ, 土産物

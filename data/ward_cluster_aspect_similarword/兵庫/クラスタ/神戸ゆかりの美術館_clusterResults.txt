@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸ゆかりの美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+神戸, 神戸ゆかり, 六甲アイランド, 神戸ファッション美術館, 小磯記念美術館, 鶴舞公園
+cluster1:(15)
+作品, 公会堂, アクセス, ゆかり, 幻, ファン, チケット売り場, ファッション美術館, 名古屋, 美術館, 隣, エトランゼ, ポケモンゴー, 六甲ライナー, 近く
+cluster2:(4)
+訪問, 歴史, 建物, 施設
+cluster3:(5)
+芸術家, 企画展, 設計図, 設計者, 美術館巡り
+cluster4:(1)
+優待割引
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 1entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:但馬國出石観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出石皿そば巡り巾着セット, 出石皿そば巾着セット
+cluster1:(6)
+観光協会, 観光, いずし観光センター, 観光マップ, 観光センター, 観光案内
+cluster2:(18)
+休憩, 土産物, もの, 街, 情報, ほう, 定休日, 賑わい, 休憩スポット, トイレ, パンフレット, ツアー, 土産, 案内, マップ, 地図, 中心, 駐車場
+cluster3:(11)
+出石手帳, 蕎麦屋, ごみカフェ, そばフィナンシェ, 散策コース, そば, 皿そば, そばドーナツ, 出石, そば巡り コイン, そばソフト
+
+howmany entities : 37
+howmany clusters : 4
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 3
+deleted 2entities.

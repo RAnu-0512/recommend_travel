@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グラスファクトリー神戸店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+店員, 店, 他店
+cluster1:(2)
+値段, 代金
+cluster2:(18)
+感じ, 広告, スタッフ, 話, 返事, フレーム, 連絡, 眼鏡, 対応, 検査, 可, SNS, 事, レンズ, 気, 不安, 電話, 違和感
+cluster3:(1)
+再来店
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 3entities.

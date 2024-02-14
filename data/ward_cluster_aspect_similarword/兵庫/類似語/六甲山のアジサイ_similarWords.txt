@@ -1,0 +1,11 @@
+--------------------similar_words:六甲山のアジサイ--------------------
+top3 entities near to cluster0>>
+植物園, 動物園, 植物, 動物
+top3 entities near to cluster1>>
+梅雨, 気温
+top3 entities near to cluster3>>
+足, 脇
+top3 entities near to cluster4>>
+紫陽花, 花, アジサイ
+top3 entities near to cluster10>>
+道路, 山道

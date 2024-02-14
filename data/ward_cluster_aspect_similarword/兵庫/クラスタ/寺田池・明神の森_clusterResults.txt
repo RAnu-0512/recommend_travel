@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寺田池・明神の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+人, 散歩, 地元, 渡り鳥
+cluster1:(3)
+森, 池, 明神
+cluster2:(1)
+寺田池
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 1entities.

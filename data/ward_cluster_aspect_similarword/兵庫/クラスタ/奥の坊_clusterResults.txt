@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥の坊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+有馬温泉, 有馬
+cluster1:(2)
+坊, 奥の坊
+cluster2:(3)
+浴場, 旅館, 温泉
+cluster3:(2)
+女, 男
+cluster4:(2)
+ボリューム, メイン
+cluster5:(2)
+ロビー, ホテル
+cluster6:(2)
+最後, 中
+cluster7:(1)
+部屋
+cluster8:(1)
+物
+cluster9:(1)
+奥
+cluster10:(1)
+規模
+cluster11:(4)
+夕食, 肉, 接客, 料理
+cluster12:(1)
+兄弟夫婦
+cluster13:(1)
+作り込み
+cluster14:(1)
+従業員
+
+howmany entities : 26
+howmany clusters : 15
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 19entities.

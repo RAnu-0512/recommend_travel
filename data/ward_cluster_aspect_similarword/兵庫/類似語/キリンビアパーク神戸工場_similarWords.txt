@@ -1,0 +1,27 @@
+--------------------similar_words:キリンビアパーク神戸工場--------------------
+top3 entities near to cluster0>>
+ビール, 飲み物, ジュース
+top3 entities near to cluster2>>
+地元, 各地, 企業
+top3 entities near to cluster3>>
+子供, 家族, 子ども
+top3 entities near to cluster4>>
+食事, 試食, 写真
+top3 entities near to cluster5>>
+ビール, 地ビール, 生ビール
+top3 entities near to cluster6>>
+見学, 工場, 視察
+top3 entities near to cluster7>>
+製造, 生産, 工場
+top3 entities near to cluster8>>
+工場, 製造, 作業場
+top3 entities near to cluster9>>
+試飲, テイスティング, ティスティング
+top3 entities near to cluster11>>
+搾り, 搾っ, しぼり
+top3 entities near to cluster13>>
+立て, 立てる, たてる
+top3 entities near to cluster15>>
+食べ, やっ, 試し
+top3 entities near to cluster16>>
+送迎, 見学, 土産

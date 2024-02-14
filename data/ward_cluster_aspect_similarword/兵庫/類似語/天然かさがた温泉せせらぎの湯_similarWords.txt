@@ -1,0 +1,15 @@
+--------------------similar_words:天然かさがた温泉せせらぎの湯--------------------
+top3 entities near to cluster1>>
+ゴミ, 垢, 空気
+top3 entities near to cluster2>>
+女性, 男性, 子供
+top3 entities near to cluster3>>
+受付, 館内, 施設
+top3 entities near to cluster4>>
+雰囲気, 気持ち, におい
+top3 entities near to cluster6>>
+入り口, みはらし, 露天風呂
+top3 entities near to cluster9>>
+湯, お湯, 温泉
+top3 entities near to cluster11>>
+処, 食事, 軽食

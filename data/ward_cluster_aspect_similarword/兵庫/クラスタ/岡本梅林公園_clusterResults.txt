@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡本梅林公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+エリア, 案内板, 香り, 北, 広場, 傾斜, 閑静, 花, 足, 岡本, 季節, 方, スロープ, 公園, 梅, 中, 昔, 階段, 徒歩, 住宅街
+cluster1:(3)
+東灘・芦屋, 港町神戸, 阪急岡本駅
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 0entities.

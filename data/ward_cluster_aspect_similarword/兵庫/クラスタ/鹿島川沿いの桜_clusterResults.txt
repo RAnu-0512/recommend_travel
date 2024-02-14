@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿島川沿いの桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜, 夜桜
+cluster1:(3)
+場所, こと, 時期
+cluster2:(5)
+シーズン, ソメイヨシノ, 車, 桜並木, 鹿島川
+cluster3:(2)
+晴天, 水面
+cluster4:(3)
+鹿島神社, 川沿い, 高砂市
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 4entities.

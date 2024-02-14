@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波篠山 伝田農産>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+母, 実, ミニジャガイモ, 盆, 奥様, 子供, 娘, 夫婦
+cluster1:(2)
+空気, 人柄
+cluster2:(14)
+イメージ, 場所, スタッフ, もの, 口コミ, スーパーフード, 時間, ブルーベリー, 日照り, ジャガイモ, 道, 水, こと, 他
+cluster3:(4)
+世話, 予約, 土産, 体験
+cluster4:(2)
+お腹, 大粒
+cluster5:(10)
+有機栽培, 有機, 野菜, 品種, ブルーベリー園, 農家, フルーツ狩り, 果物, ブルーベリー狩り, 農園
+cluster6:(1)
+丹波篠山
+
+howmany entities : 41
+howmany clusters : 7
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 4
+deleted 5entities.

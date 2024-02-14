@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城崎温泉街の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湯, 外湯
+cluster1:(2)
+温泉町, 温泉街
+cluster2:(3)
+温泉巡り, 温泉めぐり, 温泉
+cluster3:(1)
+城崎温泉
+cluster4:(1)
+観光客
+cluster5:(2)
+川, 川沿い
+cluster6:(4)
+桜, 花見, 満開, 名所
+cluster7:(5)
+花, 季節, 春, 時期, 気分
+cluster8:(8)
+ところ, ライト, 随所, 中, 地域, 体, 木, 桜並木
+cluster9:(1)
+青柳
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 9entities.

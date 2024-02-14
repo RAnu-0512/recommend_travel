@@ -1,0 +1,11 @@
+--------------------similar_words:HELLO KITTY SHOW BOX_APPLE HOUSE--------------------
+top3 entities near to cluster1>>
+キティちゃん, キティ, カフェ
+top3 entities near to cluster2>>
+ピアノ, バイオリン, バレエ
+top3 entities near to cluster5>>
+写真, 画像, 撮っ
+top3 entities near to cluster7>>
+施設, 食事, 案内
+top3 entities near to cluster8>>
+時間外, 時間, 昔

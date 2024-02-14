@@ -1,0 +1,17 @@
+--------------------similar_words:北野天満神社--------------------
+top3 entities near to cluster1>>
+梅, 梅園, 桜
+top3 entities near to cluster2>>
+横, 手前, 奥
+top3 entities near to cluster3>>
+緑門, 神門, 神, 緑
+top3 entities near to cluster4>>
+結婚式, 見晴らし, 披露宴
+top3 entities near to cluster5>>
+御朱印, お参り, お守り
+top3 entities near to cluster7>>
+神戸港, 風見鶏, トーアロード
+top3 entities near to cluster10>>
+景色, 町並み, 街並み
+top3 entities near to cluster11>>
+神社, 境内, 本殿

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒井神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+オオクニヌシ, 祭神, えびすさま, 名, 竜宮門, 境内, 長男坊, 黄檗宗, 出雲族, 名残, コトシロヌシ, 神, 神門, 愛育園
+cluster1:(2)
+恋多き神, 神仏習合
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

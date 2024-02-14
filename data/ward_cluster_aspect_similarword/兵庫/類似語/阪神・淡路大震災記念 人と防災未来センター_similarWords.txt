@@ -1,0 +1,11 @@
+--------------------similar_words:阪神・淡路大震災記念 人と防災未来センター--------------------
+top3 entities near to cluster1>>
+被災, 被害, 震災
+top3 entities near to cluster3>>
+防災, 消防, 災害
+top3 entities near to cluster4>>
+地震, 震災, 災害
+top3 entities near to cluster5>>
+会場, 建物, 人達
+top3 entities near to cluster8>>
+映像, 展示, 再現

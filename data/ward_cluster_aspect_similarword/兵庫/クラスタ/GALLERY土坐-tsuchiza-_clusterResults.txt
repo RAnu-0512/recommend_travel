@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:GALLERY土坐-tsuchiza->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(42)
+記念, スタッフ, アクセサリー, 友達, 話, 景色, 手洗い, 追加, 子供たち, 姉さん, アドバイス, 空間, 種類, やり方, 柄, 椅子, 次, コースター作り, 工場, 季節, 仕上がり, デザイン, 到着, 時間, トイレ, 土, 物腰, コースター, 手順, 方, ワンピース, 汗作り方, 上がり, 曲線, 物, ギャラリー, 淡路島, 店, 出来上がり, 高台, ベルトコンベア, プラン
+cluster1:(5)
+絵付け, 文字, 文字入れ, 体験, 体験内容
+cluster2:(4)
+瓦焼き工場, 瓦コースター作り, 吉祥紋様, 瓦
+
+howmany entities : 51
+howmany clusters : 3
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 3
+deleted 0entities.

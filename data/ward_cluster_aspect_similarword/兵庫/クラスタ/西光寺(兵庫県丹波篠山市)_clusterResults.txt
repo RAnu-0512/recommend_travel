@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西光寺(兵庫県丹波篠山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+薬師如来座像, 仏像, 本尊, 寺, 無住, 行基
+cluster1:(3)
+歴史, 時代, 中世
+cluster2:(4)
+場所, 方, こと, 近く
+cluster3:(4)
+文化財, 建物, 雰囲気, 薬師如来像
+cluster4:(1)
+印象
+cluster5:(1)
+難
+cluster6:(1)
+黒豆アイス
+cluster7:(3)
+収蔵庫, 動乱期, 大正ロマン館
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 5
+deleted 3entities.

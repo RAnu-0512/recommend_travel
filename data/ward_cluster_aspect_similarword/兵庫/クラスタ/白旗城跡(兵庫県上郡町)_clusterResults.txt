@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白旗城跡(兵庫県上郡町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+赤松円心, 河原円心駅
+cluster1:(17)
+落ちない城, 太平記, 記録, 国指定, 指標, 山城, 白旗城, 白旗, 城跡, 手立て, 城, 源氏, 旗印, こと, 他, 観光PR, 上
+cluster2:(1)
+日本城郭大系 12
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 1
+deleted 3entities.

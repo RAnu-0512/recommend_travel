@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫陶芸美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+家具デザイン, 家具, 木彫
+cluster1:(6)
+書, 創作, 生涯, 建物, 地下, 施設
+cluster2:(3)
+夏, 里, 紅葉
+cluster3:(15)
+使い方, 手づくり, ランチ, レストラン, メイン, エレベーター, 木彫り, パスタ, 美術館, 雰囲気, コープこうべ, ワークショップ, ニュース, 焼き物, ランチコース
+cluster4:(2)
+人, 方
+cluster5:(2)
+全体, 部分
+cluster6:(1)
+熱量
+cluster7:(17)
+兵庫陶芸美術館, 展, 丹波焼, 陶芸, 自由研究, 現代陶芸, 特別展, 展示室, 陶芸体験, 河合寛次郎, 見学, 展示, 入館料, 展示棟, 展示物, 立杭焼き, 河井寛次郎
+
+howmany entities : 49
+howmany clusters : 8
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 5
+deleted 5entities.

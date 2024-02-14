@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真光寺(兵庫県神戸市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(32)
+感じ, 庭, 場所, ところ, 散歩, 途中, 友人, 地, 徒歩圏, 散策, 敷地, 空間, 歴史, 手前, 時代, 周辺, 時間, 建物, 手入れ, 駅, 方, 雰囲気, 地域, 街中, 徒歩, 地元, こと, 他, 建造物, セット, 近く, オススメ
+cluster1:(2)
+神社仏閣巡り, 神社巡り
+cluster2:(3)
+有馬観光, 有馬温泉, 観光客
+cluster3:(2)
+神戸, 兵庫
+cluster4:(2)
+神戸駅, 兵庫駅
+cluster5:(1)
+兵庫大仏
+cluster6:(2)
+清盛ゆかり, 和田岬駅
+cluster7:(2)
+清盛塚, 清盛像
+cluster8:(2)
+平清盛ゆかりのお寺真光寺, イチお寺
+cluster9:(11)
+上人, 平清盛ゆかり, 寺院, 小さなお寺, 境内, 極楽寺, 寺, 廟所, 鎌倉, 真光寺, 時宗
+
+howmany entities : 59
+howmany clusters : 10
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 3
+deleted 13entities.

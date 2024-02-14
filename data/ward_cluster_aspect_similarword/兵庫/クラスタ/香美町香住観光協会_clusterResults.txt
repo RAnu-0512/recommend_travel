@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香美町香住観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+松葉ガニ, 香住港, 香住ガニ
+cluster1:(2)
+ちくわ, ちくわまき大会
+cluster2:(3)
+漁港組合, 観光客, 駐車場
+cluster3:(5)
+漁, カニ汁, かすみ松葉, 甲羅, カニ
+cluster4:(3)
+開始時間, 時間, 開始
+cluster5:(6)
+友人, 人, 人気, イベント, 列, 方々
+cluster6:(4)
+出店, 解禁, 完売, 祭り
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 6
+deleted 2entities.

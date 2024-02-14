@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上月城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+尼子, 上月町, 赤松
+cluster1:(2)
+資料館, 本丸跡
+cluster2:(13)
+場所, 友達, 説明板, 再興, 入口, 眺め, ハイキングコース, 城跡, 戦, 道, 車道, 息子, 遥か下
+cluster3:(1)
+供養塔
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Natural.me>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+作品, 会話, 頭, 友達, 話, ころ, 友人, 様子, 彼女, もの, 主人, 満足, 何か, 目, 周り, 瞬間, 方, 事, 誕生, 中, 機会, 子供, 他, ねー, 先生, 友人達, 近く
+cluster1:(4)
+キャンドル作り, 作品作り, キャンドルづくり, 体験
+cluster2:(17)
+オリジナリティー, スタッフ, インスピレーション, 気持ち, チョイス, アロマキャンドル, レッスン, アドバイス, サロン, 仕上がり, 思い出, 色とりどり, キャンドル, 雰囲気, イオン, 淡路島, キャンドルレッスン
+cluster3:(2)
+旅, 旅行
+cluster4:(5)
+香り, 花, 種類, 色, 空キャンドル
+cluster5:(5)
+場所, 空間, 予約, 時間, 店
+cluster6:(1)
+淡路
+cluster7:(1)
+出逢
+cluster8:(1)
+Natural.me
+
+howmany entities : 63
+howmany clusters : 9
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 5
+deleted 5entities.

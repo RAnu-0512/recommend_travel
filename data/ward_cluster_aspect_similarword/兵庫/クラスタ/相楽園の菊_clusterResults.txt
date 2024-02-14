@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:相楽園の菊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示, 庭園
+cluster1:(2)
+花, 菊
+cluster2:(5)
+季節, 香り, 種類, 色, 時期
+cluster3:(1)
+菊花展
+cluster4:(1)
+相楽園
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 6entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大浜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+海岸線, 散歩, 場所, 犬, 夏, 松林, 朝, 気持ち, 祖母, 遊歩道, 海水浴客, 時間, 宿, 海水浴, 方々, 海岸, 景観, 公園, 夏場, 砂浜, 背中, 子供, 時期, 砂, 近く
+cluster1:(4)
+大浜公園, 大浜海水浴場, 洲本温泉, 駐車場
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 0entities.

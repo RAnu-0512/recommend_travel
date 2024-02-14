@@ -1,0 +1,35 @@
+--------------------similar_words:天滝--------------------
+top3 entities near to cluster1>>
+滝, 天, 吐龍
+top3 entities near to cluster3>>
+百選, 滝, 百
+top3 entities near to cluster5>>
+登山, 山登り, ハイキング
+top3 entities near to cluster7>>
+土, 日, 月
+top3 entities near to cluster8>>
+開催, 実施, 予約
+top3 entities near to cluster12>>
+張り紙, バス停, トイレ
+top3 entities near to cluster13>>
+糸滝, 夫婦滝, 栂峰
+top3 entities near to cluster14>>
+山登り, ハイキング, トレッキング
+top3 entities near to cluster15>>
+気持ち, 気持, 見ごたえ
+top3 entities near to cluster16>>
+道のり, 炎天下, ゴール
+top3 entities near to cluster19>>
+看板, 挨拶, そば
+top3 entities near to cluster22>>
+迫力, 落差
+top3 entities near to cluster24>>
+乗車券, 乗車, 運行
+top3 entities near to cluster25>>
+足元, 留意, 散漫
+top3 entities near to cluster27>>
+天浴, 天, 応中
+top3 entities near to cluster28>>
+山道, 景色, 紅葉
+top3 entities near to cluster29>>
+渓流沿い, 渓谷沿い, 渓谷, 渓流

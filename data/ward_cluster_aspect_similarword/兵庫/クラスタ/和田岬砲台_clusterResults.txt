@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和田岬砲台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+予約, 許可
+cluster1:(2)
+三菱重工業, 建物
+cluster2:(2)
+歴史, 時代
+cluster3:(1)
+三菱重工業神戸造船所殿
+cluster4:(1)
+一般開放
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

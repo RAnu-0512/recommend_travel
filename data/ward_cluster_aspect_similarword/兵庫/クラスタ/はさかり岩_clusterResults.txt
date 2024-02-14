@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はさかり岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+いくつか海蝕洞, 海蝕洞
+cluster1:(4)
+火山, 噴出物, 火山活動, 堆積層
+cluster2:(3)
+岩, さかり岩, はさかり岩
+cluster3:(5)
+方言, 名産, 洞門, 奇岩, 奇観
+cluster4:(4)
+途中, 辺り, 間, 近く
+cluster5:(2)
+場所, 写真
+cluster6:(5)
+トンネル, 人, 日本海, 方, スペース
+cluster7:(1)
+名前
+cluster8:(1)
+ちょうどこ
+cluster9:(4)
+景色, 車中, 車, 海
+cluster10:(7)
+感じ, もの, 形, 球状, 意味, こと, 迫力
+cluster11:(2)
+上部, 天井部
+cluster12:(3)
+但馬, 松葉カニ, 但馬漁火ライン
+cluster13:(4)
+道路沿い, 駐車場, 海岸沿い, 道路脇
+
+howmany entities : 47
+howmany clusters : 14
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 9
+deleted 8entities.

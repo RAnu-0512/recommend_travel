@@ -1,0 +1,7 @@
+--------------------similar_words:王地山稲荷神社--------------------
+top3 entities near to cluster0>>
+石段, 階段, 坂道
+top3 entities near to cluster1>>
+本殿, 神社, 拝殿
+top3 entities near to cluster3>>
+稲荷, 神社, 鳥居

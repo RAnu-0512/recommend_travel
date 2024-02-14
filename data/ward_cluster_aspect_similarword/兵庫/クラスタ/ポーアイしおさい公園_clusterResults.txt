@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ポーアイしおさい公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+海風, 海洋博物館, 海, 海側
+cluster1:(4)
+散歩, お子さん連れ, 夜景, 公園
+cluster2:(2)
+神戸, 神戸港
+cluster3:(2)
+気持ち, 雰囲気
+cluster4:(2)
+デート, 海沿い
+cluster5:(7)
+ライト, おすすめ, ポートタワー, いくつか, ポートアイランド, ハーバーランド, 神戸学院大学
+cluster6:(1)
+自転車ポタリング
+cluster7:(3)
+学生, 人, 風
+cluster8:(12)
+脇, 場所, 閑散, GW, キャンパス裏, 山, 西側, 大型, 軒, 方法, 爽快, 昼
+cluster9:(1)
+花火大会
+cluster10:(1)
+ポーアイしおさい公園
+
+howmany entities : 39
+howmany clusters : 11
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 9entities.

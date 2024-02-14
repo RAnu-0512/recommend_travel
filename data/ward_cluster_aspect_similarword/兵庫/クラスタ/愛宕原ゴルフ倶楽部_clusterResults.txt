@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛宕原ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+フェアウエイ, ショット, アクセス, アップダウン, ロッカー, お気に入り, スタート
+cluster1:(2)
+ゴルフ, コース
+cluster2:(3)
+大阪, 周辺, 女性
+cluster3:(7)
+風呂, 距離, バス, 予約, 時間, 午後ハーフ, 電話
+cluster4:(1)
+ファウェイ
+cluster5:(1)
+豊中駅
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 4entities.

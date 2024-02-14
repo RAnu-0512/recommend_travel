@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤穂城南緑地公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散歩, 犬
+cluster1:(4)
+人, プール, 体育館, 花
+cluster2:(1)
+緑のフェスティバル
+cluster3:(1)
+見頃
+cluster4:(1)
+野球場
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

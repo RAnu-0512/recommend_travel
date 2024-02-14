@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:普光寺(兵庫県加西市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自然, 歴史
+cluster1:(5)
+周辺, 雰囲気, 場所, 仁王門, パワースポット
+cluster2:(1)
+寺
+cluster3:(1)
+灯篭
+cluster4:(1)
+応え
+cluster5:(1)
+迫力満点
+cluster6:(1)
+法華山一乗寺
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

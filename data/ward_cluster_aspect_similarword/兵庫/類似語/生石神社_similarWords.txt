@@ -1,0 +1,13 @@
+--------------------similar_words:生石神社--------------------
+top3 entities near to cluster0>>
+巨岩, 巨石, 岩
+top3 entities near to cluster3>>
+神, 鳥居, 各地
+top3 entities near to cluster5>>
+右端, 左端, 左下
+top3 entities near to cluster6>>
+裏手, 奥
+top3 entities near to cluster8>>
+階段, 通路, 地面
+top3 entities near to cluster10>>
+神社, 本殿, 拝殿

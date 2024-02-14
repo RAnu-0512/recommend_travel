@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路市書写の里・美術工芸館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ガラス工芸, 工芸館
+cluster1:(2)
+特別展, 猫展
+cluster2:(1)
+入館料
+cluster3:(25)
+ほか, 表情, 竹林, 作品, ところ, 土仏, 会場, 遊び, 東大寺別当, 体験教室, イベント, 播州, 屋台, バス, 多数, 周り, 建物, 書写山, 土人形, 姫路駅, 昔, 展示, コンサート, 体験, 館内
+cluster4:(1)
+清水公照師
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 1
+deleted 6entities.

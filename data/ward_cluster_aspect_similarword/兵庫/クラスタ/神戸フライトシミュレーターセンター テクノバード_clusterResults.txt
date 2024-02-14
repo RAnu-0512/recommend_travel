@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸フライトシミュレーターセンター テクノバード>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ワクワク感, 達成感
+cluster1:(3)
+操縦, 離陸, 着陸
+cluster2:(2)
+空港, 航空ファン
+cluster3:(5)
+ライセンス, スタッフ, パイロット, パンフレット, プラモデル
+cluster4:(2)
+やり取り, テンション
+cluster5:(1)
+ラウンジ
+cluster6:(1)
+飛行機
+cluster7:(2)
+方, こと
+cluster8:(4)
+友人, プロ, 父, 夫
+cluster9:(5)
+店舗, 雑誌, 空間, 西日本唯一, 施設
+cluster10:(3)
+誕生日プレゼント, 体験時間, 体験
+
+howmany entities : 30
+howmany clusters : 11
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 5
+deleted 10entities.

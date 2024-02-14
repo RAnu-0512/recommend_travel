@@ -1,0 +1,33 @@
+--------------------similar_words:ROKKO森の音ミュージアム--------------------
+top3 entities near to cluster1>>
+音楽, 会場, 料理
+top3 entities near to cluster2>>
+オルゴール, 手作り, 手づくり
+top3 entities near to cluster3>>
+ハウス, アート, コロナ
+top3 entities near to cluster4>>
+ディスク, オーバー, シリンダー
+top3 entities near to cluster8>>
+コンサート, イベント, オーケストラ
+top3 entities near to cluster9>>
+ミュージアム, コレクション, ライトアップ
+top3 entities near to cluster13>>
+コーナー, メニュー, スタッフ
+top3 entities near to cluster16>>
+夏休み, 思い出, 春休み
+top3 entities near to cluster18>>
+興味, 感動, 楽しみ
+top3 entities near to cluster21>>
+数種類, 通常, 種類
+top3 entities near to cluster22>>
+中心, 紹介, 開催
+top3 entities near to cluster23>>
+つくり
+top3 entities near to cluster24>>
+自動, 演奏, 手動
+top3 entities near to cluster25>>
+入場料, 入場券, 入場
+top3 entities near to cluster26>>
+作業, 体験, 農作業
+top3 entities near to cluster32>>
+散策, 土産, 散歩

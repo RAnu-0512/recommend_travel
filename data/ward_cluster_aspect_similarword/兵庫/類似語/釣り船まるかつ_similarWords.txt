@@ -1,0 +1,9 @@
+--------------------similar_words:釣り船まるかつ--------------------
+top3 entities near to cluster1>>
+ハマチ, ツバス, ヒラメ
+top3 entities near to cluster2>>
+大きめ, 小さめ, 大き目
+top3 entities near to cluster5>>
+同僚, 母親, 子供
+top3 entities near to cluster6>>
+青物

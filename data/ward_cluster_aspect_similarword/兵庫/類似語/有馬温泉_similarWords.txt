@@ -1,0 +1,123 @@
+--------------------similar_words:有馬温泉--------------------
+top3 entities near to cluster1>>
+温泉, 旅館, 湯
+top3 entities near to cluster6>>
+三, 四, 五
+top3 entities near to cluster11>>
+泉, 金泉, 銀
+top3 entities near to cluster17>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster18>>
+温泉街, 温泉, 温泉郷
+top3 entities near to cluster19>>
+泉源, 源泉, 温泉
+top3 entities near to cluster21>>
+湯, 温泉
+top3 entities near to cluster22>>
+金, 金火, 土
+top3 entities near to cluster23>>
+銀, 湯, 温泉
+top3 entities near to cluster25>>
+金泉, キムチョン, 温泉
+top3 entities near to cluster26>>
+泉質, 泉, 問どう
+top3 entities near to cluster27>>
+泉, 吐玉, 釧雲
+top3 entities near to cluster30>>
+炭酸, 飲料, 煎餅
+top3 entities near to cluster32>>
+パン屋, 雑貨屋, パン, 雑貨
+top3 entities near to cluster33>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster34>>
+食べ, 食する, たべ
+top3 entities near to cluster35>>
+時間, 日数分, 日数
+top3 entities near to cluster36>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster37>>
+休憩場, 休憩, 処
+top3 entities near to cluster38>>
+夕食, 食事, 昼食
+top3 entities near to cluster39>>
+散策, 散歩, 歩く
+top3 entities near to cluster40>>
+宿泊, 料金, 施設
+top3 entities near to cluster41>>
+入浴, 風呂, 温泉
+top3 entities near to cluster42>>
+料理, 懐石, 会席
+top3 entities near to cluster43>>
+旅館, 老舗, 情緒
+top3 entities near to cluster47>>
+温度感, 温度, 濃度
+top3 entities near to cluster48>>
+温泉, 周遊, 駐車
+top3 entities near to cluster52>>
+おすすめ, エリア, 見どころ
+top3 entities near to cluster53>>
+イベント, ラウンジ, ランチタイム
+top3 entities near to cluster54>>
+ケーブルカー, ロープウェー, タクシー
+top3 entities near to cluster56>>
+スベスベ, すべすべ, ツルツル
+top3 entities near to cluster58>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster60>>
+温泉, 土産物, 町並み
+top3 entities near to cluster62>>
+プラン, ゲーム, カメラ
+top3 entities near to cluster63>>
+サイダー, アイス, アイスクリーム
+top3 entities near to cluster64>>
+ツアー, ライブ, 夏休み
+top3 entities near to cluster66>>
+ランチ, カフェ, グルメ
+top3 entities near to cluster68>>
+バケツ, プール, タンク
+top3 entities near to cluster71>>
+サウナ, テニス, コート
+top3 entities near to cluster72>>
+お湯, 熱湯, 湯
+top3 entities near to cluster73>>
+湯船, 足湯, 露天
+top3 entities near to cluster74>>
+旅館, 宿, 客室
+top3 entities near to cluster75>>
+温度, 高温, 低温
+top3 entities near to cluster76>>
+茶色味, 茶色
+top3 entities near to cluster77>>
+町, 丁目, 湯屋
+top3 entities near to cluster78>>
+風情, 景色, 人出
+top3 entities near to cluster79>>
+駅車, 駅, 施設
+top3 entities near to cluster82>>
+満足, 充実
+top3 entities near to cluster83>>
+滞在, 在住, 外出
+top3 entities near to cluster85>>
+利用, 移動
+top3 entities near to cluster88>>
+時代, 昔, 歴史
+top3 entities near to cluster89>>
+周辺, 近辺
+top3 entities near to cluster90>>
+種類, 両方, それぞれ
+top3 entities near to cluster94>>
+今年, 今日, 去年
+top3 entities near to cluster95>>
+名物, 定番, カフェ
+top3 entities near to cluster96>>
+日帰り, 泊りがけ, プラン
+top3 entities near to cluster98>>
+外国人, 外国, 大勢
+top3 entities near to cluster100>>
+家族, 夫婦, 身内
+top3 entities near to cluster101>>
+母, 叔母, 伯母
+top3 entities near to cluster102>>
+自宅, 部屋
+top3 entities near to cluster103>>
+女性, 年配, 男性

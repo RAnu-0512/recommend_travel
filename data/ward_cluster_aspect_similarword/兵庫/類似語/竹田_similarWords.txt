@@ -1,0 +1,29 @@
+--------------------similar_words:竹田--------------------
+top3 entities near to cluster0>>
+城, 城跡, 城址
+top3 entities near to cluster1>>
+景色, 風景, 風情
+top3 entities near to cluster5>>
+街並み, 町並み
+top3 entities near to cluster9>>
+城跡, 城, 城址
+top3 entities near to cluster12>>
+天気雨, 小雨, 天気
+top3 entities near to cluster13>>
+カメラ, 山登り, ガイド
+top3 entities near to cluster14>>
+バス停, ホテル, タクシー
+top3 entities near to cluster15>>
+雰囲気, 気持ち, マナー
+top3 entities near to cluster16>>
+話, ネタ, エピソード
+top3 entities near to cluster17>>
+朝水, 朝, 時間
+top3 entities near to cluster20>>
+写真店, 写真, 食事
+top3 entities near to cluster21>>
+金額
+top3 entities near to cluster22>>
+バス, 周遊, 発着
+top3 entities near to cluster23>>
+駅, 天空, 駅前

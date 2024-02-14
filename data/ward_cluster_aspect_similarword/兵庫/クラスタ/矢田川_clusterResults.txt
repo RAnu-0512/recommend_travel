@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:矢田川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+河口, 川, 鮎
+cluster1:(2)
+列車, 風景
+cluster2:(5)
+水, ところ, 付近, 矢田川, 山陰本線
+cluster3:(1)
+火口
+cluster4:(2)
+香美町, 香住温泉
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:竹田城 城下町 ホテルEN(えん)--------------------
+top3 entities near to cluster0>>
+料理, 食材, 野菜
+top3 entities near to cluster4>>
+レストラン, ランチ, ディナー
+top3 entities near to cluster7>>
+情報, 価格, 設定

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路市北淡歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+もの, 人, 淡路島, 施設, 歴史, 勉強, 文化
+cluster1:(2)
+農家, 瓦
+cluster2:(1)
+淡路市
+cluster3:(6)
+資料館, 資料, 民俗資料, 歴史資料, 出土品, 民族文化
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 3entities.

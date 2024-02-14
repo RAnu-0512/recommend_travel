@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猫カフェ Nyanny>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+ドリンク, スタッフ, 小学生, カフェオレ, カフェブース, リクエスト, 方
+cluster1:(2)
+学校, 子供
+cluster2:(1)
+膝
+cluster3:(1)
+代休
+cluster4:(7)
+猫ちゃん達, ネコちゃん, ネコ立入, ネコちゃん達, 猫カフェ, 猫ちゃん, 猫
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 4entities.

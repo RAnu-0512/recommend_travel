@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シーボンアート神戸教室「LANAI」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 姪
+cluster1:(10)
+ビーズ, 事, ネックレス, 時間, イヤリング, アクセサリー作り, フェイスシールド, タイプ, 小学校, ランプシェード
+cluster2:(1)
+上級
+cluster3:(1)
+貝殻
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 4entities.

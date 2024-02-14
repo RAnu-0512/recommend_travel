@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ムーセ旧居・ムーセハウス写真館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+住居跡, 跡, 住居
+cluster1:(5)
+外国人, 明治, 初期, 日本, 海外
+cluster2:(3)
+様子, 方, こと
+cluster3:(5)
+メインディッシュ, トイレ, ハンダ, ビデオ, 写真
+cluster4:(2)
+場所, 建物
+cluster5:(1)
+頭
+cluster6:(2)
+禁止, 発展
+cluster7:(4)
+模型, 電車, 遺産, 鉛
+cluster8:(2)
+展示施設, 展示
+cluster9:(3)
+鉱山, 精錬, 採掘
+cluster10:(14)
+神子畑鉱山, 姫路港, 銀の馬車道, 鉱山技師, 神子畑選鉱所, 電気機器電子機器, 明延鉱山, 生野銀山, 労働従事者, 選鉱場跡, 神子畑選鉱場, 鉱山技術者, ムーセ旧居・ムーセハウス写真館, 神子畑交流館
+
+howmany entities : 44
+howmany clusters : 11
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 7
+deleted 7entities.

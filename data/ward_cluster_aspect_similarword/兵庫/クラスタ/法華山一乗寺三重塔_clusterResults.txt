@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法華山一乗寺三重塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+階段, 本堂, 時期, 左手
+cluster1:(2)
+仏, 国宝
+cluster2:(1)
+大悲閣
+cluster3:(1)
+三重塔
+cluster4:(1)
+存在感
+cluster5:(5)
+国指定重文, 内陣拝観, 拝観, 聖観音立像@重文, 秘仏御本尊
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 5entities.

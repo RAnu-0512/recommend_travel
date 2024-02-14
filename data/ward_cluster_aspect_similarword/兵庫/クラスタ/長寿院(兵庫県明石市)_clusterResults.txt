@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長寿院(兵庫県明石市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+松平直明, 松平家, 松平家廟所
+cluster1:(4)
+菩提寺, 家族, 墓, 境内
+cluster2:(2)
+藩主, 明石藩
+cluster3:(1)
+斉宜
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 3entities.

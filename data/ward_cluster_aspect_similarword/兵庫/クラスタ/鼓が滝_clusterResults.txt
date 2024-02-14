@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鼓が滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+ところ, ダイナミック, 遊歩道, コロナ, 森林浴, ウグイス, マイナスイオン, ネット, アプローチ, ロープウェイ
+cluster1:(7)
+感じ, 場所, 人, 前, 方, 時期, 近く
+cluster2:(1)
+迫力
+cluster3:(17)
+散歩, 鬱蒼, 池, 新緑, 途中右, 小川, 鼓, 滝, 奥, 森, 川, 紅葉, 穴場, 釣り, 駅, 道, 公園
+cluster4:(1)
+観光客
+cluster5:(8)
+月光園, 有馬温泉街, 有馬, 六甲ロープウェイ, 滝壺, 月光円, 鼓ヶ滝, 有馬町内
+
+howmany entities : 44
+howmany clusters : 6
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 4
+deleted 2entities.

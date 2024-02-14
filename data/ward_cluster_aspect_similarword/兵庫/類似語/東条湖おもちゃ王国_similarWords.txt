@@ -1,0 +1,71 @@
+--------------------similar_words:東条湖おもちゃ王国--------------------
+top3 entities near to cluster0>>
+子ども, 子供, こども
+top3 entities near to cluster2>>
+ゲーム, ゲーセン, おみこし
+top3 entities near to cluster3>>
+ベビーカー, 赤ちゃん, ベビー
+top3 entities near to cluster4>>
+クーポン, チケット, レジャー
+top3 entities near to cluster7>>
+メリーゴーランド, ゴーカート, シルバニアファミリー
+top3 entities near to cluster8>>
+パンフレット, キャラクター, プラスチック
+top3 entities near to cluster10>>
+アトラクション, テーマパーク, レストラン
+top3 entities near to cluster12>>
+イベント, スタッフ, ショップ
+top3 entities near to cluster13>>
+プラレール, バンダイ, トーマス
+top3 entities near to cluster14>>
+おすすめ, オススメ, デートスポット
+top3 entities near to cluster21>>
+ベルト, 手すり, テープ
+top3 entities near to cluster22>>
+雨宿り, 木陰, 日差し
+top3 entities near to cluster24>>
+メニュー, カレー, 味付け
+top3 entities near to cluster29>>
+プール, スイミング, ビーチ
+top3 entities near to cluster30>>
+タイム, グリーン, トーマス
+top3 entities near to cluster31>>
+ショー, ボート, ショウ
+top3 entities near to cluster32>>
+グッズ, コーナー, 乗り物
+top3 entities near to cluster36>>
+周辺, 位置, 近辺
+top3 entities near to cluster37>>
+人気, 無料
+top3 entities near to cluster38>>
+前回, 折角, 先日
+top3 entities near to cluster41>>
+椅子, 棚
+top3 entities near to cluster42>>
+日, 30, 10
+top3 entities near to cluster43>>
+朝, イチ, 早朝
+top3 entities near to cluster44>>
+パス, フリー, カー
+top3 entities near to cluster45>>
+対策, 感染, 消毒
+top3 entities near to cluster46>>
+週末, 夏, 季節
+top3 entities near to cluster50>>
+子供, 子ども, 母親
+top3 entities near to cluster51>>
+リカ, ちゃん, 姫乃樹
+top3 entities near to cluster52>>
+子供, 子ども, 子
+top3 entities near to cluster53>>
+誕生, 日, 月
+top3 entities near to cluster54>>
+閉園, 閉演, 開園
+top3 entities near to cluster56>>
+屋内, 施設, 駐車
+top3 entities near to cluster57>>
+入場券, 入場, フリーパスチケット
+top3 entities near to cluster58>>
+入園, 入学, 入場
+top3 entities near to cluster60>>
+やり

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柿本神社(兵庫県明石市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+明石市立天文科学館, 明石市市立天文科学館
+cluster1:(3)
+亀の碑, 古今和, 柿本神社
+cluster2:(5)
+景色, 位置, 階段, 標識, 高台
+cluster3:(3)
+学問, 歴史, 文学
+cluster4:(2)
+地元, 近く
+cluster5:(2)
+人, 子供
+cluster6:(6)
+タクシー, 七五三, 柿本人麻呂, 万葉集, 雰囲気, セット
+cluster7:(1)
+神
+cluster8:(1)
+梅
+cluster9:(2)
+お宮参り, お社
+cluster10:(2)
+人丸, 歌聖・柿本人麻呂
+cluster11:(2)
+正月, 初詣
+cluster12:(3)
+神社, 祭神, 境内
+cluster13:(1)
+駐車場
+cluster14:(1)
+盲杖桜
+cluster15:(9)
+明石城築城, 明石駅, 明石子午線, 市指定文化財, 柿本大夫祠堂碑銘, 明石市, 播州明石浦, 人麿山 月照寺, 兵庫県
+
+howmany entities : 45
+howmany clusters : 16
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 6
+deleted 16entities.

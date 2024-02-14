@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まやビューライン(摩耶ケーブル&ロープウェー)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+急角度ぶり, 時間帯, 前一面
+cluster1:(4)
+景色, 眺め, 夜景, 絶景
+cluster2:(5)
+山上, 登り, 山頂, ロープウェイセット, 山
+cluster3:(20)
+神戸, お陰, 摩耶山, ロープウェー, ケーブル, 帰り, 目, バス, 往復, 乗り物, 時間, 乗客, 駅, ケーブルカー, 方, ロープウエイ, 冬, 見晴らし, ロープウェイ, ゴンドラ
+cluster4:(1)
+つきつ
+cluster5:(1)
+兵庫県
+cluster6:(1)
+六甲・摩耶1dayチケット
+
+howmany entities : 35
+howmany clusters : 7
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 3entities.

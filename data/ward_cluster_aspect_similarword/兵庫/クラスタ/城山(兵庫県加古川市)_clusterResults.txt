@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山(兵庫県加古川市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高御位山, すぎずな山
+cluster1:(5)
+駐車場, 登山道, 登山コース, 登山, 登山初心者
+cluster2:(3)
+自然, 播磨灘, 揖保川
+cluster3:(13)
+人, 山登り, シート, ランチハイキング, 初心者, ハイキングコース, 方, ハイキング, 子ども, 子供, ハイキング初心者, ☆ 山登り, オススメ
+cluster4:(7)
+桜, 場所, 景色, 空気, 花見, 天気, 遠足
+cluster5:(1)
+子供連れ
+cluster6:(8)
+山上, 山頂, 山, 標高, 山道, 頂上, 山塊, 城山
+cluster7:(5)
+整備, 城跡, 一族ゆかり, 跡, 城
+cluster8:(6)
+加古川市, 歴史, 時代, 赤松, 室町, 中世
+cluster9:(1)
+志方町
+
+howmany entities : 51
+howmany clusters : 10
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 7
+deleted 4entities.

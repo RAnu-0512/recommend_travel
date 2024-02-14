@@ -1,0 +1,17 @@
+--------------------similar_words:神戸北野ホテル--------------------
+top3 entities near to cluster0>>
+利用, 宿泊, 受験
+top3 entities near to cluster2>>
+友達, 友人, 人達
+top3 entities near to cluster4>>
+雰囲気, 気配り, つもり
+top3 entities near to cluster5>>
+パスタ, サラダ, ランチ
+top3 entities near to cluster6>>
+スタッフ, サービス, フロント
+top3 entities near to cluster9>>
+スコーン, マフィン, クロワッサン
+top3 entities near to cluster12>>
+料理, 紅茶
+top3 entities near to cluster13>>
+パン, 食べ放題, 食べ

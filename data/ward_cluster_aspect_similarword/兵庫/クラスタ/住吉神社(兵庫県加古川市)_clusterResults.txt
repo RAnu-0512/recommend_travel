@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:住吉神社(兵庫県加古川市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+松巡り, 手枕(たまくら)の松, 高砂の松, 尾上の松, 曽根の松, 手枕の松, 松, 播州松巡り, 菅公のお手植の松
+cluster1:(8)
+特徴, 立派, 形, 方, こと, 風情, 感じ, 気
+cluster2:(2)
+パワー, パワースポット
+cluster3:(2)
+あたり, ところ
+cluster4:(2)
+こじんまり, 見どころ
+cluster5:(2)
+気持ち, 雰囲気
+cluster6:(1)
+安らぎ
+cluster7:(4)
+お告げ, 守り神, 彫り物, お参り
+cluster8:(1)
+手枕
+cluster9:(7)
+灯篭, 石, 柱, 建物, 鳥居, 木造, 造り
+cluster10:(3)
+本杉, 加古川神戸製鋼所, 明石
+cluster11:(6)
+河口, 地域, 地元, 場所, 歴史, 近く
+cluster12:(3)
+桜, 緑, 海
+cluster13:(3)
+東, 神, 風
+cluster14:(5)
+裏, 横, 木, 目, 周り
+cluster15:(4)
+観光スポット, 景色, 散策, 眺め
+cluster16:(3)
+人, 人たち, 俳人
+cluster17:(2)
+航海, 漁業
+cluster18:(2)
+安全, 利益
+cluster19:(1)
+水難
+cluster20:(1)
+腕枕
+cluster21:(3)
+別府川, 川沿い, 別府川沿い
+cluster22:(3)
+別府町, 加古川市, 高砂市
+cluster23:(1)
+滝瓢水
+cluster24:(1)
+浜宮天神社
+cluster25:(12)
+拝殿, 境内, 住吉神社, 社殿, 本殿, 戸隠神社, 古社, 神社内, 海上交通, 尾上神社, 神社, 海上交通安全
+
+howmany entities : 91
+howmany clusters : 26
+howmany entities (more than3entities) : 73
+howmany clusters (more than3entities) : 14
+deleted 18entities.

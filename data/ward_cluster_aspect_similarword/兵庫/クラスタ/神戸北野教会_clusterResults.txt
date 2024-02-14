@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸北野教会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+庭, 途中, 方面, 坂, 新緑, 新神戸, 人気, 前, 結婚式, 中, 雰囲気
+cluster1:(3)
+教会, 建物, 外観
+cluster2:(2)
+入場, 館内
+cluster3:(1)
+結婚式場
+cluster4:(3)
+異人館街, 異人館, 北野異人館街
+cluster5:(3)
+北野通り, 北野, 神戸北野教会
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 3entities.

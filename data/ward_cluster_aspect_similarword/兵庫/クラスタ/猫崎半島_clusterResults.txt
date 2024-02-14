@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猫崎半島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+地上, お子, 猫崎, 島, ネコ, 写真, スポット, 自然, 岩, 人気, 荒波, 形, 日本海, 面白さ, 猫, 模様, 引き, 名前, 海側, ねこちゃん, 岩模様
+cluster1:(3)
+猫崎半島, 竹野海岸, 半島
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 0entities.

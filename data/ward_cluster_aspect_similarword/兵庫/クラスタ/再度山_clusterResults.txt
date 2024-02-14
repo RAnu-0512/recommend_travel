@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:再度山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+太龍寺, 弘法太師, 奥之院
+cluster1:(19)
+山頂, 六甲全山, 寺院, 山, 中国, 前後, 遣唐使, 山道, 紅葉, 本堂, 御朱印, 寺務所, 亀, 登頂途中, 方, 公園, こと, 大龍寺, 縁
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

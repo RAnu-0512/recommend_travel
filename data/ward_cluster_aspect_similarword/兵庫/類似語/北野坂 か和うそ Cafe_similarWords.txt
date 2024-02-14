@@ -1,0 +1,13 @@
+--------------------similar_words:北野坂 か和うそ Cafe--------------------
+top3 entities near to cluster0>>
+動物, 植物, 人間
+top3 entities near to cluster1>>
+店長, 店員, 男性
+top3 entities near to cluster2>>
+階段, ドア, ビル
+top3 entities near to cluster3>>
+ネズミ, 小動物, キリン
+top3 entities near to cluster4>>
+カフェ, キッチン, レストラン
+top3 entities near to cluster7>>
+猫, ネコ, ソーダ

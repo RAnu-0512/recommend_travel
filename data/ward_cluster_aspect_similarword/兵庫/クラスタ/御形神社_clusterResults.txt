@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御形神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+参道入口, 参道
+cluster1:(2)
+神社, 本殿
+cluster2:(1)
+御形神社
+cluster3:(8)
+パワー, 揖保川, 桜, 場所, 公文川, 歴史, あたり, 北
+cluster4:(1)
+天日槍神
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 6entities.

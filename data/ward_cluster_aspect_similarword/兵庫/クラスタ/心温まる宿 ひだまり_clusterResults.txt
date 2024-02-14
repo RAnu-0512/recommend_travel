@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:心温まる宿 ひだまり>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+送迎バス, 城崎駅, 外湯めぐり
+cluster1:(4)
+卓球, テニス, 卓球室, テニスコート
+cluster2:(3)
+腹, 満腹, カニ
+cluster3:(2)
+帰路, 帰り
+cluster4:(3)
+全員, 家族, 孫
+cluster5:(6)
+日帰り, デザート, フルコース, ゴールデンウィーク, 雰囲気, コース
+cluster6:(2)
+途中, 最後
+cluster7:(1)
+印象
+cluster8:(7)
+距離, 価格, 部屋, 食事, 車, 料理, 入浴
+cluster9:(1)
+おなか一杯
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 6
+deleted 6entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+南公園, 駅, 公園
+cluster1:(2)
+北, 北公園
+cluster2:(1)
+神戸大橋
+cluster3:(1)
+神戸市
+cluster4:(3)
+景色, 夜景, 景観
+cluster5:(10)
+六甲山, 神戸港, ポートアイランド, ポートライナー, 自販機, ポーアイ, 太刀魚, カップル, トイレ, 魚釣り
+cluster6:(4)
+人, 時間, 意外, 子供
+cluster7:(4)
+港, 船, 釣り, 海
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 4entities.

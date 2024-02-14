@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かに王国>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+チェック, 向かうメインストリート, 酒, 駅, カニ王国, 勿論, イベント, 王国, 解禁, ズワイガニ, かに, イベント開催日, カレンダー, 方
+cluster1:(4)
+温泉街, 温泉, JR城崎温泉駅, 城崎温泉
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

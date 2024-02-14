@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波篠山渓谷の森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+キャンプ場, 駐車場代, オートキャンプ場, ごみ処理料金, 駐車場
+cluster1:(39)
+場所, 香り, 子供連れ, BBQ, 教育, 空気, 子供達, 日帰り, 気持ち, バーベキュー, 子供たち, 自然, 準備, レストラン, 人気, ダム, コテージ, 場合, 世話, キッチン, 利用, ロフト, バス, バーベキュ, 予約, サイト, 大人, 棚田, 後片付け, 施設, オススメ, 手ぶら, キャンプ, 公園, 家族, 子供, 食材, 受付, 遊ぶ所
+
+howmany entities : 44
+howmany clusters : 2
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,19 @@
+--------------------similar_words:神戸文化ホール--------------------
+top3 entities near to cluster0>>
+駅, 市営, 駅前
+top3 entities near to cluster1>>
+公園, 広場, 遊歩道
+top3 entities near to cluster2>>
+コンサート, 催し物, イベント
+top3 entities near to cluster3>>
+態度, 横暴, 要領
+top3 entities near to cluster5>>
+地元, 徒歩, 普通
+top3 entities near to cluster9>>
+時間, 駐車, 休憩
+top3 entities near to cluster14>>
+音楽, 音響, 演劇
+top3 entities near to cluster15>>
+舞台観, 舞台, 公演
+top3 entities near to cluster17>>
+文化, ホール, 市民

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒滝(兵庫県三木市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JR三田駅, 新三田駅
+cluster1:(3)
+渡瀬, 黒滝, 渡瀬方面
+cluster2:(2)
+登山靴, 靴
+cluster3:(4)
+交通アクセス, バス, JR, 徒歩
+cluster4:(2)
+落差, 幅
+cluster5:(2)
+滝, 川
+cluster6:(4)
+もの, 水, 中, 必要
+cluster7:(8)
+バス停, 夏, ベストアングル, 二瀬川, 遊歩道, 日差し, 道, 写真
+cluster8:(1)
+現物
+cluster9:(1)
+日傘
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 10entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:ホテルプラザ神戸--------------------
+top3 entities near to cluster0>>
+満足, 満点, 得
+top3 entities near to cluster2>>
+デザート, ケーキ, スイーツ
+top3 entities near to cluster3>>
+ホテル, スタッフ, フロント
+top3 entities near to cluster9>>
+店員, 店内
+top3 entities near to cluster10>>
+部屋, 宿泊, ホテル
+top3 entities near to cluster12>>
+香り, 値段
+top3 entities near to cluster13>>
+料理, 前菜, 食事

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤とんぼ歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+感じ, ところ, 五線譜, 手, 桑, 壁面, 小篭, 姉さん, 実, 山, 赤とんぼ, 畑, 前, メロディー, 他人, 赤, レンガ, 便り, 姐, 公園, 借金取り, 子供, たつ, 嫁, ホント, メロディ
+cluster1:(6)
+石碑, 歌詞, 肖像レリーフ, 童謡, 歌碑, 歌
+cluster2:(3)
+龍野公園, 霞城館, 三木露風
+
+howmany entities : 35
+howmany clusters : 3
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 3
+deleted 0entities.

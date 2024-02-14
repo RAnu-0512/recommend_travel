@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長楽寺(谷の地蔵)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+地蔵, 長楽寺, 阿弥陀堂
+cluster1:(3)
+本尊, 住職, 本堂
+cluster2:(1)
+秀吉
+cluster3:(1)
+身
+cluster4:(1)
+土砂
+cluster5:(2)
+兵火, 播磨攻め
+cluster6:(1)
+木造地蔵菩薩半跏像@重文
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

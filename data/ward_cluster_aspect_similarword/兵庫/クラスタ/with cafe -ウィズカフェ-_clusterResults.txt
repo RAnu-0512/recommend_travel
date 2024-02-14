@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:with cafe -ウィズカフェ->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+好み, 店, 絵
+cluster1:(9)
+ココアアート, 水, コーヒーポット, チェイサー, コーヒー, ブレンド, 豆, モカ, ペーパードリップ
+cluster2:(1)
+ペン
+cluster3:(1)
+バッグ作り
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 2entities.

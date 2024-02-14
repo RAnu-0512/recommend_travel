@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安志加茂神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+干支, 神社, 境内, 氏神, 参拝客, 周辺, 大みそか, 賀茂, 鳥居, 京都, 雰囲気, 初詣, こと, 時期, 社, 本殿, 近く
+cluster1:(2)
+賀茂別雷神社, 安志加茂神社
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 1
+deleted 2entities.

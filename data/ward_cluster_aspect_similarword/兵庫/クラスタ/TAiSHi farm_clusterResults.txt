@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:TAiSHi farm>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+苺, 苺大福, 白蜜香, 白苺, 苺狩り, イチゴ狩り
+cluster1:(2)
+食べ比べ, 食べ放題
+cluster2:(2)
+シーズン孫たち, 孫たち
+cluster3:(5)
+友人, 種類, 中, 気, 他
+cluster4:(5)
+wハウス, イチゴ, クッション, いちご, ハウス
+cluster5:(1)
+味
+cluster6:(1)
+期間
+cluster7:(1)
+訪問
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 7entities.

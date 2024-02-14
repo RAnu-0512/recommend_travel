@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅やぶ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+但馬牛, 但馬, 但馬牛会席
+cluster1:(7)
+感じ, 値段, 距離, 態度, 覚悟, 方, ヒソヒソ越え
+cluster2:(2)
+外観, 内装
+cluster3:(2)
+休憩, 会話
+cluster4:(14)
+メニュー, 周囲, 店員, レストラン, カフェ, 別, クチコミ, ソフトクリーム, トイレ, 仕切り, 喫茶店, スムージー, 地元, 近く
+cluster5:(1)
+爆音
+cluster6:(11)
+パン, 野菜, 寿司, 山椒, 駅, 道, 料理, 土産, ちっさな池, 温泉, 鯉
+cluster7:(3)
+油そば屋, リピはなし, 笑笑ケーキ
+
+howmany entities : 43
+howmany clusters : 8
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 5
+deleted 5entities.

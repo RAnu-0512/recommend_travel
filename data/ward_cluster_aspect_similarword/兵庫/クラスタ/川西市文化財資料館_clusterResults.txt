@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川西市文化財資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+川西池田駅, 川西市文化財資料館, 川西市
+cluster1:(17)
+加茂遺跡, 資料館, 場所, 腕, 首長, 妻, 勾玉作り, 人, 勾玉づくり, 出土品, 南, 銅鐸, JR, ジオラマ, 昔, こと, 孫
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 0entities.

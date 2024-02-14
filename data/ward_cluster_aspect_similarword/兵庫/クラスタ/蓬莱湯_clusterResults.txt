@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓬莱湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+物, 雰囲気, ドライヤー, 気, 車, 今回, 風呂屋, 常連, ぽい人, 家, 成分
+cluster1:(5)
+温度, バスタオル, お湯, 湯, 温泉
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

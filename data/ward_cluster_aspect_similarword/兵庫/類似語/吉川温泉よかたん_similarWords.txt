@@ -1,0 +1,15 @@
+--------------------similar_words:吉川温泉よかたん--------------------
+top3 entities near to cluster0>>
+寿司, 産地, 食材
+top3 entities near to cluster1>>
+身体, 温度, お湯
+top3 entities near to cluster4>>
+土産, おみやげ, 名産
+top3 entities near to cluster6>>
+施設, 敷地, 設備
+top3 entities near to cluster8>>
+食事, 飲み
+top3 entities near to cluster10>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster13>>
+温泉, 湯, お湯

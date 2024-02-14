@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明石乗馬協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+体験乗馬, 乗馬, 乗馬体験
+cluster1:(2)
+馬たち, 馬
+cluster2:(8)
+中, 大人, こども, 子供, 昼間, 生き生き, 体験, ポニー
+cluster3:(3)
+公園, 石, 動物
+cluster4:(1)
+谷公園
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 3entities.

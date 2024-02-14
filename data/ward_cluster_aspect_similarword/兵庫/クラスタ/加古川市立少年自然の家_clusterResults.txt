@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加古川市立少年自然の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+禁止, カレー作り
+cluster1:(13)
+チェック, ほとり, 学生, ウォーキングコース, 地区, 人, イベント, ランニング, 多く, 大人, 夏休み, 子供, 小学生
+cluster2:(2)
+湖, 星
+cluster3:(6)
+まわり一周, 野外, 観察体験, 野外合宿, 宿泊施設, バス旅行
+cluster4:(1)
+平荘湖
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 5entities.

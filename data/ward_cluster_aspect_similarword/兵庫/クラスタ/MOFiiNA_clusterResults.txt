@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MOFiiNA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+動物園, 動物, 動物たち, 子供達
+cluster1:(22)
+スタッフ, スローロリス, 子, 人, ミルク, カフェ, モルモット, 想像, それぞれ, ケージ, バナナ, ふれあいスペース, 方, ウサギ, 子ども, フクロモモンガ, コース, ネット, 子供, フェネック, 小学生, 触れ合い
+cluster2:(6)
+休憩, 間タイマー, 場所, 途中, 店内, 店
+cluster3:(1)
+追加料金
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 3
+deleted 1entities.

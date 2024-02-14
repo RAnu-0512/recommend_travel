@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:随願寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本堂外陣, 本堂近く
+cluster1:(5)
+車, 寺, 縁, 天井, 聖徳太子所
+cluster2:(1)
+山頂駐車場
+cluster3:(1)
+増位山
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

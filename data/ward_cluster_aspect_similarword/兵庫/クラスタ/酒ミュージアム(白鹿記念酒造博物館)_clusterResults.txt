@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:酒ミュージアム(白鹿記念酒造博物館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+作り方, 昔, 土産, 日本
+cluster1:(3)
+酒, 樽, 酒蔵
+cluster2:(5)
+酒造記念館, 入館料, 白鹿記念酒造博物館, 記念館, 入館記念
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 0entities.

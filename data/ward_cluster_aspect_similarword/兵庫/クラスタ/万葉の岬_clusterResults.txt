@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:万葉の岬>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+万葉岬, 岬
+cluster1:(2)
+椿, 椿園
+cluster2:(2)
+満開, 見頃
+cluster3:(6)
+彼方, 景色, 夕日, 夕焼け空, 眺め, 日没
+cluster4:(11)
+高台, 明石海峡大橋, ドライブ, 品種, 遊歩道, 畑, 南, トイレ, ホテル, 瀬戸内海, 海
+cluster5:(3)
+相生, 下旬, 木
+cluster6:(2)
+冬季期間, 駐車場
+cluster7:(1)
+一輪二輪
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 9entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:真楽園--------------------
+top3 entities near to cluster1>>
+葡萄畑, ぶどう畑, 葡萄, ぶどう
+top3 entities near to cluster3>>
+予約, 電話, 試食
+top3 entities near to cluster4>>
+子供, 子ども, 主人
+top3 entities near to cluster8>>
+渋滞, 道路, 高速

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城崎文学散歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+城崎温泉駅, 城崎温泉街の大谿川
+cluster1:(2)
+城崎にて, 城崎温泉
+cluster2:(2)
+温泉街, 温泉
+cluster3:(2)
+地, 温泉地
+cluster4:(8)
+志賀直哉, 木屋町, 川, 御所, 小路, 蜂, 川沿い, 湯前
+cluster5:(2)
+観光, 散策
+cluster6:(2)
+風景, 風情
+cluster7:(3)
+街, 建物, 店
+cluster8:(2)
+歴史, 舞台
+cluster9:(1)
+道
+cluster10:(23)
+場所, ところ, 繋がり, イモリ, がち, 遊歩道, 多く, ゆかり, 心, 時間, 各所, 筆頭, 付近, 身体, 方, 散歩道, ひとつ, キャラ, 雰囲気, ネズミ, こと, ロープウェイ, 往
+cluster11:(10)
+作家, 小説, 文学碑, 歌人, 文豪達, 文芸, 執筆, 文芸館, 文人, 文豪
+
+howmany entities : 59
+howmany clusters : 12
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 4
+deleted 15entities.

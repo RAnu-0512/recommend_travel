@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:養父神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+養父, 養父神社
+cluster1:(4)
+苔, 紅葉, 緑, 葉
+cluster2:(3)
+感じ, 雰囲気, 距離
+cluster3:(3)
+境内, 明神, 参拝
+cluster4:(1)
+名勝
+cluster5:(1)
+駐車場
+cluster6:(1)
+鳥取&湯村温泉
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 5entities.

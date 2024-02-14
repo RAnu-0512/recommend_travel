@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:賀茂神社のソテツ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+文化財, 見応え, ソテツ, 雰囲気
+cluster1:(2)
+人, 周り
+cluster2:(1)
+国
+cluster3:(1)
+手
+cluster4:(1)
+彫刻
+cluster5:(3)
+野生, 龍, 蘇鉄
+cluster6:(1)
+ピアノ線
+cluster7:(2)
+建造物, 群生林
+cluster8:(7)
+宮崎・青島神社, 馬足の龍, 神社, 元宮, 上賀茂神社, 賀茂神社, 古代祭祀場
+cluster9:(1)
+兵庫県たつの市室津明神山
+
+howmany entities : 23
+howmany clusters : 10
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 9entities.

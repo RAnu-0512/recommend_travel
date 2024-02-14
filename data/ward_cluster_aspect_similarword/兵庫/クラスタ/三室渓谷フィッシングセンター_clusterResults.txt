@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三室渓谷フィッシングセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+ポイント, フィッシング, 中国自動車道, アクアパッツァ, ファミリー, レンタル, フィッシングセンター, ムニエル
+cluster1:(2)
+初心者, 小学生
+cluster2:(1)
+フライ
+cluster3:(1)
+手ぶら
+cluster4:(3)
+友人, 父, 家族
+cluster5:(8)
+場所, 自然, 場合, 次, 方, 交代, 水, 中
+cluster6:(6)
+値段, 道具, 食堂, 針, ラジオペンチ, 料金
+cluster7:(4)
+全て込み, 子供たち, 家族連れ, 子供
+cluster8:(7)
+放流魚, 魚, 管理釣り場, イワナ釣り場, イワナ, 釣り場, アマゴ
+cluster9:(2)
+釣り道具, 釣道具
+cluster10:(2)
+川釣り, 川
+cluster11:(3)
+釣り方, 釣りがい, 釣り
+
+howmany entities : 47
+howmany clusters : 12
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 7
+deleted 8entities.

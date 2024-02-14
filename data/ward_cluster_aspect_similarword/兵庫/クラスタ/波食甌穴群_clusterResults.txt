@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:波食甌穴群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+形, 自然, 人, 力
+cluster1:(4)
+岩盤, 海水, 小石, 穴
+cluster2:(1)
+指定文化財
+cluster3:(1)
+波食甌穴群
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

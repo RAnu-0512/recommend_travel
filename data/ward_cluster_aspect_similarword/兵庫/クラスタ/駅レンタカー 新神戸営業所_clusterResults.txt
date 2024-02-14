@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駅レンタカー 新神戸営業所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅レンタカー, 駅
+cluster1:(4)
+新幹線, 車, 店, レンタカー
+cluster2:(4)
+方法, 中, 説明, 方
+cluster3:(1)
+新神戸駅
+cluster4:(1)
+利便性
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 4entities.

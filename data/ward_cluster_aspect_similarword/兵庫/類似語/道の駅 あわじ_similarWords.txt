@@ -1,0 +1,61 @@
+--------------------similar_words:道の駅 あわじ--------------------
+top3 entities near to cluster0>>
+味噌汁, おかず, ごはん
+top3 entities near to cluster1>>
+切り身, ホタテ, 刺身
+top3 entities near to cluster2>>
+シラス, しらす, タイツ
+top3 entities near to cluster3>>
+ランチ, カフェ, レストラン
+top3 entities near to cluster6>>
+コロッケ, 焼きそば, 歯ごたえ
+top3 entities near to cluster8>>
+コンクリート, ドッグラン, マンホール
+top3 entities near to cluster10>>
+ボリューム, てんこ盛り, コントラスト
+top3 entities near to cluster11>>
+レストラン, ロケーション, クリスマス
+top3 entities near to cluster14>>
+シーズン, ドライブ, リベンジ
+top3 entities near to cluster19>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster25>>
+ハエ, タコ, ベル
+top3 entities near to cluster27>>
+前回, 前々回
+top3 entities near to cluster31>>
+角度
+top3 entities near to cluster33>>
+満足, 充実
+top3 entities near to cluster34>>
+購入, 価格, 販売
+top3 entities near to cluster35>>
+海, 海沿い, 海辺
+top3 entities near to cluster36>>
+家族, 週末, 友人
+top3 entities near to cluster37>>
+駅, バス, 駅前
+top3 entities near to cluster38>>
+建物, 施設, 設備
+top3 entities near to cluster39>>
+写真, 景色, 夜景
+top3 entities near to cluster40>>
+鯛, 玉ねぎ, 海鮮
+top3 entities near to cluster41>>
+名産品, 特産品, 特産, 名産
+top3 entities near to cluster43>>
+定食屋, 雑貨屋, 定食, 雑貨
+top3 entities near to cluster44>>
+土産, おみやげ, 土産物
+top3 entities near to cluster45>>
+昼食, 食事, お昼
+top3 entities near to cluster46>>
+飲食, 飲食店, レストラン
+top3 entities near to cluster51>>
+混雑, 席, 時間
+top3 entities near to cluster52>>
+施設, 駐車, 宿泊
+top3 entities near to cluster57>>
+海鮮, 丼, 魚介
+top3 entities near to cluster61>>
+丼, 定食, どんぶり

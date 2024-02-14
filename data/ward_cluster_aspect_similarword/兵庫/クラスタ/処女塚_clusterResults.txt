@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:処女塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+西求女塚古墳, 東求女塚古墳, 東・西求女塚古墳
+cluster1:(14)
+エリア, ひとつ, 横, 所, 東灘・芦屋, 万葉, 遊具, 南東, こと, 阪神, 古墳, 国道, 石碑, 石屋川駅
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

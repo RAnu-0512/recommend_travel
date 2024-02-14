@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さをりstudioゆう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+友達, 先生, 方
+cluster1:(2)
+説明, 体験
+cluster2:(1)
+旅行
+cluster3:(1)
+糸
+cluster4:(1)
+何か
+cluster5:(1)
+物作り体験
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

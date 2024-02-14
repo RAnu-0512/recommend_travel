@@ -1,0 +1,17 @@
+--------------------similar_words:ホテルオークラ神戸--------------------
+top3 entities near to cluster0>>
+接客, 雰囲気, 感覚
+top3 entities near to cluster5>>
+バニラ, アイス, アイスクリーム
+top3 entities near to cluster6>>
+サラダ, ポテト, セット
+top3 entities near to cluster11>>
+デザート, ケーキ, ランチ
+top3 entities near to cluster14>>
+サービス, スタッフ, ポイント
+top3 entities near to cluster23>>
+景色, 夜景, 窓
+top3 entities near to cluster24>>
+食事, 宿泊, 夕食
+top3 entities near to cluster26>>
+パン, 食パン, 自家製

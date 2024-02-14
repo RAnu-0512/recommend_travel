@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出石城山ガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蕎麦打ち体験, 蕎麦打ち
+cluster1:(3)
+ソバ打ち体験, 初そば打ち体験, そば打ち体験
+cluster2:(4)
+思い出作り, 作業, おすすめ体験, 体験
+cluster3:(23)
+スタッフ, 説明, 蕎麦湯, 気持ち, もの, 人, アドバイス, 特徴, おまけ, 時間, 平均, 道, 方, 手ぶら, 最後, 家内, 家族, 機会, 男性, 子供, 最初, 先生, プラン
+cluster4:(4)
+蕎麦, そば, 粉, 薬味
+cluster5:(3)
+味, 味見, 美味
+cluster6:(3)
+店舗, 焼肉, 店
+cluster7:(1)
+茹
+cluster8:(1)
+先生謹製
+cluster9:(3)
+但馬牛, 出石, 出石そば
+cluster10:(3)
+食べ放題, 皿そば, そば打ち
+
+howmany entities : 50
+howmany clusters : 11
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 8
+deleted 4entities.

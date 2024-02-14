@@ -1,0 +1,15 @@
+--------------------similar_words:有馬本街道(湯本坂)--------------------
+top3 entities near to cluster1>>
+坂, 坂道, 小路
+top3 entities near to cluster2>>
+商店街, 商店, 路地
+top3 entities near to cluster3>>
+土産, 名物, 料理
+top3 entities near to cluster5>>
+散策, 散歩, 紅葉
+top3 entities near to cluster6>>
+和菓子, レストラン, 美味しい
+top3 entities near to cluster15>>
+部屋, 寝室, 居室
+top3 entities near to cluster17>>
+温泉, 旅館, 宿

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永楽庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+商品, 店
+cluster1:(4)
+次回, 最中, タカラジェンヌ, パリパリ
+cluster2:(1)
+宝塚
+cluster3:(1)
+餡子
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

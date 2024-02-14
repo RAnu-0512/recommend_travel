@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東山温泉「ラドンの湯」(フォレストステーション波賀内)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+ラドン温泉, 温泉水, 天然ラドン温泉, 東山温泉メイプルプラザ, 日帰り温泉, 温泉
+cluster1:(2)
+無色透明, 秘境感
+cluster2:(3)
+あまご, 子供ずれ, 孫たち
+cluster3:(5)
+夕食, シニアプラン, 家族, 夫, 相棒
+cluster4:(8)
+ジェット, ところ, サウナ, 露天風呂, レストラン, シーズン, ジャグジー, 夏休み
+cluster5:(2)
+ソコ, 近く
+cluster6:(3)
+部分, 中, こと
+cluster7:(1)
+施設
+cluster8:(1)
+満載
+cluster9:(1)
+視線
+cluster10:(10)
+庭, 星, 景色, 自然, 和食, 名産, 笹うどん, 蜂, 料理, 庭園
+cluster11:(8)
+風呂, 露天, 部屋, ポリタンク, お風呂屋, 内湯, 湯, 飲用
+cluster12:(1)
+波賀
+cluster13:(1)
+東山銘水の源泉地ラドン
+
+howmany entities : 52
+howmany clusters : 14
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 7
+deleted 9entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸 箸屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+けずり箸, 箸, 箸屋
+cluster1:(11)
+もの, テーブルウエア, 先, 昔, 店, 種類, お気に入り, 箸置き, 専門, テーブル, 品質
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長楽寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+豊岡市, 城崎
+cluster1:(6)
+坂, 境内, 山, 寺, 木, 中腹
+cluster2:(2)
+景色, 紅葉
+cluster3:(3)
+椿, 花, 葉
+cluster4:(15)
+途中, 現状, 息, 花びら, 円山川, 裸, 状態, 方, 看板, 知らせ, ネット, こと, 他, 見晴らし, 期待
+cluster5:(1)
+登り口
+cluster6:(1)
+樹齢
+cluster7:(1)
+散り椿
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 7entities.

@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちご農園 雅ファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+食べ比べ, 食べ放題, 集合時間, 時間帯, 予約, 遅れぎみ, 別料金, 大きさ, 注意事項, 美味しさ, 予約時間, 受付
+cluster1:(5)
+説明, 訪問, 連絡, 収穫, 体験
+cluster2:(4)
+帰り, 家, 方々, 方
+cluster3:(9)
+余談, 種類, 時間, 中, 最後, 予定, こと, 他, 目的
+cluster4:(1)
+禁止
+cluster5:(1)
+ありどれ
+cluster6:(1)
+徒歩
+cluster7:(5)
+小粒, 苺, 房, ちご, 雅ファーム
+cluster8:(13)
+ジェラート, スタッフ, ハサミ, 食べ頃, ハウス, イチゴ, シーズン, おみやげ, ゴールデンウィーク, トイレ, 持ち帰り, いちご, こども
+cluster9:(2)
+娘, 子供
+cluster10:(2)
+人, 家族
+cluster11:(1)
+主人
+cluster12:(1)
+孫
+cluster13:(2)
+味, 笑顔
+cluster14:(2)
+お腹, 赤身
+cluster15:(1)
+おおきみ
+cluster16:(7)
+大中小, 練乳, 練乳無し, 無農薬, 農園, 甘い香り, 体験農園
+cluster17:(5)
+いちご狩りビニールハウス, いちご狩り練乳, いちご狩り, 土耕栽培, イチゴ狩り
+
+howmany entities : 74
+howmany clusters : 18
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 8
+deleted 14entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:神戸酒心館--------------------
+top3 entities near to cluster0>>
+清酒, 酒蔵, 酒粕
+top3 entities near to cluster5>>
+雰囲気, ショップ, レストラン
+top3 entities near to cluster8>>
+ランチ, 買い物, つまみ
+top3 entities near to cluster13>>
+飲食店, 飲食, 食事
+top3 entities near to cluster14>>
+受賞, 晩餐
+top3 entities near to cluster15>>
+試飲, 見学, 酒蔵
+top3 entities near to cluster16>>
+地酒, 焼酎

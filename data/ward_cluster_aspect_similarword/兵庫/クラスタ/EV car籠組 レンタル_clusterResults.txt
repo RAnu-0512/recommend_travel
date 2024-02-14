@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:EV car籠組 レンタル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光センター, 観光
+cluster1:(2)
+ところ, あたり
+cluster2:(1)
+レンタサイクル
+cluster3:(1)
+そば
+cluster4:(1)
+エコ
+cluster5:(1)
+台数
+cluster6:(1)
+出石そば
+cluster7:(1)
+お土産屋
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

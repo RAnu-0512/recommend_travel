@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蛭子神社(柳原えびす神社)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+えびす祭り, 夜店, 屋台, 祭り
+cluster1:(7)
+晩, 人, 飾り, 時間, 賑わい, まつり, 時期
+cluster2:(4)
+神社, 駅, 神, えびすさん
+cluster3:(1)
+活気
+cluster4:(1)
+残り福
+cluster5:(3)
+参拝客, 商売繁盛, 商売
+cluster6:(1)
+えべっ
+cluster7:(1)
+歩行者天国
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 4entities.

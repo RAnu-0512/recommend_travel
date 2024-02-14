@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新舞子海水浴場(兵庫県たつの市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+子供連れ, お子さん連れ, 子供達, 子供たち, 家族連れ, 子供連れ客, 大人, 子供
+cluster1:(2)
+便, 交通
+cluster2:(2)
+夏, 季節
+cluster3:(19)
+スタッフ, ところ, 夕暮れ, 気持ち, バーベキュー, スポット, ハマグリ, あさり, マリンスポーツ, 潮干狩, 潮干狩り, メジャー, 海水浴, 子連れ, (^-^, シャワー, ホテル, 着替え, オススメ
+cluster4:(1)
+掃除
+cluster5:(14)
+まえ, 場所, 割, 人, 足, 多く, 家, 前, 実家, 方, 地元, こと, たつ, 近く
+cluster6:(2)
+シーショア御津岬, 兵庫県
+cluster7:(3)
+海水浴場, 潮干狩り場, 新舞子海水浴場
+cluster8:(2)
+船釣り, 貝拾い
+cluster9:(6)
+海, 潮風, 正直海, 海岸, 砂浜, 遠浅
+cluster10:(6)
+潮干, 波, 貝, 魚, カニ, 潮
+cluster11:(1)
+温水シャワー
+
+howmany entities : 66
+howmany clusters : 12
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 6
+deleted 10entities.

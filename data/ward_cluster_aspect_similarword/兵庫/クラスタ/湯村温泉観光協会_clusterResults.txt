@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯村温泉観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+もの, 横, 中央, おすすめ, 店, 地元, 地図, パンフレット, 情報, 中心, 方, 近く
+cluster1:(2)
+温泉街, 湯村温泉
+cluster2:(3)
+記念品, 杜氏館, 観光案内
+cluster3:(1)
+古民家風
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 3entities.

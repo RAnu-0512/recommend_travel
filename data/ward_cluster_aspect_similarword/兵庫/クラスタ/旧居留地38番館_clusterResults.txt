@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧居留地38番館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+居留地, 居留地38番館, 旧居留地
+cluster1:(6)
+味, 場所, 建物, 外観, こと, 写真
+cluster2:(2)
+ビル, 外壁
+cluster3:(2)
+威厳, ルネサンス様式
+cluster4:(1)
+経年
+cluster5:(1)
+国道
+cluster6:(6)
+お子, 角, 隣り, 外国, 人, 隣
+cluster7:(2)
+遠回り, マップ
+cluster8:(15)
+ライト, インターネット, ショッピング, ブランド, カフェ, カフェテラス, ブランドショップ, アメリカン, 見ごたえ, きっかけ, ショップ, ティールーム, エルメス, 雰囲気, シティバンク
+cluster9:(4)
+街並み, 石造り, 他県, 海岸通
+cluster10:(1)
+メリケンパーク
+cluster11:(3)
+アフタヌーンティー, ティータイム, 東ドイツ&デンマーク
+cluster12:(5)
+店舗, ブランド店, 雑貨店, 店, 建造物
+cluster13:(8)
+神戸, 大丸, 元町駅, 大丸神戸店, 元町, 南京町, 神戸大丸, 神戸支店
+cluster14:(3)
+観光, 関西周遊旅行, 観光旅行
+cluster15:(3)
+徒歩圏, 時間帯, 移動時間
+cluster16:(3)
+高級感, 異国情緒, 世界情勢
+
+howmany entities : 68
+howmany clusters : 17
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 11
+deleted 9entities.

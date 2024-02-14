@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ここいろfarm>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+いちご狩り, イチゴ狩り, 苺狩り, いちご狩り会場
+cluster1:(2)
+手洗い場, 駐車場
+cluster2:(2)
+子供達, 子供たち
+cluster3:(9)
+苺, 品種, 農園, 味, 香り, 匂い, 大粒, 練乳, 甘み
+cluster4:(7)
+点, もの, 方, こと, 感じ, 場所, 時期
+cluster5:(4)
+口, 施設, 駅, 道
+cluster6:(11)
+GW, 写真, 前, 次, 数, 他, 目, 周り, 時間, 最後, 近く
+cluster7:(2)
+子供, 娘
+cluster8:(2)
+人, 家族
+cluster9:(1)
+人数
+cluster10:(25)
+ベビーカー, ネット, 感謝, サイズ, 清潔, 対応, 予約, 味わい, 満腹, いちご, ハウス, 飲み物, チェック, ハズレ, いちごハウス, 口コミ, トイレ, スタッフ, 食べ頃, イチゴ, すすめ, ビニールハウス, 釣り, 広大, ファーム
+cluster11:(14)
+ちご, こー, ちごハウス, 傷んだいちご, 食べ放題, 美味しさ, おいCベリー, ここいろfarm, 紅ほっぺ, Cーいちご, Cベリー, 食べ比べ, 甘さ, 章姫
+
+howmany entities : 83
+howmany clusters : 12
+howmany entities (more than3entities) : 74
+howmany clusters (more than3entities) : 7
+deleted 9entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:姫路科学館「アトムの館」--------------------
+top3 entities near to cluster0>>
+展示, 入場, 出展
+top3 entities near to cluster1>>
+子供, 息子, 子ども
+top3 entities near to cluster4>>
+上映, 映画, 映像
+top3 entities near to cluster5>>
+子ども, 子供, 小学生
+top3 entities near to cluster6>>
+家族, 体験, 関係
+top3 entities near to cluster8>>
+時間階, 館内, 時間
+top3 entities near to cluster9>>
+科学, 館, 自然

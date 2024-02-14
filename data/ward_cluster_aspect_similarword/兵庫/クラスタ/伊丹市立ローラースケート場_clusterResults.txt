@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊丹市立ローラースケート場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+有料駐車場, 専用駐車場, 駐車場
+cluster1:(4)
+市営, 公立, ローラースケート場, 場外
+cluster2:(5)
+お子さん連れ, 教室, 開催, 見学, 体験
+cluster3:(2)
+値段, 料金
+cluster4:(4)
+多く, 条件, 昔, こと
+cluster5:(6)
+人, 大人, 親, 女性, 子供, 娘
+cluster6:(8)
+スタッフ, ローラースケート, 車, こども, 一輪車, レンタル, オススメ, スケート
+cluster7:(6)
+レンタル靴つき, マスク着用, ルール違反, 足, 靴, コロナ自粛
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 7
+deleted 2entities.

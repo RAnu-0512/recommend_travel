@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立宝塚西谷の森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+案内看板, 看板
+cluster1:(18)
+ウォーキング, ランチ, ドライブ, 気持ち, カフェ, メイン, アップダウン, トンボ, ハイキングコース, バッタ, トレッキングコース, ワンコ, トレッキングシューズ, ハイキング, 猪名川, コース, 入り口, ハイカー
+cluster2:(3)
+散歩, 歩道, 公園
+cluster3:(3)
+山, 平地, 頂上
+cluster4:(21)
+感じ, 場所, 途中, ロードサイド, 母, 距離, ころ, 順路, 子, 足元, 格好, 小さな子, 家, 周辺, 時間, 大人, 風景, 方, 右側, 子供, こと
+cluster5:(3)
+農業体験, 体験プログラム, かやぶき農家
+cluster6:(2)
+里山, 里山公園
+cluster7:(2)
+自然, 自然観察
+cluster8:(1)
+散策路
+cluster9:(3)
+定休日, 展望台, 駐車場
+
+howmany entities : 58
+howmany clusters : 10
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 6
+deleted 7entities.

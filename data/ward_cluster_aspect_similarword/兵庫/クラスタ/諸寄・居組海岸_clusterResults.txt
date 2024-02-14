@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:諸寄・居組海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+居組, 居組集落, 東浜駅
+cluster1:(6)
+山陰海岸, 地方道, 方面, 海岸, 漁港, 海
+cluster2:(1)
+展望台
+cluster3:(1)
+七坂八峠線
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

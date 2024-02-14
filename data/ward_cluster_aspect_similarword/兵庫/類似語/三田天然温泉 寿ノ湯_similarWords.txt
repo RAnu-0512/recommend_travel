@@ -1,0 +1,19 @@
+--------------------similar_words:三田天然温泉 寿ノ湯--------------------
+top3 entities near to cluster0>>
+上段, 下段, 中段
+top3 entities near to cluster1>>
+内容, 施設, 料金
+top3 entities near to cluster3>>
+デザート, レストラン, ケーキ
+top3 entities near to cluster5>>
+プラン, ページ, セット
+top3 entities near to cluster6>>
+水風呂, 炭酸泉, サウナ
+top3 entities near to cluster9>>
+屋外, 自由
+top3 entities near to cluster10>>
+料理, お菓子, 紅茶
+top3 entities near to cluster11>>
+入口, 入り口, 風呂
+top3 entities near to cluster13>>
+飲食店, 飲食, 店舗

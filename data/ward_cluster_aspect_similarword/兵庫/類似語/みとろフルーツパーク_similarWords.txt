@@ -1,0 +1,17 @@
+--------------------similar_words:みとろフルーツパーク--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 展望
+top3 entities near to cluster1>>
+果物, 野菜, 植物
+top3 entities near to cluster2>>
+子連れ, 滑り台, バーベキュー
+top3 entities near to cluster3>>
+バケツ, トイレ, ティッシュ
+top3 entities near to cluster5>>
+フルーツ, パイナップル, ひまわり
+top3 entities near to cluster10>>
+気持ち, 気持, まわり
+top3 entities near to cluster14>>
+子, 子供, 子ども
+top3 entities near to cluster15>>
+狩り, 果物, 狩る

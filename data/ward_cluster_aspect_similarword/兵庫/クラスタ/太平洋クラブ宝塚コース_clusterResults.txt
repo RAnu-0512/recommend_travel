@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太平洋クラブ宝塚コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食事, 施設
+cluster1:(6)
+コンピューター, コース, スコア, 初心者, ホール, ショット
+cluster2:(2)
+ゴルフコース, オープンコンペ
+cluster3:(1)
+左右
+cluster4:(1)
+太平洋クラブ宝塚コース
+cluster5:(1)
+緊張感
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 7entities.

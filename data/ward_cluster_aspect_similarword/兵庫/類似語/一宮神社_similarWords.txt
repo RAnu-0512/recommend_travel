@@ -1,0 +1,7 @@
+--------------------similar_words:一宮神社--------------------
+top3 entities near to cluster1>>
+北野, 桜, 宮
+top3 entities near to cluster4>>
+御朱印, 書き置き, 朱印
+top3 entities near to cluster9>>
+神社, 境内, 本殿

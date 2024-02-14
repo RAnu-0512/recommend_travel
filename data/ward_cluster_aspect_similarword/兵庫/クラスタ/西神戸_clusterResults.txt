@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西神戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+明石, イメージ, 古く, 印象, リゾート感, 行楽雰囲気, 野菜, 三ノ宮界隈, 人, 工業団地, 趣, 街, 西神戸, 畑, デパート, 田んぼ, 農業公園, 県外, 海沿い, 直売, 西神, 海岸, 都市計画, 開発, 舞台, オフィス街, 西
+cluster1:(2)
+住宅街, 新興住宅街
+cluster2:(3)
+須磨区, 神戸市, 垂水区
+
+howmany entities : 32
+howmany clusters : 3
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 2
+deleted 2entities.

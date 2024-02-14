@@ -1,0 +1,17 @@
+--------------------similar_words:氷ノ山--------------------
+top3 entities near to cluster0>>
+山頂, 登山, 尾根
+top3 entities near to cluster1>>
+紅葉, 新緑
+top3 entities near to cluster3>>
+雰囲気, 気持ち, ススメ
+top3 entities near to cluster5>>
+ウィンタースポーツ, ウインタースポーツ, オフピステ
+top3 entities near to cluster12>>
+小学生, 中学生, 高校生
+top3 entities near to cluster13>>
+スキー, 山登り, トレッキング
+top3 entities near to cluster14>>
+家族, 子供, 子ども
+top3 entities near to cluster16>>
+登山, スキー, 山麓

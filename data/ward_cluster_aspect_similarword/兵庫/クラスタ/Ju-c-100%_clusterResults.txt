@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Ju-c-100%>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+感じ, 作品, スタッフ, まち, 素人, もの, ソープカービング, 技術, アドバイス, ジュース, 北野, カップ, 修正, カット面, フルーツカービング, ナイフ, ジューススタンド, 失敗, 学校, 女性, スィーツ, 制作スピード, 男性, 意外, 手仕事, 工房, 先生
+cluster1:(2)
+注意点, 持ち方
+cluster2:(1)
+生搾りジュース
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 1
+deleted 3entities.

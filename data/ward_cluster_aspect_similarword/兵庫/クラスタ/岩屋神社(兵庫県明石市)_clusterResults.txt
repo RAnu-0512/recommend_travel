@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩屋神社(兵庫県明石市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+スサノオ, オオヒルメ, イザナギ, 式内社, 伊和都, 御祭神, 神社, 明石郡, おしゃたか舟神事, 祭神, 時代, 西摂大観, 月読命, イザナミ, 岩屋エビス, ヒルコ, 江戸時代, 岩屋神社, 六所大明神, 別称, 平安, 古称, 海
+cluster1:(2)
+神名帳考證, 延喜式神名帳
+cluster2:(3)
+比売神社, 彌賀多多神社, 比賣神社
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 2entities.

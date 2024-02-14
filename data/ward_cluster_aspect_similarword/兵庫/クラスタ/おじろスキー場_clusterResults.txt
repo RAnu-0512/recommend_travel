@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おじろスキー場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+スキー場, おじろスキー場, 駐車場
+cluster1:(2)
+小代スキー場, 小代
+cluster2:(15)
+感じ, 説明, 連絡先, 要領, 対応, ←, 確認, 予約, 中心, 問題, 方, 連携, こと, 他, 気分
+cluster3:(10)
+若者, 食堂, 人, 靴, 客, 口, 店, 男性, 子供, おっちゃんたち
+cluster4:(7)
+ゲレンデ, スキーヤー, スノーボード, スノボー, リフト, コース, ゴンドラ
+cluster5:(10)
+ところ, スタッフ, レストラン, 初心者, レンタル, オススメ, ボーダー, かんじ, リピート, スペース
+cluster6:(1)
+マナー
+cluster7:(2)
+スキー, レンタルスキー
+cluster8:(2)
+レンタルボード, ボード
+cluster9:(3)
+雪, スキー板, 冬
+cluster10:(1)
+オーベルジュ花郷里
+cluster11:(8)
+リフト券, 親子券あり, 自己責任, 初級コース, チケット買い直し, 上級コース, 上級者, 従業員
+
+howmany entities : 64
+howmany clusters : 12
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 7
+deleted 8entities.

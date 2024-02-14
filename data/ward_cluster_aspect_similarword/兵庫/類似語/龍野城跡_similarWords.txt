@@ -1,0 +1,17 @@
+--------------------similar_words:龍野城跡--------------------
+top3 entities near to cluster1>>
+町並み, 建物, 街並み
+top3 entities near to cluster2>>
+館園, 館, 住宅
+top3 entities near to cluster3>>
+平城, 戦国, 時代
+top3 entities near to cluster6>>
+居館, 藩主, 支藩
+top3 entities near to cluster7>>
+城跡, 城, 城址
+top3 entities near to cluster8>>
+山麓, 山, 麓
+top3 entities near to cluster10>>
+表門, 冠木門
+top3 entities near to cluster11>>
+櫓, 本丸, 御殿

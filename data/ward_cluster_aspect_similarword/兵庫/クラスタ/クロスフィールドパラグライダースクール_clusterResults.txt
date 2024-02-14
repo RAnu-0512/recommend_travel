@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クロスフィールドパラグライダースクール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+軽トラ, ポイトン
+cluster1:(2)
+子供達, 子供
+cluster2:(2)
+パラグライダー体験, 体験
+cluster3:(2)
+全員, 最後
+cluster4:(5)
+スタッフ, インストラクター, パラグライダー, ガイド, コース
+cluster5:(2)
+テント, ベンチ
+cluster6:(1)
+風向き
+cluster7:(1)
+車
+cluster8:(1)
+風
+cluster9:(5)
+感じ, 説明, 方, こと, 経験
+cluster10:(2)
+世話, 感謝
+cluster11:(1)
+満足感
+
+howmany entities : 26
+howmany clusters : 12
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 16entities.

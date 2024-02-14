@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本玩具博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+知らず知らず, 戦争真っ只中
+cluster1:(13)
+軍艦, 大人, 台所道具, 人形たち, 台所, 子供, 人形, 戦車, 東京江戸博物館, 道具, 食器, 遊具, こどもたち
+cluster2:(2)
+発揚, 国威
+cluster3:(2)
+気持ち, 思い出
+cluster4:(4)
+アフリカ, 富国強兵, ヨーロッパ, アジア
+cluster5:(3)
+おもちゃ, 子ども, ままごと
+cluster6:(5)
+クリスマス, インテリア, トップクラス, ドールハウス, クオリティ
+cluster7:(2)
+コーナー, スポット
+cluster8:(1)
+テーマ
+cluster9:(1)
+博物館
+cluster10:(1)
+ブリキ
+cluster11:(1)
+姫路城
+cluster12:(20)
+資料, 新聞, 姫路, 各地, 館長, 世界, 周辺, 建物, 日本, 海外, 個人, 館内, 蔵, おススメスポット, 昭和, 官庁, 場所, 国内, 家, 時間
+cluster13:(11)
+様子, どこか, 驚き, 昔, 説明, 多さ, もの, なー, こと, 今月のおもちゃ, 違い
+cluster14:(6)
+展示物, 展示品, 収蔵品, 展示館, 展示, 展示棟
+cluster15:(2)
+世界玩具, 玩具
+cluster16:(2)
+近代玩具, 日本玩具博物館
+cluster17:(1)
+郷土玩具
+cluster18:(1)
+駄菓子屋玩具
+
+howmany entities : 80
+howmany clusters : 19
+howmany entities (more than3entities) : 62
+howmany clusters (more than3entities) : 7
+deleted 18entities.

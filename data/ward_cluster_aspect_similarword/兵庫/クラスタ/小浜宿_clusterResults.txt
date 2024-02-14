@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小浜宿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+観光スポット, 並び散策, 繁華街, 観光地, 歴史散策
+cluster1:(2)
+宝塚, 和田
+cluster2:(5)
+景色, 面影, 風景, 迫力, 風情
+cluster3:(13)
+場所, 街並み, 町並み, スポット, 人, 歴史, 家, 建物, レトロ, タイム, 中心地, 雰囲気, 昔
+cluster4:(2)
+道路, 住宅
+cluster5:(3)
+首地蔵, 江戸, 江戸時代
+cluster6:(12)
+小浜, 資料館, 小浜宿, 街道, 昔の宿場町, 小浜宿資料館, 小浜町, 宿場町, 小浜宿場町, 京伏見街道, 有馬街道, 宿場
+
+howmany entities : 42
+howmany clusters : 7
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 5
+deleted 4entities.

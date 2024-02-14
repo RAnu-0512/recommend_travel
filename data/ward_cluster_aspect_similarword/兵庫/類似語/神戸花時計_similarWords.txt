@@ -1,0 +1,21 @@
+--------------------similar_words:神戸花時計--------------------
+top3 entities near to cluster0>>
+写真, お花, 看板
+top3 entities near to cluster1>>
+イベント, デザイン, シンボル
+top3 entities near to cluster2>>
+市庁舎, 市役所, 庁舎
+top3 entities near to cluster5>>
+季節, 時期, 日々
+top3 entities near to cluster10>>
+子供
+top3 entities near to cluster12>>
+季節, 四季, 時季
+top3 entities near to cluster13>>
+名所, 周遊, 名所旧跡
+top3 entities near to cluster15>>
+役所, 市役所, 役人
+top3 entities near to cluster16>>
+発着, 位置, 近辺
+top3 entities near to cluster18>>
+駅, 周辺, 徒歩

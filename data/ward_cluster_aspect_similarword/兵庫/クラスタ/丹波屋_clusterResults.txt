@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+所, 有名人, 女性, ギャー, ガチャン, 流石, 音, 態度, 手土産, 無愛想
+cluster1:(6)
+店員, 店内入り口, 店, 品物, 食器, 幼児
+cluster2:(1)
+サイン色紙
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 1entities.

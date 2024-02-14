@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓬莱峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土柱, 土
+cluster1:(3)
+道路, 国道, 道
+cluster2:(4)
+岩肌, 山, 山道, 斜面
+cluster3:(2)
+景色, 景観
+cluster4:(2)
+紅葉, 秋
+cluster5:(15)
+場所, 途中, 人気, 剥き出し, ロッククライミング, バス, 時間, 横目, 日本, コレ, 先, ハイキング, 迫力, 時期, 現象
+cluster6:(3)
+四国, 宝塚, 有馬
+cluster7:(1)
+宝塚・有馬温泉
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 7entities.

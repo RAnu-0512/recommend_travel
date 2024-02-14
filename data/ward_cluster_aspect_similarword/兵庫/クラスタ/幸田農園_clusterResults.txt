@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:幸田農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+芋ほり, 芋
+cluster1:(3)
+芋掘り体験, 芋掘り農園, 芋掘り
+cluster2:(14)
+感触, 所, 場所, 人達, トコ, 魅力, 行動, 言葉, 運動, 匂い, 方々, 方, 事, 時期
+cluster3:(7)
+子ども達, 女性, 子ども, 家族, 肌, 男性, 子供
+cluster4:(25)
+おい, スタッフ, 向こう, 朝, 気持ち, フルーツフラワーパーク, スーパー, 受け付け, 人, 下, スコップ, 対応, 目, 次, 落ち度, トイレ, 手書き, 土, 野焼き, スイーツ, 余り, シャベル, 他, 違和感, 近く
+cluster5:(2)
+軍手, 両手
+cluster6:(3)
+駅, 道, 地図
+cluster7:(1)
+大口
+cluster8:(1)
+簡易トイレ
+cluster9:(11)
+幸田農園, 大沢町, 農業体験, 自然体験, 農家, 開始時刻, 体験時間, 農園, 大きさ, 体験, 駐車場
+
+howmany entities : 69
+howmany clusters : 10
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 6
+deleted 6entities.

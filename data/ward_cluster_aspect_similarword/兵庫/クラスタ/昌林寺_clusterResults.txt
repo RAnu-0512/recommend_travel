@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昌林寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+昌林寺横, 多田源氏, 美丈丸, 津門神社
+cluster1:(9)
+毘沙門天, 神明, オモイカネ, 祭神, 神仏習合, 由緒, 生き残り, 鳥居, アマテラス
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

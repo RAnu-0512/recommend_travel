@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波いちじまふぁーむ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+生地, パン, ツリーハウス, ブドウジャム
+cluster1:(7)
+コーヒー, スタッフ, 体験スポット, 時間, 心遣い, 方, 雨
+cluster2:(1)
+サワガニ取り
+cluster3:(1)
+ピザ作り
+cluster4:(5)
+スタッフさん達, 友人家族, 親戚, 子どもたち, 具沢山
+cluster5:(1)
+秘密基地探検
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 3entities.

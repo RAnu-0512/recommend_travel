@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝塚けやきヒルカントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+シルバー, カントリークラブ
+cluster1:(1)
+スコア
+cluster2:(1)
+女性
+cluster3:(1)
+食事
+cluster4:(1)
+調子
+cluster5:(1)
+ゴルフ場
+cluster6:(1)
+宝塚けやきヒルカントリークラブ
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

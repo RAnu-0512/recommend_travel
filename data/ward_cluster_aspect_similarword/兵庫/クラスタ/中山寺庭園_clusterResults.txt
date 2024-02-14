@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中山寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハス, ハスごはんのメニュー
+cluster1:(12)
+人達, 地面, 人, 見ごたえ, 眺め, 週末, 喫茶店, 中, 造り, 階段, 時期, 写真
+cluster2:(4)
+花, 梅, 蓮, 鉢
+cluster3:(3)
+境内, 寺, 公園
+cluster4:(2)
+観光, 穴場
+cluster5:(3)
+中山観音駅, 阪急電車, 梅林公園
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 4entities.

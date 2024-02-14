@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福助ファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハウスいちご狩り, いちご狩り
+cluster1:(19)
+苺, 味, 通路, 説明, 練乳, 準備, ハサミ, イス, 種類, クチコミ, イチゴ, 状態, トレー, 虫, 方, 中, いちご, ジャム, ハウス
+cluster2:(3)
+子供達, 子供, 章姫
+cluster3:(1)
+食べ比べ
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 3entities.

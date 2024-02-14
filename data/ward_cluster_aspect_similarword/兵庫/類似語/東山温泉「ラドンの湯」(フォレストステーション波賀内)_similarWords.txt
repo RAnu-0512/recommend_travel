@@ -1,0 +1,13 @@
+--------------------similar_words:東山温泉「ラドンの湯」(フォレストステーション波賀内)--------------------
+top3 entities near to cluster0>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster2>>
+子供, 孫, 子ども
+top3 entities near to cluster3>>
+家族, 夕食, 夫
+top3 entities near to cluster4>>
+サウナ, 露天風呂, ジャグジー
+top3 entities near to cluster10>>
+庭園, 料理, 景色
+top3 entities near to cluster11>>
+風呂, 露天風呂, 露天

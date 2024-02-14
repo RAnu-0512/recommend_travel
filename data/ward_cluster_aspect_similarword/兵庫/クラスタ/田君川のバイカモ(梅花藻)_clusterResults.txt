@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田君川のバイカモ(梅花藻)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+七釜温泉, 湯村温泉
+cluster1:(9)
+もの, 水, 見所, 藻草, 人気, 時期, あたり, 目, 情報
+cluster2:(2)
+水草, 藻
+cluster3:(4)
+梅, 花, 花凛, お花
+cluster4:(1)
+バイカモ
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 5entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杜氏館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+杜氏館, 展示館
+cluster1:(13)
+作り方, 表, 酒, 日本酒作り, 飲酒, 看板, 昔, 道具, 地酒, 購入, 試飲, 日本, 酒樽
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

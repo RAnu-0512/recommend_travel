@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石龕寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+入山料支払い所, 入山料, 拝観料
+cluster1:(11)
+金剛力士像, 山門, 重文, 仁王像, 運慶, 本尊, 古刹, 本堂, 寺, 観音, 聖徳太子開基
+cluster2:(2)
+途中, 横
+cluster3:(3)
+人, 大人, 息子
+cluster4:(5)
+ゆかり, ぜんざい, アングル, 雰囲気, もみじ
+cluster5:(2)
+文化財, 仁王門
+cluster6:(2)
+歴史, 国
+cluster7:(1)
+金
+cluster8:(1)
+安価
+cluster9:(1)
+迫力
+cluster10:(7)
+山頂, 撮影, 紅葉, 砂利, 階段, 売店, 写真
+cluster11:(1)
+高齢者
+cluster12:(3)
+駐車場, 方向又逆光, 登り坂
+cluster13:(8)
+京都舞鶴・松尾寺, 足利尊氏, 石龕寺もみじ, 肥後定慶, 慶派, 丹波紅葉, 鞍馬寺, 足利
+cluster14:(4)
+金剛力士像@重文, 千本釈迦堂こと大報恩寺の変化六観音@, 聖観音立像@重文, 仁王像@重文
+
+howmany entities : 54
+howmany clusters : 15
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 8
+deleted 10entities.

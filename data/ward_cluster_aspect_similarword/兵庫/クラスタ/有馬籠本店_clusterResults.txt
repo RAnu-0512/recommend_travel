@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有馬籠本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伝統工芸品, 伝統工芸, 工芸品
+cluster1:(2)
+有馬籠, 有馬籠くつ
+cluster2:(4)
+竹製品, 竹, 箸, 竹箸
+cluster3:(5)
+涼, 籠, 有馬, 銀, 湯
+cluster4:(2)
+茶道, 冷房
+cluster5:(26)
+値段, 所, 散歩, 品物, カバン, 手作り, 小物, もの, 散策, 人, 製品, バッグ, 竹細工, 感動, 多く, デザイン, 耳掻き, 耳かき, スプーン, 店内, 土産, 店, 開店, フォーク, 気分, 近く
+cluster6:(6)
+職人, 品質作品, 職人技, 弁当箱, 工房, 観光客
+
+howmany entities : 48
+howmany clusters : 7
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 5
+deleted 4entities.

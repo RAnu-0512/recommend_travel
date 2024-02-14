@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:慶野松原海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海岸沿い, 海岸線沿い
+cluster1:(3)
+慶野松原, 慶野, 松原
+cluster2:(2)
+海水浴場, 駐車場
+cluster3:(2)
+波, 波しぶき
+cluster4:(21)
+散歩, 途中, 夏, 夕暮れ, 夕日, 景色, ドライブ, バーベキュー, 人, 車, 石, 西側, 宿, 海水浴, 看板, 水, 中, 淡路島, 爽快, 名前, 瀬戸内海
+cluster5:(7)
+海水, 白浜, 松林, 海岸, 砂浜, 海, 松
+cluster6:(1)
+長さ
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 3
+deleted 7entities.

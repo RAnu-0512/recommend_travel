@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小林家長屋門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+武家屋敷群, 武家長屋建築, 江戸時代後期
+cluster1:(10)
+たたずまい, 建築, 案内板, 堀, はずれ, 篠山藩主, 長年, かやぶき入母屋, 家, 篠山市
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

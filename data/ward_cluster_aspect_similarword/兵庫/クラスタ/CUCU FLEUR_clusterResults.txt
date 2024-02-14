@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:CUCU FLEUR>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+組み合わせ, 選び方, 先生, レッスン
+cluster1:(2)
+花, 色
+cluster2:(1)
+体験レッスン
+cluster3:(1)
+寄せ植え
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

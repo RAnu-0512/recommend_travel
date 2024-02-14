@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千体地蔵(兵庫県三木市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スポット, こと
+cluster1:(1)
+顔
+cluster2:(1)
+脇
+cluster3:(1)
+地蔵
+cluster4:(1)
+利益
+cluster5:(1)
+林道
+cluster6:(1)
+子宝
+cluster7:(1)
+千体地蔵
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

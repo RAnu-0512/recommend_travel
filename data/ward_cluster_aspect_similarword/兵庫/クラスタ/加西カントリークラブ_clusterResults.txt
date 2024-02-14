@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加西カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+フロント, スタッフ
+cluster1:(1)
+バッグ
+cluster2:(1)
+コース
+cluster3:(1)
+男性
+cluster4:(1)
+生業
+cluster5:(1)
+高齢
+cluster6:(1)
+挨拶どころ
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

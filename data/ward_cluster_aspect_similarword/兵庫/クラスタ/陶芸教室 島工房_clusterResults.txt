@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶芸教室 島工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+形, 朝ドラ, 人, 女性, シーサー, 作品, 記念, 母, 猫, こと, スカーレット, テンション
+cluster1:(4)
+陶芸, シーサー作り, 講師, 体験
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

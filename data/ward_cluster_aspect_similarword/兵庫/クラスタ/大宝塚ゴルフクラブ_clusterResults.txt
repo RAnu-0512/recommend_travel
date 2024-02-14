@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大宝塚ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+接待ゴルフ, ゴルフ場, アプローチ練習
+cluster1:(14)
+サービス, バンカー, かき揚げ, 気持ち, クラブハウス, ゴルフ, アップダウン, 手入れ, 清掃, ロッカー, コース, アプローチ, 砂, ガードバンカー
+cluster2:(11)
+感じ, 場所, 具合, 景色, 人, グリーン周り, 食事, 変化, 方々, 駅, 方
+cluster3:(1)
+宝塚
+cluster4:(1)
+アリ地獄
+cluster5:(1)
+従業員
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 3entities.

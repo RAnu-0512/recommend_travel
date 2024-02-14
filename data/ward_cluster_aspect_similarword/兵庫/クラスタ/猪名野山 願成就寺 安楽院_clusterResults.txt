@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猪名野山 願成就寺 安楽院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+境内, 御朱印, 仏閣, 限定御朱印
+cluster1:(6)
+興味, 実家, 友達, 歴史, 正直, 友人
+cluster2:(2)
+納経所, 副住職
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藤の坊さんだ山荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+法被姿, 着物姿
+cluster1:(7)
+鶏, サシ, 牛肉, 鶏肉, 赤身, 部位, 肉
+cluster2:(2)
+料理, 食材
+cluster3:(2)
+食事, 食事場所
+cluster4:(1)
+野菜類
+cluster5:(2)
+お子, 孫たち
+cluster6:(10)
+注意, 場所, 食後, 追加, 納得, 笑, 手前, 到着, ほう, 方
+cluster7:(3)
+イチゴ, イチゴハウス, ハウス
+cluster8:(5)
+サービス, ソーセージ, カーナビ, ソフトドリンク, ノンアルビール
+cluster9:(2)
+BBQ, 焼き肉
+cluster10:(1)
+白ごはん
+cluster11:(14)
+経営, 室内, 車, 収穫, 世代, 農家, 職場, 駐車, 母屋, 息子, 女性, 徒歩, 男性, 親子
+cluster12:(3)
+対向車, 提携先, 道幅
+cluster13:(7)
+イチゴ狩りスタート, 藤の坊さんだ山荘, 私達夫婦+息子夫婦, 老舗料理屋, 白ごはんが食べ放題, 苺狩り, イチゴ狩り
+
+howmany entities : 61
+howmany clusters : 14
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 7
+deleted 12entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三田天満神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+もの, 方
+cluster1:(3)
+人, 受験生, 子ども
+cluster2:(1)
+子どもたち
+cluster3:(1)
+声
+cluster4:(1)
+受験シーズン
+cluster5:(9)
+桜, 天神, 花見, 天気, 三田, 公園, 夕方, 高台, 近く
+cluster6:(3)
+拝殿, 狛犬, 寛政
+cluster7:(1)
+凛とした空気
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 6entities.

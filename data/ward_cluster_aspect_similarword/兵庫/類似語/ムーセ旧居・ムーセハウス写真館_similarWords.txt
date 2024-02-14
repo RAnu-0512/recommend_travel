@@ -1,0 +1,13 @@
+--------------------similar_words:ムーセ旧居・ムーセハウス写真館--------------------
+top3 entities near to cluster0>>
+住居, 跡, 遺構
+top3 entities near to cluster1>>
+外国, 海外, 明治
+top3 entities near to cluster3>>
+写真, ビデオ, 映像
+top3 entities near to cluster7>>
+模型, 電車, 鉛
+top3 entities near to cluster9>>
+採掘, 鉱山, 精錬
+top3 entities near to cluster10>>
+鉱山, 選鉱

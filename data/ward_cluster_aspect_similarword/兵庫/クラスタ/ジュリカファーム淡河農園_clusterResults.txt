@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジュリカファーム淡河農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+香り, 甘, 大きさ, 甘い香り
+cluster1:(36)
+途中, 手, 母, ランチ, 野菜, 場, 品種, 結果, 車, 実, お出かけ, 花, 次, イチゴ, 農家, 時間, 量り売り, ビニールハウス, トイレ, 方々, 近く, 駅, 兄さん, 道, 方, 娘, 雰囲気, いちご, 農園, 家族, 持ち帰り予定, こと, 他, 時期, ハウス, かた
+cluster2:(6)
+子供たち, 平日雨, 土産分, 私達, 土産, 子供
+cluster3:(1)
+駅淡河
+cluster4:(3)
+食べ放題, イチゴ狩り食べ放題, 選び放題
+cluster5:(6)
+いちご摘み, パック摘みとり, イチゴ大福, いちご狩り, 完熟イチゴ, イチゴ狩り
+
+howmany entities : 56
+howmany clusters : 6
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 5
+deleted 1entities.

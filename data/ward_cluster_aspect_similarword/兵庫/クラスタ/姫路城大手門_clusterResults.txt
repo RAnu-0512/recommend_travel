@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路城大手門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+姫路城入り口大手門, 桜門橋
+cluster1:(3)
+終わり化粧, 甲冑, 修理
+cluster2:(10)
+天守閣, ジュース, 姫路城, 堀, 山陽本線, 城, 大手門, 店, 目的, 違和感
+cluster3:(2)
+威厳, 構え
+cluster4:(4)
+全景, 門, 正門, 南面
+cluster5:(4)
+猛暑, 平成, 昭和, 水分
+cluster6:(1)
+大きさ
+cluster7:(5)
+江戸時代, 姫路駅, 姫路, 唯一国宝姫路城, 倉敷
+cluster8:(1)
+自動販売機
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 5
+deleted 6entities.

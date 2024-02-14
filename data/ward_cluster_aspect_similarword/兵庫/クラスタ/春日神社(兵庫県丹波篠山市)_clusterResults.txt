@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:春日神社(兵庫県丹波篠山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+外, 文化財, 驚, 雨戸, 泣, 見どころ, 散策マップ, 思い, 足, 篠山, 秋, 工事, こと, お参り, 中心
+cluster1:(2)
+能舞台, 能
+cluster2:(2)
+神社, 本殿
+cluster3:(2)
+神輿, 奉納
+cluster4:(1)
+絵馬殿
+cluster5:(1)
+藩主
+cluster6:(1)
+繁華街
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 9entities.

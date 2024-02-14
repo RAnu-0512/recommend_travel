@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒井城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+黒井城跡, 福知山線黒井駅, 黒井城
+cluster1:(3)
+登城道, 登城, 登城口
+cluster2:(4)
+登り, 急坂コース, 急坂, 頂上
+cluster3:(4)
+登山道, 道, 登山口, 登山
+cluster4:(1)
+駐車場
+cluster5:(6)
+本丸・二の丸, 城主, 本丸, 城跡, 城, 居城
+cluster6:(3)
+石垣, 山城, 赤井
+cluster7:(4)
+春日局, 興善寺, ふもと, コース
+cluster8:(2)
+奥, 横
+cluster9:(1)
+地図
+cluster10:(1)
+天候
+cluster11:(1)
+春日生活センター
+cluster12:(1)
+明智光秀
+cluster13:(1)
+赤井悪右衛門直正
+
+howmany entities : 35
+howmany clusters : 14
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 7
+deleted 8entities.

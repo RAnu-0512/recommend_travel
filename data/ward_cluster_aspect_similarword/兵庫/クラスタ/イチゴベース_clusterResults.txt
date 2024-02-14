@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:イチゴベース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+香り, 人目, 清潔, どこか, 食べまくり, 土産
+cluster1:(2)
+念願, 決意
+cluster2:(5)
+場所, もの, 人, 施設, 方
+cluster3:(14)
+トレイ, 口コミ, ハサミ, リピーター, 対応, イチゴ, プラケース, オーナー, トイレ, 手入れ, 手ぶら, いちご, ハウス, オススメ
+cluster4:(1)
+良さ
+cluster5:(5)
+苺, 練乳, 姫, 紅ほっぺ, 紙コップ
+cluster6:(1)
+貸切状態
+cluster7:(2)
+いちご狩り, イチゴ狩り
+cluster8:(2)
+家族, 弟家族
+cluster9:(3)
+イチゴたち, 娘たち, こどもたち
+cluster10:(1)
+姪っ子
+cluster11:(1)
+高設栽培
+
+howmany entities : 43
+howmany clusters : 12
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 10entities.

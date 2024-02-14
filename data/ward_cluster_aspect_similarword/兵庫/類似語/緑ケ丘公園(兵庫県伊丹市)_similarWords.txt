@@ -1,0 +1,9 @@
+--------------------similar_words:緑ケ丘公園(兵庫県伊丹市)--------------------
+top3 entities near to cluster0>>
+公園, 散策, 散歩
+top3 entities near to cluster1>>
+梅, 桜, 梅園
+top3 entities near to cluster3>>
+子供, 子ども, 自然
+top3 entities near to cluster4>>
+時間, 敷地, 木

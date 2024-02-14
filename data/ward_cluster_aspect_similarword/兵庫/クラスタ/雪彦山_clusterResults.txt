@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雪彦山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鎖場, 鎖
+cluster1:(11)
+登り, 紅葉シーズン, 景色, 山容, 岩, 名山, 修行, 岩場, 紅葉, 崖, 岩山
+cluster2:(7)
+感覚, 子, 場, 人, 想像, 方, こと
+cluster3:(17)
+ところ, ドライブ, スポット, ルート, 山登り, ロープ, 山, ロッククライミング, 氷ノ山, 初心者, スリル, 雰囲気, ハイキング, コース, クライミング, 瀬戸内海, ロッククライミングスポット
+cluster4:(3)
+自然, 日本, 地元
+cluster5:(2)
+酒蔵, 雨天
+cluster6:(1)
+怖さ
+cluster7:(8)
+修験, 日本三彦山, 愛好家, 登山部, 修験者, 登山コース, 登山者, 登山
+
+howmany entities : 51
+howmany clusters : 8
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 5
+deleted 5entities.

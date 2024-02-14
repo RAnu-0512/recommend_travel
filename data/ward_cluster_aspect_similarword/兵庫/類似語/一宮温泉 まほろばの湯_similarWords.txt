@@ -1,0 +1,7 @@
+--------------------similar_words:一宮温泉 まほろばの湯--------------------
+top3 entities near to cluster1>>
+お湯, 風呂, 温泉
+top3 entities near to cluster3>>
+景色, 館内, 露天風呂
+top3 entities near to cluster6>>
+肌, 乾燥, 食塩

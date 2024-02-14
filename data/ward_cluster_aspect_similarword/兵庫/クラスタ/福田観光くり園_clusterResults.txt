@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福田観光くり園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+ところ, 木, こと, 栗, 小学生未満, イガ, オススメ, 緑色
+cluster1:(2)
+別料金, 料金
+cluster2:(2)
+入場者, 入場料金
+cluster3:(1)
+責任者
+cluster4:(1)
+開園日
+cluster5:(1)
+従業員
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 7entities.

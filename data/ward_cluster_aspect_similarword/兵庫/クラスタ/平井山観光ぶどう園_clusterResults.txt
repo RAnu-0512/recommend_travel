@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平井山観光ぶどう園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ぶどう狩り, 果物, 大粒
+cluster1:(10)
+ピクニック, 笑, 始まり, ぶどう, シーズン, クーポン, 実家, 秋, 家族, 経験
+cluster2:(2)
+陣, 氷
+cluster3:(1)
+ゴザ
+cluster4:(1)
+紫玉
+cluster5:(1)
+食べ放題
+cluster6:(6)
+羽柴秀吉公, 観光ぶどう園, 平井山観光ぶどう園, 三木市, 兵庫県, 三木城攻め
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 5entities.

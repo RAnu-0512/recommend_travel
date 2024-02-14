@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハチ北温泉湯治の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+子供たち, 時間, 食堂, メニュー, 風呂, 方たち, 温泉, 人数
+cluster1:(2)
+ネギ塩, 唐揚げ
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

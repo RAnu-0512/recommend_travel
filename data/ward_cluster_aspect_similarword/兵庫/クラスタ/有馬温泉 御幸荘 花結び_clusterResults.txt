@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有馬温泉 御幸荘 花結び>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紅葉時期, 紅葉
+cluster1:(6)
+旅館, 内部, 距離, 部屋, 料理, 近く
+cluster2:(1)
+有馬温泉
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

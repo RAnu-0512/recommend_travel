@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くるみの里キャンプ場 (アウトドアスポット・カヤック・川遊び・釣り・Eバイク)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+カヤック, アウトドア
+cluster1:(1)
+くるみ
+cluster2:(1)
+里
+cluster3:(1)
+カヤック体験
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:志方八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+八幡神, 志方八幡宮
+cluster1:(4)
+応神天皇, 現社, 祭神, 宮谷
+cluster2:(1)
+神功皇后
+cluster3:(1)
+玉依比売命
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:うすくち龍野醤油資料館--------------------
+top3 entities near to cluster0>>
+建物, 施設, 館内
+top3 entities near to cluster1>>
+勘, 蔵人, 人力
+top3 entities near to cluster3>>
+道具類, 器具類, 道具, 器具
+top3 entities near to cluster6>>
+樽, 桶, アモンティラード
+top3 entities near to cluster8>>
+醤油, しょうゆ, しょう油
+top3 entities near to cluster9>>
+製造, 工程, 工場
+top3 entities near to cluster11>>
+醤油, しょうゆ, 濃口
+top3 entities near to cluster12>>
+資料, 展示, 館

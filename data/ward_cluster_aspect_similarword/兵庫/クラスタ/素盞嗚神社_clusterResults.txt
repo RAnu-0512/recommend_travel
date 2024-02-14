@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:素盞嗚神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+愛, 心, 歓喜
+cluster1:(2)
+置物, お願い事
+cluster2:(7)
+ホームベース, ボール, 甲子園, タイガース, シーズン, お願い, 落ち着き
+cluster3:(2)
+人, 日本
+cluster4:(1)
+隣
+cluster5:(1)
+時期
+cluster6:(1)
+正月
+cluster7:(1)
+ボー
+cluster8:(1)
+何か
+cluster9:(4)
+神社, V祈願, 境内, 参拝
+cluster10:(1)
+福井県
+cluster11:(12)
+野球, 阪神神社, 野球神社, 西宮神社, 甲子園駅, 甲子園球場, 野球塚, 高校球児, 試合, 球場, 元戎神社, 駐車場
+
+howmany entities : 36
+howmany clusters : 12
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 10entities.

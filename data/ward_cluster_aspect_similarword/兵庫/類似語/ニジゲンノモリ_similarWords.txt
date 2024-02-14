@@ -1,0 +1,65 @@
+--------------------similar_words:ニジゲンノモリ--------------------
+top3 entities near to cluster0>>
+滅, 鬼, 砕士
+top3 entities near to cluster1>>
+蜘蛛, 山, 里
+top3 entities near to cluster2>>
+解き, 謎, ナゾ
+top3 entities near to cluster3>>
+ゲーム, ミニゲーム, イベント
+top3 entities near to cluster4>>
+メイン, テーマ, 我が家
+top3 entities near to cluster5>>
+ストレス, レベル, スピード
+top3 entities near to cluster7>>
+エピソード, コーナー, タイトル
+top3 entities near to cluster8>>
+イベント, メニュー, パーティー
+top3 entities near to cluster9>>
+アイテム, ショップ, ポイント
+top3 entities near to cluster11>>
+アトラクション, テーマパーク, ゲーム
+top3 entities near to cluster12>>
+クレヨン, スタンプ, ジオラマ
+top3 entities near to cluster13>>
+チェーン, ハーネス, タイヤ
+top3 entities near to cluster14>>
+やり方, 雰囲気, 考え方
+top3 entities near to cluster16>>
+しん, ちゃん, もん
+top3 entities near to cluster19>>
+ボス, サブ, キャラ
+top3 entities near to cluster20>>
+ハエ, ハチ
+top3 entities near to cluster21>>
+ナイト, コロナ, ライト
+top3 entities near to cluster22>>
+魔法, 勇者, 謎
+top3 entities near to cluster23>>
+ゴジラ, ガン, コケ
+top3 entities near to cluster24>>
+戦闘, 装備, 戦い
+top3 entities near to cluster25>>
+夫婦, 家族, 親子
+top3 entities near to cluster26>>
+息子, 娘, 親
+top3 entities near to cluster27>>
+小学生, 子供, 中学生
+top3 entities near to cluster28>>
+夏, 真夏, 夏場
+top3 entities near to cluster29>>
+料金, 代, 休日
+top3 entities near to cluster36>>
+屋根, 階段, 民家
+top3 entities near to cluster39>>
+子供, 子ども, 初級
+top3 entities near to cluster40>>
+施設, 公園, 園内
+top3 entities near to cluster42>>
+入場, 入館, 来場
+top3 entities near to cluster44>>
+体験, 撮影, 映像
+top3 entities near to cluster46>>
+暑い, 対策, 熱中
+top3 entities near to cluster48>>
+難易度, 満足度, 難易, 満足

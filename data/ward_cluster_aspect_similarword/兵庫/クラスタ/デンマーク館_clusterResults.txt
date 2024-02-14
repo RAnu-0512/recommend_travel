@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:デンマーク館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+異人館街, 異人館, 神戸北野
+cluster1:(12)
+バイキング船, 北東, 書斎, 部屋, 歴史, 家, 前, 時間, 建物, 外観, 文化, 近く
+cluster2:(15)
+感じ, ところ, スポット, 紹介, フォトスポット, バイキング, アンデルセン, デンマーク, 手配, オーストリア, レプリカ, スイーツ, 雰囲気, 展示, オープンカフェ
+cluster3:(1)
+欧風
+cluster4:(5)
+オランダ館, 子供づれ, デンマーク館, 館, テーマ館
+cluster5:(1)
+顔ハメ看板
+
+howmany entities : 37
+howmany clusters : 6
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 4
+deleted 2entities.

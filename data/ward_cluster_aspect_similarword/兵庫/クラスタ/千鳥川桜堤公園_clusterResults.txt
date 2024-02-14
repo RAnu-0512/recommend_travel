@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千鳥川桜堤公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+場所, 光景, 品種, 季節, 名所, 風景, 時期, 風情
+cluster1:(3)
+八重, 並木, 木
+cluster2:(10)
+花, 見ごたえ, シーズン, ピンク, 枝垂れ桜, ピンク色, ソメイヨシノ, 八重咲き, 八重桜, 桜並木
+cluster3:(5)
+人, 目, 側, 家族, 子供
+cluster4:(1)
+水面
+cluster5:(4)
+千鳥川, 川, 川沿い, 両岸
+cluster6:(4)
+桜, だれ桜, しだれ桜, 垂れ桜
+cluster7:(4)
+花見, 弁当, 満開, 花見客
+cluster8:(2)
+桜堤公園, 駐車場
+cluster9:(1)
+紅八重枝垂桜
+
+howmany entities : 42
+howmany clusters : 10
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 7
+deleted 4entities.

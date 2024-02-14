@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜坂県民サンビーチキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+乗り場, 日本, 海水浴, 帰り, 海, キャンプ
+cluster1:(3)
+人気, 流れ, 特徴
+cluster2:(1)
+キャンプ場
+cluster3:(3)
+潮, 遠浅, 波
+cluster4:(1)
+白砂青松100選
+cluster5:(1)
+浜坂県民サンビーチキャンプ場
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 3entities.

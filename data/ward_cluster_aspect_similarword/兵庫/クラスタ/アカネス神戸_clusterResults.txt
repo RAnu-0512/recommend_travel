@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アカネス神戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+思い出作り, 作り, 教え方, リング作り
+cluster1:(5)
+外, 内側, 表面, 周り, 裏
+cluster2:(13)
+作り方, パートナー, スタッフ, アクセサリー, クリスマス, ガラス張り, 姉さん, アクセス, デザイン, 思い出, 手作りリング, 雰囲気, リング
+cluster3:(2)
+刻印, 文字
+cluster4:(5)
+味, 好み, 種類, 色, 外見
+cluster5:(17)
+作成, 作業, 説明, もの, 店員, 接客, 予約, 時間, 工程, 経験, 方, 中, 機会, 店, こと, 体験, 旅行
+cluster6:(4)
+記念, 誕生日, 定員さん, 記念日
+cluster7:(5)
+彼氏, 恋人同士, 親友, 恋人, 互い
+cluster8:(4)
+お守り指輪, 指輪作り, ペアリング, 指輪
+
+howmany entities : 59
+howmany clusters : 9
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 8
+deleted 2entities.

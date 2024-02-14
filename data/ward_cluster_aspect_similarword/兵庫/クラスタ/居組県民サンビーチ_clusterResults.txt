@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:居組県民サンビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+買い物, 海水, お子, ところ, 価格, スーパー, 魚, ゴーグル, 友達家族, 大人, シャワー, キャンプ, 子ども, 遠浅, 家族, 子どもたち, 監視, 海, シュノーケル
+cluster1:(3)
+キャンプ場, 駐車場代, 駐車場
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

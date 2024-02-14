@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿瀬渓谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+もの, 傾斜, スポット, ハイキング, こと, 最初, 靴, 道
+cluster1:(3)
+徒歩, 駐車スペース, 小屋
+cluster2:(1)
+源太夫
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 1entities.

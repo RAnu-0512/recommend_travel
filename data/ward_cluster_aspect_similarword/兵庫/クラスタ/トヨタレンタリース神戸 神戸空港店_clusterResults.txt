@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタレンタリース神戸 神戸空港店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レンタカー, カウンター
+cluster1:(1)
+スタッフ
+cluster2:(1)
+中
+cluster3:(1)
+各所
+cluster4:(1)
+総合カウンター
+cluster5:(1)
+神戸空港
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

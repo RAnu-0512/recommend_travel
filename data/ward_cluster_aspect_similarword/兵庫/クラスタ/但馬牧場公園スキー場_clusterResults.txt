@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:但馬牧場公園スキー場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+但馬牧場公園, 湯村温泉, 但馬牛
+cluster1:(38)
+山頂, ボール, ゲレンデ, 景色, 滑り, 面白, 夏, 気持ち, 営業, そば, 広場, スキー場, 自然, 小動物, 芝生, 下, 山, 車, 混雑, 初心者, スキー, 殆ど貸し借りゲレンデ, 冬場, リフト, 日本, グラススキー, ウサギ, 急斜面, 冬, 家族, 斜面, コース, ダチョウ, こと, 頂上, 圧雪, 近く, オススメ
+cluster2:(4)
+牛, 羊, 牧場, 山羊
+cluster3:(2)
+子供たち, 子供
+cluster4:(2)
+動物達, 動物
+cluster5:(1)
+小さなお子
+
+howmany entities : 50
+howmany clusters : 6
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 3
+deleted 5entities.

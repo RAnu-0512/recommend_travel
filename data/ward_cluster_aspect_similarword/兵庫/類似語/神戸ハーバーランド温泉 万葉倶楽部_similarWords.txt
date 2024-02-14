@@ -1,0 +1,11 @@
+--------------------similar_words:神戸ハーバーランド温泉 万葉倶楽部--------------------
+top3 entities near to cluster1>>
+サウナ, 水風呂, タオル
+top3 entities near to cluster2>>
+テレビ, 露天風呂, リモコン
+top3 entities near to cluster7>>
+食事, ご飯, 夕食
+top3 entities near to cluster14>>
+館内, 景色, 入館
+top3 entities near to cluster16>>
+時間, 休憩, 食事

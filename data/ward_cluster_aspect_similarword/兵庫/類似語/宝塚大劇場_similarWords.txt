@@ -1,0 +1,59 @@
+--------------------similar_words:宝塚大劇場--------------------
+top3 entities near to cluster0>>
+阪急, フレミラ, ベガホール
+top3 entities near to cluster1>>
+公演, 劇場, 舞台
+top3 entities near to cluster2>>
+カフェ, ホテル, レストラン
+top3 entities near to cluster3>>
+タカラヅカ, タカラジェンヌ, ヅカファン
+top3 entities near to cluster4>>
+始まり, スタート, 始まる
+top3 entities near to cluster6>>
+オペラグラス, スクリーン, 客席
+top3 entities near to cluster7>>
+レストラン, ティールーム, ジェラート
+top3 entities near to cluster9>>
+パフォーマンス, クオリティ, クォリティー
+top3 entities near to cluster17>>
+赤ちゃん, スマート, おにぎり
+top3 entities near to cluster20>>
+スタッフ, サービス, ベビーシッター
+top3 entities near to cluster24>>
+シャワー, カップル, 見どころ
+top3 entities near to cluster26>>
+雰囲気, 大好き
+top3 entities near to cluster28>>
+没入感, 臨場感, 没入, 臨場
+top3 entities near to cluster29>>
+子供, 家族, 母親
+top3 entities near to cluster30>>
+男子, 女子, 生徒
+top3 entities near to cluster31>>
+隣, 裏手, 入り口
+top3 entities near to cluster32>>
+帰路, 途上
+top3 entities near to cluster33>>
+憧れ, 夢, あこがれ
+top3 entities near to cluster35>>
+一生, 人生, アテ
+top3 entities near to cluster36>>
+食事, 建物
+top3 entities near to cluster37>>
+感動, 感激, 驚き
+top3 entities near to cluster43>>
+迫力, 雰囲気, 勢い
+top3 entities near to cluster45>>
+女性, 男性, 乗客
+top3 entities near to cluster46>>
+女子大生, 女子大
+top3 entities near to cluster47>>
+演目, 芝居, 演者
+top3 entities near to cluster48>>
+歌声, ダンス
+top3 entities near to cluster49>>
+映像, 作品, 舞台
+top3 entities near to cluster54>>
+数々, 各種, 記念
+top3 entities near to cluster55>>
+写真, 撮影, 映像

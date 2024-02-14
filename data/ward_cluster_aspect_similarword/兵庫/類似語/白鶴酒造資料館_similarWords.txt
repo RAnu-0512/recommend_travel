@@ -1,0 +1,21 @@
+--------------------similar_words:白鶴酒造資料館--------------------
+top3 entities near to cluster0>>
+鶴, 酒造, 白
+top3 entities near to cluster2>>
+大手, 酒造り, 地元
+top3 entities near to cluster4>>
+おみやげ, ショップ, アイスクリーム
+top3 entities near to cluster7>>
+土産, 建物, 館内
+top3 entities near to cluster8>>
+展示, 製造, 販売
+top3 entities near to cluster11>>
+甘酒, 酒粕, 梅酒
+top3 entities near to cluster12>>
+地酒, 日本酒
+top3 entities near to cluster14>>
+地酒, 酒蔵
+top3 entities near to cluster17>>
+酒造, 酒蔵, 蔵元
+top3 entities near to cluster19>>
+館, 資料, 史料

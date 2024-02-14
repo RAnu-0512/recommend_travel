@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊丹廃寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+緑ヶ丘公園, 公園
+cluster1:(4)
+感じ, 場所, 事, こと
+cluster2:(2)
+観光, 遺跡
+cluster3:(2)
+歴史, 時代
+cluster4:(4)
+人, ロマン, 自衛隊, 法隆寺
+cluster5:(2)
+地元, 一部
+cluster6:(1)
+規模
+cluster7:(3)
+奈良, 鎌倉, 水煙
+cluster8:(5)
+総監部, 寺院, 古代寺院, 発掘調査, 伽藍配置
+
+howmany entities : 25
+howmany clusters : 9
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 9entities.

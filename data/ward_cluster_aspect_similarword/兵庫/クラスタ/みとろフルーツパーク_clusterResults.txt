@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みとろフルーツパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+展望台, 仮設トイレ, 芝滑り, 駐車場
+cluster1:(17)
+花, 梅, 農園, 炭, 御座, 栗, 芝生, ぶどう園, ツジ, 拾い, 果物, 植物, 野菜, お花, ぶどうがり, 温室, 芋
+cluster2:(3)
+子連れ, BBQ, 滑り台
+cluster3:(3)
+バケツ, トイレ, ウェットティッシュ
+cluster4:(2)
+バナナ, ぶどう
+cluster5:(4)
+バーベキュー, フルーツ, ひまわり, パイナップル
+cluster6:(2)
+テーブル, 段ボール
+cluster7:(1)
+コンビニ
+cluster8:(1)
+貸し出し
+cluster9:(2)
+子ども, 我が家
+cluster10:(4)
+まわり, 気持ち, スポット, ところ
+cluster11:(1)
+加古川
+cluster12:(1)
+フリーマーケット
+cluster13:(21)
+値段, 人, 秋, 彼氏, 所, 北, ほう, 顔, 家族, 子供, ぶん, 火, 奥, こと, 他, 場所, 季節, 変化, 楽し, 近く, 時期
+cluster14:(6)
+お子, 子供連れ, 子, 注意点, 小さい子, 収穫体験
+cluster15:(7)
+果物狩り, 柿狩り, ぶどう狩り, 観光果樹園, ブドウ狩り, フルーツ狩り, 芋掘り
+
+howmany entities : 79
+howmany clusters : 16
+howmany entities (more than3entities) : 69
+howmany clusters (more than3entities) : 9
+deleted 10entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+間, 場所, 姫路城, 時期, 明治
+cluster1:(3)
+創建, 境内, 神社
+cluster2:(6)
+岩倉稲荷神社, 姫路本町, 寸翁神社, 姫路美術館, 姫路神社, 姫路公園
+cluster3:(1)
+姫路藩主酒井正親他歴代藩主
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 1entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:n_farmstead2012>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+感じ, 金額, 場所, 受付, 方, 特徴
+cluster1:(5)
+苺, 粒, いちご, 日のいちご, イチゴ狩り
+cluster2:(1)
+よつぼし
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 1entities.

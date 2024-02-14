@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霞城館・矢野勘治記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三木清, 三木露風
+cluster1:(8)
+哲学者, 文化人, 出身, 作詞家, 出身地, エリート文化人たち, 女性歌手, 関西文化
+cluster2:(19)
+資料館, 各種イベント, 資料, 歌詞, フランス, クラシック, 遺品, 赤とんぼ, 時代, 文献, 語, 詩人, 歌, 設立, 最後, 住まい, コンサート, 市, 写真
+cluster3:(2)
+城址近く, 霞城館
+cluster4:(3)
+内海信之, 龍野, たつ
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 4entities.

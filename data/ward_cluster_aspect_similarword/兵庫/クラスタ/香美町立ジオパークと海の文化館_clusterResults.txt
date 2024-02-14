@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香美町立ジオパークと海の文化館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駐車場, 展示室, 展示, 展示物
+cluster1:(31)
+表情, 資料, 難し, 道具, 模型, 入場, 皮, 子供たち, 製品, エントランス, 深海魚, 魚, ジオパーク, 種類, 目, 小魚, 時間, 部分, 施設, ジオラマ, パンフレット, 所以, 風土, 雰囲気, 地域, 機会, 子供, こと, 体験, 思いパパ, 剥製
+cluster2:(3)
+香美町内各地区, 地場産業, 山陰海岸ジオパーク
+
+howmany entities : 38
+howmany clusters : 3
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 3
+deleted 0entities.

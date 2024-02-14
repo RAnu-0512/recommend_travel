@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ピッコロシアター(兵庫県立尼崎青少年創造劇場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JR塚口駅, 阪急塚口駅
+cluster1:(2)
+尼崎青少年創造劇場, 産業道路沿い
+cluster2:(2)
+ピアノ発表会, 発表会
+cluster3:(7)
+バス停, ピアノ, バス, ホール, 建物, 西, 娘
+cluster4:(3)
+演劇, 劇場, 音響
+cluster5:(1)
+尼崎
+cluster6:(2)
+学校行事, 駐車場
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 9entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玄武洞ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示, 展示物
+cluster1:(3)
+土産物店, 土産店, 土産
+cluster2:(20)
+歯, 場所, コーヒー, アンモナイト, 説明, ランチ, レストラン, 玄武洞, センス, 間, 建物, 大人, ミュージアム, レプリカ, 娘, 子ども, 子供, 他, 孫, メモ
+cluster3:(5)
+石, 石グッズ, 恐竜, 化石, 鉱物
+cluster4:(4)
+躍動感, ワクワク感, 恐竜立体パズル, 化石発掘体験
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 2entities.

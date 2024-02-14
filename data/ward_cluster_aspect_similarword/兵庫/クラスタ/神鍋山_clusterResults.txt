@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神鍋山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スキー, グラススキー
+cluster1:(12)
+ドライブ, 気持ち, パラグライダー, スポット, アクセス, ジオパーク, スタッドレス, イベント, 遊歩道, 初心者, 噴火口, ブランコ
+cluster2:(2)
+人, 子供
+cluster3:(11)
+所, 空気, 辺り, 傾斜, スキー場, 季節, 付近, 冬場, 駅, 道, こと
+cluster4:(1)
+爪痕
+cluster5:(15)
+周囲, 山頂, 景色, 眺望楽しん, 山, 周辺道路, スコリア層, 火山, 噴火口周囲, ブランコ 天空, 芝, ピーカン晴天, 頂上, 高原, 噴火口周辺
+cluster6:(1)
+神鍋高原
+
+howmany entities : 44
+howmany clusters : 7
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 3
+deleted 6entities.

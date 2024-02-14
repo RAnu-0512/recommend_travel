@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:薬師院(ぼたん寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ぼたん園, ぼたん, ぼたん寺, 通称ぼたん寺
+cluster1:(2)
+神社, 境内
+cluster2:(2)
+寺, 寺入口
+cluster3:(1)
+札所
+cluster4:(2)
+小人無料, 駐車場
+cluster5:(1)
+空気感
+cluster6:(45)
+神戸, 桜, 場所, 奈良, おすすめ, 池, 大輪, ベビーカー, 白, 友人, 記事, お花, 人, 薬師院, 金魚, 花, 入口, 花々, 牡丹, 満開, 石橋, 手前, 見ごたえ, 季節, 天王山, 周り, 丘, 赤, 明石市, ピンク, 大人, 御朱印前回, 日常, 日本, 亀, 方, 横, ボタン, 文字, 蓮, 頂, 子供, こと, 時期, 生活
+cluster7:(5)
+入場料, 元禄八年, 神仏習合, 拝観料, 明石西国霊場
+
+howmany entities : 62
+howmany clusters : 8
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 3
+deleted 8entities.

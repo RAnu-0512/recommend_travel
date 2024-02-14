@@ -1,0 +1,15 @@
+--------------------similar_words:三木城跡--------------------
+top3 entities near to cluster0>>
+長治, 就治, 城主
+top3 entities near to cluster1>>
+配置, 大きい
+top3 entities near to cluster3>>
+屈指, 有数, 随一
+top3 entities near to cluster4>>
+麓, 川, 牛
+top3 entities near to cluster10>>
+家臣, 領民, 一族
+top3 entities near to cluster13>>
+長治, 就治, 益枝
+top3 entities near to cluster15>>
+城, 城跡, 城址

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ONE WAY>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+スポット, トアウエスト, ポストカード, 元気
+cluster1:(2)
+山側, 神戸
+cluster2:(6)
+店舗, 商品, トアウエスト界隈, 人気, 老舗, 同店
+cluster3:(2)
+品揃え, 雑貨屋
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 4entities.

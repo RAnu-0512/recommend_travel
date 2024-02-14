@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:諸寄海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜坂, 兵庫県
+cluster1:(2)
+海, 砂浜
+cluster2:(2)
+海水浴シーズン, 海水浴
+cluster3:(5)
+トンネル, ビーチ, バーベキュー, シャワー, オススメ
+cluster4:(3)
+場所, 人, 家族
+cluster5:(1)
+水
+cluster6:(1)
+泳ぎ
+cluster7:(5)
+海水浴場, 子供連れ, お子さん連れ, 観光客, 駐車場
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 8entities.

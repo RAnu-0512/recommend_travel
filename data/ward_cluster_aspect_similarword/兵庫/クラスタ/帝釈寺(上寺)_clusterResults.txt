@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:帝釈寺(上寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+八幡神社, 祭神, 法庭神社, 神社
+cluster1:(6)
+横, 庭, 左, ニギハヤヒ, タケミカヅチ, 近く
+cluster2:(3)
+本堂, 寺, 堂
+cluster3:(1)
+薬師如来坐像
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 1entities.

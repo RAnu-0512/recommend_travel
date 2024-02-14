@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東浦イチゴファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駅, 味, 場所, グループ数人, 味比べ, 道
+cluster1:(8)
+苺, イチゴ, いちご, 感動, 練乳, 大ぶり, いちご狩り, 糖度
+cluster2:(1)
+食べ放題
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

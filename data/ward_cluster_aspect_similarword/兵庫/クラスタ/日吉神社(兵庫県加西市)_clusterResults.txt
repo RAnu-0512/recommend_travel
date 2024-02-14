@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日吉神社(兵庫県加西市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+祭, お田植え祭, 社殿, 神社, 祭時期, 境内, 日吉神社, 御神体山, 氏子, 住宅街, 祭り, 本殿
+cluster1:(2)
+兵庫県, 加西市
+cluster2:(3)
+歴史, 建物, 彫刻
+cluster3:(2)
+緑, 環境
+cluster4:(6)
+人, 県外, 鎌倉山, 中, 雰囲気, パワースポット
+cluster5:(4)
+多く, 周り, 人々, 地元
+cluster6:(1)
+米
+cluster7:(1)
+神田
+cluster8:(3)
+自然全体, 自然そのもの, 神猿
+cluster9:(1)
+朱塗り
+
+howmany entities : 35
+howmany clusters : 10
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 7entities.

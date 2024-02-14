@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:料亭旅館 人丸花壇>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+部屋滞在時間, 部屋食, 布団食事, お部屋食
+cluster1:(4)
+貸切状態, 風呂, 風呂上がり, 風呂場
+cluster2:(6)
+温泉上がり, 温泉, 男湯, 療養温泉, 女湯, 旅館
+cluster3:(2)
+冷房, 暖房
+cluster4:(3)
+和室, 部屋, 個室
+cluster5:(2)
+床, 棚
+cluster6:(1)
+部屋着
+cluster7:(7)
+機会, 量, 新鮮さ, 利用, 利用時間, 時間帯, 時間
+cluster8:(6)
+気持ち, 久しぶり, 切り替え, 見た目, テーブル, 露天風呂
+cluster9:(2)
+ランチ, ゲスト
+cluster10:(1)
+味付け
+cluster11:(1)
+プラン
+cluster12:(1)
+受付け
+cluster13:(1)
+ニコリ
+cluster14:(5)
+多く, 今回, 中, 最後, 近く
+cluster15:(3)
+状態, もの, 感じ
+cluster16:(8)
+友達, 私達, 口, 忠告, 姉, 会話, 友人, 姉妹
+cluster17:(4)
+魚, 鯛, 海風, 海
+cluster18:(5)
+料理, 味, 施設, 季節, 身体
+cluster19:(2)
+予約, 客
+cluster20:(6)
+外食, 食後, 入浴, 食事, 散策, 掃除
+cluster21:(1)
+喉
+cluster22:(7)
+シブ柿, 明石, 大蔵海岸, 渋柿, デザート柿, 天文科学館, 明石人丸
+cluster23:(1)
+含鉄Na-Ca塩化物温泉
+
+howmany entities : 83
+howmany clusters : 24
+howmany entities (more than3entities) : 68
+howmany clusters (more than3entities) : 13
+deleted 15entities.

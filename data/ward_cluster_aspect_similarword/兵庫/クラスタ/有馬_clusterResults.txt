@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有馬>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+街並み, 場所, 町並み, あたり, 発祥, 日帰り, 西日本, ウィルキンソン, 人, せんべい, 車, 街, 両方, 湧き水, 日本, 雰囲気, 割れ目, 土産, 店, 体
+cluster1:(4)
+神戸, 国産サイダー, 大阪, 天然
+cluster2:(1)
+断層
+cluster3:(16)
+足湯, 地, 銀泉, 有馬温泉, 温泉地, 炭酸ガス, 炭酸水, 炭酸せんべい, 温泉街, 宿, 旅館, 金泉, 日帰り温泉, 名湯, 温泉, 有馬川
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 3
+deleted 1entities.

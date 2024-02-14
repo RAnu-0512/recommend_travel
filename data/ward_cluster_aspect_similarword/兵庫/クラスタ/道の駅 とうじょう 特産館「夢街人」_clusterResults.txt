@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 とうじょう 特産館「夢街人」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土産, 野菜
+cluster1:(5)
+もの, レストラン, 地元, 目, コンビニ
+cluster2:(2)
+駅, 道
+cluster3:(1)
+王国
+cluster4:(1)
+家族連れ
+cluster5:(1)
+直場
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

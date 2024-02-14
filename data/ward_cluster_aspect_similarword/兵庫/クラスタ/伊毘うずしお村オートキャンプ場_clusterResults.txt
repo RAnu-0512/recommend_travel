@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊毘うずしお村オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+キャンプ場, 南部, 場所, そば, バーベキュー, 海水浴, 大鳴門橋, 施設, 砂浜, 淡路島, 透明度, 子供, 海, 海釣り, オートキャンプ場
+cluster1:(3)
+鳴門大橋, 鳴門観光, 兵庫県
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

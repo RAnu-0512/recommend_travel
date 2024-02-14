@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:合格の湯(天然温泉まんどの湯)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+風呂, お湯, 温泉
+cluster1:(2)
+JAF, 氷ノ山
+cluster2:(8)
+カラン, ぬくぬくクーポン, サウナ, シャワー, 露天風呂, 日帰り, コンディショナー, 水風呂
+cluster3:(1)
+昼間
+cluster4:(2)
+食堂, 登山
+cluster5:(1)
+ボディーソープ&リンスインシャンプー
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 6entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本山街園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+東灘・芦屋, 阪急岡本駅, 岡本交差点角, 岡本
+cluster1:(2)
+幹線道路, 山手幹線
+cluster2:(6)
+公園, エリア, バラ, 薔薇, 季節, 交番
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

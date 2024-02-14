@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:原不動滝キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+女性, TEL, 川, 紅葉, 子供, コロナ, もみじ, BBQ
+cluster1:(5)
+事, 予約, 他, 影響, 方
+cluster2:(1)
+盆
+cluster3:(1)
+不審
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,25 @@
+--------------------similar_words:辰鼓楼--------------------
+top3 entities near to cluster1>>
+町並み, 街並み, 景色
+top3 entities near to cluster2>>
+時代, 当時, 初期
+top3 entities near to cluster3>>
+写真, 撮影, 実物
+top3 entities near to cluster4>>
+エリア, スタイル, ガイド
+top3 entities near to cluster8>>
+周辺, 中心, 本体
+top3 entities near to cluster9>>
+予想, 期待, とおり
+top3 entities near to cluster12>>
+出来, でき, なかっ
+top3 entities near to cluster13>>
+記念, 入場, 写真
+top3 entities near to cluster14>>
+蕎麦屋, そば屋, 蕎麦, そば
+top3 entities near to cluster15>>
+時計塔, 時計, 腕時計
+top3 entities near to cluster16>>
+駐車場, 駐車, 満車
+top3 entities near to cluster19>>
+工事, 改修, 修繕

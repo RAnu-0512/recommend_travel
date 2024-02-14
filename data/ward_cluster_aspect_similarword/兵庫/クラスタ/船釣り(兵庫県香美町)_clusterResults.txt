@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船釣り(兵庫県香美町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+磯, 船, 海
+cluster1:(2)
+機会, 気分
+cluster2:(11)
+友達, スポット, 人, 人気, 初心者, 日, 時間, レジャー, 方, 初夏, 家族
+cluster3:(2)
+船釣り, 舟釣り
+cluster4:(2)
+釣り, 海釣り
+cluster5:(1)
+イカ釣り
+cluster6:(1)
+船酔い
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 8entities.

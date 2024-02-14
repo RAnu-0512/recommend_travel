@@ -1,0 +1,11 @@
+--------------------similar_words:南あわじ温泉郷--------------------
+top3 entities near to cluster1>>
+横目, 足目, 横, 足
+top3 entities near to cluster2>>
+海釣り, 海船, 海
+top3 entities near to cluster3>>
+温泉, 露天風呂, ホテル
+top3 entities near to cluster4>>
+施設, 部屋, 設備
+top3 entities near to cluster9>>
+温泉, 銭湯, 露天風呂

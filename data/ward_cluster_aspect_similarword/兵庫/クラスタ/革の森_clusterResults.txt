@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:革の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+学校, もの, 店員, 予約, 時間, 物, 途中, レザー, クラフト体験, ポーチ, 子供, 種類, 手入れ, 今回, 革, 方
+cluster1:(2)
+教え方, 自分好み
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 2entities.

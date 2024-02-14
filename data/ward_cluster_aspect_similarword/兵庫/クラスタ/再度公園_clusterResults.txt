@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:再度公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+景色, 新緑, 紅葉
+cluster1:(2)
+神戸, 池
+cluster2:(2)
+車, 山道
+cluster3:(4)
+場所, 途中, 週末, 時期
+cluster4:(8)
+市街地, ほとり, ピクニック, カフェ, 周り, 方, 紅葉狩り, ハイキング
+cluster5:(1)
+弁当
+cluster6:(3)
+大師道, 元町駅, 駐車場
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 5entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平岡農園(みかん狩り・レモン狩り)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+みかん, ミカン
+cluster1:(1)
+実
+cluster2:(1)
+甘味
+cluster3:(1)
+薄味
+cluster4:(1)
+極早生
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

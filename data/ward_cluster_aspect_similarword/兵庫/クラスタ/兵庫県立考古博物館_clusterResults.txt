@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立考古博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示, 館内
+cluster1:(3)
+作業, 様子, 必要
+cluster2:(9)
+おじいちゃん, 子, 笑, 目, 次, 博物館, 中, 子供, 他
+cluster3:(1)
+土
+cluster4:(1)
+金印
+cluster5:(7)
+考古博物館, 土器, 勾玉, 銅鐸, 播磨町, 発掘体験, 遺跡公園
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 4entities.

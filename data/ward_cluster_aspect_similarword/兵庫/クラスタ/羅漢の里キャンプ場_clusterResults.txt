@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羅漢の里キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コテージ宿泊, コテージ泊
+cluster1:(23)
+川遊び, キャンプ場, 場所, 言葉遣い, 印象, 友人, 気持ち, バーベキュー, コテージ, アスレチック, 笑顔, チェックイン, 周辺, 施設, 方, キャンプ, 十六羅漢, 貸し出し, 男性, 水遊び, 環境, 電話, 期待
+cluster2:(3)
+小川, 川, 水車
+cluster3:(4)
+網, 仏, 木炭, 丸
+cluster4:(1)
+パン作り
+cluster5:(3)
+国指定史跡, 戦国時代, 戦国期
+cluster6:(7)
+感状山城跡, 西播丘陵県立自然公園, 瓜生羅漢石, 羅漢, 感状山城址, 羅漢の里, 羅漢渓谷
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 5
+deleted 3entities.

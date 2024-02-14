@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あわじ花の歳時記園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+淡路島, てっぺん, 花, 山, 紫陽花
+cluster1:(3)
+歳, 場所, 地元
+cluster2:(1)
+時記園
+cluster3:(1)
+ます.3500株70種のあじさい
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

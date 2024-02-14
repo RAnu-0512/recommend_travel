@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立奥猪名健康の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+県立, 火起こし
+cluster1:(4)
+風呂, 熱, 本館, 温泉
+cluster2:(13)
+場所, スタッフ, 酒盛り, 夜バーベキュー, 気持ち, バーベキュー, ロッジ, アウトドア, トイレ, 方, アマゴ, 子供, 飲み物
+cluster3:(2)
+値段, 酒
+cluster4:(6)
+食品, 男性スタッフ, 指定, 施設, 規則, 団体
+cluster5:(1)
+友人家族
+cluster6:(1)
+卓球台
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 6entities.

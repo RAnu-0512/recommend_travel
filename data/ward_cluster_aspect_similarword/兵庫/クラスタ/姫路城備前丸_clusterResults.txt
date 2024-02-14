@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路城備前丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+西小天守, 大天守, 天守
+cluster1:(2)
+城主, 居館
+cluster2:(4)
+天守閣, 広場, 家族, 階段
+cluster3:(2)
+姫路城内, 本丸
+cluster4:(1)
+御殿
+cluster5:(8)
+場所, 角度, もの, 絶好, 撮影スポット, 広さ, こと, 価値
+cluster6:(3)
+池田輝政, 姫路駅, 備前丸
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 5entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍野西サービスエリア(上り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+休憩, エリア, サービスエリア, 途中, サービス, 印象, ソフト, 帰り道, 土産物売り場, SA, もの, 食事, 肉まん, 赤とんぼ, 手前, 誤算, 赤, フードコート, オブジェ, トイレ, 関西, 土産, 地元, トイレ休憩, 旅行
+cluster1:(3)
+龍野西SA, 龍野市, 龍野しょうゆ
+cluster2:(2)
+大山, 大山関連
+cluster3:(2)
+ジャージー牛乳ソフト, 大山牛乳
+cluster4:(9)
+赤穂, 岡山県, 尾道, 岡山, 山陽道, 湯原温泉, 倉敷, 蒜山, 兵庫県
+
+howmany entities : 41
+howmany clusters : 5
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 3
+deleted 4entities.

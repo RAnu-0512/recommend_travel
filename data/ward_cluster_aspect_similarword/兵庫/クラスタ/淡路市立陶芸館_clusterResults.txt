@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路市立陶芸館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(36)
+感じ, 値段, 係, 絵付け, 作品, スタッフ, 淡路旅行, 説明, 話, 粘土, 陶芸, 口調, 人, 男女, 目, 初心者, 接客, 焼き上がり, テキパキ, 思い出, オリジナル感, 大人, 陶芸体験, 土, バカ, 楽しみ, 方, 無視, 女性, 淡路島, 子供, こと, 他, 体験, 指導員, 旅行
+cluster1:(3)
+ロクロ体験, ろくろ, かろくろ体験
+
+howmany entities : 39
+howmany clusters : 2
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湊水産株式会社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風味, 味
+cluster1:(3)
+気, つまみ, ビール
+cluster2:(1)
+海苔
+cluster3:(2)
+港水産, 直売店
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

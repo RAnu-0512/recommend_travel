@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:berich養蜂場 丹波篠山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+養蜂場, 養蜂家, 養蜂体験
+cluster1:(2)
+蜂, オス蜂
+cluster2:(19)
+話, 女王蜂, 絵本, フルーティ, 花, 指, 時間, ミツバチ, ハチミツ, スズメバチ, 働き蜂, 駅, 兄さん, 方, 息子, 最後, 話し方, 違い, 親子
+cluster3:(3)
+生態, 知識, 巣
+cluster4:(1)
+蝋
+cluster5:(3)
+感触, 五感, 体験
+cluster6:(3)
+味, 香り, 蜂蜜
+cluster7:(2)
+コク, 酸味
+cluster8:(1)
+暑さ
+cluster9:(1)
+蜂蜜食べ比べ
+
+howmany entities : 38
+howmany clusters : 10
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 5
+deleted 7entities.

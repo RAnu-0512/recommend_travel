@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫路城化粧櫓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+大阪城落城, 化粧櫓, 櫓, 千姫, 千姫像
+cluster1:(2)
+嫁ぎ, 正室
+cluster2:(2)
+人形, 大名
+cluster3:(2)
+丸, 西
+cluster4:(4)
+天守閣, もの, 家, 廊下
+cluster5:(2)
+化粧料, 持参金
+cluster6:(5)
+姫路城西, 徳川家, 本多忠, 豊臣秀頼, 徳川家康
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 8entities.

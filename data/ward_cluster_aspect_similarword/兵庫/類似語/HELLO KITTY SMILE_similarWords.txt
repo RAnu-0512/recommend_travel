@@ -1,0 +1,11 @@
+--------------------similar_words:HELLO KITTY SMILE--------------------
+top3 entities near to cluster0>>
+受付, 案内, 予約
+top3 entities near to cluster1>>
+イベント, グッズ, アトラクション
+top3 entities near to cluster3>>
+施設, 建物, 入口
+top3 entities near to cluster7>>
+画面, 写真
+top3 entities near to cluster8>>
+入場, 駐車, 入館

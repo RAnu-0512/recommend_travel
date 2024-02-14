@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:相楽園のツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+隠れ入船, 神戸 元町駅, 大船屋, 相楽園
+cluster1:(7)
+日本庭園, 入園料, 入園, 庭園, 回遊庭園, 建造物, 滝石組
+cluster2:(10)
+エリア, 神戸, 気持ち, 辺り, つつじ, 思い, 大石組, ツツジ, 水, 近く
+cluster3:(4)
+世界, 空間, 歴史, 心
+cluster4:(2)
+住宅, 洞窟
+cluster5:(1)
+青空
+cluster6:(1)
+厩舎
+cluster7:(1)
+植樹
+cluster8:(2)
+水音響き, 重圧感
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 7entities.

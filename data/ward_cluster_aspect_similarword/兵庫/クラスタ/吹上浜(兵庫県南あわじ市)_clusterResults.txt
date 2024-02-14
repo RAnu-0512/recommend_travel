@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吹上浜(兵庫県南あわじ市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+海&砂浜, 結晶片岩, 海洋プレート起源, 中央構造線, 透明度, 連続テレビ小説, 白砂青松100選
+cluster1:(4)
+上浜キャンプ場, キャンプ場, 上浜, 吹上浜キャンプ場
+cluster2:(2)
+NHK, 朝ドラ
+cluster3:(3)
+太平洋, 海ガメ, 淡路島
+cluster4:(4)
+オートキャンプ, 海水浴, トイレ, キャンプ
+cluster5:(2)
+気持ち, 主題歌
+cluster6:(1)
+吹上浜
+cluster7:(3)
+人, 目, 子供
+cluster8:(6)
+場所, 近隣, 禁止, 撮影, 南側, 水
+cluster9:(12)
+付加体, 景色, 貸し切り状態, もの, 尖り, 思い, 答え, 方, 模様, 興味, 機会, 気分
+cluster10:(25)
+手, 青色, 波, 夏, 緑, 松林, 白, 浜辺, 茶色, 音, 石, 足, 産卵, 星空, 小石, 色, 浜, キス, 海岸, 釣り, 砂浜, 海, 遊泳, 砂, 松
+
+howmany entities : 69
+howmany clusters : 11
+howmany entities (more than3entities) : 64
+howmany clusters (more than3entities) : 8
+deleted 5entities.

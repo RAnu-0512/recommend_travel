@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本夕陽百選の温泉宿 三七十館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+泳ぎイカ, 泳ぎイカ食べ比べ
+cluster1:(6)
+鮮度抜群, イクラ, 心臓, 松葉ガニ, 料理, カニ
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 2entities.

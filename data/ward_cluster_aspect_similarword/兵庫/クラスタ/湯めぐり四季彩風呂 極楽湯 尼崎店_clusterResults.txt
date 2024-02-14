@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯めぐり四季彩風呂 極楽湯 尼崎店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+サウナ, 露天風呂, ジェットバス
+cluster1:(2)
+銭湯, 温泉
+cluster2:(1)
+設備
+cluster3:(1)
+銭湯料金
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

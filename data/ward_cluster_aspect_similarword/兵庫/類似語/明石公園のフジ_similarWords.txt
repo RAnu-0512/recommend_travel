@@ -1,0 +1,7 @@
+--------------------similar_words:明石公園のフジ--------------------
+top3 entities near to cluster1>>
+時期, 春先, 季節
+top3 entities near to cluster2>>
+藤, 桜, 藤棚
+top3 entities near to cluster3>>
+公園, 遊具, 駐車

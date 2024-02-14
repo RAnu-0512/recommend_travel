@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:極楽寺石庭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+トーン, 場所, 訪問, 年末, 人気, 目, 外れ, 極楽寺, 日本, 時期, 枯山水, 価値
+cluster1:(2)
+赤石, 白砂
+cluster2:(9)
+庭, 山門, 境内, 枯山水式石庭, 有名寺, 石庭, 清閑庭, 庭園, 観光客
+cluster3:(2)
+極楽禅寺, 城崎温泉街
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 4entities.

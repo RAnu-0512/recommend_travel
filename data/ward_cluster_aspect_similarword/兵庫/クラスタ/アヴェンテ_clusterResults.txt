@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アヴェンテ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小学, 学年
+cluster1:(8)
+フライボード, 高校生, 大人, アクティビティー, アクティビティ, 人気, ジェットパック, 体験
+cluster2:(1)
+観光客
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 3entities.

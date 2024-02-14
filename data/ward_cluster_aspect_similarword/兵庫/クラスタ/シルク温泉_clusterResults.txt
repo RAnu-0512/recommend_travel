@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シルク温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+露天, 内湯
+cluster1:(4)
+某温泉, シルク温泉, 湯, 温泉
+cluster2:(1)
+泉質
+cluster3:(23)
+感じ, 宿泊, サウナ, 美人, 訪問, 妻, 会場, 人, 食事, 世話, 悪気, 方達, オプション, 結婚記念日, ファン, 体, 丸見え, 子供, 他, すきプラン, 蟹, 衝立, 親子
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 2
+deleted 3entities.

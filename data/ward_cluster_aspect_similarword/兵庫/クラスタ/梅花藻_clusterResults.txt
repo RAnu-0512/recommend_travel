@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅花藻>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+お花, 花, 梅
+cluster1:(4)
+川, 水, 風, 海
+cluster2:(2)
+もの, 中
+cluster3:(3)
+瀬戸内, 日本, ニュース
+cluster4:(1)
+播但線
+cluster5:(2)
+町, 道
+cluster6:(1)
+市川
+cluster7:(1)
+水車
+cluster8:(2)
+梅花藻, 神河町
+
+howmany entities : 19
+howmany clusters : 9
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 9entities.

@@ -1,0 +1,43 @@
+--------------------similar_words:ホテル&リゾーツ 南淡路--------------------
+top3 entities near to cluster0>>
+受付, 予約, 利用
+top3 entities near to cluster1>>
+味付け, 味つけ, 刺し身
+top3 entities near to cluster2>>
+露天風呂, サウナ, プール
+top3 entities near to cluster4>>
+中学生, 子ども, 小学生
+top3 entities near to cluster5>>
+レストラン, ディナー, ランチ
+top3 entities near to cluster6>>
+仕事場, ロビー, スリッパ
+top3 entities near to cluster7>>
+プラン, コース, コスパ
+top3 entities near to cluster8>>
+景色, 夕陽, 海
+top3 entities near to cluster9>>
+息子, 家族, 両親
+top3 entities near to cluster11>>
+大勢, 人達
+top3 entities near to cluster13>>
+部屋, 空間, 入口
+top3 entities near to cluster14>>
+不自由, 自由, 障害
+top3 entities near to cluster18>>
+値段, 価格
+top3 entities near to cluster20>>
+夕食, 朝食, 昼食
+top3 entities near to cluster21>>
+ホテル, 宿泊, レストラン
+top3 entities near to cluster22>>
+ランチ, 日帰り, ランチタイム
+top3 entities near to cluster23>>
+肉鍋, 野菜, 肉
+top3 entities near to cluster24>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster26>>
+温泉, 露天風呂, 温泉郷
+top3 entities near to cluster30>>
+駐車料, 利用料, 駐車, 利用
+top3 entities near to cluster32>>
+料理, 中華, 和食

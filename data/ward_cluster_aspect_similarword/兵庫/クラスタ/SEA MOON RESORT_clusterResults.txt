@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SEA MOON RESORT>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+スタッフ, 腕, 友達, 気持ち, 無理, パラセーリング, 思い, 笑顔, 客, スカート, 時間, 思い出, カメラ, 書き込み, 海外, 方, ホテル, 最後, 淡路島, 現地, 気, ストッキング, 小学生, 最初, 体験, 風, 写真
+cluster1:(7)
+空, 景色, 船, 天気, 大雨, 揺れ, 海
+cluster2:(1)
+義両親
+cluster3:(5)
+駐車場, 気持ちよさ, 面白さ, 駐車, 恐怖感
+
+howmany entities : 40
+howmany clusters : 4
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 3
+deleted 1entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐用の朝霧>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山々, 雲海
+cluster1:(3)
+霧, 朝霧, 佐
+cluster2:(5)
+感じ, 大撫山, 地元, 方, 価値
+cluster3:(1)
+鳥肌
+cluster4:(1)
+佐用の朝霧
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 4entities.

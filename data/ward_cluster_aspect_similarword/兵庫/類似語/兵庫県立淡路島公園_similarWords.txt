@@ -1,0 +1,35 @@
+--------------------similar_words:兵庫県立淡路島公園--------------------
+top3 entities near to cluster0>>
+公園, 広場, 遊具
+top3 entities near to cluster3>>
+トイレ, ベンチ, 自販機
+top3 entities near to cluster4>>
+子ども, 小学生, 子供
+top3 entities near to cluster7>>
+アトラクション, テーマパーク, イベント
+top3 entities near to cluster9>>
+アート, ゴジラ, オアシス
+top3 entities near to cluster11>>
+滑り台, すべり台, ローラー
+top3 entities near to cluster12>>
+子供, 息子, 母親
+top3 entities near to cluster13>>
+木水, 木, 広場
+top3 entities near to cluster14>>
+床, 階段, 足
+top3 entities near to cluster15>>
+真夏, 夏場, 夏
+top3 entities near to cluster16>>
+山, 海, 緑
+top3 entities near to cluster18>>
+安い, 料金, 割安
+top3 entities near to cluster21>>
+敷地, 広大, 一帯
+top3 entities near to cluster23>>
+隣接, 移動, ほど近い
+top3 entities near to cluster25>>
+水遊び, 砂遊び
+top3 entities near to cluster26>>
+休憩, 休息, 休止
+top3 entities near to cluster29>>
+食事, 土産, 飲食

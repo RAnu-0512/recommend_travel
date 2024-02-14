@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋谷公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+家族, 週末
+cluster1:(4)
+日本, 春夏秋冬, フォルクスガーデン, 近く
+cluster2:(2)
+自然, 緑
+cluster3:(1)
+木
+cluster4:(2)
+空気, 池
+cluster5:(3)
+公園, へそ日時計, 丘公園
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 7entities.

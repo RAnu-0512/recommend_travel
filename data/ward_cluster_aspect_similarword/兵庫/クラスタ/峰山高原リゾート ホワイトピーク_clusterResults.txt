@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:峰山高原リゾート ホワイトピーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地面, 雪
+cluster1:(14)
+感じ, ところ, スタッフ, ゲレンデ, 車, キッズパーク, スクール, 兄さん, 息子, 最後, 子ども, 家族, コース, 受付
+cluster2:(5)
+リフト券, 寺前駅, スキー場, 姫路駅, 駐車場
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 2entities.

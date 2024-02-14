@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝来市和田山郷土歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+池田古墳, 古墳園
+cluster1:(3)
+朝来市, 但馬, 前方後円墳
+cluster2:(1)
+和田山郷土歴史館
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 3entities.

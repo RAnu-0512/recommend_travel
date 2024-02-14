@@ -1,0 +1,33 @@
+--------------------similar_words:ホテルヴィスキオ尼崎--------------------
+top3 entities near to cluster0>>
+肉, 食べ, エビ
+top3 entities near to cluster2>>
+気配り, 雰囲気, フロア
+top3 entities near to cluster3>>
+デザート, ディナー, ケーキ
+top3 entities near to cluster5>>
+デザート, スプーン, コーヒー
+top3 entities near to cluster6>>
+レストラン, ケーキ, ショートケーキ
+top3 entities near to cluster8>>
+クリーム, クリーミー, パンプキン
+top3 entities near to cluster12>>
+レモン, カシス, コロナ
+top3 entities near to cluster13>>
+コーヒー, アイス, デザート
+top3 entities near to cluster14>>
+スープ, サラダ, 味噌汁
+top3 entities near to cluster15>>
+コロッケ, 天ぷら, カニクリームコロッケ
+top3 entities near to cluster20>>
+甘み, 旨味
+top3 entities near to cluster21>>
+ランチ, 料理, 食事
+top3 entities near to cluster23>>
+従業員, 従業, 団体
+top3 entities near to cluster26>>
+通路, 斜め, 真横
+top3 entities near to cluster27>>
+立地, 直結, 至便
+top3 entities near to cluster30>>
+年配, 大勢, いらっしゃる

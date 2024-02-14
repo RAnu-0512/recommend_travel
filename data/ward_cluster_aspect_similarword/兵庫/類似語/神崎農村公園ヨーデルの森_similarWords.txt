@@ -1,0 +1,37 @@
+--------------------similar_words:神崎農村公園ヨーデルの森--------------------
+top3 entities near to cluster0>>
+ウサギ, アルパカ, カピバラ
+top3 entities near to cluster1>>
+アマゴ, ニジマス, アメゴ
+top3 entities near to cluster2>>
+水遊び, 釣り堀, 魚釣り
+top3 entities near to cluster5>>
+サンダル, スニーカー, レジャー
+top3 entities near to cluster6>>
+アトラクション, テーマパーク, イベント
+top3 entities near to cluster8>>
+バーベキュー, レストラン, バイキング
+top3 entities near to cluster10>>
+イベント, スタッフ, アルバイト
+top3 entities near to cluster11>>
+スペース, シャワー, カプセル
+top3 entities near to cluster12>>
+タイプ, もってこい, オススメ
+top3 entities near to cluster13>>
+串刺し, とりこ, サイコ
+top3 entities near to cluster14>>
+子ども, 子供, 小学生
+top3 entities near to cluster15>>
+猫, ネコ
+top3 entities near to cluster18>>
+機会, 余裕, 経験
+top3 entities near to cluster23>>
+体験, 体験談, 体感
+top3 entities near to cluster24>>
+動物, 動物園, 植物園, 植物
+top3 entities near to cluster25>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster26>>
+餌, エサ
+top3 entities near to cluster30>>
+公園, 施設, 駅前

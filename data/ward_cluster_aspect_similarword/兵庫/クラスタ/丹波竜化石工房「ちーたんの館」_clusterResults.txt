@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹波竜化石工房「ちーたんの館」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+丹波市役所, 丹波竜, 首長竜
+cluster1:(8)
+資料館, 骨, 化石掘り, 地層, 恐竜, 標本, 化石, 発掘現場
+cluster2:(10)
+神戸, 場所, 頭, 丹波市, もの, 博物館, 方, 類, 子供, 近く
+cluster3:(2)
+規模, 迫力
+cluster4:(3)
+建物, 施設, 外観
+cluster5:(3)
+展示, 映像, 体験
+cluster6:(1)
+等身大
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 3entities.

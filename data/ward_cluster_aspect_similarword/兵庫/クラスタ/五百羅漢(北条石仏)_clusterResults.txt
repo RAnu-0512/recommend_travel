@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五百羅漢(北条石仏)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+作者, 手, 夏, 大半, 気持ち, もの, 範囲, 人, 目, 地元
+cluster1:(4)
+表情, 腰, 顔, 彫刻
+cluster2:(4)
+風雨, 蚊, 石仏, 地蔵
+cluster3:(1)
+高さ
+cluster4:(1)
+自由裁量
+cluster5:(1)
+兵庫県民
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 3entities.

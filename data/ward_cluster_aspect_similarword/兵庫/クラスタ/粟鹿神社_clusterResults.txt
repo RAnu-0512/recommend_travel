@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:粟鹿神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+タクシー, 運転手, 人, バス, 巡礼, ひとつ先, 行き先, 歴史, 最寄り駅, 一之宮, 不便, 方面行き
+cluster1:(2)
+和田山駅, 梁瀬駅
+cluster2:(3)
+出石神社, 粟鹿神社, 神社
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Primavera プリマヴェーラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+指導, 作業, 作り, 時間, 体験
+cluster1:(6)
+作品, 友達, 職場, お家, 先生, 親子
+cluster2:(2)
+柄, 色
+cluster3:(2)
+前回, 今回
+cluster4:(4)
+ケーキスタンド, 招き猫, 箸置き, 九谷焼
+cluster5:(2)
+気持ち, 雰囲気
+cluster6:(5)
+アドバイス, アイデア, おまけ, おかげ, ティースプーン
+cluster7:(1)
+もの
+cluster8:(1)
+気
+cluster9:(1)
+絵付け
+cluster10:(2)
+九谷, 山本駅
+cluster11:(3)
+ティーカップとお皿, 豆皿, 転写紙
+
+howmany entities : 34
+howmany clusters : 12
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 11entities.

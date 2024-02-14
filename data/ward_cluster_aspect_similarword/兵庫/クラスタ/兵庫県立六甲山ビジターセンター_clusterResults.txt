@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兵庫県立六甲山ビジターセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入場料, 駐車場
+cluster1:(5)
+自然, 写真パネル, 施設, 六甲山, 六甲山町
+cluster2:(2)
+灘区, 神戸市
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

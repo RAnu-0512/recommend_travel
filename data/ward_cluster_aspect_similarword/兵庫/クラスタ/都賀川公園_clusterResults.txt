@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都賀川公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木陰, 日陰
+cluster1:(7)
+感じ, 所, ウォーキング, 人, 遊歩道, 方, 雰囲気
+cluster2:(2)
+駅, 公園
+cluster3:(2)
+川, 橋
+cluster4:(4)
+散歩, 桜, 犬, 花見
+cluster5:(6)
+神戸, 北, 水, 南北, 新年最初, 木
+cluster6:(2)
+都賀川, 阪神大石駅
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 8entities.

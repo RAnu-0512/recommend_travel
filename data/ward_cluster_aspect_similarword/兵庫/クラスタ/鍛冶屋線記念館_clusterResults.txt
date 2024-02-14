@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鍛冶屋線記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+想い, 線, 途中駅, 鍛冶屋線, 地域, 駅舎, 鉄路, 跡, 地図, 名残, 車両
+cluster1:(2)
+多可町, 西脇市
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 2entities.

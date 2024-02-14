@@ -1,0 +1,15 @@
+--------------------similar_words:センチュリオンホテル ヴィンテージ神戸--------------------
+top3 entities near to cluster0>>
+時間, 限定, 利用
+top3 entities near to cluster2>>
+サラダ, パスタ, スープ
+top3 entities near to cluster3>>
+ホテル, デート, プラン
+top3 entities near to cluster4>>
+アイス, デザート, コーヒー
+top3 entities near to cluster7>>
+ファミレス, レストラン, ハンバーグ
+top3 entities near to cluster9>>
+スタッフ, フロント, ポイント
+top3 entities near to cluster15>>
+食事, 夕食, 料理

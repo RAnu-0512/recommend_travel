@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾崎海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+事, 方
+cluster1:(1)
+状況
+cluster2:(1)
+影響
+cluster3:(2)
+シーズン, シャワー
+cluster4:(1)
+コロナ
+cluster5:(1)
+週末
+cluster6:(1)
+ゴミ
+cluster7:(1)
+波
+cluster8:(1)
+海水浴場
+
+howmany entities : 11
+howmany clusters : 9
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 11entities.

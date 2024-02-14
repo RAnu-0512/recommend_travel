@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御霊神社(兵庫県三田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三田駅, 三田市, 三田市貴志
+cluster1:(3)
+歴史, 道, 国
+cluster2:(4)
+感じ, 肝心, 必要, 練習
+cluster3:(2)
+周囲, 地元
+cluster4:(5)
+人, 名, 方, 中, 他
+cluster5:(3)
+道のり, バス停, 最寄り
+cluster6:(2)
+気持ち, 雰囲気
+cluster7:(2)
+グラウンド, ハイキング
+cluster8:(2)
+ところ, あちこち
+cluster9:(1)
+入り口
+cluster10:(1)
+口コミ
+cluster11:(1)
+文化財
+cluster12:(1)
+看板
+cluster13:(4)
+本数, バス, 少年サッカーチーム, JR
+cluster14:(5)
+島, 林, 坂, 石, 鳥居
+cluster15:(7)
+脇, 中央公園前, すずかけ台小学校前, 北側, 前, 南側, 両側
+cluster16:(1)
+宅地
+cluster17:(6)
+神社, 参拝者, 境内, 観光地, 御霊神社, 本殿
+
+howmany entities : 53
+howmany clusters : 18
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 9
+deleted 13entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅 とうじょう--------------------
+top3 entities near to cluster0>>
+食材, 野菜, 特産
+top3 entities near to cluster3>>
+出店, 併設
+top3 entities near to cluster4>>
+コンビニ, コンビニエンスストア, スーパーマーケット
+top3 entities near to cluster10>>
+芋, 黒豆, 野菜

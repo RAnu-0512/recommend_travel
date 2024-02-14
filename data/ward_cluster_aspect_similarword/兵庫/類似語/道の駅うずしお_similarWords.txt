@@ -1,0 +1,67 @@
+--------------------similar_words:道の駅うずしお--------------------
+top3 entities near to cluster0>>
+土産, バス, 土産物
+top3 entities near to cluster1>>
+時間, 駐車, 休業
+top3 entities near to cluster2>>
+渦潮, 潮, 渦
+top3 entities near to cluster4>>
+眺め, 見, 想像
+top3 entities near to cluster8>>
+記念, 同士
+top3 entities near to cluster10>>
+絶品, 名物, 有名
+top3 entities near to cluster11>>
+坂, 海, 高台
+top3 entities near to cluster12>>
+孫, 子供, 家族
+top3 entities near to cluster14>>
+手前, 真上, 真横
+top3 entities near to cluster15>>
+展望, 眺望, 景色
+top3 entities near to cluster18>>
+工事, 施工, 建設
+top3 entities near to cluster19>>
+駅道, 駅, 徒歩
+top3 entities near to cluster20>>
+昼, 休み, お昼
+top3 entities near to cluster21>>
+飲食店, 料理店, 飲食, 料理
+top3 entities near to cluster22>>
+旅, 渋滞
+top3 entities near to cluster26>>
+土産物店, 料理店, 料理, 土産物
+top3 entities near to cluster27>>
+トマト, 玉ねぎ, ガーリック
+top3 entities near to cluster29>>
+クレーン, スロープ, オブジェ
+top3 entities near to cluster30>>
+ショップ, レストラン, イベント
+top3 entities near to cluster31>>
+サイクリスト, サイクリング, おじさん
+top3 entities near to cluster34>>
+フライドオニオン, イチゴスムージー, ダッチパンケーキ
+top3 entities near to cluster35>>
+ハンバーガー, ソフトクリーム, アトラクション
+top3 entities near to cluster43>>
+美味しい, ボリューム, おすすめ
+top3 entities near to cluster44>>
+こっち, あちこち, 昼過ぎ
+top3 entities near to cluster45>>
+リスク, カツラ, うわさ
+top3 entities near to cluster46>>
+売り場, 土産物, みやげ物
+top3 entities near to cluster48>>
+買い物, ガマン, 楽しみ
+top3 entities near to cluster49>>
+夏休み, 思い出, こども
+top3 entities near to cluster50>>
+レストラン, グルメ, ホテル
+top3 entities near to cluster51>>
+被り物, 置き物, 被りもの
+top3 entities near to cluster52>>
+玉ねぎ, たまねぎ, 玉葱
+top3 entities near to cluster53>>
+カツ, ビワ, マス
+top3 entities near to cluster55>>
+うず, したう, めめしい

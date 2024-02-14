@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯の原温泉オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+請求書, 電話番号, 苦情受付先
+cluster1:(2)
+台車, 区画
+cluster2:(5)
+車, 客, 施設, 音楽, 温泉
+cluster3:(2)
+コテージ, バンガロー
+cluster4:(2)
+ファミリーキャンプ, キャンプ
+cluster5:(1)
+キャンセル
+cluster6:(1)
+テント
+cluster7:(1)
+マナー
+cluster8:(1)
+笑い
+cluster9:(1)
+水道
+cluster10:(1)
+雨天
+cluster11:(11)
+注意, 対象, 文言, キャンセル料, 迷惑, 問題, 理由, こと, 案内, 予約日, 名前
+cluster12:(5)
+キャンプ場, 一泊キャンプ, 注意キャンプ場, 人生初キャンプ, オートキャンプ場
+
+howmany entities : 36
+howmany clusters : 13
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 12entities.

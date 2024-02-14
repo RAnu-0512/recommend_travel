@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡路市立香りの公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 噴水
+cluster1:(2)
+ハーブ, ハーブガーデン
+cluster2:(3)
+ローズマリー, ラベンダー, ミント
+cluster3:(1)
+植物
+cluster4:(1)
+香り
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

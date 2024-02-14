@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯村温泉 朝野家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宿泊, 旅館
+cluster1:(2)
+風呂, 部屋
+cluster2:(10)
+桜, 最高, 食事, サービス, こと, 気分, 世話, 母親, 心, 方
+cluster3:(1)
+親子旅行
+cluster4:(1)
+至れり尽くせり
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 6entities.

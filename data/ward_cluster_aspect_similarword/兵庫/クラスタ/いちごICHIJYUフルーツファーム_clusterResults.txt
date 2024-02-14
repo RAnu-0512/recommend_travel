@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちごICHIJYUフルーツファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+家族みんな大, 田園地帯, 笑 いちじゅう, 日生中央, 住宅街
+cluster1:(2)
+いちご狩り, イチゴ狩り
+cluster2:(9)
+スタッフ, ソフトクリーム, イチゴ, シーズン, ビニールハウス, (*^^*, いちご, スタート, ハウス
+cluster3:(5)
+時間, 位, 方, 横, 中
+cluster4:(1)
+果肉
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 3entities.

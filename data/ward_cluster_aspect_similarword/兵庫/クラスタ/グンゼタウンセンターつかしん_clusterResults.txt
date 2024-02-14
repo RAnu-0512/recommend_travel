@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グンゼタウンセンターつかしん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+阪急稲野駅, 塚口エリア
+cluster1:(3)
+雑貨, 靴, 服
+cluster2:(2)
+改修, 南東
+cluster3:(16)
+買い物, 所, テナント, カバン, スーパー, レストラン, 魅力, メイン, ショッピングモール, ペットショップ, 大人, 水族館, 館内, 温泉, ユニクロ, プチプラショップ
+cluster4:(5)
+食料品, 専門店, 飲食店, チェ-ン店, 店
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 4entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阪神電鉄高速神戸駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+阪急, 山陽, 阪神, 関西, 大阪, 阪急両方
+cluster1:(4)
+感じ, 人, 雰囲気, 方
+cluster2:(3)
+乗り場, 行き先, 駅
+cluster3:(2)
+乗車, 改札
+cluster4:(3)
+注意, 注意逆, 可能性
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 2entities.

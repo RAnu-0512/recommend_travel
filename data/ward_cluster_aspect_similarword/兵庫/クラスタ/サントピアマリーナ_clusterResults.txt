@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サントピアマリーナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ホテル, リゾートマンション
+cluster1:(2)
+ヨット, クルーザー
+cluster2:(1)
+周り
+cluster3:(1)
+企業
+cluster4:(1)
+値段
+cluster5:(1)
+想像もつ
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビジュオペラ神戸三宮ジュエリーラボ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+楽しさ, 不器
+cluster1:(2)
+記念, 記念日
+cluster2:(8)
+作業, 説明, 撮影, 工程, 作成風景, 体験, 動画, 写真
+cluster3:(2)
+店員, 店内
+cluster4:(3)
+刻印, 柄, 模様
+cluster5:(9)
+作り方, イメージ, スタッフ, おすすめ, バングル, マンツーマン, カップル, リング, ペンダント
+cluster6:(3)
+思い出, 作り物, 雰囲気
+cluster7:(6)
+話, 人, 世界, 種類, 時間, 方
+cluster8:(3)
+友達, 友人, 姉妹
+cluster9:(1)
+神戸
+cluster10:(1)
+定員
+cluster11:(15)
+友情リング, ペアネックレス, 作り, 打ち方, ピンキーリング作り, ペアペンダント, ^)ペア, 指輪作り, バングル作り, ペアリング, ペンダント作り, リング作り, お洋服屋, 指輪, 作り合いっこ
+
+howmany entities : 55
+howmany clusters : 12
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 7
+deleted 8entities.

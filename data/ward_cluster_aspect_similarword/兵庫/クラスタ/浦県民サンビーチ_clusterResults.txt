@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浦県民サンビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+感じ, ジェット, 場所, 子供連れ, 印象, 程度, 点, ビーチ, 荷物, 店員, 範囲, ライフジャケット, 人, 流石, 目, 時間, 有料, アクアシューズ, シャワー, 前ビーチ, 店, 評価, 海, 異性スタッフ
+cluster1:(2)
+海水浴場, 駐車場
+cluster2:(2)
+更衣室, 更衣
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 1
+deleted 4entities.

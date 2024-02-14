@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:幸灯工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+当たり方, 所, 繊維, 作品, ポイント, 面, 室内, もの, 切り貼り, 種類, 花びら, フォルム, 笑, 笑顔, 色合い, 間, 灯り, 時間, 中, 光, ロウソク, 先生, つなぎ合わせ
+cluster1:(4)
+和紙選び, テープ貼り, 藍染, 和紙
+cluster2:(4)
+体験場, 照明作り体験, 古民家, 体験
+
+howmany entities : 31
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 3
+deleted 0entities.

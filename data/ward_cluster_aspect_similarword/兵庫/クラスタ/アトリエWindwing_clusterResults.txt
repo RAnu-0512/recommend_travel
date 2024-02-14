@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アトリエWindwing>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+苔, 苔テラリウム
+cluster1:(4)
+こと, 作業, 話, 日々
+cluster2:(6)
+リフレッシュ, テラリウム, サイズ, 手, 仕上げ, 絵
+cluster3:(1)
+雑事
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,25 @@
+--------------------similar_words:道の駅 あいおい白龍城--------------------
+top3 entities near to cluster0>>
+土産, おみやげ, 出張
+top3 entities near to cluster1>>
+注文, 購入, 値段
+top3 entities near to cluster2>>
+雰囲気, 風情, 土産物
+top3 entities near to cluster3>>
+地元, 限定, 各地
+top3 entities near to cluster5>>
+駅船, 海船, 海, 駅
+top3 entities near to cluster6>>
+敷地, 施設, 工場
+top3 entities near to cluster7>>
+建物, 外観, 景色
+top3 entities near to cluster9>>
+食事, 風呂, 夕食
+top3 entities near to cluster10>>
+野菜, 果物, 街道
+top3 entities near to cluster11>>
+温泉, 施設, 温浴
+top3 entities near to cluster12>>
+中華, 海鮮, 牡蠣
+top3 entities near to cluster13>>
+龍, 竜, 白

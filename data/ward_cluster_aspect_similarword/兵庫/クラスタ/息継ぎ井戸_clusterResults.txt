@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:息継ぎ井戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+赤穂, 赤穂城跡, 赤穂浪士, JR赤穂駅, 赤穂浪士ゆかり, 赤穂藩, 赤穂義
+cluster1:(2)
+井戸, 息継ぎ井戸
+cluster2:(2)
+一息, 中間点
+cluster3:(10)
+浅野内匠頭, ベンチ, 播州赤穂, 歴史, 江戸, トイレ, 江戸城, 城, 水, 忠臣蔵ゆかり
+cluster4:(10)
+途中, 場所, 地, 辺り, 広場, 周辺, 建物, 駅, 隣, 近く
+cluster5:(2)
+士, からくり時計
+cluster6:(3)
+主君浅野内匠頭, 沙汰, 藩士
+cluster7:(1)
+観光客
+cluster8:(4)
+刃傷事件, 刃傷, 早駕籠, 萱野三平ら
+
+howmany entities : 41
+howmany clusters : 9
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 5
+deleted 7entities.

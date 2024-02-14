@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:貸切グランピング&BBQ Fuji Farm>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+上手, ドームテント, 場所, 記念, スタッフ, ペット, 説明, BBQ, テント, パフェ, エアコン, 量, 人, 帰り, 対応, トイレ, お話, 方々, 施設, グランピング, 方, 中, 家族, こと
+cluster1:(3)
+店員, 店内, 店
+cluster2:(3)
+野菜, 料理, 肉
+cluster3:(2)
+犬, ご飯
+cluster4:(1)
+掃除
+cluster5:(1)
+家族写真
+cluster6:(1)
+誕生日
+cluster7:(6)
+ピザ体験, 芋チップス, ピザ, 芋, 体験, ピザ作り
+cluster8:(4)
+朝来市, 但馬牛, 貸切グランピング&BBQ Fuji Farm, 城崎温泉
+
+howmany entities : 45
+howmany clusters : 9
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 5
+deleted 5entities.

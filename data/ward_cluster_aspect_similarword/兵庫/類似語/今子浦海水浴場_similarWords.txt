@@ -1,0 +1,25 @@
+--------------------similar_words:今子浦海水浴場--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+子供, 子ども, 親達
+top3 entities near to cluster4>>
+カサゴ, 魚釣り
+top3 entities near to cluster5>>
+ウミウシ, イソギンチャク, ヤドカリ
+top3 entities near to cluster7>>
+子供, 家族, 子ども
+top3 entities near to cluster10>>
+浦, 今子, 圃千
+top3 entities near to cluster12>>
+島, シキホール, カバリア
+top3 entities near to cluster13>>
+岩場, 砂浜, 浅瀬
+top3 entities near to cluster14>>
+岩石, 岩, 蛙石, 蛙
+top3 entities near to cluster15>>
+海魚, 海水魚, 海, 海水
+top3 entities near to cluster16>>
+浜波, 磯波, 磯, 浜
+top3 entities near to cluster18>>
+宿, 民宿, 旅館

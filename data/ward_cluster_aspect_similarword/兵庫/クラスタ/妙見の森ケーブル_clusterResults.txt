@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妙見の森ケーブル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+桜, 紅葉時期, 季節, 紅葉, 春, 秋, 時期
+cluster1:(3)
+子供たち, 大人, 子供
+cluster2:(3)
+料金, 駅, 道
+cluster3:(2)
+乗り場, リフト
+cluster4:(6)
+阪急電鉄, 気持ち, ケーブル, 乗り物, アジサイ, ケーブルカー
+cluster5:(1)
+妙見山
+cluster6:(6)
+途中, 人, 間, 孫, 風, 年間
+cluster7:(2)
+足湯, 廃止
+cluster8:(5)
+景色, 往復ケーブルカー, 眺め, フリーパス, 往路ケーブル
+cluster9:(14)
+妙見, 山頂, 山上駅, 森リフトの黒川駅, 妙見の森ケーブル, 能勢電鉄, 山頂駅, 森ケーブル, 森, 里山景観, 四季折々, 黒川駅, 観光客, 大阪市
+
+howmany entities : 49
+howmany clusters : 10
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 7
+deleted 5entities.

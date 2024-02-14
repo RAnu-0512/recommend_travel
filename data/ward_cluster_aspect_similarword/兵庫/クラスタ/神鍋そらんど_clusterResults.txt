@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神鍋そらんど>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+気球体験, 気球
+cluster1:(3)
+体験実施, 体験時間, 体験
+cluster2:(2)
+値段, 値段なり
+cluster3:(3)
+中止, 準備, 開始
+cluster4:(7)
+価値, 景色, 感謝, 事, こと, 人生, 光景
+cluster5:(11)
+スタッフ, 上, 関西, バーナー, 中, 風, 子どもたち, 子供, 小学生, バルーン, ゴンドラ
+cluster6:(1)
+可能性
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 5entities.

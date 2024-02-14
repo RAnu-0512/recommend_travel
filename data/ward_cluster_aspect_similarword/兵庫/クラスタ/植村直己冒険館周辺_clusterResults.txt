@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:植村直己冒険館周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+植村直己冒険館, 植村直己記念スポーツ公園
+cluster1:(2)
+帰路, 足跡
+cluster2:(10)
+テント, 自然, 人, 車, 周辺, 建物, 宿, 日本, 展示, 映像
+cluster3:(1)
+人柄
+cluster4:(3)
+植村, 氷壁, 冒険家
+cluster5:(1)
+装備品
+cluster6:(1)
+城崎温泉
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 7entities.

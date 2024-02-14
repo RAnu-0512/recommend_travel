@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JR城崎温泉駅, 城崎温泉街
+cluster1:(8)
+北, 山, 桃島池, 南, 滝, 頂上, 西, 高台
+cluster2:(4)
+桜, 緑, 花, 紅葉
+cluster3:(4)
+季節, 春, 秋, 時期
+cluster4:(2)
+お子, 子
+cluster5:(9)
+記念碑, スポット, 円山川, 日本海, スリル, 吊り橋, 雰囲気, 東山公園, 桜並木
+cluster6:(4)
+友達, 人, 週末, 家族
+cluster7:(2)
+感じ, 方
+cluster8:(2)
+場所, 近く
+cluster9:(18)
+散歩, 景色, 公園入り口, 花見, 花見シーズン, 散策, 自然, 家族連れ, 名所, 温泉街, 吊橋, 展望台, 天気, 展望公園, 眺望, 公園, 自然公園, 温泉
+
+howmany entities : 55
+howmany clusters : 10
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 6
+deleted 8entities.

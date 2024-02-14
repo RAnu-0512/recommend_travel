@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平荘湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+桜, 散歩, 犬, 愛犬, 開花, 満開, 散歩コース, 紅葉, 釣り
+cluster1:(29)
+場所, ほとり, 周囲, 鳥, ジョギング, ウォーキング, ウォーキングコース, バードウォッチング, 空気, 気持ち, 人造湖, 自然, 人, 車, 山, ランニング, 周り, 季節, 周辺, 加古川, 時間, 人々, 春, オススメ, さえずり, 地域, 気, 紫陽花, 他
+cluster2:(4)
+湖, 湖面, 景色, 景観
+cluster3:(1)
+駐車場
+cluster4:(1)
+平荘湖
+
+howmany entities : 44
+howmany clusters : 5
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 3
+deleted 2entities.

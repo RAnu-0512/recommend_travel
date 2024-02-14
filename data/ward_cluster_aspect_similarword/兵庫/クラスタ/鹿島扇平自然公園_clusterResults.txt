@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿島扇平自然公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+公園, 児童公園, 自然, 桜, 岩, 展望台, 山, 自然公園, 鹿嶋神社, 西側一帯, ハイキングコース
+cluster1:(2)
+高御位山, 鹿島扇平自然公園
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 2entities.

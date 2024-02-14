@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アダチ観光農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+愛想, 粒, 所, ぶどう狩り, 試食, バラ, もの, ぶどう, 桃, 大人, おばさん, 試食品, 皿, こん, 子供, ブドウ
+cluster1:(2)
+桃半個, 入園料
+cluster2:(1)
+切られ外皮付状態
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 3entities.

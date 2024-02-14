@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸市埋蔵文化財センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+受付カウンター, 見学場所, 見学, 受付
+cluster1:(13)
+西神中央公園, 人, 撮影, 電車, 建物, 状態, 天気, 訳, 西神中央駅, 許可, 雨, 中央, 写真
+cluster2:(1)
+団体客
+cluster3:(7)
+埋蔵文化財センター, 収蔵庫, 出土品, 円筒埴輪, 発掘物, 五色塚古墳, 埴輪
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 1entities.

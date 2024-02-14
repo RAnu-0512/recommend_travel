@@ -1,0 +1,19 @@
+--------------------similar_words:小林農園--------------------
+top3 entities near to cluster0>>
+狩り, イチゴ, 狩る
+top3 entities near to cluster1>>
+イチゴ, 苺, いちご
+top3 entities near to cluster2>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster5>>
+スタッフ, 小さめ, 大きめ
+top3 entities near to cluster6>>
+トイレ, カバン, ハサミ
+top3 entities near to cluster10>>
+ビニール, 上着
+top3 entities near to cluster11>>
+子供, 子ども, 親達
+top3 entities near to cluster13>>
+人達, 大勢
+top3 entities near to cluster14>>
+時間, 期間, 時

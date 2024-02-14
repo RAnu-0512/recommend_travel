@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西脇市日本のへそ日時計の丘公園フォルクスガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+感じ, フォルクスガーデン, イングリッシュガーデン, 位置, 人, ガーデン, 食事, 音, 別, ぬくもり, 日本, 方, 店内, 名前
+cluster1:(5)
+緑, へそ, 広場, 茶, 公園
+cluster2:(2)
+振り子時計, 薪ストーブ
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 2entities.

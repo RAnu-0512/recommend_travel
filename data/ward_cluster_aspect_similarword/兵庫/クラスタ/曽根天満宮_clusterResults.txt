@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:曽根天満宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+山上, 出雲地方, 小松, 江戸時代
+cluster1:(6)
+社殿, 仏像, 神社, 拝殿, 境内, 寺
+cluster2:(4)
+罪, 人, 無実, 人たち
+cluster3:(16)
+九州大, 散歩, 途中, 神輿, 注連縄, 屋台, 電車, 伊保港, 船, 廃仏毀釈, 駅, 梅, 天満宮, 気, こと, 祭り
+cluster4:(3)
+曽根天満宮西方の日笠山, 菅原道真, 曽根駅
+
+howmany entities : 33
+howmany clusters : 5
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今子浦ファミリーパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+バーベキュー, 海, 丘, 自然, ファミリーパーク, 近く
+cluster1:(2)
+所, 道路
+cluster2:(3)
+迫力, 景色, 眺め
+cluster3:(1)
+御弁当
+cluster4:(1)
+ゆうなぎの丘
+cluster5:(5)
+キャンプ場, 駐車場, 展望台, 観光客, 国民宿舎
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 4entities.

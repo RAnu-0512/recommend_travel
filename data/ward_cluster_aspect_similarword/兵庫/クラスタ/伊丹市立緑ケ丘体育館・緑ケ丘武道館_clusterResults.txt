@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊丹市立緑ケ丘体育館・緑ケ丘武道館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+夏, 永遠, 大人, 子供
+cluster1:(11)
+子, ストレス, マイク, スポーツバレエ, 耳障り, 教室, テープ, ホームページ, プール, リピート, 体育館
+cluster2:(1)
+入場
+cluster3:(1)
+片足
+cluster4:(1)
+監視員
+cluster5:(1)
+プ−ル
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 4entities.

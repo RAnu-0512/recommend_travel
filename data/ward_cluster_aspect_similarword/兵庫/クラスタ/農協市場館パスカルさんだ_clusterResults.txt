@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:農協市場館パスカルさんだ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+取れたて, 安心さ, 新鮮さ, 出来立てホヤホヤ, とれたて
+cluster1:(6)
+産直品, 地元野菜, 地物野菜, 野菜類, 朝採り野菜, 夏野菜
+cluster2:(3)
+三田牛, 三田, 三田地域
+cluster3:(3)
+車, 駅, 道
+cluster4:(4)
+値段, もの, 時間, こと
+cluster5:(3)
+買い物, ランチ, 焼き肉
+cluster6:(2)
+スポット, オススメ
+cluster7:(3)
+スーパー, コロッケ, レストラン
+cluster8:(1)
+パスカル
+cluster9:(1)
+小学校
+cluster10:(1)
+雰囲気
+cluster11:(1)
+コスパ
+cluster12:(4)
+人, 人気, 地元, 子供
+cluster13:(1)
+見学
+cluster14:(4)
+黒豆, おもち, 米, 兵庫
+cluster15:(2)
+社会科, 生産者
+cluster16:(2)
+パン, ピザ
+cluster17:(4)
+野菜, 農家, 果物, 食材
+cluster18:(3)
+魚屋, 魚, 肉
+cluster19:(1)
+焼肉屋
+
+howmany entities : 54
+howmany clusters : 20
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 11
+deleted 12entities.

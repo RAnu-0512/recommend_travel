@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寺町(兵庫県尼崎市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+寺巡り, 神社, 家々と, 寺町, とお寺, 寺, 寺社
+cluster1:(3)
+子供達, 江戸時代, 子供
+cluster2:(3)
+たこ焼き, スポット, スタンプ
+cluster3:(6)
+イメージ, ところ, あたり, いくつか, それぞれ, ガイドブック
+cluster4:(1)
+雰囲気
+cluster5:(2)
+長遠寺, 大覚寺
+cluster6:(8)
+多く, 多数, おり, 変化, 一部, 昔, 気, 参考
+cluster7:(18)
+石畳, 場所, 街並み, 町並み, コイン館, 地区, 散策, 南口, 歴史, 町, のんびり散歩, 南側, 付近, 駅, 端, 色紙, 風情, 休憩スポット
+cluster8:(9)
+南北町ぶら, 商店街, 阪神電車, 尼崎城, 都市美成形地域, 西宮神社, 尼崎駅, 尼崎, 駅北商店街
+
+howmany entities : 57
+howmany clusters : 9
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 7
+deleted 3entities.

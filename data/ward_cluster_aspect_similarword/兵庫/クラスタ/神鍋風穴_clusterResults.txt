@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神鍋風穴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風穴, 風穴庵
+cluster1:(11)
+夏場, 部分, 冷気, 柵, 禁止, 神鍋山, 玄武岩模様, 液体, 内側, 外側, 溶岩
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西宮市大谷記念美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+小さなお子, 和菓子屋, お庭, 川沿い, 散歩気分
+cluster1:(2)
+植物, 植物採集
+cluster2:(2)
+日本庭園, 庭園
+cluster3:(2)
+中庭, 庭
+cluster4:(2)
+土地, 建物
+cluster5:(1)
+邸宅美術館
+cluster6:(1)
+騒音
+cluster7:(1)
+住宅街
+cluster8:(1)
+喫茶室
+cluster9:(4)
+大谷竹次郎, 松竹, 阪神, 西宮
+cluster10:(5)
+感じ, もの, 魅力, こと, 価値
+cluster11:(12)
+ボリューム, 作品, 友人, 人, 世界, 目, ロビー, 時間, 佇まい, 美術館, 中, ボローニャ
+cluster12:(2)
+鑑賞, 開催
+cluster13:(10)
+道路下, 景色, 香露園駅, 直線, 電車, 南, 紅葉, 正面, 道, 横
+cluster14:(2)
+交通量, 創業者
+cluster15:(5)
+阪急夙川, 富山県水墨美術館, 大谷記念美術館, 谷崎潤一郎記念美術館, 西宮大谷記念美術館
+cluster16:(17)
+屏風絵, 美術展, 作品群, 展, 絵本, 展示品, 展示数, 企画展, 絵本展, 美術品, ボローニャ国際絵本原画展, 展示作品, 展覧会, 美術, 展示, 展示物, 美術作品
+
+howmany entities : 74
+howmany clusters : 17
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 7
+deleted 16entities.

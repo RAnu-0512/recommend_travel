@@ -1,0 +1,11 @@
+--------------------similar_words:大野山キャンプ場--------------------
+top3 entities near to cluster0>>
+炊事場, 炊事, 排水
+top3 entities near to cluster1>>
+山頂, 頂上, 斜面
+top3 entities near to cluster4>>
+山小屋, 公園, テント
+top3 entities near to cluster5>>
+山道, ゴミ
+top3 entities near to cluster6>>
+満, タン, 直

@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 ハチ北>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+馬車道, スキー場, 生鮮野菜, チエーン着脱場, 駅ハチ北, 駐車場
+cluster1:(2)
+くるみゆべし, とち餅
+cluster2:(2)
+スキー, スキーシーズン
+cluster3:(4)
+メニュー, スタッフ, スキーヤー, スペース
+cluster4:(3)
+ドライブ, おみやげ, スタンプ
+cluster5:(1)
+トイレ
+cluster6:(1)
+うどん
+cluster7:(1)
+クルミ
+cluster8:(1)
+カカシ
+cluster9:(1)
+スタンプラリー
+cluster10:(1)
+家族
+cluster11:(2)
+冬, 銀
+cluster12:(5)
+感じ, 途中, 辺り, スミマセン.., 押し
+cluster13:(1)
+鳥取
+cluster14:(2)
+土産スペース, 土産
+cluster15:(3)
+方面, 車, 駅
+cluster16:(2)
+旅, 道
+cluster17:(1)
+国道
+cluster18:(4)
+閑散, 設備, 店, 飲食スペース
+cluster19:(3)
+休憩, 休憩スペース, 出迎え有り地元
+
+howmany entities : 46
+howmany clusters : 20
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 7
+deleted 18entities.

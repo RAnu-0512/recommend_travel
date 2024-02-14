@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金心寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+由来, 地名
+cluster1:(5)
+中, 雰囲気, 建物, 歴史, 空気
+cluster2:(1)
+寺
+cluster3:(1)
+:... o
+cluster4:(1)
+三田市
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 5entities.

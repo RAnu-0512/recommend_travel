@@ -1,0 +1,9 @@
+--------------------similar_words:海外移住と文化の交流センター--------------------
+top3 entities near to cluster0>>
+展示, 展覧, 館
+top3 entities near to cluster1>>
+移民, 移住, 入植
+top3 entities near to cluster5>>
+施設, 人々, 博物館
+top3 entities near to cluster6>>
+駅人, 徒歩, 駅

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松帆の浦>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+橋, 対岸, 風情
+cluster1:(4)
+中, 場所, 淡路島, 此処
+cluster2:(2)
+西, 端
+cluster3:(1)
+本州
+cluster4:(1)
+松帆
+cluster5:(1)
+神戸市
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 5entities.

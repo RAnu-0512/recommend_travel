@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観音寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+感じ, 印象, 気, 重み, 風情
+cluster1:(2)
+小さなお寺, 寺
+cluster2:(2)
+景色, 紅葉
+cluster3:(2)
+場所, 近く
+cluster4:(4)
+文化財, ドライブ, 人, 中
+cluster5:(1)
+車
+cluster6:(1)
+山
+cluster7:(1)
+歴史
+cluster8:(1)
+山奥
+cluster9:(1)
+心
+cluster10:(1)
+参拝客
+
+howmany entities : 21
+howmany clusters : 11
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 12entities.

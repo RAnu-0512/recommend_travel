@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西神戸ゴルフ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+山陽自動車道, グリーン, オープンコンペ, ホール, 気持ち
+cluster1:(3)
+感じ, 状態, 時期
+cluster2:(2)
+芝, ゴルフ場
+cluster3:(1)
+左右OB
+cluster4:(1)
+打ち下ろし
+cluster5:(1)
+戦略性
+cluster6:(1)
+谷越え
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 6entities.

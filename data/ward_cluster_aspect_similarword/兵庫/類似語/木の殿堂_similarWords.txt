@@ -1,0 +1,17 @@
+--------------------similar_words:木の殿堂--------------------
+top3 entities near to cluster1>>
+建築, 建物, 建造
+top3 entities near to cluster6>>
+ひととき, ひと時, ヒンヤリ
+top3 entities near to cluster7>>
+おもちゃ, オモチャ, 子ども
+top3 entities near to cluster11>>
+自然, 木々, 森
+top3 entities near to cluster12>>
+宿泊, 本館, 施設
+top3 entities near to cluster13>>
+壁面, 建物, 木製
+top3 entities near to cluster14>>
+子供園, 植物園, 植物, 子供
+top3 entities near to cluster15>>
+駐車場, 駐車, 展望

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:林渓寺の梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+敷地, 境内, 寺
+cluster1:(4)
+幼稚園, 滑り台, 時代, 季節
+cluster2:(2)
+梅, 木
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

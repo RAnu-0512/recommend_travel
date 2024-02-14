@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:應聖寺の沙羅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+本堂, 應聖寺, 寺, 山門
+cluster1:(2)
+ビニール傘, 妖怪ベンチ
+cluster2:(10)
+時間, 庭, 車, 手, 花, 時期, 雨, 覚悟, やかた, 沙羅
+cluster3:(2)
+福崎, もち麦
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 4entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:全但バス株式会社(たじまわる)--------------------
+top3 entities near to cluster0>>
+利用者, 乗車, 利用
+top3 entities near to cluster1>>
+予定, つもり, ため
+top3 entities near to cluster7>>
+時間, 本数, 距離
+top3 entities near to cluster9>>
+帰り道, 帰りがけ
+top3 entities near to cluster11>>
+話人, 話, 人達
+top3 entities near to cluster13>>
+自力, 地元, 個人
+top3 entities near to cluster16>>
+列車, 乗り継ぎ, 周遊
+top3 entities near to cluster17>>
+バス, 周遊, タクシー

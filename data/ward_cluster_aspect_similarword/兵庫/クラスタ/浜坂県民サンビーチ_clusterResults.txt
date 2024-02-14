@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜坂県民サンビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+中, 人, キャンプ場, 子ども, 雰囲気, 車, 迫力, 大阪, キャンプ
+cluster1:(5)
+砂浜, 海, 雪, 波, 松林
+cluster2:(1)
+湯村
+cluster3:(2)
+浜坂ほたるいか祭り, 浜坂漁協
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 3entities.

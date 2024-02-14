@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多田銀銅山悠久の館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+わき道, 山奥, おすすめ, 観光, 展示, トイレ, 勉強, 施設
+cluster1:(2)
+情報量, 予備知識
+cluster2:(1)
+銀銅山
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 3entities.

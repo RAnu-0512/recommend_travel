@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滴翠美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+陶芸, 茶道
+cluster1:(5)
+美術館, 小学生, 出来上がり, 娘, 夏休み
+cluster2:(2)
+先生, 方
+cluster3:(2)
+窓口, 住宅
+cluster4:(2)
+渡来の茶道具展, 子供陶芸体験
+cluster5:(1)
+山口吉郎兵衛
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 9entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸バプテスト教会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+教会, プロテスタント教会, 鐘楼
+cluster1:(2)
+可愛らしさ, 素朴
+cluster2:(9)
+所, 場所, 北, 全体, 北野坂, 目, 建物, 外観, 壁
+cluster3:(1)
+新年最初
+cluster4:(2)
+異人館街, 異人館
+cluster5:(2)
+神戸三宮, 三宮駅
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 7entities.

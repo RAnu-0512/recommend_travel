@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:うずしおドーム なないろ館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+もの, 土産物, 閉館, 物, スポット, 玉ねぎピザ, 車, ランチスポット, 施設, メニュー, 海, パンフレット, マルシェ
+cluster1:(4)
+あわじ旅スタンプラリー, うず潮観光船乗り場, うずしお温泉, 駅福良
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

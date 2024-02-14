@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:とがやま温泉 天女の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+感じ, タオル, ボリューム, サウナ, ところ, 露天風呂, 水風呂, ドライブ, 次回, 帰り, 入れ替え, 氷ノ山インターチェンジ, 最低限, おかげ, セルフサービス, 残り, レンタル, こと, セット, ジャグジー
+cluster1:(2)
+駅, 道
+cluster2:(2)
+人, 他
+cluster3:(2)
+家族, 子供
+cluster4:(1)
+施設
+cluster5:(1)
+男女
+cluster6:(1)
+かけ流し
+cluster7:(25)
+風呂, バスタオル, 夕食, 入浴セット, 露天, 体験コース, 源泉, 建屋, 食事, 休憩所, 客, 冷泉, 昼ご飯, 満車, ランチバイキング, チビ達, 木風呂, 陶器風呂, 団体客, 訪問すべすべ, 入浴, 香住か, 温泉, マッサージ風呂, 但馬蔵
+
+howmany entities : 54
+howmany clusters : 8
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 2
+deleted 9entities.

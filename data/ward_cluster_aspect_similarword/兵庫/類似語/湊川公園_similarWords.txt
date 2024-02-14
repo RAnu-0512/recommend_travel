@@ -1,0 +1,29 @@
+--------------------similar_words:湊川公園--------------------
+top3 entities near to cluster0>>
+地面, 屋根, 巣
+top3 entities near to cluster1>>
+飲み物, タバコ, トイレ
+top3 entities near to cluster2>>
+買い物, ショッピング, レジャー
+top3 entities near to cluster3>>
+雰囲気, イメージ, 印象
+top3 entities near to cluster4>>
+トンネル, カップル, イベント
+top3 entities near to cluster8>>
+地下鉄, 区役所, 西神線
+top3 entities near to cluster9>>
+近辺, 界隈
+top3 entities near to cluster11>>
+子供, 家族, 子ども
+top3 entities near to cluster13>>
+道路, 治安, 交通
+top3 entities near to cluster15>>
+公園, 広場, 遊具
+top3 entities near to cluster16>>
+憩い, 休憩, 食堂
+top3 entities near to cluster19>>
+正成, 尊氏, 楠木
+top3 entities near to cluster20>>
+駅, 駅前, 市営
+top3 entities near to cluster21>>
+商店街, 商店, 繁華街, 繁華

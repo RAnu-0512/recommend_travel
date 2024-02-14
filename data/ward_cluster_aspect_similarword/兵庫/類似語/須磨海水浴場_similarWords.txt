@@ -1,0 +1,13 @@
+--------------------similar_words:須磨海水浴場--------------------
+top3 entities near to cluster1>>
+海, 海岸, 砂浜
+top3 entities near to cluster6>>
+夏, 冬, 夏場
+top3 entities near to cluster9>>
+カップル, イベント, シーズン
+top3 entities near to cluster13>>
+水族館, 海沿い, イルカ
+top3 entities near to cluster14>>
+浦波, 浦, 松風
+top3 entities near to cluster15>>
+駅車, 駅, 電車

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:切浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+海水浴場, 切浜海水浴場, 近場, 駐車場
+cluster1:(3)
+子供連れ, お子さん連れ, 小さなお子
+cluster2:(24)
+場所, 説明, カヌー, ビーチ, 人, 世界, 人気, 家, 海水浴客, 周り, スキンダイビング, 海水浴, 生き物, 穴場, 苦労, 影響, 夏休み, 方, 家族, 機会, 子供, こと, 気分, 環境
+cluster3:(3)
+日和山海岸, 竹野海岸, 海岸
+cluster4:(2)
+淀, エイ
+cluster5:(9)
+海水, 海中, 岩場, 海底, 白砂, 水, 砂浜, 洞窟, 海
+cluster6:(1)
+洞門
+
+howmany entities : 46
+howmany clusters : 7
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 5
+deleted 3entities.

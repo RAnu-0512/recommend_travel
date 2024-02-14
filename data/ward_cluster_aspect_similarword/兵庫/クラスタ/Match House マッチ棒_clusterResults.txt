@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Match House マッチ棒>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+図柄, 絵柄
+cluster1:(2)
+作業, 完成
+cluster2:(3)
+商品, 建物, 店内
+cluster3:(8)
+スタッフ, 母, カフェ, マッチ, 笑, 時代, デザイン, 方
+cluster4:(1)
+土産
+cluster5:(1)
+マッチ箱
+cluster6:(1)
+大正
+cluster7:(1)
+つい夢中
+cluster8:(1)
+ぬり絵
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 9entities.

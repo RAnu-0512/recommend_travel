@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:當勝神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+社殿, 本殿
+cluster1:(2)
+神社, 境内
+cluster2:(3)
+天神, 坂, 鳥居
+cluster3:(15)
+構造, 空気, 作, 當勝, 多く, 前, 傍, 方, 木々, 雰囲気, 建築物, 彫刻, こと, スペース, 風
+cluster4:(3)
+総合御札, 家内安全御札, 御札
+cluster5:(2)
+社務所, 駐車場
+cluster6:(1)
+兵庫県神社庁
+cluster7:(1)
+中井家初代中井言次定忠
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 8entities.

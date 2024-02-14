@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:播磨中央公園バラ園・四季の庭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+バラ, 薔薇, バラ祭り, つるバラ, バラエリア, バラ園
+cluster1:(13)
+外回り, 配置, イングリッシュガーデン, ベンチ, 種類, 内部, デザイン, 時間, 色とりどり, 手入れ, 雰囲気, 時期, カレンダー
+cluster2:(4)
+満開, 電車, 噴水, 公園
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 0entities.

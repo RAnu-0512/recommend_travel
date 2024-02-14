@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高蔵寺(兵庫県佐用町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+京都宇治市, 室戸寺, 三重塔
+cluster1:(4)
+境内, 寺, 山寺, 参道
+cluster2:(10)
+場所, 途中, 自然, 人, 敷地, ルピナス, 歴史, 高蔵寺, 中, 雰囲気
+cluster3:(4)
+緑, 山, 花, 木
+cluster4:(1)
+空気
+cluster5:(4)
+散策, 休憩ポイント, 急坂, 斜面
+cluster6:(1)
+日本昔話
+cluster7:(1)
+霊場
+cluster8:(1)
+高低差
+cluster9:(1)
+こうぞうじ
+cluster10:(1)
+播磨西国観音霊場
+
+howmany entities : 31
+howmany clusters : 11
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 6entities.

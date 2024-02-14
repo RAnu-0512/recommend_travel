@@ -1,0 +1,9 @@
+--------------------similar_words:イチゴベース--------------------
+top3 entities near to cluster0>>
+匂い, 食べ, 清潔
+top3 entities near to cluster3>>
+トイレ, イチゴ, 手入れ
+top3 entities near to cluster5>>
+苺, 練乳, いちご
+top3 entities near to cluster9>>
+娘, 子供, 子ども

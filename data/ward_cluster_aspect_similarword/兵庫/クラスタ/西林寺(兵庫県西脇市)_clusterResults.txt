@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西林寺(兵庫県西脇市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寺, 本堂, 山門
+cluster1:(4)
+紫陽花園, 紅葉, 早春, 紫陽花
+cluster2:(1)
+唐子ツバキ
+cluster3:(2)
+兵庫県天然記念物, 法道仙人
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 3entities.

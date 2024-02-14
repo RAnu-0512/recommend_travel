@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大引の鼻展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展望台, 鼻展望台
+cluster1:(2)
+観光客, 駐車場
+cluster2:(26)
+所, 場所, 断崖, 波, ドラマ, 景色, もの, かすみ, 荒波, 岩, 立札, 日本海, 見た目, 小道, 浜, 西隣, 方, 高所恐怖症, レーダー, かえる岩, 大引, 迫力, 自衛隊, 海, 風, カニ
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 1
+deleted 4entities.

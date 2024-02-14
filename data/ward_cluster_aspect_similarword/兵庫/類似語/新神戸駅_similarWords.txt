@@ -1,0 +1,9 @@
+--------------------similar_words:新神戸駅--------------------
+top3 entities near to cluster0>>
+混雑, 帰省, 利用
+top3 entities near to cluster1>>
+改札, 待合, 駅弁
+top3 entities near to cluster4>>
+川水, 川, 平地
+top3 entities near to cluster5>>
+駅, 土産, おみやげ

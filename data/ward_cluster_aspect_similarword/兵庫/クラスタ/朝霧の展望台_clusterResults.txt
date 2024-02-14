@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝霧の展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+朝霧, 雲海, 雲
+cluster1:(4)
+場所, 緑, 標高, 観光スポット
+cluster2:(1)
+展望台
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 1entities.

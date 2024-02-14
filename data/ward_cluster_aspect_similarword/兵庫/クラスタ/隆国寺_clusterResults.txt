@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:隆国寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+伽藍, 雰囲気, 場所, 曹洞宗, 本堂, 回廊
+cluster1:(2)
+但馬のぼたん寺, 隆国寺
+cluster2:(1)
+関西花の寺二十五ヵ所
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

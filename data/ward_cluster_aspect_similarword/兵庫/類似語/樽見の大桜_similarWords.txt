@@ -1,0 +1,17 @@
+--------------------similar_words:樽見の大桜--------------------
+top3 entities near to cluster1>>
+姿, 興味, 迫力
+top3 entities near to cluster2>>
+辺り, 近辺
+top3 entities near to cluster3>>
+周り, 周囲, 全体
+top3 entities near to cluster6>>
+樹齢, 老木, 樹勢
+top3 entities near to cluster7>>
+桜, 満開, 八重桜
+top3 entities near to cluster8>>
+枝, 幹, 葉
+top3 entities near to cluster9>>
+養蚕, 蚕, 桑
+top3 entities near to cluster11>>
+山道, 急坂, 斜面

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Craft Circus(クラフトサーカス)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+浜焼きセット, 焼きすぎ, 淡路牛
+cluster1:(7)
+感じ, SNS映え, 手間, ロケーション頼り, なりかけ, 事, 気分
+cluster2:(19)
+イメージ, ドリンク, スタッフ, ロケーション, バーガー, 客商売, コスト, 気持ち, 別, イベント, ハマグリ, 対応, セルフ, おまけ, サーブ, コスパ, 淡路島, ガスコンロ, アルバイト
+cluster3:(8)
+味, 食事, タコ, パスタどれ, ピザ, 料理, 食材, 肉
+cluster4:(1)
+送迎バス
+
+howmany entities : 38
+howmany clusters : 5
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 4
+deleted 1entities.

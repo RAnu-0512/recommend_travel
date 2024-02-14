@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハチ北温泉 湯治の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+周囲, リフト券, 友人, 店員, 車, こじんまり, 浴室, 国道, 客, 次, 芯, スキー, 放射能温泉, めっちゃ, 道, 雰囲気, 体, 評価, こと, 山々, 受付, 温泉
+cluster1:(3)
+日本全国温泉, ハチ北, 高原スキー場
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 0entities.

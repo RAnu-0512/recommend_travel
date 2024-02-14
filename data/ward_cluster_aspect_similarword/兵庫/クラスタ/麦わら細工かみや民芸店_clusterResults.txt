@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:麦わら細工かみや民芸店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+麦細工, 麦わら細工
+cluster1:(12)
+小物, 息子, 麦わら, 反抗, 思い出, 絵はがき作り, 中学生, 籠, 体験, 笑顔, 色麦わら, 方
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

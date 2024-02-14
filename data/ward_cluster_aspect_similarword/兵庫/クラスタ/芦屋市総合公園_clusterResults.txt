@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芦屋市総合公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+緑, 自然, 海辺, 海, 風
+cluster1:(5)
+難点, 人, 時間, 中, こと
+cluster2:(6)
+バーベキュー, ビオトープ, 子ども, メダカ, クライミング, オススメ
+cluster3:(2)
+タイヤブランコ, ボールブランコ
+cluster4:(1)
+花見
+cluster5:(8)
+総合公園, 家族連れ, 芦屋市, 遊具, 釣り, 公園, 磯野かおり, 海釣り
+cluster6:(1)
+敷地面積
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 4entities.

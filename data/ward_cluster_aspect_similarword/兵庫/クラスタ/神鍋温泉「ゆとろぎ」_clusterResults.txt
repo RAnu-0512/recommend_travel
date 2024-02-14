@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神鍋温泉「ゆとろぎ」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩室, 接客態度
+cluster1:(2)
+割り引き券, 差額
+cluster2:(14)
+イメージ, サウナ, 露天風呂, ボディーソープ, シャンプーリンス, スキー, サイト, 畳, ロッカー, コンディショナー, キャンプ, プール, アルカリ性, 水風呂
+cluster3:(14)
+感じ, 外, 閑散, 印象, 損, 景色, 説明, 人, 客, 駅, 道, 方, 普通, 子供
+cluster4:(6)
+和菓子屋, 露天, イチゴ大福, 内湯, お湯, 温泉
+cluster5:(1)
+月木
+cluster6:(5)
+女性風呂, 風呂, 裸風呂, 神鍋高原, 檜風呂
+
+howmany entities : 44
+howmany clusters : 7
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 4
+deleted 5entities.

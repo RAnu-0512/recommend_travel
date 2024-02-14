@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:GRAVITY RESEARCH HIMEJI>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+石, ボルタリング, 壁
+cluster1:(19)
+ゴール, スタッフ, 説明, 待ち時間, 友達, 初心者コース, 口コミ, やり方, 初心者, 次, ボルダリング, 方, 息子, コース, ハーネス, 他, 安全, 先生, 娘
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:イザナギSUP>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+プライベートビーチ感, 体験, SUP体験
+cluster1:(16)
+場所, ロケーション, 犬, 全員, SUP, レクチャー, 口コミ, 初心者, キー, 方, 家族, 小学校, 他, 海, 動画, 写真
+cluster2:(3)
+猛暑, 水温, 天候
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 0entities.
