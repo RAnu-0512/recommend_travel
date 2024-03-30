@@ -6,6 +6,7 @@ from return_aspect import return_aspect,popular_aspects
 from calculate_distance import calc_near_spot
 from return_spot import return_spot
 import argparse
+import csv
 
 top_n = 10 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
@@ -20,8 +21,8 @@ print(".....モデル読み込み中")
 #相対パス(relative_path)
 model_path = "../word2vec/cc.ja.300.vec.gz"
 
-#model = "test_model"  #テストするときのモデル
-model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False) #モデルの読み込み
+model = "test_model"  #テストするときのモデル
+# model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False) #モデルの読み込み
 print(".....モデル読み込み完了!!")
 
 #spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
@@ -31,10 +32,34 @@ returned_distance_range = 0
 
 app = Flask(__name__)
 
-@app.route("/", methods= ['GET'])
+@app.route("/", methods= ["POST",'GET'])
 def return_html_test():
     print("server sucsess")
-    return render_template("travel_recommend.html")
+    return render_template("start_travel_recommend.html")
+
+@app.route("/<pref>", methods=["POST","GET"])
+def return_pref_html(pref):
+    print(f"{pref} html")
+    return render_template("travel_recommend.html",pref=pref) 
+
+
+@app.route("/get_prefLatLng", methods=["POST"])
+def get_prefLatLng():
+    data = request.get_json()
+    pref = data.get('pref')
+    print(f"GET {pref}")
+    startLatLng_path = "data/start_latlng/start_latlng.csv"
+    with open(startLatLng_path,"r",encoding="UTF-8") as f_r:
+        reader = csv.reader(f_r)
+        for row in reader:
+            print(row)
+            pref_r = row[0]
+            lat = float(row[1])
+            lng = float(row[2])
+            if pref_r == pref:
+                return {"pref":pref,"start_lat": lat , "start_lng":lng}
+    return {"pref":"Error","start_lat": 0 , "start_lng":0}
+
 
 @app.route("/send_latlng", methods=['POST'])
 def send_latlng():

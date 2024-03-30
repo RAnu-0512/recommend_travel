@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>観光スポット推薦システム</title>
+    <link rel="stylesheet" href="{{ url_for('static',filename = 'css/for_interface.css') }}">
+</head>
+
+<body>
+    <header class="header">
+        <h1 id="header_tag">
+            <div> 観光スポット推薦システム </div>
+            <div id="selected_pref"> {{pref}} </div>
+        </h1>
+    </header>
+    <form action="" name="pref_form" method="POST">
+        <div class="pref-select-container">
+            観光予定の都道府県を選択してください。
+            <select name="prefecture" id="pref_select">
+                <option selected>岡山県</option>
+                <option>兵庫県</option>
+                <!-- <option>千葉県</option>
+                <option>広島県</option> -->
+            </select>
+            <input class="button" type="submit" id="pref-select-button" value="移動">
+        </div>
+    </form>
+    <script src="{{ url_for('static',filename = 'js/start_for_interface.js') }}"></script>
+</body>
+
+</html>

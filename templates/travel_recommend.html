@@ -11,16 +11,32 @@
 
 <body>
     <header class="header">
-        <h1>観光スポット推薦システム</h1>
+        <h1 id="header_tag">
+            <div> 観光スポット推薦システム </div>
+            <div id="selected_pref"> {{pref}} </div>
+        </h1>
     </header>
-    <p id = "explain">検索したい観光スポットの特徴を入力してください</p>
+    <form action="" name="pref_form" method="POST">
+        <div class="pref-select-container">
+            観光予定の都道府県を選択してください。
+            <select name="prefecture" id="pref_select">
+                <option>岡山県</option>
+                <option>兵庫県</option>
+                <!-- <option>千葉県</option>
+                <option>広島県</option> -->
+            </select>
+            <input class="button" type="submit" id="pref-select-button" value="移動">
+        </div>
+    </form>
+    <p id="explain">検索したい観光スポットの特徴を入力してください</p>
+
     <div class="parameters">
         <form class="search_form" id="search_form" action="/search_form" method="POST">
             <input type="search" id="search_keyword" name="search_keyword" placeholder="検索キーワード・文を入力">
             <input type="submit" class="button" id="submit_query" name="submit" value="検索">
             <div id="makecheckboxes"></div>
-            <input type="button" class = "button" id="add_selected_aspects" value="観点を追加">
-            <input type="button" class = "recommend_aspect_button" id = "recommend_aspect_button" value="オススメの観点" >
+            <input type="button" class="button" id="add_selected_aspects" value="観点を追加">
+            <input type="button" class="recommend_aspect_button" id="recommend_aspect_button" value="オススメの観点">
         </form>
         <div class="selected_results">
             <div id="head-selected_results">選択した観点</div>
@@ -40,7 +56,7 @@
     </div>
     <div id="map_info">
         <div id="mapid"></div>
-        <div id = "recommend_spot_info_frame">
+        <div id="recommend_spot_info_frame">
             <div id="recommend_spot_info_header">推薦されたスポット</div>
             <div id="recommend_spot_info"></div>
         </div>

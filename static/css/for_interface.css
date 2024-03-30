@@ -11,9 +11,35 @@
     width: 100%;
 }
 
+#pref_select{
+    width: 100px;
+    font-size: 18px;
+}
+
+.pref-select-container {
+    display: inline-flex;
+    align-items: center;
+}
+
+#pref-select-button{
+    width: 60px;
+    margin-left: 10px;
+}
+
+
+
 .header {
     margin-top: -10px;
     margin-bottom: -20px;
+}
+
+#header_tag{
+    display: inline-flex;
+    align-items: center;
+}
+
+#selected_pref{
+    margin-left: 15px;
 }
 
 .recommend_range {
