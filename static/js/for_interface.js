@@ -72,17 +72,6 @@ const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.pn
 
 (async () => {
     try {
-        [lat_start, lng_start] = await readStartLatLngFile(pref);
-        console.log(pref, lat_start, lng_start);
-
-        const mymap = await L.map('mapid', {
-            center: [lat_start, lng_start],
-            zoom: 14.5,
-        });
-        await tileLayer.addTo(mymap);
-
-        const popups = []; //ポップアップのリスト
-
         function onMapClick(e) {
             // aspects中にsimilarAspectsが含まれていればaspectsを赤く表示
             function highlightSimilarAspects(aspects, similarAspects) {
@@ -137,7 +126,7 @@ const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.pn
             popups.push(selectedPopup)
             console.log("cliked : ", cliked_lat, cliked_lng)
             mymap.off('click', onMapClick);
-            // JavaScriptからPythonにデータを送信
+            // クリックした緯度経度を送る
             fetch('/send_latlng', {
                 method: 'POST',
                 headers: {
@@ -258,8 +247,6 @@ const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.pn
                         } catch (error) {
                             console.error("Error loading image:", error.message);
                         }
-
-
                     });
                     // マップ上の中心座標（例：東京タワーの座標）
                     const centerCoordinates = [cliked_lat, cliked_lng];
@@ -280,6 +267,18 @@ const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.pn
                     console.error('エラー:', error);
                 });
         }
+
+
+        [lat_start, lng_start] = await readStartLatLngFile(pref);
+        console.log(pref, lat_start, lng_start);
+
+        const mymap = await L.map('mapid', {
+            center: [lat_start, lng_start],
+            zoom: 14.5,
+        });
+        await tileLayer.addTo(mymap);
+
+        const popups = []; //ポップアップのリスト
 
         range_bar_always();
         get_keyword();
