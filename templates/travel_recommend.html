@@ -20,10 +20,8 @@
         <div class="pref-select-container">
             観光予定の都道府県を選択してください。
             <select name="prefecture" id="pref_select">
-                <option>岡山県</option>
-                <option>兵庫県</option>
-                <!-- <option>千葉県</option>
-                <option>広島県</option> -->
+                <option value="岡山県" {% if pref == "岡山県" %} selected {% endif %}>岡山県</option>
+                <option value="兵庫県" {% if pref == "兵庫県" %} selected {% endif %}>兵庫県</option>
             </select>
             <input class="button" type="submit" id="pref-select-button" value="移動">
         </div>

@@ -5,6 +5,16 @@ const fix_aspect_button = document.getElementById('fix_aspect');
 fix_distance_button.disabled = true;
 fix_aspect_button.disabled = true;
 
+//何県の推薦か
+const selected_pref = document.getElementById("selected_pref").innerText;
+const pref = selected_pref.replace("都", "").replace("道", "").replace("県", "");
+
+//leaflet
+const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© <a href="http://osm.org/copyright">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+});
+
+
 recommend_mode = "select_aspect"  // recommend_mode = "select_aspect, select_distance , select_spot, end_recommend"
 
 const greenIcon = new L.Icon({
@@ -19,6 +29,7 @@ const greenIcon = new L.Icon({
 window.onload = function () {
     // フォーム要素を取得
     var form = document.querySelector('form[name="pref_form"]');
+    form.action = "/" +  document.getElementById('pref_select').value
     // セレクトボックスの変更を監視し、フォームのaction属性を更新
     document.getElementById('pref_select').addEventListener('change', function () {
         form.action = '/' + this.value; // 選択された都道府県に基づいてaction属性を更新
@@ -41,9 +52,6 @@ function readStartLatLngFile(pref) {
                 return res.json()
             })
             .then(data => {
-                console.log(data.pref);
-                console.log(data.start_lat);
-                console.log(data.start_lng);
                 if (data.pref == "Error") {
                     rejcet("Prefecture not found:" + pref);
                 }
@@ -57,18 +65,6 @@ function readStartLatLngFile(pref) {
             });
     });
 }
-
-
-
-//何県の推薦か
-const selected_pref = document.getElementById("selected_pref").innerText;
-const pref = selected_pref.replace("都", "").replace("道", "").replace("県", "");
-
-//leaflet
-const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© <a href="http://osm.org/copyright">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
-});
-
 
 (async () => {
     try {
@@ -271,7 +267,6 @@ const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.pn
 
         [lat_start, lng_start] = await readStartLatLngFile(pref);
         console.log(pref, lat_start, lng_start);
-
         const mymap = await L.map('mapid', {
             center: [lat_start, lng_start],
             zoom: 14.5,

@@ -33,7 +33,7 @@ returned_distance_range = 0
 app = Flask(__name__)
 
 @app.route("/", methods= ["POST",'GET'])
-def return_html_test():
+def start_page():
     print("server sucsess")
     return render_template("start_travel_recommend.html")
 
@@ -47,7 +47,7 @@ def return_pref_html(pref):
 def get_prefLatLng():
     data = request.get_json()
     pref = data.get('pref')
-    print(f"GET {pref}")
+    print(f"select : {pref}")
     startLatLng_path = "data/start_latlng/start_latlng.csv"
     with open(startLatLng_path,"r",encoding="UTF-8") as f_r:
         reader = csv.reader(f_r)

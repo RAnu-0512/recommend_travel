@@ -11,17 +11,14 @@
     <header class="header">
         <h1 id="header_tag">
             <div> 観光スポット推薦システム </div>
-            <div id="selected_pref"> {{pref}} </div>
         </h1>
     </header>
     <form action="/岡山県" name="pref_form" method="POST">
         <div class="pref-select-container">
             観光予定の都道府県を選択してください。
             <select name="prefecture" id="pref_select">
-                <option selected>岡山県</option>
-                <option>兵庫県</option>
-                <!-- <option>千葉県</option>
-                <option>広島県</option> -->
+                <option selected >岡山県</option>
+                <option >兵庫県</option>
             </select>
             <input class="button" type="submit" id="pref-select-button" value="移動">
         </div>
