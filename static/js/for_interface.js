@@ -7,7 +7,6 @@ fix_aspect_button.disabled = true;
 
 //何県の推薦か
 const selected_pref = document.getElementById("selected_pref").innerText;
-const pref = selected_pref.replace("都", "").replace("道", "").replace("県", "");
 
 //leaflet
 const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -29,7 +28,7 @@ const greenIcon = new L.Icon({
 window.onload = function () {
     // フォーム要素を取得
     var form = document.querySelector('form[name="pref_form"]');
-    form.action = "/" +  document.getElementById('pref_select').value
+    form.action = "/" + document.getElementById('pref_select').value
     // セレクトボックスの変更を監視し、フォームのaction属性を更新
     document.getElementById('pref_select').addEventListener('change', function () {
         form.action = '/' + this.value; // 選択された都道府県に基づいてaction属性を更新
@@ -66,6 +65,25 @@ function readStartLatLngFile(pref) {
     });
 }
 
+
+function loadSpotImage(photo_url, noImageUrl) {
+    return new Promise((resolve) => {
+        const img = new Image();
+        img.onload = function () {
+            resolve(photo_url);
+        };
+        img.onerror = function () {
+            resolve(noImageUrl);
+        };
+        img.src = photo_url;
+    });
+}
+
+function add_html(index, url, spot_name, outerHTML_text) {
+    return "<b>[" + (index + 1) + "] <a href='" + url + "' target='_blank'>" + spot_name + "</a></b><br>" + outerHTML_text;
+}
+
+
 (async () => {
     try {
         function onMapClick(e) {
@@ -94,41 +112,39 @@ function readStartLatLngFile(pref) {
             }
             function findCircleInMap(mymap) {
                 let foundCircle = null;
-
                 mymap.eachLayer(function (layer) {
-                    // サークルかどうかを確認
                     if (layer instanceof L.Circle) {
-                        // ここで特定の条件などを使用してサークルを判定
-                        // 例: サークルの半径が一定の範囲内かどうかなど
-
-                        // 条件に合致する場合、foundCircleに格納
                         foundCircle = layer;
                     }
                 });
-
                 return foundCircle;
             }
             //クリック位置経緯度取得
             const cliked_lat = e.latlng.lat;
             const cliked_lng = e.latlng.lng;
+
+            //最初に以前の推薦情報を削除する(推薦スポットのピン，情報，推薦範囲円)
             let circle = findCircleInMap(mymap)
             if (circle) {
                 circle.remove();
             }
             clearRecommendInfo();
             clearPopups();
+
             // 場所を指定する(緑色)
             const selectedPopup = L.marker([cliked_lat, cliked_lng], { icon: greenIcon }).addTo(mymap).bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
             popups.push(selectedPopup)
             console.log("cliked : ", cliked_lat, cliked_lng)
             mymap.off('click', onMapClick);
+
+
             // クリックした緯度経度を送る
             fetch('/send_latlng', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ cliked_lat, cliked_lng })
+                body: JSON.stringify({ cliked_lat, cliked_lng, selected_pref })
             })
                 .then((res) => {
                     if (!res.ok) {
@@ -138,25 +154,11 @@ function readStartLatLngFile(pref) {
                 })
                 .then(data => {
                     console.log("推薦された全スポット情報", data);
+
                     data.forEach(async (element, index) => {
-                        function loadSpotImage(photo_url, noImageUrl) {
-                            return new Promise((resolve) => {
-                                const img = new Image();
-                                img.onload = function () {
-                                    resolve(photo_url);
-                                };
-                                img.onerror = function () {
-                                    resolve(noImageUrl);
-                                };
-                                img.src = photo_url;
-                            });
-                        }
-                        function add_html(index, url, spot_name, outerHTML_text) {
-                            return "<b>[" + (index + 1) + "] <a href='" + url + "' target='_blank'>" + spot_name + "</a></b><br>" + outerHTML_text;
-                        }
                         console.log("スポットの情報", element)
                         const similarAspects = element.similar_aspects
-                        const prefecture = "岡山"
+                        const prefecture = selected_pref.replace("都", "").replace("道", "").replace("県", "");
                         const photo_url = "static/images/" + prefecture + "/" + element.spot_name + ".jpg";
                         const noImageUrl = "static/images/NoImage.jpg";
                         const imgElement = document.createElement("img");
@@ -173,7 +175,7 @@ function readStartLatLngFile(pref) {
                             recommendSpotInfo.appendChild(popupInfo);
 
                             const imageUrl = await loadSpotImage(photo_url, noImageUrl);
-                            imgElement.src = imageUrl;
+                            imgElement.src = await imageUrl;
                             const spotAspectPopup = add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
                             const marker = await L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId });
 
@@ -190,7 +192,13 @@ function readStartLatLngFile(pref) {
                                 });
                                 const select_spotinfo = recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]')
                                 select_spotinfo.classList.value = "highlighted_info"
-                                recommendSpotInfo.scrollTop = select_spotinfo.offsetTop - recommendSpotInfo.offsetTop;
+                                console.log(recommendSpotInfo.scrollTop)
+                                console.log(recommendSpotInfo.scroll)
+                                console.log(select_spotinfo.offsetTop)
+                                console.log(recommendSpotInfo.offsetTop)
+                                if(recommendSpotInfo.scrollTop > select_spotinfo.offsetTop - recommendSpotInfo.offsetTop){
+                                    recommendSpotInfo.scrollTop = select_spotinfo.offsetTop - recommendSpotInfo.offsetTop;
+                                }
                             })
                             marker.on('popupclose', () => {
                                 recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
@@ -265,18 +273,16 @@ function readStartLatLngFile(pref) {
         }
 
 
-        [lat_start, lng_start] = await readStartLatLngFile(pref);
-        console.log(pref, lat_start, lng_start);
+        [lat_start, lng_start] = await readStartLatLngFile(selected_pref.replace("都", "").replace("道", "").replace("県", ""));
+        console.log(selected_pref.replace("都", "").replace("道", "").replace("県", ""), lat_start, lng_start);
         const mymap = await L.map('mapid', {
             center: [lat_start, lng_start],
             zoom: 14.5,
         });
         await tileLayer.addTo(mymap);
-
         const popups = []; //ポップアップのリスト
-
         range_bar_always();
-        get_keyword();
+        get_keyword(selected_pref);
         add_selected_aspects();
         (async () => {
             try {

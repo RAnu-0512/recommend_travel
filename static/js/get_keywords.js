@@ -1,5 +1,5 @@
 //検索キーワードを取る
-function get_keyword() {
+function get_keyword(selected_pref) {
     document.getElementById('search_form').addEventListener('submit', function (e) {
         e.preventDefault(); // ページの再読み込みを防ぐ
         const search_keyword = document.getElementById("search_keyword").value;
@@ -11,7 +11,7 @@ function get_keyword() {
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify({ search_keyword: search_keyword }), // サーバーに送信するデータ
+            body: JSON.stringify({ search_keyword: search_keyword ,selected_pref: selected_pref}), 
         })
             .then((res) => {
                 if (!res.ok) {
@@ -31,11 +31,11 @@ function get_keyword() {
     document.getElementById("recommend_aspect_button").addEventListener("click", () => {
         console.log("aspect recommend button clicked!")
         fetch('/recommend_aspects', {
-            method: 'POST', // または 'GET'、サーバーの要件に合わせて設定
+            method: 'POST', 
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify({ search_keyword: search_keyword }), // サーバーに送信するデータ
+            body: JSON.stringify({ search_keyword: search_keyword ,selected_pref: selected_pref }), 
         })
             .then((res) => {
                 if (!res.ok) {

@@ -25,8 +25,8 @@ model = "test_model"  #テストするときのモデル
 # model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False) #モデルの読み込み
 print(".....モデル読み込み完了!!")
 
-#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
-spots_info = get_spotinfo()
+#allpref_spots_info = {pref : [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ] , pref : , ...}
+allpref_spots_info = get_spotinfo()
 returned_aspect_list = []
 returned_distance_range = 0
 
@@ -66,7 +66,11 @@ def send_latlng():
     data = request.get_json()
     lat = float(data.get('cliked_lat'))
     lng = float(data.get('cliked_lng'))
-    recommend_spots = return_spot(lat,lng,returned_distance_range,returned_aspect_list,spots_info,top_n) #形式 : [[spot_name,[lat,lng],aspects,[similar_aspect],score,url], ...]
+    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
+    print("selected_pref : ", pref)
+    print("clicked latlng:",lat,", ",lng)
+    spots_info = allpref_spots_info[pref]
+    recommend_spots = return_spot(lat,lng,returned_distance_range,returned_aspect_list,spots_info,pref,top_n) #形式 : [[spot_name,[lat,lng],aspects,[similar_aspect],score,url], ...]
     print("recommend_spots: ", recommend_spots)
     response_data = []
     #    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
@@ -87,15 +91,23 @@ def send_latlng():
 @app.route("/search_form", methods=["POST"])
 def get_search_keyword():
     print("get serach keyword")
-    user_input=request.get_json()
-    print(user_input)
-    results = return_aspect(user_input.get("search_keyword"),spots_info,aspect_top_n,model)
+    data=request.get_json()
+    search_keyword = data.get("search_keyword")
+    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
+    print("selected_pref : ", pref)
+    print("serach_keyword : " ,search_keyword)
+    spots_info = allpref_spots_info[pref]
+    results = return_aspect(search_keyword,spots_info,aspect_top_n,model)
     checkboxes = [{"label": result, "value": result} for result in results]
     return jsonify({"keyword": checkboxes})
 
 @app.route("/recommend_aspects",methods = ["POST"])
 def recommend_aspects():
     print("recommend aspects")
+    data=request.get_json()
+    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
+    print("selected_pref : ", pref)
+    spots_info = allpref_spots_info[pref]
     recommended_aspects = popular_aspects(spots_info,aspect_top_n)
     return_aspects = [{"label": result, "value": result} for result in recommended_aspects]
     return jsonify({"recommend_aspects": return_aspects})

@@ -14,7 +14,7 @@ max_review_num = max(spot_and_numOfrev.values())
 #スコアが高いtop nスポットのスポットを返却
 #spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
 #形式は[[spot_name,[lat,lng],aspects,score,url], ...]
-def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, spots_info,n):
+def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, spots_info,pref,n):
     recommend_spots_info = []
     for spot_info in spots_info:
         sn = spot_info[0]
@@ -28,7 +28,7 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         spot_url = spot_info[7]
         if haversine_distance(selected_lat,selected_lng,lat,lng) <= recommend_range:
             selected_aspects_parm = [1] * len(selected_aspect_list)
-            selected_aspectsVector,check_needed_aspect = return_selected_aspectsVector(selected_aspect_list,selected_aspects_parm)
+            selected_aspectsVector,check_needed_aspect = return_selected_aspectsVector(selected_aspect_list,selected_aspects_parm,pref)
             score = calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev)
             if score != 0:
                 similar_aspects = []
@@ -49,8 +49,8 @@ def cos_sim(v1, v2):
     return np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2))
   else:
     return 0.0
-def return_selected_aspectsVector(selected_aspect_list,selected_aspect_parm_list):
-    read_clustering_path = "data/all_aspect_clustering/岡山aspect_clustering_result.csv"
+def return_selected_aspectsVector(selected_aspect_list,selected_aspect_parm_list,pref):
+    read_clustering_path = f"data/all_aspect_clustering/{pref}aspect_clustering_result.csv"
     #全ての観点のクラスタリング結果から、選択した観点のベクトルを生成
     #含まれる位置で指定されたパラメータ * 1を足す
     list_aspects = []
