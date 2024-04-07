@@ -80,7 +80,9 @@ function loadSpotImage(photo_url, noImageUrl) {
 }
 
 function add_html(index, url, spot_name, outerHTML_text) {
-    return "<b>[" + (index + 1) + "] <a href='" + url + "' target='_blank'>" + spot_name + "</a></b><br>" + outerHTML_text;
+    return new Promise ((resolve) => {  
+        resolve("<b>[" + (index + 1) + "] <a href='" + url + "' target='_blank'>" + spot_name + "</a></b><br>" + outerHTML_text);
+    });
 }
 
 
@@ -176,7 +178,7 @@ function add_html(index, url, spot_name, outerHTML_text) {
 
                             const imageUrl = await loadSpotImage(photo_url, noImageUrl);
                             imgElement.src = await imageUrl;
-                            const spotAspectPopup = add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
+                            const spotAspectPopup = await add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
                             const marker = await L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId });
 
                             const tooltip_text = `<b>${(index + 1)}</b>`;
