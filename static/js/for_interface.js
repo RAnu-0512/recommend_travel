@@ -192,12 +192,15 @@ function add_html(index, url, spot_name, outerHTML_text) {
                                 });
                                 const select_spotinfo = recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]')
                                 select_spotinfo.classList.value = "highlighted_info"
-                                console.log(recommendSpotInfo.scrollTop)
-                                console.log(recommendSpotInfo.scroll)
-                                console.log(select_spotinfo.offsetTop)
-                                console.log(recommendSpotInfo.offsetTop)
-                                if(recommendSpotInfo.scrollTop > select_spotinfo.offsetTop - recommendSpotInfo.offsetTop){
-                                    recommendSpotInfo.scrollTop = select_spotinfo.offsetTop - recommendSpotInfo.offsetTop;
+                                scrollOffsetTop = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop
+                                scrollOffsetBottom = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop + recommendSpotInfo.clientHeight
+                                spotOffsetTop = select_spotinfo.offsetTop
+                                spotOffsetBottom = select_spotinfo.offsetTop + select_spotinfo.offsetHeight
+                                if(spotOffsetBottom > scrollOffsetBottom){
+                                    recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop - recommendSpotInfo.clientHeight + select_spotinfo.offsetHeight
+                                }
+                                else if(spotOffsetTop < scrollOffsetTop){
+                                    recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop;
                                 }
                             })
                             marker.on('popupclose', () => {
