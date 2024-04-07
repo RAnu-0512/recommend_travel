@@ -80,9 +80,7 @@ function loadSpotImage(photo_url, noImageUrl) {
 }
 
 function add_html(index, url, spot_name, outerHTML_text) {
-    return new Promise ((resolve) => {  
-        resolve("<b>[" + (index + 1) + "] <a href='" + url + "' target='_blank'>" + spot_name + "</a></b><br>" + outerHTML_text);
-    });
+    return "<b>[" + (index + 1) + "] <a href='" + url + "' target='_blank'>" + spot_name + "</a></b><br>" + outerHTML_text;
 }
 
 
@@ -176,15 +174,13 @@ function add_html(index, url, spot_name, outerHTML_text) {
                             popupInfo.className = "normal_info"
                             recommendSpotInfo.appendChild(popupInfo);
 
-                            const imageUrl = await loadSpotImage(photo_url, noImageUrl);
-                            imgElement.src = await imageUrl;
-                            const spotAspectPopup = await add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
-                            const marker = await L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId });
-
+                            imgElement.src = await loadSpotImage(photo_url, noImageUrl);
+                            const spotAspectPopup = add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
+                            const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId }).openPopup();
                             const tooltip_text = `<b>${(index + 1)}</b>`;
                             marker.bindTooltip(tooltip_text, { permanent: true }).openTooltip();
                             popups.push(marker);
-
+                            marker.closePopup();
 
 
                             //map中のピンが上がった場合と下がった場合の処理
@@ -198,10 +194,10 @@ function add_html(index, url, spot_name, outerHTML_text) {
                                 scrollOffsetBottom = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop + recommendSpotInfo.clientHeight
                                 spotOffsetTop = select_spotinfo.offsetTop
                                 spotOffsetBottom = select_spotinfo.offsetTop + select_spotinfo.offsetHeight
-                                if(spotOffsetBottom > scrollOffsetBottom){
+                                if (spotOffsetBottom > scrollOffsetBottom) {
                                     recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop - recommendSpotInfo.clientHeight + select_spotinfo.offsetHeight
                                 }
-                                else if(spotOffsetTop < scrollOffsetTop){
+                                else if (spotOffsetTop < scrollOffsetTop) {
                                     recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop;
                                 }
                             })
@@ -270,6 +266,7 @@ function add_html(index, url, spot_name, outerHTML_text) {
 
                     // 地図を指定された半径の範囲にズームアップ
                     mymap.fitBounds(circle.getBounds());
+
                     recommend_mode = "end_recommend"
                 })
                 .catch(error => {
@@ -280,11 +277,11 @@ function add_html(index, url, spot_name, outerHTML_text) {
 
         [lat_start, lng_start] = await readStartLatLngFile(selected_pref.replace("都", "").replace("道", "").replace("県", ""));
         console.log(selected_pref.replace("都", "").replace("道", "").replace("県", ""), lat_start, lng_start);
-        const mymap = await L.map('mapid', {
+        const mymap = L.map('mapid', {
             center: [lat_start, lng_start],
             zoom: 14.5,
         });
-        await tileLayer.addTo(mymap);
+        tileLayer.addTo(mymap);
         const popups = []; //ポップアップのリスト
         range_bar_always();
         get_keyword(selected_pref);
