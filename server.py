@@ -22,7 +22,7 @@ print(".....モデル読み込み中")
 model_path = "../word2vec/cc.ja.300.vec.gz"
 
 model = "test_model"  #テストするときのモデル
-# model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False) #モデルの読み込み
+model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False) #モデルの読み込み
 print(".....モデル読み込み完了!!")
 
 #allpref_spots_info = {pref : [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ] , pref : , ...}
