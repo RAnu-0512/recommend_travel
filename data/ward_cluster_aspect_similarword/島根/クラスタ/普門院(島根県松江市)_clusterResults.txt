@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:普門院(島根県松江市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+訪問, 他, スポット, 代金, 歴史, それぞれ, 茶菓子, ショック, 外, 趣き, 人, 思い, 上
+cluster1:(2)
+餡, 菓子
+cluster2:(2)
+鐘, 寺
+cluster3:(2)
+玄関, 庭
+cluster4:(2)
+茶, 茶室
+cluster5:(1)
+拝観
+cluster6:(1)
+観光客
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 10entities.

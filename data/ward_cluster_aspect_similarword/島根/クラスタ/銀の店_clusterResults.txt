@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銀の店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+店, 休業, 店内, 営業
+cluster1:(12)
+ゴツゴツ系, 手作り, リング, 銀, 中, 値段, カップル, 気, ショップ, ネックレス, 種類, シルバー使い
+cluster2:(1)
+装飾品
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 1entities.

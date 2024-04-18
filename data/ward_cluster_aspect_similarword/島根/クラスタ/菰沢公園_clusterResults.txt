@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菰沢公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お子様, 公園
+cluster1:(1)
+遊具
+cluster2:(1)
+菰沢公園
+
+howmany entities : 4
+howmany clusters : 3
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 4entities.

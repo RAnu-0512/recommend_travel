@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:室谷の棚田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+標高差, 標高
+cluster1:(3)
+大麻山神社, 棚田祭り, 棚田
+cluster2:(2)
+眺め, 眺望
+cluster3:(9)
+下, 日本, 農産物, 規模, 時間, ユニーク, 海, 水, 点
+cluster4:(1)
+位置近辺
+cluster5:(1)
+展望台
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 6entities.

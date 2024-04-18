@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安蔵寺山(島根県益田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+見ごたえ, 最高峰, 安蔵寺山, ミズナラ
+cluster1:(2)
+ブナ, 巨木
+cluster2:(1)
+島根県
+cluster3:(1)
+原生林
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

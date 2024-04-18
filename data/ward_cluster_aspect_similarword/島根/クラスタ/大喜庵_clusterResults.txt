@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大喜庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雪舟, 雪舟終焉
+cluster1:(4)
+晩年, 東光寺, 墓, 跡地
+cluster2:(1)
+大喜庵
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 3entities.

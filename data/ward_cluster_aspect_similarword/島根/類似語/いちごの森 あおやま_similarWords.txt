@@ -1,0 +1,13 @@
+--------------------similar_words:いちごの森 あおやま--------------------
+top3 entities near to cluster0>>
+子供, 子, 娘
+top3 entities near to cluster1>>
+種類, 品種, 数種類
+top3 entities near to cluster2>>
+ハウス, ビニール, イチゴ
+top3 entities near to cluster7>>
+貸切, 貸し切り, 貸切り
+top3 entities near to cluster8>>
+狩り, 練乳, イチゴ
+top3 entities near to cluster9>>
+食べ, 応え, 求め

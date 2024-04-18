@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆう・ゆう館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+温泉街, 漁師, 入口, 歴史, 温泉津温泉, 港, 江戸時代, 日用品, 温泉津湾, 道具, 付近
+cluster1:(5)
+特産品, 観光施設, 観光案内所, 観光パンフレット, 駐車場
+cluster2:(1)
+歴史民俗資料館
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 1entities.

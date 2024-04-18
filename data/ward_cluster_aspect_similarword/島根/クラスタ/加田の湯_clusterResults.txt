@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加田の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+湯船, 有馬温泉, お湯加減, 参加温泉, にごり湯, 蕎麦屋, 風呂, 湯, 立ち寄り湯, お湯, 湯舟, うっかり湯, 温泉, 日帰り温泉, 長湯, 千原温泉
+cluster1:(15)
+サウナマット, 話, コース, 花, 雰囲気, そば, 気持ち, 隅, 湯上り, 施設, 体, 縁, サウナ, こと, 対策
+cluster2:(8)
+常連, 他, 男性, 他愛, 人気, 地元, 近所, 客
+cluster3:(1)
+県境
+cluster4:(1)
+広島島根
+
+howmany entities : 41
+howmany clusters : 5
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 3
+deleted 2entities.

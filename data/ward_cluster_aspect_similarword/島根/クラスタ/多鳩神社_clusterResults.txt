@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多鳩神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+祈願, 勝利祈願
+cluster1:(6)
+代表, 神社, 伝説, 日本, ワールドカップ, サッカー小僧
+cluster2:(1)
+八咫烏
+cluster3:(1)
+〓〓石見の二
+cluster4:(1)
+積羽八重事代主命
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 5entities.

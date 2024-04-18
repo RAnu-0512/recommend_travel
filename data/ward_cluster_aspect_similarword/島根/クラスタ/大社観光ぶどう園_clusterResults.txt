@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大社観光ぶどう園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+ぶどう園, えっ葡萄, 休憩ぶどう, ブドウ狩り, ぶどう狩り, 初ぶどう狩り, 葡萄, 葡萄狩り
+cluster1:(12)
+金額, 途中, 他, 量, 切取り全部, 種, 料金, 残り, 中, 種類, 皿, 時間
+cluster2:(9)
+気, 感じ, 未熟, 様子, 時期, 説明, 状態, 世話, こと
+cluster3:(10)
+声, 女性, 方々, 見分け方, 言葉, 世辞, 服装, 会話, 方, 客
+cluster4:(3)
+生憎, 雨, 天気
+cluster5:(3)
+ブドウ, ぶどう, ピオーネ
+cluster6:(2)
+口コミ, 居心地
+cluster7:(2)
+バケツ, ハサミ
+cluster8:(8)
+スチューベン, シャインマスカット, 土砂降り, 事務所, テーブル, デラウェア, スタッフ, ハウス
+cluster9:(1)
+他県
+cluster10:(6)
+家族, 夏休み, 小学生, 子供, 子連れ, 子ども
+cluster11:(1)
+クインニーナ
+cluster12:(8)
+家族旅行, 子供達, 食べ放題, 盆休み, 旅行, 従業員, 兄さん達, 家族連れ
+
+howmany entities : 73
+howmany clusters : 13
+howmany entities (more than3entities) : 67
+howmany clusters (more than3entities) : 9
+deleted 6entities.

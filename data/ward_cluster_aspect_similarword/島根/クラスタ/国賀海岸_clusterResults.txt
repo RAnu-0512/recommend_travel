@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国賀海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+海岸, 奇岩, 景色, 海域, 城等, 断崖, 海, 隠岐諸島島, 海抜
+cluster1:(2)
+馬, 馬たち
+cluster2:(3)
+亀, 牛, 鬼
+cluster3:(9)
+ところ, 車, 国賀海岸, 断崖絶壁, 遊歩道, 西ノ島, 時間, 次回, 鬼ヶ城
+cluster4:(3)
+右手, 周辺, 足元
+cluster5:(1)
+亀島
+cluster6:(1)
+高さ
+cluster7:(9)
+景勝地, 左手国賀海岸方面, 摩天涯, 地区北側, 遊覧船, 外海側, 船引運河, 海蝕洞, 通天橋
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 4entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日原駅すぐ近くの高津川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+津和野川, 高津川
+cluster1:(2)
+場所, 近く
+cluster2:(1)
+日原駅
+
+howmany entities : 5
+howmany clusters : 3
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

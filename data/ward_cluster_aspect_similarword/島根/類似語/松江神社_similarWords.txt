@@ -1,0 +1,13 @@
+--------------------similar_words:松江神社--------------------
+top3 entities near to cluster0>>
+祭神, 神, 祀る
+top3 entities near to cluster2>>
+時代, 明治, 城内
+top3 entities near to cluster3>>
+公園, 楽山, 散策
+top3 entities near to cluster5>>
+建立, 創建, 移築
+top3 entities near to cluster6>>
+本殿, 拝殿, 社殿
+top3 entities near to cluster8>>
+藩主, 家康, 井伊

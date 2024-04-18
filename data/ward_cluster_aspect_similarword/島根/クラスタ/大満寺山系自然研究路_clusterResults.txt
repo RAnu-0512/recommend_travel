@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大満寺山系自然研究路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自然, 大満寺山
+cluster1:(1)
+北方
+cluster2:(1)
+観光スポット
+cluster3:(1)
+大満寺山系自然研究路
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

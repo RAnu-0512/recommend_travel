@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長浜神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+下, 覚悟, 上, 方, こと
+cluster1:(3)
+丘, 神, 海
+cluster2:(6)
+土地, 注連縄, 大神神社, スポーツ, 御朱印ゲット, ガイドブック
+cluster3:(1)
+利益
+cluster4:(2)
+国引き, 綱
+cluster5:(4)
+神社, 社殿, 武道・スポーツ, 境内
+cluster6:(1)
+駐車場
+cluster7:(4)
+八束水臣津野命, 出雲, 出雲臣, 出雲大社
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 4entities.

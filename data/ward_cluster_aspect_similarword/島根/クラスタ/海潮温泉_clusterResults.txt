@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海潮温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+昼, 時間
+cluster1:(4)
+お願い, 他, 利用, 囲炉裏
+cluster2:(2)
+車, 部屋
+cluster3:(1)
+見学
+cluster4:(2)
+風呂, 温泉
+cluster5:(2)
+女将, 客
+cluster6:(1)
+客室
+cluster7:(1)
+宿 源泉
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 11entities.

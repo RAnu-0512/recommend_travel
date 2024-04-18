@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:満行寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本堂, 境内, 寺
+cluster1:(3)
+目, 車, 前
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 0entities.

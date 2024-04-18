@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手引ヶ浦台場公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+田儀駅, 大田市
+cluster1:(11)
+建物, 公園, 傍, 場所, 大砲, 駅, 日本海, 海, 史跡公園, トイレ, もの
+cluster2:(1)
+手引ケ浦台場公園
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 3entities.

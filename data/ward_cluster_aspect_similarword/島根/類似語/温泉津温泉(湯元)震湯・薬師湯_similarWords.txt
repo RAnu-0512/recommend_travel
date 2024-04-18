@@ -1,0 +1,27 @@
+--------------------similar_words:温泉津温泉(湯元)震湯・薬師湯--------------------
+top3 entities near to cluster1>>
+気持ち, 雰囲気, ひと時
+top3 entities near to cluster2>>
+シャワー, ストーブ, コーヒー
+top3 entities near to cluster3>>
+スタッフ, レベル, ストレス
+top3 entities near to cluster5>>
+サラッ, スベスベ, 長時間
+top3 entities near to cluster7>>
+湯上り, ぬるむ, 湯上がり
+top3 entities near to cluster9>>
+5, 6, 4
+top3 entities near to cluster10>>
+建物, 温泉, 香り
+top3 entities near to cluster11>>
+成分, 物質
+top3 entities near to cluster12>>
+トロ調, トロ, 外観
+top3 entities near to cluster13>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster14>>
+湯, 温泉, お湯
+top3 entities near to cluster16>>
+休憩, 休息, 仮眠
+top3 entities near to cluster17>>
+浴場, 風呂, 駐車

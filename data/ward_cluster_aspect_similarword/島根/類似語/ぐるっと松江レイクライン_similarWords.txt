@@ -1,0 +1,33 @@
+--------------------similar_words:ぐるっと松江レイクライン--------------------
+top3 entities near to cluster0>>
+乗車, 乗客, 運賃
+top3 entities near to cluster3>>
+利用, 確認, 対応
+top3 entities near to cluster4>>
+解説, 案内, 勉強
+top3 entities near to cluster6>>
+バス停, 乗り場, 停留所
+top3 entities near to cluster7>>
+ルート, コース, 遠回り
+top3 entities near to cluster10>>
+タイミング, アドバイス, プレゼント
+top3 entities near to cluster11>>
+レンタカー, 自家用車, タクシー
+top3 entities near to cluster15>>
+雰囲気, 佇まい, 見た目
+top3 entities near to cluster19>>
+駅, 近辺, 周辺
+top3 entities near to cluster21>>
+天気雨, 天気, 景色
+top3 entities near to cluster22>>
+夕方, 昼前, 昼過ぎ
+top3 entities near to cluster23>>
+運転, 車内
+top3 entities near to cluster25>>
+時間, 時間帯
+top3 entities near to cluster26>>
+時刻, 時刻表, びばあ
+top3 entities near to cluster28>>
+夕日, 夕陽, 夕焼け
+top3 entities near to cluster30>>
+バス, 周遊, タクシー

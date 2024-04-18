@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永明寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日本庭園, 庭園
+cluster1:(4)
+受付, 日本, 有料, 先
+cluster2:(2)
+山門, 寺
+cluster3:(2)
+回廊, 風景
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 6entities.

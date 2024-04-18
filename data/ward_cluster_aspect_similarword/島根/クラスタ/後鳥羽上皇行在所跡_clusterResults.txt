@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後鳥羽上皇行在所跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+神社, 道路, 観光スポット
+cluster1:(6)
+後鳥羽上皇行在所, 歌, 後鳥羽上皇, 住まい, 後醍醐天皇御在所, 島流し
+cluster2:(7)
+様子, 人々, 中, 地元, 場所, 思い, 近く
+cluster3:(1)
+跡
+cluster4:(3)
+鳥羽上皇, 隠岐, 隠岐神社
+cluster5:(4)
+後鳥羽院資料館, 資料館, 火葬塚, 御火葬塚
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 1entities.

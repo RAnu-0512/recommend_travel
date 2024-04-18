@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:月照寺のアジサイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+時期, アジサイ, 日本, 紫陽花, グラデーション
+cluster1:(2)
+色, 風景
+cluster2:(1)
+散歩
+cluster3:(1)
+梅雨
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

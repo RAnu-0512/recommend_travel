@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水源公園(島根県吉賀町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+県, ヤマタノオロチ
+cluster1:(1)
+地
+cluster2:(1)
+公園
+cluster3:(1)
+本杉
+cluster4:(1)
+樹齢
+cluster5:(1)
+名水百選
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

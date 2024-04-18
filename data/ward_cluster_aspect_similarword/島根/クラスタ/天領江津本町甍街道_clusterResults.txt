@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天領江津本町甍街道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江津本町近辺, 江津本町駅
+cluster1:(7)
+スポット, 街並み, 町並み, 江津本町, 雰囲気, 寄り道, 中心
+cluster2:(3)
+街, 建物, 場所
+cluster3:(3)
+昔, 風情, 時代
+cluster4:(1)
+規模
+cluster5:(1)
+廃止
+cluster6:(1)
+宿場町
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 5entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本石橋邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日本庭園, 庭園
+cluster1:(4)
+見応え, スポット, 趣, 歴史
+cluster2:(3)
+邸宅, 屋敷, 地主
+cluster3:(2)
+木綿街道, 平田駅
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 4entities.

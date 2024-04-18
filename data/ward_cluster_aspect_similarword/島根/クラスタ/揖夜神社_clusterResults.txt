@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:揖夜神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+亀, 森, 出雲, 神, 揖屋, 神座, 鳥居, 逃げ帰り黄泉, 黄泉
+cluster1:(2)
+言屋, いふや
+cluster2:(4)
+右, 奥, 左, 左手
+cluster3:(3)
+徒歩, 駅, 国道
+cluster4:(15)
+間, 時間, 声, 他, 反対, 話, 人, 昼, 場所, 帰り, 近く, こと, 会話, 楽し, 方
+cluster5:(2)
+壁, 窓
+cluster6:(2)
+華やかさ, 雰囲気
+cluster7:(3)
+スポット, ところ, フレンドリー
+cluster8:(1)
+張り紙
+cluster9:(1)
+極彩色
+cluster10:(2)
+御朱印, 文化財
+cluster11:(3)
+歴史, 建物, 写真
+cluster12:(3)
+国, 県, 社
+cluster13:(3)
+製作者, 参拝者, 参拝
+cluster14:(3)
+狛犬, 本殿, 拝殿
+cluster15:(3)
+古社, 揖夜神社, 神社
+cluster16:(3)
+創建, 神話, 神事
+cluster17:(2)
+日本書記, 神饌
+cluster18:(4)
+灯籠, 障壁画, 道路脇, 駐車場
+cluster19:(14)
+石工 伊右衛門 喜市 造, 意宇六社, 出雲国, 伊弉諾尊, 参拝社務所, 出雲国風土記, 伊布夜社, 大社造, 揖夜(いふや)神社, 大社, 穂掛榊, 出雲大社, 黄泉比良坂, 社務所
+
+howmany entities : 82
+howmany clusters : 20
+howmany entities (more than3entities) : 70
+howmany clusters (more than3entities) : 13
+deleted 12entities.

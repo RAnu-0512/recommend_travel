@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島根県立石見海浜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大型遊具, 遊具
+cluster1:(4)
+オートキャンプ場, 海水浴場, キャンプ場, 無料キャンプ場
+cluster2:(2)
+浜田市, 石見畳
+cluster3:(34)
+海風, 折りたたみイス, 海水浴シーズン, 椅子, 前, バーベキュー, 家族, 公園, のび, 家族づれ, 景色, 神楽, シロイルカ, オススメ, 砂浜, 木陰, テント, 目, 小学生, 時間, 施設, 気分, 子供, 自然, キャンプ, 場所, 人, 日本海, 海, アスレチック, ほう, こと, 海水浴, 完成海水浴
+cluster4:(5)
+しまね海洋館, 海浜公園, 石見海浜公園, 島根海洋館, 海洋館
+
+howmany entities : 47
+howmany clusters : 5
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 3
+deleted 4entities.

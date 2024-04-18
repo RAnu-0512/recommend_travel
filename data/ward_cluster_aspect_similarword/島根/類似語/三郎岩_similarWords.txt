@@ -1,0 +1,7 @@
+--------------------similar_words:三郎岩--------------------
+top3 entities near to cluster1>>
+次郎, 三郎, 一郎
+top3 entities near to cluster2>>
+迫力, 船長
+top3 entities near to cluster3>>
+岩, 奇岩, 岩山

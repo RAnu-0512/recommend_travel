@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:袖師焼窯元>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+福山市, 袖師焼, 松江市
+cluster1:(13)
+器, 素晴らしさ, 食器, 日常使う食器, 普段着, 色合い, 気, 計画, 窯元, 展示会, すべて, 飽き, 家内
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湖陵くにびき海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+真横, 夕日, シーサイドライン, 道路, 眺め, 駅, 日本海, 道, 波, 砂浜, 海沿い, ドライブコース
+cluster1:(3)
+大社町, 多伎町, 出雲市
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

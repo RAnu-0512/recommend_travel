@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鰐淵寺のモミジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鰐淵寺, 河下港
+cluster1:(3)
+団体客, 参拝客, 客
+cluster2:(3)
+住職, 寺, 境内
+cluster3:(4)
+絨毯, 満開, 黄色, 紅葉
+cluster4:(3)
+光景, 価値, 風情
+cluster5:(2)
+車, バス
+cluster6:(4)
+事, 中, ハイキングコース, タイミング
+cluster7:(3)
+日本, 他, 近く
+cluster8:(1)
+自然
+cluster9:(4)
+木, 花, 高台, 庭
+cluster10:(1)
+谷間
+cluster11:(1)
+山陰
+cluster12:(6)
+拝観時間, 入山料, 駐車代, 拝観料, 臨時駐車場, 駐車場
+
+howmany entities : 37
+howmany clusters : 13
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 8
+deleted 7entities.

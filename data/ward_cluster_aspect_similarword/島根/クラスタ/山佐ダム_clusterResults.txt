@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山佐ダム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山佐ダム, ダム巡り
+cluster1:(6)
+スポット, 自然, 安来駅, 場所, 気分転換, 客
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米田酒造株式会社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蔵元, 酒造
+cluster1:(2)
+酒, 米
+cluster2:(1)
+試飲
+cluster3:(6)
+建物, 場所, 中, 風情, 歴史, 中心部
+cluster4:(2)
+松江市, 商店街
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 7entities.

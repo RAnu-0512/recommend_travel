@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松江国際観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光案内所, 松江国際観光案内所
+cluster1:(3)
+松江駅, 松江, 島根県
+cluster2:(3)
+周遊バス, 観光, 観光スポット
+cluster3:(9)
+過ごし方, 相談, 対応, 案内, 情報, 時間, 窓口, 方, こと
+cluster4:(3)
+駅, 国際, 市
+cluster5:(3)
+パンフレット, サンライズ, スタッフ
+cluster6:(2)
+レンタカー, レイクライン
+cluster7:(1)
+メイン
+cluster8:(1)
+マップ
+cluster9:(1)
+山陰本線
+cluster10:(1)
+松江城
+cluster11:(1)
+雨
+cluster12:(1)
+思案顔
+
+howmany entities : 31
+howmany clusters : 13
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 10entities.

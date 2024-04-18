@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コウヤマキギャラリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+我が家, モデル, 方, 施設, コウヤマキ
+cluster1:(2)
+農家, 近所
+cluster2:(1)
+係員
+cluster3:(1)
+東京スカイツリー
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

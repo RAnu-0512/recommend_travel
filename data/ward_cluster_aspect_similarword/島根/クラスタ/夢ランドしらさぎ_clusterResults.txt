@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夢ランドしらさぎ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+設備, 施設
+cluster1:(7)
+子供, 家族, おじいさんおばあさん, 地元, 値段, 時間, プール
+cluster2:(3)
+水着, 風呂, 温泉
+cluster3:(1)
+子供達
+cluster4:(1)
+温水プール
+cluster5:(1)
+休憩所
+cluster6:(1)
+清潔感
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 6entities.

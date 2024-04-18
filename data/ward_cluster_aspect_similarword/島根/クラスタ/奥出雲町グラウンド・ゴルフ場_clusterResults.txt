@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥出雲町グラウンド・ゴルフ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴルフ場, 出雲GGF場
+cluster1:(14)
+ティーグランド, 時期, タンポポ, 芝生, コンクリート, コース, フラット, スポーツ, 手, 公認コース, 女性, 奥, 首長, 老若男女
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

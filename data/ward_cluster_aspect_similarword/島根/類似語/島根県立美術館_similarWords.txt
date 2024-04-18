@@ -1,0 +1,33 @@
+--------------------similar_words:島根県立美術館--------------------
+top3 entities near to cluster1>>
+イベント, アトラクション, ロケーション
+top3 entities near to cluster2>>
+オブジェ, ガラス張り, ポスター
+top3 entities near to cluster4>>
+雰囲気, 見ごたえ, 見応え
+top3 entities near to cluster7>>
+カフェ, イタリアン, パスタ
+top3 entities near to cluster8>>
+うさぎ, ウサギ, うさ
+top3 entities near to cluster11>>
+シジミ, ほとり, なぎさ
+top3 entities near to cluster13>>
+ショー, カバ, タイム
+top3 entities near to cluster18>>
+眺め, 眺める, 自慢
+top3 entities near to cluster22>>
+中庭, 庭, 裏庭
+top3 entities near to cluster25>>
+夕日, 湖畔, 夕陽
+top3 entities near to cluster27>>
+時間, 閉館, 開館
+top3 entities near to cluster28>>
+駐車場, 駐車, 場代
+top3 entities near to cluster30>>
+絵画, 風景, 景色
+top3 entities near to cluster33>>
+美術館, 美術館巡り, 博物館
+top3 entities near to cluster34>>
+設計, 建築, 建設
+top3 entities near to cluster35>>
+展示, 展覧

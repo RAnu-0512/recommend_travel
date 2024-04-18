@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:峯寺遊山荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観音堂, 山
+cluster1:(1)
+奥
+cluster2:(1)
+参拝
+cluster3:(1)
+峯寺
+cluster4:(1)
+遊山荘
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

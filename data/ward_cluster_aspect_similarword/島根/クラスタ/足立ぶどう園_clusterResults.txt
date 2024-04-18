@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足立ぶどう園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+痛み, 腹, 奥, 胸
+cluster1:(2)
+女性, 女性たち
+cluster2:(12)
+ところ, 車, 謝り, 予約, 話, 事, 影響, 子供, ぶどう, 帰り, こと, 受け付け
+cluster3:(4)
+藤稔, ぶどう園, ぶどう狩りネット, ブドウ狩り
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 2entities.

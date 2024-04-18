@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長台寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+サイド, 場所, 歴史, 雰囲気, 景色, クジャク
+cluster1:(3)
+本堂, 門, 寺
+cluster2:(1)
+長台寺
+cluster3:(1)
+石灯籠
+cluster4:(1)
+出雲観音霊場
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

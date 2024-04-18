@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野津めのう店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蕎麦屋, 珈琲屋
+cluster1:(2)
+本店, 店
+cluster2:(2)
+体験, 作業
+cluster3:(9)
+クーポン, 気, ブレスレット, 方々, 家族, 好み, 母, 近く, 他所
+cluster4:(1)
+石
+cluster5:(1)
+松江
+cluster6:(1)
+子供たち
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 9entities.

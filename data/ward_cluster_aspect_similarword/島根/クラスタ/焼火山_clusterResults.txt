@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:焼火山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+船着き場, 山, 西ノ島南側, 海, 海岸線, 位置
+cluster1:(3)
+別府港, 浦郷港, 隠岐諸島島前地区
+cluster2:(1)
+焼火神社
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 1entities.

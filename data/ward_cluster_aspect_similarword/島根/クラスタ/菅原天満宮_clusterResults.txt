@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菅原天満宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+受験シーズン, 参拝場所, 合格祈願, 大学受験, 参拝者, 参拝
+cluster1:(6)
+神社, 社, 祈り, 学問, 神, 墓
+cluster2:(16)
+天満宮, 歴史, 時代, 誕生, 受験生, 学生, 雰囲気, シーズン時期, 時間, こと, 場所, 人, 多く, 思い, 地, 子ども
+cluster3:(1)
+苔むす狛犬
+cluster4:(5)
+菅原天満宮, 松江市, 菅原, 宍道町, 島根
+cluster5:(3)
+道真公, 野見宿禰, 菅原道真公
+
+howmany entities : 37
+howmany clusters : 6
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 1entities.

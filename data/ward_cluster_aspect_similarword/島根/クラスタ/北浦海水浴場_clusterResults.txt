@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北浦海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+北浦海水浴場, 駐車場
+cluster1:(7)
+友人家族, 子供達, 海水浴客, 親戚, 子供, 子供たち, 家
+cluster2:(17)
+足, シュノーケル, ところ, 小山, 水, 夏場, シュノーケリング, 大根島, カニ, 山陰, シーズン, 場所, 人, 多く, 方, 日本海, 海水浴
+cluster3:(14)
+山, 餌, キス, 遠浅, 海水, 景色, 砂浜, 魚, 岩場, 波, 自然, 地形, 海, 浜辺
+cluster4:(2)
+透明度, 水中眼鏡
+
+howmany entities : 42
+howmany clusters : 5
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 3
+deleted 4entities.

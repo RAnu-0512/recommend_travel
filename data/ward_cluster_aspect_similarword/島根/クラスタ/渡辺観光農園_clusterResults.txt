@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渡辺観光農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+説明, 種類, 中身
+cluster1:(5)
+前, 時期, 事, 中, こと
+cluster2:(1)
+気分
+cluster3:(12)
+車, 女性, いちご, 鞄, 品種, 気持ち, 施設, 子供, ぶどう, 体, 苺, 客
+cluster4:(1)
+取り方
+cluster5:(4)
+ぶどう狩り, いちご狩り, 渡辺観光農園, みかん狩り
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 2entities.

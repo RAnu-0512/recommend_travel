@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蟠龍峡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遊歩道, 山
+cluster1:(1)
+水
+cluster2:(1)
+川辺
+cluster3:(1)
+蟠龍峡公園
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

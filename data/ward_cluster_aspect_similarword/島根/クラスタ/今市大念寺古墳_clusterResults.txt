@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今市大念寺古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+パンフレット, 墓地, 大念寺, 墓, 境内, 入り口
+cluster1:(3)
+石室内, 石棺, 古墳
+cluster2:(1)
+懐中電灯
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 1entities.

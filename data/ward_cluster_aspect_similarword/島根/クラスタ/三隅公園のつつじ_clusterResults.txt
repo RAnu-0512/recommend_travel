@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三隅公園のつつじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+色, 山, 花, 種類, 白
+cluster1:(6)
+家族, 間, 全体, 人, 多く, 上
+cluster2:(12)
+ひととき, ツツジ, ところ, 龍雲寺, 時期, つつじ, 気持ち, グラデーション, ピンク, タイミング, ピーク, ローカルイベント
+cluster3:(2)
+手作り感, 爽快
+cluster4:(19)
+訪問, 車, 龍雲寺境内, 散策, 陽気, 連休, 公園, 店, カメラ片手, 地域人, 出店, おじいちゃんおばあちゃん, つつじ祭り, 満開, 屋台, 斜面, 参拝, 平戸ツツジ, 散歩
+cluster5:(1)
+駐車場
+cluster6:(7)
+久留米ツツジ, 神楽, 石見神楽, 浜田市, 益田市, 三隅公園, 三隅神社
+
+howmany entities : 52
+howmany clusters : 7
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 5
+deleted 3entities.

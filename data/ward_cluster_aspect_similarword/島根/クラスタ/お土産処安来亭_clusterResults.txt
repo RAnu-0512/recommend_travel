@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お土産処安来亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+土産屋, 土産品, 土産
+cluster1:(2)
+館長, 名人
+cluster2:(5)
+途中, 本場, 時間, 隣, 昼
+cluster3:(2)
+店, 施設
+cluster4:(3)
+様子, 物, 方
+cluster5:(1)
+体験
+cluster6:(10)
+スポット, グッズ, 貸し切り, オススメ, どじょう, スタッフ, どじょうすくい, JAF, 素人, おかげ
+cluster7:(5)
+半額, 公演, 飛び入り参加, 割引, 踊り
+cluster8:(1)
+どじょう亭
+cluster9:(1)
+足立美術館
+cluster10:(1)
+団体客
+cluster11:(5)
+安来節, お土産処安来亭, 安来, 安来感, 安来節公演
+
+howmany entities : 39
+howmany clusters : 12
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 6
+deleted 8entities.

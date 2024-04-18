@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千家尊福歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+始め, ためし
+cluster1:(2)
+題名, 曲
+cluster2:(1)
+宮司
+cluster3:(1)
+歌碑
+cluster4:(3)
+出雲国, 出雲大社, 出雲大社教
+cluster5:(3)
+千家尊福歌碑, 千家, 千家家
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

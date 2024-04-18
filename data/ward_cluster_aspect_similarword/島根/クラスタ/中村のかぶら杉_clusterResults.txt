@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中村のかぶら杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国道沿い, 道路脇
+cluster1:(2)
+乳房杉, 杉
+cluster2:(6)
+途中, 根元, 場所, 夫婦, 西郷, 屋久島
+cluster3:(1)
+隠岐旅行
+cluster4:(1)
+存在感
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 6entities.

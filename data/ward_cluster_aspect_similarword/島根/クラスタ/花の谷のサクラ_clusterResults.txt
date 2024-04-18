@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花の谷のサクラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+サクラ, 桜
+cluster1:(1)
+花
+cluster2:(1)
+地元
+cluster3:(1)
+天空
+cluster4:(1)
+谷
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

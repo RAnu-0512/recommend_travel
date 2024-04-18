@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日御碕ビジターセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+出雲日御碕, 観光案内所, 日御碕駐車場, 観光スポット
+cluster1:(2)
+クジ拳, クジ
+cluster2:(11)
+所, 建物, 店, 日御碕, 買い物, パンフレット, 店内, 階段, 方, スタッフ, イベント
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 2entities.

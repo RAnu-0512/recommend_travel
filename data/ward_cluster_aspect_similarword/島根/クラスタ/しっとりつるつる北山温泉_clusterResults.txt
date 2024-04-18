@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しっとりつるつる北山温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観光客, 利用客, 常連客, 客
+cluster1:(2)
+予約, 対応
+cluster2:(3)
+感じ, 効果, 状態
+cluster3:(16)
+他, ポイント, 露天風呂, 自宅, 小さなお子さん, 水風呂, 気持ち, スタッフ, 地元, 人, 東北, 炭酸泉, サウナ, フロント, 方, 帰り
+cluster4:(1)
+徒歩
+cluster5:(1)
+接客
+cluster6:(4)
+大雨, 温度, 肌, 天気
+cluster7:(1)
+整いスペース
+cluster8:(3)
+休憩所, 疲労回復, 歩き腰
+cluster9:(3)
+神在祭帰り, 出雲市, 出雲大社
+cluster10:(2)
+風呂, 入浴
+cluster11:(2)
+湯, お湯
+cluster12:(1)
+浴場
+cluster13:(5)
+温泉めぐり, 松江温泉, ヌルヌル温泉, 日帰り温泉, 温泉
+cluster14:(1)
+人口炭酸泉
+cluster15:(1)
+泉質
+cluster16:(3)
+北山健康温泉, 人工炭酸温泉, 北山温泉
+
+howmany entities : 53
+howmany clusters : 17
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 8
+deleted 12entities.

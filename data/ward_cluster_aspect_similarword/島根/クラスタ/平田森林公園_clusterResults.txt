@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平田森林公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+施設, 設備
+cluster1:(1)
+自然
+cluster2:(1)
+平田森林公園
+
+howmany entities : 4
+howmany clusters : 3
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 4entities.

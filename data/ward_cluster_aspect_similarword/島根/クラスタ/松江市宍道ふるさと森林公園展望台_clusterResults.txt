@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松江市宍道ふるさと森林公園展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宍道ふるさと森林公園, 松江市
+cluster1:(2)
+子供, 子供たち
+cluster2:(3)
+公園, 景色, 宍道湖
+cluster3:(1)
+展望台
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

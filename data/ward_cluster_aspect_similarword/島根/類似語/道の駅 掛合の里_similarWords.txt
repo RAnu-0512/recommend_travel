@@ -1,0 +1,11 @@
+--------------------similar_words:道の駅 掛合の里--------------------
+top3 entities near to cluster1>>
+国道, 県道
+top3 entities near to cluster2>>
+情報, 季節
+top3 entities near to cluster3>>
+地元, 全国, 各地
+top3 entities near to cluster4>>
+土産, 土産物, おみやげ
+top3 entities near to cluster6>>
+野菜, 果物, 特産

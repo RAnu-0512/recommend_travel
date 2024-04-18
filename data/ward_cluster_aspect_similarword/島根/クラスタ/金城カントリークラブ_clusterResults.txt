@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金城カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+隣, 友人, 主人, 人
+cluster1:(5)
+お気に入り, ゴルフ, コース, 場所, インコース
+cluster2:(1)
+興味
+cluster3:(1)
+宿泊施設
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

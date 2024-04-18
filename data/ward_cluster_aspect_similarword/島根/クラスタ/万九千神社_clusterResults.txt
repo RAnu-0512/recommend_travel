@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:万九千神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+八百萬神, 八百万神, 大穴牟遅命, 少彦名命, 櫛御気奴命
+cluster1:(7)
+神在祭, 神在, 神在月, 出雲国, 出雲市, 斐川町, 出雲大社
+cluster2:(3)
+産業, 食物, 農業
+cluster3:(4)
+土地, 建築, 土木, 住宅
+cluster4:(1)
+国土
+cluster5:(17)
+旅立ち, 開拓, 前, 併川, 打ち上げ会場, 利益, 繁栄, 雰囲気, 円滑, 全国, 最後, 五穀豊穣, 場所, 旅, 方, 森, ガイドブック
+cluster6:(4)
+家庭円満, 国造り, 日本国中, 改装工事
+cluster7:(2)
+神宴, 宴
+cluster8:(2)
+神, 神々
+cluster9:(1)
+神議り
+cluster10:(7)
+神社, 遥拝所, 由緒, 直会, 御祭神, 賽銭, 立虫神社
+
+howmany entities : 53
+howmany clusters : 11
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 7
+deleted 6entities.

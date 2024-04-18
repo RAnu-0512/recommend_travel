@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一畑電車 川跡駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ホーム, 反対, 設定
+cluster1:(2)
+方面, 経由
+cluster2:(7)
+普通列車, 出雲大社前駅, 電車, 全線, 駅, 電鉄出雲市駅, 駅止まり
+cluster3:(1)
+進行方向
+cluster4:(1)
+乗り放題
+cluster5:(4)
+一畑電車, 出雲大社, 出雲市, 松江しんじ湖温泉駅
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 4entities.

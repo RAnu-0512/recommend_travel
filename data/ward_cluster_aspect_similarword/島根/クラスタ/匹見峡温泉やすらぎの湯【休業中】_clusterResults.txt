@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:匹見峡温泉やすらぎの湯【休業中】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+益田, 益田方面
+cluster1:(3)
+方面, 国道, 温泉
+cluster2:(8)
+露天風呂, 途中, 広島, 中, 山, ほう, 相当, 先
+cluster3:(1)
+匹見峡
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 3entities.

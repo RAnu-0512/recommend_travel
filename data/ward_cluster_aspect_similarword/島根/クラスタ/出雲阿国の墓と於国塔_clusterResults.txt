@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲阿国の墓と於国塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+途中, 南, 日本, 山, 他, スポット, 名前, 角, 北側, 南西, 教科書, 喜び, 始祖, レリーフ, 出雲阿国, たしか出雲阿国, 念願, 木製, 交差点, 高校, 人物, 入り口, 建物, 場所, 人, 縁, 麓, 方, 看板, こと, 歌舞伎
+cluster1:(2)
+案内板, 創始者
+cluster2:(3)
+墓地, 墓所, 墓
+cluster3:(3)
+銅像, 石碑, 碑
+cluster4:(3)
+尼僧, 余生, 読経
+cluster5:(19)
+道路沿い, 道路, 阿国通り沿い, 吉兆館前, 阿国, 連歌庵, 大社, 参道, 連歌, 浜, 出雲, 巫女, 道, 稲佐, 堀川, 駐車スペース, 出雲大社, 駐車場, 稲佐浜
+
+howmany entities : 61
+howmany clusters : 6
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 5
+deleted 2entities.

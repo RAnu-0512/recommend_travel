@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲須佐温泉 ゆかり館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+須佐神社, 神在月
+cluster1:(5)
+温泉施設, 浴場, 日帰り温泉, 駐車場, 温泉
+cluster2:(2)
+ゆかり館, スサノオ館
+cluster3:(12)
+周辺, ホームページ, かたち, 露天風呂, 公園, 民間, 宿泊, 田舎, 施設, サービス, 隣接, 情報
+cluster4:(5)
+印象, 感じ, 周知, 満載, 方
+cluster5:(3)
+外国人専用, 稼働率, 何か情報
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 4entities.

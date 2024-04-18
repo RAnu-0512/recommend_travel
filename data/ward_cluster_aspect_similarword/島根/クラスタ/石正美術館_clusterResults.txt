@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石正美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+地方, 日本, 桜, しだれ桜コンサート, 女性, 中心, 光景, イタリア, 作品, 目印, 野鳥, 中庭, 教会, 目, 画家, 塔, 中, 雰囲気, 教会風, 美術館, 機会, 多く, 出身
+cluster1:(4)
+三隅中央公園, 石本正, アクア三隅, 三隅町
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 2
+deleted 0entities.

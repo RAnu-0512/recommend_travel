@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国民宿舎 さんべ荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+宿, 風呂, 浴槽, 温泉, 湯
+cluster1:(4)
+事人, 人, 女性, 男性
+cluster2:(5)
+全部, 料理, 食事, 三瓶山, そば
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+場所, 雰囲気, 津和野川, 津和野, 山口線
+cluster1:(3)
+川, 鉄橋, 橋
+cluster2:(1)
+水量
+cluster3:(1)
+SLやまぐち号
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

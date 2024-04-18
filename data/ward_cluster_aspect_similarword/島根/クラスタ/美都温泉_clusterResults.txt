@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美都温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+島根訪れたら美都温泉, 美都温泉
+cluster1:(2)
+新鮮野菜市, 産直市
+cluster2:(14)
+約束, おすすめ, 感じ, 露天風呂, スポット, シャンプーリンス, リンスインシャンプー, シャワー, 雰囲気, セット, 気持ち, 人, ツルッ, 備え付け
+cluster3:(5)
+車, 道, 施設, 地元, 外
+cluster4:(2)
+神楽, 紅葉ドライブ
+cluster5:(1)
+強さ
+cluster6:(18)
+食事処, 休憩室, 露天, 風呂, 入浴料金, 熱さ, お湯, 浴場, 温度, 肌, 泉質, 中核施設, 休憩広場, 食事, 日帰り温泉, 畳, 身体洗い, 温泉
+
+howmany entities : 44
+howmany clusters : 7
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 3
+deleted 7entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯薬師>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+玉造湯神社, 玉造湯薬師, 玉造湯
+cluster1:(14)
+薬効, 南奥, 玉造温泉街, ゆかり, 薬師如来像, 事, シンボル, 堂, 発祥, ボトル, 薬師如来, 場所, 川辺, 天然
+cluster2:(2)
+玉湯川, 川辺の出湯
+cluster3:(2)
+古源泉, 源泉地
+cluster4:(3)
+温泉水, 温泉津温泉, 温泉
+cluster5:(3)
+湯, 湯薬師堂, 薬師湯
+cluster6:(1)
+石灯籠
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 5entities.

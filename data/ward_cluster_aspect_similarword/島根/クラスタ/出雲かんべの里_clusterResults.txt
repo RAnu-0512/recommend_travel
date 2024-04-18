@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲かんべの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+陶芸体験, まり作り体験, 民話体験, 体験, 民話館, 陶芸, 機織り体験
+cluster1:(33)
+器, 友達, ろくろ, 深さ, 先生, 色, 工房, 次, 焼き上がり, 値段, 作品, サポート, 手びねり, 黒, サイン, 茶碗, 大きさ, ねり, 出雲, 笑, 時間, 皿, もの, コップ, 技法, 機会, 自動, 松江, 人, ちゃん, オレンジ, 白, こと
+
+howmany entities : 40
+howmany clusters : 2
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 2
+deleted 0entities.

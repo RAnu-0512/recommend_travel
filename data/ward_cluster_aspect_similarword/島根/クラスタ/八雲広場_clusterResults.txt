@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八雲広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+フェリーく, 奥さん, 船, 広場, 近く
+cluster1:(2)
+菱浦港, 小泉八雲
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 2entities.

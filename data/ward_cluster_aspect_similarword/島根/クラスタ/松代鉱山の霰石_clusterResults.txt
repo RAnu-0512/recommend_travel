@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松代鉱山の霰石>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+霰石, 鉱物
+cluster1:(2)
+石膏鉱山, 松代鉱山
+cluster2:(1)
+大田市
+
+howmany entities : 5
+howmany clusters : 3
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

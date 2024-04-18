@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ますだこうさんファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+電話, 予約
+cluster1:(2)
+味, 値段
+cluster2:(6)
+ハウス, いちご, 大人, ドライブ, 方, 感じ
+cluster3:(2)
+高さ, いちごがり
+cluster4:(1)
+腰位
+cluster5:(1)
+駐車場
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 8entities.

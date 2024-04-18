@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松江神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+東照宮の御神霊, 配神, 主祭神, 合祀神, 御祭神
+cluster1:(2)
+寛文元年, 手水舎
+cluster2:(22)
+堀尾, 途中, 城内, 寛永, 周辺, 中興, 松江城, 天守閣, 時代, 景色, 社名, 不思議さ, 二の丸, 孫, もの, 昔, 城, 祖, 場所, 江戸時代, 人, 明治
+cluster3:(6)
+城山公園, 丸広場, 楽山神社, 観光, 観光散策, 楽山
+cluster4:(2)
+天守, 天守下
+cluster5:(4)
+移築, 建造, 建立, 創建
+cluster6:(5)
+神社, 拝殿, 社殿, 参道, 本殿
+cluster7:(9)
+松江東照宮, 松江市, 松江神社, 松江城山, 松江開府, 殿町松江城跡地, 城山稲荷神社, 松江藩, 島根県
+cluster8:(6)
+松江松平家, 松平初代藩主, 徳川家, 初代藩主, 徳川家康公, 松平直政
+cluster9:(1)
+堀尾吉晴の孫・忠晴
+
+howmany entities : 62
+howmany clusters : 10
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 7
+deleted 5entities.

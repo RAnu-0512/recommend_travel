@@ -1,0 +1,23 @@
+--------------------similar_words:立久恵峡--------------------
+top3 entities near to cluster0>>
+道路, 国道, 通行
+top3 entities near to cluster1>>
+岩山, 岩, 石柱
+top3 entities near to cluster2>>
+つり橋, 吊橋, 吊り橋
+top3 entities near to cluster3>>
+遊歩道, 露天風呂, バス停
+top3 entities near to cluster7>>
+建物, 写真
+top3 entities near to cluster8>>
+自然, 独特, 迫力
+top3 entities near to cluster11>>
+景色, 紅葉, 新緑
+top3 entities near to cluster12>>
+若鮎, 鮎, U
+top3 entities near to cluster13>>
+上下線, 上下, 美しい
+top3 entities near to cluster14>>
+温泉, 宿, 旅館
+top3 entities near to cluster17>>
+渓谷, 峡谷, 奇岩

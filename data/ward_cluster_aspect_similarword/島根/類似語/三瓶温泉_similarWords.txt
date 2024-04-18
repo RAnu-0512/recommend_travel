@@ -1,0 +1,11 @@
+--------------------similar_words:三瓶温泉--------------------
+top3 entities near to cluster1>>
+湯, 温泉, 灌場
+top3 entities near to cluster2>>
+温泉, 温泉郷, 旅館
+top3 entities near to cluster12>>
+山肌, 景色, 登山
+top3 entities near to cluster14>>
+身体, 癒し
+top3 entities near to cluster15>>
+展望, 宿舎, 麓

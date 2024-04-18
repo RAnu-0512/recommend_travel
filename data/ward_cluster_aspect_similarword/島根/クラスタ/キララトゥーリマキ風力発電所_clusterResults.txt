@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キララトゥーリマキ風力発電所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風力発電, 風力発電所
+cluster1:(2)
+風車, 発電
+cluster2:(2)
+向き, 方向
+cluster3:(2)
+駅, 道
+cluster4:(2)
+日本, 風
+cluster5:(1)
+東隣
+cluster6:(1)
+島根県
+cluster7:(5)
+駅キララ多岐, キララ多伎, 多伎町, 海岸線沿い, 海岸線
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 12entities.

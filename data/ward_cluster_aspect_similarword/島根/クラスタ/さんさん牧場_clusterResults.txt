@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さんさん牧場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+機会, 支援, レッスン, トレッキング, 日本, 海, 近く
+cluster1:(5)
+牧場, 馬, 馬達, 人参, 乗馬レッスン
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

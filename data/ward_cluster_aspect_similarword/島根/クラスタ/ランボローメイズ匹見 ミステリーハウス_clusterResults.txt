@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ランボローメイズ匹見 ミステリーハウス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+足, ゴール, タイムレコーダー, 日本, ペン, 運動, 壁, 大人, キャラ, チェックポイント, マスコット, 旗, ランズボローメイズ, NG, スタンプカード, スタンプ, 人, 迷路
+cluster1:(4)
+昭和, 時代, 大昔, 昔
+cluster2:(3)
+余裕, 時間, 時刻
+cluster3:(5)
+施設, もの, 場所, 覚え, こと
+cluster4:(4)
+匹見峡, 匹見町, 匹見, 島根県
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 5
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SUPSHOP海楽松江>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+sup体験, 時間, 場所, 問題, 方, こと
+cluster1:(16)
+民宿, 車, 日焼け, ボード, シャワー, 遊び方, 親子, シャンプー, 学校, 県外, プール, 子供, 地元, 手, 海, 着替え
+cluster2:(3)
+時間帯, 運動不足, 駐車場
+cluster3:(1)
+筋肉痛必至
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 3
+deleted 1entities.

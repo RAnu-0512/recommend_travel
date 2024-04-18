@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西ノ島町観光協会(レンタサイクル)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+分岐点, 理想値
+cluster1:(4)
+電気, 電動アシスト, 電池, エコモード
+cluster2:(15)
+ハメ, 商店, 別, 距離, バッテリー, 道, スタッフ, レンタルバイク, 鬼舞スカイライン, 状況, 自転車, 場所, レンタサイクル, 問題, ほう
+cluster3:(2)
+町営バス, 鬼舞展望所
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 4entities.

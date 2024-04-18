@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:裏匹見峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+匹見峡温泉, 奥匹見峡
+cluster1:(2)
+水, 水だまり
+cluster2:(3)
+渓谷, 川岸, 滝
+cluster3:(3)
+裏, 底, 表
+cluster4:(4)
+景色, 道, 紅葉, 道中表匹見峡
+cluster5:(8)
+夏, きれいさ, 価値, ドライブ, オススメ, シーズン, 自然, 市街地
+cluster6:(1)
+一同グロッキー
+cluster7:(4)
+益田, 匹見町, 見峡, 島根県
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 5entities.

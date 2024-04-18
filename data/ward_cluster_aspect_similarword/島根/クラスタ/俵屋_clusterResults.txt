@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:俵屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+出雲そば, 出雲大社, 満足出雲大社
+cluster1:(3)
+参道, 参道沿い, 小道沿い
+cluster2:(2)
+俵まんじゅう, 俵型
+cluster3:(7)
+餡, カステラ生地, 白あんが, 白あん, 白餡, 生地, 饅頭
+cluster4:(5)
+俵屋, 老舗, 創業, 名物, 明治
+cluster5:(5)
+蕎麦, 店, 和菓子屋, おまんじゅう, 土産
+cluster6:(3)
+形, 方, こと
+cluster7:(4)
+ゲット, カステラ, ホテル, 帰り
+cluster8:(1)
+評判
+cluster9:(1)
+かね
+cluster10:(4)
+入口, 付近, 地, カステラ風
+cluster11:(1)
+バラ
+
+howmany entities : 39
+howmany clusters : 12
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 8
+deleted 5entities.

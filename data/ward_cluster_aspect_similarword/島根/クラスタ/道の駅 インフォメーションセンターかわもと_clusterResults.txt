@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 インフォメーションセンターかわもと>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土産品, 特産品
+cluster1:(3)
+数台, 車中泊, 駐車場
+cluster2:(14)
+エゴマ, 目的, 裏手, たれ, 車, レストラン, 水, 水路, 公園, 横, 道, コンビニ, 隣, 地元
+cluster3:(3)
+駅, 因原駅, 産直市
+cluster4:(2)
+食事処, 野菜類
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 4entities.

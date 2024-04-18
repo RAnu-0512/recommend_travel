@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鷲原八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+楼門, 鶴岡八幡宮, 神楽殿, 鷲原公園, 本殿
+cluster1:(2)
+鎌倉時代, 鎌倉
+cluster2:(7)
+日本, 周辺, 八幡宮, 原型, 守護神, 流鏑馬, もの
+cluster3:(5)
+丘, 桜, 城山, 城, 馬場
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 2entities.

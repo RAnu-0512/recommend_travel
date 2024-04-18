@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜田市世界こども美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜田市, 浜田市世界こども美術館
+cluster1:(2)
+入館料, 駐車場
+cluster2:(7)
+参加型, 滞在時間, 体験型, 年間パスポート, 年パス, 体験, 企画展
+cluster3:(3)
+孫たち, 孫, 子供たち
+cluster4:(14)
+補助, 予約, 工夫, 近く, 内容, 関係, 週末, 時間, こと, 施設, 人気, 地元, 場所, 方
+cluster5:(16)
+リース, イメージ, 子, ホームページ, スポット, 家族, 大人, ビー玉, イベント, お気に入り, 美術館, コロナ, 子供, 人, 年齢, 子ども
+cluster6:(1)
+満員
+cluster7:(7)
+展示, 工作, 絵画, 作品, ウイルス対策, 企画, 絵
+
+howmany entities : 52
+howmany clusters : 8
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 5
+deleted 5entities.

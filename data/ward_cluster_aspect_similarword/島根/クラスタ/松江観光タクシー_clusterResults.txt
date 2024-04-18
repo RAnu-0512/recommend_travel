@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松江観光タクシー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+感じ, 値段
+cluster1:(1)
+観光タクシー
+
+howmany entities : 3
+howmany clusters : 2
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 3entities.

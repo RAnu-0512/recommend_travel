@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国文化財の宿 美保館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+湾, 船舶, 眺望
+cluster1:(7)
+充実, 紹介, 裏, 風呂, 施設, アメニティ, 温泉
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 0entities.

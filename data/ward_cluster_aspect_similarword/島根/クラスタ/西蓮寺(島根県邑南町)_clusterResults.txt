@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西蓮寺(島根県邑南町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大木, 明治
+cluster1:(14)
+下, 西蓮寺, 薬師堂, スポット, 正蓮寺, 金釘, ひとつ, 又, 雰囲気, 場所, 作り, 方, 天台宗, こと
+cluster2:(3)
+歴史, 価値, 迫力
+cluster3:(4)
+彫刻, 柱, 門, 建物
+cluster4:(1)
+名工
+cluster5:(9)
+楼門, 寺, 本堂, 焼失, 寺運, 寺院, 山門, 勅願, 興隆し天台宗
+cluster6:(9)
+石見三門, 江戸幕府, 浄泉寺, 口羽, 和田の匠, 三門, 豊原 喜一郎, 江戸時代, 島根県
+
+howmany entities : 42
+howmany clusters : 7
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 5
+deleted 3entities.

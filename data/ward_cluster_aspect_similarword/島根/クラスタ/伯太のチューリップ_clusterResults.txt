@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伯太のチューリップ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伯太, 安来, 伯太町
+cluster1:(22)
+友達, 色, 写真, 感じ, オランダ, イキイキ, チューリップ, チューリップ畑, 赤, チューリップ祭り, 風車, 花, 畑, ピンク, 子供, 子供たち, 色とりどり, 多く, 人, 方, 駐車場, 白
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,45 @@
+--------------------similar_words:稲佐の浜--------------------
+top3 entities near to cluster0>>
+工事, 建設, 道路
+top3 entities near to cluster1>>
+岩, びあくま
+top3 entities near to cluster2>>
+砂, 海, 砂浜
+top3 entities near to cluster3>>
+景色, 風景, 情景
+top3 entities near to cluster5>>
+砂浜, 浜辺, 海岸
+top3 entities near to cluster8>>
+神社, 鳥居, 灯台
+top3 entities near to cluster9>>
+天気, 予報, 天候
+top3 entities near to cluster10>>
+夏, 冬, 秋
+top3 entities near to cluster11>>
+海沿い, 夕暮れ, 海岸
+top3 entities near to cluster13>>
+お参り, お告げ, 神様
+top3 entities near to cluster15>>
+サーフィン, フラダンス, ビーチバレー
+top3 entities near to cluster16>>
+おすすめ, シルエット, オススメ
+top3 entities near to cluster25>>
+気持ち, 思い出, 雰囲気
+top3 entities near to cluster26>>
+バス停, 入口, 入り口
+top3 entities near to cluster32>>
+駐車場, 駐車, 満車
+top3 entities near to cluster33>>
+夕食, 散歩, 朝食
+top3 entities near to cluster36>>
+徒歩, 駅, 立地
+top3 entities near to cluster39>>
+撮影, 写真, 撮っ
+top3 entities near to cluster41>>
+人達
+top3 entities near to cluster44>>
+大社, 崗神, 神西沖
+top3 entities near to cluster47>>
+日, 月, 年
+top3 entities near to cluster48>>
+海岸, 浜, 砂浜

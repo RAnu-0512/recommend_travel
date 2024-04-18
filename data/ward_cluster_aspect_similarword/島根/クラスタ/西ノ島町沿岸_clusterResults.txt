@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西ノ島町沿岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+高さ, カキ, 国賀海岸, 地区北側, クロキヅタ, 西ノ島, 岩ガキ, 養殖, 中ノ島, 摩天崖, 沿岸部, 天然記念物指定, 海藻, 海, 側, 隠岐諸島島
+cluster1:(3)
+素潜り漁, 海蝕崖, 海蝕作用
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 0entities.

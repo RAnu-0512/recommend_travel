@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青山かまぼこ店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+話, 焼き, かまぼこ, 最後, 写真, 時間, 孫
+cluster1:(3)
+息子夫婦, 私達夫婦, パパママ
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 0entities.

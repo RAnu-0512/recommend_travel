@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:きんた農園ベリーネ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+質, 値段
+cluster1:(5)
+子供, いちご, 家族, 春休み, 温泉
+cluster2:(1)
+大粒
+cluster3:(1)
+いちご狩り
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

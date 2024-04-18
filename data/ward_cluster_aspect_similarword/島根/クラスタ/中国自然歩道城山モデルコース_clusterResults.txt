@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中国自然歩道城山モデルコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自然, コース
+cluster1:(1)
+運動
+cluster2:(1)
+地
+cluster3:(1)
+城山
+cluster4:(1)
+史跡
+cluster5:(1)
+登山道
+cluster6:(1)
+中国自然歩道城山モデル
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

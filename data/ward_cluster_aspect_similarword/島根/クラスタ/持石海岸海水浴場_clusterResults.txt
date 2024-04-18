@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:持石海岸海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜田, 山陰
+cluster1:(2)
+岩, 石
+cluster2:(2)
+夕日, 天気
+cluster3:(11)
+所, 海水浴目的, ビーチ, 娘, 女の子, 人, ゴミ, 家, 海沿い, 海, 親子
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 6entities.

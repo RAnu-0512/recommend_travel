@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 シルクウェイにちはら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+旅行, 土産
+cluster1:(3)
+飲食コーナー, 料理, 食事
+cluster2:(1)
+雑炊
+cluster3:(1)
+食事処
+cluster4:(1)
+観光案内
+cluster5:(2)
+直売所, 駐車場
+cluster6:(2)
+島根県, 益田
+cluster7:(4)
+川, 流域, 鮎, 清流高津川
+cluster8:(2)
+津和野, 高津川
+cluster9:(2)
+トイレ, 自販機
+cluster10:(2)
+うどん, おでん
+cluster11:(5)
+ラーメン, ポスター, 食べ物, メニュー, コンビニ
+cluster12:(1)
+カヌー
+cluster13:(2)
+シルクウェイ, フードコート
+cluster14:(15)
+途中, 気, 駅, 他, 敷地, 味, 値段, 休憩, 道, 物, 種類, 地元, 人, 場所, 多く
+cluster15:(2)
+販売機, 自動販売機
+cluster16:(3)
+土産屋, お土産屋, コンビニ・土産物屋
+
+howmany entities : 50
+howmany clusters : 17
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 20entities.

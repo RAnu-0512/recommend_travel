@@ -1,0 +1,19 @@
+--------------------similar_words:八雲立つ風土記の丘--------------------
+top3 entities near to cluster0>>
+大社, 国府, 神社
+top3 entities near to cluster1>>
+古墳, 神社, 本殿
+top3 entities near to cluster2>>
+電動, アシストチャリ, 小形
+top3 entities near to cluster4>>
+女性人, 男性人, 女性, 男性
+top3 entities near to cluster5>>
+施設, 展示, 所内
+top3 entities near to cluster8>>
+周辺, 周囲, 規模
+top3 entities near to cluster11>>
+丘, 山, 麓
+top3 entities near to cluster12>>
+案内板, 案内
+top3 entities near to cluster13>>
+館, 竪穴, 資料

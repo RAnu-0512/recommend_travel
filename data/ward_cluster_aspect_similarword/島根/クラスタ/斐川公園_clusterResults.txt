@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:斐川公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供, お子様, 場所
+cluster1:(3)
+遊具, 公園, 広場
+cluster2:(1)
+総合公園
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 1entities.

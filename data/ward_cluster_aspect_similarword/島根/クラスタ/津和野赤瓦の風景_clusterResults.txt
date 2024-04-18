@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野赤瓦の風景>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+石州瓦, 瓦, 赤瓦, 瓦屋根
+cluster1:(2)
+石見地方, 島根県
+cluster2:(12)
+雪, 地方, 写真, 津和野, SL, 中心部, 景観, 緑, 町並み, 歴史資産, 左手, 家
+cluster3:(1)
+太鼓谷稲成神社
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 3entities.

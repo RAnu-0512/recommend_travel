@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中国自然歩道石見銀山街道コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+龍源寺, 人, 雰囲気, レンタサイクル, 羅漢寺, センター
+cluster1:(2)
+時間, こと
+cluster2:(1)
+自然
+cluster3:(3)
+行程, 徒歩, 往復
+cluster4:(1)
+混雑
+cluster5:(1)
+駐車場
+cluster6:(1)
+世界遺産
+cluster7:(1)
+石見銀山
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 7entities.

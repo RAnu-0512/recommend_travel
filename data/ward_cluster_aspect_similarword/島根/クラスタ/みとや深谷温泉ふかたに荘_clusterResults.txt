@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みとや深谷温泉ふかたに荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+地元, 名前, 梅干し, 価格, GET, トレーサビリティ, スタッフ, ほか
+cluster1:(5)
+あちこち道路, 野菜, 食材, 温泉, 客
+cluster2:(2)
+生産者, 私一人
+cluster3:(1)
+入浴料
+cluster4:(1)
+秘湯深谷温泉
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 4entities.

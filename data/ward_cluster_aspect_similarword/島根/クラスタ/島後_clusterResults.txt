@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島後>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+飛行機, おすすめ, 沖合, エリア, フェリー, とうぜん, 魚, 滝, 釣り人, 自然, 島
+cluster1:(3)
+隠岐, 離島, 島根
+cluster2:(1)
+とうご
+cluster3:(1)
+八尾川
+cluster4:(1)
+遊覧船
+cluster5:(1)
+隠岐世界ジオパーク空港
+cluster6:(1)
+ローソク島
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 5entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:温泉津やきもの館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+感じ, 様子, 説明, 担当, 形, こと
+cluster1:(4)
+他, 作品, 最後, 時間
+cluster2:(9)
+思い出, やり方, 世の中, テーブル, スタッフ, マスク, アドバイス, 子供, 作り方
+cluster3:(3)
+温泉津, 温泉, 客
+cluster4:(1)
+土
+cluster5:(1)
+放置プレイ
+cluster6:(6)
+温泉津焼, 焼き物体験, やきもの館, 茶碗, 体験, 陶芸
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 2entities.

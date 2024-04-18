@@ -1,0 +1,11 @@
+--------------------similar_words:神魂神社本殿--------------------
+top3 entities near to cluster1>>
+神, 巫女, 宮
+top3 entities near to cluster2>>
+歴史, 風景, 高校
+top3 entities near to cluster4>>
+奥, 階段, 内側
+top3 entities near to cluster5>>
+建物, 木造, 敷地
+top3 entities near to cluster7>>
+神社, 本殿, 境内

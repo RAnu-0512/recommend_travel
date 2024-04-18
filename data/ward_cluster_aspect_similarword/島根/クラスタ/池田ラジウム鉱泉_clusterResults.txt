@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:池田ラジウム鉱泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川合町, 三瓶町
+cluster1:(15)
+待合い, 家庭, ラドン, ソファー, 山麓, 気, ポット, インスタントコーヒー, 道, 池田, お湯, 浴槽, 瓶山, 温泉, 調査
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 2entities.

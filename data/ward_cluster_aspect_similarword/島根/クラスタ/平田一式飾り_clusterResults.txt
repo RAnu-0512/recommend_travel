@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平田一式飾り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+平田一式, 平田一式飾り, 一式飾, 平田
+cluster1:(9)
+文化, こっちゃ, 陶器, 材料, ユニーク, パーツ, 人形, 存在, もの
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

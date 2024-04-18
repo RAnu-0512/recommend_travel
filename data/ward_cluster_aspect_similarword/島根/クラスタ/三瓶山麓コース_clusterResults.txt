@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三瓶山麓コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天気, 景色
+cluster1:(2)
+時期, 季節
+cluster2:(3)
+バイク, 車, 移り変わり
+cluster3:(2)
+途中, 場所
+cluster4:(1)
+自然
+cluster5:(1)
+原
+cluster6:(1)
+高原道路
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 9entities.

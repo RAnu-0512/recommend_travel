@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旭温泉川沿い・旭町市木地区>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+旭町市, 旭温泉川
+cluster1:(4)
+スポット, 川沿い, 雰囲気, 気持ち
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 2entities.

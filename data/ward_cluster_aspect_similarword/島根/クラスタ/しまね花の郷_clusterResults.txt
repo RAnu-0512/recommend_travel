@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しまね花の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+入場料金, 写真館, 休憩場所, 家族連れ
+cluster1:(2)
+朱鷺, 羊草
+cluster2:(7)
+温室, 敷地, 別館, 遊具, 芝生, 花壇, 広場
+cluster3:(6)
+五感, 時季, 工夫, 季節, もの, 機会
+cluster4:(14)
+ラムズイヤー, 家族, 弁当, 紫陽花, イベント, ひまわり, 花, アジサイ, 香り, 杜若, 植物, 子供, あやめ, ピーク
+cluster5:(1)
+触り心地
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 4
+deleted 3entities.

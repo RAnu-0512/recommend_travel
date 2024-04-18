@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クラシック島根カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食事, 手入れ
+cluster1:(1)
+状態
+cluster2:(1)
+フェアウェイ
+cluster3:(1)
+感
+cluster4:(1)
+プレー費
+cluster5:(1)
+クラシック島根カントリークラブ
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

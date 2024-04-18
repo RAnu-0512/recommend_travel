@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大久保石見守墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京八王子, 大久保長安
+cluster1:(6)
+人物, 管理, 時代, 初代, 全国, 手腕
+cluster2:(3)
+鉱山, 金銀, 墓
+cluster3:(2)
+家康, 奉行
+cluster4:(1)
+時代感
+cluster5:(1)
+石見銀山
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 6entities.

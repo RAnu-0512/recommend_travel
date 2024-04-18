@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あぜみち_レンタサイクル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+景色, おすすめ
+cluster1:(1)
+観光
+
+howmany entities : 3
+howmany clusters : 2
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 3entities.

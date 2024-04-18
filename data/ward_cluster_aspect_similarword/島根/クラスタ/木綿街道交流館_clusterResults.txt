@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木綿街道交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光案内所, 民芸品
+cluster1:(2)
+神社, 祭礼
+cluster2:(2)
+文化, 歴史
+cluster3:(2)
+方々, 地元
+cluster4:(5)
+おすすめ, うさぎ, 食べ物, 見どころ, 街並み
+cluster5:(2)
+最初, こと
+cluster6:(1)
+情報
+cluster7:(1)
+蕎麦
+cluster8:(1)
+石橋
+cluster9:(3)
+木綿街道, 木綿, 江戸時代
+
+howmany entities : 21
+howmany clusters : 10
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 13entities.

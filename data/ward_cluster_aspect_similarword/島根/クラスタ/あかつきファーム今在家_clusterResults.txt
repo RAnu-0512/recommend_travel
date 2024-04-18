@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あかつきファーム今在家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+がす, 手続き, 説明, まー記念, 写真撮影, 頭, 写真, イチゴ, ブドウ, ビニール手袋, 顔, 客, 口コミ
+cluster1:(4)
+ぶどう狩り, 食べ放題, 入場料, ぶどう狩り楽しみ
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

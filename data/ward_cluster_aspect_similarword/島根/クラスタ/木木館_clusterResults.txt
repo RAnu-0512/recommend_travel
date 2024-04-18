@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木木館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩, 隠岐
+cluster1:(1)
+林産
+cluster2:(1)
+加工品
+
+howmany entities : 4
+howmany clusters : 3
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 4entities.

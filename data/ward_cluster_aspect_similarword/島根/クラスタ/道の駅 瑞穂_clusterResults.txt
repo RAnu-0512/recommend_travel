@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 瑞穂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+屋根, 石州瓦屋根, 瓦屋根
+cluster1:(2)
+やまんば食パン, おおなんバス
+cluster2:(6)
+地方, 地域, 方言, 全国, 地元, 島根
+cluster3:(15)
+イメージ, 声, 駅, 放送, 店内, 休憩, 食パン, 停留所, 年配, 道, 駅舎, 人, 満載, 土産, パン
+cluster4:(5)
+季節感, 産直市場, 野菜, 特産品, 新鮮野菜
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 4
+deleted 2entities.

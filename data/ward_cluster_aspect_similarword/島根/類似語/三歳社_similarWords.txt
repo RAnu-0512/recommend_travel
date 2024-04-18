@@ -1,0 +1,9 @@
+--------------------similar_words:三歳社--------------------
+top3 entities near to cluster0>>
+三社, 出版社, 三, 出版
+top3 entities near to cluster1>>
+山道, 車道
+top3 entities near to cluster3>>
+神橋, 神
+top3 entities near to cluster7>>
+大社, 神社, 摂社

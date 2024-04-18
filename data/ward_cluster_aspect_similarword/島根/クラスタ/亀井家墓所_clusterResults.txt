@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀井家墓所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+津和野藩主亀井家, 亀井家墓所
+cluster1:(3)
+墓所, 墓石, 墓
+cluster2:(4)
+訪問, 歴史, 裏山, 歴代
+cluster3:(1)
+永太院
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥栄神社のケヤキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+津和野, 山口線
+cluster1:(2)
+近く, ホテル
+cluster2:(2)
+津和野駅, 町
+cluster3:(1)
+JR
+cluster4:(1)
+幹
+cluster5:(1)
+欅
+cluster6:(1)
+太さ
+cluster7:(1)
+樹齢
+cluster8:(1)
+弥栄神社
+
+howmany entities : 12
+howmany clusters : 9
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 12entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:県立万葉公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+目的, ツツジ, 園内, 子, 人たち, 家族, 公園, サッカー, カップル, ランニング, 柿本神社, バトミントン, 万葉集, 高台, 芝生, 駐車場, 広場
+cluster1:(3)
+万葉植物園, 人麻呂展望広場, 万葉公園
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 0entities.

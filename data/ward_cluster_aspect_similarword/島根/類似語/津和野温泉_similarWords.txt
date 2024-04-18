@@ -1,0 +1,13 @@
+--------------------similar_words:津和野温泉--------------------
+top3 entities near to cluster1>>
+駅, 景色, 窓
+top3 entities near to cluster3>>
+地元人, 歴史人, 地元, 歴史
+top3 entities near to cluster5>>
+肌, 心身, 成分
+top3 entities near to cluster7>>
+名所, 周遊, 名所旧跡
+top3 entities near to cluster8>>
+狩屋, 温, 狩
+top3 entities near to cluster9>>
+温泉, 湯, お湯

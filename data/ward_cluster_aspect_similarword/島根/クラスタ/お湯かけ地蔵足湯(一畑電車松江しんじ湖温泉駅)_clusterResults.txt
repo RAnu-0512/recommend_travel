@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お湯かけ地蔵足湯(一畑電車松江しんじ湖温泉駅)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+足湯, 湯
+cluster1:(3)
+温泉街, 宍道湖温泉, 温泉
+cluster2:(21)
+足, 電車, 柄杓, 駅, タオル, 身体, 時間待ち, 所, 高温, 気持ち, 時間, 地蔵, かけ地蔵, 施設, バス, 祈願, 場所, 人, 体, 外れ, ハンドタオル
+cluster3:(6)
+しんじ湖温泉, 松江市, しんじ湖温泉駅, 一畑電車, 出雲大社, 松江しんじこ温泉駅
+
+howmany entities : 32
+howmany clusters : 4
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:とんぼ玉工房 いちの家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+値段, 予約
+cluster1:(1)
+コツ
+cluster2:(1)
+製作体験
+cluster3:(1)
+とんぼ玉
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

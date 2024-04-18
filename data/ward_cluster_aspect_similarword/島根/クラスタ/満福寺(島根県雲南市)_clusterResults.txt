@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:満福寺(島根県雲南市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雰囲気, 感じ
+cluster1:(1)
+周囲
+cluster2:(1)
+階段
+cluster3:(1)
+寺
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

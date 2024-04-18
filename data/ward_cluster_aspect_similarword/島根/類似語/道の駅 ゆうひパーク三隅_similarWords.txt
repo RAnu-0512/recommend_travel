@@ -1,0 +1,15 @@
+--------------------similar_words:道の駅 ゆうひパーク三隅--------------------
+top3 entities near to cluster0>>
+国道, 駅, 列車
+top3 entities near to cluster1>>
+土産, 景色, おみやげ
+top3 entities near to cluster3>>
+地元, 大勢, 人気
+top3 entities near to cluster4>>
+時間, 時分, 時
+top3 entities near to cluster6>>
+夕日, 絶景, 夕陽
+top3 entities near to cluster7>>
+三隅, ノド, 地方
+top3 entities near to cluster8>>
+食事, 軽食, 処

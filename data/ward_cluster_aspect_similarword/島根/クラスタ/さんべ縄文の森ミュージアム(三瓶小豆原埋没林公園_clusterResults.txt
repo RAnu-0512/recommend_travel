@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さんべ縄文の森ミュージアム(三瓶小豆原埋没林公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+展示館, 小展示室, 地下施設, 地下室, 地下展示館, 展示, 地下
+cluster1:(2)
+埋没林, 埋没林公園
+cluster2:(2)
+縄文, 縄文時代
+cluster3:(2)
+森, 森林
+cluster4:(2)
+幹, 大樹
+cluster5:(3)
+大木, 巨木, 樹木
+cluster6:(1)
+杉の巨木
+cluster7:(1)
+石見銀山
+cluster8:(4)
+火山, 保存塔, 噴火, 三瓶
+cluster9:(21)
+神秘, 感じ, 空間, 歴史, 姿, 状態, 営み, 原因, 興味, 価値, 温度, 迫力, ほう, 説明, ほか, こと, 空気, 発見, 尊厳, 自然, 角度
+cluster10:(10)
+古, 地上, 地中, 太古, 平成, 現代, 木, 整地, 古代, 昔
+cluster11:(22)
+ドーム, パンフレット, 雰囲気, 時間, 孫, 子供, 途中, ススメ, 話, ひとつ, 夏休み, 人, 下, 田んぼ, 切り株, 火山灰, ロマン, 目, 小学生, 中, 三瓶山, 入り口
+cluster12:(3)
+思い出日記, 化石, 教材
+cluster13:(2)
+交通, 便
+cluster14:(2)
+雨, 天気
+cluster15:(2)
+温泉, 観光
+cluster16:(3)
+所, 場所, 施設
+cluster17:(2)
+階段, 中腹
+cluster18:(1)
+小さなお子
+cluster19:(5)
+円筒状, 大きさ, 入場料, 雄大さ, 深さ
+cluster20:(1)
+三瓶小豆原埋没林公園
+
+howmany entities : 98
+howmany clusters : 21
+howmany entities (more than3entities) : 78
+howmany clusters (more than3entities) : 9
+deleted 20entities.

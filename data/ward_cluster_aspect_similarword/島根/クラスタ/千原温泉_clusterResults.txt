@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千原温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+スベスベ, 主人, あっちこっち, 気, 他, 感じ, ネット, アトピー, 話, ペットボトル, 一軒家, あと, 五右衛門, ポツン, 気持ち, 最後, 持参, 人, 炭酸泉, 日帰り, 方
+cluster1:(9)
+匂い, 効能, 火傷, 土色, 恐怖, 温度, 肌, 建物, 体
+cluster2:(4)
+山奥, 山, 道, 山道
+cluster3:(2)
+夏, 冬
+cluster4:(3)
+下, 奥, 足元
+cluster5:(3)
+階段, 壁, 扉
+cluster6:(1)
+仕切
+cluster7:(13)
+湯船, 化粧水, 脱衣場, 風呂, 浴槽, 泡, 皮膚病, お湯, 板, 底板, 炭酸, 場, 泡プクプク
+cluster8:(16)
+秘湯感, ラムネ系温泉, 小屋原温泉, 秘湯, 温泉水, 源泉, 湯治場温泉, 湯, 川沿い, 三瓶温泉, 山里集落, 女湯, 男湯, 又源泉, 温泉, 千原温泉
+
+howmany entities : 72
+howmany clusters : 9
+howmany entities (more than3entities) : 69
+howmany clusters (more than3entities) : 7
+deleted 3entities.

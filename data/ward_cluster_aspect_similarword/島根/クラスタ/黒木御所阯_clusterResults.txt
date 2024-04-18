@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒木御所阯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天皇家, 天皇
+cluster1:(2)
+御在所跡, 跡
+cluster2:(8)
+ところ, 後醍醐, こっち, 見晴らし, 場所, 夫婦, 方, 上
+cluster3:(4)
+丘, 景色, 島, 海
+cluster4:(1)
+隠岐
+cluster5:(5)
+西ノ島観光, 碧風館, 別府港, 後醍醐天皇の御在所, 観光船
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 5entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜田市三隅歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+民族資料館, 資料館
+cluster1:(2)
+二宮神社, 浜田市
+cluster2:(4)
+展示品, 歴史, 古文書, 勉強
+cluster3:(2)
+苅立横穴墓, 三隅歴史民俗資料館
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 6entities.

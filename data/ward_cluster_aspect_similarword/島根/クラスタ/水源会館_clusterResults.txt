@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水源会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+周り, ヤマタノオロチ
+cluster1:(1)
+事
+cluster2:(1)
+資料
+cluster3:(1)
+伝説
+cluster4:(1)
+龍
+cluster5:(1)
+水源公園
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

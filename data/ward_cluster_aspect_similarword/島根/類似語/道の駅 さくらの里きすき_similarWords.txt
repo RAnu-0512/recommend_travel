@@ -1,0 +1,17 @@
+--------------------similar_words:道の駅 さくらの里きすき--------------------
+top3 entities near to cluster0>>
+桜, 八重桜, 櫻
+top3 entities near to cluster1>>
+駐車, 土産, 車中
+top3 entities near to cluster3>>
+蕎麦, 出汁, 昼食
+top3 entities near to cluster4>>
+レジ, 棚, 物色
+top3 entities near to cluster5>>
+エゴマ, おばさん, コンビニ
+top3 entities near to cluster9>>
+施設
+top3 entities near to cluster12>>
+そば粉, 吹芋, そば
+top3 entities near to cluster13>>
+椎茸, 野菜, 乾物

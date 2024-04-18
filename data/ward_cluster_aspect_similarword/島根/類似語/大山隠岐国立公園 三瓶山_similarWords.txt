@@ -1,0 +1,37 @@
+--------------------similar_words:大山隠岐国立公園 三瓶山--------------------
+top3 entities near to cluster1>>
+遊び場, 子ども, 子供
+top3 entities near to cluster2>>
+コース, カフェ, トレッキング
+top3 entities near to cluster3>>
+麓, 山, ふもと
+top3 entities near to cluster4>>
+リフト, スキー
+top3 entities near to cluster5>>
+冷たい, 甘い, 厳しい
+top3 entities near to cluster9>>
+施設, 建物, 整備
+top3 entities near to cluster10>>
+土産, 売店, 訪問
+top3 entities near to cluster11>>
+片道, 往復, 距離
+top3 entities near to cluster12>>
+景色, 景観, 風景
+top3 entities near to cluster13>>
+天気, 天候, 大雨
+top3 entities near to cluster14>>
+緑色, 緑, 緑色
+top3 entities near to cluster16>>
+紅葉, 秋, 季節
+top3 entities near to cluster19>>
+山頂, 麓, 山
+top3 entities near to cluster20>>
+三瓶, サヒメル, 大山
+top3 entities near to cluster22>>
+登山, 山登り, ハイキング
+top3 entities near to cluster24>>
+山頂, 神社, 小屋
+top3 entities near to cluster28>>
+施設, 温泉, 公園
+top3 entities near to cluster29>>
+三, 五, 瓶

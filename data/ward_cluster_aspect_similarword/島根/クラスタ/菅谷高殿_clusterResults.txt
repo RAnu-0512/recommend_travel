@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菅谷高殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+博物館, 気, 知識, 中心, 説明, 話, 世界, 中, 全国, 原料, 職場, 場所, 方
+cluster1:(3)
+建物ナビゲーター, 立地, 建物
+cluster2:(2)
+居住地域, 自然環境
+cluster3:(14)
+もののけ姫, 玉鋼精製国, 土炉, 指定鉄, 製鉄, たたら製鉄, 砂鉄, 吉田町, 国指定文化財, 高殿, 操業 日本刀, 田部家, 覆屋, 山内
+cluster4:(3)
+菅谷たたら山内, 菅谷高倉, 重要有形民俗文化財
+
+howmany entities : 35
+howmany clusters : 5
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 4
+deleted 2entities.

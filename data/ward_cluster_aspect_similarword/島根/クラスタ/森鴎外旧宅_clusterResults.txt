@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森鴎外旧宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+森鴎外詩碑, 記念館, 鴎外記念館, 森鴎外記念館
+cluster1:(2)
+開口部, 居宅部
+cluster2:(3)
+鴎外, 森鴎, 森家
+cluster3:(3)
+夏, 桜, 季節
+cluster4:(8)
+津和野, 生まれ, 風通し, 歴史, 気持ち, 外, 人, 側
+cluster5:(4)
+感じ, 造り, 様子, もの
+cluster6:(1)
+家系
+cluster7:(4)
+部屋, 勉強部屋, 勉学, 子供たち
+cluster8:(2)
+駅, 津和野駅
+cluster9:(2)
+生家, 旧宅
+cluster10:(3)
+縁側, 座敷, 茶室
+cluster11:(7)
+別棟, 敷地, 自宅, 建物, 屋敷, 室内, 家
+cluster12:(1)
+広さ
+cluster13:(1)
+幼少期
+cluster14:(1)
+入場券
+cluster15:(4)
+藩医, 石州瓦, 茅葺, 津和野藩主
+
+howmany entities : 50
+howmany clusters : 16
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 9
+deleted 10entities.

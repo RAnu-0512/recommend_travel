@@ -1,0 +1,9 @@
+--------------------similar_words:奥出雲おろちループ--------------------
+top3 entities near to cluster0>>
+列車, 急行, 特急
+top3 entities near to cluster8>>
+旅, 土産, 道中
+top3 entities near to cluster9>>
+景色, 新緑, 紅葉
+top3 entities near to cluster10>>
+駅, 道路, 国道

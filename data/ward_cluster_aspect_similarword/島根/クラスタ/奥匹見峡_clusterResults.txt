@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥匹見峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+途中, 最後
+cluster1:(2)
+入口, 道
+cluster2:(1)
+大龍頭
+cluster3:(1)
+奥匹見峡
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

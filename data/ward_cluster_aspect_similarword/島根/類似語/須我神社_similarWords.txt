@@ -1,0 +1,15 @@
+--------------------similar_words:須我神社--------------------
+top3 entities near to cluster0>>
+垣, 八, 八重
+top3 entities near to cluster2>>
+山道, 山, 麓
+top3 entities near to cluster4>>
+発祥地, 発祥, 由緒
+top3 entities near to cluster6>>
+価値, 規模, 命
+top3 entities near to cluster7>>
+本社, 時間, 看板
+top3 entities near to cluster10>>
+神社, 境内, 本殿
+top3 entities near to cluster11>>
+宮, 之, 奥

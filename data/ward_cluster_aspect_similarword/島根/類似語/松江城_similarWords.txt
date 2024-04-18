@@ -1,0 +1,83 @@
+--------------------similar_words:松江城--------------------
+top3 entities near to cluster0>>
+直前, 時, 時期
+top3 entities near to cluster2>>
+国内, 全国, 各地
+top3 entities near to cluster3>>
+地元, 現地, 各地
+top3 entities near to cluster4>>
+時代, 昔, 明治
+top3 entities near to cluster6>>
+各階, 全階
+top3 entities near to cluster7>>
+入口, 正門, 入り口
+top3 entities near to cluster8>>
+周囲, 周り, 周辺
+top3 entities near to cluster9>>
+内部, 構造, 裏側
+top3 entities near to cluster10>>
+一段, 脇, また上
+top3 entities near to cluster11>>
+足腰, 負担
+top3 entities near to cluster12>>
+足石, 靴, 足
+top3 entities near to cluster13>>
+秋, 冬, 桜
+top3 entities near to cluster14>>
+見学, 案内, 散策
+top3 entities near to cluster15>>
+景色, 景観, 眺望
+top3 entities near to cluster16>>
+見応え, 見ごたえ, スリル
+top3 entities near to cluster19>>
+雰囲気, 気持ち, たたずまい
+top3 entities near to cluster20>>
+最上階, 手すり, お茶屋
+top3 entities near to cluster21>>
+ハート, もみじ, お守り
+top3 entities near to cluster28>>
+コンクリート, ボランティア, 護岸
+top3 entities near to cluster30>>
+イベント, 見どころ, スタッフ
+top3 entities near to cluster34>>
+ホテル, カフェ, トイレ
+top3 entities near to cluster35>>
+家族, 人々
+top3 entities near to cluster36>>
+建物, 町並み, 街並み
+top3 entities near to cluster37>>
+階段, 石段, 踏み段
+top3 entities near to cluster38>>
+上り, 登り
+top3 entities near to cluster40>>
+武士, 殿様, 忍者
+top3 entities near to cluster43>>
+狭間, 渦, 鉄砲
+top3 entities near to cluster44>>
+蕎麦屋, 蕎麦
+top3 entities near to cluster57>>
+迫力, 風情, 貫禄
+top3 entities near to cluster60>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster65>>
+駐車場, 駐車, 県庁
+top3 entities near to cluster68>>
+天守, 天守閣, 櫓
+top3 entities near to cluster71>>
+周遊船, 遊覧船, 遊覧, 周遊
+top3 entities near to cluster72>>
+国宝, 文化財, カリスマレジェンド
+top3 entities near to cluster75>>
+建物, 建築, 木造
+top3 entities near to cluster81>>
+城, 犬山, 名城
+top3 entities near to cluster82>>
+本丸門, 本丸, 三の丸
+top3 entities near to cluster83>>
+城, 城内, 城跡
+top3 entities near to cluster84>>
+戦国, 歴史, 時代
+top3 entities near to cluster85>>
+武家, 屋敷, 公家
+top3 entities near to cluster87>>
+城, 城跡, 城址

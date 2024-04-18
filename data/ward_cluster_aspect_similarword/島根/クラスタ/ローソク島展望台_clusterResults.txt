@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ローソク島展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ろうそく, ローソク
+cluster1:(3)
+ローソク岩, スポット, オススメ
+cluster2:(1)
+見応え
+cluster3:(1)
+写真
+cluster4:(4)
+様子, 眺め, 方, こと
+cluster5:(5)
+岩, 海岸, クネクネ道, 隠岐, 海
+cluster6:(2)
+遊覧船, 展望台
+cluster7:(1)
+ローソク島
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 7entities.

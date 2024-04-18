@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:えすこ 出雲大社前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+チャーム代, 玉, 石代, 石
+cluster1:(2)
+体験そのもの, 体験
+cluster2:(3)
+金額, 値段, 価格
+cluster3:(12)
+ブレスレット, ストラップ, 娘, それぞれ, 口コミ, 店, スタバ, スタッフ, 子供, ケース, スタイル, ビーズ
+cluster4:(2)
+余裕, 時間
+cluster5:(4)
+他, 中, 種類, 合計
+cluster6:(7)
+説明, 変更, 物, もの, 参考, ほう, こと
+cluster7:(1)
+大きさ
+cluster8:(1)
+出雲大社
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 6entities.

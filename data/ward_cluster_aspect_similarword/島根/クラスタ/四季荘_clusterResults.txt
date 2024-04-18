@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四季荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩室, サウナ室
+cluster1:(5)
+湯, 内湯, 入浴, 日帰り温泉, 温泉
+cluster2:(2)
+水風呂, サウナ
+cluster3:(3)
+すべすべ, ネット, 露天風呂
+cluster4:(1)
+人
+cluster5:(1)
+利用
+cluster6:(1)
+大人
+cluster7:(1)
+料金
+cluster8:(1)
+肌
+cluster9:(1)
+温度
+cluster10:(1)
+外気浴
+
+howmany entities : 19
+howmany clusters : 11
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 11entities.

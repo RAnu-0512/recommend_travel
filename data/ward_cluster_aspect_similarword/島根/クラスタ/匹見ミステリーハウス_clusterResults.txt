@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:匹見ミステリーハウス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+匹見峡, 匹見ミステリーハウス, 匹見, 島根県
+cluster1:(22)
+坂道, ミステリーハウス, メイズ, 見た目, スポット, 大人, 途端, 目, ミステリー, 中, 平衡感覚, 錯覚, 施設, ランズボローメイズ, 巨大迷路, ハウス, 建物, 子供, 迷路, トリック, 感覚, 家
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 0entities.

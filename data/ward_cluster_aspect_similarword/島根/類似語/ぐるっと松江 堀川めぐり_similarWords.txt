@@ -1,0 +1,59 @@
+--------------------similar_words:ぐるっと松江 堀川めぐり--------------------
+top3 entities near to cluster1>>
+武家, 屋敷, 商家
+top3 entities near to cluster6>>
+縄手, 鮮一郎, 平尾
+top3 entities near to cluster9>>
+から街, から
+top3 entities near to cluster11>>
+名城, 国宝, 天守閣
+top3 entities near to cluster12>>
+鳥, 野鳥, 水鳥
+top3 entities near to cluster13>>
+町並み, 街並み
+top3 entities near to cluster14>>
+天守閣, 城, 石垣
+top3 entities near to cluster15>>
+桜, 冬, 春
+top3 entities near to cluster16>>
+外堀, 内堀
+top3 entities near to cluster17>>
+濠, 昼, お昼
+top3 entities near to cluster18>>
+天気雨, 天気, 天候
+top3 entities near to cluster19>>
+駐車場, 広場, 駐車
+top3 entities near to cluster20>>
+散策, 景色, 風景
+top3 entities near to cluster21>>
+館, 工房, 写真
+top3 entities near to cluster22>>
+感性, 歌声, 人柄
+top3 entities near to cluster23>>
+味わう, 楽しい
+top3 entities near to cluster24>>
+雰囲気, アトラクション, 楽しい
+top3 entities near to cluster27>>
+感動, 驚き, 感激
+top3 entities near to cluster28>>
+勉強, 練習, 体験
+top3 entities near to cluster29>>
+案内, 利用, 移動
+top3 entities near to cluster30>>
+お話, お話し, 解説
+top3 entities near to cluster31>>
+女性人, 年配, 女性
+top3 entities near to cluster32>>
+靴, 足元, 足
+top3 entities near to cluster38>>
+時期, 季節, 種類
+top3 entities near to cluster42>>
+遊覧船, 船旅, 遊覧
+top3 entities near to cluster43>>
+駐車場, 広場, 駐車
+top3 entities near to cluster44>>
+乗船券, 乗車券, 乗車, 乗船
+top3 entities near to cluster45>>
+割引, 割引き, 割り引き
+top3 entities near to cluster46>>
+乗船, 下船, 出航

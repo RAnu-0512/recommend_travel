@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:釜井商店_レンタサイクル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+金額, 手続き, 目, 自転車, 車, 人, レンタサイクル, 他, 記載, 時間, 津和野, 手荷物, 前
+cluster1:(2)
+観光, 観光マップ
+cluster2:(2)
+津和野駅, 駅
+cluster3:(1)
+釜井商店
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 5entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奉納山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大社, 出雲大社
+cluster1:(2)
+浜, 稲佐
+cluster2:(6)
+クマバチ, 山, 組み合わせ, タイミング, ブンブン, 日本海
+cluster3:(3)
+途中, 時期, 上
+cluster4:(1)
+文句
+cluster5:(2)
+絶景, 光景
+cluster6:(5)
+車, 公園, 砂浜, 高台, 街
+cluster7:(1)
+展望台
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 8entities.

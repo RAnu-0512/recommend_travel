@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:代官所地役人旧河島家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+銀山, 石見街道, 代官所跡, 代官所, 石見銀山公園
+cluster1:(33)
+役人, 生活ぶり, 展示, 他, 武器, 遺宅, 地役人, 武士, 家柄, 斜め, 観光, 町並み交流センター, 付近, 内部, 河島家, 武家, 模造, 中, 熊谷家, 武具, 時間, 江戸後期, 武家屋敷, 大森地区, もの, 上級武士, 建物, 屋敷, 食事, 庭, 特徴, 先, 旧河島家
+
+howmany entities : 38
+howmany clusters : 2
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 2
+deleted 0entities.

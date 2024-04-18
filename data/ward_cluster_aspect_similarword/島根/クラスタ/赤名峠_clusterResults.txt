@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤名峠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+坂道, 凸凹
+cluster1:(4)
+昔, 県境, 広島, 側
+cluster2:(1)
+島根県
+cluster3:(1)
+砂利道
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

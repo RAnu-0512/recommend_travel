@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:資料室 はぜくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+資料室, 資料館
+cluster1:(3)
+雑貨, 神具, 蔵
+
+howmany entities : 5
+howmany clusters : 2
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 2entities.

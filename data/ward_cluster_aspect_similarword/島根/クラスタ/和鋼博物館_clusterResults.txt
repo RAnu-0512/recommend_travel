@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和鋼博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鉄, 刀
+cluster1:(2)
+途中, 中
+cluster2:(2)
+場所, こと
+cluster3:(1)
+手
+cluster4:(1)
+奥
+cluster5:(1)
+地
+cluster6:(13)
+博物館, 日本, 奥出雲, 歴史, 計画, 技術, 古事記, プロセス, バス, 建物, 人, 旅, 日本海
+cluster7:(1)
+総合博物館
+cluster8:(2)
+体験クラス, 体験
+cluster9:(2)
+興味, 価値
+cluster10:(2)
+勉強, 眺め
+cluster11:(7)
+刀剣館, 展示, 展示物, 刀剣, 展示室, 展示品, 絲原記念館
+cluster12:(14)
+出雲地区, 和鋼博物館, JR安来駅, たたら製鉄, 製鉄, 玉鋼, 鋼, スポット日本の伝統的製鉄法, 出雲, 神大橋, 安来駅, 出雲大社, 和鋼, 製鉄法
+
+howmany entities : 50
+howmany clusters : 13
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 3
+deleted 16entities.

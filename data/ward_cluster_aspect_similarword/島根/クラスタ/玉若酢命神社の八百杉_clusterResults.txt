@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉若酢命神社の八百杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+力, 迫力
+cluster1:(7)
+感じ, 姿, 変化, 気, 思い, こと, 方
+cluster2:(3)
+台風, 道路際, 被害
+cluster3:(2)
+パワー, パワースポット
+cluster4:(4)
+アクセス, 通行止め, レンタサイクル, レンタカー
+cluster5:(2)
+見ごたえ, あたり
+cluster6:(1)
+サイズ
+cluster7:(1)
+ルート
+cluster8:(3)
+佇まい, トイレ, 手入れ
+cluster9:(1)
+屋久島
+cluster10:(1)
+島
+cluster11:(15)
+一角, 歴史, 世界, 人間, 名, 時代, 写真, 道, 昔, 場所, 近く, 車, 東側, 人々, 中
+cluster12:(1)
+上部
+cluster13:(3)
+大きさ, 太さ, 存在感
+cluster14:(3)
+観光バス, ツアー観光, 駐車場
+cluster15:(2)
+幹, 幹周り
+cluster16:(3)
+神秘, 自然博物館, 自然
+cluster17:(2)
+大木, 巨木
+cluster18:(2)
+枝, 木
+cluster19:(2)
+平安, 布施
+cluster20:(1)
+樹齢
+cluster21:(1)
+御神木
+cluster22:(11)
+参道, 境内, 創建, 年月, 本殿, 奥の神社, 拝殿, 由緒, 随神門, 鳥居, 神社
+cluster23:(16)
+隠岐, 老舗杉, 西郷港, 乳房杉, 隠岐道, 銚子ダム, 屋久杉, 玉若酢命神社, 八百杉, かぶら杉, 隠岐三大杉, 杉の木, 隠岐自然博物館, 老杉, 西郷, 杉
+
+howmany entities : 89
+howmany clusters : 24
+howmany entities (more than3entities) : 68
+howmany clusters (more than3entities) : 10
+deleted 21entities.

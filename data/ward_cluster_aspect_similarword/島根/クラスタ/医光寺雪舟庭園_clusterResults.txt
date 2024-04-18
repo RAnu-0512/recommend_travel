@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:医光寺雪舟庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+シダレザクラ, ツツジ, 趣, 花, 刈り込み, 中, 萬福寺, 方
+cluster1:(7)
+本堂, 石組, 裏山, 庭園, 斜面, 池, 庭
+cluster2:(2)
+亀島, 枡田
+cluster3:(4)
+雪舟庭園, 雪舟, 医光寺, 画聖雪舟作
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 2entities.

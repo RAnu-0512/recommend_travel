@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野町_主水畑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+面影, 歳月
+cluster1:(6)
+山あい, 幕末, 雰囲気, 片手, 津和野, 様子
+cluster2:(2)
+像, 絵図
+cluster3:(3)
+津和野今昔, 津和野藩, 観光スポット
+cluster4:(3)
+景図, 津和野百景図, 栗本格齋
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 4entities.

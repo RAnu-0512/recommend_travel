@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永明寺_もみじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+組み合わせ, スポット
+cluster1:(2)
+もみじ, モミジ
+cluster2:(1)
+日本
+cluster3:(1)
+紅葉
+cluster4:(1)
+寺
+cluster5:(1)
+木
+cluster6:(1)
+美しさ
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

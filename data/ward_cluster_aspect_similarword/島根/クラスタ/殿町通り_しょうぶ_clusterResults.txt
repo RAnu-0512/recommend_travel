@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:殿町通り_しょうぶ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白壁・商屋, お土産屋
+cluster1:(3)
+建築物, 通行車両, 観光客
+cluster2:(2)
+注意, 前き
+cluster3:(13)
+津和野, メイン, 城下町, 間, 食べ物, 脇, 姿, 店, 意外, 中, ライト, しょうぶ, 上り
+cluster4:(1)
+足音
+cluster5:(11)
+錦鯉, 役場, 殿町, 堀, 水路, 掘割, 和風, 鯉, 津和野大橋, 津和野駅, エサ
+cluster6:(1)
+沙羅の木
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 6entities.

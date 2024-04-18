@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みなり遊園地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供達, 子供たち
+cluster1:(2)
+大人, 子供
+cluster2:(3)
+全員, 家族, 人
+cluster3:(12)
+ところ, エリア, 子, 目玉, 尻, メイン, 滑り台, ローラー滑り台, こども, 小学生, 運動公園, ダンボール
+cluster4:(6)
+感じ, スポーツ施設, 空気, ローラー式, 場所, こと
+cluster5:(1)
+混雑
+cluster6:(1)
+出雲町
+cluster7:(11)
+休憩室, 公園, 競技場エリア, 休憩, 遊具施設, 芝生広場, 休憩所, 公園家, 野球場, 遊具, みなり公園
+cluster8:(4)
+遊園地エリア, 遊園地, 島根県奥出雲のみなり公園, 遊園地っぽく
+
+howmany entities : 42
+howmany clusters : 9
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 6entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雪舟の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+保育園, ところ, 他
+cluster1:(2)
+墓, 墓碑
+cluster2:(1)
+雪舟
+cluster3:(1)
+雪舟の郷記念館
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

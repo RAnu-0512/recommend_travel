@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:月照寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+あじさい寺, 寺, 敷地, 遺跡, 境内, 廟所, 鐘楼, 信仰, 墓
+cluster1:(2)
+茶道, 菓子
+cluster2:(2)
+亀, 松江
+cluster3:(3)
+雪, 重み, 静寂
+cluster4:(12)
+松江城, 歴史, 紫陽花, 事, アジサイ, 菩提寺, もの, 次回, 街, 場所, 人, 眺め
+cluster5:(1)
+真殿
+cluster6:(2)
+月照寺, 唐門
+cluster7:(7)
+不昧公, 日本庭園, 拝観料, 小泉八雲, 松平家, 松江藩主, 大名庭園
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 4
+deleted 7entities.

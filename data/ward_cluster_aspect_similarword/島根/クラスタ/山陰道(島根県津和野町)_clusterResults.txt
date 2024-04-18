@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山陰道(島根県津和野町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+景色, 街道, 国道
+cluster1:(3)
+下関, 京都, 山口県
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 0entities.

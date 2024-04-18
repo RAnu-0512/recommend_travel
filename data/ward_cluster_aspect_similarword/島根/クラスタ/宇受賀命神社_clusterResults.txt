@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇受賀命神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+守護神, 途中, 歴史, 風情, 田んぼ, 前, 存在
+cluster1:(2)
+神社, 宇受賀命
+cluster2:(1)
+鎮守
+cluster3:(2)
+明屋海岸, 菱浦
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

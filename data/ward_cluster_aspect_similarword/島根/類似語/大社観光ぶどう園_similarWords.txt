@@ -1,0 +1,15 @@
+--------------------similar_words:大社観光ぶどう園--------------------
+top3 entities near to cluster0>>
+葡萄, 狩り, ぶどう
+top3 entities near to cluster1>>
+種類, 金額
+top3 entities near to cluster3>>
+人達, 言葉
+top3 entities near to cluster4>>
+天気雨, 天気, 雨降り
+top3 entities near to cluster5>>
+ぶどう, ブドウ, ピオーネ
+top3 entities near to cluster8>>
+ハウス, 事務所, スタッフ
+top3 entities near to cluster10>>
+子供, 子ども, 家族

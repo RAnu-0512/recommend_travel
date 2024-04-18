@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉若酢命神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+一宮水若酢神社, 水若酢, 玉若酢命神社, 水若酢命, 玉若酢命
+cluster1:(19)
+神社, 建築物, 日本, 屋根, 歴史, 檜皮葺, 建築, 正面, 衝撃, 厚み, 雰囲気, 隠岐, 本殿, 様式, 見え方, 問題, 隠岐造り, 隠岐独特, 森
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 0entities.

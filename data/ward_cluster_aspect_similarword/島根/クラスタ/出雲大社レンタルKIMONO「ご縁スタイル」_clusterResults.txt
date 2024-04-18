@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲大社レンタルKIMONO「ご縁スタイル」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+着物レンタル, 着物, ヘアセット, おしゃれ着物
+cluster1:(22)
+着, 経験, 心配, 柄, オプション, テンション, 姿, 着付け, サイズ, キャッシュレス, 襟, 雰囲気, 笑, スタッフ, こと, 種類, レンタル, 体, 方, 心, 気楽, 子ども
+cluster2:(2)
+主人, 夫
+cluster3:(2)
+親子, 夫婦
+cluster4:(1)
+子ども連れ
+cluster5:(1)
+真夏
+cluster6:(1)
+出雲大社
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 7entities.

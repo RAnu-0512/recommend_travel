@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香木の森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+サクランボ狩り, ブルーベリー狩り
+cluster1:(9)
+土産, 栽培, クラフト館, 配置, 売店, 販売, 食事, 看板, 温泉
+cluster2:(4)
+季節, 花, 庭, 植物
+cluster3:(3)
+園内, 道路, 公園
+cluster4:(13)
+ところ, バンガロー, ハーブガーデン, とりどり, 男, 奥, ソフトクリーム, ハーブ, 子供, 緑, 自然, アスレチック, 森
+cluster5:(1)
+多種
+cluster6:(1)
+香木
+cluster7:(1)
+予備知識
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 4
+deleted 5entities.

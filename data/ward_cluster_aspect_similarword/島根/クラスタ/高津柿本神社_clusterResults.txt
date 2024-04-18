@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高津柿本神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+県立万葉公園, 森は県立万葉公園
+cluster1:(2)
+神社仏閣巡り, 高津柿本神社
+cluster2:(2)
+階段, 階段下
+cluster3:(13)
+歌人, 名前, 歌, 万葉集, こと, もの, 柿本人麻呂, 場所, 手洗い, 地, 御朱印, 近く, 像
+cluster4:(3)
+沖, 津波, コロナ禍
+cluster5:(2)
+防火, 安産
+cluster6:(8)
+楼門, 神社, 人丸神社, 本殿, 境内, 仏閣, 駐車場, 万葉公園
+cluster7:(4)
+石見, 益田市, 人麻呂, 島根県
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 8entities.

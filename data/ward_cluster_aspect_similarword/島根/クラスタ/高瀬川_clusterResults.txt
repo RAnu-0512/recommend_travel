@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高瀬川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+農業用水, 灌漑用水路, 農業用水路
+cluster1:(2)
+生活用水, 防火用水
+cluster2:(2)
+友達同士, 家族連れ
+cluster3:(6)
+感じ, 独特, 生活, 風情, 流れ, 音
+cluster4:(2)
+周囲, 周り
+cluster5:(5)
+店, 街, 街並み, 町並み, 場所
+cluster6:(11)
+ところ, メインストリート, 高瀬川, 高瀬舟, スポット, カフェ, オススメ, マイナスイオン, 雰囲気, 気持ち, 人
+cluster7:(6)
+散策, 風景, 光景, 景色, 景観, 散歩
+cluster8:(20)
+川, 駅, JR, 周辺, 水, 河岸, 伊豆, 水路, 柳, 徒歩, 木, 河川, 中心部, 大梶七兵衛, 市, し川, 川岸, 北, 中央, 私財
+cluster9:(11)
+柳並木, 並木, なぎ並木, 出雲市街, 出雲市街地, 東西に流れる川, 出雲市駅, 川沿い, 出雲, 残り川沿い, 島根県
+
+howmany entities : 68
+howmany clusters : 10
+howmany entities (more than3entities) : 62
+howmany clusters (more than3entities) : 7
+deleted 6entities.

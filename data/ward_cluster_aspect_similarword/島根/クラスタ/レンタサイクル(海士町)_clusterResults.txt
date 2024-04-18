@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レンタサイクル(海士町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+シティサイクル, レンタサイクル, 炎天下, 体力, 帰り, 道, 時間ロス
+cluster1:(3)
+隠岐神社, 明屋海岸, 海士町
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 0entities.

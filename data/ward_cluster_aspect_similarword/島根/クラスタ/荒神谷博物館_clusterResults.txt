@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒神谷博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+神谷博物館, 荒神谷遺跡, 荒神谷博物館
+cluster1:(2)
+銅矛, 矛
+cluster2:(2)
+ハス, ハス畑
+cluster3:(2)
+古代蓮, 古代人
+cluster4:(2)
+出雲歴史博物館, 古代出雲
+cluster5:(1)
+JR荘原駅
+cluster6:(30)
+博物館, 日本, ショップ, 移動, 大型スクリーン, 説明, 様子, 精巧, 本物, 経緯, ストラップ, グッズ, 公園, 時代, 荒, イベント, 剣, 見応え, 専門博物館, 遺跡, 体験, 形, 模型, きっかけ, 物, 服装, 状況, 場所, 資料, 方
+cluster7:(2)
+一般公開, 重さ
+cluster8:(17)
+調査発掘, 銅剣, 展示, 改修工事, 古墳時代, 発掘, 発見, 史跡博物館, 作業員, 青銅, 展示スペース, 展示室, 出土状況, 銅鐸, 展示品, 出土, 出土品
+cluster9:(1)
+島根県立古代出雲歴史博物館
+
+howmany entities : 62
+howmany clusters : 10
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 3
+deleted 12entities.

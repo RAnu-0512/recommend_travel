@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:医光寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+益田駅, 益田城, 益田市, 益田家
+cluster1:(2)
+医光寺, 最終停車場
+cluster2:(19)
+夏, 訪問, 朱印, 園内, 市街, 寺, 本堂, 説明, 寺院, 雪舟庭園, 総門, 雪舟, 雰囲気, 庭園, バス, 禅師, 萬福寺, 御朱印, 近く
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 2entities.

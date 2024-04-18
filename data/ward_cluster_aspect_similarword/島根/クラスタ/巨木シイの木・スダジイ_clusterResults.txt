@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巨木シイの木・スダジイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+巨木, 八雲町, スダジイ, 志多備神社, 椎, 鳥取県, 樹齢, 日本, 樹高, 葉っぱ, 木, シイ
+cluster1:(2)
+伯耆の大シイ, 東西約17m
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐毘売山神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+階段, 石段, 電動自転車, 本殿
+cluster1:(17)
+途中, エリア, 散策, 注意, 危険, 出口, 安全, 採掘, 守り神, 見所, 鉱山, 近郊, 神, 地元, 場所, 思い, 近く
+cluster2:(4)
+山神様, 方たち, 人たち, 龍源寺間歩
+cluster3:(3)
+金山彦命, 銀山, 石見銀山
+cluster4:(1)
+佐毘売山神社
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 1entities.

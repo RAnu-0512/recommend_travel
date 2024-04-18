@@ -1,0 +1,35 @@
+--------------------similar_words:小泉八雲記念館(島根県松江市)--------------------
+top3 entities near to cluster0>>
+館, 記念, 記念碑
+top3 entities near to cluster2>>
+小泉, 館, 記念
+top3 entities near to cluster5>>
+学問, 研究, 勉強
+top3 entities near to cluster9>>
+朗読, 原稿, 英訳
+top3 entities near to cluster11>>
+民話, 雪女, 文豪
+top3 entities near to cluster12>>
+施設, 設備, 館内
+top3 entities near to cluster13>>
+著作者, 同行者, 著作, 同行
+top3 entities near to cluster16>>
+歴史, 年表, 人物
+top3 entities near to cluster19>>
+興味, 価値, 関心
+top3 entities near to cluster21>>
+一種, 一端, 共通
+top3 entities near to cluster22>>
+資料, 映像, 解説
+top3 entities near to cluster25>>
+明治, 士族, 大正
+top3 entities near to cluster26>>
+帰化, 国籍, 移民
+top3 entities near to cluster27>>
+世界国, 各地, 世界
+top3 entities near to cluster32>>
+館, 文学, 資料
+top3 entities near to cluster33>>
+展示, 収蔵, 出展
+top3 entities near to cluster34>>
+屋敷, 武家, 怪談

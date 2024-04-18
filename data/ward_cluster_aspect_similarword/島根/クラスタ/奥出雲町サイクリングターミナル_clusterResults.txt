@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥出雲町サイクリングターミナル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出雲三成駅, 出雲大社
+cluster1:(5)
+城下町松江, 出雲町, JR木次線, 出雲, 島根
+cluster2:(6)
+宿泊, 研修, 合宿, 施設, 紅葉, 観光スポット
+cluster3:(10)
+神話, 奥出雲, サイクリングターミナル, 歴史, 徒歩, 奥, 気分, 自転車, レンタサイクル, アイテム
+cluster4:(1)
+公共宿泊施設
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 3entities.

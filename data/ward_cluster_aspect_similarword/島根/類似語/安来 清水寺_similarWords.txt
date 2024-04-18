@@ -1,0 +1,25 @@
+--------------------similar_words:安来 清水寺--------------------
+top3 entities near to cluster0>>
+御朱印, お参り, お寺
+top3 entities near to cluster4>>
+庭園, 中庭, 園内
+top3 entities near to cluster7>>
+境内, お寺, 寺院
+top3 entities near to cluster8>>
+駐車場, 料理, 駐車
+top3 entities near to cluster9>>
+風情, 風格, 面影
+top3 entities near to cluster10>>
+紅葉, 景色, 景観
+top3 entities near to cluster11>>
+石段, 階段, 欄干
+top3 entities near to cluster12>>
+建物, 旅館, 宿
+top3 entities near to cluster14>>
+羊羹, 抹茶, 羊かん
+top3 entities near to cluster15>>
+山, 杉, 麓
+top3 entities near to cluster16>>
+猫, 狛犬, 炬燵
+top3 entities near to cluster18>>
+参拝, 参詣, 拝観

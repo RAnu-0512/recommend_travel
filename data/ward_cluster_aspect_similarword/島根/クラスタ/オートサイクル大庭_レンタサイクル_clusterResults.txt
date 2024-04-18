@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オートサイクル大庭_レンタサイクル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天気, 気分
+cluster1:(1)
+風
+
+howmany entities : 3
+howmany clusters : 2
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 3entities.

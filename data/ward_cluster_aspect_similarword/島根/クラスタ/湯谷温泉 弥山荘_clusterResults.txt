@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯谷温泉 弥山荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+二酸化炭素・鉄・ナトリウム, 泉質
+cluster1:(14)
+文字, 屈指, ラーメン, オジサンオバサン, 理由, ノート, 違いガラリ, 雰囲気, 全国, シダックス, 地元, 人, 日帰り, 来客
+cluster2:(3)
+温泉施設, 県道, 温泉
+cluster3:(1)
+箸袋
+cluster4:(1)
+猪カツ定食
+cluster5:(1)
+天然炭酸塩泉
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 5entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:セルフトータルビューティサロン Bika>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+友人, 思い出, 知識, 何か, 説明, 対応, プレゼント, 記念, 思い出作り, 店員, 体験, 時間, スタッフ, 好み, 方
+cluster1:(6)
+匂い, 香りづくり, 香水づくり体験, 香水作り, 香り, 香水
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 0entities.

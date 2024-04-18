@@ -1,0 +1,25 @@
+--------------------similar_words:善光寺(島根県松江市)--------------------
+top3 entities near to cluster0>>
+霊場, 観音, 札所
+top3 entities near to cluster5>>
+時代, 末期, 初期
+top3 entities near to cluster9>>
+言動, 人柄, 性格
+top3 entities near to cluster11>>
+風格, 風情, 迫力
+top3 entities near to cluster14>>
+飲食店, 店舗, 飲食
+top3 entities near to cluster16>>
+家臣, 祖先, 所縁
+top3 entities near to cluster17>>
+木, 46, 土
+top3 entities near to cluster20>>
+金銅, 造, 立像
+top3 entities near to cluster22>>
+参拝, 参詣, お参り
+top3 entities near to cluster24>>
+本尊, 開帳, 臨滅
+top3 entities near to cluster25>>
+立像, 座像
+top3 entities near to cluster26>>
+本堂, 寺, 境内

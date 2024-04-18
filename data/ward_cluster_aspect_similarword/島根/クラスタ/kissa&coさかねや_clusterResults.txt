@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:kissa&coさかねや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+返却時間, 予約画面
+cluster1:(2)
+体験, 和菓子体験
+cluster2:(2)
+先生, 指導
+cluster3:(2)
+手本, 見本
+cluster4:(1)
+教え方
+cluster5:(7)
+親, 家族, 娘, 孫, 子供, 夫婦, 小さい子
+cluster6:(14)
+利用, 感じ, 対応, 関係, 残り, 中, 形, 最後, 時間, もの, 今回, 場, 方, こと
+cluster7:(3)
+ウケ, 旅行, 土産
+cluster8:(3)
+レンタカー, クーポン, タクシー
+cluster9:(2)
+ドリンク, 飲み物
+cluster10:(2)
+カフェ, コーヒー
+cluster11:(2)
+和菓子, 年寄り
+cluster12:(4)
+お薦め, 仕組み, 口コミ, 作り方
+cluster13:(4)
+箱, 季節, 抹茶, お花
+cluster14:(1)
+鶯
+cluster15:(7)
+職人, 和菓子好きの孫, 菓子作り, 和菓子作り, 菓子, 練り切, 和菓子屋
+cluster16:(4)
+出雲, しまねプレミアム観光券, 出雲大社, 島根
+
+howmany entities : 62
+howmany clusters : 17
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 8
+deleted 16entities.

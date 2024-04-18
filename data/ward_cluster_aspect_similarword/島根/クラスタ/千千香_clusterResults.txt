@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千千香>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+スタッフ接客, 接客態度, 接客応対
+cluster1:(4)
+古民家, 晩飯, 煮魚, 唐揚げ
+cluster2:(2)
+川下り, 川
+cluster3:(3)
+品, 値段, 価格
+cluster4:(12)
+気, 興味, 利用, 対応, 内容, 事, 中, 物, もの, 思い, 方, 上
+cluster5:(7)
+満腹, 宴会, 食事どころ, 味, 世話, 料理, 食事
+cluster6:(3)
+BBQ, サップ, SUP
+cluster7:(2)
+ダーツ, ボール
+cluster8:(11)
+コース, ダイビング, アクティビティ, マウント, レベル, スタッフ, パサパサ, サービス, インストラクター, カード, カヤック
+cluster9:(1)
+残り物
+cluster10:(16)
+友人, 夏, 世代, GW, 民宿, 部屋, 女性, 空間, 水上, 近く, ファミリー層, 田舎, 家内, 地元, 温泉, 畳
+cluster11:(8)
+孫たち, 初体験, 安全面, 体験, 島根旅行, 孫, 満足度, 息子夫婦
+
+howmany entities : 72
+howmany clusters : 12
+howmany entities (more than3entities) : 67
+howmany clusters (more than3entities) : 9
+deleted 5entities.

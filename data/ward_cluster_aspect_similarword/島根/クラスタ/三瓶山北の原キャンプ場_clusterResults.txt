@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三瓶山北の原キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+一般サイト, 集団サイト
+cluster1:(7)
+林, 車, ログハウス風, オートキャンプサイト, ケビン, テント, 三瓶山
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:潮温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+湯船, 風呂, 湯, お湯, 日帰り温泉, 長湯, 温泉
+cluster1:(3)
+線路, 本数, 列車
+cluster2:(2)
+川, 江
+cluster3:(4)
+予約, 廃止, 世話, 絡み
+cluster4:(8)
+農産物, 絶景, ランチバイキング, メニュー, 三江線, 地元, バイキング, おかず
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 2entities.

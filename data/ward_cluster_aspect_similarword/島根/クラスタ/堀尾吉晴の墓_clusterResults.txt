@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堀尾吉晴の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+厳倉寺, 月山富田城
+cluster1:(5)
+墓所, 堀尾吉晴, 奥, 墓, 境内
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 2entities.

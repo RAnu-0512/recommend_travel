@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:断魚渓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+下, 階段, 別, 脇, 千畳敷, ゲスト, 目, 香港, 名, 場所
+cluster1:(3)
+新緑, 青空, 紅葉
+cluster2:(4)
+車, 道路, 景観, 自然
+cluster3:(3)
+川, 河原, 渓谷
+cluster4:(4)
+太陽, 光, 岩, 魚
+cluster5:(4)
+観光客, 仮説道, 美しさ, 駐車場
+cluster6:(1)
+断魚渓
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 6
+deleted 1entities.

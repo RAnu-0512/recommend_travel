@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みろく公園しだれ桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜, しだれ桜
+cluster1:(5)
+時期, 公園, 小さな子, 多く, 大人
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 2entities.

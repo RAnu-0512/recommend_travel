@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瑞穂ハンザケ自然館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+オオサンショウウオ, 天然記念物, ハンザケ, ところ, ハンザ
+cluster1:(2)
+地元, 日本
+cluster2:(1)
+看板
+cluster3:(3)
+愛嬌, 事, 気
+cluster4:(1)
+実物
+cluster5:(1)
+ケ
+cluster6:(1)
+入場
+cluster7:(1)
+水槽
+cluster8:(1)
+固有種
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 8entities.

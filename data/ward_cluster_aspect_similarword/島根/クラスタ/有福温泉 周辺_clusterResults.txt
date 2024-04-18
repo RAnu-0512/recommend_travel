@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有福温泉 周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+贅沢, 到着, 有福温泉
+cluster1:(3)
+肌, お湯, 風呂
+cluster2:(1)
+温泉街
+cluster3:(1)
+入浴料
+cluster4:(1)
+無色透明
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

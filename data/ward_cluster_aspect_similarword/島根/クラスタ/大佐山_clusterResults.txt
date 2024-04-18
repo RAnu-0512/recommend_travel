@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大佐山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天気, 風景
+cluster1:(8)
+ゲレンデ, リフト, コース, 初心者, カレー, サイト, 前, 孫
+cluster2:(2)
+横幅, 駐車場
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

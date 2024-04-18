@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山中鹿介銅像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+武将, 銅像, 毛利, 尼子, 再興, 戦国時代
+cluster1:(2)
+月山富田城, 山中鹿介
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 2entities.

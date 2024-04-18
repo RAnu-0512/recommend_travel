@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スクモ塚古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+造り出し, 径, 周り, 住宅街, 大型
+cluster1:(3)
+スクモ塚古墳, 方墳, 円墳
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲キルト美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建物, 家屋
+cluster1:(4)
+キルト, キルト美術館, 布, 手作りキルト
+cluster2:(6)
+雰囲気, 日本, キルト作品, 作品, 展示, もの
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

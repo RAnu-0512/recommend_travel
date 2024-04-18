@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:筆投島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+横, 日御碕, 車, 方, 路肩
+cluster1:(2)
+説明板, 狭い上
+cluster2:(1)
+筆投島
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

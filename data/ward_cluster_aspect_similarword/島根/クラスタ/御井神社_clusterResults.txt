@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御井神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+須世理姫, 神奈, 八上姫, 八上姫命, 御井神(みいのかみ, 八上姫大神
+cluster1:(17)
+神社, 臨月, 姫, 玉, 水, 里, お子, 利益, 祭神, オオクニヌシ, 守護神, 安産, 御子, 井戸, 地, 安産祈願, 息子
+cluster2:(9)
+出雲市, 木俣神, 麓直江, 木俣, 斐川町, 出雲大社, 御井神社, 木俣大神, 島根県
+
+howmany entities : 32
+howmany clusters : 3
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 3
+deleted 0entities.

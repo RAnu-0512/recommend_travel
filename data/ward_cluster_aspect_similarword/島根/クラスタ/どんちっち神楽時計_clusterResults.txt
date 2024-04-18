@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:どんちっち神楽時計>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+どんちっち, どんどんちっちどんちっち
+cluster1:(4)
+代表作, 玄関口, 旅行者, 旅行
+cluster2:(14)
+由来, 写真, カラクリショー, からくり, インパクト, シンボル, 動き, 意味, もの, 地元, 場所, スルー, 方, 近く
+cluster3:(2)
+下段, 頂
+cluster4:(5)
+出張, 駅, JR, 青春, 出発
+cluster5:(10)
+神楽, 大蛇, 演者, 笛, 神, 人形, カラクリ人形, 囃子, 太鼓, 島根
+cluster6:(5)
+カラクリ神楽時計, 神楽時計〟, 時計, からくり時計, カラクリ時計
+cluster7:(3)
+石見神楽, 浜田市, 浜田駅
+
+howmany entities : 45
+howmany clusters : 8
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 6
+deleted 4entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒松海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海水浴場, 黒松海水浴場
+cluster1:(6)
+子供たち, 海岸, シャワー, 黒松, 海, 波
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 2entities.

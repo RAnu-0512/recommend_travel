@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 キララ多岐>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+休憩室, 海水浴場, 駐車場
+cluster1:(15)
+鑑賞, 駅, レストラン, 日没, 理由, 海岸, 椅子テーブル, 菓子, パン屋, そば, 海鮮たこ焼き, 道, 夕日, 日本海, 方
+cluster2:(1)
+お土産もの屋
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 1entities.

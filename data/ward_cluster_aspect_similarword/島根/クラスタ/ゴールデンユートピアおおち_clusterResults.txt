@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゴールデンユートピアおおち>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+温泉施設, 家族旅行, 宿泊施設, 宿泊, 姉妹施設, 多目的施設, 施設, 廃線間際, 温泉, レジャー施設, 総合施設
+cluster1:(2)
+里おおち, ゴールデンユートピアおおち
+cluster2:(3)
+プール扱い, 利用, 乗車
+cluster3:(9)
+レストラン, スポット, トランポリン, 夏休み, 中, アウトドアスポーツ, 気持ち, プール, 三江線
+cluster4:(2)
+自然, 室内
+cluster5:(2)
+実家, 食事
+cluster6:(1)
+スパ
+cluster7:(5)
+所, 事, 物, 年齢, 仕方
+cluster8:(3)
+民営, 遊具, 人員
+cluster9:(3)
+清潔感, 温水, 温水プール
+
+howmany entities : 41
+howmany clusters : 10
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 6
+deleted 7entities.

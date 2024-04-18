@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乗光寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+庭園, 寺
+cluster1:(3)
+夕方, 中, 日本
+cluster2:(2)
+光景, 風情
+cluster3:(1)
+美しさ
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

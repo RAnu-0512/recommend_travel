@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:斐伊川堤防桜並木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木次駅, 島根県
+cluster1:(2)
+目的地, 駐車場
+cluster2:(6)
+日本, 人, 多く, 今回, 方, 近く
+cluster3:(8)
+トンネル, メインストリート, スポット, 河川敷, ピンク色, トイレ, 三刀屋, 桜並木
+cluster4:(3)
+下, 木, 頭上
+cluster5:(1)
+ツーリングよっつめ
+cluster6:(4)
+並木, 桜, 桜祭り, 満開
+cluster7:(5)
+祭り, 風景, 観光, 屋台, 天気
+cluster8:(3)
+砂, 土手, 堤防
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 6
+deleted 5entities.

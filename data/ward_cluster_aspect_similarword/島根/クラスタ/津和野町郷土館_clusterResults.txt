@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野町郷土館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+古代縄文時代, 縄文時代
+cluster1:(16)
+象徴, 津和野城, 後世, 津和野, 殿町, 現代, 掘割, 歴史, 県, 観光, 見所, カトリック教会, 街並み, 場所, 鯉, 土塀
+cluster2:(4)
+歴史資料, 郷土, 郷土歴史博物館, 文化遺産
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 2entities.

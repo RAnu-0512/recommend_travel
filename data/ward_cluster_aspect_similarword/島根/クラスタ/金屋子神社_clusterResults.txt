@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金屋子神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+本山, 隣, 空気, 歴史, 全国, 沢山, 信仰, 方, 佇まい, 現代
+cluster1:(3)
+製鉄関係, 冶金関係者, たたら製鉄
+cluster2:(3)
+かねもち神社, 鉄の神, 金屋子神社
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 0entities.

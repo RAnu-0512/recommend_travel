@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宍道湖サービスエリア(上り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩, トイレ休憩
+cluster1:(8)
+サービスエリア, 柱, パネル, 色合い, 写真, トイレ, 顔, 宍道湖
+cluster2:(2)
+景色, 景観
+cluster3:(2)
+天気, 好天
+cluster4:(4)
+環壕, お土産屋, 山陰道, 島根県
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 6entities.

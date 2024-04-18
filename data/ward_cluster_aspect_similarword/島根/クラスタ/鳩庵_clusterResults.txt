@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳩庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+銀, 純度, シルバーリング, ペア, リング, シルバー, 指輪
+cluster1:(4)
+体験, 時間, 場所, 方
+cluster2:(2)
+主人, 夫婦
+cluster3:(3)
+店内, 店, 店主
+cluster4:(1)
+コロナ対策
+cluster5:(1)
+作業時間
+cluster6:(1)
+シルバーリング作り体験
+cluster7:(1)
+駐車場
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 6entities.

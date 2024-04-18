@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たたら角炉伝承館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+方, 感じ
+cluster1:(1)
+リアルさ
+cluster2:(2)
+職人, 子供
+cluster3:(1)
+管理人
+cluster4:(1)
+穴場
+cluster5:(1)
+顔写真
+cluster6:(1)
+駐車場
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

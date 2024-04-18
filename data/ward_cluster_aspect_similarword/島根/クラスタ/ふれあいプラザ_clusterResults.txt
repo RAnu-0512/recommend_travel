@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふれあいプラザ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+らさぎ館内, 夢ランドしらさぎ, 夢ランドしらさぎの温泉, らさぎ
+cluster1:(8)
+温泉施設, 湯温泉, 入浴, 施設, 露天風呂付温泉, 長湯, 鷺の湯温泉, 温泉
+cluster2:(3)
+足立美術館, 安来市, 島根県
+cluster3:(2)
+景色, 観光
+cluster4:(2)
+プラザ, ふれあいプラザ
+cluster5:(2)
+ところ, 雰囲気
+cluster6:(2)
+露天風呂, 生きがい
+cluster7:(1)
+サウナ
+cluster8:(3)
+人々, 地元, 方
+cluster9:(1)
+夢
+cluster10:(1)
+癖
+cluster11:(1)
+廊下
+cluster12:(1)
+高揚
+cluster13:(3)
+高齢者, 他世代, 生活援助
+
+howmany entities : 34
+howmany clusters : 14
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 13entities.

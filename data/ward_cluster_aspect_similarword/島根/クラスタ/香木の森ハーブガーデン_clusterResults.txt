@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香木の森ハーブガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人, 多く
+cluster1:(3)
+ハーブ, ハーブガーデン, 香り
+
+howmany entities : 5
+howmany clusters : 2
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 2entities.

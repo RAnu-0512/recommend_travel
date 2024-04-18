@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:禅定寺(島根県雲南市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+開山, 寺, 古刹
+cluster1:(3)
+身代わり観音, 地元, 山
+cluster2:(1)
+札所
+cluster3:(1)
+本尊聖観世音菩薩
+cluster4:(1)
+中国観音霊場
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

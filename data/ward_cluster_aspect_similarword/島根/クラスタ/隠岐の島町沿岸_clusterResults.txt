@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:隠岐の島町沿岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+船釣り, 海釣り, 磯釣り
+cluster1:(15)
+飛行機, 風景, 砂地, 人々, 島固有, 瀬戸内, 境目, キジ, 機会, 島, 陸, ゆうゆう道路, 海, 波, 植物
+cluster2:(5)
+海岸沿い, 沿岸, 隠岐沿岸, 沿岸部, 隠岐
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 0entities.

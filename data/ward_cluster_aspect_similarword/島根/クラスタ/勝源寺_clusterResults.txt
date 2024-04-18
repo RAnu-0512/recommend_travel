@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝源寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+派手さ, 荘厳さ
+cluster1:(2)
+本堂, 山門
+cluster2:(6)
+迫力, 歴史, 竜, こと, 彫刻, 近く
+cluster3:(1)
+大森地区
+cluster4:(2)
+勝源寺, 石見銀山
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 7entities.

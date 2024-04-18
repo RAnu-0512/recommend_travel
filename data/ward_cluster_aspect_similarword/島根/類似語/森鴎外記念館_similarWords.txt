@@ -1,0 +1,19 @@
+--------------------similar_words:森鴎外記念館--------------------
+top3 entities near to cluster0>>
+鴎外, 館, 記念
+top3 entities near to cluster1>>
+展示, 資料, 写真
+top3 entities near to cluster2>>
+作家, 生徒, 教員
+top3 entities near to cluster4>>
+建物, 館内, 歴史
+top3 entities near to cluster6>>
+自動車, 博物館, 自家用車
+top3 entities near to cluster10>>
+知人, 妻, 友人
+top3 entities near to cluster13>>
+文字, 表書き
+top3 entities near to cluster15>>
+生家, 旧宅, 遺書
+top3 entities near to cluster16>>
+鴎外, 森, 鷗外

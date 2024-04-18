@@ -1,0 +1,13 @@
+--------------------similar_words:風の子楽習館--------------------
+top3 entities near to cluster0>>
+体験, 学習, 施設
+top3 entities near to cluster1>>
+遊具, 駐車, 施設
+top3 entities near to cluster3>>
+敷地, 施設, 館内
+top3 entities near to cluster5>>
+自然, 海, 山
+top3 entities near to cluster6>>
+子供, 子ども, 大人
+top3 entities near to cluster7>>
+仁摩, 発電, 風力

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩屋寺(島根県松江市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出雲13仏霊場 13番札所, 出雲国十三仏霊場
+cluster1:(2)
+建築物, 舞台造り
+cluster2:(2)
+天然勝景, 天然
+cluster3:(2)
+泉, 音
+cluster4:(2)
+趣, 姿
+cluster5:(2)
+山, 緑
+cluster6:(2)
+歴史, 自然
+cluster7:(1)
+山奥
+cluster8:(11)
+後方, ところ, 文化財, 薬師堂, ひとつ, 中, 雰囲気, 弘法大師, 建物, 薬師如来, 場所
+cluster9:(5)
+周辺, 近隣, 玉造温泉駅, 島根, 近く
+cluster10:(1)
+高さ
+cluster11:(18)
+美滝, 弘法大師像, 朱印, 寺, の木彫弘法, 大師坐像, 本堂, 岩窟, 空海こと弘法大師, 日本三大不動明王, 本尊, 本堂裏, 弘法大師作, 境内, 滝, 登り滝, 大日如来様, 岩屋寺
+cluster12:(1)
+名水百選
+
+howmany entities : 51
+howmany clusters : 13
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 3
+deleted 17entities.

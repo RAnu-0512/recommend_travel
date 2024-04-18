@@ -1,0 +1,7 @@
+--------------------similar_words:砂の器記念碑--------------------
+top3 entities near to cluster0>>
+砂, 撒管
+top3 entities near to cluster4>>
+駅, 地名, 神社
+top3 entities near to cluster7>>
+温泉, 駅, 神社

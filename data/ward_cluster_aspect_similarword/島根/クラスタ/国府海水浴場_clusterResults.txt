@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国府海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+国民宿舎, 宿泊施設, 海水浴場, 国府海水浴場, 大浴場日, 駐車場
+cluster1:(20)
+コインシャワー, 透明度, 夕日マニア, サーフィン, 遠浅, 夏場, 海水, 距離, 砂浜, 浜田市, ビーチ, サーファー, 波乗り, 子供, 夕日, 場所, 広島市, 海, オフシーズン, 水平線
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 0entities.

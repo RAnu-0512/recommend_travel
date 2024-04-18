@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青野山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+青野山, アジサイロード, 津和野
+cluster1:(2)
+形, 時間
+cluster2:(2)
+ついでに鍋山, 登山口
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

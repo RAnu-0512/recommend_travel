@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイビングショップシーワーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大田市, 島根県
+cluster1:(8)
+スノーケリング, ダイビングショップ, トイレ, 隣, シーワーク, 海, ライセンス, ダイビング
+cluster2:(4)
+指導, 所, 施設, 希望
+cluster3:(1)
+臭い
+cluster4:(1)
+水中写真
+cluster5:(1)
+集会所
+cluster6:(1)
+座学
+cluster7:(1)
+簡易水洗
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 7entities.

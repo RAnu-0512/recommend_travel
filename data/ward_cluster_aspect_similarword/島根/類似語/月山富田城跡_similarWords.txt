@@ -1,0 +1,17 @@
+--------------------similar_words:月山富田城跡--------------------
+top3 entities near to cluster1>>
+急坂, 山頂, 中腹
+top3 entities near to cluster2>>
+登山, 駐車, 標識
+top3 entities near to cluster5>>
+真夏, 猛暑, 暑い
+top3 entities near to cluster7>>
+スタンプ, イベント, ジオラマ
+top3 entities near to cluster8>>
+ふもと, 山登り, 中腹
+top3 entities near to cluster12>>
+景色, 風景, 光景
+top3 entities near to cluster13>>
+城, 城跡, 本丸
+top3 entities near to cluster16>>
+館, 資料, 歴史

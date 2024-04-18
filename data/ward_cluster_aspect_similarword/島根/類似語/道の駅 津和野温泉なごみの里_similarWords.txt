@@ -1,0 +1,11 @@
+--------------------similar_words:道の駅 津和野温泉なごみの里--------------------
+top3 entities near to cluster0>>
+料理店, 料理, 温泉
+top3 entities near to cluster3>>
+土産, 売店, 土産物
+top3 entities near to cluster4>>
+駅道, 道路, 駅
+top3 entities near to cluster8>>
+ランチ, ランチタイム
+top3 entities near to cluster9>>
+香り, 出汁, 風味

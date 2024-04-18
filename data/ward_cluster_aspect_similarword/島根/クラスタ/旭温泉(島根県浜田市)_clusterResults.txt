@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旭温泉(島根県浜田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風呂, 温泉
+cluster1:(2)
+雰囲気, 気持ち
+cluster2:(3)
+スポット, ところ, アルカリ性
+cluster3:(1)
+家族
+cluster4:(1)
+自然
+cluster5:(1)
+気楽
+cluster6:(1)
+心身
+cluster7:(4)
+泉質, 旭IC, 旭温泉, 浜田道
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 8entities.

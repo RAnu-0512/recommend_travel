@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:唐音水仙公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+見頃, 客, 観光スポット
+cluster1:(3)
+花, 水仙, 道端
+cluster2:(2)
+海岸, 景色
+cluster3:(2)
+所, 事
+cluster4:(2)
+日本海, トイレ
+cluster5:(2)
+辺り, 近く
+cluster6:(1)
+宿
+cluster7:(1)
+機会
+cluster8:(1)
+ワクワク感
+
+howmany entities : 17
+howmany clusters : 9
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 11entities.

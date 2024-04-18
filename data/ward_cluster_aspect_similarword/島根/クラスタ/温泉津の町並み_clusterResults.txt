@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:温泉津の町並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+注目度, 説明書き, 美しさ
+cluster1:(17)
+タイム, 知名度, 此処, メインストリート, 感じ, 感謝, 歴史, 尽力, 雰囲気, 時間, 資金, 街並み, 町並み, フィレンツェ, コーヒー, 方, こと
+cluster2:(8)
+銀, 山, 屋根, 昭和, 屋上, ユネスコ世界, 中国, 海
+cluster3:(2)
+温泉津, 温泉津駅
+cluster4:(2)
+港町, 港
+cluster5:(7)
+電車, 車, 散策, 徒歩, 店, 道, 旅行
+cluster6:(1)
+時間帯
+cluster7:(18)
+世界遺産, 温泉津温泉街, ひなびた温泉街, 湯場情緒, 石見銀山, 温泉街, 温泉地, 裏路地巡り, 建造物群保存地区, 世界遺産温泉津, 町, 共同浴場, 文化遺産, 温泉, 温泉津温泉, 温泉町, 薬師湯, ゆう・ゆう館
+
+howmany entities : 58
+howmany clusters : 8
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 5
+deleted 5entities.

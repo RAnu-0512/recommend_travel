@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鴎外村ふる里_レンタサイクル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自転車, ペース
+cluster1:(1)
+風
+
+howmany entities : 3
+howmany clusters : 2
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 3entities.

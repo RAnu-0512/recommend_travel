@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菰沢公園オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンプ場, 駐車場
+cluster1:(9)
+遊具, 野原, 公園, 自然, 子供たち, 車, 気持ち, トイレ, 近く
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

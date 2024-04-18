@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光明寺(島根県雲南市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+菩薩像, 出雲観音霊場, 十一面観音, 十一面観音菩薩像, 十一面観音像, 観音像
+cluster1:(6)
+加茂町, 島根県雲南市, 雲南市, 朝鮮鐘, 緑豊か, 島根県
+cluster2:(2)
+重厚感, 大きさ
+cluster3:(27)
+新緑, 遠足, 時代あたり, 国, 文化財, 山, 生い立ち, 中腹, 平安, 味, 歴史, 時代, 奈良, 檜, 観音堂, 中, 雰囲気, 全国, 小学校, 光明寺, 海抜, 建物, 地元, 自然, 場所, 周囲, こと
+cluster4:(2)
+住職, 寺
+cluster5:(2)
+本堂, 本尊
+cluster6:(1)
+名刹
+cluster7:(1)
+創建
+cluster8:(1)
+札所
+cluster9:(1)
+行楽客
+cluster10:(1)
+風光明媚
+
+howmany entities : 50
+howmany clusters : 11
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 3
+deleted 11entities.

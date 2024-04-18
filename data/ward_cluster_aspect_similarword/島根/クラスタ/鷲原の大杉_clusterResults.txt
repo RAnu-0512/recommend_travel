@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鷲原の大杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, 裏山
+cluster1:(2)
+神社, 鷲原
+cluster2:(1)
+縁起
+cluster3:(1)
+良さ
+cluster4:(1)
+焼失
+cluster5:(1)
+戦国時代
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

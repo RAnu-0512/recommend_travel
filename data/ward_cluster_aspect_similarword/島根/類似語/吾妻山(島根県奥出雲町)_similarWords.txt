@@ -1,0 +1,9 @@
+--------------------similar_words:吾妻山(島根県奥出雲町)--------------------
+top3 entities near to cluster1>>
+登山, 山登り, ハイキング
+top3 entities near to cluster2>>
+景色, 景観, 天気
+top3 entities near to cluster8>>
+海, 山, 緑
+top3 entities near to cluster10>>
+家族, 両親, 妻

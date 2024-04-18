@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:斐伊川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出雲市, 神立橋
+cluster1:(2)
+洪水, 神話
+cluster2:(2)
+川, 途中斐伊川
+cluster3:(5)
+夕方, モデル, シンボル, こと, ヤマタノオロチ
+cluster4:(2)
+舞台, 景色
+cluster5:(1)
+南北
+cluster6:(1)
+川幅
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 10entities.

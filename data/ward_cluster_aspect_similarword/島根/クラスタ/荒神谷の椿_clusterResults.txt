@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒神谷の椿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+公園, 花, 雰囲気, 蓮, 景色, 椿
+cluster1:(2)
+荒神谷遺跡, 荒神谷史跡公園
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 2entities.

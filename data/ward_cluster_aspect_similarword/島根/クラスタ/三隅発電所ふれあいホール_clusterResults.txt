@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三隅発電所ふれあいホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+年齢, 大人
+cluster1:(5)
+空間, スポット, 関係, エネルギー, こと
+cluster2:(1)
+電気
+cluster3:(1)
+観光スポット
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

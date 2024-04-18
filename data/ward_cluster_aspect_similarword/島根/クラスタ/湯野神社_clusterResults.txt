@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯野神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+亀嵩, 亀嵩神社, 湯野神社
+cluster1:(19)
+途中, 足, 下, 映画, 階段, 木, 雷電, すぐわき, そのもの, 枝, 記念碑, 参道, 雰囲気, 名, 原作, 鳥居, 方, ロケ地, 先
+cluster2:(3)
+松本清張, 砂の器, 砂の器舞台の地
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 3
+deleted 0entities.

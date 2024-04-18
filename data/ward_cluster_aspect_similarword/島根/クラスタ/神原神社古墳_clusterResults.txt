@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神原神社古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木装太刀1, 素環頭太刀1
+cluster1:(10)
+途中, 神社, 運転手, 下, 三角縁神獣鏡, ノーマーク, JR加茂中駅, 土手, タクシー, 神原神社
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

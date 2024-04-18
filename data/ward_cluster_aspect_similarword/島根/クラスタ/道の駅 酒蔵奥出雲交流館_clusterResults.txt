@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 酒蔵奥出雲交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仁多米, 仁多餅
+cluster1:(2)
+石鹸, 味噌
+cluster2:(7)
+名前, リキュール, 車, 方, 西, コシヒカリ, 米
+cluster3:(1)
+横綱
+cluster4:(5)
+試飲, 銘酒, 酒, 焼酎, 奥出雲酒造
+cluster5:(1)
+加工品
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 6entities.

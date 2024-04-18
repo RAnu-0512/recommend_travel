@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤来高原観光りんご、ブルーベリー園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+トキ, 茶
+cluster1:(4)
+家族, 妻, 子供, 夫婦
+cluster2:(11)
+りんご, ところ, ブルーベリー, スペース, トイレ, 久しぶり, 書き込み, リンゴジュース, リンゴ, 持ち帰り, 帰り
+cluster3:(2)
+方, こと
+cluster4:(2)
+他, 人
+cluster5:(1)
+場所
+cluster6:(1)
+季節
+cluster7:(1)
+木
+cluster8:(1)
+予約サービス
+cluster9:(1)
+涼香
+cluster10:(1)
+外国人
+cluster11:(2)
+ブルーベリー園, リンゴ園
+cluster12:(2)
+ブルーベリー狩り, リンゴ狩り
+cluster13:(1)
+観光バス
+cluster14:(1)
+りんご食べ放題
+cluster15:(2)
+赤城高原リンゴ園, 搾りたて生りんごジュース
+
+howmany entities : 35
+howmany clusters : 16
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 20entities.

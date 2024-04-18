@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萬福寺(島根県益田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+益田家, 益田市, 島根県
+cluster1:(3)
+雪舟, 雪舟庭園, 雪舟作
+cluster2:(4)
+説明, 中, ボランティアガイド, ほか
+cluster3:(6)
+名刹, 庭園, 境内, 寺院, 寺, 時宗
+cluster4:(1)
+肖像画
+cluster5:(1)
+医光寺
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 2entities.

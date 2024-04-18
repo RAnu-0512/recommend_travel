@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:知夫赤壁>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+遊覧船, 駐車場, 来居港
+cluster1:(3)
+岩壁, 赤壁, 岩
+cluster2:(9)
+右手, 足, レンタカー, 断崖絶壁, 地域, 道, 場所, 海, 知夫里島
+cluster3:(5)
+気, 予約, 注意, 予想, 迫力
+cluster4:(6)
+落下, 崖, 鉄分, 柵, 岩肌, 観光スポット
+cluster5:(1)
+高さ
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 5
+deleted 1entities.

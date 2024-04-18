@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:隠岐郷土館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示, 展示物
+cluster1:(3)
+意外, 興味, 種類
+cluster2:(7)
+館内, 建物, 神社, 洋風, 土産物, 絵, 隣り
+cluster3:(1)
+休憩所
+cluster4:(3)
+屋根瓦, 民具, 二階建て
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 3entities.

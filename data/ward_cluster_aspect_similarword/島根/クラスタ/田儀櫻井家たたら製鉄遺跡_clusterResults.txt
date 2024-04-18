@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田儀櫻井家たたら製鉄遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+谷間, 海岸
+cluster1:(1)
+庇護
+cluster2:(1)
+宮本地区
+cluster3:(1)
+松江藩
+cluster4:(1)
+田儀櫻井家たたら製鉄遺跡
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八雲風穴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+自然の冷蔵庫, 天然クーラー, 天然冷蔵庫, 子供たち
+cluster1:(17)
+感じ, 水, 冷蔵庫, 閉館, 価値, 難点, 石組, 奥地, 施設脇, 中, 気持ち, 時間, 道, 施設, 外, 見学, 看板
+cluster2:(5)
+冷風, 出雲市街地, 真夏, 涼, 風穴
+cluster3:(1)
+涼しさ
+cluster4:(1)
+須佐神社
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 2entities.

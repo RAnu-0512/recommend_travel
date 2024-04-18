@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥栄町道猿防公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 自然
+cluster1:(1)
+弥栄町
+cluster2:(1)
+道猿防公園
+
+howmany entities : 4
+howmany clusters : 3
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 4entities.

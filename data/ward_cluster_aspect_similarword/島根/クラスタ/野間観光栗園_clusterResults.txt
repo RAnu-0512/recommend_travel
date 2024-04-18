@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野間観光栗園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+とれたて, 食べ応え
+cluster1:(7)
+大地, スポット, 子供たち, 栗, ところ, 栗拾い, 観光スポット
+cluster2:(1)
+野間観光栗園
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 3entities.

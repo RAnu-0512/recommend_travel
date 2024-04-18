@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジオリゾートシンフォニー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+陸地, 海上, 陰, 海底, 魚, 洞窟, 奥, 心, 釣り, 貝, 底, 海
+cluster1:(2)
+ねー今回, どこか
+cluster2:(20)
+パエリア, ところ, 思い出, クリアカヤック, ガイド, スポット, 焚き火, シャワー, カフェ, シーガラス, ランチ, マイペース, シースルー, おもてなし, 兄さん, キャンプ, インストラクター, シーカヤック, カヤック, プライベートビーチ
+cluster3:(3)
+準備マリンシューズ, 休憩, 世話
+cluster4:(4)
+主人, 家族, 子供, 夫婦
+cluster5:(2)
+方, こと
+cluster6:(2)
+他, 人
+cluster7:(1)
+話
+cluster8:(1)
+場所
+cluster9:(3)
+写真, 動画, 体験
+cluster10:(1)
+具合
+cluster11:(5)
+写真撮影サービス, 透明感, 途中少し波, 洞窟探検, 案内看板
+
+howmany entities : 56
+howmany clusters : 12
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 6
+deleted 9entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江島牡丹園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+敷地, 巨大牡丹園, 規模
+cluster1:(7)
+時期, 品種, シーズン, 牡丹園, 場所, うなぎや, 深見草
+cluster2:(3)
+花, 牡丹, 草花
+cluster3:(2)
+散策, 満開
+cluster4:(1)
+うなぎ丼
+cluster5:(1)
+江島牡丹園
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 4entities.

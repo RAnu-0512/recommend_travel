@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高尻川リバーサイドログハウス村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ログハウス, 気持ち
+cluster1:(1)
+居心地
+cluster2:(1)
+自然
+cluster3:(1)
+外
+cluster4:(1)
+空気
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:心覚院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+夕方, 朱色, 昼
+cluster1:(3)
+ヨガ, 住職, 本尊
+cluster2:(1)
+邑南町
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 1entities.

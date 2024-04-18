@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤川ほたる公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蛍, 光
+cluster1:(5)
+スポット, 自然, 場所, ゲンジボタル, ホタル
+cluster2:(1)
+空気
+cluster3:(1)
+赤川ほたる公園
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

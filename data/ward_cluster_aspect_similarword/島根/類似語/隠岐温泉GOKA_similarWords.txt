@@ -1,0 +1,9 @@
+--------------------similar_words:隠岐温泉GOKA--------------------
+top3 entities near to cluster0>>
+湯船, 風呂, お湯
+top3 entities near to cluster1>>
+身体, 肌
+top3 entities near to cluster2>>
+水着, 海, 景色
+top3 entities near to cluster6>>
+温泉, 露天風呂, 旅館

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鉄の歴史博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示古民家, 資料館木造
+cluster1:(14)
+経営, 歴史, 技術, 意義, 映像, 展示内容, 仕組み, 中, 用具, もの, 技法, 街並み, 資料, 生活史
+cluster2:(3)
+たたら製鉄, 製鉄, 鍛冶集団
+cluster3:(4)
+鉄, 鉄山, 田部家, 土蔵
+cluster4:(1)
+和鋼風土記
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 3entities.

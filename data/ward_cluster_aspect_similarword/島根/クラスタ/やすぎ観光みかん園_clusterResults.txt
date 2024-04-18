@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:やすぎ観光みかん園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+香川, 山陰地方, 米子
+cluster1:(2)
+みかん園, みかん狩り
+cluster2:(12)
+みかん, 子供, 平地, 味, 体, 木, 方, ニュース, 実家, 土産, 風景, 気分
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 2entities.

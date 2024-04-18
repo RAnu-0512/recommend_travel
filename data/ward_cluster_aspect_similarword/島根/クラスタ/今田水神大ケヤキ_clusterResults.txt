@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今田水神大ケヤキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パワー, ケヤキ
+cluster1:(1)
+木
+cluster2:(1)
+生命力
+cluster3:(1)
+今田水神大ケヤキ
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

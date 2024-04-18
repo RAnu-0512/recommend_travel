@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:塩浜海水浴場(島根県隠岐の島町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+海水浴場, 塩浜海水浴場, 西郷港, 海水浴客
+cluster1:(18)
+車, スポット, 透明度, 海水, 大人, オススメ, 砂浜, 夕日, シーズン, 友達同士, 人, 多く, デート, 家族連れ, ひろびろ, 海, 子ども, 海水浴
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

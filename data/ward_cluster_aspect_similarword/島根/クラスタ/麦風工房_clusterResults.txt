@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:麦風工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+予約, 予約時間
+cluster1:(3)
+体験おわり, 体験, 体験時間
+cluster2:(3)
+休憩, 作業, 合間
+cluster3:(4)
+紹介, 評価, 下記, 手本
+cluster4:(2)
+コツ, 量
+cluster5:(4)
+限り, 理由, もの, こと
+cluster6:(4)
+他, 中, 部分, 方
+cluster7:(1)
+形
+cluster8:(6)
+前, 近く, 度, 目, 時間, 場所
+cluster9:(1)
+ずと
+cluster10:(4)
+工房, 製作, 作品, 作品造り
+cluster11:(2)
+友人, 娘
+cluster12:(2)
+主人, 夫婦
+cluster13:(1)
+先生
+cluster14:(1)
+素人
+cluster15:(1)
+在住
+cluster16:(20)
+声, カフェ風, マグカップ, 口, 草花, 空間, 味, 長時間, 出来上がり, 湯呑み, 雰囲気, おもてなし, コップ, 仕上げ, 手, 取っ手, 心, 看板, 畳, 夕陽
+cluster17:(2)
+花瓶, 茶碗
+cluster18:(3)
+大皿, 皿, 皿作り
+cluster19:(3)
+陶芸体験, 陶芸, 粘土
+cluster20:(3)
+道路沿い, 麦風工房, 出雲市
+
+howmany entities : 72
+howmany clusters : 21
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 11
+deleted 15entities.

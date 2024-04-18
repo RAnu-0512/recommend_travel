@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雪舟の郷記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+雪舟庭園, 雪舟, 雪舟終焉, 雪舟禅師像
+cluster1:(15)
+博物館, 国宝クラス, 益田, 記念館, 展示, 四季, 人生, 歴史, 作品, 地大喜庵, 庭園, 絵, 弟子, 地, 手
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 0entities.

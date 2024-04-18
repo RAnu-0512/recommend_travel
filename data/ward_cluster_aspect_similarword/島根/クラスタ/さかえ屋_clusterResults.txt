@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さかえ屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+出雲市大社町, 出雲大社, 出雲編
+cluster1:(15)
+店, バス, 購入, 出雲大社前駅, 工芸品, 声, 中, 小物, 和雑貨, 土産探し, 方, 土産屋, 土産, 生活雑貨, 集合時間
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

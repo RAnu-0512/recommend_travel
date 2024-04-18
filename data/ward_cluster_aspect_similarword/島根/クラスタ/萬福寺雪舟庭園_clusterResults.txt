@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萬福寺雪舟庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, 寺院
+cluster1:(2)
+石庭, 庭園
+cluster2:(1)
+雪舟
+cluster3:(3)
+橋, 石, 池
+cluster4:(3)
+小学校, 萬福寺, 御朱印
+cluster5:(2)
+途中, 前
+cluster6:(1)
+脇
+cluster7:(1)
+下車
+cluster8:(1)
+折戸
+cluster9:(1)
+理想世界
+cluster10:(2)
+益田駅, 路線バス
+cluster11:(1)
+医光寺
+
+howmany entities : 20
+howmany clusters : 12
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 14entities.

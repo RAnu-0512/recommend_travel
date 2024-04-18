@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:屋那の松原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小屋, 舟小屋
+cluster1:(2)
+松林, 松原
+cluster2:(7)
+目, 自然, 中, 構造, 海沿い, 比丘尼, 近く
+cluster3:(2)
+伝え, 光景
+cluster4:(1)
+船小屋群
+cluster5:(1)
+女の手
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 8entities.

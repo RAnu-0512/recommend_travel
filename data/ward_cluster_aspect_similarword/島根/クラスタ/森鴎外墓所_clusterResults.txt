@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森鴎外墓所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+墓域, 墓石, 墓地, 墓所, 墓, 分骨
+cluster1:(2)
+石見, 三鷹
+cluster2:(4)
+寺, 本堂, 門, 境内
+cluster3:(2)
+右側, 案内
+cluster4:(2)
+場所, こと
+cluster5:(4)
+津和野, ゆかり, 雰囲気, 墓碑銘
+cluster6:(1)
+晩年
+cluster7:(1)
+外
+cluster8:(2)
+想い, 遺言
+cluster9:(8)
+森林太郎, 森何某, 森家一族, 石見人 森林太郎, 森林太郎墓, 森鴎外記念館, 永明寺, 森一族
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 10entities.

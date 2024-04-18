@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浄土ケ浦海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海岸沿い, 海岸線
+cluster1:(10)
+禁止, 句, 岩, 遊歩道, 海岸, 夫婦, 工事, 海, 宿, 結果
+cluster2:(2)
+布施, 浄土
+cluster3:(1)
+美しさ
+cluster4:(1)
+隠岐旅行
+cluster5:(1)
+駐車場
+cluster6:(1)
+一休和尚
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 8entities.

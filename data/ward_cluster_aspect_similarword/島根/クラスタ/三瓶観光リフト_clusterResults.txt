@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三瓶観光リフト>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+女三瓶, 男三瓶, 子三瓶, 女三瓶山頂上
+cluster1:(10)
+階段, 職員, 下り, 観光, 乗車, 歩道, リフト乗り場, 下りリフト, 片道, 観光リフト
+cluster2:(15)
+山地, ウエス, 道のり, リフト, アキア, ドライワイパー, ワイナリー, 三瓶山, 晴れ間, 孫, 山頂, スキー, コーヒー, 女三瓶山, プリン
+cluster3:(2)
+葉, 笹
+cluster4:(2)
+東, 原
+cluster5:(1)
+暖
+cluster6:(17)
+途中, 他, 初体験, 途中下, 内容, 迷惑, 景色, 霙, 時間, 景観, 少し霞, 趣き, 天候, 眺め, 気温, 方, こと
+cluster7:(3)
+標高差, 座面, 展望台
+
+howmany entities : 54
+howmany clusters : 8
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 5
+deleted 5entities.

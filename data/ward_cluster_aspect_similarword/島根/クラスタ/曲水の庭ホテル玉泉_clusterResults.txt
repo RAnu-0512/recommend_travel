@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:曲水の庭ホテル玉泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乳液, 洗顔フォーム
+cluster1:(4)
+玉造温泉街, 浴場, バスタオル, 温泉
+cluster2:(2)
+桜, 満開
+cluster3:(2)
+近辺, 周辺
+cluster4:(8)
+手ぶら, タオル, 玉造温泉, 露天風呂, 気持ち, 人, サウナ, 洗い場
+cluster5:(2)
+感じ, 時期
+cluster6:(1)
+貸切状態
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 9entities.

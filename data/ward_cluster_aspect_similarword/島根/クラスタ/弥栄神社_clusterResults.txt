@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥栄神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+参拝, 神社
+cluster1:(5)
+車, 町, 山口線, 津和野, ケヤキ
+cluster2:(1)
+御神木
+cluster3:(1)
+太鼓谷稲荷神社
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

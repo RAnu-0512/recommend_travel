@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:櫛島キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンプ, オススメ
+cluster1:(1)
+キャンプ初心者
+cluster2:(2)
+オートキャンプ場, 設備
+cluster3:(1)
+草地
+cluster4:(1)
+櫛島キャンプ場
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

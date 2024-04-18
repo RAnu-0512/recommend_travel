@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七尾城跡(島根県益田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+面影, 次回チャンス, 曲輪, 壮大, 車, 日本, 丘陵, 城跡, 感じ, 近く, 尾根上, 土塁, 風情, 水堀, 城, 頂上, 市街地, 場所, 山麓, 眺め, 城址, 海, 遺構, 跡地
+cluster1:(4)
+七尾城, 七尾町, 住吉神社, 七尾城跡地
+cluster2:(5)
+益田兼高, 益田, 益田駅, 益田市, 益田越中守
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 3
+deleted 0entities.

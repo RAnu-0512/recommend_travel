@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大梶七兵衛記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ところ, 人物
+cluster1:(1)
+碑
+cluster2:(1)
+開拓
+cluster3:(1)
+財産
+cluster4:(1)
+出雲地方
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

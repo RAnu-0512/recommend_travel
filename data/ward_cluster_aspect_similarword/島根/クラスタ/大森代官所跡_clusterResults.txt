@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大森代官所跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+後期, 白壁, 明治
+cluster1:(15)
+様子, スポット, 歴史, 本館, 大人, ユネスコ世界, 内部, 庁舎, もの, 長屋門, 建物, 門番, 場所, 資料, 詰め所
+cluster2:(1)
+紹介板
+cluster3:(6)
+建築物, 銀山, 観光, 景観, バス, 観光スポット
+cluster4:(13)
+文献資料, 役所跡, 採鉱道具, 資料館, 大森歴史地区, 仮牢, 跡, 入場料, 構成遺産, 文化遺産, 門長屋, 生活用具, 駐車場
+cluster5:(10)
+江戸時代の代官所, 石見銀山, 代官, 大森代官所, 石見銀山資料館, 代官所跡, 邇摩郡, 代官所, 石見銀山公園, 邇摩郡役所
+
+howmany entities : 48
+howmany clusters : 6
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 5
+deleted 1entities.

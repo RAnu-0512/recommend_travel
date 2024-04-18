@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島村抱月文学碑公園(抱月ふるさと公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+文学者, 文学文
+cluster1:(2)
+島村抱月文学碑, 島村抱月
+
+howmany entities : 4
+howmany clusters : 2
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 4entities.

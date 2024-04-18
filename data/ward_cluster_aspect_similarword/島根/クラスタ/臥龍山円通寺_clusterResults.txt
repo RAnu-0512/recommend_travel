@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:臥龍山円通寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山々, 眺望, 雲海
+cluster1:(6)
+山地, 中国, 晩秋, 天台宗, 遠く, 大山
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 0entities.

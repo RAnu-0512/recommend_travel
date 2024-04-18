@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島根鼻オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+オートキャンプ場, キャンプ場
+cluster1:(3)
+キャンプ初心者, キャンプ, 場所
+cluster2:(1)
+子供連れ
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 3entities.

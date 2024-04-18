@@ -1,0 +1,21 @@
+--------------------similar_words:大森の町並み--------------------
+top3 entities near to cluster0>>
+雨脚, 雨足
+top3 entities near to cluster1>>
+人口, 生産, 流通
+top3 entities near to cluster2>>
+カフェ, 町並み, 自転車
+top3 entities near to cluster3>>
+バス車, 道路, バス
+top3 entities near to cluster4>>
+人達, 人々
+top3 entities near to cluster5>>
+入口, 入り口
+top3 entities near to cluster6>>
+町並み, 街並み
+top3 entities near to cluster8>>
+人影, 跡, 直線
+top3 entities near to cluster10>>
+民家, 町並み, 遺跡
+top3 entities near to cluster11>>
+時代, 代官, 所内

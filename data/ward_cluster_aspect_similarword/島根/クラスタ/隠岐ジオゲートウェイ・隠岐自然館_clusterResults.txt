@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:隠岐ジオゲートウェイ・隠岐自然館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+隠岐, 隠岐独特
+cluster1:(8)
+不思議さ, 生物, 沖縄, 歴史, 島, オススメ, 植物, 北海道
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

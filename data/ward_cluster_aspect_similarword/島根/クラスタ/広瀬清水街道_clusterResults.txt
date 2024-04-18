@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広瀬清水街道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+昔, 自然, 周り, 気持ち, 人々
+cluster1:(2)
+街道, 清水街道
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 2entities.

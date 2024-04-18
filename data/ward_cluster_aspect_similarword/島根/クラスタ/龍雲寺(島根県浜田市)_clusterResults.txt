@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍雲寺(島根県浜田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+浜田市, 三重県, 三隅公園, 島根県, 三隅町
+cluster1:(3)
+八方睨みの龍, 龍, 大竜
+cluster2:(20)
+天井, 訪問, ツツジ, 書置き, 圧巻, 龍雲寺, 用紙, 傍, 脇, 歴史, オススメ, 木, 見応え, 雰囲気, 雨, 絵, 自然, 御朱印, 曹洞宗, 近く
+cluster3:(7)
+寺, 本堂, 参道, 庭園, 境内, 創建, 池
+cluster4:(4)
+寺務所, 巡礼地, 拝観料, 駐車場
+cluster5:(2)
+石見観音霊場20番札所, 三隅城主三隅信
+
+howmany entities : 41
+howmany clusters : 6
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 5
+deleted 2entities.

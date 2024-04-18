@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥出雲町のカタクリ(島根県仁多郡)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+登山, 頂上, 登り
+cluster1:(4)
+春先, 風景, 季節, 気分
+cluster2:(2)
+船通山, 船通山カタクリ
+cluster3:(3)
+トレッキング, カタクリ, 山登り
+cluster4:(1)
+山
+cluster5:(1)
+花
+cluster6:(6)
+車, 運動, 名前, 道, 子供, 人
+cluster7:(5)
+紫, 奥, 紫色, 底, 心
+cluster8:(3)
+うすむらさき, 出雲町, 島根県
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 6
+deleted 4entities.

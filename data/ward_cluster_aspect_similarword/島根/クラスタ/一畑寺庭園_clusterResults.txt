@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一畑寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+緑, 庭園, 寺
+cluster1:(7)
+外国, 印象, 中, 雰囲気, 日本, 方, こと
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 0entities.

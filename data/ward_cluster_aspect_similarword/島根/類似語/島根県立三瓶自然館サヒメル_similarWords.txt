@@ -1,0 +1,11 @@
+--------------------similar_words:島根県立三瓶自然館サヒメル--------------------
+top3 entities near to cluster1>>
+木, スギ, 古
+top3 entities near to cluster2>>
+博物館, プラネタリウム, ミュージアム
+top3 entities near to cluster3>>
+施設, 時間, 歴史
+top3 entities near to cluster5>>
+博物館, 動物, 子供
+top3 entities near to cluster6>>
+林, 三瓶, 森

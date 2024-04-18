@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宍道湖グリーンパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鳥, 野鳥
+cluster1:(2)
+施設, 設備
+cluster2:(7)
+季節, 手ぶら, 望遠鏡, ゴビウス, スタッフ, バードウォッチング, 宍道湖
+cluster3:(2)
+訪問, 観察スポット
+cluster4:(1)
+期待外れ
+cluster5:(1)
+野鳥観察舎
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 8entities.

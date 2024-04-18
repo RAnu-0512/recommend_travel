@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八雲温泉ゆうあい熊野館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ゆうあい熊野館, 松江市, 熊野大社
+cluster1:(16)
+館内, レストラン, 利用, ホテル, 露天風呂, ラーメン, くまの, 休憩, 並び, ランチ, 喫茶メニュー, 地元, 人, 方, こと, 客
+cluster2:(8)
+食事処, 風呂上がり, 日帰り入浴, 風呂, 温泉, 温泉宿泊施設, 日帰り温泉, 駐車場
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 0entities.

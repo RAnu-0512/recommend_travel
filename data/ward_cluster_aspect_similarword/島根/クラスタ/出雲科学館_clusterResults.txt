@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲科学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+科学, 科学館
+cluster1:(4)
+駅, 施設, 機材, 座席
+cluster2:(8)
+子供, 真ん中, 仕掛け, 体験, 雰囲気, 子, ミニプラネタリウム, もの
+cluster3:(1)
+展示物
+cluster4:(1)
+3Dシアター
+cluster5:(1)
+思います.3Dシアター
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 5entities.

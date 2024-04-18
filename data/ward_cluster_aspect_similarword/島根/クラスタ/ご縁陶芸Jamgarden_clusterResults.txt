@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ご縁陶芸Jamgarden>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+茶碗, 小鉢, 皿
+cluster1:(5)
+気, 事, もの, 方, こと
+cluster2:(2)
+体験, 陶芸
+cluster3:(9)
+イメージ, 色, 思い出, 上がり, 次, 作品, 湯呑み, 出来上がり, 最後
+cluster4:(4)
+友達, 先生, 店主, 大学
+cluster5:(1)
+島根
+cluster6:(1)
+卒業旅行
+cluster7:(4)
+ロクロ, ろくろ, ねり体験, 緊張感
+cluster8:(1)
+何か物作り体験
+
+howmany entities : 30
+howmany clusters : 9
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 5entities.

@@ -1,0 +1,29 @@
+--------------------similar_words:松江しんじ湖温泉--------------------
+top3 entities near to cluster0>>
+湖, 湖畔, 夕景
+top3 entities near to cluster1>>
+お湯, 湯, 湯船
+top3 entities near to cluster2>>
+宿泊, 温泉, 旅館
+top3 entities near to cluster3>>
+バス, 高速, タクシー
+top3 entities near to cluster6>>
+景色, 風情, 雰囲気
+top3 entities near to cluster7>>
+駅, 徒歩, 周辺
+top3 entities near to cluster8>>
+日水, 土水, 日, 土
+top3 entities near to cluster10>>
+電車
+top3 entities near to cluster11>>
+旅街, 旅, 料理
+top3 entities near to cluster14>>
+部屋, 個室, 設備
+top3 entities near to cluster15>>
+美肌, 肌, 美人
+top3 entities near to cluster16>>
+足体, 足
+top3 entities near to cluster17>>
+じみ, 流し, かけ
+top3 entities near to cluster18>>
+温泉, 旅館, 温泉郷

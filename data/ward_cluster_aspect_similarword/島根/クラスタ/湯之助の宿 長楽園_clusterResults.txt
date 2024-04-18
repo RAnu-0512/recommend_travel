@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯之助の宿 長楽園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温泉街, 玉造温泉街
+cluster1:(2)
+宿, 温泉
+cluster2:(1)
+温泉旅館
+cluster3:(6)
+イベント, 縁日, 夏場, 長楽園, 庭園, 中心
+cluster4:(1)
+回遊式庭園
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 6entities.

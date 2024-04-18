@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:立久恵峡の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+通行, 道路
+cluster1:(2)
+色, 立久恵峡
+cluster2:(3)
+木々, 紅葉, 景色
+cluster3:(1)
+奇岩
+cluster4:(1)
+上下線
+cluster5:(1)
+出雲市
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 7entities.

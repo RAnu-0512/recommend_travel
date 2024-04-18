@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:於保知盆地展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+砂鉄, 鉄穴
+cluster1:(11)
+下, 車, 写真, 眼下, 風景, 景色, 条件, 中, 気持ち, 気分, 天気
+cluster2:(3)
+盆地, 地形, 観光スポット
+cluster3:(1)
+案内図
+cluster4:(2)
+雲海, 雲海シーズン
+cluster5:(3)
+新緑, 秋, 緑
+cluster6:(2)
+雲, 霧
+cluster7:(1)
+┘晴れ
+cluster8:(1)
+展望台
+cluster9:(3)
+矢上地区, 邑智郡, 島根県
+cluster10:(2)
+雲海スポット保知盆地, 於保地盆地
+
+howmany entities : 31
+howmany clusters : 11
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 11entities.

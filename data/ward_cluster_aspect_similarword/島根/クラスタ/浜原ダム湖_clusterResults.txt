@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜原ダム湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ダム, ダム湖
+cluster1:(4)
+人, 魚釣り, 江, 江の川
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 2entities.

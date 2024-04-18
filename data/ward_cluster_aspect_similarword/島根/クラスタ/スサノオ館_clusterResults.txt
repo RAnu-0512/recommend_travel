@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スサノオ館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+祭り, ゆかり, 歴史, スサノオ
+cluster1:(2)
+命, スサノオ館
+cluster2:(1)
+佐田町
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 3entities.

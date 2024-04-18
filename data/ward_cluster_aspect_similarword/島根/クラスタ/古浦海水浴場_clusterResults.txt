@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古浦海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海水浴場, 駐車場
+cluster1:(2)
+砂浜, 海
+cluster2:(5)
+コバルトブルー, 人, 写真, こと, 家
+cluster3:(1)
+やきそば
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 5entities.

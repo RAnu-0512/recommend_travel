@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五百羅漢(羅漢寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+石見銀山, 石見銀山入口, 岩見観音霊場委
+cluster1:(2)
+世界遺産登録, 世界遺産
+cluster2:(10)
+スポット, 雰囲気, 管理, 手入れ, 羅漢寺, 反り橋, 仏弟子, ポーズ, セット, 観世音寺
+cluster3:(2)
+前, 中
+cluster4:(2)
+人, 人々
+cluster5:(2)
+他, 誰か
+cluster6:(1)
+地元
+cluster7:(1)
+名
+cluster8:(1)
+地区
+cluster9:(1)
+身近
+cluster10:(1)
+外
+cluster11:(6)
+意味, かた, 禁止, もの, 場所, こと
+cluster12:(2)
+風情, 趣
+cluster13:(2)
+迫力, 圧巻
+cluster14:(8)
+愛情, 表情, 絵, 顔, 写真, 像, 撮影, 石像
+cluster15:(2)
+拝観料, ・・・羅漢寺
+cluster16:(2)
+羅漢, 羅漢像
+cluster17:(3)
+供養, 入滅, 先祖
+cluster18:(2)
+本堂, 違い本堂
+cluster19:(2)
+石窟, 銀山
+cluster20:(6)
+岩山, 天井, 穴, 扉, 入口, 洞窟
+cluster21:(2)
+釈迦, 観音
+cluster22:(2)
+寺, 龍
+cluster23:(2)
+霊, 石
+cluster24:(7)
+川, 小川, アーチ状, 金洗い, 石橋, 橋, 大森バス停
+cluster25:(8)
+経典編纂, 道路, 労働者, 観光スポット, 朱印, 参拝, 羅漢寺道路, 客番
+
+howmany entities : 82
+howmany clusters : 26
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 8
+deleted 31entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松江城山公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石垣, 松江
+cluster1:(7)
+葉っぱ, 松江城, 天守閣, 枝垂れ桜, 見応え, ライト, シャッターチャンス
+cluster2:(2)
+時期, 背景
+cluster3:(2)
+日本, 大方
+cluster4:(5)
+北側, 木, 横, 西側, 周り
+cluster5:(11)
+散歩, 桜, 名所, 人たち, 公園, 景色, 記念写真, 風情, 満開時期, 桜まつり, 広場
+cluster6:(5)
+丸広場, 松江城山公園, 天守内部, 天守, 本丸広場
+cluster7:(1)
+松江・観光案内所
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 7entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:波多温泉満壽の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雰囲気, 上
+cluster1:(4)
+館内, 食事, 施設, 温泉
+cluster2:(1)
+畳
+cluster3:(1)
+波多温泉
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八俣大蛇公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出雲, 大蛇
+cluster1:(5)
+スポット, 公園, スサノオノミコト, 石像, 神話
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 2entities.

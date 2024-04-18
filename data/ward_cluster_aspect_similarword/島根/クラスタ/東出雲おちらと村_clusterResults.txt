@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東出雲おちらと村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+言葉, 意味
+cluster1:(5)
+ランチ, 建物, 昼, 村, 蕎麦
+cluster2:(1)
+出雲地方
+cluster3:(1)
+東出雲おちら
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

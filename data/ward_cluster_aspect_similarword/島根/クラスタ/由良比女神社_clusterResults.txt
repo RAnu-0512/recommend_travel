@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:由良比女神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+イカ, イカだらけ, イカよせ浜, イカ寄せ, イカ寄せ浜
+cluster1:(3)
+神社, 社殿, 鳥居
+cluster2:(4)
+入り江, 景色, 浜, 海
+cluster3:(6)
+前, 右大臣, 中, 左大臣, 人形, 周り
+cluster4:(1)
+浦郷
+cluster5:(1)
+色あせ感
+cluster6:(1)
+阿吽
+cluster7:(1)
+随身門
+cluster8:(4)
+水若酢, 隠岐, 隠岐国一宮, 隠岐観光
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 4entities.

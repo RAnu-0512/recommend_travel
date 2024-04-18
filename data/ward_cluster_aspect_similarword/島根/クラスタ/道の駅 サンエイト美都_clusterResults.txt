@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 サンエイト美都>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+益田, 広島
+cluster1:(6)
+途中, 地域, ドライブ, 地元, 人, 地
+cluster2:(4)
+駅, 構内, そば, 食堂
+cluster3:(3)
+国道, 道, 下道
+cluster4:(1)
+柴犬発祥
+cluster5:(4)
+中央部, 中心部, 物産館エリア, 美都地区
+cluster6:(1)
+驛そば
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 4entities.

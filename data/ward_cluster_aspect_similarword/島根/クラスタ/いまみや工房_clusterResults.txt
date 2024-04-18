@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いまみや工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ろくろ体験, 電動ろくろコース
+cluster1:(2)
+ピザ, ピザランチ
+cluster2:(3)
+器, 盆, 舌
+cluster3:(8)
+ギャラリー, 思い出, トーク, 出来上がり, 雰囲気, セット, アドバイス, 作り方
+cluster4:(4)
+サラダ, ランチ, 焼き物, スープ
+cluster5:(3)
+主人, 家族, 妻
+cluster6:(15)
+趣, 先生, 予約, コツ, 空間, 土, 作品, 模様, 目, 時間, 道, こと, もの, 要望, 場所
+cluster7:(12)
+完成品, 焼き上がりも, 何か, 初体験, ねり体験, 陶芸体験, 途中指導, 完成, 体験, 陶芸教室, 教え方, 陶芸
+
+howmany entities : 49
+howmany clusters : 8
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 6
+deleted 4entities.

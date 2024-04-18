@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田部美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+収集品, 展示, 品, 展示物, 美術品, 展示品
+cluster1:(2)
+愛用, 必見
+cluster2:(2)
+北側, 隣
+cluster3:(3)
+中心, もの, 人
+cluster4:(2)
+日本, 地元
+cluster5:(8)
+松江城, 造り, コレクション, 勉強, 美術館, 長屋門, 建物, 茶道具
+cluster6:(1)
+茶
+cluster7:(1)
+名士
+cluster8:(1)
+旧宅
+cluster9:(5)
+茶道, 茶道関係, 喫茶室, 湯文化, 藩主
+cluster10:(9)
+松平治郷公, 田部美術館, 不昧公, 松江市, 田部長右衛門, 吉田村, 田部家, 小泉八雲, 松江藩
+cluster11:(1)
+塩見縄手沿いの武家屋敷群
+
+howmany entities : 41
+howmany clusters : 12
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 5
+deleted 10entities.

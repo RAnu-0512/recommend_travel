@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清巌寺(島根県松江市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+気品, 役割
+cluster1:(12)
+南, 廃仏毀釈, 女性, 温泉寺, 経緯, 北側, おしろい, 初期, 観音堂, 顔, 隣, 明治
+cluster2:(1)
+玉造
+cluster3:(3)
+おしろい地蔵, 白粉, 地蔵
+cluster4:(6)
+伽藍, 本堂, 本尊, 廃寺, 境内, 堂
+cluster5:(13)
+温泉山, 美肌, 美肌の湯, 湯, 温泉街, 地蔵像, 玉作り神社, 美肌祈願, 祈願, 観音像, 岩屋寺, 温泉, 清厳寺
+cluster6:(1)
+出雲33番札所の札止所
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 4
+deleted 4entities.

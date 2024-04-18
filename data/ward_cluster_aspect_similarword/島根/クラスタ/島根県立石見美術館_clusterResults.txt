@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島根県立石見美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(33)
+天井, 遠目, 常設展, 現代美術, 複合施設, ロビー, いわみ芸術劇場, 劇場, シャネル, 鴎外ゆかり, 作品, 一体, ドレス, 美術, 独特, エントランス, ファッション, 全国, 美術館, 施設, アート, 美しさ, 展示室, 割引, 建物, 芸術, 市民, 間近, DVD上映, 場所, 特別展, 駐車場, コレクション展
+cluster1:(6)
+島根県立石見美術館, 益田市, 石見ぶらり手形, 石州瓦, 音楽堂, 草間彌生
+
+howmany entities : 39
+howmany clusters : 2
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 2
+deleted 0entities.

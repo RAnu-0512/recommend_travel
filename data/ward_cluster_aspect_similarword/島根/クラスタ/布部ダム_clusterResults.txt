@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:布部ダム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+別名白椿公園, 白椿湖
+cluster1:(3)
+ダム, 布部ダム, ダム湖
+cluster2:(10)
+途中, 公園, 亀嵩, 遊歩道, 飯梨川, 上流, 中之島公園, 椿, 周囲, 広瀬町
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

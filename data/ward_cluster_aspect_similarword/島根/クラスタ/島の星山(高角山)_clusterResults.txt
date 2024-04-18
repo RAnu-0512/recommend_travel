@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島の星山(高角山)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+山頂, 名前, 車, 山, 島の星山, 付近
+cluster1:(2)
+国道, 隕石
+cluster2:(1)
+星型
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

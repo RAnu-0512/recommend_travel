@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海洋スポーツセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+初体験, カヤック体験, 体験
+cluster1:(4)
+湾内, 洞窟, 海側, 海
+cluster2:(2)
+利くスタッフ, 機転
+cluster3:(2)
+カヌー, カヤック
+cluster4:(6)
+おすすめ, メニュー, キャンセル, おかげ, シーカヤック, アメンボー
+cluster5:(1)
+隠岐島
+cluster6:(3)
+前, 案内, 現地
+cluster7:(7)
+感謝, 変化, 快感, 中止, ウソ, 機会, 天気
+cluster8:(1)
+最終日
+cluster9:(1)
+台風接近
+
+howmany entities : 30
+howmany clusters : 10
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 7entities.

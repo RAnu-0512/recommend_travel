@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かなぎウエスタンライディングパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乗馬, 乗馬体験
+cluster1:(3)
+オートバイ神社, 頂上, 山
+cluster2:(7)
+世話, コスパ, 食事, 馬, レストラン, お守り, 施設
+cluster3:(1)
+朱印
+cluster4:(2)
+営業時間, 浜田市
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 5entities.

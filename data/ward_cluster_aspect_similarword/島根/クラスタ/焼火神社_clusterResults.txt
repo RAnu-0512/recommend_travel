@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:焼火神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+焼火神社, 焼火
+cluster1:(4)
+伝統, 歴史, 深み, 伝説
+cluster2:(2)
+陸上, 武家
+cluster3:(13)
+途中, 参り, 他, 岩, 社, 後鳥羽上皇, パワー, パワースポット, 建物, 船着き場, 人, 海, 看板
+cluster4:(1)
+古さ
+cluster5:(9)
+神社, 島前地区最高峰, 神社めぐり, 地域柄, 隠岐, 流罪, 島人, 本殿, 駐車場
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 5entities.

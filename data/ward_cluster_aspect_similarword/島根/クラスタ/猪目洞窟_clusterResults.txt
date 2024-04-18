@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猪目洞窟>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+猪目洞窟, 洞窟
+cluster1:(2)
+古代人, 出雲国
+cluster2:(2)
+国, 風土記
+cluster3:(5)
+入口, 前, 雰囲気, 入り口, 場所
+cluster4:(3)
+印象, 沢山, 方
+cluster5:(1)
+境目
+cluster6:(1)
+世
+cluster7:(1)
+穴
+cluster8:(3)
+漁師, 黄泉, 釣り
+cluster9:(1)
+現実感
+
+howmany entities : 21
+howmany clusters : 10
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 10entities.

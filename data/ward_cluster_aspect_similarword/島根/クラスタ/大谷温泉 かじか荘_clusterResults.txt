@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大谷温泉 かじか荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宿泊, 温泉
+cluster1:(2)
+店, 飲食
+cluster2:(5)
+会社, 感じ, 集まり, 周辺, 先
+cluster3:(1)
+大谷温泉自然
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 5entities.

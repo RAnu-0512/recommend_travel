@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宍道湖西岸なぎさ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+多数, 人達
+cluster1:(2)
+公園, 湖
+cluster2:(1)
+公園らしさ
+cluster3:(1)
+宍道湖西岸なぎさ公園
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芦谷峡やまめの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+大人, 子どもたち, 子供, 子供たち, 家族連れ
+cluster1:(2)
+印象, 気分
+cluster2:(3)
+やつ, 方, ほう
+cluster3:(3)
+仕方, 予定, こと
+cluster4:(1)
+注意
+cluster5:(1)
+クチ口コミ
+cluster6:(2)
+ねぇー, 笑)
+cluster7:(1)
+場所柄
+cluster8:(25)
+キャーキャー, 初心者, 魚釣り, 他, 予約, ニジマス, 家族, 話, コース, 店内, 焼き魚, プラン名, 店, 夏休み, 丸揚げ, 釣り竿, 最後, 時間, プラン, クチコミ, 池, 旅行, 人, 釣り堀, 子ども
+cluster9:(6)
+満腹, ご飯, 定食, 料理内容, 料理, 食事
+cluster10:(11)
+ビニール袋, 山女魚, 竿, 餌, 刺身, ヤマメ塩焼き, 魚, 清流釣り堀, 釣りたて, 釣り, 唐揚げ
+cluster11:(3)
+豪華12品料理, 豪華12品, よぉー!
+
+howmany entities : 63
+howmany clusters : 12
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 7
+deleted 7entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天野紺屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+柄, 藍
+cluster1:(2)
+家族, 全員
+cluster2:(2)
+祖母, 娘
+cluster3:(3)
+もの, 体験, 記念
+cluster4:(1)
+何か
+cluster5:(1)
+藍染体験
+cluster6:(1)
+未就学
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 9entities.

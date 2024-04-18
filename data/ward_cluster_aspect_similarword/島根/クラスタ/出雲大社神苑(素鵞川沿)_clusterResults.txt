@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲大社神苑(素鵞川沿)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出雲大社, 出雲大社神苑
+cluster1:(7)
+神社, 神苑, 参道, 本殿, 境内, 参拝, 駐車場
+cluster2:(2)
+保育園児たち, 川向こう
+cluster3:(3)
+白兎, 因幡, 出雲
+cluster4:(20)
+途中, 見ごたえ, ホタル, 感じ, 一角, 時期, ソメイヨシノ, 話, 左側, ウサギ, 木, どこか, 事, 雰囲気, 気持ち, 時間, 手入れ, あちこち, 場所, 方
+cluster5:(3)
+桜, 春, 満開
+cluster6:(2)
+小川, 鳥居
+cluster7:(4)
+川, 橋, 清流, 蛍
+cluster8:(9)
+遠足, 清掃, 風景, 水量, 景色, 庭園, 石像, 広場, 像
+cluster9:(1)
+素鳶川
+
+howmany entities : 53
+howmany clusters : 10
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 6
+deleted 7entities.

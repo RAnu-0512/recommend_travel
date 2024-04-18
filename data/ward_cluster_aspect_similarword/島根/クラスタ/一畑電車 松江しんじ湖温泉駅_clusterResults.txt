@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一畑電車 松江しんじ湖温泉駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+電車, 駅員
+cluster1:(10)
+吹き抜け, 駅, 周辺, ガラス張り, 感じ, 宍道湖, スタンプラリー, 経由, 建物, 隣
+cluster2:(2)
+朝食, 散歩
+cluster3:(2)
+足湯, 旅館
+cluster4:(1)
+開放感
+cluster5:(9)
+しんじ湖温泉街, 松江駅, しんじ湖温泉駅, 出雲市駅, 出雲, 出雲大社駅, 宍道湖畔, 松江, 出雲大社
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 7entities.

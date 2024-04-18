@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三歳社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+お社, 三歳社, 社
+cluster1:(4)
+車, 道, 車道, 山道
+cluster2:(10)
+途中, 裏手, 直近, 横, 先, 雰囲気, 苦労, 場所, 息子, 看板
+cluster3:(4)
+橋, 雨, 神, 山中
+cluster4:(1)
+開運
+cluster5:(1)
+脚光
+cluster6:(2)
+参拝客, 駐車場
+cluster7:(6)
+神楽殿, 境外摂社, 大国主命, 八雲瀧, 未舗装路, 出雲大社
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 4entities.

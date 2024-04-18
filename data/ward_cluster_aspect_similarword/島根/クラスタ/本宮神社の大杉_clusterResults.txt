@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本宮神社の大杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本宮神社, 神社, 大杉
+cluster1:(2)
+高さ, 樹齢
+
+howmany entities : 5
+howmany clusters : 2
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 2entities.

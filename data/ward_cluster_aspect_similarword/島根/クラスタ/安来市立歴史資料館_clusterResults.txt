@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安来市立歴史資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+堀尾, 尼子, 毛利
+cluster1:(3)
+城跡, 城主, 城
+cluster2:(2)
+米子, 米子城跡
+cluster3:(19)
+飯梨川, 車, 駅, 周辺, 展示, 文字, 予備知識, スタンプ押印, 案内図, 歴史, 距離, 変遷, 遺品, 予定, ジオラマ模型, ジオラマ, スタンプ, 麓, 乱世資料
+cluster4:(3)
+富田城, 月山富田城跡, 天守台跡
+cluster5:(1)
+安来市立歴史資料館
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 3entities.

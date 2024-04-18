@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船通山(島根県奥出雲町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+由縁, 山, 季節, 空気, 家族, 船通山, 景色, 船通山麓, マイナスイオン, ツルツルすべすべ感, 花, 記念碑, 気持ち, スサノヲノミコト, カタクリ, 山頂, 伝説, ヴィラ船通山, 周囲, ヤマタノオロチ
+cluster1:(3)
+登山時間, 登山, 登山道
+cluster2:(3)
+斐乃上温泉, 天然温泉, 温泉
+cluster3:(1)
+あまのむらくものつるぎ
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 1entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:琴ヶ浜--------------------
+top3 entities near to cluster0>>
+駐車, 料金, 有料
+top3 entities near to cluster1>>
+浜辺, 砂浜, 海岸
+top3 entities near to cluster3>>
+トイレ, キュッキュ, キュッキュッキュ
+top3 entities near to cluster6>>
+太陽風, 太陽
+top3 entities near to cluster10>>
+電車, 漫画, マンガ
+top3 entities near to cluster11>>
+時期, 季節, 時間
+top3 entities near to cluster14>>
+砂, 琴音, 琴

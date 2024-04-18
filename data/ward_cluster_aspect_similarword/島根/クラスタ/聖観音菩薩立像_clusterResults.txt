@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:聖観音菩薩立像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+文化財, 清水寺
+cluster1:(1)
+寺
+cluster2:(1)
+山陰
+cluster3:(1)
+宝庫
+cluster4:(1)
+仏教美術
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

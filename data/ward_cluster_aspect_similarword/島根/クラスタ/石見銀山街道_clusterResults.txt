@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石見銀山街道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+趣, 市街, 散策, 風情, 遺跡, 跡, 街並み地区, 集落, 地形, 旧家
+cluster1:(5)
+雪, 銀, 現役, 大阪, 湊
+cluster2:(3)
+中, 時間, 場所
+cluster3:(10)
+トンネル, 温泉津, 違和感, スポット, 雰囲気, 小学校, 街並み, 町並み, 人, レンタサイクル
+cluster4:(2)
+店, 建物
+cluster5:(1)
+徒歩
+cluster6:(1)
+電動自転車
+cluster7:(10)
+世界遺産, 道路沿い, 道路, 木枠, 龍源寺間歩, 道, 県道, バス, 路線バス, バス時間
+cluster8:(8)
+銀山地区, 銀山, 石見銀山, 石見街道, 石見, 大田市駅, 大森地区, 毛利元就
+
+howmany entities : 50
+howmany clusters : 9
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 6
+deleted 4entities.

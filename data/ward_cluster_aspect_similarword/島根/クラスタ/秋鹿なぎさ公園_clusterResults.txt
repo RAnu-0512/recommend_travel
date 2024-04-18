@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋鹿なぎさ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(34)
+途中, 泳ぎ, 夕景, 休業, 周辺, 山, カヌー, ルート, 公園, 光景, 景色, 休憩, 休憩施設, 湖, 生憎, 道の駅, 予定, 時間, 道, 何ヵ所, 施設, ソファー, 売店, 美しさ, 霧, 白鳥, 空模様, ボート, 自然, 味噌汁, しじみ, 昼寝, ヨット, 宍道湖
+cluster1:(3)
+秋鹿なぎさ公園, 選抜高校野球, 出雲大社
+
+howmany entities : 37
+howmany clusters : 2
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正法寺(島根県浜田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+菩薩型立像, 行基菩薩, 行基
+cluster1:(15)
+正法寺, 薬師如来像, 仁王像, 迫力, 竜沢寺, 歴史, 場所, 釈迦如来, 木喰仏, にらみ, 真言宗, 浜田市, 島根県, 寺, 造形美
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

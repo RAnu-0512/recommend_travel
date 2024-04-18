@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城上神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+三瓶山麓, 大森, 石見銀山, 大森地区
+cluster1:(25)
+天井, 神社, 下, 家紋, 者, 鏡天井, 方々, キーン, 大森町, 建設, 拝殿, 龍, 鳴き龍, 目, 音色, 外側, 城上神社, 絵, 音, 町並み, 中央, 場所, 両手, 手, 絵師
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 0entities.

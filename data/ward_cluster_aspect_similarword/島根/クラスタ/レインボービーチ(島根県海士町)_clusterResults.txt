@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レインボービーチ(島根県海士町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ビーチ, レインボービーチ
+cluster1:(3)
+スポット, おすすめ, ネーミング
+cluster2:(1)
+砂浜
+cluster3:(1)
+海水浴場
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

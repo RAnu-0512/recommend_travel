@@ -1,0 +1,57 @@
+--------------------similar_words:出雲大社御本殿--------------------
+top3 entities near to cluster1>>
+神社, 境内, 本殿
+top3 entities near to cluster2>>
+置物, 石像, 置き物
+top3 entities near to cluster3>>
+建物, 建築, 駐車
+top3 entities near to cluster4>>
+雨降り, 小雨
+top3 entities near to cluster5>>
+大雪, 早春
+top3 entities near to cluster7>>
+ご利益, 御利益, お守り
+top3 entities near to cluster8>>
+うさぎ, ウサギ, うさ
+top3 entities near to cluster10>>
+雰囲気, 佇まい, 気持ち
+top3 entities near to cluster11>>
+オブジェ, 名物, あちこち
+top3 entities near to cluster12>>
+寄り道, 買い物, スタバ
+top3 entities near to cluster15>>
+息子, 愛息, 大吉
+top3 entities near to cluster16>>
+感動, 感謝, 感激
+top3 entities near to cluster17>>
+夢心, 願い, 夢
+top3 entities near to cluster19>>
+表情, 仕草, 姿
+top3 entities near to cluster21>>
+報告, 勉強, 受付
+top3 entities near to cluster27>>
+圧力, 影響, 動き
+top3 entities near to cluster28>>
+手前, 裏手, 外側
+top3 entities near to cluster29>>
+日, 月, 12
+top3 entities near to cluster31>>
+人々, 人達, 大勢
+top3 entities near to cluster32>>
+全国, 地元, 各地
+top3 entities near to cluster34>>
+古代, 歴史, 大国
+top3 entities near to cluster35>>
+迫力, 貫禄, 風格
+top3 entities near to cluster36>>
+神, 神国, 神霊
+top3 entities near to cluster37>>
+浜, 垣, 大浜
+top3 entities near to cluster38>>
+大, 奇跡, 時代
+top3 entities near to cluster42>>
+大社, 神社, 崗神
+top3 entities near to cluster45>>
+本殿, 拝殿, 社殿
+top3 entities near to cluster46>>
+一礼, 拍手, お辞儀

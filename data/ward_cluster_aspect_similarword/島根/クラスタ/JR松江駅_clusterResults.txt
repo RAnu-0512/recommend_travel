@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR松江駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+松江城と城下町, 松江城観光, 観光
+cluster1:(6)
+タラコ色, 電車, 駅, JR, 特急, バス
+cluster2:(2)
+国宝, 人間ギャートルズ
+cluster3:(13)
+松江城, TV, ホテル, モニュメント, 居酒屋, スポット, カフェ, 木次線, シャミネ, 人, ショッピング, クリアー, 山陰本線
+cluster4:(6)
+途中, 目的, 最終, 到着, 時間, こと
+cluster5:(1)
+北詰
+cluster6:(1)
+空き時間
+cluster7:(11)
+本屋, 飲食店, 駅ビル, 国鉄型気動車, おみやげ屋, おそば屋, 店, 駅直結, 商業施設, おみやげ店, 土産
+cluster8:(6)
+松江駅, 宍道駅, 松江大橋, 松江出身の園山俊二, 松江しんじ湖温泉, 松江
+
+howmany entities : 49
+howmany clusters : 9
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 6
+deleted 4entities.

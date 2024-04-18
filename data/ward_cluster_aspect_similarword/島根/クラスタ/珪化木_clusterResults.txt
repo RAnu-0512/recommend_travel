@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:珪化木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+珪化木, 木
+cluster1:(4)
+ブナ, 樹木, 木材, 化石
+cluster2:(4)
+存在, もの, 場所, こと
+cluster3:(4)
+国, 火山灰, 天然記念物, 有機物
+cluster4:(1)
+奇跡
+cluster5:(1)
+跡形
+cluster6:(4)
+海岸沿い, 海岸, 自然造形物, 久手町
+cluster7:(1)
+ケイ酸化合物
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 5entities.

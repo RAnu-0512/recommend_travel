@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石州和紙会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+子供, 全部, 小学生, ビデオ, はがき
+cluster1:(3)
+製作, 作品, 工程
+cluster2:(4)
+石州, 和紙, 和紙製造, 和紙はがき
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 0entities.

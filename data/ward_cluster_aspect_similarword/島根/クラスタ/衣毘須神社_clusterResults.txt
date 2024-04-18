@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:衣毘須神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+美保神社, 衣毘須神社, 衣昆須神社
+cluster1:(22)
+神社, 大潮, 日本, 海岸線, 山陰のモンサンミッシェル, 海岸, 小浜海岸, 砂浜, モンサンミシェル, 岩礁, ソレ, 配置構成, ロケーション, 山陰, 神, 境内, 実物, 海, 潮, 大波, 先, こと
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 0entities.

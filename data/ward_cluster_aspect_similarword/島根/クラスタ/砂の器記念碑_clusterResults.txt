@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:砂の器記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+器, 砂, 砂の器
+cluster1:(2)
+路肩, 国道
+cluster2:(2)
+小説, 原作
+cluster3:(2)
+舞台, 映画
+cluster4:(19)
+神社, 車, 駅, 階段, 地域, 文字, 前, 奥出雲, 言葉, アクセス, 地名, ゴールデンウィーク期間, 記念碑, ドラマ, 撮影, あれこれ, 場所, 地, 見学
+cluster5:(1)
+詣り
+cluster6:(1)
+所要時間
+cluster7:(8)
+亀嵩エリア, 松本清張, 亀嵩神社, 石の記念碑, 湯野神社, 亀嵩(かめだけ), 奥出雲交流館, 亀嵩駅
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 8entities.

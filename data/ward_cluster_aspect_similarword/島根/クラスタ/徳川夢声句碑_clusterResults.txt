@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:徳川夢声句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+益田, 人, 津和野
+cluster1:(3)
+徳川夢声句碑, 徳川夢声, 夢声
+cluster2:(1)
+山茶花の雨となりたる別れか と詠んだ句
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 1entities.

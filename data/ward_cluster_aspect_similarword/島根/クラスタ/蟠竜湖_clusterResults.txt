@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蟠竜湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+姿, 形, こと
+cluster1:(2)
+説明, 名
+cluster2:(10)
+ボート乗り場, とぐろ, 無愛想, スタッフ, 金, 面倒臭, ボート, デート, 客, 蟠竜湖
+cluster3:(2)
+海岸, 陸
+cluster4:(3)
+餌, 鳥, 池
+cluster5:(1)
+鴨等
+cluster6:(1)
+コイ
+cluster7:(1)
+注意書き
+cluster8:(1)
+あんたら注意書きちゃんと読んだんか!
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 8entities.

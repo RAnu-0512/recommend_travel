@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宍道湖公園 湖遊館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+スケートリンク, リンク, スポット, 子供, お気に入り, 初心者, スケート
+cluster1:(2)
+関係, 施設
+cluster2:(2)
+公園, 自然
+cluster3:(1)
+年齢
+cluster4:(1)
+湖
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 6entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和紙のはくぶつかん 安部榮四郎記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+土佐和紙, 和紙文化, 和紙
+cluster1:(13)
+準備, やさしさ, はがき, 指導, 用紙, 歴史, 乾き, 紙すき, 体験, 出雲, 雨, どこか, こと
+cluster2:(2)
+民芸運動, 記念館
+cluster3:(1)
+安部榮四郎
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 3entities.

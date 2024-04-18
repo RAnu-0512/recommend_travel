@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後鳥羽上皇御火葬塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+上皇, 後鳥羽院, 天皇
+cluster1:(2)
+墓所, 遺骨
+cluster2:(3)
+後鳥羽, 後鳥羽上皇, 京都
+cluster3:(3)
+状態, 方, こと
+cluster4:(2)
+夫婦, 家
+cluster5:(1)
+徳川
+cluster6:(1)
+江戸時代
+cluster7:(6)
+隠岐旅行, 火葬塚, 隠岐, 大原, 大原陵, 隠岐神社
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 4
+deleted 6entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉造温泉 松乃湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+様子, 案内, 席, 人手, 火, 受付, 時間, 段階, 人数, 会場
+cluster1:(2)
+風呂, 温泉
+cluster2:(2)
+料理, 食事
+cluster3:(4)
+露天風呂, 家族, スタッフ, サウナ
+cluster4:(1)
+鍋
+cluster5:(1)
+前菜
+cluster6:(1)
+日帰り入浴
+cluster7:(1)
+泡風呂
+cluster8:(1)
+配膳
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 9entities.

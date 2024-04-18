@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちご農園こころ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+家族, 夫婦
+cluster1:(3)
+おまけ, 対応, 他
+cluster2:(1)
+農園
+cluster3:(1)
+甘いいちご
+cluster4:(1)
+経営者
+cluster5:(1)
+おなか一杯
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

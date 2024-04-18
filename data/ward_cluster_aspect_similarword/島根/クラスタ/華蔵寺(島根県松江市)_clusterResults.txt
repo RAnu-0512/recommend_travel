@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:華蔵寺(島根県松江市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+途中, 参道, 車, 寺
+cluster1:(2)
+中海, 大山
+cluster2:(1)
+札所
+cluster3:(1)
+朱印料
+cluster4:(1)
+出雲國神仏霊場
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:絲原家庭園 洗心乃路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日本庭園, 庭園
+cluster1:(5)
+人, 日本, 観光, 方, 感じ
+cluster2:(1)
+絲原記念館
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

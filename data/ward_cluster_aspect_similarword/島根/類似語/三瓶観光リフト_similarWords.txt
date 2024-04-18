@@ -1,0 +1,9 @@
+--------------------similar_words:三瓶観光リフト--------------------
+top3 entities near to cluster0>>
+瓶, 三, 五
+top3 entities near to cluster1>>
+乗り場, 乗車
+top3 entities near to cluster2>>
+山頂, 三瓶山, 麓
+top3 entities near to cluster7>>
+標高, 展望

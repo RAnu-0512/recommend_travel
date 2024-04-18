@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加茂岩倉遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+加茂岩倉遺跡, 荒神谷遺跡, 加茂岩倉
+cluster1:(9)
+発掘現場, 古代史, 出土地, 観光地, 銅鐸, 展示館, 銅鐸キーホルダー, 駐車場, 出土
+cluster2:(4)
+坂道, 階段, 人家, 農道
+cluster3:(3)
+至宝, 遺跡, 宝物
+cluster4:(3)
+工事, バス, 廻り
+cluster5:(16)
+ところ, 山, 感じ, 説明, 発見, ニュース, 木, 横, 急斜面, 中, 最後, 偶然, 場所, 人, バケット, ガイダンス
+cluster6:(1)
+将
+cluster7:(3)
+私達夫婦, 空中木道, 念願叶
+cluster8:(1)
+森歴史博物館-荒神谷遺跡-加茂倉遺跡
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 7
+deleted 2entities.

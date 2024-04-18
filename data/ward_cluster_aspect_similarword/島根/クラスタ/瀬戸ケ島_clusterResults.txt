@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸ケ島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+マリン大橋, 浜田市
+cluster1:(9)
+バーベキュー, 釣り, 場所, 多く, 島, 他, 北西, 日本海, 海水浴
+cluster2:(3)
+海水浴場, 利用客, 海水浴客
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 2entities.

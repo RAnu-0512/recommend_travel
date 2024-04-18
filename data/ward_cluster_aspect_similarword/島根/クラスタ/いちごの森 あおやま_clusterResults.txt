@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちごの森 あおやま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+親, 子, 家族, 娘, 子達, 子供, 小さな子, 子供たち
+cluster1:(3)
+品種, 種類, 何種類
+cluster2:(15)
+滑り込み, ストレス, いちご, グループ, レクチャー, ビニールハウス, 持ち込み, ペース, シート, イチゴ, スタッフ, コップ, ハウス, シーズン, メンバー
+cluster3:(2)
+気, 感じ
+cluster4:(3)
+他, 人, 方
+cluster5:(1)
+時間
+cluster6:(1)
+お腹
+cluster7:(7)
+接客, 貸切, 予約, 貸し切り状態, 高級いちご, 苺, 客
+cluster8:(5)
+狩り, 練乳入れ, イチゴ狩り, いちご狩り, 練乳
+cluster9:(5)
+高さ, 速さ, 食べ応え, 採り方, 食べ比べ
+
+howmany entities : 50
+howmany clusters : 10
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 7
+deleted 4entities.

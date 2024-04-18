@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:8farm>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+いちご狩り, 苺狩り
+cluster1:(2)
+子供, 子供たち
+cluster2:(2)
+友人, 友達
+cluster3:(6)
+オーナー, いちご, イチゴ, 入り口, ハウス, 子連れ
+cluster4:(1)
+大阪
+cluster5:(1)
+椅子
+cluster6:(1)
+苺
+cluster7:(5)
+感じ, 事前, 説明, 姿, 天気
+cluster8:(1)
+少人数
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 10entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美濃地屋敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+屋敷, 美濃地屋敷
+cluster1:(5)
+建物, 文化財, 資料, もの, 家
+cluster2:(2)
+母屋, 庄屋
+cluster3:(1)
+茅葺き屋根
+cluster4:(1)
+建築物
+cluster5:(2)
+製鉄業, 益田市
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 8entities.

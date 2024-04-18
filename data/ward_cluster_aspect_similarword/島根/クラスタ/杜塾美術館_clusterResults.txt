@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杜塾美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+見ごたえ, 美術館
+cluster1:(1)
+作品
+cluster2:(1)
+建物
+cluster3:(1)
+目
+cluster4:(1)
+趣
+cluster5:(2)
+梁, 天井
+cluster6:(1)
+庄屋
+cluster7:(1)
+中尾彰
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

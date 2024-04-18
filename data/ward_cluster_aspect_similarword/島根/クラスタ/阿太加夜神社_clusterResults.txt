@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿太加夜神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松江城山稲荷神社, 稲荷神社
+cluster1:(7)
+当社神官, 松江築城, ひとつ, 慶長, 松岡兵庫頭, 祈祷力, 神官
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 2entities.

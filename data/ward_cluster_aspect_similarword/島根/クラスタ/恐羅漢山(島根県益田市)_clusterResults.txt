@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恐羅漢山(島根県益田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+スポット, 最高峰, 県, 景色, 山, 恐羅漢山
+cluster1:(3)
+広島県, 益田市, 島根県
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 0entities.

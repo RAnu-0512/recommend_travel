@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:すうべにあ出雲>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+出雲そば, 松江地方, 出雲特産, 出雲市駅, 出雲, 出雲大社
+cluster1:(15)
+藍染め, JR, 製品, エキナカ, グッズ, 菓子, キャラ, 時間, アトネス, 吉田, ショッピングプラザ, 手, 土産物, 土産, 食品
+cluster2:(8)
+観光案内所, 観光情報, 駅構内, 土産物専門店, 特産品, 案内所, 工芸品, 加工食品
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 0entities.

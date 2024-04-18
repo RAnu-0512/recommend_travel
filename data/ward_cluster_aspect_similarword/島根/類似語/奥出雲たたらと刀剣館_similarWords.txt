@@ -1,0 +1,17 @@
+--------------------similar_words:奥出雲たたらと刀剣館--------------------
+top3 entities near to cluster0>>
+資料, 館, 刀剣
+top3 entities near to cluster3>>
+見学, 展示, 実演
+top3 entities near to cluster4>>
+勉強, 努力, 理解
+top3 entities near to cluster5>>
+館内, 施設, 映画
+top3 entities near to cluster6>>
+製造, 製品, 販売
+top3 entities near to cluster10>>
+日本刀, レプリカ
+top3 entities near to cluster13>>
+現代, 古代, 伝統
+top3 entities near to cluster14>>
+製鉄, 文化

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野町日本遺産センター Tsuwano-cho Japan Heritage center>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光客, 日本遺産センター
+cluster1:(16)
+展示, 女性, 津和野, 椅子, 歴史, 展示物, 映像, おじ, 旅館, 途端, 所, コロナ禍, 今昔, 茶, 街, 方
+cluster2:(1)
+本町殿町
+cluster3:(1)
+太鼓谷稲成 カトリック教会
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 4entities.

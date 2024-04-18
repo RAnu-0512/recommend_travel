@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観光交流プラザ売店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+スポット, 電車, 絵柄, 名物, 施設, 店内, 日本, 駅, 周辺, 方, モチーフ, 土産, 種類, 顔, 踊り
+cluster1:(3)
+安来駅, JR安来駅, 安来
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

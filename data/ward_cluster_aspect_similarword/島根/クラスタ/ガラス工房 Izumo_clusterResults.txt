@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ガラス工房 Izumo>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+末っ子, ガラス, コップ, 子
+cluster1:(4)
+色, 形, 模様, 上
+cluster2:(2)
+個性, 指導
+cluster3:(4)
+グラス作り, 作り, ガラス吹き体験, コップ作り体験
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 2entities.

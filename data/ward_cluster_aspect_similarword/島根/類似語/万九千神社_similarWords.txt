@@ -1,0 +1,13 @@
+--------------------similar_words:万九千神社--------------------
+top3 entities near to cluster0>>
+神, 命, 八
+top3 entities near to cluster2>>
+農業, 産業, 食物
+top3 entities near to cluster3>>
+建築, 土木, 住宅
+top3 entities near to cluster5>>
+繁栄, 人々, 人達
+top3 entities near to cluster6>>
+工事, 改築
+top3 entities near to cluster10>>
+神社, 境内, 祭神

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜田市旭ふるさと歴史公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+スポット, 公園, 歴史資料, タイムスリップ感, 眺め, 家族連れ, 復元古墳, 展望台, 歴史公園, 子ども
+cluster1:(3)
+村上水軍, 浜田市, 島根県
+cluster2:(1)
+竪穴式住居・物見やぐら
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

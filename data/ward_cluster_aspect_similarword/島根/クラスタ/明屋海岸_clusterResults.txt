@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明屋海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+注意喚起, 隠岐旅行, 団体行動
+cluster1:(2)
+岩壁, 岩
+cluster2:(2)
+ハート型, 崩れ
+cluster3:(13)
+途中, レンタカー, 車, むき出し, キャンプ地, 色合い, 中ノ島, 迫力, 緑, 自転車, 赤色, 海, 近く
+cluster4:(1)
+立札
+cluster5:(1)
+菱浦港
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 6entities.

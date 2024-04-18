@@ -1,0 +1,11 @@
+--------------------similar_words:福光石採石場--------------------
+top3 entities near to cluster0>>
+採石場, 採石, 採掘場, 採掘
+top3 entities near to cluster1>>
+敢当, 跳川
+top3 entities near to cluster2>>
+空間, 道具, 洞窟
+top3 entities near to cluster5>>
+横穴, 地下, 洞窟
+top3 entities near to cluster7>>
+見学, 体験, 視察

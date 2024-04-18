@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福浦海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+潮風, 遠浅, 海岸, 海
+cluster1:(5)
+泳ぎ, スポット, 海水浴場, 人, 気持ち
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 0entities.

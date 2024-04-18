@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅 たたらば壱番地--------------------
+top3 entities near to cluster0>>
+パン粉, パン, 小麦粉
+top3 entities near to cluster1>>
+駅店, 駅, 名物
+top3 entities near to cluster2>>
+施設, 全線
+top3 entities near to cluster3>>
+土産, おみやげ, 土産物

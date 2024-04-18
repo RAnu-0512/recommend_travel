@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+飯南町, 出雲観光, 出雲市, 島根県
+cluster1:(5)
+川, 河原, 荒々しい川, 橋, 川沿い
+cluster2:(7)
+周辺, 遊歩道, 神戸川, 地元, 場所, 方, 立久恵峡
+cluster3:(2)
+生活, 自然
+cluster4:(1)
+中部
+cluster5:(1)
+南北
+cluster6:(9)
+観光目的, 奇岩, 景色, 河川, 吊橋, 国道, 景観, 紅葉, 温泉
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 4entities.

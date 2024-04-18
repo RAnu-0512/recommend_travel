@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海士ダイビングサービス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自然, 海
+cluster1:(7)
+説明, 人, 体験, ウミウシ, 方, スタッフ, ダイビング
+cluster2:(1)
+水温
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 3entities.

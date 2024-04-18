@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:峯寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+境内, 寺, 古刹
+cluster1:(5)
+堂, 和, 雰囲気, 庭園, 見物
+cluster2:(1)
+島根県
+cluster3:(1)
+峯寺庭園
+cluster4:(1)
+出雲國神仏霊場17番札所
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

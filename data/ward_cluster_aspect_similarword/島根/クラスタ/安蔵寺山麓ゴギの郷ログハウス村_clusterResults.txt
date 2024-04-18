@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安蔵寺山麓ゴギの郷ログハウス村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自然, 安蔵寺山
+cluster1:(1)
+設備
+cluster2:(1)
+自然石
+cluster3:(1)
+登山口
+cluster4:(1)
+安蔵寺山麓ゴギの郷ログハウス村
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

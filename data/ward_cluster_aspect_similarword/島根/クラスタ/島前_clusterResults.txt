@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島前>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海士町, 海士
+cluster1:(31)
+海上, 車, エリア, 断崖絶壁, 感じ, カルデラ, 方々, 火山, 玄武岩, 西ノ島, 奇岩, 景色, 馬, 観光, 魅力, 牛, ほうで, 絶壁, 隠岐, 跡, 地区, 西側, 地元, 自然, 場所, 人, 島, 眺め, 方, 知夫里島, こと
+cluster2:(3)
+展望台, 電動自転車, 広角レンズ
+cluster3:(3)
+遊覧船観光, 柱状節理, 火山跡且つ
+
+howmany entities : 39
+howmany clusters : 4
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 3
+deleted 2entities.

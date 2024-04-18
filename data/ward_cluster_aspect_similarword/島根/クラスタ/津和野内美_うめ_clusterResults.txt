@@ -1,0 +1,10 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野内美_うめ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木, 梅
+
+howmany entities : 2
+howmany clusters : 1
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 2entities.

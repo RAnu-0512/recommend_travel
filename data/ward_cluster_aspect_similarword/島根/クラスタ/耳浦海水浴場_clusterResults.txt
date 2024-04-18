@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:耳浦海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩, 小石
+cluster1:(6)
+サンダル, 緑, 入り江, 浜, 海, 砂浜
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 2entities.

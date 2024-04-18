@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三瓶山定めの松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大久保石見守長安, 石見銀山
+cluster1:(3)
+高原道路, 交通網, 雪道
+cluster2:(2)
+里塚, 松
+cluster3:(7)
+整備, 道標, 里人, ポツン, 基準, 三瓶山, 旅人
+cluster4:(1)
+慶長
+cluster5:(1)
+御料
+cluster6:(1)
+説明板
+cluster7:(1)
+初代奉行
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 8entities.

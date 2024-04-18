@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明屋キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+地球, 崖, 岩, 穴, 空, 地層, 海
+cluster1:(2)
+予約, 設備
+cluster2:(2)
+中, 方
+cluster3:(2)
+キャンプサイト, キャンプ
+cluster4:(2)
+コントラスト, ロマンチック
+cluster5:(1)
+ジオパーク
+cluster6:(2)
+ゴミ箱, トイレ
+cluster7:(1)
+テントサイト
+cluster8:(1)
+歴史
+cluster9:(1)
+地
+cluster10:(1)
+ハート型
+cluster11:(1)
+草付き
+cluster12:(1)
+火山弾
+cluster13:(3)
+凱旋門, キャンプ場, 炊事場
+
+howmany entities : 27
+howmany clusters : 14
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 17entities.

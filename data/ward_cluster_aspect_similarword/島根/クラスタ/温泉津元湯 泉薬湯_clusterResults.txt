@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:温泉津元湯 泉薬湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+熱め, 熱さ, 温度
+cluster1:(7)
+湯船, 薬効, 源泉, 蛇口, 浴槽, 新湯, 入浴
+cluster2:(20)
+外観, 温泉津, 斜め向い, 頭, 写真, スペース, 歴史, ぬるめ, 外場, 普通, 先客, 雰囲気, 時間, こと, 真中, 地元, 体, 人, 場合, 方
+cluster3:(1)
+水分補給
+cluster4:(16)
+元湯, 外湯, かけ湯, あつ湯, ぬる湯, 温泉場, 遊山温泉, 座り湯, 湯, 温泉源, 温泉津温泉, 共同湯, とりあえずかけ湯, 温泉名, 薬師湯, 温泉
+
+howmany entities : 47
+howmany clusters : 5
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 4
+deleted 1entities.

@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:重要文化財 熊谷家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石見銀山, 銀山
+cluster1:(2)
+熊谷, 熊谷家
+cluster2:(2)
+大森, 大森地区
+cluster3:(1)
+毛利家
+cluster4:(3)
+年代, 明治, 昭和
+cluster5:(2)
+現役, 高齢
+cluster6:(3)
+経営, 家業, 再建
+cluster7:(3)
+付近, 内部, 規模
+cluster8:(4)
+雰囲気, 文化財, 町並み, 有福温泉
+cluster9:(2)
+タイム, ボランティアガイド
+cluster10:(2)
+地域, 情報
+cluster11:(1)
+生活
+cluster12:(9)
+頃, 声, 母, 人, 家, 町, もの, こと, 方
+cluster13:(1)
+先祖
+cluster14:(1)
+パン
+cluster15:(6)
+役割, 説明, 案内, 係り, 移動., 順路
+cluster16:(3)
+繁栄ぶり, 暮らしぶり, 所要時間
+cluster17:(7)
+展示物, 見学者, 調度品, 建築物, 建築, 見学, 特別展
+cluster18:(3)
+御屋敷, 屋敷, 代官所
+cluster19:(4)
+主屋, 酒屋, 酒造, 地下蔵
+cluster20:(4)
+商家, 大火, 御用商人, 商人
+cluster21:(1)
+金融業
+cluster22:(18)
+駐車, 宿, 建物, 部屋数, 館内, 部屋, 住宅, 立ちこの地区, 森林, 家屋, 豪邸, 竈, 玄関どころ, 住居, 観光, 陣屋, 玄関先, 家具
+cluster23:(1)
+無料駐車場
+
+howmany entities : 85
+howmany clusters : 24
+howmany entities (more than3entities) : 67
+howmany clusters (more than3entities) : 12
+deleted 18entities.

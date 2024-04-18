@@ -1,0 +1,17 @@
+--------------------similar_words:宍道湖観光遊覧船--------------------
+top3 entities near to cluster1>>
+夕日, 夕陽, 湖
+top3 entities near to cluster5>>
+梅雨, 雨降り
+top3 entities near to cluster7>>
+時間, 時間帯
+top3 entities near to cluster8>>
+ポイント, クーポン, スタッフ
+top3 entities near to cluster9>>
+クルージング, クルーズ, サンセットクルーズ
+top3 entities near to cluster12>>
+乗り場, ベンチ, デッキ
+top3 entities near to cluster13>>
+街並み, 夕暮れ, 曇り空
+top3 entities near to cluster16>>
+遊覧船, 遊覧, 乗船

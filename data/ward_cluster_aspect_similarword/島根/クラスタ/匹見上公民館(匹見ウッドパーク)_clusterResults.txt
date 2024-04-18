@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:匹見上公民館(匹見ウッドパーク)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+匹見峡, 匹見峡温泉, 匹見ウッドパーク, 匹見町, 島根県
+cluster1:(2)
+木工品, 工芸品
+cluster2:(2)
+やすらぎの郷, 見上公民館
+cluster3:(2)
+木製パズル, 木製
+cluster4:(4)
+館内, 観光, 森林, 温泉
+cluster5:(8)
+パズル, 作品, 木, 世界, 作業, 手, パズルコレクション, ウッドパーク
+cluster6:(4)
+拠点施設, パズル館, 峡谷地区, イベント展示館
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 6entities.

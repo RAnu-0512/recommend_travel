@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飯浦海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人形, 人形岩
+cluster1:(4)
+インターネット, 地, 人形峠, 屏風岩
+cluster2:(6)
+日本海岸, 益田市人形峠, 鳥取県, 益田十景, 飯浦海岸, 小浜海岸
+cluster3:(1)
+にんぎょうとうげ
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一畑電車 雲州平田駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+スポット, 子供, 駅, 最寄り駅
+cluster1:(2)
+魅力, 様子
+cluster2:(1)
+員
+cluster3:(4)
+沿線, 電車基地, 鉄道話, 運転体験
+cluster4:(1)
+親切な駅
+cluster5:(1)
+木綿街道
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

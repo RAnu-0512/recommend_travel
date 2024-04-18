@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐白温泉 長者の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+疲労回復, ph値
+cluster1:(2)
+作用, 感触
+cluster2:(2)
+疲れ, 旅
+cluster3:(6)
+小規模, 露天風呂, スポット, カラダ, 地元, 方
+cluster4:(2)
+外観, 施設
+cluster5:(1)
+雪
+cluster6:(2)
+美肌, 肌
+cluster7:(4)
+風呂, 湯, お湯, 温泉
+cluster8:(3)
+食事処, 休憩所, 特産市
+cluster9:(3)
+内湯泉質, アルカリ単純泉肌触り, 古民家風
+
+howmany entities : 27
+howmany clusters : 10
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 11entities.

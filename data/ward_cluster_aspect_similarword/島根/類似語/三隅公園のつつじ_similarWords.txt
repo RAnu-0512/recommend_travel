@@ -1,0 +1,9 @@
+--------------------similar_words:三隅公園のつつじ--------------------
+top3 entities near to cluster0>>
+花色, 花, 種類
+top3 entities near to cluster1>>
+間人, 間, 全体
+top3 entities near to cluster2>>
+時期, 季節, ツツジ
+top3 entities near to cluster4>>
+散歩, 散策, 屋台

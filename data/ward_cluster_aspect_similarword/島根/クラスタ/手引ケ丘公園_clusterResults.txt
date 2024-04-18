@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手引ケ丘公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+手引ケ丘公園, 手引ケ丘公園・風の子楽習館
+cluster1:(27)
+丘, ピクニック, 自然エネルギー, 日本, 山, 子供達, 尻, 敷地, 滑り台, 公園, 弁当, ブランコ, 日光, 敷物, 中, 国道, 施設, 風, 遊具, 野原, 子供, 場所, 眺め, 日本海, 海, アスレチック, 上
+cluster2:(4)
+JR山陰, 仁摩サンドミュージアム, 出雲市, 島根県
+cluster3:(8)
+風の子学習館, 子楽習館, 体験, 学習館, 体験学習施設, 体験コーナー, 風の子楽習館, 創作体験
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 3
+deleted 2entities.

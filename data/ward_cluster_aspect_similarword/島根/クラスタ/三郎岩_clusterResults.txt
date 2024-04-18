@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三郎岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遊覧船, 観光遊覧船
+cluster1:(4)
+三郎, 太郎と次郎, 次郎, 太郎
+cluster2:(10)
+高さ, 写真, 名前, 爺さん, 地元, 迫力, 船, 船長, ほう, 冠島
+cluster3:(4)
+岩, 奇岩, 隠岐観光, 岩周辺
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 2entities.

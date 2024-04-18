@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石見安達美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+石見地方, 石見刀, 石見安達美術館
+cluster1:(8)
+アクアス, 長浜, 陶磁器, 人, 作品, 古美術, 刀剣, 人形
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 0entities.

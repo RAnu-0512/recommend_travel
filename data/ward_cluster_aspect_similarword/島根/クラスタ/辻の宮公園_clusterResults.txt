@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:辻の宮公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+公園, JR, 高台, 西側
+cluster1:(2)
+辻之宮八幡宮, 益田駅
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 2entities.

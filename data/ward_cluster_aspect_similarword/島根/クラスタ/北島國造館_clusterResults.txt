@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北島國造館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(34)
+館内, 新緑, 身, 建築物, 大神, 水, 亀, 歴史, 北島, 潔斎所, 虹, 神域, 館, 雰囲気, 体験, 心字池, 時間, 神, 庭園, 境内, 尾, 建物, 滝, 池, 人, 滝付近, 浄化パワー, 明治, 方, 祭事, 先, こと, 荒神社, 家
+cluster1:(9)
+出雲教, 出雲國造館, 出雲国造, 北島国造館, 神道教団, 千家家, 國造家, 出雲大社, 天照大神
+cluster2:(4)
+大国主大, 亀の尾の瀧, 建造物四脚門, 四脚門
+
+howmany entities : 47
+howmany clusters : 3
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 3
+deleted 0entities.

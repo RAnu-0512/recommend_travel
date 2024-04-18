@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上塩冶地蔵山古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+築山古墳, 上塩冶地蔵山古墳, 古墳
+cluster1:(4)
+通学路, こと, 近く, 別
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 0entities.

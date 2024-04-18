@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カヌーの里おおち>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川, 川下り
+cluster1:(25)
+ユニクロ, キッズ, トレーラーハウス, 先生, 工夫, カヌー, ホテル, ラッシュガード, 真夏, Tシャツ, 変化, 時間, 暑, シャワー室, ロッカー, 流れ, 子供, 連絡, 子供たち, 人, 楽し, カヤック, 短パン, 近く, 上
+cluster2:(3)
+エアリズム, 体験, カヌー体験
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 2
+deleted 2entities.

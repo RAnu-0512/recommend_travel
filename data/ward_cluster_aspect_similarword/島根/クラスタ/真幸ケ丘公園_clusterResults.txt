@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真幸ケ丘公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+花見スポット, 花見
+cluster1:(3)
+敷地, すべり台, アスレチック
+cluster2:(1)
+展望台
+cluster3:(1)
+高低差
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

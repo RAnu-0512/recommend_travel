@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くにびき大橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+くにびき国体, びきメッセ, くにびき大橋
+cluster1:(3)
+松江駅, 松江市, 境港方面
+cluster2:(12)
+車, 道路, ルート, 橋, 宍道湖大橋, 体育館, バス, 湖北, 大橋川, 眺め, 島根大学, 宍道湖
+cluster3:(2)
+交通量, 通行路
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 2entities.

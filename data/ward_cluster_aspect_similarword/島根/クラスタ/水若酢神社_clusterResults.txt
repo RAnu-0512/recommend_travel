@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水若酢神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+檜皮葺屋根, 檜皮葺
+cluster1:(11)
+神社, 寺, 小休憩, 拝殿, 食事所, 社殿, 本殿, 境内, 鳥居, 駐車場, 土俵
+cluster2:(2)
+光景, 衝撃
+cluster3:(2)
+緑, 島
+cluster4:(7)
+隠岐島, バック, ドライブ, 雰囲気, 気持ち, パワースポット, 人
+cluster5:(2)
+形, 流れ
+cluster6:(6)
+歴史, 見所, 昔, 地元, 場所, 近く
+cluster7:(1)
+厚み
+cluster8:(1)
+天気
+cluster9:(1)
+美しさ
+cluster10:(1)
+ラスボス
+cluster11:(1)
+水若酢神社
+
+howmany entities : 37
+howmany clusters : 12
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 13entities.

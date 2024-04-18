@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:風の工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+和紙, 事, 母, 花, 主人, ランプ, 参加, 季節
+cluster1:(2)
+犬守り, ワンちゃん
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

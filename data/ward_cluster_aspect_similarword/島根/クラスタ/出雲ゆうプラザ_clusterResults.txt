@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲ゆうプラザ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+流水プール, 幼児プール, 風呂, 湯, 渚プール, 子供, 子供たち, 温泉
+cluster1:(2)
+長蛇, 列
+cluster2:(2)
+何か, お勧め
+cluster3:(3)
+滑り台, プール, サウナ
+cluster4:(10)
+スライダー, スポット, スライダ, イルカ, 言い方, 夏休み, ジャグジー, マタニティスイミング, あちこち, ウォータースライダー
+cluster5:(1)
+フードコーナー
+cluster6:(6)
+子, 女性, 水着, 人, 方, 客
+cluster7:(5)
+対応, 入場, 料金, 受付, 施設
+cluster8:(5)
+制限, 壁, 時間, 金, 外
+cluster9:(3)
+態度, 一向, 口調
+cluster10:(1)
+浮き輪
+cluster11:(8)
+室内温水プール, 券売機, 出雲ゆうプラザ, 西出雲駅, 更衣室, 監視員, 温水プール, 駐車場
+
+howmany entities : 54
+howmany clusters : 12
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 8
+deleted 6entities.

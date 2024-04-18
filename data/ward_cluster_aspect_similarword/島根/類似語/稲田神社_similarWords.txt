@@ -1,0 +1,9 @@
+--------------------similar_words:稲田神社--------------------
+top3 entities near to cluster0>>
+名田比, 名田
+top3 entities near to cluster1>>
+蕎麦, ソバ, そば
+top3 entities near to cluster7>>
+蕎麦, 庵
+top3 entities near to cluster8>>
+神社, 境内, 本殿

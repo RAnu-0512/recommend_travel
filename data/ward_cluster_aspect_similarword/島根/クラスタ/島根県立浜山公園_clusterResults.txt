@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島根県立浜山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+駅伝, 県大会, 出雲大学, 高校野球, 島根県
+cluster1:(2)
+野球場, 運動場
+cluster2:(2)
+決勝, 開催
+cluster3:(7)
+スポーツ施設, 事実, テニスコート, 中心地, 体育館, スポーツ, 子供
+cluster4:(3)
+総合運動公園, 公園, 遊具
+cluster5:(1)
+ゴール地点
+cluster6:(1)
+砂丘地帯
+cluster7:(1)
+くにびき国体
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 7entities.

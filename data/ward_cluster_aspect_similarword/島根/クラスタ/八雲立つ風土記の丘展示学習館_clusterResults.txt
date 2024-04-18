@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八雲立つ風土記の丘展示学習館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+古代神話時代, 弥生時代, 古墳時代, 古代史, 古墳時代付近, 石器時代, 古代, 律令時代, 縄文時代
+cluster1:(2)
+展示品, 出土品
+cluster2:(5)
+丘, 風土記の丘, 松江市, 奈良, 出雲
+cluster3:(18)
+見ごたえ, 興味, 松江城, 中心, スポット, 歴史, 住居跡, 時代, 資料館, 土器, 価格, 風土記, 遺跡, 南側, 古墳, 建物, 埴輪, 資料
+
+howmany entities : 34
+howmany clusters : 4
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金城町七条朝市 村じまん屋甚左エ門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+店, 空間, 生産者, 地元, 買い物, 朝市, 農産物, 道路, 佇まい, 野菜
+cluster1:(2)
+金城町, 美又温泉
+cluster2:(1)
+七条朝市 村じまん屋甚左エ門
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 3entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渡津海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海水浴場, 駐車場
+cluster1:(7)
+スポット, 海岸, 橋, 海水, 森林, 周囲, 水
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 2entities.

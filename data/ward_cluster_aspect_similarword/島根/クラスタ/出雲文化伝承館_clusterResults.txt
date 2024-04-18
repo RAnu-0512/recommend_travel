@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲文化伝承館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+拝観料無料, 入館料無料
+cluster1:(3)
+拝観無料, 入館, 特別展
+cluster2:(17)
+昼食, 入口, 日本, 興味, 写真, 靴, 文化, スポット, のんびり, 歴史, 時間, 長屋門, 人気, 人, 眺め, 資料, 方
+cluster3:(2)
+豪農, 明治
+cluster4:(4)
+母屋, 畳, 座敷, 広間
+cluster5:(8)
+敷地, 邸宅, 建築, 庭園, 施設, 建物, 庭, 茶室
+cluster6:(2)
+豪農 江角家, 江角家
+cluster7:(4)
+出雲蕎麦, 出雲, 出雲大社, 出雲屋敷
+cluster8:(4)
+蕎麦, そば縁, 蕎麦屋, 羽根屋
+cluster9:(1)
+羽根屋 伝承館店
+
+howmany entities : 47
+howmany clusters : 10
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 6
+deleted 7entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:森鴎外旧宅--------------------
+top3 entities near to cluster0>>
+鴎外, 鷗外, 館
+top3 entities near to cluster2>>
+森, 鴎外, 鷗外
+top3 entities near to cluster3>>
+季節, 夏, 冬
+top3 entities near to cluster4>>
+歴史人, 歴史
+top3 entities near to cluster7>>
+部屋, 勉学, 勉強
+top3 entities near to cluster10>>
+縁側, 座敷, 茶室
+top3 entities near to cluster11>>
+敷地, 別棟, 建物
+top3 entities near to cluster15>>
+藩主, 葺

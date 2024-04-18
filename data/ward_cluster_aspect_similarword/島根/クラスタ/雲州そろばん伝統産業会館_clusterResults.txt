@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雲州そろばん伝統産業会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+そろばん, そろばん回廊
+cluster1:(14)
+像, 製作, 歴史, 世界, 算盤, 施設, 左隣, 隣, 命, 珠, 会館, 作り方, 変わり種, 電卓
+cluster2:(4)
+JR出雲, 雲州, 横田駅, 稲田姫
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 2entities.

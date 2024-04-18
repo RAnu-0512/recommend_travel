@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多田温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+利用客, 常連客
+cluster1:(11)
+泊まり, 山, 宿泊, 所, 素泊まり, 地元, 日帰り利用, 市街地, 人, 子連れ, 山手
+cluster2:(2)
+時間帯, 中心部
+cluster3:(7)
+多田温泉, 益田市, 無色透明, 女湯, 泉質, 日帰り温泉, 温泉
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 4entities.

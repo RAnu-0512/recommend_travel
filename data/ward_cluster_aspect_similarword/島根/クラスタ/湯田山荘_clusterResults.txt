@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯田山荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+地方, 部屋, 気, 山奥, 手打ちそば, 景色, 想像, 江戸後期, こと, 肌, 中国, 安来市, 食事, 眺め, サウナ, 窓
+cluster1:(10)
+温泉施設, 湯治場, 秘湯, 湯治湯, 天然温泉, ラドン含有放射能泉, 泉質, 湯田山荘, 日帰り温泉, 温泉
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 0entities.

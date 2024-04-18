@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福光石採石場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+縦掘り採石所, 現役採石場, 採石場
+cluster1:(3)
+銀山, あり石, 石
+cluster2:(8)
+入口, 機械, 現場, 空間, 空気, 洞窟, 場所, 道具
+cluster3:(11)
+温泉津, 様子, ガイド, 説明, 歴史, コウモリ, 現役, 見応え, 中, 予定, 方
+cluster4:(1)
+関連性
+cluster5:(3)
+地下水, 横穴, 冒険心
+cluster6:(2)
+採掘現場, 採掘
+cluster7:(3)
+体験見学, 体験, 見学
+cluster8:(2)
+非日常感, 感心しきり
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 6
+deleted 5entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いわみ温泉 霧の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+釜飯メイン, 石見
+cluster1:(3)
+雲海, 雨, 霧
+cluster2:(4)
+子供達, 家族, 子供, 人
+cluster3:(7)
+ボディーソープ, 露天風呂, リニューアル, 水風呂, 香り, ハーブ, サウナ
+cluster4:(2)
+飲食コーナー, 食事
+cluster5:(2)
+値段, 物
+cluster6:(3)
+リニューアル前, 説明, 場所
+cluster7:(1)
+機会
+cluster8:(2)
+温泉霧, 温泉 霧
+cluster9:(4)
+湯船, 露天, 風呂, 浴場
+cluster10:(4)
+温泉施設, 温泉ガイド, 天然温泉, 温泉
+cluster11:(8)
+薬草, お湯加減, 外湯, ハーブ湯, ハーブ園, 逃れ外湯, 薬草湯, 湯
+cluster12:(1)
+あるいわみ温泉
+
+howmany entities : 43
+howmany clusters : 13
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 7
+deleted 10entities.

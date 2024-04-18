@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白島展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+偉大さ, 丸さ, 広さ
+cluster1:(7)
+青空, 風景, 名所, 絶景, 景色, 景観, 天気
+cluster2:(2)
+地球, 自然
+cluster3:(4)
+姿, 時間, 場所, こと
+cluster4:(11)
+おすすめ, 下, 最北端, 周辺, 通行止め, スポット, 気持ち, 風, 人, コーヒー, 日本海
+cluster5:(2)
+崖, 岩
+cluster6:(4)
+山, 海岸, 島, 海
+cluster7:(1)
+岬
+cluster8:(1)
+隠岐
+cluster9:(1)
+荒い波
+cluster10:(6)
+白島展望台, 白島岬, 展望台, 展望所, 白島海岸, 駐車場
+
+howmany entities : 42
+howmany clusters : 11
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 6
+deleted 7entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十六島鼻>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+十六町, 出雲市
+cluster1:(2)
+荒々しさ, 美しさ
+cluster2:(5)
+絶景, 光景, 奇岩, 景色, 観光スポット
+cluster3:(12)
+周辺, 岬, 北部, 海岸, 鼻, ドライブ, 形, 岩場, 場所, 日本海, 海, 心
+cluster4:(2)
+海岸線, 岩海苔
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 6entities.

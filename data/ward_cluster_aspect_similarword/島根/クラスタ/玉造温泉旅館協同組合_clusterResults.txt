@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉造温泉旅館協同組合>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+無料駐車場, 駐車場
+cluster1:(6)
+たまなび, 共同, 玉造, スタッフ, ナビゲーション, 真下
+cluster2:(3)
+観光案内所, 観光協会, 旅館組合
+cluster3:(2)
+山陰自動車道, 高架橋
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 4entities.

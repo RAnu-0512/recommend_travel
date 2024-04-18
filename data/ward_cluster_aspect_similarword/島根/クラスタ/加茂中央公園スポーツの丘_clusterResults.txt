@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加茂中央公園スポーツの丘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, スポーツ
+cluster1:(1)
+丘
+cluster2:(1)
+野球場
+cluster3:(1)
+多目的広場
+cluster4:(1)
+加茂中央公園
+cluster5:(1)
+ちびっ子広場
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

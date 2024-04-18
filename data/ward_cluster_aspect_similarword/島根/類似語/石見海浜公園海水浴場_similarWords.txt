@@ -1,0 +1,19 @@
+--------------------similar_words:石見海浜公園海水浴場--------------------
+top3 entities near to cluster0>>
+海, 海岸, 砂浜
+top3 entities near to cluster1>>
+子供, 子ども, 家族
+top3 entities near to cluster2>>
+景色, 眺望, 絶景
+top3 entities near to cluster4>>
+駅, 宿, 荷物
+top3 entities near to cluster5>>
+夏場, 夏, 季節
+top3 entities near to cluster8>>
+トイレ, シャワー, キャンプ
+top3 entities near to cluster11>>
+大勢, 友達
+top3 entities near to cluster13>>
+海水浴場, 駐車場, 駐車, 海水浴
+top3 entities near to cluster14>>
+海浜, 公園, 海

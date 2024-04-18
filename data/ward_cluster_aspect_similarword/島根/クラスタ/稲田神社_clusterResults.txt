@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲田神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+櫛名田比売ゆかり, 櫛名田比売, 名田比売
+cluster1:(4)
+お蕎麦屋, 山菜蕎麦, 蕎麦屋, 出雲蕎麦
+cluster2:(2)
+車, 別
+cluster3:(2)
+時間, 場所
+cluster4:(5)
+感じ, 待ち時間, 人, 方, こと
+cluster5:(1)
+余裕
+cluster6:(1)
+地
+cluster7:(3)
+蕎麦, 味, ゆかり庵
+cluster8:(3)
+神社, 櫛, 境内
+cluster9:(2)
+社務所, 稲田神社
+
+howmany entities : 26
+howmany clusters : 10
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 5
+deleted 8entities.

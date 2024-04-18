@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅本庄>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+弁慶, 弁慶像
+cluster1:(3)
+中海, 境港, 本庄
+cluster2:(2)
+柿ソフト, 柿
+cluster3:(2)
+駅, 道
+cluster4:(3)
+ビュースポット, こじんまり, 名物
+cluster5:(2)
+特産品, 生誕地
+cluster6:(1)
+べたふみ坂
+cluster7:(1)
+中海産赤貝
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 10entities.

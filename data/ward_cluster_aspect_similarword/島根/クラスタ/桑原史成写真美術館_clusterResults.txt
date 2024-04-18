@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桑原史成写真美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+津和野町, 津和野駅
+cluster1:(7)
+人, 写真, 水俣病, JR, 写真美術館, 美術館, 山口線
+cluster2:(3)
+地元出身, 出身, 報道写真家
+cluster3:(1)
+観光案内所
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 3entities.

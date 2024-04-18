@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田儀海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+こども, 雰囲気, 冬, 海
+cluster1:(1)
+姿
+cluster2:(1)
+海水浴場
+cluster3:(1)
+田儀海水浴場
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 3entities.

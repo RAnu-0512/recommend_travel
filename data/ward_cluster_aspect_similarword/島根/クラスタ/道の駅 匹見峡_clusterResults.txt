@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 匹見峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+途中, 物産, 辺り, 西中国山地, 駐車, 商店, 駅, 山, 感じ, トイレ休憩, 前, 拠点, ドライブ, トイレ, 個人, 雰囲気, 国道, 道, 建物, 販売, 地元, 自然, 場所, 風格, 島根, 近く
+cluster1:(2)
+庄屋美濃地屋敷, 江戸時代
+cluster2:(2)
+国指定文化財, 特産品
+cluster3:(1)
+駅 匹見峡
+
+howmany entities : 31
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 1
+deleted 5entities.

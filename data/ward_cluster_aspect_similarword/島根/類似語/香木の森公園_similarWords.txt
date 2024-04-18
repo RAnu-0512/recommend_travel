@@ -1,0 +1,9 @@
+--------------------similar_words:香木の森公園--------------------
+top3 entities near to cluster1>>
+売店, 土産, 土産物
+top3 entities near to cluster2>>
+花, 植物, 庭
+top3 entities near to cluster3>>
+公園, 園内, 道路
+top3 entities near to cluster4>>
+森, 緑, 自然

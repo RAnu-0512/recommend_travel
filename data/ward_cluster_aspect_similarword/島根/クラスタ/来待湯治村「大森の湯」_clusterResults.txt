@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:来待湯治村「大森の湯」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+こじんまり, 感じ, 浅瀬, 大森, 味わい, 疲れ, 水風呂, 居心地, いろり茶屋, 子供, 食事, サウナ, ほか
+cluster1:(2)
+露天, 内湯
+cluster2:(4)
+外湯, 湯, お湯, 温泉
+cluster3:(1)
+湯治村
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 3entities.

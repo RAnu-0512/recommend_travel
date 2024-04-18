@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船引運河>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+陸地, 運河
+cluster1:(5)
+昔, 西ノ島, 国賀海岸, 形, 船
+cluster2:(3)
+都会, 北部, 景色
+cluster3:(1)
+隠岐諸島島
+cluster4:(1)
+改修
+cluster5:(1)
+漁場
+cluster6:(1)
+人力
+cluster7:(1)
+幅員
+cluster8:(1)
+船引運河
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 8entities.

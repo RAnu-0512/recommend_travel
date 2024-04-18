@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:琴引キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+フリーキャンプ場, キャンプ場
+cluster1:(7)
+自然, 緑, コテージ, ログハウス, 方, 屋外, テント
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 2entities.

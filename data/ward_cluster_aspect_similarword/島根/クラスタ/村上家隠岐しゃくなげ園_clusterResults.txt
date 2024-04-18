@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:村上家隠岐しゃくなげ園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+斜面, 花, なげ園, 見頃, 山肌, 人, 場所, 固有種, 山, なげ, 観賞, ピンク色, 様子
+cluster1:(4)
+村上家隠岐しゃくなげ園, 隠岐, 村上家, 隠岐しゃくなげ
+cluster2:(1)
+隠岐のしげさ節全国大会
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 1entities.

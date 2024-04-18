@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西谷墳墓群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+四隅突出型墳丘墓, 四隅突出型古墳
+cluster1:(17)
+博物館, 西谷墳墓群, 全て, 文字, 様子, 特徴, 内部, 形, 生憎, 雨, 再現, もの, 古墳, 展示室, ボタン, 地図, 墓
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 1
+deleted 2entities.

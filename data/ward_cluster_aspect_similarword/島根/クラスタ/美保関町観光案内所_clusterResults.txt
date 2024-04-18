@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美保関町観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+記念撮影, 案内所, 時刻表
+cluster1:(3)
+館内, 室内プール, 温水プール
+cluster2:(13)
+HP, オススメスポット, 乗船, 観光, 魚市場, 美保関町, 旅行, 運賃, メテオプラザ, 検索, 灯台, 海, 隕石
+cluster3:(1)
+隠岐汽船フェリー
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 1entities.

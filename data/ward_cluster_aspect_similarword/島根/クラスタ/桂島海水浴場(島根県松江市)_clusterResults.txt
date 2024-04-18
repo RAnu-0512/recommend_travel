@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桂島海水浴場(島根県松江市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桂島, 桂島海水浴場
+cluster1:(2)
+景色, 岩場
+cluster2:(6)
+ヌルヌル, 遊歩道, 村, 子供, 中国, 雨上がり
+cluster3:(6)
+漁村, 魚, 磯, 釣り, 船, 海
+cluster4:(1)
+海水浴場
+cluster5:(1)
+柱島
+cluster6:(1)
+香・波の音等自然
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 7entities.

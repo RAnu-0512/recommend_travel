@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤名湿地性植物群落>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湿地帯, 湿地
+cluster1:(2)
+町内, 植物
+cluster2:(2)
+沼沢, ハンノキ林
+cluster3:(1)
+福田地域
+cluster4:(1)
+赤名
+cluster5:(1)
+湿地性植物群落
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

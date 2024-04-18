@@ -1,0 +1,15 @@
+--------------------similar_words:玉造温泉ゆ〜ゆ--------------------
+top3 entities near to cluster1>>
+気分, 状態, 満足
+top3 entities near to cluster3>>
+温泉, 露天風呂, 建物
+top3 entities near to cluster4>>
+温泉, 旅館, 宿
+top3 entities near to cluster5>>
+清潔感, 距離感, 清潔, 距離
+top3 entities near to cluster7>>
+入口, 入り口
+top3 entities near to cluster8>>
+入浴, 料金, 入湯
+top3 entities near to cluster11>>
+浴場, 浴槽, 湯船

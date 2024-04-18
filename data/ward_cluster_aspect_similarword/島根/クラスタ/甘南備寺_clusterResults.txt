@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:甘南備寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本堂, 真言宗, 寺院
+cluster1:(3)
+道, こと, もの
+cluster2:(1)
+札所
+cluster3:(1)
+石見霊場
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 2entities.

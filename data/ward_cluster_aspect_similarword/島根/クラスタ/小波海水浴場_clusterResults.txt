@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小波海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小波海水浴場, 野波海水浴場, 駐車場
+cluster1:(28)
+民宿, 海中, 予約, 遠浅, 海岸, 宿泊, シャワー, 砂浜, 宿, 魅力, 魚, 深み, 島根半島, カップラーメン, 小魚, フロート, 子供, 波, 販売, キャンプ, 場所, 昼, 設備, 方, 海, 箱めがね, 近く, 海水浴
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 0entities.

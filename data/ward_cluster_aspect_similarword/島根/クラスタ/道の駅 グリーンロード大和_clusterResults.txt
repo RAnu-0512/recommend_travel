@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 グリーンロード大和>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩, トイレ休憩
+cluster1:(6)
+建物, 駅, バス停, 待ち合わせ場所, トイレ, 江の川
+cluster2:(2)
+道, 村
+cluster3:(1)
+PA
+cluster4:(1)
+高速道路
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 6entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山内生活伝承館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+坂道, 車移動
+cluster1:(3)
+中国, 鉄, 日本
+cluster2:(5)
+職場, 人たち, 生活, 道具, 方々
+cluster3:(2)
+居住地, 吉田町
+cluster4:(4)
+山内(たたら製鉄, 製鉄, たたら製鉄, 菅谷高殿
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 4entities.

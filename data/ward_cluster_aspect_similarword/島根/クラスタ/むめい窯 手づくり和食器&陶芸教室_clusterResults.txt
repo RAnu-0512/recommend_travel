@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:むめい窯 手づくり和食器&陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+電動ろくろ, ろくろ, 電動ろくろ体験
+cluster1:(4)
+陶芸体験, 陶芸じ, 体験, 陶芸
+cluster2:(3)
+手びねり, 茶碗, 皿
+cluster3:(4)
+家族, 娘, 妻, 弟
+cluster4:(2)
+店, 所
+cluster5:(9)
+先生, 思い出, 上がり, 作品, 小学生, 焼き物, コップ, もの, 方
+cluster6:(1)
+土
+cluster7:(1)
+危う
+cluster8:(1)
+子供達
+cluster9:(1)
+コロナ禍
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 6entities.

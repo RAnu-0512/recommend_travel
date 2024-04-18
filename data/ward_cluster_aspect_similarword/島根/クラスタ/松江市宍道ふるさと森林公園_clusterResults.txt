@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松江市宍道ふるさと森林公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+コテージ, 存分, 時期, ボンベ, ボール, テニスコート, バトミントン, 幼稚園, 中, 全体, もの, 保育園, 外, 人, 広さ
+cluster1:(8)
+遠足, 宿泊施設, 公園, こども連れ, 友人親子, 遊具, 子供, 子供たち
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 0entities.

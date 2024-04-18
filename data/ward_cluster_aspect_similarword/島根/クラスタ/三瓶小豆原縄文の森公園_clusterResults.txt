@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三瓶小豆原縄文の森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 施設
+cluster1:(4)
+見どころ, 花, 周囲, 中心
+cluster2:(1)
+ハス
+cluster3:(2)
+切株展示棟, 埋没林保存展示棟
+cluster4:(1)
+三瓶小豆原縄文の森公園
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 6entities.

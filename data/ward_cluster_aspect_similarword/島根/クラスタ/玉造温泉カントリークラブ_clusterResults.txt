@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉造温泉カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+グリーン, 玉造温泉カントリークラブ
+cluster1:(1)
+ゴルフコース
+cluster2:(1)
+傾斜
+cluster3:(1)
+ゴルフ場
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちごの大森ファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+所, ハウス, 想像, 家族, 前組, 通路, ビニールハウス
+cluster1:(3)
+苺ちゃん, 苺, いちご狩り
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 0entities.

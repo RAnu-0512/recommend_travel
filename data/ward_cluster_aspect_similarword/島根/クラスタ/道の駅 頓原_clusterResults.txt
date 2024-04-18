@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 頓原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ランチ, ディナー, モーニング, レストラン, 感じ
+cluster1:(4)
+歴史, 駅, 国道, 道
+cluster2:(2)
+宿泊施設, 和洋合計
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:海中展望船「あまんぼう」--------------------
+top3 entities near to cluster0>>
+展望, 海中
+top3 entities near to cluster1>>
+群れ, エサ, 餌
+top3 entities near to cluster6>>
+見学, 出発, 案内
+top3 entities near to cluster7>>
+海中, 水中, 海
+top3 entities near to cluster8>>
+船上, 船内
+top3 entities near to cluster9>>
+海中, 散歩, 水中
+top3 entities near to cluster10>>
+生態, 協会, 文化

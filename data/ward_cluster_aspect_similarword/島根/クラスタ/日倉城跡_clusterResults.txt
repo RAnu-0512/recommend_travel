@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日倉城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+多賀山, 自然, 歴史
+cluster1:(2)
+掛合城, 日倉城跡
+
+howmany entities : 5
+howmany clusters : 2
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 2entities.

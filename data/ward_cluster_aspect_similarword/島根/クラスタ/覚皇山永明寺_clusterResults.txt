@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:覚皇山永明寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+堂宇, 寺, 本堂, 踏切, 境内, 鐘楼, 門
+cluster1:(16)
+右手, 国, 津和野, 巨刹, 歴代, 歴史, 郷愁, 中, 殊, 菩提寺, こと, 茅葺き, 場所, 偲ぶ, 墓, 合間
+cluster2:(4)
+新緑, 森林太郎, 石見, 紅葉
+cluster3:(1)
+江戸時代
+cluster4:(5)
+禅宗寺院, 木洩れ陽, 坂崎出羽守直盛, 永明寺, 歴代藩主
+
+howmany entities : 33
+howmany clusters : 5
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 1entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 掛合の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+掛合町, 野菜市グリーン掛合, 雲南市, 字で掛合名物, 島根県
+cluster1:(5)
+駅, 歴史, 国道, 道, 看板
+cluster2:(9)
+買い物, 農産物, レストラン, ショップ, 感じ, 品, 季節, スポット, 情報コーナー
+cluster3:(6)
+他, 地域, 広島, 全国, 地元, 地
+cluster4:(5)
+土産選び, レジ, お土産物, 売店, 土産
+cluster5:(2)
+食事処, 飲食店
+cluster6:(4)
+産直野菜, 野菜, 特産品, 果物
+cluster7:(1)
+杵つきもち
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 6
+deleted 3entities.

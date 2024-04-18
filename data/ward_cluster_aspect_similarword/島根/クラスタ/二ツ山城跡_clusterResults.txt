@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二ツ山城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+登山, 登山道, 駐車場
+cluster1:(2)
+山城跡, 山城
+cluster2:(6)
+丸, フォトトレッキング, もみじ, 西, 二ツ山, 光
+cluster3:(4)
+各所, 場所, 駅, 道
+cluster4:(1)
+新緑
+cluster5:(1)
+邑智郡
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 4entities.

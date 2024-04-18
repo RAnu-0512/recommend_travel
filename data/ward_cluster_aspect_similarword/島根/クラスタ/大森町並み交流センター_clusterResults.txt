@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大森町並み交流センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+銀山, 石見銀山, 銀山通
+cluster1:(2)
+交流センター, 役割
+cluster2:(2)
+橋, 町
+cluster3:(7)
+地域, 裁判所, 大森町, 歴史, 映像, 雰囲気, 建物
+cluster4:(1)
+模型
+cluster5:(4)
+手前, 途中, 中間, 明治
+cluster6:(1)
+簡易裁判所
+cluster7:(3)
+武家屋敷, 大森地区, 代官所
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 6entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八重滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+運動靴, 駐車場
+cluster1:(2)
+龍頭, 川沿い
+cluster2:(29)
+夏, 訪問, 暑さ, 気, 散策, 時期, 八重, お気, 遊歩道, 時間切れ, 八重山神社, 真夏, 姿, 関係, 木陰, 心地, 所, マイナスイオン, 雰囲気, 最後, 雨, 時間, 道, 奥, 対向, 参拝, 迫力, 自然, 人
+cluster3:(7)
+紅葉滝, 渓流, 八塩滝, 水量, 河鹿滝, 滝, 紅葉
+cluster4:(3)
+八汐滝, 八重滝, 猿飛滝
+
+howmany entities : 43
+howmany clusters : 5
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 3
+deleted 4entities.

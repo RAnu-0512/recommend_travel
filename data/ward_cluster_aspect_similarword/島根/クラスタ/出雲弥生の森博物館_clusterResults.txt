@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲弥生の森博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+出雲王, 国富, 築山古墳, 出雲, 出雲市, 西谷3号墓, 大念寺古墳, 中村古墳
+cluster1:(4)
+よすみ, すみちゃん, みすよちゃん, よすみちゃん
+cluster2:(3)
+印象, 表情, 形
+cluster3:(8)
+博物館, ガラス, 上塩冶, クッション, マスク, マスコットキャラ, テレビ, モデル
+cluster4:(2)
+他, 人
+cluster5:(2)
+市, 場所
+cluster6:(1)
+青色
+cluster7:(6)
+勾玉, 展示, 森博物館, 古代, 模型, 墓
+cluster8:(1)
+癒し系
+cluster9:(1)
+常設展
+cluster10:(1)
+四隅突出型墳丘墓
+
+howmany entities : 37
+howmany clusters : 11
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 5
+deleted 8entities.

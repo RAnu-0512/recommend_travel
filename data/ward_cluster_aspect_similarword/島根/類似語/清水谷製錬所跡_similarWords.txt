@@ -1,0 +1,15 @@
+--------------------similar_words:清水谷製錬所跡--------------------
+top3 entities near to cluster0>>
+採掘, 操業, 建設
+top3 entities near to cluster2>>
+金銀, 財宝, 銀
+top3 entities near to cluster3>>
+灰石, 石垣, 灰
+top3 entities near to cluster7>>
+価値, 興味, 歴史
+top3 entities near to cluster8>>
+建物, 施設, 看板
+top3 entities near to cluster15>>
+錬, 金属製, 金属
+top3 entities near to cluster16>>
+精錬, 精練, 製鉄

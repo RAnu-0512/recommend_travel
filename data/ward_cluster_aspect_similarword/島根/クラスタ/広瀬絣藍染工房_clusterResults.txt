@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広瀬絣藍染工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広瀬絣, 広瀬絣藍染工房
+cluster1:(14)
+大きめ, ハンカチ, 指導, じゃらんプラン, 思い出, 小物, 手ぬぐい, 藍, 四方程度, 物, 藍染体験, 工房, もの, ハンドタオル
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

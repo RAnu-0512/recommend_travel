@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:興雲閣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+建物, 面影, 昔, 貸切, 天皇, 時代, こと, 明治, ケーキ, 時間, 喫茶店, イベント, 鳥取
+cluster1:(2)
+行幸目的, 明治天皇行幸
+cluster2:(2)
+松江市, 松江神社
+cluster3:(1)
+仁風閣
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 5entities.

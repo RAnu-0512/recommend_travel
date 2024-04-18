@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雲州久邑長沢焼窯跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+文化, 歴史
+cluster1:(3)
+場所, 地, 焼き物
+cluster2:(1)
+跡
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 3entities.

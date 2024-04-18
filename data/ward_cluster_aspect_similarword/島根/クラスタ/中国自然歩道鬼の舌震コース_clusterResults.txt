@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中国自然歩道鬼の舌震コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+巨岩, 岩, 奇岩, 甌穴群, 舌震
+cluster1:(2)
+河原, 川辺
+cluster2:(7)
+モデルコース, 名前, 遊歩道, 一部, 鬼, 中国, 自然
+cluster3:(2)
+禁止, 指定コース
+cluster4:(1)
+散策マップ
+cluster5:(3)
+自然歩道, バリアフリー木道, 道
+cluster6:(1)
+中国5県
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 6entities.

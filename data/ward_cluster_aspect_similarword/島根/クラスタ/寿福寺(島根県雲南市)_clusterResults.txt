@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寿福寺(島根県雲南市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+餅, 足, 車, 階段, 鳥取, 寺, 歴史, 温かみ, 環境, 札所めぐり, 雰囲気, 出雲, 行事, 自然, 旅行, 仏閣, 島根
+cluster1:(2)
+寿福寺, 堂餅行事
+cluster2:(1)
+島根県雲南市三刀屋町
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 1
+deleted 3entities.

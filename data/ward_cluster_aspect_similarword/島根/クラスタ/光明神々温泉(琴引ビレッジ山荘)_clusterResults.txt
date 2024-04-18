@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光明神々温泉(琴引ビレッジ山荘)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湯船, 温泉
+cluster1:(2)
+景色, 気持ち
+cluster2:(2)
+外, 窓
+cluster3:(1)
+お湯加減
+cluster4:(1)
+光明神々温泉
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

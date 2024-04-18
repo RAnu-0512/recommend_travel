@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平田本陣記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+本木佐, 豪商屋敷, 平田本陣, 松江藩, 本陣宿
+cluster1:(7)
+所, 組み合わせ, 木綿販売, 家, ほんきさ, 酒造業, 財
+cluster2:(1)
+出雲市立平田本陣記念館
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 1entities.

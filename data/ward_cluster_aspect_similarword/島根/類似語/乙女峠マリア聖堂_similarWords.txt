@@ -1,0 +1,21 @@
+--------------------similar_words:乙女峠マリア聖堂--------------------
+top3 entities near to cluster0>>
+聖堂, 教会, 聖母
+top3 entities near to cluster1>>
+殉教, 殉教者, キリシタン
+top3 entities near to cluster2>>
+弾圧, 迫害, 禁令
+top3 entities near to cluster4>>
+駅, 駅前, 徒歩
+top3 entities near to cluster5>>
+価値, 興味, 関心
+top3 entities near to cluster9>>
+名所, 散策, 紅葉
+top3 entities near to cluster10>>
+信仰, 聖地, 祈り
+top3 entities near to cluster11>>
+キリシタン, 殉教者, 乙女峠
+top3 entities near to cluster13>>
+山道, 裏手, 山
+top3 entities near to cluster14>>
+友達, 同士

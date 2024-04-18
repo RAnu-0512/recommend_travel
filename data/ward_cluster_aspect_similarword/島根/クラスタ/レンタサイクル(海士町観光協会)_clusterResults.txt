@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レンタサイクル(海士町観光協会)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+あまんぼう号, 予約, ガイド, 観光, クルーズ船, 隠岐, 居港, 案内旗, 建物, 議員, ツアー, オプションツアー, 島, 中ノ島観光, 観光ツアー, 土産, 博識
+cluster1:(5)
+菱浦港, 海士町, 海士観光ツアー, 島前地区訪問, 海士
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

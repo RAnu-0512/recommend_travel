@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円成寺(島根県松江市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+五輪, 鼻, 八雲, 塔, 松, 鳥居
+cluster1:(19)
+車, 造り, 寺, ゆかり, 歴史, アクセス, 家, 道, 菩提寺, こと, かんじ, 上, 菩提所, 場所, 思い, 庭, 先, 近く, 宍道湖
+cluster2:(4)
+遺品, 家臣, 墓所, 墓
+cluster3:(2)
+社屋, 国道
+cluster4:(1)
+敷地内
+cluster5:(7)
+堀尾, 松江駅, 島根県立美術館, 堀尾忠晴, 国宝松江城, 松江, 松江藩主
+cluster6:(1)
+松江藩開府堀尾家
+
+howmany entities : 40
+howmany clusters : 7
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 4
+deleted 4entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:隠岐国分寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展示, 予定, 館
+cluster1:(2)
+敷地, 跡
+cluster2:(8)
+御在所, 西ノ島, 天皇, 隠岐, 瓦, 後醍醐, 後醍醐天皇御在所, 国分寺
+cluster3:(1)
+蓮華会
+cluster4:(1)
+黒木御所
+cluster5:(1)
+牛突き場
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 5entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八雲山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+八雲立つ, 八雲山
+cluster1:(2)
+須我神社, 和歌発祥
+cluster2:(2)
+登山口, 登山
+cluster3:(5)
+入口, 緑, 歌, 山, スサノオノミコト
+cluster4:(1)
+素盞嗚尊
+cluster5:(1)
+八重垣つくるその八重垣
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 8entities.

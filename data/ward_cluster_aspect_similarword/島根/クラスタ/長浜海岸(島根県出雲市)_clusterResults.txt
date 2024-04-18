@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長浜海岸(島根県出雲市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+神戸川, 海岸, 河口
+cluster1:(2)
+長浜海岸, 出雲市
+
+howmany entities : 5
+howmany clusters : 2
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 2entities.

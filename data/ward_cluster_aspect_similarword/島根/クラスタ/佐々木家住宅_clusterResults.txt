@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐々木家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+電話, 中, 施設, 文化財, 腹, 予約, 用事, 家
+cluster1:(3)
+島料理, 料理, 隠岐
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 0entities.

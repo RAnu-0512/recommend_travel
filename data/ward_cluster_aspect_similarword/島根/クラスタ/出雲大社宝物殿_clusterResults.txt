@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲大社宝物殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+大社参り, 大社, 流石出雲大社, 大社級, 出雲大社
+cluster1:(2)
+岩根御柱, 心御柱
+cluster2:(5)
+建造物, 資料類, 展示物, 美術品, 入場料
+cluster3:(30)
+神社, 趣, 文化財, 気, 他, 国宝, 巨大柱, 雨脚, 結果, 柱, 成り立ち, 歴史, 時代, 大人, 宝物殿, 事, 古代, 宝物, 出雲, 改修, 本殿, 施設, 境内, 雨天, 参拝, 人, 見学, 品々, 実感, 解説
+cluster4:(2)
+お詣り, 観光客
+
+howmany entities : 44
+howmany clusters : 5
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 3
+deleted 4entities.

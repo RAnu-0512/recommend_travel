@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中国自然歩道吾妻山登山コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+空気, 景色
+cluster1:(6)
+中国, コテージ, 初心者, 吾妻山, トレッキング, ハイキング
+cluster2:(4)
+山地, 草原, 森, 緑
+cluster3:(1)
+登山コース
+cluster4:(1)
+中国自然歩道吾妻山
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 4entities.

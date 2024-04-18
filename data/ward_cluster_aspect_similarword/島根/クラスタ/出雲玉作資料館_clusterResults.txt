@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲玉作資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+出雲玉作資料館, 国指定史跡, 出雲玉作史跡公園
+cluster1:(4)
+地名, 中心施設, 産出, 地
+cluster2:(2)
+が丘, 坂
+cluster3:(9)
+材料, 展示, 公園, 工程, 古代, 穴, メノウ, 左, 上
+cluster4:(1)
+資料館
+cluster5:(9)
+玉作, 碧玉, 勾玉, 出雲玉作, 玉, 玉造, 玉作り, 湯薬師堂, 管玉
+cluster6:(1)
+玉造温泉ゆ〜ゆ
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 4entities.

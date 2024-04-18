@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広瀬絣センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+購入, 体験
+cluster1:(2)
+駅, 道
+cluster2:(3)
+ハンカチ, 人, 施設
+cluster3:(1)
+直ぐ横
+cluster4:(1)
+物産品
+cluster5:(1)
+伝習所
+cluster6:(5)
+広瀬絣センター, 絣, 広瀬絣, 広瀬富田城, 安来市立 歴史資料館
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 7entities.

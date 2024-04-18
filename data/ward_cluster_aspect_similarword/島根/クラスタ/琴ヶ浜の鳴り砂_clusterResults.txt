@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:琴ヶ浜の鳴り砂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鳴り砂, 鳴き砂
+cluster1:(3)
+赤茶色, 馬路, 石舟瓦
+cluster2:(6)
+砂, 海岸, 砂浜, 海岸近く, 海, 浜辺
+cluster3:(2)
+子供達, 子供
+cluster4:(10)
+経験, キュッキュ, 感じ, オススメ, 町, 町並み, 場所, 人, 近く, 上
+cluster5:(5)
+景色, 雨, 風, 天気, 音
+cluster6:(2)
+粒, ゴミ
+cluster7:(1)
+歩き方
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 7entities.

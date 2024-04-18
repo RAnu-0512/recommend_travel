@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:星上山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+星, 星空
+cluster1:(2)
+伝説, 神
+cluster2:(10)
+パワー, 場所, キャンプ, 人, バンガロー, 山, 部屋, 地区, 人々, 星上山
+cluster3:(1)
+山々
+cluster4:(1)
+観光スポット
+cluster5:(1)
+バーべーキュー
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 7entities.

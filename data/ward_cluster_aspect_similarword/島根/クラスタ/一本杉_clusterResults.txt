@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一本杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+真横, 前
+cluster1:(2)
+池, 鳥居
+cluster2:(1)
+高さ
+cluster3:(1)
+樹齢
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

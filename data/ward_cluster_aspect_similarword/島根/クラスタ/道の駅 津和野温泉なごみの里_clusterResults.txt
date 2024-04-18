@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 津和野温泉なごみの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+天気予報, 名物料理, 温泉施設, 酢飯, 加工品, 昼ご飯, 入店, 焼きサバ, 駐車場, 温泉
+cluster1:(2)
+なごみいなりセット, なごみいなり
+cluster2:(5)
+アツアツえび, 広島, 葉わさび, 島根, 関西風
+cluster3:(4)
+店員, 売店, 寿司, 土産
+cluster4:(4)
+駅, 山, 道路, 道
+cluster5:(2)
+車中, 運転
+cluster6:(1)
+テラス席
+cluster7:(13)
+ビッグサイズ, 当方, 妻, 値段, 商品, オーダー., 種類, 顔, 地元, ココ, 場所, 人, 方
+cluster8:(16)
+買い物, 農産物, レストラン, 津和野, 露天風呂, バーベキュー, トイレ, ランチタイム, ドリンクバー, 雨, 外, ダブル, サービス, 市街地, 日替わりランチ, マイカー
+cluster9:(4)
+具合, 独特, 出汁, 香り
+cluster10:(1)
+地物特産品
+
+howmany entities : 62
+howmany clusters : 11
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 7
+deleted 6entities.

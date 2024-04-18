@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:横綱陣幕久五郎顕彰碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, 出身
+cluster1:(1)
+石碑
+cluster2:(1)
+横綱
+cluster3:(1)
+顕彰碑
+cluster4:(1)
+横綱陣幕久五郎
+cluster5:(1)
+出雲国意宇郡意東村
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

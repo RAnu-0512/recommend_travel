@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒神谷史跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+神谷史跡公園, 荒神谷史跡公園, 神谷遺跡
+cluster1:(4)
+公園, 施設, 建物, 史跡
+cluster2:(2)
+傍, 左
+cluster3:(4)
+博物館, バーベキュー, 全体, マップ
+cluster4:(3)
+感じ, 物, 方
+cluster5:(1)
+念願
+cluster6:(1)
+係
+cluster7:(2)
+荒, ハス
+cluster8:(1)
+出雲ロマン街道
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 4
+deleted 7entities.

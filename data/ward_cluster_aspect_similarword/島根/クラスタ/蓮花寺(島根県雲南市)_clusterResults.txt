@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮花寺(島根県雲南市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+秘仏, 札所, 蓮華寺, 観世音菩薩, 作, 本尊, 寺
+cluster1:(2)
+賢問, 十一面
+cluster2:(1)
+出雲観音霊場
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 3entities.

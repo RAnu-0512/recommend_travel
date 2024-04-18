@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 大社ご縁広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+駅 大社, 出雲大社表参道, 大社ご縁広場, 大社, 斐川出雲大社線, 大社町, 出雲大社
+cluster1:(13)
+買い物, おすすめ, 大鳥居, 次, ドライブ, トイレ, 表参道, メニュー, どん, 神, カレー, コロナ, 子供
+cluster2:(4)
+近く, 店内, 地元, 帰り
+cluster3:(12)
+購入, 途中大回り, 休憩, 定番コース, 所, もの, 余裕, 時間, こと, 販売, 場所, 方
+cluster4:(7)
+のやき, 酒, 風味, 菓子, 風情, 野菜, しじみ
+cluster5:(3)
+本殿, 参拝, 鳥居
+cluster6:(3)
+出雲大社前駅, 駅, 徒歩
+cluster7:(2)
+施設, 建物
+cluster8:(2)
+車, 駐車
+cluster9:(2)
+道, 広場
+cluster10:(1)
+立地
+cluster11:(2)
+大型駐車場, 駐車場
+cluster12:(4)
+御碕, 出雲物産館, 出雲, 出雲土産
+cluster13:(3)
+地元産, 特産品, 地元食材
+cluster14:(2)
+吉兆, 吉兆館
+cluster15:(2)
+土産屋, 土産
+cluster16:(2)
+蕎麦, 蕎麦屋
+
+howmany entities : 71
+howmany clusters : 17
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 9
+deleted 15entities.

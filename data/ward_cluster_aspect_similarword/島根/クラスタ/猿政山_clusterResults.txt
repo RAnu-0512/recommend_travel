@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猿政山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+スポット, 山, トレッキング
+cluster1:(2)
+自然, 植物
+cluster2:(1)
+姿
+cluster3:(1)
+観光スポット
+cluster4:(1)
+登山道
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

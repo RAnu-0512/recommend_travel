@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀の原水鳥公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 場所
+cluster1:(2)
+自然, 緑
+cluster2:(1)
+お花
+cluster3:(1)
+池
+cluster4:(1)
+散歩コース
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

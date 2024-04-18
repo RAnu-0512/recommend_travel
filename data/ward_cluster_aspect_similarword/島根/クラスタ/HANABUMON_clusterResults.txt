@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:HANABUMON>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, 時間
+cluster1:(3)
+店, ハーバリウム, 方
+cluster2:(1)
+体験
+cluster3:(1)
+駐車場
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

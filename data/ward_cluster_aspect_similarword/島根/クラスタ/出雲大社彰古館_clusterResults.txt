@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲大社彰古館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+出雲大社宝物館, 大黒様・恵比寿, 出雲市, 出雲大社, 島根県
+cluster1:(3)
+彰古, 彰, 彰古館
+cluster2:(3)
+資料館, 宝物館, 資料
+cluster3:(3)
+御本殿, 本殿, 境内
+cluster4:(5)
+外観, 建築, 建物., 木造, 建物
+cluster5:(3)
+歴史博物館, 信仰, 像
+cluster6:(2)
+裏手, 裏
+cluster7:(4)
+国, 別, 時代, 意味
+cluster8:(1)
+大正
+cluster9:(1)
+古=いにしえ
+cluster10:(3)
+登録有形文化財, 拝観料, 入母屋造銅板
+
+howmany entities : 33
+howmany clusters : 11
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 8
+deleted 4entities.

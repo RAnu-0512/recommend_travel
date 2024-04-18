@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堀庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+ところ, 車, 気, 周辺, 津和野, 殿町, 綺麗さ, 時期, 空気, 定番, 散りはじめ, 時代, コロナ渦, 市, 庭園, 現状, 期待, 家内, バス, 建物, 鯉, 人, 津和野駅, 紅葉, 設備, 庭
+cluster1:(3)
+堀, 堀庭園, 銅山王
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 0entities.

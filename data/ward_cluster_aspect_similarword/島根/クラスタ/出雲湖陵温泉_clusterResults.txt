@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲湖陵温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湖, 湖岸
+cluster1:(7)
+料金, カラダ, 車, 神西湖, 方, 心, ビジネス
+cluster2:(3)
+観光客, 湖陵温泉, 天然温泉
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

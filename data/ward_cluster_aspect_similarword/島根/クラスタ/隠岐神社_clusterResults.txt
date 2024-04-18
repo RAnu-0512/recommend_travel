@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:隠岐神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鳥羽上皇, 上皇
+cluster1:(15)
+参り, 神社, 後鳥羽上皇, 創建, 派手さ, 歴史, 雰囲気, 隠岐, 歌碑, 祭神, 当地, 時間, 桜並木, 後鳥羽, 境内
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 2entities.

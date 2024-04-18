@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日原天文台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天気予報, 天気
+cluster1:(3)
+感染対策, 展望台, 割引料金
+cluster2:(2)
+入場, 消毒
+cluster3:(8)
+夏, 天文台, 津和野, ユーモア, ペンション, 望遠鏡, スタッフ, タイミング
+cluster4:(5)
+説明, 話, 場所, 人, 隣接
+cluster5:(4)
+声, 空気, 環境, 機会
+cluster6:(1)
+検温
+cluster7:(6)
+星たち, 星, 天体, 観測, 日原天文台, 土星
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 5
+deleted 5entities.

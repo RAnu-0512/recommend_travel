@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:産直問屋「しおさい」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+店員, 子供, ブルーベリー, 雰囲気, 海, 海産物
+cluster1:(3)
+島南部, 島, 隠岐
+cluster2:(7)
+産直, クラフト体験, 品, 加工品, 地域特産, 体験交流イベント, 産直所
+cluster3:(1)
+ひおうぎ貝
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 1entities.

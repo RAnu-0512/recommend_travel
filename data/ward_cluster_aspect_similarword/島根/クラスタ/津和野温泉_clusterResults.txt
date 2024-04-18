@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩所, 駐車場
+cluster1:(11)
+駅, 景色, SL, 広間, 町, バス, 街, 外, 津和野駅, 展望露天風呂, 窓
+cluster2:(9)
+気, 注意, 本数, 要因, 条件, こう, こと, 施設, 設備
+cluster3:(16)
+日本, レストラン, タオル, 美人, 津和野, 露天風呂, 家族, 近く, 歴史, 有福温泉, 雰囲気, 気持ち, 地元, 街並み, 人, 体
+cluster4:(2)
+ご飯, 世話
+cluster5:(3)
+心身, 肌, 成分
+cluster6:(1)
+古さ
+cluster7:(3)
+観光名所, 観光, 観光疲れ
+cluster8:(3)
+加温, わた屋, 果物狩
+cluster9:(10)
+津和野温泉, 温泉施設, お湯加減, 湯, 温泉宿, 家族風呂, 入浴, 加水, お湯, 温泉
+
+howmany entities : 60
+howmany clusters : 10
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 7
+deleted 5entities.

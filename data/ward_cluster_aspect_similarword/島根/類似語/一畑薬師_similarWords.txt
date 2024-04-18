@@ -1,0 +1,25 @@
+--------------------similar_words:一畑薬師--------------------
+top3 entities near to cluster0>>
+景色, 山並み, 山頂
+top3 entities near to cluster1>>
+海, 霧, 大山
+top3 entities near to cluster2>>
+寺, 本尊, 観音
+top3 entities near to cluster4>>
+左目, 右目, 眼
+top3 entities near to cluster5>>
+信仰心, 神心, 信仰, 神
+top3 entities near to cluster6>>
+病気, 健康
+top3 entities near to cluster11>>
+境内, お寺, お参り
+top3 entities near to cluster12>>
+女車, 母親, 女
+top3 entities near to cluster15>>
+歴史, 縁, 古い
+top3 entities near to cluster18>>
+薬師, 地蔵, 信仰
+top3 entities near to cluster19>>
+茶, 目玉, 眼
+top3 entities near to cluster20>>
+境内, 参道, 本堂

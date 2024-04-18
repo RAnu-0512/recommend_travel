@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安来の街並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+安来駅, 安来, 安来港
+cluster1:(8)
+足立美術館, 歴史, 下り列車, 路地, シャトルバス, 見学, 町, 山陰本線
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 0entities.

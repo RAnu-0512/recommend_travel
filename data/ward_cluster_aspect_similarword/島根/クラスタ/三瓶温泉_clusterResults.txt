@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三瓶温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三瓶温泉入口, 三瓶温泉, 三瓶
+cluster1:(3)
+亀の湯, 秘湯, 薬師の湯
+cluster2:(6)
+有馬温泉, 澄んだ温泉, 温泉街, 温泉地, 温泉まんじゅう, 温泉
+cluster3:(2)
+共同浴場, 共同湯
+cluster4:(2)
+日帰り入浴, 入浴
+cluster5:(2)
+湯, お湯
+cluster6:(2)
+風呂, 浴槽
+cluster7:(1)
+源泉
+cluster8:(1)
+壺風呂
+cluster9:(1)
+湯量
+cluster10:(1)
+入湯料
+cluster11:(2)
+さんべ荘, さひめ野
+cluster12:(3)
+山肌, 登山, 景色
+cluster13:(18)
+温泉郷, ところ, 車, 山, 感じ, ロビー, 露天風呂, 貸し切り, リフト, 宿, すべて, 前回, 中, 雰囲気, 三瓶山, 外, 場所, 人
+cluster14:(3)
+癒し, 身体, 体
+cluster15:(4)
+国民宿舎, 展望台, 名峰三瓶山, 島根県
+cluster16:(1)
+無味無臭
+cluster17:(1)
+西 川本回りの三瓶山 公衆浴場 三瓶温泉 亀
+
+howmany entities : 56
+howmany clusters : 18
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 7
+deleted 16entities.

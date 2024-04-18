@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鯉の米屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鯉の米屋, 鯉のおる米屋, お米屋
+cluster1:(5)
+錦鯉, 中庭, 池, 鯉, 庭
+cluster2:(12)
+由来, 甘み, 老舗, 屋, 前, 津和野町, 店名, 米, 店, 風情, 奥, 方
+cluster3:(1)
+奥の池
+cluster4:(1)
+観光客
+cluster5:(1)
+島根県
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 3entities.

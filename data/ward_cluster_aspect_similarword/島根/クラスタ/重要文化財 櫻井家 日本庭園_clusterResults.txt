@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:重要文化財 櫻井家 日本庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+立派さ, 美しさ
+cluster1:(2)
+庭園, 庭
+cluster2:(2)
+紅葉, 季節
+cluster3:(5)
+建物, 見どころ, 紅葉狩り, 住まい, 方
+cluster4:(1)
+当主
+cluster5:(2)
+可部屋集成館, 入場料
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 9entities.

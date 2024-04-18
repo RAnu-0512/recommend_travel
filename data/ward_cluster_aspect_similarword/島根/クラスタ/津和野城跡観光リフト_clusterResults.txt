@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野城跡観光リフト>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+雪, 冬, 山
+cluster1:(5)
+足, リフト下, リフト, シングルリフト, 上
+cluster2:(12)
+此処, 日本, 他, 津和野, 計画, トイレ, 我が家, 相応, 人, 思い, 看板, こと
+cluster3:(2)
+往復, 運行
+cluster4:(2)
+乗り, 下り
+cluster5:(6)
+途中, 徒歩, 終了, 到着, 時間, 仮眠
+cluster6:(6)
+子供達, リフト料, 親バカ, 子供, 観光リフト, 登山道
+cluster7:(2)
+名城, 日本百名城巡り
+cluster8:(2)
+城跡, 津和野城跡
+cluster9:(2)
+津和野城址, 城址
+cluster10:(1)
+城址散策
+cluster11:(1)
+津和野城跡観光リフト
+cluster12:(1)
+太鼓谷稲荷神社
+
+howmany entities : 45
+howmany clusters : 13
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 5
+deleted 13entities.

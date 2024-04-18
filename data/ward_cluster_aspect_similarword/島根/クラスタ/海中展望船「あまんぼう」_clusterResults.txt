@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海中展望船「あまんぼう」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+半潜水型展望船, 海中展望船, 海中展望, 展望船
+cluster1:(12)
+夜光虫, 女性, 光, ガイド, 群れ, スポット, エンジン, こども, 音, サービス, 日本海, エサ
+cluster2:(2)
+満足, 感動
+cluster3:(4)
+違い, 様子, 中, 方
+cluster4:(2)
+目的ポイント, 場所
+cluster5:(1)
+見え方
+cluster6:(5)
+案内, 体験, 出発, 発車, 見学
+cluster7:(4)
+海中, 水中, 魚, 海
+cluster8:(4)
+海上, 船上, 船内, 船
+cluster9:(3)
+海中見学, 水中散歩, 海底散歩
+cluster10:(4)
+観光協会, 観光, 海士町, 生態系
+cluster11:(1)
+非日常感
+
+howmany entities : 46
+howmany clusters : 12
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 8
+deleted 6entities.

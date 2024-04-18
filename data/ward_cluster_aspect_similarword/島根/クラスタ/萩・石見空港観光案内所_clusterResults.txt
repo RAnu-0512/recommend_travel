@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩・石見空港観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光案内所, 駐車場
+cluster1:(12)
+萩, スポット, 夕日, 飛行機, 到着, パンフレット, 体験, 屋上, 参考, 搭乗ゲート, 名所, 空港
+cluster2:(2)
+石見空港, 山陰地方
+cluster3:(1)
+萩・石見空港観光案内所
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 5entities.

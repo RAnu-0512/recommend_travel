@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:立久恵峡温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+他, 前, 露天風呂, 時期, スポット, 目, 時間, チェックイン, 場所, 人, 立久恵峡, こと
+cluster1:(5)
+芯, 真冬, 空気, 寒さ, 温度
+cluster2:(2)
+渓谷, 紅葉
+cluster3:(4)
+部屋, 道路, 宿, 料理
+cluster4:(1)
+フナ
+cluster5:(5)
+絶景, 奇岩, 景色, 絶景ポイント, 絶景風呂
+cluster6:(4)
+温泉施設, 露天, 湯, 温泉
+cluster7:(3)
+貸し切り風呂, 風呂, 外風呂
+cluster8:(2)
+貸切風呂, 貸切状態
+cluster9:(1)
+御所覧湯
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 6
+deleted 6entities.

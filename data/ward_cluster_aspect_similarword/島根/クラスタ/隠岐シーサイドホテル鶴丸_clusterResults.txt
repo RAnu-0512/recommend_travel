@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:隠岐シーサイドホテル鶴丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+店, ホテル
+cluster1:(1)
+料理
+cluster2:(1)
+元気
+cluster3:(1)
+和風
+cluster4:(1)
+美味しさ
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

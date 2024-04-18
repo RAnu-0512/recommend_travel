@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハッピーベリー農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+バーベキュー, BBQ, ゴルフ, スタッフ, スムージー, ブルーベリー
+cluster1:(4)
+家族, 人, 多く, 大人
+cluster2:(2)
+時期, かた
+cluster3:(1)
+穴場
+cluster4:(1)
+島根
+cluster5:(1)
+ブルーベリー狩り
+cluster6:(1)
+休憩所
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 6entities.

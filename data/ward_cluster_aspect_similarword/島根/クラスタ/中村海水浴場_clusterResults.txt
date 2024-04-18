@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中村海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+隠岐旅行, 隠岐の島
+cluster1:(23)
+気, 写真, 感じ, 潮風, 透明度, 遠浅, 景色, 砂浜, 必要, さざえ村, おばさん, もの, クチコミ, 遊覧, 海外, エメラルドグリーン, 夫婦, ゴミ, 参考, 海, 波, 子ども, 海水浴
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 1
+deleted 2entities.

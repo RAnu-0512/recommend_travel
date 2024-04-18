@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西ノ島ふるさと館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+考古資料, 出土品
+cluster1:(3)
+西ノ島ふるさと館, 別府港, 西ノ島町
+cluster2:(7)
+神社, 離島, 人, 遺跡, 徒歩, 野鳥, 観光スポット
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

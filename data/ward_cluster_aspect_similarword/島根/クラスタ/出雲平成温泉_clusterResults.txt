@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲平成温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+薬草, 薬草風呂
+cluster1:(2)
+郊外, 外れ
+cluster2:(5)
+露天風呂, ジェット風呂, 浴場, 男女, 温泉
+cluster3:(1)
+平成スポーツ公園
+cluster4:(4)
+出雲平成温泉出雲市, 出雲平成温泉, 出雲市, 出雲保養センター
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 5entities.

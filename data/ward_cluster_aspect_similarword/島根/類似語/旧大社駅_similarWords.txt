@@ -1,0 +1,33 @@
+--------------------similar_words:旧大社駅--------------------
+top3 entities near to cluster0>>
+大社, 駅, 駅前
+top3 entities near to cluster1>>
+建物, 町並み, 家具
+top3 entities near to cluster4>>
+価値, 重要, 歴史
+top3 entities near to cluster5>>
+風情, 趣, 趣き
+top3 entities near to cluster7>>
+到着, 調達, 設置
+top3 entities near to cluster9>>
+当時, 昔, 時代
+top3 entities near to cluster17>>
+駅, 構内, 鉄道
+top3 entities near to cluster19>>
+土産, 宿泊, 名産
+top3 entities near to cluster21>>
+列車, 電車, 車両
+top3 entities near to cluster27>>
+工事, 改修, 修繕
+top3 entities near to cluster28>>
+撮影, ロケ, 写真
+top3 entities near to cluster29>>
+記念, 撮影, 写真
+top3 entities near to cluster30>>
+展示, 静態, 保存
+top3 entities near to cluster31>>
+列車, 発着, 旅客
+top3 entities near to cluster32>>
+年, 大正, 14
+top3 entities near to cluster33>>
+駅舎, 建築, 木造

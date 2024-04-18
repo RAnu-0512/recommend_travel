@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三沢城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+整備, 地元, 横, 方
+cluster1:(4)
+本丸, 山頂, 山麓, 城跡
+cluster2:(1)
+みざわの館
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 1entities.

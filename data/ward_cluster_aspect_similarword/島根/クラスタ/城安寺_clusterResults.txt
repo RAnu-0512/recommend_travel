@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城安寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天立像, 広目天立像・多聞
+cluster1:(4)
+スポット, 歴史, 文化財, 庭園
+cluster2:(4)
+聖観世音菩薩, 仏, 本尊, 寺
+cluster3:(1)
+書院庭園
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

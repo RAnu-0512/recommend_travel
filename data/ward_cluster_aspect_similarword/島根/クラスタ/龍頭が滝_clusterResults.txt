@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍頭が滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+八塩滝, 八重滝, 龍頭が滝
+cluster1:(3)
+裏見, 裏, 裏側
+cluster2:(2)
+落差, 価値
+cluster3:(2)
+景色, 気分
+cluster4:(4)
+気, 格別, 感じ, 笑
+cluster5:(1)
+耐え
+cluster6:(3)
+真夏, 龍, 虹
+cluster7:(3)
+車, 道, 山道
+cluster8:(5)
+階段, 水, 雨, 石, 足元
+cluster9:(15)
+日本, 写真, アップダウン, 所, マイナスイオン, けれども帰り道, 流れ, 帰り際, 場所, 人, 炎天下, 方, 看板, 近く, 上
+cluster10:(1)
+涼しさ
+cluster11:(1)
+駐車場
+cluster12:(9)
+途中雌滝, 滝上, 雌滝, 雄滝, 水量, 雲南市, 杉並木, 滝, 滝下
+cluster13:(1)
+龍頭・八重滝県立自然公園
+
+howmany entities : 53
+howmany clusters : 14
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 8
+deleted 8entities.

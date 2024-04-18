@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六所神社(島根県松江市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+丘, 入口, 荘厳, 国, 車, 感じ, 水, 反省, 歴史, 夏場, 時代, 田んぼ, 正面, しめ縄, それぞれ, 環境, 横, 到着, 風土記, 雰囲気, 中心地, 形, 跡, 見どころ, 場所, 人, 周囲, 対策
+cluster1:(3)
+藁, 蚊, 履物
+cluster2:(8)
+神社, ■祭神, 拝殿, 本殿, 退散社殿, 境内, 参拝者, 参拝
+cluster3:(2)
+六所神社, 社務所
+cluster4:(2)
+神魂神社, 杵築神社
+cluster5:(1)
+佐久佐神社
+cluster6:(13)
+出雲国総社, 国庁, 出雲国府, 神有, 総社, 出雲国, 出雲, 出雲国庁, 神, 大草町, 神々, 松江, 出雲大社
+
+howmany entities : 57
+howmany clusters : 7
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 4
+deleted 5entities.

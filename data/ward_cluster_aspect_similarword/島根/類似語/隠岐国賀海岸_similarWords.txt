@@ -1,0 +1,25 @@
+--------------------similar_words:隠岐国賀海岸--------------------
+top3 entities near to cluster1>>
+景色, 景観, 絶景
+top3 entities near to cluster2>>
+牛, 牧草, 家畜
+top3 entities near to cluster3>>
+摩天崖, 国賀海岸, 犬ヶ岬
+top3 entities near to cluster4>>
+レンタカー, スタッフ, タクシー
+top3 entities near to cluster6>>
+遊歩道, バス停, 自転車
+top3 entities near to cluster8>>
+季節, 寒い, 星空
+top3 entities near to cluster9>>
+緑, 草原
+top3 entities near to cluster10>>
+海, 海岸, 海原
+top3 entities near to cluster12>>
+バス車, 駐車, バス
+top3 entities near to cluster14>>
+周遊, 名所, バス
+top3 entities near to cluster15>>
+遊覧船, 遊覧, 船舶
+top3 entities near to cluster16>>
+海岸, 大金久, 犬ヶ岬

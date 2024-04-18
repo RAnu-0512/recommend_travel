@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:やさか村ワタブンアートファブリック>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+配色, 包装
+cluster1:(2)
+こと, 感じ
+cluster2:(9)
+使い方, リズム, 機織り, ところ, 色とりどり, ホームページ, スタート, 折り返し, 組み合わせ
+cluster3:(2)
+空気, 糸
+cluster4:(1)
+藤井
+cluster5:(1)
+羽織機
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 8entities.

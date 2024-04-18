@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高野寺(島根県大田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+時期, 事, 事情, 場面
+cluster1:(9)
+姉さん, 訪問, 参り, ツツジ, 旅行, 弘法大師, ドライブ, 大師堂, 家内
+cluster2:(4)
+高野院, 創建, 開基, 寺伝
+cluster3:(1)
+山名義理奉書
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 1entities.

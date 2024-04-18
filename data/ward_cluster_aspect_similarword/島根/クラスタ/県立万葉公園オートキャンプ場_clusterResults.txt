@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:県立万葉公園オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+万葉集, 昼寝, 時間, 近所
+cluster1:(2)
+オートキャンプ場, 施設
+cluster2:(3)
+公園, 芝生, 広場
+cluster3:(1)
+万葉
+cluster4:(1)
+県立万葉公園
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 4entities.

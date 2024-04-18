@@ -1,0 +1,17 @@
+--------------------similar_words:千千香--------------------
+top3 entities near to cluster0>>
+接客, 応対, 態度
+top3 entities near to cluster1>>
+唐揚げ, 唐, 飯
+top3 entities near to cluster3>>
+値段, 価格
+top3 entities near to cluster5>>
+食事, 料理, 夕食
+top3 entities near to cluster6>>
+サップ, スタンドアップパドル, ＳＵＰ
+top3 entities near to cluster8>>
+コース, サービス, ダイビング
+top3 entities near to cluster10>>
+家族, 田舎, 地元
+top3 entities near to cluster11>>
+息子, 孫, 夫婦

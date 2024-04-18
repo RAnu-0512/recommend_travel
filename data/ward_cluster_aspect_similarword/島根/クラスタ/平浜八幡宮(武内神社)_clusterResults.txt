@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平浜八幡宮(武内神社)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+祭り, 夏祭り
+cluster1:(5)
+子供, 人, 車, 人々, 最後
+cluster2:(2)
+神社, 屋台
+cluster3:(1)
+駐車場
+cluster4:(1)
+安全祈願
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 6entities.

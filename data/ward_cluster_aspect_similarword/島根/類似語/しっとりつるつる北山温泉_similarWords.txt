@@ -1,0 +1,15 @@
+--------------------similar_words:しっとりつるつる北山温泉--------------------
+top3 entities near to cluster0>>
+お客, 常連, 外客
+top3 entities near to cluster2>>
+状態, 効果, よう
+top3 entities near to cluster3>>
+地元, 大勢, 自宅
+top3 entities near to cluster6>>
+天気, 気温, 大雨
+top3 entities near to cluster8>>
+疲労, 休憩
+top3 entities near to cluster13>>
+温泉, 温泉郷, 旅館
+top3 entities near to cluster16>>
+温泉, 炭酸, 露天風呂

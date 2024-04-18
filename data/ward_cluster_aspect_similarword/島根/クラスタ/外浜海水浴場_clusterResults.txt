@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:外浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+船引運河, 船引運河外海側
+cluster1:(5)
+砂浜, 白砂, 海辺, 黒砂, 海
+cluster2:(2)
+浮輪, 遊具
+cluster3:(4)
+水, 大阪, 地元, 自然
+cluster4:(6)
+滑り台, シャワー, トイレ, 兄さん, スリル, 海水浴
+cluster5:(2)
+子供, 人
+cluster6:(2)
+入口, 施設
+cluster7:(1)
+天気
+cluster8:(6)
+子供達, 海水浴場, 隠岐島前地区, 子供たち, 監視員, 外浜海水浴場
+cluster9:(1)
+遊泳可能域
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 10entities.

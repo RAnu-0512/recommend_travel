@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長尾海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+砂浜, 浜辺
+cluster1:(6)
+南端, 遊歩道, 島, 日本海, 海, 知夫里島
+cluster2:(1)
+海水浴場
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

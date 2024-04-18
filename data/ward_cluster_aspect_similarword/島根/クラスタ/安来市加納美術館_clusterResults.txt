@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安来市加納美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+名工, 見ごたえ, 中心, 方々, 絵画, コレクション, 作品, 価値, 見応え, 美術館, 方, 備前焼, 指定, こと
+cluster1:(4)
+足立美術館, 安来市, 加納美術館, 島根県
+cluster2:(9)
+絵画展示室, 著名作家たち, 人間国宝作家, 人間国宝, 展示内容, 地元出身画家, 展示室, 展示品, 特別展
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 0entities.

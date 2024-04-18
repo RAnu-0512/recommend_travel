@@ -1,0 +1,45 @@
+--------------------similar_words:日本庭園 由志園--------------------
+top3 entities near to cluster0>>
+土産, 料理, 食事
+top3 entities near to cluster1>>
+来場, お客, 乗客
+top3 entities near to cluster2>>
+予約, 受付, 申し込み
+top3 entities near to cluster3>>
+閉園, 開園, 入園
+top3 entities near to cluster4>>
+案内, 訪問, 同行
+top3 entities near to cluster5>>
+喫茶, 喫茶店, カフェ
+top3 entities near to cluster6>>
+バス, シャトル, タクシー
+top3 entities near to cluster9>>
+入り口, 窓, 入口
+top3 entities near to cluster10>>
+館内, 屋内, 建物
+top3 entities near to cluster12>>
+レストラン, ランチ, イルミネーション
+top3 entities near to cluster13>>
+花, 草花, お花
+top3 entities near to cluster14>>
+日, 連休, 月
+top3 entities near to cluster21>>
+光景, 景色, 風景
+top3 entities near to cluster22>>
+友人, 親戚, 両親
+top3 entities near to cluster23>>
+品種
+top3 entities near to cluster24>>
+価値, 機会
+top3 entities near to cluster25>>
+季節, 時期, 日々
+top3 entities near to cluster27>>
+夕方, 昼前, 昼過ぎ
+top3 entities near to cluster32>>
+牡丹, 薔薇, 芍薬
+top3 entities near to cluster33>>
+回遊式, 庭園, 回遊
+top3 entities near to cluster35>>
+入場券, 入園券, 入場, 入園
+top3 entities near to cluster36>>
+庭園, 庭, 中庭

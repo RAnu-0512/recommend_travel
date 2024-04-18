@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野町アジサイロード>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+道路沿い, 道路, 名所, 国道, 道, 林道西側部分, 道沿い
+cluster1:(3)
+竿, 梅雨, 植木
+cluster2:(5)
+色, 写真, 青, 花, 種類
+cluster3:(2)
+紫陽花ロード, アジサイロード
+cluster4:(2)
+津和野, 高津川
+cluster5:(4)
+ナマズ, アジサイ, シーズン, 色とりどり
+cluster6:(1)
+清流
+cluster7:(12)
+車, 趣味, 時期, 付近, 西日本一, 目, 個人, 状態, 噂, 場所, 人, 心
+cluster8:(1)
+ノーストレス
+cluster9:(2)
+淡い色, 開花時期
+cluster10:(2)
+鮎釣り, 釣り人達
+cluster11:(2)
+増田市, 益田市
+cluster12:(1)
+西の県道17号津和野田万川線
+
+howmany entities : 44
+howmany clusters : 13
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 5
+deleted 13entities.

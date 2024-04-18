@@ -1,0 +1,25 @@
+--------------------similar_words:武家屋敷(島根県松江市)--------------------
+top3 entities near to cluster1>>
+屋敷, 侍, 錦吾
+top3 entities near to cluster2>>
+建物, 家屋, 母屋
+top3 entities near to cluster4>>
+風情, 趣, 趣き
+top3 entities near to cluster5>>
+展示, 見学, 散策
+top3 entities near to cluster9>>
+佇まい, 雰囲気, たたずまい
+top3 entities near to cluster10>>
+カフェ, タイム
+top3 entities near to cluster11>>
+町並み, 文化財, 城下町
+top3 entities near to cluster12>>
+家族, 風景
+top3 entities near to cluster16>>
+縄手, 鮮一郎, 松原
+top3 entities near to cluster19>>
+堀, 内堀, 掘
+top3 entities near to cluster20>>
+紋, 享, 保
+top3 entities near to cluster21>>
+武家, 屋敷, 地区

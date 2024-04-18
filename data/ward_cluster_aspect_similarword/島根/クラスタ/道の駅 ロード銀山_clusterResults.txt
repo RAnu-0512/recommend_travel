@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 ロード銀山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石見銀山, 出雲大社
+cluster1:(13)
+こじんまり, 辛口, 気, レストラン, WELCOME, マナー, 評価, 後発, トイレ, 悪さ, 地元, 失礼, 人
+cluster2:(4)
+昼食, 蕎麦, 旅行, 土産
+cluster3:(2)
+国道, 道
+cluster4:(5)
+駅, 周辺, 敷地, 所, 施設
+cluster5:(1)
+劣勢感
+cluster6:(13)
+休憩室, 飲食店, 穴子寿司, 美味いもん市, 土産物売場, 産直市場, 休憩場所, 観光地, 休憩スペース, 箱寿司, 車内泊, 駐車場, 島根県
+cluster7:(1)
+太田名物の箱寿司はじめ鯖寿司
+
+howmany entities : 41
+howmany clusters : 8
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 4
+deleted 6entities.

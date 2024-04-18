@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲民藝館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出雲民藝館, 民藝運動
+cluster1:(14)
+文化, 昔, 見応え, 陶磁器, 場所, 布, 経験, 出雲, 興味, 方, 造り, 生活, 勉強, 民芸品
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富田山荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光目的, 温泉宿, 温泉
+cluster1:(4)
+尼子, 月山, 足立美術館, 広瀬
+cluster2:(3)
+山, 岩, 清流
+cluster3:(2)
+対応, 案内
+cluster4:(3)
+こと, 状況, 上
+cluster5:(15)
+こじんまり, 周辺, 季節, 露天風呂, スポット, 家族, 景色, お気に入り, オーダーストップ, スタッフ, 富田川, 町並み, 人, 食事, 桜並木
+cluster6:(1)
+遅め
+cluster7:(1)
+源泉掛け流し
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 4entities.

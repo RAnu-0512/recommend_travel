@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白島海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白島海岸, 白島岬
+cluster1:(3)
+物足りなさ, 景色, 眺め
+cluster2:(9)
+人気, スポット, 北, 岩, 海岸, 島, 隠岐, 最北端, 方角
+cluster3:(1)
+観光客
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 3entities.

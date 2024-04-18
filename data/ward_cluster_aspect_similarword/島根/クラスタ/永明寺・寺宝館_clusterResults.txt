@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永明寺・寺宝館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+昔, 見応え, 仏画, 建物, 他, 品々, 藩主, 菩提寺, 感じ, 焼き物
+cluster1:(2)
+永明寺, 永明寺・寺宝館
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

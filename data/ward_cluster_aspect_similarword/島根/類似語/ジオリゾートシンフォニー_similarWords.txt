@@ -1,0 +1,13 @@
+--------------------similar_words:ジオリゾートシンフォニー--------------------
+top3 entities near to cluster0>>
+海, 海底, 海中
+top3 entities near to cluster2>>
+ランチ, ビーチ, カフェ
+top3 entities near to cluster3>>
+世話, 準備, 休憩
+top3 entities near to cluster4>>
+夫婦, 家族, 主人
+top3 entities near to cluster9>>
+動画, 写真, 体験
+top3 entities near to cluster11>>
+写真, 看板, 洞窟

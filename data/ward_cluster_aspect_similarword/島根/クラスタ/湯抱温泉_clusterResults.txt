@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯抱温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+中村旅館, 源泉, 中村, 御宿 湯抱温泉, 温泉旅館, 宿泊, 湯抱温泉, 旅館, 温泉
+cluster1:(2)
+こと, 心配
+cluster2:(3)
+人, 他, シルバーウィーク
+cluster3:(1)
+棚田
+cluster4:(1)
+貸切状態
+cluster5:(1)
+析出物
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 5entities.

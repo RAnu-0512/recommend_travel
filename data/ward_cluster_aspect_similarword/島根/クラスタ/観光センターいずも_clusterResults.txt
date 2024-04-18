@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観光センターいずも>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大社, 出雲大社
+cluster1:(3)
+出雲そば, 出雲, 出雲地方
+cluster2:(2)
+観光センター出雲, 出雲土産
+cluster3:(3)
+出雲大社駐車場, 大駐車場, 駐車場
+cluster4:(2)
+種類, 何種類
+cluster5:(5)
+購入, 対応, 休憩, 参拝, 試食
+cluster6:(5)
+前, 目, もの, 場所, 近く
+cluster7:(3)
+親戚, 自宅, 職場
+cluster8:(2)
+和菓子, 土産物
+cluster9:(7)
+買い物, おみやげ, スポット, ゴールデンウィーク, ドライブ, バスターミナル, ソフトクリーム
+cluster10:(1)
+宍道湖
+cluster11:(2)
+地方, 雨
+cluster12:(1)
+蕎麦
+cluster13:(6)
+食事処, 土産物店, 店内, 店, 店員, 食事
+cluster14:(1)
+本殿横
+cluster15:(5)
+観光センター, 団体客, 観光客, 観光地, 観光センターいず
+cluster16:(5)
+土産選び, 土産店, 土産屋, 土産品, 土産
+cluster17:(5)
+特産, 銘菓, 名産, 菓子, 菓子類
+cluster18:(3)
+加工品, しじみ, 味噌汁真空パック
+cluster19:(1)
+宝クジ販売店
+
+howmany entities : 64
+howmany clusters : 20
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 11
+deleted 14entities.

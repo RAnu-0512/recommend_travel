@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:温泉津やきものの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+温泉津焼, 温泉津温泉街, 温泉津焼き, 温泉街, 窯出し, 窯, 登り窯, 温泉津温泉
+cluster1:(17)
+職人, 温泉津, ところ, 車, 右側, 家族, 左側, 技術, 手びねり, 想像, 陶器, 時間, 施設, 焼き物, 場所, 方, 土産
+cluster2:(4)
+陶芸体験, 体験教室, 体験, 絵付け体験
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 0entities.

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 さくらの里きすき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+桜祭り, 雲南市, 河津桜
+cluster1:(3)
+お土産屋, 車中泊, 駐車場
+cluster2:(2)
+駅, 駅さくら
+cluster3:(3)
+昼食, 蕎麦, 出汁
+cluster4:(3)
+物色, レジ, 棚
+cluster5:(3)
+エゴマ, おばさん, コンビニ
+cluster6:(2)
+写真, もの
+cluster7:(1)
+桜色
+cluster8:(1)
+左側
+cluster9:(3)
+店, 道, 施設
+cluster10:(1)
+米
+cluster11:(1)
+立久恵峡BS
+cluster12:(3)
+粉, そば粉, 粉△
+cluster13:(5)
+野菜物, 乾燥椎茸, 椎茸, 乾物中心, 産直
+
+howmany entities : 34
+howmany clusters : 14
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 8
+deleted 8entities.

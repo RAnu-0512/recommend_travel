@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長谷寺(島根県雲南市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+出雲観音霊場, 十一面観音立像, 子安観音, 観音立像
+cluster1:(2)
+安産, 安産祈願
+cluster2:(2)
+寺, 寺伝
+cluster3:(3)
+鎌倉, 出雲, 大和
+cluster4:(2)
+建物, 庭
+cluster5:(2)
+琵琶湖, 長谷寺
+cluster6:(2)
+人々, 人
+cluster7:(3)
+他, 雰囲気, もの
+cluster8:(1)
+県
+cluster9:(2)
+浮木, 本尊
+cluster10:(2)
+時代初期, 子授け
+cluster11:(1)
+有形文化財
+
+howmany entities : 26
+howmany clusters : 12
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 16entities.

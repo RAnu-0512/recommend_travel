@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 あらエッサ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+安来産, 安来節, 安来町, 安来市
+cluster1:(5)
+鳥取, 鳥取県, 米子, 松江, 島根
+cluster2:(4)
+駅, 県境, 国道, 道
+cluster3:(3)
+清掃, ドジョウ料理, 野菜
+cluster4:(22)
+途中, 印象, 農産物, レストラン, 写真, 気, 移動, 者, 海産物, あたり, 名前, グッズ, 魚介類, 売り場, トイレ, いくつか, オープン, 農作物, 施設, 立ち寄り先, 建物, こと
+cluster5:(1)
+あらエッサ
+cluster6:(1)
+日用品
+cluster7:(13)
+情報交流館, 直売所, 観光, 加工品, 観光移動, 古民家風, 土産品, レストラン棟, 物販棟, 観光交流プラザ, 棟, 駐車場, 土産
+
+howmany entities : 53
+howmany clusters : 8
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 6
+deleted 2entities.

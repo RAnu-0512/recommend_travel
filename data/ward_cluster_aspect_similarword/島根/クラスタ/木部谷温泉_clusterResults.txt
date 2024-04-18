@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木部谷温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+益田津和野, 欠泉
+cluster1:(5)
+湯船, 源泉, 湯, お湯, 温泉
+cluster2:(2)
+六日市, 日帰り
+cluster3:(2)
+バルブ, タオル
+cluster4:(3)
+途中, ほか, 周囲
+cluster5:(1)
+裏山
+cluster6:(2)
+方面, 客
+cluster7:(1)
+趣
+cluster8:(4)
+地面, 配管, 網, 底
+cluster9:(1)
+黄土色
+cluster10:(3)
+木部谷温泉松乃湯, 温泉施設横, 入浴施設
+
+howmany entities : 26
+howmany clusters : 11
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 4
+deleted 11entities.

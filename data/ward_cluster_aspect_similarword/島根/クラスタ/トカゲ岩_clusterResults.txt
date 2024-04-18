@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トカゲ岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光時間, 駐車場
+cluster1:(3)
+崖, 岩, トカゲ岩
+cluster2:(4)
+写真, 地震, 旅行, 実物
+cluster3:(10)
+隠岐島, とかげ, ポイント, カメレオン, 形, トカゲ, 自然, 人, 島, 後ろ足
+cluster4:(2)
+疑問, 力
+cluster5:(1)
+神秘性
+cluster6:(1)
+;̄◇̄
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 6entities.

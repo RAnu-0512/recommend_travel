@@ -1,0 +1,9 @@
+--------------------similar_words:出雲玉作資料館--------------------
+top3 entities near to cluster0>>
+史跡, 史蹟, 古墳
+top3 entities near to cluster1>>
+産出地, 地名, 産出
+top3 entities near to cluster3>>
+工程, 材料, 公園
+top3 entities near to cluster5>>
+勾玉, 玉造

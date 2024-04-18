@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:タクワサイクル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+バイク, ロードバイク, クロスバイク
+cluster1:(3)
+バタデン, 温泉, 宍道湖
+cluster2:(1)
+乗り方
+cluster3:(1)
+観光施設
+cluster4:(1)
+出雲大社
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:染羽天石勝神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+面影, 階下, 花, 池, 場所, 中, 蓮, 上
+cluster1:(5)
+参拝, 本殿, 神門, 石段, 祠
+cluster2:(3)
+右奥, 昔瀧, 注連岩
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 0entities.

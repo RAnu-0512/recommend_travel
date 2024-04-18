@@ -1,0 +1,53 @@
+--------------------similar_words:足立美術館--------------------
+top3 entities near to cluster0>>
+雪景色, 曇り空, 雨降り
+top3 entities near to cluster3>>
+喫茶店, カフェ, カレー
+top3 entities near to cluster4>>
+ショップ, コーナー, ツアー
+top3 entities near to cluster5>>
+小綺麗, 手入れ, おこわ
+top3 entities near to cluster6>>
+雰囲気, 見どころ, グッズ
+top3 entities near to cluster7>>
+小雨, 曇り空
+top3 entities near to cluster10>>
+写真絵, 写真, 背景
+top3 entities near to cluster13>>
+上品, 洒落, 素朴
+top3 entities near to cluster14>>
+箱庭, 暇人, スー
+top3 entities near to cluster15>>
+家族, 美術館, 人生
+top3 entities near to cluster16>>
+自然美, 自然
+top3 entities near to cluster19>>
+木々, 苔, 草花
+top3 entities near to cluster21>>
+期待, 興奮, 驚き
+top3 entities near to cluster22>>
+値段, 価値, 文句
+top3 entities near to cluster23>>
+制限
+top3 entities near to cluster25>>
+趣向, 雰囲気, 印象
+top3 entities near to cluster30>>
+大観, 菁児, 寅一郎
+top3 entities near to cluster33>>
+入館料, 入場料, 入場, 入館
+top3 entities near to cluster35>>
+水彩画, 水彩, 画家
+top3 entities near to cluster37>>
+美術, 絵画, 芸術
+top3 entities near to cluster38>>
+展示, 展覧
+top3 entities near to cluster39>>
+庭園, 中庭, 園内
+top3 entities near to cluster41>>
+窓越し, ガラス越し, 窓, ガラス
+top3 entities near to cluster42>>
+風景, 景色, 土産
+top3 entities near to cluster43>>
+バス, 周遊, タクシー
+top3 entities near to cluster47>>
+時間, 開場, 開館

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:隠岐温泉GOKA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+湯船, 風呂, お湯
+cluster1:(4)
+芯, 身体, 肌, 体
+cluster2:(4)
+裸ゾーン, 景色, 水着, 海
+cluster3:(21)
+シャワースペース, 印象, 気, 家族, 値段, ゾーン, 関内, バー, 夕方, 地元民, 唯一, 雨, 気持ち, 種類, 施設, ジャグジー, 地元, アンバランス, 飲食スペース, 方, こと
+cluster4:(1)
+欠航
+cluster5:(1)
+予備知識
+cluster6:(11)
+温泉施設, 清潔感, 温泉巡り, 隠岐温泉, おすすめ隠岐, 男女混浴, 隠岐, 温泉そのもの, 日帰り温泉施設, 温泉, 水着着用
+cluster7:(1)
+ローソク島遊覧船
+
+howmany entities : 46
+howmany clusters : 8
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 5
+deleted 3entities.

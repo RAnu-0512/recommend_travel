@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯町窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+玉造温泉駅, 観光スポット
+cluster1:(12)
+技法, スポット, 陶器, 人, 日本, 興味, 素朴, 感じ, 生活, コーヒーカップ, 焼き物, 現代
+cluster2:(3)
+陶芸品, 土産探し, 洋食器
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 2entities.

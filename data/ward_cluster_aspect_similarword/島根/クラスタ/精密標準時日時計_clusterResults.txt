@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:精密標準時日時計>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+藤井天文豪, 仁摩町, 仁摩サンドミュージアム, 出雲大社, 島根県
+cluster1:(33)
+地球, 砂, ミュージアム, 方角, 太陽, 主流, 感じ, 廻, 方位, 位置, スポット, 公園, 日時計, ガラス, エジプト, オブジェ, 関係, 砂時計, 仕組み, デジタル, 世界, 目, 記念碑, 形, 大きさ, 時間, 国道, ピラミッド群, 建物, す装置, ピラミッド, 資料, 広場
+cluster2:(3)
+花時計, 時計類, 時計
+cluster3:(4)
+精密日時計, 精密標準時日時計, 精密標準, 精密標準時
+cluster4:(1)
+廻縛盤
+
+howmany entities : 46
+howmany clusters : 5
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 4
+deleted 1entities.

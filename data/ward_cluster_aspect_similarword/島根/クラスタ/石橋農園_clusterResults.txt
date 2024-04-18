@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石橋農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イチゴ狩り, いちご狩り
+cluster1:(3)
+品種, 畑, 農園
+cluster2:(2)
+気, 場所
+cluster3:(9)
+他, ジジババ, 家族, 貸し切り, ビニールハウス, トイレ, スタート, イチゴ, ハウス
+cluster4:(1)
+水
+cluster5:(5)
+貸切, 予約, 便, 体験, 試食
+cluster6:(2)
+孫たち, 到着時間
+cluster7:(1)
+駐車場
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 8entities.

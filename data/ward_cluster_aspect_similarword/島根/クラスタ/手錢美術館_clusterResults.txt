@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手錢美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ルート, 地, 道, 美術館
+cluster1:(3)
+酒蔵, 蔵, 米
+cluster2:(1)
+道沿い
+cluster3:(5)
+稲佐, 神々, 神迎, 出雲大社, 神在月
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 1entities.

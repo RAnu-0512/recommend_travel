@@ -1,0 +1,17 @@
+--------------------similar_words:ローソク島--------------------
+top3 entities near to cluster0>>
+ロー, ファー, ググ・バサ
+top3 entities near to cluster2>>
+展望, 駐車, 道路
+top3 entities near to cluster3>>
+名所, 周遊, 名所旧跡
+top3 entities near to cluster4>>
+遊覧船, 遊覧, 船舶
+top3 entities near to cluster5>>
+夕陽, 夕日, 夕焼け
+top3 entities near to cluster6>>
+道路, 国道, 標識
+top3 entities near to cluster7>>
+景観, 自然, 風景
+top3 entities near to cluster8>>
+島, 海, 海中

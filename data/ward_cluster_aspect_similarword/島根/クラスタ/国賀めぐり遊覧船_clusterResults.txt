@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国賀めぐり遊覧船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+国賀海中公園, 亀島・鬼が城, 東国賀海岸
+cluster1:(16)
+郷ノ浦港, 船頭, 遊覧船, 船長おまかせコース, 外海, 浦郷, 内海, クルーズ船, 運河, 火山由来, カプリ島, 岩屋, 隠岐観光, 島, 船長, 船
+cluster2:(3)
+一面緑, 岩壁, 赤壁
+cluster3:(3)
+崖, 絶壁, 切り立つ断崖
+cluster4:(10)
+費用, 時間船, 所, 事, 予定, 時間, 変更, 状況, 場所, こと
+cluster5:(7)
+景色, 見所, 感動, 明暗, 迫力, 天気, 解説
+cluster6:(2)
+青, 洞窟
+cluster7:(3)
+海岸, 自然, 海
+cluster8:(1)
+波
+cluster9:(12)
+ところ, 素人目, 国賀海岸, フェリー, 断崖絶壁, Aコース, うねり, 代わり, 摩天崖, バス, 人, 知夫里島
+cluster10:(1)
+写真撮影
+
+howmany entities : 61
+howmany clusters : 11
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 8
+deleted 4entities.

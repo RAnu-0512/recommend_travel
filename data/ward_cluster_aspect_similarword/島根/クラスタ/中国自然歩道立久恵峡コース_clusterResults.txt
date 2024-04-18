@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中国自然歩道立久恵峡コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+遊歩道, コース, シャッター, 景色, 下流, 道, 時間, 神戸川, 伝説, 立久恵峡
+cluster1:(3)
+崖, 苔, ふち
+cluster2:(5)
+中国自然歩道立久恵峡, 不老橋, 亀ヶ淵, 霊光寺, 羅漢・千体
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 0entities.

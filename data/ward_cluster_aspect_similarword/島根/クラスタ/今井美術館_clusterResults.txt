@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今井美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+私立美術館, 公立美術館
+cluster1:(11)
+おすすめ, 画伯, スポット, 作品, ひとつひとつ, 開催, 今井産業, 美術館, 手入れ, 建物, 庭
+cluster2:(2)
+豪雨, 観光スポット
+cluster3:(8)
+今井, 再興院展, 入館料, 建設業社, 今井美術館コレクション展, 桜江町内, 名品展2018, 江津市
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 4entities.

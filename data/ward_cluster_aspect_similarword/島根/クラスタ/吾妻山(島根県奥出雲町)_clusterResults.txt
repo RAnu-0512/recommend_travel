@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吾妻山(島根県奥出雲町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+松江自動車道, 広島県, 島根県
+cluster1:(3)
+登山口, 出会う登山者, 登山
+cluster2:(17)
+イザナギノミコト, ピクニック, 初心者, ところ, ハイキング, 空気, ロッジ, 宿泊, 余裕, キャンプ場, トレッキング, ふもと, 景観, 天気, キャンプ, 場所, 烏帽子山
+cluster3:(2)
+吾妻山, 吾妻山ロッジ
+cluster4:(2)
+山頂, 頂上
+cluster5:(1)
+県境
+cluster6:(2)
+草原, 高原
+cluster7:(2)
+原, 大山
+cluster8:(8)
+日本, 山, 花, 北, 緑, 伝説, 自然, 海
+cluster9:(1)
+山陽
+cluster10:(4)
+休暇村, 家族, 亡き妻, 家族連れ
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 5
+deleted 10entities.

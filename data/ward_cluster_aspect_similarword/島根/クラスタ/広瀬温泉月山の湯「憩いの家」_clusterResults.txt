@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広瀬温泉月山の湯「憩いの家」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+湯, 湯舟, 温泉
+cluster1:(4)
+心配, 意味, 左右, 方
+cluster2:(4)
+露天風呂, 雰囲気, ロッカー, 洗い場
+cluster3:(2)
+友人, 人
+cluster4:(2)
+近く, 地元
+cluster5:(1)
+看板
+cluster6:(1)
+客
+cluster7:(1)
+裸
+cluster8:(1)
+集落
+cluster9:(1)
+憩い
+cluster10:(1)
+休憩室
+cluster11:(1)
+広瀬温泉月山
+
+howmany entities : 22
+howmany clusters : 12
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 11entities.

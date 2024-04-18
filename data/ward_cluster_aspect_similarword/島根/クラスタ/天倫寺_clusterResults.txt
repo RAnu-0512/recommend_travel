@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天倫寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+天倫寺, 雰囲気, 寺
+cluster1:(3)
+松江松平, 松江八景, 松平直政公
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 0entities.

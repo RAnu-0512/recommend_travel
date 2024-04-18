@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田地区>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時期, 気
+cluster1:(2)
+自然, 生活
+cluster2:(4)
+祭り, 地区, ホタル, 温泉
+cluster3:(1)
+安来市
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

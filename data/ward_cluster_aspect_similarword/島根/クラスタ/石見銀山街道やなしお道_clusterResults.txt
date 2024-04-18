@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石見銀山街道やなしお道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+街道, 道
+cluster1:(4)
+中, 風情, 竹やぶ, 気持ち
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 2entities.

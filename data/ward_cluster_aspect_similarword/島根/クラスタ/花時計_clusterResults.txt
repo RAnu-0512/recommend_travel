@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花時計>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+印象, 色, 砂, ミュージアム, 滑り台, 空間, 高校生, 公園, グッズ, サンドミュージアム, 付近, 砂時計, 見応え, 世界, 庭園, 手入れ, 建物, 地元, お陰
+cluster1:(2)
+花時計, 時計
+cluster2:(2)
+花, 花々
+cluster3:(5)
+仁摩サンドミュージアム入口, 仁摩健康公園, 仁摩サンドミュージアム, 健康公園, 島根県
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 4entities.

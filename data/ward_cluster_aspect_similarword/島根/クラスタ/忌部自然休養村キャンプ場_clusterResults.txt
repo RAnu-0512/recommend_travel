@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:忌部自然休養村キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+眼下, キャンプ場, 高台
+cluster1:(3)
+忌部, 松江, 宍道湖
+cluster2:(1)
+自然休養村キャンプ場
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 1entities.

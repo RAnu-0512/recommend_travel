@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一畑電車 出雲大社前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+日本最古級, 出雲市駅, 大社, 一畑電車, どこかしら京福電車, 出雲大社
+cluster1:(4)
+参道, 出雲, 松江, 鳥居
+cluster2:(3)
+外観, 趣, 建物
+cluster3:(2)
+日本, 現代
+cluster4:(8)
+タイム, ステンドグラス, 賑わい, 待合室, 中, 雰囲気, 時間, 隣
+cluster5:(4)
+感じ, もの, 方, 箇所
+cluster6:(2)
+中間位, 建築当時
+cluster7:(12)
+出雲大社前駅, 電車, 旧型車両, 車, 駅, JR, 車両, 改札, 待機車両, 駅舎, 電車 出雲大社前駅, 展示車両
+cluster8:(1)
+レトロ感
+
+howmany entities : 42
+howmany clusters : 9
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 6
+deleted 5entities.

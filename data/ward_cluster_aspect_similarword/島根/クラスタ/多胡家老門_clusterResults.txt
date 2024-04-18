@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多胡家老門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+面影, なまこ壁, 殿町, 山岡, 元屋敷, 家柄, 重厚感, 威厳, 門, 老門, 町並み, こと, 家
+cluster1:(2)
+多故家, 多胡家
+cluster2:(2)
+津和野藩, 藩
+cluster3:(3)
+家老屋敷, 家老, 家老家
+cluster4:(2)
+武家屋敷, 屋敷
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 6entities.

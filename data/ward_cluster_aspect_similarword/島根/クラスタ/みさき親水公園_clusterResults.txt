@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みさき親水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+市道安来港, 安来港
+cluster1:(3)
+公園, 展望公園, みさき親水公園
+cluster2:(6)
+時期, 中海, 福井線, 人, 亀島, 宍道湖
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加賀潜戸観光遊覧船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+遊覧船, 観光遊覧船, 潜戸観光遊覧船, 観光船
+cluster1:(5)
+加賀港, 松江市, 島根平野, 加賀, 島根県
+cluster2:(2)
+事前問い合わせ必須, 可能性
+cluster3:(8)
+神話, 出航, 西風, 洞窟, 神潜戸, 船, 海, 潜戸
+cluster4:(8)
+感じ, こと., 中, 予定, もの, 場所, 方, こと
+cluster5:(2)
+景色, 天気
+cluster6:(3)
+利用, 勉強, 体験
+cluster7:(3)
+HP, ジオパーク関係, 情報
+cluster8:(9)
+まね, 成り立ち, コース, 夏場, ビデオ, 雰囲気, 気持ち, 船着き場, 日本海
+cluster9:(1)
+展示場
+
+howmany entities : 45
+howmany clusters : 10
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 7
+deleted 5entities.

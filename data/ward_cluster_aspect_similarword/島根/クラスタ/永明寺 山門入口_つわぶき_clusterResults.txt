@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永明寺 山門入口_つわぶき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+訪問, 様子
+cluster1:(4)
+花, つわぶき, 植物, 屋根
+cluster2:(1)
+傷ん
+cluster3:(1)
+植栽
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

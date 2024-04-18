@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三刀屋川河川敷公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+桜川, 尾道, 雲南市
+cluster1:(3)
+赤, 緑, 白
+cluster2:(2)
+地方, 中国
+cluster3:(2)
+移動, ツーリングみ
+cluster4:(8)
+真ん中, 見ごたえ, ところ, 三刀屋川, スポット, ソメイヨシノ, おかげ, 桜並木
+cluster5:(2)
+八重桜, 河川敷
+cluster6:(1)
+今回
+cluster7:(1)
+千光寺
+cluster8:(2)
+両側, 部分
+cluster9:(5)
+季節, 時期, 花粉, 夏場, 春
+cluster10:(5)
+桜, 桜餅, 弁当, 花見, 満開
+cluster11:(9)
+車, 駐車, 家族, 公園, 日陰, 景色, 国道, 屋台, 家族連れ
+cluster12:(8)
+開花, 御衣黄, 観光名所, 名所, 開花情報, 目的地, たまには桜, 駐車場
+cluster13:(5)
+川, 屋川河川敷公園, 川沿い, 屋川, 河川敷沿い
+cluster14:(2)
+中国横断自動車道, 高速道路
+cluster15:(2)
+尾道北IC, 三刀屋木次IC
+
+howmany entities : 60
+howmany clusters : 16
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 8
+deleted 14entities.

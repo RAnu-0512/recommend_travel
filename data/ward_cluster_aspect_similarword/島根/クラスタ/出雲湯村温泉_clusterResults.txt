@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲湯村温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+川, 新緑, 訪問, 紅葉狩り, 芯, 趣, 車, 山, 季節, ナビ, 露天風呂, レトロ, 近く, 良質, ほとり, 中, ロケーション, 風, 建物, 温度, 夫婦, 場所, 体, 川辺
+cluster1:(3)
+お湯加減, 湯加減, かけ流し
+cluster2:(2)
+家族風呂, 風呂あがり
+cluster3:(3)
+湯船, 湯, 温泉
+cluster4:(2)
+入浴, 浴室
+cluster5:(1)
+長湯
+cluster6:(1)
+大山旅行
+cluster7:(1)
+共同浴場
+cluster8:(2)
+国民宿舎, 更衣室
+cluster9:(1)
+券売機
+
+howmany entities : 40
+howmany clusters : 10
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 10entities.

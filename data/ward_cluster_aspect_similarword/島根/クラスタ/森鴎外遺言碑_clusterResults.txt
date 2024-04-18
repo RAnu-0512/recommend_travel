@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森鴎外遺言碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+もの, こと
+cluster1:(2)
+人, 中
+cluster2:(1)
+親友
+cluster3:(1)
+人生
+cluster4:(1)
+意志
+cluster5:(1)
+石
+cluster6:(1)
+遺書
+cluster7:(1)
+鴎外
+cluster8:(1)
+賀古鶴所
+cluster9:(1)
+宮内省
+
+howmany entities : 12
+howmany clusters : 10
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 12entities.

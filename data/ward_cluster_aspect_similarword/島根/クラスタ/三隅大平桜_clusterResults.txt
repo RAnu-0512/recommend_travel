@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三隅大平桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜, 満開
+cluster1:(5)
+オオヒラ, 時期, 名前, 現地, 様子
+cluster2:(1)
+風格
+cluster3:(1)
+説明板
+cluster4:(1)
+長寿楼
+cluster5:(2)
+花の慶次, 三隅大平桜
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

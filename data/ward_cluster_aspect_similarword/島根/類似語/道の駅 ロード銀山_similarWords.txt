@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅 ロード銀山--------------------
+top3 entities near to cluster1>>
+失礼, 勘違い
+top3 entities near to cluster2>>
+土産, 昼食, 蕎麦
+top3 entities near to cluster4>>
+施設, 敷地, 周辺
+top3 entities near to cluster6>>
+土産物店, 土産物, 駐車

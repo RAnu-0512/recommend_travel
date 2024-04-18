@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一夜嶽牛突大会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+角, 牛, 牛達
+cluster1:(3)
+迫力, 闘牛, 行事
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 0entities.

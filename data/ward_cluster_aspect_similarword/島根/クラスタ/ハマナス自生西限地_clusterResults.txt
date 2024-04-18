@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハマナス自生西限地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハマナス, オススメ
+cluster1:(1)
+紅色ハマナス
+cluster2:(1)
+観光スポット
+cluster3:(1)
+ハマナス自生西限地
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

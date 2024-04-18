@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:志都岩屋神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神社, 巨岩
+cluster1:(6)
+願い, 歴史, 思い, 瞬間, 感傷, 時間
+cluster2:(1)
+社殿裏
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

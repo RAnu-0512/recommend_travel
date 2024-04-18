@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大根島ぼたん芍薬園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+牡丹園, レンタカー, 鑑賞, 印象, 子供達, 感じ, ゴールデンウィーク, 大根島, 代わり, 見所, 中, 種類, 中国, 人, 色とりどり, ボタン, 方, 土産
+cluster1:(2)
+品種, 苗
+cluster2:(3)
+大輪, 花, 牡丹
+cluster3:(4)
+色, 季節, 黄色, 紅葉
+cluster4:(1)
+見頃
+cluster5:(7)
+園内, 温室, バスツアー, 庭園, 池, 植物学, 島
+cluster6:(1)
+中央部
+cluster7:(2)
+順位投票, 観光客
+cluster8:(6)
+境港, 中海, 松江市, 大根島牡丹園, 江島, 高麗人参
+
+howmany entities : 44
+howmany clusters : 9
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 5
+deleted 6entities.

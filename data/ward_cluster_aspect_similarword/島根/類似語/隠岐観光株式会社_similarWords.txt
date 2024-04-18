@@ -1,0 +1,11 @@
+--------------------similar_words:隠岐観光株式会社--------------------
+top3 entities near to cluster0>>
+遊覧船, 遊覧, バス
+top3 entities near to cluster2>>
+バス, 乗客, タクシー
+top3 entities near to cluster3>>
+食事, 弁当, 夕食
+top3 entities near to cluster4>>
+景色, 絶景, 風景
+top3 entities near to cluster5>>
+船長, 漁師

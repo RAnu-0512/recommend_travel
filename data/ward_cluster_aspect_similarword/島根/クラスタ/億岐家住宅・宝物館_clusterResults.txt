@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:億岐家住宅・宝物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国司, 隠岐国
+cluster1:(9)
+役人, 使い方, 土産, 旅, 駅鈴, 全国, 奥様, 美人, 当主
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

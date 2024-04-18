@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旅伏山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+山頂, 天気, 頂上, 景色
+cluster1:(12)
+流れ, 神社, 旅伏山, おれ, 木, 方, 道, 巣, 斐伊川, 西, こと, 意味
+cluster2:(1)
+駐車場
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 1entities.

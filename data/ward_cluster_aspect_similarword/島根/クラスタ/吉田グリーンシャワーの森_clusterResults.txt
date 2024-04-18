@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田グリーンシャワーの森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+周囲, 近く
+cluster1:(3)
+バーベキュー, 山, アスレチック
+cluster2:(1)
+自然
+cluster3:(1)
+大人
+cluster4:(1)
+店
+cluster5:(1)
+園内
+cluster6:(1)
+準備
+cluster7:(1)
+園内野外施設
+
+howmany entities : 11
+howmany clusters : 8
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 8entities.

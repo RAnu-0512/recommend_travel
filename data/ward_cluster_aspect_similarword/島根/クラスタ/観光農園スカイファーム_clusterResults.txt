@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観光農園スカイファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+敷物, 園内, 日陰
+cluster1:(5)
+梨, ぶどう, まな板, もい, ナイフ
+cluster2:(1)
+ぶどう狩り
+cluster3:(1)
+暑さ
+cluster4:(1)
+紙皿
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

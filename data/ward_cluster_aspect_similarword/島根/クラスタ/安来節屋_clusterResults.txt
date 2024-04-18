@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安来節屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+安来節, 本場安来節
+cluster1:(7)
+文化, 土地, 体験, 観光, 方, オススメ, おどり
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 2entities.

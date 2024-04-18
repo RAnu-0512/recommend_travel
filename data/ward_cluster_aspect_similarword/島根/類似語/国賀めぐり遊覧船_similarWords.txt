@@ -1,0 +1,15 @@
+--------------------similar_words:国賀めぐり遊覧船--------------------
+top3 entities near to cluster0>>
+海岸, 海中, 城
+top3 entities near to cluster1>>
+港船, 桟橋, 港
+top3 entities near to cluster2>>
+壁, 岩, 赤
+top3 entities near to cluster3>>
+断崖, 絶壁, 崖
+top3 entities near to cluster5>>
+見所, 景色, 迫力
+top3 entities near to cluster7>>
+海岸, 海, 自然
+top3 entities near to cluster9>>
+バス, 乗り場

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中国牡丹園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+牡丹, 牡丹苑
+cluster1:(6)
+中国, 牡丹園, 多く, 大根島, ボタン, 技術交流
+cluster2:(1)
+山東省
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

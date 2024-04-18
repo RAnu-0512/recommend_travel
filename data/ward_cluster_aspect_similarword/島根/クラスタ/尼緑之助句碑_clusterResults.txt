@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尼緑之助句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川柳界, 夕陽神話
+cluster1:(3)
+中期, 昭和, 人
+cluster2:(2)
+灯台, 句碑
+cluster3:(1)
+不勉強
+cluster4:(1)
+尼緑之助
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

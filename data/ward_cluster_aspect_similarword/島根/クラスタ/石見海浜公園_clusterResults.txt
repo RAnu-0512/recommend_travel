@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石見海浜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+足立美術館, 江津市, 浜田市
+cluster1:(3)
+遊具, 公園, 施設
+cluster2:(8)
+野原, 夏, お子様, 緑, 海岸, 景色, 海, 前
+cluster3:(1)
+潮風
+cluster4:(1)
+広さ
+cluster5:(1)
+地区地区
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 3entities.

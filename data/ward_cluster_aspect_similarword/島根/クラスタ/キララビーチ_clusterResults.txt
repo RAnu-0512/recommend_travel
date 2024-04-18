@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キララビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海水浴場, 更衣室, 駐車場
+cluster1:(7)
+浅瀬, 遠浅, 砂浜, 魚, 浜辺, 海, 波
+cluster2:(2)
+子供たち, 海水浴客
+cluster3:(20)
+散歩, コテージ, 色, ブロック, 清掃, キララ, トイレ, イルカ, 風車, ビーチ, 目, 夕日, シーズン, 自然, 旅行, 海外, エメラルドグリーン, 人, 日本海, 海水浴
+cluster4:(6)
+裏手, 駅, 東側, 真裏, 道, 近く
+cluster5:(1)
+キララ多伎
+cluster6:(6)
+駅多岐寄り, 駅キララ多岐, 道の駅キララ多岐, 多岐町, 家族みんなで島根県, 風力発電所
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 5
+deleted 3entities.

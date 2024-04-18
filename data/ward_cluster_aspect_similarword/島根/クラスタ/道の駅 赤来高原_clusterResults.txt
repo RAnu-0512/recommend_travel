@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 赤来高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+中, レストラン, 他, ウリ, 余談, 情報
+cluster1:(2)
+パン, 森
+cluster2:(6)
+頓原, 野菜, 駅, 国道, 道, 産直コーナー
+cluster3:(1)
+星基地
+cluster4:(1)
+飯南町ふるさと
+cluster5:(1)
+産直市場ぼたんの里の他手作りパン屋
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 5entities.

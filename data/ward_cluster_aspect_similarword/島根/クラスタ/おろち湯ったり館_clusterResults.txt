@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おろち湯ったり館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+物販スペース, 菓子
+cluster1:(10)
+日, ところ, 子, バリエーション, 露天風呂, ジェットバス, 湯上り, プール, 人, サウナ
+cluster2:(2)
+階段, 屋外
+cluster3:(1)
+檜
+cluster4:(5)
+子供達, 大人, 大事故, 子供, 幼児
+cluster5:(1)
+注意書き
+cluster6:(1)
+季節天候
+cluster7:(12)
+温泉施設, ジャグジー風呂, コーヒー牛乳, 風呂, 木風呂, 寝湯, 岩風呂, 施設, お湯, 泉質, 木次牛乳, 温泉
+cluster8:(1)
+島根県雲南市
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 8entities.

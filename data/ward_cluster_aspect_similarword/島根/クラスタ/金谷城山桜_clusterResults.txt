@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金谷城山桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+集落, 谷, 山, 断崖絶壁, 周囲
+cluster1:(2)
+里道, 県道
+cluster2:(1)
+城山桜
+cluster3:(1)
+駐車場
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

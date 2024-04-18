@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野大鳥居>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+太鼓谷, 太鼓谷稲荷神社, 稲荷神社
+cluster1:(20)
+神社, 趣, 日本, 山, 道路, 津和野, 鳥井, 威厳, 目, 参道, 風情, 中, 大きさ, 国道, 道, 入り口, 津和野大鳥居, 山道, 周り, 鳥居
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 0entities.

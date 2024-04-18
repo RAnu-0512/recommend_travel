@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 おろちの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+濃厚, 旬
+cluster1:(2)
+景色, 建物
+cluster2:(2)
+駅, 道
+cluster3:(1)
+散歩
+cluster4:(12)
+レストラン, 小規模, 地域, ランチバイキング, トイレ, アイス, そば, 売店, 販売, 地元, バイキング, 近く
+cluster5:(4)
+周辺散策, 田舎料理, 地元野菜, 観光情報コーナー
+cluster6:(5)
+ダム湖, 尾原ダム, 湖, さくらおろち湖, 木次牛乳
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 7entities.

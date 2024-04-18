@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安楽寺(島根県大田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+寺, 寺院, とお寺, 境内入口
+cluster1:(2)
+温泉津駅, 徒歩
+cluster2:(2)
+碑, 遺品
+cluster3:(11)
+こじんまり, 山, 一角, 昭和, ゆかり, 景色, 雰囲気, 市, 場所, 安楽寺, 上
+cluster4:(1)
+法悦句
+cluster5:(1)
+浅原才市
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 6entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あごなし地蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+御堂, 地蔵, 堂
+cluster1:(3)
+場所, 必要, 位置
+cluster2:(3)
+子供, 都, 姫
+cluster3:(1)
+歯痛
+cluster4:(1)
+観光地
+cluster5:(1)
+阿古那姫
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 3entities.

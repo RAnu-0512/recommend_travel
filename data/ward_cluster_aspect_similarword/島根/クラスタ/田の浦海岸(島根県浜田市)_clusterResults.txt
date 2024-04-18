@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田の浦海岸(島根県浜田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浦海岸, 海岸沿い
+cluster1:(4)
+禁止, 田, 砂浜, 遊泳
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 2entities.

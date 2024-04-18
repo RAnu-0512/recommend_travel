@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹と茶香の宿 旅館 樋口>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+従業員, 駐車場
+cluster1:(3)
+量, 味, 値段
+cluster2:(2)
+印象, 態度
+cluster3:(5)
+部屋, リノベ, おしゃれ, 雰囲気, 食事
+cluster4:(2)
+館内, 旅館
+cluster5:(1)
+開店
+cluster6:(1)
+><
+cluster7:(1)
+馳走さ
+cluster8:(1)
+高級感
+cluster9:(1)
+ノe味
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 11entities.

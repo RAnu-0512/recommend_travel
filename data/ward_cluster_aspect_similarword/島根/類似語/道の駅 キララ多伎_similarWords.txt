@@ -1,0 +1,63 @@
+--------------------similar_words:道の駅 キララ多伎--------------------
+top3 entities near to cluster1>>
+スペース, カフェ, フォト
+top3 entities near to cluster3>>
+海水浴, ビーチ, 海沿い
+top3 entities near to cluster4>>
+ベンチ, テント, トイレ
+top3 entities near to cluster6>>
+ラーメン, チャーハン, たこ焼き
+top3 entities near to cluster8>>
+スイーツ, フルーツ, お菓子
+top3 entities near to cluster12>>
+イートインスペース, イートインコーナー, サンドイッチ
+top3 entities near to cluster13>>
+オーシャンビュー, キララビーチ, オーシャンビューリゾート
+top3 entities near to cluster15>>
+レストラン, ビュッフェ, テーマパーク
+top3 entities near to cluster16>>
+オブジェ, サングラス, クッション
+top3 entities near to cluster17>>
+コテージ, ドライブ, プロペラ
+top3 entities near to cluster18>>
+オススメ, おすすめ, サイコー
+top3 entities near to cluster19>>
+待ち時間, メニュー, コーナー
+top3 entities near to cluster22>>
+気持ち, 思い出, 気持
+top3 entities near to cluster23>>
+チーズ, スープ, パスタ
+top3 entities near to cluster24>>
+いちじく, イチジク, 無花果
+top3 entities near to cluster25>>
+休憩, 時間, 昼休み
+top3 entities near to cluster26>>
+海鮮, 丼, 定食
+top3 entities near to cluster27>>
+名産, 特産, 土産
+top3 entities near to cluster28>>
+海, 浜辺, 海岸
+top3 entities near to cluster30>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster31>>
+駅道, 駅車, 駅
+top3 entities near to cluster33>>
+温泉, 旅, 旅館
+top3 entities near to cluster34>>
+写真, 記念, 撮っ
+top3 entities near to cluster37>>
+レジ袋, レジ, フード
+top3 entities near to cluster38>>
+店員, 店主
+top3 entities near to cluster39>>
+館内, 店内, 売店
+top3 entities near to cluster42>>
+食材, 野菜, 食事
+top3 entities near to cluster43>>
+パン, 食パン, 焼き立て
+top3 entities near to cluster44>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster46>>
+土産物屋, ぐらび屋, 土産物, ぐらび
+top3 entities near to cluster50>>
+多岐, 多種, 広範囲

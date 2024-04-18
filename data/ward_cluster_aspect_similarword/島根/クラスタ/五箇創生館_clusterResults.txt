@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五箇創生館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+奥, 迫力
+cluster1:(2)
+食堂, 食事
+cluster2:(3)
+地域, 施設, 意味
+cluster3:(3)
+シアター, 長襦袢, 映像
+cluster4:(4)
+展示, 共通券, 入館, 展示館
+cluster5:(6)
+闘牛, 相撲, 古典相撲, 牛突き, 隠岐, 力士
+cluster6:(1)
+隠岐郷土館
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 5entities.

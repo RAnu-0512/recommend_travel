@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:温泉津海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海岸べり, 海岸線
+cluster1:(2)
+温泉津湾, 温泉津温泉
+cluster2:(8)
+銀, 沖, 海岸, 船溜まり, 入江, 港, 船, 波
+cluster3:(3)
+景色, 風情, 景観
+cluster4:(7)
+散歩, リアス式海岸, 車, 屋根, 歴史, ドライブ, 集落
+cluster5:(3)
+崖, 岩, 穴
+cluster6:(2)
+駐車場, 寄港地
+cluster7:(3)
+鼻ぐり岩, 石見銀山, 北前船
+cluster8:(1)
+温泉津温泉の観光施設ゆうゆう館
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 7entities.

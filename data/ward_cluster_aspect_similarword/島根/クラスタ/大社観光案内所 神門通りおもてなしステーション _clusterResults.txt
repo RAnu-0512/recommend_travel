@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大社観光案内所 神門通りおもてなしステーション >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+神門通り, 一畑電車, 出雲, 出雲大社
+cluster1:(31)
+語, 出雲大社前駅, 外観, オススメスポット, 駅, ガラス張り, 女性, 猛暑, ガイド, スポット, ポスター, 対応, 表参道, 地元民家風, 事, 目, パンフレット, 中, 雰囲気, 時間, スタッフ, 建物, プラン, 各国, 係り, 旅行, 場所, 方, 特徴, 情報, 近く
+cluster2:(6)
+観光案内所, 観光情報, 観光, 案内所, 観光案内, 情報収集
+
+howmany entities : 41
+howmany clusters : 3
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 3
+deleted 0entities.

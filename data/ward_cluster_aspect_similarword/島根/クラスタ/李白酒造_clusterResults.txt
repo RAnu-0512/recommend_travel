@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:李白酒造>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+試飲, 瓶, 酒, 李白酒造, 酒造, 蔵元, 清酒
+cluster1:(2)
+塩見, 石橋町
+cluster2:(16)
+ところ, 車, 美味しさ, 老舗, 宿, 米, 感動, 予定, 夕食, 脱帽, もの, 場所, 運転, 伴侶, 土産, 家
+cluster3:(1)
+できたて
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 3entities.

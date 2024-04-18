@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩倉の乳房杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+由来, レンタカー, 付近, 東海岸, 母親, 世界, 意外, 中, 神, 人, 夫婦
+cluster1:(8)
+興味, 方法, 形, もの, 場所, 思い, 方, こと
+cluster2:(8)
+林道, 母乳, 車, 道路, 山林, 杉, 鬱蒼, 林
+cluster3:(1)
+隠岐旅行
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 1entities.

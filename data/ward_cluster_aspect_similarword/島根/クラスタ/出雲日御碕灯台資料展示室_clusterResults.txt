@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲日御碕灯台資料展示室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+灯台内部, 灯台
+cluster1:(3)
+日御碕, 各地, 全国
+cluster2:(1)
+入場料
+cluster3:(1)
+灯台資料展示室
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

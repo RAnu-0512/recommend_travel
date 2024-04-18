@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水谷製錬所跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+建造物, 稼働期間, 採算, 採掘, 採掘場, 操業
+cluster1:(2)
+案内板, 先端技術
+cluster2:(3)
+銀, 金銀, 財宝
+cluster3:(5)
+灰, 夢, 石垣, 石, 明治
+cluster4:(1)
+重力
+cluster5:(2)
+遺跡, 遺構
+cluster6:(2)
+跡地, 跡
+cluster7:(3)
+興味, 歴史, 価値
+cluster8:(6)
+山, 施設, 建物, 場所, 看板, 近く
+cluster9:(2)
+時代, 名残
+cluster10:(2)
+説明, 記述
+cluster11:(2)
+手作業, 石組み
+cluster12:(3)
+感じ, 仕組み, もの
+cluster13:(1)
+龍源寺間歩
+cluster14:(1)
+石見銀山
+cluster15:(3)
+製錬所, 清水谷製錬所, 製錬
+cluster16:(5)
+精錬方法, 清水谷精錬所, 精錬施設, 精錬, 精錬所
+
+howmany entities : 49
+howmany clusters : 17
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 8
+deleted 15entities.

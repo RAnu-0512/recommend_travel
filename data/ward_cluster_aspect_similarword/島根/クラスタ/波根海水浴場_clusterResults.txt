@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:波根海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+人, 側, 海水浴
+cluster1:(3)
+山, 海, 砂浜
+cluster2:(1)
+浜
+cluster3:(1)
+波根海水浴場
+cluster4:(1)
+円弧状
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

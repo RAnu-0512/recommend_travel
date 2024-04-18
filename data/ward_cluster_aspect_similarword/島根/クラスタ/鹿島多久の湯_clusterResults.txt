@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿島多久の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+食事処, レストラン, ご飯, 美味しさ, 露天風呂, 量, 焼き魚, 冷水, 松江市, 田んぼ, 改装, シャンプーソープ, 施設, 掃除, 子供, 料理, 場所, 設備, サウナ, 魚料理
+cluster1:(8)
+風呂, 岩風呂, 檜風呂, 入浴料, 日帰り温泉施設, 日帰り温泉, 温泉, 露天水風呂
+
+howmany entities : 28
+howmany clusters : 2
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 2
+deleted 0entities.

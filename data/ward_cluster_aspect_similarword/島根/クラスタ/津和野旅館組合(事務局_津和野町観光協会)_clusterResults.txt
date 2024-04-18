@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津和野旅館組合(事務局_津和野町観光協会)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+右手, 展示SL, 横, 説明, パンフレット, 津和野駅, 観光案内所, 案内, 観光, JR, スタッフ, 山口線, 情報, 温泉, 観光スポット
+cluster1:(2)
+桑原史成写真美術館, 安野光雅美術館
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 2entities.

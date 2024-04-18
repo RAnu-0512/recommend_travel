@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高津川(島根県津和野町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川, 魚
+cluster1:(5)
+流れ, 方, 道, 注意, 高津川
+cluster2:(1)
+小さなお子
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.
