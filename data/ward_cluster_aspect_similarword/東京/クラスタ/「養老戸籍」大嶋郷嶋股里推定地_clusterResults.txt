@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:「養老戸籍」大嶋郷嶋股里推定地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史資料, 資料
+cluster1:(2)
+こと, 名
+cluster2:(2)
+奈良, 養老
+cluster3:(2)
+養老戸籍, 戸籍
+cluster4:(1)
+古代律令制下
+cluster5:(1)
+柴又駅
+cluster6:(5)
+甲和里, 大嶋郷戸籍, 仲村里, 大嶋郷, 嶋俣里
+cluster7:(1)
+下総国葛飾郡
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 8
+deleted 0entities.

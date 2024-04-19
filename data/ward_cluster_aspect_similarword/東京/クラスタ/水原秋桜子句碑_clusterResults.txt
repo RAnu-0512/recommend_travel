@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水原秋桜子句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+本名, 帝釈天, 日本, 大正
+cluster1:(2)
+句碑, 碑
+cluster2:(4)
+俳壇, 句, 短歌, 俳人
+cluster3:(1)
+水原豊
+cluster4:(1)
+高浜虚子
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

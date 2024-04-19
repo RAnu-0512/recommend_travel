@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:子安神社 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+安産と句碑, 安産祈願, 安産, 安産・子育て
+cluster1:(27)
+所, 子連れ, 場所, 八王子市, 池, 散策, 限定, イベント, 建物, 人, 所用, アクセス, 御朱印, 名前, 相撲, 市街地, 待合室, 砂利, 付近, ため人, 方, 歴史, 物, 利益, 周辺, 上旬, 金
+cluster2:(2)
+JR八王子駅, 京王八王子駅
+cluster3:(4)
+詣り, 御朱印帳, 参拝, 参拝客
+cluster4:(5)
+神社, 社務所, 金比羅神社, 境内, 子安神社
+cluster5:(1)
+平日昼 境内
+
+howmany entities : 43
+howmany clusters : 6
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 6
+deleted 0entities.

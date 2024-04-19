@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常盤橋門跡(東京都千代田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+一石橋, 石橋
+cluster1:(2)
+足跡, 跡地
+cluster2:(2)
+光景, 感じ
+cluster3:(2)
+場所, 周辺
+cluster4:(2)
+間, 下
+cluster5:(7)
+昔, まわり, ひとつ, 他, 通行人, パネル, 名残り
+cluster6:(1)
+方々
+cluster7:(1)
+必見
+cluster8:(3)
+ゴジラ映画, ゴジラファン, ゴジラ
+cluster9:(3)
+東京, 都, 東京駅
+cluster10:(2)
+江戸, 明治
+cluster11:(2)
+門, 古
+cluster12:(2)
+橋, 日本橋川
+cluster13:(5)
+東日本大震災, 常盤橋, 日本橋, 丸の内, 江戸城
+cluster14:(2)
+ビジネス街, ビル
+cluster15:(11)
+門跡, 日本橋近辺散策, 常盤橋門跡』., 車道橋, 江戸城枡形門, 工事, 整備工事, 環状線, 修復工事, 近代化遺産, 国指定史跡
+
+howmany entities : 49
+howmany clusters : 16
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 16
+deleted 0entities.

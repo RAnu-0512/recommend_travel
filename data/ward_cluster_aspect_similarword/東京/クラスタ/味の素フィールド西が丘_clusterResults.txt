@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:味の素フィールド西が丘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+強豪チーム, 試合, 選手, サッカー観戦
+cluster1:(2)
+日立台サッカー場, サッカー場
+cluster2:(2)
+味の素フィールド西が丘, 西が丘
+cluster3:(3)
+スポーツ施設, 設備, 施設
+cluster4:(2)
+テニス, テニスコート
+cluster5:(2)
+サッカースタジアム, サッカーグラウンド
+cluster6:(2)
+オススメ, アクセス
+cluster7:(7)
+サポーター, キッズサッカー, フィールド, フットサル, サッカー, スタジアム, スタンド
+cluster8:(2)
+ピッチ, サイズ
+cluster9:(4)
+車, 友達, 味, 桜
+cluster10:(8)
+応援, サッカー専用スタジアム, 迫力, ゴール裏, 一体, 設計, ファウル狙い, 作り
+cluster11:(7)
+軽食販売, 距離, 距離感, 席, 観客席, 飲食店, 客席
+cluster12:(8)
+東京都, 素フィールド西が丘周辺, 北区, 素フィールド西が丘, サッカー専用球技場, 本蓮沼, 素フィールド西, 球技場
+
+howmany entities : 53
+howmany clusters : 13
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 13
+deleted 0entities.

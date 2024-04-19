@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡倉天心宅跡(旧前期日本美術院跡)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+岡倉天心宅跡, 岡倉天心, 岡倉天心記念公園, 岡倉天
+cluster1:(4)
+日本美術院, 日本美術史, 美術院, 日本美術院跡
+cluster2:(17)
+心, 石碑, 場所, 記念公園, 美術, 住居跡, 入口, 感じ, 日暮里駅, 自宅, 住宅街, 日本, 徒歩, 記念碑, 邸宅, 明治, 胸像
+cluster3:(2)
+六角堂, 天心坐像
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

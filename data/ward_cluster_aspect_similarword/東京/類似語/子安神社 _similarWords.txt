@@ -1,0 +1,11 @@
+--------------------similar_words:子安神社 --------------------
+top3 entities near to cluster0>>
+安産, 祈願, 御利益
+top3 entities near to cluster2>>
+駅, 京王, 駅前
+top3 entities near to cluster3>>
+参拝, 詣り, 参詣
+top3 entities near to cluster4>>
+神社, 境内, 社務
+top3 entities near to cluster5>>
+平日, 昼, 夕方

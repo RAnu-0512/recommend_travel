@@ -1,0 +1,27 @@
+--------------------similar_words:味の素フィールド西が丘--------------------
+top3 entities near to cluster0>>
+選手, 試合, 強豪
+top3 entities near to cluster1>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster2>>
+味の素, アミノバイタルフィールド, フクアリ
+top3 entities near to cluster3>>
+施設, 設備, 敷地
+top3 entities near to cluster4>>
+テニス, コート, バドミントン
+top3 entities near to cluster5>>
+サッカー, スタジアム, フットボール
+top3 entities near to cluster6>>
+アクセス, オススメ, おすすめ
+top3 entities near to cluster7>>
+サッカー, スタジアム, フットサル
+top3 entities near to cluster8>>
+ピッチ, サイズ, 寸法
+top3 entities near to cluster9>>
+友達
+top3 entities near to cluster10>>
+応援, 一体
+top3 entities near to cluster11>>
+席, 客席, 距離
+top3 entities near to cluster12>>
+球技場, 球技, 都

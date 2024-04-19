@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真勝院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+柴又駅, 柴又八幡神社, 柴又七福神, 柴又, 柴又七福神の弁財天
+cluster1:(12)
+大同元年, 弁財天, 見応え, 寺, 利益, 別当院, 本尊, 山門, 神めぐり, 江戸時代, 帝釈天参道近く, 創建
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

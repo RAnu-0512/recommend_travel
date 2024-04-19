@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寅さん記念館レンタサイクルセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+柴又駅, 柴又, 柴又公園
+cluster1:(8)
+葛飾, レンタサイクル, 江戸川, 行動範囲, 水元公園, サイクリングロード, 足, 徒歩
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

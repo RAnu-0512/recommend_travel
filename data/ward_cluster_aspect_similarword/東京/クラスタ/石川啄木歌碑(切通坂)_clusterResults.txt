@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石川啄木歌碑(切通坂)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+湯島3丁目, 文京区, 湯島天満宮
+cluster1:(12)
+歌碑, 坂, 切通坂, 途中, こと, 切通, 春日通り, 喜之床, 石川啄木, 歌, 側, もの
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.
