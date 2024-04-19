@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日吉津村海浜運動公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+施設, バーベキュー施設, キャンプ場, 運動施設
+cluster1:(9)
+テニスコート, 公園, バンガロー, バーベキュー, ゲートボール, グラウンド, 海岸, ロケーション, 海
+cluster2:(3)
+多目的広場, 名峰大山, 日吉津村海浜運動公園
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

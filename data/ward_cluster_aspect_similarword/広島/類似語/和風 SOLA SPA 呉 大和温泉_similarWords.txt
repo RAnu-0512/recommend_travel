@@ -1,0 +1,11 @@
+--------------------similar_words:和風 SOLA SPA 呉 大和温泉--------------------
+top3 entities near to cluster0>>
+印象, イメージ, 風貌
+top3 entities near to cluster2>>
+サウナ, 身体, 露天風呂
+top3 entities near to cluster3>>
+浴室, 高齢, 階段
+top3 entities near to cluster4>>
+故障, 水圧, 泡
+top3 entities near to cluster5>>
+風呂, 温泉, 湯

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四階楼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+道, 駅
+cluster1:(3)
+外観, 内部, 建物
+cluster2:(2)
+前, 昔
+cluster3:(3)
+仕掛け, 手入れ, 雰囲気
+cluster4:(2)
+こと, 気
+cluster5:(1)
+名前
+cluster6:(1)
+随所
+cluster7:(1)
+駐車場
+cluster8:(3)
+四海楼, 西洋風, 和風洋風
+cluster9:(1)
+駅上関海峡
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 10
+deleted 0entities.

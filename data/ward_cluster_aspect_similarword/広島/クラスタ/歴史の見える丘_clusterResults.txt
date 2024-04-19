@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:歴史の見える丘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(29)
+興味, 自販機, ベンチ, ドッグ, ドック, 絵図, スペース, 歴史, もの, 中, あ〜, 缶コーヒー, 方, スポット, 工場, 迫力, 印象, 船, 写真, 海軍, 正岡子規, 街, こと, 場所, 様子, 公園, 風景, 丘, 記念碑
+cluster1:(4)
+句碑, 偲ぶ, 往時, 記念塔
+cluster2:(1)
+駐車場
+cluster3:(12)
+造船船渠, 海軍工廠, 海上自衛隊, 呉鎮守府, 造船, 造船所, 戦艦大和塔, 呉, 戦艦大和, 呉大和会, 造船部門, 大和
+
+howmany entities : 46
+howmany clusters : 4
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 4
+deleted 0entities.

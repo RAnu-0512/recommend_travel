@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観音坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+坂名, 坂
+cluster1:(2)
+観音坂, 観音
+cluster2:(9)
+裏, 隣, 四ツ谷, 谷, 自転車, 名前, 裏道, 自動車, 辺り
+cluster3:(5)
+地理, 勾配, 寺院, 台地, 坂道
+cluster4:(2)
+住宅地, 徒歩か自転車
+cluster5:(1)
+真成院
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

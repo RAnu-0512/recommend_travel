@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:目黒セントラルスクエア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+立地, 抜群
+cluster1:(3)
+穴場, コンビニ, 銀行
+cluster2:(1)
+商業施設
+cluster3:(1)
+JR目黒駅
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西伊豆コースタルカヤックス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こどもたち, 子供たち
+cluster1:(4)
+魚, 海水, 海, 洞窟
+cluster2:(2)
+シーカヤック体験, 体験
+cluster3:(18)
+スタッフ, 人生, レクチャー, ロープ, パドル, ガイド, 水, シュノーケリング, シュノーケル, 使い方, メール, 時間, 出発, カヤック, 小学生, 風, やり取り, シーカヤック
+cluster4:(9)
+気, 主人, 家族, 子, 問題, 感じ, 子供, 世話, 方々
+
+howmany entities : 35
+howmany clusters : 5
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 3
+deleted 4entities.

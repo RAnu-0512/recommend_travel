@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:住吉神社本殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+武内宿禰命, 建御名方命
+cluster1:(3)
+本殿, 流造, 拝殿
+cluster2:(12)
+後ろ, こと, 国宝, 正面, 屋根, 文化財, 撮影, 禁止, 家, 前面, 勢力, 応神天皇
+cluster3:(8)
+春日造, 住吉造, 神功皇后, 大内弘世, 大内, 千鳥破風, 住吉神社, 住吉三神
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

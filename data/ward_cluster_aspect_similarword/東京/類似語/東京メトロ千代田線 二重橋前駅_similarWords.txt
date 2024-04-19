@@ -1,0 +1,13 @@
+--------------------similar_words:東京メトロ千代田線 二重橋前駅--------------------
+top3 entities near to cluster0>>
+通路, 入口, 入り口
+top3 entities near to cluster1>>
+地下, 地上, 地表
+top3 entities near to cluster2>>
+地下鉄, 地下道, 工事
+top3 entities near to cluster3>>
+駅, 駅前, 構内
+top3 entities near to cluster4>>
+駅橋, 駅, 駅前
+top3 entities near to cluster5>>
+連絡, 通路, から

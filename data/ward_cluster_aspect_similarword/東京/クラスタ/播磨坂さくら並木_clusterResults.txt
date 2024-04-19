@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:播磨坂さくら並木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示室, 顕彰室
+cluster1:(9)
+バス停, 三田線, 中心, 人, 近く, 近辺, 桜並木, 中間, 並木道
+cluster2:(5)
+追記, 開催, 地, 時期, 終焉
+cluster3:(1)
+ドーム経由
+cluster4:(5)
+洋風, 水遊び場, 車道, 地下鉄後楽園, 園内
+cluster5:(1)
+歌碑
+cluster6:(1)
+オブジェ数点
+cluster7:(9)
+さくら並木, 夜桜, 花見, 播磨坂, 民割り, 花見客, 桜, 満開, 日本庭風
+cluster8:(15)
+後楽方面, 徒歩圏, 春日通り, 春日駅, 東京都, JR駅, 石川啄木, 大江戸線, 文京さくらまつり, 茗荷谷駅, 宿泊ホテル近隣散策, 都営バス停, 徒歩, 都営, 文京区
+cluster9:(1)
+松平播磨守の上屋敷に因んで名づけられた播磨坂
+
+howmany entities : 49
+howmany clusters : 10
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 10
+deleted 0entities.

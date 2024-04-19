@@ -1,0 +1,13 @@
+--------------------similar_words:福市遺跡公園--------------------
+top3 entities near to cluster0>>
+遺跡, 住居, 遺構
+top3 entities near to cluster1>>
+公園, 遺跡, 史跡
+top3 entities near to cluster2>>
+資料, 館, 考古
+top3 entities near to cluster3>>
+地区付近, 焼山, 地区
+top3 entities near to cluster4>>
+入口, 入り口, 駐車
+top3 entities near to cluster5>>
+休館, 入館, 閉館

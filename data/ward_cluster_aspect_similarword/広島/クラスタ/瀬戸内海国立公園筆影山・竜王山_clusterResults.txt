@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸内海国立公園筆影山・竜王山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+両方, スポット, 瀬戸内海, 気, 初日の出, 竜王山, ほう
+cluster1:(2)
+眺望, 島々
+cluster2:(1)
+筆影山
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹の駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+筆作り, 竹筆作り, 竹筆, 筆, 竹
+cluster1:(4)
+三原, 竹原駅, 尾道旅行, 竹原
+cluster2:(12)
+一つ, ハンマー, 妻, 体験, 観光, 方々, 道, 駅, 予約サイト, 瀬戸田, 見かねた先生, 先端部分
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

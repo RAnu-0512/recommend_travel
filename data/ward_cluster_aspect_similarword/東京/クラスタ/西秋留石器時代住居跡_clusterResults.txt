@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西秋留石器時代住居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+縄文時代, 石器時代
+cluster1:(3)
+国史跡, 住居跡, 跡
+cluster2:(12)
+人, 住宅, 生活, 時期, フェンスごし, 感じ, 敷石, フェンス越し, 草, 形, 住居, 空き地
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

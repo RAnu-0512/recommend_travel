@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:汐留シティセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+汐留, 汐留シオサイト, 汐留駅
+cluster1:(2)
+景色, 眺め
+cluster2:(2)
+銀座, 地下
+cluster3:(3)
+店, ビジネス街, 外観
+cluster4:(3)
+オフィス, シオサイト, レストラン
+cluster5:(2)
+ドラマ, テレビ
+cluster6:(1)
+レストランフロア
+cluster7:(1)
+流線型
+cluster8:(1)
+中
+cluster9:(1)
+点
+cluster10:(1)
+寄り
+cluster11:(5)
+ロケ場所, ビル, ビジネスビル, 商業施設, 高層ビル
+
+howmany entities : 25
+howmany clusters : 12
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 12
+deleted 0entities.

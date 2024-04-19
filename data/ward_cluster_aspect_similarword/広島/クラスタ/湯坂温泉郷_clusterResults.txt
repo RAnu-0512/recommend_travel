@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯坂温泉郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+広島県, 東広島市, 竹原市, かんぽの宿竹原
+cluster1:(4)
+一泊泊まり, 静かな温泉, 湯坂温泉, 温泉街
+cluster2:(18)
+国道, 朝食, 友人, 温泉郷, 賀茂川荘, 広島空港, 方, 泉質, 建物, 料理, 温泉, 後者, 量, 空調, 夕食, 部屋, 庭園, 賀茂川
+cluster3:(1)
+非常事態宣言
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

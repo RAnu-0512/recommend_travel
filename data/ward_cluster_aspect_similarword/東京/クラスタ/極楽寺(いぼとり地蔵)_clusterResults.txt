@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:極楽寺(いぼとり地蔵)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イボ, いぼ
+cluster1:(2)
+石地蔵, 地蔵
+cluster2:(2)
+寺, 塩
+cluster3:(1)
+いぼとり地蔵
+cluster4:(1)
+堀切菖蒲園
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:陸奥記念館--------------------
+top3 entities near to cluster0>>
+現在地, 潜水艦, 引き揚げ
+top3 entities near to cluster1>>
+先端, 入口, 入り口
+top3 entities near to cluster2>>
+共通, 両方, 唯一
+top3 entities near to cluster4>>
+遺品, 戦争, 遺物
+top3 entities near to cluster5>>
+居住者, 時間, 居住
+top3 entities near to cluster6>>
+軍艦, 海軍, 海中
+top3 entities near to cluster7>>
+館, 展示, 記念

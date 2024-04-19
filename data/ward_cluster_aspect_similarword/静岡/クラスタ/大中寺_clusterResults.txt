@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大中寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大中寺, 禅寺
+cluster1:(2)
+沼津, フォルクスワーゲン沼津店
+cluster2:(8)
+境内, 庭, 梅園, お花, 庭園, 不動明王, 本尊, 寺
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

@@ -1,0 +1,19 @@
+--------------------similar_words:駿河湾沼津サービスエリア(上り線)--------------------
+top3 entities near to cluster0>>
+使用, 利用, 併用
+top3 entities near to cluster1>>
+ランチ, カフェ, レストラン
+top3 entities near to cluster2>>
+裏手, 高台, 海辺
+top3 entities near to cluster6>>
+エリア, 地区, サービス
+top3 entities near to cluster8>>
+気分, 印象
+top3 entities near to cluster9>>
+景色, 夜景, 天気
+top3 entities near to cluster10>>
+昼食, 夕食
+top3 entities near to cluster11>>
+休憩, 駐車, 展望
+top3 entities near to cluster18>>
+海鮮, 惣菜, 定食

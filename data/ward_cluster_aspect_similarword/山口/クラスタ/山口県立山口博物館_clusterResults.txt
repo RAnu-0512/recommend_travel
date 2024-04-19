@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口県立山口博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+地学コーナー, 歴史コーナー, 中心街, 歴史
+cluster1:(19)
+子供, 体験コーナー, 機関車, 施設, コーナー, 子ども, マニア, 虫, オススメ, 息子, 山口, 親子, ロボットコーナー, 子供たち, 感じ, 大人, 学習, 以下, 汽車
+cluster2:(2)
+入場料, 駐車場
+cluster3:(5)
+展示, 理工展示室, 展示物, 常設展示, 展示品
+cluster4:(1)
+山口県立美術館
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 5
+deleted 0entities.

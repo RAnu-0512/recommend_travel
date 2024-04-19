@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅間山の展望>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊豆稲取, 方
+cluster1:(2)
+山側, 山
+cluster2:(1)
+景色
+cluster3:(1)
+高度
+cluster4:(1)
+風車
+cluster5:(1)
+風力発電
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

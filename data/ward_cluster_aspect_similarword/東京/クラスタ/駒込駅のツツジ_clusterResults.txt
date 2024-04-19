@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駒込駅のツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+季節, 季節外
+cluster1:(2)
+景色, 車窓
+cluster2:(2)
+JR, 駅
+cluster3:(2)
+線路, 電車
+cluster4:(10)
+壁, 花, 憩い, ピーク, ホーム, 時間, ツツジ, 駒込, 雰囲気, 株
+cluster5:(3)
+車窓一面, 山手線, 線路沿い
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

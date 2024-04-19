@@ -1,0 +1,19 @@
+--------------------similar_words:薬師の泉庭園--------------------
+top3 entities near to cluster0>>
+休憩, 小屋, 仮眠
+top3 entities near to cluster2>>
+自然草, 緑, 自然
+top3 entities near to cluster3>>
+園内, 公園, 遊歩道
+top3 entities near to cluster4>>
+町, 駅, 丁目
+top3 entities near to cluster5>>
+国道, 県道, 旧道
+top3 entities near to cluster6>>
+蚊, ハエ
+top3 entities near to cluster7>>
+地蔵池, 薬師池, 地蔵, 薬師
+top3 entities near to cluster8>>
+庭園, 中庭, 名園
+top3 entities near to cluster9>>
+庭園, 泉, 吐玉

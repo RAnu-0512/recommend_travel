@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水車の郷体験工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+清流, 金属, 倉吉市, そば, 予約, 木造, 中, 外れ, 手打ちそば, 地元, 郷, もの, 広場, 方, 関金, 蕎麦
+cluster1:(2)
+体験工房, 郷体験工房
+cluster2:(2)
+水車小屋, 水車
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

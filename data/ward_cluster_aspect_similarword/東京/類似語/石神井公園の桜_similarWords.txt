@@ -1,0 +1,13 @@
+--------------------similar_words:石神井公園の桜--------------------
+top3 entities near to cluster1>>
+コース, 遊歩道, 河川敷
+top3 entities near to cluster2>>
+近隣, 周辺, 近所
+top3 entities near to cluster3>>
+下流, 上流, 中流
+top3 entities near to cluster4>>
+風情, 季節, 時季
+top3 entities near to cluster5>>
+公園, 花見, 桜
+top3 entities near to cluster6>>
+公園沿い, 川沿い, 公園, 川

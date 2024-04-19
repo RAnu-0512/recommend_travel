@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金色夜叉の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+貫一お宮, お宮の松, 松とお宮像
+cluster1:(5)
+熱海駅, 熱海サンビーチ, 熱海市, 熱海感, 来宮神社
+cluster2:(4)
+新聞小説, 新聞, 新聞連載小説, 小説
+cluster3:(3)
+尾崎, 金色夜叉, 尾崎紅葉
+cluster4:(25)
+松, 紅葉, 言葉, こと, 木, 写真, 人, 宮, 参拝, 観光スポット, そば, 言語, 感じ, 遊歩道, 海, 公園, 近く, 若者達, 明治, 場所, 人気, ジャカランダ, 時代, 坂, 方
+cluster5:(4)
+像, お宮像, 碑, 碑昔
+cluster6:(1)
+こんじきやしゃ
+cluster7:(1)
+寛一・お宮の像も昭和世代ならで
+
+howmany entities : 46
+howmany clusters : 8
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 6
+deleted 2entities.

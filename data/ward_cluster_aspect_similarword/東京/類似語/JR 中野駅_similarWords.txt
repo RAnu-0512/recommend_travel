@@ -1,0 +1,17 @@
+--------------------similar_words:JR 中野駅--------------------
+top3 entities near to cluster0>>
+東西線, 地下鉄, メトロ
+top3 entities near to cluster1>>
+サンプラザ, イベント, 会場
+top3 entities near to cluster2>>
+タクシー, 乗り換え, 乗り継ぎ
+top3 entities near to cluster3>>
+アニメ, アニメーション, 実写
+top3 entities near to cluster4>>
+乗り場, 行き先, 行先
+top3 entities near to cluster6>>
+金, 金火, 土
+top3 entities near to cluster7>>
+飲食, イベント, 声優
+top3 entities near to cluster8>>
+駅, 駅前, 南口

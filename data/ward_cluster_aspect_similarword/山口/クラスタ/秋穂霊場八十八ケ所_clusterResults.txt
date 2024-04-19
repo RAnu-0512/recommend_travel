@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋穂霊場八十八ケ所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+御朱印, 人気
+cluster1:(1)
+参拝者
+cluster2:(1)
+霊場
+cluster3:(1)
+秋穂霊場八十八ケ所
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

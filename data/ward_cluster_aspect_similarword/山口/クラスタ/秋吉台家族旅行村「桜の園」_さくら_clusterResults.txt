@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋吉台家族旅行村「桜の園」_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜, 桜並木道
+cluster1:(1)
+満開
+
+howmany entities : 3
+howmany clusters : 2
+howmany entities (more than1entities) : 3
+howmany clusters (more than1entities) : 2
+deleted 0entities.

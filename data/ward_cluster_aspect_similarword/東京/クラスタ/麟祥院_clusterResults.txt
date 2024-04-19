@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:麟祥院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石碑, 墓
+cluster1:(3)
+本堂, 山門, 境内
+cluster2:(2)
+寺院, 寺
+cluster3:(14)
+場所, ゆかり, 訪問, 臨済宗, 春日局, 塾, 趣, 折, 前身, 菩提寺, こと, 東洋大学, 明治, 乳母
+cluster4:(6)
+春日通り, 東方向, 春日忌, 木造り, 哲学館, 瓦葺
+cluster5:(8)
+東洋大学発祥之地, 春日局隠棲所, 井上円了, 麟祥院, 徳川家光, 湯島4丁目, 文京区, 寛永元年
+
+howmany entities : 35
+howmany clusters : 6
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 6
+deleted 0entities.

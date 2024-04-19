@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小畠代官所跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小畠代官所, 代官所
+cluster1:(2)
+福島, 水野
+cluster2:(2)
+歴史, 跡
+cluster3:(1)
+三和町
+cluster4:(1)
+中津藩
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

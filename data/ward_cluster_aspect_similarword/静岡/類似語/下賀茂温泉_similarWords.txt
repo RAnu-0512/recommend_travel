@@ -1,0 +1,29 @@
+--------------------similar_words:下賀茂温泉--------------------
+top3 entities near to cluster0>>
+桜, 満開, 八重桜
+top3 entities near to cluster3>>
+露天風呂, 夏休み, 湯けむり
+top3 entities near to cluster4>>
+エリア, ペット, ホテル
+top3 entities near to cluster12>>
+和室, 部屋, 料理
+top3 entities near to cluster13>>
+宿泊, 旅館, 宿
+top3 entities near to cluster15>>
+身体, 肌
+top3 entities near to cluster16>>
+黄色, 緑, 緑色
+top3 entities near to cluster17>>
+菜の花畑, 菜の花, 花畑
+top3 entities near to cluster18>>
+景色, 斜面
+top3 entities near to cluster19>>
+栽培, 品種, 背丈
+top3 entities near to cluster21>>
+湯, 温泉, 灌場
+top3 entities near to cluster22>>
+温泉, 湯, お湯
+top3 entities near to cluster23>>
+温度, 温泉
+top3 entities near to cluster26>>
+温泉, 旅館, 宿

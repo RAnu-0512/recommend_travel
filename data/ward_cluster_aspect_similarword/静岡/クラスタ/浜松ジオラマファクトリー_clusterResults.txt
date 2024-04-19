@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松ジオラマファクトリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+入り口, TVチャンピオン, スペース, もの, ところ, 人, 奥, 感じ, ウルトラマン, 中, ジオラマ, 作り, 作品, 思い
+cluster1:(3)
+昭和, 山田, 会計
+cluster2:(1)
+駄菓子屋
+cluster3:(1)
+展示作品
+cluster4:(1)
+入場料
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 3entities.

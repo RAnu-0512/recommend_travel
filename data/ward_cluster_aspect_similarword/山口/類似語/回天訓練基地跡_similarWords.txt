@@ -1,0 +1,7 @@
+--------------------similar_words:回天訓練基地跡--------------------
+top3 entities near to cluster0>>
+訓練, 操縦, 搭乗
+top3 entities near to cluster3>>
+兵器, 特攻, 発射
+top3 entities near to cluster4>>
+回天, 魚雷, 館

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四ッ子島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩, 奇岩
+cluster1:(2)
+こと, 小島
+cluster2:(1)
+満潮
+cluster3:(1)
+和佐
+cluster4:(1)
+四ッ子島
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

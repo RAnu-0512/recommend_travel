@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ひろしま遊学の森 広島県緑化センター・県立広島緑化植物公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子ども達, 子ども
+cluster1:(1)
+広場
+cluster2:(1)
+弁当
+cluster3:(1)
+大型遊具
+cluster4:(1)
+広島県緑化センター 県立広島緑化植物公園
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

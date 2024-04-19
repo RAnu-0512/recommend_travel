@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛飾区山本亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+日本庭園, 和風家屋, 主庭, 庭園, お庭, 庭, 日本家屋, 西洋建築
+cluster1:(6)
+洋, 寅, 昭和, 門, 和, 大正
+cluster2:(3)
+建物, 建築, 館内
+cluster3:(2)
+割引, 旅行
+cluster4:(1)
+セット入館
+cluster5:(3)
+茶会, 茶, 喫茶
+cluster6:(7)
+裏手, 近く, 地元ゆかり, そば, 自宅, 屋敷, 帰り道駅
+cluster7:(12)
+途中, カフェ, ところ, 和洋折衷, 江戸川, 河川敷, 趣, 初期, 時間, こと, 時代, 帝釈天
+cluster8:(1)
+美しさ
+cluster9:(3)
+山本, 山本亭, 葛飾区
+cluster10:(7)
+柴又駅, 聖地巡礼ロケ, 寅さん記念館, 柴又公園, 柴又帝釈天, カメラ部品メーカー設立者, 柴又
+
+howmany entities : 53
+howmany clusters : 11
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 11
+deleted 0entities.

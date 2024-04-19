@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:袋町小学校平和資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+平和資料館, 袋町小学校平和資料館, 資料館, 平和記念資料館, 原爆資料館
+cluster1:(2)
+敷地, 建物
+cluster2:(3)
+展示, 説明, 勉強
+cluster3:(8)
+平和公園, 歴史, 小学校, スポット, アクセス, スタッフ, 一部, 近く
+cluster4:(6)
+方, 話, 所, こと, 場所, 様子
+cluster5:(1)
+伝言
+cluster6:(1)
+観光スポット
+cluster7:(1)
+往
+cluster8:(2)
+破壊力, 語り部
+cluster9:(12)
+原爆ドーム, 中区袋町, 西校舎, 被爆, 袋町小学校, 広島市, 原爆, 平和大通り, 被爆者, 爆心地, 平和, 校舎
+cluster10:(1)
+───O
+
+howmany entities : 42
+howmany clusters : 11
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 11
+deleted 0entities.

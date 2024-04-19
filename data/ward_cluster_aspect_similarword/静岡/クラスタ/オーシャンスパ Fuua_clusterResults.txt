@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オーシャンスパ Fuua>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+料金, 事情, 原価
+cluster1:(7)
+露天風呂, ピザ, 絶景, バーガー, 風呂, レストラン, 休憩スペース
+cluster2:(1)
+劣化具合
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 1entities.

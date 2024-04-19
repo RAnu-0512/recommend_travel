@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四季の路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+東京都, 新宿駅, 東京旅行, 新宿区歌舞伎町, 都, 新宿区役所, 新宿
+cluster1:(4)
+線路跡地, 四季の路, 引き込み専用線, 軌道跡
+cluster2:(14)
+散歩道, 区役所, 歌舞伎町, つくり, ところ, 歌舞伎, 遊歩道, ネオン, トイレ, イヌシデ, 抜け道, スポット, 雰囲気, 西新宿
+cluster3:(2)
+歌舞伎町近く, 近く
+cluster4:(3)
+昔, 人, 友人
+cluster5:(2)
+途中, 中
+cluster6:(2)
+場所, こと
+cluster7:(2)
+会話, 対比
+cluster8:(1)
+譲渡
+cluster9:(3)
+小路, 道, 路
+cluster10:(10)
+心, 四季, 木々, 自然, 空間, 緑, 川, 区, 脇, 環境
+cluster11:(1)
+初体験
+cluster12:(10)
+遊歩道公園, 都会, ゴールデン街, 靖国, 都電, 街, 散歩, 歩道, 繁華街, 暗渠
+cluster13:(1)
+新宿駅前〜水天宮前
+
+howmany entities : 62
+howmany clusters : 14
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 14
+deleted 0entities.

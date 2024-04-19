@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝蔵門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+飲食禁止エリア, 観光客, 飲食物
+cluster1:(2)
+鶴岡八幡宮, 東京空襲
+cluster2:(2)
+追善回, アニメ作品舞台めぐり
+cluster3:(30)
+店, 左右, 元版, 建物, 国, 金剛力士像, 家, 浅草寺, 人気, 門, 上層, 本堂, 文化財, ワラぞうり, 鉄筋コンクリート造, 寺院, 仁王像, 天気, 提灯, 再建, 仁王門, 前, 時間, 仲見世, わらじ, スポット, アニメ, 五重塔, 満足, 注意
+cluster4:(2)
+等身大パネル撮影回収, 神仏分離令
+cluster5:(8)
+浅草駅, 雷門, 貞運尼, 源頼, 宝蔵門, 伝法院, 浅草寺雷門〜仲見世, 北条政子
+cluster6:(1)
+鉄筋鉄骨コンクリート造
+
+howmany entities : 48
+howmany clusters : 7
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 7
+deleted 0entities.

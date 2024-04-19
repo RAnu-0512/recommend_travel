@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:於岩稲荷田宮神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+新川, 斜め向かい, 駅, 徒歩, 新宿
+cluster1:(3)
+地, 土地, 岩
+cluster2:(7)
+娘, 言葉, 場所, 人, 相手, 方, こと
+cluster3:(2)
+もと, 家
+cluster4:(6)
+於岩, 陽運寺, こぢんまり, イメージ, スポット, 雰囲気
+cluster5:(1)
+映画
+cluster6:(1)
+品
+cluster7:(5)
+裏, 界隈, 縁, 家庭, 風情
+cluster8:(1)
+おススメ
+cluster9:(3)
+跡, 邸, 清々しさ
+cluster10:(6)
+祟り, 神社, 呪い, 参拝, 効果, 利益
+cluster11:(1)
+江戸初期
+cluster12:(4)
+四谷怪談, 怪談, 四谷怪談のお岩, 四谷三丁目駅
+cluster13:(8)
+田宮, 田宮神社, 四谷於岩稲荷, 田宮又左衛門, 於岩稲荷, 田宮家, 稲荷神社, 稲荷
+
+howmany entities : 53
+howmany clusters : 14
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 14
+deleted 0entities.

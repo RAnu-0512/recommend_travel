@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笠戸大橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口県, 下松市, 下松市街
+cluster1:(17)
+宿泊施設, 橋, 大橋, 大城, エサやり, 勾配, ひらめきパーク笠戸島, 色, アーチ型, ヒラメ, 人気, 深紅, 魚, 温泉, 海, 笠戸島, プール
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:貴船神社(静岡県磐田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+車, 歴史, 雰囲気, スポット, 場所, 周囲, 時代, 季節, ところ
+cluster1:(2)
+神, 水
+cluster2:(1)
+室町
+cluster3:(1)
+東海道線
+cluster4:(4)
+豊田町駅, 神社, 祭神, 貴船神社
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 4entities.

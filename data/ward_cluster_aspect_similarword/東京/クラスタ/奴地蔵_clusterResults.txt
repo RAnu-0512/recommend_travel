@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奴地蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地蔵, 奴地蔵
+cluster1:(8)
+人, 願い, 青松寺, 場所, 境内, 形, 持病, 効き目
+cluster2:(1)
+墓地入り口近く
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

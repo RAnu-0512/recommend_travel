@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はかま滝オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+戸田, 沼津市
+cluster1:(2)
+キャンプ場, オートキャンプ場
+cluster2:(8)
+個別, ひとつ, 電源, そば, 人気, サイト, ウッドデッキ, 町
+cluster3:(4)
+斜面, 眺望, 林間, 滝
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 4entities.

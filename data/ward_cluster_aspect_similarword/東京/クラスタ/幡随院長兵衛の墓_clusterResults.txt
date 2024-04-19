@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:幡随院長兵衛の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺院, 寺院巡り
+cluster1:(6)
+墓, 人, 方, 見ごたえ, 界隈, あたり
+cluster2:(3)
+浅草, 東上野5, 西浅草
+cluster3:(2)
+谷, 松
+cluster4:(1)
+江戸時代
+cluster5:(4)
+幡随院長兵衛, 谷文晃の墓, 幡隋院長兵衛, 源空寺
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

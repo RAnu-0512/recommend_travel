@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒田記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+洋画家, 日本近代絵画史, 日本近代洋画, 近代美術, 東京国立博物館
+cluster1:(2)
+遺産, 遺言
+cluster2:(2)
+昭和, 黒田
+cluster3:(6)
+場所, 一帯, 建物, 近く, 施設, 湖畔
+cluster4:(5)
+作品, 絵, 人物, 絵画, 歴史
+cluster5:(3)
+感じ, こと, 魅力
+cluster6:(7)
+人, 上野公園, ジョギングコース, 美術館, 方, ガイド, 父
+cluster7:(3)
+別, 内容, 一部
+cluster8:(1)
+左
+cluster9:(1)
+素
+cluster10:(14)
+顕彰施設, 展示室, 作品群, 展観, 原則無料, 展示作品, 入場無料, 展示数, 特別室, 展示スケジュール, 記念館, 黒田記念館, 開館, 展示
+
+howmany entities : 49
+howmany clusters : 11
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 11
+deleted 0entities.

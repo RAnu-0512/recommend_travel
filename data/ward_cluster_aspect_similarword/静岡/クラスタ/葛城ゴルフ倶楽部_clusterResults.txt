@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛城ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こと, 難し
+cluster1:(2)
+ゴルフコンペ, 大会
+cluster2:(6)
+グリーン, バンカー, 会社, レストラン, コース, トーナメントコース
+cluster3:(1)
+風
+cluster4:(1)
+観戦
+cluster5:(1)
+葛城ゴルフ倶楽部
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 7entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:銀座NAGANO 観光情報センター--------------------
+top3 entities near to cluster1>>
+情報, 商品, 特産
+top3 entities near to cluster2>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster3>>
+ワイン, 地酒

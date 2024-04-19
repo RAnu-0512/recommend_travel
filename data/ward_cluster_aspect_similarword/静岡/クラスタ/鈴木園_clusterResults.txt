@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鈴木園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+食べ放題, ミカン狩り, みかん狩り, 収穫体験
+cluster1:(4)
+時期, 種類, 場所, 位
+cluster2:(6)
+気, こと, もの, 状態, 感じ, 気分
+cluster3:(12)
+店主, 購入, 送迎, 帰り, 値段, 料金, 予約, 試食, 次回, 子供, 現地, 説明
+cluster4:(2)
+甘夏, ぬかるみや木
+cluster5:(10)
+雨, 地面, 土産, みかん, 蜜柑, ミカン畑, 皮, ミカン, 土産ミカン, 果汁
+
+howmany entities : 38
+howmany clusters : 6
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 2entities.

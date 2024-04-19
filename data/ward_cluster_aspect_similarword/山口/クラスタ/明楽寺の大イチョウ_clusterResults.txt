@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明楽寺の大イチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イチョウ, 明楽寺
+cluster1:(1)
+木
+cluster2:(1)
+巨木
+cluster3:(1)
+明楽寺の大イチョウ
+cluster4:(1)
+樹高
+cluster5:(1)
+美祢市
+cluster6:(1)
+イチョウ科イチョウ属
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

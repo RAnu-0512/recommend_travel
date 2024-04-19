@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽高湖の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+羽高湖, 湖, 人工湖周辺, 湖周
+cluster1:(2)
+広島県, 府中市
+cluster2:(15)
+桜, 周囲, 賑わい, 遊歩道, 山道, 車, 人, 雰囲気, 木, ピンク色, 桜色, 場所, 自然, 満開, 周り
+cluster3:(3)
+利用客, 花見客, 花見
+cluster4:(5)
+天気, 散策, 観光スポット, 散歩, 名所
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 5
+deleted 0entities.

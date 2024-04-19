@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩川中央公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+公園, 場, 目的, 場所
+cluster1:(8)
+サイクリング, 人, 多摩川, 水, 次, ウオーキング, イベント, コスモス
+cluster2:(1)
+旗
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

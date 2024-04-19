@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:開国記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+麓, 高台
+cluster1:(2)
+言葉, 土地
+cluster2:(3)
+駅, 公園, 道
+cluster3:(1)
+四季
+cluster4:(15)
+きっかけ, 目, 式典, ペリー, 記念碑, 世界, こと, ハリス, 伊豆下田, 初期, 上, 動向, ペリーロード, レリーフ像, レリーフ他
+cluster5:(2)
+下田, 下田公園
+cluster6:(2)
+開港, 開国
+cluster7:(2)
+昭和, 明治
+cluster8:(2)
+幕末, 維新
+cluster9:(4)
+黒船祭り, 黒船祭, 黒船, 開国記念碑
+
+howmany entities : 35
+howmany clusters : 10
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 13entities.

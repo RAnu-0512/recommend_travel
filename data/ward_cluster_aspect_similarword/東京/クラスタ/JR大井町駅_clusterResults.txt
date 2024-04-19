@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR大井町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+JR大井町駅, 大井町, 大井町線
+cluster1:(10)
+品川区, りんかい線, 東急, 東急側, 東京, 東急線, 東京ビッグ, 品川駅, 中央口出てヤマダ電機, 東京ビッグサイト
+cluster2:(6)
+人, 奴, 方, 〇〇, 者, 側
+cluster3:(4)
+点, 前, 時間, 待ち合わせ場所
+cluster4:(16)
+雨, ホテル, ルール, 出張所, ショッピングビル, 東北線, 遅刻, アトレ, 飲み屋, ヤマダ電機, 買い物, サイト, 鐘, 乗り継ぎ, 待ち合わせ, 乗り換え
+cluster5:(5)
+線, 沿線, JR, 阪急, 京浜
+cluster6:(10)
+催事終わり, 懇親会, 駅, 駅周辺, 複合歩道橋真ん中, 商業施設, 周辺, 催事, 乗り換え駅, 駅ビル
+
+howmany entities : 54
+howmany clusters : 7
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 7
+deleted 0entities.

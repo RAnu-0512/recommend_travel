@@ -1,0 +1,19 @@
+--------------------similar_words:日中友好会館美術館--------------------
+top3 entities near to cluster0>>
+友好, 会館, 文化
+top3 entities near to cluster1>>
+展示, 展覧, 出展
+top3 entities near to cluster2>>
+隣人, 隣, 隣り
+top3 entities near to cluster3>>
+自販機, コンビニ, 美術館
+top3 entities near to cluster4>>
+施設, 建物, 一角
+top3 entities near to cluster5>>
+休憩, 仮眠, スペース
+top3 entities near to cluster6>>
+書道, 中華, 絵画
+top3 entities near to cluster7>>
+電子, マネー, 対応
+top3 entities near to cluster8>>
+会館, 宿泊, 隣接

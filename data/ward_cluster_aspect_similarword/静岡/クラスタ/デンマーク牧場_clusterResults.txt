@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:デンマーク牧場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+ラッシー, アイス, ゴールデンウィーク, デンマーク, 心, 地元, 家族, 裏手, ひととき, 視界, 時間, 景色, 中, ソフトクリーム, 茶畑, 建物, アイスクリーム, 洗濯
+cluster1:(6)
+牧師, 動物, 老人ホーム, 牛, 羊, ヤギ
+cluster2:(3)
+牧場, 観光牧場, 袋井市
+cluster3:(1)
+高齢者施設
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 1entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:笠戸島国民宿舎大城温泉--------------------
+top3 entities near to cluster0>>
+温泉, 炭酸, 露天風呂
+top3 entities near to cluster1>>
+バイク, 露天風呂, オートバイ
+top3 entities near to cluster2>>
+温泉, 温泉郷, 湯
+top3 entities near to cluster3>>
+料理, 食材, 和食
+top3 entities near to cluster4>>
+料金, 運賃, 費用
+top3 entities near to cluster5>>
+天気, お天気, 予報
+top3 entities near to cluster7>>
+文句無し, 文句, ない
+top3 entities near to cluster8>>
+従業員, 従業, 乗組員, 乗組

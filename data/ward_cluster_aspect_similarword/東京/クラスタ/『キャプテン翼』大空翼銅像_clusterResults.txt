@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:『キャプテン翼』大空翼銅像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+銅像巡り, 銅像マップ, 像
+cluster1:(10)
+ボール, 人気, 曲, キャラ, 左, ホーム, キャプテン翼, キャラクター, キャプテン, 全部
+cluster2:(8)
+四ツ木駅, 散歩, 駅, 四つ木つばさ公園, 改札, 電車, 徒歩, 道
+cluster3:(1)
+京成地域バス
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

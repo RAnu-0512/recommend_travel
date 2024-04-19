@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東武鉄道東向島駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+駅, 昔, 雰囲気, 場所, 下町, 東武鉄道, ホーム
+cluster1:(2)
+鉄道, 鉄道博物館
+cluster2:(2)
+東武博物館, 東京スカイツリー
+cluster3:(1)
+墨田区
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

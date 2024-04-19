@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+名所, 観光地, 観光名所, 観光スポット, 観光客, 南北朝時代, 枕流亭, 観光
+cluster1:(5)
+国宝, 国宝五重塔, 騎馬像, 大名, 守護大名
+cluster2:(16)
+中, 一体, 中心, 隣り合わせ, 場所, シンボル, 日本, おすすめ, ツツジ, 木, 時期, 瑠璃光寺, 周り, 周囲, 人, 近く
+cluster3:(2)
+角度, 巧み
+cluster4:(1)
+本拠
+cluster5:(17)
+花見, 境内, 置物, 新緑, 緑地, 公園, 山門, カメ, 池, 桜, 梅, 花, 瑠璃光寺五重塔, 塔, 銅像, 五重塔, 庭園
+cluster6:(3)
+香山公園, 山口市, 駐車場
+cluster7:(4)
+大内義弘, 若山牧水, 大内弘世, 大内
+
+howmany entities : 56
+howmany clusters : 8
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 8
+deleted 0entities.

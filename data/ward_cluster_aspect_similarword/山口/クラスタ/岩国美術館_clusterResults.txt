@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩国美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩国, 岩国美術館
+cluster1:(2)
+岩国城, 岩国城天守閣
+cluster2:(1)
+県・市
+cluster3:(1)
+岩国城ロープウェイ麓駅
+cluster4:(7)
+美術品, 展示, 展示品, 展示物, 古美術品, 美術, 陶芸品
+cluster5:(4)
+ススメ, 日本, ロープウェイ, 人
+cluster6:(4)
+多く, こと, 中心, 方
+cluster7:(1)
+場所
+cluster8:(1)
+横
+cluster9:(1)
+解説
+cluster10:(1)
+興味
+cluster11:(13)
+文化, 美術館, 城, メトロポリタン美術館, 指定文化財, 博物館, ニューヨークメトロポリタン美術館, 麓, 外観, 城山, 歴史, 観光, 建物
+cluster12:(14)
+武具, 武士たち, 国重要文化財, 刀剣, 戦国時代, 武家, 武器, 鎧, 兜, 甲冑, 古武具, 武具類, 刀, 鉄砲
+
+howmany entities : 52
+howmany clusters : 13
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 13
+deleted 0entities.

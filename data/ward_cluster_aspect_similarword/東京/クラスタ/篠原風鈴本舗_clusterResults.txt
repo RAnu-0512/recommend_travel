@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:篠原風鈴本舗>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+体験風鈴, 風鈴工房, 風鈴
+cluster1:(2)
+江戸, 江戸風鈴
+cluster2:(1)
+篠原風鈴本舗
+cluster3:(2)
+江戸川区, 江東区
+cluster4:(8)
+歴史, 創業, スポット, 土産, 南篠崎町, 勉強, 老舗, 夏
+cluster5:(2)
+絵付け, 宙吹き
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:穴澤天神社--------------------
+top3 entities near to cluster1>>
+歩道, 道路, 遊歩道
+top3 entities near to cluster2>>
+煮沸, 消毒, 加熱
+top3 entities near to cluster3>>
+背後, 真後ろ, 真横
+top3 entities near to cluster4>>
+駅, 徒歩, 駅前
+top3 entities near to cluster5>>
+神社, 境内, 本殿

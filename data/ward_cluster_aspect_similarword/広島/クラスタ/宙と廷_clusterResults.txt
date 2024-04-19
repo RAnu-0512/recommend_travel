@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宙と廷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+民家, 古民家
+cluster1:(2)
+対応, 体験
+cluster2:(5)
+思い出, 小学生, (*^^*, 子供, 次
+cluster3:(2)
+歴史, 時間
+cluster4:(4)
+主人, 値段, 料理, 夫婦
+cluster5:(1)
+種類ものメニュー
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

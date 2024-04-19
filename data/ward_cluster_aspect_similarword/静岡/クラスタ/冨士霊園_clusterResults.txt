@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:冨士霊園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駐車場, 冨士霊園, 公園墓地, 霊園, 墓, 墓地
+cluster1:(3)
+静岡, 東名, 木
+cluster2:(2)
+優先, 対応
+cluster3:(2)
+おすすめ富士山, 富士山
+cluster4:(2)
+ツツジ, サツキ
+cluster5:(5)
+レストラン, シーズン, 事務所, 桜並木, トイレ
+cluster6:(2)
+手入れ, 墓参り
+cluster7:(1)
+マナー
+cluster8:(7)
+車, 付近, 他人, 男性, 近く, 場所, 方
+cluster9:(10)
+売店, 鯉, 庭, 花, 池, 出口, 道路, 公園, 弁当, 道
+cluster10:(8)
+時期, ピクニック気分, 名所, 法事, 天気, 墓参, 穴場, 季節
+cluster11:(9)
+脇桜, 中央辺り, 夜桜, 満開, 小山町, 後ろ, 桜, 帰り 後ろ, 花見
+cluster12:(1)
+ずらっと桜
+cluster13:(1)
+桜の名所NO1らしく春
+
+howmany entities : 59
+howmany clusters : 14
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 7
+deleted 11entities.

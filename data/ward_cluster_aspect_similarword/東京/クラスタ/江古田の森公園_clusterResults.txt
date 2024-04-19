@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江古田の森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+樹木, 木々, 植物, 葉, 樹, 幹
+cluster1:(10)
+コンビニ, 森林公園, 都会, 昔, 右, ライト, 江古田, 日本, スマホ, 明治
+cluster2:(6)
+足場, 想像, 人, 形, こと, 知識
+cluster3:(11)
+区立公園, 徳川家, 森, 公園, 中野区, 狩場, 散歩, 園内散策, ビオトープ池, 一般市民, 森公園
+cluster4:(1)
+結核専門療養所
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 5
+deleted 0entities.

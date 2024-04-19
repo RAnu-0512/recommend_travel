@@ -1,0 +1,17 @@
+--------------------similar_words:東京メトロ 九段下駅--------------------
+top3 entities near to cluster0>>
+桜, 花見, 満開
+top3 entities near to cluster1>>
+駅, 路線, 直通
+top3 entities near to cluster2>>
+東西線, 半蔵門線, 南北線
+top3 entities near to cluster3>>
+武道館, コンサート, ライブ
+top3 entities near to cluster6>>
+発表会, 発表, 席上
+top3 entities near to cluster7>>
+駅線, 駅
+top3 entities near to cluster8>>
+メトロ, 都, 九段下
+top3 entities near to cluster10>>
+淵, 千鳥, 含満

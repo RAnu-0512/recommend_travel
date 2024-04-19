@@ -1,0 +1,25 @@
+--------------------similar_words:QFRONT--------------------
+top3 entities near to cluster0>>
+ビル, 商業, 複合
+top3 entities near to cluster2>>
+交差点, 十字路, スクランブル
+top3 entities near to cluster4>>
+スターバックスコーヒー, ルミネマン, ヒカリエ
+top3 entities near to cluster5>>
+待ち合わせ, 待ち合わせる, 待ちあわせ
+top3 entities near to cluster6>>
+スクリーン, ショット, プロジェクタ
+top3 entities near to cluster7>>
+ビジョン, ポイント, ヴィジョン
+top3 entities near to cluster8>>
+ヒカリエ, テナント, ショッピングビル
+top3 entities near to cluster9>>
+スタバ, タリーズ, ドトール
+top3 entities near to cluster10>>
+出入り, 行き来, 出入
+top3 entities near to cluster11>>
+ゾーン, ショッピング, センター
+top3 entities near to cluster12>>
+マーク, スター, ランド
+top3 entities near to cluster14>>
+電光, 掲示板, 掲示

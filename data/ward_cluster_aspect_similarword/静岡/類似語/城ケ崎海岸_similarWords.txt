@@ -1,0 +1,43 @@
+--------------------similar_words:城ケ崎海岸--------------------
+top3 entities near to cluster1>>
+名所, 行楽, 周遊
+top3 entities near to cluster2>>
+自然, 海, 山側
+top3 entities near to cluster3>>
+打ちよせる, 大波
+top3 entities near to cluster5>>
+潮風, 海風, 潮騒
+top3 entities near to cluster6>>
+荒波, 白波, 海原
+top3 entities near to cluster8>>
+海, 山, 島
+top3 entities near to cluster10>>
+景色, 岩場, 遊歩道
+top3 entities near to cluster12>>
+遊歩道, 海沿い, 岩場
+top3 entities near to cluster13>>
+アイス, フラワー, コロナ
+top3 entities near to cluster15>>
+オススメ, おすすめ, お薦め
+top3 entities near to cluster17>>
+コントラスト, ソーカラー, メチャキレイ
+top3 entities near to cluster21>>
+タクシー, ドライブ, クーラー
+top3 entities near to cluster22>>
+雰囲気, 気持ち, 思い出
+top3 entities near to cluster27>>
+撮影, 写真, 撮っ
+top3 entities near to cluster28>>
+家族, 子供
+top3 entities near to cluster29>>
+天気雨, 天気, 天候
+top3 entities near to cluster30>>
+駅, コース, 遊歩道
+top3 entities near to cluster36>>
+駐車場, 駐車, 場代
+top3 entities near to cluster37>>
+嶋, 浦, 清水
+top3 entities near to cluster41>>
+海岸, 海岸沿い, 砂浜
+top3 entities near to cluster42>>
+溶岩, 熔岩, 火山

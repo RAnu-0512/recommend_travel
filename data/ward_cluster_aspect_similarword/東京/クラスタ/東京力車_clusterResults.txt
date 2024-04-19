@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京力車>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+映え写真, 途中写真, 写真
+cluster1:(2)
+劇団シリウス, 子供達
+cluster2:(9)
+設置, 開催, 店舗, 会話, 体験, 機会, 案内, 説明, 店頭
+cluster3:(2)
+mスタッフ, 地
+cluster4:(2)
+乗り場, 人力車
+cluster5:(10)
+メンバー, スタッフ, ゆかり, コラボ, 待ち時間, ストレス, スピード, スカイツリー, スポット, キャラクターパネル
+cluster6:(3)
+話, 息子, 女性
+cluster7:(3)
+元気, 記念, 風
+cluster8:(1)
+刃
+cluster9:(1)
+車夫
+cluster10:(4)
+観光, 営業時間, 時間, 観光スポット
+cluster11:(1)
+鬼滅
+cluster12:(1)
+乗り心地
+cluster13:(10)
+浅草観光 東京力車, 浅草観光, 浅草, 等身大パネル, 東京スカイツリー, 浅草各所, カトリナ等身大パネル, 街中10か所, 台東区, コラボ聖地巡礼マップ
+
+howmany entities : 52
+howmany clusters : 14
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 14
+deleted 0entities.

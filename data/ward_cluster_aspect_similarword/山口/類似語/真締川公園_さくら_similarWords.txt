@@ -1,0 +1,9 @@
+--------------------similar_words:真締川公園_さくら--------------------
+top3 entities near to cluster0>>
+彫刻, 公園, 緑地
+top3 entities near to cluster1>>
+桜, 八重桜, 櫻
+top3 entities near to cluster2>>
+長閑, のどか, 牧歌
+top3 entities near to cluster3>>
+川, 締, 真

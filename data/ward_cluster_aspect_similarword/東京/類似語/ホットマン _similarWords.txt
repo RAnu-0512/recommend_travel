@@ -1,0 +1,9 @@
+--------------------similar_words:ホットマン --------------------
+top3 entities near to cluster0>>
+タオル, ハンカチ, 手ぬぐい
+top3 entities near to cluster1>>
+ギフト, 贈り物, プレゼント
+top3 entities near to cluster3>>
+人気, 大人気, 定番
+top3 entities near to cluster4>>
+土産, おみやげ, みやげ

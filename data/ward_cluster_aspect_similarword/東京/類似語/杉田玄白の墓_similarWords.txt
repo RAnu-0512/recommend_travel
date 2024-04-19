@@ -1,0 +1,13 @@
+--------------------similar_words:杉田玄白の墓--------------------
+top3 entities near to cluster0>>
+墓参, 墓碑
+top3 entities near to cluster1>>
+偉人, 解剖, 人体
+top3 entities near to cluster3>>
+駅, 神谷町, 徒歩
+top3 entities near to cluster4>>
+変革, 大, 躍進
+top3 entities near to cluster5>>
+神社, 境内, 稲荷
+top3 entities near to cluster7>>
+探訪, 蘭学, 史跡

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヒカリゴケ生息地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+コケ, ヒカリゴケ, 裸眼, 石垣, 岩村田ヒカリゴケ, 北の丸公園, コケ類, 石
+cluster1:(2)
+ヒカリゴケ科ヒカリゴケ属, ヒカリゴケ生息地
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

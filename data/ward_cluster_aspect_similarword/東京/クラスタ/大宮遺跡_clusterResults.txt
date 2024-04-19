@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大宮遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出土, 遺跡
+cluster1:(3)
+緑, 米, 横
+cluster2:(3)
+こと, 場所, 品
+cluster3:(1)
+跡形
+cluster4:(2)
+大宮八幡宮, 弥生時代
+cluster5:(1)
+方形周溝墓
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

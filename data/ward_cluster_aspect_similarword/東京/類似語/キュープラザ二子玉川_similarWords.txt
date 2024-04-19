@@ -1,0 +1,11 @@
+--------------------similar_words:キュープラザ二子玉川--------------------
+top3 entities near to cluster1>>
+雑居, 飲食, ビル
+top3 entities near to cluster2>>
+仕事, 用事, 知り合い
+top3 entities near to cluster3>>
+ビル, 建物, 駅
+top3 entities near to cluster4>>
+ママ, パパ, お母さん
+top3 entities near to cluster5>>
+接種, 集団, ワクチン

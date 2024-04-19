@@ -1,0 +1,27 @@
+--------------------similar_words:道の駅 センザキッチン--------------------
+top3 entities near to cluster1>>
+海産物, しらす, 海鮮
+top3 entities near to cluster2>>
+レストラン, キッチン, バーベキュー
+top3 entities near to cluster3>>
+土産物, 乗り場, みやげ物
+top3 entities near to cluster4>>
+桜, 八重桜, 櫻
+top3 entities near to cluster5>>
+学ぶ, 生き, 生きる
+top3 entities near to cluster6>>
+販売, 限定, 数量
+top3 entities near to cluster7>>
+地元人, 地元, 子供
+top3 entities near to cluster9>>
+駅店, 駅, 店舗
+top3 entities near to cluster10>>
+刺身, 蒲鉾, 鮮魚
+top3 entities near to cluster11>>
+フグ, ふぐ, アジ
+top3 entities near to cluster12>>
+食事, ご飯, 夕食
+top3 entities near to cluster13>>
+駐車場, 施設, 駐車
+top3 entities near to cluster15>>
+海鮮, 牡蠣, 温泉

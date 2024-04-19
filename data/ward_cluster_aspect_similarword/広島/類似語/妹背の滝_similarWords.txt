@@ -1,0 +1,17 @@
+--------------------similar_words:妹背の滝--------------------
+top3 entities near to cluster0>>
+展望台, 展望, 駐車台, 駐車
+top3 entities near to cluster1>>
+雄滝, 雌滝, 滝
+top3 entities near to cluster2>>
+子供, 息子, 子ども
+top3 entities near to cluster5>>
+日水, 夕刻, 日
+top3 entities near to cluster6>>
+子ども, 子供, 水遊び
+top3 entities near to cluster7>>
+川魚, 海魚, 川, 海
+top3 entities near to cluster8>>
+友人, 家族, 知人
+top3 entities near to cluster9>>
+神社, 本殿, 宮司

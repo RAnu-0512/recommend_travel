@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光明院(広島県廿日市市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, 光明院
+cluster1:(1)
+そば
+cluster2:(1)
+町家
+cluster3:(1)
+宮島
+cluster4:(1)
+広島県
+cluster5:(1)
+誓真
+cluster6:(1)
+甘日市市
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

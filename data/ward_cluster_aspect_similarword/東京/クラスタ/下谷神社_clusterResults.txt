@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下谷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神楽奉納, 下谷神社
+cluster1:(4)
+周辺, 石碑, 正岡子規, 印象
+cluster2:(4)
+参道, 露店, 神社, 祭事
+cluster3:(1)
+じゅん散歩
+cluster4:(1)
+稲荷町駅
+cluster5:(1)
+現代流行食べ物
+cluster6:(2)
+神輿山車巡行, 隆栄稲荷神社
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 7
+deleted 0entities.

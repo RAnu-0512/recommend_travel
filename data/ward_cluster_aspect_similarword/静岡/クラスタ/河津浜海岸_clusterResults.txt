@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河津浜海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+海水浴場, 伊豆, 散歩, 海岸, 伊豆急行線, 白砂, 穴場, 感じ, 東, 景色, 波, 今井浜海岸, 砂浜, サーフィン
+cluster1:(4)
+河津浜海岸, 河津駅, 河津桜, 河津町
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

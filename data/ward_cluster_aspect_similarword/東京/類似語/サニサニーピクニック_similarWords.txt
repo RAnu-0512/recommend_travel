@@ -1,0 +1,29 @@
+--------------------similar_words:サニサニーピクニック--------------------
+top3 entities near to cluster0>>
+解き, 謎, 解く
+top3 entities near to cluster1>>
+謎, ナゾ, 不可解
+top3 entities near to cluster2>>
+店内, 店舗
+top3 entities near to cluster3>>
+雰囲気, カフェ, スタイル
+top3 entities near to cluster4>>
+小人, 大人, 子供
+top3 entities near to cluster7>>
+現地, 地元, 海外
+top3 entities near to cluster8>>
+自分, 友人
+top3 entities near to cluster9>>
+なか, 頭, アタマ
+top3 entities near to cluster10>>
+予定, 追加, 内容
+top3 entities near to cluster11>>
+時間程度, 時間
+top3 entities near to cluster12>>
+目的, 手段, ため
+top3 entities near to cluster14>>
+暑い, 蒸し暑い, 涼しい
+top3 entities near to cluster15>>
+成功率, 解決, 成功
+top3 entities near to cluster16>>
+時間, 時

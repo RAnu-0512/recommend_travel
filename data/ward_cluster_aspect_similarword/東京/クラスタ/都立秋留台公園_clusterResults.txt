@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立秋留台公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 陸上競技場
+cluster1:(2)
+バラ, バラ園
+cluster2:(2)
+トラック外周, 整備
+cluster3:(2)
+噴水, 公園
+cluster4:(3)
+花, 花見, 桜
+cluster5:(13)
+季節, コンビニ, 場所, 子ども, 人, ジョギング, つぼみ, 近く, バドミントン, 時期, 前回, コスモス, 市役所
+cluster6:(3)
+水, あきる野市, 木
+cluster7:(4)
+東京都, 秋留台地, 芝生広場, 中央広場
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 8
+deleted 0entities.

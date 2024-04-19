@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深大寺水車館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+調布駅, 三鷹
+cluster1:(13)
+手前, 農機具, 昔, 場所, 別, 植物, 建物, 深大寺, 近く, 写真, 雰囲気, 風情, 辺り
+cluster2:(2)
+仕組, 機会
+cluster3:(2)
+大寺, 寺
+cluster4:(3)
+製粉, 穀物, 蕎麦
+cluster5:(7)
+水車, 館内見学, 深大寺水車館, 入館, 都立公園デジタルスタンプラリー, 開館時間外, 水車館
+cluster6:(1)
+東京都共賛ぷりきゅあデジタルスタンプラリー街歩きのため調布駅
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 7
+deleted 0entities.

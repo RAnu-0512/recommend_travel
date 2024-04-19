@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芹沢光治良の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西伊豆, 最福寺
+cluster1:(1)
+境内
+cluster2:(1)
+作家
+cluster3:(1)
+こうじろう
+cluster4:(1)
+地元出身
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

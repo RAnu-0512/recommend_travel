@@ -1,0 +1,15 @@
+--------------------similar_words:檜原温泉センター「数馬の湯」--------------------
+top3 entities near to cluster0>>
+入り口, 出入り口, 左手
+top3 entities near to cluster1>>
+内湯, 温泉, 湯
+top3 entities near to cluster2>>
+湯, 温泉, 壺
+top3 entities near to cluster3>>
+泉質, 泉, 釧雲
+top3 entities near to cluster4>>
+温泉, 入浴, 風呂
+top3 entities near to cluster6>>
+ふく, はぎ, はぎの
+top3 entities near to cluster7>>
+塩素, 消毒, 循環

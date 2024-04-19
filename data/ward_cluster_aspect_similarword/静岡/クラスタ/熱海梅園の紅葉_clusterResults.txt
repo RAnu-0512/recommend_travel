@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海梅園の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+中山晋平記念館, 澤田政虎美術館, 沢田政廣美術館
+cluster1:(6)
+梅園, 熱海, 熱海駅, 梅園内, 熱海梅園, 来宮駅
+cluster2:(4)
+駐車場, 観光地, 丘陵地, 入園料
+cluster3:(6)
+川, 赤, 奥, 黄色, 山, 滝
+cluster4:(5)
+時期, 人出, 場所, 表情, 季節
+cluster5:(10)
+パワースポット, イベント, カフェ, 大道芸, ライトアップ, シャッター, スポット, モミジ, ガイドブック, もみじ
+cluster6:(2)
+専用, 提供
+cluster7:(2)
+夫, 週末
+cluster8:(7)
+多く, ほか, 日本, 人, 意外, 中, 方
+cluster9:(12)
+庭園, 売店, 園内, 足湯, 甘酒, 名所, 徒歩, 旅行, 公園, 観光, 穴場, 穴場スポット
+cluster10:(8)
+紅葉, 紅葉時期, モミジ祭, 紅葉まつり, 遅め, 梅, 梅まつり, 桜
+
+howmany entities : 65
+howmany clusters : 11
+howmany entities (more than3entities) : 61
+howmany clusters (more than3entities) : 9
+deleted 4entities.

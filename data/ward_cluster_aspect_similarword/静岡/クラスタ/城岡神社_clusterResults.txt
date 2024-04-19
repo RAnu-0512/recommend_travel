@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城岡神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+城岡神社, 賽銭, 社殿, 鳥居, 神社, 境内, 神社独特, 祠
+cluster1:(2)
+駅, 南口
+cluster2:(2)
+一角, 目印
+cluster3:(9)
+アクセス, 事, 地元, ホテル, 子, 周囲, 近く, 雰囲気, 場所
+cluster4:(1)
+参り
+cluster5:(1)
+人たち
+cluster6:(1)
+商店街
+cluster7:(2)
+沼津城主, 沼津城
+cluster8:(2)
+沼津到着, 沼津駅
+cluster9:(1)
+沼津城本丸の鬼門
+cluster10:(1)
+水野忠成
+cluster11:(1)
+沼津兵学校の記念碑
+cluster12:(1)
+宇迦之御魂神
+
+howmany entities : 32
+howmany clusters : 13
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 15entities.

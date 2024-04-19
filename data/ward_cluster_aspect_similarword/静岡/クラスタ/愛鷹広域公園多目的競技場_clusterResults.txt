@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛鷹広域公園多目的競技場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散歩, 公園
+cluster1:(2)
+市, 施設
+cluster2:(5)
+気持ち, 愛鷹山, スポーツ, レベル, テニスコート
+cluster3:(1)
+応援
+cluster4:(1)
+尻
+cluster5:(1)
+頂上
+cluster6:(1)
+熱戦
+cluster7:(3)
+野球場, 競技場, 愛鷹球場
+cluster8:(1)
+愛鷹広域公園多目的競技場
+
+howmany entities : 17
+howmany clusters : 9
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 9entities.

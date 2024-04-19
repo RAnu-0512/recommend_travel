@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一般社団法人南伊豆町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+川津桜, ♪菜の花最高今回 河津桜, 河津桜まつり, 河津駅, みなみの桜と菜の花まつり, 河津桜
+cluster1:(3)
+川, 青野川, 川沿い
+cluster2:(4)
+菜の花畑, 野菜, 果物, 花畑
+cluster3:(2)
+満開, 見頃
+cluster4:(5)
+紅葉, 春, 菜の花, 菜の花まつり, 秋
+cluster5:(2)
+桜まつり, 桜
+cluster6:(2)
+花まつり, 花
+cluster7:(19)
+温泉, 協会, ナビ, 土産, 時期, 足湯, 混雑, バス, 賀茂, 駅, 季節, 寒さ, 観光, 海水浴時期, 南伊豆町, 帰り, 甘酒, 時季, 道
+cluster8:(6)
+案内, 写真, 情報, 詳細, 場所, 説明
+cluster9:(3)
+人, 方, 方々
+cluster10:(2)
+地域, 地元
+cluster11:(5)
+影響, 又, 事, 感じ, 思い
+cluster12:(17)
+イベント, 天の川, トイレ, オススメ, 色, ライトアップ, wifi, ひまわり, 本物, パンフレット, 魚介類, スポット, 早咲き, アクセス, みなみ, ライト, 見応え
+cluster13:(2)
+南, 木
+cluster14:(4)
+一角, 全体, 上, 下
+cluster15:(1)
+良さ
+cluster16:(2)
+反対側, 基準樹
+cluster17:(4)
+時刻, 開花具合, 開始時刻, 満開予定日
+cluster18:(2)
+観光案内所, THE観光!
+cluster19:(2)
+駐車場, 休憩場所
+cluster20:(2)
+外国人観光客, 国民休暇村
+
+howmany entities : 95
+howmany clusters : 21
+howmany entities (more than3entities) : 76
+howmany clusters (more than3entities) : 11
+deleted 19entities.

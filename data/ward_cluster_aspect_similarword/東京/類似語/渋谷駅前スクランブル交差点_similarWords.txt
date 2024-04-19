@@ -1,0 +1,51 @@
+--------------------similar_words:渋谷駅前スクランブル交差点--------------------
+top3 entities near to cluster3>>
+光景, 姿, 風景
+top3 entities near to cluster4>>
+感動, 実感, 納得
+top3 entities near to cluster5>>
+人混み, 人込み, 人通り
+top3 entities near to cluster6>>
+雰囲気, 楽しい, みんな
+top3 entities near to cluster7>>
+カメラ, テレビ, スマホ
+top3 entities near to cluster8>>
+スタバ, 買い物, 待ち合わせ
+top3 entities near to cluster10>>
+スター, バックス, オーシャン
+top3 entities near to cluster11>>
+ハブ, アメクラ, スポーク
+top3 entities near to cluster13>>
+名物, 名産, 迷物
+top3 entities near to cluster14>>
+交差点, 十字路, 三叉路
+top3 entities near to cluster15>>
+赤信号, 青信号, 信号
+top3 entities near to cluster16>>
+青, 赤, 黄
+top3 entities near to cluster17>>
+信号, 新油川, 東川井
+top3 entities near to cluster18>>
+交差, 混雑, 方向
+top3 entities near to cluster19>>
+中継, 放映, 放送
+top3 entities near to cluster20>>
+駅街, 駅, 駅前
+top3 entities near to cluster21>>
+休み, 休日, 仕事
+top3 entities near to cluster22>>
+若者, 学生, 大学生
+top3 entities near to cluster23>>
+人達, 人々
+top3 entities near to cluster25>>
+海外, 外国, 各国
+top3 entities near to cluster26>>
+試合, 国際, 親善
+top3 entities near to cluster27>>
+写真, 撮影, 連休
+top3 entities near to cluster29>>
+ハチ公口, ハチ公, 駅前
+top3 entities near to cluster30>>
+ハチ, 東急, ハロ
+top3 entities near to cluster31>>
+忠犬, 忠, ハチ公

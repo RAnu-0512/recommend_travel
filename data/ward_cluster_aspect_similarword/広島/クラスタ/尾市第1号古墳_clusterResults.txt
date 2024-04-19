@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾市第1号古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人, 場所
+cluster1:(1)
+内部
+cluster2:(1)
+跡
+cluster3:(1)
+古墳
+cluster4:(1)
+石室内部
+cluster5:(1)
+十字塚
+cluster6:(1)
+終末期古墳
+cluster7:(1)
+十字型漆喰塗り
+cluster8:(1)
+八角墳横口式石槨
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:都営大江戸線 蔵前駅--------------------
+top3 entities near to cluster0>>
+駅, 時間, 徒歩
+top3 entities near to cluster2>>
+想定外, 想定内, 想定
+top3 entities near to cluster3>>
+都営, 都営地下鉄, 三田線

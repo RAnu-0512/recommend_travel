@@ -1,0 +1,17 @@
+--------------------similar_words:倉吉市営温水プール--------------------
+top3 entities near to cluster1>>
+プール, 温水, 水泳
+top3 entities near to cluster2>>
+利用料, 料金, 利用
+top3 entities near to cluster4>>
+プール, スイミング, ジャグジープール
+top3 entities near to cluster5>>
+ウォーター, ウオーター, カーブ
+top3 entities near to cluster6>>
+ジャグジー, ウォーキング, ウオーキング
+top3 entities near to cluster7>>
+メイン, メーン, サブ
+top3 entities near to cluster8>>
+子供, 家族, 子ども
+top3 entities near to cluster9>>
+暑い, 蒸し暑い, 涼しい

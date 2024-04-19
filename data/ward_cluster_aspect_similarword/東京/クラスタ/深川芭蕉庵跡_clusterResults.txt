@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深川芭蕉庵跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+観光, 石碑, 場所, テラス, 人気, 隅田川, 句碑, 近く, 句, 奥, カエル, 置物, 中, こと, 細道, 稲荷
+cluster1:(8)
+芭蕉庵跡, 芭蕉記念館, 松尾芭蕉, 庵, 芭蕉稲荷神社, 芭蕉庵, 芭蕉像, 芭蕉
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

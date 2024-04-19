@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋葉公園(静岡県牧之原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+斜面, 丘
+cluster1:(7)
+社, 秋葉神社, 境内, 花, シーズン, 遊歩道, 紫陽花
+cluster2:(1)
+茶畑
+cluster3:(1)
+駐車場
+cluster4:(1)
+かりんぽの里
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

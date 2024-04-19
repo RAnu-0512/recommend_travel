@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニール号招魂碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海外, 文化財, 日本
+cluster1:(2)
+海岸, 船舶
+cluster2:(1)
+ニール号
+cluster3:(1)
+ウィーン万博
+cluster4:(1)
+救出数
+cluster5:(1)
+挫傷
+cluster6:(1)
+招魂碑
+
+howmany entities : 10
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 7entities.

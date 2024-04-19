@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河童の泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+交差点, 水, 酒, ロード, マンガ, 中, 信号, 鬼太郎ワールド, トレビ, 風習, JR, 道, 鬼太郎, 微笑, ねずみ男, 方, 雰囲気, 途中, 側, 場所
+cluster1:(2)
+銅像, 像
+cluster2:(5)
+角, 池, 水辺, 河童, 小屋
+cluster3:(4)
+散策, ロード沿い, 公園, 広場
+cluster4:(8)
+妖怪版, 妖怪たち, 境港駅, 小豆洗い, 小便小僧, 妖怪, 妖怪広場, 境港
+cluster5:(9)
+泉, 水木しげるロード, 河童の泉, トレビの泉のごとくコイン, 水木しげる, 人口泉, 水木しげる先生, 千代むすび酒造, 河童の三平
+
+howmany entities : 48
+howmany clusters : 6
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 6
+deleted 0entities.

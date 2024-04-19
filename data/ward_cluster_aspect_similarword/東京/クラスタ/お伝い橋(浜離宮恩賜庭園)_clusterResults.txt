@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お伝い橋(浜離宮恩賜庭園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ビル群, 高層ビル
+cluster1:(2)
+中島, 藤
+cluster2:(6)
+写真スポット, 上, 様子, 敷地, 真ん中, 外
+cluster3:(3)
+季節, 花, 緑
+cluster4:(3)
+潮入, 浜離宮, 橋
+cluster5:(2)
+茶屋, 藤棚
+cluster6:(6)
+面影, 趣, 景観, 江戸時代, 風情, 日本家屋
+cluster7:(3)
+池, お伝い橋, 潮入の池
+cluster8:(1)
+タイムスリップそたか
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 9
+deleted 0entities.

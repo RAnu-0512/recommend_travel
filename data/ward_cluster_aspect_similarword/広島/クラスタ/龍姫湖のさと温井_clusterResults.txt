@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍姫湖のさと温井>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+人口湖, 名前, 場所, 大蛇物語, 紅葉, 天気, 山々, 食事, から揚げ定食
+cluster1:(2)
+温井ダム, 江の渕
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

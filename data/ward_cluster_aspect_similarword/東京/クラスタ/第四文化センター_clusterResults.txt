@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:第四文化センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+施設, イベント情報
+cluster1:(3)
+図書館, ガンダム, 館内
+cluster2:(1)
+児童館
+cluster3:(1)
+情報発信施設
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

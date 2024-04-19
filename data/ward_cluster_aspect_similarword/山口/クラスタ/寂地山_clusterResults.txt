@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寂地山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+迫力, 壮大
+cluster1:(2)
+空気, 水
+cluster2:(4)
+登山, 景色, 紅葉, 滝
+cluster3:(2)
+可憐, 花
+cluster4:(8)
+カタクリ, 寂地山, 自然, 見晴らし, 家族, 最高峰, 場所, 山
+cluster5:(1)
+立つ山
+cluster6:(2)
+山口県, 高山植物
+cluster7:(1)
+祖宇佐居神社
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 8
+deleted 0entities.

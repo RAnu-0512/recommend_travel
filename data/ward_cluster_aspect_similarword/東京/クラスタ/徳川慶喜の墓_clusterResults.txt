@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:徳川慶喜の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+霊園, 墓所, 墓, 墓石
+cluster1:(3)
+谷中墓地, 墓地, 寛永寺墓地
+cluster2:(6)
+徳川, 歴代将軍, 将軍, 三つ葉葵, 慶喜, 江戸幕府
+cluster3:(3)
+鉄柵, 塀, 門
+cluster4:(2)
+日暮里駅, 徒歩
+cluster5:(2)
+幕末, 明治
+cluster6:(2)
+流れ, 案内
+cluster7:(4)
+人, 気持ち, 雰囲気, トップ
+cluster8:(2)
+最後, 中
+cluster9:(1)
+日本
+cluster10:(1)
+場所
+cluster11:(4)
+寛永寺, 増上寺, 敷地, 天王寺
+cluster12:(5)
+庶民, 人物, 歴史, 生涯, 時代
+cluster13:(1)
+谷
+cluster14:(1)
+案内板
+cluster15:(1)
+征夷大
+cluster16:(6)
+都立谷中霊園, 徳川慶喜の墓, 徳川慶喜, 徳川幕府15代将軍, 谷中第二霊園, 徳川将軍家代々
+
+howmany entities : 48
+howmany clusters : 17
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 17
+deleted 0entities.

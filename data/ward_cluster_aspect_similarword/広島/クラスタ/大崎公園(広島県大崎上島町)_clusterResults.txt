@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大崎公園(広島県大崎上島町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+花, おすすめスポット, 瀬戸内海, 息吹き, 人, 代表, 場所, 大崎上島
+cluster1:(2)
+癒し, 心
+cluster2:(6)
+島, 頂上, 海, 四季, 景色, 丘
+cluster3:(6)
+桜, 広島県, 大崎公園, 望月公園, 桜の名所, 桜シーズン
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

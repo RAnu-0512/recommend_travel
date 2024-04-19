@@ -1,0 +1,9 @@
+--------------------similar_words:東京メトロ千代田線 明治神宮前駅--------------------
+top3 entities near to cluster0>>
+神宮, 明治, 備林
+top3 entities near to cluster2>>
+駅, 駅前, 構内
+top3 entities near to cluster3>>
+都心線, 環状線, 都心, 環状
+top3 entities near to cluster4>>
+客数, 乗降, 旅客

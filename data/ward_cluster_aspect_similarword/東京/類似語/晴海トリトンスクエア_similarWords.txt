@@ -1,0 +1,21 @@
+--------------------similar_words:晴海トリトンスクエア--------------------
+top3 entities near to cluster0>>
+言葉, 台詞
+top3 entities near to cluster1>>
+係員, 駅員, 乗客
+top3 entities near to cluster2>>
+施設, 案内
+top3 entities near to cluster3>>
+食事, 夕食, 夕飯
+top3 entities near to cluster4>>
+総数
+top3 entities near to cluster5>>
+倒連, ロック
+top3 entities near to cluster6>>
+中央, 区, 駅
+top3 entities near to cluster7>>
+ビル, 高層, オフィス
+top3 entities near to cluster8>>
+施設, 駐車, 飲食
+top3 entities near to cluster9>>
+発券機, 発券

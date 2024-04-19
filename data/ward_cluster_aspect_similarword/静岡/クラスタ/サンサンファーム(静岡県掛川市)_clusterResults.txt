@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サンサンファーム(静岡県掛川市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+いちご摘み, イチゴ摘み
+cluster1:(2)
+いちご狩り, イチゴ狩り
+cluster2:(6)
+土産, 苗, 菓子, 野菜, 花, 果物
+cluster3:(2)
+家族, 人
+cluster4:(7)
+イチゴ, ハウス, いちご, 農産物, 買い物, 子ども, 土産物
+cluster5:(2)
+販売, 手
+cluster6:(6)
+注意, 地元, 時期, 別棟, 近く, 場所
+cluster7:(1)
+体調
+cluster8:(1)
+地床
+cluster9:(1)
+晴明塚
+cluster10:(1)
+獲れたて野菜
+
+howmany entities : 31
+howmany clusters : 11
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 12entities.

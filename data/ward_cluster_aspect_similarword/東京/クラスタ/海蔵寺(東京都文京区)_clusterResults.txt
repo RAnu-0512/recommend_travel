@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海蔵寺(東京都文京区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+富士講, 富士信仰
+cluster1:(3)
+曹洞宗, 寺, 海蔵寺
+cluster2:(2)
+家, 猫
+cluster3:(1)
+墓
+cluster4:(1)
+門
+cluster5:(1)
+本駒込駅
+cluster6:(1)
+身禄行者
+cluster7:(1)
+案内板
+cluster8:(1)
+夏目漱石
+
+howmany entities : 13
+howmany clusters : 9
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛西神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 駐車場脇
+cluster1:(6)
+気, 感じ, 旨, 気分, 気品, もの
+cluster2:(11)
+途中, 地, 入口, 家, 緑, 木, 廊下, 近所, 左, 市, 神
+cluster3:(3)
+御朱印, お守り, 御利益
+cluster4:(4)
+気持ち, 御手水, 控え室, 雰囲気
+cluster5:(4)
+多く, 人, 種類, 仕様
+cluster6:(3)
+顔, 柄, 手
+cluster7:(1)
+実習
+cluster8:(2)
+釣竿, 運
+cluster9:(1)
+お社
+cluster10:(3)
+銀杏達, 健康守り, 銀杏
+cluster11:(3)
+電動式, 平均値, 消毒液
+cluster12:(3)
+方位除け, 日本武尊, 方位
+cluster13:(4)
+酉, 干支, 撫, 鎮守
+cluster14:(7)
+絵馬, 神社, 本殿, 参拝, 祓い, 社殿, 境内
+cluster15:(2)
+葛西神社, 遠野
+cluster16:(1)
+昇殿
+cluster17:(1)
+社務所
+cluster18:(1)
+鯛みくじ
+cluster19:(1)
+初穂料
+cluster20:(1)
+頼政公ぬえ退治
+
+howmany entities : 64
+howmany clusters : 21
+howmany entities (more than1entities) : 64
+howmany clusters (more than1entities) : 21
+deleted 0entities.

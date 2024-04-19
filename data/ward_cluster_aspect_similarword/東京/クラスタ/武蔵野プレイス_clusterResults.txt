@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵野プレイス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+読書コーナー, 学習コーナー, 喫茶コーナー, 雑誌, 世話, 勉強, 雑誌類, 読書
+cluster1:(2)
+人たち, 人
+cluster2:(2)
+子供, 子供たち
+cluster3:(15)
+図書館, ゲーム, おすすめ, カフェスペース, 本, カフェ, スタディコーナー, コーヒー, ほか, こどもコーナー, 武蔵野, スポット, 雰囲気, 中学生, コーナー
+cluster4:(4)
+建物, 館内, 内装, 外観
+cluster5:(2)
+心, 気分
+cluster6:(8)
+図書館関係, 場所, 近隣, 空間, 場, 近く, 施設, 部屋
+cluster7:(1)
+憩い
+cluster8:(3)
+駅, 武蔵境駅, 貸スタジオ
+cluster9:(4)
+JR中央線, 武蔵野プレイス, 複合施設, 公共施設
+
+howmany entities : 49
+howmany clusters : 10
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 10
+deleted 0entities.

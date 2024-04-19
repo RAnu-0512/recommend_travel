@@ -1,0 +1,23 @@
+--------------------similar_words:渋沢栄一像--------------------
+top3 entities near to cluster0>>
+写真, 銅像
+top3 entities near to cluster1>>
+景品, 工事
+top3 entities near to cluster2>>
+経済, 歴史, 文化
+top3 entities near to cluster3>>
+自宅, 実家, 近辺
+top3 entities near to cluster6>>
+登場, お目見え, 出現
+top3 entities near to cluster7>>
+ラリー, スタンプ, ボーワ
+top3 entities near to cluster9>>
+大正, 明治, ゴキブリゾル
+top3 entities near to cluster10>>
+青天, 大河ドラマ, 青空
+top3 entities near to cluster11>>
+徒歩圏, 徒歩, 圏内
+top3 entities near to cluster12>>
+がれ, おん, みつけん
+top3 entities near to cluster13>>
+渋沢, 政府, 明治

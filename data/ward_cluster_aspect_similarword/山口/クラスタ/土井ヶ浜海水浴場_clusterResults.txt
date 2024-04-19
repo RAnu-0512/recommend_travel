@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土井ヶ浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+砂浜, 波, 海
+cluster1:(10)
+方, コバルトブルー, 貸し切りビーチ, 仕事, 人, 海外, 家, 話, 夏場, エメラルドグリーン
+cluster2:(1)
+土井
+cluster3:(1)
+海水浴場
+cluster4:(2)
+観光客, 監視員
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

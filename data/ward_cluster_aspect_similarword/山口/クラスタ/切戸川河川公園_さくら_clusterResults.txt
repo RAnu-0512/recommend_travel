@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:切戸川河川公園_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+花見, 花見客, 桜, 桜並木道
+cluster1:(2)
+川, 川面
+cluster2:(8)
+横, 眺め, 側, 桜並木, 多く, 風情, 様子, 時期
+cluster3:(1)
+道沿い
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

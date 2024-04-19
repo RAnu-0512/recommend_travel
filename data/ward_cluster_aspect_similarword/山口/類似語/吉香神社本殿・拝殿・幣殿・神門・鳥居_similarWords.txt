@@ -1,0 +1,13 @@
+--------------------similar_words:吉香神社本殿・拝殿・幣殿・神門・鳥居--------------------
+top3 entities near to cluster0>>
+拝殿, 本殿, 社殿
+top3 entities near to cluster1>>
+神社, 境内, 本殿
+top3 entities near to cluster2>>
+鳥居, 如昌, 大鳥居
+top3 entities near to cluster3>>
+本殿, 参道, 鳥居
+top3 entities near to cluster4>>
+敷地, 建物, 裏手
+top3 entities near to cluster5>>
+統一感, 高揚感, 統一, 高揚

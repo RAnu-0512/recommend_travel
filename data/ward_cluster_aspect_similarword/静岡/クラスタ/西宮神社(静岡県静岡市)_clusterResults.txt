@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西宮神社(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+商売繁盛, 商店街
+cluster1:(3)
+えびす様, 御えびす, えびすさま
+cluster2:(2)
+出店, 露店
+cluster3:(6)
+人, 神社, イベント, えびす講, 時期, えびす
+cluster4:(2)
+福, 戎
+cluster5:(1)
+音羽町
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 7entities.

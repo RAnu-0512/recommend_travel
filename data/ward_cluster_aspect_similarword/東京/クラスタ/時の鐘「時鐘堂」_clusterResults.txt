@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:時の鐘「時鐘堂」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+上野, 上野広小路駅, 上野精養軒, 大仏, 浅草か, 上野恩賜公園, 上野大仏
+cluster1:(3)
+時鐘堂, 時鐘, 時の鐘
+cluster2:(2)
+松尾芭蕉, 芭蕉
+cluster3:(2)
+江戸, 江戸時代
+cluster4:(4)
+音色, 鐘楼, 音, 鐘
+cluster5:(6)
+周囲, 昔, 人, 近く, 人々, 時代
+cluster6:(5)
+ホテル, ところ, 精養軒, 上, タイミング
+cluster7:(3)
+場所, 夕方, 時間
+cluster8:(1)
+現役
+cluster9:(1)
+機会
+cluster10:(7)
+入口, 公園, 丘, 散歩, 洋風レストラン, 敷地, 脇
+cluster11:(1)
+駐車場
+
+howmany entities : 42
+howmany clusters : 12
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 12
+deleted 0entities.

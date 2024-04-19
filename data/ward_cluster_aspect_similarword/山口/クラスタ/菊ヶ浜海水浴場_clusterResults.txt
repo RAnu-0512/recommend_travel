@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菊ヶ浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+指月城跡, 土塁
+cluster1:(2)
+海水浴場, 駐車場
+cluster2:(7)
+弧, 砂, 砂浜, 海水, 波, 松林, 海
+cluster3:(14)
+子供, 軽食, 海水浴シーズン, シーズン, 多く, 海水浴, 跡, オススメ, 家, 夏, そば, 子供たち, シャワー, 人
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

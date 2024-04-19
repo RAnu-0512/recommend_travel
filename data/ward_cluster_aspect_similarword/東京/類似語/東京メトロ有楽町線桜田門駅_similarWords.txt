@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ有楽町線桜田門駅--------------------
+top3 entities near to cluster0>>
+駅, 駅名, 構内
+top3 entities near to cluster1>>
+階段, 道路, 入口
+top3 entities near to cluster2>>
+警視庁, 本部, 警察庁
+top3 entities near to cluster3>>
+皇居, 東宮御所, 吹上御苑
+top3 entities near to cluster4>>
+地裁, 中央, 裁判所

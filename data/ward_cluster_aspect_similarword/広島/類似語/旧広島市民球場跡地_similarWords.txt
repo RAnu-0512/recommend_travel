@@ -1,0 +1,13 @@
+--------------------similar_words:旧広島市民球場跡地--------------------
+top3 entities near to cluster0>>
+記念碑, 記念, 優勝
+top3 entities near to cluster1>>
+球場, 市民, スタジアム
+top3 entities near to cluster3>>
+交通, 事故
+top3 entities near to cluster5>>
+会場, 駅前, 駅
+top3 entities near to cluster6>>
+中心位, 中心
+top3 entities near to cluster7>>
+録画, 公開, 放送

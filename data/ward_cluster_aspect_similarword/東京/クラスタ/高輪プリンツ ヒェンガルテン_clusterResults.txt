@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高輪プリンツ ヒェンガルテン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+Hail Holy Queen, 天使
+cluster1:(2)
+洋風, 自作
+cluster2:(9)
+クリスマスショップ, ラブソング, フレンチレストラン, 店, 結婚式, 雰囲気, 場所, 建物, 奥
+cluster3:(1)
+締め
+cluster4:(1)
+施設側
+cluster5:(2)
+I Will Follow Him, 品川駅
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

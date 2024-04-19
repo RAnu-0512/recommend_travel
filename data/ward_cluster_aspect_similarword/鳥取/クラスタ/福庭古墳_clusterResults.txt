@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福庭古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+波波伎神社, 倉吉観光で波波伎神社
+cluster1:(16)
+解説板, 三明寺古墳, 石室, 寄進札石碑, 円墳, 墳丘, 木, 倉吉市, 近く, 山道, 古墳, スダジイ, 気, 横穴式石室, 古墳時代後期, 福庭古墳
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

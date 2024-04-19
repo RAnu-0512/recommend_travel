@@ -1,0 +1,15 @@
+--------------------similar_words:中野氷川神社--------------------
+top3 entities near to cluster0>>
+神社, 境内, 初詣
+top3 entities near to cluster1>>
+神霊, 蚊, 乱
+top3 entities near to cluster2>>
+厄除け, 雰囲気, 神社
+top3 entities near to cluster3>>
+間家, 間, 地元
+top3 entities near to cluster4>>
+緑水, 緑, 土水, 土
+top3 entities near to cluster7>>
+環状, 環状線, 環線, 環
+top3 entities near to cluster10>>
+神社, 境内, 駅

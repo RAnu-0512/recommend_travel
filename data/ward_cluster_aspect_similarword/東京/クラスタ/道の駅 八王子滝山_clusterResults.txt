@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 八王子滝山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+八王子産, 高尾地区, 金子ミルク, 野菜, 東京, 地元野菜, 都, 八王子滝山, 市民, 地場産品, 地元商品, 唯一, 地元, 東京唯一
+cluster1:(2)
+わらび, 八王子
+cluster2:(2)
+売り場, ソフトクリーム目当て
+cluster3:(2)
+ランチ, コース
+cluster4:(8)
+ナポリタン, メイン, スーパーマーケット, コーヒー, ラーメン, ソフトクリーム, うまさ, とうもろこし
+cluster5:(1)
+交差点
+cluster6:(1)
+フードコート
+cluster7:(1)
+餅
+cluster8:(12)
+建物, 人, 仕事, 場合花, 案内, 美味しさ, 登場, 中, 造り, こと, もの, 辺り
+cluster9:(3)
+駅, 車, 道
+cluster10:(2)
+北端, 奥
+cluster11:(3)
+ドライバー休憩, 安定, 臨時
+cluster12:(3)
+混雑具合, 駐車, 駐車場
+cluster13:(1)
+天付き板そば
+cluster14:(1)
+東京都唯一の道の駅
+
+howmany entities : 56
+howmany clusters : 15
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 15
+deleted 0entities.

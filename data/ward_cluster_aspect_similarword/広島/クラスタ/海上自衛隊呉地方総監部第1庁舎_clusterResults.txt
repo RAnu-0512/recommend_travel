@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海上自衛隊呉地方総監部第1庁舎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+見学, 見学ツアー
+cluster1:(2)
+庁舎, 広報
+cluster2:(9)
+方, 写真, ガイド, 週, ホームページ, 予約, ツアー, コース, 自衛隊
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

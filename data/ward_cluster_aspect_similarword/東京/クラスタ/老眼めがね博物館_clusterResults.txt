@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:老眼めがね博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+店, 問屋, 販売店, 眼鏡, メガネ屋, 店頭
+cluster1:(3)
+値段, 駅, 外観
+cluster2:(5)
+サングラス, アウトレット, 博物館, インパクト, ファッション
+cluster3:(3)
+メガネ, 老眼鏡, めがね
+cluster4:(5)
+一つ, 日本, こと, 目, もの
+cluster5:(1)
+池袋
+cluster6:(1)
+釣り
+cluster7:(2)
+何か, 安さ
+cluster8:(1)
+東通り
+cluster9:(3)
+老眼, 偏光サングラス, 老眼眼鏡
+cluster10:(1)
+メガネだらけ・・・老眼め
+
+howmany entities : 31
+howmany clusters : 11
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 11
+deleted 0entities.

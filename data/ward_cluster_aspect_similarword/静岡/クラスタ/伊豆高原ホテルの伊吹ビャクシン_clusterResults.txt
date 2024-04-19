@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆高原ホテルの伊吹ビャクシン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天然記念物, 伊豆高原
+cluster1:(1)
+ホテル
+cluster2:(1)
+指定
+cluster3:(1)
+伊東市
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

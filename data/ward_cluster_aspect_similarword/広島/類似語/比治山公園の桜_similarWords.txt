@@ -1,0 +1,21 @@
+--------------------similar_words:比治山公園の桜--------------------
+top3 entities near to cluster0>>
+花見, 夜桜, 見物
+top3 entities near to cluster2>>
+大勢, 周り
+top3 entities near to cluster3>>
+センター, スペース, ショッピング
+top3 entities near to cluster4>>
+美術館, 図書館, 博物館
+top3 entities near to cluster6>>
+木, 木火, 土
+top3 entities near to cluster7>>
+徒歩, 駅分, 駅
+top3 entities near to cluster8>>
+公園, 遊具, 名所
+top3 entities near to cluster9>>
+中心部, 中心, 主軸
+top3 entities near to cluster10>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster11>>
+閉館, 改装, 開館

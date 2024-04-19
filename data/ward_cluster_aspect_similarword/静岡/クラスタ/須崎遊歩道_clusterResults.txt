@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須崎遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+須崎, 伊豆石, 須崎半島, 下田の恵比須島
+cluster1:(2)
+凝灰岩, 土石流
+cluster2:(4)
+ところ, スポット, オススメ, シュノーケリング
+cluster3:(2)
+遊歩道, 散歩道
+cluster4:(2)
+もの, 人
+cluster5:(1)
+夏
+cluster6:(1)
+整備
+cluster7:(1)
+天気
+cluster8:(1)
+興味
+cluster9:(1)
+JUDY AND MARY
+cluster10:(6)
+火山, 海底, 奇岩, 地形, 磯遊び, 沿岸部
+
+howmany entities : 25
+howmany clusters : 11
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 11entities.

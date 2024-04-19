@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菜種島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+島々, 島
+cluster1:(7)
+周囲, 菜種島, 風景, 浦富海岸, 中, 崖, 海
+cluster2:(1)
+菜種
+cluster3:(1)
+高さ
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

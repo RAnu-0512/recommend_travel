@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高源寺(静岡県函南町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高源寺, 寶船山高源寺, 建久元年
+cluster1:(3)
+静岡県, 函南駅, 函南町
+cluster2:(12)
+曹洞宗, 風情, 歴史, 源頼朝, 感じ, 景色, 情緒, 雰囲気, 佇まい, 建物, 先, 場所
+cluster3:(2)
+再興, 寄進
+cluster4:(3)
+空海, 桑原, 頼朝
+cluster5:(4)
+石畳, 苔, 山門, 参道
+cluster6:(4)
+古刹, 古寺, 伽藍, 寺
+cluster7:(3)
+修験道場, 山火事, 高原寺
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 7
+deleted 2entities.

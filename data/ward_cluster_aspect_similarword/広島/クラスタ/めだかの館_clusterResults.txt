@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:めだかの館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+オスメス, メス, オス
+cluster1:(2)
+子供たち, 子供達
+cluster2:(4)
+繁殖, 品種, 個体, 改良メダカ
+cluster3:(5)
+メダカたち, メダカ達, メダカすくい, ついでにメダカ, 色付きメダカ
+cluster4:(2)
+講習, メダカ教室
+cluster5:(1)
+ラメ
+cluster6:(1)
+宝メダカすくい
+cluster7:(3)
+自由研究, 体験, 説明体験
+cluster8:(9)
+対応, 努力, 説明, 判断, 事, 手作り感, 仕方, 区別, こと
+cluster9:(13)
+広島, 奇跡, 我が家, 出会い, メダカ, ところ, ダルマ, コース, めだか, スタッフ, ネット, バランス, ヒカリ
+cluster10:(6)
+施設, 子供, 電話, 連休, 土産, 家族
+cluster11:(5)
+最後, 先, 方, 多く, 他
+cluster12:(2)
+種類, 時間
+cluster13:(1)
+口
+cluster14:(1)
+興味
+cluster15:(5)
+体, 腹部, 背骨, 肉, 体光
+
+howmany entities : 63
+howmany clusters : 16
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 16
+deleted 0entities.

@@ -1,0 +1,39 @@
+--------------------similar_words:代々木第一体育館--------------------
+top3 entities near to cluster1>>
+体育館, 観覧席, 催し物
+top3 entities near to cluster2>>
+デザイン, フォルム, メニュー
+top3 entities near to cluster3>>
+コンサート, ライブ, アリーナ
+top3 entities near to cluster4>>
+コラボ, コラボレーション, コラボレート
+top3 entities near to cluster5>>
+気持ち, 気持, キモチ
+top3 entities near to cluster6>>
+スケート, フィギュア, スケーター
+top3 entities near to cluster7>>
+手洗い, トイレ, 手洗
+top3 entities near to cluster8>>
+テレビ, ＮＨＫ, カメラ
+top3 entities near to cluster9>>
+ライブ, ツアー, ショー
+top3 entities near to cluster10>>
+ベンチ, ダブル, コート
+top3 entities near to cluster11>>
+スープ, オニオン, ポタージュ
+top3 entities near to cluster13>>
+大会, 会場, 試合
+top3 entities near to cluster14>>
+歩行, 歩道, 横断
+top3 entities near to cluster15>>
+女子, 男子, 校生
+top3 entities near to cluster16>>
+女性, 男性, 妙齢
+top3 entities near to cluster17>>
+駅, 売店, 駅前
+top3 entities near to cluster18>>
+席, 座席, 立ち見
+top3 entities near to cluster19>>
+建築, 体操, 体育
+top3 entities near to cluster20>>
+駅, 競技, 駅前

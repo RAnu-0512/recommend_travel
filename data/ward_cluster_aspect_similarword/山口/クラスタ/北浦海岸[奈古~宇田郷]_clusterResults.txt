@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北浦海岸[奈古~宇田郷]>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+自然, トンネル, 車, 休日
+cluster1:(2)
+岩山, 海岸
+cluster2:(1)
+国道
+cluster3:(1)
+駐車場
+cluster4:(1)
+阿武町
+cluster5:(1)
+清ケ浜海水浴場
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

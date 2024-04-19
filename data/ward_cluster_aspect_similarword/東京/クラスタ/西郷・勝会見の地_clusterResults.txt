@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西郷・勝会見の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+三田, 江戸, 江戸屋敷, 田町, 幕末
+cluster1:(25)
+ショールーム, ホテル, オフィスビル, 石碑, 場所, 本社, 明け渡し, 会見場所, 話, 距離, 近く, 面影, 人生, 江戸城, 会談, 三菱自動車, 工事, 国道, 見ごたえ, ビル, 徒歩, こと, 浜松町駅, 側, もの
+cluster2:(2)
+無さ, 見学不能
+cluster3:(2)
+政府軍, 総攻撃
+cluster4:(1)
+情報収集能力
+cluster5:(5)
+勝・西郷会談, 薩摩藩屋敷, 薩摩藩, 西郷隆盛, 勝海舟
+
+howmany entities : 40
+howmany clusters : 6
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 6
+deleted 0entities.

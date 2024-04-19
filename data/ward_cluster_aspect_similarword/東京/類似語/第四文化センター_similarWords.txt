@@ -1,0 +1,9 @@
+--------------------similar_words:第四文化センター--------------------
+top3 entities near to cluster0>>
+施設, 情報, イベント
+top3 entities near to cluster1>>
+館内, 図書館, 博物館
+top3 entities near to cluster2>>
+児童, 館, 文学
+top3 entities near to cluster3>>
+情報, 発信, 施設

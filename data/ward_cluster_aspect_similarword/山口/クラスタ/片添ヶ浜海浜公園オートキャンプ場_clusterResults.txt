@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:片添ヶ浜海浜公園オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+片添ヶ浜, 片添ヶ浜海浜公園オートキャンプ場
+cluster1:(2)
+周防大島町, 大島郡
+cluster2:(3)
+山口県, 四国, 広島
+cluster3:(7)
+サンダル, バーベキュー, シーズン, コテージ, キッチン, テント, キャンプ
+cluster4:(5)
+スピード, ところ, スポット, サイト, オススメ
+cluster5:(2)
+言い方, 雰囲気
+cluster6:(9)
+子供, 中, 場所, ココ, 物, ほう, 方, 人, 近く
+cluster7:(4)
+予約, 態度, 個別サイト, 設備
+cluster8:(2)
+温泉施設, 温泉
+cluster9:(2)
+海風, 潮風
+cluster10:(2)
+景色, 景観
+cluster11:(2)
+自然, 環境
+cluster12:(11)
+海水浴シーズン, 風呂, 海水浴, 足, 海水浴客, 砂浜, 夏, 海水, 魚, 海, 山
+cluster13:(9)
+従業員, オートキャンプ場, 駐車場, 冷房完備, 家族連れ, オ-トキャンプ場, 海水浴場, 親戚家族, キャンプ場
+
+howmany entities : 62
+howmany clusters : 14
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 14
+deleted 0entities.

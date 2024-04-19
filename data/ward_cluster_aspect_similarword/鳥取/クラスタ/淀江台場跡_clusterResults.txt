@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淀江台場跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+台場, 御台場
+cluster1:(2)
+淀江台場, 淀江台場跡
+cluster2:(19)
+農民兵, 江戸時代, 大砲, 沿岸防備, 幅, こと, 米子市, 歴史, 高さ, 鳥取藩, 国指定史跡, 来襲, 土塁, 鳥取県, 砲台, 近く, 跡, 農民, 郊外
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

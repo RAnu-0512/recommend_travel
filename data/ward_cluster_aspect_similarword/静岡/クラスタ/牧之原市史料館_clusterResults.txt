@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牧之原市史料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+市, 牧之原市, 隣, 相良, 町
+cluster1:(7)
+歴史, 建物, 資料, 展示, 資料館, わいろ政治, 館内
+cluster2:(3)
+役所・相良庁舎, 静岡鉄道・駿遠線, 田沼意次
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 0entities.

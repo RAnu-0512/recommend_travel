@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リーバイスストア原宿店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+店, スタッフ, ディスプレイ, 理想, 為見, ここ, アメリカンジーンズ, スヌーピー, 気, こっち, 客, 型番, こと, リーバイス, 明治, ジーンズ, デニム, 見た目
+cluster1:(3)
+原宿, 路面店, リーバイスストア原宿店
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

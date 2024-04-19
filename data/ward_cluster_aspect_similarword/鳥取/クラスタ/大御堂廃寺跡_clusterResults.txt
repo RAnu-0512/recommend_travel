@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大御堂廃寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+郡名寺院, 塔心礎, 大御堂廃寺, 久米郡, 大御堂廃寺跡
+cluster1:(3)
+倉吉市, 倉吉駅, 鳥取県
+cluster2:(3)
+寺院跡, 駐車場, 跡
+cluster3:(2)
+山陰, 国府
+cluster4:(2)
+交通, バス
+cluster5:(7)
+場所, 中, ところ, 横, アクセス, 敷地, 久米寺
+cluster6:(1)
+芝生地
+cluster7:(1)
+最古級
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 8
+deleted 0entities.

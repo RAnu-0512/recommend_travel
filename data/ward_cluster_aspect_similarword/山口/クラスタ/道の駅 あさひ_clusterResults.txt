@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 あさひ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+枝, 寿司, 餅
+cluster1:(3)
+農産物, 花芝, スーパー
+cluster2:(2)
+他, もの
+cluster3:(1)
+地元
+cluster4:(4)
+車, 道, 市, 駅
+cluster5:(1)
+休憩
+cluster6:(1)
+山口市
+cluster7:(1)
+大変質
+cluster8:(1)
+農産加工品
+
+howmany entities : 17
+howmany clusters : 9
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 9
+deleted 0entities.

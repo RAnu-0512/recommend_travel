@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石臼塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中野区, 中野坂上駅
+cluster1:(3)
+石臼達, 石臼, 石臼供養
+cluster2:(2)
+塚, 石臼塚
+cluster3:(2)
+製粉業, 機械化
+cluster4:(6)
+心, 物, 境内, 文化財, 江戸時代, 取り計らい
+cluster5:(1)
+古き良きもの
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

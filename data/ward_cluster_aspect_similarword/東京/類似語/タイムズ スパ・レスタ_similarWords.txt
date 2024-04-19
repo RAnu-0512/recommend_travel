@@ -1,0 +1,81 @@
+--------------------similar_words:タイムズ スパ・レスタ--------------------
+top3 entities near to cluster0>>
+雰囲気, 居心地, 気持ち
+top3 entities near to cluster1>>
+プラン, コース, デイプラン
+top3 entities near to cluster3>>
+待ち時間, ポイント, タイミング
+top3 entities near to cluster4>>
+サイズ, 寸法, ツーサイズ
+top3 entities near to cluster5>>
+ボタン, かけちがい, ビューボタン
+top3 entities near to cluster6>>
+ジャグジー, ジェットバス, ジャグジーバス
+top3 entities near to cluster7>>
+マッサージ, ボディケアマッサージ, アロマ・マッサージ
+top3 entities near to cluster8>>
+ゴージャス, ボリューム, ボリューミー
+top3 entities near to cluster9>>
+レストラン, カフェ, シェフズライブキッチン
+top3 entities near to cluster10>>
+コーヒー, カップル, 酔っ払い
+top3 entities near to cluster11>>
+アメニティ, ドライヤー, 歯ブラシ
+top3 entities near to cluster12>>
+フロント, サービス, スタッフ
+top3 entities near to cluster13>>
+ロッカー, ボックス, スイッチ
+top3 entities near to cluster14>>
+テレビ, ランチ, メール
+top3 entities near to cluster15>>
+手ぶら, レスタ, ＡＥＤ
+top3 entities near to cluster16>>
+ラウンジ, サウナ, 飲み物
+top3 entities near to cluster17>>
+夕食, 休み, 昼寝
+top3 entities near to cluster19>>
+制限, 対応, 管理
+top3 entities near to cluster20>>
+共同, 共有, 共用
+top3 entities near to cluster21>>
+整い, 整う
+top3 entities near to cluster22>>
+受付, 接客, 料金
+top3 entities near to cluster23>>
+床, 壁, 床や
+top3 entities near to cluster24>>
+扉, 入口, 入り口
+top3 entities near to cluster25>>
+施設, 設備
+top3 entities near to cluster26>>
+漫画, 映画, 成人
+top3 entities near to cluster28>>
+一度, 回
+top3 entities near to cluster29>>
+近隣, 周辺, 近所
+top3 entities near to cluster30>>
+土水, 土
+top3 entities near to cluster31>>
+他人, 大人
+top3 entities near to cluster32>>
+風呂, 湯船, 浴槽
+top3 entities near to cluster33>>
+専用, 共用
+top3 entities near to cluster34>>
+専用, 女性, 男性
+top3 entities near to cluster35>>
+男女, 共用, 兼用
+top3 entities near to cluster36>>
+同性, 同士, 女性
+top3 entities near to cluster37>>
+女性, 男性, 妙齢
+top3 entities near to cluster38>>
+男性, 女性, 男女
+top3 entities near to cluster39>>
+女性, 男性, 男女
+top3 entities near to cluster40>>
+限定, 女性, 男性
+top3 entities near to cluster41>>
+大勢, 人達
+top3 entities near to cluster42>>
+サウナ, 入浴, 施設

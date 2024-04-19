@@ -1,0 +1,37 @@
+--------------------similar_words:日枝神社(東京都清瀬市)--------------------
+top3 entities near to cluster1>>
+緑, 朱色, 赤
+top3 entities near to cluster2>>
+御利益, ご利益, お参り
+top3 entities near to cluster3>>
+周辺, 駅, 裏手
+top3 entities near to cluster4>>
+神心, 神裏, 神
+top3 entities near to cluster6>>
+期間, 夏休み, 冬休み
+top3 entities near to cluster7>>
+風景, 光景, 景色
+top3 entities near to cluster8>>
+風格, 風情, 趣き
+top3 entities near to cluster9>>
+興味, 趣味, 関心
+top3 entities near to cluster10>>
+印象, 気分
+top3 entities near to cluster11>>
+勧め, 奨め, 薦め
+top3 entities near to cluster12>>
+存在感, 存在, 否め
+top3 entities near to cluster13>>
+参拝, 本殿, 境内
+top3 entities near to cluster16>>
+神社, 境内, 稲荷
+top3 entities near to cluster17>>
+鳥居, 如昌, 大鳥居
+top3 entities near to cluster18>>
+山王, 鳥居, 大鳥居
+top3 entities near to cluster19>>
+鳥居, 山王, くぐる
+top3 entities near to cluster20>>
+猿, 啄城, 落君
+top3 entities near to cluster21>>
+宮, 杉, 神木

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山寺洞明院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+圓流院, 洞明院
+cluster1:(3)
+南岸, 北岸, 南岸側
+cluster2:(4)
+大山寺, 佐陀川, 阿弥陀堂, 全盛期
+cluster3:(2)
+感じ, 多く
+cluster4:(1)
+橋
+cluster5:(2)
+石垣, 奥宮
+cluster6:(3)
+駐車場, 神山神社, 参道脇
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

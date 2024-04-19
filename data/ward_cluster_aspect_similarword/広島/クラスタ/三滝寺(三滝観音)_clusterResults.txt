@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三滝寺(三滝観音)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+在住, 向こう側, 徒歩, 歩道, 駅, 車道
+cluster1:(6)
+時期, 途中, 種類, 物, 場所, 三滝寺自体
+cluster2:(5)
+物言い, 言い方, 雰囲気, 気持ち穏やか, 気持ち
+cluster3:(3)
+方, 感じ, 事
+cluster4:(1)
+注意
+cluster5:(18)
+トイレ, 子供, 三滝寺, 昆虫, 出来事, 音, 帰り道, クチコミ, 男性, 車, マイナスイオン, トカゲ, 人, 他人, お茶屋, 電車, 白糸滝, 自然
+cluster6:(1)
+腑
+cluster7:(15)
+地蔵, 境内, 秋, 納涼スポット, 敷地, 桜, わらび餅, 蚊, 寺, 紅葉, 滝, 町内会, 名所, 夏, 町内
+cluster8:(8)
+駐車場, 広島市, 西区, 路上駐車, 駒ケ滝, 四季折々, 三瀧山, 転勤族
+
+howmany entities : 63
+howmany clusters : 9
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 9
+deleted 0entities.

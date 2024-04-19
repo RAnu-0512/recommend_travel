@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:損保ジャパン本社ビル((旧安田火災ビル)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高層ビル街, 高層ビル
+cluster1:(2)
+新宿高層ビル群, 高層ビル群
+cluster2:(1)
+巨大ビル群
+cluster3:(3)
+損保ジャパン本社ビル, 日本興亜美術館, 損保ジャパン
+cluster4:(2)
+新美術館, 世代
+cluster5:(5)
+ホテル, パンタロン, ライン, デザイン, 西新宿
+cluster6:(3)
+ゴッホ, 美術館オープン, 美術館
+cluster7:(4)
+途中, 中, 別名, 左側
+cluster8:(2)
+片面, 裾
+cluster9:(1)
+死語
+cluster10:(8)
+建設, 本社, 建物, 上階, 全景, 建築デザイン, 閉館, 地下
+cluster11:(6)
+新宿駅, スカートビル, 南口, 西口, 安田火災ビル, パンタロンビル
+cluster12:(1)
+甲州街道
+
+howmany entities : 40
+howmany clusters : 13
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 13
+deleted 0entities.

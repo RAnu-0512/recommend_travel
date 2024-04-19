@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:甘夏みかん狩り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+甘み, 酸味
+cluster1:(2)
+果実, 香り
+cluster2:(5)
+みかん, フレッシュ, みかん狩り, バランス, 夏
+cluster3:(1)
+甘夏
+cluster4:(1)
+初体験
+cluster5:(1)
+もぎたて
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

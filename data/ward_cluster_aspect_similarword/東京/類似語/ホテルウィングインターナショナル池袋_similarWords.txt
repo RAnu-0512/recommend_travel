@@ -1,0 +1,15 @@
+--------------------similar_words:ホテルウィングインターナショナル池袋--------------------
+top3 entities near to cluster0>>
+食事, 夕食, 朝食
+top3 entities near to cluster1>>
+ソーセージ, おにぎり, 食べ物
+top3 entities near to cluster2>>
+カレー, サラダ, おかず
+top3 entities near to cluster3>>
+ランチ, バイキング, ランチタイム
+top3 entities near to cluster4>>
+ホテル, 口コミ, スタッフ
+top3 entities near to cluster5>>
+エッグ, ホット, フード
+top3 entities near to cluster6>>
+食事, 種類, 飲み物

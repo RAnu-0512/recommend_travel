@@ -1,0 +1,41 @@
+--------------------similar_words:渚親水公園・ムーンテラス--------------------
+top3 entities near to cluster0>>
+公園, 親水, 海浜
+top3 entities near to cluster1>>
+海沿い, ホテル, レストラン
+top3 entities near to cluster2>>
+鳥, カモメ, トンビ
+top3 entities near to cluster3>>
+デッキ, ウッド, テラス
+top3 entities near to cluster4>>
+夕方, 昼間, 昼
+top3 entities near to cluster6>>
+地元, 遠い, 遠方
+top3 entities near to cluster8>>
+駅街, 周辺街, 駅, 周辺
+top3 entities near to cluster12>>
+雰囲気, 気持ち, 気持
+top3 entities near to cluster13>>
+気分, 気持, 気持ち
+top3 entities near to cluster15>>
+眺め, 想像
+top3 entities near to cluster19>>
+案内, 補足, 紹介
+top3 entities near to cluster20>>
+遊覧船, 遊覧, 船舶
+top3 entities near to cluster22>>
+恋人, 子供, 同士
+top3 entities near to cluster23>>
+海岸, 海, 砂浜
+top3 entities near to cluster24>>
+魚類, サカナ
+top3 entities near to cluster25>>
+エサ, 餌, えさ
+top3 entities near to cluster27>>
+景色, 景観, 風景
+top3 entities near to cluster29>>
+公園, 遊具, 散策
+top3 entities near to cluster30>>
+散歩, 撮影, 出掛け
+top3 entities near to cluster31>>
+日地, 定休, 日

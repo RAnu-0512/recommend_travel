@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六義園 中の島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大泉水, 大泉水池
+cluster1:(2)
+池, 池畔
+cluster2:(7)
+六義園, 中, 方, 立ち入り, 禁止, 中心, 中の島
+cluster3:(3)
+橋, 島, 小島
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芹沢けい介美術館(「けい」は金偏に圭)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+登呂遺跡, 登呂博物館, 登呂遺跡博物館
+cluster1:(8)
+大原美術館, 静岡, 市立, 県立, 芹沢, 白井晟一, 芹沢けい介, 芹澤
+cluster2:(4)
+敷地, 館内, 空間, 建物
+cluster3:(9)
+博物館, すごさ, ミュージアムショップ, ひとつ, 美術館, アプローチ, 雰囲気, デザイン, のれん
+cluster4:(2)
+時間, 場所
+cluster5:(4)
+目, 彼, 中, 近く
+cluster6:(1)
+模様
+cluster7:(7)
+帯, 着物, 美術, 企画, 旅, 作品, 季節
+cluster8:(1)
+退場
+cluster9:(1)
+良さ
+cluster10:(15)
+美しさ, 駐車場, 展示, 展示物, 展示品, 素晴らしさ, 来館者, 染色, 染色作家, 空間連続性, 記念展, 充実感, 生誕, 展示室, 作品群
+
+howmany entities : 55
+howmany clusters : 11
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 7
+deleted 5entities.

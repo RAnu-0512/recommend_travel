@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中伊豆窯ギャラリーダルシン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+ねり陶芸体験, 陶芸, 作陶, 体験, 陶芸体験, 陶芸家
+cluster1:(12)
+車, 粘土, 皿, 焼き上がり, 暖炉, 窓, 梅, 里山, コーヒーカップふたつ, 花びら型, 花, 景色
+cluster2:(7)
+主人, 奥様, 帰り, 家族, 旅行, 実家, 夫婦
+cluster3:(13)
+個性, 側, もの, 時間, 形, 中, 希望, 量, 話, 先生, 想像, 作品, 色
+cluster4:(13)
+作り方, ロッジ, ログハウス, 初心者, 味わい, 思い出, クチコミ, 笑, 気持ち, アドバイス, 雰囲気, ジョッキ, イメージ
+cluster5:(2)
+完成, 作業
+cluster6:(4)
+とお椀, 皆無事, 私達, 少し先
+
+howmany entities : 57
+howmany clusters : 7
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 6
+deleted 2entities.

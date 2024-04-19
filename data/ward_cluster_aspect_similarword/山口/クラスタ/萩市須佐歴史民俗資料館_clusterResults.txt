@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩市須佐歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+幕末, 歴史, 建物
+cluster1:(2)
+JR, 徒歩
+cluster2:(1)
+資料館
+cluster3:(2)
+山陰本線須佐駅, 長州藩
+cluster4:(1)
+萩市須佐歴史民俗資料館
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

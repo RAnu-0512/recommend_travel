@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:般若院(静岡県熱海市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+古刹, 伊豆山神社, 寺
+cluster1:(12)
+目, 熱海, 足湯, バス停, 文化財, 真言宗, 入口, 国, 木彫り, 手前, 海, スポット
+cluster2:(1)
+高さ
+cluster3:(4)
+肖像彫刻, 彫刻, 別当寺院, 伊豆山権現像
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 1entities.

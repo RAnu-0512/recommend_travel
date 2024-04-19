@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六郷用水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+モデル, 用水路, こと, 間, 技術, 一帯
+cluster1:(2)
+桜, 左
+cluster2:(2)
+遺構, 治水
+cluster3:(3)
+六郷用水, 沼部駅, 多摩川駅
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

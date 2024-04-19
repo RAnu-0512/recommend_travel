@@ -1,0 +1,37 @@
+--------------------similar_words:三原城跡--------------------
+top3 entities near to cluster0>>
+11, 14, 17
+top3 entities near to cluster2>>
+鉄道, 私鉄, 国鉄
+top3 entities near to cluster3>>
+イオン, カード, ジャスコ
+top3 entities near to cluster4>>
+ホテル, 新幹線, 市街地
+top3 entities near to cluster5>>
+天守閣, 縄張り, 天守
+top3 entities near to cluster6>>
+周囲, 子供
+top3 entities near to cluster7>>
+時代, 歴史, 町
+top3 entities near to cluster8>>
+住宅, 見学, モデルハウス
+top3 entities near to cluster9>>
+面影, 名残, 痕跡
+top3 entities near to cluster10>>
+統御, 掌握, 支配
+top3 entities near to cluster11>>
+城, 城跡, 城址
+top3 entities near to cluster12>>
+堀, 掘, 跡
+top3 entities near to cluster14>>
+城址, 公園, 城跡
+top3 entities near to cluster15>>
+街道, 西国, 狐越
+top3 entities near to cluster16>>
+情報場, 情報, 施設
+top3 entities near to cluster17>>
+高架, 複線, 高架線
+top3 entities near to cluster18>>
+駅, 構内, 駅前
+top3 entities near to cluster19>>
+天守, 城跡, 城

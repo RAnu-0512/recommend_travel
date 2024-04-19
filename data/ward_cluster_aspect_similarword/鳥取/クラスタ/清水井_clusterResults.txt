@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水井>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+右, 右方向
+cluster1:(5)
+体, 水, ウムギヒメ, 薬, 命
+cluster2:(3)
+伝説, 八十神たち, 策略
+cluster3:(1)
+清水川神社
+cluster4:(1)
+母乳
+cluster5:(1)
+大国主
+cluster6:(1)
+清水井
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

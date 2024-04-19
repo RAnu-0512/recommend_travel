@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:やすらぎペンション 紙風船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+料理, 子供, ご飯, 露天風呂, 味, コスパ, コース料理, 量
+cluster1:(4)
+内湯, 家族風呂, 熱海, 風呂
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

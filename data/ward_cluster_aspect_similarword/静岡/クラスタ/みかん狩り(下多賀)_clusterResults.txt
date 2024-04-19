@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みかん狩り(下多賀)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+チケット, みかん, 伊豆, 場所, 土産, マイナースポット, 山, ミカン, ところ
+cluster1:(2)
+みかんがり, みかん狩り
+cluster2:(1)
+温泉旅行
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 3entities.

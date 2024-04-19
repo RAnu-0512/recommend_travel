@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+花見スポット, 花見, 花見シーズン, 見頃
+cluster1:(3)
+池, 公園, 橋
+cluster2:(6)
+近く, ピンク, 人, ツツジ, 桜, 時間
+cluster3:(3)
+小島, 鳥居, 竜宮
+cluster4:(1)
+駐車場
+cluster5:(1)
+厳島神社
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

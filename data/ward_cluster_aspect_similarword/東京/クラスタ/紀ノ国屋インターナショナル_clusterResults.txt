@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:紀ノ国屋インターナショナル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高級品, 高級スーパー
+cluster1:(5)
+食品, 肉類, 果物, 食材, ハム類
+cluster2:(2)
+表参道駅, 地下
+cluster3:(4)
+昔, こと, 目, もの
+cluster4:(2)
+チーズ, ワイン
+cluster5:(4)
+カフェ, スーパー, アクセス, 買い物
+cluster6:(2)
+値段, 商品
+cluster7:(1)
+世話
+cluster8:(1)
+外国人
+cluster9:(1)
+Aoビル
+cluster10:(1)
+葉物野菜
+cluster11:(1)
+地下駐車場
+
+howmany entities : 26
+howmany clusters : 12
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 12
+deleted 0entities.

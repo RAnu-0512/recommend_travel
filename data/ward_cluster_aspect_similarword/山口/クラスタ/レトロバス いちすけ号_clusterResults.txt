@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レトロバス いちすけ号>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乗車券, 錦帯橋周遊券
+cluster1:(4)
+岩国駅, 柳井, 岩国, 岩国城
+cluster2:(4)
+値段, 色, 外観, 感じ
+cluster3:(6)
+子供, 錦帯橋, レトロバス, 乗り物, 椅子, セット
+cluster4:(1)
+幸運
+cluster5:(9)
+往復, 旅行, 間隔, バス, 車内, 駅, 列車, 観光, 周辺
+cluster6:(1)
+いちすけ号
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

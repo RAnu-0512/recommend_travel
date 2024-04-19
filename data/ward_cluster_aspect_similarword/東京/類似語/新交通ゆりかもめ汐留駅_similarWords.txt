@@ -1,0 +1,7 @@
+--------------------similar_words:新交通ゆりかもめ汐留駅--------------------
+top3 entities near to cluster0>>
+ゆり, かもめ, 憧花
+top3 entities near to cluster1>>
+駅, 駅前, 電車
+top3 entities near to cluster2>>
+台場, シオサイト, カレッタ

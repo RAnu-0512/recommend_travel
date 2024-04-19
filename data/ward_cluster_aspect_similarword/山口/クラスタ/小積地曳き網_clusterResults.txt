@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小積地曳き網>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小積地引網, 小積地曳き網, 地引網
+cluster1:(7)
+大畠駅, 周防大島町, 山口県, バス, 漁港, 体験, ところ
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ユニクロ 池袋サンシャイン60通り店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+商品, ユニクロ, サンシャインシティ, マネキン, シーズン, 目, ディスプレイコーナー
+cluster1:(2)
+池袋駅, 大型店舗
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

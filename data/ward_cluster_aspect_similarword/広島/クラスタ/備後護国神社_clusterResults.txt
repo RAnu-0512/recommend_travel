@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備後護国神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+備後護国神社, 護国神社
+cluster1:(2)
+慰霊碑, 戦没者
+cluster2:(2)
+福山, 福山城
+cluster3:(2)
+阿部神社, 阿部
+cluster4:(9)
+太平洋戦争, 硫黄島, 家, 戦争, 西側, 境内, メレヨン島, 江戸時代, 神社
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

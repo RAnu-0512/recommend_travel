@@ -1,0 +1,9 @@
+--------------------similar_words:金銅菩薩形立像(満願寺)--------------------
+top3 entities near to cluster0>>
+寺, 霊, 萩
+top3 entities near to cluster1>>
+札所, 廃寺, 霊場
+top3 entities near to cluster2>>
+境外, 仏堂, 境
+top3 entities near to cluster3>>
+霊場, 観音, 国三

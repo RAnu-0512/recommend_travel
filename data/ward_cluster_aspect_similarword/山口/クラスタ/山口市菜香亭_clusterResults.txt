@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口市菜香亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+着物, 建つ元料亭, こと, 抹茶, スポット, 明治維新の元勲, 付近, スタッフ, 茶菓子, 扁額, イベント, 書, 神社, 場所, 茶, 建築物, 料亭, 日本, 菓子, 祭神, 元料亭, 世界, 野田神社, 見ごたえ, 着物体験イベント, 歴史, 豊栄神社, 建物
+cluster1:(7)
+山口県, 井上馨, 木戸孝允, 菜香亭, 毛利敬親, 伊藤博文, 山口市
+
+howmany entities : 35
+howmany clusters : 2
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 2
+deleted 0entities.

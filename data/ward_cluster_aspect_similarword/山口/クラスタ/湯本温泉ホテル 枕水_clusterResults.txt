@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯本温泉ホテル 枕水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+g今回, た.m
+cluster1:(3)
+子供, 自然, 周り
+cluster2:(5)
+ディナー, ホテル, おもてなし, ほう, メニュー
+cluster3:(1)
+休日
+cluster4:(4)
+部屋, 値段, 匂い, 建物
+cluster5:(7)
+風呂, 食事, 肌, 温泉, 朝食, 料理, 宿泊
+cluster6:(3)
+何か, 食べごたえ, 古さ
+cluster7:(1)
+お湯加減
+cluster8:(1)
+昭和レトロ
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 9
+deleted 0entities.

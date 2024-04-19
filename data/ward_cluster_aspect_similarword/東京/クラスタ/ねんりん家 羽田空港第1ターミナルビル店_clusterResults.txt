@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ねんりん家 羽田空港第1ターミナルビル店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大人, 子供
+cluster1:(2)
+バームクーヘン, 羽田空港
+cluster2:(1)
+手土産
+cluster3:(1)
+家
+cluster4:(1)
+土産
+cluster5:(1)
+やわらか芽
+cluster6:(1)
+ねんりん家
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

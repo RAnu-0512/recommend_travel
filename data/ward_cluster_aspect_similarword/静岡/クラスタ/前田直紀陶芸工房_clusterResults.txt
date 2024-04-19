@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:前田直紀陶芸工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+陶芸, 教室生, 陶芸体験, 体験教室
+cluster1:(2)
+空気, 意思
+cluster2:(6)
+まわり, 人, 雰囲気, イメージ, 申し込み, 作品
+cluster3:(3)
+地域, 街, 店
+cluster4:(3)
+教室, 工房, 先生
+cluster5:(1)
+静岡
+cluster6:(1)
+娘たち
+cluster7:(1)
+自由さ
+cluster8:(1)
+電動ろくろ
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 6entities.

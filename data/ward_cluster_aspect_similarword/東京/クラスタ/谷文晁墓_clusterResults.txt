@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:谷文晁墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西浅草, 日本
+cluster1:(4)
+作品, 人, 方, あたり
+cluster2:(1)
+界隈
+cluster3:(1)
+画家
+cluster4:(3)
+墓, 旅, 訪問
+cluster5:(4)
+東上野5, 浅草, 谷, 松
+cluster6:(1)
+寺院巡り
+cluster7:(1)
+出光美術館
+cluster8:(4)
+源空寺, 円山応挙, 江戸時代後期, 東上野六丁目
+cluster9:(3)
+松尾芭蕉しかり宗祇, 谷文晃, 谷文晁墓
+
+howmany entities : 24
+howmany clusters : 10
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 10
+deleted 0entities.

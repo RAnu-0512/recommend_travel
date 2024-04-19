@@ -1,0 +1,7 @@
+--------------------similar_words:宮の前廃寺跡--------------------
+top3 entities near to cluster0>>
+跡, 境内, 遺構
+top3 entities near to cluster1>>
+廃寺, 宮, 跡
+top3 entities near to cluster2>>
+神社, 稲荷, 柯柄

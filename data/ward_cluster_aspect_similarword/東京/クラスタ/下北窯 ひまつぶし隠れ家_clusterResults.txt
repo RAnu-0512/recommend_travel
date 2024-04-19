@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下北窯 ひまつぶし隠れ家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+作品, 教室, 会員, 生徒, 制作, 生活, 体験, 先生, 友人, 講師
+cluster1:(2)
+雰囲気, 隠れ家
+cluster2:(3)
+ふだん, 帰り道, なにか
+cluster3:(4)
+クオリティ, オプション, コース, サイズ
+cluster4:(1)
+色付け
+cluster5:(1)
+下北沢
+cluster6:(1)
+ぐい呑
+cluster7:(12)
+量, 技法, 質問, 感じ, 形, 事, 時間, 方, 説明, 個性, もの, 色
+cluster8:(3)
+小皿, 棚, 宅急便着払い
+cluster9:(8)
+作業台, 料金, テキ, 別料金, 大きさ, 自由度, 教え方, 制作意欲
+cluster10:(10)
+基本粘土, 足し粘土, 陶芸, 小さめご飯茶碗, 釉薬, 粘土, 陶芸体験, 手びねり作品, 餃子タレ皿, 粘土料
+cluster11:(1)
+追加料金追加料金
+
+howmany entities : 56
+howmany clusters : 12
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 12
+deleted 0entities.

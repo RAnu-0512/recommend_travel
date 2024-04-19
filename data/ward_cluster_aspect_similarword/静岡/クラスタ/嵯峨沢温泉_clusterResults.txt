@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:嵯峨沢温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+雨, 年配, 貸切風呂, 朝食, 温泉, 女, 干物, 料理, 値段, バス, 露天風呂つき, 宿, 人, 一軒宿, 家族風呂, 露天風呂, 感じ, 鮎, 食事, 個室, 名旅館, 部屋, 風呂, サービス, 夕食, 温度
+cluster1:(3)
+京風懐石, 嵯峨沢館, 嵯峨沢温泉
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 0entities.

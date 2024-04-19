@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ポーセラーツサロンリブレ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+フラワーストーン作り, 小物, 花, 茶, ドライフラワー, お花, フラワーストーン, 香り
+cluster1:(10)
+作品, 体験, 指導, 作品作り, 先生, 本番, 来店, 作業, 教室, 参加
+cluster2:(29)
+ハーバリウム, ボールペン, 娘, 一軒家, 帰り道, 場所, アロマストーン, 他, ところ, メール, 帰宅, スピード, ピンセット, アロマハイストーン, 母さん, 手作り, 型, 夫, こちらへ, 時間, 今回, 方, 中, 部屋, 物, 空気, 部分, 外観, 店内
+cluster3:(1)
+道順
+cluster4:(1)
+所要時間
+
+howmany entities : 49
+howmany clusters : 5
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 5
+deleted 0entities.

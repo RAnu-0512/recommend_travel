@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆりかもめ テレコムセンター駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+都営バス, ゆりかもめテレコムセンター駅
+cluster1:(10)
+駅, 宗谷, 地図, 海図, ページ, 海上保安庁, 価値, 素手, 日本, 星
+cluster2:(3)
+資料館, 展示物, 閲覧見学
+cluster3:(1)
+海上保安庁海洋情報資料館
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

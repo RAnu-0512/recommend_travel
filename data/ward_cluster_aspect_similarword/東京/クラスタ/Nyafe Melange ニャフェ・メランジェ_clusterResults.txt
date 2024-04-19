@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Nyafe Melange ニャフェ・メランジェ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+猫, 猫ちゃん, 猫ちゃん達, 猫カフェ, 猫たち, ネコちゃん達, 保護猫カフェ, 猫氏
+cluster1:(14)
+値段, 気, ニャフェ, 感じ, 近く, 笑, 名前, 駅, ベッド, 時間, 写真, こと, 愛, 撫
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 2
+deleted 0entities.

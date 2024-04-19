@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正覚寺(東京都目黒区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+東京都, 駒沢通り, 山手通り, 目黒川沿い, 伊達綱宗, 三沢初子, 駅, 目黒駅, 中目黒駅, 伊達藩, 目黒川周辺, 東京メトロ
+cluster1:(7)
+神社, 山門, 創建, 寺院, 寺, 参道, 境内
+cluster2:(4)
+都会, 散策, 散歩, 都心
+cluster3:(2)
+側室, 中目
+cluster4:(10)
+堂, 支援, 裏, 門, 右, そば, 像, 方面, 周辺, 側
+cluster5:(3)
+中目黒エリア, 東京急行電鉄東横線, 中目黒
+cluster6:(2)
+正覚寺, 日蓮宗
+cluster7:(3)
+五反田, 鬼子母神, 日比谷線
+cluster8:(8)
+オススメ, ガソリンスタンド, ところ, こじんまり, 関わり, 街なか, 雰囲気, コース
+cluster9:(1)
+中
+cluster10:(3)
+人, 子供, 地元
+cluster11:(3)
+気, 感じ, 印象
+cluster12:(2)
+場所, アクセス方法
+cluster13:(5)
+改札口, 横断歩道, 歩道, 信号機, 砂利敷き
+cluster14:(1)
+しょうかくじ
+
+howmany entities : 66
+howmany clusters : 15
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 15
+deleted 0entities.

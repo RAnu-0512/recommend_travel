@@ -1,0 +1,9 @@
+--------------------similar_words:山口ワイナリー--------------------
+top3 entities near to cluster0>>
+ブドウ, ワイナリー, ぶどう
+top3 entities near to cluster1>>
+産地, 原産地, 名産
+top3 entities near to cluster2>>
+試飲, テイスティング, ティスティング
+top3 entities near to cluster3>>
+土産, 目的, おみやげ

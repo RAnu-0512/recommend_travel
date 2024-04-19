@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松蔭寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+沼津, 流れ, 原宿, 富士, 臨済宗系, 山門, 原, 古寺, 本堂, 境内, 墓, 墓地, 寺院, 松陰寺, 雰囲気, 住職, 山, 松蔭寺, 大本山, 寺, 駿河
+cluster1:(6)
+白隠禅師, 天祥西堂開山, 白隠宗大本山鵠林山, 白隠, 白隠宗大本山, 鎌倉円覚寺無学祖元
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 2
+deleted 0entities.

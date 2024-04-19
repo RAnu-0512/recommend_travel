@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩ふくや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+萩, 萩ふくや
+cluster1:(4)
+紫, 色, クリーム色, 水色
+cluster2:(13)
+プラン, かんじ, レンタル, スタッフ, 思い出, キックボード, セット, おすすめコーディネート, おすすめ, 組み合わせ, おもちゃ, ピンク, お気に入り
+cluster3:(2)
+着付け, 七五三
+cluster4:(7)
+予約, 撮影, 対応, 変更, 新作, 雑談, 写真
+cluster5:(23)
+中, もの, こと, 機会, 体調, 感謝, 店, 辺, 道, 場所, 全員, 種類, 町, 雨, 時間, 娘, 沢山, 帯, 親子, 笑顔, 模様, 方, コツ
+cluster6:(3)
+髪飾り, ヘアセット, 髪
+cluster7:(2)
+小物, 小物選び
+cluster8:(2)
+体験, 着物体験
+cluster9:(4)
+着物, 下駄, 浴衣, 羽織
+cluster10:(2)
+着物屋, 着物選び
+cluster11:(1)
+被布
+cluster12:(5)
+愉しみ方, 街歩き, 観光地, 乗り方, 駐車場
+
+howmany entities : 70
+howmany clusters : 13
+howmany entities (more than1entities) : 70
+howmany clusters (more than1entities) : 13
+deleted 0entities.

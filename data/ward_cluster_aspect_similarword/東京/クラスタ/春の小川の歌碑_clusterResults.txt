@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:春の小川の歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+歌碑, 歌, 童謡, 碑
+cluster1:(9)
+宇田川, 戦前, 雰囲気, 近く, 代々木公園, 明治, 上流, 神宮, 小川
+cluster2:(5)
+農村風景, 河骨川, 小田急線, 小田急電鉄小田原線, 線路沿い
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

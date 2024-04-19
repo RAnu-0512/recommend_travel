@@ -1,0 +1,9 @@
+--------------------similar_words:西川家別邸(江戸東京たてもの園)--------------------
+top3 entities near to cluster0>>
+別邸, 隠居, 邸宅
+top3 entities near to cluster1>>
+接客, 応対, 業務
+top3 entities near to cluster2>>
+実業家, 実業, 政治家, 政治
+top3 entities near to cluster3>>
+製糸, 会社, 紡績

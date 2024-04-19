@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しょうぶ七福神>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+堀切菖蒲園駅, 堀切菖蒲園
+cluster1:(12)
+途中, 七福神, 神, しょうぶ七福神, 石像, スポット, 利益, 七福神参り, 場所, 風景, 迫力, 高さ
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

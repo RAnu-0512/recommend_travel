@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩よこやまの道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+多摩市, 多摩丘, 多摩よこやま
+cluster1:(2)
+利用者, 解説板
+cluster2:(19)
+途中, 随所, 歴史ロマン, 自然, 多く, ところ, 思い, 道中, 小田急電鉄多摩線, 歩道, 唐木田駅, 信号, 風景, 心地, コース, 古, 部分, 眺望, 史跡
+cluster3:(8)
+散策路, 古道, 尾根道, 一般道, 里山風, 古道跡, 道, よこやまの道
+
+howmany entities : 32
+howmany clusters : 4
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 4
+deleted 0entities.

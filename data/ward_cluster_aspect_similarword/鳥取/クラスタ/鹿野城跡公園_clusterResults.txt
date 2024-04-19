@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿野城跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+鹿野城, 鹿野城跡, 鹿野城跡公園, 鹿野, 鹿野学園
+cluster1:(18)
+時期, 散策, 中, 桜, 方々, 到着, 城下町, 石垣, 公園, 紅葉, 城跡, グランド, 堀, 雰囲気, 本丸跡, 城, 環境, 水面
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

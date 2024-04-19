@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船平山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山頂, 木々, 山
+cluster1:(2)
+列車, 車
+cluster2:(4)
+上, スポット, 見通し, 撮影
+cluster3:(1)
+視界
+cluster4:(4)
+杉の木々, 山口市, SL山口号, 平山
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

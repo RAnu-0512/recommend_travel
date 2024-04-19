@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野大仏>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+正面, 中央, 右, 左, 左側
+cluster1:(3)
+場所, 事, こと
+cluster2:(2)
+人, 男性
+cluster3:(2)
+前, 目
+cluster4:(2)
+中, 方
+cluster5:(1)
+人気
+cluster6:(1)
+神
+cluster7:(18)
+絵馬, パゴタ風, 散策, 建物, 大仏山, 受験生, 上野公園, 胴体, 丘, 大仏殿, 顔, 写真, パゴダ, 災害, 戦争, 受験, 薬師如来蔵, 階段
+cluster8:(3)
+口調, 授与所, 剣幕
+cluster9:(12)
+上野, 菩薩様, 日光菩薩, 東大寺大仏, 月光菩薩, 合格大仏, 薬師如来様, 大仏, 合格祈願, 上野大仏, 鎌倉大仏, 大仏様
+
+howmany entities : 49
+howmany clusters : 10
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 10
+deleted 0entities.

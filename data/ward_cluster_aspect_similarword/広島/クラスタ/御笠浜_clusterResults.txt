@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御笠浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+宮島, 厳島神社, 宮島の大鳥居, 豊国神社, 宮島フェリー, 御笠浜
+cluster1:(2)
+表参道商店街, 商店街
+cluster2:(2)
+干潮時間, 干潮
+cluster3:(31)
+フェリー, フジ, 枝, 下, 鳥居, 風情, 方, ルート, 中央, 夕方, 海沿い, 日, 大吉, 目, 参道, 人, 鹿, 大鳥居, 前, 木, 時間, ツボ, 潮, 近く, 奥, 対岸, こと, 場所, 松, 神社, 表参道
+cluster4:(7)
+記念撮影, 撮影スポット, 修繕, 全景, 写真, 殿造り, 営繕
+cluster5:(4)
+湾, 足場, 船, 桟橋
+cluster6:(2)
+日没, 夕陽
+cluster7:(5)
+砂浜, 浜辺, 海岸, 海, 浜
+cluster8:(1)
+海岸沿い
+cluster9:(2)
+観光客, 石灯篭
+
+howmany entities : 62
+howmany clusters : 10
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 10
+deleted 0entities.

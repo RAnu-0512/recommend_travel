@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:輪光院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+徳山三佛寺, 三佛寺
+cluster1:(2)
+正善院, 輪光院
+cluster2:(2)
+山菜料理, 精進料理
+cluster3:(3)
+地蔵, とお地蔵, 魔よけ開運
+cluster4:(2)
+参道入り口, 石段
+cluster5:(4)
+寺院, 本堂, 山門, 御朱印
+cluster6:(17)
+登山, 動物, 受付, 手, 予約, 徳山, 干支, 数珠, 左手, 右手, 門, 音, 昼食, 宿泊, 食事, 部屋数, 無事
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 7
+deleted 0entities.

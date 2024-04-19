@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東郷湖畔公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+三朝温泉, 東郷温泉, 鳥取県, 東郷湖畔
+cluster1:(12)
+モニュメント, 東郷池, 目, 周り, 前, 目印, 中央, 想像, 気持ち, 雰囲気, それぞれ, 場所
+cluster2:(3)
+車, 駅, 公園
+cluster3:(2)
+天気, 景色
+cluster4:(1)
+広さ
+cluster5:(6)
+足湯, 宿, 湯量, 温泉卵, 温泉, 湯
+cluster6:(7)
+池, 鯉, 湖畔公園, 湖畔, 池畔, 汽水, 湖
+cluster7:(1)
+華慈母観音像
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 8
+deleted 0entities.

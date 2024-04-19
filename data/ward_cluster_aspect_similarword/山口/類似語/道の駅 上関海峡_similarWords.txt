@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅 上関海峡--------------------
+top3 entities near to cluster0>>
+駅道, 駅車, 駅
+top3 entities near to cluster2>>
+半島, 海峡, 先端
+top3 entities near to cluster3>>
+海, 山側, 向こう
+top3 entities near to cluster4>>
+四楼, 海峡, 四

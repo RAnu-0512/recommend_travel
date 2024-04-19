@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狛江市立古民家園(むいから民家園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+桑園, 小田急線, 複々線工事, 和泉村, 近郊農村, 宅地化, 田畑, 江戸時代, 姿, イベント, 建物, 辺り, 狛江駅
+cluster1:(3)
+古民家園, 古民家, 茅葺屋根
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

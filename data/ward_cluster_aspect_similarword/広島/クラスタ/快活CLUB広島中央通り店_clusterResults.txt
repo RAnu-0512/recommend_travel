@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:快活CLUB広島中央通り店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+地区, 目当て, モーニング
+cluster1:(2)
+深夜バス, 広島バスセンター
+cluster2:(1)
+mモーニングのトースト食べ放題
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 3
+deleted 0entities.

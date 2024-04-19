@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩茸石山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, 事
+cluster1:(1)
+見所
+cluster2:(2)
+岩茸石山, イワタケ
+cluster3:(1)
+奥多摩
+cluster4:(1)
+山
+cluster5:(1)
+山頂
+cluster6:(1)
+山々
+cluster7:(1)
+展望
+cluster8:(1)
+標高
+cluster9:(1)
+縦走コース
+cluster10:(1)
+高水三山
+
+howmany entities : 13
+howmany clusters : 11
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 11
+deleted 0entities.

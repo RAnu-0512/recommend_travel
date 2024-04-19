@@ -1,0 +1,53 @@
+--------------------similar_words:奥多摩湖--------------------
+top3 entities near to cluster1>>
+撮影, 写真, 撮る
+top3 entities near to cluster2>>
+休憩, 昼食, 仮眠
+top3 entities near to cluster3>>
+散策, 遠出, 出掛け
+top3 entities near to cluster4>>
+遊歩道, ハイキング, サイクリングロード
+top3 entities near to cluster5>>
+スロープ, スピード, ハイスピード
+top3 entities near to cluster6>>
+ドライブ, ライダー, 仮面ライダー
+top3 entities near to cluster7>>
+ハイキング, トレッキング, ツーリング
+top3 entities near to cluster8>>
+レストラン, エレベーター, エレベータ
+top3 entities near to cluster9>>
+シーズン, シーズンオフ, オフシーズン
+top3 entities near to cluster10>>
+ゴールド, ブラック, ホワイト
+top3 entities near to cluster11>>
+わさび漬け, 山葵漬, わさび
+top3 entities near to cluster12>>
+ドラム缶, 空き缶, バケツ
+top3 entities near to cluster13>>
+まどろみ, 微睡み, 微睡む
+top3 entities near to cluster14>>
+バイク, オートバイ, 自転車
+top3 entities near to cluster16>>
+スリル, スリリング, ドキドキハラハラ
+top3 entities near to cluster17>>
+イオン, マイナス, ジャスコ
+top3 entities near to cluster18>>
+価値, 意義, 付加
+top3 entities near to cluster19>>
+禁止, 厳禁, 事項
+top3 entities near to cluster21>>
+気分, 天気, 楽しい
+top3 entities near to cluster22>>
+模様, 小雨
+top3 entities near to cluster24>>
+景色, 木々, 紅葉
+top3 entities near to cluster25>>
+麦, 山, 松
+top3 entities near to cluster26>>
+湖, 湖畔, 湖岸
+top3 entities near to cluster27>>
+ダム, ダムサイト, 小里川
+top3 entities near to cluster28>>
+緑, 館, ふれあい
+top3 entities near to cluster29>>
+駐車, 道路, 施設

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東綾瀬公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+花見スポット, 花見, 花見客
+cluster1:(7)
+季節, 都心, 桜, 桜並木, 地元, 必要, 週末
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

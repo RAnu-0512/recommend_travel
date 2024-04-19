@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:生田春月碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+記念碑, 日本, 皆生温泉, 白砂青松, 昭和
+cluster1:(6)
+舞台, 中心, 時代, 小説, 詩, 出身
+cluster2:(7)
+松林, 碑, 足湯, 海, 池, 公園, 砂浜
+cluster3:(1)
+相寄る魂
+cluster4:(1)
+冒頭部分
+cluster5:(1)
+環境変化
+cluster6:(10)
+感傷の春, 皆生温泉海浜公園, 相ひ寄る魂, 皆生海浜公園, 米子市, 生田春, 公園海側, 鳥取県, 米子生まれの文人・生田春, 皆生海岸
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

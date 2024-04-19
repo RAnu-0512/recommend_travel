@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高林寺(東京都文京区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駒込駅, 文京区
+cluster1:(2)
+墓地, 墓
+cluster2:(4)
+蓮光寺, 寺院, 寺, 境内
+cluster3:(1)
+大火
+cluster4:(6)
+西隣り, 説明板, 水, 神田, 茶, 東
+cluster5:(3)
+高林寺, 蘭学者, 明暦
+cluster6:(1)
+江戸時代頃
+cluster7:(1)
+緒方洪庵
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

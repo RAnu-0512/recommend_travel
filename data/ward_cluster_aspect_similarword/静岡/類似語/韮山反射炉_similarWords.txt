@@ -1,0 +1,55 @@
+--------------------similar_words:韮山反射炉--------------------
+top3 entities near to cluster0>>
+時間, 日数分, 日数
+top3 entities near to cluster1>>
+補足, 解説, 案内
+top3 entities near to cluster2>>
+情報, 知識, 技術
+top3 entities near to cluster6>>
+見学, 勉強, 観察
+top3 entities near to cluster9>>
+案内, 訪問, 来訪
+top3 entities near to cluster10>>
+ガイド, ガイドブック, 案内
+top3 entities near to cluster11>>
+ビール, 地ビール, 生ビール
+top3 entities near to cluster12>>
+ガイダンス, ビデオ, シート
+top3 entities near to cluster17>>
+タクシー, レンタカー, レストラン
+top3 entities near to cluster20>>
+小学生, 小学校, 中学生
+top3 entities near to cluster21>>
+近代, 幕末, 国内
+top3 entities near to cluster22>>
+子供, 子ども, 大人
+top3 entities near to cluster23>>
+裏手, 隣, 周辺
+top3 entities near to cluster24>>
+大勢, 人達
+top3 entities near to cluster31>>
+時代, ころ, 昔
+top3 entities near to cluster32>>
+家族, 旅, 宿泊
+top3 entities near to cluster34>>
+駅, 駅前, 景色
+top3 entities near to cluster35>>
+韮山, 坦庵, 担庵
+top3 entities near to cluster36>>
+歴史, 建築, 工事
+top3 entities near to cluster39>>
+展望台, 展望, 見晴らし台, 見晴らし
+top3 entities near to cluster40>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster41>>
+施設, 展示, 見学
+top3 entities near to cluster42>>
+土産, 土産物, 名所
+top3 entities near to cluster46>>
+遺産, 世界, 文化
+top3 entities near to cluster48>>
+遺産, 世界, ユネスコ
+top3 entities near to cluster49>>
+遺産, 歴史, 文化
+top3 entities near to cluster51>>
+反射炉, 反射, 原子炉, 原子

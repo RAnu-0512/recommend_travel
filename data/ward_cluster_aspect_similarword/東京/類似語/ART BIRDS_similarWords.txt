@@ -1,0 +1,11 @@
+--------------------similar_words:ART BIRDS--------------------
+top3 entities near to cluster0>>
+飾り物, アクセサリー, 手作り
+top3 entities near to cluster1>>
+猫, 先生, ニャンコ
+top3 entities near to cluster2>>
+工程, 行程, プロセス
+top3 entities near to cluster3>>
+干支, 十二支, 酉
+top3 entities near to cluster4>>
+行事, 恒例, 毎年

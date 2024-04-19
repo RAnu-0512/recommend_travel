@@ -1,0 +1,17 @@
+--------------------similar_words:道の駅 来夢とごうち--------------------
+top3 entities near to cluster1>>
+特産品, 名産品, 特産, 名産
+top3 entities near to cluster3>>
+漬物, 白菜, 味噌
+top3 entities near to cluster5>>
+素材, 風味
+top3 entities near to cluster6>>
+定食, 単品, 大盛り
+top3 entities near to cluster7>>
+鉄板, ビール, 名物
+top3 entities near to cluster8>>
+駅店, 土産物店, 駅, 土産物
+top3 entities near to cluster9>>
+地産, 消, 地場
+top3 entities near to cluster10>>
+塩量, 塩, 塩味

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧呉鎮守府司令長官官舎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建物, 内装
+cluster1:(5)
+いくつか, 内部, 見どころ, マンホールカード, メイン
+cluster2:(1)
+見学
+cluster3:(1)
+明治
+cluster4:(1)
+貸切状態
+cluster5:(1)
+入場料
+cluster6:(1)
+和洋折衷様式の洋館
+cluster7:(5)
+入船山記念館, 司令長官官舎, 呉市, 呉鎮守府, 呉駅
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,47 @@
+--------------------similar_words:芝公園--------------------
+top3 entities near to cluster0>>
+桜, 花見, 芝
+top3 entities near to cluster1>>
+テニス, ラリー, コート
+top3 entities near to cluster2>>
+タワー, ＶｉＸ, 東京タワー
+top3 entities near to cluster3>>
+ライト, ショット, セット
+top3 entities near to cluster4>>
+ランチ, デート, ホテル
+top3 entities near to cluster5>>
+気持ち, 雰囲気, 見通し
+top3 entities near to cluster6>>
+オススメ, おすすめ, お薦め
+top3 entities near to cluster7>>
+見どころ, 見所, ポイント
+top3 entities near to cluster8>>
+レストラン, コラボレーション, ランチ
+top3 entities near to cluster9>>
+手入れ, メンテナンス, ブラッシング
+top3 entities near to cluster12>>
+ビル, 高層, タワービル
+top3 entities near to cluster13>>
+子供, 子ども
+top3 entities near to cluster14>>
+御用, 住, 管理
+top3 entities near to cluster15>>
+昼, 夜, 昼間
+top3 entities near to cluster16>>
+都心, 都会, 道路
+top3 entities near to cluster17>>
+喧騒, 喧噪, 雑踏
+top3 entities near to cluster20>>
+周辺, 近隣, 徒歩
+top3 entities near to cluster21>>
+公園, 景色, 風景
+top3 entities near to cluster22>>
+駅, 駅前, 芝公園
+top3 entities near to cluster23>>
+港, 区, 都
+top3 entities near to cluster24>>
+都立, 芝公園, 都
+top3 entities near to cluster28>>
+公園, 都市, 駅
+top3 entities near to cluster29>>
+地神社, 生誕, 地神

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トリエ京王調布>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+京王電鉄, 調布, 京王調布駅, 調布駅, 成城石井, トリエ京王調布
+cluster1:(5)
+場所, 気, 感じ, 事, 用途
+cluster2:(16)
+ショッピングビル, スタバ, カフェ, ショッピング, 人, ビックカメラ, コーヒーショップ, 都, レストラン, 買い物, 映画, ファッション, ショッピングモール, トリエ, 映画館, 京王線
+cluster3:(3)
+C館, C, 列
+cluster4:(6)
+地上, 階, 建物, 地下, ビル, レストラン街
+cluster5:(6)
+店, 店舗, 開店, 飲食店, 書店, ファッション店舗
+cluster6:(3)
+駅施設スペース, 駅, 駅周辺
+cluster7:(3)
+ショッピング施設, 施設, 商業施設
+
+howmany entities : 48
+howmany clusters : 8
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 8
+deleted 0entities.

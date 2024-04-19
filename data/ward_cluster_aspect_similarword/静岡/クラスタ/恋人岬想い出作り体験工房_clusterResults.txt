@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恋人岬想い出作り体験工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+工房, 思い出作り, ガラス細工, サンキャッチャー作り, 体験, 体験もの, ブレスレット作り, ブレスレット体験, キャンドル作り, 体験工房
+cluster1:(6)
+つくり想い出, 思い出, もの, 笑, 場所, 方
+cluster2:(6)
+最後, 世界, 時間, 上, 中, 間
+cluster3:(1)
+段
+cluster4:(20)
+キラキラ, クーポン, カップル, ブレスレット, キャンドル, 入れ物, クリスタル, パーツ, ストーン, ブレス, 遊歩道, ジェルキャンドル, インテリア, 雰囲気, 輝き, 運動, 石, オススメ, 色, サンキャッチャー
+cluster5:(3)
+恋人, 彼氏, 友達
+cluster6:(3)
+娘, 夫, 子供
+cluster7:(4)
+店員, 品, 予約, 店
+cluster8:(1)
+恋人証明
+cluster9:(4)
+駐車場, 基本料金, 記入スペース, 時間指定
+cluster10:(2)
+恋人岬, 岬
+cluster11:(2)
+子供達, 私達夫婦
+
+howmany entities : 62
+howmany clusters : 12
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 8
+deleted 6entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MoBS黒船ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+展示物, 宝物館, 資料, 企画展示室, 展示品, 記念写真, 展示資料, 資料館
+cluster1:(8)
+興味, 勉強, こと, 方, もの, 様子, 説明, 充実
+cluster2:(3)
+側, 奥, 中心
+cluster3:(11)
+絵, ペリー, ミュージアム, 似顔絵, 日本, 遠眼鏡, からくり, 人, シアター, 子ども, ビデオ
+cluster4:(1)
+寺
+cluster5:(7)
+土産, 撮影, 屋内, 映像, 建物, 施設, 天気
+cluster6:(1)
+ミニシアター
+cluster7:(1)
+学生時代
+cluster8:(6)
+下田, 黒船, 下田条約, 黒船来航, 開国, 了仙寺
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 6
+deleted 3entities.

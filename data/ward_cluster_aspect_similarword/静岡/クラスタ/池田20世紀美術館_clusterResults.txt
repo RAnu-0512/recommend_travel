@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:池田20世紀美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+入館料, 入館券, 入場料
+cluster1:(4)
+ムンク, 美術家, ピカソ, 美術館
+cluster2:(2)
+一碧湖, 伊豆高原
+cluster3:(2)
+カード, しおり
+cluster4:(10)
+アクセス, ロッカー, ミュージアムショップ, コース, ところ, クオリティ, シャガール, こころゆく, 雰囲気, ルノワール
+cluster5:(1)
+コロナ
+cluster6:(1)
+ダリ
+cluster7:(1)
+伊豆
+cluster8:(2)
+荷物, 土産コーナー
+cluster9:(5)
+雨, 客, 館内, バス, 建物
+cluster10:(2)
+訪問, 受付
+cluster11:(3)
+時間, 近く, 場所
+cluster12:(3)
+日本, 人, 中
+cluster13:(1)
+間近
+cluster14:(1)
+心
+cluster15:(9)
+物足りなさ, 方, 条件, 多少, 場合, ガラス越し, 希望, 確認, 意味
+cluster16:(24)
+作品展, 絵, 空き時間, 展示, 読み美, 絵画, 点数, 作品数, 料金設定, 満足感, 写真, 観光地, 画家, 展示作品, 美術, 名作, 説明文, 本数, 作家, 彫刻, 術館, 現代美術, 数, 作品
+cluster17:(1)
+伊豆高原駅→大室山→一碧湖→20世紀美術館→伊豆高原駅
+
+howmany entities : 75
+howmany clusters : 18
+howmany entities (more than3entities) : 61
+howmany clusters (more than3entities) : 8
+deleted 14entities.

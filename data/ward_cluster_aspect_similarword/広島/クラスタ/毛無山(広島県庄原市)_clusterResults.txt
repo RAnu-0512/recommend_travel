@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:毛無山(広島県庄原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+牛曳山登山口, 牛曳山山頂
+cluster1:(3)
+高野町, 広島県, 庄原市
+cluster2:(3)
+涼しさ, 不思議さ, 高さ
+cluster3:(4)
+紅葉, 夕日, 山々, 景色
+cluster4:(4)
+北端, シラカバ林, 木, 山地
+cluster5:(2)
+雪, 道
+cluster6:(13)
+おすすめスポット, ススキ, 雪景色, 車, 友達, 夕方, 中国, 人, 近く, 山, 場所, 夏, 毛無山
+cluster7:(4)
+植物, 空気, 緑, 自然
+cluster8:(1)
+気温
+cluster9:(1)
+牛曳滝
+cluster10:(7)
+家族連れ, 迫力, 気, どこか, 疲れ, 感じ, 気分
+cluster11:(3)
+登山口, 避暑地, 登山
+
+howmany entities : 47
+howmany clusters : 12
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 12
+deleted 0entities.

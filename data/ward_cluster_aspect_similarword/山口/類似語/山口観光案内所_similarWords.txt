@@ -1,0 +1,9 @@
+--------------------similar_words:山口観光案内所--------------------
+top3 entities near to cluster0>>
+改札口, 改札, コンコース
+top3 entities near to cluster1>>
+構内, 駅, 駅前
+top3 entities near to cluster2>>
+案内, 土産, 名所
+top3 entities near to cluster4>>
+案内, 商工, 名所

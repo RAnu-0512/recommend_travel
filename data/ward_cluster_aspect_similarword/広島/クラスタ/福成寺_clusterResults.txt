@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福成寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+東広島駅, 旧道, 山頂, 山道, 標高
+cluster1:(4)
+境内, 寺, 寺院, 本堂
+cluster2:(3)
+敷地, 建物, 看板
+cluster3:(2)
+橋, 池
+cluster4:(32)
+文化財, 歴史, もの, 時期, 真言宗, 花, なげ, 平清盛ゆかり, ゆかり, 地, 奈良, 国, 時代, コンクリート, 福成寺, 仁王門, 雰囲気, 本数, 時間, 他, 東広島, 佇まいシャクナゲ, 天然記念物, 近く, 気持ち, 西条町下三永, こと, 場所, 学生時代, シャクナゲ, 年寄り, ゴルフコース
+cluster5:(4)
+福成寺創建, 開基, 建造物, 指定文化財
+cluster6:(2)
+杉, 夫婦杉
+cluster7:(2)
+巨樹, 巨木
+cluster8:(1)
+仁王像
+cluster9:(1)
+屋根付き橋
+cluster10:(2)
+広島県, 広島県天然記念物指定
+cluster11:(2)
+西条町, 西条盆地
+cluster12:(1)
+樹木天然記念物仏閣建築物
+
+howmany entities : 61
+howmany clusters : 13
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 13
+deleted 0entities.

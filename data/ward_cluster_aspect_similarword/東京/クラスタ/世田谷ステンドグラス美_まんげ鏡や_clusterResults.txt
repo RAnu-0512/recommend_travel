@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:世田谷ステンドグラス美_まんげ鏡や>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+bハーバリウム万華鏡, ハーバリウム万華鏡
+cluster1:(2)
+花材, 華鏡
+cluster2:(2)
+綺麗さ, 大きさ
+cluster3:(4)
+もの, 気, 方, こと
+cluster4:(4)
+人, 他, 友達, 先生
+cluster5:(2)
+種類, 時間
+cluster6:(9)
+ワークショップ, オブジェクト, 花びら, それぞれ, とりどり, 色とりどり, フレンドリー, ハーバリューム, パーツ
+cluster7:(2)
+ハーバリューム万華鏡, 万華鏡
+cluster8:(2)
+ガラス, ガラスオブジェクト
+cluster9:(2)
+構造, 世界
+cluster10:(1)
+プロ
+cluster11:(7)
+ワークショップ体験, 制作, 選び, 体験, 映像, ガラス選び, 作り
+
+howmany entities : 39
+howmany clusters : 12
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 12
+deleted 0entities.

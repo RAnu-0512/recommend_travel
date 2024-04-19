@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:辻のヒガンバナ群生地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 三次市
+cluster1:(16)
+ヒガン, 光景, スペース, もの, 時期, ヒガンバナ, 方, 案の定何, 絨毯, 畑, 小屋, 見ごろ, 看板, バナ, 私有地, 満開
+cluster2:(2)
+ヒガンバナ群生地, 群生地
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

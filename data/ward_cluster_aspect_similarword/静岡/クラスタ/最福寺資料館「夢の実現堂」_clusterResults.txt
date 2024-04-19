@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:最福寺資料館「夢の実現堂」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+遺跡発掘品, 郷土資料, 資料館, 最福寺資料館
+cluster1:(13)
+土肥, 新種, 幕末, 西伊豆, 恋人岬, 枝垂れ桜, 書, しだれ桜, 国道, 手前, 良寛, 方面, 寺
+cluster2:(3)
+山岡鉄舟, 勝海舟・高橋泥舟, 一休禅師
+cluster3:(2)
+伊豆最福, 堂ヶ島
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 2entities.

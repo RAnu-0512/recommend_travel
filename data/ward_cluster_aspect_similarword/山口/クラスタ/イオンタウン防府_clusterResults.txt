@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:イオンタウン防府>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+ショップ, 週末, シューズショップ, 店, イベント, ショッピングモール, ショッピング, ディスカウントストア, ボーリング場, ボーリング, フードコート, ドラッグストア, 買い物, ファッションショップ, ハンバーガーショップ, ロックシティ, 一家
+cluster1:(3)
+カレー専門店, 書店, うどん屋
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

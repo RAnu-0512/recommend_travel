@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スカイ ザ バスハウス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+場所, 海外, 入口, 間, 近く, 東京芸術大学, 常連, 前, ギャラリー
+cluster1:(3)
+建物, 銭湯, 外観
+cluster2:(1)
+寺町
+cluster3:(5)
+谷中霊園, 谷根千, 現代美術専門, 谷中交番, 現代美術
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

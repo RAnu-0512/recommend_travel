@@ -1,0 +1,25 @@
+--------------------similar_words:浜名湖サービスエリア--------------------
+top3 entities near to cluster1>>
+名産品, 品等, 名産
+top3 entities near to cluster2>>
+土産, おみやげ, 土産物
+top3 entities near to cluster6>>
+美味しい, 飲み物, 食べ物
+top3 entities near to cluster7>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster8>>
+価格, 値段, 販売
+top3 entities near to cluster9>>
+駐車場, 駐車, 遊覧
+top3 entities near to cluster10>>
+野菜, 果物, 食材
+top3 entities near to cluster14>>
+散歩, 散策, 天気
+top3 entities near to cluster15>>
+屋台, 売店, フード
+top3 entities near to cluster16>>
+家族, 食事, 旅
+top3 entities near to cluster18>>
+建物, 施設
+top3 entities near to cluster22>>
+茶, ちゃん, ワン

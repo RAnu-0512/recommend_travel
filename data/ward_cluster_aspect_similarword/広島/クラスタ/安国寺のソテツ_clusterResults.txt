@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安国寺のソテツ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+根株, 件, 株, ソテツ, 台風, 印象, 楷, 被害, シロアリ, 木, 門, 安国寺
+cluster1:(3)
+庭園, 安国寺庭園, 本堂裏
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

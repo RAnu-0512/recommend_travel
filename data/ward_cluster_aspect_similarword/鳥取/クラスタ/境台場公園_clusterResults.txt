@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:境台場公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+公園, 木, 季節, 人, 我が家, 多く, 季節はずれ, 桜
+cluster1:(2)
+堺水道大橋, 境港駅
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:敷根公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+散策スポット, 園内, 総合公園, 広場, 公園, 運動施設, 憩い, 施設, 敷根公園
+cluster1:(6)
+運動公園, グラウンド, スポーツ, プール, テニスコート, ウォーキング
+cluster2:(6)
+体, 地域, 地元, 人, 子供, 方
+cluster3:(1)
+下田
+cluster4:(1)
+温水プール
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 2entities.

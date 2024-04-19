@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜名湖パドル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+花, 自然, 植物, 風
+cluster1:(3)
+足, 底, 浅瀬
+cluster2:(21)
+浜名湖, 勉強, レクチャー, パドル, 体調, ガイド, 貸切, こと, 息子, コース, 体験, 無人島, カヤック・SUP, SUP, ツアー, 夜光虫ツアー, 無人島づ, カヤック, 話, 夕暮れカヤックツアー, マリンスポーツ
+cluster3:(4)
+恐怖心, 扱い方, 休憩時間, 鳥居下
+cluster4:(1)
+最後船酔い
+
+howmany entities : 33
+howmany clusters : 5
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 1entities.

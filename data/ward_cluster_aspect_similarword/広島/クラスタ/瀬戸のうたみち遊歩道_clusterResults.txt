@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸のうたみち遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+高見山, 長寿, 立花, 里, 麓, 遊歩道
+cluster1:(3)
+広島県, 尾道市, 国立公園高見山
+cluster2:(1)
+瀬戸のうたみち
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

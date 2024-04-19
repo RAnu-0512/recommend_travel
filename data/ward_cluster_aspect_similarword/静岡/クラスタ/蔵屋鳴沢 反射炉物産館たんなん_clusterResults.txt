@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蔵屋鳴沢 反射炉物産館たんなん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+韮山反射炉, 反射炉, 反射炉ビア, 反射炉観光, 反射炉物産館
+cluster1:(3)
+製造工場とお茶畑, 茶摘み, 茶摘み体験
+cluster2:(36)
+飲み比べ, 駐車場, 茶, お隣, 隣, ソーセージ, レストラン, ビール, こと, かすり, 見学, 横, 写真, 着物, 人, 野菜, 席, 店, 伊豆, 時間, 富士山, 地ビール, 韮山, 食事, 茶畑, ソフトクリーム, 子ども, 建物, 焼肉, ビデオ, 土産物, 前, 衣装, オススメ, 天気, 親子
+cluster3:(4)
+物産館, 世界遺産, 観光客, 地場産品
+cluster4:(4)
+土産, 土産ショップ, 土産売り場, お土産屋
+cluster5:(3)
+パン, パン祖, 菓子類
+cluster6:(1)
+清涼感
+cluster7:(1)
+蔵屋鳴沢
+
+howmany entities : 57
+howmany clusters : 8
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 6
+deleted 2entities.

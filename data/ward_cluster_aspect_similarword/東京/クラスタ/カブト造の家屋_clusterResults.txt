@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カブト造の家屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+檜原村, 日本秘湯
+cluster1:(21)
+昔武士, 場所, バス停, 会, 家, 東京, 時代, 形, 近年, 名前, 休止状態, 活発, 時期, 活動, JR五日市線, 終点, 連休, こと, バス, 会会員, もてなし
+cluster2:(2)
+兜, 兜造り
+cluster3:(4)
+旅館, 宿, 荘, 湯
+cluster4:(4)
+母屋, 屋根, 家屋, 茅葺き屋根
+cluster5:(1)
+茅葺屋根
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 6
+deleted 0entities.

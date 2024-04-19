@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:波しぐれ三度笠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+神戸海援隊, 神戸メリケン波止場, 菊港, ニューヨーク世界貿易センター, 神戸, 突堤, 鳥取県, 赤碕
+cluster1:(20)
+有名, 作品, 作品名, 海, 荒波, 夏, こと, 事, 彫刻家, 先端, 説明書き, 駐車場, 鳴り石, 石像, 彫刻家流, 方, 建築雑誌, 日本海, 流, 田舎町
+
+howmany entities : 28
+howmany clusters : 2
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 2
+deleted 0entities.

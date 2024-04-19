@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三朝町総合スポーツセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+所, 地元, ポール, スポーツ, 人, 感じ, 体育館, トレーニングルーム, 観光スポット, 場所
+cluster1:(3)
+三朝温泉, 三朝町総合スポーツセンター, 三朝町
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

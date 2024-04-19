@@ -1,0 +1,5 @@
+--------------------similar_words:東京メトロ青山一丁目駅 銀座線・半蔵門線--------------------
+top3 entities near to cluster0>>
+外苑, 神宮, 丁目
+top3 entities near to cluster2>>
+都心線, 環状線, 都心, 環状

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白滝山(山口県岩国市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高さ, 美しさ
+cluster1:(4)
+新緑, 紅葉シーズン, 紅葉, 緑
+cluster2:(3)
+景色, 視界, 眺め
+cluster3:(7)
+秋, 季節, 名前, 開始, 場所, 途中, 時期
+cluster4:(9)
+自然, 空気, 森林浴, 初心者, おすすめ, さえずり, 鳥, 絵葉書, 山
+cluster5:(1)
+快感
+cluster6:(7)
+登山, 山頂, 白滝山, 岩, 尾根, 観光地, あざらし岩
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

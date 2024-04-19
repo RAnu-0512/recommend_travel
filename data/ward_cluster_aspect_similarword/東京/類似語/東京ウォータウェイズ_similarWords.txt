@@ -1,0 +1,11 @@
+--------------------similar_words:東京ウォータウェイズ--------------------
+top3 entities near to cluster0>>
+乗船, 出航, 出港
+top3 entities near to cluster1>>
+大勢, 船上, お客
+top3 entities near to cluster2>>
+靴, 洋服
+top3 entities near to cluster3>>
+濡れ, 濡れる
+top3 entities near to cluster4>>
+駅, 北品川, ビルアトレ

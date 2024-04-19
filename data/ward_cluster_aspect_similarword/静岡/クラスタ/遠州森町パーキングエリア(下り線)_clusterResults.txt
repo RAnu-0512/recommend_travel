@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遠州森町パーキングエリア(下り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+トイレ休憩, ドライブ疲れか
+cluster1:(7)
+静岡, 森町, 左, 右側, 新東名高速道路, 奥, 手前
+cluster2:(2)
+途中, 時期
+cluster3:(2)
+つもり, 気持ち
+cluster4:(7)
+デイリーヤマザキ, パーキング, パリパリ, コンビニ, ジュース, サービス, トウモロコシ
+cluster5:(2)
+入り口, トイレ
+cluster6:(1)
+ランプ
+cluster7:(1)
+子供
+cluster8:(8)
+フードコート, 情報, 小物, サービスエリア, 建物, パーキングエリア, 環境, エリア
+cluster9:(7)
+茶, 花火, 菓子, 緑, おみやげ物, わさび味, 土産物店
+cluster10:(6)
+駐車場, 京友禅, 番傘風パラソル, 宿場町, 食感, お土産屋
+cluster11:(1)
+静岡土産のバリ勝男
+
+howmany entities : 46
+howmany clusters : 12
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 5
+deleted 11entities.

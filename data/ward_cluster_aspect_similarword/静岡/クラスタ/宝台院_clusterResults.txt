@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝台院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+徳川慶喜, 徳川家
+cluster1:(2)
+将軍秀忠, 家康側室
+cluster2:(14)
+謹慎, 愛, 白本尊, 菩提寺, 御朱印, 地, 黒本尊, 拝観時間, 関連, 宝台院, 拝観, 墓, 駿府, 方
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 4entities.

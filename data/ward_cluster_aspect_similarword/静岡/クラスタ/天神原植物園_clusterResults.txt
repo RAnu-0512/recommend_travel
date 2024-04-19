@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天神原植物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+里, スポット, ひとつ, 見ごたえ, 植物, ドライブ, 空間, 南伊豆町, 花, ササユリ, 別名, 家族
+cluster1:(4)
+栽培, 植物園, 移植栽培, 天神原植物園
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

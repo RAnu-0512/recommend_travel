@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江の川second>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+島根県, 広島県, 三次市, 岡山県
+cluster1:(2)
+中国太郎, 太郎
+cluster2:(6)
+もの, 注意, 気, 流れ, 工夫, こと
+cluster3:(4)
+地方, 日本, 中国, 全国
+cluster4:(5)
+歴史, 間, 周囲, 古く, 側
+cluster5:(4)
+施設, 放送, 道路, 場所
+cluster6:(15)
+小さめ, 雨, 江の川, 水, 海, 空気, 広島湾, 山, 気持ち, 三江線, 自然, こども, 江, 日本海, アドバンテージ
+cluster7:(4)
+車窓, 景色, 景観, 風景
+cluster8:(2)
+山々, 山地
+cluster9:(1)
+鉄路
+cluster10:(1)
+花火大会
+cluster11:(13)
+水害, 蛇行, ここ三次, 河川, 一級河川, 川, 流域, この川, 氾濫, 上流, 流域面積, 被害, 川沿い
+
+howmany entities : 61
+howmany clusters : 12
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 12
+deleted 0entities.

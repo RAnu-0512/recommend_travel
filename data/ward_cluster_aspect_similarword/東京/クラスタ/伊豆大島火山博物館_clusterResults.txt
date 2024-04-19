@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆大島火山博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示物, 展示
+cluster1:(11)
+場所, 感じ, 迫力, 影響, 被害, 様子, 撮影, 写真, 勉強, 禁止, 資料
+cluster2:(2)
+上映, 映画
+cluster3:(5)
+コロナ, シミュレータ, 成り立ち, 博物館, 三原山
+cluster4:(2)
+歴史, 世界
+cluster5:(1)
+館内
+cluster6:(1)
+地球
+cluster7:(1)
+別料金
+cluster8:(4)
+伊豆大島, 噴火, 火山, 火山噴火
+
+howmany entities : 29
+howmany clusters : 9
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 9
+deleted 0entities.

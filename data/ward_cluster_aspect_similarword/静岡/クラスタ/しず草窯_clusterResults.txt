@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しず草窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+皿, 小皿, 釉薬, 色, 丼, 煮物, ご飯茶碗, 小鉢, 色味
+cluster1:(3)
+伊豆旅行, 白浜ブルー, 伊豆
+cluster2:(9)
+主人, 夫婦, 娘, 子供, 奥様, 家族, 息子, 夫, 友人
+cluster3:(2)
+旅行, 結婚
+cluster4:(1)
+子供達
+cluster5:(4)
+山奥, 山道, 台風, 道
+cluster6:(15)
+終わり, 仕上がり, マグカップ, 湯呑み, 南伊豆, 思い出, 想い出, サラダ, 想い出づくり, ウキウキ, 箸置き, イメージ, とっくり, 湯飲み, 色合い
+cluster7:(4)
+手配, 引っ越し予定, 予定, 機会
+cluster8:(7)
+時間, 家, 土, 自宅, 場所, 作業, 度
+cluster9:(2)
+物, 作品
+cluster10:(2)
+模様, 形
+cluster11:(6)
+最後, 勿論, 方, もの, 感じ, こと
+cluster12:(5)
+箱, 文言, 器, 記念, 看板
+cluster13:(9)
+感謝, 感動, 先生方, 手びねり, 手, 人柄, 会い, 先生, 手紙
+cluster14:(9)
+陶芸, 初体験, 陶芸家, ねり体験, 陶芸制作, ろくろ体験, ろくろ, 体験, 陶芸体験
+
+howmany entities : 87
+howmany clusters : 15
+howmany entities (more than3entities) : 80
+howmany clusters (more than3entities) : 11
+deleted 7entities.

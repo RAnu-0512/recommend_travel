@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丈島のフリージア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+花畑, フリージア畑, チューリップ畑
+cluster1:(8)
+カフェ, プリン, 八丈島, フリージア, アートフェスティバル, スポット, SNS, ふもと
+cluster2:(2)
+花, 色
+cluster3:(6)
+まつり, フリージア祭り, 摘み取り体験, フリージア祭, フリージアまつり, 満開
+cluster4:(1)
+ジャージー牛乳
+cluster5:(1)
+当地グルメ
+cluster6:(1)
+花摘み
+cluster7:(1)
+八丈富士
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

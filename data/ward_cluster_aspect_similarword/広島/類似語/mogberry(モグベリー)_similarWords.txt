@@ -1,0 +1,9 @@
+--------------------similar_words:mogberry(モグベリー)--------------------
+top3 entities near to cluster0>>
+ハウス, イチゴ, いちご
+top3 entities near to cluster1>>
+イス, 椅子, グレ
+top3 entities near to cluster2>>
+品種, 産地, 原種
+top3 entities near to cluster3>>
+受付, 予約, 会場

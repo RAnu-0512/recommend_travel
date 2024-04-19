@@ -1,0 +1,21 @@
+--------------------similar_words:四階楼--------------------
+top3 entities near to cluster0>>
+駅道, 駅, 駅前
+top3 entities near to cluster1>>
+外観, 建物, 内部
+top3 entities near to cluster2>>
+昔, 大昔, 以前
+top3 entities near to cluster3>>
+雰囲気, 仕掛け, 手入れ
+top3 entities near to cluster4>>
+よう, わけ
+top3 entities near to cluster5>>
+名無し, フルネーム
+top3 entities near to cluster6>>
+随所, 所々, 端々
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster8>>
+洋風, 和風, 西洋
+top3 entities near to cluster9>>
+海峡, 駅, ドラマシップ

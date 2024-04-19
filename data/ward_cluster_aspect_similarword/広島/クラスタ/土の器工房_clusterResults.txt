@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土の器工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+陶芸初体験, 作品作り, 体験, 陶芸体験, 作り体験, 体験コース, ねり体験
+cluster1:(3)
+かなー, 楽しさ, 達成感
+cluster2:(4)
+完成作品, 完成, 送迎, 発送
+cluster3:(2)
+温かみ, 雰囲気
+cluster4:(4)
+コーヒー, 持ち物, 飲み物, 思い出
+cluster5:(2)
+初心者, 作り方
+cluster6:(2)
+出来上がり, 仕上がり
+cluster7:(2)
+スタッフ, サポート
+cluster8:(2)
+おすすめ, それぞれ
+cluster9:(1)
+アトリエ
+cluster10:(1)
+大きめ
+cluster11:(1)
+コース
+cluster12:(1)
+作業場
+cluster13:(1)
+上がり
+cluster14:(31)
+もの, 最後, 電話, 車, 休み, 人, 部屋, 行き方, 皿, 方, 世界, 形, 満足, 場所, コツ, 風, 中, 話, 思い, 緊張, 個性, 部分, 経験, 空気, 土, 時間, 道, 作品, こと, 順番, 裏
+cluster15:(3)
+茶室, 工房, 陶芸
+cluster16:(2)
+夫婦, 家族
+cluster17:(2)
+主人, 息子
+cluster18:(3)
+友人, 先生, 友達
+cluster19:(1)
+小学
+cluster20:(7)
+色, 色味, 子供達, 子供たち, 器づくり, 焼き上がり, 器
+cluster21:(2)
+ろくろ体験, ろくろ
+cluster22:(2)
+電動ろくろ, 電動ろくろ体験
+cluster23:(2)
+感触 電動ロクロ体験 器, 電動ロクロ体験
+
+howmany entities : 88
+howmany clusters : 24
+howmany entities (more than1entities) : 88
+howmany clusters (more than1entities) : 24
+deleted 0entities.

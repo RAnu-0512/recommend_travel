@@ -1,0 +1,15 @@
+--------------------similar_words:湯島天満宮の梅--------------------
+top3 entities near to cluster0>>
+境内, 参道, 石段
+top3 entities near to cluster1>>
+下旬, 日, 月
+top3 entities near to cluster2>>
+見頃, 満開, 名所
+top3 entities near to cluster3>>
+天神, 神, 軍団
+top3 entities near to cluster4>>
+風情, 季節, 香り
+top3 entities near to cluster5>>
+露店商, 露天商, 露店, 露天
+top3 entities near to cluster6>>
+梅, 桜, 白梅

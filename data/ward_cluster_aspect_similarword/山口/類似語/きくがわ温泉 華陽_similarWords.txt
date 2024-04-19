@@ -1,0 +1,11 @@
+--------------------similar_words:きくがわ温泉 華陽--------------------
+top3 entities near to cluster1>>
+建物, 価格, 町
+top3 entities near to cluster2>>
+混雑, 小雨, 土砂降り
+top3 entities near to cluster3>>
+肌, ソープ, ボディー
+top3 entities near to cluster4>>
+料金, 宿泊, 休憩
+top3 entities near to cluster5>>
+温泉, 湯, 露天風呂

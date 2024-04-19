@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:智満寺の十本杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+車, パワースポット, 天台宗, 地元, 感覚, 看板, パワー, 工事, それぞれ, ところ, 神社, 境内, オーラ, 上, 中, 東海道, 本線, 寺, 千葉山
+cluster1:(4)
+本杉, 杉, 大杉, 大木
+cluster2:(2)
+熱海, 島田駅
+cluster3:(1)
+倒木多数
+cluster4:(2)
+智満寺, 来宮神社
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 5entities.

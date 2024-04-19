@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小平神明宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+迷惑, 行為, 口調, 叱責, 態度, 作法
+cluster1:(3)
+子供, 家族, 両親
+cluster2:(4)
+東西, 下, 社, 横
+cluster3:(13)
+最後, 不慣れ, 気, 気持ち, ところ, レベル, 無愛想, 感じ, 子, 方, こと, 受付, 雰囲気
+cluster4:(8)
+神社, 子どもお宮参り, 本殿, 写真館, 宮司, 参道, お宮参り, 境内
+cluster5:(2)
+初宮詣, 初穂料
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 6
+deleted 0entities.

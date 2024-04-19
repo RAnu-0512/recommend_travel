@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石川島公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(36)
+季節, 春, タワーマンション, 場所, 散策路, 散策, 景色, 面積, 花, 人, ジョギング, 散歩コース, 緑, 隅田川, 気持ち, 紅葉, ライトアップ, 新緑, 散歩, 中央大橋, 秋, スカイツリー, 時期, 天気, 相生橋, 季節感, 時間, 出勤, 越中島, 桜, スポット, 子供たち, 雰囲気, 地元, 釣り人, 夜景
+cluster1:(10)
+佃, 東京都, 永代橋, 豊春運河, 月島駅, 駅, 佃公園, 東京駅, 中央区, 墨田川
+cluster2:(3)
+公園川沿い, 川沿い, 隅田川沿い
+cluster3:(3)
+水辺公園, 公園, 河川公園
+cluster4:(2)
+石川島公園, 石川時公園
+cluster5:(1)
+隅田川花火大会
+cluster6:(1)
+中央区立公園
+
+howmany entities : 56
+howmany clusters : 7
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 7
+deleted 0entities.

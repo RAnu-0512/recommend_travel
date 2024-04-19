@@ -1,0 +1,49 @@
+--------------------similar_words:ゲートシティ大崎--------------------
+top3 entities near to cluster0>>
+商業, 複合, 施設
+top3 entities near to cluster1>>
+開放感, 高揚感, 開放, 高揚
+top3 entities near to cluster2>>
+カフェ, レストラン, ホテル
+top3 entities near to cluster3>>
+ゲート, シティ, シティー
+top3 entities near to cluster4>>
+タワー, マンション, イースト
+top3 entities near to cluster5>>
+フリー, エリア, スペース
+top3 entities near to cluster6>>
+ライブ, ライヴ, コンサート
+top3 entities near to cluster7>>
+ティー, タイム, スター
+top3 entities near to cluster8>>
+どき, お昼, ご飯
+top3 entities near to cluster9>>
+電気屋, 電気, 地下
+top3 entities near to cluster10>>
+繁華街, 繁華
+top3 entities near to cluster12>>
+ビル, 高層, オフィス
+top3 entities near to cluster13>>
+環状線, りん, 環状
+top3 entities near to cluster14>>
+改札口, 改札, コンコース
+top3 entities near to cluster15>>
+直結, 駅, 徒歩
+top3 entities near to cluster16>>
+駅, 周辺, 駅前
+top3 entities near to cluster17>>
+東口, 南口, 北口
+top3 entities near to cluster18>>
+飲食店, 飲食, レストラン
+top3 entities near to cluster19>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster20>>
+開発, 建設, 構築
+top3 entities near to cluster21>>
+利用, 利用者, 使用者, 使用
+top3 entities near to cluster22>>
+施設, 設備, 敷地
+top3 entities near to cluster23>>
+建物, 家屋
+top3 entities near to cluster24>>
+機関員, 会社員, 機関, 会社

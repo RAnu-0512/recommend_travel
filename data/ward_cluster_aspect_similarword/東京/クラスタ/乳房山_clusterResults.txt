@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乳房山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+母島最高峰, 母島全体, 小笠原村母島, 母島諸島, 母島, 父島諸島
+cluster1:(2)
+東廻り, 西廻り
+cluster2:(7)
+疲れ, ハイキング感覚, 褒美, 気分, 楽し, 空気, 子供たち
+cluster3:(5)
+山, 島, 海岸, 海, 南
+cluster4:(2)
+自然, 植物
+cluster5:(2)
+森, 緑
+cluster6:(22)
+鉄板, 途中, 初心者, 乳房山, 最高峰, 小笠原, 場所, 乳房, ハイキングコース, コラボ, クレヨン, 間, 固有, マーク, ツアー, 影響, 遊歩道, 全景, 写真, コース, ハイキング, 小笠原諸島
+cluster7:(10)
+景色, 山頂, 標高, 絶景, 山道, 天気, 景観, 戦跡, 頂上, 観光協会
+cluster8:(1)
+地層崩れ
+cluster9:(5)
+たーー笠原村, 登山口, 登山道, 登頂証明書, 登山
+
+howmany entities : 62
+howmany clusters : 10
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 10
+deleted 0entities.

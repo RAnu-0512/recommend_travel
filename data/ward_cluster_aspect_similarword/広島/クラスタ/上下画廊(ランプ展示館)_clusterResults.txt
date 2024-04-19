@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上下画廊(ランプ展示館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雰囲気, ランプ
+cluster1:(1)
+人
+cluster2:(1)
+作品
+cluster3:(1)
+人気
+cluster4:(1)
+天井
+cluster5:(1)
+高さ
+cluster6:(1)
+上下画廊
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

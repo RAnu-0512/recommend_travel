@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:洗足池公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中原街道, 東急池上線
+cluster1:(18)
+桜山, 夜桜, 池, 中心, まわり, 公園, 人, 子供, 木, 近く, 花見, 名所, 屋台, 露店, 食べ物, 出店, 宴会, スタイル
+cluster2:(3)
+桜満開, 桜, 満開
+cluster3:(3)
+季節, 時期, 咲く時期
+cluster4:(4)
+洗足池公園, 洗足池公園の桜, 洗足池駅, 勝海舟記念館
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 5
+deleted 0entities.

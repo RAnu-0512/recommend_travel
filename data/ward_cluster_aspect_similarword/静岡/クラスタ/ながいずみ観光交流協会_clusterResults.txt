@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ながいずみ観光交流協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊豆半島ジオパーク, ジオパーク
+cluster1:(2)
+アクセス, スペース
+cluster2:(3)
+もの, 建物, 場所
+cluster3:(1)
+黄色
+cluster4:(1)
+コミュニティながいずみ
+cluster5:(4)
+駅, 長泉, 下土狩駅, JR御殿場線
+cluster6:(1)
+三島溶岩流
+cluster7:(6)
+ながいずみ観光交流協会, いずみ観光交流協会, 観光スポット, 長泉町役場 コミュニティながいずみ, 観光協会, 観光案内所
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 7entities.

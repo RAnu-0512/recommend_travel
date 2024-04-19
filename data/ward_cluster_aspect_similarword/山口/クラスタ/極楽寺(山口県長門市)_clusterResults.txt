@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:極楽寺(山口県長門市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+美術館, 極楽寺, 近く
+cluster1:(2)
+全部, 写真
+cluster2:(1)
+名前
+cluster3:(2)
+寺, 杉
+cluster4:(1)
+遍路
+cluster5:(1)
+投句
+cluster6:(2)
+徳島県, 長命杉 弘法大師
+cluster7:(1)
+うず潮 八十八
+
+howmany entities : 13
+howmany clusters : 8
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 8
+deleted 0entities.

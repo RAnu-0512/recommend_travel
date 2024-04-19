@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三ヶ日桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 駐車
+cluster1:(3)
+桜, 満開, 名所
+cluster2:(2)
+峰, 頂上
+cluster3:(7)
+人, こと, ピンク, 場所, 浜名湖, オレンジロード, 花
+cluster4:(1)
+凜
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 5entities.

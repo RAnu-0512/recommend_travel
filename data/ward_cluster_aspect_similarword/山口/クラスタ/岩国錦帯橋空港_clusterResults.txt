@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩国錦帯橋空港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+羽田, 空港
+cluster1:(5)
+アクセス, 賑わい, 写真, 飛行機, 広島空港
+cluster2:(2)
+事, 利用
+cluster3:(1)
+行列
+cluster4:(1)
+広島市
+cluster5:(1)
+駐車場
+cluster6:(1)
+お土産屋
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

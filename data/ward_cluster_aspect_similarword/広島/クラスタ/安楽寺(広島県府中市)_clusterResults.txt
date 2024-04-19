@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安楽寺(広島県府中市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+府中市, 府中駅
+cluster1:(4)
+境内, 参道, 本殿, 本堂
+cluster2:(3)
+寺, 別名さつき寺, さつき寺
+cluster3:(5)
+駐車場, 観光地, 日本庭園, 庭園, さつき庭園
+cluster4:(12)
+おすすめ, 色とりどり, ところ, オススメ, 安楽寺, 目当て, さつきまつり, ツツジ, さつき, 気持ち, バス, 見ごたえ
+cluster5:(11)
+もの, 時期, 季節, 方, 傍, 別名, 位置, 人, 多く, こと, 場所
+cluster6:(8)
+桜, 花, 色, 植物, 景色, 草花, 絵, 満開
+cluster7:(2)
+四季折々, 季節感
+cluster8:(1)
+───O
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 9
+deleted 0entities.

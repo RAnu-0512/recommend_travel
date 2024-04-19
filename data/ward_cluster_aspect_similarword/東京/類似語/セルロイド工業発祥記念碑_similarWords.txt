@@ -1,0 +1,9 @@
+--------------------similar_words:セルロイド工業発祥記念碑--------------------
+top3 entities near to cluster0>>
+工業, 工場, 産業
+top3 entities near to cluster1>>
+歴史像, 歴史, 町並み
+top3 entities near to cluster2>>
+公園, 北江古田, 抽斎
+top3 entities near to cluster3>>
+記念碑, 記念, 発祥

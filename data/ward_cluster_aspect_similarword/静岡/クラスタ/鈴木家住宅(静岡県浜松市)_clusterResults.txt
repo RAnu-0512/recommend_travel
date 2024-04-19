@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鈴木家住宅(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鈴木, 鈴木家
+cluster1:(5)
+民家, 家, 釜屋, 屋根, 住宅
+cluster2:(1)
+国重要指定住宅
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:地福梨組合_なし--------------------
+top3 entities near to cluster0>>
+梨, 沙ゆり, 旺走
+top3 entities near to cluster2>>
+試食, 園内, 館内
+top3 entities near to cluster3>>
+贈答, 進物, 歳暮
+top3 entities near to cluster4>>
+梨園, 農家, 果樹
+top3 entities near to cluster5>>
+福地, 福, 聚寺
+top3 entities near to cluster6>>
+入園料, 入場料, 入園, 入場

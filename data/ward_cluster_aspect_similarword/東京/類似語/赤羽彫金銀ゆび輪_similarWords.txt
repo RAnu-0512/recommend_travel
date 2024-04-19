@@ -1,0 +1,11 @@
+--------------------similar_words:赤羽彫金銀ゆび輪--------------------
+top3 entities near to cluster0>>
+彫金, 鍛金, 陶芸
+top3 entities near to cluster1>>
+体験, 教室, レッスン
+top3 entities near to cluster2>>
+時間, 工程, 作業
+top3 entities near to cluster4>>
+純銀, 指輪, 銀
+top3 entities near to cluster5>>
+ペア, 槌

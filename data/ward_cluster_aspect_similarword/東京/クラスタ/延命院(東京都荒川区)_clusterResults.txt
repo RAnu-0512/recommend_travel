@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:延命院(東京都荒川区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+手前, 右手, 天然記念物, 夕焼けだんだん, シイ, 門, 木, 日蓮宗, 日暮里駅, 樹, 都, 西, 問い合わせ, 椎, 方向
+cluster1:(2)
+寺院, 寺
+cluster2:(2)
+山門, 境内
+cluster3:(1)
+創建
+cluster4:(1)
+営業時間
+cluster5:(1)
+延命院
+cluster6:(1)
+谷根千エリア
+cluster7:(1)
+谷中ぎんざ商店街
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 8
+deleted 0entities.

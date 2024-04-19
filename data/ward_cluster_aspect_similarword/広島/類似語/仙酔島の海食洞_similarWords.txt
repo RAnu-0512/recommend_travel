@@ -1,0 +1,13 @@
+--------------------similar_words:仙酔島の海食洞--------------------
+top3 entities near to cluster0>>
+海食, 海蝕, 洞
+top3 entities near to cluster1>>
+岩, 奇岩, 洞
+top3 entities near to cluster2>>
+興味, 関心
+top3 entities near to cluster3>>
+海, 島, 自然
+top3 entities near to cluster4>>
+波浪, 風波, 風浪
+top3 entities near to cluster5>>
+浸食, 作用, 侵食

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:namida_works _ ナミダワークス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+記念, 記念日
+cluster1:(2)
+何か, 私達
+cluster2:(3)
+店, 写真, 場所
+cluster3:(8)
+ところ, 方, リング, 彼, 形, 雰囲気, 他, こと
+cluster4:(1)
+魅力
+cluster5:(1)
+作業
+cluster6:(1)
+予約
+cluster7:(1)
+機会
+cluster8:(1)
+指輪
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 9
+deleted 0entities.

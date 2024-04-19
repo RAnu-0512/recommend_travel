@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巣鴨地域文化創造館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+文化センター, 観光資料, 文化活動, 学校生徒たち, 商店街, 会議室
+cluster1:(2)
+高齢, おばぁちゃん
+cluster2:(3)
+建物, 外観, 展示ホール
+cluster3:(4)
+近く, 地域, 施設, 地元
+cluster4:(4)
+作品, 人, ベンチ, ホッコリ
+cluster5:(3)
+気, 方, 方々
+cluster6:(1)
+通り
+cluster7:(3)
+交流, 生活, 休憩
+cluster8:(3)
+巣鴨らしいセンター, 巣鴨, 原宿 地蔵
+cluster9:(2)
+巣鴨地域文化創造館, 巣鴨地蔵通り商店街
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 10
+deleted 0entities.

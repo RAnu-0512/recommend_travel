@@ -1,0 +1,21 @@
+--------------------similar_words:小田急電鉄代々木上原駅--------------------
+top3 entities near to cluster0>>
+小田急, 小田急電鉄, ロマンスカーカフェ
+top3 entities near to cluster1>>
+共通, 特徴, 特色
+top3 entities near to cluster3>>
+以下, 上記, 下記
+top3 entities near to cluster4>>
+電車, 始発, 鉄道
+top3 entities near to cluster5>>
+飲食店, 飲食, 施設
+top3 entities near to cluster6>>
+小田急線, 小田急, 地下鉄
+top3 entities near to cluster7>>
+改札, コンコース, 構内
+top3 entities near to cluster8>>
+駅, 直結, 徒歩
+top3 entities near to cluster9>>
+駅, 周辺, 駅前
+top3 entities near to cluster10>>
+政雄, 政男, 及子

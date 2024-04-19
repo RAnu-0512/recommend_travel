@@ -1,0 +1,9 @@
+--------------------similar_words:中里介山の墓--------------------
+top3 entities near to cluster0>>
+世界, 最長, 最大
+top3 entities near to cluster1>>
+小説家, 小説, 漫画家, 漫画
+top3 entities near to cluster2>>
+寺墓, 寺, 墓所
+top3 entities near to cluster4>>
+介山, 中里, 逢庵

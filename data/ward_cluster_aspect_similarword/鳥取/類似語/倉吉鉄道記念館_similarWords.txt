@@ -1,0 +1,21 @@
+--------------------similar_words:倉吉鉄道記念館--------------------
+top3 entities near to cluster0>>
+運転, 貨車
+top3 entities near to cluster1>>
+鉄道, 列車, 県道
+top3 entities near to cluster2>>
+廃止, 跡地, 全廃
+top3 entities near to cluster4>>
+昔, 前後, 大昔
+top3 entities near to cluster5>>
+テツ, トモ, ユウ
+top3 entities near to cluster6>>
+往, 往左, 往右
+top3 entities near to cluster7>>
+写真, 展示, 小物
+top3 entities near to cluster9>>
+館, 記念, 記念碑
+top3 entities near to cluster10>>
+土蔵, 駅, 駅前
+top3 entities near to cluster11>>
+15, 14, 13

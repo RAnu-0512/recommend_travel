@@ -1,0 +1,35 @@
+--------------------similar_words:世界堂本店--------------------
+top3 entities near to cluster0>>
+駅前店, 本店, 駅前
+top3 entities near to cluster1>>
+大勢, 昔, 以前
+top3 entities near to cluster3>>
+愛想, 良さ, 人当たり
+top3 entities near to cluster4>>
+ボールペン, スケッチブック, 鉛筆
+top3 entities near to cluster6>>
+価格, 定価, 値段
+top3 entities near to cluster7>>
+会員, 入会, 正会員
+top3 entities near to cluster8>>
+割引, 割り引き, 割引き
+top3 entities near to cluster9>>
+商品券, 商品, 品物
+top3 entities near to cluster10>>
+美術, 絵画, 音楽
+top3 entities near to cluster11>>
+絵画, 美術, 額縁
+top3 entities near to cluster12>>
+世界堂, 世界
+top3 entities near to cluster13>>
+画材店, 画材, 絵具
+top3 entities near to cluster14>>
+美術品, 品等, 美術
+top3 entities near to cluster15>>
+用品, 美術, 用具
+top3 entities near to cluster16>>
+製図, 用具, 用品
+top3 entities near to cluster17>>
+文具, 文房具, 雑貨
+top3 entities near to cluster18>>
+丁目, 駅, 駅前

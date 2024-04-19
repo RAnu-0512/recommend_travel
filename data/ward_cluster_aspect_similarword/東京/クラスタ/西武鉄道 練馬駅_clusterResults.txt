@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西武鉄道 練馬駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+路線, 駅, 急行, 方面, 江戸線
+cluster1:(2)
+練馬, 池袋
+cluster2:(9)
+Emio, カフェ, SEIYU, 買い物, 食べ物, こと, ショップ, 注意, 乗り換え
+cluster3:(1)
+利用者
+cluster4:(2)
+副都心線, ます.1階ロータリー
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

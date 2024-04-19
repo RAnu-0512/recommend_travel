@@ -1,0 +1,7 @@
+--------------------similar_words:王子山公園_さくら--------------------
+top3 entities near to cluster0>>
+花見, 桜, 八重桜
+top3 entities near to cluster1>>
+景色, 風景, 公園
+top3 entities near to cluster3>>
+公園, 山, 緑地

@@ -1,0 +1,27 @@
+--------------------similar_words:おのみち小物招き猫工房--------------------
+top3 entities near to cluster1>>
+猫, ネコ, ねこ
+top3 entities near to cluster2>>
+景色, 空間, 風景
+top3 entities near to cluster3>>
+背景色, 背景, 色合い
+top3 entities near to cluster4>>
+写真絵, 作品, 写真
+top3 entities near to cluster5>>
+記念, 思い出, 思い出深い
+top3 entities near to cluster6>>
+水道, 郷, 上水
+top3 entities near to cluster7>>
+友人, 母親, 家族
+top3 entities near to cluster8>>
+作成, 作製, 完成
+top3 entities near to cluster11>>
+模様, 判明, よう
+top3 entities near to cluster12>>
+補足, 理解, 解説
+top3 entities near to cluster14>>
+心地よい
+top3 entities near to cluster15>>
+童心, 初心, くもん出版
+top3 entities near to cluster16>>
+体験, 写真, 撮影

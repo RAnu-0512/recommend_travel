@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ 半蔵門線 神保町駅--------------------
+top3 entities near to cluster0>>
+東西線, 駅, 神保町
+top3 entities near to cluster1>>
+都営線, 都営, 都営地下鉄線, 都営地下鉄
+top3 entities near to cluster2>>
+古書街, 古本屋街, 古書, 古本屋

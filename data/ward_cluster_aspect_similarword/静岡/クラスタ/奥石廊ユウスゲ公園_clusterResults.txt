@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥石廊ユウスゲ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ゆうゆう岬, 岬, あいあい岬
+cluster1:(3)
+絶壁斜面, 階段, 階段下
+cluster2:(2)
+開花時期, 一夜花
+cluster3:(4)
+夕日, 景色, 眺望, 絶景
+cluster4:(3)
+強風, 海風, 風
+cluster5:(10)
+気, 隣, 周り, 時期, 横, 人, 先, 場所, 夕方, 気分
+cluster6:(8)
+石廊崎, ユウスゲ, カメラ, モニュメント, 行き先, 断崖絶壁, あい, 伊豆半島
+cluster7:(11)
+心, 鐘, 可憐, 花, 海, 公園, 丘, 色, 頂上, 石, 崖
+cluster8:(4)
+駐車場, 公園駐車場, ユウスゲ公園, 奥石廊
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 8
+deleted 2entities.

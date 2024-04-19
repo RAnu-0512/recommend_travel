@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八万四千体地蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浄名院, 寛永寺浄名院
+cluster1:(2)
+地蔵尊, 地蔵
+cluster2:(5)
+上野, 谷中, 鶯谷駅, 江戸六地蔵, 羅漢
+cluster3:(3)
+寺院, 仏像, 境内
+cluster4:(3)
+上野公園, 天台宗, 寛永寺
+cluster5:(2)
+中心, 近く
+cluster6:(1)
+価値
+cluster7:(1)
+並ぶ所
+cluster8:(1)
+芸大方向
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 9
+deleted 0entities.

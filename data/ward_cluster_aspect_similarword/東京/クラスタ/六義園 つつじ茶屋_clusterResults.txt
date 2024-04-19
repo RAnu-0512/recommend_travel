@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六義園 つつじ茶屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩所, 休憩場所
+cluster1:(2)
+茶屋, 茶屋風
+cluster2:(15)
+周囲, 六義園, 亭, 建物, 家, 飲食, 木, 提供, 名所, つつじ, 規模, 木材, 造り, ツツジ, 岩崎
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

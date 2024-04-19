@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江戸たいとう伝統工芸館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+入館無料, 入館, 入場無料
+cluster1:(10)
+人情, 伝統, べっ甲細工, 職人技, 工芸, 語, 技, 商店街, 家具, 職人
+cluster2:(3)
+展示中心, 展示品, 展示
+cluster3:(5)
+内容, 気, 名前, こと, もの
+cluster4:(7)
+途中, 場所, 近く, 時間, 中, 周辺, 横
+cluster5:(5)
+花, 浅草寺, 日本, ギャラリー, リニューアル
+cluster6:(1)
+英
+cluster7:(2)
+リニューアル工事, 再オープン
+cluster8:(2)
+見学, 実演
+cluster9:(4)
+館内, 売店, 施設, 外観
+cluster10:(1)
+常駐スタッフ
+cluster11:(1)
+休館
+cluster12:(7)
+江戸簾, 一般庶民, 江戸, 下町文化, 下町, 江戸時代, 江戸下町
+cluster13:(6)
+浅草駅, ひさご通り, 浅草, つくばエクスプレス浅草駅, 浅草ひさご, 台東区
+cluster14:(1)
+外国人観光客
+cluster15:(2)
+工芸品, チョイ工芸品
+cluster16:(2)
+伝統工芸, 伝統工芸館
+cluster17:(2)
+伝統工芸品, 江戸伝統工芸品
+cluster18:(4)
+台東区立江戸下町伝統工芸館, 江戸下町伝統工芸館, 江戸たいとう伝統工芸館, 江戸下町工芸館
+
+howmany entities : 68
+howmany clusters : 19
+howmany entities (more than1entities) : 68
+howmany clusters (more than1entities) : 19
+deleted 0entities.

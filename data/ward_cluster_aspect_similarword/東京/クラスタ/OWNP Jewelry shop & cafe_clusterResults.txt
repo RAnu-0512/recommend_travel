@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:OWNP Jewelry shop & cafe>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石, 原石
+cluster1:(2)
+子供, 子供たち
+cluster2:(12)
+初心者, 娘, カフェ, 隣, オーナー, 友達, 好み, 息子, 予約, 時間, ワクワク, 目
+cluster3:(6)
+力量, 何か, 形, 驚き, こと, もの
+cluster4:(2)
+危険, 安全
+cluster5:(2)
+作業, 工程
+cluster6:(1)
+パン屋
+cluster7:(4)
+非日常体験, 初体験, 体験, 原石研磨体験
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清見寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+裏手, ゆかり, 山
+cluster1:(2)
+庭園, 池
+cluster2:(1)
+堂
+cluster3:(1)
+家康
+cluster4:(1)
+興津
+cluster5:(1)
+深い寺
+cluster6:(1)
+大方丈
+cluster7:(1)
+名勝庭園
+cluster8:(1)
+太原雪斎
+
+howmany entities : 12
+howmany clusters : 9
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 9entities.

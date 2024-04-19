@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ有楽町線豊洲駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+豊洲駅, ユナイテッドシネマ豊洲, ららぽーと豊洲, 豊洲市場
+cluster1:(2)
+スタンプラリー景品配布場所, 定期券売り場
+cluster2:(19)
+タワーマンション, 地上, 有楽町線, 公園, キッザニア, シネコン, 通路, 市場, ゆりかもめ, ホーム, スタンプ, ららぽーと, 地下, 博物館, 前, 東京メトロスタンプラリー, 乗客, 目, 乗り換え
+cluster3:(9)
+駅, 再開発, ビル, 飲食店, 商業施設, 連絡橋, 有楽町駅, 乗り換え駅, 駅ビル
+
+howmany entities : 34
+howmany clusters : 4
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 4
+deleted 0entities.

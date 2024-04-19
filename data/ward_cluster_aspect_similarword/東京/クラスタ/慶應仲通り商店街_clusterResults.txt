@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:慶應仲通り商店街>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+慶応仲通り商店街, 商店街
+cluster1:(4)
+マンホールカード配布予定, 設置, 配布, 公開
+cluster2:(2)
+記念品, 飲食店
+cluster3:(14)
+店, 場所, カメラ, 入口, 檸檬色, ランチ場所, 飲み屋, 芝, 地下鉄, 徒歩, キャラクターマンホール蓋, マンホールマップ, 田町駅, オランダ大使館
+cluster4:(1)
+慶應義塾図書旧館
+cluster5:(4)
+三田駅, JR田町, 都営, 徒歩数分
+cluster6:(1)
+慶應大学
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 7
+deleted 0entities.

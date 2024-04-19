@@ -1,0 +1,9 @@
+--------------------similar_words:木造地蔵菩薩坐像・木造不動明王立像・木造毘沙門天立像--------------------
+top3 entities near to cluster0>>
+仏像, 仏画, 尊像
+top3 entities near to cluster1>>
+木造, 平屋, 鉄筋コンクリート
+top3 entities near to cluster2>>
+表情, 顔つき
+top3 entities near to cluster3>>
+立像, 木造, 坐像

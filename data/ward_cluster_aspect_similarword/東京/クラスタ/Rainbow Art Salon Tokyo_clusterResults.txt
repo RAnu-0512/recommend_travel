@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Rainbow Art Salon Tokyo>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+奥, 敷居, 細道
+cluster1:(3)
+アート体験, 絵心, 体験
+cluster2:(5)
+気, 方, こと, もの, 感覚
+cluster3:(6)
+人, 他, 誰か, 度, 時間, 友人
+cluster4:(3)
+次回, 手元, 説明
+cluster5:(1)
+何か
+cluster6:(38)
+レジン, アート, 作品, 初心者, デート, YouTube, アトリエ, 絵, 作り方, なにか, 制作, 仕上がり, 東京, アクセス, 思い出, 芸術, ポーリングアート, アパート, かけがえ, 波, 海, アレンジ, オーシャンアート, 作成, 恋人, 癒し, 写真, 動画, アドバイス, 先生, 雰囲気, レジンコーティング, スペース, 気遣い, レジンアート, 講師, インテリア, 色
+
+howmany entities : 59
+howmany clusters : 7
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 7
+deleted 0entities.

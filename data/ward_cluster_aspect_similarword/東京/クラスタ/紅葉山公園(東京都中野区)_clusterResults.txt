@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:紅葉山公園(東京都中野区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+中野ゼロ, 中野駅, 中野区, JR中野駅
+cluster1:(15)
+図書館, おすすめ, 紅葉時期, 場所, 紅葉山, 公園, 紅葉, 名前, 紅葉シーズン, ZERO, モミジ, 間近, 住宅街, 雰囲気, 風情
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

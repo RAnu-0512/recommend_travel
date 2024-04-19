@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:舟の露天風呂 ダジュール岩地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ます.ko, ぁ.t
+cluster1:(2)
+ダジュール岩地, 岩地海水浴場
+cluster2:(2)
+温泉, 無料温泉
+cluster3:(3)
+海岸, 船, 海
+cluster4:(7)
+価格, 言葉, 西伊豆, 味, メニュー, 他, 友達
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 6entities.

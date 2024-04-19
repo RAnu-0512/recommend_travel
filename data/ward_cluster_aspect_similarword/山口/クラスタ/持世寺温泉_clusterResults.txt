@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:持世寺温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+お湯, 効能, 温泉
+cluster1:(9)
+客, 武士, 夕方, 気, 風情, 傷, 体, 肩こり, 場所
+cluster2:(1)
+戦国時代
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

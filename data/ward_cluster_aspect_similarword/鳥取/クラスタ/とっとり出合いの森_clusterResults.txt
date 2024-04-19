@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:とっとり出合いの森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+花, 木々, 芝生
+cluster1:(5)
+ごっこ, ところ, 子供, ゾーン, 子ども
+cluster2:(2)
+学校, 施設
+cluster3:(2)
+弁当, 天気
+cluster4:(1)
+保育園行事
+cluster5:(1)
+家族連れ
+cluster6:(1)
+駐車場
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 7
+deleted 0entities.

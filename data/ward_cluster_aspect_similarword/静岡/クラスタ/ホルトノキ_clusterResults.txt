@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホルトノキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+巨木, 社殿
+cluster1:(8)
+夫婦, 階段, ホルトノキ, 生命, 途中, パワー, ナギ, 形
+cluster2:(1)
+大きさ
+cluster3:(1)
+二宮神社
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

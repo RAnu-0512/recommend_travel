@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五卿潜居の間>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+こと, 関わり, 場所
+cluster1:(3)
+日本, 都落ち, 都
+cluster2:(1)
+幕末
+cluster3:(1)
+身
+cluster4:(1)
+転換点
+cluster5:(1)
+公卿たち
+cluster6:(1)
+功山寺
+cluster7:(1)
+高杉晋作
+cluster8:(1)
+三条実美ら尊皇攘夷派
+
+howmany entities : 13
+howmany clusters : 9
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 9
+deleted 0entities.

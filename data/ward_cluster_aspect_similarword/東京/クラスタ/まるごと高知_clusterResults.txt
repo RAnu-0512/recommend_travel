@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まるごと高知>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+坂本龍馬, 坂本龍馬像
+cluster1:(6)
+地上, 東京, 銀座, 地下, 日本, 高知
+cluster2:(2)
+酒, 料理
+cluster3:(4)
+店, 店舗, 店員, 店頭
+cluster4:(20)
+土産物, 青のりコーナー, 売り切れ, 青のり, アンテナショップ, イベント, アンテナショップ巡り, アイス, 気, 話, たたき, アイスクリン, カツオ, レストラン, 美味しさ, 印象, 周り, 声, ショップ, シャーベット
+cluster5:(1)
+青のり粉
+cluster6:(1)
+明神丸
+cluster7:(1)
+名産品
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 8
+deleted 0entities.

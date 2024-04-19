@@ -1,0 +1,7 @@
+--------------------similar_words:小石川大神宮--------------------
+top3 entities near to cluster0>>
+皇, 天, 神
+top3 entities near to cluster1>>
+裏手, 入り口, 建物
+top3 entities near to cluster2>>
+本殿, 拝殿, 社殿

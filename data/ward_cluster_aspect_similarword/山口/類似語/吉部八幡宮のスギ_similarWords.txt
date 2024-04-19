@@ -1,0 +1,9 @@
+--------------------similar_words:吉部八幡宮のスギ--------------------
+top3 entities near to cluster0>>
+八幡宮, 雰囲気, 神社
+top3 entities near to cluster2>>
+歴史, 伝統
+top3 entities near to cluster3>>
+風情, 趣き, 趣
+top3 entities near to cluster4>>
+スギ, 杉, マツ

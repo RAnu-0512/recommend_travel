@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京都健康プラザ ハイジア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+天井, 隣, 奥
+cluster1:(2)
+施設, 病院
+cluster2:(9)
+大久保, トイレ, スポット, こと, 西武新宿線, インターネットカフェ, 吹き抜け, 歌舞伎町, ネットカフェ
+cluster3:(2)
+健康プラザ, 観光スポット
+cluster4:(1)
+西武新宿駅
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

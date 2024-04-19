@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Taku Nakano CeramicArts☆>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+連絡, 予約, 電話, 確認
+cluster1:(6)
+人, 方, 子供, 初心者, スタッフ, カリスマ
+cluster2:(2)
+作品, 先生
+cluster3:(1)
+陶芸
+cluster4:(1)
+土
+cluster5:(1)
+態度
+cluster6:(2)
+作務衣, 電動ろくろ
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

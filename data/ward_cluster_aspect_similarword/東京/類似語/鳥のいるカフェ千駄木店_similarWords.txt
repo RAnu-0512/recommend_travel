@@ -1,0 +1,25 @@
+--------------------similar_words:鳥のいるカフェ千駄木店--------------------
+top3 entities near to cluster0>>
+鳥, インコ, 野鳥
+top3 entities near to cluster1>>
+店内, 部屋
+top3 entities near to cluster3>>
+肩, 腕, 左肩
+top3 entities near to cluster4>>
+指手, 指, 人差し指
+top3 entities near to cluster5>>
+カオス, パワー, エナジー
+top3 entities near to cluster6>>
+インコ, セキセイインコ, フクロウ
+top3 entities near to cluster7>>
+子ども, 触れあい, 子供
+top3 entities near to cluster8>>
+ズボン, ポケット, ロッカー
+top3 entities near to cluster9>>
+フード, ウエットフード, ドッグフード
+top3 entities near to cluster10>>
+口コミ, 評判, クチコミ
+top3 entities near to cluster11>>
+九官鳥, オウム, 十姉妹
+top3 entities near to cluster12>>
+頭人, 頭, 人間

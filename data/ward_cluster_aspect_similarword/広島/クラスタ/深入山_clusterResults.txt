@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深入山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山県郡, 安芸太田町
+cluster1:(3)
+登山道, 南登山口, 登山靴
+cluster2:(3)
+山頂, 山頂制覇, 頂上
+cluster3:(2)
+健脚, 体力
+cluster4:(2)
+入山, 松原
+cluster5:(3)
+注意, ほう, 管理
+cluster6:(2)
+東, 冬
+cluster7:(2)
+石, 夫婦
+cluster8:(3)
+ハイキングコース, ルート, コース
+cluster9:(5)
+いこいの村, パノラマ, スキー, ハイキング, 深入山
+cluster10:(2)
+トイレ, 手入れ
+cluster11:(1)
+ガレキ
+cluster12:(1)
+山焼き
+cluster13:(1)
+三段峡
+cluster14:(1)
+深入山グリーンシャワー
+cluster15:(1)
+山
+cluster16:(2)
+下り, 景色
+cluster17:(1)
+スキー場
+cluster18:(1)
+下草
+cluster19:(1)
+閉館
+cluster20:(1)
+涼しさ
+
+howmany entities : 40
+howmany clusters : 21
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 21
+deleted 0entities.

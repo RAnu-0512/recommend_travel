@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:造幣局の「花のまわりみち」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駐車場, 広島市, 五日市駅, 会社帰り, バス, シャトルバス
+cluster1:(5)
+期間, 必要&人, 美しさ, 多種類, 開催期間
+cluster2:(7)
+桜, 見物, 桜まつり, 人出, 夜桜, 花見, 満開
+cluster3:(4)
+時期, 季節, 気候, 品種
+cluster4:(13)
+久しぶり, ソメイヨシノ, 八重桜, カメラ, オススメ, 花, ストール, 造幣局, 一般人, イベント, ライト, ダウン, チェック
+cluster5:(4)
+大阪, 年, 臨時, 昼間
+cluster6:(2)
+さ, こと
+cluster7:(2)
+周辺, 地域
+cluster8:(4)
+種類, 人, 多く, 他
+cluster9:(1)
+敷地
+cluster10:(1)
+まわりみち
+
+howmany entities : 49
+howmany clusters : 11
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 11
+deleted 0entities.

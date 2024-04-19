@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:了法寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+八王子・東京方面, 西八王子駅
+cluster1:(7)
+寺, 参拝, 親父, 色紙, 八王子七福神, 方々, 看板
+cluster2:(2)
+国道, 北口
+cluster3:(1)
+朱印
+cluster4:(1)
+了法寺
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

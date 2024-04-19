@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花登筺歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+場所, 歌, 歌碑, 女性
+cluster1:(2)
+松原公園, 土肥ノ
+cluster2:(1)
+観光案内所
+cluster3:(1)
+花登筺
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

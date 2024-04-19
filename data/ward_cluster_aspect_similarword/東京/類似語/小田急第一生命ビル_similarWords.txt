@@ -1,0 +1,9 @@
+--------------------similar_words:小田急第一生命ビル--------------------
+top3 entities near to cluster0>>
+高層, ビル, ノッポビル
+top3 entities near to cluster1>>
+ビル, 建つ, 建物
+top3 entities near to cluster2>>
+ビル, 高層, タワービル
+top3 entities near to cluster3>>
+住友, ビル, 三井

@@ -1,0 +1,13 @@
+--------------------similar_words:よみうりV通り--------------------
+top3 entities near to cluster0>>
+字, V, U
+top3 entities near to cluster1>>
+球場, スタジアム, 球団
+top3 entities near to cluster2>>
+坂道, 坂, 勾配
+top3 entities near to cluster3>>
+歴代, 選手, 優勝
+top3 entities near to cluster4>>
+歩道, 駅, 距離
+top3 entities near to cluster5>>
+京王, モールアネックス, 駅

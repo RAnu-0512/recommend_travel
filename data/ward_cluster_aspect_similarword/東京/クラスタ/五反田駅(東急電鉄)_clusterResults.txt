@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五反田駅(東急電鉄)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+五反田, ドア, 腹痛, 乗り換え, JR, 他, 池上線, 悪阻, 妊娠, 気分, 浅草線, 始発駅, ホーム, 駅, 改札, トイレ, 吐き気, 事情, ビル, 方, 次, 妊婦, 仕事柄マタニティーマーク, 都営, 池上, 駅ビル
+cluster1:(4)
+東急, 山手線, 東急線, 東急電鉄池上線
+
+howmany entities : 30
+howmany clusters : 2
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 2
+deleted 0entities.

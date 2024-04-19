@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さとう温泉メロン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+温泉, さとう温泉メロン, 温泉メロンハウス, 下賀茂温泉, 温泉メロン
+cluster1:(3)
+温室, メロン栽培, 温室メロン作り
+cluster2:(2)
+発祥, 地
+cluster3:(2)
+駅, 道
+cluster4:(4)
+下賀茂, ギフト, メロンタルト, メロン
+cluster5:(2)
+花, 桜
+cluster6:(1)
+静岡県
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 7entities.

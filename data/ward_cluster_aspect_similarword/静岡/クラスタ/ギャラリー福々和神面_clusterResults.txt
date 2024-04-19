@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ギャラリー福々和神面>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仮面史, 仮面
+cluster1:(2)
+能楽, 日本
+cluster2:(1)
+日本仮面歴史館
+cluster3:(1)
+福々和神面
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

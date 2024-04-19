@@ -1,0 +1,17 @@
+--------------------similar_words:都立赤塚公園--------------------
+top3 entities near to cluster0>>
+散策, 歩き, 歩く
+top3 entities near to cluster1>>
+野球場, 場裏, 野球
+top3 entities near to cluster2>>
+公園, 駅, 広場
+top3 entities near to cluster4>>
+自然, 周辺, 水辺
+top3 entities near to cluster5>>
+弁当, 散歩, 出掛け
+top3 entities near to cluster7>>
+サイクリング, ジョギング, コース
+top3 entities near to cluster8>>
+子供, 子ども, お子さん
+top3 entities near to cluster10>>
+区立, 都立, 公園

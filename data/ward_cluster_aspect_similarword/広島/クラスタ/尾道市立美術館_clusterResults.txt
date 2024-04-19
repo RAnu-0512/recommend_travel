@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾道市立美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+つくり, レア, もの, ロープーウェイ, 桜, ふんわり, 塗り絵, デザイナー, 方, 町並み, 印象, 感じ, 美術館, イギリス, ガラス張り
+cluster1:(2)
+館内, 新館
+cluster2:(5)
+施設, 時間, 地域, 街, 場所
+cluster3:(2)
+建物, 外観
+cluster4:(2)
+写真, 作品
+cluster5:(1)
+窓
+cluster6:(1)
+観光
+cluster7:(4)
+窓口, 特典, 割引, 受付
+cluster8:(1)
+名作チェア
+cluster9:(1)
+内館
+cluster10:(8)
+ネコ像, 猫, ネコ, 展望台, 千光寺公園, 千光寺山, 尾道, 公園
+cluster11:(20)
+陶芸作品, 特別展, 建築, 警備員, 展示物, 展示, 券, 建築家, 写真集, 美術館建築, リサ・ラーソン展, ねこまみれ展, 有料駐車場, 美術品, 入館料, 美術, 画家, 尾道市立美術館, 安藤忠雄, 利用券
+
+howmany entities : 62
+howmany clusters : 12
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 12
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修禅寺彫ギャラリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+テレビ出演, 販売コーナー, 作品依頼, 作品
+cluster1:(3)
+工房, 文字, 彫刻
+cluster2:(2)
+父母, 先生
+cluster3:(6)
+修禅寺, 話題, 気持ち, ギャラリー, 中, 方
+cluster4:(1)
+規模
+cluster5:(4)
+独鈷, 竹, 湯, 開運グッズ
+cluster6:(1)
+開館日
+cluster7:(2)
+修禅寺彫宗家, 追善供養
+cluster8:(1)
+和田松琴先生
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 7entities.

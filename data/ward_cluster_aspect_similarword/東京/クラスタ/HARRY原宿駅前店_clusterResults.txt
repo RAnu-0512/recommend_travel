@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:HARRY原宿駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+小学生, 娘, 場所, 人, 近く, ハリネズミ, 家族, エレベーター, 息子, 時間, 子, 方, 中
+cluster1:(6)
+店, 裏口, 立地, 看板, ビル, 地図
+cluster2:(1)
+予約時間
+cluster3:(1)
+原宿駅
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:氷川キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+川沿い, アユ釣り, 川
+cluster1:(38)
+手すり, 手がかり, 場所, 根, 自然, 小分け, 釣り, 歩行, BBQ, 木, バンガロー, 家族, 頭, 足がかり, ストーブ, トイレ, 数, イラッ, 全体, 川べり, マイナスイオン, 川遊び, キャンプ, ロフト, 方, 岩, こと, 位置, 夜間, 子供たち, バーベキュー, 魚, ハシゴ, 上段, 安全, 注意, 奥多摩, かっこう
+cluster2:(3)
+隙間, 段差, 凸凹
+cluster3:(2)
+傾斜, 坂道
+cluster4:(11)
+建物, ドア, 窓, 駅, 電車, 温泉, ガタガタ道, 徒歩, 道路, 部屋, 道
+cluster5:(1)
+針抜き
+cluster6:(7)
+高低差, 荷物置き場, 荷物, キャンプ場, 駐車場, BBQ場, 管理棟
+
+howmany entities : 65
+howmany clusters : 7
+howmany entities (more than1entities) : 65
+howmany clusters (more than1entities) : 7
+deleted 0entities.

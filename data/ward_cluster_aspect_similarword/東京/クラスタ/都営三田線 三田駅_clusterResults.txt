@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営三田線 三田駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+港区, 辻スクエア港区
+cluster1:(9)
+駅, 観光インフォメーション, 札, 学生, 田町駅, コラボ, 徒歩数分, 三田駅, 記念品
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

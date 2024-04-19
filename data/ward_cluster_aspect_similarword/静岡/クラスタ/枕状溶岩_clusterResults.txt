@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:枕状溶岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+あたり, 崖
+cluster1:(1)
+地形
+cluster2:(1)
+溶岩
+cluster3:(1)
+海水浴場
+cluster4:(1)
+小浜大崩海岸
+cluster5:(1)
+枕状溶岩
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

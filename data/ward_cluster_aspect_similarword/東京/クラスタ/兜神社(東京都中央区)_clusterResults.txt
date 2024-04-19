@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兜神社(東京都中央区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+証券界, 証券マン, 証券取引所
+cluster1:(3)
+兜, 兜神社, 日本橋兜町
+cluster2:(5)
+神社, 鳥居, 神, 信仰, 祠
+cluster3:(2)
+見学, 訪問
+cluster4:(3)
+裏手, 近く, 界隈
+cluster5:(10)
+きっかけ, 最後, オススメ, 日本橋, お守り, 感じ, 程度, 対象, インパクト, 方
+cluster6:(1)
+利益
+cluster7:(5)
+金運アップ, 金融街, 東証, 金, 首都高
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 8
+deleted 0entities.

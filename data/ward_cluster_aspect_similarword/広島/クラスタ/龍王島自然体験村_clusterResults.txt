@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍王島自然体験村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+瀬戸内海, ファイヤーサークル キャンプファイヤー
+cluster1:(1)
+無人島
+cluster2:(1)
+周囲
+cluster3:(1)
+自然
+cluster4:(1)
+イベント広場
+cluster5:(1)
+龍王島自然体験村
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

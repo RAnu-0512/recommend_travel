@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶芸教室 Cactus>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+陶芸, 陶芸体験
+cluster1:(3)
+初体験, 体験, 体験コース
+cluster2:(26)
+出来上がり, 上がり, 作品, カフェ, 子供, 工程, マグカップ, 土, 料金, チャレンジ, 仕事, サンプル, 仕上げ, 友達, 長女, 完成, 時間, SNS, 子供達, 先生, 友人, 満足, 歪, 教室, 妻, リクエスト
+cluster3:(4)
+方法, 形, こと, もの
+cluster4:(2)
+相談, 希望
+cluster5:(2)
+手本, 助け
+cluster6:(1)
+教え方
+cluster7:(1)
+大きさ
+cluster8:(2)
+黒マット, 白
+cluster9:(3)
+青, 緑, 赤
+cluster10:(6)
+織部, 抹茶茶碗, 釉薬, 皿, 高台, 焼き上がり
+cluster11:(2)
+電動ろくろ, ろくろ
+cluster12:(2)
+白・黒・赤, 白マット・黒マット
+
+howmany entities : 56
+howmany clusters : 13
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 13
+deleted 0entities.

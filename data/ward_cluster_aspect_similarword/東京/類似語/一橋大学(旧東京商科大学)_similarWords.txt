@@ -1,0 +1,17 @@
+--------------------similar_words:一橋大学(旧東京商科大学)--------------------
+top3 entities near to cluster0>>
+正芳, 茂, 次昭
+top3 entities near to cluster1>>
+地区, 学園, 新駅
+top3 entities near to cluster4>>
+政治家, 政治, 評論家, 評論
+top3 entities near to cluster5>>
+りつ, こく, はくする
+top3 entities near to cluster6>>
+中央線, 駅線, 中央, 駅
+top3 entities near to cluster7>>
+国立, 駅, シンバヒルズ
+top3 entities near to cluster8>>
+国立, 大学, シンバヒルズ
+top3 entities near to cluster9>>
+文教, 国立, 都市

@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉川北投石の湯治場 弘法の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+宿泊, 利用, 日帰り利用, グループ利用, 施設
+cluster1:(2)
+悪臭, 匂い
+cluster2:(2)
+鼻, 本店
+cluster3:(2)
+小学生, レベル
+cluster4:(3)
+セット, 露天風呂, ミストサウナ
+cluster5:(1)
+気持ち
+cluster6:(1)
+マナー
+cluster7:(1)
+日帰り
+cluster8:(1)
+自宅
+cluster9:(1)
+常連
+cluster10:(4)
+体, 具合, 想像, マッサージ機
+cluster11:(1)
+人肌
+cluster12:(1)
+白濁状態
+cluster13:(8)
+娘たち, 連休, 湯本店, 小学生低学年, 友人宅, 長岡店, 初体験, 連休半ば
+cluster14:(17)
+日帰り温泉 弘法, 内湯, 岩盤浴, 湯治場 弘法の湯, お湯, 北投石, 玉川北, 日帰り入浴, 外湯, 露天, 投石, 弘法, 風呂, 温泉施設, 北投石温泉, 湯, 日帰り温泉
+
+howmany entities : 50
+howmany clusters : 15
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 5
+deleted 13entities.

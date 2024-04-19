@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡県富士山世界遺産センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+形, もの
+cluster1:(1)
+富士山
+cluster2:(1)
+内部
+cluster3:(1)
+博物館外見
+cluster4:(1)
+水面
+cluster5:(1)
+富士
+cluster6:(1)
+思いき
+cluster7:(1)
+螺旋スロープ型
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

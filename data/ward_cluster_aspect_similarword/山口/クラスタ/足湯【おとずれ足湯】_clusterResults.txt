@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足湯【おとずれ足湯】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+足湯, 散策, 足, 気持ち
+cluster1:(2)
+お湯加減, 熱め
+cluster2:(1)
+観光客
+cluster3:(1)
+長門湯本
+cluster4:(1)
+音信川遊歩道沿い
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

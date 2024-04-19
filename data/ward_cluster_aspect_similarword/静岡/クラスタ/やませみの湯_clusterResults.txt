@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:やませみの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+温泉場, 温泉, 薬草風呂, 日帰り温泉施設, ぬる湯, お湯, 源泉, スーパー銭湯, 風呂, 湯, 源泉風呂
+cluster1:(3)
+接遇, 洗練さ, 新しさ
+cluster2:(2)
+蛍, 野鳥
+cluster3:(2)
+川, 山
+cluster4:(2)
+山道, 道
+cluster5:(3)
+山間, 山奥, 山村
+cluster6:(11)
+ストレス, スタッフ, 体, やすらぎ, 写真, 置き物, 風呂屋, 露天風呂, 自然, 雰囲気, サービス
+cluster7:(8)
+方, 感じ, 名前, 中, 近く, 基準, 場所, 好み
+cluster8:(1)
+違う石風呂
+cluster9:(6)
+車, 窓, 空気, 設備, 施設, 運転
+cluster10:(1)
+清流沿い
+cluster11:(1)
+ヤマセミ
+
+howmany entities : 51
+howmany clusters : 12
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 6
+deleted 9entities.

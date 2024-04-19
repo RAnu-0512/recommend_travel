@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉川史料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+吉川家, 吉川元春
+cluster1:(13)
+揃い, もの, 価値, ゆかり, 全体, 数, 武具, 時代, 室町, 源氏物語, 感激, 写本, 装丁
+cluster2:(2)
+史料館, 収蔵品
+cluster3:(1)
+毛利家
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,49 @@
+--------------------similar_words:第五福竜丸--------------------
+top3 entities near to cluster0>>
+映像, 見学, 撮影
+top3 entities near to cluster3>>
+被害, 状況, 加害
+top3 entities near to cluster4>>
+人達, 大勢
+top3 entities near to cluster5>>
+子供, 子ども, 親達
+top3 entities near to cluster6>>
+歩道, 通路, 工事
+top3 entities near to cluster7>>
+都心, 駅, 駅前
+top3 entities near to cluster8>>
+実物, 模型, ジオラマ
+top3 entities near to cluster9>>
+館内, 施設, 園内
+top3 entities near to cluster10>>
+展示, 実験, 研究
+top3 entities near to cluster11>>
+散策, 勉強
+top3 entities near to cluster15>>
+灰, 爆発, 炭塵
+top3 entities near to cluster16>>
+夢, 変, 歴史
+top3 entities near to cluster17>>
+放射能, 被ばく, 死の灰
+top3 entities near to cluster18>>
+原水爆, 核兵器, 原水禁
+top3 entities near to cluster19>>
+平和, 平穏, ベースブランデーベース
+top3 entities near to cluster20>>
+歴史, 事件, 偏見
+top3 entities near to cluster21>>
+五, 第, 福竜丸
+top3 entities near to cluster22>>
+核, 実験, 水爆
+top3 entities near to cluster23>>
+龍, 丸, 館
+top3 entities near to cluster24>>
+展示, 出展, 収蔵
+top3 entities near to cluster25>>
+館, 資料, 史料
+top3 entities near to cluster26>>
+館, 資料, 展示
+top3 entities near to cluster27>>
+漁船, 被爆
+top3 entities near to cluster28>>
+植物園, 公園, 植物

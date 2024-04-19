@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸の内線 国会議事堂前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+端, ホーム端
+cluster1:(8)
+エスカレーター, 箇所, 丸ノ内線, 通路, 予想, 近く, 新宿, 乗り換え
+cluster2:(3)
+千代田線, 駅, 乗り換え駅
+cluster3:(1)
+国会議事堂
+cluster4:(4)
+方面ホーム, 方面行きホーム, 上り下り, 東京方面行きホーム
+cluster5:(1)
+国会議事堂前駅
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広楽寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史, 時代
+cluster1:(5)
+こと, ところ, 停車駅, 新幹線, 中
+cluster2:(1)
+徒歩
+cluster3:(5)
+歌舞伎役者, 本堂, 境内, 墓, 寺
+cluster4:(1)
+尾上菊五郎
+cluster5:(4)
+掛川駅, 掛川, 掛川城, 広楽寺
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 4entities.

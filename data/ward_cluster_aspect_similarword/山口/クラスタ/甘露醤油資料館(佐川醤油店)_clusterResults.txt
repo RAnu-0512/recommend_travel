@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:甘露醤油資料館(佐川醤油店)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+中, 香り, 特産品, 見学, 味, ドレッシング, 味見, 製造過程, 道具類, 餅, 土産, 江戸時代, 柳井, 仕込み, シャーベット, 種類, もろみ, 製法, 一部, 工程, 梁, 老舗, 資料館, 製造法, 歴史, 建物
+cluster1:(12)
+霧吹き醤油, 甘露醤油資料館, 醤油屋, 蔵, 醤油作り, 甘露醤油, 佐川醤油店, 醤油づくり, 濃口醤油, 醤油, 老舗醤油店, 醤油蔵
+
+howmany entities : 38
+howmany clusters : 2
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 2
+deleted 0entities.

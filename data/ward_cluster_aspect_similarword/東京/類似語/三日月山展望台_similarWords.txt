@@ -1,0 +1,13 @@
+--------------------similar_words:三日月山展望台--------------------
+top3 entities near to cluster0>>
+展望台, 展望, 見晴らし台, 見晴らし
+top3 entities near to cluster1>>
+菓子, 景観, 茶
+top3 entities near to cluster2>>
+海船, 海, 太陽
+top3 entities near to cluster3>>
+売店, 土産物, 土産
+top3 entities near to cluster5>>
+徒歩, 駅分, 駅
+top3 entities near to cluster7>>
+夕陽, 夕日, 夕焼け

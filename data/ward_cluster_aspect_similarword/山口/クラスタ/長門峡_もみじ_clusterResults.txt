@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長門峡_もみじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+景色, 絵, 散策, 紅葉, 天気, 写真
+cluster1:(5)
+おススメ, 気, ほう, 感じ, 方
+cluster2:(4)
+自然, 環境, 水面, 水
+cluster3:(15)
+スポット, 塩焼き, 紅葉狩り, 涼しげ, 車, オススメ, 道, 場所, 途中, 遊歩道, もみじ, 長門峡, 周囲, 足元, 人
+cluster4:(1)
+距離
+cluster5:(1)
+道幅
+cluster6:(6)
+秋, ぼちぼち秋, 季節, 山口, 長門, 秋風
+cluster7:(9)
+川沿い, 長門峡駅, 川, 駅長門峡, 渓谷, 清流, 駅, 観光客, 駐車場
+
+howmany entities : 47
+howmany clusters : 8
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 8
+deleted 0entities.

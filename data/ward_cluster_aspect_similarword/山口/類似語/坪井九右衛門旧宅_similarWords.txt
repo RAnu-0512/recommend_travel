@@ -1,0 +1,11 @@
+--------------------similar_words:坪井九右衛門旧宅--------------------
+top3 entities near to cluster0>>
+地区, 地図, 集落
+top3 entities near to cluster1>>
+旧宅, 生家, 旧居
+top3 entities near to cluster2>>
+解説板, 案内板, 案内, 解説
+top3 entities near to cluster3>>
+外客, 乗客, 名所
+top3 entities near to cluster4>>
+遺産, 世界, 萩

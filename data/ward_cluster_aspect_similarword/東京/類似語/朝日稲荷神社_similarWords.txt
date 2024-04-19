@@ -1,0 +1,13 @@
+--------------------similar_words:朝日稲荷神社--------------------
+top3 entities near to cluster1>>
+稲荷, 神社, 境内
+top3 entities near to cluster2>>
+拝殿, 本殿, 社殿
+top3 entities near to cluster3>>
+ビル, 屋上, 高層
+top3 entities near to cluster6>>
+鳥居, 森, 林
+top3 entities near to cluster8>>
+土地柄, 土地, 絵柄
+top3 entities near to cluster9>>
+繁盛, 商売, 儲かる

@@ -1,0 +1,59 @@
+--------------------similar_words:体感型動物園 iZoo--------------------
+top3 entities near to cluster0>>
+動物, ワニ, 蛇
+top3 entities near to cluster2>>
+興味, 持つ
+top3 entities near to cluster4>>
+情報, 内容, 経験
+top3 entities near to cluster5>>
+予想, 想像, 展開
+top3 entities near to cluster6>>
+速足, 行列, 距離
+top3 entities near to cluster9>>
+雰囲気, 楽しみ, おすすめ
+top3 entities near to cluster10>>
+ニシキヘビ, トカゲ, ヘビ
+top3 entities near to cluster11>>
+スペース, コーナー, フロア
+top3 entities near to cluster12>>
+スタッフ, イベント, レストラン
+top3 entities near to cluster14>>
+スパゲッティ, スパゲティ, 通りがかり
+top3 entities near to cluster15>>
+ベビーカー, サンダル, スニーカー
+top3 entities near to cluster16>>
+触れ合い, 放し飼い, 触れ合う
+top3 entities near to cluster18>>
+レース, カーテン, ライト
+top3 entities near to cluster19>>
+カレー, カレーライス, ラーメン
+top3 entities near to cluster20>>
+子ども, テレビ, 小学生
+top3 entities near to cluster21>>
+トカゲ, 爬虫類, イグアナ
+top3 entities near to cluster22>>
+昆虫, 爬虫類
+top3 entities near to cluster23>>
+屋内, 屋外, 室内
+top3 entities near to cluster24>>
+手前, 奥, 入り口
+top3 entities near to cluster25>>
+館内, 園内, 売店
+top3 entities near to cluster29>>
+子供, 母親, 息子
+top3 entities near to cluster30>>
+カメ, ウサギ, トカゲ
+top3 entities near to cluster31>>
+ワニ, ヘビ, アザラシ
+top3 entities near to cluster32>>
+ヘビ, 蛇, トカゲ
+top3 entities near to cluster33>>
+亀, 陸, ガメ
+top3 entities near to cluster34>>
+時間, 入場, 所要
+top3 entities near to cluster35>>
+動物, 子供, 生態
+top3 entities near to cluster36>>
+展示, 写真, 撮影
+top3 entities near to cluster37>>
+餌, エサ, 飼育

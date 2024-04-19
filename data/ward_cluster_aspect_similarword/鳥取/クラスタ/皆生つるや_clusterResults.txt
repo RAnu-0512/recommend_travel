@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:皆生つるや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浴場, 温泉浴場
+cluster1:(10)
+プロ, 入浴, 満足度, 旅館, 温泉, 老舗, スタッフ, バスタオル, 接客, タオル
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西松原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海, 景色
+cluster1:(7)
+平清盛, 日本, 海沿い, 五重塔, 大鳥居, 西松原, 西
+cluster2:(6)
+もの, 途中, 店, 写真, 人, ご飯
+cluster3:(4)
+こちら側, 出口, 本社, 詳細
+cluster4:(5)
+宮島, 社殿, 鳥居, 松原, 松
+cluster5:(1)
+枝ぶり
+cluster6:(4)
+改修工事, 観光客, 商店街, 工事
+cluster7:(4)
+嚴島神社, 大元神社, 清盛神社, 石灯籠
+cluster8:(1)
+宮島歴史民俗資料館
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:元宇品公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遊歩道, 海沿い
+cluster1:(6)
+フェリー, グランドプリンスホテル, プリンスホテル, ホテル, クスノキ, 待ち時間
+cluster2:(9)
+方, 車, 部分, 上, 人, 所, 時間, 近く, 地域
+cluster3:(7)
+楠, カキ, 海, 木, 影, 夏, 樹
+cluster4:(6)
+灯台, 道幅, 鬱蒼, 散歩, 元宇品公園, 公園
+cluster5:(4)
+駐車場, 広島市, 瀬戸内海国立公園, 宇品港
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 6
+deleted 0entities.

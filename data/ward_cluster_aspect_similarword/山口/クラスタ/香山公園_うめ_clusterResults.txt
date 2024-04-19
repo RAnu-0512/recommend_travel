@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香山公園_うめ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+姿, 背景, 公園, 声, 木, 門前, 雰囲気, 時期, 瑠璃光寺, 美しさ, 合間, 塔, 五重塔, ウグイス
+cluster1:(6)
+枝垂れ梅, 香山公園, 長寿薬師堂, 梅, 紅梅, 白梅
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

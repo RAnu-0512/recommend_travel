@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着物レンタルVASARA浅草寺店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+気作, 事, 機会, 方, こと, もの
+cluster1:(6)
+確認, 揃い, 準備, 相談, 予約, 対応
+cluster2:(1)
+丁寧さ
+cluster3:(1)
+誕生日
+cluster4:(12)
+店, 外国人, 荷物, 店舗, 旅行, 土産, 袋, BASARA浅草寺店, 客, 女性スタッフ, 店員, 男性
+cluster5:(2)
+髪型, ヘアセット
+cluster6:(6)
+色, 種類, 柄, 価格, 装飾, 帯
+cluster7:(7)
+笑顔, 話, 彼, 夢, ご飯, 母親, 友達
+cluster8:(14)
+スタッフ, ホッピー, 人力車, プロ, 着付け, 気持ち, 大きめ, レース, セレクト, (*^^*, デザイン, 屋形船, サイズ, スタンダード
+cluster9:(3)
+終わり浅草, 浅草観光, 浅草
+cluster10:(7)
+浴衣, 着物レンタル, 着物デート, 着物選び, レース浴衣, 着物着付け, 着物
+
+howmany entities : 65
+howmany clusters : 11
+howmany entities (more than1entities) : 65
+howmany clusters (more than1entities) : 11
+deleted 0entities.

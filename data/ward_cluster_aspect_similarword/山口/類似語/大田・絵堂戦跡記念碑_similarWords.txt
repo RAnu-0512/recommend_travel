@@ -1,0 +1,11 @@
+--------------------similar_words:大田・絵堂戦跡記念碑--------------------
+top3 entities near to cluster1>>
+記念, 周年, 祝し
+top3 entities near to cluster2>>
+目的地, 遊園地, 遊園, 目的
+top3 entities near to cluster3>>
+戦争, 内戦, 開戦
+top3 entities near to cluster5>>
+諸隊, 諸, 部隊
+top3 entities near to cluster6>>
+政府軍, 政府

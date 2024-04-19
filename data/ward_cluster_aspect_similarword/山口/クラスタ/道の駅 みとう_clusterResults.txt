@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 みとう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ごぼう天そば, ごぼう天, 美祢市, 美東ごぼう
+cluster1:(3)
+川, 川原, 河
+cluster2:(7)
+裏手, 別棟, 裏, 裏側, 休憩, 隣, 店内
+cluster3:(4)
+味, 食材, 郷土色, 料理
+cluster4:(16)
+もの, スーパーマーケット, カモ, ごぼう, 情報, 気, デートコース, 河川敷, レストラン, 水遊び, 買い物, ドライブ, まん丸, 方々, 水, 地域
+cluster5:(4)
+大仏, 道, 公園, 駅
+cluster6:(1)
+水深
+cluster7:(5)
+女性店員, 店員, 愛想, 家族連れ, 昼ご飯
+cluster8:(7)
+特産品, 遊園地, 名産, 販売所, 土産売り場, 駐車場, 観光案内
+cluster9:(1)
+河川親水公園
+
+howmany entities : 52
+howmany clusters : 10
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 10
+deleted 0entities.

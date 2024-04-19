@@ -1,0 +1,9 @@
+--------------------similar_words:矢野温泉--------------------
+top3 entities near to cluster0>>
+食事, 料金, 建物
+top3 entities near to cluster1>>
+入浴, 風呂, 湯船
+top3 entities near to cluster2>>
+お湯, 湯, 温泉
+top3 entities near to cluster3>>
+演劇, 大衆, 民衆

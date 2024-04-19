@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:縁切榎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+心身, 身体, 心, 体
+cluster1:(4)
+調子, 顔, 声, 態度
+cluster2:(14)
+前, 今回, 目, 相手, 後ろ, 別, 明け, 身内, 間, 他, 話, 時間, 人, 外
+cluster3:(5)
+駅, 店主, 町, 扉, 蕎麦
+cluster4:(13)
+モヤモヤ, 自販機, お祈り, 歴史, 気持ち, 行き方, レビュー, 酔っ払い, クチコミ, 場所, ストラップ, お礼参り, 縁切り
+cluster5:(3)
+縁, 感謝, 挨拶
+cluster6:(7)
+職場, 会社, 帰り, 上司, 退職, 仕事, 突風
+cluster7:(1)
+クダ
+cluster8:(19)
+願い, 人間関係, 関係者, 気, 旨, 影響, 方, 者, こと, 方達, 何か, 異動, 感じ, 事, 効果, 参り, 方々, 異動先, 仕方
+cluster9:(9)
+縁切り榎, 参拝者, 参拝, 商店街, 悪縁, 絵馬, 榎, 賽銭, 神社
+cluster10:(4)
+お蕎麦屋, 蕎麦屋, 板橋本町駅, 自動販売機
+
+howmany entities : 83
+howmany clusters : 11
+howmany entities (more than1entities) : 83
+howmany clusters (more than1entities) : 11
+deleted 0entities.

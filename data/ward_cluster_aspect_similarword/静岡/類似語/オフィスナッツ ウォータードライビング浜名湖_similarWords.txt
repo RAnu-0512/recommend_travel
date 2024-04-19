@@ -1,0 +1,11 @@
+--------------------similar_words:オフィスナッツ ウォータードライビング浜名湖--------------------
+top3 entities near to cluster1>>
+小雨, 気温
+top3 entities near to cluster2>>
+新幹線, 中学生, 小学生
+top3 entities near to cluster4>>
+気分, 感謝, 心配
+top3 entities near to cluster5>>
+体験手, 一生, 体験
+top3 entities near to cluster6>>
+子供, 家族, 子ども

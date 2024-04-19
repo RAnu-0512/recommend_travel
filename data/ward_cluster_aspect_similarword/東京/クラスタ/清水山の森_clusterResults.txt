@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水山の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+緑, 自然
+cluster1:(5)
+季節, カタクリ, 小ぶり, ザクロ, 花
+cluster2:(1)
+見方
+cluster3:(1)
+群生
+cluster4:(1)
+白子川
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

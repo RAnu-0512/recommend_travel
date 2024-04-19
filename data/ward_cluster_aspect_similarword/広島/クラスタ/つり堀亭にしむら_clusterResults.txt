@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:つり堀亭にしむら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車スペース, 場
+cluster1:(8)
+交代, 笑顔, 竿, イワナ, 魚, 初心者, 塩焼き, 受付
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六義園 田鶴橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+大泉池, 藤代峠, 大泉水, 田鶴橋
+cluster1:(5)
+中, こと, 禁止, 存在, もの
+cluster2:(5)
+六義園, 中之島, 橋, 島, 中の島
+cluster3:(2)
+背山, 妹山
+cluster4:(1)
+老朽化
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

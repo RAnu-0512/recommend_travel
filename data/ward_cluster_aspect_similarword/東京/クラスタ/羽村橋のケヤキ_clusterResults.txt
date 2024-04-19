@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽村橋のケヤキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+樹高, 樹齢
+cluster1:(2)
+場所, 近く
+cluster2:(5)
+玉川上水, 見応え, ケヤキ, 天然記念物, もの
+cluster3:(2)
+都, 木
+cluster4:(3)
+高さ, 枝ぶり, 幹周
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

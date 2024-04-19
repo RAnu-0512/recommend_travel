@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆山郷土資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+有形文化財, 神奈川沖浪裏, 他, 程度, 展示物, 脇侍像, 県指定, 伊豆山, 波の伊八, ところ, 人, 南房総市, 歴史, 龍神, 木造宝冠阿弥陀如来像, 神社, いすみ市, 千葉, 話, 影響, 人物, 資料館, 拝殿向拝彫刻, 彫刻, 代表作, 葛飾北斎, 説明
+cluster1:(2)
+武志伊八郎信由, 銅造走湯権現立像
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 1
+deleted 2entities.

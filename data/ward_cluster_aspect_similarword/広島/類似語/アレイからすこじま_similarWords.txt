@@ -1,0 +1,27 @@
+--------------------similar_words:アレイからすこじま--------------------
+top3 entities near to cluster0>>
+自衛艦, 自衛官, 自衛
+top3 entities near to cluster1>>
+潜水艦, 潜水, 艦艇
+top3 entities near to cluster2>>
+潜水艇, 潜水艦, 潜水
+top3 entities near to cluster3>>
+艦船, 艦艇, 海軍
+top3 entities near to cluster4>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster5>>
+桟橋, 海岸
+top3 entities near to cluster6>>
+ドック, ドッグ, アレイ
+top3 entities near to cluster7>>
+カフェ, 喫茶店, レストラン
+top3 entities near to cluster8>>
+船艦, 一隻, ガラミス
+top3 entities near to cluster9>>
+ココ, ・・ココ, ・ココ
+top3 entities near to cluster10>>
+一般, 公開, 広い
+top3 entities near to cluster14>>
+本物, 時代, 歴史
+top3 entities near to cluster15>>
+建物, 風景, 写真

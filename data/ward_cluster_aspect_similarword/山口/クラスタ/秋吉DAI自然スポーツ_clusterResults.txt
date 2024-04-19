@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋吉DAI自然スポーツ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自転車選び, 提供
+cluster1:(7)
+方, 車, マップ, クーポン, 思い出, スケジュール, スタッフ
+cluster2:(2)
+景色, 観光
+cluster3:(1)
+電動自転車
+cluster4:(1)
+角島観光
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神田上水跡(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神田上水跡, 神田上水
+cluster1:(2)
+上水, 水路
+cluster2:(2)
+小石川後楽園, 神田
+cluster3:(2)
+梅, 紅葉
+cluster4:(5)
+エリア, 秋晴れ, 案内, シーズン, ショウブ
+cluster5:(1)
+開園
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

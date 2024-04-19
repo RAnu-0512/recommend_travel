@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝倉八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+祈願, 歴史, 八幡宮
+cluster1:(2)
+山口市, 山口
+cluster2:(2)
+朝倉町, 朝倉八幡宮
+cluster3:(1)
+三条実
+cluster4:(1)
+皇攘夷
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

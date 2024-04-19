@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久能山城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+遺構, 城, 場所, 石垣, 案内, 山頂, 看板, 昔, 日本平ロープウェイ, 側, 丸, 駅, 東照宮, ロープウェイ
+cluster1:(3)
+久能山城, 武田信玄, 徳川家康
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

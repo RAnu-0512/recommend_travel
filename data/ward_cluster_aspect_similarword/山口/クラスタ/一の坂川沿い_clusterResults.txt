@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一の坂川沿い>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+日本, イルミネーション, クリスマス, こと, 行き方, 駅
+cluster1:(2)
+坂周辺, 坂川沿い
+cluster2:(4)
+山口県, 山口ふるさと伝承総合センター, 観光案内所, 山口駅
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

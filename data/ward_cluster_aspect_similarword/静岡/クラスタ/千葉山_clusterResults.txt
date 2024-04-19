@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千葉山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+智満寺, 僅か智満寺
+cluster1:(2)
+運動靴, 靴
+cluster2:(4)
+気, こと, 目的, 方
+cluster3:(8)
+ハイキングコース, つつじ, 途中, ハイキング, ところ, ピーク, 気持ち, 辺り
+cluster4:(1)
+地道
+cluster5:(1)
+ハイキング気分
+cluster6:(3)
+登山, 山道, 道
+cluster7:(3)
+階段, 広場, 頂上
+cluster8:(6)
+本杉, 緑, 杉, 花, 茶畑, 山
+cluster9:(1)
+町並みや海
+cluster10:(2)
+地道階段状, 杉の木
+
+howmany entities : 33
+howmany clusters : 11
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 9entities.

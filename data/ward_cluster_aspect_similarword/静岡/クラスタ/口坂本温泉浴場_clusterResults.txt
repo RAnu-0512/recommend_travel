@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:口坂本温泉浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+気, 車, 体, 途中, 清掃, こと, なり, すべすべ, 肌, ヌルヌル, 利用料, 感じ, コロナ対策, 対向車, 利用者, カーブ, 県道, 施設, 他, タオル, 道
+cluster1:(10)
+静岡, 温泉, 内湯, 市営温泉, 泉質, 露天, 市営, 新静岡インター, 湯, 水素塩温泉
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 0entities.

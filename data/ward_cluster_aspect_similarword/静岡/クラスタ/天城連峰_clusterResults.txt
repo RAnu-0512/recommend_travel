@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天城連峰>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+富士, 伊東駅, 天城, 河津, 天城高原, 伊豆, 反時計回り, 風力発電
+cluster1:(2)
+登山道, 道
+cluster2:(3)
+登山, 登山口, 登山者
+cluster3:(9)
+時期, こと, 空気, 範囲, 時間, 感じ, 場所, 方, 季節
+cluster4:(3)
+下山, 登り, 運行
+cluster5:(13)
+山登り, シャクナゲ, 修善寺, 富士山, 三郎岳, トレッキング, アップダウン, トイレ, コントラスト, 天城山, 絵葉書, トンネル, 馬酔木
+cluster6:(2)
+花, 山
+cluster7:(2)
+雪, 冬
+cluster8:(2)
+端, 木
+cluster9:(1)
+風車
+cluster10:(1)
+暖冬
+cluster11:(11)
+美しさ, 駐車場, 高度, ゴルフ場, 連峰, 標高, 景観, 地形, 景色, ゴルフコース, 山々
+cluster12:(6)
+天城山頂万三郎, 天城高原登山口, 天城高原ゴルフ場行きバス, 万二郎山, ゴルフ場利用者駐車場, 天城高原ゴルフ場
+
+howmany entities : 63
+howmany clusters : 13
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 7
+deleted 10entities.

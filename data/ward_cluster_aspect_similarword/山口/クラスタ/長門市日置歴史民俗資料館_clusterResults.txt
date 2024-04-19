@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長門市日置歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+昔, 歴史
+cluster1:(1)
+外
+cluster2:(1)
+化石
+cluster3:(1)
+長門市
+cluster4:(1)
+入場無料
+cluster5:(1)
+日置歴史民俗資料館
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

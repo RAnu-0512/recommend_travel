@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:袋物博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+袋物小物専門, 袋物小物専門店
+cluster1:(11)
+両国橋, 歴史, 創業, 博物, 両国界隈, 袋物博物館, あたり, 袋物, 東屋, 博物館, 地域
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

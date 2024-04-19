@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒島(鳥取県岩美町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+船, 車, 感じ, そば, 予定, こと, 周辺, ポツン, ジオサイト, 迫力, 名, 近く, 一帯, どん, 時間
+cluster1:(3)
+黒島, 鳥取, 山陰ジオパーク
+cluster2:(2)
+奇岩, 岩
+cluster3:(3)
+海, 海岸, 島
+cluster4:(2)
+海上, 沖合
+cluster5:(1)
+強風
+cluster6:(1)
+欠航
+cluster7:(6)
+海岸線, 島めぐり遊覧船, 鳥取&湯村温泉, 城原海岸, 遊覧船, 城原展望所
+
+howmany entities : 33
+howmany clusters : 8
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 8
+deleted 0entities.

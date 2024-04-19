@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちご狩り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+いちご狩り, イチゴ狩り
+cluster1:(2)
+大崎上島町, 農園
+cluster2:(3)
+電話, 対応, 予約
+cluster3:(2)
+大人, こどもたち
+cluster4:(5)
+知り合い, 友達, 家族, イチゴ, いちご
+cluster5:(8)
+唖然, もの, 中, 話, 気, 計画, 意外, 美味しさ
+cluster6:(1)
+お腹一杯
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

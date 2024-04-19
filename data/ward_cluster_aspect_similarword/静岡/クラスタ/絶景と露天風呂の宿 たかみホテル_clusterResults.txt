@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:絶景と露天風呂の宿 たかみホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+感じ, 方
+cluster1:(4)
+魚介類, キンメダイ, 子ども, ファミリー
+cluster2:(2)
+ホテル, プール
+cluster3:(1)
+煮付け
+cluster4:(2)
+家族, 地元
+cluster5:(1)
+あじ
+cluster6:(8)
+冷房, 料理, たかみホテル, 旅館, 客室, 景色, 建物, 絶景
+cluster7:(1)
+熱川
+cluster8:(3)
+田舎旅気分, 空気清浄機, 清潔感
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 9entities.

@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:庭カフェ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+話術, 会話, 電話口
+cluster1:(3)
+雨, 降り, 屋内
+cluster2:(16)
+やり方, レクチャー, クーポン, ランチ, キャラクター, キャンドル, 思い出, 口コミ, ところ, ジブリ, 伊豆高原, リクエスト, 雰囲気, スポット, オーナー, ネット
+cluster3:(3)
+日程, 時間, 現地
+cluster4:(5)
+所, こと, 方, もの, 物
+cluster5:(3)
+次, 中, 他
+cluster6:(2)
+話, 作品
+cluster7:(1)
+参加
+cluster8:(2)
+手, 色
+cluster9:(3)
+完成, 工房, 相談
+cluster10:(2)
+伊豆, 中日
+cluster11:(12)
+長女, 奥様, 客, 愛犬, 大人, 友人, 庭, お子様, 子供, キャンドルたち, 孫, 先生
+cluster12:(3)
+心, 感謝, 人柄
+cluster13:(2)
+ピザ, ピザ作り
+cluster14:(3)
+レインボーランタン作り, キャンドル造り, キャンドル作り
+cluster15:(4)
+キャンドル体験, 体験, 制作体験, 楽しさ
+cluster16:(1)
+誕生日旅行
+cluster17:(1)
+未就学児
+
+howmany entities : 69
+howmany clusters : 18
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 11
+deleted 11entities.

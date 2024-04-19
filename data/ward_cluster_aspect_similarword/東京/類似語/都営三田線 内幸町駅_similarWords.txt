@@ -1,0 +1,13 @@
+--------------------similar_words:都営三田線 内幸町駅--------------------
+top3 entities near to cluster0>>
+開催, 参加, 併催
+top3 entities near to cluster1>>
+飲み屋街, 芸術, 飲み屋
+top3 entities near to cluster2>>
+皇居, 東宮御所, 吹上御苑
+top3 entities near to cluster3>>
+見学, ツアー, ガイド
+top3 entities near to cluster4>>
+区, 区内, 都
+top3 entities near to cluster5>>
+館, 記念, 資料

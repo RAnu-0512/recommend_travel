@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福田侠平の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+奇兵隊, 軍監
+cluster1:(4)
+大内御堀, 人物, 遺髪, 墓
+cluster2:(3)
+福田侠平, 山口市, 福田
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

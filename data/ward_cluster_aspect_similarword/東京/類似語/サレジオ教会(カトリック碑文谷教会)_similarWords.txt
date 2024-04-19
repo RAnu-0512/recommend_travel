@@ -1,0 +1,23 @@
+--------------------similar_words:サレジオ教会(カトリック碑文谷教会)--------------------
+top3 entities near to cluster0>>
+外観, 建物
+top3 entities near to cluster1>>
+駅, 周辺, 電車
+top3 entities near to cluster2>>
+足裏, 足, 白色
+top3 entities near to cluster3>>
+佇まい, 雰囲気, たたずまい
+top3 entities near to cluster4>>
+芸能人, 有名人, 結婚式
+top3 entities near to cluster6>>
+回目, 回人, 回
+top3 entities near to cluster8>>
+名無し, フルネーム
+top3 entities near to cluster9>>
+価値, 意義, 本質
+top3 entities near to cluster11>>
+美しい, 素晴らしい, 力強い
+top3 entities near to cluster12>>
+信号機, 信号, 扱手
+top3 entities near to cluster13>>
+教会, 聖堂, カトリック

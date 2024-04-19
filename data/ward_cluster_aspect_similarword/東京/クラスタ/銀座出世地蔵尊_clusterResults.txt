@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銀座出世地蔵尊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+銀座出世地蔵尊, 出世地蔵尊
+cluster1:(3)
+地蔵尊, 地蔵, お地蔵様
+cluster2:(3)
+出世, 開運, 出世地蔵
+cluster3:(33)
+屋上, 三越, 奉賛会, 昔, 場所, テラス, 土中, 地, 笑顔, 銀座三越, 繁栄, 社務所, 観光名所, 街, いわれ, 顔, 三越屋, 御利益, 銀座, デパート, 活動, 銀座テラス, 世, あと, 方, 外, 中, こと, 利益, すずめ, 子供たち, 撫, 明治
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 4
+deleted 0entities.

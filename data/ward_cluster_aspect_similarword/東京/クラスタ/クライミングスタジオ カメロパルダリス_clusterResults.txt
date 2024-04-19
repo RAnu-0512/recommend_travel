@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クライミングスタジオ カメロパルダリス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+人, 方, 初心者, 常連, 他, アドバイス, スタッフ, コース, クライミング, 説明
+cluster1:(3)
+駅, 場所, 親子
+cluster2:(1)
+声
+cluster3:(3)
+登り方, 小さなお子, 高さ
+cluster4:(1)
+時間帯
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

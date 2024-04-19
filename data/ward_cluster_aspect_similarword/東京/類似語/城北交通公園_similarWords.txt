@@ -1,0 +1,17 @@
+--------------------similar_words:城北交通公園--------------------
+top3 entities near to cluster1>>
+乗り物, 自転車, 三輪車
+top3 entities near to cluster2>>
+グランド, 三田線, 駅
+top3 entities near to cluster3>>
+子連れ, トレイルランクライミング, ベビーカー
+top3 entities near to cluster4>>
+子供, 子ども, 大人
+top3 entities near to cluster5>>
+側面, 倒見
+top3 entities near to cluster6>>
+無料, 貸し出し, 有料
+top3 entities near to cluster7>>
+公園, 遊具, 鉄道
+top3 entities near to cluster8>>
+交通, 公園, 駅

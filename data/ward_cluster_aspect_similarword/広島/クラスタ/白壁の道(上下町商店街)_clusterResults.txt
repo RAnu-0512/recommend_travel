@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白壁の道(上下町商店街)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+レトロ, 建物, 町並み, 側, イベント, 雰囲気, 趣, イベント会場, 近く, なにか, 駅, 様子, 閑散
+cluster1:(7)
+白壁, 上下町, 街道, 町, 昭和, 町全体, 上下ひな祭り
+cluster2:(1)
+商店街
+cluster3:(1)
+広島県
+cluster4:(1)
+駐車場
+cluster5:(1)
+石見銀山
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 6
+deleted 0entities.

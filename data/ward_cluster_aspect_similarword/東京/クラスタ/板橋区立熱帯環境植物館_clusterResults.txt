@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:板橋区立熱帯環境植物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ミニミニ水族館, ミニ水族館
+cluster1:(10)
+温室, メコン川, 各種花, 淡水, 植物, 花, 花色, 水槽, 実, 魚
+cluster2:(11)
+場所, 中心, 利用, 他, 仕事, 館内, 施設, 鑑賞, 地下, 様子, 隣接
+cluster3:(3)
+幼児, 大人, 子供
+cluster4:(9)
+水族館, ドクターフィッシュ, イベント, ドーム, プルメリア, 熱帯魚, ジャングル, コーナー, 東南アジア
+cluster5:(2)
+チャオちゃん, 子
+cluster6:(1)
+メス
+cluster7:(1)
+エイ
+cluster8:(1)
+孫達
+cluster9:(7)
+駐車場, 余熱, 事前予約, 冷室, 追加料金, 餌やり, 小中学¥
+cluster10:(9)
+集落景観, 世界最大級, 共同企業体, 板橋清掃工場, 入館料, 指定管理者制度, 造園士, 植生ゾーン, 入場料
+cluster11:(5)
+熱帯, 熱帯ジャングル, 熱帯樹, 寒帯植物, 熱帯植物
+cluster12:(2)
+熱帯低地林, 熱帯高山帯
+cluster13:(1)
+雲霧林
+cluster14:(1)
+潮間帯植生
+cluster15:(5)
+深大寺植物園, 熱帯植物園, 板橋区立の環境植物園, 熱帯環境植物園, 植物園
+cluster16:(1)
+淡水エイ2m70cm
+
+howmany entities : 71
+howmany clusters : 17
+howmany entities (more than1entities) : 71
+howmany clusters (more than1entities) : 17
+deleted 0entities.

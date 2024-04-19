@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤石岳(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+日本百名山, 悪沢岳, 椹島ロッジ
+cluster1:(4)
+送迎バス, 入浴施設, 宿泊施設, 施設
+cluster2:(17)
+アルプス, アウトドア, 国立公園, 赤石岳, 聖岳, 空気, 澄ん, 人, 山頂, 景色, アップダウン, 先, 南アルプス, 冬, 山々, 山, 季節
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 0entities.

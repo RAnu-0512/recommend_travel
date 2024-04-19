@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 練馬区役所前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スマホ, カーナビ
+cluster1:(1)
+車
+cluster2:(1)
+場所
+cluster3:(1)
+設定
+cluster4:(1)
+男性スタッフ
+cluster5:(1)
+事故り
+cluster6:(1)
+首都高速
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

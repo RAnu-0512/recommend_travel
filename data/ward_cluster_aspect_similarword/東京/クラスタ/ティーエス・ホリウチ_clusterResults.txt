@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ティーエス・ホリウチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+腕時計, 時計
+cluster1:(4)
+方, アメ横, 種類, 外国
+cluster2:(1)
+専門店
+cluster3:(1)
+多さ
+cluster4:(1)
+機械式時計
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

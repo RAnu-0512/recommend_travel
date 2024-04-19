@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巣鴨の庚申塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+猿田彦大神, 猿田彦神社, 巣鴨猿田彦庚申堂
+cluster1:(4)
+地蔵通り商店街, とげぬき地蔵尊, 商店街, 地蔵通り商店街入り口
+cluster2:(3)
+先, 端, 側
+cluster3:(2)
+対, 北
+cluster4:(1)
+出口
+cluster5:(13)
+所, 場所, 荒川線, 浮世絵, 猿, 原宿, 交差点, 伊勢神宮, 中山道, 提灯, 移動, こじんまり, 神
+cluster6:(1)
+堂
+cluster7:(6)
+神社, 都電, お婆ちゃん, 狛犬, お社, 祠
+cluster8:(4)
+紀行文, 江戸時代, 歴史, 歴史散歩
+cluster9:(7)
+地蔵通り, 休憩所, 右脇, 地蔵, 刺抜き地蔵, 地蔵周り, 猿田彦大
+cluster10:(10)
+庚申堂, 巣鴨, 巣鴨駅, 巣鴨の庚申塚, 駅, 大塚駅, 庚申塚駅, 巣鴨庚申堂, 地下鉄巣鴨駅, 巣鴨地蔵
+
+howmany entities : 54
+howmany clusters : 11
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:都営三田線 巣鴨駅--------------------
+top3 entities near to cluster0>>
+名家, 華族, 大名
+top3 entities near to cluster1>>
+駅, 徒歩, 都営
+top3 entities near to cluster3>>
+霊園, 墓地, 斎場

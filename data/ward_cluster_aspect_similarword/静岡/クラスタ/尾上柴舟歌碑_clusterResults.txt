@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾上柴舟歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊東市役所, 伊東
+cluster1:(4)
+あたり, 方, 奥, 北側
+cluster2:(2)
+別荘, 公園
+cluster3:(1)
+物見塚公園
+cluster4:(1)
+尾上柴舟
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 6entities.

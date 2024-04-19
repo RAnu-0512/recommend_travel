@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吐月峰柴屋寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+室町, 緑, 銀閣寺, 説明, 京都, 一部, 時代, 中期, 臨済宗, 今川
+cluster1:(4)
+寺院, 庭園, 妙心寺派, 寺
+cluster2:(1)
+丸子城
+cluster3:(1)
+拝観料
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 2entities.

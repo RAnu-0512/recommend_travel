@@ -1,0 +1,19 @@
+--------------------similar_words:東萩駅観光案内所--------------------
+top3 entities near to cluster0>>
+車窓, 沿線, 景色
+top3 entities near to cluster1>>
+バス停, 停留所, 駅
+top3 entities near to cluster3>>
+宿車, バス車, バス, 宿
+top3 entities near to cluster4>>
+荷物, 手荷物, スーツケース
+top3 entities near to cluster5>>
+夜道, 暗がり, 帰り道
+top3 entities near to cluster6>>
+運転手, 運転, 同乗
+top3 entities near to cluster7>>
+駅, 構内, 駅前
+top3 entities near to cluster8>>
+遺産, 世界, 産業
+top3 entities near to cluster10>>
+名所, 商工, 名所旧跡

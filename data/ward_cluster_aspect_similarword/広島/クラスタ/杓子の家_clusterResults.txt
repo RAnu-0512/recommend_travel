@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杓子の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+大杓子, 杓子, 祈願杓子, 杓子ストラップ
+cluster1:(3)
+営業時間, 専門店, 時間
+cluster2:(20)
+コメント, 手書き, 宮島, 記念, 味, 店, 店内, 方, 名入れ, ストラップ, 説明, 老婆, 土産, 名前, ネット, メッセージ, こと, しゃもじ, 移転, 店頭
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 3
+deleted 0entities.

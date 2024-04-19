@@ -1,0 +1,9 @@
+--------------------similar_words:天領代官所跡--------------------
+top3 entities near to cluster0>>
+歴史, 由緒, 地名
+top3 entities near to cluster1>>
+跡地, 裏手, 跡
+top3 entities near to cluster2>>
+幕府, 朝廷, 幕臣
+top3 entities near to cluster3>>
+代官, 天領, 奉行

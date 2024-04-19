@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Nama candle 虎ノ門ヒルズビジネスタワー店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+生キャンドルセット, 生キャンドル
+cluster1:(7)
+方, GW, 店員, 予約, キャンドル, ロウ, センス
+cluster2:(3)
+匂い, 香り, 違い技術
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

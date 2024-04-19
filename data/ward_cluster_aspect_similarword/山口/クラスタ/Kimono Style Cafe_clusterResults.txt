@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Kimono Style Cafe>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+萩の城下町, 萩散策, 萩焼, 城下町萩, 萩, 山口県萩市
+cluster1:(3)
+撮影プラン, 撮影, 写真
+cluster2:(19)
+カメラマン, カフェ, ドリンク, ところ, レンタル, スタッフ, センス, シフォンケーキ, 思い出, 着付け, ヘアー, 帯締め, ラテ, ふわふわ, ヘアアレンジ, 城下町, オーナー, イメージ, 姉さん
+cluster3:(2)
+雨, 天気
+cluster4:(5)
+小物, 着付け中, 色, 種類, 帯
+cluster5:(3)
+店, 場所, 町
+cluster6:(3)
+夫婦, 女性, 友人
+cluster7:(3)
+もの, お話, 方
+cluster8:(2)
+最後, にゅうめん
+cluster9:(1)
+疲れ
+cluster10:(1)
+会話
+cluster11:(1)
+追加料金
+cluster12:(1)
+食べ歩き
+cluster13:(6)
+着物, 着付師, 着物レンタル, 髪飾り, 着付, 結婚記念日
+
+howmany entities : 56
+howmany clusters : 14
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 14
+deleted 0entities.

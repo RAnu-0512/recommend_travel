@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:拝島公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, 場所
+cluster1:(2)
+公園, 敷地
+cluster2:(1)
+桜
+cluster3:(3)
+日吉神社, 拝島大師, 大日堂
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾道商業会議所記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+会議場, 会議所, 尾道商業会議所記念館, 商工会議所, 商業会議所, フリーWi-Fi
+cluster1:(2)
+海運業, 海運業会社
+cluster2:(3)
+尾道駅, 尾道観光, 尾道市
+cluster3:(2)
+観光案内コーナー, 観光案内
+cluster4:(2)
+観光, 観光スポット
+cluster5:(2)
+商店街, アーケード商店街
+cluster6:(2)
+商業史, 商業都市
+cluster7:(2)
+建築物, 建造物
+cluster8:(2)
+洋風建築, 近代建築
+cluster9:(11)
+傍聴人席, 展示物, 展示, 記念館, 議場全体, 展示品, 議場, 資料展示, 展示室, 二階建て, 入場無料
+cluster10:(6)
+案内, 撮影, 休憩, 写真, 見学, 勉強
+cluster11:(7)
+館, 歴史, 資料, 市, 広場, 駅, 港町
+cluster12:(19)
+入り口, 文化財, もの, 会社, 友人, ころ, 大黒天, 方, 建物, パンフレット, 全体, 気分, 目的, 雰囲気, スタッフ, 真ん中あたり, こと, 場所, 見ごたえ
+cluster13:(1)
+レトロ感
+
+howmany entities : 67
+howmany clusters : 14
+howmany entities (more than1entities) : 67
+howmany clusters (more than1entities) : 14
+deleted 0entities.

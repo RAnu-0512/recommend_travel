@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円形劇場くらよしフィギュアミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+倉吉市, 鳥取県
+cluster1:(2)
+駐車場, 入場料
+cluster2:(2)
+円形劇場, 円形
+cluster3:(2)
+価値, 興味
+cluster4:(2)
+色, ネームプレート
+cluster5:(2)
+家族, 人
+cluster6:(2)
+キャラクターグッズ, マンホールカード
+cluster7:(14)
+シルバニアファミリー, フィギャア, ファン, ゲーム, エリア, アニメ, ミュージアム, 小学校, スタッフ, 入り口, キャラクター, 小学生, 博物館, フィギュア
+cluster8:(1)
+塗り絵コーナー
+cluster9:(1)
+移動
+cluster10:(3)
+町, 文化, 初代ファミリーコンピュータ
+cluster11:(3)
+首, 角, くじ
+cluster12:(7)
+建物, 校舎, 展示, 売店, 見学エリア, 明倫小学校, 館内
+
+howmany entities : 43
+howmany clusters : 13
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 13
+deleted 0entities.

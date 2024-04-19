@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金春湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+銀座湯, 銀座改札口, 新橋駅, 銀座8丁目, 大都会銀座, 銀座駅, 金春通り沿い, 銀座, 金春湯, 真ん中銀座, 繁華街, 移ろいゆく銀座
+cluster1:(3)
+所, 場所, 地
+cluster2:(8)
+疲れ, ボイラー, 笑, 関係, 芸能人, 印象, 雰囲気, 友人
+cluster3:(3)
+都会, 大人, 料金
+cluster4:(1)
+交換
+cluster5:(2)
+昭和, 徒歩
+cluster6:(4)
+老舗, 人気, 文化, 歴史
+cluster7:(1)
+開業
+cluster8:(1)
+年数
+cluster9:(2)
+外国人, 無類
+cluster10:(7)
+脱衣場, 銭湯, 浴槽, 金魚, 入浴料, 風呂, 老舗銭湯
+cluster11:(2)
+レトロ感, 古き良き日本
+
+howmany entities : 46
+howmany clusters : 12
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 12
+deleted 0entities.

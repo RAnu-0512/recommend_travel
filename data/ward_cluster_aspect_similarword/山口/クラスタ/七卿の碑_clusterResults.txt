@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七卿の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+山口線, 目, 湯田温泉, 変
+cluster1:(2)
+都, 地
+cluster2:(1)
+京
+cluster3:(1)
+津和野駅
+cluster4:(5)
+幕末, 史跡, 碑, 事件, 歴史
+cluster5:(1)
+禁門
+cluster6:(4)
+公家たち, 公家, 長州藩, 公卿
+cluster7:(2)
+三条実美, 三条実
+cluster8:(4)
+井上馨, 井上公園, 井上, 山下公園
+cluster9:(2)
+山口県, ひとまず湯田温泉郷
+
+howmany entities : 26
+howmany clusters : 10
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 10
+deleted 0entities.

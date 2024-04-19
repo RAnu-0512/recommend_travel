@@ -1,0 +1,21 @@
+--------------------similar_words:小塚原刑場跡--------------------
+top3 entities near to cluster1>>
+地蔵, 小僧, 鼠
+top3 entities near to cluster2>>
+境内, 駅, 寺院
+top3 entities near to cluster4>>
+時代, 現代, 昔
+top3 entities near to cluster6>>
+面影, 跡, 面積
+top3 entities near to cluster7>>
+重罪人, 罪人, 重罪
+top3 entities near to cluster8>>
+時代, 歴史, 文化
+top3 entities near to cluster9>>
+回向院, 回向, 慈妙
+top3 entities near to cluster10>>
+刑場, 時代, 鈴が森
+top3 entities near to cluster11>>
+刑場, 跡, 遺構
+top3 entities near to cluster12>>
+刑場, 鈴が森, 晒首

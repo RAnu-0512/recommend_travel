@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:相良油田油井>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+繁栄ぶり, 繁栄振り
+cluster1:(3)
+油田, 石油, 油井
+cluster2:(6)
+こと, 史跡, 設備, 面影, 開発, おススメ
+cluster3:(1)
+相良油田油井
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

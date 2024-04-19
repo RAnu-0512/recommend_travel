@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鮎壺の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+溶岩流, 三島溶岩流上, 三島溶岩, 三島, 鮎壷公園, 溶岩石, 鮎壺, 鮎, 溶岩, 溶岩棚
+cluster1:(4)
+いうか滝, 川沿い, 滝近く, 滝
+cluster2:(4)
+駐車場, 下土狩駅, 駅, 駅寄り
+cluster3:(34)
+気, 名, マンション, 境界, 川脇, 所, 高さ, 水, 整備, 川, こと, 黄瀬川, 大きさ, 居心地, 下, 幅, 調べ, 上記, つり橋, 落差, 周辺, 説, 噴火, 富士山, 後ろ, 迫力, 公園, 近く, 中, 公共, 場所, 水量, 滝つぼ, 風
+cluster4:(4)
+JR沼津駅, 長泉町, 愛鷹ローム層, 沼津市
+cluster5:(5)
+住宅地, 景勝地, 住宅, 公共施設管理事務所, 住宅街
+
+howmany entities : 61
+howmany clusters : 6
+howmany entities (more than3entities) : 61
+howmany clusters (more than3entities) : 6
+deleted 0entities.

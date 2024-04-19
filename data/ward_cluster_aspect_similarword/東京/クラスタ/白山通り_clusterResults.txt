@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白山通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+千代田区, 東京都, 文京区, 豊島区
+cluster1:(2)
+道路, 幹線道路
+cluster2:(5)
+大手町, 一ツ橋, 西巣鴨, 交差点, 神保町
+cluster3:(2)
+始点, 終点
+cluster4:(1)
+平川門
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

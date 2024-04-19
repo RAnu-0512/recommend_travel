@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香勝寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+桔梗園, 桔梗, 桔梗寺, 天竜浜名湖
+cluster1:(24)
+ききょう庭園, 駐車場, 鑑賞, 和, セット, 時期, 閉園, 抹茶セット, 門, 左右, 音, 風鈴, 抹茶, 目的, 本堂, 境内, 花, 蓮, 形, 御菓子, 甕, ききょう, 季節, 寺
+cluster2:(1)
+茶室無際庵
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 2
+deleted 1entities.

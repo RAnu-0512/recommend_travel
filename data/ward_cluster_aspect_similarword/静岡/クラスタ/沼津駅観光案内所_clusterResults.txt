@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津駅観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+配布, サンシャイン, パンフレット, 追記, ラブライブ, コラボ
+cluster1:(2)
+沼津市, 沼津ロケ地マップ
+cluster2:(4)
+花火大会期間, 案内所, 観光案内所, 記念展示室
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

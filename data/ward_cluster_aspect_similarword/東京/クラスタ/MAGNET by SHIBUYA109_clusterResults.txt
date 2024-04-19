@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MAGNET by SHIBUYA109>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+商業ビル, ビル
+cluster1:(2)
+渋谷スクランブル, 渋谷
+cluster2:(4)
+全体, アクセス, 交差点, 角
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:洞春寺山門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入り口, 瑠璃光寺
+cluster1:(1)
+菩提寺
+cluster2:(1)
+建物
+cluster3:(1)
+寺院
+cluster4:(2)
+納経所, 洞春寺
+cluster5:(1)
+毛利元就
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

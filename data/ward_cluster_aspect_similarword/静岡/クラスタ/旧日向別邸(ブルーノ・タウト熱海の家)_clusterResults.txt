@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧日向別邸(ブルーノ・タウト熱海の家)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(40)
+坂道, 外観, 何か, 途中, 模様替え, こと, ヒント, 馬, ガラス, 内部, 家, 方, 昔, 日本, ブルーノタウト, 美, 坂, 人, 造り, 宅, JR, 徒歩, 時間, 庭, 形, 中, 海, 距離, 蹄鉄, 設計, 記憶, 建物, 部屋, 先, ドイツ, 作品, ビデオ, 週末, メモ, 道
+cluster1:(2)
+予約, 到着
+cluster2:(4)
+勉強, 見学, 仕事, 説明
+cluster3:(1)
+案内ガイド
+cluster4:(1)
+入館
+cluster5:(1)
+写真撮影
+cluster6:(1)
+予約制
+cluster7:(1)
+人らしさ
+cluster8:(8)
+日向利兵衛, 駐車場, 熱海駅, 地下室, 学料金, 日向別邸, 生涯最後, 地下
+cluster9:(9)
+起雲閣, 日本建築, 日本家屋, 実業家, 建築物, 建築好き, 建築家, 建築, ブルーノタウト日本唯一
+
+howmany entities : 68
+howmany clusters : 10
+howmany entities (more than3entities) : 61
+howmany clusters (more than3entities) : 4
+deleted 7entities.

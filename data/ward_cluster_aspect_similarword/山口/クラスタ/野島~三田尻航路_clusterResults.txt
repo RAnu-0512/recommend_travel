@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野島~三田尻航路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+防府駅, 防府市
+cluster1:(3)
+運休, 運航, 運航スケジュール
+cluster2:(2)
+野島海運, 野島
+cluster3:(2)
+島側, 本土側
+cluster4:(2)
+三田尻, レンタサイクル
+cluster5:(2)
+確認, 変更
+cluster6:(1)
+拠点
+cluster7:(3)
+離島, 三田尻港, 港
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:胸突坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+関口芭蕉庵ー水神神社, 講談社 野間記念館前ー目白通り
+cluster1:(3)
+坂, 傾斜, 急坂
+cluster2:(3)
+江戸川公園, 江戸川橋駅, 道
+cluster3:(7)
+人, 神田川, 余裕, 文字, 胸, 目白台, 自転車
+cluster4:(1)
+東京23区屈指
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小富士>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+沼, 野鳥
+cluster1:(8)
+解説, ガイド, 小富士, 途中, 場所, トカゲ, 最南端, ツアー
+cluster2:(2)
+トレッキング道, 絶景
+cluster3:(1)
+原付
+cluster4:(1)
+固有種
+cluster5:(1)
+駐車場
+cluster6:(1)
+都道
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

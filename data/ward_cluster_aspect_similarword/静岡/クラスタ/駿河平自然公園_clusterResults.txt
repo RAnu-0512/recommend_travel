@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駿河平自然公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+バス, シャトルバス
+cluster1:(3)
+所, 場所, 制限
+cluster2:(3)
+ベルナールビュッフェ美術館, ビュッフェ美術館, 美術館
+cluster3:(2)
+階段, 丘
+cluster4:(3)
+緑, 自然, 子供
+cluster5:(2)
+下, 間
+cluster6:(7)
+ルート, 手入れ, バス停, つり橋, スリル, クレマチス, 吊り橋
+cluster7:(2)
+徒歩, 近道
+cluster8:(6)
+起伏, 庭園, 芝生, 地形, 公園, 散歩
+cluster9:(4)
+樹々, 北エリア, 南エリア, 東南側
+cluster10:(1)
+野性味
+cluster11:(1)
+駿河平自然公園
+
+howmany entities : 36
+howmany clusters : 12
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 6
+deleted 10entities.

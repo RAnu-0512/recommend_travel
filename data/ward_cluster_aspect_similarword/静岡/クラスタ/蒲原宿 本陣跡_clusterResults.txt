@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒲原宿 本陣跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+宿駅, 本陣跡, 本陣, 宿場
+cluster1:(3)
+案内板, 渡し, 所
+cluster2:(5)
+蒲原, 奈良, 富士川, 鎌倉, 慶長
+cluster3:(1)
+脇本陣三カ所
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 1entities.

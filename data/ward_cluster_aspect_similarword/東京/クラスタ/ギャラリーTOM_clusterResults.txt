@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ギャラリーTOM>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コンクリート, 美術館
+cluster1:(1)
+ギャラリーTOM
+cluster2:(1)
+ロゴ
+cluster3:(1)
+片隅
+cluster4:(1)
+松濤
+cluster5:(1)
+視覚障害者
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

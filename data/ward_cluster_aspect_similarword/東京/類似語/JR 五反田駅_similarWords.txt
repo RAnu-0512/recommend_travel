@@ -1,0 +1,7 @@
+--------------------similar_words:JR 五反田駅--------------------
+top3 entities near to cluster0>>
+駅店, 本店, 駅
+top3 entities near to cluster1>>
+都営, 駅, 乗換え
+top3 entities near to cluster2>>
+東急, 改札, 東横線

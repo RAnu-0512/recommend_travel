@@ -1,0 +1,13 @@
+--------------------similar_words:渋谷ちかみちラウンジ--------------------
+top3 entities near to cluster0>>
+ラウンジ, コンコース, アシアナラウンジ
+top3 entities near to cluster1>>
+トイレ, 便所, レストルーム
+top3 entities near to cluster2>>
+ルーム, パウダー, ハウス
+top3 entities near to cluster3>>
+駅, 駅前, 徒歩
+top3 entities near to cluster5>>
+総合, 研究所, アゴラコラム
+top3 entities near to cluster6>>
+改札口, 改札, 口前

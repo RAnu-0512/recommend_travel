@@ -1,0 +1,9 @@
+--------------------similar_words:中野町役場跡--------------------
+top3 entities near to cluster0>>
+境内, 建物, 本殿
+top3 entities near to cluster1>>
+産業, 時代, 中心
+top3 entities near to cluster2>>
+明治, 大正, 幕末
+top3 entities near to cluster3>>
+役場, 町, 街道

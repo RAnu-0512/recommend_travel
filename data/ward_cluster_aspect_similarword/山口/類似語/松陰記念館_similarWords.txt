@@ -1,0 +1,15 @@
+--------------------similar_words:松陰記念館--------------------
+top3 entities near to cluster0>>
+人形, 館, 展示
+top3 entities near to cluster1>>
+写真, 風景, 姿
+top3 entities near to cluster2>>
+駅, 施設, 構内
+top3 entities near to cluster3>>
+手紙, ラブレター, 葉書
+top3 entities near to cluster4>>
+塾, 弐核, 遊成
+top3 entities near to cluster5>>
+再現, 復元, シミュレート
+top3 entities near to cluster6>>
+説得力, 説得, 熱意

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふれあいサウナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+方, 水, 開店, ご飯, 当番, 体, 時間, サツマイモ
+cluster1:(4)
+バスタオル, ふれあいサウナ, サウナ, サウナタオル
+cluster2:(2)
+温度, 地熱
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

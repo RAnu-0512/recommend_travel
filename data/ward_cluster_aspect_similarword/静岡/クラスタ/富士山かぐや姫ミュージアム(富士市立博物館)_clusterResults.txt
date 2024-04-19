@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山かぐや姫ミュージアム(富士市立博物館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展示, 企画展, 展示室
+cluster1:(3)
+日本, 陶磁器, 富士山
+cluster2:(2)
+地域, 人
+cluster3:(1)
+歴史
+cluster4:(3)
+特徴, 目的, 印象
+cluster5:(1)
+昭和
+cluster6:(5)
+写真, 大画面, 映像, 写真家, 映像コーナー
+cluster7:(6)
+かぐや姫, 富士市, 清水緑, 富士・富士宮, 姫伝説, 広見公園
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 5
+deleted 4entities.

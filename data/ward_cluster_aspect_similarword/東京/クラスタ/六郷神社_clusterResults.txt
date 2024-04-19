@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六郷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+鳥居, 狛犬, 社殿, 境内
+cluster1:(4)
+黄色, 桃色, 梅, 白
+cluster2:(7)
+別, 多摩川, 右, アクセス方法, 顔, 上, 右側
+cluster3:(1)
+京浜
+cluster4:(8)
+蒲田駅, 高架下, 六郷神社, 駅, 改札, バス通り, 六郷, 六郷土手駅
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

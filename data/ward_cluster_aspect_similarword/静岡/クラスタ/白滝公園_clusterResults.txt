@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白滝公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供達, からくり人形, 人形
+cluster1:(9)
+暖か, 水, 鴨, 川, 池, 溶岩, 自然, 冬, 岩
+cluster2:(4)
+地図, 公園, 道路, 散歩
+cluster3:(2)
+南口, 市民
+cluster4:(24)
+ボランティア, 交差点, 注意, 途中, 街, サイズ, 子, ウサギ, ベンチ, 駅, からくり, 付近, 湧き水, 自動, 富士山, めぐみ, スポット, 子供, 子ども, 場所, 三叉路, 衣装, 足元, 前
+cluster5:(5)
+滞在時間, 観光案内板, 観光地, 案内板, 折角の歴史ある公園
+cluster6:(2)
+伏流水, 湧水
+cluster7:(2)
+三島の湧き水公園, 白滝公園
+cluster8:(4)
+三島駅, 三島散策, 三島大社, 三島
+cluster9:(1)
+楽寿園
+
+howmany entities : 56
+howmany clusters : 10
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 6
+deleted 7entities.

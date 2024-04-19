@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上野案内所, 観光案内所
+cluster1:(2)
+上野松坂屋, 上野
+cluster2:(2)
+観光, 観光MAP
+cluster3:(6)
+ショッピング, シャンシャン, 土産, 松坂屋, パンダ, パンダグッズ
+cluster4:(7)
+場所, 情報, 地下, 体, 中, 地図, 周辺
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

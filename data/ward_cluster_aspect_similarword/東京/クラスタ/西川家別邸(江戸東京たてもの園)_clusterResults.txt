@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西川家別邸(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+別邸, 隠居所
+cluster1:(1)
+接客
+cluster2:(1)
+実業家
+cluster3:(1)
+製糸会社
+cluster4:(1)
+西川伊左衛門
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

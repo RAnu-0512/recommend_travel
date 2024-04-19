@@ -1,0 +1,11 @@
+--------------------similar_words:大野池--------------------
+top3 entities near to cluster0>>
+大山, 鎬則, レーク
+top3 entities near to cluster1>>
+湖池, 湖沼, 湖
+top3 entities near to cluster2>>
+散策, 散歩, 駅
+top3 entities near to cluster3>>
+新緑, 紅葉, 景色
+top3 entities near to cluster4>>
+周囲, 周り, 空気

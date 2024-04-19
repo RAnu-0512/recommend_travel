@@ -1,0 +1,11 @@
+--------------------similar_words:大田往還道松--------------------
+top3 entities near to cluster0>>
+大木, 松, 杉
+top3 entities near to cluster1>>
+歴史, 明治, 斜め
+top3 entities near to cluster2>>
+樹齢, 巨木, 老木
+top3 entities near to cluster4>>
+囲, 幹, 囲目
+top3 entities near to cluster5>>
+松道, 往還, 松

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南沢あじさい山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+駐車場, 電車終点, シャトルバス, バスチケット, バス, 武蔵五日市駅, 乗降
+cluster1:(2)
+入山, 入山料
+cluster2:(3)
+入口, 付近, 徒歩
+cluster3:(12)
+紫陽花, アジサイ, あきる, 人, 時期, 自販機, コチラ, あじさい, 方, 受付, 購入, 見た目
+cluster4:(2)
+方式, 金
+cluster5:(6)
+山, あじさい山, 鎌倉, 斜面, 南沢, 紫陽花名所
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 6
+deleted 0entities.

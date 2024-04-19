@@ -1,0 +1,37 @@
+--------------------similar_words:鳥取二十世紀梨記念館 なしっこ館--------------------
+top3 entities near to cluster0>>
+梨, 沙ゆり, 那結
+top3 entities near to cluster2>>
+時間, 時間帯
+top3 entities near to cluster3>>
+見学, 試飲, 体験
+top3 entities near to cluster4>>
+紹介, 案内, 販売
+top3 entities near to cluster5>>
+研究, 情報, 資料
+top3 entities near to cluster7>>
+少ない, 大きい
+top3 entities near to cluster8>>
+来料, 食べ, 来
+top3 entities near to cluster10>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster11>>
+試食, 土産, おみやげ
+top3 entities near to cluster12>>
+案内, 受付, 予約
+top3 entities near to cluster13>>
+展示, 資料, 館
+top3 entities near to cluster14>>
+展示, 出展, 展覧
+top3 entities near to cluster15>>
+館内, 入館, 館
+top3 entities near to cluster16>>
+施設, 遊具, 駐車
+top3 entities near to cluster17>>
+栽培, 生産, 農業
+top3 entities near to cluster18>>
+品種, 産地, 酸味
+top3 entities near to cluster19>>
+果物, 建物, 野菜
+top3 entities near to cluster21>>
+黄, 緑色, 斑

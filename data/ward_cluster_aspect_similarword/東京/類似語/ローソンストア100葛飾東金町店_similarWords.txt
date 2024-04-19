@@ -1,0 +1,19 @@
+--------------------similar_words:ローソンストア100葛飾東金町店--------------------
+top3 entities near to cluster0>>
+店員, 店内, 店主
+top3 entities near to cluster1>>
+接客, 応対, 業務
+top3 entities near to cluster2>>
+コンビニ, スーパー, コンビニエンスストア
+top3 entities near to cluster3>>
+ふりかけ, ふりかける, 振り掛け
+top3 entities near to cluster4>>
+ふつー, 普通, フツー
+top3 entities near to cluster5>>
+買い物, 買物, 買いもの
+top3 entities near to cluster7>>
+値段, 安い, 価格
+top3 entities near to cluster10>>
+食料品, 食料, 品等
+top3 entities near to cluster11>>
+清潔感, 不潔感, 清潔, 不潔

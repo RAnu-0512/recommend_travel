@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浄土寺多宝塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+塔, 古寺参り, 丘
+cluster1:(3)
+歴史, 時代, 価値
+cluster2:(8)
+阿弥陀堂, お参り, 内部, 文化財, そのもの, 建物, 国, 折り返し
+cluster3:(3)
+形, 場所, 様子
+cluster4:(3)
+中, 最終, 上
+cluster5:(1)
+端
+cluster6:(1)
+疲れ
+cluster7:(1)
+宝庫
+cluster8:(12)
+境内, 浄土寺, 鎌倉, 寺, 尾道, 多宝塔, 建立, 秀麗, 浄土寺多宝塔, 飛鳥, 本堂, 宝塔
+cluster9:(3)
+多宝搭, 多重塔, 開創
+cluster10:(7)
+鎌倉末期, 国宝建築物, 国宝指定, 国指定文化財, 国宝, 鎌倉時代末期, 建築物
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 11
+deleted 0entities.

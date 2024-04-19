@@ -1,0 +1,21 @@
+--------------------similar_words:凧の博物館--------------------
+top3 entities near to cluster0>>
+辨開凧, 辨開, 奴凧
+top3 entities near to cluster1>>
+いけん, たい, ちゃ
+top3 entities near to cluster2>>
+洋食店, 洋食, 和食
+top3 entities near to cluster3>>
+展示, 博物館, 入場
+top3 entities near to cluster4>>
+国内, 海外, 全国
+top3 entities near to cluster5>>
+見ごたえ, 見応え
+top3 entities near to cluster7>>
+趣味, 多趣味, 無趣味
+top3 entities near to cluster8>>
+機会, チャンス, 好機
+top3 entities near to cluster9>>
+ビル, コレド
+top3 entities near to cluster10>>
+社長, 区, 時代

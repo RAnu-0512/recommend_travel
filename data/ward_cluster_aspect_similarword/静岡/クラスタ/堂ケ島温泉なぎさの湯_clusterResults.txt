@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堂ケ島温泉なぎさの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+水着, 体, 地元, 貸し切り状態, 海水浴, 大人, 町内, 露天風呂, 足, 近く, 洗い場
+cluster1:(4)
+砂, 海岸, 海, 西伊豆町
+cluster2:(4)
+湯船, 内湯, 利用客, 外湯
+cluster3:(3)
+入湯料, 町営, 町営温泉
+cluster4:(1)
+堂ヶ島
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 1entities.

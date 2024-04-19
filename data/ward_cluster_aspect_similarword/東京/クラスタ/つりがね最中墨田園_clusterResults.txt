@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:つりがね最中墨田園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+感じ, ピンク色
+cluster1:(1)
+形
+cluster2:(1)
+購入
+cluster3:(1)
+スマホ最中
+cluster4:(1)
+甘さ
+cluster5:(1)
+柚子餡
+cluster6:(1)
+墨田区銘品名店会
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日の出山(東京都日の出町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+初心者, オススメ, 自然, ハイキングコース, 景色, 東京, 人気, 日, 負担, 価値, 膝, 初日の出, 秋, 天気, 電車, エリア, 景観, 日の出, 目撃情報, 御岳山, バス, 空気, 道, ハイキング, 眺め, 御嶽山, 都心, 階段
+cluster1:(8)
+山, 出山, 山頂, 熊, 日の出山, 麓, クマ鈴, 頂上
+cluster2:(5)
+展望, 登山道, 展望台, 登山, 縦走ルート
+cluster3:(1)
+JR御嶽駅
+
+howmany entities : 42
+howmany clusters : 4
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 4
+deleted 0entities.

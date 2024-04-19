@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京地下鉄>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+地下鉄駅, 路線, 観光客, 改札, 路線図, 都営, 駅名, 都営線
+cluster1:(4)
+上野, 東京, 都, 東京メトロ
+cluster2:(4)
+地上, 端, 地下, 出口
+cluster3:(2)
+本社, 都心
+cluster4:(14)
+エスカレーター, 特典, 人, 乗り換え, 都営地下鉄, ところ, 乗り物, メトロ, 乗換え, 地下鉄, 世話, 網, チケット, 目
+cluster5:(4)
+上下移動, 乗り放題チケット, チケット保持者, 利用価値
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 6
+deleted 0entities.

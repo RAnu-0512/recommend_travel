@@ -1,0 +1,29 @@
+--------------------similar_words:東京荻窪 天然温泉 なごみの湯--------------------
+top3 entities near to cluster0>>
+温泉, 銭湯, 湯
+top3 entities near to cluster1>>
+匂い, 汗, におい
+top3 entities near to cluster3>>
+満載, 無い
+top3 entities near to cluster5>>
+露天風呂, 飲み物, ルーム
+top3 entities near to cluster6>>
+サウナ, 朝風呂, 露天風呂
+top3 entities near to cluster7>>
+駐車料, 料金, 駐車
+top3 entities near to cluster8>>
+常連, お客, 上客
+top3 entities near to cluster9>>
+男性, 女性, 男女
+top3 entities near to cluster10>>
+女性, 男性, 妙齢
+top3 entities near to cluster11>>
+専用, 女性, 男性
+top3 entities near to cluster12>>
+浴室, 室内, 浴槽
+top3 entities near to cluster13>>
+向上, 問題
+top3 entities near to cluster14>>
+事態, 緊急, 宣言
+top3 entities near to cluster15>>
+温泉, 湯, 天然

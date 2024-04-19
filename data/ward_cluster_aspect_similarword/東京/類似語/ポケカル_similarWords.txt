@@ -1,0 +1,39 @@
+--------------------similar_words:ポケカル--------------------
+top3 entities near to cluster1>>
+価値, 付加, 役割
+top3 entities near to cluster4>>
+店舗, 工場
+top3 entities near to cluster6>>
+子供, 人達
+top3 entities near to cluster7>>
+話題, 見所, 見どころ
+top3 entities near to cluster8>>
+お客, 一般, 常連
+top3 entities near to cluster9>>
+ツアー, 往復, 料金
+top3 entities near to cluster10>>
+電車, 号車, 係員
+top3 entities near to cluster11>>
+ツアー, ガイド, 乗り場
+top3 entities near to cluster12>>
+ホテル, レストラン, 美術館
+top3 entities near to cluster13>>
+カレー, コロッケ, ハンバーグ
+top3 entities near to cluster14>>
+浜離宮, パークサイドプレイス, 朝日
+top3 entities near to cluster15>>
+ランチ, バイキング, ディナー
+top3 entities near to cluster16>>
+食事, 昼食, 弁当
+top3 entities near to cluster17>>
+鰻重, 丼, 鰻
+top3 entities near to cluster18>>
+花火, 紅葉, 景色
+top3 entities near to cluster19>>
+見学, 出発, 到着
+top3 entities near to cluster20>>
+バス, 駅前, 駅
+top3 entities near to cluster21>>
+添乗, 護衛, 乗船
+top3 entities near to cluster22>>
+艦艇, 艦船, 護衛

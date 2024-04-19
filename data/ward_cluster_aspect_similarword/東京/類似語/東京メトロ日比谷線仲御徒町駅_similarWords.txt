@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ日比谷線仲御徒町駅--------------------
+top3 entities near to cluster1>>
+海岸線, 環状線, 海岸, 環状
+top3 entities near to cluster2>>
+駅, 御徒町, 駅前
+top3 entities near to cluster3>>
+駅, 乗換, 駅名

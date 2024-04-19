@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:韓流ショップモイザ本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+賑わい, グッズ
+cluster1:(1)
+大久保
+cluster2:(1)
+感じ
+cluster3:(1)
+店
+cluster4:(1)
+韓国
+cluster5:(1)
+横道
+cluster6:(1)
+韓流グッズ
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

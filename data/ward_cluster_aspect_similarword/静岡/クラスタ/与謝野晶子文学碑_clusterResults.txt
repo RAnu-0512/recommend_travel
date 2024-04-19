@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:与謝野晶子文学碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+与謝野, 梅
+cluster1:(1)
+梅花
+cluster2:(2)
+境内, 石碑
+cluster3:(1)
+句
+cluster4:(1)
+教
+cluster5:(1)
+与謝野晶子
+cluster6:(1)
+文学碑
+cluster7:(1)
+開く身
+cluster8:(1)
+臥龍梅
+
+howmany entities : 11
+howmany clusters : 9
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 11entities.

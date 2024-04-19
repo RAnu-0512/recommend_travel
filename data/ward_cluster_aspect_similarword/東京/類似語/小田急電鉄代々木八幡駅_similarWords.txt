@@ -1,0 +1,23 @@
+--------------------similar_words:小田急電鉄代々木八幡駅--------------------
+top3 entities near to cluster0>>
+環状線, 環状, 本線
+top3 entities near to cluster1>>
+ホーム, 上り
+top3 entities near to cluster3>>
+工事, 見学, 建設
+top3 entities near to cluster5>>
+守衛, 所内, 門衛
+top3 entities near to cluster6>>
+商店街, 繁華街, 商店, 繁華
+top3 entities near to cluster7>>
+駅, 駅前, 南口
+top3 entities near to cluster8>>
+駅, 徒歩, 駅前
+top3 entities near to cluster9>>
+駅, 駅前, 南口
+top3 entities near to cluster10>>
+遊園, 向ヶ丘, 駅
+top3 entities near to cluster11>>
+明学, 明, 冶大
+top3 entities near to cluster12>>
+資料, 研究, 教育

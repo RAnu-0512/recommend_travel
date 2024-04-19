@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井口家の大ツバキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+近所, ツバキ
+cluster1:(1)
+境内
+cluster2:(1)
+案内
+cluster3:(1)
+大木
+cluster4:(1)
+観光スポット
+cluster5:(1)
+住宅街
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

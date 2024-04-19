@@ -1,0 +1,9 @@
+--------------------similar_words:東急世田谷線 若林駅--------------------
+top3 entities near to cluster0>>
+特徴, 間, 利用
+top3 entities near to cluster1>>
+踏切, 信号, 線路
+top3 entities near to cluster2>>
+駅, 路線, 駅前
+top3 entities near to cluster3>>
+環状, 電車, 号線

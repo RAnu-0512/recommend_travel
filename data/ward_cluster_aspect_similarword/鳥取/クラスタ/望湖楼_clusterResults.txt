@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:望湖楼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+オリエント, 日々, 露天風呂, こと, 空間, 全て, 疲れ
+cluster1:(6)
+客室, 料理, 懐石, 風呂, 湖, 宿
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

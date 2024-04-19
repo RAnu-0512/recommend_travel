@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しながわ花海道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+勝島運河, 設置, 立会川駅, 水路, 佐久間象山, 地, 花, 事, 散歩, 開花時期, 復元大砲, 大砲, 砲台, 様子, 花街道, 幕末, 船
+cluster1:(2)
+土佐藩屋敷, 土佐藩
+cluster2:(2)
+坂本龍馬, 坂本龍馬像
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

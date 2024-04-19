@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杉山神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 臨時駐車場
+cluster1:(2)
+水系, 上流
+cluster2:(6)
+造り, 歴史, 神, 寺, 場所, 鶴見川
+cluster3:(6)
+杉山神社, 社殿, 社務所, 神社, 鎮守, 平尾村
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

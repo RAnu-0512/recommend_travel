@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松ノ木遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+機会, 事
+cluster1:(5)
+勉強, 見学, 子供, 管理, コンクリート
+cluster2:(3)
+遺跡, 社会科, 複合遺跡
+cluster3:(1)
+復原住居
+cluster4:(1)
+方南峰遺跡
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

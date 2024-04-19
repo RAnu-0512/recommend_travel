@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山本六丁子句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山本六丁子句碑, 山本六丁, 山本六丁子
+cluster1:(2)
+松月院, 弁天堂
+cluster2:(4)
+細道研究, 句碑, 真筆, 芭蕉研究
+cluster3:(2)
+伊東, 山本安三郎
+cluster4:(2)
+横, 奥
+cluster5:(2)
+書籍, 研究
+cluster6:(6)
+花びら, まわり, 時期, 人, 花, 方
+cluster7:(1)
+医者
+cluster8:(1)
+説明板
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 10entities.

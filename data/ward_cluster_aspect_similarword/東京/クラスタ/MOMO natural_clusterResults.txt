@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MOMO natural>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+人, 駅, 他, 自由が丘, 店, 邪魔, 手, 雰囲気, 価格, インテリア
+cluster1:(4)
+家具, 雑貨, キッチン用品, キッズ小物
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クレマチスガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光バス, シャトルバス
+cluster1:(2)
+時期, 季節
+cluster2:(3)
+客, 一体, 周囲
+cluster3:(2)
+庭, 花
+cluster4:(2)
+ガーデン, ホワイトガーデン
+cluster5:(2)
+色とりどり, クレマチス
+cluster6:(1)
+美術館
+cluster7:(1)
+車
+cluster8:(1)
+バラ
+cluster9:(3)
+芝生, 南エリア, 丘
+cluster10:(1)
+セット券
+cluster11:(2)
+樹々, 緑一面
+
+howmany entities : 22
+howmany clusters : 12
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 16entities.

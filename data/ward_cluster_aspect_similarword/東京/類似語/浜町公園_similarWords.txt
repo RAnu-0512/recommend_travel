@@ -1,0 +1,49 @@
+--------------------similar_words:浜町公園--------------------
+top3 entities near to cluster1>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster2>>
+散歩, 散策, 花見
+top3 entities near to cluster3>>
+紅葉, 紅葉狩り, 黄葉
+top3 entities near to cluster4>>
+秋, 季節, 春
+top3 entities near to cluster5>>
+桜, 銀杏, 桜色
+top3 entities near to cluster6>>
+緑, 水辺, 木々
+top3 entities near to cluster7>>
+ビル店, 飲食店, ビル, 飲食
+top3 entities near to cluster8>>
+近辺, 周辺, 界隈
+top3 entities near to cluster9>>
+人達, 人々
+top3 entities near to cluster10>>
+年配, 人気, 年輩
+top3 entities near to cluster11>>
+子供, 大人, 子ども
+top3 entities near to cluster12>>
+大会, 駅, 学校
+top3 entities near to cluster13>>
+敷地, 地下, 都心
+top3 entities near to cluster14>>
+芝生, 広場, 原っぱ
+top3 entities near to cluster15>>
+遊具, 広場, 滑り台
+top3 entities near to cluster16>>
+公園, 緑地, 遊歩道
+top3 entities near to cluster17>>
+復興, 震災, 被災
+top3 entities near to cluster18>>
+広場, 運動, 公園
+top3 entities near to cluster19>>
+運動場, 運動, 施設
+top3 entities near to cluster20>>
+練習場, 駐車場, 練習, 駐車
+top3 entities near to cluster21>>
+施設, 総合, 福祉
+top3 entities near to cluster22>>
+区立, 市立, 区
+top3 entities near to cluster23>>
+区, 中央, 区内
+top3 entities near to cluster25>>
+駅前, 明治

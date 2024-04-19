@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藤枝総合運動公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+ストレス, 試合, 無料シャトルバス, 多く, サッカー, 熱気, 小僧, グラウンド, 昼, 会場グルメ, シーズン, 会場, 時間, クラブマスコット, 列, サポーター, 景色, 藤枝, 場所, ドロー
+cluster1:(3)
+藤枝総合運動公園サッカー場, 平均入場者数, 蹴球都市藤枝
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 0entities.

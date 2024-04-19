@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:呉市立美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入船山記念館, 入船山公園
+cluster1:(3)
+呉港, 呉, 海上自衛隊施設
+cluster2:(2)
+絵画展示, 美術品
+cluster3:(4)
+原画, 漫画, 漫画原稿, 作者
+cluster4:(5)
+彫刻, 建物, レンガタイル, 歩道, 絵画
+cluster5:(6)
+途中, 間, 事, 美術館, 場所, メイン
+cluster6:(2)
+世界, 片隅
+cluster7:(1)
+観賞
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 8
+deleted 0entities.

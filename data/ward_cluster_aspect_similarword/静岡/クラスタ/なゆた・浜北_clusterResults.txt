@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なゆた・浜北>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜松市, 浜松北部地域
+cluster1:(2)
+なゆた浜北, ゆた浜北
+cluster2:(2)
+浜北駅, 遠州鉄道浜北駅
+cluster3:(3)
+浜北区役所, 浜北, 浜北図書館
+cluster4:(29)
+図書館, 駐車場, 地下駐車場, 台数, 利用, 態度, イベント, 区役所, 行政イベント, 地元, 飲食店, 入り口, パーキング, 住民票, PRイベント, もの, 駅, 本, 職員, 立体駐車場, モスバーガー, 手続き, 食事, アドバイス, 点, 子供, 施設, 前, パソコン
+
+howmany entities : 38
+howmany clusters : 5
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 2
+deleted 6entities.

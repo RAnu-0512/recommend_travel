@@ -1,0 +1,11 @@
+--------------------similar_words:畳ケ淵--------------------
+top3 entities near to cluster0>>
+階段, 石段, 絶景
+top3 entities near to cluster1>>
+溶岩, 火山, マグマ
+top3 entities near to cluster2>>
+川, 川底, 淵
+top3 entities near to cluster4>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster5>>
+節理, 柱状, 鍾乳石

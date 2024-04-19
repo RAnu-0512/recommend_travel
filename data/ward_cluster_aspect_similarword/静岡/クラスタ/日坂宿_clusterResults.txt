@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日坂宿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+妊婦, 名物, 役割, 下, 面影, 昔, 伝説, 重し, 宿場, 赤子, ひとつ小夜, 右手, 建物, 東海道
+cluster1:(5)
+中山, 夜泣き石, 石, 日坂, 坂
+cluster2:(1)
+日坂 佐夜ノ中山
+cluster3:(1)
+保永堂版 東海道五拾三次』日坂宿扇屋本陣
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 2entities.

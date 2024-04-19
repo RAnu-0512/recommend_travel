@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小富士遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小富士, 小富士遊歩道
+cluster1:(2)
+富士山, 遊歩道
+cluster2:(2)
+雪, 前面
+cluster3:(1)
+富士
+cluster4:(1)
+標高
+cluster5:(1)
+東裾
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

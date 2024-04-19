@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇喜多秀家の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+最終スポット, 笑, 八丈島, 撮影, 今回, ガイド, こと, 説明
+cluster1:(3)
+奇跡, 家, 歴史
+cluster2:(1)
+足早
+cluster3:(5)
+観光, 傘, 旅行, 碑, 墓
+cluster4:(1)
+宇喜多秀
+cluster5:(2)
+住居跡, 団体バスツアー
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,23 @@
+--------------------similar_words:東京港野鳥公園--------------------
+top3 entities near to cluster0>>
+野鳥, 鳥, 鳥類
+top3 entities near to cluster2>>
+公園, 園内, 入園
+top3 entities near to cluster3>>
+敷地, 建物, 施設
+top3 entities near to cluster4>>
+道路, 県道
+top3 entities near to cluster5>>
+バス車, バス, タクシー
+top3 entities near to cluster6>>
+備, 園内, 考
+top3 entities near to cluster7>>
+水辺, 緑, 自然
+top3 entities near to cluster8>>
+鳥, 鳥虫, 蚊
+top3 entities near to cluster9>>
+小魚, 小, 鯛
+top3 entities near to cluster10>>
+観察, 生活, 環境
+top3 entities near to cluster11>>
+公園, 都, 区内

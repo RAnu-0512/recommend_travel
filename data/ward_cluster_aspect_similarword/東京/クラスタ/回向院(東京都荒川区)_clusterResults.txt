@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:回向院(東京都荒川区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+橋本左, 橋本
+cluster1:(2)
+安政, 大獄
+cluster2:(2)
+墓, 寺院
+cluster3:(5)
+別, 延命寺, 人々, 小塚原, スポット
+cluster4:(2)
+鉄道, 建設
+cluster5:(1)
+刑場
+cluster6:(2)
+展示書物, 江戸時代
+cluster7:(1)
+鼠小僧
+cluster8:(2)
+回向院, 解体新書
+cluster9:(4)
+杉田玄白, 吉田松陰墓, 左内墓, 郷土資料館
+cluster10:(3)
+荒川区まちあるきマップ, 小塚原刑場跡と回向院, 江戸時代〜明治初期
+
+howmany entities : 26
+howmany clusters : 11
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 11
+deleted 0entities.

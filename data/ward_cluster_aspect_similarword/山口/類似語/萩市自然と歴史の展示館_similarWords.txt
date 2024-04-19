@@ -1,0 +1,13 @@
+--------------------similar_words:萩市自然と歴史の展示館--------------------
+top3 entities near to cluster0>>
+資料, 館, 展示
+top3 entities near to cluster1>>
+駅舎, 跨線橋, 構内
+top3 entities near to cluster2>>
+鉄道, 駅, 私鉄
+top3 entities near to cluster3>>
+見応え, 見ごたえ, 風情
+top3 entities near to cluster4>>
+父, 父親, 母
+top3 entities near to cluster6>>
+井上, 勝, 伊藤

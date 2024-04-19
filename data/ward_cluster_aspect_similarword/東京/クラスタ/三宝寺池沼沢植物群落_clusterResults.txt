@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三宝寺池沼沢植物群落>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天然記念物, 石神井公園
+cluster1:(1)
+見応え
+cluster2:(1)
+中
+cluster3:(1)
+場所
+cluster4:(1)
+花
+cluster5:(1)
+水生植物
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

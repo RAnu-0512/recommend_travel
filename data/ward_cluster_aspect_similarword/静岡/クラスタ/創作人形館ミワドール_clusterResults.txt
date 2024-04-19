@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:創作人形館ミワドール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+洋服, 表情, 人形
+cluster1:(8)
+ビスクドール, 母, 人間, 大人, 女性, 人, カーテン, 他
+cluster2:(2)
+希望, 方
+cluster3:(2)
+時間, 場所
+cluster4:(4)
+客, 受付スタッフ, 売店, 駅
+cluster5:(1)
+カーテン越し
+cluster6:(1)
+会計場所
+cluster7:(1)
+防止
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 7entities.

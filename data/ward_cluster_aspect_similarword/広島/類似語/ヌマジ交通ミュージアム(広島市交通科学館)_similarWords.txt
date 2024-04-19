@@ -1,0 +1,15 @@
+--------------------similar_words:ヌマジ交通ミュージアム(広島市交通科学館)--------------------
+top3 entities near to cluster0>>
+子供, 息子, 子ども
+top3 entities near to cluster1>>
+自転車, 乗り物, バイク
+top3 entities near to cluster2>>
+体験, 興味, 資料
+top3 entities near to cluster3>>
+屋上, 敷地, 屋外
+top3 entities near to cluster5>>
+金, 通称, 土
+top3 entities near to cluster6>>
+中心部, 中心, 主軸
+top3 entities near to cluster7>>
+電車, 車両, 鉄道

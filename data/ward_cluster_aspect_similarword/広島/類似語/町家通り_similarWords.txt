@@ -1,0 +1,19 @@
+--------------------similar_words:町家通り--------------------
+top3 entities near to cluster1>>
+参道, 朱色, 桜
+top3 entities near to cluster2>>
+民家, 町家, 建物
+top3 entities near to cluster3>>
+土産, 饅頭, おみやげ
+top3 entities near to cluster4>>
+裏道, 散策, 散歩
+top3 entities near to cluster5>>
+趣味, 風情, 趣
+top3 entities near to cluster6>>
+街並み, 町並み
+top3 entities near to cluster7>>
+生活, 日常
+top3 entities near to cluster8>>
+西方面, 北方面, 西方, 北方
+top3 entities near to cluster9>>
+土産物店, 土産物, 商店

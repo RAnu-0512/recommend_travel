@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:せら香遊ランド 『地下600mから湧出る豊富なラドンを含有する温泉水が自慢』>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ケビン, 家族, 団体
+cluster1:(3)
+風呂, 部屋, 景色
+cluster2:(1)
+せら香遊ランド
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

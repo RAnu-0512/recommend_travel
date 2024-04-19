@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:冨士浅間宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+富士浅間宮, 冨士浅間
+cluster1:(11)
+名, 訪問, 文化財, 静寂, 知名度, 徒歩, 中, 近く, 雰囲気, 印象, イメージ
+cluster2:(4)
+境内, 本殿, 道路, 東西
+cluster3:(2)
+愛野駅, 久野城
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 4entities.

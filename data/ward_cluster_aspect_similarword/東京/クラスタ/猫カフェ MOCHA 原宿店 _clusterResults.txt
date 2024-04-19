@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猫カフェ MOCHA 原宿店 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+チェーン店猫カフェ, 猫カフェ MOCHA 原宿店, 原宿, 外国人観光客, 猫カフェ MOCHA原宿店, 原宿駅, JR原宿駅, 渋谷区
+cluster1:(3)
+アイドル猫達, 猫ちゃん達, 猫たち
+cluster2:(2)
+子供猫, 大人猫
+cluster3:(6)
+猫, 動物, 猫ちゃん, 猫カフェ, 子猫, 猫派
+cluster4:(3)
+娘, 私達, 子供
+cluster5:(2)
+猫じゃらし, 持ち帰り
+cluster6:(3)
+おすすめ, カップル, スポット
+cluster7:(1)
+カフェ
+cluster8:(1)
+街並み
+cluster9:(1)
+写真
+cluster10:(5)
+場所, 人, 仕方, 前, 時間
+cluster11:(2)
+料金, 客
+cluster12:(3)
+空間, 窓, 店内
+cluster13:(1)
+格安価格
+
+howmany entities : 41
+howmany clusters : 14
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 14
+deleted 0entities.

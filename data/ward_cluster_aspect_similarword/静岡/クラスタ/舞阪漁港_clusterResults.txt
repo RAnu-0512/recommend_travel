@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:舞阪漁港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜松市, 静岡県
+cluster1:(2)
+舞阪, 舞阪漁港
+cluster2:(14)
+浜名湖, しらす, 彼, 多く, 大人, 周辺, 人, 店, 食堂, 天丼, 近く, 雰囲気, 子ども, 生しらす
+cluster3:(8)
+魚, 鮮魚店, 魚介, 水揚げ量, 食事処, 磯料理, 魚料理, 鮮度
+cluster4:(10)
+漁港周辺, 船, 釣り, 漁港, 漁船, 弁天島駅, 釣り人, 港, しらす船, 漁業
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 3
+deleted 4entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天宮神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+気, ガレージ, 家族, 方, 空気, ところ, 歴史, 気持ち, 感動, 邪魔, 景色, お守り, 先, 場所, 温かさ, 説明
+cluster1:(3)
+神, 舞, 木
+cluster2:(5)
+階段, 奥, 広場, 池, 民家
+cluster3:(2)
+御神木, 御祭神
+cluster4:(2)
+駐車場, 社務所
+cluster5:(7)
+絵馬, 鳥居, 神社, 仏閣, 本堂, 境内, 本殿
+cluster6:(2)
+小国神社, 天宮神社
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 4
+deleted 6entities.

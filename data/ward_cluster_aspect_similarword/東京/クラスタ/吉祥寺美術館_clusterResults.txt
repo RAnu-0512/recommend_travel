@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉祥寺美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+コピス吉祥寺A館7, 武蔵野市立吉祥寺美術館, 岡田紅陽
+cluster1:(24)
+季節, コピス吉祥寺, 作品, ポスター, 富士山, 場所, 吉祥寺駅, 吉祥寺, 人, 料金, 街, イス, コピス, 買い物, 写真家, 絵本, ビル, エントランス, 美術館, 写真, 中, 方, 世界, 右側
+cluster2:(2)
+入館, 入場料
+cluster3:(2)
+企画エリア, 企画展
+cluster4:(4)
+常設展, 常設展示, 常設エリア, 展示
+
+howmany entities : 35
+howmany clusters : 5
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 5
+deleted 0entities.

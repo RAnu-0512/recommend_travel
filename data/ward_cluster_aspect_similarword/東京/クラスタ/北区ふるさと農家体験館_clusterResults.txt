@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北区ふるさと農家体験館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+赤羽駅, 赤羽自然観察公園, JR赤羽駅
+cluster1:(2)
+農家体験館, ふるさと農家体験館
+cluster2:(2)
+区, 北区
+cluster3:(3)
+日本, 軍, 米
+cluster4:(2)
+公園, 施設
+cluster5:(2)
+住宅, 農家
+cluster6:(1)
+土間
+cluster7:(1)
+徒歩
+cluster8:(1)
+江戸時代
+
+howmany entities : 17
+howmany clusters : 9
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩川緑地福生南公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 河川
+cluster1:(10)
+人, 前, ベンチ, 食事, 近く, メイン, 目, バーベキュー, 奥, スーパー
+cluster2:(1)
+駐車場
+cluster3:(1)
+睦橋通り
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

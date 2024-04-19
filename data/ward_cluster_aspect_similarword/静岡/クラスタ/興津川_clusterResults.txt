@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:興津川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鮎釣り, 釣場, 釣り人
+cluster1:(3)
+ネオパーサ清水, 静岡県, 清水
+cluster2:(7)
+興津川, 川, アユ, 狩野川, 清流, 山, 上流
+cluster3:(8)
+車, 途中, ところ, 人, 気持ち, 市街地, 場所, あたり
+cluster4:(3)
+道理, ほう, 方
+cluster5:(1)
+看板
+cluster6:(2)
+水, 新東名高速道路
+cluster7:(1)
+子供たち
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 4entities.

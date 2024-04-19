@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:the FACTORY>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+レンタル, 靴, 他, 子供, 壁, 大人, 先生, 息子, レクチャー, 子ども, 親子パック
+cluster1:(6)
+途中, 所, 受付, 終了, 楽勝, 苦戦
+cluster2:(1)
+難易度
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

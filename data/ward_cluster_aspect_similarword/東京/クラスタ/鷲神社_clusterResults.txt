@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鷲神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+寿老神, 浅草七福神, 浅草駅, 樋口一葉, 日本武尊, 浅草, 吉原神社, 鷲, 鷲神社, 朱印帳, 矢先稲荷神社
+cluster1:(3)
+入手デカさ, 激混み, 食べ歩き
+cluster2:(3)
+何時間, 時間帯, 時間
+cluster3:(2)
+酉専用, 酉
+cluster4:(8)
+神社, 甘酒, 屋台, 参拝, 露店, 熊手, 雨の酉の市, 境内
+cluster5:(2)
+バス, バスツアー
+cluster6:(2)
+意外, こと
+cluster7:(7)
+人, 三本締め, 振る舞い, 掛け声, テレビ, 雰囲気, ゴルフ
+cluster8:(3)
+寿老人, 御朱印, 酉の市
+cluster9:(1)
+市
+cluster10:(2)
+縁起, 利益
+
+howmany entities : 44
+howmany clusters : 11
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 11
+deleted 0entities.

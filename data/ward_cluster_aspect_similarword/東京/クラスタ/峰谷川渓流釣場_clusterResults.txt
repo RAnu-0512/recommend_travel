@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:峰谷川渓流釣場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+釣り, 大漁, 管理釣り場, 釣りたて, 放流, エサ, 釣り体験, 管理釣り場感, マス釣り場, 竿, 魚, 釣り方
+cluster1:(9)
+釣り堀, ヤマメ, ニジマス, 釣り場, 奥多摩, 焼き魚, カジカ, 塩焼き, 焚き火
+cluster2:(4)
+思い出, 雰囲気, カオス, プラン
+cluster3:(11)
+リピート, スタッフ, 久しぶり, リクエスト, トイレ, スズメバチ, お出かけ, バーベキュー, ネット, レジャー, 我が家
+cluster4:(3)
+小学生, 初心者, 春休み
+cluster5:(1)
+クーラーバッグ
+cluster6:(1)
+まこ
+cluster7:(3)
+針, 蜂, 糸
+cluster8:(2)
+壁, 大型
+cluster9:(3)
+内臓, 体当たり, 足
+cluster10:(1)
+区画
+cluster11:(10)
+自然, 奥多摩駅, 山道, 塩, 川, 雨, 煙, 水, 山側, 火
+cluster12:(2)
+車幅, 面白さ
+cluster13:(2)
+注意点, お気
+cluster14:(4)
+コツ, 感動, 体験, 本音
+cluster15:(3)
+終了, 番号, 受付
+cluster16:(2)
+状態, 状況
+cluster17:(3)
+気, こと, もの
+cluster18:(2)
+予定, 時期
+cluster19:(10)
+付近, 方, 種類, 周り, 他, 時間, 中, 方々, 場所, 人
+cluster20:(3)
+除去, 割引クーポン, 処理
+cluster21:(9)
+完全初心者家族, 家族, 怪我人, 息子, 家庭, 子供達, 同行者, 子供, 雨予報
+
+howmany entities : 100
+howmany clusters : 22
+howmany entities (more than1entities) : 100
+howmany clusters (more than1entities) : 22
+deleted 0entities.

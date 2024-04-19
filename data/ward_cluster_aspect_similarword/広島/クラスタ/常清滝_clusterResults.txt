@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常清滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+気動車, 広島, 子供, 時期, ところ, 周囲, 日本, 中, 心, 迫力, 周辺, 車, マイナスイオン, 気分, 小学生, こと, 駅, 三江線, 間近, 距離, イチョウ
+cluster1:(5)
+紅葉, 山道, 水量, 滝, 景色
+cluster2:(1)
+子供連れ
+cluster3:(3)
+駐車場, 道沿い, 直線状
+cluster4:(4)
+三次市, 滝百選, 常清滝, 作木町
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 5
+deleted 0entities.

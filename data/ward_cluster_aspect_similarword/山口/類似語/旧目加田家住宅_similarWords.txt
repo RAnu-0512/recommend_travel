@@ -1,0 +1,27 @@
+--------------------similar_words:旧目加田家住宅--------------------
+top3 entities near to cluster0>>
+屋敷, クウセラ, 錦吾
+top3 entities near to cluster2>>
+武家, 武士, 公家
+top3 entities near to cluster3>>
+街道沿い, 街道
+top3 entities near to cluster4>>
+建物, 家屋, 平屋
+top3 entities near to cluster5>>
+錦川, 氾濫, 小本川
+top3 entities near to cluster9>>
+駅車, 駅家, 駅
+top3 entities near to cluster10>>
+歴史, 国々
+top3 entities near to cluster13>>
+ウェイ, ロープ, 乗り場
+top3 entities near to cluster14>>
+瓦, 屋根, 葺き
+top3 entities near to cluster16>>
+武家, 屋敷, 公家
+top3 entities near to cluster17>>
+中級, 武家, 上級
+top3 entities near to cluster18>>
+中流, 階級, 上流
+top3 entities near to cluster19>>
+武家, 時代, 後期

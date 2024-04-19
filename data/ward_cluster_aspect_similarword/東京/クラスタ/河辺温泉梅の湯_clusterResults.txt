@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河辺温泉梅の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+岩風呂, ジェット系風呂, 井桁風呂, シルク風呂, 桧風呂
+cluster1:(16)
+水風呂, 内湯, 窓側, スタッフ, 食事, 景色, 湯舟, ところ, 露天風呂, 食事所, 席, 飲み物, サイズ, 地元, アロマサウナ, 女性
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

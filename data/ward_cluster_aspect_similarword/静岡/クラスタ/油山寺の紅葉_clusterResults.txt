@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:油山寺の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紅葉, 紅葉シーズン
+cluster1:(4)
+秋, ひとつ, 人気, ビューポイント
+cluster2:(2)
+参道, 寺
+cluster3:(1)
+袋井市
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

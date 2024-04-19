@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊藤公資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遺品, 生家
+cluster1:(4)
+世代, 関係, 写真, 映像
+cluster2:(1)
+資料館
+cluster3:(5)
+伊藤博文, 山口県, 総理大臣, 初代内閣, 光市
+cluster4:(1)
+伊東公記念公園
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日大通りのイチョウ並木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+木, 銀杏, 日大, 葉
+cluster1:(3)
+時期, 秋, 季節
+cluster2:(8)
+気, 並木道, ギンナン, 歩道橋, 上, 黄色, イチョウ, 学園都市
+cluster3:(3)
+大学, 生徒, 道
+cluster4:(8)
+駐車場, 場, 始め学校, 子供達, 文教町, 徒歩, 新幹線口側, 交通量
+cluster5:(6)
+イチョウ並木, 三島駅, 三島北口, 銀杏並木, 銀杏臭, 三島
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 6
+deleted 0entities.

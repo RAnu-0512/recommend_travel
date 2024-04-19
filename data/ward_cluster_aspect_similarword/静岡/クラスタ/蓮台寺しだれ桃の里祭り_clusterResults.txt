@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮台寺しだれ桃の里祭り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+会場, 写真
+cluster1:(4)
+しだれ, 蓮台寺, 遊歩道, 山
+cluster2:(1)
+規模
+cluster3:(1)
+思いき
+cluster4:(1)
+静岡県
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

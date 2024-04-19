@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾道市因島フラワーセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 無料駐車場
+cluster1:(2)
+入園料, 入園
+cluster2:(2)
+植物公園, 植物園
+cluster3:(2)
+白滝山, 因島
+cluster4:(7)
+花, 温室, 植物, 花壇, 園内, 芝生, 公園
+cluster5:(6)
+フラワーセンター, ふもと, 瀬戸内海, 規模, 時間, 弁当
+cluster6:(1)
+家族連れ
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 7
+deleted 0entities.

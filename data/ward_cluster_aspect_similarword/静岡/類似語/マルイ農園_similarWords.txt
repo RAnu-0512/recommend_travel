@@ -1,0 +1,25 @@
+--------------------similar_words:マルイ農園--------------------
+top3 entities near to cluster1>>
+狩り, イチゴ, 狩る
+top3 entities near to cluster2>>
+農園, イチゴ, 果樹
+top3 entities near to cluster3>>
+五, 一, 姫
+top3 entities near to cluster4>>
+野菜, 大根, 白菜
+top3 entities near to cluster5>>
+ハウス, イチゴ, トマト
+top3 entities near to cluster6>>
+子供, 子ども, 息子
+top3 entities near to cluster7>>
+土産, 夕飯
+top3 entities near to cluster8>>
+景色
+top3 entities near to cluster9>>
+人柄, 笑顔
+top3 entities near to cluster11>>
+予約, 連絡, 受付
+top3 entities near to cluster17>>
+お腹, 良さ, ます
+top3 entities near to cluster18>>
+渋滞, 混雑, 駐車

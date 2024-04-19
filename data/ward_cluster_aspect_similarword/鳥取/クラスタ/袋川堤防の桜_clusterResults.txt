@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:袋川堤防の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+川沿い, 袋川, 川
+cluster1:(2)
+散歩コース, 散歩
+cluster2:(10)
+時期, 定番スポット, 車, 一部, ぼんぼり, 屋台, 人, 写真, 側, 遅咲き
+cluster3:(4)
+桜, 花見, 夜桜, 花
+cluster4:(2)
+土手, 堀
+cluster5:(2)
+鳥取市, 中心部
+cluster6:(1)
+ズラーっと桜
+cluster7:(1)
+若桜街道
+cluster8:(1)
+たいよ・・・・・桜
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 9
+deleted 0entities.

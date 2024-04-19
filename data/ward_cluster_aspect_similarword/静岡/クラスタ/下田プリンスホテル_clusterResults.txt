@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下田プリンスホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+納得, 入り口, 部屋, 海辺, ツインルーム, 朝食, 刺身, クロス, オーシャンビュー, 物干しスタンド, から揚げ, 半分, 海, 近く, イカ, カーペット
+cluster1:(2)
+調度品, 宿泊者
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 2entities.

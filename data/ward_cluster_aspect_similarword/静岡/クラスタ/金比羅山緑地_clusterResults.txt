@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金比羅山緑地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+桜, 夜桜, 浦
+cluster1:(5)
+到着, 場所, 金比羅山, 時期, 万葉集
+cluster2:(2)
+階段, 散歩
+cluster3:(1)
+園児
+cluster4:(1)
+てらに
+cluster5:(1)
+標高
+cluster6:(1)
+参道側
+cluster7:(1)
+志太
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 7entities.

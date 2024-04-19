@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深層水ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+深層域, 深層, 深層水, 海洋深層水
+cluster1:(3)
+水槽, 飼育, 飼育水槽
+cluster2:(9)
+販売, 売店, 展示, 試飲, パネル展示, 係員, 入場, 販売所, 展示室
+cluster3:(3)
+静岡, 焼津, 日本一深い駿河湾
+cluster4:(4)
+横柄, うみしる, 期待, 説明パネル
+cluster5:(8)
+水, 屋上, 男性, 近く, 場所, 施設, 港, 方面
+cluster6:(2)
+富士山, 駿河湾
+cluster7:(8)
+パネル, ダイオウグソクムシ, コーヒー, ミュージアム, ミネラル, タカアシガニ, オオグソクムシ, グソクムシ
+cluster8:(6)
+魚, 生物, 茶, 旅行, 映像, 味
+cluster9:(1)
+ポリタンク
+
+howmany entities : 48
+howmany clusters : 10
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 8
+deleted 3entities.

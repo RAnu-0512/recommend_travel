@@ -1,0 +1,43 @@
+--------------------similar_words:ヒルサイドテラス--------------------
+top3 entities near to cluster0>>
+パン, 食パン, 焼き立て
+top3 entities near to cluster1>>
+雑貨, 家具, インテリア
+top3 entities near to cluster2>>
+雑貨屋, 雑貨店, 雑貨
+top3 entities near to cluster4>>
+建築, 建物, 家屋
+top3 entities near to cluster6>>
+施設, 名所
+top3 entities near to cluster7>>
+なり, なる
+top3 entities near to cluster8>>
+歩道橋, 交差点, 陸橋
+top3 entities near to cluster9>>
+グッズ, カード, グッツ
+top3 entities near to cluster10>>
+クリスマス, オーナメント, クリスマスツリー
+top3 entities near to cluster11>>
+ショールーム, ギャラリー, モデルハウス
+top3 entities near to cluster12>>
+ヒルサイドパントリー, クロワッサン, ゴントランシェリエ
+top3 entities near to cluster13>>
+レストラン, ショッピング, ホテル
+top3 entities near to cluster14>>
+ファニチャ, ファニチャーシリーズ, アウトドアファニチャー
+top3 entities near to cluster15>>
+インパクト, 強烈, ビジュアルインパクト
+top3 entities near to cluster17>>
+オフィス, ビル, 事務所
+top3 entities near to cluster18>>
+ショップ, カフェ, エリア
+top3 entities near to cluster19>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster20>>
+ログロード, アドレス・ディセ, ラフェンテ
+top3 entities near to cluster21>>
+ランド, マーク, ブック
+top3 entities near to cluster22>>
+開業, 駅, 東横線
+top3 entities near to cluster25>>
+歩道, 道路, 施設

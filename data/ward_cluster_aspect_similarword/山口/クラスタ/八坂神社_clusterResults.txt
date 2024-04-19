@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八坂神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+本殿, スポット, 文化財, 生活, スサノオノミコト, 鳥居, 奈良, 場所, 朱色, 夏, 地, 地元, 日本, 歴史情緒, 吉備真備, 雰囲気, 人々, 社, ドライブ, 遣唐使, 感じ, 八坂神社, 方, 催し物, 時代, 地域
+cluster1:(4)
+っぱな神社, 稲荷神社, 神社, 神社内
+
+howmany entities : 30
+howmany clusters : 2
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 2
+deleted 0entities.

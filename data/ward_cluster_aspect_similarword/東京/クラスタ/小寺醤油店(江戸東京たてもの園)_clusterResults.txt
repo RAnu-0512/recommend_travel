@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小寺醤油店(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+小寺醤油店, 醤油店, 味噌, 醤油, 醤油屋
+cluster1:(9)
+歴史, 店, 白金, 昔, 港区, 酒類, 時代, 江戸東京, 大正
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

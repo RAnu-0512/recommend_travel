@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京都復興記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+佇まいみせる記念館, 記念館, 復興記念館
+cluster1:(2)
+展示品, 展示
+cluster2:(2)
+被害, 被害資料
+cluster3:(2)
+資料館, 資料
+cluster4:(3)
+遭難者, 犠牲者, 北東側
+cluster5:(23)
+空襲, 東日本大震災, 鎮火, 建物, 関東大震災, 公園, 東京, 苦労, 震災, 隅田, 復興, 取り組み, 人々, 施設, 復興記念, 火災, 慰霊, 事件, 江戸線, こと, 関東大, 関東地震, 東京大
+cluster6:(8)
+JR両国駅, 両国駅, 横綱町公園, 第二次世界大戦, 東京大空襲, 浜町公園, 横網町公園, 横網公園
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 7
+deleted 0entities.

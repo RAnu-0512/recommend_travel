@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハマナス自生南限地帯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+柵, ピンク色, 植物, 姿, タイミング, 付近, 解説パネル, イバラ, こと, バラ科, 北海道, ハマナス, 正式名, 数, 花, 漢字, 草むら, 草花, 程度
+cluster1:(3)
+自生地, 落葉低木, 自生南限地帯
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 2
+deleted 0entities.

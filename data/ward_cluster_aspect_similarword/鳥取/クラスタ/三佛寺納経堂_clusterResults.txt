@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三佛寺納経堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+納経堂, 納経
+cluster1:(7)
+祠, 三徳, 投入堂, 文化財, 建物, 形状, 鳥取県
+cluster2:(1)
+東伯郡三朝町
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

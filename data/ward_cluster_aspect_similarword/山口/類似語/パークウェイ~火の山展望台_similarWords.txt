@@ -1,0 +1,15 @@
+--------------------similar_words:パークウェイ~火の山展望台--------------------
+top3 entities near to cluster0>>
+道路, 料金, 駐車
+top3 entities near to cluster2>>
+山, 山頂, 麓
+top3 entities near to cluster3>>
+ウェイ, ロープ, パーク
+top3 entities near to cluster4>>
+景色, 夜景, 絶景
+top3 entities near to cluster5>>
+山山, 頂, 山
+top3 entities near to cluster6>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster7>>
+展望台, 展望, 見晴らし台, 見晴らし

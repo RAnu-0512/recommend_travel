@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弓ヶ浜カヌースクール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+臨機応変, カヌー
+cluster1:(1)
+人
+cluster2:(1)
+時間
+cluster3:(1)
+海
+cluster4:(1)
+渋滞
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

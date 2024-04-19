@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淡海國玉神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+磐田文庫, 磐田駅, 磐田市
+cluster1:(2)
+主神, 神々
+cluster2:(3)
+場所, 文化財, ほか
+cluster3:(2)
+神社, 社殿
+cluster4:(1)
+東海道線
+cluster5:(1)
+合祀
+cluster6:(1)
+見付神社
+cluster7:(1)
+大国主命
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 8entities.

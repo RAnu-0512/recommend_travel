@@ -1,0 +1,25 @@
+--------------------similar_words:損保ジャパン本社ビル((旧安田火災ビル)--------------------
+top3 entities near to cluster0>>
+高層, ビル, ノッポビル
+top3 entities near to cluster1>>
+ビル群, 高層, ビル
+top3 entities near to cluster2>>
+ビル群, ビル, 巨大
+top3 entities near to cluster3>>
+損保, 興亜, 本社
+top3 entities near to cluster4>>
+世代, 新, 新しい
+top3 entities near to cluster5>>
+ホテル, ライン, デザイン
+top3 entities near to cluster6>>
+美術館, ゴッホ, 博物館
+top3 entities near to cluster8>>
+裾, 片面, 袖口
+top3 entities near to cluster9>>
+死語, 古っ, 廃語
+top3 entities near to cluster10>>
+建物, 建築, 建設
+top3 entities near to cluster11>>
+ビル, 南口, 駅前
+top3 entities near to cluster12>>
+街道, 狐越, 嶌越

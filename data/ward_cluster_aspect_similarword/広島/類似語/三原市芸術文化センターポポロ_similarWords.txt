@@ -1,0 +1,17 @@
+--------------------similar_words:三原市芸術文化センターポポロ--------------------
+top3 entities near to cluster0>>
+母さん, 父さん, お父さん
+top3 entities near to cluster1>>
+イベント, 催し物, イヴェント
+top3 entities near to cluster2>>
+食事, 夕食, 朝食
+top3 entities near to cluster3>>
+店内, 館内, 店先
+top3 entities near to cluster4>>
+遊具, 滑り台, ジャングルジム
+top3 entities near to cluster5>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster6>>
+芝生, 広場, 原っぱ
+top3 entities near to cluster8>>
+芸術, 文化, ポロ

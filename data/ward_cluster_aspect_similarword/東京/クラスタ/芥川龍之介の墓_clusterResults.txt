@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芥川龍之介の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墓, 墓石
+cluster1:(1)
+慈眼寺
+cluster2:(1)
+文豪
+cluster3:(1)
+芥川龍之介
+cluster4:(1)
+染井霊園
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 おふく>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+規模, もの, 販売, 長居, ランチ, 手作りシャーベット, 他, 売り切れ, ゴボウ, 横長, レストラン, シャーベット, 断念, 地元, ほうれん草, 限定, アツアツ, 隣, うどん, ソフトクリーム, メニュー, 店内, スタンド
+cluster1:(3)
+道, 国道, 駅
+cluster2:(3)
+行程, 休憩, 時間
+cluster3:(1)
+駅巡り
+cluster4:(2)
+期待度, から揚げ
+cluster5:(6)
+特産品, 土産, 土産品, 品揃え, 販売品, 生鮮野菜類
+cluster6:(3)
+刺身定食, 唐揚げ定食, 昼ご飯
+cluster7:(5)
+山口, 山口土産, 美祢, 長門市街, 宇部空港
+cluster8:(4)
+駐車場, 温泉施設, 温泉, 入浴施設
+cluster9:(3)
+長州鶏, 目的地, 地鶏
+cluster10:(9)
+地元産, 地元野菜, 特産, 名産ホウレンソウ, 甘み, 肉, 野菜, 酒, 名産
+
+howmany entities : 62
+howmany clusters : 11
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 11
+deleted 0entities.

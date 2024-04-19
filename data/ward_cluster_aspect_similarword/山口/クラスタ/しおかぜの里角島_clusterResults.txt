@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しおかぜの里角島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+島角島, 角島, 角島万十, 角島大橋, 角島灯台
+cluster1:(5)
+塩瀬菓子舗, お土産屋, お土産物屋, しおかぜ, 土産屋
+cluster2:(15)
+わかめソフト, 土産物, オススメ, ビーチ, 雰囲気, 海水浴シーズン, ドライブ, トイレ, レストラン, わかめ, すべて, サザエ, わかめソフトクリーム, あんこ, シーズン
+cluster3:(4)
+猫ちゃん, 山口, 四角, ふく
+cluster4:(5)
+幸, 波, 海, 海岸, 音
+cluster5:(2)
+素, 多分素
+cluster6:(2)
+笑目, 目
+cluster7:(4)
+もの, 気, でもあんこ, やつ
+cluster8:(5)
+方, 他, 側, 多く, 人
+cluster9:(3)
+前, 途中, 場所
+cluster10:(3)
+警備員, 駐車場, 海水浴場
+cluster11:(2)
+物産店, 特産品
+cluster12:(2)
+焼き, イカ焼き
+cluster13:(5)
+魚料理, 炊き込みご飯セット, ご飯, 海鮮, 刺身
+cluster14:(3)
+土産, 土産売り場, お土産物
+cluster15:(3)
+ソフトクリーム屋, 饅頭, 菓子
+cluster16:(4)
+昼, 食品, 食堂, 昼食
+cluster17:(3)
+車, 道路, 家
+cluster18:(3)
+名物, 景色, 味
+cluster19:(1)
+灯台
+cluster20:(1)
+海水浴客
+
+howmany entities : 80
+howmany clusters : 21
+howmany entities (more than1entities) : 80
+howmany clusters (more than1entities) : 21
+deleted 0entities.

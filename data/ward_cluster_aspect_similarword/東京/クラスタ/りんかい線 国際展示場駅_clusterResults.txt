@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:りんかい線 国際展示場駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+外装, ビッグサイト, 荷物, イベント, ロータリー, 最寄り駅, モーニングセット, 短期, 利用, 緑, 感じ, 仕事, ゆりかもめ, トイレ, 移動, 会場, こと, 東京ビッグサイト, ドトール, 東京ビックサイト, ビックサイト
+cluster1:(7)
+改札口, 有明駅, 駅, 改札, 駅周辺, 飲食店, 駅名
+cluster2:(4)
+りんかい線, ビッグサイト行きのりんかい線最寄り駅, 国際展示場, 東京国際展示場
+
+howmany entities : 32
+howmany clusters : 3
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 3
+deleted 0entities.

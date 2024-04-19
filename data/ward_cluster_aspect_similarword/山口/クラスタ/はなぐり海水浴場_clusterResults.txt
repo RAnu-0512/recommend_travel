@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はなぐり海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海水浴場, 人工海水浴場
+cluster1:(16)
+子供, 人工, 海水浴, 南側, 場所, 砂浜, 歩道橋, 潮風, 魚釣り, 木, 雰囲気, 魚, 上, ヤシ, 近く, 海
+cluster2:(1)
+人口海浜浴場
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

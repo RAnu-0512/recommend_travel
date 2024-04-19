@@ -1,0 +1,94 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寛永寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+広重, 江戸, 幕末, 明治, 江戸時代, 西洋画
+cluster1:(2)
+東京国立博物館, 大学在学
+cluster2:(17)
+葵, さくら並木, 桜, 天海, 本山, 黒門, 松, 芝・増上寺, 東の比叡山, 石垣, 端っこに葵, 山内, 清水観音堂, 東叡山, 月の松, 谷中, 川越
+cluster3:(9)
+上野駅, 上野大仏, 上野戦争, 上野, 鶯谷, 上野一帯, 上野〜鶯谷, 鳥羽・伏見, 鶯谷駅
+cluster4:(2)
+紋, 波
+cluster5:(5)
+天台宗, 菩提寺, 寛永寺, 江戸城, 増上寺
+cluster6:(4)
+五重塔, 上野動物園, 根本中堂, 上野公園
+cluster7:(9)
+ロケットランチャー, 東京芸術大学, 雰囲気, ホームページ, 向こう, ところ, 非公開, オススメ, イメージ
+cluster8:(2)
+散歩道, 静けさ
+cluster9:(1)
+花冷え
+cluster10:(3)
+素, 道中, 鬼門
+cluster11:(5)
+栄華, 一線, 安泰, 喧騒, 身
+cluster12:(2)
+公園口, 公園
+cluster13:(2)
+建て方, 移築
+cluster14:(2)
+右手, JR
+cluster15:(2)
+一帯, 界隈
+cluster16:(2)
+都会, 森
+cluster17:(2)
+建物, 敷地
+cluster18:(2)
+家, 部屋
+cluster19:(3)
+大学, 友達, 人
+cluster20:(1)
+版画
+cluster21:(1)
+社会人
+cluster22:(4)
+付近, 近く, 間, 時間
+cluster23:(4)
+今回, 昔, 中, 途中
+cluster24:(4)
+方, こと, 場所, もの
+cluster25:(2)
+準備, 公開
+cluster26:(3)
+影響, 全体, 規模
+cluster27:(3)
+戦い, 歴史, 姿
+cluster28:(1)
+天候
+cluster29:(6)
+穏やかさ, スケール感, 大きさ, 薄紅色, 随所随所, 余念
+cluster30:(4)
+参拝, 参拝客, 内部参拝, 観光客
+cluster31:(2)
+両寺, 寺
+cluster32:(2)
+大寺院, 寺院
+cluster33:(7)
+霊廟, 境内, 境内地, 地蔵, 本堂, 墓, 本尊
+cluster34:(1)
+祈祷所
+cluster35:(2)
+開山堂, 山号
+cluster36:(1)
+廟廊
+cluster37:(1)
+寛永寺領
+cluster38:(3)
+不忍池辨天堂, 池辯天堂, 不忍池
+cluster39:(3)
+徳川家, 徳川家ゆかり, 徳川家菩提寺増上寺
+cluster40:(3)
+徳川, 徳川幕府, 徳川将軍家
+cluster41:(2)
+徳川慶喜, 慶喜
+cluster42:(4)
+徳川将軍御霊廟, 徳川歴代将軍, 歴代将軍, 将軍
+
+howmany entities : 146
+howmany clusters : 43
+howmany entities (more than1entities) : 146
+howmany clusters (more than1entities) : 43
+deleted 0entities.

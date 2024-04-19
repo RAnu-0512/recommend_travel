@@ -1,0 +1,17 @@
+--------------------similar_words:都立秋留台公園--------------------
+top3 entities near to cluster0>>
+競技場, 駐車場, 競技, 駐車
+top3 entities near to cluster1>>
+バラ園, バラ, 薔薇園, 薔薇
+top3 entities near to cluster2>>
+外周, 整備, 半周
+top3 entities near to cluster3>>
+噴水, 公園, 広場
+top3 entities near to cluster4>>
+桜, 花見, 花
+top3 entities near to cluster5>>
+時期, 季節, 時季
+top3 entities near to cluster6>>
+木水, 土水, 木, 土
+top3 entities near to cluster7>>
+広場, 中央, 都

@@ -1,0 +1,7 @@
+--------------------similar_words:冒険の森--------------------
+top3 entities near to cluster0>>
+滑り台, すべり台, 遊具
+top3 entities near to cluster1>>
+子供, 子ども, 大人
+top3 entities near to cluster2>>
+遊具, 滑り台, ジャングルジム

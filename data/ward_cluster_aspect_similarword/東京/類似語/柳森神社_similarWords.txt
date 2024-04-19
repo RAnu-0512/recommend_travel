@@ -1,0 +1,19 @@
+--------------------similar_words:柳森神社--------------------
+top3 entities near to cluster0>>
+反対, 勧め, 薦め
+top3 entities near to cluster1>>
+石像, 銅像
+top3 entities near to cluster3>>
+狸, 猫, タヌキ
+top3 entities near to cluster4>>
+境内, お寺, ご利益
+top3 entities near to cluster6>>
+昼, 近所, 出張
+top3 entities near to cluster7>>
+駅, 道路, 繁華
+top3 entities near to cluster8>>
+神社, 稲荷, 境内
+top3 entities near to cluster9>>
+境内, 神社, 参詣
+top3 entities near to cluster10>>
+川沿い, 川, 河畔

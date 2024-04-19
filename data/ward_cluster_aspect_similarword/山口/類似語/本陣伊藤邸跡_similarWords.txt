@@ -1,0 +1,15 @@
+--------------------similar_words:本陣伊藤邸跡--------------------
+top3 entities near to cluster0>>
+伊藤, 佐藤, 井上
+top3 entities near to cluster1>>
+本陣, 宿, 旅館
+top3 entities near to cluster3>>
+歴史家, 歴史, 政治家, 政治
+top3 entities near to cluster4>>
+常識, 非常識, 通念
+top3 entities near to cluster5>>
+家柄, 邸宅, 名家
+top3 entities near to cluster6>>
+時代, 幕末, 末期
+top3 entities near to cluster7>>
+奉行, 藩士

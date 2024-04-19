@@ -1,0 +1,41 @@
+--------------------similar_words:JR御茶ノ水駅--------------------
+top3 entities near to cluster0>>
+実施, 展示, 計画
+top3 entities near to cluster2>>
+活気, 賑わい, 活気づき
+top3 entities near to cluster3>>
+多すぎ, 多, 少ない
+top3 entities near to cluster4>>
+庭園, 景色, 風景
+top3 entities near to cluster5>>
+屋上, 敷地, ビル
+top3 entities near to cluster6>>
+出口, 陸橋
+top3 entities near to cluster7>>
+周辺, 自宅, 近辺
+top3 entities near to cluster8>>
+時間, 時人, 時
+top3 entities near to cluster9>>
+側面, 方向
+top3 entities near to cluster10>>
+足場, 荷物, 車両
+top3 entities near to cluster12>>
+利用, 来訪, 宿泊
+top3 entities near to cluster13>>
+楽器屋, 楽器, 弦楽器
+top3 entities near to cluster14>>
+大学, 病院, 医療
+top3 entities near to cluster15>>
+大学街, 繁華街, 繁華, 大学
+top3 entities near to cluster16>>
+聖橋, 聖橋口, 駒形橋
+top3 entities near to cluster17>>
+時間帯, 時間, 通勤
+top3 entities near to cluster18>>
+駅, 駅前, 徒歩
+top3 entities near to cluster19>>
+駅舎, 駅名, 駅
+top3 entities near to cluster20>>
+各駅, 停車, 駅
+top3 entities near to cluster21>>
+中央線, 駅線, 駅, 中央

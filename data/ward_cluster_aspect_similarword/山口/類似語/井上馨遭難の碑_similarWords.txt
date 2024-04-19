@@ -1,0 +1,9 @@
+--------------------similar_words:井上馨遭難の碑--------------------
+top3 entities near to cluster0>>
+石碑, 碑石
+top3 entities near to cluster1>>
+政府, 要職
+top3 entities near to cluster2>>
+幕末期, 明治維新期, 幕末, 明治維新
+top3 entities near to cluster3>>
+馨, 井上, 琳水

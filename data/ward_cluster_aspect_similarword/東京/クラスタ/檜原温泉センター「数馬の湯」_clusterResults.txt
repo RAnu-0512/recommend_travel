@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:檜原温泉センター「数馬の湯」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+アルカリ性, 水風呂, 腰, 右手, 鍵, 入口, 左手, キー, 一部, ジェット水流, ロッカー, 構成, 露天風呂, 引き戸, JAF割引, ジャグジー, 周り, サウナ, 受付, サイズ, 円形, システム
+cluster1:(5)
+内湯, 湯舟, 露天, 温泉, 湯
+cluster2:(2)
+壺湯, 座湯
+cluster3:(1)
+泉質
+cluster4:(4)
+脱衣場, バック式靴ロッカー, 入浴料, 日帰り温泉施設
+cluster5:(1)
+檜原村
+cluster6:(1)
+ふくらはぎ
+cluster7:(1)
+循環塩素消毒
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 8
+deleted 0entities.

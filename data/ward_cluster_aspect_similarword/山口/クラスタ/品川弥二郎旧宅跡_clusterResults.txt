@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:品川弥二郎旧宅跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+足軽, 子
+cluster1:(1)
+品川弥二郎
+cluster2:(1)
+諸制度
+cluster3:(1)
+萩藩
+cluster4:(1)
+旧宅跡
+cluster5:(1)
+品川弥市右衛門
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

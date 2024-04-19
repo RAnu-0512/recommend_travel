@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉吉市営関金農林漁業者等健康増進施設>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+倉吉市, 関金温泉, 湯命館, 関金運動公園
+cluster1:(2)
+指定管理者, 指定避難所
+cluster2:(3)
+洪水, 地震災害, 土砂
+cluster3:(2)
+卓球, 屋内スポーツ
+cluster4:(2)
+料金, 道路
+cluster5:(9)
+一般, 体育館, バレー, 辺り, バドミントン, バレーボール, ミズノグループ, 施設, 場所
+cluster6:(2)
+せき, 個人利用
+cluster7:(1)
+駐車場
+cluster8:(1)
+県道115号線道
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 9
+deleted 0entities.

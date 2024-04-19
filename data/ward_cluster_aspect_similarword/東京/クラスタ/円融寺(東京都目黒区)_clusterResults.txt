@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円融寺(東京都目黒区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+季節, 途中, 碑文谷, 見どころ, 表参道, 開催, イベント, コラボ, 建物, ところ, 交差点, 文化財, 近く, 左, 散歩, AR, オーガニックマーケット, キャラクターボイス, 撮影, 構内, 桜, 円融寺, 幼稚園, アナウンス
+cluster1:(3)
+寺院, 寺, 座禅
+cluster2:(3)
+歴史感, 何か, 聖地巡り
+cluster3:(2)
+工事柵, 改修工事
+cluster4:(2)
+改札口, 信号機
+cluster5:(3)
+横断歩道, 道幅, 住宅街
+cluster6:(6)
+目黒区, 洗足駅, 東急線, 目黒駅, 東急都立大学駅, 日本最古の宮大工集団金剛組
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 7
+deleted 0entities.

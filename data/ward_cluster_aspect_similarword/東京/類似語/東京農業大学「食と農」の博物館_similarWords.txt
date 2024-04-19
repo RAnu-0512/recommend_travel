@@ -1,0 +1,23 @@
+--------------------similar_words:東京農業大学「食と農」の博物館--------------------
+top3 entities near to cluster0>>
+農業, 農, 農大
+top3 entities near to cluster1>>
+端, 脇, 奥
+top3 entities near to cluster2>>
+食料
+top3 entities near to cluster3>>
+徒歩, バス, 見学
+top3 entities near to cluster4>>
+雰囲気, テーマ, 博物館
+top3 entities near to cluster5>>
+五稜郭, 小田急, 小田急電鉄
+top3 entities near to cluster7>>
+本道, カリビアンコム, 支道
+top3 entities near to cluster8>>
+血, 騒ぐ
+top3 entities near to cluster9>>
+知識, 興味, 意味
+top3 entities near to cluster10>>
+動物, 大学, 植物
+top3 entities near to cluster11>>
+展示, 出展, 写真

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滑三本杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+天然, 林野庁, 毛利, 山口市, 杉, 杉の木, 樹齢
+cluster1:(2)
+大原湖上流の飯ヶ岳登山道, 森の巨人たち100選
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

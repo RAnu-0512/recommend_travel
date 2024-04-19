@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立小峰公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 公園案内図
+cluster1:(11)
+公園, 通路, 距離, 山道, 駅, JR五日市線, 終点, 地図, バス, 道, 登山道
+cluster2:(2)
+紅葉, 桜
+cluster3:(5)
+運動, 遠足, 返事, 記憶, 瞑想
+cluster4:(10)
+小学生, ビジターセンター, アクセス, map, 右, 近く, アナログ, 方, スマホ, 目
+cluster5:(4)
+自然, 家族, 犬, 子
+cluster6:(1)
+土
+cluster7:(1)
+男女
+cluster8:(1)
+子供達
+cluster9:(1)
+大音響
+cluster10:(1)
+法輪功
+cluster11:(1)
+都立小峰公園
+
+howmany entities : 40
+howmany clusters : 12
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 12
+deleted 0entities.

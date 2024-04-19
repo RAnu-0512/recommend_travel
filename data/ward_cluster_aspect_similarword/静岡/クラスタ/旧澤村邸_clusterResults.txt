@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧澤村邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+母屋, 時期, 祭り, 入り口, 下, 伊豆下田, 端, 一角, 特徴, 大正, 澤村, ペリーロード, 明治, 佇まい, 建物, 民家, 施設, 時代
+cluster1:(3)
+建造物, なまこ壁造り, なまこ壁
+cluster2:(5)
+地元ガス会社, 休憩所, 下田市, 休憩施設, 下田公園
+cluster3:(1)
+了仙寺
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 1entities.

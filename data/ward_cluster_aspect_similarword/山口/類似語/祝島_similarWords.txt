@@ -1,0 +1,11 @@
+--------------------similar_words:祝島--------------------
+top3 entities near to cluster1>>
+親父, ハゲ
+top3 entities near to cluster2>>
+問題, 思い出, 糸口
+top3 entities near to cluster3>>
+島船, 海船, 海, 島
+top3 entities near to cluster4>>
+漁村, 農村, 漁港
+top3 entities near to cluster6>>
+立地, 計画, 住環境

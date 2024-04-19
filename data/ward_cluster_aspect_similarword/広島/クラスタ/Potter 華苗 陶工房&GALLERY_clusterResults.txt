@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Potter 華苗 陶工房&GALLERY>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+初体験, 体験, ねり体験, 陶芸体験, 陶芸
+cluster1:(2)
+奥深さ, 楽しさ
+cluster2:(5)
+指導, 完成, 相談, 予約, 製作
+cluster3:(17)
+先生, もの, もた, 方, デザイン, おかげ, 話, 友達, 機会, 家族, 物, 思い出, 他, 気持ち, こと, 主人, 声
+cluster4:(1)
+焼き上がり
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 5
+deleted 0entities.

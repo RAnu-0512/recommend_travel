@@ -1,0 +1,33 @@
+--------------------similar_words:天然温泉みちしお--------------------
+top3 entities near to cluster0>>
+貝汁, 貝, アワビ
+top3 entities near to cluster1>>
+あさり, アサリ, 味噌汁
+top3 entities near to cluster2>>
+ドライバー, レストラン, グッズ
+top3 entities near to cluster4>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster5>>
+運転, タクシー, 同乗
+top3 entities near to cluster6>>
+休憩, 駐車, 仮眠
+top3 entities near to cluster7>>
+定食, 丼
+top3 entities near to cluster8>>
+お客, 乗客, 外客
+top3 entities near to cluster9>>
+じみ, する, しとる
+top3 entities near to cluster10>>
+料理, 食事, 食材
+top3 entities near to cluster11>>
+惣菜, レジ, 総菜
+top3 entities near to cluster12>>
+店内, 看板
+top3 entities near to cluster13>>
+注文, 単品, 商品
+top3 entities near to cluster14>>
+値段, 質感
+top3 entities near to cluster15>>
+品数, 品ぞろえ, 値段
+top3 entities near to cluster16>>
+国道, 座席, バス

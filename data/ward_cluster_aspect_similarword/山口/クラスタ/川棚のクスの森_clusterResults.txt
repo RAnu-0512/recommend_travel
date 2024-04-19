@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川棚のクスの森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+姿, 多く, こと, ところ, 生憎, 御朱印, 場所, パワー, クスノキ, クス, 雨, 支え, ドライブ, 上, 川棚温泉, 近く
+cluster1:(2)
+大木, 巨木
+cluster2:(2)
+枝, 木
+cluster3:(4)
+丘, 緑, 森, 木陰
+cluster4:(1)
+幹回り
+cluster5:(2)
+若宮神社, 駐車場
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

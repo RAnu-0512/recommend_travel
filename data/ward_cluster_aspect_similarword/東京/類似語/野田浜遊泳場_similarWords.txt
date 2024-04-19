@@ -1,0 +1,9 @@
+--------------------similar_words:野田浜遊泳場--------------------
+top3 entities near to cluster0>>
+人気, ビーチ, シュノーケリングスポット
+top3 entities near to cluster1>>
+宿, バス, 旅館
+top3 entities near to cluster2>>
+天気, お天気, 予報
+top3 entities near to cluster3>>
+海, 浜, 砂

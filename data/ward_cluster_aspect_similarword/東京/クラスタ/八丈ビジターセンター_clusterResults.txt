@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丈ビジターセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キョンの居る植物公園, 植物園
+cluster1:(5)
+見学者, 関心, 写真撮影, 紹介パネル, 展示
+cluster2:(2)
+砂場, 子供達
+cluster3:(3)
+剥製, 水槽, 八丈島空港
+cluster4:(11)
+キノコ, センター, 緑色, 島, 自然, ビジターセンター, ソフトクリーム, 八丈島, ビデオ, カーテン, ウミガメ
+cluster5:(4)
+建物, 南側, 館内, 施設
+cluster6:(4)
+所, 他, 時間, 中
+cluster7:(1)
+喫茶コーナー
+cluster8:(1)
+更衣室
+
+howmany entities : 33
+howmany clusters : 9
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 9
+deleted 0entities.

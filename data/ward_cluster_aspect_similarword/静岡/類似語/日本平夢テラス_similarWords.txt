@@ -1,0 +1,15 @@
+--------------------similar_words:日本平夢テラス--------------------
+top3 entities near to cluster0>>
+茶, 抹茶, 緑茶
+top3 entities near to cluster3>>
+テラス, 夢, 木製
+top3 entities near to cluster8>>
+天気雨, 晴天, 天気
+top3 entities near to cluster11>>
+問題, 余裕
+top3 entities near to cluster16>>
+久しぶり, スケジュール, 久し振り
+top3 entities near to cluster24>>
+建築, 建物, 宿泊
+top3 entities near to cluster25>>
+景色, 展望, 絶景

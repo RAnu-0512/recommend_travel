@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊田池田の渡し公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+河川敷, 天竜川, 河原
+cluster1:(3)
+散歩, 遊具, 公園
+cluster2:(2)
+駐車場, 堤防道路
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 2entities.

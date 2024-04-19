@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:俳優座劇場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+六本木駅, 大江戸線, 出口目, 地下鉄六本木駅, 出口
+cluster1:(2)
+花, スタンド花
+cluster2:(2)
+俳優座, 六本木
+cluster3:(3)
+アクセス, ところ, 雰囲気
+cluster4:(2)
+ロビー, テレビ
+cluster5:(1)
+交差点
+cluster6:(6)
+場所, 中心, 近く, 前, 外, 側
+cluster7:(1)
+距離
+cluster8:(4)
+舞台, 行列, 席, 演目
+cluster9:(1)
+良さ
+cluster10:(1)
+大きさ
+cluster11:(2)
+老舗劇場, 老舗
+cluster12:(4)
+劇場内, 小劇場, 俳優座劇場, 劇場
+cluster13:(4)
+劇団, 劇団俳優座, 小劇団, ミニ劇団系
+cluster14:(5)
+演劇, 現代演劇, 役者, イケメン俳優, 俳優女優
+
+howmany entities : 43
+howmany clusters : 15
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 15
+deleted 0entities.

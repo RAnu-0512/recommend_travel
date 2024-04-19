@@ -1,0 +1,27 @@
+--------------------similar_words:中之郷温泉・やすらぎの湯--------------------
+top3 entities near to cluster0>>
+温泉, 湯, 足湯
+top3 entities near to cluster1>>
+料金, 費用, 値段
+top3 entities near to cluster2>>
+浴室, 入浴, 眺望
+top3 entities near to cluster4>>
+風景, 建物, 写真
+top3 entities near to cluster5>>
+自慢, 地元, 名物
+top3 entities near to cluster7>>
+サウナ, ロッカー, メルト
+top3 entities near to cluster9>>
+残り, 残っ, 残る
+top3 entities near to cluster10>>
+海, 海辺, 陸
+top3 entities near to cluster11>>
+足元, 足下, 足もと
+top3 entities near to cluster12>>
+共用, 兼用, 専用
+top3 entities near to cluster13>>
+沢, 身, 馴川
+top3 entities near to cluster14>>
+時間, 駐車, 無休
+top3 entities near to cluster15>>
+沢, 滝, 温泉

@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:QFRONT>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+複合ビル, 商業ビル, 複合商業ビル
+cluster1:(4)
+渋谷109, 渋谷, 渋谷駅, 渋谷スクランブル
+cluster2:(2)
+交差点, スクランブル交差点
+cluster3:(2)
+TUTAYA, TSUTAYA
+cluster4:(2)
+スターバックスコーヒー, QFRONT
+cluster5:(1)
+待ち合わせ
+cluster6:(1)
+スクリーン
+cluster7:(3)
+ポイント, スポット, ビジョン
+cluster8:(2)
+テナント, ヒカリエ
+cluster9:(1)
+スタバ
+cluster10:(1)
+出入り
+cluster11:(1)
+ショッピングゾーン
+cluster12:(3)
+スターバックス, ランドマーク, Tポイント
+cluster13:(22)
+大型ビジョン, 和食レストラン, 正面, 店, 場所, 中心街, 中心, ハチ公口, 建物, 特徴, 人, 画像スクリーン, 駅, 注目, 開発, 存在, モニターあり, 前, ビル, 東口, 目, 眺め
+cluster14:(1)
+電光掲示板
+
+howmany entities : 49
+howmany clusters : 15
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 15
+deleted 0entities.

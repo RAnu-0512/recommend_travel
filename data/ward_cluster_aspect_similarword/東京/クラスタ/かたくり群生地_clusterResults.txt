@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かたくり群生地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+山道, 中, 前, 桜, カタクリ, あきる野市, 山, 切欠, ハイキング, 薄紫色, 満開, 紫, 紫色, 斜面, 花
+cluster1:(2)
+駐車場, 群生地
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

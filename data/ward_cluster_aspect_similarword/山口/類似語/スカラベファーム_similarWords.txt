@@ -1,0 +1,17 @@
+--------------------similar_words:スカラベファーム--------------------
+top3 entities near to cluster0>>
+巨峰, 品種, ぶどう
+top3 entities near to cluster1>>
+メス, オス
+top3 entities near to cluster2>>
+飼育, 飼う
+top3 entities near to cluster4>>
+ほか, これら
+top3 entities near to cluster5>>
+変更, 変え, 追加
+top3 entities near to cluster6>>
+子供, 家族, 子ども
+top3 entities near to cluster7>>
+制限
+top3 entities near to cluster8>>
+食べ放題, 食べ, たべ

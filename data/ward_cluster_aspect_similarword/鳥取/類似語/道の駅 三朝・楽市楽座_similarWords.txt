@@ -1,0 +1,13 @@
+--------------------similar_words:道の駅 三朝・楽市楽座--------------------
+top3 entities near to cluster0>>
+楽座, エスカモール, 朝市
+top3 entities near to cluster1>>
+国道, 県道沿い, 県道
+top3 entities near to cluster2>>
+地元, 土産, 人達
+top3 entities near to cluster3>>
+地物, 積雪, 降雪
+top3 entities near to cluster4>>
+期待値, 期待, 数値
+top3 entities near to cluster5>>
+果物, 野菜, 名産

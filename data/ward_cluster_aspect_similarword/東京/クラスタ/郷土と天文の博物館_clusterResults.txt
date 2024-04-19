@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:郷土と天文の博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観測室, 展示室, 天文展示室, 郷土展示室
+cluster1:(5)
+区立, 葛飾, 白鳥3丁目, 葛飾区, 京成・お花茶屋駅
+cluster2:(2)
+お花茶屋駅, 徒歩
+cluster3:(11)
+あり天文学, 建物, 外観, あり車, 感じ, 解説, 施設, 価格, 印象, 資料, 展示
+cluster4:(17)
+大人, 子ども, プログラム, 人, テーマ, 他, ところ, クオリティ, プラネタリウム, 休日, 博物館, デジタルプラネタリウム, 星, 歴史, 世界, お出かけ, 唯一
+cluster5:(2)
+昭和, 白鳥
+cluster6:(1)
+訪問者
+cluster7:(5)
+天文博物館, 郷土博物館, 天体望遠鏡, 郷土, 天文
+
+howmany entities : 47
+howmany clusters : 8
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 8
+deleted 0entities.

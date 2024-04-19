@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:DiA tokyo>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+外国人, 外国, 子供達
+cluster1:(2)
+場所, 場所柄
+cluster2:(9)
+クラブ, 六本木エリア, 倶楽部, 人気, レストラン, 六本木, スポット, 場違い, 雰囲気
+cluster3:(4)
+親, 友達, 方, 方々
+cluster4:(1)
+バー
+cluster5:(1)
+六本木駅
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

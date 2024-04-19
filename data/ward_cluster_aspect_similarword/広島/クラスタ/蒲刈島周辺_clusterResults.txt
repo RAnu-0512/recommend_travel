@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒲刈島周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+絶景, 景色
+cluster1:(2)
+島, 島々
+cluster2:(2)
+海, 浜
+cluster3:(19)
+姿, 海水浴, キャンプ, 日本, オススメ, 方, レジャー, 瀬戸内海, 車, 休日, 人, 家族, 県民, ドライブ, 道, 場所, サイクリスト, 魚釣り, 夏
+cluster4:(1)
+蒲刈
+cluster5:(3)
+スポーツ関連施設, 家族連れ, スポーツ施設
+cluster6:(2)
+お土産屋, 渚百選
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

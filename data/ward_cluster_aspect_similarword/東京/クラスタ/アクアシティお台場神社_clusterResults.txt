@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アクアシティお台場神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+屋上, ビル
+cluster1:(2)
+エスカレーター, アクアシティ
+cluster2:(1)
+フジテレビ
+cluster3:(1)
+人
+cluster4:(1)
+場所
+cluster5:(1)
+景色
+cluster6:(1)
+神社
+cluster7:(1)
+台場
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田松陰の銅像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+吉田松陰, 松陰
+cluster1:(3)
+像, 銅像, 史跡
+cluster2:(12)
+人, つながり, 場所, 案内, 家族, ドライブ, 艦隊, 下田, ペリー, 海, 異国, 密航
+cluster3:(1)
+静岡県
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 3entities.

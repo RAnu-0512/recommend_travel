@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本因坊秀策の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本因坊秀策, 秀策
+cluster1:(2)
+ヒカルの碁, 碁
+cluster2:(8)
+方, 漫画, 因島, アニメ, ご存じ, ゆかり, 生誕地, 地
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

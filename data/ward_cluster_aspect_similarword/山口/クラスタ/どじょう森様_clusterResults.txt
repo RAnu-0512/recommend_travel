@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:どじょう森様>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+下, 御利益
+cluster1:(1)
+きく
+cluster2:(1)
+腰
+cluster3:(1)
+病
+cluster4:(1)
+不妊
+cluster5:(1)
+参拝者
+cluster6:(1)
+美祢市
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

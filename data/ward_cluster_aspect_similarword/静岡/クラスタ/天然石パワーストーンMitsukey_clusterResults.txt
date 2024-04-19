@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天然石パワーストーンMitsukey>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+予約時間, 製作時間, 追加料金, (o, 時間
+cluster1:(5)
+店員, 土産, ☆店, 店, 店内
+cluster2:(3)
+興味, 手, 力
+cluster3:(7)
+満足, 種類, 上, ブレスレット作り, 到着, 意味, 説明
+cluster4:(4)
+主人, 子, 娘, 人
+cluster5:(2)
+パワーストーン, パワー
+cluster6:(2)
+小中学生, 小学生
+cluster7:(5)
+ブレスレッド, ブレスレット, パワーストーンブレス, ブレス, サンキャッチャー
+cluster8:(2)
+コース, 雰囲気
+cluster9:(1)
+石
+cluster10:(1)
+小学
+cluster11:(1)
+多さ
+cluster12:(1)
+じぶんオリジナル
+
+howmany entities : 39
+howmany clusters : 13
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 6
+deleted 10entities.

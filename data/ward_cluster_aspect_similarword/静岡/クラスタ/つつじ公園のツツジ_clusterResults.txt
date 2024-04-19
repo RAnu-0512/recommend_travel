@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:つつじ公園のツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+車, 駐車スペース, 荷物, ツツジ公園, 広場, 催し, 公園, つつじ公園, 散歩, 遊具, 天気
+cluster1:(21)
+つつじ, ステージ, 色とりどり, 時期, 下, 写真, 満開, もの, 人, ピンク, 花真っ盛り, ドライブ, 花, 色合い, ツツジ, 白, 桜, ツジ, 花見, 持ち運び, 色
+cluster2:(1)
+見付天神
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 2
+deleted 1entities.

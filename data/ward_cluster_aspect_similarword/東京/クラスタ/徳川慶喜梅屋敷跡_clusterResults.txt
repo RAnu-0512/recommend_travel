@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:徳川慶喜梅屋敷跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+駅, 騒音, 屋敷奥, 歩道, ケイキ, 場所, 近く, 白山通り, 梅林, 将軍, 梅屋敷, 事, 奥
+cluster1:(3)
+巣鴨駅, 山手線, JR巣鴨駅
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

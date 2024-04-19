@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 五反田駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+人気, 浅草線, 五反田, 出入, 場所, 近く, 店員, マスク, レンタカー屋, 店内
+cluster1:(3)
+五反田駅, ニッポンレンタカー五反田駅, 都営
+cluster2:(1)
+駐車場
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:売沼神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+傷, 痛み
+cluster1:(7)
+オオクニヌシ, 雰囲気, 八十神達, 嘘, 歴史, サメ, 神
+cluster2:(1)
+白兎
+cluster3:(1)
+治療法
+cluster4:(1)
+沢山の兄弟神・八十神
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

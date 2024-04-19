@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深川ワイナリー東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+所要時間, 時間帯
+cluster1:(2)
+見学, 試飲
+cluster2:(2)
+説明, 内容
+cluster3:(2)
+両親, 友達
+cluster4:(6)
+ワイン, スタッフ, ワイナリー, テイスティング, ワイン初心者, オレンジワイン
+cluster5:(1)
+参加者
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 6
+deleted 0entities.

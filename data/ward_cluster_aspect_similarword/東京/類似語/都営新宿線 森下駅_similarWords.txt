@@ -1,0 +1,9 @@
+--------------------similar_words:都営新宿線 森下駅--------------------
+top3 entities near to cluster0>>
+駅, 仕事, 徒歩
+top3 entities near to cluster1>>
+地上, 地表, 地下
+top3 entities near to cluster2>>
+景観, 街並み, 町並み
+top3 entities near to cluster3>>
+面影, 名残, 痕跡

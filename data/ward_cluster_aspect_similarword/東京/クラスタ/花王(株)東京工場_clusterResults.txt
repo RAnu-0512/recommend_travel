@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花王(株)東京工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+亀戸, 平井・亀戸, 立花一丁目, 明冶, 亀戸駅
+cluster1:(3)
+花王ミュージアム, 花王手前, 花王
+cluster2:(3)
+電話予約, 見学, 見学予約
+cluster3:(3)
+工場, 隅田工場, 工場見学
+cluster4:(2)
+化粧, 化粧品
+cluster5:(9)
+バス停, 内容, 日暮里駅, 事業場, スカイツリー, 自宅, 正門, 徒歩, 歴史
+cluster6:(3)
+都バス, JR総武線, 路線バス
+cluster7:(1)
+総合受付集合時間
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 8
+deleted 0entities.

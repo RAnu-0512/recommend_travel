@@ -1,0 +1,17 @@
+--------------------similar_words:アステールプラザ--------------------
+top3 entities near to cluster0>>
+ライブ, コンサート, ダンス
+top3 entities near to cluster1>>
+ホテル, コンサート, レストラン
+top3 entities near to cluster3>>
+市電, 電車, バス
+top3 entities near to cluster4>>
+設備, 施設, 建物
+top3 entities near to cluster5>>
+公営, 公共, 私営
+top3 entities near to cluster6>>
+ホール, コンサート, 会場
+top3 entities near to cluster7>>
+繁華街, 繁華, 駅前
+top3 entities near to cluster8>>
+施設, 会場, 席

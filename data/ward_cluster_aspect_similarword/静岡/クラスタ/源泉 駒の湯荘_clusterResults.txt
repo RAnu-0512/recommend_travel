@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:源泉 駒の湯荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+車, 服, 利用, 温度, 料理, 価格, こと, 経営者, 料金, 時間, 露天風呂, 日, 食事, 友達, 夏, 復活, 利用者, 場所, 先, 究極, 冬, オススメ, 想像, かけ流し
+cluster1:(2)
+*̄ー̄, た.d\
+cluster2:(17)
+三島駅, 畑毛温泉, 湯舟, 内湯, 湯温, 薬草湯, 一軒宿, 露天浴槽, 浴槽, 露天, 源泉 駒の湯荘, ぬる湯温泉, 風呂, 湯, 長湯, 日帰り温泉, 半身浴槽
+
+howmany entities : 43
+howmany clusters : 3
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 2
+deleted 2entities.

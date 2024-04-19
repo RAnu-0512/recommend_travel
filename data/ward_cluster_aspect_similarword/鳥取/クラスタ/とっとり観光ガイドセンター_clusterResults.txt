@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:とっとり観光ガイドセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+天候, 気温, 体調
+cluster1:(3)
+ガイド, コース, ツアー
+cluster2:(5)
+コモリグモ, スタッフ, コーヒー, 鳥取砂丘, サンダル
+cluster3:(2)
+気持ち, 生き物
+cluster4:(1)
+小道具
+cluster5:(1)
+天の川
+cluster6:(1)
+写真
+cluster7:(5)
+女, 馬, 家族, 父, 娘
+cluster8:(1)
+背
+cluster9:(7)
+時期, こと, 夕方, 昼, 経験, 月, 時間
+cluster10:(2)
+説明, 案内
+cluster11:(2)
+方々, 感謝
+cluster12:(1)
+係
+cluster13:(1)
+人柄
+cluster14:(15)
+植物, 砂丘, 昆虫, 星, 虫, 風紋, 漁火, 鳥取, 砂漠, サンセット, 衛星, 星空, 流星群, 裸足, 砂
+cluster15:(1)
+現実逃避旅行
+
+howmany entities : 51
+howmany clusters : 16
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 16
+deleted 0entities.

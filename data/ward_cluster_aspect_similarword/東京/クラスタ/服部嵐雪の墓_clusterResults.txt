@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:服部嵐雪の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中期, 江戸中期
+cluster1:(7)
+祖, 近く, 俳人, 墓, 寺, 歴史, こと
+cluster2:(2)
+東池袋駅, 東池袋
+cluster3:(2)
+都会, 都心
+cluster4:(2)
+人生経験, 後継者
+cluster5:(7)
+松尾芭蕉, 山門, 本教寺, 山門脇, 服部嵐雪, 雪門, 首都高速ガード奥
+cluster6:(1)
+芭蕉門下十哲
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

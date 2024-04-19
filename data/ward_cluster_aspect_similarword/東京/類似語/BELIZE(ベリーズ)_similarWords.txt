@@ -1,0 +1,9 @@
+--------------------similar_words:BELIZE(ベリーズ)--------------------
+top3 entities near to cluster0>>
+ビル店, ビル, 店舗
+top3 entities near to cluster1>>
+東口, 徒歩, 南口
+top3 entities near to cluster2>>
+地図, 見, グーグルマップ
+top3 entities near to cluster3>>
+駅, 駅前, ビルアトレ

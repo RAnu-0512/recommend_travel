@@ -1,0 +1,47 @@
+--------------------similar_words:マリンスパあたみ--------------------
+top3 entities near to cluster0>>
+サウナ, 内風呂, 日帰り
+top3 entities near to cluster1>>
+プラン, ホテル, エリア
+top3 entities near to cluster3>>
+ジャグジー, スパエリア, ジャグジーバス
+top3 entities near to cluster4>>
+オーシャンビュー, マリンスパ, シーズンオフ
+top3 entities near to cluster5>>
+レストラン, ロケーション, ホテル
+top3 entities near to cluster11>>
+リゾート, スパリゾート, レジャー
+top3 entities near to cluster13>>
+メイン, スタッフ, イベント
+top3 entities near to cluster14>>
+ビール, 食べ物, ウォーター
+top3 entities near to cluster17>>
+値段, 価格, 手頃
+top3 entities near to cluster18>>
+利用, 混雑, 改善
+top3 entities near to cluster19>>
+季節, 夕方, 景色
+top3 entities near to cluster20>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster21>>
+温水, 冷水, プール
+top3 entities near to cluster22>>
+女子, 男子, 更衣
+top3 entities near to cluster23>>
+屋上, 中庭
+top3 entities near to cluster24>>
+屋内, 室内, 屋外
+top3 entities near to cluster25>>
+横, 脇, 真横
+top3 entities near to cluster28>>
+プール, スイミング, 水遊び
+top3 entities near to cluster31>>
+水着, ビキニ, 下着
+top3 entities near to cluster32>>
+割引, 料金, 入場
+top3 entities near to cluster38>>
+スパ, プール, フィットネス
+top3 entities near to cluster39>>
+施設, 設備, 宿泊
+top3 entities near to cluster40>>
+温泉, 露天風呂, 浴場

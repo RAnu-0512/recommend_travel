@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みよし風土記の丘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+資料, 資料館
+cluster1:(2)
+方形, 円形
+cluster2:(16)
+浮世絵, 季節, 猫, 展示, 方, 昔, 生活, 人, 形, 時間, 近く, 絵画, 場所, 勉強, 前方, フィールドミュージアム
+cluster3:(4)
+民家, 敷地, 史跡, 公園
+cluster4:(9)
+広島県, 県立歴史博物館, 古墳, 縄文時代, 古代, 古墳群, 三次, 古代住, 帆立
+cluster5:(2)
+アートになった猫たち展, 浄楽寺古墳群
+
+howmany entities : 35
+howmany clusters : 6
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 6
+deleted 0entities.

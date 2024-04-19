@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雲見夕陽と潮騒の岬オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雲見夕陽, 絶景風呂
+cluster1:(7)
+キャンプ, 富士山, 料金, 光景, 景色, 年越しキャンプ, クルーズ
+cluster2:(3)
+海側, 潮騒, 海
+cluster3:(1)
+岬オートキャンプ場
+cluster4:(1)
+きちんと区画区
+cluster5:(1)
+堂ヶ島
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 5entities.

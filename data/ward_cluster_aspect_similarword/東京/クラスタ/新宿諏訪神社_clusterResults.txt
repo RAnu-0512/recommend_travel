@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新宿諏訪神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+社殿, 神社, 創建
+cluster1:(9)
+駅, 中, スポーツ, 凱旋, 利益, 雰囲気, 討伐, 先, 階段
+cluster2:(1)
+住宅街
+cluster3:(2)
+藤原泰衡, 源頼朝公
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

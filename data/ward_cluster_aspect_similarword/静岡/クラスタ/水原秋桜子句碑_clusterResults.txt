@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水原秋桜子句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大淀小淀, 橋立吊橋
+cluster1:(12)
+句, 重鎮, 高浜虚子, 句碑, 磯魚, 俳壇, 昭和, 大正, 笹子, 近く, 昔水原秋桜子, 石碑
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

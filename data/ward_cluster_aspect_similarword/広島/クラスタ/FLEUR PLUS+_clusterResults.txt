@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:FLEUR PLUS+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+質, フランス調
+cluster1:(12)
+気分, お花畑, 身内, アドバイス, 話, 先生, 作品, アート, もの, セット, ハーバリウム, 部屋
+cluster2:(3)
+お花, 花, 瓶
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

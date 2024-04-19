@@ -1,0 +1,11 @@
+--------------------similar_words:府中市美術館--------------------
+top3 entities near to cluster0>>
+公園, 駅, 散歩
+top3 entities near to cluster2>>
+展示, 展覧
+top3 entities near to cluster3>>
+美術, 絵画, 美術館
+top3 entities near to cluster4>>
+駐車料, 駐車場, 駐車
+top3 entities near to cluster5>>
+休館, 全館, 閉館

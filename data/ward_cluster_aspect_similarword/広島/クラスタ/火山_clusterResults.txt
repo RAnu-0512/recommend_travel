@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:火山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+山, 山頂, 岩, 峠
+cluster1:(5)
+スニーカー, 瀬戸内, 市街地, こと, ロープ
+cluster2:(2)
+眼下, 眺め
+cluster3:(1)
+駐車場
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

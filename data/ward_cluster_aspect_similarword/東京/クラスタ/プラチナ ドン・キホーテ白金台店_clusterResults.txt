@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:プラチナ ドン・キホーテ白金台店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白金, 白金台駅
+cluster1:(14)
+シロガネーゼ, 中, 設定, 他, 気, プラチナ, 名, 物, 他店, ドンキ, 価格, ドン・キホーテ, 品, 見た目
+cluster2:(2)
+差程度, 日用品
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

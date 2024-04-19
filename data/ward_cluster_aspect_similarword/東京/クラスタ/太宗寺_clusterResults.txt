@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太宗寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+東京都, 内藤, 新宿御苑前駅, 新宿御苑, 新宿二丁目, 内藤新宿, 江戸, 江戸六地蔵, 江戸中期, 甲州街道, 新宿山, 新宿
+cluster1:(27)
+右手, ミスマッチ, 木々, 家, 気, 浄土宗, 近く, 本堂, 盆踊り, ライト, 寺院, 全体, 趣, 寺, 見ごたえ, 太宗寺, ボタン, 前, 建つ浄土宗, 本尊, 時間, こと, 指定文化財, 物, 宿場, 雰囲気, 境内
+cluster2:(2)
+閻魔堂, 堂
+cluster3:(2)
+閻魔大王, 閻魔像
+cluster4:(4)
+地蔵尊, 塩かけ地蔵, 地蔵, 地蔵菩薩像
+
+howmany entities : 47
+howmany clusters : 5
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 5
+deleted 0entities.

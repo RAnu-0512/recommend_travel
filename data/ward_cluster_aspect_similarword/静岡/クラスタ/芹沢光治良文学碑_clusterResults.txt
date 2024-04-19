@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芹沢光治良文学碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+芹沢光治記念館, 芹沢光治良の記念館, 芹沢光治良, 芹沢光治良文学館
+cluster1:(18)
+名誉市民, 緑道, 孤絶の碑, 我入道海岸, 芹沢, ふたつ, 堤防, 中, 近く, 文学碑, 碑, 風の鳴る碑, 沼津市, 海岸沿い, 生まれ, 海岸線, 功績, 風
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船堀タワー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+展望タワー, タワー展望室, 展望室, 展望台
+cluster1:(3)
+船堀駅, 船堀タワー, 船堀
+cluster2:(23)
+富士山, 筑波山, 近隣, 建物, 人, タワー, ところ, 施設, スカイツリー, エリア, 上, タワーそのもの, 案内, 高さ, 付近, 周り, 江戸川区, こと, 現場, 目, 作業, 東京タワー, 悔しさ
+cluster3:(4)
+景色, 天気, 写真撮影, 夜景
+cluster4:(3)
+入館, 子供連れ, エレベーター乗車
+cluster5:(1)
+建造物
+cluster6:(1)
+体温測定
+cluster7:(1)
+手指消毒
+
+howmany entities : 40
+howmany clusters : 8
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 8
+deleted 0entities.

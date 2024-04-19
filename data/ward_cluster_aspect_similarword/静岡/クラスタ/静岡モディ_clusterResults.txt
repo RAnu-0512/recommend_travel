@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡モディ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+静岡モディ, 新静岡セノバ, モディ館3F, 新静岡駅, 静岡駅, 静岡マルイ
+cluster1:(9)
+マルイ, レストラン, 連絡通路, そば, 感じ, 買い物, 近く, 充電口, 中心
+cluster2:(2)
+商業施設, 複合施設
+cluster3:(3)
+スポーツ用品店, 雑貨店, 雑貨
+cluster4:(1)
+電動車イス
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 3entities.

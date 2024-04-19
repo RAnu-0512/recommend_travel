@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:地中海通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+店, 車
+cluster1:(4)
+イタリア, カフェ, グルメ, 地中海
+cluster2:(2)
+交差点, 西麻布
+cluster3:(1)
+顔ぶれ
+cluster4:(1)
+間
+cluster5:(1)
+天現寺交差点
+cluster6:(1)
+区間
+cluster7:(1)
+地中海通り
+cluster8:(2)
+広尾駅, 外苑西
+
+howmany entities : 15
+howmany clusters : 9
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 9
+deleted 0entities.

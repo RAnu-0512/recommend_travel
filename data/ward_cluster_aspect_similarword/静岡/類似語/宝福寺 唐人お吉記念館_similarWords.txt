@@ -1,0 +1,13 @@
+--------------------similar_words:宝福寺 唐人お吉記念館--------------------
+top3 entities near to cluster0>>
+吉, 唐人, 龍
+top3 entities near to cluster1>>
+歴史, 時代, 人物
+top3 entities near to cluster3>>
+人生, 生涯, 運命
+top3 entities near to cluster6>>
+総領事, 政府, 領事
+top3 entities near to cluster7>>
+女性, 大人, 着物
+top3 entities near to cluster11>>
+資料, 館, 入館

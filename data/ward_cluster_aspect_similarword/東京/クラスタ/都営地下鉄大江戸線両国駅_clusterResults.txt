@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営地下鉄大江戸線両国駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+時短, 近く, 手間, 移動, 地下, 時間, 便利
+cluster1:(8)
+大江戸線, 総武線, 都営地下鉄, 西船橋, 相撲, 駅, 各駅, 東西線
+cluster2:(5)
+江戸線両国駅, JR両国駅, 両国駅, 両国, 江戸東京博物館
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

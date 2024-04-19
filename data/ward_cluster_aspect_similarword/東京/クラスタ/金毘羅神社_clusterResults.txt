@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金毘羅神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大里神社, 金毘羅神社, 金比羅神社
+cluster1:(8)
+通行止め, 青ヶ島, 鳥居, ヘリポート, 高さ, 佐々木次郎, 森, 青ヶ島村
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

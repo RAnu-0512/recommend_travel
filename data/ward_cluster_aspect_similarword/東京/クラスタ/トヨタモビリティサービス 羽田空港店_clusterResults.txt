@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタモビリティサービス 羽田空港店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+穴守稲荷駅, 徒歩
+cluster1:(4)
+手続き, 空港, レンタカー, 羽田
+cluster2:(1)
+道沿い
+cluster3:(1)
+京急
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

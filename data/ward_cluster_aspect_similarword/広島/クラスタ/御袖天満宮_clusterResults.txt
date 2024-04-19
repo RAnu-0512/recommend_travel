@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御袖天満宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+舞台, 景色, 映画
+cluster1:(8)
+入り口, そば, 猫, 大山寺, 神, 転校生, 天満宮, 受験生
+cluster2:(9)
+案内, 途中, 先, 説明, 写真, 現地, 上, 付近, 場所
+cluster3:(8)
+寺, 神体, 尾道, 古寺, 石段, 山門, 神社, 階段
+cluster4:(4)
+御袖天満宮, ロケ地, 千光寺ロープウェイ入口, 袖
+cluster5:(2)
+大林宣彦, 菅原道真
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 6
+deleted 0entities.

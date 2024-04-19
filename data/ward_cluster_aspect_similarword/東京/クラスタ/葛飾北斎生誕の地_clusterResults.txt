@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛飾北斎生誕の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+斜め, 案内板, 場所, 見物人, 多く, 東あられ, 店舗, 公園, 文字, 両国駅, 両国, 有名店, 完成, 人気ぶり, 前, 美術館完成以前, 江戸線, 道路, 緑町公園, 浮き世師
+cluster1:(7)
+江戸時代後期, 北斎美術館, 地碑, 葛飾北斎, 生誕, 化政文化, 北斎生誕地
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 2
+deleted 0entities.

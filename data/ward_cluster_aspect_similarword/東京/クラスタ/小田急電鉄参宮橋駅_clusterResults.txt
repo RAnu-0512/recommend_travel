@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急電鉄参宮橋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+各駅停車, 駅停車
+cluster1:(4)
+駅, 小田急線, 参宮橋駅, 駅舎
+cluster2:(4)
+リフォーム, 小田急電鉄, 雰囲気, 印象
+cluster3:(2)
+明治, 神宮
+cluster4:(1)
+商店街
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

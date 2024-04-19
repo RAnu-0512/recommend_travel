@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸内海汽船トラベルサービス グランドプリンスホテル広島内営業所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+宮島行きフェリーチケット, 広島, 宮島
+cluster1:(6)
+他, グランドプリンス, グランドプリンスホテル, チケット, 瀬戸内海, ホテル
+cluster2:(2)
+高速船, 船
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

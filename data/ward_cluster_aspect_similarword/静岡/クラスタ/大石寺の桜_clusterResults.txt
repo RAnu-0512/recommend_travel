@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大石寺の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+しだれ桜, 桜, 花見
+cluster1:(3)
+景観, 景色, 雄大
+cluster2:(6)
+駅, 国, 野菜, JR, 寺, 道
+cluster3:(3)
+風情, 姿, 感じ
+cluster4:(3)
+昔, 友達, 近く
+cluster5:(9)
+見ごたえ, コラボ, 文化財, 写真, ピンク, ソメイヨシノ, 富士山, 雰囲気, 五重塔
+cluster6:(1)
+見学
+cluster7:(1)
+木
+cluster8:(1)
+一人ドライブ
+cluster9:(1)
+駐車場
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 6
+deleted 4entities.

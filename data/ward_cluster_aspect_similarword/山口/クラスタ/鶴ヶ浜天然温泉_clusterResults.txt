@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鶴ヶ浜天然温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天然温泉, 日帰り温泉
+cluster1:(3)
+風呂, 露天風呂, サウナ
+cluster2:(2)
+種類, 値段
+cluster3:(1)
+健康ランド
+cluster4:(1)
+下松
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

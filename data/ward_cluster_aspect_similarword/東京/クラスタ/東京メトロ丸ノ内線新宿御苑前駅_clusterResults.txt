@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸ノ内線新宿御苑前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+利用客, 利用価値
+cluster1:(3)
+駅, 駅周辺, 駅名
+cluster2:(6)
+地下道, 場所, 最寄り駅, ホーム, 地下, 混雑
+cluster3:(10)
+新宿駅, 新宿門, 新宿御苑前駅, 新宿御苑, 東京メトロ丸ノ内線, 旧新宿門, 御苑, 新宿三丁目, 大木戸門, 新宿
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

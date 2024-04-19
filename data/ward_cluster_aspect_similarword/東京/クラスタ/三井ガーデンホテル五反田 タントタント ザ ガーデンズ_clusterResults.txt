@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三井ガーデンホテル五反田 タントタント ザ ガーデンズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+デーブル席, デーブル
+cluster1:(23)
+イタリアンレストラン, ホテル, スタッフ, プレート, 横並び, コーヒー, オードブル, ハッピーバースディ, タントタント, コスパ, 飛び込み, スパークリングワイン, パサパサ, 思い出, ポイント, デザート, レストラン, ランチ, シャンパン, マルゲリータピザ, 雰囲気, コース, パスタ
+cluster2:(3)
+家内, 全員, 家族
+cluster3:(2)
+体験, 予約
+cluster4:(2)
+文字, 名前
+cluster5:(5)
+場所, 他, 感じ, 方, 対応
+cluster6:(1)
+拍手
+cluster7:(7)
+トマト系パスタ, 貝柱, ピザ, 前菜, パン, パスタORピッツア, 皿
+cluster8:(2)
+予約席, 席
+cluster9:(2)
+店員, 店内
+cluster10:(2)
+顧客, 客
+cluster11:(3)
+旅行, 音楽, 会社
+cluster12:(3)
+食事, 味, 料理
+cluster13:(1)
+景観
+cluster14:(1)
+ランチコース内容
+cluster15:(11)
+五反田駅, 正面, 線路, ガーデン側, 窓, コロナ対策, 距離, 駅, 開業, 会場全体, 期限
+cluster16:(1)
+誕生日
+
+howmany entities : 71
+howmany clusters : 17
+howmany entities (more than1entities) : 71
+howmany clusters (more than1entities) : 17
+deleted 0entities.

@@ -1,0 +1,27 @@
+--------------------similar_words:エコサーファー--------------------
+top3 entities near to cluster0>>
+息子, 長男, 母
+top3 entities near to cluster1>>
+子供, 大人, 小学
+top3 entities near to cluster3>>
+友達, 言葉
+top3 entities near to cluster4>>
+スーツ, キバ, チョコ
+top3 entities near to cluster5>>
+台風, 太陽
+top3 entities near to cluster6>>
+ガイド, ダイビング, シュノーケリング
+top3 entities near to cluster7>>
+子ども, プール, 子供
+top3 entities near to cluster10>>
+スズメダイ, キビナゴ, キュウセン
+top3 entities near to cluster12>>
+ナマコ, カサゴ, ウツボ
+top3 entities near to cluster14>>
+カニ, タコ, エビ
+top3 entities near to cluster16>>
+安全, 透明
+top3 entities near to cluster20>>
+知識, 装備
+top3 entities near to cluster21>>
+体験, 子供

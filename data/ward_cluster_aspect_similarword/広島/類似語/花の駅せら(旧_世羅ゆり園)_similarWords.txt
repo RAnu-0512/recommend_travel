@@ -1,0 +1,9 @@
+--------------------similar_words:花の駅せら(旧_世羅ゆり園)--------------------
+top3 entities near to cluster0>>
+入園料, 入場料, 入場, 入園
+top3 entities near to cluster1>>
+ゆり, 百合, 憧花
+top3 entities near to cluster2>>
+駐車場, 駐車, 展望
+top3 entities near to cluster3>>
+花, お花, 鉢植え

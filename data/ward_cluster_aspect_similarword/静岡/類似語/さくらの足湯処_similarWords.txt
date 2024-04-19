@@ -1,0 +1,9 @@
+--------------------similar_words:さくらの足湯処--------------------
+top3 entities near to cluster0>>
+桜, 八重桜, しだれ
+top3 entities near to cluster1>>
+足湯, 温泉, 処
+top3 entities near to cluster2>>
+川沿い, 川, 桜
+top3 entities near to cluster3>>
+湯, 足湯, 温泉

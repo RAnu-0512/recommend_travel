@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小瀬川栗園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+栗拾い, 栗, 焼き栗, 栗ご飯, 栗園
+cluster1:(2)
+人, 気
+cluster2:(2)
+応対, 電話
+cluster3:(1)
+愛想
+cluster4:(1)
+艶
+cluster5:(1)
+廿日市市
+cluster6:(1)
+津田須川田
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

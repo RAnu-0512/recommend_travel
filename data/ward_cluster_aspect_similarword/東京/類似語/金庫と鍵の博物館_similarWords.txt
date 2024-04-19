@@ -1,0 +1,5 @@
+--------------------similar_words:金庫と鍵の博物館--------------------
+top3 entities near to cluster1>>
+金庫, 機密, 秘密
+top3 entities near to cluster2>>
+暗号, 金庫, 鍵

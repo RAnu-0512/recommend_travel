@@ -1,0 +1,25 @@
+--------------------similar_words:ZAKUROらんぷ家--------------------
+top3 entities near to cluster0>>
+製作, 完成, 作製
+top3 entities near to cluster1>>
+連絡, 返答, 予約
+top3 entities near to cluster3>>
+母, 父, 友人
+top3 entities near to cluster4>>
+上記, 以下, 件
+top3 entities near to cluster5>>
+斜め, 奥, 手前
+top3 entities near to cluster6>>
+必要, 事項, 記載
+top3 entities near to cluster7>>
+破片, 石膏, ガラス
+top3 entities near to cluster8>>
+デザイン, サイズ, 手作業
+top3 entities near to cluster9>>
+ライト, スタンド, ランプ
+top3 entities near to cluster10>>
+ランプ, 灯り, キャンドル
+top3 entities near to cluster12>>
+値段, 価格
+top3 entities near to cluster13>>
+全面, お客, 外側

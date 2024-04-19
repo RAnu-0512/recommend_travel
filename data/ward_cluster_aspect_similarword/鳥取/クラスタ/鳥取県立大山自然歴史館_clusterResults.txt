@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取県立大山自然歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+詩画, 展II 伯耆大山, 詩
+cluster1:(2)
+むぎ, 館むぎ
+cluster2:(6)
+個展, 模型, 展示, 見学, 施設, 館内
+cluster3:(3)
+登山, 在住, 旅行
+cluster4:(13)
+ガイド, 文化財, プロジェクター, 動植物, 事, 前, スクリーン, ゾーン, 今回, 見応え, 気持ち, 成り立ち, プロセス
+cluster5:(2)
+絵, 映像
+cluster6:(2)
+歴史, 自然
+cluster7:(2)
+勉強, 意識
+cluster8:(5)
+大山, 大山寺, 弥生, はらだとしこ, 四季
+cluster9:(9)
+妻木晩田遺跡, 米子市, 鳥取県立, 観光客, 自然観察会, 入館料, 入館無料, 国立公園, 展覧会
+cluster10:(1)
+───O
+
+howmany entities : 48
+howmany clusters : 11
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 11
+deleted 0entities.

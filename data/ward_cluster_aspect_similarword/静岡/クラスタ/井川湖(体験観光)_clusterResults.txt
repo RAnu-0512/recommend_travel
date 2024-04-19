@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井川湖(体験観光)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 展示館
+cluster1:(2)
+紅葉, 紅葉時期
+cluster2:(7)
+最後, 時期, 時間, 近く, 先, 場所, 夕方
+cluster3:(5)
+人造湖, 大井川, けしき, 井川湖, 山
+cluster4:(3)
+人, 周囲, 自然
+cluster5:(4)
+車, あまり車, 上流, 方面
+cluster6:(5)
+湖, 景観, ダム, 景色, 湖畔
+cluster7:(7)
+静岡, 静岡市, 井川ダム, 静岡市街, 井川湖畔, 東名高速, 一路南
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 6
+deleted 4entities.

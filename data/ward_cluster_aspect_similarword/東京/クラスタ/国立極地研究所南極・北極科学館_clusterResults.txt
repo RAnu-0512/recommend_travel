@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国立極地研究所南極・北極科学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+南極, 北極, 南極点, 南極記地
+cluster1:(2)
+国立, 立川
+cluster2:(3)
+氷, 隕石, 石
+cluster3:(2)
+剥製, 閉館
+cluster4:(2)
+大人, 子供
+cluster5:(9)
+生き物, 顕微鏡, イベント, 博物館, 研究所, オーロラシアター, 南極大陸, オーロラ, コーナー
+cluster6:(1)
+紅葉
+cluster7:(14)
+観測, 場所, 建物, 一部, 距離, 生態, 理解, 施設, 映像, 時間, 写真, 動画, こと, 現場
+cluster8:(1)
+自由研究
+cluster9:(7)
+雪上車, 防寒着, 展示品, 展示物, 昭和記念公園, 入場料, 展示
+
+howmany entities : 45
+howmany clusters : 10
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 10
+deleted 0entities.

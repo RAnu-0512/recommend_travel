@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 リストアステーション>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+施設, 山間, 広島県, ドーム型, 光, セツブンソウ, レストラン, 道, 駅, 時期, ドーム, ガラス張り
+cluster1:(4)
+販売所, 食事処, 特産品, 群生地
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

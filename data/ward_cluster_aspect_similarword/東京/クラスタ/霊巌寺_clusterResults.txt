@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霊巌寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+霊巌寺, 松平定信, 松平定信の墓, ここ霊巌寺, 銅造地蔵菩薩坐像
+cluster1:(4)
+地蔵菩薩, 地蔵尊, 地蔵, 地蔵様
+cluster2:(4)
+徒歩圏, 駅, 住宅街, 徒歩
+cluster3:(2)
+趣, 風情
+cluster4:(2)
+歴史, 時代
+cluster5:(3)
+アクセス, ところ, 見ごたえ
+cluster6:(2)
+気持ち, 雰囲気
+cluster7:(1)
+守護神
+cluster8:(1)
+浄土宗
+cluster9:(4)
+場所, 感じ, 意外, こと
+cluster10:(1)
+利益
+cluster11:(9)
+拝殿, 門, 本堂, 浄土宗寺院, 墓, 寺院, 寺, 刹, 境内
+cluster12:(19)
+東京都, 道本山, 白河藩, 東京メトロ清澄, 陸奥白河藩, 松平, 白河, 江戸, 江戸六地蔵, 白川, 清澄, 江戸時代, 徳川幕府, 江東区, 江戸線, 清澄白河, o♪清澄, 白河駅, 清澄庭園
+
+howmany entities : 57
+howmany clusters : 13
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 13
+deleted 0entities.

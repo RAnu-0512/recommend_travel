@@ -1,0 +1,19 @@
+--------------------similar_words:北総鉄道北総線新柴又駅--------------------
+top3 entities near to cluster0>>
+ファミレス, ドラッグストア, ファミリーレストラン
+top3 entities near to cluster1>>
+コンビニ, コンビニエンスストア, ローソン
+top3 entities near to cluster2>>
+戸建て, 建て売り, 一戸建て
+top3 entities near to cluster3>>
+感じる, 思う, かんじ
+top3 entities near to cluster4>>
+駅, 駅前, 徒歩
+top3 entities near to cluster5>>
+電柱, 電信柱, 電線
+top3 entities near to cluster6>>
+住宅街, 住宅, 商店街, 商店
+top3 entities near to cluster7>>
+美容室, 美容, 理容室, 理容
+top3 entities near to cluster8>>
+総線, 総, 中央線, 中央

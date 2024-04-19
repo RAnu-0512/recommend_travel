@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:よみうりV通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+U字, よみうりV通り
+cluster1:(2)
+ジャイアンツ球場, 球場
+cluster2:(3)
+勾配, 坂, 坂道
+cluster3:(13)
+途中, ジャイアンツ, 最後, 優勝, 気, 予想, 歴代, 上り坂, よみうりランド, ファン, 選手, 京王線, 巨人軍
+cluster4:(4)
+手形, 距離, よみうりランド駅, 歩道
+cluster5:(1)
+京王よみうりランド駅
+
+howmany entities : 25
+howmany clusters : 6
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 6
+deleted 0entities.

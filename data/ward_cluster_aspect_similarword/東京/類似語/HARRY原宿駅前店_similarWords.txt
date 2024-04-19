@@ -1,0 +1,9 @@
+--------------------similar_words:HARRY原宿駅前店--------------------
+top3 entities near to cluster0>>
+息子, 娘
+top3 entities near to cluster1>>
+ビル店, 看板, ビル
+top3 entities near to cluster2>>
+予約, 時間, 受付
+top3 entities near to cluster3>>
+駅, 駅前, ビルアトレ

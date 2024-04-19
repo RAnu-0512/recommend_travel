@@ -1,0 +1,27 @@
+--------------------similar_words:都市農業公園--------------------
+top3 entities near to cluster0>>
+子供, 家族, 子ども
+top3 entities near to cluster1>>
+軽食, 有料, 食事
+top3 entities near to cluster2>>
+公園, 遊具, 広場
+top3 entities near to cluster3>>
+建物, 敷地, 施設
+top3 entities near to cluster4>>
+休憩, 昼食, 時間
+top3 entities near to cluster5>>
+季節, 風情, 風景
+top3 entities near to cluster7>>
+公園, 都市, 農業
+top3 entities near to cluster8>>
+収穫祭, 収穫, 体験
+top3 entities near to cluster9>>
+体験型, 体験, 体験談
+top3 entities near to cluster10>>
+農業, 稲作, 農作業
+top3 entities near to cluster11>>
+開花, 時期, 満開
+top3 entities near to cluster12>>
+育, 育つ
+top3 entities near to cluster13>>
+四季, 桜, 広場

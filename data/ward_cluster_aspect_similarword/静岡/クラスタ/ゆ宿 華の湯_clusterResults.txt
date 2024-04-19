@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆ宿 華の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゆ宿 華, ゆ宿 華の湯
+cluster1:(3)
+立地, 充実, 規模
+cluster2:(3)
+客, 名物, 景色
+cluster3:(7)
+リニューアル, 居心地, 兄さん, 受付, 修善寺, 壁, 露天風呂
+cluster4:(1)
+髪
+cluster5:(1)
+好感
+cluster6:(12)
+貸切風呂, 薬草露天風呂, 湯船, ゲルマニウム岩盤浴, 宿, 薬草湯, 檜風呂, 伊豆長岡温泉, 風呂, 湯, 日帰り温泉, ツボ湯
+cluster7:(1)
+(́・ω・`
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 5entities.

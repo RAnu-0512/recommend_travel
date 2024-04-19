@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笠戸島国民宿舎大城温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+待った温泉, 炭酸温泉
+cluster1:(2)
+バイク, 露天風呂
+cluster2:(1)
+温泉
+cluster3:(1)
+料理
+cluster4:(1)
+料金
+cluster5:(1)
+天気
+cluster6:(1)
+コロナ禍
+cluster7:(1)
+文句無し
+cluster8:(1)
+従業員
+
+howmany entities : 11
+howmany clusters : 9
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 9
+deleted 0entities.

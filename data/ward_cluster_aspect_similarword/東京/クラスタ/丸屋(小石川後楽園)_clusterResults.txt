@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸屋(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小石川後楽園, 後楽園
+cluster1:(2)
+茶屋, 東屋
+cluster2:(15)
+昔, 場所, 建物, 人, 紅葉, 近く, 時期, モミジ, 写真, 椅子, 方, 背景, 雰囲気, 風情, 脇
+cluster3:(2)
+丸屋, 茅葺き屋根
+cluster4:(1)
+大泉水
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

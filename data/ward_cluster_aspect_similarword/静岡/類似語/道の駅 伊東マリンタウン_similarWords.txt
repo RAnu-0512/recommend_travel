@@ -1,0 +1,81 @@
+--------------------similar_words:道の駅 伊東マリンタウン--------------------
+top3 entities near to cluster0>>
+ソフト, バニラ, ベース
+top3 entities near to cluster1>>
+パネル, チップ, デッキ
+top3 entities near to cluster2>>
+ヨット, ドック, マリーナ
+top3 entities near to cluster3>>
+ベンチ, トイレ, フロア
+top3 entities near to cluster5>>
+トマト, チーズ, ビール
+top3 entities near to cluster6>>
+パステルカラー, リニューアル, イルミネーション
+top3 entities near to cluster11>>
+レストラン, テイクアウト, ロケーション
+top3 entities near to cluster12>>
+サンハトヤ, レジャースポット, オーシャンビュー
+top3 entities near to cluster14>>
+ジェラート, ソフトクリーム, アイスクリーム
+top3 entities near to cluster20>>
+イベント, チケット, ショップ
+top3 entities near to cluster23>>
+お菓子, 食べ物, スイーツ
+top3 entities near to cluster24>>
+デコポン, 不知火, ポンカン
+top3 entities near to cluster25>>
+海沿い, 土産物, ホテル
+top3 entities near to cluster26>>
+海, ちゃん, 温泉
+top3 entities near to cluster27>>
+国道
+top3 entities near to cluster28>>
+海船, 海, 海中
+top3 entities near to cluster29>>
+頃, 夕方, ころ
+top3 entities near to cluster31>>
+当地, 地元, 大型
+top3 entities near to cluster44>>
+昼食, ランチ, 朝食
+top3 entities near to cluster46>>
+週末, 休日, 平日
+top3 entities near to cluster48>>
+散歩, 散策, 景色
+top3 entities near to cluster49>>
+駐車, 施設, 敷地
+top3 entities near to cluster51>>
+レジ, 店員, カゴ
+top3 entities near to cluster52>>
+活気, 人目, 賑やか
+top3 entities near to cluster53>>
+購入, 利用, 到着
+top3 entities near to cluster54>>
+種類, 品数, 商品
+top3 entities near to cluster55>>
+鮮魚店, 食材店, 鮮魚, 食材
+top3 entities near to cluster58>>
+遊覧, 名所, 周遊
+top3 entities near to cluster59>>
+温泉, 温泉郷, 旅館
+top3 entities near to cluster63>>
+一泊, 旅, 旅先
+top3 entities near to cluster64>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster65>>
+食事, 食べ, 試食
+top3 entities near to cluster66>>
+休憩, 時間, 仮眠
+top3 entities near to cluster67>>
+土産, おみやげ, 土産物
+top3 entities near to cluster68>>
+土産, 土産物, みやげ物
+top3 entities near to cluster69>>
+海鮮, 丼, 定食
+top3 entities near to cluster70>>
+菓子
+top3 entities near to cluster71>>
+パン屋, 雑貨屋, パン, 雑貨
+top3 entities near to cluster72>>
+寿司, すし, 鮨
+top3 entities near to cluster73>>
+ハー, スリ, アカ

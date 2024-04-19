@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩周辺観光タクシーコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コース, タクシー
+cluster1:(2)
+萩周辺観光タクシー, 宇部空港
+
+howmany entities : 4
+howmany clusters : 2
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 2
+deleted 0entities.

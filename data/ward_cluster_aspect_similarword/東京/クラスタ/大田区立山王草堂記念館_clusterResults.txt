@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大田区立山王草堂記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+徳富蘇峰, 蘇峰公園
+cluster1:(17)
+書物, マツモトキヨシ, 場所, 子ども, 花, 公園, 紅葉, 大森駅, 庭園, マンション, 徒歩, 中, 記念館, 道, 遊具, 雰囲気, 横
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

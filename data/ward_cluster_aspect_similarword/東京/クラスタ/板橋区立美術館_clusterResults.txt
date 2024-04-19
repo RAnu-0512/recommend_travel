@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:板橋区立美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+近現代, 近現代美術展
+cluster1:(3)
+企画展示, 企画展, よりぬきサザエさん展
+cluster2:(2)
+常設展示, 展示会
+cluster3:(1)
+企画展示開催期間
+cluster4:(30)
+穴場, 言葉, 場所, 美術, 美術館外観, 駐車場, 赤塚梅まつり, 区立, 人, 板橋区立, 公園, 子供, 感じ, 近く, 散歩, 駅, 立地, 見学, 長崎, サザエ, 版画, 絵画, 日本, 美術館, 休業日, こと, 永遠, 区立美術館, インテリア, 展示
+
+howmany entities : 38
+howmany clusters : 5
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 5
+deleted 0entities.

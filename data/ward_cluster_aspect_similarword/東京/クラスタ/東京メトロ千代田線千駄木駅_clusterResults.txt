@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線千駄木駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+趣, 道
+cluster1:(7)
+店, 場所, 表示, ゴールデンウィーク, 最寄り駅, 東京, つつじ
+cluster2:(1)
+谷中
+cluster3:(7)
+根津神社, 千代田線, 駅, 千駄木駅, 駅周辺, 周辺, 古本市
+cluster4:(1)
+飴細工
+cluster5:(1)
+森鴎外記念館
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

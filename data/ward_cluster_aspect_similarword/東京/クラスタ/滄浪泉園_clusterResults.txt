@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滄浪泉園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+柄杓ヒシャク, 池, 池水面
+cluster1:(2)
+小金井市, 貫井南町
+cluster2:(2)
+石段, 坂
+cluster3:(4)
+木々, 緑, 紅葉, 庭園
+cluster4:(4)
+風流, 音, 風鈴, 鳥
+cluster5:(3)
+楽しみ方, 箇所, 入口
+cluster6:(8)
+さえずり, 水, 人, 足元, ズック, シーズン, 日本, ベンチ
+cluster7:(1)
+飲食
+cluster8:(1)
+カランコロン
+cluster9:(1)
+イキ
+cluster10:(1)
+満足度
+cluster11:(2)
+滄浪泉園, 入園料
+
+howmany entities : 32
+howmany clusters : 12
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 12
+deleted 0entities.

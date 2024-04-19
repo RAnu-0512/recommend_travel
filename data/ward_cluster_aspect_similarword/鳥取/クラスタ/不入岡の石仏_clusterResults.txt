@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:不入岡の石仏>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+国府・国分寺・不入岡, 伯耆国府, 伯耆国庁, 伯耆国分寺
+cluster1:(2)
+入岡遺跡, 法華寺畑遺跡
+cluster2:(12)
+石仏, 遺跡巡り, 林, 中, 国, 辺り, 目印, 不入岡, 近く, 遺跡, 写真, 史跡
+cluster3:(1)
+写真付き解説板
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

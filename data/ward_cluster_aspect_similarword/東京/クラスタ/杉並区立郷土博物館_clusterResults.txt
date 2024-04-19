@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杉並区立郷土博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+大宮, 善福寺川, 新高円寺, 荻窪, 荻窪分館, 杉並, 杉並区, 和田堀公園
+cluster1:(19)
+カメラ撮影, 大人, 屋外展示, 公園, 昆虫展, 子供, 古民家, 郷土博物館, パネル展示, 郷土, 常設展示, 見学, 本館, 住宅街, 方, 歴史, 写真ギャラリー, 禁止, 展示物
+cluster2:(2)
+企画展示開催期間外, 杉並区立郷土博物館
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 3
+deleted 0entities.

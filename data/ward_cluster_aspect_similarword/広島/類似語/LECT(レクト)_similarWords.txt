@@ -1,0 +1,27 @@
+--------------------similar_words:LECT(レクト)--------------------
+top3 entities near to cluster0>>
+スーパー, ショッピング, スーパーマーケット
+top3 entities near to cluster1>>
+タピオカ, カチカチ, シャリシャリ
+top3 entities near to cluster2>>
+カインズ, カインズホーム, ホームセンター
+top3 entities near to cluster3>>
+トイレ, 買い物, 買物
+top3 entities near to cluster4>>
+グラス, コート, ネイル
+top3 entities near to cluster5>>
+無愛想, 気持ち, レクト
+top3 entities near to cluster6>>
+フード
+top3 entities near to cluster7>>
+息子, 子供, 母
+top3 entities near to cluster8>>
+布巾, ふきん
+top3 entities near to cluster9>>
+椅子, 席, 定員
+top3 entities near to cluster10>>
+態度, 口調, 気持ち
+top3 entities near to cluster12>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster13>>
+蔦, 書店, 人数

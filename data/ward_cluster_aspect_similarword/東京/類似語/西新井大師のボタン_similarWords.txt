@@ -1,0 +1,37 @@
+--------------------similar_words:西新井大師のボタン--------------------
+top3 entities near to cluster1>>
+家族, 子供
+top3 entities near to cluster2>>
+横, 裏手, 周り
+top3 entities near to cluster3>>
+ピンク, 花びら, ボタン
+top3 entities near to cluster4>>
+見どころ, 見ごたえ, 見所
+top3 entities near to cluster5>>
+雰囲気, カフェ, 喫茶店
+top3 entities near to cluster6>>
+ピーク, 最盛, 最高潮
+top3 entities near to cluster7>>
+手入れ, メンテナンス, ブラッシング
+top3 entities near to cluster10>>
+季節, 花見, 満開
+top3 entities near to cluster11>>
+参道, 境内, 神社
+top3 entities near to cluster13>>
+鑑賞, ボタン, 観賞
+top3 entities near to cluster14>>
+電車, 車両
+top3 entities near to cluster15>>
+天気雨, お天気雨, 天気, お天気
+top3 entities near to cluster16>>
+土産, 出掛け
+top3 entities near to cluster17>>
+風景, 景観, 名所
+top3 entities near to cluster18>>
+駐車場, 駐車, か所
+top3 entities near to cluster19>>
+牡丹, 寺, 燈記
+top3 entities near to cluster20>>
+花色, 花, お花
+top3 entities near to cluster22>>
+大師, 大師前, 駅

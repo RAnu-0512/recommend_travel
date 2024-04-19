@@ -1,0 +1,31 @@
+--------------------similar_words:山口サビエル記念聖堂--------------------
+top3 entities near to cluster0>>
+雰囲気, 建物, ステンドグラス
+top3 entities near to cluster1>>
+初代, 記念, 白
+top3 entities near to cluster2>>
+海外, 現代, 国内
+top3 entities near to cluster5>>
+趣, 趣き, 印象
+top3 entities near to cluster6>>
+内側, 外側, 部分
+top3 entities near to cluster7>>
+人々, 施設, 土地
+top3 entities near to cluster10>>
+方向道, 通路, 方向
+top3 entities near to cluster11>>
+鐘塔, 屋根, 鐘
+top3 entities near to cluster13>>
+布教, 活動, 伝道
+top3 entities near to cluster14>>
+教会, 聖堂, 教会堂
+top3 entities near to cluster15>>
+信徒, 信者, 宗教
+top3 entities near to cluster16>>
+展示, 見学, 建物
+top3 entities near to cluster18>>
+聖堂, 教会, 大
+top3 entities near to cluster19>>
+記念, 館, 礼拝
+top3 entities near to cluster20>>
+百選, 百, 78

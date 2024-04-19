@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:冠山総合公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+バラ園, 紅葉時期, バラ祭り, 薔薇, バラ, 季節感, 四季, 四季折々
+cluster1:(2)
+入場料, 駐車場
+cluster2:(7)
+梅まつり, 鯉, 池, 菖蒲, 桜, 梅, 坂
+cluster3:(7)
+前, 施設, 秋, 季節, 場所, 次回, 時期
+cluster4:(4)
+心, 緑, 花, お花
+cluster5:(2)
+運動, 散歩
+cluster6:(5)
+ボタン, アスレチック, ジョギング, 手入れ, ピクニック
+cluster7:(2)
+上り坂, 滑り台
+cluster8:(2)
+子供, 家族
+cluster9:(5)
+広場, 公園, 遊具, 祭り, しょうぶ祭り
+cluster10:(1)
+冠山総合公園
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 11
+deleted 0entities.

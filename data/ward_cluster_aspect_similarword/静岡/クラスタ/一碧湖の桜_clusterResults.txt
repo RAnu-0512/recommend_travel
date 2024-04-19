@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一碧湖の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 無料駐車場
+cluster1:(2)
+南東, 端
+cluster2:(2)
+桜, 樹
+cluster3:(2)
+景色, 季節
+cluster4:(9)
+車, 一碧湖, 落ち着き, 先, そば, 周り, トンネル, 伊豆高原, 遊歩道
+cluster5:(1)
+湖
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 9entities.

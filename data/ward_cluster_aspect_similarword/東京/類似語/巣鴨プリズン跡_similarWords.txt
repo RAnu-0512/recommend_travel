@@ -1,0 +1,11 @@
+--------------------similar_words:巣鴨プリズン跡--------------------
+top3 entities near to cluster0>>
+東口, 駅前, 南口
+top3 entities near to cluster1>>
+石碑, 碑石
+top3 entities near to cluster3>>
+跡地, 敷地, 建物
+top3 entities near to cluster4>>
+死刑, 犯罪, 執行
+top3 entities near to cluster5>>
+二次, 大戦, 二

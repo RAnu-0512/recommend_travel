@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かっぱ橋本通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+食器, 途中, かっぱ橋界隈, 商店, 店, 商品, 黄金かっぱ, かっぱ橋道具街周辺, 金色, かっぱイラスト, イラスト郵便ポスト, 商店街, 道具, 合羽橋商店街
+cluster1:(2)
+合羽橋本通り商和会, 浅草七福神もうで 9番目 矢先稲荷神社
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

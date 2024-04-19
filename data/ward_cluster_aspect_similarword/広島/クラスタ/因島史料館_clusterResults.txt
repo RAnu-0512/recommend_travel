@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:因島史料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+因島史料館, 尾道市, 水軍城, 因島, 因島水軍城
+cluster1:(4)
+資料館, 民族資料館, 民俗資料, 資料
+cluster2:(2)
+石器, 土器
+cluster3:(5)
+途中, 横, 島内, 車, 階段
+cluster4:(1)
+駐車場
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

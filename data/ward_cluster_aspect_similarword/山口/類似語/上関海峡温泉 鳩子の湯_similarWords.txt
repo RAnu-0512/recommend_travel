@@ -1,0 +1,15 @@
+--------------------similar_words:上関海峡温泉 鳩子の湯--------------------
+top3 entities near to cluster0>>
+湯船, 浴槽, 風呂
+top3 entities near to cluster1>>
+秘薬
+top3 entities near to cluster2>>
+露天風呂, フライ, 温泉
+top3 entities near to cluster4>>
+景色, 休日, 風景
+top3 entities near to cluster5>>
+木, 木火, 土
+top3 entities near to cluster6>>
+開店, 閉店, 開業
+top3 entities near to cluster7>>
+休憩, 所内, 仮眠

@@ -1,0 +1,19 @@
+--------------------similar_words:三朝薬師の湯 万翆楼--------------------
+top3 entities near to cluster0>>
+風呂, 浴場, 浴室
+top3 entities near to cluster1>>
+玄関, 部屋, 館内
+top3 entities near to cluster2>>
+宿泊, 旅館, 格安
+top3 entities near to cluster3>>
+接客, 応対, 業務
+top3 entities near to cluster4>>
+喫茶, 喫茶店, カフェ
+top3 entities near to cluster5>>
+角質, 皮脂, ゴマージュ
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster8>>
+従業員, 従業, 職員
+top3 entities near to cluster9>>
+温泉, 入浴, 露天風呂

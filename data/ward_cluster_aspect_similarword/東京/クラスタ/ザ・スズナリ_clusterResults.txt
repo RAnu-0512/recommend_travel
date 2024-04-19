@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ザ・スズナリ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+アングラ劇団, 演劇, 公演, 分役者, 役者, 小劇場, 芝居, 劇場
+cluster1:(12)
+場所, スパン, ひとつ, コント, お気に入り, 下北沢, 会場, 中, 歴史, 外, 雰囲気, 外観
+cluster2:(2)
+表情, 肌
+cluster3:(1)
+一体感
+cluster4:(1)
+駐車場
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

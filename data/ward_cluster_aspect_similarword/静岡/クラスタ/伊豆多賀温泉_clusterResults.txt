@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆多賀温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ロケーション, 場所, 体, もの, 感じ
+cluster1:(2)
+車, 伊豆多賀駅
+cluster2:(2)
+景色, 海
+cluster3:(5)
+温泉, 熱海温泉, 伊豆多賀温泉, 宿, 日帰り温泉巡り
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 4entities.

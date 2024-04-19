@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:峨嵋山自然研究路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+シイ, カシ
+cluster1:(1)
+変化
+cluster2:(1)
+海岸線
+cluster3:(1)
+原生林
+cluster4:(1)
+峨嵋山自然研究路
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

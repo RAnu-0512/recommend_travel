@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カレルチャペック紅茶店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+店, 土産, 駅, 本店, 店内
+cluster1:(3)
+イラスト, パッケージ, デザイン
+cluster2:(5)
+ソフトクリーム, カレルチャペック, ハロウィン, プレゼントギフト, プレゼント
+cluster3:(1)
+オマケ
+cluster4:(1)
+入り口
+cluster5:(2)
+ギフト, 買い物
+cluster6:(1)
+吉祥寺
+cluster7:(5)
+場所, 限定, 種類, 価値, こと
+cluster8:(5)
+白桃, ミルクティー, フレーバーティー, 試飲, 紅茶
+cluster9:(1)
+可愛さ
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 10
+deleted 0entities.

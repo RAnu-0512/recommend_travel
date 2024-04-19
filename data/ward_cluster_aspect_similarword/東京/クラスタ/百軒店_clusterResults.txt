@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百軒店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+店飲食店, 軒店
+cluster1:(2)
+若者文化, 音楽系
+cluster2:(6)
+途中, メッカ, 所, 光景, 感じ, 雰囲気
+cluster3:(2)
+周囲, 一帯
+cluster4:(3)
+店, 入口, 駅
+cluster5:(1)
+ぐら
+cluster6:(4)
+道玄坂, 渋谷, 小路, 渋谷駅
+cluster7:(1)
+登り坂
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:首無地蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+近寄り, 境内, 参り, 知り合い, 具合, 店, 方, 西側, 地元, 車, 人, 願い事, 雰囲気, 家族, 道, 場所, 願いごと
+cluster1:(4)
+利益, 身, 首, 身体
+cluster2:(1)
+遠望
+cluster3:(5)
+興味本位, 参拝客, 信仰, 住宅地, 信仰心
+cluster4:(1)
+体調不良
+cluster5:(3)
+府中公園, 広島県, 府中市
+cluster6:(2)
+駐車場, 地蔵駐車場
+cluster7:(2)
+首無地蔵, 首なし地蔵
+cluster8:(2)
+地蔵, 地蔵尊
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 9
+deleted 0entities.

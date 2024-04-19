@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淀江ゆめ温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大山, 米子, 淀江
+cluster1:(4)
+売店, 施設, 食堂, 設備
+cluster2:(20)
+露天風呂, 車, ところ, 皆生温泉, 到着, アルカリ性, こと, サウナ, アメニティ, 入り口, 地元, 室内, 土産物, 人, ロビー, 手ぶら, 気分, 足, 湯上がり, 場所
+cluster3:(1)
+休憩場所
+cluster4:(17)
+飲泉, ツルツル感, 温泉特有, シルク風呂, かけ流し, お湯, 風呂, 地元食材, 淀江ゆめ温泉, ゆめ温泉, 温泉水, 露天, かけ流し温泉, 無味無臭, 温泉, 湯, 複数浴槽
+
+howmany entities : 45
+howmany clusters : 5
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 5
+deleted 0entities.

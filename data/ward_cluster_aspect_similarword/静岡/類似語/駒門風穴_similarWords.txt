@@ -1,0 +1,15 @@
+--------------------similar_words:駒門風穴--------------------
+top3 entities near to cluster1>>
+エアコン, 冷蔵庫, クーラー
+top3 entities near to cluster4>>
+ライト, 虫除け, ＬＥＤ
+top3 entities near to cluster7>>
+洞窟, 洞穴, 出入り口
+top3 entities near to cluster8>>
+冬, 夏, 夏場
+top3 entities near to cluster11>>
+長靴, 靴, 靴下
+top3 entities near to cluster13>>
+風穴, 富岳
+top3 entities near to cluster14>>
+溶岩, 洞窟, 地下

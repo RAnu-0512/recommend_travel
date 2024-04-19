@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ東西線飯田橋駅--------------------
+top3 entities near to cluster0>>
+南北線, 東西線, 地下鉄
+top3 entities near to cluster2>>
+駅, 駅前, 東口
+top3 entities near to cluster3>>
+仕事帰り, 仕事, 帰る
+top3 entities near to cluster5>>
+田, はじ, じさ
+top3 entities near to cluster6>>
+専門店, 専門, 味噌

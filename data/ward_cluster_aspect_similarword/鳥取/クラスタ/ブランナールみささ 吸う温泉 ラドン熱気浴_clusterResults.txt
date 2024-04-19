@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブランナールみささ 吸う温泉 ラドン熱気浴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+風呂, 下着, 部屋, 浴場, 掃除, 温泉, 浴室, バスタオル, 洗顔フォーム
+cluster1:(2)
+感覚, 時間感覚
+cluster2:(2)
+時間経過, 時間
+cluster3:(5)
+疲れ, 体重, 不調, 褒美, 体
+cluster4:(11)
+ラドン, フェイスタオル, フロント, スタッフ, サウナ, ブラシ, ドライヤー, デトックス, スチームサウナ, 気持ち, 支払い
+cluster5:(3)
+水, 念, 汗
+cluster6:(10)
+感じ, 中, 気, 目, 途中スタッフ, こと, 前, 他, 人, 方
+cluster7:(3)
+体験, 所, 施設
+cluster8:(7)
+櫛, 髪, 視界, 熱気, 霧, 毛, 蒸気
+cluster9:(3)
+清潔感, 水分, 水分補給
+cluster10:(7)
+飲泉, 三朝温泉, 足つぼマッサージ, 温風, 熱気浴, ラドン熱気浴, 作務衣
+
+howmany entities : 62
+howmany clusters : 11
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柚木慈生温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+金, 体, 足, カラン, 人生, 目, 感じ, 方, 常連客, 方達, 人
+cluster1:(2)
+入浴, 温泉
+cluster2:(4)
+風呂, 浴槽, お湯, 湯船
+cluster3:(1)
+湯舟
+cluster4:(3)
+炭酸, 桶, 泡
+cluster5:(1)
+柚木慈生温泉
+cluster6:(1)
+呼吸器
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

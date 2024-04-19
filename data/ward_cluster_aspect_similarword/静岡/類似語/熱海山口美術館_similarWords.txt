@@ -1,0 +1,13 @@
+--------------------similar_words:熱海山口美術館--------------------
+top3 entities near to cluster0>>
+作品, 絵画, 美術館
+top3 entities near to cluster1>>
+皿, 茶碗, 小皿
+top3 entities near to cluster2>>
+描く絵, 描く
+top3 entities near to cluster3>>
+展示, 出展, 入館
+top3 entities near to cluster5>>
+工芸品, 美術品, 工芸, 美術
+top3 entities near to cluster6>>
+国宝, 文化財, 人間

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽衣石城>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+小さめ, 眺め, 建物, 日本海, こと, シンボル
+cluster1:(3)
+城, 地, 桜
+cluster2:(1)
+大山
+cluster3:(1)
+天守
+cluster4:(1)
+東郷湖
+cluster5:(1)
+モノ凄い!
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

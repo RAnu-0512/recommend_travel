@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓑掛岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+飛行, 伝説, 沖, 役
+cluster1:(3)
+行者, 奇岩, 岩
+cluster2:(1)
+衰
+cluster3:(1)
+瀬海岸
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

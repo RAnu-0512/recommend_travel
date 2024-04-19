@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小笠原水産センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+小笠原, 近く, 出入り, アカバ
+cluster1:(2)
+施設, 規模
+cluster2:(1)
+入館
+cluster3:(1)
+二見港
+cluster4:(1)
+海洋生物展示・繁殖
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

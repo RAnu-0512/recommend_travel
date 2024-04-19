@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北条義時の墓(北條寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+第二代執権, 鎌倉幕府二代執権
+cluster1:(4)
+北条時政, 北条, 北条寺, 時政同様イメージ
+cluster2:(2)
+佐伯, 寺内
+cluster3:(2)
+鎌倉, 伊賀
+cluster4:(1)
+韮山
+cluster5:(26)
+御朱印, 夫妻, 絵, 墓石, おみやげ, こと, 夫婦仲, 書き置き, もの, 娘, ところ, 歴史, 境内, 状態, 墓, 墨書, 上, 丘, 後妻, 夫婦, 人物, 場所, 執権, 山, お参り, 方
+cluster6:(1)
+五輪塔
+cluster7:(1)
+親近感
+
+howmany entities : 39
+howmany clusters : 8
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 2
+deleted 9entities.

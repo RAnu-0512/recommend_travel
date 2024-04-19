@@ -1,0 +1,25 @@
+--------------------similar_words:田牛サンドスキー場--------------------
+top3 entities near to cluster0>>
+砂まみれ, 砂, 泥まみれ, 泥
+top3 entities near to cluster1>>
+滑り, 滑る, 傾斜
+top3 entities near to cluster2>>
+子供, 子ども, 小学生
+top3 entities near to cluster9>>
+砂浜, 砂地, 岩場
+top3 entities near to cluster12>>
+耳, 丸い, 丸み
+top3 entities near to cluster20>>
+見た目, 大きめ, 小さめ
+top3 entities near to cluster21>>
+トイレ, サンダル, パンツ
+top3 entities near to cluster22>>
+ゲレンデ, スキー, 遊び場
+top3 entities near to cluster24>>
+ビーチ, サーフ, ボード
+top3 entities near to cluster25>>
+景色, 斜面, 急斜面
+top3 entities near to cluster26>>
+スキー場, スキー, 場裏
+top3 entities near to cluster30>>
+窟, 竜宮, 宮

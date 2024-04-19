@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊岡総合センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+豊岡駅, 豊岡総合センター
+cluster1:(5)
+駐車場, 体育館, 敷地, 野球場, 児童公園
+cluster2:(1)
+民俗資料館
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:いいだガラス工房--------------------
+top3 entities near to cluster0>>
+とんぼ玉, シャボン玉, とんぼ, シャボン
+top3 entities near to cluster1>>
+体験, 工房, 来訪
+top3 entities near to cluster2>>
+前回, 予定, 前々回
+top3 entities near to cluster4>>
+期限, 期限切れ, 期間
+top3 entities near to cluster5>>
+違う, 違っ
+top3 entities near to cluster6>>
+近場, 近, 交係

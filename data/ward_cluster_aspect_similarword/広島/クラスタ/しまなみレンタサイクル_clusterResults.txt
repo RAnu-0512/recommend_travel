@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しまなみレンタサイクル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+因島, 尾道, 尾道駅
+cluster1:(12)
+レンタサイクル, 自転車, 各所, 人, アシストつき, アシスト, 海道, サイクリング, 所, 観光, 橋, 電動アシスト
+cluster2:(1)
+観光案内所
+cluster3:(1)
+しまなみ海道
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

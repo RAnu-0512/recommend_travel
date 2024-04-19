@@ -1,0 +1,15 @@
+--------------------similar_words:猫カフェ『てまりのおしろ』--------------------
+top3 entities near to cluster0>>
+猫, ネコ, 子猫
+top3 entities near to cluster1>>
+開店
+top3 entities near to cluster2>>
+店員, 店内
+top3 entities near to cluster3>>
+宿泊, 予約, 研修
+top3 entities near to cluster5>>
+人達, 大勢
+top3 entities near to cluster6>>
+どう, どぉ
+top3 entities near to cluster7>>
+時間, 日, 時

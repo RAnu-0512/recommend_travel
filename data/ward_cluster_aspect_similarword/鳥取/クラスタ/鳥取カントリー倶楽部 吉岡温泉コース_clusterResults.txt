@@ -1,0 +1,10 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取カントリー倶楽部 吉岡温泉コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鳥取カントリー倶楽部 吉岡温泉, コース
+
+howmany entities : 2
+howmany clusters : 1
+howmany entities (more than1entities) : 2
+howmany clusters (more than1entities) : 1
+deleted 0entities.

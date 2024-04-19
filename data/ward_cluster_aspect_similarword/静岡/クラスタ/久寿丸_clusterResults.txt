@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久寿丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+巻き方, 取り方
+cluster1:(4)
+エサ, 水深, 船頭, 釣り人
+cluster2:(6)
+付け方, 経験, 場所, リール, 投稿, 素人
+cluster3:(3)
+風呂, 民宿, 蕎麦
+cluster4:(1)
+久寿丸
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 3entities.

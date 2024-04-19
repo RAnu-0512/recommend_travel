@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ところてんの伊豆河童>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊豆箱根, 三島広小路駅
+cluster1:(2)
+黒蜜, あんみつ
+cluster2:(2)
+関西, 関東
+cluster3:(2)
+酢, タレ
+cluster4:(8)
+人, 体験, 店, 種類, 客, 土産, 感覚, 他
+cluster5:(1)
+駐車場
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 9entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:前川國男邸(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+古民家, 近代建築家, 建築家
+cluster1:(3)
+自邸, 別荘, 邸宅
+cluster2:(4)
+家, 中, 造り, 軽井沢
+cluster3:(1)
+中心部
+cluster4:(1)
+東京都
+cluster5:(1)
+前川國男
+cluster6:(1)
+江戸東京たてもの園
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

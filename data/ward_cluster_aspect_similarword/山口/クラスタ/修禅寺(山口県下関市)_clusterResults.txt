@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修禅寺(山口県下関市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+階段, 足, 真言宗, 目, 雰囲気, 場所
+cluster1:(2)
+寺, 山奥
+cluster2:(1)
+ハイキング気分
+cluster3:(1)
+創建
+cluster4:(1)
+途中道
+cluster5:(1)
+参詣者
+cluster6:(1)
+汗拭き
+cluster7:(1)
+御嶽観音
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

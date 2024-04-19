@@ -1,0 +1,17 @@
+--------------------similar_words:新文芸坐--------------------
+top3 entities near to cluster1>>
+上映, 映画, 封切り
+top3 entities near to cluster2>>
+接客面, 接客, 側面
+top3 entities near to cluster3>>
+画面, 音声, 揺れ
+top3 entities near to cluster5>>
+映画, 映画館, シネコン
+top3 entities near to cluster7>>
+金, 金火, 土
+top3 entities near to cluster8>>
+態度, 言動, 姿勢
+top3 entities near to cluster9>>
+名画, 名作, 絵画
+top3 entities near to cluster10>>
+状態

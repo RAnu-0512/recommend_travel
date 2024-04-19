@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NEOPASA浜松(下り)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+NEOPASA浜松, 静岡県, 浜松ぎょうざ, 街浜松, 浜松, 浜松 SA, 浜松サービスエリア, 天つるり, 浜松サービスエリア下り
+cluster1:(6)
+パン屋, 土産, メロンパン, 土産品, 名産品, 生体験気分
+cluster2:(3)
+電子エレクトーン, 電子ピアノ, 電子ドラム
+cluster3:(2)
+駐車場, 下り線
+cluster4:(22)
+コロッケ, 休憩, プラス, レストラン, オブジェ, コーヒー, こと, 兄さん, ドラム, 外, ミュージックスポット, 新東名高速道路, Roland, 電話, 声, 後ろ, サービスエリア, コーナー, ランチタイム, 他, サービス, エリア
+cluster5:(3)
+楽器, 演奏, 駅ピアノ
+cluster6:(7)
+料理, フードコート, 店, 食事, 景色, 建物, 施設
+cluster7:(1)
+旅程
+cluster8:(6)
+うなぎパイ, ネギ, 炙, 東名, 鰻, あさりうどん
+
+howmany entities : 59
+howmany clusters : 9
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 7
+deleted 3entities.

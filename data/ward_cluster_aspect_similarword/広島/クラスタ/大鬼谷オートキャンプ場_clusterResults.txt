@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大鬼谷オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+友達家族, 子供達
+cluster1:(3)
+広葉樹林, 避暑キャンプ, 標高
+cluster2:(3)
+温泉, 浴場, 風呂
+cluster3:(3)
+ツリーアドベンチャー, ツリーハウス, ツリーアスレチック
+cluster4:(15)
+自転車, ロフト, トイレ, キャンプ, お気に入り, 露天風呂, ホットカーペット, キャンプエリア, サイクリング, バンガロー, テントサイト, ロッジ, バルコニー, コテージ, テント
+cluster5:(2)
+方, 利用
+cluster6:(2)
+隣, 場所
+cluster7:(2)
+車, MBXコース
+cluster8:(5)
+子供, 人, 家族, 食事, 自然
+cluster9:(4)
+水, 川, 四季, 場内
+cluster10:(5)
+高い性, 炊事場, オートキャンプ場, キャンプ場, 広さ
+
+howmany entities : 46
+howmany clusters : 11
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 11
+deleted 0entities.

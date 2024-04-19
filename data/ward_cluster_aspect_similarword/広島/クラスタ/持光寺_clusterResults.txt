@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:持光寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+徒歩, 郵送
+cluster1:(12)
+入り口, 歴史, 時期, ところ, 中, 方, 願い, 門構え, 感じ, 出来上がれ, 作り方, 時間
+cluster2:(3)
+お花, 庭, 石
+cluster3:(5)
+子供, 自宅, 車, 付近, 階段
+cluster4:(3)
+門, 腕, 顔
+cluster5:(5)
+菖蒲, 梅雨, 粘土, 石門, 焼物
+cluster6:(1)
+駐車場
+cluster7:(2)
+竹輪状, 重厚感
+cluster8:(13)
+江戸時代, 別名あじさい寺, 寺, 尾道駅, あじさい寺, にぎり仏, 寿限無, 尾道, 古寺, 七佛めぐり, 仏, 寺院, 平田玉蘊
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 9
+deleted 0entities.

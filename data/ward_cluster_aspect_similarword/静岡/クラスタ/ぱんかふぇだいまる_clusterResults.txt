@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぱんかふぇだいまる>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+老舗, 創業
+cluster1:(3)
+名, 下賀茂, 駅
+cluster2:(2)
+各種パン, 和洋
+cluster3:(1)
+店舗販売
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

@@ -1,0 +1,19 @@
+--------------------similar_words:銀座プレイス--------------------
+top3 entities near to cluster1>>
+施設, 商業, 体験
+top3 entities near to cluster2>>
+ひし形, 交差点, 菱形
+top3 entities near to cluster3>>
+オススメ, おすすめ, お薦め
+top3 entities near to cluster4>>
+ショールーム, レストラン, エントランスデザイン
+top3 entities near to cluster6>>
+カフェ, テレビ, 喫茶店
+top3 entities near to cluster8>>
+時間目, 世界, 時間
+top3 entities near to cluster9>>
+和光, 日産, ニッサン
+top3 entities near to cluster10>>
+建物, ビル
+top3 entities near to cluster11>>
+彫り, 透かし, 彫っ

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小山臨海公園テニスコート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+テニス, テニスコート, 海
+cluster1:(3)
+伊東線, JR, 熱海
+cluster2:(1)
+海岸沿い
+cluster3:(1)
+小山臨海公園
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:東武鉄道東向島駅--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 下町
+top3 entities near to cluster1>>
+鉄道, 私鉄, 博物館
+top3 entities near to cluster2>>
+東武, スカイ, 東武鉄道

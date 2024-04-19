@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菊富士ホテル跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ホテル跡, 跡
+cluster1:(2)
+石碑, 碑
+cluster2:(1)
+旧居跡
+cluster3:(25)
+ホテル, コインパーキング, 場所, 感謝, 戦災, 人, 気持ち, 感じ, 菊坂, 本郷, 著名人, 大正, 跡地, 名前, 住宅, マンション, 付近, 初期, 下宿, 歴史, 観光スポット, 文人, もの, 文人達, 文壇
+cluster4:(5)
+菊富士ホテル跡, 本郷 菊富士ホテル, 菊富士ホテル, 本郷3丁目, 文京区
+
+howmany entities : 35
+howmany clusters : 5
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 5
+deleted 0entities.

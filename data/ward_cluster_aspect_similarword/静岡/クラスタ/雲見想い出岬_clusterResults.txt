@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雲見想い出岬>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雲見温泉, 雲見
+cluster1:(2)
+観光客, 写真撮影スポット
+cluster2:(2)
+岬, 出岬
+cluster3:(2)
+地層, 地形
+cluster4:(2)
+民宿, 宿
+cluster5:(4)
+恋人, 想い, 名前, 場所
+cluster6:(2)
+波, 雲
+cluster7:(2)
+夕日, 景色
+cluster8:(8)
+西伊豆, 夕暮れ, ねらい, 波止場, 富士山, 海, 夕方, 向こう
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 14entities.

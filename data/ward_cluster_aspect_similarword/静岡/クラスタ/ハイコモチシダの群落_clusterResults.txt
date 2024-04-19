@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハイコモチシダの群落>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 案内板
+cluster1:(2)
+滝, 崖
+cluster2:(5)
+南部, 九州, 途中, 別名, 伊豆半島
+cluster3:(1)
+シダ
+cluster4:(1)
+浄蓮
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 6entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Brilliant Mere(ブリリアントメア)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+長寿, 健康, 敬老
+cluster1:(14)
+色, ルルベちゃん, 先生, 教室, 母, 紫, 感謝, クラフト体験, 到着, 次回, 前回, 着物, 製作, 日
+cluster2:(1)
+座りルルベちゃん
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

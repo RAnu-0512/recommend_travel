@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧岩淵水門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+水門, 水量, 水門あたり
+cluster1:(6)
+建造物, 施設, 散歩目的, 土手, 現役, インパクト
+cluster2:(1)
+赤羽駅
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

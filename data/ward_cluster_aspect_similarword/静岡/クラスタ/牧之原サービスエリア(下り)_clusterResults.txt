@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牧之原サービスエリア(下り)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+茶, かけ茶蕎麦, 茶そば, 賀正庵, 牧茶庵, 抹茶生クリーム大福
+cluster1:(13)
+駐車場, 名物, SA, 混雑, 値段, こと, 昔, 失敗, フードコート, 席, 醤油, カツオ, エリア
+cluster2:(4)
+静岡, 焼津, 東名高速, 焼津めしと
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 0entities.

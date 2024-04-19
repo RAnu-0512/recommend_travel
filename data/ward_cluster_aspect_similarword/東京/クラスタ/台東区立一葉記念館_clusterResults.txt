@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:台東区立一葉記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+舞台たけくらべ, たけくらべ
+cluster1:(5)
+作品, アニメ作品, 舞台, 小説家, 劇
+cluster2:(2)
+生誕, 開館
+cluster3:(6)
+原稿, 年表, 書籍, 勉強, 読書, 資料
+cluster4:(2)
+興味, 尽力
+cluster5:(2)
+業績, 生涯
+cluster6:(1)
+事業主体
+cluster7:(3)
+建物, 施設, 外観
+cluster8:(4)
+場所, 時間, 中, こと
+cluster9:(9)
+オススメ, ミュージカル, ドラマ, 街並み, 中学校, ギャラリー, 雰囲気, リニューアルオープン, リニューアル
+cluster10:(2)
+人, 子供
+cluster11:(1)
+札
+cluster12:(4)
+浅草, 龍泉寺町, 吉原, 町
+cluster13:(6)
+展示室, 特別展, 住宅地, 台東区, 展示物, 展示
+cluster14:(2)
+吉原方面にこじんまりとした記念館, 吉原近くに建つ記念館
+cluster15:(6)
+樋口一葉, 一葉記念館, 一葉協賛会, 記念館, 樋口一葉の記念館, 樋口一葉の小説たけくらべ
+
+howmany entities : 57
+howmany clusters : 16
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 16
+deleted 0entities.

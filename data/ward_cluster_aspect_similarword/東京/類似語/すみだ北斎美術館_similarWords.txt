@@ -1,0 +1,21 @@
+--------------------similar_words:すみだ北斎美術館--------------------
+top3 entities near to cluster0>>
+北斎, 浮世絵, 絵画
+top3 entities near to cluster2>>
+美術, 絵画, 浮世絵
+top3 entities near to cluster3>>
+たい, 行き, たく
+top3 entities near to cluster4>>
+時間帯, 時間, 休憩
+top3 entities near to cluster5>>
+作品, 版画, 絵画
+top3 entities near to cluster6>>
+公園, 建物, 部屋
+top3 entities near to cluster7>>
+子供, 子ども, 年配
+top3 entities near to cluster8>>
+ホテル, デザイン, 美術館
+top3 entities near to cluster9>>
+印象, 外見, 風貌
+top3 entities near to cluster12>>
+展示, 常設, 展覧

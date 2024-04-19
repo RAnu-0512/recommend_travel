@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:矢部家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+文化財, 国, もの
+cluster1:(2)
+民家, 住宅
+cluster2:(1)
+矢部家
+cluster3:(1)
+上層農家
+cluster4:(1)
+初めごろ
+cluster5:(1)
+鳥取県
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

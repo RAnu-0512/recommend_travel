@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹之下古戦場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鮎沢川, 足柄駅, JR御殿場線
+cluster1:(3)
+足利, 新田義貞, 足利幕府
+cluster2:(5)
+戦い, 民家, 軍, 軍勢, 石碑
+cluster3:(3)
+歴史, 転機, 時代
+cluster4:(3)
+北, 新田, 横
+cluster5:(1)
+南北朝時代
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 5
+deleted 1entities.

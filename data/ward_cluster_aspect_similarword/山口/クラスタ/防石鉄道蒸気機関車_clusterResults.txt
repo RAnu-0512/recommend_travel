@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:防石鉄道蒸気機関車>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+方, 説明
+cluster1:(2)
+姿, 間近
+cluster2:(1)
+掃除
+cluster3:(1)
+保存会
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 4
+deleted 0entities.

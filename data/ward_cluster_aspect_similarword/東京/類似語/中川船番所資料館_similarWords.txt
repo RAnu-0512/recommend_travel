@@ -1,0 +1,31 @@
+--------------------similar_words:中川船番所資料館--------------------
+top3 entities near to cluster0>>
+展示, 収蔵, 展覧
+top3 entities near to cluster1>>
+印象, 見所, 興味
+top3 entities near to cluster2>>
+徒歩, 駅, 距離
+top3 entities near to cluster4>>
+資料, 歴史, 史料
+top3 entities near to cluster5>>
+道具, 用具, 小道具
+top3 entities near to cluster6>>
+照明, 館内, 音声
+top3 entities near to cluster7>>
+禁止, 土水, 土
+top3 entities near to cluster9>>
+解説板, 案内板, 案内, 解説
+top3 entities near to cluster10>>
+釣竿, 徒歩
+top3 entities near to cluster11>>
+臨場感, 臨場, 緊迫感, 緊迫
+top3 entities near to cluster13>>
+水陸, 両用, 空陸
+top3 entities near to cluster14>>
+時代, 舟運, 幕府
+top3 entities near to cluster15>>
+館, 資料, 史料
+top3 entities near to cluster16>>
+時代, 資料, 館
+top3 entities near to cluster17>>
+周年, 開局, 記念

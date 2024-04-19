@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下町風俗資料館付設展示場「旧吉田屋酒店」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸時代, 明治
+cluster1:(2)
+谷, 柳
+cluster2:(5)
+観光, 屋内, 建物, 施設, 看板
+cluster3:(13)
+途中, 昔, 場所, 上野桜木, 中心, 内部, 交差点, 趣, こと, 雰囲気, 時代, 量り売り, もの
+cluster4:(1)
+木造建物
+cluster5:(4)
+酒瓶, 酒屋, 酒, 酒店
+cluster6:(3)
+展示場, 入場無料, 展示品
+cluster7:(3)
+道具類, 道具, 吉田屋
+cluster8:(5)
+西浅草言問通り, 谷中散策, 谷中, 玉林寺, 台東区
+cluster9:(6)
+資料館, 民俗資料館, 民俗博物館, 下町風俗資料館, 資料, 資料館付設展示場
+
+howmany entities : 44
+howmany clusters : 10
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 10
+deleted 0entities.

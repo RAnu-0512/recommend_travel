@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:茶道具かきぬま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+禅語, 語
+cluster1:(2)
+茶, 桜茶
+cluster2:(3)
+茶道体験, テーブル茶道, 茶道
+cluster3:(2)
+茶室, 茶器
+cluster4:(1)
+文化体験
+cluster5:(48)
+季節, 意味, 初心者, 海外, カップル, 双方向, 一座建立, 人, テーマ, 口コミ, 気, 場, それぞれ, 話, 小説, 茶菓子, 亭主, 所作, 茶道具, 成り立ち, 客, 露路, 参加, 作法, 菓子, 働きかけ, 寺, 興味, 体験, 英, 相手, 軸, 時間, 日本, 美術館, 写真, 歴史, 初心者一人, こと, 先生, 友人, カジュアル, 雰囲気, 時折目頭, 説明, 役割, 主人, 経験
+
+howmany entities : 58
+howmany clusters : 6
+howmany entities (more than1entities) : 58
+howmany clusters (more than1entities) : 6
+deleted 0entities.

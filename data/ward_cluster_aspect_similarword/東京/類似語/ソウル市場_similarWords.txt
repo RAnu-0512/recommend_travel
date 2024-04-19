@@ -1,0 +1,9 @@
+--------------------similar_words:ソウル市場--------------------
+top3 entities near to cluster0>>
+食べ, 歩き, 勧め
+top3 entities near to cluster1>>
+女性, 子供, キムチ
+top3 entities near to cluster2>>
+棚, 場裏
+top3 entities near to cluster3>>
+食材店, 料理店, 料理, 食材

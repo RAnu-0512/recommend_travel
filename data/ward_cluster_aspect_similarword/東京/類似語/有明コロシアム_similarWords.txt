@@ -1,0 +1,23 @@
+--------------------similar_words:有明コロシアム--------------------
+top3 entities near to cluster0>>
+有明, かもめ, 都
+top3 entities near to cluster1>>
+交通費, 交通, 信号
+top3 entities near to cluster2>>
+コンサート, スタジアム, 会場
+top3 entities near to cluster3>>
+格闘技, スポーツ, ボクシング
+top3 entities near to cluster4>>
+バスケ, テニス, バスケットボール
+top3 entities near to cluster6>>
+方法, やり方, 手段
+top3 entities near to cluster7>>
+問題, 自体, そのもの
+top3 entities near to cluster8>>
+迫力, 臨場
+top3 entities near to cluster9>>
+聖地, 巡礼, 総本山
+top3 entities near to cluster10>>
+改札, 通路, 出入り口
+top3 entities near to cluster11>>
+会場, 大会, 試合

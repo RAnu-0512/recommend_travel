@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新高山城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日本城郭大系 13, 建永元年
+cluster1:(27)
+山城, 台湾, 対塁, 一族, ニイタカヤマ, 瀬戸内漫遊, 登山口, 沼田川, 高山城, 小早川隆景, ニイタカヤマノボレ..., 電文, 登山, 相模国, 沼田小早川, 本丸, 頂上, 茂平, 本拠, 三原城, 地盤, 土肥実平, 西, 真珠湾攻撃, 土肥郷, 東国, 小早川茂平
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 2
+deleted 0entities.

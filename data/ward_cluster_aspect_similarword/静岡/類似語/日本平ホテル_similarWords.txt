@@ -1,0 +1,9 @@
+--------------------similar_words:日本平ホテル--------------------
+top3 entities near to cluster1>>
+料理, 食材, 前菜
+top3 entities near to cluster2>>
+ランチ, ホテル, レストラン
+top3 entities near to cluster7>>
+応対, 対応, 予約
+top3 entities near to cluster8>>
+時間帯, 時間

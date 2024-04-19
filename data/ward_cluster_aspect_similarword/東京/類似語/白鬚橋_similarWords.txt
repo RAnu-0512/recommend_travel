@@ -1,0 +1,11 @@
+--------------------similar_words:白鬚橋--------------------
+top3 entities near to cluster1>>
+駒形橋, スカイツリー, 清洲橋
+top3 entities near to cluster3>>
+鉄橋, 橋梁
+top3 entities near to cluster4>>
+光景, 風景
+top3 entities near to cluster5>>
+通行, 通行止め, 往来
+top3 entities near to cluster6>>
+花火, 神社, 公園

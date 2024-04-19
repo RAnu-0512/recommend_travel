@@ -1,0 +1,19 @@
+--------------------similar_words:北区立中央図書館--------------------
+top3 entities near to cluster0>>
+区立, 中央, 都
+top3 entities near to cluster2>>
+区, 区内, 都
+top3 entities near to cluster3>>
+建物, 外観, 中庭
+top3 entities near to cluster4>>
+景品, 賞品, 交換
+top3 entities near to cluster5>>
+図書館, 図書, 読書
+top3 entities near to cluster6>>
+開催, 撮影, 参加
+top3 entities near to cluster7>>
+カフェ, スタンプ, ブック
+top3 entities near to cluster10>>
+蔵書, 駅, 図書館
+top3 entities near to cluster11>>
+赤, レンガ, 煉瓦

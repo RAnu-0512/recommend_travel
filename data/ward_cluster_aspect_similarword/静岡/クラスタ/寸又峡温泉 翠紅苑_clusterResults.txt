@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寸又峡温泉 翠紅苑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お湯, 風呂
+cluster1:(3)
+温泉, 宿, 湯
+cluster2:(1)
+日帰り入浴
+cluster3:(4)
+朝食, 味覚, 食事, 夕食
+cluster4:(1)
+湯めぐり手形
+cluster5:(19)
+レストラン, 高さ, 秋, 下, 夢, 美女づくり, 肩, 露天風呂, 感じ, 腰, 位置, 雰囲気, 紅苑, とろとろ, 石, 山, 幸, 好み, プラン
+cluster6:(1)
+大正レトロ
+cluster7:(1)
+寸又峡温泉
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 6entities.

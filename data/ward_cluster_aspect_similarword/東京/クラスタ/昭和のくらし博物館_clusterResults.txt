@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昭和のくらし博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+一般住宅, 一軒住宅, 住宅街
+cluster1:(4)
+昭和のくらし, 戦時中位, 東急池上線, 昭和
+cluster2:(2)
+撮影, 写真撮影
+cluster3:(16)
+場所, 家, 外観, 門, 久が原, くらし博物館, 道具, 暮らし, 駅, 施設, 博物館, 部屋, 受付, 台所, あり方, 展示
+cluster4:(13)
+昔, 他, 片隅, 感じ, 名前, 昔の暮らし, 中, 方, 世界, 禁止, 説明, 時代, もの
+cluster5:(1)
+期待値
+cluster6:(1)
+入場料
+
+howmany entities : 40
+howmany clusters : 7
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サウナ&カプセルホテル ダンディ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上野松坂屋, 上野広小路
+cluster1:(2)
+利用, 利用者
+cluster2:(12)
+一般, 仕切り, 場所, 人物, 近く, 露天風呂, カプセルホテル, リクライニング, ほう, プライバシー, 受付, 側
+cluster3:(2)
+音, 大声
+cluster4:(9)
+設備, 入口ドア, 飲食施設, 浴室, 浴場, 風呂, 空調, 個室ブース, 麻雀ゲーム
+cluster5:(2)
+休憩所, 休憩
+cluster6:(2)
+休憩室, 休息室
+cluster7:(1)
+営業時間
+cluster8:(3)
+迷惑客, 従業員, 常連客
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 9
+deleted 0entities.

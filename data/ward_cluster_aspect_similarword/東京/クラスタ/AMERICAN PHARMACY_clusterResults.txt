@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:AMERICAN PHARMACY>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海外, 日本
+cluster1:(8)
+セール, ドリンク, 丸の内, ドラックストア, スナック, 丸ビル, ドラッグストア, ウィンドウショッピング
+cluster2:(3)
+他, 商品, もの
+cluster3:(7)
+店名, 名前, 雑貨, 地下, ビル, 店頭, 店内
+cluster4:(1)
+東京駅
+cluster5:(2)
+輸入雑貨, 輸入雑貨店
+cluster6:(2)
+輸入菓子, 菓子
+cluster7:(2)
+輸入品, 品
+cluster8:(1)
+丸の内口そばの丸ビル
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 9
+deleted 0entities.

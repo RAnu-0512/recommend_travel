@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遠山景元の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+振袖火事, 大火
+cluster1:(2)
+遠山, 遠山金四郎
+cluster2:(2)
+墓, 墓地
+cluster3:(2)
+江戸, 巣鴨
+cluster4:(6)
+中, 寺, 近く, 様子, 本妙寺, 金
+cluster5:(1)
+明暦
+cluster6:(1)
+染井霊園
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

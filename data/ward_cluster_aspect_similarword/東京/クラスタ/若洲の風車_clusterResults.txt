@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若洲の風車>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+若洲海浜公園, 若洲風車, 若洲公園, 若洲
+cluster1:(4)
+風車, 風力発電, 風, 風車風
+cluster2:(2)
+駐車場, 芝生広場
+cluster3:(2)
+存在感, 大きさ
+cluster4:(24)
+東京ゲートブリッジ, 小学生, 場所, 景色, キャッチボール, サイクリング, 人, 釣り, 気, 近く, 迫力, おもしろ自転車, バドミントン, 意外, 家族, 自転車, 京葉線, サッカー, 施設, 天気, テント, 目印, キャンプ, ピクニック
+cluster5:(7)
+公園, 子供, ごみ, 広場, 小さい子, 子供たち, 遊具
+
+howmany entities : 43
+howmany clusters : 6
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ銀座線日本橋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+乗換, 路線, 駅, 都, 地下鉄日本橋駅, 日本橋駅, 東京メトロ, 銀座線, 乗り換え駅
+cluster1:(2)
+改装, 設備
+cluster2:(2)
+地下鉄, 東西線
+cluster3:(7)
+エスカレーター, 日本橋, アクセス, エレベーター, ホーム, バリア, 乗り換え
+cluster4:(1)
+日本
+cluster5:(1)
+コレド日本橋
+cluster6:(1)
+東西
+cluster7:(1)
+フリー化
+cluster8:(3)
+改良工事, 壁, 線路壁
+cluster9:(2)
+高低差, 乗降客
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 10
+deleted 0entities.

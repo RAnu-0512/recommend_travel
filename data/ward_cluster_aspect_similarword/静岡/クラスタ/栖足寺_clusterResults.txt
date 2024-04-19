@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:栖足寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+桜まつり, 桜, 河津桜
+cluster1:(4)
+大きなお寺, 本堂, 寺, 本堂天井
+cluster2:(3)
+河童達, 河童グッズ, 河童
+cluster3:(2)
+火災, コロナ対策
+cluster4:(2)
+鎌倉, 明治
+cluster5:(8)
+事, 多く, 時期, こと, もの, 時間, 中, 時代
+cluster6:(2)
+歴史, 伝説
+cluster7:(6)
+御朱印, 隣, 書き置き, テレビ, かっぱ, 見どころ
+cluster8:(2)
+絵, 建物
+cluster9:(1)
+壺
+cluster10:(1)
+展示品
+cluster11:(1)
+キャッシュレス決済
+
+howmany entities : 35
+howmany clusters : 12
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 11entities.

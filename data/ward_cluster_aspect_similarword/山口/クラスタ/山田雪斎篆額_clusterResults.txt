@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山田雪斎篆額>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+幕末, 動乱
+cluster1:(2)
+石碑, 篆額
+cluster2:(2)
+教師, 教員
+cluster3:(5)
+教え子たち, 人物, 人, 歴史, 戦い
+cluster4:(1)
+山田雪斎
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

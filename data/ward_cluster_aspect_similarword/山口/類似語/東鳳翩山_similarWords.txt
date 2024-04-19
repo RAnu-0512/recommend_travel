@@ -1,0 +1,11 @@
+--------------------similar_words:東鳳翩山--------------------
+top3 entities near to cluster0>>
+登山道, 登山口, 登山
+top3 entities near to cluster1>>
+頂上, 山, 山頂
+top3 entities near to cluster2>>
+自動車道, 自動車
+top3 entities near to cluster4>>
+中心部, 中心, 主軸
+top3 entities near to cluster6>>
+踏み, 跡, 踏む

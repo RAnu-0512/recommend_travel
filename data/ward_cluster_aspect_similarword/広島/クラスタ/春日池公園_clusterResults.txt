@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:春日池公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+バラ公園, バラ
+cluster1:(3)
+橋, 池, ハナショウブ園
+cluster2:(4)
+春日池公園, 芝生, 公園, 遊具
+cluster3:(1)
+妊婦中春日池公園
+cluster4:(25)
+ウォーキング, 子供, もの, 時期, 桜, 団体, 花, 方, ハナショウブ, 全体, 近隣, 休日, 感じ, 小さなお子, 当地品種, 人, 品種, 散歩, 花菖蒲, 特徴, 青色, 弁当, 春, こと, 場所
+cluster5:(1)
+老人福祉施設
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 6
+deleted 0entities.

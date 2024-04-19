@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長崎展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ジャンプ, 潮吹き, クジラ, ガソリン, レンタカー
+cluster1:(2)
+車, レンタルバイク
+cluster2:(1)
+海
+cluster3:(1)
+兄島
+cluster4:(4)
+時期, 場所, 町, 徒歩
+cluster5:(1)
+反対側
+cluster6:(1)
+展望台
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 7
+deleted 0entities.

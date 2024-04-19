@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:錦田一里塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時代劇, 東海道中膝栗毛
+cluster1:(2)
+石畳, 坂道
+cluster2:(6)
+風景, 箱根峠, 東海道, 水戸黄門, 箱根湯本・三枚橋, 十返舎一九
+cluster3:(1)
+里塚
+cluster4:(1)
+沼津宿
+cluster5:(1)
+錦田一里塚
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 7entities.

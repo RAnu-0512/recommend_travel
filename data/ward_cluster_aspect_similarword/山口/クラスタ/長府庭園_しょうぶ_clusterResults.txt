@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長府庭園_しょうぶ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+菖蒲池, しょうぶ
+cluster1:(1)
+花
+cluster2:(1)
+中心
+cluster3:(1)
+敷地
+cluster4:(1)
+池
+cluster5:(1)
+観賞
+cluster6:(1)
+菖蒲
+cluster7:(1)
+長府庭園
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:志田邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+地震, 志田, 現代, 内部, 昔, 翌年, 宅, 暮らし, 雰囲気, 建物, 部屋, 東海道, 東海道線, 時代, 商家
+cluster1:(2)
+醤油造り, 醤油
+cluster2:(2)
+醤油工場, 工場
+cluster3:(5)
+建築物, 展示, 見学料, 展示品, 生活用品
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 4entities.

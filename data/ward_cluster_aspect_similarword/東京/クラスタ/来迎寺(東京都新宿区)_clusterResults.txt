@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:来迎寺(東京都新宿区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+山門, 寺, 板碑型, 寺独特, 合掌一礼, 参道, 庚申塔, 境内, 浄土宗寺院, 念仏道場, 本堂, 寺院, 三猿
+cluster1:(12)
+都電, 駅, 東京メトロ, 高田馬場駅, 区, 都心部, 徒歩, 都心, 郡名, 新宿区, 喜久井町, 早稲田駅
+cluster2:(2)
+坂, 坂下
+cluster3:(5)
+山, 背, 庭, 鶏, 奥
+cluster4:(2)
+道, 出口
+cluster5:(2)
+石畳, 階段
+cluster6:(1)
+信号
+cluster7:(4)
+右手前, 右手, 左手, 南方向
+cluster8:(1)
+紫雲山
+cluster9:(3)
+散歩, 神楽坂散策, 散策
+cluster10:(2)
+指定文化財, 指定
+cluster11:(3)
+趣, 特色, 価値
+cluster12:(7)
+前, 近く, 他, 中, 途中, 人, 上
+cluster13:(4)
+こと, 行き方, 場所, もの
+cluster14:(3)
+記載, 通り, 参り
+cluster15:(2)
+早稲田, 東西線
+cluster16:(8)
+落ち着き, 雰囲気, ギャップ, 静けさ, アクセス, 気持ち, 手入れ, 交差点
+cluster17:(2)
+浄土宗, 文化財
+cluster18:(1)
+来迎寺
+cluster19:(3)
+中世, 建物, 資料
+cluster20:(5)
+江戸時代前半, 夏目坂通り, 武州湯原郡, 夏目家, 江戸時代
+cluster21:(1)
+指定有形民族文化材
+
+howmany entities : 86
+howmany clusters : 22
+howmany entities (more than1entities) : 86
+howmany clusters (more than1entities) : 22
+deleted 0entities.

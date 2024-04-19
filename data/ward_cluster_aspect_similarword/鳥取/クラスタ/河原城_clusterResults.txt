@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河原城>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入館料, 休館日
+cluster1:(3)
+ガイドマップ, 説明, 案内
+cluster2:(6)
+河原町, 天守閣, ところ, 見晴らし, シルバー, 河原城
+cluster3:(2)
+古く, 近く
+cluster4:(2)
+中, 上
+cluster5:(2)
+こと, 場所
+cluster6:(1)
+気分
+cluster7:(8)
+建物, 関連, コンクリート構造, 拠点, 価値, 歴史, 復元, 資料
+cluster8:(9)
+山, 車, 駅, 山頂, 道, 田舎, 景色, 眺望, 道路
+cluster9:(3)
+思い訪問, 個人宅, 見分
+cluster10:(7)
+丸山城, 南北朝, 近代建築, 城跡, 城内, 城, 攻略戦
+cluster11:(7)
+鳥取自動車道, 鳥取市, 鳥取城, 羽柴秀吉, ふるさと創生事業, 鳥取県, 因幡街道
+cluster12:(2)
+お城山展望台, 展望台
+cluster13:(2)
+模擬天守, 犬山城天守
+
+howmany entities : 56
+howmany clusters : 14
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 14
+deleted 0entities.

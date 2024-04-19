@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大元神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+文化財, もの, 途中, 大聖院, 日本, 中, 手法, 多く, 雰囲気, 前, 特徴, 多宝塔, 所, 気持ち, 銘
+cluster1:(3)
+東側, 奥, 道
+cluster2:(3)
+上り, 屋根, 階段
+cluster3:(1)
+あせび歩道
+cluster4:(1)
+寛政
+cluster5:(1)
+大分県
+cluster6:(15)
+嚴島神社, 大元公園, 朱塗り, 神社内, 参道, 報賽額, 大元神社, 狛犬, 大山祇神, 大元葺, 本殿, 大元葺き, 神社, 拝殿, 修復工事
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 7
+deleted 0entities.

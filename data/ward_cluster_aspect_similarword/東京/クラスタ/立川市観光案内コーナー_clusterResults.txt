@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:立川市観光案内コーナー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+立川市, 立川駅
+cluster1:(2)
+案内板, 案内
+cluster2:(6)
+ラック, 市, 駅, 農園, ビル, 横
+cluster3:(1)
+まちとりっぷ
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

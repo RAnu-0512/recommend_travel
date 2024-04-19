@@ -1,0 +1,21 @@
+--------------------similar_words:おんせんの森--------------------
+top3 entities near to cluster0>>
+料理, 設備, 施設
+top3 entities near to cluster2>>
+郵送, 保管, 送付
+top3 entities near to cluster3>>
+スペース, ソファー, プレイルーム
+top3 entities near to cluster4>>
+サウナ, 水風呂, 日帰り
+top3 entities near to cluster6>>
+多, 種類, 数種類
+top3 entities near to cluster7>>
+鬼, ヒゲ, ソリ
+top3 entities near to cluster8>>
+駐車場, 駐車, 施設
+top3 entities near to cluster9>>
+温泉, 風呂, 浴場
+top3 entities near to cluster10>>
+岩盤浴, 岩盤, 岩床
+top3 entities near to cluster11>>
+喫煙, 禁煙, タバコ

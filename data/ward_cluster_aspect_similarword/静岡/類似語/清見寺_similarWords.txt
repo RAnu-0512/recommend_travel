@@ -1,0 +1,19 @@
+--------------------similar_words:清見寺--------------------
+top3 entities near to cluster0>>
+拝観, 入館, 参拝
+top3 entities near to cluster1>>
+ＪＲ, 本線, 国鉄
+top3 entities near to cluster2>>
+境内, 本堂, お寺
+top3 entities near to cluster12>>
+奥外, 奥
+top3 entities near to cluster15>>
+御朱印, 手習い, 朱印
+top3 entities near to cluster18>>
+部屋, 空間, 匂い
+top3 entities near to cluster20>>
+空気感, 空気
+top3 entities near to cluster23>>
+時代, 幼少期, 幼少
+top3 entities near to cluster24>>
+家康, 豊臣, 秀吉

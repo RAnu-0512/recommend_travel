@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御茶ノ水 おりがみ会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+和紙, 兜, 菖蒲, 小林
+cluster1:(3)
+見学, 実演, 展示
+cluster2:(6)
+作品, 建物, 姿, 歴史, こと, 数々
+cluster3:(16)
+途中, 折り紙博物館, 名古屋, グループ, 外国, 蔵前橋, ショーウィンドウ, 母, 博物館, 前, 西, 日本, インパクト, 中, 折り紙, 鯉のぼり
+cluster4:(1)
+御茶ノ水駅
+cluster5:(1)
+人たち
+cluster6:(1)
+がみ会館
+cluster7:(1)
+神田明神
+
+howmany entities : 33
+howmany clusters : 8
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 8
+deleted 0entities.

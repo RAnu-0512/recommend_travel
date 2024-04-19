@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:刑部城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+まわり, 街並み, 都田川, 説明板, 中, 場所, 地, 山
+cluster1:(4)
+小高, 小城, 三方, 気賀
+cluster2:(9)
+要害, 姫街道, 城跡, 城, 竹藪, 神社, 刑部城跡, 徳川家康, 金山神社
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 0entities.

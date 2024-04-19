@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王電鉄 高井戸駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, 高井戸駅
+cluster1:(3)
+付近, 事, ホーム
+cluster2:(3)
+道路, 電車, 車
+cluster3:(1)
+渋滞
+cluster4:(1)
+京王井の頭線
+cluster5:(1)
+環状八号線
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

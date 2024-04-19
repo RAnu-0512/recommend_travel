@@ -1,0 +1,15 @@
+--------------------similar_words:熱海遊覧船サンレモ--------------------
+top3 entities near to cluster0>>
+餌場, エサ場, 餌, エサ
+top3 entities near to cluster1>>
+乗船, 出航, 搭乗
+top3 entities near to cluster3>>
+湖魚, 海魚, 海, 湖
+top3 entities near to cluster4>>
+船内, 船長
+top3 entities near to cluster6>>
+遊覧船, 周遊船, 遊覧, 周遊
+top3 entities near to cluster11>>
+男性, 女性, 店員
+top3 entities near to cluster12>>
+態度, 口調, 言動

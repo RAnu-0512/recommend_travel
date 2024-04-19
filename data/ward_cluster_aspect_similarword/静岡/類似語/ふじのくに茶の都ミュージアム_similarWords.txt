@@ -1,0 +1,15 @@
+--------------------similar_words:ふじのくに茶の都ミュージアム--------------------
+top3 entities near to cluster0>>
+土産, おみやげ, 土産物
+top3 entities near to cluster5>>
+パフェ, アイス, アイスクリーム
+top3 entities near to cluster6>>
+セット, 博物館, 作り方
+top3 entities near to cluster9>>
+建物, 施設, 中庭
+top3 entities near to cluster10>>
+展示, 撮影, 入場
+top3 entities near to cluster13>>
+茶, 緑茶, お茶
+top3 entities near to cluster14>>
+体験, 体験談, 体感

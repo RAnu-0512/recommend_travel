@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:見島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+待合所, 船客待合所
+cluster1:(6)
+山口県, 見島牛, 相島, 萩, 見島, 萩港
+cluster2:(5)
+離島, 島, 有人島, 島旅, 旅
+cluster3:(2)
+役場, 支所
+cluster4:(3)
+海側, 海, 外洋
+cluster5:(2)
+高速船, 船
+cluster6:(2)
+観光パンフレット, バス
+cluster7:(1)
+輸送費
+cluster8:(1)
+かかり海況
+cluster9:(1)
+観光名所
+cluster10:(10)
+中, 加算, 影響, こと, 選択, 場所, 時間, 休業, 距離, 以下
+cluster11:(3)
+心, 自然, 日常
+cluster12:(2)
+日本, 本土
+cluster13:(7)
+子供, バーベキュー, サイト, 海水浴, コンビニエンスストア, イベント, ポプラ
+cluster14:(1)
+ゴミ
+cluster15:(4)
+吉, 大島, 幸, てい
+cluster16:(1)
+喧騒
+cluster17:(1)
+代表格
+cluster18:(5)
+留意点, 営業時間, 年中無休, 注意点, 所要時間
+
+howmany entities : 59
+howmany clusters : 19
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 19
+deleted 0entities.

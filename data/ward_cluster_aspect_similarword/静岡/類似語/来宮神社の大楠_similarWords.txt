@@ -1,0 +1,61 @@
+--------------------similar_words:来宮神社の大楠--------------------
+top3 entities near to cluster0>>
+雰囲気, 佇まい, 気持ち
+top3 entities near to cluster6>>
+イベント, スタッフ, アイデア
+top3 entities near to cluster8>>
+ソフトクリーム, ライトアップ, イルミネーション
+top3 entities near to cluster10>>
+テーブル, コーヒー, スタンド
+top3 entities near to cluster12>>
+スィーツ, スイーツ, くつろぎ
+top3 entities near to cluster13>>
+トイレ, ホテル, 出入り口
+top3 entities near to cluster14>>
+カフェ, テラス, コーヒー
+top3 entities near to cluster15>>
+ご利益, お守り, 御利益
+top3 entities near to cluster16>>
+生命, 長寿, 健康
+top3 entities near to cluster17>>
+駐車, 駅, 道路
+top3 entities near to cluster18>>
+笑顔, 元気
+top3 entities near to cluster19>>
+息子, 娘, 母
+top3 entities near to cluster20>>
+子供, お子様, 子ども
+top3 entities near to cluster25>>
+散歩, 愛犬, お家
+top3 entities near to cluster27>>
+神風, 龍風, 神, 龍
+top3 entities near to cluster29>>
+茶店, 売店, 喫茶
+top3 entities near to cluster33>>
+迫力, 圧巻, 貫禄
+top3 entities near to cluster34>>
+雰囲気, 感覚, 時期
+top3 entities near to cluster39>>
+参り, 願い, まいり
+top3 entities near to cluster40>>
+大昔, 太古, 歴史
+top3 entities near to cluster46>>
+横, 周り, 手前
+top3 entities near to cluster47>>
+写真, 撮影, 撮っ
+top3 entities near to cluster49>>
+展望台, 展望, 台数
+top3 entities near to cluster55>>
+神木, 大木, 楠
+top3 entities near to cluster61>>
+巨木, 大樹, 木々
+top3 entities near to cluster62>>
+大木, 楠, 楠木
+top3 entities near to cluster65>>
+本殿, 本堂, 境内
+top3 entities near to cluster67>>
+神社, 稲荷, 境内
+top3 entities near to cluster68>>
+神社, 境内, 本殿
+top3 entities near to cluster69>>
+神社, 境内, 本殿

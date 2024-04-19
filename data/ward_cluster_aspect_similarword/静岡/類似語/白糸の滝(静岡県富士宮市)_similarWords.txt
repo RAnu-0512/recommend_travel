@@ -1,0 +1,47 @@
+--------------------similar_words:白糸の滝(静岡県富士宮市)--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 満車
+top3 entities near to cluster2>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster3>>
+土産物店, 飲食店, 飲食, 土産物
+top3 entities near to cluster4>>
+バス, 名所, タクシー
+top3 entities near to cluster8>>
+白糸の滝, しぶき, 雪景色
+top3 entities near to cluster9>>
+遊歩道, 年寄り, バス停
+top3 entities near to cluster10>>
+雰囲気, 気持ち, 見応え
+top3 entities near to cluster15>>
+カフェ, スイーツ, ソフトクリーム
+top3 entities near to cluster25>>
+人達, 周り
+top3 entities near to cluster28>>
+全国, 各地, 民間
+top3 entities near to cluster31>>
+時間, 所要, 休憩
+top3 entities near to cluster32>>
+温度, 気温, 水温
+top3 entities near to cluster33>>
+家族, 食事, 付き添い
+top3 entities near to cluster34>>
+景色, 絶景, 景観
+top3 entities near to cluster36>>
+崖, 絶壁, 地層
+top3 entities near to cluster37>>
+周辺, 徒歩, 駅
+top3 entities near to cluster38>>
+通路, 道路
+top3 entities near to cluster42>>
+工事, 合戦, 建設
+top3 entities near to cluster44>>
+飛沫, 瀑布, 轟音
+top3 entities near to cluster45>>
+白糸, 滝
+top3 entities near to cluster46>>
+雨水
+top3 entities near to cluster47>>
+イス音, イス, マス
+top3 entities near to cluster48>>
+階段, 展望, 登り

@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新井旅館(歴史的建造物)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国指定重要文化財, 登録有形文化財
+cluster1:(3)
+足湯, 風呂, 浴場
+cluster2:(5)
+修善寺温泉, 温泉, 宿, 旅館, 観光
+cluster3:(1)
+貸切風呂
+cluster4:(1)
+老舗旅館
+cluster5:(2)
+ゆったり感, 清潔感
+cluster6:(19)
+魚, フロント, スタッフ, おもてなし, ロビー, マジ, ガラス, 新井, 思い出, 文化財, 遂, 修善寺, 鯉, 露天風呂, 池, チェックイン, 雰囲気, 水族館, 桂川
+cluster7:(9)
+事, 古さ, 年数, 登録文化財, もの, 機会, コロナ対策, 様子, 方
+cluster8:(7)
+外観, 通路, 内部, 造り, 客室, 建物, 縁側
+cluster9:(2)
+食事, 昼食
+cluster10:(5)
+国, 一角, 名前, 部屋, 場所
+cluster11:(2)
+料理, 味
+cluster12:(3)
+風情, 街, 風景
+cluster13:(1)
+部屋食
+cluster14:(1)
+日本庭園
+cluster15:(1)
+すりたて
+cluster16:(1)
+かたわら平右衛門
+
+howmany entities : 65
+howmany clusters : 17
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 7
+deleted 14entities.

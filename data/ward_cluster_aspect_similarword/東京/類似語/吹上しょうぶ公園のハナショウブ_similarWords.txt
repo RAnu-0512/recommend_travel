@@ -1,0 +1,11 @@
+--------------------similar_words:吹上しょうぶ公園のハナショウブ--------------------
+top3 entities near to cluster0>>
+入場料, 入園料, 入場, 入園
+top3 entities near to cluster1>>
+祭り, 公園
+top3 entities near to cluster2>>
+見頃, 満開, 咲きそろう
+top3 entities near to cluster3>>
+敷地, 時期
+top3 entities near to cluster4>>
+菖蒲, 花菖蒲, 花

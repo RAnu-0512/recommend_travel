@@ -1,0 +1,9 @@
+--------------------similar_words:常楽院(思い出のアルバム歌碑)--------------------
+top3 entities near to cluster0>>
+思い出, 想い出, アルバム
+top3 entities near to cluster1>>
+寺, 応顕, 戒長
+top3 entities near to cluster2>>
+歌碑, 句碑, 詩碑
+top3 entities near to cluster4>>
+戒蔵院, 慈妙, 戒蔵

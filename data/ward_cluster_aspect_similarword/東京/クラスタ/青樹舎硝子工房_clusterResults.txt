@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青樹舎硝子工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+時間, 方, 作品, 中, 両親, コップ, 体験, 店, 結婚式, 大泉学園, 贈り物, 手作り, 別荘, 形, 品
+cluster1:(2)
+避暑地, 住宅街
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

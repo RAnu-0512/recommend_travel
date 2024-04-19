@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:府中街道(所沢街道)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ロードバイク, 車
+cluster1:(2)
+道路, 道
+cluster2:(1)
+散歩
+cluster3:(1)
+渋滞
+cluster4:(1)
+勾配
+cluster5:(17)
+場所, ジョギング, 人, 気持ち, 交差点, 近く, 小川町, 地域, 事, 家族, 自転車, 機会, 付近, 混, 普通, 雰囲気, 埼玉
+cluster6:(14)
+市境, 北府中駅, 小平市, 西武線, 府中街道, JR, 街道, 所沢方面, 府中方面, 甲州街道, 恋ヶ窪駅, 徒歩, 府中市, 国分寺市
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

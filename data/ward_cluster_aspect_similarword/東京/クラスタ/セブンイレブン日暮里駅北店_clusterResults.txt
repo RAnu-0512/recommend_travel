@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:セブンイレブン日暮里駅北店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, 日暮里駅
+cluster1:(2)
+桜, 北
+cluster2:(3)
+こと, プライベート商品, 時間
+cluster3:(2)
+クオリティ, オススメ
+cluster4:(3)
+コンビニ, コーヒー, おにぎり
+cluster5:(1)
+カフェ
+cluster6:(1)
+セブンイレブン
+cluster7:(1)
+そば
+cluster8:(1)
+パン
+cluster9:(1)
+電子マネー
+
+howmany entities : 17
+howmany clusters : 10
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 10
+deleted 0entities.

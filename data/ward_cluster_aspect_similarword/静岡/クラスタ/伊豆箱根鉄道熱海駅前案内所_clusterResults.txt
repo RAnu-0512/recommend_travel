@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆箱根鉄道熱海駅前案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+雨, 乗り継ぎ, 場所, 場合, 起点, 営業所, 熱海, 荷物, 街並み, 方面, 観光地, 坂, 熱海駅
+cluster1:(5)
+地元路線, バス, 乗車券, 路線, 路線バス
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

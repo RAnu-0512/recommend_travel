@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ポプラ並木(水元公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ポプラ並木, ポプラ並木路, 並木
+cluster1:(2)
+散歩コース, 散歩
+cluster2:(2)
+木, 都
+cluster3:(9)
+場所, 人, 家族, 自転車, イメージ, 水元公園, ポプラ, 中, 北海道
+cluster4:(3)
+自然, 公園, 緑
+cluster5:(1)
+気分
+cluster6:(1)
+子供達
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:特別名勝 三段峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(48)
+期間, 渓流, 広島, 風, もの, 秋, 時期, 雨, 季節, 往復, 紅葉狩り, 中, 葉, どちらか, 方, 宿, 話, 天気, 車, コース, マイナスイオン, 水, 木々, 滝, 坂, 人, 散策, もみじ, 空気, 付近, 景色, 奥, 三段峡ホテル, ずれ, 山, 私達, 落葉, 気持ち, ドライブ, こと, トレッキング, 代わり, オレンジ, 場所, 自然, 距離, 入り口, 三段峡
+cluster1:(3)
+赤系, 赤, 黄色
+cluster2:(3)
+紅葉, 紅葉度, 黄葉
+cluster3:(1)
+駐車場
+cluster4:(1)
+辿り着く
+
+howmany entities : 56
+howmany clusters : 5
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 5
+deleted 0entities.

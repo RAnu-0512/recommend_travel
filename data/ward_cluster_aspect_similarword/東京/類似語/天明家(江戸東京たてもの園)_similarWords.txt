@@ -1,0 +1,11 @@
+--------------------similar_words:天明家(江戸東京たてもの園)--------------------
+top3 entities near to cluster0>>
+内部, 主役, 佇まい
+top3 entities near to cluster1>>
+旧家, 農家, 商家
+top3 entities near to cluster2>>
+格式, 格調, 由緒
+top3 entities near to cluster3>>
+主屋, 主, 稼業
+top3 entities near to cluster4>>
+天明, 文政

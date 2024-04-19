@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:俵山温泉合名会社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温泉街, 温泉
+cluster1:(4)
+名会社, 町, 昭和, こと
+cluster2:(1)
+どこか懐かしさ
+cluster3:(1)
+俵山温泉合
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

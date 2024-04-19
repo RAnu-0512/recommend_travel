@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:a.w.s 清澄白河店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作業スペース, 作成
+cluster1:(2)
+種類, 世界
+cluster2:(2)
+リボン, リング
+cluster3:(8)
+スタッフ, カフェ, アクセス, デザイン, プレゼント, バングル, アクセサリー, サイズ
+cluster4:(1)
+居心地
+cluster5:(2)
+感じ, 方
+cluster6:(1)
+店内
+cluster7:(1)
+愛着
+cluster8:(1)
+着用感
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 9
+deleted 0entities.

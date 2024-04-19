@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たばこと塩の博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+他, 近く, 名前, 路線, 施設, スカイツリー, 塩, 錦糸町, 塩・たばこ, 博物館, 時間, たばこ, 方, 歴史, こと, 物
+cluster1:(6)
+映像展示, 作品見学, 常設展示, 映像, 入場料, 展示
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 2
+deleted 0entities.

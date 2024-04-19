@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾道駅観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+志賀直哉, 志賀直哉旧居
+cluster1:(5)
+観光案内地図, 案内所, 観光案内所, 文学記念室, 観光案所
+cluster2:(4)
+JR尾道, 尾道駅, 尾道観光, 尾道
+cluster3:(22)
+マップ, ロープウェイ, 道標, 心, 不足, 方, 無愛想, パンフレット, 後ろ, 無表情, JR, ガイドブック, セットチケット, 情報, レンタサイクル, こうじ, 街, 地図, こと, 駅, 場所, 旧宅
+cluster4:(4)
+バス乗り場, 改札, バス, 駅舎
+cluster5:(3)
+観光, 観光地, 千光寺公園ガイドマップ
+
+howmany entities : 40
+howmany clusters : 6
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 6
+deleted 0entities.

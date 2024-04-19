@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡市 梅ヶ島温泉 湯元屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+自家, 生わさび, 静岡おでん
+cluster1:(6)
+おでん, 練り物, 大根, ここおでん, しょう, こんにゃく
+cluster2:(3)
+笑顔, 温泉, 食事
+cluster3:(1)
+匂い
+cluster4:(1)
+硫黄
+cluster5:(1)
+しずおかおでん
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 3entities.

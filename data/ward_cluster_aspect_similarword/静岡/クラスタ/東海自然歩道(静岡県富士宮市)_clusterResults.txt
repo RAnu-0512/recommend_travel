@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東海自然歩道(静岡県富士宮市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+トイレ, ハイキングコース, 富士山, 遊歩道, ところ
+cluster1:(2)
+静岡県, 富士宮市
+cluster2:(1)
+東海自然歩道
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 3entities.

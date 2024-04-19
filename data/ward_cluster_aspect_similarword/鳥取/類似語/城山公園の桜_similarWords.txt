@@ -1,0 +1,19 @@
+--------------------similar_words:城山公園の桜--------------------
+top3 entities near to cluster0>>
+土手沿い, 川沿い, 川, 土手
+top3 entities near to cluster1>>
+写真, ツーショット, 撮っ
+top3 entities near to cluster2>>
+祭り, 週末, お祭
+top3 entities near to cluster3>>
+公園付近, 公園, 近辺
+top3 entities near to cluster4>>
+名所, 散策, 探訪
+top3 entities near to cluster5>>
+花見, 桜, 八重桜
+top3 entities near to cluster6>>
+土手, 川, 河川敷
+top3 entities near to cluster7>>
+城山, 城, 城址
+top3 entities near to cluster8>>
+西部, 東部, 北部

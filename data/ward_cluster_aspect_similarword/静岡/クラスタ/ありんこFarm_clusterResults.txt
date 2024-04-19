@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ありんこFarm>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ありんこfarm, よつぼし
+cluster1:(2)
+いちご狩り, イチゴ狩り
+cluster2:(3)
+達成, 訪問, 発信
+cluster3:(4)
+こと, 対応, 希望, 場所
+cluster4:(2)
+笑顔, 味
+cluster5:(1)
+口コミ評価
+cluster6:(20)
+姪, スタッフ, 章姫, イチゴ, 苺, 我家, レーン, ハウス, 実, 農園, 埼玉, ちご, いちご, 事務所, ビニールハウス, 品種, トイレ, グループ, 他, SNS
+cluster7:(6)
+食べ比べ, 家族連れ, 大人, 比べ, 子供たち, 甘さ
+
+howmany entities : 40
+howmany clusters : 8
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 4
+deleted 7entities.

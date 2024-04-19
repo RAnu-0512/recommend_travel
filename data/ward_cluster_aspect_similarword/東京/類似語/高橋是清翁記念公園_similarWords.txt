@@ -1,0 +1,23 @@
+--------------------similar_words:高橋是清翁記念公園--------------------
+top3 entities near to cluster0>>
+公園, 銅像, 遊具
+top3 entities near to cluster1>>
+憩い, 癒し, 安らぎ
+top3 entities near to cluster2>>
+合間, 時間, 休憩
+top3 entities near to cluster4>>
+川水, 小川, 川
+top3 entities near to cluster5>>
+首相, 邸宅, 重鎮
+top3 entities near to cluster6>>
+大使館, 子供, 子ども
+top3 entities near to cluster7>>
+紅葉, 緑, 都会
+top3 entities near to cluster8>>
+後期, 初期, 時代
+top3 entities near to cluster9>>
+大正, 明治, 平成
+top3 entities near to cluster10>>
+庭園, 藩邸, 茶室
+top3 entities near to cluster11>>
+区街, 繁華街, 区, 繁華

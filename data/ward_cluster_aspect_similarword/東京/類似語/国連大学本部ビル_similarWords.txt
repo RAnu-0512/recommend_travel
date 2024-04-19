@@ -1,0 +1,15 @@
+--------------------similar_words:国連大学本部ビル--------------------
+top3 entities near to cluster0>>
+外国語, 片言, 外国
+top3 entities near to cluster1>>
+大学, 週末, 世界
+top3 entities near to cluster2>>
+問題, 解決, 興味
+top3 entities near to cluster3>>
+間, 半年, か月
+top3 entities near to cluster5>>
+右端, 左下, 左端
+top3 entities near to cluster7>>
+開催, 広場, 市場
+top3 entities near to cluster8>>
+本部, ビル, 駅前

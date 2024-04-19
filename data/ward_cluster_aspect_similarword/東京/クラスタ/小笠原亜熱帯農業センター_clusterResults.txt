@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小笠原亜熱帯農業センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+父島南部, 父島特産
+cluster1:(3)
+施設, 農業施設, 敷地
+cluster2:(14)
+植物, フルーツ, 花, 人, パッションフルーツ, 南国, 境, ミッキー, 場合, マウス, 島レモン, パパイヤ, マンゴー, 小笠原固有
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

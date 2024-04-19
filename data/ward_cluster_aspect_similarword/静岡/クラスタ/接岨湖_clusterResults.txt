@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:接岨湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+上, 丘, 上駅
+cluster1:(11)
+ターコイズブルー, エメラルドグリーン, 井川線, ミステリーツアー, コース, 陽射し, ライブカメラ, 長島ダム, いくつか, コンクリート, カヌー
+cluster2:(2)
+影, 水面
+cluster3:(3)
+具合, 色, 影響
+cluster4:(3)
+周り, 周辺, 人
+cluster5:(2)
+時期, 時間
+cluster6:(1)
+水
+cluster7:(3)
+雨, 天候, 天気
+cluster8:(2)
+湖, ダム
+cluster9:(3)
+紅葉, 景色, 山々
+cluster10:(2)
+鉄橋, 列車
+cluster11:(2)
+大井川鉄道の奥大井湖, 接岨湖
+
+howmany entities : 37
+howmany clusters : 12
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 6
+deleted 11entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名和総合運動公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 遊具
+cluster1:(12)
+バスケ, アスレチック, アリーナ, テニスコート, ナイター, センター, トラック, プレー, バレー, バトミントン, 運動公園, スポーツ
+cluster2:(10)
+名和農業者トレーニングセンター, 名和神社, 陸上競技場, 公園内施設, 野球場, 長綱寺, ちびっ子連れファミリー, 鳥取県, 名和総合運動公園, 夢っこ広場
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 3
+deleted 0entities.

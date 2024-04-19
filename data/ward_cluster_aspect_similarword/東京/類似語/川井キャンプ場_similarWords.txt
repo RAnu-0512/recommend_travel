@@ -1,0 +1,23 @@
+--------------------similar_words:川井キャンプ場--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車
+top3 entities near to cluster1>>
+清掃, 掃除, 劣化
+top3 entities near to cluster2>>
+子供, 子ども, 大人
+top3 entities near to cluster3>>
+駅, 都心, 徒歩
+top3 entities near to cluster4>>
+川, 川遊び, 水遊び
+top3 entities near to cluster5>>
+雑穀, ひとつぶ
+top3 entities near to cluster6>>
+家族, 友人, 知人
+top3 entities near to cluster7>>
+気遣い, 気持ち, トイレ
+top3 entities near to cluster11>>
+ハイ, ロー, ナチュラル
+top3 entities near to cluster12>>
+緊張感, 緊迫感, 緊張, 緊迫
+top3 entities near to cluster13>>
+レジ, 売店, 端末

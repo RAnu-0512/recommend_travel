@@ -1,0 +1,15 @@
+--------------------similar_words:東京メトロ半蔵門線 半蔵門駅--------------------
+top3 entities near to cluster0>>
+駅街, 駅, 路線
+top3 entities near to cluster2>>
+半蔵門, 九段下, 麹町
+top3 entities near to cluster3>>
+半蔵門線, 地下鉄, メトロ
+top3 entities near to cluster4>>
+トイレ, 雰囲気, メイン
+top3 entities near to cluster5>>
+地上, 出口, 両端
+top3 entities near to cluster6>>
+皇居, 東宮御所, 吹上御苑
+top3 entities near to cluster7>>
+駅, 半蔵門, 地下鉄

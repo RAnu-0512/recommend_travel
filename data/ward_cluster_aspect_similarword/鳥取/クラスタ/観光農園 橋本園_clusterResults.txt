@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観光農園 橋本園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+梨狩り, 梨, 中梨狩り, 試食梨, ひとかご梨
+cluster1:(7)
+種類, 数, 世紀, 元, 残り, 横, 時間
+cluster2:(3)
+息子, 娘, 子供
+cluster3:(12)
+スペース, システム, スタッフ, ナイロン, もぎ取り, シート, ベスト, 鳥取砂丘, テーブル, 思い出, ところ, 持ち帰り
+cluster4:(2)
+おなか, サクッ
+cluster5:(1)
+選び方
+cluster6:(1)
+もい
+cluster7:(14)
+時期, 関係, ムラ, もの, 方, 場, 方々, 問題, 事, 人, 気分, 説明, 仕方, 所
+cluster8:(14)
+皮, 雨, 店先, 土産, 品種, 店, 農園, 軒下, 地面, 車, 予約, 試食, 常温, 椅子
+cluster9:(5)
+砂丘, かご, 鳥取, 泉, 籠
+cluster10:(4)
+子供たち, 橋本園, 子どもたち, 私達家族
+cluster11:(3)
+食べ放題, もぎたて, 取り方
+cluster12:(2)
+体験, 体験内容
+cluster13:(2)
+収穫時期, 収穫
+cluster14:(4)
+参加人数, 追加料金, 個数&持ち帰り, 人数
+cluster15:(1)
+入園料
+cluster16:(1)
+時間無制限
+
+howmany entities : 81
+howmany clusters : 17
+howmany entities (more than1entities) : 81
+howmany clusters (more than1entities) : 17
+deleted 0entities.

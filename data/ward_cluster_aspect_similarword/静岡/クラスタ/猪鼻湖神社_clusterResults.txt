@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猪鼻湖神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湖沿い, 湖
+cluster1:(3)
+岩, 神社, 橋
+cluster2:(8)
+車, 縁結び, 御利益, 人, 場所, オススメ, スニーカー, 靴
+cluster3:(1)
+散策
+cluster4:(1)
+奇岩
+cluster5:(4)
+駐車場, 三ヶ日みかん直売所, 浜名湖遊覧船乗り場, 有料駐車場
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 4entities.

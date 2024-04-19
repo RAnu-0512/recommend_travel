@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水マリーナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+雰囲気, スポット, ボート, ところ
+cluster1:(2)
+他, 中
+cluster2:(1)
+客
+cluster3:(2)
+交流, 釣り
+cluster4:(1)
+清水マリーナ
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 6entities.

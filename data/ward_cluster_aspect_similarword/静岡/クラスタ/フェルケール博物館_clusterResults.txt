@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フェルケール博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+缶詰産業資料, 缶詰記念館
+cluster1:(5)
+船, バス, 港湾, 港, 交通
+cluster2:(2)
+展示, 模型
+cluster3:(7)
+エスパルスドリームプラザ, 歴史, フェルケール博物館, 近く, 清水港, 建物, デザイン
+cluster4:(1)
+清水
+cluster5:(1)
+下車
+cluster6:(1)
+赤レンガ
+cluster7:(1)
+JR清水駅
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 8entities.

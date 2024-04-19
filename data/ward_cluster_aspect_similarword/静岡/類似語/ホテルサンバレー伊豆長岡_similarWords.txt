@@ -1,0 +1,39 @@
+--------------------similar_words:ホテルサンバレー伊豆長岡--------------------
+top3 entities near to cluster0>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster3>>
+温泉, 銭湯, 図書館
+top3 entities near to cluster6>>
+湯船, 浴槽, 露天風呂
+top3 entities near to cluster8>>
+漫画, 美術, マンガ
+top3 entities near to cluster10>>
+蟹, 本館, 海鮮
+top3 entities near to cluster15>>
+内風呂, サウナ, 露天風呂
+top3 entities near to cluster16>>
+レストラン, ディナー, 食事
+top3 entities near to cluster17>>
+マグロ, バナナ, サーモン
+top3 entities near to cluster22>>
+バイキング, レストラン, チェックイン
+top3 entities near to cluster29>>
+露天風呂, ジェットバス, 貸し切り
+top3 entities near to cluster33>>
+品数, 値段
+top3 entities near to cluster34>>
+建物, 部屋, 中庭
+top3 entities near to cluster35>>
+景色, 季節, 満開
+top3 entities near to cluster36>>
+時間, あと, 初日
+top3 entities near to cluster37>>
+家族, 子供, 友達
+top3 entities near to cluster39>>
+丼, 海鮮, 定食
+top3 entities near to cluster40>>
+朝食, 夕食, 食事
+top3 entities near to cluster42>>
+バス, シャトル, タクシー
+top3 entities near to cluster46>>
+土産, おみやげ, 土産物

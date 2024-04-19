@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若山城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+重臣陶, 陶晴賢, 陶
+cluster1:(9)
+もの, 説, 地, 地元, 別, 上, 人, 近く, 歴史
+cluster2:(2)
+丘, 頂上
+cluster3:(3)
+道, 石碑, 入口
+cluster4:(1)
+景観
+cluster5:(1)
+専門家
+cluster6:(7)
+城ファン, 若山城跡, 若山城, 福川駅, 城跡, 址, 居城
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 7
+deleted 0entities.

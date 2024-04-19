@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芸北温泉(芸北オークガーデン)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島, 広島市
+cluster1:(5)
+雪, 気候, 紅葉, 小雨, 山
+cluster2:(12)
+タオル, チェックイン, アクセス, 露天風呂, グランド, ポイント, シーズン, シルバーウィーク, レストラン, スマホ, 立ち見, 丸見え
+cluster3:(2)
+ドライブコース, コース
+cluster4:(2)
+グランドゴルフ, ゴルフ
+cluster5:(2)
+リゾートホテル, ホテル
+cluster6:(1)
+ホールポスト
+cluster7:(15)
+眺め, 感想, 中, 方, 外, 車, 断念, 写真, 人, 情報, 部屋, 景色, 問題, 場所, 周り
+cluster8:(13)
+施設, 風呂上がり, 神対応, 温泉, 個室, 宿泊, クーポン券, ゴルフ場, 予約, ご飯, 食事, 料金, 風呂
+cluster9:(1)
+みぞれ交じり
+
+howmany entities : 55
+howmany clusters : 10
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 10
+deleted 0entities.

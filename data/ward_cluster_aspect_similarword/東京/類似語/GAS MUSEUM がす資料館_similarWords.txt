@@ -1,0 +1,13 @@
+--------------------similar_words:GAS MUSEUM がす資料館--------------------
+top3 entities near to cluster0>>
+サブ, ミニ, メイン
+top3 entities near to cluster1>>
+敷地, 施設, 建物
+top3 entities near to cluster2>>
+歴史, 時間, 駅
+top3 entities near to cluster4>>
+明治, 大正, 幕末
+top3 entities near to cluster5>>
+展示, 資料, 灯り
+top3 entities near to cluster6>>
+ガス, 灯, 瓦斯

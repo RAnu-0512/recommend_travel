@@ -1,0 +1,21 @@
+--------------------similar_words:紀ノ国屋インターナショナル--------------------
+top3 entities near to cluster0>>
+高級品, 高級, 上質
+top3 entities near to cluster1>>
+肉類, 食材, 果物
+top3 entities near to cluster2>>
+地下, 駅, 構内
+top3 entities near to cluster4>>
+チーズ, ワイン, 赤ワイン
+top3 entities near to cluster5>>
+買い物, カフェ, 買物
+top3 entities near to cluster6>>
+値段, 商品, 価格
+top3 entities near to cluster7>>
+世話, 看病, 親代わり
+top3 entities near to cluster8>>
+外国人, 外国, 外人
+top3 entities near to cluster10>>
+野菜, 葉, 果物
+top3 entities near to cluster11>>
+駐車場, 駐車, 地下

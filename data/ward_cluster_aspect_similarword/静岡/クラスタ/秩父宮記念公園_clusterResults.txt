@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秩父宮記念公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(38)
+スギ, 母屋, 興味, 紅葉, 敷地, 和, 庭園, 開放日, 園内, 地元, 林, 大人, 茅葺き, 枝垂れ桜, 夜桜, 空気, 新緑, 東京ドーム, 庭, 秩父宮, 花, 公園, チューリップ, 自然, 雰囲気, 桜, 部屋, お庭, 場所, 防空壕, 植物, 風景, チェック, マイナー, オススメ, 終わりかけ, 木, 季節
+cluster1:(3)
+庭園散策, 散策, 散歩
+cluster2:(2)
+別邸, 御殿場別邸
+cluster3:(2)
+殿下, 秩父宮殿下
+cluster4:(6)
+駐車場, 正面入口, 秩父記念公園, 展示品, 四季折々, 入園料
+
+howmany entities : 51
+howmany clusters : 5
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 3
+deleted 4entities.

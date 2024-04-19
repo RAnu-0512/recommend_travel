@@ -1,0 +1,47 @@
+--------------------similar_words:大丹波川国際マス釣場--------------------
+top3 entities near to cluster0>>
+区画, 足場, 建物
+top3 entities near to cluster1>>
+荷物, 費用, 車両
+top3 entities near to cluster2>>
+服装, 食堂, 私服
+top3 entities near to cluster3>>
+小物類, 猛きん, 小物
+top3 entities near to cluster4>>
+緑水, 自然水, 緑, 自然
+top3 entities near to cluster5>>
+玄人, 素人, しろうと
+top3 entities near to cluster6>>
+釣り堀, キャンプ, 釣り場
+top3 entities near to cluster8>>
+女性人, 男性人, 女性, 男性
+top3 entities near to cluster9>>
+子供, 子ども, 息子
+top3 entities near to cluster10>>
+釣り場, 放流
+top3 entities near to cluster13>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster14>>
+家族, 友人, 知人
+top3 entities near to cluster15>>
+新鮮, 自然
+top3 entities near to cluster16>>
+マス釣り, マス, 釣り場
+top3 entities near to cluster17>>
+道具, 魚釣り
+top3 entities near to cluster18>>
+渓流釣り, 渓流, 釣り場
+top3 entities near to cluster19>>
+餌釣り, エサ, 餌
+top3 entities near to cluster20>>
+魚釣り, 釣り場
+top3 entities near to cluster21>>
+魚釣り, 釣
+top3 entities near to cluster22>>
+残し, 釣っ
+top3 entities near to cluster23>>
+釣
+top3 entities near to cluster24>>
+夏川, 釣
+top3 entities near to cluster26>>
+川釣り, 釣, 川

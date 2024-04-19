@@ -1,0 +1,15 @@
+--------------------similar_words:京浜急行電鉄--------------------
+top3 entities near to cluster0>>
+列車, 電車, 特急
+top3 entities near to cluster3>>
+ラッキー, 乗り換え, イメージ
+top3 entities near to cluster4>>
+ストレス, スピード, プレッシャー
+top3 entities near to cluster5>>
+仕組み, 仕組, しくみ
+top3 entities near to cluster7>>
+行き先, 乗り場, 行先
+top3 entities near to cluster10>>
+路線, 本数, 方向
+top3 entities near to cluster11>>
+京, 急, アニオリジナル

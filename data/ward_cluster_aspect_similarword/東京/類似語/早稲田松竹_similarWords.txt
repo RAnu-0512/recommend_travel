@@ -1,0 +1,29 @@
+--------------------similar_words:早稲田松竹--------------------
+top3 entities near to cluster0>>
+古い, 良い, よい
+top3 entities near to cluster1>>
+名画座, 名画, 映画
+top3 entities near to cluster2>>
+館, 映画, 上映
+top3 entities near to cluster3>>
+勧め, 得, 奨め
+top3 entities near to cluster5>>
+雰囲気, シネコン, シアター
+top3 entities near to cluster6>>
+大手, 老舗, 大型
+top3 entities near to cluster8>>
+施設, 駅, 建物
+top3 entities near to cluster9>>
+時間, 料金, 所要
+top3 entities near to cluster10>>
+上映, 映画, 作品
+top3 entities near to cluster11>>
+松竹座, 松竹, 東宝
+top3 entities near to cluster12>>
+人気, 大人気, 昔
+top3 entities near to cluster13>>
+話題, 映画, 持ちきり
+top3 entities near to cluster14>>
+映画, 劇場, 名作
+top3 entities near to cluster15>>
+学生, 時代, 大学

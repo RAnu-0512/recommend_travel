@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:音止の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光案内所, 白糸の滝観光案内所
+cluster1:(3)
+駐車場, 駐車場側, 有料駐車場
+cluster2:(5)
+音止の滝, 音, 音止, 音止滝, 音止め
+cluster3:(2)
+土産物屋, 土産店
+cluster4:(2)
+芝川, 音無市
+cluster5:(5)
+勢い, 落差, 轟音, 迫力, 手作り感
+cluster6:(11)
+途中, 写真, 人, 周囲, 正面, 感じ, 近く, 上, 場所, ほう, 方
+cluster7:(2)
+姿, 景色
+cluster8:(2)
+階段, 道
+cluster9:(11)
+イオン, セット, カフェ, バス停, ダイナミック, マイナスイオン, ところ, フェンス, 白糸滝, 遊歩道, 白糸の滝
+cluster10:(3)
+水, 緑, 東
+cluster11:(1)
+虹
+cluster12:(11)
+散歩コース, 売店, バス, 仮設, 工事, 富士宮駅, そば, 柵, 公園, 観光, 乗車場所
+cluster13:(15)
+滝見台, 滝めぐり, 瀑布, 白糸, すさまじい水量, 滝そのもの, 展望, 滝側沿い, 展望デッキ, 展望台, 主瀑, 観瀑台, 展望所, 水量, 滝
+
+howmany entities : 75
+howmany clusters : 14
+howmany entities (more than3entities) : 64
+howmany clusters (more than3entities) : 8
+deleted 11entities.

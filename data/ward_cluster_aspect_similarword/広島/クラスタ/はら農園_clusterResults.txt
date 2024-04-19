@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はら農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食べ放題, りんご狩り
+cluster1:(5)
+外栽培, ぶどう園, 畑, 農園, はら農園
+cluster2:(2)
+大粒, 粒
+cluster3:(7)
+期間, 方, シャインマスカット, ハウス, ぶどう, 美味, ピオーネ
+cluster4:(1)
+時間制限
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

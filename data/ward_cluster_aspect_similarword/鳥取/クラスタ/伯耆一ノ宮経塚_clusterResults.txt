@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伯耆一ノ宮経塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金銅観音菩薩立像, 金銅観音像
+cluster1:(26)
+平安, 山中, 柵, 銅, 山道, 蓋石, 参道, 中, 奈良, 東京国立博物館, 国, 経塚, 一ノ宮, 国宝, 中央部, 高さ, 東南尾根上, 時代, 文字, 駐車場, 出土品, 倭文神社, 史跡, 参道脇, 階段, 円墳状
+cluster2:(4)
+東郷湖東岸, 伯耆一ノ宮経塚, 伯耆一宮, 伯耆国
+
+howmany entities : 32
+howmany clusters : 3
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 3
+deleted 0entities.

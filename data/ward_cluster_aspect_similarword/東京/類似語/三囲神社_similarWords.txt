@@ -1,0 +1,19 @@
+--------------------similar_words:三囲神社--------------------
+top3 entities near to cluster0>>
+掲画, 銅像
+top3 entities near to cluster1>>
+三角形, 守護神, ライオン
+top3 entities near to cluster2>>
+浮世絵, 北斎, 錦絵
+top3 entities near to cluster3>>
+神, 七福神, 神様
+top3 entities near to cluster4>>
+裏手, 奥, 前身
+top3 entities near to cluster6>>
+目尻, タレ, 目じり
+top3 entities near to cluster7>>
+境内, 神社, 寺社
+top3 entities near to cluster9>>
+稲荷, 三越, 神社
+top3 entities near to cluster10>>
+郷土, 資料, 館

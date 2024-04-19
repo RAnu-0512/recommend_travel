@@ -1,0 +1,15 @@
+--------------------similar_words:新丸ビル(新丸の内ビルディング)--------------------
+top3 entities near to cluster0>>
+北口, 南口, 駅
+top3 entities near to cluster1>>
+土水, 土
+top3 entities near to cluster3>>
+写真, ポートレート, レストラン
+top3 entities near to cluster4>>
+ビル, タワービル, ビルディング
+top3 entities near to cluster6>>
+不向き, 向い
+top3 entities near to cluster7>>
+女子会, 女子, 男子
+top3 entities near to cluster8>>
+高層, ビル, ノッポビル

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松秀寺の睡蓮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+花, 蓮
+cluster1:(6)
+東名高速道路, 車, 場所, 境内, 中心, 色とりどり
+cluster2:(1)
+袋井インター
+cluster3:(1)
+観光客
+cluster4:(1)
+松秀寺
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 5entities.

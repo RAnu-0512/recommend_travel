@@ -1,0 +1,61 @@
+--------------------similar_words:両国国技館--------------------
+top3 entities near to cluster0>>
+両国, 駅, 駅前
+top3 entities near to cluster1>>
+国技, 館, 両国
+top3 entities near to cluster2>>
+国技, 両国, 館
+top3 entities near to cluster3>>
+国技, 界隈, 相撲
+top3 entities near to cluster5>>
+トーク, サイン, パネル
+top3 entities near to cluster6>>
+コンサート, ライブ, イベント
+top3 entities near to cluster7>>
+雰囲気, 入り口, 入口
+top3 entities near to cluster8>>
+見どころ, 見所, おすすめ
+top3 entities near to cluster9>>
+取り組み, アドバイス, 助言
+top3 entities near to cluster10>>
+使い方, やり方, 使い道
+top3 entities near to cluster11>>
+悪天候, 不定期, 控え目
+top3 entities near to cluster13>>
+食べ物, スイーツ, お菓子
+top3 entities near to cluster14>>
+友人, 友達
+top3 entities near to cluster15>>
+風雨, 台風, 雷
+top3 entities near to cluster16>>
+鳥鍋, 鳥, モツ鍋, モツ
+top3 entities near to cluster17>>
+満員, 御礼, 完売
+top3 entities near to cluster18>>
+試合, 仕事, 稽古
+top3 entities near to cluster19>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster20>>
+姿形, 姿, 情景
+top3 entities near to cluster21>>
+身体
+top3 entities near to cluster22>>
+ランド, マーク, パネル
+top3 entities near to cluster23>>
+写真, 外観, 建物
+top3 entities near to cluster24>>
+化粧, 部屋, 寝室
+top3 entities near to cluster25>>
+のぼり旗, のぼり, 国旗
+top3 entities near to cluster27>>
+席, 座席, 全席
+top3 entities near to cluster28>>
+相撲, 力士, 大相撲
+top3 entities near to cluster29>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster30>>
+弁当, おにぎり, 惣菜
+top3 entities near to cluster31>>
+尻, 姉さん, やつ
+top3 entities near to cluster32>>
+開催, 会場, イベント

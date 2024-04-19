@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桜ヶ丘公園のサクラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+季節, 太陽, ロケーション, 気持ち, 感じ, 木, ヤマザクラ, 見ごたえ, 様子, 昼, 桜, 小田急電鉄, サクラ
+cluster1:(3)
+桜ヶ丘公園, 公園, 夜景
+cluster2:(3)
+多摩市, 京王バス, 多摩地区
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

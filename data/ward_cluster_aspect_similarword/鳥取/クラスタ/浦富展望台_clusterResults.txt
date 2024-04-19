@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浦富展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+アニメ, タクシー, 車, リアス式海岸, 休憩, 運転手, 気持ち
+cluster1:(3)
+展望台, 浦富海水浴場, 浦富展望台
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

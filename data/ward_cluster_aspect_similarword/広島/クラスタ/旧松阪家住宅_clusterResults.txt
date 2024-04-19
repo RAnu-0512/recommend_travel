@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧松阪家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+文化財, 歴史, ところ, 中, 重み, 家, 町並み, メイン通り, 造り, 感じ, 価値, 指定, 雰囲気, 特徴, 趣, こと, 乗り物, 唐破風
+cluster1:(4)
+路地, 建物, 邸宅, 屋敷
+cluster2:(5)
+内部, 天井, 窓, 格子, 屋根
+cluster3:(1)
+籠
+cluster4:(2)
+曲線美, 松阪邸
+cluster5:(6)
+酒造, 製塩, 江戸末期, 職人仕事, 建築物, 豪商
+cluster6:(1)
+屋根出格子
+cluster7:(5)
+お勧め竹原町, 竹原保存地区, 竹原市, ───O, 竹原駅
+cluster8:(1)
+竹原の歴史的景観町並み保存地区
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 9
+deleted 0entities.

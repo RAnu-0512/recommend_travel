@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩美町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山陰海岸ジオパーク, 岩美観光
+cluster1:(2)
+体力, 自信
+cluster2:(6)
+相談, おかげ, 所, 浦富海岸, アシスト自転車, レンタサイクル
+cluster3:(2)
+駐車スペース, 観光
+cluster4:(2)
+電動アシスト自転車, 展望台
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

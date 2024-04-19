@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:テングシデ群落>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山県郡大朝町, 浜田道大朝IC
+cluster1:(4)
+駐車場, 観光看板, 群落, テングシデ群落
+cluster2:(2)
+幹, 葉
+cluster3:(2)
+雪, 天狗
+cluster4:(10)
+テングシデ, イヌシデ, シデ, 方, 訪問, 目, 葉っぱ, 木, 他, 投稿
+cluster5:(7)
+風景, 季節, 写真, 壮大, 物, 景観, 形状
+cluster6:(2)
+広島県, 大朝インター
+cluster7:(1)
+天狗シデ
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 8
+deleted 0entities.

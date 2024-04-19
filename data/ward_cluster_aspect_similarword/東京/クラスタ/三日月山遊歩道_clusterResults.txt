@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三日月山遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ウェザーステーション展望台, 展望台
+cluster1:(3)
+遊歩道, 三日月山, ガジュマル
+cluster2:(2)
+途中, 多く
+cluster3:(1)
+舗装道路
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

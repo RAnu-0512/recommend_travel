@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハマナス自生南限地帯second>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+植物生物学, 寒冷地, ハマナス自生南限地帯
+cluster1:(12)
+ピンク色, 腰掛け, 後醍醐, こと, 本州, お花, 気候, ハマナス, 花, 松河原, 岩, 天皇
+cluster2:(2)
+標柱, 案内板
+cluster3:(3)
+下市川, 大山町, 鳥取県
+cluster4:(2)
+海岸沿い, 氷河時代
+cluster5:(1)
+西伯郡
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

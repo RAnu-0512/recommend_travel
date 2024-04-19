@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:泊海水浴場(東京都新島村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 海水浴場
+cluster1:(2)
+扇形, 扇状
+cluster2:(6)
+想像, 遊ぶ, 子供, 裸足, かたち, 訪問
+cluster3:(9)
+水, 海岸, 波, 海, 地形, 絶景スポット, 砂浜, 魚, 湾
+cluster4:(1)
+海岸線
+cluster5:(1)
+美しさ
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

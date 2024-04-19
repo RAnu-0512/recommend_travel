@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巨人への道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+道., 道
+cluster1:(2)
+ジャイアンツ球場, 巨人
+cluster2:(2)
+石段, 階段
+cluster3:(2)
+直通, 往復
+cluster4:(3)
+南側, 奥, 脇
+cluster5:(5)
+上り坂, よみうりランド, スカイシャトル, 方, ゴンドラ
+cluster6:(2)
+試練, 気合
+cluster7:(1)
+丘陵
+cluster8:(1)
+京王よみうりランド駅
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 9
+deleted 0entities.

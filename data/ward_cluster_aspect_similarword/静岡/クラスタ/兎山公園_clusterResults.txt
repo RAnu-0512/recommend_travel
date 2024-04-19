@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:兎山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+JR御厨駅, 鎌田神明宮, 御厨古墳群
+cluster1:(19)
+存在, 子供連れ, 水辺, 生き物, 地域, おすすめ, 周辺, 観察, 総合公園, 大型遊具, 歴史, アスレチック, 徒歩, ブランコ, 公園, 自然, 子ども, 遊具, 兎山公園
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

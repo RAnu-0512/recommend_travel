@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山自然休養林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+背丈, 裾
+cluster1:(6)
+キャンプ場, ハイキング道, 富士山, 所, 木々, ワイルド
+cluster2:(1)
+自然休養林
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

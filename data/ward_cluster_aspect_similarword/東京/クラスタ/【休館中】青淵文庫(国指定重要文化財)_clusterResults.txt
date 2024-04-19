@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:【休館中】青淵文庫(国指定重要文化財)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+渋沢家, 渋沢資料館, 渋沢栄一, 青淵文庫, 青淵, 渋沢公, 晩香廬
+cluster1:(4)
+飛鳥山公園, 公園, 都電, 街歩き
+cluster2:(5)
+茶室, 建物内部, 建物, 庭園, 様式
+cluster3:(2)
+光, 色
+cluster4:(2)
+非公開, 文化財
+cluster5:(7)
+パーティ, モチーフ, モノレール, ステンドグラス, スペース, タイル, シャンデリア
+cluster6:(1)
+荒川線
+cluster7:(3)
+人, 中, 部屋
+cluster8:(2)
+文庫, 書庫
+cluster9:(6)
+付帯施設, 国指定重要文化財, 入館料, 共通券, 貴賓室, JR王子駅
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 10
+deleted 0entities.

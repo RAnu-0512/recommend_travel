@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸野山高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+富士山, 駿河湾
+cluster1:(1)
+北側
+cluster2:(1)
+伊豆スカイライン
+cluster3:(1)
+裾野
+cluster4:(1)
+標高
+cluster5:(1)
+天城高原
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長谷寺の絵馬群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+神社, 本堂, 寺側, 寺, 絵馬
+cluster1:(13)
+平安, 受付, 長谷寺, 奈良, 神, 絵, こと, 乗り物, 願い事, 馬, 時代, もの, 必要
+cluster2:(1)
+木板
+cluster3:(2)
+駐車場, 倉吉観光
+cluster4:(4)
+絵馬群, 長谷寺の絵馬群, 納経受付所, 絵馬拝観
+cluster5:(1)
+鳥取県指定有形民俗文化財
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 6
+deleted 0entities.

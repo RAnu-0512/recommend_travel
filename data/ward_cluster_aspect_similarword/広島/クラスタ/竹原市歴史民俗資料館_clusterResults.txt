@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹原市歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸時代, 戦国時代
+cluster1:(2)
+塩田, 塩
+cluster2:(2)
+鎌倉, 竹原
+cluster3:(19)
+歴史, 洋風, 小早川家, 時期, 街並み, 展示, 家, 休憩スペース, 建物, 庭, 木造, 公開, 史跡, 時代, 町, 真ん中, 本拠, 歴史ファン, 見ごたえ
+cluster4:(5)
+洋館, 洋館風, 町並み保存地区, 資料, 資料館
+cluster5:(1)
+眼科病院
+cluster6:(1)
+毛利家
+cluster7:(1)
+竹鶴政孝
+cluster8:(1)
+竹原市歴史民俗資料館
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:cafe&studio Hygge>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+焼きたてパン, 焼きたて
+cluster1:(26)
+娘, 全員, 和気あいあい, 利用, カラダ, 他, 茶, 場, 土産, 形, 家族, ジュース, 粉, 息子, 美味しさ, カップケーキ, 夫, 時間, 子, 生地, レッスン代, 下, 先生, クッキー, 参加, ハーブティー
+cluster2:(3)
+娘さん達, こどもたち, 子供達
+cluster3:(2)
+パン, パン作り
+cluster4:(2)
+親子, 親子パン
+cluster5:(1)
+塩バターロール
+cluster6:(1)
+種類ものパン
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 7
+deleted 0entities.

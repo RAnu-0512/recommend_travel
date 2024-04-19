@@ -1,0 +1,77 @@
+--------------------similar_words:ビックカメラ本店--------------------
+top3 entities near to cluster0>>
+電機, 大手, 商社
+top3 entities near to cluster1>>
+電気屋, 電気, 電機
+top3 entities near to cluster2>>
+電気, 電機, 電力
+top3 entities near to cluster3>>
+家電, 量販, 家具
+top3 entities near to cluster4>>
+区, 区内, 都
+top3 entities near to cluster5>>
+本店, 支店, 東口
+top3 entities near to cluster6>>
+東口, 南口, 北口
+top3 entities near to cluster8>>
+駅, 駅前, 東口
+top3 entities near to cluster9>>
+駅, チカ, 近
+top3 entities near to cluster10>>
+高層階, 高層, 近隣
+top3 entities near to cluster11>>
+エアコン, 買い替え, ドライブ
+top3 entities near to cluster12>>
+エレベーター, エレベータ, エスカレーター
+top3 entities near to cluster13>>
+コンパクトデジタルカメラ, 買い物, クレジットカード
+top3 entities near to cluster14>>
+ヤマダ電機, ビックカメラ, パソコン
+top3 entities near to cluster15>>
+コンビニ, コンビニエンスストア, ローソン
+top3 entities near to cluster16>>
+おもちゃ, オモチャ, 玩具
+top3 entities near to cluster17>>
+アップル, アップルジャパン, アップルコンピュータ
+top3 entities near to cluster18>>
+プレゼント, サービス, イベント
+top3 entities near to cluster19>>
+カバン, パソコン, バッグ
+top3 entities near to cluster21>>
+カメラ, 携帯, デジカメ
+top3 entities near to cluster22>>
+コロナ, オーブン, レンジ
+top3 entities near to cluster23>>
+フロア, エリア, 最上階
+top3 entities near to cluster24>>
+ネット, インターネット, ショップ
+top3 entities near to cluster25>>
+カフェ, 喫茶店, スペース
+top3 entities near to cluster26>>
+カード, ポイント, ライン
+top3 entities near to cluster29>>
+知識, 商品
+top3 entities near to cluster30>>
+店員, 売り場, 店長
+top3 entities near to cluster31>>
+接客, 態度, 愛想
+top3 entities near to cluster32>>
+交渉, 値引き, 折衝
+top3 entities near to cluster33>>
+配送, 社員, 営業
+top3 entities near to cluster34>>
+電池, 電動, 交換
+top3 entities near to cluster35>>
+出張, 予約, 下見
+top3 entities near to cluster36>>
+床屋, 贔屓, 常連
+top3 entities near to cluster37>>
+紹介, 案内, 購入
+top3 entities near to cluster38>>
+通販, ネット, ショップ
+top3 entities near to cluster39>>
+買う, 買っ
+top3 entities near to cluster40>>
+店舗, 売り場
+top3 entities near to cluster41>>
+時間, 大勢, 混雑

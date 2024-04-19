@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鴨江寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 食べ歩きも良い, 有料駐車場
+cluster1:(6)
+浜松市, 鴨江寺, 鴨江, 中区, 浜松市民, 浜松駅
+cluster2:(3)
+参拝客, 初詣, 参拝
+cluster3:(3)
+鐘, 朱色, 匂い
+cluster4:(18)
+車, 大勢, 水, 知人, 祭り, 身内, こと, 入口, 仕事, 人, 彼女, 時間, 近く, 彼岸会, 子供, 場所, 挨拶, 時代
+cluster5:(10)
+大きなお寺, 店屋台, 供養, 露店, 地蔵, 山門, 彼岸, 本堂, 境内, 露天
+
+howmany entities : 43
+howmany clusters : 6
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 6
+deleted 0entities.

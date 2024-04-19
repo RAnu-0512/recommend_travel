@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中の鼻灯台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+中ノ鼻灯台, 灯台, 鼻灯台
+cluster1:(9)
+南端, 道沿い, 瀬戸内海, 海, 眺め, 下, QRコード, 時間, 大崎上島
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

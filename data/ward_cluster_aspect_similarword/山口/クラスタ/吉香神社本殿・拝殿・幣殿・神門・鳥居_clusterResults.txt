@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉香神社本殿・拝殿・幣殿・神門・鳥居>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本殿, 拝殿
+cluster1:(2)
+境内, 神社
+cluster2:(1)
+鳥居
+cluster3:(1)
+神門
+cluster4:(20)
+日本庭園, 跡地, こと, スポット, 文化財, 錦帯橋, 横山, 敷地, 右手, ロープウェイ, 先祖, 木, 雰囲気, 吉川, 麓, 神霊, 感じ, 歴史, 観光, 建物
+cluster5:(1)
+統一感
+cluster6:(9)
+吉川家の居館, 岩国藩, 錦雲閣, 吉香公園, 岩国, 岩国城, 岩国城天守閣, 岩国観光, 吉香神社
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 7
+deleted 0entities.

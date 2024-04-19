@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:flower atelier Mon favori_>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+タッセル, ハーバリウム, 顔, シール, レッスン, 先生, テイスト, ひととき
+cluster1:(3)
+種類, 好み, 色
+cluster2:(2)
+お花, 香り
+cluster3:(1)
+配色
+cluster4:(4)
+付属品, 満足度, 製作, 製作体験レッスン
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

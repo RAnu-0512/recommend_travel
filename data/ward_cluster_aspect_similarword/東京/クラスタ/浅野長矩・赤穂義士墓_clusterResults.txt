@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅野長矩・赤穂義士墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+特典航空券, 外国人観光客, 入場者夫々, 家族旅行えマルタ島
+cluster1:(2)
+訪問者, 国内滞在
+cluster2:(5)
+士, 志, 門, 煙, 広場
+cluster3:(6)
+場所, 恒例, 人気, 予定, 方, こと
+cluster4:(3)
+東京, 日本, 世界
+cluster5:(8)
+ホテル, 人, ガイドブック, 泉岳寺, 忠臣蔵, ベンチ, パワー, 播州赤穂
+cluster6:(2)
+家, 主人
+cluster7:(2)
+片手, 読書
+cluster8:(2)
+入院, 手術
+cluster9:(2)
+参拝, 境内
+cluster10:(4)
+浪士ひとりひとり, 浅野, 赤穂義士, 浅野長矩
+cluster11:(9)
+殿様御夫妻, 御墓, 多く墓所, 線香, 墓地, 墓所, 墓所内, 御線香, 墓
+
+howmany entities : 49
+howmany clusters : 12
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 12
+deleted 0entities.

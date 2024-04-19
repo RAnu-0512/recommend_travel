@@ -1,0 +1,7 @@
+--------------------similar_words:シェルミュージアム--------------------
+top3 entities near to cluster0>>
+手形, ビル, 建物
+top3 entities near to cluster1>>
+施設, イベント, グッズ
+top3 entities near to cluster2>>
+1, 5, 3

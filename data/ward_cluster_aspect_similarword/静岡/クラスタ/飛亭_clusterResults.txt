@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飛亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+モーターパラグライダー体験, 体験
+cluster1:(2)
+富士山, 駿河湾
+cluster2:(3)
+フライト, 小学校, ガイド
+cluster3:(1)
+娘
+cluster4:(1)
+周り
+cluster5:(1)
+町
+cluster6:(1)
+清水
+cluster7:(4)
+休み, 景色, 山々, 天気
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 8entities.

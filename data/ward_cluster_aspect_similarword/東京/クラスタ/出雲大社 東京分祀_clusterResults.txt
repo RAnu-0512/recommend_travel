@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲大社 東京分祀>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出雲大社, 出雲大社分祠
+cluster1:(2)
+参拝者, 参拝
+cluster2:(4)
+何か, 帰り偶然, 機会, 縁
+cluster3:(14)
+都会, 神社, 御朱印, 鳥居, ところ, 交差点, 神殿, 作法, 全体, コンクリート造り, 六本木, 道, 雰囲気, 階段
+cluster4:(2)
+ビル風, ビル
+cluster5:(2)
+六本木駅, 徒歩
+cluster6:(1)
+国立新美術館
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

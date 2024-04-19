@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武田山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+祇園, 祇園駅
+cluster1:(2)
+安佐南区, 広島市
+cluster2:(13)
+近く, 山, 看板, 道, 子供, 頂上, ハチ注意, 山頂, 日帰り登山, 町並み, 山登り, 達成感, 付近
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

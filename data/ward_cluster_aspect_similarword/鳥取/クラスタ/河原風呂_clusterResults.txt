@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河原風呂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+私有地, 地元民
+cluster1:(6)
+露天風呂, オススメ, ルール, 野天風呂, 気持ち, パーテーション
+cluster2:(2)
+丸見え, 明かり
+cluster3:(1)
+利用
+cluster4:(3)
+顔, 隣, 部屋
+cluster5:(1)
+気分
+cluster6:(8)
+強者, 勇気, 方々, 男性, 人, 人気, 方, 女性
+cluster7:(6)
+地元ルール, 人目, 地元, 昼間, 日の出前, 夜間
+cluster8:(9)
+傘, 橋, 衝立, 電気, 無料露天風呂橋, 雨, 清掃, 徳川, 木製
+cluster9:(1)
+奇数日
+cluster10:(2)
+遠越し, 開放感
+cluster11:(2)
+三朝温泉街, 三朝川
+cluster12:(11)
+入浴, 河原風呂, 足湯, 湯船, 風呂, 河原, 混浴, 温泉, 湯, 身体流せ, 浴槽
+cluster13:(2)
+温泉街, 温泉旅館
+cluster14:(2)
+温泉場, 脱衣場
+cluster15:(1)
+公衆浴場
+cluster16:(1)
+観光客
+
+howmany entities : 60
+howmany clusters : 17
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 17
+deleted 0entities.

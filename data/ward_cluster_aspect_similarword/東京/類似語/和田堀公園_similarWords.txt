@@ -1,0 +1,23 @@
+--------------------similar_words:和田堀公園--------------------
+top3 entities near to cluster1>>
+競技場, 場裏, 競技
+top3 entities near to cluster2>>
+公園, 遊歩道, 緑地
+top3 entities near to cluster3>>
+遊具, 広場, 駐車
+top3 entities near to cluster4>>
+住宅地, 住宅, 遺跡
+top3 entities near to cluster5>>
+区域, 禁止, 立ち入り
+top3 entities near to cluster6>>
+児童, 公園, 交通
+top3 entities near to cluster7>>
+時代, 石器, 古墳
+top3 entities near to cluster8>>
+子供, 子ども, 家族
+top3 entities near to cluster10>>
+ピクニック, バーベキュー, サイクリング
+top3 entities near to cluster11>>
+花見, 散歩, 野球
+top3 entities near to cluster12>>
+川, 公園, 都立

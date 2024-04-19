@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝童稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+子育て, 神社, 静けさ, 人, 鳥居, 江戸城, 姿, ファイル, 銀座, フィルム, 気配, 神, 利益, きつね
+cluster1:(2)
+ビル街, ビル
+cluster2:(2)
+路地裏, 路地
+cluster3:(1)
+おみくじ
+cluster4:(3)
+銀座四丁目, 幸稲荷神社, 稲荷神社
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

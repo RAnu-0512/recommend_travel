@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR西日本宮島フェリー宮島駐在>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青春18きっぷ, 青春
+cluster1:(9)
+組み込み実現, フェリー, 広島, ルート, 計画, 人, 宮島, 記述, 便
+cluster2:(4)
+JR西日本フェリー, 宮島口駅, フェリー乗降, JR
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

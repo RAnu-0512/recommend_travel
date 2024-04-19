@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:盲導犬の里富士ハーネス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+歩行, 体験談, 視覚障碍, 歩行体験
+cluster1:(4)
+勉強, こと, 様子, 説明
+cluster2:(2)
+方々, 方
+cluster3:(4)
+人, デモンストレーション, ワンコ, 他
+cluster4:(1)
+希望
+cluster5:(6)
+盲導犬, 盲導犬たち, 盲導犬デモンストレーション, 訓練, 施設, 寄付
+cluster6:(3)
+見学者, 見学, 飼育場所
+cluster7:(7)
+デモ, デモ犬, PR犬, 盲導犬デモ, 犬カフェ, 犬達, 犬
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 6
+deleted 3entities.

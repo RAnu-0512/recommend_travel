@@ -1,0 +1,9 @@
+--------------------similar_words:祝島の練塀--------------------
+top3 entities near to cluster0>>
+塀, 練塀, トンバイ
+top3 entities near to cluster1>>
+時間, 街並み
+top3 entities near to cluster2>>
+発電, 原子力, 原発
+top3 entities near to cluster3>>
+候補地, 設置地, 候補, 設置

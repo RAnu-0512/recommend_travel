@@ -1,0 +1,5 @@
+--------------------similar_words:東京メトロ小竹向原駅 有楽町線・副都心線--------------------
+top3 entities near to cluster0>>
+駅, 電車, 駅前
+top3 entities near to cluster1>>
+都心線, 駅線, 都心, 駅

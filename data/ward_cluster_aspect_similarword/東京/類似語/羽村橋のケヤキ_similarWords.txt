@@ -1,0 +1,11 @@
+--------------------similar_words:羽村橋のケヤキ--------------------
+top3 entities near to cluster0>>
+樹高, 樹齢, 巨木
+top3 entities near to cluster1>>
+近辺, ほど近い
+top3 entities near to cluster2>>
+ケヤキ, 見応え, 見ごたえ
+top3 entities near to cluster3>>
+木, 都, 土
+top3 entities near to cluster4>>
+幹, 枝, 高

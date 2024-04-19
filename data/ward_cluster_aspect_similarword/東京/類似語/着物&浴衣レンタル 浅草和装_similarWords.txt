@@ -1,0 +1,11 @@
+--------------------similar_words:着物&浴衣レンタル 浅草和装--------------------
+top3 entities near to cluster0>>
+玩具店, 接客, 玩具
+top3 entities near to cluster1>>
+天気雨, お天気雨, 天気, お天気
+top3 entities near to cluster3>>
+価格帯, 価格
+top3 entities near to cluster4>>
+写真, カメラマン, 着付け
+top3 entities near to cluster6>>
+着物, 振袖, 和装

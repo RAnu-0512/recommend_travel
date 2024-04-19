@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:T・ジョイ東広島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+映画, 映画館
+cluster1:(7)
+フジグラン, ショッピングセンター, サウンド, ショッピング, スタッフ, 東広島, ブランケット
+cluster2:(9)
+中, 方, 唯一, 対応, 次, 人, 食事, 両親, 時間
+cluster3:(1)
+広島
+cluster4:(4)
+店員, 客, 耳, 声
+cluster5:(1)
+風邪
+cluster6:(1)
+声量
+cluster7:(2)
+駐車場, 声かけ
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 8
+deleted 0entities.

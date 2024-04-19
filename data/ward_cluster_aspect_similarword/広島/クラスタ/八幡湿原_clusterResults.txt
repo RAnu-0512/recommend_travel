@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡湿原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+北広島町, 西日本, 規模, 木道, 緑, 場所, 大気, イメージ, 空気, 景色
+cluster1:(2)
+尾崎谷湿原, 千町原湿原
+cluster2:(3)
+湿原, 湿原群, 長者原湿原
+cluster3:(2)
+八幡湿原, 八幡地区
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

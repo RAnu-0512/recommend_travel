@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西大谷池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+竿, 池
+cluster1:(8)
+場所, 強風, 投稿, 前, 想い, 風, 遊歩道, 公園
+cluster2:(1)
+西大谷ダム
+cluster3:(1)
+放流ベラ
+cluster4:(1)
+掛川城
+cluster5:(1)
+時間弱竿
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 6entities.

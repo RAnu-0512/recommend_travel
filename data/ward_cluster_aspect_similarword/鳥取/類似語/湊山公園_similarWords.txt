@@ -1,0 +1,15 @@
+--------------------similar_words:湊山公園--------------------
+top3 entities near to cluster1>>
+自転車, テニス, サイクリング
+top3 entities near to cluster2>>
+辺り, 時期, 頃
+top3 entities near to cluster3>>
+会場, 駐車場, 駐車
+top3 entities near to cluster4>>
+北西, 南東, 北東
+top3 entities near to cluster5>>
+公園, 花見, 散歩
+top3 entities near to cluster6>>
+公園, 遊具, 城跡
+top3 entities near to cluster7>>
+城, 名城, 麓

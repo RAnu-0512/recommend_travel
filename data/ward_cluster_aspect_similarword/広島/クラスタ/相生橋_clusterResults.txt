@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:相生橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+平和記念公園, 平和祈念公園
+cluster1:(4)
+原爆ドーム, 原爆投下, 原爆, 原爆ドームちかく
+cluster2:(46)
+分岐点, 相生橋, 平和公園, 記念撮影, 南, 状況, 交通量, 河, 目標, 爆圧, 広島電鉄, 入口, 北, 広島市, 平和, 町並み, T字, 安川, 併用橋, 中央, 流れ, 橋, 気分, 川, 上, 相生, 形, 東西に結ぶ橋, ライト, 散歩, T, 本川, 路面電車, 太田川, T字型, 景色, 近く, 場所, 字型, 方向, 中島町, 両岸, 風景, 相生川, T字形, 川沿い
+
+howmany entities : 52
+howmany clusters : 3
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:徳山駅前賑わい交流施設>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+大人, 高校生, 勉強, スタバ, 手, 人, コーヒー, スターバックス, 写真, 旅行者, 前図書館, 図書館, 本, 駅
+cluster1:(2)
+徳山駅, 商店街
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

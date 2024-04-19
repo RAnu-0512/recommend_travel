@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:物忌奈命神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鳥居, 神社, 階段
+cluster1:(2)
+神津島, 伊豆諸島
+cluster2:(3)
+雰囲気, パワー, 守り神
+cluster3:(1)
+気
+cluster4:(1)
+神津島村
+cluster5:(1)
+東京都
+cluster6:(1)
+物忌奈命神社
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

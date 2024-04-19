@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田村虎蔵大黒さま歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+田村虎蔵, 田村虎蔵大黒
+cluster1:(5)
+歌碑, 童謡, 歌詞, 楽譜, 歌
+cluster2:(8)
+淤岐島, 大黒様, 出身, 他, 側, 袂, 奥, 保育園
+cluster3:(1)
+白兎海岸
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊田湖畔公園キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ワカサギ釣り, 釣具レンタル, 釣り日和, 釣果
+cluster1:(2)
+感じ, 方
+cluster2:(4)
+バーベキュー, 手ぶら, カップル, ボート
+cluster3:(3)
+子供, 家族, 人
+cluster4:(4)
+自然, 公園, キャンプ場, 桟橋
+cluster5:(1)
+天気サイコー
+cluster6:(1)
+家族連れ
+cluster7:(1)
+ok!
+cluster8:(3)
+管理人, トイレ休憩所, 管理棟
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

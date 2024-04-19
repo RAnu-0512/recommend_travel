@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Mioカヤックアドベンチャーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+景色, 風景, 写真, 満開
+cluster1:(5)
+水路, 水面, 湖, 川, 真下
+cluster2:(16)
+雨, カヤック乗り場, 水, パパ, カモ, 東京, カワセミ, さくら, ツアー, スカイツリー, Bコース, カヤック, インストラクター, コース, レインウェア, 鳥
+cluster3:(9)
+次回, 他, 事, 時期, 流れ, ツボ, こと, 問題, 説明
+cluster4:(5)
+防水グローブ, カヤック体験, 漕ぎ方, 体験, 初カヤック
+cluster5:(1)
+東京水路カヤックツアー
+
+howmany entities : 40
+howmany clusters : 6
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南伊豆亜熱帯公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+国道, 道路, 方面
+cluster1:(8)
+園内, みどり, ビーチ, 海沿い, カナリーヤシ, 南, 散歩, トロピカルパーク
+cluster2:(2)
+空気, 価値
+cluster3:(1)
+絶景ドライブ
+cluster4:(6)
+南伊豆亜熱帯公園, ビロウヤシ, 南国ムード, 亜熱帯植物, 植物, 南伊豆町
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 3entities.

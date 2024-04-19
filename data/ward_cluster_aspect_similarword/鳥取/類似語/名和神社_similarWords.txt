@@ -1,0 +1,9 @@
+--------------------similar_words:名和神社--------------------
+top3 entities near to cluster0>>
+境内, 神社, 本殿
+top3 entities near to cluster1>>
+公, 利志子, 長年
+top3 entities near to cluster3>>
+神社, 利志子, 鳥居
+top3 entities near to cluster4>>
+幣官, 別格官, 幣, 別格

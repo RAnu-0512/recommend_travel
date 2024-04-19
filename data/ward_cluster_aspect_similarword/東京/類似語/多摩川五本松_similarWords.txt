@@ -1,0 +1,15 @@
+--------------------similar_words:多摩川五本松--------------------
+top3 entities near to cluster0>>
+土手, 河川敷, 公園
+top3 entities near to cluster1>>
+景色, 光景, 風景
+top3 entities near to cluster2>>
+人達, 時間
+top3 entities near to cluster4>>
+木, 木火, 土
+top3 entities near to cluster5>>
+松, 袁山, 蒋暁
+top3 entities near to cluster7>>
+改札口, 改札, 口前
+top3 entities near to cluster8>>
+神社, 大社

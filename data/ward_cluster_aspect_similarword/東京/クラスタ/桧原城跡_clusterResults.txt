@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桧原城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+山, 吉祥寺, 運動, 人, 城跡, 墓地内, 感じ, 山道, 仏像, 寺, 上, 敷地, 城, ベンチ, 悪路
+cluster1:(4)
+檜原城跡, 福島県, じゃらん観光スポット, 檜原
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

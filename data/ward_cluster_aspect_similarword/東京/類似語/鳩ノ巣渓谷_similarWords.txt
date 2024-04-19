@@ -1,0 +1,37 @@
+--------------------similar_words:鳩ノ巣渓谷--------------------
+top3 entities near to cluster0>>
+巣, 鳩, 鳥
+top3 entities near to cluster1>>
+ハイキング, トレッキング, サイクリング
+top3 entities near to cluster3>>
+周辺, 周囲, 近辺
+top3 entities near to cluster4>>
+時間, 間, その間
+top3 entities near to cluster6>>
+土水, 土
+top3 entities near to cluster7>>
+移動, 休憩, 利用
+top3 entities near to cluster8>>
+吊り橋, 向こう
+top3 entities near to cluster10>>
+駐車場, 駐車, 町営
+top3 entities near to cluster11>>
+宿泊, 施設, 散策
+top3 entities near to cluster12>>
+所要, 時間
+top3 entities near to cluster13>>
+双竜, 滝, 岩
+top3 entities near to cluster14>>
+新緑, 秋, 紅葉
+top3 entities near to cluster15>>
+駅車, 駅, 電車
+top3 entities near to cluster16>>
+岩, 巨岩, 岩山
+top3 entities near to cluster17>>
+上流, 下流, 川面
+top3 entities near to cluster18>>
+渓流, 川, 湖
+top3 entities near to cluster19>>
+魚道, 護岸, 堰堤
+top3 entities near to cluster20>>
+渓谷, ダム, 峡谷

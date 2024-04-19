@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福田頭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+滝, 秘境
+cluster1:(4)
+雰囲気, 福田頭, ハイキング, マイナスイオン
+cluster2:(2)
+場所, 地
+cluster3:(1)
+満点
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

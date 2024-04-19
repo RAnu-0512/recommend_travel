@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シャワーツリー35>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+噴水, 滝
+cluster1:(6)
+水, 場所, 光, 間, 近く, 話題
+cluster2:(8)
+シャワーツリー, ウォーターショー, メンテナンス, アトリウムコート, 音楽, ビル, 家具, ショー
+cluster3:(1)
+休止
+cluster4:(1)
+大塚
+cluster5:(1)
+駅横
+cluster6:(2)
+ゆりかもめ, 家具有明ショールーム
+cluster7:(1)
+国際展示場正門
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:阿川毛利氏墓所--------------------
+top3 entities near to cluster0>>
+正室, 側室, 継室
+top3 entities near to cluster1>>
+墓石, 墓碑
+top3 entities near to cluster2>>
+利家, 毛, 九牛
+top3 entities near to cluster3>>
+阿川, 氏, 墓所

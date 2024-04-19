@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法泉寺温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+掛川城, 掛川市
+cluster1:(4)
+雰囲気, ひとつ, 人気, 肌
+cluster2:(3)
+施設, 温泉施設, 温泉地
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

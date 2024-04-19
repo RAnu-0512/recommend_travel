@@ -1,0 +1,15 @@
+--------------------similar_words:徳川家霊廟--------------------
+top3 entities near to cluster1>>
+霊園, 谷中, 墓地
+top3 entities near to cluster2>>
+八代, 五代, 葵
+top3 entities near to cluster3>>
+日時, 高, 限定
+top3 entities near to cluster6>>
+解説, 勉強, レクチャー
+top3 entities near to cluster7>>
+裏手, 境内, 敷地
+top3 entities near to cluster8>>
+墓所, 霊廟
+top3 entities near to cluster9>>
+家康, 家光, 綱吉

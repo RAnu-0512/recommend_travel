@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後楽園のハナショウブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光旅行, 宿泊ホテル
+cluster1:(17)
+後楽園の花菖蒲, 裏, 紫, 花, 花菖蒲, 人, 小石川後楽園, 菖蒲田, 紅葉, 近く, 菖蒲, 隣り, 時期, ハナショウブ, ちょうど花しょうぶ, 足, 見ごろ
+cluster2:(3)
+原風景, 木道, 風景
+cluster3:(1)
+東京都民割り都
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

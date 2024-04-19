@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山乳業農業協同組合>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+アイスクリーム, シュークリーム, ロールケーキ, Tシャツ, ヨーグルト, ソフトクリーム, 消しゴム
+cluster1:(2)
+食べ物, ケーキ
+cluster2:(1)
+直営店
+cluster3:(1)
+商品
+cluster4:(1)
+ココ
+cluster5:(1)
+シュークリーム・ロール
+cluster6:(4)
+工場, 売店, 敷地, 牛乳
+cluster7:(1)
+小腹
+cluster8:(3)
+工場見学, 見学, 試飲
+cluster9:(2)
+割引商品, 限定販売
+cluster10:(3)
+駐車場, 直売店, 直売所
+cluster11:(8)
+大山, 白バラ, 鳥取大山, 白バラ牛乳, 白ばら牛乳, 大山乳業グッズ, 鳥取県, 大山乳業
+
+howmany entities : 34
+howmany clusters : 12
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 12
+deleted 0entities.

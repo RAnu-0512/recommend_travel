@@ -1,0 +1,7 @@
+--------------------similar_words:西武鉄道拝島駅--------------------
+top3 entities near to cluster0>>
+移動, 乗り換え
+top3 entities near to cluster1>>
+駅, 終点, 駅前
+top3 entities near to cluster2>>
+改札, 券売, コンコース

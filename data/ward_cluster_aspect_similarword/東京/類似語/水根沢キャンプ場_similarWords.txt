@@ -1,0 +1,23 @@
+--------------------similar_words:水根沢キャンプ場--------------------
+top3 entities near to cluster1>>
+子供, 子ども, 家族
+top3 entities near to cluster2>>
+温泉, 設備, 穴場
+top3 entities near to cluster3>>
+眺め, 遊ぶ, 眺める
+top3 entities near to cluster5>>
+機会, チャンス, 好機
+top3 entities near to cluster6>>
+オススメ, おすすめ, お薦め
+top3 entities near to cluster7>>
+キャンプ, アウトドア, バーベキュー
+top3 entities near to cluster8>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster9>>
+トイレ, カレー, カレーライス
+top3 entities near to cluster11>>
+自然, 空気, 緑
+top3 entities near to cluster12>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster13>>
+渓流釣り, 渓流, 魚釣り

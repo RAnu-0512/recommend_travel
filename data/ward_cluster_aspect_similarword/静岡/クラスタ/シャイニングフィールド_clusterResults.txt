@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シャイニングフィールド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+爽快感, 達成感, 緊張感, 一体感
+cluster1:(2)
+冷たさ, 入り泳い
+cluster2:(2)
+希望者, 再チャレンジ計画
+cluster3:(6)
+激流, 水, 岩場, 川, 水量, 水面
+cluster4:(13)
+年齢, 腹筋, 息子, 大人, 小学, 難関, 私達, 頭, 近く, 魅力, 自然, 力, 体力
+cluster5:(15)
+微々, スタッフ, ルート, イケメン, パドル, ガイド, メンバー, ベテラン, ラフティング, 富士川, 遊び方, ボート, ドボン, あの手この手, カヌー
+cluster6:(2)
+注意, 指示
+cluster7:(6)
+写真, もの, 体験, 感じ, 様子, 方
+cluster8:(1)
+だり
+cluster9:(1)
+アラ還
+
+howmany entities : 52
+howmany clusters : 10
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 5
+deleted 8entities.

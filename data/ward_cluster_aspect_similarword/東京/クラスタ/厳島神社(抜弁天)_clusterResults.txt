@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:厳島神社(抜弁天)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+都会, 角, ひとつ, 家, ところ, 事, 東, 三叉路, 大久保, 新宿, 社
+cluster1:(2)
+南北, 苦難
+cluster2:(5)
+神社, 鳥居, 七福神巡り, 参道, 境内
+cluster3:(5)
+抜弁天, 江戸六弁天, 稲荷鬼王神社, 厳島神社, 八幡太郎義
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

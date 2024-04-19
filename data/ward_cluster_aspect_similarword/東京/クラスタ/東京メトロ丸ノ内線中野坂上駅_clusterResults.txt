@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸ノ内線中野坂上駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+方南町方面, 反対方向, 方面行き, 方面
+cluster1:(13)
+乗換え駅, ドア, 電車ホーム側, 荻窪, 東京メトロ丸ノ内線, ホーム, 駅, 電車, 終点, 江戸線, 真ん中, 新宿, 乗り換え
+cluster2:(1)
+乗降客
+cluster3:(1)
+中野坂上駅
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:佐々部のカキノキ--------------------
+top3 entities near to cluster1>>
+国名, 国々
+top3 entities near to cluster2>>
+カキ, 牡蠣, 牡蛎
+top3 entities near to cluster3>>
+渋, 谷まん, 渋い
+top3 entities near to cluster5>>
+樹齢, 推定, 年

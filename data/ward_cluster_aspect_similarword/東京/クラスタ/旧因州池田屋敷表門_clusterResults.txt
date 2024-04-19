@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧因州池田屋敷表門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+池田屋敷表門, 池田家(因州, 池田屋表門
+cluster1:(2)
+昭和, 明治
+cluster2:(2)
+上野, 東京
+cluster3:(1)
+黒門
+cluster4:(1)
+池田家
+cluster5:(1)
+国立博物館
+cluster6:(23)
+正面, 黒服, スタッフ, 左右, 屋根, 東京大学, 丸の内, 門, 上野公園, 格式, 表門, 博物館, 屋敷, 黒, 正門, 敷地, 庭, 役目, 外, 造り, 通称, もの, 名残り
+cluster7:(8)
+大名屋敷, 大名, 大大名, 大名家, 江戸上屋敷, 江戸, 江戸時代, 鳥取藩
+
+howmany entities : 41
+howmany clusters : 8
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,33 @@
+--------------------similar_words:国営昭和記念公園日本庭園--------------------
+top3 entities near to cluster0>>
+公園, 記念, 国営
+top3 entities near to cluster1>>
+庭園, 盆栽, 庭
+top3 entities near to cluster2>>
+入場, 同伴, 予約
+top3 entities near to cluster5>>
+時間, 種類
+top3 entities near to cluster7>>
+距離, 至近, 射程
+top3 entities near to cluster8>>
+手入れ, 世界一, メンテナンス
+top3 entities near to cluster9>>
+紫陽花, ヒマワリ, コスモス
+top3 entities near to cluster10>>
+コーナー, スペース, オススメ
+top3 entities near to cluster11>>
+花鳥風月, 色とりどり, 鮮やか
+top3 entities near to cluster12>>
+真ん中, まん中, 端っこ
+top3 entities near to cluster13>>
+カメラ, ボタン, スナップ
+top3 entities near to cluster14>>
+周囲, 周り, 中心
+top3 entities near to cluster15>>
+秋, 季節, 夏
+top3 entities near to cluster16>>
+自然, 空間, 緑
+top3 entities near to cluster17>>
+裏手, 風情, 入り口
+top3 entities near to cluster18>>
+紅葉, 木々, 景色

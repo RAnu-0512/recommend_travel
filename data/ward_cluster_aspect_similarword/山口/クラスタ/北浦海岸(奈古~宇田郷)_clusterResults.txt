@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北浦海岸(奈古~宇田郷)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+音, 山
+cluster1:(1)
+波
+cluster2:(1)
+水
+cluster3:(1)
+景色
+cluster4:(1)
+宇田郷駅
+cluster5:(1)
+北長門海岸
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

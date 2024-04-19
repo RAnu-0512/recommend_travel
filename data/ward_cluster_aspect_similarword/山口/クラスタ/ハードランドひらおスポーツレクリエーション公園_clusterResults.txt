@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハードランドひらおスポーツレクリエーション公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+景色, 山口県, 桜並木, レクリエーション公園, 坂, 平生町, 瀬戸内海
+cluster1:(2)
+多目的広場, ハードランドひらおスポーツレクリエーション公園
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

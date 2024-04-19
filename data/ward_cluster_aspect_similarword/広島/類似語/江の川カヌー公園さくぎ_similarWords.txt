@@ -1,0 +1,31 @@
+--------------------similar_words:江の川カヌー公園さくぎ--------------------
+top3 entities near to cluster0>>
+施設, 宿泊, 入浴
+top3 entities near to cluster1>>
+カヌー, カヤック, コテージ
+top3 entities near to cluster2>>
+足元, 冬, 足下
+top3 entities near to cluster3>>
+子供, 子ども, 大人
+top3 entities near to cluster4>>
+女性, 男性, 服装
+top3 entities near to cluster5>>
+子供, 子ども, 親達
+top3 entities near to cluster6>>
+袖口, 襟元, 襟ぐり
+top3 entities near to cluster7>>
+終了, 参加, 開始
+top3 entities near to cluster8>>
+心配, 問題, 懸念
+top3 entities near to cluster10>>
+気分, 気持ち, 気持
+top3 entities near to cluster11>>
+込む, 込
+top3 entities near to cluster12>>
+景色, 食事, 時間
+top3 entities near to cluster13>>
+自由, 時間, 無制限
+top3 entities near to cluster14>>
+体験, カヌー, 臨死
+top3 entities near to cluster15>>
+登り, 沢, 体験

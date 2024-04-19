@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駿府浪漫バス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+ボンネットバス, 駿府公園, 子供, ルート, デザイン, 足, コミュニティバス, バス, 観光地, こども, 観光, 駅
+cluster1:(5)
+浅間神社, 静岡市, 駿府城址, 静岡浅間神社, 静岡駅
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

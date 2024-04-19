@@ -1,0 +1,45 @@
+--------------------similar_words:岡本太郎記念館--------------------
+top3 entities near to cluster0>>
+館, 記念, 周年
+top3 entities near to cluster2>>
+次郎, 太朗, 一郎
+top3 entities near to cluster3>>
+彼女, 彼, 各地
+top3 entities near to cluster4>>
+太陽, 太陽塔, バレットイロージョン
+top3 entities near to cluster6>>
+想像力, 想像
+top3 entities near to cluster7>>
+独特, 世界, 雰囲気
+top3 entities near to cluster8>>
+フチ, 等身, 子
+top3 entities near to cluster9>>
+住居, 邸宅, 居住
+top3 entities near to cluster10>>
+展示, 館内, 入場
+top3 entities near to cluster11>>
+遺跡, 神殿
+top3 entities near to cluster12>>
+人形, 椅子, ぬいぐるみ
+top3 entities near to cluster13>>
+文化, 生活, 芸術
+top3 entities near to cluster14>>
+空間, 施設, 設備
+top3 entities near to cluster15>>
+館, 両, 賓日
+top3 entities near to cluster16>>
+入口付近, 裏手, 入口
+top3 entities near to cluster17>>
+自宅, お家, 庭
+top3 entities near to cluster18>>
+住宅街, 住宅, 市営
+top3 entities near to cluster19>>
+芸術, 美術, 絵画
+top3 entities near to cluster20>>
+写真, 撮影, 撮っ
+top3 entities near to cluster21>>
+展示, 作品, 出展
+top3 entities near to cluster22>>
+作品, 才能, 情熱
+top3 entities near to cluster23>>
+作品, 作家, 作風

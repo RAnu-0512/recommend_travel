@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清流通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+桜・夏, もみじ・秋, 山田神社
+cluster1:(2)
+駐車場, 周辺道路
+cluster2:(7)
+所, もの, 案内板, もみじ, 必要, 水路, 龍雲寺
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

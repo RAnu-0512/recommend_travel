@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中央区立総合スポーツセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+浜町体育館, 日本橋浜町, 浜町公園, 浜町駅
+cluster1:(2)
+中央区, 区外者
+cluster2:(2)
+区立, 区民
+cluster3:(1)
+北東方向
+cluster4:(3)
+客, 食堂, 声
+cluster5:(2)
+態度, 悪口
+cluster6:(1)
+女性職員
+cluster7:(23)
+定番スポーツ, 地上, トレーニングジム, 清潔, 建物, 体育館, スポーツ施設, 気, 設備, ところ, スポーツセンター, ジム, 名称, スポーツ, 施設, 格安, レストラン, 地下, イメージ, 公共, 中, プール, もの
+cluster8:(1)
+小腹
+cluster9:(11)
+弓道場, 温水プール, エアライフル場, 運動施設, 運動, 卓球室, アーチェリー場, 総合スポーツセンター, 武道場, 総合運動施設, 初め競技場
+
+howmany entities : 50
+howmany clusters : 10
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 10
+deleted 0entities.

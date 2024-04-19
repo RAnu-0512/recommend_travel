@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線線 日比谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+皇居, 濠
+cluster1:(4)
+地下道, 交差点, 大通り, 地下鉄
+cluster2:(9)
+三田線, 有楽町, 帝国ホテル, 有楽町線, ミッドタウン, 日比谷公園, 六本木, 日比谷線, 乗り換え
+cluster3:(4)
+ミッドタウン日比谷, 日比谷, 銀座, ここ日比谷
+cluster4:(5)
+場所, 路線, 上, 乗り換え扱い, 地図
+cluster5:(10)
+利用頻度, 線, 地上, 通路, 千代田線, 改札, 地下, 地下入口, 日比谷線線, 階段
+cluster6:(15)
+日比谷駅, 東京都, 主要駅, 地下鉄有楽町駅, 東京ミッドタウン日比谷, 観光地, 古き良き姿, 三田駅, 駅, 東京駅, 銀座駅, JR線, 東京メトロ, 乗り換え駅, JR有楽町駅
+
+howmany entities : 49
+howmany clusters : 7
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 7
+deleted 0entities.

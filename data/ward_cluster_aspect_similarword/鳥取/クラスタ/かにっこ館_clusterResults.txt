@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かにっこ館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供たち, 入場無料, 子供達
+cluster1:(36)
+遊び場, 貸し出し, クイズ, 外, 体験, 驚き, 水槽, イベント, メイン, 初水揚げ, 主役, 外遊び, 子, カニ, 地元, 室内, 店, 水族館, ちっちゃな池, 鳥取, 人, 遊具, ボード, かに, 内容, 魚, 人気, 値, コーナー, 亀, 施設, 子供, チンアナゴ, お子, 紹介, 蟹
+cluster2:(1)
+かにっこ館
+cluster3:(1)
+鳥取港海鮮産物市場
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 4
+deleted 0entities.

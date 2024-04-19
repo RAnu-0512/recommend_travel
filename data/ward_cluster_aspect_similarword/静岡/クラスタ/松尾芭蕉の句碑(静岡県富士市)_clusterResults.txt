@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松尾芭蕉の句碑(静岡県富士市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+富士駅, 富士市
+cluster1:(2)
+松尾芭蕉, 芭蕉
+cluster2:(2)
+JR, 東海道線
+cluster3:(3)
+句, 句碑, 人びと
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

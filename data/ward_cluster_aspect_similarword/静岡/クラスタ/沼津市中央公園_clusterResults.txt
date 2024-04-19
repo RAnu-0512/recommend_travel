@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津市中央公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+こと, 比丘尼, 男, イベント
+cluster1:(2)
+手前, 主役
+cluster2:(1)
+弟子
+cluster3:(1)
+面
+cluster4:(1)
+公園
+cluster5:(1)
+天狗
+cluster6:(1)
+途上
+cluster7:(1)
+夜道
+cluster8:(1)
+金毘羅参り
+cluster9:(1)
+沼津 黄昏図
+
+howmany entities : 14
+howmany clusters : 10
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 10entities.

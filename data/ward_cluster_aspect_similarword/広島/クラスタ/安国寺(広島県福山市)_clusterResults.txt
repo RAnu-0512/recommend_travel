@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安国寺(広島県福山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(40)
+内容, 文化財, 歴史, 境内, ソテツ, 季節, 敷地, 桜, 釈迦堂, 中, 心, 阿弥陀如来, 独特, 自動車, 木造, 存在感, 寺, 存在, 紅葉, 気, かお寺, 国, 安国寺, 時代, 感じ, 臨済宗, エリア, 手前, 見どころ, 命, 雰囲気, 真っ先, 木, 他, 文化, 寺院, 場所, 仏像, 満開, 楷
+cluster1:(4)
+鎌倉, 茶筌塚, 足利尊, 鎌倉時代
+cluster2:(2)
+広島県, 福山市
+cluster3:(2)
+浦観光, 浦
+cluster4:(2)
+鞆, 鞆町
+cluster5:(3)
+拝観料, 市営駐車場, 神社仏閣
+cluster6:(1)
+法燈国師座像
+
+howmany entities : 54
+howmany clusters : 7
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 7
+deleted 0entities.

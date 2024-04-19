@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円乗寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+白山駅, 白山, 文京区
+cluster1:(2)
+道, 路地
+cluster2:(4)
+近く, 手, 前, こと
+cluster3:(7)
+東京, 天台宗, 街並み, 縁結び, 地下鉄, こじんまり, 八百屋
+cluster4:(9)
+墓所, 本堂, 墓, 浄心寺坂, 寺, 本尊, 参道, 石門, 境内
+cluster5:(1)
+住宅街
+cluster6:(1)
+八百屋お七
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

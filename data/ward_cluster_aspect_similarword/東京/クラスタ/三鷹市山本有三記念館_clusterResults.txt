@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三鷹市山本有三記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山本有三, 山本有三の記念館
+cluster1:(2)
+三鷹, 三鷹駅
+cluster2:(2)
+洋風建築, 洋風
+cluster3:(19)
+回り, 洋館, 場所, 吉祥寺, 建物, 家, 公園, 間, 庭園, 家族, 書斎, 見学, 裏側, 石, 徒歩, 敷地, 庭, 生家, 作家山
+cluster4:(2)
+記念館, 写真撮影
+cluster5:(1)
+路傍の石
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

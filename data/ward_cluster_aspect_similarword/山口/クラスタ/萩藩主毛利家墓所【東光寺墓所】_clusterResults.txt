@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩藩主毛利家墓所【東光寺墓所】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+灯籠, 灯籠達
+cluster1:(2)
+石灯籠, こ石灯籠
+cluster2:(7)
+地元萩藩主, 奇数代, 歴代藩主, 藩主夫妻, 藩主毛利吉就, 奇数代藩主, 藩主
+cluster3:(7)
+もの, 場所, 価値, 時間, 感じ, 方々, 歴史
+cluster4:(2)
+夫人, 家来
+cluster5:(7)
+異観, 寺, パワースポット, 雰囲気, 東光寺, お参り, 菩提寺
+cluster6:(5)
+参道, 手前, 鳥居, 裏手, 奥
+cluster7:(1)
+五代
+cluster8:(1)
+吉就
+cluster9:(1)
+左右対称
+cluster10:(8)
+灯篭, 読経, 石灯篭, 墓所, 御廟所, 墓, 殉死, 東光寺墓所
+cluster11:(3)
+大照院, 毛利家, 大雄宝殿
+
+howmany entities : 46
+howmany clusters : 12
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 12
+deleted 0entities.

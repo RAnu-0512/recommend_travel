@@ -1,0 +1,19 @@
+--------------------similar_words:青山セントグレース大聖堂--------------------
+top3 entities near to cluster0>>
+聖堂, 大, 教会
+top3 entities near to cluster1>>
+式場, 結婚式, 新婦
+top3 entities near to cluster2>>
+建物, 写真, 食事
+top3 entities near to cluster3>>
+ゲスト, スタッフ, メンバー
+top3 entities near to cluster4>>
+結婚式, ドレス, 引き出物
+top3 entities near to cluster7>>
+主役, 脇役, わき役
+top3 entities near to cluster8>>
+全身, 上半身, 下半身
+top3 entities near to cluster9>>
+ソロ, ソロコン, 弾き語り
+top3 entities near to cluster10>>
+在庫, 枚数, 費用

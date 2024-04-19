@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:防府市観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光, 観光案内
+cluster1:(2)
+人案内所, 観光案内所
+cluster2:(17)
+所, 改札口, 防府市, 障害, めんどくさがり, 態度, 防府駅, 公衆電話, パンフレット, タクシー, レンタサイクル, 駅, 事, レンタル自転車借り, 人, 指, 聴覚障害
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

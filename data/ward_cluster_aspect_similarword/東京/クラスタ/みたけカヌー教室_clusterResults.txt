@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みたけカヌー教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+カヤック, シーカヤック, インストラクター
+cluster1:(2)
+ボート, カヌー
+cluster2:(1)
+カレー
+cluster3:(1)
+段取り
+cluster4:(1)
+リバーカヤック
+cluster5:(1)
+川
+cluster6:(4)
+途中, 初め, 到着, 上
+cluster7:(3)
+自然, 贅沢, 自力
+cluster8:(7)
+金額, 景色, 個人レッスン, 仕事, 体験, 写真, 感覚
+cluster9:(1)
+感
+cluster10:(1)
+青梅市
+
+howmany entities : 25
+howmany clusters : 11
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 11
+deleted 0entities.

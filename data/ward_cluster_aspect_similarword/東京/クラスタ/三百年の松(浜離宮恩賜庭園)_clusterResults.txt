@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三百年の松(浜離宮恩賜庭園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+変遷, 様子, こと, もの
+cluster1:(5)
+出入り口, 近く, 浜離宮, 見ごたえ, 大手門
+cluster2:(2)
+側, 横
+cluster3:(3)
+将軍, 江戸, 時代
+cluster4:(9)
+枝, 枝ぶり, 木, 松, 庭園, 幹, 樹形, 盆栽, 黒松
+cluster5:(3)
+徳川六代将軍家宣, 徳川家宣, 徳川6
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 6
+deleted 0entities.

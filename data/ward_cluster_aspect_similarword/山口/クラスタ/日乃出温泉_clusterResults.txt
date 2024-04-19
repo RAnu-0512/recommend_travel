@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日乃出温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鉱泉水, 泉質
+cluster1:(7)
+下関, 銭湯, 下関駅, 徒歩, 気持ち, 水風呂, 温泉
+cluster2:(1)
+レトロ感
+cluster3:(1)
+物価統制令料金
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

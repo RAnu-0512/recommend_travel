@@ -1,0 +1,9 @@
+--------------------similar_words:比和自然科学博物館--------------------
+top3 entities near to cluster0>>
+展示, 出展, 展覧
+top3 entities near to cluster1>>
+動物, 昆虫, 剥製
+top3 entities near to cluster2>>
+野山, ぐら, 山
+top3 entities near to cluster4>>
+科学, 自然, 博物館

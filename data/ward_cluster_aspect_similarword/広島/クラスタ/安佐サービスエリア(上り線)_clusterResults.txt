@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安佐サービスエリア(上り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+営業, 食堂
+cluster1:(11)
+キノコ, 量, 味噌汁, ジュース, サクサク, 揚げたて, ご飯, ごぼう, お母さんたち, 気持ち, 桃
+cluster2:(1)
+もみじ饅頭
+cluster3:(1)
+安佐サービスエリア
+cluster4:(1)
+れんこん
+cluster5:(3)
+ロース豚天, 天婦羅, 豚肉専門店
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

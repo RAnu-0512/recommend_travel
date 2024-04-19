@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山野峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 福山市
+cluster1:(2)
+駐車場, キャンプ場
+cluster2:(8)
+山野, 山, 道, 川遊び, 散策, 子供, キャンプ, 北部
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

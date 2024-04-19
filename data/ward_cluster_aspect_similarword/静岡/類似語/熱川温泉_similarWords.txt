@@ -1,0 +1,51 @@
+--------------------similar_words:熱川温泉--------------------
+top3 entities near to cluster1>>
+レストラン, ホテル, ラーメン
+top3 entities near to cluster3>>
+タイプ, セット, ピンク
+top3 entities near to cluster4>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster7>>
+トリコ, カラダ, サクラ
+top3 entities near to cluster10>>
+露天風呂, ビーチ, 温泉
+top3 entities near to cluster11>>
+お湯, 温泉, 露天風呂
+top3 entities near to cluster12>>
+部屋, 温度, 距離
+top3 entities near to cluster15>>
+景色, 風景, 風情
+top3 entities near to cluster17>>
+海岸, 海, 海辺
+top3 entities near to cluster21>>
+桜, 満開, 藤
+top3 entities near to cluster23>>
+電車, ワニ
+top3 entities near to cluster24>>
+透明感, 透明
+top3 entities near to cluster28>>
+手前付近, 手前, 横
+top3 entities near to cluster30>>
+海沿い, 海岸沿い, 海, 海岸
+top3 entities near to cluster37>>
+駅, 駅前, 徒歩
+top3 entities near to cluster38>>
+バス, 送迎, シャトル
+top3 entities near to cluster39>>
+温泉, 風情, 旅館
+top3 entities near to cluster41>>
+温泉, 湯, 源泉
+top3 entities near to cluster42>>
+風呂, 露天風呂, 展望
+top3 entities near to cluster43>>
+温泉地, 温泉, 温泉郷
+top3 entities near to cluster44>>
+温泉, 足湯, 湯
+top3 entities near to cluster45>>
+町, 温泉, 温泉郷
+top3 entities near to cluster46>>
+温泉, 旅館, 宿
+top3 entities near to cluster48>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster51>>
+川熱, 川, 温泉

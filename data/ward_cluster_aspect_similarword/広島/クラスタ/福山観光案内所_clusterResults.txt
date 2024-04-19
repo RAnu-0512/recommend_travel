@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福山観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+福山観光案内所, 観光案内所
+cluster1:(5)
+鞆, 福山, 福山城, 福山駅, 浦
+cluster2:(2)
+改札口, 改札
+cluster3:(2)
+案内, 案内所
+cluster4:(3)
+資料, 職員, パンフレット類
+cluster5:(5)
+通路, 地図, 駅, バス, 場所
+cluster6:(1)
+易さ
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

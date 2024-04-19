@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋田農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供達, 孫, 子供
+cluster1:(4)
+中学生, 高校生, 富士山, スーパー
+cluster2:(3)
+イチゴ, ハウス, いちご
+cluster3:(1)
+苺
+cluster4:(1)
+農園
+cluster5:(1)
+ちご
+cluster6:(1)
+紅ほっぺ
+cluster7:(14)
+予約時間, 暖冬, 満足度, 姿, 時期, こと, 対応, もの, 問題, 電話, 中, 影響, 場所, 天気
+cluster8:(3)
+イチゴ狩り体験, いちご狩り, 河津桜
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 4entities.

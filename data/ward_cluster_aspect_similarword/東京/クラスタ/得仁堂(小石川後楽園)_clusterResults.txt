@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:得仁堂(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水戸光圀, 水戸黄門様こと水戸光圀公
+cluster1:(2)
+伯夷列伝, 伯夷
+cluster2:(18)
+感銘, 場所, 堂, 屋根, 叔斉, 建物, 関東大震災, 戦災, 関東だ震災, 小石川後楽園, ところ, 紅葉, 木像, 奥, 仁堂, 園内最古, 史記, 園内
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

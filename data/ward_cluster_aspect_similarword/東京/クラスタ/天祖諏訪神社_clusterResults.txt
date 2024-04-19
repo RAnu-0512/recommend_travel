@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天祖諏訪神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+立会川駅, 東海道, 左手, 七福神巡り, 天照大御神, 立会川, 七福神, もの, 跡
+cluster1:(5)
+神社, 主祭神, 美神, 摂社, 境内
+cluster2:(3)
+小碓命, 京急, 東海七
+cluster3:(10)
+北浜川鎮守, 天祖神社, 建御名方命, 南浜川鎮守, 天祖諏訪神社, 厳島神社, 建御名方, 福禄寿, 豊受大神, 諏訪神社
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

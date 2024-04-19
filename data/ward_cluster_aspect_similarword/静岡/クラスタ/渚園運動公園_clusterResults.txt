@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渚園運動公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 大型駐車場
+cluster1:(2)
+渚園, 渚園運動公園
+cluster2:(3)
+学生達, 運動施設, 練習試合
+cluster3:(2)
+敷地, 屋外
+cluster4:(5)
+緑, 場所, 浜名湖, 運動公園, サッカー
+cluster5:(1)
+野球
+cluster6:(1)
+本格型
+cluster7:(1)
+市民憩い
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 9entities.

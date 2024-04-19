@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土生玄碩墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+正面, 説明板, 石碑, 場所, 右手, 新大橋, 北西側, 眼疾, 南東沿い, 墓, 指定旧跡, 折, 高さ, 本願寺, 正門, 中, こと, 右隣り, 境内
+cluster1:(2)
+西洋眼科, 眼科医
+cluster2:(2)
+築地3丁目, 築地本願寺
+cluster3:(2)
+東京都, 中央区
+cluster4:(1)
+江戸時代後期
+cluster5:(1)
+将軍徳川家慶
+cluster6:(1)
+土生玄碩
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 7
+deleted 0entities.

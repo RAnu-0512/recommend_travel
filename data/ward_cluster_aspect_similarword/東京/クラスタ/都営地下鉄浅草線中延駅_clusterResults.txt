@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営地下鉄浅草線中延駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+中延駅, 東急線, 大井町線
+cluster1:(2)
+無人改札, 改札
+cluster2:(3)
+駅, あり 車, 徒歩
+cluster3:(12)
+エスカレーター, 地上, 浅草線, エレベーター, 本屋, トイレ, 入り口, 地下鉄, 周り, 時間, 乗り換え, 階段
+cluster4:(1)
+都営
+cluster5:(3)
+店, 商店街, 飲食店
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 6
+deleted 0entities.

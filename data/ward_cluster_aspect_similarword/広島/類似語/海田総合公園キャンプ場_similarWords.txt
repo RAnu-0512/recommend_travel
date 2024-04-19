@@ -1,0 +1,13 @@
+--------------------similar_words:海田総合公園キャンプ場--------------------
+top3 entities near to cluster0>>
+テント場, キャンプ場, キャンプ, テント
+top3 entities near to cluster1>>
+整備, 改修, 拡充
+top3 entities near to cluster2>>
+森林, 山林, 林業
+top3 entities near to cluster3>>
+木陰, 日陰, 木蔭
+top3 entities near to cluster4>>
+対策, 害虫
+top3 entities near to cluster5>>
+総合, 公園, 運動公園

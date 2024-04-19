@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆の国市歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊豆の国市, 国市
+cluster1:(3)
+静岡県, 伊豆, 韮山町
+cluster2:(12)
+歴史, ブルーシート, 立ち入り, 民俗資料館, 事, 茶屋, 建築物, 屋根, 禁止, 老朽化, 公園, 文化
+cluster3:(1)
+蛭ヶ島公園
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 3entities.

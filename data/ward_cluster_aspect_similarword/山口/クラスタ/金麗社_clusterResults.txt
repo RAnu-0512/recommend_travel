@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金麗社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+所, 場所
+cluster1:(2)
+太田川, 相手方
+cluster2:(1)
+神社
+cluster3:(1)
+本陣
+cluster4:(1)
+内戦
+cluster5:(1)
+長州藩
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

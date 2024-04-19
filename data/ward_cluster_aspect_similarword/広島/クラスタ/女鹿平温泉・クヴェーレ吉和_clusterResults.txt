@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:女鹿平温泉・クヴェーレ吉和>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水着, 水着着用
+cluster1:(2)
+帰り, 疲れ
+cluster2:(3)
+方, ほう, 普通
+cluster3:(2)
+家族, 食事
+cluster4:(11)
+クアガーデン, ゾーン, リピーター, スキー, スノボー, スキーシーズン, すべすべ, スタッフ, ドライブ, 気持ち, レンタル
+cluster5:(4)
+男女, 肌, 紅葉, 冬場
+cluster6:(1)
+ウッドワン美術館
+cluster7:(11)
+湯来温泉, 広島市, 広島県, 泉質, ひらスキー場, 温泉, 湯, 天然温泉, 女鹿, 風呂, 女鹿平スキー場
+cluster8:(1)
+女鹿平温泉・クヴェーレ吉和
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 9
+deleted 0entities.

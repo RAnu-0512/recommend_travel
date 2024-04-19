@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松市福祉交流センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+コンサート, 印象, 会合, コンサートホール, バリアフリー, 狭, ホール
+cluster1:(5)
+駐車場, 福祉関係, 高齢化, 施設全体, NPO主催イベント
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

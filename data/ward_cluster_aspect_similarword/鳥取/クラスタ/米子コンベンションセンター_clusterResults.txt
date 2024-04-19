@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米子コンベンションセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+米子コンベンションセンター, 米子駅
+cluster1:(2)
+鳥取, 鳥取県
+cluster2:(2)
+農, 食
+cluster3:(3)
+馬, 大型, 鳥
+cluster4:(17)
+前店, 建物, フリーマーケット, ホール, 駅, フェスタ, 訪問, イベント, イオン, 会場, コンサート, 隣, 小ホール, 近く, 周囲, イベントホール, ホテル
+cluster5:(7)
+歩道, 屋外, 屋内, 施設, 彫刻ロード, 景観, コンベンション施設
+cluster6:(3)
+エサやり, 駐車場, 多目的ホール
+cluster7:(1)
+道中文化ホール前広場
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 8
+deleted 0entities.

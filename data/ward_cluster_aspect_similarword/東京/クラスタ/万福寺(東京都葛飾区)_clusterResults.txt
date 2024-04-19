@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:万福寺(東京都葛飾区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光, 散歩コース
+cluster1:(3)
+本堂, 山門, 寺
+cluster2:(3)
+神社, 参拝, 境内
+cluster3:(3)
+長寿, 幸福, 利益
+cluster4:(19)
+曹洞宗, 場所, 落ち着き, 建物, 南側, ひとつ, 人, 寿老人, 間, ところ, 大黒天, 万福寺, 中, 七福神, 神, 石像, 雰囲気, 風情, 帝釈天
+cluster5:(2)
+住宅地, 住宅街
+cluster6:(2)
+御開帳, 七福神の一人
+cluster7:(2)
+葛飾区, 宝生院
+cluster8:(2)
+福禄寿, 柴又七福神の福禄寿
+cluster9:(4)
+柴又駅, 柴又観光, 柴又帝釈天, 柴又
+cluster10:(3)
+柴又七福神巡り, 柴又七福神社, 柴又七福神めぐり
+cluster11:(3)
+京成柴又駅, 高砂〜柴又, 葛飾柴又
+
+howmany entities : 48
+howmany clusters : 12
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 12
+deleted 0entities.

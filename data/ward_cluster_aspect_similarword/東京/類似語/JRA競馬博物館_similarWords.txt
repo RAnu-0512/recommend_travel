@@ -1,0 +1,25 @@
+--------------------similar_words:JRA競馬博物館--------------------
+top3 entities near to cluster0>>
+競走馬, 競走, 競馬
+top3 entities near to cluster1>>
+競馬, 観戦, 馬券
+top3 entities near to cluster2>>
+競馬, 馬券, 騎手
+top3 entities near to cluster3>>
+競馬, 競輪, 中継
+top3 entities near to cluster4>>
+競馬歴, 競馬, 馬券
+top3 entities near to cluster7>>
+子供, 子ども, 家族
+top3 entities near to cluster8>>
+記念, 館, 周年
+top3 entities near to cluster9>>
+遊具, 公園, 遊歩道
+top3 entities near to cluster10>>
+敷地, 施設, 館内
+top3 entities near to cluster11>>
+北門, 裏手, 正門
+top3 entities near to cluster12>>
+競馬, イベント, レース
+top3 entities near to cluster15>>
+展示, 入場, 展覧

@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜名湖体験学習施設「ウォット」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+駐車場, 敷地, 入口, 研究施設, 館内スタンプ, 渚園, 施設, 展望デッキ
+cluster1:(2)
+子供達, 子供たち
+cluster2:(14)
+勉強, 事, 学習, 姿, ほか, 地元, こと, 見学, 体験, 種類, 各種, 以下, 構造, 方
+cluster3:(3)
+魚, エサ, 海
+cluster4:(9)
+イベント, ショップ, こじんまり, コーナー, 親子連れ, ミシシッピアカミミガメ, ネット, オススメ, エリア
+cluster5:(4)
+子ども, 高校生, 夏休み, こども
+cluster6:(2)
+熱帯魚, 水族館
+cluster7:(4)
+生き物, ヒトデ, ウナギ, クサガメ
+cluster8:(1)
+浜名湖
+cluster9:(1)
+スタンプラリー
+cluster10:(4)
+家族, 子, 大人, 子供
+cluster11:(2)
+料理, 旅行
+cluster12:(1)
+浜松
+cluster13:(1)
+お腹
+cluster14:(2)
+展示イベント, 展示数
+cluster15:(2)
+特別展, 企画展
+cluster16:(1)
+体験型水族館
+cluster17:(1)
+解放実験室
+cluster18:(1)
+外来生物展
+cluster19:(4)
+水槽, ふれあい水槽, 大水槽, 渓流水槽
+cluster20:(3)
+現在ふぐ, フグ, フグ展
+
+howmany entities : 70
+howmany clusters : 21
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 9
+deleted 17entities.

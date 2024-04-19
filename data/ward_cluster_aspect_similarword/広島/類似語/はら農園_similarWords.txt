@@ -1,0 +1,11 @@
+--------------------similar_words:はら農園--------------------
+top3 entities near to cluster0>>
+食べ放題, 食べ, 狩り
+top3 entities near to cluster1>>
+農園, 栽培
+top3 entities near to cluster2>>
+大粒, 小粒
+top3 entities near to cluster3>>
+美味, 期間, 美味しい
+top3 entities near to cluster4>>
+制限, 時間, 制約

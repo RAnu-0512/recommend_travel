@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津波敷温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海, サザエ, アワビ
+cluster1:(2)
+食事, 温泉
+cluster2:(1)
+刺身
+cluster3:(1)
+食べごたえ
+cluster4:(1)
+津波敷温泉
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉吉関金都市交流センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+昼食, 交流センター, 隣, イベント, せき, 温泉, イベントホール, 近く
+cluster1:(2)
+倉吉市, 山陰KAMIあかり
+cluster2:(1)
+にせき
+cluster3:(7)
+展示室, 日帰り入浴施設, 郷土資料, 関金都市交流センター, 湯命館, 駐車場, 展示ホール
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あめかんむり>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+体験, 作業, 旅行, アクセサリー作り
+cluster1:(2)
+種類, 時間
+cluster2:(2)
+もの, 気
+cluster3:(2)
+ワークショップ, アクセサリー
+cluster4:(2)
+キーホルダー, ぬいぐるみ
+cluster5:(1)
+スタッフ
+cluster6:(1)
+友人
+cluster7:(1)
+絵
+cluster8:(2)
+青, ねこ
+cluster9:(5)
+和紙, 尾道, 和紙アクセサリー, 尾道旅行, 猫雑貨
+
+howmany entities : 22
+howmany clusters : 10
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 10
+deleted 0entities.

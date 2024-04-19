@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十王子神社のイチョウ・クス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+王子神社, 神社
+cluster1:(2)
+イチョウ, 中学校
+cluster2:(1)
+銀杏
+cluster3:(1)
+木
+cluster4:(1)
+今泉
+cluster5:(1)
+富士市
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

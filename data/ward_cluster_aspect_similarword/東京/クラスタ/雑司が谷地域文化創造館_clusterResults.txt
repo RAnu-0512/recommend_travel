@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雑司が谷地域文化創造館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+東京メトロ, 東京さくらトラム, 雑司, 至近, 谷駅
+cluster1:(3)
+会議室, 施設, 公共施設
+cluster2:(1)
+副都心線
+cluster3:(1)
+鬼子母神道前停留場
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

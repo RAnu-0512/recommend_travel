@@ -1,0 +1,29 @@
+--------------------similar_words:小室山公園のつつじ--------------------
+top3 entities near to cluster0>>
+香り, 甘い, 匂い
+top3 entities near to cluster1>>
+つつじ, あじさい, ツツジ
+top3 entities near to cluster4>>
+家族
+top3 entities near to cluster5>>
+間程度, 間, 部分
+top3 entities near to cluster6>>
+たくさん, 種類
+top3 entities near to cluster7>>
+入口付近, 入り口付近, 入口, 入り口
+top3 entities near to cluster8>>
+頃, 子供, ころ
+top3 entities near to cluster9>>
+公園, 園内
+top3 entities near to cluster10>>
+祭り, まつり
+top3 entities near to cluster11>>
+階段, 上り, 展望
+top3 entities near to cluster12>>
+道路, 渋滞, 通行止め
+top3 entities near to cluster14>>
+山頂, 頂上, 中腹
+top3 entities near to cluster15>>
+絶景, 満開, 景色
+top3 entities near to cluster16>>
+駐車場, 駐車, 駅前

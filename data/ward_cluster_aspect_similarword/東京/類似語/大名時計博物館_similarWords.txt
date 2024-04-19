@@ -1,0 +1,7 @@
+--------------------similar_words:大名時計博物館--------------------
+top3 entities near to cluster0>>
+時計, 腕時計, 柱時計
+top3 entities near to cluster1>>
+時計師, 魔術師, 時計, 魔術
+top3 entities near to cluster2>>
+建物, 入り口, 裏手

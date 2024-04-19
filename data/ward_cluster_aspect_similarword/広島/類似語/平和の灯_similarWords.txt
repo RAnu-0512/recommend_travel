@@ -1,0 +1,7 @@
+--------------------similar_words:平和の灯--------------------
+top3 entities near to cluster0>>
+中央火, 中央付近, 中央
+top3 entities near to cluster2>>
+原爆, 被爆, 反核
+top3 entities near to cluster3>>
+平和, 慰霊, 公園

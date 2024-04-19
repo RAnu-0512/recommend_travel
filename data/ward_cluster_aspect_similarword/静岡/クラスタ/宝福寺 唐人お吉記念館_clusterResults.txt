@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝福寺 唐人お吉記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+唐人, お吉ゆかり, お吉, 坂本竜馬, 唐人お吉, 勝海舟, 山内容堂, ハリスとお吉, 龍馬, 宝福寺
+cluster1:(9)
+幕末, 舞台, 時代背景, 歴史, 後世, 題材, 時代, 小説, 歴史人物
+cluster2:(13)
+こと, 扱い, 品々, 写真, もの, 一角, 会見場所, 謁見, 中, 関係, 印象, 場所, 間
+cluster3:(6)
+人生, 身, 運命, 生涯, 自ら命, 胸
+cluster4:(2)
+墓, 亡骸
+cluster5:(2)
+境内, 住職
+cluster6:(3)
+総領事, 政府, 総領事ハリス
+cluster7:(4)
+大人, 女性, 着物, 人
+cluster8:(9)
+玉泉寺, 他, 変革期, 吉, ハリス, 日本, 伊豆下田, 菩提寺, アメリカ
+cluster9:(1)
+下田
+cluster10:(1)
+待妾
+cluster11:(8)
+関連資料, 入館料, 資料, 入館者, お吉記念館, 関係資料, 資料館, 記念館
+
+howmany entities : 68
+howmany clusters : 12
+howmany entities (more than3entities) : 62
+howmany clusters (more than3entities) : 8
+deleted 6entities.

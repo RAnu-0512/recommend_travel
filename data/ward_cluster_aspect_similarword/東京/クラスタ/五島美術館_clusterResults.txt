@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五島美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史画, 日本画展
+cluster1:(2)
+作品, 人物
+cluster2:(3)
+お気に入り, こと, ひととき
+cluster3:(1)
+近代
+cluster4:(1)
+国立美術館
+cluster5:(3)
+川端龍子, 川合玉堂, 寺崎広業
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

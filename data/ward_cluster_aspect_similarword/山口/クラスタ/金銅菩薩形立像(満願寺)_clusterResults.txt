@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金銅菩薩形立像(満願寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+霊臺寺, 坊さん, 観音堂, 扱い, 満願寺, 萩
+cluster1:(2)
+廃寺, 札所
+cluster2:(1)
+境外仏堂
+cluster3:(1)
+周防国三十三観音霊場
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

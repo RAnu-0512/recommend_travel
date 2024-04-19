@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:穴澤天神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+水, 場所, 人, よみうりランド, 南武線, 湧き水, 今回, 方, 雰囲気, 宝物殿, 弁天
+cluster1:(7)
+洞窟, 里山, 歩道, 車, 地図, 道, 階段
+cluster2:(1)
+煮沸
+cluster3:(1)
+後ろ側
+cluster4:(4)
+矢野口駅, 住宅地, 徒歩, 京王よみうりランド駅
+cluster5:(10)
+神社, 山王神社, 川沿い, 穴澤天神, 鳥居, 初詣, 三沢川, 社殿, 境内, 御正月
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 6
+deleted 0entities.

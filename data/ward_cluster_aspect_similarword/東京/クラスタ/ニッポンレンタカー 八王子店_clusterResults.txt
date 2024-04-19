@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 八王子店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+京王八王子駅, JR八王子駅
+cluster1:(2)
+実家, 夫
+cluster2:(3)
+店, 車, 場所
+cluster3:(6)
+方, 対応, 申し込み, 感じ, レンタカー, 八王子
+cluster4:(2)
+唯一, 中間
+cluster5:(2)
+営業所, 駐車場
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

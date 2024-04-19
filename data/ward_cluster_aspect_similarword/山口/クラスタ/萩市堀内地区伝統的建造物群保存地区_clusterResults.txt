@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩市堀内地区伝統的建造物群保存地区>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+山口, 宮島 2, 角島大橋, 萩・津和野, 堀内, レンタカ, 萩, 山口駅
+cluster1:(14)
+町並み, 堀之内, 昔, JR, ツアー, ポスター, 他, 次, ママチャリ, タイム, ホテル, レンタサイクル, 城下町, あちこち
+cluster2:(2)
+路地, 街
+cluster3:(2)
+場所, 建物
+cluster4:(2)
+日程, 住所
+cluster5:(1)
+塀
+cluster6:(2)
+旅行社, 鍵曲
+cluster7:(1)
+変速機
+cluster8:(3)
+津和野⇒萩⇒元乃隅稲成神社, 萩の建造物保存地区, 萩市堀内地区
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 9
+deleted 0entities.

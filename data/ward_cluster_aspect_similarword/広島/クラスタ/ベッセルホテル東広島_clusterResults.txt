@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベッセルホテル東広島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鍋, 手袋
+cluster1:(6)
+対策, 種類, 主人, 家族, 食べ物, コロナ
+cluster2:(5)
+朝食, ご飯派, ご飯, 食事, 洋食
+cluster3:(1)
+美酒鍋
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

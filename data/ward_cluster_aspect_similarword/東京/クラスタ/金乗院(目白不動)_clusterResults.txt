@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金乗院(目白不動)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅地, 住宅街
+cluster1:(16)
+荒川線, 最寄り駅, 戦災, 家, 都電, 奥, 不動明王, 趣, エリア, 付近, 懐かしさ, こと, 雰囲気, 明治, 階段, 建て替え
+cluster2:(2)
+墓地, 墓
+cluster3:(3)
+本堂, 山門, 境内
+cluster4:(2)
+寺院, 寺
+cluster5:(1)
+本尊
+cluster6:(1)
+宿坂
+cluster7:(7)
+豊島区, 目白不動, 目白不動堂, 学習院, 目白不動明王像, 金乗院, 真言宗豊山派
+cluster8:(1)
+江戸五色不動巡りのため目白
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 9
+deleted 0entities.

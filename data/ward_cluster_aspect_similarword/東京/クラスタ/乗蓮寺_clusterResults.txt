@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乗蓮寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光地, 冒険家, 子供たち
+cluster1:(4)
+場, 駅, 車, 出口
+cluster2:(4)
+場所, 辺, 近く, 近辺
+cluster3:(10)
+関東大震災, 人, 他, ところ, 美術館, 最寄り, 中, 物, 友人, あちこち
+cluster4:(1)
+願い
+cluster5:(2)
+ロゴ, 看板
+cluster6:(3)
+建物, 跡地, 敷地
+cluster7:(3)
+色彩, 条例, 迫力
+cluster8:(21)
+頭部, 池, 散策, 戦災, 東京, 震災, 滝, 墓, 鎌倉, 寺, 屋台, 初詣, 鯉, 現地, 日本, 奈良, 石像, 城, 境内, 青銅, 黄葉
+cluster9:(2)
+阿弥陀如来坐像, 大きさ
+cluster10:(18)
+地下鉄有楽町線, 赤塚梅まつり, 植村直己, 板橋, 大仏, 鋳物大仏, 地下鉄赤塚駅, 東京大空襲, 乗蓮寺, 板橋区, 赤塚駅, 鋳造大仏, 大仏様, 鎌倉大仏, 東武線, 東武東上線, 赤塚, 東京大仏
+
+howmany entities : 71
+howmany clusters : 11
+howmany entities (more than1entities) : 71
+howmany clusters (more than1entities) : 11
+deleted 0entities.

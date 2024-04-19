@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:代々木八幡遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+竪穴式, 竪穴式住居
+cluster1:(3)
+作成縄文時代, 縄文, 縄文時代
+cluster2:(3)
+代々木八幡宮, 八幡, 八幡宮のあたり
+cluster3:(4)
+神社, 代々木八幡神社, 参道, 境内
+cluster4:(1)
+代々木儀八幡宮
+cluster5:(4)
+遺跡, 建物, 地形, 住居
+cluster6:(5)
+後世, 場所, 想像, 思い, 時代
+cluster7:(6)
+代々木八幡, 代々木, 丘, 代官山, 海, 階段
+cluster8:(1)
+藁葺き
+cluster9:(1)
+猿楽塚
+
+howmany entities : 30
+howmany clusters : 10
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大札山のアカヤシオ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+総称, 自然, ムラサキヤシオツツジ, ヤシオツツジ, 中, 可憐, アカヤシオ, 種, それぞれ, 薄曇り, シロヤシオ
+cluster1:(2)
+晴天, 登山
+cluster2:(1)
+大札山
+cluster3:(1)
+ツツジ科ツツジ属
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 4entities.

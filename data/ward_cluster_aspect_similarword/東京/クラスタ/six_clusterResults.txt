@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:six>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+感じ, もの
+cluster1:(2)
+ステーショナリー, 自由が丘
+cluster2:(1)
+子ども
+cluster3:(1)
+中心
+cluster4:(1)
+男性
+cluster5:(1)
+店
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

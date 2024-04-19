@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取ぽかぽか温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+近場, 大型店舗, 男女共用
+cluster1:(7)
+塩サウナ, 湿度, 炭ジュース, サウナ, 風呂, コラーゲン鍋, 塩もみサウナ
+cluster2:(19)
+ショップ, コース, オルゴール, 気, ジュース, 次, レストラン, 飲み物, 余裕, ウォーターサーバー, 隣, サービス, フレッシュジュース, 人, 調子, テレビ, オプション, 方, 普通
+cluster3:(2)
+利用時間, 時間
+cluster4:(2)
+施設, 設備
+cluster5:(8)
+旅館, 温泉地, 日帰り温泉気分, 浴場, 岩盤浴, 温泉, 熱風炉サウナ, 日帰り温泉
+
+howmany entities : 41
+howmany clusters : 6
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 6
+deleted 0entities.

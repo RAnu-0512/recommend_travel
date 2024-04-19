@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笠山噴火口>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+火口, 火口内, 火口口
+cluster1:(10)
+中, もの, 箇所, 自然, 車, 遊歩道, 日本, 噴火口, へぇ, 近く
+cluster2:(5)
+階段, 山頂, 笠山, 頂上, 火山
+cluster3:(1)
+世界最小
+cluster4:(1)
+笠山山頂園地
+cluster5:(1)
+北長門海岸国定公園
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

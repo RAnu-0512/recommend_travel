@@ -1,0 +1,39 @@
+--------------------similar_words:土師ダム--------------------
+top3 entities near to cluster0>>
+ダム, ダムサイト, 小里川
+top3 entities near to cluster1>>
+子供, 家族, 子ども
+top3 entities near to cluster3>>
+花見, 満開, 見頃
+top3 entities near to cluster4>>
+サイクリング, 自転車, 遊歩道
+top3 entities near to cluster6>>
+金水, 土水, 金, 土
+top3 entities near to cluster7>>
+季節, 時期, 時季
+top3 entities near to cluster10>>
+出店, 大会, 出展
+top3 entities near to cluster11>>
+持参, 購入, 訪問
+top3 entities near to cluster12>>
+転換, 気分, 解消
+top3 entities near to cluster13>>
+勧め, 奨め, 薦め
+top3 entities near to cluster15>>
+湖畔, 湖, 町
+top3 entities near to cluster16>>
+遊具, 公園, 広場
+top3 entities near to cluster17>>
+土産, 名所, 弁当
+top3 entities near to cluster18>>
+道路, 自動車
+top3 entities near to cluster19>>
+家族, 子供
+top3 entities near to cluster20>>
+生活, 食事, 食生活
+top3 entities near to cluster21>>
+その道, 道路
+top3 entities near to cluster22>>
+気温, 気候, ダウ
+top3 entities near to cluster23>>
+駐車場, 駐車, 場裏

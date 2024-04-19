@@ -1,0 +1,9 @@
+--------------------similar_words:畑毛温泉--------------------
+top3 entities near to cluster0>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster1>>
+温泉, 露天風呂, 宿泊
+top3 entities near to cluster2>>
+源泉, 温度, 気温
+top3 entities near to cluster3>>
+湯船, 浴槽, 風呂

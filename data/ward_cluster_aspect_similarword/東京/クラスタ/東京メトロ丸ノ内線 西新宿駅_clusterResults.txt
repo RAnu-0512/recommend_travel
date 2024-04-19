@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸ノ内線 西新宿駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+オフィス街, ビル
+cluster1:(4)
+所, 北側, 隣, 近辺
+cluster2:(8)
+地下道, 人, アクセス, 仕事, ランチ, 発見, アイランドタワー, 西新宿
+cluster3:(3)
+ブラブラ散歩, 天気, 混雑
+cluster4:(8)
+新宿駅, 都庁, 東京メトロ丸ノ内線, 駅, 静かな駅, 江戸線, 西新宿駅, 新宿
+cluster5:(4)
+高層ビル群, 高層ビル街, 江戸線都庁前駅, 高層ビル
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 6
+deleted 0entities.

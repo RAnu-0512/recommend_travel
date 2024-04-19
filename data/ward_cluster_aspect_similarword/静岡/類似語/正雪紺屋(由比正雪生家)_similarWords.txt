@@ -1,0 +1,11 @@
+--------------------similar_words:正雪紺屋(由比正雪生家)--------------------
+top3 entities near to cluster0>>
+時代, 歴史, 人々
+top3 entities near to cluster1>>
+家業, 生家, 名声
+top3 entities near to cluster3>>
+藍, 慶安, 変
+top3 entities near to cluster4>>
+幕府, 軍学, 時代
+top3 entities near to cluster5>>
+正雪, 紺屋, 清水

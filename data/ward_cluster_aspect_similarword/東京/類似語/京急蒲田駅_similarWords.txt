@@ -1,0 +1,27 @@
+--------------------similar_words:京急蒲田駅--------------------
+top3 entities near to cluster2>>
+アーケード, エスカレーター, アーケイド
+top3 entities near to cluster4>>
+最寄り駅, 乗り換え, アクセス
+top3 entities near to cluster7>>
+ホテル, 行き先, 買い物
+top3 entities near to cluster8>>
+空港線, 羽田線, 空港
+top3 entities near to cluster9>>
+看板, 店構え
+top3 entities near to cluster10>>
+写真, 画像, 風景
+top3 entities near to cluster11>>
+周辺, 近辺
+top3 entities near to cluster12>>
+電車, 直通, 列車
+top3 entities near to cluster14>>
+駅, 駅前, 構内
+top3 entities near to cluster17>>
+区, 区内, 都
+top3 entities near to cluster18>>
+案内, 宿泊, 名所
+top3 entities near to cluster19>>
+快, 特, 互服
+top3 entities near to cluster20>>
+温泉, 餃子, 中華

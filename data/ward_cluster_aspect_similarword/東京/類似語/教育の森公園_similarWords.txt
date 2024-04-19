@@ -1,0 +1,17 @@
+--------------------similar_words:教育の森公園--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 家族
+top3 entities near to cluster1>>
+度合い, 雰囲気, サイン
+top3 entities near to cluster2>>
+自転車, 車椅子, スポーツ
+top3 entities near to cluster3>>
+投光器, ポート, グレア
+top3 entities near to cluster5>>
+都会, 水辺, 自然
+top3 entities near to cluster6>>
+入口, 入り口, 裏手
+top3 entities near to cluster7>>
+改修, 工事, 設計
+top3 entities near to cluster8>>
+公園, 広場, 遊歩道

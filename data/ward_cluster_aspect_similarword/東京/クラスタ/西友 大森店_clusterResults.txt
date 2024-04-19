@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西友 大森店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+本, 感じ, バスターミナル先, もの
+cluster1:(11)
+スケートリンク, フィギュア, アトレ, ヤマダ電機, 買い物, 買い物フロア, 若者, デパート, ブックオフ, ファッション, シリーズ
+cluster2:(5)
+食品, 西友, 肌着, 地下, 営業
+cluster3:(3)
+駅直結, 駅, 中央口
+cluster4:(3)
+ヤマダ電気, 部屋着, フロア床
+cluster5:(3)
+JR大森駅, 食料品売り場, 子連れ高齢者
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 6
+deleted 0entities.

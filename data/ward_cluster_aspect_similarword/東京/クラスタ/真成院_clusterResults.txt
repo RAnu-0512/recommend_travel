@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真成院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観音坂, 観音坂脇
+cluster1:(3)
+潮, 寺, 観音
+cluster2:(4)
+途中, 由来, 台座, 名前
+cluster3:(4)
+ビル, 四ツ谷駅, 建物, 建築
+cluster4:(1)
+満ち引き
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

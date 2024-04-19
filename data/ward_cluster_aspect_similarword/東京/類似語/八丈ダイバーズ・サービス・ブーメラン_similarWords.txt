@@ -1,0 +1,25 @@
+--------------------similar_words:八丈ダイバーズ・サービス・ブーメラン--------------------
+top3 entities near to cluster0>>
+呼吸, 水中, 息継ぎ
+top3 entities near to cluster1>>
+世話, 道具, メモ
+top3 entities near to cluster2>>
+ダイバー, ダイビング, スノーケラー
+top3 entities near to cluster3>>
+スケジュール, インストラクター, ドラマフィッシュ
+top3 entities near to cluster4>>
+話人, 家族, 話
+top3 entities near to cluster6>>
+お客, 外客, 乗客
+top3 entities near to cluster7>>
+金, 金火, 土
+top3 entities near to cluster8>>
+息子, 娘, 子供
+top3 entities near to cluster9>>
+記念, 撮影, 写真
+top3 entities near to cluster10>>
+魚類, サカナ
+top3 entities near to cluster11>>
+海, 陸, 海辺
+top3 entities near to cluster12>>
+浅, 噛締, 利す

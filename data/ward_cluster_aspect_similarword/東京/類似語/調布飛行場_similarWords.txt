@@ -1,0 +1,13 @@
+--------------------similar_words:調布飛行場--------------------
+top3 entities near to cluster0>>
+陸軍, 五, 四
+top3 entities near to cluster3>>
+公園, 遊歩道, 散歩
+top3 entities near to cluster4>>
+空港, 国内線, 国際線
+top3 entities near to cluster5>>
+バス, 電気, タクシー
+top3 entities near to cluster6>>
+重量, 機体
+top3 entities near to cluster7>>
+滑走路, 滑走, 従走

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観蔵寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+感じ, 事, 悪さ, 態度, 方, 対応, 無視, 覚悟
+cluster1:(2)
+前回, 次
+cluster2:(5)
+お詫び, 口コミ, 相変わらず, 奥さん, サークル
+cluster3:(2)
+寿老人, 御朱印
+cluster4:(1)
+奥様
+cluster5:(4)
+心, 念, 寺, 神
+cluster6:(2)
+七福神巡り, 神巡り
+cluster7:(2)
+柴又七福神, 又 柴又七福神巡り
+cluster8:(1)
+京成高砂駅
+cluster9:(1)
+僧空性坊
+
+howmany entities : 28
+howmany clusters : 10
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:室崎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+富士山, 駿河湾
+cluster1:(1)
+対岸
+cluster2:(1)
+南アルプス
+cluster3:(1)
+展望台
+cluster4:(1)
+国道沿い
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

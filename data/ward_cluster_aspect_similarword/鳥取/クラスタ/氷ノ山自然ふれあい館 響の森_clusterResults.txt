@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:氷ノ山自然ふれあい館 響の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+生き物, ジオラマ
+cluster1:(1)
+ノーム
+cluster2:(1)
+自然
+cluster3:(1)
+森
+cluster4:(1)
+展示
+cluster5:(1)
+響
+cluster6:(1)
+小人
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

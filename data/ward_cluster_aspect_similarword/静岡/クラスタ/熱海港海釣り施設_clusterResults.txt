@@ -1,0 +1,72 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海港海釣り施設>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+釣り道具一式レンタルあり, サビキ釣り, 堤防釣り施設, 小物釣り, 釣り道具, 釣り座側, 浮き釣り, 釣り施設, 釣り, 釣り方, 釣り公園, 海釣り, 釣りスポット
+cluster1:(2)
+子供, 子
+cluster2:(3)
+魚釣り, 釣り場, 釣り竿
+cluster3:(4)
+まわり, 真ん中, 大きめ, サクッ
+cluster4:(2)
+スペース, レンタル
+cluster5:(2)
+発泡スチロール, レジャースポット
+cluster6:(2)
+ソウダガツオ, ネンブツダイ
+cluster7:(1)
+スタッフ
+cluster8:(1)
+スポット
+cluster9:(1)
+フェンス
+cluster10:(2)
+トイレ, 仕掛け
+cluster11:(1)
+イワシ
+cluster12:(4)
+初心者, 地元民, 子連れ, 手ぶら
+cluster13:(1)
+ライフジャケット
+cluster14:(2)
+バス, 水道
+cluster15:(1)
+イカ
+cluster16:(9)
+受付, 店員, 販売, 態度, 返事, 対応, 声, 休憩スペース, 到着
+cluster17:(2)
+あり風, 何か
+cluster18:(2)
+安全, 安心
+cluster19:(10)
+流れ, 多く, 人, 謎, 方, 気, 悪さ, 感じ, こと, 人気
+cluster20:(3)
+施設, 場所, 道具
+cluster21:(2)
+気分, 景色
+cluster22:(6)
+最後, 徒歩, 前, 目, 日, 近く
+cluster23:(2)
+間隔, 突起
+cluster24:(1)
+高さ
+cluster25:(2)
+竿, 竿立て
+cluster26:(3)
+エサ, 餌, 釣果
+cluster27:(3)
+柵, ヒザ, 堤防
+cluster28:(5)
+魚, 海風, 波, 潮, 海
+cluster29:(1)
+サビく
+cluster30:(9)
+入場料, タメ口, 料理屋, 管理棟, 在来線, 駐車場, 東京方面, 子供達, 子供たち
+cluster31:(4)
+熱海駅, 熱海港, 熱海ロープウェイ, 熱海海
+
+howmany entities : 106
+howmany clusters : 32
+howmany entities (more than3entities) : 76
+howmany clusters (more than3entities) : 13
+deleted 30entities.

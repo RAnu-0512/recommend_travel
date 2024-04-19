@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神谷神明宮のムクノキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+形, ムクノキ
+cluster1:(1)
+境内
+cluster2:(1)
+樹幹
+cluster3:(1)
+樹齢
+cluster4:(1)
+長さ
+cluster5:(1)
+富士市
+cluster6:(1)
+神谷神明宮
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

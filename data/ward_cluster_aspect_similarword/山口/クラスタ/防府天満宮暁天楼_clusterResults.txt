@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:防府天満宮暁天楼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+参道, 階段, 階段途中
+cluster1:(2)
+幕末, 大正
+cluster2:(2)
+手法, 作り
+cluster3:(3)
+場所, 途中, 入口
+cluster4:(5)
+間取り, 人物, 人, 歴史, 建物
+cluster5:(1)
+庭
+cluster6:(1)
+足
+cluster7:(1)
+必見
+cluster8:(1)
+密談
+cluster9:(1)
+絵図面
+cluster10:(6)
+芳松庵, 高杉晋作, 桂小五郎, 坂本龍馬, 圓樂坊跡, 防府天満宮の
+
+howmany entities : 26
+howmany clusters : 11
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 11
+deleted 0entities.

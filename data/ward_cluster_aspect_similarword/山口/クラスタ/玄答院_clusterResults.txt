@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玄答院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, 曹洞宗
+cluster1:(2)
+山門, 本堂
+cluster2:(1)
+歴史
+cluster3:(2)
+山口市, 仁保下郷深野
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

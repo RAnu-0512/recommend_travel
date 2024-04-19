@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸ノ内線四ツ谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+目覚まし機能, 線路, 上下差, 御所トンネル, ホーム, 路線, 近辺, トンネル, 地下鉄, 中, 南北線, 乗り換え
+cluster1:(2)
+東京メトロ丸ノ内線, 東京メトロ
+cluster2:(2)
+JR, JR線
+cluster3:(2)
+地上, 地上駅
+cluster4:(3)
+新宿駅, 四ツ谷駅, 駅
+cluster5:(1)
+乗換口
+cluster6:(1)
+中央線各駅
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

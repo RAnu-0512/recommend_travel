@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キッズユーエスランド 東京浅草店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+設備, 施設, 遊具
+cluster1:(4)
+大人, 子供, 親御, 親子
+cluster2:(5)
+地方, 旅行, 人組, 客, 店内
+cluster3:(10)
+ゲーム, 嫌がらせ, 場合, トイレ, ボールプール, 男の子, ゲームセンター, リフレッシュ先, こと, 小声
+cluster4:(2)
+店舗規模, 広さ
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

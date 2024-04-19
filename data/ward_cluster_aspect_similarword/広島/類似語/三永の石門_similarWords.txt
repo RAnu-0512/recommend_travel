@@ -1,0 +1,17 @@
+--------------------similar_words:三永の石門--------------------
+top3 entities near to cluster1>>
+散歩, てら, 出掛け
+top3 entities near to cluster2>>
+国道, 水路, 県道
+top3 entities near to cluster3>>
+歴史, 町並み, 伝統
+top3 entities near to cluster4>>
+周り, 近所
+top3 entities near to cluster6>>
+上部, 下部, 上端
+top3 entities near to cluster7>>
+レンガ造り, 煉瓦造り, レンガ, 煉瓦
+top3 entities near to cluster8>>
+石門, 八倉比賣神社, 心学
+top3 entities near to cluster9>>
+水門, 跡, 水路

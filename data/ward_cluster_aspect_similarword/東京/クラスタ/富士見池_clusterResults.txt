@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士見池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+武蔵関, 武蔵関公園
+cluster1:(3)
+花見, 桜, 満開
+cluster2:(3)
+公園, 犬, 散歩
+cluster3:(2)
+四季, 風景
+cluster4:(2)
+事, 時期
+cluster5:(3)
+多く, 人, 間
+cluster6:(1)
+名前
+cluster7:(1)
+木
+cluster8:(8)
+ボート, 富士山, まわり, 石神井川, 東伏見, ひょうたん型, サクラ, 雰囲気
+cluster9:(1)
+活気
+cluster10:(5)
+富士見池, 西武線, 池, ♪池, 湖面
+
+howmany entities : 31
+howmany clusters : 11
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:内沼きのこ園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+傘, 土産, 紙袋, 袋
+cluster1:(5)
+家, ネット, ほう, 見本, もの
+cluster2:(2)
+たけ, 椎茸
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

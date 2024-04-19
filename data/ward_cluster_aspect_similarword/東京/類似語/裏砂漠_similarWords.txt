@@ -1,0 +1,17 @@
+--------------------similar_words:裏砂漠--------------------
+top3 entities near to cluster1>>
+月面, 地球, 火星
+top3 entities near to cluster2>>
+砂地, 砂浜, 砂
+top3 entities near to cluster3>>
+景色, 風景, 絶景
+top3 entities near to cluster5>>
+地図, 雰囲気, 徒歩
+top3 entities near to cluster6>>
+自然風, 自然, 大地
+top3 entities near to cluster7>>
+温度, 体感, 気温
+top3 entities near to cluster8>>
+火口, 山頂, 火山
+top3 entities near to cluster9>>
+地理院, 地理, 国土

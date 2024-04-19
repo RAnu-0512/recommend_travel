@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三宝荒神堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+境内, 境内社
+cluster1:(9)
+中, 浅草寺, 守護神, 神, 台所, 堂, 浅草, 紫色, 旗
+cluster2:(1)
+宝蔵門
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

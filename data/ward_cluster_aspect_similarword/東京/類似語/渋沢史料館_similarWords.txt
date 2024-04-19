@@ -1,0 +1,17 @@
+--------------------similar_words:渋沢史料館--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 渋沢
+top3 entities near to cluster1>>
+入場券, 入館券, 入場, 入館
+top3 entities near to cluster3>>
+見学, 勉強, 訪問
+top3 entities near to cluster4>>
+人物, キャラクター, キャラ
+top3 entities near to cluster5>>
+建物, 邸宅, 茶室
+top3 entities near to cluster6>>
+功績, 価値, 意義
+top3 entities near to cluster7>>
+展示, 公園, 運行
+top3 entities near to cluster8>>
+史料, 資料, 経済

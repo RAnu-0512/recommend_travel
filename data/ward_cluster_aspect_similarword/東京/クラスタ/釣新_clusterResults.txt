@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:釣新>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+撮り方, 飲み放題, 満足感
+cluster1:(3)
+親, 母, 父
+cluster2:(3)
+隣, 人, 友達
+cluster3:(2)
+お話, 説明
+cluster4:(3)
+気, 特にてんぷら, 方
+cluster5:(18)
+季節, スタッフ, 金婚式, 値段, ハイボール, ところ, 天ぷら, フォトスポット, 間違い, スカイツリー, 橋, 時間, 写真, 揚げたて, 歴史, 屋形船, コース, 雰囲気
+cluster6:(6)
+女将, 旅行, 蟹, 刺身, カニ, 料理
+cluster7:(13)
+コロナ禍, 停泊, 夜桜, 景色, 船上, 名所, 台場, 船, 揺れ, 釣新, 桜, 乗船場, 夜景
+cluster8:(1)
+従業員
+
+howmany entities : 52
+howmany clusters : 9
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 9
+deleted 0entities.

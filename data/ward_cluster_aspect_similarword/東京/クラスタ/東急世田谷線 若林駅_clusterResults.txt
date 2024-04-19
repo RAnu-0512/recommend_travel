@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急世田谷線 若林駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+利用, 間, 西太子堂, 赤, パターン, 特徴
+cluster1:(2)
+信号, 踏切
+cluster2:(3)
+路線, 駅, 三軒茶屋方面
+cluster3:(2)
+環状七号線, 路面電車風
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

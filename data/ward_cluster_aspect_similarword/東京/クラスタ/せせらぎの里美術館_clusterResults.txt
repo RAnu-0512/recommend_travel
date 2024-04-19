@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:せせらぎの里美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+企画展示, 展示会
+cluster1:(3)
+民家, 建物, 家屋
+cluster2:(2)
+電車, 車
+cluster3:(8)
+ひとつ, 多摩川, アクセス, 散歩, 遊歩道, 美術館, 作り, もの
+cluster4:(1)
+作品あ
+cluster5:(1)
+奥多摩町
+cluster6:(1)
+江戸時代
+cluster7:(1)
+JR青梅線御嶽駅
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

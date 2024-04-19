@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カネカみかん狩り園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+みかん狩りそのもの, みかん狩り園
+cluster1:(14)
+みかん, 子供, みかん畑, 土産, 目, 絵, もの, テンション, 問題, 木, 三ヶ日みかん, 和歌山みかん, 湖, 傾斜
+cluster2:(2)
+駐車場, 網入り
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 4entities.

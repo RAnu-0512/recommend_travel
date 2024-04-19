@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SMILE-LABO HIROSHIMA(旧_果実の森公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+ブルーベリー狩り, いちご狩り, 梨狩り, 狩り, さくらんぼ狩り, 果物狩り
+cluster1:(9)
+練乳, 味, 肉質, 粒, 果物, それぞれ味, 酸味, 品種, 果実
+cluster2:(2)
+子ども, 食べ物
+cluster3:(5)
+スーパー, システム, ブルーベリー, スタッフ, さくらんぼ
+cluster4:(2)
+量り売り, 持ち帰り
+cluster5:(1)
+MAX
+cluster6:(1)
+道のり
+cluster7:(6)
+リンゴ, いちごハウス, イチゴ, いちご, ブドウ, ハウス
+cluster8:(2)
+外, 糞
+cluster9:(1)
+佐藤
+cluster10:(7)
+季節, 心, 園内, 時間, 場所, 風景, 動物
+cluster11:(6)
+子供, 店員, 店, 夫婦, 近所, 家族
+cluster12:(10)
+自覚, 違い, もの, 好み, 方, ほう, 目線, 他, こと, 値段
+cluster13:(7)
+購入, 案内, 対応, 体験, 説明, 味見, 受付
+cluster14:(3)
+種類, 何種類, 集合時間
+cluster15:(5)
+割高感, 大きさ, 甘さ, 入場料, 食べ放題
+
+howmany entities : 73
+howmany clusters : 16
+howmany entities (more than1entities) : 73
+howmany clusters (more than1entities) : 16
+deleted 0entities.

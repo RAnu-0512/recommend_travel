@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:於大の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+徳川家, 徳川家康, 徳川家康公
+cluster1:(2)
+於大, 於大の墓
+cluster2:(3)
+墓碑, 墓地, 墓
+cluster3:(3)
+親, 実母, 母
+cluster4:(5)
+波乱万丈, 方, 菩提寺, 歳, 生まれ
+cluster5:(1)
+生母
+cluster6:(3)
+日々, 人生, 通院
+cluster7:(1)
+生み
+cluster8:(1)
+天下
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

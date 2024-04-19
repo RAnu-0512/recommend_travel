@@ -1,0 +1,139 @@
+--------------------similar_words:アメ横--------------------
+top3 entities near to cluster1>>
+値引き, チラシ, 特売
+top3 entities near to cluster2>>
+パンケーキ, ワッフル, デザート
+top3 entities near to cluster3>>
+Tシャツ, ジーンズ, Ｔシャツ
+top3 entities near to cluster4>>
+タイトル, イラスト, ジャンル
+top3 entities near to cluster5>>
+買い換え, アナログ, たたき売り
+top3 entities near to cluster6>>
+ストレス, フラット, テーブル
+top3 entities near to cluster7>>
+デパート, スーパー, ウインドー
+top3 entities near to cluster8>>
+ストリート, 目抜き通り, マーケット
+top3 entities near to cluster9>>
+アクセサリー, ファッション, スニーカー
+top3 entities near to cluster10>>
+イベント, ニュース, アナウンス
+top3 entities near to cluster11>>
+コンビニ, ゲームセンター, ホームセンター
+top3 entities near to cluster13>>
+食べ物, フルーツ, ショップ
+top3 entities near to cluster14>>
+夕方, 午前, 日
+top3 entities near to cluster16>>
+海外, 異国, 各国
+top3 entities near to cluster17>>
+貿易, 産業, 周遊
+top3 entities near to cluster18>>
+興国, 新, 新興
+top3 entities near to cluster19>>
+ちゃん, カツ, タコ
+top3 entities near to cluster20>>
+駅前, 駅, 繁華
+top3 entities near to cluster21>>
+外国人, 外国, 外人
+top3 entities near to cluster22>>
+人人, 人出
+top3 entities near to cluster24>>
+口車, 甘言, 尻馬
+top3 entities near to cluster25>>
+年齢層, 年齢, 年令
+top3 entities near to cluster26>>
+高架, 地下, 路地
+top3 entities near to cluster29>>
+半分, 横, 右端
+top3 entities near to cluster30>>
+祭り, 催し物, 人出
+top3 entities near to cluster31>>
+笑, 苦笑, 汗
+top3 entities near to cluster32>>
+みせ, つけ, 見せ
+top3 entities near to cluster33>>
+かたは, いらっしゃる
+top3 entities near to cluster36>>
+遣っ, 遣う
+top3 entities near to cluster37>>
+覚悟, 必要, 留意
+top3 entities near to cluster38>>
+もん, 女性, 男性
+top3 entities near to cluster39>>
+関係, 密接, 関わり
+top3 entities near to cluster41>>
+状況, 時期, 情況
+top3 entities near to cluster42>>
+具合, 具合い, ぐあいが
+top3 entities near to cluster43>>
+足手, 距離, 足
+top3 entities near to cluster44>>
+風情, 趣き, 雰囲気
+top3 entities near to cluster45>>
+楽しい, 元気, 活気
+top3 entities near to cluster46>>
+洋服, 鞄, カバン
+top3 entities near to cluster47>>
+商品, 製品, 品物
+top3 entities near to cluster48>>
+値段, 価格, 値引き
+top3 entities near to cluster49>>
+仕事, 準備, 予定
+top3 entities near to cluster50>>
+調査, 事前, 下調べ
+top3 entities near to cluster51>>
+人出, 品数, 混雑
+top3 entities near to cluster52>>
+気分, 気持, 気持ち
+top3 entities near to cluster53>>
+昼食, 食事, 夕食
+top3 entities near to cluster54>>
+つれ, 連れ出し
+top3 entities near to cluster55>>
+帰る, 帰り道
+top3 entities near to cluster56>>
+散策, 散歩, 歩く
+top3 entities near to cluster57>>
+自粛, 外出, 出歩く
+top3 entities near to cluster58>>
+安い, 通販
+top3 entities near to cluster59>>
+食料品, 品等, 食料
+top3 entities near to cluster60>>
+地下街, 食品, 地下
+top3 entities near to cluster61>>
+輸入, 輸出, 食品
+top3 entities near to cluster62>>
+食品, 飲料, 医薬品
+top3 entities near to cluster63>>
+生鮮, 食品, 鮮魚
+top3 entities near to cluster66>>
+歩き, 食べ, 歩く
+top3 entities near to cluster67>>
+叩き売り, 叩き
+top3 entities near to cluster68>>
+もつ焼き, もつ焼, もつ
+top3 entities near to cluster69>>
+立ち食い, 立ち, 飲み屋
+top3 entities near to cluster70>>
+飲み会, 飲み, 呑み
+top3 entities near to cluster72>>
+罪悪感, 罪悪
+top3 entities near to cluster74>>
+菓子屋, 雑貨屋, 雑貨, 菓子
+top3 entities near to cluster75>>
+海鮮, 鮮魚, 魚介
+top3 entities near to cluster76>>
+食材店, 食材, 料理店, 料理
+top3 entities near to cluster77>>
+閉店, 開店, 閉館
+top3 entities near to cluster78>>
+問屋, 卸店, 卸
+top3 entities near to cluster79>>
+老舗店, 老舗, 和菓子店, 和菓子
+top3 entities near to cluster80>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster81>>
+商店街, 繁華街, 商店, 繁華

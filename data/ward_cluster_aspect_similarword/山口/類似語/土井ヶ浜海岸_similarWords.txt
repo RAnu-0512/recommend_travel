@@ -1,0 +1,9 @@
+--------------------similar_words:土井ヶ浜海岸--------------------
+top3 entities near to cluster0>>
+海, 砂浜, 遠浅
+top3 entities near to cluster1>>
+食堂車, 食堂, トイレ
+top3 entities near to cluster2>>
+透明度, 透明, チェ・ジャンス
+top3 entities near to cluster3>>
+和式, 便器, 洋式

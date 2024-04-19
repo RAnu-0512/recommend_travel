@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:公園通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+東京都, 原宿・代々木公園, 渋谷パルコ, 渋谷駅, 渋谷区, 渋谷モディ, 渋谷公園, 渋谷マルイ
+cluster1:(2)
+NHK, ホール
+cluster2:(2)
+パルコ, 公園通り
+cluster3:(12)
+セレクトショップ, ディズニーストア, オススメ, カフェ, イベント, ショッピング, 通り道, 交差点, 代々木公園, 西武百貨店, ショップ, 雰囲気
+cluster4:(1)
+マルイ
+cluster5:(1)
+タワーレコード
+cluster6:(2)
+感じ, 印象
+cluster7:(2)
+多く, 場合
+cluster8:(2)
+人, 人々
+cluster9:(3)
+先, 前, 通り
+cluster10:(2)
+坂, 坂道
+cluster11:(2)
+店, ショップ店
+cluster12:(2)
+散歩, 休日
+cluster13:(4)
+入口, 公園, 駅, 方面
+cluster14:(1)
+旗
+cluster15:(1)
+建て替え工事
+cluster16:(1)
+ハチ公口
+cluster17:(6)
+道沿い, 西武百貨店方面に公園, 通り沿い, 商店街, 道, 商業施設
+
+howmany entities : 54
+howmany clusters : 18
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 18
+deleted 0entities.

@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:波勝崎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+サル, サル団子
+cluster1:(4)
+子猿, 猿たち, 猿, 小猿
+cluster2:(8)
+エサ, 国道, 土産, 餌, 小麦, 景観, 砂利, 散策
+cluster3:(15)
+マーガレットライン, 下り坂, おまけ, サツマイモ, 西伊豆, 波勝崎, 伊豆半島, わき道, モンキー, ジオパーク, ネット, 見どころ, 手入れ, 一面, 断崖絶壁
+cluster4:(4)
+餌付けセンター所, 地, 施設, 場所
+cluster5:(2)
+人, 人たち
+cluster6:(4)
+車, モノ, 子供, 人間
+cluster7:(5)
+方, 中, 中心, 途中, 外
+cluster8:(1)
+好物
+cluster9:(1)
+間近
+cluster10:(4)
+群れ, 野生, 小屋, 情熱
+cluster11:(1)
+人間社会
+cluster12:(4)
+秘境感, 高さ, 運来ドーナッツ, はがら
+cluster13:(16)
+園, 海岸, 海風, 並木, 勝崎モンキーパーク, 陽だまり, 岬, 勝崎苑, 断崖, 海, し園, 野猿, 大久保浜, 伊豆, 河津桜, 風
+cluster14:(4)
+海岸沿い, 海食崖, 伊豆西南海岸, 堂ヶ島
+cluster15:(4)
+遊覧船, 駐車場, 網檻, 展望広場
+cluster16:(3)
+入場料, 閉園状態, 休園
+cluster17:(1)
+公共交通機関
+
+howmany entities : 83
+howmany clusters : 18
+howmany entities (more than3entities) : 75
+howmany clusters (more than3entities) : 12
+deleted 8entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長正司公園_ふじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+藤, ふじ
+cluster1:(4)
+花, トンネル, 公園, 石段
+cluster2:(1)
+豊田盆地
+cluster3:(1)
+長正司公園
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

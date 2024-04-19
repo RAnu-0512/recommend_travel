@@ -1,0 +1,15 @@
+--------------------similar_words:兜神社(東京都中央区)--------------------
+top3 entities near to cluster0>>
+証券, 取引, 金融
+top3 entities near to cluster1>>
+兜, 鎧, 町
+top3 entities near to cluster2>>
+神社, 信仰, 鳥居
+top3 entities near to cluster3>>
+見学, 訪問, 視察
+top3 entities near to cluster4>>
+裏手, 界隈, 近辺
+top3 entities near to cluster6>>
+利益, 収益, 利潤
+top3 entities near to cluster7>>
+金, 金融, 東証

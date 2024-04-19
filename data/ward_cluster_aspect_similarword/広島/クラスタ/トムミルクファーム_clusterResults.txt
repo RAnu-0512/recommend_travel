@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トムミルクファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島市, 福富
+cluster1:(8)
+多少, 中, 前, 時間, 他, 近く, こと, 場所
+cluster2:(3)
+ウサギ, ポニー, 草むら
+cluster3:(10)
+ジェラートショップ, チーズ, オススメ, ラーメン, ジェラート, トムミルクファーム, ジェラード, 雰囲気, カレー, カドーレ
+cluster4:(3)
+子供, 娘, 子ども
+cluster5:(1)
+草
+cluster6:(17)
+施設, バター作り, ピザ, ジェラート食べ, 敷地, ミルクカレー, 店, 併設, 土産, 軽食, 写真, 牛乳, 予約, 見学, ミルク, 遊具, やぎ
+cluster7:(2)
+プチ動物園, 動物園
+cluster8:(13)
+動物たち, 羊, 牧場, 乳牛, ロバ, 豚, 子供たち, 子どもたち, ヤギ, 牛達, 子ヤギ, 牛, 動物
+cluster9:(2)
+駐車場, 搾乳体験
+
+howmany entities : 61
+howmany clusters : 10
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 10
+deleted 0entities.

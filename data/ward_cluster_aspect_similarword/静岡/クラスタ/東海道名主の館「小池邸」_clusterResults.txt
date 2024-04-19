@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東海道名主の館「小池邸」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+飴, 媼
+cluster1:(8)
+気, 明治, 建物, 東海道, 建立, 様子, 海, 管理
+cluster2:(1)
+饗応
+cluster3:(4)
+小池邸, 小池家, 江戸時代, 由比駅
+cluster4:(1)
+江戸時代の名主の館
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 4entities.

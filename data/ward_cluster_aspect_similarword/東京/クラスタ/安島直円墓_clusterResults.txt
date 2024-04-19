@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安島直円墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+中, 坂, 三田
+cluster1:(2)
+閑静, 住宅地
+cluster2:(1)
+安島直円
+cluster3:(1)
+常林寺
+cluster4:(1)
+あじまなおのぶ
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

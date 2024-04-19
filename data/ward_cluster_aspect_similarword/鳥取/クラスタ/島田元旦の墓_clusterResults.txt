@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島田元旦の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+江戸時代, 蝦夷地, 画家, アイヌ, 他, 墓所, 墓, 景福寺
+cluster1:(3)
+倉吉荒尾, 鳥取藩主池田家, 島田元旦
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝生院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+柴又七福神, 新柴又駅
+cluster1:(5)
+寺院, 寺, 本堂, 境内, 本尊
+cluster2:(2)
+こと, 場所
+cluster3:(4)
+大黒様, 大黒天, 帝釈天, 八丁堀
+cluster4:(1)
+参拝者
+cluster5:(4)
+北総線, 真言宗智山, 宝生院, 派寺院
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駅レンタカー熱海駅営業所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+熱海駅, トヨタレンタカー熱海駅
+cluster1:(12)
+車, レンタカー, 返却, 左手, 看板, 上り坂, 感じ, トヨタ, 難点, 道なり, 坂, ガソリンスタンド
+cluster2:(5)
+駅レンタカー, 前店, 駅, 交番, 営業所
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 2entities.

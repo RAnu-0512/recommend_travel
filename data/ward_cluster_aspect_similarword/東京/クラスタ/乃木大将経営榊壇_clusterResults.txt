@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乃木大将経営榊壇>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+資料展示品, 資料室
+cluster1:(2)
+明治, 天皇ゆかり
+cluster2:(8)
+学習院大学, 展示, 声優イベント, 乃木坂, ゆかり, 場所, 大学, 開演
+cluster3:(1)
+がすの
+cluster4:(3)
+学園祭, 学習院, 陸軍大将
+cluster5:(1)
+乃木希典
+cluster6:(1)
+学習院大学百周年記念会館
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 7
+deleted 0entities.

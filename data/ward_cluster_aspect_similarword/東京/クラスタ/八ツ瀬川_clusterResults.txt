@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八ツ瀬川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+オオウナギ, 熱帯魚
+cluster1:(1)
+トレッキングツアー
+cluster2:(1)
+魚
+cluster3:(1)
+川
+cluster4:(1)
+起点
+cluster5:(1)
+世辞
+cluster6:(1)
+どころ淀
+cluster7:(1)
+小港海岸
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

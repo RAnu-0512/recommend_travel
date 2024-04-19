@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:比和自然科学博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示物, 展示
+cluster1:(3)
+動物, 剥製, 昆虫
+cluster2:(4)
+ぐら, もぐら, 辺り, 野山
+cluster3:(1)
+庄原
+cluster4:(1)
+比和自然科学博物館
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

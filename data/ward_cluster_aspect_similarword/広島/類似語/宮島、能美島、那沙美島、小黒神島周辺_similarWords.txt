@@ -1,0 +1,19 @@
+--------------------similar_words:宮島、能美島、那沙美島、小黒神島周辺--------------------
+top3 entities near to cluster1>>
+外客, お客, 乗客
+top3 entities near to cluster3>>
+辺り, 日
+top3 entities near to cluster4>>
+丸船, 丸, フェリー
+top3 entities near to cluster5>>
+紙袋
+top3 entities near to cluster6>>
+動物, 食事, 人間
+top3 entities near to cluster7>>
+神社, 鳥居, 境内
+top3 entities near to cluster8>>
+景色, 島々, 海
+top3 entities near to cluster9>>
+展望台, 展望, 瞻星台, 瞻星
+top3 entities near to cluster10>>
+鹿, シカ, 落坂

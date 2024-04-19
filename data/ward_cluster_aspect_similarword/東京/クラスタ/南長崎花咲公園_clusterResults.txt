@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南長崎花咲公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+トキワ荘の記念碑, 豊島区立トキワ荘マンガミュージアム, トキワ荘公園, トキワ荘
+cluster1:(17)
+公園工事, 公園, 昭和, 漫画家, 復元施設, 名称, ほし, 南長崎, トイレ, 休憩, キャラクター, 敷地, 記念碑, 花咲公園, 落合南長崎駅, 雰囲気, 東長崎
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

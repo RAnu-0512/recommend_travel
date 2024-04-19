@@ -1,0 +1,23 @@
+--------------------similar_words:下関~門司航路(唐戸~門司港)--------------------
+top3 entities near to cluster1>>
+間, 距離, 時間
+top3 entities near to cluster2>>
+気楽, 楽しい, 体験
+top3 entities near to cluster3>>
+旅, 船旅, 散歩
+top3 entities near to cluster4>>
+運賃, 片道, 往復
+top3 entities near to cluster5>>
+非, 日常, 現実
+top3 entities near to cluster6>>
+名所, 気分, 旅情
+top3 entities near to cluster7>>
+航路, 海峡, フェリー
+top3 entities near to cluster8>>
+船内, 船舶
+top3 entities near to cluster9>>
+乗船, 航行, 出航
+top3 entities near to cluster10>>
+手段, 移動, 目的
+top3 entities near to cluster13>>
+関門橋, 関門, 人道橋, 人道

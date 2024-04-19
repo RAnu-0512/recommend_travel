@@ -1,0 +1,59 @@
+--------------------similar_words:住吉神社second--------------------
+top3 entities near to cluster0>>
+環境, 空気, 安全
+top3 entities near to cluster1>>
+ススメ, 勧め, 奨め
+top3 entities near to cluster2>>
+御朱印, 御利益, ご利益
+top3 entities near to cluster3>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster4>>
+イベント, ひとつ, アクセス
+top3 entities near to cluster5>>
+保育園, 結婚式, 幼稚園
+top3 entities near to cluster6>>
+街並み, 町並み, 町並
+top3 entities near to cluster7>>
+週末, 祭り, 仕事
+top3 entities near to cluster9>>
+近隣, 地元, 徒歩
+top3 entities near to cluster10>>
+格式, 地位, 権威
+top3 entities near to cluster11>>
+建物, 景色, 外観
+top3 entities near to cluster12>>
+風情, 迫力, 印象
+top3 entities near to cluster13>>
+家屋群, 建物, 家屋
+top3 entities near to cluster14>>
+謡, 謡い
+top3 entities near to cluster15>>
+海運, 漁業, 水産
+top3 entities near to cluster16>>
+海船, 海, 河口
+top3 entities near to cluster17>>
+散歩, 散策, 潮風
+top3 entities near to cluster18>>
+海岸沿い, 海岸, 海沿い
+top3 entities near to cluster19>>
+神社, 三神, 大社
+top3 entities near to cluster20>>
+参拝, 参詣, お参り
+top3 entities near to cluster22>>
+山車, 神事, 祭礼
+top3 entities near to cluster23>>
+本殿, 拝殿, 社殿
+top3 entities near to cluster24>>
+神社, 境内, 本殿
+top3 entities near to cluster25>>
+狛犬, 鳥居, 本殿
+top3 entities near to cluster26>>
+祭神, 主祭, 主
+top3 entities near to cluster27>>
+大祭, 夏, コミサークル
+top3 entities near to cluster28>>
+趣, 深い, 趣き
+top3 entities near to cluster30>>
+藩主, 藩士
+top3 entities near to cluster32>>
+伝統, 無形, 有数

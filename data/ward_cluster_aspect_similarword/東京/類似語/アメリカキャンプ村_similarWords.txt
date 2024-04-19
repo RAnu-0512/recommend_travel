@@ -1,0 +1,17 @@
+--------------------similar_words:アメリカキャンプ村--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 大人
+top3 entities near to cluster1>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster2>>
+川, 山, 村
+top3 entities near to cluster3>>
+コテージ, ログハウス, キャンプ
+top3 entities near to cluster4>>
+釣り堀, 魚釣り, 釣堀
+top3 entities near to cluster5>>
+釣, 魚釣り
+top3 entities near to cluster6>>
+部屋, 設備, 施設
+top3 entities near to cluster7>>
+爆睡, 車中, 爆酔

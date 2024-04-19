@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水根沢キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京都, 都
+cluster1:(7)
+大人, 人たち, 子供, 家族, 友達, 子供達, 友人
+cluster2:(7)
+穴場, 設備, 料金, 温泉, 規模, 奥多摩町, 登山
+cluster3:(2)
+遊ぶ, 眺め
+cluster4:(6)
+場所, 近く, 感じ, 周り, 方, こと
+cluster5:(1)
+機会
+cluster6:(3)
+おすすめ, オススメ, ところ
+cluster7:(7)
+アウトドア, ベースキャンプ, アクセス, オーナー, キャンプ, ハイキング, バーベキュー
+cluster8:(1)
+雰囲気
+cluster9:(2)
+カレー, トイレ
+cluster10:(3)
+奥多摩湖, 川遊び, 奥多摩
+cluster11:(3)
+自然, 緑, 空気
+cluster12:(4)
+オートキャンプ場, キャンプ場, 水根沢キャンプ場, w水根沢キャンプ場
+cluster13:(2)
+渓流釣り, 釣り
+
+howmany entities : 50
+howmany clusters : 14
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 14
+deleted 0entities.

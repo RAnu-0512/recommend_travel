@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:英一蝶の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+本堂, 山門, 墓, 寺院, 寺, 寺院巡り, 境内
+cluster1:(11)
+北側, 場所, 角, 裏, 右, 日蓮宗, 界隈, 名前, 画家, 方, 訪問
+cluster2:(5)
+高輪, 関東, 坂, 江戸, 芝
+cluster3:(1)
+ようですね
+cluster4:(4)
+承教寺, 多賀伯庵, 英一蝶の墓, 英一蝶
+cluster5:(4)
+高輪二丁目, 江戸時代中期, 高輪署二木榎出張所, 三田&白金
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 6
+deleted 0entities.

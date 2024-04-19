@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市観光案内所(紙屋町シャレオ(地下街)内)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+案内所, 観光案内所
+cluster1:(2)
+中心街, 中央広場
+cluster2:(2)
+観光, バス
+cluster3:(2)
+広島, 紙屋町
+cluster4:(3)
+店, 市, 駅
+cluster5:(7)
+中心, シャレオ, ところ, アストラムライン, パンフレット, 地元, 地下街
+cluster6:(1)
+方向
+cluster7:(1)
+市電
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

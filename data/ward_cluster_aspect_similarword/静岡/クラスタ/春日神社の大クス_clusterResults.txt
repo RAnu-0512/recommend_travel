@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:春日神社の大クス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+樹高, 樹齢
+cluster1:(3)
+根, 火災, 新幹線
+cluster2:(2)
+春日神社, 大楠
+cluster3:(1)
+大クス
+cluster4:(1)
+函南駅
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

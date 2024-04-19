@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ副都心線 明治神宮前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乗り継ぎ, 乗り換え
+cluster1:(2)
+エスカレーター, 出入り口
+cluster2:(1)
+出入り
+cluster3:(1)
+地下鉄
+cluster4:(1)
+エレベーター利用
+cluster5:(2)
+気, 時間
+cluster6:(4)
+地上, 千代田線, 改札, 地下
+cluster7:(1)
+長さ
+cluster8:(16)
+ラフォーレ原宿, 東京都, 副都心線, 明治神宮駅, 和光市, 原宿, 駅, JR原宿駅, 神宮前駅, 神宮, 渋谷駅, 埼玉県, 渋谷区, 明治, 東急プラザ側, 和光市駅
+
+howmany entities : 30
+howmany clusters : 9
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 9
+deleted 0entities.

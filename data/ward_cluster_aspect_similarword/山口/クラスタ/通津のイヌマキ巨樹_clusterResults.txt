@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:通津のイヌマキ巨樹>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+巨樹, 巨木
+cluster1:(2)
+通津, 高さ
+cluster2:(1)
+イヌマキ
+cluster3:(1)
+大歳神社
+cluster4:(1)
+マキ科の常緑針葉高木
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

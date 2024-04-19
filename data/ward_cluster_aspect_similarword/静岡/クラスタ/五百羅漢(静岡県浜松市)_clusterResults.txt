@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五百羅漢(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+方広寺境内, 境内
+cluster1:(2)
+方広寺参道, 参道
+cluster2:(1)
+参道沿い
+cluster3:(1)
+本堂裏手
+cluster4:(1)
+拝観料金
+cluster5:(29)
+気, 裏側, 石像, 所, 顔, 一体一体, 姿, 地蔵, 回廊, 写真, 五百羅漢, 羅漢, 年寄り, ところ, 像, 山門, 気持ち, 羅漢像, ひとつ, 本堂, 庭, 上, 中, 表情, 500羅漢, 方広寺, 寺, 数, 価値
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 1
+deleted 7entities.

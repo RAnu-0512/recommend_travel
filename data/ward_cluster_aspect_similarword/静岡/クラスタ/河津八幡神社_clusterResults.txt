@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河津八幡神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+河津掛け, 伊豆急行河津駅
+cluster1:(3)
+裏手, 対岸, 近く
+cluster2:(5)
+兄弟, 桜並木, 橋, 知り合い, 河津川
+cluster3:(1)
+像
+cluster4:(4)
+鳥居, 絵馬, 力石, 神社
+cluster5:(1)
+曽我兄弟
+cluster6:(1)
+無料駐車場
+cluster7:(1)
+河津三郎祐泰
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 6entities.

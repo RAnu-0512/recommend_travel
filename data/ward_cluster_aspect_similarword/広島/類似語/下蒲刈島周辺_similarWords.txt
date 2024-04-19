@@ -1,0 +1,21 @@
+--------------------similar_words:下蒲刈島周辺--------------------
+top3 entities near to cluster0>>
+安さ, 定食屋, 定食
+top3 entities near to cluster1>>
+海, 海辺, 緑
+top3 entities near to cluster2>>
+眺め, 不便, 帰宅
+top3 entities near to cluster4>>
+資料, 歴史, 写真
+top3 entities near to cluster5>>
+時間, 日数, エリア
+top3 entities near to cluster6>>
+友達, 友人, 知り合い
+top3 entities near to cluster8>>
+道路, 町並み, 歩道
+top3 entities near to cluster9>>
+芽, 吹章, 吹大
+top3 entities near to cluster10>>
+道路橋, 道路, 陸橋
+top3 entities near to cluster12>>
+閣, 檜, 総

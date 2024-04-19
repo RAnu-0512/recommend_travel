@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四王司山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+四王司山, ルート
+cluster1:(1)
+ハイキングコース
+cluster2:(1)
+登山ルート
+cluster3:(1)
+勝山コース
+cluster4:(1)
+長府松小田
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

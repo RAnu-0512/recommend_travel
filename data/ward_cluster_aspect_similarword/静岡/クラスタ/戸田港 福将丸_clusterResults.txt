@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:戸田港 福将丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+戸田バス停, 戸田港, 福将丸, 戸田
+cluster1:(6)
+予定, 時間, 徒歩距離, 船上時間, 準備不足, 予定時間
+cluster2:(6)
+甥, 家族, 息子, 私達, 子供, 子供たち
+cluster3:(2)
+雨, 雲
+cluster4:(8)
+客, 親切, 肝心, こと, 扱い, 手, 経験, 方
+cluster5:(8)
+アプリ, スタッフ, おもてなし, タクシー, 初心者, ドライブ, アドバイス, 感無量
+cluster6:(3)
+魚釣り, 釣り竿, 焼き魚
+cluster7:(1)
+出発
+cluster8:(3)
+大物, 東京, 人気
+cluster9:(1)
+言
+cluster10:(3)
+料理屋, 料理, 自然風景
+cluster11:(2)
+釣り, サビキ釣り
+cluster12:(4)
+魚, アジ, 海, 生簀
+cluster13:(4)
+灯台, 船, 神社, 船長
+cluster14:(1)
+鰺
+cluster15:(1)
+泳
+
+howmany entities : 57
+howmany clusters : 16
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 10
+deleted 8entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:代々木八幡遺跡--------------------
+top3 entities near to cluster0>>
+竪穴式, 竪穴, 横穴式, 横穴
+top3 entities near to cluster1>>
+縄文, 時代, 旧石器時代
+top3 entities near to cluster2>>
+八幡宮, 柯柄, 神社
+top3 entities near to cluster3>>
+神社, 境内, 参道
+top3 entities near to cluster4>>
+儀, 八幡宮, 哨信
+top3 entities near to cluster5>>
+建物, 遺跡, 地形
+top3 entities near to cluster6>>
+後世, 時代, よう
+top3 entities near to cluster7>>
+丘, 階段, 海
+top3 entities near to cluster8>>
+藁葺, くる, きの
+top3 entities near to cluster9>>
+猿楽, 塚, 雉宮

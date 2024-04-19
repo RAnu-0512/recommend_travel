@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:末原窯跡群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山口県, 美祢市
+cluster1:(3)
+時代初期, 平安, 指定文化財
+cluster2:(2)
+窯跡, 金網越し
+cluster3:(1)
+須恵器
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

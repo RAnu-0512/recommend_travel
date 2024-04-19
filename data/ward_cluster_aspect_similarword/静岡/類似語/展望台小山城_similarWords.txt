@@ -1,0 +1,19 @@
+--------------------similar_words:展望台小山城--------------------
+top3 entities near to cluster0>>
+資料, 館, 史料
+top3 entities near to cluster1>>
+展望台, 展望, 駐車台, 駐車
+top3 entities near to cluster2>>
+展示, 出展, 建造
+top3 entities near to cluster3>>
+散策, 散歩, 景色
+top3 entities near to cluster4>>
+趣き, 価値, 歴史
+top3 entities near to cluster10>>
+敷地, 建物, 屋上
+top3 entities near to cluster11>>
+公園橋, 町橋, 公園, 町
+top3 entities near to cluster12>>
+鎧馬, 鎧, 甲冑
+top3 entities near to cluster16>>
+城, 天守, 天守閣

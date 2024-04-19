@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテル西長門リゾート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+角島大橋, 角島, 角島・大橋・海岸
+cluster1:(6)
+窓, 部屋, 景色, 色調, 絶景, 眺め
+cluster2:(2)
+心, 底
+cluster3:(13)
+リゾートホテル, コース, コバルトブルー, ランチ, スタッフ, プライベートビーチ, ビール, ホテル, 日本海, 露天風呂, フレンチ, 海, 気持ち
+cluster4:(5)
+施設, 食事, 利用, 方, 周辺
+cluster5:(3)
+宿泊客, 日帰り温泉, 温泉
+cluster6:(1)
+ホテル西長門
+cluster7:(1)
+老朽化感
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 8
+deleted 0entities.

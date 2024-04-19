@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:与謝野鉄幹・晶子の歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+堂ヶ島, 西伊豆町観光案内所
+cluster1:(8)
+国道, 夫妻, 与謝野, 鉄幹・晶子, 直ぐ横, 入口, 遊歩道, 石碑
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

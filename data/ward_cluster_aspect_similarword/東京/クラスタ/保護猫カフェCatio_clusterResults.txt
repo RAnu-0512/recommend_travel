@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:保護猫カフェCatio>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+猫, 猫ちゃん
+cluster1:(3)
+猫ちゃんたち, 猫達, 猫たち
+cluster2:(1)
+ネコ同士
+cluster3:(1)
+皆保護猫
+cluster4:(1)
+洋猫
+cluster5:(47)
+おもちゃ, オモチャ, 壁, スタッフ, 靴下, 荷物, 猫じゃらし, 建物, 代々木公園駅, 人, 公園, オーナー, ロック, ワシャワシャ遊ぶ子, ハンガー, 茶, 会話, ロッカー, 種類, 近く, AIM, 膝, 予約制, オープン時間, 姿, 客, 奥, Cafeスペース, ジュース, インターフォン, 常連, 飲み物, 手, 店員, 上着, おやつ, 清潔感, 時間, 声, 入店方法, 写真, 子, 部屋, 指示, 説明, 階段, 扉
+
+howmany entities : 55
+howmany clusters : 6
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 6
+deleted 0entities.

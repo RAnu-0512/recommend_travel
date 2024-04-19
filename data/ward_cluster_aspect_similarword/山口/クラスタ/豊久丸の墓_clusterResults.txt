@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊久丸の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+豊久丸, 子豊久丸
+cluster1:(2)
+世継ぎ問題, 墓
+cluster2:(1)
+実
+cluster3:(1)
+憐憫
+cluster4:(1)
+山口市
+cluster5:(1)
+妙湛寺
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

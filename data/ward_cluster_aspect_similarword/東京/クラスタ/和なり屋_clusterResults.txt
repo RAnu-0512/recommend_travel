@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和なり屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+割烹着, 和なり屋, 染めむら, 染め, 藍染体験, 藍染, ハンカチ染め
+cluster1:(5)
+工程, 製作過程, 所要時間, 作業工程, 作業
+cluster2:(7)
+ストール, スカーフ, ハンカチ, 手拭い, エプロン, 手ぬぐい, Tシャツ
+cluster3:(6)
+スタッフ, 待ち時間, ネット, ポリエチレン, オプション, バック
+cluster4:(2)
+作り方, 雰囲気
+cluster5:(1)
+クイズ
+cluster6:(8)
+柄, 工房, 手, 手袋, 写真, 素材, 布, 肘
+cluster7:(6)
+店, 甕, 畳み輪ゴム, 客, 店先, 店内
+cluster8:(23)
+所, 別, 何か, 他, 基本, 話, 折り畳み次第, 事, 場合, 体験, 上, 差額, 予約, 基本料金, 時間, 方, 歴史, 物, 友人, 部分, 各自, もの, 帰途
+cluster9:(1)
+ゴム製
+
+howmany entities : 66
+howmany clusters : 10
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 10
+deleted 0entities.

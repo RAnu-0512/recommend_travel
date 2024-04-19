@@ -1,0 +1,13 @@
+--------------------similar_words:遠山景元の墓--------------------
+top3 entities near to cluster0>>
+大火, 火事, 振袖
+top3 entities near to cluster1>>
+遠山, 景晋, 金四郎
+top3 entities near to cluster2>>
+墓地, 墓所
+top3 entities near to cluster4>>
+寺, 裏手, 金
+top3 entities near to cluster5>>
+明暦, 明, 応年
+top3 entities near to cluster6>>
+霊園, 墓地

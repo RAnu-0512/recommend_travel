@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐藤彦五郎の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+墓, 人, 義兄弟, 盃, 大昌寺, 副長, 縁, 支援
+cluster1:(2)
+新選組, 新撰組
+cluster2:(2)
+日野宿名主, 日野宿
+cluster3:(4)
+土方 歳三, 日野駅, 近藤勇, 日野
+cluster4:(1)
+佐藤彦五郎
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

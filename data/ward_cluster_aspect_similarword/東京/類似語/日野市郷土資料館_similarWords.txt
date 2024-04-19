@@ -1,0 +1,9 @@
+--------------------similar_words:日野市郷土資料館--------------------
+top3 entities near to cluster0>>
+学習会, 体験会, 学習, 体験
+top3 entities near to cluster1>>
+大人, 子供, 子ども
+top3 entities near to cluster2>>
+展示, 資料, 館
+top3 entities near to cluster3>>
+校舎, 小学校, 中学校

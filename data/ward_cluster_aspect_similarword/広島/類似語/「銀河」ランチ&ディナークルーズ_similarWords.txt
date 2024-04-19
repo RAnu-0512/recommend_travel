@@ -1,0 +1,13 @@
+--------------------similar_words:「銀河」ランチ&ディナークルーズ--------------------
+top3 entities near to cluster0>>
+乗船, 受付, 出港
+top3 entities near to cluster1>>
+夜景, 港, 夕景
+top3 entities near to cluster2>>
+友人, 部屋, 友達
+top3 entities near to cluster3>>
+料金, 復路, 宿泊
+top3 entities near to cluster4>>
+総勢, 在住, 友人
+top3 entities near to cluster8>>
+路面, 電車, 市電

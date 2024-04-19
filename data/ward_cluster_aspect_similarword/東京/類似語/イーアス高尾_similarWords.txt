@@ -1,0 +1,13 @@
+--------------------similar_words:イーアス高尾--------------------
+top3 entities near to cluster0>>
+パン焼き, パン, 食パン
+top3 entities near to cluster1>>
+時間雨, 休日, 時間
+top3 entities near to cluster2>>
+フード, バーゲン, カフェ
+top3 entities near to cluster3>>
+買い物帰り, 買い物, 帰る
+top3 entities near to cluster4>>
+駅店, 店舗, 駅
+top3 entities near to cluster5>>
+駐車場, 駐車, 場裏

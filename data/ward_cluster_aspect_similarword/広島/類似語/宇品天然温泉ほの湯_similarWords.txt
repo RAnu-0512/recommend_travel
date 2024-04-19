@@ -1,0 +1,9 @@
+--------------------similar_words:宇品天然温泉ほの湯--------------------
+top3 entities near to cluster0>>
+風呂, 湯船, 桶
+top3 entities near to cluster1>>
+湯, 温泉, 露天風呂
+top3 entities near to cluster2>>
+土産屋, おみやげ屋, 土産, おみやげ
+top3 entities near to cluster3>>
+土日, 家族, 平日

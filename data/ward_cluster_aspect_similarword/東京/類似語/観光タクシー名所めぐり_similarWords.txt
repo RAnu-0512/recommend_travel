@@ -1,0 +1,9 @@
+--------------------similar_words:観光タクシー名所めぐり--------------------
+top3 entities near to cluster0>>
+費用, 手間, 金額
+top3 entities near to cluster1>>
+運転, タクシー
+top3 entities near to cluster2>>
+健康, 名所, タクシー
+top3 entities near to cluster4>>
+駐車場, 駐車, 場裏

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブルーベリー摘み取り園吉野園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+費用, 料金
+cluster1:(2)
+摘み取り体験, 農園
+cluster2:(8)
+摘み取り, ブルーベリー, カブト虫, 持ち帰り, 実, 環境, 粒, 世話
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

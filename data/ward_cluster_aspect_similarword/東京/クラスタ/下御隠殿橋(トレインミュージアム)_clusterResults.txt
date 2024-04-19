@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下御隠殿橋(トレインミュージアム)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+方, こと, もの
+cluster1:(8)
+バルコニー, 人, 新幹線, ところ, トレインミュージアム, ポイント, 跨線橋, スポット
+cluster2:(9)
+崖, 北側, 橋上, 南側, 谷中, 橋, 南, 西, 側
+cluster3:(13)
+線路, JR, 本数, 日暮里駅, 路線, 駅, 電車, 列車, 臨時列車, 中間地点, 展望台, 在来線, 北口
+cluster4:(3)
+東西をつなぐ橋, 下御隠殿橋, 芋坂跨線橋
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 5
+deleted 0entities.

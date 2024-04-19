@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆大島ダイビングセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+初体験, 体験
+cluster1:(2)
+確保, 安全
+cluster2:(2)
+海辺, 魚
+cluster3:(2)
+予約, 電話
+cluster4:(8)
+スタッフ, ダイビング, ライセンス, お迎え, 気持ち, メール, ちびっこ, やりとり
+cluster5:(2)
+飲み物, 気配り
+cluster6:(6)
+場所, 感じ, 時期, 時間, 説明, 迷い
+cluster7:(1)
+看板ネコちゃん
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 8
+deleted 0entities.

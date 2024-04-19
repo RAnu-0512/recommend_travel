@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東光寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+景色, 木々, 庭園
+cluster1:(2)
+情緒, 風情
+cluster2:(4)
+感覚, 東光寺, 日本, 雰囲気
+cluster3:(1)
+毛利家墓所
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

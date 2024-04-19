@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古江小路・菅家長屋門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+練塀, 格, 練塀が続き城下町, 石畳, 石垣, 道, 古江小路, 場所, 小路, 風景, 時間, 侍屋敷, 功山寺, 城下町, 上, 風情
+cluster1:(3)
+長州藩, 長府城下町, 長府
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

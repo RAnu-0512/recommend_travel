@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京スカイツリーひみつツアー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展望階, 展望フロア, 展望台
+cluster1:(14)
+ツリー, いきなりツアー, 口コミ, ライン, エレベータ, ライトアップ, ツアー, エレベーター, ポイント, スカイツリー, ガイド, パネル, ディズニー, ファストパス
+cluster2:(4)
+入場, 体験, 参加, 展示
+cluster3:(11)
+一般, 別, 内容, 気, 期待, 解説, 以下, 中, こと, 説明, 待ち時間無し
+cluster4:(5)
+人たち, 子ども, 子供, 息子, 親子
+cluster5:(8)
+足場, 景色, 足元, 柱, 技術, 天上, 真下, 照明
+cluster6:(5)
+関係者, 手荷物検査, 一般客, 添乗員, 優先列
+
+howmany entities : 50
+howmany clusters : 7
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 7
+deleted 0entities.

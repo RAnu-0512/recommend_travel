@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リブマックスリゾート熱海シーフロント>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+基礎化粧品, 脱衣洗面室
+cluster1:(6)
+気, 利用, 今回, こと, 夕方, 他
+cluster2:(2)
+値段, ボディソープ
+cluster3:(16)
+真夜中, DHC, フロント, アメニティ, ホテル, リブマックス, 見晴らし, 日帰り, リブマックスリゾート, 露天風呂, ブランド, コンディショナー, シャンプー, どなた, 旅, 手ぶら
+cluster4:(1)
+世話
+cluster5:(2)
+リネン類, 同時利用
+cluster6:(12)
+温泉, 熱海, 宿泊, 宿泊客, 浴室, 日帰り客, 露天, 部屋, 貸し切り風呂, 風呂, 湯, 日帰り温泉
+cluster7:(1)
+フカフカ
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 3
+deleted 8entities.

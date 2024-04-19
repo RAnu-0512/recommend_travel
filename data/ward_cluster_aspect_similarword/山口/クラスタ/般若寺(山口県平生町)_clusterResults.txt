@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:般若寺(山口県平生町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中国観音霊場山口県, 熊毛王国極楽巡り
+cluster1:(17)
+般若姫伝説, 橋, 手前, 本堂, 寺, 龍宮伝説, 清掃, 車, 大畠瀬戸, 場所, 寺院, 納経所, 金龍神, 写真, 歴史, 駐車場, 建物
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

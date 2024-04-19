@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:防府天満宮_うめ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山口県, 防府天満宮
+cluster1:(2)
+社殿奥, 駐車場
+cluster2:(4)
+梅祭り, 梅林, 梅, うめ
+cluster3:(3)
+境内, 名所, 神社
+cluster4:(10)
+中, 多く, こと, 天満宮, 春先, 開催, 日本, 時期, 人, 夕焼け
+cluster5:(2)
+木々, 木
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

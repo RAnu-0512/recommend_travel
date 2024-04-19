@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カルビー株式会社 広島工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+かっぱえびせん, サクサク
+cluster1:(1)
+カルビー株式会社
+cluster2:(1)
+製造ライン
+cluster3:(1)
+広島県
+cluster4:(1)
+できたて
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

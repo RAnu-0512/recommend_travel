@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:功山寺山門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+修復, 寺, 山門, 紅葉
+cluster1:(3)
+維新, 九州, 豊後
+cluster2:(1)
+藩主
+cluster3:(1)
+長府
+cluster4:(18)
+こと, 画像, 終焉, 場所, 参考, 声, 地, 乗車, 映画, 感想, 雰囲気, 時期, 感じ, 城下町, 料金, 旅, 写真, 歴史
+cluster5:(8)
+階段, 前, 手前, 脇, 目, 入口, 銅像, 墓
+cluster6:(1)
+ノーマーク
+cluster7:(1)
+うぉ
+cluster8:(7)
+交通, 下車, 徒歩, バス, 道路, 駐車場, サンデンバス
+cluster9:(9)
+下関市歴史博物館, 毛利匡芳, 下関駅, 毛利元就, 大内義長, 毛利家, 功山寺, 英雄高杉晋作, 功山寺山門
+
+howmany entities : 53
+howmany clusters : 10
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 10
+deleted 0entities.

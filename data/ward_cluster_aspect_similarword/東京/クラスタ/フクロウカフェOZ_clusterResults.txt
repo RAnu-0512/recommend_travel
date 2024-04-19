@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フクロウカフェOZ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+店, 客, 店員, 店長, 来店, 店内
+cluster1:(2)
+みか, 撫
+cluster2:(2)
+小学生以下お断り, 以下
+cluster3:(11)
+扱い, 子ども, 感謝, 人, 子供, 近く, 声, 時間, 子, 方, 子どもたち
+cluster4:(2)
+ケージ, 帰り際ゲージ
+cluster5:(6)
+人見知り, カメレオン, フクロモモンガ, フクロウ, ハリネズミ, ミーアキャット
+cluster6:(6)
+帰り道, ほとんど, サッパリ, グループ, 始まり, システム
+cluster7:(1)
+春休み
+cluster8:(4)
+爬虫類, ラグー, トカゲ, ウサギ
+cluster9:(1)
+笑
+cluster10:(2)
+動物, ヘビ
+cluster11:(3)
+制限時間, 遅め, 時間制
+
+howmany entities : 46
+howmany clusters : 12
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 12
+deleted 0entities.

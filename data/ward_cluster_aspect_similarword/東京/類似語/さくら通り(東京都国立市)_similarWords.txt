@@ -1,0 +1,27 @@
+--------------------similar_words:さくら通り(東京都国立市)--------------------
+top3 entities near to cluster0>>
+国立, 駅, 谷保
+top3 entities near to cluster1>>
+道路, 歩道, 通路
+top3 entities near to cluster2>>
+花見, 散歩, 満開
+top3 entities near to cluster3>>
+見物人, 大勢
+top3 entities near to cluster4>>
+ショップ, コーヒー, カフェ
+top3 entities near to cluster5>>
+喫茶店, カフェ, 喫茶
+top3 entities near to cluster6>>
+自転車, コンビニ, 帰り道
+top3 entities near to cluster7>>
+アーチ, タイル, サイド
+top3 entities near to cluster9>>
+大学別, 大学
+top3 entities near to cluster10>>
+景色, 表示
+top3 entities near to cluster11>>
+前述どおり, とおり, 前述
+top3 entities near to cluster12>>
+夕方, 時期, 時
+top3 entities near to cluster14>>
+張っ, 張る

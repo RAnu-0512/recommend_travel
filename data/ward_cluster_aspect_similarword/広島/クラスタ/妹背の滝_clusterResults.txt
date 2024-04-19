@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妹背の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 展望台, 展望
+cluster1:(7)
+妹背, 雌滝, 迫力, 水量, 滝, 雄滝, 落差
+cluster2:(4)
+子供, 子供達, 右手奥, 友人達
+cluster3:(5)
+広島, 宮島, 大野インターチェンジ, 飛鳥, 関東
+cluster4:(11)
+姿, 気, ほう, 流れ, 時代, 感じ, 事, 前, 所, こと, 場所
+cluster5:(3)
+GW, 水, 夕刻
+cluster6:(14)
+子, ところ, 川遊び, 山陽本線, 地元, 写真, 御朱印, マイナスイオン, 子ども, 滝つぼ, 気持ち, 夏休み, 水遊び, 自然
+cluster7:(5)
+魚, 川, 海, 対岸, 足
+cluster8:(14)
+友人, 社, 連絡, 在住, 訪問, HP, 夫婦, ナビ, 人, 女房, 立地, 家族, 建立, 旅行
+cluster9:(8)
+宮司, 大野浦駅, 社殿, 大野滝山, 厳島神社, 大頭神社, 摂社, 神社
+
+howmany entities : 74
+howmany clusters : 10
+howmany entities (more than1entities) : 74
+howmany clusters (more than1entities) : 10
+deleted 0entities.

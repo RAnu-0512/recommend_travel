@@ -1,0 +1,13 @@
+--------------------similar_words:ピースフル青竜泉--------------------
+top3 entities near to cluster0>>
+青, 竜泉, 黄
+top3 entities near to cluster1>>
+太古, 露天風呂, バス
+top3 entities near to cluster2>>
+温泉, 銭湯, 旅館
+top3 entities near to cluster3>>
+風呂, お湯, 浴場
+top3 entities near to cluster4>>
+源泉, 湯, 自家
+top3 entities near to cluster5>>
+景勝地, 景勝, 名勝地, 名勝

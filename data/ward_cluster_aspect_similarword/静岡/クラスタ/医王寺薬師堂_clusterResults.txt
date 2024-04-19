@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:医王寺薬師堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡県, 県指定文化財, 島田市
+cluster1:(2)
+絵, 天井
+cluster2:(4)
+堂, 薬師堂, 医王寺薬師堂, 寺
+cluster3:(1)
+永村茜山
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 3entities.

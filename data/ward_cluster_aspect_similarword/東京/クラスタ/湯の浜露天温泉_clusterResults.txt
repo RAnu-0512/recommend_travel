@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯の浜露天温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+必要 港, 関わらず, 壮大◎
+cluster1:(3)
+水風呂, 海沿い, 海水浴
+cluster2:(10)
+おすすめ, オススメ, 気持ち, シャワー, 露天風呂, 箸休め, 見晴らし, スポット, 雰囲気, シチュエーション
+cluster3:(1)
+人
+cluster4:(3)
+場所, 日, こと
+cluster5:(1)
+掃除
+cluster6:(7)
+島, 景色, パルテノン神殿, 絶景, 水着, 海, 肌
+cluster7:(2)
+東京都, 海岸沿い
+cluster8:(10)
+更衣室, 展望風呂, 足湯, 露天温泉, 入浴, 野外温泉, 温泉, 風呂, 浜露天温泉, 湯
+cluster9:(1)
+至れり尽くせり露天風呂
+
+howmany entities : 41
+howmany clusters : 10
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柴又八幡神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+柴又駅, 柴又
+cluster1:(2)
+八幡神社, 柴又八幡神社
+cluster2:(12)
+場所, 線路, 寅, 頭, 上, 由緒, こと, 社殿, 雰囲気, 境内, 説明, 帝釈天
+cluster3:(4)
+寅さん埴輪, 古墳石室, 古墳, 埴輪
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

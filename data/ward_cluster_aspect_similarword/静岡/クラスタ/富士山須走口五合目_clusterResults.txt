@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山須走口五合目>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+須走口, 登山シーズン, 登山, 登山口, 登山道
+cluster1:(15)
+車, 駐車場, システム, 富士, 下山, 変化, 一般車両, バス, 標高, 吉田口, 富士山, 森林帯, 景色, シャトルバス, 場所
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 0entities.

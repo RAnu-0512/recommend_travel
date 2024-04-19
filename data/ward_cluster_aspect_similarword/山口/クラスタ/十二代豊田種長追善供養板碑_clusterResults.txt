@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十二代豊田種長追善供養板碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+石碑, 墓地, 境内
+cluster1:(3)
+一ノ瀬, 豊田, 気分
+cluster2:(1)
+累代
+cluster3:(1)
+豊田種長追善供養板碑
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

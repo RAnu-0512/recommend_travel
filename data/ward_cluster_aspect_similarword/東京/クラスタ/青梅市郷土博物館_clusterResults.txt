@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青梅市郷土博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+青梅, 青梅市, 青梅駅
+cluster1:(2)
+入場無料, 駐車場
+cluster2:(12)
+住宅, 公園, 中, 歴史, 宮崎家, 規模, 感じ, 建物, 歴史博物館, 公園専用, 博物館, 郷土博物館
+cluster3:(1)
+郷土資料館
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

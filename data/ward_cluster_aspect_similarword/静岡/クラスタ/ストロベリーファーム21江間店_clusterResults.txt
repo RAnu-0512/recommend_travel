@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ストロベリーファーム21江間店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+苺狩り施設, 狩り, いちご狩り, 苺狩り, イチゴ狩り
+cluster1:(6)
+取り方, 食べ比べ, いらず, 摘み方, 食べゆ, 食べ方
+cluster2:(6)
+章姫, 練乳, 苺, あまい苺, ちご, 紅ほっぺ
+cluster3:(2)
+甘熟いちご, 艶々
+cluster4:(2)
+お腹, 良さ
+cluster5:(3)
+子供達, 係, 世話
+cluster6:(22)
+最後, 雨, 静岡, 主人, 隣, イチゴ, 途中, ハウス, クーポン, おじさん, 男, 移動, それぞれ, 娘, 人, いちご, 春休み, 花, 旅行, スーパー, 子供, 他
+cluster7:(12)
+気, 受け入れルール, 方, 機会, 種類, 時間, 品種, 違い, 場所, 味, 制限, 説明
+cluster8:(4)
+貸切状態, 来客層, 予約, 事前予約
+
+howmany entities : 62
+howmany clusters : 9
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 7
+deleted 4entities.

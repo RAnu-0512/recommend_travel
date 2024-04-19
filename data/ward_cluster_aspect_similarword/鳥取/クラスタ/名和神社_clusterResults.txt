@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名和神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(37)
+時期, 躑躅, 船上山, 大きさ, 参道, 道路, 弓, 名手, 桜, 海, 名所, 公, 伝説, 後醍醐, 御朱印, 大山町, 明治, 神社名, 鳥居, 前, 境内, 公園, 他, 社格, 遷座式, 社殿, 鳥取県, 島, 周囲, 方, 雰囲気, 改名, 一族郎党, 急坂, 天皇, 県, 隠岐
+cluster1:(2)
+名和公, 名和長年公
+cluster2:(3)
+名和神社, 名和公園, 名和
+cluster3:(1)
+名和観光で名和神社
+cluster4:(1)
+別格官幣社
+cluster5:(1)
+三木一草とうたわれた名和
+
+howmany entities : 45
+howmany clusters : 6
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 6
+deleted 0entities.

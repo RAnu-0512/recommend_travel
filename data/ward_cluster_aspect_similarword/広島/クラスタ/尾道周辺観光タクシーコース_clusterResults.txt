@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾道周辺観光タクシーコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+観光タクシー, 運転手, 恒例, 友達, 海道, 高校時代, 観光, 時間, 旅行
+cluster1:(2)
+尾道へ., 備三タクシー
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

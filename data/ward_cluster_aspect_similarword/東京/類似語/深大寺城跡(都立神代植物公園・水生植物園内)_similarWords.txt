@@ -1,0 +1,21 @@
+--------------------similar_words:深大寺城跡(都立神代植物公園・水生植物園内)--------------------
+top3 entities near to cluster0>>
+植物園, 動物園, 植物, 動物
+top3 entities near to cluster1>>
+植物園, 植物, 水生
+top3 entities near to cluster2>>
+妖精, ヴィッリ, 精霊
+top3 entities near to cluster3>>
+温室, 蘭, 胡蝶
+top3 entities near to cluster4>>
+跡, 見学, 遺構
+top3 entities near to cluster6>>
+有料, 広場, 遊歩道
+top3 entities near to cluster7>>
+バス, 足, 両足
+top3 entities near to cluster8>>
+城, 寺, 城址
+top3 entities near to cluster9>>
+入場, 無料, 入館
+top3 entities near to cluster10>>
+京王, バス, 小田急

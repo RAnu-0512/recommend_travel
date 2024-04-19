@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:逆川・緑の精神回廊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+掛川駅, 掛川城, 掛川市街地
+cluster1:(6)
+回廊コース, 神社, 沿道, コース, 時期, 史跡
+cluster2:(1)
+逆川・緑の精神回廊
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 1entities.

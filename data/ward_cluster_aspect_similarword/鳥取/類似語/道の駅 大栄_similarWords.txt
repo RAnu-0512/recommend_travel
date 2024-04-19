@@ -1,0 +1,15 @@
+--------------------similar_words:道の駅 大栄--------------------
+top3 entities near to cluster1>>
+特産品, 名産品, 特産, 名産
+top3 entities near to cluster2>>
+駅道, 駅前道, 駅, 駅前
+top3 entities near to cluster4>>
+梨, 沙ゆり, 那結
+top3 entities near to cluster5>>
+果物, 野菜, 西瓜
+top3 entities near to cluster6>>
+山芋, 長芋, 芋
+top3 entities near to cluster7>>
+満点, 青空, 満天
+top3 entities near to cluster8>>
+昌, 剛, 館

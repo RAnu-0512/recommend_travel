@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三人五輪>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+長綱寺, 南北朝時代, 義高, 名和長年公, 義高公, 太平記, JR名和駅, 名和, 大山恵みの里
+cluster1:(3)
+三人五輪, 五輪, 五輪塔
+cluster2:(2)
+畑, 畑道
+cluster3:(2)
+息子, 近く
+cluster4:(5)
+様子, 中, ところ, おまけ, こと
+cluster5:(1)
+裏
+cluster6:(1)
+へり
+cluster7:(11)
+石塔, 首, 墓, 駅, 家臣, 歴史, 道, 民家, 塔, 坂道, 石
+cluster8:(4)
+道標, 解説板, 案内道標, 駐車場
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 9
+deleted 0entities.

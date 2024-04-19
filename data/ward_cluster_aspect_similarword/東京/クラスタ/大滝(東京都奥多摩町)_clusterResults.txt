@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大滝(東京都奥多摩町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+途中, ズドン, 場所, 夏場, 特徴, 森, 東京, トリ, 近く, 感じ, 道のり, 全体, 都民, マイナスイオン, 方, コース, ハイキング, イオン, 奥多摩
+cluster1:(2)
+駅, 奥多摩駅
+cluster2:(2)
+コース入口, 奥
+cluster3:(2)
+林道, 道
+cluster4:(6)
+軍手, 運転, 車, 帰路, 往路, 車体
+cluster5:(6)
+落差, 価値, 迫力, 水量, 分岐点, 慎重さ
+cluster6:(1)
+視界角度
+cluster7:(8)
+三頭大滝, ネジレ滝, 大滝, 滝, 三ツ釜滝, 海沢三滝, 海沢3滝, 梅沢三滝
+
+howmany entities : 46
+howmany clusters : 8
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 8
+deleted 0entities.

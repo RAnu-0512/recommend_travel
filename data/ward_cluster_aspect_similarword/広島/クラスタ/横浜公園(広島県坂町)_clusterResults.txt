@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:横浜公園(広島県坂町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+横浜公園, 上, こと, 広島湾
+cluster1:(3)
+高台, 丘, 景色
+cluster2:(1)
+靴
+cluster3:(1)
+横浜市
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

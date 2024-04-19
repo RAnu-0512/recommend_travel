@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽村市郷土博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+郷土資料, 郷土資料館
+cluster1:(2)
+資料館, 資料
+cluster2:(2)
+歴史展示, 展示物
+cluster3:(13)
+場所, 養蚕, 裏, 多摩川, あきる野市, 古民家, 文化, 赤門, 施設, 印象, 歴史, こと, 奥多摩
+cluster4:(1)
+羽村堰下橋
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

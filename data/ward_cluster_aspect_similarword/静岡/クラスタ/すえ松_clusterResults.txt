@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:すえ松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+平和通り商店街, 熱海商店街チーム, 商店街, 熱海商店街
+cluster1:(15)
+角屋, すえ松, 温泉, 熱海, 熱海駅, 正, 看板, 入口, 平和通り, 観光客, 鈴廣, 仲見世名店街, 右手, JR熱海駅, 他
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 0entities.

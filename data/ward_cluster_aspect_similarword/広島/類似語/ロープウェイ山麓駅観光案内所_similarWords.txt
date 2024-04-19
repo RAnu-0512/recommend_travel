@@ -1,0 +1,9 @@
+--------------------similar_words:ロープウェイ山麓駅観光案内所--------------------
+top3 entities near to cluster0>>
+案内, 乗車券, 乗車
+top3 entities near to cluster1>>
+情報, 資料, 収集
+top3 entities near to cluster2>>
+チケット, 購入, 隣
+top3 entities near to cluster3>>
+駅, 山麓, 千光寺

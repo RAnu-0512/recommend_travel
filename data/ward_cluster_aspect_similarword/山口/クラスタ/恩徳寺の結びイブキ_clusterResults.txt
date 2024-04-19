@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恩徳寺の結びイブキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イブキ, 境内
+cluster1:(1)
+ヒノキ科
+cluster2:(1)
+高さ
+cluster3:(1)
+常緑高木
+cluster4:(1)
+恩徳寺
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:瀬戸内パドリング--------------------
+top3 entities near to cluster0>>
+美しい, 素晴らしい, 楽しい
+top3 entities near to cluster1>>
+漕ぎ, 歩き
+top3 entities near to cluster2>>
+朝晩, 昼間, 朝夕
+top3 entities near to cluster3>>
+景色, 気候, 海
+top3 entities near to cluster4>>
+家族, 子供, 子ども
+top3 entities near to cluster5>>
+運動, 練習, トレーニング
+top3 entities near to cluster7>>
+日者, 経験者, 日, 経験

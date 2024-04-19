@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江汐湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+江汐公園, 江汐湖橋, 江汐湖
+cluster1:(2)
+橋, 湖
+cluster2:(2)
+冒険, 散歩
+cluster3:(11)
+周囲, 人口, 遊歩道, 自然, 周り, 中, 地元, 上, 距離, 方, キャンプ場
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

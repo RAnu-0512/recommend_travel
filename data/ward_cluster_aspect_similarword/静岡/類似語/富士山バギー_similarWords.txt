@@ -1,0 +1,25 @@
+--------------------similar_words:富士山バギー--------------------
+top3 entities near to cluster0>>
+楽しい, 優しい, 素晴らしい
+top3 entities near to cluster2>>
+コース, フォレストコース, テクニカルコース
+top3 entities near to cluster3>>
+ススキ, タモリ, すすき
+top3 entities near to cluster4>>
+バイク, アトラクション, スタッフ
+top3 entities near to cluster5>>
+兄さん, 手洗い, トイレ
+top3 entities near to cluster6>>
+景色, 地形, 斜面
+top3 entities near to cluster7>>
+予約, 受付, 連絡
+top3 entities near to cluster8>>
+対応, 操作, 変更
+top3 entities near to cluster9>>
+学び, 挑戦, 練習
+top3 entities near to cluster13>>
+迫力, 興奮, 苦手
+top3 entities near to cluster14>>
+機会, 時期, 予定
+top3 entities near to cluster21>>
+遊覧, 時間, 体験

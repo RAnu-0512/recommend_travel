@@ -1,0 +1,57 @@
+--------------------similar_words:道の駅 ソレーネ周南--------------------
+top3 entities near to cluster0>>
+土産店, 飲食店, 土産, 飲食
+top3 entities near to cluster1>>
+買い物, 目当て, 買物
+top3 entities near to cluster2>>
+テナント, スペース, エントランススペース
+top3 entities near to cluster3>>
+トラック, ドライブ, レコーダー
+top3 entities near to cluster4>>
+コンビニ, ソフトクリーム, ジェラートコーナー
+top3 entities near to cluster6>>
+食べ物, アイスクリーム, アイス
+top3 entities near to cluster7>>
+乗用車, 植木鉢, プランター
+top3 entities near to cluster8>>
+コース, ドライブ, ドライビングコース
+top3 entities near to cluster9>>
+電気, 充電, 自動車
+top3 entities near to cluster10>>
+駅, 山奥, 国道
+top3 entities near to cluster11>>
+お花, 花, かご
+top3 entities near to cluster12>>
+魚屋, 鮮魚
+top3 entities near to cluster13>>
+店員, 店主
+top3 entities near to cluster14>>
+暑い, 酷暑, 猛暑
+top3 entities near to cluster15>>
+施設, 対象, 設備
+top3 entities near to cluster16>>
+販売, 情報, 管理
+top3 entities near to cluster17>>
+充実, 搭載, 拡充
+top3 entities near to cluster18>>
+割合, 価値, 種類
+top3 entities near to cluster19>>
+相手, 人達
+top3 entities near to cluster21>>
+指手, なり手, 指
+top3 entities near to cluster22>>
+言葉, 表現
+top3 entities near to cluster23>>
+同意, 承諾, 賛同
+top3 entities near to cluster24>>
+罪悪感, 罪悪, ドキドキ・ワクワク
+top3 entities near to cluster26>>
+大型, 中型, 小型
+top3 entities near to cluster27>>
+ドーム型, 屋根型, ドーム, 屋根
+top3 entities near to cluster28>>
+駐車, 道路
+top3 entities near to cluster29>>
+11, 13, 15
+top3 entities near to cluster30>>
+野菜, 食材, 果物

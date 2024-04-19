@@ -1,0 +1,17 @@
+--------------------similar_words:広島駅周辺観光タクシー(ニシキタクシー)--------------------
+top3 entities near to cluster1>>
+料金, 旅館, 宿泊
+top3 entities near to cluster2>>
+人柄, 無口, 寡黙
+top3 entities near to cluster3>>
+妊婦, ママ, 赤ちゃん
+top3 entities near to cluster4>>
+支援, 対応, サポート
+top3 entities near to cluster5>>
+タクシー, 行き先, カーナビ
+top3 entities near to cluster6>>
+話分, 時間, 話
+top3 entities near to cluster7>>
+勘, 土地, 農地
+top3 entities near to cluster8>>
+乗務員, 乗務, 乗組員, 乗組

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市三滝少年自然の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 入園料
+cluster1:(2)
+子供会, 子供達
+cluster2:(13)
+体, トイレ, 子供, 方, アスレチック, 利用, 感じ, 人, 家族, 他, 吊り橋, 楽し, 場所
+cluster3:(2)
+弁当, 遊具
+cluster4:(1)
+昼御飯
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

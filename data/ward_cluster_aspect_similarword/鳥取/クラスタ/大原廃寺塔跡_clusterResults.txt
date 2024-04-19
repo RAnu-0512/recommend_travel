@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大原廃寺塔跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大原廃寺塔跡この先10m→, 大原廃寺塔跡この先80m→, 大原廃寺塔跡この先道なり180m→
+cluster1:(3)
+大原廃寺塔, 斎尾廃寺, 大原廃寺塔跡
+cluster2:(8)
+標識, 山道, 国, こと, 方面, 道中, 寄り道, 途中
+cluster3:(2)
+金堂, 塔
+cluster4:(2)
+史跡, 跡
+cluster5:(2)
+案内板, 駐車場
+cluster6:(1)
+倉吉市街
+cluster7:(1)
+塔心礎
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 8
+deleted 0entities.

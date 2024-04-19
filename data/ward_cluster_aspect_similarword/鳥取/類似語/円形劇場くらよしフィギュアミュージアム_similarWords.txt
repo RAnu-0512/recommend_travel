@@ -1,0 +1,25 @@
+--------------------similar_words:円形劇場くらよしフィギュアミュージアム--------------------
+top3 entities near to cluster1>>
+駐車料, 入場料, 駐車, 入場
+top3 entities near to cluster2>>
+円形, 劇場, 円型
+top3 entities near to cluster3>>
+興味, 価値, 関心
+top3 entities near to cluster4>>
+ネーム, 色合い
+top3 entities near to cluster5>>
+家族, 親族
+top3 entities near to cluster6>>
+グッズ, カード, キャラクター
+top3 entities near to cluster7>>
+アニメ, ゲーム, キャラクター
+top3 entities near to cluster8>>
+塗り絵, コーナー, 絵かき
+top3 entities near to cluster9>>
+移動, 行き来, 移る
+top3 entities near to cluster10>>
+文化, 町, 初代
+top3 entities near to cluster11>>
+首, くじ, 角
+top3 entities near to cluster12>>
+館内, 建物, 校舎

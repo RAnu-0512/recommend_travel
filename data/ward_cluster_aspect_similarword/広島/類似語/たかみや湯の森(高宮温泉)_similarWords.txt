@@ -1,0 +1,9 @@
+--------------------similar_words:たかみや湯の森(高宮温泉)--------------------
+top3 entities near to cluster0>>
+風呂, 露天, 露天風呂
+top3 entities near to cluster1>>
+風呂, 湯船, お湯
+top3 entities near to cluster3>>
+食事, お湯
+top3 entities near to cluster4>>
+清掃員, 清掃, 掃除

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清瀧寺(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+家康, 信康, 信長
+cluster1:(2)
+山門, 本殿
+cluster2:(3)
+長男, 先, 隣
+cluster3:(3)
+池, 坂, 寺
+cluster4:(1)
+二俣小学校
+cluster5:(1)
+駐車場
+cluster6:(1)
+本田宗一郎伝承館
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 5entities.

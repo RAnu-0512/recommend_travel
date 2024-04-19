@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:自由が丘公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光要素, 住宅地
+cluster1:(3)
+空間, 場, 憩い
+cluster2:(2)
+感じ, 印象
+cluster3:(2)
+北, 桜
+cluster4:(9)
+途中, 親子連れ, 自由が丘, 場所, 人, 子供, 画像, ケニア大使館, 地元
+cluster5:(1)
+どか
+cluster6:(5)
+学園通り, 公園, 自由が丘駅, 遊具, 自由が丘公園
+cluster7:(1)
+区営公園
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 8
+deleted 0entities.

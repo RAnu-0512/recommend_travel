@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:目黒区民センターホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光名所情報, 聖地巡礼街歩き
+cluster1:(10)
+図書館, 公園, 東急バス, バス, ホール, 屋内プール, 屋外プール, 民センター一帯, 改札口, 美術館
+cluster2:(6)
+目黒駅, 目黒川沿い, 区民ギャラリー, 東京急行電鉄目黒線, 目黒区民センターホール, 目黒区
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:旧自証院霊屋(江戸東京たてもの園)--------------------
+top3 entities near to cluster0>>
+赤, 黒, 白
+top3 entities near to cluster2>>
+母方, 父方, 祖父
+top3 entities near to cluster4>>
+霊廟, 廟, 墓所
+top3 entities near to cluster5>>
+光友, 綱誠, 圀順

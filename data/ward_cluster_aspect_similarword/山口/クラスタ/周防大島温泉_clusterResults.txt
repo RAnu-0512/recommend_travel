@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:周防大島温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+演歌, 演歌風呂
+cluster1:(2)
+風呂, 入浴
+cluster2:(3)
+ホテル, 露天風呂, 温泉
+cluster3:(1)
+肌
+cluster4:(3)
+感じ, 地, こと
+cluster5:(1)
+潮騒
+cluster6:(1)
+生誕
+cluster7:(5)
+周防大島町, 山口県, 星野哲郎, 作詞家故, 瀬戸
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 8
+deleted 0entities.

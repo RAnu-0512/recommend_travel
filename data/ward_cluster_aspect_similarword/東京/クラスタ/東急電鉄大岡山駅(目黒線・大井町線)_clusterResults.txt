@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急電鉄大岡山駅(目黒線・大井町線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+人達, 多く, 東京工業大学, 人, 名, ホーム, 上, 大岡山, 前, 桜, 大学生, 目, 乗り換え
+cluster1:(5)
+大学, 病院, 路線, 駅, 地名
+cluster2:(6)
+目黒, 目黒線, 東急病院, 東急電鉄, 大井町線, 大田区
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 3
+deleted 0entities.

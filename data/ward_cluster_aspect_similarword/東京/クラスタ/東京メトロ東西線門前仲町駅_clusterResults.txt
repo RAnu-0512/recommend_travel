@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ東西線門前仲町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+東西, 東京メトロ24, 木場, 都, 深川不動堂, 江戸線, 江東区, 東京メトロ, 都営
+cluster1:(5)
+乗換, 沿線, 電車, 車, 観光スポット
+cluster2:(7)
+最寄り駅, スイーツ, アーケード, 富岡八幡宮, 東西線, シリーズ, 乗り換え
+cluster3:(2)
+昔, 方
+cluster4:(5)
+一帯, 市, 風景, 下町, 周辺
+cluster5:(8)
+日本一混む電車, 門前仲町駅, 駅, 時間券, 途中下車, 飲食店, 駅発, 乗り換え駅
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 6
+deleted 0entities.

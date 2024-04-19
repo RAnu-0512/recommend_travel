@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線 麻布十番駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+繁華街, 商店街
+cluster1:(9)
+駅, 駅名, 由来, 都営地下鉄, 距離, 地下道, 交差点, 乗り換え, 麻布十番
+cluster2:(2)
+麻布, 江戸線
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

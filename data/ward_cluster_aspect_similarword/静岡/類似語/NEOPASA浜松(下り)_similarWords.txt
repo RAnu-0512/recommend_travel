@@ -1,0 +1,11 @@
+--------------------similar_words:NEOPASA浜松(下り)--------------------
+top3 entities near to cluster1>>
+土産, 名産, おみやげ
+top3 entities near to cluster2>>
+電子, 書籍, ピアノ
+top3 entities near to cluster5>>
+楽器, 演奏, ピアノ
+top3 entities near to cluster6>>
+料理, 食事, レストラン
+top3 entities near to cluster8>>
+鰻, うなぎ, ウナギ

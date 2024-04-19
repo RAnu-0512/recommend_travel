@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:虎ノ門駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+門駅, 新橋駅, 港区, 駅, 虎ノ門駅, 虎ノ門ヒルズ駅, 東京メトロ, 銀座線
+cluster1:(2)
+改札, ホームドア
+cluster2:(12)
+閑散, オフィスビル, 霞ヶ関, 虎ノ門, 虎ノ門ヒルズ, 人, 出入口, 近く, 虎, ホーム, 付近, 天井
+cluster3:(4)
+オフィス街, 街歩き, 飲食店, 開業予定
+cluster4:(2)
+気象庁気象科学館, 港区立みなと科学館
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

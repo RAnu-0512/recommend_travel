@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐々部のカキノキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+佐々部, カキノキ
+cluster1:(1)
+国
+cluster2:(1)
+カキ
+cluster3:(1)
+渋
+cluster4:(1)
+安芸
+cluster5:(1)
+推定樹齢270年カキノキ
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

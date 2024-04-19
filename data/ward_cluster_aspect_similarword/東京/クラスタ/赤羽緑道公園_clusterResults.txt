@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤羽緑道公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+赤羽駅, 赤羽自然観察公園
+cluster1:(2)
+桜, 緑
+cluster2:(3)
+遊歩道, 自転車, ジョギングコース
+cluster3:(2)
+人, 気持ち
+cluster4:(2)
+場所, 感じ
+cluster5:(1)
+名前
+cluster6:(3)
+公園, 往復, 散歩
+cluster7:(1)
+季節毎
+cluster8:(1)
+散策道路
+cluster9:(1)
+銀杏並木
+
+howmany entities : 18
+howmany clusters : 10
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 10
+deleted 0entities.

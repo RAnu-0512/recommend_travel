@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長者ヶ原山ツツジ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ヶ原山ツツジ公園, 長者ヶ原山ツツジまつり, ヶ原山つつじ公園
+cluster1:(5)
+駐車場, ツツジ公園, 公園, 自然, 自然公園
+cluster2:(10)
+全体, 時期, 地元, GW, 人, ツツジ, 中, 全て, 伊浜, 場所
+cluster3:(2)
+姿, 道
+cluster4:(2)
+長者, 南伊豆町
+cluster5:(3)
+山ツツジ, 緑, 山
+cluster6:(2)
+景観, 山々
+cluster7:(1)
+見頃
+cluster8:(1)
+静岡県
+cluster9:(1)
+斜面一面
+
+howmany entities : 30
+howmany clusters : 10
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 9entities.

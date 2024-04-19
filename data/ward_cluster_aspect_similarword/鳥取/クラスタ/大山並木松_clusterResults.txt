@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山並木松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+地面, 建物, 参道, 根, 車, 奥, 足湯, 左, 大山寺, 右手前, 大山口, 往来, こと, 左手, 枯死, 古来, 温泉施設, もの, 松, 途中, ルート, 通り, 道路
+cluster1:(4)
+大山, 大山参道市場, 大山道路, 大山道
+cluster2:(3)
+並木松, 松並木, 途中所々松
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 3
+deleted 0entities.

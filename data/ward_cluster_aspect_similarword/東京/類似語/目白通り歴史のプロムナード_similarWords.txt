@@ -1,0 +1,15 @@
+--------------------similar_words:目白通り歴史のプロムナード--------------------
+top3 entities near to cluster0>>
+跡, 石碑, 標柱
+top3 entities near to cluster1>>
+駅, 工事, 地下鉄
+top3 entities near to cluster2>>
+歴史, 伝統
+top3 entities near to cluster4>>
+発祥地, 発祥, 界隈
+top3 entities near to cluster5>>
+目白, とおり
+top3 entities near to cluster6>>
+駅地, 発祥地, 駅, 発祥
+top3 entities near to cluster7>>
+新選, 屯所, 新撰

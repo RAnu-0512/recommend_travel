@@ -1,0 +1,7 @@
+--------------------similar_words:水元かわせみの里(水質浄化センター)--------------------
+top3 entities near to cluster0>>
+水質, 浄化, 汚染
+top3 entities near to cluster1>>
+鳥, 野鳥, 展示
+top3 entities near to cluster2>>
+里, 佐原, かわせみ

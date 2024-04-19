@@ -1,0 +1,13 @@
+--------------------similar_words:東京メトロ東西線 葛西駅--------------------
+top3 entities near to cluster0>>
+地下鉄, メトロ, 駅
+top3 entities near to cluster1>>
+高架, 駅, 高架線
+top3 entities near to cluster2>>
+駅, 駅前, 南口
+top3 entities near to cluster3>>
+地上, 地下, 地表
+top3 entities near to cluster4>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster5>>
+停車, 各駅, 道路

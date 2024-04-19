@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:きものレンタルwargo 東京浅草店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+店員, 店員さ
+cluster1:(3)
+観光, 外国, 客
+cluster2:(2)
+糸, 汚れ
+cluster3:(3)
+気持ち, 思い出, センス
+cluster4:(3)
+アップグレード, お気に入り, スカイツリー
+cluster5:(2)
+スタッフ, サービス
+cluster6:(1)
+インナー
+cluster7:(1)
+サイズ
+cluster8:(1)
+プラス
+cluster9:(1)
+バック
+cluster10:(1)
+プラン
+cluster11:(1)
+コロナ
+cluster12:(3)
+浅草寺, 着付け, 手荷物
+cluster13:(1)
+写真
+cluster14:(8)
+店, 最後, 夕方, 奥, 友達, 母, 友人, 店内
+cluster15:(22)
+季節, 量, 利用, 気, 返却, 感じ, オープン時間, ほか, プラス料金, 影響, 時期, 点, 体験, 数, 予約, 機会, 予定, 時間, 方, 対応, こと, もの
+cluster16:(17)
+浴衣, 営業終了時間, 浅草駅, 身長, スタンダード着物プラン, 東京, 髪型, 着付, 髪飾り, 着物選び, 浅草観光, 浅草, ハイエンド着物, ヘア, 着物, ヘアセット, 花火大会
+cluster17:(1)
+浅草散策しよう!
+
+howmany entities : 73
+howmany clusters : 18
+howmany entities (more than1entities) : 73
+howmany clusters (more than1entities) : 18
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ファイアー通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お買物, 飲食店
+cluster1:(3)
+通り沿い, 通り, ファイアー通り
+cluster2:(12)
+途中, 多く, 人, 人気, 間, 近く, 名前, 由来, 多数, 休憩, 語源, こと
+cluster3:(3)
+通り名, 交差点, 消防署
+cluster4:(6)
+ファイアー, ファイヤー, イメージ, ショップ, ファッション, アパレル
+cluster5:(2)
+スタバ, カフェ
+cluster6:(1)
+マルイ
+cluster7:(1)
+タワーレコード
+cluster8:(7)
+店, 線路, 駅, 音楽, ビル, 分野, 道
+cluster9:(12)
+原宿方面, 山手線, タワーレコード渋谷店, 神南一丁目, 岸記念体育館, 原宿, 渋谷, 丸井渋谷店, 原宿駅, 渋谷駅, マルイシティ渋谷店, 渋谷消防署
+
+howmany entities : 49
+howmany clusters : 10
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 10
+deleted 0entities.

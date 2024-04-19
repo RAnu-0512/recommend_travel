@@ -1,0 +1,11 @@
+--------------------similar_words:徳川家康公鷹狩り像--------------------
+top3 entities near to cluster0>>
+家康, 秀吉, 秀忠
+top3 entities near to cluster3>>
+本丸, 跡, 天守
+top3 entities near to cluster4>>
+発掘, 調査, 捜索
+top3 entities near to cluster7>>
+姿, 写真, 風景
+top3 entities near to cluster8>>
+銅像, 威厳

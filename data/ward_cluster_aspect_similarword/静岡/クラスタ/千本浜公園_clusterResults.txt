@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千本浜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+沼津港, 沼津駅, 沼津市
+cluster1:(6)
+富士, 松, 井上靖, 松原, 林, 松林
+cluster2:(5)
+海岸, 砂浜, 浜, 海辺, 海
+cluster3:(2)
+海原, 波
+cluster4:(1)
+海右手
+cluster5:(1)
+潮騒
+cluster6:(1)
+海岸沿い
+cluster7:(1)
+ほしの砂
+cluster8:(12)
+少年時代, 文化人, 映画作品, 歌人, 都市公園, 文学碑, 駐車場, 児童公園, 公園, 文人, 歌碑, 遊具
+cluster9:(4)
+所縁, イラストマンホール蓋, 東端, 東側
+cluster10:(21)
+車, 多く, 鳥, 人, 今回, ほか, 中, 自然, 子供, 間, 季節, 心, 感じ, 声, 場所, 気分, 日々, 土地, 仕事, 香り, 近く
+cluster11:(11)
+記念碑, 千本山, 気持ち, ウォーキング, スポット, レイドバトル, イメージ, サンシャイン, ジョギング, ススメ, アニメ
+cluster12:(3)
+海沿い, 遊歩道, ハイキングコース
+cluster13:(3)
+富士山, 駿河湾, 千本松
+cluster14:(2)
+ジム, XP
+cluster15:(1)
+おすすすめ
+cluster16:(3)
+ポケモンGO, ラブライブ, ポケモンGOスポット
+cluster17:(2)
+写真撮影, 写真
+cluster18:(2)
+晴天, 天気
+cluster19:(3)
+散歩, 散歩コース, 散策
+cluster20:(6)
+千本松原, 千本浜海岸沿い, 千本浜公園, 千本浜海岸, 千本浜, 千本浜沿いの千本浜公園
+
+howmany entities : 93
+howmany clusters : 21
+howmany entities (more than3entities) : 80
+howmany clusters (more than3entities) : 12
+deleted 13entities.

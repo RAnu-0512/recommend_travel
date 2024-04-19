@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江汐公園_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+もの, アスレチック
+cluster1:(1)
+公園
+cluster2:(1)
+花見
+cluster3:(1)
+咲くさくら
+cluster4:(1)
+駐車場
+cluster5:(1)
+江汐公園
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふじさんめっせ(富士市産業交流展示場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+富士山, ドーン, イベント
+cluster1:(2)
+目, 前
+cluster2:(1)
+名前
+cluster3:(1)
+天気
+cluster4:(1)
+ふじ
+cluster5:(1)
+駐車場
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

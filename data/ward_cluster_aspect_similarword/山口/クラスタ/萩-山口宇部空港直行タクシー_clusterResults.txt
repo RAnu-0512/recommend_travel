@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩-山口宇部空港直行タクシー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+萩山口, 萩
+cluster1:(2)
+直行タクシー, 宇部空港
+
+howmany entities : 4
+howmany clusters : 2
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 2
+deleted 0entities.

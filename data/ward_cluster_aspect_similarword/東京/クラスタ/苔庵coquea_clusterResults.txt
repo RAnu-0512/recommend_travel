@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:苔庵coquea>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+カレー, 勉強, 身体, ランチ, 手作り, 説明, ルーペ, 主人
+cluster1:(3)
+豆腐, 苔, 野菜
+cluster2:(1)
+ワンプレート
+cluster3:(5)
+珈琲豆, 柚子胡椒, 焙煎, 珈琲, 豆知識
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

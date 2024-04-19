@@ -1,0 +1,9 @@
+--------------------similar_words:ゆりかもめ テレコムセンター駅--------------------
+top3 entities near to cluster0>>
+都営, バス, 駅
+top3 entities near to cluster1>>
+海図, 地図, 書物
+top3 entities near to cluster2>>
+展示, 資料, 見学
+top3 entities near to cluster3>>
+資料, 館, 情報

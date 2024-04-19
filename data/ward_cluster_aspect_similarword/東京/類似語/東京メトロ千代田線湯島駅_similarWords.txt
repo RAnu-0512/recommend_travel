@@ -1,0 +1,13 @@
+--------------------similar_words:東京メトロ千代田線湯島駅--------------------
+top3 entities near to cluster1>>
+救急, 病院, 東大
+top3 entities near to cluster2>>
+電車, 駅, 構内
+top3 entities near to cluster3>>
+慌て, あわて, 急ぐ
+top3 entities near to cluster5>>
+都線, メトロ線, メトロ, 都
+top3 entities near to cluster6>>
+怪我, けが, ケガ
+top3 entities near to cluster7>>
+参拝, 新年, 参詣

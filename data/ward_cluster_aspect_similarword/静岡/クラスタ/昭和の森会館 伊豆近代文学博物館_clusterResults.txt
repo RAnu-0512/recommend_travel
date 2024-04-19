@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昭和の森会館 伊豆近代文学博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天城越え, 駅 天城越え
+cluster1:(12)
+勉強, 初め伊豆, 昭和, 森会館, 資料, 駅, 伊豆, 中, 作家, 踊子, ゆかり, 道
+cluster2:(5)
+近代文学, 文学者, 文学博物館, 文学作品, 伊豆近代文学博物館.
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 2entities.

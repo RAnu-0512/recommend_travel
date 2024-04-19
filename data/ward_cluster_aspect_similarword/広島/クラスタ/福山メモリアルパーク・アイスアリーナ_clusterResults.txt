@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福山メモリアルパーク・アイスアリーナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+子供, 人, 子ども, 年配, 我が子, 子供達, 女性
+cluster1:(3)
+接客, 態度, 言動
+cluster2:(2)
+プール, ナイトプール
+cluster3:(5)
+ゴーカート, トラウマ, こっち, スピーカー, メモリアル
+cluster4:(2)
+スケート, ナイター
+cluster5:(2)
+言い方, ルール
+cluster6:(1)
+日中
+cluster7:(4)
+途中, 対応, 言葉, こと
+cluster8:(5)
+野外, アイススケート場, 冬場, 公園, 遊具
+cluster9:(1)
+監視員
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 10
+deleted 0entities.

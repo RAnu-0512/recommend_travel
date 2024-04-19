@@ -1,0 +1,9 @@
+--------------------similar_words:矢部家住宅--------------------
+top3 entities near to cluster0>>
+文化財, 史跡
+top3 entities near to cluster1>>
+民家, 住宅, 家屋
+top3 entities near to cluster3>>
+農家, 上層, 農民
+top3 entities near to cluster4>>
+ごろ, 初め, 中頃

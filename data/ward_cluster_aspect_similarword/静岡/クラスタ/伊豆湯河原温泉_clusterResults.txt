@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆湯河原温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+像, 灯篭, 大仏, 寺
+cluster1:(6)
+気, 間近, 注意, 身, 傾向, 内容
+cluster2:(2)
+松, 泉
+cluster3:(10)
+ホテル, 千歳川, 川, 旅館, 旅先, 気持ち, 露天風呂, ニューウェルシティ湯河原, インパクト, 福泉寺
+cluster4:(11)
+由来, 側, 脇, 看板, 階段, 上, 中, 場所, 他, 双方, 木
+cluster5:(2)
+住所, 県境
+cluster6:(1)
+独歩
+cluster7:(20)
+静岡県, 熱海温泉, 温泉, 茶猫ちゃん, 温泉街, 熱海駅, 福泉寺の首大仏, 万葉公園, 熱海市, いずみの湯, 温泉街らしさ, 湯河原温泉, 湯河原駅, 首大仏, 湯河原町, 温泉地, 神奈川県, 伊豆湯河原温泉, 湯, 日帰り温泉
+
+howmany entities : 56
+howmany clusters : 8
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 5
+deleted 5entities.

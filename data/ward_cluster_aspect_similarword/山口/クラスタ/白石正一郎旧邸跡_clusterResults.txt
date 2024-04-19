@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白石正一郎旧邸跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+植え込み, 中, 中国, 端, 周辺
+cluster1:(2)
+石碑, 地図
+cluster2:(1)
+白石
+cluster3:(3)
+電力ビル, 下関駅, 観光案内
+cluster4:(1)
+高杉晋作 奇兵隊結成の地
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

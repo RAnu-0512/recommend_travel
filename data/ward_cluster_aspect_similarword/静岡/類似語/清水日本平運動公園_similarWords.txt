@@ -1,0 +1,13 @@
+--------------------similar_words:清水日本平運動公園--------------------
+top3 entities near to cluster1>>
+バス, 乗り場, タクシー
+top3 entities near to cluster2>>
+公園, 敷地, 広場
+top3 entities near to cluster3>>
+遊具, 動物, 子供
+top3 entities near to cluster5>>
+スタジアム, 会場, 席
+top3 entities near to cluster6>>
+観戦, スタジアム, サッカー
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏

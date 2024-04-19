@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Tienda-SUMIN>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+制作, 要望, 作成
+cluster1:(6)
+レジン, 作品, 基本, 話, 先生, 時間
+cluster2:(2)
+駅, 海
+cluster3:(1)
+コツ
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

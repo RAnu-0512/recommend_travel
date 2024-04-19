@@ -1,0 +1,13 @@
+--------------------similar_words:福田漁港・渚の交流館--------------------
+top3 entities near to cluster0>>
+売店, 清掃, 店員
+top3 entities near to cluster1>>
+海波, 海, 渚
+top3 entities near to cluster5>>
+サービス, レストラン, ホテル
+top3 entities near to cluster13>>
+定食屋, 野菜, 定食
+top3 entities near to cluster14>>
+施設, 駐車場, 駐車
+top3 entities near to cluster15>>
+海鮮, しらす, 漁師

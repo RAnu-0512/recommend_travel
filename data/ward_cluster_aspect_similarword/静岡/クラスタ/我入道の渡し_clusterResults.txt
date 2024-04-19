@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:我入道の渡し>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+のりば, ばからあゆみ橋のりば
+cluster1:(2)
+沼津, 沼津港
+cluster2:(12)
+往復, クルーズ, こと, 料金, 狩野川, 皮, 時間, 富士山, 魅力, 人気, 待ち時間, 方
+cluster3:(5)
+船, 船頭, 渡し舟, 渡し船, 航路
+cluster4:(4)
+あゆみ橋, 川, 対岸, 河口
+cluster5:(7)
+乗船場, 乗船, 運航日, 市街地中心部, 観光パンフレット, 観光地, 時間帯
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 4entities.

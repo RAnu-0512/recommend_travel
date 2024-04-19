@@ -1,0 +1,93 @@
+--------------------similar_words:コートヤードマリオット銀座東武ホテル--------------------
+top3 entities near to cluster0>>
+制限, 時間, 制約
+top3 entities near to cluster1>>
+制限, 時間, 無制限
+top3 entities near to cluster2>>
+時間, 時分, 時
+top3 entities near to cluster3>>
+食べ放題, 飲み放題, 食べ, 飲み
+top3 entities near to cluster4>>
+出来
+top3 entities near to cluster5>>
+料理店, 料理, 施設
+top3 entities near to cluster6>>
+パンブッフェ, アフタヌーンティセット, フィッシュサンド
+top3 entities near to cluster7>>
+ディナー, シーフード, レストラン
+top3 entities near to cluster8>>
+アツアツ, アルデンテ, 熱々
+top3 entities near to cluster9>>
+マリオット, ホテルマリオット, マリオットグループ
+top3 entities near to cluster10>>
+ケーキ, マフィン, デザート
+top3 entities near to cluster11>>
+マナー, コスパ, コストパフォーマンス
+top3 entities near to cluster12>>
+雰囲気, 気持ち, 見た目
+top3 entities near to cluster13>>
+テーマ, メイン, メーン
+top3 entities near to cluster14>>
+グループ, それぞれ, 各々
+top3 entities near to cluster15>>
+スタッフ, サービス, スッタフ
+top3 entities near to cluster16>>
+ポイント, スタート, 地点
+top3 entities near to cluster17>>
+パープル, スパイシー, ピンク
+top3 entities near to cluster18>>
+イベント, クリスマス, ハロウィン
+top3 entities near to cluster19>>
+ミニサイズ, ラインナップ, お気に入り
+top3 entities near to cluster20>>
+イメージ, 印象, ビジュアルイメージ
+top3 entities near to cluster21>>
+クオリティ, ボリューム, テンション
+top3 entities near to cluster22>>
+リピート, リピ, ・・リピート
+top3 entities near to cluster23>>
+セット, クーポン, 単品
+top3 entities near to cluster24>>
+サイト, レビュー, アプリ
+top3 entities near to cluster25>>
+ケーキ, アイス, タルト
+top3 entities near to cluster26>>
+ホット, コロナ, スズキ
+top3 entities near to cluster27>>
+ヌードル, カップ, カップラーメン
+top3 entities near to cluster28>>
+飲み物, ジュース, ドリンク
+top3 entities near to cluster29>>
+ソース, コード, 味付け
+top3 entities near to cluster30>>
+サラダ, パスタ, オクラ
+top3 entities near to cluster31>>
+シェフ, 調理場, コック
+top3 entities near to cluster32>>
+ステーキ, カレー, ハンバーグ
+top3 entities near to cluster33>>
+ビュッフェ, テーブル, ビッフェスタイル
+top3 entities near to cluster35>>
+朝食, 夕食, 朝飯
+top3 entities near to cluster36>>
+男女, 男子, 女
+top3 entities near to cluster38>>
+姉, 友人, 妹
+top3 entities near to cluster40>>
+話, 部分, エピソード
+top3 entities near to cluster41>>
+店内, 部屋
+top3 entities near to cluster42>>
+席, 着席, 座席
+top3 entities near to cluster43>>
+予約, 注文, 案内
+top3 entities near to cluster44>>
+季節, 時期, 時季
+top3 entities near to cluster45>>
+瞻星台, 台数, 瞻星
+top3 entities near to cluster46>>
+ランチ, ディナー, ランチタイム
+top3 entities near to cluster47>>
+値段, 品数, 価格
+top3 entities near to cluster48>>
+野菜, 料理, 魚介

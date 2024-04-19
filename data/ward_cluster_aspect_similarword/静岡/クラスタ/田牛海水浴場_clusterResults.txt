@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田牛海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡県, 下田市
+cluster1:(6)
+民宿, 混雑, 海水浴客, 観光スポット, 浴場, 穴場スポット
+cluster2:(2)
+さわり心地, 透明度
+cluster3:(5)
+海水, 海岸, 海, 砂浜, 洞窟
+cluster4:(3)
+砂, 波, 石
+cluster5:(23)
+パワースポット, 隣, 水, 夏スキー, 家族, ビーチ, パウダーサンド, 海水浴, :... o, シーズン, 人, 気持ち, 風, 足, 夏, 近く, ≧▽≦, 子ども, 場所, のびのびと海水浴, マリンスポーツ, オススメ, サーファー
+cluster6:(9)
+海水浴場, サンドスキー場, 泳ぎ田牛海岸, 田牛海岸, 吉佐美大浜海岸, 天然のサンドスキー場, 海岸線, 龍宮窟, 田牛海水浴場
+cluster7:(1)
+=́∀`
+
+howmany entities : 51
+howmany clusters : 8
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 5
+deleted 5entities.

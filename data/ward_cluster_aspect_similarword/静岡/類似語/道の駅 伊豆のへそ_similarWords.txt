@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅 伊豆のへそ--------------------
+top3 entities near to cluster0>>
+駅店, 土産店, 駅, 土産
+top3 entities near to cluster1>>
+ホテル, レストラン, スイーツ
+top3 entities near to cluster2>>
+いちご, イチゴ, 苺
+top3 entities near to cluster7>>
+果物店, 野菜, 果物

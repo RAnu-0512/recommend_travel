@@ -1,0 +1,15 @@
+--------------------similar_words:熊谷恒子記念館--------------------
+top3 entities near to cluster0>>
+住宅, 都営, 駅
+top3 entities near to cluster1>>
+電車, 車両
+top3 entities near to cluster3>>
+地下鉄, パーキング, コイン
+top3 entities near to cluster4>>
+庭, 裏庭, 庭先
+top3 entities near to cluster6>>
+手引書, 書出し, 手引
+top3 entities near to cluster7>>
+館, 記念, 記念碑
+top3 entities near to cluster8>>
+恒子, 岱蔵, 咏

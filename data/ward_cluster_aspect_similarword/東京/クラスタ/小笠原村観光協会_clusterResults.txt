@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小笠原村観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+二見港, 港
+cluster1:(10)
+中, 旅, カンバッヂ, 場所, 角, パンフ, さわら丸, ツアー, 紹介, 何か
+cluster2:(1)
+船客待合所
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

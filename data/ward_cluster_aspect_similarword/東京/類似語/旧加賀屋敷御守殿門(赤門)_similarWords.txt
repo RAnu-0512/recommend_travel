@@ -1,0 +1,13 @@
+--------------------similar_words:旧加賀屋敷御守殿門(赤門)--------------------
+top3 entities near to cluster0>>
+守門, 殿門, 守, 殿
+top3 entities near to cluster1>>
+記念, 講堂, 写真
+top3 entities near to cluster2>>
+人達, 人々
+top3 entities near to cluster4>>
+正門, 敷地, 裏手
+top3 entities near to cluster5>>
+赤門, 大学, 東大
+top3 entities near to cluster6>>
+屋敷, 武家, 外国

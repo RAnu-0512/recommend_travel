@@ -1,0 +1,23 @@
+--------------------similar_words:樋口一葉旧居跡--------------------
+top3 entities near to cluster0>>
+跡, 旧居, 旧宅
+top3 entities near to cluster1>>
+住宅地, 住宅, 住宅街
+top3 entities near to cluster2>>
+路地裏, 路地, 裏通り
+top3 entities near to cluster3>>
+建物, 住居, 井戸
+top3 entities near to cluster4>>
+面影, 風情, 趣き
+top3 entities near to cluster7>>
+昔, 辺り, 大昔
+top3 entities near to cluster9>>
+一角, 裏手, 立ち並ぶ
+top3 entities near to cluster10>>
+こころ, ココロ
+top3 entities near to cluster12>>
+夭折, 夭逝, 早世
+top3 entities near to cluster13>>
+一葉, 樋口, 坪内
+top3 entities near to cluster14>>
+坂, ざか, 炭団

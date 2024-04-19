@@ -1,0 +1,11 @@
+--------------------similar_words:堂ケ島温泉沢田公園露天風呂--------------------
+top3 entities near to cluster1>>
+施設, 駐車, 案内
+top3 entities near to cluster3>>
+景色, 絶景, 景観
+top3 entities near to cluster4>>
+女性人, 男性人, 女性, 男性
+top3 entities near to cluster5>>
+海風, 海, 海面
+top3 entities near to cluster7>>
+温泉, 露天風呂, 湯船

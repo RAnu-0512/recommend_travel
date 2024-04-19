@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中木マリンセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+船, 岩, ロープ, 手袋, 全員, 傷だらけ, 手, 人, シャワー, イルカ, 開始, トイレ, グループ, 体験ダイビング, 待ち時間, 他, 許可, 方, 着替え, 中木
+cluster1:(3)
+海中散歩, トガイ浜, ヒリゾ浜
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 0entities.

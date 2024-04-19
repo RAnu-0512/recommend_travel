@@ -1,0 +1,13 @@
+--------------------similar_words:音信川--------------------
+top3 entities near to cluster1>>
+休憩, 朝食, 昼食
+top3 entities near to cluster2>>
+川遊び, 飛び石, 水遊び
+top3 entities near to cluster3>>
+ベンチ, ホテル, 願い事
+top3 entities near to cluster5>>
+土水, 土
+top3 entities near to cluster6>>
+小雨, ぱらつく
+top3 entities near to cluster7>>
+川, 温泉, 川床

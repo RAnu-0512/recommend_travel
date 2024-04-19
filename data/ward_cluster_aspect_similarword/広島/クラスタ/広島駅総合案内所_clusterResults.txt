@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島駅総合案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+新幹線口, 広島, 県庁所在地, 広島県, 新幹線改札口, 広島駅, 新幹線口側, 改札, 北口, 南口
+cluster1:(2)
+基調, 赤
+cluster2:(5)
+新人, JR, 大型スクリーン, 地下, 英
+cluster3:(3)
+優勝, 土産, 席
+cluster4:(2)
+カープ, 新幹線
+cluster5:(2)
+スタッフ, ベテラン
+cluster6:(4)
+カウンター, デザイン, パンフレット, カープファン
+cluster7:(1)
+ところ
+cluster8:(1)
+売り切れ
+cluster9:(2)
+売り場, 本拠地
+cluster10:(4)
+印象, ほう, こと, 場所
+cluster11:(1)
+はっさく大福
+cluster12:(8)
+各種情報, 資料, 観光情報, 語対応, 観光, 案内所, 情報, 観光案内所
+cluster13:(1)
+・・・観光案内所
+
+howmany entities : 46
+howmany clusters : 14
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 14
+deleted 0entities.

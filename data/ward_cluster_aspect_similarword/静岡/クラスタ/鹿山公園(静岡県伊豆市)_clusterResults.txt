@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿山公園(静岡県伊豆市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+指月殿, 源頼
+cluster1:(13)
+像, 裏手, 吉田絃二郎, 案内, おしゃぶり婆さん, 家, 修善寺温泉, 墓, 鹿山公園, 源義経像, 山, 公園, 銅像
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

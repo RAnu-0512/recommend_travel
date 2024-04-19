@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:時計塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+渋公, 渋谷, 渋谷公会堂, 渋谷駅, 渋谷区役所
+cluster1:(5)
+からくり時計, 仕掛け時計, 時計塔, 塔, 時計
+cluster2:(31)
+閑散, 周囲, 場所, NHK, 人, 公園, 銀色, 感じ, 一角, 改修, 近く, 工事, 広場, 存在, 代々木公園, CCレモンモール, 派手, 音楽, 時間, 完成, 目印, 市役所, 敷地, インパクト, 写真, 待ち合わせ場所, 公園通り, 目, 待ち合わせ, 辺り, ポケモンGO
+cluster3:(2)
+駐車場, 時間帯
+
+howmany entities : 43
+howmany clusters : 4
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 4
+deleted 0entities.

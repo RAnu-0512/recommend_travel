@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江田島市学びの館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歴史, 場所, イメージ
+cluster1:(2)
+館, 展示
+cluster2:(1)
+学び
+cluster3:(1)
+江田島市
+cluster4:(2)
+江田島術科, 兵学校
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東照宮のイチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三代将軍家光, 徳川家光
+cluster1:(3)
+東京都, 都, 江戸時代
+cluster2:(23)
+大樹, 心, 天然記念物, 風格, 気, 木, 紅葉, 樹, 東照, 幹, イチョウ, 芝公園, 高さ, 東照宮のイチョウ, 周り, 身, 歴史, 神, 森林浴休憩, 境内, パワー, 大木, 色
+cluster3:(3)
+芝東照宮, 芝東照宮のイチョウ, 推定樹齢
+
+howmany entities : 31
+howmany clusters : 4
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 4
+deleted 0entities.

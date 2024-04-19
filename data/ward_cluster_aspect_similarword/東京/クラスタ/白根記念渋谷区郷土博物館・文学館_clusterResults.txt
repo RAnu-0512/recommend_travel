@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白根記念渋谷区郷土博物館・文学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+実践女子大香雪記念資料館, 渋谷区郷土博物館, 白根記念渋谷区郷土博物館, 郷土博物館・文学館
+cluster1:(12)
+文学資料, 資料館, 入館無料, 郷土資料, 入館料, 郷土博物館, 郷土, 開館時間, 議会議員, 文学者, 文学館, 資料
+cluster2:(7)
+撮影スポット, 見学, 撮影, 写真, 勉強, 展示物, 展示
+cluster3:(7)
+場所, 感じ, 関係, 機会, 時間, 注意, もの
+cluster4:(4)
+建物, 館内, 施設, 邸宅
+cluster5:(2)
+文化, 歴史
+cluster6:(2)
+昔, 子供
+cluster7:(6)
+カメラ, ところ, ハチ公, 博物館, 國學院大學博物館, コーナー
+cluster8:(1)
+東京オリンピック
+cluster9:(1)
+宅地
+cluster10:(1)
+重厚感
+cluster11:(8)
+恵比寿駅, 故白根全忠, 國大博物館, 区, 渋谷駅, 徒歩, 渋谷区, 渋谷らしさ
+
+howmany entities : 55
+howmany clusters : 12
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 12
+deleted 0entities.

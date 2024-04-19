@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大瀬の神池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ご神木, 拝観料, 参拝者
+cluster1:(5)
+海水, 餌, 真水, エサ, 雨水
+cluster2:(12)
+最後, 周り, 間際, 沢山, 入口, 人, 口, 時間, 奥, 中, 先端, 間
+cluster3:(2)
+面白, 不思議さ
+cluster4:(5)
+ダイビング, 入り口, ダイバー, パワー, 雰囲気
+cluster5:(3)
+湧き水, 富士山, 自販機
+cluster6:(1)
+淡水魚
+cluster7:(1)
+大瀬崎
+cluster8:(1)
+料金
+cluster9:(1)
+散歩
+cluster10:(8)
+敷地, 湖, 夕闇, 鯉, 神社, 海, 半島, 神池
+cluster11:(6)
+池近く, 大瀬神社, 淡水池, 池, 大瀬, 淡水
+
+howmany entities : 48
+howmany clusters : 12
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 7
+deleted 6entities.

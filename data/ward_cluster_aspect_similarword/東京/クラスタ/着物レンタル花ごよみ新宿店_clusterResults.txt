@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着物レンタル花ごよみ新宿店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+途中, こと
+cluster1:(2)
+着崩れ, 着付け
+cluster2:(2)
+ホテル, 振舞え
+cluster3:(2)
+店, 食事
+cluster4:(1)
+行事
+cluster5:(1)
+正座
+cluster6:(4)
+裾, 着物持ち込み, ヘアセット, 着物
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

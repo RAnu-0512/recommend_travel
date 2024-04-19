@@ -1,0 +1,15 @@
+--------------------similar_words:山野峡キャンプ場--------------------
+top3 entities near to cluster0>>
+峡, 龍, 竜
+top3 entities near to cluster1>>
+河, 川, 四方
+top3 entities near to cluster2>>
+空気, 常設
+top3 entities near to cluster3>>
+夏水, 夏, 土水, 土
+top3 entities near to cluster4>>
+テント, キャンプ, キャンプサイト
+top3 entities near to cluster5>>
+星空, 夜空, レゲエバッシュ
+top3 entities near to cluster6>>
+渓谷, 峡谷, 自然

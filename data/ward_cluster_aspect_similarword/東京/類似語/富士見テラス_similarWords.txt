@@ -1,0 +1,9 @@
+--------------------similar_words:富士見テラス--------------------
+top3 entities near to cluster0>>
+テラス, 山頂
+top3 entities near to cluster1>>
+駅, 写真, 構内
+top3 entities near to cluster2>>
+鍵, カギ, 合鍵
+top3 entities near to cluster3>>
+天気, お天気, 予報

@@ -1,0 +1,9 @@
+--------------------similar_words:JR 飯田橋駅--------------------
+top3 entities near to cluster0>>
+雨天, 傘
+top3 entities near to cluster1>>
+沿線, 駅, 駅前
+top3 entities near to cluster2>>
+階段, 箇所, か所
+top3 entities near to cluster4>>
+仕事帰り, 仕事, 帰る

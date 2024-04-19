@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フォレストアドベンチャー・広島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 近場
+cluster1:(2)
+高さ, 達成感
+cluster2:(4)
+子供, 大人, スタッフさん達, 子供達
+cluster3:(5)
+記入, 予約, 消毒, 料金, 受付
+cluster4:(24)
+ゴールデンウィーク, 最後, 方, レジャー, アクセス, コース, 娘, 感じ, 人, アドベンチャーコース, キャノピーコース, 家族, コロナ, ジップライン, スタッフ, 時間, 支払い, 人達, こと, 待ち時間, アドベンチャー, 気持ち, 声, フォレストアドベンチャー・広島
+cluster5:(5)
+野外, 新型コロナウイルス, 体温, 屋外, 遊具
+
+howmany entities : 42
+howmany clusters : 6
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 6
+deleted 0entities.

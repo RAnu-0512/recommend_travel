@@ -1,0 +1,19 @@
+--------------------similar_words:かちどき橋の資料館--------------------
+top3 entities near to cluster1>>
+奥, 手前, 入り口
+top3 entities near to cluster2>>
+勝鬨橋, 鉄橋
+top3 entities near to cluster3>>
+建物, 家屋, 土地
+top3 entities near to cluster4>>
+映像, ビデオ, 作品
+top3 entities near to cluster5>>
+展示, 出展, 展覧
+top3 entities near to cluster6>>
+土, 木火, 木
+top3 entities near to cluster7>>
+興味, 関心, 興味津々
+top3 entities near to cluster8>>
+資料, 館, 見学
+top3 entities near to cluster9>>
+木火, 土, 木

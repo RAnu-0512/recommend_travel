@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藤枝市陶芸センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+県, 土, 中部, 藤枝
+cluster1:(2)
+焼き上がり, コロナ禍
+cluster2:(7)
+冒険, 家族, 知識, 旅行, 夫婦, 子供, 子供たち
+cluster3:(5)
+事, どちらか, 心配, もの, 方
+cluster4:(2)
+状態, 形
+cluster5:(3)
+前回, 次, 他
+cluster6:(9)
+かき氷, スタッフ, 出来上がり, 仕組み, 娘, 雰囲気, 先生, イメージ, 山
+cluster7:(2)
+時間, 色
+cluster8:(1)
+建物
+cluster9:(1)
+手先
+cluster10:(3)
+価格, 値段, 小鉢
+cluster11:(11)
+完成, 陶芸, 追加料金, 予約, 完成品, 体験, 掲示, 陶芸体験, 到着, 作品作り, 作品
+cluster12:(1)
+電動ろくろ体験
+
+howmany entities : 51
+howmany clusters : 13
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 7
+deleted 9entities.

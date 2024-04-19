@@ -1,0 +1,23 @@
+--------------------similar_words:Zepp DiverCity Tokyo--------------------
+top3 entities near to cluster0>>
+地下, 施設, 設備
+top3 entities near to cluster1>>
+ライブ, コンサート, ライヴ
+top3 entities near to cluster2>>
+行列, 開場, 開演
+top3 entities near to cluster3>>
+配信, 放送, イベント
+top3 entities near to cluster4>>
+段ボール箱, 段ボール
+top3 entities near to cluster5>>
+終了, 時間, 開始
+top3 entities near to cluster7>>
+記憶, ルートセヴン, 思い出す
+top3 entities near to cluster8>>
+留意, 事項, 要注意
+top3 entities near to cluster9>>
+代, ドリンク, 引料
+top3 entities near to cluster10>>
+席, 入場, 時間
+top3 entities near to cluster11>>
+最, 作品, 無料

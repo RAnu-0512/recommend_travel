@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ザ・コンランショップ 丸の内店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+基調, 白
+cluster1:(3)
+丸の内, 東京, 丸ビル
+cluster2:(3)
+センス, 居心地, 雰囲気
+cluster3:(5)
+おすすめ, 時間切れ, 乗り換え, お気に入り, 待ち合わせ
+cluster4:(4)
+ザ・コンランショップ, スタイリッシュ, コンランショップ, ファブリック
+cluster5:(2)
+インテリア, デザイン
+cluster6:(1)
+ガラス張り
+cluster7:(1)
+ロンドン
+cluster8:(1)
+セット
+cluster9:(1)
+デート
+cluster10:(1)
+フロア
+cluster11:(2)
+キッチンウェア, ランプシェード
+cluster12:(1)
+階段
+cluster13:(11)
+場所, 合間, 当初, 印象, 保養, 中, 世界, 次, 側, 目, もの
+cluster14:(1)
+良さ
+cluster15:(19)
+店, 東京都, 家具雑貨, 店舗, 値段, 千代田区, 丸の内ビル, 新宿店, 東京駅, 家電, 雑貨, 開放感, 出張, おしゃれ感, ビル, 丸の内店, 家具, 時間潰し, 店内
+
+howmany entities : 58
+howmany clusters : 16
+howmany entities (more than1entities) : 58
+howmany clusters (more than1entities) : 16
+deleted 0entities.

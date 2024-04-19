@@ -1,0 +1,13 @@
+--------------------similar_words:印刷博物館--------------------
+top3 entities near to cluster0>>
+印刷, 製版, 印刷物
+top3 entities near to cluster1>>
+印刷, 製版, 技術
+top3 entities near to cluster2>>
+印刷機, 製版機, 印刷, 製版
+top3 entities near to cluster3>>
+印刷業, 印刷, 製版
+top3 entities near to cluster4>>
+印刷, 活版, 製版
+top3 entities near to cluster5>>
+資料, 展示, 作品

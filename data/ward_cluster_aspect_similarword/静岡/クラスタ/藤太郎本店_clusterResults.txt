@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藤太郎本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風味, 桜風味
+cluster1:(2)
+もの, 中心
+cluster2:(9)
+シュークリーム, 手土産, 長命寺, お気に入り, バター, 和菓子, ふんわり, ロールケーキ, 生クリーム
+cluster3:(2)
+果物, 生地
+cluster4:(1)
+老舗
+cluster5:(1)
+和菓子屋
+cluster6:(2)
+和洋菓子, 贈答品
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 10entities.

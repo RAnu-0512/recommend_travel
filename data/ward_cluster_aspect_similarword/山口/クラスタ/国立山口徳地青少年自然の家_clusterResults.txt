@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国立山口徳地青少年自然の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+味, d市, e味
+cluster1:(8)
+子供, 食べごたえ, アスレチック, 食事, 仲間, 量, 場所, 小中学生
+cluster2:(1)
+宿泊学習
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

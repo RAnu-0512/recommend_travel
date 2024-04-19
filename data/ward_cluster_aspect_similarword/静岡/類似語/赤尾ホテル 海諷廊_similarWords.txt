@@ -1,0 +1,11 @@
+--------------------similar_words:赤尾ホテル 海諷廊--------------------
+top3 entities near to cluster0>>
+風呂, 露天風呂, 温泉
+top3 entities near to cluster2>>
+室内, 子供, 部屋
+top3 entities near to cluster3>>
+ホテル, サービス, レストラン
+top3 entities near to cluster4>>
+露天風呂, 貸し切り, 貸切
+top3 entities near to cluster7>>
+夕食, 夕飯, 食事

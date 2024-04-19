@@ -1,0 +1,9 @@
+--------------------similar_words:東京駅丸の内駅舎--------------------
+top3 entities near to cluster0>>
+防衛軍, 防衛, 通信
+top3 entities near to cluster1>>
+駅, 構内, 駅前
+top3 entities near to cluster2>>
+時代, 歴史, 幕末
+top3 entities near to cluster3>>
+駅舎, 南口, 駅

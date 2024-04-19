@@ -1,0 +1,9 @@
+--------------------similar_words:大山町観光案内所--------------------
+top3 entities near to cluster0>>
+大山, 鎬則, 城山
+top3 entities near to cluster1>>
+参道, 駅, 周辺
+top3 entities near to cluster2>>
+携帯, 電話, 充電
+top3 entities near to cluster3>>
+駐車場, 駐車, 案内

@@ -1,0 +1,17 @@
+--------------------similar_words:東京メトロ半蔵門線 押上(スカイツリー前)駅--------------------
+top3 entities near to cluster0>>
+改札, 出口, 直結
+top3 entities near to cluster1>>
+駅街, 繁華街, 駅, 繁華
+top3 entities near to cluster2>>
+案内, 利用, 乗換
+top3 entities near to cluster4>>
+情緒, 情感, 風情
+top3 entities near to cluster5>>
+遊園地, 名所, 遊園
+top3 entities near to cluster7>>
+都, メトロ, 都内
+top3 entities near to cluster8>>
+東武, 駅, 東武鉄道
+top3 entities near to cluster9>>
+スカイツリー, 駅, メトロ

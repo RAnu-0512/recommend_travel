@@ -1,0 +1,17 @@
+--------------------similar_words:一の坂川_さくら--------------------
+top3 entities near to cluster0>>
+桜, 川, 並木
+top3 entities near to cluster1>>
+川, 左岸, 右岸
+top3 entities near to cluster2>>
+桜, 春, 満開
+top3 entities near to cluster3>>
+景色, 風景, 風情
+top3 entities near to cluster4>>
+その道, 道標
+top3 entities near to cluster6>>
+花心, 花, 人々
+top3 entities near to cluster7>>
+夜雨, 夜, 蛍
+top3 entities near to cluster8>>
+見物, 駐車, 花見

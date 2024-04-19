@@ -1,0 +1,23 @@
+--------------------similar_words:光明寺(東京都大田区)--------------------
+top3 entities near to cluster0>>
+境内地, 住宅地, 住宅, 境内
+top3 entities near to cluster1>>
+寺院, 寺, お寺
+top3 entities near to cluster2>>
+参拝, 参詣, 外客
+top3 entities near to cluster3>>
+和風, 庭園, 洋風
+top3 entities near to cluster4>>
+行基, 空海, 弘法大師
+top3 entities near to cluster5>>
+林, 茶, 緑
+top3 entities near to cluster8>>
+境内, 参道, お寺
+top3 entities near to cluster11>>
+駅, 徒歩, 駅前
+top3 entities near to cluster12>>
+木水, 木, 土水, 土
+top3 entities near to cluster13>>
+丸子, 東急, 日吉
+top3 entities near to cluster14>>
+大火, 供養, 死者

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田中義一誕生地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+生誕地, 地, 誕生地, 誕生
+cluster1:(5)
+軍人, 一角, 昭和, 像, 石碑
+cluster2:(2)
+政治家, 著名人
+cluster3:(1)
+案内板
+cluster4:(2)
+木戸孝允, 田中義一
+cluster5:(5)
+菊屋横町, 萩城下町, 山口, 萩城の城下町, 萩城城下町
+cluster6:(1)
+内閣総理大臣
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

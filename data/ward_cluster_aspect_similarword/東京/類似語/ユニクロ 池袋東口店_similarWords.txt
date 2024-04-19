@@ -1,0 +1,41 @@
+--------------------similar_words:ユニクロ 池袋東口店--------------------
+top3 entities near to cluster0>>
+ユニ, クロ, 東口
+top3 entities near to cluster2>>
+東口, 南口, 北口
+top3 entities near to cluster3>>
+東口, 南口, 駅前
+top3 entities near to cluster4>>
+ビル店, 駅店, 駅, ビル
+top3 entities near to cluster6>>
+品等
+top3 entities near to cluster7>>
+フロア, チラシ, パンフレット
+top3 entities near to cluster8>>
+エスカレーター, エレベーター, エレベータ
+top3 entities near to cluster9>>
+レディース, サンシャイン, メンズ
+top3 entities near to cluster10>>
+ベビーカー, ベビーカ, ベビーバギー
+top3 entities near to cluster12>>
+デパート, ショップ, 西武百貨店
+top3 entities near to cluster13>>
+イベント, アイテム, コーナー
+top3 entities near to cluster14>>
+アニメ, アニメーション, 実写
+top3 entities near to cluster16>>
+気持ち, 気持, キモチ
+top3 entities near to cluster17>>
+買い物, セール, フラッ
+top3 entities near to cluster18>>
+シャツ, Tシャツ, セーター
+top3 entities near to cluster22>>
+駅街, 駅, 階段
+top3 entities near to cluster23>>
+時間, 分間
+top3 entities near to cluster27>>
+隣, 地元, 昔
+top3 entities near to cluster28>>
+週末, 家族, 年配
+top3 entities near to cluster29>>
+店舗, 商品

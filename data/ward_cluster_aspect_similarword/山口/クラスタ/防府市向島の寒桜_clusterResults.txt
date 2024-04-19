@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:防府市向島の寒桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+橋, 木, 桜
+cluster1:(7)
+ピンク色, 方, 見学, 小学校, 見応え, 時期, 敷地
+cluster2:(1)
+寒桜
+cluster3:(4)
+防府市立向島小学校, 防府市, 向島, 向島小学校
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

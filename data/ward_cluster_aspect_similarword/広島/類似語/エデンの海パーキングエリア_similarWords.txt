@@ -1,0 +1,17 @@
+--------------------similar_words:エデンの海パーキングエリア--------------------
+top3 entities near to cluster1>>
+景色, 風景, 島々
+top3 entities near to cluster2>>
+よう, 由来
+top3 entities near to cluster3>>
+映画, ランチ, レストラン
+top3 entities near to cluster4>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster5>>
+石碑, 石柱
+top3 entities near to cluster6>>
+国道, 県道, 旧道
+top3 entities near to cluster7>>
+海, 沿岸, 海岸
+top3 entities near to cluster8>>
+展望, 日

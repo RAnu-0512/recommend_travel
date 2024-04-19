@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:府中桜通り・公園通りの桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+青空, 花見, 散歩, 満開
+cluster1:(4)
+季節, 春, 日程, 時期
+cluster2:(2)
+名前, 風
+cluster3:(3)
+様子, 背景, 通り
+cluster4:(9)
+桜通り, 途中, 花びら, リュバン, 明かり, 桜並木, 昼, 道, 帰り
+cluster5:(2)
+提灯, ケーキ店
+cluster6:(1)
+道幅
+cluster7:(7)
+府中桜通り・公園, 桜まつり, 市民桜祭り, 桜, 桜祭り, 府中駅, 府中
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:苺工房たけうち>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イチゴ狩り, 苺狩り
+cluster1:(15)
+昼間, 客, 苺, 方, サービス, 見分け方, 途中, スタッフ, ウェットティッシュ, いちご, イチゴ, 星, かなり念入り, ハウス, 練乳
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

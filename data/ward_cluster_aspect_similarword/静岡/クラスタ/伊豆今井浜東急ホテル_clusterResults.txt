@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆今井浜東急ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+波音, 音
+cluster1:(2)
+部屋, 廊下
+cluster2:(6)
+最上階, 露天風呂, 隣, オーシャンビュー, ツイン, ホテル
+cluster3:(1)
+浴場
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 5entities.

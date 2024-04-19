@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レンタルきもの みやじま小町>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+気分, 感謝, 機会
+cluster1:(2)
+彼, こと
+cluster2:(5)
+色合い, アドバイス, 雰囲気, 思い出, ヘアアレンジ
+cluster3:(2)
+オンラインカード, スマホ
+cluster4:(1)
+写真
+cluster5:(2)
+種類, 時間
+cluster6:(1)
+選ぶ
+cluster7:(1)
+柄
+cluster8:(1)
+店員
+cluster9:(1)
+宮島
+cluster10:(1)
+満足度
+cluster11:(7)
+着物体験, 記念日旅行, 浴衣, カップル着物プラン, 着付, 着物, ヘアセット
+
+howmany entities : 27
+howmany clusters : 12
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 12
+deleted 0entities.

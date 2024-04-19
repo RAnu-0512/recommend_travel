@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧東海道松並木(静岡県磐田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松, 松並木
+cluster1:(5)
+三ケ野権現, 雰囲気, 先, 所縁, 道
+cluster2:(5)
+東海道五, 明治, 大正, 本田平八郎, 三次ウォーキング
+cluster3:(1)
+江戸古道
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 3entities.

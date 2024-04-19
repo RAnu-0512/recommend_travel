@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼名前神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+床, 台座, 組み立て式, 一対
+cluster1:(2)
+神, 海
+cluster2:(6)
+文化財, 万葉集, 別, 国, 前, ブルーシート
+cluster3:(1)
+銘
+cluster4:(6)
+もの, 方, 印象, 説明, 痕跡, こと
+cluster5:(4)
+準備, 行事, 工事, 収穫
+cluster6:(1)
+雨戸
+cluster7:(1)
+能舞台
+cluster8:(1)
+弘化
+cluster9:(4)
+鞆, 伏見城, 浦廻, 浦
+cluster10:(2)
+渡守神社, 沼名前神社
+cluster11:(9)
+境内, 社殿, 鳥居, 歌碑, 参道, 狛犬, 玉垣, 神社, 拝殿
+
+howmany entities : 41
+howmany clusters : 12
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 12
+deleted 0entities.

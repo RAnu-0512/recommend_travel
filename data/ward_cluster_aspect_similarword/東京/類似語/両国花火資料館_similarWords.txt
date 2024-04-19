@@ -1,0 +1,19 @@
+--------------------similar_words:両国花火資料館--------------------
+top3 entities near to cluster0>>
+花火, 大会, 打ち上げ花火
+top3 entities near to cluster1>>
+開館, 展示, 資料
+top3 entities near to cluster2>>
+両国, 駅, 国技
+top3 entities near to cluster3>>
+火薬筒, 爆薬筒, 火薬, 爆薬
+top3 entities near to cluster4>>
+断面, 模型, ジオラマ
+top3 entities near to cluster6>>
+歴史, 原点, 世界
+top3 entities near to cluster8>>
+部屋, 施設, 近辺
+top3 entities near to cluster9>>
+ビル, オフィス, タワービル
+top3 entities near to cluster11>>
+回向院, 回向, 道路

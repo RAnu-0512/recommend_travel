@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竜泉寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜松市, 静岡県
+cluster1:(2)
+駐車場, 観光客
+cluster2:(2)
+仁王象, 仁王
+cluster3:(2)
+寺内, 古寺
+cluster4:(2)
+庭園, 巨木
+cluster5:(4)
+参拝, 山門, 境内, 寺
+cluster6:(4)
+風情, 姿, 趣, 迫力
+cluster7:(2)
+子供, 子供たち
+cluster8:(3)
+松, 門, 椎
+cluster9:(2)
+人, 中
+cluster10:(8)
+阿弥陀堂, 入り口, ダイナミック, ところ, 仁王門, 竜泉寺, 雰囲気, オススメ
+cluster11:(1)
+気
+cluster12:(1)
+主人
+cluster13:(3)
+歴史, 時間, 場所
+cluster14:(1)
+心
+cluster15:(1)
+時事
+
+howmany entities : 40
+howmany clusters : 16
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 18entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋葉神社(静岡県浜松市)second>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+北遠, 浜松, 浜松城入城, 徳川家康, 浜松秋葉神社
+cluster1:(2)
+興味, 感
+cluster2:(4)
+こと, 歴史, 上, 場所
+cluster3:(6)
+御朱印, 秋葉神社, イベント, 祭り, 秋葉山, 気持ち
+cluster4:(2)
+人, 子供
+cluster5:(2)
+普通, 日本
+cluster6:(1)
+車
+cluster7:(1)
+火
+cluster8:(18)
+高町, 紅葉, 山奥, 神, 鳥居, 階段, 朱色, 神社, 本堂, 仏閣, 山道, 景色, 上社, 植物, 巫女, 彫刻, 山, 火事
+cluster9:(1)
+正月飾り
+cluster10:(1)
+駐車場
+cluster11:(4)
+本宮神社, かんざし, 小国神社, 木鼻彫刻
+
+howmany entities : 47
+howmany clusters : 12
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 5
+deleted 10entities.

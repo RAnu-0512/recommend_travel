@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川奈海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+気, 注意, こと, 問題, 感じ, 点, 方
+cluster1:(2)
+左側, 右側
+cluster2:(2)
+ビーチ, 海水浴
+cluster3:(5)
+色とりどり, シーズン, マリンシューズ, オススメ, シュノーケリング
+cluster4:(2)
+シャワー, サンダル
+cluster5:(1)
+自転車
+cluster6:(1)
+コロナ
+cluster7:(1)
+熱帯魚
+cluster8:(1)
+玉砂利
+cluster9:(11)
+家族, 家, 半分, 人, 足, 近く, 子供, 子ども, 場所, 前, 足元
+cluster10:(5)
+子供連れ, 送迎, 荷物, 運転手, 距離
+cluster11:(3)
+海水魚, 海水, 海水場
+cluster12:(2)
+か浜公園, 小砂利
+cluster13:(4)
+水, 水道, 都心, 水質
+cluster14:(5)
+魚, 釣り, 魚たち, タコ, 網
+cluster15:(13)
+石浜, 砂, 岩場, 玉石, 海岸, 浜, 波, 海, 砂浜, 海面, 石, 浅瀬, 岩
+cluster16:(1)
+透明度
+cluster17:(4)
+駐車場, 海水浴場, 砂浜海水浴場, 臨時駐車場
+cluster18:(3)
+川奈駅, 川奈海水浴場, 川奈
+cluster19:(2)
+伊東市, 静岡県
+
+howmany entities : 75
+howmany clusters : 20
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 10
+deleted 15entities.

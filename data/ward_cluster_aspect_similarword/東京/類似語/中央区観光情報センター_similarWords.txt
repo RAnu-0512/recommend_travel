@@ -1,0 +1,13 @@
+--------------------similar_words:中央区観光情報センター--------------------
+top3 entities near to cluster1>>
+充電, 休憩, 仮眠
+top3 entities near to cluster2>>
+購入, 紹介, 参加
+top3 entities near to cluster3>>
+充実, 直結, 重視
+top3 entities near to cluster4>>
+来館, 来場, 入館
+top3 entities near to cluster5>>
+解き, 謎, 解く
+top3 entities near to cluster6>>
+駅, 駅前, 外国

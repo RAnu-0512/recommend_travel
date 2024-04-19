@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城原海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+下, 浦富海岸, 中, 一部, 人, コントラスト, 菜種, 色, 日本海, 場所
+cluster1:(4)
+車, 展望, 景観, 道路
+cluster2:(3)
+洞窟, 海, 海岸
+cluster3:(2)
+絶壁, 階段
+cluster4:(1)
+奇岩
+cluster5:(1)
+荒波
+cluster6:(1)
+洞門
+cluster7:(1)
+透明度
+cluster8:(3)
+岩見町, 海岸線, 遊覧船
+cluster9:(2)
+駐車場, 城原展望所
+
+howmany entities : 28
+howmany clusters : 10
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 10
+deleted 0entities.

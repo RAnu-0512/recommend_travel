@@ -1,0 +1,15 @@
+--------------------similar_words:道の駅 富士--------------------
+top3 entities near to cluster1>>
+孫, 孫娘, 息子
+top3 entities near to cluster2>>
+休憩, トイレ, 仮設
+top3 entities near to cluster7>>
+ドライブ, レストラン, バイパス
+top3 entities near to cluster16>>
+国道, 道路
+top3 entities near to cluster19>>
+土産, 弁当, 売店
+top3 entities near to cluster20>>
+販売店, 営業店, 販売, 営業
+top3 entities near to cluster25>>
+駐車, 展望

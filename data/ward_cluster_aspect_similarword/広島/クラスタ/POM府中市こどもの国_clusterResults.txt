@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:POM府中市こどもの国>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+POM府中市, 府中市
+cluster1:(3)
+工作教室, 工作, 工作り
+cluster2:(4)
+子供, 子供連れ, 子どもたち, 子供達
+cluster3:(2)
+基本無料, 有料施設
+cluster4:(2)
+公園, 遊具
+cluster5:(3)
+施設, 国, 場所
+cluster6:(4)
+方, 地元, 名前, 多く
+cluster7:(2)
+キッズスペース, プラネタリウム
+cluster8:(2)
+子ども, こども
+cluster9:(1)
+夏休み
+cluster10:(1)
+家族
+cluster11:(2)
+雨, 外
+cluster12:(1)
+両手
+
+howmany entities : 29
+howmany clusters : 13
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 13
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:磯 Sea Garden IKEJIRI>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+魚, 海水プール, カニ, 岩場, 蟹, あり海, 波, 海, 砂浜, 基本岩場, 稲取, 岩
+cluster1:(2)
+シッタカ, ベタベタ
+cluster2:(7)
+パラソル, シュノーケリング, シュノーケル, プレート, シーズン, シャワー, マリンシューズ
+cluster3:(3)
+遊び場, 海水浴, プール
+cluster4:(2)
+周り, 近く
+cluster5:(2)
+事, 場所
+cluster6:(1)
+水
+cluster7:(7)
+こども達, 大人, 裸足, 子供, 気温, 宿泊, 有料シャワー
+cluster8:(2)
+笑)プール, 幼稚園児
+cluster9:(8)
+駐車場, ちびっ子, 真夏並み, 更衣室, 貸パラソル, 荷物置き場, 態度プール状, 暑さ
+
+howmany entities : 46
+howmany clusters : 10
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 5
+deleted 9entities.

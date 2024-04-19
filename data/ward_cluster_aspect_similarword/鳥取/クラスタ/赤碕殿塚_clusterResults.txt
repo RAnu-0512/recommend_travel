@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤碕殿塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+赤碕塔, 赤碕殿, 琴浦町, 東伯郡, 赤崎殿塚, 鳥取県, 赤碕殿塚, 赤碕番所, 赤碕
+cluster1:(14)
+石塔, 東西350m, 墓石, 墓地, 光景, 墓地中央あたり, いった保護文化財, 海岸, 共同墓地, 古く, 武将, 西日本, 花見潟墓地, 指定文化財
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

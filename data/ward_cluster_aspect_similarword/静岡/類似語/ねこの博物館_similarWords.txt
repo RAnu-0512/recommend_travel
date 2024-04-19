@@ -1,0 +1,31 @@
+--------------------similar_words:ねこの博物館--------------------
+top3 entities near to cluster0>>
+絶滅種, 毛種, 絶滅, 毛
+top3 entities near to cluster1>>
+ネコ科, 猫科, ネコ, 猫
+top3 entities near to cluster2>>
+ねこ, 猫, ネコ
+top3 entities near to cluster6>>
+猫, ネコ, ねこ
+top3 entities near to cluster7>>
+展示, 剥製, 展覧
+top3 entities near to cluster11>>
+迫力, 姿, 元気
+top3 entities near to cluster13>>
+受付, 対応, 案内
+top3 entities near to cluster16>>
+愛想, 店員, 態度
+top3 entities near to cluster18>>
+博物, 動物, 標本
+top3 entities near to cluster19>>
+バス, スパ, 温泉
+top3 entities near to cluster20>>
+ケージ, ゲージ, 毛並み
+top3 entities near to cluster22>>
+我が家, カーナビ, わが家
+top3 entities near to cluster23>>
+コーナー, 入り口, おすすめ
+top3 entities near to cluster25>>
+ふれあい, 触れ合い, 生き物
+top3 entities near to cluster29>>
+躍動感, やつ, 躍動

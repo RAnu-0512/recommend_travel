@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口県政資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+デザイン, 建物
+cluster1:(1)
+時代
+cluster2:(1)
+ルネッサンス調
+cluster3:(1)
+大正
+cluster4:(1)
+山口県庁
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

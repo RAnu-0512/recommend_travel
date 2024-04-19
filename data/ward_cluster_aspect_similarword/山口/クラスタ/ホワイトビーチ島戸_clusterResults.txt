@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホワイトビーチ島戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海水浴客, 海水浴場
+cluster1:(5)
+砂浜, 散策, 水, 海, 海水浴
+cluster2:(1)
+北寄り
+cluster3:(1)
+角島大橋
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

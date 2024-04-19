@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島カンツリー倶楽部八本松コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島カンツリー倶楽部 八本松コース, 広島カンツリー
+cluster1:(5)
+広島, 設計コース, 倶楽部 八本松コース, 名門コース, 林間コース
+cluster2:(11)
+松林, グリーン, 人気, オススメ, ゴルフ場, 人, 雰囲気, フェアウェイ, カート, コース, ゴルフコース
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

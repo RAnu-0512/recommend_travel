@@ -1,0 +1,11 @@
+--------------------similar_words:海禅寺(東京都青梅市)--------------------
+top3 entities near to cluster0>>
+山, ツツジ, 麓
+top3 entities near to cluster2>>
+桜, ツツジ, つつじ
+top3 entities near to cluster3>>
+本堂, 山門, 寺院
+top3 entities near to cluster4>>
+寺, 禅, 海
+top3 entities near to cluster5>>
+駅, 尾, 五

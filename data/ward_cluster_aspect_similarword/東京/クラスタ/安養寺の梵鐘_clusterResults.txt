@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安養寺の梵鐘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+見応え, 安養寺, 武蔵野八幡宮, もの, 隣
+cluster1:(2)
+鐘, 梵鐘
+cluster2:(1)
+江戸時代
+cluster3:(1)
+多摩新四国八十八ヶ所
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

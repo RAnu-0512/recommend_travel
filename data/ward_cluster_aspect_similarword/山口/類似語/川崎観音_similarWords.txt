@@ -1,0 +1,13 @@
+--------------------similar_words:川崎観音--------------------
+top3 entities near to cluster0>>
+横, 縦, 真横
+top3 entities near to cluster1>>
+石段, 本堂, 本殿
+top3 entities near to cluster2>>
+国道, 県道, 旧道
+top3 entities near to cluster3>>
+足腰, 脚力, 筋力
+top3 entities near to cluster4>>
+駐車場, 駐車, 交通
+top3 entities near to cluster5>>
+上り線, 上り

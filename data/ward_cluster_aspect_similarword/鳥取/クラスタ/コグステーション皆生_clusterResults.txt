@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コグステーション皆生>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+大山, クロスバイク, パンフレット, 長距離, レンタル, ジャイアントのseek1, ママちゃり, お陰, 真夏, レンタサイクル, 自転車, 案内, ところ, 海辺, 皆生温泉
+cluster1:(2)
+ホテル華水亭, 皆生海浜公園
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

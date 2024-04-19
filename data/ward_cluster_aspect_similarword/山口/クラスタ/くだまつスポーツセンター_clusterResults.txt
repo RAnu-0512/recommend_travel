@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くだまつスポーツセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ボーリング場, 駐車場
+cluster1:(2)
+卓球, 卓球コーナー
+cluster2:(5)
+テーブル, スポーツ, ボーリング, ボウリング, ゴーカート
+cluster3:(2)
+ところ, スポット
+cluster4:(1)
+子ども
+cluster5:(1)
+ゴルフ
+cluster6:(1)
+ゲームコーナー
+cluster7:(1)
+レーン
+cluster8:(1)
+こと
+cluster9:(1)
+テニスコート
+cluster10:(2)
+子供会行事, くだまつスポーツセンター
+
+howmany entities : 19
+howmany clusters : 11
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 11
+deleted 0entities.

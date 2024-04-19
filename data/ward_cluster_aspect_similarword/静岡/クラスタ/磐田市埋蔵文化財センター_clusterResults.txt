@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:磐田市埋蔵文化財センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石器, 土器
+cluster1:(5)
+遺物, 市, 施設, 展示, 遺跡
+cluster2:(1)
+調査研究
+cluster3:(1)
+出土品
+cluster4:(2)
+磐田市, 年代順
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 6entities.

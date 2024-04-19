@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青海島自然研究路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+豊かさ, 美しさ
+cluster1:(2)
+海岸線, 長門市
+cluster2:(3)
+うが船, 時間, 時間位
+cluster3:(2)
+すき, 気分
+cluster4:(3)
+こと, 人達, 方
+cluster5:(2)
+所, 場所
+cluster6:(1)
+想像
+cluster7:(8)
+入り口, ダイビング, スポット, おじさん, レンタカー, 遊歩道, ダイビングスクール, 気持ち
+cluster8:(4)
+日本海, 瀬戸内海, 海沿い, 青海島
+cluster9:(5)
+前, 最後, 左手, 入口, 近く
+cluster10:(12)
+風, 猫, 写真, 景色, 自然, 空, 夕日, 芸, 風景, 音, 海, 鼻
+cluster11:(3)
+岩, 奇岩, 岩場
+cluster12:(5)
+交通, 便, 道路, 宿, 観光
+cluster13:(2)
+海上アルプス, 青海
+cluster14:(8)
+自然研究路, 散策路, 青海島自然研究路, 市営駐車場, オンパレード散策路, 観光遊覧船, 研究路, 駐車場
+
+howmany entities : 62
+howmany clusters : 15
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 15
+deleted 0entities.

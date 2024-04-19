@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旅籠紀伊国屋資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+入館料, セット入場料, 入場料
+cluster1:(30)
+車, 紀伊国屋, セット, 風情, 姿, 紀伊国屋資料館, 跡, 資料, 音色, 大人, 両方, それぞれ, もの, チケット, 歴史, 造り, 庭, 大正, 近く, 雰囲気, 明治, 建物, 部屋, 軒先, 場所, 東海道, 歓楽街, 資料館, 時代, 説明
+cluster2:(2)
+芸者置屋, 芸者たち
+cluster3:(2)
+時代劇, 江戸時代風
+cluster4:(3)
+小松楼, 大御門, 紀州藩
+cluster5:(2)
+宿場町, 宿場
+cluster6:(2)
+新居関所, 関所
+cluster7:(7)
+駐車場, 小料理屋, 新居宿, 御用宿, 旅館, 旅籠, 宴会
+cluster8:(1)
+水琴窟
+
+howmany entities : 52
+howmany clusters : 9
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 4
+deleted 9entities.

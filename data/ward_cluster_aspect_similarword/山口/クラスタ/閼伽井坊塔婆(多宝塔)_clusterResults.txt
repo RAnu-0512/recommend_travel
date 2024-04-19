@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:閼伽井坊塔婆(多宝塔)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+補修, 屋根, 建物
+cluster1:(6)
+もの, 多宝塔, 足, 文化財, 途中, 周防花岡
+cluster2:(3)
+石段, 境内, 相輪
+cluster3:(3)
+花岡八幡宮, 下松市, 藤原鎌
+cluster4:(1)
+日本十六塔
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

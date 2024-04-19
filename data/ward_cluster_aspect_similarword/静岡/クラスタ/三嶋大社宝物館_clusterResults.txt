@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三嶋大社宝物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三嶋大社, 宝物館です.1三嶋大社, 三嶋大社宝物館
+cluster1:(6)
+展示, 展示物, 宝物館, 展示品, 宝物, 展示室
+cluster2:(2)
+駐車場, 割引券
+cluster3:(2)
+有料ゾーン, 有料
+cluster4:(2)
+事, 場所
+cluster5:(5)
+多く, 人, 中, 近く, 方
+cluster6:(7)
+大鳥居, ミュージアムショップ, 文化財, 歴史, 店, 建物, ビデオ
+cluster7:(1)
+右手
+cluster8:(1)
+門
+cluster9:(1)
+解説ビデオ
+cluster10:(6)
+土産, 札, 国宝, 参拝, 境内, 福太郎餅
+cluster11:(1)
+三島駅
+cluster12:(1)
+赤福
+cluster13:(1)
+北条政子
+cluster14:(1)
+梅蒔絵手箱
+
+howmany entities : 40
+howmany clusters : 15
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 13entities.

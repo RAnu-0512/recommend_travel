@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Kawazoo 体感型カエル館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展示, 施設, 環境
+cluster1:(8)
+事, 周り, こと, 状態, 中, 希望, 予想, 方々
+cluster2:(1)
+まぁ自然
+cluster3:(17)
+水槽, ケース, カエル, 蛙, モノ, 嫁, カメレオン, 家族, 世界, 両生類, 日本, 楽しみ, 次, 爬虫類, 子供, カエル達, チケット共通
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 1entities.

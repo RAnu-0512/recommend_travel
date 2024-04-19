@@ -1,0 +1,47 @@
+--------------------similar_words:大山寺(鳥取県大山町)--------------------
+top3 entities near to cluster0>>
+山道, 山頂, 石段
+top3 entities near to cluster1>>
+雰囲気, 町並み, 景色
+top3 entities near to cluster2>>
+天台宗, 廃仏毀釈, 真言宗
+top3 entities near to cluster3>>
+御朱印, お参り, 参拝
+top3 entities near to cluster5>>
+仰望, 這片, 天際
+top3 entities near to cluster6>>
+建物
+top3 entities near to cluster7>>
+趣, 風情, 趣き
+top3 entities near to cluster8>>
+名残, 跡, 名残り
+top3 entities near to cluster9>>
+重み, 変化
+top3 entities near to cluster10>>
+無事, 幸運, 参り
+top3 entities near to cluster11>>
+ため気, 目的, ため
+top3 entities near to cluster12>>
+時期, 時間, 時
+top3 entities near to cluster13>>
+経緯, 歴史, いきさつ
+top3 entities near to cluster14>>
+時代, 初期, 末期
+top3 entities near to cluster15>>
+以前, 昔, 大昔
+top3 entities near to cluster18>>
+別格, 神, 至高
+top3 entities near to cluster19>>
+徒歩, 奥
+top3 entities near to cluster20>>
+修行, 厳しい, 修業
+top3 entities near to cluster21>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster22>>
+霊場, 観音, 西国
+top3 entities near to cluster23>>
+大山, 城山, 祗命
+top3 entities near to cluster24>>
+境内, 本堂, 神社
+top3 entities near to cluster25>>
+登山, 参拝, 参詣

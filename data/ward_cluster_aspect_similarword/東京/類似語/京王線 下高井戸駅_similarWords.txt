@@ -1,0 +1,13 @@
+--------------------similar_words:京王線 下高井戸駅--------------------
+top3 entities near to cluster0>>
+京王線, 京王, 相模原線
+top3 entities near to cluster1>>
+駅, 駅前, 南口
+top3 entities near to cluster2>>
+改札, 券売, コンコース
+top3 entities near to cluster3>>
+罪悪感, 罪悪, ドキドキ・ワクワク
+top3 entities near to cluster5>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster6>>
+乗降, 降車, 乗客

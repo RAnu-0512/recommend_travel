@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧街道 踊子歩道 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+天城越え, 河津七滝, エビ滝, 天城, 踊子歩道, 伊豆, 二階滝, 浄蓮, 東海バス, 踊子, 滝
+cluster1:(20)
+車, 気, 事, 帰り, 踊り子, バス停, 旅人, 健脚, バス, 覚悟, 入口, 散策, サンダル, 水生, 天城峠, 雰囲気, 場所, トンネル, 地下, 方
+cluster2:(4)
+峠道, 林道, 旧道, 寒天橋
+cluster3:(1)
+駐車場脇
+
+howmany entities : 36
+howmany clusters : 4
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 3
+deleted 1entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一の坂川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+坂川両側, 川沿い, 坂川交通交流広場, 坂川, 桜・・・カフェ
+cluster1:(2)
+有料駐車場, 駐車場
+cluster2:(6)
+両岸, 鴨川, 山口, 川上, 大内, 京都
+cluster3:(22)
+往路, 所, ルート, ホタル, スポット, 川, 車, 跡, オススメ, クルマ, イベント, 喫茶店, 通行止め, 子, 市街地, 間, 山, 方, 注意, 人, 先, 蛍
+cluster4:(4)
+景色, 空気, 風情, 気分
+cluster5:(2)
+満開, 桜
+cluster6:(3)
+春, 季節, 時期
+cluster7:(6)
+保存会, 写真撮影, 散歩コース, 写真, 見物客, 散歩
+
+howmany entities : 50
+howmany clusters : 8
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 8
+deleted 0entities.

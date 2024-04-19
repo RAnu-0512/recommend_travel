@@ -1,0 +1,19 @@
+--------------------similar_words:(有)村田蒲鉾店--------------------
+top3 entities near to cluster0>>
+蒲鉾, 土産, かまぼこ
+top3 entities near to cluster1>>
+傘, 小雨
+top3 entities near to cluster2>>
+天ぷら, 揚げ物, てんぷら
+top3 entities near to cluster3>>
+友人, 知人
+top3 entities near to cluster4>>
+製品, 商品, 電化
+top3 entities near to cluster5>>
+対応, よう
+top3 entities near to cluster6>>
+レジ, 店員, キャッシャー
+top3 entities near to cluster7>>
+弾力, コシ, 柔らか
+top3 entities near to cluster8>>
+保冷剤, 蓄冷剤, 保冷, 蓄冷

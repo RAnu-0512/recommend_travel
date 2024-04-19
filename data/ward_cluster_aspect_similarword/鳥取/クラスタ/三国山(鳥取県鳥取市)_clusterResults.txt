@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三国山(鳥取県鳥取市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山登り, ハイキング
+cluster1:(1)
+ハイキング初心者
+cluster2:(1)
+三国山
+cluster3:(1)
+山
+cluster4:(1)
+自然
+cluster5:(1)
+山塊
+cluster6:(1)
+鳥取県
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

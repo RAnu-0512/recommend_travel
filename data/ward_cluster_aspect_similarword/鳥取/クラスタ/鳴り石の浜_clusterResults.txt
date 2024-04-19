@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳴り石の浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+波, コロコロ音
+cluster1:(2)
+鳴り石, 石
+cluster2:(20)
+夕日, 様子, 押し寄せ, 全て, 駅, 次, 意思, 男性, 高齢, 海岸, きゅきゅ, 願い事, 先, ひまわり, 上, 近く, 聞こえ方, 引き際, カフェ, ドキュメント番組
+cluster3:(1)
+観光客
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

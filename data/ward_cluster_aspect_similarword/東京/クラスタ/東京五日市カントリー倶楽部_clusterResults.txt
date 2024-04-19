@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京五日市カントリー倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+梅, 四季, 箱根, 紅葉
+cluster1:(9)
+家, 方, アクセス, ゴルフ場, 車, コース, 距離, あきる野, 自然
+cluster2:(1)
+東京都
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

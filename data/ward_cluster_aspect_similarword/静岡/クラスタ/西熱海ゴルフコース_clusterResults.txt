@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西熱海ゴルフコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+熱海, 熱海駅, 西熱海
+cluster1:(2)
+距離感, 来場距離
+cluster2:(9)
+グリーン, 打ち上げホール, 初心者, キャンセル, 土砂降り, コース, 気持ち, ロケーション, スコア
+cluster3:(4)
+ゴルフ, 人工芝, ゴルフコース, ティーグラウンド
+cluster4:(1)
+OB
+cluster5:(6)
+注意, こと, 前回, もの, 場所, 気分
+cluster6:(2)
+間近, 短め
+cluster7:(10)
+紅葉, ゴルフ場, 温泉, 景観, 宿泊パック, 景色, 海, 霧, 自然, 施設
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 5
+deleted 5entities.

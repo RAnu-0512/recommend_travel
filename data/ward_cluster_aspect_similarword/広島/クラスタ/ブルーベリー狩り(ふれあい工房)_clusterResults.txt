@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブルーベリー狩り(ふれあい工房)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ブルーベリー, シーズン, 初めてつみたて, ふれあい工房, 大崎上島
+cluster1:(2)
+ブルーベリー狩り, 完熟ブルーベリー
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 2
+deleted 0entities.

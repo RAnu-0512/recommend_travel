@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法輪寺(山口県下関市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+県指定有形文化財, 県指定文化, 指定文化財, 有形文化財, 建築様式
+cluster1:(4)
+石階段, 寄棟造り, 瓦屋根, 木割り
+cluster2:(3)
+参拝, 参拝者, 参拝客
+cluster3:(7)
+山郷, 山口県, 下関市, 日本三虚空蔵菩薩, 室町, 県, 古月駅
+cluster4:(9)
+法要, 境内, 開帳, 本堂, 本尊, 寺見応え, 寺, 神社, 縁日
+cluster5:(2)
+威厳, 風格
+cluster6:(6)
+中, もの, 場所, 雰囲気, 見応え, 気持ち
+cluster7:(5)
+多く, 地元, 人々, 人, 地域
+cluster8:(2)
+時代, 歴史
+cluster9:(3)
+一角, 風景, 風情
+cluster10:(15)
+法輪寺, 里山, 山陽本線, JR, 文化財, はずれ, 外れ, 車, 真言宗, 高野山, 山, 駅, お参り, 門, 建物
+cluster11:(1)
+閑静
+
+howmany entities : 62
+howmany clusters : 12
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 12
+deleted 0entities.

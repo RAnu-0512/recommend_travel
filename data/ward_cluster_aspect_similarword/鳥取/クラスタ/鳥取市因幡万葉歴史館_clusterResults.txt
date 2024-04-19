@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取市因幡万葉歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+因幡歴史, 因幡万葉, 因幡, 因幡国, 因幡万葉歴史館, 因幡国守
+cluster1:(6)
+展示, 企画展示, 展示場, 入館料, 展示物, 常設展示
+cluster2:(5)
+鳥取市, 国府町, 奈良, 鳥取, 奈良平安
+cluster3:(6)
+難し, 工夫, 気, 興味, 眺め, 絶好
+cluster4:(3)
+庭, 庭園, 館内
+cluster5:(6)
+地域, 中心, 関連, 別, 施設, 場所
+cluster6:(2)
+時代, 名前
+cluster7:(11)
+万葉集, アイスコーヒー, 母, 母親, 大伴家持, 両親, 子ども, 歌, 博物館, コンセプト, 旅行
+cluster8:(1)
+麒麟獅子舞
+cluster9:(8)
+展望塔, 大伴家持ら万葉集, 歴史, 万葉衣装, 歴史館, 歴史博物館, 塔, 万葉
+
+howmany entities : 54
+howmany clusters : 10
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 10
+deleted 0entities.

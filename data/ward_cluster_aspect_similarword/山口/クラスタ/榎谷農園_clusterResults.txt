@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:榎谷農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食べ比べ, 食べ放題
+cluster1:(4)
+貸し切り状態, 時間, 感じ, 方
+cluster2:(2)
+予約, 誕生
+cluster3:(1)
+中ビニールハウス
+cluster4:(1)
+貸出
+cluster5:(7)
+イチゴ狩り, スタッフ, いちご, イチゴ, 苺, ハサミ, 農園
+cluster6:(1)
+日記念
+cluster7:(1)
+矢理予約
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

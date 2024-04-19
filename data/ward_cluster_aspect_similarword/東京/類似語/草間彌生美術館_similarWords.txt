@@ -1,0 +1,17 @@
+--------------------similar_words:草間彌生美術館--------------------
+top3 entities near to cluster0>>
+彌生, 時福, 弥生
+top3 entities near to cluster1>>
+予約制, 予約, 受付
+top3 entities near to cluster4>>
+大勢, 人達
+top3 entities near to cluster6>>
+頻度, 人数
+top3 entities near to cluster8>>
+建物, 道路, 施設
+top3 entities near to cluster9>>
+展示, 出展, 作品
+top3 entities near to cluster10>>
+作品数, 作品
+top3 entities near to cluster11>>
+芸術品, 美術品, 美術, 芸術

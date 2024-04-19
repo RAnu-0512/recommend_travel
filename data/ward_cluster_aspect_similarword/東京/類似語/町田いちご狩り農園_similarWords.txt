@@ -1,0 +1,31 @@
+--------------------similar_words:町田いちご狩り農園--------------------
+top3 entities near to cluster0>>
+口コミ, クチコミ, レビュー
+top3 entities near to cluster1>>
+コロナ, トイレ, チッチ
+top3 entities near to cluster2>>
+気持ち, 雰囲気, 味わい
+top3 entities near to cluster3>>
+ハサミ, はさみ, 手荷物
+top3 entities near to cluster4>>
+コイン, パーキング, ランドリー
+top3 entities near to cluster5>>
+子供, 子ども, 息子
+top3 entities near to cluster6>>
+時間, 制限, 人数
+top3 entities near to cluster9>>
+駅車, 駅, 土産
+top3 entities near to cluster11>>
+案内, 紹介, 記載
+top3 entities near to cluster12>>
+予約, 受付, 申し込み
+top3 entities near to cluster13>>
+消毒, 流通, 計測
+top3 entities near to cluster14>>
+検温, 体温計, 採血
+top3 entities near to cluster15>>
+留意点, 留意, 事項
+top3 entities near to cluster16>>
+イチゴ, いちご, 苺
+top3 entities near to cluster17>>
+狩り, 食べ, 収穫

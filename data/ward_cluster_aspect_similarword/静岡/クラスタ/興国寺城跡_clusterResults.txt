@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:興国寺城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+・・・興国寺城, 北条早雲公所縁の興国寺城跡
+cluster1:(10)
+天守台, 興国寺城通り, 大空堀, 城跡, 天守, 城, 空堀, 要塞感, 城址, 土塁
+cluster2:(3)
+駐車場, 駐車スペース, 飲食店
+cluster3:(19)
+本丸, パンフレット, 段差, 途中, 北条早雲, 訪問, 下, バス, 入口, もの, ところ, 断崖, 神社, 後ろ, 見所, 場所, 丸, 結果, 道
+cluster4:(2)
+北条, 原駅
+cluster5:(1)
+所要時間
+cluster6:(1)
+迫力満点
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 3
+deleted 6entities.

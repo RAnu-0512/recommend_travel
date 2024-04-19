@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩市平安古地区伝統的建造物群保存地区>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土塀, 塀
+cluster1:(12)
+曲, 他, 橋本川, GW, 車, 昔, 人, 観光スポット, 平安古地区, 木, 道幅, レンタサイクル
+cluster2:(1)
+柑橘系
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

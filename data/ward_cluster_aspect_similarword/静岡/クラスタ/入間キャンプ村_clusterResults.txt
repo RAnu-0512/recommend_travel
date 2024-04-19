@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:入間キャンプ村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+何しろ入間, 入間
+cluster1:(2)
+テントサイト, テント
+cluster2:(2)
+ビーチ, プール
+cluster3:(11)
+シュノーケリン, お気に入り, ウミガメ, 真ん中, キャンプ, ところ, キャンプサイト, サイト, トイレ, オーナー, シュノーケリング
+cluster4:(3)
+ラジオ, スマホ, テレビ
+cluster5:(4)
+田んぼ, 用水路, 南伊豆, 防波堤
+cluster6:(16)
+気, 他, こと, キャンプ場, 徒歩, 時間, 感じ, 友達, 近く, 魅力, 世間, 自然, 子供, 施設, 前, 方
+cluster7:(11)
+魚影, 虫, 都, 巣, 伊豆, ベラ, 東, 海, 西, 陸, 孤島
+cluster8:(1)
+携帯電話
+cluster9:(4)
+釣り, 高規格キャンプ場, 磯遊び, 磯釣
+
+howmany entities : 56
+howmany clusters : 10
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 6
+deleted 7entities.

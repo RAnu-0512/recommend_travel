@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東海自然歩道(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散策, 景色
+cluster1:(5)
+人, 自然, 日本平, ハイキングコース, コース
+cluster2:(2)
+歩道, 道
+cluster3:(1)
+コース取り
+cluster4:(2)
+静岡県, 静岡市
+cluster5:(2)
+東海自然歩道, 東海自然
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 9entities.

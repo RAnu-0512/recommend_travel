@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡県庁別館21階富士山展望ロビー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駿府城, 駿府城公園
+cluster1:(6)
+静岡市, 静岡県庁, 警察署, 県庁, 県庁別館, 静岡駅
+cluster2:(17)
+絵, 天守, エレベーター, 県警, 富士山, 駿河湾, 上階, 東, 上, 建物, 展望ロビー, 地, 入場料, 別館, 西, 天気, 展望室
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 2entities.

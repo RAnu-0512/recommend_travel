@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仏光寺(木造文殊菩薩騎獅像)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+姿, 顔, 友人
+cluster1:(2)
+寺, 仏像
+cluster2:(1)
+毛利家ゆかり
+cluster3:(1)
+仏光寺
+cluster4:(1)
+木造文殊菩薩騎獅像
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

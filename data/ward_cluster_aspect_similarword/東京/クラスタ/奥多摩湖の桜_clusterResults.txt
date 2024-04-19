@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥多摩湖の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+奥多摩湖, 自然, 奥多摩, 辺り
+cluster1:(2)
+桜, 橋
+cluster2:(1)
+湖
+cluster3:(1)
+散歩
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

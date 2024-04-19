@@ -1,0 +1,11 @@
+--------------------similar_words:清ヶ浜海水浴場--------------------
+top3 entities near to cluster0>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster1>>
+気持ち, 海水浴
+top3 entities near to cluster2>>
+砂浜, 海, 浜辺
+top3 entities near to cluster3>>
+散歩, 散策, 出掛け
+top3 entities near to cluster4>>
+穴場, オススメスポット, ススメスポット

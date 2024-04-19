@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今宮浅間神社のスギ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+瀧川浅間神社, 浅間神社, 日吉浅間神社, 今宮浅間神社, 入山瀬浅間神社
+cluster1:(6)
+スギ, 枝, 幹, 杉, 大杉, 大木
+cluster2:(7)
+森閑, 天然記念物, 横, 鳥居, 神社, 下方, 木
+cluster3:(1)
+今宮
+cluster4:(1)
+富士市
+cluster5:(1)
+樹高
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 3entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:IDC大塚家具  有明本社ショールーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+東京都, 有明, 有明ショールーム, 大塚
+cluster1:(6)
+館内, 電車, 掃除, 部屋, 家具, 訪問
+cluster2:(2)
+接客, 店員
+cluster3:(2)
+本社, 社員
+cluster4:(12)
+ショールーム, ソファー, 買い替え, 使い方, プロ, 気持ち, テイスト, 買い物, 声, アドバイス, インテリア, システム
+cluster5:(7)
+気, 目的, 感じ, 事, 数, 方, 説明
+cluster6:(2)
+興味, 知識
+cluster7:(3)
+駐車場, 展示品, 大きさ
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:江戸前汽船--------------------
+top3 entities near to cluster0>>
+団体, お客, 個人
+top3 entities near to cluster1>>
+駅, 夜景, 台場
+top3 entities near to cluster2>>
+団体, 飲み物
+top3 entities near to cluster3>>
+詰め, 対策
+top3 entities near to cluster4>>
+食べ放題, 食べ, やり

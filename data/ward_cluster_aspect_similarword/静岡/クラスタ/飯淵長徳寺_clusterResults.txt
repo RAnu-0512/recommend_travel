@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飯淵長徳寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+あやかり不動, 不動
+cluster1:(4)
+雰囲気, 建物, 方, 地元
+cluster2:(2)
+堂, 寺
+cluster3:(3)
+お不動さん, 飯淵長徳寺, 飯淵のお不動さん
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 4entities.

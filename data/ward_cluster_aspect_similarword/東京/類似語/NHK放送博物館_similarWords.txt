@@ -1,0 +1,45 @@
+--------------------similar_words:NHK放送博物館--------------------
+top3 entities near to cluster0>>
+神社, 駅, 区立
+top3 entities near to cluster1>>
+頃, 昔, ころ
+top3 entities near to cluster2>>
+時代, 昔, 大昔
+top3 entities near to cluster4>>
+8, 7, 6
+top3 entities near to cluster5>>
+テレビ, ドラマ, 番組
+top3 entities near to cluster7>>
+隣, 横, 隣り
+top3 entities near to cluster8>>
+施設地, 遺跡, 施設
+top3 entities near to cluster9>>
+子供, 大人, 家族
+top3 entities near to cluster10>>
+天気, お天気, 予報
+top3 entities near to cluster11>>
+番組, テレビ, 放送
+top3 entities near to cluster12>>
+放送局, 開局, 放送
+top3 entities near to cluster13>>
+放送, 国営, 公共
+top3 entities near to cluster14>>
+放送, 放映, 番組
+top3 entities near to cluster15>>
+放送, 放映, 地上波
+top3 entities near to cluster16>>
+番組名, 放送, 番組
+top3 entities near to cluster17>>
+放送, 体験, 番組
+top3 entities near to cluster18>>
+上映, 映画, 上演
+top3 entities near to cluster19>>
+玉音, 放送, 地上波
+top3 entities near to cluster20>>
+入場, 入館, 無料
+top3 entities near to cluster21>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster22>>
+展示, 見学, 資料
+top3 entities near to cluster23>>
+港, 都, 区

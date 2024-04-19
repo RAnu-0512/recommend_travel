@@ -1,0 +1,15 @@
+--------------------similar_words:七代の滝--------------------
+top3 entities near to cluster0>>
+標高差, 標高
+top3 entities near to cluster1>>
+滝, 茶屋, 壺
+top3 entities near to cluster3>>
+登山道, 登山, 山道
+top3 entities near to cluster5>>
+路面, 大雨
+top3 entities near to cluster6>>
+段差, 勾配, 階段
+top3 entities near to cluster7>>
+水量, 流量, 水かさ
+top3 entities near to cluster8>>
+岩, 岩盤, 丸太

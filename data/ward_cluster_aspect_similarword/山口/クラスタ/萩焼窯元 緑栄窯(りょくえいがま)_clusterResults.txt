@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩焼窯元 緑栄窯(りょくえいがま)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+作りたい!, 殆んど先生, 作りたい物
+cluster1:(2)
+追加料金, 所要時間
+cluster2:(3)
+器, 皿, 茶碗
+cluster3:(20)
+子供, もの, こと, コップ, 最後, 形, 家族, オススメ, 手, 息子, 限り, 工程, 時間, 目, 物, 記念, 大人, 方, 作品, ^^)
+cluster4:(3)
+先生, 指導, 授業
+cluster5:(2)
+対応, 説明
+cluster6:(2)
+体験, 経験
+cluster7:(1)
+教え方
+cluster8:(1)
+楽しさ
+cluster9:(9)
+ねり体験, 萩焼, ろくろ, 粘土, 萩, 焼き上がり, 緑栄窯, 陶芸体験, 陶芸
+
+howmany entities : 46
+howmany clusters : 10
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 10
+deleted 0entities.

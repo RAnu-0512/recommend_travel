@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:智満寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+千葉山智満寺, 智満寺
+cluster1:(2)
+川根, 川根大仏
+cluster2:(3)
+大仏様, 涅槃像, 大仏
+cluster3:(5)
+本尊, 本堂, 境内, 神域, 寺
+cluster4:(3)
+平和, 平安, 大杉
+cluster5:(8)
+多く, 裏手, ところ, 気持ち, 奥の院, ふもと, 時代, 千葉山
+cluster6:(3)
+道, 登山, ハイキング目的
+cluster7:(1)
+火災
+cluster8:(1)
+勾配
+cluster9:(2)
+入域, 両脇
+cluster10:(1)
+駐車場
+
+howmany entities : 31
+howmany clusters : 11
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 9entities.

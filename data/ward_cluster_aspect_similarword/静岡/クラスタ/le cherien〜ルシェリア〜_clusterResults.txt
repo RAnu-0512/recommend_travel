@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:le cherien〜ルシェリア〜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ポーセラーツ, マグカップ
+cluster1:(1)
+アドバイス
+cluster2:(1)
+先生
+cluster3:(1)
+部分
+cluster4:(1)
+作業
+cluster5:(1)
+初体験
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

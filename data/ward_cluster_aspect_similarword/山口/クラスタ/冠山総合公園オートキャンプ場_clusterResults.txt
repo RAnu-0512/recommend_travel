@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:冠山総合公園オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+夏場, 子供連れ, 大人, バーベキュー, 小さな子, 緑, 公園, 誘導, 家族, 奥, サイト, 梅, 野原
+cluster1:(3)
+キャンプ場, オートキャンプ場, 光市
+cluster2:(1)
+冠山公園
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

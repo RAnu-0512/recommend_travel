@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆高原メルヘンの森美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+館内, 展示, 館長, 絵画, 入口, 写真, 雨天, 場所, 売り物絵画, 施設
+cluster1:(2)
+カビ, 臭い
+cluster2:(3)
+ホコリ, 子供, ペット
+cluster3:(3)
+愛犬, 猫, 犬
+cluster4:(1)
+ペット連れ
+cluster5:(5)
+女性, 男性, 観光, 灰皿, 雑貨
+cluster6:(1)
+猫エサ
+cluster7:(1)
+ヤニ臭
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 5entities.

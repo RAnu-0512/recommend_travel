@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長命寺桜もち>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸, 江戸時代
+cluster1:(4)
+大川, 東京, 山本, 向島
+cluster2:(5)
+葉, 茶, 餡, 餅, もち
+cluster3:(7)
+長命寺桜もち, 桜餅, 花見, 桜もち, 桜, 土手, 長命寺
+cluster4:(1)
+長命寺さくらもち 道路
+cluster5:(25)
+季節, 春, 風物詩, バランス, 塩漬け, 手土産, 人, 何か, さくら, 木, 近く, 葉っぱ, 横, 和菓子, ふつう, 味, 記憶, テレビ, 外, 歴史, こと, 側, こちら., 香り, もの
+cluster6:(8)
+店, 老舗, 行列, 高速乗り場, 土産, 和菓子屋, 予約, 店内
+cluster7:(1)
+創業者
+cluster8:(6)
+甘さ, 皮, 塩分, ほのかな皮, 言問, 塩気
+cluster9:(1)
+首都高速向島出入口
+
+howmany entities : 60
+howmany clusters : 10
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 10
+deleted 0entities.

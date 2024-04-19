@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧中井旅館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+琴浦町八橋, 琴浦町
+cluster1:(11)
+旅館, 建物, 見学スポット, 中井, 面影, 見学, 見応え, 趣, セツ夫婦, 新婚旅行, 改修
+cluster2:(2)
+小泉八雲, 平成元年
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

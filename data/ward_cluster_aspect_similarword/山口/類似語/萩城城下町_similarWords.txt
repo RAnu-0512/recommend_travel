@@ -1,0 +1,117 @@
+--------------------similar_words:萩城城下町--------------------
+top3 entities near to cluster0>>
+町並み, 街並み, たたずまい
+top3 entities near to cluster1>>
+レンタル, サイクル, 貸し出し
+top3 entities near to cluster2>>
+自転車, サイクリング, マウンテンバイク
+top3 entities near to cluster3>>
+ホテル, ガイドブック, おみやげ
+top3 entities near to cluster4>>
+カフェ, 喫茶店, テラス
+top3 entities near to cluster5>>
+夏みかん, 蜜柑, みかん
+top3 entities near to cluster6>>
+陶器, 磁器
+top3 entities near to cluster7>>
+菊, 花, 雛
+top3 entities near to cluster8>>
+餅, 饅頭
+top3 entities near to cluster9>>
+家風, 家筋
+top3 entities near to cluster10>>
+生家, 旧家, 商家
+top3 entities near to cluster11>>
+庭園, 庭, 中庭
+top3 entities near to cluster12>>
+邸宅, 屋敷, 豪邸
+top3 entities near to cluster13>>
+建物, 家屋, 土地
+top3 entities near to cluster14>>
+年貢, 五公五民, 賦役
+top3 entities near to cluster15>>
+人物, 出身, 所縁
+top3 entities near to cluster16>>
+人達, 人々
+top3 entities near to cluster17>>
+日, 月, あと
+top3 entities near to cluster18>>
+繁華街, 繁華, 城下町
+top3 entities near to cluster19>>
+周辺, 近辺
+top3 entities near to cluster20>>
+近所, 地元, 隣
+top3 entities near to cluster21>>
+列, 足元, 足下
+top3 entities near to cluster22>>
+入口, 駅, 入り口
+top3 entities near to cluster23>>
+各地, 地元, 時代
+top3 entities near to cluster26>>
+必見, いらっしゃる, 是非
+top3 entities near to cluster27>>
+見, 眺め, 見せ
+top3 entities near to cluster30>>
+遣っ, 遣う
+top3 entities near to cluster31>>
+苦労, 難儀, 苦心
+top3 entities near to cluster32>>
+噂, うわさ, ウワサ
+top3 entities near to cluster33>>
+お腹, 勧め, 奨め
+top3 entities near to cluster34>>
+価値, 印象, 雰囲気
+top3 entities near to cluster35>>
+風情, 趣, 趣き
+top3 entities near to cluster36>>
+クルマ, 車両
+top3 entities near to cluster37>>
+季節, 時期, 時季
+top3 entities near to cluster39>>
+施設, 目的, 手段
+top3 entities near to cluster40>>
+地点, 地点付近, 位置
+top3 entities near to cluster41>>
+距離, 範囲, 体力
+top3 entities near to cluster42>>
+展示, 見学, 案内
+top3 entities near to cluster43>>
+散策, 散歩, 満喫
+top3 entities near to cluster44>>
+風景, 生活, 日常
+top3 entities near to cluster45>>
+天気雨, 天気, 青空
+top3 entities near to cluster46>>
+景色, 風景, 写真
+top3 entities near to cluster47>>
+土産, 散歩, 散策
+top3 entities near to cluster48>>
+滞在, 宿泊, 時間
+top3 entities near to cluster50>>
+時代
+top3 entities near to cluster51>>
+時代, 末期, 武家
+top3 entities near to cluster52>>
+遺産, 世界, 文化
+top3 entities near to cluster53>>
+駐車場, 駐車, 駐輪場
+top3 entities near to cluster54>>
+ロケ地, 名所, ロケ
+top3 entities near to cluster55>>
+歩き, 歩く, あるき
+top3 entities near to cluster56>>
+バス, 乗合, マイクロバス
+top3 entities near to cluster57>>
+住宅, 商家
+top3 entities near to cluster58>>
+屋敷, 武家, 邸宅
+top3 entities near to cluster59>>
+武士, 志士, 幕末
+top3 entities near to cluster60>>
+町並み, 史跡, 歴史
+top3 entities near to cluster61>>
+壁, 塀, 土塀
+top3 entities near to cluster64>>
+横町, 横丁, アメヤ
+top3 entities near to cluster65>>
+飲食店, 飲食

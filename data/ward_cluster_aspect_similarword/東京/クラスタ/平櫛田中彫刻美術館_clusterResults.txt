@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平櫛田中彫刻美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+平櫛, 平櫛田, 平櫛田中彫刻美術館, 平櫛田中, 巨匠平櫛, 彫刻家平櫛田
+cluster1:(5)
+一橋学園駅, 庭園, 敷地, 邸宅, 庭
+cluster2:(17)
+作品, 心, 場所, 地, 久しぶり, 人, 茶道具, 晩年, 功績, 細工, 見ごたえ, 巨匠, 館長, 美術館, スポット, 雰囲気, 説明
+cluster3:(1)
+細かさ
+cluster4:(12)
+田中彫刻美術館, 小平市, 美術, 彫刻家, 美術品, 彫刻, 田中, 美術館鑑賞, 記念館, o♪日本近代彫刻, 展示物, 近代彫刻
+
+howmany entities : 41
+howmany clusters : 5
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:黒鐘公園--------------------
+top3 entities near to cluster0>>
+改札, 駅, 構内
+top3 entities near to cluster1>>
+季節, 桜, 時季
+top3 entities near to cluster2>>
+自然, 周囲, 周り
+top3 entities near to cluster5>>
+近辺, ほど近い
+top3 entities near to cluster7>>
+跡, 散策, 傾斜
+top3 entities near to cluster8>>
+公園, 城址, 城跡

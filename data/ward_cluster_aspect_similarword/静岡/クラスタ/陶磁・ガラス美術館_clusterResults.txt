@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶磁・ガラス美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中国, 陶磁器
+cluster1:(1)
+時代
+cluster2:(1)
+玩具
+cluster3:(1)
+高麗
+cluster4:(1)
+トンボ玉
+cluster5:(1)
+優品
+cluster6:(1)
+展示室
+cluster7:(1)
+青磁象嵌瓶
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブルーベリー摘み取り岩沢正典氏の農園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+味見, 世話
+cluster1:(5)
+家, 物, 実, 近く, 摘み取り分
+cluster2:(2)
+ブルーベリー摘み, 大粒
+cluster3:(1)
+開園
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

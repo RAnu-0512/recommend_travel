@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:燈明ケ崎遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+西伊豆, 北, 遊歩道
+cluster1:(2)
+リアス式海岸沿い, 道
+cluster2:(1)
+浮島海岸
+cluster3:(2)
+田子瀬浜海岸, 西伊豆堂ヶ島
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

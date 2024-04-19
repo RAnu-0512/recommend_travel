@@ -1,0 +1,57 @@
+--------------------similar_words:静岡市立日本平動物園--------------------
+top3 entities near to cluster0>>
+動物園, 動物, 植物園, 植物
+top3 entities near to cluster2>>
+バス, 名所, タクシー
+top3 entities near to cluster4>>
+乗馬, 馬術, 体験
+top3 entities near to cluster8>>
+施設, 設備, 飲食
+top3 entities near to cluster9>>
+展示, 飼育, 展覧
+top3 entities near to cluster10>>
+滑り台, 水遊び, アトラクション
+top3 entities near to cluster11>>
+エリア, コース, レジャー
+top3 entities near to cluster12>>
+スロープ, アトラクション, ゴンドラ
+top3 entities near to cluster13>>
+入り口, 待ち時間, 終わり
+top3 entities near to cluster15>>
+見どころ, イベント, コーナー
+top3 entities near to cluster17>>
+気持ち, 楽しい, 人気者
+top3 entities near to cluster18>>
+うさぎ, ヒヨコ, ひよこ
+top3 entities near to cluster19>>
+ガラス, カレー, リンゴ
+top3 entities near to cluster21>>
+ウサギ, シロクマ, アザラシ
+top3 entities near to cluster22>>
+乗り物, 爬虫類, ポニー
+top3 entities near to cluster28>>
+子供, 子ども, 大人
+top3 entities near to cluster30>>
+弁当, 肉, 惣菜
+top3 entities near to cluster32>>
+シロ, オス, スー
+top3 entities near to cluster36>>
+子供, 息子, 子ども
+top3 entities near to cluster38>>
+訪問, 会い, 紹介
+top3 entities near to cluster39>>
+行動, 観察, 生活
+top3 entities near to cluster40>>
+愛着, 愛情, 興味
+top3 entities near to cluster41>>
+角度, 視点, 視線
+top3 entities near to cluster42>>
+体力, 障害, 課題
+top3 entities near to cluster46>>
+坂道, 坂, 道幅
+top3 entities near to cluster48>>
+正面, 入り口, 入口
+top3 entities near to cluster49>>
+観覧, 館, 各館
+top3 entities near to cluster50>>
+大型, 巨大, 地下

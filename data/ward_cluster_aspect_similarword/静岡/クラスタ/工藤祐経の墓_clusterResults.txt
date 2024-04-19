@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:工藤祐経の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+隠れ岩, 隠れ場所, 岩
+cluster1:(6)
+かくれんぼ, 場所, 曽我, 白糸, 昔, 侍
+cluster2:(1)
+駐車場
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊北峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+渓谷, 清流
+cluster1:(1)
+白滝山
+cluster2:(1)
+豊北
+cluster3:(1)
+美しさ
+cluster4:(1)
+粟野蓋之井
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

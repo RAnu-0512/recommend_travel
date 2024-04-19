@@ -1,0 +1,11 @@
+--------------------similar_words:都営浅草線 浅草橋駅--------------------
+top3 entities near to cluster0>>
+駅, 乗換, 駅前
+top3 entities near to cluster2>>
+人達, 大勢
+top3 entities near to cluster3>>
+地上, 真下
+top3 entities near to cluster5>>
+地下鉄, 都営地下鉄, 都営
+top3 entities near to cluster7>>
+商談, 打合せ, 打ち合わせ

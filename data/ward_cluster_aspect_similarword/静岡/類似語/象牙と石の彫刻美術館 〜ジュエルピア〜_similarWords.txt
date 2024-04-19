@@ -1,0 +1,49 @@
+--------------------similar_words:象牙と石の彫刻美術館 〜ジュエルピア〜--------------------
+top3 entities near to cluster1>>
+彫刻, 美術, 芸術
+top3 entities near to cluster2>>
+屏風, 屛風, 衝立
+top3 entities near to cluster3>>
+象牙, 彫刻, 美術
+top3 entities near to cluster5>>
+象牙, ゾウゲ, 黒檀
+top3 entities near to cluster6>>
+グッズ, ショップ, アクセサリー
+top3 entities near to cluster8>>
+週間, 初日, 日
+top3 entities near to cluster9>>
+息子, 母親, 子供
+top3 entities near to cluster10>>
+想い, 物語
+top3 entities near to cluster11>>
+横手, 頭手, 横, 頭
+top3 entities near to cluster15>>
+体験, 体験談, 体感
+top3 entities near to cluster16>>
+展示, 出展, 展覧
+top3 entities near to cluster18>>
+価値, 興味
+top3 entities near to cluster23>>
+予想外, 予想, 想像
+top3 entities near to cluster25>>
+驚き, 感動, 驚く
+top3 entities near to cluster30>>
+内容, 対応, 補足
+top3 entities near to cluster32>>
+態度, 一環, 難癖
+top3 entities near to cluster34>>
+作業, 労力, 手間
+top3 entities near to cluster35>>
+作品, 色合い, 造形
+top3 entities near to cluster36>>
+土産店, 土産物店, 土産物, 土産
+top3 entities near to cluster39>>
+バス, 周遊, 温泉
+top3 entities near to cluster40>>
+子供, 子ども, 大勢
+top3 entities near to cluster41>>
+一人, 近, 朝
+top3 entities near to cluster42>>
+時間, 日分, 日
+top3 entities near to cluster43>>
+入場料, 入館料, 入場, 入館

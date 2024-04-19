@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線線 白金台駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白金高輪, 東急目黒線
+cluster1:(11)
+エスカレーター, 明治学院大学, 三田線, 最寄り駅, ところ, ホーム, 学生, 時間, 南北線, 注意, 乗り換え
+cluster2:(3)
+都営, 東京メトロ, 東京メトロ南北線
+cluster3:(2)
+都心方面, 方面
+cluster4:(4)
+白金台駅, 駅, 乗り入れ駅, 目黒駅
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

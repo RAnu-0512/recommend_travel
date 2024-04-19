@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇野千代生家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+顕彰碑, 文学碑
+cluster1:(2)
+宇野, 宇野千代
+cluster2:(7)
+係, 生家, 余裕, 作家, 出身, 時間, 風情
+cluster3:(3)
+庭, 苔, 庭園
+cluster4:(7)
+観光パンフレット, 錦帯橋, ファン, 手入れ, 紅葉, モミジ, 周辺
+cluster5:(1)
+紅葉谷公園
+cluster6:(1)
+岩国
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

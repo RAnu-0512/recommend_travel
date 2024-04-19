@@ -1,0 +1,23 @@
+--------------------similar_words:スズキ歴史館--------------------
+top3 entities near to cluster2>>
+コーナー, テレビ, ショールーム
+top3 entities near to cluster3>>
+ライン, アーム, ベルト
+top3 entities near to cluster4>>
+自動車, 自転車, バイク
+top3 entities near to cluster7>>
+軽自動車, クルマ, ホンダ
+top3 entities near to cluster11>>
+見学, 視察, 時間
+top3 entities near to cluster17>>
+入場料, 入場, 入館料, 入館
+top3 entities near to cluster18>>
+予約, 予約制, 受付
+top3 entities near to cluster21>>
+展示, 出展, 展覧
+top3 entities near to cluster24>>
+歴史, 展示
+top3 entities near to cluster25>>
+館, 歴史, 資料
+top3 entities near to cluster27>>
+車両, 自動車

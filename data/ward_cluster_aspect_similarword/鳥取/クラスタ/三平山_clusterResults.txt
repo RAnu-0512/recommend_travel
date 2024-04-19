@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三平山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山頂, 展望
+cluster1:(3)
+伯耆大山, 車, 弓ケ浜
+cluster2:(3)
+目前, 入口, 近く
+cluster3:(1)
+愛
+cluster4:(1)
+弁当
+cluster5:(3)
+大山, 島根, 黄葉
+cluster6:(1)
+右方向
+cluster7:(1)
+米子市
+cluster8:(1)
+蒜山三座
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 9
+deleted 0entities.

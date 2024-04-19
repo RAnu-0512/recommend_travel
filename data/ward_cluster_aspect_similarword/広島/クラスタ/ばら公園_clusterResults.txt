@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ばら公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+色とりどり, 花, 種類, 写真, シーズン, 人, 多く, 見学, 沢山, 近く, セット, 場所
+cluster1:(3)
+町, 品種, 公園
+cluster2:(1)
+中心部
+cluster3:(1)
+sns映えブーム
+cluster4:(7)
+バラ公園, バラ祭, バラ園, バラ, バラ祭り, ばら, ばら祭り
+cluster5:(4)
+福山, 緑町公園, 福山市バラ公園, 福山駅
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

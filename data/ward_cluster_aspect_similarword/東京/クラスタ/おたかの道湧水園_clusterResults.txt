@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おたかの道湧水園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西国分寺駅, 国分寺駅
+cluster1:(4)
+由来, こと, 場所, 地名
+cluster2:(2)
+公園, 建物
+cluster3:(2)
+整備, 散策
+cluster4:(4)
+武蔵野線, 武蔵野, 国分寺, 跡
+cluster5:(3)
+武蔵国分尼寺, 国分寺市立歴史公園, 国分尼寺
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

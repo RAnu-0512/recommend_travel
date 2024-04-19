@@ -1,0 +1,31 @@
+--------------------similar_words:恵比寿麦酒記念館--------------------
+top3 entities near to cluster0>>
+館, 記念, 記念碑
+top3 entities near to cluster1>>
+恵比寿, エビス, エビスビール
+top3 entities near to cluster2>>
+グラス, ビール瓶, ビアグラス
+top3 entities near to cluster3>>
+ビール, 飲み物, つまみ
+top3 entities near to cluster4>>
+コイン, 硬貨, ランドリー
+top3 entities near to cluster5>>
+レストラン, 入り口, デパート
+top3 entities near to cluster6>>
+博物館, グッズ, グッツ
+top3 entities near to cluster7>>
+雰囲気, 姉さん, ねえさん
+top3 entities near to cluster8>>
+ガイド, コース, エリア
+top3 entities near to cluster10>>
+ビール, 麦酒, 生ビール
+top3 entities near to cluster12>>
+駅, 駅前, ビルアトレ
+top3 entities near to cluster13>>
+見学, 館, 視察
+top3 entities near to cluster14>>
+記念, 写真, 周年
+top3 entities near to cluster15>>
+展示, 出展, 展覧
+top3 entities near to cluster16>>
+有料, 試飲, 無料

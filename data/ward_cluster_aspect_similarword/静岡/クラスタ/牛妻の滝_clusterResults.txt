@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牛妻の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+熊, 滝
+cluster1:(2)
+不動, 人気
+cluster2:(5)
+ひとつ, 場所, 注意, 牛妻, ビューポイント
+cluster3:(1)
+迫力
+cluster4:(1)
+水量
+cluster5:(1)
+案内看板
+cluster6:(1)
+静岡市
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 8entities.

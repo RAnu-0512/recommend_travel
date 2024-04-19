@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ナイトウ果樹園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+方, 方々
+cluster1:(2)
+人, 女性
+cluster2:(13)
+温かみ, 親子連れ, 場所, 最後, 手洗い, 安心, オーナー, 他, ブルーベリー, 中, 雰囲気, ペース, 摘み取り
+cluster3:(1)
+受付
+cluster4:(1)
+人柄
+cluster5:(7)
+木, 都, 車, 実, 農園, 敷地, 道
+cluster6:(7)
+果樹園, じゃらんポイント, 無農薬, ブルーベリー狩り, 住宅街, ブルー狩り, 食べ放題
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

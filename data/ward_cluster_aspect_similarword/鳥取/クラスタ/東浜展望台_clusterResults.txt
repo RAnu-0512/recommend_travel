@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東浜展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+遠浅, 水, 海
+cluster1:(3)
+定評, 絶景, 風情
+cluster2:(1)
+透明度
+cluster3:(1)
+美しさ
+cluster4:(1)
+陸上集落
+cluster5:(1)
+東浜展望台
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南明寺_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イトザクラ, 南明寺
+cluster1:(1)
+さくら
+cluster2:(1)
+まわり
+cluster3:(2)
+自然, 人々
+cluster4:(1)
+心
+cluster5:(1)
+道
+cluster6:(1)
+八江萩名所図画
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

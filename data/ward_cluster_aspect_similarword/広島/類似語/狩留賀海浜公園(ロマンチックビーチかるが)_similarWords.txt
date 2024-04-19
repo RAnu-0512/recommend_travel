@@ -1,0 +1,13 @@
+--------------------similar_words:狩留賀海浜公園(ロマンチックビーチかるが)--------------------
+top3 entities near to cluster0>>
+アスレチック, バーベキュー, ファミリージョッキーファミリートレーナー
+top3 entities near to cluster1>>
+海水浴, 潮干狩り, 浜辺
+top3 entities near to cluster2>>
+人達, 大勢
+top3 entities near to cluster3>>
+駅, 駅前, 徒歩
+top3 entities near to cluster4>>
+水道, 上下水道, 上水道
+top3 entities near to cluster5>>
+海浜, 公園, 海岸

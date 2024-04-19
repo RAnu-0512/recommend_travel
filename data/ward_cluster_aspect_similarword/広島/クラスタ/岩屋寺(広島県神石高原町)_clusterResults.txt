@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩屋寺(広島県神石高原町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+由緒, 歴史
+cluster1:(6)
+臨済宗, 文化財, 町, 門構え, もの, 雰囲気
+cluster2:(4)
+表門, 寺, 山門, 能救山
+cluster3:(4)
+能救山岩屋寺, 岩屋, 小畠代官所, 岩屋寺
+cluster4:(1)
+───O
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

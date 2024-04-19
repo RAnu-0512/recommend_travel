@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛鷹山水神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, ゴルフ場
+cluster1:(2)
+水, 湧水
+cluster2:(3)
+階段, 柵, 脇
+cluster3:(8)
+車, 御朱印, 愛鷹山, 手洗い, ハイキング, ところ, 人, 場所
+cluster4:(3)
+登山, 神社, 山頂
+cluster5:(1)
+どこか
+cluster6:(1)
+神主不在
+cluster7:(1)
+登山口
+cluster8:(1)
+愛鷹山水神社
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 8entities.

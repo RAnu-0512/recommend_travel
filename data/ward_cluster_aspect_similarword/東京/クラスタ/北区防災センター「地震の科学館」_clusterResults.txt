@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北区防災センター「地震の科学館」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+西ヶ原, 中里, 北区, 滝野川公園, 都, 大分, 東京メトロ, 南北線
+cluster1:(3)
+体験型, 体験, 体験コーナー
+cluster2:(2)
+煙, 消火
+cluster3:(3)
+通路, 廊下, 階段
+cluster4:(2)
+学習, 勉強
+cluster5:(7)
+所, 場所, カメラ, 人, 子供, 時間, もの
+cluster6:(5)
+建物, 隣, 館内, 施設, 別棟
+cluster7:(1)
+揺れ
+cluster8:(15)
+防災センター, 地震, 地震体験, 防災関連写真ギャラリー, 自然災害, 地震の科学館, 熊本地震, 北区防災センター, 防災展示, 北区防災センター 地震, 防災術, 知識, 防災, 防災知識, 科学館
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雑司が谷案内処>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+参道, アニメ作品スタンプ, 観光マップ, 休憩, 周辺, 場所, 雑司, 散策, 鬼子母神
+cluster1:(5)
+谷, 谷駅, 谷案内処, 谷界隈, 案内所
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

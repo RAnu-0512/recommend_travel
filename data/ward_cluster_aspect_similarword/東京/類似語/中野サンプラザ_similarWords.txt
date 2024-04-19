@@ -1,0 +1,41 @@
+--------------------similar_words:中野サンプラザ--------------------
+top3 entities near to cluster1>>
+会場, 駐車場, 駐車
+top3 entities near to cluster2>>
+改修, 建設, 着工
+top3 entities near to cluster3>>
+施設, 宿泊, 設備
+top3 entities near to cluster4>>
+笑, 終了, 苦笑
+top3 entities near to cluster5>>
+コート, ランド, テニス
+top3 entities near to cluster6>>
+イベント, コンサート, 雰囲気
+top3 entities near to cluster7>>
+カフェ, スタバ, ランチ
+top3 entities near to cluster8>>
+ライブ, スタジオ, コンサート
+top3 entities near to cluster9>>
+ホテル, 子連れ, レストラン
+top3 entities near to cluster10>>
+コイン, イオン, ランドリー
+top3 entities near to cluster12>>
+正面, 客席, 階段
+top3 entities near to cluster14>>
+時間, 適正, 日数
+top3 entities near to cluster15>>
+替える, 換え
+top3 entities near to cluster16>>
+座り心地, 座り, すわり
+top3 entities near to cluster17>>
+駅店, 駅前店, 駅, 駅前
+top3 entities near to cluster18>>
+音響, 音楽
+top3 entities near to cluster19>>
+歌手, 声優, 合唱
+top3 entities near to cluster20>>
+情報系, 番組, 情報
+top3 entities near to cluster21>>
+建物, ホテル, 設備
+top3 entities near to cluster22>>
+展望台, 温水, 展望

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野呂山キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+呉市, 広島県
+cluster1:(3)
+常設テント, オートキャンプ場, キャンプ場
+cluster2:(9)
+キャンプ, オススメ, 瀬戸内海, 野呂山, オートキャンプ, テーブル, テント, サイト, 夏
+cluster3:(3)
+方, 利用, 指定
+cluster4:(5)
+荷物, 車, 景色, 場所, 風呂
+cluster5:(1)
+標高
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

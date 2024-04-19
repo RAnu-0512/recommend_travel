@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あやめ湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+温泉, 銭湯, あやめ湯, 湯船, 温泉入り放題, お湯, 伊豆長岡温泉, 温泉施設, 風呂, 湯
+cluster1:(5)
+言葉, こと, 対応, 雰囲気, 理由
+cluster2:(2)
+風情, 香り
+cluster3:(6)
+客, 地元, 出身, 源氏山, 高温, 室内
+cluster4:(5)
+昭和, 水, 伊豆長岡町, あやめ姫, 金
+cluster5:(1)
+熱め
+cluster6:(1)
+無色透明
+cluster7:(4)
+共同浴場, 大衆浴場, 東のふもと古奈温泉街, 公衆浴場
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 4entities.

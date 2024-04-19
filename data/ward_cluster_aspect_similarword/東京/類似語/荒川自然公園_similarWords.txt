@@ -1,0 +1,45 @@
+--------------------similar_words:荒川自然公園--------------------
+top3 entities near to cluster0>>
+子供, 子ども, お子さん
+top3 entities near to cluster1>>
+水遊び, 遊び場, プール
+top3 entities near to cluster2>>
+カエル, チョウ, カブト虫
+top3 entities near to cluster3>>
+サイクリング, おすすめ, コース
+top3 entities near to cluster5>>
+テニス, 練習, コート
+top3 entities near to cluster6>>
+配布, 中止, 配付
+top3 entities near to cluster7>>
+家族, 人数
+top3 entities near to cluster9>>
+ひさしぶり, 暑い, ひさし
+top3 entities near to cluster10>>
+夏, 冬, 秋
+top3 entities near to cluster12>>
+木々, 緑, 新緑
+top3 entities near to cluster13>>
+満開, 紅葉, 見頃
+top3 entities near to cluster14>>
+湖池, 湖, 水辺
+top3 entities near to cluster15>>
+交通, 道路, 施設
+top3 entities near to cluster16>>
+公園, 園内, 敷地
+top3 entities near to cluster17>>
+観察園, 観察, 生態園, 生態
+top3 entities near to cluster18>>
+散歩, 散策, 出掛け
+top3 entities near to cluster19>>
+散策, 散歩, そぞろ歩き
+top3 entities near to cluster20>>
+鑑賞, 観賞, ホタル
+top3 entities near to cluster21>>
+整理券, 整理, 発券
+top3 entities near to cluster23>>
+遊園, 遊園地, 児童
+top3 entities near to cluster24>>
+公園, 自然, 水辺
+top3 entities near to cluster25>>
+感染症, 感染, 対策

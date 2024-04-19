@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田万川温泉憩いの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+赤茶色, 茶緑色
+cluster1:(2)
+注, 露天風呂
+cluster2:(2)
+お湯, 湯
+cluster3:(1)
+内湯
+cluster4:(1)
+濁り湯
+cluster5:(1)
+注ぎ口
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

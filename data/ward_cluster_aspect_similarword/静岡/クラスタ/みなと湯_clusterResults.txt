@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みなと湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+町営公衆浴場, 公衆浴場
+cluster1:(35)
+気, アイス, 納得, 目, 体, 懐かしさ, 外観, 注意, 疲れ, 内装, 民宿, 地元, 値段, 弓ヶ浜, 海水浴, 受付, 人, 店, 海水浴帰り, 満載, 名前, 海, 中, 塩分, シャンプー, 声, 塩アイス, 夕方, 場所, 芯, 南伊豆町, 気分, 前, 酒屋, 方
+cluster2:(4)
+静岡県, みなと湯, 湯温, 賀茂温泉
+cluster3:(10)
+駐車場, 温泉, 利用温泉, 銭湯, お湯, 観光客, 入浴, 温泉向かい, 銭湯感覚, 風呂
+cluster4:(1)
+レトロ感
+
+howmany entities : 52
+howmany clusters : 5
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 3
+deleted 3entities.

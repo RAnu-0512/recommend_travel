@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:独立行政法人国際協力機構JICA中国>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 東広島市
+cluster1:(4)
+レストラン, カレー, バイキング, バイキング形式
+cluster2:(1)
+送迎バス
+cluster3:(1)
+独立行政法人 国際協力機構 JICA中国
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

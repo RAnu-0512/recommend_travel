@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ナチュラルアクション アウトドアツアーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+英, 水, 川, 岩
+cluster1:(17)
+スタッフ, ガイド, 飛び込み, KIDSツアー, 水遊び, アクティビティ, ポイント, ラフティング, 滑り台, 富士川, 富士山, ツアー, お笑い, サイト, ラフティングツアー, ウエットスーツ, アメリカ
+cluster2:(2)
+流れ, 時間
+cluster3:(7)
+最後, 他, 参加, 写真, 次回, 中, 方
+cluster4:(1)
+受付
+cluster5:(1)
+割引
+cluster6:(2)
+湧水, 水量
+cluster7:(2)
+体験内容, 体験アドベンチャー番組
+cluster8:(3)
+大人, 子供, 子供たち
+cluster9:(2)
+主人, 息子
+cluster10:(2)
+家族, 人
+cluster11:(1)
+客
+cluster12:(1)
+語
+cluster13:(1)
+孫息子
+cluster14:(3)
+指導員, ガイドさん達, 怖がり屋
+cluster15:(1)
+更衣室
+
+howmany entities : 50
+howmany clusters : 16
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 5
+deleted 16entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南蔵院(立石8丁目)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+南蔵院, 南蔵院裏古墳
+cluster1:(11)
+古墳, 古墳時代, こと, 寺, 地図, 場所, 裏側, 資料, もの, 立石, 辺り一帯
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

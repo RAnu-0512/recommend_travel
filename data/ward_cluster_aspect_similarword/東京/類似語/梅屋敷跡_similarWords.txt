@@ -1,0 +1,13 @@
+--------------------similar_words:梅屋敷跡--------------------
+top3 entities near to cluster1>>
+名所, 梅, 歩道
+top3 entities near to cluster2>>
+標柱, 跡, 石碑
+top3 entities near to cluster3>>
+広重, 浮世絵, 北斎
+top3 entities near to cluster4>>
+案内板, 案内, 倒連
+top3 entities near to cluster5>>
+梅園, 香, 梅
+top3 entities near to cluster6>>
+十間, 川, 堀

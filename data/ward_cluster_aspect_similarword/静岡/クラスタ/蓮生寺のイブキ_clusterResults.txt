@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮生寺のイブキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+熊谷山蓮正寺, 熊谷直実
+cluster1:(3)
+寺院, 建立, 創建
+cluster2:(3)
+御家, 頼朝, 平知盛
+cluster3:(2)
+大谷派, 蓮正
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 4entities.

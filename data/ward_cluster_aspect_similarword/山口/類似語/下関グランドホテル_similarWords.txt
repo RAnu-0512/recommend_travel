@@ -1,0 +1,11 @@
+--------------------similar_words:下関グランドホテル--------------------
+top3 entities near to cluster1>>
+海, 海峡, 海風
+top3 entities near to cluster2>>
+港船, 景色, 港
+top3 entities near to cluster3>>
+食事, 夕食, 朝食
+top3 entities near to cluster4>>
+直送, 取寄せ, 産直
+top3 entities near to cluster5>>
+料理, 食材

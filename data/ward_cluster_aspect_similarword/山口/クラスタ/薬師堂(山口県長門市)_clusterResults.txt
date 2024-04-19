@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:薬師堂(山口県長門市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大関, 長門
+cluster1:(2)
+寺, 堂
+cluster2:(2)
+病院, 医療
+cluster3:(2)
+村, 西
+cluster4:(2)
+方, 人
+cluster5:(2)
+薬師堂, 近く
+cluster6:(1)
+場所
+cluster7:(1)
+存在
+cluster8:(1)
+街
+cluster9:(1)
+高台
+cluster10:(5)
+泉源, 療養施設, 薬湯, 温泉, 俵山温泉
+
+howmany entities : 21
+howmany clusters : 11
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 11
+deleted 0entities.

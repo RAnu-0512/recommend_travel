@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王井の頭線 吉祥寺駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+景色, 街, 造り
+cluster1:(6)
+京王線, ショッピング, 吉祥寺, 井の頭公園, 買い物, 乗り換え
+cluster2:(2)
+流石, 人
+cluster3:(2)
+JR, バス
+cluster4:(1)
+上位
+cluster5:(2)
+頭線, 井
+cluster6:(8)
+吉祥寺駅, JR吉祥寺駅, 京王井の頭線 吉祥寺駅, 駅, 改札, 商業施設, 京王井の頭線, 駅ビル
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 7
+deleted 0entities.

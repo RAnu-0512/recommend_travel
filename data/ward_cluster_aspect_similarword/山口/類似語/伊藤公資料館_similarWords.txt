@@ -1,0 +1,11 @@
+--------------------similar_words:伊藤公資料館--------------------
+top3 entities near to cluster0>>
+遺品, 生家, 形見
+top3 entities near to cluster1>>
+映像, 写真, 世代
+top3 entities near to cluster2>>
+館, 資料, 史料
+top3 entities near to cluster3>>
+総理, 内閣, 首相
+top3 entities near to cluster4>>
+公園, 公, 記念

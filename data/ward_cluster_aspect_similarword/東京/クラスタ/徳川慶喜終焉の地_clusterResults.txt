@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:徳川慶喜終焉の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+説明板, 案内板
+cluster1:(2)
+東京メトロ丸ノ内線, 文京区
+cluster2:(4)
+南東, 茗荷谷駅, 東端, 敷地
+cluster3:(2)
+巣鴨, 明治
+cluster4:(2)
+最後, 部分
+cluster5:(3)
+東京, 小日向, 地下鉄
+cluster6:(1)
+地上
+cluster7:(1)
+地
+cluster8:(1)
+将軍
+cluster9:(1)
+坂
+cluster10:(1)
+駿府
+cluster11:(1)
+線路脇
+cluster12:(5)
+徳川慶喜終焉の地, 徳川家, 国際仏教学大学院大学, 徳川慶喜公屋敷跡, 徳川慶喜
+
+howmany entities : 26
+howmany clusters : 13
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 13
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:落合キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温泉施設, 温泉
+cluster1:(4)
+東京, あきる野市, 穴場スポット, 都心
+cluster2:(4)
+出インター, 気, 感じ, 眺め
+cluster3:(2)
+屋根, 小雨
+cluster4:(6)
+人, 子供, 家族, 仲間, ご飯, 職場
+cluster5:(12)
+水遊び, 夏休み, ところ, バンガロー, ほとり, こじんまり, キャンプ, スポット, 雰囲気, 釣り場, 奥多摩, バーベキュー
+cluster6:(2)
+自然, 緑
+cluster7:(5)
+多少, 近く, マイナスイオン, 周り, 中
+cluster8:(8)
+場所, 売店, 施設, 時期, キャンプ地, 自家, 機会, キャンプ経験
+cluster9:(12)
+渓流釣り, 緑豊か, 圏央道, 川沿い, キャンプ場, 駐車場, 釣り, 川, 秋川渓谷, 完備川, 落合キャンプ場, 養沢川
+
+howmany entities : 57
+howmany clusters : 10
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 10
+deleted 0entities.

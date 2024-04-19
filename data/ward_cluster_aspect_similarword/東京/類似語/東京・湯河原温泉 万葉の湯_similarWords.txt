@@ -1,0 +1,53 @@
+--------------------similar_words:東京・湯河原温泉 万葉の湯--------------------
+top3 entities near to cluster0>>
+岩盤浴, 岩盤, 温浴
+top3 entities near to cluster1>>
+ジュース, フルーツ, バナナ
+top3 entities near to cluster2>>
+ルーム, タオル, フロア
+top3 entities near to cluster3>>
+プラン, コース, 日帰り
+top3 entities near to cluster4>>
+スマホ, つまみ, ツマミ
+top3 entities near to cluster5>>
+タイプ, 気持ち, イメージ
+top3 entities near to cluster6>>
+サービス, ルーム, スタッフ
+top3 entities near to cluster7>>
+露天風呂, テレビ, カップル
+top3 entities near to cluster8>>
+アタマ, 頭, 脳みそ
+top3 entities near to cluster9>>
+コード, アドオンコード, アメリアス
+top3 entities near to cluster10>>
+万葉, 碧, 蒼
+top3 entities near to cluster11>>
+身体
+top3 entities near to cluster12>>
+癒し, 癒す
+top3 entities near to cluster13>>
+甘味, 甘み, 香り
+top3 entities near to cluster14>>
+夕方, 時間, 午後
+top3 entities near to cluster16>>
+女性人, 家族, 女性
+top3 entities near to cluster18>>
+バス, 送迎, シャトル
+top3 entities near to cluster19>>
+専用, 時間, 温度
+top3 entities near to cluster20>>
+温泉, 入浴, 銭湯
+top3 entities near to cluster21>>
+館内, 入館, 入場
+top3 entities near to cluster22>>
+食事, 処, 夕食
+top3 entities near to cluster23>>
+利用, 使用, 活用
+top3 entities near to cluster24>>
+仕事帰り, 仕事, 用事
+top3 entities near to cluster25>>
+朝食, 食事, 夕食
+top3 entities near to cluster26>>
+滞在, 宿泊, 逗留
+top3 entities near to cluster27>>
+料金, 値段, 価格

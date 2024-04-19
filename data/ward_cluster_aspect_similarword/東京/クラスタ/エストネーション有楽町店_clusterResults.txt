@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:エストネーション有楽町店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+感じ, 物, おしゃれさ, おしゃれ着, プレゼント選び, もの
+cluster1:(3)
+大人, 男性, 女性
+cluster2:(2)
+店, 値段
+cluster3:(6)
+ショッピングビル, 有楽町, アイテム, アクセス, サイズ, アパレル
+cluster4:(2)
+人, 前
+cluster5:(1)
+有楽町駅
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

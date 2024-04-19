@@ -1,0 +1,19 @@
+--------------------similar_words:ヤマハスタジアム(磐田)--------------------
+top3 entities near to cluster0>>
+アウェー, アウェイ, ゴール
+top3 entities near to cluster1>>
+スタジアム, サポーター, スタッフ
+top3 entities near to cluster2>>
+サッカー, ラグビー, チーム
+top3 entities near to cluster4>>
+買い物, グッズ, トイレ
+top3 entities near to cluster5>>
+スタンド, ホーム, スタジアム
+top3 entities near to cluster8>>
+バス車, 駐車, バス
+top3 entities near to cluster9>>
+周辺, そば, 近辺
+top3 entities near to cluster14>>
+試合, 選手
+top3 entities near to cluster15>>
+観戦, 試合, スタジアム

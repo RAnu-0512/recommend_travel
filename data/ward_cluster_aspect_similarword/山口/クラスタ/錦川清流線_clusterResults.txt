@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:錦川清流線>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+セクター鉄道, 停車, 景色, 鉄道, 車窓, 車, 駅舎, 廃線, 車内, 電車, 路線, ローカル列車, 鉄道路線, 旅, 観光, 車両
+cluster1:(3)
+満開, 桜, 花
+cluster2:(3)
+川, 清流, 滝
+cluster3:(2)
+自然, 石
+cluster4:(1)
+水量
+cluster5:(1)
+川対岸
+cluster6:(5)
+何か, もの, ひらかな, みなみごうち, 感じ
+cluster7:(5)
+地名, 漢字, 趣き, 絵柄, 郷愁
+cluster8:(21)
+横, スピード, アート, JR, コウモリ, 菜の花, 大阪, ホーム, 帰り, 道, 場所, 途中, サービス, ローカル線, 沿線, 時間, 全長, シャッター, トンネル, 終点, 人
+cluster9:(1)
+みなみかわち
+cluster10:(11)
+南河内駅, 岩国駅, 岩国〜錦町駅, 岩国〜川西駅, 錦川鉄道, 川西駅, 岩国, 錦川, 駅, 錦町駅, 錦川沿い
+
+howmany entities : 69
+howmany clusters : 11
+howmany entities (more than1entities) : 69
+howmany clusters (more than1entities) : 11
+deleted 0entities.

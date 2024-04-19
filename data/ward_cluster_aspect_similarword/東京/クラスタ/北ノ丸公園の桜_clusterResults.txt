@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北ノ丸公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+途中, 目的地, 場所, 反対側, 別, 先, 多く, ソメイヨシノ, カメラ, ロケーション, 趣き, 人, 一角, ハタザクラ, 存在, 北の丸公園, セット, 武道館, 北, 昼, こと, 靖国神社, 雰囲気, 側, あたり
+cluster1:(22)
+九段下駅, 枝, 池, 靖国, 品種, 芝生, 公園, お堀, 門, 水面, 一葉, 石垣, 会社帰り, 皇居, 花見, 堀, 名所, 濠, 桜, 園内, 満開, 都心
+cluster2:(5)
+田安門, 千鳥ヶ淵, 丸公園側, 北ノ丸公園, 桜が見られる和
+
+howmany entities : 52
+howmany clusters : 3
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,66 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ACAO BEACH>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+プール, プールサイド, プライベートプール
+cluster1:(2)
+サンライズsup, sup
+cluster2:(3)
+ビーチ, SUP, サップ
+cluster3:(3)
+ロープ, テント, カート
+cluster4:(4)
+ツアー, エリア, ホテル, バス停
+cluster5:(3)
+臨機応変, 備え付け, メイン
+cluster6:(2)
+キャンプファイヤー, バーベキュー
+cluster7:(3)
+インターネット, マリンアクティビティ, インストラクター
+cluster8:(1)
+レストラン
+cluster9:(1)
+フレンドリー
+cluster10:(1)
+シュノーケル
+cluster11:(1)
+シュリンプ
+cluster12:(4)
+フロント, スタッフ, サービス, タクシー
+cluster13:(1)
+カヤック
+cluster14:(1)
+サンビーチ
+cluster15:(6)
+飲み物, 勘違い, おかげ, 思い出, やり方, 兄さん
+cluster16:(3)
+電車, バス, 道路
+cluster17:(3)
+天気, 雨, 台風
+cluster18:(7)
+魚, 星空, 波, 浅いプール, 海SUP, 水上, 海
+cluster19:(2)
+集合, 集合場所
+cluster20:(2)
+子供, 子供たち
+cluster21:(6)
+案内, 入場, 想像, 対応, 指定, タクシー予約
+cluster22:(3)
+事, 方法, こと
+cluster23:(2)
+時間, 場所
+cluster24:(2)
+機, キャンプ場
+cluster25:(1)
+ソフト面
+cluster26:(20)
+最後, 全員, 写真, 人, 次回, 他, 方, 数人, 笑, 大阪, 方々, 全体, 家族, 入口, 食事, 上, 友達, 帰り, 下, 景色
+cluster27:(5)
+初体験, 家族皆でSUP, 初SUP, 満足感, 体験
+cluster28:(17)
+公営プール, 誕生日旅行, 熱海駅, 更衣室, 熱海サンビーチ, 笑)バースデーソング, 施設, 熱海, 洞窟探検sup, 洞窟, 温泉施設, 遊泳エリア, 宿泊客, 洞窟ツアー, 熱海城, 誕生日, 遊泳
+
+howmany entities : 112
+howmany clusters : 29
+howmany entities (more than3entities) : 93
+howmany clusters (more than3entities) : 16
+deleted 19entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猫カフェ『てまりのおうち』>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+猫スタッフ達, 猫, 猫グッズ, 猫スタッフ, 猫ちゃん, 猫ちゃん達, 猫達, 猫たち, 猫様達
+cluster1:(2)
+検討, コロナ対応
+cluster2:(2)
+人, 方
+cluster3:(3)
+気, 感じ, こと
+cluster4:(1)
+姿
+cluster5:(31)
+おもちゃ, クリスマス, 幼児, 大人, スタッフ, 食事, こども達, 親, 入口, イブ, ストレス, メニュー, 膝, カフェメニュー, 客, ガチャガチャ, 席, そば, フン, オープン, 飲み物, 息子, 人数, プレゼント, 子, フィガロ, 次, 触れ合い, フロア, プラン, チキンバスケット
+cluster6:(1)
+撫
+cluster7:(6)
+期間限定ドリンク, 蓋つき, 飲食持ち込み可, 時間, 時間制限, まいたけちゃん
+
+howmany entities : 55
+howmany clusters : 8
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 8
+deleted 0entities.

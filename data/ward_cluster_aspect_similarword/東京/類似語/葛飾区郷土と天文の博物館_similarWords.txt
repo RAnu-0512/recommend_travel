@@ -1,0 +1,17 @@
+--------------------similar_words:葛飾区郷土と天文の博物館--------------------
+top3 entities near to cluster0>>
+郷土, 博物館, 天文
+top3 entities near to cluster1>>
+展示, 出展, 収蔵
+top3 entities near to cluster3>>
+所要, 時間
+top3 entities near to cluster4>>
+興味, 余裕, 関心
+top3 entities near to cluster6>>
+代役, 演じる
+top3 entities near to cluster8>>
+博物館, 歴史, 公園
+top3 entities near to cluster10>>
+宇宙, 三, 四
+top3 entities near to cluster11>>
+下車, 徒歩, バス停

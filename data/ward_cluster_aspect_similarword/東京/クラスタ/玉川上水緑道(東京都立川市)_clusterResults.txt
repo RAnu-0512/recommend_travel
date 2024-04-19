@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉川上水緑道(東京都立川市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+上水, 緑道沿い, ^^)玉川上水緑道, 緑道, 玉川上水緑道, 上水緑道
+cluster1:(5)
+東京都, 太宰治, 立川市, 玉川兄弟, 玉川
+cluster2:(32)
+おすすめ, 心, 水, 場所, 自然, 玉川上水沿い, 花, 人, 玉川上水, 散歩コース, 緑, 気持ち, 技術, ウオーキング, 夏, 新緑, 家族, 名前, 散歩, 散歩餅, 川, 気持ち良さ, 時間, おすすめスポット, 桜, 空気, こと, スポット, 道, 遊具, 玉川上水緑, 方々
+
+howmany entities : 43
+howmany clusters : 3
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 3
+deleted 0entities.

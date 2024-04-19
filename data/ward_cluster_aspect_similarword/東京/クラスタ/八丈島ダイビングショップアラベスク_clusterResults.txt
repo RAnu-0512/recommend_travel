@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丈島ダイビングショップアラベスク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+引率浮き輪, 浮き輪
+cluster1:(2)
+浮力, 全身ウェットスーツ
+cluster2:(3)
+子供, 引率, 子供達
+cluster3:(9)
+ダイビング, アラベスク, オンシーズン, ツアー, GoPro, ウミガメ, インストラクター, シュノーケリング, レクチャー
+cluster4:(3)
+小学生, 思い出, 飲み物
+cluster5:(1)
+フィン
+cluster6:(2)
+動画, こと
+cluster7:(1)
+予約
+cluster8:(4)
+水中, 面, 海, 安全
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 9
+deleted 0entities.

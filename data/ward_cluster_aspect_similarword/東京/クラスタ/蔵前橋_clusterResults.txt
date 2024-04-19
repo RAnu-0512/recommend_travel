@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蔵前橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蔵前国技館, 両国国技館
+cluster1:(6)
+米蔵, 力士, 江戸時代, 幕府, 力士たち, 御米蔵
+cluster2:(2)
+籾殻, 高欄
+cluster3:(2)
+隅田川, 隅田川テラス
+cluster4:(4)
+散歩道, レリーフ, たもと, アパホテル
+cluster5:(3)
+両国橋, 蔵前橋, 駒形橋
+cluster6:(1)
+橋
+cluster7:(1)
+蔵
+cluster8:(1)
+浅草
+cluster9:(10)
+訪問, 一帯, 景色, 黄色, 意外, 名所, 上, 沿い, 方, こと
+cluster10:(1)
+富士見の渡し
+cluster11:(1)
+高良欄
+cluster12:(9)
+下級武士支給, 蔵前, 蔵前駅, 補修工事, 両国駅, 両岸, 水上バス, 都営地下鉄線, 震災復興橋
+
+howmany entities : 43
+howmany clusters : 13
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 13
+deleted 0entities.

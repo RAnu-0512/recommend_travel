@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山陽小野田市青年の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日本, プラネタリウム
+cluster1:(1)
+家
+cluster2:(1)
+青年
+cluster3:(1)
+天体
+cluster4:(1)
+山陽小野田市
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

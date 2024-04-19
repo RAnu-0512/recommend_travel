@@ -1,0 +1,83 @@
+--------------------similar_words:昭島温泉 湯楽の里--------------------
+top3 entities near to cluster0>>
+利用, 移動, 配慮
+top3 entities near to cluster2>>
+価格, 状況, 金額
+top3 entities near to cluster3>>
+期間, 中の間, ただ今
+top3 entities near to cluster4>>
+時間程度, 時間
+top3 entities near to cluster5>>
+種類, 数種類
+top3 entities near to cluster6>>
+経験, 知識, 実務
+top3 entities near to cluster7>>
+温度, 室温
+top3 entities near to cluster9>>
+清潔感, 不潔感, 清潔, 不潔
+top3 entities near to cluster10>>
+アカ, スリ, ツキ
+top3 entities near to cluster11>>
+サロン, コース, プラン
+top3 entities near to cluster12>>
+気持ち, 肌触り, 雰囲気
+top3 entities near to cluster13>>
+貼り紙, 忘れ物, 張り紙
+top3 entities near to cluster14>>
+テレビ, ホテル, ショップ
+top3 entities near to cluster15>>
+内風呂, サウナ, 露天風呂
+top3 entities near to cluster16>>
+身体
+top3 entities near to cluster17>>
+子ども, 大勢
+top3 entities near to cluster18>>
+話人, 男人, 話, 男
+top3 entities near to cluster19>>
+家族, 親族
+top3 entities near to cluster20>>
+集団, 一団, 飢獣
+top3 entities near to cluster21>>
+女性, 子供, 大人
+top3 entities near to cluster22>>
+職員, 会員, 番号
+top3 entities near to cluster23>>
+厨房, 料理, 調理場
+top3 entities near to cluster24>>
+常連, 店員, お客
+top3 entities near to cluster25>>
+駅, 徒歩, 駅前
+top3 entities near to cluster26>>
+緑石, 里石, 緑, 里
+top3 entities near to cluster27>>
+週末, 休日, 年末
+top3 entities near to cluster29>>
+銭湯, 浴槽, 浴場
+top3 entities near to cluster30>>
+駐車場, 駐車
+top3 entities near to cluster31>>
+料金, 入館料, 入館
+top3 entities near to cluster32>>
+食事, 夕食, 処
+top3 entities near to cluster33>>
+休憩, 処, 所内
+top3 entities near to cluster34>>
+仮眠室, 休憩室, 仮眠, 休憩
+top3 entities near to cluster35>>
+会話, 友達
+top3 entities near to cluster36>>
+風呂, 炭酸, 濃度
+top3 entities near to cluster37>>
+風呂, 湯船, 浴槽
+top3 entities near to cluster38>>
+露天, 風呂, 露天風呂
+top3 entities near to cluster39>>
+岩盤浴, 岩盤, 海風
+top3 entities near to cluster40>>
+流し, 源泉
+top3 entities near to cluster43>>
+温泉, 温泉郷, 施設
+top3 entities near to cluster44>>
+温泉, 露天風呂, 湯
+top3 entities near to cluster45>>
+温泉, 源泉, 湯

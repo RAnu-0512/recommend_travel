@@ -1,0 +1,19 @@
+--------------------similar_words:さくらの里のさくら--------------------
+top3 entities near to cluster0>>
+パン屋, パン, ピザ屋, ピザ
+top3 entities near to cluster3>>
+ピンク色, 満開, 気持ち
+top3 entities near to cluster4>>
+季節, 時期, 時季
+top3 entities near to cluster9>>
+月, 年, 日
+top3 entities near to cluster10>>
+道路, 歩道, 駐車
+top3 entities near to cluster12>>
+里, 乃藍, 保つ
+top3 entities near to cluster13>>
+桜, しだれ, 八重桜
+top3 entities near to cluster14>>
+花見, 葉桜, 満開
+top3 entities near to cluster15>>
+開花, 咲き, 満開

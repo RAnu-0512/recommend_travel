@@ -1,0 +1,21 @@
+--------------------similar_words:ガラス工房 グラス・ズー--------------------
+top3 entities near to cluster0>>
+ガラス, ステンドグラス, アート
+top3 entities near to cluster1>>
+教室, 指導, 先生
+top3 entities near to cluster2>>
+色合い
+top3 entities near to cluster3>>
+時間, 日数, 時
+top3 entities near to cluster5>>
+作品, 挿絵
+top3 entities near to cluster6>>
+姉, 友達, 妹
+top3 entities near to cluster8>>
+電話, 携帯, 留守電
+top3 entities near to cluster9>>
+宝物, 一生, 菓子
+top3 entities near to cluster10>>
+電子, レンジ, レンジスイート
+top3 entities near to cluster11>>
+体験, 機会, 時間

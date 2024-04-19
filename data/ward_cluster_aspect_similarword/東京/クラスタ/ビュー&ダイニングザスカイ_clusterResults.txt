@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビュー&ダイニングザスカイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+私達, 値段, 種類, 瞬間, 前, 時間, 順番, 中, 目, 店内
+cluster1:(3)
+窓側, ドア, 席
+cluster2:(2)
+庭園, 夜景
+cluster3:(8)
+ケーキ, 東京, ホテルニューオータニ, スイーツ, ランチ, アルコール, ビュッフェ, 紀尾井町
+cluster4:(4)
+食事, 肉, 酒, 料理
+cluster5:(3)
+洋, 千代田区, 和
+cluster6:(1)
+食べ過ぎ
+cluster7:(1)
+*́-`
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 8
+deleted 0entities.

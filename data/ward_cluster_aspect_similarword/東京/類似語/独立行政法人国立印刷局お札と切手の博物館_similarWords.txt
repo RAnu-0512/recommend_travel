@@ -1,0 +1,11 @@
+--------------------similar_words:独立行政法人国立印刷局お札と切手の博物館--------------------
+top3 entities near to cluster0>>
+展示, 写真, 建物
+top3 entities near to cluster1>>
+駅, 駅前, 区
+top3 entities near to cluster2>>
+工程, 偽造, 技術
+top3 entities near to cluster3>>
+巡礼, 聖地, 歩き
+top3 entities near to cluster4>>
+行政, 法人, 国立

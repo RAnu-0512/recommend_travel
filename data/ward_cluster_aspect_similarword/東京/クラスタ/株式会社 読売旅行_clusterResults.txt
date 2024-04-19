@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:株式会社 読売旅行>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+パンケーキ食べ放題, 信玄餅, 信玄餅詰め放題
+cluster1:(2)
+参加者, 参加
+cluster2:(2)
+イチゴ狩り, ビニル手袋
+cluster3:(2)
+櫃, もじ
+cluster4:(2)
+晴天, 天気
+cluster5:(6)
+土産, 夕食, ご飯, 到着, 詫び, 説明
+cluster6:(3)
+車輪, 車輌, 生地
+cluster7:(19)
+ブルーシート, ホテル, ぶどう, 人, しょう, 浅草寺, パンケーキ, 緑, ペラペラ, ツアー, 客, 東武鉄道, スカイツリー, 人間, 方, 部屋, イチゴ, スポット, 行き先
+cluster8:(1)
+えび
+cluster9:(16)
+個人旅行, 東京, 浅草, 山中温泉, 家族連れ, 添乗員, お祝いの宿, 房総方面, 加賀温泉駅, 大阪駅, 旅行会社, 商家, 東京スカイツリー, 隅田川クルーズ, バス, バスツアー
+
+howmany entities : 56
+howmany clusters : 10
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 10
+deleted 0entities.

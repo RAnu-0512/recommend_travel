@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:周防国一宮玉祖神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+鳥居, 宮, 水神, 神, 森
+cluster1:(2)
+体調, 心身
+cluster2:(3)
+発祥, 鶏, 地
+cluster3:(5)
+往復, 車, おみやげ店, バス, 駅
+cluster4:(3)
+規模, 国, 歴史
+cluster5:(3)
+前, 時間, 人
+cluster6:(3)
+こと, 無理, 普通
+cluster7:(1)
+GW
+cluster8:(1)
+趣
+cluster9:(17)
+九州, 古事記, こじんまり, 一之宮, 御朱印, 悪さ, 手洗い, 北部, 基地, 天然記念物, 日本書紀, 雰囲気, 河口, レンタサイクル, 当社, 自転車, 佐波川
+cluster10:(1)
+時刻表
+cluster11:(4)
+電動レンタサイクル, 防府駅, 電動アシスト, 防府
+cluster12:(11)
+鎮守, 神職, 神社境内, たまのおや神社, 境内, 朱印帖, 玉祖命, 神社, 朱印, 周芳娑婆, 駐車場
+cluster13:(7)
+防府駅観光案内所, 周防の国一宮, 天然記念物 黒柏, 黒柏鶏, 周防国一, 周防, 日本鶏黒柏
+
+howmany entities : 66
+howmany clusters : 14
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 14
+deleted 0entities.

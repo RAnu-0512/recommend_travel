@@ -1,0 +1,23 @@
+--------------------similar_words:青海島自然研究路--------------------
+top3 entities near to cluster0>>
+美しい, 豊か, 素晴らしい
+top3 entities near to cluster2>>
+時間, 時分, 時
+top3 entities near to cluster3>>
+気分, すき
+top3 entities near to cluster6>>
+想像, 予想, 絶する
+top3 entities near to cluster7>>
+遊歩道, 入り口, 入口
+top3 entities near to cluster9>>
+入り口, 入口, 手前
+top3 entities near to cluster10>>
+風景, 景色, 夕日
+top3 entities near to cluster11>>
+奇岩, 岩場, 岩
+top3 entities near to cluster12>>
+道路便, 交通, 道路
+top3 entities near to cluster13>>
+海上, 洋上, 海中
+top3 entities near to cluster14>>
+散策路, 散策, 遊歩道

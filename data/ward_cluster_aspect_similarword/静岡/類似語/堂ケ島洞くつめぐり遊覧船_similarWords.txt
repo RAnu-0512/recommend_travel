@@ -1,0 +1,49 @@
+--------------------similar_words:堂ケ島洞くつめぐり遊覧船--------------------
+top3 entities near to cluster1>>
+遊覧船, 遊覧, 周遊船, 周遊
+top3 entities near to cluster2>>
+遊覧, 遊覧船, 周遊船, 周遊
+top3 entities near to cluster3>>
+遊覧船, 遊覧, 屋形船
+top3 entities near to cluster4>>
+天気, 天候, 気温
+top3 entities near to cluster5>>
+岩, 岩石, 洞石, 洞
+top3 entities near to cluster6>>
+光, 自然, 太陽
+top3 entities near to cluster8>>
+屋根, 天井, 窓
+top3 entities near to cluster10>>
+海, 陸, 空
+top3 entities near to cluster11>>
+海面, 海水, 海岸
+top3 entities near to cluster12>>
+青色, ブルー, 水色
+top3 entities near to cluster13>>
+アート, 写真, ライフ
+top3 entities near to cluster14>>
+曇り空, 遊歩道, 快晴
+top3 entities near to cluster15>>
+雰囲気, 気持ち, 楽しい
+top3 entities near to cluster16>>
+クルーズ, ツアー, 乗り場
+top3 entities near to cluster17>>
+おすすめ, 見どころ, 見所
+top3 entities near to cluster19>>
+レストラン, ロケーション, スタッフ
+top3 entities near to cluster20>>
+マリンブルー, コバルトブルー, ガラス張り
+top3 entities near to cluster23>>
+クルマ, カメラ, 乗り物
+top3 entities near to cluster26>>
+力強い, 感嘆, 感動
+top3 entities near to cluster33>>
+期待, 想像, 影響
+top3 entities near to cluster38>>
+必要, 参考, 留意
+top3 entities near to cluster45>>
+時間, 所要
+top3 entities near to cluster50>>
+周遊, 旅, 散策
+top3 entities near to cluster51>>
+運航船, 乗船, 運航

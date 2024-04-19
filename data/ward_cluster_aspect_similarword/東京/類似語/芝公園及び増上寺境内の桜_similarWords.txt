@@ -1,0 +1,69 @@
+--------------------similar_words:芝公園及び増上寺境内の桜--------------------
+top3 entities near to cluster0>>
+サクラ, 早咲き, さくら
+top3 entities near to cluster1>>
+ソメイヨシノ, 井の頭公園, 東京タワー
+top3 entities near to cluster2>>
+ホテル, オフィス, スタッフ
+top3 entities near to cluster3>>
+組み合わせ, 取り合わせ, コラボレーション
+top3 entities near to cluster4>>
+色合い, ライト, カラー
+top3 entities near to cluster5>>
+ご利益, 御利益, お参り
+top3 entities near to cluster6>>
+コート, シート, テニス
+top3 entities near to cluster7>>
+増上寺, 桜, 境内
+top3 entities near to cluster8>>
+罪悪感, 臨場感, 罪悪, 臨場
+top3 entities near to cluster9>>
+花見, 散歩, 満開
+top3 entities near to cluster10>>
+写真, 撮影, 撮っ
+top3 entities near to cluster11>>
+景色, 絶景, 風景
+top3 entities near to cluster12>>
+公園, 緑地, 遊歩道
+top3 entities near to cluster13>>
+建物, 敷地, 道路
+top3 entities near to cluster15>>
+一角, 広場, 裏手
+top3 entities near to cluster16>>
+弁当, 古墳, 宴会
+top3 entities near to cluster17>>
+時間, 夕刻, 午前
+top3 entities near to cluster20>>
+奥, 手前, 奥深い
+top3 entities near to cluster21>>
+昔, ころ, 頃
+top3 entities near to cluster22>>
+日, 夜, 昼
+top3 entities near to cluster24>>
+等地, ツボ, 勝負
+top3 entities near to cluster25>>
+桜, タワー, 都
+top3 entities near to cluster26>>
+外客, 行楽, 名所
+top3 entities near to cluster27>>
+駅, 駅前, 徒歩
+top3 entities near to cluster28>>
+駅, 地下鉄, 駅前
+top3 entities near to cluster29>>
+徒歩, 駅分, 駅
+top3 entities near to cluster30>>
+大使館, 領事館
+top3 entities near to cluster31>>
+都, 港, 芝公園
+top3 entities near to cluster32>>
+桜, 八重桜, しだれ
+top3 entities near to cluster33>>
+お寺, 境内, 寺院
+top3 entities near to cluster34>>
+境内, 増上寺, 本堂
+top3 entities near to cluster35>>
+境内, 本殿, 本堂
+top3 entities near to cluster36>>
+増上寺, 東本願寺, 本堂
+top3 entities near to cluster37>>
+開山, 寺

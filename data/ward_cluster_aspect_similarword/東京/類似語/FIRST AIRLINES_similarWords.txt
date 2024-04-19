@@ -1,0 +1,17 @@
+--------------------similar_words:FIRST AIRLINES--------------------
+top3 entities near to cluster0>>
+旅, 旅先, 新婚
+top3 entities near to cluster1>>
+料理, 花火
+top3 entities near to cluster2>>
+気分, 感覚, 気持ち
+top3 entities near to cluster3>>
+本業, 昼, 昼間
+top3 entities near to cluster5>>
+画像, 写真
+top3 entities near to cluster6>>
+細部, ディテール, ディティール
+top3 entities near to cluster7>>
+誕生, 日, 月
+top3 entities near to cluster8>>
+乗務員, 乗務, 客室

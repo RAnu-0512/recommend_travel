@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堀川鋳金所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+おうち時間, 予定時間, 時間
+cluster1:(2)
+鋳物体験, モノ感
+cluster2:(5)
+ぐい, 酒, 錫, ぐい呑み, 呑み
+cluster3:(2)
+作業量, 作業
+cluster4:(3)
+磨き, 鋳型, 注入
+cluster5:(14)
+作品, 全員, 値段, 素人, 形, 体験, 作成, 方, こと, 先生, 知識, 冗談, 説明, 愛着
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 萩・さんさん三見>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山林状態, 鳥除け
+cluster1:(3)
+長門, 萩, ビワ
+cluster2:(2)
+近隣, 人気
+cluster3:(2)
+途中, 次回
+cluster4:(3)
+こじんまり, 気, レストラン
+cluster5:(1)
+所
+cluster6:(7)
+交通, 道, 地, 海岸, 音, 駅, 海
+cluster7:(5)
+煮炊き料理, 景色, 絶景スポット, 魚, 野菜
+cluster8:(3)
+撮り鉄, ガス銃, 果樹園
+cluster9:(3)
+特産品, 土産品, 高速 明石IC
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 10
+deleted 0entities.

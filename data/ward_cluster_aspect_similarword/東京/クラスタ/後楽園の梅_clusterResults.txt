@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後楽園の梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+園内全体, 敷地, 園内
+cluster1:(2)
+方, もの
+cluster2:(2)
+早咲き, 秋晴れ
+cluster3:(1)
+光景
+cluster4:(1)
+開催
+cluster5:(5)
+季節, 枝, 花, 紅葉, 香り
+cluster6:(1)
+人たち
+cluster7:(8)
+梅まつり, 小石川後楽園, 梅園, 楽園里帰りの梅, 小石川後楽園梅まつり, 梅園全体, 梅林, 梅
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

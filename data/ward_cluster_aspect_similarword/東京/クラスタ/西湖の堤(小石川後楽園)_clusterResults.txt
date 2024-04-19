@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西湖の堤(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+反対側, 中央部
+cluster1:(11)
+場所, 景色, 紅葉, 屏風岩越し, 姿, エリア, 風景, 外, スポット, 秋晴れ, 目
+cluster2:(6)
+中国, 小石川後楽園, 後楽園, 西湖, 杭州, 堤
+cluster3:(3)
+日本庭園, 開園, 園
+cluster4:(2)
+景勝地, 西湖の堤
+cluster5:(1)
+高層ビル
+cluster6:(1)
+旧芝離宮恩賜庭園
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 7
+deleted 0entities.

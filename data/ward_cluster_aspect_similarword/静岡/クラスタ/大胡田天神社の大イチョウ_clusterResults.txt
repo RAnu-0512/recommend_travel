@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大胡田天神社の大イチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大胡田天神社, 天神社
+cluster1:(6)
+イチョウ, 枝, 富士山, 幹, 銀杏, 木
+cluster2:(2)
+樹高, 樹齢
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

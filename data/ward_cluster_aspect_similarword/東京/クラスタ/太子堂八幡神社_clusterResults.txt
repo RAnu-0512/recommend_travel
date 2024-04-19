@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太子堂八幡神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+流行, 原点, 雰囲気, 場所, 現代
+cluster1:(2)
+古風, 装飾
+cluster2:(1)
+神社
+cluster3:(1)
+^^)v可愛い兎
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

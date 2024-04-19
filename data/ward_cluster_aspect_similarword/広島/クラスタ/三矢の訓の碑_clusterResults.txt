@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三矢の訓の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大河ドラマ, 博物館
+cluster1:(2)
+場所, 時間
+cluster2:(1)
+戻り
+cluster3:(1)
+バス
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三段滝(広島県安芸太田町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+滝, 川, 紅葉
+cluster1:(2)
+斜め, 正面
+cluster2:(6)
+マッチ, 三段滝, 車, 周囲, 時間, 三段峡入り口
+cluster3:(1)
+表情
+cluster4:(1)
+展望台
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

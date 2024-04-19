@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:icci代官山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+記念, 記念日
+cluster1:(6)
+店, 写真スペース, 店員, 予約, 写真, 店内
+cluster2:(3)
+手順, 作業, 工程
+cluster3:(3)
+方, こと, 経験
+cluster4:(2)
+種類, 時間
+cluster5:(2)
+空間, 幅
+cluster6:(3)
+研磨, 彫刻サービス, 刻印
+cluster7:(7)
+最後, 彼女, 夫婦, 彼, 周り, 表面, 世界
+cluster8:(16)
+手作りリング, スタッフ, 作り方, つくり, ハンマー, 仕上がり, ところ, シルバーリング, シルバー, 思い出, リング, デザイン, SNS, 雰囲気, アクセサリー, サイズ
+cluster9:(2)
+体験, 体験制作
+cluster10:(3)
+リング作り, 作成, 作り
+cluster11:(1)
+太さ
+cluster12:(3)
+指輪作り, 指輪, 結婚指輪
+cluster13:(3)
+ペアリング, ペア, ペアリング作り
+cluster14:(1)
+指輪作り体験楽し
+
+howmany entities : 57
+howmany clusters : 15
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 15
+deleted 0entities.

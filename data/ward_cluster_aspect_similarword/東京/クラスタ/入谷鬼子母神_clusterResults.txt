@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:入谷鬼子母神>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+入谷, 入谷鬼子母神前, 入谷鬼子母神, 入谷駅
+cluster1:(2)
+入谷朝顔まつり, 入谷の朝顔市
+cluster2:(2)
+交通事故, 交通量
+cluster3:(3)
+朝顔, 朝顔まつり, 朝顔市
+cluster4:(2)
+子供達, 子供たち
+cluster5:(2)
+角, ツノ
+cluster6:(6)
+風物詩, 鬼子母神, 交差点, 守り神, 歩道橋, 雰囲気
+cluster7:(2)
+人, 子供
+cluster8:(1)
+側
+cluster9:(1)
+恒例
+cluster10:(1)
+地下鉄日比谷線
+cluster11:(1)
+鬼
+cluster12:(1)
+安全
+cluster13:(1)
+字
+cluster14:(4)
+神社, 下谷七福神, ずお寺, 境内
+cluster15:(1)
+言問
+cluster16:(1)
+福禄寿
+
+howmany entities : 35
+howmany clusters : 17
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 17
+deleted 0entities.

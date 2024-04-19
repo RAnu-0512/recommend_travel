@@ -1,0 +1,39 @@
+--------------------similar_words:上ノ原牧場カドーレ--------------------
+top3 entities near to cluster0>>
+牧場, 農場, 酪農
+top3 entities near to cluster2>>
+競走馬, 厩舎, 競走
+top3 entities near to cluster3>>
+動物, 生き物, 動植物
+top3 entities near to cluster4>>
+子供, 子ども, 親達
+top3 entities near to cluster5>>
+ケーキ, チーズ, アイス
+top3 entities near to cluster6>>
+ジェラート, スイーツ, ソフトクリーム
+top3 entities near to cluster8>>
+駅道, 駅, 敷地
+top3 entities near to cluster10>>
+大人, 子供, 子ども
+top3 entities near to cluster11>>
+週末, 相方, 土曜日
+top3 entities near to cluster12>>
+家族, 娘, 両親
+top3 entities near to cluster13>>
+田舎, 都会, 片田舎
+top3 entities near to cluster14>>
+ピザ屋, ケーキ屋, ピザ, ケーキ
+top3 entities near to cluster16>>
+ミニ, ブタ, スカ
+top3 entities near to cluster17>>
+ミルク味, ミルク, 牛乳
+top3 entities near to cluster18>>
+ヤギ, 羊, 山羊
+top3 entities near to cluster19>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster20>>
+エサ, 餌, えさ
+top3 entities near to cluster21>>
+エサ, 餌, やり
+top3 entities near to cluster22>>
+立て, 搾り

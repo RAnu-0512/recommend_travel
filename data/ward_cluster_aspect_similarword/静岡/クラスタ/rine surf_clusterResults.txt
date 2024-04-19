@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:rine surf>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+メール, SNS
+cluster1:(2)
+楽しみ, お願い
+cluster2:(11)
+サーフィンスクール, サポート, レクチャー, はじめて, スクール, それぞれ, サーフィン, ウエット, レッスン, コンディション, インストラクター
+cluster3:(4)
+レベル, タイプ, おかげ, 老若男女
+cluster4:(1)
+コーチ
+cluster5:(1)
+ペース
+cluster6:(1)
+SUP
+cluster7:(3)
+他, ローカルルール, 他県
+cluster8:(16)
+終了, 人生, 予定, こと, 朝, 世代, 写真, 奥, 時間, 次, 板, 話, レンタル品, 先生, 段階, 久々
+cluster9:(17)
+連絡, 緊張, 体験時間, 返信, 楽しみ方, 機会, 経験, サーフィン体験レポート, 楽し, 放置状態, 入門, 影響, 応用, 指導, 世話, 方, 不便
+cluster10:(3)
+下田, 伊豆, 次回下田
+cluster11:(4)
+雨, 雷予報, 台風, 天気
+cluster12:(2)
+息子夫婦, 親子
+cluster13:(2)
+釣り, ヨガ
+cluster14:(4)
+沖, 波, 海, 浜辺
+cluster15:(1)
+水上散歩
+
+howmany entities : 74
+howmany clusters : 16
+howmany entities (more than3entities) : 62
+howmany clusters (more than3entities) : 8
+deleted 12entities.

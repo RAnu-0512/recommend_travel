@@ -1,0 +1,85 @@
+--------------------similar_words:千光寺山ロープウェイ--------------------
+top3 entities near to cluster0>>
+体力, 脚力, 気力
+top3 entities near to cluster1>>
+乗り物, 年寄り, 乗物
+top3 entities near to cluster2>>
+ガイド, ルート, ガイドブック
+top3 entities near to cluster3>>
+雰囲気, カフェ, 喫茶店
+top3 entities near to cluster4>>
+おすすめ, たくさん, オススメ
+top3 entities near to cluster5>>
+ロープウェー, ロープウエイ, ロープウエー
+top3 entities near to cluster6>>
+ロケーション, コントラスト, コンパクト
+top3 entities near to cluster7>>
+乗り場, ロープウェー, レンタサイクル
+top3 entities near to cluster9>>
+チケット, チケ, ファストチケット
+top3 entities near to cluster10>>
+見晴らし, 眺望, 見渡せる
+top3 entities near to cluster12>>
+ロープ, ワイヤ, クローブヒッチ
+top3 entities near to cluster13>>
+駐輪場, 駐車, 聖地
+top3 entities near to cluster14>>
+到着, 出発, 乗り場
+top3 entities near to cluster15>>
+人達, 子供
+top3 entities near to cluster16>>
+膝手, 足手, 足, 膝
+top3 entities near to cluster20>>
+利用者, 利用, 使用者, 使用
+top3 entities near to cluster22>>
+派手, 印象, 意外
+top3 entities near to cluster23>>
+目的, 利点, メリット
+top3 entities near to cluster24>>
+必要, よう
+top3 entities near to cluster25>>
+おく
+top3 entities near to cluster27>>
+時間, バス, 距離
+top3 entities near to cluster28>>
+展望台, 展望, 駐車台, 駐車
+top3 entities near to cluster29>>
+駅, 駅前, 徒歩
+top3 entities near to cluster30>>
+景色, 風景, 絶景
+top3 entities near to cluster31>>
+登り, 上り
+top3 entities near to cluster32>>
+頂上, 山頂, 中腹
+top3 entities near to cluster33>>
+中腹, 麓, ふもと
+top3 entities near to cluster35>>
+海岸, 海, 島々
+top3 entities near to cluster36>>
+公園, 遊歩道, 緑地
+top3 entities near to cluster37>>
+寺, 神社, 山
+top3 entities near to cluster38>>
+街並み, 町並み
+top3 entities near to cluster39>>
+町, 区, 丁目
+top3 entities near to cluster40>>
+その道, 道筋
+top3 entities near to cluster41>>
+細道, 小道, 路地
+top3 entities near to cluster42>>
+改札, 水道, 工事
+top3 entities near to cluster43>>
+猫, ネコ, ねこ
+top3 entities near to cluster44>>
+ウェイ, ロープ, ゲート
+top3 entities near to cluster45>>
+片道券, 乗車券, 乗車, 片道
+top3 entities near to cluster46>>
+片道, 往復, 切符
+top3 entities near to cluster47>>
+往復, 片道, 料金
+top3 entities near to cluster48>>
+乗務, 登り, 景色
+top3 entities near to cluster51>>
+乗車券, 往復券, 乗車, 往復

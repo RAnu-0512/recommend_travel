@@ -1,0 +1,15 @@
+--------------------similar_words:田中義一誕生地--------------------
+top3 entities near to cluster0>>
+誕生地, 生誕地, 生誕, 誕生
+top3 entities near to cluster1>>
+石碑, 銅像
+top3 entities near to cluster2>>
+政治家, 著名, 政治
+top3 entities near to cluster3>>
+案内板, 案内, 倒連
+top3 entities near to cluster4>>
+孝允, 木戸, 邑弥
+top3 entities near to cluster5>>
+萩, 城下町, 城
+top3 entities near to cluster6>>
+総理, 内閣, 大臣

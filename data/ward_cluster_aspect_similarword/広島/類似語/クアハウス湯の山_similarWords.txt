@@ -1,0 +1,21 @@
+--------------------similar_words:クアハウス湯の山--------------------
+top3 entities near to cluster0>>
+温泉, 国民, 保養
+top3 entities near to cluster1>>
+浮き, 輪, バー
+top3 entities near to cluster2>>
+家族連れ, 家族, 孫
+top3 entities near to cluster3>>
+子供, 大人, 子ども
+top3 entities near to cluster4>>
+プール, ゾーン, スイミング
+top3 entities near to cluster5>>
+滑り台, すべり台, ウォーター
+top3 entities near to cluster6>>
+水着, ビキニ, 競泳
+top3 entities near to cluster7>>
+時間, 天候
+top3 entities near to cluster8>>
+温泉, 風呂, 室内
+top3 entities near to cluster9>>
+温水, 泉, プール

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東海道どまん中茶屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宿場印, 袋井駅
+cluster1:(2)
+茶, どまんなか茶屋
+cluster2:(4)
+火曜日, 場合, 変更, 公式
+cluster3:(3)
+営業, 駅, 休日
+cluster4:(1)
+定休日
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 5entities.

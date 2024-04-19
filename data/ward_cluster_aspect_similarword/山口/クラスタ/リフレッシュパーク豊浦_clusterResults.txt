@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リフレッシュパーク豊浦>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入場料, 駐車場
+cluster1:(5)
+子供, 家族, 家族連れ, 子どもたち, 子供たち
+cluster2:(2)
+バラ園, バラ
+cluster3:(3)
+名所, 公園, 遊具
+cluster4:(5)
+秋, 季節, 満開, コスモス祭り, 時期
+cluster5:(5)
+金額, こと, 場所, 方, 状態
+cluster6:(2)
+ジュース代, 弁当
+cluster7:(8)
+種, イングリッシュガーデン, アスレチック, 手入れ, コスモス, 花, 川棚温泉, 気持ち
+cluster8:(4)
+途中, 奥, 自宅, 近く
+cluster9:(3)
+花畑, 自然, 素朴
+cluster10:(1)
+手作り感
+cluster11:(2)
+山口県, 下関市民
+cluster12:(2)
+リフレッシュパーク豊浦, 角島
+cluster13:(1)
+長府
+cluster14:(1)
+植栽
+
+howmany entities : 46
+howmany clusters : 15
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 15
+deleted 0entities.

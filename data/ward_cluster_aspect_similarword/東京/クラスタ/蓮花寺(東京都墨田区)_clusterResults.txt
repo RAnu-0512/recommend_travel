@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮花寺(東京都墨田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+寺院, 寺, 神社, 境内, 本堂
+cluster1:(9)
+人, 歴史, 入り口, 門, 蓮花寺, 風情, 近く, 弘法大師, 姿
+cluster2:(1)
+向島百花園
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

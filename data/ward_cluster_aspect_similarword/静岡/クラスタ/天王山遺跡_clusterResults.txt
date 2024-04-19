@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天王山遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+人, 歴史, 天王山, 清水駅, 看板, 住居, 清水, 天王山遺跡, 公園, 遺跡, 石碑
+cluster1:(3)
+古墳時代, 縄文時代, 出土品
+cluster2:(1)
+静岡市埋蔵文化センター
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

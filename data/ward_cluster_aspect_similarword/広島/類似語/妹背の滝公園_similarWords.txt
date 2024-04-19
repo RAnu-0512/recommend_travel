@@ -1,0 +1,23 @@
+--------------------similar_words:妹背の滝公園--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 避暑
+top3 entities near to cluster1>>
+一度, 一杯, 一
+top3 entities near to cluster2>>
+整備, 環境, 保全
+top3 entities near to cluster3>>
+夏場, 夏, 冬
+top3 entities near to cluster4>>
+水遊び, 川遊び, 子供
+top3 entities near to cluster5>>
+川水, 川, 土水, 土
+top3 entities near to cluster6>>
+生態系, 暖色系, 生態, 暖色
+top3 entities near to cluster7>>
+エビ, 海老, えび
+top3 entities near to cluster8>>
+水深, 名所, 潮位
+top3 entities near to cluster9>>
+子供, 子ども, 親達
+top3 entities near to cluster10>>
+滝, 吐龍, 唐岬

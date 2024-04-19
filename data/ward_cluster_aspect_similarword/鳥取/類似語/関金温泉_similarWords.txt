@@ -1,0 +1,11 @@
+--------------------similar_words:関金温泉--------------------
+top3 entities near to cluster0>>
+温泉, 浴場, 入浴
+top3 entities near to cluster1>>
+景色, 散策, 県境
+top3 entities near to cluster3>>
+満天星, 満天, 夜空
+top3 entities near to cluster4>>
+公園, 有数, 城跡
+top3 entities near to cluster5>>
+温泉, 湯, 旅館

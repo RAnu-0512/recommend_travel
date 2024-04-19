@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:唐戸市場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+こと, 場所, 事
+cluster1:(4)
+賑やかさ, 関係, ところ, サービス
+cluster2:(1)
+印象
+cluster3:(1)
+場
+cluster4:(1)
+全国
+cluster5:(6)
+値段設定, 寿司バイキング, 刺身, 値段, 売り方, 観光市場
+cluster6:(1)
+金土日
+cluster7:(1)
+関門橋
+cluster8:(1)
+外国人観光客
+
+howmany entities : 19
+howmany clusters : 9
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 9
+deleted 0entities.

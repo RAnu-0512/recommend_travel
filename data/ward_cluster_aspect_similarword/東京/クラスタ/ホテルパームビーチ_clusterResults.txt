@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルパームビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+客, ダイビング客御用達
+cluster1:(5)
+浴衣, 畳, 菓子, 布団, 舞い
+cluster2:(2)
+私達, 何か
+cluster3:(2)
+世話, 暇
+cluster4:(3)
+食事, 写真, 部屋
+cluster5:(2)
+宿, 主人
+cluster6:(2)
+事, もの
+cluster7:(2)
+ロビー, 入り口
+cluster8:(3)
+ペンション, ダイバー, スタイル
+cluster9:(1)
+おなか
+cluster10:(1)
+海
+cluster11:(1)
+共用
+cluster12:(1)
+体験ダイビング
+cluster13:(2)
+バン, 大島
+
+howmany entities : 29
+howmany clusters : 14
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 14
+deleted 0entities.

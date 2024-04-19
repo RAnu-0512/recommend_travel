@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安直楼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+小料理屋, 料理屋, 看護師, アルコール依存症, 領事官ハリス
+cluster1:(3)
+お吉, 吉, 唐人お吉
+cluster2:(2)
+下田一, 下田
+cluster3:(2)
+芸者, 病身
+cluster4:(9)
+最後, 米国, 身, 川, 差別, 人々, 任務, ペリーロード, 場所
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 4entities.

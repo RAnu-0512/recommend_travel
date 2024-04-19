@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:のむら美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+美術館, むら美術館, 見ごたえ, 点, 生涯
+cluster1:(2)
+山口市, 野村益治
+cluster2:(3)
+酒造業野村益治, 洞春寺境内, 書・画・茶道具
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

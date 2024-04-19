@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関市立東行記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+受付, 幕末, 展示, 騎兵隊, 左側, 遺品, 武器, 資料, 農民, 右側, 入口, 勇気, 写真, 歴史
+cluster1:(2)
+写真集, 記念館
+cluster2:(1)
+固定観念
+cluster3:(3)
+高杉晋作, 東行庵, 高杉晋
+cluster4:(1)
+下関市立東行記念館
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

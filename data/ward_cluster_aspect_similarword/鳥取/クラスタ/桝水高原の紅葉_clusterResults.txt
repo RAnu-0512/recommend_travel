@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桝水高原の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+大山, 渋滞, 高原, 弓ヶ浜, 鍵掛峠, 道路脇, 赤, 多く, 姿, 黄色, 大山寺, 桝水高原, 西側, 絵, 天気, 自然感, ススキ, 紅葉, ほう, スキーシーズン, 気持ち, 季節, 子供, 年, 所以
+cluster1:(2)
+蒜山高原, 伯耆富士
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 2
+deleted 0entities.

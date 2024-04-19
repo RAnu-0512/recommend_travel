@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急電鉄代々木上原駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+チェーン, アコルデ, スイーツ, 小田急, ホーム, トイレ, コンコース, メリット, 小田急電鉄, ファストフード, 乗り換え
+cluster1:(2)
+特徴, 共通
+cluster2:(2)
+人, こと
+cluster3:(1)
+以下
+cluster4:(4)
+鉄道, 始発, 電車, 東京メトロ
+cluster5:(6)
+店, 利用者, 飲食店, 利便性, 商業施設, ハンバーガ屋
+cluster6:(3)
+小田急電鉄小田原線, 小田急線, 地下鉄千代田線
+cluster7:(2)
+改札外, 改札
+cluster8:(2)
+駅直結, 接続駅
+cluster9:(5)
+駅, 代々木上原駅, 駅周辺, 周辺, 乗り換え駅
+cluster10:(1)
+古賀政雄音楽博物館
+
+howmany entities : 39
+howmany clusters : 11
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 11
+deleted 0entities.

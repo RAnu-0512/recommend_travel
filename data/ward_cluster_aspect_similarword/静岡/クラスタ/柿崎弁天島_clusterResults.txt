@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柿崎弁天島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+おく, 弁天島, 札幌, 像, 出張, 散歩, 船, 北海道, 下田, ボーイズ ビィ アンビシャス, 共, 黒船, 密航
+cluster1:(2)
+吉田松陰, 坂本竜馬
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

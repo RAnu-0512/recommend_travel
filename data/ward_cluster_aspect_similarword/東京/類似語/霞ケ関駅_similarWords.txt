@@ -1,0 +1,25 @@
+--------------------similar_words:霞ケ関駅--------------------
+top3 entities near to cluster1>>
+法務省, 霞ヶ関, 官公庁
+top3 entities near to cluster2>>
+最寄り駅, 乗り換え, 乗換え
+top3 entities near to cluster3>>
+農林水産省, 農水省, 農林省
+top3 entities near to cluster4>>
+一般人, パンピー, 芸能人
+top3 entities near to cluster5>>
+地下鉄, 地下道, メトロ
+top3 entities near to cluster6>>
+一部, 時間, 大半
+top3 entities near to cluster7>>
+路線, 便数, バス
+top3 entities near to cluster8>>
+首, 吊れよ, 手首
+top3 entities near to cluster9>>
+正門, 地下, 敷地
+top3 entities near to cluster10>>
+入館, 展示
+top3 entities near to cluster11>>
+駅, 駅前, 構内
+top3 entities near to cluster12>>
+展示, 資料, 館

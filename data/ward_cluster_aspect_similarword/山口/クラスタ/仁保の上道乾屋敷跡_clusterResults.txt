@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仁保の上道乾屋敷跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+屋敷, 御屋敷, 屋敷跡
+cluster1:(3)
+石垣, 正面, 仁保
+cluster2:(1)
+上道乾屋敷跡
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

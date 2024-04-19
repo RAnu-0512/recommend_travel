@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆漁協南伊豆直売所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(33)
+さざえ, 気, 魚, 土産, 評価, おみやげ, 身, 帰宅, 干物, サザエ, 価格, 伊勢, 弓ヶ浜, 品物, 海老, イセエビ, 付近, 魚介類, BBQ, 自宅, アジ, 買い物, 中, 海, スポット, エビ, 場所, 幸, 南伊豆町, オススメ, アワビ, 生簀, 海産物
+cluster1:(3)
+家族連れ, 品揃え, 友達同士
+cluster2:(7)
+伊豆漁協, 漁協, 金目鯛, 青野川河口, 下田みなと, 下田石, 廊崎線
+cluster3:(4)
+漁協直売所, 直売所, 金目鯛とえぼ鯛, 伊豆漁協南伊豆直売所
+
+howmany entities : 47
+howmany clusters : 4
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 4
+deleted 0entities.

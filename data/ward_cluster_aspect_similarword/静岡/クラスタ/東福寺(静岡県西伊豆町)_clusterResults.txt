@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東福寺(静岡県西伊豆町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+気, 名, 宿, 時間, 意, 中, チェックイン
+cluster1:(2)
+近在, 四方
+cluster2:(8)
+天女, 羅漢, 漆喰, 仏道, 本堂, 悟り, 天井, 寺
+cluster3:(1)
+天上界
+cluster4:(1)
+大正末期
+cluster5:(4)
+修業僧, 拝観料, 修業者, 修業
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 4entities.

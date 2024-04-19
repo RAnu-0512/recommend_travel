@@ -1,0 +1,25 @@
+--------------------similar_words:天城山隧道(通称_旧天城トンネル)--------------------
+top3 entities near to cluster2>>
+タイム, コース, タイヤ
+top3 entities near to cluster3>>
+雰囲気, 気持ち, イベント
+top3 entities near to cluster10>>
+作る, つくり
+top3 entities near to cluster12>>
+勇気, 覚悟, 感動
+top3 entities near to cluster14>>
+心配, 問題
+top3 entities near to cluster17>>
+状況, 状態, 有様
+top3 entities near to cluster20>>
+興味, 見方, 側面
+top3 entities near to cluster24>>
+道路, 旧道, 舗装
+top3 entities near to cluster25>>
+遺産, 文化, 心霊
+top3 entities near to cluster28>>
+車両, 運転
+top3 entities near to cluster29>>
+駐車, 停める
+top3 entities near to cluster31>>
+滝, 水生, 吐龍

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江の川カヌー公園さくぎ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+施設, キャンプ施設, 入浴施設
+cluster1:(16)
+キャンプ, ズボン, インストラクター, キャンセル, レインコート, ストレス, カヌー, 囲炉裏, スクール, スタッフ, オール, カヤック, カヌースクール, コテージ, レンタル, はじめ
+cluster2:(2)
+足元, 冬
+cluster3:(5)
+子供, 娘, 大人, 子ども, ファミリー・カップル
+cluster4:(3)
+男性, 女性スタッフ, 服装
+cluster5:(1)
+子供達
+cluster6:(1)
+袖口
+cluster7:(2)
+参加, 終了
+cluster8:(3)
+事, 心配, 問題
+cluster9:(3)
+方, キツイ方, 方々
+cluster10:(1)
+気分
+cluster11:(1)
+スクール込み
+cluster12:(11)
+水, 流れ, 川, 範囲, 食事, 時間, 景色, 場所, 稀, 自然, 食事スペース
+cluster13:(1)
+自由時間
+cluster14:(4)
+体験, かぎり落水, カヌー体験, コロナ禍
+cluster15:(1)
+沢登り体験
+
+howmany entities : 58
+howmany clusters : 16
+howmany entities (more than1entities) : 58
+howmany clusters (more than1entities) : 16
+deleted 0entities.

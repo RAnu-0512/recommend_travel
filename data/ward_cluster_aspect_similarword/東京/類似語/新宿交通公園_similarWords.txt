@@ -1,0 +1,11 @@
+--------------------similar_words:新宿交通公園--------------------
+top3 entities near to cluster0>>
+交通, 道路, 歩道
+top3 entities near to cluster1>>
+ミニ, 電車, スカ
+top3 entities near to cluster2>>
+電車, 車両
+top3 entities near to cluster3>>
+子供, 大人, 子ども
+top3 entities near to cluster4>>
+遊具, 公園, 園内

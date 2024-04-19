@@ -1,0 +1,17 @@
+--------------------similar_words:東京文化会館--------------------
+top3 entities near to cluster0>>
+音楽, 芸術, 文化
+top3 entities near to cluster1>>
+コンサート, バレエ, オーケストラ
+top3 entities near to cluster2>>
+ホール, 有数, 名門
+top3 entities near to cluster3>>
+バレエ, 新作, 殿堂
+top3 entities near to cluster5>>
+公園, 記念, 広場
+top3 entities near to cluster6>>
+駅, 建物, 構内
+top3 entities near to cluster7>>
+響き音, 響き, 音響
+top3 entities near to cluster8>>
+客席, 開演, 公演

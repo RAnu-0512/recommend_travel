@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蛇円山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+しっぽ, 形
+cluster1:(1)
+山
+cluster2:(1)
+伝え
+cluster3:(1)
+巣
+cluster4:(1)
+どくろ
+cluster5:(1)
+尾根方向
+cluster6:(1)
+八岐大蛇
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

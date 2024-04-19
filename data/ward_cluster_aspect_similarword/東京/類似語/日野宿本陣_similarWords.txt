@@ -1,0 +1,19 @@
+--------------------similar_words:日野宿本陣--------------------
+top3 entities near to cluster0>>
+新選, 新撰, 土方
+top3 entities near to cluster1>>
+本陣, 宿, 陣所
+top3 entities near to cluster2>>
+時代, 頃, 末期
+top3 entities near to cluster3>>
+建造, 大火, 歴史
+top3 entities near to cluster4>>
+駐車券, 駐車場, 駐車
+top3 entities near to cluster5>>
+駅, 改札, 道路
+top3 entities near to cluster6>>
+街道, 狐越, 嶌越
+top3 entities near to cluster7>>
+入館料, 入場料, 入館, 入場
+top3 entities near to cluster10>>
+奥門, 道場門, 奥, 道場

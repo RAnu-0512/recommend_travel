@@ -1,0 +1,9 @@
+--------------------similar_words:ニッポンレンタカー 西武新宿駅前店--------------------
+top3 entities near to cluster0>>
+旅, 新婚, 宿泊
+top3 entities near to cluster1>>
+返却, 貸し出し, 返還
+top3 entities near to cluster2>>
+態度, 言動, 姿勢
+top3 entities near to cluster3>>
+不足, 足り, 補う

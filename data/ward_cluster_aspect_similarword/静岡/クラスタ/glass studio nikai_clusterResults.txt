@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:glass studio nikai>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+吹きガラス体験, ガラス吹き体験
+cluster1:(3)
+安全, 工程, 体験
+cluster2:(2)
+コップ, 飲み物
+cluster3:(5)
+スタッフ, ホテル, 桜並木, 気持ち, おかげ
+cluster4:(1)
+方
+cluster5:(1)
+息子
+cluster6:(3)
+物, 形, 場所
+cluster7:(3)
+川, 窓, 風
+cluster8:(1)
+天気
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 4
+deleted 7entities.

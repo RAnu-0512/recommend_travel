@@ -1,0 +1,39 @@
+--------------------similar_words:ニコライ堂--------------------
+top3 entities near to cluster0>>
+ニコライ堂, ニコライ, ＭＡＨＯ
+top3 entities near to cluster2>>
+国内, 外国, 海外
+top3 entities near to cluster3>>
+異国, 西洋, 舶来
+top3 entities near to cluster5>>
+正教会, 正教, キリスト教
+top3 entities near to cluster6>>
+壮年, 男性, 女性
+top3 entities near to cluster8>>
+設計, 構造, 図面
+top3 entities near to cluster9>>
+見学, 視察, 内部
+top3 entities near to cluster10>>
+撮影, 写真, 撮っ
+top3 entities near to cluster11>>
+開館, 時間, 閉館
+top3 entities near to cluster12>>
+広角, 望遠, レンズ
+top3 entities near to cluster13>>
+門外, 聖橋, 阜成
+top3 entities near to cluster14>>
+外側, 内側, 敷地
+top3 entities near to cluster15>>
+奥, 右手
+top3 entities near to cluster16>>
+歩道橋, 歩道
+top3 entities near to cluster17>>
+足台, 足, 両足
+top3 entities near to cluster18>>
+建物, 町並み, 寺院
+top3 entities near to cluster19>>
+筆頭格, 罪状, 筆頭
+top3 entities near to cluster20>>
+駅, 駅前, ビル
+top3 entities near to cluster21>>
+聖堂, 教会, 建築

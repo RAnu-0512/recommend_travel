@@ -1,0 +1,9 @@
+--------------------similar_words:宮島・小黒神島・那沙美島・大黒神島周辺--------------------
+top3 entities near to cluster0>>
+島々, 景色, 絶景
+top3 entities near to cluster1>>
+機長, 飛行機, 航空機
+top3 entities near to cluster3>>
+展望台, 展望, 名所
+top3 entities near to cluster4>>
+空港, 国際, 中部

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:火の山公園_つつじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展望所, 駐車場
+cluster1:(5)
+南側, 近く, つつじ, 瀬戸内海, 関門海峡
+cluster2:(2)
+景色, 山頂
+cluster3:(1)
+市街
+cluster4:(1)
+木
+cluster5:(2)
+響灘, 小倉
+cluster6:(1)
+関門大橋
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

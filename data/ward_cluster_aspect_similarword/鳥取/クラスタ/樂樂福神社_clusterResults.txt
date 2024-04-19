@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:樂樂福神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+創建, 昔話, 鬼退治, 山, 古く, 木, 神社, 鬼, 鉄生産, 昔, 緑, 御利益, パワースポット, 祖先神
+cluster1:(2)
+樂樂福神社, ささふく神社
+cluster2:(1)
+日野郡開拓鎮護
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧古河庭園の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+石組, 池, 水面, 坂, 菰
+cluster1:(23)
+季節, 六義園, 余裕, 都会, 洋館, 場所, キャンペーン, 体力, ペアチケット, 紅葉, 木, ライトアップ, ライト, 秋, バラ, 駅, 時期, 見学, 時間, 方, 色づき, 風情, 反対
+cluster2:(1)
+ひごあかり
+cluster3:(9)
+全山紅葉, 日本庭園, つる紅葉, 庭園, 古河庭園, 入園料, 冬支度, 雪釣り, 石灯籠
+
+howmany entities : 38
+howmany clusters : 4
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 4
+deleted 0entities.

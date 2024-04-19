@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:町田薬師池公園 四季彩の杜 薬師池(薬師池公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+リス園, ダリア園
+cluster1:(2)
+蓮, ハス
+cluster2:(3)
+場所, 周辺, カメラマン
+cluster3:(2)
+公園, 散歩
+cluster4:(5)
+季節, 桜, 藤, 植物, 花
+cluster5:(1)
+見頃
+cluster6:(1)
+薬師池公園
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

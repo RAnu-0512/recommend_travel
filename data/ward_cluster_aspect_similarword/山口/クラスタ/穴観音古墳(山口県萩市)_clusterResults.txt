@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:穴観音古墳(山口県萩市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+装飾古墳, 円墳
+cluster1:(1)
+山裾斜面
+cluster2:(1)
+高さ
+cluster3:(1)
+穴観音古墳
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

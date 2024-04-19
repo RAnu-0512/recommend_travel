@@ -1,0 +1,17 @@
+--------------------similar_words:花菖蒲(水元公園)--------------------
+top3 entities near to cluster0>>
+菖蒲園, 菖蒲, 花菖蒲園, 花菖蒲
+top3 entities near to cluster2>>
+木々, 緑, 花
+top3 entities near to cluster3>>
+公園橋, 公園, バス
+top3 entities near to cluster4>>
+花菖蒲, 紫陽花, あじさい
+top3 entities near to cluster5>>
+読書, どくしょ, 多読
+top3 entities near to cluster6>>
+祭り, 見頃, 催し物
+top3 entities near to cluster7>>
+時期, 開花, 時季
+top3 entities near to cluster8>>
+水彩画, 水彩, 水墨画, 水墨

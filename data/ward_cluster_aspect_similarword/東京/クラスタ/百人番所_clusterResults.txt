@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百人番所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+門跡近く, 中之門跡, 皇居東御苑
+cluster1:(6)
+人組, 中, こと, 背景, 道, もの
+cluster2:(5)
+大手, 建物, 江戸城, 大手門, 遺構
+cluster3:(1)
+説明板
+cluster4:(1)
+建築物
+cluster5:(7)
+鉄砲, 各組, 本丸, 同心, 江戸城本丸, 江戸時代, 与力
+cluster6:(8)
+警備, 人番所, 警備詰所, 番所, 同心番所, 大番所, 昼夜交替, 検問所
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

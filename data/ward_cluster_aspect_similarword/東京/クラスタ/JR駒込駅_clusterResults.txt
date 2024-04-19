@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR駒込駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+六義園, 穴場, 上野, 場所, 食事, 巣鴨, 右, 庭園, 花見, 客, 左, ホーム, 山の手線, 足, 中, ツツジ, 桜, 雰囲気, 南北線, 東京メトロ, 待ち合わせ, 乗り換え, 割, 帰り
+cluster1:(2)
+御膝元, 案内表示
+cluster2:(1)
+古河庭園
+cluster3:(9)
+徒歩圏, 山手線, 家賃, 駒込駅, 駅, 駅周辺, 商店街, 住宅街, 乗り換え駅
+
+howmany entities : 36
+howmany clusters : 4
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 4
+deleted 0entities.

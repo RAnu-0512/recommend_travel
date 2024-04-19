@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善昌寺(広島県府中市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+備後西国観音霊場, 瀬戸内観音霊場
+cluster1:(7)
+菩薩, 廊下, 寺, 札所, 再建, 本堂, 本尊
+cluster2:(2)
+千手観世音, 本尊右手奥
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

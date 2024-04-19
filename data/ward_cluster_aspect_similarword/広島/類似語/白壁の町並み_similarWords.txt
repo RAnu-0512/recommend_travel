@@ -1,0 +1,7 @@
+--------------------similar_words:白壁の町並み--------------------
+top3 entities near to cluster0>>
+町並み, 街並み
+top3 entities near to cluster1>>
+街道, 狐越, ナナワ
+top3 entities near to cluster4>>
+駅, 駅前, 上下

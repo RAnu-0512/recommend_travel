@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊岩稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+隙間, 谷間, 横
+cluster1:(5)
+屋上, 通路, 地下, ビル, 階段
+cluster2:(14)
+パワースポット, 多く, 日本橋, 人, 間, 気持ち, お守り, 感じ, 意外, スタンプラリー, のぼり, 日本, 神, 雰囲気
+cluster3:(4)
+所, 場所, 案内, 目印
+cluster4:(2)
+お供え物, 現世御利益
+cluster5:(14)
+神社, 稲荷, 銀座八丁神社, 資生堂パーラー銀座, 路地裏, れっきとした神社, 社務所, 銀座通, 豊岩稲荷, 銀座, 銀座7丁目, 路地, 裏路地, 稲荷神社
+
+howmany entities : 42
+howmany clusters : 6
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 6
+deleted 0entities.

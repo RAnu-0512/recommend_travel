@@ -1,0 +1,67 @@
+--------------------similar_words:NHKスタジオパーク--------------------
+top3 entities near to cluster0>>
+子ども, 子供, お子様
+top3 entities near to cluster1>>
+待ち時間, 付き添い, 付添い
+top3 entities near to cluster2>>
+キッカケ, きっかけ, イメージ
+top3 entities near to cluster3>>
+おなじみ, オススメ, こんにちわ
+top3 entities near to cluster4>>
+ドキドキ, テンション, 緊張
+top3 entities near to cluster5>>
+トレンド, 臨機応変, 先取り
+top3 entities near to cluster6>>
+イラスト, スタンプ, Tシャツ
+top3 entities near to cluster7>>
+わんわん, かあさん, おかあさん
+top3 entities near to cluster8>>
+イベント, アトラクション, コンサート
+top3 entities near to cluster9>>
+アナウンサー, 番組, キャスター
+top3 entities near to cluster10>>
+ワンワン, ・・ミニー, グリーティング
+top3 entities near to cluster11>>
+ファミリー, コンサート, リサイタル
+top3 entities near to cluster12>>
+コッシー, オフロスキー, デテコ
+top3 entities near to cluster13>>
+イベント, シーン, ブース
+top3 entities near to cluster14>>
+番組, テレビ, ドラマ
+top3 entities near to cluster15>>
+予想, 想定, 困難
+top3 entities near to cluster17>>
+どー, ちゃん, よっ
+top3 entities near to cluster18>>
+歴代, 初代, 史上
+top3 entities near to cluster19>>
+朝ドラ, ドラマ, べっぴん
+top3 entities near to cluster20>>
+朝ドラ, ファン, 大河ドラマ
+top3 entities near to cluster22>>
+天気, お天気, 予報
+top3 entities near to cluster23>>
+以前, 今, 当時
+top3 entities near to cluster25>>
+方向, 角度
+top3 entities near to cluster26>>
+視野, 範囲, 範疇
+top3 entities near to cluster27>>
+会場, イベント, スタジオ
+top3 entities near to cluster28>>
+土産, おみやげ, 土産物
+top3 entities near to cluster29>>
+子供, 大人, 幼児
+top3 entities near to cluster30>>
+家族, 娘, 親子
+top3 entities near to cluster31>>
+ママ, パパ, 宇庵
+top3 entities near to cluster32>>
+子供, 子ども, 友達
+top3 entities near to cluster34>>
+駅, 駅前, 南口
+top3 entities near to cluster35>>
+徒歩圏, 徒歩, 直通
+top3 entities near to cluster36>>
+体験, 番組, 放送

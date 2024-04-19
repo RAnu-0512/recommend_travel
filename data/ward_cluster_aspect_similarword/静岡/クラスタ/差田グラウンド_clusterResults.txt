@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:差田グラウンド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イベント, サッカー
+cluster1:(1)
+催し物
+cluster2:(1)
+差田グラウンド
+cluster3:(1)
+野球
+cluster4:(1)
+照明設備
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白雪楼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建物, 景色
+cluster1:(2)
+海, 高台
+cluster2:(1)
+抹茶
+
+howmany entities : 5
+howmany clusters : 3
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 3
+deleted 0entities.

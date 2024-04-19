@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展望台, 温泉施設, 駐車場
+cluster1:(2)
+東郷湖, 湖
+cluster2:(9)
+標高, 眺め, 近辺, 景観, 対岸, 箇所, 周辺, 半島, クビレ
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

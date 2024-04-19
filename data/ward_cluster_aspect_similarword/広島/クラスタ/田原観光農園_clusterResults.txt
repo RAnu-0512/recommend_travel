@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田原観光農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+紅ほっぺ, 広島市, かおり野, 胡蝶蘭, 田原観光農園
+cluster1:(31)
+施設, 御手洗, ハサミ, 駐車場, 練乳, 貸し切り状態, 方, よこ, 子ども達, 娘, 位置, シーズン, 品種, 今回, 大人, 家族, 交互, 腰, 手洗い, 子ども, イチゴ, タイミング, いちご, 他, 小学生, バランス, 農園, ハウス, 値段, 様子, 内容
+cluster2:(7)
+味, 香り, いちご狩り, 香り味, 食べ比べ, イチゴ狩り, 食感
+
+howmany entities : 43
+howmany clusters : 3
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 3
+deleted 0entities.

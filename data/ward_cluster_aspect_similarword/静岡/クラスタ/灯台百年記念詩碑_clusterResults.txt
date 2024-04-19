@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:灯台百年記念詩碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+詩碑, 歌碑
+cluster1:(2)
+灯台, 御前崎灯台
+cluster2:(9)
+人, 車, 御前崎, 御前崎ケープパーク, 下, 白亜, 周り, 海, 近く
+cluster3:(1)
+駐車場
+cluster4:(1)
+みおび
+cluster5:(1)
+徳川幕府
+cluster6:(1)
+海難事故
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 8entities.

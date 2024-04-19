@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:志村一里塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+旅, 旅人
+cluster1:(2)
+中山道, 一里塚
+cluster2:(2)
+街並み, 文化財
+cluster3:(4)
+ところ, 交差点, 道のり, スポット
+cluster4:(3)
+三田線, 日本橋, 地下鉄
+cluster5:(9)
+昔, 多く, 現代, 隣, 人, 家, 日本, 方, 歴史
+cluster6:(11)
+場所, もの, 感じ, 助け, 体験, 機会, 存在, 目印, 勉強, こと, 風情
+cluster7:(3)
+目安, 単位, 距離
+cluster8:(10)
+国指定, 一里塚通り, 駅, 国道, 徒歩, 木陰, 出口, 柵, 休憩場所, 史跡
+cluster9:(1)
+街道沿い
+cluster10:(16)
+木造建築, 志村坂, 東京都, 榎, 板橋, 塚, 石垣, 徳川家康, 都, 江戸, 江戸時代, 里塚, 志村, 志村一里塚, 都内, 都営
+
+howmany entities : 63
+howmany clusters : 11
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 11
+deleted 0entities.

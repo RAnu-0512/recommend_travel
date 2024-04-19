@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:樋口一葉旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+居跡, 旧居跡, 樋口一葉旧居跡
+cluster1:(4)
+住宅密集地, 住宅, 住宅地, 住宅街
+cluster2:(2)
+路地裏, 路地
+cluster3:(5)
+建物, 長屋, 住居, 井戸, 階段
+cluster4:(2)
+面影, 風情
+cluster5:(2)
+東京, 左
+cluster6:(5)
+まわり, 突き当り, 中, 雰囲気, もの
+cluster7:(2)
+昔, 辺り
+cluster8:(1)
+場所
+cluster9:(1)
+一角
+cluster10:(1)
+心
+cluster11:(2)
+本郷, 才人
+cluster12:(1)
+夭折
+cluster13:(4)
+坪内逍遙, 樋口一葉, 一葉, 文京区
+cluster14:(1)
+炭団坂(たどんざか)
+
+howmany entities : 36
+howmany clusters : 15
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 15
+deleted 0entities.

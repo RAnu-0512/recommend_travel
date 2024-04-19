@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三朝神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+三朝温泉, 三朝, 三朝神社, 三朝の湯
+cluster1:(3)
+温泉神社, 砂原神社, 湯村神社
+cluster2:(7)
+株湯, ラジウム温泉, ラドン泉, 温泉水, ラドン温泉水, 温泉, 温泉街
+cluster3:(13)
+地域, 祭神, 水, 散策, 手, 印象, 創建, 飲用, 歴史, 清め, 世界屈指, 雰囲気, 場所
+cluster4:(2)
+スサノオ@外谷神社, 外谷神社
+cluster5:(3)
+手水, 手水所, 手水舎
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 6
+deleted 0entities.

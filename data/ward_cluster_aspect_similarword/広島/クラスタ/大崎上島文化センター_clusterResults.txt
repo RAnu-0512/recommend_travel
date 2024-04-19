@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大崎上島文化センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+とびしま海道, しまなみ海道
+cluster1:(14)
+施設, 周囲, 瀬戸内海, 直下, 自動車道路, 橋, 大崎下島, 主峰, 神峰山, 頂上, 海抜, 大三島, 風景, 大崎上島
+cluster2:(6)
+隣, 呉方面, 広島県, 南隣, 方面, 竹原
+cluster3:(1)
+多島海
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

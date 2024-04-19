@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ROPPONGI HILLS ART & DESIGN STORE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+東京シティビュー, 六本木ヒルズ, 森美術館, 森タワー, 右手側
+cluster1:(2)
+展示室, 展示
+cluster2:(16)
+アート, 店, スーベニアショップ, コンテンポラリーアート, グッズ, ショッピング, 入口, アートグッズ, 商品, ミュージアムショップ, アートショップ, 美術館, デザイン, ショップ, こと, もの
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

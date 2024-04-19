@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ日比谷線 東銀座駅--------------------
+top3 entities near to cluster1>>
+地下, 構内, 改札
+top3 entities near to cluster2>>
+電話, 対応, 応対
+top3 entities near to cluster3>>
+メトロ, 都営地下鉄, 地下鉄
+top3 entities near to cluster4>>
+汚れ, 散歩, よごれ
+top3 entities near to cluster6>>
+割引, 割り引き, 対象

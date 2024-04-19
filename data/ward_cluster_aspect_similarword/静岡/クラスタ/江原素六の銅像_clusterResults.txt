@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江原素六の銅像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+茶業, 牧畜業
+cluster1:(2)
+産業, 教育
+cluster2:(3)
+資料, 方, 基礎
+cluster3:(1)
+像
+cluster4:(1)
+沼津
+cluster5:(1)
+記念公園
+cluster6:(1)
+愛鷹地区
+cluster7:(1)
+明治資料館
+cluster8:(1)
+沼津兵学校・女学校
+
+howmany entities : 13
+howmany clusters : 9
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 10entities.

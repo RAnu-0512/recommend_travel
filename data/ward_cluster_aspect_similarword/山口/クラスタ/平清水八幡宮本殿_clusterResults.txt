@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平清水八幡宮本殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+国, 本殿, 津和野, 時代, 平清水八幡宮, 室町, 松江, 予定, 雰囲気, 文化財, 宿
+cluster1:(3)
+古社寺, 中山口市, 三間社
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:国森家住宅--------------------
+top3 entities near to cluster0>>
+漆喰, 土蔵
+top3 entities near to cluster1>>
+豪商, 商家, 富商
+top3 entities near to cluster2>>
+細部, 内部, 隅々
+top3 entities near to cluster3>>
+工夫, つくり
+top3 entities near to cluster4>>
+往時, 町並み, たたずまい
+top3 entities near to cluster6>>
+建築, 建物, 建造
+top3 entities near to cluster7>>
+びん, つけ

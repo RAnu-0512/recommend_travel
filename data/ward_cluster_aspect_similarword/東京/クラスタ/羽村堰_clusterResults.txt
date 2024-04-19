@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽村堰>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+四谷大木戸, 江戸, 江戸時代, 先人たち, 四谷, たまリバー50キロ
+cluster1:(3)
+桜まつり, 桜, 桜祭り
+cluster2:(2)
+夜桜, 花見
+cluster3:(27)
+季節, 上水, 目的地, 水, 場所, 対岸, 河口, 自然, 駐車場, サイクリング, 玉川上水, 多摩川, 東京, 苦労, 近く, 見所, サイクリングロード, 出発点, 名所, 時期, 川, 終点, こと, 周辺, 関, 堰, もの
+cluster4:(1)
+取水堰
+cluster5:(1)
+郷土資料館
+
+howmany entities : 40
+howmany clusters : 6
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 6
+deleted 0entities.

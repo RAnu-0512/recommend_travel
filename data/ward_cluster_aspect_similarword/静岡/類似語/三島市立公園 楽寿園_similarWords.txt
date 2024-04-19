@@ -1,0 +1,29 @@
+--------------------similar_words:三島市立公園 楽寿園--------------------
+top3 entities near to cluster0>>
+カピバラ, ゾウ, ウサギ
+top3 entities near to cluster2>>
+子供, 家族, 大人
+top3 entities near to cluster3>>
+夕方, 昼, 近所
+top3 entities near to cluster7>>
+表情, 胸
+top3 entities near to cluster8>>
+子供, 動物, 子ども
+top3 entities near to cluster9>>
+菊, 豆, 花
+top3 entities near to cluster10>>
+庭園, 中庭, 園内
+top3 entities near to cluster11>>
+木々, 公園, 園内
+top3 entities near to cluster12>>
+散策, 散歩, 見学
+top3 entities near to cluster13>>
+時間, 開館
+top3 entities near to cluster15>>
+水量, 水位, 渇水
+top3 entities near to cluster21>>
+入園料, 入園, 入場料, 入場
+top3 entities near to cluster22>>
+公園, 広場, 遊具
+top3 entities near to cluster24>>
+遊園地, 遊園, リンナンマキ

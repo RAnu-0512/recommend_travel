@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:GAS MUSEUM がす資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+サブ, ミニクラフト
+cluster1:(4)
+建物, 施設, 敷地, 訪問
+cluster2:(10)
+昔, メイン, 人, 他, ランプ, 駅, 時間, 歴史, ガーデン, 東京ガス
+cluster3:(4)
+内容, 感じ, 興味, 必要
+cluster4:(1)
+明治
+cluster5:(9)
+資料館, 灯り, 駐車場, 展示内容, 連絡先, 点灯実演, 灯り関係, 広さ, 展示
+cluster6:(7)
+コロナ禍, ガス関連, ガス, ガス灯館, 小平ふるさと村, 青梅街道, ガス灯
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 7
+deleted 0entities.

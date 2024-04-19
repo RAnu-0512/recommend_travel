@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新橋浅間神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+聖地, 恋人
+cluster1:(4)
+湧き水, 事, 水, ペットボトル
+cluster2:(2)
+神社, 神
+cluster3:(1)
+御殿場駅
+cluster4:(1)
+ポリタンク
+cluster5:(1)
+塩結び
+cluster6:(1)
+湧水
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 8entities.

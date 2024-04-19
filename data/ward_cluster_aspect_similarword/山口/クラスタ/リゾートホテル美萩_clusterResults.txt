@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リゾートホテル美萩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+料理, 追加料理
+cluster1:(8)
+確認, 予約, こと, 体験, 対応, 感じ, 不満, 宿泊
+cluster2:(2)
+景色, 絶景
+cluster3:(2)
+時間, マイナス分
+cluster4:(6)
+リゾートホテル, クーポン, フロント, ホテル, 露天風呂, アワビ
+cluster5:(2)
+人間, 他
+cluster6:(1)
+部屋
+cluster7:(3)
+外, 奥, 海
+cluster8:(2)
+ボー, 萩
+cluster9:(1)
+携帯画面
+cluster10:(11)
+風呂, 湯温, 露天, 宿泊者専用, 足湯状態, 美覚, 清潔感, 温泉, 内湯, 脱衣所, 見蘭牛
+
+howmany entities : 40
+howmany clusters : 11
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 11
+deleted 0entities.

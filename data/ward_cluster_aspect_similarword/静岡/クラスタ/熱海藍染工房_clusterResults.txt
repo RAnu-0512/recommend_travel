@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海藍染工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+染物体験, 藍染体験
+cluster1:(2)
+工程, 手順
+cluster2:(9)
+店主, 家族, 母, 駅, 体験, 店, 時間, 子供, 旅
+cluster3:(16)
+最後, やり方, アクセス, 袋, 手ぬぐい, 考え, 模様, 出来上がり, 対応, バック, 持ち帰り, もの, クチコミ, 手拭い, 説明, 方
+cluster4:(1)
+干し
+cluster5:(1)
+熱海
+cluster6:(4)
+傘寿, 記念, 記念&思い出, 祝い
+cluster7:(2)
+宿泊先, 駅近
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 8entities.

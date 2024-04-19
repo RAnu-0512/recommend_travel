@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ピーターパンハウス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+いちご狩り, イチゴ狩り
+cluster1:(2)
+受付, 予約
+cluster2:(4)
+客, 大人, 子供, 味
+cluster3:(11)
+最後, 家族, こと, 手, 人, 感じ, 友達, 中, 話, 他, 説明
+cluster4:(15)
+地面, イチゴ, ハウス, クーポン, おじいちゃん, 生ぬるい, ポイント, シーズン, いちご, ビニールハウス, 不味い, 奥, サイド, バリアフリー, 言い方
+cluster5:(2)
+練乳, ウネ
+cluster6:(3)
+章姫, 時間帯, 紅ほっぺ
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 4
+deleted 6entities.

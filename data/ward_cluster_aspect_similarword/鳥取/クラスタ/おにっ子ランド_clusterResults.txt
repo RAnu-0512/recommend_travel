@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おにっ子ランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伯耆町, 鳥取県
+cluster1:(3)
+っ子ランド, 鬼, 鬼伝説
+cluster2:(3)
+像, ブロンズ像, 展示物
+cluster3:(4)
+山, 象, 丘, 草原
+cluster4:(4)
+弁当, 公園, 園内, 道路
+cluster5:(7)
+シンボル, ロングローラー滑り台, 滑り台, 我が家, ランド, 子供, スポット
+cluster6:(3)
+下, 半分, 上
+cluster7:(4)
+気, 前, 時間, 場所
+cluster8:(1)
+素ポーツ
+cluster9:(1)
+入園無料
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 10
+deleted 0entities.

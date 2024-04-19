@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常盤湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+子供, 観察, 中, もの, カフェ, 昔, カッタ, ところ, スポット, 景色, 自然, 中心, 散策, 神社, 遊歩道, 彫刻, 真ん中, 時間, 人々, 周り, 周囲, 眺め, ウォーキング, ペリカン, 人, ペース, 植物, 近く, 観光, 人気者
+cluster1:(3)
+池, 白鳥, 湖
+cluster2:(2)
+コイ, 鯉
+cluster3:(1)
+灌漑湖
+cluster4:(5)
+ときわ公園, 山口県民, 公園, 総合公園, 展望塔
+cluster5:(3)
+常盤湖, 常盤神社, 常盤湖公園
+cluster6:(2)
+石炭記念館, 写真展示館
+
+howmany entities : 46
+howmany clusters : 7
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 7
+deleted 0entities.

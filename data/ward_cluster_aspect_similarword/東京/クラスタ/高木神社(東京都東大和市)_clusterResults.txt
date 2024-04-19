@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高木神社(東京都東大和市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+神社, 東大和市, 高木, 鳥居, 塩釜神社, 高木神社, 社殿, 境内
+cluster1:(2)
+安産, 出産
+cluster2:(2)
+趣, 風情
+cluster3:(5)
+心, 木々, 創造, 神, 鳥
+cluster4:(3)
+撮影スポット, 参拝, 像
+cluster5:(7)
+場所, 建物, 人, 地域, 看板, 歴史, 地元
+cluster6:(12)
+さえずり, 獅子舞, お守り, 感じ, 仕方, フォトスポット, おにぎり, お参り, スポット, 雰囲気, ペース, 目
+cluster7:(1)
+利益
+
+howmany entities : 40
+howmany clusters : 8
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 8
+deleted 0entities.

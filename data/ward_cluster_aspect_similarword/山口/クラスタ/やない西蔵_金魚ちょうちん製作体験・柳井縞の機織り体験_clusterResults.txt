@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:やない西蔵_金魚ちょうちん製作体験・柳井縞の機織り体験>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金魚ちょうちん, 金魚ちょうちん作り
+cluster1:(2)
+柳井縞, 柳井
+cluster2:(3)
+講習, 体験, 製作体験
+cluster3:(2)
+婦人, 金魚
+cluster4:(8)
+中, 町並み, 地元, 興味, タイミング, 方, 写真, 館内
+cluster5:(1)
+白壁
+cluster6:(1)
+西蔵
+cluster7:(1)
+観光客
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

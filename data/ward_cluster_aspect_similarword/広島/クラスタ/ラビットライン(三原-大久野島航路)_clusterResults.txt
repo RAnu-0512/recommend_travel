@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ラビットライン(三原-大久野島航路)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三原駅, 三原港
+cluster1:(2)
+滞在時間, 滞在
+cluster2:(9)
+釣り, 島, うさぎ島, 船, 海, エサ, 山, 餌, 朝一
+cluster3:(3)
+取り合い状態, 貸し切り状態, どこか
+cluster4:(3)
+歴史, 国, 子孫
+cluster5:(4)
+子ウサギ, 子供, ウサギたち, 大人
+cluster6:(12)
+フェリー, ウサギ, うさぎ, 大久野島, キャベツ, アクセス, しょう, 大分, 気持ち, イメージ, 植込み, 足
+cluster7:(9)
+展示, 帰り, 最終, 感じ, 数, 道中, 予約, こと, 所々
+cluster8:(1)
+徒歩
+cluster9:(1)
+お腹
+cluster10:(2)
+展望台, ガス資料
+cluster11:(2)
+食べ残し, 踏み場
+cluster12:(1)
+立ち乗り・・・船
+
+howmany entities : 51
+howmany clusters : 13
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 13
+deleted 0entities.

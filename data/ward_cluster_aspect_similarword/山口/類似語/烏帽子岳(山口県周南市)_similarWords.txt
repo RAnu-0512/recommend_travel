@@ -1,0 +1,11 @@
+--------------------similar_words:烏帽子岳(山口県周南市)--------------------
+top3 entities near to cluster0>>
+弁当, 昼食, 夕食
+top3 entities near to cluster2>>
+ハイキング, 山登り, トレッキング
+top3 entities near to cluster3>>
+家族, 親族
+top3 entities near to cluster4>>
+イット, サンド, レット
+top3 entities near to cluster6>>
+景色, 木々, 紅葉

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:採荼庵跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, 千住大橋
+cluster1:(1)
+奥
+cluster2:(1)
+銅像
+cluster3:(1)
+細道
+cluster4:(1)
+支援者
+cluster5:(2)
+芭蕉庵, 芭蕉
+cluster6:(1)
+庵
+cluster7:(1)
+清澄庭園
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 8
+deleted 0entities.

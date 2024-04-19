@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御胎内清宏園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+御胎内清宏園, 清宏園
+cluster1:(6)
+溶岩洞窟, 溶岩地帯, 溶岩隧道, 溶岩, 溶岩洞穴, 洞窟
+cluster2:(2)
+子宝, 子宝祈願
+cluster3:(2)
+安産祈願, 安産
+cluster4:(4)
+隣, 森, 緑, 奥
+cluster5:(5)
+空間, 庭, 公園, 自然, 樹木
+cluster6:(1)
+私設
+cluster7:(2)
+受付, 体験
+cluster8:(7)
+格好, こと, 人, 感じ, 中, 場所, 方
+cluster9:(2)
+名前, 人気
+cluster10:(1)
+きょうみ
+cluster11:(1)
+跡
+cluster12:(9)
+パワースポット, アウトドア, 守り神, パワー, ライト, 富士山, 雰囲気, スポット, スニーカー
+cluster13:(2)
+夫婦, 子供
+cluster14:(1)
+利益
+cluster15:(9)
+祈願, 噴火, 参拝, 散策, 観光スポット, 神社, 大噴火, 地底探検, 洞窟散策
+cluster16:(7)
+宝永4, 静岡県, 胎, 懐中電灯, 御胎, 御殿場市, 富士サファリパーク
+
+howmany entities : 63
+howmany clusters : 17
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 7
+deleted 16entities.

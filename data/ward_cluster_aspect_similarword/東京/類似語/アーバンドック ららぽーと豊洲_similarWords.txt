@@ -1,0 +1,9 @@
+--------------------similar_words:アーバンドック ららぽーと豊洲--------------------
+top3 entities near to cluster1>>
+映画, 休日, ランチ
+top3 entities near to cluster2>>
+海, 都, 海辺
+top3 entities near to cluster3>>
+建物, 店舗
+top3 entities near to cluster5>>
+通路, 駐車

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六本木マイアミビル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雑居ビル, 三角地帯
+cluster1:(3)
+多く, 感じ, 存在
+cluster2:(6)
+交差点, スクリーンビジョン, 喫茶店, マイアミ, 六本木, 待ち合わせ
+cluster3:(3)
+場所, 人, 前
+cluster4:(1)
+ランドマーク
+cluster5:(1)
+ビル
+cluster6:(2)
+外苑東, ビラ配り
+cluster7:(1)
+芋洗坂
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,19 @@
+--------------------similar_words:末吉温泉・みはらしの湯--------------------
+top3 entities near to cluster0>>
+休憩室, 休憩, 仮眠室, 仮眠
+top3 entities near to cluster1>>
+日, か所, 奇数
+top3 entities near to cluster2>>
+天気, 気分, お天気
+top3 entities near to cluster3>>
+景色, 景観, 眺め
+top3 entities near to cluster5>>
+窓, 山側, 景色
+top3 entities near to cluster7>>
+お湯, 内湯, 露天
+top3 entities near to cluster8>>
+温泉, 大吉, バス
+top3 entities near to cluster9>>
+温泉, 旅館, 露天風呂
+top3 entities near to cluster10>>
+湯, 温泉, 灌場

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東広島市安芸津歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史, 資料
+cluster1:(2)
+東広島市, 安芸津
+cluster2:(1)
+安芸津支所
+cluster3:(1)
+安芸津文化福祉センター
+cluster4:(1)
+安芸津歴史民俗資料館
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

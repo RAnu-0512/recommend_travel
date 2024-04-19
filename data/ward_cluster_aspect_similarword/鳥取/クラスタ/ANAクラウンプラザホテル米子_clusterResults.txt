@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ANAクラウンプラザホテル米子>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+客, 店内
+cluster1:(4)
+メニュー, ランチタイム, ポイント, ランチ
+cluster2:(2)
+料理, 食事
+cluster3:(1)
+密
+cluster4:(1)
+コロナ禍
+cluster5:(1)
+時間制限
+cluster6:(1)
+温泉宿チェックアウト
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

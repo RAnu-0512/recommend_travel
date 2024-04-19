@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吾妻山(広島県庄原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高原, 草原
+cluster1:(2)
+弁当, 空気
+cluster2:(5)
+吾妻山, 登山, スポット, 山, 山登り
+cluster3:(5)
+近く, 広場, 道, 駅, 周囲
+cluster4:(1)
+広島
+cluster5:(1)
+庄原市
+cluster6:(1)
+───O
+cluster7:(1)
+比婆道後帝釈国定公園
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 8
+deleted 0entities.

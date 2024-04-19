@@ -1,0 +1,7 @@
+--------------------similar_words:岩田遺跡--------------------
+top3 entities near to cluster0>>
+縄文, 時代, 後期
+top3 entities near to cluster1>>
+古墳, 時代, 後期
+top3 entities near to cluster2>>
+遺跡, 古墳, 縄文

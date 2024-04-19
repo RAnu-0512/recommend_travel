@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:押し花・クレイ・クレイケーキアトリエhana-ya>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+花冠, 花, お花
+cluster1:(10)
+お気に入り, レジン, スマホケース, 他, 体験, 先生, 色, 迷惑, 箸置き, 時間
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

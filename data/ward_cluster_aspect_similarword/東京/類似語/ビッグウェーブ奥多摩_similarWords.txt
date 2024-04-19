@@ -1,0 +1,13 @@
+--------------------similar_words:ビッグウェーブ奥多摩--------------------
+top3 entities near to cluster0>>
+トレッキング, 岩場, ハイキング
+top3 entities near to cluster1>>
+安全性, 安全, 危険性, 危険
+top3 entities near to cluster2>>
+幾つ, いくつ, どう
+top3 entities near to cluster5>>
+体験者, 体験, 参加者, 参加
+top3 entities near to cluster7>>
+上流, 下流, 最
+top3 entities near to cluster8>>
+動画, 時間

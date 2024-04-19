@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キャトル・セゾン・トキオ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+生活雑貨, ベビー雑貨, 雑貨, キッチン用品, 路面店, 小物類
+cluster1:(2)
+祝い, 出産祝い
+cluster2:(7)
+自由が丘, オススメ, 自然, 家, 中, 雰囲気, ナチュラル
+cluster3:(3)
+店, 商品, 衣類
+cluster4:(2)
+質, プレゼント選び
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中島の御茶屋(浜離宮恩賜庭園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ずとも池, お伝い橋
+cluster1:(8)
+茶屋, 抹茶, 靴, 茶, 庭園, 和菓子, 景観, 和菓子セット
+cluster2:(4)
+場所, 利用, 必要, 周り
+cluster3:(2)
+林, 中島
+cluster4:(3)
+池, 潮入, 浜離宮
+cluster5:(3)
+喫茶, 喫茶室, 展望台
+cluster6:(1)
+高層ビル群
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

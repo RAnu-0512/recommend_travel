@@ -1,0 +1,17 @@
+--------------------similar_words:大津島--------------------
+top3 entities near to cluster0>>
+集落, 村落, 限界
+top3 entities near to cluster1>>
+魚釣り, 釣
+top3 entities near to cluster2>>
+島国, 島, 人々
+top3 entities near to cluster3>>
+週末, 地元, 天気
+top3 entities near to cluster4>>
+戦況, 人口, 戦局
+top3 entities near to cluster5>>
+休校, 休講, 閉校
+top3 entities near to cluster6>>
+回天, 魚雷, 海軍
+top3 entities near to cluster7>>
+2, 第, 1

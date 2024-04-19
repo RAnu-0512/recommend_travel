@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ファッションセンターしまむら 高田馬場店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ピーコック, スーパマーケット, BIGBOX, しまむら, 横
+cluster1:(3)
+高田馬場駅, 交通, 店舗
+cluster2:(1)
+坂
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

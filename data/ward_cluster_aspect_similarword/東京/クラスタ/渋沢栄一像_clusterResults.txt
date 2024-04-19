@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渋沢栄一像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+肖像, 銅像, 像, 写真, 常盤橋公園, 写真撮影
+cluster1:(3)
+クルーズ船, 景品, 工事
+cluster2:(4)
+人, 地域, 経済, 歴史
+cluster3:(2)
+近く, 自宅
+cluster4:(4)
+常盤橋, 日本橋, 大河ドラマ, 主人公
+cluster5:(2)
+日本, 今回
+cluster6:(1)
+登場
+cluster7:(1)
+スタンプラリー
+cluster8:(1)
+鳩
+cluster9:(1)
+大正
+cluster10:(1)
+NHK大河ドラマ青天
+cluster11:(1)
+徒歩圏
+cluster12:(1)
+がれおん
+cluster13:(5)
+東京都北区, 人物 明治政府官僚 澁澤 榮一, 渋沢栄一, 聖地巡礼史跡めぐり, 渋沢栄一像
+
+howmany entities : 33
+howmany clusters : 14
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 14
+deleted 0entities.

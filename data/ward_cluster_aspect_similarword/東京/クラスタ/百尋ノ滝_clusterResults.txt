@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百尋ノ滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+落差, 水量, 迫力, 気温
+cluster1:(4)
+自然, 天然クーラー, 自然たっぷり, 宝庫
+cluster2:(8)
+山, 東京, 実家, 念願, ロングコース, マイナスイオン, 友人, 奥多摩
+cluster3:(8)
+途中, 疲れ, 場所, 気持ち, 姿, 見応え, 中, こと
+cluster4:(5)
+心, 音, 空間, 日常, 環境
+cluster5:(1)
+西多摩郡
+cluster6:(5)
+ノ滝, 滝, 登山コース, 登山道, 川苔山
+cluster7:(3)
+百尋ノ滝, 川苔谷の百尋ノ滝, 尋ノ滝
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 8
+deleted 0entities.

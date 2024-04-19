@@ -1,0 +1,13 @@
+--------------------similar_words:東急世田谷線 下高井戸駅--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 南口
+top3 entities near to cluster1>>
+京王線, 街並み, 町並み
+top3 entities near to cluster2>>
+終点, 起点, 始点
+top3 entities near to cluster3>>
+正, 桝重, 躬王
+top3 entities near to cluster6>>
+下町, 風情, 下町風
+top3 entities near to cluster7>>
+路面, 電車

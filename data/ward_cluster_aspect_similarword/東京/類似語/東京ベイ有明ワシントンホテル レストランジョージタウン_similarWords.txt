@@ -1,0 +1,69 @@
+--------------------similar_words:東京ベイ有明ワシントンホテル レストランジョージタウン--------------------
+top3 entities near to cluster0>>
+外国人, 外国, 大勢
+top3 entities near to cluster1>>
+ビーフ, ロースト, ロース
+top3 entities near to cluster2>>
+ランチ, レストラン, ディナー
+top3 entities near to cluster3>>
+ケーキ, アイスクリーム, アイス
+top3 entities near to cluster4>>
+留学生, コミケ, バイト
+top3 entities near to cluster5>>
+プラン, コース, フロア
+top3 entities near to cluster6>>
+デザート, オムレツ, パンケーキ
+top3 entities near to cluster7>>
+こだわり, オススメ, おすすめ
+top3 entities near to cluster8>>
+サービス, スタッフ, イベント
+top3 entities near to cluster9>>
+ラーメン, チャーシュー, とんこつ
+top3 entities near to cluster10>>
+ファミレス, レストラン, ランチタイム
+top3 entities near to cluster11>>
+イチオシ, オススメパスタ, オススメイチオシ
+top3 entities near to cluster12>>
+メニュー, メニュ, ススメメニュー
+top3 entities near to cluster13>>
+ロボット, ロボ, ヒューマノイド
+top3 entities near to cluster15>>
+メイン, メーン, サブ
+top3 entities near to cluster16>>
+お正月, 買い物, ピーク
+top3 entities near to cluster18>>
+都内, 台場, 都
+top3 entities near to cluster19>>
+団体, 個人, 企業
+top3 entities near to cluster20>>
+席台, 席, 入場
+top3 entities near to cluster22>>
+駅, 入口, そば
+top3 entities near to cluster23>>
+規模, 立地, 余波
+top3 entities near to cluster24>>
+休み, 休日, お盆
+top3 entities near to cluster25>>
+子供, 両親, 家族
+top3 entities near to cluster26>>
+腰, 足, 足首
+top3 entities near to cluster27>>
+料理店, 食材店, 料理, 食材
+top3 entities near to cluster28>>
+食べ放題, 食べ, たべ
+top3 entities near to cluster29>>
+デー, バー, 感謝
+top3 entities near to cluster30>>
+時間, 予約, 制限
+top3 entities near to cluster31>>
+贅沢, 気分, 貸切
+top3 entities near to cluster32>>
+利用, 充実, 活用
+top3 entities near to cluster34>>
+恐れ, 想定, 危惧し
+top3 entities near to cluster35>>
+機会, チャンス, 好機
+top3 entities near to cluster36>>
+扱い, あつかい, 扱う
+top3 entities near to cluster37>>
+煮, しめ, しめる

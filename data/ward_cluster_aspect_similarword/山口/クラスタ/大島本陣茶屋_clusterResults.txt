@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島本陣茶屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ボリューム, シャブシャブ
+cluster1:(1)
+瀬戸内
+cluster2:(1)
+日本
+cluster3:(1)
+居
+cluster4:(1)
+ハワイ気分
+cluster5:(1)
+周防大島町
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

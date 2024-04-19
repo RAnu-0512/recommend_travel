@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野田浜遊泳場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+向こう, 人気, スポット, ダイビング, ビーチ, 伊豆半島, 野田浜, ライセンス
+cluster1:(2)
+バス, 宿
+cluster2:(1)
+天気
+cluster3:(5)
+浜, 海, 空, 大島, 砂
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

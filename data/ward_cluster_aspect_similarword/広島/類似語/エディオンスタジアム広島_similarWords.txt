@@ -1,0 +1,31 @@
+--------------------similar_words:エディオンスタジアム広島--------------------
+top3 entities near to cluster0>>
+競技, 球技, 観戦
+top3 entities near to cluster1>>
+スタンド, コンビニ, コンビニエンスストア
+top3 entities near to cluster2>>
+アストラム, アストラムライン, アストラムライン・
+top3 entities near to cluster3>>
+スタジアム, コンサート, サポーター
+top3 entities near to cluster4>>
+シーズン, アメリカン, シーズンオフ
+top3 entities near to cluster5>>
+スペース, ストレス, アクセス
+top3 entities near to cluster6>>
+サッカー, フットボール, ラグビー
+top3 entities near to cluster7>>
+ライブ, ホテル, コンサート
+top3 entities near to cluster8>>
+アトム, 鉄腕, アストロボーイ
+top3 entities near to cluster9>>
+スタジアム, スタンド, メイン
+top3 entities near to cluster12>>
+バス, 高速, タクシー
+top3 entities near to cluster13>>
+交通, 渋滞, 道路
+top3 entities near to cluster14>>
+広場, 公園, 祭り
+top3 entities near to cluster15>>
+徒歩, 下車, 駅
+top3 entities near to cluster16>>
+暑い, 舗装, 天候

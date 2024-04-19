@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三島神社社叢【カヤノキ】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+美祢市, 三島神社
+cluster1:(4)
+カヤノキ, アオキ, 多数, 社叢
+cluster2:(1)
+目通り幹囲
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

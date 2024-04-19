@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:どんつく神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+細野高原, 伊豆急行の稲取駅, 伊東園ホテル, 稲取
+cluster1:(2)
+どんつくまつり, どんつく神社
+cluster2:(2)
+神体, 御神体
+cluster3:(10)
+坂道, 灯台, 温泉旅行, 旅行, 観光, 眺望, ロケ, 散歩, 島々, 山々
+cluster4:(2)
+神輿, 山車
+cluster5:(5)
+結婚, 男性シンボル, 妊娠, 子宝, 男性
+cluster6:(2)
+我が子, ふれあいの森
+cluster7:(1)
+夫婦和合
+cluster8:(1)
+奇祭
+cluster9:(3)
+驚き, 笑, 参り
+cluster10:(3)
+背景, 上, 中
+cluster11:(4)
+こと, もの, 形, 方
+cluster12:(3)
+祭り, 神社, 社
+cluster13:(5)
+所, 高台, 建物, 場所, 町
+cluster14:(7)
+名, 隣, ランドマーク, 裏, 待望, 人, 近く
+cluster15:(2)
+鳥, 海
+cluster16:(11)
+鵜渡根島, 神津島, 伊豆稲取, ホテル, サイズ, ひな祭り, 式根島, こじんまり, シンボル, テルマエ ロマエ, インパクト
+cluster17:(1)
+千鳥
+cluster18:(5)
+シンポル, 大島, 伊豆, 利島, 新島
+
+howmany entities : 73
+howmany clusters : 19
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 11
+deleted 13entities.

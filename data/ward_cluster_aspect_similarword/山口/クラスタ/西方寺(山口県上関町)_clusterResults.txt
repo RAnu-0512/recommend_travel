@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西方寺(山口県上関町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+熊毛郡, 上関町
+cluster1:(29)
+心, 本殿, 維新, 関係, 平安, 参拝, こと, 由緒, 住職さ, 境内, 西方寺, 寺, 車, 気, 場所, 日本, 地元, 修験, 雰囲気, 法事, 創建年間, 明治, 物腰, 方, 趣, 方々, 時代, 歴史, 話
+cluster2:(3)
+奇祭, 観光客, 観光
+
+howmany entities : 34
+howmany clusters : 3
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 3
+deleted 0entities.

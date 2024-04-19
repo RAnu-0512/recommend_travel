@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営大江戸線上野御徒町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+江戸線上野御徒町駅, 京成上野駅, 上野恩賜公園, アメ横(正式名称アメヤ横町
+cluster1:(22)
+綺麗さ, 出先, 用事, 家, 仲御徒町駅, JR, アメ横, 御徒町駅裏, 御徒町駅, 駅, 新御徒町駅, 上野駅, イメージ, ジュエリー街, 江戸線, 美術館, 六本木, 日比谷線, 上野御徒町駅, 銀座線, 乗り換え, あたり
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 2
+deleted 0entities.

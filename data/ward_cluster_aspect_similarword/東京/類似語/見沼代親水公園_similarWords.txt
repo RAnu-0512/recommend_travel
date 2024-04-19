@@ -1,0 +1,35 @@
+--------------------similar_words:見沼代親水公園--------------------
+top3 entities near to cluster0>>
+親水, 公園, 駅
+top3 entities near to cluster1>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster2>>
+光景, 風景, 姿
+top3 entities near to cluster4>>
+遊び場, 水遊び, こども
+top3 entities near to cluster5>>
+ザリガニ, コンビニ, スーパーベルクス
+top3 entities near to cluster6>>
+遊歩道, 散歩道, コース
+top3 entities near to cluster7>>
+終着駅, 始発駅, 終着
+top3 entities near to cluster8>>
+釣り糸, 釣糸, 釣り竿
+top3 entities near to cluster9>>
+回名, 回目, 回
+top3 entities near to cluster10>>
+子犬, 子供, 子
+top3 entities near to cluster12>>
+近辺, 駅, 周辺
+top3 entities near to cluster13>>
+季節, 春先, 時季
+top3 entities near to cluster14>>
+川水, 川, 土水, 土
+top3 entities near to cluster15>>
+都会, 自然, 緑
+top3 entities near to cluster16>>
+水鳥, 野鳥, 鳥
+top3 entities near to cluster18>>
+散歩, 捕り
+top3 entities near to cluster19>>
+公園, 親水, 遊歩道

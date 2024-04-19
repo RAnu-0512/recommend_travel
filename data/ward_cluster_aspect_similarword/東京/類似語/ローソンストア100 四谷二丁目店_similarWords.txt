@@ -1,0 +1,7 @@
+--------------------similar_words:ローソンストア100 四谷二丁目店--------------------
+top3 entities near to cluster1>>
+値段, 飲み物
+top3 entities near to cluster2>>
+住宅街, 地価, 住宅
+top3 entities near to cluster3>>
+四, 五, 丁目

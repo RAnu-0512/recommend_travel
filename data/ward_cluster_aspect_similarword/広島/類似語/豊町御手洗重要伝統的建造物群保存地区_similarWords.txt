@@ -1,0 +1,15 @@
+--------------------similar_words:豊町御手洗重要伝統的建造物群保存地区--------------------
+top3 entities near to cluster1>>
+映画, 劇場, 土産
+top3 entities near to cluster2>>
+友達
+top3 entities near to cluster3>>
+海橋, 海船, 海
+top3 entities near to cluster4>>
+町並み, 建物, 街並み
+top3 entities near to cluster5>>
+景色, 風情, 眺望
+top3 entities near to cluster6>>
+島々, 島, 本土
+top3 entities near to cluster8>>
+建造, 伝統, 歴史

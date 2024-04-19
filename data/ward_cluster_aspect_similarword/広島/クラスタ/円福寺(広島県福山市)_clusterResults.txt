@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円福寺(広島県福山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+途中, 務め, オススメ, バス停, 昔, 説明, 上, 所, 時間, 近く, 気持ち, 場所, 圧巻
+cluster1:(2)
+鞆, 浦
+cluster2:(3)
+高台, 丘, 階段
+cluster3:(7)
+子, 猫, 島, 寺, 鞆港, 石, 海
+cluster4:(4)
+心, 座敷, 景色, 静寂
+cluster5:(1)
+句碑
+cluster6:(1)
+観光地
+cluster7:(1)
+大可島城
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 8
+deleted 0entities.

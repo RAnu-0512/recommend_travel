@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:専福寺(東京都新宿区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+寺, 参拝, 本堂, 境内
+cluster1:(6)
+桜, 時期, トンガリ, 雰囲気, 交差点, 重み
+cluster2:(5)
+新宿区, 抜弁天, 厳島神社, 江戸時代, 弁天
+cluster3:(1)
+身近さだし 願い
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

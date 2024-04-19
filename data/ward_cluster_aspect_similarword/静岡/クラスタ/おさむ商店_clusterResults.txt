@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おさむ商店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+supヨガ, ヨガ
+cluster1:(3)
+食材, 干物, 炭
+cluster2:(2)
+雨, 屋根
+cluster3:(2)
+経験, 感動
+cluster4:(9)
+目, 飲み物, ところ, 海, カマス, ボート, 手ぶら, 前, 生ビール
+cluster5:(1)
+私達
+cluster6:(1)
+接客
+cluster7:(1)
+熱海サンビーチ
+cluster8:(1)
+コロナ禍
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 10entities.

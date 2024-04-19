@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ペルレ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+デザイン, 生活, 娘, 先生, 陶器, 場所, 息子, 兜, ケア, 時代, もの, 雛
+cluster1:(2)
+ずお掃除, 一生もの
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

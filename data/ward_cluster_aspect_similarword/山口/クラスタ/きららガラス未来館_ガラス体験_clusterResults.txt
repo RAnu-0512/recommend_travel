@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:きららガラス未来館_ガラス体験>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+絵付け, エナメル絵付け
+cluster1:(2)
+ガラス体験, 体験
+cluster2:(2)
+子供, 大人
+cluster3:(2)
+値段, 店
+cluster4:(5)
+方, 作品, 時間, ガラス, スタッフ
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

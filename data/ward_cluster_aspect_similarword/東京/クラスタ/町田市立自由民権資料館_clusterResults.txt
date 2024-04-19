@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:町田市立自由民権資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+自由民権資料館, 自由民権運動, 自由民権
+cluster1:(2)
+碑, 鐘
+cluster2:(2)
+見学, 展示
+cluster3:(2)
+中心, 近く
+cluster4:(2)
+場所, こと
+cluster5:(4)
+建物, 歴史, 資料, 外観
+cluster6:(1)
+資料館
+cluster7:(4)
+薬師池公園, 町田駅, 町田市, 武相地区
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

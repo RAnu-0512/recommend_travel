@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山レークホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+ポタージュ, ドレッシング, マッサージチェア, 美味, 新緑, メイン, レストラン, さえずり, ランチ, 貸し切り, 池, サザエ, 紅葉, 鳥取, パートナー, 部屋, 景色, ホテル, インテリア, 娘, サラダ, 北欧, 小鳥
+cluster1:(8)
+朝食, パン, 夕食, バター蒸し, 女子旅, 浴場, 前菜, 和牛ステーキ
+cluster2:(3)
+玉葱, 甘め, 新玉葱
+cluster3:(4)
+大山, 大山牛, 大山レークホテル, 地野菜
+
+howmany entities : 38
+howmany clusters : 4
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 4
+deleted 0entities.

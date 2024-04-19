@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中の浦海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+電動アシスト自転車, 浮き輪
+cluster1:(2)
+ビーチ, トイレ
+cluster2:(6)
+おすすめ, シュノーケリングセット, グリーン, シュノーケル, 雰囲気, シュノーケリング
+cluster3:(2)
+自転車, 北海道
+cluster4:(1)
+ハシゴ
+cluster5:(2)
+中, 方
+cluster6:(1)
+色
+cluster7:(1)
+夏場
+cluster8:(2)
+魚たち, 魚
+cluster9:(5)
+島, 海岸, 温泉, 海, 砂浜
+cluster10:(2)
+波, 浦
+cluster11:(1)
+海水浴場
+cluster12:(1)
+北側海岸
+cluster13:(1)
+透明度
+
+howmany entities : 29
+howmany clusters : 14
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 14
+deleted 0entities.

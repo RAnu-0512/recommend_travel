@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐藤惣之助碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+下田公園, 下田港, 下田
+cluster1:(3)
+詩, 詩人, 歌詩
+cluster2:(6)
+人, 名, 歌謡曲, もの, 方, 石碑
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 0entities.

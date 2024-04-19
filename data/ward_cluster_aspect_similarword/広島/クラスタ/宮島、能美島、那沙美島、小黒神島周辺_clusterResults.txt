@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮島、能美島、那沙美島、小黒神島周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+見所, 疑問人, 感動もの, つっこい, 思い リュック, 笑)あちこち, 気, 匂い
+cluster1:(2)
+観光客, 客
+cluster2:(5)
+広島, 宮島, 弥山, 宮島口駅, 宮島口
+cluster3:(6)
+中, 辺り, 日, 付近, 時間, 場所
+cluster4:(3)
+フェリー乗り場, 船, 丸
+cluster5:(2)
+袋, 道
+cluster6:(15)
+フェリー, ロープウェイ, 水族館, ビニール, 瀬戸内海, 手提げ袋, 海沿い, 人, ごはん, ホテル, 食事, 山, 人間, アイドル, 動物
+cluster7:(6)
+鳥居, 柿, 小島, 紅葉, 寺院, 神社
+cluster8:(10)
+島, 土産売り場, 天気, 海, 海側, 養殖, 景色, 景観, 島々, 満潮
+cluster9:(1)
+展望台
+cluster10:(5)
+シカ, がめつい鹿, 厳島神社, 鹿, 鹿達
+
+howmany entities : 63
+howmany clusters : 11
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 11
+deleted 0entities.

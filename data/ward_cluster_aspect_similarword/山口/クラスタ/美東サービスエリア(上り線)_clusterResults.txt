@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美東サービスエリア(上り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+美東サービス, 美東サービスエリア
+cluster1:(3)
+土産コーナー, 土産, 当地グルメ
+cluster2:(2)
+SA, 休憩
+cluster3:(3)
+施設, 食事, フードコート
+cluster4:(2)
+種類, 時間
+cluster5:(8)
+エリア, ペットボトル, ライトアップ, サービス, クリスマスツリー, トイレ, サービスエリア, 品ぞろえ
+cluster6:(2)
+感じ, 今回
+cluster7:(5)
+中国, 九州, 幸, 吹雪, 海側
+cluster8:(4)
+山口県, 山口, 山陽道, 高速道路
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 9
+deleted 0entities.

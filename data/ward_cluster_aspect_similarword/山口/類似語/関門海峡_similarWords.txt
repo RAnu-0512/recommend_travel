@@ -1,0 +1,53 @@
+--------------------similar_words:関門海峡--------------------
+top3 entities near to cluster1>>
+意欲, 価値
+top3 entities near to cluster5>>
+方法, やり方, 手段
+top3 entities near to cluster8>>
+持参, 戻り
+top3 entities near to cluster10>>
+エリア, レジャー, パーキング
+top3 entities near to cluster11>>
+ヒジキ, ワカメ, わかめ
+top3 entities near to cluster12>>
+海沿い, 夕暮れ, 海辺
+top3 entities near to cluster13>>
+ふもと, 入り口, 向こう
+top3 entities near to cluster14>>
+地下道, 地下街, 通路
+top3 entities near to cluster15>>
+レトロ, レトロチック, ・・レトロ
+top3 entities near to cluster16>>
+見どころ, 見所, みどころ
+top3 entities near to cluster18>>
+ラッキー, オススメ, ボコボコ
+top3 entities near to cluster19>>
+思い入れ, イメージ, 印象
+top3 entities near to cluster20>>
+変わり目, 変り目, 季節
+top3 entities near to cluster21>>
+気持ち, 気持, キモチ
+top3 entities near to cluster22>>
+コラボ, コラボレーション, コラボレート
+top3 entities near to cluster23>>
+たんび, たび, 決まって
+top3 entities near to cluster24>>
+自転車, レストラン, サイクリング
+top3 entities near to cluster25>>
+景色, 眺望, 絶景
+top3 entities near to cluster28>>
+夜空, 空, 海
+top3 entities near to cluster29>>
+全景, 正面, 競演
+top3 entities near to cluster31>>
+土産, 周遊, 旅
+top3 entities near to cluster33>>
+道路, 駐車, 国道
+top3 entities near to cluster34>>
+公園橋, 公園, 海岸
+top3 entities near to cluster35>>
+公共, 交通, 機関
+top3 entities near to cluster36>>
+海船, 海, 船舶
+top3 entities near to cluster38>>
+和布, 刈, 払鎌

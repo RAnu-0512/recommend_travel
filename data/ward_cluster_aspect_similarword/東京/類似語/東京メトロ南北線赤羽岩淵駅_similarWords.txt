@@ -1,0 +1,13 @@
+--------------------similar_words:東京メトロ南北線赤羽岩淵駅--------------------
+top3 entities near to cluster0>>
+終着, 終点, 終着駅
+top3 entities near to cluster1>>
+駅, 終点, 列車
+top3 entities near to cluster3>>
+本数, 距離, 間隔
+top3 entities near to cluster4>>
+専門店, 専門, 店舗
+top3 entities near to cluster5>>
+鰺, 鯵ヶ沢, 鰯
+top3 entities near to cluster6>>
+決勝戦, 準決勝戦, 決勝, 準決勝

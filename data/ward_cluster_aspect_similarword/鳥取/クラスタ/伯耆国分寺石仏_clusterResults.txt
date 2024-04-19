@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伯耆国分寺石仏>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+倉吉市, 国府・国分寺・不入岡, 伯耆国府, 伯耆国分寺石仏, 伯耆国庁, 鳥取県, 伯耆国分寺
+cluster1:(22)
+石仏, 簡略, 内, 社小学校, 胴体部分, 前庭, こと, 謎, あと, 前, 顔, モッコク, 社五体仏, 角柱状, これら石仏, もの, 近く, 石材, 玄関, 跡, 下あたり, 場所
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 2
+deleted 0entities.

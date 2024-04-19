@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松山窯跡出土品>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+磁器, 陶器
+cluster1:(1)
+やきもの
+cluster2:(1)
+松山窯
+cluster3:(1)
+染付
+cluster4:(1)
+出土品
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

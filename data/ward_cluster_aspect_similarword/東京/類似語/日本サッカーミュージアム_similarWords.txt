@@ -1,0 +1,47 @@
+--------------------similar_words:日本サッカーミュージアム--------------------
+top3 entities near to cluster0>>
+日, 月, ワールドカップ
+top3 entities near to cluster1>>
+選手, チームメイト, アスリート
+top3 entities near to cluster2>>
+代表, 歴代, 筆頭
+top3 entities near to cluster4>>
+展示品, 品等, 展示
+top3 entities near to cluster5>>
+展示, 出展, 展覧
+top3 entities near to cluster6>>
+施設, 展示, 設備
+top3 entities near to cluster7>>
+徒歩, 駅, 駅前
+top3 entities near to cluster8>>
+オール, カラー, チーム
+top3 entities near to cluster9>>
+ファン, ユニコーンファン, 熱狂
+top3 entities near to cluster10>>
+パネル, サイン, スタンド
+top3 entities near to cluster12>>
+博物館, 入り口, 入口
+top3 entities near to cluster13>>
+オリンピック, ワールドカップ, ユニフォーム
+top3 entities near to cluster14>>
+エレベーター, ミュージアム, エレベータ
+top3 entities near to cluster15>>
+トロフィー, トロフィ, メダル
+top3 entities near to cluster16>>
+サッカー, フットサル, ラグビー
+top3 entities near to cluster17>>
+レプリカ, 本物, 偽物
+top3 entities near to cluster18>>
+チケット, チケ, ファストチケット
+top3 entities near to cluster19>>
+ショップ, スタッフ, イベント
+top3 entities near to cluster20>>
+おすすめ, オススメ, オススメスポット
+top3 entities near to cluster22>>
+デザイン, オフィス, シューズ
+top3 entities near to cluster23>>
+エリア, アーバンエリア, 全域
+top3 entities near to cluster24>>
+セール, バーゲン, クリアランスセール
+top3 entities near to cluster25>>
+イベント, グッズ, 会場

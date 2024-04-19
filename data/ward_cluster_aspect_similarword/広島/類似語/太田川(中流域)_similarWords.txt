@@ -1,0 +1,11 @@
+--------------------similar_words:太田川(中流域)--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+河川敷, そば, カヌー
+top3 entities near to cluster3>>
+河川, 水門, 川
+top3 entities near to cluster4>>
+川幅, 道幅, 水かさ
+top3 entities near to cluster5>>
+優しい, やさしい, 力強い

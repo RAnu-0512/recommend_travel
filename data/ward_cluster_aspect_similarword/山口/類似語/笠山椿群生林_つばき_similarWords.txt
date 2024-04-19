@@ -1,0 +1,17 @@
+--------------------similar_words:笠山椿群生林_つばき--------------------
+top3 entities near to cluster0>>
+春分, 満開, 見頃
+top3 entities near to cluster1>>
+木々, 山, 海
+top3 entities near to cluster4>>
+時間, 日数, 時
+top3 entities near to cluster5>>
+辺り, 真ん中, あたり
+top3 entities near to cluster6>>
+自動車道, 自動車
+top3 entities near to cluster7>>
+品種, 産地, 原種
+top3 entities near to cluster9>>
+展望台, 展望, 瞻星台, 瞻星
+top3 entities near to cluster10>>
+椿, 林, 萩

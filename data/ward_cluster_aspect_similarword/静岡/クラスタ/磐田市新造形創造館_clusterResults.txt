@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:磐田市新造形創造館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+親, 妻, 子どもたち, 家族, 大人, 娘, 子供, 子供たち
+cluster1:(3)
+見学, キャンドル造り, 建物
+cluster2:(2)
+作家, 作品
+cluster3:(2)
+講座, 講師
+cluster4:(15)
+望遠鏡, スタッフ, アクセサリー, 出来上がり, ガラス, 思い出, グラス, 春休み, 買い物, 型, ジェルキャンドル, ハート, 待ち時間, ジェルキャンドルづくり, キーホルダー
+cluster5:(5)
+個性, 種類, 色, 季節, 好み
+cluster6:(7)
+場, こと, 時間, 感じ, 中, 他, 方
+cluster7:(7)
+手づくり体験, レジン体験, 吹きガラス体験, 思い出作り, ガラス体験, 体験, 作品作り
+
+howmany entities : 49
+howmany clusters : 8
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 6
+deleted 4entities.

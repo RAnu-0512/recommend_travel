@@ -1,0 +1,31 @@
+--------------------similar_words:伊豆高原の桜並木--------------------
+top3 entities near to cluster2>>
+桜, 満開, 八重桜
+top3 entities near to cluster3>>
+花びら, 葉っぱ, 花吹雪
+top3 entities near to cluster4>>
+トイレ, バス停, ペット
+top3 entities near to cluster5>>
+見ごたえ, 見所, おすすめ
+top3 entities near to cluster6>>
+ライトアップ, イルミネーション, イベント
+top3 entities near to cluster7>>
+ドライブ, タクシー, トンネル
+top3 entities near to cluster13>>
+パン, 弁当, シン
+top3 entities near to cluster14>>
+里, 秋, 花
+top3 entities near to cluster20>>
+歩道, 道路, 商店
+top3 entities near to cluster21>>
+撮っ, 訪れ
+top3 entities near to cluster23>>
+近辺, 周辺
+top3 entities near to cluster24>>
+季節, 時期, 寒い
+top3 entities near to cluster25>>
+バス車, 宿車, バス, 宿
+top3 entities near to cluster26>>
+時間, 目的, 時
+top3 entities near to cluster27>>
+情報, 写真, 商品

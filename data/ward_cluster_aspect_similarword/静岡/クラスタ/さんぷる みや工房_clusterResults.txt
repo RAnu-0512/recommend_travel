@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さんぷる みや工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+果物, 食品サンプル
+cluster1:(3)
+天ぷら作り, 体験, 安心
+cluster2:(2)
+女子, 店内
+cluster3:(8)
+天ぷら, タルト, カップ, 次, 上, 形, サンプル, キーホルダー
+cluster4:(2)
+袋, 値段
+cluster5:(1)
+衣付け
+cluster6:(1)
+小学校低学年
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 8entities.

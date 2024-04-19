@@ -1,0 +1,23 @@
+--------------------similar_words:稲城天然温泉 季乃彩--------------------
+top3 entities near to cluster0>>
+乃彩, 季, 天然
+top3 entities near to cluster1>>
+薬草, 香り
+top3 entities near to cluster2>>
+設備, 地下, 施設
+top3 entities near to cluster3>>
+サウナ, スチーム, チェア
+top3 entities near to cluster4>>
+漫画, 雑誌, マンガ
+top3 entities near to cluster6>>
+塩, 炭酸, 塩化
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster8>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster9>>
+仮眠室, 休憩室, 仮眠, 休憩
+top3 entities near to cluster10>>
+混み, 具合, 具合い
+top3 entities near to cluster11>>
+温泉, 湯, 風呂

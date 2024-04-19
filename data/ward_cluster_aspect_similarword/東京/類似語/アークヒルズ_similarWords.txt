@@ -1,0 +1,23 @@
+--------------------similar_words:アークヒルズ--------------------
+top3 entities near to cluster1>>
+スマート, サントリー, アルコール
+top3 entities near to cluster2>>
+桜並木, サンアロハ, ヤエチカ
+top3 entities near to cluster3>>
+エレベーター, エレベータ, エスカレーター
+top3 entities near to cluster4>>
+アークヒルズ, エントランス, アークヒルズサウスタワー
+top3 entities near to cluster5>>
+コンサート, イベント, コンサートホール
+top3 entities near to cluster6>>
+レストラン, ハンバーガー, カフェ
+top3 entities near to cluster7>>
+ビジネス, オフィス, マンション
+top3 entities near to cluster8>>
+カフェ, ホテル, レストラン
+top3 entities near to cluster9>>
+ランチ, カフェ, レストラン
+top3 entities near to cluster10>>
+繁華街, 繁華, 駅前
+top3 entities near to cluster11>>
+ビル, 駅前, 駅

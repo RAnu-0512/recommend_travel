@@ -1,0 +1,39 @@
+--------------------similar_words:国立天文台--------------------
+top3 entities near to cluster1>>
+貫禄, 迫力, 貫録
+top3 entities near to cluster2>>
+満点, 迫力, ゲットシリーズ
+top3 entities near to cluster3>>
+臨場感, 臨場, 緊迫感, 緊迫
+top3 entities near to cluster4>>
+トロ, ける
+top3 entities near to cluster6>>
+乗り場, バス停, 停留所
+top3 entities near to cluster7>>
+デートスポット, 夏休み, イベント
+top3 entities near to cluster8>>
+雰囲気, 見応え, 気持ち
+top3 entities near to cluster10>>
+知識, 技術, 知見
+top3 entities near to cluster11>>
+機器, 設備, 器機
+top3 entities near to cluster12>>
+興味, 関心, 価値
+top3 entities near to cluster14>>
+惑星, 木星, 火星
+top3 entities near to cluster15>>
+子供, 公園, 木々
+top3 entities near to cluster16>>
+見学, 施設, 入場
+top3 entities near to cluster17>>
+儀, 午, 赤道
+top3 entities near to cluster18>>
+観望会, 観望, 定例会, 定例
+top3 entities near to cluster19>>
+天文, 天文学, 天体
+top3 entities near to cluster20>>
+天体, 望遠鏡, けんび鏡
+top3 entities near to cluster21>>
+星空, 観測, 夜空
+top3 entities near to cluster22>>
+観測, 研究, 天体

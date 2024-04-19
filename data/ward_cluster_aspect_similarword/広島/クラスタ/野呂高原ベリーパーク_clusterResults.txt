@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野呂高原ベリーパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+卵, 鶏, 体験, おじさん, 行事, 鳥, アローカナ, 娘, ブルーベリー, 散歩, 事, 家族, エミュー, 収穫, 農場, ブルーベリー畑
+cluster1:(6)
+ヤギたち, 動物園, 山羊, ヤギ, 子供達, 動物
+cluster2:(1)
+産みたて卵
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中国電力柳井発電所_エネルギアランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ファミリー, エネルギー
+cluster1:(1)
+コーナー
+cluster2:(1)
+中国電力柳井発電所
+cluster3:(1)
+柳井市
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

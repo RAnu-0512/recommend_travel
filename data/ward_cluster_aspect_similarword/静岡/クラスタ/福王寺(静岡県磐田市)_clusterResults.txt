@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福王寺(静岡県磐田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+権現大祭, 陰陽師
+cluster1:(6)
+古刹, 十八番札所, 本堂, 山号, 末寺, 寺
+cluster2:(4)
+藤棚, 藤, 緑, 桜
+cluster3:(3)
+パワースポット, 願いごと, 願い事
+cluster4:(5)
+暴風雨, 高野山, 真言宗, 安倍晴明, 福王寺
+cluster5:(6)
+人, 伝説, 近く, 場所, 人気, 時代
+cluster6:(3)
+暴風, 祈祷, 香り
+cluster7:(1)
+風祭山
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 6
+deleted 3entities.

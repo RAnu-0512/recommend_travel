@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:橋場寺不動院(橋場不動尊)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+受け渡し, ひとつ, 気持ち, 書き置き, 不機嫌, 雰囲気
+cluster1:(2)
+浅草寺, 御朱印
+cluster2:(2)
+不動尊, 布袋尊
+cluster3:(1)
+インターフォン
+cluster4:(3)
+所, 言葉, 場所
+cluster5:(8)
+浅草駅, 本堂, 七福神巡り, 寂昇, 寺, 住宅街, 石浜神社, 参道
+cluster6:(1)
+関東三十六
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

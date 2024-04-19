@@ -1,0 +1,27 @@
+--------------------similar_words:火の山--------------------
+top3 entities near to cluster0>>
+展望台, 見晴らし台, 展望, 見晴らし
+top3 entities near to cluster1>>
+展望室, 展望, 眺望
+top3 entities near to cluster2>>
+関門橋, 関門, 人道橋, 人道
+top3 entities near to cluster4>>
+山, 山頂, 麓
+top3 entities near to cluster5>>
+景色, 絶景, 夜景
+top3 entities near to cluster6>>
+眼下, 対岸, 向こう岸
+top3 entities near to cluster7>>
+眺め, 姿, 眺める
+top3 entities near to cluster8>>
+都火, 都, 土
+top3 entities near to cluster12>>
+昔, 大昔, 以前
+top3 entities near to cluster14>>
+戦前, 戦後, 戦中
+top3 entities near to cluster15>>
+襲来, 来襲, 襲撃
+top3 entities near to cluster16>>
+灯台船, 桟橋, 灯台
+top3 entities near to cluster17>>
+砲台, 跡地

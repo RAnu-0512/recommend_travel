@@ -1,0 +1,37 @@
+--------------------similar_words:今戸神社--------------------
+top3 entities near to cluster1>>
+猫, 黒, 白
+top3 entities near to cluster2>>
+猫, ネコ, ねこ
+top3 entities near to cluster3>>
+猫, ネコ, ねこ
+top3 entities near to cluster4>>
+猫派, ネコ派, 猫, ネコ
+top3 entities near to cluster5>>
+ねこ, まねき, ネコ
+top3 entities near to cluster6>>
+猫石, 猫, なで
+top3 entities near to cluster7>>
+お寺, 境内, 縁結び
+top3 entities near to cluster8>>
+姿, 商魂, 格好
+top3 entities near to cluster9>>
+縁, 良縁, 所縁
+top3 entities near to cluster10>>
+神, 神様, 降臨
+top3 entities near to cluster12>>
+地名, 一帯
+top3 entities near to cluster13>>
+夕方, 昼前, 昼過ぎ
+top3 entities near to cluster15>>
+発祥地, 発祥, 名産地, 名産
+top3 entities near to cluster16>>
+参拝, 参詣, お参り
+top3 entities near to cluster17>>
+朱印帳, 御朱印帳, 朱印, 御朱印
+top3 entities near to cluster18>>
+境内, 神社, 仏閣
+top3 entities near to cluster19>>
+神社, 境内, 仏閣
+top3 entities near to cluster20>>
+社務, 所内, 寺務

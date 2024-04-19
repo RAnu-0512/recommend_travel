@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:入鹿海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+釣り, 鑑賞スポット
+cluster1:(2)
+風呂, 海水浴場
+cluster2:(15)
+瀬戸内, 海水浴, 中, 瀬戸内海, 友達, サイクリング, 絶好, 人, 海, ビーチ, 奥, 山, 江田島, こと, 場所
+cluster3:(1)
+がんね
+cluster4:(1)
+波音
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

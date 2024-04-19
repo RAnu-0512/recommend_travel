@@ -1,0 +1,17 @@
+--------------------similar_words:セブンイレブン日暮里駅北店--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 構内
+top3 entities near to cluster3>>
+オススメ, クオリティ, おすすめ
+top3 entities near to cluster4>>
+コンビニ, おにぎり, コーヒー
+top3 entities near to cluster5>>
+カフェ, 喫茶店, 喫茶
+top3 entities near to cluster6>>
+セブン, イレブン, アイグループ
+top3 entities near to cluster7>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster8>>
+パン, 食パン, パン・オ・ノア
+top3 entities near to cluster9>>
+電子, マネー, 書籍

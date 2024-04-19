@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ丸ノ内線 西新宿駅--------------------
+top3 entities near to cluster0>>
+ビル街, オフィス街, ビル, オフィス
+top3 entities near to cluster2>>
+仕事, ランチ, 地下道
+top3 entities near to cluster3>>
+天気, 散歩, 混雑
+top3 entities near to cluster4>>
+駅, 駅前, 都庁
+top3 entities near to cluster5>>
+高層, ビル, ノッポビル

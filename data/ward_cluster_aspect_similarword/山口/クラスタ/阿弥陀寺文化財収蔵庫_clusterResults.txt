@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿弥陀寺文化財収蔵庫>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+文化財収蔵庫, 阿弥陀寺文化財収蔵庫
+cluster1:(9)
+阿弥陀寺, 予約, 見学, 見ごたえ, 国宝, 宝物殿, 重要文化財級, 文化財, 御住職
+cluster2:(2)
+防府市, 白河法皇
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

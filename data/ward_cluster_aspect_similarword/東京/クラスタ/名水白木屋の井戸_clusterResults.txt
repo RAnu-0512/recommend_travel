@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名水白木屋の井戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+名水白木屋, 良水名水, 名水
+cluster1:(2)
+若干物足りなさ, 中央通り
+cluster2:(2)
+石碑, 碑
+cluster3:(2)
+漆黒, 艶
+cluster4:(3)
+創業, 観光スポット, 訪問
+cluster5:(4)
+水, 水辺, 良水, 井戸
+cluster6:(8)
+傍ら, 場所, もの, 悩み, 点, こと, 一体, 脇
+cluster7:(4)
+地, 舞台, 界隈, 周辺
+cluster8:(8)
+建物, 日本橋, 白木屋, コレド日本橋, イメージ, 記念碑, スポット, 店内
+cluster9:(1)
+往時
+cluster10:(1)
+私財
+cluster11:(2)
+呉服屋, 近江商人
+cluster12:(4)
+白木, 大村彦太郎, 東急百貨店, 清水
+cluster13:(4)
+史跡巡り, 江戸時代, 観音像, 漱石名作
+
+howmany entities : 48
+howmany clusters : 14
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 14
+deleted 0entities.

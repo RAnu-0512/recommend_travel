@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仙酔島の海食洞>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海食, 海食洞
+cluster1:(4)
+奇岩, 洞, 竜, 岩
+cluster2:(2)
+興味, 力
+cluster3:(8)
+仙酔島, 島, 波, パワースポット, 場所, 海, 自然, 遊歩道
+cluster4:(1)
+波浪
+cluster5:(1)
+浸食作用
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:江戸川堤--------------------
+top3 entities near to cluster0>>
+野球, 大会, 花火
+top3 entities near to cluster2>>
+取水塔, 取水, 矢
+top3 entities near to cluster3>>
+子供, 子ども
+top3 entities near to cluster4>>
+河口, 川, 下流
+top3 entities near to cluster5>>
+堤防, 河川, 土手
+top3 entities near to cluster6>>
+景色, 風景, 公園
+top3 entities near to cluster7>>
+花火, 納涼, 大会

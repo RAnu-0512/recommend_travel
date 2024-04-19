@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中目黒高架下>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蔦屋書店, 蔦屋おしゃれ
+cluster1:(6)
+店, 一品, 人気, 仕事, 話題, 雑誌
+cluster2:(2)
+中目黒, 日比谷線
+cluster3:(6)
+スタバ, カフェ, オープン, イメージ, ショップ, スポット
+cluster4:(1)
+足
+cluster5:(2)
+軒, ランチ候補
+cluster6:(1)
+全長
+cluster7:(15)
+高架下, 祐天寺駅, 中目黒高架下, 改札口, はやし田, 東急東横線, 山手通り, 高架, 東急線, 改札, 中目黒駅, 飲食店, 商業施設, 東京メトロ, 新宿
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:ファーブル昆虫館(虫の詩人の館)--------------------
+top3 entities near to cluster0>>
+蝶, 三郎, 名誉
+top3 entities near to cluster1>>
+ブル, ファー, サー
+top3 entities near to cluster2>>
+昆虫, ブル, ファー
+top3 entities near to cluster3>>
+開催, 開館, 共催
+top3 entities near to cluster5>>
+子供, 子ども, 大人
+top3 entities near to cluster6>>
+区, 区内, 都
+top3 entities near to cluster7>>
+展示, 展覧, 研究
+top3 entities near to cluster8>>
+昆虫, 植物

@@ -1,0 +1,141 @@
+--------------------similar_words:東武ホテルレバント東京--------------------
+top3 entities near to cluster1>>
+コスパ, 口コミ, コスト
+top3 entities near to cluster2>>
+スィーツ, スイーツ, マカロン
+top3 entities near to cluster4>>
+シロップ, フレーバー, コーヒー
+top3 entities near to cluster5>>
+カフェ, 喫茶店, 喫茶
+top3 entities near to cluster6>>
+スプーン, フォーク, カトラリー
+top3 entities near to cluster7>>
+セット, クーポン, 単品
+top3 entities near to cluster8>>
+アップル, ビニール, スマート
+top3 entities near to cluster9>>
+テーブル, カウンター, サーバー
+top3 entities near to cluster10>>
+デザート, アメリカンバーガー, フルーツシェイク
+top3 entities near to cluster11>>
+スポンジ, クリーミィー, クリーミー
+top3 entities near to cluster12>>
+ビュッフェ, ディナー, レストラン
+top3 entities near to cluster13>>
+フェア, 酉市, アジアン
+top3 entities near to cluster14>>
+フロア, 各階, スタッフ
+top3 entities near to cluster15>>
+ホール, コンサートホール, スタッフ
+top3 entities near to cluster16>>
+ライブ, ライヴ, コンサート
+top3 entities near to cluster17>>
+デザート, 飲み物, ドリンク
+top3 entities near to cluster18>>
+マロン, クリーム, モカ
+top3 entities near to cluster19>>
+プリン, ラスク, あんこ
+top3 entities near to cluster20>>
+フルーツ, レモン, ジュース
+top3 entities near to cluster22>>
+カレー, サラダ, パスタ
+top3 entities near to cluster23>>
+チーズ, スープ, ケーキ
+top3 entities near to cluster24>>
+イチゴ, いちご, パフェ
+top3 entities near to cluster25>>
+ホット, ティー, コーヒー
+top3 entities near to cluster26>>
+ティー, ミルク, コーヒー
+top3 entities near to cluster27>>
+茶, 紅茶, 柚子
+top3 entities near to cluster28>>
+m, スカイ, ツリー
+top3 entities near to cluster29>>
+氷, かき氷, アイス
+top3 entities near to cluster30>>
+風味, 甘み
+top3 entities near to cluster31>>
+焼く
+top3 entities near to cluster32>>
+肉系, 暖色系, 肉, 暖色
+top3 entities near to cluster33>>
+豚肉, 肉, 牛肉
+top3 entities near to cluster34>>
+海鮮, 麺類, 春雨
+top3 entities near to cluster36>>
+パン, ピザ, 食パン
+top3 entities near to cluster37>>
+カス, 汚い
+top3 entities near to cluster38>>
+バラ, 豚, ブタ
+top3 entities near to cluster39>>
+東武, 東武鉄道, 西武
+top3 entities near to cluster40>>
+ドア, 扉, 自動
+top3 entities near to cluster41>>
+中華, 豆腐, 海鮮
+top3 entities near to cluster42>>
+駅, 駅前, 構内
+top3 entities near to cluster43>>
+品数, 値段, 単品
+top3 entities near to cluster44>>
+ホテル, レストラン, ゲストハウス
+top3 entities near to cluster45>>
+ランチ, ランチタイム, ディナー
+top3 entities near to cluster46>>
+コース, ランチ, プチコース
+top3 entities near to cluster47>>
+食事, 夕食, 朝食
+top3 entities near to cluster48>>
+ランチ, 平日, 子供
+top3 entities near to cluster49>>
+駐車場, 料金, 駐車
+top3 entities near to cluster50>>
+店員, 店内
+top3 entities near to cluster51>>
+お客, 観客, 向こう
+top3 entities near to cluster52>>
+席, 座席, 団体
+top3 entities near to cluster53>>
+配膳, 配ぜん, スタッフ
+top3 entities near to cluster54>>
+複数, ほか
+top3 entities near to cluster56>>
+位置, 端
+top3 entities near to cluster57>>
+隣, 入口, 入り口
+top3 entities near to cluster58>>
+あと, 日, 残り
+top3 entities near to cluster60>>
+女性, 男性, 外国
+top3 entities near to cluster61>>
+対応, 補充, 案内
+top3 entities near to cluster63>>
+満足度, 満足, 納得度, 納得
+top3 entities near to cluster64>>
+評価点, 評価, 点数
+top3 entities near to cluster65>>
+., 1, 2
+top3 entities near to cluster66>>
+高揚感, 罪悪感, 罪悪, 高揚
+top3 entities near to cluster67>>
+時間, 利用, 予約
+top3 entities near to cluster69>>
+海鮮, 豆腐, 魚介
+top3 entities near to cluster70>>
+食べ放題, 飲み放題, 食べ, 飲み
+top3 entities near to cluster71>>
+料理, 食材, 和食
+top3 entities near to cluster72>>
+料理, 小皿, 食材
+top3 entities near to cluster73>>
+料理, 家庭, 食材
+top3 entities near to cluster74>>
+種類, 料理, 数種類
+top3 entities near to cluster75>>
+料理店, 食材店, 料理, 食材
+top3 entities near to cluster76>>
+料理, 肉, 懐石
+top3 entities near to cluster77>>
+料理人, 料理, 家族

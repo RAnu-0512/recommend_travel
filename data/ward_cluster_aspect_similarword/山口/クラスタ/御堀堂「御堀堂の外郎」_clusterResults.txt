@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御堀堂「御堀堂の外郎」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+御堀堂, お堀堂, 御堀堂の外郎
+cluster1:(4)
+山口県, 山口, 山口駅, 新山口
+cluster2:(4)
+外郎屋, 山口外郎, 生外郎, 外郎
+cluster3:(2)
+モチモチ, モチモチ食感
+cluster4:(40)
+所, 接客, もの, おみやげ, 白, 昔, 和菓子, こと, 機会, 会社, 世, 手土産, 家族, 気, 店, 値段, 止め方, 白あん, 日持ち, 場所, 興味, 包み, 場, 黒, 瞬間, 見た目, 老舗, 大内, 雑, 感じ, 日, 方, 左, 人, シール, わらび, 歴史, お返し, 名古屋, 友達
+cluster5:(4)
+商店街, 客, 家族連れ, 観光客
+cluster6:(2)
+包装紙, 真空パック
+cluster7:(4)
+抹茶, 羊羹, わらび粉, 黒糖
+cluster8:(4)
+銘菓, 土産, 菓子, 土産物屋
+cluster9:(2)
+甘味, 甘み
+cluster10:(2)
+香り, 味
+cluster11:(1)
+甘さ
+cluster12:(1)
+食感
+cluster13:(1)
+賞味期限
+
+howmany entities : 74
+howmany clusters : 14
+howmany entities (more than1entities) : 74
+howmany clusters (more than1entities) : 14
+deleted 0entities.

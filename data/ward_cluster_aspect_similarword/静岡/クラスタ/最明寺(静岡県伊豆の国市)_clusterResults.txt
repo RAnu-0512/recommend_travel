@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:最明寺(静岡県伊豆の国市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+順天堂, 大学病院先
+cluster1:(3)
+鎌倉, 鎌倉幕府, 執権
+cluster2:(2)
+源氏, 北条
+cluster3:(4)
+本堂, 墓, 建物, 寺
+cluster4:(7)
+最明寺, 伊豆長岡, こと, 源氏山, 地, ゆかり, 思い
+cluster5:(1)
+温泉街
+cluster6:(1)
+深さ
+cluster7:(1)
+韮山・長岡
+cluster8:(1)
+鎌倉幕府第5代執権
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 8entities.

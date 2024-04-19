@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ストライプハウスギャラリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建物, ビル
+cluster1:(2)
+左側, 左手
+cluster2:(2)
+六本木, 六本木ヒルズ
+cluster3:(7)
+途中, 一部, ギャラリー, ストライプハウス, 場所, 交差点, スペース
+cluster4:(1)
+横縞
+cluster5:(1)
+稼働率
+cluster6:(1)
+芋洗坂
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

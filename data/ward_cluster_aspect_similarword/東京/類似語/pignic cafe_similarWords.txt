@@ -1,0 +1,11 @@
+--------------------similar_words:pignic cafe--------------------
+top3 entities near to cluster0>>
+暴れ, 暴れん, 坊
+top3 entities near to cluster1>>
+能力, 関係
+top3 entities near to cluster2>>
+ちゃん, ピッグ, チビ
+top3 entities near to cluster3>>
+部屋, 隅っこ
+top3 entities near to cluster5>>
+子, 姉妹, 隙

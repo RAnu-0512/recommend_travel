@@ -1,0 +1,19 @@
+--------------------similar_words:入船山記念館--------------------
+top3 entities near to cluster1>>
+官舎, 長官, 公舎
+top3 entities near to cluster2>>
+司令, 官舎, 長官
+top3 entities near to cluster3>>
+司令官, 司令, 長官
+top3 entities near to cluster5>>
+館, 資料, 記念
+top3 entities near to cluster6>>
+建物, 建築, 洋館
+top3 entities near to cluster7>>
+建物, 歴史, 入り口
+top3 entities near to cluster9>>
+明治, 戦艦, 幕末
+top3 entities near to cluster11>>
+和風, 近代, 純
+top3 entities near to cluster12>>
+館, 郷土, 歴史

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士見坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+富士見100景, 富士見百景
+cluster1:(5)
+観光, 徒歩圏, JR西日暮里駅, 観光客, 西日暮里駅
+cluster2:(9)
+舗装, 散策, 建物, 上り, 天気, 煉瓦, 坂道, ビル, 高台
+cluster3:(20)
+途中, ここ西, 富士山, 昔, 場所, 先, 富士見, 関東, 東京, 役, 名, 日暮里, 冬, 車, 西, 西日暮里, 写真, 右側, 注意, 半分
+cluster4:(4)
+富士見坂, 石畳風, 坂, 谷中銀座
+
+howmany entities : 40
+howmany clusters : 5
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 5
+deleted 0entities.

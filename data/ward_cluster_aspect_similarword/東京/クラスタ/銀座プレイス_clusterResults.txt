@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銀座プレイス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+銀座プレイス, サッポロ銀座, 銀座三越, 銀座4丁目, 銀座四丁目, 銀座
+cluster1:(2)
+商業施設, VR体験
+cluster2:(2)
+交差点, ひし形
+cluster3:(2)
+オススメ, スポット
+cluster4:(7)
+ショールーム, ホワイトカラー, サッポロライオン, ビルディング, レストラン, モチーフ, ショールム
+cluster5:(1)
+NISSAN CROSSING
+cluster6:(2)
+カフェ, テレビ
+cluster7:(1)
+ソニー
+cluster8:(5)
+上, 時間, 中, 世界, 目
+cluster9:(2)
+日産, 和光
+cluster10:(13)
+テーマパーク気分, オフィスビル, 建物, 窓, 商品, 水槽, 名所, 車, 映像, ビル, カッコイイ車, 外観, 展示
+cluster11:(1)
+透かし彫り
+cluster12:(1)
+につれたて
+
+howmany entities : 45
+howmany clusters : 13
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 13
+deleted 0entities.

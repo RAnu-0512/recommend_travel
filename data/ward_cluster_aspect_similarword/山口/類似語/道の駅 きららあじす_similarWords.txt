@@ -1,0 +1,21 @@
+--------------------similar_words:道の駅 きららあじす--------------------
+top3 entities near to cluster1>>
+駅, 駅前, 構内
+top3 entities near to cluster2>>
+混雑, 開店, 入り
+top3 entities near to cluster4>>
+地元, 近所, 夕方
+top3 entities near to cluster5>>
+海道, 海車, 海
+top3 entities near to cluster6>>
+会場, 跡地, 裏手
+top3 entities near to cluster7>>
+野菜, 食材, 海鮮
+top3 entities near to cluster8>>
+直売, 農産物, 産直
+top3 entities near to cluster9>>
+特産品, 特産, 名産品, 名産
+top3 entities near to cluster10>>
+土産, おみやげ, みやげ
+top3 entities near to cluster11>>
+寇, 倭, 寇軍

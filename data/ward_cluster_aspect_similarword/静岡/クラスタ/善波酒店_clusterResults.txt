@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善波酒店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+甘口, 辛口
+cluster1:(2)
+口, 味
+cluster2:(3)
+日本, 酒屋, 酒
+cluster3:(1)
+熱海駅
+cluster4:(1)
+平和通り商店街
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

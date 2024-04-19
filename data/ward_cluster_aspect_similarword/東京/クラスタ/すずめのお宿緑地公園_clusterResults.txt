@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:すずめのお宿緑地公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+目黒区観光案内所所, 洗足駅, 区内おでかけ散策マップ, 東急目黒線
+cluster1:(10)
+都会, 自然, 虫, 竹林, 緑, 場, 癒しスポット, 紅葉, 憩い, 散歩
+cluster2:(2)
+領主, 在地
+cluster3:(21)
+途中, 昔, 場所, 最後, タイム, 内部, スズメ, 地域, 奥, 名前, 遊歩道, 公開, 目印, 写真, 中, スポット, すずめ, 表紙, 雰囲気, タケノコ, 一休み
+cluster4:(5)
+碑文谷, 目黒, 昭和, 都, オサ
+cluster5:(8)
+宿, 公園, すずめのお宿緑地公園, 車通り, 自然公園, 聖地巡り, 宿緑地公園, 遊具
+cluster6:(2)
+民家, 古民家
+cluster7:(2)
+住宅地, 住宅街
+cluster8:(1)
+アニメ僕ヤバ構内アナウンス
+
+howmany entities : 55
+howmany clusters : 9
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 9
+deleted 0entities.

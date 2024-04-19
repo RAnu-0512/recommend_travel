@@ -1,0 +1,13 @@
+--------------------similar_words:塙保己一の墓--------------------
+top3 entities near to cluster0>>
+愛染, 塙, 保
+top3 entities near to cluster1>>
+国学, 漢学, 儒学
+top3 entities near to cluster2>>
+墓所, 墓地
+top3 entities near to cluster3>>
+法律, 医学, 明治
+top3 entities near to cluster5>>
+書く, 補足
+top3 entities near to cluster6>>
+記憶力, 記憶, 能力

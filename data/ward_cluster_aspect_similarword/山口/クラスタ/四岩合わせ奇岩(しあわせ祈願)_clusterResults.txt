@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四岩合わせ奇岩(しあわせ祈願)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+それぞれ, 岩
+cluster1:(1)
+観音
+cluster2:(1)
+権現
+cluster3:(1)
+奇岩
+cluster4:(1)
+四岩合わせ奇岩
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

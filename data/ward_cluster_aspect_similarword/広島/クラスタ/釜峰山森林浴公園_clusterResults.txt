@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:釜峰山森林浴公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遊歩道, アベマキ
+cluster1:(1)
+森林浴
+cluster2:(1)
+景観
+cluster3:(1)
+西日本随一
+cluster4:(1)
+巨木群
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

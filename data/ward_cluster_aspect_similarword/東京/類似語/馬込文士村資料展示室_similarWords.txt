@@ -1,0 +1,9 @@
+--------------------similar_words:馬込文士村資料展示室--------------------
+top3 entities near to cluster1>>
+資料, 館, 史料
+top3 entities near to cluster2>>
+展示室, 資料室, 展示, 資料
+top3 entities near to cluster3>>
+展示品, 展示, 収蔵品, 収蔵
+top3 entities near to cluster4>>
+駅, 文学, 歴史

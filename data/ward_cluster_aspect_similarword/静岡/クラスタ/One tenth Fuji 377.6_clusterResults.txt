@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:One tenth Fuji 377.6>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遊び体験, 体験
+cluster1:(2)
+何か, さつまい
+cluster2:(2)
+芋, 畑
+cluster3:(8)
+スタッフ, とりたて, 大きめ, 時間, 中, 焼き芋, 帰り道, サービス
+cluster4:(2)
+予約, 変更
+cluster5:(4)
+長靴, 軍手, 子供, 子供たち
+cluster6:(2)
+無農薬, 芋掘り
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 10entities.

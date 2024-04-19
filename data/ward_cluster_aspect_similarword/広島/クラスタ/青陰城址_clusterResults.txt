@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青陰城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+村上義弘, 因島, 村上水軍, 因島村上水
+cluster1:(3)
+青影山, 青陰城, 青影城
+cluster2:(9)
+西, 山頂, 屋敷跡, 拠点, 標高, 中央, 軍, 遺構, 築城
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

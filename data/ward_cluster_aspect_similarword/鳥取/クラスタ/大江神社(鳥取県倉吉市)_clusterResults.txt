@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大江神社(鳥取県倉吉市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+倉吉市, 倉吉神社, 倉吉博物館, JR倉吉駅
+cluster1:(4)
+光格天皇, 大江磐代, 桃園天皇, 天皇
+cluster2:(13)
+羽衣池, 生母, 静寂, 疲れ, 木々, 神社, 明治, 父, 大江神社, 社殿, 近く, 祖母, 周囲
+cluster3:(6)
+打吹公園, 公園, 観光案内所, 広場, ミニ動物園, ふれあい動物広場
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

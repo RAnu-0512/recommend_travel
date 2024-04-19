@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯〜トピア かんなみ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+子供達, 好感, 方たち, 方
+cluster1:(3)
+水着, 水中ウォーキング, 天丼
+cluster2:(3)
+丘, 山, 町
+cluster3:(3)
+注意, 次, 上
+cluster4:(4)
+もの, 物, 手, 印象
+cluster5:(1)
+挨拶
+cluster6:(19)
+手入れ, ボリューム, 価格, キッズコーナー, 母, メニュー, 延長, 富士山, 露天風呂, サウナ, スイムキャップ, 食事, 有料, 休日, 子供, やんわり, 取り合い, 施設, 常連
+cluster7:(1)
+大豆ミート
+cluster8:(10)
+日帰り温泉, 温泉, 時間制限, 授業員, 日帰り温泉施設, 暴れ気味, 休憩場所, 休憩所, 歩行専用プール, 制限
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 7
+deleted 2entities.

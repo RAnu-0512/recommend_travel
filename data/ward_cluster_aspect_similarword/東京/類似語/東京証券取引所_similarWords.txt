@@ -1,0 +1,27 @@
+--------------------similar_words:東京証券取引所--------------------
+top3 entities near to cluster0>>
+証券, 取引, 株式
+top3 entities near to cluster3>>
+石造り, 中心地, 石づくり
+top3 entities near to cluster4>>
+ガラス, ボード, キャビネット
+top3 entities near to cluster5>>
+初心者, 小学生, 中学生
+top3 entities near to cluster6>>
+センター, センタ, プラザ
+top3 entities near to cluster7>>
+セミナー, マーケット, トレーダー
+top3 entities near to cluster8>>
+おなじみ, オススメ, イメージ
+top3 entities near to cluster9>>
+テレビ, ＴＶ, 番組
+top3 entities near to cluster10>>
+あゆみ, 良樹, 亜由美
+top3 entities near to cluster12>>
+都営, 都営地下鉄, 三田線
+top3 entities near to cluster13>>
+見学, 入場, 参加
+top3 entities near to cluster14>>
+資料, 館, 史料
+top3 entities near to cluster15>>
+取引, 株式, 証券

@@ -1,0 +1,15 @@
+--------------------similar_words:山口県旧県庁舎及び旧県会議事堂--------------------
+top3 entities near to cluster0>>
+古い, 良い, よい
+top3 entities near to cluster1>>
+建物, 建築, 敷地
+top3 entities near to cluster4>>
+歴史, 時代, 近世
+top3 entities near to cluster5>>
+重厚, 力強い, 重々しい
+top3 entities near to cluster6>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster7>>
+知事, 庁舎, 建築
+top3 entities near to cluster8>>
+県議会, 席, 県庁

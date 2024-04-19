@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:式亭三馬の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+正泉寺, 正泉寺自体
+cluster1:(3)
+小さなお寺, 寺, 墓地
+cluster2:(5)
+碑文谷, 右, もの, 前, 左
+cluster3:(3)
+案内板, 信号機, 住宅地
+cluster4:(1)
+目黒区
+cluster5:(1)
+式亭三馬
+cluster6:(1)
+江戸時代中期
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

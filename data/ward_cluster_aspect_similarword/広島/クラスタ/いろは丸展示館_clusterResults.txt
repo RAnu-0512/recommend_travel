@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いろは丸展示館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+江戸時代, 鞆, 海援隊, 福山市, 浦訪問, 明光丸, 艦船いろは丸, 浦沖, 浦, 丸, いろは丸
+cluster1:(2)
+衝突, 衝突事件
+cluster2:(2)
+沈没, 沈没事故
+cluster3:(2)
+土, 金
+cluster4:(7)
+シンボル, 常夜灯, ゆかり, ジオラマ, カフェ, コロナ, フィギュア
+cluster5:(3)
+友人, 隣, 人
+cluster6:(1)
+蔵
+cluster7:(2)
+非, いろ
+cluster8:(6)
+観点, 事件, 顛末, 目的, こと, 場所
+cluster9:(2)
+模型, 船
+cluster10:(2)
+建物, 物
+cluster11:(2)
+歴史, 資料
+cluster12:(3)
+姿, 映像, 写真
+cluster13:(1)
+遺品
+cluster14:(4)
+館内, 開館, かくれ部屋, 部屋
+cluster15:(2)
+いろは丸の展示館., いろは丸展示館
+cluster16:(2)
+資料館, 展示館
+cluster17:(3)
+展示物, 展示, 展示品
+cluster18:(3)
+営業時間, 営業日, 入館料
+cluster19:(1)
+新型コロナ感染防止対策
+cluster20:(5)
+紀州藩船明光丸, 坂本龍馬, 坂本龍馬率いる海援隊, 紀州藩, 坂本龍馬等身大
+
+howmany entities : 66
+howmany clusters : 21
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 21
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍福寺本堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+参道, 古刹, 境内, 本堂, 本尊, 寺, 朱印, 寺院, 檀家
+cluster1:(2)
+所, 場所
+cluster2:(3)
+佇まい, 雰囲気, 見応え
+cluster3:(3)
+もの, 事, 感じ
+cluster4:(3)
+文明, 時代, 歴史
+cluster5:(2)
+大名, 室町
+cluster6:(16)
+JR, 庭, 正面, 屋根, 文化財, 瑞雲寺, 宝珠山, 季節, 車, 紅葉, 彼岸, もみじ, 曹洞宗, 隣, 臨済宗, 建物
+cluster7:(3)
+国指定, 国, 建築物
+cluster8:(1)
+史料館
+cluster9:(5)
+池泉庭園, 山口, 大内, 新山口駅, 山口市
+cluster10:(1)
+龍福寺本堂
+
+howmany entities : 48
+howmany clusters : 11
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有限会社はるひら丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+釣り具, 観光釣り, 釣り, 沖釣り, 釣り方, 人生初体験海釣り, 海釣り, 船釣り, 初海釣り
+cluster1:(23)
+魚, 船, 家族, 鯛, タイ, ポイント, サバ, 予約, 刺身, クチコミ, 食用, 別, 針, 船員, 旅行, 様子, アジ, 食事, 調理代, 家族全員大満足, 釣果, 船長, 天気
+
+howmany entities : 32
+howmany clusters : 2
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 2
+deleted 0entities.

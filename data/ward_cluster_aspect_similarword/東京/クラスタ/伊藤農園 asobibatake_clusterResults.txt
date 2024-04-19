@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊藤農園 asobibatake>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+体験, 予約, 試食
+cluster1:(4)
+子供, 家族, 駅, 友人
+cluster2:(10)
+他, ところ, 種類, 持ち帰り, 名前, トマト, ピーマン, とうもろこし, こと, スタイル
+cluster3:(1)
+新宿
+cluster4:(2)
+収穫, 畑
+cluster5:(2)
+枝豆収穫, 枝豆
+cluster6:(1)
+ミニトマト
+cluster7:(1)
+摘みたて
+cluster8:(1)
+プチぷよ
+
+howmany entities : 25
+howmany clusters : 9
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 9
+deleted 0entities.

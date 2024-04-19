@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堂ケ島温泉(静岡県西伊豆町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+温泉, 温泉街, 景勝地, 宿, 旅館, 土肥温泉, 温泉地
+cluster1:(4)
+送迎, バス, 観光スポット, 観光
+cluster2:(2)
+夕日, 景色
+cluster3:(8)
+ホテル, もの, ところ, 気持ち, 時間, 手前, 次回, 頭
+cluster4:(7)
+南伊豆, 西伊豆, 島, 伊豆, 三四郎島, 堂, 三島
+cluster5:(1)
+堂ヶ島
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 3entities.

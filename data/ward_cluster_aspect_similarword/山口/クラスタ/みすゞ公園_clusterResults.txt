@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みすゞ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+みすゞ公園, 金子みすゞ, みすゞ通り, 近松・みすゞ道路
+cluster1:(3)
+湯本温泉, 仙崎港, 長門市
+cluster2:(3)
+童謡詩人, 観光船, 道路公園
+cluster3:(10)
+公園, 道, 場所, 途中, 出身, テーマ, 上, 入口, 近く, 青海島
+cluster4:(4)
+丘, 詩, 石, 緑いっぱい
+cluster5:(2)
+数ヶ所, 展望台
+cluster6:(1)
+白潟トンネル
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

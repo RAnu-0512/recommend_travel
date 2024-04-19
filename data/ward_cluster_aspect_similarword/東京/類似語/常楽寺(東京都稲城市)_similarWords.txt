@@ -1,0 +1,13 @@
+--------------------similar_words:常楽寺(東京都稲城市)--------------------
+top3 entities near to cluster0>>
+京王, 小田急, モールアネックス
+top3 entities near to cluster1>>
+寺院, 境内, お寺
+top3 entities near to cluster2>>
+京王線, 天台宗, 最寄り駅
+top3 entities near to cluster3>>
+伽藍, 堂塔, 堂宇
+top3 entities near to cluster4>>
+行基, 弘法大師, 空海
+top3 entities near to cluster5>>
+慈覚, 大師, 弘法大師

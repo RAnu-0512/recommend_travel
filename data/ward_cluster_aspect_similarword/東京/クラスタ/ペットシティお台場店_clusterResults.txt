@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ペットシティお台場店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+猫, 子犬たち, 猫ちゃん, 愛犬, 子犬, 犬, 愛犬家, 子猫, 犬猫, 猫ちゃんたち, わんちゃん
+cluster1:(3)
+お台場, 台場店, 台場
+cluster2:(29)
+おもちゃ, 店, 娘, 総合店, 洋服, 他, 種類, ペットショップ, 家族, ペットシティ, 服, ペット用品, パレットタウン, ペットグッズ, 買い物, 実物, 店員, ペット連れ, 品ぞろえ, ビーナスフォート, ドッグラン, 方, うさぎ, ペット屋, スポット, ペット, 生体販売, もの, 店内
+cluster3:(2)
+記念撮影所, 品揃え
+
+howmany entities : 45
+howmany clusters : 4
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 4
+deleted 0entities.

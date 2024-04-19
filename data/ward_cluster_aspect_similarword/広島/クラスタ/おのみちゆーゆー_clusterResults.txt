@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おのみちゆーゆー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+商店街, 銭湯, 元銭湯, 銭湯時代, アーケード商店街, 銭湯らしさ
+cluster1:(5)
+味, 店舗, 土産, 本場, 値段
+cluster2:(9)
+ランドマーク, カフェスペース, ルーローハン, 土産物, シュウマイ, カフェ, おにぎり, アイデア, 箸休め
+cluster3:(6)
+中, 存在, 印象, 気, 時代, 場所
+cluster4:(1)
+尾道
+cluster5:(1)
+土産物屋
+cluster6:(1)
+特産品
+cluster7:(3)
+アンニン豆腐, 杏仁豆腐, 小籠包
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 8
+deleted 0entities.

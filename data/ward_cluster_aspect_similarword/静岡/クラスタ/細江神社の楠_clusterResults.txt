@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:細江神社の楠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+根元, 木, 大木
+cluster1:(7)
+表示, 穴, 場所, 地, 境内, 子, 思い出
+cluster2:(5)
+細江神社, 御神木, 夫婦楠, 楠, 大楠
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 0entities.

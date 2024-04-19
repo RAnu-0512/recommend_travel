@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:府中市観光情報センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+季節, 文化センター, 配布場所, 見どころ, 観光マップ, コラボ, 南口, 配布, 販売, 左, 市, 情報, パンフレット, 観光情報センター, マンホールカード
+cluster1:(4)
+参道脇, 甲州街道, 府中市, 府中駅
+cluster2:(2)
+大國魂神社, アニメちはやふるのグッズ
+cluster3:(1)
+聖地巡礼個所多数ありちはやふるマンホール蓋設置マップ
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

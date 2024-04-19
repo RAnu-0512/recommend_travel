@@ -1,0 +1,72 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白浜大浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+買出し, 売り子
+cluster1:(2)
+ビーチ, 海水浴
+cluster2:(2)
+伊豆半島, 我が家
+cluster3:(5)
+コンビニ, スナック菓子, おにぎり, ホットモット, ドリンク
+cluster4:(3)
+カップル, グループ, ファミリー
+cluster5:(2)
+オススメ, スポット
+cluster6:(1)
+パニック
+cluster7:(7)
+パラソル, シーズン, サファー, サーフィン, コバルトブルー, レンタル, ビーチパラソル
+cluster8:(3)
+トイレ, シャワー, テント
+cluster9:(3)
+エメラルドグリーン, マック, フード
+cluster10:(1)
+ボディボード
+cluster11:(11)
+残り, 初心者, 夏, 他, 日本, 中, 水, バツグン, 上, 段違い, 神奈川
+cluster12:(6)
+色, 白色, ゴミ, 納得, 枝豆, バカ
+cluster13:(3)
+海水浴場, 駐車場, 町営
+cluster14:(5)
+食料, 食券, 食事, 食事抜き, 昼食
+cluster15:(3)
+人たち, 子供達, 家族連れ
+cluster16:(6)
+高速, 天気, 雨, 人出, 渋滞, 道路
+cluster17:(2)
+ビーチ目, 目
+cluster18:(4)
+時間, 場所, 前, 近く
+cluster19:(2)
+車, 店
+cluster20:(2)
+施設, 周辺
+cluster21:(1)
+足
+cluster22:(10)
+妻, 大人, 人, 若者, 家, 子供, 人達, 家族, 男, 人々
+cluster23:(2)
+旅行, 語
+cluster24:(1)
+海水浴客
+cluster25:(13)
+活気, 方, 事情, こちら側, 良さ, 苦痛, 透明度, もの, 感じ, 綺麗さ, あて, こと, 抵抗
+cluster26:(7)
+静岡県, 沖縄, 都内, 関東, 千葉, 下田, 下田旅行
+cluster27:(3)
+海日和, 海・波, 波
+cluster28:(9)
+白浜, 砂浜, 砂, 海水, 浜, 盆, 海, 白波, 津波
+cluster29:(1)
+浮き輪
+cluster30:(1)
+台風一過
+cluster31:(1)
+白浜大浜海水浴場
+
+howmany entities : 124
+howmany clusters : 32
+howmany entities (more than3entities) : 101
+howmany clusters (more than3entities) : 17
+deleted 23entities.

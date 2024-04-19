@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:掛川市ステンドグラス美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+解説文, 大きさ
+cluster1:(4)
+絵, 展示, 写真, 建物
+cluster2:(2)
+裏, 目玉
+cluster3:(3)
+時間, 近く, 場所
+cluster4:(3)
+関連, 日本, 基本
+cluster5:(9)
+タッチ, ステンドグラス, 人, 美術館, オジサン, レベル, 中, 雰囲気, 方
+cluster6:(1)
+イエス・キリスト
+cluster7:(3)
+丸いステンドグラス, 引き, 丸
+cluster8:(1)
+天守
+cluster9:(1)
+製造工程
+cluster10:(5)
+掛川城, 西洋神話, 西洋絵画, 入場券, 掛川市ステンドグラス美術館
+
+howmany entities : 34
+howmany clusters : 11
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 6
+deleted 7entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:墨田住宅センター建築道具・木組資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木, 木槌
+cluster1:(9)
+ヒント, 人, 価値, 技術, 形, 現物, 北東, 小さな博物館, 時代
+cluster2:(2)
+明治, 正
+cluster3:(1)
+釘
+cluster4:(1)
+何か
+cluster5:(4)
+森下駅, 墨田区, 住宅街, 建築家
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

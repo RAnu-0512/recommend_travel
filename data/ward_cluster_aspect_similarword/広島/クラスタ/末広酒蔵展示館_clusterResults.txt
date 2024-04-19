@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:末広酒蔵展示館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+末広酒蔵展示館, 酒蔵展示館, 末廣酒蔵資料館, 郷土人形館
+cluster1:(5)
+広島県, 府中市, 庄原, 末廣屋, 末廣
+cluster2:(5)
+三原人形, 人形, 人形たち, 三次人形, 上下人形
+cluster3:(4)
+展示物, 展示館, 展示室, 骨董品
+cluster4:(15)
+多数, 山田, 館内, 見応え, 酒, 上下白, 目的, 人, 観光スポット, 米, 奥, 酒蔵会社, 地名, 酒蔵, 上下
+
+howmany entities : 33
+howmany clusters : 5
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ミュゼ浜口陽三ヤマサコレクション>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+居心地, 美術館
+cluster1:(1)
+そば
+cluster2:(1)
+雨
+cluster3:(1)
+地下
+cluster4:(1)
+展示室
+cluster5:(1)
+銅版画家
+cluster6:(1)
+入館料
+cluster7:(1)
+水天宮前駅
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

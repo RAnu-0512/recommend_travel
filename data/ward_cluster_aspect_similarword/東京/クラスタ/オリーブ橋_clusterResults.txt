@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オリーブ橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+オリーブ橋, 橋
+cluster1:(6)
+オリーブ, こと, 木, 縁, 瞳, 小豆島
+cluster2:(1)
+小説家
+cluster3:(1)
+壺井栄
+cluster4:(1)
+二十四の瞳
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,25 @@
+--------------------similar_words:伊豆高原旅の駅ぐらんぱるぽーと--------------------
+top3 entities near to cluster2>>
+男性人, 女性人, 男性, 女性
+top3 entities near to cluster3>>
+自転車, バイク
+top3 entities near to cluster5>>
+施設, 時間, 天気
+top3 entities near to cluster11>>
+ランチ, カフェ, レストラン
+top3 entities near to cluster12>>
+大半, 地元, 殆ど
+top3 entities near to cluster14>>
+海鮮, 牡蠣, 野菜
+top3 entities near to cluster16>>
+休憩, 仮眠, 昼食
+top3 entities near to cluster17>>
+駅店, 飲食店, 駅, 飲食
+top3 entities near to cluster18>>
+駅, 公園, 旅
+top3 entities near to cluster19>>
+直売, 駐車, 農産物
+top3 entities near to cluster20>>
+土産, おみやげ, 土産物
+top3 entities near to cluster21>>
+バス, 名所, 周遊

@@ -1,0 +1,23 @@
+--------------------similar_words:四ツ谷駅前広場--------------------
+top3 entities near to cluster0>>
+外堀, 公園, 駅
+top3 entities near to cluster1>>
+企画展, 企画, 展覧
+top3 entities near to cluster2>>
+広場, 駅前, 公園
+top3 entities near to cluster3>>
+駅, 麹町, 駅前
+top3 entities near to cluster4>>
+空間, 雰囲気, スペース
+top3 entities near to cluster5>>
+地下鉄, 交差点, 駅
+top3 entities near to cluster6>>
+ベンチ, トイレ, 雰囲気
+top3 entities near to cluster7>>
+人達, 大勢
+top3 entities near to cluster9>>
+遣っ, 遣う
+top3 entities near to cluster10>>
+脇, リギオ, 横
+top3 entities near to cluster11>>
+校舎, 窓, 教会

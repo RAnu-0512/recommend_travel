@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まぼろし博覧会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊豆旅行, 伊豆
+cluster1:(2)
+粉塵, 臭気
+cluster2:(25)
+懐かしさ, 昭和, セーラーちゃん, セーラちゃん, 帰り, おすすめ, 大人, 娘, 貪欲, ココ, コンセプト, 気持ち, 私達, ウチ, エログロ, アレルギー, スポット, クシャミ, トイレ, オカルト, 犬, 生まれ, コレクション, カオス, 猛烈
+cluster3:(3)
+時期, 時間, 場所
+cluster4:(2)
+方々, 方
+cluster5:(2)
+他, 人
+cluster6:(3)
+世界, 同氏, 時代
+cluster7:(8)
+興味, こと, 面, 感じ, 様子, 希望, 意味, 価値
+cluster8:(14)
+旗, 事物, 体調, 館長, 虫, 空間, 外, 名所, 足, 脳, 部屋, 施設, 環境, 身体
+cluster9:(1)
+運営者
+cluster10:(7)
+駐車場, 展示, 展示物, 清潔感, 快適性, 少年少女博物館, 現実逃避
+cluster11:(1)
+寒暖差
+
+howmany entities : 70
+howmany clusters : 12
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 6
+deleted 10entities.

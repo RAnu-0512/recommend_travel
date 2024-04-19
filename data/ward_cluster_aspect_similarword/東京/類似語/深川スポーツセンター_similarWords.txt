@@ -1,0 +1,13 @@
+--------------------similar_words:深川スポーツセンター--------------------
+top3 entities near to cluster0>>
+スポーツ, センター, フィットネスクラブ
+top3 entities near to cluster1>>
+プール, スイミング, ジャグジープール
+top3 entities near to cluster2>>
+施設, 設備, 敷地
+top3 entities near to cluster3>>
+解消, 解決, 改善
+top3 entities near to cluster4>>
+会社帰り, 会社, 行き帰り
+top3 entities near to cluster5>>
+不足, 運動, 足り

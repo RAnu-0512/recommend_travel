@@ -1,0 +1,11 @@
+--------------------similar_words:瀬戸田町観光案内所--------------------
+top3 entities near to cluster0>>
+写真, 撮っ, 撮影
+top3 entities near to cluster1>>
+クルマ, 車両
+top3 entities near to cluster2>>
+柑橘, 柑橘類, かんきつ
+top3 entities near to cluster3>>
+名所, 名所旧跡, 名勝
+top3 entities near to cluster4>>
+耕, 寺, 三

@@ -1,0 +1,29 @@
+--------------------similar_words:IHIステージアラウンド東京--------------------
+top3 entities near to cluster0>>
+髑髏, 城, 劇場
+top3 entities near to cluster2>>
+感覚, 鑑賞
+top3 entities near to cluster3>>
+行列, 渋滞, 列
+top3 entities near to cluster4>>
+建物, 出入り口, 外観
+top3 entities near to cluster5>>
+ロビー, 入り口, 出入り口
+top3 entities near to cluster6>>
+大半, 周り
+top3 entities near to cluster8>>
+金, 金火, 土
+top3 entities near to cluster9>>
+市場, シエルタワー, フォレシア
+top3 entities near to cluster10>>
+舞台
+top3 entities near to cluster11>>
+入場料, 入場, 入館料, 入館
+top3 entities near to cluster12>>
+演劇, 役者, 舞台
+top3 entities near to cluster13>>
+劇場, 公演, ミンスコフ
+top3 entities near to cluster14>>
+公演, 上演, 再演
+top3 entities near to cluster15>>
+座席, 席, 座高

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉井寺一里塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+路面電車, 道路沿い
+cluster1:(2)
+玉井寺一里塚, 宝池寺一里塚
+cluster2:(2)
+指定番号, 指定文化財
+cluster3:(5)
+沼津, 伏見一里塚, 東海道五, 清水町, 里塚
+cluster4:(9)
+地元, 三島広小路, 原形, 歴史, 案内板, 雰囲気, 東海道, 旧道, 説明
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 6entities.

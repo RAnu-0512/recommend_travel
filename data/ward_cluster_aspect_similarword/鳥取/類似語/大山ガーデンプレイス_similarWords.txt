@@ -1,0 +1,21 @@
+--------------------similar_words:大山ガーデンプレイス--------------------
+top3 entities near to cluster0>>
+野菜, 豆腐, お花
+top3 entities near to cluster1>>
+軽食, 食事, 昼食
+top3 entities near to cluster2>>
+市販品, 市販, 値段
+top3 entities near to cluster3>>
+切り花, 農産物, 切花
+top3 entities near to cluster4>>
+テニス, トイレ, 目当て
+top3 entities near to cluster5>>
+日, 月, 年
+top3 entities near to cluster7>>
+吹き抜ける風, 吹き抜ける, 吹か
+top3 entities near to cluster8>>
+大山, 鎬則, 祗命
+top3 entities near to cluster9>>
+施設, 出店, 休業
+top3 entities near to cluster10>>
+直売, 農産物, 所内

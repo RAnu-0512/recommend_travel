@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ千代田線代々木公園駅--------------------
+top3 entities near to cluster0>>
+商店街, 住宅街, 商店, 住宅
+top3 entities near to cluster1>>
+駅, 改札, 駅前
+top3 entities near to cluster2>>
+食事, 仕事, 夕食
+top3 entities near to cluster4>>
+地上, 地表, 地下
+top3 entities near to cluster5>>
+訪問者, 利用者, 訪問, 利用

@@ -1,0 +1,41 @@
+--------------------similar_words:川奈いるか浜公園--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 施設
+top3 entities near to cluster1>>
+向上, 安全, 刺激
+top3 entities near to cluster5>>
+海水浴, 釣り場, 日差し
+top3 entities near to cluster6>>
+飲み物, 食べ物, タバコ
+top3 entities near to cluster7>>
+サンダル, シュノーケリング, シュノーケル
+top3 entities near to cluster8>>
+気持ち, 終わり, 終わる
+top3 entities near to cluster9>>
+トイレ, シャワー, テント
+top3 entities near to cluster10>>
+子連れ, 小学生, 夏休み
+top3 entities near to cluster11>>
+ビーチ, 砂浜, 玉砂利
+top3 entities near to cluster12>>
+子供, 子ども, 親
+top3 entities near to cluster15>>
+隣, 地元, 夕方
+top3 entities near to cluster19>>
+吸殻, 花火, ゴミ
+top3 entities near to cluster20>>
+砂, 撒管, 砂利
+top3 entities near to cluster21>>
+砂浜, 海岸, 砂地
+top3 entities near to cluster24>>
+魚釣り
+top3 entities near to cluster25>>
+足, 裸足, ツボ
+top3 entities near to cluster26>>
+夏, 春先, 冬
+top3 entities near to cluster27>>
+金水, 土水, 金, 土
+top3 entities near to cluster28>>
+ゾウ, 鼻, カニ
+top3 entities near to cluster30>>
+海水, 水道, 冷水

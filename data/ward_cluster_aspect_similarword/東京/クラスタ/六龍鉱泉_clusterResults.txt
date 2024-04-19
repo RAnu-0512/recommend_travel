@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六龍鉱泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+昔, 昭和, 西側, 右, 初め頃, 界隈, 左, 独特, 付近, ころ, 路地, 道
+cluster1:(3)
+創業, 屋号, 営業
+cluster2:(3)
+温度, 手足, 蛇口
+cluster3:(2)
+上野, 東京
+cluster4:(3)
+気分, 点, こと
+cluster5:(9)
+ビジネスホテル, 水, カラン, 上野公園, リンスインシャンプー, 上野動物園, 汗, 北海道, におい
+cluster6:(1)
+カゴ
+cluster7:(1)
+定休日
+cluster8:(13)
+日帰り温泉, モール温泉, 六龍, 銭湯, 水月ホテル鴎, 温泉, 十勝川, 帯広市, 風呂, 泉, 外荘, 泉質, 湯
+
+howmany entities : 47
+howmany clusters : 9
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 9
+deleted 0entities.

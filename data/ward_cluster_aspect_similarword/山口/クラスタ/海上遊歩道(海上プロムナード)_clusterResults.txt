@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海上遊歩道(海上プロムナード)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+長さ, はなぐり海水浴場
+cluster1:(9)
+全長, 歩道橋, 南側, 遊歩道, 海上遊歩道, 上, 海, 釣り, 海岸線
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

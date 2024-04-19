@@ -1,0 +1,85 @@
+--------------------similar_words:Grinpa(ぐりんぱ)--------------------
+top3 entities near to cluster0>>
+遊園地, 遊園, テーマパーク
+top3 entities near to cluster1>>
+雰囲気, 気持ち, 言い方
+top3 entities near to cluster2>>
+テーマパーク, アトラクション, 遊具
+top3 entities near to cluster4>>
+パスポート, チケット, 家族づれ
+top3 entities near to cluster5>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster7>>
+モチーフ, オブジェ, ファンタジック
+top3 entities near to cluster8>>
+サービス, イベント, システム
+top3 entities near to cluster9>>
+スタンス, スペース, とこ
+top3 entities near to cluster13>>
+子ども, 子供, おもちゃ
+top3 entities near to cluster14>>
+パーク, ショー, ランド
+top3 entities near to cluster16>>
+室内, 屋内, 屋外
+top3 entities near to cluster20>>
+和, 広い, 大
+top3 entities near to cluster21>>
+空中, 水上, 水中
+top3 entities near to cluster22>>
+ソリ遊び, 遊ぶ, ソリ
+top3 entities near to cluster23>>
+公園, 遊具, 広場
+top3 entities near to cluster24>>
+冬, 夏, 冬場
+top3 entities near to cluster25>>
+霧雨
+top3 entities near to cluster27>>
+麓, 山, 雲
+top3 entities near to cluster30>>
+上着, 防寒, 雨具
+top3 entities near to cluster31>>
+気温, 積雪, 標高
+top3 entities near to cluster32>>
+天気, 天候, 快晴
+top3 entities near to cluster33>>
+つれ, 同伴
+top3 entities near to cluster34>>
+子, ちゃん, 友達
+top3 entities near to cluster39>>
+子供, 幼児, 小学生
+top3 entities near to cluster40>>
+学年, 小学生, 代
+top3 entities near to cluster42>>
+生態系, 生態, 同系
+top3 entities near to cluster43>>
+日, 月, 年
+top3 entities near to cluster47>>
+全員, 家族
+top3 entities near to cluster48>>
+息子, 母親, 子供
+top3 entities near to cluster49>>
+順番, 種類, 時間
+top3 entities near to cluster54>>
+景色, 風景, 写真
+top3 entities near to cluster55>>
+遊具, 迷路, 滑り台
+top3 entities near to cluster58>>
+パス, フリー, 対象
+top3 entities near to cluster59>>
+施設, 駐車場, 駐車
+top3 entities near to cluster60>>
+休業, 休止, 運行
+top3 entities near to cluster63>>
+到着, 案内, 持参
+top3 entities near to cluster64>>
+点検, 掃除, 塗装
+top3 entities near to cluster65>>
+係員, 料金
+top3 entities near to cluster66>>
+園内, 入園, 入場
+top3 entities near to cluster67>>
+飲食店, 飲食, 食事
+top3 entities near to cluster68>>
+パン焼き, パン, 焼き立て
+top3 entities near to cluster70>>
+遊ぶ, 待ち合わせ

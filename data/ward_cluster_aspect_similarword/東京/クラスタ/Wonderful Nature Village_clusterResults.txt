@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Wonderful Nature Village>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+予約, 電話
+cluster1:(4)
+対応, こと, 方, 説明
+cluster2:(1)
+態度
+cluster3:(18)
+自然, カフェ, 景色, 隣, 人, 楽しみ, 夏, 客, 女性スタッフ, 教育, 施設, 友達, 敷地, ドッグラン, プール, バカ, キャンセル, バーベキュー
+cluster4:(5)
+東京サマーランド, 犬, 都, 大型犬, ワンちゃん
+cluster5:(1)
+かー↑↑
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 6
+deleted 0entities.

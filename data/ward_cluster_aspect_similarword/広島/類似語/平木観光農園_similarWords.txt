@@ -1,0 +1,11 @@
+--------------------similar_words:平木観光農園--------------------
+top3 entities near to cluster0>>
+みかん, ミカン, はっさく
+top3 entities near to cluster1>>
+海, 海辺, 陸
+top3 entities near to cluster2>>
+田んぼ, 農家
+top3 entities near to cluster3>>
+景色, 風景, 眺望
+top3 entities near to cluster4>>
+狩り, 狩る, 狩っ

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:澪標>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡県, 西気賀
+cluster1:(2)
+駐車場, 周遊自転車道
+cluster2:(2)
+落葉がり, うなぎ屋
+cluster3:(2)
+灯台, 標識
+cluster4:(5)
+紅葉, 湖, 空気, 景色, 季節
+cluster5:(4)
+浜名湖, 水, 雨上がり, 大阪
+cluster6:(4)
+昔, もの, そば, 場所
+cluster7:(1)
+役目
+cluster8:(1)
+澪標
+cluster9:(1)
+説明板
+cluster10:(1)
+中国浙江省友好記念公園
+
+howmany entities : 25
+howmany clusters : 11
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 12entities.

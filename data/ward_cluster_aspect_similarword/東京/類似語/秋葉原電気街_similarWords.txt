@@ -1,0 +1,59 @@
+--------------------similar_words:秋葉原電気街--------------------
+top3 entities near to cluster0>>
+電気屋, 電器屋, 電気, 電器
+top3 entities near to cluster1>>
+電気, 電機, 電力
+top3 entities near to cluster2>>
+電機, 電器, 部品
+top3 entities near to cluster3>>
+部品, 電子, パーツ
+top3 entities near to cluster4>>
+量販店, 電器店, 量販, 電器
+top3 entities near to cluster5>>
+電化, 製品, 家電
+top3 entities near to cluster6>>
+家電, 量販, 家具
+top3 entities near to cluster7>>
+ゲーム, ファッション, ショップ
+top3 entities near to cluster8>>
+地元, 大学, 若者
+top3 entities near to cluster9>>
+海外, 国内, 各国
+top3 entities near to cluster11>>
+メイド, 喫茶, 姿
+top3 entities near to cluster12>>
+アキバ, オタク, ・・アキバ
+top3 entities near to cluster14>>
+自作, 自演, パソコン
+top3 entities near to cluster15>>
+パソコン, ＰＣ, ノーパソ
+top3 entities near to cluster17>>
+電池, 電波, 携帯
+top3 entities near to cluster18>>
+無線機, 無線, 受令機, 受令
+top3 entities near to cluster19>>
+品等, 揃え
+top3 entities near to cluster20>>
+仕事帰り, 買い物帰り, 買い物, 仕事
+top3 entities near to cluster21>>
+パーツ, 商品, 部品
+top3 entities near to cluster22>>
+金券, ショップ, チケット
+top3 entities near to cluster24>>
+路地裏, 路地, 裏通り
+top3 entities near to cluster25>>
+繁華街, 商店街, 繁華, 商店
+top3 entities near to cluster26>>
+商店, 活気, 町
+top3 entities near to cluster27>>
+駅, 駅前, 構内
+top3 entities near to cluster28>>
+飲食店, 店舗, 飲食
+top3 entities near to cluster29>>
+飾電, 飾, 看板
+top3 entities near to cluster31>>
+オタク系, 生態系, オタク, 生態
+top3 entities near to cluster32>>
+アキバ系, 瑠世, アキバ
+top3 entities near to cluster33>>
+人達, 人々

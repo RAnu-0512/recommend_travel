@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:角島灯台公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 有料駐車場, 駐車場代
+cluster1:(17)
+中, 横, 日本, 隣, 内側, 感じ, 近く, 海外, 他, 外, 各地, 場所, 時間, 下, 前述, 上, 人
+cluster2:(4)
+冬, 空, オレンジ色, 音
+cluster3:(2)
+トイレ, 出入り
+cluster4:(4)
+グリーン, コントラスト, 夕暮れ, ハマユウ
+cluster5:(2)
+遊歩道, ベンチ
+cluster6:(1)
+サザエ
+cluster7:(1)
+息切れ
+cluster8:(1)
+ウッドデッキ
+cluster9:(1)
+休憩
+cluster10:(1)
+イカ
+cluster11:(26)
+階段, 景観, 有料, 洋風, 海, 周辺, 建物, 橋, 景色, 像, 丘, 島, 感傷, 鳥居, 宿舎, 価値, 資料, 公共, 外観, 海岸, 海側, 職員, 公園, 店, 団体ツアー, 歴史
+cluster12:(2)
+山口県, あまがせ
+cluster13:(9)
+灯台周辺, 螺旋階段, お土産屋, 展望所, 灯台, 記念館, 灯台公園, 散策路, 螺旋状
+cluster14:(3)
+角島灯台記念館, 角島灯台公園, 角島灯台
+cluster15:(3)
+角島, 角島大橋, 〜〜角島
+cluster16:(3)
+角島大橋手前の海士ヶ瀬, 角島灯台周辺一帯が公園, 角島夢崎波の公園
+
+howmany entities : 83
+howmany clusters : 17
+howmany entities (more than1entities) : 83
+howmany clusters (more than1entities) : 17
+deleted 0entities.

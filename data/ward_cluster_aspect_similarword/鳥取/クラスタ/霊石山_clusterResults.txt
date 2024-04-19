@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霊石山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+千代川, 日本
+cluster1:(2)
+景色, 海
+cluster2:(1)
+霊石山
+
+howmany entities : 5
+howmany clusters : 3
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 3
+deleted 0entities.

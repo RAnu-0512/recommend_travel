@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐鳴湖公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 駐車場スペース
+cluster1:(24)
+車, アクセス, ウォーキングスペース, タイヤ, 佐鳴湖, 愛犬, 運, ポイント, オアシス, 蟹, ジョギング, 気持ち, ランニング, 富士山, アクトタワー, 遊歩道, ウォーキング, チンタ, スポット, ランナー, ネット, トイレ, オススメ, 小学生
+cluster2:(17)
+大勢, 売店, 流れ, 各所, 地元, 狙い, 北側, 人, 時間, 日, 屋外, 冬場, 子供, 場所, 人気, 人たち, 方
+cluster3:(3)
+散歩コース, 散策, 散歩
+cluster4:(2)
+遠足, 弁当
+cluster5:(2)
+散策路, 公園沿い
+cluster6:(1)
+休憩所
+cluster7:(1)
+焼け対策
+cluster8:(2)
+野鳥観察, 野鳥
+cluster9:(2)
+周辺住民, 浜松市民
+cluster10:(9)
+水辺, 湖, 癒し, 池, 公園, 湖畔, 自然, 桜, 佐鳴湖岸
+cluster11:(5)
+釣りスポット, チヌ, ラン, ボラ, タナ
+cluster12:(1)
+帰帆橋付近
+
+howmany entities : 71
+howmany clusters : 13
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 5
+deleted 13entities.

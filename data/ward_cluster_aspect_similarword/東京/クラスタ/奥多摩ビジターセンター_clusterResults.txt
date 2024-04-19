@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥多摩ビジターセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光案内所, 案内所
+cluster1:(5)
+観光, 奥多摩観光, 観光地, 観光情報, 観光スポット
+cluster2:(3)
+館内, 昼食, 展示
+cluster3:(11)
+場所, 近く, 形, 施設, 顔, 情報, 時間, 方, こと, 周辺, 方々
+cluster4:(9)
+スタッフ, ビジターセンター, ところ, ウォーキング, 真っ先, パンフレット, トラッキング, アドバイス, ルート
+cluster5:(3)
+最後, 次回, 今回
+cluster6:(8)
+自然, 東京, 紅葉, 散策マップ, 奥多摩駅, 奥多摩ビジターセンター, 奥多摩, 自然情報
+cluster7:(4)
+氷川渓谷, ハイキング道, 登山道, 登山
+cluster8:(1)
+大多摩ウォーキングトレイルで古里駅
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 9
+deleted 0entities.

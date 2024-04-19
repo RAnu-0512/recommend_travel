@@ -1,0 +1,11 @@
+--------------------similar_words:萩焼会館_萩焼体験--------------------
+top3 entities near to cluster0>>
+萩焼, 萩焼き, 萩
+top3 entities near to cluster1>>
+土店, くろ, 土
+top3 entities near to cluster2>>
+予約, 体験, 受付
+top3 entities near to cluster3>>
+体験, 体験談, 体感
+top3 entities near to cluster4>>
+送料込み, 送料, 込

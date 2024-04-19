@@ -1,0 +1,7 @@
+--------------------similar_words:ならここの里--------------------
+top3 entities near to cluster1>>
+電話, 携帯, 応対
+top3 entities near to cluster3>>
+子供, 女性, 男性
+top3 entities near to cluster4>>
+山間, 山奥, キャンプ

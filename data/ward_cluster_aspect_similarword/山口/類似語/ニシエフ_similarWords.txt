@@ -1,0 +1,9 @@
+--------------------similar_words:ニシエフ--------------------
+top3 entities near to cluster0>>
+企業, 製品, 工場
+top3 entities near to cluster1>>
+納入, 発注, 納品
+top3 entities near to cluster2>>
+規格, 国際, 標準
+top3 entities near to cluster3>>
+点検, 保守, メンテナンス

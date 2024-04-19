@@ -1,0 +1,15 @@
+--------------------similar_words:福山サービスエリア上り--------------------
+top3 entities near to cluster1>>
+バラ, 薔薇, ばら
+top3 entities near to cluster3>>
+エリア, 食べ物, レストラン
+top3 entities near to cluster4>>
+土産, 食事, 食べ物
+top3 entities near to cluster5>>
+発祥, 起源, 濃厚
+top3 entities near to cluster6>>
+駐車場, 駐車
+top3 entities near to cluster7>>
+鶏, 醤油, 味噌
+top3 entities near to cluster8>>
+豚骨, 脂, 豚

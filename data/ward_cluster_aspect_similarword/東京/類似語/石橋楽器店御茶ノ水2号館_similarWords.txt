@@ -1,0 +1,17 @@
+--------------------similar_words:石橋楽器店御茶ノ水2号館--------------------
+top3 entities near to cluster0>>
+駅橋, 駅, 駅前
+top3 entities near to cluster1>>
+方向, 方角
+top3 entities near to cluster2>>
+奥口, 奥, 左手
+top3 entities near to cluster4>>
+店舗, 店員
+top3 entities near to cluster5>>
+中古, 新品
+top3 entities near to cluster6>>
+楽器, 石橋, 弦楽器
+top3 entities near to cluster7>>
+楽器, 弦楽器, 管楽器
+top3 entities near to cluster8>>
+楽器店, 楽器

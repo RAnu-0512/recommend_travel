@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ副都心線西早稲田駅--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 構内
+top3 entities near to cluster1>>
+学生, 地下, 学校
+top3 entities near to cluster2>>
+都心線, 各駅, 都心

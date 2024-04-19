@@ -1,0 +1,9 @@
+--------------------similar_words:龍昌寺--------------------
+top3 entities near to cluster1>>
+寺院, 本堂, お寺
+top3 entities near to cluster2>>
+駅, 周辺, 沿線
+top3 entities near to cluster3>>
+駅線, 下車, 駅
+top3 entities near to cluster4>>
+昌, 龍, 寺

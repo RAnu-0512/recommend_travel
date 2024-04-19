@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船通山(鳥取県日南町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+栃木県, 佐賀県
+cluster1:(6)
+伝説, 登山, お湯, 肌, ヤマタノオロチ, 船通山
+cluster2:(5)
+嬉野温泉, 斐乃上温泉, 温泉, 喜連川温泉, 斐乃上荘
+cluster3:(2)
+宿泊施設, 温泉情報誌
+cluster4:(1)
+日本三大 美肌湯
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:皇座山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+人, 無人島, 皇座山
+cluster1:(2)
+近く, 場所
+cluster2:(1)
+海
+cluster3:(1)
+島々
+cluster4:(1)
+鳥居
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

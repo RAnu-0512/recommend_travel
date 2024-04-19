@@ -1,0 +1,81 @@
+--------------------similar_words:東京ミッドタウン--------------------
+top3 entities near to cluster0>>
+商業, 施設, 複合
+top3 entities near to cluster1>>
+事態, 宣言, 緊急
+top3 entities near to cluster2>>
+坂玉, 芋, 坂
+top3 entities near to cluster3>>
+高層, 住宅, 富裕
+top3 entities near to cluster4>>
+駅, 地下鉄, 直結
+top3 entities near to cluster5>>
+都, 港, 区
+top3 entities near to cluster6>>
+施設, 複合, 設備
+top3 entities near to cluster7>>
+芝生, 公園, 広場
+top3 entities near to cluster8>>
+散策, 散歩, 公園
+top3 entities near to cluster9>>
+休憩場, 休憩, 駐車場, 駐車
+top3 entities near to cluster10>>
+高級店, 飲食店, 飲食, 高級
+top3 entities near to cluster11>>
+レストラン, ランチ, カフェ
+top3 entities near to cluster12>>
+買い物, カート, 買物
+top3 entities near to cluster13>>
+おすすめ, ススメ, オススメ
+top3 entities near to cluster14>>
+地下街, 地下鉄, 街並み
+top3 entities near to cluster16>>
+クリスマス, シーズン, イルミネーション
+top3 entities near to cluster17>>
+ミッドタウン, イルミネーション, ウェストウォーク
+top3 entities near to cluster18>>
+シャンパン, サントリー, ウイスキー
+top3 entities near to cluster19>>
+デザイン, イベント, オブジェ
+top3 entities near to cluster20>>
+テナント, オフィス, スペース
+top3 entities near to cluster21>>
+アパレル, ブランド, ブティック
+top3 entities near to cluster22>>
+デパート, スーパー, 百貨店
+top3 entities near to cluster24>>
+雰囲気, 色合い, 気持ち
+top3 entities near to cluster25>>
+ペット, ショップ, ペットショップペット
+top3 entities near to cluster26>>
+ショップ, アパレル, ブランド
+top3 entities near to cluster27>>
+ショップ, セレクト, 通販
+top3 entities near to cluster28>>
+ストア, サイズ, サイト
+top3 entities near to cluster29>>
+イデー, ショップ, デザインストア
+top3 entities near to cluster30>>
+スクエア, モール, ショッピング
+top3 entities near to cluster31>>
+美術館, アート, 絵画
+top3 entities near to cluster32>>
+シネマズ, シネマズ・, シネマズ・シャンテ
+top3 entities near to cluster34>>
+時間, 期間, 日
+top3 entities near to cluster35>>
+子供, 友達, 友人
+top3 entities near to cluster39>>
+テラス, 窓, 中庭
+top3 entities near to cluster40>>
+店内, 店員, 館内
+top3 entities near to cluster41>>
+名店, 行列, 名物
+top3 entities near to cluster42>>
+商品, 店舗
+top3 entities near to cluster43>>
+靴, 雑貨
+top3 entities near to cluster44>>
+会場, 展示, 跡地
+top3 entities near to cluster45>>
+商業系, 芸術系, 商業, 芸術

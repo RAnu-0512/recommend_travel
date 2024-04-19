@@ -1,0 +1,79 @@
+--------------------similar_words:宮島ロープウェイ(広島観光開発)--------------------
+top3 entities near to cluster0>>
+町並み, 街並み, 写真
+top3 entities near to cluster1>>
+気持ち, 雰囲気, 値打ち
+top3 entities near to cluster2>>
+乗り継ぎ, 乗り換え, 乗換
+top3 entities near to cluster3>>
+見晴らし, パノラマ, 眺望
+top3 entities near to cluster4>>
+ロケーション, シーズン, ひととき
+top3 entities near to cluster5>>
+スニーカー, スライム, コッペパン
+top3 entities near to cluster6>>
+ロープウェー, ロープーウェイ, ロープウエイ
+top3 entities near to cluster7>>
+雪景色, 獅子岩, 銀世界
+top3 entities near to cluster8>>
+もみじ, あかん, モミジ
+top3 entities near to cluster10>>
+ロープ, ワイヤ, クローブヒッチ
+top3 entities near to cluster11>>
+利用者, 利用, 使用者, 使用
+top3 entities near to cluster12>>
+子供, 人達
+top3 entities near to cluster15>>
+時間, 徒歩
+top3 entities near to cluster16>>
+代, 電車, 燃車
+top3 entities near to cluster17>>
+往復, 片道, 乗り継ぎ
+top3 entities near to cluster18>>
+乗り場, 乗り継ぎ, 始発
+top3 entities near to cluster19>>
+乗車, 定員, 運転
+top3 entities near to cluster21>>
+神社, 厳島, 境内
+top3 entities near to cluster22>>
+循環式, 交走式, 交走, 循環
+top3 entities near to cluster24>>
+島, 島々, 島内
+top3 entities near to cluster25>>
+海, 山側, 海辺
+top3 entities near to cluster26>>
+島外, 島, 外側
+top3 entities near to cluster27>>
+原始, 林, 原生
+top3 entities near to cluster28>>
+時期, 紅葉, 季節
+top3 entities near to cluster29>>
+季節, 時期, 時季
+top3 entities near to cluster30>>
+紅葉, もみじ, モミジ
+top3 entities near to cluster31>>
+混雑, 閑散, 込み合う
+top3 entities near to cluster32>>
+家族, 旅, 新婚
+top3 entities near to cluster33>>
+連休, ＧＷ, ゴールデンウィーク
+top3 entities near to cluster34>>
+景色, 眺望, 絶景
+top3 entities near to cluster35>>
+山頂, 山麓, 頂上
+top3 entities near to cluster36>>
+木々, 新緑, 樹木
+top3 entities near to cluster37>>
+天気雨, 天気, 寒さ
+top3 entities near to cluster38>>
+登り, 急坂
+top3 entities near to cluster39>>
+山頂, 展望, 頂上
+top3 entities near to cluster40>>
+バス, 送迎, 無料
+top3 entities near to cluster41>>
+割引, 割引き, 運賃
+top3 entities near to cluster42>>
+乗車券, 乗船券, 乗車, 乗船
+top3 entities near to cluster43>>
+駅, 駅前, 山頂

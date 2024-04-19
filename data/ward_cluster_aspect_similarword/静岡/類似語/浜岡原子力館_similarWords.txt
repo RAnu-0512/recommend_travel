@@ -1,0 +1,27 @@
+--------------------similar_words:浜岡原子力館--------------------
+top3 entities near to cluster0>>
+館, 思修, 科学
+top3 entities near to cluster2>>
+原発, 原子力, 事故
+top3 entities near to cluster4>>
+発電, 原子力, 水力
+top3 entities near to cluster6>>
+撮影, 見学, 展示
+top3 entities near to cluster8>>
+施設, 設備, 敷地
+top3 entities near to cluster10>>
+自然, 全体, 先端
+top3 entities near to cluster11>>
+景色, 眺め, 迫力
+top3 entities near to cluster12>>
+模型, レゴ, 風車
+top3 entities near to cluster13>>
+映画, 映像, 館内
+top3 entities near to cluster16>>
+アトラクション, シアター, 映画
+top3 entities near to cluster19>>
+子ども, 子供, お子様
+top3 entities near to cluster20>>
+友人, 家族, 妻
+top3 entities near to cluster23>>
+対策, 展望

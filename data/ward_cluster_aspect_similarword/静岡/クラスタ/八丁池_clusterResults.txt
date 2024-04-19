@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丁池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登山初心者, 標高
+cluster1:(2)
+昭和, 天皇
+cluster2:(5)
+折角, 全体, こと, 中, 近く
+cluster3:(3)
+天城峠, 天城山, 八丁池
+cluster4:(2)
+ルート, バス停
+cluster5:(3)
+つつじ, ピンク色, 伊豆半島
+cluster6:(1)
+ナオコ
+cluster7:(1)
+バス
+cluster8:(5)
+木々, 緑, 池, スケート場, 歩道
+cluster9:(2)
+樹林帯, 展望台
+cluster10:(8)
+伊豆市, 八丁池口, 地元出身, 天城, 下り御幸, 上り御幸歩道, 天城高原, 伊豆の瞳
+
+howmany entities : 34
+howmany clusters : 11
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 10entities.

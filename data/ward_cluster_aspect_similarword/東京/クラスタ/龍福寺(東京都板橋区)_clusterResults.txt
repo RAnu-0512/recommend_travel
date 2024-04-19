@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍福寺(東京都板橋区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+屋根, 建物, 板, 造り
+cluster1:(15)
+場所, 人, 手入れ, ところ, 面持ち, 価値, 趣, 由来, 真言宗, 歴史, こと, 雰囲気, 地元, 時代, もの
+cluster2:(3)
+距離, 徒歩, 垣根
+cluster3:(22)
+神社, 鐘楼, 小豆, 寺内, 碑文, 古刹, 板橋, お堂, 紅葉, 本堂, 山門, 創建, 小豆沢神社, 寺院, 鎌倉, 寺, 小豆沢, 板碑, 地名, 室町, 植木もり, 境内
+cluster4:(2)
+龍福寺, 真言宗智山派
+cluster5:(2)
+東京都, 板橋区
+cluster6:(2)
+志村坂上駅, 志村城
+cluster7:(1)
+室町時代末
+
+howmany entities : 51
+howmany clusters : 8
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 8
+deleted 0entities.

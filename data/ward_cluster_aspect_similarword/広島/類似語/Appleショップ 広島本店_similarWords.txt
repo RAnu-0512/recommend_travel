@@ -1,0 +1,15 @@
+--------------------similar_words:Appleショップ 広島本店--------------------
+top3 entities near to cluster0>>
+ショップ, ストア, 直営店
+top3 entities near to cluster1>>
+アップル, エディオン, アップルジャパン
+top3 entities near to cluster3>>
+ビル, タワービル, ビルディング
+top3 entities near to cluster4>>
+修理, 補修, 修繕
+top3 entities near to cluster5>>
+駅, ビルアッセ, 駅前
+top3 entities near to cluster6>>
+安心感, 不安感, 安心, 不安
+top3 entities near to cluster7>>
+蔦屋, 蔦, 家電

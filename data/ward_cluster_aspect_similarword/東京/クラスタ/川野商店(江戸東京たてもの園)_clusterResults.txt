@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川野商店(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+傘, 和傘問屋, 和傘, 傘づくり
+cluster1:(6)
+中, 江戸川区, 店, 川野商店, 小岩, 建物
+cluster2:(1)
+江戸東京たてもの園
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

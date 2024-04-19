@@ -1,0 +1,51 @@
+--------------------similar_words:タワーレコード渋谷店--------------------
+top3 entities near to cluster0>>
+ＣＤ, 発売, 音源
+top3 entities near to cluster1>>
+アーティスト, インディーズ, アーチスト
+top3 entities near to cluster2>>
+アルバム, リリース, インスト
+top3 entities near to cluster3>>
+イベント, ショップ, コンセプト
+top3 entities near to cluster4>>
+タワレコ, 待ち合わせ, 買い物
+top3 entities near to cluster5>>
+スペース, フロア, 売り場
+top3 entities near to cluster6>>
+出逢い, 出会い, 出合い
+top3 entities near to cluster7>>
+ポップス, ポップ, ジャズ
+top3 entities near to cluster8>>
+手書き, サイン, カード
+top3 entities near to cluster9>>
+イベント, コラボ, コラボレーション
+top3 entities near to cluster10>>
+アニメ, スタッフ, ショップ
+top3 entities near to cluster11>>
+テーマ, ジャンル, テイスト
+top3 entities near to cluster12>>
+コナン, ジムシィ, コナンコナン
+top3 entities near to cluster15>>
+大きい, 少ない
+top3 entities near to cluster16>>
+立地, 混雑, 案内
+top3 entities near to cluster19>>
+内容, 中身, 情報
+top3 entities near to cluster22>>
+手間, 手間隙, 労力
+top3 entities near to cluster24>>
+音楽, 映画, 楽曲
+top3 entities near to cluster25>>
+展示, 出展
+top3 entities near to cluster26>>
+店舗, 店内
+top3 entities near to cluster27>>
+会場, イベント, ライブ
+top3 entities near to cluster28>>
+特設, 特集, コーナー
+top3 entities near to cluster29>>
+商品, 作品, 企画
+top3 entities near to cluster30>>
+楽曲, 新曲
+top3 entities near to cluster31>>
+タワー, ビル, レコード

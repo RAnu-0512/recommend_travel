@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みのり庵 和み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+練切, 練り切り作り
+cluster1:(4)
+抹茶, 餅, 和菓子屋, 菓子
+cluster2:(2)
+学校, 授業
+cluster3:(5)
+参考, 感じ, 形, 説明, 感想
+cluster4:(10)
+小学生, テーブル, 見栄え, ボウル, ショーケース, モチーフ, アルコールスプレー, デザイン, うさぎ, システム
+cluster5:(3)
+手拭き, 茶菓子, 和菓子
+cluster6:(3)
+店, 娘, 手
+cluster7:(1)
+金
+cluster8:(1)
+立つスペース
+cluster9:(5)
+和菓子体験, 和菓子作り, 和菓子作り体験, 体験, 奥深さ
+
+howmany entities : 36
+howmany clusters : 10
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 10
+deleted 0entities.

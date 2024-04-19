@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日暮里南公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+右, 左, 右側
+cluster1:(2)
+交差点, 歩道橋
+cluster2:(3)
+アクセス, ところ, 京成電鉄
+cluster3:(1)
+常磐線
+cluster4:(1)
+地元
+cluster5:(1)
+地図
+cluster6:(1)
+階段
+cluster7:(1)
+アクセス方法
+cluster8:(10)
+噴水, 芝生, 公園, じゃぶじゃぶ池, お子, 花見, 噴水広場, 桜, 遊具, 子供たち
+cluster9:(12)
+日暮里南公園, 鴬谷方面, 山手線, 横断歩道, 日暮里駅, 美容専門学校, 改札, JR東日本京浜東北線, 信号機, 住宅地, 商店街, 舎人ライナー
+
+howmany entities : 35
+howmany clusters : 10
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 10
+deleted 0entities.

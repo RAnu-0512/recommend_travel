@@ -1,0 +1,21 @@
+--------------------similar_words:浅野長矩・赤穂義士墓--------------------
+top3 entities near to cluster1>>
+滞在, 訪問, 来訪
+top3 entities near to cluster2>>
+志門, 志士, 志
+top3 entities near to cluster4>>
+世界, 国内, 各国
+top3 entities near to cluster5>>
+忠臣蔵, 泉岳寺, ホテル
+top3 entities near to cluster6>>
+主人, 家人
+top3 entities near to cluster7>>
+読書, 片手, 読みかけ
+top3 entities near to cluster8>>
+手術, 入院, 退院
+top3 entities near to cluster9>>
+参拝, 境内, お参り
+top3 entities near to cluster10>>
+浪士, 長矩, 義士
+top3 entities near to cluster11>>
+墓所, 墓石

@@ -1,0 +1,13 @@
+--------------------similar_words:滄浪園--------------------
+top3 entities near to cluster0>>
+庭園, 中庭, 邸宅
+top3 entities near to cluster1>>
+時代, 幕末, 末期
+top3 entities near to cluster2>>
+沖, 沖合, 素封
+top3 entities near to cluster3>>
+ダム, 建設, ダムサイト
+top3 entities near to cluster4>>
+滄浪, 潭公園, 潭公
+top3 entities near to cluster5>>
+年, 月, 日

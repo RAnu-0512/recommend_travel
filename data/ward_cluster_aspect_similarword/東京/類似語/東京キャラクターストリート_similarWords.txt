@@ -1,0 +1,45 @@
+--------------------similar_words:東京キャラクターストリート--------------------
+top3 entities near to cluster0>>
+キティ, ハロー, キティちゃん
+top3 entities near to cluster1>>
+子供, 大人, 子ども
+top3 entities near to cluster2>>
+子連れ, おすすめ, オススメスポット
+top3 entities near to cluster3>>
+ファン, 馴染み, キャラクター
+top3 entities near to cluster4>>
+ショップ, ショッピング, デパート
+top3 entities near to cluster5>>
+ギフト, ショップ, 贈り物
+top3 entities near to cluster6>>
+テレビ, アニメ, ディズニー
+top3 entities near to cluster7>>
+ランド, おかし, パーク
+top3 entities near to cluster8>>
+森永, 森永製菓, モリナガ
+top3 entities near to cluster9>>
+限定, 期間, 数量
+top3 entities near to cluster10>>
+番組, テレビ, ＴＶ
+top3 entities near to cluster11>>
+キャラ, キャラクター, アニメ
+top3 entities near to cluster12>>
+アニメ, テレビ, アニメーション
+top3 entities near to cluster13>>
+グッズ, グッツ, キャラクター
+top3 entities near to cluster14>>
+人気, 大人気, 定番
+top3 entities near to cluster15>>
+各局, 在京, 各社
+top3 entities near to cluster17>>
+土産店, 雑貨店, 土産, 雑貨
+top3 entities near to cluster19>>
+大丸, 脇, そごう
+top3 entities near to cluster20>>
+地下街, 地下道, 地下
+top3 entities near to cluster21>>
+改札, 構内, 駅
+top3 entities near to cluster22>>
+北口, 南口
+top3 entities near to cluster23>>
+在京局, キー局, 在京, キー

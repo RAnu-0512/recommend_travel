@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西農鳥岳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+装備, 山頂, 富士山, 山, 思い出, 登山, 想像, 農鳥岳
+cluster1:(2)
+西農鳥岳, 北岳
+cluster2:(1)
+山塊
+cluster3:(1)
+達成感
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

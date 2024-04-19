@@ -1,0 +1,13 @@
+--------------------similar_words:都営大江戸線 大門駅--------------------
+top3 entities near to cluster0>>
+地下鉄, 乗り継ぎ, 乗換
+top3 entities near to cluster1>>
+時間, 日数, 所要
+top3 entities near to cluster2>>
+地上, 地表, 地下
+top3 entities near to cluster3>>
+先頭, 。[▲, 242572
+top3 entities near to cluster4>>
+都営線, 都営, 都営地下鉄線, 都営地下鉄
+top3 entities near to cluster5>>
+駅, 改札, 駅前

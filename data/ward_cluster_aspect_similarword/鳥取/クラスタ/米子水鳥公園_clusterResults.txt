@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米子水鳥公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観察棟, 観察, 見学, 鑑賞スポット
+cluster1:(3)
+つばさ池, 白鳥, 中海
+cluster2:(5)
+時期, こと, 事, 時間, 場所
+cluster3:(4)
+傍, 近く, 昔, 途中
+cluster4:(5)
+中心, 多く, 種類, 人, 方
+cluster5:(13)
+コハクチョウ, ところ, カイツブリ, カルガモ, 渡り鳥, 望遠鏡, 西日本, カメラマン, レンタサイクル, 気持ち, サンクチュアリ, レンタカー, スポット
+cluster6:(3)
+建物, 屋外, 写真
+cluster7:(5)
+動物, 公園, 自然, 子供, 市
+cluster8:(1)
+心
+cluster9:(1)
+東端
+cluster10:(1)
+お勧め
+cluster11:(19)
+水鳥, 生息地, 琥珀鳥, 彦名町, ラムサール条約, 米子市, 鳥観察, 鳥たち, 日本屈指, 湿地公園, 鳥, 集団越冬地, 鳥取県, 野鳥生息保護区, 野鳥, 飛来地, 野鳥観察, 米子水鳥公園, 水鳥公園
+
+howmany entities : 64
+howmany clusters : 12
+howmany entities (more than1entities) : 64
+howmany clusters (more than1entities) : 12
+deleted 0entities.

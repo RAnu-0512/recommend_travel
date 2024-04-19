@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ささやき橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+道路, たもと, 橋
+cluster1:(6)
+方, 保存, 面, 場所, 昔, 伝え
+cluster2:(1)
+逢瀬
+cluster3:(1)
+ゴムマット
+cluster4:(1)
+鞆
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

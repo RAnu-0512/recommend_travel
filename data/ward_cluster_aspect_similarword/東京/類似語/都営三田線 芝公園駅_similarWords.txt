@@ -1,0 +1,9 @@
+--------------------similar_words:都営三田線 芝公園駅--------------------
+top3 entities near to cluster0>>
+喧騒, 喧噪, 都会
+top3 entities near to cluster1>>
+芝公園, 大門, 増上寺
+top3 entities near to cluster2>>
+入り口付近, 入り口, 範囲
+top3 entities near to cluster3>>
+駅, 芝公園, 駅前

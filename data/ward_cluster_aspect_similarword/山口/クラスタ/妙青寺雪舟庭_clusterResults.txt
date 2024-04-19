@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妙青寺雪舟庭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+桜, 庭園, 池
+cluster1:(4)
+ほこり, 雰囲気, 奥, 光景
+cluster2:(1)
+雪舟
+cluster3:(2)
+妙青寺雪舟庭, 妙青寺
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二ツ堀みかん園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+雛まつり, ほう, 時期
+cluster1:(2)
+坂道, 坂
+cluster2:(1)
+みかん狩り
+cluster3:(1)
+文化園
+cluster4:(1)
+ぽんかん
+cluster5:(1)
+駐車場
+cluster6:(1)
+稲取散策
+cluster7:(1)
+添乗員
+cluster8:(1)
+極早生
+
+howmany entities : 12
+howmany clusters : 9
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 9entities.

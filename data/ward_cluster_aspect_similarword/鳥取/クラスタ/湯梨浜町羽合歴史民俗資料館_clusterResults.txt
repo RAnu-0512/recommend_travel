@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯梨浜町羽合歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+長瀬高浜遺跡, 湯梨浜町
+cluster1:(2)
+民俗資料館, 資料館
+cluster2:(10)
+埴輪, 鉄器, 土器, 構成, 中世, 役場, 歴史, 弥生時代, 見応え, 館内
+cluster3:(5)
+古墳群, 橋津古墳群, 出土品, 古代遺跡, 巨大複合遺跡
+cluster4:(1)
+湯梨浜町羽合歴史民俗資料館
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

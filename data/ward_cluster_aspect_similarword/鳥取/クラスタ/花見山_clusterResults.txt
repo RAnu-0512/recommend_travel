@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花見山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岡山県, 岡山県の山
+cluster1:(2)
+福島, 福島県
+cluster2:(2)
+大山, 鳥取
+cluster3:(1)
+三春滝桜
+cluster4:(44)
+時期, コース, クチコミ, 満開, トイレ, スキー場, トイレ掃除, シャトルバス, 登山, 観光バス, 散策, 車, GW, 道標, 桜, 不機嫌, 臨時駐車場, 花見, 風景, 河川敷, ソメイヨシノ, 観光スポット, 春, 冬, 事, 紅葉, スキー, 他, 駐車場, スポーツ, 人, 自然, 気持ち, 花, 見頃, 頂上, 色, 花見山公園, 方, 季節, ハイキング, スポット, 女性, 場所
+
+howmany entities : 51
+howmany clusters : 5
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 5
+deleted 0entities.

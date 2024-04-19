@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふれあい牧場展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+休憩室, 休憩所, 駐車場, 二階建て, 展望, 団体バスツアー, 展望デッキ, 展望台, 貸切状態, ふれあい牧場展望台
+cluster1:(2)
+八丈富士, 八丈
+cluster2:(2)
+ふれあい牧場, 牧場
+cluster3:(14)
+先, レモン, 手洗い, 驚, 霧, 牛, 八丈島, トイレ, 海, 行動, 方, ガイド, 風, バック
+cluster4:(8)
+景色, 通路, 中腹, 天気, ツアー客, 眼下, 道, 登山
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 5
+deleted 0entities.

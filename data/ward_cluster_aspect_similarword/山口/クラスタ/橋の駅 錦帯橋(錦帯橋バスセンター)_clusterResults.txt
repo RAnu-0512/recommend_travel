@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:橋の駅 錦帯橋(錦帯橋バスセンター)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+岩国駅, 新岩国駅, JR岩国駅
+cluster1:(3)
+岩国, 岩国寿司, 岩国城
+cluster2:(7)
+高速バス, バスセンター, 錦帯橋バスセンター, リムジンバス, バス, 路線バス, バス乗り場
+cluster3:(22)
+前, ノンストップ, 電子マネー, 乗り場, JR, 錦帯橋, 付近, コンビニ, バスターミナル, センター, 新幹線, ロッカー, モノ, 時間, 関東, 車内, 駅, フリーパス, 運行, 先, 広島, しょう
+cluster4:(2)
+乗り放題, 運転手
+cluster5:(10)
+錦国橋, 物産館, 両替機, 日本有数, 観光地, 岩国錦帯橋空港, 土産物屋, 茶処, 両替, 観光
+
+howmany entities : 47
+howmany clusters : 6
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 6
+deleted 0entities.

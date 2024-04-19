@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立赤塚公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散策見学, 街歩き
+cluster1:(2)
+野球場, バーベキュー場
+cluster2:(8)
+高島平駅, 噴水, 公園, 団地, 駅, 広場, 高齢, 遊具
+cluster3:(4)
+事, 印象, 方, 起伏
+cluster4:(9)
+水, 自然, 空間, 緑, 滝, 近く, 山頂, 夏, 周辺
+cluster5:(2)
+弁当, 散歩
+cluster6:(2)
+バスケットコート, テニスコート
+cluster7:(12)
+水遊び, コンビニ, 高島平, ジョギング, グラウンド, ランニングコース, BBQ, 美術館, バスケットボールゴール, 真ん中, コース, バーベキュー
+cluster8:(5)
+子ども, 人, 子供, 小さなお子さん, 子
+cluster9:(1)
+小さなお子
+cluster10:(13)
+東京都, 首都高速道路, 赤塚城跡, 都立, 区立植物園, 都立赤塚公園, 都立公園, 板橋区, 広さ, 植物園, 郷土資料館, 区立郷土資料館, 首都高
+
+howmany entities : 60
+howmany clusters : 11
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 11
+deleted 0entities.

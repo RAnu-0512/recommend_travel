@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:間々下海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+透明度, 絶景透明度
+cluster1:(13)
+水, プライベートビーチ, 景色, サーフィン, 状態, 子供, 近く, 映像, 写真, 中, シュノーケリング, 海水浴, 訪問
+cluster2:(5)
+島, 波, 石, 岩, 風
+cluster3:(6)
+海水, 海岸, 海, カニ, 砂浜, 魚
+cluster4:(1)
+旅番組
+cluster5:(1)
+台風直撃
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取砂丘サンドボードスクール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+砂まみれ, 砂
+cluster1:(21)
+おススメ, 受付, 気, 説明, 息子, 体験, こと, スタート位置, 世話, 半分, 指導, 想像, 人, 度胸, 話, もの, 写真, 方, 最後, 対応, 時間
+cluster2:(3)
+砂丘, 海, 鳥取
+cluster3:(2)
+階段, 足場
+cluster4:(18)
+ガイド, インストラクター, サンドボード, 兄さん, 滑り出し, テント, スタッフ, シャワー, スピード, 鳥取砂丘, スポーツ, スノーボード, スノボ, にいさん, ボード, 炎天下, 手伝い, スリル
+cluster5:(6)
+暑, 滑り方, 上達具合, テント張り, 暑さ, 威圧感
+
+howmany entities : 52
+howmany clusters : 6
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 6
+deleted 0entities.

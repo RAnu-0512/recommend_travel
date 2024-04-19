@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おおのきファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食べ比べ, 詰め放題みたい
+cluster1:(2)
+残り時間, 時間
+cluster2:(4)
+方, 気, ほう, こと
+cluster3:(2)
+好み, 特徴
+cluster4:(14)
+蓋, 土砂降り, 表示, 持ち込み, ベル, 大人, スタッフ, フレンドリー, イチゴ, いちご, チョコ, パック, こども, 受付
+cluster5:(6)
+孫達, 甘さ, 香り, 土産, 酸味, 土産パック
+cluster6:(6)
+紅ほっぺ, 練乳, おおのきファーム, いちご狩り, 完熟いちご, 苺
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 7
+deleted 0entities.

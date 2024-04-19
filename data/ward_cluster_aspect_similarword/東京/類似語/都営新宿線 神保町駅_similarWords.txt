@@ -1,0 +1,15 @@
+--------------------similar_words:都営新宿線 神保町駅--------------------
+top3 entities near to cluster0>>
+大学, 外務省, 神保町
+top3 entities near to cluster1>>
+出口, 駅, 出入口
+top3 entities near to cluster2>>
+見学, 視察, 見物
+top3 entities near to cluster3>>
+距離, 至近, 射程
+top3 entities near to cluster4>>
+区, 港, 区内
+top3 entities near to cluster5>>
+資料, 館, 外交
+top3 entities near to cluster6>>
+巡礼, 聖地, 歩き

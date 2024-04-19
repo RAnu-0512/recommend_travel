@@ -1,0 +1,17 @@
+--------------------similar_words:かめや楽寛--------------------
+top3 entities near to cluster0>>
+貸切, 風呂, 貸し切り
+top3 entities near to cluster2>>
+値段, 価格, 金額
+top3 entities near to cluster3>>
+子供, 子ども, 家族
+top3 entities near to cluster5>>
+露天風呂, ホテル, 内風呂
+top3 entities near to cluster6>>
+身体, 肌, 巣
+top3 entities near to cluster7>>
+景色, 建物, 部屋
+top3 entities near to cluster10>>
+風呂, 露天風呂, 温泉
+top3 entities near to cluster11>>
+時間, 予約, 駐車

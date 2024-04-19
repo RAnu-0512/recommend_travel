@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大杉栄の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墓, 墓誌
+cluster1:(4)
+一角, 人物, 時代, 方
+cluster2:(2)
+沓谷, 杉栄
+cluster3:(3)
+静岡, 東京, 地元
+cluster4:(1)
+大正
+cluster5:(1)
+大杉栄
+cluster6:(1)
+沓谷霊園
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 7entities.

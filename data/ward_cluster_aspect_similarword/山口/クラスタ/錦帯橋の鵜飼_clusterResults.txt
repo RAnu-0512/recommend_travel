@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:錦帯橋の鵜飼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伝統行事, 行事
+cluster1:(4)
+鵜飼, 錦川, 上流, 鵜匠
+cluster2:(10)
+衣装, 風, 光景, 腰蓑, 迫力, 技術, 匂い, 風景, 巧み, 伝統
+cluster3:(2)
+火, 水
+cluster4:(2)
+満開, 桜
+cluster5:(3)
+船, 魚, 鳥
+cluster6:(2)
+場所, 時間
+cluster7:(2)
+下, 方
+cluster8:(10)
+風物詩, 錦帯橋, 花びら, ライトアップ, 夏, 日本, 鵜飼い, バシャバシャ, イメージ, ライト
+cluster9:(1)
+掃除
+cluster10:(7)
+漁, 海鵜, 漁法, 鵜, アユ漁, 遊覧船, 川鵜
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 11
+deleted 0entities.

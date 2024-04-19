@@ -1,0 +1,15 @@
+--------------------similar_words:出雲大社 東京分祀--------------------
+top3 entities near to cluster0>>
+大社, 崗神, 神社
+top3 entities near to cluster1>>
+参拝, 参詣, お参り
+top3 entities near to cluster2>>
+偶然, 機会, 縁
+top3 entities near to cluster3>>
+神社, 神殿, 境内
+top3 entities near to cluster4>>
+ビル, 高層, 建物
+top3 entities near to cluster5>>
+徒歩, 駅, 駅前
+top3 entities near to cluster6>>
+国立, 新, 美術館

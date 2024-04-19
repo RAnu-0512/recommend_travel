@@ -1,0 +1,13 @@
+--------------------similar_words:自由の女神像(台場)--------------------
+top3 entities near to cluster0>>
+女神像, 女神, 自由
+top3 entities near to cluster1>>
+女神像, 女神, 掲画
+top3 entities near to cluster3>>
+景色, 公園, 風景
+top3 entities near to cluster5>>
+女神, 自由, 奔放
+top3 entities near to cluster6>>
+子供, 子ども, 親達
+top3 entities near to cluster8>>
+台場, 公園, 海浜

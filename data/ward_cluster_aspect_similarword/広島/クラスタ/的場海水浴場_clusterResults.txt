@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:的場海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 海水浴場
+cluster1:(15)
+売店, 近く, カーテン, ドライブ, 海水浴, 人, シャワー, 海, 場所, 時期, 食べ物, 飲み物, ゴミ, 遊歩道, ほう
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

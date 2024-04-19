@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:元気な百姓たちのひまわり畑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+人, みなみ, スポット, 価値, 写真, 数, 中, 間違い, ひまわり
+cluster1:(7)
+菜の花まつり, 春, 日野, 菜の花, 花, ひまわり畑, 絨毯
+cluster2:(1)
+記念撮影
+cluster3:(1)
+観光客
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 2entities.

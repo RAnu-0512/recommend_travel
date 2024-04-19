@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:PANDA先生の陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+連絡, 電話
+cluster1:(5)
+メール, 箸置き, 彼, 思い出, 色
+cluster2:(1)
+子供たち
+cluster3:(1)
+焼き上がり
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

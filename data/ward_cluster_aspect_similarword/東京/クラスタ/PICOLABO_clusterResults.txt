@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:PICOLABO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+貝, アコヤ貝, あこや貝, 真珠, 貝開け
+cluster1:(21)
+ネックレス, 一品, スタッフ, 値段, 秋葉原, 場, 話, 種類, ピアス, 真珠貝, ワクワク感, 家族, あこ, 時間, 想定, アクセサリー, 説明, 作業, もの, 経験, 色
+cluster2:(2)
+加工, 加工台
+cluster3:(2)
+加工代, パーツ代
+cluster4:(1)
+誕生日プレゼント
+cluster5:(1)
+和楽器
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 6
+deleted 0entities.

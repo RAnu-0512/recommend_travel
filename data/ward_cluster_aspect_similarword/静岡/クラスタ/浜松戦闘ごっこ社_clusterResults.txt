@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松戦闘ごっこ社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩, 時間いっぱい
+cluster1:(5)
+持参, 販売, 利用, 予約, 体験
+cluster2:(33)
+最後, 学年, スタッフ, 事, ガンプラ, 初心者, 家族, 値段, 受け付け, エアガン, 息子, ゴーグル, ゲーム, 保養, 周辺, 人, 問題, 気さく, 食事, 上, レンタル, 雰囲気, 説明, 子供, マイペース, 申込み, メガネ, サバゲー, サマ, 手ぶら, ほう, 方, 常連
+cluster3:(1)
+良さ
+cluster4:(1)
+完成品
+cluster5:(4)
+キジ鍋屋, BB弾, 常連さん達, マイ銃
+
+howmany entities : 46
+howmany clusters : 6
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 3
+deleted 4entities.

@@ -1,0 +1,25 @@
+--------------------similar_words:広島市江波山気象館--------------------
+top3 entities near to cluster0>>
+気象, 予報, 気象台
+top3 entities near to cluster1>>
+天気, 予報, お天気
+top3 entities near to cluster2>>
+雷, カミナリ, 落雷
+top3 entities near to cluster3>>
+台風, 大雨, 暴風雨
+top3 entities near to cluster5>>
+体験, 実験, 実証
+top3 entities near to cluster6>>
+子供, 大人, 子ども
+top3 entities near to cluster7>>
+現象, 原理
+top3 entities near to cluster8>>
+国内, 全国, 各地
+top3 entities near to cluster9>>
+建物, 施設, 価格
+top3 entities near to cluster11>>
+体験, 実験, 実物
+top3 entities near to cluster13>>
+駐車料, 入場料, 駐車, 入場
+top3 entities near to cluster14>>
+波山, 江, 気象

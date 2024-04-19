@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:せと温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+国民休暇村, 休暇村大久野島, 大久野島国民休暇村, 休暇村
+cluster1:(15)
+施設, 小さめ, 下, 中, ウサギ, 男女, 島, 大久野島, 建物, 窓, 露天風呂, ほう, 目的, 近く, こと
+cluster2:(2)
+女湯, 男湯
+cluster3:(4)
+お湯, 温泉, 湯, 風呂
+cluster4:(2)
+内湯, 浴場
+cluster5:(4)
+思いがけず温泉, 利用者, せと温泉, 宿泊施設
+cluster6:(1)
+戦跡巡り
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 7
+deleted 0entities.

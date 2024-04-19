@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一畑公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+一畑公園, 鉄道高架下, JR八橋駅, ぐらい進んだ八橋駅
+cluster1:(20)
+旅館, 交差点, 梅雨時期, 琴浦町, 感じ, 東伯郡, 桜, 南側, 前, 道, 紫陽花, 公園, 中井, 見学, 西, 県道, 園内, 国道, スポット, 中井旅館
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

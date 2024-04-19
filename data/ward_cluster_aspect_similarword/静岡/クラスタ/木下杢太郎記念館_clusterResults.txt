@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木下杢太郎記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+市立 杢太郎記念館, 記念館, 太郎記念館
+cluster1:(7)
+松川遊歩道, 伊東公園, 伊東駅, 伊東, 木下杢, 東海館, 木下 杢太郎
+cluster2:(2)
+医学関係, 医学者
+cluster3:(2)
+文学者, 文学関係
+cluster4:(2)
+展示内容, 展示品
+cluster5:(11)
+勉強, 和風, 風情, 見学, 趣, 散策, 観光スポット, 解説, 解説ビデオ, 建物, 建築
+cluster6:(4)
+校歌, 国道, JR, 徒歩
+cluster7:(32)
+顕微鏡, 貴重, 事, 所, 地元, こと, 杢太郎, 資料, 出身, 海沿い, 分野, 才能, 家, 医者, 周辺, 人, 歴史, 手前, 生家, 東, 名前, 近く, 明治, 本名, 多方面, オレンジビーチ, ドイツ, 功績, 時代, 一軒家, 医師, 方
+
+howmany entities : 63
+howmany clusters : 8
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 5
+deleted 6entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八百屋お七墓(円乗寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+周囲, 放火, 八百屋於, 心, 東洋大学博物館, 食事, 屋根, 裏, 近所, 物語, 見学, 歴史, 八百屋
+cluster1:(5)
+墓所, 碑, 墓, 寺, 小さなお寺
+cluster2:(3)
+案内板, 住宅街, 墓見学カメラ
+cluster3:(6)
+岩井半四郎, 本堂脇, 八百屋お七, 江戸時代, 江戸線, 本堂手前
+cluster4:(8)
+春日駅, 南谷寺, 白山神社, 白山駅, 浄心寺坂・坂下, 八百屋於七地蔵尊, 円乗寺, 白山
+cluster5:(1)
+文京区観光ガイドマップ白山エリア白山駅
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 6
+deleted 0entities.

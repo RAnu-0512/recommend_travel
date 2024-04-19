@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三宝寺池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+感じ, 気分, 名前, 由来, こと
+cluster1:(17)
+都会, オアシス, 自然, 南側, 隣, 目当て, 石神井川, 西武バス, 弘法大師, 都, 石神井公園駅, 真言宗, 周り, 足, ベンチ, 雰囲気, 目
+cluster2:(8)
+池, 大きなお寺, 所巡り, 堀, 御堂, 石神井城跡, 境内, 鴨
+cluster3:(10)
+沼沢植物郡, 水辺観察園, 四国八十八, 三宝寺, 三宝池に浮かぶ石神井城内郭, 三宝寺池, 根本大塔, 水神社, 厳島神社, 三宝池
+
+howmany entities : 40
+howmany clusters : 4
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 4
+deleted 0entities.

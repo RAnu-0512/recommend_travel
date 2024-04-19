@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雁木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+浦名所, 鞆, 浦
+cluster1:(3)
+干潮, 干満, 満潮
+cluster2:(16)
+船着き場, 中心, そば, 常夜灯, 音, 周囲, 知恵, 香り, 昔, 現役, 人, 海, 潮, 景観, 声, 風景
+cluster3:(2)
+雁木, 石階段
+cluster4:(1)
+常夜燈
+
+howmany entities : 25
+howmany clusters : 5
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 5
+deleted 0entities.

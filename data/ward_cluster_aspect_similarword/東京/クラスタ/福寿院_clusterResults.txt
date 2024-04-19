@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福寿院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散歩道, 枝垂れ桜
+cluster1:(1)
+花
+cluster2:(1)
+桜
+cluster3:(1)
+椿
+cluster4:(1)
+水仙
+cluster5:(1)
+寺
+cluster6:(1)
+木瓜
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

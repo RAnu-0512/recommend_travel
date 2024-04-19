@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ東西線大手町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+乗換, 乗換え路線数, 乗換扱い, 乗車率, 地下鉄路線, 路線, 混み方, 利用者数
+cluster1:(3)
+東京, 都, 東京メトロ
+cluster2:(4)
+地上, 東西, 地下, ビル
+cluster3:(6)
+大手町, 地下道, 丸ノ内線, 丸の内, 地下鉄, 東西線
+cluster4:(6)
+ひとつ, 人, 乗換え, アップダウン, 乗り換え, 道案内
+cluster5:(10)
+途中, ブロック先, 感じ, ラッシュ時, 移動, 付近, ほう, 印象, 時間, 出発
+cluster6:(13)
+駅員, リニューアル工事, JR, 工事, 駅, 改札, 電車, 東京駅, 施設, 丸の内線, 大手町駅, 商業施設, 北口
+cluster7:(1)
+原木中山
+
+howmany entities : 51
+howmany clusters : 8
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 8
+deleted 0entities.

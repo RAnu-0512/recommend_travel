@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:xilentthinker>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+アクセサリー制作体験, 誕生日プレゼント, 制作, 体験, 完成品, リング作り
+cluster1:(22)
+シルバー, 感想, 店, 人類, 会話, 彼女, おかげ, 次, リング, 説明, ピカピカ, 父親, 人柄, 事, 雰囲気, 店主, オーナー, チェーンプラス, ネックレス, 素材, 想像, カップル
+cluster2:(3)
+真鍮, 真鍮リング, ペアリング
+cluster3:(1)
+真鍮ロウ付け体験
+
+howmany entities : 32
+howmany clusters : 4
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 4
+deleted 0entities.

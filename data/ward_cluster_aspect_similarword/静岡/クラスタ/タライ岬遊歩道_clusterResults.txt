@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:タライ岬遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+田牛, 浸食, 海岸, 奇岩, 景色, 海, 波, 南伊豆町, 絶景, 風
+cluster1:(22)
+車, ハイキングコース, 背, スマホ, 入り口, 弓ヶ浜, コース, 人, カメラ, 気持ち, 分岐, ドライブ, 遊歩道, 距離, 樹木, 先, 先端, ジブリ感, 体力, トンネル, 身体, 方
+cluster2:(1)
+健脚コース
+cluster3:(1)
+駐車場
+cluster4:(11)
+静岡県, タライ岬, 姥岩, タライ岬遊歩道, 岬, 伊豆七島, エビ岩, 雀岩, タライ岬コース, 海岸沿い, 水平線
+
+howmany entities : 45
+howmany clusters : 5
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 3
+deleted 2entities.

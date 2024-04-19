@@ -1,0 +1,9 @@
+--------------------similar_words:尾道駅観光案内所--------------------
+top3 entities near to cluster0>>
+直哉, 公江, 重昂
+top3 entities near to cluster1>>
+案内, 施設, 名所
+top3 entities near to cluster4>>
+バス, 改札, 乗り場
+top3 entities near to cluster5>>
+名所, 公園, 周遊

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:比治山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島市現代美術館, 広島段原ショッピングセンター, 広島電鉄広島駅
+cluster1:(3)
+散歩ルート, 散歩コース, 散歩
+cluster2:(10)
+秋, 時期, 季節, 桜, 紅葉, 名所, 景色, 春, 花見, 満開
+cluster3:(2)
+南区, 中心部
+cluster4:(28)
+東側, 広島, 子供, 中, 方, スポット, 高台, 見晴らし, 位置, サッカー, 上, 人, 市街地, 比治, 家族, エスカレーター, 所, 近く, 山, イオン, 気持ち, こと, 緑, 場所, 比治山, スカイウォーク側, こども, スカイウォーク
+cluster5:(6)
+漫画図書館, マンガ図書館, 図書館, 市街, まんが図書館, 現代美術館
+cluster6:(3)
+広場, 公園, 遊具
+cluster7:(3)
+山頂, 頂上, 展望
+
+howmany entities : 58
+howmany clusters : 8
+howmany entities (more than1entities) : 58
+howmany clusters (more than1entities) : 8
+deleted 0entities.

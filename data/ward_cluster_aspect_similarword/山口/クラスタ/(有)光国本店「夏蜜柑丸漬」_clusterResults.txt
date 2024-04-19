@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:(有)光国本店「夏蜜柑丸漬」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+丸漬け, 丸漬, 夏蜜柑丸漬
+cluster1:(5)
+店員, 土産, 店, 菓子, 老舗
+cluster2:(5)
+テレビ, 夏みかん, 夏蜜柑, ケンミンショー, マーマレード
+cluster3:(3)
+こと, 他, 方
+cluster4:(2)
+商品, 説明
+cluster5:(1)
+工程
+cluster6:(2)
+皮, 萩
+cluster7:(1)
+朝一番
+cluster8:(1)
+伝統製法
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

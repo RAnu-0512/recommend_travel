@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松市美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+浜松市, 遠州, 浜松城, 無料大駐車場, 浜松城公園, 浜松美術館, 浜松城公園散策ついでに美術館, 遠藤美香, 三河
+cluster1:(10)
+作品展, 常設, アートたけし展, アート展, 展示物, 常設展, 企画展, 展示会, 企画展示, 仮面ライダープレミアムアート展
+cluster2:(3)
+気, 興味, 楽しみ方
+cluster3:(2)
+公園, 散歩
+cluster4:(2)
+訪問, 交替
+cluster5:(2)
+知人, 周辺
+cluster6:(4)
+途中, 時間, 内容, 場所
+cluster7:(9)
+イベント, ビートたけし, 芸能人, 緑, 美術館, 有名人, アドバイス, 浮世絵, アニメ
+cluster8:(11)
+仏像, 展示, 絵画, 開催, 版画, 芸術, 展覧, 現代美術, 彫刻, ジブリ作品, 作品
+cluster9:(1)
+みほとけのキセキ
+
+howmany entities : 53
+howmany clusters : 10
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 6
+deleted 7entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キャンベルヒルズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+貸切, バスマット
+cluster1:(14)
+トイレットペーパー, 虫, 別荘, 他, 貸し切り, 事, 家族, 車, ログハウス, キャンプ, 方, クリスマスパーティー, 電話, 扇風機
+cluster2:(1)
+子供達
+cluster3:(1)
+大人数
+cluster4:(1)
+秋川渓谷
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

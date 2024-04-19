@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大沢温泉(静岡県松崎町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+源泉かけ, かけ流し
+cluster1:(13)
+ビール, 家, 温泉郷, すべすべ, 人, 行き先, 露天風呂, 食事, 上, 中, 夏場, 到着, 場所
+cluster2:(5)
+疲れ, こと, 感じ, 気分, ほう
+cluster3:(1)
+数人
+cluster4:(6)
+野天風呂 山, 台風, 伊豆, 海, 松崎, 山
+cluster5:(1)
+川沿い
+cluster6:(24)
+風呂巡り, 温泉, 湯質, 野天, 温泉街, 湯船, 天然系露天風呂, 湯上がり肌, 熱め, 観音温泉, 肌, お湯, 旅館, 男湯, 静かな温泉宿です, 温泉宿, 日帰り入浴, 泉質, 温泉地, 露天, 大沢温泉, 立ち寄り温泉, 風呂, 湯
+
+howmany entities : 52
+howmany clusters : 7
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 4
+deleted 4entities.

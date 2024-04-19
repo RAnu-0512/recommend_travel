@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米子市美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+JR米子駅, 米子市, 山陰地方
+cluster1:(10)
+イベント, 写真, 美術館, 公立, 作家, 市民, 作品, 公立美術館, 場所, 徒歩
+cluster2:(2)
+JPA展, 写真展
+cluster3:(2)
+美術, 美術品
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

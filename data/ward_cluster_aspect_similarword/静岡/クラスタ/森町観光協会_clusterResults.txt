@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+道, 管理道, 管理, 管理道路
+cluster1:(24)
+手入れ, 草刈り, 蓮華寺, 太古, ロマン, コース, コース巡り, 歴史, 両側, 階段, いくつか, 景色, 自信, 丘, 参道, トイレ, 場所, お気に入りスポット, 中央, 体力, 方々, 場, 方, エリア
+cluster2:(2)
+森町, 太田川ダム
+cluster3:(12)
+駐車場, 南ゲート, 南ゲート側, 水生生物エリア, 公園外, 散策路, 大月夜トンネル, 北ゲート, 八形山コース, 大洞院, 公園, 自然公園
+cluster4:(1)
+森町 町民の森
+
+howmany entities : 43
+howmany clusters : 5
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 3
+deleted 3entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関フィッシングパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小あじ, 小あじならビギナー
+cluster1:(4)
+深さ, 波音, 時間帯, 秒数
+cluster2:(30)
+施設, 秋, 橋, 釣り, 景色, 他, ビギナー, 支柱, 大物, 息子, カサゴ, 場所, 生餌, 世辞, 休憩, リラックス, 魚釣り, 魚, トイレ, 感じ, 釣り場, タナ, 上, 仕掛け落, 底, 入口, 方, 竿, アジ, 折りたたみ椅子
+
+howmany entities : 36
+howmany clusters : 3
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 3
+deleted 0entities.

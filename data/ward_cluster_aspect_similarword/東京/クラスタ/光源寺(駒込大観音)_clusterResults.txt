@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光源寺(駒込大観音)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+十一面観音像, 観音様, 像, 観音, 観音像
+cluster1:(22)
+所, 三田線, 建物, 本駒込, 観音堂, 縁日, 浄土宗, 金色, 紅白, 山門, 駅, 寺, 光源寺, 前, 海蔵寺, 中, 梅, 千駄木, 境内, 通り, 白山, 現在地
+cluster2:(3)
+説明板, ガラス越し, 高さ
+cluster3:(6)
+駒込駅, 千代田線, 駒込大観音, 駒込大, 東京メトロ南北線, 都営
+
+howmany entities : 36
+howmany clusters : 4
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:府中公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時期, 季節
+cluster1:(2)
+こと, 場所
+cluster2:(1)
+気分
+cluster3:(21)
+子供, 途中, 桜, サクラ, 周囲, 花, 八幡宮, 東京, ふじ, 地元, アヒル, 人, 古代, 木, 春, 気持ち, 種, 隅, 自然, 足, 周り
+cluster4:(12)
+散歩コース, 紅葉, 園内, 花見客, 参道, 散歩, 名所, 景色, 池, 弁当, 花見, 公園
+cluster5:(3)
+府中公園, 府中焼き, 府中市
+cluster6:(3)
+大賀ハス, 大賀博士, ハス
+
+howmany entities : 44
+howmany clusters : 7
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 7
+deleted 0entities.

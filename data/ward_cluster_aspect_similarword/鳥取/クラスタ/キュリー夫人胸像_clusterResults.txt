@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キュリー夫人胸像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+ラジウム, 通り, キューリー, 裏手, 人, 北側, 場所
+cluster1:(2)
+キュリー夫人, キュリー広場
+cluster2:(2)
+功績, 胸像
+cluster3:(1)
+発見者
+cluster4:(1)
+恋谷橋
+cluster5:(1)
+三朝温泉
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

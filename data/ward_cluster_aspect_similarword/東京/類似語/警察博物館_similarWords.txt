@@ -1,0 +1,31 @@
+--------------------similar_words:警察博物館--------------------
+top3 entities near to cluster0>>
+展示, 出展, 展覧
+top3 entities near to cluster1>>
+展示品, 展示, 品等
+top3 entities near to cluster2>>
+駅前, 駅, 等地
+top3 entities near to cluster3>>
+禁止, 制限, 禁じる
+top3 entities near to cluster4>>
+紹介, 案内, 見学
+top3 entities near to cluster5>>
+館内, 施設, 入口
+top3 entities near to cluster7>>
+事件, 歴史, 出来事
+top3 entities near to cluster8>>
+仕事, 関連, ツアー
+top3 entities near to cluster9>>
+興味, 関心, 興味津々
+top3 entities near to cluster10>>
+子供, 男の子, 子ども
+top3 entities near to cluster11>>
+撮影, 写真, 体験
+top3 entities near to cluster12>>
+警官, 警察官, 警察
+top3 entities near to cluster13>>
+警察, 警察署, 警察官
+top3 entities near to cluster14>>
+席, 授乳, 運転
+top3 entities near to cluster16>>
+対策, 感染, 新型

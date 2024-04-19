@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:世田谷公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, こと
+cluster1:(3)
+多く, 人, 近く
+cluster2:(3)
+こども, 子ども, 遊び場
+cluster3:(2)
+最寄り駅, アクセス
+cluster4:(2)
+ファミリー, イベント
+cluster5:(2)
+ファミレス, ランニング
+cluster6:(1)
+マシュマロ
+cluster7:(1)
+オススメ
+cluster8:(1)
+オアシス
+cluster9:(1)
+ポケモン
+cluster10:(1)
+プール
+cluster11:(1)
+世田谷
+cluster12:(1)
+フリーマーケット
+cluster13:(3)
+大人, 子供, 子
+cluster14:(9)
+季節, 都会, 土日, 緑, 夏, 左, 電車, 梅, 都内
+cluster15:(2)
+手作り感, 広さ
+cluster16:(29)
+噴水, バス利用, プレーパーク, 散策, 中心付近, 改札口, 道路標識, 公園, 交通公園, ミニSL, 憩い, 散歩, 駅, 広場, 池尻大橋駅, 噴水広場, 三軒茶屋駅, 住宅地, 屋外プール, プレパーク, 徒歩, 敷地, SL, バス, 遊具, 築山, 世田谷公園, 園内, 世田谷観音
+
+howmany entities : 64
+howmany clusters : 17
+howmany entities (more than1entities) : 64
+howmany clusters (more than1entities) : 17
+deleted 0entities.

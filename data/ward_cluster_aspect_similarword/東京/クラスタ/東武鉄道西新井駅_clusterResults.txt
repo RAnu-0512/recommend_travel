@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東武鉄道西新井駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+感じ, 仕事, 開発, 周り
+cluster1:(2)
+スカイツリーライン, 日比谷線
+cluster2:(2)
+西新井, 北千住
+cluster3:(1)
+大師線
+cluster4:(1)
+アリオ西新井
+cluster5:(1)
+渋谷
+cluster6:(1)
+西新井大師
+cluster7:(7)
+乗換え駅, 沿線, 駅, 改札, 急行, 飲食店, 町
+cluster8:(1)
+北千住駅
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 9
+deleted 0entities.

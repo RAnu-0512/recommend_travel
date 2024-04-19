@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妙見山展望公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+広場, 公園, 遊具, 道幅
+cluster1:(4)
+景色, 山々, 雄大, 眺め
+cluster2:(4)
+風, 場所, 高台, 海
+cluster3:(10)
+アスレチック, 見どころ, 望遠鏡, 手, ツーリングコース, ピクニック, 日本海, 感想, トイレ, 油谷湾
+cluster4:(1)
+バイク移動
+cluster5:(1)
+晴天
+cluster6:(1)
+野原
+cluster7:(1)
+満載
+cluster8:(1)
+角島
+cluster9:(3)
+妙見山展望公園, 地図写真参照, 駐車場
+cluster10:(1)
+日置・油谷周辺 海
+
+howmany entities : 31
+howmany clusters : 11
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:テニス&リゾートホテル ロブィング>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+アウトドア, 伊豆高原, インド, インドア
+cluster1:(5)
+アウトドアコート, 思う存分テニス, テニス, テニスコート, コート
+cluster2:(2)
+コート数, 管理
+cluster3:(1)
+屋外オムニコート
+cluster4:(1)
+時間貸り
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 4entities.

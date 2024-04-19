@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:相良海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+富士山, 駿河湾
+cluster1:(6)
+コウボウムギ, 海水浴, ウミガメ, シーズン, 気持ち, ハマボウフウ
+cluster2:(3)
+人, 場所, 方
+cluster3:(3)
+敷地, ごみ, 景観
+cluster4:(2)
+黒松, 産卵
+cluster5:(7)
+砂, 海岸, 遠浅, ハマヒルガオ, 波, 海, 砂浜
+cluster6:(1)
+家族連れ
+cluster7:(6)
+静岡県, 海浜植物, 牧之原市, 砂浜海岸, 相良海岸, 防風林
+cluster8:(1)
+御前崎遠州灘県立自然公園
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 6entities.

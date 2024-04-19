@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国領神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+千年乃藤, 御神木, 御神木である藤, 千年乃藤のお宮
+cluster1:(2)
+藤まつり, 藤
+cluster2:(7)
+花, 乃藤, 木, ダンスイベント, 車, 地元, 京王線
+cluster3:(6)
+季節, 価値, 姿, 時期, こと, 目
+cluster4:(5)
+神社, 名所, 藤棚, 境内, 満開
+cluster5:(1)
+樹齢
+cluster6:(1)
+改札口
+cluster7:(9)
+国領神社, 東京都, 北徒歩, 国領駅, 布田駅, 調布市, 調布八景, 甲州街道, 国領町
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 8
+deleted 0entities.

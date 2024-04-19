@@ -1,0 +1,9 @@
+--------------------similar_words:鹿野そば道場--------------------
+top3 entities near to cluster0>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster1>>
+そば打ち, そば, 体験
+top3 entities near to cluster2>>
+鶏, そば
+top3 entities near to cluster3>>
+風味, 甘み

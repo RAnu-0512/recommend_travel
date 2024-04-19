@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Slow Base @Shimanami>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+砂浜, 海, 海パン
+cluster1:(2)
+子供, 大人
+cluster2:(2)
+娘たち, 娘
+cluster3:(17)
+自家, 方, シャワー, ビネガードリンク, 瀬戸内海, ラッシュガード, 写真, シフォンケーキ, スタッフ, フレンドリー, パンナコッタ, 旅行, カヤック, スイーツ, シーカヤック体験, 無人島, プライベートビーチ
+cluster4:(1)
+しまなみ海道
+
+howmany entities : 25
+howmany clusters : 5
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深光寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+滝沢, 馬琴, 滝沢馬琴
+cluster1:(13)
+恵比寿天, 拓殖大学, 南総里見八犬伝, 小石川七福神, 茗荷谷駅, 浄土宗, 事, 作者, 見応え, 坂, 茗荷谷, 階段, 最寄駅
+cluster2:(2)
+墓地, 墓
+cluster3:(2)
+本堂, 寺
+cluster4:(1)
+指定文化財
+cluster5:(1)
+曲亭
+cluster6:(1)
+文京区
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

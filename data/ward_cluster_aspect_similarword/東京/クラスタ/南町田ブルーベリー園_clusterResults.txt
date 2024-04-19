@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南町田ブルーベリー園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アウトレット, ブルーベリー
+cluster1:(2)
+ホスピタリティ, スタッフ
+cluster2:(1)
+居心地
+cluster3:(3)
+種類, 場所, 説明
+cluster4:(1)
+土産
+cluster5:(1)
+都心
+cluster6:(1)
+ブルーベリー狩り
+cluster7:(1)
+南町田
+cluster8:(1)
+食べ放題
+
+howmany entities : 13
+howmany clusters : 9
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 9
+deleted 0entities.

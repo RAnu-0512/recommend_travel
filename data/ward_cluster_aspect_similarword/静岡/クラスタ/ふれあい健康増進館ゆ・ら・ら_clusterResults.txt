@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふれあい健康増進館ゆ・ら・ら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駐車場, 休憩, 休憩処, 休憩スペース
+cluster1:(9)
+室内プール, 泳ぐプール, 温水プール, 子供プール, 温泉プール, 子供, 遊具, 浴場, 室内
+cluster2:(4)
+夜間, 食事, 帰宅ラッシュ, 風呂
+cluster3:(8)
+キッズプール, 家族, プール, 人, アスレチック, 子ども, 我が家, こども
+cluster4:(3)
+利用, もの, 施設
+cluster5:(1)
+熱
+cluster6:(1)
+沿道
+cluster7:(3)
+コスト節約ルート, 東名, バイパス路線
+
+howmany entities : 33
+howmany clusters : 8
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 6
+deleted 2entities.

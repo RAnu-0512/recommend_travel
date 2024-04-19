@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江間堰記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川, 水
+cluster1:(6)
+歴史, 狩野川, 悪条件, 土地, 方, 記念碑
+cluster2:(2)
+干, 田畑
+cluster3:(1)
+堰
+cluster4:(1)
+治水工事
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 6entities.

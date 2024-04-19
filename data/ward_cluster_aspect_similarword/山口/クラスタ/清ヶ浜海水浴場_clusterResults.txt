@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清ヶ浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンプ場, 海水浴場
+cluster1:(3)
+人, 気持ち, 海水浴
+cluster2:(2)
+砂浜, 海
+cluster3:(1)
+散歩
+cluster4:(1)
+穴場スポット
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

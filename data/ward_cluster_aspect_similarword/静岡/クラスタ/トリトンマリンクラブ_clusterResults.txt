@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トリトンマリンクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ベタ凪, 丁寧且つ段取り
+cluster1:(3)
+体験, 初体験, カヤック体験
+cluster2:(2)
+カニ取り, カニ
+cluster3:(12)
+朝焼け最高, 湖ポチャ, 感じ風, 光, 水, 太陽, 空, 景色, 波, 海, 自然, 風
+cluster4:(26)
+サップ, カヤックツアー, エクセサイズ, 浜名湖, パドル, 岩場, 初心者, 長靴, カプカ, シーズンオフ, 思い出, 写真, ピンク色, タイミング, 無人島, スイカ, クラゲ, SUP, ツアー, サンダル, レンタル, カヤック, コンディション, (^-^, オーナー, プラン
+cluster5:(8)
+息子達, 奥様, 子どもたち, 家族, 息子, 大人, 娘, 小学
+cluster6:(5)
+利用, 予約, 説明, 集合, 世話
+cluster7:(2)
+方向, 道
+cluster8:(2)
+今回, 次回
+cluster9:(2)
+中, 他
+cluster10:(2)
+次, 前
+cluster11:(1)
+時期
+cluster12:(6)
+気, こと, 問題, 感じ, 魅力, 方
+cluster13:(1)
+乗り方
+cluster14:(1)
+価格設定
+
+howmany entities : 75
+howmany clusters : 15
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 6
+deleted 15entities.

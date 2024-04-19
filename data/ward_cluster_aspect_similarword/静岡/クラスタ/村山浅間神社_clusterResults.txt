@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:村山浅間神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浅間神社, 村山浅間神社
+cluster1:(2)
+社務所, 修験者
+cluster2:(2)
+世界遺産, 戦国期
+cluster3:(3)
+創建, 名残, 庇護
+cluster4:(2)
+今川, 大杉
+cluster5:(3)
+号, 右手, 木
+cluster6:(2)
+敷地, 寺
+cluster7:(4)
+行き方, 富士宮, 富士山, 道者
+cluster8:(7)
+石段, 富士根本宮, 鳥居, 神社, 境内, 本殿, 大銀杏
+cluster9:(1)
+孝昭天皇
+
+howmany entities : 28
+howmany clusters : 10
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 11entities.

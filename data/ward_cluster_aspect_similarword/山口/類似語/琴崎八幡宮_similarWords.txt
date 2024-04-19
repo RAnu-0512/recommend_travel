@@ -1,0 +1,19 @@
+--------------------similar_words:琴崎八幡宮--------------------
+top3 entities near to cluster0>>
+社務, 参拝, 境内
+top3 entities near to cluster1>>
+風鈴, 花火, まつり
+top3 entities near to cluster2>>
+音色, 心地よい
+top3 entities near to cluster3>>
+神社, 境内, 本殿
+top3 entities near to cluster4>>
+部屋, お守り
+top3 entities near to cluster5>>
+種類数, 種類, 数種類
+top3 entities near to cluster7>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster8>>
+郊外, 別棟, 丘
+top3 entities near to cluster9>>
+存分, ぞんぶん, 最大限

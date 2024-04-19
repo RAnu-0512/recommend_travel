@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆見高入谷高原温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+売店, 館内, 地元, 値段, 接客, キャンプ, かんきつ類, 河津, 人, 店, メイン, 感じ, 雰囲気, 場所, 方
+cluster1:(2)
+温泉, のびのびと温泉
+cluster2:(2)
+室内風呂, 風呂
+cluster3:(1)
+お湯加減
+cluster4:(1)
+清潔感
+cluster5:(1)
+入谷高原温泉
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 7entities.

@@ -1,0 +1,71 @@
+--------------------similar_words:まかいの牧場--------------------
+top3 entities near to cluster0>>
+体験, 体験談, 体感
+top3 entities near to cluster1>>
+スープ, カレー, デザート
+top3 entities near to cluster2>>
+子ども, ふれあい, 子供
+top3 entities near to cluster3>>
+気持ち, やり方, 雰囲気
+top3 entities near to cluster4>>
+クラフト, スペース, スプレー
+top3 entities near to cluster5>>
+おすすめ, オススメ, こだわり
+top3 entities near to cluster6>>
+サービス, スタッフ, ショップ
+top3 entities near to cluster7>>
+レクチャー, アドバイス, プレゼント
+top3 entities near to cluster9>>
+アイスクリーム, ソフトクリーム, クレープ
+top3 entities near to cluster10>>
+どんぐり, ブランコ, トランプ
+top3 entities near to cluster13>>
+レストラン, バイキング, テーマパーク
+top3 entities near to cluster14>>
+ピクニック, バーベキュー, サイクリング
+top3 entities near to cluster20>>
+食べ, 土産
+top3 entities near to cluster21>>
+子供, 子ども, 家族
+top3 entities near to cluster22>>
+電子書, 電子, 書籍
+top3 entities near to cluster24>>
+撮影, 写真, 撮っ
+top3 entities near to cluster25>>
+パン, ナン, カレー
+top3 entities near to cluster26>>
+防寒具, 防寒, 臺晟
+top3 entities near to cluster27>>
+山, 丘, 斜面
+top3 entities near to cluster30>>
+チーズ, ケーキ, チーズケーキチーズケーキ
+top3 entities near to cluster33>>
+屋根, テラス, ハウス
+top3 entities near to cluster34>>
+バス, 乗車, 周遊
+top3 entities near to cluster35>>
+手足, 足, 腕
+top3 entities near to cluster36>>
+食事, ご飯, 散歩
+top3 entities near to cluster37>>
+家族, 笑顔
+top3 entities near to cluster38>>
+土産物店, 食べ物, 土産物
+top3 entities near to cluster39>>
+景色, 風景, 季節
+top3 entities near to cluster40>>
+快晴, 絶景, 天気
+top3 entities near to cluster44>>
+自然系, 生態系, 自然, 生態
+top3 entities near to cluster45>>
+満足感, 安定感, 満足, 安定
+top3 entities near to cluster47>>
+駐車, 施設, 園内
+top3 entities near to cluster48>>
+入園料, 入園, 入場料, 入場
+top3 entities near to cluster49>>
+入場券, 前売り券, 入場, 前売り
+top3 entities near to cluster50>>
+入場, 入館, 来場
+top3 entities near to cluster52>>
+牧場, 動物, 農場

@@ -1,0 +1,15 @@
+--------------------similar_words:楠こもれびの郷 くすくすの湯--------------------
+top3 entities near to cluster0>>
+休憩, 所内, 処
+top3 entities near to cluster1>>
+風呂, 温泉, 湯船
+top3 entities near to cluster2>>
+農家, 農業, 野菜
+top3 entities near to cluster4>>
+施設, 人達
+top3 entities near to cluster5>>
+畳, 木造, 平屋
+top3 entities near to cluster6>>
+食品, 肌, 自然
+top3 entities near to cluster7>>
+飲食, 持込み, 持ち込み

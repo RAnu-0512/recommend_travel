@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:由木農場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+都, 東京都
+cluster1:(6)
+所, ブルーベリー, 虫除けスプレー, 道, 車, 帽子
+cluster2:(2)
+りんご狩り, 環境保護地
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

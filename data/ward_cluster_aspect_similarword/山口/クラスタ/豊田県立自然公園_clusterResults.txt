@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊田県立自然公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自然, 自然公園
+cluster1:(2)
+村, 場所
+cluster2:(1)
+山合い
+cluster3:(1)
+豊浦山地
+cluster4:(1)
+豊田県立自然公園
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

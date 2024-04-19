@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菅無田公園_つつじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+いろどりの丘, 丘
+cluster1:(13)
+多く, こと, 活気, 光景, 家族, 場所, 客, ココ, 人たち, 時期, 人, 先, 近く
+cluster2:(2)
+白, 赤
+cluster3:(3)
+ピンク色, ピンク, 色とりどり
+cluster4:(2)
+つつじ, ツツジ
+cluster5:(1)
+千畳敷
+cluster6:(2)
+色, 花
+cluster7:(1)
+香り
+cluster8:(5)
+満開, GW, 公園, 池, 天気
+cluster9:(1)
+シマツツジ
+cluster10:(4)
+菅無田公園, 駐車場, 親水公園, 畳敷
+
+howmany entities : 36
+howmany clusters : 11
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 11
+deleted 0entities.

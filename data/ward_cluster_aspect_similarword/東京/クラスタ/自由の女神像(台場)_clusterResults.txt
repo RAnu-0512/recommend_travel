@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:自由の女神像(台場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レインボーブリッジと自由の女神像, 自由の女神像
+cluster1:(2)
+レプリカ像, 女神像
+cluster2:(5)
+感じ, 姿, 方, こと, もの
+cluster3:(7)
+絵, 右手, 景色, 公園, 駅, 海, 写真
+cluster4:(10)
+フランス, レインボーブリッジ, ライト, ニューヨーク, 学生, レプリカ, 日本, 中, スポット, アクアシティ
+cluster5:(2)
+自由, 女神
+cluster6:(1)
+子供達
+cluster7:(3)
+ゆりかもめ, パリ, フランスパリ
+cluster8:(5)
+海浜公園, 観光名所, 台場, 湾岸沿い, 台場駅
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 9
+deleted 0entities.

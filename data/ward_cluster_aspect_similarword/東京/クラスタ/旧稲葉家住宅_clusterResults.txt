@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧稲葉家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+青梅, 青梅街道, 青梅駅
+cluster1:(4)
+建物, 住宅, 屋敷, 家屋
+cluster2:(3)
+相当, 場所, もの
+cluster3:(2)
+家, 歴史
+cluster4:(1)
+家内
+cluster5:(1)
+風情
+cluster6:(1)
+家柄
+cluster7:(1)
+稲葉
+cluster8:(3)
+東京都, 古民家, 江戸時代
+
+howmany entities : 19
+howmany clusters : 9
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 9
+deleted 0entities.

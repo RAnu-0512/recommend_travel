@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:県央の森公園キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島県, 県央, 東広島市
+cluster1:(2)
+施設, キャンプ場
+cluster2:(4)
+トイレ, キャンプ, 真ん中, 自然
+cluster3:(1)
+家族連れ
+cluster4:(1)
+森公園
+cluster5:(1)
+清潔感
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

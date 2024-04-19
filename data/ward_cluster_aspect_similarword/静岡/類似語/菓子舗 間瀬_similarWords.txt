@@ -1,0 +1,17 @@
+--------------------similar_words:菓子舗 間瀬--------------------
+top3 entities near to cluster1>>
+本店, 店舗
+top3 entities near to cluster3>>
+案内, 対応, 紹介
+top3 entities near to cluster6>>
+雰囲気, 和菓子, ホテル
+top3 entities near to cluster7>>
+友達, 友人, 女性
+top3 entities near to cluster8>>
+時間, 空間, 種類
+top3 entities near to cluster11>>
+抹茶味, 和菓子, 抹茶
+top3 entities near to cluster12>>
+茶道, 茶席, 茶の湯
+top3 entities near to cluster13>>
+和菓子屋, 土産屋, 和菓子, 土産

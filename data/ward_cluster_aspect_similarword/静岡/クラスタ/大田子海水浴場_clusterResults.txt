@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大田子海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+田子集落, 田子漁港, 大田子海岸
+cluster1:(2)
+展望台, 夕陽展望台
+cluster2:(6)
+最後雲, 夕陽, 夕日, 景色, 天気, 秋分
+cluster3:(12)
+俄, 老人カメラマン, 撮影, こと, 人, 標識, 国道, 撮影スポット, カメラマン, 岩, 方, 道
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 2entities.

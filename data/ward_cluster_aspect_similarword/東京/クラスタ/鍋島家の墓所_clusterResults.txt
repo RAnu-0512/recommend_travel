@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鍋島家の墓所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+墓, 大名, 墓所, 近く, 感じ, 大名家, 成願寺
+cluster1:(2)
+鍋島家, 蓮池鍋島家
+cluster2:(2)
+中野区, 中野坂上駅
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

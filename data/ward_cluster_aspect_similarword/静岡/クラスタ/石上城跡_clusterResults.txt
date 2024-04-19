@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石上城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+歴史, 目的地, 山道, 兎, 注意, 落葉時期, 冬期
+cluster1:(2)
+石上城, 南朝側
+cluster2:(1)
+南北朝時代
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 3entities.

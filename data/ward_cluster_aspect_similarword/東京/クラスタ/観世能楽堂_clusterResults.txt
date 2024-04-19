@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観世能楽堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+能, エスカレーター, 場所, コンサート, 観客, 舞台, 能楽堂, アクセス, 距離, 弁当, GINZA SIX, 落語, 松濤, 体験, 銀座駅, 渋谷, 銀座, 地下, 地下鉄, 雰囲気, 能楽
+cluster1:(2)
+観世能楽堂, 親子能体験
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

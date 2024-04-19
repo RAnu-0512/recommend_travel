@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:通天橋(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上, 中
+cluster1:(3)
+周り, 方, 側
+cluster2:(1)
+わり
+cluster3:(1)
+時期
+cluster4:(1)
+端
+cluster5:(12)
+遠景, 小石川後楽園, 緑, 紅葉, 京都, 東福寺, 橋, 欄干, 朱色, 風情, 園内, 紅葉真っ盛り
+cluster6:(2)
+朱塗り, 通天橋
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 7
+deleted 0entities.

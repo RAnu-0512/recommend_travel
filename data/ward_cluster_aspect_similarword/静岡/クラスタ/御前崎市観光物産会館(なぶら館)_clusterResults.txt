@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御前崎市観光物産会館(なぶら館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ぶら市場, ぶら館
+cluster1:(7)
+御前崎, 魚, 建物, マリンパーク, 海水浴場, マリンパーク御前崎, 間
+cluster2:(1)
+観光案内所
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 3entities.

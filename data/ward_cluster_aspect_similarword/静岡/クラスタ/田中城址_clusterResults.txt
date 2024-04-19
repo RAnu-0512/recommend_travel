@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田中城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西益津小, 駿河今川
+cluster1:(10)
+馬場信春, 敷地, ジオラマ, 田中城, 信玄, 小学校, 攻略, 家臣, ・中学校, 城
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

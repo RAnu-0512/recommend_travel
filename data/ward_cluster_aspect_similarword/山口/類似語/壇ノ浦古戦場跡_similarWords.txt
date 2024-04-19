@@ -1,0 +1,29 @@
+--------------------similar_words:壇ノ浦古戦場跡--------------------
+top3 entities near to cluster0>>
+銅像, 石像
+top3 entities near to cluster1>>
+平家, 源氏, 義経
+top3 entities near to cluster2>>
+潮目, 潮流, 船団
+top3 entities near to cluster3>>
+大河ドラマ, ドラマ, ＮＨＫ
+top3 entities near to cluster5>>
+古戦場, 天王山, 関ヶ原
+top3 entities near to cluster6>>
+源義経, 安徳天皇, 平知盛
+top3 entities near to cluster9>>
+歴史, 戦場, 戦争
+top3 entities near to cluster10>>
+絶景, 山奥, 散策
+top3 entities near to cluster11>>
+海峡, 道路
+top3 entities near to cluster12>>
+駐車場, 駐車, 場代
+top3 entities near to cluster13>>
+敵地, 遊園地, 敵, 遊園
+top3 entities near to cluster14>>
+跡, 跡地, 遺構
+top3 entities near to cluster15>>
+合戦, 源平, 陣取
+top3 entities near to cluster16>>
+公園橋, 人道橋, 公園, 人道

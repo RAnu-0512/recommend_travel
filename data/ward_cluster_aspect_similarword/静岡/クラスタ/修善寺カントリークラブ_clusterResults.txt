@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修善寺カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鹿, 野生
+cluster1:(6)
+人, グリーン, 人間, コース, ゴルフ, ティーショット
+cluster2:(2)
+感じ, 箇所
+cluster3:(1)
+フェアウェイ
+cluster4:(1)
+ゴルフ場
+cluster5:(1)
+シャトルバス
+cluster6:(1)
+保養所
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 8entities.

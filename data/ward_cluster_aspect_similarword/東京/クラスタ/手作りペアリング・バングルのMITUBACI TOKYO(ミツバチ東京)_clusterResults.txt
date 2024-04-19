@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手作りペアリング・バングルのMITUBACI TOKYO(ミツバチ東京)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+表, 満足
+cluster1:(7)
+場所, モノ, 模様, 写真, 部分, 品, もの
+cluster2:(16)
+初心者, クリスマス, 思い入れ, 制作, 仕上がり, ペンダント, シルバーアクセサリー, 思い出, 担当, リング, ネイルサロン, バングル, 出かけ, 先生, 刻印, 職人
+cluster3:(1)
+迷う人
+cluster4:(1)
+美容室
+
+howmany entities : 27
+howmany clusters : 5
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 5
+deleted 0entities.

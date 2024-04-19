@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:泉頭城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 駐車場料金
+cluster1:(3)
+家康, 駿府城, 徳川家康
+cluster2:(10)
+曲輪, 場所, 隠居, 城跡, 湧水, 縄張図, 水, 公園, 隠居場所, 城
+cluster3:(1)
+柿田川湧水群
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 3entities.

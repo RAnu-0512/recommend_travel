@@ -1,0 +1,17 @@
+--------------------similar_words:水の広場公園--------------------
+top3 entities near to cluster0>>
+雑踏, 散策, 風情
+top3 entities near to cluster1>>
+東京湾, 海沿い, 海岸
+top3 entities near to cluster2>>
+海辺, 海, 浜辺
+top3 entities near to cluster3>>
+緑, 緑色, 黄色
+top3 entities near to cluster4>>
+日目, 日水, 日
+top3 entities near to cluster5>>
+海風, 潮風, 山風
+top3 entities near to cluster6>>
+公園, 広場, 台場
+top3 entities near to cluster7>>
+公園, 海浜, ふ頭

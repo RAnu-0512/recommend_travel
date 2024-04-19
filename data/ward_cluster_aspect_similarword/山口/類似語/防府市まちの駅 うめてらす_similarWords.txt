@@ -1,0 +1,31 @@
+--------------------similar_words:防府市まちの駅 うめてらす--------------------
+top3 entities near to cluster1>>
+防, 布, 爆扉
+top3 entities near to cluster2>>
+休憩, 軽食, 食事
+top3 entities near to cluster3>>
+参道, 鳥居, 境内
+top3 entities near to cluster7>>
+自転車, 駐輪場, レンタサイクル
+top3 entities near to cluster8>>
+センス, 雰囲気, コスパ
+top3 entities near to cluster9>>
+トイレ, カメラ, ビデオカメラ
+top3 entities near to cluster10>>
+ショップ, レストラン, イベント
+top3 entities near to cluster11>>
+ランチ, カフェ, 買い物
+top3 entities near to cluster13>>
+おみやげ, 土産物, 土産
+top3 entities near to cluster14>>
+天満宮, 朝日森, 境内
+top3 entities near to cluster16>>
+駅店, 店舗, 駅
+top3 entities near to cluster17>>
+新しい, 目新しい, 珍しい
+top3 entities near to cluster18>>
+案内, ガイド, 係り
+top3 entities near to cluster19>>
+ロケ地, 遊園地, 遊園, ロケ
+top3 entities near to cluster21>>
+土産品, 土産, おみやげ

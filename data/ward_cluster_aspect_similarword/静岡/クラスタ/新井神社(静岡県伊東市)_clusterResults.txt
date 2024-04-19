@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新井神社(静岡県伊東市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+魚市場, 石像, 国道, テンション高め, 周り, 途中, 恵比寿, 近く
+cluster1:(2)
+石段, 石段横
+cluster2:(4)
+鳥居, 新井神社, 伊東, 拝殿
+cluster3:(1)
+生活道路沿い
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 3entities.

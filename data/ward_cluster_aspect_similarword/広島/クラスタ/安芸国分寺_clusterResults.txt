@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安芸国分寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+文化財, 聖武天皇, もの, 事業, 国分寺, 護摩堂, 国, 昔, 時代, 部分, 仁王門, 全国
+cluster1:(4)
+敷地, 建物, 西側部分, 跡地
+cluster2:(7)
+創建, 伽藍, 寺, 塔跡, 金堂, 建立, 本堂
+cluster3:(1)
+発掘調査
+cluster4:(4)
+華と呼ばれ国, 安芸国分寺歴史公園, 安芸国, 安芸国分寺
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

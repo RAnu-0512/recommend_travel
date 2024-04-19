@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松まつり会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+凧祭り, 凧, 凧揚げ, 大凧, 凧まつり
+cluster1:(6)
+遠州灘海浜公園, 浜松まつり, 浜松, 会館, 浜松まつり会館, 浜松駅
+cluster2:(6)
+駐車場, 展示スペース, 展示, 展示物, 実物展示, 入場料
+cluster3:(5)
+祭り, 御殿屋台, 法被, 屋台, 祭り気分
+cluster4:(36)
+職人, 目, 案内, 熱気, こと, 紹介, 音, ずー, 係, 外国人, 手, 友人, 人, 方たち, 歴史, 合戦, 音響, 様子, 映像, 中田島, 近く, 迫力, 中, 希望, 砂丘, 雰囲気, スポット, 内容, 子供, 天井, 施設, 彫刻, ビデオ, 方, 町, 価値
+cluster5:(1)
+臨場感
+
+howmany entities : 59
+howmany clusters : 6
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 5
+deleted 1entities.

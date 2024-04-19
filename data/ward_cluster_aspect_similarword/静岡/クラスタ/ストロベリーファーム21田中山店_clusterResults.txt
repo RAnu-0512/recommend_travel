@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ストロベリーファーム21田中山店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+食べ比べ, 食べ放題, いちご狩り, イチゴ狩り, もぎたて, 久保田いちご狩り園
+cluster1:(24)
+車, 主人, スタッフ, 簡易トイレ, 美味しさ, 訪問, 貸し切り状態, 入り口, Google, 受付, ナビ, 周辺, 娘, 女性, 満腹, 香り, 中, 声, 近く, 場所, 田中山店, 良さ, コスパ, 方
+cluster2:(10)
+練乳, イチゴ, 苺, ハウス, 農園, いちご, 伊豆, ストロベリーファーム, 紅ほっぺ, イチゴハウス
+cluster3:(6)
+駐車場, 予約時間, 時間設定, 時間予約, 時間, 到着時間
+
+howmany entities : 46
+howmany clusters : 4
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 4
+deleted 0entities.

@@ -1,0 +1,75 @@
+--------------------similar_words:PICA初島--------------------
+top3 entities near to cluster0>>
+炎天下, ハード, 暑い
+top3 entities near to cluster1>>
+アスレチック, グランピング, ファミリージョッキーファミリートレーナー
+top3 entities near to cluster2>>
+スプレー, アラーム, ダメージ
+top3 entities near to cluster4>>
+アレンジ, アクセント, ボリューム
+top3 entities near to cluster5>>
+スタッフ, オススメ, おすすめ
+top3 entities near to cluster8>>
+レストラン, ホテル, リゾート
+top3 entities near to cluster9>>
+雰囲気, ムード, スリル
+top3 entities near to cluster10>>
+シート, マット, タオル
+top3 entities near to cluster11>>
+ハウス, ランド, ロープ
+top3 entities near to cluster12>>
+食材, スープ, 料理
+top3 entities near to cluster13>>
+カフェ, デザート, アイス
+top3 entities near to cluster14>>
+高揚感, 気分, 高揚
+top3 entities near to cluster15>>
+挙句, 果て, 挙げ句
+top3 entities near to cluster25>>
+共用, 併設, 休憩
+top3 entities near to cluster26>>
+購入, 到着, 予約
+top3 entities near to cluster27>>
+時間, 夕方, 時
+top3 entities near to cluster29>>
+出航, 乗船, 航海
+top3 entities near to cluster30>>
+料金, 割引, 値段
+top3 entities near to cluster31>>
+灯台船, 食堂, 灯台
+top3 entities near to cluster32>>
+漁師
+top3 entities near to cluster33>>
+夕食, 食事, 夕飯
+top3 entities near to cluster34>>
+温泉, 料理, 食材
+top3 entities near to cluster35>>
+タン, ボウ, イカ
+top3 entities near to cluster39>>
+海風, 夏風, 海, 夏
+top3 entities near to cluster40>>
+椅子, 芝生, 屋根
+top3 entities near to cluster41>>
+命綱, 安全, 導線
+top3 entities near to cluster42>>
+木, 土, 金
+top3 entities near to cluster43>>
+中央付近, 近辺, 中央
+top3 entities near to cluster46>>
+外国, 海外, 国内
+top3 entities near to cluster47>>
+前半, 後半, 代
+top3 entities near to cluster48>>
+子供, 子ども, 大人
+top3 entities near to cluster49>>
+館, 小学, 記念
+top3 entities near to cluster50>>
+家族, 友達
+top3 entities near to cluster55>>
+景色, 部屋, 写真
+top3 entities near to cluster56>>
+入場券, 入場, フリーパスチケット
+top3 entities near to cluster57>>
+施設, 宿泊, ホテル
+top3 entities near to cluster58>>
+島, 南国, 海鮮

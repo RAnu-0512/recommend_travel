@@ -1,0 +1,65 @@
+--------------------similar_words:エアーパーク(航空自衛隊浜松広報館)--------------------
+top3 entities near to cluster0>>
+戦闘機, 艦載機, 戦闘, 艦載
+top3 entities near to cluster1>>
+戦闘機, 戦闘, F
+top3 entities near to cluster2>>
+航空, 自衛隊, 航空機
+top3 entities near to cluster3>>
+航空, 航空機, 空軍
+top3 entities near to cluster6>>
+飛行, 操縦, 着陸
+top3 entities near to cluster7>>
+ヘリ, 基地, 空軍
+top3 entities near to cluster8>>
+アトラクション, グッズ, ショップ
+top3 entities near to cluster9>>
+うなぎ, 鰻, ウナギ
+top3 entities near to cluster10>>
+航空機, 飛行機, 機体
+top3 entities near to cluster13>>
+気分, 興奮, 状態
+top3 entities near to cluster14>>
+感激, 感動, 感謝
+top3 entities near to cluster19>>
+姿, 間近, 光景
+top3 entities near to cluster21>>
+子供, 子ども, 大人
+top3 entities near to cluster22>>
+息子, 母, 父
+top3 entities near to cluster23>>
+友人, 家族, 友達
+top3 entities near to cluster25>>
+簡易式, 簡易, 可動式, 可動
+top3 entities near to cluster27>>
+体験, 操縦, 模擬
+top3 entities near to cluster30>>
+体験, 体験談, 体感
+top3 entities near to cluster31>>
+展示, 展覧, 出展
+top3 entities near to cluster32>>
+全, 3, 2
+top3 entities near to cluster33>>
+休館, 休業, 閉館
+top3 entities near to cluster34>>
+上映, 時間, 映画
+top3 entities near to cluster35>>
+時間, 所要
+top3 entities near to cluster36>>
+入場, 入場券, 入館券, 入館
+top3 entities near to cluster37>>
+写真, 撮影, 撮っ
+top3 entities near to cluster38>>
+活動, 広報
+top3 entities near to cluster39>>
+施設, 駐車, 宿泊
+top3 entities near to cluster40>>
+訓練, 離陸, 着陸
+top3 entities near to cluster42>>
+受付, 予約, 案内
+top3 entities near to cluster46>>
+軽食, 設備, 遊具
+top3 entities near to cluster47>>
+土産, おみやげ, 土産物
+top3 entities near to cluster49>>
+子供服, 洋服, 子供

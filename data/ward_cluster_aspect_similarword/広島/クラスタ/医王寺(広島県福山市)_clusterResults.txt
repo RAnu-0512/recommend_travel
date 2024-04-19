@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:医王寺(広島県福山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+太子殿, 鞆, 磯, 浦
+cluster1:(29)
+歴史, 大伴家持, 眺め, 常夜灯, 先, 島, 御影堂, 高台, 鞆港, 医王寺, 上, 町, 九十九折, 問, 指定, 雰囲気, ふむろ, 前, 中腹, 景色, 仙酔島, 奥, 一部, 山, 場所, 配置, 歌, 自然, 値打ち
+cluster2:(11)
+鐘楼, 石畳, 坂道, 境内, 歌碑, 寺, 山道, 寺社, 靴, 本堂, 階段
+cluster3:(6)
+木見し人, 広島県, 語り告げむか, 福山市, 記念切手, 瀬戸内海国立公園
+
+howmany entities : 50
+howmany clusters : 4
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 4
+deleted 0entities.

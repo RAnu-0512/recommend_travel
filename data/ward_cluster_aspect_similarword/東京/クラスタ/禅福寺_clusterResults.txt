@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:禅福寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+多摩川, 歴史, 寺, 指定, 火災, 文化財, 建てもの, 時代, 山門, 町, 室町
+cluster1:(2)
+奥多摩街道, 屋根風
+cluster2:(1)
+禅福寺
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

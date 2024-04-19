@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三十三間堂跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+門前仲町駅, 木場駅, 徒歩
+cluster1:(12)
+途中, 京都, 門前仲町, 左, 矢, 富岡八幡宮, 趣, 数, レリーフ, こと, 掲示板, 側
+cluster2:(6)
+石碑, 建物, 跡地, 見学, 観音, 境内
+cluster3:(1)
+案内板
+cluster4:(1)
+三十三間堂
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

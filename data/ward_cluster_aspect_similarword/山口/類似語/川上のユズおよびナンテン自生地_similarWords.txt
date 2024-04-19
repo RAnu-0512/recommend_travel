@@ -1,0 +1,7 @@
+--------------------similar_words:川上のユズおよびナンテン自生地--------------------
+top3 entities near to cluster0>>
+ユズ, 柚子, ゆず
+top3 entities near to cluster1>>
+川上, 川下, 小川
+top3 entities near to cluster2>>
+自生地, 群生地, 自生, 群生

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神津島温泉保養センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+露天グループ, 脱衣室, 内湯, 湯舟, 湯船, 温泉施設, 露天, 飲食施設, 温泉 露天風呂, 温泉, 湯あみ, 風呂, 混浴露天風呂
+cluster1:(3)
+裸, 水着, 服
+cluster2:(3)
+海辺, 岩場, 海
+cluster3:(2)
+虫, 星
+cluster4:(3)
+道路, バス, 道
+cluster5:(4)
+時間, 外, 受付, 訪問
+cluster6:(3)
+水風呂, ぬるめ, プラスサウナ
+cluster7:(2)
+バス停, 海沿い
+cluster8:(4)
+備え付け, 露天風呂, 目隠し, ジャグジー
+cluster9:(1)
+人
+cluster10:(2)
+建物, 体
+cluster11:(1)
+脇
+cluster12:(4)
+必要 内風呂, 休憩スペース, 展望露天風呂, 必要
+cluster13:(1)
+熱め
+cluster14:(4)
+反対側, 海側, 岩壁, 泉質
+cluster15:(1)
+繁忙期
+
+howmany entities : 51
+howmany clusters : 16
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 16
+deleted 0entities.

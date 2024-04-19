@@ -1,0 +1,11 @@
+--------------------similar_words:隅田川神社--------------------
+top3 entities near to cluster0>>
+徒歩, 光景
+top3 entities near to cluster1>>
+神社, 境内, 本殿
+top3 entities near to cluster2>>
+東武, 東武鉄道, サウスヒルズ
+top3 entities near to cluster3>>
+鎮守, 総, 司令
+top3 entities near to cluster4>>
+淵, 鐘, 含満

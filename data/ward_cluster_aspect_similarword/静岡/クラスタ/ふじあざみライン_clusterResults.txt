@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふじあざみライン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 演習場
+cluster1:(3)
+道幅, 交通量, 道路
+cluster2:(10)
+須走, トイレ, 気持ち, カーブ, 富士山, ドカーン, 音, 自衛隊, 近く, 時期
+cluster3:(1)
+松並木
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:象小屋跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+象, 象小屋
+cluster1:(2)
+時代, 跡地
+cluster2:(1)
+住宅地
+cluster3:(1)
+中野坂
+cluster4:(1)
+徳川吉宗
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

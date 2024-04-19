@@ -1,0 +1,35 @@
+--------------------similar_words:レンブラントスタイル西葛西--------------------
+top3 entities near to cluster0>>
+食べ, 料理, 食材
+top3 entities near to cluster1>>
+アイス, アイスクリーム, ゼリー
+top3 entities near to cluster2>>
+デザート, ケーキ, スイーツ
+top3 entities near to cluster3>>
+ホール, ロビー, コロナ
+top3 entities near to cluster4>>
+メイン, スタッフ, サービス
+top3 entities near to cluster5>>
+雰囲気, メリハリ, 印象
+top3 entities near to cluster6>>
+バッグ, サイズ, クルマ
+top3 entities near to cluster7>>
+コスパ, コストパフォーマンス, コストパ
+top3 entities near to cluster8>>
+タイム, サービス, トラベル
+top3 entities near to cluster9>>
+サラダ, パスタ, グラタン
+top3 entities near to cluster10>>
+サラダ, ステーキ, ランチ
+top3 entities near to cluster11>>
+宿泊, 予約, 駐車
+top3 entities near to cluster12>>
+女性, 男性, 妙齢
+top3 entities near to cluster13>>
+男性, 女性, 男女
+top3 entities near to cluster14>>
+女性, 男性, 大勢
+top3 entities near to cluster15>>
+男子, 女子, 中学生
+top3 entities near to cluster17>>
+失, 消え, 無くし

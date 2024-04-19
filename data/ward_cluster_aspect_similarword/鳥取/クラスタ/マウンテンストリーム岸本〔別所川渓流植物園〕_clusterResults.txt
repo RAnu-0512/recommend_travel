@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マウンテンストリーム岸本〔別所川渓流植物園〕>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供たち, 子供連れ
+cluster1:(2)
+滝, 渓流
+cluster2:(2)
+子, 小さい子
+cluster3:(3)
+所, 料金, 場所
+cluster4:(6)
+水, 地元, 辺り, 先, 名前, 途中
+cluster5:(9)
+人間, ところ, 川遊び, 水遊び, 公園, レジャー, 人, 大人, 土地
+cluster6:(1)
+開設
+cluster7:(1)
+駐車場
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 8
+deleted 0entities.

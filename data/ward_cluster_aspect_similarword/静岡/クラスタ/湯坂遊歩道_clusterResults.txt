@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯坂遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湯ヶ野温泉, 湯ヶ野バス停
+cluster1:(2)
+石畳, 道
+cluster2:(2)
+趣, 眺め
+cluster3:(1)
+河津町
+cluster4:(1)
+伊豆の踊子文学碑
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

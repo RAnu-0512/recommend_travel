@@ -1,0 +1,13 @@
+--------------------similar_words:香山公園--------------------
+top3 entities near to cluster0>>
+名所, 周遊, 名物
+top3 entities near to cluster1>>
+国宝, 大名, 騎馬
+top3 entities near to cluster3>>
+角度, 巧み, 巧妙
+top3 entities near to cluster4>>
+本拠, 本拠地, 拠点
+top3 entities near to cluster5>>
+公園, 境内, 庭園
+top3 entities near to cluster6>>
+駐車場, 駐車, 公園

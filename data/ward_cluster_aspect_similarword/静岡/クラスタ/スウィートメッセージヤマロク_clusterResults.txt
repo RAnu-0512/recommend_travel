@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スウィートメッセージヤマロク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡, 石垣いちご
+cluster1:(15)
+イチゴ, カフェ, ハウス, ジェラート, テーブル, いちご, ビニールハウス, イチゴハウス, 海, 久能山, アイスクリーム, 子連れ, ジェラード, イチゴシャーベット, プラン
+cluster2:(2)
+全部, 種類
+cluster3:(3)
+最後, 中, 方
+cluster4:(4)
+家族, 店, 場所, 施設
+cluster5:(2)
+貸切, プラン特典
+cluster6:(4)
+食べ放題, 時間制限, いちご狩り, イチゴ狩り
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 6entities.

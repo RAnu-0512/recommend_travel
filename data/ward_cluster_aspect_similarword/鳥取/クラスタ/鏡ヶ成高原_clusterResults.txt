@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鏡ヶ成高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宿泊施設, 駐車場
+cluster1:(2)
+高原, ブナ
+cluster2:(2)
+奥, 広場
+cluster3:(3)
+山, 花, 季節
+cluster4:(2)
+鏡ヶ成, 烏ヶ山
+cluster5:(2)
+ツーリング, スケッチ
+cluster6:(2)
+ところ, あいにく
+cluster7:(1)
+子ども
+cluster8:(1)
+向こう
+cluster9:(1)
+遊歩道
+cluster10:(1)
+人
+cluster11:(1)
+途中
+cluster12:(2)
+車, 世界
+cluster13:(2)
+表示, 休憩
+cluster14:(7)
+天然水, 湿原楽しめるスポット, 雨, 雨模様, 湿原, 水音, 冒険気分
+cluster15:(6)
+大山, 大山休暇村, 休暇村, サントリー奥大山, 原生林, 蒜山高原
+cluster16:(1)
+高原湿原自然観察路
+
+howmany entities : 38
+howmany clusters : 17
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 17
+deleted 0entities.

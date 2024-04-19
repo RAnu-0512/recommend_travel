@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮永寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史, 幼稚園
+cluster1:(1)
+元気
+cluster2:(1)
+大いちょう
+cluster3:(1)
+寺
+cluster4:(1)
+徳川
+cluster5:(1)
+信子
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

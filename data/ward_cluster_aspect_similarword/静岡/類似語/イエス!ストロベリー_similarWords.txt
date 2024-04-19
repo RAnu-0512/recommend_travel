@@ -1,0 +1,17 @@
+--------------------similar_words:イエス!ストロベリー--------------------
+top3 entities near to cluster0>>
+食べ, 制覇, 食する
+top3 entities near to cluster1>>
+イチゴ, いちご, 苺
+top3 entities near to cluster2>>
+決定, 対応, 参考
+top3 entities near to cluster4>>
+種類, 数種類, ほか
+top3 entities near to cluster7>>
+受付, 予約, 料金
+top3 entities near to cluster8>>
+甘み, 風味
+top3 entities near to cluster12>>
+女性, 男性, スタッフ
+top3 entities near to cluster13>>
+時間帯, 大きい, 時間

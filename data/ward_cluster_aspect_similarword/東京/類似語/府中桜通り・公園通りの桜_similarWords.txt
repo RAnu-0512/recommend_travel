@@ -1,0 +1,15 @@
+--------------------similar_words:府中桜通り・公園通りの桜--------------------
+top3 entities near to cluster0>>
+花見, 満開, 散歩
+top3 entities near to cluster1>>
+季節, 時期, 時季
+top3 entities near to cluster3>>
+背景, とおり, 経緯
+top3 entities near to cluster4>>
+帰り道, 夕方
+top3 entities near to cluster5>>
+提灯, 屋台店, 屋台
+top3 entities near to cluster6>>
+道幅, 幅員, 川幅
+top3 entities near to cluster7>>
+桜, 八重桜, 並木

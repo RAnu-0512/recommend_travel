@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若山牧水記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+若山牧水記念館, 若山牧水碑, 若山牧水の記念館, 牧水, 若山牧水
+cluster1:(2)
+入館料, 障害者手帳
+cluster2:(20)
+静岡, 沼津, 受付スタッフ, 彼, 館内, こと, 方, 旅館, カメラ, 甲, 旅行, 各種割引, 近く, 晩年, 記憶, 松林, 地, 記念館, 体操, 沼津港
+cluster3:(5)
+千本浜公園, 伊豆長岡2泊+沼津4, 千本松原, 千本浜, 千本浜沿い
+
+howmany entities : 32
+howmany clusters : 4
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 2entities.

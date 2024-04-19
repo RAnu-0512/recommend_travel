@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土肥オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+中, 時期, 友人
+cluster1:(3)
+自然, 気候, 景観
+cluster2:(1)
+土肥オートキャンプ場
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 1entities.

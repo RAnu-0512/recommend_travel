@@ -1,0 +1,9 @@
+--------------------similar_words:東京メトロ千代田線町屋駅--------------------
+top3 entities near to cluster0>>
+駅, 乗換, 駅前
+top3 entities near to cluster1>>
+雰囲気, 活気
+top3 entities near to cluster2>>
+都心線, 都電, 都心
+top3 entities near to cluster3>>
+京成, 電車, 駅

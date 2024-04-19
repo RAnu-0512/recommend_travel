@@ -1,0 +1,15 @@
+--------------------similar_words:豊田湖畔公園キャンプ場--------------------
+top3 entities near to cluster0>>
+釣具, 釣果
+top3 entities near to cluster2>>
+手ぶら, ボート, カヌー
+top3 entities near to cluster3>>
+家族, 子供
+top3 entities near to cluster4>>
+公園, 桟橋
+top3 entities near to cluster5>>
+天気, お天気, 快晴
+top3 entities near to cluster6>>
+家族連れ, 家族, つれ
+top3 entities near to cluster8>>
+管理棟, 休憩棟, 管理, 休憩

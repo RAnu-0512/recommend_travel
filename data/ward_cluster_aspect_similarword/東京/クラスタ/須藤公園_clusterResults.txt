@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須藤公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+須藤吉左衛門, 須藤公園, 安田楠雄
+cluster1:(4)
+日本庭園, 大名庭園, 庭園, 屋敷跡
+cluster2:(3)
+住宅, 住宅街, 地元住民
+cluster3:(4)
+再整備, 改修, 工事, 整備
+cluster4:(2)
+品川弥二郎, 江戸時代
+cluster5:(2)
+池, あり池
+cluster6:(2)
+下町, 路地
+cluster7:(2)
+大人, 子供
+cluster8:(3)
+近く, トイレ, 雰囲気
+cluster9:(2)
+所, 場所
+cluster10:(1)
+右
+cluster11:(1)
+癒しスポット
+cluster12:(2)
+駅, 千駄木駅
+cluster13:(3)
+散歩スポット, 公園, 遊具
+cluster14:(2)
+滝, 藤棚
+cluster15:(1)
+高低差
+
+howmany entities : 37
+howmany clusters : 16
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 16
+deleted 0entities.

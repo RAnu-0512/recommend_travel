@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深川公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+石碑, 公園, 場, 憩い, 跡地, 門前仲町駅, 広場, 参道, 遊具
+cluster1:(3)
+手前, 右, 奥
+cluster2:(3)
+歴史, 明治, 時代
+cluster3:(13)
+人, 子供, 緑, 近く, 住民, サッカー, 富岡八幡宮, そば, こじんまり, テニスコート, 側, 地元, 運動公園
+cluster4:(6)
+カメラ撮影, 車移動, 感じ, 見学, 休憩, 参り
+cluster5:(1)
+鬱憤
+cluster6:(18)
+燈明, 鶴岡八幡宮, 永代寺, 深川, 深川不動, 深川公園, 日清戦争, 深川不動堂, 公立公園, 日本初めの公園, 園外, 廃寺, 子供達, 子供たち, 野球練習場, 少年野球, 神仏分離令, 多目的広場
+
+howmany entities : 53
+howmany clusters : 7
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海岸寺山門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建築様式, 建築
+cluster1:(3)
+小金井街道, 小金井市, 小平市
+cluster2:(4)
+海岸寺, 鎌倉, 時代, 山門
+cluster3:(1)
+指定有形文化財
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふれあい下水道館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+入館無料, 展示内容, 展示
+cluster1:(2)
+西武国分寺線, 台駅
+cluster2:(5)
+回復, 大雨, 中止, 天候, 影響
+cluster3:(6)
+光景, 見学, 歴史, 勉強, 資料, 説明
+cluster4:(13)
+場所, 下部, 先, 子供, 近く, ジメッ, 博物館, 日本, 中, 本物, 中央公園, もの, 横
+cluster5:(2)
+臭い, ふた
+cluster6:(4)
+玉川上水沿い, 地下, 鷹, 階段
+cluster7:(1)
+地下深く
+cluster8:(7)
+下水道局, 下水道設備, 下水道, 施設, 下水, ふれあい下水道館, 下水道博物館
+cluster9:(3)
+水道関連, 下水道管, 水道
+cluster10:(1)
+場所公共施設
+
+howmany entities : 47
+howmany clusters : 11
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:犬カフェ 猫カフェ はちゅう類カフェ アニマルカフェMILK--------------------
+top3 entities near to cluster1>>
+猫, ネコ, ねこ
+top3 entities near to cluster2>>
+飼い犬, ワンコ
+top3 entities near to cluster5>>
+カフェ, コーヒー, デザート
+top3 entities near to cluster9>>
+子服, 子供服, 子, 子供

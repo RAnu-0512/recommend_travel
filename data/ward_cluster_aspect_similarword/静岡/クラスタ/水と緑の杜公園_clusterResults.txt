@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水と緑の杜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+川, 山, 公園
+cluster1:(8)
+先, 場所, ランニング, 管理, 中央, 周り, 空, ウォーキング
+cluster2:(1)
+平坦
+cluster3:(1)
+空気
+cluster4:(1)
+上流
+cluster5:(1)
+小川
+cluster6:(2)
+駐車場, 道路沿い
+cluster7:(1)
+桃沢野外活動センター
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 7entities.

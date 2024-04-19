@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛染院跡の溶岩塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三島駅, 三叉, 石仏
+cluster1:(2)
+所, 場所
+cluster2:(4)
+途中, 富士山, 近く, 真ん中あたり
+cluster3:(1)
+道路
+cluster4:(1)
+近く車
+cluster5:(2)
+何か, お社
+cluster6:(1)
+知り距離
+cluster7:(8)
+浅間神社, 溶岩流, 溶岩塚, 三島溶岩流, 塚, 溶岩, 流, 楽寿園
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 7entities.

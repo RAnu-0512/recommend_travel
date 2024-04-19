@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:早霧湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+釣り, 釣り吉
+cluster1:(2)
+池, 湖
+cluster2:(8)
+ボート, 場所, 釣り場, 管理, 山, 観光, 近く, 伊豆半島
+cluster3:(1)
+修善寺温泉
+cluster4:(1)
+静岡県
+cluster5:(2)
+早霧湖, へら鮒釣り
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 8entities.

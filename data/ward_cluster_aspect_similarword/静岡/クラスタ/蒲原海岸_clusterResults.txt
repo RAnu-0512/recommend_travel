@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒲原海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地形, 釣り
+cluster1:(6)
+夏, 市, 海岸, 夕日, 南側, 海
+cluster2:(4)
+気, こと, 禁止, 遊泳
+cluster3:(3)
+蒲原海岸, 海岸線, 水平線
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 2entities.

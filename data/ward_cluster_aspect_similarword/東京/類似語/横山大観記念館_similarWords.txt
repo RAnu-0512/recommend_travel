@@ -1,0 +1,23 @@
+--------------------similar_words:横山大観記念館--------------------
+top3 entities near to cluster0>>
+大観, 住雄, 寅一郎
+top3 entities near to cluster1>>
+歴史, 趣, 価値
+top3 entities near to cluster2>>
+美術館, 博物館, ミュージアム
+top3 entities near to cluster3>>
+処, そば, 蕎麦
+top3 entities near to cluster4>>
+ココ, 此処, 其処
+top3 entities near to cluster5>>
+時間, 日数, 時
+top3 entities near to cluster6>>
+自宅
+top3 entities near to cluster7>>
+都会, 田舎, 都会人
+top3 entities near to cluster8>>
+受付, 受付け, 予約
+top3 entities near to cluster10>>
+建物, 家屋, 建築
+top3 entities near to cluster11>>
+展示, 展覧, 所蔵

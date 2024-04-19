@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:音信川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口県, 長門湯本, 長門
+cluster1:(2)
+休憩スポット, 朝食
+cluster2:(2)
+飛び石, 川遊び
+cluster3:(5)
+ホタル, ベンチ, パラソル, 願い事, ホテル
+cluster4:(3)
+前, 場所, ココ
+cluster5:(1)
+水
+cluster6:(1)
+小雨
+cluster7:(7)
+温泉街, 川, 川テラス, 音信川, 恩湯, 雁木広場, 川床
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 8
+deleted 0entities.

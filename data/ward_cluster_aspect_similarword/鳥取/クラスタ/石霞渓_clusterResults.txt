@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石霞渓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鳥取, 岡山
+cluster1:(2)
+辺り, 中国
+cluster2:(1)
+石霞渓
+
+howmany entities : 5
+howmany clusters : 3
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 3
+deleted 0entities.

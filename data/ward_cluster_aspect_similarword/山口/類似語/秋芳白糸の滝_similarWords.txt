@@ -1,0 +1,23 @@
+--------------------similar_words:秋芳白糸の滝--------------------
+top3 entities near to cluster1>>
+白糸, 絹糸
+top3 entities near to cluster2>>
+道中, 山道
+top3 entities near to cluster3>>
+イオン, マイナス, ジャスコ
+top3 entities near to cluster4>>
+目当て, 気持ち, オススメ
+top3 entities near to cluster5>>
+遊歩道, トイレ, 公園
+top3 entities near to cluster6>>
+人達, 大勢
+top3 entities near to cluster7>>
+時間, 近辺
+top3 entities near to cluster8>>
+営業, 内勤, 定休
+top3 entities near to cluster9>>
+夏, 夏場, 自然
+top3 entities near to cluster11>>
+道幅, 景観, 景色
+top3 entities near to cluster12>>
+滝, 駐車場, 駐車

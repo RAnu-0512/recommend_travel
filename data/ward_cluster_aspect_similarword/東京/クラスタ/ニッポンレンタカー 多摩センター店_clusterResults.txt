@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 多摩センター店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ニッポン, 場所, レンタカー
+cluster1:(3)
+駅, 店, 店舗
+cluster2:(3)
+笑顔, 口調, 接客
+cluster3:(1)
+女性店員
+cluster4:(1)
+多摩センター駅
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

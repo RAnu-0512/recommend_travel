@@ -1,0 +1,9 @@
+--------------------similar_words:京王電鉄井の頭線渋谷駅--------------------
+top3 entities near to cluster0>>
+改札, 駅, 構内
+top3 entities near to cluster1>>
+京王, 電鉄, 井の頭線
+top3 entities near to cluster2>>
+シティ, マーク, シティー
+top3 entities near to cluster4>>
+東急, 東横線, 駅

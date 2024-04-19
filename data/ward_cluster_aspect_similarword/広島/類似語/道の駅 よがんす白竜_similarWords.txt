@@ -1,0 +1,11 @@
+--------------------similar_words:道の駅 よがんす白竜--------------------
+top3 entities near to cluster0>>
+湖畔, 白竜, 湖
+top3 entities near to cluster1>>
+駅道, 駅, 駅前
+top3 entities near to cluster2>>
+食事, レストラン, 施設
+top3 entities near to cluster3>>
+野菜, 果物, 食材
+top3 entities near to cluster4>>
+洋風, 建築, 和風

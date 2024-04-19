@@ -1,0 +1,7 @@
+--------------------similar_words:玉川上水(桜堤〜御殿山)--------------------
+top3 entities near to cluster0>>
+時代, 幕末, 近世
+top3 entities near to cluster1>>
+河川敷, 土手, 水辺
+top3 entities near to cluster3>>
+太宰, 治, 嶌健

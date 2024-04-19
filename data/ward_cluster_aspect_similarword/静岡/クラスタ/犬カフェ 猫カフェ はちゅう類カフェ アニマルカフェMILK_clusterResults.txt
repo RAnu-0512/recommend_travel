@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:犬カフェ 猫カフェ はちゅう類カフェ アニマルカフェMILK>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ワンチャン達, ワンちゃん
+cluster1:(5)
+猫カフェスペース, 猫カフェ, 猫, 猫ちゃん, 初猫カフェ
+cluster2:(3)
+犬派, 犬カフェ, 犬
+cluster3:(2)
+時間, 集合時間
+cluster4:(8)
+途中, 方, にゃんこ, 笑, 変更, 感じ, 駄目, 上
+cluster5:(10)
+カフェ, コーヒー, おなか, ろ, オヤツ, ドリンク, コース, カップ, ブラック, ワンチャン
+cluster6:(2)
+予約, 電話
+cluster7:(2)
+店員, 客
+cluster8:(1)
+入れ替え制
+cluster9:(5)
+服, 子, 洗礼, 子供, 子達
+cluster10:(2)
+ドア, 穴
+cluster11:(2)
+膝, 爪
+cluster12:(1)
+撫
+cluster13:(2)
+予想どーり 愛嬌, 清潔感
+
+howmany entities : 47
+howmany clusters : 14
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 5
+deleted 16entities.

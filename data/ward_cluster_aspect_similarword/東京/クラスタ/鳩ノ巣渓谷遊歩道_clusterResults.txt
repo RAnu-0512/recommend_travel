@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳩ノ巣渓谷遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+鳩ノ巣駅, 鳩ノ巣渓谷遊歩道, 鳩ノ巣渓谷, 鳩ノ巣小橋
+cluster1:(36)
+所, 山, ゆっくり目, 木々, 下流, 景色, ダム, 靴, 気, エメラルドグリーン, 気持ち, ところ, 紅葉, 近く, 車道, 歩く, こり, 水辺, 秋, 遊歩道, 駅, 時期, 川, 歩道, 一部通行止め, 湿気, 奥多摩駅, 不向き, 眼下, トレッキングシューズ, 中, こと, 道, 柵, ゴロゴロ, 我が家
+cluster2:(2)
+白丸駅, 白丸ダム
+cluster3:(2)
+岩, 岩々
+cluster4:(2)
+渓谷, 渓谷美
+cluster5:(3)
+古里駅, 大多摩ウォーキングトレイル, 古里
+
+howmany entities : 49
+howmany clusters : 6
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 6
+deleted 0entities.

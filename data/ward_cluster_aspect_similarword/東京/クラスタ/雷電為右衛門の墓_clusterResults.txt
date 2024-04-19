@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雷電為右衛門の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+墓地, 墓, 坂道, 通勤, 裏道
+cluster1:(13)
+途中, ホテル, 価値, 事, デス, 細部, カナダ大使館, 前, 看板, 足, 周り, 歴史, 行く先
+cluster2:(2)
+花, 寺
+cluster3:(2)
+井部, 練塀
+cluster4:(1)
+赤坂
+cluster5:(1)
+力士
+cluster6:(1)
+表示板
+cluster7:(7)
+城西大学水田記念博物館, 墓解説文, 見学散策途中, 報土寺, 大石化石ギャラリー, 江戸時代, 高円宮記念ギャラリー企画展
+cluster8:(3)
+六本木ヒルズ52階水木しげる妖怪展, 雷電為右衛門の墓, 雷電為右衛門
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 9
+deleted 0entities.

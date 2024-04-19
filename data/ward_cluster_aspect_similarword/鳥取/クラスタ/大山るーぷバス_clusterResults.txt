@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山るーぷバス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観光地, 乗車特典, 運行ルート, 停車場所
+cluster1:(2)
+大山, 大山寺
+cluster2:(3)
+見どころ, 中心, バス
+cluster3:(3)
+米子駅, 大山方面, 米子
+cluster4:(1)
+土日祝日
+cluster5:(4)
+乗り放題乗車券, 観光ルート運行バス, 大山るーぷバス, 観光路線バス
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

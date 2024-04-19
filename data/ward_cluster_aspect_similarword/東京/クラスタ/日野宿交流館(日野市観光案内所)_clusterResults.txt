@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日野宿交流館(日野市観光案内所)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光案内所, 観光案衣所, お土産屋
+cluster1:(18)
+本陣, 観光, 文化センター, 東京都, 場所, 展示室, 納得, 新選組, 支店, 日野市, 八王子, 施設, 甲州街道, 信用金庫, 道路, 歴史, 資料, 日野駅
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

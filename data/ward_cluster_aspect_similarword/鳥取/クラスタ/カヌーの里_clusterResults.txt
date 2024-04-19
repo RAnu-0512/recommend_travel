@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カヌーの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+カヌー, カヌースラローム
+cluster1:(1)
+コース
+cluster2:(1)
+日野川
+cluster3:(1)
+家族
+cluster4:(1)
+大会
+cluster5:(1)
+里
+cluster6:(1)
+中流
+cluster7:(1)
+西日本屈指
+cluster8:(1)
+適地
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

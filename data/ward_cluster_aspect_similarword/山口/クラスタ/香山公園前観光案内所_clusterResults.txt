@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香山公園前観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口県, 香山公園, 山口市
+cluster1:(4)
+近く, パンフレット, 名, 瑠璃光寺
+cluster2:(3)
+資料, 公園, 建物
+cluster3:(7)
+案内, 観光地, 観光案内所, 観光スポット, 観光, 駐車場, 案内所
+cluster4:(1)
+香山公園前観光案内所
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,19 @@
+--------------------similar_words:六義園の紅葉--------------------
+top3 entities near to cluster0>>
+庭, 中庭, 散策
+top3 entities near to cluster1>>
+景色, 風情, 光景
+top3 entities near to cluster2>>
+時期, 時, 期間
+top3 entities near to cluster3>>
+夜間, 夜, 昼間
+top3 entities near to cluster4>>
+紅葉, 紅葉狩り, 黄葉
+top3 entities near to cluster5>>
+入園料, 入園, 入場料, 入場
+top3 entities near to cluster6>>
+庭園, 中庭, 名園
+top3 entities near to cluster7>>
+園内, 館内, 全体
+top3 entities near to cluster8>>
+桜, 花, 櫻

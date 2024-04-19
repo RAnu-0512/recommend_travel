@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キッズユーエスランド 東京吉祥寺店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+赤ちゃん, 場所, 子ども, 制限, 子供, 通路, 飲食, ロッカー, ワニワニパニック, アスレチック, マッサージチェア, 有料, エアーホッケー, 椅子, 持ち込み, コース, キッズランド, パック, レール
+cluster1:(2)
+木製電車, 遊具
+cluster2:(3)
+入場, 授乳室, 再入場
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 3
+deleted 0entities.

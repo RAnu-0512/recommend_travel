@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急電鉄町田駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+百貨店, JR, 東京, 小田急百貨店, 小田急, 小田原市, 新宿, 小田原
+cluster1:(3)
+口調, 具合, 性格
+cluster2:(3)
+人生, 教育, 妊婦
+cluster3:(11)
+店, 人達, 人, 乗り換え, ほか, 買い物, 移動, ベッド, 歩道橋, 部屋, 周辺
+cluster4:(2)
+雨, 景色
+cluster5:(1)
+乗り換え客
+cluster6:(4)
+隅, 床, 椅子, 眩暈
+cluster7:(3)
+目指す品, 利用者, 学生時代
+cluster8:(1)
+入荷待ち
+cluster9:(32)
+駅員, JR横浜線, 乗降訳, 快速, 切符, 快速急行, 両駅, 小田急電鉄小田原線, ターミナル駅, 駐車場, 駅側, 救護室, 駅名, 普通電車, 場, 救急車よぶ, 百貨店側, 駅, ビル 小田急百貨店, 駅前渋滞, 改札, 駐車料金, 電車, 町田店, 急行, 町田駅, 小田急線, 小田急町田駅, 特急, 駅員室, 乗降客, 駅ビル
+
+howmany entities : 68
+howmany clusters : 10
+howmany entities (more than1entities) : 68
+howmany clusters (more than1entities) : 10
+deleted 0entities.

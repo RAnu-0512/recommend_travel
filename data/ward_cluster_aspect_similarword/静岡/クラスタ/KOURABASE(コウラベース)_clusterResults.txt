@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:KOURABASE(コウラベース)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+朝ご飯, 遠足気分
+cluster1:(4)
+人間性, 写り, 魅力, 人柄
+cluster2:(4)
+屋外シャワー, 岩場, 景色, 山頂上
+cluster3:(6)
+魚, 光, 朝日, 波, 海, 風
+cluster4:(20)
+プライベートレッスン, 利用, パドル, 南伊豆, 安全, ライフジャケットレンタル, レイクSUP, 当方SUP, 大人, シャワー, 体験, マリンシューズ, sup, SUP, レベル, 友達, 間違い, 自然, 場所, オーナー
+cluster5:(1)
+民泊
+cluster6:(1)
+SUP・リー
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 4
+deleted 4entities.

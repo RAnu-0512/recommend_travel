@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本地のクロガネモチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+クロガネモチ, 木
+cluster1:(1)
+地
+cluster2:(1)
+幹周り
+cluster3:(1)
+高さ
+cluster4:(1)
+県指定天然記念物
+cluster5:(1)
+広島県北広島町
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

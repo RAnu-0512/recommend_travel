@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ローソン高幡不動駅北口店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+コンビニ, コーヒー, ローソン, ローソンセレクト, 京王線
+cluster1:(2)
+商品, 価格
+cluster2:(1)
+高幡不動駅
+cluster3:(2)
+菓子, レモン風味
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

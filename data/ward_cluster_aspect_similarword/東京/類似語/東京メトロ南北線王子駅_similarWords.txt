@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ南北線王子駅--------------------
+top3 entities near to cluster1>>
+都電, メトロ, 都心
+top3 entities near to cluster2>>
+利便, 駅, 距離
+top3 entities near to cluster3>>
+南北線, 駅線, 駅, 南北

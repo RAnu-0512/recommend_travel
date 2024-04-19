@@ -1,0 +1,11 @@
+--------------------similar_words:ほととぎす橋--------------------
+top3 entities near to cluster0>>
+鉄橋, 橋梁
+top3 entities near to cluster1>>
+パイプ
+top3 entities near to cluster2>>
+景色, 色合い
+top3 entities near to cluster4>>
+森林, 山林, 林業
+top3 entities near to cluster5>>
+鳥居, 如昌, 大鳥居

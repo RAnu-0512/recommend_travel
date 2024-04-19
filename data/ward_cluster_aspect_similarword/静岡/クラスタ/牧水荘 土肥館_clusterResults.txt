@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牧水荘 土肥館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+温泉, 洞窟風呂, 料理, 展望貸切露天風呂, 車係, 宿, お湯, 旅館, 食事処, 旅行, 食事, 露天, 部屋, 洞窟, 風呂, 展示室, 宿泊
+cluster1:(3)
+巖, 夕陽, 岩
+cluster2:(6)
+品, 質, 趣, 趣向, 量, サウナ感
+cluster3:(3)
+それ故, 会長, 館長
+cluster4:(19)
+雨, 笑顔, 今回, 帰り, ドライビングテクニック, 見送り, 入れ替え, テーブルぎっしり腹いっぱい, 人, 気持ち, 露天風呂, ギャラリー, 男性, 雰囲気, 説明, 最上階, 出迎え, 方, プラン
+cluster5:(2)
+縁, ゴム
+cluster6:(2)
+素早さ, こやかさ
+cluster7:(2)
+女性従業員, 若山牧水
+
+howmany entities : 54
+howmany clusters : 8
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 5
+deleted 6entities.

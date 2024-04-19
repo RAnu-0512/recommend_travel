@@ -1,0 +1,11 @@
+--------------------similar_words:石臼塚--------------------
+top3 entities near to cluster1>>
+石臼, 石うす, 供養
+top3 entities near to cluster2>>
+塚, 火切, 石臼
+top3 entities near to cluster3>>
+製粉業, 機械業, 製粉, 機械
+top3 entities near to cluster4>>
+境内, 時代, 町並み
+top3 entities near to cluster5>>
+古い, 良い, よい

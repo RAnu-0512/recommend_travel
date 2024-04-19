@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉吉鉄道記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ディーゼル機関車, 貨車移動, 運転席
+cluster1:(5)
+SL, 電気, 県道, 鉄道, 列車ダイヤグラム
+cluster2:(2)
+跡地, 廃止
+cluster3:(4)
+思い, 流れ, 方, 場所
+cluster4:(5)
+前後, 機関車, キャプション, 昔, 倉吉線
+cluster5:(1)
+テツ
+cluster6:(1)
+往
+cluster7:(10)
+窓, 展示, 大物, 屋外, 役者, 資料, 写真パネル, 小物, 写真, 館内
+cluster8:(1)
+すぐわき
+cluster9:(1)
+記念館
+cluster10:(6)
+倉吉市, 廃線跡, 鉄道保存展示施設, 白壁土蔵群, 鳥取県, 打吹駅
+cluster11:(1)
+蒸気機関車C11-75
+
+howmany entities : 40
+howmany clusters : 12
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 12
+deleted 0entities.

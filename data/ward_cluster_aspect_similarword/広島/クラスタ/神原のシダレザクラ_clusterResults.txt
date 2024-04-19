@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神原のシダレザクラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+広島市, 広島県, 佐伯区, 中区
+cluster1:(4)
+桜, しだれ桜, 花見, 満開
+cluster2:(2)
+枝, 枝ぶり
+cluster3:(3)
+大木例, 滝, 巨木
+cluster4:(3)
+大塚駅, 五日市町, 神原
+cluster5:(1)
+樹高
+cluster6:(25)
+ソメイヨシノ, 姿, 友人, 時期, 沿岸部, 風情, 個人, 花, 方, スポット, 唯一, 迫力, 周辺, アクセス, 車, 私邸, 価値, 人, 家族, 機会, 天然記念物, 気持ち, こと, 場所, 県
+cluster7:(1)
+シダレ桜
+
+howmany entities : 43
+howmany clusters : 8
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 8
+deleted 0entities.

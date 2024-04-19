@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯かむり温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+湯, 湯かむり, 岩井温泉, 日帰り温泉
+cluster1:(11)
+シャンプー, 事, 自販機, お湯, 温度, 風習, 熱め, 石鹸, タオル, 頭, ドライヤー
+cluster2:(1)
+源泉掛け流し
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

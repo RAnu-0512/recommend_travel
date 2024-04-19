@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コテージ森林村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+雨, 豪雨, 都心
+cluster1:(15)
+人, コテージ, 泊まり, 所, 催促, 屋根, 設備, BBQ, 避難, 突然, 肉, 男性スタッフ, 河原, 荷物, バーベキュー
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

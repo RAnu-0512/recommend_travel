@@ -1,0 +1,7 @@
+--------------------similar_words:荒木家住宅--------------------
+top3 entities near to cluster0>>
+住宅, 建物, 家屋
+top3 entities near to cluster1>>
+歴史家, 歴史, 政治家, 政治
+top3 entities near to cluster3>>
+屋根, やぶき, 茅葺き

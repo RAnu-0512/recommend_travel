@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:街道東城路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+竹屋饅頭, 竹屋饅頭本店, 竹屋
+cluster1:(2)
+広島市, 広島駅
+cluster2:(10)
+バラ, 宿泊, 購入, 社長, 内福屋, 広告, 前店, 地下, 在住, 土産
+cluster3:(1)
+帝釈峡国民休暇村
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,69 @@
+--------------------similar_words:道の駅 萩しーまーと--------------------
+top3 entities near to cluster0>>
+ランチ, おみやげ, レストラン
+top3 entities near to cluster1>>
+天ぷら, てんぷら, 焼き魚
+top3 entities near to cluster2>>
+サザエ, アワビ, アナゴ
+top3 entities near to cluster3>>
+売り場, 市場, 魚市場
+top3 entities near to cluster4>>
+海, 海水, 氷
+top3 entities near to cluster6>>
+併設, 充実, 拡充
+top3 entities near to cluster7>>
+購入, 注文, 利用
+top3 entities near to cluster9>>
+地元, 夕方, 週末
+top3 entities near to cluster12>>
+海鮮, 丼, 魚介
+top3 entities near to cluster13>>
+生鮮, 食品, 鮮魚
+top3 entities near to cluster14>>
+魚類, 魚介
+top3 entities near to cluster15>>
+肉, 刺身, 海鮮
+top3 entities near to cluster16>>
+煮, 定食, 煮込み
+top3 entities near to cluster17>>
+アジ, カマス, イサキ
+top3 entities near to cluster18>>
+定食, 刺身, 煮付
+top3 entities near to cluster19>>
+干物, 定食, 焼き魚
+top3 entities near to cluster20>>
+揃え, そろえ
+top3 entities near to cluster21>>
+加工品, 品等, 加工
+top3 entities near to cluster22>>
+特産品, 特産, 名産品, 名産
+top3 entities near to cluster23>>
+土産, おみやげ, 土産物
+top3 entities near to cluster24>>
+菓子, お菓子, 和菓子
+top3 entities near to cluster25>>
+土産屋, おみやげ屋, 土産, おみやげ
+top3 entities near to cluster26>>
+パン屋, ぐらび屋, パン, ぐらび
+top3 entities near to cluster27>>
+時間, 時間帯, 営業
+top3 entities near to cluster28>>
+食事, 処, 夕食
+top3 entities near to cluster30>>
+食事, 夕食, 朝食
+top3 entities near to cluster31>>
+ご飯, お昼, 夕食
+top3 entities near to cluster32>>
+保冷, バッグ, 保温
+top3 entities near to cluster33>>
+駅, 漁港, 施設
+top3 entities near to cluster34>>
+野菜, 食材, 鮮魚
+top3 entities near to cluster35>>
+惣菜店, 惣菜, 総菜店, 総菜
+top3 entities near to cluster36>>
+飲食, 飲食店, レストラン
+top3 entities near to cluster37>>
+店先, 店員
+top3 entities near to cluster38>>
+品物, 名産, 値段

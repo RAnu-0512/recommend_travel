@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市総合屋内プール(広島ビッグウェーブ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+牛田駅, 広島市, 広島ビッグウェーブ, 東区
+cluster1:(14)
+練習, 子供, 中, スケート利用, アストラムライン, プール, 水泳, 人, ビッグウェーブ, スケート, アイススケートリンク, 冬, スケートリンク, 夏
+cluster2:(3)
+駐車場, 総合屋内プール, スケート場
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

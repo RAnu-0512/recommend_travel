@@ -1,0 +1,13 @@
+--------------------similar_words:名古の展望台--------------------
+top3 entities near to cluster0>>
+景色, 眺め, 天気
+top3 entities near to cluster1>>
+海風, 海先, 海
+top3 entities near to cluster2>>
+高台, 木製, 鉄製
+top3 entities near to cluster3>>
+灯台, 断崖, 燈台
+top3 entities near to cluster4>>
+バス, 岬, ツアー
+top3 entities near to cluster5>>
+展望台, 展望, 駐車台, 駐車

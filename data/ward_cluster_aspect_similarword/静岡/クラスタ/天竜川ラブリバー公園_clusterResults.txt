@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天竜川ラブリバー公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+遊具, 広場, 公園
+cluster1:(2)
+人, 名前
+cluster2:(2)
+散歩, 犬
+cluster3:(1)
+ラブリバー
+cluster4:(1)
+駐車場
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

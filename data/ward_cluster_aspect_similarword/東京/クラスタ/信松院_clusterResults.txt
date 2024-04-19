@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:信松院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+山梨県, 松姫, 布袋像, 八王子七福神巡り
+cluster1:(27)
+異国, 場所, 中心, 建物, 観音堂, 駐車場, 保護, 御朱印, 墓地, 本堂, 長男, 家族, 墓, 寺院, 都, 寺, 参拝, 廟, 地下, 開基, 前, 徒歩, 家紋, こと, 通り, 目, 外観
+cluster2:(4)
+武田信玄公, 信松院, こちら信松院, 信玄公
+
+howmany entities : 35
+howmany clusters : 3
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 3
+deleted 0entities.

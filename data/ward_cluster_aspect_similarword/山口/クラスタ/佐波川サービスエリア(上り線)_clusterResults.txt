@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐波川サービスエリア(上り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+三方, SA, 中, サービス, 意味, こと, 職人, 海, 山口, 売り物, コンビニ, サービスエリア
+cluster1:(3)
+寿司店, 海鮮丼, 寿司
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

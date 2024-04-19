@@ -1,0 +1,51 @@
+--------------------similar_words:小河内ダム--------------------
+top3 entities near to cluster0>>
+展示, 駐車, 施設
+top3 entities near to cluster1>>
+下流, 上流, 左岸
+top3 entities near to cluster2>>
+上水, 放水, 取水
+top3 entities near to cluster3>>
+水量, 渇水, 水源
+top3 entities near to cluster4>>
+バス, タクシー, ミニバス
+top3 entities near to cluster5>>
+建設, 施設, 設備
+top3 entities near to cluster6>>
+道路, 公園, 歩道
+top3 entities near to cluster7>>
+鉄橋, 歩道橋
+top3 entities near to cluster8>>
+バイク
+top3 entities near to cluster9>>
+渓谷, 温泉, 紅葉
+top3 entities near to cluster10>>
+景色, 景観, 山並み
+top3 entities near to cluster11>>
+湖, 湖畔, 湖面
+top3 entities near to cluster12>>
+堤, 谷, 城山
+top3 entities near to cluster13>>
+山奥, 水辺, 緑
+top3 entities near to cluster14>>
+眼下, 対岸, 迫力
+top3 entities near to cluster15>>
+想像, つけ
+top3 entities near to cluster17>>
+休憩, 到着, 一休み
+top3 entities near to cluster19>>
+周辺, 周囲, 周り
+top3 entities near to cluster20>>
+内部, 全体, 外側
+top3 entities near to cluster21>>
+時期, 時間, 時
+top3 entities near to cluster22>>
+人達, 人々
+top3 entities near to cluster23>>
+時間帯, 時間, 時の間
+top3 entities near to cluster24>>
+辛, 大きい, 難い
+top3 entities near to cluster25>>
+ダム, ダムサイト, 小里川
+top3 entities near to cluster26>>
+展望塔, 展望, 展望台

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木村城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高山城, 城址, 城郭
+cluster1:(4)
+隆景, 山城, 毛利, 竹原小早川
+cluster2:(4)
+初代政景, 往, 養子, 本拠
+cluster3:(2)
+和賀神社, 登山路
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

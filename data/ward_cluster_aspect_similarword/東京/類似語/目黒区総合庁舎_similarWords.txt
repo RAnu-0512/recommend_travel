@@ -1,0 +1,15 @@
+--------------------similar_words:目黒区総合庁舎--------------------
+top3 entities near to cluster0>>
+庁舎, 建物, 駐車
+top3 entities near to cluster1>>
+建物, 出入り口, 入り口
+top3 entities near to cluster2>>
+駅線, 東急東横線, 駅, 東急東横
+top3 entities near to cluster3>>
+行先, 表示, 行き先
+top3 entities near to cluster4>>
+乗り継ぎ便, 交通, 乗り継ぎ
+top3 entities near to cluster5>>
+専門, 案内, 精通
+top3 entities near to cluster6>>
+高低差, 高低, 差異

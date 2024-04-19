@@ -1,0 +1,31 @@
+--------------------similar_words:新宿プリンスホテル--------------------
+top3 entities near to cluster0>>
+食べ放題, 飲み放題, 食べ, 飲み
+top3 entities near to cluster2>>
+アート, ライブ, フロア
+top3 entities near to cluster4>>
+プラン, マンスリープラン, スタンダートプラン
+top3 entities near to cluster5>>
+デザート, レストラン, ハンバーガー
+top3 entities near to cluster6>>
+レストラン, ディナー, ホテル
+top3 entities near to cluster7>>
+サラダ, 天ぷら, カレー
+top3 entities near to cluster8>>
+ケーキ, アイス, アイスクリーム
+top3 entities near to cluster9>>
+日, 月, 年
+top3 entities near to cluster10>>
+息子, 母親, 家族
+top3 entities near to cluster11>>
+駅, 地下, ビル
+top3 entities near to cluster12>>
+間隔, 席, 利益
+top3 entities near to cluster15>>
+利用, 案内, 予約
+top3 entities near to cluster16>>
+消化, 補充, 補給
+top3 entities near to cluster17>>
+品数, 店員
+top3 entities near to cluster18>>
+料理, 和食, 食事

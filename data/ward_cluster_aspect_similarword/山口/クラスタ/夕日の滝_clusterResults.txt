@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夕日の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+心, 体
+cluster1:(2)
+子供, 自然
+cluster2:(12)
+夏場, サウンド, ところ, 流れ, 気, イオン, 場所, マイナスイオン, 水, 見ごたえ, 気持ち, 気分
+cluster3:(1)
+迫力
+cluster4:(1)
+つく
+cluster5:(8)
+水音, 山奥, 途中足元, 滝, 道, 夕日, 難所, 山
+cluster6:(1)
+山口県
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

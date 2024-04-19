@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草手打ち塾>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+うどん打つ, 違う粉, 食べ比べ, うどん打ち, 比べ, 手打ちうどん, 粉, うどん作り, スイーツ感覚うどん
+cluster1:(2)
+子供達, 子供たち
+cluster2:(7)
+扱い, 事, 体験, 美味しさ, 方, 満足, 作業
+cluster3:(9)
+家, 土産, 夫婦, 家族, 友達, 母, 先生, 友人, 主人
+cluster4:(13)
+小学生, グルテン, 子ども, 打ち立て, プロ, 種類, リズム, 手作り, 現地, うどん粉, 時間, テンポ, うどん
+cluster5:(1)
+塩分濃度
+
+howmany entities : 41
+howmany clusters : 6
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 6
+deleted 0entities.

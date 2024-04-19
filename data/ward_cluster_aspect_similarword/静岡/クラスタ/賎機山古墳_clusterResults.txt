@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:賎機山古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+賎機山古墳, 横穴式石室, 古墳, 石室, 円墳, 石室内, 石棺
+cluster1:(13)
+概要, 石段, 照明, 石板, こと, 内部, 外, 見せ方, 見え方, 現地, 野外模型, 解説板, 方
+cluster2:(4)
+浅間神社, 静岡県, 静岡市, 静岡駅
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 0entities.

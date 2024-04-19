@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:翁山(東京都府中市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登山道, 翁山
+cluster1:(2)
+手前, 途中
+cluster2:(3)
+山, ウォーキングMAP, MAP
+cluster3:(1)
+上下
+cluster4:(1)
+国道
+cluster5:(1)
+斎場
+cluster6:(1)
+案内板
+cluster7:(1)
+展望台
+
+howmany entities : 12
+howmany clusters : 8
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 8
+deleted 0entities.

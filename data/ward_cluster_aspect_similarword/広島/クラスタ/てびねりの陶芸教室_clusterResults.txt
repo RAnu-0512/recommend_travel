@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:てびねりの陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作品作り, 完成品
+cluster1:(6)
+指導, 先生, 体験, 機会, 環境, 場
+cluster2:(19)
+マグカップ, 口コミ, もの, 最後, 方, 話, コーヒー, 気配り, お陰, 形, 家族, 満足, 時間, 物, コップ, 他, 作品, 出来上がり, 評価
+cluster3:(1)
+茶碗
+cluster4:(1)
+愛着
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,87 @@
+--------------------similar_words:鳥取砂丘 砂の美術館--------------------
+top3 entities near to cluster0>>
+砂像, 彫刻像, 砂, 彫刻
+top3 entities near to cluster2>>
+砂丘, 砂浜, 砂漠
+top3 entities near to cluster3>>
+砂, 美術館, 砂浜
+top3 entities near to cluster4>>
+砂, 撒管, 砂利
+top3 entities near to cluster5>>
+感動, 迫力, 驚き
+top3 entities near to cluster6>>
+価値, 機会, 興味
+top3 entities near to cluster7>>
+表現形, 表現, かたち
+top3 entities near to cluster11>>
+模様, 光景, 姿
+top3 entities near to cluster12>>
+コト, トコロ, トコ
+top3 entities near to cluster13>>
+期間, 時期, 時間
+top3 entities near to cluster17>>
+手作り, 作り方, 色合い
+top3 entities near to cluster18>>
+イベント, イルミネーション, クリスマス
+top3 entities near to cluster19>>
+エントランス, チェックイン, ホテルエントランス
+top3 entities near to cluster22>>
+土砂降り, どしゃ降り, 本降り
+top3 entities near to cluster23>>
+コンセプト, テーマ, 見どころ
+top3 entities near to cluster24>>
+感無量, 感慨無量, 感慨深い
+top3 entities near to cluster25>>
+たんび, たび, 決まって
+top3 entities near to cluster26>>
+ホテル, テレビ, アニメ
+top3 entities near to cluster28>>
+彫像, 銅像
+top3 entities near to cluster29>>
+写真, 実物, 画像
+top3 entities near to cluster30>>
+表情, 気分
+top3 entities near to cluster31>>
+施設, 文化, 建物
+top3 entities near to cluster32>>
+友達, 仕事, 知り合い
+top3 entities near to cluster33>>
+屋外, 室内, 屋内
+top3 entities near to cluster34>>
+剣
+top3 entities near to cluster35>>
+子供, 子ども, 大人
+top3 entities near to cluster36>>
+入場, 駐車, 入館
+top3 entities near to cluster37>>
+土産屋, おみやげ屋, 土産, おみやげ
+top3 entities near to cluster38>>
+土産, おみやげ, 土産物
+top3 entities near to cluster39>>
+旅, 周遊, 駅
+top3 entities near to cluster40>>
+展示品, 品等, 展示
+top3 entities near to cluster41>>
+芸術, 美術, 文化
+top3 entities near to cluster42>>
+造形美, 造形, 造型美, 造型
+top3 entities near to cluster43>>
+美術, 絵画, 作品
+top3 entities near to cluster44>>
+彫刻, 絵画, 版画
+top3 entities near to cluster45>>
+展示, 出展, 展覧
+top3 entities near to cluster46>>
+撮り, 写
+top3 entities near to cluster47>>
+製作, 制作, 企画
+top3 entities near to cluster48>>
+作品, 作家, 作風
+top3 entities near to cluster49>>
+見学, 案内, 視察
+top3 entities near to cluster50>>
+休館, 入館, 開館
+top3 entities near to cluster51>>
+会期, 展覧
+top3 entities near to cluster52>>
+予約, 確認, 注文

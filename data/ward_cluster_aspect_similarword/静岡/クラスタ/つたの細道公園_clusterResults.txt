@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:つたの細道公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+宇津ノ谷峠, 吊り橋, 到着, 居心地, 平安, 側, ファミリー, つた, 公園
+cluster1:(3)
+沢川, 細道公園, 岡部宿
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

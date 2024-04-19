@@ -1,0 +1,11 @@
+--------------------similar_words:美東サービスエリア(上り線)--------------------
+top3 entities near to cluster1>>
+土産, おみやげ, みやげ
+top3 entities near to cluster2>>
+休憩, ＳＡ, 仮眠
+top3 entities near to cluster3>>
+食事, 施設, フード
+top3 entities near to cluster4>>
+種類, 時間, 数種類
+top3 entities near to cluster5>>
+エリア, サービス, レストラン

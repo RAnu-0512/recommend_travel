@@ -1,0 +1,19 @@
+--------------------similar_words:東京メトロ有楽町線 銀座一丁目駅--------------------
+top3 entities near to cluster1>>
+出口, 地上, 地下
+top3 entities near to cluster2>>
+出入口, 出入り口, 交差点
+top3 entities near to cluster3>>
+ルミネ, マルイ, ＯＩＯＩ
+top3 entities near to cluster4>>
+ゲート, マロニエ, ウェイ
+top3 entities near to cluster5>>
+移動, 行き来, 移る
+top3 entities near to cluster6>>
+ビル, タワービル, ビルディング
+top3 entities near to cluster7>>
+高架, 高架線, 陸橋
+top3 entities near to cluster8>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster9>>
+丁目, 駅, 駅前

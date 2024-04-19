@@ -1,0 +1,11 @@
+--------------------similar_words:宮島表参道商店街--------------------
+top3 entities near to cluster0>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster2>>
+海船, 桟橋, 海
+top3 entities near to cluster3>>
+店先, 名物
+top3 entities near to cluster4>>
+土産物店, 飲食店, 飲食, 土産物
+top3 entities near to cluster5>>
+牡蠣, 厳島, 神社

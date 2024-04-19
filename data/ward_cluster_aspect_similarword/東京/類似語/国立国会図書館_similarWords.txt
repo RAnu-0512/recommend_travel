@@ -1,0 +1,79 @@
+--------------------similar_words:国立国会図書館--------------------
+top3 entities near to cluster0>>
+読書, 漫画, 喫茶
+top3 entities near to cluster1>>
+書籍, 雑誌, 出版
+top3 entities near to cluster2>>
+本, 本作, 冊作, 冊
+top3 entities near to cluster3>>
+漫画, マンガ, 原作
+top3 entities near to cluster4>>
+過去作, 過去, 前作
+top3 entities near to cluster5>>
+卒論, 学生, 大学
+top3 entities near to cluster6>>
+閉館, 休館, 開館
+top3 entities near to cluster7>>
+館内, 施設, 宿泊
+top3 entities near to cluster8>>
+本館, 新館, 別館
+top3 entities near to cluster9>>
+新館, 本館, 別館
+top3 entities near to cluster10>>
+駅, 駅前, 構内
+top3 entities near to cluster11>>
+地下, ・・デパ, 貯蔵庫
+top3 entities near to cluster13>>
+インターネット, カフェ, ショップ
+top3 entities near to cluster14>>
+区役所, 手続き, 市役所
+top3 entities near to cluster15>>
+施設, 設備, 建物
+top3 entities near to cluster16>>
+光景, 空間
+top3 entities near to cluster17>>
+見学, 案内, 訪問
+top3 entities near to cluster18>>
+作業, 勉強, 準備
+top3 entities near to cluster19>>
+環境, パソコン, ＰＣ
+top3 entities near to cluster20>>
+操作, 検索, 入力
+top3 entities near to cluster21>>
+電話, 文字, 携帯
+top3 entities near to cluster22>>
+間食, ダイエット, 炭水化物
+top3 entities near to cluster23>>
+図書館, 子供, 本屋
+top3 entities near to cluster25>>
+利用, 貸出, 貸し出し
+top3 entities near to cluster31>>
+上限, 制限, 方式
+top3 entities near to cluster32>>
+時間, 日数
+top3 entities near to cluster34>>
+国会, 議会, 図書館
+top3 entities near to cluster35>>
+利用者, 登録者, 利用, 登録
+top3 entities near to cluster36>>
+登録, 利用, 抹消
+top3 entities near to cluster37>>
+申請, 登録, 承認
+top3 entities near to cluster38>>
+登録制, 会員制, 登録, 会員
+top3 entities near to cluster39>>
+入館証, 入館, 入場証, 入場
+top3 entities near to cluster40>>
+申込書, 案内書, 申込, 案内
+top3 entities near to cluster41>>
+閉架, 開架, 資料
+top3 entities near to cluster42>>
+資料, 文献, 史料
+top3 entities near to cluster43>>
+資料, 集め, 探し
+top3 entities near to cluster44>>
+資料, 整理, 日
+top3 entities near to cluster45>>
+関連紙, 記事, 関連
+top3 entities near to cluster46>>
+蔵書, 図書, 図書館

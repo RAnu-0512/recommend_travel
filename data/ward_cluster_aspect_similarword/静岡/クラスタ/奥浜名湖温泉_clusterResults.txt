@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥浜名湖温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+料理, 風呂
+cluster1:(14)
+浜名湖, ランチ, ホテル, 奥, 上, アツアツ, 雰囲気, 場所, 人気, バイキング, 天竜浜名湖線, 山, 方, プラン
+cluster2:(1)
+塩分
+cluster3:(6)
+駐車場, 温泉, 東都筑駅, 日帰り入浴, 奥浜名湖駅, 日帰り温泉
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 3entities.

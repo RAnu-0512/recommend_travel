@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大井ふ頭中央海浜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+森, 緑, 木
+cluster1:(7)
+場所, 気持ち, 浅草線, スポーツ, 注意, 都内, バーベキュー
+cluster2:(1)
+セミ
+cluster3:(9)
+公園, 野球場, 開園, 一部施設, 駅, 施設, 泉岳寺駅, 敷地, 園内
+cluster4:(5)
+散策, 街歩き, 管理舎ギャラリー見学, 園内散策, 自然観察路
+cluster5:(1)
+大井ふ頭中央海浜公園
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 6
+deleted 0entities.

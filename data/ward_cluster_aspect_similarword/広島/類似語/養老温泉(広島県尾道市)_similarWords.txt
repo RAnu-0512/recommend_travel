@@ -1,0 +1,11 @@
+--------------------similar_words:養老温泉(広島県尾道市)--------------------
+top3 entities near to cluster1>>
+消毒, 殺菌, 循環
+top3 entities near to cluster2>>
+泉質, 泉, 釧雲
+top3 entities near to cluster3>>
+湯船, お湯, 風呂
+top3 entities near to cluster4>>
+温泉, 温泉郷, 露天風呂
+top3 entities near to cluster5>>
+旅館, 宿, 民宿

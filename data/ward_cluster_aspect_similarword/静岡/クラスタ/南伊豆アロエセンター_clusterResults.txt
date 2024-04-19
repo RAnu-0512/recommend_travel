@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南伊豆アロエセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+左奥, 左道路沿い
+cluster1:(5)
+個人客, 観光バス, 温室, 下田市, 温室外
+cluster2:(3)
+屋根づ, 風雨, 屋根
+cluster3:(2)
+車, 運転
+cluster4:(2)
+土産, 帰り
+cluster5:(3)
+売店, 建物, 施設
+cluster6:(4)
+販売, 商品, 女性スタッフ, 店
+cluster7:(3)
+茶, 花, 風
+cluster8:(12)
+ラジオ, 世界, こと, ショッピング, 外, ブーゲンビリア, 種類, 手前, 中, ソフトクリーム, アイスクリーム, オーシャンパーク
+cluster9:(15)
+アロエソフトクリーム, 石廊崎, アロエパウダー, 南伊豆, 化粧品, アロエ, 甘み, アロエ製品, 南伊豆アロエセンター, アロエソフト, アロエ粉, アロエ成分, アロエ入り, アロエセンター, アロエ類
+cluster10:(1)
+暴風警報
+cluster11:(1)
+大瀬花狩り園
+
+howmany entities : 53
+howmany clusters : 12
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 7
+deleted 8entities.

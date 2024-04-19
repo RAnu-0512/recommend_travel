@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熊野神社(広島県庄原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+事, 環境, 場所
+cluster1:(11)
+歴史, 日本, 母, パワー, 人, 奥の院, 雰囲気, 天然記念物, ドライブ, 古事記, 入り口
+cluster2:(1)
+徒歩
+cluster3:(2)
+奥, 山中
+cluster4:(3)
+桜, 杉, 木
+cluster5:(4)
+杖, 滝, 虫, 神社
+cluster6:(1)
+老木
+cluster7:(2)
+反対側, 見ごろ
+cluster8:(1)
+駐車場
+cluster9:(14)
+比婆山, 熊野筆, やぶ蚊, 広島県, 庄原市, 広島県北, 須佐神社, 伊邪那美命, 熊野, 杉の木, 虫よけスプレー, 西城町, 熊野神社, 老杉たち
+
+howmany entities : 42
+howmany clusters : 10
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 10
+deleted 0entities.

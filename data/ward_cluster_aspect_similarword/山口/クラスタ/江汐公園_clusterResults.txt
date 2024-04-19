@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江汐公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江汐湖, 江汐公園
+cluster1:(2)
+キャンプ場, 駐車場
+cluster2:(9)
+橋, 自然, 公園, 散策, 国道, 景観, 温泉, 散歩コース, 湖
+cluster3:(3)
+あじさい苑, バラ, 花
+cluster4:(16)
+子供, 散歩道, 横, まわり, アスレチック, 子ども, 季節, 空気, 中心, 途中, 種類, 楽しみ方, ツツジ, 時期, ウォーキング, 看板
+cluster5:(1)
+自然界
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 6
+deleted 0entities.

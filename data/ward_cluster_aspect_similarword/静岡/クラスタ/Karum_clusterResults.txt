@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Karum>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+事, マイボード, 家族, 撮影, ガイドツアー, 思い出, 写真, サーフィン, 人, シャワー, 様子, 上, トレッキング, お陰, ボード, 世話, オススメ, 細やか, 季節, サーファー
+cluster1:(3)
+雨, 予報, 天気
+cluster2:(2)
+浜松, 大知波桜
+cluster3:(1)
+楽しさ
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 3entities.

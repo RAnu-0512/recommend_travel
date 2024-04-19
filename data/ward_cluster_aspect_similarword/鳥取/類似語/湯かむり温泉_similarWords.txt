@@ -1,0 +1,7 @@
+--------------------similar_words:湯かむり温泉--------------------
+top3 entities near to cluster0>>
+湯, 温泉, 銭湯
+top3 entities near to cluster1>>
+お湯, 温度
+top3 entities near to cluster2>>
+流し, 源泉

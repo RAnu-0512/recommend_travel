@@ -1,0 +1,137 @@
+--------------------similar_words:三越日本橋本店--------------------
+top3 entities near to cluster0>>
+三越, 老舗, 百貨店
+top3 entities near to cluster1>>
+三越, 高島屋, 伊勢丹
+top3 entities near to cluster2>>
+三越, 伊勢丹
+top3 entities near to cluster3>>
+三越, 駅, 高島屋
+top3 entities near to cluster4>>
+本店, 支店, 癒松
+top3 entities near to cluster5>>
+三越, 本店, 伊勢丹
+top3 entities near to cluster6>>
+佇まい, 雰囲気, たたずまい
+top3 entities near to cluster7>>
+ススメ, オススメ, おすすめ
+top3 entities near to cluster8>>
+気持ち, あちこち, まわり
+top3 entities near to cluster9>>
+デザイン, デサイン, デザイナー
+top3 entities near to cluster10>>
+サービス, ブランド, スタッフ
+top3 entities near to cluster11>>
+イメージ, シンボル, インパクト
+top3 entities near to cluster12>>
+こだわり, オシャレ, お洒落
+top3 entities near to cluster13>>
+入り口, 出入り口, スペース
+top3 entities near to cluster14>>
+コーナー, イベント, フロア
+top3 entities near to cluster15>>
+手洗い, トイレ, 手入れ
+top3 entities near to cluster17>>
+アクセス, 乗り換え, 乗り継ぎ
+top3 entities near to cluster18>>
+テイクアウト, サンドイッチ, サンドウィッチ
+top3 entities near to cluster19>>
+レダラッハ, イートインコーナー, ドゥバイヨル
+top3 entities near to cluster20>>
+フィナンシェ, バームクーヘン, バウムクーヘン
+top3 entities near to cluster21>>
+マドレーヌ, マカロン, ミニマドレーヌ
+top3 entities near to cluster22>>
+スコーン, マフィン, プレーンスコーン
+top3 entities near to cluster23>>
+ディスプレイ, ディスプレー, デザイン
+top3 entities near to cluster24>>
+お気に入り, シークァーサー, シークァーサーサワー
+top3 entities near to cluster25>>
+シャンデリア, エレベーター, エレベータ
+top3 entities near to cluster26>>
+クリスマス, コンサート, バレンタイン
+top3 entities near to cluster27>>
+ビュロー, アーバンプレム, レンビル
+top3 entities near to cluster28>>
+テレビ, 我が家, エアコン
+top3 entities near to cluster29>>
+ブレゲ, アエロナバル, グランドコンプリケーション
+top3 entities near to cluster30>>
+デパート, 百貨店, 売り場
+top3 entities near to cluster31>>
+カフェ, テラス, 喫茶店
+top3 entities near to cluster32>>
+ケーキ, デザート, スイーツ
+top3 entities near to cluster33>>
+ビーフ, ロースト, チキン
+top3 entities near to cluster34>>
+花, 龍, 薔薇
+top3 entities near to cluster35>>
+紅茶, ティー, お菓子
+top3 entities near to cluster36>>
+ピル, 用量
+top3 entities near to cluster38>>
+建物, 中庭, 外観
+top3 entities near to cluster39>>
+風格, 気品, 風情
+top3 entities near to cluster40>>
+充実, 満足, 素晴らしい
+top3 entities near to cluster41>>
+散策, 寄り道, 散歩
+top3 entities near to cluster42>>
+対応, 対処, 臨機応変
+top3 entities near to cluster43>>
+販売, 開催, 催事
+top3 entities near to cluster44>>
+物色, 発見
+top3 entities near to cluster47>>
+遣っ, 遣う
+top3 entities near to cluster48>>
+格好, 印象, 気分
+top3 entities near to cluster49>>
+態度, 言動, 姿勢
+top3 entities near to cluster50>>
+値段, 値打ち, 価値
+top3 entities near to cluster51>>
+近隣, 地元, 近辺
+top3 entities near to cluster52>>
+人気, 無料, 大人気
+top3 entities near to cluster53>>
+全国, 各地, 国内
+top3 entities near to cluster54>>
+既存, これら
+top3 entities near to cluster56>>
+年配, 年輩, 男性
+top3 entities near to cluster57>>
+職場, 上司, 仕事
+top3 entities near to cluster58>>
+時間, 間, 関係
+top3 entities near to cluster59>>
+家族
+top3 entities near to cluster63>>
+建築展, 建築, 展覧
+top3 entities near to cluster64>>
+売場, 売り場, 食品
+top3 entities near to cluster65>>
+婦人服, 婦人, 洋服
+top3 entities near to cluster66>>
+電子, マネー, 支払
+top3 entities near to cluster67>>
+家具, 食器, 荷物
+top3 entities near to cluster68>>
+食品, 食材, 生鮮
+top3 entities near to cluster69>>
+弁当, 惣菜, 総菜
+top3 entities near to cluster70>>
+菓子屋, パン屋, 菓子, パン
+top3 entities near to cluster71>>
+老舗, 有名, 最大手
+top3 entities near to cluster72>>
+巡回, バス, 送迎
+top3 entities near to cluster73>>
+土産, おみやげ, 特産
+top3 entities near to cluster74>>
+店員, 開店
+top3 entities near to cluster75>>
+品等

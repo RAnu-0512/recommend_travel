@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊門公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+西洋建築, 西洋館, 建築
+cluster1:(2)
+隣町, 小山町
+cluster2:(5)
+豊門カフェ, 豊門公園, 豊門会館, 日本, 公園
+cluster3:(1)
+静岡県
+cluster4:(1)
+国登録有形文化財
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 4entities.

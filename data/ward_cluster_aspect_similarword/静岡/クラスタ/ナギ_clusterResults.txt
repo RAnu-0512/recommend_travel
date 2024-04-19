@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ナギ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+巨木, 神社, 社殿
+cluster1:(4)
+ホルトノキ, 階段, 途中, ナギ
+cluster2:(1)
+二宮神社
+cluster3:(1)
+生命力
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

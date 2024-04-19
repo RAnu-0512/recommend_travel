@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:のんびらんど・うましま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+行儀, 態度
+cluster1:(5)
+子供, 島, 夫, 小さな子, 妻
+cluster2:(3)
+我が家, 手続き, キャンプ
+cluster3:(2)
+もの, 方
+cluster4:(1)
+辺り
+cluster5:(2)
+状況, 対応
+cluster6:(2)
+荷物, キャンプ場
+cluster7:(2)
+人口, キャンプ歴
+cluster8:(1)
+ログキャビン
+cluster9:(1)
+オーナー妻夫妻
+
+howmany entities : 21
+howmany clusters : 10
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 10
+deleted 0entities.

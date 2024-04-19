@@ -1,0 +1,21 @@
+--------------------similar_words:萩八景遊覧船--------------------
+top3 entities near to cluster0>>
+乗船, 船旅
+top3 entities near to cluster1>>
+川, 川岸, 運河
+top3 entities near to cluster2>>
+町, 丁目, 所内
+top3 entities near to cluster5>>
+話, 時代, 時間
+top3 entities near to cluster6>>
+歴史, 学校, 教師
+top3 entities near to cluster7>>
+景色, 景観, 絶景
+top3 entities near to cluster8>>
+満開, 桜, 八重桜
+top3 entities near to cluster9>>
+維新, 明治, 幕末
+top3 entities near to cluster10>>
+都会, 地方
+top3 entities near to cluster12>>
+忙しい, 忙殺, 急がす

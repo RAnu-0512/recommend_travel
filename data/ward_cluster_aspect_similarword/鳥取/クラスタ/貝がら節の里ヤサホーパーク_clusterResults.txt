@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:貝がら節の里ヤサホーパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+源泉スタンド, ポリタンク, 公園, 方, お湯, 温度, ホームセンター, 足湯, 近く
+cluster1:(4)
+砂丘公園, 鳥取市, 浜村温泉, 浜村駅
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

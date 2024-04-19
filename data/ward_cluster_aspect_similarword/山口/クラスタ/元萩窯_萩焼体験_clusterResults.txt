@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:元萩窯_萩焼体験>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+手びねり, 焼物, 茶碗, 窯元
+cluster1:(2)
+良き時間, 電話対応
+cluster2:(3)
+お祝い旅行, 家族それぞれ, 家族
+cluster3:(9)
+体験, 湯呑み, エプロン, 娘, 感じ, 北九州, 風情, 歴史, 話
+cluster4:(1)
+傘寿
+cluster5:(4)
+JR東萩駅, 萩焼, 萩窯, 電動ろくろ体験
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

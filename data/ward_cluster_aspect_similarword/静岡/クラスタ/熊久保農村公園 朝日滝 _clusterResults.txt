@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熊久保農村公園 朝日滝 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+朝日滝, 白糸, 滝
+cluster1:(5)
+車, 間近, 路線バス, 音止, 交通アクセス
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 0entities.

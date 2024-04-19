@@ -1,0 +1,9 @@
+--------------------similar_words:東台所神社--------------------
+top3 entities near to cluster0>>
+階段, 石段, エスカレーター
+top3 entities near to cluster1>>
+鳥居, 神社, 本殿
+top3 entities near to cluster2>>
+大部, 凸部, 凸, 大
+top3 entities near to cluster3>>
+神社, 境内, 社務

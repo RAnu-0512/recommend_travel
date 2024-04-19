@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カッシーナ・イクスシー青山本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青山通り, 青山本店
+cluster1:(2)
+家具, ビル
+cluster2:(5)
+通称, ブランド, 角, カッシーナ イクスシー, 値段
+cluster3:(1)
+消防署通り
+cluster4:(1)
+異彩
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

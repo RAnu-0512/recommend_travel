@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:維新十三人墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+若者, 戊辰戦争, 墓
+cluster1:(2)
+明治, 維新
+cluster2:(1)
+奇兵隊
+cluster3:(1)
+維新十三
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

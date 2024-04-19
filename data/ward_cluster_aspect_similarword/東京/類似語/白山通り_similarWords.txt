@@ -1,0 +1,7 @@
+--------------------similar_words:白山通り--------------------
+top3 entities near to cluster0>>
+区, 都, 区内
+top3 entities near to cluster1>>
+道路, 幹線, 国道
+top3 entities near to cluster3>>
+始点, 終点, 起点

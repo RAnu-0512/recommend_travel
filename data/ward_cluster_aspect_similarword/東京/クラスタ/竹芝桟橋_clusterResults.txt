@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹芝桟橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+閑散, 光景, 景色, 旅情, 喧騒, 旅気分, 汽笛, 眺め, 夜景
+cluster1:(2)
+日中ベンチ, 利用者
+cluster2:(5)
+島, 海風, 海, 船, 桟橋
+cluster3:(2)
+感じ, 影響
+cluster4:(2)
+スーツケース, ターミナル
+cluster5:(2)
+小笠原諸島, 伊豆諸島
+cluster6:(1)
+レインボーブリッジ
+cluster7:(1)
+コロナ
+cluster8:(1)
+乗り場
+cluster9:(1)
+東京湾
+cluster10:(1)
+人
+cluster11:(2)
+場所, 街
+cluster12:(1)
+土産
+cluster13:(2)
+駅, 徒歩
+cluster14:(2)
+大門, 浜松町
+cluster15:(1)
+納涼船
+cluster16:(1)
+竹芝
+
+howmany entities : 36
+howmany clusters : 17
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 17
+deleted 0entities.

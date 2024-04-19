@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海老山公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広場, 公園, 丘
+cluster1:(5)
+上, 人, 季節, 桜, ところ
+cluster2:(2)
+芝, ごみ
+cluster3:(1)
+家族連れ
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

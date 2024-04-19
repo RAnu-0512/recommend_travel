@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中央大橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+力強さ, 美しさ
+cluster1:(2)
+遊覧船, 通勤路
+cluster2:(2)
+隅田川, 中央大橋
+cluster3:(10)
+バランス, フランス, ケーブル, ひとつ, ライト, スカイツリー, ゲーブル, デザイン, スポット, 雰囲気
+cluster4:(1)
+桜
+cluster5:(10)
+場所, 撮影スポット, 形, 姿, 上, 中, 周辺, 幅, デザイン会社, 外観
+cluster6:(1)
+異
+cluster7:(1)
+点灯
+cluster8:(14)
+高層マンション, 曇天, 下流, 新川, 景色, 大橋, 青空, 橋桁, 主塔, 歩道, 橋, 景観, 塔, 夜景
+cluster9:(10)
+佃, 斜張橋, 中央, 永代橋, 中央区佃, 新川2丁目, 佃1・2丁目, 佃1丁目, 中央区, 佃島
+
+howmany entities : 53
+howmany clusters : 10
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡市埋蔵文化財センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+埋蔵文化財, 出土品, 埋蔵品
+cluster1:(2)
+興津駅, 静岡市
+cluster2:(6)
+歴史, こと, 施設, 史料館, もの, 内容
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

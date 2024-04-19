@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北条時頼の墓(最明寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時頼, 北条時頼
+cluster1:(9)
+句碑, 幕府, 地, 萩原麦草, 墓, そ骨, 最明寺, 名執権, 伊豆長岡
+cluster2:(1)
+鎌倉幕府五代執権
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 3entities.

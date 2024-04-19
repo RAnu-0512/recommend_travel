@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遠岳キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大勢, キャンプ場
+cluster1:(1)
+海水浴客
+cluster2:(1)
+北九州方面
+cluster3:(1)
+山陽
+cluster4:(1)
+遠岳キャンプ場
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

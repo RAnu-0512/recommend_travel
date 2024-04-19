@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出雲神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+参拝, 流造, 神社, 社殿, 拝殿, 社叢
+cluster1:(3)
+怒り, 優勢, 謝り
+cluster2:(2)
+避難, 帰省
+cluster3:(4)
+屋根, 畑, 宮, 小石
+cluster4:(8)
+手前, 気, 天然記念物, 一点張り, 隣, 無人, 佐波川, 人
+cluster5:(5)
+関係, 関係者, 対応, 話方, 電話対応
+cluster6:(1)
+草刈機
+cluster7:(1)
+至近距離
+cluster8:(1)
+建御名
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 9
+deleted 0entities.

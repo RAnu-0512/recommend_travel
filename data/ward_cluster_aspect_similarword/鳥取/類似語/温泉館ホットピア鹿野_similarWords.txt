@@ -1,0 +1,11 @@
+--------------------similar_words:温泉館ホットピア鹿野--------------------
+top3 entities near to cluster0>>
+風呂, 浴室, 湯船
+top3 entities near to cluster1>>
+休憩, 時間, 空き
+top3 entities near to cluster2>>
+温泉, 露天風呂, 銭湯
+top3 entities near to cluster3>>
+駐車, 空港, 時間
+top3 entities near to cluster4>>
+12, 11, 22

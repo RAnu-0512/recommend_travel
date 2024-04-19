@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スーパー銭湯ゆらら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湯船, 風呂
+cluster1:(9)
+娘, ボディソープ, フロント, 種類, にぎわい, 水風呂, 前, 中, 安価
+cluster2:(2)
+広さ, 時間帯
+cluster3:(1)
+車中泊
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:道の駅 富士川楽座(プラネタリウムわいわい劇場・体験館どんぶら)--------------------
+top3 entities near to cluster2>>
+道路, 県道
+top3 entities near to cluster4>>
+目的, 施設, 手段
+top3 entities near to cluster8>>
+レストラン, カフェ, おみやげ
+top3 entities near to cluster9>>
+グルメ, 乗り物, レストラン
+top3 entities near to cluster14>>
+子供, 子ども, 大人
+top3 entities near to cluster15>>
+家族, 食事, 友人
+top3 entities near to cluster22>>
+土産店, 土産, 駐車

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金田一京助・春彦 旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本郷, 金田一先生
+cluster1:(11)
+途中, 場所, 感じ, 近く, 住まい, 金田一, 車, 路地, 雰囲気, 幅, 家屋
+cluster2:(2)
+説明板, 居跡
+cluster3:(1)
+古き日本
+cluster4:(1)
+国語学者
+cluster5:(1)
+鐙坂
+cluster6:(1)
+樋口一葉旧居跡
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 7
+deleted 0entities.

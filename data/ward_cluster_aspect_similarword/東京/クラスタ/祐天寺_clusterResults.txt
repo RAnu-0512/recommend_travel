@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:祐天寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+気, 御朱印, フジ, 入り, 見応え, イルミネーション, 今回, 方, こと, 雰囲気, 地元, ロータリー, 近く, 期待, 時期, 芸能人, 気持ち, ところ, 浄土宗, 目黒川, 祐天寺, 仁王門, お参り, 中, 途中, 場所, 人, 一部, 手入れ, 居酒屋, 訪問
+cluster1:(2)
+左, 右
+cluster2:(2)
+門, 道
+cluster3:(4)
+花, 緑, 苔, 雪
+cluster4:(2)
+幹, 実
+cluster5:(8)
+春, 花見, 彼岸, 秋, 天気, 平塚幼稚園, 祭り, 青空
+cluster6:(11)
+東急東横線, 駅, 東京急行電鉄東横線, 居酒屋街, 目黒区, 改札口, 通勤, 徒歩, 東口, 東横線, 駅名
+cluster7:(4)
+反対側, 客, 参拝客, 御時間
+cluster8:(2)
+寺, 寺院
+cluster9:(2)
+本堂, 本尊
+cluster10:(1)
+阿弥陀如来座像
+cluster11:(1)
+山号
+cluster12:(1)
+座禅会
+cluster13:(1)
+補修工事
+cluster14:(9)
+祐天上人, 駒沢通り, しだれ桜, 桜, 天上人像, 桜が桜, 祐天, 駒沢通り沿, もつ焼きばん
+
+howmany entities : 81
+howmany clusters : 15
+howmany entities (more than1entities) : 81
+howmany clusters (more than1entities) : 15
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡パーキングエリア(下り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+広島, 八幡パーキングエリア, 尾道ラーメン, 尾道
+cluster1:(2)
+神, 緑
+cluster2:(2)
+ハグロトンボ, (*^^*
+cluster3:(2)
+ラーメン, コンビニ
+cluster4:(1)
+買い物
+cluster5:(1)
+トンボ
+cluster6:(5)
+フードコート, 店, 建物, パーキングエリア, サービスエリア
+cluster7:(2)
+土産, 食堂
+cluster8:(2)
+瓦造り, 広さ
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

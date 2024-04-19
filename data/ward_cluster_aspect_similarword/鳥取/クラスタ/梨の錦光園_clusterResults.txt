@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梨の錦光園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+梨狩り, 新興梨, 梨, 人生初梨狩り
+cluster1:(3)
+予約, 予約時間, 未体験
+cluster2:(4)
+コロナ過, 楽しみ過ぎ, 食べ放題, 取り方
+cluster3:(25)
+プロ, 時期, 中, 説明, 息子, 果物, 所, 近所, 方々, 品種, スタッフ, 梨園, 甘太, 土産, 世話, 問題, 天気, 事, 台風, 取りたて, 世紀, 念願, 方, 間違い, 時間
+
+howmany entities : 36
+howmany clusters : 4
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ローソン 神保町メトロピア店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+構内, 駅構内
+cluster1:(2)
+コンビニ, ローソン
+cluster2:(2)
+コーヒー, ロールケーキ
+cluster3:(1)
+オススメ
+cluster4:(1)
+イチゴ
+cluster5:(1)
+中
+cluster6:(1)
+神保町
+cluster7:(1)
+品揃え
+
+howmany entities : 11
+howmany clusters : 8
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みずくらいど公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+玉川兄弟, 玉川
+cluster1:(6)
+公園, 途中, 上水, 地面, 玉川上水沿い, 小雨
+cluster2:(1)
+湿地帯
+cluster3:(1)
+開削跡
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

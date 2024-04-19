@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若桜ゆはら温泉ふれあいの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+温泉, 温泉上がり, 湯, 日帰り温泉
+cluster1:(3)
+シャンプー, 山間, ボディソープ
+cluster2:(3)
+若桜ゆ, 若桜ゆはら温泉, はら温泉ふれあいの湯
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

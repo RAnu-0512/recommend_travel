@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二位ノ浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水浴場, 海水浴場
+cluster1:(10)
+所, 内, ビーチ, 海水浴シーズン, 全国, コバルトブルー, オススメ, 人, 一つ, 環境省
+cluster2:(3)
+砂浜, 白浜, 海
+cluster3:(1)
+水質
+cluster4:(1)
+透明度
+cluster5:(1)
+水浴場水質調査結果
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

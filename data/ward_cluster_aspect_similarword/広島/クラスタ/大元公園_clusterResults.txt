@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大元公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+牛石, 牛
+cluster1:(3)
+大元公園, 大元神社, 大元コース
+cluster2:(2)
+先, 少し先
+cluster3:(2)
+周辺, 自然
+cluster4:(6)
+大聖院, 水族館, 方, 人, 形, 入り口
+cluster5:(2)
+合間, 右手
+cluster6:(1)
+木
+cluster7:(14)
+あせび歩道, 桜, 山際, 元就, 石, 大元川, 川, 鹿, 広場, 大元浦, 池, 花見, 公園, 宝塔
+cluster8:(1)
+休憩所
+cluster9:(1)
+前回訪
+cluster10:(6)
+弥山登山道, 宮島水族館, 宮島, 厳島神社, 宮尾城, 宮島島
+cluster11:(1)
+大元川が流れ大元神社
+
+howmany entities : 41
+howmany clusters : 12
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 12
+deleted 0entities.

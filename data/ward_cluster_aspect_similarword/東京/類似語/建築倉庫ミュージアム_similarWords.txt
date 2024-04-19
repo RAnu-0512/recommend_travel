@@ -1,0 +1,13 @@
+--------------------similar_words:建築倉庫ミュージアム--------------------
+top3 entities near to cluster0>>
+見学, 視察, ツアー
+top3 entities near to cluster1>>
+思想, 哲学, 構造
+top3 entities near to cluster2>>
+展示, 開催, 館内
+top3 entities near to cluster4>>
+割高感, 割安感, 割高, 割安
+top3 entities near to cluster5>>
+展示, 展覧
+top3 entities near to cluster6>>
+洲, 天王, 駅

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふれあいパーク大原湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンプ場, キャンプ用品
+cluster1:(13)
+ケビン, カヌー, 森林浴, バーベキュー, サイクリング, 我が家, ウォーキング, 車, こども, イベント, キャンプ, 夏場, レンタル
+cluster2:(2)
+湖, 釣り
+cluster3:(1)
+徳地牛
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

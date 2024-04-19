@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ときわ公園_しょうぶ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+スイレン, 花, 満開, ゴールデンウィーク明け, 見ごたえ, ライトアップ, 手前, 色とりどり, 範囲, 品種
+cluster1:(2)
+菖蒲園, 菖蒲
+cluster2:(2)
+ときわ公園, しょうぶ苑
+cluster3:(1)
+白鳥大橋
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆高原駅やまもプラザ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+土産, 土産ショップ, 土産品, 土産もの
+cluster1:(3)
+食べ物屋, 土産屋, お土産屋
+cluster2:(6)
+駐車場, おみやげ店, 飲食店, 食事処, 資料館, 土産物店
+cluster3:(4)
+海側, 向こう側, やまもプラザ, 黒船号
+cluster4:(8)
+車両, 急行, 便, 電車, 座席, バスツアー, 交通, 車内
+cluster5:(3)
+窓, 外, 景色
+cluster6:(2)
+館内, 中庭
+cluster7:(2)
+フードモール, 食事
+cluster8:(1)
+足湯
+cluster9:(1)
+茶
+cluster10:(1)
+活気
+cluster11:(21)
+配置, ホットラテ, リゾート, レストラン, 購入, ショップ, キンメダイ号, ショッピングモール, ショッピング, あk, 笑, 時間, 買い物, ショッピングセンター, ジオラマ, 待ち時間, テンション, テイクアウト, 土産物, 木, プラザ
+cluster12:(10)
+駅ビル, 伊豆駅, 河津駅, 駅直結, 観光地, 駅, 伊豆, 車窓観光, 方面, 伊豆高原駅
+
+howmany entities : 66
+howmany clusters : 13
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 8
+deleted 7entities.

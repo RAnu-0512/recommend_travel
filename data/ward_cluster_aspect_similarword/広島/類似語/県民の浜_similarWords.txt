@@ -1,0 +1,21 @@
+--------------------similar_words:県民の浜--------------------
+top3 entities near to cluster0>>
+浜辺, 砂浜, 海
+top3 entities near to cluster1>>
+鯛, 釜飯
+top3 entities near to cluster2>>
+風呂, 温泉, 露天風呂
+top3 entities near to cluster3>>
+館内, 館, 本館
+top3 entities near to cluster4>>
+景色, 風景
+top3 entities near to cluster5>>
+施設, 食事, レストラン
+top3 entities near to cluster6>>
+木, 木火, 土
+top3 entities near to cluster7>>
+県民, 府民, 都民
+top3 entities near to cluster8>>
+輝き
+top3 entities near to cluster9>>
+煮, かぶ, 煮物

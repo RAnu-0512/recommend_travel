@@ -1,0 +1,19 @@
+--------------------similar_words:倉吉パークスクエア--------------------
+top3 entities near to cluster1>>
+文化, 施設, 芸術
+top3 entities near to cluster2>>
+複合, 施設, 文化
+top3 entities near to cluster3>>
+駐車場, 駐車, 温水
+top3 entities near to cluster4>>
+中心, 比べ, 較べ
+top3 entities near to cluster5>>
+子ども, 子供, ミュージアム
+top3 entities near to cluster7>>
+木, ない
+top3 entities near to cluster8>>
+公園, 敷地, 遊具
+top3 entities near to cluster9>>
+梨, 沙ゆり, 旺走
+top3 entities near to cluster10>>
+十, 五, 四

@@ -1,0 +1,29 @@
+--------------------similar_words:世田谷公園--------------------
+top3 entities near to cluster1>>
+大勢, 半数
+top3 entities near to cluster2>>
+子ども, こども, 遊び場
+top3 entities near to cluster3>>
+最寄り駅, アクセス, 最寄り
+top3 entities near to cluster4>>
+イベント, ファミリー, コンサート
+top3 entities near to cluster5>>
+ファミレス, ランニング, ジョギング
+top3 entities near to cluster6>>
+マシュマロ, マシュマロスイーツ, マシュマロコラーゲン
+top3 entities near to cluster7>>
+オススメ, おすすめ, ススメ
+top3 entities near to cluster9>>
+ポケモン, ピカチュウ, リアルポケモン
+top3 entities near to cluster10>>
+プール, スイミング, ジャグジープール
+top3 entities near to cluster12>>
+フリー, マーケット, ペーパー
+top3 entities near to cluster13>>
+子供, 大人, 子ども
+top3 entities near to cluster14>>
+都会, 都内, 夏
+top3 entities near to cluster15>>
+広い, 大きい
+top3 entities near to cluster16>>
+公園, 駅, 広場

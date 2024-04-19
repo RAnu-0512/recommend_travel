@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛野公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+電車, 花火, 芝生, 公園, 散歩, 遊具
+cluster1:(4)
+斜面, 眼下, 丘, 山
+cluster2:(11)
+わが子, 運動公園, 家族, 新幹線, スポーツ, のび, アスレチック, 気持ち, 上, 犬, ^^)幼稚園
+cluster3:(1)
+親子遠足
+cluster4:(1)
+駐車場
+cluster5:(1)
+藍野公園
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 3entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:むかし田舎体験 水車むら--------------------
+top3 entities near to cluster2>>
+子供, 子ども, 親子
+top3 entities near to cluster4>>
+ご飯, 夕飯
+top3 entities near to cluster5>>
+日程度, 日, 期間
+top3 entities near to cluster7>>
+体験, 体験談, 体感
+top3 entities near to cluster8>>
+煎餅, せんべい, 野菜

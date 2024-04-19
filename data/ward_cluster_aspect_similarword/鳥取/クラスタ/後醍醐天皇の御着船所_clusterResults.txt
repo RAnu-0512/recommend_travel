@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後醍醐天皇の御着船所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+元弘帝御着船所の碑, 元弘帝着船所
+cluster1:(4)
+家, 説, こと, 場所
+cluster2:(2)
+丘, 石
+cluster3:(5)
+海, 後醍醐, 港, 隠岐島, 島
+cluster4:(1)
+天皇
+cluster5:(3)
+碑, 御来屋街道, 石碑
+cluster6:(4)
+後醍醐天皇御着船地, 大山町, 大山町御来屋, 後醍醐天皇お腰掛けの岩
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出会い橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+男橋, 女橋
+cluster1:(3)
+橋そのもの, 出会い橋, 橋
+cluster2:(1)
+分流点
+cluster3:(19)
+紅葉, 所, 風情, 温泉街, 川, 狩野川, 天城会館, 蛍, 伊豆, モニュメント, ハートモニュメント, 上, 観光所, ハート, 夏場, 感, 谷川, ホタル, 散歩道
+cluster4:(1)
+湯ヶ島温泉
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 4entities.

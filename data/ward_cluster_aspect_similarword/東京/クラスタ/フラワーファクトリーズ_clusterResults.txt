@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フラワーファクトリーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+アイシャドウ, 最後, 服装, 結果, 洋服, 似合う色, 気, 納得, 目的, メモ, フルコース, 顔タイプ, 顔, メイク, 服選び, 写真, 勉強, こと, コスメ, ベストカラー, 布, アクセサリー, カラー, 説明, 違い, スタイル, パーソナルカラー, 色
+cluster1:(6)
+骨格, 診断, 骨格診断, 診断結果シート, パーソナルカラー顔タイプ骨格診断, 自己診断
+
+howmany entities : 34
+howmany clusters : 2
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 2
+deleted 0entities.

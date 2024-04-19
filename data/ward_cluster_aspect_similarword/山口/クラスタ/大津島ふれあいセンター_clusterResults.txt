@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大津島ふれあいセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+花見, 桜
+cluster1:(19)
+海水浴シーズン, バーベキュー, 仕事, こと, ところ, バイク, 家族, 道, 場所, タクシー, バス, レンタサイクル, ほう, こちらふれあいセンター, あちこち, シャワー, 自転車, 大津島, ログハウス
+cluster2:(4)
+独特, 木, 島内, 都会
+cluster3:(3)
+自炊, ストレス発散, 喧騒
+cluster4:(12)
+施設, 高速船, 船, 島生活, 宿泊棟, 大津島ふれあいセンター, 長期宿泊, 観光客, 島内交通バス, 炊飯棟, 宿泊, 徳山港
+cluster5:(1)
+大津島馬島港
+
+howmany entities : 41
+howmany clusters : 6
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 6
+deleted 0entities.

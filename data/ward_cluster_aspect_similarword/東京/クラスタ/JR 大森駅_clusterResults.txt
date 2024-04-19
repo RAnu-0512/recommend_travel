@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR 大森駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+大森貝塚の記念碑, 大森貝塚遺跡庭園, 大森駅, 大森貝塚, 大森
+cluster1:(2)
+徒歩圏, 徒歩数分圏
+cluster2:(16)
+古くスペース, 場所, 食事, 企業, 近く, 東北線, 支店, ドン・キホーテ, 西友, イトーヨーカドー, 駅, トイレ, 買い物, デパート, 大盛り, 多数
+cluster3:(2)
+酉, 熊手
+cluster4:(1)
+京浜
+cluster5:(2)
+駅直結, 飲食店
+cluster6:(1)
+ホー厶
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:潮風公園--------------------
+top3 entities near to cluster0>>
+海浜, 公園, 台場
+top3 entities near to cluster2>>
+施設, 公園, 風景
+top3 entities near to cluster4>>
+海沿い, 景色, 夕暮れ
+top3 entities near to cluster5>>
+自転車, バイク, 駐輪場
+top3 entities near to cluster6>>
+景色, 夕日, 海
+top3 entities near to cluster7>>
+遊具, 公園, 潮風
+top3 entities near to cluster8>>
+臨海, 鉄道, 駅

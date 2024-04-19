@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士岡地蔵堂のイチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木, 葉
+cluster1:(8)
+イチョウ, 紅葉, 地蔵堂, 境内, 中, 近く, 時期, 黄色
+cluster2:(2)
+存在感, 大きさ
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

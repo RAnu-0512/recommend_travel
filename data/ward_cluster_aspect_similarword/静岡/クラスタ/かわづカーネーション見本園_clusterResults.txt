@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かわづカーネーション見本園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+河津町, 河津桜まつり, 河津桜交流館, 河津桜
+cluster1:(3)
+温室, 品種, 栽培
+cluster2:(4)
+開花, 花, 八重, 桜
+cluster3:(11)
+色とりどり, カーネーション, カップル, 世の中, カラー, あちこち, ビニールハウス, とりどり, 鉢植え, 見晴台, JAF
+cluster4:(2)
+料金, 係員
+cluster5:(3)
+事, こと, 意外
+cluster6:(2)
+時間, 場所
+cluster7:(3)
+人, 中, カーネーション達
+cluster8:(1)
+帰り
+cluster9:(5)
+看板, 写真, 種類, 名前, 色
+cluster10:(1)
+多さ
+cluster11:(9)
+開園時間, カーネーション見本園, 見本園, 伊豆旅行, 割引券, カーネーション園, 閉園時間, 交通整備, 来宮神社
+
+howmany entities : 48
+howmany clusters : 12
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 8
+deleted 6entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津田屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+商店街入り口, 表参道商店街, 世界遺産宮島
+cluster1:(3)
+広島, 宮島, 津田屋
+cluster2:(17)
+地酒, 友人, もの, 商品, ところ, 店, 母親, 方, がま口財布, 人気, 土産, 小物, 雰囲気, おむすびポーチ, 手作り感, 付近, 女性
+cluster3:(11)
+和柄, 雑貨品, 和小物, 和雑貨, 品, 雑貨, 雑貨たち, 和風雑貨, 雑貨屋, 和風, 和
+
+howmany entities : 34
+howmany clusters : 4
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 うり坊の郷katamata>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+猪肉, 注文 猪肉, しし肉うどん
+cluster1:(2)
+道, 山道
+cluster2:(2)
+前, 途中
+cluster3:(4)
+田舎道, ほとんど, トマト, 人
+cluster4:(4)
+味, 店, 駅, 周辺
+cluster5:(1)
+郷
+cluster6:(4)
+昼食, 食堂, 肉, 野菜
+cluster7:(1)
+売店内
+cluster8:(2)
+夏季限定ト, うり坊
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:県立もみのき森林公園--------------------
+top3 entities near to cluster0>>
+キャンプ, バーベキュー, デイキャンプ
+top3 entities near to cluster1>>
+アスレチック, スレチック, キャンプアスレチック
+top3 entities near to cluster2>>
+スニーカー, スリッポン, ハイカットスニーカー
+top3 entities near to cluster3>>
+エリア, アーバンエリア, 全域
+top3 entities near to cluster4>>
+中っ, ただ今, 中の間
+top3 entities near to cluster5>>
+子供, 子ども, 大人
+top3 entities near to cluster6>>
+自然, 豊か, 摂理
+top3 entities near to cluster7>>
+目的, 手段, ため
+top3 entities near to cluster8>>
+のび, 伸び, のびる
+top3 entities near to cluster9>>
+予約, 受付, 申し込み

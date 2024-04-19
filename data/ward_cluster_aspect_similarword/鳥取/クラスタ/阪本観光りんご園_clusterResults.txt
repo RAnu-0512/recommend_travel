@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阪本観光りんご園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+秋映, 涼香の季節, 阪本リンゴ園
+cluster1:(17)
+手入れ, 受付, 説明, 皆生温泉, 世界, 周り, 道, 残り, ナビ, お陰, シーズン, 網, リンゴ, 友人, 方, スイカ, 札
+cluster2:(6)
+リンゴ園, リンゴ狩り, 品種, 蜜, 収穫, 園内
+cluster3:(6)
+初体験, 採りたて, 体験, 無計画旅行, 感動もの, 予約時間
+cluster4:(1)
+じゃらんから貴園
+
+howmany entities : 33
+howmany clusters : 5
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 5
+deleted 0entities.

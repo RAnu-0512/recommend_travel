@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山池野営場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+倉吉市, 関金町
+cluster1:(9)
+トイレ, キャンプ, バーベキュー, 緑, 郷, 見学, 休憩, 途中, 跡
+cluster2:(3)
+水車, 池畔, 景観
+cluster3:(1)
+芝地
+cluster4:(4)
+大山池野営場, 関金B&G海洋センター, 大山池, 藤井谷廃寺
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

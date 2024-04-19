@@ -1,0 +1,41 @@
+--------------------similar_words:高尾山ケーブルカー・二人乗り観光リフト--------------------
+top3 entities near to cluster0>>
+行き帰り, 行き, 出かけ
+top3 entities near to cluster1>>
+乗り場, リフト, ゴンドラ
+top3 entities near to cluster3>>
+山頂, 頂上, 中腹
+top3 entities near to cluster5>>
+気持ち, 思い出, カタチ
+top3 entities near to cluster6>>
+カメラ, スキー, スイカ
+top3 entities near to cluster7>>
+初心者, ビギナー, 世界一
+top3 entities near to cluster8>>
+ケーブルカー, ロープウェー, ケーブル
+top3 entities near to cluster9>>
+チケット, マッピング, プロジェクト
+top3 entities near to cluster12>>
+乗り物, 乗物, 飛行機
+top3 entities near to cluster13>>
+リスト, 追加, 上部
+top3 entities near to cluster14>>
+スリル, スリリング, ドキドキハラハラ
+top3 entities near to cluster17>>
+周辺, 近隣, 周囲
+top3 entities near to cluster18>>
+全員, 皆人, 皆
+top3 entities near to cluster19>>
+家族, 子供, 子ども
+top3 entities near to cluster20>>
+子, 目の子, テレビッ
+top3 entities near to cluster21>>
+自然風, 自然, ガチ
+top3 entities near to cluster22>>
+季節, 時期, 冬
+top3 entities near to cluster23>>
+お昼, 昼, 夕方
+top3 entities near to cluster25>>
+体力, 人出, 階段
+top3 entities near to cluster26>>
+駅, 登り, 山頂

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:潮入の池(浜離宮恩賜庭園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+光景, 表情, 変化, 動き
+cluster1:(11)
+東京湾, 池, 水面, 真夏, 庭園, 浜離宮, 都, 江戸, リーフレット, 規模, 唯一
+cluster2:(2)
+波, 潮
+cluster3:(3)
+淡水, 海水, 海
+cluster4:(1)
+水位
+cluster5:(1)
+満ち干
+cluster6:(1)
+高層ビル
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

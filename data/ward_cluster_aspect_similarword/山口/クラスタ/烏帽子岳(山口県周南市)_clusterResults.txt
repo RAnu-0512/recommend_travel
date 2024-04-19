@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:烏帽子岳(山口県周南市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+昼食, 弁当
+cluster1:(3)
+形, 場所, 途中
+cluster2:(10)
+烏帽子岳, 見晴らし, スニーカー, 初心者, 鳥帽子, ハイキングコース, 鳥帽子岳, おにぎり, ハイキング, 気持ち
+cluster3:(2)
+家族, 人
+cluster4:(1)
+サンドイット
+cluster5:(1)
+山口
+cluster6:(10)
+山頂, 景色, 季節, 空気, 紅葉, 緑, 木々, 頂上, 天気, 山
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

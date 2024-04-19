@@ -1,0 +1,94 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高原の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+泥, コロナ禍, 泥パック
+cluster1:(3)
+土産コーナー, 雑貨類, 土産
+cluster2:(2)
+態度, 距離
+cluster3:(3)
+占有, 悪さ, タチ
+cluster4:(9)
+方, あー, 利用, 感じ, 話し, 気分, 帰り, こと, 思い
+cluster5:(2)
+汗, 対策
+cluster6:(1)
+ぅー
+cluster7:(1)
+嫌気
+cluster8:(7)
+土石流, 野天風呂, 湯上がり, 露天風呂, サウナ, 洗い場, 内風呂
+cluster9:(3)
+スマホ, マナー, 口コミ
+cluster10:(3)
+仕切り, パック, ポーチ
+cluster11:(3)
+帰り際, 入り口, 雰囲気
+cluster12:(2)
+ところ, ポイント
+cluster13:(2)
+ロッカー, スペース
+cluster14:(4)
+カピバラ, シーズンオフ, マッサージ, ハンモック
+cluster15:(1)
+おしゃべりドライヤー
+cluster16:(2)
+伊豆高原, ホテル
+cluster17:(1)
+サンタ
+cluster18:(1)
+扇風機
+cluster19:(1)
+コインランドリー
+cluster20:(1)
+検温
+cluster21:(2)
+左右, 左右後ろ
+cluster22:(11)
+湯浴み大, 足, ふり洗い場, 階段, 自然, 腹, 顔, 声, 化粧, 鏡, 身体
+cluster23:(3)
+消毒, 洗濯, ビニール袋
+cluster24:(5)
+人, 数人, 子供, 女性達, 女性
+cluster25:(6)
+最後, 他, 中, 一連, 隣, 後ろ
+cluster26:(2)
+雑誌, 漫画
+cluster27:(2)
+親戚, 食事
+cluster28:(4)
+駅, 施設, 内容, 場所
+cluster29:(1)
+コミュニテー会話
+cluster30:(1)
+寿司
+cluster31:(1)
+レストラン併設
+cluster32:(1)
+●●
+cluster33:(16)
+温泉, 内湯, 入湯, 赤沢の日帰り温泉, 日帰り温泉, 足湯, 熱川温泉, 高原, お湯, 熱海市, 露天, 伊東, 立ち寄り湯, 伊豆, 湯巡り, 湯
+cluster34:(4)
+湯上がり所, 休憩室, 休憩所, 脱衣所
+cluster35:(4)
+席, 場所取り, 席座, 席取り
+cluster36:(8)
+カゴ, 岩風呂, 洗濯カゴ, 風呂, 風呂場, 泥風呂, 風呂上がり, 場
+cluster37:(2)
+禁止, 使用禁止ロッカー
+cluster38:(2)
+扇風機個人使用ダメ, 個人使用
+cluster39:(1)
+地元利用者
+cluster40:(3)
+客, 常連客, 常連
+cluster41:(2)
+観光客, 観光
+cluster42:(1)
+従業員
+
+howmany entities : 137
+howmany clusters : 43
+howmany entities (more than3entities) : 102
+howmany clusters (more than3entities) : 19
+deleted 35entities.

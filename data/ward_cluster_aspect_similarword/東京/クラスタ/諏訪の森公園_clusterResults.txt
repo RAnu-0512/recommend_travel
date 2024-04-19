@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:諏訪の森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+神社, 諏訪, 諏訪神社
+cluster1:(7)
+緑, 木, 左, 武蔵野, モノレール, 前, 普通
+cluster2:(2)
+場所, アクセス方法
+cluster3:(2)
+南口, 出口
+cluster4:(5)
+散策, 公園, 中央線, 立川駅, 森公園
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

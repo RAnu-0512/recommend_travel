@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昭和の森いちょう並木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+銀杏並木, イチョウ並木, 座りながらいちょう並木, 並木
+cluster1:(3)
+散歩, 散歩デート, ついでに散歩
+cluster2:(7)
+季節, 木々, 紅葉, 冬, 秋, 時期, 青々
+cluster3:(2)
+寿司, 天気
+cluster4:(2)
+映画, 映画館
+cluster5:(11)
+ショッピング, 気持ち, モール, モリタウン, イチョウ, 買い物, ゲームセンター, イルミネーション, ベンチ, ショッピングモール, 並木道
+cluster6:(1)
+迫力
+cluster7:(11)
+途中, 人, 間, 他, 近く, 木, 黄色, 付近, 周り, 下, 側
+cluster8:(6)
+所, 場所, 距離, 事, 駅, 道
+cluster9:(1)
+長さ
+
+howmany entities : 48
+howmany clusters : 10
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本願寺(鳥取県鳥取市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ほんがんじ, あみだほんがんじ
+cluster1:(3)
+鳥取市, 鳥取, 鳥取駅
+cluster2:(6)
+こと, 各地, 同名, 由来, ゆったり差, 名称
+cluster3:(2)
+本願寺系, 派
+cluster4:(2)
+庭, 墓
+cluster5:(5)
+浄土真宗, 亀山天皇, 願掛け, 時間, 本願寺
+cluster6:(1)
+廟堂
+cluster7:(1)
+本山
+cluster8:(8)
+寺院, 寺めぐり, お寺めぐり, 真宗, 親鸞, 境内, 寺号, 寺
+cluster9:(1)
+久遠実成阿弥陀本願寺
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 10
+deleted 0entities.

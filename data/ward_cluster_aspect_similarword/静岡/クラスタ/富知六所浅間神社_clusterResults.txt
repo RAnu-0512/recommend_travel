@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富知六所浅間神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+人, 御朱印, 地, 予想, ところ, 腹, 娘, 近く
+cluster1:(5)
+参拝, 元号, 紀元, 創建, 噴火
+cluster2:(2)
+安産祈願, 富士山山
+cluster3:(1)
+富知六所浅間神社
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 3entities.

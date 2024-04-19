@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:草戸稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+稲荷神社, 草戸稲荷, 明王院, 稲荷, 神社
+cluster1:(6)
+参拝者, 社殿, 国宝, 参拝, 本殿, 拝殿
+cluster2:(8)
+眺め, 隣, 方, 印象, 北隣, 部分, 上層階, 階段
+cluster3:(1)
+山際に聳え立つ城塞
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

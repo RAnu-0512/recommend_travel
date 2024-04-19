@@ -1,0 +1,9 @@
+--------------------similar_words:奥大井湖上駅--------------------
+top3 entities near to cluster0>>
+湖, 湖上, 湖畔
+top3 entities near to cluster4>>
+山登り, トイレ, カフェ
+top3 entities near to cluster9>>
+景色, 道路, 線路
+top3 entities near to cluster10>>
+駅, 構内, 列車

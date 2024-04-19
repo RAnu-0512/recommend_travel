@@ -1,0 +1,11 @@
+--------------------similar_words:長崎屋跡--------------------
+top3 entities near to cluster0>>
+中央, 駅, ＪＲ
+top3 entities near to cluster1>>
+案内板, 案内, 倒連
+top3 entities near to cluster2>>
+宿, 宿場, 定宿
+top3 entities near to cluster4>>
+館長, 訪問, 来訪
+top3 entities near to cluster6>>
+外国, 商館, 異国

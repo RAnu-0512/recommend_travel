@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東行庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+名物, 観光, 駐車場, おみやげ屋, 名所, 墓所, バスツアー, 見物客, 見物, 見学, 庭園内, 銅像, 墓, 靴
+cluster1:(18)
+菖蒲, 花, 菩提, 餅, 季節, 見頃, 自然, 時期, 紅葉, 椿, 庵, 梅, 温泉, 四季, 満開, 鯉, 池, 桜
+cluster2:(2)
+年配, 方達
+cluster3:(13)
+それぞれ, ハイヒール, カメラ, オススメ, 雰囲気, ツツジ, 墓参り, もみじ, ドライブ, ところ, スポット, ツバキ, 見どころ
+cluster4:(3)
+隣, 敷地, 奥
+cluster5:(2)
+新聞, 片手
+cluster6:(6)
+中, 方々, 気, 事, 周り, 人
+cluster7:(2)
+日本, 作
+cluster8:(2)
+写真, 場所
+cluster9:(2)
+人物, 歴史
+cluster10:(1)
+生涯
+cluster11:(4)
+維新, 明治, 幕末, 愛人おう
+cluster12:(14)
+晋作もち, 高杉晋作, 高杉晋作墓所, 奇兵隊墓所, 資料館, 東行記念館, 晋作餅, 記念館, 美しさ, 晋作, 東行庵, 晋作らしさ, 高杉晋, 奇兵隊
+
+howmany entities : 83
+howmany clusters : 13
+howmany entities (more than1entities) : 83
+howmany clusters (more than1entities) : 13
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆大島の椿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+椿まつり, 椿, 椿デザイン, 椿由来, 椿グッズ, 椿園, 椿オイル
+cluster1:(3)
+大島公園, 伊豆大島, 大島
+cluster2:(2)
+名産品, お土産屋
+cluster3:(2)
+最盛期, 気温変化
+cluster4:(10)
+観光, 名物, 祭り, 訪問, 土産, 街中, 踊り, 施設, 牛乳せんべい, 会場
+cluster5:(10)
+温室, 島, 遅咲き, ツバキ, 花, 海, 実, 早咲き, ツバキ畑, ツバキオイル
+cluster6:(2)
+品種, 権威
+cluster7:(16)
+もの, 期間, 人, 値段, あんこ, 種類, ところ, ビニールハウス, 時期, 年, 赤, あと, 方, キーホルダー, あちこち, 色
+cluster8:(1)
+多種
+cluster9:(2)
+道路脇, 国際ツバキ協会
+
+howmany entities : 55
+howmany clusters : 10
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 10
+deleted 0entities.

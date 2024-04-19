@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北野神社(牛天神)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+御朱印帳, 朱印
+cluster1:(3)
+気, 事, こと
+cluster2:(2)
+はい, やつ
+cluster3:(1)
+願い
+cluster4:(5)
+金額, 期間, 時期, 記載, 金
+cluster5:(1)
+態度
+cluster6:(1)
+スタンプラリー状態
+cluster7:(1)
+聞き方
+cluster8:(1)
+嫌気
+cluster9:(1)
+帰宅途中モヤモヤ
+cluster10:(23)
+神社, 梅まつり, 手書き, 限定, 景色, 人, お礼参り, 小石川後楽園, 御朱印, 日々, 気持ち, 話, 甘酒, 口, 限定御朱印, 石, 梅, 神, SNS, 撫, 境内, 訪問, 階段
+cluster11:(7)
+太田神社, 女性宮司, 牛天神, 牛, 北野神社, 菅原道真, 高木神社
+
+howmany entities : 48
+howmany clusters : 12
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 12
+deleted 0entities.

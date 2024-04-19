@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛染明王堂 和み玉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+下田ロープウェイ, 下田
+cluster1:(5)
+場所, 笑, 石, 前, かわらけ
+cluster2:(2)
+輪, 和
+cluster3:(1)
+愛染明王堂
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 5entities.

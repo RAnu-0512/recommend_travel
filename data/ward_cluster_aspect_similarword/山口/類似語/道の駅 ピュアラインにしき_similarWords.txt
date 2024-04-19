@@ -1,0 +1,29 @@
+--------------------similar_words:道の駅 ピュアラインにしき--------------------
+top3 entities near to cluster0>>
+特産品, 名産品, 特産, 名産
+top3 entities near to cluster1>>
+醤油漬け, 寿司, 醤油
+top3 entities near to cluster2>>
+休憩, 駐車, 土産物
+top3 entities near to cluster4>>
+清流, 川, 鮎
+top3 entities near to cluster5>>
+トイレ, ベンチ, 出入り
+top3 entities near to cluster6>>
+天ぷら, 味付け, メニュー
+top3 entities near to cluster7>>
+切り身, 切身, 刺身
+top3 entities near to cluster8>>
+ワサビ, わさび, ホタル
+top3 entities near to cluster11>>
+季節, 時期, 時季
+top3 entities near to cluster12>>
+不満, 不平, 疑問
+top3 entities near to cluster13>>
+温泉, 温泉郷, 露天風呂
+top3 entities near to cluster14>>
+食事, 定食, 飲食
+top3 entities near to cluster15>>
+駅道, 駅車, 駅
+top3 entities near to cluster16>>
+建物, 中庭, 屋根

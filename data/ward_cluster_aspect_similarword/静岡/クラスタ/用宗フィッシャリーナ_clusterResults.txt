@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:用宗フィッシャリーナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡, 用宗
+cluster1:(13)
+スポットしらす, 水揚げ, レストラン, モチーフ, ショップ, 海沿い, スペース, アイテム, さんぽ, 近く, スポット, テイクアウト, 道
+cluster2:(2)
+リゾートライフ体, リゾート感
+cluster3:(3)
+宗港, 港町演出New, 漁具小屋
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 4entities.

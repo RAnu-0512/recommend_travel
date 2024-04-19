@@ -1,0 +1,19 @@
+--------------------similar_words:鳥取市さじアストロパーク佐治天文台--------------------
+top3 entities near to cluster1>>
+星空, 夜空, 観測
+top3 entities near to cluster2>>
+天体, けんび鏡, ハービッグ・ハロー
+top3 entities near to cluster3>>
+天文, 理科, 地学
+top3 entities near to cluster4>>
+展示, 観測, 公開
+top3 entities near to cluster5>>
+大型, サブ, 望遠鏡
+top3 entities near to cluster6>>
+佐治, さじ, アストロパーク
+top3 entities near to cluster8>>
+宇宙, 地球
+top3 entities near to cluster9>>
+天気雨, 天気, 空気
+top3 entities near to cluster11>>
+山間, 施設, 宿泊

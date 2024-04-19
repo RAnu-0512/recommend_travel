@@ -1,0 +1,13 @@
+--------------------similar_words:聖蹟蒲田梅屋敷公園の梅--------------------
+top3 entities near to cluster0>>
+駅, 本線, 駅前
+top3 entities near to cluster1>>
+公園, 駅, 駅前
+top3 entities near to cluster3>>
+天皇, 明治, 明治天皇
+top3 entities near to cluster5>>
+木々, 歩道, 樹木
+top3 entities near to cluster6>>
+時代, 幕末, 末期
+top3 entities near to cluster7>>
+区立, 都, 区

@@ -1,0 +1,11 @@
+--------------------similar_words:宝蔵院--------------------
+top3 entities near to cluster0>>
+霊石, 虎石, 霊, 虎
+top3 entities near to cluster1>>
+彫刻, 欄間, 書体
+top3 entities near to cluster2>>
+近辺, 一帯, 地区
+top3 entities near to cluster3>>
+威厳, 表情, 趣
+top3 entities near to cluster5>>
+本堂, 山門, 境内

@@ -1,0 +1,13 @@
+--------------------similar_words:神勝寺 禅と庭のミュージアム--------------------
+top3 entities near to cluster0>>
+案内, 受付, 入り口
+top3 entities near to cluster2>>
+寺院, 庭園, お寺
+top3 entities near to cluster3>>
+駅, バス, 路線
+top3 entities near to cluster4>>
+瞑想, メディテーション, 体験
+top3 entities near to cluster5>>
+見学者, 見学
+top3 entities near to cluster6>>
+晃, 平, 利志子

@@ -1,0 +1,19 @@
+--------------------similar_words:フィッシングパークTOI--------------------
+top3 entities near to cluster0>>
+鯛, アジ
+top3 entities near to cluster1>>
+魚釣り, 釣
+top3 entities near to cluster2>>
+餌, エサ, えさ
+top3 entities near to cluster3>>
+息子, 母, 母親
+top3 entities near to cluster4>>
+竿, 釣糸, 針
+top3 entities near to cluster5>>
+美味しい, おかず, おいしい
+top3 entities near to cluster8>>
+イシダイ, カワハギ
+top3 entities near to cluster18>>
+予約, 宿泊, 混雑
+top3 entities near to cluster19>>
+家族, 子供

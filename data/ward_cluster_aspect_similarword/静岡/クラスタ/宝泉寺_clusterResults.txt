@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝泉寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+地震, 東海大地震, 津波
+cluster1:(3)
+提督, 水兵, 仲間たち
+cluster2:(3)
+紅葉, 木々, 桜
+cluster3:(2)
+歴史, 自然
+cluster4:(4)
+ロシア, タイミング, プチャーチン, 宝泉寺
+cluster5:(2)
+人, 友だち
+cluster6:(2)
+車, 場所
+cluster7:(1)
+寺
+cluster8:(1)
+交渉
+cluster9:(2)
+びゅうお, プーチンじゃあなくプチャーチン
+cluster10:(1)
+宿所
+cluster11:(1)
+軍艦ディアナ号
+
+howmany entities : 25
+howmany clusters : 12
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 4
+deleted 12entities.

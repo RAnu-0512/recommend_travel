@@ -1,0 +1,9 @@
+--------------------similar_words:船上神社--------------------
+top3 entities near to cluster0>>
+天皇, 後醍醐, 上皇
+top3 entities near to cluster1>>
+森, 建物, 木々
+top3 entities near to cluster2>>
+神社, 船上, 境内
+top3 entities near to cluster3>>
+坂口, 登山口, 登山, 坂

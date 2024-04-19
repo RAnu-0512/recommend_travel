@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:貞源寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, 関ヶ原
+cluster1:(2)
+中野区, 沼袋
+cluster2:(1)
+慶誉春公
+
+howmany entities : 5
+howmany clusters : 3
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 3
+deleted 0entities.

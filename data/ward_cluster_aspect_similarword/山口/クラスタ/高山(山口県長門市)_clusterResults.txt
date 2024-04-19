@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高山(山口県長門市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高山, 高山岬
+cluster1:(2)
+見ごたえ, 青海島
+cluster2:(2)
+山頂, 稜線
+cluster3:(1)
+海側
+cluster4:(1)
+展望台
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

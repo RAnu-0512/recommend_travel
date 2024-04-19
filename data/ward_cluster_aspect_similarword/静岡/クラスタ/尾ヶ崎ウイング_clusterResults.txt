@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾ヶ崎ウイング>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 展望台
+cluster1:(2)
+休憩, トイレ休憩
+cluster2:(28)
+車, ドライブコース, 途中, 空き, バイク, おすすめ, カップル, スマホ, 運, 看板, 写真, タイミング, 流行り, 夕焼け, カット, 花, 自販機, スポット, トイレ, コントラスト, 場所, 人気, 夕方, ダブル被写体, 期待, オーシャンビュー, 天気, SNS
+cluster3:(10)
+海岸, 眺め, 四季, 階段, 景色, 海, 高台, 風景, 絶景, 方面
+cluster4:(4)
+国道沿い, 国道, 水平線, 線沿い
+cluster5:(8)
+東伊豆屈指, 白浜海岸, 下田, 観光地, 白浜, 伊豆七島, 下田方面, 利島
+
+howmany entities : 54
+howmany clusters : 6
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 4
+deleted 4entities.

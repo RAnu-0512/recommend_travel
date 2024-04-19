@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:DDT FLOWERS 新宿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+花, 茶, 菓子, お花
+cluster1:(18)
+生徒, プリザーブドフラワーアレンジメント, 趣味, 半額, 他, 話, 一角, クオリティー, 体験, クーポン, 時間, 昼間, 先生, コース, 教室, 資格, もの, システム
+cluster2:(1)
+入会金
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小土肥温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+疲れ, 親たち, こと, 家, 海水浴, 海沿い, 飲み物, ライフセーバー, 食事, 子供, 場所, 人気, ほう, 方
+cluster1:(3)
+土, 水, 水シャワー
+cluster2:(3)
+魚, 海水, 水中
+cluster3:(3)
+砂, 海, 砂浜
+cluster4:(2)
+ウニ, 幸
+cluster5:(1)
+塩分
+cluster6:(7)
+小土肥海水浴場, 駐車場, 温泉, 小土肥温泉, 土肥温泉, 温泉地, 笑)温泉
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 3entities.

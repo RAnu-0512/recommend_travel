@@ -1,0 +1,13 @@
+--------------------similar_words:秋のみかん狩り--------------------
+top3 entities near to cluster0>>
+土産, おみやげ, 土産物
+top3 entities near to cluster1>>
+駅, 駅前, 地区
+top3 entities near to cluster2>>
+宿泊, 送迎, ホテル
+top3 entities near to cluster5>>
+狩り, 狩る, 狩っ
+top3 entities near to cluster6>>
+農園, 果樹, みかん
+top3 entities near to cluster7>>
+農園, 齋藤, 果樹

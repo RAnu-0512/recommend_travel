@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:こだわりっぱ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+掛川牛, 掛川駅, 掛川城, 掛川茶
+cluster1:(10)
+気, 休憩, イタリア, パスタ, 地元, 種類, 近く, ピン, オススメ, 他
+cluster2:(5)
+茶, 茶所, 抹茶, 団子, 焼き
+cluster3:(5)
+土産, 食事処, お土産屋, 土産店, 特産品
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 0entities.

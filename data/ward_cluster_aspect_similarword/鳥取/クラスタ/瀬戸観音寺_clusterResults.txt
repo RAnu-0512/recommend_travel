@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸観音寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+仏像, 羅漢, 地名, 千手観音像, 堂, 地元, 仏師, 兄弟仏, 境内, 立像, 観音寺, 尊者, 寺, コナン, それぞれ, 東高尾観音寺
+cluster1:(2)
+町北栄町, 北栄町
+cluster2:(4)
+瀬戸観音寺, 瀬戸, 瀬戸の観音寺, 鳥取県
+cluster3:(1)
+鳥取県指定保護文化財
+cluster4:(1)
+東伯郡大栄町瀬戸
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

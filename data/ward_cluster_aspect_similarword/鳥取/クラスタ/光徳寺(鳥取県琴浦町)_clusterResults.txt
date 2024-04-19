@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光徳寺(鳥取県琴浦町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+寺, 趣き, 雰囲気, 光徳寺, 山門, 杉林
+cluster1:(3)
+琴浦町, 鳥取県, 東伯郡
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

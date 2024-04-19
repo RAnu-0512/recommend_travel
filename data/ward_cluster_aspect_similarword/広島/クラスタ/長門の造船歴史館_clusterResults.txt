@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長門の造船歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+船, 木造船, 造船, 造船技術, 遣唐使船
+cluster1:(16)
+説明書, 歴史, 模型, 館内, 鉄筋コンクリート, 展示物, 知恵, 苦労, 展示, 伝え, 建物, 地, 鉄筋コンクリート造り, 方々, 桂浜, 勉強
+cluster2:(1)
+桂浜温泉館
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

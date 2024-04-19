@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆ダイビングスクール あくあぽんて>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+セット, リゾート, ガイド, 初心者, ダイビング, ショップ, 海外, ダイバー, 機材, ヒストリー動画, ファンダイビング, 人, 時間, 関係, ボード, 不安, ブランク, 職場, 方
+cluster1:(2)
+人柄, 世話
+cluster2:(7)
+魚, 殿様ダイビング, コロナ禍, 伊豆, 川奈, 水中, 海中写真
+cluster3:(1)
+伊豆海洋公園
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 3entities.

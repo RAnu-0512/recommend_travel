@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:FOUGERES FRAGRANCE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+じっくり配合, 調合体験, 調合, 調合師, 配合
+cluster1:(7)
+対応, 経験, 体験, 知識, 変化, 説明, 作り
+cluster2:(3)
+趣向, 魅力, 好み
+cluster3:(3)
+世界, 次, 段階
+cluster4:(3)
+方, 中, 沢山
+cluster5:(2)
+種類, 全部
+cluster6:(3)
+話, 時間, 名前
+cluster7:(6)
+空間, こと, 事, 所, 場所, もの
+cluster8:(27)
+組み合わせ, ブランド, 語, 思い出, ラベル, 友人, 雰囲気, 帰り, 店, こだわり, カウンセリング, アドバイス, トップ, オーナー, こっち, 夫, ミニエピソード, 店内, オススメ, 兄さん, ラベルシール, おかげ, サンプル, 店員, イメージ, デザイン, プレゼント
+cluster9:(7)
+特別感, 香り方, 香料, 満足, 満足度, 匂い, 香り
+cluster10:(3)
+調香師, 調香体験, 調香
+cluster11:(9)
+香水ガチャ, 香水瓶, 香水選び, 香水ライフ, 香水入れ, 香水愛, 香水作り, 香水づくり, 香水
+
+howmany entities : 78
+howmany clusters : 12
+howmany entities (more than1entities) : 78
+howmany clusters (more than1entities) : 12
+deleted 0entities.

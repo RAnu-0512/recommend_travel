@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二尊仏>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+聖地マップイラスト, 聖地巡礼マップ
+cluster1:(11)
+配布, 浅草寺, 開催期間, アニメ, 地蔵, 境内, 高さ, コラボ, 発行, スタンプラリー, 舞台
+cluster2:(2)
+宝蔵門, 寺像
+cluster3:(2)
+台東区, 浅草寺雷門
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥多摩温泉 もえぎの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+氷川トンネル, 青梅, 青梅街道
+cluster1:(2)
+キー, 靴ロッカーキー
+cluster2:(3)
+制限, 影響, 規制
+cluster3:(14)
+コロナ, 疲れ, 人, 多摩川, 緑, 気持ち, ロッカー, フロント, 露天風呂, もえぎ, 旅, 今回, サイズ, 奥多摩
+cluster4:(6)
+入口, 駅, 施設, 奥多摩駅, 階段, 登山
+cluster5:(3)
+男湯, 湯温, 湯
+cluster6:(7)
+内湯, 湯舟, 足湯, 奥多摩温泉, 入浴, 露天, 温泉
+cluster7:(2)
+温泉感, 日帰り温泉施設
+cluster8:(3)
+脱衣場, 駐車場, 入館料
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 9
+deleted 0entities.

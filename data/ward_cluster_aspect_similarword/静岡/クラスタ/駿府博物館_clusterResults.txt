@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駿府博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展示品, 展覧会, 企画展
+cluster1:(2)
+静岡市ゆかり, 駿府博物館
+cluster2:(17)
+博物館, 名品, 画風, 姿, 静岡新聞社, 猫, 大作, 日本, テーマ, 画, 画家, 開館, 富士山, 霧, 浮世絵, 隙間, 作品
+cluster3:(6)
+花鳥山水画, 橋本雅邦, 竹内栖鳳, 川合玉堂, 林間残照図, 板谷房
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 2entities.

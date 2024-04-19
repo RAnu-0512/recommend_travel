@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六万部寺の経塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+柏谷公園, 経塚
+cluster1:(11)
+部寺, 法華経, 高台, こんもり, 経典, 源頼朝, 境内, 仏教, 地表, 近く, 規模
+cluster2:(1)
+横穴群
+cluster3:(3)
+静岡県, 法華経六萬部, 函南町
+cluster4:(1)
+韮山蛭ヶ小島
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 4entities.

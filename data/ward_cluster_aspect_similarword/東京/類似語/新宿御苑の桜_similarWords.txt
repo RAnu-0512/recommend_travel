@@ -1,0 +1,35 @@
+--------------------similar_words:新宿御苑の桜--------------------
+top3 entities near to cluster0>>
+大木, 真中, 高木
+top3 entities near to cluster1>>
+シート, レジャー, パッセンジャーシート
+top3 entities near to cluster2>>
+雰囲気, 気持ち, 見応え
+top3 entities near to cluster3>>
+ピンク色, 食べ物, ピンク
+top3 entities near to cluster4>>
+早咲き, 花, 八重桜
+top3 entities near to cluster6>>
+敷地, 芝生, 中庭
+top3 entities near to cluster7>>
+勧め, 薦め
+top3 entities near to cluster9>>
+駅, 周辺, 駅前
+top3 entities near to cluster10>>
+食堂, ビル, 社屋
+top3 entities near to cluster11>>
+名所, 庭園, 公園
+top3 entities near to cluster12>>
+春先, 春, 秋
+top3 entities near to cluster13>>
+季節, 時期, 時季
+top3 entities near to cluster14>>
+四季, 春夏秋冬, 移ろい
+top3 entities near to cluster15>>
+人出, 飲酒, 悪天候
+top3 entities near to cluster18>>
+花見, 見物, 行楽
+top3 entities near to cluster20>>
+時間, 開園, 混雑
+top3 entities near to cluster21>>
+桜, 花見, 満開

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お茶の水貝塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+工事, 地下鉄工事
+cluster1:(2)
+貝類, 貝塚
+cluster2:(5)
+地下鉄丸ノ内線, 地下鉄, 御茶ノ水駅, 構内, 御茶ノ水橋
+cluster3:(2)
+石碑, 遺跡
+cluster4:(5)
+場所, ハマグリ, フェンス, 東京医科歯科大学, 記念碑
+cluster5:(3)
+縄文式土器, 縄文人, 縄文時代
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

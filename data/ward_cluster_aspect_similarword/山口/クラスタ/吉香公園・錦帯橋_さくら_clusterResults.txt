@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉香公園・錦帯橋_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+夕方, 夕食, 昼, 日, 木
+cluster1:(2)
+夫婦, 子供
+cluster2:(2)
+施設, 車
+cluster3:(7)
+日本, 方, 近く, 多く, 場所, 下, 人
+cluster4:(21)
+春, オススメ, 雰囲気, 花, あちこち, コンビネーション, 季節, ドライブ, 時期, スポット, 菜の花, 錦帯橋, ピンク, 桜並木, 白, シーズン, ストレス, コラボレーション, つつじ, 夕暮れ, ライト
+cluster5:(2)
+穴場, 名所
+cluster6:(3)
+景色, 紅葉, 天気
+cluster7:(1)
+混雑
+cluster8:(8)
+旅館, 散歩, 浴衣, 橋, 出店, 弁当, 噴水, 公園
+cluster9:(1)
+美しさ
+cluster10:(1)
+駐車場
+cluster11:(2)
+錦帯橋&吉香公園, 吉香公園
+cluster12:(11)
+山口旅行, 錦川, 岩国寿司, 岩国城, 宮島, 錦川沿い, 鵜, 河原, 堀周辺, 堀, 岩国
+cluster13:(4)
+観光スポット, 観光客, 観光, 観光地
+cluster14:(2)
+夜桜見物, 夜桜
+cluster15:(2)
+花見, 花見客
+cluster16:(8)
+桜スポット, 満開情報, パッと桜, 桜三昧, 花筏, 桜越し, 満開, 桜
+
+howmany entities : 82
+howmany clusters : 17
+howmany entities (more than1entities) : 82
+howmany clusters (more than1entities) : 17
+deleted 0entities.

@@ -1,0 +1,43 @@
+--------------------similar_words:コニカミノルタプラネタリウム“天空_in 東京スカイツリータウン(R)--------------------
+top3 entities near to cluster0>>
+上映, 映画, 封切り
+top3 entities near to cluster1>>
+プラネタリウム, プラネタリム, プラネタリューム
+top3 entities near to cluster2>>
+ナレーション, スタッフ, ナレーター
+top3 entities near to cluster3>>
+ファミリー, カップル, フラット
+top3 entities near to cluster4>>
+背もたれ, リクライニング, ダメージ
+top3 entities near to cluster5>>
+レバー, エンド, ハンドル
+top3 entities near to cluster6>>
+イベント, グッズ, 映画
+top3 entities near to cluster7>>
+席, 座席, 後部
+top3 entities near to cluster8>>
+癒し, 癒す, 癒
+top3 entities near to cluster9>>
+香り, 香る, 薫り
+top3 entities near to cluster11>>
+解説板, 案内板, 案内, 解説
+top3 entities near to cluster12>>
+対応, 確認, 把握
+top3 entities near to cluster13>>
+解説, 補足, レクチャー
+top3 entities near to cluster14>>
+内容, 仕様, パッケージ
+top3 entities near to cluster15>>
+購入, 販売, 予約
+top3 entities near to cluster16>>
+違反, マナー, 抵触
+top3 entities near to cluster18>>
+映像, 番組, 作品
+top3 entities near to cluster19>>
+嗅覚, 聴覚, 臭覚
+top3 entities near to cluster20>>
+音楽, 音響, 映画
+top3 entities near to cluster21>>
+都心, 花火, 夜景
+top3 entities near to cluster22>>
+森星, 星空, 森

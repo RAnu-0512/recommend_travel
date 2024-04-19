@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富嶽温泉 花の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+受付, 注文
+cluster1:(4)
+質問, 利用, 対応, 説明
+cluster2:(2)
+再現, 充実
+cluster3:(1)
+利用者
+cluster4:(12)
+事, 古さ, こと, 方, 意識, 感じ, 匂い, 力, 表情, 方達, 人達, 温度
+cluster5:(1)
+管理体制
+cluster6:(6)
+登山, 富士, 硫黄, 露天, 湯, 草津
+cluster7:(22)
+水槽, ホスピタリティ, 魚, スタッフ, 他, 館内, 外, 菓子, 仕事, 多少, スタッフ教育, マッサージチェア, 種類, 掴み取り, 富士山, 別, 露天風呂, サウナ, 部屋, 建物, キッズメニュー, 施設
+cluster8:(2)
+大衆浴場, 浴場
+cluster9:(4)
+風呂場, 塩風呂, イベント風呂, 風呂
+cluster10:(8)
+ご飯, 仮眠, 食事どころ, 従業員, 食事処, 食事, 休息場, 仮眠利用
+
+howmany entities : 64
+howmany clusters : 11
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 6
+deleted 8entities.

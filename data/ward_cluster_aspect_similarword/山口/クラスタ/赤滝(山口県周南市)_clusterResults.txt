@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤滝(山口県周南市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山口県, 長野山
+cluster1:(10)
+糸, 岩, 緑, 水, 見応え, 岩肌, しぶき, 滝, 静寂, 赤滝
+cluster2:(1)
+周南市
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

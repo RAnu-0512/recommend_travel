@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名和神社の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+木, ソメイヨシノ, 桜
+cluster1:(2)
+名所, 観光
+cluster2:(2)
+公園, 神社
+cluster3:(4)
+名和神社, 大山町, 鳥取県, 名和公園
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古本農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島県, 安芸津町, 東広島市
+cluster1:(3)
+瀬戸内海, みかん, 雰囲気
+cluster2:(2)
+農園, 果物
+cluster3:(1)
+風早
+cluster4:(1)
+古本農園
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

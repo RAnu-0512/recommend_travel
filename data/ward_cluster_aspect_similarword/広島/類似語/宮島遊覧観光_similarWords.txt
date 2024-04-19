@@ -1,0 +1,41 @@
+--------------------similar_words:宮島遊覧観光--------------------
+top3 entities near to cluster0>>
+寒, 真夏, 暑い
+top3 entities near to cluster1>>
+砂浜, 海, 引潮
+top3 entities near to cluster2>>
+船内, 船上
+top3 entities near to cluster3>>
+舟, 乗り掛かる
+top3 entities near to cluster4>>
+荷物, 手荷物, 船便
+top3 entities near to cluster5>>
+改修, 改装, 改築
+top3 entities near to cluster6>>
+ホテル, クルーズ, ナイト
+top3 entities near to cluster7>>
+歴史, 文化, 価値
+top3 entities near to cluster9>>
+裏側
+top3 entities near to cluster10>>
+景色, 旅, 車窓
+top3 entities near to cluster11>>
+気分, ヘトヘト
+top3 entities near to cluster12>>
+神秘, 美しい, 象徴
+top3 entities near to cluster13>>
+語り部, 語り, 部員
+top3 entities near to cluster14>>
+龍船, 舟, 龍
+top3 entities near to cluster15>>
+神社, 境内, 厳島
+top3 entities near to cluster16>>
+時間帯, 本数, 時間
+top3 entities near to cluster17>>
+案内, 名所, 周遊
+top3 entities near to cluster18>>
+遊覧船, 遊覧, 屋形船
+top3 entities near to cluster20>>
+七浦, めぐり
+top3 entities near to cluster22>>
+遊覧船, 遊覧, 厳島

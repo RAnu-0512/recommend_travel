@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:間眠神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+松, 再興, 根, 川, こと, 願, 自然災害, 足跡, 間眠神社, ところ, 源頼朝, 中, 近く, 祠, 場所, 路傍, 氾濫, 百度参り, 木, 縁
+cluster1:(2)
+三島宿, 三島市
+cluster2:(2)
+伊豆, 韮山
+cluster3:(1)
+東本町
+cluster4:(1)
+三嶋大社
+cluster5:(1)
+蛭ケ小島
+cluster6:(1)
+源氏再興祈願
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 1
+deleted 8entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:片倉城跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+散策, 散歩, 駅, 国道, 徒歩, 道
+cluster1:(2)
+郭, 堀
+cluster2:(6)
+夏場, 宝石, 丘, 水辺, 中世, 餌
+cluster3:(17)
+カタクリ, 場所, 想像, カメラ, 辺り, 一部, カワセミ, ところ, 姿, 鳴き声, 入り口, カメラマン, 運, 付近, 右側, 雰囲気, オニヤンマ
+cluster4:(1)
+雉
+cluster5:(5)
+駐車場, 公園, 公園P, 虫網, 自然公園
+cluster6:(8)
+京王片倉駅, JR片倉駅, 城跡公園, 片倉城跡公園, 湧水池, 城館跡, 片倉つ, 片倉城
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 7
+deleted 0entities.

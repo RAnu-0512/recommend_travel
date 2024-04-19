@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王電鉄京王永山駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+場所, 隣, 人, 一角, 此処, 場合, 全体, 方
+cluster1:(6)
+小田急, 駅, バス, 小田急電鉄, 乗り換え, 京王線
+cluster2:(11)
+小田急永山駅, 京王相模原線, グリナード永山, 小田急多摩線, 永山駅, 多摩ニュータウン, 調布駅, 京王, 小田急線, 京王永山駅, 多摩センター駅
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 3
+deleted 0entities.

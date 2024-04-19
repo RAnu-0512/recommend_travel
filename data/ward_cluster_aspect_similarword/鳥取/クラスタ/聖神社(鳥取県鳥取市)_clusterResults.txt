@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:聖神社(鳥取県鳥取市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+国常立尊, 大日貴尊, 元明金命, 天照大神, 元明天皇, 金山彦命
+cluster1:(11)
+境内石碑, 氏子, 本殿下部, 古き良き神社, 北門, 神社, 神幸行列, 聖神社, 境内, 神社巡り, 参拝者
+cluster2:(4)
+循環バス, 駐車場, 下車, バス
+cluster3:(2)
+くる梨, ひじり
+cluster4:(13)
+停留所, 中, 北門前, バリア, 民衆, 祭り, 周辺, 風物詩, 古く, 十二支, 近く, 市, 場所
+cluster5:(4)
+赤コース, 隙間, 囲い, 内側
+cluster6:(3)
+解説代わり, 彫刻, 写真パネル
+cluster7:(2)
+修復事業, 中心部
+cluster8:(6)
+鳥取市, 住宅街, 商店街, 鳥取, 千代川東岸, 鳥取駅
+
+howmany entities : 51
+howmany clusters : 9
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 9
+deleted 0entities.

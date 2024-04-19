@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長府藩侍屋敷長屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上級藩士たち, 長州藩
+cluster1:(9)
+邸宅, 屋敷, 社寺, 町並み, 建築, 屋根, 長府, 建物, 造り
+cluster2:(1)
+長府藩侍屋敷長屋
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 府中店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+府中駅, 府中市, ニッポンレンタカー府中店
+cluster1:(7)
+接客対応, アクセス方法, 歩行者, 車, オススメ, レンタカー, 北口
+cluster2:(1)
+京王電鉄府中駅
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東武鉄道 曳舟駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, 乗り入れ駅
+cluster1:(2)
+スカイツリー, 雰囲気
+cluster2:(1)
+半蔵門線
+cluster3:(1)
+神社
+cluster4:(1)
+都心
+cluster5:(1)
+東武線
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥戸総合スポーツセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+スタジオ, テニスコート, 利用, 活気, 大会, プール, 温水プール, フィットネス, 体育館, スポーツセンター, 値段, 運動
+cluster1:(3)
+改修工事, 駐車場, 工事
+cluster2:(1)
+月額利用料
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:邃溪園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+帝釈堂, 題経寺, ガラス戸越し, 水墨画
+cluster1:(18)
+雨, 日本庭園, 彫刻ギャラリー, 緑, 気持ち, 茶, 廊下, 室内, 意外, 庭園, 回廊, 大正ガラス, 裏側, 心配, 庭, 列, 風情, 帝釈天
+cluster2:(5)
+本堂, 初詣, 参拝客, 本堂横, 柴又
+cluster3:(1)
+入園料
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大倉集古館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+コレクション展示, 展示物, 展示
+cluster1:(2)
+私立美術館, 虎ノ門ヒルズ駅
+cluster2:(19)
+アメリカ大使館, 場所, テラス, オススメ, 隣, オークラ, 人, ロッカー, ミュージアムショップ, オープン, 移動, ビデオ, ほう, 伊万里, ホテルオークラ, 美術館, 受付, 素晴らしさ, 横
+cluster3:(4)
+地上, 新館, 地下, 階段
+cluster4:(2)
+中国, 陶器
+cluster5:(3)
+建物, 外観, 独特
+cluster6:(1)
+国宝
+cluster7:(1)
+眺望
+cluster8:(1)
+鬼才
+cluster9:(1)
+多岐
+cluster10:(2)
+大倉喜八郎, 大倉集古館
+cluster11:(2)
+美術, 美術品
+cluster12:(2)
+東洋美術, 東洋美術品
+cluster13:(2)
+水墨画, 昭和水墨画壇
+cluster14:(1)
+特別展 生誕120年記念 篁牛人展
+
+howmany entities : 46
+howmany clusters : 15
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 15
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神宮寺(あじさい寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 府中市
+cluster1:(8)
+花, 寺, 青, あじさい寺, 小浜, 蓮, 池, 楓
+cluster2:(20)
+裏山, あじさい, 時期, 季節, 中, 手, 梅雨, 友達, 祭り, アジサイ, 鑑賞, 彩り, 御朱印, 妙楽寺, 多く, 風格, 木, 他, 山, 神宮寺
+cluster3:(4)
+駐車場, 訪問, 訪問者, 建造物
+
+howmany entities : 34
+howmany clusters : 4
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,37 @@
+--------------------similar_words:萩中公園--------------------
+top3 entities near to cluster0>>
+遊具, 滑り台, スケボー
+top3 entities near to cluster1>>
+水遊び, 遊び場, 滑り台
+top3 entities near to cluster2>>
+自転車, 三輪車
+top3 entities near to cluster3>>
+練習, 足, テニス
+top3 entities near to cluster5>>
+観客, 列, 客席
+top3 entities near to cluster7>>
+京, 急, アニオリジナル
+top3 entities near to cluster9>>
+交通, 公園, 児童
+top3 entities near to cluster10>>
+道路, 歩道, 自動車
+top3 entities near to cluster11>>
+室内, 屋内, 屋外
+top3 entities near to cluster12>>
+屋内, 屋外, 室内
+top3 entities near to cluster13>>
+屋外, 屋内, 室内
+top3 entities near to cluster14>>
+プール, 市民, 区民
+top3 entities near to cluster15>>
+信号場, 駐車場, 信号, 駐車
+top3 entities near to cluster16>>
+大人, 子供, 子ども
+top3 entities near to cluster17>>
+子ども, 子供, 親達
+top3 entities near to cluster18>>
+子供, 子ども, 親達
+top3 entities near to cluster20>>
+公園, 遊具, 園内
+top3 entities near to cluster21>>
+公園, 遠足

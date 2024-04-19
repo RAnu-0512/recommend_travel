@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹採公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歴史公園, 公園, 園内
+cluster1:(2)
+竹林, 竹
+cluster2:(2)
+地, 祖
+cluster3:(1)
+駐車場
+cluster4:(1)
+竹採公園
+cluster5:(1)
+白隠禅師
+cluster6:(1)
+竹取物語伝説発祥
+cluster7:(1)
+竹採塚・神来の庭・白隠禅師
+
+howmany entities : 12
+howmany clusters : 8
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 9entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+練馬大鳥神社, 練馬東神社, 大鳥神社, 練馬区, 練馬駅
+cluster1:(3)
+お水取り, 天明神水, 湧水
+cluster2:(6)
+神社, 鳥居, 酉, 鷲神社, 東神社, 境内
+cluster3:(29)
+パワースポット, 所, 心, 場所, 南側, 建物, 金融, 何か, 人, 気, 近く, 姿, 散歩, 駅, 市, 気軽さ, 御利益, 静寂, こじんまり, 時間, 徒歩, 歴史, 観光スポット, 利益, 雰囲気, 株, パワー, 地元, 町
+cluster4:(3)
+商店街, 大通り混雑, 通勤帰り
+
+howmany entities : 46
+howmany clusters : 5
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 5
+deleted 0entities.

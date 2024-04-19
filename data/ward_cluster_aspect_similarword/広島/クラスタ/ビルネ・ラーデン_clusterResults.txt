@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビルネ・ラーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+練乳, 梨
+cluster1:(22)
+荷物, 時期, 車内, 全て, おかげ, 試食, 上, 品種, コーナー, 大人, スタッフ, 目線, 出口, 態度, 携帯, こと, バス, ハウス, 値段, ナイフ, 受付, 女性
+cluster2:(4)
+ぶどう狩り, ちご狩り, いちご狩り, 食べ放題
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 3
+deleted 0entities.

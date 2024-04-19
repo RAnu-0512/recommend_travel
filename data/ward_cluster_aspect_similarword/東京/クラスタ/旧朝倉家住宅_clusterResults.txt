@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧朝倉家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登り降り, 入場料
+cluster1:(4)
+山手通り, 東京府, 大正ロマン, 大正
+cluster2:(18)
+次回, 代官山駅, もみじ, 内部, 左手, 東急東横線, 時代, 料金, 文化財, 雰囲気満点, 代官山, 朝倉, 渋谷, 日本, 方面, 歩道橋, 中, 雰囲気
+cluster3:(8)
+散策, 庭園, 趣, 屋敷, 邸宅, 庭, 部屋, 造り
+cluster4:(4)
+民家, 建物, 住宅, 家屋
+cluster5:(2)
+崖, 地形
+cluster6:(1)
+書院
+cluster7:(2)
+旧朝倉家住宅, 回遊式庭園
+
+howmany entities : 41
+howmany clusters : 8
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 8
+deleted 0entities.

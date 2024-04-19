@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:史跡の駅おたカフェ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+史跡, 再訪
+cluster1:(5)
+途中, スパイスチャイ, 場所, カフェ, 時間
+cluster2:(2)
+駅, 道
+cluster3:(1)
+鷹
+cluster4:(1)
+友人たち
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

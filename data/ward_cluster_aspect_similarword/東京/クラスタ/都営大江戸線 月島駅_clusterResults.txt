@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営大江戸線 月島駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+東京メトロ有楽町線, 月島, 都営, 月島駅, 江戸線
+cluster1:(12)
+駅員, 駅, もんじゃストリート, サポート役, もんじゃ焼き, 昔, 周辺, 高齢者, 外国人, 門前仲町, もんじゃ屋, 乗り換え
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

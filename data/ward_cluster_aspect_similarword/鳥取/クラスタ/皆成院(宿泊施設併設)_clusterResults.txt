@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:皆成院(宿泊施設併設)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+座禅, 写経体験, 法話, 写経道場, 座禅体験
+cluster1:(23)
+寺院, 中国, 参道, お正月旅行, 訪問, 徳山, 厄払い, 料理, 右手, 御利益, 事, 本堂, 階段, 他, 雨天, 精進料理, 山門, あり沢山, 薬師如来, 途中, 参拝者, 宿泊, 修行
+cluster2:(12)
+輪光院, 徳山三佛寺, 中国五県, 徳山三仏寺, 札所, 観音菩薩, 三佛寺, 文殊菩薩, 国宝投入堂, 霊場, 薬師霊場, 皆成院
+cluster3:(1)
+四十九薬師霊場番札所
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 4
+deleted 0entities.

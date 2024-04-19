@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ナイチンゲールストリート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+方, 感じ
+cluster1:(4)
+南青山, 六本木, レストラン, 日本
+cluster2:(1)
+骨董
+cluster3:(1)
+日赤
+cluster4:(1)
+商店街
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

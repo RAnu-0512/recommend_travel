@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:王子製紙(株)米子工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+新日野橋, 米子市, 鳥取県
+cluster1:(2)
+生産, 生産工場
+cluster2:(2)
+工場見学, 見学
+cluster3:(14)
+紙, 工程, 予約, 所, パルプ, メイン, 製紙, 北海道, 板紙, 苫小牧, 吉岡, 煙突, 王子, 王子製紙
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,63 @@
+--------------------similar_words:サントリー美術館--------------------
+top3 entities near to cluster0>>
+坐像, 立像, 座像
+top3 entities near to cluster1>>
+北斎, 暁斎, 浮世絵
+top3 entities near to cluster3>>
+仏像, 仏画, 国宝
+top3 entities near to cluster4>>
+外国人, 外国, 外人
+top3 entities near to cluster5>>
+子供, 大人, 子ども
+top3 entities near to cluster6>>
+女性人, 女性, 友人
+top3 entities near to cluster7>>
+時代, 学生, 大学生
+top3 entities near to cluster8>>
+休日
+top3 entities near to cluster9>>
+文化, 芸術, 陶器
+top3 entities near to cluster11>>
+洋酒, ブランデー, ウイスキー
+top3 entities near to cluster13>>
+美術館, 博物館, 国立
+top3 entities near to cluster14>>
+ガレリア, ミッドタウン, ミッドタウン・
+top3 entities near to cluster15>>
+イベント, ショップ, コーナー
+top3 entities near to cluster16>>
+アート, ポップ, センス
+top3 entities near to cluster17>>
+支払い, 買い物, 買物
+top3 entities near to cluster18>>
+ランチ, デート, カフェ
+top3 entities near to cluster19>>
+文化財, 天然記念物, 史跡
+top3 entities near to cluster21>>
+建物, 施設, 館内
+top3 entities near to cluster22>>
+観覧, 鑑賞, 開催
+top3 entities near to cluster23>>
+案内, 受付, 予約
+top3 entities near to cluster24>>
+理解, 対応, 指示
+top3 entities near to cluster25>>
+映像, 作品, 写真
+top3 entities near to cluster26>>
+コード, ＱＲ, コードアプリ
+top3 entities near to cluster27>>
+入場券, 入場料, 入場
+top3 entities near to cluster28>>
+展示, 展覧
+top3 entities near to cluster29>>
+展示, 展覧, 出展
+top3 entities near to cluster30>>
+清朝, 皇帝, 清国
+top3 entities near to cluster31>>
+工芸品, 美術品, 工芸, 美術
+top3 entities near to cluster32>>
+美術品, 芸術品, 美術, 芸術
+top3 entities near to cluster33>>
+工芸, 工芸品, ガラス
+top3 entities near to cluster34>>
+美術, 絵画, 芸術

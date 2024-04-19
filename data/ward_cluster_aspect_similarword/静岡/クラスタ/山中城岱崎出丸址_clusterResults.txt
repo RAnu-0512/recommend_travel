@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山中城岱崎出丸址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+西ノ丸, 障子掘り, 障子堀
+cluster1:(5)
+駐車場, 遺構, 岱崎城跡, 城跡, 山中城址
+cluster2:(20)
+こと, テレビ, 山城, 説明書き, スカイウォーク, ワッフル, 城, 人, 随所, 富士宮, 感動, 北条, 国道, 富士山, 素人, 山中, 東海道, 雲, 能登地震, 三島
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野見宿禰神社(東京都墨田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+野見宿禰, 野見宿禰神社
+cluster1:(2)
+相撲, 相撲関係
+cluster2:(2)
+歴代横綱, 横綱
+cluster3:(3)
+石碑, 神社, 境内
+cluster4:(2)
+地上, 神
+cluster5:(5)
+都営地下鉄, 地下鉄, 目, もの, 町
+cluster6:(1)
+A3
+cluster7:(4)
+両国駅, 両国, 北斎美術館, 江戸線
+cluster8:(1)
+信号機
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

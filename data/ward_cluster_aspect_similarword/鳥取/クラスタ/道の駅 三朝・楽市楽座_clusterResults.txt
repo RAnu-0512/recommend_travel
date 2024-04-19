@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 三朝・楽市楽座>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+楽市楽座, 楽市
+cluster1:(2)
+国道沿い, 国道
+cluster2:(20)
+帰り, 地域, 米, 農産物, 感じ, 多く, 駅, 真冬, 土産, 買い物, 価格, 地元, ネーミング, 道, 辺り, 人, 地酒, 人影, MAX, 活気
+cluster3:(2)
+地物, 積雪
+cluster4:(1)
+期待値
+cluster5:(11)
+野菜買う所, 野菜, 土産品, 果物, 三朝温泉, 地元野菜, お土産屋, 地元産, 果樹園, 鳥取県, 梨やりんご
+cluster6:(1)
+獲れたて野菜
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 7
+deleted 0entities.

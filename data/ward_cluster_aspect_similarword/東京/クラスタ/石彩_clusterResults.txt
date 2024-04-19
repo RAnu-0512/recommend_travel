@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石彩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+他, バングル, モチーフ, シート
+cluster1:(2)
+感じ, 模様
+cluster2:(1)
+体験
+cluster3:(1)
+興味
+cluster4:(3)
+浮彫, 銅板打ち出し, 錫
+cluster5:(1)
+転写シート
+cluster6:(1)
+印付け
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

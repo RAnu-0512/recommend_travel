@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤水の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+新静岡⇔梅ヶ島温泉, 梅ヶ島温泉, 梅ヶ島
+cluster1:(2)
+JR静岡駅, 静岡駅
+cluster2:(4)
+紅葉, 秋, 車窓, 景色
+cluster3:(4)
+姿, こと, 感じ, 迫力
+cluster4:(11)
+念願, 帰り, バス停, 写真, 周辺, 人, 時間, 大野木, 花, 安倍川, 近く
+cluster5:(7)
+大滝, 赤水, 草木, 安倍, 草木バス停, 水量, 滝
+cluster6:(5)
+駐車場, バス, 展望台, 路線バス, 路線
+cluster7:(1)
+しずてつジャストライン安倍線
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 6
+deleted 3entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立浅間山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+京王バス, 京王電鉄東
+cluster1:(3)
+季節, 場所, アクセス方法
+cluster2:(3)
+上, 敷地, 外
+cluster3:(9)
+富士山, 山, バス停, 浅間山, 丘, 山頂, 家族, 古戦場, 平地
+cluster4:(1)
+小山
+cluster5:(10)
+浅間神社, 都立浅間山公園, 公園, 浅間山公園, 都立, 改札, 武蔵小金井駅, 南口行き, 府中駅, 浅間山公園停留所
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

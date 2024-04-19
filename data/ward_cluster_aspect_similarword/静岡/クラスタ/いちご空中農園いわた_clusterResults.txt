@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちご空中農園いわた>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+未就学児, GOOD45分終了時間
+cluster1:(43)
+気, ストレス, 駐車場, 団体客, 他, 食べ比べ, 練乳, イチゴ, 苺, ハウス, 時期, 家族, 訪問, タイマー, こと, 値段, 内部, 対応, 受付, 写真, 確率, 予約, 人, いちご, 種類, 時間, 品種, いちご狩り, トラブル, 問題, 感じ, イス, 休日, 子供, トイレ, 旨, 清潔感, 施設, 味, 環境, 金額, 説明, コンクリート
+cluster2:(4)
+空中, きらぴ香, 空中農園, いちご空中農園いわた
+
+howmany entities : 49
+howmany clusters : 3
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 2
+deleted 2entities.

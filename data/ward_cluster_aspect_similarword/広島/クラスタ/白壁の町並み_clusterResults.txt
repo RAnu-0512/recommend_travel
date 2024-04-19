@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白壁の町並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+家々, 文化財, 白壁, 雪, 江戸時代, 風情, 壁, 上下町, タイム, 観光客, 統一感, 寒い時期, 建物, 町並み, 辺り, 教会, 天領, 町, 雰囲気, 並ぶ街, 白壁造り, 銀, 人影, 街, 冬, 中心地, 面影, 上下
+cluster1:(3)
+街道, 銀山街道, 石見銀山
+cluster2:(2)
+埼玉県, 広島県
+cluster3:(2)
+川越市, 府中市
+cluster4:(2)
+JR上下駅, 府中市上下町
+
+howmany entities : 37
+howmany clusters : 5
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,39 @@
+--------------------similar_words:自転車の国 サイクルスポーツセンター--------------------
+top3 entities near to cluster1>>
+アトラクション, イベント, ショップ
+top3 entities near to cluster2>>
+バンク, ガイド, ローダー
+top3 entities near to cluster3>>
+カレー, うどん, カレーライス
+top3 entities near to cluster4>>
+マウンテンバイク, レース, 自転車
+top3 entities near to cluster6>>
+息子, 娘, 親
+top3 entities near to cluster7>>
+子供, 子ども, 小学生
+top3 entities near to cluster8>>
+自転車, 電動, ペダル
+top3 entities near to cluster9>>
+コース, 周遊, フォレストコース
+top3 entities near to cluster10>>
+温泉, 駅, 穴場
+top3 entities near to cluster13>>
+滑り台, すべり台, 遊具
+top3 entities near to cluster14>>
+園内, 遊具, 敷地
+top3 entities near to cluster15>>
+運動, 身体, 競技
+top3 entities near to cluster16>>
+ロード, バイク, レーサー
+top3 entities near to cluster18>>
+サイクル, スポーツ, 乗り物
+top3 entities near to cluster19>>
+自転車, バイク, オートバイ
+top3 entities near to cluster20>>
+平坦, 山岳, 修善寺
+top3 entities near to cluster22>>
+子供, 子ども, 息子
+top3 entities near to cluster23>>
+子供連れ, つれ, 子供
+top3 entities near to cluster25>>
+競技場, 施設, 競技

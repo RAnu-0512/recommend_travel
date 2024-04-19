@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急線 豪徳寺駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+上下線, 豪徳寺駅, 駅, 改札, 東急世田谷線, 商店街, 小田急線, 各駅停車, 乗り換え駅
+cluster1:(3)
+猫像, 銅像, 像
+cluster2:(10)
+カフェ, 豪徳寺, 街, 思い出, ホーム, マンション, 記憶, 待ち合わせ場所, 招き猫, 乗り換え
+cluster3:(1)
+豪徳
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

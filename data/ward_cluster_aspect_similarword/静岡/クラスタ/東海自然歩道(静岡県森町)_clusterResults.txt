@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東海自然歩道(静岡県森町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+往復コース, 車庫, 歩道, 遺跡, バス, 駅, 公園, 弁当, 方面, 道
+cluster1:(19)
+街並み, 背, 心, 初心者, 紹介, 松ノ木, 東屋, コース, 場合, 感じ, 東, 熊, 遊歩道, 雰囲気, トイレ, 拠点, 場所, 中心, 方
+cluster2:(1)
+お勧めコース
+cluster3:(12)
+浜松市, くんま水車の里, 森町, 黒滝, 横山方面, 秋葉ダム, 東海自然, 静岡県西部地区, 自然, 縄文時代, 東海自然歩道, 天竜区
+
+howmany entities : 42
+howmany clusters : 4
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 3
+deleted 1entities.

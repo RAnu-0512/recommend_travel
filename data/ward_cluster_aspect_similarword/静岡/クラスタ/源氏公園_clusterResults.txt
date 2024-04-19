@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:源氏公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+十三市士, 十三士
+cluster1:(13)
+気, 麓, 貫禄, 家, 冥福, 看板, 横, 修善寺, 墓, 公園, 源義経像, 山, 桂川
+cluster2:(2)
+源氏, 源氏公園
+cluster3:(2)
+頼家, 源頼
+cluster4:(1)
+指月殿
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 7entities.

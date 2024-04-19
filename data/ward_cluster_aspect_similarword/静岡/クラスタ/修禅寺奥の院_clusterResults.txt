@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修禅寺奥の院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+温泉場, 修善寺温泉, 温泉街, 湯船集落, 花小道
+cluster1:(26)
+修禅寺, 長女, 奥様, 所, 石段, 空海, 宿泊先, 到着., 修行, 弘法大師, 空気, 修善寺, 娘, 修禅寺奥の院, 山道, 奥, 伊豆高原, 名前, 修業, トイレ, 場所, 西, 旅, 前, 滝, 寺
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 0entities.

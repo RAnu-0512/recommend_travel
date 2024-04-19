@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手仕事屋 久家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+接着剤, 金継ぎ体験, 金継ぎ
+cluster1:(3)
+食器, 磁器, 陶器
+cluster2:(2)
+茶, 急須
+cluster3:(1)
+陶器磁器
+cluster4:(2)
+ひと時, 雰囲気
+cluster5:(6)
+タッパー, おかげ, メール, お気に入り, フレンドリー, ホームセンター
+cluster6:(3)
+コップ, ヤスリ, 陶磁器
+cluster7:(4)
+食事, 東京, 自宅, 時間
+cluster8:(8)
+荷物, 道具, 興味, 体験, 好み, こと, 作業, もの
+cluster9:(1)
+パテ
+cluster10:(2)
+くっ付け, 持ち手
+
+howmany entities : 35
+howmany clusters : 11
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 11
+deleted 0entities.

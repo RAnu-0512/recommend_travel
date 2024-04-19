@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リビングデザインセンターOZONE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新宿駅, 新宿パークタワー
+cluster1:(4)
+確認, 紹介, 相談, 参考
+cluster2:(6)
+ショールーム, 中, リノベーション, コンランショップ, メール, インテリア
+cluster3:(2)
+店, 家具
+cluster4:(1)
+アポ
+cluster5:(2)
+マンション購入業者, 日時連絡どころ
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

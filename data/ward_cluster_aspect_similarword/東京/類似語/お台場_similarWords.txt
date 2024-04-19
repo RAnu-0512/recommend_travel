@@ -1,0 +1,61 @@
+--------------------similar_words:お台場--------------------
+top3 entities near to cluster0>>
+デックス, ローダーデール, ローダデール
+top3 entities near to cluster1>>
+クルーズ, ホタルナ, シンフォニーモデルナ
+top3 entities near to cluster2>>
+テーマパーク, アトラクション, レストラン
+top3 entities near to cluster3>>
+エリア, ショップ, テナント
+top3 entities near to cluster4>>
+雰囲気, イメージ, シーン
+top3 entities near to cluster5>>
+買い物, 買物, 買いもの
+top3 entities near to cluster6>>
+人混み, コミケ, 人込み
+top3 entities near to cluster7>>
+遊び場, 遊び方, 子ども
+top3 entities near to cluster8>>
+テレビ, ドラマ, テレビ局
+top3 entities near to cluster9>>
+ランチ, ディナー, デート
+top3 entities near to cluster10>>
+アイス, 食べ物, アイスクリーム
+top3 entities near to cluster11>>
+サザエ, 海沿い, オバサン
+top3 entities near to cluster12>>
+シティ, モール, カフェ
+top3 entities near to cluster13>>
+バス, 展望, 大橋
+top3 entities near to cluster14>>
+海, 砂浜, 海中
+top3 entities near to cluster15>>
+景色, 景観, 眺め
+top3 entities near to cluster16>>
+夜景, 夕日, 花火
+top3 entities near to cluster17>>
+満開, 天気, 桜
+top3 entities near to cluster18>>
+夜街, 繁華街, 夜, 繁華
+top3 entities near to cluster19>>
+散策, 見学
+top3 entities near to cluster21>>
+目的地, 目的, 手段
+top3 entities near to cluster22>>
+時間, 隙間
+top3 entities near to cluster23>>
+美しい, らし, 素晴らしい
+top3 entities near to cluster24>>
+罪悪感, ドキドキ・ワクワク, 罪悪
+top3 entities near to cluster25>>
+気分, 気持ち, 気持
+top3 entities near to cluster26>>
+海浜, 台場, 公園
+top3 entities near to cluster27>>
+台場, 都, 港
+top3 entities near to cluster28>>
+高層, ビル, ノッポビル
+top3 entities near to cluster29>>
+施設, 飲食, 商業
+top3 entities near to cluster30>>
+公園, 海浜, 臨海

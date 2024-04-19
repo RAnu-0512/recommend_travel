@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:池田の渡し歴史風景館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+道路, 堤防
+cluster1:(3)
+歴史, 河川敷, 天竜川
+cluster2:(1)
+横断
+cluster3:(1)
+池田
+cluster4:(2)
+駐車場, 資料館
+cluster5:(1)
+池田の渡し公園
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 7entities.

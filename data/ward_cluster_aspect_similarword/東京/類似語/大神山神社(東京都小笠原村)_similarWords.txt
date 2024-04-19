@@ -1,0 +1,29 @@
+--------------------similar_words:大神山神社(東京都小笠原村)--------------------
+top3 entities near to cluster0>>
+入港, 丸, 出港
+top3 entities near to cluster1>>
+出港, 出航, 入港
+top3 entities near to cluster2>>
+発着便, 着発, 発着
+top3 entities near to cluster3>>
+展望台, 展望, 鼻戸崎
+top3 entities near to cluster4>>
+愛想, 無礼, 喜捨
+top3 entities near to cluster5>>
+色彩, 朱色
+top3 entities near to cluster6>>
+歴史, 雰囲気, 町並み
+top3 entities near to cluster7>>
+気分, 気持ち, 気持
+top3 entities near to cluster9>>
+時間, 日数, 時
+top3 entities near to cluster11>>
+予想外, 想定外, 予想, 想定
+top3 entities near to cluster12>>
+景色, 散策, 絶景
+top3 entities near to cluster13>>
+高台, 中腹, 海岸
+top3 entities near to cluster14>>
+神社, 境内, 本殿
+top3 entities near to cluster15>>
+17, 14, 11

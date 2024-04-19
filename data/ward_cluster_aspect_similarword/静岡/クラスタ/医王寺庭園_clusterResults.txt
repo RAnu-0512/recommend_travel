@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:医王寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+磐田駅, 磐田市
+cluster1:(4)
+医王寺, 枯山水, 車, 場所
+cluster2:(2)
+寺院, 庭園
+cluster3:(1)
+行基
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

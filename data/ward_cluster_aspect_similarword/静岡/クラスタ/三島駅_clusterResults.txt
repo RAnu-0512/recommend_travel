@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三島駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+伊豆箱根鉄道, カフェ, 新幹線, フリーパス, もの, 店, 笑, コーヒーショップ, 窓口, 秋晴れ, 帰路, 天気, エキナカ
+cluster1:(4)
+旅日和, 駅弁, 土産物屋, 旅
+cluster2:(9)
+駿府城, 三島駅, 富士見路, 駅, JR, 修善寺駅, 東海道線, 沼津駅, 静岡駅
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 0entities.

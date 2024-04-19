@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧森川家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+竹原一, JR竹原駅, 竹原
+cluster1:(2)
+保存地区, 竹原保存地区
+cluster2:(2)
+塩田, 塩田地帯
+cluster3:(8)
+途中, 中, 外, 各地, 始め, 予定, 全国, 場所
+cluster4:(2)
+邸宅, 屋敷
+cluster5:(2)
+家, 庭
+cluster6:(1)
+屋根
+cluster7:(1)
+豪商
+cluster8:(1)
+入館料
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

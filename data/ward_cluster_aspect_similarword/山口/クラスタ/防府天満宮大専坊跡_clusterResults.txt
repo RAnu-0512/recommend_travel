@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:防府天満宮大専坊跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+坊, 社坊
+cluster1:(3)
+幕末, 江戸時代, 明治
+cluster2:(18)
+中, 階段, 印象, 反面, 天満宮, 別当寺, 左手, 場所, 途中, 地方, 万福寺, 管理下, 政府, 経営, 宗教, 上, 変, 歴史
+cluster3:(2)
+本陣, 島又兵衛ゆかり
+cluster4:(4)
+神社, 別当, 宮司, 創建
+cluster5:(4)
+遊撃隊, 参謀本部, 強硬派, 神仏分離
+cluster6:(10)
+酒垂山, 長州藩, 県指定史跡, 大専坊跡, 来島又兵衛, 松崎天満宮, 大専坊, 防府天満宮, 来島, 蛤御門
+cluster7:(1)
+高杉晋作が来島又兵衛
+
+howmany entities : 44
+howmany clusters : 8
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 8
+deleted 0entities.

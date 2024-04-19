@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あれこれ屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+星, 日本, オススメ, 商品, 家族, 新幹線, 評判
+cluster1:(5)
+弁当, 土産, 地酒, 菓子, 酒
+cluster2:(1)
+新富士駅
+cluster3:(1)
+こっこ
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 2entities.

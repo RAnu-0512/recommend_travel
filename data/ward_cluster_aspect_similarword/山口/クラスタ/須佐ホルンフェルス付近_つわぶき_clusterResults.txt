@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須佐ホルンフェルス付近_つわぶき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+断層, 縞模様断層, ホルンフェルス大断層
+cluster1:(2)
+須佐ホルンフェルス, 須佐
+cluster2:(3)
+白黒, 白, 黒
+cluster3:(13)
+多年草, 葉, ツワブキ, 自然, 冬, ストライプ, ホルンフェルス, つや, 緑, 日本海, つわぶき, 花, 植物
+cluster4:(2)
+自生, フキ
+cluster5:(1)
+常緑
+cluster6:(4)
+荒波, 地層, 崖, 断崖
+cluster7:(5)
+姿, もの, こと, 方, 特徴
+cluster8:(2)
+力, 価値
+cluster9:(12)
+次回訪問, 夕方, 車, 道, 途中, 斜め, 目, 下, 海岸, 遊歩道沿い, 到着, 周辺
+cluster10:(5)
+特産品, シーサイドステーションつわぶきの館, つわぶきの館, 館, 駐車場
+cluster11:(1)
+力強さと美しさ
+cluster12:(1)
+山口県萩市須佐
+
+howmany entities : 54
+howmany clusters : 13
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 13
+deleted 0entities.

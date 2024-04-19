@@ -1,0 +1,15 @@
+--------------------similar_words:本所松坂町公園--------------------
+top3 entities near to cluster0>>
+逸話, 地元, 記憶
+top3 entities near to cluster1>>
+座像, 立像
+top3 entities near to cluster2>>
+跡, 遺構, 跡地
+top3 entities near to cluster3>>
+井戸, 公園
+top3 entities near to cluster4>>
+壁, なまこ, 壁面
+top3 entities near to cluster5>>
+首, 供養碑, 供養
+top3 entities near to cluster6>>
+吉良, 吉, 義央

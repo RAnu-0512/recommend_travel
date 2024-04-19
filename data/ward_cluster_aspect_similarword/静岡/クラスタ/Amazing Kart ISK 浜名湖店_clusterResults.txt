@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Amazing Kart ISK 浜名湖店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レーサー, レーシングカート
+cluster1:(1)
+エンジン
+cluster2:(1)
+カート
+cluster3:(1)
+もの
+cluster4:(1)
+気分
+cluster5:(1)
+運転
+cluster6:(1)
+F1
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

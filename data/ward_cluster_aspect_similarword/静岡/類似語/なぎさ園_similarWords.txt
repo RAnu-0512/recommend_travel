@@ -1,0 +1,15 @@
+--------------------similar_words:なぎさ園--------------------
+top3 entities near to cluster0>>
+渋滞, 駐車, 事故
+top3 entities near to cluster2>>
+時間, 受付分, 受付
+top3 entities near to cluster3>>
+いちご園, いちご, イチゴ
+top3 entities near to cluster4>>
+赤, 茶, 縁
+top3 entities near to cluster5>>
+予定, 事前, 余裕
+top3 entities near to cluster6>>
+気持ち, 気持, オーナー
+top3 entities near to cluster7>>
+ハウス, いちご, イチゴ

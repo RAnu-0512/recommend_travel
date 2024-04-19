@@ -1,0 +1,35 @@
+--------------------similar_words:高原の湯--------------------
+top3 entities near to cluster0>>
+泥, 堕無, まみれる
+top3 entities near to cluster1>>
+土産, おみやげ, 雑貨
+top3 entities near to cluster3>>
+悪さ, タチ, 占有
+top3 entities near to cluster8>>
+露天風呂, 内風呂, 内湯
+top3 entities near to cluster9>>
+マナー, 口コミ, スマホ
+top3 entities near to cluster10>>
+ポーチ, 仕切り, パック
+top3 entities near to cluster11>>
+入り口, 雰囲気, 帰り際
+top3 entities near to cluster14>>
+カピバラ, ハンモック, マッサージ
+top3 entities near to cluster22>>
+身体, 足
+top3 entities near to cluster23>>
+消毒, 洗濯
+top3 entities near to cluster24>>
+女性人, 男性人, 女性, 男性
+top3 entities near to cluster28>>
+施設, 駅, 内容
+top3 entities near to cluster33>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster34>>
+休憩室, 休憩, 所内
+top3 entities near to cluster35>>
+席取り, 席, 座席
+top3 entities near to cluster36>>
+風呂, 湯船, 浴槽
+top3 entities near to cluster40>>
+常連, お客, 上客

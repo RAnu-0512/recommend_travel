@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:風越窯陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+思い出, じゃらん, 感じ, 写真, 差額, 男性, 先生, 初心者, 物, 器
+cluster1:(4)
+期間限定ポイント, 陶芸体験, 現地払い, 福山旅行
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

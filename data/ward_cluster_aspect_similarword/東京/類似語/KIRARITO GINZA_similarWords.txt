@@ -1,0 +1,39 @@
+--------------------similar_words:KIRARITO GINZA--------------------
+top3 entities near to cluster0>>
+女性, 俺, 男性
+top3 entities near to cluster1>>
+ガラス, 入れ物, 容器
+top3 entities near to cluster2>>
+お洒落, オシャレ, おしゃれ
+top3 entities near to cluster3>>
+イタリアン, レストラン, パンケーキ
+top3 entities near to cluster4>>
+光る, キラッ, きらり
+top3 entities near to cluster5>>
+ショップ, カフェ, レストラン
+top3 entities near to cluster6>>
+ビル, 高層, 建物
+top3 entities near to cluster8>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster9>>
+混雑, 長蛇, 穴場
+top3 entities near to cluster10>>
+横, 入口, 入り口
+top3 entities near to cluster11>>
+対応, 利用, 使用
+top3 entities near to cluster12>>
+時間, 日数, 時
+top3 entities near to cluster13>>
+人気, 話題, 大人気
+top3 entities near to cluster15>>
+印象, イメージ, 雰囲気
+top3 entities near to cluster16>>
+また上, 階下
+top3 entities near to cluster17>>
+外観, 建物
+top3 entities near to cluster18>>
+バブル期, 最盛期, バブル, 最盛
+top3 entities near to cluster19>>
+存在感, 存在, 否め
+top3 entities near to cluster20>>
+駅前, 中央, 丁目

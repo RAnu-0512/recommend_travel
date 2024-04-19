@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弘道寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+こじんまり, 椅子, ハリス, 曹洞宗, 中, 聖観音
+cluster1:(3)
+江戸, 歴史, 伝統
+cluster2:(5)
+表札, 本堂, 門前, 本尊, 寺
+cluster3:(1)
+調度品
+cluster4:(1)
+下田領事
+cluster5:(1)
+亜米理賀使節泊
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 3entities.

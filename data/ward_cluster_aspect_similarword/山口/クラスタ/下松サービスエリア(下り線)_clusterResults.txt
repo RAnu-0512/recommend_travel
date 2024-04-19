@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下松サービスエリア(下り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+部類, もの, カフェ, 電子マネー, ウエスタン調, コイ, 大阪, 造り, エリア, 車, お好み焼き, 山口, レストラン, 山陽自動車道, サービス, SA, 屋台, フードコート, キーコーヒー, 雰囲気, トイレ, サービスエリア, 屋外, 違和感, 広島, ウエスタン
+cluster1:(6)
+土産もの, お好み鯉, 土産コーナー, 土産, 駐車場, お土産物
+cluster2:(5)
+鯛焼き, 竹輪パン, 牛骨ラーメン, 焼き, パン屋
+
+howmany entities : 37
+howmany clusters : 3
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清見寺の臥龍梅(静岡県)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本堂, 境内, 寺
+cluster1:(2)
+地酒, 酒
+cluster2:(2)
+梅, 花
+cluster3:(2)
+幼少, 木
+cluster4:(7)
+伝え, 歌, 見ごたえ, 歴史, 女史, 近く, 三国志
+cluster5:(1)
+見ごろ
+cluster6:(1)
+与謝野晶子
+cluster7:(6)
+家康公来遊, 臥龍梅, 諸葛孔明, 家康, 徳川家康, 清見関
+cluster8:(1)
+想って読んだ句碑
+
+howmany entities : 25
+howmany clusters : 9
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 9entities.

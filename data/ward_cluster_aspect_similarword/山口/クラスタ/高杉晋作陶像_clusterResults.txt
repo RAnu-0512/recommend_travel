@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高杉晋作陶像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+幕末, 桜, 萩
+cluster1:(2)
+高杉, 晋作
+cluster2:(5)
+主役, 機, 挙兵, 観光スポット, 名所
+cluster3:(3)
+長州藩, 奇兵隊, 最強軍団
+cluster4:(1)
+長府功山寺
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

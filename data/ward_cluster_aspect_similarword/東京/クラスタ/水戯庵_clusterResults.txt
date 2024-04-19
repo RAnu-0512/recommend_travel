@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水戯庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+文化, 舞踊, 歴史
+cluster1:(20)
+場所, おもてなし, シドニー, 日本橋, 人, BAR, 夫婦, 話題, ディナー, 夕食, 酒, レストラン, パンフレット, 時間, 足, 日本, 上質, コース, カクテル, 訪問
+cluster2:(3)
+江戸, 銀座, バー
+cluster3:(1)
+食器
+cluster4:(1)
+記念日
+cluster5:(5)
+懐石コース, 会席, 伝統芸能, 日本情緒, 能舞台
+cluster6:(1)
+異次元空間
+
+howmany entities : 34
+howmany clusters : 7
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 7
+deleted 0entities.

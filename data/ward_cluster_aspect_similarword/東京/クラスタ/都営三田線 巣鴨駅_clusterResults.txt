@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営三田線 巣鴨駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+華族, 大名, 分家, 小名家
+cluster1:(7)
+三田線, 巣鴨駅, 都営, 地下鉄, 時間, 徒歩, 墓等
+cluster2:(1)
+水戸徳川
+cluster3:(1)
+染井霊園管理事務所
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

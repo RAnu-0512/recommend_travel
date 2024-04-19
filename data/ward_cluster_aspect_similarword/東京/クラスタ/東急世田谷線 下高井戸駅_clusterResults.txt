@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急世田谷線 下高井戸駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, 高井戸駅
+cluster1:(2)
+街並み, 京王線
+cluster2:(1)
+終点
+cluster3:(1)
+正
+cluster4:(1)
+世田谷区
+cluster5:(1)
+東急世田谷線
+cluster6:(1)
+下町風情
+cluster7:(1)
+路面電車風
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 8
+deleted 0entities.

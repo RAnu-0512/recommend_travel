@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市国民宿舎湯来ロッジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+野菜, テラス席, 朝食バイキング, 料理, 肉, ご飯, 食事, つい肉
+cluster1:(6)
+最後, 別, 方, 次, 人, 両親
+cluster2:(2)
+手ぶらBBQ, 手ぶら
+cluster3:(2)
+サラダ, 自家製ドレッシング
+cluster4:(2)
+テラス, BBQ
+cluster5:(9)
+フロント, ボリューム, キャンセル, ひととき, バリアフリー, バーベキュー, スタッフ, 支払い, バイキング
+cluster6:(1)
+フリースペース
+cluster7:(1)
+高齢
+cluster8:(9)
+そば, 雨, 蛍, 宿, 温泉, 休日, 川, 台風, 自然
+cluster9:(3)
+キャンセル料, 全額, 料金
+cluster10:(14)
+案内, 対応, 規定, 利用, 気, 誤解, 感じ, 量, 情報, 心配, 予定, 時間, 不幸, 内容
+cluster11:(1)
+近場
+cluster12:(1)
+湯来ロッジ
+
+howmany entities : 59
+howmany clusters : 13
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 13
+deleted 0entities.

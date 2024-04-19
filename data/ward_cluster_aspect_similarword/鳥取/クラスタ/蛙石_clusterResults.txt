@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蛙石>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+所, こと, 場所
+cluster1:(4)
+カエル, シルエット, 名前, 中
+cluster2:(1)
+岩
+cluster3:(1)
+蛙石
+cluster4:(1)
+私部城跡
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

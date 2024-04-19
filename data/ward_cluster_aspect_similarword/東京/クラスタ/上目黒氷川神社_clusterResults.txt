@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上目黒氷川神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浅間神社, 目黒富士浅間神社
+cluster1:(4)
+石階段, 登山道, 上り階段, 階段
+cluster2:(3)
+目黒氷川神社, 渋谷, 大橋ジャンクション
+cluster3:(14)
+所, 氷川神社, 別, 池尻大橋, 近く, 交番, 全国, ココ, 趣, 参拝, 参道, 中, 境内, 横
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

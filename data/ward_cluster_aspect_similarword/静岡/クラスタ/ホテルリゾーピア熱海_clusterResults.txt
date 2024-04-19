@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルリゾーピア熱海>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+旅行, 食事, 部屋, 浴場, 風呂
+cluster1:(12)
+ムーンロード, フロント, スタッフ, 光, 熱海, ホテル, 朝, 太平洋, 気持ち, 海, オーシャンビュー, オーシャン
+cluster2:(7)
+気配り目配り, こと, 対応, 接客, もの, 眺め, 景色
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 0entities.

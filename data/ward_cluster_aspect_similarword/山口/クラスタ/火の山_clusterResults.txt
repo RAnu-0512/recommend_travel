@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:火の山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山展望台, 展望台, 回転展望台
+cluster1:(3)
+展望室, 展望公園, 展望所
+cluster2:(2)
+関門トンネル人道, 関門橋
+cluster3:(5)
+九州, 下関要塞, 門司, 戦艦大和, 下関
+cluster4:(7)
+山頂, 公園, 登山コース, 麓, 山ロープーウェイ, 山公園, 山
+cluster5:(3)
+景色, 夜景, 絶景
+cluster6:(2)
+対岸, 眼下
+cluster7:(2)
+姿, 眺め
+cluster8:(2)
+火, 都
+cluster9:(3)
+側, 付近, 敵
+cluster10:(4)
+関門海峡, チューリップ, ロープウェイ, 太平洋戦争
+cluster11:(2)
+ほか, 人
+cluster12:(2)
+前, 昔
+cluster13:(1)
+場所
+cluster14:(1)
+戦前
+cluster15:(1)
+襲来
+cluster16:(12)
+広場, 橋, 灯台, ロープウェイ乗り場, 車, 虫, 海峡, 船, 桜, 宿, 砲弾, 観光
+cluster17:(5)
+砲台, 狼煙台, 山山頂, 砲台跡地, 駐車場
+
+howmany entities : 60
+howmany clusters : 18
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 18
+deleted 0entities.

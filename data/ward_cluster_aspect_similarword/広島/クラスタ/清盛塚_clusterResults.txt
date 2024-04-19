@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清盛塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+清盛塚, 塚
+cluster1:(2)
+平清盛, 清盛
+cluster2:(4)
+大橋, 海, 港, 石垣
+cluster3:(2)
+瀬戸, 朱
+cluster4:(1)
+紺碧
+cluster5:(1)
+呉市
+cluster6:(3)
+建物, 景色, 道路
+cluster7:(5)
+そば, もの, たもと, 雰囲気, 場所
+cluster8:(3)
+歴史, 時代, 価値
+cluster9:(3)
+石碑, 石柱, 供養
+cluster10:(2)
+難工事, 存在感
+cluster11:(1)
+艱難辛
+cluster12:(4)
+音戸, 音戸大橋, 音戸町, ───O
+
+howmany entities : 33
+howmany clusters : 13
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 13
+deleted 0entities.

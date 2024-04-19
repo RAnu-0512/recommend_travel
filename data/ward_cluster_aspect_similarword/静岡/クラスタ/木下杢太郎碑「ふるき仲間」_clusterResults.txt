@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木下杢太郎碑「ふるき仲間」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伊東市, 伊東公園, 伊東駅
+cluster1:(2)
+碑, 石碑
+cluster2:(5)
+解釈, 人々, 懐かしさ, 上, 方
+cluster3:(2)
+人生, 詩
+cluster4:(1)
+木下杢太郎
+cluster5:(1)
+満足感
+cluster6:(1)
+入日雲
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 7entities.

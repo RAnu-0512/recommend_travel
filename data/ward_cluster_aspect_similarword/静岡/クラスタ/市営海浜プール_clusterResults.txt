@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:市営海浜プール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊東駅, 伊東
+cluster1:(2)
+陽気, 天気
+cluster2:(2)
+風, 中ポカポカ
+cluster3:(3)
+プール, 屋外, 海
+cluster4:(2)
+JR, 料金
+cluster5:(1)
+市営プール
+cluster6:(1)
+海岸線
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 10entities.

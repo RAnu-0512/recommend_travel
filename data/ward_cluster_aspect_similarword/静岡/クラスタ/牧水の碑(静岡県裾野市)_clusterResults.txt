@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牧水の碑(静岡県裾野市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+牧水, 若山牧水
+cluster1:(4)
+JR富士駅, 裾野駅, 裾野市, 沼津駅
+cluster2:(14)
+御殿場線, 五竜, ホテル, 身延線, 目的, 富士山, 太鼓橋, 歌碑, 公園, 碑, 場所, 中央公園, 東海道線, 滝
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 2entities.

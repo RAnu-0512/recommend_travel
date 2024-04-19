@@ -1,0 +1,21 @@
+--------------------similar_words:熱海港海釣り施設--------------------
+top3 entities near to cluster0>>
+魚釣り, 釣り場
+top3 entities near to cluster2>>
+魚釣り, 釣り場, 釣り竿
+top3 entities near to cluster3>>
+大きめ, 真ん中, 大き目
+top3 entities near to cluster12>>
+子連れ, 手ぶら, 初心者
+top3 entities near to cluster16>>
+受付, 返答, 返事
+top3 entities near to cluster20>>
+道具, 施設, 用具
+top3 entities near to cluster22>>
+日分, 徒歩, 日
+top3 entities near to cluster26>>
+エサ, 餌, 釣果
+top3 entities near to cluster27>>
+堤防, 柵, ヒザ
+top3 entities near to cluster28>>
+潮, 海風, 海

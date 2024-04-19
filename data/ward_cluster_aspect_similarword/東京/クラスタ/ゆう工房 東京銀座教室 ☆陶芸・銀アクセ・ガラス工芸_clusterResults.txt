@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆう工房 東京銀座教室 ☆陶芸・銀アクセ・ガラス工芸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+工数, 工程, 作業
+cluster1:(2)
+押し, 焼き上がり
+cluster2:(2)
+気分, 転換
+cluster3:(2)
+完成, 満足
+cluster4:(6)
+形, 機会, 方, こと, 物, もの
+cluster5:(2)
+予約, 人数
+cluster6:(5)
+手, 勝手, 時間, 次, 世界
+cluster7:(9)
+初心者, スタッフ, 作り方, あがり, 笑, 姉さん, バングル, 雰囲気, 説明
+cluster8:(2)
+作品, 絵
+cluster9:(3)
+娘, 友達, 先生
+cluster10:(8)
+ゆう工房, 陶芸, 違う器, 工房, ネコちゃん, 染料, 器, 教室
+cluster11:(10)
+ロクロ陶芸体験, 陶芸体験, 照明体験, 陶芸初体験, 東京銀座教室 陶芸手び, 体験, ロクロ体験, 製作体験, ねり体験, 作品作り
+
+howmany entities : 54
+howmany clusters : 12
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 12
+deleted 0entities.

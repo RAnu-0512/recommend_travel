@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿弥陀寺仁王門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+入り口, 中, 事, 仁王門, 阿弥陀寺, 形, 緑, 多く, 建築, 庭園, 境内, 本堂
+cluster1:(2)
+山口県, 周防阿弥陀寺
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

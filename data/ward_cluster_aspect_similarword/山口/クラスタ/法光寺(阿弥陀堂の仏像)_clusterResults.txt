@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法光寺(阿弥陀堂の仏像)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+住職, 仏像, 境内, 古寺
+cluster1:(8)
+スイッチ, 奈良, スピーカー, 東大寺, 説明, 拝見, ヒノキ, 音
+cluster2:(1)
+徳地
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸ノ内線 新宿駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+JR新宿駅, 西武新宿駅, JR・京王・小田急
+cluster1:(18)
+雨, 場所, 地下道, 人, 都営地下鉄, 通路, 小田急, トイレ, 社会, 口, 案内, 西新宿, 地下, 小田急電鉄, 天井, 出口, 乗り換え, 京王線
+cluster2:(4)
+何か, 距離, 路線, 態度
+cluster3:(1)
+目的地
+cluster4:(13)
+駅員, 地上階, 新宿駅, 東京メトロ丸ノ内線, 西口, 駅, 改札, 丸の内線, 東口, 小田急線, 東京メトロ, 新宿, 西新宿駅
+
+howmany entities : 39
+howmany clusters : 5
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 5
+deleted 0entities.

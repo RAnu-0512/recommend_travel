@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉木文之進旧宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松陰, 吉田松陰
+cluster1:(4)
+松陰神社, 人, 手入れ, 場所
+cluster2:(2)
+地, 発祥
+cluster3:(1)
+設立者
+cluster4:(1)
+玉木文之進
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

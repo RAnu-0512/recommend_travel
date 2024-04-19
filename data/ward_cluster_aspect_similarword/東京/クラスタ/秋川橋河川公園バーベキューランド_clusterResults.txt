@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋川橋河川公園バーベキューランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 子供達
+cluster1:(22)
+パラソル, 場所, 荷物, 景色, 難点, レンタル, 人, 気持ち, BBQ, 近く, 河川敷, 日帰り, 機会, テント, 前, 中, こと, 空気, 持ち込み, コンロ, 目, バーベキュー
+cluster2:(12)
+水, 公園, 釣り, あきる野市, 河原, 駅, 川, 車, バーベキュー場, 炭, 網, 魚
+cluster3:(2)
+秋川渓谷, 武蔵五日市駅
+
+howmany entities : 38
+howmany clusters : 4
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 4
+deleted 0entities.

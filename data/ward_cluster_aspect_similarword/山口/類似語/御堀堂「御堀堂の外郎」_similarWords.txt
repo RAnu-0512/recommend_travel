@@ -1,0 +1,23 @@
+--------------------similar_words:御堀堂「御堀堂の外郎」--------------------
+top3 entities near to cluster0>>
+堀, 垣内
+top3 entities near to cluster2>>
+外郎, 和菓子, 羊羹
+top3 entities near to cluster3>>
+モチ, モッチリ
+top3 entities near to cluster5>>
+商店街, 商店, 家族
+top3 entities near to cluster6>>
+包装紙, 包装, 真空
+top3 entities near to cluster7>>
+抹茶, 黒糖, 羊羹
+top3 entities near to cluster8>>
+土産, 菓子, 銘菓
+top3 entities near to cluster9>>
+甘み, 甘味, 酸味
+top3 entities near to cluster10>>
+香り, 風味
+top3 entities near to cluster12>>
+玩系
+top3 entities near to cluster13>>
+賞味, 期限, 期限切れ

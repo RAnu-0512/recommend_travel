@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古熊神社拝殿・本殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+楼門, 拝殿
+cluster1:(1)
+建物
+cluster2:(1)
+最古
+cluster3:(1)
+建築様式
+cluster4:(1)
+本殿拝殿
+cluster5:(1)
+楼拝建築
+cluster6:(1)
+山口県
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

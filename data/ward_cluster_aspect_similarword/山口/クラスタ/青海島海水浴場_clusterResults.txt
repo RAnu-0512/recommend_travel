@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青海島海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海水浴場, キャンプ場, 駐車場
+cluster1:(7)
+入り口, ダイバー, ダイビングスポット, 車, 場所, 人, 青海島
+cluster2:(2)
+水, 海
+cluster3:(1)
+橋
+cluster4:(1)
+姿
+cluster5:(5)
+海水浴客, 仙崎, 海岸, 海岸横, 研究路
+cluster6:(1)
+透明度
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

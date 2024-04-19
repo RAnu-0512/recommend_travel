@@ -1,0 +1,9 @@
+--------------------similar_words:板井原集落--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 満車
+top3 entities near to cluster1>>
+山道, 細道, 車道
+top3 entities near to cluster2>>
+集落, 村落, 民家
+top3 entities near to cluster3>>
+県道, 国道, 旧道

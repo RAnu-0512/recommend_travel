@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和田浜海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+トイレ, 子供, 富士山
+cluster1:(2)
+付近, 公園
+cluster2:(1)
+道
+cluster3:(1)
+魚
+cluster4:(1)
+ディスカバリーパーク焼津
+cluster5:(1)
+大物釣り
+cluster6:(1)
+和田浜海岸
+
+howmany entities : 10
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 7entities.

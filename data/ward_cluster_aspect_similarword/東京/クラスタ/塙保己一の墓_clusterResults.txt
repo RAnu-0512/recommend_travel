@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:塙保己一の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+塙保己, 愛染院
+cluster1:(2)
+国学, 国学者
+cluster2:(5)
+墓地, 墓所, 墓, 寺, 廃寺
+cluster3:(3)
+医学, 法律, 明治
+cluster4:(12)
+相当, 場所, 何か, 四ツ谷, 努力, 事, 功績, 入り口, 機会, 方, こと, 多数
+cluster5:(1)
+説明書き
+cluster6:(1)
+記憶力
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 7
+deleted 0entities.

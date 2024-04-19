@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸田パーキングエリア(上り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+四国・愛媛, しまなみ海道, レモンポーク丼, 岩城産レモンポーク
+cluster1:(3)
+特産品レモン, 土産, 土産品
+cluster2:(4)
+休憩, 行列, 時間, 売店
+cluster3:(4)
+橋, 海, 塩, 景色
+cluster4:(14)
+レモン関連, レモンラーメン, 我が家, フードコート, 商品, ラーメン, 瀬戸内海, パーキングエリア, 地元, ポイント, レモン, 側, 食事, レストラン
+cluster5:(1)
+絶好
+cluster6:(1)
+美しさ
+cluster7:(12)
+広島, PAエリア, 生口島, 伯方, 多々羅大橋, 瀬戸田レモンラーメン, PA, 瀬戸田PA, 四国, ちゅう, 瀬戸田レモン, 瀬戸田
+
+howmany entities : 43
+howmany clusters : 8
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 8
+deleted 0entities.

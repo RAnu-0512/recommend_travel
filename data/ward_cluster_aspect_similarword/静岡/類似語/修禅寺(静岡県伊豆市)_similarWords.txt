@@ -1,0 +1,47 @@
+--------------------similar_words:修禅寺(静岡県伊豆市)--------------------
+top3 entities near to cluster0>>
+お参り, 御参り, 御朱印
+top3 entities near to cluster4>>
+雰囲気, 佇まい, たたずまい
+top3 entities near to cluster5>>
+手すり, トイレ, バス停
+top3 entities near to cluster7>>
+弘法大師, 源頼朝
+top3 entities near to cluster8>>
+真ん中, 入り口, 端っこ
+top3 entities near to cluster11>>
+ドラマ, イベント, 映画
+top3 entities near to cluster13>>
+本物, ホンモノ, ヤギ
+top3 entities near to cluster14>>
+修繕, 修復, 補修
+top3 entities near to cluster15>>
+家族, 両親, 宿泊
+top3 entities near to cluster16>>
+時間, 音量, 分間
+top3 entities near to cluster19>>
+足口, 足手, 足
+top3 entities near to cluster22>>
+建物, 車両
+top3 entities near to cluster24>>
+歴史, 風情, 中心
+top3 entities near to cluster26>>
+経緯, 過程, 事例
+top3 entities near to cluster27>>
+変化, 価値, 想像
+top3 entities near to cluster34>>
+旅館, 宿, 温泉
+top3 entities near to cluster38>>
+公園, 庭園, 遊歩道
+top3 entities near to cluster39>>
+桜, 紅葉, 梅
+top3 entities near to cluster43>>
+土産, 蕎麦, おみやげ
+top3 entities near to cluster44>>
+参拝, 参詣, お参り
+top3 entities near to cluster45>>
+寺, 本堂, お寺
+top3 entities near to cluster46>>
+禅, 寺, 神社
+top3 entities near to cluster47>>
+温泉, 旅館, 宿

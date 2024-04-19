@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線・東西線 茅場町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅, 改札, 茅場町駅
+cluster1:(3)
+雰囲気, 乗り換え, ホーム
+cluster2:(2)
+日比谷線, 東西線
+cluster3:(1)
+気
+cluster4:(1)
+移動
+cluster5:(1)
+通勤
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

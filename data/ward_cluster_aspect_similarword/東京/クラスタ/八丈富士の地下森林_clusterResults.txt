@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丈富士の地下森林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+八丈冨士, 八丈富士
+cluster1:(4)
+崖, 森, 森林, 木々
+cluster2:(2)
+方, 感じ
+cluster3:(3)
+中, ジャングル, 噴火口
+cluster4:(1)
+内側
+cluster5:(1)
+火口
+cluster6:(1)
+登山道
+cluster7:(1)
+御鉢参り
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 8
+deleted 0entities.

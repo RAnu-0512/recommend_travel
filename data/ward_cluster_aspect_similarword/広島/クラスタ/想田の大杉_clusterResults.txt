@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:想田の大杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+参道, 入り口
+cluster1:(2)
+大木, 大杉
+cluster2:(1)
+門杉
+cluster3:(1)
+熊野神社
+cluster4:(1)
+想田
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

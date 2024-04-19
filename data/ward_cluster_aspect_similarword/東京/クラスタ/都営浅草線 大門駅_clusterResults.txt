@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営浅草線 大門駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+JR 浜松町駅, 乗り換え駅, 大門駅, 駅, 駅同士, 乗換駅, 浜松町駅
+cluster1:(24)
+手段, 東京モノレール, 東京, 都営地下鉄, 地下鉄路線, 乗り換え口, 浅草線, ホーム, 中継地点, 東京タワー, 増上寺, 旅行者, 銀座, 地下, 印象, 地下鉄, 江戸線, 方面, 羽田, 選択, コンクリート, 乗り継ぎ, 都営, 乗り換え
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 2
+deleted 0entities.

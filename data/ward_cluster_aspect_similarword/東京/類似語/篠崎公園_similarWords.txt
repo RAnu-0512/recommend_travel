@@ -1,0 +1,13 @@
+--------------------similar_words:篠崎公園--------------------
+top3 entities near to cluster1>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster2>>
+季節, 祭り, 花見
+top3 entities near to cluster3>>
+駅, 会場, 周辺
+top3 entities near to cluster4>>
+子供, 子ども, 家族
+top3 entities near to cluster5>>
+人達, 大勢, テニス
+top3 entities near to cluster6>>
+公園, 河川敷, 広場

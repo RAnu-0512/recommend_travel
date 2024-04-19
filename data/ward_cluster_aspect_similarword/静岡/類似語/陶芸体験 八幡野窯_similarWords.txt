@@ -1,0 +1,25 @@
+--------------------similar_words:陶芸体験 八幡野窯--------------------
+top3 entities near to cluster0>>
+時間, 時分, 時
+top3 entities near to cluster3>>
+開始, 対応, 作成
+top3 entities near to cluster5>>
+旅, 旅先, 新婚
+top3 entities near to cluster6>>
+愛犬, 飼い犬
+top3 entities near to cluster7>>
+飼い犬, ペット, 飼い主
+top3 entities near to cluster10>>
+サイト, ネット, インターネット
+top3 entities near to cluster12>>
+スタッフ, サービス, グループ
+top3 entities near to cluster13>>
+サンプル, デザイン, パンフレット
+top3 entities near to cluster19>>
+使い方, やり方, 作り方
+top3 entities near to cluster20>>
+品物
+top3 entities near to cluster21>>
+足手, 足, 手先
+top3 entities near to cluster22>>
+体験, 体験談, 講習

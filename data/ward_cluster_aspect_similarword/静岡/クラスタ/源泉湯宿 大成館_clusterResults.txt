@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:源泉湯宿 大成館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+目, 周り, サプライズ, 初代, 支配人, 普通, タンス, もてなし, ノック, 娘, ケーキ, 心意気, 時間, 露天風呂, バースデーサプライズ, チェックイン, カーテン, 雰囲気, 場所, 前, 他
+cluster1:(9)
+車, 心, 窓, 駅, 鍵, 海, 道路, 部屋, 空吹き抜け
+cluster2:(4)
+温泉, 旅館, 露天, 中居
+cluster3:(6)
+料理, 別室, 食事, 布団, 風呂, 夕食
+cluster4:(4)
+料金, 接客, 予約, 説明
+cluster5:(1)
+食事処
+cluster6:(1)
+布団しまい
+
+howmany entities : 46
+howmany clusters : 7
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 5
+deleted 2entities.

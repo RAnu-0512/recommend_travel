@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:めぐろ区民キャンパス公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 散策
+cluster1:(3)
+中, 都会, 行き帰り
+cluster2:(2)
+区民キャンパス, 目黒区
+cluster3:(1)
+都立大学駅
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

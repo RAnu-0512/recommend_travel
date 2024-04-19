@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:独立行政法人造幣局広島支局>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+貨幣, 記念硬貨, 貨幣セット, 硬貨
+cluster1:(2)
+購入, 予約
+cluster2:(2)
+展示, 公開
+cluster3:(1)
+時間つぶし
+cluster4:(2)
+土産, 構内
+cluster5:(3)
+桜, 花, 孫
+cluster6:(11)
+過程, 日本, 造幣局, 種類, コイン, 人, イベント, 多く, 雰囲気, 全国, 想像
+cluster7:(1)
+まわりみち
+cluster8:(1)
+勲章
+cluster9:(3)
+工場見学, 見物客, 展示室
+
+howmany entities : 30
+howmany clusters : 10
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須山浅間神社社叢>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+参道, 鳥居, 神社, 境内
+cluster1:(6)
+雰囲気, 大杉, 深閑さ, 杉, 側, 川辺
+cluster2:(1)
+根廻り
+cluster3:(1)
+樹高
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

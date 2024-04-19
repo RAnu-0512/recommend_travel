@@ -1,0 +1,11 @@
+--------------------similar_words:ふくやま文学館--------------------
+top3 entities near to cluster0>>
+鱒二, 井伏, オキエ
+top3 entities near to cluster2>>
+展示, 資料, 収蔵
+top3 entities near to cluster3>>
+入館, 入場, 拝観
+top3 entities near to cluster4>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster5>>
+休館, 日, 閉館

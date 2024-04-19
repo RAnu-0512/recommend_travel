@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高木神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高木神社, 高木
+cluster1:(3)
+絵馬, 神社, 境内
+cluster2:(2)
+人間関係, からかい上手
+cluster3:(4)
+アニメファン, 声優, 放送, テレビアニメ
+cluster4:(4)
+御朱印, スタッフ, コラボグッズ, 販売
+cluster5:(2)
+駅, 自宅
+cluster6:(1)
+授与
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 7
+deleted 0entities.

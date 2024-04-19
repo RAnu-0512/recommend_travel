@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:細江公園展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+軍, 街並み, 戦闘, 周辺, 戦い, 付近, 景色, 公園, 高台, 軍勢, 天気
+cluster1:(7)
+浜名湖, 都田川, 田川, 奥浜名湖, 河口, 気賀, 関所
+cluster2:(2)
+展望台, 細江公園
+cluster3:(4)
+東海道のバイパス本坂通り, 武田信玄, 三方ヶ原, 徳川・織田
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 2entities.

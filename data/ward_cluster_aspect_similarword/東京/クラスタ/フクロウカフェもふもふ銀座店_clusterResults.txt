@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フクロウカフェもふもふ銀座店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+初体験, 体験
+cluster1:(3)
+肩, 膝, 腕
+cluster2:(3)
+毛, 新年, 銀座
+cluster3:(4)
+空間, 至福, 視線, 個性
+cluster4:(12)
+スタッフ, こだわり, テンション, 話, ギャップ, フクロウ, 頭, 母, 息子, 時間, 写真, ビビリ
+cluster5:(2)
+素晴らしさ, 成功
+cluster6:(1)
+あまがみ
+cluster7:(1)
+空間&愛情タップリ
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 8
+deleted 0entities.

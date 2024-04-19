@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高草山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+静岡県, 静岡市, 焼津市, 藤枝市
+cluster1:(4)
+夜景, 車窓夜景, 景観, 景色
+cluster2:(6)
+標高, 中腹, 花沢コース, 山頂, 頂上, 山
+cluster3:(27)
+車, 気, ハイキングコース, 境界, 販売, ロマンティック, 途中, 箇所, 高草山, 地元, 祭り, 価値, ベンチ, 街灯, 神祭り, 写真, 形, 公園, 夏場, スポット, 場所, 木製, 行き交う車, 方面, 方, 道, ビューポイント
+cluster4:(1)
+(o
+cluster5:(2)
+駐車場, 開放感
+
+howmany entities : 44
+howmany clusters : 6
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 4
+deleted 3entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:京王井の頭線 永福町駅--------------------
+top3 entities near to cluster0>>
+駅, 構内, 各駅
+top3 entities near to cluster1>>
+唯一, ほか, 以下
+top3 entities near to cluster2>>
+急行, 電車, 列車
+top3 entities near to cluster3>>
+京王, 井の頭線, 京王線

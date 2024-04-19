@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊藤博文別邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+松下村, 東京, 長州ファイブ, 萩, 明治
+cluster1:(4)
+資料, 資料館, 建造物, 協力金
+cluster2:(30)
+もの, 施設, 松陰神社, 見学, こと, ところ, 展示コーナー, スタッフ, ボランティア, ランプ, 手, 道, モダン, 徒歩, 場所, 一部, 幼年, 和洋折衷, 切れ目, 雰囲気, 照明, 外観, 通行, 方, 時代, 写真, 歴史, ガイド, 建物, シャンデリア
+cluster3:(2)
+別邸, 旧宅
+cluster4:(7)
+部屋, 旧家, 屋敷, 家, 広間, 隣, 大工
+cluster5:(1)
+鏡天井
+cluster6:(1)
+畳敷き
+cluster7:(1)
+総理大臣
+cluster8:(6)
+茅葺屋根, 博文関係, 萩・伊藤博文, 伊藤, 伊藤博文, 吉田松陰
+
+howmany entities : 57
+howmany clusters : 9
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 9
+deleted 0entities.

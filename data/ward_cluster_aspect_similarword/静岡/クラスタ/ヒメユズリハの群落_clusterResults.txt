@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヒメユズリハの群落>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+葉, 樹
+cluster1:(3)
+ヒメユズリハ, ユズリハ, ヒメ
+cluster2:(1)
+沿岸
+cluster3:(1)
+群落
+cluster4:(1)
+照葉樹林
+cluster5:(1)
+門脇灯台
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

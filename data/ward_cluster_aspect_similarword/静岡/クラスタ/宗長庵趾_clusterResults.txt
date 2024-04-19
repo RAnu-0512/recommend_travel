@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宗長庵趾>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸元禄, 江戸時代
+cluster1:(2)
+宗長庵, 宗長
+cluster2:(2)
+島田, 島田駅
+cluster3:(2)
+俳人, 句碑
+cluster4:(7)
+場所, JR, 東海道線, 時代, 北口ロータリー, 駅, 地元
+cluster5:(1)
+室町時代後期の連歌師宗長
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 9entities.

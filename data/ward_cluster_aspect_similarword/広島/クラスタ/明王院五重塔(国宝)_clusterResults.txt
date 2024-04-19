@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明王院五重塔(国宝)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+建築, 建物, 建築物
+cluster1:(3)
+朱, 朱色, 緑
+cluster2:(2)
+人々, 民衆
+cluster3:(4)
+内部, 極彩色, 写真, 五重塔
+cluster4:(2)
+数々, 全国
+cluster5:(5)
+姿, 中, 迫力, 影響, こと
+cluster6:(1)
+小雨
+cluster7:(11)
+塔, 境内, 浄財, 裏手, 国宝, 門前, 仏画, 石塔, 文様, 建立, 本堂
+cluster8:(4)
+五重, 大きさ, 四天柱, 高さ
+cluster9:(5)
+明王院五重塔, 明王院, 南北朝時代建立, 南北朝時代, 草戸千軒町
+
+howmany entities : 40
+howmany clusters : 10
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 10
+deleted 0entities.

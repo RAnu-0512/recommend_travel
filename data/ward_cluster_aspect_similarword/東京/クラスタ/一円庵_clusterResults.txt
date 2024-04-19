@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一円庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, もの
+cluster1:(4)
+門構え, 上野動物園, 近く, 現在地
+cluster2:(1)
+そば
+cluster3:(1)
+拠点
+cluster4:(1)
+趣
+cluster5:(3)
+茶室, 外神田下屋敷, 明治
+cluster6:(2)
+江戸千家, 関宿藩主
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

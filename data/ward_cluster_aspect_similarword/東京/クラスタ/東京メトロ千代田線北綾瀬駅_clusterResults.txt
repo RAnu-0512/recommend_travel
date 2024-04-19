@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線北綾瀬駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+綾瀬駅, 北綾瀬駅
+cluster1:(4)
+本数, 必要, こと, 部分
+cluster2:(2)
+車庫, 住宅
+cluster3:(9)
+周囲, 常磐線, 仕事, 駅, 路線, メトロ, 終着駅, 移動, 周辺
+cluster4:(1)
+千代田線
+cluster5:(3)
+延長工事, 静かな駅, 飲食店
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

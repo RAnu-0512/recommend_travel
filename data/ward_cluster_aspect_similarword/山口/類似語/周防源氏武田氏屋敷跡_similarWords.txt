@@ -1,0 +1,9 @@
+--------------------similar_words:周防源氏武田氏屋敷跡--------------------
+top3 entities near to cluster0>>
+道標, バス停, 道しるべ
+top3 entities near to cluster1>>
+土塀, 塀, トンバイ
+top3 entities near to cluster2>>
+案内板, 案内, 倒連
+top3 entities near to cluster3>>
+跡, 屋敷, 跡地

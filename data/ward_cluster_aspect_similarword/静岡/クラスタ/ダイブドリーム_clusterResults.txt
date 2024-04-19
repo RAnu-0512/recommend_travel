@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイブドリーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ウエット着用プール, ゴー同乗カップル
+cluster1:(4)
+伊豆高原駅, 海岸, 駅, 海
+cluster2:(14)
+人生, ダイビング, 基本スキル, ダイブ, シュノーケル, プール, ダイバー, 店, 待ち合わせ, 基本, トイレ, 体験ダイビング, 常連, シュノーケリング
+cluster3:(1)
+海洋公園
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 3entities.

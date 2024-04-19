@@ -1,0 +1,9 @@
+--------------------similar_words:千姫の墓(東京都文京区)--------------------
+top3 entities near to cluster0>>
+墓所, 墓碑
+top3 entities near to cluster1>>
+千姫, 家康, 家光
+top3 entities near to cluster2>>
+家康, 豊臣, 秀忠
+top3 entities near to cluster3>>
+嫡男, 秀頼, 秀忠

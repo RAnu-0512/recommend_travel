@@ -1,0 +1,85 @@
+--------------------similar_words:タカシマヤ タイムズスクエア--------------------
+top3 entities near to cluster0>>
+売り場, フロア, 売場
+top3 entities near to cluster1>>
+ニトリ, ユニクロ, デコホーム
+top3 entities near to cluster2>>
+ハンズ, 伊勢丹, ユザワヤ
+top3 entities near to cluster3>>
+紀伊国屋, 紀伊國屋, とらや
+top3 entities near to cluster4>>
+バスタ, イーライナー, ジャムジャムエクスプレス
+top3 entities near to cluster5>>
+百貨店, デパート, 高島屋
+top3 entities near to cluster7>>
+デパート, レストラン, 百貨店
+top3 entities near to cluster8>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster9>>
+おかげ, まわり, お陰
+top3 entities near to cluster10>>
+センス, 感性, オリジナリティ
+top3 entities near to cluster11>>
+比べ物, 比べもの, 遜色
+top3 entities near to cluster12>>
+ランチ, スイーツ, スィーツ
+top3 entities near to cluster13>>
+買い物, 手土産, 目当て
+top3 entities near to cluster14>>
+イベント, メイン, 終わり
+top3 entities near to cluster15>>
+ショップ, 見どころ, アイテム
+top3 entities near to cluster16>>
+スクエア, センター, スクール
+top3 entities near to cluster17>>
+ブランド, ホテル, バッグ
+top3 entities near to cluster18>>
+トイレ, 乗り場, 最上階
+top3 entities near to cluster19>>
+デッキ, ウッド, アンデットデッキ
+top3 entities near to cluster20>>
+カード, ストア, ショップ
+top3 entities near to cluster21>>
+リップ, ルーム, ハート
+top3 entities near to cluster22>>
+ラリー, スタンプ, ボーワ
+top3 entities near to cluster23>>
+休憩室, 時間, 休憩
+top3 entities near to cluster26>>
+友達, 子供, 家族
+top3 entities near to cluster27>>
+通路, 入口, 入り口
+top3 entities near to cluster29>>
+建物, 外観, 施設
+top3 entities near to cluster30>>
+規模, 値段, 手頃
+top3 entities near to cluster31>>
+工事, 施工, 修繕
+top3 entities near to cluster32>>
+商品, 店内, 店員
+top3 entities near to cluster33>>
+点灯, 点滅, 消灯
+top3 entities near to cluster34>>
+中心街, 繁華街, 中心, 繁華
+top3 entities near to cluster35>>
+バス車, バス, 電車
+top3 entities near to cluster38>>
+バス, 高速, 乗り場
+top3 entities near to cluster39>>
+改札, 新南, 南口
+top3 entities near to cluster40>>
+南口, 北口, 駅前
+top3 entities near to cluster41>>
+駅, 駅前, 周辺
+top3 entities near to cluster42>>
+商業, 施設
+top3 entities near to cluster43>>
+勧め, 薦め, 届け
+top3 entities near to cluster44>>
+高級, 老舗, 有数
+top3 entities near to cluster45>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster46>>
+大型店, 店舗, 大型
+top3 entities near to cluster48>>
+食品, 衣料, 雑貨

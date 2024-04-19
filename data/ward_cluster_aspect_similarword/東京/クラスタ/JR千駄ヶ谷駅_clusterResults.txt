@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR千駄ヶ谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+昔, シーズン
+cluster1:(1)
+仕事
+cluster2:(1)
+千駄ヶ谷駅
+cluster3:(1)
+球場
+cluster4:(1)
+明治神宮球場
+cluster5:(1)
+プロ野球
+cluster6:(1)
+国立競技場
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

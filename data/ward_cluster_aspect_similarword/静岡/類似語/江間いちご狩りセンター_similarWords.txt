@@ -1,0 +1,27 @@
+--------------------similar_words:江間いちご狩りセンター--------------------
+top3 entities near to cluster1>>
+ちご, 江間, いちご
+top3 entities near to cluster2>>
+ハウス, ビニール, トレーラー
+top3 entities near to cluster3>>
+イチゴ, いちご, 苺
+top3 entities near to cluster4>>
+大きい, 少ない
+top3 entities near to cluster6>>
+受付, 予約, 申込
+top3 entities near to cluster7>>
+ハズレ, 外れ, 当たり
+top3 entities near to cluster8>>
+案内, 開始, 誘導
+top3 entities near to cluster10>>
+期待, 満足, 不安
+top3 entities near to cluster13>>
+つもり, タイプ, おかげ
+top3 entities near to cluster15>>
+スタッフ, センター, イベント
+top3 entities near to cluster16>>
+スタイル, おすすめ, ベビーカー
+top3 entities near to cluster23>>
+子供服, 子供
+top3 entities near to cluster24>>
+狩り, 栽培, イチゴ

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岸本温泉ゆうあいパル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+受付, 営業スマイル, 検診, 受付スタッフ
+cluster1:(2)
+休憩スペース, 畳スペース
+cluster2:(6)
+感じ, 気, 終了, こと, 方, 利用
+cluster3:(6)
+たこ焼き, ふもと, こじんまり, 入り口, スペース, ロッカー
+cluster4:(4)
+露天風呂, サウナ, 水風呂, 内風呂
+cluster5:(4)
+客, 味, 施設, 館内
+cluster6:(3)
+大山, ジム, パン
+cluster7:(8)
+岸本温泉, 足湯, 無色透明, 内湯, 公衆浴場, 風呂, 温泉, 湯
+cluster8:(1)
+源泉掛け流し
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:子育地蔵尊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地蔵尊, 子育地蔵尊
+cluster1:(3)
+願掛け, 子宝, 地蔵
+cluster2:(2)
+伊豆市, 大仁地区
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 4entities.

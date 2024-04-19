@@ -1,0 +1,55 @@
+--------------------similar_words:ときわ公園--------------------
+top3 entities near to cluster0>>
+ボート, カフェ, スワン
+top3 entities near to cluster2>>
+ピクニック, イベント, ハイキング
+top3 entities near to cluster4>>
+スイッチ, スィッチ, スウィッチ
+top3 entities near to cluster5>>
+オブジェ, シンボル, カップル
+top3 entities near to cluster6>>
+スイレン, サボテン, ひまわり
+top3 entities near to cluster7>>
+ツツジ, シャクナゲ, つつじ
+top3 entities near to cluster8>>
+小学校, 子ども, 小学生
+top3 entities near to cluster10>>
+周り, 周囲, 足元
+top3 entities near to cluster12>>
+各地, 地元, 世界
+top3 entities near to cluster13>>
+写真, 家族, 旅
+top3 entities near to cluster14>>
+入園料, 入園, 入場料, 入場
+top3 entities near to cluster15>>
+展示, 出展, 公募
+top3 entities near to cluster16>>
+敷居, 高所, 背
+top3 entities near to cluster17>>
+中庭, 広場, 公園
+top3 entities near to cluster18>>
+施設, 設備, 料金
+top3 entities near to cluster19>>
+展望台, 展望, 瞻星台, 瞻星
+top3 entities near to cluster20>>
+時間, 徒歩
+top3 entities near to cluster21>>
+散策, 散歩
+top3 entities near to cluster22>>
+桜池, 湖池, 桜, 湖
+top3 entities near to cluster23>>
+子供, 子ども, 動物
+top3 entities near to cluster25>>
+遊園地, 遊園, 揚島
+top3 entities near to cluster26>>
+館, 資料, 石炭
+top3 entities near to cluster27>>
+植物園, 動物園, 植物, 動物
+top3 entities near to cluster28>>
+駐車場, 駐車, 市営
+top3 entities near to cluster29>>
+芸術, 作品, 美術
+top3 entities near to cluster30>>
+彫刻, 彫像, 絵画
+top3 entities near to cluster31>>
+公園, 緑地, 遊歩道

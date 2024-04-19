@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:調布市せんがわ劇場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+調布市, 仙川
+cluster1:(5)
+設計, 劇団うずめ, 劇場, 右, 建物
+cluster2:(1)
+改札口
+cluster3:(1)
+安藤忠雄
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

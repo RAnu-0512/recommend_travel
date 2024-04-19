@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永源山公園_チューリップ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+チューリップ, 多く, 人, ところ
+cluster1:(2)
+場所, 時期
+cluster2:(1)
+左側
+cluster3:(1)
+休日
+cluster4:(7)
+花, 散歩コース, 公園, 花見, 桜, 遊具, 風車
+cluster5:(1)
+高さ
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

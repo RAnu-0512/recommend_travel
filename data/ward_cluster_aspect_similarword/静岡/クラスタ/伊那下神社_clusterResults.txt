@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊那下神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+神主, 鳥居, 神社, 境内, 宮司, 銀杏
+cluster1:(5)
+水神, 水, 伊豆, 舞, 木
+cluster2:(2)
+像, 木彫
+cluster3:(19)
+アマビエ, チェーンソー, コロナ, 心, 地元, 西伊豆, 昔, 横, 町, 木彫り, 当社, 社, 海, 雰囲気, イチョウ, 宝物殿, 場所, 他, 見どころ
+cluster4:(4)
+展示, 収束, 感じ, 説明
+cluster5:(1)
+方達
+cluster6:(4)
+伊那下神社, なまこ壁通り, 朱い大鳥居, 松崎町
+
+howmany entities : 41
+howmany clusters : 7
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 5
+deleted 3entities.

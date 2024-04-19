@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御手洗七卿落遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+庭, 縁側, 民家, 屋敷
+cluster1:(6)
+奥, 御手洗, 歴史, 沿岸, 遺跡, 時間
+cluster2:(1)
+襖
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

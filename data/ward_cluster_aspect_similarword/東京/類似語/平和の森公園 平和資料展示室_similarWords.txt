@@ -1,0 +1,7 @@
+--------------------similar_words:平和の森公園 平和資料展示室--------------------
+top3 entities near to cluster0>>
+平和, 資料, 平穏
+top3 entities near to cluster1>>
+森, 公園, 区役所
+top3 entities near to cluster2>>
+展示室, 資料室, 資料, 展示

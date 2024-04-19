@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久留女木の棚田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風景, 原風景
+cluster1:(5)
+ひとつ, 人気, ドライブ, 家族, ビューポイント
+cluster2:(2)
+棚田, 稲穂
+cluster3:(1)
+浜松市
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 5entities.

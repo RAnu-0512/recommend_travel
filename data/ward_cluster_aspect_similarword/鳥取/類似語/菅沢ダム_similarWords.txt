@@ -1,0 +1,9 @@
+--------------------similar_words:菅沢ダム--------------------
+top3 entities near to cluster0>>
+環状線, 環状, 車両
+top3 entities near to cluster1>>
+ダム, ダムサイト, 小里川
+top3 entities near to cluster2>>
+迫力, 見ごたえ, 見応え
+top3 entities near to cluster3>>
+建造, 建築, 建物

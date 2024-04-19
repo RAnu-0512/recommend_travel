@@ -1,0 +1,19 @@
+--------------------similar_words:ガラス工房 虹色ねこ舎--------------------
+top3 entities near to cluster0>>
+とんぼ玉, シャボン玉, とんぼ, シャボン
+top3 entities near to cluster1>>
+子供, 友達, 子ども
+top3 entities near to cluster2>>
+友人, 息子, 友達
+top3 entities near to cluster3>>
+体験, 挑戦, 初
+top3 entities near to cluster5>>
+時間, 休憩, 分間
+top3 entities near to cluster6>>
+作成, 制作
+top3 entities near to cluster7>>
+出し
+top3 entities near to cluster8>>
+丸い, 模様
+top3 entities near to cluster9>>
+緊張感, 緊張, 不安感, 不安

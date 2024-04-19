@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小岩菖蒲園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(34)
+河川敷沿い, 知名度, 場所, 景色, 花, 花菖蒲, 人, 公園, 気持ち, ところ, 距離, 感じ, 菖蒲田, 江戸川河川敷沿い, 色とりどり, 庭園, 江戸川, 河川敷, 駅, 江戸川駅, 時期, 日陰, 天気, 園, 陰, 梅雨空, 徒歩, お花, スポット, 土手, 雰囲気, 見頃, 風情, 色
+cluster1:(2)
+菖蒲, 菖蒲園
+cluster2:(2)
+小岩菖蒲園, 堀切菖蒲園
+cluster3:(2)
+直射日光, 京成本線
+
+howmany entities : 40
+howmany clusters : 4
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 4
+deleted 0entities.

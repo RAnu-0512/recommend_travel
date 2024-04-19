@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:緑水湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+周り, 周囲
+cluster1:(10)
+時期, レクリエーション施設, 看板, クルマ, 車, ドライブ, レストラン, 帰り道, 写真, 景色
+cluster2:(2)
+水, 橋
+cluster3:(1)
+広島
+cluster4:(3)
+展望台, 駐車場, キャンプ場
+cluster5:(7)
+ダム断面図, 下流図面, ダム湖, ダム, 湖畔, 湖, 緑水園
+cluster6:(1)
+草ボウボウ
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 7
+deleted 0entities.

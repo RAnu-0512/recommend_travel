@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江府町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+日野郡, 江府町観光案内所, 江府町, 江府観光
+cluster1:(4)
+パンフレット, レジャースポット, 鳥取, 鍵掛峠
+cluster2:(5)
+観光案内所, 観光, 観光スポット, 観光名所, 観光情報
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

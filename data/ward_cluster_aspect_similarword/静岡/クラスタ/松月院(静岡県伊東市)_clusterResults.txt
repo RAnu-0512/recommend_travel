@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松月院(静岡県伊東市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伊東公園, 伊東駅, 伊東
+cluster1:(2)
+駐車場, 中々絵
+cluster2:(21)
+庭園, 欄干, 分池, 門, 梅, 入口, 鯉, 坂, 本堂, 境内, 墓, 花, 池, 広場, 海, 桜, 堂, 花木, 山, 木, 寺
+cluster3:(3)
+左, 左奥, 右側
+cluster4:(3)
+終わりかけ, 眺め, 感じ
+cluster5:(3)
+眼下, 高台, 穴場
+cluster6:(2)
+お参り, 太鼓橋
+cluster7:(6)
+終わり, ベンチ, 雰囲気, プランター, 町並み, ふわふわ
+cluster8:(1)
+削り節
+cluster9:(4)
+周り, 人, 他, 方
+cluster10:(2)
+下, 前
+cluster11:(1)
+場所
+cluster12:(3)
+車, 工場, 町
+cluster13:(3)
+主人, 土産, 実家
+cluster14:(1)
+簡易トイレ
+cluster15:(1)
+池泉式日本庭園
+
+howmany entities : 59
+howmany clusters : 16
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 9
+deleted 10entities.

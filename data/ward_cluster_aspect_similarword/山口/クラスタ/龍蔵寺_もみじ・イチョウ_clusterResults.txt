@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍蔵寺_もみじ・イチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寺, 滝, 紅葉
+cluster1:(3)
+風景, 風情, 写真
+cluster2:(7)
+紅葉狩り, 中, 日本, 緑, もみじ, 木, 傍ら
+cluster3:(2)
+奥之院, 苔生す不動尊
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

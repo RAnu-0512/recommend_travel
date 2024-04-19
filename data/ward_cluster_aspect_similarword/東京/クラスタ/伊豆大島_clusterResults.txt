@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆大島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+観光, 伊豆大島, 観光バス, 島自体観光, 飲食店
+cluster1:(2)
+少人数, 参加人数
+cluster2:(2)
+日帰りツアー, 参加
+cluster3:(5)
+人, ところ, ツアー, 伊豆稲取, コース
+cluster4:(2)
+場所, 事
+cluster5:(1)
+日
+cluster6:(1)
+島
+cluster7:(1)
+大分
+cluster8:(4)
+自然, 力, 子ども達, とこら
+cluster9:(1)
+出発地域
+
+howmany entities : 24
+howmany clusters : 10
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 10
+deleted 0entities.

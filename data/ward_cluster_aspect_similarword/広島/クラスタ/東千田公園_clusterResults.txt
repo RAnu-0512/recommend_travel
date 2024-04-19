@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東千田公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+被爆, 原爆
+cluster1:(3)
+夏場子供, 子供, 猛暑
+cluster2:(2)
+時間, 場所
+cluster3:(11)
+広島大学, ところ, 広島大学キャンパス, お気に入り, むかし広島大学, 小規模, シーン, 緑地公園, 立ち入り, 理学部, フリーマーケット
+cluster4:(1)
+気分
+cluster5:(1)
+禁止
+cluster6:(1)
+出会
+cluster7:(21)
+並木, 石畳, 大木, 敷地, 噴水, 門, 広島市, 芝生広場, 建物, 花壇, 木々, 東千田町, 中央部, 中区, 東千田公園, 池, 芝生, 一角, 公園, 遊具, 跡地
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 8
+deleted 0entities.

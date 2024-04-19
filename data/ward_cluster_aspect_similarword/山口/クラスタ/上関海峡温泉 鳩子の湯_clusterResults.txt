@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上関海峡温泉 鳩子の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+風呂, 浴槽, 温泉, 湯, 湯船
+cluster1:(2)
+薬, 石
+cluster2:(4)
+石風呂, レストラン, フライ, 露天風呂
+cluster3:(3)
+方, 人, 今回
+cluster4:(3)
+景色, 客, 休日
+cluster5:(1)
+木
+cluster6:(1)
+開店
+cluster7:(1)
+休憩所
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:木江ふれあい郷土資料館--------------------
+top3 entities near to cluster0>>
+館, 郷土, 資料
+top3 entities near to cluster1>>
+休館, 営業, 時間
+top3 entities near to cluster3>>
+港船, 島船, 港, 島
+top3 entities near to cluster4>>
+駅車, 駅, 山側
+top3 entities near to cluster5>>
+造船, 製鉄, 海運
+top3 entities near to cluster6>>
+県道, 国道, 旧道
+top3 entities near to cluster7>>
+木造船, 木造, 船舶
+top3 entities near to cluster9>>
+はら, たけ, ぺこな

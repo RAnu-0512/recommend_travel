@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伝大高源吾の句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+両国, 両国側
+cluster1:(8)
+両国橋, 意味, 日, 趣, エピソード, 忠臣蔵, たもと, もの
+cluster2:(2)
+句, 俳句
+cluster3:(2)
+石碑, 句碑
+cluster4:(4)
+厚氷, 一人, 恩, 日の恩
+cluster5:(5)
+大高源, 赤穂浪士, 忠臣蔵四十七士, 大高源吾, 伝大高源
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

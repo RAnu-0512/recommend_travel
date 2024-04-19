@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:教導石>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+質問, 意見, 交換
+cluster1:(6)
+筆, 付近, 交差点, 文字, もの, 石碑
+cluster2:(1)
+県庁
+cluster3:(1)
+市民同士
+cluster4:(1)
+教導石
+cluster5:(1)
+山岡鉄舟
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 4entities.

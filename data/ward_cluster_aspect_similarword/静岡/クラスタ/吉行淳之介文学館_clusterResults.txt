@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉行淳之介文学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+吉行, 吉行淳之介
+cluster1:(2)
+地, 住所
+cluster2:(2)
+案内, 展示
+cluster3:(4)
+雰囲気, 入り口, 周辺, 作品
+cluster4:(1)
+木々
+cluster5:(1)
+愛情
+cluster6:(1)
+宮城まり子
+cluster7:(1)
+展示品
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 10entities.

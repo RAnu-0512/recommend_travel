@@ -1,0 +1,31 @@
+--------------------similar_words:台東区立下町風俗資料館--------------------
+top3 entities near to cluster0>>
+館, 資料, 史料
+top3 entities near to cluster1>>
+展示, 収蔵, 出展
+top3 entities near to cluster2>>
+入り口, 博物館, コーナー
+top3 entities near to cluster4>>
+建物, 施設, 駅
+top3 entities near to cluster6>>
+居間, 一角, 自室
+top3 entities near to cluster7>>
+歴史, 資料, 戦争
+top3 entities near to cluster8>>
+対策, 広い, 災い
+top3 entities near to cluster9>>
+生活, 暮し
+top3 entities near to cluster10>>
+距離, 時間, 調整
+top3 entities near to cluster11>>
+撮影, 実物, 写真
+top3 entities near to cluster12>>
+見学, 訪問, 予約
+top3 entities near to cluster13>>
+個人, 利用, 私的
+top3 entities near to cluster14>>
+記念, 撮影, 写真
+top3 entities near to cluster15>>
+映え, 写真, 見栄え
+top3 entities near to cluster16>>
+銭湯, 下町, 遊郭

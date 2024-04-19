@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大間ダム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寸又峡, 寸又峡温泉郷, 寸又峡プロムナードコース
+cluster1:(2)
+夢, 夢の吊り橋
+cluster2:(6)
+エメラルドグリーン, 水, 水不足, 階段, 吊り橋, トンネル
+cluster3:(5)
+紅葉, 写真, 風景, 山々, 色
+cluster4:(1)
+天子トンネル
+cluster5:(1)
+堤体
+cluster6:(5)
+大間ダム, 大間ダム堤体迄, ダム湖, ダム, 大間ダムカード
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 4entities.

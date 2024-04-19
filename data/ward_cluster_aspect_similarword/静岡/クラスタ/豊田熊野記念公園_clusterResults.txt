@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊田熊野記念公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+藤, 長藤, フジ, 熊野
+cluster1:(2)
+横, 頭
+cluster2:(4)
+カーテン, 雰囲気, 花, 顔
+cluster3:(1)
+遠目
+cluster4:(1)
+香り
+cluster5:(1)
+終わり掛け
+cluster6:(1)
+夕方会社帰り
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 6entities.

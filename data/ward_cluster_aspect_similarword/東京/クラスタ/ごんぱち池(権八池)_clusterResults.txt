@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ごんぱち池(権八池)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+水, オニバス, 水元公園, 夏, 花
+cluster1:(6)
+中, 時期, こと, 昔, 場所, 姿
+cluster2:(3)
+釣り, 柵, 池
+cluster3:(1)
+水生植物
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

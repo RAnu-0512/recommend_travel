@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:俵山しゃくなげ園_しゃくなげ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+白, シャクナゲ, ピンク色, 石楠花, ベビーカー, 花, ピンク, お花, 母, 山
+cluster1:(10)
+季節, 場所, 客, 種類, 目, 人々, 時期, 人, 県, 個人
+cluster2:(1)
+なげ
+cluster3:(2)
+シャクナゲ園, しゃくなげ園
+cluster4:(3)
+規模, 敷地, 園内
+cluster5:(3)
+足場, 土地, 斜面
+cluster6:(2)
+見頃, 散歩コース
+cluster7:(1)
+辺り一帯
+cluster8:(1)
+駐車場
+cluster9:(3)
+観光地づくり大賞, 俵山しゃくなげ園, 俵山温泉
+
+howmany entities : 36
+howmany clusters : 10
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 10
+deleted 0entities.

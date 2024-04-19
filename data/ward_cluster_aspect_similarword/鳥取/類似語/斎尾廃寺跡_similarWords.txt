@@ -1,0 +1,9 @@
+--------------------similar_words:斎尾廃寺跡--------------------
+top3 entities near to cluster0>>
+史跡, 特別, 指定
+top3 entities near to cluster1>>
+伽藍, 法隆寺
+top3 entities near to cluster3>>
+境内, 石碑, 史跡
+top3 entities near to cluster4>>
+廃寺, 跡, 遺構

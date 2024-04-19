@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:氷ノ山(須賀ノ山)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小屋, 山頂小屋
+cluster1:(9)
+山頂, 道, ガソスタ, 山, 残り, こと, 小学生, 氷ノ山, 団体
+cluster2:(1)
+兵庫県最高峰
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:刀剣博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墨田区スタンプラリー, 渋谷区
+cluster1:(2)
+刀剣, 刀剣博物館
+cluster2:(5)
+武器, 日本刀, 刀, 博物館, 日本
+cluster3:(3)
+場所, 建物, 者
+cluster4:(1)
+国宝
+cluster5:(1)
+上野
+cluster6:(1)
+安田庭園
+cluster7:(11)
+展示室, 開催, 何時間, 国立博物館分館, 入場, スタンプ設置場所, 展示数, 展示品, 旧館時代, 入館料金, 展示
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 8
+deleted 0entities.

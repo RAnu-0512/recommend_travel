@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大和屋本店(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+昭和, 中, 乾物, 商店, 店, 大和屋本店, 白金, 商品, 鰹節, 白金台, 乾物屋, 建物, 店舗, 江戸東京
+cluster1:(2)
+木造3階建て, 江戸東京たてもの園
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

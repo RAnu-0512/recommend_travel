@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮華寺のはぎ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+萩, 白い萩
+cluster1:(3)
+ピンク, 蓮華寺, 花
+cluster2:(2)
+寺院, 寺
+cluster3:(1)
+見ごろ
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

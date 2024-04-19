@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金庫と鍵の博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墨田区, 東京都
+cluster1:(2)
+機密金庫, 杉山金庫店
+cluster2:(10)
+鍵, 金庫, 軍, 予約, 目, 博物館, 暗号表, 幻, 日本, 展示
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夫婦クス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+楠, 樹, 木, 大木
+cluster1:(8)
+マップ, 夫婦, 場所, 神社, 参考, 幼稚園, 昔, 圧巻
+cluster2:(1)
+大木二本
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 1entities.

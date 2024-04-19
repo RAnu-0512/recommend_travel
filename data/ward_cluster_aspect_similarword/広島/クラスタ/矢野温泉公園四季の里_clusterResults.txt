@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:矢野温泉公園四季の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+子供, 中, 植木, アスレチック, 対応, 人気, 費用, オートキャンプ場, プライベート感, 炭, キャンプ場, 所, サイト, 父さん, ほぼ, 公園, 受付
+cluster1:(2)
+国指定天然記念物, 広さ
+cluster2:(1)
+AC電源
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

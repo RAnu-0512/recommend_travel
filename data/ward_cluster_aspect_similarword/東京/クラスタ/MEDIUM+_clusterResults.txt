@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MEDIUM+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+デザイン, セレクトショップ
+cluster1:(1)
+デート
+cluster2:(1)
+特徴
+cluster3:(1)
+客
+cluster4:(1)
+世代
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

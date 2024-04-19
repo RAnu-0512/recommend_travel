@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城ケ崎ブルースの碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+碑, 記念, 歌碑
+cluster1:(4)
+音譜, 歌, 曲, 歌詞
+cluster2:(10)
+人, 吊り橋, 先, 城ケ崎ブルース, 歌謡曲, 裏, 城ケ崎, あと, 表, 御影石
+cluster3:(1)
+大ヒットし城ケ崎
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 1entities.

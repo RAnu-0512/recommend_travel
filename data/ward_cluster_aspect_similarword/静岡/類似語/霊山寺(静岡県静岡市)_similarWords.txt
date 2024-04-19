@@ -1,0 +1,11 @@
+--------------------similar_words:霊山寺(静岡県静岡市)--------------------
+top3 entities near to cluster0>>
+山寺, 屋根, 駐車
+top3 entities near to cluster1>>
+時代, 明治, 末期
+top3 entities near to cluster2>>
+本堂, 山門, 寺
+top3 entities near to cluster3>>
+建物, 家屋, 建築
+top3 entities near to cluster4>>
+山頂, 中腹, 石段

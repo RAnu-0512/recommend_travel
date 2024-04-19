@@ -1,0 +1,73 @@
+--------------------similar_words:浅草花やしき--------------------
+top3 entities near to cluster0>>
+ジェット, スター, コースター
+top3 entities near to cluster2>>
+スペース, タイム, ショット
+top3 entities near to cluster3>>
+デザイン, ホテル, サイズ
+top3 entities near to cluster4>>
+遊び方, ゲーム, ミニゲーム
+top3 entities near to cluster5>>
+乗り物, デート, アトラクション
+top3 entities near to cluster6>>
+ガシャポン, バンダイ, コンビニ
+top3 entities near to cluster7>>
+最寄り駅, アクセス, 最寄り
+top3 entities near to cluster8>>
+お出かけ, 付き添い, 出掛け
+top3 entities near to cluster9>>
+西武遊園地, 西武球場前, 西武園線
+top3 entities near to cluster10>>
+待ち時間, ストレス, スピード
+top3 entities near to cluster11>>
+イベント, グッズ, チケット
+top3 entities near to cluster14>>
+アトラクション, テーマパーク, ディズニーランド
+top3 entities near to cluster15>>
+カチャカチャ, カタカタカタ, カタカタカタ・・・
+top3 entities near to cluster16>>
+雰囲気, 楽しい, 気持ち
+top3 entities near to cluster17>>
+子供, 子ども, 小学生
+top3 entities near to cluster19>>
+親子, 父子, 夫婦
+top3 entities near to cluster20>>
+家族, 友人
+top3 entities near to cluster21>>
+週末, 祭り, 休日
+top3 entities near to cluster22>>
+大人, 料金, 年齢
+top3 entities near to cluster23>>
+昔, 時代, 大昔
+top3 entities near to cluster25>>
+長蛇, 列, 列なん
+top3 entities near to cluster26>>
+出口, 入口, 入り口
+top3 entities near to cluster27>>
+徒歩, 駅分, 駅
+top3 entities near to cluster29>>
+東武, スカイ, 東武鉄道
+top3 entities near to cluster30>>
+絶叫系, カー系, 絶叫, カー
+top3 entities near to cluster31>>
+回数券, 回数, フリーパスチケット
+top3 entities near to cluster32>>
+入場, 入場券, 入館券, 入館
+top3 entities near to cluster33>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster34>>
+入園料, 入場料, 入園, 入場
+top3 entities near to cluster35>>
+時間, 閉園, 開園
+top3 entities near to cluster37>>
+入園, 開園, 入学
+top3 entities near to cluster38>>
+敷地, 園内, 庭園
+top3 entities near to cluster39>>
+作品, 屋敷, 施設
+top3 entities near to cluster41>>
+古い, 良い, よい
+top3 entities near to cluster42>>
+遊園地, 遊園, テーマパーク
+top3 entities near to cluster43>>
+遊園, 揚島, リンナンマキ

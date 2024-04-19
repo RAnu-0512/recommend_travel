@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姥ケ池碑・助六の歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+原伝説, 原, 浅茅
+cluster1:(16)
+浅草駅, 娘, 場所, 池, 浅草寺, 自宅, 母親, 歌, 身代わり, 老婆, 身, 旅人, 境内, あたり, 金, 跡
+cluster2:(1)
+姥ケ池
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

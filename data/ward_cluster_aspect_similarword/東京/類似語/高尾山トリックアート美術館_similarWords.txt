@@ -1,0 +1,21 @@
+--------------------similar_words:高尾山トリックアート美術館--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 大人
+top3 entities near to cluster1>>
+息子, 孫, 娘
+top3 entities near to cluster2>>
+小学, 年生, 中学
+top3 entities near to cluster3>>
+泊り, 泊まり, 一泊
+top3 entities near to cluster4>>
+天気雨, 天気, 雨降り
+top3 entities near to cluster5>>
+必要, 多い
+top3 entities near to cluster6>>
+トリック, アート, ドローイング
+top3 entities near to cluster7>>
+写真絵, 写真, 画像
+top3 entities near to cluster8>>
+駅, 施設, 館内
+top3 entities near to cluster9>>
+駐車場, 駐車, 場裏

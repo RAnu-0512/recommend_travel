@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円政寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+江戸屋横町, 高杉晋作, 伊藤博文
+cluster1:(8)
+もの, 思いき, こと, 形態, 期待気分, 事, 感じ, 魅力
+cluster2:(6)
+境内, 鳥居, 神社, 社殿, 石鳥居, 金毘羅社
+cluster3:(3)
+幕末, 萩城下町, 志士
+cluster4:(6)
+全国, 文化, 神, 日本, 時代, 歴史
+cluster5:(10)
+円政寺, 寺, 十二支, 御朱印, エピソード, 場所, 彫刻, 入口, 写真, 微笑
+cluster6:(4)
+情緒, 風流, 木馬, 和風
+cluster7:(1)
+神仏習合
+cluster8:(1)
+市指定有形文化財
+
+howmany entities : 42
+howmany clusters : 9
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 9
+deleted 0entities.

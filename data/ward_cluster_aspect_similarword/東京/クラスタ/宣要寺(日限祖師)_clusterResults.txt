@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宣要寺(日限祖師)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+参道, 寺院, 寺, 山門
+cluster1:(7)
+道路, 東側, 入り口, 枝, 日蓮宗, 南側, 左手
+cluster2:(1)
+瑞鳳
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

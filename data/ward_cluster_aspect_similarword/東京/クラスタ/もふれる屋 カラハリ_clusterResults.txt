@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:もふれる屋 カラハリ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+場所, 他, 感じ, 笑, 中, 方, 動画
+cluster1:(2)
+ストレス, ところ
+cluster2:(8)
+おもちゃ, エレベーター, カワウソ, コツメカワウソ, ミーアキャット, ミーヤキャット, フェネック, ゴロゴロ
+cluster3:(1)
+カフェ
+cluster4:(1)
+トカゲ
+cluster5:(1)
+タオル
+cluster6:(1)
+カワウソちゃん
+cluster7:(3)
+水遊び, 身体, 水遊びタイム
+cluster8:(8)
+娘, 服装, 使い捨て靴下, 友達, 店員, 店長, 子, 子達
+cluster9:(4)
+毛ざわり, 動物, 猫カフェ, 動物園
+cluster10:(1)
+雑居ビル
+
+howmany entities : 37
+howmany clusters : 11
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 11
+deleted 0entities.

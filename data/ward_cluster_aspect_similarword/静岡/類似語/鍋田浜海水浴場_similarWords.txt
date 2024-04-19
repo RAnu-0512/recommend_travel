@@ -1,0 +1,15 @@
+--------------------similar_words:鍋田浜海水浴場--------------------
+top3 entities near to cluster0>>
+海岸, 浜辺, 浜
+top3 entities near to cluster1>>
+海水魚, 海水, 水質
+top3 entities near to cluster4>>
+自然, 色合い
+top3 entities near to cluster9>>
+ビーチ, 海水浴, 砂浜
+top3 entities near to cluster10>>
+トイレ, ペット, ホテル
+top3 entities near to cluster11>>
+子供, 家族
+top3 entities near to cluster13>>
+駐車場, 駐車, 更衣

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黄金山(広島県広島市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島, 広島市, 西日本豪雨
+cluster1:(8)
+絶景, 島々, 山頂, 麓, 観光スポット, 頂上, 景色, 山
+cluster2:(16)
+瀬戸内, トイレ, ところ, オススメ, スポット, 見晴らし, ジョギング, 鑑賞, シーズン, 見どころ, ライト, ドライブデート, コラボ, ドライブ, 気持ち, カップル
+cluster3:(2)
+健康, 被害
+cluster4:(5)
+方, 人, 多く, 黄金山か, こと
+cluster5:(5)
+数カ所がけ崩れ, 市, 車, 道, 場所
+cluster6:(1)
+意
+cluster7:(9)
+時期, 季節, 夕暮れ時, 絶好, 日, 徒歩, 木, 時間, 春
+cluster8:(13)
+駐車場, 桜, 展望台, 道路沿い, 桜満開, 夜景, 夜桜, 夜景色, 展望, 花火大会鑑賞, 花見スポット, 花見, 夜景スポット
+
+howmany entities : 62
+howmany clusters : 9
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 9
+deleted 0entities.

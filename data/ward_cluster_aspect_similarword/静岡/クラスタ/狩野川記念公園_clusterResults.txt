@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狩野川記念公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+狩野川記念公園, 復興記念
+cluster1:(13)
+右手, スポット, 運動, 遊具, グランド, 散歩コース, 狩野川台風, 左手, 方々, 狩野川, 公園, 被害, 休日
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

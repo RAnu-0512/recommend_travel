@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山寺宝物館霊宝閣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+大山, 仏像, 富士山, 建物, 参道, 裾野, 大山寺, スロープ, 文化財, 宝物, 右手, 宝物館, 左手, 北壁, 興味, 事, アルプス, 参拝, 帰り道, 山門, 神山神社, 展示室, 展示物, 途中, 背景, 北西方向
+cluster1:(2)
+大山寺宝物館霊峰閣, 霊峰閣
+cluster2:(2)
+入館料, 入山料
+cluster3:(2)
+大山寺参拝志, 参拝志納金
+
+howmany entities : 32
+howmany clusters : 4
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 4
+deleted 0entities.

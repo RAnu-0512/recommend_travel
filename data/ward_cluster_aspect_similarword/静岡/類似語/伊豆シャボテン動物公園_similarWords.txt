@@ -1,0 +1,83 @@
+--------------------similar_words:伊豆シャボテン動物公園--------------------
+top3 entities near to cluster0>>
+カピバラ, リスザル, ウサギ
+top3 entities near to cluster1>>
+ショー, パーク, ショウ
+top3 entities near to cluster2>>
+入り口, 入口, 出迎え
+top3 entities near to cluster4>>
+トイレ, ペット, カメラ
+top3 entities near to cluster5>>
+グッズ, 入れ物, カード
+top3 entities near to cluster12>>
+アトラクション, アニマルショー, キャラクターグリーティング
+top3 entities near to cluster16>>
+レストラン, ハンバーグ, バイキング
+top3 entities near to cluster19>>
+スタッフ, サービス, イベント
+top3 entities near to cluster20>>
+おすすめ, 見どころ, 見所
+top3 entities near to cluster22>>
+エリア, ペット, ホテル
+top3 entities near to cluster23>>
+子供, 子ども, 大勢
+top3 entities near to cluster24>>
+距離感, 罪悪感, 距離, 罪悪
+top3 entities near to cluster25>>
+予定, 時間, ため
+top3 entities near to cluster26>>
+感触, 感覚, 気分
+top3 entities near to cluster29>>
+想像, 期待
+top3 entities near to cluster33>>
+案内, 開催, 対応
+top3 entities near to cluster36>>
+金, 土, 谷
+top3 entities near to cluster37>>
+入口, 入り口, 出入り口
+top3 entities near to cluster40>>
+姿
+top3 entities near to cluster41>>
+人気, 元祖, 大人気
+top3 entities near to cluster44>>
+時間, 間, 半年
+top3 entities near to cluster46>>
+サル, リス, ゾウ
+top3 entities near to cluster49>>
+ゾウ, ネコ, ババ
+top3 entities near to cluster50>>
+入浴, 温泉, 湯
+top3 entities near to cluster51>>
+子供, 子ども, 親子
+top3 entities near to cluster53>>
+ボート, バス, ツアー
+top3 entities near to cluster54>>
+風呂, 食事, お湯
+top3 entities near to cluster55>>
+自分, 愛犬, 誰
+top3 entities near to cluster56>>
+写真, 土産, 土産物
+top3 entities near to cluster58>>
+動物, 植物, 生き物
+top3 entities near to cluster59>>
+動物園, 動物, 公園
+top3 entities near to cluster60>>
+餌, エサ, えさ
+top3 entities near to cluster61>>
+入場, 入園, 入館
+top3 entities near to cluster62>>
+バス, 送迎, 直通
+top3 entities near to cluster64>>
+施設, 設備, 宿泊
+top3 entities near to cluster66>>
+展示, 出展, 展覧
+top3 entities near to cluster67>>
+公園, 園内, 遊歩道
+top3 entities near to cluster68>>
+温室, フローラルプレイス, ガスインベントリ
+top3 entities near to cluster70>>
+狩り, 狩る, 狩っ
+top3 entities near to cluster71>>
+飼育, 飼う, 飼養
+top3 entities near to cluster72>>
+体験, 体験談, 体感

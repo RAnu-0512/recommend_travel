@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:臨済寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+拝観料, 拝観
+cluster1:(2)
+住宅地, 住宅街
+cluster2:(2)
+一般公開, 公開
+cluster3:(4)
+見どころ, 雰囲気, こども, 非公開
+cluster4:(2)
+こと, 場所
+cluster5:(2)
+辺り, 間
+cluster6:(2)
+左右, 右手
+cluster7:(1)
+幼少
+cluster8:(2)
+鯉, 池
+cluster9:(4)
+山門, 本堂, 参道, 寺
+cluster10:(1)
+城北公園
+cluster11:(1)
+今川家ゆかり
+cluster12:(1)
+駐車場
+cluster13:(2)
+家康公ゆかり, 家康
+cluster14:(2)
+徳川家康公ゆかり, 徳川家康
+cluster15:(2)
+静岡浅間神社, 竹千代時代
+
+howmany entities : 32
+howmany clusters : 16
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 24entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御嶽神社(東京都大田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京都, (o
+cluster1:(7)
+季節, 春, 花見, 秋, 時期, 桜, 満開
+cluster2:(13)
+場所, 夜, イベント, 隣, 奥行き, 木, 近く, ライト, イーオン, 周り, 雰囲気, 地元, イオン
+cluster3:(5)
+祭り, 御神輿, 盆踊り, おまつり, 彫刻
+cluster4:(9)
+人たち, 人, 価値, 感じ, 姿, 物語, 意外, 歴史, もの
+cluster5:(19)
+商店街脇, 木曽, 神社, 分社, 東急池上線, 霊山御嶽山, 山頂, 観光客, 駅, 参拝, 山武蔵御岳山, 御嶽神社, 江戸時代, おんたけ神社, 社殿, 御嶽山駅, 境内, 浦島太郎, 御嶽
+
+howmany entities : 55
+howmany clusters : 6
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 6
+deleted 0entities.

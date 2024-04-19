@@ -1,0 +1,15 @@
+--------------------similar_words:逢束あじさい公園--------------------
+top3 entities near to cluster1>>
+海沿い, 海岸沿い, 海岸, 海
+top3 entities near to cluster2>>
+紫陽花, 花, あじさい
+top3 entities near to cluster3>>
+近辺, 人達
+top3 entities near to cluster4>>
+群落, 公園, 群生
+top3 entities near to cluster5>>
+梅雨, 時期, 時季
+top3 entities near to cluster6>>
+工事, 新設, 建設
+top3 entities near to cluster7>>
+防止, 塩害, 防ぐ

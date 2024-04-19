@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旗洗池跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+池, 松, 白旗, 上洛
+cluster1:(3)
+い伝説, このち, 伝説
+cluster2:(15)
+傍ら, 碑石, 役, 子供, 各地, 事, 名前, ココ, 由来, 機会, 地名, 勉強, のち, あたり, 京王線
+cluster3:(2)
+ヶ谷, 八幡太郎
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:喰違見附跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+高台, 時間, ホテルニューオータニ, 見附, オータニ, 景色, 周り, 都心, 史跡
+cluster1:(2)
+説明板, 食違
+cluster2:(2)
+正門脇, 土塁
+cluster3:(2)
+井伊家屋敷跡, 岩倉具視
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

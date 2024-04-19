@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高田酒造>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+保護文化財, 観光地, 祝日限定
+cluster1:(4)
+米, 昼, 大阪, 県
+cluster2:(3)
+歴史, 味, 大人
+cluster3:(14)
+感じ, 日本, 中, 終了, オススメ, 文化財, メイン, 父, スペース, 大蓮寺, メニュー, 終わり, 方, 雰囲気
+cluster4:(1)
+庄屋
+cluster5:(9)
+建物, 一角, 空間, 一つ先, 目的, 敷地, 席, 西端, 場所
+cluster6:(1)
+広さ
+cluster7:(8)
+蕎麦屋, 此君(しくん), そば, ひわだ屋, 手打ち蕎麦, そば店, 手打ち蕎麦★, 蕎麦
+cluster8:(20)
+酒造, 醸造, 天保, 赤瓦, 酒蔵, 倉吉市, 江戸・天保, 酒, 〓お酒, 利き酒, 建造物保存地区, 打吹玉川, 蔵元, 聞き酒, 酒屋, 試飲, 老舗酒造所, 土蔵群, 高田酒造, 清酒
+
+howmany entities : 63
+howmany clusters : 9
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 9
+deleted 0entities.

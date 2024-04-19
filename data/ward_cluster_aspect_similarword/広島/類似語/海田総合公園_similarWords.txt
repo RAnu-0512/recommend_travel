@@ -1,0 +1,13 @@
+--------------------similar_words:海田総合公園--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 大人
+top3 entities near to cluster1>>
+箇所, 必要, 用途
+top3 entities near to cluster2>>
+滑り台, 遊具, すべり台
+top3 entities near to cluster3>>
+弁当, 持参, お握り
+top3 entities near to cluster4>>
+ソリ, そり, ウソラ
+top3 entities near to cluster5>>
+公園, 駐車, 遊具

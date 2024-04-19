@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:俥宿 天十平>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光地, 観光名所
+cluster1:(12)
+紅茶, 値段, 味, 人, メニュー, 雰囲気, 人力車, 話, 店内, 量, 時間帯, 建物
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

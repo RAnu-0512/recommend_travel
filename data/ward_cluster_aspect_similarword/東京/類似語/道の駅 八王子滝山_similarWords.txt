@@ -1,0 +1,21 @@
+--------------------similar_words:道の駅 八王子滝山--------------------
+top3 entities near to cluster2>>
+売り場, 目当て, 売場
+top3 entities near to cluster3>>
+ランチ, コース, ランチタイム
+top3 entities near to cluster4>>
+ラーメン, ソフトクリーム, コーヒー
+top3 entities near to cluster5>>
+交差点, 十字路, 三叉路
+top3 entities near to cluster6>>
+フード, コート, アーミーコート
+top3 entities near to cluster9>>
+駅道, 駅車, 駅
+top3 entities near to cluster10>>
+北端, 奥, 南端
+top3 entities near to cluster11>>
+臨時, 休憩, 安定
+top3 entities near to cluster12>>
+駐車場, 駐車, 混雑
+top3 entities near to cluster13>>
+天板, 天

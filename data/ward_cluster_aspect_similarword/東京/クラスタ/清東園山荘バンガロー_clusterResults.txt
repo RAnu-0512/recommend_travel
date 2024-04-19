@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清東園山荘バンガロー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川, 音
+cluster1:(2)
+バンガロー, キャンプ
+cluster2:(3)
+アドバイス, スタッフ, ロケーション
+cluster3:(1)
+テント
+cluster4:(1)
+トイレ
+cluster5:(1)
+想い出
+cluster6:(2)
+方, 近く
+cluster7:(2)
+東京, 自然
+cluster8:(3)
+施設全体, 子供たち, 設備
+cluster9:(1)
+清流沿い
+
+howmany entities : 18
+howmany clusters : 10
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巖流島渡船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+門司港, 門司港駅
+cluster1:(2)
+唐戸桟橋, 唐戸
+cluster2:(1)
+関門汽船下関乗り
+cluster3:(17)
+島, 船, 場, 潮風, 門司, 佐々木小次郎, 決戦, そば, カモンワーフ, 宮本武蔵, 方, 天気, 乗り放題券, 気持ち, 桟橋, 下関, 巌流島
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

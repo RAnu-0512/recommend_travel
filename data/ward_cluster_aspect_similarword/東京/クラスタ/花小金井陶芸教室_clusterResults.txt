@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花小金井陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+電動ろくろ, 電動ろ
+cluster1:(2)
+陶芸, 陶芸体験
+cluster2:(7)
+想像, 栄え, 体験, 作業, 手本, 経験, 練習
+cluster3:(6)
+最後, 家, 近く, 駅, そば, 自宅
+cluster4:(5)
+娘, 母, 先生, 親子, 妻
+cluster5:(10)
+小学生, 初心者, 作り方, 子ども, 色, 子供, 湯飲み, 仕上げ, プラン, プレゼント
+cluster6:(3)
+作品, 子供達, 先程作品
+cluster7:(7)
+息, 飲み, 皿, 呑み, 茶碗, 焼き上がり, フチ
+cluster8:(1)
+お得感
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安養寺(鳥取県米子市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+寺, 隠岐島, 後醍醐, 供, あんにょうじ, 娘, 中, 安養寺
+cluster1:(2)
+天皇, 親王
+cluster2:(1)
+鎌倉幕府
+cluster3:(1)
+歯型栗
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

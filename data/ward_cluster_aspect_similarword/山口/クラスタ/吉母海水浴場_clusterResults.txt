@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉母海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+波, 音
+cluster1:(8)
+時期, シーズン, 昔, 水, 日本海, 吉母, 海水浴, シーズンオフ
+cluster2:(5)
+砂浜, 漁船, 漁村, 港, 海水浴場
+cluster3:(1)
+響灘
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

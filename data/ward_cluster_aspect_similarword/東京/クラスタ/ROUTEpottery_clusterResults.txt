@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ROUTEpottery>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(54)
+出来上がり, 小学生, 作品, 初心者, 店, スタッフ, 場所, 最後, 店内, カフェ, 理想, 植物, 想像, 空間, 人, 費用, 陶芸, 子供, 上手, 商品, ところ, レベル, おかげ, 料金, 感じ, ブックカフェ, 形, 思い出, お気に入り, 希望, 指導, 機会, 友達, 好み, 店員, 予約, 価格, イメージ, 姉さん, 次, 居心地, アドバイス, 先生, 雰囲気, 友人, 陶器, サイズ, 説明, 満足, 作業, 仕上がりサイズ, 講師, もの, 色
+cluster1:(2)
+楽しさ, 楽しげ
+cluster2:(2)
+深さ, 高さ
+cluster3:(2)
+ろくろ体験, ろくろ
+cluster4:(4)
+完成度, どんぶり作り, 作品作り, 焼き上がり
+cluster5:(4)
+陶芸体験, 絵付け体験, 体験, 体験代
+cluster6:(1)
+陶庵
+
+howmany entities : 69
+howmany clusters : 7
+howmany entities (more than1entities) : 69
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:徳地串一帯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+林, 田畑
+cluster1:(2)
+蛍, 光
+cluster2:(3)
+川, 佐波川, ホタル
+cluster3:(1)
+所
+cluster4:(1)
+支流
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

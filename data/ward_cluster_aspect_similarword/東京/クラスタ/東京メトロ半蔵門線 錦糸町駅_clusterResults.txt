@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ半蔵門線 錦糸町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+どちらか, JR, 乗り換え, 直通
+cluster1:(2)
+東武スカイツリーライン, 東京メトロ半蔵門線
+cluster2:(4)
+駅, 錦糸町駅, 観光地, 駅構内
+cluster3:(1)
+北口南口
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

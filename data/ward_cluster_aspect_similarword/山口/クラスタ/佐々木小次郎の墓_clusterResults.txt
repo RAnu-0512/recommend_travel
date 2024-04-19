@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐々木小次郎の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墓, 墓近く
+cluster1:(13)
+中, 表示, こと, バイク, 車, 夫, 地, 佐々木小次郎, 切支丹, キリシタン, 道案内, 近く, 山
+cluster2:(2)
+潜伏, 決闘
+cluster3:(1)
+農道
+cluster4:(1)
+駐車場
+cluster5:(1)
+冥福
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

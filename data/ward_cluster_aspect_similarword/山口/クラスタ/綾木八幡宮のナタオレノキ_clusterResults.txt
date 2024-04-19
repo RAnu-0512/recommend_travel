@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:綾木八幡宮のナタオレノキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+姿, 迫力
+cluster1:(3)
+巨木, 枝, 綾木八幡宮
+cluster2:(1)
+樹高
+cluster3:(1)
+存在感
+cluster4:(1)
+美祢市
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

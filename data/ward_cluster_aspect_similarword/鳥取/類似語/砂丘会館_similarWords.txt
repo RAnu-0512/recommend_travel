@@ -1,0 +1,11 @@
+--------------------similar_words:砂丘会館--------------------
+top3 entities near to cluster0>>
+砂丘, 駅, 駅前
+top3 entities near to cluster1>>
+梨, 沙ゆり, 狩り
+top3 entities near to cluster2>>
+海鮮, 土産, 土産物
+top3 entities near to cluster4>>
+新鮮, 臭い
+top3 entities near to cluster5>>
+予定, 予約, 時間

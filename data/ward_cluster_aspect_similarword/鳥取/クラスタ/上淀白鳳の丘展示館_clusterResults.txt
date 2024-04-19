@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上淀白鳳の丘展示館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上淀白鳳の丘展示館, 伯耆古代の丘公園
+cluster1:(26)
+埴輪, 建物, 看板, 古墳時代, 壁画, 展示, 淀江駅, 石馬, 上淀廃寺, 信号, 解説板, 右, 上淀廃寺跡, 古代ロマンロード起点, 右手, 石柱, 自転車置き場, 廃寺跡, 突き当り, 展示全体, 白鳳高校, 寺, 方, 途中, 跡, 展示館
+
+howmany entities : 28
+howmany clusters : 2
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 2
+deleted 0entities.

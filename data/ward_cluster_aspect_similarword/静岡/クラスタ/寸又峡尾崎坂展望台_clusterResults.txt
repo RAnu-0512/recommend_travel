@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寸又峡尾崎坂展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+尾崎坂展望, 尾崎坂展望台, 尾崎坂
+cluster1:(2)
+紅葉, 季節
+cluster2:(3)
+景観, 景色, 絶景
+cluster3:(2)
+休憩, 疲れ
+cluster4:(5)
+途中, 画像, 中, 先, 場所
+cluster5:(4)
+トロッコ, 見晴らし, テーブル, 機関車
+cluster6:(3)
+ベンチ, 自販機, トイレ
+cluster7:(2)
+山歩き, 吊り橋
+cluster8:(1)
+自然
+cluster9:(1)
+階段
+cluster10:(1)
+簡易トイレ
+cluster11:(1)
+通行
+cluster12:(6)
+夢, 吊橋, 達成感, 展望, 展望台, 夢の吊り橋
+cluster13:(1)
+寸又峡
+cluster14:(1)
+尾崎坂展望台・飛龍橋・夢の吊り橋
+
+howmany entities : 36
+howmany clusters : 15
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 6
+deleted 12entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ディアナ号の錨>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+富士市, 下田, 戸田, 戸田港
+cluster1:(3)
+安政, 地震, 幕末
+cluster2:(6)
+ロシア, レプリカ, 日本, プチャーチン, いかり, プーチン
+cluster3:(3)
+人, 中, 話
+cluster4:(1)
+隅
+cluster5:(1)
+ディアナ号
+cluster6:(3)
+軍艦, 船, 錨
+cluster7:(4)
+みなと公園, 緑道公園, 三四軒屋, 三権茶屋緑道公園
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 6
+deleted 2entities.

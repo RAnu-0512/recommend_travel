@@ -1,0 +1,17 @@
+--------------------similar_words:清水門--------------------
+top3 entities near to cluster0>>
+田安門, 田安, 宇衛
+top3 entities near to cluster1>>
+石段, 階段, 石垣
+top3 entities near to cluster2>>
+印象, 面影, 趣き
+top3 entities near to cluster3>>
+門構え, 建物
+top3 entities near to cluster6>>
+幅, 奥行き, 巾
+top3 entities near to cluster8>>
+存在感, 存在, 否め
+top3 entities near to cluster9>>
+公園, 駅前, 駅
+top3 entities near to cluster10>>
+科学, 技術, 館

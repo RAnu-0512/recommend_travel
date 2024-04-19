@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:碁石が浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海岸, 浜, 浜辺
+cluster1:(2)
+石, 坂
+cluster2:(1)
+素足
+cluster3:(1)
+碁石
+cluster4:(11)
+車, 子供連れ, 注意, 普及, 混雑, 人, 代わりシュノーケリング, 場所, ネット, 穴場, 方
+cluster5:(1)
+浮き輪
+cluster6:(1)
+駐車場料金
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 6entities.

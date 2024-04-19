@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀山八幡宮(山口県下関市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 野球, 野球ボール
+cluster1:(2)
+直書き, 多さ
+cluster2:(4)
+ほう, こと, 感じ, 方
+cluster3:(7)
+前, 地元, 目, 近く, 側, 上, 人
+cluster4:(3)
+所, 種類, 場所
+cluster5:(18)
+ガソリンスタンド, 御朱印, 日本, 関, 海, 観光, ボール, 山, 自然, カモンワーフ, 八幡宮, 気持ち, 関門海峡, 鳥居, ふく, フグ, 心, 世界
+cluster6:(1)
+こいのぼり
+cluster7:(3)
+石像, 像, 銅像
+cluster8:(2)
+丘, 丘側
+cluster9:(2)
+階段, 石段
+cluster10:(3)
+景色, 眼下, 高台
+cluster11:(2)
+道, 国道
+cluster12:(2)
+仁徳天皇・武内宿禰, 八幡本宮・宇佐八幡宮
+cluster13:(14)
+本庁, 社格, 従業員, 別表神社, 参拝, 熊鷹稲荷神社, 主祭神, 神社, 参拝者, おかめ神社, 必勝祈願, 氏神, 境内, 境内社
+cluster14:(2)
+ふくの像, 世界一のふくの像
+cluster15:(2)
+球児たち, 高校球児たち
+cluster16:(10)
+山口県, 亀山宮, 下関駅, 県社, 下関港, 下関, 和布刈公園, 海峡まつり, 唐戸市場, 関門橋
+cluster17:(1)
+応神天皇・仲哀天皇・神功皇后
+
+howmany entities : 81
+howmany clusters : 18
+howmany entities (more than1entities) : 81
+howmany clusters (more than1entities) : 18
+deleted 0entities.

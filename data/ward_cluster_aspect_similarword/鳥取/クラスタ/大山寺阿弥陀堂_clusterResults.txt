@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山寺阿弥陀堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+大山, 登山, 参道, 大山寺, 大山寺阿弥陀堂, 天文
+cluster1:(16)
+パンフレット, 建立, 丈六, 建物, 時間, 姿, 文化財, 国, 堂, 修復, 時代, 阿弥陀堂, 多数, 本尊, 途中, 無事
+cluster2:(3)
+室町, 大治6, 室町時代
+cluster3:(5)
+慈覚大師, 天承元年, 夏山登山道, 木造弥陀如来, 阿弥陀三尊像
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 4
+deleted 0entities.

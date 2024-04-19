@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香山寺(静岡県伊豆の国市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+こと, 先, 場所, 教会, 石造り, 高台, 近く
+cluster1:(4)
+本堂, 門, 石段, 寺
+cluster2:(3)
+江川邸, 香山寺, 小さなお堂
+cluster3:(1)
+山木兼隆
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 1entities.

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妙法寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+存在感, 雄大さ, 広さ
+cluster1:(45)
+季節, 手前, 山, 日蓮宗, 地域, 意外, 駅, 道すがら, 世話, こと, 雰囲気, 地元, 多数, 頃, 建物, 門, 感じ, 高円寺, 名残, 質感, 装飾, 昔, アクセス, 他, ところ, 紅葉, 庭, 中, 利益, 所, 場所, 多く, 祭り, 厄除け, 人, 子供, 手入れ, 価値, 界隈, 奥, 車, 注意, 信仰, もの, 金
+cluster2:(2)
+つく日, 例年地元
+cluster3:(3)
+複数店舗, 用紙, 依頼内容
+cluster4:(4)
+杉並区, 和田3丁目, 青梅街道, 昭和記念公園
+cluster5:(3)
+環7, 環状線, 環
+cluster6:(9)
+東高円寺, 中野, 妙法寺, 日蓮上, 有吉佐和子, 大木, 追分, 堀之内妙法寺, 鍋横
+cluster7:(4)
+住宅地, 商店街, 露店商, 住宅街
+cluster8:(2)
+真盛寺, 祖師堂
+cluster9:(2)
+本堂裏手, 正面入口
+cluster10:(3)
+お寺, 寺, 寺院
+cluster11:(3)
+参道, 境内, 本堂
+cluster12:(2)
+碑, 墓地
+cluster13:(4)
+参拝, 出店, 初詣, 縁日
+cluster14:(2)
+厄年, 祓い
+cluster15:(1)
+聖地巡礼街歩き
+
+howmany entities : 92
+howmany clusters : 16
+howmany entities (more than1entities) : 92
+howmany clusters (more than1entities) : 16
+deleted 0entities.

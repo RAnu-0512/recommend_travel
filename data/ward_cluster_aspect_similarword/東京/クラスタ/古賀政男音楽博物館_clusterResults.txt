@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古賀政男音楽博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+作曲家, 生活, 生活風景, 曲, 名曲, 歌謡, 音楽, 作詞家, 大衆音楽
+cluster1:(2)
+井の頭通り, 上原
+cluster2:(2)
+家, 先生
+cluster3:(4)
+場所, 人, 近く, 方
+cluster4:(10)
+おすすめ, イベント, 内部, レコード, ホール, エレベータ, 博物館, 日本, 説明, コーナー
+cluster5:(3)
+年表, 再現, 展示
+cluster6:(9)
+カラオケ大会, 私邸, 昭和, 代々木上原駅, 歩道, 地下, 本部, 脇, 殿堂エリア
+cluster7:(1)
+けやきホール
+cluster8:(4)
+古賀政男音楽博物館, 著作権管理団体, 古賀邸, 古賀政男
+
+howmany entities : 44
+howmany clusters : 9
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 9
+deleted 0entities.

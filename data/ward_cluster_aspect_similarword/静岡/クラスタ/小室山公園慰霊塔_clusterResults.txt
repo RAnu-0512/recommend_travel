@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小室山公園慰霊塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+慰霊, 慰霊碑, 戦没者, 慰霊塔, 慰霊祭
+cluster1:(8)
+駐車場, 伊東市, 伊東線, アメリカ, 小室山公園レストハウス, 小室山公園, 近く, 塔
+cluster2:(1)
+戦没殉難者慰霊塔
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

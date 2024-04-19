@@ -1,0 +1,35 @@
+--------------------similar_words:西条酒蔵通り--------------------
+top3 entities near to cluster0>>
+土水, 土
+top3 entities near to cluster1>>
+蔵, 瓦, 赤
+top3 entities near to cluster2>>
+生酒, 原酒, 吟醸
+top3 entities near to cluster3>>
+酒粕, 甘酒, 粕汁
+top3 entities near to cluster5>>
+香り, 風情
+top3 entities near to cluster6>>
+美味, 美味しい, 贅沢
+top3 entities near to cluster7>>
+赤み, 青み, 黄み
+top3 entities near to cluster9>>
+機会, 時期, 目的
+top3 entities near to cluster11>>
+楽しい, 難い, 嬉しい
+top3 entities near to cluster12>>
+居酒屋, 地酒, 飲み屋
+top3 entities near to cluster13>>
+昼間, 休日, 週末
+top3 entities near to cluster14>>
+土産, 昼食
+top3 entities near to cluster15>>
+出張, 開催, 旅
+top3 entities near to cluster16>>
+散策, 休憩, 寄り道
+top3 entities near to cluster17>>
+駅, 駅前, 周辺
+top3 entities near to cluster18>>
+屋台街, 屋台店, 屋台
+top3 entities near to cluster19>>
+酒蔵, 蔵元

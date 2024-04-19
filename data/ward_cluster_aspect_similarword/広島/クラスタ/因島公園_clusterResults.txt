@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:因島公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+因島公園, 因島インター
+cluster1:(3)
+駐車場, 展望台, 対向車
+cluster2:(4)
+高速, 車, 道中, 道
+cluster3:(5)
+上り坂, ところ, 全て, 上, 価値
+cluster4:(11)
+雄大, 坂道, 桜, 高台, 空, 海, 景色, 山, 平地, 公園, 島々
+cluster5:(3)
+ホテルいん, あり 朝日, 朝日
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

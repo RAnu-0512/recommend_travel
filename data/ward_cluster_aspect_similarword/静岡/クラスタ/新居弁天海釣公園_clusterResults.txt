@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新居弁天海釣公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海湖館, 海釣公園
+cluster1:(2)
+カキフライ, 牡蠣
+cluster2:(2)
+牡蠣小屋, かき小屋
+cluster3:(5)
+目, 横, 表, 前, ぶり
+cluster4:(17)
+浜名湖, 時期, 家族, 出入口, 仕掛け, サビキ, プールサイド, 人, コンビニ, ロケーション, トイレ, スポット, 子供, 場所, 大ぶり, 冬, 方
+cluster5:(1)
+風邪
+cluster6:(10)
+魚, 新居インター, 釣り, 湖, 海釣り, エサ, 夕日, 海, 公園, 遊具
+cluster7:(8)
+子供連れ, 駐車場, 釣具屋, 使用料, 食事処, 食事, バーベキュー場, 温泉施設
+
+howmany entities : 47
+howmany clusters : 8
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 4
+deleted 7entities.

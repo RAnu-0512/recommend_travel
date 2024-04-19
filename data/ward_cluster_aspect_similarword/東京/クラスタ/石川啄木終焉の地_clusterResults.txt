@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石川啄木終焉の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+東京都, 石川啄木, 播磨坂, 文京区
+cluster1:(2)
+民割り, 住宅地
+cluster2:(3)
+歌碑, 石碑, 碑
+cluster3:(2)
+聖地, 終焉
+cluster4:(9)
+プレート, 最後, 近隣, 通りかかり目, 建物, 一角, 近く, しばり, 桜
+cluster5:(2)
+宿泊ホテル, 道案内表示
+cluster6:(5)
+高齢者施設, 接種, 資料室, ワクチン接種証明, 顕彰室
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

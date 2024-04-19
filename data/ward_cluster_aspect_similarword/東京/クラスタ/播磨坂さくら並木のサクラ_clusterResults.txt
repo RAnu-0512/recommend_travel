@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:播磨坂さくら並木のサクラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+小石川植物園, 文京さくらまつり, 坂, 播磨坂, 播磨坂さくら並木, 文京区
+cluster1:(38)
+開花, 春日通り, 夜桜, 場所, 歩道沿い, 公園, 東京, アクセス, 人気, 茗荷谷駅, 木, 近く, 樹, 車道沿い, 花見, 家族, 駅, 名所, 遊歩道, 時期, 歩道, 桜並木, シーズン, 両側, 下り坂, 花見客, 便, 真ん中, 桜, 次, ベンチ, 雰囲気, 東京メトロ, 側, 満開, 昼間, 交通, 並木道
+
+howmany entities : 44
+howmany clusters : 2
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 2
+deleted 0entities.

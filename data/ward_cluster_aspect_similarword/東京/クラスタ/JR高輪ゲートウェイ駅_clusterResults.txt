@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR高輪ゲートウェイ駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+コンビニ, 気, ベンチ, 店員, スターバックスコーヒー, 周り
+cluster1:(6)
+駅, 工事, 設計, 車両, 木材, 外観
+cluster2:(1)
+品川
+cluster3:(3)
+駅構内, 鉄道番組, 高輪ゲートウエイ駅
+cluster4:(1)
+隈研吾
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

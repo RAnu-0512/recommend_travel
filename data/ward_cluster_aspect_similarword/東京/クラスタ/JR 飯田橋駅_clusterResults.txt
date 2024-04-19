@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR 飯田橋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+傘, 雨天
+cluster1:(3)
+沿線, 駅, JR
+cluster2:(2)
+箇所, 階段
+cluster3:(9)
+向こう, 人, 神楽坂, 秋葉原, 食事, 市ヶ谷, 地下鉄, 乗り換え, 飯田橋
+cluster4:(1)
+仕事帰り
+cluster5:(1)
+東武東上線
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

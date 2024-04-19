@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取東照宮本殿、拝殿、幣殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+東照宮, 文化財, 本殿, 鳥取東照宮, 指定, 左甚五郎, 拝殿, 山間, 奥, 森, 建築物
+cluster1:(2)
+唐門, 幣殿
+cluster2:(1)
+樗谿公園
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

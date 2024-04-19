@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浦富海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+砂丘, 浦富砂丘, 海岸線, 海岸, 白砂浜, 海岸近く
+cluster1:(26)
+海水, エメラルドグリーン, 海上アスレチック, 幸, 浦富海岸, 海水浴, 日本, サーファー, 海, 遠浅, 夏, 関東, ビーチ, シャワー, 町, 波, 鳥取, 海水浴客, 島, シーズン, 魚, 東部, 民宿, 日本海, 岩, 砂浜
+cluster2:(3)
+納得, 綺麗さ, 努力
+cluster3:(2)
+碑, 記念
+cluster4:(15)
+水, 感じ, 方々, 目, 歴史, 町並み, 前, 人, 昔, 近く, 方, 雰囲気, 昔海水浴, 環境, 場所
+cluster5:(3)
+快晴, 灯り, 景色
+cluster6:(1)
+透明度
+cluster7:(1)
+林間学校
+cluster8:(1)
+一人
+cluster9:(4)
+入江状, 漂着物, イカ釣り, 入江
+cluster10:(5)
+海水浴場開場, 海水浴場, 駐車場, 鳥取&湯村温泉, 浦富海岸小栗浜海水浴場
+
+howmany entities : 67
+howmany clusters : 11
+howmany entities (more than1entities) : 67
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:目白の森--------------------
+top3 entities near to cluster0>>
+目白, 駅, 西武
+top3 entities near to cluster1>>
+住宅地, 住宅街, 住宅
+top3 entities near to cluster2>>
+都内, 都, 区内
+top3 entities near to cluster3>>
+都心, 都会, 田舎
+top3 entities near to cluster4>>
+季節, 時期, 雰囲気
+top3 entities near to cluster5>>
+森, 緑, 自然

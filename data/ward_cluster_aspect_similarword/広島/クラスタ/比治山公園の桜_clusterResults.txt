@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:比治山公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+桜, 見物客, 花見シーズン, 夜桜, 花見スポット, 花見
+cluster1:(2)
+広島市, 広島駅
+cluster2:(6)
+子供, 途中, 人, 多く, 近く, 周り
+cluster3:(5)
+スペース, ショッピングセンター, シーズン, 比治山公園, エスカレーター
+cluster4:(2)
+図書館, 美術館
+cluster5:(3)
+会社, 市, 場所
+cluster6:(1)
+木
+cluster7:(1)
+徒歩
+cluster8:(6)
+季節, 広場, 名所, 景色, 公園, 遊具
+cluster9:(1)
+中心部
+cluster10:(1)
+駐車場
+cluster11:(1)
+改装閉館
+
+howmany entities : 35
+howmany clusters : 12
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 12
+deleted 0entities.

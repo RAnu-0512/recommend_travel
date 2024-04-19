@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:目白通り歴史のプロムナード>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+石碑, 標柱, 跡, 日本赤十字社跡
+cluster1:(2)
+飯田橋駅, 地下鉄工事
+cluster2:(2)
+歴史のプロムナード, 歴史
+cluster3:(7)
+他, プロムナード, ネット, 数, 飯田橋, 勉強, 次
+cluster4:(3)
+地, 界隈, 発祥
+cluster5:(1)
+目白通り
+cluster6:(4)
+飯田町駅, 甲武鐡道, 東京農業大学開校の地, 東京女子医科大学発祥の地
+cluster7:(1)
+新選組屯所
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 8
+deleted 0entities.

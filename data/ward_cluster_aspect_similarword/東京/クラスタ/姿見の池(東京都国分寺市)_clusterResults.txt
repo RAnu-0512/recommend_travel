@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姿見の池(東京都国分寺市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+池, カモ, 野鳥, 水面, 鯉, 鴨
+cluster1:(2)
+勇士, 悲話
+cluster2:(14)
+恋ヶ窪, 子ども, 国分寺, 東京, カワセミ, 緑, ウォーキングコース, 源頼朝, 西国分寺, 雑木林, 遊歩道, ザリガニ, スポット, 姿見の池
+cluster3:(4)
+夫婦, 住民, 憩い, 年配
+cluster4:(3)
+由来, 地名, 歴史
+cluster5:(2)
+姿, 風情
+cluster6:(5)
+場所, 場, 周り, 中, 方
+cluster7:(1)
+散策スポット
+cluster8:(1)
+姿見
+cluster9:(7)
+遊女達, 子供連れ, 鎌倉時代, 遊女, 住宅街, 国分寺駅, 国分寺市
+cluster10:(3)
+源平合戦, 畠山重忠, 国分寺姿見の池緑地保全地域
+cluster11:(1)
+名湧水57選
+
+howmany entities : 49
+howmany clusters : 12
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 12
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井上靖文学碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+静岡, 沼津, 井上, カメラ撮影, ラブライブ, 碑文, 松原, 著名人, 公園, 中, 石碑, 碑, 文豪, ゆかり, キャラクターマンホール蓋, 思い
+cluster1:(3)
+井上靖文学碑, 文学者, 文学碑
+cluster2:(2)
+旧制沼津中学, 沼津東高校
+cluster3:(3)
+千本浜公園, 千本浜港口公園, 千本浜
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 2entities.

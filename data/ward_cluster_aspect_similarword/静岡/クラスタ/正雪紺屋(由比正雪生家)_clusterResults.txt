@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正雪紺屋(由比正雪生家)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+最後, 最寄り駅, 家, 内部, 悪人, 子, 雪, 人, 歴史, 出自, 場所, 生活, 時代
+cluster1:(3)
+生家, 名声, 家業
+cluster2:(1)
+乱
+cluster3:(3)
+慶安の変, 楠木流, 藍染め
+cluster4:(8)
+軍学, 幕府転覆, 時代劇, 江戸, 江戸幕府, 軍学者, 江戸時代, 転覆
+cluster5:(6)
+紺屋吉岡治右衛門, 正雪紺屋, 由比駅, 由比正, 由比正雪, 由比
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 1entities.

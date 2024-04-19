@@ -1,0 +1,29 @@
+--------------------similar_words:熱海温泉 湯宿一番地--------------------
+top3 entities near to cluster1>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster3>>
+貸切, 貸し切り, 貸切り
+top3 entities near to cluster4>>
+温泉, 露天風呂, 旅館
+top3 entities near to cluster5>>
+入浴, 湯船, 露天風呂
+top3 entities near to cluster6>>
+不安感, 不安, 物足りない
+top3 entities near to cluster16>>
+宿, 旅館, 宿泊
+top3 entities near to cluster19>>
+記載, 案内, 対応
+top3 entities near to cluster20>>
+接客, 電話, 仕事
+top3 entities near to cluster21>>
+女性, 男性, 男女
+top3 entities near to cluster22>>
+水風呂, 湯上がり, タオル
+top3 entities near to cluster24>>
+スタッフ, フロント, サービス
+top3 entities near to cluster28>>
+忘れ物, 買い物, 気兼ね
+top3 entities near to cluster29>>
+時間数, 全体, 時間
+top3 entities near to cluster31>>
+商店街, 商店

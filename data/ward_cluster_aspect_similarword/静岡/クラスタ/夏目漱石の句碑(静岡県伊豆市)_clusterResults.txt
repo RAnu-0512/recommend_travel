@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夏目漱石の句碑(静岡県伊豆市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+句碑, 詩碑, 石碑
+cluster1:(7)
+漢詩, 修善寺公園, 療養, 大患, 漱石, 心情, 修善寺
+cluster2:(1)
+修善寺転地療養
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 1entities.

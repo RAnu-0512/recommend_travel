@@ -1,0 +1,107 @@
+--------------------similar_words:上野恩賜公園--------------------
+top3 entities near to cluster0>>
+動物園, 公園, 動物
+top3 entities near to cluster1>>
+コース, ランチ
+top3 entities near to cluster2>>
+日差し, 陽射し, 日射し
+top3 entities near to cluster3>>
+イベント, イルミネーション, 見どころ
+top3 entities near to cluster4>>
+こころ, こども, ラムネ
+top3 entities near to cluster5>>
+乗り物, 新幹線, 食べ物
+top3 entities near to cluster6>>
+中学生, 小学生, 修学旅行
+top3 entities near to cluster7>>
+カフェ, 喫茶店, 屋台
+top3 entities near to cluster8>>
+シート, ボート, パンダ
+top3 entities near to cluster10>>
+外国人, 外国, 子供
+top3 entities near to cluster14>>
+遣っ, 遣う
+top3 entities near to cluster15>>
+印象, イメージ, 雰囲気
+top3 entities near to cluster17>>
+見, 並ぶ, 見学
+top3 entities near to cluster18>>
+秋, 冬, 春
+top3 entities near to cluster19>>
+周辺, 近辺
+top3 entities near to cluster20>>
+大勢, 人々, 人達
+top3 entities near to cluster21>>
+年間, 歴史, 年余
+top3 entities near to cluster23>>
+意外, 昔, 確か
+top3 entities near to cluster26>>
+明治, 幕末, 年代
+top3 entities near to cluster27>>
+憩い, 休憩, 処
+top3 entities near to cluster28>>
+コイ, アメ, カジ
+top3 entities near to cluster29>>
+弁当, おにぎり, 惣菜
+top3 entities near to cluster30>>
+パン屋, 靴屋, パン, 靴
+top3 entities near to cluster31>>
+屋台, 飲食, 出店
+top3 entities near to cluster32>>
+小雨, 気温
+top3 entities near to cluster33>>
+夕方, 時間, 昼
+top3 entities near to cluster34>>
+昼寝, 寝
+top3 entities near to cluster35>>
+食事, 宴会, 仕事
+top3 entities near to cluster36>>
+子供, 自然, 遊具
+top3 entities near to cluster37>>
+灯り, 明かり, 明り
+top3 entities near to cluster38>>
+社殿, 神社, 史蹟
+top3 entities near to cluster39>>
+坂道, 階段, 石段
+top3 entities near to cluster40>>
+脇道, 枝道
+top3 entities near to cluster41>>
+出口, 入口, 入り口
+top3 entities near to cluster42>>
+奥, 横, 手前
+top3 entities near to cluster43>>
+銅像, 胸像
+top3 entities near to cluster44>>
+身体
+top3 entities near to cluster45>>
+姿形, 姿
+top3 entities near to cluster46>>
+建物, 敷地, 施設
+top3 entities near to cluster47>>
+見所, 見どころ, 人出
+top3 entities near to cluster48>>
+都, 金, 土
+top3 entities near to cluster49>>
+蓮池, 寺池, 寺, 蓮
+top3 entities near to cluster50>>
+花, お花, 草花
+top3 entities near to cluster51>>
+苑, 郊楽
+top3 entities near to cluster52>>
+清水, 中里, 松原
+top3 entities near to cluster54>>
+湘学, 餓流
+top3 entities near to cluster57>>
+敬天, 愛人, 本妻
+top3 entities near to cluster58>>
+西郷, 隆盛, 従吾
+top3 entities near to cluster60>>
+桜, 満開, 夜桜
+top3 entities near to cluster61>>
+春, 桜, 花見
+top3 entities near to cluster62>>
+花見, 行楽, 観桜
+top3 entities near to cluster63>>
+公園, 広場, 噴水
+top3 entities near to cluster64>>
+芸術, 美術, 博物館

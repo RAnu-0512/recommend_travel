@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白市の町並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+戦国時代, 戦国時代に城下町, 江戸時代
+cluster1:(7)
+町, 平賀, こと, 情緒, 町並み, 昔, 契機
+cluster2:(3)
+白山城, 白市, 山陽本線白市
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

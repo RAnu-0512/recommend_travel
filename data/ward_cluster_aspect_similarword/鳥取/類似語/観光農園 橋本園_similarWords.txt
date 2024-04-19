@@ -1,0 +1,31 @@
+--------------------similar_words:観光農園 橋本園--------------------
+top3 entities near to cluster0>>
+梨, 沙ゆり, 狩り
+top3 entities near to cluster1>>
+時間数, 約数, 時間, 約
+top3 entities near to cluster2>>
+息子, 娘, 子供
+top3 entities near to cluster3>>
+シート, ベスト, 思い出
+top3 entities near to cluster4>>
+おなか, サクッ, オナカ
+top3 entities near to cluster5>>
+選び方, 使い方
+top3 entities near to cluster6>>
+もぐ, つっこむ, 理乃
+top3 entities near to cluster8>>
+土産店, 土産, 軒下
+top3 entities near to cluster9>>
+籠, かご, 砂丘
+top3 entities near to cluster11>>
+食べ放題, 食べ
+top3 entities near to cluster12>>
+体験, 体験談, 内容
+top3 entities near to cluster13>>
+収穫, 時期, 豊作
+top3 entities near to cluster14>>
+人数, 個数, 参加
+top3 entities near to cluster15>>
+入園料, 入場料, 入園, 入場
+top3 entities near to cluster16>>
+制限, 無, 時間

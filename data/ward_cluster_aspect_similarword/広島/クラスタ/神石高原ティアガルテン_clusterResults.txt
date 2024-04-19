@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神石高原ティアガルテン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+マナー違反, 体験型, 体験, 来訪者
+cluster1:(3)
+雪, 芝グラウンド, 雪まつり
+cluster2:(2)
+スタッフ, サービス
+cluster3:(2)
+ティアガルテン, ショートカット
+cluster4:(2)
+ピースワンコ, ボランティア
+cluster5:(4)
+ドッグラン, レストラン, ログハウス, ハンモック
+cluster6:(1)
+キャンプ
+cluster7:(2)
+ところ, サイト
+cluster8:(1)
+ワンコ
+cluster9:(3)
+滑り台, ロープ, テント
+cluster10:(1)
+鳴き声
+cluster11:(4)
+中, 方, 真横, 肝心
+cluster12:(1)
+気持ち良さ
+cluster13:(23)
+施設, 子, 昼, 犬, 子供, ワンコ連れ, 真夏, オートキャンプ場, 広場, 観光スポット, ヤギ, 散歩, 食後, 食事, 所, ワンコ同士コミュニケーション, 職員, 料金, 場所, 値段, 餌, 自然, 動物
+
+howmany entities : 53
+howmany clusters : 14
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 14
+deleted 0entities.

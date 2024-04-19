@@ -1,0 +1,15 @@
+--------------------similar_words:トウランティー--------------------
+top3 entities near to cluster0>>
+シール, ドリンク, クリーム
+top3 entities near to cluster1>>
+ミルク, タピオカ, 牛乳
+top3 entities near to cluster2>>
+ティー, ミルク, タピオカ
+top3 entities near to cluster3>>
+風味, コク, 甘み
+top3 entities near to cluster4>>
+体験, 店屋
+top3 entities near to cluster5>>
+茶, 葉, モエド
+top3 entities near to cluster6>>
+密閉, 蓋, 密封

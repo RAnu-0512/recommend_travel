@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観音水車でかまるくん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登り坂, 舗装路
+cluster1:(4)
+地域おこし協力隊, 来訪者, 車同士, 年配者
+cluster2:(3)
+訪問, 清掃, 雨天
+cluster3:(14)
+上り坂, 付近, 他, 幅, くん, 一帯, 奥, スペース, 方, 解説, 足元, 入口, 水, すれ違い
+cluster4:(1)
+山手
+cluster5:(1)
+要虫除けスプレー
+cluster6:(1)
+大きさ
+cluster7:(3)
+岩国市, 駐車場, 駐車スペース
+cluster8:(6)
+観音水車, 木造大水車, 大水車, 地底王国美川ムーバレー, 岩屋観音屈, 水車
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 9
+deleted 0entities.

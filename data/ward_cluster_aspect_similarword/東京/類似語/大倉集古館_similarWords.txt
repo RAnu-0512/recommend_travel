@@ -1,0 +1,27 @@
+--------------------similar_words:大倉集古館--------------------
+top3 entities near to cluster0>>
+展示, 出展, 収蔵
+top3 entities near to cluster1>>
+駅, 私立, 公立
+top3 entities near to cluster3>>
+地下, 地上, 階段
+top3 entities near to cluster4>>
+陶器, 陶磁器, 磁器
+top3 entities near to cluster5>>
+外観, 建物, 独特
+top3 entities near to cluster6>>
+国宝, 文化財, カリスマレジェンド
+top3 entities near to cluster7>>
+眺望, 景色, 見晴らし
+top3 entities near to cluster8>>
+鬼才, 奇才, 巨匠
+top3 entities near to cluster9>>
+多岐, 多種, 長い
+top3 entities near to cluster11>>
+美術品, 美術, 絵画
+top3 entities near to cluster12>>
+美術, 東洋, 工芸
+top3 entities near to cluster13>>
+水墨画, 水墨, 画壇
+top3 entities near to cluster14>>
+記念展, 生誕, 記念

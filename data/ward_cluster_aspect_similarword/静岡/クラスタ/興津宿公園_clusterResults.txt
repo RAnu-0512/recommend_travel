@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:興津宿公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+広重, 場所, 途中, 関, 興津川, 写真, 公園
+cluster1:(6)
+興津宗像神社, 脇本陣二か所, 甲州・駿河, 興津 興津川, 興津, JR興津駅
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

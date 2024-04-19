@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高村光太郎旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+森鴎外記念館, 夏目漱石猫, ファーブル昆虫館
+cluster1:(6)
+高村光雲, 島薗, 根津神社, 須藤公園, 高村光太郎, 文京区
+cluster2:(2)
+案内板, 案内看板
+cluster3:(2)
+住宅, 住宅街
+cluster4:(2)
+千駄木駅, 明治
+cluster5:(2)
+庭園, 邸宅
+cluster6:(5)
+手前, 場所, 家, 現住所, ガイドマップ
+cluster7:(1)
+居跡
+cluster8:(1)
+詩人彫刻家
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 9
+deleted 0entities.

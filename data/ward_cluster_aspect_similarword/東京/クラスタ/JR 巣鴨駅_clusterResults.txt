@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR 巣鴨駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, ターミナル駅
+cluster1:(1)
+JR
+cluster2:(1)
+改札
+cluster3:(2)
+タイミング, トイレ
+cluster4:(1)
+地下鉄
+cluster5:(1)
+感じ
+cluster6:(1)
+カラオケ屋
+cluster7:(1)
+着ぐるみ
+cluster8:(1)
+入場料
+
+howmany entities : 11
+howmany clusters : 9
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 9
+deleted 0entities.

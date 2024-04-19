@@ -1,0 +1,11 @@
+--------------------similar_words:本川小学校平和資料館--------------------
+top3 entities near to cluster0>>
+ゲン, ケン
+top3 entities near to cluster1>>
+資料, 館, 展示
+top3 entities near to cluster4>>
+投下, 捕捉, 投入
+top3 entities near to cluster5>>
+被爆, 原爆, 爆風
+top3 entities near to cluster6>>
+爆心, 原爆, 被爆

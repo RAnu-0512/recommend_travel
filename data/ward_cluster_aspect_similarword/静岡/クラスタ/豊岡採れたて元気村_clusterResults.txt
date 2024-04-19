@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊岡採れたて元気村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+麦飯ととろろ, 麦飯
+cluster1:(3)
+隣, 売店, 地元
+cluster2:(8)
+コロッケ, はしもと, レストラン, 値段, もの, とろろ, 時間, とろろセット
+cluster3:(4)
+産品, 新鮮野菜, 野菜, 農家
+cluster4:(1)
+駐車場
+cluster5:(1)
+取れたて野菜
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 4entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柳井ウェルネスパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+遊具, 大型遊具, 健康遊具, 大型複合遊具
+cluster1:(3)
+山口県, やまぐちフラワーランド, 柳井ウェルネス
+cluster2:(10)
+子供連れ, 子ども連れ, 小さい子, 子供達, 子, 家族連れ, 人たち, 子供たち, ファミリー客, 人
+cluster3:(2)
+アスレチック, スポーツ
+cluster4:(4)
+ウエルネスパーク, ウェルネスパーク, ウェルネス, ウォーキング
+cluster5:(1)
+グループ
+cluster6:(3)
+スポット, オススメ, おすすめ
+cluster7:(4)
+パーク, ウォーキングコース, 滑り台, プール
+cluster8:(1)
+テニスコート
+cluster9:(8)
+子供, 子ども, 子連れ, 家族, こども, 地元, 大人, 近く
+cluster10:(6)
+施設, 広場, 敷地, 公園, プール施設, 弁当
+cluster11:(5)
+印象, 遊ぶ場所, 場所, 天気, 気分
+cluster12:(4)
+芝生, 駐車場, 利用料, 芝生公園
+
+howmany entities : 55
+howmany clusters : 13
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 13
+deleted 0entities.

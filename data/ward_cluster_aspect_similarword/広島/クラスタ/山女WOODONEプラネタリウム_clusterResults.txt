@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山女WOODONEプラネタリウム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+学校, 夏休み, 子供, 人, プラネタリウム
+cluster1:(2)
+内容, 時間
+cluster2:(1)
+全国
+cluster3:(2)
+山陽女子, いた高校
+cluster4:(2)
+ぷらネタリム, 宮沢賢治
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:畑薙第一ダムの紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人, ワインディングロード
+cluster1:(1)
+紅葉
+cluster2:(1)
+奥地
+cluster3:(1)
+道幅
+cluster4:(1)
+静岡県道
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 6entities.

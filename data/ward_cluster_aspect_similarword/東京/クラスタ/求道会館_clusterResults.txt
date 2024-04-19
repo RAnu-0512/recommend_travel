@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:求道会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+建築物, 住宅街, 建築様式
+cluster1:(2)
+信仰, 仏教
+cluster2:(3)
+建物, 洋風, 外観
+cluster3:(12)
+場所, 浄土真宗, 内部, 裏, 東京大学, 場, 価値, 近く, 足, 西, スポット, 雰囲気
+cluster4:(1)
+本郷
+cluster5:(1)
+公衆
+cluster6:(4)
+会館, 求道会館, 大谷派, 近角常観
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 7
+deleted 0entities.

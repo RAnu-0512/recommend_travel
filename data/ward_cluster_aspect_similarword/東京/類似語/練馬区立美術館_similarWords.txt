@@ -1,0 +1,27 @@
+--------------------similar_words:練馬区立美術館--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 南口
+top3 entities near to cluster1>>
+広い, 狭, 狭い
+top3 entities near to cluster2>>
+田舎, 都会, 子供
+top3 entities near to cluster3>>
+公園, 道路, 入口
+top3 entities near to cluster4>>
+作品, 作家, 画家
+top3 entities near to cluster5>>
+美術館, 図書館, オブジェ
+top3 entities near to cluster8>>
+地元, 最寄駅, 最寄り
+top3 entities near to cluster9>>
+学校, 娘, 専用
+top3 entities near to cluster11>>
+絵画展, 展覧, 絵画
+top3 entities near to cluster12>>
+展示会, 展覧会, 展示, 展覧
+top3 entities near to cluster13>>
+展示, 展覧, 出展
+top3 entities near to cluster14>>
+駐車料, 入場料, 駐車, 入場
+top3 entities near to cluster15>>
+美術, 美術館, 現代

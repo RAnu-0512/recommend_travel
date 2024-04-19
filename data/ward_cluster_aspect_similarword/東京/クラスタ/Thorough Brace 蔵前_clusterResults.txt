@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Thorough Brace 蔵前>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(29)
+教室, 糸, 穴, 店, 機, レザークラフト体験, 紐, カフェ, 何か, 空き, ほか, ネット, 感じ, 道具, 質, レザークラフト特有, カードケース作り体験, レザークラフト, スマホショルダー, 予約, 時間, イタリアンレザー, 革製品, 友人, 革, 愛着, 商品クオリティ, もの, 色
+cluster1:(2)
+経年変化, 難易度設定
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 2
+deleted 0entities.

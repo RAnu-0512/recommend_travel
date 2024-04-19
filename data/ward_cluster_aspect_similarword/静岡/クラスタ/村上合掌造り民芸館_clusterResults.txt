@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:村上合掌造り民芸館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鍋田浜, 下田海浜
+cluster1:(4)
+館内, 見学, 建物, 宿泊
+cluster2:(6)
+人, 意図, 感じ, 中, 話, 方
+cluster3:(9)
+コロナ, ビーチ, ホテル, 入り口, 白川郷, 囲炉裏, おじさん, 伊豆下田, おっちゃん
+cluster4:(2)
+入口, 近く
+cluster5:(2)
+建築物, 合掌造り
+cluster6:(1)
+入場料
+cluster7:(1)
+村上合掌造り民芸館
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 8entities.

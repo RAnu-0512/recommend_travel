@@ -1,0 +1,47 @@
+--------------------similar_words:呉艦船めぐり--------------------
+top3 entities near to cluster0>>
+潜水艦, クジラ, 自衛隊
+top3 entities near to cluster1>>
+ツアー, ガイド, イベント
+top3 entities near to cluster2>>
+ケーキ, レモン, タルト
+top3 entities near to cluster4>>
+解説, 理解, 補足
+top3 entities near to cluster5>>
+満足, 期待, 興味
+top3 entities near to cluster7>>
+勧め, 奨め, 薦め
+top3 entities near to cluster8>>
+撮影, 写真, 撮っ
+top3 entities near to cluster9>>
+案内, 受付, 係員
+top3 entities near to cluster10>>
+仕事, 食事, 勉強
+top3 entities near to cluster11>>
+見学, 参加, 体験
+top3 entities near to cluster12>>
+降下, 下降, 急降下
+top3 entities near to cluster13>>
+話術, テクニック, 話し方
+top3 entities near to cluster14>>
+初日, 当日, 夕方
+top3 entities near to cluster16>>
+乗船, 船内
+top3 entities near to cluster17>>
+護衛艦, 護衛, 艦艇
+top3 entities near to cluster18>>
+機密, 国防, 軍事
+top3 entities near to cluster19>>
+軍艦, 海軍, 艦艇
+top3 entities near to cluster20>>
+空母, 戦艦, 母艦
+top3 entities near to cluster21>>
+潜水艦, リーマンチンポコ
+top3 entities near to cluster22>>
+海上, 自衛隊, 陸上
+top3 entities near to cluster23>>
+自衛官, 自衛, 自衛隊
+top3 entities near to cluster24>>
+館, くじら, 鉄
+top3 entities near to cluster26>>
+艦船, 艦艇, 軍艦

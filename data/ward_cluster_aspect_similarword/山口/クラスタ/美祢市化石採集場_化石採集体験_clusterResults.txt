@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美祢市化石採集場_化石採集体験>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+意外, イメージ, 小学生, 手, 息子
+cluster1:(2)
+化石, 昆虫
+cluster2:(1)
+化石掘り
+cluster3:(1)
+美祢歴史民俗資料館
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

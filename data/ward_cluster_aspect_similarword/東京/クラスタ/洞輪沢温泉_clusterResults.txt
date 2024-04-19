@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:洞輪沢温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+洞輪沢漁港, 洞輪沢
+cluster1:(19)
+漁港, 確認, 温泉量, 石鹸&シャンプー, 傍, エメラルドグリーン, 泉温, ロッカー, 入浴, 浴室, 温泉, 車, 海面, 管理人, 脱衣所, 利用者数, 源泉, 源泉かけ, 清掃
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

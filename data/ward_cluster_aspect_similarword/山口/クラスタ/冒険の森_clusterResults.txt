@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:冒険の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+滑り台, ローラー滑り台
+cluster1:(2)
+子供, こじんまり
+cluster2:(1)
+遊具
+
+howmany entities : 5
+howmany clusters : 3
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 3
+deleted 0entities.

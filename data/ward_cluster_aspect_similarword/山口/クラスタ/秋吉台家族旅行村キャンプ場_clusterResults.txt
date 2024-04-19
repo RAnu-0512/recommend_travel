@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋吉台家族旅行村キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+多く, 自然, 気, 人
+cluster1:(11)
+アスレチック, サイト, レンタル, 車, 貸し出し, 夏休み, ベースキャンプ, オートキャンプ, ケビン, バーベキューセット, キャンプ
+cluster2:(1)
+虫
+cluster3:(1)
+キャンプ場
+cluster4:(2)
+遊具, 子供達
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉祥寺シアター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+吉祥寺駅, 駅, 方面
+cluster1:(11)
+カフェ, 吉祥寺, ダンス, シアター, 感じ, こじんまり, 小さめ, 居心地, スポット, 雰囲気, 吉祥寺シアター
+cluster2:(5)
+人, 近く, 若者, 友人, 左側
+cluster3:(1)
+伝統
+cluster4:(1)
+新宿
+cluster5:(1)
+何処か
+cluster6:(8)
+劇団, 舞台, 演劇, 現代演劇, 公演, 劇, 武蔵野市立吉祥寺シアター, 劇場
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 7
+deleted 0entities.

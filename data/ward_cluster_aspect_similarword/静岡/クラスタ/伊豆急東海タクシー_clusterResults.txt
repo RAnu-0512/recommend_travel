@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆急東海タクシー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+客, 社員教育, 観光地, 従業員, 観光客, 観光
+cluster1:(3)
+対応, 運転手, 電話対応
+cluster2:(16)
+最後, 目, タクシー, 支払い, リフォーム, 飼い主, 母さん, フツー, 打ち合わせ, 行き先, 次, 伊豆高原, 過去マナー, 孫, 旅, 移動
+cluster3:(12)
+事, 部分, 顔, 金額, こと, 目線, 人, 感じ, 画面, 距離, 匂い, 方
+cluster4:(9)
+東海タクシー, 送迎, 会社, 伊豆, ワンコ連れ, タクシー会社, 伊豆稲取駅, 別荘, 町
+cluster5:(4)
+決済, 不足分追加, 決済ボタン, キャッシュレス決済
+
+howmany entities : 50
+howmany clusters : 6
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 6
+deleted 0entities.

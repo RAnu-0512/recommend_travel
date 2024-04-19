@@ -1,0 +1,17 @@
+--------------------similar_words:洗足池--------------------
+top3 entities near to cluster0>>
+洗足, 駅, 公園
+top3 entities near to cluster3>>
+ボート, カヌー, スワン
+top3 entities near to cluster4>>
+公園, 境内, 散策
+top3 entities near to cluster5>>
+紅葉, 季節, 桜
+top3 entities near to cluster6>>
+袈裟, 日蓮, 本尊
+top3 entities near to cluster7>>
+弁天堂, 松堂, 弁天, 松
+top3 entities near to cluster9>>
+家族連れ, 家族, 土産
+top3 entities near to cluster11>>
+こぎ, 漕ぎ, 舟

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江戸川公園のさくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東西に細長い公園, 緑が青空
+cluster1:(2)
+サラダ専門店, 仕事帰り
+cluster2:(2)
+川沿い, 川
+cluster3:(14)
+時季, 帰り道, 人, さくら, ところ, 江戸川, 人々, 神田川, 桜並木, シーズン, 地下鉄, 江戸川橋, 雰囲気, もの
+cluster4:(2)
+江戸川橋駅, ホテル椿山荘
+cluster5:(4)
+北側, 近く, 自宅, 側
+cluster6:(2)
+東京, 西
+cluster7:(1)
+上流
+cluster8:(1)
+橋上
+cluster9:(5)
+公園, 花見, 江戸川公園, 桜, 桜花
+
+howmany entities : 35
+howmany clusters : 10
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:品川セントラルガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+都会, 空間, ファストフード店, 公園, ビル, 道路
+cluster1:(3)
+緑, 晴れ, 桜
+cluster2:(10)
+場所, 人, 間, ビルディング, オブジェ, ランチ, シーズン, ベンチ, 春先, 注意
+cluster3:(1)
+喫煙所
+cluster4:(7)
+港南口, 高層ビル群, 品川インターシティ, 品川グランドコモンズ, 品川駅, JR品川駅, 高層ビル
+
+howmany entities : 27
+howmany clusters : 5
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花市生花店(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+花市, お花屋, 花屋, 生花店, お花
+cluster1:(7)
+看板建築, 昭和, 見応え, 歴史, 造り, 外観, 建物
+cluster2:(1)
+江戸東京たてもの園
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

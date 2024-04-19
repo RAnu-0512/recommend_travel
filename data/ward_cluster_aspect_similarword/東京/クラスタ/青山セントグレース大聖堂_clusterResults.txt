@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青山セントグレース大聖堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+グレース大聖堂, 聖堂
+cluster1:(4)
+式場, 結婚式場, 親族, 新婦
+cluster2:(5)
+場所, 食事, 建物, 写真, 方
+cluster3:(3)
+スタッフ, ティファニー, ゲスト
+cluster4:(3)
+引き出物, 結婚式, ドレス
+cluster5:(1)
+表参道
+cluster6:(1)
+東京
+cluster7:(1)
+主役
+cluster8:(1)
+全身
+cluster9:(1)
+ソロ
+cluster10:(6)
+費用, 枚数, 立地, 連絡, 在庫, 対応
+cluster11:(1)
+青山セント
+
+howmany entities : 29
+howmany clusters : 12
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 12
+deleted 0entities.

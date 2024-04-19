@@ -1,0 +1,19 @@
+--------------------similar_words:舎人公園--------------------
+top3 entities near to cluster0>>
+施設, 家族, 子供
+top3 entities near to cluster1>>
+ソリ, 滑り, 滑っ
+top3 entities near to cluster2>>
+バーベキュー, テニス, ピクニック
+top3 entities near to cluster4>>
+次男, 長男, 三男
+top3 entities near to cluster5>>
+大人, 子供, 子ども
+top3 entities near to cluster6>>
+家族, 親族
+top3 entities near to cluster7>>
+飼い犬, ワンコ
+top3 entities near to cluster8>>
+公園, 木々, 桜
+top3 entities near to cluster9>>
+公園, 広場, 河川敷

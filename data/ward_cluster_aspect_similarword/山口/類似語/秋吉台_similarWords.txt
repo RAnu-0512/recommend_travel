@@ -1,0 +1,51 @@
+--------------------similar_words:秋吉台--------------------
+top3 entities near to cluster0>>
+花火, 大会, 打ち上げ花火
+top3 entities near to cluster1>>
+バス, 停留所, バス停
+top3 entities near to cluster3>>
+丘陵地, 目的地, 丘陵, 目的
+top3 entities near to cluster4>>
+散歩, 土産, 散策
+top3 entities near to cluster5>>
+国定, 有数, 公園
+top3 entities near to cluster6>>
+景色, 風景, 季節
+top3 entities near to cluster7>>
+道路, 車道
+top3 entities near to cluster8>>
+日, 夕方, 午後
+top3 entities near to cluster9>>
+前回, その後, 先日
+top3 entities near to cluster11>>
+回目, 回, 目今
+top3 entities near to cluster12>>
+違う別, 別々, 違う
+top3 entities near to cluster13>>
+近辺, 辺り
+top3 entities near to cluster14>>
+合間, 連休, 真っ最中
+top3 entities near to cluster15>>
+人々, 人達, 周囲
+top3 entities near to cluster17>>
+草原, 岩山, 岩
+top3 entities near to cluster18>>
+鍾乳洞, 洞窟, 洞穴
+top3 entities near to cluster19>>
+石灰岩, 石灰石, 鍾乳石
+top3 entities near to cluster20>>
+山焼き, 野焼き, 雲月山
+top3 entities near to cluster21>>
+バイク, クルマ, 景色
+top3 entities near to cluster22>>
+ルート, 経路, ドライブ
+top3 entities near to cluster23>>
+コース, フォレストコース, ドライビングコース
+top3 entities near to cluster24>>
+アイス, アイスクリーム, ソフトクリーム
+top3 entities near to cluster26>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster27>>
+展望台, 展望, 瞻星台, 瞻星
+top3 entities near to cluster28>>
+秋芳, 洞, 忘帰

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉祖神社の社叢>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スダジイ, モチノキ
+cluster1:(1)
+スポット
+cluster2:(2)
+緑, 植物
+cluster3:(1)
+大木
+cluster4:(1)
+陰
+cluster5:(1)
+駐車場
+cluster6:(1)
+玉祖神社
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

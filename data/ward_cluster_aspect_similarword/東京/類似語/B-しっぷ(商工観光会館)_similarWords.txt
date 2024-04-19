@@ -1,0 +1,9 @@
+--------------------similar_words:B-しっぷ(商工観光会館)--------------------
+top3 entities near to cluster0>>
+協会, 振興, 連盟
+top3 entities near to cluster1>>
+写真絵, 建物, 写真
+top3 entities near to cluster2>>
+窓口, 協会, 拠点
+top3 entities near to cluster3>>
+B, A, E

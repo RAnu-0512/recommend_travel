@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩・明倫学舎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+ショップ, 雛人形, 観光拠点, 土産, 展示, 観光インフォメーションセンター, イベント, 場所, レストラン, 資料, ビジターセンター, 駐車場, 館内
+cluster1:(6)
+古き雛たち, 木造校舎, 萩, 明倫小学校, 校舎, 萩城下
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

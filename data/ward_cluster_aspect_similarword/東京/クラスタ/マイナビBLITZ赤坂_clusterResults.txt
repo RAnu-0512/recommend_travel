@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マイナビBLITZ赤坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+赤坂, 赤坂サカス, 赤坂ブリッツ, 赤坂駅
+cluster1:(21)
+周囲, 正面, TBS, 木々, マイナビがネーミングライツ, メイン, 大型ボード, アクセス, ライブ, 公演, 感じ, 意外, 千代田線, 番組宣伝, 落語, キャパ, 施設, 営業, ライブハウス, 東京メトロ, 運営
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 2
+deleted 0entities.

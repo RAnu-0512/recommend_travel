@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稚児公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+近く, 感じ, 人, 場所, 昔, 森, グリンピア
+cluster1:(5)
+遠足, 花見, 整備, 桜, 公園
+cluster2:(1)
+呉市
+cluster3:(1)
+つつじ・ふじ・桜
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

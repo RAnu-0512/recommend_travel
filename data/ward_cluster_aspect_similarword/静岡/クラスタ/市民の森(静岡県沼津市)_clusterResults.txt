@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:市民の森(静岡県沼津市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+秋, 森, ハイキング, キャンプ, ところ, ウォーキング, テント, バーベキュー, 夏休み
+cluster1:(8)
+敷地, 記念, キャンプ場, 市, 時間, 広場, 場所, 施設
+cluster2:(1)
+混雑
+cluster3:(1)
+沼津市
+cluster4:(1)
+展望台
+cluster5:(1)
+敷地面積
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 4entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渋谷区観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+観光案内所, 外国人観光客, 旅行者, 情報・駅, 観光協会
+cluster1:(2)
+マークシティ, 渋谷マークシティ
+cluster2:(2)
+渋谷駅, 渋谷区
+cluster3:(3)
+案内図, 案内, 作成
+cluster4:(12)
+場所, MAP, ネットスペース, マップ, ファミリーマート, 近く, ガイドブック, パンフ, 直結, チラシ, 博物館, 美術館
+cluster5:(3)
+外国, 語, 英
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

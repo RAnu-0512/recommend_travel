@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桐の博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+花嫁道具, 北側, 箪笥, 老舗, 香り, 物入れ, 商品, 実家, 近く, 興味, 博物館, セット, たもと, 中, 方, 心地, ギャラリー, 店内, 着物
+cluster1:(2)
+二之橋, 清澄通り
+cluster2:(8)
+桐箪笥, 江戸線両国駅, 桐の博物館, 桐たんす, 桐屋田中, 桐専門店, 桐製品, 桐
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 3
+deleted 0entities.

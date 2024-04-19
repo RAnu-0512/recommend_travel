@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:板祐生コレクション>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+板佑生コレクション, 祐生
+cluster1:(20)
+生涯, 作品, 展示, 説明, 芸術家, コレクション, 興味, 観光スポット, 美術, 先生, 人, 案内, 芸術, 数々, アート, 展示物, 金, 国内, 館長, 場所
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,71 @@
+--------------------similar_words:渋谷東急REIホテル--------------------
+top3 entities near to cluster0>>
+野菜, 豚肉, 肉
+top3 entities near to cluster1>>
+レモン, レモンジュレ, 愁沙
+top3 entities near to cluster2>>
+ジュース, アイス, 飲み物
+top3 entities near to cluster3>>
+ロース, ロティ, サガリステーキ
+top3 entities near to cluster5>>
+パイン, ピンク, オリーブ
+top3 entities near to cluster6>>
+チーズ, バター, ライス
+top3 entities near to cluster7>>
+トマト, ほうれん草, サラダ
+top3 entities near to cluster8>>
+雰囲気, 気持ち, 色合い
+top3 entities near to cluster9>>
+デザート, スィーツ, スイーツ
+top3 entities near to cluster10>>
+アンチョビパスタ, ジェノベーゼ, パスタ
+top3 entities near to cluster11>>
+ターキーサンドイッチ, サンドイッチ, ミニバーガー
+top3 entities near to cluster12>>
+リピート, リピ, ・・リピート
+top3 entities near to cluster13>>
+じゃがいも, ジャガイモ, グラタン
+top3 entities near to cluster14>>
+レストラン, カフェ, ホテル
+top3 entities near to cluster15>>
+素材, コース, フリー
+top3 entities near to cluster16>>
+パン, パン粉, 食パン
+top3 entities near to cluster17>>
+入り, レモン, 入っ
+top3 entities near to cluster18>>
+オイル, オリーブ, プライマリーオイル
+top3 entities near to cluster19>>
+パスタ, クリーム, スパゲティ
+top3 entities near to cluster20>>
+パスタ, スパゲティ, スパゲッティ
+top3 entities near to cluster21>>
+ランチ, パスタ, ランチタイム
+top3 entities near to cluster22>>
+スープ, サラダ, ポタージュ
+top3 entities near to cluster23>>
+ホット, サンド, ミルク
+top3 entities near to cluster24>>
+ティー, ミルク, バッグ
+top3 entities near to cluster25>>
+パイ, セン, ラズベリー
+top3 entities near to cluster26>>
+ごま, 胡麻, アイス
+top3 entities near to cluster28>>
+威圧感, 罪悪感, 威圧, 罪悪
+top3 entities near to cluster30>>
+駅, 駅前, 東急
+top3 entities near to cluster31>>
+電波, 電気, 衛生
+top3 entities near to cluster32>>
+高級, 和風, 贅沢
+top3 entities near to cluster33>>
+ご飯, 主食, 食事
+top3 entities near to cluster34>>
+香り, 風味
+top3 entities near to cluster36>>
+期間, 限定, 時間
+top3 entities near to cluster37>>
+店員, 店内
+top3 entities near to cluster38>>
+従業員, 従業, 男性

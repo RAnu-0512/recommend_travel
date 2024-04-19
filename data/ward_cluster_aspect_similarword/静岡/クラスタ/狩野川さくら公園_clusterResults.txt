@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狩野川さくら公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+河原, 守山, 北条, 西, 青葉
+cluster1:(4)
+満開, 見頃, 桜, 花見
+cluster2:(4)
+公園, 伊豆長岡駅, 丘陵, 屋台
+cluster3:(10)
+名, 方角, 狩野川, 人, ライト, 下旬, スポット, 場所, ゆかり, 季節
+cluster4:(2)
+駐車場, 韮山駅
+
+howmany entities : 25
+howmany clusters : 5
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 2entities.

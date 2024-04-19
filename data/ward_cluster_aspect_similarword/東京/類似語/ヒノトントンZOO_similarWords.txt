@@ -1,0 +1,21 @@
+--------------------similar_words:ヒノトントンZOO--------------------
+top3 entities near to cluster0>>
+動物園, 動物, 植物園, 植物
+top3 entities near to cluster1>>
+公園, 園内, 駐車
+top3 entities near to cluster2>>
+時間, 滞在
+top3 entities near to cluster5>>
+活気, 面影, 風情
+top3 entities near to cluster6>>
+シート, レジャー, パッセンジャーシート
+top3 entities near to cluster7>>
+幼稚園, 子ども, 保育園
+top3 entities near to cluster8>>
+ウサギ, カピバラ, ペンギン
+top3 entities near to cluster9>>
+入り口, アトラクション, コーナー
+top3 entities near to cluster10>>
+子供, 子ども, 園児
+top3 entities near to cluster11>>
+動物, 子供, 餌

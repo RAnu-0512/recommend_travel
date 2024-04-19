@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇倍神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(38)
+交差点, 感じ, 言葉, 次, 到着, 他, 垂れ幕, 方, 努力, 跡, 大勢, 立正佼成会, Googlemap, こと, 地, バス停, 参り, 事, 人, 宮ノ口, 雰囲気, 国分寺, お守り, 日本, 歴史, 昼間, 途中, お参り, ところ, 国, 地元, 山陰本線, 時代, 気持ち, 近く, 大臣, 時間, 場所
+cluster1:(11)
+左, 一宮, 神, 右, 角, 丘, 心, 下, 明治, 鳥居, 木
+cluster2:(3)
+厄, 命, 長寿
+cluster3:(2)
+金運, 所要時間
+cluster4:(3)
+利益, 距離, 台数
+cluster5:(2)
+紙幣, 図柄
+cluster6:(8)
+バス, 祈祷, そば, 教会, 行列, 初詣, 車, 屋台
+cluster7:(5)
+中河原方面, 観光地, 砂丘口, 道, 道なり
+cluster8:(1)
+高架沿い
+cluster9:(2)
+宿禰終焉, 武内宿禰
+cluster10:(5)
+参拝客, 参拝, 参拝者, おみくじ, 商売繁盛
+cluster11:(4)
+伊和神社, 宇倍神社, 別表神社, 中山神社
+cluster12:(2)
+社務所, 駐車場
+cluster13:(2)
+祭神, 御祭神
+cluster14:(2)
+階段, 石段
+cluster15:(3)
+拝殿, 本殿, 社殿
+cluster16:(2)
+境内, 神社
+cluster17:(10)
+鳥取, 因幡国庁, 立川5丁目, JR鳥取駅, 因幡国一, 鳥取県, 因幡国, ノ井駅, 因幡, 鳥取駅
+
+howmany entities : 105
+howmany clusters : 18
+howmany entities (more than1entities) : 105
+howmany clusters (more than1entities) : 18
+deleted 0entities.

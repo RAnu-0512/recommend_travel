@@ -1,0 +1,15 @@
+--------------------similar_words:旧湯川家屋敷--------------------
+top3 entities near to cluster0>>
+土水, 土
+top3 entities near to cluster1>>
+庭, 裏庭, 庭先
+top3 entities near to cluster3>>
+鯉, 川, 川筋
+top3 entities near to cluster4>>
+様式, 風情, 趣き
+top3 entities near to cluster5>>
+建物, 屋敷, 庭園
+top3 entities near to cluster6>>
+台所, 階段, 生活
+top3 entities near to cluster7>>
+風呂, 屋敷, 駐車

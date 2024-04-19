@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猿江御材木蔵跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+公園, 幕府, 中, 歴史, 標識, 材木蔵, 近く, 付近, 碑, 南側
+cluster1:(4)
+深川, 猿江公園, ティアラ江東, 木場
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

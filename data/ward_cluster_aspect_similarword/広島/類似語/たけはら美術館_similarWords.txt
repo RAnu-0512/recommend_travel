@@ -1,0 +1,11 @@
+--------------------similar_words:たけはら美術館--------------------
+top3 entities near to cluster0>>
+美術館, 国内, 近代
+top3 entities near to cluster1>>
+駅, 吉名, 駅前
+top3 entities near to cluster2>>
+大観, 菁児, 寅一郎
+top3 entities near to cluster3>>
+入館料, 入場料, 入館, 入場
+top3 entities near to cluster5>>
+総理, 内閣, 首相

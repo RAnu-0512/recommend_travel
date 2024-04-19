@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀井公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+関金温泉, お足湯, 湯関村古城跡, 温泉街
+cluster1:(2)
+倉吉市, 鳥飼旅館
+cluster2:(7)
+遊歩道入口, あたり, 遊歩道, 脇, 土橋, 井戸, 平地
+cluster3:(3)
+公園麓, 城跡, 亀井公園
+cluster4:(4)
+主郭, 案内板, 櫓風, 展望台
+cluster5:(1)
+延命茶屋
+cluster6:(1)
+竪堀
+cluster7:(1)
+関金温泉街東側裏山
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

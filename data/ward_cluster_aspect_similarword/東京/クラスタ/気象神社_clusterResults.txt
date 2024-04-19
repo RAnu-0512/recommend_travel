@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:気象神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+気象神社, 日本唯一の気象神社
+cluster1:(8)
+氷川神社, 隅, 御朱印, 撤去, 天気, 日本, デザイン, 神
+cluster2:(4)
+絵馬, 神社, 銅像, 謂れ
+cluster3:(4)
+高円寺駅, 構内, 鳥居近辺, 戦後偶然
+cluster4:(1)
+案内板
+cluster5:(1)
+参拝客
+cluster6:(1)
+帝国陸軍
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

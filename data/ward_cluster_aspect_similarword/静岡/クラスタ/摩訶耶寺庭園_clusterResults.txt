@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:摩訶耶寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+古庭園, 名勝 摩訶耶寺庭園, 庭園拝観, 池泉庭園, 摩訶耶寺庭園庭園, 中世庭園
+cluster1:(2)
+鎌倉時代前期, 江戸時代
+cluster2:(7)
+仏像, 摩訶耶寺, 本堂受付, 山門, 本堂, 境内, 寺
+cluster3:(9)
+作, 見ごたえ, 時期, 周囲, 夏, 場所, 冬, 時代, 方
+cluster4:(3)
+調和, 訪問, 散策
+cluster5:(13)
+ハス, 石組, 藤棚, 庭園, 水連, 築山, 庭, 花, 池, 水音, 水面, 岩, 滝
+cluster6:(2)
+駐車場, 入場料
+cluster7:(2)
+静岡県, 東名高速
+cluster8:(1)
+池泉座視鑑賞兼廻遊式蓬莱庭園
+
+howmany entities : 45
+howmany clusters : 9
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 5
+deleted 7entities.

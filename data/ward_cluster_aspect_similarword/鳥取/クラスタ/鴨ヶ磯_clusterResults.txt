@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鴨ヶ磯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+欠航, 遊覧船
+cluster1:(2)
+景色, 景観
+cluster2:(8)
+コース, 下, 浦富海岸, 車, 所, 予定, 遊歩道, 西コース
+cluster3:(3)
+海, 崖, 海岸
+cluster4:(2)
+強風, 波
+cluster5:(1)
+浦富
+cluster6:(1)
+海岸線
+cluster7:(1)
+駐車場
+cluster8:(1)
+鳥取&湯村温泉
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

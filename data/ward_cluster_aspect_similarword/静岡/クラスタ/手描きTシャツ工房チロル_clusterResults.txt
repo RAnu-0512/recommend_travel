@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手描きTシャツ工房チロル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+記念, 記念撮影
+cluster1:(3)
+絵柄作り, トートバッグ作り, 型紙
+cluster2:(20)
+最後, 絵, 手描きTシャツ, 子, 思い出, ポイント, 絵の具, スペース, 娘, チャレンジ親子, Tシャツ, 自宅, 型, 中, ワンコ, 作品, 旅, 夏休み, 方, 色
+cluster3:(6)
+空間, 入口, 店, 階段, 足, 場
+cluster4:(1)
+介助
+cluster5:(3)
+何か, 子供, 子供たち
+
+howmany entities : 35
+howmany clusters : 6
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 3entities.

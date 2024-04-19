@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士見櫓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東御苑, 皇居東御苑
+cluster1:(3)
+伏見櫓, 富士見櫓, 櫓
+cluster2:(6)
+富士山, 建物, ひとつ, 江戸城, 見ごたえ, 写真
+cluster3:(7)
+場所, 名, 近く, 時間, 中, 方, こと
+cluster4:(1)
+上手
+cluster5:(1)
+逆光
+cluster6:(6)
+南端, 本丸, 皇居, 奥, 再建, 柵
+cluster7:(1)
+広さ
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鍋島松濤公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高級住宅街, 住宅街
+cluster1:(2)
+高級住宅地, 住宅地
+cluster2:(2)
+鍋島松濤公園, 鍋島家
+cluster3:(2)
+渋谷, 渋谷駅
+cluster4:(2)
+松涛美術館, 松濤
+cluster5:(7)
+都会, 散策, 雑踏, 気分, 大群, 子供達, 風情
+cluster6:(4)
+中心, 周り, 方, 方々
+cluster7:(5)
+場所, 特徴, 感じ, こと, 部分
+cluster8:(16)
+オアシス, もみじ, 子ども, 隣, カラス, 人, ほとんど, 子供, ところ, 滑り台, 奥, 湧き水, 代々木公園, こじんまり, ベンチ, 雰囲気
+cluster9:(8)
+ミニアスレチック, 池, 緑, 樹, 鉄棒, P., 桜, 昼ごはん
+cluster10:(3)
+水車, 風車, 水車小屋
+cluster11:(2)
+公園, 自然公園
+cluster12:(2)
+遊具, 遊具施設
+cluster13:(1)
+地価
+cluster14:(2)
+高級感, 徒歩圏
+cluster15:(1)
+湧水池
+
+howmany entities : 61
+howmany clusters : 16
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 16
+deleted 0entities.

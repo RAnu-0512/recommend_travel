@@ -1,0 +1,81 @@
+--------------------similar_words:東京ステーションギャラリー--------------------
+top3 entities near to cluster0>>
+展覧, 個展
+top3 entities near to cluster1>>
+企画, 内容, 立案
+top3 entities near to cluster2>>
+企画展, 企画, 展示
+top3 entities near to cluster3>>
+美術, 作品, 展示
+top3 entities near to cluster4>>
+展示, 展覧, 出展
+top3 entities near to cluster5>>
+絵画, 画家
+top3 entities near to cluster6>>
+駅, 北口, 南口
+top3 entities near to cluster8>>
+階段, 石段, らせん
+top3 entities near to cluster9>>
+鉄道, 電車, 駅舎
+top3 entities near to cluster10>>
+入口, 横, 入り口
+top3 entities near to cluster11>>
+土産, おみやげ, 土産物
+top3 entities near to cluster12>>
+友人, 子供
+top3 entities near to cluster13>>
+二目, 二次, 二
+top3 entities near to cluster14>>
+雨降り, 小雨
+top3 entities near to cluster15>>
+・・レア, 希少, レアアイテム
+top3 entities near to cluster16>>
+丸, 丸い, まる
+top3 entities near to cluster17>>
+館内, 会場, 店内
+top3 entities near to cluster18>>
+建築, 建物, 都市
+top3 entities near to cluster19>>
+世界, 歴史, 空間
+top3 entities near to cluster20>>
+回廊, ルグルー, 廻廊
+top3 entities near to cluster21>>
+絵画, 画家
+top3 entities near to cluster22>>
+生誕, 創建, 建立
+top3 entities near to cluster23>>
+スマホ, スマフォ, ・・スマホ
+top3 entities near to cluster24>>
+見応え, 見ごたえ, 読み応え
+top3 entities near to cluster25>>
+ギャラリー, イベント, ショップ
+top3 entities near to cluster26>>
+ロッカー, 入り口, スリッパ
+top3 entities near to cluster27>>
+雰囲気, 小さめ, 大きめ
+top3 entities near to cluster28>>
+買い物, 買物, 買いもの
+top3 entities near to cluster29>>
+パート, アルバイト, パートタイマー
+top3 entities near to cluster30>>
+印象派, 絵画, アート
+top3 entities near to cluster31>>
+美術館, 博物館, めぐり
+top3 entities near to cluster32>>
+ちひろ, いわさき, 互野
+top3 entities near to cluster34>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster35>>
+混雑, 満員, 行列
+top3 entities near to cluster36>>
+日, 月, 原則
+top3 entities near to cluster37>>
+時間, 所要
+top3 entities near to cluster38>>
+休館, 開館, 閉館
+top3 entities near to cluster39>>
+壁, 煉瓦, レンガ
+top3 entities near to cluster40>>
+レンガ造り, レンガ作り, レンガ
+top3 entities near to cluster41>>
+観点, 本質

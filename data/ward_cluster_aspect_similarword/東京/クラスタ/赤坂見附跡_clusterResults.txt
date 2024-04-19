@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤坂見附跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+説明板, 永田町駅, 名所, 歩道, 散策スポット, 方面, 駅名
+cluster1:(25)
+途中, ホテル, 都会, 要塞, 城門, 場所, 草木, 現代, 一部, 城跡, 石垣, 交差点, 江戸城, 跡地, 姿, 堀, そば, 付近, 石, 紀尾井町, 永田町, 中, 歴史, スポット, 跡
+cluster2:(1)
+江戸時代
+cluster3:(8)
+赤坂, 平河町, 赤坂見附跡, 千代田区, 赤坂見附, 赤坂プリンス, 三十六見附, 見附
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 4
+deleted 0entities.

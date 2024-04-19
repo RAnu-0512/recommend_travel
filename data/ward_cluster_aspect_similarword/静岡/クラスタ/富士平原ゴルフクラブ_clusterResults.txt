@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士平原ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+御殿場, 富士山
+cluster1:(2)
+初心者, 気持ち
+cluster2:(7)
+アクセス, グリーン, レストラン, コース, ゴルフ, 東名高速道路, ホール
+cluster3:(1)
+スコア
+cluster4:(1)
+人気
+cluster5:(1)
+フェアウェイ
+cluster6:(5)
+所, ゴルフ場, こと, 感じ, 場所
+cluster7:(6)
+御殿場IC, 景観, 景色, 浴場, 風呂, 鉱泉
+cluster8:(3)
+富士平原ゴルフクラブ, 湧水, 鉱物質
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 7entities.

@@ -1,0 +1,101 @@
+--------------------similar_words:迎賓館--------------------
+top3 entities near to cluster0>>
+手荷物, 日本刀, 迎賓館
+top3 entities near to cluster1>>
+雰囲気, 佇まい, 趣き
+top3 entities near to cluster2>>
+ホテル, ランチ, レストラン
+top3 entities near to cluster3>>
+チェック, マスク, 非公開
+top3 entities near to cluster4>>
+ホテル, カフェ, スタッフ
+top3 entities near to cluster5>>
+写真, 撮影, 見学
+top3 entities near to cluster6>>
+ひさしぶり, 首位, ひさし
+top3 entities near to cluster7>>
+日分, 時間, 日
+top3 entities near to cluster8>>
+抽選, 引け, 列
+top3 entities near to cluster10>>
+時代, 現役, 歴史
+top3 entities near to cluster11>>
+間近, 直前, 目前
+top3 entities near to cluster16>>
+遣っ, 遣う
+top3 entities near to cluster17>>
+機会, チャンス, 好機
+top3 entities near to cluster18>>
+光景, 雰囲気, 風情
+top3 entities near to cluster20>>
+調度品, 豪華, 調度
+top3 entities near to cluster21>>
+正門, 入口
+top3 entities near to cluster22>>
+庭, 裏庭, 中庭
+top3 entities near to cluster23>>
+キズ, 傷, 擦り傷
+top3 entities near to cluster24>>
+菊池, 花池, 菊, 花
+top3 entities near to cluster25>>
+内装, 外観, 外装
+top3 entities near to cluster26>>
+敷地内, 施設内, 敷地, 施設
+top3 entities near to cluster27>>
+屋敷, 洋館, 城
+top3 entities near to cluster28>>
+天井, 壁, 屋根
+top3 entities near to cluster29>>
+和室, 空間, 続き間
+top3 entities near to cluster30>>
+広場, 噴水, 靴
+top3 entities near to cluster31>>
+宮殿, 王宮, バックキングカム
+top3 entities near to cluster32>>
+正面, 建物, 壁面
+top3 entities near to cluster33>>
+部屋, 寝室, 自室
+top3 entities near to cluster34>>
+館内, 園内, 場内
+top3 entities near to cluster35>>
+音声, ガイド, 通話
+top3 entities near to cluster36>>
+バス, ツアー, タクシー
+top3 entities near to cluster37>>
+バス, 周遊, タクシー
+top3 entities near to cluster38>>
+カー, キャンピング, 祝賀
+top3 entities near to cluster39>>
+外国, 各国, 政府
+top3 entities near to cluster40>>
+紀州, 豊臣, 家康
+top3 entities near to cluster42>>
+金属, 銀, 銅
+top3 entities near to cluster43>>
+紋, 紋章, 桐
+top3 entities near to cluster44>>
+洋, 和, 乃榎
+top3 entities near to cluster45>>
+武者, 鎧, 甲冑
+top3 entities near to cluster47>>
+赤, 白, 黒
+top3 entities near to cluster48>>
+建築, 西洋, 洋風
+top3 entities near to cluster49>>
+和風, 庭園, 洋風
+top3 entities near to cluster50>>
+本館, 別館, 新館
+top3 entities near to cluster51>>
+前庭, 中庭, 本館
+top3 entities near to cluster52>>
+入場, 入場券, 入館券, 入館
+top3 entities near to cluster53>>
+所要, 人数, 身分
+top3 entities near to cluster54>>
+公開, 一般, 発売
+top3 entities near to cluster55>>
+予約, 事前, 受付
+top3 entities near to cluster56>>
+見学, 視察, 展示
+top3 entities near to cluster57>>
+検査, 手荷物, 探知

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸山スポーツ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+土肥, 土肥温泉, 土肥桜
+cluster1:(8)
+桜, 樹齢, 古木, グランド, 途中, 横, テニスコート, 他
+cluster2:(2)
+恋人岬, 全天候型テニスコート
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

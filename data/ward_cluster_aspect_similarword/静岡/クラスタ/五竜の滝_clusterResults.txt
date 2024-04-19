@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五竜の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+合流点, 量, 支流, 水量
+cluster1:(2)
+噴火, 日本一の山
+cluster2:(14)
+雨, 水, 川, 黄瀬川, 音, 川遊び, 断崖, 富士山, スリル, 公園, 吊り橋, 中央公園, 佐野川, 滝
+cluster3:(11)
+車, 主人, 目, 所, 下, 日本, 付近, 次, 場所, 前, 方
+cluster4:(3)
+姿, 落差, 迫力
+cluster5:(1)
+五竜
+cluster6:(1)
+高さ
+cluster7:(2)
+溶岩流, 富士溶岩層
+cluster8:(3)
+静岡県, 裾野駅, 裾野市
+
+howmany entities : 41
+howmany clusters : 9
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 5
+deleted 6entities.

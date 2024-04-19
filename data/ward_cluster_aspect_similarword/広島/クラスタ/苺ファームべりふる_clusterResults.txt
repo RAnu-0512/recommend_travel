@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:苺ファームべりふる>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+出番, もの, 方, 対応, 体験, 客, 期待, 説明, 定番, 方々, 事, 予約, 方達, 必要, こと, 声
+cluster1:(2)
+椅子, 棚
+cluster2:(12)
+息子, 家, 残り, 車, 友達, 娘, 人, 他所, 時間, 他, 近く, 主人
+cluster3:(17)
+トイレ, 食べ頃, 出かけ, ハサミ, スーパー, マナー, ケース, タイマー, スタート, スタッフ, イチゴ, 赤, いちご, セット, ミルク, ハウス, プロ
+cluster4:(1)
+お腹
+cluster5:(3)
+注意喚起, 食べ放題, とお皿
+cluster6:(2)
+練乳, 練乳ミルク
+cluster7:(4)
+味, 甘味, 品種, 農園
+cluster8:(3)
+瞬間イチゴ, いちご狩り, 苺
+cluster9:(1)
+甘さ
+cluster10:(3)
+Cベリー, おいCベリー, 広島市
+cluster11:(1)
+無農薬
+cluster12:(1)
+従業員
+cluster13:(3)
+よつぼし, あまえくぼ, 摘みたて苺
+
+howmany entities : 69
+howmany clusters : 14
+howmany entities (more than1entities) : 69
+howmany clusters (more than1entities) : 14
+deleted 0entities.

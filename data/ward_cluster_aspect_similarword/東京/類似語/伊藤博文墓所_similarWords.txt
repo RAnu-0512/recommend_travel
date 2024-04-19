@@ -1,0 +1,11 @@
+--------------------similar_words:伊藤博文墓所--------------------
+top3 entities near to cluster0>>
+伊藤, 博文, 博幹
+top3 entities near to cluster1>>
+総理, 首相, 大臣
+top3 entities near to cluster4>>
+敷地, 庭, 境内
+top3 entities near to cluster5>>
+墓所, 別邸
+top3 entities near to cluster6>>
+駅, 駅前, 徒歩

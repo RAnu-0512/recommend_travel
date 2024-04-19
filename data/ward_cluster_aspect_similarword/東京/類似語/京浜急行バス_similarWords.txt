@@ -1,0 +1,19 @@
+--------------------similar_words:京浜急行バス--------------------
+top3 entities near to cluster0>>
+運転手, 運転, 同乗
+top3 entities near to cluster3>>
+人達, 大勢
+top3 entities near to cluster5>>
+出入り口, 乗り場, 乗り継ぎ
+top3 entities near to cluster6>>
+乗り継ぎ, 荷物, 乗客
+top3 entities near to cluster7>>
+京, 急, アニオリジナル
+top3 entities near to cluster8>>
+空港, バス, バスターミナル
+top3 entities near to cluster9>>
+空港, ターミナル, 乗り継ぎ
+top3 entities near to cluster10>>
+バス, 路線, タクシー
+top3 entities near to cluster11>>
+バス, 空港, リムジン

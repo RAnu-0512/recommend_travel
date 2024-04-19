@@ -1,0 +1,29 @@
+--------------------similar_words:有栖川宮記念公園--------------------
+top3 entities near to cluster0>>
+四季, 移ろい, 季節
+top3 entities near to cluster1>>
+緑, 木々, 里山
+top3 entities near to cluster2>>
+昆虫, カメ
+top3 entities near to cluster6>>
+川水, 川, 小川
+top3 entities near to cluster7>>
+桜, 梅, しだれ
+top3 entities near to cluster8>>
+カフェ, ランチ, レストラン
+top3 entities near to cluster10>>
+人々, 子供
+top3 entities near to cluster11>>
+庭園, 園内, 施設
+top3 entities near to cluster12>>
+景色, 風景, 気分
+top3 entities near to cluster13>>
+休憩, 憩い, 休息
+top3 entities near to cluster14>>
+散策, 散歩, 読書
+top3 entities near to cluster15>>
+弁当, 食堂, 定食
+top3 entities near to cluster16>>
+仕事, 休み
+top3 entities near to cluster18>>
+公園, 駅前, 駅

@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三朝温泉ふるさと健康むら喫茶サンテ・陶芸体験工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜村温泉, 三朝温泉
+cluster1:(6)
+感じ, もの, こと, 形, 理由, 物
+cluster2:(2)
+言葉, 説明
+cluster3:(1)
+願い
+cluster4:(3)
+値段, 色, 風
+cluster5:(2)
+指先, 感触
+cluster6:(1)
+器
+cluster7:(15)
+あがり, 手直し, タンブラー, スタッフ, 上がり, おちょこ, マグカップ, サポート, 思い出, 作り方, 銀婚式, やり方, フォロー, アドバイス, 思い入れ
+cluster8:(3)
+他, 中, 最後
+cluster9:(2)
+方, 人
+cluster10:(1)
+車
+cluster11:(1)
+プロ
+cluster12:(1)
+記念
+cluster13:(8)
+粘土, 作品, 先生, 講師, 土, 工房, 制作, 作業
+cluster14:(5)
+足湯, 交代, 配送, 手動, 移動
+cluster15:(10)
+妻, 子供たち, 夫婦, ふるさと健康村, 家族, 大人, 娘, 子ども, 子供, 旅行
+cluster16:(1)
+ろくろ
+cluster17:(16)
+お楽しみに, 何か, 陶芸づくり, 体験, 完成品, 時間, 体験者, 陶芸, 完成, 途中途中先生, 開始時間, 釉薬, 初体験, 陶芸体験, 楽しさ, 教え方
+
+howmany entities : 80
+howmany clusters : 18
+howmany entities (more than1entities) : 80
+howmany clusters (more than1entities) : 18
+deleted 0entities.

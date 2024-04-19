@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士築山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鳩森八幡神社, 夕暮れ迫る鳩森八幡神社
+cluster1:(5)
+趣き, 気, 感じ, こと, もの
+cluster2:(5)
+山, 千駄ヶ谷富士塚, 洞窟, 富士塚, 頂上
+cluster3:(2)
+ところ, 雰囲気
+cluster4:(3)
+オリンピック, 千駄ヶ谷, ミニチュア
+cluster5:(1)
+富士山
+cluster6:(1)
+ヒール
+cluster7:(2)
+周り, 中
+cluster8:(1)
+街
+cluster9:(1)
+都
+cluster10:(1)
+靴
+cluster11:(1)
+たけ
+cluster12:(1)
+藤塚
+cluster13:(13)
+千駄ヶ谷富士, 神社, 神社内, 登頂, 東郷神社, 富士信仰, 富士, 参拝, 都内最古, 江戸時代, 登山道, 境内, 登山
+
+howmany entities : 39
+howmany clusters : 14
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 14
+deleted 0entities.

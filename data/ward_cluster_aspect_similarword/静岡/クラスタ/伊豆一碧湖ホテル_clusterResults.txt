@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆一碧湖ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+調理器具, 洗浄便座
+cluster1:(26)
+食器, 一碧湖, 温泉, におい, 清掃, レストラン, ホテル, 料理, キッチン, 玄関, 鼻, 宿, 伊豆一碧湖, 造り, コンドミニアム形式, リビングダイニング, 禁煙, レベル, 食事, 魅力, 夫婦, トイレ, 部屋, 煙草, 劣化, 風呂
+
+howmany entities : 28
+howmany clusters : 2
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:多摩青梅七福神めぐり--------------------
+top3 entities near to cluster0>>
+様, さま, 坊
+top3 entities near to cluster1>>
+緑, 黄, 青
+top3 entities near to cluster3>>
+両親
+top3 entities near to cluster4>>
+庭, 神, 山
+top3 entities near to cluster5>>
+法要, 祭り, 菓子
+top3 entities near to cluster6>>
+演芸, 大会, 七福神
+top3 entities near to cluster7>>
+護摩, 炊き, 焚き

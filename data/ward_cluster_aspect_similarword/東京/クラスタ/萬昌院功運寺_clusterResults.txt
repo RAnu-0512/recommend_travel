@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萬昌院功運寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墓, 墓所
+cluster1:(3)
+見応え, 曹洞宗, 上高田
+cluster2:(2)
+寺, 境内
+cluster3:(1)
+中野
+cluster4:(1)
+吉良家
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

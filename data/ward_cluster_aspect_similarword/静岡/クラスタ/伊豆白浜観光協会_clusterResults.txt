@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆白浜観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+目, 前
+cluster1:(2)
+アロエ, 方
+cluster2:(1)
+職員
+cluster3:(1)
+旅行
+cluster4:(1)
+おススメ
+cluster5:(3)
+駐車場, 観光資料, 観光地
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 7entities.

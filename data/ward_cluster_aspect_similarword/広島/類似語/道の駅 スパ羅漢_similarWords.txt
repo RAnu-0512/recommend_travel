@@ -1,0 +1,17 @@
+--------------------similar_words:道の駅 スパ羅漢--------------------
+top3 entities near to cluster0>>
+温度, 気温, 室温
+top3 entities near to cluster2>>
+風呂, 露天, 清掃
+top3 entities near to cluster3>>
+駅, 売店, 土産
+top3 entities near to cluster4>>
+炭火, 七輪, 網焼き
+top3 entities near to cluster5>>
+クシ, 綿棒, マユハサミ
+top3 entities near to cluster6>>
+料金, 飲み物, サウナ
+top3 entities near to cluster7>>
+串, 団子, 串焼き
+top3 entities near to cluster8>>
+温泉, 湯, 入浴

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営三田線 内幸町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+開催, 参加
+cluster1:(5)
+芸術, 新橋, あゆみ, 飲み屋街, 日比谷公園
+cluster2:(1)
+皇居
+cluster3:(1)
+見学ガイドツアー
+cluster4:(1)
+渋谷区
+cluster5:(1)
+実践女子大学香雪記念資料館
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

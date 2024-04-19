@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱川湯の華ぱぁーく>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+駐車場, 伊豆急行線, 近隣, 伊豆熱川駅, 隣, パンフレット, 電車, 塩味, 訪問, 改札, 玄関口, コインパーキング, 勢い, 資料, 左手, 横, 駅, 湯気, 人, 歴史, ロータリー, 気持ち, サンダル, 広場, 駅ロータリー, トイレ, 途中下車, 塩, 場所, タオル
+cluster1:(4)
+観光施設, 観光, 観光センター, 観光案内所
+cluster2:(2)
+伊豆急行熱川駅, 熱川温泉
+cluster3:(4)
+温泉, 足湯, 温泉櫓, 温泉公園
+cluster4:(2)
+源泉, 源泉卵
+cluster5:(2)
+卵, 温泉卵
+cluster6:(1)
+湯の華ぱぁーく
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 3
+deleted 7entities.

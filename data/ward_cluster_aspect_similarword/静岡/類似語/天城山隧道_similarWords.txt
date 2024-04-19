@@ -1,0 +1,33 @@
+--------------------similar_words:天城山隧道--------------------
+top3 entities near to cluster0>>
+石造, 隧道, トンネル
+top3 entities near to cluster1>>
+隧道, トンネル, 坑口
+top3 entities near to cluster4>>
+入口, 駐車, 入り口
+top3 entities near to cluster5>>
+撮影, 撮る, 撮っ
+top3 entities near to cluster6>>
+運転, 車両
+top3 entities near to cluster7>>
+旧道, 林道, 山道
+top3 entities near to cluster9>>
+道路, 高速, 歩道
+top3 entities near to cluster10>>
+砂利道, 砂利, 山道
+top3 entities near to cluster11>>
+影響, 印象, 問題
+top3 entities near to cluster18>>
+趣き, 趣, 風情
+top3 entities near to cluster19>>
+時代, 人達, 戦前
+top3 entities near to cluster20>>
+電灯, 灯り, 照明
+top3 entities near to cluster21>>
+絶景, ビュースポット, カフェ
+top3 entities near to cluster22>>
+最長, 片道, 幅
+top3 entities near to cluster25>>
+景色, 風景, 静寂
+top3 entities near to cluster28>>
+空気感, 時間, 空気

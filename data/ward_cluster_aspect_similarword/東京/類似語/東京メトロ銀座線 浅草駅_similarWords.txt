@@ -1,0 +1,13 @@
+--------------------similar_words:東京メトロ銀座線 浅草駅--------------------
+top3 entities near to cluster2>>
+鬼瓦, 神輿, お神輿
+top3 entities near to cluster3>>
+駅街, 駅, 出入り口
+top3 entities near to cluster5>>
+外国人, 外国, 外人
+top3 entities near to cluster6>>
+行楽地, 名所, 行楽
+top3 entities near to cluster7>>
+地下鉄, 構内, 駅
+top3 entities near to cluster10>>
+繁華街, 繁華, 駅前

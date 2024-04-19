@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雄山(東京都三宅島三宅村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+壮大さ, 立ち入り禁止エリア, 大きさ
+cluster1:(3)
+匂い, 硫黄, 臭い
+cluster2:(4)
+景色, 迫力, 雄大, 景観
+cluster3:(4)
+稜線, 体力, 登山, 陸上
+cluster4:(3)
+活火山, おすすめ三宅島, 三原山
+cluster5:(5)
+最高峰, アクティビティ, マリンスポーツ, ハイキング, におい
+cluster6:(1)
+山
+cluster7:(1)
+東京
+cluster8:(6)
+島, 自然, 宿, 人, 家族, 風
+cluster9:(5)
+欠点, 場所, 内側, こと, 下
+cluster10:(1)
+お手洗い
+cluster11:(4)
+雄山, 噴火, 三宅村, 火山
+cluster12:(1)
+山手線
+cluster13:(1)
+七島展望台
+
+howmany entities : 42
+howmany clusters : 14
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 14
+deleted 0entities.

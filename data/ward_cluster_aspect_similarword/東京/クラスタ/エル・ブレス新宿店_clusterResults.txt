@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:エル・ブレス新宿店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新宿南口, 新南口
+cluster1:(4)
+エルブレス新宿店, 新宿区, 新宿駅, 新宿
+cluster2:(21)
+場所, アウトドアグッズ, 靴, アクセス, 旅行, キャンプ用品, アウトドア製品, スポーツ用品店, トレッキング用品, 装備, バーゲン品, 全般, 買い物, 店員, 製品, トレッキングシューズ, 登山グッズ, スポーツ用品, 専門店, フロア, アウトドア用品
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 3
+deleted 0entities.

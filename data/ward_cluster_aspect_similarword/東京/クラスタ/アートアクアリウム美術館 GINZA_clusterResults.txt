@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アートアクアリウム美術館 GINZA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+外国, 光
+cluster1:(2)
+銀座, 金魚
+cluster2:(8)
+写真, アクアリウム, 入場, 演出, 場所, 予約, 時間, 空間
+cluster3:(1)
+見え方
+cluster4:(1)
+時間帯
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

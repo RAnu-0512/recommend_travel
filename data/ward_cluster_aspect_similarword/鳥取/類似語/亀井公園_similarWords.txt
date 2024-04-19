@@ -1,0 +1,15 @@
+--------------------similar_words:亀井公園--------------------
+top3 entities near to cluster0>>
+温泉, 湯, 足湯
+top3 entities near to cluster2>>
+入口, 脇, 入り口
+top3 entities near to cluster3>>
+公園, 城跡, 城址
+top3 entities near to cluster4>>
+櫓, 展望
+top3 entities near to cluster5>>
+延命, 茶屋, 地蔵
+top3 entities near to cluster6>>
+堀, 掘, 置行
+top3 entities near to cluster7>>
+温泉街, 温泉, 裏山

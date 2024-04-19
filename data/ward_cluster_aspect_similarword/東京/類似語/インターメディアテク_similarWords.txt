@@ -1,0 +1,23 @@
+--------------------similar_words:インターメディアテク--------------------
+top3 entities near to cluster1>>
+多数, 一部, 大半
+top3 entities near to cluster3>>
+入口, 入り口, 裏手
+top3 entities near to cluster4>>
+子供
+top3 entities near to cluster5>>
+施設, 公共, 館内
+top3 entities near to cluster6>>
+恐竜, 動物
+top3 entities near to cluster7>>
+子連れ, ランチ, 夏休み
+top3 entities near to cluster9>>
+イベント, 雰囲気, レストラン
+top3 entities near to cluster10>>
+アート, 博物館, カメラ
+top3 entities near to cluster11>>
+見応え, 見ごたえ, 見所
+top3 entities near to cluster12>>
+手荷物, 荷物, バゲッジ
+top3 entities near to cluster15>>
+展示, 博物館, 施設

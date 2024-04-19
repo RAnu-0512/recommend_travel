@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:暁ふ頭公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, テレコムセンター駅
+cluster1:(3)
+夏, 海, 風
+cluster2:(9)
+場所, 東京湾, 人, アクセス, 子供, バイク, 家族, はじめ, 車
+cluster3:(1)
+空気
+cluster4:(3)
+公園, 散歩, 台場
+cluster5:(1)
+釣り人
+cluster6:(1)
+観光地
+cluster7:(1)
+暁ふ頭公園
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 8
+deleted 0entities.

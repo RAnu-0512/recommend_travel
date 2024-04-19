@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田原温泉5000年風呂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小学校校舎, 校舎
+cluster1:(2)
+施設, 設備
+cluster2:(2)
+こと, 場所
+cluster3:(3)
+小学校, 露天風呂, 学校
+cluster4:(1)
+名残
+cluster5:(1)
+広島県
+cluster6:(1)
+清潔感
+cluster7:(8)
+薬風呂, 温泉, 日帰り温泉, 田原温泉, 温泉施設, 風呂, 田原温泉5000年風呂, 店内飲食店
+cluster8:(1)
+山県郡北広島町
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

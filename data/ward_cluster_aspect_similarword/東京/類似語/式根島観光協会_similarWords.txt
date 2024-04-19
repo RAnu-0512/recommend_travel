@@ -1,0 +1,11 @@
+--------------------similar_words:式根島観光協会--------------------
+top3 entities near to cluster0>>
+島船, 海船, 海, 島
+top3 entities near to cluster1>>
+自然, 花, 草花
+top3 entities near to cluster2>>
+釣, 魚釣り
+top3 entities near to cluster3>>
+宿店, 宿, 温泉
+top3 entities near to cluster4>>
+発着, 案内, 周遊

@@ -1,0 +1,11 @@
+--------------------similar_words:焼津温泉 JR焼津駅前足湯--------------------
+top3 entities near to cluster0>>
+食事, 料金, 駐車
+top3 entities near to cluster1>>
+マグロ, 海鮮
+top3 entities near to cluster2>>
+駅人, 駅, 駅前
+top3 entities near to cluster11>>
+風呂, 漢方, 温泉
+top3 entities near to cluster12>>
+温泉, 温泉郷, 銭湯

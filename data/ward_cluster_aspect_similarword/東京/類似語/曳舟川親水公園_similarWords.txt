@@ -1,0 +1,17 @@
+--------------------similar_words:曳舟川親水公園--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 親達
+top3 entities near to cluster1>>
+練習, 散歩, 楽器
+top3 entities near to cluster2>>
+子供, 子, 子ども
+top3 entities near to cluster3>>
+雰囲気, オススメ, おすすめ
+top3 entities near to cluster4>>
+水遊び, 遊び場, 川遊び
+top3 entities near to cluster6>>
+光景, 風景, 情景
+top3 entities near to cluster7>>
+夏場, 夏, 水辺
+top3 entities near to cluster8>>
+親水, 公園, 川

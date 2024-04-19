@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:植村冒険館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+拠点, ソリ, 国民栄誉賞, 場所, 本, 冒険, 足跡, 体育館エントランス, 入館, 存分, 常設展示, 功績, 施設, 冒険家, 映像, 冒険スピリット, 記念館, パネル, チャレンジベース, スペース, リニューアル, 展示
+cluster1:(4)
+東板橋体育館, 植村直已, 植村直己, 板橋仲宿
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 2
+deleted 0entities.

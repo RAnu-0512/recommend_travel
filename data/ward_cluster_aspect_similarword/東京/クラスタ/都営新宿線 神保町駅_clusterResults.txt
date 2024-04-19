@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営新宿線 神保町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+共立女子大学博物館, 小学館, 大学, 神保町, 外務省
+cluster1:(2)
+駅, 出口
+cluster2:(1)
+見学
+cluster3:(1)
+距離
+cluster4:(3)
+港区, 新宿, 新宿線
+cluster5:(1)
+外交資料館
+cluster6:(1)
+聖地巡礼街歩き
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

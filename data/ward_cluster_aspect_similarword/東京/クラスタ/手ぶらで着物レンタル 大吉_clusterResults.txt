@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手ぶらで着物レンタル 大吉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+隅田川花火大会, 花火大会
+cluster1:(2)
+予約数, 予約
+cluster2:(7)
+写真, 人, 方, 客, 対応, こと, 料金
+cluster3:(2)
+浴衣, ヘアセット
+cluster4:(1)
+洗濯機
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

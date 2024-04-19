@@ -1,0 +1,11 @@
+--------------------similar_words:ノジマ調布パルコ店--------------------
+top3 entities near to cluster0>>
+パルコ, 買い物, 隣
+top3 entities near to cluster1>>
+値段, 店舗
+top3 entities near to cluster2>>
+本屋, 書店, 古本屋
+top3 entities near to cluster3>>
+揃え, そろえ
+top3 entities near to cluster4>>
+量販, 店舗, 大型

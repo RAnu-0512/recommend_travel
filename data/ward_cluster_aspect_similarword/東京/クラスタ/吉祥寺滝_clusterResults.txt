@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉祥寺滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+下流, 吉祥寺滝, 吉祥滝バス停, 滝, 観光客, 渓谷側, 渓流
+cluster1:(2)
+段差, 階段
+cluster2:(3)
+感じ, 姿, 印象
+cluster3:(4)
+場所, そば, 目印, アレ
+cluster4:(1)
+合流
+cluster5:(1)
+落差
+cluster6:(1)
+水平方向
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 7
+deleted 0entities.

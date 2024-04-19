@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:不動滝(鳥取県湯梨浜町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鬱蒼, 迫力, 落差
+cluster1:(25)
+足元, トイレ, 水, 不動滝, 感じ, 不動明王, マイナスイオン, 中, 正面, 森, 都会, オススメ, 厄払い, 雨, イオン, 男性, 鳥取, 気持ち, マイナス, 注意, 見ごたえ, 方, 雰囲気, スポット, 階段
+cluster2:(4)
+信仰, 道, 厄年, 修行
+cluster3:(1)
+手軽さ
+cluster4:(9)
+展望場所, 滝, 二段滝, 観光客, 行事, 駐車場, 滝開き, 伝統行事, 場
+cluster5:(1)
+湯梨浜町
+
+howmany entities : 43
+howmany clusters : 6
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 6
+deleted 0entities.

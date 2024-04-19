@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マリホ水族館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入場料, 入館料
+cluster1:(3)
+魚達, 魚, 魚スペース
+cluster2:(4)
+室内, 館内, 展示, 水槽
+cluster3:(4)
+子供, 祖父母, 大人, 子ども
+cluster4:(2)
+水族館, ミニチュア水族館
+cluster5:(2)
+モール, 買い物
+cluster6:(5)
+生き生き, レストラン, アウトレット, メイン, 最先端
+cluster7:(1)
+マリーナホップ
+cluster8:(1)
+帰省
+cluster9:(1)
+行列
+cluster10:(17)
+時期, 年パス, 注意, 中, 年間パスポート, 方, 種類, 昔, 規模, 感じ, 目的, 人, 料金, こと, 場所, 程度, 合間
+cluster11:(7)
+水塊展示, マリホ水族館, 駐車場, 広島市, 期待値, 広さ, 中心部
+
+howmany entities : 49
+howmany clusters : 12
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 12
+deleted 0entities.

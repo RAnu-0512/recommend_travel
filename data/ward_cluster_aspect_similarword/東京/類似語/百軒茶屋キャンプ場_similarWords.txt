@@ -1,0 +1,19 @@
+--------------------similar_words:百軒茶屋キャンプ場--------------------
+top3 entities near to cluster0>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster1>>
+マス釣り, 釣り場, マス
+top3 entities near to cluster2>>
+家族, 共同, 夫婦
+top3 entities near to cluster4>>
+バーベキュー, コンロ, ＢＢＱ
+top3 entities near to cluster5>>
+キャンプ, バンガロー, トイレ
+top3 entities near to cluster6>>
+自然, 豊か, 摂理
+top3 entities near to cluster7>>
+屋根, 葺材, 茅ぶき
+top3 entities near to cluster8>>
+昆虫, シャクトリ
+top3 entities near to cluster9>>
+町, 丁目, 役場

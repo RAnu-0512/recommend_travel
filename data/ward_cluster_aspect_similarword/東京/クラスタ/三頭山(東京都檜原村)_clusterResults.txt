@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三頭山(東京都檜原村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+盆, 熱々, 小皿, ご飯, 麦ごはん, 席, お替り, 穴場, ごみ, 机, 椅子
+cluster1:(7)
+光景, 自然, 天気, 景観, 景色, 山々, 空気
+cluster2:(2)
+傾斜, 禁止
+cluster3:(3)
+ハイキングコース, コース, 日帰りハイキング
+cluster4:(2)
+吸い物, 塩焼き
+cluster5:(2)
+富士山, 三頭山
+cluster6:(3)
+テーブル, マイカー, ハイキング
+cluster7:(2)
+小学校, 子ども
+cluster8:(1)
+初心者
+cluster9:(1)
+コロナ
+cluster10:(13)
+影響, 物, 地元, 気持ち, ところ, 春先, 途中, 場所, 隣, 人, 装備, 下, もの
+cluster11:(4)
+東京都, 檜原都民, 山梨県, 都民
+cluster12:(6)
+散策道, 登山コース, 登山道, 登山口, 日帰り入浴, 登山
+cluster13:(3)
+山菜料理, 山菜, とろろ芋川魚
+cluster14:(17)
+山, 青葉, ユリ根, 奥多摩三山, 山道, 頂上, 東峰, 紅葉, 山頂, 森入り口, 雲, 中央峰, 展望台, 若葉, 森, 山荘, 西峰
+
+howmany entities : 77
+howmany clusters : 15
+howmany entities (more than1entities) : 77
+howmany clusters (more than1entities) : 15
+deleted 0entities.

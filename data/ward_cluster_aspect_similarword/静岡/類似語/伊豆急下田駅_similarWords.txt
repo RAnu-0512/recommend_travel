@@ -1,0 +1,7 @@
+--------------------similar_words:伊豆急下田駅--------------------
+top3 entities near to cluster1>>
+土産, おみやげ, 土産物
+top3 entities near to cluster2>>
+バス, 路線, タクシー
+top3 entities near to cluster3>>
+駅, 構内, 改札

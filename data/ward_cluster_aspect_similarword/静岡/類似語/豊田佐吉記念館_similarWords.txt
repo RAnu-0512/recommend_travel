@@ -1,0 +1,13 @@
+--------------------similar_words:豊田佐吉記念館--------------------
+top3 entities near to cluster0>>
+館, 記念, 資料
+top3 entities near to cluster3>>
+展望室, 施設, 展望
+top3 entities near to cluster5>>
+紅葉, 木々, 里山
+top3 entities near to cluster6>>
+両手, 片手, 左手
+top3 entities near to cluster8>>
+自動車, ドラマ, トヨタ
+top3 entities near to cluster10>>
+歴史, 伝記, 研究

@@ -1,0 +1,23 @@
+--------------------similar_words:ホテルパームビーチ--------------------
+top3 entities near to cluster0>>
+お客, 常連, 上客
+top3 entities near to cluster1>>
+布団, 畳, 浴衣
+top3 entities near to cluster3>>
+世話, 暇, ヒマ
+top3 entities near to cluster4>>
+食事, 部屋, 写真
+top3 entities near to cluster5>>
+宿, 主人, 旅館
+top3 entities near to cluster7>>
+ロビー, 入り口, 入口
+top3 entities near to cluster8>>
+ダイバー, スタイル, ダイビング
+top3 entities near to cluster9>>
+おなか, オナカ, お腹
+top3 entities near to cluster10>>
+海, 海辺, 陸
+top3 entities near to cluster11>>
+共用, 兼用, 専用
+top3 entities near to cluster12>>
+体験, 体験談, 体感

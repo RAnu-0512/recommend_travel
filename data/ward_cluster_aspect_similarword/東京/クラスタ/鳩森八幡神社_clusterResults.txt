@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳩森八幡神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ライオン, 主人
+cluster1:(1)
+先生
+cluster2:(1)
+私達
+cluster3:(1)
+神社
+cluster4:(1)
+サッカー観戦
+cluster5:(1)
+御参拝
+cluster6:(1)
+聖地巡礼
+cluster7:(1)
+将棋会館
+cluster8:(1)
+国立競技場
+cluster9:(1)
+鳩森八幡神社
+
+howmany entities : 11
+howmany clusters : 10
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 10
+deleted 0entities.

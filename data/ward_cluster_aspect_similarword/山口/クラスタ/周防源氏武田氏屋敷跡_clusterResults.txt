@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:周防源氏武田氏屋敷跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+欽明路バス停, 道標
+cluster1:(1)
+土塀
+cluster2:(1)
+案内板
+cluster3:(1)
+屋敷跡
+cluster4:(1)
+岩国市
+cluster5:(1)
+周防源氏武田
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ有楽町線有楽町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+気, ほか, 思い, 近く, 注意, 時間, 方, こと
+cluster1:(2)
+有楽町, 日比谷
+cluster2:(2)
+三田線, 有楽町線
+cluster3:(2)
+乗り入れ, 乗り換え
+cluster4:(5)
+エスカレーター, コインロッカー, ビックカメラ, タイトル, フォーラム
+cluster5:(1)
+地下道
+cluster6:(1)
+雨
+cluster7:(6)
+地上, JR, 工事, 銀座, 地下, ビル
+cluster8:(1)
+便利化
+cluster9:(11)
+日比谷駅, 東上線, 地下鉄駅, 千代田線, 駅, 改札, 東京駅, 東京メトロ, 有楽町駅, 乗り換え駅, 都営
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 10
+deleted 0entities.

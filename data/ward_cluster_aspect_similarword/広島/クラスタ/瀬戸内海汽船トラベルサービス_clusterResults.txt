@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸内海汽船トラベルサービス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 観覧車
+cluster1:(7)
+出発, 往復, 周遊利用, 最終便, 発着, 始発, 便
+cluster2:(3)
+松山市, じゃらん, ○○ー
+cluster3:(8)
+船旅, 宮島, 旅, 船, 坂, 潮風, 桟橋, 海上
+cluster4:(5)
+眺め, 期待, 感じ, 機会, 揺れ
+cluster5:(2)
+連絡, 電話
+cluster6:(2)
+椅子, 靴
+cluster7:(2)
+寝スペース, 食事スペース
+cluster8:(1)
+客室
+cluster9:(3)
+天気, 展望, 公園
+cluster10:(2)
+秋, 春
+cluster11:(2)
+水族館, イルカ
+cluster12:(7)
+フェリー, スペース, グランドプリンスホテル, プリンスホテル, チェックアウト, ホテル, イメージ
+cluster13:(5)
+次, 車, 時間, 外観, 久々
+cluster14:(1)
+湯
+cluster15:(1)
+座り心地
+cluster16:(3)
+道後温泉飛鳥, 焼豚たまご丼, 宮島16:00
+
+howmany entities : 56
+howmany clusters : 17
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 17
+deleted 0entities.

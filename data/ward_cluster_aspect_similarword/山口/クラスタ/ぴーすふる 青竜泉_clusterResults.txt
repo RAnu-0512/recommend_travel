@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぴーすふる 青竜泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+風呂, 家族風呂, 日帰り温泉, 浴室, 浴場, 温泉, 脱衣所
+cluster1:(14)
+子供, 印象, 建屋, ジェットバス, 息子, サウナ, 瓦そば, 設備, 露天風呂, 感じ, 大人, 川棚温泉, 水, 作り
+cluster2:(1)
+無料休憩室
+cluster3:(1)
+塩素臭
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

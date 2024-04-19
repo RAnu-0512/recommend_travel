@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ドンキホーテ浅草店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浅草, 浅草ROX
+cluster1:(2)
+観光, 観光地
+cluster2:(6)
+他, 市街地, ドン・キホーテ, 仕事, 周り, 店内
+cluster3:(1)
+化粧品
+cluster4:(1)
+外国人観光客
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

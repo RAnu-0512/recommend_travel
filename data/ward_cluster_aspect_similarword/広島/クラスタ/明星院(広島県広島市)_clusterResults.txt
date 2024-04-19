@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明星院(広島県広島市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+都会, 広島, こんな由, 駐車, タイミング, 広島駅, 木彫り, 時間
+cluster1:(2)
+一満車, 時間帯
+cluster2:(5)
+千手観音菩薩, 札所, 寺, 明星院, 本尊
+cluster3:(2)
+中国地蔵尊霊場, 赤穂浪士
+cluster4:(1)
+新四国八十八ヶ所霊場六十二番霊場
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関くじら館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鯨, 刺身, くじら料理
+cluster1:(2)
+癖, 独特
+cluster2:(5)
+口, 店, 県, 人, クジラ
+cluster3:(1)
+庶民
+cluster4:(1)
+下関
+cluster5:(1)
+昔給食
+cluster6:(1)
+竜田揚げ
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

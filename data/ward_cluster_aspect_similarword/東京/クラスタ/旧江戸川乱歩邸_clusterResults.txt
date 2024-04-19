@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧江戸川乱歩邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+母屋, 乱歩, 江戸川乱歩, 建物, 人, 東京, 価値, 大学, 常設展, 客, 見学, 評価, 氏名, 土蔵, 外観見学, 開館曜日, モニター映像, 邸宅, モニター映像コーナー, 星, 開館日, 方, 外, こと, 立教大学, 受付, 展示
+cluster1:(4)
+教学院展示館, シーザーライブラリー記念館旧館図書館, 立教大学正門内守衛所, 立教学院展示館
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 2
+deleted 0entities.

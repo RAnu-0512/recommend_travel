@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三保真崎海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+ビュースポット, 往来, ひとつ, 人気, 富士山, 海
+cluster1:(2)
+海水浴場, 泳ぎ
+cluster2:(1)
+静岡市
+cluster3:(1)
+三保真崎海水浴場
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

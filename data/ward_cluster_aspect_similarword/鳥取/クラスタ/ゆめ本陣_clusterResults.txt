@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆめ本陣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+地域, 中, 話, 方, 時間
+cluster1:(8)
+ふらり, 城下町, 隣, 楽しみ, 街並み, 手作り, ほのぼの, パッチワーク
+cluster2:(1)
+注意
+cluster3:(9)
+作家, 作品, 散歩, 販売, 店, 着物, 手作り品, 椅子, 商品
+cluster4:(1)
+鹿野
+cluster5:(1)
+駐車場
+cluster6:(4)
+作品展, ハンドメイド作品, 毎日が作品展, 鹿野ゆめ本陣
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

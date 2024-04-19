@@ -1,0 +1,13 @@
+--------------------similar_words:お台場公園--------------------
+top3 entities near to cluster0>>
+広場, 公園
+top3 entities near to cluster2>>
+子供, 大人, 子ども
+top3 entities near to cluster3>>
+木陰, 休憩, 日陰
+top3 entities near to cluster4>>
+公園, 遊具, 広場
+top3 entities near to cluster5>>
+施設, 会場, 敷地
+top3 entities near to cluster6>>
+駅, 台場, 駅前

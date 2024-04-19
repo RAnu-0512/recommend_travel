@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船路八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+道反大神, 道反大
+cluster1:(2)
+散策気分, 長さ
+cluster2:(24)
+参道, 神威, 草木, 境内, 屋根, 北上, 吉野家, 山裾, こうじん, 即ち塞ノ神, 神社, 場所, 国道, 神, 社殿, 八幡, 東, よろず屋, 麓, 八幡宮, 目的, お参り, 先, 船路八幡宮
+cluster3:(3)
+天皇, 岸見, 応神
+cluster4:(1)
+船路簡易郵便局
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 5
+deleted 0entities.

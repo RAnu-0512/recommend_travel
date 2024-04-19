@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:爼岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蓮着寺参拝, 蓮着寺奥
+cluster1:(2)
+日蓮上人, 日蓮
+cluster2:(2)
+鎌倉, 伊東
+cluster3:(6)
+日蓮宗, 見学, 聖地, 伝承, 岩, 遊歩道
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 6entities.

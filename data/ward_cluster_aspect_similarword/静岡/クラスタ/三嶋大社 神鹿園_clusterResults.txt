@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三嶋大社 神鹿園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+境内, 社殿
+cluster1:(4)
+最後, 紅葉, 旅, 横
+cluster2:(1)
+大銀杏
+cluster3:(1)
+三島田町駅
+cluster4:(2)
+三嶋大社, 神鹿園
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 6entities.

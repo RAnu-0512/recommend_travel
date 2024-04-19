@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花岡八幡宮_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+姿, 風景
+cluster1:(5)
+季節, 次世代, 桜並木, 桜, 八幡宮
+cluster2:(2)
+階段, 背
+cluster3:(1)
+祈願
+cluster4:(1)
+交通安全
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

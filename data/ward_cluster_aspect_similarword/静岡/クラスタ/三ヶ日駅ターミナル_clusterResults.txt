@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三ヶ日駅ターミナル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+産地, 駅舎, 浜名湖, 妻, 側, みかん, 木造, 太平洋, 右回り, 景色, 雰囲気, 天竜浜名湖線
+cluster1:(10)
+枝湾, 新居方面, 三ヶ日駅, 三ケ日町, 駅本屋, 猪鼻湖畔, 駅, 奥浜名湖地域, 湖畔, 三ケ日駅
+cluster2:(1)
+登録有形文化財
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湖泉閣 養生館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+気分, 露天風呂, 景色, のんびり, こと, 気持ち
+cluster1:(2)
+貸切, 風呂
+cluster2:(1)
+人目
+cluster3:(1)
+解放感
+cluster4:(1)
+東郷湖
+cluster5:(1)
+源泉掛け流し
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

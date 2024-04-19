@@ -1,0 +1,11 @@
+--------------------similar_words:八百屋お七墓(円乗寺)--------------------
+top3 entities near to cluster0>>
+裏手, 歴史, 民家
+top3 entities near to cluster1>>
+墓所, お寺
+top3 entities near to cluster2>>
+住宅街, 住宅, 案内
+top3 entities near to cluster3>>
+本堂, 境内, 山門
+top3 entities near to cluster4>>
+寺, 神社, 稲荷

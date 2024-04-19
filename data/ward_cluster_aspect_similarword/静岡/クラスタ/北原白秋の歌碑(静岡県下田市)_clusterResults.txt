@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北原白秋の歌碑(静岡県下田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白浜海岸, 白浜大浜海岸
+cluster1:(2)
+大海原, 海原
+cluster2:(3)
+詩, 歌碑, 石碑
+cluster3:(2)
+北原, 白秋
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

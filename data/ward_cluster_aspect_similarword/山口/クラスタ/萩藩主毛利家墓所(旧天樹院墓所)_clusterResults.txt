@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩藩主毛利家墓所(旧天樹院墓所)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+毛利輝, 毛利家, 毛利輝元
+cluster1:(12)
+感じ, 天樹院, 萩, もの, 墓所, 廃寺, 入口, 維持費, 募金箱, 墓, 旧天樹院墓所, 東光寺墓所
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

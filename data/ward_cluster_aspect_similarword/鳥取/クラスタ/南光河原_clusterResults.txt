@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南光河原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+南光河原脇, 大山寺本堂, 南光河原, 南光院谷派
+cluster1:(3)
+金門あたり, 金門下流側, 金門
+cluster2:(33)
+大山, 上流, 大山寺橋, 河あり, 逆方向, 登山, 水, 参道, 車, 気, 間, 賽, 僧坊, 河原, 横, 石畳, 川原, 佐陀川, モンベル, 絶景, 駐車場, 下り道, シーズン, 神山神社, 石, 奥宮, 方, 川, 途中, 岩, 峡谷, 下流, 場所
+
+howmany entities : 40
+howmany clusters : 3
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 3
+deleted 0entities.

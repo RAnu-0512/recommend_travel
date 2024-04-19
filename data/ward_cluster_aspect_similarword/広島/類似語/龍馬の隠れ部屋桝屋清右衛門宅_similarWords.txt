@@ -1,0 +1,17 @@
+--------------------similar_words:龍馬の隠れ部屋桝屋清右衛門宅--------------------
+top3 entities near to cluster0>>
+遼, 龍, 司馬
+top3 entities near to cluster1>>
+幕府, 鞆
+top3 entities near to cluster2>>
+部屋, 隠れ
+top3 entities near to cluster3>>
+部屋, へや, 屋根裏
+top3 entities near to cluster4>>
+土, 日, 金
+top3 entities near to cluster5>>
+身, 命, 賭し
+top3 entities near to cluster6>>
+建物, 舞台
+top3 entities near to cluster8>>
+龍馬, 龍, 援隊

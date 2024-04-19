@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧東海道(静岡県掛川市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+車, 国道, 橋, 歩道, 道
+cluster1:(2)
+山間, 茶畑
+cluster2:(3)
+知識, 人, 人たち
+cluster3:(3)
+情景, 風情, 天気
+cluster4:(2)
+東, 京都
+cluster5:(6)
+事, 途中, 感じ, 上, 中, 場所
+cluster6:(5)
+教科書, 出会い, 楽しみ, ドライブ, 雰囲気
+cluster7:(2)
+東海道, 日本橋
+cluster8:(1)
+昔
+cluster9:(2)
+名物, 夫婦
+cluster10:(1)
+感慨
+cluster11:(7)
+松, 松並木, 古地図, 江戸, 老僧, 街道群, 江戸時代
+cluster12:(8)
+静岡県, 掛川, 秋葉権現, 遠州凧, 常夜燈, 袋井, 国道一号線, 掛川 秋葉山遠望
+cluster13:(1)
+保永堂版 東海道五拾三次
+
+howmany entities : 48
+howmany clusters : 14
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 7
+deleted 11entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五百羅漢寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+一体一体, 存在感, 保存状態
+cluster1:(2)
+江戸, 元禄時代
+cluster2:(5)
+堂, 本堂, 寺, 本尊, 釈迦
+cluster3:(2)
+浄財, 利益
+cluster4:(2)
+息, 歳月
+cluster5:(5)
+町, 西口, 徒歩, 恵比寿神, ついつい陰
+cluster6:(4)
+心, 言葉, 表情, 迫力
+cluster7:(17)
+途中, パワースポット, 次回, 代り, 建物, 靴, 御朱印, 見ごたえ, 点, 羅漢寺, 前, 昼食, デザイン, 釈迦如来, スポット, 教え, もの
+cluster8:(1)
+良さ
+cluster9:(5)
+拝観料, 七福神巡り, 山手七福神巡り, 参拝, 拝観
+cluster10:(13)
+不動前駅, 目黒, 聖宝殿, 山手通り, 松雲元慶禅師, 羅漢像, 瀧泉寺, 目黒駅, 羅漢, JR目黒駅, 目黒不動, 目黒通り, 羅漢堂
+
+howmany entities : 59
+howmany clusters : 11
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 11
+deleted 0entities.

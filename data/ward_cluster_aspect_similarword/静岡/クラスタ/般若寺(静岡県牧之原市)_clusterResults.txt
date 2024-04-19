@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:般若寺(静岡県牧之原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+県指定文化財, しょったか)陣太鼓
+cluster1:(5)
+太鼓, 創建, 盗賊, 般若, 寺
+cluster2:(2)
+言葉, 時代
+cluster3:(5)
+ピーン, もの, 陣太鼓, 他, 方
+cluster4:(1)
+趣
+cluster5:(1)
+濁り
+cluster6:(4)
+老中, 相良城, 文明元年, 江戸幕府
+cluster7:(4)
+田沼意次ゆかり, 紙本墨大般若経, 田沼意次, 田沼意次ゆかりの太鼓
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 6entities.

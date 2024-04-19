@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下賀茂熱帯植物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+熱帯植物園, 観葉植物, 下賀茂熱帯植物園
+cluster1:(19)
+目, 中心街, 強風, パンフレット, 予定, 南伊豆町下賀茂, バナナ, タグ, 下賀茂, マンゴー, 爪木崎, グラス, 入園無料, 花, どこか, 鉢植え, 水仙, 期待, 生ジュース
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,23 @@
+--------------------similar_words:三保海岸--------------------
+top3 entities near to cluster0>>
+海岸, 松原, 三保の松原
+top3 entities near to cluster1>>
+写真絵, 写真, 画像
+top3 entities near to cluster3>>
+景色, 風景, 光景
+top3 entities near to cluster6>>
+宿泊, 施設
+top3 entities near to cluster7>>
+散歩, 天気
+top3 entities near to cluster8>>
+気持ち, 雰囲気, 願い事
+top3 entities near to cluster10>>
+ドライブ, スペース, カフェ
+top3 entities near to cluster11>>
+サンダル, スニーカー, シューズ
+top3 entities near to cluster17>>
+遊歩道, バス停, たもと
+top3 entities near to cluster23>>
+暑い, 美しい
+top3 entities near to cluster24>>
+海岸, 海, 神社

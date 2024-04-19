@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柳と井戸_湘江庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+昔, 地名, 天皇, 寺, 由来, 柳井, 名前, 発祥, 仏像, 伝説, 途中, 柳, 井戸, 木, 楊枝, 美人, 水
+cluster1:(2)
+般若姫, 湘江庵
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

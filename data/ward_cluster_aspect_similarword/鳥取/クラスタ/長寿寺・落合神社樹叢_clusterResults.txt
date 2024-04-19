@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長寿寺・落合神社樹叢>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+長寿寺, 付近
+cluster1:(1)
+神社
+cluster2:(1)
+光景
+cluster3:(1)
+スダジイ林
+cluster4:(1)
+落合神社樹叢
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

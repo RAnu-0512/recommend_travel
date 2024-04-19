@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夏目漱石終焉の地(猫塚)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+漱石関連, 則天去私, 夏目漱石, 漱石先生, 漱石, 漱石像, 漱石公園
+cluster1:(6)
+展示, 地下閲覧室, 再現展示室, 展示品, 記念館, 展示館
+cluster2:(33)
+道草庵, カメラ撮影, 説明板, 新宿区, 裏手, 場所, 本, 理想, 猫塚, 建物, 猫, 入口, 公園, 人, 季節がら紫陽花, 小屋, 係員, 墓, 晩年, 入り口, 地下鉄, 撮影, 礎石, 敷地, 早稲田駅, 庭, ガイド, 雰囲気, 早稲田, 資料, 公園側, 半分, 胸像
+cluster3:(1)
+新宿区立漱石山房記念館
+
+howmany entities : 47
+howmany clusters : 4
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 4
+deleted 0entities.

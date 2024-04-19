@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天上山(広島県安芸太田町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+菩薩像, 行基, 天平
+cluster1:(3)
+スギ, 巨樹, 古木
+cluster2:(18)
+ヒノキ, 天上山, 岩屋, 寺, 山頂, 木々, 壁面, 森, ハイキング, 空気, 由緒, 近く, 山, 三次盆地, 気持ち, イオン, 場所, 自然
+cluster3:(1)
+引き明け
+cluster4:(1)
+龍頭峡
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 5
+deleted 0entities.

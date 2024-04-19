@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京急蒲田駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+辛さ, 旨さ, 広さ
+cluster1:(2)
+東海道, 日本橋
+cluster2:(7)
+アーケイド, iPhone, アーケード, アナウンス, エスカレーター, スーパーマーケット, スペース
+cluster3:(2)
+羽田空港, モノレール
+cluster4:(3)
+最寄り駅, アクセス, 乗り換え
+cluster5:(1)
+京浜急行
+cluster6:(1)
+ホーム
+cluster7:(4)
+行き先, 雰囲気, ホテル, 買い物
+cluster8:(1)
+空港線
+cluster9:(2)
+店, 看板
+cluster10:(2)
+写真, 場所
+cluster11:(6)
+方面, 周辺, 近く, 側, 間, 道
+cluster12:(5)
+屋根, 餃子, 電車, 上り, 直通
+cluster13:(14)
+気, 方, 別物, 感謝, 利用, 種類, 感じ, 予約, 好み, 時間, コぐらし, ラストオーダー時間, 移動, 注意
+cluster14:(20)
+JR駅, 高架駅, 駅, 駅周辺, 商店街, 飲食店, 商業施設, 乗り換え駅, 駅ビル, 本線ホーム, 駅名, 徒歩, アーケード街, 個人商店, 高架, 街, 改札, 構内, 空港帰り, 空港
+cluster15:(4)
+品川, 東急, 横浜, 川崎
+cluster16:(3)
+蒲田, 蒲田駅, 羽田駅
+cluster17:(1)
+大田区
+cluster18:(1)
+蒲田観光案内
+cluster19:(1)
+快特羽田空港
+cluster20:(3)
+羽付餃子, 中華料理屋, 黒湯温泉
+cluster21:(8)
+京急蒲田駅, 担々麺専門店, 京急空港線, 京急, 京急ストア, 京急すみっコなかまた駅, 担々麺, 京急線
+
+howmany entities : 94
+howmany clusters : 22
+howmany entities (more than1entities) : 94
+howmany clusters (more than1entities) : 22
+deleted 0entities.

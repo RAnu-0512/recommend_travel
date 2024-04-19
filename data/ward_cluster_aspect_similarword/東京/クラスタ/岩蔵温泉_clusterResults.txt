@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩蔵温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+バス, 電話
+cluster1:(2)
+東京, 東青梅
+cluster2:(2)
+ほう, 方
+cluster3:(2)
+場所, 周辺
+cluster4:(7)
+バス停, ところ, 温泉郷, 家族, 山あい, 日帰り, 中
+cluster5:(1)
+自然
+cluster6:(6)
+日帰り温泉, 岩蔵温泉, 旅館, 温泉, 飯能駅, 宿泊施設
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 7
+deleted 0entities.

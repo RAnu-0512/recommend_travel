@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乃木浜総合公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, 公園
+cluster1:(2)
+子供, テニスコート
+cluster2:(1)
+管理
+cluster3:(1)
+掃除
+cluster4:(1)
+遊具
+cluster5:(1)
+野鳥
+cluster6:(1)
+常草刈り
+cluster7:(1)
+家族連れ
+cluster8:(1)
+スポーツ愛好家
+cluster9:(4)
+野球場, 駐車場, サッカー場, 野鳥観察所
+
+howmany entities : 15
+howmany clusters : 10
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,19 @@
+--------------------similar_words:樋の口園--------------------
+top3 entities near to cluster0>>
+バギー, カート, ワンコ
+top3 entities near to cluster1>>
+春休み, 小学生, 夏休み
+top3 entities near to cluster3>>
+イベント, ホテル, ショップ
+top3 entities near to cluster7>>
+イチゴ, いちご, 苺
+top3 entities near to cluster8>>
+駅車, 駅, 通路
+top3 entities near to cluster10>>
+荷物, 両手
+top3 entities near to cluster11>>
+家族, 子供, 娘
+top3 entities near to cluster14>>
+予約, 受付, 宿泊
+top3 entities near to cluster21>>
+狩り, 果物

@@ -1,0 +1,107 @@
+--------------------similar_words:靖国神社--------------------
+top3 entities near to cluster1>>
+九段下, 大鳥居, 記念樹
+top3 entities near to cluster2>>
+パワー, お守り, 捨て身
+top3 entities near to cluster3>>
+雰囲気, 見応え, 気持ち
+top3 entities near to cluster4>>
+武道館, ライブ, ライヴ
+top3 entities near to cluster6>>
+売り場, 博物館, 警察官
+top3 entities near to cluster7>>
+イチョウ, ランタン, 銀杏
+top3 entities near to cluster8>>
+ロッカー, 入り口, オフィス
+top3 entities near to cluster10>>
+イベント, 見どころ, ニュース
+top3 entities near to cluster11>>
+テレビ, ＴＶ, 番組
+top3 entities near to cluster12>>
+コース, フォレストコース, レイクコース
+top3 entities near to cluster13>>
+国内外, 世界中, 内外
+top3 entities near to cluster14>>
+スマホ, 日暮れ, 日没
+top3 entities near to cluster15>>
+行き方, 御朱印, 朱印
+top3 entities near to cluster16>>
+入口, 入り口, 裏手
+top3 entities near to cluster17>>
+秋, 紅葉, 満開
+top3 entities near to cluster18>>
+感謝, 祈り, 想い
+top3 entities near to cluster19>>
+現実, 世界, 平和
+top3 entities near to cluster20>>
+足, 廊下, 足元
+top3 entities near to cluster21>>
+鳥池, 緑, 鳥
+top3 entities near to cluster25>>
+人達, 人々
+top3 entities near to cluster26>>
+受験, 武道, 私服
+top3 entities near to cluster27>>
+出店, 屋台, 祭り
+top3 entities near to cluster28>>
+見学, 案内
+top3 entities near to cluster29>>
+空気感, 空気, 雰囲気
+top3 entities near to cluster31>>
+価値観, 価値, 意義
+top3 entities near to cluster33>>
+敷居, 人目, 気後れ
+top3 entities near to cluster34>>
+人格, 肯定, 否定
+top3 entities near to cluster35>>
+気持ち, 心境, 気持
+top3 entities near to cluster37>>
+話題性, 可能性, 話題, 可能
+top3 entities near to cluster39>>
+館, 資料, 史料
+top3 entities near to cluster40>>
+警備員, 従業員, 警備, 従業
+top3 entities near to cluster41>>
+零戦, 戦闘, 零
+top3 entities near to cluster42>>
+軍事, 軍需, 軍用
+top3 entities near to cluster43>>
+軍用馬, 軍用, 厩舎
+top3 entities near to cluster44>>
+展示場, 展示, 場裏
+top3 entities near to cluster45>>
+展示, 出展, 収蔵
+top3 entities near to cluster46>>
+入場式, 入場券, 入場
+top3 entities near to cluster47>>
+桜, 菊花, 菊
+top3 entities near to cluster48>>
+花見, 行楽, 観桜
+top3 entities near to cluster49>>
+散歩, 散策, 出掛け
+top3 entities near to cluster50>>
+休憩, 休み, 土産
+top3 entities near to cluster51>>
+神社, 境内, 本殿
+top3 entities near to cluster52>>
+霊, 示集, 壊術
+top3 entities near to cluster53>>
+祭り, お祭, 祭礼
+top3 entities near to cluster54>>
+本殿, 拝殿, 境内
+top3 entities near to cluster55>>
+参拝, 参詣, お参り
+top3 entities near to cluster56>>
+靖, 淵, 鍾建
+top3 entities near to cluster57>>
+大戦, 第
+top3 entities near to cluster58>>
+慰霊, 戦没, 犠牲
+top3 entities near to cluster59>>
+記念, 終戦, 日
+top3 entities near to cluster60>>
+終戦, 記念, 戦後
+top3 entities near to cluster61>>
+戦争, 大戦, 開戦
+top3 entities near to cluster62>>
+大戦, 戦争

@@ -1,0 +1,11 @@
+--------------------similar_words:天城高原(静岡県伊豆市)--------------------
+top3 entities near to cluster0>>
+高原, 越, ボナリ
+top3 entities near to cluster5>>
+ホテル, ベッド, ディナー
+top3 entities near to cluster6>>
+鹿, 野生
+top3 entities near to cluster8>>
+景色, 景観, 眺望
+top3 entities near to cluster9>>
+宿泊, 温泉, 旅館

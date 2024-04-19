@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:強力くん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+所, 部
+cluster1:(2)
+半分, 方
+cluster2:(4)
+富士宮, 海外, 富士山, ミルクランド
+cluster3:(1)
+バス
+cluster4:(1)
+酒場
+cluster5:(1)
+大穴
+cluster6:(1)
+白糸
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 8entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆長岡温泉ホテル天坊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+季節がら, 思いき
+cluster1:(16)
+ヘッド, エステ, 和風, レストラン, 白ダーラ, ホテル, 日帰り, 小遣い, 露天風呂, デコルテ, 桜, アーユルヴェーダ, ランチバイキング, フェイス, バイキング, 手作り
+cluster2:(4)
+興味, もの, 感じ, 場
+cluster3:(6)
+館内, 空間, 外, 席, 時間, 部屋
+cluster4:(6)
+料理, 野菜, 景色, 天気, 食後, 夕食
+cluster5:(2)
+施術, 接客
+cluster6:(4)
+温泉, 日帰り入浴, 風呂, 宿泊
+cluster7:(1)
+ママ会
+cluster8:(1)
+足ツボマッサージ
+
+howmany entities : 42
+howmany clusters : 9
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 6entities.

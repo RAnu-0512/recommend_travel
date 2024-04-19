@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:やまめ平>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+雨, 魚, おじ, アクセス, スタッフ, 客, 釣り糸, 大分, リピート, GW, 人, ヤマメ, ショートカット, 池, 足, 自然, バーベキュー, 石, ビデオ
+cluster1:(5)
+心配, 値段, こと, 道中, 到着
+cluster2:(4)
+体験, 指導, 世話, 運転
+cluster3:(4)
+赤字, ナビ, 山道, 道
+cluster4:(1)
+機嫌
+cluster5:(7)
+捌き方, 釣り, 子供達, 家族連れ, 釣り方, 子供, 竿
+cluster6:(5)
+炭焼, 炭おこし, 炭, 竹棒, 道一杯
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 6
+deleted 1entities.

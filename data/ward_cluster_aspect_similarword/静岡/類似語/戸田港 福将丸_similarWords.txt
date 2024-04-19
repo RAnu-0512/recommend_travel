@@ -1,0 +1,17 @@
+--------------------similar_words:戸田港 福将丸--------------------
+top3 entities near to cluster1>>
+時間, 予定分, 予定
+top3 entities near to cluster2>>
+子供, 息子, 子ども
+top3 entities near to cluster5>>
+アプリ, 初心者, スタッフ
+top3 entities near to cluster6>>
+魚釣り, 釣り竿
+top3 entities near to cluster8>>
+人気, 大物, 屈指
+top3 entities near to cluster10>>
+料理, 風景, 食材
+top3 entities near to cluster12>>
+生簀, 生け簀
+top3 entities near to cluster13>>
+灯台船, 灯台, 船長

@@ -1,0 +1,23 @@
+--------------------similar_words:浅草ROX--------------------
+top3 entities near to cluster1>>
+ランチ, ホテル, カフェ
+top3 entities near to cluster2>>
+スーパーマーケット, デパート, ショップ
+top3 entities near to cluster3>>
+地元民, まつり, 気持ち
+top3 entities near to cluster4>>
+アイス, コーヒー, アイスクリーム
+top3 entities near to cluster6>>
+商業, ビル, 複合
+top3 entities near to cluster7>>
+商業, 複合, 施設
+top3 entities near to cluster8>>
+施設, 複合, 娯楽
+top3 entities near to cluster10>>
+名所, 施設, 宿泊
+top3 entities near to cluster11>>
+お客, 外客, 乗客
+top3 entities near to cluster12>>
+施設, 温泉, 温浴
+top3 entities near to cluster13>>
+飲食店, 飲食, 店舗

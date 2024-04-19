@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:緑水園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+キャンプ, ところ, 宿, 所, 周辺, 公園, 時間
+cluster1:(3)
+施設, メイン施設, キャンプ場
+cluster2:(3)
+観光スポット, ダム, バス
+cluster3:(3)
+湖周辺, 米子駅, 湖
+cluster4:(4)
+自然休養村, 自然, 日常自然, 緑水園
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

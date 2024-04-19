@@ -1,0 +1,27 @@
+--------------------similar_words:竹芝桟橋--------------------
+top3 entities near to cluster0>>
+景色, 風景, 車窓
+top3 entities near to cluster2>>
+海船, 桟橋, 海
+top3 entities near to cluster3>>
+影響, 及ぼし, 及ぼす
+top3 entities near to cluster4>>
+ターミナル, スーツケース, 空港
+top3 entities near to cluster6>>
+ブリッジ, レインボー, スピーン
+top3 entities near to cluster8>>
+乗り場, 乗場, バスターミナル
+top3 entities near to cluster9>>
+東京湾, 相模湾, アクアライン・
+top3 entities near to cluster10>>
+人達, 大勢
+top3 entities near to cluster11>>
+繁華街, 繁華, 街並み
+top3 entities near to cluster12>>
+土産, おみやげ, みやげ
+top3 entities near to cluster13>>
+徒歩, 駅分, 駅
+top3 entities near to cluster15>>
+納涼船, 納涼, 屋形船
+top3 entities near to cluster16>>
+芝, 竹, 翫茶

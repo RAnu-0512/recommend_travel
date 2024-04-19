@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山ネイチャーツアーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+勉強, ガイド, 家族, こと, 外, 知識, もの, 体験, ツアー, 富士山, 成り立ち, 申し込み, オススメ, 樹海
+cluster1:(4)
+観光旅行, 洞窟ツアー, 洞窟探検プラン, 洞窟
+cluster2:(1)
+青木ヶ原
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:祝島の練塀>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+練塀, 塀
+cluster1:(5)
+石, 時間, 街並み, スポット, 場所
+cluster2:(2)
+祝島, 原子力発電
+cluster3:(1)
+設置候補地
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

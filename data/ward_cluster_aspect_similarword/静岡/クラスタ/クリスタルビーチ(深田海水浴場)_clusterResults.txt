@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クリスタルビーチ(深田海水浴場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 海水浴場, 駐車場代
+cluster1:(2)
+下田方面, 観光協会
+cluster2:(3)
+隣, 奥, 手前
+cluster3:(4)
+目, 人, 時間, 前
+cluster4:(1)
+水シャワー
+cluster5:(2)
+家, 石ころだらけ
+cluster6:(10)
+南伊豆, ビーチ, ホテル, 西伊豆, 海水浴, シュノーケル, シャワー, クリスタルビーチ, イメージ, 伊豆半島
+cluster7:(1)
+穴場
+cluster8:(1)
+富士
+cluster9:(8)
+泳ぎ, 岩場, 海岸, 夕日, 夕陽, 波, 海, 砂浜
+cluster10:(1)
+感想はなし
+
+howmany entities : 36
+howmany clusters : 11
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 8entities.

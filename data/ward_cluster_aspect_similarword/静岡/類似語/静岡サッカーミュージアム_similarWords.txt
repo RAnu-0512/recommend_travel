@@ -1,0 +1,11 @@
+--------------------similar_words:静岡サッカーミュージアム--------------------
+top3 entities near to cluster1>>
+写真表, 歴史, 写真
+top3 entities near to cluster2>>
+ユニホーム, ユニフォーム, 入り口
+top3 entities near to cluster3>>
+サッカー, ラグビー, フットボール
+top3 entities near to cluster6>>
+出身, 代表, 歴代
+top3 entities near to cluster7>>
+選手, 競技, 野球

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:守山西公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伝堀越御所跡, 願成就院跡
+cluster1:(13)
+事, 整備, 概略, 狩野川, 汗, 富士山, 市街地, ガラスパネル, 源頼朝, 場所, 中心, ゆかり, ビューポイント
+cluster2:(6)
+雪, 山道, 山頂, 奥, 高台, 山
+cluster3:(2)
+東岸, 伊豆長岡駅
+cluster4:(1)
+標高
+cluster5:(3)
+本拠, 執権, 権勢
+cluster6:(9)
+駐車場, 散策路, 跡, 公園, 公園入り口脇, 自然公園, 大銀杏, 館跡, 館
+cluster7:(10)
+北條, 鎌倉, 守山, 展望台, 北条, 韮山, ふるさと守山, 鎌倉幕府, 守山西公園, 守山展望台
+
+howmany entities : 46
+howmany clusters : 8
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 5
+deleted 5entities.

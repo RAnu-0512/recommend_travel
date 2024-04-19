@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京ミステリーサーカス(TOKYO MYSTERY CIRCUS)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ワクワク感, 暑すぎ, 没入感, 謎解き
+cluster1:(2)
+少人数, 人数
+cluster2:(7)
+応対, 受付スタッフ, 案内スタッフ, 不備, 参加者, 時間潰し, 参加
+cluster3:(2)
+値段, 購入
+cluster4:(8)
+作品, 謎, 最後, 場所, 他, 時間, 違い, もの
+cluster5:(8)
+スタッフ, 出入り口, コラボ, 振る舞い, グループ, デスゲーム, ライアーゲーム, ストーリー
+cluster6:(2)
+支払い, メール
+cluster7:(3)
+人, 子供, 家族
+cluster8:(5)
+ノリ, 表情, 質, 才能, 声
+cluster9:(2)
+劇風, 大人達
+
+howmany entities : 43
+howmany clusters : 10
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 10
+deleted 0entities.

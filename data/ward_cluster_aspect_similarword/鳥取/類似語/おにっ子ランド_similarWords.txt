@@ -1,0 +1,15 @@
+--------------------similar_words:おにっ子ランド--------------------
+top3 entities near to cluster1>>
+鬼っ子, 鬼, 伝説
+top3 entities near to cluster2>>
+銅像, 石像
+top3 entities near to cluster3>>
+丘, 草原, 山
+top3 entities near to cluster4>>
+公園, 園内, 道路
+top3 entities near to cluster5>>
+滑り台, すべり台, 子供
+top3 entities near to cluster8>>
+素, ぴんでも, 淮会
+top3 entities near to cluster9>>
+入園, 無料, 入場

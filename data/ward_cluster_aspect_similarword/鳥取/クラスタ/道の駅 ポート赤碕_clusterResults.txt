@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 ポート赤碕>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+スライダー, コンビニ, 船上山, ローソン, 日本, 農産物, 男子, 魚介類, 買い物, 地元, 山陰本線, 韓国, コーナー, 見どころ, 海沿い, ジャングルジム, 大き目, 子供, 日本海, 勿論, 娘
+cluster1:(3)
+タコ, 魚, 鯨
+cluster2:(3)
+幸, 山, 海
+cluster3:(1)
+筋肉
+cluster4:(1)
+ラーメン屋
+cluster5:(1)
+食通
+cluster6:(20)
+情報コーナー, トイレ休憩, 駅, 間, 子供達, 用事, 収集, 高さ, 町, 道, 公園, 休憩, 遊具, 距離, 規模, 食事, 情報, 斜面, 時間, 場所
+cluster7:(4)
+赤碕町, 琴浦町, 駅 ポート赤碕, 赤碕駅
+cluster8:(6)
+要塞基地, 国道沿い, 八橋駅, 道の駅, 駐車場, 国道
+cluster9:(3)
+物産館, 鮮魚店, 青果
+cluster10:(2)
+魚料理 海, 魚直売所
+cluster11:(1)
+松葉ガニ
+cluster12:(3)
+日韓友好公園, 獲れたて魚介類, 日韓友好資料館
+
+howmany entities : 69
+howmany clusters : 13
+howmany entities (more than1entities) : 69
+howmany clusters (more than1entities) : 13
+deleted 0entities.

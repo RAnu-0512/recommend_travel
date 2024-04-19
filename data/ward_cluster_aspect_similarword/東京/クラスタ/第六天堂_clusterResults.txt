@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:第六天堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+恵み, 土地, 人々, 祠
+cluster1:(4)
+幸福, 中野, 観音, 成願寺
+cluster2:(1)
+開拓者
+cluster3:(2)
+山手通り, 鈴木九郎
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

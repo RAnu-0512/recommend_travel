@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南部町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+南部町, パンフレット, イベント, 産物, スタッフ, フルーツ, 風景, 富有柿, 他県, 興味, 町, 資料, 鳥取, マップ, 近在, 名前, 主力, 天然, レンタルサイクル
+cluster1:(2)
+まちのえき, とっとり花回廊
+cluster2:(6)
+観光, 南部町観光協会, 観光地, 観光協会, 観光スポット, 駐車場
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 3
+deleted 0entities.

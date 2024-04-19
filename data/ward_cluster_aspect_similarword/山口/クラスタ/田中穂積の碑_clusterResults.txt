@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田中穂積の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+方, 方達
+cluster1:(2)
+石碑, 銅像
+cluster2:(1)
+美しき天然
+cluster3:(1)
+吉香神社
+cluster4:(1)
+外国人観光客
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

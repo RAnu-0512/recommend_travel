@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なぎさ園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 事故渋滞, 交通状況
+cluster1:(2)
+食べ放題, 満足感
+cluster2:(3)
+時間通り, 受付時間, 時間
+cluster3:(3)
+いちご狩り, なぎさ園, 石垣いちご
+cluster4:(3)
+茶, 赤, 縁
+cluster5:(3)
+事前, 予定, 余裕
+cluster6:(3)
+気持ち, 問い合わせ, オーナー
+cluster7:(3)
+ハウス, いちごハウス, いちご
+cluster8:(1)
+人グループ
+cluster9:(1)
+雨
+cluster10:(1)
+貸切
+cluster11:(1)
+ちご
+cluster12:(1)
+神奈川県
+
+howmany entities : 28
+howmany clusters : 13
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 7
+deleted 7entities.

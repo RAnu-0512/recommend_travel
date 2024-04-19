@@ -1,0 +1,15 @@
+--------------------similar_words:武蔵野市民文化会館--------------------
+top3 entities near to cluster0>>
+会館, 文化, 市民
+top3 entities near to cluster2>>
+駅, 駅前, 市民
+top3 entities near to cluster4>>
+演奏会, 演奏, 公演
+top3 entities near to cluster5>>
+音響, 音楽, 設備
+top3 entities near to cluster6>>
+施設, 設備, 建物
+top3 entities near to cluster7>>
+多, 目的, 少ない
+top3 entities near to cluster8>>
+工事, 改修, 修繕

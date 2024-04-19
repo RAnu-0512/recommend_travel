@@ -1,0 +1,13 @@
+--------------------similar_words:三百田氏住宅--------------------
+top3 entities near to cluster0>>
+住宅, 建物, 家屋
+top3 entities near to cluster1>>
+家風, 家筋
+top3 entities near to cluster2>>
+屋根, 葺材, 茅ぶき
+top3 entities near to cluster3>>
+庄屋, 名主, 百姓
+top3 entities near to cluster4>>
+移築, 建立, 改築
+top3 entities near to cluster5>>
+民俗, 郷土, 歴史

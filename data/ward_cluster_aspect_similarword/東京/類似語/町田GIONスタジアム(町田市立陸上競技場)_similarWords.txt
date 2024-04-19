@@ -1,0 +1,21 @@
+--------------------similar_words:町田GIONスタジアム(町田市立陸上競技場)--------------------
+top3 entities near to cluster0>>
+競技場, 競技, 陸上
+top3 entities near to cluster2>>
+バス, 車庫, バスターミナル
+top3 entities near to cluster3>>
+バス停, 最寄り駅, 最寄り
+top3 entities near to cluster4>>
+総勢
+top3 entities near to cluster6>>
+都, 天空, 緑
+top3 entities near to cluster7>>
+公園, 緑地, 運動公園
+top3 entities near to cluster8>>
+駅, 徒歩, 周辺
+top3 entities near to cluster9>>
+散策, 開催, 試合
+top3 entities near to cluster10>>
+本数, 回数, 便数
+top3 entities near to cluster11>>
+渋滞, 混雑, 通行止め

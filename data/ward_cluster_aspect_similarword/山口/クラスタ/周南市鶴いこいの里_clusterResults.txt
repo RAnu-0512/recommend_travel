@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:周南市鶴いこいの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+唯一, 多く
+cluster1:(1)
+ナベヅル
+cluster2:(1)
+本州
+cluster3:(1)
+鶴
+cluster4:(2)
+渡来地, 屋代地区
+cluster5:(1)
+周南市
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

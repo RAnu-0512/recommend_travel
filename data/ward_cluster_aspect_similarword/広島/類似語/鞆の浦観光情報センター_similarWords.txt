@@ -1,0 +1,13 @@
+--------------------similar_words:鞆の浦観光情報センター--------------------
+top3 entities near to cluster0>>
+土産屋, おみやげ屋, 土産, おみやげ
+top3 entities near to cluster1>>
+土産, おみやげ, 土産物
+top3 entities near to cluster2>>
+情報, 駐車, 資料
+top3 entities near to cluster3>>
+浦, 鞆, クンポ
+top3 entities near to cluster4>>
+バス, トモテツバス, 駅
+top3 entities near to cluster5>>
+名所, ロケ, 名所旧跡

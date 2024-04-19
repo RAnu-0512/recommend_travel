@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線 東銀座駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+東京都, 東銀座駅, 東京メトロ日比谷線, 東京, 銀座駅, 銀座, 都営
+cluster1:(7)
+地上, 地下売店, 線路, 歌舞伎タワー直結, 駅, 改札, 地下
+cluster2:(2)
+対応, 電話
+cluster3:(10)
+ワイヤレスイヤホン, ティッシュ, 都営地下鉄, 浅草線, ホーム, チョッ, メトロ, イメージ, 歌舞伎座, 乗り換え
+cluster4:(2)
+汚れ, 散歩
+cluster5:(1)
+左耳
+cluster6:(1)
+乗換え割引対象
+cluster7:(1)
+イヤホン
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 8
+deleted 0entities.

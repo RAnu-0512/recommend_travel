@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐伯総合スポーツ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山麓, 敷地
+cluster1:(3)
+テニス, テニスコート, 野球
+cluster2:(9)
+サッカー, 体育館, ランニングコース, 鷹巣山, ロッカー, スポーツ, インド, 運動公園, 各種
+cluster3:(3)
+陸上競技場, 駐車場, 総合スポーツ公園
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:摩訶耶寺宝物殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+不動明王像, 見ごたえ, 本堂, 平安, セット, 受付
+cluster1:(2)
+宝物館, 庭園鑑賞
+cluster2:(1)
+入館料
+cluster3:(1)
+江戸時代初期
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

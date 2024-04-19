@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:VR頭號プレイヤー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時間帯, 時間
+cluster1:(2)
+興味, 要領
+cluster2:(14)
+ゲーム, 初心者, アトラクション, 別, スター・ウォーズ, 他, 助け, 店員, クーポン, 船, 方, 物, 最初, ストーリー
+cluster3:(1)
+VRゲーム
+cluster4:(1)
+没入感
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,29 @@
+--------------------similar_words:伊豆長岡温泉--------------------
+top3 entities near to cluster0>>
+駅, 公園, 駅前
+top3 entities near to cluster1>>
+泉質, 無色, 泉
+top3 entities near to cluster5>>
+雰囲気, 気持ち, 街並み
+top3 entities near to cluster7>>
+ホテル, 露天風呂, 温泉
+top3 entities near to cluster8>>
+ペット, ワンコ, 水族館
+top3 entities near to cluster11>>
+近辺, 裏手, 周辺
+top3 entities near to cluster12>>
+利用, 立地, 宿泊
+top3 entities near to cluster13>>
+お湯, 湯, 温度
+top3 entities near to cluster14>>
+身体, 食事, 靴
+top3 entities near to cluster15>>
+宿泊地, 温泉地, 温泉, 宿泊
+top3 entities near to cluster18>>
+宿泊, 施設, ホテル
+top3 entities near to cluster19>>
+家族, 土産, おみやげ
+top3 entities near to cluster21>>
+温泉, 旅館, 宿
+top3 entities near to cluster22>>
+風呂, 足湯, 浴場

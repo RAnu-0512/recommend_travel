@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹明藁工芸館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+博物館, ワラジ
+cluster1:(1)
+自宅
+cluster2:(1)
+蔵
+cluster3:(1)
+藁
+cluster4:(1)
+ミノ
+cluster5:(1)
+竹明
+cluster6:(1)
+竹明藁工芸館
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

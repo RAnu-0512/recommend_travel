@@ -1,0 +1,11 @@
+--------------------similar_words:御穂神社--------------------
+top3 entities near to cluster1>>
+道路, 入口, 正門
+top3 entities near to cluster2>>
+神社, 境内, 参道
+top3 entities near to cluster3>>
+朝廷, 東征, 武将
+top3 entities near to cluster4>>
+神, 信仰, 神様
+top3 entities near to cluster5>>
+清水, 松原, 松

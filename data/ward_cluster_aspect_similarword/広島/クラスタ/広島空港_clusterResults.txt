@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島空港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+空港バス, 空港
+cluster1:(1)
+バス
+cluster2:(2)
+自販機, 時間
+cluster3:(1)
+少し
+cluster4:(1)
+仕事関係
+cluster5:(1)
+展望デッキ
+cluster6:(1)
+もみじ饅頭
+cluster7:(1)
+広島市
+cluster8:(1)
+満員状態
+
+howmany entities : 11
+howmany clusters : 9
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 9
+deleted 0entities.

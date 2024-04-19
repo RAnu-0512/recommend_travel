@@ -1,0 +1,23 @@
+--------------------similar_words:森町体験の里アクティ森--------------------
+top3 entities near to cluster0>>
+地場, モロ, 産品
+top3 entities near to cluster1>>
+森, 鮎, 川
+top3 entities near to cluster2>>
+陶器, 陶芸, 粘土
+top3 entities near to cluster3>>
+川遊び, カヌー, バーベキュー
+top3 entities near to cluster4>>
+手作り, イベント, ワークショップ
+top3 entities near to cluster6>>
+飲み物, コップ, アイス
+top3 entities near to cluster8>>
+子供, 子ども, 息子
+top3 entities near to cluster9>>
+敷地, 室内, 中庭
+top3 entities near to cluster10>>
+家族, 姪, ご飯
+top3 entities near to cluster12>>
+体験型, 施設, 体験
+top3 entities near to cluster13>>
+体験, 体験談, 体感

@@ -1,0 +1,19 @@
+--------------------similar_words:寅さんの碑--------------------
+top3 entities near to cluster1>>
+寅, 渥美, 乃虎
+top3 entities near to cluster2>>
+参道, 境内, 本殿
+top3 entities near to cluster3>>
+石碑, 碑石
+top3 entities near to cluster4>>
+脇, 字
+top3 entities near to cluster5>>
+昔, 男, 思い出
+top3 entities near to cluster6>>
+文章, 言葉, 作品
+top3 entities near to cluster7>>
+気分, 気持ち, 気持
+top3 entities near to cluster8>>
+口上, 前口上, 台詞
+top3 entities near to cluster9>>
+映画, 台詞, 俳優

@@ -1,0 +1,31 @@
+--------------------similar_words:くるま屋--------------------
+top3 entities near to cluster0>>
+商店街, 繁華街, 商店, 繁華
+top3 entities near to cluster1>>
+記念, 写真, 撮影
+top3 entities near to cluster3>>
+写真, 乗車, 予約
+top3 entities near to cluster5>>
+人混み, 人力車, ガイド
+top3 entities near to cluster6>>
+クルマ, 車両
+top3 entities near to cluster7>>
+母親, 田舎, 両親
+top3 entities near to cluster8>>
+満開, 桜
+top3 entities near to cluster9>>
+時間, 日数, 時
+top3 entities near to cluster10>>
+話, 次週, 前回
+top3 entities near to cluster11>>
+よう, わけ
+top3 entities near to cluster12>>
+担当, 兼務, 解説
+top3 entities near to cluster13>>
+趣向, 嗜好, 趣
+top3 entities near to cluster14>>
+笑顔, 勇気
+top3 entities near to cluster15>>
+世話, 眺め
+top3 entities near to cluster16>>
+完成度, 完成, 出来上がる

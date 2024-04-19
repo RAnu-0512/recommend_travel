@@ -1,0 +1,13 @@
+--------------------similar_words:JR大井町駅--------------------
+top3 entities near to cluster0>>
+町, 駅, 駅前中央
+top3 entities near to cluster2>>
+人達
+top3 entities near to cluster3>>
+時点, 時間, 時
+top3 entities near to cluster4>>
+待ち合わせ, 乗り継ぎ, 駅
+top3 entities near to cluster5>>
+沿線, 阪急, 私鉄
+top3 entities near to cluster6>>
+駅, 駅前, 周辺

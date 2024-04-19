@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:砂丘会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+海鮮丼, 砂丘, JR鳥取駅, 観光客, 砂丘会館, 駐車場
+cluster1:(2)
+梨狩り, 梨
+cluster2:(18)
+土産物店, 感じ, 次, ウニ, 土産, スタッフ, レストラン, エビ, 問題, 鳥取砂丘, 鳥取, デザート, 近く, 雰囲気, 温泉, 食事, 海鮮, 計画
+cluster3:(2)
+厚意, スタッフさん達
+cluster4:(3)
+新鮮さ, 臭く, プリプリ感
+cluster5:(2)
+予約無し, 予定時間
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 6
+deleted 0entities.

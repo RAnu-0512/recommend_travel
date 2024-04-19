@@ -1,0 +1,15 @@
+--------------------similar_words:東京流通センター(TRC)--------------------
+top3 entities near to cluster0>>
+弁当, 食事, ご飯
+top3 entities near to cluster1>>
+セール, バーゲン, クリアランスセール
+top3 entities near to cluster2>>
+イベント, セミナー, アクセス
+top3 entities near to cluster3>>
+回目, 回人, 回
+top3 entities near to cluster4>>
+会場, 開場, 当日
+top3 entities near to cluster5>>
+F, ホール, アネックスホール
+top3 entities near to cluster6>>
+駅, 駅前, 構内

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海アートアンティーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+店主, 店長, 店
+cluster1:(6)
+教室, 語, 予約, 旅行, アンティーク品, 鏡
+cluster2:(2)
+満足, 感謝
+cluster3:(10)
+最後, 地元, 絵柄, 方, 日本, もの, 時間, 指導, 作品, 説明
+cluster4:(14)
+コップ, ステンドグラス, ハンダ, 家族, ホテル, 猫, 思い出, それぞれ, グラス, 子供, 新聞紙, オーナー, オススメ, サンドブラスト
+cluster5:(5)
+物作り, 家族連れ, ステンドグラス体験, サンドブラスト体験, 体験
+cluster6:(3)
+駐車場, 熱海, 熱海駅
+cluster7:(1)
+緊張感
+
+howmany entities : 44
+howmany clusters : 8
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 6
+deleted 3entities.

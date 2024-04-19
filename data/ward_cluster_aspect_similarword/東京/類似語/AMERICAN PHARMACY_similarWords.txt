@@ -1,0 +1,19 @@
+--------------------similar_words:AMERICAN PHARMACY--------------------
+top3 entities near to cluster0>>
+海外, 国内, 国外
+top3 entities near to cluster1>>
+丸ビル, デパート, オアゾショップ
+top3 entities near to cluster2>>
+商品, ほか, これら
+top3 entities near to cluster3>>
+店内, 店名
+top3 entities near to cluster4>>
+駅, 駅前, 都
+top3 entities near to cluster5>>
+雑貨店, 雑貨, 輸入
+top3 entities near to cluster6>>
+菓子, お菓子, 洋菓子
+top3 entities near to cluster7>>
+輸入品, 品等, 輸入
+top3 entities near to cluster8>>
+そば, 丸ビル

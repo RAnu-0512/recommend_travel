@@ -1,0 +1,11 @@
+--------------------similar_words:ブルーベリー摘み取り(石坂武氏の農園)--------------------
+top3 entities near to cluster0>>
+ジャム, ブルーベリー, コンフィチュール
+top3 entities near to cluster3>>
+世話, 看病, 親代わり
+top3 entities near to cluster4>>
+お鍋, 焼きうどん
+top3 entities near to cluster5>>
+摘み, 摘み取り, 摘む
+top3 entities near to cluster6>>
+体験, つくり

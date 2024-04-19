@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩屋寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+登山, 山奥, 中腹, 山, 道
+cluster1:(11)
+トイレ, 眺め, 中, 市, 車, コンパクトカー, 人, 雰囲気, 空気, こと, 安心
+cluster2:(9)
+備後西国霊場, 小さなお寺, 境内, 寺, 住職, 札所, 岩屋寺, 山門, 朱印
+cluster3:(1)
+───O
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 4
+deleted 0entities.

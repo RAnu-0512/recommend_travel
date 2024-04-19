@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銚子塚古墳附小銚子塚古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+銚子塚古墳, 小銚子塚古墳
+cluster1:(2)
+前方後方墳, 古墳時代前期
+cluster2:(2)
+森, 木
+cluster3:(7)
+場所, 辺り, 時代, 北側, 駐車, 三角縁神獣鏡, 前方
+cluster4:(1)
+全長
+cluster5:(1)
+古墳
+cluster6:(1)
+国指定文化財
+cluster7:(1)
+寺谷浄水場
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 10entities.

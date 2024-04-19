@@ -1,0 +1,13 @@
+--------------------similar_words:横綱力士碑--------------------
+top3 entities near to cluster0>>
+裏手, 境内, 入り口
+top3 entities near to cluster1>>
+相撲, 力士, 大相撲
+top3 entities near to cluster2>>
+力士碑, 力士, 横綱
+top3 entities near to cluster3>>
+力士, 横綱, 大関
+top3 entities near to cluster4>>
+横綱, 関脇, 力士
+top3 entities near to cluster5>>
+年, 11, 12

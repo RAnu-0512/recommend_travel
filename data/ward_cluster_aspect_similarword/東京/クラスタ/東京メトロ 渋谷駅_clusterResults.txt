@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ 渋谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+東横線, 海外, ベビーカー, 人, 改善, 仕事, ホーム, 渋谷, 移動, 地下鉄, 日本, 車椅子対応, 方, アナウンス, 目, 乗り換え
+cluster1:(2)
+地上, 地下
+cluster2:(2)
+通路, 階段
+cluster3:(8)
+壁画, 柱, 始発, 語, 路線, 駅, 風景, 色
+cluster4:(1)
+右側通行
+cluster5:(7)
+東京都, 門線, 副都心線, 東急各線, 東京メトロ, 銀座線, 京王井の頭線
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 6
+deleted 0entities.

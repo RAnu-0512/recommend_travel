@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:虹ケ浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+虹ヶ浜海水浴場, 虹ヶ浜
+cluster1:(2)
+季節, 時期
+cluster2:(2)
+夏, 夏場
+cluster3:(8)
+カフェ, シーズン, 西日本, オススメ, ゴールデンウィーク, 鯉のぼり, アクセス, シーズンオフ
+cluster4:(3)
+海水浴, ビーチ, 魚釣り
+cluster5:(11)
+多く, 家族, 気, 家, 理由, 日本, 人気, 子, 感じ, 人, 近く
+cluster6:(12)
+心, 景色, 島々, 車, 空, 海水浴客, 波, 人影, 駅, 電車, 海, 写真
+cluster7:(7)
+子供, 大人数, 家族連れ, 大人, 散歩コース, 子供たち, 散歩
+cluster8:(18)
+渚百選, 海岸線, 白砂, 花火大会, 虹色, 遠浅, 砂浜, 徒歩圏, 潮風, 浜辺, 近さ, 光, 海岸, 海水浴場, 花火, JR光駅, 駐車場, 光市
+
+howmany entities : 65
+howmany clusters : 9
+howmany entities (more than1entities) : 65
+howmany clusters (more than1entities) : 9
+deleted 0entities.

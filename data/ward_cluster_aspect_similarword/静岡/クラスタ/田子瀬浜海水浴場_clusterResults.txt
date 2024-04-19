@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田子瀬浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+瀬浜海岸, 西伊豆堂ヶ島, 田子・瀬浜海岸
+cluster1:(2)
+駐車場, 海水浴場
+cluster2:(2)
+海水浴, 海水浴シーズン
+cluster3:(3)
+シート, テント, ブルー
+cluster4:(8)
+ラーメン, イシダイ, シュノーケル, シャワー, とりどり, コンビニ, ほとんど, シュノーケリング
+cluster5:(2)
+自販機, トイレ
+cluster6:(1)
+ワゴン
+cluster7:(1)
+熱帯魚
+cluster8:(1)
+西伊豆
+cluster9:(25)
+目, 陰, 北, 周り, 密, 水, 無料シャワー, こと, 下, 家, 昼, 役, 予約, もの, 人, 国道, 肉眼, あり波, ウイルス対策, 距離, 中, 足, 前, ほう, 道
+cluster10:(10)
+貝, カニ, ウニ, 海岸, 島, 浜, 盆, 海, 砂浜, 石
+cluster11:(2)
+魚, 魚たち
+cluster12:(2)
+子供達, 子供
+cluster13:(1)
+遊泳エリア
+cluster14:(1)
+透明度
+cluster15:(1)
+浮き輪
+cluster16:(1)
+完全予約制
+
+howmany entities : 66
+howmany clusters : 17
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 5
+deleted 17entities.

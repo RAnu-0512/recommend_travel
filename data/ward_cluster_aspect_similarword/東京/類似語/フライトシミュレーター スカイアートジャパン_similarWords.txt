@@ -1,0 +1,23 @@
+--------------------similar_words:フライトシミュレーター スカイアートジャパン--------------------
+top3 entities near to cluster0>>
+B, A, 737
+top3 entities near to cluster1>>
+体験, 体験談, 内容
+top3 entities near to cluster2>>
+受付, 終了, 時間
+top3 entities near to cluster3>>
+息子, 長男, 家族
+top3 entities near to cluster4>>
+コックピット, コクピット, パイロット
+top3 entities near to cluster5>>
+スタッフ, アシスタント, ディレクター
+top3 entities near to cluster6>>
+キャビン, コテージ, コックピット
+top3 entities near to cluster7>>
+コーヒー, コーヒ, エスプレッソ
+top3 entities near to cluster8>>
+コース, フォレストコース, レイクコース
+top3 entities near to cluster9>>
+オート, パイロット, キャリパス
+top3 entities near to cluster11>>
+操縦機, 操縦, 小型機, 小型

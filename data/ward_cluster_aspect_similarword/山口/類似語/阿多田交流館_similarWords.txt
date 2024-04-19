@@ -1,0 +1,17 @@
+--------------------similar_words:阿多田交流館--------------------
+top3 entities near to cluster1>>
+館, 資料, 史料
+top3 entities near to cluster3>>
+直前, 直後, 以前
+top3 entities near to cluster4>>
+勉強, 部屋, 自室
+top3 entities near to cluster5>>
+実物, 現物, 原寸
+top3 entities near to cluster6>>
+回転, 旋回, さびつく
+top3 entities near to cluster7>>
+映画, 戦争, ロケ
+top3 entities near to cluster8>>
+基地, 訓練, 部隊
+top3 entities near to cluster9>>
+魚雷, 潜水, 酸素

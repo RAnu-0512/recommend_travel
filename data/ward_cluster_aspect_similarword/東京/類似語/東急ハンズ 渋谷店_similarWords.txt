@@ -1,0 +1,57 @@
+--------------------similar_words:東急ハンズ 渋谷店--------------------
+top3 entities near to cluster0>>
+用品, 用具, 雑貨
+top3 entities near to cluster1>>
+器具, 調理, 実験
+top3 entities near to cluster2>>
+雑貨品, 雑貨, 小物
+top3 entities near to cluster5>>
+駅, 駅前, 南口
+top3 entities near to cluster6>>
+カフェ, 喫茶店, スペース
+top3 entities near to cluster7>>
+ハンド, ネック, カット
+top3 entities near to cluster8>>
+インク, トレー, トレイ
+top3 entities near to cluster9>>
+センス, 気持ち, 使い方
+top3 entities near to cluster10>>
+インテリア, 東急ハンズ, 雑貨
+top3 entities near to cluster11>>
+大根おろし, 下ろし金, おろし金
+top3 entities near to cluster12>>
+ショップ, イベント, グッズ
+top3 entities near to cluster13>>
+自転車, 買い物, カバン
+top3 entities near to cluster14>>
+東横線, 東急東横, 目蒲線
+top3 entities near to cluster15>>
+フロア, 売り場, 売場
+top3 entities near to cluster17>>
+バス, 送迎, シャトル
+top3 entities near to cluster18>>
+革, 牛革, レザー
+top3 entities near to cluster19>>
+グッズ, グッツ, アイディア
+top3 entities near to cluster20>>
+グッズ, グッツ, マタニティーグッズ
+top3 entities near to cluster21>>
+グッツ, グッズ, ＧＯＯＤＳ
+top3 entities near to cluster22>>
+便利, グッズ, おもしろ
+top3 entities near to cluster23>>
+食材, 小物, 衣類
+top3 entities near to cluster24>>
+商品, 店舗
+top3 entities near to cluster25>>
+階段状, 階段, 螺旋状, 螺旋
+top3 entities near to cluster26>>
+欲しい, 珍しい, 少ない
+top3 entities near to cluster27>>
+買う, 探し, 買っ
+top3 entities near to cluster28>>
+大きい, 高, 伺える
+top3 entities near to cluster29>>
+同士, 友達
+top3 entities near to cluster31>>
+時間, 日分, 日

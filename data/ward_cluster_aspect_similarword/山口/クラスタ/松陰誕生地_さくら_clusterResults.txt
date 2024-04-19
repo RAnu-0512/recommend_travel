@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松陰誕生地_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松陰神社, ところ
+cluster1:(1)
+境内
+cluster2:(1)
+桜
+cluster3:(1)
+萩本陣
+cluster4:(1)
+松陰誕生地
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

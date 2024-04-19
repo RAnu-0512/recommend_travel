@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:潮音洞>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+重友, 寺, 開作, 江戸時代, 水田, 裏手, 岩崎想左衛門, 生活用水, 水, 藩政時代, 裏山, 庭園, 水路, 名水, 鹿野台地
+cluster1:(3)
+周南市, 潮音洞, 漢陽寺
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

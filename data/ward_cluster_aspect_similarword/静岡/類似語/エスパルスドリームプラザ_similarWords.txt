@@ -1,0 +1,85 @@
+--------------------similar_words:エスパルスドリームプラザ--------------------
+top3 entities near to cluster0>>
+ちび, まる, ちゃん
+top3 entities near to cluster1>>
+まる, ちゃん, ちび
+top3 entities near to cluster2>>
+まる, 子, ちゃん
+top3 entities near to cluster5>>
+まぐろ, マグロ, アイスクリーム
+top3 entities near to cluster6>>
+フェリー, 海沿い, クルーズ
+top3 entities near to cluster7>>
+スタンプ, ぬいぐるみ, コースター
+top3 entities near to cluster9>>
+レストラン, バイキング, テイクアウト
+top3 entities near to cluster10>>
+ミュージアム, エレベーター, プログラム
+top3 entities near to cluster13>>
+スーパーマーケット, ショッピングモール, イオンショッピングモール
+top3 entities near to cluster16>>
+シュークリーム, バラエティー, キャラクター
+top3 entities near to cluster17>>
+イベント, ファミリー, スイーツフェア
+top3 entities near to cluster19>>
+ショップ, コーナー, スーパー
+top3 entities near to cluster21>>
+サービス, メニュー, メイン
+top3 entities near to cluster22>>
+気持ち, 思い出, ファン
+top3 entities near to cluster23>>
+さくら, コジコジ, ウンコ
+top3 entities near to cluster25>>
+食べ物, スイーツ, お菓子
+top3 entities near to cluster29>>
+買い物, 土産物, 寄り道
+top3 entities near to cluster30>>
+ランチ, レストラン, カフェ
+top3 entities near to cluster33>>
+ゲーム, アニメ, グッズ
+top3 entities near to cluster36>>
+プラザ, ＭＥＩＨＯ, センター
+top3 entities near to cluster40>>
+海, 海辺, 海風
+top3 entities near to cluster41>>
+休日, 閑散, 平日
+top3 entities near to cluster42>>
+天気雨, 天気, 屋外
+top3 entities near to cluster43>>
+景色, 写真, 夜景
+top3 entities near to cluster44>>
+駅, 駅前, 道路
+top3 entities near to cluster46>>
+映画, 館, 館内
+top3 entities near to cluster49>>
+開店, 出店, 店内
+top3 entities near to cluster51>>
+大会, 催し, 催し物
+top3 entities near to cluster52>>
+購入, 販売, 利用
+top3 entities near to cluster58>>
+好み, 種類, 値段
+top3 entities near to cluster59>>
+以前, 今, 夕方
+top3 entities near to cluster69>>
+寿司, すし, 鮨
+top3 entities near to cluster70>>
+横丁, 横町, 屋台
+top3 entities near to cluster71>>
+土産物屋, 雑貨屋, 雑貨, 土産物
+top3 entities near to cluster72>>
+寿司屋, 鮨屋, 寿司, 鮨
+top3 entities near to cluster73>>
+料理店, 海鮮, 料理
+top3 entities near to cluster74>>
+駐車場, 駐車, 場代
+top3 entities near to cluster75>>
+バス, 送迎, シャトル
+top3 entities near to cluster76>>
+遊園地, 遊園, リンナンマキ
+top3 entities near to cluster77>>
+時間券, 入場券, 時間, 入場
+top3 entities near to cluster81>>
+バス, 外客, 名所
+top3 entities near to cluster86>>
+施設, 遊具, 観覧

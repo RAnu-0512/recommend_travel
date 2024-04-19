@@ -1,0 +1,15 @@
+--------------------similar_words:浅草寺 手水舎--------------------
+top3 entities near to cluster0>>
+龍像, 龍, 墨絵
+top3 entities near to cluster1>>
+龍, 神, 竜
+top3 entities near to cluster2>>
+本堂, 天井, 本殿
+top3 entities near to cluster3>>
+境内, 裏手
+top3 entities near to cluster4>>
+遺構, 遺跡, 痕跡
+top3 entities near to cluster5>>
+右手, 左手, 手前
+top3 entities near to cluster6>>
+角形, 八, 六

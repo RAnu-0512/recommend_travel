@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:帆船オーシャンプリンセス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+プリンセス号, 時間, ゴージャス, クルーズ, インテリア
+cluster1:(4)
+船, 停泊, 船舶, 帆船オーシャンプリンセス
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:よもぎ蒸しサロン Chill~チル~>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+店, ビル, 店内
+cluster1:(7)
+行き方, 家, ハーブ, 案内, 人, 香り, 効果
+cluster2:(1)
+ポカポカ感
+cluster3:(2)
+よもぎ蒸し自体, よもぎ蒸し
+cluster4:(2)
+よもぎ茶, よもぎ
+cluster5:(1)
+蒸し初体験
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

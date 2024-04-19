@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本橋ふくしま館 MIDETTE(ミデッテ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+福島, 福島応援, 福島アンテナショップ
+cluster1:(2)
+客, 店内
+cluster2:(2)
+菓子, 蕎麦
+cluster3:(2)
+神田, 都
+cluster4:(3)
+気, 笑, もの
+cluster5:(7)
+パフェ, 喜多方ラーメン, ラーメン, 賑わい, 買い物, 次, 生まれ
+cluster6:(3)
+憧れ, 気分, 故郷
+cluster7:(1)
+桃
+cluster8:(1)
+アンテナショップ巡り
+cluster9:(2)
+商品券, 散歩距離
+cluster10:(1)
+調味料
+
+howmany entities : 27
+howmany clusters : 11
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 11
+deleted 0entities.

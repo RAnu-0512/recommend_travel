@@ -1,0 +1,21 @@
+--------------------similar_words:火の山公園--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 満車
+top3 entities near to cluster1>>
+展望台, 展望, 山頂
+top3 entities near to cluster2>>
+完備, 扱い, 扱う
+top3 entities near to cluster3>>
+案内, 訪問, 工事
+top3 entities near to cluster4>>
+ビュースポット, 絶景, 街並み
+top3 entities near to cluster5>>
+列, 補助, と列
+top3 entities near to cluster8>>
+和布, 刈, 払鎌
+top3 entities near to cluster9>>
+公園, 遊歩道, 山頂
+top3 entities near to cluster10>>
+関門橋, 関門, トンネル
+top3 entities near to cluster11>>
+人道, 関門, トンネル

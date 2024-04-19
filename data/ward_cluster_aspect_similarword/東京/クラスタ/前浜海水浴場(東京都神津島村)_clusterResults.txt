@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:前浜海水浴場(東京都神津島村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+ビーチ, 島, アトラクション, ライフセーバー, 宿, ビーチバレー, 岩場, 入場, シャワー, ココ, 台風, 波, 海, 浜, 砂浜, サンシェード
+cluster1:(2)
+透明度, 高さ
+cluster2:(1)
+首都圏
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

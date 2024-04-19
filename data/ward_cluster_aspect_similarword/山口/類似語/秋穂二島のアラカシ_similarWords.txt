@@ -1,0 +1,11 @@
+--------------------similar_words:秋穂二島のアラカシ--------------------
+top3 entities near to cluster0>>
+巨木, 巨樹, ムクノキ
+top3 entities near to cluster1>>
+樹高, 草丈, 株立
+top3 entities near to cluster3>>
+樹齢, 推定, 巨木
+top3 entities near to cluster4>>
+囲, 幹, 囲目
+top3 entities near to cluster5>>
+寺, 泰, 境内

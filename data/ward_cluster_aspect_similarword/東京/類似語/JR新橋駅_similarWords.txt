@@ -1,0 +1,37 @@
+--------------------similar_words:JR新橋駅--------------------
+top3 entities near to cluster1>>
+地下街, 地下鉄, 出入口
+top3 entities near to cluster2>>
+東北線, 横須賀線, 横浜線
+top3 entities near to cluster3>>
+ライン, ホーム, ライト
+top3 entities near to cluster4>>
+飲み屋, カフェ, 喫茶店
+top3 entities near to cluster5>>
+真ん中, まわり, 周り
+top3 entities near to cluster6>>
+ほろ酔い, 昼下がり, 酔っぱらう
+top3 entities near to cluster7>>
+ターミナル, 乗り換え, 乗り継ぎ
+top3 entities near to cluster8>>
+ビジネスマン, ビジネス, スイーツ
+top3 entities near to cluster9>>
+スカーフ, バンダナ, ストール
+top3 entities near to cluster10>>
+都営地下鉄, 都営, 三田線
+top3 entities near to cluster11>>
+テレビ, ＴＶ, 番組
+top3 entities near to cluster12>>
+カルディ, カルディコーヒー, カルディコーヒーファーム
+top3 entities near to cluster13>>
+ガチャ, バレンタインガチャ, イベントガチャ
+top3 entities near to cluster14>>
+電車, 駅, 地下鉄
+top3 entities near to cluster16>>
+ゆり, かもめ, 憧花
+top3 entities near to cluster17>>
+営団, 地下鉄, メトロ
+top3 entities near to cluster18>>
+直電, 直, 胎母
+top3 entities near to cluster19>>
+駅, 駅前, 鉄道

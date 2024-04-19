@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊藤井上両公上陸の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊藤博文, 井上馨
+cluster1:(2)
+米, 英
+cluster2:(5)
+跡地, 碑, 歴史, 場所, 戦争
+cluster3:(1)
+留学先
+cluster4:(1)
+仏蘭
+cluster5:(1)
+連合艦隊
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

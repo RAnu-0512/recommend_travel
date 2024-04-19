@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:景福寺(鳥取県鳥取市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+側, 墓, 景福寺, 縁
+cluster1:(3)
+鳥取, 大阪夏, 後藤又兵衛
+cluster2:(1)
+戦国武将
+cluster3:(1)
+玄忠寺
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

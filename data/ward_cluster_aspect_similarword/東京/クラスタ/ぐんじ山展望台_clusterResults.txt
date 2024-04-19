@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぐんじ山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+崖, 島, ウミネコ, 岩場, 海, ぐんじ山, 岩, 神津島
+cluster1:(3)
+景色, 眼下, 眺め
+cluster2:(5)
+場所, 右手, 木, 近く, 時間
+cluster3:(3)
+群生地, 原生地, 展望台
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

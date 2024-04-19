@@ -1,0 +1,9 @@
+--------------------similar_words:JA伊豆太陽みかんワイナリー--------------------
+top3 entities near to cluster1>>
+みかん, ジュース, ミカン
+top3 entities near to cluster2>>
+ワイン, 地酒
+top3 entities near to cluster3>>
+土産店, 店員, 土産
+top3 entities near to cluster7>>
+試飲, 試食, 直売

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:綾広の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+石碑, 鳥居, 山道
+cluster1:(3)
+周囲, 手前, 脇
+cluster2:(2)
+場所, 時期
+cluster3:(5)
+ハイキングコース, ロックガーデン, 御岳山, 居心地, 雰囲気
+cluster4:(1)
+落差
+cluster5:(1)
+冷気
+cluster6:(7)
+渓流沿い, 滝行, 滝, 水神様, 御嶽神社, 滝壺, 岩窟状
+cluster7:(1)
+綾広ノ滝
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

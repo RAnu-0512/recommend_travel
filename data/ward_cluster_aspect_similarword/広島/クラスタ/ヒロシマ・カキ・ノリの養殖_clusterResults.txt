@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヒロシマ・カキ・ノリの養殖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+養殖場, 養殖
+cluster1:(2)
+観光スポット, 土産
+cluster2:(4)
+海苔, 広島, 牡蛎, カキ
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

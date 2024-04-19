@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王電鉄 下北沢駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ターミナル下北沢駅, 京王, 小田急線, 京王・下北沢駅
+cluster1:(18)
+地上, 吉祥寺, 通路, 小田急, 街, ホーム, 駅, 改札, トイレ, 下北沢, 若者, 写真, 構内, 周辺, ホームドア, 中央口, 下北沢駅, 京王線
+cluster2:(4)
+改装工事, 工事途中, 工事, 再開発
+cluster3:(1)
+京王電鉄下北沢駅
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

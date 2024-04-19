@@ -1,0 +1,25 @@
+--------------------similar_words:瀬戸内案内舎たびたす--------------------
+top3 entities near to cluster0>>
+到着, 出発, 手配
+top3 entities near to cluster1>>
+初心者, ビギナー, 初級
+top3 entities near to cluster2>>
+サイト, 口コミ, クチコミ
+top3 entities near to cluster3>>
+気持ち, 思い出, 日差し
+top3 entities near to cluster4>>
+サービス, スタッフ, レンタカー
+top3 entities near to cluster5>>
+ツアー, ガイド, コース
+top3 entities near to cluster6>>
+道案内, 手伝い, お手伝い
+top3 entities near to cluster9>>
+パン屋, パン, 工房
+top3 entities near to cluster11>>
+豪雨, 台風, 大雨
+top3 entities near to cluster12>>
+天気, 快晴, 予報
+top3 entities near to cluster13>>
+旅, 自転車
+top3 entities near to cluster14>>
+しまなみ, しま, 海道

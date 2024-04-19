@@ -1,0 +1,7 @@
+--------------------similar_words:伊藤博文旧宅、別邸--------------------
+top3 entities near to cluster1>>
+邸宅, 建物, 家屋
+top3 entities near to cluster2>>
+入館料, 入場料, 入館, 入場
+top3 entities near to cluster3>>
+平屋建て, 平屋, 木造

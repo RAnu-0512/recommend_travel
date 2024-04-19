@@ -1,0 +1,125 @@
+--------------------similar_words:第一ホテル両国--------------------
+top3 entities near to cluster0>>
+バター, ホタテ, ライス
+top3 entities near to cluster1>>
+グラス, ビール, レモン
+top3 entities near to cluster2>>
+ビュー, 駒形橋, 清洲橋
+top3 entities near to cluster3>>
+ヘルシー, スマート, ちゃんこ
+top3 entities near to cluster4>>
+コーヒー, テーブル, スプーン
+top3 entities near to cluster5>>
+プレゼント, バレンタイン, バレンタインデー
+top3 entities near to cluster6>>
+パッケージ, ラインナップ, 仕様
+top3 entities near to cluster7>>
+ボリューム, タイミング, ヴォリューム
+top3 entities near to cluster8>>
+ビジネスマン, サラリーマン, 食いしん坊
+top3 entities near to cluster9>>
+サラダ, アイスクリーム, シャーベット
+top3 entities near to cluster11>>
+ばたばた, 慌しい, 慌ただしい
+top3 entities near to cluster12>>
+ディナー, デザート, ランチ
+top3 entities near to cluster13>>
+スイーツ, スィーツ, プリン
+top3 entities near to cluster14>>
+天ぷら, レタス, てんぷら
+top3 entities near to cluster15>>
+プラス, ボリューム, プラスアルファ
+top3 entities near to cluster16>>
+タイプ, メイン, ススメ
+top3 entities near to cluster17>>
+スタッフ, サービス, 帰り際
+top3 entities near to cluster18>>
+シニア, ドラマ, 中高年
+top3 entities near to cluster19>>
+ゆとり, 余裕, クンニリング
+top3 entities near to cluster20>>
+道案内, ナビゲート, 案内
+top3 entities near to cluster21>>
+タイム, ティー, ハーフ
+top3 entities near to cluster22>>
+フロア, 各階, 地階
+top3 entities near to cluster23>>
+ホール, コンサートホール, スタッフ
+top3 entities near to cluster24>>
+ドリンク, 飲み物, ソフトドリンク
+top3 entities near to cluster25>>
+プラン, コース, デイプラン
+top3 entities near to cluster26>>
+スタイル, ビュッフェ, バイキング
+top3 entities near to cluster27>>
+コーナー, ビュッフェ, レストコーナー
+top3 entities near to cluster28>>
+メニュー, メニュ, ビュッフェ
+top3 entities near to cluster29>>
+ブッフェ, ビッフェ, ビッフェスタイル
+top3 entities near to cluster30>>
+味付け, ソース, 味つけ
+top3 entities near to cluster31>>
+ホテル, 口コミ, イビスホテル
+top3 entities near to cluster32>>
+雰囲気, 居心地, 気持ち
+top3 entities near to cluster33>>
+時間, 種類
+top3 entities near to cluster34>>
+席, 座席, 窓側
+top3 entities near to cluster35>>
+都心, 緑, 春
+top3 entities near to cluster36>>
+景色, 眺望, 夜景
+top3 entities near to cluster37>>
+気候, 環境, 住環境
+top3 entities near to cluster38>>
+季節, 時期, 春
+top3 entities near to cluster39>>
+梅, 桜, 窓
+top3 entities near to cluster40>>
+ランチ, ランチタイム, 美味しい
+top3 entities near to cluster41>>
+利用, 案内, 対応
+top3 entities near to cluster42>>
+配分, 消化, 予算
+top3 entities near to cluster43>>
+接客, 店員
+top3 entities near to cluster44>>
+余裕
+top3 entities near to cluster46>>
+印象, 内容, 雰囲気
+top3 entities near to cluster49>>
+状態, かたち
+top3 entities near to cluster51>>
+間隔, 等間隔, 距離
+top3 entities near to cluster52>>
+好感, 好意, 親近
+top3 entities near to cluster54>>
+フルネーム
+top3 entities near to cluster56>>
+男性, 女性, お客
+top3 entities near to cluster57>>
+近所, 隣, 近辺
+top3 entities near to cluster58>>
+家族, 友人, 妻
+top3 entities near to cluster59>>
+駅店, 駅前店, 駅, 駅前
+top3 entities near to cluster60>>
+コード, ＱＲ, コードアプリ
+top3 entities near to cluster61>>
+スープ, サラダ, グラタン
+top3 entities near to cluster62>>
+野菜, 鶏肉, 海鮮
+top3 entities near to cluster63>>
+出汁, 醤油, スープ
+top3 entities near to cluster64>>
+小皿, 小鉢, 皿
+top3 entities near to cluster65>>
+お鍋, 土鍋
+top3 entities near to cluster66>>
+非生, ハム, 非
+top3 entities near to cluster67>>
+料理, 和食, 食材
+top3 entities near to cluster68>>
+陶板, すき焼き

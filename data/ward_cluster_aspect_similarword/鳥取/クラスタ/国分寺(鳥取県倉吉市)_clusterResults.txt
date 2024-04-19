@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国分寺(鳥取県倉吉市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, お寺めぐり
+cluster1:(5)
+雰囲気, お守り, 国分寺, 町, 時間
+cluster2:(2)
+観光, 地名
+cluster3:(1)
+中心部
+cluster4:(1)
+倉吉市
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

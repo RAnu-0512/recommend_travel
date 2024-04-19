@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水窪湧水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+邪心, 白蛇, 祠
+cluster1:(4)
+水, 上, 昔, ポンプ
+cluster2:(3)
+滝, 鯉, 池
+cluster3:(1)
+湧水
+cluster4:(1)
+大岡山駅
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

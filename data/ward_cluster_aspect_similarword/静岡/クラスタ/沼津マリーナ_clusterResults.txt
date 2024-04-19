@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津マリーナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+プレジャーボート, クラブハウス
+cluster1:(1)
+マリーナ
+cluster2:(1)
+マリンスポーツ
+cluster3:(1)
+レンタルボートクラブ
+cluster4:(1)
+運営
+cluster5:(1)
+保管
+cluster6:(1)
+沼津
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

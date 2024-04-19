@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新羅三郎義光吹笙の石>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+笙, 秘曲
+cluster1:(6)
+足柄峠, 奥義, 歴史, 石, 秘伝, 戦死
+cluster2:(4)
+静岡県, 豊原時秋, 新羅三郎, 南足柄市
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

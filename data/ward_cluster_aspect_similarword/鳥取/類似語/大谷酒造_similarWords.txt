@@ -1,0 +1,15 @@
+--------------------similar_words:大谷酒造--------------------
+top3 entities near to cluster1>>
+鷹, 勇, 潭市
+top3 entities near to cluster2>>
+酒造, 酒屋
+top3 entities near to cluster3>>
+街道, 町並み, 狐越
+top3 entities near to cluster4>>
+創業, 明治, 創立
+top3 entities near to cluster6>>
+勇姿, 雄姿, 見学
+top3 entities near to cluster7>>
+愛鳥, 文鳥, 保護鳥
+top3 entities near to cluster8>>
+当主, 初代, 代目

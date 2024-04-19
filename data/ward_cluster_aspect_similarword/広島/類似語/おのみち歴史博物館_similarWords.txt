@@ -1,0 +1,21 @@
+--------------------similar_words:おのみち歴史博物館--------------------
+top3 entities near to cluster0>>
+館, 資料, 映画
+top3 entities near to cluster1>>
+銀行, 都市銀, 信金
+top3 entities near to cluster3>>
+金庫, 扉, ドア
+top3 entities near to cluster5>>
+建物, 博物館, 家屋
+top3 entities near to cluster6>>
+展示, 資料, 収蔵
+top3 entities near to cluster7>>
+本店, 支店, 本社
+top3 entities near to cluster8>>
+目的地, 遊園地, 遊園, 目的
+top3 entities near to cluster9>>
+土器, 書画, 絵画
+top3 entities near to cluster10>>
+展示室, 展示, 展覧
+top3 entities near to cluster11>>
+共通券, 前売り券, 共通, 前売り

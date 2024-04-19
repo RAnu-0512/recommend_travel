@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線駒込駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+JR, 路線, 駅, 改札, 正門, 駅前, 乗り換え駅, 町
+cluster1:(8)
+閑散, 六義園, 地上, 人, ドラックストア, ホーム, 乗り換え, 帰り
+cluster2:(3)
+メトロ南北線, 駒込, 南北線
+cluster3:(1)
+山手線
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

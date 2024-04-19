@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉川上水(桜堤〜御殿山)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸時代, 江戸市
+cluster1:(23)
+コロナウイルス, 水, 小金井公園, 上流, 花, 玉川上水, 葉桜, 緑, コイ, 色とりどり, 全長, 亀, 地域, 散歩, 川, 近辺, 武蔵野, ウォーキング, 木漏れ日, 小金井, 土手, 奥多摩, もの
+cluster2:(4)
+上水, 多摩源流, 立川, 玉川
+cluster3:(1)
+太宰治
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 4
+deleted 0entities.

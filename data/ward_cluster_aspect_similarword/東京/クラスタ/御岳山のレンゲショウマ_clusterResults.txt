@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御岳山のレンゲショウマ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+網, 柵
+cluster1:(4)
+言葉, 姿, 人々, 魅力
+cluster2:(5)
+場所, 断念, 感じ, 時期, こと
+cluster3:(2)
+被害, 訪問
+cluster4:(12)
+ケーブルカー, 花, レンゲショウマ, 動物, ところ, 滝, お花, 写真, 御岳山, 盛り, 必死, 下向き
+cluster5:(1)
+見頃
+cluster6:(3)
+群生地, 台風接近, 御嶽神社
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

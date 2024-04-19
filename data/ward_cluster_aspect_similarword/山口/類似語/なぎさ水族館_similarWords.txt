@@ -1,0 +1,11 @@
+--------------------similar_words:なぎさ水族館--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 娘
+top3 entities near to cluster1>>
+生物, 生態, サメ
+top3 entities near to cluster2>>
+良さ, いがむ
+top3 entities near to cluster3>>
+生き物, 子ども, 子供
+top3 entities near to cluster5>>
+水槽, 館, アクアリウム

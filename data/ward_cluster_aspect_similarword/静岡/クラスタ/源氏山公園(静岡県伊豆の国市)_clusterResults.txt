@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:源氏山公園(静岡県伊豆の国市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西林, 寺口
+cluster1:(4)
+登山, 山頂, 景色, 散歩
+cluster2:(4)
+区間, 道, 上り, 傾斜
+cluster3:(20)
+車, 事, シート, 途中, 寿老人, 伊豆長岡, 時期, こと, 毘沙門天, 源氏山, 真ん中, 神, 息切れ, 時間, 桜, 場所, スタンプラリー, 山, 方, 休み休み
+cluster4:(9)
+温泉, 源氏山公園, 伊豆長岡温泉郷, 周辺, 宿, 伊豆, 徒歩, 公園, 伊豆長岡駅
+cluster5:(10)
+温泉口, 歩行距離, 七福神巡り, 温泉街, 七福神めぐり, 展望台, あやめ御前広場, 温泉宿, 源氏山七福神巡りのマップ, 観光協会
+cluster6:(1)
+祀られら七福神巡り
+
+howmany entities : 50
+howmany clusters : 7
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 5
+deleted 3entities.

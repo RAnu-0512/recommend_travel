@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急田園都市線池尻大橋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+昭和, 人気, 女子大, 地下, 世田谷, 出口
+cluster1:(3)
+急行, 国道, 通勤
+cluster2:(6)
+駅, 渋谷, 池尻大橋駅, 渋谷駅, 駅周辺, 東急田園都市線
+cluster3:(4)
+昭和女子大学光洋葉博物館, 路線バス利用, 住宅地, 商店街
+cluster4:(2)
+沖縄復帰50年記念沖縄, 工芸ー川平朝清コレクション
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

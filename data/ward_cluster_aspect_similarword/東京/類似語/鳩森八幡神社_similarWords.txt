@@ -1,0 +1,19 @@
+--------------------similar_words:鳩森八幡神社--------------------
+top3 entities near to cluster0>>
+主人, 旦那, だんな
+top3 entities near to cluster1>>
+先生, センセ, センセー
+top3 entities near to cluster3>>
+神社, 境内, 本殿
+top3 entities near to cluster4>>
+観戦, サッカー, 試合
+top3 entities near to cluster5>>
+参拝, お参り, 親拝
+top3 entities near to cluster6>>
+巡礼, 聖地, 探訪
+top3 entities near to cluster7>>
+会館, 将棋, 囲碁
+top3 entities near to cluster8>>
+競技場, 競技, 国立
+top3 entities near to cluster9>>
+神社, 鳩, 森

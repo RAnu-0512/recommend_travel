@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東村山ふるさと歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示室, 展示
+cluster1:(5)
+市, 中, 歴史, 西武新宿線, 博物館
+cluster2:(3)
+東村山駅, 西口, 徒歩
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

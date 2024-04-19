@@ -1,0 +1,9 @@
+--------------------similar_words:住雲寺の藤--------------------
+top3 entities near to cluster0>>
+藤, 寺, ふじ
+top3 entities near to cluster1>>
+藤棚, 花, 満開
+top3 entities near to cluster3>>
+境内, 寺院, お寺
+top3 entities near to cluster4>>
+花見, 行楽, 連休

@@ -1,0 +1,17 @@
+--------------------similar_words:花の海_ひまわり--------------------
+top3 entities near to cluster0>>
+果物, 野菜, 農園
+top3 entities near to cluster1>>
+時期, ため, 目的
+top3 entities near to cluster2>>
+夏, 花, 秋
+top3 entities near to cluster3>>
+背, 跳刀, 背丈
+top3 entities near to cluster4>>
+満開, 見頃, 咲きそろう
+top3 entities near to cluster5>>
+天候, 天気, 悪天候
+top3 entities near to cluster6>>
+映え, 映える, 見栄え
+top3 entities near to cluster7>>
+咲く, 花開こ, 咲きほこる

@@ -1,0 +1,9 @@
+--------------------similar_words:旧日立航空機株式会社変電所--------------------
+top3 entities near to cluster0>>
+銃撃戦, 銃撃, 戦い
+top3 entities near to cluster1>>
+工事, 改修, 修繕
+top3 entities near to cluster2>>
+建物, 家屋, 外観
+top3 entities near to cluster3>>
+変電, 所内, 発電

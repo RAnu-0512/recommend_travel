@@ -1,0 +1,13 @@
+--------------------similar_words:七卿の碑--------------------
+top3 entities near to cluster1>>
+都地, 都, 区内
+top3 entities near to cluster3>>
+駅, 駅前, 構内
+top3 entities near to cluster4>>
+史跡, 歴史
+top3 entities near to cluster5>>
+禁門, 禁闕, 薩英
+top3 entities near to cluster6>>
+公家, 公卿, 武家
+top3 entities near to cluster8>>
+井上, 伊藤, 丸山

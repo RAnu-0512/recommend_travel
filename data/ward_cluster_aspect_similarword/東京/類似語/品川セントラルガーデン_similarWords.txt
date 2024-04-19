@@ -1,0 +1,11 @@
+--------------------similar_words:品川セントラルガーデン--------------------
+top3 entities near to cluster0>>
+道路, 公園, ビル
+top3 entities near to cluster1>>
+緑, 桜, 晴れ
+top3 entities near to cluster2>>
+春先, 間, 時期
+top3 entities near to cluster3>>
+喫煙, 所内, タバコ
+top3 entities near to cluster4>>
+高層, グランドコモンズ, 駅前

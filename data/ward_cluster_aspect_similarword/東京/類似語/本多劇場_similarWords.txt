@@ -1,0 +1,37 @@
+--------------------similar_words:本多劇場--------------------
+top3 entities near to cluster0>>
+スター, トップ, バックス
+top3 entities near to cluster1>>
+京王線, 永福町, 明大前
+top3 entities near to cluster3>>
+ショー, ライブ, ライヴ
+top3 entities near to cluster4>>
+コント, シソンヌ, チョコプラ
+top3 entities near to cluster5>>
+雰囲気, トイレ, ガード
+top3 entities near to cluster6>>
+登竜門, 最高峰, 大御所
+top3 entities near to cluster7>>
+カー, ロマンス, キャンピング
+top3 entities near to cluster9>>
+歴史, 伝統, 特徴
+top3 entities near to cluster10>>
+表情
+top3 entities near to cluster11>>
+入口, 建物, 町
+top3 entities near to cluster12>>
+聖地, 巡礼, 総本山
+top3 entities near to cluster15>>
+近すぎ, 近, 交係
+top3 entities near to cluster16>>
+駅前, 駅, 南口
+top3 entities near to cluster17>>
+席, 客席, 観客
+top3 entities near to cluster18>>
+演劇, 役者, 芝居
+top3 entities near to cluster20>>
+劇場, 小, 芸術
+top3 entities near to cluster21>>
+サダ, ヤス, トシ
+top3 entities near to cluster22>>
+古い, 良い, よい

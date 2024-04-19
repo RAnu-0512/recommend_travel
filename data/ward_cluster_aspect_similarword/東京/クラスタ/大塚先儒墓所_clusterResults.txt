@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大塚先儒墓所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大塚, 大塚駅
+cluster1:(2)
+墓地, 墓所
+cluster2:(2)
+護国寺駅, 最寄り駅
+cluster3:(2)
+者たち, 儒学
+cluster4:(1)
+徳川幕府
+cluster5:(1)
+吹上稲荷神社
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

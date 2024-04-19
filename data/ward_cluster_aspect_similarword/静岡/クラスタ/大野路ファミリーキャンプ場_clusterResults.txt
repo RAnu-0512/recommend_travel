@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大野路ファミリーキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+全面, 全面芝生, 芝生
+cluster1:(18)
+アメニティ, ロッジ, ファミマ, キャンパー, キャンプ, シーズン, チェックアウト, ところ, シャワー, 気持ち, 富士山, 露天風呂, サイト, コンビニ, ロケーション, テント, ファミリー, 夏休み
+cluster2:(3)
+家族, 人, 子供
+cluster3:(1)
+緑
+cluster4:(2)
+こと, 目的
+cluster5:(2)
+目, 前
+cluster6:(1)
+予約
+cluster7:(9)
+車, 敷地, 温泉, 車キャンプ, 景観, 設備, 浴槽, 施設, 風呂
+cluster8:(11)
+子供連れ, ファミリーキャンプ場, 貸切風呂, 混雑感, 富士裾野キャンプ場, 大野路ファミリーキャンプ場, 家族連れ, オートキャンプ場, キャンプ場, AC電源, 露店風呂
+
+howmany entities : 50
+howmany clusters : 9
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 5
+deleted 6entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浮間つり堀公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金魚釣り, 金魚
+cluster1:(2)
+方, 他
+cluster2:(1)
+釣り堀
+cluster3:(1)
+場所
+cluster4:(1)
+常連
+cluster5:(1)
+料金
+cluster6:(1)
+釣果
+cluster7:(1)
+家族連れ
+cluster8:(1)
+駐車場
+cluster9:(1)
+浮間つり堀公園
+
+howmany entities : 12
+howmany clusters : 10
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 10
+deleted 0entities.

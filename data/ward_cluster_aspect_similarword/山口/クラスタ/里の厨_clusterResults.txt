@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:里の厨>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+加工品, 工芸品
+cluster1:(11)
+施設, スイーツ, 元気, 農産物, 道, レストラン, 農家, 地元, 米, 駅, 野菜
+cluster2:(2)
+発祥, 焼き
+cluster3:(1)
+レジ
+cluster4:(1)
+愛想
+cluster5:(1)
+カンロ飴
+cluster6:(1)
+新鮮魚介
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 7
+deleted 0entities.

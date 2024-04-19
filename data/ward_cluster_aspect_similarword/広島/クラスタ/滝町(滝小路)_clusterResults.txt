@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滝町(滝小路)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+文化財, 大聖院, 国
+cluster1:(2)
+感じ, 趣
+cluster2:(1)
+坂
+cluster3:(5)
+住宅, 建築, 建物, 表門, 屋根
+cluster4:(1)
+社家
+cluster5:(1)
+主屋
+cluster6:(1)
+林家
+cluster7:(1)
+観光客
+cluster8:(1)
+切妻造り
+cluster9:(4)
+滝小路, 滝町, 道沿い, 上卿屋敷
+cluster10:(4)
+宮島, 粟島神社, 厳島神社, 宮島三家
+
+howmany entities : 24
+howmany clusters : 11
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 11
+deleted 0entities.

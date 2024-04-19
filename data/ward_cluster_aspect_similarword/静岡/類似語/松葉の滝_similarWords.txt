@@ -1,0 +1,7 @@
+--------------------similar_words:松葉の滝--------------------
+top3 entities near to cluster0>>
+登り, 往復, 登る
+top3 entities near to cluster1>>
+雄滝, 雌滝, 滝
+top3 entities near to cluster2>>
+落差, 水量, 迫力

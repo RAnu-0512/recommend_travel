@@ -1,0 +1,19 @@
+--------------------similar_words:マリホ水族館--------------------
+top3 entities near to cluster0>>
+入館料, 入場料, 入場, 入館
+top3 entities near to cluster1>>
+魚類, サカナ
+top3 entities near to cluster2>>
+館内, 室内, 水槽
+top3 entities near to cluster3>>
+子供, 子ども, 大人
+top3 entities near to cluster4>>
+水族館, アクアミュージアム, シードーナツ
+top3 entities near to cluster5>>
+モール, 買い物, 買物
+top3 entities near to cluster6>>
+最先端, メイン, ならでは
+top3 entities near to cluster7>>
+ホップ, マリーナ, ヒップ
+top3 entities near to cluster8>>
+帰省, 里帰り, 帰郷

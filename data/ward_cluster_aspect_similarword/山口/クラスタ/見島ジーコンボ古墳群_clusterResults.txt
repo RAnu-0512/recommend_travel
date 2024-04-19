@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:見島ジーコンボ古墳群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+古代, 墓
+cluster1:(5)
+裏付け, 足, 全部, 途中, 拠点
+cluster2:(1)
+雑草
+cluster3:(1)
+石塚
+cluster4:(1)
+見島
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

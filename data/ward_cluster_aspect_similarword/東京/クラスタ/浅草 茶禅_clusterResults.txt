@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草 茶禅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+季節, 初心者, テーマ, ハサミ, 和菓子, 店員, デザイン, 方, 部屋, 色
+cluster1:(3)
+抹茶, 花, 梅
+cluster2:(7)
+観点, 授業, 体験, 成形, 基礎, 形式, 感想
+cluster3:(1)
+製菓
+cluster4:(1)
+経験者
+cluster5:(1)
+包餡
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

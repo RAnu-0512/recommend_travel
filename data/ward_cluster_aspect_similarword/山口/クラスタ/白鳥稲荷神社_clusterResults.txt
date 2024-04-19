@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白鳥稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+瀬戸内, 神, 丘, 上, 桜, 鳥居
+cluster1:(2)
+島々, 眼下
+cluster2:(1)
+開運
+cluster3:(1)
+山口県
+cluster4:(1)
+白鳥稲荷神社
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

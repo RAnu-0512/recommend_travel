@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弁天山鐘楼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上野やここ浅草弁天堂, 浅草弁天堂
+cluster1:(12)
+上野, 弁天堂, 堂, 松尾芭蕉, 浅草, 浅草か, 江戸, 関東3大弁天, 江戸時代, 宝蔵門, 芭蕉, 弁天
+cluster2:(5)
+鐘楼, 弁天山鐘楼, 雲鐘, 時の鐘, 鐘
+cluster3:(21)
+案内板, 光景, 花, 浅草寺, 丘, 近く, 右, 句, 隣り, 奥, 見応え, 上, 歌, 弁天山, 仲見世, タイミング, 中, こと, 風情, 境内, 扉
+
+howmany entities : 40
+howmany clusters : 4
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 4
+deleted 0entities.

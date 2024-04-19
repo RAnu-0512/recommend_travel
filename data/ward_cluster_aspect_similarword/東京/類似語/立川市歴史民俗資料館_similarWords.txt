@@ -1,0 +1,11 @@
+--------------------similar_words:立川市歴史民俗資料館--------------------
+top3 entities near to cluster0>>
+バス, 駅, バス停
+top3 entities near to cluster1>>
+距離, 角度, 位置
+top3 entities near to cluster2>>
+分野, 歴史, 資料
+top3 entities near to cluster4>>
+展示, 資料, 館
+top3 entities near to cluster6>>
+民俗, 資料, 歴史

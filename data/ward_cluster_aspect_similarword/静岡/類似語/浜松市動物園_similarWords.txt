@@ -1,0 +1,57 @@
+--------------------similar_words:浜松市動物園--------------------
+top3 entities near to cluster0>>
+動物園, 植物園, 動物, 植物
+top3 entities near to cluster2>>
+動物園, 動植物園, 動物, 動植物
+top3 entities near to cluster8>>
+ゾウ, トラ, 虎
+top3 entities near to cluster9>>
+パーク, フラワー, バスライド
+top3 entities near to cluster10>>
+子ども, 子供, こども
+top3 entities near to cluster11>>
+イベント, おすすめ, グッズ
+top3 entities near to cluster12>>
+生き物, ふれあい, 食べ物
+top3 entities near to cluster13>>
+トイレ, ベンチ, 炎天下
+top3 entities near to cluster14>>
+ホテル, 宿泊, レストラン
+top3 entities near to cluster15>>
+タイム, ゾーン, アウト
+top3 entities near to cluster16>>
+ゲート, アイス, コロナ
+top3 entities near to cluster18>>
+ゴリラ, パンダ, カピバラ
+top3 entities near to cluster20>>
+入り口, 入口, 出入り口
+top3 entities near to cluster21>>
+季節, 週末, 時季
+top3 entities near to cluster30>>
+小型, 大型, 中型
+top3 entities near to cluster31>>
+入場券, 前売り券, 入場, 前売り
+top3 entities near to cluster33>>
+料金, 入場, 駐車
+top3 entities near to cluster34>>
+入園, 入学, 開園
+top3 entities near to cluster37>>
+子供, 子ども, 動物
+top3 entities near to cluster38>>
+大きい, 少ない, 広い
+top3 entities near to cluster39>>
+共通点, 相違点, 共通, 相違
+top3 entities near to cluster40>>
+見, 見せ, 書く
+top3 entities near to cluster41>>
+仕草, 口調, 目線
+top3 entities near to cluster43>>
+喜び, 満足
+top3 entities near to cluster44>>
+清潔感, 清潔
+top3 entities near to cluster45>>
+パス, 年間, フリー
+top3 entities near to cluster46>>
+運動, 公園, 広場
+top3 entities near to cluster47>>
+展示, 時間, 出展

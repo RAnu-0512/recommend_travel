@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本橋恵比寿講べったら市>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+祭り, 屋台, 露店, 出店
+cluster1:(2)
+味, 香り
+cluster2:(2)
+品質, 値段
+cluster3:(1)
+漬け
+cluster4:(28)
+店, 光景, 場所, 日本橋, 人, 公園, 大根, 他, 東京, 家, 会社帰り, 恵比寿, 軒, 仕事, 市, 人々, ぞ, 人数, 足, 日本, 方, こと, 縁起物, ビニール, 大勢, 雰囲気, もの, 帰り
+cluster5:(4)
+酒片手, 街歩き, 酒, 江戸時代
+cluster6:(5)
+寳田恵比寿神社, 宝田恵比寿神社, 日本橋恵比寿講 べったら市, べったら市, 中々壮
+
+howmany entities : 46
+howmany clusters : 7
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,45 @@
+--------------------similar_words:龍潭寺(静岡県浜松市)--------------------
+top3 entities near to cluster0>>
+御朱印, 文化財, お寺
+top3 entities near to cluster1>>
+雰囲気, 気持ち, ひと時
+top3 entities near to cluster3>>
+ホテル, バス停, バスターミナル
+top3 entities near to cluster5>>
+アジサイ, 紫陽花, グリーン
+top3 entities near to cluster14>>
+葉っぱ, 座布団, カエデ
+top3 entities near to cluster15>>
+父家, 実家, 父
+top3 entities near to cluster16>>
+テレビ, ドラマ, 番組
+top3 entities near to cluster17>>
+時間, 半日
+top3 entities near to cluster21>>
+時期, 間, 時代
+top3 entities near to cluster22>>
+晩秋, 初秋
+top3 entities near to cluster25>>
+本堂, 山門, 境内
+top3 entities near to cluster27>>
+地蔵, 仏壇
+top3 entities near to cluster30>>
+花, 梅, 桜
+top3 entities near to cluster33>>
+美しい, 素晴らしい, 力強い
+top3 entities near to cluster35>>
+見学, 散策, 訪問
+top3 entities near to cluster36>>
+建物, 中庭, 庭
+top3 entities near to cluster37>>
+館, 建造, 建物
+top3 entities near to cluster38>>
+庭園, 庭, 紅葉
+top3 entities near to cluster39>>
+井伊, 龍, 寺
+top3 entities near to cluster40>>
+井伊, 直, 虎
+top3 entities near to cluster42>>
+直, 虎, 城主
+top3 entities near to cluster43>>
+遠, 州, 思楼

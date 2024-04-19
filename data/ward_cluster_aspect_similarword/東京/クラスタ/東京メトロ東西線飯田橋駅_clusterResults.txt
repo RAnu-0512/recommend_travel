@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ東西線飯田橋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+南北線, 東西線
+cluster1:(2)
+方, 乗り換え
+cluster2:(1)
+飯田橋駅
+cluster3:(1)
+仕事帰り
+cluster4:(1)
+船橋方面
+cluster5:(1)
+つじ田
+cluster6:(1)
+味噌専門店
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:韮山城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+頂上, 高校, 階段, 木々, 場所, 時代, 丘程度, 景色, 途中神社, 道路, 建物, 人物, 山, 道
+cluster1:(9)
+影響, 徒歩, 感じ, 距離, 体力, 訪問, こと, 演奏, 立地
+cluster2:(6)
+部分, 裏, 隣, 側, 下, 横
+cluster3:(4)
+最後, 他, 中, 最初
+cluster4:(2)
+周り, 友人
+cluster5:(1)
+世界
+cluster6:(1)
+親
+cluster7:(1)
+別者
+cluster8:(5)
+パネル, 大河ドラマ, 吹奏楽, パイオニア, レベル
+cluster9:(5)
+ふもと, 北条早雲, 早雲寺, 富士山, 小田原
+cluster10:(1)
+秀吉
+cluster11:(1)
+幟
+cluster12:(2)
+早雲, 初代早雲
+cluster13:(9)
+小田原攻め, 北条, 堀, 江川邸, 本城, 山城, 堀切, 小田原北条, 伊豆
+cluster14:(2)
+池, 池側
+cluster15:(2)
+城池, 城池側
+cluster16:(11)
+防御力, 防衛側, 本丸, 城跡, 住宅街, 駐車場, 遺構, 背後高校側, 城, 本丸跡, 居城
+cluster17:(9)
+韮山反射炉, 韮山高校, 室町時代後半戦国, 城池親水公園, 鎌倉時代前後, 韮山駅, 韮山城, 鎌倉殿, 韮山
+
+howmany entities : 85
+howmany clusters : 18
+howmany entities (more than3entities) : 72
+howmany clusters (more than3entities) : 9
+deleted 13entities.

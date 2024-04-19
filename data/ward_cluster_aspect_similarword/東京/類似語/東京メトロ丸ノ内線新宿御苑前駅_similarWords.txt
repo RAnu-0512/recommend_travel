@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ丸ノ内線新宿御苑前駅--------------------
+top3 entities near to cluster0>>
+利用, 価値, 活用
+top3 entities near to cluster1>>
+駅, 駅名, 周辺
+top3 entities near to cluster2>>
+地下, 地下道, 混雑

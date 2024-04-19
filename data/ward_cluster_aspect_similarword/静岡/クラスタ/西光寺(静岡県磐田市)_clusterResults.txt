@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西光寺(静岡県磐田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+恋愛成就, 縁結び・恋愛成就のパワースポット
+cluster1:(16)
+パワースポット, ラジオ, 利益, 所, こと, テレビ, 縁結び, 口コミ, 仕方, 女性, 人, 願掛け, 効果, 人気, 縁, 見応え
+cluster2:(4)
+紅葉, 国道, 境内, 寺
+cluster3:(2)
+大きななぎ, ナギ
+cluster4:(2)
+古木, 木
+cluster5:(1)
+書院
+cluster6:(1)
+樹齢
+cluster7:(1)
+楠・ナギ
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 9entities.

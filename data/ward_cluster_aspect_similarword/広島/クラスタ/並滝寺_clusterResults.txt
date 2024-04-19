@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:並滝寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+茅葺き屋根, 漆喰
+cluster1:(10)
+エヒメアヤメ, 中, 色, タイム, 万灯会, 足元, 紫陽花, 空間, 雰囲気, 山
+cluster2:(2)
+寺, 本堂
+cluster3:(2)
+広島, 日本石楠花
+cluster4:(5)
+桜, 花, 藤, 春, 山桜
+cluster5:(1)
+護摩
+cluster6:(1)
+駐車場
+cluster7:(1)
+ササユリ
+cluster8:(1)
+新四国八十八
+
+howmany entities : 25
+howmany clusters : 9
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下田カヤックセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海, 海水
+cluster1:(3)
+担当, 経験, 不安
+cluster2:(5)
+クチコミ, シュノーケリング, マリンスポーツ, イベント, カヤック
+cluster3:(3)
+人, 時間, 前
+cluster4:(1)
+予約
+cluster5:(1)
+渋滞
+cluster6:(1)
+融通
+cluster7:(1)
+楽しさ
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 6entities.

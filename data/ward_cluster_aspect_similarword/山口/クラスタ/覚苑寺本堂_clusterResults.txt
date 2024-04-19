@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:覚苑寺本堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+寺, 毛利, 殿様, 銅像, 途中
+cluster1:(2)
+御墓, 史跡めぐり
+cluster2:(1)
+長府
+cluster3:(1)
+乃木将軍
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

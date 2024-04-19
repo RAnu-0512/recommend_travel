@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆ハイツゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊豆ハイツ, 伊豆
+cluster1:(4)
+ゴルフ場, 玄関, 灰皿, IC
+cluster2:(2)
+メンバー, イメージ
+cluster3:(2)
+グリーン, バンカー
+cluster4:(3)
+コース, ゴルフ, ゴルファー
+cluster5:(1)
+スコア
+cluster6:(2)
+こと, 時間
+cluster7:(1)
+ナビ
+cluster8:(4)
+責任, 標高, 距離, 不便
+cluster9:(1)
+伊豆縦貫道
+
+howmany entities : 22
+howmany clusters : 10
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 11entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大平山_つつじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, 時期
+cluster1:(5)
+ロープウェイ, 人, 多く, クルマ, つつじ
+cluster2:(1)
+景色
+cluster3:(1)
+つつじ祭り
+cluster4:(1)
+徒歩
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

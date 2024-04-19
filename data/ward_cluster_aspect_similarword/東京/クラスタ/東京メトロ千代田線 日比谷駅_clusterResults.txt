@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線 日比谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+各線, 日比谷駅, 地下鉄日比谷駅, JR, 千代田線, 駅, 改札, 銀座駅, 銀座, 小田急線, 駅名, 階段
+cluster1:(2)
+移動距離, 案内表示
+cluster2:(3)
+東京ミッドタウン日比谷, 綾瀬, 東京メトロ
+cluster3:(4)
+余裕, 必要, 時間, 用意
+cluster4:(2)
+ミッドタウン日比谷, 日比谷
+cluster5:(3)
+表参道, 有楽町, 市ヶ谷
+cluster6:(6)
+三田線, 乗り換え, アクセス, 乗り入れ, 日比谷公園, 西日暮里
+cluster7:(2)
+有楽町線, 日比谷線
+cluster8:(1)
+地下道
+cluster9:(1)
+他
+cluster10:(1)
+常磐線
+cluster11:(1)
+日比谷通り
+
+howmany entities : 38
+howmany clusters : 12
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 12
+deleted 0entities.

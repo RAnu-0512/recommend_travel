@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮島包ヶ浦自然公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+席, 桟敷席
+cluster1:(6)
+荷物, 蹴り, 袋, ダンボール箱, 箱, ゴミ
+cluster2:(27)
+トイレ, 海水浴, アオサ, 注意, 心, 香り, 天気, 気, 観光, 目, 上, 子どもたち, 鹿, 海, 前, バーベキュー, グラウンド, 空気, ナイロン, 野球, 時間, バス, 場所, 廿日市市, 宮島口, 手ぶら, 自然
+cluster3:(3)
+宮島, 浮き具, 宮島桟橋
+cluster4:(1)
+宮島包ヶ浦自然公園
+
+howmany entities : 39
+howmany clusters : 5
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 5
+deleted 0entities.

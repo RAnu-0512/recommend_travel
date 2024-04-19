@@ -1,0 +1,27 @@
+--------------------similar_words:駿府の工房 匠宿--------------------
+top3 entities near to cluster0>>
+箸, 漆塗り, 漆
+top3 entities near to cluster5>>
+子供, 息子, 家族
+top3 entities near to cluster9>>
+世界, 伝統, 海外
+top3 entities near to cluster10>>
+指導, 交流, 食事
+top3 entities near to cluster12>>
+作品, 制作
+top3 entities near to cluster15>>
+カフェ, 景色, 香り
+top3 entities near to cluster16>>
+花瓶, 陶芸
+top3 entities near to cluster17>>
+敷地, 売店, 施設
+top3 entities near to cluster21>>
+工芸, 工芸品, 伝統
+top3 entities near to cluster22>>
+体験, 陶芸, 木工
+top3 entities near to cluster23>>
+体験, 体験談, 体感
+top3 entities near to cluster24>>
+予約, 受付, 案内
+top3 entities near to cluster25>>
+駐車, 施設, 名所

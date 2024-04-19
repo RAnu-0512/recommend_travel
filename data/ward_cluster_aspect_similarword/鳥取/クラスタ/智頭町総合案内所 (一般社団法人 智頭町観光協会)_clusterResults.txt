@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:智頭町総合案内所 (一般社団法人 智頭町観光協会)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小中校, 農業高校
+cluster1:(2)
+町役場, 観光協会
+cluster2:(3)
+人, コインロッカー, 場所
+cluster3:(2)
+街, 町
+cluster4:(1)
+人口
+cluster5:(1)
+駅員
+cluster6:(1)
+歩き方
+cluster7:(1)
+温水プール
+
+howmany entities : 13
+howmany clusters : 8
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 8
+deleted 0entities.

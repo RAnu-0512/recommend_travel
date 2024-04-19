@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾道ロイヤルホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+炊き立て, 粗だき
+cluster1:(19)
+穴子, 魚, メニュー写真, 穴子重, 臭み, 夫婦, 小鉢, 昼食, 写真, 予約, ご飯, 開始, 食事, 営業, 献立, 物, あさり, 様子, チヌ
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

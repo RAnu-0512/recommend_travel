@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:もりたさん家のブルーベリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金, 水
+cluster1:(6)
+こと, 貸し切り状態, 時間, 説明, もの, 場所
+cluster2:(7)
+農園, ブドウ, 虫, 梅雨明け, 電話, 塗り薬, ブルーベリー
+cluster3:(1)
+同行者
+cluster4:(1)
+無農薬
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

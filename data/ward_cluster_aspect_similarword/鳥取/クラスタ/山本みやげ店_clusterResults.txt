@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山本みやげ店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+温泉, 温泉街, はわい温泉, 温泉バス停
+cluster1:(9)
+客, 土産物店, 品物, 試食, 土産物, 土産, 入口, 観光案内, 土産物屋
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

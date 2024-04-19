@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松市姫街道と銅鐸の歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+細江神社, 細江公園
+cluster1:(11)
+浜名湖, 事, 隣, 銅鐸, こと, 周辺, 歴史, 古代, 地, 名称, 他
+cluster2:(3)
+姫街道, 弥生時代, 江戸時代
+cluster3:(2)
+東京国立博物館, 当地所縁
+cluster4:(1)
+歴史民俗資料館
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 5entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深川東京モダン館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+周囲, 経過, ウォーキングツアー, コーヒー, 感じ, キャラ, 近く, 文化財, 門前仲町, 週末, 喫茶店, ランチ, 案内, 周り, 方, 中, 対応, スペース, もの, 道案内
+cluster1:(5)
+観光, 拠点, 現代, 国, 文化
+cluster2:(2)
+食事, 食堂
+cluster3:(4)
+建物, 館内, 施設, 外観
+cluster4:(1)
+門前仲町駅
+cluster5:(1)
+建築物
+cluster6:(1)
+学芸員
+cluster7:(1)
+内観
+cluster8:(2)
+登録有形文化財, 国登録有形文化財
+cluster9:(3)
+案内板, 観光案内所, まちあるき案内所
+cluster10:(2)
+西尾藩, 藩校跡地
+cluster11:(3)
+東京市営, 江東区, 東京市
+cluster12:(4)
+深川観光, 深川, 深川東京モダン館, 深川食堂
+
+howmany entities : 49
+howmany clusters : 13
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 13
+deleted 0entities.

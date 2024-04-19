@@ -1,0 +1,9 @@
+--------------------similar_words:根がらみ前水田--------------------
+top3 entities near to cluster0>>
+風景
+top3 entities near to cluster1>>
+都, 田舎, 都会
+top3 entities near to cluster2>>
+水田, 田畑, 田圃
+top3 entities near to cluster3>>
+田園, 風景, 情景

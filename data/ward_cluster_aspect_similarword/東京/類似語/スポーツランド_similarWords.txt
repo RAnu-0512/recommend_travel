@@ -1,0 +1,15 @@
+--------------------similar_words:スポーツランド--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 大人
+top3 entities near to cluster1>>
+価格, 人気, 値段
+top3 entities near to cluster2>>
+施設, プール, 宿泊
+top3 entities near to cluster3>>
+バス, 駅, バス停
+top3 entities near to cluster4>>
+入場, 入館, 来場
+top3 entities near to cluster5>>
+距離, 至近, 射程
+top3 entities near to cluster6>>
+公営, 私営, 市営

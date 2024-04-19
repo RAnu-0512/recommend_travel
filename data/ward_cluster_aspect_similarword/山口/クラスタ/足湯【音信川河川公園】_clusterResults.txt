@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足湯【音信川河川公園】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+感じ, 自然, タイミング, 公園, 気持ち, 屋根, トイレ
+cluster1:(2)
+足湯, 東屋
+cluster2:(1)
+掃除タイム
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

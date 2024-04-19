@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆ならんだの里河津平安の仏像展示館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+仏像展示館, 仏像, 仏像達
+cluster1:(2)
+職員, 足
+cluster2:(4)
+歴史, 説明, 事, もの
+cluster3:(2)
+興味, 機会
+cluster4:(1)
+迫力
+cluster5:(1)
+水害
+cluster6:(1)
+河津
+cluster7:(1)
+名品揃い
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 8entities.

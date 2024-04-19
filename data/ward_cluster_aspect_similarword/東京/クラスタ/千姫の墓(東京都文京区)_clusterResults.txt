@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千姫の墓(東京都文京区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+墓碑, 家, 思い, 墓所, 江戸城, 通院, 墓, 寺院, 会場, 女性, 菩提寺, 歴史, サイト, 孫, 秀吉
+cluster1:(2)
+徳川千姫, 千姫
+cluster2:(2)
+徳川家, 徳川家康
+cluster3:(2)
+嫡男・秀頼, 母・江
+cluster4:(1)
+文京朝顔ほおずき市
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

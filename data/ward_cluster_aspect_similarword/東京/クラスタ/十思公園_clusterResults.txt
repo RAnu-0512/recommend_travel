@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十思公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+水飲み場, 砂場, 公園, 遊具
+cluster1:(26)
+途中, ポートスポット, 見どころ, 大人, 場所, 地, 散策, サラリーマン, 子供, 乗り物ふたつ, 近く, ブランコ, 滑り台, 地域, 名前, 奥, 自販機, 椅子, 歴史, 方, スポット, ベンチ, 終焉, スペース, 仕様, 金
+cluster2:(4)
+石町, 石碑, 碑, 鐘
+cluster3:(2)
+十思, 安政
+cluster4:(4)
+江戸時代, 休憩, 日本橋小, 小休憩
+cluster5:(2)
+十思公園, 小伝馬町駅
+cluster6:(6)
+牢屋跡地, 牢屋敷, 牢屋敷跡, 伝馬町牢屋敷, 吉田松陰終焉の地, 吉田松陰
+
+howmany entities : 48
+howmany clusters : 7
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 7
+deleted 0entities.

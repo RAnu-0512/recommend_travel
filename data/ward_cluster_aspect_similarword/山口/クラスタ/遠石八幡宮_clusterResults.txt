@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遠石八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+何か, 思いき, 高さ, 家族連れ, 人たち
+cluster1:(3)
+礼服, 儀式, 結婚式場
+cluster2:(2)
+身, 念
+cluster3:(13)
+子ども, 証拠, 結婚式, 大鳥居, 日本, タクシー, 時間, そば, 隣, お参り, 歴史, 地域, 七五三
+cluster4:(3)
+階段, 一段, 上
+cluster5:(3)
+丘, 海岸, 平地
+cluster6:(5)
+本殿, 朱印, 神社, 絵馬, 尊崇
+cluster7:(1)
+工場地帯
+cluster8:(1)
+周南市
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 9
+deleted 0entities.

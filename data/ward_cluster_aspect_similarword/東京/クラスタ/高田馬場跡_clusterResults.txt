@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高田馬場跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+八幡鳥居, 将軍吉宗, 鮨屋
+cluster1:(2)
+説明板, 案内板
+cluster2:(8)
+石碑, 高田馬場跡, 馬術, 絵図, 歴史, 武士, 史跡, 跡
+cluster3:(6)
+中間辺り, 一帯, ビル, 早稲田駅, 周辺, 高田馬場駅
+cluster4:(9)
+穴, ところ, 名前, 由来, 高田馬場, 様子, パターン, 早稲田, ポツン
+cluster5:(4)
+東京, 馬場, 都, 高田
+cluster6:(1)
+住宅地
+cluster7:(1)
+乗馬訓練所
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 8
+deleted 0entities.

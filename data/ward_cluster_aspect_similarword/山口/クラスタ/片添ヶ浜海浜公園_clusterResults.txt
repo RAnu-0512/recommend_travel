@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:片添ヶ浜海浜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海水浴客, 客, 海水浴場
+cluster1:(2)
+温泉, 湯船
+cluster2:(12)
+海外, 海水浴, 家族, 気, オススメ, 場所, ホテル, 友人, 雰囲気, ドライブ, キャンプ, 気持ち
+cluster3:(3)
+景色, 道路, 海
+cluster4:(6)
+秋, 夏, 潮風, 木, 南国, ヤシ
+cluster5:(1)
+海岸沿い
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

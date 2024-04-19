@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太平洋クラブ 御殿場コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三井住友VISAトーナメント, 三井住友VISA太平洋マスターズ
+cluster1:(7)
+プロゴルフツアー, ゴルフ場, 男子ゴルフ, 高級感, 名門, 名門ゴルフ場, 名門ゴルフクラブ
+cluster2:(2)
+由緒, 歴史
+cluster3:(10)
+太平洋クラブ, 言葉遣い, コース, ゴルフ, ゴルフクラブ, 富士山, ゴルフコース, クラブ, スイング, プレーヤー
+cluster4:(2)
+景色, 食事
+cluster5:(3)
+沢山, 経験, 感じ
+cluster6:(4)
+静岡県, 御殿場インター, 御殿場市, 太平洋御殿場
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 6entities.

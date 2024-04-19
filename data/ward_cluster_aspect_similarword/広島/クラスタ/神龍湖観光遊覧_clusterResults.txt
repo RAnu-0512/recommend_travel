@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神龍湖観光遊覧>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+上帝釈峡, 日蔭, 周囲, 紅葉, 湖, 木々, 水, 昼食, 紅葉時期, 渓谷周囲, 景色, こと, 帝釈峡, 緑
+cluster1:(2)
+神龍湖, 神龍湖周遊
+cluster2:(4)
+帝釈峡観光, のんびりと船, 観光船, バスツアー
+cluster3:(2)
+遊覧船, 遊覧
+cluster4:(2)
+観光遊覧船, 観光遊覧
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

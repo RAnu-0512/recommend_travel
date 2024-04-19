@@ -1,0 +1,21 @@
+--------------------similar_words:冠山総合公園 梅の里_うめ--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 広い
+top3 entities near to cluster1>>
+梅, 蝋梅, 淋子
+top3 entities near to cluster2>>
+公園, 丘, 景観
+top3 entities near to cluster3>>
+見学, 鑑賞, 出店
+top3 entities near to cluster4>>
+季節, 時期, 気配
+top3 entities near to cluster5>>
+大人, 子供, 子ども
+top3 entities near to cluster6>>
+種類, 数種類, 箇所
+top3 entities near to cluster8>>
+海, 景色, 海沿い
+top3 entities near to cluster9>>
+木, 木火, 土
+top3 entities near to cluster10>>
+冠山, 公園, 海岸

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おたあ・ジュリアの墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大坂, 長崎
+cluster1:(2)
+養女, 援助
+cluster2:(10)
+人, 罪, 者, ジュリア, 神父, 記録, 島, 神津島, 移動, クリスチャン
+cluster3:(1)
+書簡
+cluster4:(1)
+供養塔
+cluster5:(1)
+郷土史家
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

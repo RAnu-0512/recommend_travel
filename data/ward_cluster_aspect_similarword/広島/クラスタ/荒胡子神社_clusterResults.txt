@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒胡子神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+嚴島神社, 文化財, 瓦, 宮島, 横, 途中, 社殿, 国指定, 建築, 鳥居, 朱塗り, スサノオノミコト, 建物, フェリー乗り場, 商店街, 国, 時代, 遠回り, 朱, 嘉吉元年, 流造, 室町, 参拝, 本殿, こと, 禅宗様, 神社, 拝殿, 棟札, スサノオ
+cluster1:(3)
+荒胡子神社, 檜皮葺, 千畳閣
+
+howmany entities : 33
+howmany clusters : 2
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 2
+deleted 0entities.

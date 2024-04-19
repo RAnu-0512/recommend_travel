@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白鳥神社のビャクシン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+巨木, ビャクシン
+cluster1:(1)
+内陸
+cluster2:(1)
+南伊豆町
+cluster3:(1)
+名木
+cluster4:(1)
+伊豆地方
+cluster5:(1)
+白鳥神社
+cluster6:(1)
+海岸線
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

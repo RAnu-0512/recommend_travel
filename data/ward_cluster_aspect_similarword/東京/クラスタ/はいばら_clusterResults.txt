@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はいばら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+老舗和紙舗, 専門店, 和紙専門店
+cluster1:(3)
+創業, 老舗, 老舗感
+cluster2:(27)
+はがき, 店, カレンダー, 昔, 高島屋, 目線, 海外, 日本橋, 人気, 下々, 和紙, 外国, 面影, 碑, 客, 広場, サービス, グリーティングカード, 日本, 絵柄, 者, 歴史, 友人, 雰囲気, 品物, 外観, もの
+cluster3:(5)
+榛原, 川端康成, 東京駅, 日本橋駅, 東京日本橋タワー
+
+howmany entities : 38
+howmany clusters : 4
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 4
+deleted 0entities.

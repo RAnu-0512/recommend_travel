@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飯田城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+城跡, 飯田城跡
+cluster1:(2)
+山道, 景色
+cluster2:(4)
+地, 居, 看板, 途中
+cluster3:(3)
+森町, 山城, 山内
+cluster4:(1)
+案内板
+cluster5:(1)
+未舗装
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 6entities.

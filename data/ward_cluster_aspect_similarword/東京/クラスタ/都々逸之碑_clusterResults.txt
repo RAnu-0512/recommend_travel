@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都々逸之碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こと, 場所
+cluster1:(3)
+人, 中, 湯島天神
+cluster2:(1)
+説明
+cluster3:(3)
+神, 石碑, 学問
+cluster4:(1)
+湯島天満宮
+cluster5:(1)
+発展祈願
+cluster6:(1)
+都々逸之碑
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東林寺(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺院, 山門
+cluster1:(5)
+きらびやか, 歴史, 浜名湖, 東林寺, 黄金
+cluster2:(1)
+臨済宗方広寺派
+cluster3:(1)
+観音像
+cluster4:(1)
+有形文化財
+cluster5:(1)
+細江神社
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 6entities.

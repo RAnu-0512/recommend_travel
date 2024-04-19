@@ -1,0 +1,11 @@
+--------------------similar_words:時の鐘--------------------
+top3 entities near to cluster2>>
+神社, 境内, 本殿
+top3 entities near to cluster3>>
+鳥居, 真下, 川原
+top3 entities near to cluster10>>
+風景, 風情, 歴史
+top3 entities near to cluster11>>
+鐘, 時, 撞堂
+top3 entities near to cluster12>>
+川橋, 五橋, 川, 五

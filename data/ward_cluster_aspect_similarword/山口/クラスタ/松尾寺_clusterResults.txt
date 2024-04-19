@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松尾寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+二天王立像, 木造二天王立像
+cluster1:(8)
+古刹, 境内, 寺, 弘法, 修験, 札所, 創建, 小さなお寺
+cluster2:(3)
+像高, 像, ヒノキ材
+cluster3:(36)
+中, 印象, もの, こと, 中腹, 文化財, 迫力, 自然, 車, 道, おすすめ森, 普通車, 表情, 場所, 増長天, パワースポット, 地, 持国天, おすすめ, 緑, 観音堂, 森, 雰囲気, 見応え, 木, 通行, 周り, 感じ, 弘法大師, 県, 人, 松尾寺, 歴史, 古めかしさ, 臨済宗, 山
+cluster4:(7)
+山口県, 防州, 大師修法, 大島, 観音霊場, 郡内最古, 周防大島
+
+howmany entities : 56
+howmany clusters : 5
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 5
+deleted 0entities.

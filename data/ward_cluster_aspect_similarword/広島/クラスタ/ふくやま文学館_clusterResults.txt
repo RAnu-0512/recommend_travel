@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふくやま文学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作家井伏鱒二, 井伏鱒二
+cluster1:(3)
+中心, 作品, 場所
+cluster2:(2)
+展示, 資料
+cluster3:(1)
+入館
+cluster4:(1)
+駐車場
+cluster5:(1)
+休館日
+cluster6:(8)
+名誉市民, 加茂地方, ふくやま文学館, 福山駅, 福山城公園, 地元出身作家, 福山市, 文学館
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 7
+deleted 0entities.

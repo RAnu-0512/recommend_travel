@@ -1,0 +1,25 @@
+--------------------similar_words:柳井ウェルネスパーク--------------------
+top3 entities near to cluster0>>
+遊具, 大型, 滑り台
+top3 entities near to cluster2>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster3>>
+スポーツ, アスレチック, アウトドア
+top3 entities near to cluster4>>
+ウエルネスパーク, ウェルネス, ウェルネスパーク
+top3 entities near to cluster5>>
+グループ, メンバー, グールプ
+top3 entities near to cluster6>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster7>>
+滑り台, プール, パーク
+top3 entities near to cluster8>>
+テニス, コート, バドミントン
+top3 entities near to cluster9>>
+子供, 子ども, 大人
+top3 entities near to cluster10>>
+施設, 公園, 敷地
+top3 entities near to cluster11>>
+気分, 天気, 雰囲気
+top3 entities near to cluster12>>
+芝生, 駐車, 公園

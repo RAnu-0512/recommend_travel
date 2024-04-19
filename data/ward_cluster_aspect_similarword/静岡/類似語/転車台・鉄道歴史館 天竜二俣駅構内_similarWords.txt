@@ -1,0 +1,17 @@
+--------------------similar_words:転車台・鉄道歴史館 天竜二俣駅構内--------------------
+top3 entities near to cluster0>>
+見学, 参加, 視察
+top3 entities near to cluster1>>
+開業, 転換, 延伸
+top3 entities near to cluster3>>
+人力, 電動, 物資
+top3 entities near to cluster4>>
+迫力, 身体
+top3 entities near to cluster5>>
+電車, 列車, 気動車
+top3 entities near to cluster6>>
+案内, 使用, 終了
+top3 entities near to cluster10>>
+横, 真横, 扇形
+top3 entities near to cluster11>>
+鉄道車, 鉄道, 車両

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霞ケ関ビル展望回廊パノラマ36>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+JR, 場所, 都心, 日本
+cluster1:(2)
+傍ら人, 流れ車
+cluster2:(1)
+高層ビル
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

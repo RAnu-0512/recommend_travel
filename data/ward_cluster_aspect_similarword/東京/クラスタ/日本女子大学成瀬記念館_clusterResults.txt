@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本女子大学成瀬記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+展示室, 図書コーナー, 分館, 守衛所, 予約制, 展示品, 本館, 開館日, 別館, 開館, 写真撮影
+cluster1:(3)
+目白キャンパス, 私立日本女子大学, 女子大学
+cluster2:(3)
+建物, 住宅, 外壁
+cluster3:(3)
+年譜, 生涯, 偉業
+cluster4:(6)
+朝ドラ, 名, 目白台, 見学, こと, 電話
+cluster5:(2)
+創立, 明治
+cluster6:(1)
+文京区
+cluster7:(2)
+成瀬, 成瀬仁蔵
+cluster8:(2)
+記念館, 日本女子大学成瀬記念館
+cluster9:(1)
+広岡浅子
+
+howmany entities : 34
+howmany clusters : 10
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 10
+deleted 0entities.

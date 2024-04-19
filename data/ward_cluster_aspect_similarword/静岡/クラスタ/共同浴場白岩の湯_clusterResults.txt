@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:共同浴場白岩の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+温泉, アルカリ泉, 格安, 無色透明, 名湯, お湯, 感じ, 浴槽, 湯, 上昇, 伊豆半島
+cluster1:(7)
+駐車場, 伊豆交流センター, 住民交流センター, 日帰り温泉施設, 市外者, 温泉地, 中伊豆交流センター
+cluster2:(2)
+白岩温泉, 白岩
+cluster3:(2)
+共同浴場, 共同浴場白岩
+cluster4:(1)
+天城大見川
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 5entities.

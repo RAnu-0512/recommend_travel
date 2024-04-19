@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若桜鬼ヶ城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+若桜鬼ヶ城, 若桜街道, 若桜駅
+cluster1:(2)
+街道, 但馬街道
+cluster2:(8)
+登山, 本丸, 石垣, 山頂, 城跡, 山城, 城, 史跡
+cluster3:(2)
+交通, 要所
+cluster4:(2)
+地獄, 足
+cluster5:(7)
+丸, 国, こと, スタンプ, おにぎり, 構造, ロケーション
+cluster6:(1)
+雨風
+cluster7:(4)
+作業小屋, 文化価値, 価値, 専門家
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 8
+deleted 0entities.

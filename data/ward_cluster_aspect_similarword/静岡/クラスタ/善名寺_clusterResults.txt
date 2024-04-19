@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善名寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+立札, 祈願, 祈祷, 建立, 和尚, 行基, 住職, 江戸時代, 寺
+cluster1:(5)
+予約無し, 受付, 予約, 電話, 挨拶
+cluster2:(14)
+車, 妻, 女性, 住所, 人, 旅館, 妹, 食事, 位置, 夫婦, 子供, 地, 東京, 大阪
+cluster3:(3)
+所, 悩み, 場
+cluster4:(13)
+事, 途中, まさか, 当方, こと, 申し入れ, もの, 仕方, 雰囲気, 旨, 古く, 方, 思い
+cluster5:(1)
+せよ次回
+cluster6:(1)
+駐車場
+cluster7:(7)
+子授け祈願, 吉名温泉, 吉奈温泉, 天城方面, 子宝, 子宝祈願, 泊まり子宝温泉
+
+howmany entities : 53
+howmany clusters : 8
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 6
+deleted 2entities.

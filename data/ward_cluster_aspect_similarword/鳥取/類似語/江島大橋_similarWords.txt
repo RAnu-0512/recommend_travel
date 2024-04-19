@@ -1,0 +1,45 @@
+--------------------similar_words:江島大橋--------------------
+top3 entities near to cluster0>>
+踏み, ベタ, べた
+top3 entities near to cluster7>>
+坂橋, 大橋, 坂
+top3 entities near to cluster9>>
+ベスト, ＢＥＳＴ, アングル
+top3 entities near to cluster10>>
+上り坂, 急坂, 下り坂
+top3 entities near to cluster11>>
+クルマ, 自動車, バイク
+top3 entities near to cluster12>>
+うわさ, しるし, 噂
+top3 entities near to cluster13>>
+レンタカー, タクシー, コンビニ
+top3 entities near to cluster14>>
+アクセル, 踏み込み, エンジン
+top3 entities near to cluster15>>
+イメージ, インパクト, ビジュアル
+top3 entities near to cluster16>>
+スクーター, ファミリーマート, アトラクション
+top3 entities near to cluster17>>
+マジック, スペース, ミラー
+top3 entities near to cluster19>>
+見た目, 外見, 見栄え
+top3 entities near to cluster21>>
+カメラ, スマホ, デジカメ
+top3 entities near to cluster22>>
+スリル, コースター, ジェット
+top3 entities near to cluster24>>
+迫力, 感動, 価値
+top3 entities near to cluster26>>
+噂, 話題, ウワサ
+top3 entities near to cluster27>>
+アレ, ソレ, なに
+top3 entities near to cluster28>>
+通称, 笑, 苦笑
+top3 entities near to cluster31>>
+名所, 名所旧跡
+top3 entities near to cluster32>>
+外客, お客, 乗客
+top3 entities near to cluster33>>
+バス, 路線, バス停
+top3 entities near to cluster34>>
+道路, 歩道

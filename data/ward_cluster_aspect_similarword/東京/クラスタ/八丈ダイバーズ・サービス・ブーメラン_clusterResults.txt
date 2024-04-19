@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丈ダイバーズ・サービス・ブーメラン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水中, 呼吸
+cluster1:(3)
+道具, メモ, 世話
+cluster2:(2)
+ダイビング, ダイバー
+cluster3:(3)
+フエフキ, インストラクター, スケジュール
+cluster4:(7)
+人, 一部, 話, 近く, 家族, 写真, 中
+cluster5:(1)
+所
+cluster6:(1)
+客
+cluster7:(1)
+金
+cluster8:(1)
+息子たち
+cluster9:(1)
+記念撮影
+cluster10:(3)
+魚鑑賞, 魚達, 魚
+cluster11:(3)
+違う海, 海亀, 海
+cluster12:(1)
+浅め
+
+howmany entities : 29
+howmany clusters : 13
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 13
+deleted 0entities.

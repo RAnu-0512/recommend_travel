@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あやめ御前供養塔(西琳寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上り鳥羽上皇, 鳥羽上皇
+cluster1:(5)
+温泉場, 伊豆温泉, 温泉旅館, 伊豆, 古奈地区
+cluster2:(13)
+妻, 周り, 源頼政, もの, 都, 美人, 一角, 歴史, 境内, 霊, 雰囲気, 西琳寺, 生まれ
+cluster3:(2)
+頼政, あやめ御前
+cluster4:(1)
+貞操
+cluster5:(1)
+供養塔
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 6entities.

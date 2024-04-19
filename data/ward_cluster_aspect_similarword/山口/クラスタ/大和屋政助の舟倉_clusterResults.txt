@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大和屋政助の舟倉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+辺り, 田んぼ
+cluster1:(1)
+人々
+cluster2:(1)
+意味
+cluster3:(1)
+田舎
+cluster4:(1)
+海
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

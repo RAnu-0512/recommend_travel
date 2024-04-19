@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちごいちえ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+期待度, 満足度
+cluster1:(2)
+練乳, いちご大
+cluster2:(2)
+いちご狩り, 冷凍いちご
+cluster3:(16)
+時間気, 時期, 地方, 中, 種類, 食べ比べ, ほう, なーかき氷, 感じ, 人, 品種, 開始, いちご, かき氷, 言葉, 落胆
+cluster4:(1)
+いちご狩り最終日
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SOZU温泉(旧雙津峡温泉 憩の家)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+浴場, 内湯, 温泉水, 源泉, 日帰り温泉, 入浴料, 温泉
+cluster1:(6)
+臨月, ペットボトル, 土産売り場, 長男, 持ち帰り, ロッカー
+cluster2:(2)
+妊娠性, 水疱
+cluster3:(1)
+足指
+cluster4:(1)
+掻痒感
+cluster5:(1)
+源泉掛け流し
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

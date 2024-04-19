@@ -1,0 +1,17 @@
+--------------------similar_words:花沢の里--------------------
+top3 entities near to cluster0>>
+駐車, 名所, 宿泊
+top3 entities near to cluster1>>
+里, 海, 山
+top3 entities near to cluster6>>
+カフェ, コーヒー, 喫茶店
+top3 entities near to cluster7>>
+帰り道, 遊歩道, プチハイキング
+top3 entities near to cluster10>>
+ケーキ, お菓子, 菓子
+top3 entities near to cluster12>>
+景色, 天気, 風情
+top3 entities near to cluster13>>
+周辺, 近辺
+top3 entities near to cluster14>>
+民家, 裏手, 集落

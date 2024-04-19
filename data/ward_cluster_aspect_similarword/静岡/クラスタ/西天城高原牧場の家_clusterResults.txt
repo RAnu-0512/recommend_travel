@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西天城高原牧場の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+宿泊施設, 観光施設, 宿泊
+cluster1:(2)
+鰹節, 鰹節めし
+cluster2:(4)
+登り山道, 急坂, 山道, 県道
+cluster3:(3)
+店員, 接客, 愛想
+cluster4:(3)
+牧場, 牛, 高原
+cluster5:(4)
+至福, 眺め, 往き, 景色
+cluster6:(3)
+空気, 量, 霧
+cluster7:(16)
+ご飯, 素手, 見晴らし, 舌, 家, ソフト, 人, ワサビ, 声, ソフトクリーム, ホームページ, 近く, メニュー表, コスパ, 他, コテージ
+cluster8:(1)
+注意夏
+cluster9:(1)
+かけ放題
+cluster10:(2)
+西天城高原, 気分爽快携帯電話
+
+howmany entities : 42
+howmany clusters : 11
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 7
+deleted 6entities.

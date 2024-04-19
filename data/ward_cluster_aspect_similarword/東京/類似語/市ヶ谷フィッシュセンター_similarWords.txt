@@ -1,0 +1,33 @@
+--------------------similar_words:市ヶ谷フィッシュセンター--------------------
+top3 entities near to cluster0>>
+鯉釣り, 金魚, 鯉
+top3 entities near to cluster1>>
+鯉, 鯉魚, 錦鯉
+top3 entities near to cluster2>>
+金魚, メダカ, 錦鯉
+top3 entities near to cluster3>>
+釣, 釣堀
+top3 entities near to cluster4>>
+餌, 熱帯魚, エサ
+top3 entities near to cluster5>>
+後味, 気分, 態度
+top3 entities near to cluster8>>
+理由, 意味, 意味合い
+top3 entities near to cluster9>>
+問題, 死活, 難問
+top3 entities near to cluster10>>
+質問, 回答, 返答
+top3 entities near to cluster11>>
+張っ, 張る
+top3 entities near to cluster12>>
+ショップ, ホテル, 釣り堀
+top3 entities near to cluster13>>
+馬鹿, 無知, 愚か
+top3 entities near to cluster15>>
+子供, 大人
+top3 entities near to cluster16>>
+値段
+top3 entities near to cluster17>>
+気温, 温度, 湿度
+top3 entities near to cluster18>>
+駅, 駅前, 徒歩

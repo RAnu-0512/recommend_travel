@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:講談社野間記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+創業者, 創業
+cluster1:(30)
+アジサイ, すぎ, 場所, テラス, 美術, カフェ, 講談社, 建物, 昭和, 入れ替え, 緑, 近く, 優品, 画家, 椿山荘, 時期, ポイントカード, コレクション, 機会, 絵画, 日本, 美術館, 友人, 雰囲気, そのもの, 休館, 画, 朝食, 展示, ブランチ
+cluster2:(4)
+休憩室, お庭, 庭, 目白道路
+cluster3:(1)
+建替え
+cluster4:(9)
+野間記念館, 入館料, 美術品, 近代美術, 野間清治, 近代日本画, 文化遺産, 日本画美術館, 記念館
+
+howmany entities : 46
+howmany clusters : 5
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 5
+deleted 0entities.

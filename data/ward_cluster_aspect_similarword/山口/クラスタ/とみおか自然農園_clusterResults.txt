@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:とみおか自然農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+肥料, 雑草, 野菜
+cluster1:(2)
+次, 話
+cluster2:(2)
+参考, 説明
+cluster3:(10)
+落ち葉, 家, 友人, サラダ, 主人, ふかふか, プロ, かき揚げ, スナップエンドウ, 奥様
+cluster4:(1)
+土
+cluster5:(1)
+植え付け体験
+cluster6:(1)
+人柄
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

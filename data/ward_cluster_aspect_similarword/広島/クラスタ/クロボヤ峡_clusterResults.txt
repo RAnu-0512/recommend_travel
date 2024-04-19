@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クロボヤ峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+クロボヤ池入口, クロボヤ池, クロボヤ峡
+cluster1:(2)
+有料ゾーン, 有料ゾーン費用
+cluster2:(4)
+NPO法人, 殿様池, 西条駅, 上ノ原牧場
+cluster3:(2)
+土, 徒歩
+cluster4:(7)
+そば, 入口, 終点, 滝, 奥, 道, 奥地
+cluster5:(2)
+ワゴン車, 交通
+cluster6:(18)
+子供, 時期, 中, 花, タクシー, 公開, 感じ, シーズン, 現地, 情報, 大人, ピンク色, ネット, 山, こと, 場所, シャクナゲ, 声
+cluster7:(1)
+それどこ?
+
+howmany entities : 39
+howmany clusters : 8
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 8
+deleted 0entities.

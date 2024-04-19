@@ -1,0 +1,109 @@
+--------------------similar_words:東京ドーム--------------------
+top3 entities near to cluster0>>
+野球, 球場, 観戦
+top3 entities near to cluster1>>
+出入り口, 入り口, 入口
+top3 entities near to cluster2>>
+飲み物, ランチ, カフェ
+top3 entities near to cluster3>>
+グッズ, うちわ, マスク
+top3 entities near to cluster4>>
+カッパ, こども, 子ども
+top3 entities near to cluster5>>
+カバン, 手持ち, 買い物
+top3 entities near to cluster6>>
+エリア, ショップ, カフェ
+top3 entities near to cluster7>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster8>>
+アリーナ, スタジアム, スタンド
+top3 entities near to cluster9>>
+待ち合わせ, おしゃべり, プラプラ
+top3 entities near to cluster10>>
+ビートルズ, ジャイアンツ, ウルトラマン
+top3 entities near to cluster11>>
+コンサート, イベント, イルミネーション
+top3 entities near to cluster12>>
+レストラン, テイクアウト, ホットドッグ
+top3 entities near to cluster13>>
+キャッシュレス, チケットレス, バリアフリー
+top3 entities near to cluster14>>
+ドームホテル, ドームシティ, ドームシティー
+top3 entities near to cluster15>>
+ヤフオクドーム, メットライフドーム, ヤフド
+top3 entities near to cluster16>>
+メトロドーム, アストロドーム, コミスキー・パーク
+top3 entities near to cluster17>>
+バーデ, スパプール, スパフロア
+top3 entities near to cluster18>>
+チュロス, ターキーレッグ, ティポトルタ
+top3 entities near to cluster20>>
+外野席, 巨人軍, 球場
+top3 entities near to cluster21>>
+キンプリ, カウコン, セクゾン
+top3 entities near to cluster22>>
+スポーツ, ゲーム, テレビ
+top3 entities near to cluster23>>
+アイドル, フェス, プロレス
+top3 entities near to cluster24>>
+ファン, アンチ, 本拠地
+top3 entities near to cluster25>>
+シーズン, ベンチ, 試合
+top3 entities near to cluster26>>
+シティ, シティー, シティ・ラクーア
+top3 entities near to cluster27>>
+ライブ, ライヴ, コンサート
+top3 entities near to cluster28>>
+ビール, 生ビール, 地ビール
+top3 entities near to cluster29>>
+シート, グリッターシート, ビニール
+top3 entities near to cluster30>>
+ライト, スタンド, ランプ
+top3 entities near to cluster31>>
+コロナ, ビーナス, ジャイアンツ
+top3 entities near to cluster32>>
+ネオン, オーロラ, ビジョン
+top3 entities near to cluster33>>
+アイス, ウォーター, アイスクリーム
+top3 entities near to cluster34>>
+コート, フード, ホーム
+top3 entities near to cluster35>>
+試合, 入場, 会場
+top3 entities near to cluster36>>
+大きい, すぎる
+top3 entities near to cluster37>>
+笑, 苦笑, 爆
+top3 entities near to cluster38>>
+勧め, お腹, 薦め
+top3 entities near to cluster42>>
+心配, よう
+top3 entities near to cluster43>>
+機会, チャンス, 好機
+top3 entities near to cluster44>>
+立て, 出来, 立てる
+top3 entities near to cluster45>>
+喚起, 留意, 警告
+top3 entities near to cluster46>>
+迫力, 熱気, 歓声
+top3 entities near to cluster47>>
+ドーム, 祭り, やき
+top3 entities near to cluster49>>
+人達, 家族
+top3 entities near to cluster50>>
+感覚, 雰囲気, 距離
+top3 entities near to cluster51>>
+音楽, 強風
+top3 entities near to cluster52>>
+会場, 周辺, 敷地
+top3 entities near to cluster53>>
+グルメ, レストラン, ホテル
+top3 entities near to cluster54>>
+散歩, 散策, 周遊
+top3 entities near to cluster55>>
+土産, 売店, 販売
+top3 entities near to cluster56>>
+混雑, 移動, 待機
+top3 entities near to cluster57>>
+駅, 飲食, 駅前
+top3 entities near to cluster58>>
+席, 座席, 客席

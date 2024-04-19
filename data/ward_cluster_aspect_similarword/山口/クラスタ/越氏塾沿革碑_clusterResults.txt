@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:越氏塾沿革碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+華浦小学校, 小学校
+cluster1:(1)
+こと
+cluster2:(1)
+塾
+cluster3:(1)
+石碑
+cluster4:(1)
+明治
+cluster5:(1)
+説明書き
+cluster6:(1)
+江戸時代
+cluster7:(1)
+河野養哲
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

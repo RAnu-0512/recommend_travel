@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:最上徳内墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸・蝦夷地, 蝦夷地
+cluster1:(3)
+説明板, 案内板, 板
+cluster2:(4)
+墓所, 墓地, 墓, 墓石
+cluster3:(8)
+蓮光寺, 距離, 近く, 左, 方, 北海道, こと, 位置
+cluster4:(3)
+門, 山門, 境内
+cluster5:(2)
+長崎, 幕府
+cluster6:(1)
+樺太
+cluster7:(1)
+江戸時代
+cluster8:(1)
+最上徳
+cluster9:(1)
+生涯歩行距離
+cluster10:(1)
+養源寺
+
+howmany entities : 27
+howmany clusters : 11
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 11
+deleted 0entities.

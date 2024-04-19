@@ -1,0 +1,15 @@
+--------------------similar_words:郷土と天文の博物館--------------------
+top3 entities near to cluster0>>
+展示室, 研究室, 展示, 研究
+top3 entities near to cluster2>>
+徒歩, 駅, 駅前
+top3 entities near to cluster3>>
+外観, 建物, 展示
+top3 entities near to cluster4>>
+唯一, 世界, 歴史
+top3 entities near to cluster5>>
+白鳥, 大正, 明治
+top3 entities near to cluster6>>
+訪問者, 来訪者, 訪問, 来訪
+top3 entities near to cluster7>>
+天文, 郷土, 天体

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観音山(広島県尾道市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+子供, 絶景, 眺め, 生口島, 山手, 散歩コース, 瀬戸内海, 山頂, 紅葉, 登山, 体力, 側, 初心者, 景色, 山, 観音山, レモン谷, 場所, 景観, 傾斜
+cluster1:(3)
+瀬戸田サンセットビーチ, 南側麓, 尾道市
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:来宮神社の大クス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+河津来宮神社, ここ来宮神社, 来宮神社
+cluster1:(3)
+熱海駅, 河津駅, 河津桜
+cluster2:(11)
+駐車場, 桜まつり, 原木, 楠, 本殿横, 神社, 仏閣, 本殿, 楠木, 大木, 大楠
+cluster3:(5)
+閑散, 東側, 左手, 左側, 南側
+cluster4:(14)
+車, 道, パワースポット, 周り, 地元, 天然記念物, パワー, 国, せせらぎ, 人, 会場, 時間, 近く, 木
+cluster5:(8)
+気, 多く, こと, 方, 悩み, 迫力, 価値, しろ
+cluster6:(1)
+パワ
+cluster7:(1)
+寿命
+cluster8:(1)
+良さ
+cluster9:(3)
+存在感, 大きさ, 生命力
+cluster10:(2)
+推定樹齢, 樹齢
+cluster11:(3)
+大クス, 大クス目的, クス
+
+howmany entities : 55
+howmany clusters : 12
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 8
+deleted 5entities.

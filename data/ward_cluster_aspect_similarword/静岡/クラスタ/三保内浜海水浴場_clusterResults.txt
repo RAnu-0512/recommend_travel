@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三保内浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ひとつ, 人気, ファミリー
+cluster1:(3)
+海水浴場, 遠浅, 砂浜
+cluster2:(1)
+子供連れ
+cluster3:(1)
+静岡市
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 2entities.

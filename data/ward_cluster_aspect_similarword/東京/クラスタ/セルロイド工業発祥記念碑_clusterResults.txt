@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:セルロイド工業発祥記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+セルロイド工業, 工場
+cluster1:(9)
+おもちゃ, 歴史, セルロイド, 中, 子供, 場所, 下町, 記念碑, 像
+cluster2:(1)
+渋江公園
+cluster3:(1)
+発祥記念碑
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

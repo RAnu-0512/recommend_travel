@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いなさゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+温泉, 天然温泉, 浴場
+cluster1:(17)
+アクセス, グリーン, スズキ, ゴルフ場, 系列, 新東名高速, 学生時代, メンテナンス, コース, ゴルフ, 友人, 孔雀, ベントグリーン, ホール脇, 丘陵コース, スコア, ホール
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 0entities.

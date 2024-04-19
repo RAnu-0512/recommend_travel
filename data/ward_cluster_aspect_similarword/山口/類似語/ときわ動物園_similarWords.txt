@@ -1,0 +1,29 @@
+--------------------similar_words:ときわ動物園--------------------
+top3 entities near to cluster0>>
+公園, 園内, 遊歩道
+top3 entities near to cluster1>>
+規模, 種類, 環境
+top3 entities near to cluster2>>
+姿, 叫び声
+top3 entities near to cluster3>>
+子供, 大人, 子ども
+top3 entities near to cluster4>>
+アルパカ, カピバラ, カピパラ
+top3 entities near to cluster5>>
+ランニング, ウォーキング, ジョギング
+top3 entities near to cluster6>>
+見ごたえ, 見応え, 読み応え
+top3 entities near to cluster7>>
+ふれあい, コーナー, ふれ合い
+top3 entities near to cluster8>>
+ココ, ・・ココ, ・ココ
+top3 entities near to cluster9>>
+半額, 同額, 倍額
+top3 entities near to cluster10>>
+木陰, 檻, 木の下
+top3 entities near to cluster11>>
+展示, 滞在, 出展
+top3 entities near to cluster12>>
+動物, 野生, 植物
+top3 entities near to cluster13>>
+動物園, 植物園, 動物, 植物

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若林園_みかん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+眺望, みかん, ミカン狩り, 若林園, 傾斜, ベテラン, ミカン農園, 園主, 手塩, 時期, 甘酸っぱいみかん, 育んだ山口
+cluster1:(4)
+周防大島町, 大島みかん, 大字小松にみかん農園, 大島郡
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

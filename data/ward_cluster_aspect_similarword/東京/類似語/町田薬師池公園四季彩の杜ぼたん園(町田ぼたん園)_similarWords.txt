@@ -1,0 +1,31 @@
+--------------------similar_words:町田薬師池公園四季彩の杜ぼたん園(町田ぼたん園)--------------------
+top3 entities near to cluster0>>
+ボタン, かけちがい, ビューボタン
+top3 entities near to cluster1>>
+ウサギ, ピンク, ピンク色
+top3 entities near to cluster2>>
+ひまわり, ヒマワリ, とりどり
+top3 entities near to cluster3>>
+見どころ, 見所, シーン
+top3 entities near to cluster4>>
+バス停, トイレ, ベンチ
+top3 entities near to cluster7>>
+動物園, 動物, 閃学
+top3 entities near to cluster8>>
+リス園, リス, シマ
+top3 entities near to cluster9>>
+開花, 満開, 見頃
+top3 entities near to cluster10>>
+花, 桜, 梅
+top3 entities near to cluster11>>
+エサ, 餌, えさ
+top3 entities near to cluster12>>
+バス, 乗り場, バスターミナル
+top3 entities near to cluster13>>
+庭園, 園内, 景観
+top3 entities near to cluster14>>
+公園, 散歩, 散策
+top3 entities near to cluster15>>
+駐車場, 駐車, 施設
+top3 entities near to cluster16>>
+たん池, 薬師池, たん, 薬師

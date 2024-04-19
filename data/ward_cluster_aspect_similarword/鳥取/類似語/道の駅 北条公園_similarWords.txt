@@ -1,0 +1,23 @@
+--------------------similar_words:道の駅 北条公園--------------------
+top3 entities near to cluster0>>
+土産, 特産, 名産
+top3 entities near to cluster1>>
+梨, 長芋, 沙ゆり
+top3 entities near to cluster2>>
+クルマ, ドライブ, スポーツカー
+top3 entities near to cluster3>>
+ジャム, 手作り, 手づくり
+top3 entities near to cluster4>>
+とろろ, 山かけ, 山芋
+top3 entities near to cluster5>>
+回目, 回, 目今
+top3 entities near to cluster6>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster7>>
+道路, 砂丘
+top3 entities near to cluster8>>
+娘, ねばり, よっ
+top3 entities near to cluster9>>
+国道, 県道
+top3 entities near to cluster10>>
+駅場, 駅, 駐車場, 駐車

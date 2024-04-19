@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上関温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+客, 大人, ヘアトニック, 人, こと, アフターシェーブローション, ブラシ, サウナ
+cluster1:(6)
+風呂, 入浴, 露天, お湯, 湯船, 温泉
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

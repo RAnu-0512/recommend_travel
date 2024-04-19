@@ -1,0 +1,23 @@
+--------------------similar_words:ヤマダ電機 LABI新橋--------------------
+top3 entities near to cluster0>>
+家電, 量販, 電器
+top3 entities near to cluster1>>
+物色, 参考
+top3 entities near to cluster2>>
+仕事, 休み, 業務
+top3 entities near to cluster4>>
+価格, 製品, 商品
+top3 entities near to cluster5>>
+買い物帰り, 帰る, 買い物
+top3 entities near to cluster6>>
+駅, そば, 駅前
+top3 entities near to cluster7>>
+店員, 店長, 店主
+top3 entities near to cluster8>>
+神社, 境内, 本殿
+top3 entities near to cluster9>>
+増税, 減税, アベノミクス
+top3 entities near to cluster10>>
+時間, 営業
+top3 entities near to cluster11>>
+駅前, 東口, 南口

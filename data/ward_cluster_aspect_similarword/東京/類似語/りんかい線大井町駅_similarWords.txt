@@ -1,0 +1,13 @@
+--------------------similar_words:りんかい線大井町駅--------------------
+top3 entities near to cluster0>>
+町, 駅, 丁目
+top3 entities near to cluster2>>
+駅, 改札, 構内
+top3 entities near to cluster3>>
+地下, 地上, 地表
+top3 entities near to cluster4>>
+お客, 顧客, 乗客
+top3 entities near to cluster5>>
+列, 通路, 時間
+top3 entities near to cluster6>>
+通行路, 通行線, 通行

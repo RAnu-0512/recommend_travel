@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海温泉ホテル旅館協同組合>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+組合加盟, 旅館協同組合
+cluster1:(12)
+クチコミ, 優良誤認, こと, 旅館, 案内所, ネット, 空き宿, 熱海, 予約, ホテル名, 宿, ホテル
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

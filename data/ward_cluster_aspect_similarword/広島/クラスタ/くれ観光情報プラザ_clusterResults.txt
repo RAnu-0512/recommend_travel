@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くれ観光情報プラザ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時間, 場所
+cluster1:(5)
+スペース, 途中, ところ, 中, スタッフ
+cluster2:(1)
+計画
+cluster3:(4)
+周辺, 情報, 通路, 方面
+cluster4:(1)
+見学
+cluster5:(1)
+大和ミュージアム
+cluster6:(1)
+移動方法
+cluster7:(3)
+観光, 観光スポット, 観光案内所
+cluster8:(5)
+呉港, 呉駅, 入船山公園, 呉, JR呉駅
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:扇屋別館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お湯, 入浴
+cluster1:(6)
+料理, 気, 雰囲気, 歴史, 体, 神経痛
+cluster2:(7)
+旅館, 温泉宿, 伊東温泉, 温泉, 天然温泉, 伊東, 泉質
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

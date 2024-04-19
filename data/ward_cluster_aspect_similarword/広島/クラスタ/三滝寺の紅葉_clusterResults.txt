@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三滝寺の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+三滝寺, 時期, 季節, 方, シーズン, 人, 趣, 空気, 気持ち, 場所
+cluster1:(3)
+車, 渋滞, 駐車
+cluster2:(5)
+境内, 寺, 紅葉, 坂, 京都
+cluster3:(1)
+広島市
+cluster4:(1)
+JR三滝駅
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

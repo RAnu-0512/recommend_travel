@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:世古峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+流れ, 源流, 上流
+cluster1:(2)
+渓谷, 清流
+cluster2:(1)
+淵
+cluster3:(16)
+区間, 紅葉, 日帰り利用, ホテル, 猫, 狩野川, 眺め, ところ, 眼下, 散策, 玄関あたり, 露天風呂, 自然, スポット, 風景, エメラルド色
+cluster4:(2)
+合流点, 越川
+cluster5:(5)
+世古峡, 温泉街, 川沿い, 峡谷部, 温泉宿
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 5entities.

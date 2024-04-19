@@ -1,0 +1,25 @@
+--------------------similar_words:亀戸天神の藤--------------------
+top3 entities near to cluster1>>
+カメ, 亀, 甲羅
+top3 entities near to cluster2>>
+ハト, エサ, 餌
+top3 entities near to cluster3>>
+藤棚, 花房, 天神
+top3 entities near to cluster4>>
+桜, 梅, 花
+top3 entities near to cluster5>>
+棚池, 棚橋, 棚
+top3 entities near to cluster6>>
+雲, 頂上, 山頂
+top3 entities near to cluster8>>
+満開, 見頃, 開花
+top3 entities near to cluster10>>
+姿, 品種, 香り
+top3 entities near to cluster11>>
+徒歩, 駅分, 駅
+top3 entities near to cluster12>>
+神社, 境内, 本殿
+top3 entities near to cluster13>>
+天気, 気温, 時期
+top3 entities near to cluster15>>
+藤, 亀戸, 天神

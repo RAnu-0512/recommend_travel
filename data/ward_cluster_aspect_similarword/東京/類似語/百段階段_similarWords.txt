@@ -1,0 +1,17 @@
+--------------------similar_words:百段階段--------------------
+top3 entities near to cluster0>>
+傘, 靴
+top3 entities near to cluster1>>
+大物, 大型, 小型
+top3 entities near to cluster3>>
+名称, 変更, 印象
+top3 entities near to cluster4>>
+禁止, 受付, 無料
+top3 entities near to cluster5>>
+館内, 玄関, 和室
+top3 entities near to cluster6>>
+異母, 姉, 異父
+top3 entities near to cluster7>>
+展示
+top3 entities near to cluster8>>
+企画展, 企画, 段階

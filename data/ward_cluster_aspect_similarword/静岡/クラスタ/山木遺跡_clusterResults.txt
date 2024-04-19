@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山木遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+イチゴ農園, イチゴ, 一部, 田んぼ, 跡, 多数, 国, 伊豆, 保管, ビニールハウス, 現地, 風景, 辺り, 生活, 時代
+cluster1:(5)
+民俗資料, 木製農具, 発掘品, 出土品, 建築材
+cluster2:(3)
+農耕文化, 農耕集落遺跡, 稲作
+cluster3:(8)
+遺物, 土器, 弥生遺跡, 遺跡, 山木遺跡, 弥生式時代, 登呂遺跡, 複合遺跡
+cluster4:(1)
+伊豆の国市郷土資料館
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 4
+deleted 1entities.

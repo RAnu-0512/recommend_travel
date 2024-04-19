@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アドベンチャーサポート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+感覚, 体験, 想像
+cluster1:(2)
+参加, お陰
+cluster2:(6)
+方法, 流れ, こと, 状況, 問題, 方
+cluster3:(3)
+身, 自信, 迫力
+cluster4:(1)
+テンション低め
+cluster5:(3)
+息子, 子, 娘
+cluster6:(2)
+主人, 家族
+cluster7:(2)
+水, 川
+cluster8:(2)
+別, 次
+cluster9:(3)
+ショートコース, ロングコース, ロング
+cluster10:(2)
+ガイド, ツアー
+cluster11:(4)
+スタッフ, 中学生, インストラクター, スライダー
+cluster12:(1)
+ロープ
+cluster13:(1)
+スリル
+cluster14:(1)
+アンパンマン
+cluster15:(2)
+野いちご, 家族みんな大
+cluster16:(2)
+滝壺ダイブ, 台風接近
+
+howmany entities : 40
+howmany clusters : 17
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 6
+deleted 18entities.

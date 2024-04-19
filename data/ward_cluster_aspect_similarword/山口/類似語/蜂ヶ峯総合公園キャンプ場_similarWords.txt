@@ -1,0 +1,9 @@
+--------------------similar_words:蜂ヶ峯総合公園キャンプ場--------------------
+top3 entities near to cluster0>>
+公園, テント, 広場
+top3 entities near to cluster1>>
+キャンプ場, 駐車場, キャンプ, 駐車
+top3 entities near to cluster2>>
+遊戯, 施設, 大型
+top3 entities near to cluster3>>
+峯, 公園, 蜂

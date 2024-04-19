@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京大学教養学部駒場博物館(美術博物館と自然科学博物館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駒場公園, 駒場野公園, 東京大学駒場キャンパス
+cluster1:(2)
+帝国大学, 自然科学博物館
+cluster2:(5)
+パイプオルガン演奏会, 展示コーナー, 美術博物館, 展示かえ, 展示
+cluster3:(13)
+建物, 近隣, 東京大学, 本邸, 見学, 博物館, エントランス, 中, 講堂, 前田家, キャンパス, 教室, 外観
+cluster4:(1)
+レトロ建築
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

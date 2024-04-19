@@ -1,0 +1,15 @@
+--------------------similar_words:都立殿ヶ谷戸庭園--------------------
+top3 entities near to cluster0>>
+庭園, 中庭, 茶室
+top3 entities near to cluster1>>
+駅, 南口, 徒歩
+top3 entities near to cluster2>>
+花, お花, 草花
+top3 entities near to cluster5>>
+竹美, 竹, 添愛
+top3 entities near to cluster6>>
+閑静, 厳粛, 厳か
+top3 entities near to cluster8>>
+景色, 地形, 風情
+top3 entities near to cluster9>>
+紅葉, 木々

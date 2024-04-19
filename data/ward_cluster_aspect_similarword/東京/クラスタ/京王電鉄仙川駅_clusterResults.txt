@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王電鉄仙川駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+調布市, 三鷹市, 仙川駅
+cluster1:(6)
+駅, カメラ撮影, 街歩き, 往復, 深大寺東町, 方面
+cluster2:(1)
+JAXA調布航空宇宙センター展示室
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

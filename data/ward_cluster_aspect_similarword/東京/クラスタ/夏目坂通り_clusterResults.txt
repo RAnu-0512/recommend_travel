@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夏目坂通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+姓, 家柄
+cluster1:(5)
+地, 系統, 名称, 早稲田駅, 道
+cluster2:(2)
+開催, 参加
+cluster3:(2)
+クイズポイント, クイズラリー
+cluster4:(5)
+イギリス, 荒川線, 東京大学, 交差点, 早稲田
+cluster5:(2)
+誕生, 父
+cluster6:(1)
+光景
+cluster7:(1)
+坂
+cluster8:(1)
+都電
+cluster9:(4)
+東京都, 清和源, 信濃源, 江戸幕府
+cluster10:(3)
+夏目坂, 夏目, 夏目城
+cluster11:(2)
+夏目漱石, 漱石
+cluster12:(1)
+紙幣肖像画
+
+howmany entities : 31
+howmany clusters : 13
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 13
+deleted 0entities.

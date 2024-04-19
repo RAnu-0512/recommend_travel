@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 仁保の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パン屋, パン
+cluster1:(7)
+豆腐, 旅行, 餅, 土産, 酒, 焼酎, 料理
+cluster2:(27)
+販売, 週末, こと, 車中, 農産物, 詰め合わせ, オススメ, 道, イベント, 美味しそう, 山口, レストラン, 裏側, 種類, 地元, イチゴ, 買い物, 限定, 駅, 花, パラボラアンテナ, 方, 人, 近く, 地域, ぶどう, 建物
+cluster3:(1)
+駐車場
+cluster4:(2)
+特産品, 宝石箱
+cluster5:(4)
+販売地元野菜, 野菜売り場, 野菜, 生鮮野菜類
+cluster6:(1)
+鶏・豚
+
+howmany entities : 44
+howmany clusters : 7
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 7
+deleted 0entities.

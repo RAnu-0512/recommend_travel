@@ -1,0 +1,9 @@
+--------------------similar_words:JR町田駅--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 構内
+top3 entities near to cluster2>>
+改札, コンコース, 券売
+top3 entities near to cluster3>>
+快速, 列車, 特急
+top3 entities near to cluster4>>
+駅, 乗換, 各駅

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花畑記念庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+いくつもの橋, 公園内施設, 散策路
+cluster1:(2)
+桜花亭, 桜花
+cluster2:(2)
+日本庭園, 庭園
+cluster3:(2)
+緑, 奥
+cluster4:(3)
+季節, カフェ, 借間
+cluster5:(4)
+公園, 滝, 鯉, 池
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

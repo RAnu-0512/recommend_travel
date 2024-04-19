@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若桜宿内>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+若桜, 若桜宿, 若桜駅
+cluster1:(2)
+昭和号, 昭和
+cluster2:(3)
+天井, 背, 格子
+cluster3:(19)
+家, こだわり, 中, 皆生温泉, 所, スタイル, 基本, タイムスリップ, 町並み, 時代, 人, 昔, 注意, 街並み, 子供, 部分, 男の子, 駄菓子, おもちゃ
+cluster4:(5)
+終点, 地方, 駅, 町, 道
+cluster5:(2)
+SL, おもちゃ館
+cluster6:(1)
+レジ
+cluster7:(2)
+収集者, 蔵通り
+cluster8:(6)
+車内, 国鉄, ローカル鉄道, 鉄道, 温泉地, 車両
+cluster9:(1)
+弁当箱
+
+howmany entities : 44
+howmany clusters : 10
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善福寺公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+季節, 時期
+cluster1:(2)
+子供, 大人
+cluster2:(2)
+人, 中
+cluster3:(1)
+木
+cluster4:(7)
+公園, 善福寺公園, 桜, 夜桜, 池, 花見, 散歩
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

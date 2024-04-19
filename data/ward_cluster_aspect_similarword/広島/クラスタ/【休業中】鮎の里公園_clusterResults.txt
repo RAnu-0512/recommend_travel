@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:【休業中】鮎の里公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+温泉, 宿泊施設, 食事処, 温泉施設, 里公園, 公園
+cluster1:(2)
+釜飯, 鮎
+cluster2:(12)
+西城川, 塩焼き, 方, スポット, 料理, 人気, 注文, 食事, 時間, 焼き立て, 場所, 夏
+cluster3:(1)
+かけ流し
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

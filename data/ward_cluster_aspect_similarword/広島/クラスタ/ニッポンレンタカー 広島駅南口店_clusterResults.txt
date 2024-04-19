@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 広島駅南口店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+対応, 説明
+cluster1:(4)
+方, 感じ, ニッポンレンタカー, スタッフ
+cluster2:(1)
+旅
+cluster3:(1)
+事が
+cluster4:(1)
+広島市
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

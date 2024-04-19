@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駒形堂・浅草観音戒殺碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観音菩薩像, 浅草観音戒殺碑
+cluster1:(8)
+浅草駅, 地下鉄浅草駅, 雷門, 浅草, 浅草発祥, 駒形, 江戸時代, 駒形堂
+cluster2:(2)
+御本尊, 本尊
+cluster3:(8)
+意味, 場所, 地, 近く, 付近, 中, こと, もの
+cluster4:(2)
+朱色, 扉
+cluster5:(3)
+浅草寺, 隅田川, 駒形橋
+cluster6:(3)
+馬頭観音, こじんまり, たもと
+cluster7:(1)
+浅草線
+cluster8:(1)
+建物
+cluster9:(3)
+川, 漁師, 兄弟
+cluster10:(5)
+堂, 戒殺碑, 縁日, 御堂, 馬頭観音菩薩
+cluster11:(1)
+禁漁区
+
+howmany entities : 39
+howmany clusters : 12
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 12
+deleted 0entities.

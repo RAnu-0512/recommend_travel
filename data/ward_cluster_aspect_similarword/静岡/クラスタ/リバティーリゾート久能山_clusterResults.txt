@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リバティーリゾート久能山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(33)
+雨, スタッフ, ご飯, 客, 人数, 水風呂, レストラン, 露天風呂 外, 効能, 家族, こと, 貸し切り状態, 昼, 外, 夫, 迷惑, サウナ目的, 気持ち, 露天風呂, 感じ, サウナ, 探し, 香り, 中, 高温, 夕飯, 待ち合わせ時間, 互い, 施設, 他, 数, 方, デッキ
+cluster1:(2)
+子供達, いちご狩り
+cluster2:(11)
+温泉, 温泉露天風呂, 電気風呂, チキン南蛮定食, ミックスフライ定食, 岩盤浴, 仮眠所, 従業員, 男湯, 風呂, 湯
+
+howmany entities : 46
+howmany clusters : 3
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 2
+deleted 2entities.

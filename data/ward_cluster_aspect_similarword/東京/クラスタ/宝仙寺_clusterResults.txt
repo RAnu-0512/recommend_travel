@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝仙寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中野坂上駅, 中野町
+cluster1:(2)
+寺院, 寺
+cluster2:(2)
+山門, 境内
+cluster3:(1)
+石碑
+cluster4:(4)
+中心, 街並み, 近く, 見応え
+cluster5:(2)
+学校, 家
+cluster6:(1)
+ココ
+cluster7:(1)
+系列
+cluster8:(1)
+奥
+cluster9:(1)
+木造
+cluster10:(1)
+中核場所
+cluster11:(3)
+役場跡, 三重塔, 仁王像
+
+howmany entities : 21
+howmany clusters : 12
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 12
+deleted 0entities.

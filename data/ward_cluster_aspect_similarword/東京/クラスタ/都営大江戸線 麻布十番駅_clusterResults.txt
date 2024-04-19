@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営大江戸線 麻布十番駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+所, エスカレーター, カメラ, 都営地下鉄, 時間, 南北線, 幼稚園
+cluster1:(3)
+地上, 地下, 出口
+cluster2:(1)
+都営
+cluster3:(1)
+美少女戦士
+cluster4:(5)
+マンホールカード配布予定, マンホール蓋, 配布, カラーデザインマンホール蓋, 記念品
+cluster5:(9)
+女学院小学部, 地下鉄麻布十番駅, 港区, セーラームーンX港区, 駅, 江戸線 麻布十番駅, 江戸線, 麻布十番駅, 東洋英和
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 6
+deleted 0entities.

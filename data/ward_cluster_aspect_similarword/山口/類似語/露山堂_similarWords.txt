@@ -1,0 +1,9 @@
+--------------------similar_words:露山堂--------------------
+top3 entities near to cluster0>>
+倒幕, 幕府, 幕末
+top3 entities near to cluster3>>
+親, 両親, 親達
+top3 entities near to cluster5>>
+茶室, 庭園, 建物
+top3 entities near to cluster6>>
+山堂, 林堂, 山, 林

@@ -1,0 +1,9 @@
+--------------------similar_words:キャンベルヒルズ--------------------
+top3 entities near to cluster0>>
+貸切, バス, 貸し切り
+top3 entities near to cluster1>>
+別荘, 家族
+top3 entities near to cluster2>>
+子供, 子ども, 親達
+top3 entities near to cluster3>>
+人数, 大, 規模

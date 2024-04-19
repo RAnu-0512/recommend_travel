@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:犀ケ崖資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人工崖, 自然崖
+cluster1:(2)
+戦い, 合戦
+cluster2:(6)
+連休, 展示, 地図, 旅行, 映像, 建物
+cluster3:(3)
+事, 方, 確認
+cluster4:(8)
+スタッフ, 次, 間違い, ジオラマ, 裂目, ゆかり, 散歩道, 見応え
+cluster5:(2)
+心, 涙
+cluster6:(1)
+平野
+cluster7:(1)
+手作り感
+cluster8:(1)
+外堀
+cluster9:(4)
+説明員, 休館日, 説明板, 資料館
+cluster10:(9)
+静岡県, 浜松城, 武田信玄, 犀ケ崖資料館, 浜松, 家康, 徳川家康, 三方ヶ原, せよ浜松城ね守り
+
+howmany entities : 39
+howmany clusters : 11
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 9entities.

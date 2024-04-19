@@ -1,0 +1,87 @@
+--------------------similar_words:生涯青春の湯つるつる温泉--------------------
+top3 entities near to cluster1>>
+温泉, 施設, 宿泊
+top3 entities near to cluster2>>
+天然, 温泉, クア・ガーデン
+top3 entities near to cluster3>>
+温泉, 温泉郷, 旅館
+top3 entities near to cluster4>>
+温泉, 露天風呂, 湯
+top3 entities near to cluster5>>
+温泉, 温泉郷, めぐり
+top3 entities near to cluster6>>
+温泉, 日帰り, 露天風呂
+top3 entities near to cluster7>>
+温泉, 旅館, 露天風呂
+top3 entities near to cluster8>>
+温泉, 温泉郷, 湯
+top3 entities near to cluster9>>
+温泉, 通, 湯
+top3 entities near to cluster10>>
+温泉巡り, 温泉, めぐり
+top3 entities near to cluster11>>
+青春, 生涯, 人生
+top3 entities near to cluster13>>
+気持ち, 雰囲気, マナー
+top3 entities near to cluster14>>
+自販機, マスク, スマホ
+top3 entities near to cluster15>>
+最寄り, 昼過ぎ, ロビー
+top3 entities near to cluster16>>
+スタッフ, サービス, イベント
+top3 entities near to cluster17>>
+ダイヤ, ダイア, ダイヤモンド
+top3 entities near to cluster18>>
+すべすべ, ツルツル, スベスベ
+top3 entities near to cluster19>>
+内風呂, 露天風呂, 湯上がり
+top3 entities near to cluster20>>
+良さ, 憎憎し, もの憂
+top3 entities near to cluster21>>
+コク, 密, 旨味
+top3 entities near to cluster22>>
+二股, 予備, カギ
+top3 entities near to cluster23>>
+人々, 人達
+top3 entities near to cluster25>>
+帰っ
+top3 entities near to cluster27>>
+人数, 定員
+top3 entities near to cluster28>>
+制限, 対応, 受付
+top3 entities near to cluster29>>
+制は, 入替え
+top3 entities near to cluster30>>
+やる気, ・・ヤル
+top3 entities near to cluster31>>
+靴, 靴箱
+top3 entities near to cluster32>>
+都心, 郊外, 電車
+top3 entities near to cluster33>>
+処, 食事, 子
+top3 entities near to cluster34>>
+館内, 施設, 園内
+top3 entities near to cluster36>>
+混雑, 込み合う, 混む
+top3 entities near to cluster37>>
+洋風, 料理, 和風
+top3 entities near to cluster38>>
+バス, 路線, 送迎
+top3 entities near to cluster39>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster40>>
+風呂, 湯船, 入浴
+top3 entities near to cluster41>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster42>>
+檜, 風呂, 桧
+top3 entities near to cluster43>>
+浴室, 浴槽, 内湯
+top3 entities near to cluster44>>
+肌, 温度, 素肌
+top3 entities near to cluster46>>
+休憩, 仮眠, 昼食
+top3 entities near to cluster47>>
+登山, 山登り, 登り
+top3 entities near to cluster48>>
+入浴者, 利用者, 入浴, 利用

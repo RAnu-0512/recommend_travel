@@ -1,0 +1,19 @@
+--------------------similar_words:東西線 高田馬場駅--------------------
+top3 entities near to cluster0>>
+地下鉄, 都営, メトロ
+top3 entities near to cluster1>>
+余裕, 時間, 全体
+top3 entities near to cluster2>>
+人達, 人々
+top3 entities near to cluster3>>
+痛み, 激痛, 鈍痛
+top3 entities near to cluster4>>
+朝夕, 朝晩, 毎日
+top3 entities near to cluster5>>
+時間帯, 時間, 時の間
+top3 entities near to cluster6>>
+西武線, 西武, 沿線
+top3 entities near to cluster7>>
+駅, 構内, 駅前
+top3 entities near to cluster8>>
+客数, 乗降, 旅客

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブルーベリー摘み取り(石坂武氏の農園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ブルーベリー, ジャム
+cluster1:(1)
+ママ
+cluster2:(1)
+実
+cluster3:(1)
+世話
+cluster4:(1)
+鍋
+cluster5:(1)
+ブルーベリー摘み
+cluster6:(1)
+ジャム作り体験
+cluster7:(1)
+日野市
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

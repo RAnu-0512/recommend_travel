@@ -1,0 +1,15 @@
+--------------------similar_words:山口情報芸術センター[YCAM]--------------------
+top3 entities near to cluster0>>
+市立, 図書館, 町立
+top3 entities near to cluster1>>
+上映, 映画, 封切り
+top3 entities near to cluster2>>
+子供, 子ども, 大人
+top3 entities near to cluster3>>
+広場, 公園, 噴水
+top3 entities near to cluster4>>
+各国, 各地, 世界
+top3 entities near to cluster5>>
+作品, 建物, 映画
+top3 entities near to cluster6>>
+価値, 意義

@@ -1,0 +1,15 @@
+--------------------similar_words:本郷給水所公苑のばら--------------------
+top3 entities near to cluster0>>
+給水, 苑, 上水
+top3 entities near to cluster1>>
+洋式, 和式, 庭園
+top3 entities near to cluster2>>
+駅, 駅前, 南口
+top3 entities near to cluster3>>
+薔薇, バラ, 花
+top3 entities near to cluster4>>
+公園, 緑地
+top3 entities near to cluster6>>
+管理, 手入れ
+top3 entities near to cluster7>>
+薔薇園, 薔薇, 苑

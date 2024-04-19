@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高水山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高水三山, 高水山山頂
+cluster1:(3)
+常福院, 高水山, 高源寺
+cluster2:(4)
+青梅市, 軍畑, 軍畑駅, JR青梅線
+cluster3:(23)
+手前, 山, 場所, 景色, 岩茸石山, 花, 人, アクセス, 人気, 展望, 山頂, 丹沢, 道のり, 標高, 駅, トイレ, 山々, 急坂, 登り, 時間, コース, ハイキング, 御嶽
+cluster4:(3)
+登山道沿い, 登山道, 舗装路
+cluster5:(3)
+ミニ縦走コース, 手軽雪山体験, 縦走コース
+
+howmany entities : 38
+howmany clusters : 6
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 6
+deleted 0entities.

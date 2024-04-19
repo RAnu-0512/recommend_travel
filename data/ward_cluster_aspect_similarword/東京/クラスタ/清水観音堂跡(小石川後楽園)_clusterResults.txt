@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水観音堂跡(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+斜面, 高台
+cluster1:(10)
+清水寺, 場所, 建物, 観音堂, 関東大震災, 舞台, 土台, イメージ, 中, もの
+cluster2:(2)
+姿, 名前
+cluster3:(1)
+跡
+cluster4:(6)
+小石川後楽園, 緑, 紅葉, 京都, 後楽園内, 清水観音堂
+cluster5:(1)
+大泉水
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:向島洋らんセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+広島, もの, 気候, 種類, 車, コーヒー, サイズ, 切り花, 向島, 茎, 花瓶, バリエーション, 自然, 栽培
+cluster1:(3)
+即売所, カレー屋, 喫茶コーナー
+cluster2:(1)
+芝生広場
+cluster3:(6)
+向島洋らんセンター, 洋ラン, 洋らん, 蘭, 胡蝶蘭, 蝶蘭
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 4
+deleted 0entities.

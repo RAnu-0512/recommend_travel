@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美乃和陶房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供達, 子供たち
+cluster1:(2)
+品, 完成品
+cluster2:(5)
+粘土, 皿, 手びねり, 仕上げ色, 色
+cluster3:(3)
+方, 方達, 方々
+cluster4:(4)
+こと, 想像, 状態, 中身
+cluster5:(2)
+満足, 完成
+cluster6:(3)
+荷物, 手配, 手順
+cluster7:(35)
+主人, コップ, 他, 宅急便, 所, 工房, サプライズ, 家族, 貸切, 上がり, 息子, 思い出, 御殿場, 手つき, 箱根, ナビ, 作り物, 趣味, 体験, 山道, 時間, 止まり, 畑, 電話, 中, 仕上がり, 自然, 話, 子供, 場所, 先生, 夏休み, 小学生, 渾身, 作品
+cluster8:(1)
+時間枠
+cluster9:(4)
+陶芸, 電動ろくろ体験, 陶芸体験, 陶芸教室
+cluster10:(1)
+美乃和陶房
+
+howmany entities : 62
+howmany clusters : 11
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 6
+deleted 8entities.

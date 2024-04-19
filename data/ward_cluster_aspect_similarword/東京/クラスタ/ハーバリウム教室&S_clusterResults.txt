@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハーバリウム教室&S>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+円柱, 角柱型, 円柱型
+cluster1:(2)
+先生, 教室
+cluster2:(2)
+ウイスキー型, 体験
+cluster3:(7)
+タッセル, ハーバリウム, 使い方, リボン, ピンセット, イメージ, ボトル
+cluster4:(2)
+基本, 他所
+cluster5:(3)
+作品, 形, こと
+cluster6:(3)
+容量, 平面, 縦長
+cluster7:(2)
+入れ方, 高さ
+cluster8:(1)
+花材
+cluster9:(1)
+ハーバリウム作り
+
+howmany entities : 26
+howmany clusters : 10
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 10
+deleted 0entities.

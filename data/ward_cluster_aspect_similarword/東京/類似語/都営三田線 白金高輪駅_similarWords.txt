@@ -1,0 +1,9 @@
+--------------------similar_words:都営三田線 白金高輪駅--------------------
+top3 entities near to cluster0>>
+駅, 徒歩, 南口
+top3 entities near to cluster1>>
+都営, 営団, メトロ
+top3 entities near to cluster2>>
+運用, 共同, 駅
+top3 entities near to cluster3>>
+館, 区立, 科学

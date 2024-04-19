@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:BravePoint台場店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+台場, 足腰
+cluster1:(25)
+ゲーム, 初心者, ルール, サポート, スタッフ, 最後, フィールド, レイアウト, レンタル, 他, 気, サバゲー, 貸し切り, ガチ, 数, サバイバルゲーム, Bスタジオ, こと, 友人, 未経験, 戦, 説明, Aスタジオ, チーム, システム
+cluster2:(3)
+方たち, 方, 方々
+cluster3:(3)
+値段, 店員, 声
+cluster4:(2)
+説教, 相談
+cluster5:(1)
+込み
+cluster6:(2)
+場所柄老若男女, 僕ら一般参加
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

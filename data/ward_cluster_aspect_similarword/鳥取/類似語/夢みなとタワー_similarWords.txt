@@ -1,0 +1,35 @@
+--------------------similar_words:夢みなとタワー--------------------
+top3 entities near to cluster0>>
+フリー, ラリー, マーケット
+top3 entities near to cluster1>>
+スペース, フロア, エントランススペース
+top3 entities near to cluster2>>
+ボタン, アップ, アップロードボタン
+top3 entities near to cluster4>>
+パノラマ, 見晴らし, 貸し切り
+top3 entities near to cluster5>>
+ショップ, おみやげ, チケット
+top3 entities near to cluster6>>
+ポスター, コーナー, イベント
+top3 entities near to cluster7>>
+オアシス, センター, オフィス
+top3 entities near to cluster8>>
+シアター, アカサカ, ＢＹＪ
+top3 entities near to cluster9>>
+水族館, 子ども, 海沿い
+top3 entities near to cluster11>>
+海岸線, 海岸, 諸国
+top3 entities near to cluster12>>
+子供服, 子供, 洋服
+top3 entities near to cluster14>>
+水族館, 魚類
+top3 entities near to cluster15>>
+海, 海岸, 半島
+top3 entities near to cluster16>>
+土産, 土産物, おみやげ
+top3 entities near to cluster17>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster18>>
+名所, 土産, 土産物
+top3 entities near to cluster19>>
+展望, 施設, 展示

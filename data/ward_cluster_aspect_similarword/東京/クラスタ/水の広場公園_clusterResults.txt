@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水の広場公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+散策, 趣き, 雑踏
+cluster1:(3)
+東京湾, 緑地公園, 海沿い
+cluster2:(2)
+海辺, 海
+cluster3:(1)
+緑
+cluster4:(3)
+水, 前, 目
+cluster5:(1)
+海風
+cluster6:(4)
+お台場, 青海駅, 公園, 広場公園
+cluster7:(2)
+お台場海浜公園, 有明西ふ頭公園
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

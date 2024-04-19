@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くるま屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+乗り心地, 商店街コース, 歩行者, 浅草観光, 観光客
+cluster1:(2)
+記念撮影, 記念写真
+cluster2:(5)
+くるま屋, 東京, 雷門, 浅草, 車夫
+cluster3:(6)
+観光, 旅行, 写真スポット, 予約, 乗車, 写真
+cluster4:(3)
+人, 他, 方
+cluster5:(9)
+オススメ, 兄さん, 人力車, 隅田川, 思い出, ガイド, タイミング, 人混み, コース
+cluster6:(1)
+車
+cluster7:(8)
+娘, 外国, 高齢, 母, 両親, 風, 田舎, 着物
+cluster8:(4)
+歩道, 沿い, 桜, 満開
+cluster9:(2)
+場所, 時間
+cluster10:(3)
+途中, 次回, 話
+cluster11:(3)
+気, 事, こと
+cluster12:(2)
+担当, 説明
+cluster13:(1)
+趣向
+cluster14:(3)
+疲れ, 笑顔, 勇気
+cluster15:(3)
+思い出作り, 世話, 眺め
+cluster16:(1)
+完成度
+
+howmany entities : 61
+howmany clusters : 17
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 17
+deleted 0entities.

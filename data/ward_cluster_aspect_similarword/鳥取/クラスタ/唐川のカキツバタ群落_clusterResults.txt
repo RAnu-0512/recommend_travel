@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:唐川のカキツバタ群落>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+群生地, 群生
+cluster1:(2)
+カキツバタ群落, 湿原
+cluster2:(5)
+唐川, 駐車場, カキツバタ, 紫色, 周辺
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

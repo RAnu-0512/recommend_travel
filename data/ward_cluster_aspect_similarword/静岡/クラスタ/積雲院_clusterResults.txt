@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:積雲院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乱, 平治
+cluster1:(12)
+古刹, 歴史, 兄, 紅葉, 印象, 源頼朝, 市街地, 本堂, 庭, 曹洞宗, 境内, 見ごたえ
+cluster2:(3)
+積雲院, 袋井市, 頼長
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 2entities.

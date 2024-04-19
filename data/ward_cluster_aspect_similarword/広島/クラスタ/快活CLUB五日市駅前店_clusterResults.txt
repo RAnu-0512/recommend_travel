@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:快活CLUB五日市駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+無愛想, カード
+cluster1:(1)
+人
+cluster2:(1)
+方
+cluster3:(1)
+物
+cluster4:(1)
+受付
+cluster5:(1)
+態度
+cluster6:(1)
+立地
+cluster7:(1)
+男性店員
+cluster8:(1)
+優しさ
+cluster9:(1)
+タメ口
+
+howmany entities : 11
+howmany clusters : 10
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 10
+deleted 0entities.

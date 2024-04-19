@@ -1,0 +1,43 @@
+--------------------similar_words:金持神社--------------------
+top3 entities near to cluster1>>
+道路沿い, 道路, 高速
+top3 entities near to cluster2>>
+その道, 県道
+top3 entities near to cluster3>>
+徒歩, 駅, 距離
+top3 entities near to cluster4>>
+木, 金, 土
+top3 entities near to cluster5>>
+大勢, 人々
+top3 entities near to cluster6>>
+関連, 人気, 商品
+top3 entities near to cluster9>>
+時間
+top3 entities near to cluster10>>
+地元, 裏手, 隣
+top3 entities near to cluster12>>
+宝くじ, クジ, ロト
+top3 entities near to cluster13>>
+蛇, 凶, 龍
+top3 entities near to cluster14>>
+財布, 靴, サイフ
+top3 entities near to cluster15>>
+味噌, 陰, みそ
+top3 entities near to cluster16>>
+山道
+top3 entities near to cluster17>>
+看板絵, 看板
+top3 entities near to cluster18>>
+鳥居, 森, 坂
+top3 entities near to cluster19>>
+山奥, 田舎, 山懐
+top3 entities near to cluster20>>
+ご利益, 御利益, お守り
+top3 entities near to cluster21>>
+金持, 神社, 金持ち
+top3 entities near to cluster22>>
+開運, 祈願, 願掛け
+top3 entities near to cluster23>>
+運, 金, 幸運
+top3 entities near to cluster24>>
+神社, 境内, 参拝

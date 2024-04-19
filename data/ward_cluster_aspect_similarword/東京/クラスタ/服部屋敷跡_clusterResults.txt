@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:服部屋敷跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+人影, ソテツ, 建物, 演劇, 公演, 閉演時間, 土産, 団体バスツアー, 踊り, ゴム, ほう, ガイド, フェニックス, 出迎え, 説明
+cluster1:(4)
+玉石垣, 女木・男木, 石垣, 八丈太鼓
+cluster2:(3)
+黄八丈のお土産物屋, 屋敷跡, 陣屋跡
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

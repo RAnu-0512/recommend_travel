@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杉野学園衣裳博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+横断歩道, 東京急行電鉄目黒線, 信号機
+cluster1:(8)
+靴, LANVINスタイル画, カタログ冊子, 鑑賞, 展示数, 資料, 衣装博物館, 展示
+cluster2:(5)
+スリッパ, クチュール, 博物館, 必要, スーツ
+cluster3:(3)
+左, 日本, 戦前
+cluster4:(7)
+玄関, 建物, 入口, 学園, 塔, 敷地, 路地
+cluster5:(1)
+杉野
+cluster6:(1)
+徳川家ゆかり
+cluster7:(1)
+レトロ建築
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 8
+deleted 0entities.

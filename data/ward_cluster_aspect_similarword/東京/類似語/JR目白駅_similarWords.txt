@@ -1,0 +1,9 @@
+--------------------similar_words:JR目白駅--------------------
+top3 entities near to cluster0>>
+学生, 大学, 大学生
+top3 entities near to cluster1>>
+隣, 前後
+top3 entities near to cluster2>>
+世界, 雰囲気, 別世界
+top3 entities near to cluster3>>
+駅, 駅前, 構内

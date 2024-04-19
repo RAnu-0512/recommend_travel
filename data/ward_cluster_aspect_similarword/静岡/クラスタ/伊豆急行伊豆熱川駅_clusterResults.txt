@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆急行伊豆熱川駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海側席, 展望室
+cluster1:(3)
+伊豆北川駅, 列車, 伊豆熱川駅
+cluster2:(3)
+伊豆, リゾート, リゾート21
+cluster3:(1)
+黒船電車
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

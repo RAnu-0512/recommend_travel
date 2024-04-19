@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒川清流公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+公園, 公園そのもの, 緑地
+cluster1:(2)
+清流, 小川
+cluster2:(8)
+人, 方, 所, 傾斜地, 水, 通路, イメージ, 名前
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

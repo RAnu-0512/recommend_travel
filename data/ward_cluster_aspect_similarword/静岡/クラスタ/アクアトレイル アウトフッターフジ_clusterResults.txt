@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アクアトレイル アウトフッターフジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+気遣い, インストラクター
+cluster1:(2)
+景色, 天気
+cluster2:(1)
+カヤック体験
+cluster3:(1)
+湖
+cluster4:(1)
+方たち
+cluster5:(1)
+休憩時間
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

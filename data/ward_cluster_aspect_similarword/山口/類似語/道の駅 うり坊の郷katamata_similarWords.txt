@@ -1,0 +1,17 @@
+--------------------similar_words:道の駅 うり坊の郷katamata--------------------
+top3 entities near to cluster0>>
+肉, 猪, イノシシ
+top3 entities near to cluster1>>
+山道, 枝道
+top3 entities near to cluster3>>
+田舎道, 人達
+top3 entities near to cluster4>>
+駅店, 周辺店, 駅, 周辺
+top3 entities near to cluster5>>
+郷, 逃現, 逢喜
+top3 entities near to cluster6>>
+野菜, 食堂, 肉
+top3 entities near to cluster7>>
+売店, 構内
+top3 entities near to cluster8>>
+坊, 夏季, うり

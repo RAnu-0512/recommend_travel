@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米子城下町>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駅前ホテル, 下町, 風情, 土蔵, 住宅, 街
+cluster1:(15)
+家, 船, 初乗り, 中国, 旅, 加茂川, 付近, 伯備線, 訪問, 周辺, 町並み, 辺り, 山地, カフェ, 場所
+cluster2:(9)
+後藤, 青空, 晴天, 山陰, 天気, 小雪, 山陽, 雪, 正
+cluster3:(4)
+新見駅, 米子駅, 米子城跡, 備中岡山
+cluster4:(1)
+伯耆鳥取の終着米子駅
+
+howmany entities : 35
+howmany clusters : 5
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 5
+deleted 0entities.

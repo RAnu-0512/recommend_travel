@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津国際カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴルフ場, ゴルフ仲間
+cluster1:(2)
+足, 高速グリーン
+cluster2:(2)
+評判, 期待
+cluster3:(11)
+グリーン, スタッフ, 愛鷹山, 初心者, コース, ゴルフ, 気持ち, 富士山, 駿河湾, 一般, 方
+cluster4:(2)
+景色, 自然
+cluster5:(1)
+スタート間隔
+cluster6:(1)
+愛想
+cluster7:(7)
+富士コース, 富士, 箱根コース, 箱根, 天城, 裾野, 沼津国際カントリークラブ
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 10entities.

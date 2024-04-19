@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇久須キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+キャンプ場, 海水浴場, 宇久須キャンプ場
+cluster1:(7)
+クリスタルビーチ, 黄金崎, 海水浴, 北, 横, 景色, 砂浜
+cluster2:(2)
+国道, 西伊豆町
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

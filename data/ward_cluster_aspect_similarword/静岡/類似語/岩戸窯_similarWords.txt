@@ -1,0 +1,15 @@
+--------------------similar_words:岩戸窯--------------------
+top3 entities near to cluster0>>
+萩焼, 窯焼, 萩, 窯
+top3 entities near to cluster2>>
+急須, 茶, 蓋
+top3 entities near to cluster3>>
+教室, 料理, 駅
+top3 entities near to cluster4>>
+紅葉, 景色, 雪景色
+top3 entities near to cluster6>>
+参考, 出来上がり, お手本
+top3 entities near to cluster7>>
+終了, 完成, 作業
+top3 entities near to cluster10>>
+体験, 陶芸, 釉薬

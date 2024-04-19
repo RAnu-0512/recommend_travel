@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:塩屋天然温泉ほの湯楽々園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+髪, 香り
+cluster1:(8)
+施設, 方, 外, 所, 仕方, こと, 価格, 声
+cluster2:(4)
+子供, 学生, 人, 女性
+cluster3:(2)
+週末, 前
+cluster4:(1)
+客
+cluster5:(15)
+タオル, 見回り, ごろ寝スペース, 露天風呂, 疲れ, 機械, サウナ, リンパ, スタッフ, スポーツセンター, 携帯, 気持ち, ゲート, アップ, 汗
+cluster6:(1)
+返却
+cluster7:(1)
+スタッフさん達
+cluster8:(2)
+料金精算, 館内窓口
+cluster9:(2)
+駐車場, 脱衣所
+cluster10:(7)
+樽風呂, 岩風呂, ほの湯, 温泉, 岩盤浴, つぼ風呂, 風呂
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 11
+deleted 0entities.

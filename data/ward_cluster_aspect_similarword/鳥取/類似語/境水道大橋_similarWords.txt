@@ -1,0 +1,33 @@
+--------------------similar_words:境水道大橋--------------------
+top3 entities near to cluster0>>
+坂, 踏み, 登り
+top3 entities near to cluster1>>
+水木, しげる, 記念
+top3 entities near to cluster6>>
+大橋, たもと
+top3 entities near to cluster7>>
+入口, 平坦, 行
+top3 entities near to cluster8>>
+景色, 風景, 景観
+top3 entities near to cluster9>>
+公園, 歩道, 対岸
+top3 entities near to cluster10>>
+発着車, 運転, 発着
+top3 entities near to cluster12>>
+クルマ, 雰囲気, 佇まい
+top3 entities near to cluster13>>
+迫力, 年季, 間近
+top3 entities near to cluster15>>
+対象, 留意, 必要
+top3 entities near to cluster17>>
+代役, 演じる
+top3 entities near to cluster18>>
+手間, 手間隙, 労力
+top3 entities near to cluster19>>
+任せ, プロ, まかせ
+top3 entities near to cluster20>>
+バス, 路線, マイクロバス
+top3 entities near to cluster21>>
+運賃料, 運賃, 料金
+top3 entities near to cluster22>>
+下車, 境, 徒歩

@@ -1,0 +1,17 @@
+--------------------similar_words:東千田公園--------------------
+top3 entities near to cluster0>>
+原爆, 被爆, 被曝
+top3 entities near to cluster1>>
+子供, 夏場, 猛暑
+top3 entities near to cluster2>>
+時間, 日数, 時
+top3 entities near to cluster3>>
+理学部, 農学部, 工学部
+top3 entities near to cluster4>>
+気分, 気持ち, 気持
+top3 entities near to cluster5>>
+禁止, 厳禁, 無断
+top3 entities near to cluster6>>
+出会, 出会い, 出合い
+top3 entities near to cluster7>>
+公園, 広場, 中庭

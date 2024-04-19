@@ -1,0 +1,75 @@
+--------------------similar_words:富士サファリパーク--------------------
+top3 entities near to cluster0>>
+エサ, 餌, えさ
+top3 entities near to cluster1>>
+動物, 動物園, 植物園, 植物
+top3 entities near to cluster2>>
+バス, マイクロバス, タクシー
+top3 entities near to cluster5>>
+入場, 入館, 入園
+top3 entities near to cluster7>>
+渋滞, 混雑, 混む
+top3 entities near to cluster8>>
+時間帯, 時間
+top3 entities near to cluster9>>
+開園, 閉園, 閉演
+top3 entities near to cluster10>>
+予約, 撮影, 案内
+top3 entities near to cluster11>>
+ねこ, いぬ, くま
+top3 entities near to cluster12>>
+ゾウ, トラ, サル
+top3 entities near to cluster13>>
+猫, ネコ, クマ
+top3 entities near to cluster14>>
+カー, サファリ, キャンピング
+top3 entities near to cluster16>>
+ウサギ, カピバラ, リスザル
+top3 entities near to cluster17>>
+シマウマ, ライオン, チーター
+top3 entities near to cluster22>>
+赤ちゃん, ライオン, 赤ん坊
+top3 entities near to cluster23>>
+マイク, ゲート, トーク
+top3 entities near to cluster24>>
+ホテル, レストラン, イベント
+top3 entities near to cluster27>>
+おすすめ, オススメ, メイン
+top3 entities near to cluster30>>
+ワンコ, マイカー, 子連れ
+top3 entities near to cluster31>>
+ツアー, オプショナル・ツアー, シークレットツアー
+top3 entities near to cluster32>>
+コース, フォレストコース, ドライビングコース
+top3 entities near to cluster35>>
+サファリ, トレッキング, サファリーパーク
+top3 entities near to cluster37>>
+ゾーン, エリア, アニマルゾーン
+top3 entities near to cluster40>>
+姿, 表情, 光景
+top3 entities near to cluster41>>
+迫力, 興奮, 間近
+top3 entities near to cluster43>>
+解説, 参考, 補足
+top3 entities near to cluster46>>
+体験, 恐怖, 体感
+top3 entities near to cluster47>>
+迫力, 楽しい
+top3 entities near to cluster49>>
+昼, 昼間, 夕方
+top3 entities near to cluster59>>
+ドア, 窓, 開閉
+top3 entities near to cluster60>>
+道路, 広場
+top3 entities near to cluster64>>
+子供, 子ども, 大人
+top3 entities near to cluster65>>
+娘, 息子, 子
+top3 entities near to cluster66>>
+人達, 人数
+top3 entities near to cluster67>>
+写真, 宿泊, 映画
+top3 entities near to cluster68>>
+運転, 車両
+top3 entities near to cluster69>>
+子供, 息子, 孫

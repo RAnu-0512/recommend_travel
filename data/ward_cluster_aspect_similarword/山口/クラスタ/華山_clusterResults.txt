@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:華山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(32)
+山頂, 春, 花見, 境内, 景色, ツライ, 自然, 空気, 車, 家族, 名前, ジョギング, ランニング, 場所, 紅葉, パワースポット, 疲れ, マラソントレーニング, 桜, 山道, 麓, ドライブ, 山, 瀬戸内海, 頂上, 天気, ジョギングコース, 華山, 門, 風情, 歴史, 散歩
+cluster1:(3)
+神上寺, 寺, 下関市
+cluster2:(2)
+上り路, 駐車場
+
+howmany entities : 37
+howmany clusters : 3
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 3
+deleted 0entities.

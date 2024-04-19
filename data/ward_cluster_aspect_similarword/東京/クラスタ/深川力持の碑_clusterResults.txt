@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深川力持の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京都, 東京メトロ
+cluster1:(2)
+駐車場, 食料倉庫
+cluster2:(3)
+本殿, 本殿左側, 境内
+cluster3:(2)
+力自慢, 時間潰し
+cluster4:(2)
+石碑, 碑
+cluster5:(2)
+深川, 門前仲町駅
+cluster6:(12)
+正面, 場所, 宮, 人達, 八幡宮, 米, 富岡八幡宮, 時間, 石, 東西線, もの, 左側
+cluster7:(1)
+力石
+cluster8:(3)
+子供, 江戸時代, 子供達
+cluster9:(3)
+深川力持の碑, 横綱力士碑, 七五三参り
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 10
+deleted 0entities.

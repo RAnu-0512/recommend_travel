@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杵築大社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+事代主, 大國主大神, 杵築大社, 御祭神
+cluster1:(2)
+JR中央線, JR武蔵境駅
+cluster2:(3)
+南口, 駅, 武蔵境駅
+cluster3:(3)
+神社, 大神, 初詣
+cluster4:(2)
+池, 橋
+cluster5:(4)
+場所, 富士塚, 一角, イトーヨーカドー
+cluster6:(1)
+小山
+cluster7:(1)
+境内左手
+cluster8:(1)
+高さ
+cluster9:(2)
+茅野輪, 登山口
+cluster10:(1)
+うっそうと木々の繁るパワースポット
+
+howmany entities : 24
+howmany clusters : 11
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 11
+deleted 0entities.

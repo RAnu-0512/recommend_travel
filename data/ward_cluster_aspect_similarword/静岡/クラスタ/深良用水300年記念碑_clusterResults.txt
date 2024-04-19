@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深良用水300年記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+深良以南, 用水, 深良用水, 用水出口
+cluster1:(18)
+知恵, 岩波駅, 記念碑, 斜面, 工事道具, 人間, 工事, 地下道, 芦ノ湖, 徒歩, 素晴らしさ, サイド, 技術, 誤差, 場所, 江戸時代, 山, 道
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

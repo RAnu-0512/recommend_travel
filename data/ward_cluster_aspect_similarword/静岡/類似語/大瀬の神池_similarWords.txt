@@ -1,0 +1,13 @@
+--------------------similar_words:大瀬の神池--------------------
+top3 entities near to cluster0>>
+拝観料, 参拝, 拝観
+top3 entities near to cluster1>>
+海水, 餌, エサ
+top3 entities near to cluster4>>
+ダイバー, 雰囲気, パワー
+top3 entities near to cluster5>>
+湧き水, 自販機, わき水
+top3 entities near to cluster10>>
+湖, 神社, 境内
+top3 entities near to cluster11>>
+淡水, 大瀬

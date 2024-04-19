@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋葉ダム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+千本桜, 秋葉ダム千本桜
+cluster1:(5)
+佐久間ダム, ダム, 水窪, 秋葉ダム, 龍山村
+cluster2:(4)
+桜, 紅葉, 満開, 景色
+cluster3:(5)
+こと, スポット, 気分, 水, 時期
+cluster4:(1)
+駐車場
+cluster5:(1)
+四季折々
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 4entities.

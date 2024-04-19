@@ -1,0 +1,29 @@
+--------------------similar_words:香取神社(亀有)--------------------
+top3 entities near to cluster1>>
+イベント, 人混み, 人出
+top3 entities near to cluster2>>
+写真絵, 写真, 漫画
+top3 entities near to cluster3>>
+見所, 祭り, 見どころ
+top3 entities near to cluster5>>
+時期, 時間, 時
+top3 entities near to cluster6>>
+昔, 大昔, 以前
+top3 entities near to cluster7>>
+隣, 手前, 向かい側
+top3 entities near to cluster8>>
+地元, 隣県, 地元民
+top3 entities near to cluster9>>
+延長線, 事実, うえ
+top3 entities near to cluster10>>
+そば, 入口, 入り口
+top3 entities near to cluster11>>
+隣, 笑, 苦笑
+top3 entities near to cluster12>>
+駅, 徒歩, 立地
+top3 entities near to cluster13>>
+子供, 人達, 子ども
+top3 entities near to cluster14>>
+商店, 銅像
+top3 entities near to cluster15>>
+神社, 本殿, 絵馬

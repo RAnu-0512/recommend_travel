@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サクラの松月院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+境内, 寺
+cluster1:(6)
+桜, 地面, 菩提寺, 花, 花びら, 早咲き
+cluster2:(1)
+上旬
+cluster3:(3)
+木下杢太郎, 伊東公園, 大寒桜
+cluster4:(1)
+松月院
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 4entities.

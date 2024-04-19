@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:医王寺(静岡県磐田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+古刹, 古寺, 境内, 寺院, 苔寺, 宗派, 寺
+cluster1:(11)
+医王寺, 枯山水, 医王寺., 南, 庭, 景色, ツツジ, 雰囲気, 場所, サツキ, 気分
+cluster2:(4)
+新駅, JR, 東海, 東海道線
+cluster3:(4)
+日本庭園, 庭園, 枯山水庭園, 明王像
+cluster4:(5)
+静岡県, 磐田市, 真言宗智山派, 小堀遠州, 御厨駅
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 5
+deleted 0entities.

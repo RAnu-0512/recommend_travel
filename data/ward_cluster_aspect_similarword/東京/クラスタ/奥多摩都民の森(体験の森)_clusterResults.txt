@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥多摩都民の森(体験の森)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+季節, 拠点, 場所, 建物, 施設
+cluster1:(7)
+御前山, 大人, 別, 森, 子供, 下, 奥多摩
+cluster2:(1)
+お気
+cluster3:(7)
+夜間登山, 駐車場, 自然体験, 林業体験, 体験, 釣り体験, 宿泊施設
+cluster4:(1)
+栃寄森の家
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

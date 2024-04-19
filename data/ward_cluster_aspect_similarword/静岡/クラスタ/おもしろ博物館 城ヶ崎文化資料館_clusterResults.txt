@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おもしろ博物館 城ヶ崎文化資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+郷土資料, 民俗資料館
+cluster1:(3)
+道すがら自生, 徒歩, 伊豆高原駅
+cluster2:(17)
+名, 雨, 博物館, 機織り機, レトログッズ, 顔, 現代アート, 展示, ミュージアム, 大人, 昔, アンティーク, おもしろ博物館, 感じ, 紫陽花, 多種, 作品
+cluster3:(1)
+入場無料
+cluster4:(1)
+レトロおもちゃ
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 4entities.

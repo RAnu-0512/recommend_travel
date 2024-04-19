@@ -1,0 +1,25 @@
+--------------------similar_words:平田観光農園--------------------
+top3 entities near to cluster0>>
+料理, 食材, 野菜
+top3 entities near to cluster1>>
+大人, 子供, 子ども
+top3 entities near to cluster2>>
+子供, 子ども, 親達
+top3 entities near to cluster3>>
+家族連れ, 家族, つれ
+top3 entities near to cluster4>>
+盆, 休み, お盆
+top3 entities near to cluster5>>
+イチゴ, 果物, ぶどう
+top3 entities near to cluster7>>
+季節, 時期, 秋
+top3 entities near to cluster8>>
+連絡, 対応, 中止
+top3 entities near to cluster9>>
+褒美, 感謝, ほうび
+top3 entities near to cluster10>>
+パフェ, つくり
+top3 entities near to cluster11>>
+予約, 受付, 参加
+top3 entities near to cluster12>>
+狩り, 果物, 農園

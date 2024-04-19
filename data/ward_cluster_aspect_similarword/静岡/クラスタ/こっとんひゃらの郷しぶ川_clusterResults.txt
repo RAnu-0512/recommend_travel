@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:こっとんひゃらの郷しぶ川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+からくり人形小屋, からくり人形, 水車小屋, 人形
+cluster1:(7)
+駐車場, 小屋, 遊び, 音楽, 扉, 夏, 公園
+cluster2:(1)
+渋川親水公園
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 1entities.

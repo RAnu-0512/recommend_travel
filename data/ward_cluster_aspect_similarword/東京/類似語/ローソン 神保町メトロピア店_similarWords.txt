@@ -1,0 +1,17 @@
+--------------------similar_words:ローソン 神保町メトロピア店--------------------
+top3 entities near to cluster0>>
+構内, 駅, 駅前
+top3 entities near to cluster1>>
+コンビニ, ローソン, コンビニエンスストア
+top3 entities near to cluster2>>
+コーヒー, ロールケーキ, エスプレッソ
+top3 entities near to cluster3>>
+オススメ, おすすめ, ススメ
+top3 entities near to cluster4>>
+イチゴ, いちご, 苺
+top3 entities near to cluster5>>
+中っ, ただ今, 中の間
+top3 entities near to cluster6>>
+神保町, 淡路町, 九段下
+top3 entities near to cluster7>>
+揃え, そろえ

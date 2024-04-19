@@ -1,0 +1,11 @@
+--------------------similar_words:みなとが丘ふ頭公園--------------------
+top3 entities near to cluster0>>
+ふ頭, 埠頭, 公園
+top3 entities near to cluster2>>
+緑, 自然, 山
+top3 entities near to cluster3>>
+割, 若者, 間
+top3 entities near to cluster4>>
+公園, 景色, 散歩
+top3 entities near to cluster5>>
+展望台, 展望, 瞻星台, 瞻星

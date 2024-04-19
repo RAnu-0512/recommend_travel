@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西焼津笑福の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+利用, こと, 対応, 答え, 誠意, 場合, 感じ, 話し, 話, 説明
+cluster1:(2)
+前回, 時間
+cluster2:(3)
+子, 人, 子供
+cluster3:(13)
+フロント, スタッフ, 支払い, 支配人, ポイント, ゲーム, 気持ち, 露天風呂, 勘違い, 間違い, 決まり, 小学生, 男の子
+cluster4:(2)
+アーム, ロッカーバンド
+cluster5:(2)
+サウナ, タオル
+cluster6:(3)
+ゲーム会社, 家庭, 風呂
+cluster7:(1)
+男親
+cluster8:(3)
+別料金, 届く所, 子供料金
+cluster9:(2)
+入浴利用, 入浴
+cluster10:(2)
+当館, 入館
+cluster11:(2)
+休憩スペース, 喫煙スペース
+cluster12:(1)
+リラク 食堂
+
+howmany entities : 46
+howmany clusters : 13
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 5
+deleted 14entities.

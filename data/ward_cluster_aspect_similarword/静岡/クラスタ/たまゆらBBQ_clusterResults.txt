@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たまゆらBBQ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+川, 下, 横
+cluster1:(6)
+車, トイレ, 和室, 見通し, 施設, 道路
+cluster2:(1)
+BBQ場
+cluster3:(1)
+子供達
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

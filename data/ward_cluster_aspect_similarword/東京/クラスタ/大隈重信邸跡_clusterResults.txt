@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大隈重信邸跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大隈重信, 大隈庭園
+cluster1:(10)
+人, 樹々, 邸宅, 早稲田大学, 大学, 池, 授業, 庭園, 文人風, 芝生
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

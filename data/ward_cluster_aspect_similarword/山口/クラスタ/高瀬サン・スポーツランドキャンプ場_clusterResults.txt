@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高瀬サン・スポーツランドキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供, テントサイト, 近く
+cluster1:(2)
+川, 流れ
+cluster2:(1)
+キャンプ場
+cluster3:(1)
+自然環境
+cluster4:(1)
+島地川
+cluster5:(1)
+高瀬サン・スポーツランド
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

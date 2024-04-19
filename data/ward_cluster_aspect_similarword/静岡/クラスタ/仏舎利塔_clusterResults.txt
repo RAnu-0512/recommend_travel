@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仏舎利塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建築物, 建造物
+cluster1:(2)
+家族連れ, 外国人
+cluster2:(2)
+団体バス, 観光客
+cluster3:(1)
+異空間
+cluster4:(4)
+熱海, 伊豆ドライブ, 伊豆, 熱海城
+cluster5:(2)
+仏舎利塔, 塔
+cluster6:(5)
+仏像, 空間, 景色, 建物, 建築
+cluster7:(3)
+車, 面白, ナビ
+cluster8:(2)
+来訪, ドライブ帰り
+cluster9:(2)
+気, 由来
+cluster10:(4)
+此処, 所, 近く, 場所
+cluster11:(2)
+南, 東
+cluster12:(3)
+西伊豆, 御殿場, 富士山
+cluster13:(3)
+見晴らし, ところ, 雰囲気
+cluster14:(2)
+タマネギ, インド
+cluster15:(1)
+仏舎利
+cluster16:(1)
+日本
+cluster17:(1)
+山
+
+howmany entities : 42
+howmany clusters : 18
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 6
+deleted 20entities.

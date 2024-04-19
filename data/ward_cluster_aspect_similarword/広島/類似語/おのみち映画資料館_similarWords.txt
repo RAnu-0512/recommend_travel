@@ -1,0 +1,19 @@
+--------------------similar_words:おのみち映画資料館--------------------
+top3 entities near to cluster1>>
+館, 資料, 映画
+top3 entities near to cluster2>>
+資料, 史料, 映画
+top3 entities near to cluster3>>
+映画, ロケ, 上映
+top3 entities near to cluster4>>
+館, 映画, 資料
+top3 entities near to cluster5>>
+物語, 物語り, ものがたり
+top3 entities near to cluster6>>
+戦前, 当時, 昔
+top3 entities near to cluster7>>
+映像, 監督, 舞台
+top3 entities near to cluster8>>
+建物, 館内
+top3 entities near to cluster10>>
+時間, 何分, どれ

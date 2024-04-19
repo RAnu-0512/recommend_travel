@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米子市役所旧館(山陰歴史館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+米子市役所, 米子市美術館, 米子城, 米子, JR米子駅
+cluster1:(2)
+雄姿, 片鱗
+cluster2:(16)
+建物, 車, 市役所, 中, こと, 価値, 周り, 風景, 事件, 疑い, 辺り, 昔, 内容, 味気, 市, 見ごたえ
+cluster3:(2)
+国宝, 昭和
+cluster4:(2)
+歩道, 石垣
+cluster5:(8)
+法勝寺電車, ネオゴシック調, 旧役所, 市役所駐車場, 庁舎, 旧市役所, 新しい現市役所庁舎, 旧館
+cluster6:(7)
+建築, 建築費, 洋風建築, 建造物群, 建築物, 近代建築, モダン建築
+cluster7:(5)
+展示品, 展示, 特別展, 展示物, 常設展示
+cluster8:(5)
+山陰歴史館, 歴史, 歴史館, 資料, 歴史資料
+
+howmany entities : 52
+howmany clusters : 9
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 9
+deleted 0entities.

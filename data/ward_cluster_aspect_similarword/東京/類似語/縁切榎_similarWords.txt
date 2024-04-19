@@ -1,0 +1,17 @@
+--------------------similar_words:縁切榎--------------------
+top3 entities near to cluster0>>
+身体, 心身
+top3 entities near to cluster1>>
+態度
+top3 entities near to cluster3>>
+駅店, 町店, 駅, 町
+top3 entities near to cluster4>>
+行き方, 気持ち, 歴史
+top3 entities near to cluster5>>
+感謝, 縁, 挨拶
+top3 entities near to cluster6>>
+職場, 上司, 仕事
+top3 entities near to cluster9>>
+参拝, 神社, 境内
+top3 entities near to cluster10>>
+蕎麦屋, そば屋, 蕎麦, そば

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:来嶋又兵衛生誕地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ところ, 記念碑
+cluster1:(2)
+小野田駅, 徒歩
+cluster2:(1)
+来嶋
+cluster3:(2)
+又兵衛生誕地, 厳島神社
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

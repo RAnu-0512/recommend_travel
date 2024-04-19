@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鞆の浦海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鞆, 水島渡船場, 浦
+cluster1:(2)
+軽食, 海水浴売店
+cluster2:(3)
+島, 船, 海
+cluster3:(2)
+設備, 所
+cluster4:(9)
+シーカヤック, 海水浴シーズン, ビール, 遊歩道, 家, 人, 多く, 前, 近く
+cluster5:(1)
+浸食岩
+cluster6:(6)
+駐車場, 観光客, 宿泊施設, 国民宿舎, キャンプ場, 海水浴場
+cluster7:(1)
+仙水島仙
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 8
+deleted 0entities.

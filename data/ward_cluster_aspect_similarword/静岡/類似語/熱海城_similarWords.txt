@@ -1,0 +1,55 @@
+--------------------similar_words:熱海城--------------------
+top3 entities near to cluster0>>
+アイス, タオル, トイレ
+top3 entities near to cluster2>>
+オススメ, ススメ, おすすめ
+top3 entities near to cluster5>>
+テーマ, 見どころ, 見所
+top3 entities near to cluster6>>
+センス, コスパ, マッチ
+top3 entities near to cluster7>>
+ゲーセン, アーケード, ホッケー
+top3 entities near to cluster8>>
+コーナー, スタッフ, スタート
+top3 entities near to cluster11>>
+テーマパーク, アトラクション, イベント
+top3 entities near to cluster13>>
+チェックイン, エレベーター, コインロッカー
+top3 entities near to cluster15>>
+チケット, 売り切れ, クーポン
+top3 entities near to cluster16>>
+タクシー, フェリー, コーヒー
+top3 entities near to cluster18>>
+子ども, こども, 子供
+top3 entities near to cluster19>>
+やり
+top3 entities near to cluster20>>
+子供, 子ども, 大人
+top3 entities near to cluster21>>
+展示, 見学, 写真
+top3 entities near to cluster25>>
+価値, 感動
+top3 entities near to cluster27>>
+ゲーム, ミニゲーム, クイズ
+top3 entities near to cluster28>>
+地上, 各階
+top3 entities near to cluster30>>
+疲労, 空気
+top3 entities near to cluster31>>
+建物
+top3 entities near to cluster35>>
+天気雨, 大雨, 天気
+top3 entities near to cluster37>>
+城, 城内, 石垣
+top3 entities near to cluster39>>
+入場料, 入場, 入館料, 入館
+top3 entities near to cluster40>>
+城, 館, 城跡
+top3 entities near to cluster41>>
+景色, 絶景, 周遊
+top3 entities near to cluster42>>
+施設, 駐車, 宿泊
+top3 entities near to cluster43>>
+展望台, 展望, 眺望
+top3 entities near to cluster44>>
+足湯, 温泉, 露天風呂

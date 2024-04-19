@@ -1,0 +1,15 @@
+--------------------similar_words:ロンドンスポーツ(アメ横店)--------------------
+top3 entities near to cluster0>>
+用品, 用具, グッズ
+top3 entities near to cluster1>>
+ウェア, ウエア, ウエアー
+top3 entities near to cluster4>>
+シューズ, スニーカー, ワゴン
+top3 entities near to cluster5>>
+もつ, 持つ, 持てる
+top3 entities near to cluster6>>
+店舗, 店頭
+top3 entities near to cluster7>>
+散策, 値段, 設定
+top3 entities near to cluster8>>
+安い, ウマスイーツ

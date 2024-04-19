@@ -1,0 +1,11 @@
+--------------------similar_words:道の駅 にちなん 日野川の郷--------------------
+top3 entities near to cluster0>>
+木材, 建物, 家屋
+top3 entities near to cluster1>>
+気持ち, 県道
+top3 entities near to cluster2>>
+名産, 特産, 名物
+top3 entities near to cluster3>>
+愛想, 休憩, 無愛想
+top3 entities near to cluster4>>
+産直, 市場, 直売

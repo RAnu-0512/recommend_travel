@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:犀ケ崖古戦場碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+武田信玄, 徳川, 本多忠真, 家康, 徳川家康, 信長
+cluster1:(2)
+戦場碑, 資料館
+cluster2:(15)
+武将, 記念碑, 浜松, 三方, 戦い, 原, 合戦, 近く, 念仏, 雰囲気, 場所, 他, 方, 出来事, 史跡
+cluster3:(1)
+三方ヶ原
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:世羅大豊農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+梨, 梨狩り
+cluster1:(3)
+娘夫婦, 孫, 孫ちゃん
+cluster2:(3)
+ぶどう園, 果物, 品種
+cluster3:(23)
+雨, もの, 中, 行き帰り, ハズレ, 土砂降り, 残り, ハニービーナス, クーポン, 写真, ぶどう, 持ち帰り, 家族, 木, マイクロバス, 山, 種, 駅, こと, 値段, 屋根, 調子, 受付
+cluster4:(1)
+食べ残し
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 5
+deleted 0entities.

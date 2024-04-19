@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松市三ヶ日B&G海洋センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+解消, GW中, 大人, 料金, オススメ, 小学生, 子供達, もの
+cluster1:(4)
+水泳教室, 施設, 温水プール, 運動施設
+cluster2:(1)
+従業員
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 1entities.

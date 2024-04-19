@@ -1,0 +1,37 @@
+--------------------similar_words:夢の大橋--------------------
+top3 entities near to cluster0>>
+景色, 夜景, 散策
+top3 entities near to cluster1>>
+歩道橋, 遊歩道, 歩道
+top3 entities near to cluster2>>
+カップル, デート, ベンチ
+top3 entities near to cluster3>>
+アニメ, テレビ, ホテル
+top3 entities near to cluster4>>
+ショールーム, アウトレット, アウトレットショップ
+top3 entities near to cluster5>>
+ビックサイト, ビッグサイト, ビーナスフォート
+top3 entities near to cluster6>>
+ロマンチック, ライトアップ, イルミネーション
+top3 entities near to cluster7>>
+イベント, ロケーション, 催し物
+top3 entities near to cluster8>>
+行き過ぎ, オススメ, おすすめ
+top3 entities near to cluster9>>
+ジョギング, ランニング, ウォーキング
+top3 entities near to cluster10>>
+ライト, ノベル, ブルー
+top3 entities near to cluster11>>
+気持ち, 気持, キモチ
+top3 entities near to cluster12>>
+賑わい, にぎわい, 賑わう
+top3 entities near to cluster13>>
+駅車, 周辺, 駅
+top3 entities near to cluster14>>
+聖火, ホァンホァン, オリンピック
+top3 entities near to cluster16>>
+台場, ビーナスフォート, アクアシティ
+top3 entities near to cluster17>>
+歩行者, 歩行, 専用
+top3 entities near to cluster20>>
+区, 区内, 都

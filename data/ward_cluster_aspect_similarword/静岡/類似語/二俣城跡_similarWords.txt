@@ -1,0 +1,13 @@
+--------------------similar_words:二俣城跡--------------------
+top3 entities near to cluster0>>
+駅, 徒歩, 下車
+top3 entities near to cluster5>>
+城, 本丸, 城跡
+top3 entities near to cluster7>>
+天守, 城郭, 天守閣
+top3 entities near to cluster8>>
+信康, 家康, 築山殿
+top3 entities near to cluster9>>
+今川, 義元, 信長
+top3 entities near to cluster10>>
+姫, 徳, 羽山

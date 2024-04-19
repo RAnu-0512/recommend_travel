@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急線喜多見駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+人, 多く, 人達, ホーム
+cluster1:(2)
+昼間, 朝夕
+cluster2:(7)
+駅, 駅前, 小田急線, 普通電車, 立派な駅, 駅停車, 喜多見駅
+cluster3:(1)
+線化工事
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

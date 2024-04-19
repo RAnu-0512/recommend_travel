@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 静岡駅南口店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡市, 静岡駅
+cluster1:(3)
+車, クルマ, 駅
+cluster2:(3)
+場所, 種類, 移動
+cluster3:(1)
+新幹線口
+cluster4:(1)
+台数
+cluster5:(1)
+利便性
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 5entities.

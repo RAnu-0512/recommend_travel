@@ -1,0 +1,13 @@
+--------------------similar_words:くれ観光情報プラザ--------------------
+top3 entities near to cluster0>>
+時間, 日数, 時
+top3 entities near to cluster2>>
+計画, 構想, 立案
+top3 entities near to cluster3>>
+周辺, 通路, 情報
+top3 entities near to cluster4>>
+見学, 視察, 見物
+top3 entities near to cluster6>>
+方法, 移動, 手段
+top3 entities near to cluster7>>
+名所, 案内, 名所旧跡

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:我入道の渡し船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+運航日, 定時運行
+cluster1:(3)
+定員, 片道, 運賃
+cluster2:(2)
+我入道, 狩野川
+cluster3:(2)
+バック, 富士山
+cluster4:(1)
+渡し船
+cluster5:(1)
+時間
+cluster6:(1)
+現役
+cluster7:(1)
+小川
+cluster8:(5)
+河川, あゆみ橋, 船頭, のんびりと船, 河口
+cluster9:(6)
+風情, 光景, 風流, 景色, 風景, 江戸時代
+cluster10:(8)
+静岡県, のりば, あゆみ橋のりば, 我入道のりば, 沼津市, 沼津港のりば, 沼津駅, 沼津港
+
+howmany entities : 32
+howmany clusters : 11
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 10entities.

@@ -1,0 +1,101 @@
+--------------------similar_words:秋吉台自然動物公園サファリランド--------------------
+top3 entities near to cluster0>>
+迫力, 楽しい, 力強い
+top3 entities near to cluster1>>
+喜ぶ, 大騒ぎ
+top3 entities near to cluster4>>
+思う気, よう, 思う
+top3 entities near to cluster5>>
+工夫, 創意, 苦心
+top3 entities near to cluster7>>
+母, 父, 母親
+top3 entities near to cluster8>>
+窓, ガラス, 扉
+top3 entities near to cluster9>>
+施設, 職員, 福祉
+top3 entities near to cluster10>>
+席, 車内, 座席
+top3 entities near to cluster11>>
+自動, 大型, 小型
+top3 entities near to cluster12>>
+運, 金, 添好
+top3 entities near to cluster13>>
+冬, 夏, 秋
+top3 entities near to cluster14>>
+お陰, 各所, 意外
+top3 entities near to cluster16>>
+弁当, ご飯, 散歩
+top3 entities near to cluster17>>
+案内, 見学, 利用
+top3 entities near to cluster18>>
+料金, 運賃, 費用
+top3 entities near to cluster19>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster20>>
+距離分, 時間, 距離
+top3 entities near to cluster21>>
+家族, 娘, 両親
+top3 entities near to cluster22>>
+大人, 子供, 子ども
+top3 entities near to cluster23>>
+子ども, 子供, お子様
+top3 entities near to cluster24>>
+幼児, 乳幼児, 乳児
+top3 entities near to cluster25>>
+ライオン, ウサギ, シマウマ
+top3 entities near to cluster26>>
+気持ち, 思い出, ペース
+top3 entities near to cluster27>>
+ふれあい, ショー, カレー
+top3 entities near to cluster28>>
+アップ, プラス, ＵＰ
+top3 entities near to cluster29>>
+レストラン, バイキング, クーポン
+top3 entities near to cluster30>>
+赤ちゃん, カンガルー, モルモット
+top3 entities near to cluster31>>
+スタッフ, イベント, キャスト
+top3 entities near to cluster33>>
+キャー, キャーー, キャーーーー
+top3 entities near to cluster34>>
+自家用車, マイカー, 乗り物
+top3 entities near to cluster35>>
+エリア, アーバンエリア, パーキング
+top3 entities near to cluster36>>
+コース, モデル, アスリートコース
+top3 entities near to cluster37>>
+ガイド, ガイドブック, ラジオ
+top3 entities near to cluster39>>
+ランド, サファリ, パーク
+top3 entities near to cluster40>>
+パーク, サファリ, バスライド
+top3 entities near to cluster41>>
+サファリ, ゾーン, ナイト
+top3 entities near to cluster42>>
+カー, キャンピング, サファリ
+top3 entities near to cluster45>>
+ワンコ, 飼い犬
+top3 entities near to cluster46>>
+子ども, 子供, こども
+top3 entities near to cluster47>>
+子供, 子ども, 親達
+top3 entities near to cluster48>>
+トラ, クマ, 熊
+top3 entities near to cluster49>>
+動物, 動物園, 植物園, 植物
+top3 entities near to cluster50>>
+エサ, 餌, えさ
+top3 entities near to cluster51>>
+入場料, 入園料, 入場, 入園
+top3 entities near to cluster52>>
+バス, 周遊, 遊覧
+top3 entities near to cluster53>>
+専用, バス用, バス
+top3 entities near to cluster54>>
+バス, タクシー, マイクロバス
+top3 entities near to cluster55>>
+バス, タクシー, 乗り場
+top3 entities near to cluster56>>
+送迎, バス, タクシー
+top3 entities near to cluster57>>
+公園, 遊園, 園内

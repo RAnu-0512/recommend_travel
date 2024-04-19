@@ -1,0 +1,9 @@
+--------------------similar_words:BEAMS--------------------
+top3 entities near to cluster0>>
+店員, 店舗
+top3 entities near to cluster1>>
+品性, センス, ファッション
+top3 entities near to cluster2>>
+清潔感, 清潔
+top3 entities near to cluster3>>
+彩花, 浪治, 三吉

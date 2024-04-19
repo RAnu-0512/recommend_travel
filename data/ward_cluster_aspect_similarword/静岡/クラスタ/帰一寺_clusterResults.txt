@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:帰一寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+名刹, 名僧
+cluster1:(2)
+臨済宗, 寺
+cluster2:(1)
+本堂
+cluster3:(1)
+出身
+cluster4:(1)
+苔
+cluster5:(1)
+建長寺派
+cluster6:(1)
+帰一寺
+cluster7:(1)
+一山国師
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

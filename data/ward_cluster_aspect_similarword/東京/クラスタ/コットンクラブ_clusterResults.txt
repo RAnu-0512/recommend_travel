@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コットンクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+演奏, 音楽
+cluster1:(2)
+食事, 料理
+cluster2:(6)
+店, 洋服, 客, 服, 店員, 店内
+cluster3:(1)
+布巾
+cluster4:(1)
+東京駅
+cluster5:(3)
+グラス, 酒, ワイングラス
+cluster6:(3)
+ライブ, ライブレストラン, ジャズ
+cluster7:(4)
+思い出, 雰囲気, お祝い, お洒落
+cluster8:(2)
+タオル, バッグ
+cluster9:(8)
+テーブル, スタッフ, ドライヤー, ステージ, アクセス, スマートフォン, ファン, アーティスト
+cluster10:(1)
+フロアチーフ
+cluster11:(9)
+裏, 場, 彼, 会場, 前, 時間, 星, 勢い, 目
+cluster12:(2)
+大人, 納得
+cluster13:(5)
+扱い, 方, 対応, こと, もの
+cluster14:(1)
+予約
+cluster15:(3)
+距離, 態度, 声
+cluster16:(1)
+替え
+cluster17:(5)
+誕生日, 誕生日プレゼント, 席, 自由席, ソファ席
+
+howmany entities : 59
+howmany clusters : 18
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 18
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:電車型バス「いちすけ号」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+電車型バスいちすけ号, 電車型バス いちすけ号
+cluster1:(4)
+JR岩国駅, 岩国駅, 岩国市, 藤岡市
+cluster2:(11)
+出身, 日本, 観光地, 電車, 助博士, 偉業, バス, こと, 観光, 路面電車, 錦帯橋
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

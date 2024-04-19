@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御前山(東京都檜原村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+避難小屋, 駐車場
+cluster1:(11)
+途中, 場所, 建物, 隣, 近く, 場合, 目標, し車, 椅子, 中, こと
+cluster2:(6)
+季節, 紅葉, 黄色, 秋, 時期, 赤
+cluster3:(2)
+東京, 都
+cluster4:(13)
+富士山, カタクリ, オススメ, 山登り, 紅葉狩り, 気持ち, 色とりどり, 湧き水, トイレ, ベンチ, コース, ハイキング, ビュースポット
+cluster5:(4)
+御前山, 奥多摩湖, 御岳山, 奥多摩
+cluster6:(1)
+山
+cluster7:(1)
+自然
+cluster8:(8)
+景色, ハイキング気分, 気分, 山頂, 山々, 登山道, 登山, 眺望
+cluster9:(1)
+惣岳山
+
+howmany entities : 49
+howmany clusters : 10
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 10
+deleted 0entities.

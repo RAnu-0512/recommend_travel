@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宗隣寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+四季それぞれ, 庭, 庭園
+cluster1:(2)
+観音, 本堂
+cluster2:(3)
+見所, 手, 裏
+cluster3:(1)
+札所
+cluster4:(1)
+龍心庭
+cluster5:(1)
+中国観音霊場
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

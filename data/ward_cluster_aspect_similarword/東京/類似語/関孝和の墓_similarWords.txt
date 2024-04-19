@@ -1,0 +1,15 @@
+--------------------similar_words:関孝和の墓--------------------
+top3 entities near to cluster0>>
+数学, 和算, 微積分
+top3 entities near to cluster2>>
+寺墓, 史跡, 寺
+top3 entities near to cluster3>>
+見学, 案内, 視察
+top3 entities near to cluster5>>
+数式, 変数
+top3 entities near to cluster6>>
+住宅街, 住宅, 商店街, 商店
+top3 entities near to cluster7>>
+和令, 遷界令, 和, 遷界
+top3 entities near to cluster8>>
+柳, 町, 惟浩

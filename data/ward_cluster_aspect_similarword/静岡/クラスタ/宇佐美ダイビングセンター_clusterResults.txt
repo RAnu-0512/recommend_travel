@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇佐美ダイビングセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+魚, 魚たち
+cluster1:(2)
+群れ, 大群
+cluster2:(14)
+スタッフ, 今回, スノーケル, 太陽光, カサゴ, ダイビング, ショップ, バス停, メジナ, シュノーケル, 思い出, 宇佐美, スズメダイ, カマス
+cluster3:(2)
+無数, 種類
+cluster4:(3)
+水, 海, 水面
+cluster5:(4)
+付近, 徒歩, 近く, 対岸
+cluster6:(5)
+JR宇佐美, 伊東駅, JR, 路線バス, 宇佐美港
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 6entities.

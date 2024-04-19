@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:歴史の見える丘公園遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+海軍工廠, 鎮守府, 戦艦大和, 民間造船会社
+cluster1:(2)
+丘公園, 丘公園遊歩道
+cluster2:(2)
+高台, 丘
+cluster3:(2)
+町, 公園
+cluster4:(4)
+山頂, 眼下, 市街, 景色
+cluster5:(19)
+御手洗, ドック, 歴史, 保有, 家, 思い, 瀬戸内海, 町並み, 海道, コンテナ船, 時代, 目, 市街地, 海軍, 前, 呉, 港, 場所, 大和
+cluster6:(2)
+広島県, すずさん
+cluster7:(1)
+展望台
+cluster8:(1)
+しまなみ海道
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Ciro工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+感謝, 両親
+cluster1:(2)
+体験, 感覚
+cluster2:(3)
+初めて, コーヒー, 作品
+cluster3:(3)
+形, もの, 物
+cluster4:(1)
+時間
+cluster5:(2)
+帰途, 土
+cluster6:(1)
+機嫌
+cluster7:(1)
+足手まとい
+cluster8:(1)
+電動ろくろ体験
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 10entities.

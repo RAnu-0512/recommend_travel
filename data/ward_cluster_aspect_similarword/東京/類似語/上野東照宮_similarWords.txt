@@ -1,0 +1,49 @@
+--------------------similar_words:上野東照宮--------------------
+top3 entities near to cluster0>>
+照, 龍, 唐
+top3 entities near to cluster1>>
+境内, 本殿, 山門
+top3 entities near to cluster2>>
+桜, 花見, 紅葉
+top3 entities near to cluster3>>
+季節, 冬, 春
+top3 entities near to cluster4>>
+祭り, 牡丹, まつり
+top3 entities near to cluster5>>
+季節, 時季, 四季
+top3 entities near to cluster6>>
+神祭, 神事, ガチャイベント
+top3 entities near to cluster7>>
+守り, かけ
+top3 entities near to cluster8>>
+威厳, 風格, 風情
+top3 entities near to cluster10>>
+開催, 催す, 実施
+top3 entities near to cluster11>>
+焼失, 建立, 全焼
+top3 entities near to cluster12>>
+訪問, 挨拶, 見学
+top3 entities near to cluster14>>
+二次, 大戦, 二
+top3 entities near to cluster15>>
+家康, 慶喜, 家光
+top3 entities near to cluster16>>
+工事, 補修, 修繕
+top3 entities near to cluster17>>
+たん, のぼる, たんと
+top3 entities near to cluster18>>
+たん, のぼる, たんと
+top3 entities near to cluster19>>
+外国人, 外国, 大勢
+top3 entities near to cluster20>>
+灯篭, 灯ろう
+top3 entities near to cluster21>>
+参拝, 参詣, お参り
+top3 entities near to cluster23>>
+拝観料, 拝観, 入館料, 入館
+top3 entities near to cluster24>>
+参道, 境内, 本殿
+top3 entities near to cluster25>>
+本殿, 拝殿, 社殿
+top3 entities near to cluster27>>
+公園, 園内

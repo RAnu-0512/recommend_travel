@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベアーテール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+指輪, ペアリング
+cluster1:(21)
+車, 作り方, 決定, 帰り, 別々, ペンダント, アクセサリー, 家, 物, クチコミ, 体験, 機会, 次, 旅行, 次回, 中, アクセサリー作り, デザイン, 旦那, 他, 方
+cluster2:(1)
+日記念
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 1
+deleted 3entities.

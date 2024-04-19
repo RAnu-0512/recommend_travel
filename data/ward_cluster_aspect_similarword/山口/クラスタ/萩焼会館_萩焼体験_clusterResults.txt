@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩焼会館_萩焼体験>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+萩焼, 萩焼会館, 萩焼体験
+cluster1:(8)
+前, 焼き物, ろくろ, 店, 色, 説明, 土, 先生
+cluster2:(2)
+予約, 体験予約
+cluster3:(3)
+体験時間, 体験, 焼き物体験
+cluster4:(1)
+送料込み
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

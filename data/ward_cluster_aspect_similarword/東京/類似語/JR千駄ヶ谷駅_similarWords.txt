@@ -1,0 +1,15 @@
+--------------------similar_words:JR千駄ヶ谷駅--------------------
+top3 entities near to cluster0>>
+昔, 大昔, 以前
+top3 entities near to cluster1>>
+仕事, シゴト, 業務
+top3 entities near to cluster2>>
+駅, 駅前, 構内
+top3 entities near to cluster3>>
+球場, スタジアム, 外野席
+top3 entities near to cluster4>>
+明治, 大正, 神宮球場
+top3 entities near to cluster5>>
+野球, プロ, 選手
+top3 entities near to cluster6>>
+競技場, 競技, 国立

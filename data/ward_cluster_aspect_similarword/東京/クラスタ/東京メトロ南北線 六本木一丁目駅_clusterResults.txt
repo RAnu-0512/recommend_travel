@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線 六本木一丁目駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+六本木駅, 開通, 駅, 改札, 出口
+cluster1:(7)
+陸, 場所, サラリーマン, 感じ, 中, 六本木, 南北線
+cluster2:(2)
+段差, 谷間
+cluster3:(1)
+東京メトロ
+cluster4:(5)
+ビル群, 六本木一丁目駅, ビル, 商業施設, 駅ビル
+cluster5:(1)
+乗降客数
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

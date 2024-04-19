@@ -1,0 +1,39 @@
+--------------------similar_words:椿山荘 庭園--------------------
+top3 entities near to cluster0>>
+ホテル, ランチ, カフェ
+top3 entities near to cluster1>>
+タイム, コース, ライト
+top3 entities near to cluster2>>
+おすすめ, オススメ, 見どころ
+top3 entities near to cluster3>>
+サービス, スタッフ, イベント
+top3 entities near to cluster4>>
+ラウンジ, オアシス, ウェルカムラウンジ
+top3 entities near to cluster5>>
+ライトアップ, デートスポット, イルミネーション
+top3 entities near to cluster6>>
+チェックアウト, フォーシーズンホテル, フォーシーズンズホテル
+top3 entities near to cluster7>>
+レストラン, ウエイトレス, ウェイトレス
+top3 entities near to cluster9>>
+アイスティ, アップダウン, アイスティー
+top3 entities near to cluster10>>
+タクシー, マイクロバス, タクシ
+top3 entities near to cluster11>>
+ドリンク, 飲み物, ソフトドリンク
+top3 entities near to cluster12>>
+手入れ, メンテナンス, ブラッシング
+top3 entities near to cluster13>>
+文化財, 天然記念物, 史跡
+top3 entities near to cluster14>>
+雰囲気, 静けさ, 風情
+top3 entities near to cluster15>>
+ティー, アフタヌーン, ハーブ
+top3 entities near to cluster18>>
+庭, 庭園, 中庭
+top3 entities near to cluster19>>
+有朋, 山縣, 閣
+top3 entities near to cluster20>>
+都会, 界隈, 目白
+top3 entities near to cluster21>>
+庭園, 中庭, 園内

@@ -1,0 +1,9 @@
+--------------------similar_words:熊谷守一美術館--------------------
+top3 entities near to cluster1>>
+抽象画, 具象画, 抽象, 具象
+top3 entities near to cluster2>>
+絵画, 油絵, 墨絵
+top3 entities near to cluster3>>
+建物, 空間, カフェ
+top3 entities near to cluster5>>
+守, 館, 記念

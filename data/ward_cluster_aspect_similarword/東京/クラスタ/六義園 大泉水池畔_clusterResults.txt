@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六義園 大泉水池畔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+光景, 風景, 景観
+cluster1:(2)
+島, 池
+cluster2:(6)
+六義園, 真正面, 中核, 右, 中心, 中央
+cluster3:(3)
+駒込駅, 木門, しだれ桜
+cluster4:(2)
+人工池, 大泉水
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

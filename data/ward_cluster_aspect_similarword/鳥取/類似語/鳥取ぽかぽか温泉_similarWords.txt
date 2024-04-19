@@ -1,0 +1,13 @@
+--------------------similar_words:鳥取ぽかぽか温泉--------------------
+top3 entities near to cluster0>>
+共用, 大型
+top3 entities near to cluster1>>
+サウナ, 風呂, 塩
+top3 entities near to cluster2>>
+普通, 大抵, だけ
+top3 entities near to cluster3>>
+時間, 所要
+top3 entities near to cluster4>>
+設備, 施設, 機器
+top3 entities near to cluster5>>
+温泉, 浴場, 露天風呂

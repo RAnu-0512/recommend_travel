@@ -1,0 +1,11 @@
+--------------------similar_words:近藤重蔵墓--------------------
+top3 entities near to cluster0>>
+蓮光寺, 本要寺, 日蓮宗
+top3 entities near to cluster2>>
+人生, 生き方, 生涯
+top3 entities near to cluster3>>
+墓地, 墓標
+top3 entities near to cluster4>>
+寺号, 寺, 寶勝
+top3 entities near to cluster6>>
+歩行

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ガラススタジオ ブリエ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雫型, ハート型
+cluster1:(5)
+角度, 温度, 色ガラス, ガラス板, 色
+cluster2:(2)
+機械, 球体
+cluster3:(3)
+光, 赤, 炎
+cluster4:(1)
+ふち
+cluster5:(1)
+とんぼ玉
+cluster6:(19)
+上がり, ガラス, リングづくり, チェーン, バーナー, 箸置き, アクセ, 作り方, 仕上がり, やり方, ブリエ, ところ, 楽しみ, ビーズ, ガラススタジオ, ガラスリング, サンプル, リング, ウエーブ
+cluster7:(7)
+感じ, 見本, 興味, サイズ違い, 模様, モノづくり, 物
+cluster8:(11)
+作品, 店, 娘, 人, 他, お子, 手, 母, 時間, 先生, 講師
+cluster9:(3)
+手軽体験, 体験, 当て具合
+cluster10:(1)
+肉球
+cluster11:(1)
+無色透明
+cluster12:(1)
+UVレジン
+
+howmany entities : 57
+howmany clusters : 13
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 13
+deleted 0entities.

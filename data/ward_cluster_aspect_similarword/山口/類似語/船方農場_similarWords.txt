@@ -1,0 +1,13 @@
+--------------------similar_words:船方農場--------------------
+top3 entities near to cluster0>>
+農場, 牧場, 農園
+top3 entities near to cluster1>>
+見学, 体験, 予約
+top3 entities near to cluster2>>
+子供, 子ども, ウサギ
+top3 entities near to cluster3>>
+動物, 自然, 動植物
+top3 entities near to cluster6>>
+乳, しぼり, 搾り
+top3 entities near to cluster8>>
+搾り, 乳, 体験

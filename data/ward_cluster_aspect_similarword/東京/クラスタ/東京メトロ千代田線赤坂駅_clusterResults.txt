@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線赤坂駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+国会議事堂, 綺麗さ, 場所, 駅出入り口, 多く, 最寄り駅, 利用者, 他, 気, ギャップ, 街, 千代田線, 駅, 学生時代, にぎわい, 買い物, 地下, 飲食店, 永田町, 周辺, 駅構内
+cluster1:(6)
+東京都, 赤坂, 赤坂サカス, 赤坂見附駅, 赤坂駅, 東京メトロ
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 2
+deleted 0entities.

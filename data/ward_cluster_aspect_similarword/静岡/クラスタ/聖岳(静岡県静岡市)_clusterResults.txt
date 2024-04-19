@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:聖岳(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+葵区, 静岡市
+cluster1:(8)
+パノラマ, 山頂, 南アルプス, 疲れ, 赤石岳, 山々, 登山, 山
+cluster2:(1)
+日本百名山
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 3entities.

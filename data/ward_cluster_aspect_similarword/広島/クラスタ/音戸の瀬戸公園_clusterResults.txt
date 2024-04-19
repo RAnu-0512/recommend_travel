@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:音戸の瀬戸公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+音戸, 音戸大橋, コンビネーション音戸大橋
+cluster1:(4)
+駐車場, 砲台跡, 展望台, 名勝地
+cluster2:(5)
+瀬戸, アーチ橋, 瀬戸公園, 瀬戸内橋, 四国
+cluster3:(6)
+眺め, 天気, ブリッジ天気, 夕日, 景色, 景観
+cluster4:(14)
+必見, つつじ, 平清盛, スポット, 瀬戸内海, 辺り, 見晴らし, シーズン, 人, ツツジ, 多く, 気持ち, 場所, バック
+cluster5:(3)
+塔, 伝説, 里
+cluster6:(3)
+園内, 名所, 公園
+cluster7:(9)
+お花, 時期, 季節, 桜, 花, 花見シーズン, 満開, 春, 緑
+
+howmany entities : 47
+howmany clusters : 8
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 8
+deleted 0entities.

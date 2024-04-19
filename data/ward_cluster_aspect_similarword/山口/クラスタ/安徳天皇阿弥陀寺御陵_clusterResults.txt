@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安徳天皇阿弥陀寺御陵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山口県, 下関市
+cluster1:(3)
+天皇, 安徳天皇陵, 御陵
+cluster2:(2)
+壇ノ浦合戦, 合戦
+cluster3:(4)
+中, 横, こと, 場所
+cluster4:(3)
+境内, 壇ノ浦, 安徳天皇
+cluster5:(1)
+阿弥陀寺町
+cluster6:(3)
+尼, 菊, 門
+cluster7:(1)
+参拝者
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

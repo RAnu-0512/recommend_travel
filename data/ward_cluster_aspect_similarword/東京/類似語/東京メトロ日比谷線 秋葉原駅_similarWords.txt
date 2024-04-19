@@ -1,0 +1,9 @@
+--------------------similar_words:東京メトロ日比谷線 秋葉原駅--------------------
+top3 entities near to cluster0>>
+メトロ, 地下鉄, アキバ
+top3 entities near to cluster2>>
+大正, 平成, 明治
+top3 entities near to cluster3>>
+駅, 発車, 駅前
+top3 entities near to cluster4>>
+電気街, 電気, 繁華街, 繁華

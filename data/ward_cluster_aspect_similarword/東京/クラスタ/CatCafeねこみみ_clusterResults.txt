@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:CatCafeねこみみ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+猫ちゃん, 猫
+cluster1:(1)
+猫カフェ
+cluster2:(2)
+ガチャガチャ, 店員
+cluster3:(1)
+爪
+cluster4:(1)
+おやつ
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

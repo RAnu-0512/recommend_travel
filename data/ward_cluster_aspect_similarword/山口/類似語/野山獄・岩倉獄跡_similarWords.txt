@@ -1,0 +1,15 @@
+--------------------similar_words:野山獄・岩倉獄跡--------------------
+top3 entities near to cluster0>>
+住宅街, 住宅, 囚人
+top3 entities near to cluster1>>
+石碑, 遺構, 跡
+top3 entities near to cluster3>>
+想定外, 予想外, 想定, 予想
+top3 entities near to cluster4>>
+達成感, 達成, やり遂げる
+top3 entities near to cluster6>>
+獄, 堕地, 衍島
+top3 entities near to cluster7>>
+燃, 花, びさきの
+top3 entities near to cluster8>>
+重之, 輔, 輔氏

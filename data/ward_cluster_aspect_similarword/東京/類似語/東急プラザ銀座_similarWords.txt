@@ -1,0 +1,53 @@
+--------------------similar_words:東急プラザ銀座--------------------
+top3 entities near to cluster0>>
+ショップ, ブランド, 売り場
+top3 entities near to cluster1>>
+ロッテ, 最上階, ガラス
+top3 entities near to cluster2>>
+パンケーキ, スイーツ, ランチ
+top3 entities near to cluster3>>
+温かみ, 雰囲気, 暖かみ
+top3 entities near to cluster4>>
+ホテル, ゾーン, プール
+top3 entities near to cluster5>>
+テーマ, ジャンル, メイン
+top3 entities near to cluster6>>
+デザイン, イメージ, コンセプト
+top3 entities near to cluster8>>
+おすすめ, オススメ, こだわり
+top3 entities near to cluster9>>
+レストラン, デパート, カフェ
+top3 entities near to cluster10>>
+トイレ, 便所, レストルーム
+top3 entities near to cluster11>>
+フロア, 各階, ダイニング
+top3 entities near to cluster12>>
+専用, 共用
+top3 entities near to cluster13>>
+キリコ, テラス, ラウンジ
+top3 entities near to cluster14>>
+カフェ, 喫茶店, レストラン
+top3 entities near to cluster15>>
+テラス, カフェ, オープン
+top3 entities near to cluster16>>
+サイド, ハンド, ウォーター
+top3 entities near to cluster17>>
+開放感, 高揚感, 開放, 高揚
+top3 entities near to cluster19>>
+生態系, 暖色系, 生態, 暖色
+top3 entities near to cluster20>>
+外国人, 人達, 外国
+top3 entities near to cluster22>>
+裏手, 地下, 交差点
+top3 entities near to cluster23>>
+中心部, 中心, 主軸
+top3 entities near to cluster24>>
+雑貨, 文具, 食器
+top3 entities near to cluster25>>
+開店, 出店
+top3 entities near to cluster26>>
+お菓子, 菓子, 料理
+top3 entities near to cluster27>>
+建物, 中庭, 施設
+top3 entities near to cluster31>>
+飲食店, 飲食

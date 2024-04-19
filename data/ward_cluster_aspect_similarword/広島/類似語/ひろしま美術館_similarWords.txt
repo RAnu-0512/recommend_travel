@@ -1,0 +1,41 @@
+--------------------similar_words:ひろしま美術館--------------------
+top3 entities near to cluster0>>
+展示, 展覧
+top3 entities near to cluster1>>
+絵画, 美術館, 美術
+top3 entities near to cluster2>>
+円筒, 円形, ドーム
+top3 entities near to cluster4>>
+見応え, 雰囲気, 見ごたえ
+top3 entities near to cluster5>>
+カフェ, ホテル, レストラン
+top3 entities near to cluster6>>
+交差点, 入り口, 入口
+top3 entities near to cluster7>>
+ショップ, デザイン, イベント
+top3 entities near to cluster8>>
+アニメ, テーマ, エンディング
+top3 entities near to cluster9>>
+ピカソ, シャガール, セザンヌ
+top3 entities near to cluster10>>
+フジタ, 柏, ＦＯＵＪＩＴＡ
+top3 entities near to cluster13>>
+案内, 体験, 見学
+top3 entities near to cluster14>>
+音声, 補助, ガイド
+top3 entities near to cluster15>>
+マン, アンパ, ヤッター
+top3 entities near to cluster16>>
+名所, 周遊, バス
+top3 entities near to cluster17>>
+入場券, 入場料, 入場
+top3 entities near to cluster18>>
+利便性, 利便
+top3 entities near to cluster19>>
+土産, おみやげ, 土産物
+top3 entities near to cluster20>>
+中心部, 中心, 風景
+top3 entities near to cluster21>>
+家族, 同士
+top3 entities near to cluster22>>
+駐車, 警備, 電車

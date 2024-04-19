@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東林寺(静岡県伊東市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+河津三郎, 葛見神社, 伊東祐親, 伊東温泉七福神, 伊東家, 祐泰
+cluster1:(22)
+相撲塚, 東林寺, 本尊, 延命地蔵菩薩, 相撲碑, 脇, 車道, 台地, 坂, 山道, 参り, 本堂, 南, 墓, 布袋, 合掌一礼, 高台, 参道, 菩提寺, 到着, 五輪塔, 寺
+
+howmany entities : 28
+howmany clusters : 2
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 2
+deleted 0entities.

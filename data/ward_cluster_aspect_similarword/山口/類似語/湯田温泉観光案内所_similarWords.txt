@@ -1,0 +1,17 @@
+--------------------similar_words:湯田温泉観光案内所--------------------
+top3 entities near to cluster0>>
+歩き, 町, あるき
+top3 entities near to cluster1>>
+狐, キツネ
+top3 entities near to cluster2>>
+キャラ, メイン, マップ
+top3 entities near to cluster3>>
+歴史, 地図, 館
+top3 entities near to cluster5>>
+中心部, 中心, 主軸
+top3 entities near to cluster6>>
+温泉街, 駅街, 温泉, 駅
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster8>>
+案内, 名所, ガイド

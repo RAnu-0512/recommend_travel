@@ -1,0 +1,37 @@
+--------------------similar_words:石船温泉--------------------
+top3 entities near to cluster0>>
+温泉, 静か, 温泉郷
+top3 entities near to cluster1>>
+温泉, 石船, 温泉郷
+top3 entities near to cluster2>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster3>>
+温泉, 赤湯, 湯
+top3 entities near to cluster5>>
+避暑地, 避暑, 別荘地, 別荘
+top3 entities near to cluster6>>
+会席, 料理, 懐石
+top3 entities near to cluster7>>
+こだわり, オススメ, おすすめ
+top3 entities near to cluster8>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster9>>
+露天風呂, 温泉, 内風呂
+top3 entities near to cluster10>>
+ツルツル, すべすべ, スベスベ
+top3 entities near to cluster11>>
+気分, 状態
+top3 entities near to cluster12>>
+気温, 夏場, 屋外
+top3 entities near to cluster13>>
+田舎, 地元, 山間
+top3 entities near to cluster14>>
+時代, 友人
+top3 entities near to cluster15>>
+身体, 自然, 清流
+top3 entities near to cluster16>>
+料理店, 料理, 食事
+top3 entities near to cluster17>>
+流し, かけ
+top3 entities near to cluster19>>
+湯, 風呂, 温泉

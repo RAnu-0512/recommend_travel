@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ウォーターパーク(つま恋リゾート彩の郷内)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+プール, ウォータースライダー
+cluster1:(2)
+チケット, 乗り換え
+cluster2:(6)
+キッズプール, スタッフ, ロッカー, テーブル, スペース, スライダー
+cluster3:(1)
+シート
+cluster4:(1)
+バス停
+cluster5:(3)
+人, 子供, 方
+cluster6:(5)
+車, 財布, 荷物, バス, 鍵
+cluster7:(2)
+日陰, 陰
+cluster8:(3)
+所, 箇所, 場所
+cluster9:(2)
+対応, 到着
+cluster10:(2)
+休憩, 時間
+cluster11:(1)
+効率
+cluster12:(7)
+通路, 売店, 横, 入口, 禁止, 列, 入場
+cluster13:(9)
+駐車場, 園内バス, 更衣室, 空気入れ, ロッカーはー縦, 浮輪, 貴重品, 乗車時間, 遊泳プール
+
+howmany entities : 46
+howmany clusters : 14
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 6
+deleted 13entities.

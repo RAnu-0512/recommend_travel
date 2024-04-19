@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芝公園の梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+芝公園駅, 芝東照宮, 港区芝公園, 増上寺〜芝公園, 芝丸山古墳
+cluster1:(9)
+梅まつり, 花, 紅梅, 梅たち, 白梅, 梅林, ウメ, 梅, 桜
+cluster2:(11)
+初春, 芝公園, 増上寺, 実, 日本, 銀世界, 広, 明治, 新宿, 東京タワー, じっくり芝公園
+cluster3:(3)
+季節, 時期, 梅雨
+cluster4:(4)
+気, 感じ, 説明, もの
+cluster5:(2)
+光景, 眺め
+cluster6:(9)
+場所, 自然, 公園, 一部, 散歩, 看板, 写真, 周辺, 階段
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 7
+deleted 0entities.

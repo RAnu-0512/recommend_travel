@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神庭神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+写真, 雰囲気, 上下線, 神社, 五行上人, 作品, 木喰, 杉林, 倉吉市街, 顔立ち
+cluster1:(3)
+木造稲荷像, 神庭神社, 勝宿禰神社
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

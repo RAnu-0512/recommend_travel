@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:紅葉山庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駿府城公園, 駿府城内
+cluster1:(2)
+入園料, 入場料
+cluster2:(16)
+駿府公園, 手入れ, おすすめ, もの, 国, 人, 時間, 富士山, 駿河湾, 次, 立地, 中, アドバイス, スポット, 中心, ホタル
+cluster3:(2)
+海, 山
+cluster4:(2)
+庭, 花
+cluster5:(1)
+洲浜
+cluster6:(1)
+池
+cluster7:(1)
+ボー
+cluster8:(1)
+櫓
+cluster9:(1)
+山河
+cluster10:(1)
+築山
+cluster11:(14)
+紅葉, 茶, 園内, 見学, 空間, 菓子, 抹茶, 庭師, 景色, 城内, 散歩, 風景, 名勝, 茶室
+cluster12:(7)
+美しさ, 庭園, 礼席, 紅葉山庭園, 共通券, 休憩所, 庭園内
+cluster13:(10)
+静岡県, 静岡, 山里の庭, 三保, 山の庭, 冨士山, 四季折々, 松原, 白洲, 駿河
+
+howmany entities : 61
+howmany clusters : 14
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 4
+deleted 14entities.

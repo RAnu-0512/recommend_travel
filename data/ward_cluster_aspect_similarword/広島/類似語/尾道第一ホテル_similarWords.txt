@@ -1,0 +1,19 @@
+--------------------similar_words:尾道第一ホテル--------------------
+top3 entities near to cluster0>>
+駐車場, 近場, 駐車, 近
+top3 entities near to cluster1>>
+小鉢, 蓮根, サラダ
+top3 entities near to cluster3>>
+ジュース, オレンジ, グレープフルーツ
+top3 entities near to cluster4>>
+メニュー, クーポン, サービス
+top3 entities near to cluster5>>
+ランチ, ホテル, レストラン
+top3 entities near to cluster6>>
+食事, 食後, 夕食
+top3 entities near to cluster7>>
+家族, 子供, 子ども
+top3 entities near to cluster8>>
+料理, 煮込み, 煮物
+top3 entities near to cluster9>>
+席, 座席, 立ち見

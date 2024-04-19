@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:春日局の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+臨済宗寺院の麟祥院, 麟祥院, 国立近現代建築資料館, 天澤山 麟祥院
+cluster1:(31)
+穴, 案内板, 文化庁, カメラ, 法名, 湯島, 左手, 湯島合同庁舎, 墓所, 局, 政治家, 文京区教育センター, 山門, 大学連携事業, 春日局, 墓, 四方, 寺院, 功績, 墓石, 見学, 自宅, 春日局像, 敷地, 無縫塔, 三菱資料館, 境内, 春日局の墓所, 湯島4丁目, 文京区, 乳母
+cluster2:(1)
+鳩山邦夫蝶類コレクション蝶魅惑の昆虫展
+
+howmany entities : 36
+howmany clusters : 3
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 3
+deleted 0entities.

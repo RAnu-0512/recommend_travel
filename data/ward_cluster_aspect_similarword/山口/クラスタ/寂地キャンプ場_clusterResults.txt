@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寂地キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+近く, キャンプ
+cluster1:(1)
+そば
+cluster2:(1)
+自然
+cluster3:(1)
+水
+cluster4:(1)
+滝
+cluster5:(1)
+キャンプ場
+cluster6:(1)
+散策
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

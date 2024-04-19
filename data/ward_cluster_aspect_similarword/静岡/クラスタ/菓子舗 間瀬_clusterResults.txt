@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菓子舗 間瀬>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+網代港, 熱海駅, 伊豆みかんゼリー, 踊子, ラスカ熱海1, 網代店, 伊豆乃踊子, 伊豆逢, 伊豆, 伊豆逢初, 網代, 網代駅
+cluster1:(8)
+売店, 店舗, 前店, 駅, 店内, 本店, 店, 老舗
+cluster2:(2)
+経験, 体験
+cluster3:(3)
+案内, 対応, 説明
+cluster4:(1)
+喋り
+cluster5:(1)
+作法
+cluster6:(15)
+イマイチ, ところ, カップル, 本拠地, 茶菓子, イチオシ, システム, デパート, 和菓子, イメージ, サービス, ホテル, ひと目, 茶道具, 雰囲気
+cluster7:(5)
+母, 方, 今回, 友達, 女性
+cluster8:(4)
+空間, 種類, 時間, 名前
+cluster9:(1)
+全面
+cluster10:(1)
+たて方
+cluster11:(14)
+茶, 着物, 旅行, 饅頭, 土産, 品, みかんゼリー, 抹茶, ゼリー, 間瀬, 吉祥, 味 しっとり, 味, 茶室
+cluster12:(4)
+茶道, 茶道体験, 駐車場, 桜ごよみ
+cluster13:(3)
+土産屋, 老舗和菓子屋, 和菓子屋
+cluster14:(2)
+代表銘菓, 銘菓
+cluster15:(2)
+季節菓子, 菓子
+cluster16:(1)
+菓子舗 間瀬
+cluster17:(1)
+抹茶飲み放題
+
+howmany entities : 80
+howmany clusters : 18
+howmany entities (more than3entities) : 68
+howmany clusters (more than3entities) : 9
+deleted 12entities.

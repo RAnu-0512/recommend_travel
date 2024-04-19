@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トキワマンサク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+県, 下旬, 徒歩, 指定天然記念物, 木
+cluster1:(21)
+春, リボン, 枝, 専用, 天然記念物, 日本, 木々, 満開, 里, トキワマンサク, 花, 池, 遊歩道, 細, 黄色, 雰囲気, 場所, 散歩, 風景, 風, 色
+cluster2:(1)
+糸状
+cluster3:(2)
+神座川, 辺り一面
+cluster4:(6)
+静岡県天然記念物, 静岡県, 無料駐車場, 湖西市, 三重県, 専用駐車場
+
+howmany entities : 35
+howmany clusters : 5
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 3
+deleted 3entities.

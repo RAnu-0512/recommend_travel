@@ -1,0 +1,35 @@
+--------------------similar_words:東京都水の科学館--------------------
+top3 entities near to cluster0>>
+実験, 展示, 体験
+top3 entities near to cluster1>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster2>>
+印象, よう
+top3 entities near to cluster3>>
+時間, 日数, 時
+top3 entities near to cluster4>>
+予定, 近日, 直前
+top3 entities near to cluster5>>
+機会, チャンス, 好機
+top3 entities near to cluster7>>
+子ども, 子供, 小学生
+top3 entities near to cluster8>>
+おすすめ, オススメ, オススメスポット
+top3 entities near to cluster9>>
+スペース, コーナー, イベント
+top3 entities near to cluster10>>
+入り口, 吹き抜け, 入口
+top3 entities near to cluster11>>
+ゲーム, ネット, シアター
+top3 entities near to cluster12>>
+仕組み, 仕組, しくみ
+top3 entities near to cluster13>>
+クイズ, なぞなぞ, トキハカネナリ
+top3 entities near to cluster14>>
+水道局, 水道, 上下水道
+top3 entities near to cluster15>>
+施設, 映像, 館内
+top3 entities near to cluster16>>
+水道, 駐車, 地下
+top3 entities near to cluster17>>
+入館料, 入場料, 入館, 入場

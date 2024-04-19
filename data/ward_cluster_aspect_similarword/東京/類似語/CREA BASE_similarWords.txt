@@ -1,0 +1,17 @@
+--------------------similar_words:CREA BASE--------------------
+top3 entities near to cluster0>>
+芸術, 陶芸, 工芸
+top3 entities near to cluster2>>
+カフェ, 作り方, カップ
+top3 entities near to cluster3>>
+時間, 休日, 空間
+top3 entities near to cluster4>>
+講師, 先生, 教授
+top3 entities near to cluster6>>
+友達, 彼氏
+top3 entities near to cluster7>>
+完全, 初心者, 無欠
+top3 entities near to cluster8>>
+模様, 用意
+top3 entities near to cluster9>>
+体験, 陶芸, 粘土

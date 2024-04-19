@@ -1,0 +1,53 @@
+--------------------similar_words:味の素スタジアム--------------------
+top3 entities near to cluster0>>
+ヤマハスタジアム, スタジアム, ヴェルディ
+top3 entities near to cluster1>>
+タクシー, ステーキ, パーキング
+top3 entities near to cluster2>>
+チケット, チャージ, ファストチケット
+top3 entities near to cluster3>>
+イベント, スタジオ, コンサート
+top3 entities near to cluster4>>
+チーム, ステージ, 雰囲気
+top3 entities near to cluster5>>
+コンビニ, 自販機, 飲み物
+top3 entities near to cluster6>>
+サッカー, ラグビー, フットサル
+top3 entities near to cluster7>>
+ホーム, ライブ, イベント
+top3 entities near to cluster9>>
+観戦, 試合, 観客
+top3 entities near to cluster10>>
+少ない, すごい, 大きい
+top3 entities near to cluster12>>
+開催, 参加, 開始
+top3 entities near to cluster13>>
+会場, 施設, 入口
+top3 entities near to cluster14>>
+敷地内, 敷地, 全体
+top3 entities near to cluster15>>
+周辺, 周り, まわり
+top3 entities near to cluster17>>
+ゴミ, ごみ, 清掃
+top3 entities near to cluster18>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster19>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster20>>
+催事, 催物, 催し物
+top3 entities near to cluster21>>
+混雑, 熱気, 開演
+top3 entities near to cluster22>>
+野外, 屋内, 屋外
+top3 entities near to cluster23>>
+会場, 周辺, ライブ
+top3 entities near to cluster24>>
+休憩, 時間, 昼休み
+top3 entities near to cluster26>>
+駅, 駅前, 南口
+top3 entities near to cluster27>>
+バス, 路線, タクシー
+top3 entities near to cluster28>>
+臨時, 停車, 急行
+top3 entities near to cluster29>>
+特急, 準

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧内務省下関土木出張所乾船渠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+場所, 明治, 色塗り, 親父, ドック, 内務省, 間, 関門海峡, 体操
+cluster1:(2)
+唐戸市場, 姉妹都市広場
+cluster2:(1)
+唐戸市場関係者用駐車場
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

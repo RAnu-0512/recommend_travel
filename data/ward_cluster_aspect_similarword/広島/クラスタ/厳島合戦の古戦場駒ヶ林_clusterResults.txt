@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:厳島合戦の古戦場駒ヶ林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+昼食, 弁当
+cluster1:(7)
+山, 古戦場, 仁王門, ビューポイント, 途中, 大元コース, 岩
+cluster2:(1)
+弥山
+cluster3:(2)
+山頂展望台, 駒ヶ林
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

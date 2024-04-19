@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大瀬崎のビャクシン樹林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+幹, 林, 脇, 右側, 奥, 池, 木
+cluster1:(4)
+灯台, 民宿, 海岸, 海
+cluster2:(7)
+姿, こと, 看板, にゃんこ, 形, 場所, ほう
+cluster3:(7)
+パワースポット, パワー, ビャクシン, 歴史, 大瀬崎, 自然, 先端
+cluster4:(1)
+周遊コース
+cluster5:(1)
+瀬崎
+cluster6:(1)
+海岸沿い
+cluster7:(1)
+生命力
+cluster8:(4)
+ご神木, 大瀬神社, 神木, にゃーん
+
+howmany entities : 33
+howmany clusters : 9
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 5
+deleted 4entities.

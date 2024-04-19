@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米子市児童文化センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+まわり, プラネタリウム, 図書館, おもちゃ
+cluster1:(2)
+施設, 建物
+cluster2:(3)
+物, 場所, 形
+cluster3:(1)
+昆虫
+cluster4:(1)
+徒歩
+cluster5:(1)
+子供たち
+cluster6:(1)
+卓球場
+cluster7:(1)
+JR米子駅
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

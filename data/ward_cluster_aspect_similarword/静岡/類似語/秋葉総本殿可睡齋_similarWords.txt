@@ -1,0 +1,29 @@
+--------------------similar_words:秋葉総本殿可睡齋--------------------
+top3 entities near to cluster0>>
+案内, 開催, イベント
+top3 entities near to cluster2>>
+全国, 非, 国内
+top3 entities near to cluster4>>
+同士, 対等, 会話
+top3 entities near to cluster7>>
+雛, ひな, 風鈴
+top3 entities near to cluster8>>
+ゆり, 苑, 牡丹
+top3 entities near to cluster11>>
+建築, 造園, 料理
+top3 entities near to cluster12>>
+本堂, 本殿, 境内
+top3 entities near to cluster15>>
+寺院, 仏閣, 寺社
+top3 entities near to cluster17>>
+緑風, 花風, 緑, 花
+top3 entities near to cluster22>>
+寺, 和尚, 本尊
+top3 entities near to cluster23>>
+建物, 中庭, 写真
+top3 entities near to cluster24>>
+花火, 穴場, 祭り
+top3 entities near to cluster26>>
+電車, バス, 乗客
+top3 entities near to cluster29>>
+家康, 五, 斎

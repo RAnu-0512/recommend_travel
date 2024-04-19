@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北野神社(牛天神)の紅梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+梅, 紅梅, 紅梅まつり
+cluster1:(6)
+野点, 他, 境内, ふるまい, 式典, 甘酒
+cluster2:(1)
+北野神社
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

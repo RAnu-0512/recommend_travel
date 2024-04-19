@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田松陰東送の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+竹籠, 唐丸籠
+cluster1:(3)
+碑, 罪人, 萩
+cluster2:(1)
+吉田松陰東送
+cluster3:(1)
+東送された日本の武士・思想家
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

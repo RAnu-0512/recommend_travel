@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:惣郷川橋梁>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+通過時間, 日没時間
+cluster1:(11)
+鉄道, 列車, カメラ, カット, 車, 先客, 惣郷川, 夕陽, 場所, 三脚, 撮影
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,31 @@
+--------------------similar_words:成蹊学園のケヤキ並木--------------------
+top3 entities near to cluster0>>
+並木, 正門, ケヤキ
+top3 entities near to cluster1>>
+駅, 徒歩, 駅前
+top3 entities near to cluster2>>
+本館, 新館
+top3 entities near to cluster3>>
+周り, まわり, 周囲
+top3 entities near to cluster4>>
+間, 昔, 以前
+top3 entities near to cluster5>>
+くらい, ぐらい
+top3 entities near to cluster6>>
+学生, 大学, 大学生
+top3 entities near to cluster7>>
+成蹊学園, 成蹊大学, 成蹊中学校
+top3 entities near to cluster8>>
+気持ち, 気持, 木漏れ日
+top3 entities near to cluster9>>
+ドラマ, 大学生, 高校生
+top3 entities near to cluster10>>
+撮影, 撮る, 撮っ
+top3 entities near to cluster12>>
+並木道, 季節, 木々
+top3 entities near to cluster13>>
+遊園地, 名所, 遊園
+top3 entities near to cluster14>>
+私立, 名門, 進学校
+top3 entities near to cluster15>>
+対称, 非対称, 上下

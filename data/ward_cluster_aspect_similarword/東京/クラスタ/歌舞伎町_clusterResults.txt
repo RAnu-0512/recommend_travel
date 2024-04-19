@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:歌舞伎町>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歓楽街, 客寄せ, 客引き
+cluster1:(3)
+歌舞伎, 伊勢丹, ゴジラ
+cluster2:(2)
+コロナ, シート
+cluster3:(12)
+歌舞伎町, イベント, 昼休み, 雰囲気, 日本一, キャッチ, カメラ, 新大久保, シャメ, プライベート, 兄さん, イメージ
+cluster4:(5)
+仕様, 公開, 映画, TOHOシネマズ, 映画館
+cluster5:(2)
+言葉, 感想
+cluster6:(3)
+気, 影響, 話題
+cluster7:(11)
+前, 多数, 昼間, 近隣, 息子, 昔, イケメン., ほう, 人, 上, 日本
+cluster8:(1)
+短期
+cluster9:(18)
+町歌舞伎町, 閑散, 店, 外国人, 傘, 飲食店, 町, 屋上, 人出, ブラブラするものコロナ, 道, 治安, 裏辺り, 所, 場所, 街, 跡地, 広場
+cluster10:(4)
+高級感, 座席, 座席指定, 座り心地
+cluster11:(2)
+観光客, 外国人観光客
+cluster12:(2)
+繁華街, 大繁華街歌舞伎町
+cluster13:(2)
+コマ劇場, 劇場アニメ
+cluster14:(2)
+東宝ビル, 東宝シネマズ
+cluster15:(1)
+映画宣伝広告
+cluster16:(4)
+JR新宿駅, 駅方面, 新宿駅, 地下鉄改札外
+cluster17:(5)
+丸の内ピカデリー, 一本東, 新宿歌舞伎町, TOHOシネマズ新宿, 新宿
+
+howmany entities : 82
+howmany clusters : 18
+howmany entities (more than1entities) : 82
+howmany clusters (more than1entities) : 18
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:UNITED ARROWS 渋谷店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+デザイン性, 広告デザイン
+cluster1:(4)
+場所, 手, 物, もの
+cluster2:(2)
+値段, こだわり商品
+cluster3:(2)
+人気, 周辺
+cluster4:(1)
+ゴミ
+cluster5:(8)
+コーディネイト, アイテム, ブランド, アローズ, デザイン, アドバイス, ファッション, 雰囲気
+cluster6:(5)
+セール, セレクトショップ, ファッションショップ, 買い物, バッグ
+cluster7:(1)
+人
+cluster8:(1)
+渋谷
+cluster9:(8)
+店, 洋服, 靴, 服, 雑貨, 店員, 路面店, 店内
+cluster10:(1)
+お洋服屋
+
+howmany entities : 35
+howmany clusters : 11
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,19 @@
+--------------------similar_words:湖山池--------------------
+top3 entities near to cluster0>>
+大きい, 広い, 小さい
+top3 entities near to cluster1>>
+散策, 散歩, 景色
+top3 entities near to cluster2>>
+公園橋, 公園, 陸橋
+top3 entities near to cluster3>>
+桜, 緑, 青
+top3 entities near to cluster4>>
+小道, 路地, 脇道
+top3 entities near to cluster5>>
+野鳥, バードウォッチャー, 鳥
+top3 entities near to cluster6>>
+湖, 湖沼, 南岸
+top3 entities near to cluster8>>
+遊覧, 周遊, 名所
+top3 entities near to cluster9>>
+駐車場, 駐車, 道路

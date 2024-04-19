@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:OASA MOBiLITY STATION ≪O.M.S>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+It's excellent weather with excellent cycling coach who leaded me riding, It's a very good cycling trip and I enjoyed
+cluster1:(3)
+天気, 台風, 小雨
+cluster2:(4)
+案内, 影響, 変更, 想像
+cluster3:(2)
+別コース, 季節
+cluster4:(2)
+時間, 場所
+cluster5:(6)
+自転車, ガイド, ペース, 方, コース, サイクリング
+cluster6:(1)
+山道
+cluster7:(1)
+子ども達
+cluster8:(1)
+電話自転車
+cluster9:(1)
+電動自転車
+
+howmany entities : 23
+howmany clusters : 10
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 10
+deleted 0entities.

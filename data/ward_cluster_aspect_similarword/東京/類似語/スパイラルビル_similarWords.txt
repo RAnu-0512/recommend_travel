@@ -1,0 +1,9 @@
+--------------------similar_words:スパイラルビル--------------------
+top3 entities near to cluster1>>
+ビル, 駅前, 屋上
+top3 entities near to cluster2>>
+雑貨店, 雑貨, 雑貨屋
+top3 entities near to cluster3>>
+ビル, 施設, 会館
+top3 entities near to cluster4>>
+美術, 建築, 絵画

@@ -1,0 +1,39 @@
+--------------------similar_words:外浦海水浴場--------------------
+top3 entities near to cluster0>>
+家族連れ, つれ, 家族
+top3 entities near to cluster3>>
+子, 娘, 家の子
+top3 entities near to cluster7>>
+ビーチ, かき氷, 滑り台
+top3 entities near to cluster8>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster10>>
+ライフセイバー, コンディション, シャワールーム
+top3 entities near to cluster16>>
+シャワー, パラソル, レンタル
+top3 entities near to cluster17>>
+カヤック, 飛び込み, フロート
+top3 entities near to cluster20>>
+トイレ, ゴミ箱, シート
+top3 entities near to cluster23>>
+民宿, 宿, 旅館
+top3 entities near to cluster24>>
+家族, 子供
+top3 entities near to cluster25>>
+海水浴, 夏, シーズン
+top3 entities near to cluster31>>
+金水, ゴミ, 金
+top3 entities near to cluster32>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster33>>
+海岸, 海水浴, 遠浅
+top3 entities near to cluster34>>
+海水, 水質, 真水
+top3 entities near to cluster35>>
+砂浜, 海岸, 砂地
+top3 entities near to cluster36>>
+湾内, 沖
+top3 entities near to cluster37>>
+海, 磯, 海辺
+top3 entities near to cluster39>>
+遊泳, 監視, 更衣

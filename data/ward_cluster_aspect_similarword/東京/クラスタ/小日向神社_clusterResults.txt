@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小日向神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+日向神社, 八幡神社, 歴史, 江戸川橋駅, こと, 小日向, 東京メトロ有楽町線, 氷川神社, 命, 明治, 服部坂, 地
+cluster1:(2)
+建速須佐男, 譽田別皇命
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

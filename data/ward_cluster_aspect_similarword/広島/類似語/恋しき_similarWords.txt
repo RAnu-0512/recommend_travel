@@ -1,0 +1,17 @@
+--------------------similar_words:恋しき--------------------
+top3 entities near to cluster0>>
+庭, 裏庭, 庭先
+top3 entities near to cluster1>>
+憤り, 謝罪, 侮辱
+top3 entities near to cluster2>>
+席, 座席, 客席
+top3 entities near to cluster3>>
+建物, 周り, 周囲
+top3 entities near to cluster4>>
+ご飯, 食事, ごはん
+top3 entities near to cluster5>>
+料理店, 料理, 食材店, 食材
+top3 entities near to cluster6>>
+皿, 小皿, 大皿
+top3 entities near to cluster8>>
+おかず, 逸品, ガッツリメニュー

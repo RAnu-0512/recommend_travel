@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アンビアタクシー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+犬, 犬種
+cluster1:(2)
+事, 方
+cluster2:(2)
+電話対応, 電話
+cluster3:(1)
+運転手
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

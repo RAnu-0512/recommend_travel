@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:墨田区総合体育館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+フットサル観戦, 試合観戦
+cluster1:(2)
+方, 昔
+cluster2:(6)
+プール, 錦糸町, ところ, スペース, イメージ, 体育館
+cluster3:(1)
+都
+cluster4:(3)
+施設, 設備, ジム
+cluster5:(1)
+総合体育館
+cluster6:(3)
+墨田区, 錦糸町駅, 錦糸公園
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 7
+deleted 0entities.

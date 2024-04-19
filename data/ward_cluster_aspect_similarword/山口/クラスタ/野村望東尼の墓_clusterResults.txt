@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野村望東尼の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+勤皇歌人:野村望東尼, 野村望東尼
+cluster1:(11)
+誕生, 日本, 志士, 人物, 断食, 桑山, 桑山公園, 墓, 防府市, 勤皇, 高杉晋作
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

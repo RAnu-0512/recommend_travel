@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 世羅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+地元世羅産, 世羅道, 世羅町, 駅 世羅, 世羅特産, 世羅バーガー, 世羅IC
+cluster1:(2)
+松江, 尾道
+cluster2:(19)
+根拠, トイレ, メニュー, 商品, ところ, 男, 方, 損, イメージ, 思い, 農産物, 感じ, 女, 人, 雰囲気, 言葉, レストラン, サービスエリア, 結婚
+cluster3:(5)
+途中, 左, 種類, 次, 順番
+cluster4:(4)
+そば, 地元, 米, 近く
+cluster5:(1)
+苦情
+cluster6:(12)
+施設, レジ, フードコート, 花, パン, 車, 土産, 品々, 苗, 道, 地名, 駅
+cluster7:(15)
+利便性, 道の駅, 駐車場, トイレ休憩, 地元食材, 特産品, 記念日, 当地グルメ, 高速道路, ドライブ休憩, 責任者, 食材, 購買意欲, 尾道自動車道, 直売所
+
+howmany entities : 65
+howmany clusters : 8
+howmany entities (more than1entities) : 65
+howmany clusters (more than1entities) : 8
+deleted 0entities.

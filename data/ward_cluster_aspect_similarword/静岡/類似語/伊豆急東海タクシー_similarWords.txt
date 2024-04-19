@@ -1,0 +1,9 @@
+--------------------similar_words:伊豆急東海タクシー--------------------
+top3 entities near to cluster0>>
+従業, 社員, 職員
+top3 entities near to cluster1>>
+対応, 運転, 電話
+top3 entities near to cluster4>>
+会社, 駅, 送迎
+top3 entities near to cluster5>>
+決済, 支払い, 送金

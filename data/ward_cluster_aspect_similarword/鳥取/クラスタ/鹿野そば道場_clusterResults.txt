@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿野そば道場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+そば作り, そば粉, そば, そば食, ソバ, そば店, そばそのもの, 蕎麦
+cluster1:(3)
+そば打ち体験, そばうち体験, そば打ち
+cluster2:(1)
+地鶏そば
+cluster3:(19)
+名物, 出汁, 車, 海水浴, つなぎ, 体験, 口, 風味, 味, 波, 城下町, 鹿野, 営業開始時間, 山芋, 迫力, 人, 団体, 本意, 娘
+
+howmany entities : 31
+howmany clusters : 4
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 4
+deleted 0entities.

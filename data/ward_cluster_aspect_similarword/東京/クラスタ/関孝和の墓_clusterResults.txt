@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:関孝和の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+数学者, 数学, 和算, 江戸時代, 数学成績, 和算家, 関先生の墓
+cluster1:(2)
+新宿区, 東京都
+cluster2:(3)
+墓, 寺, 史跡
+cluster3:(2)
+見学, 案内
+cluster4:(3)
+子供, 日本, 北
+cluster5:(3)
+大江戸線, 変数, 数式
+cluster6:(1)
+住宅街
+cluster7:(1)
+令和
+cluster8:(1)
+牛込柳町駅
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

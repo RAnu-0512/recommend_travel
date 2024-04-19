@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光スポーツ公園あじさい苑_あじさい>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+野球, 苑, 公園, 斜面
+cluster1:(2)
+旬, 梅雨
+cluster2:(14)
+我が家, 影響, 紅色, 紫陽花, 色, 青, 壮大, 種類, バラ, 時期, 花, ピンク, アジサイ, あじさい
+cluster3:(1)
+SNS映え
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マリンステーション 堂ヶ島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+魚, 船, 海底, 波, 海, 洞窟
+cluster1:(2)
+家族, 全員
+cluster2:(2)
+近く, 方
+cluster3:(1)
+黄色
+cluster4:(11)
+水, スノーケル, ダイビング, ホテル, 西伊豆, ポイント, うねり, ツアー, スノーケリング, マリンスポーツ, インストラクター
+cluster5:(4)
+中止, 台風, 変更, 影響
+cluster6:(2)
+堂ヶ島マリン, 天窓洞
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 7entities.

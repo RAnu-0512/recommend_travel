@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京地球農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+貸し出しあり◎, 楽しさ, 食べ方
+cluster1:(9)
+大人, 全員, 子ども, 子供, 家族, 友達, 息子, 子供たち, 子どもたち
+cluster2:(11)
+場所, 話, 事, 影響, 担当, 時期, 時間, 方, 中, こと, 受付
+cluster3:(3)
+笑い, 喜び, 知識
+cluster4:(17)
+焼き芋, リピーター間違い, スタッフ, 小松菜, かぼちゃ, サツマイモ, 他, スペシャル, スコップ, 軍手, フレンドリー, サービス, 落花生, 土いじり, 台車, サイト, カボチャ
+cluster5:(2)
+養蜂エリア, 駐車場
+cluster6:(5)
+収穫, 野菜取り, 体験, 収穫体験, 野菜収穫
+cluster7:(2)
+芋畑, 芋
+cluster8:(4)
+自然, 虫, 花, とうもろこし生
+cluster9:(2)
+蜂蜜, 栗
+cluster10:(2)
+畑, 農家
+cluster11:(2)
+野菜, 大根
+cluster12:(1)
+西瓜
+cluster13:(2)
+ネギ, わさび菜
+cluster14:(1)
+青梗菜
+cluster15:(1)
+サツマイモ・里芋・かぶ
+cluster16:(1)
+*́∀`
+
+howmany entities : 68
+howmany clusters : 17
+howmany entities (more than1entities) : 68
+howmany clusters (more than1entities) : 17
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スキューバプロショップ大井町>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+講習, 料金
+cluster1:(7)
+プール, バランス, ショップ, スタッフ, ダイビング, イベント, ダイビングショップ
+cluster2:(2)
+こと, 話
+cluster3:(1)
+都
+cluster4:(1)
+質
+cluster5:(1)
+器材
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

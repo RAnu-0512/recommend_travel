@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベリーコテージ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ブルーベリー摘み, キウイ摘み, ラズベリー摘み
+cluster1:(2)
+カフェ, 喫茶店
+cluster2:(3)
+ジュース, 摘み取り, フルーツ
+cluster3:(1)
+気
+cluster4:(1)
+摘み取り体験
+cluster5:(1)
+徒歩
+cluster6:(2)
+定休日, 予約制
+cluster7:(1)
+JR青梅線小作駅
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

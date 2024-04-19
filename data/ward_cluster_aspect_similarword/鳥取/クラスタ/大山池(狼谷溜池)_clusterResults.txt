@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山池(狼谷溜池)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+気分, 山々, 静けさ, 方, 雰囲気, 雪, 空気, 天気
+cluster1:(3)
+大山, 池, 大山池
+cluster2:(2)
+倉吉市, 鳥取県
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

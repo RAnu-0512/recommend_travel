@@ -1,0 +1,17 @@
+--------------------similar_words:ヘイズダイブ--------------------
+top3 entities near to cluster0>>
+海中, 海, 海辺
+top3 entities near to cluster1>>
+やり方, 雰囲気, 思い出
+top3 entities near to cluster2>>
+シュノーケル, シュノーケリング, ダイビング
+top3 entities near to cluster3>>
+ナマコ, シラス, ウツボ
+top3 entities near to cluster6>>
+息子, 娘, 母
+top3 entities near to cluster8>>
+世話, 連絡, 休憩
+top3 entities near to cluster10>>
+子供, 子ども
+top3 entities near to cluster13>>
+泳ぎ, 泳ぐ, 走り

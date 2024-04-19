@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安倍城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+城, 山城, 井伊城, 山頂, 城跡
+cluster1:(3)
+静岡, 安倍川, 安倍
+cluster2:(3)
+興味, 拠点, 形態
+cluster3:(1)
+南朝方
+cluster4:(1)
+南北朝時代
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 2entities.

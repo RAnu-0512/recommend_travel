@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海とくらしの史料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+境港駅, 水木しげるロード, マンボー, 海岸沿い, はまるーぷバス, 行きかう船, 境港
+cluster1:(7)
+展示, 説明文, 剥製, 館内随所, 写真撮影, 史料館, 資料館
+cluster2:(8)
+フグ, 揚がる魚, 竜宮, 魚取り, 魚, えび, サメ, 魚類
+cluster3:(4)
+子供たち, 大人, 子供連れ, 子供
+cluster4:(6)
+終点, 観光, JR, 道, バス, 徒歩
+cluster5:(18)
+こども, ホオジロザメ, イメージ, 日本一, オブジェ, オススメ, 魚介類, コレクション, 深海魚, ポイント, 水族館, マンボウ, さかな, 代わり, 生き物, 博物館, リュウグウノツカイ, マグロ
+cluster6:(5)
+所, こと, 具合, 事, 禁止
+cluster7:(2)
+顔, 手ビック
+cluster8:(2)
+水, 海
+cluster9:(2)
+勉強, 使い
+cluster10:(6)
+中心, 種類, 人, 昔, 近く, 地味
+cluster11:(1)
+迫力
+cluster12:(1)
+歯
+cluster13:(1)
+はくせい
+
+howmany entities : 70
+howmany clusters : 14
+howmany entities (more than1entities) : 70
+howmany clusters (more than1entities) : 14
+deleted 0entities.

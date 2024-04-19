@@ -1,0 +1,51 @@
+--------------------similar_words:国指定重要文化財 仁風閣・宝扇庵--------------------
+top3 entities near to cluster0>>
+尖塔, 角塔, 角
+top3 entities near to cluster1>>
+階段, 螺旋, らせん
+top3 entities near to cluster2>>
+庭, 中庭, 花壇
+top3 entities near to cluster3>>
+邸宅, 別邸, 屋敷
+top3 entities near to cluster4>>
+侯爵, 当主, 公爵
+top3 entities near to cluster5>>
+建物, 外観, 建築
+top3 entities near to cluster6>>
+掃, 出窓, コヅカ
+top3 entities near to cluster7>>
+歴史, 資料, 時代
+top3 entities near to cluster8>>
+空間, 時間, スペース
+top3 entities near to cluster9>>
+文字, 音色
+top3 entities near to cluster10>>
+以前, 昔, 当時
+top3 entities near to cluster12>>
+朝, 早朝, 夕方
+top3 entities near to cluster13>>
+木, 木火, 土
+top3 entities near to cluster14>>
+駅, 周辺, 窓
+top3 entities near to cluster15>>
+テラス, フレンチ, イタリアン
+top3 entities near to cluster16>>
+見どころ, 見所, 出入り口
+top3 entities near to cluster17>>
+気持ち, 雰囲気, 意気込み
+top3 entities near to cluster18>>
+手入れ, メンテナンス, ブラッシング
+top3 entities near to cluster19>>
+見応え, 見ごたえ, 見所
+top3 entities near to cluster20>>
+文化財, 天然記念物, 史跡
+top3 entities near to cluster21>>
+皇太子, 大正天皇, 行在所
+top3 entities near to cluster22>>
+ラリー, クイズ, トーナメントボキャブ
+top3 entities near to cluster23>>
+白亜, 仁, 剣士
+top3 entities near to cluster24>>
+裏側, 上側, 外側
+top3 entities near to cluster26>>
+建物, 建築, 洋館

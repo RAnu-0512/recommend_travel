@@ -1,0 +1,13 @@
+--------------------similar_words:都営浅草線 蔵前駅--------------------
+top3 entities near to cluster0>>
+駅, ビル, 駅前
+top3 entities near to cluster1>>
+配布, 設置, 配付
+top3 entities near to cluster2>>
+展示, 見学, 試食
+top3 entities near to cluster3>>
+期間, 開催, 実施
+top3 entities near to cluster4>>
+制作, 会社, 製作
+top3 entities near to cluster6>>
+巡礼, 聖地, 探訪

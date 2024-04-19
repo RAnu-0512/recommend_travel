@@ -1,0 +1,19 @@
+--------------------similar_words:海鮮村北長門本店--------------------
+top3 entities near to cluster0>>
+土産, おみやげ, 土産物
+top3 entities near to cluster1>>
+コーナー, スナック, レストコーナー
+top3 entities near to cluster2>>
+レストラン, ドライブイン, 魚介類
+top3 entities near to cluster3>>
+アワビ, わさび, ワサビ
+top3 entities near to cluster4>>
+わかめ, ふりかけ, ワカメ
+top3 entities near to cluster5>>
+海鮮, 魚介
+top3 entities near to cluster7>>
+国道, バス, 県道
+top3 entities near to cluster8>>
+魚介系, 魚介, 海鮮
+top3 entities near to cluster9>>
+食べ放題, 食べ, 刺身

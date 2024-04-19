@@ -1,0 +1,9 @@
+--------------------similar_words:皆成院(宿泊施設併設)--------------------
+top3 entities near to cluster0>>
+座禅, 写経, 坐禅
+top3 entities near to cluster1>>
+参拝, 本堂, お寺
+top3 entities near to cluster2>>
+寺, 菩薩, 観音
+top3 entities near to cluster3>>
+霊場, 札所, 十

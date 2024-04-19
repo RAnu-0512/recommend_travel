@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ペンションクッキーサーカス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+景色, 料理, 旅行
+cluster1:(8)
+家族, コテージ, ペキニーズ, 愛犬, オーナー, 子供, 大人, ^^)
+cluster2:(2)
+犬連れ, 家族みんな大
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

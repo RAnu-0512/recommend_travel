@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修善寺温泉ホテル滝亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+費用対効果, 消臭スプレー, 食べ物臭
+cluster1:(2)
+母娘, 母
+cluster2:(3)
+訪問, 節約, 外出
+cluster3:(8)
+一部, 対応, 人, 中, 話, 担当, 他, 方
+cluster4:(3)
+値段, 感じ, 思い
+cluster5:(1)
+都合
+cluster6:(26)
+マンション, フロント, スタッフ, ロビー, エステ, 手荷物, ホテル, 窓, アーリーチェックイン, 分譲, 日本, 写真, 修善寺, コース, Tシャツ, スーツ, 露天風呂, ビジネスホテル, 布, 冷蔵, 中国, 部屋, 建物, バイキング, 呼び鈴, サービス
+cluster7:(4)
+茶, 茶セット, 紅茶, 自然光
+cluster8:(2)
+受付, 予約
+cluster9:(2)
+代表電話, 電話
+cluster10:(1)
+内線電話
+cluster11:(13)
+客, 朝食, 土産処, 温泉街, 風呂場, 宿泊施設, 旅館, 観光アクセス, 観光客, 観光, 禁煙部屋, 風呂, 浴場
+
+howmany entities : 68
+howmany clusters : 12
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 7
+deleted 8entities.

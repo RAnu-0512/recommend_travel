@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はりねずみ屋ぽった>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+衛生面, 換気口, 店内のらせん階段
+cluster1:(7)
+上げ方, もやも, はりねずみ, エサ, 餌あげ, はりねずみカフェ, 抱き方
+cluster2:(2)
+子, 子さん
+cluster3:(3)
+ハリネズミちゃん達, 子供, 子供達
+cluster4:(3)
+予約時間, ふれあい時間, 時間
+cluster5:(2)
+真横, 真下
+cluster6:(3)
+店, 席, 店内
+cluster7:(9)
+ドリンク, Barカウンター, オーナー, ハリネズミ, フィルター, ハコニワ, 飲み物, ハリネズミカフェ, ふれ合いカフェ
+cluster8:(2)
+人, 他
+cluster9:(2)
+事, 方
+cluster10:(1)
+写真
+cluster11:(1)
+主人
+cluster12:(1)
+案内
+cluster13:(1)
+印象
+cluster14:(4)
+服, 黒, 素手, 動物カフェ
+cluster15:(1)
+埃
+
+howmany entities : 45
+howmany clusters : 16
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 16
+deleted 0entities.

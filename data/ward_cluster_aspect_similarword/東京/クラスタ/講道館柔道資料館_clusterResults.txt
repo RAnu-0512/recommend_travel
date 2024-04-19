@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:講道館柔道資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+文京シビックセンタービル, 図書館, 正面, 本山, 玄関, 講道館, 影響, 新館, 興味, 存在, 某テレビドラマ, 前, 銅像, 像, 写真, 資料
+cluster1:(4)
+講道館資料館, 資料館, 展示資料, 柔道資料館
+cluster2:(4)
+近代柔道, 嘉納治五郎, 講道館国際柔道センター, 柔道
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 3
+deleted 0entities.

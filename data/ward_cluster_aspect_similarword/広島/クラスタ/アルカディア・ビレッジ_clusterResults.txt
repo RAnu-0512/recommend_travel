@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アルカディア・ビレッジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+施設, スピード, 団体, 屋内, 通信, 方, 露天風呂, プラン, 雰囲気, バーベキュー, 自然
+cluster1:(4)
+朝食, 夕食, 食事処, 食事
+cluster2:(6)
+送迎バス, 温泉, 湯, 日帰り温泉, 風呂, 露店風呂
+cluster3:(1)
+Wi-Fi
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

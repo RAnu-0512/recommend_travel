@@ -1,0 +1,19 @@
+--------------------similar_words:品川プリンスホテル--------------------
+top3 entities near to cluster0>>
+デザート, ケーキ, 料理
+top3 entities near to cluster1>>
+天下, 某, どこぞ
+top3 entities near to cluster3>>
+席, 会場, 団体
+top3 entities near to cluster4>>
+態度, 言動
+top3 entities near to cluster5>>
+鶏肉, 牛肉, 豚肉
+top3 entities near to cluster6>>
+イカ, 海老, エビ
+top3 entities near to cluster7>>
+タレ, ダシ
+top3 entities near to cluster8>>
+プリ, 品等
+top3 entities near to cluster9>>
+種類数, 時間数, 種類, 時間

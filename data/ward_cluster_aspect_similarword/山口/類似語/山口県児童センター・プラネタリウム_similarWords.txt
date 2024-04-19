@@ -1,0 +1,11 @@
+--------------------similar_words:山口県児童センター・プラネタリウム--------------------
+top3 entities near to cluster0>>
+大人, 子供, 子ども
+top3 entities near to cluster1>>
+子, 子ども, 子供
+top3 entities near to cluster2>>
+料金, 運賃, 費用
+top3 entities near to cluster3>>
+遊具, 滑り台, ジャングルジム
+top3 entities near to cluster4>>
+家族連れ, 家族, つれ

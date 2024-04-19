@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:露天風呂の宿 ホテル緑風園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+温泉, 温泉風呂つき, 温泉旅館, 宿, お湯, 旅館, 貸し切り露天, 貸し切り風呂, 風呂
+cluster1:(6)
+干物, 鯵, 焼きたて, 伊東, アジ, 緑風園
+cluster2:(2)
+宿泊, 滞在
+cluster3:(3)
+朝食, 夕飯, 夕食
+cluster4:(1)
+品数
+cluster5:(2)
+飲食物, 家族旅行
+cluster6:(8)
+所, 湯上り処, 時間, 枕, 部屋, 建物, 場所, 温度
+cluster7:(2)
+納得, 値段
+cluster8:(4)
+事, 姿, 感じ, 方
+cluster9:(3)
+側, 利用, 対応
+cluster10:(1)
+応対
+cluster11:(1)
+自粛
+cluster12:(22)
+主人, スタッフ, おもてなし, 手入れ, 今回, 貸し切り露天風呂, 貸し切り, 持ち込み, 冷蔵庫, キャンドル, 木, 娘, リス, リピーター, リピータ, 露天風呂, 両親, 友達, 次回, おまけ, ペース, サービス
+cluster13:(2)
+古さ, (o
+
+howmany entities : 66
+howmany clusters : 14
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 7
+deleted 11entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:源範頼の墓(静岡県伊豆市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+清和源氏, 弟義, 頼家, 源頼, 範頼
+cluster1:(2)
+悲哀, 斬殺悲哀
+cluster2:(4)
+謀反, 再興, 疑い, 幽閉
+cluster3:(4)
+武将, 源氏, 北条, 義経
+cluster4:(4)
+温泉, 足湯, 修善寺, ここ修善寺
+cluster5:(2)
+幅, 徒歩
+cluster6:(2)
+墓, 高台
+cluster7:(5)
+家, 歴史, 人物, 時代, 道
+cluster8:(11)
+所, こと, ところ, 源範頼, 人, 源頼朝, 異母弟, 雰囲気, スポット, 場所, イメージ
+cluster9:(1)
+中心部
+cluster10:(5)
+静岡県, 伊豆市, 修善寺温泉街, 独鈷の湯, 観光客
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 7
+deleted 7entities.

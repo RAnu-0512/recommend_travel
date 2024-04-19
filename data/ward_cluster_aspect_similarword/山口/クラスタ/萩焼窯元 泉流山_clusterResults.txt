@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩焼窯元 泉流山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ろくろ, 電動ろくろ体験, 電動ろくろ
+cluster1:(2)
+姪っ子, 姪っ子達
+cluster2:(3)
+抹茶, 茶碗, 電動
+cluster3:(2)
+全員, 人
+cluster4:(2)
+子供, 家族
+cluster5:(5)
+息子, 娘, 子, 主人, 母
+cluster6:(4)
+先生, 小学, 年長, 指導
+cluster7:(12)
+テーブル, ストーブ, 自然, 焼き物, 出来上がり, 次, 道, 思い出, 土, どんぶり, 花入れ, 旅
+cluster8:(3)
+機会, 興味, 希望
+cluster9:(2)
+体験, 感触
+cluster10:(8)
+もの, こと, 形, 店, 物, 感じ, 方, 作品
+cluster11:(5)
+予約, 受付, 係, 販売場所, 宿泊先
+cluster12:(4)
+夫婦萩旅行, 陶芸場所, 陶芸体験, 陶芸
+
+howmany entities : 55
+howmany clusters : 13
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 13
+deleted 0entities.

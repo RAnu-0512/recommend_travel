@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:登龍峠展望>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登龍峠展望, 登龍峠展望台
+cluster1:(3)
+八丈富士, 八丈一周道路, 八丈富士越し
+cluster2:(4)
+景色, 姿, 天気, 眺め
+cluster3:(10)
+場所, 気, 直下, 八丈島, 入り江, トイレ, スポット, 道, あちこち, 八丈小島
+cluster4:(5)
+山, 島, 龍, 海, 湾
+cluster5:(3)
+新東京, 三根, 八丈島空港
+cluster6:(4)
+駐車場, 団体バスツアー, 展望所, 展望台
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

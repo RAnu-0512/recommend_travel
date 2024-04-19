@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四谷大木戸跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+四ツ谷四丁目, 内藤新宿, 四谷四丁目, 四谷大木戸
+cluster1:(19)
+石碑, 先, 虎ノ門, 玉川上水, 水資源, 交差点, 地点, 地下水道, 石樋, 通行人, 江戸時代, 江戸市, 関所, 甲州街道, 東口, 東側, 新宿, 時代, 大木戸
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

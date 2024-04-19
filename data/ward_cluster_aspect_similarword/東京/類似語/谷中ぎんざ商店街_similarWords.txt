@@ -1,0 +1,33 @@
+--------------------similar_words:谷中ぎんざ商店街--------------------
+top3 entities near to cluster0>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster3>>
+飲み物, 食べ物, お菓子
+top3 entities near to cluster4>>
+街並み, 雰囲気, 風情
+top3 entities near to cluster5>>
+買い物, 目当て, 買物
+top3 entities near to cluster6>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster7>>
+プラプラ, 売り切れ, 右往左往
+top3 entities near to cluster8>>
+コンビニ, スーパー, コンビニエンスストア
+top3 entities near to cluster9>>
+ドーン, しっぽ, マップ
+top3 entities near to cluster10>>
+使い物, 使いもの, 使えん
+top3 entities near to cluster11>>
+仏閣, 神社, 境内
+top3 entities near to cluster13>>
+散歩, 散策, お昼
+top3 entities near to cluster14>>
+風情, 趣, 趣き
+top3 entities near to cluster17>>
+人々, 人達
+top3 entities near to cluster18>>
+商店, 店先
+top3 entities near to cluster19>>
+定食屋, 定食, カツ
+top3 entities near to cluster20>>
+惣菜屋, 総菜屋, 惣菜, 総菜

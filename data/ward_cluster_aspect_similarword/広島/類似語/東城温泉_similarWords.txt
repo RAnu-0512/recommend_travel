@@ -1,0 +1,11 @@
+--------------------similar_words:東城温泉--------------------
+top3 entities near to cluster0>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster2>>
+価値, 意義
+top3 entities near to cluster3>>
+長閑, のどか, 牧歌
+top3 entities near to cluster4>>
+ジム, 温水, フィットネスクラブ
+top3 entities near to cluster5>>
+休憩室, 仮眠室, 休憩, 仮眠

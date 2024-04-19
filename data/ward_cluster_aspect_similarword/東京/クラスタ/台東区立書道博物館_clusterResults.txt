@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:台東区立書道博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(35)
+専門博物館, 書状, 穴, 石碑, 場所, 中国, 何か, 人, 一部, 文字, 近く, ホテル街, 個人コレクション, 施設, コレクション, 甲骨文字, 実物, 博物館, 周り, 本館, 石, 邸宅, 日本, 鼎, 徒歩, 歴史, 書, 台所, 青銅, 別館, 正岡子規, コーナー, 青銅器, 大昔, 教科書
+cluster1:(4)
+中村不折, 甲骨文, 鴬谷駅, 台東区
+cluster2:(4)
+企画展, 記念館, 展示物, 展示
+cluster3:(4)
+洋画家, 書家, 書道博物館, 書道
+cluster4:(1)
+文書等重要文化財
+cluster5:(1)
+台東区立書道博物館
+
+howmany entities : 49
+howmany clusters : 6
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 6
+deleted 0entities.

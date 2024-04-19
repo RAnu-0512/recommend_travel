@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神勝寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+座禅, 坐禅体験, 座禅体験
+cluster1:(3)
+瞑想体験, 写経体験, 体験
+cluster2:(3)
+水, 光, 夜間
+cluster3:(2)
+敷地, 部屋
+cluster4:(6)
+表千家, イベント, 雰囲気, ライトアップ, テーマパーク, うどん
+cluster5:(3)
+もの, 方, 場所
+cluster6:(1)
+演出
+cluster7:(1)
+価値
+cluster8:(8)
+抹茶, 寺, 紅葉, 禅, 日本庭園, 茶室, 庭園, 雲水
+
+howmany entities : 30
+howmany clusters : 9
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 9
+deleted 0entities.

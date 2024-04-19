@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東御門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+復元建築物, 建築物
+cluster1:(3)
+櫓, 巽櫓, 櫓門
+cluster2:(4)
+時代劇, 共通券, 資料, 資料館
+cluster3:(24)
+パネル, 一体, 廊下, 展示, 現代, 再建, 内部, 門, 多数, 復元, 石垣, 城, 歴史, 模型, 紅葉山公園, 感じ, 東, 公園, 今川, 橋, 建物, 印象, 時代, 他
+cluster4:(10)
+駿府城, 駿府城址, 東御門・巽櫓, 御門, 駿府城の一生, 東御門高麗門, 東御門, 駿府藩公園, 高麗門, 復元東御門
+
+howmany entities : 43
+howmany clusters : 5
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 4
+deleted 2entities.

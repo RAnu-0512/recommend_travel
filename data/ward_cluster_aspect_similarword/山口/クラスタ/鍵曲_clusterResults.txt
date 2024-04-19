@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鍵曲>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(29)
+中, 印象, 所, 昔, 車, 手, 道, サムライ, 敵, タイム, 場所, 町, 錯覚, 平安古, かいまがり, 雰囲気, レンタサイクル, ほう, コントラスト, 事, 城下町, 良さ, 時代, 人, 平安古地区, 風情, 近く, 工夫, 観光
+cluster1:(3)
+堀内鍵曲, 鍵, 鍵曲
+cluster2:(3)
+江戸時代, 住宅街, 武家屋敷
+cluster3:(11)
+柑橘, 石垣, 土塀, 塀, 街路, 木, 瓦, 迷路, 直角, 土壁, 夏ミカン
+cluster4:(2)
+堀内, 堀内地区
+cluster5:(2)
+萩城, 萩
+
+howmany entities : 50
+howmany clusters : 6
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大谷崩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+石, 化石, 岩, 滝
+cluster1:(2)
+途中すれ違い, 箇所
+cluster2:(2)
+車, 道
+cluster3:(1)
+自然
+cluster4:(1)
+迫力
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 6entities.

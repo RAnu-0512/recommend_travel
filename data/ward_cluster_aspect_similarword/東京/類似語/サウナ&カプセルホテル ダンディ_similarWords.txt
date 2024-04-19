@@ -1,0 +1,15 @@
+--------------------similar_words:サウナ&カプセルホテル ダンディ--------------------
+top3 entities near to cluster1>>
+利用者, 利用, 使用者, 使用
+top3 entities near to cluster3>>
+大声, 叫び声
+top3 entities near to cluster4>>
+浴場, 浴室, 個室
+top3 entities near to cluster5>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster6>>
+休憩室, 休息室, 休憩, 休息
+top3 entities near to cluster7>>
+営業, 時間, 平日
+top3 entities near to cluster8>>
+従業, 常連, お客

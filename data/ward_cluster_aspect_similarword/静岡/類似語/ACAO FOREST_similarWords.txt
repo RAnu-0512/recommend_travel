@@ -1,0 +1,83 @@
+--------------------similar_words:ACAO FOREST--------------------
+top3 entities near to cluster0>>
+イベント, スタイル, コンセプト
+top3 entities near to cluster1>>
+ラベンダー, ソフトクリーム, バスソルト
+top3 entities near to cluster2>>
+ブランコ, ハンモック, トランポリン
+top3 entities near to cluster3>>
+ローズガーデン, フラワーガーデンショー, チューリップ
+top3 entities near to cluster4>>
+チェックイン, レストラン, ホテル
+top3 entities near to cluster7>>
+雰囲気, 気持ち, 楽しい
+top3 entities near to cluster8>>
+ランチ, イタリアン, パスタ
+top3 entities near to cluster9>>
+ドーナツ, 手作り, ドーナッツ
+top3 entities near to cluster10>>
+飲み物, 食べ物, 入れ物
+top3 entities near to cluster11>>
+遊歩道, 入り口, 出入り口
+top3 entities near to cluster13>>
+ハーブ, ティー, カモミール
+top3 entities near to cluster14>>
+ローズ, ラベンダー, アイス
+top3 entities near to cluster15>>
+フラワー, ハウス, テラス
+top3 entities near to cluster18>>
+映え, 映える, 見栄え
+top3 entities near to cluster21>>
+女性, 男性, 子供
+top3 entities near to cluster22>>
+つくり, 作る
+top3 entities near to cluster24>>
+利用, 購入, 使用
+top3 entities near to cluster25>>
+内容, 情報, 記載
+top3 entities near to cluster26>>
+受付, 有料, 現地
+top3 entities near to cluster28>>
+秋, 春, 季節
+top3 entities near to cluster29>>
+承知, 事実, うえ
+top3 entities near to cluster31>>
+各所, たくさん
+top3 entities near to cluster34>>
+入口付近, 入り口付近, 入口, 入り口
+top3 entities near to cluster35>>
+時間, 足手, 足
+top3 entities near to cluster37>>
+石鹸, 石けん, せっけん
+top3 entities near to cluster38>>
+庭園, 和風, 中庭
+top3 entities near to cluster39>>
+花, 植物, 草花
+top3 entities near to cluster40>>
+坂道, 坂, 階段
+top3 entities near to cluster41>>
+斜面, 頂上, 中腹
+top3 entities near to cluster42>>
+海, 海風, 海辺
+top3 entities near to cluster44>>
+満開, 見頃, 咲き
+top3 entities near to cluster45>>
+体験, 体験談, 体感
+top3 entities near to cluster46>>
+施設, 設備, 敷地
+top3 entities near to cluster47>>
+散策, 出掛け, 散歩
+top3 entities near to cluster48>>
+写真, 画像, 撮っ
+top3 entities near to cluster50>>
+景色, 絶景, 風景
+top3 entities near to cluster52>>
+入場料, 入場, 料っ
+top3 entities near to cluster53>>
+入場券, 入場, フリーパスチケット
+top3 entities near to cluster54>>
+料金, 割引, 駐車
+top3 entities near to cluster55>>
+入園, 入場, 入館
+top3 entities near to cluster56>>
+バス, 園内

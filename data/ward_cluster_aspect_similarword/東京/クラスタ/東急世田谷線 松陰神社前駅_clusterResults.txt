@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急世田谷線 松陰神社前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+無人駅, 参道沿い, 改札, 世田谷線松陰神社前駅, 住宅街, 商店街, 松陰神社前駅
+cluster1:(2)
+松陰, 吉田松陰
+cluster2:(3)
+カワイイ電車, 電車, 電車体験
+cluster3:(2)
+輪くぐり, 茅
+cluster4:(5)
+神社, 鳥居, 墓, 参拝, 境内
+cluster5:(3)
+所, 本数, 料金
+cluster6:(2)
+駅, 歴史
+cluster7:(9)
+東京, 豪徳寺, 他, 思い出, 世田谷線, 買い物, 中, 松陰神社, 雰囲気
+cluster8:(1)
+編成
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 9
+deleted 0entities.

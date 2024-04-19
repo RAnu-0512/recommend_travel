@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:つまみ細工講座 花風(hanakaze)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作品, 他
+cluster1:(1)
+作品仕上がり具合
+cluster2:(1)
+つまみ細工体験
+cluster3:(1)
+少人数制
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

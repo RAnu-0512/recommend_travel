@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍宮城工作室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+暑さ, 積み方, 部参加, 私一人, 時間帯, 参加者, 参加
+cluster1:(22)
+オンライン, 途中, コロナ, リピート, オンラインツアー, 東京, ライブ, 江戸城, 家族, 奥, 自宅, ビデオ, パソコン, Zoom, 時間, クイズ, 足, ガイド, スマホ, 目, 昼間, プラン
+cluster2:(4)
+本丸, 門, 石垣, 皇居
+cluster3:(2)
+天候, 天気
+cluster4:(2)
+手製, 人柄
+cluster5:(5)
+意味, 事, 模様, こと, 決定
+cluster6:(2)
+興味, 知識
+cluster7:(2)
+歴史, 時代
+cluster8:(2)
+情報, 資料
+cluster9:(3)
+内容, 話, 説明
+cluster10:(1)
+雑学
+cluster11:(1)
+都市伝説
+cluster12:(1)
+緊急事態宣言
+
+howmany entities : 54
+howmany clusters : 13
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 13
+deleted 0entities.

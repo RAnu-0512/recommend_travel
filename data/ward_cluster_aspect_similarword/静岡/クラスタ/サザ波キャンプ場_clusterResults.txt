@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サザ波キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コンビニ, ドラッグストアー
+cluster1:(1)
+西伊豆
+cluster2:(1)
+近く
+cluster3:(1)
+キャンプ場
+cluster4:(1)
+国道
+cluster5:(1)
+海岸沿い
+cluster6:(1)
+土肥温泉
+cluster7:(1)
+サザ波キャンプ場
+cluster8:(1)
+龕附天正金鉱
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

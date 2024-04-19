@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北原白秋歌碑(静岡県伊東市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+伊東市, 伊東音頭, 伊東大川, 伊東が生んだ才人
+cluster1:(15)
+木下杢太郎, 歌詞, ビーチ沿い, 北原, 地元出身, 北原白秋, 観光会館, 詩人, 白秋, 民謡, 歌碑, 太田賢治郎, 碑, 本名, 河口
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 0entities.

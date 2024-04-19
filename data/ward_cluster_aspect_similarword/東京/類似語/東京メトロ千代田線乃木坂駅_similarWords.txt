@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ千代田線乃木坂駅--------------------
+top3 entities near to cluster0>>
+乃木, 希典, 神社
+top3 entities near to cluster1>>
+駅, 発車, 駅名
+top3 entities near to cluster2>>
+美術館, 国立, 美術

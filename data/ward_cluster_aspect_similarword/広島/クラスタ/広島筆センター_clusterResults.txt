@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島筆センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+熊野筆センター, 熊野筆, 熊野, 筆, 一筆箋, 化粧筆
+cluster1:(22)
+海外, 広島, 国内, もの, オススメ, 消耗品, 店, プレゼント, 文房具, 方, 広島県, メイクノリ, 種類, テスター, 書道, メーカー, 土産, 化粧, メイク, オープンおかげ, なでしこジャパン, 封筒
+cluster2:(1)
+広島観光のついでにぜひ熊野筆
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 3
+deleted 0entities.

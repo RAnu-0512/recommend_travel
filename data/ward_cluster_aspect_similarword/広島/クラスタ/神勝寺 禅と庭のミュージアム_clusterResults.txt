@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神勝寺 禅と庭のミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+パス, 天神山, 案内, 中, 展示, 方, 世界, パビリオン, アクセス, バス停, 現代アート, 人, 御朱印, 雰囲気, 手洗い, 時間, テーマパーク, 入り口, 受付
+cluster1:(8)
+体, 心, 状態, 錯覚, 感じ, 裏腹, 趣き, こと
+cluster2:(7)
+坂道, 建物, 寺, 温泉, 庭園, 寺院, 方舟
+cluster3:(3)
+洸庭, 福山駅, 路線バス
+cluster4:(2)
+瞑想体験, 瞑想
+cluster5:(2)
+見学順, 見学者
+cluster6:(1)
+名和晃平
+
+howmany entities : 42
+howmany clusters : 7
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 7
+deleted 0entities.

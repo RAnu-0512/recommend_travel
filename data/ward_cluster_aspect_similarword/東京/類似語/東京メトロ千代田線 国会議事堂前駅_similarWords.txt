@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ千代田線 国会議事堂前駅--------------------
+top3 entities near to cluster0>>
+環状線, 環状, 三田線
+top3 entities near to cluster2>>
+駅, 地下鉄, 構内
+top3 entities near to cluster3>>
+国会, 溜池, 山王

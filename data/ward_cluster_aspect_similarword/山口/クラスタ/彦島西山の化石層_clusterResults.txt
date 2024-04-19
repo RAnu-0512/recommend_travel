@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:彦島西山の化石層>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海岸沿い, 海岸線
+cluster1:(2)
+化石層, 層
+cluster2:(9)
+化石, 巻貝, 岩, 形, 潮, ロマン, 水, 貝, 二枚貝
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

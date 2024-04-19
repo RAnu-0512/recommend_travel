@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御殿場ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+横浜, 背, 高速, 夏場, 冬
+cluster1:(11)
+アクセス, グリーン, ゴルフコンペ, 初心者, プレイ, 御殿場, コース, ゴルフ, 東名高速道路, 富士山, スコア
+cluster2:(4)
+所, こと, 方, 女性
+cluster3:(4)
+ゴルフ場, 距離, 気分, 天気
+cluster4:(1)
+御殿場IC
+
+howmany entities : 25
+howmany clusters : 5
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 1entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:乙津花の里--------------------
+top3 entities near to cluster0>>
+桜, 夜桜, 満開
+top3 entities near to cluster1>>
+里山, 民家, 雑木林
+top3 entities near to cluster2>>
+風景, 景色, 周囲
+top3 entities near to cluster3>>
+動く, 動き, 動かせる
+top3 entities near to cluster4>>
+外客, 乗客, 名所
+top3 entities near to cluster5>>
+珠院, 龍院, 珠, 龍

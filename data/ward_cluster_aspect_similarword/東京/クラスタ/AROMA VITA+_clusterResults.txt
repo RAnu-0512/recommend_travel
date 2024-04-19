@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:AROMA VITA+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+フレグランス体験, 初体験
+cluster1:(20)
+クリスマス, 店, スタッフ, 笑顔, 空間, 気持ち, ところ, 感じ, ハンドマッサージ, 効果, 好み, ラベル, AROMA VITA, 記念, プレゼント, 部屋, 方, 居心地, バーム, 説明
+cluster2:(3)
+交換, 事前メール, 互い
+cluster3:(3)
+香り, 精油, 体調
+cluster4:(3)
+希釈率, 住宅地, 調香
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 5
+deleted 0entities.

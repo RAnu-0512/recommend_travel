@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京の自然歴史体験  センス・オブ・ワンダー東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+外国人旅行者, 外国人
+cluster1:(11)
+浅草ガイド, 東京, 浅草, 皇居, 浅草のガイド, 神宮, 英, 日本, 明治, 江戸幕府, 皇族
+cluster2:(8)
+質問, 方たち, 解説, 魅力, 歴史, こと, 方, 事柄
+cluster3:(9)
+ガイドツアー, 江戸城, ガイドブック, ツアー, 話し方, フレンドリー, ガイド, ユータ, アメリカ
+cluster4:(3)
+人, 友人, 妻
+cluster5:(2)
+前, 時間
+cluster6:(1)
+語
+cluster7:(4)
+儀式, 散歩, 風景, 眼
+cluster8:(1)
+音声ガイド
+cluster9:(1)
+参加者
+cluster10:(1)
+半分半分
+
+howmany entities : 43
+howmany clusters : 11
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 11
+deleted 0entities.

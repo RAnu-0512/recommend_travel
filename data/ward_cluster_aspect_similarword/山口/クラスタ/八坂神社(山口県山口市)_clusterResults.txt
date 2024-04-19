@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八坂神社(山口県山口市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+龍福寺, 太鼓谷稲荷神社
+cluster1:(3)
+室町時代後期建造, 時代建造, 時代後期
+cluster2:(4)
+説明パネル, 跡, 整備, 建立
+cluster3:(6)
+文化財, 場所, 国, 雰囲気, 八坂神社, 建物
+cluster4:(3)
+中心, 間, 時代
+cluster5:(2)
+後ろ, 気
+cluster6:(1)
+支配
+cluster7:(1)
+アーチ型
+cluster8:(1)
+流造り
+cluster9:(1)
+広さ
+cluster10:(1)
+駐車場
+cluster11:(1)
+三間社
+cluster12:(12)
+参道, 本殿, 鳥居, 楼拝殿, 山口, 神社, 山口祇園祭, 大内, 京都, 築山館, 拝殿, 赤鳥居
+cluster13:(1)
+土塁跡
+
+howmany entities : 39
+howmany clusters : 14
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 14
+deleted 0entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:唐戸レトロ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+南部町郵便局, 下関南部町郵便局, 南部郵便局
+cluster1:(10)
+門司港, 下関駅, 門司レトロ, レトロ感, 下関英国領事館, 唐戸エリア, 唐戸, 下関南部町, 唐戸市場, 下関
+cluster2:(3)
+建築物, 建造物, 同種建築物
+cluster3:(2)
+事務所建築, 歴史建築
+cluster4:(2)
+洋風建築, 西洋建築
+cluster5:(4)
+秋田商会, 大正, 昭和, 明治
+cluster6:(4)
+英国, 現役, 時代, 歴史
+cluster7:(13)
+それぞれ, 町並み, まわり, 街並み, ところ, スポット, オススメ, 領事館, 雰囲気, カモンワーフ, レトロ, 人, 見ごたえ
+cluster8:(2)
+感じ, 風情
+cluster9:(3)
+ビル, 港町, 建物
+cluster10:(1)
+レンガ造り
+cluster11:(4)
+連絡船, 場所, 学習場所, 距離
+cluster12:(6)
+散歩, 観光地, 散歩気分, 路線バス, 早朝散歩, 観光
+
+howmany entities : 57
+howmany clusters : 13
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 13
+deleted 0entities.

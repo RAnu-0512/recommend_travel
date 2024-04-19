@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湊海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+湊海水浴場, 瀬越海水浴場, 海水浴場, 湊海水浴, 国定公園, 萩市街, 駐車場
+cluster1:(26)
+感覚, シーズン, 穴場, コバルトブルー, こと, スポット, 海水浴, プライベートビーチ, 家族, 海水浴客, 場所, ビーチ, プライベート, 海水, 時間, 水質, クリア, シャワー, リフレッシュ, 水辺, 人, 水, 海, 近く, おススメスポット, 気分
+cluster2:(3)
+色味, 透明度, 美しさ
+cluster3:(1)
+混み具合
+
+howmany entities : 37
+howmany clusters : 4
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 4
+deleted 0entities.

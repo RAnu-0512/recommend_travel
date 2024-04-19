@@ -1,0 +1,15 @@
+--------------------similar_words:お風呂ずきの宿 大東館--------------------
+top3 entities near to cluster0>>
+風呂, 露天風呂, 湯船
+top3 entities near to cluster1>>
+清潔, 臭い
+top3 entities near to cluster3>>
+景色, 徒歩, 部屋
+top3 entities near to cluster4>>
+露天風呂, タオル, 内風呂
+top3 entities near to cluster5>>
+家族, 子供, 家庭
+top3 entities near to cluster9>>
+温泉, 旅館, 浴場
+top3 entities near to cluster10>>
+従業員, 従業, 施設

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渓流茶園周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+気持ち, 塩焼き
+cluster1:(1)
+場所
+cluster2:(1)
+景色
+cluster3:(1)
+釣り
+cluster4:(1)
+松原
+cluster5:(1)
+安芸太田町
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

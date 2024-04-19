@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:内海フィッシャリーナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ロケーション, クレセントビーチ
+cluster1:(1)
+瀬戸内海
+cluster2:(1)
+場所
+cluster3:(1)
+後ろ
+cluster4:(1)
+山々
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

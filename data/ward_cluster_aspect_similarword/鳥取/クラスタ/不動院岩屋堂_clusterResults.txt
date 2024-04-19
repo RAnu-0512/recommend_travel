@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:不動院岩屋堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+若桜町, 鳥取県
+cluster1:(2)
+建立, 創建
+cluster2:(4)
+岩窟, 御堂, 天然, 岩
+cluster3:(5)
+車, 駅, 神社, 道, 国道
+cluster4:(3)
+訪問, 修復, 作り
+cluster5:(12)
+岩屋堂, 看板, 日本, 中, ほか, 文化財, 国, 価値, 人, 目前, 公民館, 場所
+cluster6:(1)
+駐車場
+cluster7:(5)
+投げ入れ堂, 投入堂, 徳山三仏寺, 日本三大投入堂, 鎌倉時代かとの事.
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 8
+deleted 0entities.

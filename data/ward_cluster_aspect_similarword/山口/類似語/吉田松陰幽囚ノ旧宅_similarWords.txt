@@ -1,0 +1,11 @@
+--------------------similar_words:吉田松陰幽囚ノ旧宅--------------------
+top3 entities near to cluster1>>
+遺産, 産業, 世界
+top3 entities near to cluster2>>
+謹慎, 幽閉, 軟禁
+top3 entities near to cluster4>>
+住宅, 建築, 建物
+top3 entities near to cluster5>>
+旧家, 本宅
+top3 entities near to cluster6>>
+境内, 裏手, 本殿

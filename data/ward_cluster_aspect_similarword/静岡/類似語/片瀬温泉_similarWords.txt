@@ -1,0 +1,9 @@
+--------------------similar_words:片瀬温泉--------------------
+top3 entities near to cluster0>>
+温泉, 温泉郷, 旅館
+top3 entities near to cluster3>>
+海辺, 海岸, 海
+top3 entities near to cluster5>>
+駅, 宿, ホテル
+top3 entities near to cluster6>>
+川熱, 川, 温泉

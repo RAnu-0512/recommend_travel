@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本一の石燈籠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石燈籠, 石灯籠
+cluster1:(8)
+損, ふつう, 名前, もの, 金比羅神社, 日本一, 府中市, 岡山
+cluster2:(1)
+備前一之宮 吉備津彦神社
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

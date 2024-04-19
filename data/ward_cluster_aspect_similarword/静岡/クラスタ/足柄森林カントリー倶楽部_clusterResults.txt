@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足柄森林カントリー倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴルフ場, 丘陵コース
+cluster1:(16)
+アクセス, 真夏, グリーン, レストラン, 御殿場インター, ランチ, 森林, 森, ロストボール, コース, 率, 富士山, サイド, 名前, クラブ, ティーショット
+cluster2:(1)
+高速出口
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 3entities.

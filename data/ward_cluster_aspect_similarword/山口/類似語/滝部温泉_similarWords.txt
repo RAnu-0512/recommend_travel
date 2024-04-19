@@ -1,0 +1,19 @@
+--------------------similar_words:滝部温泉--------------------
+top3 entities near to cluster0>>
+湯, お湯, 温泉
+top3 entities near to cluster1>>
+宿泊, 宿, 施設
+top3 entities near to cluster2>>
+穴場, 都会, 田舎
+top3 entities near to cluster3>>
+家族, 食事
+top3 entities near to cluster4>>
+旅, 帰る
+top3 entities near to cluster5>>
+辺り, 近辺, 露天風呂
+top3 entities near to cluster6>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster7>>
+騒音, うるささ, 雑音
+top3 entities near to cluster9>>
+徒歩圏, 徒歩, 圏内

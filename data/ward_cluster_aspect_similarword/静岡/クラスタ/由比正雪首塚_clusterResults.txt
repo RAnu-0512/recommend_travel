@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:由比正雪首塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡市, JR東静岡駅, 静岡駅
+cluster1:(2)
+首塚, 首
+cluster2:(4)
+車, 変, 人物, ところ
+cluster3:(2)
+一角, 境内
+cluster4:(1)
+沓谷
+cluster5:(1)
+菩提樹院
+cluster6:(1)
+慶安
+cluster7:(1)
+儒学者
+cluster8:(1)
+江戸時代前期
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 9entities.

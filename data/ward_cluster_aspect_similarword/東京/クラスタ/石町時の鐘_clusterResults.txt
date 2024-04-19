@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石町時の鐘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+石町, 光景, 鐘楼, 地, 音, 建物, 後石町, 日本橋, 公園, 庶民, 感じ, 近く, 寺, 高さ, 足, 中, 歴史, 方, 鐘, 遊具, 時刻, 時代, もの, 跡
+cluster1:(3)
+小伝馬町駅, 本石町, 室町・本町
+cluster2:(2)
+松沢家, 十思公園
+cluster3:(4)
+牢屋敷, 江戸通り, 江戸, 江戸時代
+cluster4:(1)
+吉田松陰
+cluster5:(1)
+鐘撞き堂
+cluster6:(4)
+江戸時代最初の時の鐘, 江戸で最初の時の鐘, 伝馬町の十思公園, 小伝馬町駅近くの十思公園
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 7
+deleted 0entities.

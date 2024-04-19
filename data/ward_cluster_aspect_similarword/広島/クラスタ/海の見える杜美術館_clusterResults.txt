@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海の見える杜美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+西洋美術, 東洋美術, 美術品, 美術, 現代美術
+cluster1:(2)
+花, 花々
+cluster2:(2)
+特典, 送迎
+cluster3:(12)
+坂道, 雨, 建物, 天気, 車, 遠目, 海, 空気, 景色, 山, 道, 自然
+cluster4:(2)
+館内, 展示
+cluster5:(3)
+遊歩道, 美術館, 散歩道
+cluster6:(9)
+ロケーション, フレンチ, タクシー, テラス, 雰囲気, レストラン, 気持ち, ガーデニング, コーヒーサービス
+cluster7:(6)
+日本, 中, 説明, 前, こと, 場所
+cluster8:(1)
+至宝
+cluster9:(7)
+香水瓶, 駐車場, JR, 杜美術館, 宮島口駅, 廿日市市, 宮島駅
+cluster10:(1)
+王舎城
+cluster11:(1)
+三十六歌仙
+
+howmany entities : 51
+howmany clusters : 12
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 12
+deleted 0entities.

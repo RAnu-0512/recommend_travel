@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芝公園もみじ谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+遺跡, 公園, 見学, 園内, 史跡
+cluster1:(3)
+紅葉, 滝, 渓流
+cluster2:(7)
+場所, もみじ, カメラ, 東京, 地蔵, 紅葉谷, 東京タワー
+cluster3:(3)
+芝公園駅, 真下, 出口
+cluster4:(1)
+もみじ谷
+cluster5:(2)
+東京タワー横下, 都立芝公園
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

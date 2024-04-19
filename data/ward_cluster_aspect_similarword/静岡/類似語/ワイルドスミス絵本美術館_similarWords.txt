@@ -1,0 +1,11 @@
+--------------------similar_words:ワイルドスミス絵本美術館--------------------
+top3 entities near to cluster1>>
+お家, 土産, 近所
+top3 entities near to cluster2>>
+世界国, 自然国, 世界, 自然
+top3 entities near to cluster4>>
+彼, 彼女, ファン
+top3 entities near to cluster6>>
+外観, 入口, 入り口
+top3 entities near to cluster8>>
+絵本, 絵画

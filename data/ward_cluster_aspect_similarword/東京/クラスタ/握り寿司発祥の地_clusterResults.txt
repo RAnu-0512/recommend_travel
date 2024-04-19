@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:握り寿司発祥の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+両国橋, 勉強, 案内板, 江戸, 文政, 回向院, 小泉与兵衛, 地, 看板, 両国
+cluster1:(2)
+江戸握り鮨発祥, 与兵衛鮨発祥の地
+cluster2:(3)
+握り寿司, 江戸前握り寿司, 握りずし
+cluster3:(3)
+与兵衛鮨, 押し寿司, 寿司
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

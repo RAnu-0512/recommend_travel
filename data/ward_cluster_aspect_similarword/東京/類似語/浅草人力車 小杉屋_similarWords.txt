@@ -1,0 +1,67 @@
+--------------------similar_words:浅草人力車 小杉屋--------------------
+top3 entities near to cluster0>>
+優越感, 罪悪感, 優越, 罪悪
+top3 entities near to cluster2>>
+車夫, 人力車, 人力
+top3 entities near to cluster3>>
+母親, 息子, 子供
+top3 entities near to cluster4>>
+人力車, 客引き, 人混み
+top3 entities near to cluster5>>
+思い出, かけがえ, 想い出
+top3 entities near to cluster6>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster7>>
+リズム, ＷＡＲＡ, テンポ
+top3 entities near to cluster8>>
+夏休み, 人並み, 春休み
+top3 entities near to cluster9>>
+ツアー, コース, プラン
+top3 entities near to cluster10>>
+ベテラン, オーナー, オーナ
+top3 entities near to cluster11>>
+スタッフ, サービス, イベント
+top3 entities near to cluster12>>
+リクエスト, スカイツリー, ホスピタリティー
+top3 entities near to cluster13>>
+ポイント, ロードポイント, ポイン
+top3 entities near to cluster14>>
+スピード, 速度, 速い
+top3 entities near to cluster15>>
+おすすめ, オススメ, サイト
+top3 entities near to cluster16>>
+アテンド, お願い, 兄さん
+top3 entities near to cluster17>>
+有名人, 芸能人, 著名
+top3 entities near to cluster18>>
+トーク, トゥ・ハー, ザット・トーク
+top3 entities near to cluster19>>
+五十嵐, 伊藤, 鈴木
+top3 entities near to cluster20>>
+景色, 街並み, 車窓
+top3 entities near to cluster21>>
+写真, 撮影, 撮っ
+top3 entities near to cluster22>>
+体験, 体感
+top3 entities near to cluster23>>
+世話, 作る
+top3 entities near to cluster24>>
+同行, 担当, 随行
+top3 entities near to cluster25>>
+案内, 紹介, 記載
+top3 entities near to cluster26>>
+対応, 利用, 使用
+top3 entities near to cluster27>>
+予約, 受付, 申し込み
+top3 entities near to cluster29>>
+押し, 開け, 押す
+top3 entities near to cluster30>>
+文句, 宣伝, 売り込み
+top3 entities near to cluster33>>
+各所, 周り, お陰
+top3 entities near to cluster34>>
+時間, 間, その間
+top3 entities near to cluster36>>
+満足度, 満足, 楽しい
+top3 entities near to cluster37>>
+知識, 経験, 人柄

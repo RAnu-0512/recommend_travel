@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹林庵 みずの>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+気持ち, 彼女, ケーキ, サプライズ, カップル
+cluster1:(2)
+こと, 場所
+cluster2:(2)
+料理, 旅館
+cluster3:(1)
+仲
+cluster4:(3)
+写真立て, 辺り事前, 誕生日
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

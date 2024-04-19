@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大田区産業プラザPiO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+京急, 京急本線, 京急蒲田駅
+cluster1:(8)
+観光, JR, 駅, 徒歩, 東口, 京浜急行線, バス, 交通
+cluster2:(4)
+観戦, 大会, 開催, イベント会場
+cluster3:(2)
+大小ホール, アニメ系
+cluster4:(29)
+カレー, コンビニ, 場所, テナント, オアシス, イベント, 内部, 建物, 人, アクセス, ダーツ, ところ, 近く, ホール, セミナー, ジオラマ, 施設, コンベンションホール, レストラン, 案内, プラザ, 前, ビル, 歩道橋, 昼食, こと, 目, 地元, アンパンマンショー
+cluster5:(2)
+会議, 会議室
+cluster6:(2)
+展示場, 展示会
+cluster7:(6)
+産業支援, 産業支援施設, 産業プラザ, 振興, 産業, 観光展
+cluster8:(4)
+工場, 拠点施設, 町工場, 中小企業
+cluster9:(1)
+活性化
+cluster10:(7)
+蒲田駅, カツ丼, 区民, 蒲田, 京浜, 大田区産業プラザPiO, 大田区
+
+howmany entities : 68
+howmany clusters : 11
+howmany entities (more than1entities) : 68
+howmany clusters (more than1entities) : 11
+deleted 0entities.

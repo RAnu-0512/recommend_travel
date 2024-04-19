@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ZAKKAYA CONNECT>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+方, 飲みもの, インストラクター, SUP, ジェット, スクール, 無人島, sup
+cluster1:(4)
+施設, 運動, 兄さん達, 体験
+cluster2:(1)
+集合場所
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

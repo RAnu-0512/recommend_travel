@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐波川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+奈美中央橋, 防府市
+cluster1:(12)
+中, 価値, 鯉のぼり, 佐波川, 水中, 名前, 全国, 泳, 水中鯉のぼり, イベント, 家庭, 場所
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

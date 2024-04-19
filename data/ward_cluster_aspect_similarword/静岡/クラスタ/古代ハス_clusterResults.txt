@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古代ハス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+美しさ, 時間帯, 生命力, 限定なかんじ
+cluster1:(27)
+敷地, 見ごたえ, 地域, まえ, 時期, こと, 観賞, 方, 昔, ピンク色, もの, ところ, 人, 歴史, ピンク, 時間, 名前, 万葉集, 雰囲気, スポット, 場所, 短時間, オススメ, ハシゴ, 色, 見応え, 休耕田
+cluster2:(2)
+風情, 迫力
+cluster3:(3)
+姿, 光景, 想像
+cluster4:(1)
+景観
+cluster5:(11)
+加納, 古代種, 命, 野花, お花, 花, 古代, 植物, 南伊豆町, 大輪, 葉
+cluster6:(2)
+ハス池, 池
+cluster7:(4)
+ハス, 古代ハス, ハスじ, ハナハス
+cluster8:(4)
+静岡県, 蓮, 古代蓮, 行田蓮
+cluster9:(1)
+=́∀`
+
+howmany entities : 59
+howmany clusters : 10
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 6
+deleted 6entities.

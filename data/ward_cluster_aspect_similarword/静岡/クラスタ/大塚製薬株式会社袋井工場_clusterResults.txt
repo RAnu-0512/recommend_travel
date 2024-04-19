@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大塚製薬株式会社袋井工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+歴史, 運, 土産, ポカリスエット, CM, ソイジョイ, メンテナンス, 工夫, 青春, タイミング, ソイッシュ
+cluster1:(3)
+工場見学, 工場, 製造工程
+cluster2:(1)
+宮沢りえ
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

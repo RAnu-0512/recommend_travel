@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽高湖キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+羽高湖&キャンプ場, 羽高湖, 池沿い, 池, 羽高湖キャンプ場
+cluster1:(2)
+広島県, 府中市
+cluster2:(5)
+桜, 花, 満開時期, 花見, 桜色
+cluster3:(13)
+ウォーキング, 森林浴, キャンプ, フリー, 遊歩道, 泊まり, 休日, ファミリー, 親子連れ, 格安, オートキャンプ, バーベキュー, 日帰り
+cluster4:(9)
+中心, 時期, 周囲, 中, 周辺, 人, 木, 場所, 次回
+cluster5:(5)
+森林, キャンプ場, 芝生, 諸毛町, 公園
+
+howmany entities : 39
+howmany clusters : 6
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 6
+deleted 0entities.

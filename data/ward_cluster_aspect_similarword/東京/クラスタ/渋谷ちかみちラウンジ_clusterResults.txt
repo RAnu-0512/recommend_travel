@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渋谷ちかみちラウンジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ラウンジ, コンコース
+cluster1:(1)
+トイレ
+cluster2:(1)
+パウダールーム
+cluster3:(1)
+駅
+cluster4:(2)
+渋谷, 地下
+cluster5:(1)
+総合インフォメーション
+cluster6:(1)
+改札口
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

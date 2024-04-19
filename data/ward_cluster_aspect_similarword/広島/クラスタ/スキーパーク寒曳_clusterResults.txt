@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スキーパーク寒曳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ランチ, ランチバイキング
+cluster1:(9)
+インストラクター, コース, 初心者, 立ち上, スクール, スノーボード, バイキング, バリエーション, おまけ
+cluster2:(3)
+スキー, スノボ, リフト
+cluster3:(5)
+途中, 生徒, 温泉, 娘, 人
+cluster4:(4)
+腕, スキー場, コース幅, 見本
+cluster5:(6)
+斜度, 雪質, リフト券, 滑り, 滑りごたえ, 高速道路
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 6
+deleted 0entities.

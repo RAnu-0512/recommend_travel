@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三佛寺文殊堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+難所, 岩場, 絶景, 高所恐怖症, 景色, 断崖
+cluster1:(3)
+縁台, 手摺, 床板
+cluster2:(4)
+気, 縁, 日本海, 外側
+cluster3:(3)
+建物, 靴, 場所
+cluster4:(1)
+本尊
+cluster5:(3)
+大山, 水, 木
+cluster6:(1)
+三徳
+cluster7:(7)
+懸造, 鎖場, 堂, 鎖坂, 文殊堂, 鳥取県, 鎖
+cluster8:(1)
+室町時代後期
+cluster9:(3)
+東伯郡三朝町, 徳山三佛寺, 文殊師利菩薩
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 10
+deleted 0entities.

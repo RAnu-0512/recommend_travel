@@ -1,0 +1,71 @@
+--------------------similar_words:天然温泉平和島--------------------
+top3 entities near to cluster0>>
+時間, 休憩, 入館
+top3 entities near to cluster1>>
+サラダ, ランチ, バッグ
+top3 entities near to cluster2>>
+アロマ, ルーム, リラックス
+top3 entities near to cluster3>>
+ストップ, シート, オーダー
+top3 entities near to cluster4>>
+とろみ, とろり, トロッ
+top3 entities near to cluster5>>
+ロウリュ, ロウリュウ, ロウリュウサービス
+top3 entities near to cluster6>>
+マンガ, テレビ, アニメ
+top3 entities near to cluster7>>
+スタッフ, サービス, イベント
+top3 entities near to cluster8>>
+ラーメン, メニュー, ガッツリラーメン
+top3 entities near to cluster9>>
+マッサージ, ストレッチ, レストラン
+top3 entities near to cluster10>>
+クーポン, リピート, チケット
+top3 entities near to cluster11>>
+ラウンジ, ロッカー, アメニティ
+top3 entities near to cluster12>>
+雰囲気, サービス, エリア
+top3 entities near to cluster14>>
+サウナ, 朝風呂, 露天風呂
+top3 entities near to cluster15>>
+種類, どれ, 数種類
+top3 entities near to cluster16>>
+利用, 対応, 使用
+top3 entities near to cluster18>>
+欲, 汗, 冷汗
+top3 entities near to cluster20>>
+人気, 海外, 国内
+top3 entities near to cluster21>>
+交互, かわりばんこ, 順繰り
+top3 entities near to cluster22>>
+暑い, 蒸し暑い, 涼しい
+top3 entities near to cluster23>>
+受付, 予約, 経由
+top3 entities near to cluster24>>
+食事, 夕食, 仕事
+top3 entities near to cluster25>>
+清潔感, 気分, 清潔
+top3 entities near to cluster26>>
+体験, 貴重, 初
+top3 entities near to cluster27>>
+女性, 男性, 専用
+top3 entities near to cluster28>>
+人達, 大勢
+top3 entities near to cluster29>>
+女性, お客, 男性
+top3 entities near to cluster30>>
+施設, 設備, 駅
+top3 entities near to cluster31>>
+バス, スリ, シャトル
+top3 entities near to cluster32>>
+岩盤浴, 岩盤, 岩床
+top3 entities near to cluster33>>
+平和, 島, 温泉
+top3 entities near to cluster34>>
+駅伝, 海鮮, 丼
+top3 entities near to cluster35>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster36>>
+風呂, 湯船, 浴場
+top3 entities near to cluster37>>
+濃度

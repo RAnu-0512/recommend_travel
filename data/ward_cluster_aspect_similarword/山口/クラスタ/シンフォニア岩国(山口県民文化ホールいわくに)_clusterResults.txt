@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シンフォニア岩国(山口県民文化ホールいわくに)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イベント, コンサートホール
+cluster1:(1)
+ライブ
+cluster2:(1)
+元気
+cluster3:(1)
+歌手
+cluster4:(1)
+岩国市
+cluster5:(1)
+井上陽水
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

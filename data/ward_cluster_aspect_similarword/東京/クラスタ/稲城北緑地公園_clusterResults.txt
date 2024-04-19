@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲城北緑地公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+曲がり高架下, JR南武線, 南多摩駅, 稲城北緑地公園, 快速列車, 稲城長沼駅
+cluster1:(18)
+場所, 散策, 駐車場, 最寄り駅, 公園, 多摩川, 複合遊具, 子供, 気持ち, 右, 左, アクセス方法, 川岸, スケートパーク, 外, 桜, 遊具, バーベキュー
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

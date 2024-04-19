@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:由宇温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ゆう温泉, 別温泉, 温泉
+cluster1:(3)
+質, 低下, 高騰
+cluster2:(3)
+接客, 料金, サービス内容
+cluster3:(6)
+リンス, 汗, 値上げ, シャンプー, サウナ, 末期
+cluster4:(1)
+コロナ禍
+cluster5:(1)
+燃料費
+cluster6:(1)
+岩盤浴
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 7
+deleted 0entities.

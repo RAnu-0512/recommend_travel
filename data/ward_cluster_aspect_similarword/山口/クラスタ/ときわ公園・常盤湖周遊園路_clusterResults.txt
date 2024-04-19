@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ときわ公園・常盤湖周遊園路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+多く, 周り, 周囲, 人
+cluster1:(2)
+コース, ウォーキングコース
+cluster2:(3)
+ところ, 雰囲気, 気持ち
+cluster3:(4)
+ジョギング, ミュージアム, ウォーキング, ペリカン
+cluster4:(1)
+道
+cluster5:(2)
+心, 底
+cluster6:(4)
+風, 自然, 緑, 花
+cluster7:(10)
+芝生, 敷地, 花壇, 公園, 彫刻, 白鳥, 物体, 野鳥, 弁当, 散歩
+cluster8:(4)
+常盤湖, ときわ湖, 周遊園路, 湖
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 9
+deleted 0entities.

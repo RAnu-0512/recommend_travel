@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:周防鋳銭司跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鋳造所, 古代貨幣, 貨幣
+cluster1:(7)
+中, 鋳銭司, 各地, 全国, 古代, にぎわいぶり, 敷地
+cluster2:(2)
+周防鋳銭司, 山口市
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:三滝寺(三滝観音)--------------------
+top3 entities near to cluster0>>
+駅, 徒歩, 歩道
+top3 entities near to cluster2>>
+気持ち, 雰囲気, 言い方
+top3 entities near to cluster4>>
+留意, 事項, 要注意
+top3 entities near to cluster5>>
+電車, 子供
+top3 entities near to cluster6>>
+釈然, 落ちん, 得心
+top3 entities near to cluster7>>
+境内, 町内, 紅葉
+top3 entities near to cluster8>>
+駐車, 区, 麓

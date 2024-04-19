@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営三田線 芝公園駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+都会, 喧騒
+cluster1:(6)
+三田線, 御成門, 芝公園, 増上寺, 大門, 東京タワー
+cluster2:(8)
+遺跡, 場所, 感じ, 近く, コースマップ, 範囲, 中, 出口
+cluster3:(5)
+芝公園駅, 芝東照宮, 駅, 浜松町駅, 都立芝公園
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

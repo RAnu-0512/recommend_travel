@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はっとうフルーツ観光園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+八頭郡, 八頭町, 八東フルーツ総合センター, 鳥取県
+cluster1:(10)
+りんご, 道, フルーツ直売店, 旬, くり, 夏, 敷地, ぶどう, フルーツ, 駅
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河津浜温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+河津浜温泉, 河津駅, 河津浜, 河津, 河津温泉郷, 河津桜
+cluster1:(3)
+伊豆急行線, 相模湾, 河津川
+cluster2:(3)
+あちこち, ところ, 市街地
+cluster3:(3)
+宿, 店, 会場
+cluster4:(8)
+温泉気分, 伊豆熱川温泉, 温泉メッカ, 温泉, 踊り子温泉, 温泉街, 片瀬温泉, 和み湯
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 0entities.

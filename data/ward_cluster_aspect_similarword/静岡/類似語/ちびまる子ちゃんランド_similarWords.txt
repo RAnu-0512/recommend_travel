@@ -1,0 +1,13 @@
+--------------------similar_words:ちびまる子ちゃんランド--------------------
+top3 entities near to cluster2>>
+子供, グッズ, 子ども
+top3 entities near to cluster4>>
+施設, 目的, 公園
+top3 entities near to cluster5>>
+地元
+top3 entities near to cluster6>>
+休日, 昼, 平日
+top3 entities near to cluster7>>
+台所, 居間, 教室
+top3 entities near to cluster10>>
+土産, 土産物, 写真

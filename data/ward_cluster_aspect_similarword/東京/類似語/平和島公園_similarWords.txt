@@ -1,0 +1,9 @@
+--------------------similar_words:平和島公園--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 大人
+top3 entities near to cluster1>>
+駅, 公園, 施設
+top3 entities near to cluster3>>
+公園, 広場, 中庭
+top3 entities near to cluster4>>
+平和, 公園, 島

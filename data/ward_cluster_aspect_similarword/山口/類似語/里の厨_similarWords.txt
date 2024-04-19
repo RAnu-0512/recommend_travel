@@ -1,0 +1,15 @@
+--------------------similar_words:里の厨--------------------
+top3 entities near to cluster0>>
+工芸品, 工芸, 品等
+top3 entities near to cluster1>>
+農家, 農産物, 野菜
+top3 entities near to cluster2>>
+発祥
+top3 entities near to cluster3>>
+レジ, 店員, キャッシャー
+top3 entities near to cluster4>>
+愛想, 無愛想, 人当たり
+top3 entities near to cluster5>>
+飴, カンロ, キャンディー
+top3 entities near to cluster6>>
+魚介, 新鮮, 海産物

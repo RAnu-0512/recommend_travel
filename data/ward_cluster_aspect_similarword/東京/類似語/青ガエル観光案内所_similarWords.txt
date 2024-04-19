@@ -1,0 +1,13 @@
+--------------------similar_words:青ガエル観光案内所--------------------
+top3 entities near to cluster1>>
+駅前, 南口, ハチ公
+top3 entities near to cluster2>>
+ハチ公像, ハチ公, ハチ
+top3 entities near to cluster3>>
+電車, 車両, 鉄道
+top3 entities near to cluster4>>
+広場, 駅, 施設
+top3 entities near to cluster6>>
+現役, 時代, 当時
+top3 entities near to cluster7>>
+東急線, 東急, 東横線

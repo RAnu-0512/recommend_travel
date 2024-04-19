@@ -1,0 +1,15 @@
+--------------------similar_words:ポッポ流 焼き物道場 ハ〇ヤ--------------------
+top3 entities near to cluster0>>
+焼く
+top3 entities near to cluster5>>
+触感, モノ, 感触
+top3 entities near to cluster6>>
+機会, コツ
+top3 entities near to cluster9>>
+茶碗, 焼酎
+top3 entities near to cluster12>>
+作成, 完成, 作製
+top3 entities near to cluster13>>
+到着, 駅
+top3 entities near to cluster20>>
+体験, 陶芸, 初

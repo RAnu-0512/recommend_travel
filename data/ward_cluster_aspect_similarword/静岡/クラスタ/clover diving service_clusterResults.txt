@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:clover diving service>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+未経験者, 方達, 子供たち, 私達一家
+cluster1:(8)
+魚, 海岸, 海岸周辺, 水中世界, 伊豆, 海, 海中, 富戸
+cluster2:(2)
+予定時間, シュノーケリング時間
+cluster3:(12)
+車, 客, 年齢, 台風, 料金, 全員, 女性スタッフ, 女性, 店, ダイビング店, 小雨, 道
+cluster4:(5)
+姿, こと, 様子, 手順, 方
+cluster5:(3)
+プログラム↓, 下記, 大阪
+cluster6:(25)
+親, スタッフ, プライベートレッスン, インストラクター, カップル, ダイビング, キャンセル, 息子, ポイント, ファンダイビング, 娘, シャワー, 帰り際, バブルリング, 伊豆高原, 久しぶり, スタート, 子供, 子ども, イントラ, ファミリー, プログラム, コスパ, 着替え, シュノーケリング
+cluster7:(1)
+コロナ対策実施
+
+howmany entities : 60
+howmany clusters : 8
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 6
+deleted 3entities.

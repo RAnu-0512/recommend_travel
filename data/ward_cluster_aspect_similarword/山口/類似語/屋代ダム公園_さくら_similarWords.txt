@@ -1,0 +1,7 @@
+--------------------similar_words:屋代ダム公園_さくら--------------------
+top3 entities near to cluster0>>
+花見, 桜, 公園
+top3 entities near to cluster1>>
+風情, 趣き, 雰囲気
+top3 entities near to cluster2>>
+本数, 回数, 便数

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青山公園(東京都港区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+避難所, 街歩き
+cluster1:(21)
+季節, 年齢, 大人, 左手, 人, 西麻布, オブジェ, 左, 人々, 時期, そば, エリア, 点, 息抜き, 時間, 中, 方, 六本木, スポット, 雰囲気, もの
+cluster2:(2)
+南地区, 北
+cluster3:(2)
+都会, 都心
+cluster4:(2)
+木々, 緑
+cluster5:(8)
+公園, 乃木坂駅, 工事, 散歩, 施設, 方面, 災害, 周辺
+cluster6:(1)
+年齢層
+cluster7:(7)
+青山霊園, 青山公園, 緑化公園, 青山墓地, 青山, 国立新美術館, 青山一丁目駅
+
+howmany entities : 45
+howmany clusters : 8
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 8
+deleted 0entities.

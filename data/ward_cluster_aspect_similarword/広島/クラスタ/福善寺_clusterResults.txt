@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福善寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石段参道, 石段
+cluster1:(11)
+彫刻, 上, 側, 中世, 寺, 少女, ロープウエー駅, 山門, 風情, 芸術作品, エスカレーター
+cluster2:(2)
+山城跡, たつ塀
+cluster3:(1)
+開創
+cluster4:(1)
+戦国時代末期
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

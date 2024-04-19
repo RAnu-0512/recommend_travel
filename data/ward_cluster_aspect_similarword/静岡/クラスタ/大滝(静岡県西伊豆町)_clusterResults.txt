@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大滝(静岡県西伊豆町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+七滝めぐり, 河津七滝, 川津七滝, ・・・七滝
+cluster1:(9)
+駐車場, 一般客, 温泉, 宿泊施設, 観光地, 旅館, 露天温泉, 島温泉, 観光
+cluster2:(2)
+土肥, 伊豆
+cluster3:(3)
+大滝, ネイチャービレッジ大滝, 滝
+cluster4:(1)
+東名沼津
+cluster5:(7)
+坂道, 林道, 坂, 階段, 県道, 水量, 道
+cluster6:(4)
+土産, ビル, 所有, 距離
+cluster7:(26)
+車, ワサビ田, 石廊崎, 気, 周り, 途中, 心, チャイニーズ, こと, 西伊豆, 日本, マイナスイオン, もの, 人, 気持ち, 時間, 大沢里, ワサビ, 中, 近く, スポット, 場所, 帰り道, 他, 方, 見応え
+cluster8:(4)
+豪快さ, 勢い, 迫力, 良さ
+cluster9:(1)
+高低差
+
+howmany entities : 61
+howmany clusters : 10
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 7
+deleted 4entities.

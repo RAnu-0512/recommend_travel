@@ -1,0 +1,15 @@
+--------------------similar_words:古川親水公園--------------------
+top3 entities near to cluster0>>
+親水, 公園, 水辺
+top3 entities near to cluster1>>
+子供, 子ども, 親達
+top3 entities near to cluster2>>
+季節, 時期, 風景
+top3 entities near to cluster3>>
+公園, 散歩, 木陰
+top3 entities near to cluster4>>
+陽気, 天気, お天気
+top3 entities near to cluster5>>
+時間帯, 時間, 涼しい
+top3 entities near to cluster6>>
+船堀, 古川, 川

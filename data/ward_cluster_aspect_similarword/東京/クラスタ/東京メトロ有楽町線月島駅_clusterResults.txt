@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ有楽町線月島駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+混雑具合, 乗り換え駅, 有楽町線, 舞浜, もんじゃ, 月島駅, 朝夕, 月島もんじゃ, 京葉線, 駅, 改札, 乗換え, 天気, 下町, 江戸線, 月島
+cluster1:(3)
+相互直通運転, 西武池袋線, 東武東上線
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:JR倉吉駅内観光案内所--------------------
+top3 entities near to cluster2>>
+案内, 名所, 宿泊
+top3 entities near to cluster3>>
+土蔵群, 商家群, 土蔵, 商家
+top3 entities near to cluster4>>
+駅, 駅前, 構内
+top3 entities near to cluster5>>
+バス, 高速, タクシー
+top3 entities near to cluster6>>
+時刻, バス, びばあ
+top3 entities near to cluster7>>
+駅, 駅名, 駅舎

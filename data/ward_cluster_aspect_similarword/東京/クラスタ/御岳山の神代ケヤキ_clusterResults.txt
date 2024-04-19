@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御岳山の神代ケヤキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+幹, 幹周
+cluster1:(2)
+迫力, 全貌
+cluster2:(11)
+途中, ケヤキ, 天然記念物, ケーブルカー, 口, 印象, デコボコ, 御岳山, こと, 道, 雰囲気
+cluster3:(4)
+真上, 木, 下, 脇
+cluster4:(7)
+神代, 神社, 霊験, 坂道, 参道, 御嶽山駅, 神木
+cluster5:(1)
+案内板
+cluster6:(1)
+御嶽神社
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 7
+deleted 0entities.

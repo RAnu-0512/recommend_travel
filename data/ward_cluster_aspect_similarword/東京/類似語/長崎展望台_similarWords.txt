@@ -1,0 +1,15 @@
+--------------------similar_words:長崎展望台--------------------
+top3 entities near to cluster0>>
+潮吹き, クジラ, イルカ
+top3 entities near to cluster1>>
+バイク, クルマ
+top3 entities near to cluster2>>
+海, 海辺, 陸
+top3 entities near to cluster3>>
+兄島, 弟島, 姉島
+top3 entities near to cluster4>>
+徒歩, 町, 時期
+top3 entities near to cluster5>>
+反対, 賛成, 押し切る
+top3 entities near to cluster6>>
+展望台, 展望, 瞻星台, 瞻星

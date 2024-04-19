@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野守の池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+眼下, 高台
+cluster1:(3)
+場所, 大井川, 昔
+cluster2:(1)
+外周
+cluster3:(3)
+池, 天王山公園, 露店
+cluster4:(1)
+家山駅
+cluster5:(1)
+野守
+cluster6:(1)
+へら鮒釣り
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

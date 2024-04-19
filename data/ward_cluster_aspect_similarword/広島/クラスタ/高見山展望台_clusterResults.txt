@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高見山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展望台, 駐車場
+cluster1:(2)
+鑑賞, 日没鑑賞
+cluster2:(3)
+夕日, 島々, 景色
+cluster3:(2)
+方向, 状態
+cluster4:(4)
+高見山, 瀬戸内海, それぞれ, 年間
+cluster5:(2)
+季節, 味
+cluster6:(1)
+胃
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

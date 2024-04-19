@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松崎町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+観光どころ, 名所, 伊豆旅行, 松崎町観光協会, 観光スポット, 観光客, 観光, 観光協会
+cluster1:(34)
+美しさ, 駐車場, 徒歩散策, 高齢化, 菜の花, 地域, 今回, 田んぼ, 花畑, ガイド, 時期, レンタサイクル, 手洗い, こと, バス, 前回, 川岸, 満開, 松崎町, ロマン, チラホラ, 歴史, 壁, 案内地図, 花, 情報, 桜, 建物, 目的地, コントラスト, ガイドマップ, 中心, 方, 町
+
+howmany entities : 42
+howmany clusters : 2
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 2
+deleted 0entities.

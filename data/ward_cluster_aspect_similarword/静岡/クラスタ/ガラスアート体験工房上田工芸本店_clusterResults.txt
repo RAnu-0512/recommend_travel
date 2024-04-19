@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ガラスアート体験工房上田工芸本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ガラスアート体験, 体験, 制作体験
+cluster1:(3)
+予定, 時間, 予定時間
+cluster2:(4)
+工房, 看板, 店, 道
+cluster3:(3)
+妻, 次, 作品
+cluster4:(5)
+ピアス, ビーズ, ガラス, パーツ, 箸置き
+cluster5:(6)
+道案内, 上がり, 仕上がり, ベネチアンガラス, 子ども, デザイン
+cluster6:(1)
+フォトフレーム
+cluster7:(1)
+色
+cluster8:(5)
+こと, もの, 箸置き作り, 参考, 方
+cluster9:(1)
+箱根
+cluster10:(1)
+子供達
+
+howmany entities : 33
+howmany clusters : 11
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 7
+deleted 4entities.

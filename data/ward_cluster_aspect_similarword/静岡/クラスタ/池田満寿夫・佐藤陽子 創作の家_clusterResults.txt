@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:池田満寿夫・佐藤陽子 創作の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(40)
+気, アトリエ, 感性, 途中, 顔, 多く, 住まい, 海抜, 取っ手, 食事どころ, 家, 空間, 思い出, ユーモア, 普通, センス, 創作, 仕事, もの, 住宅, 人, レリーフ, タイム, 階段, ジョーク, 暮らし, 家具, プライベート, 夫婦, 建物, 場所, 眺望, 先生, 生活, 施設, レトロ, 方面, 環境, 作品, 思い
+cluster1:(2)
+練習室, 芸術家
+cluster2:(7)
+熱海, 熱海駅, 伊豆山, 陽子, 池田満寿夫, 佐藤陽子, 海
+
+howmany entities : 49
+howmany clusters : 3
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 2
+deleted 2entities.

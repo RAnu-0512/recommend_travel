@@ -1,0 +1,15 @@
+--------------------similar_words:老眼めがね博物館--------------------
+top3 entities near to cluster0>>
+問屋
+top3 entities near to cluster1>>
+外観, 値段, 駅
+top3 entities near to cluster2>>
+博物館, ファッション, サングラス
+top3 entities near to cluster3>>
+メガネ, めがね, 老眼鏡
+top3 entities near to cluster6>>
+釣, 魚釣り
+top3 entities near to cluster9>>
+老眼, 老眼鏡, 眼鏡
+top3 entities near to cluster10>>
+老眼, ・・・・・, ー・

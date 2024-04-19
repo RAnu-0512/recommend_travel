@@ -1,0 +1,21 @@
+--------------------similar_words:道の駅 きなんせ岩美--------------------
+top3 entities near to cluster0>>
+食材, 食べ物, 美味しい
+top3 entities near to cluster1>>
+軽食, 休憩, 昼食
+top3 entities near to cluster2>>
+駅道, 駅, 砂丘
+top3 entities near to cluster4>>
+蟹, カニ
+top3 entities near to cluster5>>
+配送, 冷凍, 冷蔵
+top3 entities near to cluster6>>
+定食, 食堂, ジャンボカツカレー
+top3 entities near to cluster7>>
+鮮魚, 海鮮, 刺身
+top3 entities near to cluster8>>
+品数, 品ぞろえ, 値段
+top3 entities near to cluster9>>
+海鮮, 野菜, 特産
+top3 entities near to cluster10>>
+水産, 佰老

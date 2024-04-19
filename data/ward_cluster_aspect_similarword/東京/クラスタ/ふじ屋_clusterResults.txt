@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふじ屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+デザイン, 手ぬぐいや, 店, 土産, 手ぬぐい, てぬぐい, 模様, 目, もの
+cluster1:(2)
+名画, 浅草
+cluster2:(1)
+滑稽画
+cluster3:(1)
+ふじ屋
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

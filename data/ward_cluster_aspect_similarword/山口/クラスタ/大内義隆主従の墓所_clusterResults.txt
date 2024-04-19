@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大内義隆主従の墓所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+寺, お参り, 名刹, 境内, 本堂, 紅葉, 曹洞宗
+cluster1:(6)
+中, もの, 地, 時期, 方, 死
+cluster2:(5)
+冷泉坂, 大寧寺, 大内義隆, 大内, 毛利輝元
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

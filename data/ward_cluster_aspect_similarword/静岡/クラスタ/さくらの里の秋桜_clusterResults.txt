@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さくらの里の秋桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+桜, ソメイヨシノ, 種類, 大室山, さくら, コスモス
+cluster1:(2)
+麓, 園内
+cluster2:(1)
+さくらの里
+cluster3:(1)
+伊東市
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

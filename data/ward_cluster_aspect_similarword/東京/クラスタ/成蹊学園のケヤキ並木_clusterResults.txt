@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:成蹊学園のケヤキ並木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+正門脇, ケヤキ並木, 並木
+cluster1:(3)
+吉祥寺駅, 駅, 徒歩
+cluster2:(2)
+門, 本館
+cluster3:(2)
+周り, 方
+cluster4:(3)
+昔, 間, 前
+cluster5:(1)
+コンビニ程度
+cluster6:(2)
+大学, 学生
+cluster7:(3)
+成蹊大学, 吉祥寺, 成蹊学園
+cluster8:(2)
+気持ち, 木漏れ日
+cluster9:(2)
+ドラマ, 大学生
+cluster10:(1)
+撮影
+cluster11:(1)
+三鷹
+cluster12:(10)
+季節, ケヤキ, 空間, 夏, 新緑, 学園ドラマ, ケヤキ並木道, 道路, バス, 並木道
+cluster13:(1)
+観光地
+cluster14:(1)
+名門私立
+cluster15:(1)
+左右対称シンメトリー
+cluster16:(1)
+成蹊
+
+howmany entities : 39
+howmany clusters : 17
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 17
+deleted 0entities.

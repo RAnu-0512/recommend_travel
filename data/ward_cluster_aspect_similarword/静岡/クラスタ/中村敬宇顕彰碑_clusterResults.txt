@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中村敬宇顕彰碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+教育者, 啓蒙思想家
+cluster1:(2)
+幕末, 明治
+cluster2:(2)
+宇佐美駅, 宇佐美
+cluster3:(3)
+こと, 人物, 方
+cluster4:(1)
+国道
+cluster5:(1)
+西隣
+cluster6:(1)
+中村敬宇
+cluster7:(6)
+顕彰碑, 谷中霊園, 墓所, 墓, 石碑, 碑
+cluster8:(1)
+了ごん寺
+cluster9:(1)
+天は自ら助くる者を助く
+
+howmany entities : 20
+howmany clusters : 10
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 11entities.

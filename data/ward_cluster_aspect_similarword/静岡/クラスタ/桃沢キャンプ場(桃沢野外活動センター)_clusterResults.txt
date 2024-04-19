@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桃沢キャンプ場(桃沢野外活動センター)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+利用者, 利用料
+cluster1:(3)
+施設, 方々, 家族
+cluster2:(5)
+自然, トイレ, 気持ち, バーベキュー, 川遊び
+cluster3:(1)
+キャンプ場
+cluster4:(1)
+子供連れ
+cluster5:(1)
+桃沢キャンプ場
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

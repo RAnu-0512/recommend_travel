@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しぶや沖縄>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食事, 料理
+cluster1:(1)
+味
+cluster2:(1)
+沖縄
+cluster3:(1)
+食べごたえ
+cluster4:(1)
+ni川o'b')xネット
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥生貝塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+弥生式土器発掘ゆかり, 弥生式土器, 弥生二丁目遺跡, 弥生式土器発掘ゆかりの地
+cluster1:(21)
+弥生, 所, 案内板, 説明板, 石碑, 弥生キャンパス, 場所, 反対側, 古代, 地, 東京大学, 人, 本郷, 壺, 案内図, 敷地, 東側, こと, 言問, 国指定史跡, 辺り
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 2
+deleted 0entities.

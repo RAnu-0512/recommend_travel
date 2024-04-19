@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藤枝市郷土博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+田中城跡, 蓮華寺池公園, 今川・家康, 藤枝市郷土博物館, 手塚治虫, 蓮花寺池公園, 田中藩, 藤枝静男
+cluster1:(11)
+博物館, モノ, 絵, どちらか, 話題, イベント, 順, 機会, 情報, 映像, 期待
+cluster2:(2)
+池, 桜
+cluster3:(2)
+バス, 駅
+cluster4:(2)
+訪問, 移動
+cluster5:(1)
+距離
+cluster6:(1)
+両方込み
+cluster7:(1)
+曽宮一念
+cluster8:(11)
+常設展示室, 写真撮影, 特別展示室, 展示, 映像展示, 特別展, 入場料, 文学館展示室, 企画展示, 郷土博物館, 文学館
+cluster9:(3)
+藤枝静男没後30年記念特別展, 古墳・駿府の動乱・田中城・藤枝宿, 特別展⇒文学館⇒郷土博物館
+
+howmany entities : 42
+howmany clusters : 10
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 4
+deleted 9entities.

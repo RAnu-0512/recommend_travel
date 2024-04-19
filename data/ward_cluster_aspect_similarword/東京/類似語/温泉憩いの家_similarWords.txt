@@ -1,0 +1,9 @@
+--------------------similar_words:温泉憩いの家--------------------
+top3 entities near to cluster0>>
+風呂, 温泉, 湯
+top3 entities near to cluster1>>
+集落, 民宿, 建物
+top3 entities near to cluster2>>
+海岸, 島内, 砂浜
+top3 entities near to cluster3>>
+室内, 屋外, 屋内

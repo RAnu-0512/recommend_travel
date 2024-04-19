@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤野観音堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+赤野, 静岡県, 沼津新八景, 赤野観音, 沼津駅, 赤野観音堂
+cluster1:(9)
+車, 江戸初期, 文化財, 木造, 観音堂, 歴史, 造り, 建物, 場所
+cluster2:(3)
+建造物, 建築様式, 平屋建て
+cluster3:(2)
+茅葺, 寄棟造
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 2entities.

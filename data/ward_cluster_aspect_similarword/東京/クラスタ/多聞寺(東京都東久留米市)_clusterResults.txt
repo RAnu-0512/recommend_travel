@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多聞寺(東京都東久留米市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駅, 東久留米駅, 本町, 東久留米市
+cluster1:(2)
+寺, 本堂
+cluster2:(4)
+家, 気, 場, 場所
+cluster3:(2)
+川, 奥
+cluster4:(1)
+朱印
+cluster5:(1)
+西武線
+cluster6:(1)
+駐車場
+cluster7:(1)
+多聞寺
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 8
+deleted 0entities.

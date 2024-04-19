@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヤマギワソフト館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゲーム, ソフト
+cluster1:(1)
+CD
+cluster2:(1)
+アニメ関連
+cluster3:(1)
+イベント会場
+cluster4:(1)
+ビル全体
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

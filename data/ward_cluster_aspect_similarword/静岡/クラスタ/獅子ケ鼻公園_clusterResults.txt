@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:獅子ケ鼻公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+獅子, 石, 岩
+cluster1:(3)
+看板, 石碑, 塔
+cluster2:(1)
+倒木
+cluster3:(4)
+春, 秋, 新緑, 桜
+cluster4:(13)
+車, アスレチックコース, 道のり, アルミ, 弘法大師, 人, アスレチック, バードウォッチング, 遊歩道, ウォーキング, 自然, 温もり, スポット
+cluster5:(3)
+体, 顔, 名前
+cluster6:(2)
+途中, 中
+cluster7:(2)
+こと, 場所
+cluster8:(1)
+右
+cluster9:(1)
+木
+cluster10:(1)
+地
+cluster11:(1)
+空気
+cluster12:(6)
+ハイキングコース徒歩, 展望台, 運動不足, 公園, 遊具, 獅子ケ鼻公園
+cluster13:(1)
+ぼうらや
+cluster14:(3)
+静岡県, 磐田市, 通行不能空海
+
+howmany entities : 45
+howmany clusters : 15
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 7
+deleted 10entities.

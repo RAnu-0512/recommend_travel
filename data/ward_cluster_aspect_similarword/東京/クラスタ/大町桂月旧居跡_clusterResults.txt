@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大町桂月旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+文芸評論家, 随筆家
+cluster1:(10)
+酒, 明治, 人生, 国文学者, ペンネーム, 出身, 目白台, もの, 詩人, 大正
+cluster2:(2)
+説明板, 住宅地
+cluster3:(4)
+文京区, 高知県, 桂浜, 大町桂月
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

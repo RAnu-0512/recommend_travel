@@ -1,0 +1,25 @@
+--------------------similar_words:東後畑棚田--------------------
+top3 entities near to cluster0>>
+棚田, 田んぼ
+top3 entities near to cluster1>>
+イカ, 釣り船, 漁船
+top3 entities near to cluster2>>
+時間帯, 時間
+top3 entities near to cluster4>>
+日, 夕方, 午後
+top3 entities near to cluster5>>
+景色, 風景, 写真
+top3 entities near to cluster6>>
+朱色, 底
+top3 entities near to cluster7>>
+晴れ, 曇り空, 曇り
+top3 entities near to cluster9>>
+風景, 景色, 光景
+top3 entities near to cluster10>>
+山間部, 山間, 山あい
+top3 entities near to cluster11>>
+棚田, 水田, 田んぼ
+top3 entities near to cluster12>>
+海岸, 海, 砂浜
+top3 entities near to cluster13>>
+空, 漁火, 夕焼け

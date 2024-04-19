@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大川温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+投稿, 名前
+cluster1:(4)
+目, 人, 企画, 前
+cluster2:(2)
+気持ち, 雰囲気
+cluster3:(4)
+伊豆熱川, アメニティ, 露天風呂, コンビニ
+cluster4:(1)
+茶褐色
+cluster5:(1)
+温泉郷
+cluster6:(2)
+体, 色
+cluster7:(3)
+美味, 音, 風景
+cluster8:(10)
+気, 事, 評価, 問題, 気持ち程度, 印象, 場所, そと, 世話, 理由
+cluster9:(3)
+さか, 中止, 雨天
+cluster10:(24)
+客, 電車, 足湯, 東伊豆, 海岸, 漁港, 濁り, 蛍見学, 海水浴客, 駅, 宿, お湯, 旅館, 伊豆, 国道, 公共露天風呂, 食事, 海, 波, 海岸沿い, 風呂, 湯, 磯, 東伊豆温泉郷
+cluster11:(6)
+大川温泉郷, 宿大川, 大川温泉, 大川駅, 宿伊豆おおかわ, 伊豆大川駅
+cluster12:(9)
+温泉, 北川, 温泉街, 温泉町, 泉質, 温泉地, 磯の湯, 日帰り温泉, 北川温泉
+
+howmany entities : 71
+howmany clusters : 13
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 8
+deleted 8entities.

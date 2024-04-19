@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江戸屋横町>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+萩城下町, 菊屋
+cluster1:(4)
+観光スポット, 西側, 順, 通り
+cluster2:(1)
+横町・伊勢屋
+cluster3:(1)
+横町・江戸屋横町
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

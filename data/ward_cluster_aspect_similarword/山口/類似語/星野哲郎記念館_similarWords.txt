@@ -1,0 +1,19 @@
+--------------------similar_words:星野哲郎記念館--------------------
+top3 entities near to cluster0>>
+展示品, 展示, 品々
+top3 entities near to cluster1>>
+作詞, 作曲, 編曲
+top3 entities near to cluster2>>
+里, 工房, 赫舎
+top3 entities near to cluster3>>
+施設, 歴史, 希望
+top3 entities near to cluster4>>
+劇場, 通路, 座席
+top3 entities near to cluster5>>
+ヒット曲, 楽曲, ヒット
+top3 entities near to cluster6>>
+大正, 平成, 明治
+top3 entities near to cluster7>>
+入館, 休憩, 入場
+top3 entities near to cluster8>>
+演歌, 都, はるみ

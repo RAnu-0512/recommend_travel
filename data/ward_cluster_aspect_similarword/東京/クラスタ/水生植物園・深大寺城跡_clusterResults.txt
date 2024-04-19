@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水生植物園・深大寺城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+神代植物園, 水生植物園, 本園, 植物園
+cluster1:(2)
+入場無料, 入場料
+cluster2:(2)
+公園, 敷地
+cluster3:(3)
+自然, しょうぶ, 深大寺
+cluster4:(1)
+池
+cluster5:(1)
+湿地
+cluster6:(1)
+菖蒲
+cluster7:(6)
+場所, 設備, 施設, 時期, ころ, 徒歩
+cluster8:(1)
+散策路
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

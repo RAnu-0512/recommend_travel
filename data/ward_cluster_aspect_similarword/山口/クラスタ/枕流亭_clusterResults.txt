@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:枕流亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+倒幕, 安部, 志士たち, 長州
+cluster1:(5)
+離れ, デザイン, 人, 話, 場所
+cluster2:(3)
+邸宅, 展示, 建物
+cluster3:(1)
+別荘地
+cluster4:(1)
+薩長同盟
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

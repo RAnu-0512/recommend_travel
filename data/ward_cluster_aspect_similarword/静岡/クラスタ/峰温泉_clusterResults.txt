@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:峰温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+峰温泉大噴湯公園, 町営日帰り温泉・踊り子温泉会館
+cluster1:(29)
+地上, 時期, こと, 並木, 河津川, 早春, 日本, もの, 駅, 一定時間, 周辺, ところ, 人, 伊豆半島, BAR, チョット拍子抜け, 目的, 会場, 時間, 露天風呂, 景色, アジアンテイスト, 散歩, 夕方, 気分, 前, サービス, 説明, のんびり桜
+cluster2:(4)
+静岡県, 河津温泉, 河津駅, 河津桜
+cluster3:(7)
+峰温泉, 踊り子温泉会館, ここ峰温泉, 日帰り温泉施設, 温泉旅館, 温泉宿, 温泉地
+cluster4:(3)
+かけ流し温泉, 静かな温泉, 静かな
+cluster5:(3)
+噴湯ショー, 噴湯公園, 噴湯
+cluster6:(8)
+温泉, 足湯, 温泉郷, 宿, お湯, 源泉, 風呂, 湯
+cluster7:(1)
+自噴泉
+
+howmany entities : 57
+howmany clusters : 8
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 6
+deleted 3entities.

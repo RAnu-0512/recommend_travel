@@ -1,0 +1,15 @@
+--------------------similar_words:造幣局の「花のまわりみち」--------------------
+top3 entities near to cluster0>>
+バス, 駅, 駐車
+top3 entities near to cluster2>>
+桜, 花見, 満開
+top3 entities near to cluster3>>
+季節, 気候, 時期
+top3 entities near to cluster4>>
+八重桜, 花, 満開
+top3 entities near to cluster5>>
+臨時, 昼間, 月
+top3 entities near to cluster7>>
+周辺, 一帯, 近辺
+top3 entities near to cluster9>>
+敷地, 私有地, 建物

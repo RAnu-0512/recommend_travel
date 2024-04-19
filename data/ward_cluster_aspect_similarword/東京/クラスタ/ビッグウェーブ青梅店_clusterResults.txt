@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビッグウェーブ青梅店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩, 波
+cluster1:(8)
+写真, ガイド, 店, スリル, ショップ, ハイドロスピード, 基本ガイド, 思い出
+cluster2:(5)
+自信, 方, こと, 想像, 方々
+cluster3:(2)
+指名制, 運動神経
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

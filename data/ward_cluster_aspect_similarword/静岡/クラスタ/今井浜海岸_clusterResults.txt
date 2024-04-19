@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今井浜海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+今井浜, 桜まつり, 伊豆急今井浜海岸駅, 伊豆, 伊豆舞子, 河津桜, 東京横浜
+cluster1:(15)
+人付き合い, ビーチ, ホテル, ビール, サイズ, 日帰り, サーフィン, 伊豆急行, 売り, マリンシューズ, 気持ち, 白砂青松, 今井浜海岸, トイレ, シュノーケリング
+cluster2:(2)
+夏場, 夏
+cluster3:(4)
+時期, こと, 感じ, 点
+cluster4:(2)
+周り, 近く
+cluster5:(4)
+人, 中, 他, 方
+cluster6:(2)
+家, 子供
+cluster7:(1)
+近隣
+cluster8:(1)
+環境
+cluster9:(6)
+釣り, 休憩スペース, 景色, 昼食, 天気, 散歩
+cluster10:(24)
+海水浴場, 温泉, てら砂浜周り, 徒歩圏, 岩, 岩場, 立地条件, 海岸, 浜, 海水浴客, 遠浅, 駅, おり波, 白浜, 徒歩, 今井浜海岸駅, 波, 海, 砂浜, 観光, 温泉地, 海岸沿い, 海岸線, 方面
+
+howmany entities : 68
+howmany clusters : 11
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 6
+deleted 8entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:郷土博物館分館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+分館, 場所, パネル展示, 郷土博物館, もの, 本館, 建築, 徒歩, 展示
+cluster1:(3)
+杉並区, 杉並, 荻窪駅
+cluster2:(3)
+杉並区立郷土博物館, 天沼弁天池公園, 区立郷土博物館
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

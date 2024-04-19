@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR目白駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大学, 学生
+cluster1:(5)
+隣, 気, 前後, 前, 目
+cluster2:(7)
+学習院大学, 高田馬場, 世界, 雰囲気, ステンドグラス, サイズ, キャンパス
+cluster3:(11)
+目白, 目白駅, 駅舎, 駅, 改札, 目黒駅, 学習院, 住宅街, 山手線駅, の手線, 池袋
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

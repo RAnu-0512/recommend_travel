@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青ガエル観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+案内板, 青ガエル観光案内所, 観光案内所, 観光客, 案内, 青ガエル案内所, 案内所
+cluster1:(2)
+JR渋谷駅, 渋谷ハチ公前広場
+cluster2:(2)
+ハチ公像, ハチ口
+cluster3:(4)
+車内, 鉄道ファン, 電車, 車両
+cluster4:(6)
+緑色, 駅, 広場, 施設, 待ち合わせ場所, 装飾
+cluster5:(14)
+待ち合わせ, 試み, 海外, 人, ハローキティ, おなじみ, 全国, 渋谷, ハチ公, スクランブル, 中, こと, スポット, 方々
+cluster6:(1)
+現役時代
+cluster7:(1)
+東急線
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 8
+deleted 0entities.

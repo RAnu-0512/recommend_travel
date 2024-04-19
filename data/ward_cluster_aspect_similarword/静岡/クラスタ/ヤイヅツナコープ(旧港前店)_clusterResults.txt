@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヤイヅツナコープ(旧港前店)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アクアス焼津, 焼津店
+cluster1:(2)
+鮮魚店, 直売店
+cluster2:(1)
+鮪丼
+cluster3:(16)
+魚, うみえーる, 美味, 土産, 隣, ワンコイン, 限定, 南マグロ, 盛り合わせ, 物, 人, 富士山, 本題, ツナ缶詰め, マグロ, 方
+cluster4:(1)
+焼津漁業協同組合
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 6entities.

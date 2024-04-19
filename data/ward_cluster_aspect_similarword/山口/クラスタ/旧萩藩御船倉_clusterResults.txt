@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧萩藩御船倉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+造り, 迫力, 感謝, 想像
+cluster1:(10)
+中, 前, もの, 御座船, 昔, こと, 屋根, サイズ, 場所, 歴史
+cluster2:(3)
+あり船, 船, 船倉
+cluster3:(1)
+保存状態
+cluster4:(8)
+松本川, 川, 住宅街, 石垣, 浜崎地区, 萩藩, 河口, 石垣造り
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 5
+deleted 0entities.

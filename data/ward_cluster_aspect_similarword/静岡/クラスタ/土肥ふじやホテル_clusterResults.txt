@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土肥ふじやホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+フロント, 言葉, レビュー, 友達オススメ, GW, 仲良, もの, 時間, 露天風呂, ネット, 間, 方
+cluster1:(10)
+客, 仲居, 部屋食, 布団, 観光, 客室露天風呂, 部屋, 一泊目, 掃除, 宿泊
+cluster2:(1)
+nhヾ
+cluster3:(4)
+接客業失格, 伝え方, たとえ伝え方, 掃除担当者
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 1entities.

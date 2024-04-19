@@ -1,0 +1,9 @@
+--------------------similar_words:都営大江戸線 青山一丁目駅--------------------
+top3 entities near to cluster0>>
+海岸線, 環状線, 海岸, 環状
+top3 entities near to cluster1>>
+駅, 球場, 乗換
+top3 entities near to cluster2>>
+外苑, 明治, 神宮
+top3 entities near to cluster3>>
+丁目, 駅, 一

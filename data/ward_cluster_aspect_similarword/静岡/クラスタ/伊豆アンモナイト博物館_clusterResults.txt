@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆アンモナイト博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+化石クリーニング体験, 化石, 発掘体験, 発掘, 化石掘り
+cluster1:(2)
+子供達, 子供たち
+cluster2:(4)
+周り, 横, 近く, 前
+cluster3:(2)
+目, 話
+cluster4:(6)
+主人, 帰宅, 息子, 夫, 夫婦, 子供
+cluster5:(26)
+アンモナイト博物館, 博物館, コロナ, ネックレス, 北海道, 岩, アンモナイト, 館内, 館長, アクセサリー, 入り口, レプリカ, タガネ, ところ, 伊豆, クリーニング, アプローチ, マダガスカル, 買い物, アドバイス, コーナー, コア, 石, テンション, ポコン, 土産物
+cluster6:(2)
+土産, 土産コーナー
+cluster7:(2)
+説明文, 説明
+cluster8:(8)
+こと, 方, もの, 素晴らしさ, 形, 違い, 結果アンモナイト, 且つロマン
+cluster9:(2)
+興味, 人柄
+cluster10:(2)
+産地, アンモナイト柄
+cluster11:(2)
+クリーニング体験, 旅行
+cluster12:(2)
+物, 建物
+cluster13:(2)
+値段, 価値
+cluster14:(1)
+宝物
+
+howmany entities : 68
+howmany clusters : 15
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 5
+deleted 19entities.

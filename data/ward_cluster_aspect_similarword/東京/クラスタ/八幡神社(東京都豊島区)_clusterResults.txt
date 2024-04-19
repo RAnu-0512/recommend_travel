@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡神社(東京都豊島区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+∞, ファン, 黄色, 模様, 周り, 色
+cluster1:(2)
+電車, 線路
+cluster2:(2)
+絵馬, 神社
+cluster3:(1)
+関ジャニ∞
+cluster4:(2)
+坂上田村麻呂によってひらかれた由緒正しき神社, 関赤羽八幡神社
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

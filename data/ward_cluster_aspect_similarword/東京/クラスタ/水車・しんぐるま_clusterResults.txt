@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水車・しんぐるま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 息子
+cluster1:(6)
+見応え, ガイド, ところ, 話, 多く, ペース
+cluster2:(2)
+水車, 野川
+cluster3:(1)
+ひき臼
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

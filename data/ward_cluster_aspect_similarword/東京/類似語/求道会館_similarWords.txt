@@ -1,0 +1,11 @@
+--------------------similar_words:求道会館--------------------
+top3 entities near to cluster0>>
+建築, 住宅, 建物
+top3 entities near to cluster1>>
+仏教, 信仰, 宗教
+top3 entities near to cluster2>>
+建物, 外観, 洋風
+top3 entities near to cluster5>>
+公衆, 便所, 面前
+top3 entities near to cluster6>>
+会館, 四富, 常観

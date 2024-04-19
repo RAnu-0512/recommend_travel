@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:時の鐘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+三島宿, 三嶋大社, 三島八景, 三島広小路駅, 三島
+cluster1:(2)
+観光客, 観光
+cluster2:(7)
+巨石, 社殿, 神社, 境内, 稲荷, 町, 寺
+cluster3:(3)
+真下, 川辺, 鳥居
+cluster4:(2)
+電車, JR
+cluster5:(2)
+神, 西
+cluster6:(3)
+隣, 途中, 近く
+cluster7:(7)
+うなぎ, 三ツ石, 三島広小路, ベンチ, もの, 人, あたり
+cluster8:(1)
+水
+cluster9:(1)
+休憩
+cluster10:(6)
+風情, 平和, 戦争, 歴史, うなぎ屋, 風景
+cluster11:(3)
+大きさ, 時の鐘, 鐘
+cluster12:(7)
+川沿い, 川, 東海道五, 源兵衛川, 白旗橋, 三次ウォーキング, 三石神社
+
+howmany entities : 49
+howmany clusters : 13
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 8
+deleted 8entities.

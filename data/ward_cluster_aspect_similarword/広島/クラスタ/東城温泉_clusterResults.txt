@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東城温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+寝湯, 東城温泉, 温泉, 温泉湯
+cluster1:(12)
+焼き肉, リラックス, 方, 耳障り, 露天風呂, 地元, 昔, プール, トレーニングジム, 時間, 気持ち, 夏
+cluster2:(2)
+価値, 声
+cluster3:(1)
+長閑
+cluster4:(3)
+スポーツジム, 温水, ジム
+cluster5:(1)
+休憩室
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口県長者ケ原グリーンスポーツ広場キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+グラウンド, スポーツ
+cluster1:(1)
+キャンプ
+cluster2:(1)
+試合
+cluster3:(1)
+観光スポット
+cluster4:(1)
+山口県長者ケ原グリーンスポーツ広場キャンプ場
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

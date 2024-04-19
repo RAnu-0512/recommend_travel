@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:工房聖庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ろくろ体験, ろくろ, 電動ろくろ
+cluster1:(3)
+茶, 釜, 陶芸
+cluster2:(3)
+完成, 製作, 持参
+cluster3:(2)
+気, 方
+cluster4:(2)
+予定, 今回
+cluster5:(7)
+和菓子, ハンカチ, 色, 初心者, エプロン, マグカップ, 上がり
+cluster6:(8)
+材料, 体験, 先生, 指導, 原理, 説明, 経験, 話
+cluster7:(1)
+服装
+cluster8:(1)
+楽しさ
+cluster9:(1)
+萩焼
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 10
+deleted 0entities.

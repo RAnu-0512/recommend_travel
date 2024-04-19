@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フィッシングパーク光>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+子供, 孫, 金, メジナ, 家族, 気, 貸し出し, 初心者, 場所, 煮付け, 釣り場, 方
+cluster1:(3)
+釣り, 餌, 竿
+cluster2:(3)
+小魚, 刺身, 魚
+cluster3:(1)
+朝まずめ
+cluster4:(1)
+釣りざお
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

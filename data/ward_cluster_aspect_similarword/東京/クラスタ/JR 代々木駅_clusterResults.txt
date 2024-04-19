@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR 代々木駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+神宮, 明治神宮, 明治
+cluster1:(10)
+総武線, 代々木, 都営地下鉄, ライン, 街並み, 道のり, ホーム, ドコモタワー, 行き先, 乗り換え
+cluster2:(9)
+大体, 人, 他, 感じ, 前, 時間, 方, 次, 位
+cluster3:(8)
+北側, JR, 距離, 街, 隣り, 電車, 地下, 参道
+cluster4:(2)
+不便さ, 立ち位置
+cluster5:(2)
+乗降客, 乗降客数
+cluster6:(3)
+山手線, 江戸線, 上り総武線
+cluster7:(3)
+JR新宿駅, 渋谷・品川, JR 代々木駅
+cluster8:(10)
+新宿駅, 駅, 原宿駅, 各駅, 駅周辺, 方面行き, 各駅停車, 代々木駅, 新宿, 都営
+
+howmany entities : 50
+howmany clusters : 9
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 9
+deleted 0entities.

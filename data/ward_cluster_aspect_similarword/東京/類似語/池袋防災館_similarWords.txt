@@ -1,0 +1,37 @@
+--------------------similar_words:池袋防災館--------------------
+top3 entities near to cluster0>>
+地震, 震度, 余震
+top3 entities near to cluster1>>
+災害, 自然, 水害
+top3 entities near to cluster2>>
+体験, 災害, 地震
+top3 entities near to cluster3>>
+防災, 館, 災害
+top3 entities near to cluster4>>
+防災, 災害, 防犯
+top3 entities near to cluster5>>
+訓練, 避難, 防災
+top3 entities near to cluster6>>
+資料, 郷土, 文化
+top3 entities near to cluster9>>
+子供, 子ども, 大人
+top3 entities near to cluster10>>
+身, 知識, 基礎
+top3 entities near to cluster11>>
+学習, 勉強, 展示
+top3 entities near to cluster12>>
+対応力, 説得力, 対応, 説得
+top3 entities near to cluster13>>
+救急, 講習, 救命
+top3 entities near to cluster14>>
+スキル, カード, ステータス
+top3 entities near to cluster15>>
+入り口, コーナー, 出入り口
+top3 entities near to cluster16>>
+消防庁, 消防署, 消防
+top3 entities near to cluster17>>
+数々, 大震災, 各地
+top3 entities near to cluster19>>
+施設, 建物, 設備
+top3 entities near to cluster20>>
+体験, 見学, 消火

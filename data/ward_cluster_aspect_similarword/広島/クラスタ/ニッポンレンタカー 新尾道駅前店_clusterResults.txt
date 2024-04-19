@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 新尾道駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+タイムズ, 山陽新幹線
+cluster1:(1)
+ニッポンレンタカー
+cluster2:(1)
+駅レンタカー
+cluster3:(1)
+規模
+cluster4:(1)
+新尾道駅
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:長雁木と対馬雁木--------------------
+top3 entities near to cluster0>>
+歴史, 由緒, 地名
+top3 entities near to cluster1>>
+港船, 海船, 港, 海
+top3 entities near to cluster2>>
+石段, 階段, 参道

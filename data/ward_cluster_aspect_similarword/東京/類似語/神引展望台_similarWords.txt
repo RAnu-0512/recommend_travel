@@ -1,0 +1,15 @@
+--------------------similar_words:神引展望台--------------------
+top3 entities near to cluster0>>
+展望台, 見晴らし台, 展望, 見晴らし
+top3 entities near to cluster1>>
+階段, 通路
+top3 entities near to cluster3>>
+時間, 周り, 時
+top3 entities near to cluster4>>
+絶景, 景色, 夜景
+top3 entities near to cluster5>>
+海船, 海, 船舶
+top3 entities near to cluster6>>
+島々, 島, 島内
+top3 entities near to cluster7>>
+民宿, 旅館, ペンション

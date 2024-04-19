@@ -1,0 +1,9 @@
+--------------------similar_words:東海道広重美術館--------------------
+top3 entities near to cluster0>>
+絵画, 風景, 作品
+top3 entities near to cluster1>>
+駅, 裏手, 入口
+top3 entities near to cluster2>>
+展示, 資料, 出展
+top3 entities near to cluster3>>
+広重, 浮世絵, 北斎

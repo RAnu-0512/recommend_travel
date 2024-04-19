@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一般社団法人町田市観光コンベンション協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ぽっぽ町田, 町田駅, 町田
+cluster1:(2)
+名産, 菓子
+cluster2:(20)
+事務所, 一般, 店, 場所, スターバックスコーヒー, イベント, 人, パンフ, 案内, 付近, コンベンション協会, 印象, ブックオフ, 中, 北海道, ベンチ, 周辺, 雰囲気, 地元, フロア
+cluster3:(4)
+ファッションビル, ビル入口, 飲食店, ビル
+cluster4:(2)
+繁華街, ならぶ繁華街
+cluster5:(2)
+物産館, 物産展
+cluster6:(3)
+観光, 観光案内, 観光案内所
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 7
+deleted 0entities.

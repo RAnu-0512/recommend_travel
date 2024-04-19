@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥次喜多銅像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+櫓, 巽櫓, 御門, 御堀端, 東御門
+cluster1:(2)
+東海道中膝栗毛, 珍道
+cluster2:(6)
+静岡, 駿府, 堀, 弥次, 桜, 喜多
+cluster3:(3)
+銅像, 像, 弥次喜多銅像
+cluster4:(2)
+途中, 作者
+cluster5:(9)
+博物館, ベンチ, 写真, 弥次喜多, 人, テラス, 東海道, 生まれ, 十返舎一九
+cluster6:(1)
+旅
+cluster7:(3)
+姿, 見学, 一角
+cluster8:(1)
+バス乗り場
+cluster9:(4)
+静岡市歴史博物館, 喜多さんここ駿府城, 駿府城公園, JR静岡駅
+
+howmany entities : 36
+howmany clusters : 10
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 6
+deleted 6entities.

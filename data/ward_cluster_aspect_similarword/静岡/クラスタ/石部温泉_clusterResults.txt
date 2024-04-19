@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石部温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+棚田, 田植え時期
+cluster1:(10)
+旅館, 伊豆, 西伊豆, 幸たっぷり, 鉄道, 温泉, 食事, 民宿, 海, ホテル
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

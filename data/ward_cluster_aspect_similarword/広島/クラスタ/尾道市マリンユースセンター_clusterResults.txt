@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾道市マリンユースセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+波, 船
+cluster1:(2)
+キャンプ, カヌー
+cluster2:(2)
+お子様, 子供
+cluster3:(1)
+方
+cluster4:(1)
+喜ぶ
+cluster5:(1)
+マリンユースセンター
+cluster6:(2)
+公園, 遊具
+cluster7:(2)
+レジャー施設, オートキャンプ場
+cluster8:(1)
+ドーム型アリーナ
+cluster9:(2)
+尾道市, 海浜オートキャンプ場
+
+howmany entities : 16
+howmany clusters : 10
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 10
+deleted 0entities.

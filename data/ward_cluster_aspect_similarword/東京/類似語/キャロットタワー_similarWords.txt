@@ -1,0 +1,31 @@
+--------------------similar_words:キャロットタワー--------------------
+top3 entities near to cluster0>>
+利便性, 利便
+top3 entities near to cluster2>>
+買い物, 買物, 子連れ
+top3 entities near to cluster5>>
+東急ストア, スーパー, スーパーマーケット
+top3 entities near to cluster6>>
+レストラン, オフィス, ホテル
+top3 entities near to cluster8>>
+カフェ, ホテル, レストラン
+top3 entities near to cluster9>>
+タワー, フロア, 最上階
+top3 entities near to cluster10>>
+景色, 眺望, 夜景
+top3 entities near to cluster12>>
+都心, 西部, 東部
+top3 entities near to cluster13>>
+施設, 建物, 敷地
+top3 entities near to cluster14>>
+店舗, 本店
+top3 entities near to cluster15>>
+近辺, 周辺
+top3 entities near to cluster16>>
+駅, 直結, 徒歩
+top3 entities near to cluster17>>
+家族, 人々
+top3 entities near to cluster18>>
+住民票, 書類, 住民
+top3 entities near to cluster19>>
+展望, 施設, 商業

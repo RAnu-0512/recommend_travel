@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大津島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+限界集落, 集落
+cluster1:(2)
+釣り, 釣り人
+cluster2:(14)
+島, 命, 小学校, 中学校, フェリー, 事実, 場所, 国, 形状, 大本営, 人, 水, 海, ふたつ
+cluster3:(6)
+週末, 山頂, 地元, 関西, 若者, 天気
+cluster4:(2)
+人口, 戦況
+cluster5:(1)
+休校
+cluster6:(9)
+酸素魚雷, 脱出装置, 人間魚雷回天, 訓練基地, 回天, 搭乗員, 帝国海軍, 回天記念館, 徳山港
+cluster7:(2)
+第二次世界大戦末期, 濁ります.4.73平方キロメートルの小さな島
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 8
+deleted 0entities.

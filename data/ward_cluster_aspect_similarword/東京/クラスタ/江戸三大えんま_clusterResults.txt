@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江戸三大えんま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+閻魔様像, 閻魔
+cluster1:(6)
+所, 近く, 善養寺, ココ, ドッシリ, 過去
+cluster2:(2)
+指定, 訪問
+cluster3:(1)
+怒り
+cluster4:(1)
+高さ
+cluster5:(6)
+大きなお寺, 都電, 本堂, 寺院, 住宅街, 境内
+cluster6:(2)
+豊島区, 有形文化財
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

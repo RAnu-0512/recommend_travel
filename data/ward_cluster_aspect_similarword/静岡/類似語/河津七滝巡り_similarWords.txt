@@ -1,0 +1,35 @@
+--------------------similar_words:河津七滝巡り--------------------
+top3 entities near to cluster1>>
+遊歩道, 吊り橋, バス停
+top3 entities near to cluster2>>
+帰り道, 雨降り, 久しぶり
+top3 entities near to cluster3>>
+イオン, マイナス
+top3 entities near to cluster5>>
+距離分, 時間, 距離
+top3 entities near to cluster12>>
+助言, 訪問, 撮影
+top3 entities near to cluster13>>
+迫力, 涼しい, 力強い
+top3 entities near to cluster15>>
+駐車場, 駐車, 停め
+top3 entities near to cluster16>>
+バス, タクシー, 路線
+top3 entities near to cluster17>>
+飲食店, 飲食
+top3 entities near to cluster18>>
+子供, 大人, 年配
+top3 entities near to cluster20>>
+自然, 空気
+top3 entities near to cluster21>>
+駐車, 歩道
+top3 entities near to cluster22>>
+丼, バー, リス
+top3 entities near to cluster24>>
+紅葉, 景色, 温泉
+top3 entities near to cluster25>>
+下流橋, 川橋, 川, 下流
+top3 entities near to cluster29>>
+散策, 散歩, 歩く
+top3 entities near to cluster31>>
+滝, カニ, 蟹

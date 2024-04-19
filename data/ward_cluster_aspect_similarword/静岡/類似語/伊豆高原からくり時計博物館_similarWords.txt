@@ -1,0 +1,7 @@
+--------------------similar_words:伊豆高原からくり時計博物館--------------------
+top3 entities near to cluster0>>
+時計, 腕時計, 柱時計
+top3 entities near to cluster2>>
+腕時計, 時計, 鳩時計
+top3 entities near to cluster5>>
+名物, 早口, 館長

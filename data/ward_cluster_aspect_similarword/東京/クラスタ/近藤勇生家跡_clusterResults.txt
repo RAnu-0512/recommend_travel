@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:近藤勇生家跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+近藤勇, 野川公園, 近藤, 西武多摩川線, 三鷹駅, 勇, 多磨駅, 田畑, 野川
+cluster1:(3)
+生家跡, 生家, 生家後地
+cluster2:(10)
+場所, もの, 思い, 墓, 前, 看板, 歴史, バス, 井戸, 出身
+cluster3:(3)
+豪農, 動乱, 幕末
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイビング広島SEAEGG>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島, 広島市
+cluster1:(3)
+魚, 海, ウミウシくん
+cluster2:(2)
+方針, 基礎
+cluster3:(2)
+昼食, 予約
+cluster4:(9)
+申し込み, 子供, 手, 世界, ダイビング, ショップ, スキューバ, 家族, おすすめ
+cluster5:(2)
+感動, 寒い
+cluster6:(1)
+観光場所
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:切通坂--------------------
+top3 entities near to cluster1>>
+交通量, 交通, 道路
+top3 entities near to cluster2>>
+坂道, 坂, 勾配
+top3 entities near to cluster3>>
+道路, 電車, 学問
+top3 entities near to cluster4>>
+老舗, 風情, 趣き
+top3 entities near to cluster5>>
+周囲, 辺り
+top3 entities near to cluster6>>
+店舗, 本店
+top3 entities near to cluster7>>
+脇, 横, 神
+top3 entities near to cluster9>>
+土地柄, 土地, 絵柄

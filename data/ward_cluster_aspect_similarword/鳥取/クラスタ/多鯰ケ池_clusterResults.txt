@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多鯰ケ池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+大勢, 姿, 使用人達, 人
+cluster1:(10)
+女, 下, 種, 鳥取砂丘, 話, 近く, 雰囲気, 側, 弁財天, 場所
+cluster2:(2)
+白蛇, 蛇
+cluster3:(6)
+森, 小島, 神社, 池, 柿, 島
+cluster4:(2)
+中国, 鳥取
+cluster5:(2)
+砂丘, 砂
+cluster6:(6)
+最深部, 伝説, 地方最深, お種の伝説, 種弁天, 種伝説
+cluster7:(1)
+鯰ヶ池
+
+howmany entities : 33
+howmany clusters : 8
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 8
+deleted 0entities.

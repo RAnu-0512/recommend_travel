@@ -1,0 +1,9 @@
+--------------------similar_words:太田川(広島県広島市)second--------------------
+top3 entities near to cluster0>>
+川, 太田川, 大田川
+top3 entities near to cluster1>>
+流れ, 留意, 必要
+top3 entities near to cluster2>>
+水量, 流量, 水かさ
+top3 entities near to cluster3>>
+区区間, 区, 山間

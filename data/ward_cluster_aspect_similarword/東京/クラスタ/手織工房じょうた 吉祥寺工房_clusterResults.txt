@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手織工房じょうた 吉祥寺工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+織り機, 糸, 糸棚, 糸代, 十分強糸
+cluster1:(2)
+紅茶サービス, ティータイム
+cluster2:(3)
+井の頭公園, スニーカー, ペットボトル
+cluster3:(5)
+スタッフ, GoogleMap, ロケーション, タイミング, レクチャー
+cluster4:(1)
+スポット
+cluster5:(1)
+マフラー
+cluster6:(4)
+初心者, やり方, 使い方, 雰囲気
+cluster7:(1)
+テラス
+cluster8:(3)
+機織り, ランチョンマット, 手織り
+cluster9:(5)
+別, 他, 気, 笑, 派手
+cluster10:(5)
+腰, 調子, 椅子, 配色, 色
+cluster11:(2)
+手織り体験, 体験
+cluster12:(2)
+方, 方々
+cluster13:(2)
+全員, 人
+cluster14:(1)
+経験
+cluster15:(1)
+声
+cluster16:(1)
+会員
+cluster17:(1)
+勇気
+cluster18:(1)
+愛着
+cluster19:(3)
+教室, 講師, 講座
+cluster20:(2)
+吉祥寺駅, 周辺
+cluster21:(3)
+案内, 予約, 開始
+cluster22:(4)
+場所, 時間, 作業, 各自
+cluster23:(2)
+工房, 道
+cluster24:(1)
+番地
+cluster25:(9)
+予備知識, 非日常体験, 完成形, 昼休憩, 市販品, 平日休み, 自由度, 一般宅, 注意書き
+
+howmany entities : 70
+howmany clusters : 26
+howmany entities (more than1entities) : 70
+howmany clusters (more than1entities) : 26
+deleted 0entities.

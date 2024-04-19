@@ -1,0 +1,11 @@
+--------------------similar_words:清水観音堂跡(小石川後楽園)--------------------
+top3 entities near to cluster0>>
+斜面, 高台, 急斜面
+top3 entities near to cluster1>>
+建物, 舞台, 土台
+top3 entities near to cluster2>>
+姿, 格好, 呼び名
+top3 entities near to cluster3>>
+跡, 痕跡
+top3 entities near to cluster5>>
+泉水, 大, 山大

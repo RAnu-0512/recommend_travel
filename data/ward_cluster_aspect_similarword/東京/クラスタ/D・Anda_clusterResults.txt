@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:D・Anda>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+調香体験, 調香師
+cluster1:(7)
+香水, 香水作り, 匂い, 原料, イメージ香水, 香料, 香り
+cluster2:(23)
+スタッフ, オススメ, 空間, アイドル, 作りたて, おかげ, 一角, イチジク, ベースノート, エレベーター, お気に入り, 路線, ミドルノート, マンション, イメージ, カレシ, 部屋, プレゼント, 居心地, アドバイス, トップノート, 雰囲気, ボトル
+cluster3:(20)
+途中, 素, 別, お話し方, 気, 互い, 推し, 意外, 面, 名前, 順, 友達, 好み, 相手, 時間, 方, こと, 物, もの, 全て
+cluster4:(2)
+興味, 知識
+cluster5:(5)
+想像, 体験, 感動, 満足, 説明
+cluster6:(1)
+計り
+cluster7:(1)
+細分化
+
+howmany entities : 61
+howmany clusters : 8
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:児玉家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+明治, 児玉
+cluster1:(2)
+住宅, 建物
+cluster2:(1)
+家
+cluster3:(1)
+庭園
+cluster4:(1)
+工事
+cluster5:(1)
+完成式
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

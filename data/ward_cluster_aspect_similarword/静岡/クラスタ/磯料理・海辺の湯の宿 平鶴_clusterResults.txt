@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:磯料理・海辺の湯の宿 平鶴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ミックスフライ定食, 刺身定食
+cluster1:(3)
+部屋風呂, 貸し切り風呂, 風呂
+cluster2:(6)
+光, 暗闇, 音, 海目, 海, 波
+cluster3:(4)
+海水浴場, 夜景, 岸壁, 夜温泉
+cluster4:(2)
+波打つ露天風呂桜色, 熱海市
+cluster5:(10)
+桜色, スタッフ, ランチ, 内風呂, メニュ, 錦ヶ浦, 気持ち, 露天風呂, 出迎え, アワビ
+cluster6:(3)
+対応, 受付, 方
+cluster7:(4)
+地元, 時間, 昼間, 前
+cluster8:(1)
+男女
+cluster9:(1)
+入替
+cluster10:(2)
+着物姿, 着物
+cluster11:(3)
+料理, 食事, 部屋
+cluster12:(2)
+刺身, 前菜
+cluster13:(1)
+仲居
+cluster14:(1)
+食事処
+
+howmany entities : 45
+howmany clusters : 15
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 7
+deleted 12entities.

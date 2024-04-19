@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巖流島憩いの広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光客, 散策道
+cluster1:(2)
+像, 銅像
+cluster2:(10)
+バーベキュー, コンサート, イベント, 佐々木小次郎, 戦い, スペース, 方, ステージ, 決闘, 巌流島
+cluster3:(2)
+広場, 芝生
+cluster4:(3)
+島, 船, 桟橋
+cluster5:(1)
+唐戸
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

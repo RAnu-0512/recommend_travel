@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:釈迦堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+空港, 徒歩
+cluster1:(7)
+見どころ, 緑, ところ, 雰囲気, 境内, 釈迦堂, 堂
+cluster2:(1)
+木造羅漢坐像
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

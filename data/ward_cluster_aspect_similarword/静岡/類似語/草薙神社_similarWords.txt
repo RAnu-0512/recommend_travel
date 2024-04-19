@@ -1,0 +1,9 @@
+--------------------similar_words:草薙神社--------------------
+top3 entities near to cluster0>>
+境内, 神社, 拝殿
+top3 entities near to cluster1>>
+歴史, 伝説, 現象
+top3 entities near to cluster2>>
+目的地, 目的, 時間
+top3 entities near to cluster8>>
+剣, 神社, 神剣

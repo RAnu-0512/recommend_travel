@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千手(寿)前の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史, 物語
+cluster1:(5)
+人, 場所, 千手観音, 中, 娘
+cluster2:(1)
+墓
+cluster3:(1)
+興味
+cluster4:(1)
+長者
+cluster5:(1)
+千手
+cluster6:(1)
+住宅地
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北條寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+北条時政, 北条, 鎌倉北条, 北条義時, 北条寺
+cluster1:(3)
+北條, 韮山, 執権
+cluster2:(4)
+流れ, 見学, 映像, 説明
+cluster3:(7)
+奥さん, 大河ドラマ, 歴史, 墓, 一族, 夫婦, 菩提寺
+cluster4:(2)
+丘, 高台
+cluster5:(3)
+周辺, 場所, 地
+cluster6:(6)
+創建, 本尊, 本堂, 境内, 阿弥陀如来坐像, 寺
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 6
+deleted 2entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:周南緑地公園_さくら--------------------
+top3 entities near to cluster0>>
+公園, 遊歩道, 緑地
+top3 entities near to cluster1>>
+桜, 八重桜, 櫻
+top3 entities near to cluster2>>
+芝生, 人工芝, 原っぱ
+top3 entities near to cluster3>>
+花見, 行楽, 見物

@@ -1,0 +1,11 @@
+--------------------similar_words:吉田松陰誕生地--------------------
+top3 entities near to cluster1>>
+石碑, 銅像
+top3 entities near to cluster2>>
+景色, 眺め, 眺める
+top3 entities near to cluster4>>
+歴史, 誕生, 伝統
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster8>>
+生誕地, 生誕, 発祥地, 発祥

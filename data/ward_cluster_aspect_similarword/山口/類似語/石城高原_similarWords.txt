@@ -1,0 +1,11 @@
+--------------------similar_words:石城高原--------------------
+top3 entities near to cluster0>>
+中心, 主体, 主軸
+top3 entities near to cluster1>>
+吹き抜ける風, 吹き抜ける, 吹か
+top3 entities near to cluster3>>
+山頂, 周辺, 頂上
+top3 entities near to cluster4>>
+高原, ボナリ, 山麓
+top3 entities near to cluster5>>
+県立, 公園, 自然

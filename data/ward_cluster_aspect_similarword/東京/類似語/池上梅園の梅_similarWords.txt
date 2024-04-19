@@ -1,0 +1,27 @@
+--------------------similar_words:池上梅園の梅--------------------
+top3 entities near to cluster0>>
+梅, 桜, 白梅
+top3 entities near to cluster1>>
+松, 木, 土
+top3 entities near to cluster2>>
+紅, 白, 牡丹
+top3 entities near to cluster4>>
+八重, 桜, 千代
+top3 entities near to cluster5>>
+遅咲き, 早咲き, 満開
+top3 entities near to cluster6>>
+ロウバイ, 座論梅, ローバイ
+top3 entities near to cluster7>>
+入り口, アクセス, 入口
+top3 entities near to cluster8>>
+ピンク, ピンク色, パープル
+top3 entities near to cluster9>>
+お住い
+top3 entities near to cluster10>>
+見応え, 見ごたえ, 見所
+top3 entities near to cluster12>>
+世界, 都会, 大人
+top3 entities near to cluster14>>
+風景, 景色, 季節
+top3 entities near to cluster15>>
+庭園, 庭, 中庭

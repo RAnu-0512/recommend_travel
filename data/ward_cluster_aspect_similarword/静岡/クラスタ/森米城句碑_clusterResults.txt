@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森米城句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+森米城, 森米城句碑
+cluster1:(8)
+俳人, 伊東市, 宇佐美, 富士山, 梅, 門下生, 地元出身, 近く
+cluster2:(5)
+駐車場, 海岸線, 道路際, 宇佐美海水浴場, 海岸近く
+cluster3:(1)
+初代文化協会会長
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 3entities.

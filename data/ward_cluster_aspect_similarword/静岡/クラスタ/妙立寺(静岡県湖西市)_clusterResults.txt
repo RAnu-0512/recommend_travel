@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妙立寺(静岡県湖西市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+時代初期, 創業者, 日什, 建造物
+cluster1:(4)
+縁起, 室町, 端正, 天下
+cluster2:(13)
+日蓮宗, 姿, 世界, 舞台, 文化財, 人, 歴史, トヨタ, 上, 政府, 紫陽花, TOYOTA, 場所
+cluster3:(2)
+経歴, 意向
+cluster4:(3)
+墓, 一族, 開祖
+cluster5:(4)
+階段, 鐘, 鐘楼, 高台
+cluster6:(3)
+山門, 本堂, 境内
+cluster7:(2)
+寺院, 寺
+cluster8:(1)
+伽藍
+cluster9:(1)
+金字法華経
+cluster10:(11)
+遠州, 浜松城, 湖西市, 豊田家, 本陣, 徳川家, 豊田佐吉翁, 家康, 徳川家康, 本山, 湖西市役所
+cluster11:(4)
+顕本法華宗, 銅板葺き入母屋造り, 妙立寺, 国指定重要文化財
+
+howmany entities : 52
+howmany clusters : 12
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 8
+deleted 6entities.

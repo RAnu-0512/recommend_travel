@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ときわ公園_サクラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+満開, 桜, 花, 夜桜
+cluster1:(2)
+季節, 時期
+cluster2:(3)
+周辺, 中心, 魅力
+cluster3:(6)
+ウォーキングコース, 車, 公園, 場所, ソメイヨシノ, ウォーキング
+cluster4:(1)
+公共
+cluster5:(5)
+花見, 客, お花見スポット, 家族連れ, 花見客
+cluster6:(12)
+園内外周, 常盤湖, 観覧車夜, 常盤公園, 遊園地, 巨大パークときわ公園, 植物園, ときわ湖, 芝桜, 四季折々, 動物園, 駐車場
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:賀茂真淵記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+多く, 国学者, 時期, 現代, 後期, 家, 方, 受付, 活版印刷, 職員, メディア, 平常展, 学者, 近く, 賀茂真淵, 明治, 古典研究, 出会い国学, 生地, 時代, 記念館, 神官, 江戸時代, 祭神, 縣居神社
+cluster1:(8)
+遠州, 浜松庄, 遠江国, 浜松, 敷智郡, 塙保己一, 伊庭村, 松坂の一夜
+
+howmany entities : 33
+howmany clusters : 2
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:宮島包ヶ浦自然公園キャンプ場--------------------
+top3 entities near to cluster0>>
+施設, 複合, 入浴
+top3 entities near to cluster1>>
+家族, 友達
+top3 entities near to cluster2>>
+施設, 設備, 宿泊
+top3 entities near to cluster3>>
+空気, 雰囲気
+top3 entities near to cluster4>>
+山々, 庭園, 山並み
+top3 entities near to cluster5>>
+家族連れ, 家族, つれ
+top3 entities near to cluster8>>
+浦, 浦の, 藤

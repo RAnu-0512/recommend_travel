@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイビングショップMIU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ナイのに., 柔軟さとダイブ, 充実感
+cluster1:(2)
+日帰りダイビング, 大瀬崎
+cluster2:(18)
+初心者, クーポン, ダイビング, ショップ, キアンコウ, アフターダイブ, ダイバー, アオリイカ, リピーター, オープンウォーター, ファンダイブ, 気配り, 雰囲気, イントラ, オーナー, オススメ, インストラクター, MIU
+cluster3:(5)
+魚, 静岡, ミウ, 水中, 海
+cluster4:(2)
+名所, 景色
+cluster5:(4)
+案内, 講習, 参加, 世話
+cluster6:(3)
+噂, 予想, イヤ
+cluster7:(3)
+客, 道中, 現地
+cluster8:(9)
+こと, 機会, 経験, 時間, 中, お陰, 話, 他, 方
+cluster9:(1)
+人柄
+cluster10:(2)
+インストラクターさん達, 集合場所
+cluster11:(1)
+海況
+
+howmany entities : 53
+howmany clusters : 12
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 7
+deleted 8entities.

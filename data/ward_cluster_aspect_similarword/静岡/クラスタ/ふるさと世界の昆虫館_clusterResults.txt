@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふるさと世界の昆虫館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+昆虫館, 虫, 標本, 昆虫
+cluster1:(5)
+興味, こと, 所, 感じ, もの
+cluster2:(6)
+子ども, 手づくりクイズ, こども, クワガタ, 駅, 道
+cluster3:(1)
+トイレ休憩
+cluster4:(1)
+入場料
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営地下鉄浅草線泉岳寺駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乗り換え電車, 電車
+cluster1:(19)
+途中, 人, JR, 歌舞伎, 京浜急行, ホーム, 駅, 乗換え, 羽田空港, 出張, モノレール, 地下鉄, 時間, 歌舞伎座, 魅力, 行き先, 空港, 乗り換え, 此方
+cluster2:(2)
+東京, 浅草
+cluster3:(6)
+浅草寺, 浅草線, 西馬込, 泉岳寺, 増上寺, 浜松町
+cluster4:(1)
+都営
+cluster5:(3)
+利用者, 相互乗り入れ, 用務先
+cluster6:(10)
+品川 泉岳寺駅, 北総線, 京急, 赤穂浪士, 大門駅, 東銀座, 品川駅, 京急線, 乗換駅, 地下鉄泉岳寺駅
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 7
+deleted 0entities.

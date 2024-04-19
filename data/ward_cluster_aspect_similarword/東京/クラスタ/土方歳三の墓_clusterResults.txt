@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土方歳三の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+場所, 施設, 車
+cluster1:(5)
+人, 人気, 他, ファン, 墓参り
+cluster2:(3)
+参拝, 往来, 参り
+cluster3:(7)
+墓所, 墓, 寺院, 寺, 位牌, 高幡不動駅, 境内
+cluster4:(3)
+案内板, 駐車場, 観光地
+cluster5:(1)
+路駐
+cluster6:(11)
+寺院 日野七福神めぐり, 石田寺内, 新撰組, 日野七福神めぐり, 土方歳三, 土方, 真言宗智山派, 土方家, 新選組ゆかり, 高幡不動尊, 石田寺
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

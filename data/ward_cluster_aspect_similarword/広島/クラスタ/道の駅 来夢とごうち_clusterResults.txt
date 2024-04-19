@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 来夢とごうち>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+安芸太田町, 安芸門徒
+cluster1:(2)
+特産品, 観光案内所
+cluster2:(4)
+広島県, 駅 来夢, 覆面店長, 河内インター
+cluster3:(4)
+盆, 漬物, 卵黄, 白菜
+cluster4:(5)
+もの, うえ, 反対, ごうち, 感じ
+cluster5:(2)
+それぞれ味, 素材
+cluster6:(2)
+定食, 単品
+cluster7:(13)
+トイレ, メニュー, ビール, 地ビール, コンビニ, 味噌汁, パッ, 米, 鉄板, 焼きそば, 黒, レストラン, 裏
+cluster8:(11)
+そば, 接客, 店, 客, 地元, 土産, 近く, 道, 道路, 駅, 階段
+cluster9:(1)
+地産
+cluster10:(3)
+塩焼きそば, 十分量, 塩焼きそば目当て
+
+howmany entities : 49
+howmany clusters : 11
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 11
+deleted 0entities.

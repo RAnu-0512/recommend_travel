@@ -1,0 +1,13 @@
+--------------------similar_words:桂太郎旧宅--------------------
+top3 entities near to cluster0>>
+邸宅, 建物, 家屋
+top3 entities near to cluster1>>
+庭園, 庭, 中庭
+top3 entities near to cluster2>>
+造っ, つくり
+top3 entities near to cluster3>>
+旧宅, 生家, 旧居
+top3 entities near to cluster5>>
+維新, 明治, 萩
+top3 entities near to cluster6>>
+小さい, 大きい, 少ない

@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さくら通り(東京都国立市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+国立, 国立市, 谷保駅, 国立駅
+cluster1:(8)
+道沿い, 自転車通路, 通路, 自転車専用道路, 車道, 歩道, 道路, 道
+cluster2:(8)
+夜桜, 散策, 花見, 工事, 整備, 散歩, 桜, 満開
+cluster3:(2)
+見物人, 人
+cluster4:(2)
+コーヒーショップ, ショップ
+cluster5:(2)
+カフェ, 喫茶店
+cluster6:(10)
+桜通り, コンビニ, オススメ, さくら, 自転車, 桜並木, トンネル, シーズン, イルミネーション, 終わり
+cluster7:(3)
+サイド, アーチ, タイル
+cluster8:(1)
+南武線
+cluster9:(3)
+別, 大学, 車
+cluster10:(3)
+絵, 景色, 表示
+cluster11:(2)
+大学通り, 通り
+cluster12:(12)
+季節, 途中, 春, 場所, 間, 木, 近く, 名前, 夕方, 時期, 時間, 帰り
+cluster13:(6)
+南側, 端, 距離, 徒歩, 東側, 直線
+cluster14:(1)
+レンガ張り
+
+howmany entities : 67
+howmany clusters : 15
+howmany entities (more than1entities) : 67
+howmany clusters (more than1entities) : 15
+deleted 0entities.

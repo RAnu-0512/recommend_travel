@@ -1,0 +1,11 @@
+--------------------similar_words:銀座ケントス--------------------
+top3 entities near to cluster0>>
+女子高生, 女子高, バンド
+top3 entities near to cluster1>>
+演奏, 音楽, コンサート
+top3 entities near to cluster2>>
+店内, 店舗
+top3 entities near to cluster3>>
+写真, ライブ, 映像
+top3 entities near to cluster4>>
+食事, 飲み物

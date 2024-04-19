@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮島・小黒神島・那沙美島・大黒神島周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+島々, 景色
+cluster1:(5)
+飛行機, アナウンス, 機長, 瀬戸内海, 福岡空港
+cluster2:(1)
+宮島
+cluster3:(2)
+展望台, 観光客
+cluster4:(1)
+中部国際空港
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

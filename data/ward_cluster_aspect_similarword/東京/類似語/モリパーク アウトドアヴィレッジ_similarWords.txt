@@ -1,0 +1,23 @@
+--------------------similar_words:モリパーク アウトドアヴィレッジ--------------------
+top3 entities near to cluster0>>
+施設, 設備, 敷地
+top3 entities near to cluster1>>
+初心者, 気持ち, 気持
+top3 entities near to cluster2>>
+ショップ, レストラン, ショッピング
+top3 entities near to cluster3>>
+アウトドア, クライミング, キャンプ
+top3 entities near to cluster4>>
+カヤック, カヌー, シーカヤック
+top3 entities near to cluster5>>
+ブランド, アウトドア, ファッション
+top3 entities near to cluster6>>
+ひとつ, 一つ, １つ
+top3 entities near to cluster7>>
+ペット, カフェ, 買い物
+top3 entities near to cluster8>>
+人達
+top3 entities near to cluster9>>
+用品, ボルタ, グッズ
+top3 entities near to cluster10>>
+飲食店, 飲食, 施設

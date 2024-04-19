@@ -1,0 +1,7 @@
+--------------------similar_words:王子製紙(株)米子工場--------------------
+top3 entities near to cluster1>>
+生産, 工場, 製造
+top3 entities near to cluster2>>
+見学, 工場, 視察
+top3 entities near to cluster3>>
+製紙, 板紙, 工場

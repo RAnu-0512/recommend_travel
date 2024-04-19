@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮華寺(静岡県森町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宝物館, 資料館
+cluster1:(32)
+坂道, 駐車場, 道, 遠州灘, 目, 見晴らし場, エコパスタジアム, 途中, 時期, 秋, 蓮華寺, 休館, 小径, 左手, 空気, もの, ところ, 歴史, 山道, 山頂, 境内, 具合, アクトタワー, 花, 観音堂跡, 池, 景色, 雰囲気, 先, 石, 季節, 寺
+cluster2:(11)
+森町, 北, 浜松市街地, 森町市街地, 八形山, み仏, 大洞院, 東, 萩, 西, 日光
+cluster3:(1)
+遠州平野
+
+howmany entities : 46
+howmany clusters : 4
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 2
+deleted 3entities.

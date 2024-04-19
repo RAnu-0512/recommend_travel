@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:戸栗美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高級住宅街, 住宅街
+cluster1:(2)
+高級住宅地, 住宅地
+cluster2:(2)
+企画展, 初期伊万里展
+cluster3:(2)
+展示物, 展示
+cluster4:(2)
+展示品, 収蔵品
+cluster5:(2)
+色彩, 色
+cluster6:(6)
+中心, 海外, 単位, 数, 赤, 個人
+cluster7:(10)
+人形, コーヒー, コレクション, 水差し, 陶磁器, 美術館, 伊万里焼, テレビ, 古伊万里, 雰囲気
+cluster8:(2)
+理解, 解説
+cluster9:(4)
+場所, 形状, 物, もの
+cluster10:(1)
+輸出
+cluster11:(1)
+香炉
+cluster12:(6)
+実業家, 東洋陶磁器, 学芸員, 陶磁器専門, 陶器専門, 茶碗やつぼ
+cluster13:(2)
+出光美術館, 出光
+cluster14:(2)
+松涛, 松濤
+cluster15:(2)
+渋谷, 渋谷駅
+cluster16:(3)
+佐賀, 長崎やきものめぐり, 戸栗美術館
+
+howmany entities : 51
+howmany clusters : 17
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 17
+deleted 0entities.

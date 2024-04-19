@@ -1,0 +1,71 @@
+--------------------similar_words:東京ビッグサイト--------------------
+top3 entities near to cluster0>>
+駅線, 駅, 構内
+top3 entities near to cluster1>>
+駅場, 正門, 駅
+top3 entities near to cluster2>>
+可能性, 可能
+top3 entities near to cluster3>>
+時間, 休憩, 所要
+top3 entities near to cluster4>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster5>>
+会場, イベント, 施設
+top3 entities near to cluster6>>
+来場者, 来場, 人数
+top3 entities near to cluster7>>
+研修会, 研修, 講習会, 講習
+top3 entities near to cluster8>>
+会議場, 会議, 会合
+top3 entities near to cluster9>>
+高床式, 高床, 倉庫
+top3 entities near to cluster10>>
+展示, 展覧, 会場
+top3 entities near to cluster11>>
+イベント, グッズ, ショップ
+top3 entities near to cluster12>>
+ペット, ベビー, 子供
+top3 entities near to cluster13>>
+トイレ, ホテル, カフェ
+top3 entities near to cluster14>>
+ブース, センター, スペース
+top3 entities near to cluster15>>
+コーナー, キャッシュカード, コンビニ
+top3 entities near to cluster16>>
+イベント, グッズ, ライブ
+top3 entities near to cluster19>>
+7, 6, 9
+top3 entities near to cluster21>>
+エン, トランス, 中央
+top3 entities near to cluster22>>
+駅, 徒歩, 駅前
+top3 entities near to cluster24>>
+ショー, イベント, カフェ
+top3 entities near to cluster25>>
+長蛇, 行列, 列
+top3 entities near to cluster26>>
+トイレ, 女子, 男子
+top3 entities near to cluster27>>
+駅, 電車, 駅名
+top3 entities near to cluster28>>
+近隣, 周辺, 近辺
+top3 entities near to cluster30>>
+建物, 館内, 敷地
+top3 entities near to cluster31>>
+日陰, 歩道, 空調
+top3 entities near to cluster32>>
+西館, 東館
+top3 entities near to cluster33>>
+就活, 就職, 面接
+top3 entities near to cluster34>>
+仕事, 仕事柄, 関係
+top3 entities near to cluster35>>
+紹介, 案内, 随時
+top3 entities near to cluster36>>
+出店, 開催, 出展
+top3 entities near to cluster37>>
+販売店, 値段, 販売
+top3 entities near to cluster38>>
+視察, 見学, 訪問
+top3 entities near to cluster39>>
+バス, 都, 都内

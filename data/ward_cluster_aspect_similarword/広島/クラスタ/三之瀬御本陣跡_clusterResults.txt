@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三之瀬御本陣跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+使節, 参勤交代, 歴史, 場所, 外国, 跡, 大名, 船
+cluster1:(4)
+広島県, 長雁木, 三之瀬御本陣, 呉市
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アトリエ・まりね>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+初級プラン, 体験, 完成, 補助, ガラス選び, 説明, 参加
+cluster1:(7)
+家, 憧れ, 子供, 夫婦, 母, 先生, 教室
+cluster2:(6)
+出来上がり, アクセス, ところ, チューリップ, 雰囲気, ステンドグラス
+cluster3:(3)
+ガラス, ランプ, ライト
+cluster4:(3)
+こと, 部分, 色
+cluster5:(1)
+灯り
+cluster6:(1)
+練馬
+cluster7:(5)
+不器, はんだ付け作業, 六面体のフットランプ, はんだ付け, 美しさ
+
+howmany entities : 33
+howmany clusters : 8
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 8
+deleted 0entities.

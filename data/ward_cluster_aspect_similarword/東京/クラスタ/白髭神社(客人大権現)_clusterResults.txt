@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白髭神社(客人大権現)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神社境内, 白髭神社
+cluster1:(12)
+隅田川七福神, 歴史, 露店, 近江, 雰囲気, 神輿, 周辺, 多く, ほんまつり, 国, 東向島駅, 山車
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,59 @@
+--------------------similar_words:品川インターシティ--------------------
+top3 entities near to cluster0>>
+かんじ, 雰囲気, カンジ
+top3 entities near to cluster1>>
+オフィス, セミナー, レジデンス
+top3 entities near to cluster2>>
+レストラン, コンビニ, カフェ
+top3 entities near to cluster3>>
+ショック, 立ち直る, 衝撃
+top3 entities near to cluster4>>
+タワービル, パークタワービル, オフィスタワービル
+top3 entities near to cluster5>>
+エリア, メイン, ウィンドウ
+top3 entities near to cluster6>>
+フロア, ホール, デッキ
+top3 entities near to cluster8>>
+カフェ, レストラン, 喫茶店
+top3 entities near to cluster9>>
+人達, 大勢
+top3 entities near to cluster10>>
+よう, みたい
+top3 entities near to cluster11>>
+外側
+top3 entities near to cluster14>>
+時間, 日数, 時
+top3 entities near to cluster15>>
+建物, 施設, 地下
+top3 entities near to cluster16>>
+価格, 年齢, 年令
+top3 entities near to cluster17>>
+休憩, 会議, 仮眠
+top3 entities near to cluster18>>
+食事, 和食, 仕事
+top3 entities near to cluster19>>
+休日, 昼
+top3 entities near to cluster20>>
+交通, アクセス, 道路
+top3 entities near to cluster21>>
+飲食店, 飲食, レストラン
+top3 entities near to cluster22>>
+繁華街, 企業, 繁華
+top3 entities near to cluster23>>
+書店, 本屋
+top3 entities near to cluster24>>
+駅, 東口, 南口
+top3 entities near to cluster25>>
+高層, ビル, ノッポビル
+top3 entities near to cluster26>>
+ビル, オフィス, タワービル
+top3 entities near to cluster27>>
+ビル街, ビル, 繁華街, 繁華
+top3 entities near to cluster28>>
+商業, ビル, 複合
+top3 entities near to cluster29>>
+施設, 商業, 複合
+top3 entities near to cluster30>>
+開発, 地区, 市街地
+top3 entities near to cluster31>>
+駅, 駅前, 港

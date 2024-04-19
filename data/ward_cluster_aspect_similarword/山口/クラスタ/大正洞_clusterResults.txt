@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大正洞>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(37)
+洞, 他県, もの, アナウンス, 上層, 貸し切り, こと, 人間, 共通券, 観光施設, 次, もぎり, 鍾乳石, 存在, おなかいっぱい, 場所, 鍾乳洞, 帰省, 秋吉, 地元, 差, 奥, 下手, 大柱, 萩, タイミング, 方, 入口, 者, 距離, 構造, 人, 湯田温泉, 探検気分, 洞窟, 下層, 気分
+cluster1:(6)
+大正洞, 秋芳洞, 角島大, 大正, 千枚皿, 角島あたり
+
+howmany entities : 43
+howmany clusters : 2
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:東京メトロ有楽町線有楽町駅--------------------
+top3 entities near to cluster2>>
+有楽町線, 三田線, 営団赤塚
+top3 entities near to cluster3>>
+乗り入れ, 乗り換え, 乗り入れる
+top3 entities near to cluster4>>
+フォーラム, ビックカメラ, エスカレーター
+top3 entities near to cluster5>>
+地下道, 地下街, 通路
+top3 entities near to cluster6>>
+雨降り, 小雨
+top3 entities near to cluster7>>
+地下, 地上, ビル
+top3 entities near to cluster8>>
+化, 便利, 最適
+top3 entities near to cluster9>>
+駅, 地下鉄, 駅前

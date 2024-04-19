@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福田漁港・渚の交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+店員, 販売, 売店, 清掃, ごみ, 座席
+cluster1:(3)
+渚, 波, 海
+cluster2:(2)
+家族, 人
+cluster3:(2)
+しらす, 富士山
+cluster4:(2)
+サーフィン, サーファー
+cluster5:(3)
+ゴールデンウィーク, レストラン, サービス
+cluster6:(1)
+どんぶり
+cluster7:(1)
+ところ
+cluster8:(1)
+子ども
+cluster9:(1)
+海水浴
+cluster10:(1)
+遊漁船
+cluster11:(1)
+ご飯
+cluster12:(7)
+利用, 多く, 内部, 近く, 建物, 前, 方
+cluster13:(4)
+地元野菜, 沢山量, どんぶり屋, しらす屋
+cluster14:(6)
+駐車場, 交流館, 土日祝, 複合施設, コミュニティー施設, 施設
+cluster15:(15)
+津波避難タワー, 釣り, しらす丼, 漁港, 海鮮丼, 福田漁港, 船釣り, 冷凍生しらす, しらす漁, 津波タワー, 丼, 釜揚げしらす, 漁, 生しらす, 漁師
+
+howmany entities : 56
+howmany clusters : 16
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 7
+deleted 12entities.

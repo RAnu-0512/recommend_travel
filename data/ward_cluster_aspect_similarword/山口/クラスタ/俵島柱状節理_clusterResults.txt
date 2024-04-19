@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:俵島柱状節理>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+俵島柱状節理, 柱状節理
+cluster1:(6)
+自然, 玄武岩, 風蝕, 柱状, 俵島, 波蝕
+cluster2:(3)
+長門市, 造形美, 具下
+cluster3:(1)
+油谷向津
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

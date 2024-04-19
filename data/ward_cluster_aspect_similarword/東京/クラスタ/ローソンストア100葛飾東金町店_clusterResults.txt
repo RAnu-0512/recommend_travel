@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ローソンストア100葛飾東金町店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+店員, 店内
+cluster1:(1)
+接客
+cluster2:(2)
+コンビニ, スーパー
+cluster3:(1)
+ふりかけ
+cluster4:(1)
+ふつう
+cluster5:(1)
+買い物
+cluster6:(1)
+もの
+cluster7:(1)
+値段
+cluster8:(1)
+茶
+cluster9:(1)
+何か
+cluster10:(1)
+食料品
+cluster11:(1)
+清潔感
+
+howmany entities : 14
+howmany clusters : 12
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 12
+deleted 0entities.

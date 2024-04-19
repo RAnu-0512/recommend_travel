@@ -1,0 +1,35 @@
+--------------------similar_words:東京ミッドタウン日比谷--------------------
+top3 entities near to cluster0>>
+買い物, 買物, 買いもの
+top3 entities near to cluster1>>
+カフェ, ランチ, アート
+top3 entities near to cluster2>>
+アパレル, ショップ, オフィス
+top3 entities near to cluster3>>
+オススメ, おすすめ, チェック
+top3 entities near to cluster4>>
+スイーツ, スィーツ, スウィーツ
+top3 entities near to cluster5>>
+レストラン, イベント, デートスポット
+top3 entities near to cluster6>>
+デザイン, 色とりどり, カラフル
+top3 entities near to cluster7>>
+オーディオ, スピーカー, アンプ
+top3 entities near to cluster9>>
+アップル, アップルジャパン, アップルコンピュータ
+top3 entities near to cluster10>>
+スクリーン, チケット, 前売り
+top3 entities near to cluster11>>
+入り口, 地下道, 入口
+top3 entities near to cluster12>>
+劇場, 映画, シャンテシネ
+top3 entities near to cluster14>>
+施設, 商業, 複合
+top3 entities near to cluster15>>
+飲食店, 飲食, レストラン
+top3 entities near to cluster16>>
+ビル, 三信, 高層
+top3 entities near to cluster18>>
+駅, 駅前, 構内
+top3 entities near to cluster19>>
+繁華街, 商店街, 繁華, 商店

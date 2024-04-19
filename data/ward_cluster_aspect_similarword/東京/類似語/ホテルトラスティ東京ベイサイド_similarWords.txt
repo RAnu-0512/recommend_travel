@@ -1,0 +1,55 @@
+--------------------similar_words:ホテルトラスティ東京ベイサイド--------------------
+top3 entities near to cluster0>>
+ラウンジ, テーブル, ダイニング
+top3 entities near to cluster1>>
+スタッフ, サービス, ポイント
+top3 entities near to cluster2>>
+レストラン, テイクアウト, ランチ
+top3 entities near to cluster3>>
+フルーツタルト, クレーム・ダンジュ, フォカッチャサンド
+top3 entities near to cluster4>>
+パーキング, 駐車, バレットパーキング
+top3 entities near to cluster5>>
+デザート, フルーツ, サラダ
+top3 entities near to cluster6>>
+メイン, メーン, サブ
+top3 entities near to cluster7>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster8>>
+メロン, ＢＮＹ, マスクメロン
+top3 entities near to cluster9>>
+フリー, ペーパー, スロー
+top3 entities near to cluster10>>
+ソース, スパゲティ, パスタ
+top3 entities near to cluster11>>
+ランチ, ランチタイム, ディナー
+top3 entities near to cluster12>>
+ステーキ, サーロイン, ビーフステーキ
+top3 entities near to cluster13>>
+スープ, カレー, カレーライス
+top3 entities near to cluster14>>
+サラダ, パスタ, スパゲティ
+top3 entities near to cluster15>>
+ライス, 大盛り, ガーリック
+top3 entities near to cluster16>>
+コーン, スープ, ポタージュ
+top3 entities near to cluster17>>
+ホテル, ハーフ, カップ
+top3 entities near to cluster18>>
+パン, 食パン, パン・オ・ノア
+top3 entities near to cluster19>>
+景色, 建物, 料理
+top3 entities near to cluster20>>
+宿泊, 予約, 泊まる
+top3 entities near to cluster21>>
+大勢, 人達
+top3 entities near to cluster22>>
+種類, どれ, 数種類
+top3 entities near to cluster23>>
+対応, 理解, 用意
+top3 entities near to cluster24>>
+消化, ボッカス, 吸収
+top3 entities near to cluster25>>
+リピ, リピート, ・・リピ
+top3 entities near to cluster26>>
+丼, ステーキ, 肉

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ちゅーピーパーク中国新聞広島制作センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ちゅーピープール, ちゅーぴープール
+cluster1:(9)
+状況, 感じ, 車窓, 道中, 笑最寄り駅, 席, 近く, 場所, 値段
+cluster2:(2)
+有料, 新聞
+cluster3:(8)
+子供, ウォータースライダー, プール, ギャラリー, 海, 大人, 家族, 自然
+cluster4:(1)
+屋外トイレ
+cluster5:(1)
+家族連れ
+cluster6:(3)
+駐車場, 駐車場代, 送迎バス
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 7
+deleted 0entities.

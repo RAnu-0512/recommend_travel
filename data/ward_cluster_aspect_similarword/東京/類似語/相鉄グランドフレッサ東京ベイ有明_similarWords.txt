@@ -1,0 +1,67 @@
+--------------------similar_words:相鉄グランドフレッサ東京ベイ有明--------------------
+top3 entities near to cluster0>>
+デザート, ケーキ, プチパンケーキ
+top3 entities near to cluster1>>
+ソファー, 背もたれ, ソファ
+top3 entities near to cluster2>>
+選択肢, レベル, あたり
+top3 entities near to cluster3>>
+メニュー, イベント, コーナー
+top3 entities near to cluster4>>
+レビュー, ポイント, アクセス
+top3 entities near to cluster6>>
+待ち時間, 臨機応変, 入れ替え
+top3 entities near to cluster7>>
+スタッフ, テレビ, テレビ局
+top3 entities near to cluster8>>
+居心地, 雰囲気, 気持ち
+top3 entities near to cluster9>>
+ビーフ, ポーク, ロースト
+top3 entities near to cluster10>>
+バッグ, ティー, フード
+top3 entities near to cluster11>>
+飲み物, ジュース, ドリンク
+top3 entities near to cluster12>>
+デザート, ビュッフェ, ブッフェ
+top3 entities near to cluster13>>
+ブッフェ, ビュッフェ, ビッフェ
+top3 entities near to cluster14>>
+ハーフ, ビュッフェ, エイチ・ピー
+top3 entities near to cluster15>>
+メイン, ツイン, ロビー
+top3 entities near to cluster16>>
+ケーキ, プリン, タルト
+top3 entities near to cluster17>>
+パスタ, トマト, スパゲティ
+top3 entities near to cluster18>>
+サワラ, あさり, アサリ
+top3 entities near to cluster19>>
+味付け, ソース, 味つけ
+top3 entities near to cluster20>>
+スープ, カレー, サラダ
+top3 entities near to cluster21>>
+野菜, カレー, 味噌
+top3 entities near to cluster22>>
+バス, 急行, タクシー
+top3 entities near to cluster23>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster24>>
+ランチ, レストラン, 食事
+top3 entities near to cluster25>>
+団体, お客, 乗客
+top3 entities near to cluster26>>
+席, 座席, 立ち見
+top3 entities near to cluster27>>
+部屋, 窓, 廊下
+top3 entities near to cluster28>>
+朝, 早朝
+top3 entities near to cluster29>>
+値段, 価格, 手頃
+top3 entities near to cluster30>>
+種類, 品数, 数種類
+top3 entities near to cluster34>>
+台場, ビーナスフォート, アクアシティー
+top3 entities near to cluster35>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster36>>
+料理, 食材, 野菜

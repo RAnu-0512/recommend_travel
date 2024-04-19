@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大場久八の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅街, 出生地
+cluster1:(2)
+博徒, 大親分
+cluster2:(12)
+台場, 森久治郎, 東京湾, 伊豆, 墓, 中, 近く, 築造, 本名, 場所, 子分, 中心
+cluster3:(1)
+だいば
+cluster4:(1)
+江戸末期
+cluster5:(5)
+広渡寺とお寺, 大場, 大場駅, 大場久八, 大場村
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 6entities.

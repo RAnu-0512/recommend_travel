@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小笠原神社(東京都小笠原村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小笠原神社, 神社
+cluster1:(5)
+御朱印, 小笠原, 日, 祭り, 碑
+cluster2:(1)
+拝殿横
+cluster3:(1)
+父島南部
+cluster4:(1)
+例大祭
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

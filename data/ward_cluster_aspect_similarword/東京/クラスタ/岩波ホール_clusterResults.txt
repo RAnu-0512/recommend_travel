@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩波ホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+岩波ビル, 岩波ホール, 岩波神保町, 岩波
+cluster1:(9)
+老舗, エクス・リブリス, 東西, 神保町, サービス, パンフレット, 白山通り, ビル, セレクション
+cluster2:(2)
+感動, 経験
+cluster3:(3)
+作品, 著書, 作者
+cluster4:(3)
+場所, 内容, 映像
+cluster5:(1)
+活字
+cluster6:(1)
+ミニシアター
+cluster7:(2)
+千代田区, 便利さ
+cluster8:(1)
+想像力
+cluster9:(8)
+上映, 短観上映, 地下鉄駅直, 閉館, 映画, 大手映画館, ニューヨーク公共図書館, 映画館
+
+howmany entities : 34
+howmany clusters : 10
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 10
+deleted 0entities.

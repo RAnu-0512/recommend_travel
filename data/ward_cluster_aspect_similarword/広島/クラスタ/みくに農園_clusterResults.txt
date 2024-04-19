@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みくに農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+みくに農園, 直売所, 果樹園
+cluster1:(2)
+詰め放題, 放題
+cluster2:(2)
+季節, レモンいちご季節
+cluster3:(6)
+ビニール, みかん, 果物, ネット売り, 風景, レモン
+cluster4:(1)
+四季折々
+cluster5:(1)
+───O
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 6
+deleted 0entities.

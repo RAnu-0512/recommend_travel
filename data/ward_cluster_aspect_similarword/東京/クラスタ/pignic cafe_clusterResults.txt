@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:pignic cafe>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+暴れん坊, 大暴れ
+cluster1:(2)
+力関係, 力
+cluster2:(2)
+ピッグちゃん, ピッグちゃん達
+cluster3:(2)
+隅, 部屋
+cluster4:(7)
+スタッフ, 落ち着き, 右往左往, 上, 時間, 順番, 中
+cluster5:(5)
+姉妹, 隙, チビ, 子, 脚
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

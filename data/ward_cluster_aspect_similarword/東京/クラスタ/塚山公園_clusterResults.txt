@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:塚山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 遊具
+cluster1:(6)
+こうえん, 神田川, トイレ, 子供, 桜並木, 森林公園
+cluster2:(3)
+場所, 近く, 側
+cluster3:(1)
+緑
+cluster4:(1)
+都心
+cluster5:(1)
+小川
+cluster6:(1)
+野球場
+cluster7:(1)
+塚山公園
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 8
+deleted 0entities.

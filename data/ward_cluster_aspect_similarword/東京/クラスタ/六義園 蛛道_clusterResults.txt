@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六義園 蛛道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+道, 道辺り
+cluster1:(2)
+糸, 蜘蛛
+cluster2:(7)
+人, 中, 雑木林, 川, 流れ, ささがに, 奥
+cluster3:(4)
+季節, 桜, 紅葉, 六義園内
+cluster4:(1)
+観光客
+cluster5:(1)
+染井門
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恵美須ケ鼻造船所跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+恵美須ヶ鼻 造船所, 恵美須ケ鼻造船所, 須ヶ鼻 造船所
+cluster1:(2)
+場所, 建物
+cluster2:(2)
+歴史, 技術
+cluster3:(9)
+もの, 昔, 一環, 他, 先入観, 目, 上, 方, 人
+cluster4:(1)
+興味
+cluster5:(15)
+スポット, 幕末, 車, 船, 道, ドック, シーマート, ロシア, 石積み, 空き地, そば, オランダ, ロープ, 海, 防波堤
+cluster6:(1)
+漁港
+cluster7:(13)
+跡地, 発掘調査, 見学, 説明パネル, 遺構, 保護, 建造, 跡, 構成資産, 史跡, 史蹟, 案内看板, 発見
+cluster8:(3)
+産業革命遺産, 産業遺産, 産業遺産群
+cluster9:(3)
+遺産, 世界遺産巡り, 世界遺産
+cluster10:(11)
+石炭産業, 造船, 長州藩, 萩反射炉, 造船所, 反射炉, 造船所跡, 製鉄, 製鋼, 西洋式造船所, 洋式帆船
+
+howmany entities : 63
+howmany clusters : 11
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:エキチカ温泉・くろしお--------------------
+top3 entities near to cluster0>>
+温泉, 銭湯, 風呂
+top3 entities near to cluster2>>
+飲み物, レストラン, ホテル
+top3 entities near to cluster4>>
+サウナ, 水風呂, 浴槽
+top3 entities near to cluster5>>
+子供, 親
+top3 entities near to cluster7>>
+利用者, 利用, 時間
+top3 entities near to cluster9>>
+設備, 値段, 温度

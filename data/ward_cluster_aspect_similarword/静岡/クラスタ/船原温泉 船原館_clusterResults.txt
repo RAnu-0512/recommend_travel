@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船原温泉 船原館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+気持ち, スタッフ, 囲炉裏, 修善寺, 方
+cluster1:(2)
+料理, 女将
+cluster2:(3)
+立ち湯, 湯, 船原温泉
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

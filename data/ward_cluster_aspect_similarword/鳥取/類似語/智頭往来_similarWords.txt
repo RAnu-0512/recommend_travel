@@ -1,0 +1,31 @@
+--------------------similar_words:智頭往来--------------------
+top3 entities near to cluster0>>
+酒蔵, 蔵元
+top3 entities near to cluster1>>
+全体, 国内, 全土
+top3 entities near to cluster2>>
+雰囲気, 人達, 思い入れ
+top3 entities near to cluster3>>
+印象, イメージ, 雰囲気
+top3 entities near to cluster4>>
+面影, 道標, 道しるべ
+top3 entities near to cluster5>>
+明治, 大正, 町家
+top3 entities near to cluster6>>
+町, 時代, 丁目
+top3 entities near to cluster7>>
+街並み, 町並み, 建物
+top3 entities near to cluster8>>
+玄関, 庭園, 木製
+top3 entities near to cluster9>>
+映画, 監督, 杉
+top3 entities near to cluster10>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster11>>
+特産品, 名産品, 特産, 名産
+top3 entities near to cluster12>>
+宿場, 町, 町並み
+top3 entities near to cluster14>>
+街道, 宿場, 狐越
+top3 entities near to cluster15>>
+克己, 記念, 館

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青原寺(東京都中野区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+菩提寺, 我が家
+cluster1:(1)
+寺
+cluster2:(1)
+墓リフォーム
+cluster3:(1)
+法事
+cluster4:(1)
+世話
+cluster5:(1)
+中野
+cluster6:(1)
+副住職
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

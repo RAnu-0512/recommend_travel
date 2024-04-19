@@ -1,0 +1,11 @@
+--------------------similar_words:旧朝倉家住宅--------------------
+top3 entities near to cluster0>>
+入場, 登り, 降り
+top3 entities near to cluster3>>
+邸宅, 庭園, 屋敷
+top3 entities near to cluster4>>
+家屋, 民家, 建物
+top3 entities near to cluster5>>
+地形, 崖, 地勢
+top3 entities near to cluster7>>
+庭園, 回遊, 住宅

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ有楽町線 永田町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+途中, 他
+cluster1:(2)
+言葉, 事
+cluster2:(1)
+耳
+cluster3:(10)
+店舗, 有楽町線, ホーム, 地下, 地下鉄, 永田町, 南北線, 政治, 報道, 乗り換え
+cluster4:(1)
+ホームドア
+cluster5:(6)
+駅, 飲食店, 構内, 各種クリームパン, 乗り換え駅, 駅構内
+cluster6:(1)
+赤坂見附駅
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

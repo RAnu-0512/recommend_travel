@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Blueberry Farm Suzuki>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+貸切状態, 貸切, キャッシュレス決済
+cluster1:(2)
+高さ, 暑さ
+cluster2:(8)
+混雑, こと, 対応, 体験, 感じ, 説明, 想像, 方
+cluster3:(2)
+日, 木
+cluster4:(2)
+値段, 種類
+cluster5:(2)
+間, 時間
+cluster6:(2)
+時期, 場所
+cluster7:(1)
+次回
+cluster8:(18)
+親戚, シーズン終わり, 日陰, 土産, エコノミー, 下, 実, 思い出, ファーム, パック, キャンプ, 持ち帰り, 手, キンキン, フレンドリー, 口, ブルーベリー, ネット
+cluster9:(1)
+ハイシーズン
+cluster10:(10)
+子どもたち, 酸味, 農園, 甘味, 子供, 農家, ブルーベリー園, 子供たち, ブルーベリー狩り, 大人数
+cluster11:(5)
+時間差, 時間制限, 時間無制限, 時間無制限で食べ放題, 詰め放題
+
+howmany entities : 56
+howmany clusters : 12
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 5
+deleted 12entities.

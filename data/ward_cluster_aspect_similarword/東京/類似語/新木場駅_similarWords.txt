@@ -1,0 +1,15 @@
+--------------------similar_words:新木場駅--------------------
+top3 entities near to cluster0>>
+かい線, りん, かい
+top3 entities near to cluster2>>
+会社, 駅, 始発駅
+top3 entities near to cluster3>>
+路線, 駅線, 駅
+top3 entities near to cluster4>>
+電車, ＪＲ, 私鉄
+top3 entities near to cluster5>>
+運賃, 料金, 併算
+top3 entities near to cluster6>>
+本数, 回数, 便数
+top3 entities near to cluster7>>
+駅, 駅前, 南口

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後醍醐天皇お腰掛けの岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+漁港, 御来屋漁港, 御来屋漁港あたり
+cluster1:(4)
+後醍醐天皇御製, 配流, 元弘, 天皇
+cluster2:(16)
+碑, 車, 日本, 道幅, 忘れめ, 海, 後醍醐, 舟, 変, 隣, スペース, 上, 石, 周囲, 岩, 隠岐
+cluster3:(1)
+後醍醐天皇お腰掛けの岩
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 4
+deleted 0entities.

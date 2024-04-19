@@ -1,0 +1,19 @@
+--------------------similar_words:ラスカ熱海--------------------
+top3 entities near to cluster1>>
+土産, おみやげ, 土産物
+top3 entities near to cluster2>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster3>>
+海鮮, 野菜, 魚介
+top3 entities near to cluster4>>
+ランチ, カフェ, お菓子
+top3 entities near to cluster6>>
+旅先, 土産, 週末
+top3 entities near to cluster7>>
+店内, 店舗
+top3 entities near to cluster10>>
+時間, 所要
+top3 entities near to cluster12>>
+電車, 限定, 週末
+top3 entities near to cluster13>>
+駅店, 駅前店, 駅, 駅前

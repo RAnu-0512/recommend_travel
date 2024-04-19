@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御前崎フルーツファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+事, イチゴ, 態度, 通路, ハウス, 値段, こと, 家族連れ, 家, 子, 大人, 受付, 口コミ, 予約, いちご, 時間, 感じ, 孫, トイレ, 子供, 割, 前, エリア
+cluster1:(9)
+粒, 練乳, 苺, 栽培棚, 農園, 大粒, 温室, いちご狩り, イチゴ狩り
+cluster2:(1)
+三十分
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジール・クルージング>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+紅葉, 花見, 桜, 満開
+cluster1:(2)
+船頭, 船
+cluster2:(2)
+間近, 眺め
+cluster3:(5)
+肝心, 話, 時間, 写真, 説明
+cluster4:(11)
+クルージング, ボランティア, スタッフ, 飛行機, 東京, 目黒川, ツアー, ユーモア, 羽田空港, ガイド, クルーズ
+cluster5:(1)
+お勧め
+cluster6:(1)
+桜開花宣言
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 7
+deleted 0entities.

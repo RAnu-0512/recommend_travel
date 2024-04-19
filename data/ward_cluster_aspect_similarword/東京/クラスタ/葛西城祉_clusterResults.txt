@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛西城祉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+遠山綱景, 中川・太日川, 扇谷上杉
+cluster1:(23)
+国府台, 国府台合戦時, 中川, 里見, 背後, 城主, 最前線, 激戦, 天然, 堀, 先鋒, 葛西城, 進出拠点, 蛇行部, 平城, 国府台城, 戦国期, 下総国, 関白秀吉, 北条, 支配下, 小田原北条, 戦い
+cluster2:(1)
+小弓公方足利義明
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 3
+deleted 0entities.

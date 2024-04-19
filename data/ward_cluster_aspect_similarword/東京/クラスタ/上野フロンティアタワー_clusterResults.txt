@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野フロンティアタワー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+上野松坂屋, 上野, 上野フロンティアタワー, 上野松坂屋南館, 上野パルコ, 上野・御徒町, TOHOシネマズ上野
+cluster1:(7)
+場所, 御徒町駅, 近く, 付近, 地下, ビル, 周辺
+cluster2:(13)
+ショッピング, 埼玉, 松坂屋, TOHOシネマズ, レストラン, パンフレット, イメージ, 公開, シネマ, パルコ, スポット, 雰囲気, 映画館
+cluster3:(1)
+東宝シネマ
+cluster4:(1)
+再開発
+cluster5:(4)
+複合商業施設, 商業施設, 高層ビル, 交通費
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 6
+deleted 0entities.

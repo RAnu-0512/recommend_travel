@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:焼津吹きガラス工房 月想う>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+体験, 機会, ガラス体験
+cluster1:(2)
+子供, 家族
+cluster2:(3)
+グラス, ガラス, 一輪挿し
+cluster3:(2)
+もの, 説明
+cluster4:(1)
+看板
+cluster5:(1)
+記念
+cluster6:(1)
+青色
+cluster7:(1)
+街道
+cluster8:(1)
+所要所
+cluster9:(1)
+吹きガラス体験
+
+howmany entities : 16
+howmany clusters : 10
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 10entities.

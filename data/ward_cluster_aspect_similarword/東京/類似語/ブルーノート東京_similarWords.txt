@@ -1,0 +1,59 @@
+--------------------similar_words:ブルーノート東京--------------------
+top3 entities near to cluster0>>
+飲み物, ドリンク, フード
+top3 entities near to cluster1>>
+トップ, ライト, バッター
+top3 entities near to cluster2>>
+ライブ, デート, ファン
+top3 entities near to cluster3>>
+雰囲気, 別世界, 風情
+top3 entities near to cluster4>>
+レーベル, ジャンル, ＥＮＦ
+top3 entities near to cluster5>>
+クーポン, チケット, ポンパレチケット
+top3 entities near to cluster7>>
+コンサート, アーティスト, ライブハウス
+top3 entities near to cluster8>>
+フレンチ, イタリアン, ブルドッグ
+top3 entities near to cluster9>>
+クローク, シューズ, シューズクローゼット
+top3 entities near to cluster10>>
+コース, ハードル, 言い訳
+top3 entities near to cluster11>>
+ジャス, ゴー, ミー
+top3 entities near to cluster12>>
+南青山, ブルー, ノート
+top3 entities near to cluster13>>
+駅店, 店内, 駅
+top3 entities near to cluster14>>
+値段, 逸品, 値打ち
+top3 entities near to cluster15>>
+料理酒, 料理, 食事
+top3 entities near to cluster16>>
+高値, 安値, 底値
+top3 entities near to cluster18>>
+主人, 背後, 真後ろ
+top3 entities near to cluster19>>
+世界, 国内, 世界中
+top3 entities near to cluster20>>
+こころ, ココロ
+top3 entities near to cluster21>>
+伝統, 歴史, 聖地
+top3 entities near to cluster22>>
+距離, 空間, 時間
+top3 entities near to cluster23>>
+特別感, 優越感, 特別, 優越
+top3 entities near to cluster24>>
+音楽, 音楽家, 映画
+top3 entities near to cluster25>>
+ジャズ, モダンジャズ, ポップス
+top3 entities near to cluster26>>
+クラブ, ジャズ, ナイトクラブ
+top3 entities near to cluster27>>
+演劇, 公演, 舞台
+top3 entities near to cluster28>>
+音響, 照明, 大道具
+top3 entities near to cluster29>>
+一流, 有数, 屈指
+top3 entities near to cluster30>>
+演奏, 席, 開演

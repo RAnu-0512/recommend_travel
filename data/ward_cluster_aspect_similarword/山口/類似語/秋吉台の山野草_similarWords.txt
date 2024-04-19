@@ -1,0 +1,7 @@
+--------------------similar_words:秋吉台の山野草--------------------
+top3 entities near to cluster0>>
+植物, 樹木, 動植物
+top3 entities near to cluster1>>
+山野草, 山野, 径庵
+top3 entities near to cluster2>>
+国定, 公園, 史跡

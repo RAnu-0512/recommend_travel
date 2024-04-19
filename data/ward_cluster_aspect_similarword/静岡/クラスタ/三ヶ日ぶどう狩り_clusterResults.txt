@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三ヶ日ぶどう狩り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ぶどう狩り, 味覚ぶどう狩り, ぶどう狩
+cluster1:(2)
+食べ比べ, 食べ放題
+cluster2:(6)
+場所, 種類, 葡萄, 浜松市街地, 各々, ぶどう
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

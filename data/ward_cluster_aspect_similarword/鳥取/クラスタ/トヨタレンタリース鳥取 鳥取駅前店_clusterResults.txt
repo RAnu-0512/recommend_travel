@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタレンタリース鳥取 鳥取駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+職員, 空港
+cluster1:(2)
+トヨタ, 妻
+cluster2:(2)
+事, 店
+cluster3:(1)
+受付
+cluster4:(1)
+列
+cluster5:(1)
+昼ごはん
+cluster6:(1)
+整理券
+
+howmany entities : 10
+howmany clusters : 7
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 7
+deleted 0entities.

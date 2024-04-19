@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR西日本下関駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハンドベル, 発車ベル
+cluster1:(2)
+明治, 下関
+cluster2:(4)
+もの, こと, 間, 時代
+cluster3:(2)
+山陽本線, 山陰線
+cluster4:(3)
+スーパー, モール, チェックイン
+cluster5:(1)
+日本
+cluster6:(1)
+行
+cluster7:(1)
+廊下
+cluster8:(1)
+はなし号
+cluster9:(1)
+火災
+cluster10:(1)
+防長交通バス
+cluster11:(4)
+駅周辺, 駅ビル, 駅, 商業施設
+cluster12:(3)
+宿小倉, 途中下関駅, 新山口駅
+cluster13:(1)
+秋芳洞
+
+howmany entities : 27
+howmany clusters : 14
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 14
+deleted 0entities.

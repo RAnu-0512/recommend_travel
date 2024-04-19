@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐波川河川敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ウォーキング, ジョギング
+cluster1:(1)
+河川敷
+cluster2:(1)
+ボール
+cluster3:(1)
+佐波川
+cluster4:(1)
+そば
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

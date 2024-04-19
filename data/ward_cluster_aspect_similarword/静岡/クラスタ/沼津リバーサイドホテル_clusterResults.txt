@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津リバーサイドホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パネル, キャラクターパネル
+cluster1:(4)
+セルフサービス, クーポン, サンシャイン, 打ち上げ花火
+cluster2:(2)
+カフェ, ホテル
+cluster3:(2)
+ウエルカムドリンク, プラン
+cluster4:(1)
+ヨハネ
+cluster5:(1)
+狩野川
+cluster6:(2)
+提供, 宿泊
+cluster7:(2)
+ラブライブ, 聖地めぐり
+cluster8:(7)
+和食レストラン, ヨハネのぼり旗, 朝食バイキング, うなぎ御膳, 展示室, 夕食, 朝食バイキング会場ケヤキ
+cluster9:(4)
+静岡県, まちあるきスタンプ, JR東海xラブライブ, 山梨県
+
+howmany entities : 27
+howmany clusters : 10
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 12entities.

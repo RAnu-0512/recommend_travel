@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:休山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+トイレ, 初心者
+cluster1:(2)
+近く, 途中
+cluster2:(1)
+山
+cluster3:(1)
+名前
+cluster4:(1)
+空気
+cluster5:(1)
+呉市
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

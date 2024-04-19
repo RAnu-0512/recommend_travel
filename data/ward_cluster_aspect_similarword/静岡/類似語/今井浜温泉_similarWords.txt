@@ -1,0 +1,11 @@
+--------------------similar_words:今井浜温泉--------------------
+top3 entities near to cluster0>>
+気分, 転換
+top3 entities near to cluster1>>
+部屋, 肌, 露天風呂
+top3 entities near to cluster3>>
+入浴, 食事, 風呂
+top3 entities near to cluster5>>
+温泉, 露天風呂, 旅館
+top3 entities near to cluster8>>
+温泉, 塩化, 旅館

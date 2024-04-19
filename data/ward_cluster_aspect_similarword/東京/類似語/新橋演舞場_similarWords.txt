@@ -1,0 +1,25 @@
+--------------------similar_words:新橋演舞場--------------------
+top3 entities near to cluster0>>
+公演, 芝居, 観劇
+top3 entities near to cluster1>>
+予約, 電話, 受付
+top3 entities near to cluster2>>
+拝見, 襲名, 販売
+top3 entities near to cluster3>>
+建物, 土産物, 飲食
+top3 entities near to cluster4>>
+地方勢, 交弱勢, 地方, 交弱
+top3 entities near to cluster5>>
+チケット, 売り場, 前売り
+top3 entities near to cluster6>>
+海老蔵, 歌舞伎, 猿之助
+top3 entities near to cluster7>>
+ルール, 雰囲気, 規則
+top3 entities near to cluster8>>
+手続き, 手続, ネット
+top3 entities near to cluster11>>
+代, チケット, 前半
+top3 entities near to cluster13>>
+時間, 時, 同行
+top3 entities near to cluster15>>
+30, 15, 17

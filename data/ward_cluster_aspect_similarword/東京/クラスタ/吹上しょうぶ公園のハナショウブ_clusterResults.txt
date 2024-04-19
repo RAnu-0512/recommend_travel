@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吹上しょうぶ公園のハナショウブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場入場料, 入園料
+cluster1:(6)
+祭り, 公園, しょうぶ公園, しょうぶ園, しょうぶ祭, 花しょうぶ祭り
+cluster2:(2)
+見頃, 満開
+cluster3:(4)
+場所, 時期, 敷地, 帰り
+cluster4:(5)
+花菖蒲, しょうぶ, 花, 菖蒲, 花しょうぶ
+cluster5:(2)
+青梅市吹, 塩船観音
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

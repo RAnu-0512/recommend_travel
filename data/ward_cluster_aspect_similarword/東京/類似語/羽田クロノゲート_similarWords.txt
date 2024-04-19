@@ -1,0 +1,9 @@
+--------------------similar_words:羽田クロノゲート--------------------
+top3 entities near to cluster0>>
+施設, 事業, 物流
+top3 entities near to cluster1>>
+荷物, 部屋, 棚
+top3 entities near to cluster2>>
+ヤマト, クロネコヤマト, ロビー
+top3 entities near to cluster4>>
+上限, 解散, 回転

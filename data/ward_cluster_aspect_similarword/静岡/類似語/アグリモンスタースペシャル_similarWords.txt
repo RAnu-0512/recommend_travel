@@ -1,0 +1,33 @@
+--------------------similar_words:アグリモンスタースペシャル--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 親達
+top3 entities near to cluster1>>
+息子, 娘, 妻
+top3 entities near to cluster2>>
+子供, 大人, 子ども
+top3 entities near to cluster6>>
+女性, 男性, 男女
+top3 entities near to cluster8>>
+おみやげ, 気配り, 美味しい
+top3 entities near to cluster11>>
+シューズ, スタッフ, イベント
+top3 entities near to cluster12>>
+いちご, イチゴ, 苺
+top3 entities near to cluster14>>
+ハウス, 設備, ビニール
+top3 entities near to cluster15>>
+利用, 受付, 対応
+top3 entities near to cluster19>>
+分け, 外れ
+top3 entities near to cluster23>>
+かたは, いらっしゃる
+top3 entities near to cluster27>>
+気分, 天気, 気持ち
+top3 entities near to cluster28>>
+時間, 予約, 体験
+top3 entities near to cluster29>>
+食べ放題, 食べ, 食する
+top3 entities near to cluster30>>
+狩り, イチゴ, 狩る
+top3 entities near to cluster31>>
+イチゴ, 苺, いちご

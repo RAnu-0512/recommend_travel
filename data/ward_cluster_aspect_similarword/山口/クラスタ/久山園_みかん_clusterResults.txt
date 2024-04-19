@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久山園_みかん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供, みかん, 我が家
+cluster1:(2)
+園内, 園
+cluster2:(1)
+草スキー
+cluster3:(1)
+みかん狩り
+cluster4:(1)
+久山園
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:高橋是清邸(江戸東京たてもの園)--------------------
+top3 entities near to cluster0>>
+現場, 事件, 価値
+top3 entities near to cluster1>>
+邸宅, 部屋, 屋敷
+top3 entities near to cluster3>>
+区, 港, 区内
+top3 entities near to cluster4>>
+髙橋, 赫一, 伊藤
+top3 entities near to cluster5>>
+大臣, 総理, 官僚

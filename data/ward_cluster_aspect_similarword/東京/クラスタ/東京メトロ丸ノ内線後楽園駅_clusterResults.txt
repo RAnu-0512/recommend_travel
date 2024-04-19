@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸ノ内線後楽園駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+試合, 野球
+cluster1:(11)
+東京ドーム, 最寄り駅, ドーム, 東京ドームシティ, ところ, ホーム, ローソン, 後楽園, 地下鉄, 南北線, ラクーア
+cluster2:(4)
+人, 利用, 近く, 仕事
+cluster3:(1)
+雨
+cluster4:(5)
+水道橋駅, 駅, 改札, 後楽園駅, 駅ビル
+cluster5:(4)
+地上, 地下, 東京メトロ, 地上駅
+cluster6:(1)
+遊園地
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 7
+deleted 0entities.

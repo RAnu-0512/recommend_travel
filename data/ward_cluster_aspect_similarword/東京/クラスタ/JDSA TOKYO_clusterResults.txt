@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JDSA TOKYO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石鹸作り, 石鹸
+cluster1:(2)
+体験, 初体験
+cluster2:(8)
+先生, ところ, 終了, 雰囲気, 型, 香り, 工程, 色
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

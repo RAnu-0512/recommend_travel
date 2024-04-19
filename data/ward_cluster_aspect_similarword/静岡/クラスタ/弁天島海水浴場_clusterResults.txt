@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弁天島海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+端, 中央
+cluster1:(2)
+日, 場所
+cluster2:(3)
+海水浴, 弁天島, 潮干狩り
+cluster3:(5)
+コロナ, 入り口, ホーム, コンビニ, マナー
+cluster4:(3)
+娘, 人, 方
+cluster5:(1)
+天気
+cluster6:(3)
+海岸, 砂浜, 弁天島駅
+cluster7:(2)
+鳥居, 熊手
+cluster8:(5)
+駐車場, 海水浴場, 釣り, 浜釣り, 釣り人
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 5
+deleted 7entities.

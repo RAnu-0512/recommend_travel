@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士市交流プラザ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴミ, バカ
+cluster1:(7)
+話, 場所, 富士山, 感じ, 受付, 声, 女性
+cluster2:(1)
+役所仕事
+cluster3:(1)
+富士駅
+cluster4:(1)
+警備員
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

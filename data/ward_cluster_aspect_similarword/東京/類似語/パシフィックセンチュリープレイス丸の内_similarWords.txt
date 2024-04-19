@@ -1,0 +1,9 @@
+--------------------similar_words:パシフィックセンチュリープレイス丸の内--------------------
+top3 entities near to cluster0>>
+ビル, 高層, 商業
+top3 entities near to cluster1>>
+ホテル, レストラン, ランチ
+top3 entities near to cluster3>>
+中心街, 周辺街, 中心, 周辺
+top3 entities near to cluster4>>
+駅前, 南口

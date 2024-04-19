@@ -1,0 +1,115 @@
+--------------------similar_words:小田急百貨店新宿店--------------------
+top3 entities near to cluster0>>
+ブランド, アパレル, ファッション
+top3 entities near to cluster1>>
+ケーキ, ランチ, パティスリーショップ
+top3 entities near to cluster2>>
+レンタル, シーズン, オフシーズン
+top3 entities near to cluster3>>
+ミキハウス, スポーツ, ファイテン
+top3 entities near to cluster4>>
+デパート, ブティック, レストラン
+top3 entities near to cluster5>>
+エスカレーター, エレベーター, エスカレータ
+top3 entities near to cluster6>>
+テナント, 店舗, ショッピングビル
+top3 entities near to cluster7>>
+西武新宿線, 西武新宿, 西武園線
+top3 entities near to cluster8>>
+おすすめ, サービス, イベント
+top3 entities near to cluster9>>
+入り口, 出入り口, エリア
+top3 entities near to cluster10>>
+買い物, レシート, カード
+top3 entities near to cluster11>>
+サイズ, セット, ミニサイズ
+top3 entities near to cluster12>>
+メール, お願い, いたし
+top3 entities near to cluster13>>
+コスト, 費用, 経費
+top3 entities near to cluster14>>
+催し物, 雰囲気, イベント
+top3 entities near to cluster15>>
+フロア, 各階, 地階
+top3 entities near to cluster16>>
+売り場, 売場, デパート
+top3 entities near to cluster17>>
+フード, コート, アーミーコート
+top3 entities near to cluster18>>
+お菓子, スイーツ, ランチ
+top3 entities near to cluster19>>
+時間, 休憩室, 休憩
+top3 entities near to cluster20>>
+老舗店, 老舗, 有名ブランド
+top3 entities near to cluster21>>
+大型, 百貨店, 中型
+top3 entities near to cluster22>>
+百貨店, デパート, 小田急
+top3 entities near to cluster23>>
+ハルク, 小田急, スマッシュ・ヒーローズ
+top3 entities near to cluster24>>
+カー, ロマンス, キャンピング
+top3 entities near to cluster25>>
+通路, 各階, 建物
+top3 entities near to cluster26>>
+本屋, 魚屋, 古本屋
+top3 entities near to cluster27>>
+店員, 女性, 男性
+top3 entities near to cluster28>>
+仕事, 教育, 勉強
+top3 entities near to cluster30>>
+夕方, 午前, 朝
+top3 entities near to cluster31>>
+デン, たね, すけ
+top3 entities near to cluster33>>
+食事, 夕食, パン
+top3 entities near to cluster35>>
+展示, 催事
+top3 entities near to cluster36>>
+土産, おみやげ, 弁当
+top3 entities near to cluster37>>
+飲食店, 飲食, 接客
+top3 entities near to cluster38>>
+菓子, お菓子, 和菓子
+top3 entities near to cluster39>>
+菓子系, お菓子系, 菓子, お菓子
+top3 entities near to cluster40>>
+和洋, 菓子, 和菓子
+top3 entities near to cluster41>>
+食品, 惣菜, 食材
+top3 entities near to cluster42>>
+洋服, 用品
+top3 entities near to cluster43>>
+家族, 友達, 友人
+top3 entities near to cluster45>>
+食品, 生鮮, 売り場
+top3 entities near to cluster46>>
+化粧品, 品等, 化粧
+top3 entities near to cluster49>>
+駅, 駅前, 南口
+top3 entities near to cluster51>>
+電鉄系, 電鉄, 百貨店
+top3 entities near to cluster52>>
+改札, 駅, 構内
+top3 entities near to cluster53>>
+改札口, 改札, 駅口, 駅
+top3 entities near to cluster54>>
+ビル, 駅, 駅前
+top3 entities near to cluster55>>
+駅, 徒歩, 駅前
+top3 entities near to cluster56>>
+直結, 駅, 徒歩
+top3 entities near to cluster57>>
+地価, 土地, 地代
+top3 entities near to cluster58>>
+東口, 南口, 駅前
+top3 entities near to cluster59>>
+地下, ・・デパ, 地階
+top3 entities near to cluster60>>
+地上, 地下階, 地下
+top3 entities near to cluster62>>
+馬屋, 津高, 希有
+top3 entities near to cluster63>>
+しか, ない, なかっ
+top3 entities near to cluster64>>
+西武, 京王, 東急

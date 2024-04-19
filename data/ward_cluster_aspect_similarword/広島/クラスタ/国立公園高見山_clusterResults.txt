@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国立公園高見山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展望台, 他展望台, 展望デッキ
+cluster1:(3)
+はしまなみ海道, 因島, 因島大橋
+cluster2:(6)
+瀬戸内, 山, 瀬戸, 海, 四国, 島々
+cluster3:(2)
+駐車スペース, 標高
+cluster4:(3)
+島嶼部, 山頂部, 瀬戸内海国立公園
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

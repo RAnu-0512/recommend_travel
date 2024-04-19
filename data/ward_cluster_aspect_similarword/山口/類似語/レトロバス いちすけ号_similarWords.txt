@@ -1,0 +1,13 @@
+--------------------similar_words:レトロバス いちすけ号--------------------
+top3 entities near to cluster0>>
+周遊券, 乗車券, 乗車, 周遊
+top3 entities near to cluster2>>
+値段, 外観, 色合い
+top3 entities near to cluster3>>
+椅子, 子供, 乗り物
+top3 entities near to cluster4>>
+幸運, 不運, 好運
+top3 entities near to cluster5>>
+列車, 駅, バス
+top3 entities near to cluster6>>
+すけ, いち, すけな

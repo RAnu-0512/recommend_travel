@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルラングウッド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+フルーツパーラ〇○○, 駐輪券, 区営駐輪場
+cluster1:(2)
+サイドディッシュ食べ放題, 食べ放題
+cluster2:(8)
+利用, 他, 体験クーポン, 感じ, 評価, 方, 物, 感
+cluster3:(3)
+メイン料理, 会計, 料理
+cluster4:(2)
+星, 新宿
+cluster5:(2)
+パン, 皿
+cluster6:(3)
+食事, 子供, 家族
+cluster7:(19)
+パスタ, ホテル, ビジネスホテル, クリスマス, ドリンク, ごはん, アイス, スイーツ, コスパ, 日暮里, メンテナンス, ポイント, シチュー, ランチ, チョコチップクッキー, 木曜日, サラダ, ビーフシチュー, ラザニア
+cluster8:(1)
+LO
+cluster9:(2)
+期間限定クーポン, 従業員
+
+howmany entities : 45
+howmany clusters : 10
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 10
+deleted 0entities.

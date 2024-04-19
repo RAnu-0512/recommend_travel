@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイビングスクールWITH山口>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ダイビング, クラブハウス
+cluster1:(1)
+シャワー
+cluster2:(2)
+機材, 基本スキル
+cluster3:(1)
+学科
+cluster4:(1)
+使用方法
+cluster5:(1)
+暖房施設
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

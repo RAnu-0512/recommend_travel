@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松田祥幹 蒔絵・金継ぎ教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+作品, 場所, 味, 方, 歴史, 先生, 作業, 教室, もの
+cluster1:(9)
+こども, 初心者, 娘, 金婚式, ギフト, 息子, 銀座, 記念, 女性
+cluster2:(1)
+蒔絵
+cluster3:(1)
+体験教室
+cluster4:(1)
+祖父祖母
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

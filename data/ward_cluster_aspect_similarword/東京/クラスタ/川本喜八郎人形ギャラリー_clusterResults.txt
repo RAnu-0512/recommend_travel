@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川本喜八郎人形ギャラリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+人形, 人形劇, 人形達, 人形展, 人形ギャラリー, 人形劇 三国志, 人形作家
+cluster1:(5)
+展示, 企画展示, 常設ギャラリー, 入場無料, 展示数
+cluster2:(2)
+NHK, テレビ
+cluster3:(5)
+南総里見八犬伝, ところ, ヒカリエ, ギャラリー, スペース
+cluster4:(1)
+三国志
+cluster5:(1)
+中
+cluster6:(1)
+写真
+cluster7:(1)
+物語
+cluster8:(1)
+渋谷
+cluster9:(1)
+表情
+cluster10:(1)
+川本喜八郎
+cluster11:(4)
+平家物語, 三國志, 三国志・平家物語あたり, 平家
+
+howmany entities : 30
+howmany clusters : 12
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 12
+deleted 0entities.

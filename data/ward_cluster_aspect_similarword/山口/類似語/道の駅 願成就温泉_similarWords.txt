@@ -1,0 +1,13 @@
+--------------------similar_words:道の駅 願成就温泉--------------------
+top3 entities near to cluster0>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster1>>
+成就, 温泉
+top3 entities near to cluster2>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster3>>
+脱衣場, 駐車場, 駐車, 脱衣
+top3 entities near to cluster4>>
+時間, 温度, 駅
+top3 entities near to cluster5>>
+温泉, 成就, 風呂

@@ -1,0 +1,15 @@
+--------------------similar_words:土方歳三の墓--------------------
+top3 entities near to cluster0>>
+施設, 車両
+top3 entities near to cluster1>>
+人気, 大勢
+top3 entities near to cluster2>>
+参拝, 往来, お参り
+top3 entities near to cluster3>>
+墓所, 寺院
+top3 entities near to cluster4>>
+駐車場, 駐車
+top3 entities near to cluster5>>
+漕宝路, 漕宝
+top3 entities near to cluster6>>
+土方, 新選, 新撰

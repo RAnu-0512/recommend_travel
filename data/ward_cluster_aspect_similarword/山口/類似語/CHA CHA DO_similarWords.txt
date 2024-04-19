@@ -1,0 +1,15 @@
+--------------------similar_words:CHA CHA DO--------------------
+top3 entities near to cluster0>>
+レッスン, オーナー, プチレッスン
+top3 entities near to cluster1>>
+直前, 直後, 以前
+top3 entities near to cluster2>>
+店舗, 店主
+top3 entities near to cluster3>>
+指手, なり手, 指
+top3 entities near to cluster4>>
+教室, レッスン, 講座
+top3 entities near to cluster5>>
+上手, 話し, 上手い
+top3 entities near to cluster6>>
+世界観, 世界, 価値観, 価値

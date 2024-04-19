@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百段階段>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+雨, 靴, 傘, ビニール袋, 傘立て, 靴ロッカー
+cluster1:(2)
+大物, 大型エレベーター
+cluster2:(13)
+途中, ホテル, 目黒雅叙園, ホテルエントランス, スタッフ, イベント, 結婚式, トイレ, 日本, 方, 外, 手荷物, システム
+cluster3:(3)
+変更, ホテル名称, 印象
+cluster4:(3)
+無料コインロッカー, 禁止, 受付
+cluster5:(10)
+壁画, 玄関, 和室, 披露宴会場, ホテルプレート裏, 館内, 階段途中, 目黒駅, 部屋, 室内装飾
+cluster6:(1)
+異母姉
+cluster7:(5)
+展示室, 企画展チラシ, 優待券, コラボ立体展示, 割引券
+cluster8:(1)
+段階段X昭和モダン企画展会場
+
+howmany entities : 44
+howmany clusters : 9
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 9
+deleted 0entities.

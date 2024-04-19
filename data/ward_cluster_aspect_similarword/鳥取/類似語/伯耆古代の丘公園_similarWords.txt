@@ -1,0 +1,15 @@
+--------------------similar_words:伯耆古代の丘公園--------------------
+top3 entities near to cluster0>>
+弥生, 縄文, 中期
+top3 entities near to cluster1>>
+ハス, 蓮, 古代
+top3 entities near to cluster2>>
+公園, 丘, 緑地
+top3 entities near to cluster3>>
+体験, 体験談, 体感
+top3 entities near to cluster4>>
+古代, 中世, 太古
+top3 entities near to cluster6>>
+入園, 入口, 園内
+top3 entities near to cluster7>>
+古墳, 遺跡, 横穴

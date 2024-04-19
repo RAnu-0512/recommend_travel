@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:晴海客船ターミナル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+船客ターミナル, 客船ターミナル, 豪華客船, 晴海客船ターミナル
+cluster1:(6)
+東京都, 港まつり, 晴海, 東京オリンピック, 台場, 中央区
+cluster2:(2)
+景色, 夜景
+cluster3:(15)
+場所, 東京湾, オリンピック, オススメ, 海外, カップル, 人, デートスポット, レインボーブリッジ, ドライブ, 名前, 車, 撮影, 船, 雰囲気
+cluster4:(2)
+閑散, 工事
+cluster5:(1)
+どこか
+cluster6:(1)
+駐車場
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

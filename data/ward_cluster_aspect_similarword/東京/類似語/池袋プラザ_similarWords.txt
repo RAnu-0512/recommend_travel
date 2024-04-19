@@ -1,0 +1,9 @@
+--------------------similar_words:池袋プラザ--------------------
+top3 entities near to cluster0>>
+常連, お客, 上客
+top3 entities near to cluster1>>
+対応, 迅速, 対処
+top3 entities near to cluster2>>
+咳, 咳き, 空咳
+top3 entities near to cluster3>>
+従業員, 従業, 乗組員, 乗組

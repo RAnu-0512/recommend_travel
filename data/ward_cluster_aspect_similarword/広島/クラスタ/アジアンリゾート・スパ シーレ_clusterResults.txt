@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アジアンリゾート・スパ シーレ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+浴室, 貸切り風呂, 風呂
+cluster1:(2)
+垢, 水滴
+cluster2:(19)
+施設, 体, 関係, オススメ, 男, 褒美, ロミロミ, 施術, 客, コース, 感じ, 人, サウナ, アロママッサージ, 雰囲気, コロナ, 時間, 結果, 張り紙
+cluster3:(1)
+誕生日
+cluster4:(1)
+黙浴
+cluster5:(1)
+入館料
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川端文学碑_伊豆の踊子ブロンズ像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+福田屋, 福田, 川端康成
+cluster1:(2)
+踊子, 踊子像
+cluster2:(2)
+旅館, 旅館脇
+cluster3:(2)
+こと, 状態
+cluster4:(4)
+踊り子, 部屋, 家, 教科書
+cluster5:(1)
+玄関
+cluster6:(1)
+像
+cluster7:(1)
+伊豆
+cluster8:(1)
+学生時代
+cluster9:(1)
+文学碑
+
+howmany entities : 18
+howmany clusters : 10
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 11entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百合谷水辺公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+川沿い, 親水公園, 百合谷水辺公園
+cluster1:(2)
+子供, 子供連れ
+cluster2:(3)
+公園, 草花, 遊具
+cluster3:(1)
+自然環境
+cluster4:(1)
+岩国市
+cluster5:(1)
+四季折々
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

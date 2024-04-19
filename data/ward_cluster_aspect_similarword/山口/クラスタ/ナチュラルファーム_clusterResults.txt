@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ナチュラルファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+簡易トイレ, 和式
+cluster1:(2)
+美味しさ, 楽し
+cluster2:(9)
+中, こと, 場所, 途中, 購入, 時間, 時期, 感じ, 方
+cluster3:(3)
+甘い, 種類, 好み
+cluster4:(1)
+料金
+cluster5:(1)
+何か
+cluster6:(34)
+子供, 孫, ハウス, 取っ手, コンデンスミルク, ところ, ビニールハウス, 子ども, 満腹, 土産, スタッフ, GW, 家族, いちご, 雨, 農場, ちご, イチゴ, 外, 受験生, お出かけ, 娘, リピート, トイレ, 周り, 大人, 練乳, 膝, 恒例, 足元, 近所, 人, 自販機, 品種
+cluster7:(1)
+じぶん
+cluster8:(10)
+いちご狩り, 予約, 受付, イチゴ狩り, 開放感, 貸切状態, 時間無制限, 予約時間, 食べ比べ, 食べ放題
+
+howmany entities : 63
+howmany clusters : 9
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:南大塚地域文化創造館--------------------
+top3 entities near to cluster0>>
+駅線, 駅, 山の手線
+top3 entities near to cluster1>>
+ホール, スタッフ, コンサートホール
+top3 entities near to cluster3>>
+施設, 設備, 敷地
+top3 entities near to cluster4>>
+頭, アタマ, 脳みそ
+top3 entities near to cluster5>>
+料金, 運賃, 費用
+top3 entities near to cluster7>>
+駅, 駅前, ＪＲ
+top3 entities near to cluster8>>
+公共, 公営, 公的
+top3 entities near to cluster9>>
+近すぎ, 近, 交係
+top3 entities near to cluster10>>
+会議室, 会議, 室長
+top3 entities near to cluster11>>
+塗装, 工事, 施工

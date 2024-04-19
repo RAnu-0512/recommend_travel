@@ -1,0 +1,21 @@
+--------------------similar_words:道の駅 下賀茂温泉 湯の花--------------------
+top3 entities near to cluster0>>
+産直, 乾物, 野菜
+top3 entities near to cluster2>>
+野菜, 果物, 食材
+top3 entities near to cluster4>>
+メロン, トマト, イチゴ
+top3 entities near to cluster5>>
+コーナー, 帰り際, ショップ
+top3 entities near to cluster9>>
+土産物, おみやげ, 土産
+top3 entities near to cluster10>>
+比べ物, 比べもの, 違う
+top3 entities near to cluster12>>
+野菜, 弁当, 果物
+top3 entities near to cluster13>>
+桜, 八重桜, 満開
+top3 entities near to cluster14>>
+温泉, 露天風呂, 宿
+top3 entities near to cluster15>>
+川, 川沿い, 支流沿い, 支流

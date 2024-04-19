@@ -1,0 +1,15 @@
+--------------------similar_words:新居弁天わんぱくランド--------------------
+top3 entities near to cluster0>>
+海水, 塩水, プール
+top3 entities near to cluster1>>
+子人, 家族, 子
+top3 entities near to cluster2>>
+プール, スイミング, 水遊び
+top3 entities near to cluster3>>
+小学生, 小学校, 滑り台
+top3 entities near to cluster4>>
+シート, ベンチ, テント
+top3 entities near to cluster8>>
+焼きそば, ペットボトル, たこ焼き
+top3 entities near to cluster13>>
+子供, 小学生, 中学生

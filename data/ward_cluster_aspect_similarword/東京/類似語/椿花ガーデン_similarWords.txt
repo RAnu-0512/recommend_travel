@@ -1,0 +1,21 @@
+--------------------similar_words:椿花ガーデン--------------------
+top3 entities near to cluster0>>
+リス, クマ, クラ
+top3 entities near to cluster1>>
+椿, 姫, 山茶花
+top3 entities near to cluster2>>
+餌, エサ, えさ
+top3 entities near to cluster3>>
+子供, 子ども, 土産
+top3 entities near to cluster4>>
+紹介, 思う, 思い
+top3 entities near to cluster5>>
+話人, 時期, 話
+top3 entities near to cluster6>>
+会話, やり取り, やりとり
+top3 entities near to cluster7>>
+園内, 動物, 桜
+top3 entities near to cluster8>>
+天気, 曇り空, 景色
+top3 entities near to cluster9>>
+創設者, 創始者, 創設, 創始

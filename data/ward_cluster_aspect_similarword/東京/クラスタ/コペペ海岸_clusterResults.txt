@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コペペ海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+コペペ海岸, 二見港, 海岸, 小港海岸, 扇浦
+cluster1:(2)
+こぺぺ, コぺぺ
+cluster2:(2)
+パン, パン屋
+cluster3:(3)
+綺麗さ, 透明度, 強さ
+cluster4:(15)
+ダイビング, ビーチ, サーフィン, ストレス, エメラルドグリーン, ところ, それぞれ, トイレ, シュノーケル, コペペ, ウミガメ, ヤドカリ, 折り紙, シュノーケリング, 小笠原諸島
+cluster5:(4)
+ハイキングコース, 上り坂, 日差し, 下り坂
+cluster6:(2)
+海外, 東京
+cluster7:(16)
+水, 場所, 隣, 人, 気, 感じ, 近く, 笑, 名前, 上, 車, 中, こと, 下, 友人, 色
+cluster8:(3)
+景色, プライベートビーチ感覚, 星空
+cluster9:(6)
+山, 坂, 波, 海, 星, 浜
+cluster10:(1)
+外海
+cluster11:(1)
+家族連れ
+
+howmany entities : 60
+howmany clusters : 12
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 12
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡橋(旧弾正橋)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+所, 場所, 感じ, もの
+cluster1:(3)
+近く, 地元, 帰り
+cluster2:(6)
+プレート, 富岡八幡宮, ASCE, 日本, たもと, アメリカ
+cluster3:(2)
+歴史, 時代
+cluster4:(1)
+横道
+cluster5:(7)
+鉄橋, 特許, 公園, 厄年, 札, 碑, 橋
+cluster6:(2)
+案内板, 返納
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 7
+deleted 0entities.

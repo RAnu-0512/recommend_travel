@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾崎氏庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+宇野地蔵ダキ, 尾崎, 宇野地区, 尾崎氏庭園, 清水, 宇野公民館, 湯梨浜町
+cluster1:(9)
+家, 庭, 非公開, 庭園, 道, 近く, 広場, 住宅, 外観
+cluster2:(2)
+念, ため車
+cluster3:(1)
+説明看板
+cluster4:(1)
+江戸時代
+cluster5:(1)
+国指定名勝
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

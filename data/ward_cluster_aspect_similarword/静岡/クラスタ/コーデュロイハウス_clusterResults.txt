@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コーデュロイハウス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+磐田駅, 磐田市
+cluster1:(8)
+体験コーナー, 製品, 洋服, 商品, コーデュロイ, 生地, コーデュロイハウス, 小物
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

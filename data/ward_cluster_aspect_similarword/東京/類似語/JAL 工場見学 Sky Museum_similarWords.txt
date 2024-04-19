@@ -1,0 +1,29 @@
+--------------------similar_words:JAL 工場見学 Sky Museum--------------------
+top3 entities near to cluster0>>
+見学, 工場, 整備
+top3 entities near to cluster1>>
+予約制, 予約, 事前
+top3 entities near to cluster2>>
+飛行機, 航空機, 乗り物
+top3 entities near to cluster3>>
+飛行場, 格納庫, ヘリポート
+top3 entities near to cluster4>>
+飛行機, ファン, 航空機
+top3 entities near to cluster5>>
+グッズ, イベント, サイト
+top3 entities near to cluster7>>
+案内, 利用, 整備
+top3 entities near to cluster9>>
+時間帯, 時間, 休憩
+top3 entities near to cluster10>>
+制服, 私服, セーラー服
+top3 entities near to cluster11>>
+展示, 出展, 展覧
+top3 entities near to cluster12>>
+撮影, 写真, 撮っ
+top3 entities near to cluster13>>
+工場, 空港, 学校
+top3 entities near to cluster15>>
+子供, 子ども, 親達
+top3 entities near to cluster16>>
+子供連れ, 子供, つれ

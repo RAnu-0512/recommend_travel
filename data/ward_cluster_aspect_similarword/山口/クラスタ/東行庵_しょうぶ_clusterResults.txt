@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東行庵_しょうぶ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紫, 黄色
+cluster1:(1)
+満開
+cluster2:(1)
+菖蒲
+cluster3:(1)
+団体
+cluster4:(1)
+見物客
+cluster5:(1)
+東行庵
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

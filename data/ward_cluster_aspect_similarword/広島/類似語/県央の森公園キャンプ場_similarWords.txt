@@ -1,0 +1,11 @@
+--------------------similar_words:県央の森公園キャンプ場--------------------
+top3 entities near to cluster1>>
+施設, 駐車場, 駐車
+top3 entities near to cluster2>>
+自然, トイレ, 真ん中
+top3 entities near to cluster3>>
+家族連れ, 家族, つれ
+top3 entities near to cluster4>>
+公園, 森, 緑地
+top3 entities near to cluster5>>
+清潔感, 不潔感, 清潔, 不潔

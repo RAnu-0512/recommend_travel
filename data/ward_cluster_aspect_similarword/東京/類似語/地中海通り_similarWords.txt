@@ -1,0 +1,15 @@
+--------------------similar_words:地中海通り--------------------
+top3 entities near to cluster0>>
+車両
+top3 entities near to cluster1>>
+グルメ, イタリアン, カフェ
+top3 entities near to cluster3>>
+顔ぶれ, 顔触れ, 面々
+top3 entities near to cluster4>>
+間, あいだ, その間
+top3 entities near to cluster5>>
+天現寺, 交差点, 曹橋
+top3 entities near to cluster6>>
+旧道区間, 全線, 旧道
+top3 entities near to cluster7>>
+前述どおり, とおり, 前述

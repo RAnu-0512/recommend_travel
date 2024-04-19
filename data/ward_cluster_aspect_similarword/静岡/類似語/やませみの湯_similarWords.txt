@@ -1,0 +1,9 @@
+--------------------similar_words:やませみの湯--------------------
+top3 entities near to cluster0>>
+温泉, 湯, 風呂
+top3 entities near to cluster5>>
+山間, 山奥, 山村
+top3 entities near to cluster6>>
+自然体, 自然, 雰囲気
+top3 entities near to cluster9>>
+設備, 施設

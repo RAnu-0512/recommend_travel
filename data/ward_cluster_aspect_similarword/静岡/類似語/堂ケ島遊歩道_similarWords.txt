@@ -1,0 +1,15 @@
+--------------------similar_words:堂ケ島遊歩道--------------------
+top3 entities near to cluster0>>
+島堂, 島, 洞
+top3 entities near to cluster2>>
+岩場, 斜面, 急斜面
+top3 entities near to cluster3>>
+景色, 風景, 景観
+top3 entities near to cluster4>>
+見所, 見どころ, 見学
+top3 entities near to cluster5>>
+自然風, 自然, 遊歩道
+top3 entities near to cluster9>>
+周辺, 地上, 近辺
+top3 entities near to cluster11>>
+海岸, 海, 洞窟

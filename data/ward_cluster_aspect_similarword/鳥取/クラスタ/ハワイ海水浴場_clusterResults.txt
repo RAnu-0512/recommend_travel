@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハワイ海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+休憩所, 駐車場, 更衣室, ハワイ海水浴場
+cluster1:(3)
+お湯シャワー, 水シャワー, 温水シャワー
+cluster2:(2)
+夏, 冬
+cluster3:(3)
+風景, ご飯, 公園
+cluster4:(2)
+海水浴, 海水浴シーズン
+cluster5:(3)
+子ども, 人, 子供
+cluster6:(7)
+ゴーグル, ハワイ, シャワー, 比べ物, スイーツ, 日本海, アメリカ
+cluster7:(4)
+家, 時期, 中, 名前
+cluster8:(1)
+有料
+cluster9:(4)
+海, 遠浅, 魚, 砂
+
+howmany entities : 33
+howmany clusters : 10
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 10
+deleted 0entities.

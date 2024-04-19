@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯の街ギャラリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+参考, 影響
+cluster1:(6)
+中心, コロナ, メイン, カメラ, カエル, MAP
+cluster2:(2)
+店, 施設
+cluster3:(3)
+街ギャラリー, 街, 活気
+cluster4:(1)
+写真館
+cluster5:(1)
+まち歩き楽しみ
+cluster6:(3)
+温泉本, 温泉街, 温泉本通り
+cluster7:(2)
+足湯, 湯
+cluster8:(1)
+薬師の湯
+cluster9:(1)
+三朝温泉
+cluster10:(1)
+飲泉場
+
+howmany entities : 23
+howmany clusters : 11
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 11
+deleted 0entities.

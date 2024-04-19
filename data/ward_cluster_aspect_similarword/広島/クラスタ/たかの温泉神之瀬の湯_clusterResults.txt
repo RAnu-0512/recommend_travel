@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たかの温泉神之瀬の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 地元
+cluster1:(2)
+温泉, 旅行
+cluster2:(1)
+浴室
+cluster3:(1)
+高野
+cluster4:(2)
+湯 温泉, 脱衣場
+cluster5:(1)
+神之瀬
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

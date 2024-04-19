@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寿永寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+建築物, 浄土宗寺院, 寺院巡り
+cluster1:(3)
+三ノ輪駅, 駅, 王子駅
+cluster2:(2)
+笑顔, 香り
+cluster3:(12)
+ホテル, 場所, 建物, アクセス, 浅草橋, 感じ, 近く, 歴史, 七福神, 日比谷線, 雰囲気, 布袋尊
+cluster4:(6)
+本堂, 寺, 蔵, 神, 布袋, 湯
+cluster5:(1)
+下谷七福神
+cluster6:(3)
+鶯谷銭湯 萩, 居酒屋 信濃路, チンチン電車
+cluster7:(6)
+寿永寺, 入谷鬼子福禄寿 元, 三ノ輪橋 七福神巡り 寿永寺, 毘沙門天 英信寺三面大黒天, 布袋尊 ここで御朱印を頂き 飛不動恵比寿神 弁天院弁財天 法昌寺, 三島神社寿老人 下町散歩 昭和
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 8
+deleted 0entities.

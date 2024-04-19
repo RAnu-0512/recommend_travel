@@ -1,0 +1,9 @@
+--------------------similar_words:羽村堰--------------------
+top3 entities near to cluster1>>
+桜, 八重桜, 満開
+top3 entities near to cluster2>>
+夜桜, 花見, 桜
+top3 entities near to cluster4>>
+取水, 堰, 堰堤
+top3 entities near to cluster5>>
+郷土, 資料, 館

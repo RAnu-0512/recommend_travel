@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:紫陽花ロード>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+梅雨どき, 梅雨, 梅雨時期
+cluster1:(5)
+色, 青, 青系, 緑, 紫色
+cluster2:(6)
+時期, 方, 目, 形, こと, 場所
+cluster3:(2)
+観, 風景
+cluster4:(14)
+色とりどり, 境内, ところ, 遊歩道, ドライバー, スポット, 各地, アジサイ, 紫陽花, 桜並木, 紫陽花ロード, 見ごたえ, 圧巻, メイン
+cluster5:(2)
+斜面, 深入山山麓
+cluster6:(5)
+桜, 花, 山, 春, 満開
+cluster7:(8)
+国道, 徒歩, 道沿い, 徒歩圏, 道, 松原地区, 駅, 神辺駅
+cluster8:(1)
+───O
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 9
+deleted 0entities.

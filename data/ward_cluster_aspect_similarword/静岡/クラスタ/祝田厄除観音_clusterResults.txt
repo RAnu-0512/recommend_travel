@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:祝田厄除観音>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+裏手, 横
+cluster1:(3)
+善明寺, 都田川, 堤防
+cluster2:(2)
+信仰, 寺
+cluster3:(1)
+ベル21
+cluster4:(1)
+駐車場
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

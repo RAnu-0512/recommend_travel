@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:琴崎八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+社務所, 参拝者
+cluster1:(2)
+風鈴まつり, 風鈴
+cluster2:(2)
+心地, 音色
+cluster3:(2)
+境内, 神社
+cluster4:(4)
+風, 部屋, お守り, お守り売り場
+cluster5:(2)
+数, 種類
+cluster6:(2)
+日本, 上
+cluster7:(1)
+場
+cluster8:(3)
+丘, 別棟, 郊外
+cluster9:(1)
+存分
+cluster10:(1)
+宇部市
+
+howmany entities : 22
+howmany clusters : 11
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 11
+deleted 0entities.

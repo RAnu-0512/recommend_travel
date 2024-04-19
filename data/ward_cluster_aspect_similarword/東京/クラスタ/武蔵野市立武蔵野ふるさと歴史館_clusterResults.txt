@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵野市立武蔵野ふるさと歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+関東, 立川, 武蔵野市
+cluster1:(4)
+関係, 歴史, 徒歩, 青春
+cluster2:(4)
+ふるさと歴史館, 駅界隈, 途中下車, 住宅街
+cluster3:(4)
+中央線沿い, JR武蔵境, 武蔵境駅, JR武蔵境駅
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

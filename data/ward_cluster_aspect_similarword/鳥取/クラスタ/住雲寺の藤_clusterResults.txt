@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:住雲寺の藤>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+ふじ寺, 住雲寺, 藤まつり, ふじ棚, 六尺フジ, 藤, 藤寺, 藤祭り
+cluster1:(8)
+満開, 品種, 房, 香り, 花, 藤棚, 花房, フジ
+cluster2:(12)
+時期, 別名, 大山寺, カーテン, イベント, こと, ベンチ, 田舎, もの, 温泉, 途中, 曹洞宗
+cluster3:(6)
+寺院, 人出, 屋台, 境内, 寄付, 寺
+cluster4:(6)
+お花見, 大型連休, 花見客, 観光客, 駐車場, GWごろ
+
+howmany entities : 40
+howmany clusters : 5
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 5
+deleted 0entities.

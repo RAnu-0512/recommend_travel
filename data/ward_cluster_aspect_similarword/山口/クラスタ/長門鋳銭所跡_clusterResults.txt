@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長門鋳銭所跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+和同開珎鋳銭所, 長門鋳銭所
+cluster1:(2)
+寺, 境内
+cluster2:(2)
+石碑, 遺構
+cluster3:(1)
+案内板
+cluster4:(2)
+下関市歴史博物館, 覚苑寺
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

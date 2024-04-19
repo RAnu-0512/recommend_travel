@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぼら納屋海水プール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+透明度, 一体感
+cluster1:(5)
+冷水シャワー, コロナ禍, くみ上げ濾過, 消毒, 温水シャワー
+cluster2:(3)
+海水, 海岸, 海
+cluster3:(3)
+岩場, 石, 岩
+cluster4:(6)
+海水浴, プール, シャワー, 奥行き, チェックイン, スタイル
+cluster5:(2)
+家族, 子供
+cluster6:(3)
+こと, 楽しみ方, 距離
+cluster7:(1)
+利用者
+cluster8:(2)
+ぼら納屋プール, 入園料
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 5
+deleted 7entities.

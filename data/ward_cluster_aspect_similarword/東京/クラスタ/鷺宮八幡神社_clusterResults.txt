@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鷺宮八幡神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+近く, 近所, 地元
+cluster1:(3)
+場所, 時期, 時代
+cluster2:(4)
+多く, 人, 方たち, 方
+cluster3:(4)
+オアシス, いくつか, 西武新宿線, こじんまり
+cluster4:(2)
+気持ち, 雰囲気
+cluster5:(1)
+御朱印
+cluster6:(2)
+お話, 感じ
+cluster7:(2)
+保護, 緑
+cluster8:(2)
+足, バス
+cluster9:(1)
+列
+cluster10:(1)
+兼務
+cluster11:(7)
+神社, 元旦, 鳥居, 鎌倉, 初詣, 境内, 源氏
+cluster12:(9)
+JR中央線, 鷺宮八幡, 高円寺駅, 八幡神社, 鷺宮駅, 住宅地, 参拝客, 徒歩, 鷺ノ宮駅
+
+howmany entities : 41
+howmany clusters : 13
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 13
+deleted 0entities.

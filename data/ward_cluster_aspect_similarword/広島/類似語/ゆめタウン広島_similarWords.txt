@@ -1,0 +1,17 @@
+--------------------similar_words:ゆめタウン広島--------------------
+top3 entities near to cluster1>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster2>>
+イズミ, 上平良, 下平良
+top3 entities near to cluster3>>
+ショッピング, レストラン, ショップ
+top3 entities near to cluster4>>
+買い物, ランチ, 買物
+top3 entities near to cluster5>>
+コメダ, コメダコーヒー, シロノワール
+top3 entities near to cluster8>>
+徒歩, 休憩
+top3 entities near to cluster9>>
+とん, まさ, のぶ
+top3 entities near to cluster10>>
+食品, スーパーマーケット, 大型

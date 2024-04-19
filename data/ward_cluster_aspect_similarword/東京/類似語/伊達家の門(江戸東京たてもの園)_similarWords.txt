@@ -1,0 +1,7 @@
+--------------------similar_words:伊達家の門(江戸東京たてもの園)--------------------
+top3 entities near to cluster1>>
+屋敷, 時代
+top3 entities near to cluster2>>
+表門, 裏門
+top3 entities near to cluster3>>
+藩士, 藩主

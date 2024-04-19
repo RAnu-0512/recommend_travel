@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陸奥野営場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンプ場, 駐車場
+cluster1:(13)
+子ども, サイト, 敷地, 車, テント, キャンプ場所, 奥, オートキャンプ, 水族館, 海, 近く, キャンプ, 屋代島
+cluster2:(2)
+釣り, 天気
+cluster3:(1)
+雨模様
+cluster4:(2)
+陸奥記念館, 周防大島
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

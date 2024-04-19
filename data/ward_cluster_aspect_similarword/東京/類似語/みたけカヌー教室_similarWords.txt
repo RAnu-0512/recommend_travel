@@ -1,0 +1,19 @@
+--------------------similar_words:みたけカヌー教室--------------------
+top3 entities near to cluster0>>
+カヤック, シーカヤック, カヌー
+top3 entities near to cluster1>>
+カヌー, ボート, カヤック
+top3 entities near to cluster2>>
+カレー, カレーライス, キーマカレー
+top3 entities near to cluster3>>
+段取り, 手際, 打ち合わせ
+top3 entities near to cluster4>>
+リバー, カヤック, カヌー
+top3 entities near to cluster6>>
+初め, 到着, から
+top3 entities near to cluster7>>
+自然, 贅沢, 自力
+top3 entities near to cluster8>>
+感覚, 体験, 景色
+top3 entities near to cluster9>>
+罪悪感, ドキドキ・ワクワク, 罪悪

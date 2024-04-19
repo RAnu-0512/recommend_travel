@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深良窯 村上陶房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+茶碗, 粘土
+cluster1:(9)
+こと, 雰囲気, カップ, 先生, 作品, 土, 見本, 家族, 湯呑み
+cluster2:(1)
+焼き上がり
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 3entities.

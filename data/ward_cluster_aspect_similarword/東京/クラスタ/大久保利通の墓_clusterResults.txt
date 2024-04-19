@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大久保利通の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青山霊園, 青山墓地
+cluster1:(3)
+霊園, 墓地, 墓
+cluster2:(1)
+外国人墓地
+cluster3:(17)
+六本木駅, 新橋駅, 家, 昭和, 人物, 街歩き, 思い, 近く, 管理事務所, 人生, 遭難, 愛馬, ガイドマップ, 大久保, 歴史, 従者, 明治
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

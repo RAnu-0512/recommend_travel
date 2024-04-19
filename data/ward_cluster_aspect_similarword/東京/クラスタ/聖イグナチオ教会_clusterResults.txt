@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:聖イグナチオ教会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+展示室, キャンパスそば, 大学, 四ツ谷駅, 見学, 撮影, 正門, 小道, 構内, 写真ギャラリー, 展示
+cluster1:(2)
+外国人, 外国
+cluster2:(11)
+余裕, 光景, 場所, 表情, どこか, 姿, 独特, 印象, 方, こと, もの
+cluster3:(2)
+イブ, 北欧
+cluster4:(2)
+席, 腕
+cluster5:(23)
+図書館, 上智大学, クリスマス, 一般, ソフィアタワー, 最後, 中央, イベント, 内部, 建物, 静けさ, 人, 週末, イエズス, キリスト教, 日本, 中, ソフィア, 雰囲気, ステンドグラス, イエス, キャンパス, パイプオルガン
+cluster6:(5)
+瞼, 光, 音, 祈り, 鐘
+cluster7:(1)
+悶
+cluster8:(8)
+正門守衛所, ミサ, 磔刑像, カトリック教会, 像, 教会, 聖イグナチオ教会, 聖堂
+cluster9:(1)
+讃美歌
+
+howmany entities : 66
+howmany clusters : 10
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 10
+deleted 0entities.

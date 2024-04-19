@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩瀬京伝・京山の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+京山, 岩瀬京山
+cluster1:(3)
+岩瀬京伝, 山東京伝, 岩瀬京伝の墓
+cluster2:(17)
+回向院自体, 案内板, 字, 東京都, 弟, 両国駅, 名前, 両国, 墓, 江戸時代後期の浮世絵師, 江戸時代, 戯作者, 理由, 境内, 鉄梅, 回向院, 墓参り
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

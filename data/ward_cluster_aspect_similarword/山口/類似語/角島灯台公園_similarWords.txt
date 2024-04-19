@@ -1,0 +1,29 @@
+--------------------similar_words:角島灯台公園--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場代
+top3 entities near to cluster2>>
+冬色, 空色, 空, 冬
+top3 entities near to cluster3>>
+出入り, トイレ, 出入り口
+top3 entities near to cluster4>>
+夕暮れ, グリーン, ハマユウ
+top3 entities near to cluster5>>
+遊歩道, ベンチ, 公園
+top3 entities near to cluster6>>
+サザエ, 壷焼き, さざえ
+top3 entities near to cluster7>>
+息切れ, ゼーゼー, ゼーハーゼーハー
+top3 entities near to cluster8>>
+ウッド, デッキ, デック
+top3 entities near to cluster9>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster10>>
+イカ, ゲソ, スルメ
+top3 entities near to cluster11>>
+建物, 景色, 景観
+top3 entities near to cluster13>>
+灯台, 公園, 階段
+top3 entities near to cluster14>>
+灯台, 樫野崎, 沢崎鼻
+top3 entities near to cluster16>>
+大橋, 海, 公園

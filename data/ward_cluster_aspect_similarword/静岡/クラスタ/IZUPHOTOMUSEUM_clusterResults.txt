@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:IZUPHOTOMUSEUM>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+こと, 写真美術館, 建物, ミュージアム, 美術館, 展示, クレマチス, 中心, 建築, 写真, 丘
+cluster1:(2)
+企画展, 写真展示専門
+cluster2:(3)
+静岡県, 杉本博司, 長泉町
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 2entities.

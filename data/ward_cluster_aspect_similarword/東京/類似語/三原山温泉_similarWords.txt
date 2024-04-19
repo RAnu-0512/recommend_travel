@@ -1,0 +1,19 @@
+--------------------similar_words:三原山温泉--------------------
+top3 entities near to cluster0>>
+身体, 芯
+top3 entities near to cluster1>>
+景色, 風景, 旅
+top3 entities near to cluster3>>
+通貨, 貨幣, ハードカレンシー
+top3 entities near to cluster4>>
+宿泊先, 古先, 宿泊, 古
+top3 entities near to cluster5>>
+登山道, 登山, 山登り
+top3 entities near to cluster6>>
+温泉, 温泉郷, 露天風呂
+top3 entities near to cluster7>>
+浴場, 風呂, 露天
+top3 entities near to cluster8>>
+自然, 森, 林
+top3 entities near to cluster9>>
+温泉, 旅館, 露天風呂

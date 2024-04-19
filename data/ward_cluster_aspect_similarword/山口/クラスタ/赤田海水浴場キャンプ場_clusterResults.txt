@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤田海水浴場キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+有料, 手前左側, キャンプ場, 海, 本州, 海水浴場
+cluster1:(3)
+山口県, 角島大橋, 下関方面
+cluster2:(1)
+赤田海水浴場キャンプ場
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天城高原(静岡県伊東市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+天城高原GC, 天城越え, 天城トンネル, 天城, 天城高原
+cluster1:(3)
+空気, 空気感, 高低差
+cluster2:(4)
+東急のホテルハーヴェスト, 伊東駅, 伊豆, 伊豆スカイライン
+cluster3:(5)
+駐車場, ゴルフ場, ゴルフコース, リゾート施設, 施設
+cluster4:(23)
+恐れ, 別天地, 注意, 途中, 時期, 手洗い, 万二郎岳, わさび, 凍結, 気持ち, 機会, ドライブ, 状態, 伊豆高原, 森林浴, 三郎岳, 中, ソフトクリーム, トイレ, 場所, くねくね, グネグネ, トンネル
+cluster5:(4)
+雲海, 風情, 標高, 景色
+cluster6:(3)
+鹿, 高原, 坂
+cluster7:(3)
+車, バス, 運転
+cluster8:(2)
+道あたり, 道路
+cluster9:(3)
+登山, 山道, 山
+cluster10:(1)
+わさび丼
+
+howmany entities : 56
+howmany clusters : 11
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 9
+deleted 3entities.

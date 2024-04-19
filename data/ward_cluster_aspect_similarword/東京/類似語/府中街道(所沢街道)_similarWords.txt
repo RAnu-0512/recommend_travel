@@ -1,0 +1,13 @@
+--------------------similar_words:府中街道(所沢街道)--------------------
+top3 entities near to cluster0>>
+バイク, クルマ
+top3 entities near to cluster1>>
+道路, 県道
+top3 entities near to cluster2>>
+散歩, 散策, 出掛け
+top3 entities near to cluster3>>
+渋滞, 混雑, 通行止め
+top3 entities near to cluster4>>
+勾配, こう配, 傾斜
+top3 entities near to cluster6>>
+駅, 南口, 駅前

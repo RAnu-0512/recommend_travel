@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯前神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+保育園, 途中, 水, 停留所, 入り口, バス, 手, ところ, 人, 歴史, 特徴, 市街地, 時間, 感じ, 近く, 雰囲気, 場所, 旅, 前
+cluster1:(2)
+鳥居, 坂
+cluster2:(2)
+泉, 湯
+cluster3:(1)
+入口右手
+cluster4:(22)
+温泉, 熱海, 温泉街, 熱海駅, 観光場所, 熱海銀座, 温泉神社, 手水, 日航亭大湯, 観光客, 神社, 湯〜遊, 大湯間歇泉, 境内, 本殿, 観光, 温泉地, 湯前神社, 姉妹神社, 手水舎, 来宮神社, 日帰り温泉
+
+howmany entities : 46
+howmany clusters : 5
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 2
+deleted 5entities.

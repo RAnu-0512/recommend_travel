@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉原神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+浅草七福神, 浅草駅, 遊廓, 吉原, 江戸吉原
+cluster1:(3)
+弁財天吉原神社, 吉原神社, 吉原弁財天本宮
+cluster2:(3)
+稲荷神社, 石浜神社, 鷲神社
+cluster3:(27)
+閑散, 弁財天, 神社, 昔, 場所, 多く, 東京, 御朱印, 近く, 緊急事態宣言, 街, 新型感染症コロナウイルス, 女性達, 参拝, 参拝客, 印象, こじんまり, 敷地, 方, 歴史, こと, トンカツ, 歓楽街, 境内, もの, 女性, 帰り
+
+howmany entities : 38
+howmany clusters : 4
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 4
+deleted 0entities.

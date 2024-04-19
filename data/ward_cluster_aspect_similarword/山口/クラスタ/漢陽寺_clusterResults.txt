@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:漢陽寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+水, こと, 鹿野上, 臨済宗
+cluster1:(2)
+庭, 庭園
+cluster2:(2)
+寺, 寺院
+cluster3:(1)
+南禅寺派
+cluster4:(1)
+名水
+cluster5:(2)
+山口県, 周南市
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

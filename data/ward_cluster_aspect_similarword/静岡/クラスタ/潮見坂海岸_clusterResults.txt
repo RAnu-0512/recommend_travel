@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:潮見坂海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+潮見坂, 潮見坂海岸です.11, 駅潮見坂
+cluster1:(2)
+駐車場, 海水浴場
+cluster2:(7)
+直線, 道, 天候, 視界, 駅, 散策, 国道
+cluster3:(3)
+海, 浜辺, 潮風
+cluster4:(2)
+上あたり, 上
+cluster5:(2)
+西, 風
+cluster6:(6)
+伊良湖, 太平洋, サーフィン, ダチョウ, コンビニ, サーファー
+cluster7:(2)
+人, 方
+cluster8:(1)
+夏場
+cluster9:(1)
+浜松
+cluster10:(3)
+浜名大橋, 片浜十三, 浜名バイパス
+
+howmany entities : 32
+howmany clusters : 11
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 10entities.

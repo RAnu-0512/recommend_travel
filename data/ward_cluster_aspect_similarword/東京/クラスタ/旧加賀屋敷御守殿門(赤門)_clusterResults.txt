@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧加賀屋敷御守殿門(赤門)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸上屋敷の御守殿門, 加賀屋敷御守殿門
+cluster1:(3)
+記念撮影, 記念写真, 安田講堂
+cluster2:(17)
+生徒, 別, 人達, 国, 東京大学, 人, テンション, 気持ち, 文化財, 入り口, 本郷通, テレビ, 日本, インパクト, 田舎, 古本屋, 目
+cluster3:(7)
+ニュース映像, 場所, 特徴, 写真, こと, もの, 色
+cluster4:(7)
+正面, 散策, 門, 三四郎池, 屋敷, 正門, 敷地
+cluster5:(7)
+国立大学, 湯島, 赤門, 天神, 江戸時代, 東京大学 本郷キャンパス, 大名家
+cluster6:(8)
+観光, 前田家上屋敷, 大名屋敷, お屋敷跡, 外国人観光客, 観光客, 前田家, 加賀前田藩
+
+howmany entities : 51
+howmany clusters : 7
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 7
+deleted 0entities.

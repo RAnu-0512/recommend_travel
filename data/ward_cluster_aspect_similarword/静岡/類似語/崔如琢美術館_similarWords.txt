@@ -1,0 +1,19 @@
+--------------------similar_words:崔如琢美術館--------------------
+top3 entities near to cluster1>>
+ランチ, レストラン, デザート
+top3 entities near to cluster4>>
+対応, 注文, 新設
+top3 entities near to cluster5>>
+景色, 眺望, 絶景
+top3 entities near to cluster7>>
+館内, 建物, 美術館
+top3 entities near to cluster8>>
+品数, 値段, 金額
+top3 entities near to cluster10>>
+料理, 食事, 接客
+top3 entities near to cluster11>>
+ピザ, ピッツァ, 野菜
+top3 entities near to cluster14>>
+節電, 電気, 空調
+top3 entities near to cluster16>>
+利用券, 利用, 決済

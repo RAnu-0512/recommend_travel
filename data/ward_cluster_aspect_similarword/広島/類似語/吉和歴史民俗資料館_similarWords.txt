@@ -1,0 +1,11 @@
+--------------------similar_words:吉和歴史民俗資料館--------------------
+top3 entities near to cluster0>>
+資料, 歴史, 史料
+top3 entities near to cluster1>>
+勉強, 学び, 学ぶ
+top3 entities near to cluster2>>
+間隔, 等間隔, 距離
+top3 entities near to cluster3>>
+展示品, 展示, 品等
+top3 entities near to cluster5>>
+民俗, 資料, 館

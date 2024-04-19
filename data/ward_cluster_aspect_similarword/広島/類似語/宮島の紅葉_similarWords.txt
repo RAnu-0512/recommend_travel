@@ -1,0 +1,33 @@
+--------------------similar_words:宮島の紅葉--------------------
+top3 entities near to cluster0>>
+厳島, 神社, 嚴島
+top3 entities near to cluster2>>
+終わり, 紅葉狩り, レストラン
+top3 entities near to cluster3>>
+ピーク, 最盛, 最高潮
+top3 entities near to cluster4>>
+絵葉書, 絵はがき, 葉書
+top3 entities near to cluster5>>
+車椅子, 車いす, 松葉杖
+top3 entities near to cluster6>>
+人混み, 人込み, 雑踏
+top3 entities near to cluster7>>
+紅葉谷, モミジ, もみじ
+top3 entities near to cluster9>>
+公園, 駐車場, 駐車
+top3 entities near to cluster10>>
+景色, 車窓, 風景
+top3 entities near to cluster12>>
+小雨, 晴天, 曇り空
+top3 entities near to cluster13>>
+秋, 春, 初夏
+top3 entities near to cluster14>>
+花見, 桜, 風流
+top3 entities near to cluster15>>
+黄色, 赤い, 紫色
+top3 entities near to cluster16>>
+木々, 落葉, 葉
+top3 entities near to cluster17>>
+海, 鳥居, 山
+top3 entities near to cluster18>>
+紅葉, 景色, 名所

@@ -1,0 +1,15 @@
+--------------------similar_words:室積海水浴場--------------------
+top3 entities near to cluster1>>
+砂浜, 海岸, 海水浴
+top3 entities near to cluster2>>
+期間, 冬, 限定
+top3 entities near to cluster3>>
+夏場, 冬, 冬場
+top3 entities near to cluster4>>
+間人, 地元人, 間, 地元
+top3 entities near to cluster6>>
+天気, お天気, 予報
+top3 entities near to cluster8>>
+夕日, 夕陽, 夕焼け
+top3 entities near to cluster9>>
+愛好家, 写真家, 愛好, 写真

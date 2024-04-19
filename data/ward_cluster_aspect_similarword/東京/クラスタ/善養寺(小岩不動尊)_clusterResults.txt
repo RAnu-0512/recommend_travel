@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善養寺(小岩不動尊)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+影向(ようごう)の松, 東の横綱とされ国
+cluster1:(17)
+季節, 天然記念物, 駐車, 影向, マツ, 開山, 豊山派, 見所, 松, 横綱山, 東, 日本一, 真言宗, 日本, 小岩不動尊, 境内, 横綱
+cluster2:(2)
+星住山地蔵院善養寺, 頼澄法印
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

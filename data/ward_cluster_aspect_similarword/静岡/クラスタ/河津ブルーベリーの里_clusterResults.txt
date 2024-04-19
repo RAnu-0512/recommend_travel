@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河津ブルーベリーの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+下田水族館, 稲取
+cluster1:(3)
+国道, 道幅, 道
+cluster2:(11)
+旗, 蝉, 田舎, 鳥, 山村, 里, ブルーベリー, 子供, ファミリー, ブルーベリー狩り, 山
+cluster3:(10)
+途中, 時期, こと, 体験, 感じ, 途中不安, 声, ブルーベリー味, 辺り, 方
+cluster4:(1)
+食べ放題
+
+howmany entities : 27
+howmany clusters : 5
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 3entities.

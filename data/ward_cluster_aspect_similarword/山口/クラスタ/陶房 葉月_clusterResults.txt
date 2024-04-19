@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶房 葉月>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ろくろ, ろくろ体験
+cluster1:(2)
+電動ろくろ, 電動ろくろ体験
+cluster2:(4)
+山口県, 葉月さん, 手が土, 葉月
+cluster3:(2)
+器, 不器
+cluster4:(9)
+もん, 物, こと, 形, 感じ, 目的, 方, もの, 機会
+cluster5:(2)
+感謝, 褒めポイント
+cluster6:(2)
+理想, 希望
+cluster7:(2)
+手元, 手
+cluster8:(4)
+予約, 説明, 指導, 作業
+cluster9:(3)
+茶, 風, 色
+cluster10:(2)
+土, 大阪
+cluster11:(10)
+ポーズ, 湯田温泉, ネット, タクシー, アングル, 出来上がり, 仕上がり, 和気あいあい, 初心者, ポイント
+cluster12:(3)
+思い出, 口コミ, 気持ち
+cluster13:(5)
+中, 途中, 最後, 話, 時間
+cluster14:(1)
+バス
+cluster15:(1)
+電動
+cluster16:(15)
+旅行, 家族, ファミリー旅行, 中年, 茶碗, 子ども達, 旅, 夫婦, 娘, 先生, v先生, 皿, 私達, 主人, 奥様
+cluster17:(2)
+ロクロ, ロクロ体験
+cluster18:(3)
+楽しさ, 奥深さ, 大きさ
+cluster19:(2)
+体験, 初体験
+cluster20:(2)
+陶芸体験, 陶芸
+cluster21:(1)
+萩焼体験
+cluster22:(12)
+作品, 焼き上がり, 写真, 作品づくり, 記念, 記念写真, 絵付け体験, 作り, 作品作り, 作り放題, 写真撮影, 絵付け
+cluster23:(1)
+全員手び練り
+
+howmany entities : 92
+howmany clusters : 24
+howmany entities (more than1entities) : 92
+howmany clusters (more than1entities) : 24
+deleted 0entities.

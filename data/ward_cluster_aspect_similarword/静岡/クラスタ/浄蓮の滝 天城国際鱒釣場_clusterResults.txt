@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浄蓮の滝 天城国際鱒釣場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+釣り, ミャク釣り, 釣り方, 釣り餌, ニジマス釣り, 渓流釣り
+cluster1:(2)
+釣竿, 竿
+cluster2:(12)
+魚, コンロ, カップル, ニジマス, マジマス, 仕掛け, 釣り場, おじさん, アマゴ, コース, 持ち帰り, 釣り堀
+cluster3:(3)
+川, 本流, 滝
+cluster4:(15)
+下, 子, 料金, 受付, 結果, 体験, 時間, オープン頃, 私達, 素人, 子供, 場所, 規定時間, 前, 場
+cluster5:(1)
+浄蓮
+
+howmany entities : 39
+howmany clusters : 6
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 4
+deleted 3entities.

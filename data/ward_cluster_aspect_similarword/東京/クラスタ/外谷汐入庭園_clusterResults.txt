@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:外谷汐入庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+私的庭園, 庭園
+cluster1:(2)
+心, 体
+cluster2:(2)
+庭, 散歩
+cluster3:(5)
+場所, 風景, 自然, 日本, ビジネスマン
+cluster4:(1)
+昭和
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

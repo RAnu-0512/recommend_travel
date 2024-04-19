@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石部海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+雲見港, 石部地区, 岩地海岸
+cluster1:(5)
+岩場, 海岸, 集落, 堤防, 砂浜
+cluster2:(2)
+人, 間
+cluster3:(4)
+入り江, 入り口, 海水浴シーズン, 露天風呂
+cluster4:(1)
+車
+cluster5:(1)
+感じ
+cluster6:(1)
+温泉
+cluster7:(1)
+水道
+cluster8:(1)
+海水浴場
+cluster9:(1)
+家族連れ
+cluster10:(1)
+魚影
+cluster11:(1)
+更衣室
+
+howmany entities : 22
+howmany clusters : 12
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 10entities.

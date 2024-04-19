@@ -1,0 +1,19 @@
+--------------------similar_words:ちゅーピープール--------------------
+top3 entities near to cluster0>>
+料金, 時間, 費用
+top3 entities near to cluster1>>
+シート車, シート, レジャー
+top3 entities near to cluster2>>
+家族, 親族
+top3 entities near to cluster4>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster5>>
+ヤカラ, 連中, 御仁
+top3 entities near to cluster6>>
+バス, シャトル, タクシー
+top3 entities near to cluster7>>
+発令, 発出, 通達
+top3 entities near to cluster8>>
+管理者, 流し, 管理
+top3 entities near to cluster9>>
+駐車, 入場, 有料

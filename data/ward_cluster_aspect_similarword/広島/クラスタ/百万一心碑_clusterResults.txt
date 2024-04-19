@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百万一心碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+碑, 石碑, 墓所, 墓
+cluster1:(4)
+拡張, 本丸, 人柱, 石垣
+cluster2:(7)
+もの, 願い, 言葉, 由来, こと, 意味, 力
+cluster3:(2)
+心, 命
+cluster4:(2)
+人, 代わり
+cluster5:(2)
+前, 近く
+cluster6:(1)
+場所
+cluster7:(1)
+そば
+cluster8:(1)
+中国
+cluster9:(1)
+縁
+cluster10:(1)
+石
+cluster11:(1)
+小雨
+cluster12:(1)
+人たち
+cluster13:(1)
+登山口
+cluster14:(7)
+毛利元就所, 毛利家, 吉田郡城跡, 吉田郡山城, 吉田町, 郡山城跡, 築城工事
+
+howmany entities : 36
+howmany clusters : 15
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 15
+deleted 0entities.

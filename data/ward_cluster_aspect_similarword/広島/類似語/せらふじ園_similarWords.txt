@@ -1,0 +1,15 @@
+--------------------similar_words:せらふじ園--------------------
+top3 entities near to cluster0>>
+ふじ, 藤, ふじの
+top3 entities near to cluster1>>
+話, 結果, 話し
+top3 entities near to cluster2>>
+園内, 土地, 花
+top3 entities near to cluster3>>
+天気, お天気, 連休
+top3 entities near to cluster4>>
+藤棚, 枝垂れ桜, ツツジ
+top3 entities near to cluster6>>
+開花, 状況, 満開
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏

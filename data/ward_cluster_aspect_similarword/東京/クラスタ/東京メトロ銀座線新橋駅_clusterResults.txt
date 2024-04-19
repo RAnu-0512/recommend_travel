@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ銀座線新橋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+途中, 場所, 学校, 中心, 人, オフィス街, 距離, 人々, ラッシュ時, ラッシュ時間, 時間, 地下鉄間, 方
+cluster1:(9)
+打ち合わせ, 乗り換え, アクセス, ストレス, 浅草線, ホーム, 人混み, スーツ, バリアフリー
+cluster2:(3)
+想像, 印象, 覚悟
+cluster3:(3)
+電車, 通勤, 混雑
+cluster4:(2)
+足早, 寄りホーム
+cluster5:(3)
+通路, 改札, 階段
+cluster6:(16)
+東京都, 新橋駅, 汐留シオサイト, 多く 駅, 駅, 烏森神社, 渋谷, 銀座, 駅周辺, 銀座・日本橋方面, 通勤時間帯, 商業施設, 東京メトロ, 銀座線, 乗降客数, 都営
+
+howmany entities : 49
+howmany clusters : 7
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 7
+deleted 0entities.

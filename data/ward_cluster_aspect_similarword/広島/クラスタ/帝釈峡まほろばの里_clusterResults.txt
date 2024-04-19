@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:帝釈峡まほろばの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+探検箇所, 探険気分
+cluster1:(2)
+アスレチック, キャンプ
+cluster2:(1)
+帝釈峡
+cluster3:(1)
+沢山
+cluster4:(1)
+里
+cluster5:(1)
+観光スポット
+cluster6:(1)
+子供達
+cluster7:(1)
+芝生広場
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 8
+deleted 0entities.

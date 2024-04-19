@@ -1,0 +1,21 @@
+--------------------similar_words:日本そば打ち 自由が丘教室--------------------
+top3 entities near to cluster0>>
+誕生, 最高, 日
+top3 entities near to cluster1>>
+部屋, お家
+top3 entities near to cluster2>>
+友達, 友人, 先生
+top3 entities near to cluster3>>
+人柄, 笑顔, 上手
+top3 entities near to cluster4>>
+方向, 場裏
+top3 entities near to cluster7>>
+時間, 時期, 時
+top3 entities near to cluster8>>
+体験, 体験談, 体感
+top3 entities near to cluster9>>
+細部, ディテール, ディティール
+top3 entities near to cluster10>>
+薬味, 香り, ケーキ
+top3 entities near to cluster12>>
+蕎麦, そば, ソバ

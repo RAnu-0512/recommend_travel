@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍光不動尊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+龍光, 龍光不動尊, 高野山 龍光院
+cluster1:(25)
+年始, 都会, 屋上, 神社, 場所, 匠, 空間, 狛犬様, 一角, 喧騒, 屋上階, 夕方, 流行, 商売繁盛, 技, お社, 前, ビル, 家内安全, 造り, 利益, ファッション, 友人, 雰囲気, 稲荷神社
+cluster2:(7)
+関東長期滞在, 老舗百貨店, 松屋, 松屋銀座店, 松屋銀座, 銀座駅, 銀座
+
+howmany entities : 35
+howmany clusters : 3
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 3
+deleted 0entities.

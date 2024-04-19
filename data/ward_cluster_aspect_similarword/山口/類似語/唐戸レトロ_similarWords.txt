@@ -1,0 +1,25 @@
+--------------------similar_words:唐戸レトロ--------------------
+top3 entities near to cluster0>>
+郵便局, 郵便, 局員
+top3 entities near to cluster2>>
+建築, 建造, 建物
+top3 entities near to cluster3>>
+建築, 建物, 土木
+top3 entities near to cluster4>>
+建築, 洋風, 西洋
+top3 entities near to cluster5>>
+大正, 明治, 戦前
+top3 entities near to cluster6>>
+現役, 時代, 歴史
+top3 entities near to cluster7>>
+町並み, 街並み, 雰囲気
+top3 entities near to cluster8>>
+風情, 趣き, 雰囲気
+top3 entities near to cluster9>>
+建物, ビル, 港町
+top3 entities near to cluster10>>
+レンガ造り, 煉瓦造り, レンガ, 煉瓦
+top3 entities near to cluster11>>
+距離, 連絡, 経路
+top3 entities near to cluster12>>
+散歩, 散策, 周遊

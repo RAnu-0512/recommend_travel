@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Rose Lauren>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+空き時間, 体験時間, 体験
+cluster1:(4)
+母娘, 母, 娘, 親子一緒
+cluster2:(2)
+興味, 機会
+cluster3:(2)
+見本, 指導
+cluster4:(3)
+発見, 参加, 変更
+cluster5:(4)
+納得, 気, 事, もの
+cluster6:(1)
+何か
+cluster7:(36)
+最後, 車, 温泉ホテル, アロマワックスサシェ, 彼, プレゼント, アップ, サプライズ, 近隣, イベント, 家, 思い出, 予約, フラワー, 友人, 想い出づくり, 時間, 自宅, お花, 花, 色合い, ハーバリウム, 中, 仕上がり, ディフューザー, アドバイス, 子供, 部屋, 先生, オーナー, 突然, イメージ, 旅, 小学生, 作品, 宿泊
+cluster8:(3)
+誕生日デート, ハーバリウム作り体験, 誕生日
+
+howmany entities : 58
+howmany clusters : 9
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 6
+deleted 5entities.

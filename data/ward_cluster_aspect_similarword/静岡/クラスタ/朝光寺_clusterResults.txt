@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝光寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+境内, 石段, 門前, 寺
+cluster1:(5)
+伊豆急行線, 上り, 西, 線路, 山
+cluster2:(1)
+松川
+cluster3:(1)
+朝光寺
+cluster4:(1)
+室生犀星詩碑
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

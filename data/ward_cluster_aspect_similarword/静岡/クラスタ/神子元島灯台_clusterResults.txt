@@ -1,0 +1,10 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神子元島灯台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+灯台, 神子元
+
+howmany entities : 2
+howmany clusters : 1
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 2entities.

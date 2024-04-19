@@ -1,0 +1,21 @@
+--------------------similar_words:乙千代ヶ浜海水浴場--------------------
+top3 entities near to cluster0>>
+千, 浜, 浦
+top3 entities near to cluster1>>
+海水, 海, 海岸
+top3 entities near to cluster2>>
+透明度, 充実度, 透明, 充実
+top3 entities near to cluster3>>
+海水浴, 潮干狩り, 行楽
+top3 entities near to cluster4>>
+ダイビング, シュノーケリング, スノーケリング
+top3 entities near to cluster5>>
+プール, ビーチ, シャワー
+top3 entities near to cluster7>>
+擦り傷, キズ, 傷
+top3 entities near to cluster8>>
+施設, 子供, 時間
+top3 entities near to cluster9>>
+完備, 併設, 用意
+top3 entities near to cluster10>>
+家族連れ, 家族, つれ

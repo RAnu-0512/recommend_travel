@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ銀座線上野駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東京メトロ上野駅, 京成上野駅, 浅草ー上野間
+cluster1:(5)
+東京都, 渋谷, 銀座, 東京メトロ, 銀座線
+cluster2:(3)
+上野, 上野駅, マルイ上野
+cluster3:(3)
+浅草駅, 浅草方面, 浅草
+cluster4:(6)
+人, 利用, 感じ, 存在, 移動, 方
+cluster5:(2)
+地下鉄, 日比谷線
+cluster6:(5)
+ホーム, テレビ, パンダ, ペッパー, 乗り換え
+cluster7:(1)
+稲荷町
+cluster8:(1)
+外国
+cluster9:(1)
+JR
+cluster10:(2)
+地上, 地下
+cluster11:(3)
+公園, 駅, 方面
+cluster12:(2)
+路線, 車両
+cluster13:(2)
+絵, 歴史
+cluster14:(9)
+主要駅, 改札口, 自動改札機, 観光地, 観光客, 改札, 駅構内, 案内所, 親切な駅
+
+howmany entities : 48
+howmany clusters : 15
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 15
+deleted 0entities.

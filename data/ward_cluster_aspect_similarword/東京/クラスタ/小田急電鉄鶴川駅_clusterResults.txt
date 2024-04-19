@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急電鉄鶴川駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+複々線化, 線化工事
+cluster1:(13)
+活気, 店, 多く, スーパー, 昭和, 学生, ビル, 区間, 小田急線, 雰囲気, ドラッグストア, 時代, 町
+cluster2:(5)
+駅, 立派な駅, 駅周辺, 住宅街, 駅停車
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:其中庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+所, 施設
+cluster1:(4)
+山頭火, 内部, トイレ, スーパー
+cluster2:(1)
+JR
+cluster3:(1)
+坂
+cluster4:(1)
+生活ぶり
+cluster5:(3)
+新山口駅, 其中庵, 松尾芭蕉
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

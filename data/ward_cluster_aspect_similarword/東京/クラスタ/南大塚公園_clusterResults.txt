@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南大塚公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大塚, 大塚駅
+cluster1:(2)
+電車, 車両
+cluster2:(4)
+公園, 昔, 小学校, 普通
+cluster3:(1)
+都電
+cluster4:(1)
+住宅街
+cluster5:(1)
+南南東500m
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

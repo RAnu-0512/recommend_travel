@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:不動院(広島県広島市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+こけら葺き, 三手先組物, 組物, 垂木, 扇垂木
+cluster1:(2)
+組み物, 建築物
+cluster2:(7)
+もの, 時期, 唯一, 特徴, 形式, こと, 場所
+cluster3:(2)
+下, 間
+cluster4:(2)
+内部, 周囲
+cluster5:(1)
+外
+cluster6:(1)
+奥
+cluster7:(10)
+アパート, 文化財, ラミネート, ところ, 不動院, アストラムライン, 中国, 雰囲気, 放射線状, バス
+cluster8:(8)
+四角, 建築, 建物, 訪問, 塀, 見学, 人影, 屋根
+cluster9:(23)
+広島, 恵瓊, 霊場, 禅宗, 外交僧, 牛田新町, 広島城北, 薬師霊場, 寺, 紅葉, 広島駅, 国宝, 山口県, 安国寺恵瓊, 金堂, 参道, 住職, 不動院駅, 楼門, 戦国時代, 毛利, 駅, 東区
+cluster10:(1)
+新四国八十八か所霊場いずれ
+
+howmany entities : 62
+howmany clusters : 11
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 11
+deleted 0entities.

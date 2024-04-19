@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グラウンドゴルフのふる里公園潮風の丘とまり>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東伯郡, 湯梨浜町
+cluster1:(35)
+記憶, コース, スライダー, オブジェ, 車, 息子, 梨, 芝生, 潮風, 背中, 子供達, 丘, 左右, こと, 公園側, グランドゴルフ, グラウンドゴルフ, 道, プレー, 気候, 公園, 配, 鳥取, 上, 県道, 気持ち, 近く, 聖地, 亀, 恐竜, 方, 日本海, スポット, 風車, 場所
+cluster2:(5)
+地, 展望地, 展望台, 駐車場, グルフ場
+
+howmany entities : 42
+howmany clusters : 3
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 3
+deleted 0entities.

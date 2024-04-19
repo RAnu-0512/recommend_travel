@@ -1,0 +1,9 @@
+--------------------similar_words:JR両国駅--------------------
+top3 entities near to cluster0>>
+構内, 駅, 駅前
+top3 entities near to cluster1>>
+国技, 館, 両国
+top3 entities near to cluster3>>
+駅, 両国, 駅前
+top3 entities near to cluster4>>
+両国, 駅, 国技

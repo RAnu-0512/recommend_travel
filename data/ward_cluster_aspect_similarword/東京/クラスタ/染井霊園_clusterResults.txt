@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:染井霊園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+都立染井霊園, 谷中霊園, 都立霊園, 染井霊園内
+cluster1:(5)
+霊園, 墓地, 墓, 墓石, 外人墓地
+cluster2:(2)
+地, 住宅地
+cluster3:(4)
+春, 緑, 都心, 桜
+cluster4:(12)
+場所, 多く, 東京家政大学博物館, ソメイヨシノ, 人, 近く, 日暮里, 発祥, 有名人, 時期, 日本, 訪問
+cluster5:(1)
+著名人
+cluster6:(5)
+散策, 公園, 街歩き, 界隈, 名所
+cluster7:(12)
+男爵, 子爵家, 伯爵家, 巣鴨, 松戸徳川家, 巣鴨駅, 位階もち, 水戸, 華族, 子爵, 高村光太郎, 染井
+
+howmany entities : 45
+howmany clusters : 8
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 8
+deleted 0entities.

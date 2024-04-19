@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取砂丘のラッキョウの花>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+開花, 見頃, 開花時期
+cluster1:(4)
+畑, ラベンダー畑, らっきょう畑, ラッキョウ畑
+cluster2:(3)
+紫, 紫色, 赤紫
+cluster3:(4)
+砂丘, オアシス広場, 鳥取, 砂
+cluster4:(2)
+乾燥, 栽培
+cluster5:(12)
+時期, らっきょう, 車, 中, ラッキョウ, 周辺, 花, 写真, 方, 季節, ラッキョウたち, 場所
+cluster6:(1)
+砂丘会館
+cluster7:(1)
+ふくべふれあいランド
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 8
+deleted 0entities.

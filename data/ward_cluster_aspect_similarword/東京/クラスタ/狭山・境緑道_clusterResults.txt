@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狭山・境緑道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+多摩湖, 都立, 西東京市, 自然, イラスト展示, アニメ聖地, 地域
+cluster1:(2)
+自転車歩行者, 専用道路
+cluster2:(2)
+東村山中央公園施設文化センターホール, 女子高生の無駄づかい
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

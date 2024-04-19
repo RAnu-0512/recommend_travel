@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯らっくす公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+北, 北側, 町, 伊豆, 伊豆長岡駅, 西
+cluster1:(2)
+宿, 宿泊
+cluster2:(10)
+コップ, キャー, ホテル, スペース, 天然石, 日帰り, コース, ところ, 遊歩道, タオル
+cluster3:(2)
+西伊豆, アクシスかつらぎ
+cluster4:(3)
+体, 人, 子供
+cluster5:(1)
+石
+cluster6:(2)
+地元, 近所
+cluster7:(2)
+普通, 地味
+cluster8:(1)
+街角
+cluster9:(2)
+滞り, 不調
+cluster10:(8)
+持参, 時期, 方たち, 機会, 場合, 時間, 感じ, 方
+cluster11:(2)
+足つぼコース, 足つぼ
+cluster12:(2)
+足ツボ, ツボ
+cluster13:(4)
+裏, イター足, 足, 足裏
+cluster14:(2)
+裸足, 靴下
+cluster15:(8)
+健康遊歩道, 駐車場, 伊豆長岡公園, 遊歩道側1か所, 観光公園, 公園, 遊具, 歩道
+cluster16:(2)
+飲泉, くつろ
+cluster17:(10)
+長岡温泉街, 温泉, 銭湯, 足湯, 温泉水, 温泉旅館, お湯, 湯口, 伊豆長岡温泉, 湯
+cluster18:(1)
+湯らっくす公園
+cluster19:(1)
+登り坂有り勿論下り
+
+howmany entities : 71
+howmany clusters : 20
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 7
+deleted 22entities.

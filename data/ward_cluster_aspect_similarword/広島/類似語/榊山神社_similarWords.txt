@@ -1,0 +1,7 @@
+--------------------similar_words:榊山神社--------------------
+top3 entities near to cluster0>>
+神, 神様, 御利益
+top3 entities near to cluster1>>
+複数, 単一, 多数
+top3 entities near to cluster2>>
+神社, 境内, 本殿

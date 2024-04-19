@@ -1,0 +1,17 @@
+--------------------similar_words:JR高尾駅--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 南口
+top3 entities near to cluster1>>
+梅雨明け, 新年, 梅雨
+top3 entities near to cluster2>>
+表示, 行先, 行き先
+top3 entities near to cluster5>>
+駅人, バス停, 駅
+top3 entities near to cluster6>>
+周辺分, 時間, 周辺
+top3 entities near to cluster7>>
+年配, 年輩, 年寄り
+top3 entities near to cluster8>>
+登山, 天気, 旅
+top3 entities near to cluster10>>
+酷暑, 猛暑, 暑い

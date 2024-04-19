@@ -1,0 +1,41 @@
+--------------------similar_words:伊豆の陶芸体験 ほけきょ庵--------------------
+top3 entities near to cluster0>>
+茶碗, 皿, 湯飲み
+top3 entities near to cluster1>>
+湯呑み, コップ, マグカップ
+top3 entities near to cluster2>>
+やり方, 気持ち, 考え方
+top3 entities near to cluster3>>
+焼き物, 色付け, 手作り
+top3 entities near to cluster4>>
+色合い, サイズ, 色あい
+top3 entities near to cluster5>>
+おすすめ, ススメ, サービス
+top3 entities near to cluster8>>
+ロク, ラブ, アンド
+top3 entities near to cluster9>>
+道路, 駐車, 舗装
+top3 entities near to cluster10>>
+子供, 母親, 息子
+top3 entities near to cluster13>>
+人達, 雰囲気
+top3 entities near to cluster16>>
+写真, 動画, 画像
+top3 entities near to cluster17>>
+作成, 参加, 制作
+top3 entities near to cluster19>>
+間付近, 間, 距離
+top3 entities near to cluster20>>
+日, 月, 年
+top3 entities near to cluster21>>
+作業, 動画, 補足
+top3 entities near to cluster22>>
+時間, 所要
+top3 entities near to cluster25>>
+炭火焼き, 炭火焼, 炭火
+top3 entities near to cluster27>>
+体験, 陶芸, ワークショップ
+top3 entities near to cluster28>>
+陶芸, 焼き物, 作家
+top3 entities near to cluster29>>
+旅, 一泊, 宿泊

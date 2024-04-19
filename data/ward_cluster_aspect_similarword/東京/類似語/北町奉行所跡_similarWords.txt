@@ -1,0 +1,17 @@
+--------------------similar_words:北町奉行所跡--------------------
+top3 entities near to cluster0>>
+奉行, 北町, 町奉行
+top3 entities near to cluster1>>
+遠山, 金, 土
+top3 entities near to cluster2>>
+歩道橋, 歩道沿い, 歩道
+top3 entities near to cluster3>>
+大丸, 駅, 駅前
+top3 entities near to cluster4>>
+跡碑, 跡, 面影
+top3 entities near to cluster5>>
+奉行, 幕末, 幕府
+top3 entities near to cluster7>>
+案内板, 案内, 倒連
+top3 entities near to cluster8>>
+劇, 時代, 末期

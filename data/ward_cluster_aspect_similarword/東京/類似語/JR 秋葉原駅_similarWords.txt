@@ -1,0 +1,15 @@
+--------------------similar_words:JR 秋葉原駅--------------------
+top3 entities near to cluster0>>
+広告, 繁華街, 繁華
+top3 entities near to cluster1>>
+駅前, 界隈, 駅
+top3 entities near to cluster2>>
+改修, 構造, 改築
+top3 entities near to cluster3>>
+設置, 配布, 利用
+top3 entities near to cluster4>>
+利用者, 参加者, 利用, 参加
+top3 entities near to cluster5>>
+案内板, 案内, 倒連
+top3 entities near to cluster6>>
+駅, 構内, 駅前

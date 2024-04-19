@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ねむの木こども美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子どもたち, 子供達, 子供たち
+cluster1:(21)
+興味, 目, 個性, 心, 世界, こと, 昔, 日本, こじんまり, 気持ち, 障害, 時間, 感じ, 形, こころ, スポット, 子供, 子ども, 場所, こども, ねむ
+cluster2:(6)
+絵, 外観, 絵画, 建物, 作品, 女優
+cluster3:(5)
+ねむの木こども美術館, 園児, 美術館, ねむの木子ども美術館, こども美術館
+cluster4:(8)
+静岡県, 宮城まり子, 木学園, ねむの木学園, (o, 掛川市, の木こども美術館, 木
+cluster5:(3)
+養護施設, 肢体不自由児, 美術品
+
+howmany entities : 46
+howmany clusters : 6
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 6
+deleted 0entities.

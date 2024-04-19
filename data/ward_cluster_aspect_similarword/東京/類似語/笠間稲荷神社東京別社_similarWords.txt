@@ -1,0 +1,15 @@
+--------------------similar_words:笠間稲荷神社東京別社--------------------
+top3 entities near to cluster0>>
+駅, 地図, 駅前
+top3 entities near to cluster2>>
+信仰, 人々, 守り神
+top3 entities near to cluster3>>
+分社, 子会社, 設立
+top3 entities near to cluster4>>
+運, 寿, くじ
+top3 entities near to cluster5>>
+都, 中央, 区
+top3 entities near to cluster6>>
+稲荷, 神社, 境内
+top3 entities near to cluster7>>
+大, 稲荷, 三

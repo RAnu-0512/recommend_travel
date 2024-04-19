@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十国峠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+沼津, 熱海市, 初島, 南アルプス, 真鶴半島, 三島
+cluster1:(2)
+強風, 空気
+cluster2:(10)
+街並み, 十国峠, 山並み, 太平洋, ケーブルカー, パノラマ, 富士山, 駿河湾, ドライブ, 富士宮焼きそば
+cluster3:(3)
+右, 前, 他
+cluster4:(4)
+土産, 全景, 頂上, 絶景
+cluster5:(1)
+陽
+cluster6:(1)
+高嶺
+cluster7:(5)
+麓駅, 温泉街, 展望, 展望台, 国峠
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 4entities.

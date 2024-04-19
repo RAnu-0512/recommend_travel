@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:椿花ガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+リスたち, リス, リス達, リス村
+cluster1:(3)
+椿, 椿種類, 椿姫オペラ
+cluster2:(2)
+餌, 餌やり
+cluster3:(6)
+子供, 土産, 太鼓, 牛乳せんべい, 手袋, 子供達
+cluster4:(2)
+感じ, 紹介
+cluster5:(4)
+場所, 人, 話, 時期
+cluster6:(1)
+会話
+cluster7:(18)
+アジサイ, 富士山, 森, 花, オーナー, 動物, プレーリードック, ウサギ, 見ごたえ, オペラ, ひまわり, 早咲き, うさぎ, 桜, ガーデン, プレーリードッグ, 園内, 触れ合い
+cluster8:(5)
+雨, 景色, 天気, 雲, 見頃
+cluster9:(1)
+創設者
+cluster10:(1)
+できたて
+
+howmany entities : 47
+howmany clusters : 11
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,31 @@
+--------------------similar_words:大島大橋--------------------
+top3 entities near to cluster1>>
+道路, 通行, 歩道
+top3 entities near to cluster3>>
+トラ, ゾウ, ロス
+top3 entities near to cluster4>>
+昔, 大昔, 以前
+top3 entities near to cluster6>>
+から先, から, 直接
+top3 entities near to cluster7>>
+人気, 大人気, 定番
+top3 entities near to cluster8>>
+境目, 外側
+top3 entities near to cluster9>>
+全面, 前面, 完全
+top3 entities near to cluster11>>
+海沿い, フェリー, 航路
+top3 entities near to cluster12>>
+天気, 晴れ, お天気
+top3 entities near to cluster13>>
+夕方, 昼, 早朝
+top3 entities near to cluster14>>
+玄関, 噴水, 中庭
+top3 entities near to cluster15>>
+海道, 世界道, 海, 世界
+top3 entities near to cluster16>>
+駅店, 駅車, 駅
+top3 entities near to cluster17>>
+眼下, 対岸, 高台
+top3 entities near to cluster18>>
+道路, 桟橋

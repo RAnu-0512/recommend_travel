@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田端文士村記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+文人芸術人, マンガ家, 芸術家, 文化人
+cluster1:(4)
+上野, 北区, 田端, 田端駅
+cluster2:(2)
+街歩き, 散策マップ
+cluster3:(2)
+開催, 配布
+cluster4:(7)
+ゆかり, 他, 駅, スタンプラリー, 時間, 歴史, 資料
+cluster5:(3)
+芥川龍之介, 文豪, 文人
+cluster6:(1)
+初版本
+cluster7:(1)
+渋沢栄一スタンプラリー
+cluster8:(7)
+のらくろマンホール蓋の設置当館, 展示見学, 企画展示, 講演会, 企画展, 移住 館内展示, 展示物
+cluster9:(1)
+板橋区X北区
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 10
+deleted 0entities.

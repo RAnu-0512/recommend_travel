@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乃木旧邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+将軍, ステッセル将軍
+cluster1:(8)
+もの, 見学, 下鴨神社, こと, 激闘, 御朱印, ヤマ場, 山
+cluster2:(3)
+生家, 建物, 家屋
+cluster3:(2)
+明治, 漢詩
+cluster4:(1)
+らた詩
+cluster5:(4)
+河合神社, 爾霊山, 小学唱歌, 日露戦争
+cluster6:(4)
+乃木神社, 乃木, 乃木将軍, 沙沙貴神社
+cluster7:(1)
+爾(なんじ)の霊の山
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 8
+deleted 0entities.

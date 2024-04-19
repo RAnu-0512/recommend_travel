@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鍛冶屋温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鍛冶屋温泉, 温泉
+cluster1:(2)
+家族, 地元
+cluster2:(1)
+客
+cluster3:(1)
+石鹸
+cluster4:(1)
+田園
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

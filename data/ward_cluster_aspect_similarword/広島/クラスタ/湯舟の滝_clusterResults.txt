@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯舟の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+周囲, つぼ, 一枚岩, 旅, 迫力, 湯舟, マイナスイオン, 水量, 滝, 上, 湯船, こと, 高さ, 岩, 自然, 汗
+cluster1:(3)
+杵島姫, 市杵島姫, 厳島神社
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

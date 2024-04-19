@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐々木高綱等身地蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+地蔵, 像, 地蔵像
+cluster1:(2)
+等身, 等身大地蔵像
+cluster2:(10)
+大山寺, 右手, 事, 宇治川, 武将, 人, 守護, 仲, 先陣争い, 戦い
+cluster3:(8)
+佐々木高綱等身地蔵, 佐々木高綱, 宮の一之鳥居, 梶原景季, 高綱, 神山神社奥, 神山神社, 木曽義
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

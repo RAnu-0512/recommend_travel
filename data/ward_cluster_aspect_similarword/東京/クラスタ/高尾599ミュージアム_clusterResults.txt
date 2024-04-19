@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高尾599ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+ミュージアム, こと, 下山, 過程, 麓, 細やか, コース, 彼, 高尾山, 休憩, 外観, 館内, 参考
+cluster1:(3)
+温度, 動物, 昆虫
+cluster2:(1)
+展示物
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

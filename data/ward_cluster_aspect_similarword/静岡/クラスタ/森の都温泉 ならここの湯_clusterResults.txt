@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森の都温泉 ならここの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+質, 入泉料, 泉質, 塩化物温泉
+cluster1:(2)
+時期, 季節
+cluster2:(2)
+家族, 子供
+cluster3:(2)
+時間, 場所
+cluster4:(2)
+気, 方
+cluster5:(4)
+キャンプ, 気持ち, 露天風呂, 中
+cluster6:(1)
+体
+cluster7:(1)
+注意
+cluster8:(1)
+距離
+cluster9:(4)
+温泉, 館内, お湯, 景色
+cluster10:(2)
+側, 方面
+cluster11:(3)
+山奥, 奥, 山
+cluster12:(2)
+炭, キャンプ場
+cluster13:(1)
+下呂
+cluster14:(10)
+子供連れ, 匂いや汗, 居尻ならここキャンプ場, 山深い温泉, 休憩所, 時間帯, 食事処, かなり長風呂, 脱衣所, 営業時間
+
+howmany entities : 41
+howmany clusters : 15
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 16entities.

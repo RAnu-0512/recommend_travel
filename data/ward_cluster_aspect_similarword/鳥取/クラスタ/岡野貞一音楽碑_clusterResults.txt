@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡野貞一音楽碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歌碑, ふるさとの歌碑, 歌碑めぐり
+cluster1:(13)
+姉妹, ジュークボックス, 日本, 文部省, ふるさと, 音楽家, 先生, ボタン, 人, 入口, 故郷, ATSUSHI, メロディー
+cluster2:(2)
+一流アーティスト, 趣味
+cluster3:(1)
+小川
+cluster4:(5)
+歌, 音楽碑, 歌声, 譜面, 歌詞
+cluster5:(5)
+作曲者, 地元出身, 作詞者, 作曲家, 出身
+cluster6:(3)
+唱歌, 名唱歌, 合唱団
+cluster7:(10)
+久松公園, 鳥取市, 鳥取城, 岡野貞一, 濠端, 宝珠橋, 鳥取, 由紀さおり, 安田祥子, 高野辰之記念館
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 8
+deleted 0entities.

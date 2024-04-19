@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:右田ヶ岳城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+景色, 岩山, 城跡, 場所, ロッククライミング
+cluster1:(2)
+右田, 防府市
+cluster2:(1)
+ヶ岳城跡
+cluster3:(1)
+鎌倉時代末期頃
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

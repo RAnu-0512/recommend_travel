@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:涅槃堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 涅槃堂駐車場, 有料駐車場
+cluster1:(3)
+河津駅, 河津桜まつり, 河津桜
+cluster2:(2)
+涅槃堂, 涅槃像
+cluster3:(4)
+釈迦, 丘, 桜, 御堂
+cluster4:(11)
+横, 展望, 人, 歴史, 観光, 近く, 話, トイレ, 場所, 身体, 河津川
+cluster5:(1)
+甘茶
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 3entities.

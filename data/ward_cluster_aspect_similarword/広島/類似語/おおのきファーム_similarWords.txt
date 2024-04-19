@@ -1,0 +1,13 @@
+--------------------similar_words:おおのきファーム--------------------
+top3 entities near to cluster0>>
+詰め放題, 食べ放題, 食べ, 詰め
+top3 entities near to cluster1>>
+時間, 残り
+top3 entities near to cluster3>>
+好み, 特徴
+top3 entities near to cluster4>>
+イチゴ, 受付, チョコ
+top3 entities near to cluster5>>
+土産, 甘み, 香り
+top3 entities near to cluster6>>
+苺, いちご, イチゴ

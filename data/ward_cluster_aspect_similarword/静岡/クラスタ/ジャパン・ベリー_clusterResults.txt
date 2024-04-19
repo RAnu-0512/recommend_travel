@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジャパン・ベリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡市, 久能か江間, 藤枝市
+cluster1:(3)
+時期イチゴ狩り, いちご狩り, 苺狩り
+cluster2:(2)
+混雑, レジ
+cluster3:(21)
+リピート, 北海道, レーン, ハウス, 時期, 家族, こと, 母, 受付, シーズン, 時間, ビニールハウス, 品種, 報告, 感じ, 中, 説明, グループ, 部屋, 場所, 方
+cluster4:(12)
+イチゴ, 苺, 食べ放題, 苺屋, いちご, 甘いイチゴ, 紅ほっぺ, 久能, いちごそのもの, レンタカー屋, 石垣いちご, 甘さ
+
+howmany entities : 41
+howmany clusters : 5
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 4
+deleted 2entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:帝釈始終のコナラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コナラ, 帝釈始終
+cluster1:(1)
+山
+cluster2:(1)
+己
+cluster3:(1)
+斜面
+cluster4:(1)
+腰
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

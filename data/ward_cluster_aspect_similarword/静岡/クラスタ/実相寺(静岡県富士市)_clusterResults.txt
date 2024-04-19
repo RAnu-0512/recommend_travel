@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:実相寺(静岡県富士市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仁王像, 仁王
+cluster1:(2)
+石段, 参道
+cluster2:(4)
+山門, 本堂, 境内, 寺
+cluster3:(2)
+創建, 由緒
+cluster4:(21)
+実相寺, 風情, 庭園, 見晴らし, 門, 文化財, 風格, 国論, 写真, 展望, 人, 歴史, つくり, 上, 迫力, 情緒, 雰囲気, 建物, 地, 山々, 山
+cluster5:(6)
+富士市, 市指定有形文化財, 日蓮上人, 岩本山公園, 日蓮上人ゆかり, 祖師堂
+
+howmany entities : 37
+howmany clusters : 6
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 3
+deleted 6entities.

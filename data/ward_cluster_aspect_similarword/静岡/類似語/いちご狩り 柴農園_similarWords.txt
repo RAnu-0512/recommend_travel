@@ -1,0 +1,15 @@
+--------------------similar_words:いちご狩り 柴農園--------------------
+top3 entities near to cluster2>>
+イチゴ, いちご, 苺
+top3 entities near to cluster3>>
+農園, 農家, 品種
+top3 entities near to cluster6>>
+小粒, 甘み, 美味
+top3 entities near to cluster9>>
+対応, 利用, 使用
+top3 entities near to cluster13>>
+大きい, 満足, 食べ
+top3 entities near to cluster14>>
+予約, 受付, 時間
+top3 entities near to cluster15>>
+狩り, イチゴ, 苺

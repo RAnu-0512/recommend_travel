@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渓泉閣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+洋食, 和食
+cluster1:(2)
+料理, 食事
+cluster2:(1)
+夫婦ふたり
+cluster3:(3)
+味, 量, 種類
+cluster4:(2)
+スタッフ, アメニティ
+cluster5:(2)
+ステーキ, ランチ
+cluster6:(1)
+ビール
+cluster7:(1)
+ソース
+cluster8:(1)
+温泉
+cluster9:(1)
+ワンドリンク
+cluster10:(1)
+利用客
+
+howmany entities : 17
+howmany clusters : 11
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 11
+deleted 0entities.

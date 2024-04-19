@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かせいチャンモニュメント>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キノコ, オブジェ
+cluster1:(1)
+左手
+cluster2:(1)
+南口
+cluster3:(1)
+商店街
+cluster4:(1)
+都立家政駅
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

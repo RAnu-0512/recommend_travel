@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石泉文庫及塾・僧叡之墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+慧雲, 学徳
+cluster1:(1)
+広島
+cluster2:(1)
+風情
+cluster3:(1)
+指導者
+cluster4:(1)
+真宗学侶
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:聖湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+聖湖, 湖
+cluster1:(2)
+国道, 長野道
+cluster2:(13)
+色, 木々, コーヒー, そば, 水鳥, 群れ, 紅葉, 季節, 自然, 周囲, テーブル, 紅茶, 喫茶店
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

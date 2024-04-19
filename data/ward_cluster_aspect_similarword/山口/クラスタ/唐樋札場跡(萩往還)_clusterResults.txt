@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:唐樋札場跡(萩往還)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+防府三田, 萩市, 萩往還, 萩
+cluster1:(5)
+公的掲示板, 昔, 散策, 場所, 起点
+cluster2:(4)
+高札場, 唐樋札場, 唐樋札場跡, 札場
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

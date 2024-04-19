@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明倫館文学寮跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+石造り, 入口, 説明, 橋, 手前, 歴史, 万歳橋
+cluster1:(2)
+文学寮, 明倫館
+cluster2:(3)
+志都岐山神社, 萩城跡の指月公園, 指月公園
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

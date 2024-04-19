@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小谷サービスエリア(下り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+GW, 品ぞろえ, フードコート, ところ, 働きぶり, メロンパンアイス, 味, 広島県, ドライバー, 男性, 土産物, コンビニ, 地元, 土産, 山陽自動車道, アンデルセン, 感じ, 内, 広域, 食事, 旅行先, 声かけ, レストラン, サービスエリア, 食器, シャワールーム, 夕飯, 土産品
+cluster1:(2)
+アジフライ定食, アジフライ
+cluster2:(3)
+パン屋, パン, メロンパン
+cluster3:(1)
+河内IC−高屋JCT
+
+howmany entities : 34
+howmany clusters : 4
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 4
+deleted 0entities.

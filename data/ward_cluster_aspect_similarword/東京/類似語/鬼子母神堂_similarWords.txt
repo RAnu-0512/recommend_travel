@@ -1,0 +1,47 @@
+--------------------similar_words:鬼子母神堂--------------------
+top3 entities near to cluster0>>
+時代, 幕末, 幕府
+top3 entities near to cluster1>>
+谷, 唐, 九
+top3 entities near to cluster2>>
+区立, 公園, 市立
+top3 entities near to cluster4>>
+飛地, 飛び地, 境内
+top3 entities near to cluster5>>
+神社, 稲荷, 由緒
+top3 entities near to cluster6>>
+住宅, 道路, 都心
+top3 entities near to cluster7>>
+育, 子, 安産
+top3 entities near to cluster8>>
+祈願, 学業, 願掛け
+top3 entities near to cluster9>>
+安産, 祈願, 御利益
+top3 entities near to cluster10>>
+境内, 神社, 参道
+top3 entities near to cluster11>>
+親近感, 嫌悪感, 親近, 嫌悪
+top3 entities near to cluster13>>
+ご利益, 御利益, 御朱印
+top3 entities near to cluster14>>
+日, 月, 木
+top3 entities near to cluster15>>
+子供, 子ども, 孫
+top3 entities near to cluster16>>
+時間, 間, その間
+top3 entities near to cluster17>>
+周辺, 周り, 周囲
+top3 entities near to cluster18>>
+昔, 普通, 大昔
+top3 entities near to cluster19>>
+鬼, 童, 地蔵
+top3 entities near to cluster21>>
+涼しい, 暑い, そう
+top3 entities near to cluster22>>
+駅, 徒歩, 駅前
+top3 entities near to cluster23>>
+散策, 散歩, 出掛け
+top3 entities near to cluster24>>
+都心, 都会, 敷地
+top3 entities near to cluster25>>
+屋台, 看板, 名物

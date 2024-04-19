@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鍋島松涛公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+渋谷区立松涛美術館, 渋谷区立
+cluster1:(8)
+公園, 一部, 鍋島家, 街歩き, 明冶, 池, 渋谷駅, 徳川家下屋敷
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

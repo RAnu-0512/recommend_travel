@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クリークサウンド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+家族連れ, 参加者
+cluster1:(2)
+スリル感, 距離
+cluster2:(4)
+子どもたち, 家族, 全員, 旦那
+cluster3:(5)
+最後, 途中, 次回, 夏, 他
+cluster4:(2)
+上手, 心配
+cluster5:(21)
+流れ, 小学生, ガイド, 初心者, 水, 川, 兄さん, 思い出, 着替え, 写真, コース, ラフティング, シャワー, 水鉄砲, 体験, スリル, カヤック, ウェットスーツ, ラッシュガード, タオル, インストラクター
+cluster6:(1)
+更衣室
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 7entities.

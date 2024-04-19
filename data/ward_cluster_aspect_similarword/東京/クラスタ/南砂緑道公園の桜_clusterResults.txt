@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南砂緑道公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+開花ニュース, 桜, 夜桜, 満開
+cluster1:(6)
+季節, 天気, 桜並木, 場所, トンネル, 散歩
+cluster2:(1)
+南砂緑道公園の桜
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

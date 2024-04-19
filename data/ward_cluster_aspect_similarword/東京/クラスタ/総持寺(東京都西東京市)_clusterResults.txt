@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:総持寺(東京都西東京市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+石段, 石碑, 開山, 札所, 山門, 寺院, 寺, 西国, 本尊, 観音, 参道, 千手観音菩薩, 境内
+cluster1:(2)
+世話, ヒモ
+cluster2:(3)
+近所, 規模, 地元
+cluster3:(3)
+印象, 通り, 左側
+cluster4:(13)
+高野山, コンサート, アクセス, 文化財, 総持寺, 家族, 駅, 真言宗, 普通, ゲスト, 方, 雰囲気, 料理
+cluster5:(1)
+亀
+cluster6:(3)
+模擬店, 盆踊り大会, 田無駅
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

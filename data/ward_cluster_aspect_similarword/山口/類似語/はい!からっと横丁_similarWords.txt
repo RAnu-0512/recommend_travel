@@ -1,0 +1,53 @@
+--------------------similar_words:はい!からっと横丁--------------------
+top3 entities near to cluster0>>
+遊園地, 遊園, 揚島
+top3 entities near to cluster1>>
+娘, 息子, 親
+top3 entities near to cluster2>>
+子供, 子ども, 小学生
+top3 entities near to cluster3>>
+幼児, 乳幼児, 乳児
+top3 entities near to cluster4>>
+貝, 貝殻, イケチョウ
+top3 entities near to cluster5>>
+入園, 入学, 開園
+top3 entities near to cluster6>>
+テーマパーク, アトラクション, 水族館
+top3 entities near to cluster7>>
+横丁, 横町, アメヤ
+top3 entities near to cluster8>>
+女性, 男性, 男女
+top3 entities near to cluster10>>
+以下, 上記, 下記
+top3 entities near to cluster11>>
+隣, 隣り, 向かい側
+top3 entities near to cluster14>>
+写真, 撮っ, 画像
+top3 entities near to cluster15>>
+想定外, 想定内, 想定
+top3 entities near to cluster16>>
+施設, 設備, 敷地
+top3 entities near to cluster17>>
+他者, 他人, 自分
+top3 entities near to cluster18>>
+金, 金火, 土
+top3 entities near to cluster19>>
+間隔, 等間隔, 距離
+top3 entities near to cluster20>>
+手際, 手慣れ, 手馴れ
+top3 entities near to cluster21>>
+受付, 窓口, 確認
+top3 entities near to cluster22>>
+観覧車, 観覧, 自家用車
+top3 entities near to cluster23>>
+響, 市場, 海
+top3 entities near to cluster24>>
+着用, 体温, 検温
+top3 entities near to cluster25>>
+パス, フリー, パスポート
+top3 entities near to cluster26>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster28>>
+保護者, 保護, 受給者, 受給
+top3 entities near to cluster29>>
+遊具, 入場, アトラクション

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Lucky Glass Studio>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+達成感, 絵付け体験, 色見本ビー玉, 体験, 迷い予約時間, 完成品, ガラス体験
+cluster1:(2)
+宝箱, 箱
+cluster2:(10)
+小学生, 娘, 奥様, 子ども, 子供, 小学校高学年, 母, 子ども達, 子供達, 主人
+cluster3:(3)
+過程, 作業, 工程
+cluster4:(3)
+気分, 貸し切り状態, 感覚
+cluster5:(4)
+途中, 最後, 上, 中
+cluster6:(3)
+場合, 方, こと
+cluster7:(2)
+感じ, 違い
+cluster8:(2)
+対応, 説明
+cluster9:(1)
+手取り足取り
+cluster10:(1)
+ほめ方
+cluster11:(22)
+作品, ガラス, キャンディボウル, 作り方, ガラスパーツ, 荷物, 色, 仕上がり, りんご, ガラスパ, キャンディプレート, 見本, 発送, 工房, 透明, ガラス工房, 皿, キャンディーボール, 雰囲気, 宅配, 模様ガラス, 店内
+
+howmany entities : 60
+howmany clusters : 12
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 12
+deleted 0entities.

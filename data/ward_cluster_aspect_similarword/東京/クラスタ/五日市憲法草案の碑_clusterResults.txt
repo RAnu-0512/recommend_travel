@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五日市憲法草案の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+憲法草案, 憲法
+cluster1:(3)
+石碑, 校庭, 碑
+cluster2:(4)
+日本, 前, こと, もの
+cluster3:(4)
+五日市, あきる野市, 五日市出張所, あきる野市役所
+cluster4:(2)
+東京都, 市立五日市中学校
+cluster5:(1)
+観光散策
+cluster6:(1)
+明治時代初期に作られた私擬憲法案
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

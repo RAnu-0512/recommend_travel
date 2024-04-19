@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:向上寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観音霊場, 札所
+cluster1:(3)
+瀬戸田町, 尾道市, 瀬戸田港
+cluster2:(16)
+時代初期, 歴史, 境内, 唐様, 領主, 生口島, 寺, 国宝, 中国, 案内看板, 室町, 朱色, 外観, 折衷, 階段, 瀬戸田
+cluster3:(4)
+小早川信元・信昌, 国宝三重塔, 三重塔, 国宝・三重塔
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

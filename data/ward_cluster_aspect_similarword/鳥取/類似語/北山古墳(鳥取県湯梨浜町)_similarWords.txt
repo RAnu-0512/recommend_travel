@@ -1,0 +1,9 @@
+--------------------similar_words:北山古墳(鳥取県湯梨浜町)--------------------
+top3 entities near to cluster1>>
+古墳, 遺跡, 前方後円墳
+top3 entities near to cluster3>>
+墳丘, 葺石, 前方後円墳
+top3 entities near to cluster4>>
+竪穴, 石室, 横穴
+top3 entities near to cluster5>>
+梨, 湯, 丘陵

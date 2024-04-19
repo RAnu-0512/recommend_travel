@@ -1,0 +1,11 @@
+--------------------similar_words:鮫が崎展望台--------------------
+top3 entities near to cluster0>>
+東屋, 銅像, 胸像
+top3 entities near to cluster1>>
+景色, 夕日, 海
+top3 entities near to cluster3>>
+待合, 待合い, 待合室
+top3 entities near to cluster4>>
+展望台, 展望, .
+top3 entities near to cluster5>>
+はじ, 丸, まる

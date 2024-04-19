@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大倉戸観光農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+章姫, 紅ほっぺ
+cluster1:(2)
+ちぎり方, 見分け方
+cluster2:(3)
+こと, 貸し切り状態, 中
+cluster3:(3)
+いちご, 雨, イチゴ
+cluster4:(1)
+イチゴ狩り
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 5entities.

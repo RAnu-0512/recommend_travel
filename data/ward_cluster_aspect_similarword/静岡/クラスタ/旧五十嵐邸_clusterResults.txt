@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧五十嵐邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蒲原宿, 新蒲原駅
+cluster1:(15)
+富士, こと, 東海道五, 洋風, ガラス, 見学, 町屋, JR, 富士川, 大正, 和洋折衷建築, 建物, 東海道, 江戸時代, 三次ウォーキング
+cluster2:(2)
+本陣跡, 屋敷風景
+cluster3:(2)
+休み処, 診察室
+cluster4:(1)
+歯科医院
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 7entities.

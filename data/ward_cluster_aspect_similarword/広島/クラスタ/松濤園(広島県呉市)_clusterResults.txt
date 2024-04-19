@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松濤園(広島県呉市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+江戸時代, 鎖国時代, 朝鮮通信使
+cluster1:(2)
+外交, 民間レベル
+cluster2:(8)
+途中, 瀬戸内海, 安芸灘, 下蒲刈島, 雰囲気, 美術館, 意外, 要
+cluster3:(3)
+歴史, 展示, 家屋
+cluster4:(2)
+庭, 海
+cluster5:(2)
+料理, 景色
+cluster6:(1)
+服装
+cluster7:(1)
+海道
+cluster8:(1)
+資料館
+cluster9:(1)
+海上交通
+
+howmany entities : 24
+howmany clusters : 10
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 10
+deleted 0entities.

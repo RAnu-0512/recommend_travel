@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぬくもりの森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+パン屋, 雑貨, 雑貨屋
+cluster1:(31)
+隣, 通路, 足腰, 世界, 下, 穴, 家, HP, 空間, ポイント, 写真, スウィーツ, 物, 野菜, 範囲, 世界観, 体験, 階段, 時間, 感じ, ジブリ, 旅行, 中, トイレ, 建物, 場所, 施設, 室内, 方, 道, SNS
+cluster2:(3)
+駐車場, 滞在時間, 無人販売
+
+howmany entities : 37
+howmany clusters : 3
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 3
+deleted 0entities.

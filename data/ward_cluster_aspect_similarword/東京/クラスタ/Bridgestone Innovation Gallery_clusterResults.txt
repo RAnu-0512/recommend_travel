@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Bridgestone Innovation Gallery>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+小平市, 東京都, 小川駅, 小川東町
+cluster1:(3)
+展示場, 展示館, 展示
+cluster2:(4)
+興味, 機会, タイヤ好き, こと
+cluster3:(3)
+ブリジストン, 自転車, ブリヂストンTODAY
+cluster4:(3)
+タイア, タイヤ, タイヤメーカー
+cluster5:(4)
+人, 家族, 施設, 車
+cluster6:(1)
+ゴム
+cluster7:(1)
+一流企業
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

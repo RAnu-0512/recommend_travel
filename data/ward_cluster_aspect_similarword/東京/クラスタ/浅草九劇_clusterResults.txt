@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草九劇>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+浅草駅, 浅草, 銀座線
+cluster1:(13)
+四方, ひさご通り, 真ん中, アクセス, こと, 吐息, 劇場, 俳優, アーケード, SMOKE, 客席, 座席, 舞台
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

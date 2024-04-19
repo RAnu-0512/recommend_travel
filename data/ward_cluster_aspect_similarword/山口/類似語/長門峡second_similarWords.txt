@@ -1,0 +1,39 @@
+--------------------similar_words:長門峡second--------------------
+top3 entities near to cluster0>>
+川, 竜宮, 茶屋
+top3 entities near to cluster1>>
+時間, 距離, 余裕
+top3 entities near to cluster2>>
+人達
+top3 entities near to cluster3>>
+変化, 自然, 空気
+top3 entities near to cluster6>>
+季節, 秋, 初夏
+top3 entities near to cluster7>>
+紅葉, 吊橋, 吊り橋
+top3 entities near to cluster8>>
+断崖, 奇岩, 深淵
+top3 entities near to cluster9>>
+萩, 茶屋, 橡の木
+top3 entities near to cluster10>>
+川, 山, 桜
+top3 entities near to cluster11>>
+渓谷, 渓流, 峡谷
+top3 entities near to cluster12>>
+鉄道, ダム, 鉄橋
+top3 entities near to cluster13>>
+景色, 景観, 散策
+top3 entities near to cluster14>>
+バス, タクシー, 乗り場
+top3 entities near to cluster15>>
+始点, 起点, 終点
+top3 entities near to cluster16>>
+その道, 県道
+top3 entities near to cluster17>>
+駅, 駅前, 構内
+top3 entities near to cluster18>>
+駅長, 駅員
+top3 entities near to cluster19>>
+時間, 徒歩
+top3 entities near to cluster20>>
+可能性, 可能

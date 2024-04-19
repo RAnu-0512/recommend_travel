@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:造船郷土資料博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ディアナ号, 軍艦ディアナ号, ヘダ号
+cluster1:(25)
+軍艦, 国交, 博物館, 史実, 船, 幕末, 展示, ガイド, 訪問, ロシア, 西伊豆, 資料, 裏, 日本, プチャーチン, 人, 歴史, 意図, 命, 話, 建造, 地, 前, 皇帝, 出来事
+cluster2:(5)
+下田, 東海大地震, 岬, 錨, 戸田
+cluster3:(10)
+造船郷土資料博物館, 駿河湾深海生物館, 入館料, 洋式帆船, 本格式洋式帆船, 造船業, 深海生物博物館, 資料館, 造船, 戸田御浜岬
+
+howmany entities : 43
+howmany clusters : 4
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 4
+deleted 0entities.

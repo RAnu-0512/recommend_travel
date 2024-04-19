@@ -1,0 +1,29 @@
+--------------------similar_words:打吹公園--------------------
+top3 entities near to cluster1>>
+動物園, 動物, 植物園, 植物
+top3 entities near to cluster2>>
+散策, 散歩
+top3 entities near to cluster3>>
+満開, 花見, 桜
+top3 entities near to cluster4>>
+季節, 花, 時季
+top3 entities near to cluster5>>
+名所, 名所旧跡, 旧跡
+top3 entities near to cluster6>>
+夜桜, 最高, 挽花
+top3 entities near to cluster7>>
+開花, 時期, 満開
+top3 entities near to cluster8>>
+三色, 団子, 三
+top3 entities near to cluster9>>
+境内, 一帯, 公園
+top3 entities near to cluster10>>
+えん, つぶ, とえん
+top3 entities near to cluster11>>
+公園, 城跡, 城址
+top3 entities near to cluster12>>
+閣, 仁, 龍
+top3 entities near to cluster13>>
+100選, 100, 名所
+top3 entities near to cluster14>>
+土蔵群, 土蔵, 建造

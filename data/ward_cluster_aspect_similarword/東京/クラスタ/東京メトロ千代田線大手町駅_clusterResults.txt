@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線大手町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+大手町, 店, 地下道, 三田線, 丸ノ内線, 仕事, 工事, 路線, ビジネス街, 田舎者, 車両, 地下, 地下鉄, 東西線, 迷子, 田舎, 出口, 乗り換え
+cluster1:(7)
+場所, 多く, 利用, 距離, 複数, 乗り換え場所, 乗り入れ数
+cluster2:(15)
+線, 門線, 大都会東京, 汗乗り換え通路, 皇居, 駅, 改札, 東京駅, 丸の内線, メトロ千代田線, 徒歩, 大手町駅, 東京メトロ, 駅構内, 駅ビル
+
+howmany entities : 40
+howmany clusters : 3
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 3
+deleted 0entities.

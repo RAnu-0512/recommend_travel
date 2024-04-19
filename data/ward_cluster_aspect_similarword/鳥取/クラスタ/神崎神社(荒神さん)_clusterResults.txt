@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神崎神社(荒神さん)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観光ガイド, 荒神, 神社, 参拝
+cluster1:(13)
+システム, 利益, 足元, 人影, 空気, 他, 印, 箱, 代金, パワースポット, 御朱印, 地元, 彫刻
+cluster2:(1)
+龍が持つ玉の真下
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

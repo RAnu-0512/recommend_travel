@@ -1,0 +1,23 @@
+--------------------similar_words:「フーテンの寅」像--------------------
+top3 entities near to cluster0>>
+撮影, 写真, 撮っ
+top3 entities near to cluster1>>
+記念, 写真, 撮影
+top3 entities near to cluster2>>
+写真, 撮影, 撮る
+top3 entities near to cluster3>>
+妹兄, 妹, 弟兄, 弟
+top3 entities near to cluster5>>
+人物像, 人物, 銅像
+top3 entities near to cluster6>>
+広場, 駅前, 公園
+top3 entities near to cluster7>>
+下車, 帰途, 帰路
+top3 entities near to cluster9>>
+そば店, 建物, そば
+top3 entities near to cluster10>>
+駅, 徒歩, 駅前
+top3 entities near to cluster11>>
+改札, 駅線, 駅
+top3 entities near to cluster14>>
+寅, 乃虎, 吉

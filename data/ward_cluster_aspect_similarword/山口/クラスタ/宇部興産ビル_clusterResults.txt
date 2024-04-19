@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇部興産ビル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+レストラン, シンボル, 宇部興産
+cluster1:(2)
+多く, 人々
+cluster2:(1)
+ビル
+cluster3:(1)
+会議室
+cluster4:(1)
+宇部市
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

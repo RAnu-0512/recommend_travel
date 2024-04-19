@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:由比宿東海道あかりの博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+由比駅, 由比宿
+cluster1:(6)
+照明, 電気, 精油, 灯火, 灯り, 提灯
+cluster2:(5)
+市, 付近, 徒歩, 時間, 場所
+cluster3:(7)
+種, 全部, 上, 内容, 説明, 前, 他
+cluster4:(2)
+価値, 趣味
+cluster5:(19)
+博物館, ミニ博物館, 昭和, 文字通りあかり, 展示, 館内, 峠, 訪問, あかり, 江戸, あかりの博物館, 美術館, 古代, 東海道あかり, ランプ, 建物, 民家, 石, 時代
+cluster6:(2)
+木・松明, 灯具
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 4
+deleted 6entities.

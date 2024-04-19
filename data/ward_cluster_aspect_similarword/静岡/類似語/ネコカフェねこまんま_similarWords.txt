@@ -1,0 +1,9 @@
+--------------------similar_words:ネコカフェねこまんま--------------------
+top3 entities near to cluster0>>
+猫, ネコ, ニャンコ
+top3 entities near to cluster2>>
+猫, ネコ, 子猫
+top3 entities near to cluster5>>
+部屋
+top3 entities near to cluster13>>
+臭い, 匂い, におい

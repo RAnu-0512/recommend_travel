@@ -1,0 +1,9 @@
+--------------------similar_words:仲哀天皇殯葬所--------------------
+top3 entities near to cluster0>>
+北部, 南部, 中部
+top3 entities near to cluster1>>
+足, 後足, 両足
+top3 entities near to cluster2>>
+天皇, 天皇陛下, 明治天皇
+top3 entities near to cluster3>>
+仲哀, 天皇, クマソ

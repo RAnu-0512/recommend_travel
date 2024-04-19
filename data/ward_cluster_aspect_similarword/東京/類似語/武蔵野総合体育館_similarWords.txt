@@ -1,0 +1,17 @@
+--------------------similar_words:武蔵野総合体育館--------------------
+top3 entities near to cluster0>>
+北口, 南口, 駅前
+top3 entities near to cluster1>>
+市民, 民衆, 町民
+top3 entities near to cluster2>>
+客席, 観客, 会場
+top3 entities near to cluster3>>
+勝手, サッカー, ＪＦＬ
+top3 entities near to cluster4>>
+試合, 展開, 対戦
+top3 entities near to cluster5>>
+その道, 道筋
+top3 entities near to cluster6>>
+試合, 観戦, 卓球
+top3 entities near to cluster7>>
+競技場, 競技, 陸上

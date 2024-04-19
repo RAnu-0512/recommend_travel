@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六連島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+右手, 島, 阪九フェリー, 関門海峡クルーズ, 下, 灯台, 巌流島, 関門海峡
+cluster1:(2)
+響灘, 彦島
+cluster2:(3)
+下関市, 関門橋, 門司区
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

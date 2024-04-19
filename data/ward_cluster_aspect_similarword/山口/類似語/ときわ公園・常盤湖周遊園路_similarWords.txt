@@ -1,0 +1,19 @@
+--------------------similar_words:ときわ公園・常盤湖周遊園路--------------------
+top3 entities near to cluster0>>
+周り, 周囲, 大勢
+top3 entities near to cluster1>>
+コース, フォレストコース, アスリートコース
+top3 entities near to cluster2>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster3>>
+ジョギング, ウォーキング, ウオーキング
+top3 entities near to cluster4>>
+その道, 道筋
+top3 entities near to cluster5>>
+底, 奥底
+top3 entities near to cluster6>>
+緑風, 自然風, 緑, 自然
+top3 entities near to cluster7>>
+公園, 花壇, 庭園
+top3 entities near to cluster8>>
+湖, 湖畔, ペケレット

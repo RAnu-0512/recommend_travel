@@ -1,0 +1,11 @@
+--------------------similar_words:ペリー艦隊来航記念碑--------------------
+top3 entities near to cluster2>>
+記念碑, 記念, 石碑
+top3 entities near to cluster5>>
+艦隊, 提督
+top3 entities near to cluster10>>
+散策, 退散, 会い
+top3 entities near to cluster12>>
+記念, 銅像, 胸像
+top3 entities near to cluster16>>
+公園, 町, 商店

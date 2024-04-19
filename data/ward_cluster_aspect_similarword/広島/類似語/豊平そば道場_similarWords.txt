@@ -1,0 +1,11 @@
+--------------------similar_words:豊平そば道場--------------------
+top3 entities near to cluster1>>
+麦打ち, 蕎麦, そば切り
+top3 entities near to cluster2>>
+そば打ち, そば, ソバ
+top3 entities near to cluster3>>
+蕎麦, そば, ソバ
+top3 entities near to cluster4>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster5>>
+甥っ子, 姪っ子, 姪, 甥

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島, むかし海, 安全
+cluster1:(7)
+紙, 目印, ホテル, 入口, 神社, 隣, 辺り
+cluster2:(1)
+岩礁
+cluster3:(1)
+説明版
+cluster4:(2)
+白神社, 遭難事故
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,29 @@
+--------------------similar_words:Props Art School--------------------
+top3 entities near to cluster0>>
+アレンジメント, お花, 教室
+top3 entities near to cluster1>>
+家族, 友人, 子供
+top3 entities near to cluster3>>
+好み, 種類, 数種類
+top3 entities near to cluster4>>
+満足, 納得, 喜ぶ
+top3 entities near to cluster5>>
+大手, 前回, 前々回
+top3 entities near to cluster6>>
+作品作り, 作品, 題材
+top3 entities near to cluster7>>
+興味, 知識, 関心
+top3 entities near to cluster8>>
+時間, 近辺
+top3 entities near to cluster10>>
+手順, 方法, やり方
+top3 entities near to cluster11>>
+随時, 不定期, 都度
+top3 entities near to cluster12>>
+楽しい, 難い, 嬉しい
+top3 entities near to cluster13>>
+体験, 陶芸, ワークショップ
+top3 entities near to cluster15>>
+命日, 日, 開店
+top3 entities near to cluster16>>
+花, 花屋, お花

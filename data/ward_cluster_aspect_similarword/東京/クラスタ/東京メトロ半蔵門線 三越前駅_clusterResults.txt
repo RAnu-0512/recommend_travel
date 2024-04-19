@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ半蔵門線 三越前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+地上, 老舗, 百貨店, 半蔵門線, ひとつ, 日本橋, 気, ホーム, 駅, ランチ, 終りエレベーター, 出口, 乗り換え
+cluster1:(2)
+地下鉄半蔵, 東京メトロ
+cluster2:(3)
+三越前駅, 三越, 日本橋三越
+cluster3:(2)
+改札口, 改札
+cluster4:(2)
+門線, 銀座線
+cluster5:(1)
+東京メトロ半蔵門線 三越前駅
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

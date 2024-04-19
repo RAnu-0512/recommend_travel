@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉賀大眉記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+電動ろくろ体験, 電動ろくろ
+cluster1:(2)
+吉賀大, 吉賀大眉記念館
+cluster2:(2)
+萩焼, 萩焼最高峰
+cluster3:(7)
+ゆかり, 焼き物, 方々, 作品, 体験, 眉, 彼
+cluster4:(2)
+観光スポット, 展示施設
+cluster5:(1)
+作陶体験
+cluster6:(1)
+文化功労者
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:BOOKOFF PLUS 町田旭町店--------------------
+top3 entities near to cluster0>>
+査定, 買取, 下取り
+top3 entities near to cluster1>>
+近辺, ほど近い, 最寄り
+top3 entities near to cluster2>>
+本, 本作, 冊作, 冊
+top3 entities near to cluster3>>
+店舗, 各店
+top3 entities near to cluster4>>
+値段, 安い, 価格
+top3 entities near to cluster5>>
+駅, 南口, 北口

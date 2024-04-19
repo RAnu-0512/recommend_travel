@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都筑海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散策, 眺め
+cluster1:(4)
+背後, 高台, 海岸, 公園
+cluster2:(2)
+潮干狩り, 海水浴
+cluster3:(2)
+トイレ, スペース
+cluster4:(1)
+浜名湖
+cluster5:(1)
+人
+cluster6:(1)
+場所
+cluster7:(2)
+ドライブ組, 道
+cluster8:(1)
+路肩
+cluster9:(1)
+駐車場
+
+howmany entities : 17
+howmany clusters : 10
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 13entities.

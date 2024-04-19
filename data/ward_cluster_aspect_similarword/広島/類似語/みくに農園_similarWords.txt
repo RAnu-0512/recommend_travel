@@ -1,0 +1,11 @@
+--------------------similar_words:みくに農園--------------------
+top3 entities near to cluster0>>
+農園, 果樹, 直売
+top3 entities near to cluster1>>
+詰め放題, 詰め, まくれる
+top3 entities near to cluster2>>
+季節, 時季, 変わり目
+top3 entities near to cluster3>>
+果物, みかん, ジュース
+top3 entities near to cluster4>>
+四季, 移ろい, 季節

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長泉町井上靖文学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展示, 館内, 施設
+cluster1:(4)
+言葉, こと, もの, 意味
+cluster2:(6)
+人, 出会い, 気持ち, 時間, クレマチス, ビデオ
+cluster3:(2)
+人生, 何事
+cluster4:(1)
+心
+cluster5:(1)
+朝方
+cluster6:(8)
+雨, 光, 如し, 芽, 万物, 空気, 花, 丘
+cluster7:(1)
+存在感
+cluster8:(6)
+井上, 井上靖, 井上靖文学館, 長泉町, 町営施設, 文学館
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 5entities.

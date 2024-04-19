@@ -1,0 +1,15 @@
+--------------------similar_words:東京メトロ丸の内線大手町駅--------------------
+top3 entities near to cluster0>>
+地下鉄, 路線, 駅
+top3 entities near to cluster1>>
+駅線, 駅, 線上
+top3 entities near to cluster2>>
+都, メトロ, 都内
+top3 entities near to cluster3>>
+改札口, 改札, 口前
+top3 entities near to cluster4>>
+駅, 駅前, 構内
+top3 entities near to cluster5>>
+各線, 地下鉄, 駅
+top3 entities near to cluster6>>
+整列, 乗車, 位置

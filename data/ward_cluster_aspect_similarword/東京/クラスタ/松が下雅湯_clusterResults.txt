@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松が下雅湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+電灯, 懐中電灯
+cluster1:(2)
+途中, 横
+cluster2:(2)
+水着, 海
+cluster3:(1)
+最高 湯船
+cluster4:(1)
+更衣室
+cluster5:(1)
+かけ流し 夜
+cluster6:(1)
+併設 泉質
+
+howmany entities : 10
+howmany clusters : 7
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 7
+deleted 0entities.

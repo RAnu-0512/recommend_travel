@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修善寺温泉 赤蛙公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+カエル, 休憩, 光, 竹林, 花桃, 川, 蕾, 小径, 東屋, 横, 枝垂れ桜, 蛍, 満開, ほとり, 奥, 感じ, 観光, 橋, 場所, 小路, 中央, ホタル, 小説, 紅白, 上流, 見どころ, 桂川
+cluster1:(5)
+修善寺温泉街, 滝下橋, 赤蛙公園, 公園脇, 公園
+
+howmany entities : 32
+howmany clusters : 2
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 2
+deleted 0entities.

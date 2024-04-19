@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:見次公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+季節, ビバホーム, ボート, フード, 場所, 池, 散策, カップル, 景色, ランニング, 最寄り駅, 人, 釣り, 子供, 緑, 近く, バスケットボール, 犬, 買い物, ピクニック気分, ヘラブナ釣り, 桜, 雰囲気, 禁止, アヒル, イオン, もの
+cluster1:(7)
+見次公園, 三次公園, 志村坂上駅, 区営公園, 公園, 住宅街, 板橋区
+
+howmany entities : 34
+howmany clusters : 2
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 2
+deleted 0entities.

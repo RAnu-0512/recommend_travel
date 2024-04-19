@@ -1,0 +1,11 @@
+--------------------similar_words:亀山神社--------------------
+top3 entities near to cluster0>>
+神社, 宮司, 本殿
+top3 entities near to cluster1>>
+祈祷, 朱印, 参拝
+top3 entities near to cluster3>>
+風景, 景色, 歴史
+top3 entities near to cluster4>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster5>>
+坂, 登り, 急坂

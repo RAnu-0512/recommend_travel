@@ -1,0 +1,15 @@
+--------------------similar_words:小平ふるさと村--------------------
+top3 entities near to cluster0>>
+入場料, 入場, 入館料, 入館
+top3 entities near to cluster1>>
+建物, 民家, 家屋
+top3 entities near to cluster2>>
+昔, 大昔, 以前
+top3 entities near to cluster3>>
+明治, 大正, 平成
+top3 entities near to cluster6>>
+情緒, 情感, 風情
+top3 entities near to cluster7>>
+印象, 雰囲気, 風情
+top3 entities near to cluster8>>
+立地, 至便

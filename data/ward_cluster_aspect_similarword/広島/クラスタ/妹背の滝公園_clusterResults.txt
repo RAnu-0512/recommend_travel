@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妹背の滝公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 避暑地
+cluster1:(2)
+マイナスイオン一杯, 透明度
+cluster2:(2)
+環境, 整備
+cluster3:(2)
+夏場, 夏
+cluster4:(9)
+子, 水しぶき, 川遊び, アクセス, マイナスイオン, 人, 近く, 気持ち, 水遊び
+cluster5:(2)
+水, 川
+cluster6:(1)
+スピリチュアル系
+cluster7:(1)
+エビ
+cluster8:(2)
+観光スポット, 水深
+cluster9:(1)
+子供たち
+cluster10:(5)
+滝公園, 妹背, 滝, 大野町, 小魚
+
+howmany entities : 29
+howmany clusters : 11
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 11
+deleted 0entities.

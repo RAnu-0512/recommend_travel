@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渡辺蒿蔵旧宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+渡辺蒿蔵, 渡辺
+cluster1:(2)
+明治, 中期
+cluster2:(3)
+家, 天野家, 旧宅
+cluster3:(1)
+萩藩士渡辺家
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堂ヶ島アクーユ三四郎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+唐揚げ, 道路混雑, 時代跨ぎ, 令和
+cluster1:(13)
+事, 対応, 存分, 数人, 工夫, 種類, 忙し, 時間, 文句, 到着, 方々, 世話, 方
+cluster2:(2)
+喜寿, 紫衣
+cluster3:(3)
+シャンプーバイキング, 露天風呂, バイキング
+cluster4:(6)
+フロント, スタッフ, ぎりぎり, タイミング, オーダー, サービス
+cluster5:(1)
+ロビー
+cluster6:(1)
+飲み物
+cluster7:(1)
+お祝い
+cluster8:(1)
+口コミ
+cluster9:(2)
+カサゴ, 浜千鳥
+cluster10:(1)
+父
+cluster11:(1)
+ポストカード
+cluster12:(2)
+記念, 平成
+cluster13:(1)
+良さ
+cluster14:(3)
+島, 三四郎島, 三四郎岩
+cluster15:(5)
+温泉, 仲居, 宿, 女湯オンリー, 露天
+cluster16:(2)
+夕日, 夕陽
+cluster17:(3)
+朝食, 食事, 夕食
+cluster18:(3)
+料理, 景色, 部屋
+cluster19:(2)
+雨, 海
+cluster20:(1)
+宴
+cluster21:(1)
+地物
+cluster22:(1)
+宴会場
+cluster23:(3)
+た.b, アクーユ三四郎, G.W中
+
+howmany entities : 63
+howmany clusters : 24
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 9
+deleted 20entities.

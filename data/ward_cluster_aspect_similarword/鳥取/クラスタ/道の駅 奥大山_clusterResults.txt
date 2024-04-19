@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 奥大山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+大山, 大山地鶏, 天然水奥大山, 大山産みそ, 大山米, 道の駅奥大山, 大山そば, 奥大山周辺地域
+cluster1:(4)
+物産館, 名産品, 加工品, 直売所
+cluster2:(3)
+水, 氷, 焼酎
+cluster3:(2)
+充実, 身
+cluster4:(20)
+テーマ, 地域, こだわり, マルシェ, 農産物, ドライブ, 販売, 土産, レストラン, 価格, 買い物, 種類, 目玉, 地元, 土産物, もの, 近く, メニュー, ドライブ途中, 場所
+cluster5:(7)
+駅 奥, 奥, 駅, 江府インター, 原木, 道, 国道
+cluster6:(10)
+野菜, こだわり野菜, 果物, 食事処, 地元食材, 健康メニュー, 健康, 干し椎茸, 食事, 恵み
+cluster7:(1)
+獲れたて野菜
+
+howmany entities : 55
+howmany clusters : 8
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:折り紙博物館--------------------
+top3 entities near to cluster0>>
+童話, 昔話, 民話
+top3 entities near to cluster1>>
+技術, 作品, 世界
+top3 entities near to cluster2>>
+雛, 様, さま
+top3 entities near to cluster3>>
+姫, 世界, 城
+top3 entities near to cluster4>>
+研修, 体験, 施設

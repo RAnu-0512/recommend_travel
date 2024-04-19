@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千代田運動公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+野球場, 高校野球, サッカー場
+cluster1:(8)
+運動, 体育館, 少年サッカー, 千代田インターチェンジ, アクセス, スポーツ, 運動公園, 所
+cluster2:(2)
+屋内プール, 遊具
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

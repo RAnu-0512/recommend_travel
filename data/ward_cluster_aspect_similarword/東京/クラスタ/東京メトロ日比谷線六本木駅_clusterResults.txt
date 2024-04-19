@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線六本木駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+観光, 恵比寿方面, 施設, 地下, 地形, 周辺, 出口
+cluster1:(5)
+寄り, 利用, 前後, 方, こと
+cluster2:(2)
+六本木交差点, 交差点
+cluster3:(4)
+恵比寿, 日比谷, 六本木, 日比谷線
+cluster4:(4)
+地下道, 最寄り駅, ホーム, ミッドタウン
+cluster5:(1)
+六本木ヒルズ
+cluster6:(1)
+広尾
+cluster7:(12)
+六本木駅, ミッドタウン東京メトロ, 改札口, 神谷町駅, 駅, 改札, 銀座駅, 江戸線, 麻布十番駅, 東京メトロ, 都営, 東京ミッドタウン
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,37 @@
+--------------------similar_words:萩反射炉--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 駐輪場
+top3 entities near to cluster4>>
+風情, 満開, 感動
+top3 entities near to cluster6>>
+記載, 書く
+top3 entities near to cluster7>>
+構造, 内部, 上部
+top3 entities near to cluster8>>
+製鉄, 石炭, 大砲
+top3 entities near to cluster9>>
+麓, 丘, 山
+top3 entities near to cluster10>>
+裏手, 入り口, 入口
+top3 entities near to cluster11>>
+息, 吹き返す, 絶えだえ
+top3 entities near to cluster12>>
+線路, 列車, 建物
+top3 entities near to cluster13>>
+道路沿い, 公園沿い, 道路, 公園
+top3 entities near to cluster14>>
+案内, 館, 看板
+top3 entities near to cluster15>>
+産業, 革命, 遺産
+top3 entities near to cluster16>>
+遺産, 産業, 文化
+top3 entities near to cluster17>>
+遺産, 文化, 世界
+top3 entities near to cluster18>>
+遺産, 世界, アル・カラル
+top3 entities near to cluster19>>
+遺産, 歴史, 世界
+top3 entities near to cluster20>>
+遺産, 世界, 登録
+top3 entities near to cluster21>>
+反射炉, 原子炉, 反射, 原子

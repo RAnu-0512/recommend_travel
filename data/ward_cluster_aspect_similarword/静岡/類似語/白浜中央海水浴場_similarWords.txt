@@ -1,0 +1,23 @@
+--------------------similar_words:白浜中央海水浴場--------------------
+top3 entities near to cluster0>>
+時間, 美しい, 透明
+top3 entities near to cluster1>>
+子供, 家族, 子ども
+top3 entities near to cluster3>>
+ビーチ, 海水浴, 砂浜
+top3 entities near to cluster4>>
+水色, 青, 黄色
+top3 entities near to cluster5>>
+秋, 夏, 春先
+top3 entities near to cluster8>>
+海水浴場, 駐車場, 海水浴, 駐車
+top3 entities near to cluster10>>
+家族連れ, 家族, つれ
+top3 entities near to cluster11>>
+道路沿い, 道路, 国道
+top3 entities near to cluster12>>
+岩波, 岩石, 岩
+top3 entities near to cluster17>>
+砂浜, 海岸, 海
+top3 entities near to cluster19>>
+泳ぎ, 泳ぐ, 遊泳

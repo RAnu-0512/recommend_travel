@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大手門・番所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+番所, 大手門 番所
+cluster1:(2)
+雨, 天候
+cluster2:(3)
+調和, 楽し, 迫力
+cluster3:(2)
+訪問, 見学ポイント
+cluster4:(2)
+存在, もの
+cluster5:(4)
+現在地, 色とりどり, 入り口, 雰囲気
+cluster6:(2)
+大手門, 天守閣
+cluster7:(1)
+建物
+cluster8:(5)
+前回, 周辺, 奥, 南, 近く
+cluster9:(1)
+直線
+cluster10:(1)
+徒歩
+cluster11:(7)
+門, 板ひさし, 逆川, 白壁, 楼門, シャチ瓦, 櫓門
+cluster12:(3)
+百合, 川沿い, 江戸末期
+cluster13:(1)
+疲労困憊
+cluster14:(10)
+木造日本瓦葺き入母屋造, 三光稲荷, 大手門番所, 掛川駅, 掛川城大手門, 掛川宿, 掛川城, 掛川市, 楼門造り櫓門, 三光稲荷大明神
+
+howmany entities : 46
+howmany clusters : 15
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 6
+deleted 14entities.

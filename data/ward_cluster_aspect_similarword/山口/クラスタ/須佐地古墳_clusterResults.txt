@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須佐地古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+JR, ところ, 徒歩, 山陰線
+cluster1:(2)
+石室, 妻石
+cluster2:(1)
+山陰本線江崎駅
+cluster3:(2)
+竪穴式, 須佐地古墳
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

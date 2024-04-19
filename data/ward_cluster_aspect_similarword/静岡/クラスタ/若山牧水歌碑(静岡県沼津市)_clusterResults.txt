@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若山牧水歌碑(静岡県沼津市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+牧水歌碑, 若山牧水歌碑
+cluster1:(2)
+牧水, 若山牧水
+cluster2:(21)
+歌人, 沼津, 歌, 千本浜原, 教科書, 岡山県, 夫婦歌碑, 一家, 景観, 千本浜, 富士山, 松原, 裾野, 歌碑, 名前, 中, 石碑, 文字, 地, 石, 他
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 1
+deleted 4entities.

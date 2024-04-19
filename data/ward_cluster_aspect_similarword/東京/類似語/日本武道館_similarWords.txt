@@ -1,0 +1,53 @@
+--------------------similar_words:日本武道館--------------------
+top3 entities near to cluster0>>
+柔道, 剣道, 武道
+top3 entities near to cluster1>>
+リップ, タイムス, スター
+top3 entities near to cluster2>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster3>>
+コンサート, ライブ, アーティスト
+top3 entities near to cluster4>>
+九段下, 日の丸, 市ヶ谷
+top3 entities near to cluster5>>
+玉ねぎ, たまねぎ, 玉葱
+top3 entities near to cluster6>>
+イメージ, フレーズ, シンボル
+top3 entities near to cluster7>>
+最寄り駅, アクセス, 最寄り
+top3 entities near to cluster8>>
+タクシー, コンビニ, コンビニエンスストア
+top3 entities near to cluster9>>
+入り口, 入口, 出入り口
+top3 entities near to cluster10>>
+スタンド, エアコン, フロア
+top3 entities near to cluster11>>
+オススメ, アットホーム, おすすめ
+top3 entities near to cluster13>>
+スーツケース, コインロッカー, スピーカー
+top3 entities near to cluster14>>
+レストラン, カレーライス, ランチ
+top3 entities near to cluster15>>
+キャリー, キャリーバッグ, キャリーバック
+top3 entities near to cluster16>>
+コンサート, ライブ, 武道館
+top3 entities near to cluster17>>
+最寄駅, 最寄り駅, 徒歩
+top3 entities near to cluster18>>
+某, 都, 都内
+top3 entities near to cluster20>>
+開催, 実施, 利用
+top3 entities near to cluster22>>
+コト, ココ, トコ
+top3 entities near to cluster26>>
+憧れ, 余裕, 迫力
+top3 entities near to cluster28>>
+公園, 遊歩道, 階段
+top3 entities near to cluster29>>
+会場, コンサート, ライブ
+top3 entities near to cluster30>>
+音楽, 音響, 照明
+top3 entities near to cluster31>>
+施設, 駐車, 設備
+top3 entities near to cluster32>>
+席, 座席, 通路

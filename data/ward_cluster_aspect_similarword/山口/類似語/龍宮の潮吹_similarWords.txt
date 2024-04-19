@@ -1,0 +1,59 @@
+--------------------similar_words:龍宮の潮吹--------------------
+top3 entities near to cluster0>>
+バス, 名所, 周遊
+top3 entities near to cluster1>>
+目的地, 遊園地, 目的, 遊園
+top3 entities near to cluster2>>
+神社, 鳥居, 境内
+top3 entities near to cluster3>>
+荒れ, 荒れる, 模様
+top3 entities near to cluster4>>
+しぶき, 水しぶき, 潮吹き
+top3 entities near to cluster5>>
+カメラ, ビデオカメラ, バッグ
+top3 entities near to cluster6>>
+気持ち, 雰囲気, 格好
+top3 entities near to cluster7>>
+道のり, 道程, 険しい
+top3 entities near to cluster8>>
+きつね, キツネ, ぎらさん
+top3 entities near to cluster9>>
+海沿い, テラス, 海辺
+top3 entities near to cluster10>>
+行き場, やり場, 逃げ場
+top3 entities near to cluster11>>
+玄武岩, 花崗岩, 石灰岩
+top3 entities near to cluster13>>
+国内, 海外, 歴史
+top3 entities near to cluster16>>
+近年, 定番, 話題
+top3 entities near to cluster17>>
+上部, 下部, 上端
+top3 entities near to cluster19>>
+天気, 強風, 足場
+top3 entities near to cluster21>>
+鳥居, 稲荷, 坂
+top3 entities near to cluster22>>
+夕陽, 太陽, 夕日
+top3 entities near to cluster23>>
+青, 赤, 緑
+top3 entities near to cluster24>>
+海波, 海, 潮
+top3 entities near to cluster25>>
+駐車場, 駐車, 展望
+top3 entities near to cluster26>>
+景色, 景観, 絶景
+top3 entities near to cluster27>>
+道路, 県道
+top3 entities near to cluster28>>
+バス車, バス, タクシー
+top3 entities near to cluster29>>
+旅, 散策, 周遊
+top3 entities near to cluster30>>
+岩場, 岩, 崖
+top3 entities near to cluster31>>
+海蝕, 地形, 波蝕
+top3 entities near to cluster32>>
+海岸線, 海岸沿い, 海岸
+top3 entities near to cluster33>>
+神社, 稲荷, 宮

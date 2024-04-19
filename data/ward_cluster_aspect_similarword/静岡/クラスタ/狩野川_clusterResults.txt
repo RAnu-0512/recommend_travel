@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狩野川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+釣り, 海釣り, サビキ釣り, 釣り人
+cluster1:(3)
+鮎釣り, アユ釣り, 渓流釣り
+cluster2:(18)
+北, 伊豆長岡, 水, 川, こと, 友釣り, 狩野川, 端, 修善寺, 駿河湾, 感じ, 天城山, 中伊豆, 向こう, 中心, 山, 方, 伊豆半島
+cluster3:(3)
+河川, 鮎, 清流
+cluster4:(4)
+花火, 景色, 風景, 山々
+cluster5:(10)
+静岡県, 伊豆市, 沼津, 温泉街, 川沿い, 大仁駅, 海駿河湾, 観光地, 千歳橋, 伊豆長岡駅
+
+howmany entities : 42
+howmany clusters : 6
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 6
+deleted 0entities.

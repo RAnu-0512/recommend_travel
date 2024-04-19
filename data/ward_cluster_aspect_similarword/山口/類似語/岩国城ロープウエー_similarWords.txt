@@ -1,0 +1,33 @@
+--------------------similar_words:岩国城ロープウエー--------------------
+top3 entities near to cluster2>>
+時代, 詰, 城
+top3 entities near to cluster3>>
+景色, 山頂, 絶景
+top3 entities near to cluster5>>
+乗り場, 乗場, バスターミナル
+top3 entities near to cluster7>>
+ロープウェー, ロープウエー, ロープーウェイ
+top3 entities near to cluster8>>
+乗り物, 乗物, 飛行機
+top3 entities near to cluster9>>
+街並み, 城下町, 町並み
+top3 entities near to cluster10>>
+訪問, 利用, 移動
+top3 entities near to cluster12>>
+子供, 子ども, 大人
+top3 entities near to cluster13>>
+料金, 値段, 運賃
+top3 entities near to cluster14>>
+往復, 間隔, 距離
+top3 entities near to cluster15>>
+連休, 天気, 週末
+top3 entities near to cluster16>>
+自信, 余裕, 余力
+top3 entities near to cluster22>>
+駅, 駐車, 山頂
+top3 entities near to cluster23>>
+時間, 徒歩
+top3 entities near to cluster24>>
+片道, 往復, 乗り継ぎ
+top3 entities near to cluster25>>
+ウェイ, ロープ, ゲート

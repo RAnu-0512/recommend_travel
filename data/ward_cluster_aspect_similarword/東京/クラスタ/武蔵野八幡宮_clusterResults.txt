@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵野八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+参拝者, 参拝客, 勝利祈願
+cluster1:(6)
+吉祥寺駅, JR吉祥寺駅, 吉祥寺ウド, 三鷹・吉祥寺, 駅, 徒歩
+cluster2:(5)
+態度, 怒り, 感情, 姿勢, 利益
+cluster3:(21)
+周囲, パワースポット, ひとつ, 人, 他, 御朱印, どこか, 気, 思い, 彼, 仕事, 趣, 方, 歴史, こと, 雰囲気, パワー, クチコミ, 時代, 感覚, 経験
+cluster4:(6)
+神社, 神主, 祈祷, 神仏, 境内, 鎮守
+cluster5:(6)
+吉祥寺, 武蔵野, 吉祥寺通り, 奈良, 武蔵野七福神, 武蔵野八幡宮
+cluster6:(2)
+北側, 敷地
+cluster7:(2)
+場所, 市
+cluster8:(1)
+道路
+cluster9:(1)
+地名
+cluster10:(4)
+祭り, 緑, 紅葉, 出店
+
+howmany entities : 57
+howmany clusters : 11
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 11
+deleted 0entities.

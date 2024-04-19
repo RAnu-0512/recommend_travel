@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊洲PIT チームスマイル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+場所, アニメイベント, ステージ, ライブ, ロッカー, キャパシティ, トイレ, 暇つぶし, 会場, 地下鉄, ライブハウス
+cluster1:(2)
+余裕, 時間
+cluster2:(2)
+周り, 外
+cluster3:(1)
+背
+cluster4:(2)
+便, 観光スポット
+cluster5:(2)
+駐車場, アニメ声優ユニットライブ
+cluster6:(7)
+豊洲駅, 地下鉄豊洲駅, 新豊洲駅, 都営バス, ゆりかもめ 交通, 豊洲PIT, 豊洲
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

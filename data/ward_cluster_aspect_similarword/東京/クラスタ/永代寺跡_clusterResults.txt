@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永代寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+深川不動尊, 深川公園, 永代寺
+cluster1:(3)
+江戸, 江戸時代, 明治
+cluster2:(3)
+とお寺, 神仏, 別当
+cluster3:(12)
+門前, 正面, 手前, 石碑, 場所, ところ, 門前仲町, 碑, 不動堂, 富岡八幡宮, 前, 新興
+cluster4:(1)
+野球場
+cluster5:(1)
+右奥
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

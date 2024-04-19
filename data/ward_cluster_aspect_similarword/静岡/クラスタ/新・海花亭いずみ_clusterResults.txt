@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新・海花亭いずみ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+部屋, 風呂, 食事
+cluster1:(3)
+流石海沿い, 露天風呂, 駿河湾
+cluster2:(1)
+刺身
+cluster3:(1)
+土肥
+cluster4:(1)
+舟盛
+cluster5:(1)
+静かな温泉地
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 4entities.

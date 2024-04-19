@@ -1,0 +1,21 @@
+--------------------similar_words:足柄サービスエリア(上り線)--------------------
+top3 entities near to cluster2>>
+土産, おみやげ, 土産物
+top3 entities near to cluster6>>
+施設, 宿泊, 温泉
+top3 entities near to cluster7>>
+入浴, 食事, 風呂
+top3 entities near to cluster10>>
+マクド, スタバ, 崎陽軒
+top3 entities near to cluster11>>
+土産物, サウナ, ホテル
+top3 entities near to cluster12>>
+コンビニ, おでん, ローソン
+top3 entities near to cluster14>>
+休憩, 一休み
+top3 entities near to cluster15>>
+エリア
+top3 entities near to cluster16>>
+販売, 開始, 購入
+top3 entities near to cluster18>>
+肉, 鰻, 海鮮

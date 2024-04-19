@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ有楽町線 麹町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+麹町駅, 東京メトロ有楽町線, 半蔵門線・半蔵門駅
+cluster1:(4)
+観光, 路線, ビジネス街, 通勤
+cluster2:(2)
+利用, 案内
+cluster3:(6)
+アジャンタ, 日本テレビのスタジオ, 方, 雰囲気, 側, 大使館
+cluster4:(5)
+北側, 場所, 近く, 駅, 周辺
+cluster5:(1)
+老舗
+cluster6:(1)
+距離
+cluster7:(4)
+目的地, 移動途中, 滞在予定, 数分
+cluster8:(1)
+麹町・一番町・二番町
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SHIPS 渋谷店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+色使い, 淡い色
+cluster1:(11)
+メンズ, クルーネックセーター, 衝動, フラッグショップ, カジュアル, シップス, 流石, SHIPS, 渋谷店, ドレスアップ, レディース
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

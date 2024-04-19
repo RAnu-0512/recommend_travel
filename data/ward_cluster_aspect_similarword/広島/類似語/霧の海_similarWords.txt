@@ -1,0 +1,9 @@
+--------------------similar_words:霧の海--------------------
+top3 entities near to cluster0>>
+気温, 確率, 温度
+top3 entities near to cluster1>>
+景観, 風景, 景色
+top3 entities near to cluster3>>
+霧, 雲, 海
+top3 entities near to cluster4>>
+寒暖差, 寒暖, 温度差, 温度

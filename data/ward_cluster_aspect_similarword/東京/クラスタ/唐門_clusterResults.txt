@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:唐門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+唐門, 唐門跡
+cluster1:(2)
+説明板, 案内リーフレット
+cluster2:(2)
+門, 内庭
+cluster3:(2)
+橋, 滝
+cluster4:(3)
+彫刻, 極彩色, 土台
+cluster5:(1)
+小石川後楽園
+cluster6:(1)
+戦災
+cluster7:(1)
+建造物
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

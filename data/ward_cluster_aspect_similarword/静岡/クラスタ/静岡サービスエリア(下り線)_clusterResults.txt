@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡サービスエリア(下り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+小分け, ドッグラン, 土産物売り場, 駐車スペース, 仮眠, グルメ, 洋服, 清潔, フリーズマーケット, ところ, 人, フードコート, コインシャワー, おむつ替えシート, 感じ, サービスエリア, おでん, プラモデル, トイレ, 施設, 本線, サービス, 土産類, 流石, エリア
+cluster1:(6)
+静岡県, 静岡, 静岡マルシェ, 新東名高速, 高速, 東名
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 0entities.

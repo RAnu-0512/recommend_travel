@@ -1,0 +1,11 @@
+--------------------similar_words:芭蕉記念館--------------------
+top3 entities near to cluster0>>
+資料, 展示, 写真
+top3 entities near to cluster2>>
+芭蕉, 庵, 梵灯
+top3 entities near to cluster4>>
+細道, 芭蕉, 俳聖
+top3 entities near to cluster5>>
+芭蕉, 俳聖, 曾良
+top3 entities near to cluster6>>
+芭蕉, 館, 記念

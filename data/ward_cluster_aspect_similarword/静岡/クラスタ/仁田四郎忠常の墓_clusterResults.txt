@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仁田四郎忠常の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+仁田四郎, 仁田, 仁田橋, 仁田忠常, 仁田家
+cluster1:(2)
+墓, お墓
+cluster2:(3)
+武将, 源氏, 伊豆
+cluster3:(12)
+敷地, 大河ドラマ, 空間, 手, 源頼朝, 奥, 手前, 子孫, 民家, 場所, 方々, 伊豆仁田駅
+cluster4:(1)
+案内板
+cluster5:(2)
+弟五郎忠正, 邸宅跡であり空堀
+
+howmany entities : 25
+howmany clusters : 6
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 5entities.

@@ -1,0 +1,29 @@
+--------------------similar_words:酪農王国オラッチェ--------------------
+top3 entities near to cluster0>>
+飲み物, ランチ, ソフトクリーム
+top3 entities near to cluster2>>
+公園, 遊具, 道路
+top3 entities near to cluster3>>
+売店, 休憩, 席
+top3 entities near to cluster6>>
+料理店, 料理, 食事
+top3 entities near to cluster7>>
+子供, 息子, 母親
+top3 entities near to cluster9>>
+酪農, 牧場, 農場
+top3 entities near to cluster11>>
+牛乳, ミルク, ヨーグルト
+top3 entities near to cluster14>>
+野菜, 動物, ヤギ
+top3 entities near to cluster16>>
+体験, 試食
+top3 entities near to cluster17>>
+入場, 駐車, 入園
+top3 entities near to cluster18>>
+土産, おみやげ, 土産物
+top3 entities near to cluster19>>
+団体, お客, 外客
+top3 entities near to cluster20>>
+子供, 子ども, 娘
+top3 entities near to cluster21>>
+家族連れ, つれ, 家族

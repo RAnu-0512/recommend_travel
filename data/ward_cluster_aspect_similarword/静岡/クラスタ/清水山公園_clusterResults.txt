@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡, 静岡市, JR 静岡駅
+cluster1:(3)
+名所, 公園, 清水寺公園
+cluster2:(3)
+春, 夏, 桜
+cluster3:(7)
+祭り, 市街地, 子供, 運動, 場所, こども, 道
+cluster4:(1)
+砂場
+cluster5:(1)
+子供達
+cluster6:(3)
+駐車場, 複合遊具, 遊具
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 5
+deleted 2entities.

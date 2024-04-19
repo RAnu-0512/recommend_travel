@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊東家の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+山門, 石塔, 墓塔, 墓, 廃寺
+cluster1:(7)
+人, 雰囲気, スポット, 興味, 周囲, 東光寺, 畑
+cluster2:(3)
+歴代, 明治, 銘
+cluster3:(1)
+伊東
+cluster4:(1)
+江戸時代
+cluster5:(1)
+最誓寺
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 3entities.

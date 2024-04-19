@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:EST>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+渋谷, 渋谷駅
+cluster1:(2)
+飲食, 施設
+cluster2:(2)
+駅, ビル
+cluster3:(1)
+ボーリング場
+cluster4:(1)
+大型アミューズメントパーク
+cluster5:(12)
+気, カラオケ, ダーツ, 卓球, ボーリング, 都, 上, ゲームセンター, ビリヤード, 時間, ボウリング, ピン
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

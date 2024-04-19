@@ -1,0 +1,13 @@
+--------------------similar_words:間々下海岸--------------------
+top3 entities near to cluster0>>
+透明度, 透明, 絶景
+top3 entities near to cluster1>>
+写真, 景色, 風景
+top3 entities near to cluster2>>
+岩波, 岩石, 岩
+top3 entities near to cluster3>>
+海岸, 海水, 海
+top3 entities near to cluster4>>
+旅, 番組, 紀行
+top3 entities near to cluster5>>
+台風, 直撃, 大雨

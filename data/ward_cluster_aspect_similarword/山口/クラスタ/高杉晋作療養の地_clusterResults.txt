@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高杉晋作療養の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高杉東行療養之地, 高杉晋作療養
+cluster1:(3)
+厳島神社, 観光名所, 桜山神社
+cluster2:(15)
+療養生活, 下関駅, 住宅街, 一角, 肺結核, 徒歩, 場所, 途中, 地, 高台, 記録, ブロック塀, 療養, 歴史, 地図
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

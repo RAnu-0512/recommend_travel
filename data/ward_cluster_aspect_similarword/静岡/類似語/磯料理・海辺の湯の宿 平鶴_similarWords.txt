@@ -1,0 +1,15 @@
+--------------------similar_words:磯料理・海辺の湯の宿 平鶴--------------------
+top3 entities near to cluster1>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster2>>
+海波, 光波, 海, 光
+top3 entities near to cluster3>>
+夜景, 温泉, 岸壁
+top3 entities near to cluster5>>
+露天風呂, 内風呂, 浮湯
+top3 entities near to cluster6>>
+受付, 対応, 応対
+top3 entities near to cluster7>>
+時間, 昼間, 夕方
+top3 entities near to cluster11>>
+料理, 食事, 部屋

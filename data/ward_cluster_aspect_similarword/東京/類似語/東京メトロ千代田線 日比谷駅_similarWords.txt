@@ -1,0 +1,15 @@
+--------------------similar_words:東京メトロ千代田線 日比谷駅--------------------
+top3 entities near to cluster0>>
+駅, 地下鉄, 駅前
+top3 entities near to cluster1>>
+移動, 案内, 表示
+top3 entities near to cluster3>>
+余裕, 必要, 用意
+top3 entities near to cluster6>>
+乗り入れ, 三田線, 乗り換え
+top3 entities near to cluster7>>
+有楽町線, 三田線, 半蔵門線
+top3 entities near to cluster8>>
+地下道, 地下街, 通路
+top3 entities near to cluster11>>
+前述どおり, とおり, 前述

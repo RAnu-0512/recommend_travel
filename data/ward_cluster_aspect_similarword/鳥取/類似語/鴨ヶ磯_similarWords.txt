@@ -1,0 +1,13 @@
+--------------------similar_words:鴨ヶ磯--------------------
+top3 entities near to cluster0>>
+遊覧船, 欠航, 遊覧
+top3 entities near to cluster1>>
+景観, 景色, 眺望
+top3 entities near to cluster3>>
+海岸, 海, 崖
+top3 entities near to cluster4>>
+強風, 暴風
+top3 entities near to cluster6>>
+海岸線, 海岸, 砂浜
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏

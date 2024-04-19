@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京成電鉄町屋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+京成線, 千代田線
+cluster1:(5)
+路線, 駅, 荒川線, 京成電鉄, ホーム
+cluster2:(3)
+高架, 地上, 地下
+cluster3:(4)
+町屋駅, 都電, 千住, 東京メトロ
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

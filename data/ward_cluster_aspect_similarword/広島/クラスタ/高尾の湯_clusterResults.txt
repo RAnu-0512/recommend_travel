@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高尾の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+方, お湯, 気持ち, おろち号, 待ち時間, 温泉, 奥出雲, 送迎, ボランティアガイド
+cluster1:(3)
+三次, 落合, 落合駅
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

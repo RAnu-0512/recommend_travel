@@ -1,0 +1,13 @@
+--------------------similar_words:おいでませ山口館(山口県東京観光物産センター)--------------------
+top3 entities near to cluster0>>
+ビル街, ビル, 建物
+top3 entities near to cluster1>>
+丸善, ビル, 海文堂
+top3 entities near to cluster2>>
+駅, 駅前, 南口
+top3 entities near to cluster3>>
+名物, 地元, 各地
+top3 entities near to cluster4>>
+地酒
+top3 entities near to cluster5>>
+名産, 特産, 物産

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雑司が谷鬼子母神のイチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(32)
+大樹, 正面, 鬼子母神境内, 御神木, 樹齢, 鬼子母神, 左手, ケヤキ並木, 樹高, 左手前, 木, 紅葉, 本堂, 葉っぱ, 樹, 幹, 見応え, 子育てイチョウ, イチョウ, 雑司ヶ谷鬼子母神堂, 鬼子母神堂, 存在感, 敷地, 参道, 大きさ, 東側, 方, こと, 雰囲気, 境内, 左側, 大木
+cluster1:(2)
+東京都指定天然記念物, 幹周 8m
+
+howmany entities : 34
+howmany clusters : 2
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 2
+deleted 0entities.

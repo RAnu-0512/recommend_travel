@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥田元宋・小由女美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+奥田小由, 奥田元宋・小由女美術館, 奥田元宋
+cluster1:(14)
+広島県, 共鳴, 女, 画, 人形作家, 三次市, 立体, 平面, 人形, 美術館, 名, 日本, 芸術様式, 夫婦
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

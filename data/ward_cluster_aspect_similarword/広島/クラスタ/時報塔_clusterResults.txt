@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:時報塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島県, 志和, 東広島市
+cluster1:(5)
+タイム, 気持ち, 雰囲気, 中, 周り
+cluster2:(2)
+歴史, 風景
+cluster3:(1)
+建造物
+cluster4:(1)
+時報搭
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

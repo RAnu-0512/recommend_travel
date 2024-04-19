@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:接岨峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+接岨湖, 接岨峡温泉, 寸又峡温泉
+cluster1:(2)
+大井湖, 大井湖上駅
+cluster2:(34)
+すれ違い, すり, 雨, ハイキングコース, 左, スケール, Uターン, 注意喚起, 井川線, 地元, 入り口, 大井川, 看板, 入口, 残り不安, コース, 人, 草木, 笑, 気持ち, 奥, 感じ, 上, ヤマビル, ウォーキング, 色, スポット, 先, 人気, 井川湖, トイレ, コンクリート, 葉, 季節
+cluster3:(2)
+駐車場, 展望台
+cluster4:(2)
+観光パンフレット, 観光客
+cluster5:(9)
+温泉, 川, 湖面, 鉄橋, 峡谷, 景色, 橋, 対岸, 山々
+cluster6:(8)
+小道, 車, 落石, 轍, 迂回ルート, 方面, 旧道, 道
+cluster7:(4)
+駅, 鐡道井川線, 上駅, 秘境駅
+
+howmany entities : 64
+howmany clusters : 8
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 5
+deleted 6entities.

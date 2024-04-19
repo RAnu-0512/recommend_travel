@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スキーショップ ジロー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ショーウィンドウ, スキーショップ
+cluster1:(7)
+アロハシャツ, 買い替え, ヨーロッパ, サイズ, シーズン, スリッポン, もの
+cluster2:(1)
+価格
+cluster3:(1)
+憧れ
+cluster4:(1)
+足
+cluster5:(1)
+SKI SHOP JIRO
+cluster6:(1)
+創業
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

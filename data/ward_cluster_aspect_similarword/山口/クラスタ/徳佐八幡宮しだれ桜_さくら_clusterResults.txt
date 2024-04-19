@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:徳佐八幡宮しだれ桜_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+臨時駐車場, 駐車場
+cluster1:(2)
+徳佐駅, 徳佐八幡宮
+cluster2:(6)
+参道, 国道沿い, 境内, 鳥居, 神社, 参道脇
+cluster3:(9)
+花見, 開花, 名所, 満開, しだれ桜, 桜まつり, 枝, 桜, 並木
+cluster4:(2)
+方面, 出店
+cluster5:(15)
+風, ピンク色, 津和野, 一面, 場所, 価値, 緑, 雰囲気, 休日, 長門峡, トンネル, しだれ, 桜並木, 人, 看板
+cluster6:(1)
+大きさ
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 7
+deleted 0entities.

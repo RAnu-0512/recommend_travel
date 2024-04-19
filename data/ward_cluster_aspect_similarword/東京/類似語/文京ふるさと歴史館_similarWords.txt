@@ -1,0 +1,13 @@
+--------------------similar_words:文京ふるさと歴史館--------------------
+top3 entities near to cluster0>>
+資料, 展示, 映像
+top3 entities near to cluster1>>
+徒歩, 駅分, 駅
+top3 entities near to cluster2>>
+明治, 大正, 平成
+top3 entities near to cluster3>>
+一葉, 花圃
+top3 entities near to cluster4>>
+文化, 文学, 文人
+top3 entities near to cluster5>>
+時代, 歴史, 縄文

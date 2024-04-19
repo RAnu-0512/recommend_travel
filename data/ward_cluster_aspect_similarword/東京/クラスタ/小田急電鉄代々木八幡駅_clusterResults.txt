@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急電鉄代々木八幡駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+千代田線, 江戸線, 小田急線
+cluster1:(3)
+下りホーム, 上りホーム, ホームドア
+cluster2:(2)
+渋谷, 東京メトロ
+cluster3:(4)
+ホーム, 工事, 見学, 代々木公園
+cluster4:(1)
+登戸研究所
+cluster5:(1)
+守衛所
+cluster6:(2)
+街歩き, 商店街
+cluster7:(2)
+八幡駅, 代々木八幡駅
+cluster8:(5)
+代々木公園駅, 駅, 徒歩, 方面, 代々木駅
+cluster9:(3)
+生田駅, 小田急参宮橋駅, 原宿駅
+cluster10:(1)
+向ヶ丘遊園駅
+cluster11:(1)
+明冶大学生田キャンパス
+cluster12:(1)
+明治大学平和教育登戸研究資料館
+
+howmany entities : 29
+howmany clusters : 13
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 13
+deleted 0entities.

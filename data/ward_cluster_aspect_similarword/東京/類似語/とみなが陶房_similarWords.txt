@@ -1,0 +1,33 @@
+--------------------similar_words:とみなが陶房--------------------
+top3 entities near to cluster0>>
+収納, 梱包
+top3 entities near to cluster2>>
+コップ, カップ, コーヒー
+top3 entities near to cluster3>>
+雰囲気, 作り方, 気持ち
+top3 entities near to cluster4>>
+子供, 子ども, 小学生
+top3 entities near to cluster5>>
+景色, 自然
+top3 entities near to cluster6>>
+息子, 父親, 母親
+top3 entities near to cluster8>>
+洗, 濯っ
+top3 entities near to cluster9>>
+くろ, ずる, くろい
+top3 entities near to cluster10>>
+蕎麦, 駅
+top3 entities near to cluster11>>
+和食器, 応量器, 和食, 応量
+top3 entities near to cluster12>>
+花瓶, 陶器, 花器
+top3 entities near to cluster13>>
+食器, 皿, 小皿
+top3 entities near to cluster14>>
+食卓, 表札, 玄関
+top3 entities near to cluster15>>
+釉薬, うわ薬, 上薬
+top3 entities near to cluster16>>
+椀, 吸い物, 茶碗
+top3 entities near to cluster17>>
+陶芸, 陶, 陶器

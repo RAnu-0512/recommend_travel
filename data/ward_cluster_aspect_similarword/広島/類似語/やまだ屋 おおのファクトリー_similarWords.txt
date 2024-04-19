@@ -1,0 +1,15 @@
+--------------------similar_words:やまだ屋 おおのファクトリー--------------------
+top3 entities near to cluster1>>
+風味, 味わい
+top3 entities near to cluster2>>
+茶室, 茶, 茶器
+top3 entities near to cluster3>>
+建物, 工場, 生地
+top3 entities near to cluster4>>
+店員, 店内
+top3 entities near to cluster5>>
+菓子, 土産, お菓子
+top3 entities near to cluster6>>
+ガラス越し, ガラス, 向こう
+top3 entities near to cluster7>>
+饅頭屋, 工房, 饅頭

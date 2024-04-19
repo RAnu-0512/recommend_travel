@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸の内線新宿三丁目駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+通路, 地下
+cluster1:(2)
+店舗, 駅
+cluster2:(6)
+ビックロ, 地下道, 地下街, 伊勢丹, マルイ, 乗り換え
+cluster3:(2)
+間, 他
+cluster4:(2)
+丸の内線, 新宿線
+cluster5:(2)
+新宿駅, 新宿
+cluster6:(2)
+東京メトロ丸ノ内線, 都営
+cluster7:(1)
+新宿御苑
+cluster8:(2)
+副都心線, 新宿三丁目駅
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

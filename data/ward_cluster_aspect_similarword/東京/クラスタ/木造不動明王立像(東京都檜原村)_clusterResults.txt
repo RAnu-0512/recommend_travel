@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木造不動明王立像(東京都檜原村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+檜原村, 五社神社
+cluster1:(14)
+不動明王, 人, 仏像, 中, 興味, 神社, 古さ, 価値, 不動明王像, ハイキング感覚, 迫力, 美しさ, 木像, もの
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

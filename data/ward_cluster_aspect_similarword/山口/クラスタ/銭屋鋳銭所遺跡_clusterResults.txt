@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銭屋鋳銭所遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+所, 全国
+cluster1:(1)
+銭屋
+cluster2:(1)
+江戸時代
+cluster3:(1)
+美祢市
+cluster4:(1)
+寛永通宝
+cluster5:(1)
+鋳銭所跡
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

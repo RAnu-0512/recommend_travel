@@ -1,0 +1,19 @@
+--------------------similar_words:築地魚河岸--------------------
+top3 entities near to cluster0>>
+場外, 市場, 魚市場
+top3 entities near to cluster1>>
+場外, 市場, 店舗
+top3 entities near to cluster2>>
+案内, 撮影, 禁止
+top3 entities near to cluster3>>
+区外, 区, 中央
+top3 entities near to cluster4>>
+海鮮, 刺身
+top3 entities near to cluster5>>
+フード, コート
+top3 entities near to cluster6>>
+休業, 燃焼, 休止
+top3 entities near to cluster7>>
+店舗, 店内
+top3 entities near to cluster8>>
+鉄火, 丼, 海鮮

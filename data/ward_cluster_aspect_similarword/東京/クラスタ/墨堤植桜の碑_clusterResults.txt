@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:墨堤植桜の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+桜, 花見, 桜まつり
+cluster1:(7)
+歴史, 店, 露店, 場所, 中止, ライトアップ, 徒歩
+cluster2:(2)
+台東区, 自治会
+cluster3:(2)
+墨堤, 徳川吉宗
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

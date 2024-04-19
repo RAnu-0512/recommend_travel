@@ -1,0 +1,13 @@
+--------------------similar_words:山口県立美術館--------------------
+top3 entities near to cluster0>>
+立像, 坐像, 重文
+top3 entities near to cluster2>>
+文化, 中心, 施設
+top3 entities near to cluster3>>
+美術, 絵画, 作品
+top3 entities near to cluster4>>
+展示, 展覧
+top3 entities near to cluster5>>
+運慶, 快慶
+top3 entities near to cluster7>>
+泰男, 等益, 等顔

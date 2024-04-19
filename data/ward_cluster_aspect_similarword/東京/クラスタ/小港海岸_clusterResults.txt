@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小港海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+プライベートビーチ, ビーチ, 海水浴
+cluster1:(7)
+モデル, スノーケリング, コラボ, 気持ち, 季節はずれ, プランクトン, ^^)/
+cluster2:(4)
+バス停, シャワー, 遊歩道, トイレ
+cluster3:(1)
+中山峠
+cluster4:(1)
+バス
+cluster5:(3)
+他国, 日本, 世界
+cluster6:(3)
+人, 知人, 家族
+cluster7:(3)
+間, 近く, 時間
+cluster8:(3)
+場所, 方, こと
+cluster9:(1)
+決定
+cluster10:(1)
+徒歩
+cluster11:(2)
+中心部, お勧め
+cluster12:(18)
+山, 浸食, 島, 青さ, 景色, ガメ, 青海, 海風, 絶景, 星空, 川, 天気, 波, 海, 珊瑚, 海面, 気温, 空
+cluster13:(6)
+高低差, 駐車場, 終着点, 世界遺産, 入場規制, 産卵地
+cluster14:(2)
+感動小港海岸, 小港海岸
+cluster15:(3)
+コピペ海岸, コペペ海岸, 海岸
+cluster16:(2)
+砂浜, 浜辺
+cluster17:(1)
+海岸沿い
+cluster18:(3)
+小笠原村父島, 村営バス, 父島
+
+howmany entities : 67
+howmany clusters : 19
+howmany entities (more than1entities) : 67
+howmany clusters (more than1entities) : 19
+deleted 0entities.

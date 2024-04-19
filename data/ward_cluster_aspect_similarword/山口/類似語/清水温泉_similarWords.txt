@@ -1,0 +1,13 @@
+--------------------similar_words:清水温泉--------------------
+top3 entities near to cluster1>>
+家族, 妻, 夫婦
+top3 entities near to cluster2>>
+サウナ, タオル, アルク
+top3 entities near to cluster3>>
+試合, 引き分け, 対戦
+top3 entities near to cluster4>>
+目印, 建物, クセ
+top3 entities near to cluster5>>
+地元, 地元民, お客
+top3 entities near to cluster6>>
+温泉, 銭湯, 湯船

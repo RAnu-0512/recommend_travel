@@ -1,0 +1,23 @@
+--------------------similar_words:すみだトリフォニーホール--------------------
+top3 entities near to cluster0>>
+駅, 区, 区民
+top3 entities near to cluster1>>
+コンサート, クラシック, クラッシック
+top3 entities near to cluster2>>
+クラシック, クラッシック, アマチュア
+top3 entities near to cluster3>>
+コンサート, オーケストラ, コンサートホール
+top3 entities near to cluster4>>
+イベント, クリスマス, ハロウィン
+top3 entities near to cluster5>>
+ステージ, ラスボスステージ, フェスステージ
+top3 entities near to cluster6>>
+コンビニ, アクセス, コンビニエンスストア
+top3 entities near to cluster7>>
+ホテル, 雰囲気, レストラン
+top3 entities near to cluster8>>
+こども, 子ども, 子供
+top3 entities near to cluster11>>
+響き音, 耳音, 響き, 耳
+top3 entities near to cluster13>>
+音楽, 演奏, コンサート

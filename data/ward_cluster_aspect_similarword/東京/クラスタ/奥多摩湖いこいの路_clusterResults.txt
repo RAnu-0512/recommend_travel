@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥多摩湖いこいの路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+景色, 湖, 街灯, ふるさと村, 小河内神社, 紅葉シーズン
+cluster1:(3)
+開放時期, 冬季, 閉鎖
+cluster2:(2)
+途中, 日
+cluster3:(2)
+中心, 情報
+cluster4:(5)
+場所, 場合, 時期, 方, こと
+cluster5:(15)
+山陰, ゴール, 山, バス停, ストック, みち, 足元, 気持ち, 弁当, トイレ, ヘッドライト, 奥多摩湖, 休憩, 最寄り, スケジュール
+cluster6:(1)
+みやまばし-
+cluster7:(11)
+周遊道路, 散策路, 通称ドラム缶橋, 奥多摩周遊道路, 浮橋, 麦山の浮橋, 橋, 湖畔の小路, 麦山, 深山橋, 浮き橋
+
+howmany entities : 45
+howmany clusters : 8
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 8
+deleted 0entities.

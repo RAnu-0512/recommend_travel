@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蛭ヶ島公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+蛭ヶ島茶屋, 蛭ヶ島, 蛭ケ島茶屋, 現蛭ヶ島公園
+cluster1:(2)
+根拠, 印象
+cluster2:(4)
+源頼朝, 雰囲気, トイレ, 方
+cluster3:(2)
+時間, 場所
+cluster4:(1)
+地
+cluster5:(3)
+像, 公園, 石碑
+cluster6:(6)
+杏, 茶屋, 政子, 梛, 伊豆, 成願餅
+cluster7:(1)
+駐車場
+cluster8:(1)
+流刑地
+cluster9:(2)
+頼朝公と政子, 城池親水公園
+
+howmany entities : 26
+howmany clusters : 10
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 9entities.

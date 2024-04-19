@@ -1,0 +1,21 @@
+--------------------similar_words:安芸灘大橋--------------------
+top3 entities near to cluster1>>
+通行料, 通行, 料金
+top3 entities near to cluster2>>
+島船, 島々, 島
+top3 entities near to cluster3>>
+自転車, サイクリング, バイク
+top3 entities near to cluster5>>
+予定, 日, 月
+top3 entities near to cluster6>>
+地区, エリア, 一帯
+top3 entities near to cluster7>>
+話, 友達, 友人
+top3 entities near to cluster9>>
+駅車, 徒歩, 駅
+top3 entities near to cluster10>>
+風景, 景色, 生活
+top3 entities near to cluster11>>
+緑, 青, 海
+top3 entities near to cluster12>>
+出かけ, 出掛け

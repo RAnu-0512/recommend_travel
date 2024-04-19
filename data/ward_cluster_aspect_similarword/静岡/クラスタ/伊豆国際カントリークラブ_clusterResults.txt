@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆国際カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴルフ場, 距離
+cluster1:(3)
+こと, 感じ, 者
+cluster2:(9)
+支配人, 緑, グリーン, インター, スタッフ, 富士山, スタート, ポール, コース
+cluster3:(1)
+午後スタート
+cluster4:(1)
+伊豆
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 4entities.

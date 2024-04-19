@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鞆城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+城, 鞆, 本丸跡, 海城, 福山市, 鞆城, 海, 石垣, 浦, 地蔵院, 丸, 城跡
+cluster1:(4)
+病院, 広場, 道路, 公園
+cluster2:(3)
+前, こと, 場所
+cluster3:(2)
+町, 街
+cluster4:(1)
+南西
+cluster5:(4)
+建つ高台, 高台, 建物沿い, 海岸線
+cluster6:(1)
+宮城道雄
+cluster7:(4)
+鞆の浦歴史民俗資料館, 歴史民俗資料館, 資料館, 民俗資料館
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 8
+deleted 0entities.

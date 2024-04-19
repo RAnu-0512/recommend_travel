@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あらさわふる里公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雲空, 河津桜
+cluster1:(3)
+桜, 花見, 満開
+cluster2:(2)
+野菜, 大根
+cluster3:(3)
+種類, 値打ち, 季節
+cluster4:(2)
+公園, 山
+cluster5:(1)
+木
+cluster6:(1)
+天気
+cluster7:(1)
+初春
+cluster8:(1)
+芝生
+cluster9:(1)
+直売所
+
+howmany entities : 17
+howmany clusters : 10
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 11entities.

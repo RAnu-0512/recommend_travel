@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆大仁カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+気, グリーン, コンディション, 眺望, 難しさ, 富士山, ゴルフ, ゴルフ場, 景色, コース, フェアウエイ, アップダウン
+cluster1:(5)
+静岡県, 伊豆の国市, 南伊豆の名コースカントリークラブ, 富士コース, 伊豆大仁カントリークラブ
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

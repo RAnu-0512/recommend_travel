@@ -1,0 +1,9 @@
+--------------------similar_words:佐伯総合スポーツ公園--------------------
+top3 entities near to cluster0>>
+山麓, 敷地, 麓
+top3 entities near to cluster1>>
+テニス, 野球, バドミントン
+top3 entities near to cluster2>>
+体育館, スポーツ, 球技
+top3 entities near to cluster3>>
+競技場, 駐車場, 競技, 駐車

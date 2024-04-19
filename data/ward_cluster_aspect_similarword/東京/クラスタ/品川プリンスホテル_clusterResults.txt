@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:品川プリンスホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+キクラゲ, スタッフ, メイン, シェフ, ジェラート, スプーン, ケーキ, スイーツ, メニュー, コスパ, しめじ, 味つけ, コスト, ハプナ, ポイント, デザート, ビュッフェ, 見た目, システム
+cluster1:(2)
+天下, 某ホテル
+cluster2:(12)
+割り, もの, 内容, 値段, 人, 感じ, 思い, 紙, モノ, 会社, 中, 方
+cluster3:(4)
+団体, 客, 席, 会場
+cluster4:(2)
+態度, 声
+cluster5:(8)
+鶏肉, ローストビーフ, シーフードグリーンカレー, 豚肉, ランチビュッフェ, ご飯, 牛肉, 料理
+cluster6:(2)
+海老あたり, イカ
+cluster7:(2)
+タレ, 汁
+cluster8:(1)
+品プリ
+cluster9:(10)
+予約時間, 何種類, 従業員, 種類, 満足度, 宴会場, 効率, 希望数, 効率性, 品数
+
+howmany entities : 62
+howmany clusters : 10
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 10
+deleted 0entities.

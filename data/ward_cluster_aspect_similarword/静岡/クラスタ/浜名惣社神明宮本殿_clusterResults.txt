@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜名惣社神明宮本殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜名惣社, 浜名惣
+cluster1:(23)
+駐車場, 拝殿, 裏, 伊勢神宮, 文化財, 禁止, 機織り, 造り, 階段, 周囲, 神社, 境内, 本殿, 正面, 屋根, 上, 階段下, 社, 建物, 場所, 竣工, 石, 駐車
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 1
+deleted 2entities.

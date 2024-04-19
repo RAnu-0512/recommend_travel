@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:因幡国庁跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大伴家持, 近く
+cluster1:(1)
+場所
+cluster2:(1)
+遺構
+cluster3:(1)
+歌碑
+cluster4:(1)
+駐車場
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

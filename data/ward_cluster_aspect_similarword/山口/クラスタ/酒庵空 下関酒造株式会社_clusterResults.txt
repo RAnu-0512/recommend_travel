@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:酒庵空 下関酒造株式会社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+カフェ, 催し, 直売, 奈良, 酒, 試飲, 日本, 限定酒, きき酒, 電車, 方, 漬け, 近く, 初詣
+cluster1:(3)
+酒造, 下関酒造, 住吉神社
+cluster2:(3)
+山口県, 下関市, 博多阪急
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

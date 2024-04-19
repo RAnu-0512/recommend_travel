@@ -1,0 +1,15 @@
+--------------------similar_words:亀屋--------------------
+top3 entities near to cluster0>>
+餅, 川, 菓子
+top3 entities near to cluster1>>
+川, 川沿い, 餅
+top3 entities near to cluster2>>
+甘み, 風味
+top3 entities near to cluster3>>
+美味しい, 定番, 名物
+top3 entities near to cluster4>>
+菓子屋, 和菓子屋, 菓子, 和菓子
+top3 entities near to cluster5>>
+菓子類, 菓子, お菓子
+top3 entities near to cluster6>>
+饅頭, 餅, 和菓子

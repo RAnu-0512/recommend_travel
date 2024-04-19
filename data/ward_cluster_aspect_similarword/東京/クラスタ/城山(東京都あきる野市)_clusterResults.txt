@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山(東京都あきる野市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+勾配, 難所, 標高
+cluster1:(2)
+山頂, 登山
+cluster2:(2)
+山, 城山
+cluster3:(6)
+途中, 初心者, 人, 事, ルート, 社
+cluster4:(2)
+天気, 眺め
+cluster5:(1)
+木バス停
+cluster6:(1)
+登山口
+cluster7:(6)
+城山荘公民館, 神明, 厳寺, 神明社ルート山頂, 神明社, 超岩壁
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

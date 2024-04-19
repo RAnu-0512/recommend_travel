@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さかねあつこオリジナルニット手編み教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+生徒, 先生, 教室
+cluster1:(2)
+場所, 時間
+cluster2:(4)
+作品, 形, 物, もの
+cluster3:(1)
+質問
+cluster4:(10)
+小学生, 初心者, 娘, 編み物, 家, かぎ針, コースター, 道, 基礎, 雰囲気
+cluster5:(1)
+毛糸
+cluster6:(2)
+持ち方, 初体験
+cluster7:(1)
+細編み
+cluster8:(1)
+回数券
+
+howmany entities : 25
+howmany clusters : 9
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 9
+deleted 0entities.

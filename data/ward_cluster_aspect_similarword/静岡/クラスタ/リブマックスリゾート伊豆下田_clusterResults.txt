@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リブマックスリゾート伊豆下田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+徒歩圏, 別荘地, 下田, 徒歩, 路線バス, あり下田駅
+cluster1:(2)
+共同浴場, 浴場
+cluster2:(18)
+フロント, ビーチ, ホテル, バス停, バスローブ, プール, ジャグジー, ところ, 人, 時間, 露天風呂, 米, 感じ, チェックイン, 関係, 予想, ラッシュガード, バイキング
+cluster3:(5)
+坂道, 水着, 氷, 海, 砂浜
+cluster4:(5)
+海水浴場, 部屋, リゾート気分, 風呂, 宿泊
+cluster5:(6)
+夕食バイキング, 客室ベランダ, 客室, 品数, フロント階テラス, 朝食バイキング
+cluster6:(1)
+フロア階 洋室ツインプレミアム露天風呂
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 5
+deleted 3entities.

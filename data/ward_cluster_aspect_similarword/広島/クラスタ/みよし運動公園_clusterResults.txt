@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みよし運動公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+サッカー場, 野球場, 陸上競技場
+cluster1:(4)
+王国, 弁当, 公園, 遊具
+cluster2:(14)
+子, そば, 滑り台, 子供, 季節, スポーツ, みよし運動公園, 大人, レジャーシート, 小学生, 年齢, みよしあそび, 春, 運動公園
+cluster3:(1)
+簡易テント
+cluster4:(4)
+三次市, 子供連れ, 三次ワイナリー, 家族みんなで楽しめる公園
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 5
+deleted 0entities.

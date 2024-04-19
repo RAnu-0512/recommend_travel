@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田子の浦漁港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+生シラス, 釜揚げシラス, 生しらす丼, シラス丼, 解体ショー, 生シラス丼, 生しらす
+cluster1:(3)
+人, 私達, 人たち
+cluster2:(8)
+車, 客, 景観, 駅, 営業, 店, 徒歩, 食堂
+cluster3:(2)
+所, 場所
+cluster4:(3)
+時期, こと, 違い
+cluster5:(1)
+試し
+cluster6:(17)
+しらす, 名物, パルプ, 地元, 家族, 毘沙門天, シラス, 富士山, 駿河湾, サイト, 海, 万葉集, 近く, 西, 港, 他県, 間
+cluster7:(1)
+海風
+cluster8:(17)
+静岡県, 徒歩圏, 富士, 田子, 東田子の浦駅, 漁港, 観光地, 漁協, 浦港方面, 漁船, 漁協食堂, 吉原駅, しらす漁, 直売店, 浦港, 漁業, 浦
+
+howmany entities : 59
+howmany clusters : 9
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 6
+deleted 4entities.

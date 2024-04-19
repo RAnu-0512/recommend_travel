@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:極楽寺(鳥取県倉吉市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+満開, 桜, 樹齢, しだれ桜, 紅葉, 開花時期
+cluster1:(28)
+時期, 心地, 車, 極楽寺, ピンク, 歴史, 空間, 春, 寺回り, 古刹, 家族, 背筋, 感動, 道, 境内, 木, 秋, ほう, 名前, 年輩, 寺, 方, 雰囲気, 季節, ピン, 趣, 旅行, 曹洞宗
+cluster2:(3)
+駐車場, 駐車場脇, 凛とした空気
+cluster3:(1)
+とっとりの名木百選
+
+howmany entities : 38
+howmany clusters : 4
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 4
+deleted 0entities.

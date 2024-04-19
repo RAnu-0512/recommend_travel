@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井川湖畔自然歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+自然, 雰囲気, 建設, レール, 風景, 場所, 時間, 井川湖, トンネル, 景色, 写真, 遊歩道, 心, 空気
+cluster1:(3)
+井川湖ダム, 井川駅, 鉄道ライン
+cluster2:(1)
+井川湖畔自然歩道
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 1entities.

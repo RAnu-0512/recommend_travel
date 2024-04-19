@@ -1,0 +1,11 @@
+--------------------similar_words:子宝湯(江戸東京たてもの園)--------------------
+top3 entities near to cluster0>>
+湯, 入浴, 温泉
+top3 entities near to cluster1>>
+建物, 内部, 壁面
+top3 entities near to cluster2>>
+神社, 銭湯, 境内
+top3 entities near to cluster3>>
+千尋, 一樹, 悦子
+top3 entities near to cluster4>>
+物価, 物価高, インフレ

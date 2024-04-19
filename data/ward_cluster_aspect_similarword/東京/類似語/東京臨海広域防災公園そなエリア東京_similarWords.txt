@@ -1,0 +1,29 @@
+--------------------similar_words:東京臨海広域防災公園そなエリア東京--------------------
+top3 entities near to cluster0>>
+有明, かもめ, 区
+top3 entities near to cluster1>>
+地震, 災害, 津波
+top3 entities near to cluster2>>
+形式, 方式, クイズ
+top3 entities near to cluster3>>
+見学, 展示, 勉強
+top3 entities near to cluster5>>
+タープ, バーベキュー, ＢＢＱ
+top3 entities near to cluster6>>
+ガイド, エリア, イベント
+top3 entities near to cluster7>>
+ボール, ベンチ, グラウンド
+top3 entities near to cluster8>>
+手前, 奥, 右端
+top3 entities near to cluster9>>
+会場
+top3 entities near to cluster10>>
+子供, 子ども, 大人
+top3 entities near to cluster11>>
+施設, 公園, 敷地
+top3 entities near to cluster12>>
+臨場感, 緊迫感, 臨場, 緊迫
+top3 entities near to cluster13>>
+体験, 体験談, 疑似
+top3 entities near to cluster14>>
+防災, 災害, 施設

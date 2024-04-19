@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大江ノ郷ヴィレッジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+ショップ, バームクーヘン, 定番, 質, パンケーキ, 右手, かけご飯, 冷蔵, パン, スイーツ, 持ち帰りスイーツ, ところ, 味, ココガーデン カフェ, 卵
+cluster1:(2)
+季節限定メニュー目的, 駐車場
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

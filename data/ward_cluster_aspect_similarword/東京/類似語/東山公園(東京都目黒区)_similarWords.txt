@@ -1,0 +1,11 @@
+--------------------similar_words:東山公園(東京都目黒区)--------------------
+top3 entities near to cluster0>>
+地理院, 地理, 国土
+top3 entities near to cluster1>>
+紅葉, 名所, 季節
+top3 entities near to cluster3>>
+公園, 人々, 駅前
+top3 entities near to cluster4>>
+子供, 子ども, 国土
+top3 entities near to cluster5>>
+公園, 広場, 遊具

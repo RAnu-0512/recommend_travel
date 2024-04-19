@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:わかさ氷ノ山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+リベンジ, アルパイン, ウィンタースポーツ
+cluster1:(4)
+パノラマゲレンデ, スキー, スノボ, ゲレンデ
+cluster2:(1)
+初スノボ
+cluster3:(1)
+視界
+cluster4:(1)
+斜度
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

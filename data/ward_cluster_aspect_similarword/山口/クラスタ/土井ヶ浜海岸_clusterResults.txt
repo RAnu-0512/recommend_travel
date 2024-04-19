@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土井ヶ浜海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ぐらい海, 遠浅, 砂浜, 海水浴場, 海
+cluster1:(14)
+バーベキュー, 車, 虫, 気, こども, マジ, 場所, ビーチ, 食堂, トイレ, シャワー, 水, 人, ...坂
+cluster2:(1)
+透明度
+cluster3:(1)
+和式便器
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

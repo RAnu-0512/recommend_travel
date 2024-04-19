@@ -1,0 +1,11 @@
+--------------------similar_words:小田急永山駅--------------------
+top3 entities near to cluster0>>
+駅, 電車, 構内
+top3 entities near to cluster1>>
+京王, 電鉄, 小田急
+top3 entities near to cluster2>>
+急行, ラフェット, 唐木田
+top3 entities near to cluster3>>
+京王, 駅, 小田急
+top3 entities near to cluster4>>
+合, 百, 丘

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛染明王堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+鎌倉八幡宮, 東急グループ, 小泉, 鎌倉
+cluster1:(10)
+乗り場, 堂, 挨拶, 奥, 愛染明王像, 愛染明王堂, 感じ, 礼, 本尊, ロープウェイ
+cluster2:(1)
+寝姿山散策路
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

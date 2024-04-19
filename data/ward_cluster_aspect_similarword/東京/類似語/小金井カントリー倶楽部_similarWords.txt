@@ -1,0 +1,23 @@
+--------------------similar_words:小金井カントリー倶楽部--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 公園
+top3 entities near to cluster1>>
+都内, 都心, 都
+top3 entities near to cluster3>>
+コース, ゴルフ, レイクコース
+top3 entities near to cluster4>>
+プレイ, プレイスタイル, プレイ・・・
+top3 entities near to cluster5>>
+ゴルフ, キャディ, ゴルファー
+top3 entities near to cluster6>>
+コンペ, ゴルフ, パター
+top3 entities near to cluster7>>
+気持ち, 知り合い
+top3 entities near to cluster8>>
+緑, 自然, 木々
+top3 entities near to cluster9>>
+カツ, サンド, メンチ
+top3 entities near to cluster10>>
+高級感, 接客, 高級
+top3 entities near to cluster11>>
+ゴルフ場, 名門, ゴルフ

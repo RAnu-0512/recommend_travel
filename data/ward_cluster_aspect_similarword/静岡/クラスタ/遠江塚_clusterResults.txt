@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遠江塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+定勝, 嫡子, 定吉
+cluster1:(6)
+塚, 市街地, 五輪, 山, 中, 塔
+cluster2:(1)
+江戸時代
+cluster3:(4)
+掛川駅, 松平隠岐守, 掛川城, 遠江塚
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 1entities.

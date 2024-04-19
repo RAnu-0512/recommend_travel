@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はごろもマリンサービス大瀬崎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+装着, 完全初心者, 体験, 手厚い対応, 動作
+cluster1:(2)
+最後, 全員
+cluster2:(2)
+家族, 息子
+cluster3:(4)
+色とりどり, こと, 大瀬崎, インストラクター
+cluster4:(1)
+魚
+cluster5:(1)
+機材
+cluster6:(1)
+陸上
+cluster7:(1)
+耳抜き
+cluster8:(2)
+浅い範囲, 全員スキューバ経験ゼロ
+
+howmany entities : 19
+howmany clusters : 9
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 10entities.

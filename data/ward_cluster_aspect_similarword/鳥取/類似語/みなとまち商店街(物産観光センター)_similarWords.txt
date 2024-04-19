@@ -1,0 +1,11 @@
+--------------------similar_words:みなとまち商店街(物産観光センター)--------------------
+top3 entities near to cluster0>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster1>>
+醤油, しょうゆ, しょう油
+top3 entities near to cluster3>>
+外観, 内装, 建物
+top3 entities near to cluster5>>
+土産, 値段, 商品
+top3 entities near to cluster6>>
+特産, 名産

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:成福寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+歴代, 敷地, 鎌倉, 居館, 遺跡, 所縁, あちこち, 狩野川, 辺り一帯, 歴史, 時間, 富士山, 境内, 墓, 源頼朝, 花, 屋根, 蓮, 関係, 菩提寺, 印象, 場所, 寺
+cluster1:(6)
+北條, 小四郎義時, 北条, 北条正宗, 江間, 北条政子
+cluster2:(1)
+蛭ヶ小島
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 1entities.

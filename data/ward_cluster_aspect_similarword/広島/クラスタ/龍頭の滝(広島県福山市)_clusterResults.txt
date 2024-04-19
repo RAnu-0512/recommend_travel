@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍頭の滝(広島県福山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風, ノリ
+cluster1:(2)
+途中, 上
+cluster2:(4)
+入り口, クルマ, 車, 気持ち
+cluster3:(1)
+道
+cluster4:(1)
+夏場
+cluster5:(1)
+階段
+cluster6:(3)
+紅葉, 落石, 滝
+cluster7:(3)
+展望台, 穴場感, マイナスイオン吸い
+cluster8:(1)
+修行僧
+cluster9:(1)
+山野峡
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 10
+deleted 0entities.

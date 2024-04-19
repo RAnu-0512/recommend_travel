@@ -1,0 +1,21 @@
+--------------------similar_words:河津町観光協会--------------------
+top3 entities near to cluster0>>
+名所, 交流, 館
+top3 entities near to cluster2>>
+桜, 花, 八重桜
+top3 entities near to cluster5>>
+農産物, 土産物, かんきつ類
+top3 entities near to cluster6>>
+プラン, サービス, レストラン
+top3 entities near to cluster12>>
+食堂, 売店, 蕎麦
+top3 entities near to cluster13>>
+風呂, 温泉, 入浴
+top3 entities near to cluster14>>
+席, 個室, 座席
+top3 entities near to cluster16>>
+バス, 名所, 周遊
+top3 entities near to cluster17>>
+土産, 名産, 特産
+top3 entities near to cluster19>>
+会館, 館, 交流

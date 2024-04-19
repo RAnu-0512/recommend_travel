@@ -1,0 +1,11 @@
+--------------------similar_words:MRC乗馬クラブ広島--------------------
+top3 entities near to cluster0>>
+送迎, バス, 練習
+top3 entities near to cluster2>>
+厩舎, 名馬
+top3 entities near to cluster3>>
+乗馬, 馬術, クラブクレイン
+top3 entities near to cluster4>>
+滑車, 部材
+top3 entities near to cluster5>>
+爽快感, 爽快, そう快

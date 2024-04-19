@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福山城公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+福山市, 福山城, 福山駅
+cluster1:(2)
+花見スポット, 花見
+cluster2:(4)
+屋台, 城, 道, 公園
+cluster3:(2)
+風情, 価値
+cluster4:(2)
+桜, 春
+cluster5:(7)
+オススメ, 一面, 写真, 人, 家族, 近く, 手ぶら
+cluster6:(1)
+本数
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

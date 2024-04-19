@@ -1,0 +1,9 @@
+--------------------similar_words:半べえ庭園の紅葉--------------------
+top3 entities near to cluster0>>
+紅葉, 紅葉狩り, 黄葉
+top3 entities near to cluster1>>
+料理, 食材, レストラン
+top3 entities near to cluster2>>
+庭, 裏庭, 庭先
+top3 entities near to cluster5>>
+処, 食事, 夕食

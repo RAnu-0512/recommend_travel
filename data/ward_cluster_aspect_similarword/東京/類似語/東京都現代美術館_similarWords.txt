@@ -1,0 +1,45 @@
+--------------------similar_words:東京都現代美術館--------------------
+top3 entities near to cluster0>>
+工事, 改修, 改装
+top3 entities near to cluster1>>
+休館, 開館, 閉館
+top3 entities near to cluster2>>
+存在感, 開放感, 存在, 開放
+top3 entities near to cluster3>>
+カフェ, ショップ, コーヒー
+top3 entities near to cluster4>>
+カーズ, ゴジラ, ピクサー
+top3 entities near to cluster5>>
+楽しみ, 見応え, 見ごたえ
+top3 entities near to cluster6>>
+アクセス, ビュースポット, ロケーション
+top3 entities near to cluster7>>
+オブジェ, デザイン, インテリア
+top3 entities near to cluster9>>
+ディズニー, トイストーリー, アニメーション
+top3 entities near to cluster10>>
+シリーズ, リニューアル, そのもの
+top3 entities near to cluster11>>
+イベント, カレンダー, ピクニック
+top3 entities near to cluster12>>
+東京タワー, タワー, スカイツリータワー
+top3 entities near to cluster13>>
+ルート, アプリ, マップアプリ
+top3 entities near to cluster14>>
+地下鉄, メトロ, 市営
+top3 entities near to cluster17>>
+阪, 吉, 井上
+top3 entities near to cluster20>>
+展示, 展覧
+top3 entities near to cluster21>>
+建築, 建物, 土木
+top3 entities near to cluster22>>
+美術, 絵画, 芸術
+top3 entities near to cluster23>>
+現代, 作家, 近代
+top3 entities near to cluster24>>
+作品, 映像, 映画
+top3 entities near to cluster25>>
+芸術, 鑑賞, 美術
+top3 entities near to cluster26>>
+映画, 特撮, 実写

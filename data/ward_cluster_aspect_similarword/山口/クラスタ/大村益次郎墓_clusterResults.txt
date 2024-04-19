@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大村益次郎墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大村神社, 大村益次郎
+cluster1:(9)
+大河ドラマ, 隣, 山奥, ふるさと, 坂道, 墓, 京都, 場所, 仲
+cluster2:(2)
+琴, 花神
+cluster3:(2)
+大村益次郎ゆかりの鋳銭司郷土館, 司馬遼太郎
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

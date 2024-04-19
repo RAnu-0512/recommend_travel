@@ -1,0 +1,73 @@
+--------------------similar_words:東京スカイツリー--------------------
+top3 entities near to cluster0>>
+おかげ, ものすごい, すごい
+top3 entities near to cluster1>>
+ソラマチ, スカイツリーソラマチ, スカイツリータウン
+top3 entities near to cluster2>>
+イルミネーション, アトラクション, テーマパーク
+top3 entities near to cluster3>>
+ラウンジ, エレベーター, ガラス張り
+top3 entities near to cluster4>>
+イベント, ショップ, デザイン
+top3 entities near to cluster5>>
+アニメ, テレビ, ビデオ
+top3 entities near to cluster6>>
+ホテル, レストラン, カフェ
+top3 entities near to cluster8>>
+景色, 夜景, 天気
+top3 entities near to cluster11>>
+昼, 夕方, 昼間
+top3 entities near to cluster13>>
+金, 日, 月
+top3 entities near to cluster15>>
+種類別, 種類, 数種類
+top3 entities near to cluster16>>
+窓, 建物, 景色
+top3 entities near to cluster17>>
+行列, 混雑, ごった返し
+top3 entities near to cluster18>>
+購入, 入手, 持参
+top3 entities near to cluster19>>
+料金, 運賃, 費用
+top3 entities near to cluster20>>
+写真, 撮影, 映像
+top3 entities near to cluster21>>
+仕事人, チケット, 仕事
+top3 entities near to cluster22>>
+着き, 到着
+top3 entities near to cluster23>>
+発券, 乗車, 発行
+top3 entities near to cluster24>>
+企画, 展示, 設計
+top3 entities near to cluster25>>
+連絡, 対応, 受付
+top3 entities near to cluster26>>
+施行, 公布, 制定
+top3 entities near to cluster27>>
+ロケ地, 遊園地, 遊園, ロケ
+top3 entities near to cluster28>>
+名所, 周遊, 名所旧跡
+top3 entities near to cluster29>>
+名所, 名所旧跡, 名勝
+top3 entities near to cluster30>>
+乗客, 外客, お客
+top3 entities near to cluster31>>
+入場, 入場料, 入館料, 入館
+top3 entities near to cluster32>>
+前売り券, 前売り, フリーパスチケット
+top3 entities near to cluster33>>
+入場券, 前売り券, 入場, 前売り
+top3 entities near to cluster34>>
+券売機, 券売, 食券
+top3 entities near to cluster35>>
+写真, 撮影, 撮っ
+top3 entities near to cluster36>>
+時間, 日没
+top3 entities near to cluster37>>
+予約, 受付, 事前
+top3 entities near to cluster38>>
+高層, ビル, ノッポビル
+top3 entities near to cluster39>>
+スカイ, ツリー, タワー
+top3 entities near to cluster42>>
+展望, 眺望, 見晴らし

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光信寺の湯ゆっくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+広島, コロナ禍, ゆっくら, 光信寺, 雪道, 福山側
+cluster1:(2)
+外, 雨
+cluster2:(2)
+山, 駅
+cluster3:(7)
+男性, 人, 他, 場所, 中, 時間, 近く
+cluster4:(2)
+しずか, かおり
+cluster5:(3)
+気持ち, 口コミ, 雰囲気
+cluster6:(10)
+天ぷら, ランチ, 露天風呂, セット, ポイント, ヒット, スタッフ, コインロッカー, フロント, グレード
+cluster7:(1)
+マッサージチェア
+cluster8:(2)
+米, ローストビーフ
+cluster9:(1)
+EV
+cluster10:(10)
+もの, 利用, フロア長, 方, 接客, 思い, 不満, 条件, 量, 声
+cluster11:(1)
+失効
+cluster12:(5)
+布団, ごみ, 氷柱, 掃除, 薪
+cluster13:(6)
+食事, 食堂, ご飯, 御膳, 座敷, 食事処
+cluster14:(1)
+しお肉
+cluster15:(18)
+仮眠室, 脱衣所, 湯, 泡風呂, 浴場, 宿泊客, 施設, 休憩室, スーパー銭湯, 入浴, 温泉施設, 温泉地, 充電設備, 客, 利用客, 清潔感, 温泉, 風呂
+
+howmany entities : 77
+howmany clusters : 16
+howmany entities (more than1entities) : 77
+howmany clusters (more than1entities) : 16
+deleted 0entities.

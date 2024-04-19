@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トミーGワールド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(36)
+キノコ, 山, 小笠原, 場所, エイ, ビーチ, 島, 港, カノープス, 群れ, シーズンオフ, 他, 子供, トミーG, 天の川, おかげ, グリーンペペ, マンタ, サメ, ツアー, 思い出, オオコウモリ, 星空, 名所, 天気, 別ツアー, シーカヤック, 陸ツアー, 星, 父島, トビウオ桟橋, ガイド, スポット, コウモリ, おすすめナイトツアー, ナイトツアー
+cluster1:(5)
+予定時間, 人柄, 時間, 経験者, 話術
+cluster2:(1)
+野生動物
+
+howmany entities : 42
+howmany clusters : 3
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 3
+deleted 0entities.

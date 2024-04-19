@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銀座わしたショップ本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+調味料買い, 品揃え, 工芸品, 特産品
+cluster1:(2)
+泡盛, 沖縄
+cluster2:(2)
+人気, 定番
+cluster3:(6)
+店, 種類, 雑誌, 物, 説明, もの
+cluster4:(2)
+件, 訪問
+cluster5:(2)
+石垣島, ラー油
+cluster6:(15)
+アンテナショップ, アイス, 目当て, 先駆け, サーターアンダーギー, シーサー, ジュース, お気に入り, イートインコーナー, ラインナップ, ショップ, スペース, サーターアンダギー, コーナー, アンテナ
+cluster7:(1)
+豚
+cluster8:(1)
+活気
+cluster9:(1)
+ジャーキー
+cluster10:(17)
+食品, 物産店, 銀座店, 東京, 高架, 軽食, 物産, 食材, マルイト銀座, 菓子, 東京駅, 火災, 銀座, 地下, 乾燥梅, 販売量, 首都圏
+cluster11:(1)
+首里城
+cluster12:(1)
+線銀座1丁目駅
+
+howmany entities : 55
+howmany clusters : 13
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 13
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堂ヶ島温泉しおさいの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+場所, 人気, ダイバー, 身体, 気温, 日帰り, 海
+cluster1:(3)
+温泉, 町営, 日帰り温泉
+cluster2:(1)
+一般海水浴客
+cluster3:(3)
+しおさいの湯, 浮島海岸手前, 堂ヶ島
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 1entities.

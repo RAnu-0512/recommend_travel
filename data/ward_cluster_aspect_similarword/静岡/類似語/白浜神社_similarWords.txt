@@ -1,0 +1,23 @@
+--------------------similar_words:白浜神社--------------------
+top3 entities near to cluster0>>
+白波, 大波
+top3 entities near to cluster1>>
+海岸, 砂浜, 岩場
+top3 entities near to cluster2>>
+景色, 景観, 風景
+top3 entities near to cluster3>>
+竜, 龍, 神
+top3 entities near to cluster4>>
+横, 手前, 奥
+top3 entities near to cluster5>>
+空風, 空心, 空
+top3 entities near to cluster8>>
+ビーチ, リゾート, 海水浴
+top3 entities near to cluster10>>
+雰囲気, 見どころ, 気持ち
+top3 entities near to cluster12>>
+パワー, 縁結び, お守り
+top3 entities near to cluster14>>
+駐車, 時間
+top3 entities near to cluster15>>
+神社, 境内, 本殿

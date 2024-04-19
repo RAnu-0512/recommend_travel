@@ -1,0 +1,9 @@
+--------------------similar_words:葛飾元気野菜直売所--------------------
+top3 entities near to cluster0>>
+野菜, 価格, 食材
+top3 entities near to cluster1>>
+生産者, 製造者, 生産, 製造
+top3 entities near to cluster2>>
+直売, 所内, 農産物
+top3 entities near to cluster3>>
+直売, 野菜, 産直

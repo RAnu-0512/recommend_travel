@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あさぎり温泉 風の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+気, 他, 体, 客, 態度, 係り, 帰り, こと, カゴ, 料金, 女性, 仕方, 人, 感じ, 子供, 人たち, 営業時間, ほう, 方
+cluster1:(2)
+毛, 毛だらけ
+cluster2:(5)
+温泉, お湯, 露天, 風呂, 湯
+cluster3:(3)
+内風呂, 洗面所, 洗い場
+cluster4:(2)
+貸し切り, キャンプ
+cluster5:(3)
+フロント, ドライヤー, シャワー
+cluster6:(1)
+クチコミ
+cluster7:(1)
+サウナ
+cluster8:(1)
+富士山
+cluster9:(1)
+炭酸泉
+cluster10:(6)
+外, 床, 髪, 風, 蓋, バナジウム水
+cluster11:(1)
+風力
+cluster12:(5)
+洗面台, 更衣室, 脱衣場, キャンプ場, 従業員
+cluster13:(1)
+あさぎり温泉 風
+
+howmany entities : 51
+howmany clusters : 14
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 6
+deleted 10entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渋谷ストリーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+パエリア, ホテル, 店, 昔, 東横線, 食事, ドリンク, カフェ, オフィス, 利用, レモネード, 再開発, レストラン, 回転, テレビ, ビル, 順番, スポット, ストリーム, もの, 店内
+cluster1:(3)
+渋谷, 渋谷駅, 渋谷川
+cluster2:(2)
+レモネード専門店, 飲食店
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 3
+deleted 0entities.

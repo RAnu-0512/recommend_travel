@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:嘉村礒多生家 帰郷庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雰囲気, 見応え
+cluster1:(1)
+場所
+cluster2:(1)
+邸宅
+cluster3:(1)
+甲斐
+cluster4:(1)
+茅葺き屋根
+cluster5:(1)
+保存状態
+cluster6:(1)
+嘉村礒
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:春風楼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+もの, 資金, 神事, 境内, 設計, 混乱, 幕末, 天満宮, 調達, 一揆, 途中, 重層, 発願, 建設, 明治, 床下, 塔, 五重塔, 建立, 建物
+cluster1:(3)
+参拝者, 組み物, 説明書き
+cluster2:(3)
+春風楼, 防府天満宮, 楼閣様式
+cluster3:(1)
+毛利斉煕
+cluster4:(1)
+萩藩第十代藩主
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

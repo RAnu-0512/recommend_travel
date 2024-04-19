@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雲見スノーケルツアーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+参加, 変更
+cluster1:(8)
+シュノーケルツアー, 魚, ボートシュノーケリング, スタッフ, ビーチエントリー, 写真, 電話, シュノーケリングツアー
+cluster2:(1)
+天候
+cluster3:(1)
+子供たち
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

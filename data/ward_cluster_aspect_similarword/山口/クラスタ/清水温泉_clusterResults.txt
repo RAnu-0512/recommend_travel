@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レノファ山口, 山口市
+cluster1:(2)
+家族, 妻
+cluster2:(4)
+スーパーアルク, タオル, サウナ, 湯田温泉
+cluster3:(1)
+試合
+cluster4:(4)
+クセ, 目印, 場所, 建物
+cluster5:(1)
+地元客
+cluster6:(9)
+石鹸, 風呂, 浴槽, 銭湯, アルカリ性単純泉, 温泉, 温泉銭湯, 内湯, お湯
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

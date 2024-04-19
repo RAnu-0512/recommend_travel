@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川真珠貝広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 出会い
+cluster1:(1)
+緑
+cluster2:(1)
+生物
+cluster3:(1)
+河原
+cluster4:(1)
+川真珠貝広場
+cluster5:(1)
+環境汚染
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

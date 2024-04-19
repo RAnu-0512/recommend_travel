@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:篠原まるよし風鈴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+店, 場所, 外国人, 音, 製作, 子供, 制作体験, 絵付け, 体験, 新御徒町, 製作体験, 江戸時代, 営業時間, 中, 専門店
+cluster1:(2)
+風鈴, 江戸風鈴
+cluster2:(2)
+風鈴屋, 江戸風鈴屋
+cluster3:(1)
+佐竹商店街アーケード
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

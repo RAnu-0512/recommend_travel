@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝間田城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+幕府側, 鎌倉, 鎌倉幕府
+cluster1:(2)
+応仁, 応永期
+cluster2:(2)
+子孫長清, 定長
+cluster3:(3)
+山城, 城跡, 勝間田城
+cluster4:(2)
+乱, 田
+cluster5:(5)
+豪族, 地方, 本拠, 成長, 御家人
+cluster6:(1)
+勝間田平三
+cluster7:(1)
+夫木和歌集
+cluster8:(1)
+駐車場
+cluster9:(1)
+日本城郭大系 9
+
+howmany entities : 21
+howmany clusters : 10
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 10entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山火の神岳温泉足湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+多く, バリア, 名, 人, 気持ち
+cluster1:(2)
+隣, 場所
+cluster2:(1)
+足
+cluster3:(1)
+地下
+cluster4:(2)
+足湯, 温泉
+cluster5:(2)
+大山, 大山寺
+cluster6:(2)
+参道, 参拝
+cluster7:(2)
+登山, 道
+cluster8:(1)
+郵便局
+cluster9:(1)
+豪円湯院
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 10
+deleted 0entities.

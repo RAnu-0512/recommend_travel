@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:出逢い岬>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+展望スペース, 絶景スポット, 景色, 立地, 天気, 絶景
+cluster1:(15)
+所, 北, 途中, ポイント, 北側, 富士山, 駿河湾, 南, ドライブ, 大瀬崎, 位置, スポット, 場所, 県道, 港
+cluster2:(8)
+御浜岬, 恋人岬, 岬, 戸田湾, 戸田村, 霊峰富士, 戸田, 戸田港
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 0entities.

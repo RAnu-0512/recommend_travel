@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大棚の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+須津橋, 須津渓谷橋
+cluster1:(2)
+駐車場, 駐車
+cluster2:(2)
+県道, 道
+cluster3:(4)
+吊り橋, 付近, 滝, 近く
+cluster4:(1)
+案内標識
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 7entities.

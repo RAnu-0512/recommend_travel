@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高橋是清翁記念公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+記念公園, 小金井公園, 公園, 園, 銅像, 石像, 記念ギャラリー, 遊具
+cluster1:(2)
+憩い, 癒し
+cluster2:(4)
+間, 合間, 休憩, 時間
+cluster3:(5)
+ソコ, 場所, 空間, 感じ, 流れ
+cluster4:(3)
+水, 小川, 川
+cluster5:(3)
+重鎮, 邸宅, 首相
+cluster6:(8)
+高円宮, 子供, ブランコ, 仕事, カナダ大使館, 日本, ベンチ, 側
+cluster7:(3)
+都会, 緑, 紅葉
+cluster8:(3)
+後期, 初期, 時代
+cluster9:(3)
+昭和, 明治, 大正
+cluster10:(2)
+日本庭園, 江戸線
+cluster11:(10)
+住居跡, 千代田区, 解説板, 街歩き, 緑深い公園, 港区, 政治家, ビル街, 金融界, ビル
+cluster12:(3)
+高橋是清, 高橋是清邸, 高橋是清翁記念公園
+cluster13:(5)
+赤坂御所, 東京赤坂, 赤坂見附駅, 青山一丁目駅, 青山通り
+
+howmany entities : 62
+howmany clusters : 14
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 14
+deleted 0entities.

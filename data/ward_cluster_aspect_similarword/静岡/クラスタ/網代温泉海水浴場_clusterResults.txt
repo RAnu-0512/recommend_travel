@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:網代温泉海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+密猟者予備軍, 密猟者
+cluster1:(2)
+駐車場, 海水浴場
+cluster2:(10)
+筏, 泳い, 台風, 堤防, 漁協, 海, 岸, 網代, 漁師, 湾内
+cluster3:(9)
+納得, 態度, こと, 謂れ, 命令, 場所, 事実, 方, 思い
+cluster4:(2)
+迷子, 世話
+cluster5:(11)
+最後, スノーケル, 家, 周辺, 駅, 人, ライフセーバー, 男性, 子供, スノーケラー, エリア
+cluster6:(1)
+配
+cluster7:(1)
+剣幕
+cluster8:(1)
+網代温泉海岸
+
+howmany entities : 39
+howmany clusters : 9
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 9entities.

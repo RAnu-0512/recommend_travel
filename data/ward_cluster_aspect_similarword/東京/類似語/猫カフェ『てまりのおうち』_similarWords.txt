@@ -1,0 +1,13 @@
+--------------------similar_words:猫カフェ『てまりのおうち』--------------------
+top3 entities near to cluster0>>
+猫, ネコ, ニャンコ
+top3 entities near to cluster1>>
+検討, 対応, 導入
+top3 entities near to cluster2>>
+人達, 大勢
+top3 entities near to cluster4>>
+姿, 後姿, 格好
+top3 entities near to cluster5>>
+子供, 子ども, 大人
+top3 entities near to cluster7>>
+制限, 時間, 期間

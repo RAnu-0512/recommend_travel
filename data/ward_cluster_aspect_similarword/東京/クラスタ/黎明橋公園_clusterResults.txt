@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黎明橋公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+晴海トリトン, 東京都, 晴海, 晴海通り, 中央区
+cluster1:(2)
+黎明橋公園, 聡明橋公園
+cluster2:(11)
+買い物帰り, 場所, 人達, 買い物し, 子供, 場, 近く, トリトン, 憩い, 勝どき, 船
+cluster3:(6)
+勝どき駅, 噴水, 公園船着き場, 公園, 駅, 遊具
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 4
+deleted 0entities.

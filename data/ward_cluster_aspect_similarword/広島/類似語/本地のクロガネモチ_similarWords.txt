@@ -1,0 +1,9 @@
+--------------------similar_words:本地のクロガネモチ--------------------
+top3 entities near to cluster0>>
+木, 木火, 土
+top3 entities near to cluster1>>
+目的地, 遊園地, 遊園, 目的
+top3 entities near to cluster2>>
+幹, 周り, まわり
+top3 entities near to cluster4>>
+指定, 天然記念物, 名勝

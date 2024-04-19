@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夢写楽>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+浅草駅, 外国人, 浅草観光, 外国, 外国人観光客, 浅草, 客, 観光客
+cluster1:(25)
+店, スタッフ, 場所, 変身, 海外, 人, プロ, 人気, 姿, 事, 夢, 和, 体験, 柄, 機会, メイク, メイクアップアーティスト, アミューズメント, 日本, 素晴らし, 記念, 方, コスプレ, プロフェッショナル, スポット
+cluster2:(7)
+和服姿, 伝統美, 戦国武将, 甲冑, 甲冑変身写真, 武士, 着物
+cluster3:(2)
+夢写楽, 夢写
+cluster4:(5)
+写真スタジオ, アミューズメント写真館, 写真館, 写真家, 写真
+cluster5:(1)
+コスプレ写真
+
+howmany entities : 48
+howmany clusters : 6
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 6
+deleted 0entities.

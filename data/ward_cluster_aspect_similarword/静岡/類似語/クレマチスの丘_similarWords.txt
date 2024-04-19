@@ -1,0 +1,37 @@
+--------------------similar_words:クレマチスの丘--------------------
+top3 entities near to cluster1>>
+緑, 森, 丘
+top3 entities near to cluster5>>
+花, 薔薇, バラ
+top3 entities near to cluster7>>
+富士急, 駿豆線, 吊り橋
+top3 entities near to cluster8>>
+レストラン, 雰囲気, ビュッフェ
+top3 entities near to cluster10>>
+アート, フラワー, イングリッシュ
+top3 entities near to cluster11>>
+カフェ, ホテル, ベンチ
+top3 entities near to cluster15>>
+世界, 各国
+top3 entities near to cluster17>>
+子供, 子ども, 母親
+top3 entities near to cluster20>>
+散策, 土産, 食事
+top3 entities near to cluster21>>
+季節, 時期, 時季
+top3 entities near to cluster22>>
+香り, 空間
+top3 entities near to cluster24>>
+敷地, 園内, 建物
+top3 entities near to cluster25>>
+店内, 店頭
+top3 entities near to cluster26>>
+住宅街, 住宅
+top3 entities near to cluster28>>
+美術館, 美術, 絵画
+top3 entities near to cluster29>>
+彫刻, 絵画, 芸術
+top3 entities near to cluster30>>
+バス, 送迎, タクシー
+top3 entities near to cluster31>>
+入場料, 入場, 入館料, 入館

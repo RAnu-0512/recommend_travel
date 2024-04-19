@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四面塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+池袋駅, 池袋村民有志, 東口, 池袋
+cluster1:(7)
+北側, 場所, 堂, 不祥事, 被害, 治安, 雑司
+cluster2:(4)
+辻斬残骸, 供養, 塔, 石塔
+cluster3:(1)
+案内板
+cluster4:(1)
+江戸時代
+cluster5:(1)
+線路沿い
+cluster6:(1)
+目相人
+cluster7:(1)
+享保
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

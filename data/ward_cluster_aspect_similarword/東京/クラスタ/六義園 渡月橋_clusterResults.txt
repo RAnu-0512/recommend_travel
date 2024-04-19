@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六義園 渡月橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+注意喚起, 重厚感, 大きさ
+cluster1:(10)
+六義園, 絵, 人, 京都, 形, 姿, 中, スポット, 曲線, 異色
+cluster2:(7)
+木々, 池, 手摺, 丘, 巨石, 橋, 石
+cluster3:(1)
+散策途中
+cluster4:(1)
+警備員
+cluster5:(1)
+渡月橋
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

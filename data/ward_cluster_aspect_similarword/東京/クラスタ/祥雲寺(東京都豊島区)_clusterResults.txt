@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:祥雲寺(東京都豊島区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+喫煙所, 公衆トイレ
+cluster1:(7)
+人, 方, ベンチ, 文字, 薬師如来, 付近, 病気
+cluster2:(2)
+墓, 寺
+cluster3:(2)
+要町, 新型コロナ下
+cluster4:(1)
+病気平癒
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

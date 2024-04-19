@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲田寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伊豆, 下田市, 稲田寺
+cluster1:(3)
+建物, 場所, 感じ
+cluster2:(2)
+現代, 生活
+cluster3:(1)
+恋人
+cluster4:(4)
+墓, 仏像, 浄土宗, 寺
+cluster5:(1)
+建築物
+cluster6:(1)
+漂着伝説
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 5entities.

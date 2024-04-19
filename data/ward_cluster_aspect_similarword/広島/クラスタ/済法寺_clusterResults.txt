@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:済法寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+参道, 石段
+cluster1:(4)
+中腹, 山, 寺, 南側
+cluster2:(5)
+ガウディ, 道路, ハウス, 間, 足
+cluster3:(1)
+JR
+cluster4:(1)
+武術
+cluster5:(2)
+住宅街, 尾道駅
+cluster6:(1)
+拳骨和尚
+cluster7:(1)
+物外不遷和尚
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

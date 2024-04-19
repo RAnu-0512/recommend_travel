@@ -1,0 +1,33 @@
+--------------------similar_words:堀切菖蒲園--------------------
+top3 entities near to cluster0>>
+入場, 入園, 入館
+top3 entities near to cluster1>>
+園内, 遊歩道, 紫陽花
+top3 entities near to cluster2>>
+料金, バス, 運賃
+top3 entities near to cluster3>>
+たくさん, 色んな
+top3 entities near to cluster4>>
+大勢, 人達
+top3 entities near to cluster5>>
+約数, 総数, 約
+top3 entities near to cluster6>>
+種類, 写真
+top3 entities near to cluster7>>
+品種, 産地, 原種
+top3 entities near to cluster9>>
+季節, 時季, 風景
+top3 entities near to cluster10>>
+駅, 公園, 名所
+top3 entities near to cluster11>>
+見頃, 開花, 満開
+top3 entities near to cluster13>>
+紫, 白, 藤
+top3 entities near to cluster14>>
+花, お花, 睡蓮
+top3 entities near to cluster15>>
+桜, 冬, 春
+top3 entities near to cluster19>>
+菖蒲, 花菖蒲, あやめ
+top3 entities near to cluster22>>
+京成, 京成電鉄, バス

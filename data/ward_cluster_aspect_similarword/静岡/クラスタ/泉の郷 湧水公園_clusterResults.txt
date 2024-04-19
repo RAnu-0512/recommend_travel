@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:泉の郷 湧水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+休憩, カフェ, 水, おすすめ, 餌, 川, ベンチ, 湧水, 沿線, 鯉, 小休憩, 水路, 富士山, 池, 公園, 近く, スポット, 親子連れ, 場所, 遊具, 鴨, 方, 親子
+cluster1:(2)
+三島〜富士, 岳南鉄道
+cluster2:(1)
+泉の里 湧水公園
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 1
+deleted 3entities.

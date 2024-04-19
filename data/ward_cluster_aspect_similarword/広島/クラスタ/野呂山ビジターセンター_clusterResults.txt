@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野呂山ビジターセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+野呂山, トイレ, 隣
+cluster1:(2)
+施設, 場所
+cluster2:(1)
+池
+cluster3:(1)
+観光スポット
+cluster4:(1)
+天然氷
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

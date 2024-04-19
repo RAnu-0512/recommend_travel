@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊積神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+由比駅, 由比宿, 蒲原駅, 由比
+cluster1:(18)
+御朱印, 注意, 二宮, 途中, こと, 東海道五, レターケース, 無人, 外, 社殿, 配慮, 格, 神社, 境内, 坂上田村麻呂, 雰囲気, 旅, 書置き
+cluster2:(4)
+初穂料, 豊積神社, 賽銭箱, 戦勝祈願
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巣鴨教会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+場所, 教会, 建物
+cluster1:(2)
+JR, 東
+cluster2:(4)
+新大塚駅, 東京メトロ丸ノ内線, 大塚駅, 山手線
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

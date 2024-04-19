@@ -1,0 +1,13 @@
+--------------------similar_words:安良里漁港 係船釣り--------------------
+top3 entities near to cluster1>>
+アジ, 鯛
+top3 entities near to cluster2>>
+竿, 延竿, 釣り竿
+top3 entities near to cluster4>>
+サバ, さば, 鯖
+top3 entities near to cluster7>>
+黒鯛
+top3 entities near to cluster9>>
+釣, 魚釣り
+top3 entities near to cluster10>>
+係船, 係留

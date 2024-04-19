@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アドミュージアム東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+展示物, 常設展示, 展示品, 展示スペース, 展示室, 企画展, 展示
+cluster1:(2)
+入場, 入場無料
+cluster2:(2)
+入場料, 入館料
+cluster3:(2)
+上階, 隅々
+cluster4:(5)
+媒体, 水着ポスター, 電通, CM, 紙
+cluster5:(9)
+方, こと, 付帯ミュージアム, 興味, 心, 方法, 中, 場所, 人
+cluster6:(3)
+こども, 子連れ, 子ども
+cluster7:(2)
+おすすめスポット, 口コミ
+cluster8:(2)
+テレビコマーシャル, WEB
+cluster9:(2)
+ライブラリー, ミュージアム
+cluster10:(2)
+コマーシャル, クリエイティブ
+cluster11:(1)
+デザイン
+cluster12:(1)
+ポスター
+cluster13:(1)
+小中学校
+cluster14:(1)
+テーマ
+cluster15:(1)
+大学生
+cluster16:(2)
+アート, 博物館
+cluster17:(1)
+スタンプラリー
+cluster18:(4)
+週末, 若者, ママ, 勉強
+cluster19:(6)
+本題, 東京, 現代, 地下, 世界, 日本
+cluster20:(11)
+大手企業, 年代, 歴史資料, 資料館, 昭和, 歴史, 企業博物館, 明治, 大正, 港区, 江戸時代
+cluster21:(16)
+広告関係, アドミュージアム東京, 広告, 公共広告, カレッタ汐留, 広告物, 広告系, アド, 電通本社ビル, 汐留, レトロ看板, 広告賞, 広告ミュージアム, アドミュージアム, 広告史, 汐留駅
+
+howmany entities : 83
+howmany clusters : 22
+howmany entities (more than1entities) : 83
+howmany clusters (more than1entities) : 22
+deleted 0entities.

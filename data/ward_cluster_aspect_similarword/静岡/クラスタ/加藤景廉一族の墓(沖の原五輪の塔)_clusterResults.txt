@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加藤景廉一族の墓(沖の原五輪の塔)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+気, 周り, 田んぼ, 責任, 線路, 線路際, 駿豆線, もの, 牧之郷, 無人駅, 周囲, 源頼朝, そば, 墓, 中, 晩年, 一族, 祠, 五輪塔, 功, 伊豆箱根鉄道, 塔
+cluster1:(2)
+加藤景廉, 将軍実朝暗殺
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 1
+deleted 2entities.

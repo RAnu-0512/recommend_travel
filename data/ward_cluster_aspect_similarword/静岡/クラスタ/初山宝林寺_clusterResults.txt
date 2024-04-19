@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:初山宝林寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+金運, 金鳴石, 金指, 近藤家墓所, 善神像, 金指駅, 明国, 湖北五山, 江戸時代初期, 本尊釈迦三尊像, 中国明朝風, 報恩堂, 佛殿
+cluster1:(6)
+僧侶, 山門, 方丈, 境内, 仏殿, 寺
+cluster2:(3)
+修理, ジオラマ展, 散策
+cluster3:(3)
+近藤, 石, 坂
+cluster4:(14)
+こと, 御利益, 文化財, 国, ひとつ, 中国, 雰囲気, カバー, ドラマ, 菩提寺, 建物, 場所, 縁, 見どころ
+cluster5:(2)
+利益, 上昇
+cluster6:(6)
+駐車場, 建築物, 拝観料, 建築様式, 順路標示, 説明板
+
+howmany entities : 47
+howmany clusters : 7
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 6
+deleted 2entities.

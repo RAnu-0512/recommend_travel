@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みかん狩り とくら園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+絶品みかん, みかん作り, みかん畑, 畑, 収穫
+cluster1:(9)
+注意, 時期, こと, もの, 結果, 楽し, 場所, ほう, 方
+cluster2:(4)
+木々, 皮, ヤギ, 木
+cluster3:(9)
+車, 客, 平地, 連休, 家族, 家, 人, 道路, 現地
+cluster4:(2)
+ハサミひとり, ハサミ
+cluster5:(2)
+みかん, ミカン
+cluster6:(2)
+タイトル, タイミング
+cluster7:(3)
+おじいちゃん, おじさん, コヤギ
+cluster8:(1)
+持ち帰り
+cluster9:(1)
+小さめ
+cluster10:(1)
+口コミ
+cluster11:(1)
+傾斜地
+cluster12:(1)
+横
+cluster13:(2)
+至近, 傾斜
+cluster14:(9)
+子供連れ, 駐車場, 袋, 土産, 家族連れ, 土産袋, みかん達, 子供, 子供たち
+cluster15:(4)
+食べ放題, 餌やり, 食べたみかん, もぎたて
+cluster16:(3)
+狩り, 初みかん狩り, みかん狩り
+cluster17:(3)
+果樹園, 園, みかん園
+
+howmany entities : 62
+howmany clusters : 18
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 9
+deleted 13entities.

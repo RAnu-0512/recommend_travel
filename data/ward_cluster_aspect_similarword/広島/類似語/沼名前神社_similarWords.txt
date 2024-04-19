@@ -1,0 +1,19 @@
+--------------------similar_words:沼名前神社--------------------
+top3 entities near to cluster0>>
+台座, 一対, 床
+top3 entities near to cluster1>>
+海, 神, 神様
+top3 entities near to cluster3>>
+銘, 醸館, 柯建
+top3 entities near to cluster5>>
+行事, 工事, 準備
+top3 entities near to cluster6>>
+雨戸, 鎧戸, 障子
+top3 entities near to cluster7>>
+舞台, 乃霊
+top3 entities near to cluster8>>
+弘, 化, 飽戸
+top3 entities near to cluster10>>
+神社, 渡守, 境内
+top3 entities near to cluster11>>
+本殿, 拝殿, 社殿

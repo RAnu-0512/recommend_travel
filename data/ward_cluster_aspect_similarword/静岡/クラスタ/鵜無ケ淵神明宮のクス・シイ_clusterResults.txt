@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鵜無ケ淵神明宮のクス・シイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国, 天然記念物
+cluster1:(1)
+境内
+cluster2:(1)
+木
+cluster3:(1)
+楠
+cluster4:(1)
+神宮
+cluster5:(1)
+椎
+cluster6:(1)
+シイ
+cluster7:(1)
+富士市
+cluster8:(1)
+樹齢
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

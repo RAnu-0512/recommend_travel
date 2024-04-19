@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旭滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+紅葉, 天気, 風景, 穴場, 絶景
+cluster1:(4)
+パワースポット, マグマ, 思い出, スポット
+cluster2:(3)
+狩野川, 旭滝, もみじ
+cluster3:(1)
+マイナスイオン
+cluster4:(1)
+滝
+cluster5:(1)
+バス
+cluster6:(3)
+流れ, こと, 感じ
+cluster7:(4)
+地元, 時間, 近く, 場所
+cluster8:(2)
+上, 中
+cluster9:(2)
+名, 人
+cluster10:(1)
+水
+cluster11:(2)
+旭, 石垣
+cluster12:(3)
+中腹, 階段, 岩肌
+cluster13:(7)
+高さ, 落差, 断面, 迫力, 支流, 水量, 全長
+cluster14:(6)
+駐車場, 工事, 国道, 折落, ライトアップ工事, 県道
+cluster15:(1)
+高低差
+cluster16:(7)
+真東, 伊豆市, 柱状節理, 大平IC, 伊豆縦貫自動車道, 浄蓮, 六角柱
+
+howmany entities : 53
+howmany clusters : 17
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 9
+deleted 11entities.

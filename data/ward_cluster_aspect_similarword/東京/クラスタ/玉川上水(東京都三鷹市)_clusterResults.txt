@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉川上水(東京都三鷹市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+上水, 三鷹, 三鷹駅, 玉川
+cluster1:(9)
+地, 近隣, 南口, 都, 奥多摩地域, 方面, 区間, 道, 武蔵野市
+cluster2:(13)
+季節, 散歩道, ゆかり, 場所, ジブリ美術館, 玉川上水, 感じ, 井の頭公園, 自粛, レストラン, 営業, スポット, 雰囲気
+cluster3:(2)
+小金井公園, 散歩
+cluster4:(4)
+木々, 自然, 緑, 川
+cluster5:(4)
+風の散歩道, 花々, 文化園, 風
+cluster6:(1)
+コロナウイルス対策期間
+cluster7:(1)
+太宰治
+cluster8:(1)
+山本有三記念館
+
+howmany entities : 39
+howmany clusters : 9
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 9
+deleted 0entities.

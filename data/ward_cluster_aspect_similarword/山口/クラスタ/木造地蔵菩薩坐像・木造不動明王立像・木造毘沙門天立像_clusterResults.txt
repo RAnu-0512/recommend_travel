@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木造地蔵菩薩坐像・木造不動明王立像・木造毘沙門天立像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+毘沙門天, 仏像
+cluster1:(1)
+木造
+cluster2:(1)
+表情
+cluster3:(1)
+木造不動明王立像・木造毘沙門天立像
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

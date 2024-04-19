@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:能満寺(山口県長門市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+本殿, 参拝, 読経, 古刹, 本堂, 不動尊像, 寺, 寺宝, 山門, 寺院
+cluster1:(2)
+田園, 黄葉
+cluster2:(2)
+車, 運転
+cluster3:(2)
+屋根, 壁
+cluster4:(6)
+中, 自然, 場所, 感じ, 歴史, 建物
+cluster5:(6)
+山頂, イチョウ, 手書き, 御朱印, 真言宗, 弘法大師
+cluster6:(4)
+赤色, 色, 朱色, 年季
+cluster7:(5)
+大師, 帰朝, 堂, 唐, 坂
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 8
+deleted 0entities.

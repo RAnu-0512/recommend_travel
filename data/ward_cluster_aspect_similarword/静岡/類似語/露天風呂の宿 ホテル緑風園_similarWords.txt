@@ -1,0 +1,13 @@
+--------------------similar_words:露天風呂の宿 ホテル緑風園--------------------
+top3 entities near to cluster0>>
+温泉, 露天風呂, 風呂
+top3 entities near to cluster1>>
+アジ, 干物, 鯛
+top3 entities near to cluster3>>
+夕食, 夕飯, 朝食
+top3 entities near to cluster6>>
+部屋, 温度, 建物
+top3 entities near to cluster9>>
+対応, 利用, 使用
+top3 entities near to cluster12>>
+主人, 友達, 友人

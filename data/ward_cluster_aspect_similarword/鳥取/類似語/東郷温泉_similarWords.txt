@@ -1,0 +1,21 @@
+--------------------similar_words:東郷温泉--------------------
+top3 entities near to cluster0>>
+温泉, 湯, 旅館
+top3 entities near to cluster1>>
+パン焼き, パン屋, パン
+top3 entities near to cluster2>>
+湖畔, 湖, 畔
+top3 entities near to cluster5>>
+足水, 足体, 足
+top3 entities near to cluster7>>
+夕暮れ, 雰囲気, 風情
+top3 entities near to cluster8>>
+ホテル, 露天風呂, 温泉
+top3 entities near to cluster10>>
+周辺, 施設, 建物
+top3 entities near to cluster11>>
+霧雨, 天気雨, 霧, 天気
+top3 entities near to cluster12>>
+景色, 景観, 眺望
+top3 entities near to cluster13>>
+温泉, 湯, 露天風呂

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:変身写真館Metalily>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+衣装, 着物
+cluster1:(7)
+写真, 方, こと, ドレス, コース, ミニーナ, プラン
+cluster2:(3)
+非日常, 手軽変身, 変身願望
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

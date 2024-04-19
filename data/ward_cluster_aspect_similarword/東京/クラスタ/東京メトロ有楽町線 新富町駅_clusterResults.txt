@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ有楽町線 新富町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+ラッシュ, 昔, 区役所, 新木場, 書類, ホーム, ローソン, 前, イートインあり, 日比谷線, 目, 乗り換え
+cluster1:(2)
+築地駅, 築地
+cluster2:(3)
+駅, 改札, 新富町駅
+cluster3:(3)
+西側, 東側, 出口
+cluster4:(2)
+銀座エリア, 中央区役所
+cluster5:(1)
+入船橋
+cluster6:(1)
+パン屋
+cluster7:(1)
+東京メトロ有楽町線
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:音無神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊東祐親の娘八重姫, 伊東祐親の娘・八重姫
+cluster1:(3)
+説明書き, 涼しさ, まつかわ遊歩道
+cluster2:(4)
+伊東, 頼朝, 伊豆, 松川
+cluster3:(4)
+妊婦, 妊娠, 家族旅行, 安産
+cluster4:(21)
+神主, ホテル, 森, 天然記念物, 神, 母たち, 女性, 人, 歴史, 伝説, 時間, 日, 脚, 内容, タブ, 雰囲気, 蒼, 場所, 見た目, 木, 説明
+cluster5:(7)
+裏手, 遊歩道沿い, 参拝, 境内, 木陰, 逢瀬, 柄杓
+cluster6:(1)
+駐車場
+cluster7:(9)
+八重姫, 音無神社, 七福神神籤, ここ音無神社, 御神木, 森・神社, 流人・頼朝, 抱き合う御神木, 日暮神社
+
+howmany entities : 51
+howmany clusters : 8
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 6
+deleted 3entities.

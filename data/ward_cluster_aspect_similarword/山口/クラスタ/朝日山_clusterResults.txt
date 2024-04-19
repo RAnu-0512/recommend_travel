@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝日山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+登りやすさ, 高さ, 軽め
+cluster1:(12)
+登山, 山頂, 景色, 初心者, 象徴, 軽装, 安全, 問題, 標高, 眺め, 散歩感覚, 山
+cluster2:(3)
+四国, 山口, 新山口駅
+cluster3:(1)
+真照院
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,19 @@
+--------------------similar_words:名主の滝公園--------------------
+top3 entities near to cluster0>>
+滝, 公園, 夫婦滝
+top3 entities near to cluster2>>
+自然, 環境, 空間
+top3 entities near to cluster3>>
+茶, 緑, 青
+top3 entities near to cluster4>>
+川水, 夏水, 川, 夏
+top3 entities near to cluster5>>
+日陰, 日蔭, 木陰
+top3 entities near to cluster6>>
+散策, 案内, 徒歩
+top3 entities near to cluster9>>
+迫力
+top3 entities near to cluster10>>
+涼しい, 暑い, 暑苦しい
+top3 entities near to cluster11>>
+駅, 公園, 駅前

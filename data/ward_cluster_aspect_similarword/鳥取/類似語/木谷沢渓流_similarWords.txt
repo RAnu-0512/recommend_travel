@@ -1,0 +1,19 @@
+--------------------similar_words:木谷沢渓流--------------------
+top3 entities near to cluster0>>
+沢, 谷川, 瀬
+top3 entities near to cluster1>>
+苔, 緑, 緑色
+top3 entities near to cluster2>>
+沢, 岩, スッカン
+top3 entities near to cluster3>>
+靴, 足, 靴下
+top3 entities near to cluster4>>
+看板, 建物, 写真
+top3 entities near to cluster5>>
+入り口, 夏場, 裏手
+top3 entities near to cluster6>>
+徒歩, 駅分, 駅
+top3 entities near to cluster7>>
+曇り, くもり, 曇っ
+top3 entities near to cluster8>>
+渓流, 砂防, 林道

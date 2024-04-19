@@ -1,0 +1,17 @@
+--------------------similar_words:パレットタウン--------------------
+top3 entities near to cluster0>>
+観覧車, 観覧, 自家用車
+top3 entities near to cluster1>>
+テーマパーク, ホテル, レストラン
+top3 entities near to cluster2>>
+子供, 子ども, 親達
+top3 entities near to cluster4>>
+施設, 建物
+top3 entities near to cluster5>>
+商業, 施設, 複合
+top3 entities near to cluster6>>
+台場, ビーナスフォート, レンボーブリッジ
+top3 entities near to cluster8>>
+遊園地, 遊園, 揚島
+top3 entities near to cluster9>>
+りん, ゆり, かもめ

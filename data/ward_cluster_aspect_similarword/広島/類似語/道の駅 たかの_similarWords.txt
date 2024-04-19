@@ -1,0 +1,47 @@
+--------------------similar_words:道の駅 たかの--------------------
+top3 entities near to cluster0>>
+リンゴ, りんご, 林檎
+top3 entities near to cluster1>>
+冷蔵庫, トイレ, 買い物
+top3 entities near to cluster3>>
+オムレツ, ステーキ, ハンバーグ
+top3 entities near to cluster4>>
+おにぎり, こんにゃく, おむすび
+top3 entities near to cluster5>>
+レストラン, ドレッシング, バイキング
+top3 entities near to cluster6>>
+アップル, アップルジャパン, アップルコンピュータ
+top3 entities near to cluster7>>
+だいこん, 大根, ダイコン
+top3 entities near to cluster8>>
+コンソメ, ブイヨン, スープ
+top3 entities near to cluster9>>
+プリン, ぷりん, ティラミス
+top3 entities near to cluster10>>
+何もの, ナニモノ, 何者
+top3 entities near to cluster11>>
+ランチ, ランチタイム, ディナー
+top3 entities near to cluster12>>
+サラダ, パスタ, スパゲティ
+top3 entities near to cluster13>>
+うどん, カレー, カレーライス
+top3 entities near to cluster14>>
+味噌汁, みそ汁, 吸い物
+top3 entities near to cluster15>>
+ジビエ, ジビエブーム, イノシシ
+top3 entities near to cluster16>>
+パン, パイ, ピザ
+top3 entities near to cluster17>>
+野菜, 果物, 漬物
+top3 entities near to cluster18>>
+茶碗, ご飯, 皿
+top3 entities near to cluster20>>
+地元, 産, 地場
+top3 entities near to cluster21>>
+運賃区間, 全線, 運賃
+top3 entities near to cluster22>>
+高速, 道路, 低速
+top3 entities near to cluster23>>
+山間部, 山間
+top3 entities near to cluster24>>
+通行料, 通行, 徴収

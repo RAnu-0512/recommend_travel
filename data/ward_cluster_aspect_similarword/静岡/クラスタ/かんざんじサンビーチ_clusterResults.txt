@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かんざんじサンビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湖沿い, 舘山寺温泉門前通り
+cluster1:(8)
+泳ぎ, 湖面, しぶき橋, 遠浅, 波, 海, 砂浜, 橋
+cluster2:(8)
+浜名湖, 舘山寺, 北, 水, 伊豆, 西, 神奈川県, 風
+cluster3:(3)
+高校生, 子供, 小学生
+cluster4:(2)
+友人, 人
+cluster5:(4)
+ビーチ, 海水浴, 平泳ぎ, マリンスポーツ
+cluster6:(1)
+練習
+cluster7:(7)
+海水浴場, 所, こと, 夕日, 景色, 場所, 写真スポット
+cluster8:(1)
+かんざんじサンビーチ
+cluster9:(3)
+閑散期, 子供達, 子供たち
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 6
+deleted 6entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長門市一位ガ岳のベニドウダン自生地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+略称, ベニドウダン
+cluster1:(1)
+ツツジ科
+cluster2:(1)
+長門市
+cluster3:(1)
+ガ岳
+cluster4:(1)
+落葉小木
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

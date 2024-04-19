@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かんぽの郷 庄原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+宿泊施設, 宿泊, 宿泊宿
+cluster1:(6)
+方, かた, 時間, こと, 場所, 一端
+cluster2:(8)
+対応, 露天風呂, 皆さま, 気配り, スタッフ, 値段, ハイクラス, スベスベ
+cluster3:(2)
+宿, 温泉
+cluster4:(2)
+体, 顔
+cluster5:(2)
+部屋, 風呂
+cluster6:(1)
+清掃
+cluster7:(1)
+芯
+cluster8:(1)
+お肌
+cluster9:(2)
+泉質, 庄原市
+
+howmany entities : 28
+howmany clusters : 10
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 10
+deleted 0entities.

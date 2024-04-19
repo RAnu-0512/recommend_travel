@@ -1,0 +1,25 @@
+--------------------similar_words:池袋演芸場--------------------
+top3 entities near to cluster0>>
+割引, 割り引き, 割引き
+top3 entities near to cluster1>>
+臨場感, 臨場, ドキドキ・ワクワク
+top3 entities near to cluster2>>
+繁華街, 商店街, 繁華, 商店
+top3 entities near to cluster4>>
+徒歩, 駅分, 駅
+top3 entities near to cluster5>>
+北口, 東口, 南口
+top3 entities near to cluster6>>
+交通, 交番, 営業
+top3 entities near to cluster7>>
+人達, 会場
+top3 entities near to cluster8>>
+表情, 仕草
+top3 entities near to cluster9>>
+話, オチ, 記憶
+top3 entities near to cluster11>>
+機会, チャンス, 好機
+top3 entities near to cluster12>>
+飲み物, 出入り口, 入り口
+top3 entities near to cluster16>>
+演芸, 落語, 寄席

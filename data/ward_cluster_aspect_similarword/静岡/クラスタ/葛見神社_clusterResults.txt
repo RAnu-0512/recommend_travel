@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛見神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大クス, クス
+cluster1:(5)
+車道, 社殿, 台地, 神社, 境内
+cluster2:(3)
+楠, 坂, 木
+cluster3:(15)
+敷地, 東林寺, 祖, つながり, 天然記念物, 国, 歴史, 気持ち, 人々, 墓, 生涯, 雰囲気, 大樟, 方, 価値
+cluster4:(3)
+大きさ, 天然記念物指定, 国指定天然記念物
+cluster5:(1)
+五輪塔
+cluster6:(7)
+葛見神社, 伊東祐親, 伊東駅, 工藤祐隆, 伊東, 伊東家, 来宮神社
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 3entities.

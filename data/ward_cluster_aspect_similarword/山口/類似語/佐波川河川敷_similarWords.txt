@@ -1,0 +1,9 @@
+--------------------similar_words:佐波川河川敷--------------------
+top3 entities near to cluster0>>
+ジョギング, ウォーキング, ウオーキング
+top3 entities near to cluster1>>
+河川敷, 川べり, 土手
+top3 entities near to cluster2>>
+ボール, マイボール, フリスビー
+top3 entities near to cluster4>>
+そば, 蕎麦, ソバ

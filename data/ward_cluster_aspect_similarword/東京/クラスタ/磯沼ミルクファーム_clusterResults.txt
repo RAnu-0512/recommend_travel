@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:磯沼ミルクファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+気, 雰囲気, 感じ
+cluster1:(4)
+人, 方, 他, 普通
+cluster2:(1)
+臭い
+cluster3:(2)
+牧場, 観光牧場
+cluster4:(3)
+牛舎, 牛, 農家
+cluster5:(1)
+乳搾り
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

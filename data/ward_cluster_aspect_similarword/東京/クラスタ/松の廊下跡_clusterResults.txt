@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松の廊下跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+観光客, 案内板, 事件, 場所, 廊下跡, 廊下, 江戸城, 多く, 松, 前, 跡地, 忠臣蔵, 事
+cluster1:(2)
+松之大廊下, 皇居東御苑
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

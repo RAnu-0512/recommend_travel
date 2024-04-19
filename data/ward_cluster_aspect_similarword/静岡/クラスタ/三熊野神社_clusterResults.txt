@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三熊野神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+掛川, 奈良, 桜
+cluster1:(8)
+横須賀, 街並み, 地元, 気持ち, アドバイス, 時代, 人達, 前
+cluster2:(2)
+祭り, 準備
+cluster3:(1)
+趣
+cluster4:(1)
+散策
+cluster5:(1)
+江戸時代
+cluster6:(11)
+駐車場, 創建, 拝殿正面, 神社, 大祭, 境内, 本殿, 彫物, 建物, 熊野神社, 彫刻
+cluster7:(1)
+八咫烏
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 6entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:樋口一葉終焉の地--------------------
+top3 entities near to cluster0>>
+終焉, 結核, 才能
+top3 entities near to cluster1>>
+生活板, 作家, 生活
+top3 entities near to cluster2>>
+会館, 求道, 四富
+top3 entities near to cluster3>>
+一葉, 樋口, 終焉

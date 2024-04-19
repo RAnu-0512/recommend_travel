@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観泉寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+雨, 子孫, 要職, 地, 庇護, 墓所, 墓, 代々, 参拝, 荘厳さ, 風景, 地名, 徒歩, 菩提寺, 造り, 境内
+cluster1:(4)
+禅寺, 今川, 荻窪駅, 今川家
+cluster2:(3)
+幕府, 天下統一, 江戸幕府
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黄金山緑地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+南区, 広島市
+cluster1:(2)
+感じ, 気
+cluster2:(2)
+場所, 所
+cluster3:(5)
+黄金山, 夜景, 季節, 桜, 緑地
+cluster4:(2)
+展望台, 駐車場
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

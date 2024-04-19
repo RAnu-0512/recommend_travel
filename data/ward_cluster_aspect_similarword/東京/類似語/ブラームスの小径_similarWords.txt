@@ -1,0 +1,11 @@
+--------------------similar_words:ブラームスの小径--------------------
+top3 entities near to cluster0>>
+駅, 駅前, ビルアトレ
+top3 entities near to cluster1>>
+路地裏, 路地, 裏通り
+top3 entities near to cluster2>>
+明治, 原田, 大正
+top3 entities near to cluster4>>
+小径, 脇道
+top3 entities near to cluster5>>
+喧騒, 喧噪, 嘘

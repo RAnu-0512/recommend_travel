@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三原市宇根山天文台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+興味, 反応
+cluster1:(2)
+望遠鏡, 天文台
+cluster2:(2)
+宇根山, 小学生
+cluster3:(1)
+子供
+cluster4:(2)
+電話, 勉強
+cluster5:(1)
+星
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

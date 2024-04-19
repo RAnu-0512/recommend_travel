@@ -1,0 +1,11 @@
+--------------------similar_words:ティーエス・ホリウチ--------------------
+top3 entities near to cluster0>>
+時計, 腕時計, 懐中時計
+top3 entities near to cluster1>>
+外国, 種類, 大勢
+top3 entities near to cluster2>>
+専門店, 専門, 店舗
+top3 entities near to cluster3>>
+多すぎ, 多, 少ない
+top3 entities near to cluster4>>
+機械式, 機械, 時計

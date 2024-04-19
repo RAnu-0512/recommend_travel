@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本陣伊藤邸跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊藤家, 伊藤
+cluster1:(2)
+宿, 本陣
+cluster2:(5)
+中, 関係, こと, 彼, 場所
+cluster3:(2)
+家, 歴史
+cluster4:(1)
+常識
+cluster5:(2)
+邸宅, 家柄
+cluster6:(1)
+江戸時代
+cluster7:(3)
+奉行, 奉行職, 長州藩
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 8
+deleted 0entities.

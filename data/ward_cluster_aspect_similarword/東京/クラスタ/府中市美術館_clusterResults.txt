@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:府中市美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+東府中駅, 公園, 散歩, 駅, こども連れ, 森公園
+cluster1:(20)
+地震, 山, 子ども, 改装, 気, 子供, コレクション, 数, 規模, 美術館, 中, 方, こと, 災害, 雰囲気, ルート, 鉄, モニュメント, 京王線, 色
+cluster2:(8)
+展示, 展, ミレー展, 常設展, 企画展, 展示替え, 展示品, 展示スペース
+cluster3:(3)
+市立美術館, 日本美術, 江戸絵画まつり
+cluster4:(2)
+観覧料, 駐車場
+cluster5:(1)
+全館休館
+cluster6:(1)
+ちゅうバス
+cluster7:(10)
+牛島憲之, 京王電鉄府中駅, 市立美術館らしからぬユニークな展覧会, 府中市美術館, 都立府中, 多磨町, 青木野枝 霧と鉄, 府中, 府中駅, 江戸時代以降の日本美術
+
+howmany entities : 51
+howmany clusters : 8
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香久山 妙法寺(毘沙門天)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 社務所
+cluster1:(2)
+大祭, 毘沙門天大祭
+cluster2:(8)
+車, 電車, 駅, 市, だるま市, 徒歩, 吉原駅, シャトルバス
+cluster3:(2)
+中止, 影響
+cluster4:(4)
+多く, 地元, 近く, 頃
+cluster5:(4)
+所, こと, 中, 場所
+cluster6:(7)
+家族, 臨時, 人, 痛み, 右手, 子供, 身体
+cluster7:(11)
+御朱印, スタンプ, ソーセージ, 中華, 毘沙門天, プール, 神, 龍, 毘沙門, だるま, 妙法寺
+cluster8:(3)
+ごみ, 迷子, 渋滞
+cluster9:(2)
+祭り, 屋台
+cluster10:(2)
+出店, 店
+cluster11:(4)
+敷地, 柱, 屋根, 建物
+cluster12:(6)
+石段, 御朱印帳, 参拝, 本堂, 境内, 寺院
+cluster13:(6)
+身代わり地蔵, 富士毘沙門天, コロナ禍, 御堂, 達磨, 撫
+cluster14:(4)
+七福神巡り, 東海道五, 何か所, 三次ウォーキング
+cluster15:(3)
+竜神香炉堂, 日本三大だるま市, お身拭い毘沙門天像
+
+howmany entities : 70
+howmany clusters : 16
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 11
+deleted 10entities.

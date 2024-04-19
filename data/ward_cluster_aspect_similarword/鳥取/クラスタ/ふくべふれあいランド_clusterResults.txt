@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふくべふれあいランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+温水プール, 入浴, 施設, 途中, ドライブ, プール
+cluster1:(2)
+ふくべふれあいランド, 福部町ほっとスイミングプール
+cluster2:(1)
+福部村砂丘温泉ふれあい会館
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

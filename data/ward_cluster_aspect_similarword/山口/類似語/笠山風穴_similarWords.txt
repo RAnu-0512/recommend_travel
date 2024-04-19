@@ -1,0 +1,15 @@
+--------------------similar_words:笠山風穴--------------------
+top3 entities near to cluster0>>
+気温, 温度
+top3 entities near to cluster2>>
+海水魚, 淡水魚, 海水, 淡水
+top3 entities near to cluster3>>
+真夏, 夏, 冬
+top3 entities near to cluster4>>
+訪問, 体験, 来訪
+top3 entities near to cluster5>>
+入口付近, 入り口付近, 入り口, 入口
+top3 entities near to cluster6>>
+岩, 洞窟
+top3 entities near to cluster7>>
+集会場, 集会, 場裏

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さくらの足湯処>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+河津正月桜, 河津桜観光交流館, 河津駅, 河津桜まつり, 河津桜
+cluster1:(3)
+さくらの足湯処, 足湯処, 噴湯公園足湯
+cluster2:(3)
+笹原公園, 川沿い, 桜まつり
+cluster3:(3)
+足湯, 湯, 温度
+cluster4:(17)
+花びら, 必要, 時期, 出入口, 期間, 円形, 人, 奥, 感じ, 景色, 後ろ, 足, 場所, しょう, さくら, 移動, 見た目
+cluster5:(1)
+広さ
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 5
+deleted 1entities.

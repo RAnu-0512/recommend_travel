@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:槻下豪族館跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+槻下豪族館跡, 槻下豪族館, 豪族館跡
+cluster1:(4)
+琴浦町, 東伯郡, 山陰本線浦安駅, 鳥取県
+cluster2:(20)
+家, 詳細, 看板, 何か, 畑, 中, 槻下, こと, JR, 槻下神社, 田園地帯, 竹林, 見学, 昔, 遺構, 近く, 部分, 跡, お金持ち, 場所
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 3
+deleted 0entities.

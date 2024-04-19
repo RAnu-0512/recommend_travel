@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線 白金高輪駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高輪・三田・白金, 白金, 白金高輪
+cluster1:(2)
+都営地下鉄線, 東京メトロ線
+cluster2:(2)
+主体, 印象
+cluster3:(7)
+駅, ほか, 南北線, 三田線, 仕事, 乗り換え, ホーム
+cluster4:(2)
+改札, ホームドア
+cluster5:(1)
+安全面
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

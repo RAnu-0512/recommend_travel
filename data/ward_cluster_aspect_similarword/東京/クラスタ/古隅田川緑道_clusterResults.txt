@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古隅田川緑道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+葛西用水, 小菅地区
+cluster1:(2)
+水路, 水路上
+cluster2:(5)
+利根川, 上, 気持ち, 隅田川, 場所
+cluster3:(2)
+緑, 自然
+cluster4:(1)
+空気
+cluster5:(1)
+中川
+cluster6:(1)
+浄化層
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

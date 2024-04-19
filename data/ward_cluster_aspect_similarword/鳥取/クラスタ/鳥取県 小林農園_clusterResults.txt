@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取県 小林農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+小林農園, 苺, いちご狩り, 苺狩り, 苺農園, イチゴ狩り
+cluster1:(16)
+時期, ちご, ハウス, 肥料, 目, 土産, 春休み, イチゴ, 貸し切り, 帰り際, 期限, 他, 粒, 値段据え置き, いちご, 思い出
+cluster2:(3)
+初体験, 体験, 家族旅行
+cluster3:(1)
+とっておき
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 4
+deleted 0entities.

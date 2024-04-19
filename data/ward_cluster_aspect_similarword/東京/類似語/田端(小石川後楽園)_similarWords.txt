@@ -1,0 +1,9 @@
+--------------------similar_words:田端(小石川後楽園)--------------------
+top3 entities near to cluster0>>
+稲穂, 稲, 田んぼ
+top3 entities near to cluster2>>
+田植え, 稲刈り, 田んぼ
+top3 entities near to cluster3>>
+紅葉, 風景, 園内
+top3 entities near to cluster5>>
+黄門, 光圀, 従官

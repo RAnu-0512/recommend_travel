@@ -1,0 +1,13 @@
+--------------------similar_words:広島市観光案内所(紙屋町シャレオ(地下街)内)--------------------
+top3 entities near to cluster1>>
+中央街, 広場, 中央
+top3 entities near to cluster2>>
+バス, タクシー, 周遊
+top3 entities near to cluster4>>
+駅店, 駅前店, 駅, 駅前
+top3 entities near to cluster5>>
+地元, 中心, 繁華
+top3 entities near to cluster6>>
+方向, 方角
+top3 entities near to cluster7>>
+市電, 市バス, 地下鉄

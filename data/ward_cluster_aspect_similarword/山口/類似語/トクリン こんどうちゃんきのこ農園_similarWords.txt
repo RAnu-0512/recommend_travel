@@ -1,0 +1,15 @@
+--------------------similar_words:トクリン こんどうちゃんきのこ農園--------------------
+top3 entities near to cluster0>>
+たけ, 狩り, うちあい
+top3 entities near to cluster1>>
+体験, 収穫, 体感
+top3 entities near to cluster2>>
+家族, 友達, 友人
+top3 entities near to cluster3>>
+前回, 前々回, 昨年
+top3 entities near to cluster4>>
+店主, 店長, 店員
+top3 entities near to cluster5>>
+人柄, 人徳, 優しい
+top3 entities near to cluster6>>
+厚, 肉, 切りとん

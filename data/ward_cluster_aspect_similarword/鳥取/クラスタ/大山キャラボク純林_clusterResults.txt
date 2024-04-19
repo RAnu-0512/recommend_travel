@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山キャラボク純林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+群落, 群生
+cluster1:(8)
+ダイセンキャラボク, 大山, 裏庭, キャラボク, 場所, 社殿, 日本固有, 天然記念物
+cluster2:(1)
+神山神社奥
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

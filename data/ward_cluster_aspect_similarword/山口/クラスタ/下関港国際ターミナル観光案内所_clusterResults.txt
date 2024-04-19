@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関港国際ターミナル観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+手書き, アーケード, 便, 韓国, フェリー, パンフレット, オススメスポット
+cluster1:(4)
+地元下関, 観光案内所, 下関港, 下関駅
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

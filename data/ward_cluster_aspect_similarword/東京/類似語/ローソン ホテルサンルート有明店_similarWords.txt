@@ -1,0 +1,11 @@
+--------------------similar_words:ローソン ホテルサンルート有明店--------------------
+top3 entities near to cluster0>>
+餅, 団子, 菓子
+top3 entities near to cluster2>>
+ホテル, レストラン, コンビニ
+top3 entities near to cluster4>>
+ビッグ, 都, 都内
+top3 entities near to cluster5>>
+購入, ., 11
+top3 entities near to cluster6>>
+調達品, 食料品, 食料, 調達

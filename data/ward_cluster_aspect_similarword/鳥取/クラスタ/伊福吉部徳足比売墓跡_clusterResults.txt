@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊福吉部徳足比売墓跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+所, 尾根伝い
+cluster1:(1)
+裏
+cluster2:(1)
+岩常山
+cluster3:(1)
+無量光寺
+cluster4:(1)
+伊福吉部徳足比売
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:鞆の浦海水浴場--------------------
+top3 entities near to cluster1>>
+軽食, 売店, 土産物
+top3 entities near to cluster2>>
+島船, 海船, 海, 島
+top3 entities near to cluster3>>
+設備, 施設, 所内
+top3 entities near to cluster5>>
+浸食, 岩, 侵食
+top3 entities near to cluster6>>
+駐車場, 駐車, 施設

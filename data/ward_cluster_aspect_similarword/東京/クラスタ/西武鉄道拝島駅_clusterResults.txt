@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西武鉄道拝島駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+人, 乗り換え, 移動, 西武鉄道
+cluster1:(3)
+駅, JR, 終点
+cluster2:(1)
+改札
+cluster3:(1)
+拝島駅
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

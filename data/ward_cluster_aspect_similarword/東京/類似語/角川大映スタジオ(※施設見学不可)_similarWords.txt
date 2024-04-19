@@ -1,0 +1,13 @@
+--------------------similar_words:角川大映スタジオ(※施設見学不可)--------------------
+top3 entities near to cluster0>>
+大映, 東映, 東宝
+top3 entities near to cluster1>>
+魔神, 大, 魔王
+top3 entities near to cluster2>>
+映画, グッズ, 特撮
+top3 entities near to cluster3>>
+菓子, 土産, お菓子
+top3 entities near to cluster4>>
+駅, 仙川, 南口
+top3 entities near to cluster5>>
+メモ帳, ぴっぴら帳, メモ, ぴっぴら

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島郷海水浴場【令和5年度非開設】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+駐車場, 家駐車場, 無料駐車場, 有料駐車場, 家有料駐車場
+cluster1:(7)
+コラボ, 家, 御用邸, 看板, サンシャイン, 人, 雰囲気
+cluster2:(4)
+付近, 奥, 先, 場所
+cluster3:(2)
+ゴミ, 民間
+cluster4:(1)
+家系
+cluster5:(1)
+東屋
+cluster6:(9)
+海水浴場, 砂浜移動, ラブライブ, ヨハネ聖地, 海岸, 海水浴客, 波, 海, 砂浜
+cluster7:(1)
+穴場感
+cluster8:(2)
+御用邸記念公園, 海岸工事期間
+cluster9:(2)
+夏アニメ幻日, 沼津市
+cluster10:(1)
+牛臥海岸
+
+howmany entities : 35
+howmany clusters : 11
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 10entities.

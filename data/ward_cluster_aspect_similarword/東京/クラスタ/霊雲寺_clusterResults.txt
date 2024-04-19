@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霊雲寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+湯島天満宮, 湯島2丁目, 湯島駅, 文京区
+cluster1:(3)
+堂, 大本堂, 灌頂堂
+cluster2:(5)
+場所, ところ, 仕方, こと, もの
+cluster3:(2)
+コロナ, 真言宗
+cluster4:(3)
+他, 前, 目
+cluster5:(1)
+歴史
+cluster6:(1)
+対策
+cluster7:(11)
+徳川, 仮本堂, 徳川家, 土塀, 本堂, 創建, 鉄筋コンクリート造, 寺, 本尊, 祈願寺, 学寮
+cluster8:(1)
+五代将軍徳川綱吉
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 9
+deleted 0entities.

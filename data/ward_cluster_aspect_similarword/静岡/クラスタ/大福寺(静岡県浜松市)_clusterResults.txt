@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大福寺(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+糸引納豆, 浜名納豆, 納豆菌, 納豆
+cluster1:(2)
+鎌倉, 室町
+cluster2:(6)
+経緯, こと, 受付, 特徴, 場所, 時代
+cluster3:(5)
+大福寺, 真言宗, 大師堂, 仁王門, 弘法大師八十八
+cluster4:(5)
+浜名湖, あちこち, 人, 東名高速道路, オススメ
+cluster5:(5)
+車道, 左側, 朱色, 頭上, 桜
+cluster6:(13)
+伽藍入口, 金剛力士像, 本尊, ヶ所仏像, 山門, 本堂, 境内, 鐘楼, 伽藍, 参道, 寺院, 弘法大師堂, 寺
+cluster7:(6)
+浄土苑, 湖北五山, 瑠璃山, 寺域, 半歳桜, 朱塗り
+cluster8:(7)
+駐車場, 日本庭園, 県指定文化財, 庭園, 宝物館, 池泉庭園, 回遊式
+
+howmany entities : 53
+howmany clusters : 9
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 8
+deleted 2entities.

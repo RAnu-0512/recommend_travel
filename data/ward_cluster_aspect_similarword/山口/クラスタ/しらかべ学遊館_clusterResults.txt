@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しらかべ学遊館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+白壁, 商家, 間口
+cluster1:(2)
+展示, 資料
+cluster2:(2)
+施設, 館内
+cluster3:(1)
+説明パネル
+cluster4:(7)
+町並み, 造り, 奥行き, 途中, 伝統, 歴史, 建物
+cluster5:(2)
+所縁, 偉人
+cluster6:(1)
+町並み散策
+cluster7:(1)
+柳井
+cluster8:(2)
+金魚ちょうちん, 民具
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:行人坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+目黒雅叙園, 抜け道
+cluster1:(1)
+人
+cluster2:(1)
+周囲
+cluster3:(1)
+店
+cluster4:(1)
+東京
+cluster5:(1)
+方面
+cluster6:(1)
+坂
+cluster7:(1)
+目黒駅
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

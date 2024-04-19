@@ -1,0 +1,13 @@
+--------------------similar_words:払沢の滝--------------------
+top3 entities near to cluster1>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster2>>
+バス, バス停, 休日
+top3 entities near to cluster7>>
+人達
+top3 entities near to cluster8>>
+周辺水, 周辺, 周り
+top3 entities near to cluster9>>
+景色, 山道, 斜面
+top3 entities near to cluster10>>
+用水, 選考, 基準

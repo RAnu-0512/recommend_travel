@@ -1,0 +1,87 @@
+--------------------similar_words:渋谷ヒカリエ--------------------
+top3 entities near to cluster0>>
+雰囲気, カンジ, 見応え
+top3 entities near to cluster1>>
+デリカ, レント, テッセン
+top3 entities near to cluster2>>
+テレビ, ショッピング, ウインドウ
+top3 entities near to cluster3>>
+イベント, ライブ, パーティ
+top3 entities near to cluster4>>
+ショー, ショウ, ミー・ラヴ
+top3 entities near to cluster5>>
+スペース, クローク, ホール
+top3 entities near to cluster6>>
+スイーツ, レストラン, カフェ
+top3 entities near to cluster7>>
+コーヒー, カフェ, アイス
+top3 entities near to cluster8>>
+売り場, 売場, スィーツ
+top3 entities near to cluster9>>
+ショップ, セレクト, 通販
+top3 entities near to cluster10>>
+アパレル, ショップ, ファッション
+top3 entities near to cluster11>>
+和菓子, 洋菓子, 手土産
+top3 entities near to cluster12>>
+ランチ, カフェ, デート
+top3 entities near to cluster13>>
+グルメ, コスメ, グルメ・スイーツ
+top3 entities near to cluster14>>
+買い物, 買物, 買いもの
+top3 entities near to cluster15>>
+オススメスポット, イベント, デートスポット
+top3 entities near to cluster16>>
+行き方, 道順, 順路
+top3 entities near to cluster18>>
+値段, 価格, 買う
+top3 entities near to cluster19>>
+購入, 探し, 利用
+top3 entities near to cluster20>>
+発信, 情報, 伝える
+top3 entities near to cluster21>>
+楽しい, 難い, 嬉しい
+top3 entities near to cluster22>>
+女性人, 女性, 子供
+top3 entities near to cluster23>>
+友達, 友人, 同士
+top3 entities near to cluster24>>
+地下, 物産, 地場
+top3 entities near to cluster26>>
+建物, 通路, 館内
+top3 entities near to cluster27>>
+フロア, ルーム, タイム
+top3 entities near to cluster28>>
+コク味, コク, 美味
+top3 entities near to cluster29>>
+料理, 食事, 食材
+top3 entities near to cluster30>>
+時間, 休憩, 期間
+top3 entities near to cluster31>>
+土産, 揃え, 食べ
+top3 entities near to cluster32>>
+惣菜屋, 雑貨屋, 雑貨, 惣菜
+top3 entities near to cluster33>>
+化粧品, 化粧, 品等
+top3 entities near to cluster34>>
+雑貨店, 飲食店, 飲食, 雑貨
+top3 entities near to cluster35>>
+菓子, お菓子, 和洋
+top3 entities near to cluster36>>
+食品, 食材, スーパーマーケット
+top3 entities near to cluster37>>
+施設, 商業, 複合
+top3 entities near to cluster39>>
+会館, 文化, 東急
+top3 entities near to cluster40>>
+高層階, 高層, ビル
+top3 entities near to cluster41>>
+ビル, タワービル, 高層
+top3 entities near to cluster42>>
+上層階, 上層, 地階
+top3 entities near to cluster43>>
+東急線, 東急, 東横線
+top3 entities near to cluster44>>
+繁華街, 商店街, 繁華, 商店
+top3 entities near to cluster45>>
+駅, 駅前, 直結

@@ -1,0 +1,11 @@
+--------------------similar_words:上野動物園 水と氷の回廊--------------------
+top3 entities near to cluster0>>
+ただ今, 中の間, なか
+top3 entities near to cluster1>>
+土水, 土
+top3 entities near to cluster2>>
+水中, 海中, ニーソプラス
+top3 entities near to cluster3>>
+ガラス越し, ガラス, 向こう
+top3 entities near to cluster4>>
+観覧, 泳ぐ, 通路

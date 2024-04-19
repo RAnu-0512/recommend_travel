@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍蔵寺(山口県山口市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+全山, 山口市
+cluster1:(3)
+参拝, 寺, 寺院
+cluster2:(9)
+交通, 秋, イチョウ, 紅葉, 原因, 国, 木, モミジ, 人
+cluster3:(1)
+火刑
+cluster4:(4)
+龍蔵寺, 供養塔, 江戸大火, 八百屋お七
+cluster5:(1)
+中国観音霊場
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

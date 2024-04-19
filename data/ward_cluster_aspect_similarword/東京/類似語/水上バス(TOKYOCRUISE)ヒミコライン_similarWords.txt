@@ -1,0 +1,21 @@
+--------------------similar_words:水上バス(TOKYOCRUISE)ヒミコライン--------------------
+top3 entities near to cluster0>>
+船内, 桟橋
+top3 entities near to cluster1>>
+席, 順番, 人数
+top3 entities near to cluster3>>
+椅子, 階段, 足
+top3 entities near to cluster4>>
+外観, 内部, 景色
+top3 entities near to cluster5>>
+スカイツリーコース, 夜景, スカイツリーオープン
+top3 entities near to cluster6>>
+台場, ススメ, ススメスポット
+top3 entities near to cluster7>>
+零士, 零, 雉明
+top3 entities near to cluster8>>
+台場, 海浜, ビーナスフォート
+top3 entities near to cluster10>>
+銀河, 鉄道, パトロールジャコ
+top3 entities near to cluster12>>
+直通線, 直通, 映画

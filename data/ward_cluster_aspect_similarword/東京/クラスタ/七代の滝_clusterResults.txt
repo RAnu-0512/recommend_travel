@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七代の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+標高差, 粘土質
+cluster1:(2)
+長尾茶屋, 滝壺
+cluster2:(2)
+左方向, 北方向
+cluster3:(2)
+道, 登山道
+cluster4:(13)
+分かれ道, 南側, 壁面, 落差, 気, 距離, 中段, 御岳山, こと, コース, 脇, 目, 分岐
+cluster5:(2)
+雨, 路面
+cluster6:(3)
+勾配, 段差, 階段
+cluster7:(1)
+水量
+cluster8:(7)
+滝, 平場, 渓流, 岩盤, 杉, 岩, 丸太
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 9
+deleted 0entities.

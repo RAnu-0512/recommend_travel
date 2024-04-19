@@ -1,0 +1,23 @@
+--------------------similar_words:壇之浦パーキングエリア(下り線)--------------------
+top3 entities near to cluster0>>
+高速道, 高速, 道路
+top3 entities near to cluster2>>
+大型船, 船舶, 大型
+top3 entities near to cluster3>>
+土産, 売店, 土産物
+top3 entities near to cluster4>>
+飲食, 食事, フード
+top3 entities near to cluster5>>
+施設, 建物, 荷物
+top3 entities near to cluster6>>
+席, テラス, 座席
+top3 entities near to cluster7>>
+ふぐ
+top3 entities near to cluster8>>
+休憩, 駐車, 施設
+top3 entities near to cluster9>>
+西端, 最, 名門
+top3 entities near to cluster13>>
+浦橋, 関門橋, 浦, 関門
+top3 entities near to cluster15>>
+和布, 刈, 払鎌

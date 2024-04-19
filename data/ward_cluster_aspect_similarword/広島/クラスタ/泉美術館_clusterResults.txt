@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:泉美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示物, 展示品
+cluster1:(4)
+彫刻, 画, 洋画, 泉美術館
+cluster2:(2)
+資料, 写真
+cluster3:(2)
+歴史, 年表
+cluster4:(12)
+広島, 父, 日本, ファン, カープファン, 人, カープ, リクエスト, 多く, 美術館, 野球, エクセル
+cluster5:(1)
+東洋カープ
+cluster6:(1)
+須田国太郎
+cluster7:(1)
+───O
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 8
+deleted 0entities.

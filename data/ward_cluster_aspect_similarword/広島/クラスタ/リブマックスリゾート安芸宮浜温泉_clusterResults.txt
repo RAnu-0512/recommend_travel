@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リブマックスリゾート安芸宮浜温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+子供たち, プレゼント, アメニティ, 対応, 口コミ, 台風, スタッフ, 階段, 訪問時間, リフレッシュ
+cluster1:(2)
+風呂, 陶器風呂
+cluster2:(3)
+日帰り温泉, 日帰り入浴, 温泉
+cluster3:(2)
+駐車場, 脱衣所
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

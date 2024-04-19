@@ -1,0 +1,17 @@
+--------------------similar_words:まるよし農園--------------------
+top3 entities near to cluster0>>
+制限, 時間, 制約
+top3 entities near to cluster3>>
+容器
+top3 entities near to cluster5>>
+ゴミ箱, トイレ, 鉢植え
+top3 entities near to cluster6>>
+心遣い, ファン, 気遣い
+top3 entities near to cluster7>>
+イチゴ, いちご, 苺
+top3 entities near to cluster8>>
+赤畑, 赤
+top3 entities near to cluster10>>
+大勢
+top3 entities near to cluster12>>
+苺, イチゴ, いちご

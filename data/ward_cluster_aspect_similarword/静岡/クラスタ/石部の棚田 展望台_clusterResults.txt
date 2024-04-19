@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石部の棚田 展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+富士山, 荒れ野
+cluster1:(2)
+感じ, 肝心
+cluster2:(1)
+強風
+cluster3:(2)
+眺望, 棚田
+cluster4:(1)
+展望台
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

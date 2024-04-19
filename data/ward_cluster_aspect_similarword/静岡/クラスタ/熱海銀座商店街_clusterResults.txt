@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海銀座商店街>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+アーケード商店街, 平和通り商店街, 商店街, 熱海銀座商店街
+cluster1:(5)
+熱海プリン, 熱海温泉, 熱海駅, 糸川遊歩道, 熱海桜
+cluster2:(7)
+商店, 銭湯, 駅, 銀座, 店, 店舗, 宿泊
+cluster3:(10)
+カフェ, プリン, もの, 手, 人, 人通り, 感じ, 中, 雰囲気, イートインスペース
+cluster4:(2)
+話題, 人気
+cluster5:(3)
+地元, 昔, 普通
+cluster6:(1)
+活気
+cluster7:(1)
+固め
+cluster8:(6)
+土産, 干物屋, 干物, 飲食店, 食感, 土産店
+
+howmany entities : 39
+howmany clusters : 9
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 6
+deleted 4entities.

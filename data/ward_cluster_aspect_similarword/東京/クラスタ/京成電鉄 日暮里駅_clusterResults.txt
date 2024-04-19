@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京成電鉄 日暮里駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+場所, 久しぶり, 中国, 京成電鉄, 東京, スカイライナー, 日暮里, 始発, 場合, ホーム, 出張, 移動, 前, 京成上野, 次, 側, 目, 乗り換え, 成田空港
+cluster1:(2)
+京成日暮里駅, 京成スカイライナー
+cluster2:(2)
+上野, 上野駅
+cluster3:(2)
+成田駅, 成田
+cluster4:(6)
+JR, 駅, 京成電鉄日暮里駅, 改札, JR線, 駅構内
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 5
+deleted 0entities.

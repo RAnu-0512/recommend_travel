@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:HURRICANE (ハリケーン)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+六本木, 西麻布
+cluster1:(4)
+雰囲気, コスパ, 交差点, ダイニングバー
+cluster2:(4)
+店, 看板, ビル, 料理
+cluster3:(1)
+渋谷方向
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

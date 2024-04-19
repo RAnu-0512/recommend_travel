@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北村季吟墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歌人, 句, 俳人
+cluster1:(4)
+墓石, 上野公園, 西側, 墓地
+cluster2:(1)
+説明板
+cluster3:(1)
+正慶寺
+cluster4:(2)
+忍小通り沿い, 江戸時代前期
+cluster5:(1)
+都史跡 北村季吟墓
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

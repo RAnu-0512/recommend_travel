@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ有楽町線 池袋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(32)
+池袋駅, 店, 食事, 場所, 地下道, 新木場, 有楽町, ショッピング, 有楽町線, 丸ノ内線, 他, 西側, 乗り換え口, 場合, 路線, 駅, 東武, 改札, メトロ, 買い物, 銀座, 時間, 初乗り料金, こと, オレンジロード, 道, 東京メトロ, 問題, 有楽町駅, 乗車料金, 乗り継ぎ, 乗り換え
+cluster1:(11)
+丸の線, メトロ線, 山手線, 副都心線, JR, 西武池袋線, 改札外乗換, 丸の内線, JR線, JR池袋駅, 東武東上線
+
+howmany entities : 43
+howmany clusters : 2
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:旧警察署--------------------
+top3 entities near to cluster0>>
+時代, 幕府, 天領
+top3 entities near to cluster1>>
+建物, 家々, 町並み
+top3 entities near to cluster2>>
+代官屋, 代官, さま
+top3 entities near to cluster3>>
+警察署, 警察, 交番

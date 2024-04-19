@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石廊権現>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石室神社岩, 石室神社
+cluster1:(2)
+駐車場, 交通安全
+cluster2:(2)
+参拝, 参道
+cluster3:(3)
+神社, 宮司, 祭神
+cluster4:(4)
+登り, 床, 階段, 靴
+cluster5:(14)
+石廊崎, 船, タイトル, 縁結び, ガラス, 守り神, 神, 太平洋, 社, オヤシロ, 先端, 断崖絶壁, オーシャン, 伊豆半島
+cluster6:(10)
+方, もの, 趣, 意外, 中, 先, 場所, 環境, 風, 価値
+cluster7:(4)
+強風, 荒波, 突風, 台風
+cluster8:(5)
+灯台, 石室, 奇岩, 絶景, 岩窟
+cluster9:(1)
+伊波例命
+
+howmany entities : 47
+howmany clusters : 10
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 6
+deleted 7entities.

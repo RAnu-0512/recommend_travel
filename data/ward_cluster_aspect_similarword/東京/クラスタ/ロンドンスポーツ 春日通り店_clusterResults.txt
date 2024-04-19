@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ロンドンスポーツ 春日通り店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+スタッフ, アメ横, ワゴンセール, スポーツウェア, シューズ, ハーフパンツ, ジュエン, タイムセール, 息子, 掘り出し物, ウェア, 外, 物, ロンドンスポーツ, Tシャツ, 横
+cluster1:(2)
+上野, アメ
+cluster2:(3)
+格安スポーツ用品店, 激安, スポーツ用品
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

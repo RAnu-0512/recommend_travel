@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加茂川・中海遊覧>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+船, 道, 方, カモメ, オブジェ, 電話, 宿, 念, 確認, 天候
+cluster1:(3)
+大山, 三平, 中海
+cluster2:(3)
+休憩所, 遊覧船, 乗船場
+cluster3:(1)
+河童のかん平
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

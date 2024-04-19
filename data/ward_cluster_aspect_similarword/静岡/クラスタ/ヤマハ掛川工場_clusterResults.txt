@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヤマハ掛川工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+静岡県, 掛川工場, 掛川市, 掛川工場グランドピアノ
+cluster1:(9)
+こと, 現代, もの, 人, 技術, グループ, 場所, グランド, テクノロジー
+cluster2:(6)
+グランドピアノ, 楽器, ヤマハピアノ, ヤマハ, ピアノ, 歴史ヤマハ
+cluster3:(1)
+(o
+cluster4:(9)
+工場見学, 見学, ピアノ工場, 製造工程, 伝統技能, 工場, 製作過程, 製造, 過程
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 1entities.

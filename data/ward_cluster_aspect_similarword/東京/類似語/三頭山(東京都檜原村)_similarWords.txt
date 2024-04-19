@@ -1,0 +1,25 @@
+--------------------similar_words:三頭山(東京都檜原村)--------------------
+top3 entities near to cluster0>>
+ご飯, 小皿, 椅子
+top3 entities near to cluster1>>
+景色, 景観, 風景
+top3 entities near to cluster2>>
+禁止, 傾斜, 勾配
+top3 entities near to cluster3>>
+コース, ハイキング, 日帰り
+top3 entities near to cluster4>>
+吸い物, 塩焼き, 煮付け
+top3 entities near to cluster6>>
+マイカー, ハイキング, テーブル
+top3 entities near to cluster7>>
+小学校, 子ども, 子供
+top3 entities near to cluster8>>
+初心者, ビギナー, 初級
+top3 entities near to cluster11>>
+都民, 都, 檜原
+top3 entities near to cluster12>>
+登山, 山登り, ハイキング
+top3 entities near to cluster13>>
+山菜, 野菜, 天ぷら
+top3 entities near to cluster14>>
+山, 山頂, 麓

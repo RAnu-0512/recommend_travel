@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:BISLEY COMBO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イギリス, オシャレ
+cluster1:(1)
+日本
+cluster2:(1)
+家
+cluster3:(1)
+家具
+cluster4:(1)
+代理店
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

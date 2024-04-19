@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リトルプラネット ららぽーと沼津>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供達, 子さん
+cluster1:(2)
+店舗, 規模
+cluster2:(3)
+こと, 対応, 範囲
+cluster3:(1)
+感
+cluster4:(3)
+母さん, 遊び方, 父さん
+cluster5:(3)
+息子, 子供, 子ども
+cluster6:(1)
+体
+cluster7:(1)
+雨
+cluster8:(1)
+学年
+cluster9:(1)
+砂場
+cluster10:(1)
+リピ
+cluster11:(1)
+時期室内遊び場
+
+howmany entities : 20
+howmany clusters : 12
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 11entities.

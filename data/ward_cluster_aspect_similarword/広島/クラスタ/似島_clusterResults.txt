@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:似島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+南区, 似島, 安芸, 広島市, 宇品, 広島港, 宇品港
+cluster1:(2)
+みかん狩り, みかん取り
+cluster2:(4)
+途中, 市, 時間, 場所
+cluster3:(2)
+日本, 各地
+cluster4:(2)
+季節, 夏
+cluster5:(15)
+フェリー, 姿, 海水浴, キャンプ, 山登り, ところ, 疲れ, 小富士, 人, 家族, 気持ち, 富士山, 江田島, 魚釣り, 潮干狩り
+cluster6:(3)
+人口, キャンプ場, 空気
+cluster7:(12)
+釣り, 島, 富士, 堤防, 登山, 海, 潮風, 山, 島めぐり, 緑, 自然, 海上
+cluster8:(1)
+陵線
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 9
+deleted 0entities.

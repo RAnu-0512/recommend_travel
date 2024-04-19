@@ -1,0 +1,85 @@
+--------------------similar_words:伊東温泉--------------------
+top3 entities near to cluster0>>
+タオル, おもちゃ, スリッパ
+top3 entities near to cluster2>>
+チョイス, インパクト, イメージ
+top3 entities near to cluster3>>
+帰りがけ, おまけ, 帰り際
+top3 entities near to cluster5>>
+アトラクション, サービス, スタッフ
+top3 entities near to cluster7>>
+レストラン, カフェ, 遊歩道
+top3 entities near to cluster8>>
+コロナ, 伊藤園, コーヒー
+top3 entities near to cluster9>>
+ホテル, フロント, アンダ
+top3 entities near to cluster10>>
+ホタテ, うなぎ, イルカ
+top3 entities near to cluster12>>
+タウン, 今夜, 今晩
+top3 entities near to cluster13>>
+風情, 景色, 風景
+top3 entities near to cluster15>>
+対応, 世話, 移動
+top3 entities near to cluster17>>
+満足, 実感
+top3 entities near to cluster18>>
+印象, 影響, 疑問
+top3 entities near to cluster20>>
+期待, 外れ, 狙い
+top3 entities near to cluster22>>
+遊覧船, 船上, 遊覧
+top3 entities near to cluster23>>
+海, 海辺, 海岸
+top3 entities near to cluster24>>
+肩手, 足手, 足, 肩
+top3 entities near to cluster25>>
+身体, 肌
+top3 entities near to cluster27>>
+神, 幸運, 文句
+top3 entities near to cluster28>>
+夏風, 屋外, 夏
+top3 entities near to cluster29>>
+利用, 予約, 人数
+top3 entities near to cluster30>>
+天候, 体調, 天気
+top3 entities near to cluster32>>
+バス車, 送迎車, バス, 送迎
+top3 entities near to cluster33>>
+駅線, 駅, 駅前線, 駅前
+top3 entities near to cluster34>>
+近辺, 周辺
+top3 entities near to cluster35>>
+椅子, 席, 座席
+top3 entities near to cluster36>>
+品数, 店舗
+top3 entities near to cluster37>>
+部屋, 寝室, 廊下
+top3 entities near to cluster38>>
+家族, 子供, 子ども
+top3 entities near to cluster39>>
+食事, 夕食, 軽食
+top3 entities near to cluster41>>
+町, 温泉, 湯
+top3 entities near to cluster44>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster47>>
+菓子屋, 雑貨屋, 菓子, 雑貨
+top3 entities near to cluster48>>
+餌, エサ, えさ
+top3 entities near to cluster49>>
+魚類, サカナ
+top3 entities near to cluster50>>
+海鮮, 魚介, 刺身
+top3 entities near to cluster53>>
+歩き, 散策
+top3 entities near to cluster54>>
+源泉, 温泉, 湯量
+top3 entities near to cluster55>>
+旅館, 民宿, 宿
+top3 entities near to cluster56>>
+風呂, 入浴, 銭湯
+top3 entities near to cluster57>>
+花火, 大会, 祭り
+top3 entities near to cluster59>>
+風情, 雰囲気

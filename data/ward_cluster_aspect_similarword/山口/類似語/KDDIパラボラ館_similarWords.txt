@@ -1,0 +1,15 @@
+--------------------similar_words:KDDIパラボラ館--------------------
+top3 entities near to cluster0>>
+入場料, 入場, 入館料, 入館
+top3 entities near to cluster1>>
+館, 資料, 館内
+top3 entities near to cluster2>>
+通信, 受付, 予約
+top3 entities near to cluster3>>
+子供, 子ども, 大人
+top3 entities near to cluster4>>
+寄り道, 帰り道
+top3 entities near to cluster6>>
+庭, 裏庭, 庭先
+top3 entities near to cluster7>>
+範囲, 範疇, 許容

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リトルプラネット ダイバーシティ東京 プラザ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+フリーパス, チームラボ
+cluster1:(3)
+年中, 息子, 孫
+cluster2:(12)
+ゲーム, スタッフ, 子ども, 出入り口, ボール, 遊び, 感じ, 砂遊び, ボールプール, 遊び場, 買い物, 方
+cluster3:(2)
+規模, ミニチュア版
+cluster4:(1)
+砂場
+cluster5:(1)
+小さなお子
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

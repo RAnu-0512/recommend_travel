@@ -1,0 +1,19 @@
+--------------------similar_words:小田急電鉄町田駅--------------------
+top3 entities near to cluster1>>
+性格, 口調, 具合
+top3 entities near to cluster2>>
+人生, 教育, 妊婦
+top3 entities near to cluster3>>
+周辺店, 人達, 周辺
+top3 entities near to cluster4>>
+景色, 風景
+top3 entities near to cluster5>>
+お客, 乗客, 顧客
+top3 entities near to cluster6>>
+床, 椅子, 眩暈
+top3 entities near to cluster7>>
+時代, 学生
+top3 entities near to cluster8>>
+入荷待ち, 入荷, 待つ
+top3 entities near to cluster9>>
+駅, 駅前, 構内

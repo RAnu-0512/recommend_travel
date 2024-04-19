@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふくろうカフェ地球>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(34)
+別料金, 店員, 服, 主人, コ, 予定時間, 威嚇, こと, 性格, 貸し切り状態, 子, 看板, デス, 写真, もの, 個体, 手, 駅, 店, 注文, 時間, 子たち, 子供フクロウ, 気性, 電話, 声, 腕, 違い, 匂い, 話, 人達, 他, 間, 方
+cluster1:(4)
+カフェ, カワイイふくろう, ふくろうカフェ, うさぎ
+cluster2:(2)
+姉さん, 気持ち
+cluster3:(9)
+リクガメ, オカメインコ, ミミズク, フクロウ, ココア, ドリンク, スタート, オーナー, 我が家
+cluster4:(1)
+オウム
+cluster5:(1)
+鳴き声
+cluster6:(1)
+アップルティー
+cluster7:(8)
+カメ, 猫, 鳥, 白フクロウ, タカ, 羅, フン, 犬
+cluster8:(4)
+シャボテン公園, 動物たち, 動物, 雌雄
+cluster9:(1)
+猛禽のお家
+cluster10:(1)
+゚Д゚
+
+howmany entities : 66
+howmany clusters : 11
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 5
+deleted 7entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:穴八幡宮--------------------
+top3 entities near to cluster0>>
+本殿, 神社, 境内
+top3 entities near to cluster1>>
+参拝, 朱印, 御朱印
+top3 entities near to cluster2>>
+行列, 繁盛, 商売
+top3 entities near to cluster3>>
+禰宜, 権利
+top3 entities near to cluster4>>
+開始, 頒布, 時期
+top3 entities near to cluster6>>
+亀, 吉宗, 家康
+top3 entities near to cluster7>>
+駅, 駅前, 早稲田
+top3 entities near to cluster8>>
+生誕, 復, 冬至
+top3 entities near to cluster11>>
+参道, 出入り口, 道路
+top3 entities near to cluster13>>
+五, 七, 三

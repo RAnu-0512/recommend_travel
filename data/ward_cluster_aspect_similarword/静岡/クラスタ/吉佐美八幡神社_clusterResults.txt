@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉佐美八幡神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+伊豆, 下田駅, 田牛, 下田
+cluster1:(4)
+巨木, 神社, 本堂, 境内
+cluster2:(6)
+撮影, 車, 帰り道, たまたまここ, イスノキ, 写真仲間
+cluster3:(2)
+八幡神社, 鳥居越し
+cluster4:(1)
+静寂感
+cluster5:(1)
+龍宮窟
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 4entities.

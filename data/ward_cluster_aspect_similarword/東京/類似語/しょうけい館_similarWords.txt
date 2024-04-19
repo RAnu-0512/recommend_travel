@@ -1,0 +1,19 @@
+--------------------similar_words:しょうけい館--------------------
+top3 entities near to cluster0>>
+展示, 入場, 見学
+top3 entities near to cluster1>>
+数々, 家族, 様々
+top3 entities near to cluster2>>
+戦争, 証言, 開戦
+top3 entities near to cluster3>>
+品々, 品物, 物品
+top3 entities near to cluster4>>
+皇居, 東宮御所, 吹上御苑
+top3 entities near to cluster5>>
+番組, 情報, 放送
+top3 entities near to cluster6>>
+館, 本館, 開館
+top3 entities near to cluster7>>
+企画展, 企画, 冊子
+top3 entities near to cluster8>>
+病者, 戦傷, 史料

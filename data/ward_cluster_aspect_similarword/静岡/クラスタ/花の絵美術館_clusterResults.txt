@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花の絵美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+庭, お花, 花, 植物
+cluster1:(3)
+土産, 館内, 立地
+cluster2:(3)
+テーマ, ところ, オススメ
+cluster3:(2)
+ポーチ, カバー
+cluster4:(1)
+美術館
+cluster5:(6)
+こと, 人, 時間, 内容, 話, 方
+cluster6:(1)
+仕上がりなり
+cluster7:(6)
+絵, 体験, 生徒, 技法, 額, 先生
+cluster8:(1)
+絶滅危惧種
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 5entities.

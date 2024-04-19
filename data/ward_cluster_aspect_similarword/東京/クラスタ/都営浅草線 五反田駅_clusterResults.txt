@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営浅草線 五反田駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松平家屋敷, 島津家本邸
+cluster1:(3)
+大名屋敷跡地めぐり, 柳生家屋敷跡, 三日月家屋敷跡
+cluster2:(23)
+五反田駅, 品川区, エスカレーター, 山手線, 東急池上線, 備前池田, 島津山, 池田山公園, 浅草線, 跡地, 東急線, 工事, ホーム, 駅, 改札, 皇后美智子, 池上, 高台, ドトール, 清泉女子大学, ねむの木の庭公園, 乗り換え, 階段
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 3
+deleted 0entities.

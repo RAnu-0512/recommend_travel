@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:地鉈温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+茶色, 足場, 雨, 所, 場所, 岩場, 気持ち, 価値, 絶景, 水着, 服, 坂, 海岸沿い, 海, 体, 岩, 潮, シュノーケリング
+cluster1:(9)
+地鉈温泉, お湯, 加減, 海水温泉, 天然温泉, 温泉, 湯加減, 湯, 泉質
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 2
+deleted 0entities.

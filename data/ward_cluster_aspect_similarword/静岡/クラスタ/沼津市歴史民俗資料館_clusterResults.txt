@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津市歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史民俗資料館, 沼津市歴史民俗資料館
+cluster1:(2)
+御用邸公園入園, 沼津御用邸記念公園
+cluster2:(3)
+沼津, 御用邸, 御用邸公園
+cluster3:(2)
+入場, 割引
+cluster4:(3)
+スタンプ, イラスト, Dia
+cluster5:(2)
+昔, 近く
+cluster6:(2)
+奥, 海
+cluster7:(4)
+道具, 資料, 歴史, 生活
+cluster8:(1)
+漁
+cluster9:(1)
+生活用具
+cluster10:(4)
+沼津歴史展示パネル, JR東海コラボスタンプ, 菊展, 資料館
+
+howmany entities : 26
+howmany clusters : 11
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 4
+deleted 12entities.

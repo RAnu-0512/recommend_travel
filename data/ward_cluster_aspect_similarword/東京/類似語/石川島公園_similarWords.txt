@@ -1,0 +1,11 @@
+--------------------similar_words:石川島公園--------------------
+top3 entities near to cluster0>>
+景色, 季節, 散策
+top3 entities near to cluster2>>
+川沿い, 川, 河畔
+top3 entities near to cluster3>>
+公園, 水辺, 河川
+top3 entities near to cluster5>>
+花火, 大会, 打ち上げ花火
+top3 entities near to cluster6>>
+区立, 公園, 市立

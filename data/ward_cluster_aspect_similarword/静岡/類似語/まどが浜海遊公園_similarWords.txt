@@ -1,0 +1,19 @@
+--------------------similar_words:まどが浜海遊公園--------------------
+top3 entities near to cluster0>>
+海, 海辺, 潮風
+top3 entities near to cluster1>>
+国道, 駅, 道路
+top3 entities near to cluster2>>
+隣, お隣, 隣り
+top3 entities near to cluster3>>
+子供
+top3 entities near to cluster4>>
+時間, 半年分, 半年
+top3 entities near to cluster6>>
+気分, 景色, 雰囲気
+top3 entities near to cluster7>>
+公園, 散歩, 遊具
+top3 entities near to cluster8>>
+休憩場, 休憩, 駐車場, 駐車
+top3 entities near to cluster9>>
+港, 海, 浜

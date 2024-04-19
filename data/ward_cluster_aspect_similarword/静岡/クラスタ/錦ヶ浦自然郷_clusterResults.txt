@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:錦ヶ浦自然郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+熱海, 錦織, 初島
+cluster1:(3)
+周辺, 付近, 辺り
+cluster2:(7)
+アカオ, ホテル, 錦ヶ浦, ロケーション, 断崖絶壁, サンビーチ, ニューアカオ
+cluster3:(3)
+途中, 仕様, 場所
+cluster4:(2)
+うち, 方
+cluster5:(2)
+すごさ, 感じ
+cluster6:(1)
+物
+cluster7:(3)
+景色, 海, 風
+cluster8:(2)
+岩, 絶壁
+cluster9:(3)
+帽子, 着物, 電灯
+cluster10:(1)
+しぜん
+cluster11:(1)
+展望台
+
+howmany entities : 31
+howmany clusters : 12
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 6
+deleted 9entities.

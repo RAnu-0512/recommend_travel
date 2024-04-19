@@ -1,0 +1,23 @@
+--------------------similar_words:道の駅 みはら神明の里--------------------
+top3 entities near to cluster0>>
+しまなみ, しま, 海道
+top3 entities near to cluster2>>
+駐車場, 駐車, 満車
+top3 entities near to cluster3>>
+特産, 水産物, 農林
+top3 entities near to cluster5>>
+移動, 訪問, 販売
+top3 entities near to cluster6>>
+夕方, 頃, 昼
+top3 entities near to cluster7>>
+態度, 勤務, 言動
+top3 entities near to cluster8>>
+景色, 眺望, 絶景
+top3 entities near to cluster9>>
+売店, 名物, 土産
+top3 entities near to cluster10>>
+眼下, 窓, 高台
+top3 entities near to cluster11>>
+キャンピング, 乗用車, クルマ
+top3 entities near to cluster12>>
+海鮮, 鮮魚, 野菜

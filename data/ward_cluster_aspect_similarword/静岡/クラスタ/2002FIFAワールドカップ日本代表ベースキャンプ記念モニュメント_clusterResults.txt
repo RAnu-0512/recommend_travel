@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:2002FIFAワールドカップ日本代表ベースキャンプ記念モニュメント>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ワールドカップ, 選手, JR, サイン, トルシエ
+cluster1:(3)
+静岡県, 磐田駅, 磐田市
+cluster2:(1)
+ゆめりあ球技場
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 1entities.

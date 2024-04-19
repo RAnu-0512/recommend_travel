@@ -1,0 +1,21 @@
+--------------------similar_words:染の里 二葉苑--------------------
+top3 entities near to cluster0>>
+染, 体験, 泥
+top3 entities near to cluster1>>
+体験, 見学, 体感
+top3 entities near to cluster2>>
+体験, 染色
+top3 entities near to cluster3>>
+大きい, 凄, 凄まじい
+top3 entities near to cluster4>>
+更紗, 裂取, 型染め
+top3 entities near to cluster5>>
+幅帯, 幅, 駅
+top3 entities near to cluster7>>
+職人, 工房, 尽絵
+top3 entities near to cluster8>>
+工程, 作業, 手作業
+top3 entities near to cluster9>>
+染物, 型紙, 染め物
+top3 entities near to cluster10>>
+色合い

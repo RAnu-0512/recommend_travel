@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Kawasaki Robostage(カワサキ ロボステージ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+台場, 東京ロボットセンター
+cluster1:(6)
+川崎重工業, ショールーム, 勉強, 方法, ロボット, 階段
+cluster2:(1)
+入場無料
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾道国際ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+櫃まぶし, ひつまぶし
+cluster1:(2)
+気持ち, かんじ
+cluster2:(2)
+ランチ, ホテル
+cluster3:(5)
+ドリンク, ドリンクバー, オードブル, ポイント, スタッフ
+cluster4:(2)
+代わり, メイン
+cluster5:(1)
+ソース
+cluster6:(4)
+大盛り, 天ぷら, ホタテ, おかず
+cluster7:(1)
+コースメニュー
+cluster8:(4)
+対応, 気, 感じ, 笑
+cluster9:(20)
+穴子, そば, 味, 鰻, パン, 紅葉, 友達, 料理, 食べ方, 夫婦, 小鉢, 量, 茶, 海, 身体, 食事, 米, 景色, 一品, 値段
+cluster10:(1)
+コロナ禍
+cluster11:(1)
+高級感
+cluster12:(1)
+耕三寺
+
+howmany entities : 46
+howmany clusters : 13
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 13
+deleted 0entities.

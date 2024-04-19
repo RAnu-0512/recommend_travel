@@ -1,0 +1,15 @@
+--------------------similar_words:小金井公園の桜--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+桜, 八重桜, 花見
+top3 entities near to cluster3>>
+子ども, 子供, 家族
+top3 entities near to cluster4>>
+バス車, バス, 地図
+top3 entities near to cluster6>>
+取る, 取っ
+top3 entities near to cluster7>>
+人数, 大, 規模
+top3 entities near to cluster8>>
+写, も写, メゲット

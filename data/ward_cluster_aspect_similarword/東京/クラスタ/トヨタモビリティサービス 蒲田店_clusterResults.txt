@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタモビリティサービス 蒲田店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+蒲田駅, 蒲田店, 飲食店, トヨタレンタリース東京蒲田店
+cluster1:(3)
+感じ, アクセス方法, 印象
+cluster2:(8)
+ホテル, カーナビ, スノボ, レンタカー, 近く, 右, 店員, タクシー
+cluster3:(5)
+西口, 西口ロータリー, 駅, 東京駅, 徒歩
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

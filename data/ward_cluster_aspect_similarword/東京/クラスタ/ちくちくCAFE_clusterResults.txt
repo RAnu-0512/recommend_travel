@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ちくちくCAFE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+触り方, 長さ
+cluster1:(22)
+てる子, 食べる子, ドールハウス, ハリネズミ, エサ, ポイント, 顔, 手, 店員, 芸能人, テレビ, 餌, 子, オプション, 受付, サイン, 反応, 説明, ハリネズミくん, 消費, システム, 動物カフェ
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧マッケンジー住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三保, 松原
+cluster1:(4)
+車, バス, 徒歩, 輸出
+cluster2:(4)
+庭, 建物, 場所, 洋館
+cluster3:(8)
+気, 妻, マッケンジー, キッチン, 日本, ヴォーリズ, 方, 見応え
+cluster4:(2)
+静岡, 茶
+cluster5:(5)
+駐車場, 国道, イチゴ街道, 海岸沿い, 道
+cluster6:(4)
+住宅建築, 住宅, 建築家, JR静岡駅
+cluster7:(1)
+国登録有形文化財・旧マッケンジー
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 5entities.

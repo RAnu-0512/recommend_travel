@@ -1,0 +1,19 @@
+--------------------similar_words:千代田区立日比谷図書文化館--------------------
+top3 entities near to cluster0>>
+展示, 常設展, 常設
+top3 entities near to cluster1>>
+国立, 区, 区内
+top3 entities near to cluster2>>
+各階, 順路, 地下
+top3 entities near to cluster3>>
+図書館, 図書, 書庫
+top3 entities near to cluster4>>
+書物, 歴史, 古文書
+top3 entities near to cluster5>>
+地形, 鉄道, 公園
+top3 entities near to cluster6>>
+宿題, 子供, 学校
+top3 entities near to cluster7>>
+展示, 見学, 出展
+top3 entities near to cluster8>>
+区立, 図書, 文化

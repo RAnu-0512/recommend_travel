@@ -1,0 +1,19 @@
+--------------------similar_words:THE HAMANAKO--------------------
+top3 entities near to cluster0>>
+料理, 食事, 夕食
+top3 entities near to cluster2>>
+ランチ, ホテル, ディナー
+top3 entities near to cluster3>>
+ホテル, サウナ, プール
+top3 entities near to cluster4>>
+日, 月, 年
+top3 entities near to cluster5>>
+友達, 友人
+top3 entities near to cluster7>>
+中華, 茶, 屋内
+top3 entities near to cluster9>>
+宿泊, 施設, 滞在
+top3 entities near to cluster11>>
+風呂, 湯船, 入浴
+top3 entities near to cluster14>>
+温泉, 露天風呂, 湯

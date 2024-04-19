@@ -1,0 +1,11 @@
+--------------------similar_words:めぐろパーシモンホール--------------------
+top3 entities near to cluster0>>
+都立, 大学, 高校
+top3 entities near to cluster2>>
+区立, 区民, 区役所
+top3 entities near to cluster3>>
+演奏会, 講演会, 演奏, 講演
+top3 entities near to cluster4>>
+駅, 公園, 駅前
+top3 entities near to cluster6>>
+施設, 学校, 音楽

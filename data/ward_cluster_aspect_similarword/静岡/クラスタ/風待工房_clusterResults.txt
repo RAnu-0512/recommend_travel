@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:風待工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+骨董品, 古民家
+cluster1:(15)
+趣, ペリーロード, 静岡県, 店, 茶, 妻, 疲れ, 外観, 旅, 旅行, 下田, カフェ, 名所, 紫陽花公園, 伊豆半島
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 2entities.

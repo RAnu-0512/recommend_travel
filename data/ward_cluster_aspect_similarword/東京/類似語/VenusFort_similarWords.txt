@@ -1,0 +1,67 @@
+--------------------similar_words:VenusFort--------------------
+top3 entities near to cluster0>>
+シーズン, ライブ, クリスマス
+top3 entities near to cluster1>>
+アニメ, ドラマ, ゲーム
+top3 entities near to cluster2>>
+ショップ, アパレル, ファッション
+top3 entities near to cluster3>>
+ランチ, カフェ, スタバ
+top3 entities near to cluster4>>
+買い物, バーゲン, セール
+top3 entities near to cluster5>>
+女の子, おもちゃ, 男の子
+top3 entities near to cluster6>>
+レストラン, イタリアン, カフェ
+top3 entities near to cluster7>>
+ダブル, ライト, アーチ
+top3 entities near to cluster8>>
+メイン, メーン, サブ
+top3 entities near to cluster9>>
+スペース, イベント, ブース
+top3 entities near to cluster10>>
+フロア, 各階, 地階
+top3 entities near to cluster11>>
+エリア, ショッピング, モール
+top3 entities near to cluster12>>
+カジノ, ペット, パーク
+top3 entities near to cluster13>>
+コート, フード, パンツ
+top3 entities near to cluster15>>
+空間, 異国
+top3 entities near to cluster16>>
+時間, 土日, 休憩
+top3 entities near to cluster18>>
+写真, 撮影, 展示
+top3 entities near to cluster19>>
+照明, 演出, 音響
+top3 entities near to cluster20>>
+館内, 店内, 場内
+top3 entities near to cluster21>>
+天井, 通路, 壁面
+top3 entities near to cluster22>>
+建物, 内装, 教会
+top3 entities near to cluster23>>
+閉館, 開館, 休館
+top3 entities near to cluster24>>
+子供, デート, 家族
+top3 entities near to cluster25>>
+野菜, 肉, 動物
+top3 entities near to cluster26>>
+品等, 品物
+top3 entities near to cluster27>>
+値段
+top3 entities near to cluster28>>
+駅前, 夕方, 繁華
+top3 entities near to cluster29>>
+内観, 外観, 観想
+top3 entities near to cluster30>>
+屋内, 施設, 屋外
+top3 entities near to cluster31>>
+席, 駐車, 観覧
+top3 entities near to cluster32>>
+台場, ビーナスフォート, レンボーブリッジ
+top3 entities near to cluster33>>
+広場, 噴水, ナボーナ
+top3 entities near to cluster34>>
+洋服店, 洋服, 友達

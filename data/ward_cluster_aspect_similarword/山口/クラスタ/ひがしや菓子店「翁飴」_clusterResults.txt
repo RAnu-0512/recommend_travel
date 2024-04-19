@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ひがしや菓子店「翁飴」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+寒天, 菓子, 水飴, 砂糖
+cluster1:(6)
+甘さ, 切り口, 材料, コク, 子供受け, 独特
+cluster2:(1)
+透明感
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

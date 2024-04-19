@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮島包ヶ浦自然公園キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+複合施設, 入浴施設
+cluster1:(18)
+トイレ, 海水浴, キャンプ, 中, ロープウェー, ケビン, 友達, 人, 五重塔, 多く, ビーチ, バーベキュー, 家族, 戸建てキャビン, 日帰り, 場所, 自然, 夏
+cluster2:(4)
+施設, レンタル品, 宿泊, 設備
+cluster3:(2)
+キャンプ場, 空気
+cluster4:(2)
+山々, 庭園
+cluster5:(1)
+家族連れ
+cluster6:(1)
+宮島町
+cluster7:(1)
+───O
+cluster8:(1)
+宮島包ヶ浦自然公園
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 9
+deleted 0entities.

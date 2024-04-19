@@ -1,0 +1,33 @@
+--------------------similar_words:一の俣温泉観光ホテル--------------------
+top3 entities near to cluster0>>
+泉質, 高品質, 泉, 高品
+top3 entities near to cluster1>>
+ホテル, 口コミ, ホテルスーパーホテル
+top3 entities near to cluster2>>
+露天風呂, アメニティ, スタッフ
+top3 entities near to cluster4>>
+気持ち, 気持, キモチ
+top3 entities near to cluster5>>
+ロビー, 洗面所, サニタリールーム
+top3 entities near to cluster6>>
+うどん, 饂飩, 鍋焼
+top3 entities near to cluster7>>
+手入れ, メンテナンス, ブラッシング
+top3 entities near to cluster8>>
+サウナ, メイクアップフォト, アウフグース
+top3 entities near to cluster10>>
+食事, 家族, 訪問
+top3 entities near to cluster12>>
+夫妻, 友人, 知人
+top3 entities near to cluster13>>
+状態, 貸切, 貸し切り
+top3 entities near to cluster14>>
+お湯, 湯, 温泉
+top3 entities near to cluster15>>
+浴室, 風呂, 浴槽
+top3 entities near to cluster16>>
+内湯, 内風呂, 沸かし湯
+top3 entities near to cluster17>>
+温度, 肌, 睡眠
+top3 entities near to cluster18>>
+温泉, 入浴, 風呂

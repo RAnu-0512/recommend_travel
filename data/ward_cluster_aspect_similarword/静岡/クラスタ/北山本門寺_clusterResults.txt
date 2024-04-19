@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北山本門寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日蓮正宗, 日蓮上人
+cluster1:(2)
+それぞれ, 直弟子
+cluster2:(4)
+久遠寺, 大石寺, 日蓮宗, 身延山
+cluster3:(1)
+話
+cluster4:(1)
+寺
+cluster5:(1)
+本山
+cluster6:(1)
+富士宮市
+cluster7:(4)
+日興, 宗派, 日蓮, 宗祖
+cluster8:(1)
+駐車場
+
+howmany entities : 17
+howmany clusters : 9
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 9entities.

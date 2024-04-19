@@ -1,0 +1,11 @@
+--------------------similar_words:福山観光案内所--------------------
+top3 entities near to cluster2>>
+改札口, 改札, コンコース
+top3 entities near to cluster3>>
+案内, 所内, 受付
+top3 entities near to cluster4>>
+資料類, 資料, 職員
+top3 entities near to cluster5>>
+駅, 通路, 地図
+top3 entities near to cluster6>>
+易, やす, 易い

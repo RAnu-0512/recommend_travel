@@ -1,0 +1,27 @@
+--------------------similar_words:お宮の松--------------------
+top3 entities near to cluster1>>
+オブジェ, シンボル, 名物
+top3 entities near to cluster3>>
+木, 土, 明治
+top3 entities near to cluster5>>
+夕方, 昼間, 週末
+top3 entities near to cluster7>>
+近所, 隣, お隣
+top3 entities near to cluster9>>
+大勢, 人達
+top3 entities near to cluster11>>
+銅像, 石碑
+top3 entities near to cluster13>>
+文学, 公園, 映画
+top3 entities near to cluster14>>
+記念, 写真, 撮影
+top3 entities near to cluster15>>
+撮影, 写真, 撮る
+top3 entities near to cluster17>>
+写真, 撮っ, 画像
+top3 entities near to cluster25>>
+海岸沿い, 海岸, 海沿い
+top3 entities near to cluster27>>
+道路沿い, 国道, 道路
+top3 entities near to cluster29>>
+松, お宮, 夜叉

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブルーポート・スパ・ザ・BOON>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+途中, 人達, 人気, 太平洋, 八丈島, 海, 島民, 中, サウナ, 全て
+cluster1:(2)
+浴槽, 冷水
+cluster2:(2)
+観光, 温泉
+cluster3:(3)
+設備, 館内, 施設
+cluster4:(1)
+眺望
+cluster5:(5)
+入浴客, のは温泉, 入浴, 路線バス, 宿泊施設
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

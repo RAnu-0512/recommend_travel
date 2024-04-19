@@ -1,0 +1,13 @@
+--------------------similar_words:荒川知水資料館amoa--------------------
+top3 entities near to cluster1>>
+資料, 展示, 館
+top3 entities near to cluster2>>
+水槽, 水門
+top3 entities near to cluster3>>
+洪水, 被害, 水害
+top3 entities near to cluster4>>
+歴史, 数多い, 人々
+top3 entities near to cluster5>>
+川水, 川, 土水, 土
+top3 entities near to cluster6>>
+見学, 視察, 見物

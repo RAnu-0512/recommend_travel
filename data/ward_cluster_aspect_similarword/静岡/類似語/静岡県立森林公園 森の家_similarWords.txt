@@ -1,0 +1,11 @@
+--------------------similar_words:静岡県立森林公園 森の家--------------------
+top3 entities near to cluster1>>
+宿泊, 施設, 滞在
+top3 entities near to cluster5>>
+ホテル, 日帰り, レストラン
+top3 entities near to cluster8>>
+旅館, 温泉, 浴場
+top3 entities near to cluster12>>
+近辺, 施設, 休日
+top3 entities near to cluster13>>
+景色, 環境, 自然

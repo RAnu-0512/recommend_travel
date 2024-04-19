@@ -1,0 +1,13 @@
+--------------------similar_words:愛宕坂(小石川後楽園)--------------------
+top3 entities near to cluster2>>
+階段, 石段, 勾配
+top3 entities near to cluster5>>
+想像, 予想, 絶する
+top3 entities near to cluster6>>
+禁止, 厳禁, 無断
+top3 entities near to cluster7>>
+急, 伴い, 伴う
+top3 entities near to cluster8>>
+通行, 通行止め, 往来
+top3 entities near to cluster9>>
+案内板, 案内, 倒連

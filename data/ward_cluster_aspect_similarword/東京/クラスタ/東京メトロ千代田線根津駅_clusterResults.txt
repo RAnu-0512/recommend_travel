@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線根津駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+証し, 人, 上野公園, 気, 感じ, ホーム, 点, 案内, 歴史, 雰囲気, 注意
+cluster1:(10)
+入口, ホーム両端, 両方向ホーム, 駅, 改札, 地下, 徒歩, 周辺, 出口, 町
+cluster2:(6)
+上野方面, 谷中, 根津神社, 下町, 根津駅, 東京メトロ
+cluster3:(3)
+上下線, 対面式ホーム駅, メトロ千代田線
+cluster4:(1)
+不忍池
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 5
+deleted 0entities.

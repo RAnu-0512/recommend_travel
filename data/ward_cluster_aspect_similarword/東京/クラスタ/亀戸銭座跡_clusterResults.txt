@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀戸銭座跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+江戸時代の銭貨, 亀戸で貨幣・寛永通宝, 寛永通宝
+cluster1:(6)
+亀戸天神社, 錦糸町駅, 亀戸, 亀戸銭座, 平井・亀戸, 亀戸駅
+cluster2:(3)
+貨幣, 発行, 道路
+cluster3:(2)
+南側, 横
+cluster4:(5)
+間, 近く, モニュメント, 錦糸町, あたり
+cluster5:(4)
+場所, 機関, 形, こと
+cluster6:(1)
+碑
+cluster7:(1)
+江戸時代
+cluster8:(1)
+都市再生機構
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 9
+deleted 0entities.

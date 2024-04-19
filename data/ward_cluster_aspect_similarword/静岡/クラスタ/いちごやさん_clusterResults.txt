@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちごやさん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+いちご狩り, イチゴ狩り
+cluster1:(3)
+会社主催, 会社, 勤務先
+cluster2:(3)
+赤, 根元, 蜂
+cluster3:(16)
+車, 客, イチゴ, 通路, 手荷物, イベント, 家族, 時期, もの, 持ち帰り商品, 人, いちご, 富士山, 子供, 他, 方
+cluster4:(4)
+章姫, 練乳, 苺, 甘み
+cluster5:(1)
+駐車場
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 3entities.

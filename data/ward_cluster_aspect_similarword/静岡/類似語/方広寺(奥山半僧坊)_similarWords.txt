@@ -1,0 +1,21 @@
+--------------------similar_words:方広寺(奥山半僧坊)--------------------
+top3 entities near to cluster1>>
+僧坊, 半, 本殿
+top3 entities near to cluster5>>
+不況, 景気, 好景気
+top3 entities near to cluster6>>
+本殿, 境内, 社殿
+top3 entities near to cluster7>>
+住職, 宗祖, 開基
+top3 entities near to cluster10>>
+敷地, 建物, 庭
+top3 entities near to cluster12>>
+屋根
+top3 entities near to cluster13>>
+手前, 段差, 奥
+top3 entities near to cluster15>>
+駐車場, 駐車, 入場
+top3 entities near to cluster21>>
+篤志家, 篤志, 建造
+top3 entities near to cluster22>>
+寺, お寺, 寶勝

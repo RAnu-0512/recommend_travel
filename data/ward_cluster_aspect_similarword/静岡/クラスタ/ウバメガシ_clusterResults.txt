@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ウバメガシ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+偉大さ, 素晴らしさ, ひざし
+cluster1:(2)
+群生, 群落
+cluster2:(17)
+気, ウバメガシ, みどり, うわさ, 世界, こと, 天然記念物, もの, 人, 感じ, 迫力, 近く, 自然, 雰囲気, ジャングル, 場所, 夏休み
+cluster3:(3)
+路地, 海岸, 日和山遊歩道
+cluster4:(4)
+木々, 空気, 景観, 風景
+cluster5:(1)
+生垣
+cluster6:(2)
+子浦, 伊豆
+cluster7:(3)
+松, 県, 木
+cluster8:(1)
+静岡県
+cluster9:(1)
+(o
+cluster10:(1)
+土用竹
+cluster11:(5)
+武家屋敷, 格子状, 屋敷, まちなみ, こかげ
+cluster12:(1)
+備長炭つくる木
+
+howmany entities : 44
+howmany clusters : 13
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 6
+deleted 9entities.

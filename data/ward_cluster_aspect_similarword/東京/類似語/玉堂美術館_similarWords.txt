@@ -1,0 +1,11 @@
+--------------------similar_words:玉堂美術館--------------------
+top3 entities near to cluster1>>
+玉堂, 鉄斎, 華岳
+top3 entities near to cluster2>>
+ざし, かん, 淳
+top3 entities near to cluster3>>
+趣き, 機会
+top3 entities near to cluster5>>
+絵画, 展示, 作品
+top3 entities near to cluster6>>
+駅, 駅前, 徒歩

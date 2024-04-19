@@ -1,0 +1,9 @@
+--------------------similar_words:梅屋七兵衛旧宅--------------------
+top3 entities near to cluster0>>
+建物, 雰囲気, 外観
+top3 entities near to cluster1>>
+庭, 花, 草花
+top3 entities near to cluster2>>
+宅, 弐自, 自宅
+top3 entities near to cluster4>>
+梅屋, 旧, 七兵衛

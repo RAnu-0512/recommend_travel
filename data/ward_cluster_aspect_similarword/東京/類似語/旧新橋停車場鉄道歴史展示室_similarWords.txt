@@ -1,0 +1,37 @@
+--------------------similar_words:旧新橋停車場鉄道歴史展示室--------------------
+top3 entities near to cluster0>>
+措置, 事態, 緊急
+top3 entities near to cluster1>>
+ビル, 高層, 建物
+top3 entities near to cluster2>>
+駅舎, 外観, 建物
+top3 entities near to cluster3>>
+休館, 期間, ゴールデンウィーク
+top3 entities near to cluster4>>
+建物, 外観, 写真
+top3 entities near to cluster5>>
+遺構, 線路, 築堤
+top3 entities near to cluster6>>
+撮影, 開業, 撤退
+top3 entities near to cluster7>>
+美術館, 博物館, ミュージアム
+top3 entities near to cluster8>>
+ジオラマ, 機関車, 建物
+top3 entities near to cluster9>>
+ホーム, まわり, プラットホーム
+top3 entities near to cluster10>>
+ガラス, フロストガラス, 板ガラス
+top3 entities near to cluster15>>
+入場, 入館, 無料
+top3 entities near to cluster16>>
+展示, 展覧
+top3 entities near to cluster17>>
+展示室, 展示, 博物館
+top3 entities near to cluster18>>
+資料, 史料, 文献
+top3 entities near to cluster19>>
+歴史, 展示, 博物館
+top3 entities near to cluster20>>
+館, 資料, 展示
+top3 entities near to cluster21>>
+鉄道, 駅, 駅前

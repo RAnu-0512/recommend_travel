@@ -1,0 +1,13 @@
+--------------------similar_words:綾広の滝--------------------
+top3 entities near to cluster0>>
+鳥居, 石碑, 山道
+top3 entities near to cluster1>>
+脇, 手前, 周囲
+top3 entities near to cluster3>>
+雰囲気, ハイキング, 居心地
+top3 entities near to cluster4>>
+落差, 高低, ギャップ
+top3 entities near to cluster5>>
+冷気, 外気, 寒気
+top3 entities near to cluster7>>
+広い, 滝, 藤

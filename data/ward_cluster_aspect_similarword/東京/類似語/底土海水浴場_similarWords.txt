@@ -1,0 +1,33 @@
+--------------------similar_words:底土海水浴場--------------------
+top3 entities near to cluster0>>
+底土, 港場, 港
+top3 entities near to cluster2>>
+手前, 上側, 右端
+top3 entities near to cluster3>>
+夏場, 季節, 冬場
+top3 entities near to cluster4>>
+子供, 大人, 水着
+top3 entities near to cluster5>>
+屋上, 安全, 高所
+top3 entities near to cluster6>>
+砂浜, ビーチ, サンゴ礁
+top3 entities near to cluster7>>
+透明感, 透明, らし
+top3 entities near to cluster8>>
+人工, 砂, 人為
+top3 entities near to cluster9>>
+海岸, 砂浜, 浜
+top3 entities near to cluster10>>
+砂, 撒管, 砂浜
+top3 entities near to cluster12>>
+護岸, 堤防, 橋脚
+top3 entities near to cluster13>>
+海水, 海中, 海
+top3 entities near to cluster14>>
+海岸, 火山, 島
+top3 entities near to cluster16>>
+海水浴場, 駐車場, 駐車, 海水浴
+top3 entities near to cluster17>>
+更衣室, 更衣, 医務室, 医務
+top3 entities near to cluster18>>
+遊泳, 区域, 航行

@@ -1,0 +1,69 @@
+--------------------similar_words:都立小金井公園--------------------
+top3 entities near to cluster0>>
+サイクリング, ピクニック, イベント
+top3 entities near to cluster1>>
+自転車, サイクリング, 飲み物
+top3 entities near to cluster2>>
+のび, 伸び, のびる
+top3 entities near to cluster3>>
+花, 木々, 緑
+top3 entities near to cluster4>>
+子供, 子ども, 遊具
+top3 entities near to cluster5>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster6>>
+子ども, 子供, こども
+top3 entities near to cluster7>>
+子供, 子ども, 親達
+top3 entities near to cluster8>>
+同士, 友人, 友達
+top3 entities near to cluster12>>
+目的, 手段, ため
+top3 entities near to cluster13>>
+探し, 捜し, 見つけ
+top3 entities near to cluster14>>
+満載, 見所, 見どころ
+top3 entities near to cluster15>>
+印象, 趣き, 雰囲気
+top3 entities near to cluster16>>
+光景, 感動, 興奮
+top3 entities near to cluster17>>
+満足度, 満足, 好感度, 好感
+top3 entities near to cluster18>>
+開催, 練習, 展示
+top3 entities near to cluster19>>
+季節, 気候, 時期
+top3 entities near to cluster20>>
+距離感, 時間, 距離
+top3 entities near to cluster21>>
+自粛, 期間, 広い
+top3 entities near to cluster22>>
+公園, 遊具, 芝生
+top3 entities near to cluster23>>
+施設園, 施設, 園内
+top3 entities near to cluster24>>
+文化, 歴史, 屋台
+top3 entities near to cluster25>>
+広場, 憩い, 公園
+top3 entities near to cluster26>>
+一帯, 周辺, 近辺
+top3 entities near to cluster28>>
+敷地, 園内, 建物
+top3 entities near to cluster29>>
+遊歩道沿い, 遊歩道, 面す
+top3 entities near to cluster30>>
+既設, 無地
+top3 entities near to cluster31>>
+花見, 散策, 行楽
+top3 entities near to cluster32>>
+桜, 紅葉, 八重桜
+top3 entities near to cluster33>>
+揚げよ
+top3 entities near to cluster34>>
+駅, 駅前, 徒歩
+top3 entities near to cluster35>>
+駐車場, 駐車料, 駐車
+top3 entities near to cluster36>>
+機関車, 機関, 蒸気
+top3 entities near to cluster37>>
+感染症, 感染, 対策

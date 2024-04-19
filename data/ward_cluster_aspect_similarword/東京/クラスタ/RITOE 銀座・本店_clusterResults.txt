@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:RITOE 銀座・本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+方, 雰囲気
+cluster1:(1)
+男性
+cluster2:(1)
+満足
+cluster3:(1)
+記念日
+cluster4:(1)
+ペアリング作り
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

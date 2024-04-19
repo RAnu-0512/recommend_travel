@@ -1,0 +1,33 @@
+--------------------similar_words:明治大学博物館--------------------
+top3 entities near to cluster0>>
+展示, 常設展, 常設
+top3 entities near to cluster1>>
+出土品, 展示品, 出土, 展示
+top3 entities near to cluster2>>
+駅, 徒歩, 駅前
+top3 entities near to cluster3>>
+漆, 鉄, 咸道
+top3 entities near to cluster4>>
+博物館, 考古学, 歴史
+top3 entities near to cluster5>>
+大学, 明治大学, キャンパス
+top3 entities near to cluster6>>
+地図, 建物, 地下
+top3 entities near to cluster7>>
+明治, 大正, 幕末
+top3 entities near to cluster8>>
+古墳, 前方後円墳, 遺跡
+top3 entities near to cluster9>>
+商品, 展示, 見学
+top3 entities near to cluster10>>
+ドラマ, ゲーム, アニメ
+top3 entities near to cluster11>>
+ギロチン, コーナー, 明治大学
+top3 entities near to cluster12>>
+見応え, 見ごたえ, 見所
+top3 entities near to cluster15>>
+引け, ひけ, 引ける
+top3 entities near to cluster16>>
+写真, 撮影, 部門
+top3 entities near to cluster17>>
+考古, 考古学, 大学

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恋谷橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三朝温泉, 温泉街
+cluster1:(2)
+かじか蛙, カジカ蛙
+cluster2:(3)
+橋, 橋そのもの, 恋谷橋
+cluster3:(3)
+舞台, 中央, 真ん中辺り
+cluster4:(3)
+こと, 名前, 願い
+cluster5:(6)
+モニュメント, 恋, オブジェ, パワースポット, 縁結び, カエル
+cluster6:(1)
+絵馬
+cluster7:(1)
+恋愛成就
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベイサイドビーチ坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+シャワー室, 設備
+cluster1:(4)
+時期, 方, 便利, 場所
+cluster2:(3)
+市, 最寄駅, 駅
+cluster3:(2)
+家, 車
+cluster4:(2)
+横, 水
+cluster5:(4)
+広島, JR, 電車, 延長
+cluster6:(1)
+国道
+cluster7:(6)
+遠出, 穴場, 出店, 散歩, 売店, 海水浴客
+cluster8:(3)
+砂浜, 海水, 海
+cluster9:(2)
+釣り, アジ
+cluster10:(21)
+海水浴, トイレ, 子供, 秋, 海水浴シーズン, スポット, 波止場, シート, 友達, サヨリ, メバル, 夏場, ライトアップ, 家族, ビーチ, 子ども, 春, テント, 夕焼け, 夏, シーズンオフ
+cluster11:(1)
+コイワシ
+cluster12:(5)
+駐車場, 水尻駅, 水尻, 人工海浜, 海水浴場
+
+howmany entities : 56
+howmany clusters : 13
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 13
+deleted 0entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:ハワイゆ〜たうん--------------------
+top3 entities near to cluster0>>
+天井, 壁, 壁面
+top3 entities near to cluster1>>
+看板, 建物, 店構え
+top3 entities near to cluster2>>
+値段, 格安, 安い
+top3 entities near to cluster3>>
+解放感, 開放感, 解放, 開放
+top3 entities near to cluster4>>
+浴室, 浴槽, 風呂
+top3 entities near to cluster5>>
+海水浴場, 海水浴, 駐車場, 駐車
+top3 entities near to cluster6>>
+休業, 営業, 休止
+top3 entities near to cluster7>>
+工事, 外装, 内装
+top3 entities near to cluster8>>
+洗面器, 洗面, 給湯器, 給湯
+top3 entities near to cluster9>>
+温泉, 湯, 銭湯

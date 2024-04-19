@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小坂みかん共同農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+甘い, 食べ比べ, 甘いみかん, 食べ放題, ミカン狩り, みかん, 農園, 完熟みかん, みかん畑, みかん園, ミカン, あまいみかん, みかん狩り, 違うみかん
+cluster1:(2)
+最初木, 木
+cluster2:(5)
+家族, 息子, 親子, 孫, 子供
+cluster3:(7)
+気, 決定, 予定, 時期, こと, 覚悟, 文句
+cluster4:(2)
+リピート, 持ち帰り
+cluster5:(4)
+タクシー, シーズン, スーパー, コーナー
+cluster6:(1)
+オトナ
+cluster7:(1)
+車椅子
+cluster8:(1)
+宝探し
+cluster9:(1)
+店主
+cluster10:(10)
+下, 受付, 写真, 種類, 時間, 上, 説明, 場所, 方々, 方
+cluster11:(2)
+体験, 自然体験
+cluster12:(4)
+斜面, 坂, 丘, 山
+cluster13:(2)
+袋, 土産
+cluster14:(2)
+敷地, 小屋
+cluster15:(1)
+皮
+cluster16:(8)
+限界, オレンジ色, 渋滞, 運動, 体力, 味, 気温, 色
+cluster17:(1)
+時間無制限
+
+howmany entities : 68
+howmany clusters : 18
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 7
+deleted 16entities.

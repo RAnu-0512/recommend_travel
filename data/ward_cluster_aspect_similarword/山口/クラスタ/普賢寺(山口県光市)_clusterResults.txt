@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:普賢寺(山口県光市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+歩, 山門, 門, 庭
+cluster1:(8)
+タイムスリップ, 御朱印, 少林寺拳法, 関わり, 信仰, 思い出, 侍, 感
+cluster2:(3)
+住職, 雪舟, ワクワク住職
+cluster3:(3)
+大師範, 江戸時代, 江戸
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

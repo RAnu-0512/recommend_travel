@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:王子山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+波, 橋, 海, 場所, 青海島
+cluster1:(2)
+天気, 匂い
+cluster2:(1)
+潮風
+cluster3:(2)
+王子山公園, 駐車場
+cluster4:(1)
+仙崎港
+cluster5:(1)
+金子みすゞ
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:般若寺_もみじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+車, もみじ, JR, 人, ところ
+cluster1:(3)
+寺, 紅葉シーズン, 般若寺山
+cluster2:(1)
+山陽本線柳井駅
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

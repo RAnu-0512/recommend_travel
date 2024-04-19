@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なべさんのいちごや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+店員, スタッフ, 制限時間, イチゴ, ハウス, 方, 落花生, 受付, 暇, 写真, もの, いちご, 店, (*^^*, 中, 場所, 施設, 他, 説明
+cluster1:(7)
+練乳, 酸味, 小粒, 甘味, 辛口評価, いちご狩り, 味
+cluster2:(1)
+清潔感
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 1entities.

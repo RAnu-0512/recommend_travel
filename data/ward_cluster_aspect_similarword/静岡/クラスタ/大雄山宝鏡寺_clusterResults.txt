@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大雄山宝鏡寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+古刹, 山門, 本堂, 寺
+cluster1:(10)
+大雄山, 秋, 紅葉, 道のり, 朱色, 曹洞宗, 御殿場, 紅葉狩り, 夏休み, 小学生
+cluster2:(4)
+線路沿い, 足柄駅, 宝鏡寺, JR御殿場線
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 0entities.

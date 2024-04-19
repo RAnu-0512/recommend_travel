@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本郷給水所公苑のばら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本郷給水所, 本郷給水所公苑
+cluster1:(3)
+洋式ゾーン, 洋式庭園, 和式庭園
+cluster2:(2)
+水道橋駅, 御茶ノ水駅
+cluster3:(4)
+植物, 薔薇, 花, バラ
+cluster4:(2)
+池, 公園
+cluster5:(9)
+ゾーン, 北側, 水道局, 人, ポツポツ, 神田川, 時期, 管理, 看板
+cluster6:(1)
+手入れ管理表
+cluster7:(3)
+薔薇園, 公苑, 薔薇品種
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 8
+deleted 0entities.

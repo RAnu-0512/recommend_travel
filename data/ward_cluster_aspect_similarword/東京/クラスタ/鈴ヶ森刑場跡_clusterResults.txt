@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鈴ヶ森刑場跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+説明書き, 残酷さ, 恐ろしさ
+cluster1:(2)
+涙, 涙橋
+cluster2:(7)
+秩序, 石碑, 全景, 看板, 跡地, 礎石, 跡
+cluster3:(3)
+磔, 咎人, 罪人
+cluster4:(5)
+気, こと, 思い, 感じ, 理屈
+cluster5:(2)
+時間, 場所
+cluster6:(4)
+中, 途中, 多く, 先
+cluster7:(1)
+通り
+cluster8:(4)
+記録, 歴史, 背景, 最期
+cluster9:(22)
+東海道, 寺, そば, 井戸, 平地, 横, 京浜急行, スポット, 南大井, 身内, ところ, 鈴ヶ森, 慟哭, 歩道橋, 八百屋, 誰か, 隣, 見通し, 人, 北品川, 証, 霊
+cluster10:(1)
+供養碑
+cluster11:(10)
+首都高鈴ヶ森, 京浜, 江戸, 国道, 観光スポット, 権力者, 刑罰史, 江戸時代, 死刑制度, 道路交差点
+cluster12:(13)
+品川, 刑場, 平井権八, 大森海岸駅, 品川七福神巡り, おやお七, 鈴ヶ森刑場, 鈴ヶ, 大経寺, 天一坊, 刑場跡, 森刑場, 品川宿
+
+howmany entities : 77
+howmany clusters : 13
+howmany entities (more than1entities) : 77
+howmany clusters (more than1entities) : 13
+deleted 0entities.

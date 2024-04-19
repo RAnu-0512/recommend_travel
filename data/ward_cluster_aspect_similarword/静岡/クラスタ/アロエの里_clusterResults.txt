@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アロエの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+地域, バス停, アロエ, もの, ところ, 人, 会場, 感じ, 場所, 方
+cluster1:(2)
+地図, 道
+cluster2:(7)
+南国, 赤色, 伊豆, 海, 昔風, 冬, 風
+cluster3:(1)
+防寒対策
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 3entities.

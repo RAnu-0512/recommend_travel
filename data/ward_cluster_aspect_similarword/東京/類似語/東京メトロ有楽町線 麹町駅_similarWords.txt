@@ -1,0 +1,15 @@
+--------------------similar_words:東京メトロ有楽町線 麹町駅--------------------
+top3 entities near to cluster0>>
+駅, 町, 駅前
+top3 entities near to cluster1>>
+通勤, 路線
+top3 entities near to cluster2>>
+案内, 利用, 紹介
+top3 entities near to cluster5>>
+老舗, しにせ, 名門
+top3 entities near to cluster6>>
+距離, 至近, 射程
+top3 entities near to cluster7>>
+予定地, 目的地, 予定, 目的
+top3 entities near to cluster8>>
+町, 二番, 丁目

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六道山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+弁当, 売店, 公共, 遊具
+cluster1:(5)
+樹木, 自然, 森, 里山, 田圃
+cluster2:(2)
+関東富士見, 都民
+cluster3:(27)
+各所, 富士山, 見どころ, 家族ずれ, 場所, 次ぎ, カーナビ, 景色, 子供, 変化, 事, アスレチック, 絶景, 雑木林, 案山, 天気, 車, 狭山丘陵, コスモス, フィールドアスレチック, 子, 中, 方, こと, 周辺, ハイキング, 眺め
+cluster4:(1)
+美しさ
+cluster5:(12)
+食呂飲料, 展望塔, 駐車場, 公園, 展望, 都市公園, 六道山公園, 瑞穂町, 都立公園, 展望台, 民家園, 狭山自然公園
+
+howmany entities : 51
+howmany clusters : 6
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 6
+deleted 0entities.

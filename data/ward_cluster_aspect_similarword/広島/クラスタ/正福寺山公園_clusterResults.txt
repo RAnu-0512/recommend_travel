@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正福寺山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+桜, 桜越し, 花見シーズン, 花見客, 夜桜, 花見スポット, 花見, 花見目当て, 満開
+cluster1:(37)
+GoogleMap, ソメイヨシノ, ピンク, スペース, もの, 時期, 季節, あちこち, 団体, 花, 心, コントラスト, スニーカー, ふもと, 瀬戸内海, 安芸津, 正福寺, 青, 車, それぞれ, 週末, 休日, ほう, 気分, 数, シーズン, 感じ, 場合, 人, キッチンカー, 海, ライトアップ, 窮屈, 山, 春, 場所, 自然
+cluster2:(2)
+坂道, 坂
+cluster3:(5)
+眺め, 名所, 景色, 景観, 島々
+cluster4:(6)
+斜面, 山頂, 広場, 売店, 弁当, 公園
+cluster5:(5)
+東広島市, 正福寺山公園, 安芸津駅, 安芸津町, 駅
+cluster6:(5)
+駐車場, 警備員, 移動販売, 展望台, 場所取り
+cluster7:(1)
+三分咲
+cluster8:(1)
+バンブー公園
+
+howmany entities : 71
+howmany clusters : 9
+howmany entities (more than1entities) : 71
+howmany clusters (more than1entities) : 9
+deleted 0entities.

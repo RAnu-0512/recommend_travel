@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松市博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+訪問, 旅行, 旅
+cluster1:(2)
+大人, 子供
+cluster2:(4)
+隣, 地元, 昔, 時代
+cluster3:(4)
+人, 時間, 感じ, 中
+cluster4:(6)
+博物館, 原始時代, 家, 写真, 歴史, ビデオ
+cluster5:(1)
+注意
+cluster6:(12)
+内部, 空間, バス, 駅, 戦い, 鍵, 屋根, 公園, 建物, 工業, 計画, 規模
+cluster7:(1)
+生活模様
+cluster8:(6)
+土器, 現代, 古代, 近代, 中世, 貝塚
+cluster9:(6)
+展示, 展示物, 展示品, 開館時間, 入場料, 展示室
+cluster10:(10)
+町浜松, 浜松城, 蜆塚遺跡, 蜆塚遺跡公園, 浜松, 浜松市博物館, 蜆塚公園, 三方ヶ原, 浜北原, 浜松駅
+
+howmany entities : 55
+howmany clusters : 11
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 8
+deleted 4entities.

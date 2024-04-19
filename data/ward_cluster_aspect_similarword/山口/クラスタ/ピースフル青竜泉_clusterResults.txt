@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ピースフル青竜泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+青竜伝説, 青竜泉, ピースフル青竜泉
+cluster1:(15)
+太古, ジェットバス, ヘルツバス, 森林浴, 家, ロッカー, 種類, 木, 露天風呂, 山陰, ブルーライン, 川棚温泉, 人, 棚, 難点
+cluster2:(4)
+温泉街, 日帰り温泉, 温泉, 温泉銭湯
+cluster3:(5)
+風呂, 家族風呂, 浴場, お湯, 湯
+cluster4:(2)
+自家源泉, うたせ湯
+cluster5:(1)
+景勝地
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 6
+deleted 0entities.

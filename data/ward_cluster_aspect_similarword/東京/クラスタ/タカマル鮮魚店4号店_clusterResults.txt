@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:タカマル鮮魚店4号店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海, 魚, 刺身
+cluster1:(3)
+名物, 味, 美味
+cluster2:(8)
+ボリューミー, 中, 間, ランチ, 雰囲気, マグロ, 三桶セット, インパクト
+cluster3:(1)
+がんがん焼き
+cluster4:(1)
+貝盛り
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

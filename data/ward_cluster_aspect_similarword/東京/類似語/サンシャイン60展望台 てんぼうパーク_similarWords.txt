@@ -1,0 +1,99 @@
+--------------------similar_words:サンシャイン60展望台 てんぼうパーク--------------------
+top3 entities near to cluster0>>
+展望台, 展望, 見晴らし台, 見晴らし
+top3 entities near to cluster1>>
+雰囲気, 見た目, 外見
+top3 entities near to cluster2>>
+オススメ, お気に入り, おすすめ
+top3 entities near to cluster3>>
+リピート, リピータ, リピ
+top3 entities near to cluster4>>
+おかげ, みたい, こっち
+top3 entities near to cluster5>>
+真ん中, まん中, 端っこ
+top3 entities near to cluster6>>
+スイーツ, イラスト, コーナー
+top3 entities near to cluster7>>
+キッズメニュー, キッズスペース, キッズルーム
+top3 entities near to cluster8>>
+スタッフ, オペレーター, オペレーション
+top3 entities near to cluster9>>
+コンセプト, コンテンツ, リニューアル
+top3 entities near to cluster10>>
+デートスポット, ショッピング, デートスポットデート
+top3 entities near to cluster11>>
+コラボイベント, アニメコラボ, コナンコラボ
+top3 entities near to cluster12>>
+アトラクション, アクティビティ, キャラクター
+top3 entities near to cluster13>>
+エンターテイメント, カウントダウン, エンターテインメント
+top3 entities near to cluster14>>
+グリーティング, キャラクターグリーティング, スペシャルグリーティング
+top3 entities near to cluster15>>
+スカイツリー, スカイツリータワー, スカイツリースカイツリー
+top3 entities near to cluster17>>
+イベント, サプライズ, 待ち合わせ
+top3 entities near to cluster18>>
+バインミー, バインセオ, バゲットサンド
+top3 entities near to cluster19>>
+エレベーター, エレベータ, エスカレーター
+top3 entities near to cluster20>>
+リアリティ, スタイル, リアリティー
+top3 entities near to cluster21>>
+カメラ, カード, 仕掛け
+top3 entities near to cluster22>>
+晴らし, 晴らす, 晴らせる
+top3 entities near to cluster23>>
+中学生, 小学生, 高校生
+top3 entities near to cluster24>>
+こども, 子ども, 子供
+top3 entities near to cluster25>>
+水族館, ガラス, コナン
+top3 entities near to cluster26>>
+人工芝, シート, レジャー
+top3 entities near to cluster27>>
+子連れ, エリア, フォト
+top3 entities near to cluster28>>
+飲み物, 食べ物, ビール
+top3 entities near to cluster29>>
+スペース, ブース, トイレ
+top3 entities near to cluster30>>
+イベント, ツアー, カフェ
+top3 entities near to cluster31>>
+サーカス, スカイ, キグレサーカス
+top3 entities near to cluster32>>
+コースター, スリル, 万華鏡
+top3 entities near to cluster33>>
+スリー, ブルー, グリーン
+top3 entities near to cluster34>>
+楽しい, 難い, 嬉しい
+top3 entities near to cluster35>>
+好感度, 満足度, 好感, 満足
+top3 entities near to cluster38>>
+雲, 裂星, 蒸竜
+top3 entities near to cluster39>>
+列, と列, 列なん
+top3 entities near to cluster40>>
+巨大, 天空, 都会
+top3 entities near to cluster41>>
+子供, 娘
+top3 entities near to cluster42>>
+昼, 夕方, 昼間
+top3 entities near to cluster43>>
+期間, 時間, 日数
+top3 entities near to cluster44>>
+企画, 内容, 主旨
+top3 entities near to cluster48>>
+芝, 芝生, 翫茶
+top3 entities near to cluster49>>
+景色, 風景, 写真
+top3 entities near to cluster50>>
+受付, 混雑, 貸出
+top3 entities near to cluster51>>
+建物, 屋上, 中庭
+top3 entities near to cluster52>>
+子供, 休日, 週末
+top3 entities near to cluster53>>
+60, 70, 90
+top3 entities near to cluster54>>
+体験, 予約, 入場

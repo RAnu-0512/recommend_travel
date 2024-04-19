@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉岡彌生記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+女子医大, 医師免許
+cluster1:(3)
+産科, 医学, 医者
+cluster2:(2)
+掛川, 吉岡
+cluster3:(3)
+こと, 機会, 努力
+cluster4:(5)
+初期, 明治, 東京, 時代, 女性
+cluster5:(2)
+市街, 生家
+cluster6:(1)
+駐車場
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 7entities.

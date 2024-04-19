@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豪徳寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三重塔, 三重塔のほか招猫殿
+cluster1:(30)
+山下駅, 威厳, 猫発祥, 箇所, 地, 豪徳寺駅, 猫, 家, 人, 豪徳寺, 外国, 本堂, 猫児, 発祥, 奥, 松並木道, 墓, 寺, 世田谷線, 住宅街, 足, 日本, 方, 小田急線, こと, 井伊, 招猫殿, 境内, あちこち, 招き猫
+
+howmany entities : 32
+howmany clusters : 2
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅「ゆとりパークたまがわ」_つつじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山口県, 島根県
+cluster1:(2)
+道, 駅
+cluster2:(3)
+つつじまつり, 地元, 施設
+cluster3:(1)
+駐車場
+cluster4:(1)
+産直市場
+cluster5:(1)
+地域交流促進
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

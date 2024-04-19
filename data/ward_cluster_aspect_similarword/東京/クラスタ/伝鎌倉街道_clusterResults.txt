@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伝鎌倉街道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+府中街道, 伝鎌倉街道
+cluster1:(2)
+武蔵, 武蔵国
+cluster2:(15)
+武蔵野線, 国内, 馬, 場所, 散策, 国分寺, 人, 街道, 名前, 鎌倉, 江戸時代, 西国分寺駅, 道, 時代, もの
+cluster3:(2)
+崖線, 案内板
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

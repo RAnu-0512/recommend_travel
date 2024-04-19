@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田松陰歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+吉田松陰の歴史館, 吉田松陰先生の歴史館, 吉田松陰歴史館
+cluster1:(2)
+松陰先生, 松陰
+cluster2:(2)
+吉田松陰先生, 吉田松陰
+cluster3:(2)
+ロウ人形, ロウ人形館
+cluster4:(2)
+蝋人形, 蝋人形館
+cluster5:(2)
+展示, 展示資料
+cluster6:(2)
+資料館, 歴史館
+cluster7:(26)
+中, 思い, 施設, 松陰神社, こと, お子, テーマパーク, 造り, 場面, 人物, 次, 昭和, 資料, 館内, 製作者, 生涯, 感じ, 大河ドラマ, 方, 塾, 人, 人形, 一生, 写真, 歴史, 建物
+cluster8:(2)
+松下村, 見世物小屋
+cluster9:(1)
+等身大
+cluster10:(12)
+萩観光, 萩市, 松蔭先生, 神社境内, 境内, 松蔭神社境内, 松陰神社境内, 神社, 観光スポット, 松蔭エリア, 明治維新胎動之地, 山口県萩市
+
+howmany entities : 56
+howmany clusters : 11
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 11
+deleted 0entities.

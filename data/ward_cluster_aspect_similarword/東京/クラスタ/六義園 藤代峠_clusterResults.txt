@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六義園 藤代峠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+外国人, 労働力
+cluster1:(2)
+日本庭園, 園内全景
+cluster2:(5)
+急坂, 絶景ポイント, 鬱蒼, 頂上, 展望スペース
+cluster3:(8)
+六義園, 場所, 周り, ツツジ, 設計, 空, ハーモニー, てっぺん
+cluster4:(2)
+別格, 錯覚
+cluster5:(1)
+深山
+cluster6:(1)
+財力
+cluster7:(1)
+築山
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中野四季の森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+芝生, 公園, 防災公園, 芝生広場, 森公園
+cluster1:(2)
+じゃぶじゃぶ水遊び場, 簡易テント
+cluster2:(2)
+ボール, プール
+cluster3:(3)
+ところ, 真ん中, 雰囲気
+cluster4:(8)
+コンビニ, テーブル, ブロードウェイ, カフェ, ランニング, スポーツ, トイレ, マック
+cluster5:(1)
+子連れ
+cluster6:(1)
+人
+cluster7:(1)
+場所
+cluster8:(1)
+椅子
+cluster9:(1)
+都市
+cluster10:(7)
+パパ, 四季, 食事, 昼寝, ママ, 弁当, 休日
+cluster11:(7)
+中野駅, 中野, 家族連れ, 再開発, 授乳室, 飲食店, パン屋
+
+howmany entities : 39
+howmany clusters : 12
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 12
+deleted 0entities.

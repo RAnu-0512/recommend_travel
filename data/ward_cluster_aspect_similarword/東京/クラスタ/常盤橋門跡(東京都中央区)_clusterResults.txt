@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常盤橋門跡(東京都中央区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+追手口, パネル, 正門, 江戸城外郭, ゴジラ, 古く, 浅草口, 工事
+cluster1:(3)
+常盤橋門跡, 常盤橋ゴジラギャラリー 常盤橋, 江戸城枡形門
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

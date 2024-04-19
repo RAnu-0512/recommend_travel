@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三次もののけミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展覧, 展示物, 展示
+cluster1:(2)
+妖怪, 妖怪そのもの
+cluster2:(3)
+興味, 有無, 人影
+cluster3:(2)
+施設, 館内
+cluster4:(4)
+博物館, 生き物, 他, 絵
+cluster5:(1)
+架空
+cluster6:(1)
+チームラボ
+cluster7:(5)
+子供, 3D放映, 孫たち, 泉谷しげる, 子供達
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 8
+deleted 0entities.

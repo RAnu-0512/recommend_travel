@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天然温泉 境港 夕凪の湯 御宿 野乃>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+JR, 足湯, 館内
+cluster1:(8)
+部屋, 終着駅, 場合, 一角, ほか, ホテル, 値段, 備品
+cluster2:(1)
+良さ
+cluster3:(1)
+妖怪たち
+cluster4:(3)
+境港駅, 一般観光客, JR境線
+cluster5:(1)
+御宿野乃
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

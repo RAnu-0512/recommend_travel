@@ -1,0 +1,11 @@
+--------------------similar_words:野呂山キャンプ場--------------------
+top3 entities near to cluster1>>
+常設, 場裏
+top3 entities near to cluster2>>
+キャンプ, 夏, テント
+top3 entities near to cluster3>>
+利用, 指定, 使用
+top3 entities near to cluster4>>
+荷物車, 荷物, 景色
+top3 entities near to cluster5>>
+標高, 海抜, 雪線

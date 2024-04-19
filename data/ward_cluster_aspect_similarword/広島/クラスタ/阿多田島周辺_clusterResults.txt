@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿多田島周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+釣り客, 釣り, 家族連れ, 釣り人, 釣り大会
+cluster1:(2)
+水, 夏場
+cluster2:(7)
+フェリー, 途中, もの, 世界, カレイ, サイズ, こと
+cluster3:(3)
+魚, キス, 海
+cluster4:(1)
+距離
+cluster5:(1)
+宮島
+cluster6:(1)
+小方港
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

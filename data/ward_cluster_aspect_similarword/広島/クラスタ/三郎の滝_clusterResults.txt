@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三郎の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高速バス, 広島バスセンター, バス
+cluster1:(2)
+府中市, 福山駅
+cluster2:(1)
+新白島駅
+cluster3:(34)
+子, 記憶, スライダー, 広島, 滑り台, 幅広, 口コミ, リードライナー, 天然, ウォータースライダー, 注意, クロスロードみつぎ, 二郎, 一郎, 親, 出張所行き, バス停, 紅葉, 気, 訪問, 中国, 子供たち, 上, バーベキュー, 釣り堀, 時間, スリル, 子供達, 方面, 場所, 岩, 距離, 階段, 三郎
+cluster4:(7)
+駐車場, 昼食時間, 滞在時間, 施設利用料, 昼食, 駐車, 時期訪問者
+cluster5:(3)
+一郎の滝, 三郎の滝, 二郎の滝
+cluster6:(5)
+滝すべり, すべり滝, 滝, 滝入口, 滝滑り
+cluster7:(1)
+一郎・二郎・三郎
+
+howmany entities : 56
+howmany clusters : 8
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 8
+deleted 0entities.

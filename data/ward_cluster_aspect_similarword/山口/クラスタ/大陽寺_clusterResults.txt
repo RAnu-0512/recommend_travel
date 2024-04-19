@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大陽寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+大陽寺, こと, 人, 伝説, 山
+cluster1:(2)
+水, 下記
+cluster2:(5)
+寺, 掃除, 庭園, 境内, 池
+cluster3:(3)
+心字, 雷の恩返し, 雷
+cluster4:(2)
+きじや山鳥, がほろろ
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

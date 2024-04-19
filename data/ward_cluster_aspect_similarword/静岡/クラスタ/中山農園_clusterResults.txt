@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中山農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土耕, 土耕栽培
+cluster1:(6)
+最後, 主人, 子, 人, 種類, 他
+cluster2:(2)
+話し, 話
+cluster3:(3)
+こと, もの, 方
+cluster4:(1)
+対応
+cluster5:(1)
+土
+cluster6:(2)
+熱, ヘタ
+cluster7:(4)
+農園, 店, 味, 靴
+cluster8:(11)
+こだわり, コロナ, イチゴ, 小学生, ハウス, サイズ, 叔父さん, いちご, 売り場, コンビニ, ミルク
+cluster9:(2)
+幼児, 子供
+cluster10:(2)
+練乳, 紅ほっぺ
+cluster11:(3)
+高さ, 美味しさ, 腰痛持ち
+cluster12:(1)
+B級品
+cluster13:(3)
+いちご狩り農園, いちご狩り, イチゴ狩り
+cluster14:(2)
+食べ比べ, 食べ放題
+
+howmany entities : 45
+howmany clusters : 15
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 6
+deleted 15entities.

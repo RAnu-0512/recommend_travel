@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恐羅漢山(広島県安芸太田町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+福岡, 広島県, 山形蔵王
+cluster1:(9)
+雪, 秋, 紅葉, ブナ, 道中, 山々, 山, 春, 冬
+cluster2:(28)
+スノーボー, スイセン, 遠距離, 子供, もの, キャンプ, ケヤキ, 中, オススメスポット, 方, アクセス, 気, 最高峰, コース, ウィンタースポーツ, スキー, 恐羅漢山, 人, オフシーズン, 家族, ジップライン, ハイキング, スノボ, 空気, パウダースノー, 場所, 自然, ゲレンデ
+cluster3:(6)
+スキー場, 家族連れ, リフト渋滞, 雪質, キャンプ場, 行き道
+cluster4:(1)
+恐羅漢スキー場
+
+howmany entities : 47
+howmany clusters : 5
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 5
+deleted 0entities.

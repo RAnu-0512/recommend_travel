@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮の前廃寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+金堂跡, 跡形, 寺院跡, 小丘陵, 境内, 東西, 参道横, 奈良時代前期, 南面, 塔跡, 跡, 寺跡
+cluster1:(2)
+宮の前廃寺, 宮の前廃寺跡
+cluster2:(2)
+蔵王八幡社, 蔵王八幡神社
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

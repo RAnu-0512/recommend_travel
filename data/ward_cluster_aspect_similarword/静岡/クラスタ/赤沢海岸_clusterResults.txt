@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤沢海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+時期, 用意, 物等, 場合, 方
+cluster1:(7)
+砂, 海水, 岩場, 海岸, 波, 海, 砂浜
+cluster2:(10)
+車, 近隣, 民宿, ビーチ, 足湯, 家, 海水浴, シーズン, 海水浴シーズン, コンビニ
+cluster3:(1)
+投げ釣り
+cluster4:(5)
+駐車場, 飲食店, 駐車代, 駐車料金, 駐車所
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 1entities.

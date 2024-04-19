@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊東温泉甘夏みかん狩り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+泰山園, ミカン狩り, 温州みかん狩り, 冷凍みかん, ミカン畑, みかん畑, みかん園, 果物狩り, みかん食べ放題, みかん狩り
+cluster1:(3)
+風味, 甘み, 甘夏
+cluster2:(25)
+ミツバチ, 破格, あて, 地域, もい, こと, みかん, のんびりみかん, コース, 趣味, ハサミ, 体験, 奥, 喜び, ミカン, スポット, 場所, イメージ, テンション, 苦手, 金額, 木, 方, 道, 伊豆半島
+cluster3:(12)
+雨, 土産, 大人, 肌, 恵み, 地形, 観光, 遠足, 自然, 気候, 夫婦, 子供たち
+cluster4:(1)
+早生みかん
+
+howmany entities : 51
+howmany clusters : 5
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 4
+deleted 1entities.

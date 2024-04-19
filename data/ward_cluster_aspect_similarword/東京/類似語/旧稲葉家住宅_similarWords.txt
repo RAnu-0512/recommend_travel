@@ -1,0 +1,13 @@
+--------------------similar_words:旧稲葉家住宅--------------------
+top3 entities near to cluster1>>
+家屋, 建物, 住宅
+top3 entities near to cluster3>>
+歴史家, 歴史, 政治家, 政治
+top3 entities near to cluster4>>
+家内, 家人, カミさん
+top3 entities near to cluster5>>
+風情, 趣き, 趣
+top3 entities near to cluster6>>
+家柄, 名家, 血筋
+top3 entities near to cluster8>>
+都, 古, 民家

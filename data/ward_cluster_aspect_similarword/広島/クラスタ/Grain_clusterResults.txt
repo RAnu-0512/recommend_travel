@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Grain>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+香り, 香水作り, ガラス容器, アロマ香水, 香水, 匂い
+cluster1:(19)
+先生, 花材, 中, 花, 店内, ジェル, 写真スペース, アロマ, 庭, 灯り, 友達, 説明, ひととき, アドバイス, 部屋, 素材, スイ, 緑いっぱい, おみやげ
+cluster2:(1)
+わんちゃんのネ―ジュ
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 3
+deleted 0entities.

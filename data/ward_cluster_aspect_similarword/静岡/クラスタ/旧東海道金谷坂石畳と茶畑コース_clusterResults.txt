@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧東海道金谷坂石畳と茶畑コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+金谷坂手前の石畳茶屋, 東海道菊川坂石畳, 東海道金谷坂石畳
+cluster1:(2)
+熊野古道, 熱田神宮
+cluster2:(2)
+金谷駅, 金谷宿
+cluster3:(3)
+石畳, 東海道石畳, 石畳茶屋
+cluster4:(3)
+駐車場, 近隣観光, 目的地
+cluster5:(14)
+事, 所, 凸凹, 人, 笑, 目的, 感じ, 先, 彩り, コチラ, 体力, 気分, オススメ, 方
+cluster6:(9)
+車, 電車, 駅裏, 駅, JR, 徒歩, 道中, 東海道線, 道
+cluster7:(3)
+紅葉, 新緑, 初夏
+cluster8:(2)
+茶, 茶畑
+cluster9:(5)
+坂道, 郷, 諏訪原城, 石, 坂
+cluster10:(1)
+江戸時代
+cluster11:(1)
+こぼこ
+
+howmany entities : 48
+howmany clusters : 12
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 7
+deleted 8entities.

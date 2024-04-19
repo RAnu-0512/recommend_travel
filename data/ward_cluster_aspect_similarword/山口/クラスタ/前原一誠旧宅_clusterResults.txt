@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:前原一誠旧宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+幕末, 観光客, 興味, 志士, 見学, 内部, 宅, 外観, 建物
+cluster1:(2)
+前原, 前原一誠
+cluster2:(3)
+萩市, 萩市土原, 萩
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

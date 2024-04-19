@@ -1,0 +1,23 @@
+--------------------similar_words:品川区立品川歴史館--------------------
+top3 entities near to cluster0>>
+展示, 常設, 開催
+top3 entities near to cluster1>>
+見学, 展示, 勉強
+top3 entities near to cluster2>>
+茶室, 庭園, 中庭
+top3 entities near to cluster3>>
+古代, 考古学, 古来
+top3 entities near to cluster4>>
+文化, 歴史, 伝統
+top3 entities near to cluster5>>
+発祥地, 目的地, 発祥, 目的
+top3 entities near to cluster6>>
+土器, 石器, 銅鐸
+top3 entities near to cluster7>>
+歩き, 歩く
+top3 entities near to cluster8>>
+歴史, 近代, 郷土
+top3 entities near to cluster9>>
+休館, 疎開, 改修
+top3 entities near to cluster10>>
+感染, 予防, 伝染

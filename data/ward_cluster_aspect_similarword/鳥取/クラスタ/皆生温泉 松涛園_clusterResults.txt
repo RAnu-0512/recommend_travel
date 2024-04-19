@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:皆生温泉 松涛園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+エビ, カニ
+cluster1:(2)
+顔, 写真
+cluster2:(2)
+ステーキ, レンコン
+cluster3:(2)
+露天風呂, デイユース
+cluster4:(1)
+皆生温泉
+cluster5:(1)
+ロビー
+cluster6:(1)
+天ぷら
+cluster7:(1)
+露天風呂どころ
+cluster8:(2)
+父, 子供
+cluster9:(1)
+ローストビーフ
+cluster10:(1)
+ご飯
+cluster11:(1)
+外国
+cluster12:(5)
+待ち, 期待, 感じ, 祝い, 方
+cluster13:(1)
+利用方法
+cluster14:(10)
+貸切露天風呂, 家族風呂, 埃まみれ, お湯, 従業員, 風呂, 熱湯, 樽風呂, 露天, 温泉
+
+howmany entities : 33
+howmany clusters : 15
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 15
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:赤崎遊歩道潮風の道--------------------
+top3 entities near to cluster1>>
+子供, 子ども, 大人
+top3 entities near to cluster2>>
+景色, 風景, 季節
+top3 entities near to cluster3>>
+海水魚, 海水, 水槽
+top3 entities near to cluster4>>
+海岸, 岩場, 海底
+top3 entities near to cluster5>>
+坂橋, 坂, 屋根
+top3 entities near to cluster6>>
+潮風, 海辺, 海風

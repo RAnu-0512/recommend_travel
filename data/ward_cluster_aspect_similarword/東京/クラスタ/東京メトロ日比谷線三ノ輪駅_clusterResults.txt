@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線三ノ輪駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+下町情緒, 三ノ輪商店街, 商店街
+cluster1:(3)
+都電, 東京メトロ, 明治
+cluster2:(3)
+他, ホーム, 乗り換え
+cluster3:(2)
+荒川線, 三ノ輪
+cluster4:(1)
+下
+cluster5:(1)
+改装
+cluster6:(1)
+国道
+cluster7:(7)
+上下線, 改札口, 三ノ輪駅, 駅, 徒歩, 三ノ輪橋駅, 駅構内
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 8
+deleted 0entities.

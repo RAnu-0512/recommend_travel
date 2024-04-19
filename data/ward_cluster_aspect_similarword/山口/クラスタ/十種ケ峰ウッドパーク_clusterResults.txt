@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十種ケ峰ウッドパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+林間コース, 上級コース
+cluster1:(12)
+Bサイト, 事, Aサイト, トイレ, 雪, 車, 注意, 坂, チェーン, スキー場, フリーサイト, サイト
+cluster2:(1)
+初中級者
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

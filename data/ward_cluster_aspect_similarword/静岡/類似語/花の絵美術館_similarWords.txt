@@ -1,0 +1,7 @@
+--------------------similar_words:花の絵美術館--------------------
+top3 entities near to cluster0>>
+花, お花, 植物
+top3 entities near to cluster1>>
+立地, 土産, 館内
+top3 entities near to cluster7>>
+技法, 生徒

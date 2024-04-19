@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ロンドンスポーツ神田店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+途中, ゼビオ, 人, 御茶ノ水, 小川町, シューズ, ロンドン, 遅れ, スポーツ, カード, 買い物, 掘り出し物, 時間, もの
+cluster1:(2)
+靖国, 神田
+cluster2:(6)
+店, スポーツ用品店, 店員, スポーツ店街, スポーツ用品, 店内
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

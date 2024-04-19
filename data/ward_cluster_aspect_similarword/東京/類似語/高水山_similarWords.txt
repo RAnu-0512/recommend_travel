@@ -1,0 +1,11 @@
+--------------------similar_words:高水山--------------------
+top3 entities near to cluster0>>
+三山, 山山, 山
+top3 entities near to cluster1>>
+高院, 寺院, 高, 寺
+top3 entities near to cluster3>>
+山頂, 頂上, 景色
+top3 entities near to cluster4>>
+登山道, 舗装道, 登山, 舗装
+top3 entities near to cluster5>>
+縦走, トレッキング, 山登り

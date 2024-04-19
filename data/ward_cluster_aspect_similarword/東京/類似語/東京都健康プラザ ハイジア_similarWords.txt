@@ -1,0 +1,7 @@
+--------------------similar_words:東京都健康プラザ ハイジア--------------------
+top3 entities near to cluster0>>
+奥, 天井, 隣
+top3 entities near to cluster1>>
+病院, 施設, 医療
+top3 entities near to cluster2>>
+カフェ, ネット, 喫茶店

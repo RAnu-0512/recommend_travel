@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥浜名自然歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+ハイキング, 山道, 浜名湖, 眺望, 佐久米海岸, 案内看板, 佐久米駅, 歩道, コース
+cluster1:(3)
+細江コース, 引佐峠, 奥浜名
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

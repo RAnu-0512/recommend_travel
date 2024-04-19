@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小山城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 駐車スペース
+cluster1:(2)
+展望天守閣, 展望台
+cluster2:(19)
+遺構, 途中, 天守閣, 領有, 迂回路, 城跡, 看板, 復元, もの, 眺め, 城, 階段, 砦, 中, 橋, 男気, 資料館, 他, 説明
+cluster3:(8)
+三日月堀, 能満寺, 堀, 徳川, 模擬城, 武田, 小山城, 寺
+
+howmany entities : 31
+howmany clusters : 4
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 2
+deleted 4entities.

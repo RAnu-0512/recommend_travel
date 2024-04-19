@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中部電力(株)井川水力発電所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+水力発電所, 中部電力 井川水力発電所, 井川水力発電所
+cluster1:(13)
+自然, 歴史, 上流, 大井川鉄道井川線, 発電所, 場所, 徒歩, 勉強, 中部電力, 発電, 井川駅, コンクリート, 株
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

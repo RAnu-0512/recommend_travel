@@ -1,0 +1,9 @@
+--------------------similar_words:広島市三滝少年自然の家--------------------
+top3 entities near to cluster0>>
+駐車料, 入園料, 駐車, 入園
+top3 entities near to cluster1>>
+子供, 子ども, 親達
+top3 entities near to cluster3>>
+遊具, 弁当, 公園
+top3 entities near to cluster4>>
+御飯, 昼, ご飯

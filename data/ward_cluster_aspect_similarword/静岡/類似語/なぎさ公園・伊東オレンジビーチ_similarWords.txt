@@ -1,0 +1,43 @@
+--------------------similar_words:なぎさ公園・伊東オレンジビーチ--------------------
+top3 entities near to cluster0>>
+ビーチ, フォト, 写真
+top3 entities near to cluster1>>
+ビール, クラゲ, 食べ物
+top3 entities near to cluster2>>
+トイレ, ヒート, キャー
+top3 entities near to cluster3>>
+ホテル, コンビニ, 帰り道
+top3 entities near to cluster4>>
+ホテル, スタッフ, イベント
+top3 entities near to cluster6>>
+遊歩道, 海沿い, 景色
+top3 entities near to cluster7>>
+海水浴, 水遊び, 砂遊び
+top3 entities near to cluster9>>
+子供, 子ども, 家族
+top3 entities near to cluster10>>
+盆, お盆, 期間
+top3 entities near to cluster11>>
+時期, 季節, 時季
+top3 entities near to cluster12>>
+夏, 冬, 真冬
+top3 entities near to cluster15>>
+砂浜, 海水
+top3 entities near to cluster17>>
+海, 海辺, 山側
+top3 entities near to cluster18>>
+南国, ヤシ, 人工
+top3 entities near to cluster19>>
+浜辺, 砂浜, 海辺
+top3 entities near to cluster21>>
+駐車場, 駐車, 場代
+top3 entities near to cluster22>>
+花火, 大会, 打ち上げ花火
+top3 entities near to cluster23>>
+海岸沿い, 海岸, 海沿い
+top3 entities near to cluster24>>
+彫刻, 絵画, 作品
+top3 entities near to cluster26>>
+温泉, 宿泊, 旅館
+top3 entities near to cluster27>>
+公園, 散歩, 遊歩道

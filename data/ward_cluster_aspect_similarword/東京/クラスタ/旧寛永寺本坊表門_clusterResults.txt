@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧寛永寺本坊表門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建造物, 大きさ
+cluster1:(5)
+爪跡, 跡, 戦火, 弾痕, 辺り一帯
+cluster2:(28)
+残り, 鉄板, 黒門, 建物, 鉄砲, 入口, 上野公園, 門, 本坊, 風格, 近く, 寛永寺, 文化財, 金属, 表門, 砲撃, 弾丸, 規模, 木造, 博物館, 伽藍, 方面, こと, 野原, 目, 大小, 扉, 横
+cluster3:(10)
+東叡山, 上野戦争, 山手線, JR, 江戸, JR線, 幕末, 江戸期, 東京国立博物館, 蛤御門
+cluster4:(3)
+寛永寺本坊表門, 寛永寺本坊, 輪王寺門跡
+
+howmany entities : 48
+howmany clusters : 5
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:折り紙博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+昔話, 童話
+cluster1:(14)
+もの, 技術, 手, 世界, こぶし, 博物館, 土産, 紙, 折り紙, 空間, 森, 折り紙ミュージアム, 作品, 一角
+cluster2:(1)
+雛様
+cluster3:(4)
+かぐや姫, 世界最大級, 御菓子城, 三次市
+cluster4:(1)
+体験型研修施設
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Outdoor sports clubZAC>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+左, 右
+cluster1:(3)
+中止, 出発, 発見
+cluster2:(3)
+愛, 感謝, 脳
+cluster3:(26)
+初回, カヌーツアー, スカイツリー, スマホ, 目, 旦那, トーク, カヤック, 写真, インストラクター, カヌー, カメラ, 他, 気持ち, ところ, 母, グーパー, 時間, ガイド, 次, 説明, スタート, 水, コイツ, 日差し, レクチャー
+cluster4:(14)
+季節, コツ, 手, こと, 心地, 事, 魅力, 安心, 気味, 力, 安定, 指示, もの, 感覚
+cluster5:(14)
+河岸, 陸地, 風, 桜, 川, 空, 雨, 水面, 桜色, 天気, 景色, 夜景, 両岸, 魚
+cluster6:(14)
+水鳥たち, 参加者, 参加, カヤック体験, 体験, 鳥たち, カヌー体験, 子供達, 鳥, 三人組, 漕ぎ方, 非日常, 子供, 釣り人
+cluster7:(1)
+スカイツリー見え見えスポット
+
+howmany entities : 77
+howmany clusters : 8
+howmany entities (more than1entities) : 77
+howmany clusters (more than1entities) : 8
+deleted 0entities.

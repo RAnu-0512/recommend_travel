@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土井ヶ浜遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ルーツ, 人
+cluster1:(2)
+多く, 人々
+cluster2:(1)
+日本
+cluster3:(2)
+故郷, 場所
+cluster4:(1)
+方向
+cluster5:(1)
+土井
+cluster6:(4)
+浜遺跡, 人類学ミュージアム, 遺跡, 弥生時代
+cluster7:(1)
+土井ヶ浜遺跡
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:安井息軒の墓--------------------
+top3 entities near to cluster1>>
+明治, 儒官
+top3 entities near to cluster2>>
+石柱, 石碑
+top3 entities near to cluster3>>
+墓地, 墓所
+top3 entities near to cluster4>>
+旧宅, 生誕, 生家
+top3 entities near to cluster5>>
+時代, 幕末, 末期
+top3 entities near to cluster6>>
+儒学者, 儒学, 漢学者, 漢学
+top3 entities near to cluster8>>
+寺, 寺院, 寶勝

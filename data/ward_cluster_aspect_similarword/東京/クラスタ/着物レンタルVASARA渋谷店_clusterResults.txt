@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着物レンタルVASARA渋谷店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+直し方, 方, 店, 目黒, 着用, 友人, 長時間, 対策, イベント参加, 推し活, VASARA
+cluster1:(4)
+着物選び, 着付師, 着物, 着物着
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

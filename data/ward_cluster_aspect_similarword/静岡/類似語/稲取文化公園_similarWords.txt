@@ -1,0 +1,11 @@
+--------------------similar_words:稲取文化公園--------------------
+top3 entities near to cluster0>>
+公園, 文化, 緑地
+top3 entities near to cluster2>>
+雛, 人形, つるし
+top3 entities near to cluster4>>
+温泉, 土産, 景色
+top3 entities near to cluster5>>
+会場, 入り口, 出入り口
+top3 entities near to cluster6>>
+屋根, 美しい, 息

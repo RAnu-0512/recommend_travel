@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名古の展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+景色, 天気, 眺め
+cluster1:(6)
+見どころ, 先, 八丈島, 海, ガイド, 風
+cluster2:(2)
+高台, 木製
+cluster3:(2)
+断崖, 灯台
+cluster4:(2)
+団体バスツアー, 八丈島最南端の岬
+cluster5:(5)
+駐車場, 展望デッキ, 展望所, 名古の展望台, 展望台
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

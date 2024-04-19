@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井上源三郎の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鳥羽・伏見, 新撰組, 新選組
+cluster1:(3)
+JR中央線, 横断歩道, 信号機
+cluster2:(14)
+宝泉寺, 井上源三郎, 墓地, 近く, 京都, 遺骸, 日野, 墓, 改札, 寺, 戦い, 日野駅, 生まれ, 井上
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

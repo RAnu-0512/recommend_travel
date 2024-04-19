@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:元三嶋神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ホテル街, 商店街
+cluster1:(2)
+路地, 階段
+cluster2:(2)
+右, 桜
+cluster3:(6)
+場所, 感じ, 立地, 商談, 体験, 御利益
+cluster4:(1)
+連戦連勝
+cluster5:(10)
+寿老神, 神社, 花手水, 山手線, 鶯谷駅, 大山祇神社, 立派神社, 三島水軍, 社殿, 三島神社
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

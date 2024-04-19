@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長浜海水浴場(東京都神津島村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+熱海, 海浜浴場, 長浜海水浴場, 熱海で海水浴
+cluster1:(4)
+観光, 海水浴客, 旅行, 家族連れ
+cluster2:(2)
+景色, 気分
+cluster3:(5)
+機会, 時間, 方, こと, 割
+cluster4:(1)
+徒歩
+cluster5:(1)
+綺麗さ
+cluster6:(14)
+ビーチ, 宿, 子ども, 手洗い, ライフジャケット, 人, 家, 防波堤, 水深, 地域, 家族, トイレ, 石, 海水浴
+cluster7:(5)
+長浜, 港, 東京, 前浜, 白浜
+cluster8:(8)
+真夏, 夏, 海岸, 海, 青い太平洋, 泳ぐ, カニ, 砂浜
+cluster9:(1)
+離島
+cluster10:(1)
+泳
+
+howmany entities : 46
+howmany clusters : 11
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 11
+deleted 0entities.

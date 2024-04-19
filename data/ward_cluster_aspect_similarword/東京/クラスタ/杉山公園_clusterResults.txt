@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杉山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中野訪問, 中野
+cluster1:(7)
+関係, ところ, 場所, 東京メトロ, 明治, 近く, 時代
+cluster2:(5)
+公園, 駅, 広場, 杉山公園, 新中野駅
+cluster3:(1)
+時間券
+cluster4:(1)
+実業家
+cluster5:(1)
+青梅街道
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

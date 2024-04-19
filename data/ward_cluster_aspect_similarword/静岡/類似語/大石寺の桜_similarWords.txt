@@ -1,0 +1,13 @@
+--------------------similar_words:大石寺の桜--------------------
+top3 entities near to cluster0>>
+桜, 花見, しだれ
+top3 entities near to cluster1>>
+景色, 景観, 雄大
+top3 entities near to cluster2>>
+駅道, 駅, 駅前
+top3 entities near to cluster3>>
+風情, 姿, 趣き
+top3 entities near to cluster4>>
+昔, 友達, 知り合い
+top3 entities near to cluster5>>
+写真, 五重塔, 風景

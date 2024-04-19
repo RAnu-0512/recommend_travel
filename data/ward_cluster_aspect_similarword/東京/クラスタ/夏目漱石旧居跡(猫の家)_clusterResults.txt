@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夏目漱石旧居跡(猫の家)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+漱石山房記念館, 夏目漱石旧居跡
+cluster1:(29)
+新宿区, 案内板, 石碑, 塀, 場所, 吾輩, 建物, 特徴, 猫, 舞台, 旧居, 川端康成, 近く, 最期, オブジェ, 根津神社, 夏目漱石, 上, 我輩, 題字, 漱石, 像, 記念館, 千駄木ふれあい, 早稲田, 明治, 漱石公園, 明治村, 社
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 2
+deleted 0entities.

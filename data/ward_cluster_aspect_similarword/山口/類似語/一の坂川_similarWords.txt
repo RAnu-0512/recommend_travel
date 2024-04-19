@@ -1,0 +1,13 @@
+--------------------similar_words:一の坂川--------------------
+top3 entities near to cluster0>>
+坂沿い, 川沿い, 川, 坂
+top3 entities near to cluster1>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster4>>
+景色, 風情, 雰囲気
+top3 entities near to cluster5>>
+満開, 桜, 八重桜
+top3 entities near to cluster6>>
+季節, 時期, 時季
+top3 entities near to cluster7>>
+撮影, 散歩, 写真

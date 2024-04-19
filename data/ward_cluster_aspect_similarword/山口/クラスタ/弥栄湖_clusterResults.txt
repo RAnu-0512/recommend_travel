@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥栄湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+目的, 背景, こと, 見ごたえ, ボート, 特徴
+cluster1:(2)
+山々, 山
+cluster2:(2)
+噴水, 橋
+cluster3:(1)
+長さ
+cluster4:(4)
+ダム湖, ダム, 湖, 弥栄大橋
+cluster5:(1)
+ダム湖百選
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

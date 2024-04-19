@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:裾野市中央公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+水辺, 川, 本流, 滝, 下流
+cluster1:(4)
+売店, 園内, 公園, 弁当
+cluster2:(3)
+遊び, 散歩, 犬
+cluster3:(10)
+街, 黄瀬川, 水遊び, ところ, 正面, 太鼓橋, 吊り橋, 場所, 中央公園, 中心
+cluster4:(1)
+五竜
+cluster5:(1)
+かけはし
+cluster6:(3)
+駐車場, 裾野市, 駐車
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 2entities.

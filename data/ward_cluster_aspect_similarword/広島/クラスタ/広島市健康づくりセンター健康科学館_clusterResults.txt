@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市健康づくりセンター健康科学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+健康診断, 健康, 健康科学館, 入館料
+cluster1:(3)
+広島市, 中区, 千田町
+cluster2:(3)
+子供連れ, 子供たち, 子供達
+cluster3:(28)
+体, キッズスペース, 室内, しくみや, 子供, 館内, おばけ屋敷, 内臓, 役割, 中, 仕組み, 腸, 歯, 人体, 構造, 印象, 天気, 幼稚園, キッズ, 遊び, イベント, 大人, 事, 時間, 一部, こと, 遊び場, 内容
+cluster4:(2)
+模型, 人体模型
+cluster5:(2)
+展示物, 展示
+cluster6:(2)
+説明ボード, 説明文
+cluster7:(1)
+駐車場
+cluster8:(1)
+未就学児
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 9
+deleted 0entities.

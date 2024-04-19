@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:温泉憩いの家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+裸, 上り, 温泉, 風呂, 湯
+cluster1:(3)
+建物, 民宿, 集落
+cluster2:(2)
+海岸, 島内
+cluster3:(11)
+水, 林, ロビー, 屋外, ドライヤー, シャワー, ところ, 室内, ほう, 徒歩, 中
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

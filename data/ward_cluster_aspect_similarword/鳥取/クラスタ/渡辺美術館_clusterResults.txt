@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渡辺美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+帰り, 砂丘, 時間, 受付, 中, 美術館, バス停, 出雲博物館, 個人, バス亭, 物, 他, 鳥取, 人, 昔, 予想外, 翡翠, 方, 金, 写真, 女性
+cluster1:(7)
+古墳時代, 古美術品, 甲冑, 装飾, 美術, 絵画, 装飾品
+cluster2:(3)
+渡辺美術館前, 渡辺美術館, 徳川家紋
+
+howmany entities : 31
+howmany clusters : 3
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 3
+deleted 0entities.

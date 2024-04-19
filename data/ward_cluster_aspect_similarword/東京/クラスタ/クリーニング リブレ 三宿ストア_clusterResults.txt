@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クリーニング リブレ 三宿ストア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+洗濯グッズ, 洗濯, 洗剤, 洗濯ブラザーズ, 洗濯洗剤
+cluster1:(13)
+ワークショップ, ダウン, 本, 質問, 気, 日々, マンツーマン, ところ, 情報, 時間, 方, 勉強, もの
+cluster2:(4)
+店, 洋服, 土産, 香り
+cluster3:(2)
+実物, 地図
+cluster4:(2)
+服装, 用途
+cluster5:(3)
+建物, 実習, 中庭
+cluster6:(1)
+参加者
+cluster7:(1)
+周辺道路
+cluster8:(1)
+試供品
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 9
+deleted 0entities.

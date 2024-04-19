@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森林公園東まわりコース自然歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+吊り橋, 下, 途中, コース
+cluster1:(2)
+散策, 景色
+cluster2:(1)
+東まわりコース
+cluster3:(1)
+自然歩道
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

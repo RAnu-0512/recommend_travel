@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カジノヴィーナス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+場所, 事, 興味, 予定, こと
+cluster1:(18)
+ゲーム, 初心者, ブラックジャック, 他, ディーラー, プレイ, ダブル, 思い出, カジノ, 周り, ビーナスフォート, 次, ショッピングモール, 雰囲気, トーナメント, のち, 目, 金
+cluster2:(1)
+台場
+cluster3:(1)
+街中
+cluster4:(2)
+カジノ体験, 初体験
+cluster5:(4)
+女性ディーラー, 男性ディーラー, 客, 女性店員
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉和歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史, 資料
+cluster1:(1)
+勉強
+cluster2:(1)
+間隔
+cluster3:(1)
+展示品
+cluster4:(1)
+吉和
+cluster5:(1)
+吉和歴史民俗資料館
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

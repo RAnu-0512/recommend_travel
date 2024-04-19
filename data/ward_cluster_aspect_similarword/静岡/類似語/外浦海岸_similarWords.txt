@@ -1,0 +1,15 @@
+--------------------similar_words:外浦海岸--------------------
+top3 entities near to cluster0>>
+砂浜, 浜辺, 海岸
+top3 entities near to cluster2>>
+カニ, エビ
+top3 entities near to cluster5>>
+海, 海水, 浜
+top3 entities near to cluster6>>
+海岸, 海沿い, 砂浜
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster8>>
+子供, 海水浴, 子ども
+top3 entities near to cluster15>>
+バス便, バス, 本数

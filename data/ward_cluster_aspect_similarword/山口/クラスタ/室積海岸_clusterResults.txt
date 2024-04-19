@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:室積海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+砂浜, 虹ケ浜海岸, 海, 海岸
+cluster1:(10)
+夏, 日本, 西日本, メリット, 屈指, 水, 近く, 徒歩, 海水浴場, 海水浴
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

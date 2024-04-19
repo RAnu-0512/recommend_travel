@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中目黒GTプラザホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観光案内所, 複合商業施設, 防音設備, 商業施設
+cluster1:(23)
+図書館, スタバ, プラザホール, イベント, スーパー, アクセス, ライブ, スターバックス, 東急東横線, タワー, 木, ホール, スロープ, 屋外スペース, 駅, 施設, レストラン, 地下, 質感, 中目黒駅, ビル, プレッセ, スポット
+cluster2:(3)
+目黒区, 中目黒GTプラザ, 中目黒GT
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 3
+deleted 0entities.

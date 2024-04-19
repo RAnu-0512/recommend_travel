@@ -1,0 +1,57 @@
+--------------------similar_words:豊島園庭の湯--------------------
+top3 entities near to cluster0>>
+中学生, 小学生, トイレ
+top3 entities near to cluster1>>
+気持ち, 雰囲気, 思い出
+top3 entities near to cluster2>>
+スペース, エリア, プラン
+top3 entities near to cluster3>>
+出入り口, スタッフ, カウンター
+top3 entities near to cluster4>>
+アクアプログラム, マッサージ, フィットネスプール
+top3 entities near to cluster5>>
+バーデ, ジャグジー, ジャグジーバス
+top3 entities near to cluster6>>
+ナイター, デーゲーム, デイゲーム
+top3 entities near to cluster7>>
+スパスパ, スパスパッ, タバコスパスパ
+top3 entities near to cluster8>>
+オススメ, ススメ, おすすめ
+top3 entities near to cluster9>>
+プール, サウナ, 露天風呂
+top3 entities near to cluster10>>
+店員, 眼鏡, 彼氏
+top3 entities near to cluster11>>
+ルーム, チェア, バー
+top3 entities near to cluster12>>
+撮影, 放送, 移動
+top3 entities near to cluster13>>
+使用, 提供, 用意
+top3 entities near to cluster14>>
+施設, 館内, 立地
+top3 entities near to cluster16>>
+食事, 家族, 夫婦
+top3 entities near to cluster17>>
+平日, 週末, 休日
+top3 entities near to cluster18>>
+駅, 駅前, 西武
+top3 entities near to cluster19>>
+水着, 料金, 宿泊
+top3 entities near to cluster20>>
+休憩, 仮眠, 昼休み
+top3 entities near to cluster21>>
+処, 食事, 夕食
+top3 entities near to cluster22>>
+岩盤, 岩床, 溶岩
+top3 entities near to cluster23>>
+岩盤浴, 岩盤, 岩床
+top3 entities near to cluster24>>
+スパ, 温泉, デイスパ
+top3 entities near to cluster25>>
+温泉, 施設, 温浴
+top3 entities near to cluster26>>
+温泉, 露天風呂, 湯
+top3 entities near to cluster27>>
+風呂, 湯船, 浴槽
+top3 entities near to cluster28>>
+炭酸水, 化粧水, 炭酸, 化粧

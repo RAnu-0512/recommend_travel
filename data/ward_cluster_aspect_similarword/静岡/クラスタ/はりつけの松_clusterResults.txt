@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はりつけの松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海岸, 海岸沿い, 観光地
+cluster1:(13)
+松, 場所, はりつけ, 恋, 身分, 大島, はりつけの松, 海防, 戸籍, 樹齢, 恋仲, 近く, 雪
+cluster2:(2)
+片瀬白田, 松平定信
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 2entities.

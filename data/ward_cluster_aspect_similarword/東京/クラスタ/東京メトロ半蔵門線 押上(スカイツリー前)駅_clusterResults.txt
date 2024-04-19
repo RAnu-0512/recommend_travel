@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ半蔵門線 押上(スカイツリー前)駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+直結, 改札, 出口
+cluster1:(7)
+店, 建物, 街, 散歩, 駅, 都心, 町
+cluster2:(11)
+デート, 半蔵門線, 利用, アクセス, 東武鉄道, スカイツリー, 明かり, 終着駅, 案内, ソラマチ, 乗り換え
+cluster3:(6)
+場所, 間, 目的, 近く, 前, スタンプ台
+cluster4:(1)
+情緒タップリ
+cluster5:(1)
+観光地
+cluster6:(2)
+浅草, 下町
+cluster7:(3)
+東京, 東京スカイツリー, 東京メトロ
+cluster8:(4)
+東武スカイ, スカイツリー駅, 押上駅, 東武線
+cluster9:(1)
+東京メトロ半蔵門線 押上<スカイツリー前>駅
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 10
+deleted 0entities.

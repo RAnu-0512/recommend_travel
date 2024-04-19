@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:○○のはなし>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+山陰海岸, 仙崎, 山陰, 萩, 下関
+cluster1:(19)
+地ビール, 山陰本線, 景色, 次, 手, 場所, サービス, 売店, 風景, 時間, 瞬間, おもてなし, 絶景, 眺め, 出迎え, 人, 海, 気持ち, 山
+cluster2:(8)
+観光列車, 鉄道, 沿線, 編成, 車内, 列車, 電車, 座席
+cluster3:(1)
+みすゞ潮騒
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 4
+deleted 0entities.

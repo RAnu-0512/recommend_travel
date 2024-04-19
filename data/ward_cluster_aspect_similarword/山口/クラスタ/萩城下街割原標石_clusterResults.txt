@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩城下街割原標石>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+城下町, 切り石
+cluster1:(1)
+玄武岩
+cluster2:(1)
+石
+cluster3:(1)
+標石
+cluster4:(1)
+城下街
+cluster5:(1)
+萩城下街割原
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

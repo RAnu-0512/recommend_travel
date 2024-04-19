@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:CatCafeにゃんこと>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+癒やし, コンセプト感, 感
+cluster1:(3)
+女性店員, 入店, 店員
+cluster2:(16)
+スタッフ, カフェ, しょう, モフモフ, 飲み物, スマホ, ドリンクバー, ペット, おもちゃ, 子連れ, 使い方, 向こう, ところ, 手持ち無沙汰, アニバーサリー, パック
+cluster3:(5)
+気, こと, 思い, 感じ, 事
+cluster4:(2)
+点, 注意
+cluster5:(3)
+利用, 説明, 情報
+cluster6:(3)
+時間, 中, 上
+cluster7:(6)
+入口, 店, 室内, 席, 店内, 貸切
+cluster8:(12)
+客, 顔, 手, 声, 方, 疲れ, 方達, 全員, 他, 女性スタッフ, 常連, 人
+cluster9:(3)
+子供達, 大人, 子供
+cluster10:(2)
+近く, 実家
+cluster11:(4)
+娘, 子, 親, 息子
+cluster12:(2)
+ネコちゃん達, ネコチャン達
+cluster13:(2)
+猫たち, 猫達
+cluster14:(2)
+猫ちゃん達, 猫ちゃんたち
+cluster15:(1)
+猫さん達
+cluster16:(3)
+ネコ, ネコチャン, ネコちゃん
+cluster17:(3)
+猫, 猫カフェ, 猫ちゃん
+cluster18:(1)
+だし猫ちゃん
+cluster19:(1)
+撫
+cluster20:(1)
+子供放置子供
+cluster21:(6)
+おやつタイム意外, 常連さんらしき方, Tシャツ着てる常連, 未就学児, おやつ, おやつタイム
+
+howmany entities : 84
+howmany clusters : 22
+howmany entities (more than1entities) : 84
+howmany clusters (more than1entities) : 22
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:六義園 出汐の湊--------------------
+top3 entities near to cluster0>>
+左手, 正面, 右手
+top3 entities near to cluster1>>
+景色, 光景, 眺め
+top3 entities near to cluster3>>
+出汐, 湊, 璃飛
+top3 entities near to cluster4>>
+海, 島, 海辺
+top3 entities near to cluster5>>
+休憩, 所内, 仮眠
+top3 entities near to cluster6>>
+大, 海原, 泉水

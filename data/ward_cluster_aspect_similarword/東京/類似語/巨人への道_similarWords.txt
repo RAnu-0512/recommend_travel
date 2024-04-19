@@ -1,0 +1,17 @@
+--------------------similar_words:巨人への道--------------------
+top3 entities near to cluster0>>
+その道, .
+top3 entities near to cluster1>>
+球場, 巨人, 球団
+top3 entities near to cluster2>>
+石段, 階段, 急坂
+top3 entities near to cluster3>>
+直通, 往復, 発着
+top3 entities near to cluster5>>
+ゴンドラ, シャトル, 上り坂
+top3 entities near to cluster6>>
+気合, 試練, 気合い
+top3 entities near to cluster7>>
+丘陵, 台地, 山裾
+top3 entities near to cluster8>>
+京王, モールアネックス, 駅

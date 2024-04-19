@@ -1,0 +1,13 @@
+--------------------similar_words:新宿 末広亭--------------------
+top3 entities near to cluster0>>
+長蛇, 列, 列なん
+top3 entities near to cluster1>>
+興味, 機会
+top3 entities near to cluster3>>
+飲食, 飲酒, 喫煙
+top3 entities near to cluster4>>
+弁当, 持参, お握り
+top3 entities near to cluster5>>
+宅, 友人, 知人
+top3 entities near to cluster6>>
+落語, 席, 寄席

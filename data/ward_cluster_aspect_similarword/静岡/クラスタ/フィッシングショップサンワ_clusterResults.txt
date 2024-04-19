@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フィッシングショップサンワ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+日陰, オキアミ, 魚, 道具, 初心者, 家族, 餌, 釣り場, ポイント, リール, もの, 人, 体験, 店, キタマクラ, 感じ, 次, 有料, レンタル, 近く, 説明, 子供, トイレ, バケツ, 子連れ, 久々, 方
+cluster1:(2)
+竿, リール竿
+cluster2:(3)
+釣り, 釣り方, 釣り人
+cluster3:(1)
+熱海旅行
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 2
+deleted 3entities.

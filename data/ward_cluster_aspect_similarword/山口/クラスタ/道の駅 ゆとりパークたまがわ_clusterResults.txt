@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 ゆとりパークたまがわ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+もの, 施設, 店員, 待ち時間, 訪問, 売り切れ, リニューアル工事, 手, 道, 国道, 種類, 地元, 営業, 注文, 駅, 主人, 隣, 品ぞろえ, 人, メニュー, 店内
+cluster1:(3)
+田万川温泉, 萩, 餡
+cluster2:(1)
+駐車場
+cluster3:(10)
+山口県, 土産, 魚貝類, 竹・木工, 土産品, 焼き, 新鮮館, 作り置き, 陶器類, 焼き屋
+
+howmany entities : 35
+howmany clusters : 4
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 4
+deleted 0entities.

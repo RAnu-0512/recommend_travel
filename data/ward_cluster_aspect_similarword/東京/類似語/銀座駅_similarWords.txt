@@ -1,0 +1,29 @@
+--------------------similar_words:銀座駅--------------------
+top3 entities near to cluster0>>
+丁目, ポールスタービル, 四
+top3 entities near to cluster3>>
+駅, 地下鉄, メトロ
+top3 entities near to cluster4>>
+駅, 駅前, 三越
+top3 entities near to cluster7>>
+ショップ, ブランド, 有名ブランド
+top3 entities near to cluster8>>
+買い物, 待ち合わせ, 金持ち
+top3 entities near to cluster9>>
+乗換え, 行き先, 乗り換え
+top3 entities near to cluster10>>
+地下鉄, 地下道, 出入口
+top3 entities near to cluster11>>
+繁華街, 繁華
+top3 entities near to cluster15>>
+真下, 地上, 真上
+top3 entities near to cluster16>>
+物騒, 安全, ハイ
+top3 entities near to cluster17>>
+利用, 案内, 使用
+top3 entities near to cluster18>>
+目的地, 中心地, 目的, 中心
+top3 entities near to cluster19>>
+かう, 行き, 行く
+top3 entities near to cluster20>>
+駅, 駅前, 構内

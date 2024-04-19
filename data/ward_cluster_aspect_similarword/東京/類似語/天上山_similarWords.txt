@@ -1,0 +1,17 @@
+--------------------similar_words:天上山--------------------
+top3 entities near to cluster1>>
+沢池, 沢, 窪
+top3 entities near to cluster2>>
+登山, 山頂, 山登り
+top3 entities near to cluster4>>
+体力, 疲労
+top3 entities near to cluster5>>
+表情, 空気
+top3 entities near to cluster6>>
+弁当, おにぎり
+top3 entities near to cluster7>>
+山頂, 景色, 絶景
+top3 entities near to cluster8>>
+満足感, 満足, 喜び
+top3 entities near to cluster9>>
+展望, 砂漠, 道路

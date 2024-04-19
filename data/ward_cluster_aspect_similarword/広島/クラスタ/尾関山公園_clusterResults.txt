@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾関山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+熊山城, 三次市, 広島県北, 尾関山駅, 尾関山公園, 三次町
+cluster1:(2)
+駐車場, 無料駐車場
+cluster2:(5)
+家族連れ, 三川合流, 散策, 散策道, 子供づれ
+cluster3:(2)
+展望台, 展望
+cluster4:(10)
+秋, 時期, 季節, 桜, 紅葉シーズン, 紅葉, 祭り, 桜満開, 春, 最高期
+cluster5:(2)
+もののけミュージアム, もののけ
+cluster6:(6)
+方, 話, ほう, ナビ, 事, 場所
+cluster7:(2)
+落ち葉, もみじ
+cluster8:(4)
+トイレ, ミュージアム, ライト, カップル
+cluster9:(2)
+子供, 人
+cluster10:(1)
+赤
+cluster11:(6)
+下, 横, 周辺, 地元, 夜間, 近く
+cluster12:(1)
+廃止
+cluster13:(11)
+施設, 坂道, 石碑, 絨毯, 天気, 駐車スペース, 車, 園内, 名所, 景色, 公園
+cluster14:(1)
+JR三江線
+cluster15:(1)
+時間帯
+cluster16:(1)
+;̄◇̄
+cluster17:(1)
+た.2018.4.1三江線
+
+howmany entities : 64
+howmany clusters : 18
+howmany entities (more than1entities) : 64
+howmany clusters (more than1entities) : 18
+deleted 0entities.

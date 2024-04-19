@@ -1,0 +1,23 @@
+--------------------similar_words:伊豆高原--------------------
+top3 entities near to cluster0>>
+ホテル, レストラン, カフェ
+top3 entities near to cluster4>>
+駅, 駅前, 周辺
+top3 entities near to cluster6>>
+渋滞, 混雑, 台数
+top3 entities near to cluster7>>
+電車, 改札, 車内
+top3 entities near to cluster8>>
+景色, 木々, 海沿い
+top3 entities near to cluster15>>
+演奏, 弾く, 伴奏
+top3 entities near to cluster16>>
+音色, 言葉
+top3 entities near to cluster17>>
+建物, 設計, 建築
+top3 entities near to cluster21>>
+子供, 家族, ワンコ
+top3 entities near to cluster23>>
+温泉, 宿泊, 旅館
+top3 entities near to cluster25>>
+海沿い, 海岸沿い, 海, 海岸

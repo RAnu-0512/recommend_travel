@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山陰海岸ジオパーク海と大地の自然館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海岸沿い, 山陰海岸
+cluster1:(2)
+鳥取県立, 鳥取
+cluster2:(43)
+閑散, 浦富海岸, 本, 展示, 駅, 物語, 修学旅行, 海, 水槽, 雨, 観察, 映像, 童心, 遊歩道, 学芸員, 地域共通クーポン, 興味, 新型コロナウイルス, 道, 遠足, 宿近く, 残り, 天使, 人, 体験コーナー, 自然, 案内, 誕生, 内容, 魚, 貝殻, 時間帯, 施設, 方, 子供, 華やかさ, 地味, 途中, 解説, 地図類, 大地, 分類, 時間
+
+howmany entities : 47
+howmany clusters : 3
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 3
+deleted 0entities.

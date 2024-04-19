@@ -1,0 +1,13 @@
+--------------------similar_words:柚木慈生温泉--------------------
+top3 entities near to cluster1>>
+入浴, 温泉, 風呂
+top3 entities near to cluster2>>
+湯船, 浴槽, 風呂
+top3 entities near to cluster3>>
+湯船, 湯ぶね, 湯槽
+top3 entities near to cluster4>>
+泡, 炭酸, 桶
+top3 entities near to cluster5>>
+温泉, 慈生, ウタノ
+top3 entities near to cluster6>>
+呼吸器, 呼吸, ビオー

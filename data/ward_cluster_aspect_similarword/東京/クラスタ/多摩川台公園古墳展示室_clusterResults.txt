@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩川台公園古墳展示室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+古墳博物館, 亀甲山古墳, 蓬莱山古墳, 多摩川古墳群, o♪古墳, 古墳群, 古墳, 石室, 古墳公園
+cluster1:(20)
+場所, 多く, 内容, 人, 多摩川, 子供, 迫力, 本物, ミニ博物館, 館内, 河川敷, 入り口, 興味, レプリカ, 時間, 実物大, 魅力, 歴史, スポット, 資料
+cluster2:(5)
+公園, 多摩川台公園, 東急線, 後円部, 多摩川駅
+cluster3:(3)
+入場料理, 入場無料, 入場料
+cluster4:(3)
+展示品, 展示物, 展示
+cluster5:(2)
+展示室, 古墳展示室
+
+howmany entities : 42
+howmany clusters : 6
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 6
+deleted 0entities.

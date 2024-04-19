@@ -1,0 +1,17 @@
+--------------------similar_words:日韓友好資料館--------------------
+top3 entities near to cluster0>>
+雑貨, 食品, 楽器
+top3 entities near to cluster2>>
+文化, 交流, 歴史
+top3 entities near to cluster3>>
+国道, 県道
+top3 entities near to cluster4>>
+公園, 石碑, 駅
+top3 entities near to cluster6>>
+必然性, 可能性, 必然, 可能
+top3 entities near to cluster7>>
+友好, 民族, 文化
+top3 entities near to cluster8>>
+施設, 資料, 館
+top3 entities near to cluster9>>
+友好, 館, 資料

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:(有)村田蒲鉾店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+蒲鉾, かまぼこ屋, 土産
+cluster1:(2)
+雨, 傘
+cluster2:(7)
+天ぷら, かまぼこ, 揚げ物, スタッフ, スマート, ショーケース, お迎え
+cluster3:(2)
+友人, 人
+cluster4:(1)
+製品
+cluster5:(4)
+対応, 気, 外, 感じ
+cluster6:(1)
+レジ
+cluster7:(1)
+弾力
+cluster8:(1)
+保冷剤
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

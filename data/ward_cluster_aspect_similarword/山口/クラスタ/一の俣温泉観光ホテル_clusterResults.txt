@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一の俣温泉観光ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口県, 質, 泉質
+cluster1:(3)
+ホテル, 口コミ, グランドホテル
+cluster2:(5)
+クレンジング, スタッフ, スタンプ, 露天風呂, アメニティ
+cluster3:(3)
+ヌルヌル, ポカポカ, トロトロ
+cluster4:(1)
+気持ち
+cluster5:(2)
+洗面所, ロビー
+cluster6:(1)
+うどん
+cluster7:(1)
+手入れ
+cluster8:(1)
+サウナ
+cluster9:(1)
+^^)
+cluster10:(4)
+食事, 庭, 訪問, 家族
+cluster11:(11)
+事情, 火, こと, ほか, 他, 対応, 気分, 次回, 瞬間, 別, 近く
+cluster12:(1)
+友人夫妻
+cluster13:(2)
+貸切状態, 貸し切り状態
+cluster14:(2)
+お湯, 湯
+cluster15:(2)
+風呂, 浴室
+cluster16:(1)
+内湯
+cluster17:(7)
+床, ピーリング剤, 睡眠, 芯, 温度, 肌, イノシシ鍋
+cluster18:(15)
+一の俣温泉, 食事処, ヘアケア, 化粧品, 休憩所, 爪磨き, 日帰り温泉, 日帰り温泉利用, 種類もの洗顔料, 温泉, 日帰り入浴, 俣温泉, 入浴出来, 温泉巡り, 脱衣所
+
+howmany entities : 66
+howmany clusters : 19
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 19
+deleted 0entities.

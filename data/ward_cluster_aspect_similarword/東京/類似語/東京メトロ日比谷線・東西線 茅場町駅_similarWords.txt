@@ -1,0 +1,13 @@
+--------------------similar_words:東京メトロ日比谷線・東西線 茅場町駅--------------------
+top3 entities near to cluster0>>
+駅, 改札, 構内
+top3 entities near to cluster1>>
+ホーム, 雰囲気, 乗り換え
+top3 entities near to cluster2>>
+東西線, 南北線, 半蔵門線
+top3 entities near to cluster3>>
+遣っ, 遣う
+top3 entities near to cluster4>>
+移動, 行き来, 移る
+top3 entities near to cluster5>>
+通勤, 通学, マイカー

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧細川侯爵邸(和敬塾本館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+肥後細川庭園, 細川護立, 細川家, 細川侯爵家
+cluster1:(21)
+文京区, 学生寮, 東京都, 多く, 内部, 建物, 昭和, 男子大学生, 財界人, 大学, 目白台, 塾生, 事, 塾, 機会, 公開, 本館, 敷地, 大学院生, 寮, 西洋館
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 2
+deleted 0entities.

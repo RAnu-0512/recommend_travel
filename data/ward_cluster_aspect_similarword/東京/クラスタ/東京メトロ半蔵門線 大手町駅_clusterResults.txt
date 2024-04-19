@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ半蔵門線 大手町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地下鉄路線, 路線
+cluster1:(2)
+駅, 大手町駅
+cluster2:(17)
+大手町, 三田線, 半蔵門線, 丸ノ内線, 人, 利用, 距離, ターミナル, 乗り入れ, 工事, 東武, 地下鉄, 東西線, 直通, 混雑, 乗り換え, 階段
+cluster3:(4)
+門線, 他線, 千代田線, 時間帯
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:粟ヶ岳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+駐車場, いっぷく処, 山頂, 粟ヶ岳山頂, 山頂周辺, 休憩施設, 頂上
+cluster1:(2)
+茶, 東山茶
+cluster2:(4)
+絶景ポイント, 景観, 眺め, 眺望
+cluster3:(7)
+木々, 山道, 神社, 桜, 山麓, 山, 道
+cluster4:(2)
+裏側, 裏
+cluster5:(3)
+車, 売店, 施設
+cluster6:(14)
+すれ違い, 御朱印, 程度, 喫茶店, バイク, ハイキング, 太平洋, ところ, 人, 伊豆半島, 休日, テラス, 方, 粟ヶ岳
+cluster7:(1)
+達成感
+cluster8:(1)
+阿波々神社
+
+howmany entities : 41
+howmany clusters : 9
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 5
+deleted 6entities.

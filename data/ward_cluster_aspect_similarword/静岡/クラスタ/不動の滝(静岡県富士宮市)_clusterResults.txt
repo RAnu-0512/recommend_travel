@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:不動の滝(静岡県富士宮市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+落差, 迫力, 水量
+cluster1:(2)
+夏場, 季節
+cluster2:(2)
+緑, 新緑
+cluster3:(15)
+不動, 途中, 姿, 水, ハイキング, 全国, 看板, マイナスイオン, 人, 気持ち, 周囲, 上, 名前, 近く, 滝つぼ
+cluster4:(1)
+バスツアー
+cluster5:(5)
+滝壺, 登山口, 登山道, 展望台, 滝
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 5entities.

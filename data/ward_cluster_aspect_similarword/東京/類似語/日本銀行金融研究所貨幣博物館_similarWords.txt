@@ -1,0 +1,27 @@
+--------------------similar_words:日本銀行金融研究所貨幣博物館--------------------
+top3 entities near to cluster0>>
+展示, 出展, 展覧
+top3 entities near to cluster1>>
+見学, 視察, 本店
+top3 entities near to cluster2>>
+資料, 分館, 館
+top3 entities near to cluster3>>
+体験, 映像, 上映
+top3 entities near to cluster4>>
+入場料, 入場, 無料
+top3 entities near to cluster5>>
+検査局, 銀行局, 検査, 銀行
+top3 entities near to cluster7>>
+歴史, 現代, 近代
+top3 entities near to cluster8>>
+子供, 子ども, 大人
+top3 entities near to cluster9>>
+停止, 関与, 拡大
+top3 entities near to cluster10>>
+売店, 土産, 土産物
+top3 entities near to cluster12>>
+勉強, 参加, 片手
+top3 entities near to cluster13>>
+時間, お金, 金
+top3 entities near to cluster14>>
+貨幣, 銀貨, 金貨

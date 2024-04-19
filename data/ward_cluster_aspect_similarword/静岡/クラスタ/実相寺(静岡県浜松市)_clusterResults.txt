@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:実相寺(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登り坂, 鐘楼門
+cluster1:(2)
+注意, 開祖
+cluster2:(3)
+本堂, 境内, 寺
+cluster3:(3)
+隣, 裏手, 高台
+cluster4:(4)
+庭園, 井伊谷, 枯山水, 建物
+cluster5:(1)
+車道
+cluster6:(1)
+まとまり感
+cluster7:(1)
+駐車場
+cluster8:(4)
+浜松市, 一人, 近藤, 金指小学校
+cluster9:(1)
+指定名勝
+
+howmany entities : 22
+howmany clusters : 10
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 4
+deleted 8entities.

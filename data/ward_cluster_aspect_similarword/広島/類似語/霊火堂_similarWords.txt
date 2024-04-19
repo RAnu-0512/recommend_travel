@@ -1,0 +1,33 @@
+--------------------similar_words:霊火堂--------------------
+top3 entities near to cluster0>>
+湯, 釜, お湯
+top3 entities near to cluster1>>
+堂宇, 札所, 梵鐘
+top3 entities near to cluster2>>
+賽銭, 霊水, 閉門
+top3 entities near to cluster4>>
+土水, 土
+top3 entities near to cluster5>>
+山頂, 麓, 山道
+top3 entities near to cluster7>>
+聖地, 恋人, 靴
+top3 entities near to cluster8>>
+パワー, エナジー, エネルギー
+top3 entities near to cluster9>>
+弘法大師, 不動明王, 薬師如来
+top3 entities near to cluster10>>
+ジュース, スタッフ, ロープウェー
+top3 entities near to cluster11>>
+真ん中, まん中, 端っこ
+top3 entities near to cluster12>>
+自販機, コンビニ, 自販
+top3 entities near to cluster13>>
+コップ, プラカップ, マグカップ
+top3 entities near to cluster14>>
+文化財, 平宗盛, 広福寺
+top3 entities near to cluster15>>
+国名, 国々
+top3 entities near to cluster16>>
+平和堂, 平和, ＭＡＨＯ
+top3 entities near to cluster17>>
+山頂, 頂上, 麓

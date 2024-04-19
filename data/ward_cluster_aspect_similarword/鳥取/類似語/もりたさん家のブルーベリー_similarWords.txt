@@ -1,0 +1,9 @@
+--------------------similar_words:もりたさん家のブルーベリー--------------------
+top3 entities near to cluster0>>
+金水, 土水, 金, 土
+top3 entities near to cluster2>>
+農園, 果物
+top3 entities near to cluster3>>
+同行者, 同伴者, 同行, 同伴
+top3 entities near to cluster4>>
+農薬, 無, 添加

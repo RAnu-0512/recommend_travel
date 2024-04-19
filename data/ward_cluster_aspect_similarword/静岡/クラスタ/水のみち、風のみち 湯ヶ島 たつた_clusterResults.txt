@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水のみち、風のみち 湯ヶ島 たつた>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+風情, 竹林, 風流
+cluster1:(2)
+湯船, 風呂
+cluster2:(2)
+宿, 旅館
+cluster3:(5)
+妻, 時期, 狩野川, 大きめ, 露天風呂
+cluster4:(2)
+料理, そば
+cluster5:(2)
+伊豆旅行, 川床料理
+cluster6:(3)
+湯ヶ島温泉, 森の風呂, かぐやの湯
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 8entities.

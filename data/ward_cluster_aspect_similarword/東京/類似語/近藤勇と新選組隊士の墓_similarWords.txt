@@ -1,0 +1,11 @@
+--------------------similar_words:近藤勇と新選組隊士の墓--------------------
+top3 entities near to cluster0>>
+墓石, 墓所
+top3 entities near to cluster2>>
+新撰組, 新選組, 新撰, 新選
+top3 entities near to cluster3>>
+隊員, 勇者, 兵士
+top3 entities near to cluster4>>
+ずる, すずむ, ロリグラス
+top3 entities near to cluster6>>
+新選, 新撰, 土方

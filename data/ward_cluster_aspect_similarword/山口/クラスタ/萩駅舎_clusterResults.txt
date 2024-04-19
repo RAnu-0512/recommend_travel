@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩駅舎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+萩駅駅舎, JR東萩駅, 萩城下町, 東萩駅, 明倫学舎, 萩駅, 萩駅舎, 石見銀山, 萩, 下関, 井上勝
+cluster1:(6)
+観光案内所, 展示物, 建築物, 展示室, 資料館, 観光協会
+cluster2:(3)
+もの, ほう, 感じ
+cluster3:(2)
+必要, 余裕
+cluster4:(1)
+機会
+cluster5:(16)
+前, 中, イルミネーション, 昔, こじんまり, グッズ, 手入れ, 日本, 時間, 博物館, 雰囲気, レトロ, 花, 人, 父, 近く
+cluster6:(17)
+広場, 街, 鉄道, 電話ボックス, 駅舎, 駐車スペース, 資料, 電車待ち, バス, 待合スペース, 駅, 列車, 銅像, 歴史, 無人駅, 駐車場, 建物
+
+howmany entities : 56
+howmany clusters : 7
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 7
+deleted 0entities.

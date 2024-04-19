@@ -1,0 +1,21 @@
+--------------------similar_words:上千葉砂原公園--------------------
+top3 entities near to cluster0>>
+公園, 遊具, 花見
+top3 entities near to cluster1>>
+動物, ポニー
+top3 entities near to cluster2>>
+乗り物, 自転車, 三輪車
+top3 entities near to cluster3>>
+コーナー, ポイント, おすすめ
+top3 entities near to cluster4>>
+ポニー, 小動物, ・・ポニー
+top3 entities near to cluster5>>
+水遊び, 川遊び, 水浴び
+top3 entities near to cluster6>>
+子供, 大人, 子ども
+top3 entities near to cluster7>>
+信号場, 信号係, 信号
+top3 entities near to cluster8>>
+練習, 乗馬, 特訓
+top3 entities near to cluster9>>
+公園, 動物, 園内

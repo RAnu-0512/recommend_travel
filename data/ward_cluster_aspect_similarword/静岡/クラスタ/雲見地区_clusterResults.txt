@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雲見地区>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+雲見地区, 雲見海岸, 雲見大橋下, 雲見温泉街
+cluster1:(20)
+海水浴場, 温泉, 風情, 両岸, 多く, 民宿, 太田川, バス, 宿, 漁協, 国道, 伊豆, 富士山, 中, 海, 雰囲気, 販売所, 場所, 軒, 子連れ
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 0entities.

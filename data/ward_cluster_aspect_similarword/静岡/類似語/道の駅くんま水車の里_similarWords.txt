@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅くんま水車の里--------------------
+top3 entities near to cluster0>>
+価値, 値段, 風味
+top3 entities near to cluster9>>
+子供, 名物, 地元
+top3 entities near to cluster10>>
+処, 自然, 地元
+top3 entities near to cluster12>>
+蕎麦, そば, そば切り

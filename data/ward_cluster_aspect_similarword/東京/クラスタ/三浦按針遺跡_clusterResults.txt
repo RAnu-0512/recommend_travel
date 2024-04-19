@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三浦按針遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(37)
+イギリス, 本名, 石碑, 言葉, 場所, 外国人, 按針, 航海士, 地, 水先案内人, 裏, 建物, 日本橋, 人, 昭和, 間, 史蹟, 気, 名, 日, 近く, 碑, 文化, オランダ, 才能, 屋敷跡, 島国独特, 屋敷, ビル, 日本, 中, 歴史, 道, 貿易, 旗本, 説明, 発展
+cluster1:(2)
+徳川家康, 江戸時代初期
+cluster2:(2)
+三浦按針遺跡, 三浦按針屋敷
+cluster3:(2)
+三浦郡, 三浦按
+
+howmany entities : 43
+howmany clusters : 4
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 4
+deleted 0entities.

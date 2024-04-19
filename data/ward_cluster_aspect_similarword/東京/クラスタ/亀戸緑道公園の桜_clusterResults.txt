@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀戸緑道公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜並木, シーズン
+cluster1:(1)
+コース
+cluster2:(1)
+年寄り
+cluster3:(1)
+人
+cluster4:(1)
+子供
+cluster5:(1)
+桜
+cluster6:(1)
+道
+cluster7:(1)
+穴場
+cluster8:(1)
+時間帯
+cluster9:(1)
+亀戸駅
+
+howmany entities : 11
+howmany clusters : 10
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 10
+deleted 0entities.

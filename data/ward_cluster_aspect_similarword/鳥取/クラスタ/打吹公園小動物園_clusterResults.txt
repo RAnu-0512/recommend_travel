@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:打吹公園小動物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+五月山動物園, 小動物園, 動物園
+cluster1:(2)
+動物, 動物たち
+cluster2:(4)
+ヤギ, サル, カメ, シカ
+cluster3:(10)
+テンジクネズミ, モルモット, 公園, エサ, 鳥, ニホンザル, ウサギ, 大阪, 子供, トカラヤギ
+cluster4:(1)
+ミニブタ
+cluster5:(1)
+池田市
+cluster6:(1)
+打吹公園
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 7
+deleted 0entities.

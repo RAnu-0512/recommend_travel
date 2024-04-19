@@ -1,0 +1,31 @@
+--------------------similar_words:瀬戸内海汽船トラベルサービス--------------------
+top3 entities near to cluster0>>
+観覧車, 駐車, 観覧
+top3 entities near to cluster1>>
+発着便, 乗り継ぎ便, 発着, 乗り継ぎ
+top3 entities near to cluster3>>
+桟橋, 船旅
+top3 entities near to cluster4>>
+期待, 眺め, 見
+top3 entities near to cluster5>>
+連絡, 電話, ＴＥＬ
+top3 entities near to cluster6>>
+靴, 椅子, 革靴
+top3 entities near to cluster7>>
+食事, 寝, 昼寝
+top3 entities near to cluster8>>
+客室, 乗務, ビューバスルーム
+top3 entities near to cluster9>>
+展望, 天気, 公園
+top3 entities near to cluster10>>
+秋, 春, 夏
+top3 entities near to cluster11>>
+水族館, イルカ, クジラ
+top3 entities near to cluster12>>
+ホテル, プリンスホテル, フェリー
+top3 entities near to cluster13>>
+時間, 外観
+top3 entities near to cluster15>>
+座り心地, 座り, すわり
+top3 entities near to cluster16>>
+温泉, 14, 21

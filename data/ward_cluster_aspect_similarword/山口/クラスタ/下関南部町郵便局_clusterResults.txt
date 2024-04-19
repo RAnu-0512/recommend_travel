@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関南部町郵便局>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+唐戸レトロ, 唐戸, 下関南部町, 唐戸市場
+cluster1:(8)
+昔, 日本, 現役, 明治, 時代, 歴史, 国内, 下関
+cluster2:(3)
+幸運, 平和, 丸いポスト
+cluster3:(3)
+一角, 入口, 中庭
+cluster4:(9)
+中, カフェ, こと, 存在, アーチ, 雰囲気, 太平洋戦争, カモンワーフ, 見ごたえ
+cluster5:(2)
+身, 距離
+cluster6:(1)
+戦火
+cluster7:(1)
+大切さ
+cluster8:(11)
+洋風建築物, 建築, 近代建築, 資料展示コーナー, 都市部, 洋風建築, 郵便局, 建築物, レンガ造り, 現役郵便局, 建物
+
+howmany entities : 42
+howmany clusters : 9
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 9
+deleted 0entities.

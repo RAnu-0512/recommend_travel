@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倭文神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+方法, 何か, こと, 参り, 場所
+cluster1:(13)
+ところ, ニュース, 選択肢, ボタボタッ, ジョギング, カメムシ, 帰り際, 突き当たり, レンタサイクル, 今回, 分かれ道, 雰囲気, 御朱印
+cluster2:(2)
+神, 国
+cluster3:(4)
+左, 間, 近く, 側
+cluster4:(1)
+国宝
+cluster5:(11)
+勾配, 山道, 車, 道, 織物, 空気, 矢印案内, 温泉, 改札, バス, 徒歩
+cluster6:(21)
+伯耆国, 東郷湖, 安産, 倉吉駅, 中山神社, 宇倍神社, 伊和神社, 松崎駅, 経塚, 別表神社, 神社, 安産祈願, 鳥居, 主祭神, 境内, 参拝, 鳥取, 方法.2ひと駅, 安産岩, 倭文神社, 国宝おみくじ
+
+howmany entities : 57
+howmany clusters : 7
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 7
+deleted 0entities.

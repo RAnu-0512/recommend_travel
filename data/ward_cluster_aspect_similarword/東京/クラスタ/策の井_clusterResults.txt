@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:策の井>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+説明板, 案内板
+cluster1:(8)
+場所, 蓋, 端, 外周植え込み, 付近, ビル, 位置, 井戸
+cluster2:(7)
+逸話, 気, エルタワー, 感じ, 存在, 策, モニュメント
+cluster3:(1)
+史跡
+cluster4:(1)
+井
+cluster5:(4)
+新宿駅, 新宿エルタワー, 西口, 江戸時代
+cluster6:(1)
+徳川家康公
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:鳥取城 天球丸跡--------------------
+top3 entities near to cluster1>>
+石垣, 城, 城跡
+top3 entities near to cluster2>>
+球体状, 球体, 球面
+top3 entities near to cluster3>>
+天球, 天球院, 天体

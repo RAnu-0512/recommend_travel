@@ -1,0 +1,15 @@
+--------------------similar_words:ことり農園--------------------
+top3 entities near to cluster0>>
+狩り, 食べ, 摘み
+top3 entities near to cluster1>>
+土産屋, 雑貨屋, 雑貨, 土産
+top3 entities near to cluster2>>
+奥様, 夫婦, 奥さん
+top3 entities near to cluster3>>
+店内, 店主, 店員
+top3 entities near to cluster4>>
+土産, おみやげ, 商品
+top3 entities near to cluster5>>
+農園, 農場, 農家
+top3 entities near to cluster6>>
+メイド, ハンド

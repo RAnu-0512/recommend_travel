@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ガンダムベース東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ガンダム大, ガンダム像
+cluster1:(24)
+場所, オススメ, カメラ, 隣, 人, フードコーナー, 子供, 入場, ダイバーシティー, 迫力, ダイバシティー, ライトアップ, 台場, ガンダム, 買い物, ファン, 間近, ダイバーシティ, 時間, ガンプラモデル, 外, 世界, 写真撮影, もの
+cluster2:(4)
+東京都, 台場シティ東京プラザ, 東京, ガンダムフロント東京
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 3
+deleted 0entities.

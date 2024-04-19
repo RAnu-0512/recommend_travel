@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:比和温泉 あけぼの荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+吾妻山, 身, 晴れ, 雪, 周囲, 雪景色, 静けさ
+cluster1:(4)
+女湯, 荘, 温泉, 比和温泉
+cluster2:(1)
+庄原市
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

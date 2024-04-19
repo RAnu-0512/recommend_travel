@@ -1,0 +1,13 @@
+--------------------similar_words:旧吉井家住宅--------------------
+top3 entities near to cluster0>>
+建物, 邸宅, 商家
+top3 entities near to cluster1>>
+時代, 幕末, 末期
+top3 entities near to cluster2>>
+地区, 保存, 町並み
+top3 entities near to cluster3>>
+格子, 市松, 幾何
+top3 entities near to cluster5>>
+藩士, 藩主
+top3 entities near to cluster7>>
+瓦, 棒, 入母屋

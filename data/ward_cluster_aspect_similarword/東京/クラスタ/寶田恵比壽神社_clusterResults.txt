@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寶田恵比壽神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+恵比寿神, 東京メトロ
+cluster1:(2)
+日本橋, 恵比寿
+cluster2:(4)
+オススメ, ひとつ, たたずまい, 最寄り
+cluster3:(1)
+日本橋七福神
+cluster4:(8)
+裏, 間, 一角, 近く, 市, 情報, ビル, 周辺
+cluster5:(1)
+提灯
+cluster6:(1)
+利益
+cluster7:(1)
+七福神巡り
+cluster8:(7)
+拝殿, 駐車場, 宝田恵比寿神社, 石鳥居, 椙森神社, 小伝馬町駅, 宝田村
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 9
+deleted 0entities.

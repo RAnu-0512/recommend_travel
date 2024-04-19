@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒川知水資料館amoa>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+荒川, 赤羽, 岩淵
+cluster1:(2)
+資料館, 展示物
+cluster2:(3)
+水槽, 水門, 魚
+cluster3:(2)
+洪水, 被害
+cluster4:(4)
+小学生, 歴史, 場所, 多く
+cluster5:(2)
+川, 水
+cluster6:(1)
+見学
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

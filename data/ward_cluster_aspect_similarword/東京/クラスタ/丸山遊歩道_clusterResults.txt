@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸山遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+左回り, 右回り
+cluster1:(6)
+余裕, 中心, 程度, 休憩, 中, 左側
+cluster2:(2)
+脱出, 柵
+cluster3:(12)
+神社, 山, 木々, 島, 自然, 景色, 内輪山, 青ヶ島, カルデラ, 遊歩道, スニーカー, ベンチ
+cluster4:(3)
+御富士, 丸山, 丸山遊歩道
+
+howmany entities : 25
+howmany clusters : 5
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 5
+deleted 0entities.

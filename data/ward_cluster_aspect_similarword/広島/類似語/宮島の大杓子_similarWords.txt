@@ -1,0 +1,47 @@
+--------------------similar_words:宮島の大杓子--------------------
+top3 entities near to cluster0>>
+商店街, 商店, 桟橋
+top3 entities near to cluster3>>
+見応え, 見ごたえ, 楽しみ
+top3 entities near to cluster4>>
+かんじ, カンジ, とこ
+top3 entities near to cluster6>>
+シンボル, オブジェ, イメージ
+top3 entities near to cluster7>>
+ドカン, 杓文字, ドカーン
+top3 entities near to cluster8>>
+カメラ, 修学旅行, スマホ
+top3 entities near to cluster9>>
+縁起物, 土産物, 縁起もの
+top3 entities near to cluster11>>
+しゃ, こう, まえ
+top3 entities near to cluster12>>
+饅頭, 野球, 応援
+top3 entities near to cluster13>>
+鹿, シカ, もじ
+top3 entities near to cluster15>>
+発祥, 代表格, 代表
+top3 entities near to cluster17>>
+前述どおり, とおり, 前述
+top3 entities near to cluster20>>
+展示, 出展, 展覧
+top3 entities near to cluster21>>
+撮影, 写真, 撮っ
+top3 entities near to cluster22>>
+撮影, 撮る, 撮っ
+top3 entities near to cluster23>>
+写真, 画像, 撮っ
+top3 entities near to cluster24>>
+記念, 写真, 撮影
+top3 entities near to cluster25>>
+工芸, 遺産, 伝統
+top3 entities near to cluster26>>
+子ども, 子供, 親達
+top3 entities near to cluster27>>
+子供, 子ども, 親達
+top3 entities near to cluster29>>
+家族, 友達
+top3 entities near to cluster30>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster31>>
+厳島, 土産物, 神社

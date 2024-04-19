@@ -1,0 +1,9 @@
+--------------------similar_words:野山北公園・あそびの森・冒険の森--------------------
+top3 entities near to cluster0>>
+温泉, スパ, 旅館
+top3 entities near to cluster1>>
+山池, 森池, 山, 森
+top3 entities near to cluster2>>
+遊具, 弁当, 公園
+top3 entities near to cluster3>>
+子供, 子ども, 大人

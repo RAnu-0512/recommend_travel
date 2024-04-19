@@ -1,0 +1,15 @@
+--------------------similar_words:塚山公園--------------------
+top3 entities near to cluster0>>
+遊具, 公園, 遊歩道
+top3 entities near to cluster1>>
+子供, 公園, 子ども
+top3 entities near to cluster3>>
+緑, 緑色, 黄色
+top3 entities near to cluster4>>
+都心, 郊外, 遊新
+top3 entities near to cluster5>>
+小川, 神田, 佐藤
+top3 entities near to cluster6>>
+野球場, 野球, 場裏
+top3 entities near to cluster7>>
+塚山, 公園, 洞峰

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:時代屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+観光, 観光人力車, 浅草駅, 東京, 観光地, 浅草観光, 浅草, 看板犬ちゃん, 車夫, 人力車屋
+cluster1:(8)
+目線, 人, 兄さんたち, 話, 声, 方, こと, 方々
+cluster2:(3)
+勉強, 知識, 説明
+cluster3:(2)
+時間, 歴史
+cluster4:(4)
+店, 情報, 会社, 周辺
+cluster5:(1)
+足
+cluster6:(2)
+人力車, 浅草寺
+cluster7:(11)
+見どころ, スタッフ, 兄さん, トーク, 気持ち, スピード, 思い出, フレンドリー, 出迎え, スポット, コース
+cluster8:(1)
+次回
+cluster9:(2)
+風, 風情
+cluster10:(5)
+屋根, 車道, 道路, 紫外線予防, 安全
+cluster11:(5)
+乗り心地, 楽しさ, 高さ, お勧め, お勧めスポット
+
+howmany entities : 54
+howmany clusters : 12
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 12
+deleted 0entities.

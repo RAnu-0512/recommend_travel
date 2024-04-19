@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滝山峡second>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+程度, 時間
+cluster1:(4)
+ベンチ, 写真, ゴールデンウィーク, サイクリング
+cluster2:(1)
+景色
+cluster3:(1)
+高さ
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

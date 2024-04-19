@@ -1,0 +1,35 @@
+--------------------similar_words:堂ケ島天窓洞--------------------
+top3 entities near to cluster0>>
+散策, 出発, 散歩
+top3 entities near to cluster1>>
+解説, お話し, 補足
+top3 entities near to cluster5>>
+真上, 真下, 海
+top3 entities near to cluster6>>
+遊歩道, 乗り場, 入り口
+top3 entities near to cluster7>>
+クルーズ, グリーン, エメラルド
+top3 entities near to cluster10>>
+ツアー, コース, 醍醐味
+top3 entities near to cluster12>>
+曇り空, 日差し, 晴れ間
+top3 entities near to cluster13>>
+緑色, 幻想
+top3 entities near to cluster14>>
+時間, 季節, 時期
+top3 entities near to cluster18>>
+男性人, 女性人, 男性, 女性
+top3 entities near to cluster19>>
+景色, 風景, 光景
+top3 entities near to cluster20>>
+天気雨, 天気, 曇り
+top3 entities near to cluster22>>
+時間, 席, 景色
+top3 entities near to cluster24>>
+遊覧船, 遊覧, 周遊船, 周遊
+top3 entities near to cluster26>>
+運休, 運航, 運行
+top3 entities near to cluster27>>
+船舶, 漁船
+top3 entities near to cluster29>>
+洞窟, 洞穴, 洞

@@ -1,0 +1,11 @@
+--------------------similar_words:稲付城跡--------------------
+top3 entities near to cluster1>>
+城, 城跡, 城址
+top3 entities near to cluster2>>
+南北, 東西, 都内
+top3 entities near to cluster3>>
+風景, 景色, 町並み
+top3 entities near to cluster4>>
+崖碑, 崖沿い, 崖
+top3 entities near to cluster5>>
+宅地, 城跡, 造成

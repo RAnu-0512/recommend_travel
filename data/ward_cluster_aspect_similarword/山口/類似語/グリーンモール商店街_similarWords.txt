@@ -1,0 +1,11 @@
+--------------------similar_words:グリーンモール商店街--------------------
+top3 entities near to cluster1>>
+本場, 味わい
+top3 entities near to cluster2>>
+飲食店, 雑貨店, 飲食, 雑貨
+top3 entities near to cluster3>>
+夕方, 昼過ぎ, 昼前
+top3 entities near to cluster5>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster6>>
+渋滞, 事故, 混雑

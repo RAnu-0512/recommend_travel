@@ -1,0 +1,19 @@
+--------------------similar_words:熊野神社--------------------
+top3 entities near to cluster0>>
+賽銭, お守り, お札
+top3 entities near to cluster1>>
+景色, 絶景, 感動
+top3 entities near to cluster2>>
+価値, 効果, 利益
+top3 entities near to cluster10>>
+ドライブ, クルーズ, ポケット
+top3 entities near to cluster11>>
+とこ, ほこら, オススメ
+top3 entities near to cluster15>>
+パワー, パーク, エナジー
+top3 entities near to cluster17>>
+海風, 海波, 海
+top3 entities near to cluster21>>
+崖, 岩場, 断崖
+top3 entities near to cluster22>>
+神社, 境内, 本殿

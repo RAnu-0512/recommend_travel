@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アジトオブスクラップ浅草>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+浅草, 東京メトロ浅草駅, 墨田区, アジトオブスクラップ浅草
+cluster1:(14)
+ゲーム, レベチ, アミューズメントスポット, スタッフ, プログラム, 吾妻橋, グループメンバー, スリル, グループ, スパイス, スポット, オプション, レッドルーム, RED ROOM
+cluster2:(2)
+PCゲーム, 観光スポット
+cluster3:(7)
+人たち, 大人, 人, 頭, 友達, 世界, 次
+cluster4:(10)
+場所, ワクワク経験, 空間, 入口, 施設, 体験, 予約, 時間, 方, もの
+cluster5:(6)
+謎, 人気, 話題, 隠れスポット, 成功, 確率
+cluster6:(2)
+爽快感, 難易度
+cluster7:(4)
+脱出, 脱出ゲーム, 謎解き, リアル脱出ゲーム
+
+howmany entities : 49
+howmany clusters : 8
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 8
+deleted 0entities.

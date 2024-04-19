@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビーンズ阿佐ヶ谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京都, 杉並区
+cluster1:(7)
+ビーンズ阿佐谷, 高架下, 阿佐ヶ谷駅, フードコート, 阿佐谷南, 雰囲気, カフェ
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

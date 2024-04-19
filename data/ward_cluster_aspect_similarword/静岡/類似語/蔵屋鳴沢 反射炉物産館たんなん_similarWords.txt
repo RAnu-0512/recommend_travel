@@ -1,0 +1,13 @@
+--------------------similar_words:蔵屋鳴沢 反射炉物産館たんなん--------------------
+top3 entities near to cluster0>>
+反射炉, 反射, ばた屋
+top3 entities near to cluster1>>
+摘み, 茶, お茶
+top3 entities near to cluster2>>
+食事, 建物
+top3 entities near to cluster3>>
+産品, 物産, 特産
+top3 entities near to cluster4>>
+土産, おみやげ, 土産物
+top3 entities near to cluster5>>
+パン, 菓子, お菓子

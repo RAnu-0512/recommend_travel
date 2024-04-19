@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:聖湖キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+トイレ, キャンパー, キャンプ, ファミキャン
+cluster1:(2)
+もの, 場所
+cluster2:(1)
+台所
+cluster3:(1)
+整備
+cluster4:(1)
+キャンプ場
+cluster5:(1)
+巣窟
+cluster6:(1)
+水周り
+cluster7:(1)
+無問題
+cluster8:(1)
+広島県
+cluster9:(1)
+清潔感
+cluster10:(1)
+聖湖キャンプ場
+cluster11:(1)
+山県郡北広島町
+
+howmany entities : 16
+howmany clusters : 12
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 12
+deleted 0entities.

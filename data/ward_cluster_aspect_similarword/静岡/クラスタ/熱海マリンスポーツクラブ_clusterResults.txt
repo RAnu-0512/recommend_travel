@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海マリンスポーツクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+魚, 沈船, 温泉, 熱海, 魚たち, ダイビング屋, 海
+cluster1:(2)
+体験, 体験ダイビング
+cluster2:(8)
+事, ほか, 対応, 時間, 中, お陰, 合間, 説明
+cluster3:(13)
+家族, ダイビング, ベテラン, 息子, ダイバー, ファンダイビング, 娘, 店, 仲間, 雰囲気, 家内, インストラクター, シュノーケリング
+cluster4:(3)
+人生, 天気, 旅
+cluster5:(1)
+予約時間
+cluster6:(3)
+沈没船ダイビング, 小曽我洞窟, 体調不良
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 5
+deleted 3entities.

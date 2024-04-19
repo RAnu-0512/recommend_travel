@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日の出町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+具合, 覚悟
+cluster1:(3)
+袋, 道具, 軍手
+cluster2:(5)
+自宅, スタッフ, 竹の子, 現地, スコップ
+cluster3:(2)
+畑, 芋
+cluster4:(1)
+芋掘り
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

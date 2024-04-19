@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR 中野駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東西線, 地下鉄
+cluster1:(4)
+イベント, 中野サンプラザ, セントラルパーク, サンプラザ
+cluster2:(2)
+乗り換え, タクシー
+cluster3:(1)
+アニメ
+cluster4:(2)
+乗り場, 行き先
+cluster5:(5)
+流石, 人, 話, 方, 対応
+cluster6:(1)
+金
+cluster7:(6)
+声優ライブ, アニソン界, 利用者, 無料招待イベント, ミニライブ, 飲食店
+cluster8:(24)
+JR駅, 中野駅, 豊島区, 東京, JR, 東映まんがまつり, 普通電車, 杉並, 東京方面, 駅, 東映, 改札, 電車, 駅周辺, JR線, 中央線, 終電, 方面, 下車, 東京メトロ, 中野セントラルパーク, 番線, 新宿, JR中野駅
+
+howmany entities : 47
+howmany clusters : 9
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 9
+deleted 0entities.

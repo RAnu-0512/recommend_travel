@@ -1,0 +1,27 @@
+--------------------similar_words:江戸たいとう伝統工芸館--------------------
+top3 entities near to cluster0>>
+入館, 入場, 無料
+top3 entities near to cluster1>>
+工芸技, 職人技, 職人, 工芸
+top3 entities near to cluster2>>
+展示, 出展, 収蔵
+top3 entities near to cluster7>>
+工事, 改修, リニューアル
+top3 entities near to cluster8>>
+見学, 実演, 展示
+top3 entities near to cluster9>>
+館内, 売店, 施設
+top3 entities near to cluster10>>
+常駐, 専任, スタッフ
+top3 entities near to cluster11>>
+休館, 閉館, 開館
+top3 entities near to cluster12>>
+下町, 庶民, 町人
+top3 entities near to cluster15>>
+工芸品, 工芸, 品等
+top3 entities near to cluster16>>
+工芸, 伝統, 民芸
+top3 entities near to cluster17>>
+工芸品, 工芸, 伝統
+top3 entities near to cluster18>>
+工芸, 伝統, 下町

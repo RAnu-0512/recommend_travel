@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営大江戸線 新宿駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+余裕, エスカレーター, スタッフ, 場所, 地上, 人, 配布, 端, 都営地下鉄, 距離, 手さげ袋, エレベーター, ホーム, 路線, 電車, 案内, 地下, 地下鉄, 時間, 方, ロボット, 乗り継ぎ, 乗り換え, ベイエリア
+cluster1:(3)
+江戸線, 線車両クラフト, 新宿線
+cluster2:(3)
+ホテルサンルートプラザ新宿, 新宿, 都営
+cluster3:(4)
+新宿駅, 駅, 改札, 西新宿駅
+cluster4:(1)
+通勤時間帯
+cluster5:(3)
+観光案内冊子あり ワゴン, 観光案内所, 都営交通大江戸線
+
+howmany entities : 38
+howmany clusters : 6
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 6
+deleted 0entities.

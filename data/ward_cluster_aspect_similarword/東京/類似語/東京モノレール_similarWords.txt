@@ -1,0 +1,67 @@
+--------------------similar_words:東京モノレール--------------------
+top3 entities near to cluster0>>
+雰囲気, 気持ち, 味わい
+top3 entities near to cluster1>>
+待ち時間, ストレス, 苦痛
+top3 entities near to cluster3>>
+テンション, タイミング, モチベーション
+top3 entities near to cluster4>>
+アップダウン, ノンストップ, 急坂
+top3 entities near to cluster5>>
+アトラクション, テーマパーク, キャラクター
+top3 entities near to cluster6>>
+トレーラー, フォークリフト, スタッフ
+top3 entities near to cluster7>>
+アイドル, グラビア, グラドル
+top3 entities near to cluster8>>
+スペース, エリア, ブース
+top3 entities near to cluster9>>
+パノラマ, 絶景, パノラマビュー
+top3 entities near to cluster10>>
+オリンピック, ポケモン, 五輪
+top3 entities near to cluster11>>
+クロス, ウォーター, シート
+top3 entities near to cluster12>>
+国際線, 国内線, ＪＡＬ
+top3 entities near to cluster13>>
+乗り場, 乗場, バスターミナル
+top3 entities near to cluster14>>
+飛行機, 航空機, 飛行場
+top3 entities near to cluster15>>
+スピード, アクセス, ライン
+top3 entities near to cluster16>>
+地下鉄, スーツ, メトロ
+top3 entities near to cluster17>>
+カーブ, 海沿い, ヘアピンカーブ
+top3 entities near to cluster19>>
+乗り入れ, 出入り, 乗り入れる
+top3 entities near to cluster20>>
+空港線, 羽田線, 空港
+top3 entities near to cluster21>>
+東京湾, 相模湾, アクアライン・
+top3 entities near to cluster23>>
+具合
+top3 entities near to cluster24>>
+景色, 風景, 車窓
+top3 entities near to cluster26>>
+外客, 乗客, 名所
+top3 entities near to cluster27>>
+旅, 出張, 旅先
+top3 entities near to cluster28>>
+車両, バス, 鉄道
+top3 entities near to cluster29>>
+手段, 利用, 目的
+top3 entities near to cluster30>>
+席, 座席, 名分
+top3 entities near to cluster31>>
+運転, 操縦, 同乗
+top3 entities near to cluster32>>
+切符, きっぷ, キップ
+top3 entities near to cluster33>>
+乗車券, 乗車, 降車
+top3 entities near to cluster34>>
+電車, 時間, 快速
+top3 entities near to cluster35>>
+空港, 駅, 発着
+top3 entities near to cluster36>>
+駅, 駅前, 港

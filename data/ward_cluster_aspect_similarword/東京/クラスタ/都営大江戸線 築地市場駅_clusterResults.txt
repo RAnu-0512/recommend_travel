@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営大江戸線 築地市場駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場外, 場外市場
+cluster1:(2)
+築地駅, 築地
+cluster2:(2)
+築地市場, 築地市場駅
+cluster3:(18)
+食事, 本社, 朝日新聞東京, 都営地下鉄, 汐留, 近く, 市場, 駅, 観光要素, 東銀座, 買い物, 地下, 江戸線, 出口, 都営, 豊洲, 駅名, がん研究センター 位
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 4
+deleted 0entities.

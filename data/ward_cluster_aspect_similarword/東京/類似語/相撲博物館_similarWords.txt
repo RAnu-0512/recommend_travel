@@ -1,0 +1,11 @@
+--------------------similar_words:相撲博物館--------------------
+top3 entities near to cluster0>>
+国技, 両国, 館
+top3 entities near to cluster1>>
+相撲, 力士, 横綱
+top3 entities near to cluster3>>
+展示, 出展
+top3 entities near to cluster4>>
+入場, 入場券, 入館券, 入館
+top3 entities near to cluster5>>
+開催, 日, 月

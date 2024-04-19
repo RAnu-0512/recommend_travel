@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東海道由比宿交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本陣, 徒歩, 明治
+cluster1:(3)
+販売, 展示, 模型
+cluster2:(2)
+建物, 施設
+cluster3:(8)
+コーヒー, 桜えび, カウンター, 歴史, 大相撲カレンダーコレクション, 美術館, 時間, 場所
+cluster4:(2)
+こと, 方
+cluster5:(2)
+全員, 人
+cluster6:(1)
+傍
+cluster7:(2)
+係員, 神社
+cluster8:(1)
+税込
+cluster9:(3)
+土産, かき揚げ丼, 土産コーナー
+cluster10:(1)
+多さ
+cluster11:(5)
+交流館, ゆい桜えび館, 脇本陣, 宿場印, 宿場
+cluster12:(8)
+広重美術館, 由比駅, 安藤広重美術館, 東海道由比宿, 由比宿街並, 由比宿, 蒲原駅, 由比本陣公園
+
+howmany entities : 41
+howmany clusters : 13
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 6
+deleted 11entities.

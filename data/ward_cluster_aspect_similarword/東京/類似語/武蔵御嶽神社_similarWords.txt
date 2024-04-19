@@ -1,0 +1,27 @@
+--------------------similar_words:武蔵御嶽神社--------------------
+top3 entities near to cluster1>>
+景観, 景色, 眺望
+top3 entities near to cluster2>>
+ハイキング, トレッキング, 山頂
+top3 entities near to cluster3>>
+信仰, 神, 自然
+top3 entities near to cluster4>>
+バス, 路線
+top3 entities near to cluster5>>
+足, 赤, 黄色
+top3 entities near to cluster6>>
+地図, 距離, 表示
+top3 entities near to cluster8>>
+虎, 龍, 滝
+top3 entities near to cluster9>>
+山, 麓, ふもと
+top3 entities near to cluster10>>
+頂上, 山頂, 中腹
+top3 entities near to cluster11>>
+中腹, 麓, ふもと
+top3 entities near to cluster12>>
+周辺, 周り
+top3 entities near to cluster13>>
+登山家, 登山, 雷雨
+top3 entities near to cluster14>>
+神社, 境内, 参道

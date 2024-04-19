@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮着寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+リゾート地, 地
+cluster1:(4)
+東部, 出身, 南, 木
+cluster2:(17)
+日蓮宗, ヤマモモ, 天然記念物, 日本, 南関東, 人, 伊豆高原, 中, 近く, 雰囲気, スポット, イメージ, レジャー, モチノキ, 他, 見どころ, 見応え
+cluster3:(2)
+文字, 石
+cluster4:(6)
+由緒, 異色, 歴史, 受難, 迫力, 開祖
+cluster5:(7)
+海岸, 房総, 海, 富戸, 海岸沿い, 漁師, 海上
+cluster6:(20)
+静岡県, 史跡, 着寺, 伊東市, 布教活動, 樹齢, 参拝客, 伊豆海洋公園, 日蓮上人, 蓮着寺のヤマモモ, 巨木, 古寺, 本堂, 境内, 石喰いのモチノキ, 蓮着寺, 日蓮ゆかり, 江戸初期創建, 日蓮, 寺
+
+howmany entities : 58
+howmany clusters : 7
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 5
+deleted 4entities.

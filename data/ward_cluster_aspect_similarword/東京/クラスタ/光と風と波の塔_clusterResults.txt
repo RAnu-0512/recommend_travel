@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光と風と波の塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上, 帰り道
+cluster1:(1)
+真横
+cluster2:(1)
+ワケ
+cluster3:(1)
+風
+cluster4:(1)
+展望台
+cluster5:(1)
+間々下海岸
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

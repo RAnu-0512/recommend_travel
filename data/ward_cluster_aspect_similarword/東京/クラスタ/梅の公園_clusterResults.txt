@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅の公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+良さ, SNS映え, お子, 時期, 魅力, 方, こと
+cluster1:(4)
+彼岸, 夏, 秋, 冬
+cluster2:(2)
+赤トンボ, 小川
+cluster3:(9)
+都会, コナラ, 景色, 公園, 近く, 雪景色, 新緑, つつじ, 彼岸花
+cluster4:(4)
+花, 葉, 雪柳, 梅
+cluster5:(1)
+枯れ落ち葉
+cluster6:(1)
+吉野梅郷
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 7
+deleted 0entities.

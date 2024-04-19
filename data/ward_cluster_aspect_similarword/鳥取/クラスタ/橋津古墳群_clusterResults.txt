@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:橋津古墳群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+馬ノ山公園, 橋津馬ノ山, 馬ノ山
+cluster1:(2)
+橋津古墳群, 古墳群
+cluster2:(4)
+ハワイ, こと, 前方後円墳, 通称
+cluster3:(3)
+公園, 古墳, 丘陵
+cluster4:(1)
+ハワイ風土記館
+cluster5:(1)
+円墳
+cluster6:(1)
+史跡橋津古墳群(〇号古墳
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 7
+deleted 0entities.

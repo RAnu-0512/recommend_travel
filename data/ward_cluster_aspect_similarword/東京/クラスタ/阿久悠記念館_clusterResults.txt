@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿久悠記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+阿久悠, 阿久悠記念館
+cluster1:(35)
+作品, 沢山, 鉄の処女, 原稿, 出身, コラボ, 入口, タイトル表紙, 茶, 曲, 水駅, 小説, 直筆, 館内, 盾, サインペン, 書斎, 天才ぶり, レコード大賞, 明治大学博物館, ファン, 歌謡曲, 地下, 明治大学アカデミーコモン, 視聴, 徒歩, 作詞家, 記念館, 明治, 資料, レコードジャケット, コーナー, フロア, 展示, 作詞
+
+howmany entities : 37
+howmany clusters : 2
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 2
+deleted 0entities.

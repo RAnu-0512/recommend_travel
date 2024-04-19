@@ -1,0 +1,55 @@
+--------------------similar_words:バスタ新宿--------------------
+top3 entities near to cluster0>>
+バス, 高速, タクシー
+top3 entities near to cluster1>>
+バナナ, 食べ物, 食べもの
+top3 entities near to cluster3>>
+乗り継ぎ, コンビニ, ショップ
+top3 entities near to cluster4>>
+タイム, コロナ, ワールド
+top3 entities near to cluster5>>
+トイレ, 忘れ物, 乗り場
+top3 entities near to cluster6>>
+地階, 各階
+top3 entities near to cluster7>>
+階段, 通路, 椅子
+top3 entities near to cluster8>>
+建物, ビル, 施設
+top3 entities near to cluster9>>
+乗り場, バスターミナル, 改札
+top3 entities near to cluster11>>
+近辺, 周辺
+top3 entities near to cluster13>>
+繁華街, 繁華, 町中
+top3 entities near to cluster14>>
+女性人, 女性, 全員
+top3 entities near to cluster15>>
+個室, 女子, トイレ
+top3 entities near to cluster16>>
+大声, 叫び声
+top3 entities near to cluster17>>
+機嫌, 気分, 上機嫌
+top3 entities near to cluster18>>
+仕事帰り, 仕事, 荷物
+top3 entities near to cluster19>>
+土産, おみやげ, 土産物
+top3 entities near to cluster20>>
+接客業, 接客, 飲食業, 飲食
+top3 entities near to cluster21>>
+清潔感, 罪悪感, 清潔, 罪悪
+top3 entities near to cluster23>>
+管轄外, 管轄内, 管轄
+top3 entities near to cluster24>>
+担当者, 利用者, 担当, 利用
+top3 entities near to cluster25>>
+出発, 到着, 出立
+top3 entities near to cluster26>>
+移動, 時間, 行き来
+top3 entities near to cluster27>>
+利用, 対応, 活用
+top3 entities near to cluster28>>
+横断, 歩道, 道路
+top3 entities near to cluster29>>
+駅, 南口, 駅前
+top3 entities near to cluster31>>
+発着, 時間, 乗り継ぎ

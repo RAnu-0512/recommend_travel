@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士高砂酒造>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+見学, 蔵見学
+cluster1:(2)
+酒蔵見学, 酒蔵
+cluster2:(10)
+アイス, 店, 場所, 土産, 方, 酒作り, 酒造り, 日本, 酒, 試飲
+cluster3:(1)
+富士高砂酒造
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 5entities.

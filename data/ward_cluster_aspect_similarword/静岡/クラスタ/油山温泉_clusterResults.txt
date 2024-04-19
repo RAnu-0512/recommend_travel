@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:油山温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+温泉, 油山温泉, 長湯, 温泉施設
+cluster1:(2)
+雰囲気, オクシズ
+cluster2:(2)
+感じ, もの
+cluster3:(2)
+車, 道
+cluster4:(1)
+静岡市
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 7entities.

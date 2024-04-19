@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:王子神社(王子権現)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京十社巡り 第3社目王子神社, 紀州熊野三所若一王子
+cluster1:(12)
+大路駅, 音無親水公園, 王子権現, 熊野三山, 駅, 王子村, 王子神社, 王寺駅, JR王子駅, 王子大神, 王子, 王子駅
+cluster2:(15)
+神社, 飛鳥山公園, 拝殿, 神主, 関神社, 鳥居, 子育大願, 熊野, 初詣, 将軍家光公, お社, 御祈願, 神輿, 桜並木道, 境内
+cluster3:(3)
+威厳, 崇敬, 格式
+cluster4:(3)
+由来, 地名, 地形
+cluster5:(3)
+体質, 社内, 利益
+cluster6:(2)
+観光, 訪問
+cluster7:(2)
+道, 神
+cluster8:(5)
+人, 気, 効果, 印象, 方
+cluster9:(3)
+場所, 近く, 下
+cluster10:(11)
+手書き, アクセス, 御朱印, 子供, 気持ち, ところ, お守り, イチョウ, 雰囲気, モノトーン, 年寄り
+cluster11:(8)
+都会, 木々, 東京, 毛, 木, 病弱, 下町, 髪
+cluster12:(4)
+幼少期, 体調不良, 江戸時代, B級グルメ
+cluster13:(1)
+開運除災
+
+howmany entities : 74
+howmany clusters : 14
+howmany entities (more than1entities) : 74
+howmany clusters (more than1entities) : 14
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青海島キャンプ村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+砂浜, 海
+cluster1:(2)
+コテージ, キャンプサイト
+cluster2:(1)
+初心者
+cluster3:(1)
+方
+cluster4:(1)
+形
+cluster5:(1)
+キャンプ場
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

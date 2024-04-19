@@ -1,0 +1,53 @@
+--------------------similar_words:住吉神社--------------------
+top3 entities near to cluster0>>
+由緒, 歴史, 舞台
+top3 entities near to cluster1>>
+赤色, 朱色, 黄色
+top3 entities near to cluster2>>
+紅葉, 新緑, 秋
+top3 entities near to cluster3>>
+裏手, 左手
+top3 entities near to cluster4>>
+お参り, 御朱印, 神社
+top3 entities near to cluster5>>
+パワー, エナジー, エネルギー
+top3 entities near to cluster6>>
+バス停, 最寄り, 最寄り駅
+top3 entities near to cluster7>>
+雰囲気, 見所, 見応え
+top3 entities near to cluster9>>
+駅, 徒歩, 実家
+top3 entities near to cluster11>>
+参り, まいり, 応え
+top3 entities near to cluster12>>
+風情, 趣, 見所
+top3 entities near to cluster13>>
+空気, 表情, 雰囲気
+top3 entities near to cluster16>>
+目的地, 目的
+top3 entities near to cluster17>>
+時代, 南北, 末期
+top3 entities near to cluster21>>
+参拝, 建立, 造営
+top3 entities near to cluster22>>
+本殿, 拝殿, 社殿
+top3 entities near to cluster23>>
+神社, 境内, 本殿
+top3 entities near to cluster25>>
+安産, 祈願, 御利益
+top3 entities near to cluster27>>
+建物, 建築, 家屋
+top3 entities near to cluster28>>
+三, 大, 四
+top3 entities near to cluster29>>
+坐, 神社, 大社
+top3 entities near to cluster30>>
+元就, 輝元, 隆景
+top3 entities near to cluster31>>
+大社, 神社, ＫｉＬａＬａ
+top3 entities near to cluster32>>
+宮, 国一, 神社
+top3 entities near to cluster33>>
+宿禰, 神功, 皇后
+top3 entities near to cluster34>>
+神魂, 神, 神霊

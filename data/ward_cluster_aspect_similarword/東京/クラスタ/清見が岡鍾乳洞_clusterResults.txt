@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清見が岡鍾乳洞>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光協会, 母島観光協会
+cluster1:(2)
+見学希望, 見学希望者
+cluster2:(2)
+洞窟探検, 洞窟
+cluster3:(7)
+ヘルメット, 申し込み, 住所, 箇所, 台帳, 集落, 入口
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

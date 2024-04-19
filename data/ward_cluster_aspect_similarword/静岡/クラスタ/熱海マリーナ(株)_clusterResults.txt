@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海マリーナ(株)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+ダイビング, 多賀, 雰囲気, クルージング, マリーナ, クルーザー, クルーズ船, 会社, ハーバー, サービス
+cluster1:(4)
+小山臨海公園, 静岡県, 熱海市, 伊豆七島
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野山獄・岩倉獄跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅街, 囚人達
+cluster1:(5)
+跡, 往時, 石碑, 道路, 地図
+cluster2:(17)
+中, 思い, 位置, スポット, バス停, 身分, ガイドブック, 最後, 場所, 地, 地元, 違い, 方, 者, シーン, 説明, 歴史
+cluster3:(1)
+想定外
+cluster4:(1)
+達成感
+cluster5:(2)
+松陰先生, 吉田松陰
+cluster6:(3)
+岩倉獄, 獄, 野山獄
+cluster7:(1)
+花燃ゆ
+cluster8:(1)
+金子重之輔
+
+howmany entities : 33
+howmany clusters : 9
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 9
+deleted 0entities.

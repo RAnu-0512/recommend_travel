@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Design Tshirts Store graniph>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+服, 生地
+cluster1:(6)
+デザイン, 方, ところ, 種類, 定番, Tシャツ
+cluster2:(2)
+コラボ商品, 値段
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

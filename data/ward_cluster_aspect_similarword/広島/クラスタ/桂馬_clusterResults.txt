@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桂馬>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+通り商店街, 商店街, 尾道商店街
+cluster1:(3)
+駐車場, 高速道路, 道路
+cluster2:(3)
+広島, 尾道, 福山駅
+cluster3:(14)
+商品, 老舗, 味, 店内, 店, 旅, 種類, 人気, 店舗, 土産, 試食, 一品, 値段, 贅沢
+cluster4:(3)
+車中, SA, 帰途
+cluster5:(3)
+印象, 形, 結果
+cluster6:(8)
+中, 方, 地元, 時代, 目, 人, 家族, 周り
+cluster7:(2)
+すり身, 練り物
+cluster8:(4)
+歯ごたえ, 見た目, つまみ, 味付け
+cluster9:(10)
+オススメ, お気に入り, 通りがかり, 贈り物, かまぼこ, 持ち帰り, 揚げたて, 買い物, デパート, コロッケ
+cluster10:(2)
+魚, 港町
+cluster11:(1)
+お腹
+cluster12:(1)
+桂馬
+cluster13:(9)
+贈答品, 蒲鉾, 蒲鉾店, 蒲鉾屋, ごぼう天, 柿天, カマボコ屋, 無添加, 駒天
+
+howmany entities : 66
+howmany clusters : 14
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 14
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松市滝沢キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+経験談, 体験談
+cluster1:(2)
+駐車場, キャン場
+cluster2:(2)
+坂下, 坂上
+cluster3:(9)
+車, バイク, 人, 事務所, レベル, バーベキュー, 場所, 施設, 前
+cluster4:(2)
+受付, 作業
+cluster5:(1)
+荷物
+cluster6:(1)
+不便さ
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 10entities.

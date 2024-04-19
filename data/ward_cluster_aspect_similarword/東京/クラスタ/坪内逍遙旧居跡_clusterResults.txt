@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:坪内逍遙旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+坪内逍遥旧居跡, 坪内逍遥
+cluster1:(3)
+面影, 名残, 時代
+cluster2:(10)
+場所, 壁面, 近く, 上, マンション, 住居, 日本, 雰囲気, もの, あたり
+cluster3:(3)
+文学, 碑, 明治
+cluster4:(1)
+小説家
+cluster5:(1)
+居跡
+cluster6:(1)
+炭団坂
+cluster7:(4)
+説明板, 案内板, マンション建設工事, 住宅地
+cluster8:(3)
+文京ふるさと歴史館, 文京区, 古き良き日本
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 9
+deleted 0entities.

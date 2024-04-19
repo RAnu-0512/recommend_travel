@@ -1,0 +1,23 @@
+--------------------similar_words:広島文化学園HBGホール--------------------
+top3 entities near to cluster1>>
+演劇, 舞台, 芝居
+top3 entities near to cluster2>>
+客席, 演者, 会場
+top3 entities near to cluster4>>
+距離, 段差, 高低
+top3 entities near to cluster5>>
+バス, 代, タクシー
+top3 entities near to cluster6>>
+ホール, コンサート, コンサートホール
+top3 entities near to cluster7>>
+椅子, 建物, 家屋
+top3 entities near to cluster8>>
+子供, 子ども
+top3 entities near to cluster11>>
+催し, 周辺, 各種
+top3 entities near to cluster12>>
+収容, 移送, 収監
+top3 entities near to cluster13>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster14>>
+親近感, 親近, 嫌悪感, 嫌悪

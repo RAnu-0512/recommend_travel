@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶工房ふくしげ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+陶芸体験, 陶芸
+cluster1:(2)
+小皿, 手びねり
+cluster2:(7)
+富士山, 話, 先生, 体験, 好み, 時間, 就職
+cluster3:(1)
+焼き上がり
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

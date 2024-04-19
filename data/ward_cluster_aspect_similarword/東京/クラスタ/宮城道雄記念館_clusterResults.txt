@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮城道雄記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+音楽家, 神戸, 展示室, 牛込神楽坂駅, 記念室, 箏, 神楽坂, 晩年, 住宅, 南方向, 地下鉄, 展示品, 日本, 敷地, 愛用, 記念館, こと, 琴, 遺品, 偉業
+cluster1:(4)
+箏・八十絃, 故宮城道雄, 宮城道雄の記念館, 楽聖 宮城道雄
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

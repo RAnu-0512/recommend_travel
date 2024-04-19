@@ -1,0 +1,21 @@
+--------------------similar_words:株式会社はとバス定期観光部--------------------
+top3 entities near to cluster0>>
+バス, タクシー, 周遊
+top3 entities near to cluster2>>
+開花, バラ, 咲く
+top3 entities near to cluster3>>
+音量, 充電, バッテリ
+top3 entities near to cluster4>>
+天気雨, 天気, 夜景
+top3 entities near to cluster5>>
+ツアー, ホテル, 仕事
+top3 entities near to cluster6>>
+眺め, 下っ
+top3 entities near to cluster7>>
+位置, 移動, 真横
+top3 entities near to cluster8>>
+息子, 母, 父
+top3 entities near to cluster9>>
+案内, 希望, 予約
+top3 entities near to cluster11>>
+席, 座席, 時間

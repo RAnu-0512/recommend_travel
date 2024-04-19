@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:与謝野鉄幹・晶子旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+住宅, 案内板, 場所, 学校, 居跡, 裏, 番町文人通り
+cluster1:(2)
+与謝野鉄幹・晶子旧居跡千代田区, 与謝野鉄幹 晶子
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

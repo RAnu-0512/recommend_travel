@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:池之沢噴気孔群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+ソーセージ, 感じ, 味, 卵, 芋, 内輪山, 昼食
+cluster1:(3)
+窯, 地熱, 蒸気
+cluster2:(2)
+ひんぎゃ, 固ゆ
+cluster3:(1)
+硫黄臭
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

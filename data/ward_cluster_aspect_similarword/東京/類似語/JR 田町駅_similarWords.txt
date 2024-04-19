@@ -1,0 +1,7 @@
+--------------------similar_words:JR 田町駅--------------------
+top3 entities near to cluster1>>
+男性人, 女性人, 男性, 女性
+top3 entities near to cluster2>>
+入場, 入館, 来場
+top3 entities near to cluster3>>
+改札, 電車, 構内

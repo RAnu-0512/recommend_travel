@@ -1,0 +1,39 @@
+--------------------similar_words:道の駅 北浦街道 豊北--------------------
+top3 entities near to cluster1>>
+食べ物, 食材, 海鮮
+top3 entities near to cluster2>>
+おこ, いこ, みよ
+top3 entities near to cluster3>>
+魚介, 海鮮, 海産物
+top3 entities near to cluster4>>
+野菜, 魚介
+top3 entities near to cluster5>>
+刺身, 寿司, 刺し身
+top3 entities near to cluster6>>
+脂, 甘み
+top3 entities near to cluster7>>
+貝類, 漁師
+top3 entities near to cluster8>>
+二見, 農園, 饅頭
+top3 entities near to cluster9>>
+海, 幸, 陸
+top3 entities near to cluster11>>
+大橋, 港橋, 港
+top3 entities near to cluster13>>
+詰, 摘突
+top3 entities near to cluster14>>
+日, 月, 月末
+top3 entities near to cluster15>>
+軽食店, 売店, 軽食
+top3 entities near to cluster16>>
+特産, 土産, 名産
+top3 entities near to cluster17>>
+イカ焼き, イカ, タコ焼き, タコ
+top3 entities near to cluster18>>
+炊き, あら, 炊く
+top3 entities near to cluster19>>
+丼, 海鮮, どんぶり
+top3 entities near to cluster20>>
+海鮮, 魚介, 鮮魚
+top3 entities near to cluster21>>
+炙り, 丼, あぶり

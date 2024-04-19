@@ -1,0 +1,37 @@
+--------------------similar_words:道の駅 富士川楽座--------------------
+top3 entities near to cluster1>>
+土産, おみやげ, 土産物
+top3 entities near to cluster4>>
+駐車, 道路
+top3 entities near to cluster5>>
+夕方, 地元, 今日
+top3 entities near to cluster9>>
+種類, たくさん
+top3 entities near to cluster10>>
+利用, 休憩, 立ち寄る
+top3 entities near to cluster11>>
+県道, 国道
+top3 entities near to cluster14>>
+高速, 長距離, 周遊
+top3 entities near to cluster15>>
+列, 席, レジ
+top3 entities near to cluster16>>
+駅, 食堂, 構内
+top3 entities near to cluster18>>
+景色, 風景, 絶景
+top3 entities near to cluster19>>
+桜えび, 桜海老, サクラエビ
+top3 entities near to cluster20>>
+海産物, 農産物, 土産物
+top3 entities near to cluster22>>
+レストラン, ホテル, 美味しい
+top3 entities near to cluster23>>
+ポテト, かき揚げ, かきあげ
+top3 entities near to cluster24>>
+デート, グルメ, 買い物
+top3 entities near to cluster25>>
+滑り台, デッキ, 乗り物
+top3 entities near to cluster26>>
+料理, 蕎麦, 野菜
+top3 entities near to cluster27>>
+エビ, 桜, 塩辛

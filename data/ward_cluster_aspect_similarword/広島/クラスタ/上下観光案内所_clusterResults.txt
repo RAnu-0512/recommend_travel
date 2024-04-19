@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上下観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 府中市
+cluster1:(2)
+上下町, 町
+cluster2:(3)
+下, 上, 上下
+cluster3:(6)
+もの, 資料, 方, 名, 情報, こと
+cluster4:(7)
+歴史, 日本, 建物, 瀬戸内海, 町並み, 海, 分水嶺
+cluster5:(4)
+白壁, 雨水, 観光スポット, 地名
+cluster6:(3)
+上下歴史文化資料館, 上下歴史文化資料館内, 上下観光案内所
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

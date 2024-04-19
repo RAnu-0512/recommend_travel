@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:RAKU SPA 1010 神田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+銭湯, 風呂スペース, 風呂場, 炭酸浴, スーパー銭湯, 極楽湯, 湯, 風呂, 浴槽
+cluster1:(2)
+パウダールーム, リクライニングチェア
+cluster2:(6)
+ドラマ, キャラ, テレビ, マンガ, アニメ, コミック
+cluster3:(8)
+スタッフ, ほどほど, コーナー, チェック, レビュー, リラクゼーションルーム, 貸し出し, レストラン
+cluster4:(4)
+ドライヤー, シャワー, ロッカー, スペース
+cluster5:(1)
+コラボ
+cluster6:(1)
+気持ち
+cluster7:(1)
+フロア
+cluster8:(2)
+サウナ, 洗い場
+cluster9:(1)
+うとう
+cluster10:(4)
+TV, HP, PC, 雑誌
+cluster11:(8)
+施設, 個室, 休日, ビル, 混雑, 予約, 食事, 都心
+cluster12:(3)
+目的, 時間, 場所
+cluster13:(5)
+本, 種類, 他, 場合, 点
+cluster14:(6)
+方, 感じ, 体, 方々, 人, 男性
+cluster15:(1)
+興味
+cluster16:(5)
+温度, レンタル品, 価格, サービス味, 気分
+cluster17:(13)
+休憩スペース, マンガ休憩室, 漫画, 充電器, 長編物, 館内着, 漫画本, 利用者, 満足度, マンガ読ん, 指示口調, 漫画コーナー, 女性専用ルーム
+
+howmany entities : 80
+howmany clusters : 18
+howmany entities (more than1entities) : 80
+howmany clusters (more than1entities) : 18
+deleted 0entities.

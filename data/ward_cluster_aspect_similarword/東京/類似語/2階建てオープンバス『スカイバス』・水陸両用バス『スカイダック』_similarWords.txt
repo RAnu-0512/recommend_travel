@@ -1,0 +1,71 @@
+--------------------similar_words:2階建てオープンバス『スカイバス』・水陸両用バス『スカイダック』--------------------
+top3 entities near to cluster1>>
+ルート, コース, 経路
+top3 entities near to cluster2>>
+ツアー, ガイド, ガイドブック
+top3 entities near to cluster3>>
+雰囲気, 気持ち, シーン
+top3 entities near to cluster4>>
+おすすめ, オススメ, ポイント
+top3 entities near to cluster5>>
+タイプ, ノウハウ, スピード
+top3 entities near to cluster7>>
+レインコート, ポンチョ, カッパ
+top3 entities near to cluster8>>
+チケット, カウンター, スタッフ
+top3 entities near to cluster9>>
+コーヒー, ドリンク, アップル
+top3 entities near to cluster10>>
+スロープ, トンネル, 階段
+top3 entities near to cluster11>>
+コンタクト, リピータ, コンタクトレンズ
+top3 entities near to cluster12>>
+ファミレス, カウンター, ファミリーレストラン
+top3 entities near to cluster13>>
+スカイツリー, スカイダック, スカイツリーコース
+top3 entities near to cluster14>>
+アトラクション, イルミネーション, テーマパーク
+top3 entities near to cluster15>>
+桜木町, ランドマークタワー, クイーンズスクエア
+top3 entities near to cluster16>>
+マウンテン, スマイルバルーンフラワー, トルネード
+top3 entities near to cluster17>>
+アナウンス, テロップ, クロージングアナウンス
+top3 entities near to cluster18>>
+東京タワー, タワー, スカイツリータワー
+top3 entities near to cluster19>>
+カップル, デートスポット, オススメスポット
+top3 entities near to cluster20>>
+待ち時間, 待たす, 待合室
+top3 entities near to cluster22>>
+スマホ, カバン, ストア
+top3 entities near to cluster23>>
+ガイド, スタッフ, ブリッジ
+top3 entities near to cluster24>>
+迫力, 楽しい, 爽快
+top3 entities near to cluster25>>
+寒い, 寒空, 寒さ
+top3 entities near to cluster26>>
+風雨, 雨風
+top3 entities near to cluster27>>
+天気, 天候, 予報
+top3 entities near to cluster29>>
+時期, 時, 直前
+top3 entities near to cluster30>>
+受付, 案内, 予約
+top3 entities near to cluster31>>
+窓, ドア, 扉
+top3 entities near to cluster32>>
+陸上, 海上, 防備
+top3 entities near to cluster33>>
+足, 背中, 足元
+top3 entities near to cluster34>>
+屋根, 青空, 空
+top3 entities near to cluster35>>
+景色, 街並み
+top3 entities near to cluster36>>
+笑顔, 瞬間
+top3 entities near to cluster37>>
+家族, 子供
+top3 entities near to cluster38>>
+バス, 駅, 駅前

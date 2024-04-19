@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高札場(東京都府中市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+甲州街道, 府中街道
+cluster1:(2)
+家, 町
+cluster2:(5)
+ココ, 感じ, 交差点, 中心, 辺り
+cluster3:(3)
+木造, 面影, 建物
+cluster4:(1)
+江戸時代
+cluster5:(1)
+高札場
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

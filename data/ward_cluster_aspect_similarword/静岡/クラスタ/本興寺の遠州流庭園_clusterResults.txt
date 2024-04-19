@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本興寺の遠州流庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+右側, 背景, 日本庭園, 散策, 参道, 庭園, 池, 惣門, 大書院
+cluster1:(4)
+駐車場, 奥書院, 寺務所, 拝観料
+cluster2:(1)
+小堀遠州
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

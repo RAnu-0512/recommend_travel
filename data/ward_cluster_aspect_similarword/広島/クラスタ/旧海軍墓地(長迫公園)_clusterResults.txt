@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧海軍墓地(長迫公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+慰霊碑, 戦没者
+cluster1:(2)
+呉市街, 呉市
+cluster2:(2)
+長迫公園, 遊具
+cluster3:(8)
+方, 春, 子供, 場所, 大人, 家族, サクラ, ブランコ
+cluster4:(3)
+墓, 鎮魂, 供養
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

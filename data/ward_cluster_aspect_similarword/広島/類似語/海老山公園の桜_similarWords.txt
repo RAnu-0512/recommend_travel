@@ -1,0 +1,9 @@
+--------------------similar_words:海老山公園の桜--------------------
+top3 entities near to cluster0>>
+公園, 広場, 丘
+top3 entities near to cluster1>>
+季節, 桜, 時季
+top3 entities near to cluster2>>
+芝, ごみ, ゴミ
+top3 entities near to cluster3>>
+家族連れ, 家族, つれ

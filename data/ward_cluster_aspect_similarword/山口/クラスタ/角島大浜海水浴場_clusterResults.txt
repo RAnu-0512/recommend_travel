@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:角島大浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+礼拝堂, 炊事場, 海水浴場, キャンプ場, 駐車場
+cluster1:(2)
+角島大橋, 角島
+cluster2:(21)
+印象, 前, 中学生, シーズン, つもり, 多く, スポット, ほか, 夏, 目, 沖縄, アドバイス, 時期, 気まぐれ, ほう, 夕暮れ, トイレ, シャワー, 出発, 水, 夏場
+cluster3:(2)
+部活, 疲れ
+cluster4:(2)
+子供, 娘
+cluster5:(2)
+家族, 人
+cluster6:(1)
+若者
+cluster7:(1)
+映画
+cluster8:(1)
+子供達
+cluster9:(1)
+小さなお子
+cluster10:(1)
+うね海水浴
+cluster11:(3)
+海開き, 海側, 海
+cluster12:(2)
+天気, 陽気
+cluster13:(4)
+景色, 夕日, 風景, 景観
+cluster14:(7)
+心, 砂, 足, ゴミ, 波, 魚, 底
+cluster15:(2)
+砂浜, 海岸
+cluster16:(2)
+海水浴シーズン, 海水浴
+cluster17:(2)
+ビーチ, ビーチサンダル
+cluster18:(1)
+遠浅
+cluster19:(7)
+ロケセット, シャワー施設, シャワー室, 海水浴客, 冷水シャワー, ファミリー客, 建物
+cluster20:(1)
+透明度
+
+howmany entities : 70
+howmany clusters : 21
+howmany entities (more than1entities) : 70
+howmany clusters (more than1entities) : 21
+deleted 0entities.

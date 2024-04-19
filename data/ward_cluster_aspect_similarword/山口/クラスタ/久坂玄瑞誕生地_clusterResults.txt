@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久坂玄瑞誕生地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+久坂玄瑞誕生地, 久坂玄端
+cluster1:(24)
+住宅, 和歌, ところ, ナビ, かんじ, バス停, 幕末, クルマ, 家, 石碑, 碑, のぼり, バス, 信号, 間, 近隣住民, 偉人, 迷惑, 萩循環, 先, 近く, 誕生地, 駐車場, ファン
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 2
+deleted 0entities.

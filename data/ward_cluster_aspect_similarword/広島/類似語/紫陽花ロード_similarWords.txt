@@ -1,0 +1,15 @@
+--------------------similar_words:紫陽花ロード--------------------
+top3 entities near to cluster0>>
+梅雨, 梅雨入り, ブギィ
+top3 entities near to cluster1>>
+青, 黄色, 緑色
+top3 entities near to cluster3>>
+風景, 景色
+top3 entities near to cluster4>>
+境内, 紫陽花, 色とりどり
+top3 entities near to cluster5>>
+斜面, 山麓, 麓
+top3 entities near to cluster6>>
+桜, 満開, 花
+top3 entities near to cluster7>>
+駅, 徒歩, 駅前

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:池袋の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(34)
+都会, 樹木, 場所, 鍵, アーケイド, 自然, 池, 先, 子ども, 入口, 公園, 気, 緑, ところ, 文字, トンボ池, 蚊, アーケード, 事, 駅, 平和通り, ログハウス, 小道, プチ森林浴, 北, 中, 小さめ, こと, ログハウス風, アーチ, ベンチ, 雰囲気, 注意, 北口
+cluster1:(6)
+管理人, 休憩, 時間限定, 時間, 自然研究目的, 休憩場所
+cluster2:(3)
+平和通り沿い, 商店街, 池袋平和通り商店街
+cluster3:(8)
+池袋駅, 東京都, 豊島区, 森, 池袋の森, 北池袋駅, 森デスネ, 池袋
+
+howmany entities : 51
+howmany clusters : 4
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 4
+deleted 0entities.

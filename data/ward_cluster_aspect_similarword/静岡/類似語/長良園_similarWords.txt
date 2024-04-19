@@ -1,0 +1,17 @@
+--------------------similar_words:長良園--------------------
+top3 entities near to cluster0>>
+狩り, イチゴ, 苺
+top3 entities near to cluster1>>
+受付, 予約, 申込
+top3 entities near to cluster6>>
+時間, 近辺
+top3 entities near to cluster10>>
+エリア, 駐車, 敷地
+top3 entities near to cluster11>>
+時間, 範囲
+top3 entities near to cluster12>>
+家族, 夫婦, 両親
+top3 entities near to cluster14>>
+子供, 娘, 子
+top3 entities near to cluster15>>
+農園, イチゴ, 果物

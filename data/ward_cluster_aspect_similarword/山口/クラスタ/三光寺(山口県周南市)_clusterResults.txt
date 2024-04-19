@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三光寺(山口県周南市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寺, 寺院, 本堂
+cluster1:(4)
+神, 御朱印, 旅, 弁財天
+cluster2:(3)
+こと, 不在, 場合
+cluster3:(2)
+周南七福神, 極楽巡り
+cluster4:(1)
+熊毛王国極楽巡り
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

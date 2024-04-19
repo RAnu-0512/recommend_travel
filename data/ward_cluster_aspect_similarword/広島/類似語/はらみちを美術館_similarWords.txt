@@ -1,0 +1,11 @@
+--------------------similar_words:はらみちを美術館--------------------
+top3 entities near to cluster0>>
+美術館, 近辺, ほど近い
+top3 entities near to cluster1>>
+感じる, 思う, かんじ
+top3 entities near to cluster2>>
+イラスト, 絵画
+top3 entities near to cluster3>>
+温泉, 温泉郷, 湯
+top3 entities near to cluster5>>
+はら

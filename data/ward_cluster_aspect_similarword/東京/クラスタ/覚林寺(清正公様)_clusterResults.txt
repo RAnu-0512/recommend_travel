@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:覚林寺(清正公様)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白金高輪駅, 高輪・三田・白金
+cluster1:(2)
+清正, 加藤清正
+cluster2:(2)
+清正公堂, 清正公さま
+cluster3:(3)
+長寿, 無病息災, 健康長寿
+cluster4:(2)
+勝負師, 数字順位
+cluster5:(3)
+参拝者, 参詣, 詣
+cluster6:(5)
+目黒, 白金, 七福神巡り, 山手七福神, 東京メトロ
+cluster7:(4)
+堂, 本堂, 山門, 寺
+cluster8:(5)
+新年, 初お祈り, 参り, 通称, 訪問
+cluster9:(4)
+建物, 界隈, 近辺, 祠
+cluster10:(2)
+仕事, こと
+cluster11:(3)
+バス停, 三田線, 毘沙門天
+cluster12:(2)
+御利益, 七福神
+cluster13:(1)
+勝負事
+cluster14:(1)
+泉岳寺
+cluster15:(1)
+南北線
+cluster16:(1)
+順序
+cluster17:(1)
+利益
+cluster18:(1)
+国道沿い
+cluster19:(1)
+覚林寺
+
+howmany entities : 46
+howmany clusters : 20
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 20
+deleted 0entities.

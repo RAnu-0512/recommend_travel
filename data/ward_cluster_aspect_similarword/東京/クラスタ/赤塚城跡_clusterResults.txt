@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤塚城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日本城郭大系 5, 郷土資料館
+cluster1:(4)
+赤塚梅まつり, 赤塚5丁目, 赤塚公園, 赤塚城
+cluster2:(2)
+実胤, 自胤
+cluster3:(5)
+場所, 公園, 助け, 城, 植物園
+cluster4:(2)
+石浜城, 城址跡
+cluster5:(8)
+太田道灌, 東京都, 西高島平駅, 武蔵国, 都立, 千葉, 下総国, 板橋区
+cluster6:(1)
+千葉実胤・自胤兄弟
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河津七滝七福神巡り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+七滝巡り, 七滝各所, 河津七滝, 七滝観光センター
+cluster1:(12)
+宝, スタンプ, 福神, 大滝, 巡り, スタンプラリー, 各々, 七福神, 神, 滝, 近く, 七福神巡り
+cluster2:(1)
+去七難来七福
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 1entities.

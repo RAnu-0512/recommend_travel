@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:粟ケ岳の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+さくら祭, 桜, 山桜, 満開
+cluster1:(9)
+ソメイヨシノ, 新芽, 種類, 茶, 山頂, 木, タンポポ, 季節, 時期
+cluster2:(1)
+阿波々神社
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

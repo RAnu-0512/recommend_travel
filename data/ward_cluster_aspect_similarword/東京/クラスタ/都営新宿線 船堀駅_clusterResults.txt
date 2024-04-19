@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営新宿線 船堀駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+船堀, 都営
+cluster1:(4)
+感じ, 周り, こと, 一体
+cluster2:(2)
+高架, 駅舎
+cluster3:(2)
+急行, 電車
+cluster4:(5)
+隅田川, 東大島, 駅, 地下鉄, 町
+cluster5:(1)
+味噌ラーメン
+cluster6:(1)
+地上区間
+cluster7:(3)
+地下鉄新宿線, 大手私鉄, 新宿線
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

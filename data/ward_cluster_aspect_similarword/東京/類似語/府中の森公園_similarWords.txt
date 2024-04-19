@@ -1,0 +1,17 @@
+--------------------similar_words:府中の森公園--------------------
+top3 entities near to cluster0>>
+公園, 広場, 遊具
+top3 entities near to cluster1>>
+駅, 徒歩, 駅前
+top3 entities near to cluster3>>
+子ども, 子供, こども
+top3 entities near to cluster4>>
+テニス, コート, バドミントン
+top3 entities near to cluster5>>
+左手, 右手, 木陰
+top3 entities near to cluster6>>
+敷地, 施設, 売店
+top3 entities near to cluster7>>
+家族連れ, 家族, つれ
+top3 entities near to cluster9>>
+京王, 本線, 駅

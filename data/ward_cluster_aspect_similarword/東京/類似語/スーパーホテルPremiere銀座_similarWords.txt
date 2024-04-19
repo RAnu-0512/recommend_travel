@@ -1,0 +1,17 @@
+--------------------similar_words:スーパーホテルPremiere銀座--------------------
+top3 entities near to cluster0>>
+風呂, 部屋, 湯船
+top3 entities near to cluster1>>
+スパ, 温泉, 銭湯
+top3 entities near to cluster2>>
+鍵, 部屋, カギ
+top3 entities near to cluster3>>
+受付, 時間, 予約
+top3 entities near to cluster4>>
+ホテル, 利用, 問題
+top3 entities near to cluster5>>
+番号, 通し番号, 電話
+top3 entities near to cluster6>>
+接客, 応対, 業務
+top3 entities near to cluster7>>
+混雑, 出立, 時間

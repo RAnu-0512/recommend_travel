@@ -1,0 +1,11 @@
+--------------------similar_words:若洲ゴルフリンクス--------------------
+top3 entities near to cluster1>>
+交通費, 交通, 費用
+top3 entities near to cluster2>>
+ゴルフ場, 練習場, ゴルフ, 練習
+top3 entities near to cluster3>>
+都心, 都内, 都
+top3 entities near to cluster4>>
+ゴルフ, 練習, 予約
+top3 entities near to cluster5>>
+雰囲気, 印象, 景色

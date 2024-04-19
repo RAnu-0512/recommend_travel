@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡サッカーミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡県, 出身地, 静岡出身サッカー
+cluster1:(5)
+所, 写真, 歴史, 色々, 表
+cluster2:(6)
+ライバル, メッセージ, 入り口, ユニフォーム, ミュージアム, ユニホーム
+cluster3:(3)
+サッカーファン, サッカー, バーベキューサッカー
+cluster4:(1)
+サインボール
+cluster5:(1)
+バス
+cluster6:(7)
+歴代, 県, 代表, 出身, 埼玉, サッカー王国, 中心
+cluster7:(3)
+選手, 展示場, プロ選手
+cluster8:(1)
+ゴン中山
+
+howmany entities : 30
+howmany clusters : 9
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 6
+deleted 3entities.

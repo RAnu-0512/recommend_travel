@@ -1,0 +1,15 @@
+--------------------similar_words:旧森川家住宅--------------------
+top3 entities near to cluster1>>
+保存, 地区, 町並み
+top3 entities near to cluster2>>
+塩田, 水田, 地帯
+top3 entities near to cluster4>>
+邸宅, 屋敷, 豪邸
+top3 entities near to cluster5>>
+庭家, 庭, 裏庭
+top3 entities near to cluster6>>
+屋根, 葺材, 茅ぶき
+top3 entities near to cluster7>>
+豪商, 商家, 商人
+top3 entities near to cluster8>>
+入館料, 入場料, 入館, 入場

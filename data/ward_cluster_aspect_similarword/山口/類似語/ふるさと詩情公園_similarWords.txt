@@ -1,0 +1,11 @@
+--------------------similar_words:ふるさと詩情公園--------------------
+top3 entities near to cluster0>>
+満開, 桜, 公園
+top3 entities near to cluster1>>
+歌碑, 童謡, 句碑
+top3 entities near to cluster2>>
+詩情, 公園, 抒情
+top3 entities near to cluster3>>
+布施, 町, ロンモール
+top3 entities near to cluster4>>
+唱歌, 童謡, 民謡

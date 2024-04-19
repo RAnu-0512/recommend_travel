@@ -1,0 +1,21 @@
+--------------------similar_words:宮島の桜--------------------
+top3 entities near to cluster0>>
+シカ, 弁当, おにぎり
+top3 entities near to cluster1>>
+島草, 山草, 山, 島
+top3 entities near to cluster2>>
+神経, 脳神経, すりへる
+top3 entities near to cluster3>>
+おすすめ, 思い出, 想い出
+top3 entities near to cluster4>>
+五重塔, 枝垂桜, 大鳥居
+top3 entities near to cluster5>>
+間, 辺り, 時間
+top3 entities near to cluster6>>
+秋, 季節, 春
+top3 entities near to cluster7>>
+景色, 風景, 絶景
+top3 entities near to cluster8>>
+干潮, 満潮, 遺産
+top3 entities near to cluster9>>
+厳島, 神社, 鳥居

@@ -1,0 +1,15 @@
+--------------------similar_words:涙松跡(萩往還)--------------------
+top3 entities near to cluster0>>
+右端, 左端, 左下
+top3 entities near to cluster1>>
+地蔵, 尊前, 観音
+top3 entities near to cluster2>>
+跡, 痕跡
+top3 entities near to cluster3>>
+時代, 幕末, 末期
+top3 entities near to cluster4>>
+刑場, 鈴が森, 鈴ケ森
+top3 entities near to cluster5>>
+跡, 松, 涙
+top3 entities near to cluster6>>
+県道, 道路, 国道

@@ -1,0 +1,11 @@
+--------------------similar_words:JR 代々木駅--------------------
+top3 entities near to cluster0>>
+神宮, 明治, 備林
+top3 entities near to cluster1>>
+駅, ホーム, 各駅
+top3 entities near to cluster4>>
+位置, 不便, 立ち
+top3 entities near to cluster5>>
+乗降, 客数, 旅客
+top3 entities near to cluster8>>
+駅, 各駅, 駅前

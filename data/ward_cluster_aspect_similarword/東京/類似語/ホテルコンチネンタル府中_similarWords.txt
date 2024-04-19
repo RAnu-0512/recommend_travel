@@ -1,0 +1,27 @@
+--------------------similar_words:ホテルコンチネンタル府中--------------------
+top3 entities near to cluster0>>
+食べ放題, 食べ, 食する
+top3 entities near to cluster1>>
+料理, 前菜, 和食
+top3 entities near to cluster3>>
+ホテル, ビジネス, イビスホテル
+top3 entities near to cluster4>>
+メイン, 雰囲気, スタッフ
+top3 entities near to cluster5>>
+ホタテ, マグロ, まぐろ
+top3 entities near to cluster6>>
+ケーキ, プリン, レアチーズケーキ
+top3 entities near to cluster7>>
+デザート, バイキング, ビュッフェ
+top3 entities near to cluster8>>
+オムレツ, 焼きそば, お好み焼き
+top3 entities near to cluster9>>
+すき焼き, スペアリブ, しゃぶしゃぶ
+top3 entities near to cluster10>>
+サラダ, ドレッシング, つけあわせ
+top3 entities near to cluster11>>
+ワイン, 赤ワイン, スパークリングワイン
+top3 entities near to cluster12>>
+家族, 親族, 両親
+top3 entities near to cluster14>>
+卵, 玉子, 野菜

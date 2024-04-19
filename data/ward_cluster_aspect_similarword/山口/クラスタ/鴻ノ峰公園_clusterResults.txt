@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鴻ノ峰公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上, 場所
+cluster1:(1)
+公園
+cluster2:(1)
+眼下
+cluster3:(1)
+山口市
+cluster4:(1)
+鴻ノ峰公園
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

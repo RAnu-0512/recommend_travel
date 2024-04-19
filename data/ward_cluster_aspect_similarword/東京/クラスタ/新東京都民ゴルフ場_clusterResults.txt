@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新東京都民ゴルフ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土砂, 台風
+cluster1:(7)
+影響, 他, ゴルフ, 気持ち, 場所, 平坦, 河川敷コース
+cluster2:(3)
+再開, 閉鎖, 工事
+cluster3:(1)
+河川氾濫
+cluster4:(1)
+資本提携
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

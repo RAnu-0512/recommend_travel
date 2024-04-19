@@ -1,0 +1,13 @@
+--------------------similar_words:晴海客船ターミナル--------------------
+top3 entities near to cluster0>>
+客船, 船客, 旅客船
+top3 entities near to cluster1>>
+都, 港, 区
+top3 entities near to cluster2>>
+夜景, 景色, 絶景
+top3 entities near to cluster3>>
+景色
+top3 entities near to cluster4>>
+閑散, 工事, 繁忙
+top3 entities near to cluster6>>
+駐車場, 駐車, 場裏

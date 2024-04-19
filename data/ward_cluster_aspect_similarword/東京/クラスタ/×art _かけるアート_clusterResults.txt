@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:×art _かけるアート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+妹, 先生
+cluster1:(9)
+リピート, 赤ちゃん, 他, 全体, ポイント, 方, プレゼント, アドバイス, 雰囲気
+cluster2:(1)
+所
+cluster3:(7)
+技法, 美術, 講義, 制作, 人柄, 身, 知識
+cluster4:(4)
+アート体験, 体験, アート体験教室, リヒター抽象画
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

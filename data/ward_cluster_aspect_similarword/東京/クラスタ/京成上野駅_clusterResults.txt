@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京成上野駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+京成線, 京成, 日比谷線上野駅, JR上野駅, 京成上野駅, 上野駅
+cluster1:(22)
+ホテル, 上野, 地下道, 外国人, 現在, 利用, アクセス, 利用者, 上野公園, 他, アメ横, スカイライナー, 感じ, 近く, 始発駅, 時間, 美術館, 外, 下, 行き先, 乗り換え, 成田空港
+cluster2:(2)
+地下鉄線, 江戸線
+cluster3:(3)
+リニューアル工事, 販売, 窓口
+cluster4:(2)
+距離, フリー区間
+cluster5:(4)
+日暮里駅, 駅, 改札, 構内
+cluster6:(2)
+電車, 特急
+cluster7:(2)
+観光, 空港
+cluster8:(5)
+乗車券, 下町日和キップ, 過去数回, 観光案内所, パンダ公開記念
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 9
+deleted 0entities.

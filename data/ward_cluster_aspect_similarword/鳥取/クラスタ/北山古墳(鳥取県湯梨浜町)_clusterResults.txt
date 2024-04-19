@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北山古墳(鳥取県湯梨浜町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+後円部, 中, 東伯郡, 中あたり, 前方, 鳥取県, 通番, 北山, 築造, 形状, 説明板, 規模, 道のり, 階段, 斜面
+cluster1:(2)
+古墳, 古墳群
+cluster2:(2)
+北山古墳群, 北山古墳
+cluster3:(1)
+墳丘
+cluster4:(1)
+竪穴式石室
+cluster5:(1)
+湯梨浜町丘陵先端
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 6
+deleted 0entities.

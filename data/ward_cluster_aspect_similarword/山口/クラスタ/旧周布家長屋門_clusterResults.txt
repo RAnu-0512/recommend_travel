@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧周布家長屋門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+萩城下町, 萩, 堀内地区
+cluster1:(2)
+住宅街, 武家屋敷
+cluster2:(5)
+見学, 造り, 木造, 木材, 建物
+cluster3:(5)
+もの, こと, 感じ, 趣, 様子
+cluster4:(2)
+公園, 海岸
+cluster5:(3)
+昔, 時代, 歴史
+cluster6:(2)
+外側, 北側
+cluster7:(5)
+菊ヶ浜, 長屋門, 市街地, 見ごたえ, 時代物
+cluster8:(2)
+中, 途中
+cluster9:(2)
+武士, 門
+cluster10:(3)
+大きさ, 重厚感, 古さ
+cluster11:(1)
+江戸時代中期
+
+howmany entities : 35
+howmany clusters : 12
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 12
+deleted 0entities.

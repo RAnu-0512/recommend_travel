@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:茶臼山(山口県光市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登山, 登山道
+cluster1:(3)
+夏, 秋, 春
+cluster2:(6)
+景色, 頂上, 茶臼山, 海, 雪景色, 瀬戸内海
+cluster3:(1)
+光市
+cluster4:(1)
+芝桜
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

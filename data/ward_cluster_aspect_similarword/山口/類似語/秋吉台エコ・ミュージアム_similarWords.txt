@@ -1,0 +1,11 @@
+--------------------similar_words:秋吉台エコ・ミュージアム--------------------
+top3 entities near to cluster0>>
+芝生, そば, 原っぱ
+top3 entities near to cluster1>>
+施設, 敷地
+top3 entities near to cluster2>>
+台地, カルスト, 丘陵
+top3 entities near to cluster3>>
+処, 食事, 夕食
+top3 entities near to cluster4>>
+大正, 洞, 招鶴

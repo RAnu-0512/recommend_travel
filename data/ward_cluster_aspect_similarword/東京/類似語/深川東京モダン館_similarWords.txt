@@ -1,0 +1,21 @@
+--------------------similar_words:深川東京モダン館--------------------
+top3 entities near to cluster1>>
+文化国, 拠点国, 文化, 拠点
+top3 entities near to cluster2>>
+食堂, 食事, 夕食
+top3 entities near to cluster3>>
+建物, 館内, 外観
+top3 entities near to cluster4>>
+駅, 門前仲町, 駅前
+top3 entities near to cluster5>>
+建築, 建物, 建造
+top3 entities near to cluster6>>
+学芸員, 学芸, 職員
+top3 entities near to cluster7>>
+内観, 外観, 観想
+top3 entities near to cluster8>>
+有形, 文化財, 登録
+top3 entities near to cluster9>>
+案内, 案内板, ガイド
+top3 entities near to cluster10>>
+藩学, 藩邸

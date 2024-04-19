@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中原中也詩碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中原中也, 中也
+cluster1:(2)
+山口, 中原
+cluster2:(4)
+隣, デザイン, 湯田温泉, 帰郷
+cluster3:(1)
+地元出身
+cluster4:(7)
+一節, 詩, 歌, 詩人, 天才詩人, 公卿, 詩作
+cluster5:(8)
+詩碑, 公園, 遊具, 井上公園, 史跡, 石碑, 碑, 高田公園
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 6
+deleted 0entities.

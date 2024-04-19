@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和木ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パットパットゴルフ, ゴルフ場
+cluster1:(11)
+感じ, ホール, 腕試し, コース, ロビー, 値段, プレイヤー, ティ, ゴルフコース, 技術, レストラン
+cluster2:(1)
+和木ゴルフ倶楽部
+cluster3:(1)
+難易度
+cluster4:(1)
+蜂ケ峯ゴルフガーデン
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

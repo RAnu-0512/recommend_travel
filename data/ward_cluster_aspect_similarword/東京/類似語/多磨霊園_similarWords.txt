@@ -1,0 +1,37 @@
+--------------------similar_words:多磨霊園--------------------
+top3 entities near to cluster0>>
+霊園, 斎場, 墓地
+top3 entities near to cluster1>>
+駅, 道路, 駐車
+top3 entities near to cluster2>>
+花見, 散歩, 紅葉
+top3 entities near to cluster3>>
+お参り, 参り
+top3 entities near to cluster4>>
+京王線, 相模原線, 京王
+top3 entities near to cluster5>>
+入り口, 駅前, 最寄り
+top3 entities near to cluster6>>
+テニス, コート, バドミントン
+top3 entities near to cluster7>>
+自然, 空間, 環境
+top3 entities near to cluster8>>
+親戚, 息子, ウチ
+top3 entities near to cluster9>>
+先祖, 故人, 祖先
+top3 entities near to cluster12>>
+季節, 時期, 気分
+top3 entities near to cluster13>>
+興味, 機会, 人達
+top3 entities near to cluster14>>
+大きい, 案内, 探し
+top3 entities near to cluster15>>
+墓地, 墓所
+top3 entities near to cluster16>>
+免許, 運転, 試験場
+top3 entities near to cluster17>>
+西武, 西武鉄道, 東急
+top3 entities near to cluster21>>
+都心, 都会, 田舎
+top3 entities near to cluster22>>
+都営, 住宅, 霊園

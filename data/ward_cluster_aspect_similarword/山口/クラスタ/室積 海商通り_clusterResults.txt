@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:室積 海商通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+家族, 瀬戸, 家屋, シール, スタンプラリー, 場所, 抽選
+cluster1:(3)
+江戸時代, 門前町, 海商
+cluster2:(2)
+北前船, 室積おさかなマルシェ
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

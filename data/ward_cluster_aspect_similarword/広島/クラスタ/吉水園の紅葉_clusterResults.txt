@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉水園の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+紅葉シーズン, 紅葉, 観光スポット, 見学, 景色, 風景
+cluster1:(9)
+卵, 秋, 時期, モリアオガエル, 風物詩, 涼しげ, 巣, 春, 場所
+cluster2:(1)
+一般公開
+cluster3:(3)
+開園時期, 日本庭園, 庭園
+cluster4:(1)
+吉水園
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

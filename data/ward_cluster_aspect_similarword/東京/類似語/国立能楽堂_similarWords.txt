@@ -1,0 +1,35 @@
+--------------------similar_words:国立能楽堂--------------------
+top3 entities near to cluster0>>
+ロビー, 入り口, 入口
+top3 entities near to cluster1>>
+ロッカー, チケット, イベント
+top3 entities near to cluster2>>
+おかげ, ひとつ, 一つ
+top3 entities near to cluster3>>
+エリア, アーバンエリア, 全域
+top3 entities near to cluster4>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster5>>
+おそう, 掃除, ざいは
+top3 entities near to cluster6>>
+能楽堂, 歌舞伎, 能楽
+top3 entities near to cluster11>>
+住宅, 商業, 施設
+top3 entities near to cluster12>>
+駅, 改札, 構内
+top3 entities near to cluster13>>
+座席, 椅子, 荷物
+top3 entities near to cluster14>>
+歩道, 路地, 裏道
+top3 entities near to cluster15>>
+建物, 地図, 施設
+top3 entities near to cluster17>>
+外国人, 外国, 外人
+top3 entities near to cluster18>>
+座り心地, 座り, すわり
+top3 entities near to cluster19>>
+各駅, 停車, 停車駅
+top3 entities near to cluster20>>
+展示室, 資料室, 資料, 展示
+top3 entities near to cluster22>>
+能楽, 公演, 舞踊

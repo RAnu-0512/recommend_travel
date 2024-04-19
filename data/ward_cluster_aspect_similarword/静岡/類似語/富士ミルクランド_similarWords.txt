@@ -1,0 +1,43 @@
+--------------------similar_words:富士ミルクランド--------------------
+top3 entities near to cluster0>>
+アイス, チョコ, クッキー
+top3 entities near to cluster2>>
+ウサギ, うさぎ, ヒツジ
+top3 entities near to cluster3>>
+ホテル, アウトドア, バーベキュー
+top3 entities near to cluster4>>
+居心地, におい, 出入り
+top3 entities near to cluster5>>
+ジェラート, ソフトクリーム, スイーツ
+top3 entities near to cluster7>>
+ファミリー, グループ, ふれあい
+top3 entities near to cluster8>>
+コテージ, ドッグラン, キャンプサイト
+top3 entities near to cluster10>>
+ベランダ, 我が家, バケツ
+top3 entities near to cluster18>>
+人気, 盛り沢山, 値段
+top3 entities near to cluster19>>
+土産, 土産物, みやげ物
+top3 entities near to cluster20>>
+夕食, 一泊, 食事
+top3 entities near to cluster21>>
+景色, 風景
+top3 entities near to cluster23>>
+施設, 設備, 敷地
+top3 entities near to cluster25>>
+出費, 費用, 経費
+top3 entities near to cluster28>>
+ミルク, 牛乳, チーズ
+top3 entities near to cluster29>>
+野菜, 産直, 果物
+top3 entities near to cluster30>>
+広場, 芝生, 公園
+top3 entities near to cluster31>>
+動物園, 動物, 植物園, 植物
+top3 entities near to cluster38>>
+入場料, 入場, 入園料, 入園
+top3 entities near to cluster39>>
+駐車場, 駐車, 場代
+top3 entities near to cluster40>>
+体験, エサ, 餌

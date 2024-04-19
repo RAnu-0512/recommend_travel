@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ半蔵門線 永田町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+店, 場所, 半蔵門線, 相応, 有楽町線, 他, 距離, 永田町駅, 路線, 駅, 地下, 通勤, 時間, 永田町, 構内, こと, 南北線, 政治, エチカ, 乗り換え
+cluster1:(3)
+東京都, 東京メトロ永田町駅, 赤坂見附駅
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

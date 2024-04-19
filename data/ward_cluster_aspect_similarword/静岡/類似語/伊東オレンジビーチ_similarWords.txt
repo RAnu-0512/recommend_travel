@@ -1,0 +1,21 @@
+--------------------similar_words:伊東オレンジビーチ--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 家族
+top3 entities near to cluster1>>
+定食, 朝飯, ご飯
+top3 entities near to cluster2>>
+釣り場, 海水浴
+top3 entities near to cluster3>>
+台風, 天気, 花火
+top3 entities near to cluster4>>
+散歩, 旅, 食事
+top3 entities near to cluster6>>
+道路, 工事, 施設
+top3 entities near to cluster7>>
+駅, 徒歩, 至近
+top3 entities near to cluster8>>
+身, 頭, 足
+top3 entities near to cluster13>>
+ビーチ, 海辺, 砂浜
+top3 entities near to cluster14>>
+温泉, 海, 海岸

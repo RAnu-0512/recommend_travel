@@ -1,0 +1,13 @@
+--------------------similar_words:いろり海産--------------------
+top3 entities near to cluster1>>
+バス, 乗客, 外客
+top3 entities near to cluster2>>
+干物, 鯛, 金目
+top3 entities near to cluster3>>
+店内, 開店
+top3 entities near to cluster6>>
+商品, 海産物, 品物
+top3 entities near to cluster7>>
+夕食, 土産, 宿
+top3 entities near to cluster9>>
+駐車場, 駐車

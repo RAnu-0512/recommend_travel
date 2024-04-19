@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベルナール・ビュフェ美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ヴァンジ美術館, 美術館
+cluster1:(2)
+子ども美術館, こども美術館
+cluster2:(1)
+ビュフェこども美術館
+cluster3:(2)
+美術, 彫刻
+cluster4:(6)
+北エリア, 南エリア, 徒歩, 近道, 丘, 線
+cluster5:(2)
+ルート, ルール
+cluster6:(11)
+ロッカー, カフェ, クレマチスガーデン, ベルナールビュッフェ, リュック, ビュッフェ, ミッフィー, クレマチス, コーナー, こども, ベルナール・ビュフェ
+cluster7:(1)
+つり橋
+cluster8:(15)
+最後, 描写, 絵, 見方, 場合森林公園, 工夫, 色調, もの, 所々, 人, 時間, 子供, 印象, 場所, 作品
+cluster9:(7)
+展示, 館内, 入口, 掲示, 順路, 建物, 部屋
+cluster10:(1)
+無料シャトルバス
+
+howmany entities : 50
+howmany clusters : 11
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 4
+deleted 11entities.

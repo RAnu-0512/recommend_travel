@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グリーンピアせとうち>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+方, スライダー, 子供, タクシー, 順番, テント持参, 家族, プール
+cluster1:(4)
+安浦駅, 駅, ホテル〜駅, シャトルバス
+cluster2:(1)
+桟敷席完売
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

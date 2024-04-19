@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市観光案内所(JR広島駅・南口)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+在来線, JR在来線
+cluster1:(3)
+広島, 広島県, 広島駅
+cluster2:(11)
+そば, 内部, 行き方, パンフレット, 始め, 情報, 新幹線, 前, 地図, こと, 場所
+cluster3:(4)
+新幹線口, JR, 電車, 駅
+cluster4:(3)
+観光, 観光パンフレット, 観光案内所
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

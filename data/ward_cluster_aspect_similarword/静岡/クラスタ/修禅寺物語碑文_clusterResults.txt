@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修禅寺物語碑文>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+修善寺温泉街, 修善寺梅林, 梅林口
+cluster1:(5)
+修禅寺物語碑文, 碑文, 碑, 文学, 文学碑
+cluster2:(7)
+バス停, 機会, 徒歩, 説明板, 物語, 修善寺, 中
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 0entities.

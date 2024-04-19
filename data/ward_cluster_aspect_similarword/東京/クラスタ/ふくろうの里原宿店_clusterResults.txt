@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふくろうの里原宿店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+ブログ, スタッフ, 最後, ストレス, 他, 翼, フクロウ, ふれあい, フクロウルーム, 飲み物, ふくろう, 手, 時間, ふれあいタイム, サイト
+cluster1:(9)
+フクロウたち, 店, 土産, 客, 体験, 店員, 方々, 訪問, 店内
+cluster2:(4)
+コロナ禍, 消毒, 検温, コロナ自粛
+cluster3:(1)
+フクロウルームのずらりと並んだフクロウ
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 4
+deleted 0entities.

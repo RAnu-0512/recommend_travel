@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ギャラリー南大室窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+粘土, ゴールデンウィーク, クーポン, 上がり, ふも, こと, 放置, 感謝, 思い出, 大室山, あちこち, 床, ところ, ランプシェード, 体験, 伊豆, 時間, 感じ, ギャラリー, 次, ランプ, 次回, アドバイス, 雰囲気, 意味, 先生, 大理石, 作品, 陶器, 説明
+cluster1:(2)
+男子, 年長男子
+cluster2:(4)
+息子, 夫婦, 子供, 子供たち
+cluster3:(2)
+日常生活, 旅行帰り
+cluster4:(5)
+近藤宏克, 南大室窯, 陶芸作り, 陶芸体験, 陶芸家
+
+howmany entities : 43
+howmany clusters : 5
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 3
+deleted 4entities.

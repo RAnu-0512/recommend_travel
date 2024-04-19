@@ -1,0 +1,15 @@
+--------------------similar_words:道の駅 奥大山--------------------
+top3 entities near to cluster0>>
+大山, 奥, 麓
+top3 entities near to cluster1>>
+特産品, 名産品, 特産, 名産
+top3 entities near to cluster2>>
+氷水, 氷, 焼酎
+top3 entities near to cluster3>>
+身, 充実, 重き
+top3 entities near to cluster4>>
+土産店, 土産物店, 土産物, 土産
+top3 entities near to cluster5>>
+駅道, 駅, 国道
+top3 entities near to cluster6>>
+野菜, 食材, 果物

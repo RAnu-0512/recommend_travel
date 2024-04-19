@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三津海水浴場(地元運営)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+旅行者, 老舗旅館, 旅館
+cluster1:(3)
+舞台, 海岸, 景色
+cluster2:(2)
+人, 方々
+cluster3:(2)
+近く, 場所
+cluster4:(8)
+ラブライブサンシャイン, 内浦湾, 秋, モデル, 海水浴, 富士山, 春休み, アニメ
+cluster5:(1)
+海水浴場
+cluster6:(2)
+淡島越し, 沼津市
+cluster7:(1)
+全面ラブライブ・サンシャイン
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 8entities.

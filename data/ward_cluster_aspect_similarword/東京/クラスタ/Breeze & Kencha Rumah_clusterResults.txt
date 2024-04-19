@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Breeze & Kencha Rumah>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+人, ショップ, ダイビング, 近く, スーパー
+cluster1:(2)
+部屋, 宿
+cluster2:(1)
+ミニキッチン
+cluster3:(1)
+飲食店
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

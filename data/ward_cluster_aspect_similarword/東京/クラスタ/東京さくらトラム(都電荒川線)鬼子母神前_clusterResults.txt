@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京さくらトラム(都電荒川線)鬼子母神前>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+路面電車, 乗降客
+cluster1:(16)
+荒川線, 編成, つもり, 鬼子母神, 都電, 交通サービス, 駅, 改札, 電車, 鬼子母神堂, 前, 小銭, 雰囲気, 東京メトロ, カワイイ駅, 乗り換え
+cluster2:(3)
+チャージしろ, 運行優先, 用意しろ
+cluster3:(1)
+副都心線
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

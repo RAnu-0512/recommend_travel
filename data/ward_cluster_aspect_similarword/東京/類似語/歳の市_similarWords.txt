@@ -1,0 +1,9 @@
+--------------------similar_words:歳の市--------------------
+top3 entities near to cluster0>>
+界隈, 周辺, 近辺
+top3 entities near to cluster1>>
+衣料品, 衣料, 雑貨品, 雑貨
+top3 entities near to cluster2>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster3>>
+出庫, 大, 駅

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:unico代官山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+雑貨, 家具, インテリア雑貨
+cluster1:(10)
+代官山, ベッドカバー, 店, 手, ファブリック, 近く, クッションカバー, セレクト, ベッド, 値段
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

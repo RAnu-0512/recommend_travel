@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南原千畳岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(38)
+おすすめ, 心, 灰色, 場所, 自然, 畳, コラボ, 青色, 千畳敷, 人, 向こう, 他, 気, 太平洋, 比喩, ツアー, 八丈島, 上, 南原千畳敷, 黒, コントラスト, 前, 時間, 像, 写真, 中, ガイド, 世界, 背景, こと, 方, 関ヶ原, パワー, 説明, 目, バック, もの, 八丈小島
+cluster1:(3)
+散策路, 海岸線, 海岸沿い
+cluster2:(2)
+予約時間, 団体バスツアー
+cluster3:(8)
+景色, 旅行パンフ, 噴火, 天気, 景観, 道路, 八丈島空港, 眺め
+cluster4:(2)
+夕日, 夕陽
+cluster5:(2)
+岩肌, 岩
+cluster6:(2)
+波, 雲
+cluster7:(3)
+海岸, 海, 海面
+cluster8:(1)
+陸地側
+cluster9:(2)
+耕作地, 宇喜多秀家
+cluster10:(10)
+溶岩帯, 豪姫像, 八丈富士, 南原園地, 溶岩層, 南原千畳岩, 溶岩流, 溶岩台地, 豪姫, 溶岩
+
+howmany entities : 73
+howmany clusters : 11
+howmany entities (more than1entities) : 73
+howmany clusters (more than1entities) : 11
+deleted 0entities.

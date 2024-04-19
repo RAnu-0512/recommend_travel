@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:G8富士カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日陰, 天気
+cluster1:(10)
+待ち, 値段, 所所, ショートホール, 事, リモコン, 富士山, 問題, カート乗り入れ, ホール
+cluster2:(1)
+午後風
+cluster3:(2)
+肌寒さ, 混雑具合
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 5entities.

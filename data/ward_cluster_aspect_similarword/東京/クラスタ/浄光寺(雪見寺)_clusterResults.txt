@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浄光寺(雪見寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地蔵, 地蔵様
+cluster1:(2)
+立像, 像
+cluster2:(1)
+堂前
+cluster3:(23)
+背, 地, 景色, 屋根, 建物, 南側, 展望, ところ, 将軍, 感じ, 雪見, 日暮里, 軒, 樹, 寺, 近辺, 浄光寺, 西, 高台, 雪, 境内, 家屋, 密集具合
+cluster4:(8)
+富士見坂, JR西日暮里駅, 坂, 江戸六地蔵, 西日暮里駅, 江戸時代, 徒歩, 坂下方向
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 5
+deleted 0entities.

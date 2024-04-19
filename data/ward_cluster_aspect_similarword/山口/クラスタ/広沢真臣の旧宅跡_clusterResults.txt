@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広沢真臣の旧宅跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山口市, 山口
+cluster1:(2)
+跡, 宅跡
+cluster2:(3)
+石碑, 維新, 場所
+cluster3:(3)
+広沢真臣, 木戸孝允, 山水園裏
+cluster4:(1)
+幕末・明治初期
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

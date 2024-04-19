@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京成スカイライナー日暮里駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+京成線, 京成スカイライナー
+cluster1:(4)
+駅, 西日暮里駅, 日暮里駅, 千代田線
+cluster2:(7)
+西日暮里, 人, ホーム, 距離, 日暮里, 乗り換え, 成田空港
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海禅寺(東京都青梅市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ツツジ山, 通称ツツジ山
+cluster1:(2)
+所, 時期
+cluster2:(4)
+人, 桜, ツツジ, つつじ
+cluster3:(3)
+寺院, 本堂横, 山門
+cluster4:(1)
+海禅寺
+cluster5:(1)
+青梅線二保尾駅
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

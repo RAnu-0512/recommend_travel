@@ -1,0 +1,15 @@
+--------------------similar_words:円月橋(小石川後楽園)--------------------
+top3 entities near to cluster0>>
+姿, 写真, シーン
+top3 entities near to cluster1>>
+湖面橋, 水面, 湖面
+top3 entities near to cluster2>>
+木, 木火, 土
+top3 entities near to cluster4>>
+丸み, 角張る, フォルム
+top3 entities near to cluster5>>
+小石川, 敷地内, 敷地
+top3 entities near to cluster6>>
+時間帯, 時間, 時の間
+top3 entities near to cluster7>>
+石造, 架る

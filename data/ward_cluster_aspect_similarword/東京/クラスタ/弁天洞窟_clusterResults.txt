@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弁天洞窟>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+ろうそく, よみうりランド近く, マッチ, 子供, 入場, 毘沙門天, ところ, 威光寺, よみうりランド駅, 近く, 全長, 奥, つながり, 入り口, 火, 東長沼, 中, 受付, 禁止, 目
+cluster1:(2)
+仏像, 寺
+cluster2:(2)
+洞窟, 道
+cluster3:(3)
+閉鎖, 崩落, 猛暑
+cluster4:(1)
+弁天様
+cluster5:(1)
+再開発
+cluster6:(1)
+神仏分離
+cluster7:(1)
+入場料
+cluster8:(1)
+穴澤天神社
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 9
+deleted 0entities.

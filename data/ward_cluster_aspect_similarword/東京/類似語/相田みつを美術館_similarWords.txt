@@ -1,0 +1,29 @@
+--------------------similar_words:相田みつを美術館--------------------
+top3 entities near to cluster0>>
+展示, 出展
+top3 entities near to cluster1>>
+地下道, 美術館, 博物館
+top3 entities near to cluster2>>
+グッズ, カフェ, イベント
+top3 entities near to cluster4>>
+涙, 嬉し涙, ふけよ
+top3 entities near to cluster5>>
+副業, ワーク, パス
+top3 entities near to cluster6>>
+建物, 空間, 地下
+top3 entities near to cluster7>>
+作品, 数々, 過去
+top3 entities near to cluster8>>
+価値, 重み, 意義
+top3 entities near to cluster9>>
+余裕, 元気, 余力
+top3 entities near to cluster11>>
+普通, 人間
+top3 entities near to cluster12>>
+時期, 時間, 時
+top3 entities near to cluster13>>
+世界観, 世界, 価値観, 価値
+top3 entities near to cluster14>>
+文章, 詩, 詩人
+top3 entities near to cluster16>>
+こころ, 奥底

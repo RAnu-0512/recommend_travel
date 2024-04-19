@@ -1,0 +1,11 @@
+--------------------similar_words:石森製粉の石臼--------------------
+top3 entities near to cluster0>>
+製粉, 製材, 製紙
+top3 entities near to cluster1>>
+初期, 後期, 末期
+top3 entities near to cluster2>>
+明治, 大正, 平成
+top3 entities near to cluster3>>
+蕎麦, そば, 石臼
+top3 entities near to cluster4>>
+街道, 狐越, 芋窪

@@ -1,0 +1,67 @@
+--------------------similar_words:伝通院--------------------
+top3 entities near to cluster0>>
+三, 十, 四
+top3 entities near to cluster1>>
+境内, 寺, 寺院
+top3 entities near to cluster2>>
+幕末, 幕府, 明治維新
+top3 entities near to cluster3>>
+時代, 幕末, 歴史
+top3 entities near to cluster5>>
+坂, 桜, 清水
+top3 entities near to cluster6>>
+千姫, 家康, 葵
+top3 entities near to cluster7>>
+於大, 於丈, 於富
+top3 entities near to cluster8>>
+皇室, 皇族, 王室
+top3 entities near to cluster9>>
+鈴木, 佐藤, 加藤
+top3 entities near to cluster10>>
+忠政, 致顕, 致国
+top3 entities near to cluster11>>
+長身, 細身, 小柄
+top3 entities near to cluster12>>
+結成, 拡大, 中止
+top3 entities near to cluster15>>
+人々, 人達
+top3 entities near to cluster16>>
+娘, 母, 息子
+top3 entities near to cluster18>>
+祖父母, 雰囲気, イベント
+top3 entities near to cluster19>>
+地下鉄, バス停, 町並み
+top3 entities near to cluster20>>
+春日局, 浄土宗, 海雲寺
+top3 entities near to cluster21>>
+よさ, 応, く
+top3 entities near to cluster22>>
+建物, 町並み, 街並み
+top3 entities near to cluster23>>
+交通, バス, タクシー
+top3 entities near to cluster24>>
+通院, 散歩, 出掛け
+top3 entities near to cluster25>>
+ミニ, ライブ, スカ
+top3 entities near to cluster26>>
+都営, 都営地下鉄, 三田線
+top3 entities near to cluster27>>
+住宅街, 住宅, 商店街, 商店
+top3 entities near to cluster28>>
+駅, 徒歩, 駅前
+top3 entities near to cluster29>>
+豊臣家, 豊臣, 家康
+top3 entities near to cluster30>>
+家康, 豊臣, 井伊
+top3 entities near to cluster31>>
+将軍家, 家康, 豊臣
+top3 entities near to cluster32>>
+家光, 家康, 秀忠
+top3 entities near to cluster33>>
+千姫, 家康, 墓所
+top3 entities near to cluster34>>
+於大, 家康, 生母
+top3 entities near to cluster36>>
+駅, メトロ, 駅前
+top3 entities near to cluster37>>
+新撰, 新選, 浪士

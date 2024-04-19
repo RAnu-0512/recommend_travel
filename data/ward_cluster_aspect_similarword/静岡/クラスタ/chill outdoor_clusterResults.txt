@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:chill outdoor>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 子供たち
+cluster1:(3)
+笑顔, 声, 表情
+cluster2:(8)
+家族, 全員, 写真, コース, 次回, ウエットスーツ, 他, インストラクター
+cluster3:(2)
+投稿, 体験
+cluster4:(2)
+安全, 川
+cluster5:(1)
+解散
+cluster6:(1)
+集合場所
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 8entities.

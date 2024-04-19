@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩八景遊覧船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+乗船時間, 遊覧船, 土産店, 乗車, 乗船, 船旅, 所要時間, 到着時間, 観光船, 駐車場
+cluster1:(12)
+両岸, 運河, 浜, 川, 川岸, 船, 川幅, 川面, 夕陽, 舟, 海, 船頭
+cluster2:(2)
+所, 町
+cluster3:(3)
+流れ, 感じ, 説明
+cluster4:(12)
+スピード, 幕開け, 他, 橋本川, 菊ヶ浜, 花びら, 上, 見た目, 方, 人, 近く, 今回
+cluster5:(5)
+車, 時間, 歌, 時代, 話
+cluster6:(4)
+教師, 歴史話, 元学校, 歴史
+cluster7:(4)
+景色, 景観, 絶景, 天気
+cluster8:(2)
+満開, 桜
+cluster9:(2)
+維新, 明治
+cluster10:(6)
+中国, 並み, 地方, 日本, 都会, 風情
+cluster11:(1)
+小京都
+cluster12:(1)
+忙しさ
+cluster13:(11)
+萩市, 江戸時代末期, 山縣有朋, 萩独特, 指月橋, 萩, 伊藤博文, 萩八景, ユッタリと流れ人の居ない船着き場, 吉田松陰, 萩愛
+
+howmany entities : 75
+howmany clusters : 14
+howmany entities (more than1entities) : 75
+howmany clusters (more than1entities) : 14
+deleted 0entities.

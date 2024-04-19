@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:定輪寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+敷地面積, 裾野市
+cluster1:(11)
+時期, サクラ, 歴史, ソメイヨシノ, 新緑, ツツジ, 桜, おすすめスポット, 地, 春先, エネルギー
+cluster2:(3)
+敷地, 境内, 寺
+cluster3:(2)
+墓, お花
+cluster4:(1)
+名所
+cluster5:(1)
+混雑
+cluster6:(1)
+宗祇
+cluster7:(1)
+湯本
+cluster8:(1)
+加倉田サクラ
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 9entities.

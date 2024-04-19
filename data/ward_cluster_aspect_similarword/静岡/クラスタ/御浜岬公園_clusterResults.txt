@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御浜岬公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+御浜岬, 戸田湾, 戸田漁港
+cluster1:(14)
+西伊豆, 海岸, 岬, 埼玉, 天橋立, 鳥居, 朱色, 神社, 富士山, 海, 夏, ロケーション, 松林, 京都
+cluster2:(12)
+日陰, 側, ミニチュア版, 徒歩, 時間, 感じ, 公園, 距離, 散歩, 犬, 方, 道
+cluster3:(1)
+駐車場
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 1entities.

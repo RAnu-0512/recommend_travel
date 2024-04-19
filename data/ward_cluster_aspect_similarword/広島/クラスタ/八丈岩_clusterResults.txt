@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丈岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パワー, エネルギー
+cluster1:(1)
+佇まい
+cluster2:(1)
+岩
+cluster3:(1)
+観光スポット
+cluster4:(1)
+生命力
+cluster5:(1)
+八丈岩
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

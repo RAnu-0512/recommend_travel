@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯本温泉市営公衆浴場礼湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+レトロ, 感じ, 施設, 石けん, 雰囲気, 外観, シャンプー, 清潔感
+cluster1:(10)
+温泉街, 湯本温泉, お湯, 公衆浴場, 温泉, 湯, 恩湯, 両方温泉ど, 銭湯, 礼湯
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

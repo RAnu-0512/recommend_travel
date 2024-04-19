@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士川河川敷(桜えび干し場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宿泊先, 宿泊
+cluster1:(3)
+静岡, 伊東, 干場
+cluster2:(11)
+しらす, 桜えび, 河川敷, ピンク色, ピンク, 富士川, 富士山, じゅうたん, コントラスト, 河口, マグロ
+cluster3:(2)
+配布, 解禁
+cluster4:(2)
+名産, 土地
+cluster5:(2)
+景色, 天気
+cluster6:(2)
+恒例, 行事
+cluster7:(4)
+目, 姿, 時期, 写真
+cluster8:(1)
+マグロ丼
+cluster9:(2)
+一面紅色, 桜エビまつり
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 13entities.

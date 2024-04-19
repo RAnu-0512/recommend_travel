@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:茶室「芳松庵」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+菅原道真, 防府天満宮の
+cluster1:(7)
+関係, 見学, 干菓子, 途中, 感じ, 人, 先
+cluster2:(3)
+参道, 季節, 紅葉
+cluster3:(7)
+階段, 窓, 抹茶, 空間, 茶, 茶室, 庭園
+cluster4:(1)
+階段途中右手
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

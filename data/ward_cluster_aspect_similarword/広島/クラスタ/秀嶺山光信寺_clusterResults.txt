@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秀嶺山光信寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+紅葉スポット, 紅葉シーズン, 紅葉景色
+cluster1:(4)
+神楽, 桜, 門, 冬
+cluster2:(2)
+方, こと
+cluster3:(2)
+門構え, 枯山水
+cluster4:(4)
+オススメ, スポット, 臨済宗, マイカー
+cluster5:(3)
+周辺, 近く, 自然
+cluster6:(1)
+空気
+cluster7:(1)
+火
+cluster8:(2)
+穴場, 石庭
+cluster9:(8)
+境内, 広島県, 寺, 本尊, 境内特設ステージ, 光信寺, 山門, 本堂
+cluster10:(2)
+秀嶺山, 神石高原町
+
+howmany entities : 32
+howmany clusters : 11
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 11
+deleted 0entities.

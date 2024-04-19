@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堀江家住宅(広島県庄原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅, 建物
+cluster1:(1)
+農家
+cluster2:(1)
+堀江家
+cluster3:(1)
+創建時期
+cluster4:(1)
+藁葺き屋根
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

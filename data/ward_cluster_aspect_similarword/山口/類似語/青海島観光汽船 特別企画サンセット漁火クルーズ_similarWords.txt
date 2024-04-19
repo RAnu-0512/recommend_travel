@@ -1,0 +1,9 @@
+--------------------similar_words:青海島観光汽船 特別企画サンセット漁火クルーズ--------------------
+top3 entities near to cluster0>>
+夕陽, 岩, 夕日
+top3 entities near to cluster1>>
+芸術, 作品, 絵画
+top3 entities near to cluster2>>
+遊覧船, 遊覧, 屋形船
+top3 entities near to cluster3>>
+汽船, 漁火, 遊覧

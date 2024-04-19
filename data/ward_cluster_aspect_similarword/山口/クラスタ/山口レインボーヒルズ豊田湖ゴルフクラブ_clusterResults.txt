@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口レインボーヒルズ豊田湖ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+豊田湖ゴルフクラブ, ゴルフ場
+cluster1:(2)
+女性, 男性
+cluster2:(2)
+コース, 豊田湖
+cluster3:(2)
+ところ, セット
+cluster4:(1)
+ゴルフ
+cluster5:(1)
+差
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マロニエゲート銀座2&3>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+花時計, 雑貨屋, 洋服店
+cluster1:(4)
+予約時間, ランチ予約, 時間, 来店時間
+cluster2:(18)
+店, 階, ブランド, 隣り, ユニクロ, レストラン, 上, 銀座, 地下, クリーム, ビル, 造り, ショップ, 東急ハンズ, 通り, 店内, プランタン, 女性
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 3
+deleted 0entities.

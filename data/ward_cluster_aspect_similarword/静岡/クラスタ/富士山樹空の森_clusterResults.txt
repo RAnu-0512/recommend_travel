@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山樹空の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+シニア, 後ろ, グループ, スタッフ対応, ゴルフ, スピード, 前, 景色, パークゴルフ, プレイ, 家族
+cluster1:(3)
+常連, 常連グループ, 何組かおり
+cluster2:(1)
+観光客
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

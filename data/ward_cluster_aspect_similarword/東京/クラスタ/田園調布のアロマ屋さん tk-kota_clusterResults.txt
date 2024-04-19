@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田園調布のアロマ屋さん tk-kota>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+講師, ドクター, ビー玉アート, 体験, 精油, ルームコロン, アロマ, アドバイス, 香り, 教室, セラピスト
+cluster1:(5)
+特徴, 形, 効果, 好み, 方
+cluster2:(2)
+興味, 知識
+cluster3:(1)
+教え方
+cluster4:(1)
+物腰
+cluster5:(1)
+注意点
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

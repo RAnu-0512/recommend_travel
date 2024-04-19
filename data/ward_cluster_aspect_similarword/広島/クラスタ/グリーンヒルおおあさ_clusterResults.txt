@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グリーンヒルおおあさ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+朝食, 宿泊
+cluster1:(3)
+会議, 宴会, 研修
+cluster2:(6)
+近く, 感じ, 方, 地元, 利用方法, 一般
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

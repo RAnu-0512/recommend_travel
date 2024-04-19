@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海芸妓見番歌舞練場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+熱海芸妓見番歌舞練場, 芸妓連歌舞練場
+cluster1:(31)
+稽古, 年配, こだま, EX, 目, 風情, 一般人, 電車, 姿, 街, インフォ, こと, 練習場, 楽器, 音, グリーン車, 演舞, 予約, 地図, 駅, 人, 普通席, 時間, 踊り, 日, 練習, 乗り換え, 建物, 到着, 一般, 場所
+cluster2:(5)
+芸者, 芸妓さん達, 芸妓達, 芸妓見番, 芸妓
+cluster3:(5)
+静岡県, 熱海, 熱海駅, 糸川遊歩道, 熱海芸妓
+cluster4:(3)
+芸姑, 芸奴, 伝統芸能
+
+howmany entities : 46
+howmany clusters : 5
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 4
+deleted 2entities.

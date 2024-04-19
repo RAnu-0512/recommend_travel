@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧田辺邸(東京都府中市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+造り酒屋, 時代, 天領, 歴史, 建物, 田辺家, 上下, 博物館
+cluster1:(2)
+有力金融業者, 御用商人掛け屋
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三滝ダム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+落石, 運転, 道路
+cluster1:(2)
+ダム, 下流
+cluster2:(9)
+初心者ドライバー, 所々, 紅葉, 目当て, 此処, 周り, クルマ, 人, 貯水池
+cluster3:(4)
+芦津渓谷, 三滝ダム, 水力発電, 自然保護地区
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

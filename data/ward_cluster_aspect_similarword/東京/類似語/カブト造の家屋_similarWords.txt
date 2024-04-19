@@ -1,0 +1,11 @@
+--------------------similar_words:カブト造の家屋--------------------
+top3 entities near to cluster0>>
+檜原, 秘, 湯
+top3 entities near to cluster2>>
+兜造り, 兜, 鎧
+top3 entities near to cluster3>>
+旅館, 宿, 温泉
+top3 entities near to cluster4>>
+屋根, 母屋, 家屋
+top3 entities near to cluster5>>
+葺, 茅, 葺職

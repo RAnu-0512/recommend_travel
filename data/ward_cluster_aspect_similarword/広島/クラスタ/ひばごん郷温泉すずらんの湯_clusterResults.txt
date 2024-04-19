@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ひばごん郷温泉すずらんの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+タオル, カップアイス, サウナ, 水風呂, 空気, ランチ, 持参, ボディーソープ, アイスクリーム
+cluster1:(5)
+客, 貸切, 温泉, 団体, 湯
+cluster2:(3)
+泡風呂シャンプー, 化粧水, 乳液
+cluster3:(1)
+庄原市
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

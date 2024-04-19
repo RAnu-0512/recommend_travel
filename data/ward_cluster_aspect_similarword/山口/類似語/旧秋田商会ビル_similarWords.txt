@@ -1,0 +1,17 @@
+--------------------similar_words:旧秋田商会ビル--------------------
+top3 entities near to cluster0>>
+庭園, 中庭, 屋上
+top3 entities near to cluster1>>
+大正, 明治, 平成
+top3 entities near to cluster3>>
+屋上, 屋根, 階段
+top3 entities near to cluster4>>
+展示, 見学, 試食
+top3 entities near to cluster5>>
+外観, 内部, 写真
+top3 entities near to cluster6>>
+店舗, 施設
+top3 entities near to cluster7>>
+夜間, バス, 昼間
+top3 entities near to cluster8>>
+建物, 建築, 家屋

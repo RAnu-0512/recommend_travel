@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六軒茶屋跡(萩往還)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蜂, 巣
+cluster1:(3)
+夏場, 跡, 茶屋
+cluster2:(1)
+萩往還
+cluster3:(1)
+六軒茶屋
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

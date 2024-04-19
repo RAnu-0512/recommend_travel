@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南富士カントリー倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+富士山, 駿河湾
+cluster1:(8)
+ストレス, しゃぶしゃぶコーナー, 打ち上げ, パスタ, レストラン, ランチ, コース, バイキング
+cluster2:(1)
+食事
+cluster3:(7)
+バイキング統一, 整備, 料金, 管理, 状態, 進行, 内容
+cluster4:(2)
+ゴルフ場, 富士
+cluster5:(1)
+分組数
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 6entities.

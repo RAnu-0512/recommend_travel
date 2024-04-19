@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:切手の博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+エラー切手, 記念切手, 限定切手, 入館料, 使用済み切手, 切手帳, 切手
+cluster1:(3)
+山手線, 目白駅, 線路沿い
+cluster2:(18)
+昔, 場所, 国, 人, 子供, 動物, 外国, 近く, 各地, 名前, 博物館, キャラクター, 日本, 世界, ショップ, こと, アメリカ, 時代
+cluster3:(5)
+館内, 販売, 売店, 在庫, 展示
+cluster4:(2)
+楽しさ, 貼り絵コーナー
+
+howmany entities : 35
+howmany clusters : 5
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 5
+deleted 0entities.

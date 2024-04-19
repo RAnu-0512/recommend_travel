@@ -1,0 +1,17 @@
+--------------------similar_words:子規庵--------------------
+top3 entities near to cluster0>>
+子規, 庵, 閑臥
+top3 entities near to cluster1>>
+南口, 駅, 北口
+top3 entities near to cluster2>>
+子規, 俳句, 俳人
+top3 entities near to cluster3>>
+玄関, 庭, 窓
+top3 entities near to cluster4>>
+明治, 生家, 大正
+top3 entities near to cluster5>>
+工夫, 都合, 保存
+top3 entities near to cluster6>>
+靴
+top3 entities near to cluster8>>
+知識, 予備

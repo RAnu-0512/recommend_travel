@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ネコカフェねこまんま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+猫達, 猫ちゃん達, 子達, 猫たち
+cluster1:(2)
+ネコ, ネコちゃん
+cluster2:(3)
+猫カフェ, 猫, 人懐こい猫
+cluster3:(1)
+店長ネコちゃん
+cluster4:(1)
+猫カフェ巡り
+cluster5:(6)
+車, 店員, ドア, 店, 部屋, 掃除
+cluster6:(2)
+子ども, こども
+cluster7:(3)
+スペース, こじんまり, エピソード
+cluster8:(1)
+話
+cluster9:(5)
+沢山, 笑, 瞬間, 上, 方
+cluster10:(2)
+面倒, 美人
+cluster11:(2)
+毛, 膝
+cluster12:(1)
+ワンドリンク
+cluster13:(4)
+時間制限, 臭く, 臭く場所, 匂い
+
+howmany entities : 37
+howmany clusters : 14
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 6
+deleted 12entities.

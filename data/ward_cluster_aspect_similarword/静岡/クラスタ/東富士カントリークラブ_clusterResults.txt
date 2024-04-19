@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東富士カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ゴルフコンペ, ゴルフ, ゴルフコース
+cluster1:(2)
+車, 会社
+cluster2:(9)
+気, アクセス, グリーン, 御殿場インター, プレイ, コース, 富士山, サーキット, ティーショット
+cluster3:(1)
+景色
+cluster4:(1)
+森
+cluster5:(1)
+裾野
+cluster6:(1)
+轟音
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 6entities.

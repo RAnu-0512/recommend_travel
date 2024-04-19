@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:医王寺(東京都葛飾区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+恵比寿天, 七福神めぐり, 場所, ひとつ, 弘法大師, 駅, 医王寺, 方, 歴史, 神, 雰囲気, 芭蕉, 草創, 地元, こころ
+cluster1:(3)
+本堂, 山門, 境内
+cluster2:(2)
+寺院, 寺
+cluster3:(3)
+仏像, 仏具, 位牌
+cluster4:(1)
+参拝者
+cluster5:(6)
+薬師, 開山海星, 眼病, 小堂, 鯖野薬師, 薬師像
+cluster6:(7)
+柴又七福神, 箱根山中, 葛飾区, 新柴又駅, 北総公団線, 真言宗豊山派, 柴又
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御調八幡宮の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時期, 季節
+cluster1:(2)
+こと, 場所
+cluster2:(1)
+風情
+cluster3:(14)
+ピンク, 広島, 子供, 日本, 花, 枝垂桜, 自宅, 車, 人, 八幡川, 沢山, インター, ドライブ, 便
+cluster4:(7)
+境内, 桜, 穴場スポット, 名所, 花見, 神社, 満開
+cluster5:(2)
+駐車場, 観光客
+cluster6:(5)
+御調八幡宮, 豊臣秀吉, 八幡町, 三原城, 三原市
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

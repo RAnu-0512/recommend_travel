@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋吉台オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温泉施設, 温泉
+cluster1:(3)
+施設, 公園, キャンプ場
+cluster2:(2)
+自然, 体
+cluster3:(7)
+子供, サービス, バーベキュー, 秋吉台, 家族, 近く, キャンプ
+cluster4:(1)
+空気
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 5
+deleted 0entities.

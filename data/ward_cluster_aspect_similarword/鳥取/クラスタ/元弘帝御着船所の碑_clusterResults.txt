@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:元弘帝御着船所の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+元弘帝御着船所, 元弘帝着船所
+cluster1:(20)
+家, 碑, 尊王, 中, 機運, 後醍醐, 間天皇, 前, 隠岐島, 高まり, 民家, 幕末, 功, 島, 後醍醐天皇お腰掛けの岩, 街道, 碑文, 天皇, 石碑, 隠岐
+cluster2:(2)
+大山町御来屋港, 大山町
+cluster3:(2)
+逢坂港, 御来屋港
+cluster4:(3)
+鳥取藩, 西伯郡, 鳥取県
+cluster5:(1)
+安政5年
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 6
+deleted 0entities.

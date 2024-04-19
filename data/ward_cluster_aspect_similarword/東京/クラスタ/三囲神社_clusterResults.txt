@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三囲神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+キツネ像, 狐像, ライオン像
+cluster1:(7)
+見どころ, オススメ, スカイツリー, 三角形, ライオン, 守護神, コンコン
+cluster2:(2)
+浮世絵, 隅田川
+cluster3:(2)
+七福神めぐり, 神
+cluster4:(4)
+家, 近く, 奥, 前身
+cluster5:(6)
+顔, 範囲, 方, こと, 目, もの
+cluster6:(2)
+タレ目, 目尻
+cluster7:(10)
+観光, 神社, 豪商, 鳥居, 寺社, 街歩き, 本堂, 朱印, 境内, 史跡
+cluster8:(7)
+松坂, 三越, 三井, 浅草, 井, 江戸, 江戸時代
+cluster9:(7)
+三囲神社, 稲荷神社, 池袋三越, 三越池袋店, 田中稲荷, お社, 旧村社
+cluster10:(1)
+郷土文化資料館
+
+howmany entities : 51
+howmany clusters : 11
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 11
+deleted 0entities.

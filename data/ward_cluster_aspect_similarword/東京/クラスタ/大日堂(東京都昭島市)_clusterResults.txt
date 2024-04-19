@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大日堂(東京都昭島市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+右, 隣
+cluster1:(3)
+寺院, 天台宗, 境内
+cluster2:(1)
+大日如来像
+cluster3:(2)
+拝島, 日吉神社
+cluster4:(1)
+期間限定御朱印
+cluster5:(2)
+拝島大日堂, 拝島山密厳浄土寺
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

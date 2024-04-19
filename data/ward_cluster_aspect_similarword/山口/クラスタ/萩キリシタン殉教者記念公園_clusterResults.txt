@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩キリシタン殉教者記念公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+信徒たち, 信徒
+cluster1:(2)
+殉教, 流刑
+cluster2:(5)
+外れ, 記念碑, 死, 場所, キリシタン
+cluster3:(2)
+上村, 萩
+cluster4:(1)
+長崎浦
+cluster5:(1)
+キリシタン弾圧政策
+cluster6:(1)
+萩城址散策
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

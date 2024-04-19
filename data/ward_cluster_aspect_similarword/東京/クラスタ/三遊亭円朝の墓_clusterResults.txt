@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三遊亭円朝の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+墓地, 三遊亭円朝墓, 墓
+cluster1:(2)
+筆, 坂
+cluster2:(2)
+維新, 禅
+cluster3:(13)
+場所, 別格, 人, 親交, 中腹, 著名人, 中期, 千駄木駅, 様子, 徒歩, 中, 明治, 境内
+cluster4:(1)
+案内板
+cluster5:(9)
+山岡翁, 噺家, 初高座, 三遊派, 三遊亭円, 落語, 落語家, 山岡鉄舟, 全生庵
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 6
+deleted 0entities.

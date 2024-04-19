@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ANN>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+いちご狩り, 苺狩り, イチゴ狩り, ちご狩り
+cluster1:(2)
+ほしうらら, いちごがり
+cluster2:(6)
+白イチゴ, モモ, 紅ほっぺ, 桃, 苺, 練乳
+cluster3:(4)
+イチゴ畑, 完熟イチゴ, 農園, 品種
+cluster4:(1)
+桃薫
+cluster5:(1)
+カビカビ
+cluster6:(4)
+食べ放題, 食べ比べ, よつぼし, 食べ過ぎ
+cluster7:(2)
+予約枠, 予約制
+cluster8:(10)
+家族, イチゴ達, 孫, 女性, ベテラン勢, 笑顔, 孫たち, 子供, 男性, 人
+cluster9:(2)
+ハウス, ビニールハウス
+cluster10:(4)
+子ども, 食べ物, トイレ, 我が家
+cluster11:(9)
+イメージ, キャンセル, ペットボトル, お気に入り, ハンドウォッシュ, セット, シーズン, クーポン, 目当て
+cluster12:(1)
+手入れ
+cluster13:(3)
+かおり, イチゴ, いちご
+cluster14:(1)
+ANN
+cluster15:(2)
+ザル, 汚れ
+cluster16:(4)
+土産, 持参, 愛想, 挨拶
+cluster17:(7)
+予約, 人数, 受付, 連休, 場所, 時間, 水
+cluster18:(17)
+中, 対応, 次, こと, 真似, 感じ, 方, もの, 機会, 他, 殆ど, 満足, 外, 事, もういっこ, ひとつどうぞ, 状態
+cluster19:(7)
+甘味, 味比べ, 種類毎, 何種類, 酸味, 香り, 種類
+
+howmany entities : 91
+howmany clusters : 20
+howmany entities (more than1entities) : 91
+howmany clusters (more than1entities) : 20
+deleted 0entities.

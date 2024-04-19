@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長楽寺(静岡県下田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+日米和親条約, 日米和親条約批准書, 和親条約, 日露和親条約, 幕末の日露和親条約, 締結済みの日米和親条約
+cluster1:(4)
+調印, 締結, 批准書, 締結調印
+cluster2:(27)
+坂道, 長楽寺, 目, 所, 横道, 途中, 幕末, 役割, 小僧, ベリーロード, 交換, 伊豆下田, 下田, 歴史, 伊豆, 奥, 米, 日, ページ, 高台, ペリーロード, 明治, 場所, 維新, 小さなお寺, 時代, 寺
+cluster3:(3)
+宝物館, 看板, 案内看板
+cluster4:(1)
+了仙寺
+
+howmany entities : 41
+howmany clusters : 5
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 4
+deleted 1entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:水分峡--------------------
+top3 entities near to cluster0>>
+川, 山, 小川
+top3 entities near to cluster2>>
+夏場, 冬場
+top3 entities near to cluster3>>
+起点, 基点, 終点
+top3 entities near to cluster4>>
+子供, 家族, 子ども
+top3 entities near to cluster5>>
+駅, ビルアッセ, 駅前
+top3 entities near to cluster6>>
+喧噪, 喧騒, 雑踏
+top3 entities near to cluster7>>
+登山, 駐車, 家族

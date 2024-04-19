@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:戸山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+戸山公園, 戸山公園サービスセンター, 交通公園, 都立公園
+cluster1:(2)
+大久保地区, 箱根山地区
+cluster2:(3)
+散策, 花見, 散歩
+cluster3:(4)
+山, 緑, 丘, 森林
+cluster4:(5)
+芝生, 公園, 駅, 広場, 電車
+cluster5:(12)
+場所, 箱根山, 人, 話, 感じ, 高田馬場, エリア, シート, 写真, 方, スポット, 雰囲気
+cluster6:(2)
+近所, 学生
+cluster7:(1)
+新宿
+cluster8:(4)
+ワンコたち, 何か, 興味, 子どもたち
+cluster9:(1)
+広さ
+cluster10:(2)
+山手線, 学習院
+cluster11:(1)
+登頂証明書
+
+howmany entities : 41
+howmany clusters : 12
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 12
+deleted 0entities.

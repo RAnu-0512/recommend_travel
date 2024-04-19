@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野動物園 サル山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+人, 子, ニホンザル, 人盛り, っと柵, 下北半島, 種類, ホンド, まわり, 日本
+cluster1:(8)
+動物園, ザル, 動物, 猿, サルたち, サル山, サル, 上野動物園サル山
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

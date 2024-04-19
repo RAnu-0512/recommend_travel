@@ -1,0 +1,13 @@
+--------------------similar_words:江東区観光協会--------------------
+top3 entities near to cluster0>>
+区, 区内, 都
+top3 entities near to cluster1>>
+特産, 産業, 会館
+top3 entities near to cluster2>>
+施設, パンフレット, 入り口
+top3 entities near to cluster3>>
+東陽町, 駅, 門前仲町
+top3 entities near to cluster4>>
+テンコ盛り, テンコ, 上がれん
+top3 entities near to cluster5>>
+出口, 駅, 入口

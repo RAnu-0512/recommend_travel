@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マーメイド福山ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+所々, 箇所
+cluster1:(6)
+スコア, メンテナンス, 気持ち, ホール, 食事, シャワー
+cluster2:(1)
+ベアグランド
+cluster3:(1)
+ステーキ定食
+cluster4:(1)
+福山市
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

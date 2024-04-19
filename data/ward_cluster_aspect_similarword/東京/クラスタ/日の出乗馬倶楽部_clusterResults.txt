@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日の出乗馬倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ただ馬, 馬, 鞍
+cluster1:(15)
+自慢話, オーナー, 施設, トイレ, 他, 気, 体験, 上, 経歴, 雰囲気, スタッフ, 私物, ブーツ, キャンプ場, 事
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

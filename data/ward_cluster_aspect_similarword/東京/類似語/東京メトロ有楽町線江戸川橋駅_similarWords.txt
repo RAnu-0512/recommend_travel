@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ有楽町線江戸川橋駅--------------------
+top3 entities near to cluster1>>
+最寄駅, 最寄り駅, 徒歩
+top3 entities near to cluster2>>
+椿山荘, 江戸川橋, 半蔵門
+top3 entities near to cluster3>>
+駅, 間, 徒歩
+top3 entities near to cluster4>>
+屋敷, クウセラ, 邸宅
+top3 entities near to cluster5>>
+聖堂, 都, 聖

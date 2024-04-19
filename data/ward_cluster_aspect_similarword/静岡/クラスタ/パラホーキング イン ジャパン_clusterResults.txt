@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:パラホーキング イン ジャパン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+母親, 妹
+cluster1:(2)
+最後, 時間
+cluster2:(1)
+体験
+cluster3:(1)
+鷹
+cluster4:(1)
+時間調整
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

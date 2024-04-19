@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:露伴児童遊園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 東向島
+cluster1:(1)
+歌碑
+cluster2:(1)
+住居跡
+cluster3:(1)
+蝸牛庵
+cluster4:(1)
+幸田露伴
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:HMV渋谷--------------------
+top3 entities near to cluster1>>
+音楽, 文化, 芸術
+top3 entities near to cluster2>>
+ビル, 高木, 町
+top3 entities near to cluster5>>
+ショップ, タワレコ, カフェ
+top3 entities near to cluster6>>
+視聴, 放送, 録画
+top3 entities near to cluster7>>
+揃え, 探し

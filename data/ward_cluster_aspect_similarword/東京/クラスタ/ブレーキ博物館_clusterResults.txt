@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブレーキ博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+博物館, 仕組み
+cluster1:(1)
+人
+cluster2:(1)
+企業
+cluster3:(1)
+各種
+cluster4:(1)
+興味
+cluster5:(1)
+ミニ博物館
+cluster6:(1)
+展示内容
+cluster7:(1)
+錦糸町駅
+cluster8:(1)
+博物
+cluster9:(1)
+中山ライニング工業株式会社
+cluster10:(1)
+JR錦糸町
+
+howmany entities : 12
+howmany clusters : 11
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,25 @@
+--------------------similar_words:木場公園--------------------
+top3 entities near to cluster0>>
+ランチ, カフェ, レストラン
+top3 entities near to cluster1>>
+散歩, 散策, 昼食
+top3 entities near to cluster2>>
+緑, 水辺, 都会
+top3 entities near to cluster3>>
+野外, 屋外, 屋内
+top3 entities near to cluster5>>
+販売, 露店, 売店
+top3 entities near to cluster6>>
+子供, 子ども, 子
+top3 entities near to cluster7>>
+看板犬, 看板, ワンコ
+top3 entities near to cluster8>>
+休日, 週末, 音楽
+top3 entities near to cluster9>>
+遊具, 滑り台, ジャングルジム
+top3 entities near to cluster10>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster12>>
+予約, 店舗
+top3 entities near to cluster14>>
+公園, 広場, 駅前

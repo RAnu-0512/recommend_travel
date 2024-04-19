@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:橘陶房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ねり体験, ねり陶芸体験, 陶芸体験
+cluster1:(2)
+わんちゃん, 湯
+cluster2:(3)
+主人, 息子, 家内
+cluster3:(4)
+ウェルカムドリンク, ランチ, ふたつ, 中
+cluster4:(3)
+もの, 仕方, 場所
+cluster5:(1)
+店
+cluster6:(1)
+外
+cluster7:(1)
+口
+cluster8:(4)
+梱包, ゴミ, 感謝, 迷惑
+cluster9:(1)
+為道
+cluster10:(1)
+住宅街
+cluster11:(1)
+商材
+
+howmany entities : 25
+howmany clusters : 12
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 5
+deleted 8entities.

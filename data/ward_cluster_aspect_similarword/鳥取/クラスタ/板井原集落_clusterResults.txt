@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:板井原集落>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車スペース, 駐車場
+cluster1:(8)
+トンネル, 山, 小学校, 人, 村, 細道, 車道, 場所
+cluster2:(2)
+板井原集落, 集落
+cluster3:(2)
+国道, 県道
+cluster4:(1)
+原風景
+cluster5:(1)
+智頭小学校板井原分校
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

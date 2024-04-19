@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長浜海浜公園休憩施設 (足湯・観光案内所あり)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+目, 売店, 地元, 訪問, ビーチ, オフシーズン, 行事, 主体, 物, お湯, 人, 広場, 海, 公園, 砂浜, 全て, トイレ, 子供, 場所, 遊具, 前, 週末
+cluster1:(3)
+休憩, 休憩所, 休憩施設
+cluster2:(3)
+足湯目的, 足湯, だいだいの足湯
+cluster3:(5)
+駐車場, はま特設市, 特設市, 大型複合遊具, 駐車場無料
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 4
+deleted 0entities.

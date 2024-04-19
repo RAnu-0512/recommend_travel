@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関~門司航路(唐戸~門司港)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+九州, 門司, 本州, 北九州市, 下関
+cluster1:(5)
+側, 外, 時間, 間, 距離
+cluster2:(11)
+ハイライト, スピード, 気楽, 体験, 関門海峡, エリア, ゴールデンウィーク, 雨降り, レトロ, 感じ, 巌流島
+cluster3:(5)
+旅行, 景色, 船旅, 旅, 散歩
+cluster4:(2)
+片道, 運賃
+cluster5:(1)
+非日常
+cluster6:(4)
+旅情気分, 観光地, 観光気分, 観光
+cluster7:(3)
+航路, 海峡, クルーズ航路
+cluster8:(3)
+連絡船, 船, 船内
+cluster9:(3)
+乗船時間, 航行時間, 乗船
+cluster10:(1)
+移動手段
+cluster11:(1)
+片道¥
+cluster12:(4)
+門司港路, 門司港, 巌流島〜門司港, 門司港駅
+cluster13:(2)
+関門トンネル人道, 関門橋
+cluster14:(4)
+下関唐戸, 唐戸エリア, 唐戸, 唐戸市場
+
+howmany entities : 54
+howmany clusters : 15
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 15
+deleted 0entities.

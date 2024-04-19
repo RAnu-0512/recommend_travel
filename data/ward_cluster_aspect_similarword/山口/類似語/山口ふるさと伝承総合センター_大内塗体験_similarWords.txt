@@ -1,0 +1,9 @@
+--------------------similar_words:山口ふるさと伝承総合センター_大内塗体験--------------------
+top3 entities near to cluster0>>
+箸, 割り箸, 箸箱
+top3 entities near to cluster1>>
+伝統, 技術, 自由
+top3 entities near to cluster2>>
+体験, 展示, 見学
+top3 entities near to cluster3>>
+バス, ツアー, 日帰り

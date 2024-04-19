@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御調八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+感じ, お参り, 川, 付近, 対岸, 境内, ヒメボタル, 地元, 神社, 階段, 乱舞, ゲンジボタル, 入口, ヒメボタル乱舞, たたずまい
+cluster1:(3)
+竜王山登山道, 御調八幡宮, 三原市
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

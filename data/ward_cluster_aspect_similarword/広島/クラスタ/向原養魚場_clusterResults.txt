@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:向原養魚場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+炭火, 炭火塩焼き
+cluster1:(2)
+魚, 塩焼き
+cluster2:(3)
+施設, 対応, 途中
+cluster3:(1)
+山水
+cluster4:(1)
+追加料金
+cluster5:(1)
+釣り放題
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

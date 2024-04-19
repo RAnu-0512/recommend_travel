@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ツバキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩所, 椿の休憩所
+cluster1:(2)
+灯台, 御前崎灯台
+cluster2:(3)
+恋人, 聖地, 岬
+cluster3:(3)
+椿, お花, 花
+cluster4:(9)
+途中, 心, もの, 人, ツバキ, 遊歩道, 海, 自然, 間
+cluster5:(1)
+散策コース
+cluster6:(1)
+寒い時期
+cluster7:(1)
+生命力
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 7entities.

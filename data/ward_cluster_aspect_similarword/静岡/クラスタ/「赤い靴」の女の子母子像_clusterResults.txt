@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:「赤い靴」の女の子母子像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+女の子母子像, 母子像
+cluster1:(4)
+清水, 日本平, 清水港, 日本平夢テラス
+cluster2:(15)
+縁, 歌, 途中, 実話, 童謡, こと, 女の子, 所以, 母子, 元, 子供, 地, 題材, 方, 靴
+cluster3:(7)
+入口, 銅像, 一角, 像, 付近, 山頂, 公園
+cluster4:(1)
+説明板
+cluster5:(1)
+展望台
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 4entities.

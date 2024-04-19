@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:きくがわ温泉 華陽>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+マッサージチェア, 地元, 外, 水風呂, 露天風呂, シャンプー, 利用, 感じ, 方, 人, リピーター, リンスインシャンプー, 気持ち
+cluster1:(4)
+町, 価格, 魅力, 建物
+cluster2:(2)
+混雑, 小雨
+cluster3:(5)
+ぬる, 温度, 肌, ボディソープ, ボディーソープ
+cluster4:(4)
+休憩所, 利用客, 別料金, 料金
+cluster5:(15)
+風呂, 源泉風呂, 温泉通, 露天, 源泉, 浴室, 温泉施設, 浴場, 女風呂, 湯触り, 温泉, 新菊川温泉, 内湯, お湯, 湯
+
+howmany entities : 43
+howmany clusters : 6
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大凸部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+尾山展望公園, 展望台
+cluster1:(22)
+足場, 途中, 場所, 景色, 虫, 青ヶ島村, 青ヶ島, 竹, 木, 大凸部, 標高, 全景, 山道, 虫除け, 車, 体, 普通, 待ち, 蠅, 方, GW, 運動靴
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

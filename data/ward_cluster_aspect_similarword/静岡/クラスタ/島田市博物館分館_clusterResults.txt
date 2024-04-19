@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島田市博物館分館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+あたり一帯, 河畔, 分館
+cluster1:(2)
+保存, 見学
+cluster2:(2)
+感動, 価値
+cluster3:(10)
+博物館, 隣, 歴史テーマパーク, 家, 大井川, 昔, 人, イメージ, 中心, 時代
+cluster4:(1)
+住宅
+cluster5:(1)
+面影
+cluster6:(4)
+残業, 桜井, 明治, 中期
+cluster7:(4)
+日本家屋, 建て家屋, 古民家, 建築技
+cluster8:(5)
+島田市博物館分館, 静岡県, 大井川川越遺跡, 島田市, 島田市博物館
+cluster9:(3)
+民族資料館, 民俗資料館, 登録有形文化財
+
+howmany entities : 35
+howmany clusters : 10
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 6
+deleted 6entities.

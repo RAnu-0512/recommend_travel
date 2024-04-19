@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美東サービスエリア(下り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+美東SA, 美東サービスエリア
+cluster1:(16)
+チョコレート味, 袋, 雪, コロッケ, フードコート, 手, コク, 湯田温泉, 英気, 休止, イカ, 家, 店員, イカクリームコロッケ注文, 途中, レンコンコロッケ
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

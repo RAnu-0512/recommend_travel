@@ -1,0 +1,15 @@
+--------------------similar_words:吉祥寺第一ホテル--------------------
+top3 entities near to cluster0>>
+料理, 食材, 牛脂
+top3 entities near to cluster1>>
+種類, 数種類
+top3 entities near to cluster2>>
+ティー, 紅茶, コーヒー
+top3 entities near to cluster3>>
+分量
+top3 entities near to cluster5>>
+状態, 時間, 状況
+top3 entities near to cluster6>>
+訪問, 来訪, 表敬
+top3 entities near to cluster8>>
+茶, 葉, モエド

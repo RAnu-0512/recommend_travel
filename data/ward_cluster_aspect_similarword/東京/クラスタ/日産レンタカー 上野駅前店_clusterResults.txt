@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日産レンタカー 上野駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+フルサポート補償, 案内表示, 初利用者
+cluster1:(3)
+東京エリア, 上野エリア, 上野駅
+cluster2:(18)
+店, レンタカー, 口コミ, 日産, エレベーター, ポイント, パーキング, 傷, トイレ, エリア, 点, マーチレンタカー, 予約, クーポン, 半額キャンペーン, 星, 理由, ナビ
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,29 @@
+--------------------similar_words:野球殿堂博物館--------------------
+top3 entities near to cluster0>>
+振興, 業績, 研究
+top3 entities near to cluster1>>
+興味, 必見, 関心
+top3 entities near to cluster2>>
+施設, 資料
+top3 entities near to cluster4>>
+土地柄, 土地, 絵柄
+top3 entities near to cluster5>>
+選手, チームメイト, アスリート
+top3 entities near to cluster6>>
+体験者, 体験, 体験談
+top3 entities near to cluster7>>
+チーム, ユニフォーム, ユニホーム
+top3 entities near to cluster8>>
+博物館, 思い出, 想い出
+top3 entities near to cluster9>>
+グッズ, ツアー, 買い物
+top3 entities near to cluster10>>
+ドアラ, ドーム, 野球
+top3 entities near to cluster11>>
+シティ, シティー, エキスポ
+top3 entities near to cluster13>>
+展示, 出展, 入場
+top3 entities near to cluster14>>
+野球, サッカー, 選手
+top3 entities near to cluster15>>
+殿堂, 野球, 入り

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイビングスクール 海の学校>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+初体験ダイビング, 体験ダイビング
+cluster1:(2)
+中, ほう
+cluster2:(2)
+学校, 海
+cluster3:(1)
+透明度
+cluster4:(1)
+川奈海
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

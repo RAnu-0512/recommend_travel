@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒲生君平・徳田秋声の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+区界道路, 台東区, 区界
+cluster1:(2)
+近く, 側
+cluster2:(2)
+もの, 日本
+cluster3:(1)
+歴史
+cluster4:(1)
+名前
+cluster5:(1)
+墓
+cluster6:(1)
+木造
+cluster7:(3)
+臨江寺, 山門手, 根津駅
+cluster8:(1)
+蒲生君平
+
+howmany entities : 15
+howmany clusters : 9
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 9
+deleted 0entities.

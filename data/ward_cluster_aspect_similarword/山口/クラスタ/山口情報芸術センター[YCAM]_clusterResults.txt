@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口情報芸術センター[YCAM]>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+^)市立図書館, 市立図書館, 市立図書
+cluster1:(2)
+上映, 映画上映
+cluster2:(5)
+子供, 子供達, 子供たち, 大人, ワイカム
+cluster3:(4)
+広場, 芝生, 噴水, 公園
+cluster4:(17)
+アニメ, コラボ, 各国, 昔, スポット, 図書館, 他, ワークショップ, イベント, トークイベント, 日本, 周り, スペース, 方, 世界, リピーター, アニメーション
+cluster5:(13)
+企画, 施設, 監督, 建築, 公演, 展示, 場所, 映画, 方面, 病院, 作品, 館内, 建物
+cluster6:(4)
+価値有, 駐車場, 価値, 好む方
+
+howmany entities : 48
+howmany clusters : 7
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇津山城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+親, 浜名湖, 北, 境界監視, 山城, 山並み, 山頂, 説明板, 散策コース, 対岸, 地, 国主
+cluster1:(2)
+今川, 駿河
+cluster2:(2)
+遠江, 三河
+cluster3:(2)
+庄内半島, 奥浜名
+cluster4:(1)
+正太寺
+cluster5:(1)
+宇津山城
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 8entities.

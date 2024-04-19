@@ -1,0 +1,9 @@
+--------------------similar_words:アニマルルーム いけもふ--------------------
+top3 entities near to cluster1>>
+動物, 植物, 愛護
+top3 entities near to cluster2>>
+ウサギ, フクロウ, 動物
+top3 entities near to cluster3>>
+ルーム, トーク, スタッフ
+top3 entities near to cluster5>>
+ヘビ, 蛇, トカゲ

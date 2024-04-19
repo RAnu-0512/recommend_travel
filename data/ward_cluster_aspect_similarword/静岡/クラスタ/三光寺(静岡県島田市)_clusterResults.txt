@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三光寺(静岡県島田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+コテージ, 目, 形, 足
+cluster1:(3)
+絵馬, 本堂, 地蔵
+cluster2:(1)
+散策コース
+cluster3:(1)
+足地蔵尊
+cluster4:(1)
+川根温泉
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昌平坂(団子坂)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+昌平坂, 坂, 古跡 昌平坂, 昌平坂学問所, 団子坂, 昌平, 昌平郷
+cluster1:(2)
+別名, 名前
+cluster2:(3)
+病院, 車, 敷地
+cluster3:(2)
+国, 中国
+cluster4:(3)
+途中, 東, 横
+cluster5:(6)
+場所, 秋葉原, 東京医科歯科大学, 歴史, 雰囲気, 周辺
+cluster6:(2)
+散策, 坂道
+cluster7:(1)
+孔子
+cluster8:(1)
+案内板
+cluster9:(2)
+湯島聖堂, 外堀通り
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 10
+deleted 0entities.

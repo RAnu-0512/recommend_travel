@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:成田山青龍寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+青龍寺, 成田山, 本堂
+cluster1:(3)
+勉強, 中, 話
+cluster2:(1)
+由緒
+cluster3:(1)
+勝ち守り
+cluster4:(1)
+白兎神社
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

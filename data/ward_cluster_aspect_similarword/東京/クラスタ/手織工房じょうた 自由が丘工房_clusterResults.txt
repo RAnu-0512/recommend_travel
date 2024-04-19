@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手織工房じょうた 自由が丘工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+マフラー, 使い方, 会員, 作品, 居心地, 雰囲気, スタッフ, 笑, 時間, 色
+cluster1:(2)
+糸, 織
+cluster2:(1)
+織り機
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

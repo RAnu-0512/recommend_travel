@@ -1,0 +1,11 @@
+--------------------similar_words:向原養魚場--------------------
+top3 entities near to cluster0>>
+炭火, 網焼き, 七輪
+top3 entities near to cluster1>>
+塩焼き, 焼き魚
+top3 entities near to cluster2>>
+施設, 対応, ほか
+top3 entities near to cluster4>>
+料金, 追加, 別途
+top3 entities near to cluster5>>
+魚釣り

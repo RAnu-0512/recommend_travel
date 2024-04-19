@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ銀座線 溜池山王駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+迷惑, 意地
+cluster1:(10)
+パブリックアート, 虎ノ門, 人, 他, メトロ, 入り口, 中, 六本木, 南北線, 乗り換え
+cluster2:(2)
+通路, 奥
+cluster3:(6)
+駅名, 千代田線, 駅, 赤坂駅, 銀座線, 乗り換え駅
+cluster4:(2)
+溜池山王駅, 国会議事堂前駅
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

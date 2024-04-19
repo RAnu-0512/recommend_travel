@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河津踊子滝見橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+形状, 全長
+cluster1:(2)
+全国, 途中
+cluster2:(2)
+橋, 滝
+cluster3:(1)
+アトラクション感
+cluster4:(1)
+幅員
+cluster5:(1)
+希少な橋
+cluster6:(2)
+片塔式ウェーブ橋, 初景滝〜釜滝
+cluster7:(1)
+七滝の蛇滝・エビ滝・釜滝
+
+howmany entities : 12
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 12entities.

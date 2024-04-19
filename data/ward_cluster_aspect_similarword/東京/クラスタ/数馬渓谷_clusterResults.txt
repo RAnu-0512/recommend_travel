@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:数馬渓谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+遊歩道, 方, 車, 近く, 方面
+cluster1:(2)
+紅葉, 景色
+cluster2:(2)
+川, 渓谷
+cluster3:(1)
+駐車場
+cluster4:(4)
+JR白丸駅, 鳩ノ巣渓谷, 数馬渓谷, 数馬峡橋
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

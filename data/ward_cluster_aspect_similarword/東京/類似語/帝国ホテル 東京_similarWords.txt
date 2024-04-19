@@ -1,0 +1,17 @@
+--------------------similar_words:帝国ホテル 東京--------------------
+top3 entities near to cluster0>>
+粗食, 五臓, 脾胃
+top3 entities near to cluster1>>
+老舗, 一流, 有名
+top3 entities near to cluster2>>
+ホテル, レストラン, イタリアン
+top3 entities near to cluster3>>
+建物, 内装, 部屋
+top3 entities near to cluster4>>
+空間, 時間, スペース
+top3 entities near to cluster5>>
+接客, 応対, 業務
+top3 entities near to cluster6>>
+都会, 区会, 区, 都
+top3 entities near to cluster7>>
+多種, 多様, 多彩

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安楽寺(まぶ湯)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+門前, 境内, 洞窟, 寺
+cluster1:(2)
+安楽寺, 吉祥山
+cluster2:(2)
+パワー, 春休み
+cluster3:(1)
+枝振り
+cluster4:(1)
+人
+cluster5:(1)
+勢い
+cluster6:(1)
+木
+cluster7:(1)
+発祥
+cluster8:(1)
+クス
+cluster9:(2)
+馬場地区, 幹周り
+cluster10:(8)
+土肥, 温泉, 元湯, まぶ湯, 子育地蔵, 家族旅行, 土肥温泉, 湯
+
+howmany entities : 24
+howmany clusters : 11
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 12entities.

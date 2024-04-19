@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高輪神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+神社, 神宮, 境内, 鎮守
+cluster1:(3)
+風格, 迫力, 見所
+cluster2:(5)
+神殿, 彫刻, 海, 高台, 階段
+cluster3:(6)
+都会, 昔, 東京, マンション, 参り, こと
+cluster4:(1)
+お囃子
+cluster5:(8)
+神明生姜, 太子宮, 高輪神社, 高輪, 高輪ゲートウェイ駅, 明神生姜, 生姜, 芝大
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

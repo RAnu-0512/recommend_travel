@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:九八屋(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+酒亭, 大泉水
+cluster1:(3)
+名前, 名称, 由来
+cluster2:(2)
+酒, 昼
+cluster3:(9)
+場所, 建物, 人, 近く, いわれ, 酒飲み, 様子, 教え, もの
+cluster4:(5)
+池, 風流, 小石川後楽園, 紅葉, 東屋
+cluster5:(1)
+休憩所
+cluster6:(1)
+江戸時代
+cluster7:(1)
+九八屋
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 8
+deleted 0entities.

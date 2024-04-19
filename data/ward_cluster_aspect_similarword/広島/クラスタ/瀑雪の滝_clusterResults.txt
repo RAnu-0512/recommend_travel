@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀑雪の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三原駅, 三原
+cluster1:(3)
+滝, 滝めぐり, 水量
+cluster2:(8)
+方法, 迫力, リムジンバス, こと, 結果, 瀑雪双璧, 広島空港, 瀑雪
+cluster3:(1)
+公共交通機関
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

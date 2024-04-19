@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京ウォータウェイズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+出航, 乗船, 乗船場, 乗船場所, 出航時間
+cluster1:(10)
+かばん, スタッフ, 船上, 気, おかげ, 客, 神田川, カッパ, ビニール, コース
+cluster2:(2)
+洋服, 靴
+cluster3:(2)
+雨, 濡れ
+cluster4:(1)
+品川駅
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

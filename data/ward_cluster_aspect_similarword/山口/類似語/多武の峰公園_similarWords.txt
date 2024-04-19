@@ -1,0 +1,9 @@
+--------------------similar_words:多武の峰公園--------------------
+top3 entities near to cluster0>>
+公園, 緑地
+top3 entities near to cluster1>>
+景色, 風景, 眺望
+top3 entities near to cluster3>>
+武, 多, 侠物
+top3 entities near to cluster4>>
+音像, 交通, 安全

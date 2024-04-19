@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三菱史料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+裏通り沿い, カメラ撮影, あゆみ, 湯島, 東京大学, 西側, 文章, 館内, 本郷キャンパス, エリア, 三菱グループ, 予約, 南北, 閲覧, 住所
+cluster1:(2)
+創始者, 展示品
+cluster2:(5)
+三菱史料館, 史料, 岩崎邸庭園, 史料館, 不忍池
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

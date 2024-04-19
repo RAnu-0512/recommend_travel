@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲葉山(鳥取県鳥取市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+山, 在原行平, 感じ, 中心, 政治, 稲葉山, ハイキング, こと, 自然, 昔, 万葉集ゆかり, 文化
+cluster1:(6)
+コース周辺, 登山, 道, 頂上, 標高, 眺望
+cluster2:(1)
+栄え現在
+cluster3:(1)
+因幡国
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

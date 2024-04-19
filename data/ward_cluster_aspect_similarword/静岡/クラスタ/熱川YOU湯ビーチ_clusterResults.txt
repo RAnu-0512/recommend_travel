@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱川YOU湯ビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+寒い熱川, 熱川, にぎわう熱川, 熱川海水浴場, 熱川ビーチ
+cluster1:(3)
+伊豆大島, 伊豆七島, 伊豆
+cluster2:(12)
+レスキュー, 梅雨明け, コンビニ, トイレ, サーファー, こども, ライフセーバー, シャワー, テント, 伊豆熱川, ホテル, ビーサン
+cluster3:(3)
+ところ, 昼過ぎ, 雰囲気
+cluster4:(2)
+海沿い, 遊歩道
+cluster5:(3)
+人, 家, 家族
+cluster6:(2)
+様子観, 自慢気
+cluster7:(2)
+足, 青色
+cluster8:(2)
+場所, 箇所
+cluster9:(2)
+ビーチ自体, 唯一
+cluster10:(3)
+前, 目, 近く
+cluster11:(5)
+多く, 方, 気, 周り, 事
+cluster12:(2)
+勢い, 恒例
+cluster13:(1)
+日所
+cluster14:(10)
+思う存分波, 岩, 波, 石, 砂, 盆, 東伊豆町, 貝, 岩場, 台風
+cluster15:(15)
+水着, プライベートビーチみ, 海岸, プライベートビーチ気分, 夏, 砂浜, YOUビーチ, ビーチ, プライベートビーチ, 海水浴シーズン, 海開き, 海, Youビーチ, メインビーチ, 海水浴
+cluster16:(1)
+海岸線
+cluster17:(5)
+温泉ホテル, 温泉, 温泉街, 宿, 温泉宿
+cluster18:(2)
+私達, 方達
+cluster19:(2)
+子供, 子供たち
+cluster20:(3)
+宿泊セット, 釣り人, 家族連れ
+cluster21:(3)
+海水浴客, 公衆トイレ, 違い海水浴客
+cluster22:(1)
+声掛け
+cluster23:(1)
+自己責任
+cluster24:(5)
+海水浴場, 連泊, 浮き輪, 駐車, 駐車場
+cluster25:(1)
+サーファー数名
+
+howmany entities : 96
+howmany clusters : 26
+howmany entities (more than3entities) : 75
+howmany clusters (more than3entities) : 13
+deleted 21entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大田文化の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+蒲田駅, 大森駅, 池上駅, 大井町, 荏原町駅
+cluster1:(4)
+山王口, 京浜, 大田, 池上通り
+cluster2:(25)
+図書館, コンビニ, 入口行き, 区役所, 図書カード, バス停, 子ども, 建物, 森, Word, 停留所, 区民, 東北線, 右, 文化, 工事, アクセス方法, 施設, スカッシュコート, 歩道, パソコン, 前, 部屋, インターネット, 方向
+cluster3:(5)
+絵画教室, 多目的ルーム, 情報メディアルーム, 情報メディア室, 各種教室
+
+howmany entities : 39
+howmany clusters : 4
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 4
+deleted 0entities.

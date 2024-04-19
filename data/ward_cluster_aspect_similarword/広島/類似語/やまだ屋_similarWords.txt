@@ -1,0 +1,55 @@
+--------------------similar_words:やまだ屋--------------------
+top3 entities near to cluster0>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster1>>
+饅頭, まんじゅう, もみじ
+top3 entities near to cluster2>>
+焼く
+top3 entities near to cluster3>>
+饅頭, まんじゅう
+top3 entities near to cluster4>>
+楽しみ, おすすめ, たくさん
+top3 entities near to cluster5>>
+お菓子, おみやげ, ケーキ
+top3 entities near to cluster6>>
+オマケ, おまけ, 箱入り
+top3 entities near to cluster7>>
+チーズ, チョコ, チョコレート
+top3 entities near to cluster8>>
+体験, 体験談, 体感
+top3 entities near to cluster9>>
+友人, 友達, 同士
+top3 entities near to cluster10>>
+子供, 子ども, 家族
+top3 entities near to cluster13>>
+種類, 数種類
+top3 entities near to cluster14>>
+店舗, 名物
+top3 entities near to cluster15>>
+モチ, もち
+top3 entities near to cluster16>>
+菓子, お菓子, 和菓子
+top3 entities near to cluster17>>
+ぐらび屋, ぐらび, 本舗
+top3 entities near to cluster18>>
+土産, 土産物, おみやげ
+top3 entities near to cluster21>>
+葉, 桐, 棕庚
+top3 entities near to cluster23>>
+芋, 紅, 紫
+top3 entities near to cluster25>>
+餡, 白餡, 漉し餡
+top3 entities near to cluster26>>
+紅葉, もみじ, 抹茶
+top3 entities near to cluster27>>
+ガス, リサ, パール
+top3 entities near to cluster28>>
+薄皮
+top3 entities near to cluster29>>
+あじ, もみじ, 大
+top3 entities near to cluster31>>
+レモン, みかん, ミカン
+top3 entities near to cluster32>>
+みかん, もみじ, ミカン
+top3 entities near to cluster33>>
+もみじ, モミジ, 紅葉

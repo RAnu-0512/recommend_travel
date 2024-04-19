@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大鐘家民家・長屋門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+母屋, 茶, 庭園, 時期, 訪問, アジサイ祭り, 内部, 梅雨, 牧之原市, 文化財, 長屋門, 国, 趣, アジサイ, 雛, 駿河湾, 感じ, 建物, サービス
+cluster1:(2)
+築約, 古民家
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 1
+deleted 2entities.

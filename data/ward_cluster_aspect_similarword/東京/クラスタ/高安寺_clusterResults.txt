@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高安寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+陣, 寺, 見ごたえ, 高安寺, 緑, 目, 井戸, 敷地, 山門, 建物, 素晴らしさ
+cluster1:(5)
+片町, 河原駅, 府中駅, 東京都, 府中市
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:綱島家(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+世田谷区, 江戸東京
+cluster1:(10)
+茅葺き, 多摩川, 造り, 歴史, 間取り, 広間型, 民家, 地上, 建物, 農家
+cluster2:(1)
+江戸時代中期
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

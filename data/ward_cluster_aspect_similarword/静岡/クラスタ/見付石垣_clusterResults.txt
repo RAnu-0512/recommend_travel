@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:見付石垣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+併設, 維持, 通過
+cluster1:(2)
+大名, 石垣
+cluster2:(10)
+道端, 端, 出入り, 東, 形, 場所, 東海道, 番人, 見張り, 道
+cluster3:(1)
+治安
+cluster4:(1)
+人馬
+cluster5:(1)
+江戸時代
+cluster6:(1)
+駐車場
+cluster7:(3)
+舞坂宿, 舞阪漁港, 舞阪郷土資料館
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 6entities.

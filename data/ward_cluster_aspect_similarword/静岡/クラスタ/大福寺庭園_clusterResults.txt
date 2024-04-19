@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大福寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+池泉回遊式庭園, 回遊式庭園, 観賞式庭園
+cluster1:(2)
+錦鯉, 池
+cluster2:(9)
+セット, 大福寺, 草, 自然, 桜, 散歩, 山, オススメ, スイレン
+cluster3:(1)
+客殿
+cluster4:(5)
+日本庭園, 庭園散策, 庭園, 宝物館, 庭園鑑賞
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 3entities.

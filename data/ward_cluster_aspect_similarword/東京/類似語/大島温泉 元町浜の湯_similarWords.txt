@@ -1,0 +1,13 @@
+--------------------similar_words:大島温泉 元町浜の湯--------------------
+top3 entities near to cluster0>>
+更衣室, 更衣, 医務室, 医務
+top3 entities near to cluster2>>
+日, 夕方, 時
+top3 entities near to cluster3>>
+男女, 会話, 男性
+top3 entities near to cluster6>>
+荒天, 天気, 天候
+top3 entities near to cluster7>>
+景色, 眺望, 夕日
+top3 entities near to cluster8>>
+温泉, 混浴, 入浴

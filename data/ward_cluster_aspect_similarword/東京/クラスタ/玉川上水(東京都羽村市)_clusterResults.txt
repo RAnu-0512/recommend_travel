@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉川上水(東京都羽村市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+臨時駐車場, 駐車場
+cluster1:(2)
+上水, 用水
+cluster2:(11)
+歴史, 所, 水, 下, 緑, 源流, 知識, 紅葉, 玉川, 都心, 教科書
+cluster3:(1)
+体験学習
+cluster4:(1)
+取水堰
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

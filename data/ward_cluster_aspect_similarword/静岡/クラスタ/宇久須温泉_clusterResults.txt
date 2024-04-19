@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇久須温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+美人の湯, 久須温泉, 温泉, 宇久須温泉, 温泉旅館
+cluster1:(8)
+主人, 自慢, テイスト, 布団敷き, ご飯タイム, セルフ 布団上げ, 海, 気愛造り
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

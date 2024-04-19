@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二級峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広場, 公園
+cluster1:(3)
+場所, 下, 車
+cluster2:(1)
+岩
+cluster3:(1)
+石階段
+cluster4:(1)
+郷原方向
+cluster5:(1)
+常夜燈
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

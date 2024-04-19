@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩国藩主吉川家墓所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+お参り, 掃除, 墓地, 墓, 場所
+cluster1:(2)
+岩国藩主, 岩国
+cluster2:(2)
+岩国吉川家初代広家, 吉川家代々墓所
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

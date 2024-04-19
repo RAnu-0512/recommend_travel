@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七盛塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+像, 墓所, 墓
+cluster1:(9)
+もの, 横, 前身, 奥, 宝物殿, 壇ノ浦, 戦い, 阿弥陀寺, 方
+cluster2:(2)
+尼, 塚
+cluster3:(1)
+詣り
+cluster4:(1)
+供養塔
+cluster5:(8)
+紅石山, 山口県, 寺域, 琵琶, 夜な琵琶, 下関市, 平家一門, 平家
+cluster6:(2)
+耳なし芳一, 清盛の妻・時子
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:裏砂漠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+裏砂漠, 東京都, 鳥取, 砂漠, 伊豆大島, 自然砂漠, 泉津原野, 日本唯一, ここ裏砂漠, 日本, 唯一, 大島
+cluster1:(2)
+地球, 月面
+cluster2:(4)
+砂, 地面, 砂地, 砂浜
+cluster3:(6)
+荒涼, 光景, 景色, 絶景, 風景, 景観
+cluster4:(8)
+余裕, 気, 感じ, 駄目, 気分, 興味, 印象, こと
+cluster5:(14)
+パワースポット, 場所, ストレス, 気持ち, ところ, 地域, メガネ, 体験, 車, イメージ, テレビ, 徒歩, 地図, 雰囲気
+cluster6:(10)
+季節, 自然, 突風, 奥, 冬, 独特, 海, 人間, 大地, 風
+cluster7:(1)
+体感温度
+cluster8:(13)
+噴火物, 駐車場, 火口, 三原山山頂, 三原山ハイキング, 噴火, 火山, ロケ地, 三原山, 道, お鉢, 展望台, 登山道
+cluster9:(1)
+国土地理院
+
+howmany entities : 71
+howmany clusters : 10
+howmany entities (more than1entities) : 71
+howmany clusters (more than1entities) : 10
+deleted 0entities.

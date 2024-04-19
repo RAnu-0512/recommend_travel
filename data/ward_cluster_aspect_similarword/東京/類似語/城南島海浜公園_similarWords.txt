@@ -1,0 +1,53 @@
+--------------------similar_words:城南島海浜公園--------------------
+top3 entities near to cluster0>>
+臨海, 公園, 海浜
+top3 entities near to cluster1>>
+海浜, 公園, 海岸
+top3 entities near to cluster2>>
+公園, 遊歩道, 海浜
+top3 entities near to cluster4>>
+着陸, 離陸, 滑走
+top3 entities near to cluster5>>
+キャンプ, アクティブデート, トイレ
+top3 entities near to cluster6>>
+日帰り, 泊りがけ, 一泊
+top3 entities near to cluster7>>
+潮干狩り, アサリ, 海水浴
+top3 entities near to cluster8>>
+バーベキュー, 泊まり, ＢＢＱ
+top3 entities near to cluster9>>
+海水浴, 砂遊び, ビーチ
+top3 entities near to cluster10>>
+都心, 東京湾, 都内
+top3 entities near to cluster11>>
+飛行機, 航空機, 旅客機
+top3 entities near to cluster12>>
+バス車, 空港, バス
+top3 entities near to cluster13>>
+子供, 家族, 子ども
+top3 entities near to cluster14>>
+休日, 休み, 週末
+top3 entities near to cluster15>>
+海風, 砂風, 海, 砂
+top3 entities near to cluster16>>
+景色, 天気, 気候
+top3 entities near to cluster17>>
+砂浜, 芝生, 浜辺
+top3 entities near to cluster18>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster19>>
+子ども, 子供, こども
+top3 entities near to cluster20>>
+子供, 子ども, 親達
+top3 entities near to cluster21>>
+家族, 友達, 友人
+top3 entities near to cluster22>>
+施設, 宿泊, 飲食
+top3 entities near to cluster23>>
+発着, 撮影, 望遠
+top3 entities near to cluster24>>
+迫力, 至近, 満点
+top3 entities near to cluster25>>
+時間帯, 時間, 肌
+top3 entities near to cluster27>>
+混む, 混雑, 待たす

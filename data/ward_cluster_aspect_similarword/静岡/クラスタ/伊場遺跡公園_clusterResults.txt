@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊場遺跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+遺跡公園, 跡, 奈良, JR, 弥生時代, 平安, 柵, 資料館, 説明板, 時代, 跡地, 復元家屋, 公園, 遺跡
+cluster1:(3)
+駐車場, 環濠, 伊場遺跡
+cluster2:(1)
+東海浜松工場
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 1entities.

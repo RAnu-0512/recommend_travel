@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+礎碑, 碑, 眼病, 消防関係者
+cluster1:(34)
+水, 神社, 馬, 場所, 荒川線, ウマ, 前信号, 都電, 富士塚, 動物, 堀部安兵衛, 平和, 松, やぎ, 功績, 西早稲田, 参拝, 高田馬場, 北野神社, 多数, 吉良, 早稲田駅, 参道, 構内, 由緒, ヤギ, こと, 書, 雰囲気, 早稲田, 境内, 明治, 社, 現在地
+cluster2:(3)
+甘泉園, 太田道灌ゆかり, 水稲荷神社
+cluster3:(1)
+総理大臣佐藤栄作
+
+howmany entities : 42
+howmany clusters : 4
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 4
+deleted 0entities.

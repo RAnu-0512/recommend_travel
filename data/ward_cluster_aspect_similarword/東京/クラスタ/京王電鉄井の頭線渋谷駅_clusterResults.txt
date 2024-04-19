@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王電鉄井の頭線渋谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+正面, エスカレーター, 吉祥寺, 改札口, 地上駅, 人, アクセス, 行列状態, ホーム, 工事, 路線, 駅, 改札, 休日, 機会, こと, 混雑, 身動き, 乗り換え
+cluster1:(2)
+京王電鉄, 京王井の頭線
+cluster2:(2)
+マークシティ直結, マークシティ
+cluster3:(3)
+渋谷マークシティ, 渋谷, 渋谷駅
+cluster4:(1)
+東急渋谷駅
+
+howmany entities : 27
+howmany clusters : 5
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 5
+deleted 0entities.

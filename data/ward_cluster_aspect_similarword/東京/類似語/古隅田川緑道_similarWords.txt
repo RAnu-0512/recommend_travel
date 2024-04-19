@@ -1,0 +1,9 @@
+--------------------similar_words:古隅田川緑道--------------------
+top3 entities near to cluster1>>
+水路, 用水路, 運河
+top3 entities near to cluster3>>
+緑, 自然, 豊か
+top3 entities near to cluster4>>
+空気, よめよ, 大気
+top3 entities near to cluster6>>
+浄化, 汚染

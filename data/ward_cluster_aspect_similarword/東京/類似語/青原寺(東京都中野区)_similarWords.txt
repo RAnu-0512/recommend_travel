@@ -1,0 +1,13 @@
+--------------------similar_words:青原寺(東京都中野区)--------------------
+top3 entities near to cluster0>>
+我が家, 我家, わが家
+top3 entities near to cluster1>>
+寺, 応顕, 戒長
+top3 entities near to cluster2>>
+墓石, 墓碑
+top3 entities near to cluster3>>
+法事, 法要, 一年忌
+top3 entities near to cluster4>>
+世話, 看病, 親代わり
+top3 entities near to cluster6>>
+副, 住職, 会長

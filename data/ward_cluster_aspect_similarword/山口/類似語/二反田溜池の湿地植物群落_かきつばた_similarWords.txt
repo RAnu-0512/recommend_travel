@@ -1,0 +1,9 @@
+--------------------similar_words:二反田溜池の湿地植物群落_かきつばた--------------------
+top3 entities near to cluster0>>
+時期, 時季, 季節
+top3 entities near to cluster1>>
+湿地, 湿原, 沼地
+top3 entities near to cluster2>>
+溜池, 山王, ゴローシリーズ
+top3 entities near to cluster3>>
+群落, 湿地, 植物

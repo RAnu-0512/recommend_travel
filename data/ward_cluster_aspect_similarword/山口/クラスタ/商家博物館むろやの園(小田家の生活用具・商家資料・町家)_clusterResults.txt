@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:商家博物館むろやの園(小田家の生活用具・商家資料・町家)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山口県有形民俗文化財, 柳井市町並み資料館
+cluster1:(5)
+油商家, 生活道具, 生活用具, 油商, 入館料
+cluster2:(2)
+小田家, 小田
+cluster3:(2)
+柳井, 柳井駅
+cluster4:(4)
+勘定蔵, 本蔵, 蔵, 資料館
+cluster5:(4)
+町屋, 町家, 商家, 豪商
+cluster6:(10)
+中, もの, スポット, 西日本, 家, 価値, 文書, 米, 暮らし, 歴史
+cluster7:(3)
+母屋, 奥, 隣
+cluster8:(5)
+施設, 建築, 敷地, 屋敷, 建物
+cluster9:(1)
+本町通り沿い
+cluster10:(1)
+間口
+cluster11:(1)
+主屋
+
+howmany entities : 40
+howmany clusters : 12
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 12
+deleted 0entities.

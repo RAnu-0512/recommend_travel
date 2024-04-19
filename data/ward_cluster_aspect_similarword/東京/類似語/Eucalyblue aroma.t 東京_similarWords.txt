@@ -1,0 +1,19 @@
+--------------------similar_words:Eucalyblue aroma.t 東京--------------------
+top3 entities near to cluster1>>
+ノート, トップ, ミドル
+top3 entities near to cluster2>>
+オイル, アロマ, ランプ
+top3 entities near to cluster3>>
+アロマオイル, エッセンシャルオイル, アロマテラピー
+top3 entities near to cluster5>>
+プレゼント, お気に入り, イメージ
+top3 entities near to cluster6>>
+オマケ, おまけ, ・・オマケ
+top3 entities near to cluster7>>
+作り方, 入れ物, 思い出
+top3 entities near to cluster8>>
+プラン, マンスリープラン, オプショナルプラン
+top3 entities near to cluster9>>
+香り, 香料, 匂い
+top3 entities near to cluster10>>
+香水, 香り, フレグランス

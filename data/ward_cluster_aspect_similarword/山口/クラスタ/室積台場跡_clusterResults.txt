@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:室積台場跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+艦隊, 四国
+cluster1:(2)
+砲台場, 跡
+cluster2:(1)
+室積台場
+cluster3:(1)
+江戸時代末
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 4
+deleted 0entities.

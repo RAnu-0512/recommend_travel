@@ -1,0 +1,29 @@
+--------------------similar_words:まるごとにっぽん--------------------
+top3 entities near to cluster0>>
+特産品, 名産品, 特産, 名産
+top3 entities near to cluster2>>
+飲食店, 飲食, 食事
+top3 entities near to cluster3>>
+ジュース, みかん, ミカン
+top3 entities near to cluster4>>
+市町村, 都道府県, 都府県
+top3 entities near to cluster5>>
+ブース, フロア, テナント
+top3 entities near to cluster6>>
+御祝い, ギフト, 贈り物
+top3 entities near to cluster7>>
+シート, テラス, コップ
+top3 entities near to cluster8>>
+センス, 気持ち, 気持
+top3 entities near to cluster9>>
+ショッピング, 買い物, ホテル
+top3 entities near to cluster10>>
+カフェ, レストラン, スイーツ
+top3 entities near to cluster11>>
+奥, そば, 蔵
+top3 entities near to cluster13>>
+回人, 回目, 回
+top3 entities near to cluster16>>
+順番, 順序
+top3 entities near to cluster18>>
+全国, 各地, 津々浦々

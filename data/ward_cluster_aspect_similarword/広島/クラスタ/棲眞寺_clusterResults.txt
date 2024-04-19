@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:棲眞寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+園内, 池, 広島, 訪問, 花見, 紅葉, 公園, 桜, 花, 木, スカイブリッジ, 蓮
+cluster1:(2)
+展望台, 境内一円
+cluster2:(1)
+せいしんじ
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

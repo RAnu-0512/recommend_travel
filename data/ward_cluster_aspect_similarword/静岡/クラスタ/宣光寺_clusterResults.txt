@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宣光寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+延命地蔵, 延命地蔵菩薩
+cluster1:(8)
+車, 宣光寺, 寺院, 曹洞宗, 磐田駅, 東海道線, 札所, ところ
+cluster2:(1)
+遠州三十三霊場
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 3entities.

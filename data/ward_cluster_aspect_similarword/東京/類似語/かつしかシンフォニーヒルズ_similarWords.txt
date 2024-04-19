@@ -1,0 +1,17 @@
+--------------------similar_words:かつしかシンフォニーヒルズ--------------------
+top3 entities near to cluster0>>
+大きい, 勘, 良
+top3 entities near to cluster1>>
+コンサート, ホール, オーケストラ
+top3 entities near to cluster2>>
+バス, 乗客, タクシー
+top3 entities near to cluster3>>
+周辺, 駅, 拠点
+top3 entities near to cluster4>>
+距離, 至近, 射程
+top3 entities near to cluster5>>
+建物, 外観, 施設
+top3 entities near to cluster7>>
+会場, 音楽, コンサート
+top3 entities near to cluster8>>
+京成, 駅, 本線

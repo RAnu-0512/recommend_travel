@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩波風穴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供, 一般, 周り
+cluster1:(3)
+穴, 畑, 柵
+cluster2:(1)
+竪穴
+cluster3:(1)
+住宅地
+cluster4:(1)
+岩波風穴
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

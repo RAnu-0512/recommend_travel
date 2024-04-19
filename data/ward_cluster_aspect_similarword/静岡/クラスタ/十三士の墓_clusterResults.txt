@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十三士の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡県, 伊豆市, 指月殿
+cluster1:(3)
+被害, 台風, 台風被害
+cluster2:(5)
+謀叛, 謀反, 家臣, 主君, 家臣たち
+cluster3:(17)
+無念, 所, こと, 当地, 家, 修善寺, 仇, ロマン, 別, 墓, 境内, 名前, 近く, スポット, 場所, 桂川, 思い
+cluster4:(7)
+源頼家, 頼家, 忠君魂溢れる源頼, 十三士, 源頼, 源頼家の墓, 十三士の墓
+
+howmany entities : 35
+howmany clusters : 5
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 5
+deleted 0entities.

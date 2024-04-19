@@ -1,0 +1,13 @@
+--------------------similar_words:どうぶつcafe どうぶつとお友だち--------------------
+top3 entities near to cluster0>>
+動物, 動植物, 植物
+top3 entities near to cluster1>>
+えさ, 店員, 餌
+top3 entities near to cluster3>>
+延長, 対応, 適用
+top3 entities near to cluster4>>
+膝, ひざ, ヒザ
+top3 entities near to cluster5>>
+立地, 至便, ローケーション
+top3 entities near to cluster6>>
+好感, 好意, 親近

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:甫登神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+巣, 蜂
+cluster1:(4)
+御利益, 関係, 竹やぶ, 近く
+cluster2:(2)
+神社, 参道
+cluster3:(1)
+子宝
+cluster4:(1)
+御神体
+cluster5:(2)
+木ノ根神社, 甫登神社
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

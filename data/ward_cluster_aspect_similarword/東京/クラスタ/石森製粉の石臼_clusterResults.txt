@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石森製粉の石臼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+製粉, 石森製粉, 製粉業
+cluster1:(2)
+初期, オブジェ
+cluster2:(2)
+昭和, 明治
+cluster3:(3)
+石臼, 蕎麦, 中野そば
+cluster4:(1)
+青梅街道
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

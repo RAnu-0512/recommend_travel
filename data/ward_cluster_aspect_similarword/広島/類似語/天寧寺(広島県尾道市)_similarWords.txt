@@ -1,0 +1,13 @@
+--------------------similar_words:天寧寺(広島県尾道市)--------------------
+top3 entities near to cluster0>>
+境内, 本堂, 本殿
+top3 entities near to cluster1>>
+寺, 古刹, 住職
+top3 entities near to cluster2>>
+朱印, 御朱印, 寶印
+top3 entities near to cluster3>>
+本堂, 坂, 石段
+top3 entities near to cluster4>>
+重文, 仏像, 名刹
+top3 entities near to cluster5>>
+風景, 景色, 町並み

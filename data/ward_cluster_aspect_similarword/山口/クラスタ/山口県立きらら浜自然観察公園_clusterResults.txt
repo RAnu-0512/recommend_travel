@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口県立きらら浜自然観察公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+子供, 親戚, 子ども, 人たち, 大人, 人
+cluster1:(2)
+場所, 近く
+cluster2:(7)
+中, スポット, ブランコ, イベント, 雰囲気, 山口湾, 海沿い
+cluster3:(1)
+種類
+cluster4:(1)
+VR
+cluster5:(15)
+面積, 敷地, 景色, 公園, 奇岩, 遊具, 池, 砂浜, 野鳥, 花, 散歩コース, 園内, 海, お花, 鳥
+cluster6:(3)
+ゆめ花博, 山口県立きらら浜自然観察公園, 山口ゆめ花博
+
+howmany entities : 35
+howmany clusters : 7
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 7
+deleted 0entities.

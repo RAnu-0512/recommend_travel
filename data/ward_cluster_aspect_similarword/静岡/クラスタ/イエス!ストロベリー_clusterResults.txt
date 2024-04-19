@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:イエス!ストロベリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+食べ比べ, 食べ放題, 感染対策, 全種制覇
+cluster1:(8)
+いちご園, 苺, 農園, かおり野, 畑, 紅ほっぺ, イチゴ狩り, ブルーベリー狩り
+cluster2:(3)
+決定, 対応, 参考
+cluster3:(2)
+時間, 場所
+cluster4:(3)
+他, 種類, 中
+cluster5:(4)
+物, 感じ, 方々, 方
+cluster6:(1)
+機会
+cluster7:(4)
+料金, 受付, 予約, 手洗い場
+cluster8:(3)
+甘み, 味, 好み
+cluster9:(2)
+土産, 再訪
+cluster10:(1)
+SNS映え
+cluster11:(1)
+お腹
+cluster12:(22)
+スタッフ, シート, イチゴ, ストロベリーシェイク, カフェ, 待合室, ハウス, 家族, 安全, 雨上がり, 女性スタッフ, パック, 女性, ベビーカー, いちご, 見極め, ブルーベリー, トイレ, オススメ, 男性スタッフ, 足元, 靴
+cluster13:(3)
+大きさ, 時間帯, オムツ替え
+
+howmany entities : 61
+howmany clusters : 14
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 9
+deleted 7entities.

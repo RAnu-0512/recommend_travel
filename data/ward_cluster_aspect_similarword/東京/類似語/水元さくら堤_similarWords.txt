@@ -1,0 +1,11 @@
+--------------------similar_words:水元さくら堤--------------------
+top3 entities near to cluster0>>
+公園, 景観, 駅
+top3 entities near to cluster1>>
+両側, 両端, 片側
+top3 entities near to cluster3>>
+季節, 時期, 風景
+top3 entities near to cluster4>>
+桜, 満開, 八重桜
+top3 entities near to cluster5>>
+土手沿い, 河川敷沿い, 土手, 河川敷

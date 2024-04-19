@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:素盞嗚神社(天王社)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+吉備津神社, 広峰神社, 新市神社, 神社
+cluster1:(18)
+本宮, 神輿, 祇園信, 神楽, 敷地, 蘇民将来, 神話, 街中, 祭り, キュウリ, 八坂神社, 祇園, 風土記, 発祥, 屋敷跡, 京都, 兵庫, 場所
+cluster2:(1)
+ここ素盞嗚神社
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

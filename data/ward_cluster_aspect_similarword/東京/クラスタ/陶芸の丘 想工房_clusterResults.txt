@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶芸の丘 想工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+制限時間, 時間
+cluster1:(2)
+処理, 作業
+cluster2:(7)
+コロナ, 使い方, 事, 流れ, 挙げ句, コース, 説明
+cluster3:(2)
+手, 色
+cluster4:(1)
+建物
+cluster5:(1)
+果て
+cluster6:(1)
+気配
+cluster7:(4)
+会話, 土, 口頭, GW
+cluster8:(2)
+飲み口, 陶芸体験
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新宿Azul_CoCo.LuLu>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+花, クリスマスリース, ペン, お花, フラワーリース
+cluster1:(10)
+場所, 感じ, 事, 時期, 機会, 瞬間, 時間, 方, 位置, もの
+cluster2:(11)
+上がり, 出来上がり, ハーバリウム, 一点張り, コツコツ, フレンドリー, 色合い, ポリシー, 雰囲気, パーツ, ペース
+cluster3:(2)
+最後, 他
+cluster4:(3)
+材料, 好み, 色
+cluster5:(3)
+友人, 先生, 講師
+cluster6:(2)
+店, 食事
+cluster7:(5)
+体験, 事前, 対応, 要望, 感想
+
+howmany entities : 41
+howmany clusters : 8
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 8
+deleted 0entities.

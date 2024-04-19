@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山天母の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+地元, 普通, 前回, 昼間
+cluster1:(6)
+カレンダー, 貸し切り, ところ, 気持ち, 露天風呂, ポカポカ
+cluster2:(2)
+富士山, 駿河湾
+cluster3:(1)
+中
+cluster4:(2)
+紫色, 身体
+cluster5:(6)
+こと, 値段, 評判, 感じ, ほう, 方
+cluster6:(1)
+熱量
+cluster7:(7)
+森林, 富士, 夜景, 富士宮の町, 殿方, 夫婦, 婦人
+cluster8:(1)
+コロナ禍
+cluster9:(13)
+温泉, 薬草風呂, 湯船, 薬湯風呂, 富士宮口登山道, 薬湯, 紫根の湯, 薬草, 観光客, 露天, 風呂, 湯, 日帰り入浴施設
+cluster10:(1)
+天母の湯名物薬湯の日!
+
+howmany entities : 44
+howmany clusters : 11
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 8entities.

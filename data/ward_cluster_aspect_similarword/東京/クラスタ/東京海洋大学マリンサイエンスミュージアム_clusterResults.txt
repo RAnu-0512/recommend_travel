@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京海洋大学マリンサイエンスミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+国立大学, 東京海洋大学, 海洋生物
+cluster1:(5)
+鯨ギャラリー, 剥製, 標本, 鯨, 標本数
+cluster2:(6)
+非公開, 場所, 人, ところ, 東京水産大学, 横
+cluster3:(2)
+再開, 禁止
+cluster4:(4)
+カメラ撮影, 見学, 建屋, 展示
+cluster5:(1)
+品川駅
+cluster6:(5)
+見学希望メール, 新型コロナ感染対策, クジラ骨格展示館, 予約完了メール, 入場無料
+cluster7:(1)
+館外徒歩数分
+cluster8:(1)
+農商務水産講習所
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 9
+deleted 0entities.

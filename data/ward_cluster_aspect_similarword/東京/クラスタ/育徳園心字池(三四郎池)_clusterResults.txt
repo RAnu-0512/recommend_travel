@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:育徳園心字池(三四郎池)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+前田藩, 東京大学本郷キャンパス, 前田, 本郷キャンパス, 加賀
+cluster1:(18)
+季節, 場所, 自然, 池, 中心, 三四郎池, 構内見学, 庭園, 家族, 屋敷, 江戸時代, 中, 方, こと, スポット, 新入生, 周辺, 時代
+cluster2:(1)
+育徳園
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 3
+deleted 0entities.

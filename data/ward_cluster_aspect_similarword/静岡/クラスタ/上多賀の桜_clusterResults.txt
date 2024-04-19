@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上多賀の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+多賀, 桜, 花見
+cluster1:(7)
+ひとつ, 場所, 上多賀, 方法, 景色, 方, 時期
+cluster2:(4)
+東海旅客鉄道株式会社伊東線, 駅, 伊豆多賀駅, 周辺
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 0entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:はあと農園--------------------
+top3 entities near to cluster0>>
+苺, イチゴ, いちご
+top3 entities near to cluster1>>
+予約, 時間, 受付
+top3 entities near to cluster3>>
+横, 時間, 夕方
+top3 entities near to cluster4>>
+半袖, もぐ, 半そで
+top3 entities near to cluster5>>
+ハウス, イチゴ, いちご
+top3 entities near to cluster6>>
+子供, 大人, 子ども
+top3 entities near to cluster7>>
+民家, 通路
+top3 entities near to cluster8>>
+子供, 子ども, 駐車

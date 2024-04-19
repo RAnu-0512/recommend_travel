@@ -1,0 +1,15 @@
+--------------------similar_words:八幡パーキングエリア(下り線)--------------------
+top3 entities near to cluster1>>
+緑, 神, 赤
+top3 entities near to cluster3>>
+ラーメン, コンビニ, カップラーメン
+top3 entities near to cluster4>>
+買い物, 買物, 買いもの
+top3 entities near to cluster5>>
+トンボ, とんぼ, オニヤンマ
+top3 entities near to cluster6>>
+エリア, 建物
+top3 entities near to cluster7>>
+食堂, 土産, おみやげ
+top3 entities near to cluster8>>
+瓦造り, 広い, 瓦

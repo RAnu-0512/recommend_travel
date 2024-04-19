@@ -1,0 +1,11 @@
+--------------------similar_words:TOTOギャラリー・間--------------------
+top3 entities near to cluster0>>
+田, 根, 剛
+top3 entities near to cluster2>>
+展示, 展覧
+top3 entities near to cluster3>>
+建築, 建物, 家屋
+top3 entities near to cluster4>>
+建築系, 土木系, 建築, 土木
+top3 entities near to cluster5>>
+建築家, 建築, 建物

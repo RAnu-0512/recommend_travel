@@ -1,0 +1,51 @@
+--------------------similar_words:道の駅 掛川--------------------
+top3 entities near to cluster0>>
+とろろ, 自然薯, 山芋
+top3 entities near to cluster1>>
+コンビニ, おみやげ, レストラン
+top3 entities near to cluster2>>
+土産物, みやげ物, 海産物
+top3 entities near to cluster4>>
+和菓子, かき氷, ケーキ
+top3 entities near to cluster6>>
+空き, 満杯, 空く
+top3 entities near to cluster12>>
+海, 自然, 奥
+top3 entities near to cluster13>>
+季節, 冬, 定番
+top3 entities near to cluster17>>
+地元, 帰り道
+top3 entities near to cluster19>>
+連休, 休日, 混雑
+top3 entities near to cluster21>>
+道路, 国道
+top3 entities near to cluster22>>
+駅道, 駅車, 駅
+top3 entities near to cluster24>>
+品物
+top3 entities near to cluster26>>
+休憩, 食堂, 昼食
+top3 entities near to cluster27>>
+パン屋, パン, 食パン
+top3 entities near to cluster29>>
+惣菜, 食品, 総菜
+top3 entities near to cluster30>>
+氷, 范氷, 氷っ
+top3 entities near to cluster31>>
+ご飯, ごはん, 御飯
+top3 entities near to cluster33>>
+抹茶, 新茶, 茶
+top3 entities near to cluster34>>
+イチゴ, メロン, 牛乳
+top3 entities near to cluster35>>
+蕎麦, そば, 生姜
+top3 entities near to cluster36>>
+肉, トマト, ソーセージ
+top3 entities near to cluster37>>
+駐車場, 駐車
+top3 entities near to cluster46>>
+野菜, 果物, 産直
+top3 entities near to cluster47>>
+地場, 産, 野菜
+top3 entities near to cluster48>>
+地元, 農家, 食材

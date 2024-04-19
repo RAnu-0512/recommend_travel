@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:満珠・干珠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+こと, 機会, 風情
+cluster1:(2)
+神社, 地
+cluster2:(9)
+島, 沖合い, 満珠島, 伝説, 初日の出, 日本一, 日本, 日の出, シーン
+cluster3:(2)
+豊功, 駐車場
+cluster4:(3)
+飛地境内地, 忌宮神社, 景勝地
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

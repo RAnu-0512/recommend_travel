@@ -1,0 +1,25 @@
+--------------------similar_words:道の駅 犬挟--------------------
+top3 entities near to cluster0>>
+挟, 駅
+top3 entities near to cluster2>>
+野菜, 果物, 食事
+top3 entities near to cluster3>>
+R, 410, 411
+top3 entities near to cluster4>>
+駅, 土地, 建物
+top3 entities near to cluster6>>
+地元, 遠方, 各地
+top3 entities near to cluster9>>
+瞻星台, 台数, 瞻星
+top3 entities near to cluster10>>
+アイス, アイスクリーム, ソフトクリーム
+top3 entities near to cluster11>>
+新米, アーキニア, ベテラン
+top3 entities near to cluster12>>
+品物, 値段
+top3 entities near to cluster13>>
+舵, 舵取り, 取舵
+top3 entities near to cluster14>>
+国道, 駅, 県道
+top3 entities near to cluster15>>
+特産, 名産, 土産

@@ -1,0 +1,27 @@
+--------------------similar_words:町田リス園--------------------
+top3 entities near to cluster0>>
+リス園, 動物園, リス, 動物
+top3 entities near to cluster3>>
+満腹, 空腹, お腹
+top3 entities near to cluster4>>
+公園, 緑地, 遊歩道
+top3 entities near to cluster5>>
+頭種, 頭体, 頭
+top3 entities near to cluster6>>
+肩手, 肩, 腕
+top3 entities near to cluster7>>
+爪, ウエンカムイ, 剥祭
+top3 entities near to cluster8>>
+ひとつ穴, 大穴
+top3 entities near to cluster9>>
+ウサギ, アニマルゾーン, カワイイネコ
+top3 entities near to cluster10>>
+近辺, 時間
+top3 entities near to cluster11>>
+勢い, 人気, 大人気
+top3 entities near to cluster12>>
+お家, 子供, 友達
+top3 entities near to cluster13>>
+園内, 屋外, 屋内
+top3 entities near to cluster14>>
+餌, エサ, えさ

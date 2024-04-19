@@ -1,0 +1,33 @@
+--------------------similar_words:十国峠ケーブルカー--------------------
+top3 entities near to cluster0>>
+カーブ, バイク, トイレ
+top3 entities near to cluster1>>
+カード, ホテル, レストラン
+top3 entities near to cluster5>>
+休憩, 時間, 夕方
+top3 entities near to cluster8>>
+天気, 天候, 曇り
+top3 entities near to cluster9>>
+駅, 車両, 駅舎
+top3 entities near to cluster11>>
+気分, 感覚, 感動
+top3 entities near to cluster17>>
+半島, 国々
+top3 entities near to cluster18>>
+日, 年, 月
+top3 entities near to cluster19>>
+人達
+top3 entities near to cluster21>>
+地図, 位置, 写真
+top3 entities near to cluster22>>
+散策, 食事, 食べ
+top3 entities near to cluster32>>
+国道
+top3 entities near to cluster33>>
+土産, おみやげ, 土産物
+top3 entities near to cluster34>>
+乗車, バス, 乗り継ぎ
+top3 entities near to cluster35>>
+景色, 眺望, 車窓
+top3 entities near to cluster39>>
+駐車, 道路, 高層

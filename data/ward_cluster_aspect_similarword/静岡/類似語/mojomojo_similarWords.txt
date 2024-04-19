@@ -1,0 +1,13 @@
+--------------------similar_words:mojomojo--------------------
+top3 entities near to cluster0>>
+料金, 宿泊, 予約
+top3 entities near to cluster2>>
+家族, 夫婦, 子供
+top3 entities near to cluster3>>
+日, 月, 土
+top3 entities near to cluster5>>
+仕上がり, 出来上がり, 仕上がる
+top3 entities near to cluster8>>
+勉強, 体験, お話し
+top3 entities near to cluster12>>
+くろ, 電動, くろい

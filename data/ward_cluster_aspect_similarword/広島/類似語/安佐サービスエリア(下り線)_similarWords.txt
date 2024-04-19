@@ -1,0 +1,23 @@
+--------------------similar_words:安佐サービスエリア(下り線)--------------------
+top3 entities near to cluster0>>
+中国自動車道, レストラン, インターチェンジ
+top3 entities near to cluster1>>
+スナック, コーナー, レストコーナー
+top3 entities near to cluster2>>
+トイレ, 便所, レストルーム
+top3 entities near to cluster3>>
+人達, 大勢
+top3 entities near to cluster6>>
+土産, おみやげ, みやげ
+top3 entities near to cluster7>>
+コク, 甘み, まろやか
+top3 entities near to cluster8>>
+セルフ式, セルフ, 方式
+top3 entities near to cluster9>>
+売場, 売り場, 百貨店
+top3 entities near to cluster10>>
+海, 見, 眺め
+top3 entities near to cluster12>>
+天, 錬り
+top3 entities near to cluster13>>
+白身魚, 白身, 魚類

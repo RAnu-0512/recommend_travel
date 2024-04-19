@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大浦海水浴場(東京都新島村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海水浴場, キャンプ場
+cluster1:(2)
+海, 海遊び
+cluster2:(2)
+夕日, 夕陽
+cluster3:(2)
+太陽, オレンジ色
+cluster4:(6)
+人, 岩, トイレ, 馬, スイムスーツ, モリ
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

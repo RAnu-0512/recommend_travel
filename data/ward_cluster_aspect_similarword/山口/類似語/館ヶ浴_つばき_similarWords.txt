@@ -1,0 +1,13 @@
+--------------------similar_words:館ヶ浴_つばき--------------------
+top3 entities near to cluster1>>
+花, お花, 草花
+top3 entities near to cluster2>>
+クルマ, 車両
+top3 entities near to cluster3>>
+大輪, 銘花, 花
+top3 entities near to cluster4>>
+つば, きはじめ, くる
+top3 entities near to cluster5>>
+湯浴, 館, 湯
+top3 entities near to cluster6>>
+自動車道, インターチェンジ, 自動車

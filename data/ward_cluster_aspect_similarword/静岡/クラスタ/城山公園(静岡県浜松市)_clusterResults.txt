@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山公園(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 専用駐車場
+cluster1:(6)
+地域遺産センター, 城跡, 井伊家, 城山公園, 井伊谷城址, 展望台
+cluster2:(27)
+車, 坂道, 浜名湖, 街並み, 地元, 時期, 大河ドラマ, 井伊谷, 満開, 地図, 名所, 標識, ソメイヨシノ, 階段, 徒歩, 山頂, ドライブ, 景色, 丘, 高台, 公園, 距離, 桜, 場所, 花見, スニーカー, 坂
+cluster3:(3)
+表示, 案内板, ルート表示
+cluster4:(1)
+引佐協働センター
+
+howmany entities : 39
+howmany clusters : 5
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 3
+deleted 3entities.

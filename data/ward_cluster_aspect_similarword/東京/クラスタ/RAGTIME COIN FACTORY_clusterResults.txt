@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:RAGTIME COIN FACTORY>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+結婚記念日, 記念日
+cluster1:(2)
+体験, 機会
+cluster2:(3)
+店, 場所, 時間
+cluster3:(7)
+スタッフ, カップル, コイン, ペンダント, リング, 雰囲気, サイズ
+cluster4:(2)
+不慣れ, 選び方
+cluster5:(5)
+他, 方, 次, 説明, もの
+cluster6:(1)
+リング作り
+cluster7:(4)
+夫婦, 指, 浅草, 指輪
+cluster8:(1)
+中心部
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 9
+deleted 0entities.

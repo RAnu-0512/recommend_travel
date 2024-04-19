@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:+autas+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+モノ作り, ハーバリウム作り
+cluster1:(16)
+指導, 方, 受付向かい, ハ, 会場, おかげ, 先生, ボーリング, マンツーマン, 場所, 小部屋, コース, ハーバリウム, バリウム, 時間, 店
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

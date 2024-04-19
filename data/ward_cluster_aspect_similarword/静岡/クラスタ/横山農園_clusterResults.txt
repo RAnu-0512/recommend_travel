@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:横山農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+縁, 東西どちら, 父母, 勇気, どこ, ハウス, 家族, 方, 全国, 高齢, 最初, ところ, 中, 希望, もうどこ, 話, 予約電話, 休業日, なにか, 説明
+cluster1:(13)
+練乳, イチゴ, 苺, 元祖いちご狩り, 農園, 横山農園, 完熟, いちご, いちご農園, いちご狩り, 久能山, 横山, ミルク
+
+howmany entities : 33
+howmany clusters : 2
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 2
+deleted 0entities.

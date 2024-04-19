@@ -1,0 +1,11 @@
+--------------------similar_words:姫谷焼窯跡--------------------
+top3 entities near to cluster0>>
+窯, 茶碗, 跡
+top3 entities near to cluster1>>
+衛門, 悶左, 播左
+top3 entities near to cluster2>>
+谷焼, 谷, 姫
+top3 entities near to cluster3>>
+色絵, 磁器, 陶器
+top3 entities near to cluster4>>
+時代, 後期, 前期

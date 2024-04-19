@@ -1,0 +1,21 @@
+--------------------similar_words:海上保安資料館--------------------
+top3 entities near to cluster0>>
+海上, 保安, 船舶
+top3 entities near to cluster2>>
+平和, 社会, 安全
+top3 entities near to cluster3>>
+写真, 映像, 模型
+top3 entities near to cluster5>>
+館内, 施設, 時間
+top3 entities near to cluster6>>
+痕跡, 銃撃, 被弾
+top3 entities near to cluster8>>
+業務, 担当, 仕事
+top3 entities near to cluster9>>
+現役, 創設, 憧れ
+top3 entities near to cluster10>>
+敬意, 謝意, 畏敬
+top3 entities near to cluster11>>
+海船, 海, 海上
+top3 entities near to cluster12>>
+資料, 展示

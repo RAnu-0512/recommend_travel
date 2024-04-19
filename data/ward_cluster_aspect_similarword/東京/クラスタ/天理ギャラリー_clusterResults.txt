@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天理ギャラリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+開催, 掲示, 所蔵
+cluster1:(8)
+流れ, 記憶, 前, ビル, 歴史, こと, ギャラリー, 資料
+cluster2:(1)
+千代田区
+cluster3:(1)
+生活文化
+cluster4:(1)
+入館無料
+cluster5:(4)
+天理ギャラリー, 台湾平埔族, 東京天理, 天理図書館
+cluster6:(1)
+神田錦町1丁目
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 7
+deleted 0entities.

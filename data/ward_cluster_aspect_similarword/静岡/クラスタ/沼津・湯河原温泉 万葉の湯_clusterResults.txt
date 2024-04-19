@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津・湯河原温泉 万葉の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+フロント, コロナ, ポイント, 口コミ, マッサージ, 露天風呂, 次
+cluster1:(4)
+こと, 方, 人, 感じ
+cluster2:(2)
+利用, 説明
+cluster3:(1)
+時間
+cluster4:(1)
+係り
+cluster5:(1)
+疲れ
+cluster6:(1)
+返し
+cluster7:(14)
+ご飯, カビ, 荷物, 予約, ベル, お湯, 壁, 食事, 鍵, 電話, 個室, 部屋, 天井, 温度
+cluster8:(6)
+貸切風呂, 貸部屋, 風呂場, 家族風呂, 貸し切り風呂, 風呂
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 4
+deleted 6entities.

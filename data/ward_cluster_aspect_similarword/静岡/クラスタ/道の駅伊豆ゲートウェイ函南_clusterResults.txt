@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅伊豆ゲートウェイ函南>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 駐車可能台数, 駐車
+cluster1:(3)
+伊豆わさびミュージアム, 伊豆, ゲートウェイ函南
+cluster2:(2)
+わさび屋, 山本
+cluster3:(2)
+駅, 徒歩
+cluster4:(4)
+土産, 食品, 食事, 施設
+cluster5:(2)
+富士山, わさびミュージアム
+cluster6:(5)
+パンフレット, 大河ドラマ, 行き来, 買い物, パーク
+cluster7:(1)
+セブンイレブン
+cluster8:(1)
+お隣
+cluster9:(3)
+こと, 印象, 道
+cluster10:(1)
+客数
+cluster11:(1)
+其々
+cluster12:(1)
+めんたいパーク
+
+howmany entities : 29
+howmany clusters : 13
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 5
+deleted 11entities.

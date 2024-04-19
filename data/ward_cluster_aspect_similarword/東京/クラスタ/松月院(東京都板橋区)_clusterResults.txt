@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松月院(東京都板橋区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, 宝持寺
+cluster1:(2)
+武将, 寺院
+cluster2:(6)
+曹洞宗, 高島平, 名, 見応え, 足, 墓参り
+cluster3:(3)
+四季, 自然, 植物
+cluster4:(9)
+千葉県, 千葉, 市川, 赤塚駅, 赤塚城, 江戸幕府, 東武東上線, 千葉自胤, 東京大仏
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

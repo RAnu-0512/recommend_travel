@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:切支丹屋敷跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+勉強, 説明
+cluster1:(4)
+場所, 時間, 中, こと
+cluster2:(18)
+宣教師, 昔, ページ, 人, 家, 知人, ところ, イタリア, キリシタン, キリスト教, バテレン, マンション, 小日向, 日本, 歴史, 雰囲気, ポツン, 抜け道
+cluster3:(5)
+建物, 一角, 界隈, 施設, 徒歩
+cluster4:(1)
+地下鉄茗
+cluster5:(7)
+資料館, 石碑, 墓, 墓石, 人骨, 収容所, 史跡
+cluster6:(16)
+荷谷駅, 地, 切支丹屋敷跡, 切支丹屋敷, 高級住宅街, 住宅, 都旧跡 切支丹屋敷跡, 禁教令, 江戸時代, 住宅地, 屋敷, 住宅街, 映像新聞社, 江戸幕府, 文京区, 鎖国時代
+
+howmany entities : 53
+howmany clusters : 7
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 7
+deleted 0entities.

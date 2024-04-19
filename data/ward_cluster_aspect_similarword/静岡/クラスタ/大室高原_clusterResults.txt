@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大室高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+噴火, 溶岩, 火口
+cluster1:(2)
+国道, 県道
+cluster2:(2)
+こと, 状態
+cluster3:(2)
+所, 場所
+cluster4:(1)
+様相
+cluster5:(18)
+遠笠山, 左, 伊豆急行線, 側, リゾート, レストラン, 息子, 大室山, 写真, 美術館, 富士山, ドライブ, チン, 伊豆高原, リフト, 大室高原, 間, ロープウェイ
+cluster6:(19)
+車, 方角, 海岸, 内陸, 土地, 緑, 山頂, 東南, 空, 旅行, 景色, 海, 道路, 高台, 桜, 頂上, 雲, 山, 伊豆高原駅
+cluster7:(6)
+展望高原, 別荘地, 伊豆, 伊豆大室高原, 伊東温泉, 高原
+
+howmany entities : 53
+howmany clusters : 8
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 4
+deleted 7entities.

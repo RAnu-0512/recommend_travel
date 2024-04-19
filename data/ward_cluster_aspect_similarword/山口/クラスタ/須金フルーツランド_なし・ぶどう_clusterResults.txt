@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須金フルーツランド_なし・ぶどう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+もぎたて, 採れたて
+cluster1:(6)
+梨狩り, 狩り, 果物狩り, 梨, ナシ狩り, ぶどう狩り
+cluster2:(18)
+子供, フルーツランド, 美味しさ, 試食, 家族, 値段, オススメ, 笑農園, フルーツタルト, 須金, 福田フルーツパーク, 果物, 土産購入, 持ち帰り, 農園, 葡萄, 気持ち, ブドウ
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 3
+deleted 0entities.

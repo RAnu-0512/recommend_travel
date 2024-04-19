@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:村山浅間神社の大スギ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山浅間神社, 本宮浅間大社
+cluster1:(2)
+大社, 富士宮市
+cluster2:(2)
+スギ, 巨木
+cluster3:(3)
+富士山, 中, 田舎
+cluster4:(3)
+敷地, 神社, 境内
+cluster5:(1)
+格式
+cluster6:(1)
+案内板
+cluster7:(1)
+樹高
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 9entities.

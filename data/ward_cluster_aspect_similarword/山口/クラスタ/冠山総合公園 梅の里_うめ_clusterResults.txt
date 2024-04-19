@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:冠山総合公園 梅の里_うめ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広さ, 駐車場
+cluster1:(3)
+梅まつり, 蝋梅, 梅
+cluster2:(6)
+丘, 冠公園, 公園, 夕日, 景観, 頂上
+cluster3:(4)
+中止, 見学, 鑑賞, 出店
+cluster4:(5)
+香り, 季節, 満開, 気配, 時期
+cluster5:(2)
+子供, 大人
+cluster6:(2)
+場所, 種類
+cluster7:(5)
+関係, 多く, 家族, 方, 人
+cluster8:(10)
+ルート, スポット, コロナ, ドライブ, 瀬戸内海, 夕暮れ, 花, レベル, 海, 気持ち
+cluster9:(1)
+木
+cluster10:(2)
+冠山総合公園, 室積海岸
+
+howmany entities : 42
+howmany clusters : 11
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 11
+deleted 0entities.

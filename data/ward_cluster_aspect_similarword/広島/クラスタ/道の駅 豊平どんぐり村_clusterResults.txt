@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 豊平どんぐり村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+施設, 道, 駅, 敷地, 公園, 温泉
+cluster1:(5)
+他, むすび, インターチェンジ, イベント, 神楽
+cluster2:(1)
+地元野菜
+cluster3:(1)
+品揃え
+cluster4:(1)
+そば打ち体験
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

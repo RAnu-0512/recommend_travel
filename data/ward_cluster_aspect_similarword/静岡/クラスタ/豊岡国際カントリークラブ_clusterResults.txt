@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊岡国際カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+おじ, 点, フレンドリー, コース, こと, 待ち時間, しょう, ミドルコース, メンテナンス, 方
+cluster1:(2)
+フェアウェイ, ラフ
+cluster2:(1)
+接客
+cluster3:(1)
+コロナ対策
+cluster4:(1)
+難易度
+cluster5:(1)
+従業員
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 6entities.

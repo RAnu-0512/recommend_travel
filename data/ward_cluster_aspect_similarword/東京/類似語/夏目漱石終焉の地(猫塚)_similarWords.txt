@@ -1,0 +1,9 @@
+--------------------similar_words:夏目漱石終焉の地(猫塚)--------------------
+top3 entities near to cluster0>>
+漱石, 鴎外, 子規
+top3 entities near to cluster1>>
+展示, 館, 収蔵
+top3 entities near to cluster2>>
+裏手, 入口, 公園
+top3 entities near to cluster3>>
+区立, 漱石, 館

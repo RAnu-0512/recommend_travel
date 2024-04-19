@@ -1,0 +1,17 @@
+--------------------similar_words:山口県立萩美術館・浦上記念館--------------------
+top3 entities near to cluster0>>
+陶芸, 陶器, 絵画
+top3 entities near to cluster1>>
+展示, 出展, 収蔵
+top3 entities near to cluster2>>
+凄, すごい, 凄まじい
+top3 entities near to cluster3>>
+絵画, 建物, 美術
+top3 entities near to cluster4>>
+友人, 素人, 出身
+top3 entities near to cluster5>>
+美術館, 浮世絵, 陶磁器
+top3 entities near to cluster6>>
+大波, 高波
+top3 entities near to cluster8>>
+個性, 迫力, 価値

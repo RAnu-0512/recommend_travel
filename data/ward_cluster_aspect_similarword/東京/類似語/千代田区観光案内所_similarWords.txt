@@ -1,0 +1,11 @@
+--------------------similar_words:千代田区観光案内所--------------------
+top3 entities near to cluster0>>
+名所, 周遊, 名所旧跡
+top3 entities near to cluster1>>
+皇居, 内堀, 外堀
+top3 entities near to cluster2>>
+散策, 史跡, 探訪
+top3 entities near to cluster3>>
+九段下, 区, 駅
+top3 entities near to cluster5>>
+言語, 多, 対応

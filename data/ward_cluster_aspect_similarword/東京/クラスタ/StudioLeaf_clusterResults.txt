@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:StudioLeaf>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ヨガインストラクター, ヨガ
+cluster1:(5)
+人, SUP, インストラクター, 先生, sup
+cluster2:(4)
+気, 予定, 配慮, 時間
+cluster3:(1)
+安全面
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

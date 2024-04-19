@@ -1,0 +1,13 @@
+--------------------similar_words:天王公園--------------------
+top3 entities near to cluster0>>
+公園, こども, 緑地
+top3 entities near to cluster2>>
+土水, 土
+top3 entities near to cluster3>>
+駅, 駅前, 構内
+top3 entities near to cluster4>>
+天王, 公園, 北江古田
+top3 entities near to cluster5>>
+歩き, 歩く
+top3 entities near to cluster6>>
+解説板, 屋敷, 解説

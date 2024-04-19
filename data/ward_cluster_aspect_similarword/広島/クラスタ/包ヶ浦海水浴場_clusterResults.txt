@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:包ヶ浦海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+奇襲, 子供, 途中, グループ, シカ, 軍, 桟敷, 鹿がい, 本陣, 日光浴, 観光, 管理施設, 遊び, バンガロー, 軍勢, BBQ, 格安, 海, 大人, 合戦, バーベキュー, 暴風雨, 山, バス, 場所, 夏, 海水浴客, 海水浴場, 女性, 公共交通バス
+cluster1:(3)
+厳島, 厳島神社, 宮島桟橋
+cluster2:(2)
+毛利元就, 元就
+cluster3:(2)
+陶晴賢, 陶軍
+cluster4:(1)
+包ヶ浦海水浴場
+
+howmany entities : 38
+howmany clusters : 5
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 5
+deleted 0entities.

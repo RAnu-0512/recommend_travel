@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みつぎグリーンランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+施設, 園内, 設備, 遊具
+cluster1:(19)
+自販機, 自転車, 魚, 子供, キャンプ, ところ, 川遊び, 感じ, 川, 楽しみ, BBQ, 炭, バーベキュー, 一泊, コテージ, カレー, 水遊び, 緑, 汽車
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

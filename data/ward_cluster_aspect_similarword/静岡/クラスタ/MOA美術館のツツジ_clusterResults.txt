@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MOA美術館のツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+斜面, 高台
+cluster1:(2)
+万華鏡, 美術館
+cluster2:(1)
+ツツジ
+cluster3:(1)
+MOA美術館
+cluster4:(2)
+入口, 近く
+cluster5:(1)
+館内
+cluster6:(1)
+熱海
+
+howmany entities : 10
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

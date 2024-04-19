@@ -1,0 +1,15 @@
+--------------------similar_words:江戸川公園のさくら--------------------
+top3 entities near to cluster1>>
+専門店, 仕事, 専門
+top3 entities near to cluster2>>
+川沿い, 川, 河畔
+top3 entities near to cluster3>>
+人々, 時季, 人達
+top3 entities near to cluster4>>
+駅, ホテル, 椿山荘
+top3 entities near to cluster7>>
+上流, 下流, 中流
+top3 entities near to cluster8>>
+橋上, 高架, 駅舎
+top3 entities near to cluster9>>
+公園, 桜, 花見

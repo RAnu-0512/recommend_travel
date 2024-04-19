@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:半べえ庭園の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紅葉シーズン, 紅葉
+cluster1:(2)
+スポット, 料理
+cluster2:(1)
+庭
+cluster3:(1)
+広島
+cluster4:(1)
+観光スポット
+cluster5:(1)
+食事処
+cluster6:(1)
+半べえ庭園
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

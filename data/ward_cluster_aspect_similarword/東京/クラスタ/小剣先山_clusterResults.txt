@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小剣先山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+峰, 鉄, 鎖
+cluster1:(2)
+知識, 泣き
+cluster2:(5)
+景色, 頂上, 付近, 勾配, 集落
+cluster3:(1)
+良さ
+cluster4:(1)
+ぼぼ直
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

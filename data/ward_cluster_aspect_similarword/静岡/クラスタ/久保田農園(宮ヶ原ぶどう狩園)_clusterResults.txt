@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久保田農園(宮ヶ原ぶどう狩園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+気, スタッフ, 土産, 心配, 心, ハウス, 家族, 帰り, こと, あいにく, 仁科川, ぶどう, ところ, ピオーネ, 問題, 感じ, 中, しょう, 好み, 方
+cluster1:(7)
+雨, 枝, 水分, 台風, 屋根, 天気, 張り
+cluster2:(7)
+食べ放題, ぶどう狩り, 農園, 藤稔, 久保田農園, 甘いぶどう, 巨峰
+
+howmany entities : 34
+howmany clusters : 3
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 3
+deleted 0entities.

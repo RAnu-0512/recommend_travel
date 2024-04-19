@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゴールド川奈カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+プレー, こと, グリーン, スタッフ, 昼, 状態, 対応, 中スタート, クラブハウス, ハーフ, コース, バックティー
+cluster1:(2)
+強風, 霧
+cluster2:(1)
+名門コース
+cluster3:(1)
+コーライ芝
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 4entities.

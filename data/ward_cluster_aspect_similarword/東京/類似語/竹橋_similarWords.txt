@@ -1,0 +1,9 @@
+--------------------similar_words:竹橋--------------------
+top3 entities near to cluster0>>
+国立, 近代, 美術館
+top3 entities near to cluster1>>
+皇居, 半蔵門, 駅
+top3 entities near to cluster2>>
+名所, 科学, 文化
+top3 entities near to cluster3>>
+駅, 駅前, 公園

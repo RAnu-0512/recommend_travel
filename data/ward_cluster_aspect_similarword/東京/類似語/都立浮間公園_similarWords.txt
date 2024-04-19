@@ -1,0 +1,23 @@
+--------------------similar_words:都立浮間公園--------------------
+top3 entities near to cluster0>>
+舟渡, 北江古田, 戸田橋
+top3 entities near to cluster1>>
+徒歩, 駅分, 駅
+top3 entities near to cluster2>>
+休日, テニス, ジョギング
+top3 entities near to cluster3>>
+季節, 時期, 夏場
+top3 entities near to cluster5>>
+こか, しか
+top3 entities near to cluster6>>
+風車, 屋台, 夜店
+top3 entities near to cluster7>>
+公園, 遊具, 広場
+top3 entities near to cluster8>>
+噴水, 広場, 公園
+top3 entities near to cluster9>>
+水辺, 河川敷, 公園
+top3 entities near to cluster10>>
+区, 区内, 都
+top3 entities near to cluster11>>
+駐車

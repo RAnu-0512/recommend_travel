@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線町屋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅, 乗換駅, 乗り換え駅
+cluster1:(12)
+大手町, 活気, 店, 食事, 荒川線, 葬儀, 近く, 感じ, メトロ, 前, 雰囲気, 乗り換え
+cluster2:(3)
+都電, 千代田線, 都心
+cluster3:(5)
+京成線, 町屋斎場, 荒川区, 町屋駅, 京成電車
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

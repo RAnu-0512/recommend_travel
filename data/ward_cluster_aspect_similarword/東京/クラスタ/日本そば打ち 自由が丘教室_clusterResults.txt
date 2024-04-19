@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本そば打ち 自由が丘教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+誕生日, ぱり最高
+cluster1:(2)
+家, 部屋
+cluster2:(3)
+友達, 先生, 友人
+cluster3:(3)
+笑顔, 上手, 人柄
+cluster4:(2)
+場, 方向
+cluster5:(4)
+最後, 食後, 次, 説明
+cluster6:(6)
+人, 気, 事, とロウソク, 方, こと
+cluster7:(2)
+時期, 時間
+cluster8:(1)
+体験
+cluster9:(1)
+細部
+cluster10:(18)
+食器, 自由が丘, リピート, おもてなし, コーヒ, ケーキ, コーヒー, 持ち帰り, ワサビ, シーラー, サンタクロースエプロン, ひきたて, シフォンケーキ, 雰囲気, わさび, 蕎麦湯, 香り, 薬味
+cluster11:(4)
+食べ方, 楽しさ, 清潔感, 教え方
+cluster12:(13)
+そば打ち体験, 蕎麦がき, お蕎麦屋, そば粉, 蕎麦打ち教室, 蕎麦うち, 手打ち蕎麦, 蕎麦先生, そば, 蕎麦打ち, 蕎麦作り体験, 蕎麦打ち体験, 蕎麦
+
+howmany entities : 61
+howmany clusters : 13
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 13
+deleted 0entities.

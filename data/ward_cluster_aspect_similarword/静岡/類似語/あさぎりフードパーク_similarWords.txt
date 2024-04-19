@@ -1,0 +1,17 @@
+--------------------similar_words:あさぎりフードパーク--------------------
+top3 entities near to cluster0>>
+ぎり, あさ, ぎりに
+top3 entities near to cluster1>>
+土産, おみやげ, 土産物
+top3 entities near to cluster2>>
+抹茶, 茶, 緑茶
+top3 entities near to cluster3>>
+甘味, 甘み, 軽食
+top3 entities near to cluster5>>
+バター, マーガリン, ・エシレ
+top3 entities near to cluster6>>
+フード, パーク, コート
+top3 entities near to cluster9>>
+見学, 工場
+top3 entities near to cluster10>>
+地場, 産, 外国

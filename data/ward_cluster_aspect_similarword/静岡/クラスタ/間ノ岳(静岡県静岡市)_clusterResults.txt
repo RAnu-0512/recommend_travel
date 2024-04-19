@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:間ノ岳(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+北岳, 北岳山荘
+cluster1:(5)
+紅葉, 朝食, 宿, 景色, 雲
+cluster2:(4)
+時期, こと, 早め, 人気
+cluster3:(8)
+間ノ岳, 山登り, 初心者, 装備, 赤石岳, 人, 風, 山
+cluster4:(5)
+登山, 山梨, 山頂, 県境, 頂上
+cluster5:(1)
+案外楽
+
+howmany entities : 25
+howmany clusters : 6
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 3entities.

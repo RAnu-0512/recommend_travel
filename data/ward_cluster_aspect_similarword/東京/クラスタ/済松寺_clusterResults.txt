@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:済松寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+徳川家三代将軍, 徳川家光公
+cluster1:(2)
+寺院, 寺
+cluster2:(3)
+参道, 本堂, 境内
+cluster3:(8)
+尼, 信頼, 樹木, 塀, 弁天町, 門扉, 近く, 散策
+cluster4:(2)
+新宿区, 榎町
+cluster5:(1)
+済松寺
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小國神社花菖蒲園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+雨, 風情, しょうぶ, 時期, 花菖蒲, 紫, こと, 蓮華寺, 人, ピーク, 気持ち, 奥, 花, 白, 季節, 色
+cluster1:(5)
+敷地, 園内, 見学, 参拝, 神社
+cluster2:(6)
+散策路, 小国神社, 菖蒲園, 入場料, 菖蒲, 香勝寺
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 3
+deleted 0entities.

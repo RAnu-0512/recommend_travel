@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熊谷守一美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+熊谷守一, 熊谷様式, 熊谷
+cluster1:(2)
+具象画スタイル, 抽象度
+cluster2:(5)
+油絵, 絵, 美術, 写実, 墨絵
+cluster3:(15)
+中津川, 細やか, カフェ, 出身, 建物, 空間, タッチ, 単色, 奥, コーヒーカップ, 美術館, 中, 生地, 友人, 蟻
+cluster4:(2)
+岐阜県, 住宅街
+cluster5:(1)
+熊谷守一つけち記念館
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

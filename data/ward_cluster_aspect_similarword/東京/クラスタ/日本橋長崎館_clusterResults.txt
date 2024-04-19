@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本橋長崎館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+長崎県, 日本橋 長崎館, 長崎カステラ, 長崎
+cluster1:(2)
+観光, 観光案内
+cluster2:(3)
+名物, 名産, 物産
+cluster3:(7)
+店, 商売, 客, 界隈, 会計, 物販, 店内
+cluster4:(1)
+特産品
+cluster5:(23)
+カステラ, 売り子, 言葉, アンテナショップ, カフェ, イベント, 日本橋, ちゃんぽん, ゆるさ, ところ, 自覚, 種類, 近く, 面, 事, カステラアイス, 手, 銀座, アーティスト, 雰囲気, からすみ, もの, 金
+cluster6:(4)
+東京機, 東京, 東京駅, 八重洲口
+
+howmany entities : 44
+howmany clusters : 7
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 7
+deleted 0entities.

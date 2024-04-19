@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩市自然と歴史の展示館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+資料, 展示館, 資料館
+cluster1:(2)
+萩駅舎, 駅舎
+cluster2:(2)
+鉄道, 駅
+cluster3:(3)
+レトロ, もの, 見応え
+cluster4:(2)
+日本, 父
+cluster5:(1)
+萩
+cluster6:(1)
+井上勝
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

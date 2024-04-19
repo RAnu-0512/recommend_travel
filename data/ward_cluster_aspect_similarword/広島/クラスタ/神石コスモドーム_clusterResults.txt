@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神石コスモドーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+ドーム型, 講習, 観光スポット, テニス, 場所, スポーツ, テニスコート, オムニコート, オススメ, コスモドーム, メイン, ネーミング
+cluster1:(2)
+神石高原町, 神石コスモドーム
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

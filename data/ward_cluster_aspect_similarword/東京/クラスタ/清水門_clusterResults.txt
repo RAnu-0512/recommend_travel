@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+田安門, 田丸門, 門, 江戸城清水門, 清水門
+cluster1:(3)
+石段, 石垣, 階段
+cluster2:(3)
+面影, 印象, 魅力
+cluster3:(10)
+清水寺, つくり, 日本武道館, 文化財, 江戸城, 見ごたえ, 北の丸公園, 造り, 門構え, ルート
+cluster4:(4)
+場所, 国, こと, 時代
+cluster5:(3)
+北側, 近く, 規模
+cluster6:(1)
+幅
+cluster7:(1)
+古さ
+cluster8:(1)
+存在感
+cluster9:(11)
+九段下駅, 公園, 曲がり北, 千代田区, 皇居, 垂れ桜, 江戸, 千代田区役所, 江戸時代, 方面, 丸公園
+cluster10:(1)
+科学技術館
+
+howmany entities : 43
+howmany clusters : 11
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 11
+deleted 0entities.

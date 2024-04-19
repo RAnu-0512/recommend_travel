@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七瀬川渓流釣り場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小学生, 子ども
+cluster1:(1)
+イベント
+cluster2:(1)
+子
+cluster3:(1)
+魚
+cluster4:(1)
+つかみ取り大会
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

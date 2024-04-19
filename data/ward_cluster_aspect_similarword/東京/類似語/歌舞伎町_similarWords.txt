@@ -1,0 +1,31 @@
+--------------------similar_words:歌舞伎町--------------------
+top3 entities near to cluster0>>
+客引き, 歓楽街, 客寄せ
+top3 entities near to cluster1>>
+歌舞伎, ゴジラ, 伊勢丹
+top3 entities near to cluster2>>
+コロナ, シート, ヒーター
+top3 entities near to cluster3>>
+雰囲気, カメラ, 仕事場
+top3 entities near to cluster4>>
+映画, 上映, 公開
+top3 entities near to cluster5>>
+言葉, 一言, 意見
+top3 entities near to cluster6>>
+影響, 話題
+top3 entities near to cluster8>>
+短期, 長期, 短期間
+top3 entities near to cluster9>>
+駅前店, 繁華, 駅前
+top3 entities near to cluster10>>
+座席, 席, 座り
+top3 entities near to cluster12>>
+繁華街, 繁華, 歓楽街
+top3 entities near to cluster13>>
+劇場, コマ, アニメ
+top3 entities near to cluster14>>
+東宝, 松竹, 大映
+top3 entities near to cluster15>>
+広告, 宣伝, 映画
+top3 entities near to cluster16>>
+駅, 駅前, 改札

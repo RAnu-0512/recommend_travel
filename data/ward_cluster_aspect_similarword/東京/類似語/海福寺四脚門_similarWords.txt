@@ -1,0 +1,13 @@
+--------------------similar_words:海福寺四脚門--------------------
+top3 entities near to cluster1>>
+徒歩, 東口, 南口
+top3 entities near to cluster3>>
+羅漢寺, 海福寺, 宗円寺
+top3 entities near to cluster4>>
+朱色, 赤色, 黄色
+top3 entities near to cluster6>>
+明治, 大正, 幕末
+top3 entities near to cluster8>>
+建築学, 土木学, 建築, 土木
+top3 entities near to cluster9>>
+脚門, 四門, 脚, 四

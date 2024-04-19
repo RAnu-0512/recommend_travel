@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:皇居一般参観>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+カメラ撮影, ビデオ鑑賞, 掲示物, 整理券, 身分証, 予約画面, 団体行動, 予約番号, 注意事項, 写真撮影
+cluster1:(2)
+人たち, 人
+cluster2:(2)
+語, 言語
+cluster3:(2)
+ジオラマ模型, 遺構
+cluster4:(6)
+配布, 解説パネル, 売店, 見学, 受付, 説明
+cluster5:(2)
+宮殿, 庭
+cluster6:(9)
+ガイドツアー, 江戸城, ツアー, ユーモア, 宮内庁, トートバック, 日本, ガイド, スマホ
+cluster7:(2)
+仕事, 職員
+cluster8:(3)
+建物, 写真, 歴史
+cluster9:(6)
+途中, 余裕, 熱意, ほう, 時間, 体調
+cluster10:(2)
+窓明館, 桔梗門
+cluster11:(6)
+皇居, 参賀, 皇居見学, 皇居一般参観当日整理券, 皇居一般参観ツアー, 一般参観
+
+howmany entities : 52
+howmany clusters : 12
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 12
+deleted 0entities.

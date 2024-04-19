@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆりはまちょうかんこうきょうかい>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+観光, 観光地, 観光施設, 観光スポット, 観光案内所
+cluster1:(23)
+パンフ, パンフレット, 帰り, 受付, 冊子, 地図, おすすめ, 役, ゆり, 周辺, インパクト, 辺り, 他, 鳥取, 花火, 方, 景色, いくつか, トリパス, 情報, バス, 時間, 場所
+cluster2:(3)
+旅館, ハワイ温泉, 温泉
+cluster3:(2)
+温泉街, 街
+cluster4:(2)
+角地, 駐車場
+cluster5:(1)
+中国式庭園
+cluster6:(5)
+東郷湖, 東郷温泉, 〓三朝温泉, 中国庭園燕趙園, 湯梨浜町
+
+howmany entities : 41
+howmany clusters : 7
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 7
+deleted 0entities.

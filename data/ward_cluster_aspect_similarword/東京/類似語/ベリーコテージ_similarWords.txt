@@ -1,0 +1,17 @@
+--------------------similar_words:ベリーコテージ--------------------
+top3 entities near to cluster0>>
+摘み, 摘み取り, 摘む
+top3 entities near to cluster1>>
+喫茶店, カフェ, 喫茶
+top3 entities near to cluster2>>
+ジュース, フルーツ, 摘み取り
+top3 entities near to cluster3>>
+遣っ, 遣う
+top3 entities near to cluster4>>
+体験, 摘み取り, 見学
+top3 entities near to cluster5>>
+徒歩, 駅分, 駅
+top3 entities near to cluster6>>
+予約制, 定休, 予約
+top3 entities near to cluster7>>
+駅, 小作, 駅前

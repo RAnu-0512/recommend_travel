@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福一焼津流通センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+焼津庶民, 焼津, 焼津駅, 焼津流通センター
+cluster1:(3)
+地元, 因みに県, 遠方
+cluster2:(16)
+クリオネ, まぐろ, イベント, コストパフォーマンス, 人, 店, 種類, 感じ, ビジネスホテル, 買い物, 地元民, センター, ホタテ, マグロ, 方, 海産物
+cluster3:(3)
+台所, 野菜, 足
+cluster4:(12)
+魚, 菓子類, 冷凍物, 寿司, マグロ寿司, 鮪, 解体ショー, 魚センター, 金目鯛, 観光客, アジ, ひもの
+
+howmany entities : 38
+howmany clusters : 5
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 5
+deleted 0entities.

@@ -1,0 +1,25 @@
+--------------------similar_words:リフレッシュパーク豊浦--------------------
+top3 entities near to cluster0>>
+駐車料, 入場料, 駐車, 入場
+top3 entities near to cluster1>>
+子供, 家族, 子ども
+top3 entities near to cluster2>>
+バラ園, バラ, 薔薇園, 薔薇
+top3 entities near to cluster3>>
+公園, 遊具, 名所
+top3 entities near to cluster4>>
+季節, 秋, 時季
+top3 entities near to cluster6>>
+弁当, 代, 飲み物
+top3 entities near to cluster7>>
+花種, 花, お花
+top3 entities near to cluster8>>
+自宅, 奥, 手前
+top3 entities near to cluster9>>
+自然, 素朴, 花畑
+top3 entities near to cluster10>>
+罪悪感, 罪悪, ドキドキ・ワクワク
+top3 entities near to cluster13>>
+府長, 府, 同府
+top3 entities near to cluster14>>
+栽, 栽等, 栽場

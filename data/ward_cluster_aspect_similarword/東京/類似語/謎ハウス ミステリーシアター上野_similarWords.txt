@@ -1,0 +1,21 @@
+--------------------similar_words:謎ハウス ミステリーシアター上野--------------------
+top3 entities near to cluster0>>
+謎, ナゾ, 探偵
+top3 entities near to cluster1>>
+ゲーム, 部屋, 子供
+top3 entities near to cluster2>>
+自力, 知恵, 余裕
+top3 entities near to cluster4>>
+時間, 残り
+top3 entities near to cluster7>>
+日別, 月別, 日, 月
+top3 entities near to cluster8>>
+延長, 後日
+top3 entities near to cluster9>>
+恩, 弐本, 天
+top3 entities near to cluster10>>
+解き, 謎, 解く
+top3 entities near to cluster11>>
+店員, 店舗
+top3 entities near to cluster12>>
+脱出, 挑戦, 成功

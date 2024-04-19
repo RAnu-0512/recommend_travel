@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陸上自衛隊広報センター「りっくんランド」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+試着, 展示物, 展示
+cluster1:(18)
+センター, ランド, 場所, フライトシミュレータ, 価値, 本州, バナー, 家族, 施設, 興味, 体験, ヘリコプター, 博物館, シュミレーター, 装甲車, 方, こと, 防弾チョッキ
+cluster2:(6)
+ヘリコブラ, 射撃シミュレータ, 迷彩服, 戦車, 陸上自衛隊, ヘリ
+cluster3:(1)
+和光市駅
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 4
+deleted 0entities.

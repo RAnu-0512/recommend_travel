@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩川ラフティングツアー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天気, 景色
+cluster1:(14)
+水着, 多摩川, 初心者, 川, 水, 家族, 集合, 場所, タオル, メール, ラフティング, Tシャツ, あと, 待ち
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

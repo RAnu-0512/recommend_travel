@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みなと温泉ほのかみ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+貸し切り風呂, 家族風呂, 風呂, 天然温泉, 家族ぶろ, 浴槽
+cluster1:(8)
+露天風呂, 落ち度, 水, 感じ, 海, 水風呂, 常連, 気持ち
+cluster2:(3)
+カニ, 幼児, 子供
+cluster3:(1)
+挙句子供
+cluster4:(1)
+水木しげるロード
+cluster5:(1)
+夢みなとタワー
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

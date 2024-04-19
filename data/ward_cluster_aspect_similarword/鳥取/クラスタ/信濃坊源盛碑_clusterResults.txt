@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:信濃坊源盛碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+船上山, 碑, 僧兵, 参道, 大山寺, 後醍醐, 挙兵, 南側, 鳥居, 名和長利, 弟, 鎌倉幕府, 戦功, 名和, 説明板, 天皇, 出先機関
+cluster1:(2)
+宮の参道, 神山神社奥
+cluster2:(2)
+源盛, 信濃坊源盛
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

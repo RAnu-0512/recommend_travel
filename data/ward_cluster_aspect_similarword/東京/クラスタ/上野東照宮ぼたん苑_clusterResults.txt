@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野東照宮ぼたん苑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+入場, 時間帯, 入場料
+cluster1:(4)
+上野, 上野東照, 上野東照宮, 東照宮の参道
+cluster2:(28)
+東照宮, カボチャ, 開催, 華やかさ, 芍薬, 祭り, 花, 左手, 公園, 蝋梅, 冬, ハロウィン, 時期, 牡丹園, 入り口, 旅, ボタン, こじんまり, 敷地, タイミング, ダリア展, 雪, 概要, 境内, 説明, 牡丹, もの, 藁
+cluster3:(7)
+このぼたん園, ぼたん園, 上野恩賜公園, 上野東照宮ぼたん苑, 宮内のぼたん苑, ぼたん, 第40回ぼたん祭
+
+howmany entities : 42
+howmany clusters : 4
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 4
+deleted 0entities.

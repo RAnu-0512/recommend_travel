@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神田の家 井政>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+木造建築, 建築物, 材木問屋, 木造建造物, 材木商, 江戸時代以来木材商, 木造家屋, 木造
+cluster1:(3)
+店舗, 店舗併用, 店舗併用住宅
+cluster2:(2)
+数箇所, 古さ
+cluster3:(2)
+保存, 指定
+cluster4:(4)
+光景, 感じ, こと, もの
+cluster5:(8)
+カフェ, 関東大震災, 文化財, 見ごたえ, スポット, SNS, チーズケーキ, 雰囲気
+cluster6:(12)
+家屋, 裏手, 内部, 建物, 戦災, 家, 公園, 近く, 住宅, 路地, 歴史, 時代
+cluster7:(7)
+昭和, 木, 江戸時代, 遠藤, 桜, 宮本公園, 満開
+cluster8:(8)
+井政, 東京都, 神田, 千代田区, 家 井政, 東京神田, 神田明神, 府中市
+
+howmany entities : 54
+howmany clusters : 9
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 9
+deleted 0entities.

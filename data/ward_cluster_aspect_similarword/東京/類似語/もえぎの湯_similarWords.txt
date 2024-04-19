@@ -1,0 +1,47 @@
+--------------------similar_words:もえぎの湯--------------------
+top3 entities near to cluster0>>
+脱衣場, 駐車場, 脱衣, 駐車
+top3 entities near to cluster1>>
+温泉, 風呂, 湯船
+top3 entities near to cluster4>>
+洗い場, シャワー, スペース
+top3 entities near to cluster5>>
+露天風呂, 上がり湯, 内風呂
+top3 entities near to cluster6>>
+ドライブ, ハイキング, レストラン
+top3 entities near to cluster7>>
+レンタル, ロッカー, 貸し出し
+top3 entities near to cluster8>>
+ネット, インターネット, インタネット
+top3 entities near to cluster9>>
+サイズ, 寸法, ツーサイズ
+top3 entities near to cluster10>>
+帰り際, 帰り道, 帰りがけ
+top3 entities near to cluster11>>
+ゆとり, 余裕, クンニリング
+top3 entities near to cluster12>>
+口コミ, 評判, クチコミ
+top3 entities near to cluster13>>
+太陽光, 太陽熱, 発電
+top3 entities near to cluster14>>
+日帰り, 泊りがけ, 一泊
+top3 entities near to cluster15>>
+タオル, フェイス, タオル地
+top3 entities near to cluster16>>
+アカ, 垢, ツキ
+top3 entities near to cluster17>>
+順番, 記事, 話
+top3 entities near to cluster19>>
+男性, 女性, 人数
+top3 entities near to cluster20>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster21>>
+施設, 設備, 敷地
+top3 entities near to cluster22>>
+電車, 階段, 登山
+top3 entities near to cluster23>>
+景色, 景観, 自然
+top3 entities near to cluster24>>
+駅, 徒歩, 駅前
+top3 entities near to cluster25>>
+混雑, 利用, 時間

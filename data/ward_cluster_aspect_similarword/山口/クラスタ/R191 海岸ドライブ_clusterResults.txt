@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:R191 海岸ドライブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+渋滞, 交通量, 運送関係, 大渋滞
+cluster1:(5)
+響灘, 海風, 海側, 紺碧, 海
+cluster2:(14)
+横, JR, 稲荷, 大型トラック, 付近, 左手, 国道, 境, 西端, R191, 本州, 先端, 駅, 片側
+cluster3:(4)
+景色, 絶景, 天気, 晴天
+cluster4:(4)
+地, 温泉, 遠征, 観光
+cluster5:(2)
+感, 確
+cluster6:(2)
+空, 色
+cluster7:(4)
+市街地, 日本海, 海沿い, 山陰線
+cluster8:(3)
+ハイライト, リベンジ, ドライブ
+cluster9:(2)
+ところ, 気持ち
+cluster10:(1)
+マップ
+cluster11:(1)
+ドライブコース
+cluster12:(4)
+こと, 流れ, 日本, 今回
+cluster13:(1)
+本命
+cluster14:(1)
+泣く今回
+cluster15:(1)
+轍
+cluster16:(1)
+つばしき
+cluster17:(10)
+海岸線, 山陰ドライブ, 海岸沿い, 名道, 道, 山陰海岸, 道沿い, 北浦街道, 海岸, 海岸ドライブ
+cluster18:(7)
+山口県, 豊浦町, 角島大橋, 下関市, 豊北, 角島, 豊北町
+cluster19:(3)
+福徳稲荷神社, 千本鳥居, 津波敷
+
+howmany entities : 74
+howmany clusters : 20
+howmany entities (more than1entities) : 74
+howmany clusters (more than1entities) : 20
+deleted 0entities.

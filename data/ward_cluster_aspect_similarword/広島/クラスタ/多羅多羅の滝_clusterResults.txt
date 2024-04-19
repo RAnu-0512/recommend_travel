@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多羅多羅の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スポット, 裏見滝
+cluster1:(1)
+市街地
+cluster2:(1)
+マイナスイオン
+cluster3:(1)
+自然
+cluster4:(1)
+滝
+cluster5:(1)
+迫力
+cluster6:(1)
+観光スポット
+cluster7:(1)
+気温
+cluster8:(1)
+広島市
+cluster9:(1)
+多羅多羅
+
+howmany entities : 11
+howmany clusters : 10
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 10
+deleted 0entities.

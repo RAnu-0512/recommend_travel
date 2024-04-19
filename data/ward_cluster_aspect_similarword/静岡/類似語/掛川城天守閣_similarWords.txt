@@ -1,0 +1,15 @@
+--------------------similar_words:掛川城天守閣--------------------
+top3 entities near to cluster0>>
+豊臣, 一豊, 秀吉
+top3 entities near to cluster3>>
+天守閣, 外観, 町並み
+top3 entities near to cluster5>>
+木造, 地震, 平成
+top3 entities near to cluster7>>
+入口付近, 入り口付近, 入口, 入り口
+top3 entities near to cluster8>>
+城郭, 復元, 城跡
+top3 entities near to cluster9>>
+天守, 天守閣, 木造
+top3 entities near to cluster10>>
+名城, 百, ラリータ

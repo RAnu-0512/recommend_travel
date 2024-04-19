@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森の湯(ラフォーレ修善寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+露天風呂, コテージ
+cluster1:(1)
+気持ち
+cluster2:(1)
+施設
+cluster3:(1)
+風呂
+cluster4:(1)
+散歩
+cluster5:(1)
+距離
+cluster6:(1)
+内湯
+cluster7:(1)
+宿泊先
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山歴史公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+満開, 桜
+cluster1:(2)
+桜開花, 開花
+cluster2:(1)
+河津桜
+cluster3:(2)
+島内, 海
+cluster4:(4)
+車いす, 車, 公園, 道路
+cluster5:(1)
+展望
+cluster6:(1)
+支障
+cluster7:(1)
+駐車場
+cluster8:(1)
+上関城山歴史公園
+
+howmany entities : 15
+howmany clusters : 9
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 9
+deleted 0entities.

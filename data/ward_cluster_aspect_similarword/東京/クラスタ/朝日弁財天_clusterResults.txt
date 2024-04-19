@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝日弁財天>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+下谷七福神, 下谷七福神の弁財天様, 下谷七福神の朝日弁財天
+cluster1:(7)
+池, 散策, 建物, 公園, 本殿, 寺院, 寺
+cluster2:(4)
+昭和, 東, 下町, 北
+cluster3:(9)
+弁財天, 曹洞宗, 親子連れ, 多く, ひとつ, 語, 英, 七福神, 雰囲気
+cluster4:(1)
+淡いピンク色
+cluster5:(1)
+説明板
+cluster6:(7)
+朝日弁財天, 東京都, 三ノ輪駅, 弁天院, 入谷駅, 朝日弁財天様七福神, 児童公園
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 7
+deleted 0entities.

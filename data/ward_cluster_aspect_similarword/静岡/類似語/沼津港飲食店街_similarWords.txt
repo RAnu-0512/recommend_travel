@@ -1,0 +1,75 @@
+--------------------similar_words:沼津港飲食店街--------------------
+top3 entities near to cluster1>>
+チラシ, ライブ, コンサート
+top3 entities near to cluster3>>
+値打ち, コスパ, 買い方
+top3 entities near to cluster4>>
+あちこち, たくさん, 珍しい
+top3 entities near to cluster5>>
+アニメ, テレビ, 夏休み
+top3 entities near to cluster6>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster8>>
+オープン, スタート, メニュー
+top3 entities near to cluster18>>
+ランチ, ホテル, エリア
+top3 entities near to cluster19>>
+フライ, コーン, ライト
+top3 entities near to cluster20>>
+ホタテ, 味噌汁, 焼き魚
+top3 entities near to cluster22>>
+食べ物, ソフトクリーム, ラーメン
+top3 entities near to cluster24>>
+桜えび, 桜海老, しらす
+top3 entities near to cluster29>>
+海魚, 海水魚, 海水, 海
+top3 entities near to cluster31>>
+店先, 魚屋, 店内
+top3 entities near to cluster33>>
+風味, 市場
+top3 entities near to cluster34>>
+海鮮, 丼, 定食
+top3 entities near to cluster35>>
+エビ, 桜, 海老
+top3 entities near to cluster37>>
+天丼, 穴子, 天ぷら
+top3 entities near to cluster38>>
+定食, 刺身, 焼き魚
+top3 entities near to cluster44>>
+港, 海鮮, 海
+top3 entities near to cluster45>>
+魚類
+top3 entities near to cluster46>>
+白身魚, 白身, 魚介
+top3 entities near to cluster47>>
+干物, 冷凍, 乾物
+top3 entities near to cluster50>>
+アジ, 刺身, 鯛
+top3 entities near to cluster51>>
+鯛生, 鯛
+top3 entities near to cluster52>>
+漁港, 深海, 魚市場
+top3 entities near to cluster53>>
+丸, 新鮮, 天
+top3 entities near to cluster54>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster55>>
+寿司, 鮨, すし
+top3 entities near to cluster56>>
+寿司屋, 寿司, すし屋, すし
+top3 entities near to cluster57>>
+寿司, 鮨, すし
+top3 entities near to cluster58>>
+土産物屋, 土産屋, 土産, 土産物
+top3 entities near to cluster60>>
+土産, おみやげ, 土産物
+top3 entities near to cluster63>>
+店舗, 各店
+top3 entities near to cluster64>>
+時間, 時間帯, 平日帯, 平日
+top3 entities near to cluster65>>
+食べ放題, 食べ, たべ
+top3 entities near to cluster67>>
+料理, 食材, 逸品
+top3 entities near to cluster68>>
+食事, ご飯, 夕食

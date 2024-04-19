@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線 秋葉原駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+人, メトロ, 秋葉原, 日比谷線, 地下道, AKB, つくばエクスプレス, 乗り換え, ホーム
+cluster1:(3)
+流れ, 場所, 注意
+cluster2:(1)
+昭和
+cluster3:(4)
+駅, JR, 発車メロディ, 秋葉原駅
+cluster4:(1)
+電気街
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

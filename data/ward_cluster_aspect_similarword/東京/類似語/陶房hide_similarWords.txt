@@ -1,0 +1,19 @@
+--------------------similar_words:陶房hide--------------------
+top3 entities near to cluster0>>
+先生, センセ, センセー
+top3 entities near to cluster1>>
+学校, 高等, 中学校
+top3 entities near to cluster2>>
+時間, 日数分, 日数
+top3 entities near to cluster3>>
+男性, 女性, 男女
+top3 entities near to cluster4>>
+結論, 見解, 結論づける
+top3 entities near to cluster5>>
+興味, 関心, 興味津々
+top3 entities near to cluster6>>
+陶芸, 焼き物, 陶器
+top3 entities near to cluster7>>
+口調, 語調, 語り口
+top3 entities near to cluster8>>
+期間, 限定, 数量

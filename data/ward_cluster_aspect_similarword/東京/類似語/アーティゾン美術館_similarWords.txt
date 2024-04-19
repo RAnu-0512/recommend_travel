@@ -1,0 +1,39 @@
+--------------------similar_words:アーティゾン美術館--------------------
+top3 entities near to cluster0>>
+美術, 絵画, 芸術
+top3 entities near to cluster1>>
+対策, 探知, テロ
+top3 entities near to cluster2>>
+石橋, 磨季, 忍月
+top3 entities near to cluster4>>
+美術館, 博物館, 印象派
+top3 entities near to cluster5>>
+雰囲気, 楽しみ, 神経質
+top3 entities near to cluster6>>
+トイレ, カメラ, ロッカー
+top3 entities near to cluster8>>
+ルーム, ロッカー, お送り
+top3 entities near to cluster9>>
+帰る, 帰り道
+top3 entities near to cluster10>>
+紳士, 淑女, 客人
+top3 entities near to cluster12>>
+国宝, 文化財, カリスマレジェンド
+top3 entities near to cluster13>>
+休館, 開館, 入館
+top3 entities near to cluster14>>
+設計, ミス, 創業
+top3 entities near to cluster15>>
+駅, 駅前, 空港
+top3 entities near to cluster16>>
+展示, 出展, 展覧
+top3 entities near to cluster17>>
+工事, 改装, 改修
+top3 entities near to cluster18>>
+公開, 放送, 放映
+top3 entities near to cluster19>>
+建物, 館内, 新館
+top3 entities near to cluster20>>
+新築, 工事, 施工
+top3 entities near to cluster21>>
+警備員, 警備, 従業員, 従業

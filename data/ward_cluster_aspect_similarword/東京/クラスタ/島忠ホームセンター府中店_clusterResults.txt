@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島忠ホームセンター府中店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+商品数, 日用品
+cluster1:(2)
+雑, 粗末
+cluster2:(3)
+方, 見ごたえ, 値段
+cluster3:(4)
+女性スタッフ, 家具売り場, 男性担当, 接客
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

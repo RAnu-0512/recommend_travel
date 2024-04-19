@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤猪岩神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+再生, 復興, 再起, 被災
+cluster1:(2)
+山, 岩
+cluster2:(4)
+妻, オオクニヌシ, ハマグリ, ふたり
+cluster3:(2)
+方, 場所
+cluster4:(3)
+日本, 伝説, 各地
+cluster5:(3)
+命, 薬草, 力
+cluster6:(1)
+母神
+cluster7:(1)
+赤貝
+cluster8:(4)
+神社, 拝殿, 白兎神社, 駐車場
+cluster9:(5)
+大国主, 東日本大地震, 自然災害, 赤猪岩神社, 大国主の再生神話
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 10
+deleted 0entities.

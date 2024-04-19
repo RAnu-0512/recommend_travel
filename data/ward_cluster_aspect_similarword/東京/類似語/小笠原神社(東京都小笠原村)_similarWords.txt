@@ -1,0 +1,9 @@
+--------------------similar_words:小笠原神社(東京都小笠原村)--------------------
+top3 entities near to cluster0>>
+神社, 境内, 本殿
+top3 entities near to cluster1>>
+祭り, 石碑
+top3 entities near to cluster2>>
+拝殿, 本殿, 横
+top3 entities near to cluster4>>
+大祭, 例, アレ

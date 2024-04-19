@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はるひら丸遊覧船イルカ号>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+餌, エサやり, エサ
+cluster1:(6)
+船, 船底, グラスボート部, 船室, 出発, 出航
+cluster2:(2)
+魚, 魚たち
+cluster3:(3)
+海底, 海中, 海上
+cluster4:(2)
+沖, 波
+cluster5:(1)
+船酔い
+cluster6:(3)
+頭上スレスレ, 揺れ, 迫力
+cluster7:(17)
+最後, 部分, こと, 方, スペース, タイミング, 階段, 時間, カモメ, 上, 子供, トンビ, コインロッカー, 他, 追加, ほう, デッキ
+cluster8:(3)
+景色, 冬, 季節
+cluster9:(2)
+客, 座席
+cluster10:(1)
+窓越し
+cluster11:(1)
+上り下り
+cluster12:(1)
+最後尾
+
+howmany entities : 45
+howmany clusters : 13
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 6
+deleted 10entities.

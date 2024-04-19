@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柳井天満宮(菅原神社)_ソテツ群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+柳井天満宮, 拝殿, 境内, 神社
+cluster1:(10)
+柱, 感じ, 寛政, ソテツ, 門, 色, 木, 天神, 梁, 市
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

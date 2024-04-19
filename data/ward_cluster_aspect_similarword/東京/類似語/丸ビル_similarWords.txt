@@ -1,0 +1,97 @@
+--------------------similar_words:丸ビル--------------------
+top3 entities near to cluster0>>
+ビル, 高層, 商業
+top3 entities near to cluster1>>
+三菱地所, 丸ビル, 三井不動産
+top3 entities near to cluster2>>
+ベビーカー, おもちゃ, カップル
+top3 entities near to cluster3>>
+ビジネスマン, サラリーマン, 待ち合わせ
+top3 entities near to cluster4>>
+ハンバーガー, パティスリー, ハーブス
+top3 entities near to cluster5>>
+クリスマス, クリスマスツリー, イルミネーション
+top3 entities near to cluster6>>
+レストラン, ショッピング, エレベーター
+top3 entities near to cluster7>>
+コンランショップ, プレイスペース, キッズプレイスペース
+top3 entities near to cluster8>>
+アクセサリー, ファッション, ステーショナリー
+top3 entities near to cluster9>>
+ショッピングビル, ヤエチカ, イートパラダイス
+top3 entities near to cluster11>>
+カウンター, カウンタ, スタンディングカウンター
+top3 entities near to cluster12>>
+イベント, コンサート, アナウンス
+top3 entities near to cluster14>>
+テナント, フロア, ラウンジ
+top3 entities near to cluster15>>
+カメラ, デジカメ, パソコン
+top3 entities near to cluster16>>
+スペース, カフェ, イベント
+top3 entities near to cluster17>>
+プラン, コース, デイプラン
+top3 entities near to cluster18>>
+待ち時間, アクセス, 乗り継ぎ
+top3 entities near to cluster19>>
+おすすめ, オススメ, こだわり
+top3 entities near to cluster21>>
+つくり, つくる
+top3 entities near to cluster22>>
+コラボ, コラボレーション, コラボレート
+top3 entities near to cluster23>>
+シーン, テーマ, ジャンル
+top3 entities near to cluster24>>
+地下鉄, 地下道, 新幹線
+top3 entities near to cluster25>>
+フロア, 最上階, 各階
+top3 entities near to cluster26>>
+カフェ, ランチ, レストラン
+top3 entities near to cluster27>>
+ヒレ, ひれ
+top3 entities near to cluster28>>
+丸ビル, 駅前, 南口
+top3 entities near to cluster30>>
+存在感, 嫌悪感, 存在, 嫌悪
+top3 entities near to cluster31>>
+料理, 和食, 洋食
+top3 entities near to cluster32>>
+景色, 夜景, 眺め
+top3 entities near to cluster33>>
+窓際, 席, 窓側
+top3 entities near to cluster34>>
+客層, 店舗
+top3 entities near to cluster35>>
+予約, 無料, 利用
+top3 entities near to cluster36>>
+出張, 休日, 週末
+top3 entities near to cluster37>>
+映画, 音楽, 会社
+top3 entities near to cluster38>>
+観劇, 公演, 鑑賞
+top3 entities near to cluster39>>
+家族, 友達, 子供
+top3 entities near to cluster40>>
+天気雨, 天気, 道路
+top3 entities near to cluster43>>
+1, ., 2
+top3 entities near to cluster44>>
+地下階, 地下, 地上
+top3 entities near to cluster45>>
+タイム, ショー, パン
+top3 entities near to cluster46>>
+丸, 赤, 茶
+top3 entities near to cluster47>>
+展望, 眺望, 見晴らし
+top3 entities near to cluster48>>
+飲食街, 繁華街, 繁華, 飲食
+top3 entities near to cluster49>>
+昼, 夜, 夕方
+top3 entities near to cluster50>>
+記念, 間近, 写真
+top3 entities near to cluster51>>
+友達, 同士, 家族
+top3 entities near to cluster52>>
+休憩, 時間
+top3 entities near to cluster53>>
+皇居, 歩道, 行幸

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小笠原ダイビングセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+事前連絡, 確認事項, お迎え等々, 事前
+cluster1:(2)
+所, 料金
+cluster2:(2)
+宿, 船
+cluster3:(1)
+乗客
+cluster4:(9)
+スタッフ, 小笠原, ダイビング, メール, 対応, ショップ, 体験ダイビング, 気遣い, 電話
+cluster5:(2)
+久方, 小笠原丸
+cluster6:(1)
+老舗故
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

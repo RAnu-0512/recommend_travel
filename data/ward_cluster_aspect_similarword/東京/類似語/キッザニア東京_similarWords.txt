@@ -1,0 +1,151 @@
+--------------------similar_words:キッザニア東京--------------------
+top3 entities near to cluster0>>
+時間, 終了, 期間
+top3 entities near to cluster1>>
+時間, 日数, 制限
+top3 entities near to cluster2>>
+時間待ち, 混雑, 時間
+top3 entities near to cluster3>>
+入場, 入館, 来場
+top3 entities near to cluster4>>
+予約, 予約制, 受付
+top3 entities near to cluster5>>
+整理券, 整理, 発券
+top3 entities near to cluster6>>
+割引券, 割引, 割引き
+top3 entities near to cluster7>>
+体験, 体験談, 体感
+top3 entities near to cluster8>>
+体験, 職業, 施設
+top3 entities near to cluster9>>
+限定, 期間, 体験
+top3 entities near to cluster10>>
+看護士, 救命士, 看護, 救命
+top3 entities near to cluster11>>
+タイム, マシン, スタンプ
+top3 entities near to cluster12>>
+イベント, ショップ, グッズ
+top3 entities near to cluster13>>
+デビュー, スタート, キャンセル
+top3 entities near to cluster14>>
+アトラクション, テーマパーク, パビリオン
+top3 entities near to cluster15>>
+グループ, それぞれ, 各々
+top3 entities near to cluster16>>
+キャビンアテンダント, コスチューム, ユニフォーム
+top3 entities near to cluster17>>
+アクティビティ, アクティビティー, プログラム
+top3 entities near to cluster18>>
+システム, タイミング, パートナー
+top3 entities near to cluster19>>
+リクエスト, エントリー, エントリ
+top3 entities near to cluster20>>
+パスワード, 暗証, ワンタイムパス
+top3 entities near to cluster21>>
+アルソック, アルソックホール, アルソックﾌﾞｯｸｽ
+top3 entities near to cluster22>>
+ハンバーガー, アイスクリーム, お菓子
+top3 entities near to cluster23>>
+二部, 須乗, 榎市
+top3 entities near to cluster24>>
+小さめ, ブカブカ, 大きめ
+top3 entities near to cluster25>>
+目当て, 手持ち, めぼしい
+top3 entities near to cluster27>>
+お母さん, お子さん, 我が家
+top3 entities near to cluster28>>
+こっち, ラッキー, キラッキラ
+top3 entities near to cluster29>>
+おかげ, クタクタ, ヘトヘト
+top3 entities near to cluster30>>
+間違え, まちがえ, 間違える
+top3 entities near to cluster31>>
+後ろ姿, 後姿, うしろ姿
+top3 entities near to cluster32>>
+レベル, ハードル, レヴェル
+top3 entities near to cluster33>>
+ストレス, 待ち時間, パニック
+top3 entities near to cluster34>>
+アングル, スタイル, バランス
+top3 entities near to cluster35>>
+かんじ, 気持ち, 仕組み
+top3 entities near to cluster36>>
+使い方, マナー, 気配り
+top3 entities near to cluster38>>
+よそ, 周り, 勝手
+top3 entities near to cluster40>>
+互い, お互い, 双方
+top3 entities near to cluster42>>
+利用, 確認, 参加
+top3 entities near to cluster44>>
+満足度, 満足, 納得度, 納得
+top3 entities near to cluster45>>
+上手, 難い, コツ
+top3 entities near to cluster46>>
+興味, 機会, 経験
+top3 entities near to cluster47>>
+遣っ, 遣う
+top3 entities near to cluster52>>
+工場, 食品, 原料
+top3 entities near to cluster53>>
+ピザ屋, パン屋, ピザ, パン
+top3 entities near to cluster54>>
+子供, 子ども, 親
+top3 entities near to cluster55>>
+子, 姉ちゃん, 兄ちゃん
+top3 entities near to cluster57>>
+子, 家の子, 目の子
+top3 entities near to cluster58>>
+甥っ子, 姪っ子, 甥, 姪
+top3 entities near to cluster59>>
+学校, 遠足, 入学
+top3 entities near to cluster60>>
+幼稚園, 小学校, 運動会
+top3 entities near to cluster61>>
+子ども, こども, お子様
+top3 entities near to cluster62>>
+小学生, 中学生, 男の子
+top3 entities near to cluster63>>
+春休み, 夏休み, 冬休み
+top3 entities near to cluster64>>
+友達, 家族, パパ
+top3 entities near to cluster65>>
+休日, 料金, ゴールデンウィーク
+top3 entities near to cluster66>>
+大工, 棟梁, 左官
+top3 entities near to cluster67>>
+子供, 息子, 長女
+top3 entities near to cluster68>>
+人達, 大勢
+top3 entities near to cluster69>>
+施設, 館内, レストラン
+top3 entities near to cluster70>>
+渦, コロナ, 餓流
+top3 entities near to cluster71>>
+バッジ, 缶, カン
+top3 entities near to cluster72>>
+上着, 薄着, 軽装
+top3 entities near to cluster73>>
+ヘア, カー, イチ
+top3 entities near to cluster74>>
+表情, 笑顔
+top3 entities near to cluster75>>
+足手, 腕, 足
+top3 entities near to cluster76>>
+人数, 年齢, 学年
+top3 entities near to cluster77>>
+写真, 撮影, 動画
+top3 entities near to cluster78>>
+日, 月, 誕生
+top3 entities near to cluster79>>
+未, 就学, 伊藤
+top3 entities near to cluster80>>
+姿, 格好, 後姿
+top3 entities near to cluster81>>
+仕事, 給料, 内容
+top3 entities near to cluster82>>
+職業観, 職業, 世界観, 世界
+top3 entities near to cluster83>>
+休暇, 振替, 休日
+top3 entities near to cluster84>>
+バス車, バス, 電車

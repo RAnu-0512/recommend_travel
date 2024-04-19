@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トクリン こんどうちゃんきのこ農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+たけ, たけ狩り
+cluster1:(2)
+収穫体験, 体験
+cluster2:(2)
+家族, 友達
+cluster3:(2)
+しいたけ, 前回
+cluster4:(1)
+店主
+cluster5:(1)
+人柄
+cluster6:(1)
+肉厚
+
+howmany entities : 11
+howmany clusters : 7
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 7
+deleted 0entities.

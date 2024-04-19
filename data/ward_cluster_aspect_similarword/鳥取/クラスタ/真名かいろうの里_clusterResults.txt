@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真名かいろうの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+焼締め, 真名焼
+cluster1:(3)
+釉薬, 窯元, 陶芸体験
+cluster2:(14)
+粗目, 特徴, 土, 連休, 味, 灯油, 火, 薪, 風合い, 焼き物作り, 焼き物, 色, 友人たち, 独特
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:体験学習館モンスタ--------------------
+top3 entities near to cluster0>>
+動物, 子ども, 子供
+top3 entities near to cluster1>>
+売店, キオスク, 土産物
+top3 entities near to cluster2>>
+動物園, 植物園, 動物, 植物

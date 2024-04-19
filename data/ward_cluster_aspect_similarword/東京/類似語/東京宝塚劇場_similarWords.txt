@@ -1,0 +1,35 @@
+--------------------similar_words:東京宝塚劇場--------------------
+top3 entities near to cluster0>>
+有楽町線, 銀河系, 銀河
+top3 entities near to cluster1>>
+本拠地, 最寄り, 本拠
+top3 entities near to cluster2>>
+入り口, 出入り口, ロビー
+top3 entities near to cluster3>>
+チケット, 前売り, コンサート
+top3 entities near to cluster4>>
+イベント, コンセプト, ストーリー
+top3 entities near to cluster5>>
+衣装, ダンス, 衣裳
+top3 entities near to cluster6>>
+グラス, ワイン, シャンパン
+top3 entities near to cluster7>>
+スター, トップ, バックス
+top3 entities near to cluster8>>
+会場, 公演, 客席
+top3 entities near to cluster10>>
+銅像, 胸像
+top3 entities near to cluster11>>
+友達, 友人
+top3 entities near to cluster14>>
+有数, 世界, 各地
+top3 entities near to cluster16>>
+女性人, 男性人, 女性, 男性
+top3 entities near to cluster17>>
+駅, 徒歩, 駅前
+top3 entities near to cluster22>>
+河, 赤い, 天
+top3 entities near to cluster24>>
+劇場, 劇場版, 公演版, 公演
+top3 entities near to cluster25>>
+公演, 休演, 千秋楽

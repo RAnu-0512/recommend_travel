@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉水園(広島県安芸太田町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+建物, 散歩, 紅葉, 雰囲気, 風情, かやぶき屋根
+cluster1:(3)
+安芸太田町, 広島県, 山県郡
+cluster2:(2)
+吉水園, 加計
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

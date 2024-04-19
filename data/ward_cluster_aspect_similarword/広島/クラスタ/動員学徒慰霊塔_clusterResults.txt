@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:動員学徒慰霊塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+慰霊碑, 慰霊塔
+cluster1:(3)
+学徒, 学徒動員, 勤労奉仕
+cluster2:(12)
+原爆ドーム, 近く, 犠牲, 戦争, 塔, 原爆, 高さ, 様子, レリーフ, 男子学生, 平和, 女学生
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

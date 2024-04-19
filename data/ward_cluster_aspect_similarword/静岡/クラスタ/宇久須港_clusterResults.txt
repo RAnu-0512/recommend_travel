@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇久須港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+釣り, 堤防釣り, 堤防, カゴ釣り, 釣り人
+cluster1:(9)
+魚, 多く, 釣り場, 関東, カワハギ, 店, テトラポット, 中央, 条件
+cluster2:(5)
+宇久須港, 集落, 西伊豆地区, 港, 伊豆西海岸
+cluster3:(1)
+昼休憩
+cluster4:(1)
+国道沿い
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 2entities.

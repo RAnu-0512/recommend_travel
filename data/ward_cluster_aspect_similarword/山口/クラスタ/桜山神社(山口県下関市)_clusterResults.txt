@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桜山神社(山口県下関市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+社殿, 裏手, 住宅街, 石段, 正面, 鳥居
+cluster1:(2)
+厳島神社, 招魂場
+cluster2:(1)
+吉田松陰
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

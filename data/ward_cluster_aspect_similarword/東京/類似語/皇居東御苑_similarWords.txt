@@ -1,0 +1,97 @@
+--------------------similar_words:皇居東御苑--------------------
+top3 entities near to cluster0>>
+閉園, 時間, 開園
+top3 entities near to cluster1>>
+入場, 入場券, 入館券, 入館
+top3 entities near to cluster2>>
+入園料, 入場料, 入場, 入園
+top3 entities near to cluster3>>
+入園, 入学, 入場
+top3 entities near to cluster4>>
+年間数, 年間, 入園
+top3 entities near to cluster6>>
+大嘗祭, 宮内庁, 皇室
+top3 entities near to cluster8>>
+出入口, 出入り, 出入り口
+top3 entities near to cluster9>>
+車椅子, トイレ, ベンチ
+top3 entities near to cluster10>>
+カバン, 警察官, 鞄
+top3 entities near to cluster11>>
+買い物, ランチ, 買物
+top3 entities near to cluster12>>
+飲み物, グッズ, グッツ
+top3 entities near to cluster13>>
+手荷物, 荷物, バゲッジ
+top3 entities near to cluster14>>
+見どころ, 見所, 遊歩道
+top3 entities near to cluster15>>
+気分, 転換, 高揚
+top3 entities near to cluster16>>
+個所, 箇所, 部分
+top3 entities near to cluster20>>
+遣っ, 遣う
+top3 entities near to cluster21>>
+風情, 名残, 姿
+top3 entities near to cluster22>>
+体験, 経験, 実体験
+top3 entities near to cluster23>>
+体力, ＨＰ, 気力
+top3 entities near to cluster24>>
+価値, 余裕, 一杯
+top3 entities near to cluster25>>
+大勢, 人達, 人々
+top3 entities near to cluster27>>
+多数, 数多い
+top3 entities near to cluster28>>
+圧巻, 見所, 注目
+top3 entities near to cluster29>>
+早朝, 午前, 夕方
+top3 entities near to cluster30>>
+外国人, 外国, 子供
+top3 entities near to cluster32>>
+散策, 散歩, 史跡
+top3 entities near to cluster33>>
+都心, 駅, 駅前
+top3 entities near to cluster34>>
+天皇, 皇室, 皇族
+top3 entities near to cluster35>>
+天守閣, 城, 石垣
+top3 entities near to cluster36>>
+松池, 松石, 松
+top3 entities near to cluster37>>
+緑, 黒, 白
+top3 entities near to cluster38>>
+草花, 季節, 花
+top3 entities near to cluster39>>
+芝生, 広場, 原っぱ
+top3 entities near to cluster40>>
+天気雨, 天候, 天気
+top3 entities near to cluster41>>
+中庭, 建物, 入り口
+top3 entities near to cluster42>>
+風景, 景観, 景色
+top3 entities near to cluster43>>
+丸, 庭, 城
+top3 entities near to cluster44>>
+庭園, 園内
+top3 entities near to cluster45>>
+尚, 絅中, 絅校
+top3 entities near to cluster46>>
+関所, 役人, 船蔵
+top3 entities near to cluster47>>
+天守台, 天守, 櫓台, 櫓
+top3 entities near to cluster49>>
+本丸, 跡, 三の丸
+top3 entities near to cluster50>>
+跡, 遺構, 跡地
+top3 entities near to cluster51>>
+本丸, 三の丸, 城内
+top3 entities near to cluster52>>
+皇居, 乾, 秋季
+top3 entities near to cluster53>>
+皇居, 吹上御苑, 東宮御所
+top3 entities near to cluster54>>
+御苑, 皇居, 外苑
+top3 entities near to cluster55>>
+御苑, 外苑, 市ヶ谷

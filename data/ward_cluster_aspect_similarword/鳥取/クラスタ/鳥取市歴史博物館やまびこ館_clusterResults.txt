@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取市歴史博物館やまびこ館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+鳥取東照宮, 兵糧攻め, 鳥取地震, 鳥取城, 羽柴秀吉, JR鳥取駅, 鳥取藩, 鳥取, 吉川経家, 鳥取県, 樗谿公園, 鳥取大火, 鳥取駅
+cluster1:(2)
+やまびこ館, 館
+cluster2:(7)
+世界, 歴史, 公園, 災害, 絵本, 文化, 街
+cluster3:(5)
+記録, 参考, 映像, 価格, 資料
+cluster4:(14)
+場所, ビデオ, 到着, こと, 子ども, 地元, 名, 他, 大人, 博物館, キャシー中島キルト, 途中, 側, 成り立ち
+cluster5:(1)
+徒歩
+cluster6:(1)
+江戸時代
+cluster7:(9)
+常設展, 展示, 特別展, 館蔵品展III, 見学者, 入館者, 常設展示, 展示物, 常設
+
+howmany entities : 52
+howmany clusters : 8
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,31 @@
+--------------------similar_words:東京カテドラル聖マリア大聖堂--------------------
+top3 entities near to cluster0>>
+聖堂, 目白, 教会
+top3 entities near to cluster1>>
+ホテル, 教会, ステンドグラス
+top3 entities near to cluster2>>
+大, 超大, 異
+top3 entities near to cluster3>>
+印象, 雰囲気, 意味
+top3 entities near to cluster4>>
+建物, 外観, 内部
+top3 entities near to cluster5>>
+訪問, 来訪, 視察
+top3 entities near to cluster7>>
+喧騒, 残響, 喧噪
+top3 entities near to cluster8>>
+徒歩, 駅, 都庁
+top3 entities near to cluster10>>
+宗教, 信者, 教会
+top3 entities near to cluster11>>
+聖堂, 教会, 地下
+top3 entities near to cluster12>>
+教会, カトリック, 教会堂
+top3 entities near to cluster13>>
+教会, カトリック, 教会堂
+top3 entities near to cluster14>>
+教会, 母, 牧師
+top3 entities near to cluster15>>
+教会, 地方, 教区
+top3 entities near to cluster16>>
+建築, 建物, 芸術

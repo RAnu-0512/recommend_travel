@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安芸灘オレンジライン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ナガタニ展望台, 瀬戸展望台
+cluster1:(10)
+フェリー, 御手洗, ドライブ, 写真, こと, 途中, 岡村島, 時間, 橋, 景色
+cluster2:(2)
+各島, 今治
+cluster3:(2)
+安芸灘大橋, 岡村港
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

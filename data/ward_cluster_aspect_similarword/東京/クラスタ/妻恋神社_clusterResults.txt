@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妻恋神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(36)
+パワースポット, 途中, 案内板, 神社, 主祭神, 場所, もの, 建物, 関東大震災, 戦災, 御朱印, 鳥居, ところ, 夫婦, 近く, 方たち, 幟, 町内, 名前, 由来, 被害, 管理, 南, 徒歩, 宮司, 北, 敷地, 方, 歴史, こと, 下, 社殿, 境内, 路地, 妻, 階段
+cluster1:(4)
+妻恋坂, 妻恋神社, 妻恋, ここ妻恋神社
+cluster2:(5)
+明神, 湯島天満宮, 坂, 神田明神, 清水坂
+cluster3:(2)
+日本武尊, 関東惣
+cluster4:(1)
+妃弟橘姫命
+cluster5:(1)
+倉稲魂命・日本武尊・弟橘媛命
+
+howmany entities : 49
+howmany clusters : 6
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 6
+deleted 0entities.

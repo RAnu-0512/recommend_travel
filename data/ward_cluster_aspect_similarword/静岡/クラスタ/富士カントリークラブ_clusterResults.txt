@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+名門ゴルフコース, 名門コース, 名門ゴルフクラブ
+cluster1:(2)
+設計建築, 平屋風作り
+cluster2:(23)
+アクセス, 配置, インター, グリーン, ゴルフ場, ゴルフコンペ, 御殿場インター, 富士カントリークラブ, 御殿場, 木造, クラブハウス, コース, ゴルフ, 外国人, コース全体, 歴史, 時間, 富士山, 自然, 場所, 老舗, 基本精神, 傾斜
+cluster3:(1)
+登録有形文化財
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 3entities.

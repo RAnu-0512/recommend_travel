@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関つくの温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+風呂, 日帰り温泉, 温泉
+cluster1:(4)
+前, ひとこと, 外, 露天風呂
+cluster2:(2)
+風, 海
+cluster3:(3)
+眺望, 値段, 料金
+cluster4:(1)
+お湯加減
+cluster5:(1)
+下関つく
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

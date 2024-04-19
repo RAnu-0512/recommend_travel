@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:釜の淵公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 有料駐車場, 駐車場料金
+cluster1:(3)
+灰皿, 携帯灰皿, 喫煙者
+cluster2:(2)
+直火, 火
+cluster3:(3)
+降り橋, 畝り, 青梅駅
+cluster4:(2)
+ゴミ置き場, ゴミ
+cluster5:(13)
+緑, 河原, 夏, 冬, 川, 地面, 橋, 石, 桜, 亀井ホテル, 網, 炭, 焚き火台
+cluster6:(21)
+設置, 場所, 景色, ライフジャケット, 公園, 人, 多摩川, 着用, 持ち帰り, 見所, 持参, 前提, 車, 流れ, 前, スポット, 変わり, コンロ, バーベキュー, 目, 焚き火
+
+howmany entities : 47
+howmany clusters : 7
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 7
+deleted 0entities.

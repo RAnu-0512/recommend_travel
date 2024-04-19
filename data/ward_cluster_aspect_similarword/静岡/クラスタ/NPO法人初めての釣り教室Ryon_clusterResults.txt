@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NPO法人初めての釣り教室Ryon>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+釣り教室, 魚, 竿, 釣り, つり, 糸
+cluster1:(12)
+人, こと, そば, たるみ, 感激, 息子, 持ち方, 教室, 夏休み, 写真, 小学生, 面倒
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

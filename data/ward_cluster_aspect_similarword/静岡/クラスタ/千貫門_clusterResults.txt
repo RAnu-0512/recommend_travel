@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千貫門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+穴の開いた岩, 牛着岩越し
+cluster1:(2)
+雲見温泉, 雲見
+cluster2:(2)
+足湯, 足湯温泉
+cluster3:(9)
+正月休み, 夕日, 海水浴旅行, 宿, 民宿, 夕陽, 景色, 民宿街, 絶景
+cluster4:(6)
+景観地, 入場料, 利用川沿い, 駐車場, 天気よく波立コバルトブルー, 海岸線
+cluster5:(16)
+シュノーケル, 熱帯魚, ビーチ, 山歩き, 富士山, アプローチ, 遊歩道, 土砂崩れ, 通行止め, タオル, クルージング, あちこち, 火山岩, 千貫門, 烏帽子山, リタイヤ
+cluster6:(4)
+開通, 管理, 維持, 挑戦
+cluster7:(2)
+階段, 下り
+cluster8:(2)
+散歩, 帰り
+cluster9:(1)
+上流
+cluster10:(8)
+人, 時間, 中, 先, 途中, 前, 目, 近く
+cluster11:(3)
+写真, 右, 看板
+cluster12:(4)
+道, 場所, 行き方, ドライブルート
+cluster13:(4)
+徒歩, 裏手, 距離, 周辺
+cluster14:(2)
+時期, 状況
+cluster15:(4)
+方, 気, 様子, 事
+cluster16:(1)
+注意
+cluster17:(1)
+間近
+cluster18:(4)
+見所, 魅力, 迫力, 価値
+cluster19:(19)
+海越し, 富士, 穴, 海岸, 小魚, 岩, 貫門ビーチ, 竹, 石, 光, 海水, 門, 浜, 透明度, 海, 土砂, 伊豆, 山, 穴越し
+
+howmany entities : 96
+howmany clusters : 20
+howmany entities (more than3entities) : 81
+howmany clusters (more than3entities) : 11
+deleted 15entities.

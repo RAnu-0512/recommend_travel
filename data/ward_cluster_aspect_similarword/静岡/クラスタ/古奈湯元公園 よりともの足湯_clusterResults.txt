@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古奈湯元公園 よりともの足湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+古奈湯元公園, 古奈地区
+cluster1:(2)
+駐車場, 観光客
+cluster2:(15)
+北, 温泉, 温泉街, 足湯, 熱め, 狩野川, もの, ところ, お湯, 伊豆, 道路, 公園, もの足湯, 湯口, アクシスかつらぎ
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 4entities.

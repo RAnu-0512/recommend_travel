@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陸奥公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ピクニック感覚, 多数
+cluster1:(7)
+水族館, 公園, 海, 近く, レストラン, 海辺, 海水浴
+cluster2:(1)
+弁当
+cluster3:(1)
+犠牲者
+cluster4:(4)
+陸奥野営場, 戦艦陸奥, 陸奥記念館, 陸奥記念公園
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 5
+deleted 0entities.

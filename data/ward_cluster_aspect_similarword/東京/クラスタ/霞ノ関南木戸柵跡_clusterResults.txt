@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霞ノ関南木戸柵跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+和田合戦, 横山党, 鎌倉街道, 京王, 永山駅
+cluster1:(2)
+丸太, 関
+cluster2:(3)
+豪族, 残党, 跡地
+cluster3:(1)
+元年
+cluster4:(1)
+柵跡
+cluster5:(1)
+建保
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鏡山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+回り運動不足, 児童遊具広場
+cluster1:(4)
+広島県, 東広島市, 鏡山公園, 鏡山
+cluster2:(7)
+砂場, 運動, 広場, 散歩, 公園, 遊具, 犬
+cluster3:(2)
+青シート, 池
+cluster4:(2)
+桜, 花見
+cluster5:(3)
+時期, 季節, 春
+cluster6:(8)
+方, 地元, 人気, ほう, 多く, 近く, こと, 場所
+cluster7:(13)
+スペース, 子供, 広島大学, ハイキングコース, おじいちゃん, ボール, シーズン, 人, 家族, 森林公園, 子ども, ハッチョウトンボ, 自然
+cluster8:(1)
+子さん
+cluster9:(2)
+駐車場, 花見客
+cluster10:(1)
+ボーボー
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 11
+deleted 0entities.

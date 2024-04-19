@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:根雨>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+町並み, 雰囲気
+cluster1:(1)
+オシドリ
+cluster2:(1)
+雪
+cluster3:(1)
+宿場
+cluster4:(1)
+鳥取県
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤蛙公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+島木健作, 作家島木健作
+cluster1:(4)
+東屋, 赤蛙公園, 休憩場所, 公園
+cluster2:(18)
+療養, 赤蛙, 流れ, 姿, イベント, 己, ホタルの夕べ, ベンチ, 蛍, 夕べ, ほとり, 感じ, 晩年, 地, 場所, 散歩, ホタル, 小説
+cluster3:(6)
+修善寺温泉街, 川沿い, 滝下橋, 川上, 小川, 桂川
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 2entities.

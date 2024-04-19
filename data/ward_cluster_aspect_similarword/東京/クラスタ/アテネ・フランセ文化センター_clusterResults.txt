@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アテネ・フランセ文化センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+御茶ノ水, フランス
+cluster1:(1)
+水道橋
+cluster2:(1)
+間
+cluster3:(1)
+映画
+cluster4:(1)
+文化センター
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

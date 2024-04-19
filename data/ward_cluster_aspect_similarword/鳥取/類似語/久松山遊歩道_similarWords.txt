@@ -1,0 +1,17 @@
+--------------------similar_words:久松山遊歩道--------------------
+top3 entities near to cluster0>>
+山道, 枝道
+top3 entities near to cluster1>>
+遊歩道, 人達
+top3 entities near to cluster3>>
+山頂, 頂上, 中腹
+top3 entities near to cluster4>>
+足, 後足, 両足
+top3 entities near to cluster5>>
+荷物, 手荷物, スーツケース
+top3 entities near to cluster6>>
+三, 四, 五
+top3 entities near to cluster8>>
+登山口, 登山, 山頂
+top3 entities near to cluster9>>
+櫓, 天守, 天守閣

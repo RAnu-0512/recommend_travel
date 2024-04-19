@@ -1,0 +1,13 @@
+--------------------similar_words:みずのとう公園--------------------
+top3 entities near to cluster0>>
+東口, 南口, 駅
+top3 entities near to cluster1>>
+公園墓, 公園, 墓地
+top3 entities near to cluster2>>
+哲学堂, 績文堂, 哲学, 績文
+top3 entities near to cluster3>>
+都営, バス, 都営地下鉄
+top3 entities near to cluster4>>
+円了, 井上, 圓了
+top3 entities near to cluster5>>
+巡礼, 聖地, 歩き

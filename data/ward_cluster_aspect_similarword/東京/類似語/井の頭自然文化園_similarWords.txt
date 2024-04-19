@@ -1,0 +1,73 @@
+--------------------similar_words:井の頭自然文化園--------------------
+top3 entities near to cluster0>>
+展示, 彫刻, 入場
+top3 entities near to cluster1>>
+井の頭公園, はな子, バウスシアター
+top3 entities near to cluster2>>
+淡水魚, 水族館, 魚類
+top3 entities near to cluster3>>
+乗り物, 生き物, ボート
+top3 entities near to cluster4>>
+ウサギ, カピバラ, プレリードッグ
+top3 entities near to cluster5>>
+小さ目, 小さめ, 大きめ
+top3 entities near to cluster6>>
+家族づれ, カップル, 親子づれ
+top3 entities near to cluster7>>
+チケット, パスポート, コンサート
+top3 entities near to cluster8>>
+オススメ, おすすめ, お薦め
+top3 entities near to cluster9>>
+雰囲気, エリア, テイスト
+top3 entities near to cluster10>>
+手作り, 手づくり, 手造り
+top3 entities near to cluster11>>
+みかけ, 見かけ, 見掛け
+top3 entities near to cluster12>>
+小学生, 中学生, 子ども
+top3 entities near to cluster13>>
+コロナ, ウイルス, ウィルス
+top3 entities near to cluster14>>
+パス, ふれあい, バス
+top3 entities near to cluster15>>
+エサ, えさ, 餌
+top3 entities near to cluster16>>
+檻, 小屋, 牢獄
+top3 entities near to cluster17>>
+鳥類, 鳥, 卵
+top3 entities near to cluster18>>
+標本, 模型, 剥製
+top3 entities near to cluster19>>
+缶, コーヒー, バッチガチャ
+top3 entities near to cluster20>>
+ゾウ, 象
+top3 entities near to cluster21>>
+子供, 子, 子ども
+top3 entities near to cluster22>>
+大きい, 広い, 小さい
+top3 entities near to cluster24>>
+入り口, 裏手, 隣
+top3 entities near to cluster25>>
+頭目, 頭, 回目, 回
+top3 entities near to cluster27>>
+ほか, 大半, 数多い
+top3 entities near to cluster28>>
+木, 木火, 土
+top3 entities near to cluster29>>
+子供, 自分, 周り
+top3 entities near to cluster30>>
+予想外, 想定外, 予想, 想定
+top3 entities near to cluster31>>
+駅, 公園, 駅前
+top3 entities near to cluster32>>
+自然園, 文化園, 自然, 文化
+top3 entities near to cluster33>>
+遊園地, 遊園, テーマパーク
+top3 entities near to cluster34>>
+水生, 植物, 動物
+top3 entities near to cluster36>>
+動物園, 動物, 植物園, 植物
+top3 entities near to cluster37>>
+動物園, 植物園, 動物, 植物
+top3 entities near to cluster38>>
+動物, 動物園, 公園

@@ -1,0 +1,33 @@
+--------------------similar_words:指月山--------------------
+top3 entities near to cluster0>>
+公園沿い, 公園, 指
+top3 entities near to cluster1>>
+木, 月, 土
+top3 entities near to cluster2>>
+銃口, 指先, 手首
+top3 entities near to cluster3>>
+跡, 見学, 守り
+top3 entities near to cluster4>>
+眼鏡岩, クスノキ, ツブラジイ
+top3 entities near to cluster5>>
+ふもと, 夕暮れ, 麓
+top3 entities near to cluster6>>
+天守閣, 天守, 城郭
+top3 entities near to cluster7>>
+三角州, 扇状地, 沖積
+top3 entities near to cluster8>>
+全体, 一部, 一部分
+top3 entities near to cluster9>>
+時間, 分の
+top3 entities near to cluster11>>
+部屋, 寝室, 自室
+top3 entities near to cluster12>>
+国名, 国々
+top3 entities near to cluster13>>
+価値, 意義, 本質
+top3 entities near to cluster14>>
+山頂, 山, 麓
+top3 entities near to cluster16>>
+神社, 岐山, 志
+top3 entities near to cluster17>>
+原生, 暖地, 暖帯

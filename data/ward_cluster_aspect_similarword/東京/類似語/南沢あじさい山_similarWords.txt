@@ -1,0 +1,11 @@
+--------------------similar_words:南沢あじさい山--------------------
+top3 entities near to cluster0>>
+バス, 駅, バス停
+top3 entities near to cluster1>>
+入山料, 入山, 拝観料, 拝観
+top3 entities near to cluster2>>
+入口付近, 徒歩, 入口
+top3 entities near to cluster4>>
+金, 方式, 土
+top3 entities near to cluster5>>
+山, 麓, 斜面

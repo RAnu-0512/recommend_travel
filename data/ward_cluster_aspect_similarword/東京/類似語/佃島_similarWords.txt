@@ -1,0 +1,43 @@
+--------------------similar_words:佃島--------------------
+top3 entities near to cluster0>>
+句会, 吟行, 俳句
+top3 entities near to cluster1>>
+散策, 散歩, 出掛け
+top3 entities near to cluster2>>
+帰宅, お昼
+top3 entities near to cluster3>>
+土産, おみやげ, 土産物
+top3 entities near to cluster4>>
+人達, 家族
+top3 entities near to cluster5>>
+酒屋, 花屋, 八百屋
+top3 entities near to cluster6>>
+花見, 桜, 八重桜
+top3 entities near to cluster7>>
+漁業, 漁師
+top3 entities near to cluster8>>
+神社, 参拝, 鳥居
+top3 entities near to cluster9>>
+風景, 景色, 景観
+top3 entities near to cluster10>>
+近辺, 一帯
+top3 entities near to cluster11>>
+灯台, 対岸
+top3 entities near to cluster12>>
+港町, 地名, 町
+top3 entities near to cluster13>>
+エリア, 仕事
+top3 entities near to cluster14>>
+公園, 病院, 緑地
+top3 entities near to cluster15>>
+区域, フキアン, 地区
+top3 entities near to cluster16>>
+目的地, 目的
+top3 entities near to cluster18>>
+住宅街, 繁華街, 繁華, 住宅
+top3 entities near to cluster21>>
+高層, ビル, ノッポビル
+top3 entities near to cluster22>>
+佃煮, 漬物, つくだ煮
+top3 entities near to cluster23>>
+蕎麦屋, 蕎麦, 屋並

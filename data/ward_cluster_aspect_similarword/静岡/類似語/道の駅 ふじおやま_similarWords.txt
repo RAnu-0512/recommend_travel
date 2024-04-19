@@ -1,0 +1,11 @@
+--------------------similar_words:道の駅 ふじおやま--------------------
+top3 entities near to cluster0>>
+ふじ, おやま, ふじの
+top3 entities near to cluster2>>
+定食, 豚汁, トンカツ
+top3 entities near to cluster3>>
+土産, 野菜, 果物
+top3 entities near to cluster4>>
+休憩, 駐車, 仮眠
+top3 entities near to cluster6>>
+土産物店, 駅前店, 土産物, 駅前

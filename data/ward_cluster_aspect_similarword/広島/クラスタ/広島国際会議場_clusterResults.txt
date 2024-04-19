@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島国際会議場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+平和記念公園, 平和祈念館, 国際平和, 平和
+cluster1:(2)
+被爆地, 原爆資料館
+cluster2:(34)
+核兵器, シンボル, 広島, コンベンション施設, 平和公園, 会議場, もの, 横, 敷地, 利用者, 中, 訴え, 会議, 方, 会場, 世界, コンサート, ホール, 廃絶, 中国, 一般, 鑑賞, 規模, 感じ, 国際会議, 形, 名前, 立地, 地下, ホールそのもの, こと, 場所, アーティスト, 場面
+
+howmany entities : 40
+howmany clusters : 3
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 3
+deleted 0entities.

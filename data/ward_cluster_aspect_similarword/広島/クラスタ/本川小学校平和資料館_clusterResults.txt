@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本川小学校平和資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゲン, はだしのゲン
+cluster1:(3)
+資料, 資料館, 展示品
+cluster2:(7)
+はだし, 小学校, 外部, 近く, 一部, 場所, モデル
+cluster3:(3)
+作り, 事, こと
+cluster4:(1)
+投下
+cluster5:(8)
+本川小学校, 被爆, 原爆, 熱線, 校舎, 被害, 平和, 爆風
+cluster6:(5)
+鉄筋コンクリート爆心地, 平和資料館, 原子爆弾投下, 爆心地, 本川小学校平和資料館
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

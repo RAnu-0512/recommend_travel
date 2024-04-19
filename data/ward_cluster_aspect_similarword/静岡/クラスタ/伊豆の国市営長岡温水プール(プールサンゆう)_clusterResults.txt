@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆の国市営長岡温水プール(プールサンゆう)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+更衣, 屋内プール
+cluster1:(14)
+塗装, 飲み物, 壁, ワゴン, プール, 感じ, 泳ぐ, 受付, ジャグジー, タオル, 説明, 女性, ドライヤー, プールサイド
+cluster2:(1)
+室温水温
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 3entities.

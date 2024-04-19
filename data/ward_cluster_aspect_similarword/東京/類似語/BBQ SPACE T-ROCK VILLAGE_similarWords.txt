@@ -1,0 +1,13 @@
+--------------------similar_words:BBQ SPACE T-ROCK VILLAGE--------------------
+top3 entities near to cluster0>>
+施設, 設備, 宿泊
+top3 entities near to cluster1>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster2>>
+親戚, 親族, 親類
+top3 entities near to cluster3>>
+屋根, 駅
+top3 entities near to cluster5>>
+肉, 野菜, 豚肉
+top3 entities near to cluster6>>
+切売, 切, 換可

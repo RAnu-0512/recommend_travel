@@ -1,0 +1,13 @@
+--------------------similar_words:大手門--------------------
+top3 entities near to cluster0>>
+入口, 入り口, 正門
+top3 entities near to cluster1>>
+歴史, 光景, 風景
+top3 entities near to cluster2>>
+荷物, 天気, お天気
+top3 entities near to cluster3>>
+駅街, 皇居, 駅
+top3 entities near to cluster4>>
+豪壮, 雄壮, 壮麗
+top3 entities near to cluster5>>
+枡形門, 枡形, 皇居

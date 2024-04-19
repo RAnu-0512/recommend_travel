@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グリーンステイながうら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+宿泊施設, 複合施設, スポーツ施設
+cluster1:(8)
+コース, 天気, サイクリング, 電動クロスバイク, 乗り方, ローラースケート場, レストラン, スタッフ
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

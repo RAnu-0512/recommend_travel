@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日野宿本陣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+山南・井上・土方, 佐藤彦五郎, 新撰組, 新選組, 土方歳三, 新選
+cluster1:(8)
+本陣, 本陣跡, 流石現存本陣, 日野宿, 日野宿本陣, 本陣内, 現存本陣, 本陣建物
+cluster2:(2)
+江戸時代頃, 江戸時代
+cluster3:(3)
+ふるさと歴史館, 大火, 建造物
+cluster4:(3)
+駐車場, 共通券, 宿泊所
+cluster5:(3)
+道路沿い, 改札, 日野駅
+cluster6:(1)
+甲州街道
+cluster7:(1)
+向かい入館料
+cluster8:(3)
+東京都, 都, 都内唯一
+cluster9:(20)
+場所, 建物, 感想, 価値, 近く, 意外, 以下, 自宅, 縁, 徒歩, 庭, 方, 歴史, 雰囲気, 地元, 時代, 外観, もの, 訪問, 展示
+cluster10:(6)
+門, 大名, 道場, 右, 奥, 近藤
+
+howmany entities : 56
+howmany clusters : 11
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 11
+deleted 0entities.

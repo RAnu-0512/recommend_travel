@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百谷窯跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山口市, 小郡下郷
+cluster1:(2)
+平安, 時代
+cluster2:(2)
+眺め, 斜面
+cluster3:(1)
+天井部
+cluster4:(4)
+窯跡, 百谷窯, 須恵器, 窯
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:泉龍寺(東京都狛江市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(32)
+曹洞宗, 心, 昔, 場所, 自然, 建物, 森, 左手, アクセス, 緑, 突き当り, 感じ, 奥, 駅, 都, 和泉, 地名, 周り, 木立, 中, 歴史, 造り, 小田急線, 桜, スポット, 雰囲気, 風情, 装飾, 地元, 途中森, 経験, 北口
+cluster1:(2)
+鐘楼, 鐘楼門
+cluster2:(3)
+本堂, 山門, 境内
+cluster3:(2)
+寺院, 寺
+cluster4:(1)
+堂
+cluster5:(1)
+弁財天池
+cluster6:(1)
+建造物
+cluster7:(1)
+厳粛なきもち
+cluster8:(5)
+狛江駅, 狛江市, 小田急狛江駅, 禅寺, 泉龍寺
+cluster9:(1)
+弁財天池特別緑地保全地区
+
+howmany entities : 49
+howmany clusters : 10
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 10
+deleted 0entities.

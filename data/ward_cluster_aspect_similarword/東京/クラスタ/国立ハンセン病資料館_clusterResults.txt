@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国立ハンセン病資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+資料館, 資料読む形, 隔離資料, 写真撮影, 資料, 診療所
+cluster1:(5)
+コロナ禍, 患者, 軽病, 病, 病気
+cluster2:(24)
+コロナ, 偏見, 美化, 建物, 感想, 人, 生活, 話, 感じ, ハンセン, 館内, 施設, 差別, 刑務所, PC, 人数, 方, こと, 理由, 禁止, 知識, 部分, 訪問, 展示
+
+howmany entities : 35
+howmany clusters : 3
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 3
+deleted 0entities.

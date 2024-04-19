@@ -1,0 +1,25 @@
+--------------------similar_words:荒川戸田橋緑地--------------------
+top3 entities near to cluster1>>
+大会, 花火, 野球
+top3 entities near to cluster2>>
+河原, 土手, 川原
+top3 entities near to cluster3>>
+人々, 人達
+top3 entities near to cluster4>>
+緑地, ごみ, ゴミ
+top3 entities near to cluster5>>
+駅, 会場, 構内
+top3 entities near to cluster7>>
+気持ち, あたり, 辺り
+top3 entities near to cluster8>>
+河川敷, 市街地, 土手
+top3 entities near to cluster9>>
+近辺, ほど近い
+top3 entities near to cluster10>>
+土地, 農地, 家屋
+top3 entities near to cluster11>>
+季節風, 夏風, 夏, 季節
+top3 entities near to cluster12>>
+頃, 始め, ころ
+top3 entities near to cluster13>>
+散策, 散歩, 季節

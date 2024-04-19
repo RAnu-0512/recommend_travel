@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新宿区文化センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+文化センター, 新宿区, 新宿駅, 公立文化施設, 新宿文化センター, 路面電車, 新宿区文化センター, 新宿
+cluster1:(3)
+リハーサル室, 展示室, 会議室
+cluster2:(2)
+小各ホール, 小ホール
+cluster3:(3)
+少し先, あり散策, 途中神社
+cluster4:(4)
+公演, 総合ホール, 音楽, 音楽ホール
+cluster5:(5)
+駅, そば, 道, 引き込み線, 跡
+cluster6:(7)
+区役所, コンサート, 落ち着き, ミュージカル, イベント, ホール, レストラン
+cluster7:(2)
+昔, 他
+cluster8:(3)
+意味, 感じ, コンサート利用
+cluster9:(6)
+場所, 建物, 空間, 施設, 会場, 地図
+cluster10:(1)
+四季
+
+howmany entities : 44
+howmany clusters : 11
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 11
+deleted 0entities.

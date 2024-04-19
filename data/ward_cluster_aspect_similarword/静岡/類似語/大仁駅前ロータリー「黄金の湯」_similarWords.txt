@@ -1,0 +1,7 @@
+--------------------similar_words:大仁駅前ロータリー「黄金の湯」--------------------
+top3 entities near to cluster0>>
+湯, お湯, 温泉
+top3 entities near to cluster1>>
+宿泊, 到着, 駅
+top3 entities near to cluster2>>
+すべすべ, スベスベ

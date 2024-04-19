@@ -1,0 +1,19 @@
+--------------------similar_words:福山メモリアルパーク・アイスアリーナ--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 若い
+top3 entities near to cluster1>>
+態度, 言動, 接客
+top3 entities near to cluster2>>
+プール, スイミング, ビーチ
+top3 entities near to cluster3>>
+トラウマ, こっち, そっち
+top3 entities near to cluster4>>
+ナイター, スケート, スノーボード
+top3 entities near to cluster5>>
+ルール, 言い方, 考え方
+top3 entities near to cluster6>>
+日中, むし暑い, オックウ
+top3 entities near to cluster8>>
+公園, 遊具, 野外
+top3 entities near to cluster9>>
+監視員, 警備員, 監視, 警備

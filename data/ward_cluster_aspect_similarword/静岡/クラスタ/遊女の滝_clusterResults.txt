@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遊女の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金太郎伝説, 遊女
+cluster1:(7)
+ひとつ, 場所, 人気, 落差, 滝, 迫力, ビューポイント
+cluster2:(3)
+大滝古道, 小山町, 水墨画
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

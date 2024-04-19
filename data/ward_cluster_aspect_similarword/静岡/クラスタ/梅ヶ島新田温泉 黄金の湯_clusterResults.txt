@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅ヶ島新田温泉 黄金の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湯温も好み, 梅ヶ島温泉
+cluster1:(34)
+駐車場, 紅葉, 温泉, 周り, 嵐, 休憩室, アルカリ泉, お気に入り, ぬる湯, 梅ケ島, 色づき, 肌, お湯, 明け方, 気持ち, 周囲, ハンモック, 露天風呂, 感じ, 年齢層, 食事, 泉質, 前夜, 報道, 施設, もみじ, 風呂, 日帰り入浴施設, 湯, 黄金, 帰路, 山, 方, 温度
+
+howmany entities : 36
+howmany clusters : 2
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 1
+deleted 2entities.

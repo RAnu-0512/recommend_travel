@@ -1,0 +1,15 @@
+--------------------similar_words:鳥取砂丘コナン空港--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+空港, 送迎, エアポートシャトルバス
+top3 entities near to cluster2>>
+トリック, アート, グッズ
+top3 entities near to cluster4>>
+娘, 主人, 土産
+top3 entities near to cluster6>>
+登場, 扮, 勢揃い
+top3 entities near to cluster7>>
+早い, 押王
+top3 entities near to cluster8>>
+解き, 謎, ナゾ

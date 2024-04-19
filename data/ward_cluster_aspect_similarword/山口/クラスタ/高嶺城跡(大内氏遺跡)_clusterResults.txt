@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高嶺城跡(大内氏遺跡)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高嶺城跡, 山そのものを城, 津和野城跡
+cluster1:(2)
+説明板, 案内表示
+cluster2:(2)
+神宮側, 神宮
+cluster3:(2)
+徒歩, 山口駅
+cluster4:(2)
+道, 枝道
+cluster5:(2)
+登山, 頂上
+cluster6:(2)
+神社, 石碑
+cluster7:(8)
+ところ, 山口線, 石垣, 途中, 山城, 吹雪, 自動車, 山口大
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

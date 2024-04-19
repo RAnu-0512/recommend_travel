@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊沢貝塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住居, 縦穴住居
+cluster1:(4)
+穴, ところ, 恵比寿, 前期
+cluster2:(1)
+和田坂
+cluster3:(1)
+弥生時代の堅穴
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城ケ平公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+空堀, 応永, 天方城, 城
+cluster1:(10)
+自然, 車, 展望台, スポット, 場所, 勉強, アクトタワー, 景色, 眺め, 公園
+cluster2:(3)
+城ケ平公園, 武田信玄, 徳川家康
+cluster3:(1)
+天竜浜名湖鉄道の戸綿駅
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 1entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊東温泉・お座敷文化大學>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お座敷文化大學, 伊東温泉・お座敷文化大學
+cluster1:(3)
+芸者体験, 芸者気分, 芸者姿
+cluster2:(2)
+粋, 浪漫
+cluster3:(5)
+体験, 日本, 化粧, 学科, コース
+cluster4:(2)
+事前予約, 写真撮影
+cluster5:(1)
+伊東温泉
+cluster6:(1)
+古き良き時代
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 8entities.

@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丈島自然ガイドサービス 椎_しいのき_>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+八丈富士, 八丈富士お鉢巡りバンザイ1
+cluster1:(15)
+固有種, 植物, 景色, 楽しみかた, 姿, 口コミ評価, 融通, 記念写真, 水着, 顔, 写真, 方, 着方, 安心感, まま車
+cluster2:(2)
+初心者, ガイド
+cluster3:(2)
+ところ, おかげ
+cluster4:(4)
+メンバー, シュノーケル, インストラクター, シュノーケリング
+cluster5:(4)
+オススメ, ボリューム, ポイント, サービス
+cluster6:(1)
+スポット
+cluster7:(1)
+データ
+cluster8:(1)
+ウミガメ
+cluster9:(1)
+ペース
+cluster10:(6)
+ホテル, 口コミ, 居酒屋, プール, SNS, スーツ
+cluster11:(14)
+水, 次八丈島, 最後, 他, 仕方, 外側, 念願, 時間, 感動, シュノーケル体験, 中, 金, 安全, 瞬間
+cluster12:(10)
+山, 泳ぎ, 水面, ブイ, 亀, 海, 十分海, 泳ぐ, 堤防, 椎
+cluster13:(4)
+お鉢巡り, ソロ登山, 思い人生初めて山ガイド, 登山
+cluster14:(3)
+送迎場所, 浮き輪, 送迎つき
+
+howmany entities : 70
+howmany clusters : 15
+howmany entities (more than1entities) : 70
+howmany clusters (more than1entities) : 15
+deleted 0entities.

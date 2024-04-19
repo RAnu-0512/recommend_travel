@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安芸灘とびしま海道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+御手洗, ドライブ, 下蒲刈島, アップダウン, 先, 岡村島, 時間
+cluster1:(2)
+安芸灘大橋, 海道
+cluster2:(1)
+目的地
+cluster3:(1)
+広域農道
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

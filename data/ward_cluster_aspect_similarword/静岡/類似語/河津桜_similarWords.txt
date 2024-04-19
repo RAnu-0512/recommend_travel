@@ -1,0 +1,63 @@
+--------------------similar_words:河津桜--------------------
+top3 entities near to cluster0>>
+桜, 八重桜, 薄寒い
+top3 entities near to cluster1>>
+駐車, 道路, 渋滞
+top3 entities near to cluster3>>
+時間, くらい
+top3 entities near to cluster4>>
+開催, 催す, 祭り
+top3 entities near to cluster6>>
+夕方, 昼間, 夜
+top3 entities near to cluster9>>
+日, 月, 年
+top3 entities near to cluster10>>
+大勢, 人達
+top3 entities near to cluster11>>
+天気雨, 気温, 天気
+top3 entities near to cluster15>>
+自然風, 自然, 笑顔
+top3 entities near to cluster19>>
+早咲き, 八重桜, 菜の花
+top3 entities near to cluster20>>
+食べ物, ホテル, 買い物
+top3 entities near to cluster21>>
+おでん, うどん, つまみ
+top3 entities near to cluster25>>
+サイド, ホーム, コート
+top3 entities near to cluster27>>
+人混み, マスク, 長時間
+top3 entities near to cluster30>>
+サービス, チェックイン, スタッフ
+top3 entities near to cluster31>>
+ドストライク, テンション, タイミング
+top3 entities near to cluster32>>
+イメージ, ライトアップ, コントラスト
+top3 entities near to cluster34>>
+ショット, スケッチ, トンネル
+top3 entities near to cluster37>>
+雰囲気, 見応え, 見ごたえ
+top3 entities near to cluster38>>
+花, お花, 黄色
+top3 entities near to cluster40>>
+開花, 満開, 花開く
+top3 entities near to cluster44>>
+桜, 八重桜, 葉桜
+top3 entities near to cluster48>>
+屋台店, 屋台, 出店
+top3 entities near to cluster49>>
+花見, 見物, 夜桜
+top3 entities near to cluster50>>
+散策, 散歩, 旅
+top3 entities near to cluster51>>
+訪れ, 訪れる, 訪ね
+top3 entities near to cluster52>>
+露店, 露天, 屋台
+top3 entities near to cluster54>>
+路線, バス
+top3 entities near to cluster55>>
+駅, 道路, 駅前
+top3 entities near to cluster56>>
+上流, 下流
+top3 entities near to cluster57>>
+土手沿い, 川沿い, 川, 土手

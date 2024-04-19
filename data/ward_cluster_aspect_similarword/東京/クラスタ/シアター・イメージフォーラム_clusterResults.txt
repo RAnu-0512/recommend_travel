@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シアター・イメージフォーラム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作家性, 利便性
+cluster1:(2)
+向上, 感
+cluster2:(8)
+作品, スタバ, 建物, 人, スクリーン, 施設, 映画館, 映画
+cluster3:(3)
+裏, 姿, タルコフスキー特集
+cluster4:(1)
+ミニシアター
+cluster5:(3)
+長編映画, 全席指定, 上映作品
+cluster6:(5)
+渋谷, 渋谷駅, 渋谷区, 青山通り, 宮益坂
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 7
+deleted 0entities.

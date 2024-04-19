@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:門池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+釣り, 釣り人
+cluster1:(2)
+人, 人たち
+cluster2:(8)
+車, 周り, 多く, 家族, お子様, 子供, 犬, 週末
+cluster3:(2)
+賑わい, メッカ
+cluster4:(5)
+カフェ, おすすめ, ところ, ランニング, ウォーキング
+cluster5:(2)
+市街地, 遊歩道
+cluster6:(1)
+ほとり
+cluster7:(2)
+時期, 場所
+cluster8:(2)
+大分, 外れ
+cluster9:(6)
+満開, 公園, 桜, 弁当, 散歩, ワンちゃん
+cluster10:(10)
+駐車場, 沼津, 門池, 池, 長泉町, 東名, 沼津インター, 根方街道, 道路沿い, 裾野市
+
+howmany entities : 42
+howmany clusters : 11
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 4
+deleted 13entities.

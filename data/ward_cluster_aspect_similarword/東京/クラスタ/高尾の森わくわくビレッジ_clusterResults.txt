@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高尾の森わくわくビレッジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体験, 体験プログラム
+cluster1:(2)
+大人, 家族
+cluster2:(5)
+コンパス, ポイント, 振り込み手数料, 説明, プログラム
+cluster3:(1)
+地図
+cluster4:(1)
+子供達
+cluster5:(1)
+姪っ子達
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

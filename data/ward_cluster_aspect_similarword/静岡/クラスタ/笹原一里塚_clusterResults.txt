@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笹原一里塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+休憩所, 場所, 集合場所, 立ち寄り場所
+cluster1:(3)
+名所, 景色, 公園
+cluster2:(4)
+跡, 目印, 休止, 基点
+cluster3:(3)
+計算, 料金, 入場
+cluster4:(11)
+目, スケール, チケット売り場, つり橋, ツアー, 富士山, 花, 列, 現地, 日本橋, 名古屋
+cluster5:(2)
+吊橋, スリル感
+cluster6:(6)
+街道沿い, 絶景富士の見える橋, 北エリア展望台, 南エリア公園, 南エリア, 中腹北エリア
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 6
+deleted 2entities.

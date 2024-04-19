@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島空港大橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+仕事, アーチ形, 広島空港, 日本, アーチ状, おかげ, アクセス, 天気, 車, 写真, 人, 形, 近く, ドライブ, 飛行機, 気持ち, こと, 見ごたえ, 高さ, アーチ型, おすすめ
+cluster1:(3)
+観光地, 大和町, 三原市
+cluster2:(6)
+アーチ橋, 広島空港大橋, アーチ橋長さ, 橋, 沼田川渓谷, 橋長
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:厳島合戦の古戦場駒ヶ林--------------------
+top3 entities near to cluster0>>
+弁当, 昼食, 夕食
+top3 entities near to cluster1>>
+山, 岩, 岩山
+top3 entities near to cluster2>>
+経ケ岳, 山頂, 釈迦ヶ岳
+top3 entities near to cluster3>>
+展望台, 展望, 山頂

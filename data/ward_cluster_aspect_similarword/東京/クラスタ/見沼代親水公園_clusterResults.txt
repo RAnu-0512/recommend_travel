@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:見沼代親水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日暮里舎人ライナーの見沼代親水公園駅, 見沼代親水公園駅
+cluster1:(4)
+家族連れ, 子供連れ, 子供達, 子供たち
+cluster2:(3)
+光景, 風景, 姿
+cluster3:(2)
+竹の塚, 日暮里
+cluster4:(3)
+水遊び, 遊び場, こども
+cluster5:(5)
+コンビニ, ザリガニ, オススメ, 舎人公園, 桜並木
+cluster6:(3)
+遊歩道, 散歩道, コース
+cluster7:(1)
+終着駅
+cluster8:(1)
+釣り糸
+cluster9:(3)
+目, 名, 中
+cluster10:(4)
+子, 犬, 人, 子供
+cluster11:(4)
+声, 方, 感じ, ほう
+cluster12:(13)
+近所, 地域, 駅, 休日, 周辺, 地元, 近く, 代用水路, 仕事, 道具, 時間, 場所, 終点
+cluster13:(3)
+季節, 桜, 春先
+cluster14:(2)
+川, 水
+cluster15:(3)
+自然, 都会, 緑
+cluster16:(1)
+水鳥
+cluster17:(1)
+えき
+cluster18:(7)
+ザリガニ釣り, 散歩, 散歩コース, ザリガニ取り, 散策, 餌, ザリガニ捕り
+cluster19:(15)
+小川周辺の公園, 親水公園, 足立区, 自然公園, 緑道公園, 舎人ライナー利用者, 見沼代, 日暮里舎人ライナー, 親水公園駅, 親水, 長細い公園, 公園, 見沼, 舎人ライナー, 鬼公園
+
+howmany entities : 80
+howmany clusters : 20
+howmany entities (more than1entities) : 80
+howmany clusters (more than1entities) : 20
+deleted 0entities.

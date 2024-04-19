@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡市美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駅, 徒歩, 北口, 方面
+cluster1:(3)
+ロゴマーク, 基調, 白
+cluster2:(8)
+所, 評価, こと, 質, 特徴, 場合, 文句, 内容
+cluster3:(11)
+アクセス, プレゼント, 教科書, レストラン, ショップ, 居心地, 地下道, 美術館, インパクト, デザイン, カタログ
+cluster4:(3)
+富士山, 久能山, 東海道
+cluster5:(5)
+日本, 歴史, 中, 近く, 他
+cluster6:(8)
+雨, 絵, 館内, 写真, ポストカード, 食事, 建物, 地下
+cluster7:(4)
+飲食店, 内容量, 時間帯, 入場者
+cluster8:(8)
+静岡, 駿府城, 静岡市, 駿府, 新居宿, 葵タワー, 静岡駅, 二川宿
+cluster9:(9)
+近代美術, 都市型美術館, 公立美術館, 展示品, 常設展, 西洋美術, 特別展, 美術, 現代美術
+
+howmany entities : 63
+howmany clusters : 10
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 10
+deleted 0entities.

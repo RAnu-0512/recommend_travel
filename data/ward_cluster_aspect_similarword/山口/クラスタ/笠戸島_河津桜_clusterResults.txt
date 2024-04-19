@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笠戸島_河津桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+県道, 道路
+cluster1:(4)
+周囲, 桜, 菜の花, 大城
+cluster2:(1)
+分岐箇所
+cluster3:(1)
+国民宿舎
+cluster4:(1)
+河津桜
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

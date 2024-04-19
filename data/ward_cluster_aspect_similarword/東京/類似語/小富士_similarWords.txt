@@ -1,0 +1,15 @@
+--------------------similar_words:小富士--------------------
+top3 entities near to cluster0>>
+鳥沼, 野鳥, 鳥
+top3 entities near to cluster1>>
+ガイド, 解説, ツアー
+top3 entities near to cluster2>>
+絶景道, 絶景, 景色
+top3 entities near to cluster3>>
+原付, バイク, スクーター
+top3 entities near to cluster4>>
+固有種, 固有, 種類
+top3 entities near to cluster5>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster6>>
+都道, 国道, 県道

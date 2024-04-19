@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金時公園(静岡県小山町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金時公園, 金時神社
+cluster1:(2)
+町内会館, 住宅街
+cluster2:(6)
+物, 検診日, 幼稚園, 芝生, 遠足, 地元
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

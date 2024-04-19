@@ -1,0 +1,57 @@
+--------------------similar_words:光が丘公園--------------------
+top3 entities near to cluster0>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster1>>
+サイクリング, ジョギング, ウォーキング
+top3 entities near to cluster2>>
+ランチ, 子ども, ピクニック
+top3 entities near to cluster3>>
+テニス, コース, ランニング
+top3 entities near to cluster4>>
+パン, 弁当, 食パン
+top3 entities near to cluster5>>
+並木, 銀杏, 五瓶
+top3 entities near to cluster6>>
+光が丘, 区内, 都心
+top3 entities near to cluster7>>
+散歩, 散策, 歩く
+top3 entities near to cluster8>>
+花見, ピクニック, 観桜
+top3 entities near to cluster9>>
+紅葉, 紅葉狩り, 黄葉
+top3 entities near to cluster10>>
+軽食, 昼食, 週末
+top3 entities near to cluster11>>
+小腹, コバラ, おなか
+top3 entities near to cluster12>>
+緑, 黄色, 緑色
+top3 entities near to cluster13>>
+園内, 敷地, 歩道
+top3 entities near to cluster14>>
+木々, 木陰, 新緑
+top3 entities near to cluster16>>
+冬, 夏, 秋
+top3 entities near to cluster17>>
+土水, 木水, 土, 木
+top3 entities near to cluster18>>
+子供連れ, つれ, 子供
+top3 entities near to cluster19>>
+子供, 子ども
+top3 entities near to cluster20>>
+同士, 友達, 家族
+top3 entities near to cluster22>>
+丘, 光, 岱公
+top3 entities near to cluster23>>
+競技場, 競技, 陸上
+top3 entities near to cluster24>>
+運動, 運動場, 不足
+top3 entities near to cluster25>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster26>>
+競技, 大会, 種目
+top3 entities near to cluster27>>
+野球, 球場, サッカー
+top3 entities near to cluster28>>
+施設, 飲食, ジム
+top3 entities near to cluster29>>
+公園, 広場, 遊具

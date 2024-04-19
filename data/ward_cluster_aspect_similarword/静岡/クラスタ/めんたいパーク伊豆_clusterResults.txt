@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:めんたいパーク伊豆>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 駅ゲートウェイ
+cluster1:(3)
+足湯, 見学, 撮影スポット
+cluster2:(4)
+明太子目当て, 明太子, 明太子好き, 明太子たっぷり
+cluster3:(12)
+ワサビミュージアム, パスタ, 遊び場, クレーンゲーム, キッズスペース, スペース, フードコーナー, 子ども, パーク, かねふく, おにぎり, フードコード
+cluster4:(2)
+雨, 川
+cluster5:(4)
+隣, 別スペース, こと, 中
+cluster6:(3)
+駅, 施設, 道
+cluster7:(1)
+子さん
+cluster8:(6)
+フランスパン, わさび工場, 菓子, 工場, 土産コーナー, 加工品
+cluster9:(3)
+明太マヨ, うなぎ明太, 焼さばめんたいおにぎり
+
+howmany entities : 40
+howmany clusters : 10
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 7
+deleted 5entities.

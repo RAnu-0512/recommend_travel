@@ -1,0 +1,23 @@
+--------------------similar_words:都立シンボルプロムナード公園 滝の広場--------------------
+top3 entities near to cluster0>>
+緑道, 緑, 緑色
+top3 entities near to cluster1>>
+土水, 土
+top3 entities near to cluster2>>
+広場, 公園, 噴水
+top3 entities near to cluster3>>
+階段, 地上, 地下
+top3 entities near to cluster5>>
+方法, やり方, 手段
+top3 entities near to cluster6>>
+空間, 吹き抜ける風, 吹き抜ける
+top3 entities near to cluster7>>
+夢中, 間, 子供
+top3 entities near to cluster8>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster9>>
+広い, 聴係, 聴室
+top3 entities near to cluster10>>
+台場, 湾岸, 都立
+top3 entities near to cluster11>>
+滝, 公園, 噴水

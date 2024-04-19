@@ -1,0 +1,43 @@
+--------------------similar_words:田園調布--------------------
+top3 entities near to cluster0>>
+周辺, 駅, 近辺
+top3 entities near to cluster1>>
+駅, 駅前, 構内
+top3 entities near to cluster2>>
+東口, 南口, 北口
+top3 entities near to cluster3>>
+建物, 駅舎, 駅
+top3 entities near to cluster4>>
+町並み, 街並み, 雰囲気
+top3 entities near to cluster5>>
+有名人, 芸能人, セレブ
+top3 entities near to cluster6>>
+カフェ, スタバ, コーヒー
+top3 entities near to cluster7>>
+エリア, レストラン, イタリアン
+top3 entities near to cluster8>>
+バス停, 幼稚園, 小学校
+top3 entities near to cluster9>>
+放射状, 放射線状, 東横線
+top3 entities near to cluster12>>
+沿線, 通勤
+top3 entities near to cluster13>>
+屈指, 有数, 随一
+top3 entities near to cluster15>>
+東急線, 東急東横線, 東急, 東急東横
+top3 entities near to cluster17>>
+区, 区内, 都
+top3 entities near to cluster18>>
+田園, 並木, 銀杏
+top3 entities near to cluster19>>
+田園, 環, 八
+top3 entities near to cluster20>>
+高級感, 存在感, 存在, 高級
+top3 entities near to cluster21>>
+高級車, 高級, 上質
+top3 entities near to cluster23>>
+住宅地, 住宅, 高級
+top3 entities near to cluster24>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster26>>
+住宅街, 住宅, 住み

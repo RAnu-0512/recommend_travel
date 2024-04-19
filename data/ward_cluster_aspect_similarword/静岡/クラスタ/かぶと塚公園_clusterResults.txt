@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かぶと塚公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+人, 子供, 体育館, 子, 年寄り, 中
+cluster1:(2)
+散歩, ジム
+cluster2:(1)
+ポケモンGO
+cluster3:(1)
+かぶと塚公園
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

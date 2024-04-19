@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二見夫婦岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光客, 駐車場
+cluster1:(7)
+海岸そば, 縄, 岩, 響灘, 漁師町, 海岸, 海
+cluster2:(2)
+右横目, 反対側
+cluster3:(2)
+石碑, 碑
+cluster4:(3)
+姿, 由来, 歴史
+cluster5:(4)
+多く, 気, 方, 人
+cluster6:(3)
+途中, 右側, 近く
+cluster7:(1)
+注意
+cluster8:(1)
+目安
+cluster9:(1)
+視線
+cluster10:(14)
+修学旅行, 立石, 二見浦, JR, 山陰本線, 車, 夫婦岩, カーブ, 国道, パワー, パワースポット, 夫婦, カップル, 方面
+cluster11:(3)
+角島方面, 角島大橋, 角島
+cluster12:(2)
+山口県, 三重県
+cluster13:(2)
+伊勢市, 長門市
+cluster14:(3)
+下関市街地方面, JR二見浦駅, 下関方面
+cluster15:(1)
+二見夫婦岩
+cluster16:(1)
+福徳稲荷神社
+
+howmany entities : 52
+howmany clusters : 17
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 17
+deleted 0entities.

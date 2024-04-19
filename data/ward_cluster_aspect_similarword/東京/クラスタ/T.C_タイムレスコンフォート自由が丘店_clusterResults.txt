@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:T.C_タイムレスコンフォート自由が丘店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+自由が丘, 店, 食品, 参考, アウトドアグッズ, ところ, 外国, 自由が丘駅, 食材, 菓子, 地下, センス, ファッション, 併設, 香り, もの, インテリア, 店内
+cluster1:(7)
+インテリア用品, キッチン雑貨, 生活用品, 雑貨, キッチン用品, 家具, 雑貨屋
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 2
+deleted 0entities.

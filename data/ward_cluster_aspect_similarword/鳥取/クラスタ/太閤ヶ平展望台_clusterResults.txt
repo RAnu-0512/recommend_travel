@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太閤ヶ平展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+久松山, 鳥取城
+cluster1:(10)
+左カーブ, 見晴らし, 角, コンクリート, カーブミラー, 景色, 本陣, 感じ, 帰り道, 丸椅子
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

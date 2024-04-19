@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝隆院庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+池泉式回遊庭園, 池泉回遊式庭園
+cluster1:(17)
+庭, 手入れ, 奥, 日本, 洋館, テラス, 庭園, 久松山, 裏側, 日本庭園, 池, 前, 大名庭園, 名前, 鳥取城跡, 近く, 背景
+cluster2:(2)
+仁風閣, 宝隆院庭園
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

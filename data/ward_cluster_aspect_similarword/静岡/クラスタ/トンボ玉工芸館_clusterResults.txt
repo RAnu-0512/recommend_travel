@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トンボ玉工芸館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+雰囲気, 奥様, ところ, ストラップ, ガラス, 女性, 外国, 方, 家族, カート
+cluster1:(3)
+交代, 工房, 制作
+cluster2:(3)
+別料金, 色選び, 色
+cluster3:(1)
+犬連れOK
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 1entities.

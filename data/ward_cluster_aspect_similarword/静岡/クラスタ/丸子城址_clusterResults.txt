@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸子城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+歴史, 親, 千畳敷, 感じ
+cluster1:(3)
+城, 山城, 本丸
+cluster2:(1)
+支城
+cluster3:(5)
+南城, 北城, 丸子城, 駿府, 今川
+cluster4:(2)
+斎藤安元, 応永期
+cluster5:(1)
+日本城郭大系 9
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 4entities.

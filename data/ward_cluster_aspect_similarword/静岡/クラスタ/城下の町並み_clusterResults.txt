@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城下の町並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+町並み, 城下, 民家, 徒歩, 家, こぎり, 感じ, 方, 町, レンタサイクル
+cluster1:(2)
+森町, 藤江
+cluster2:(1)
+天竜浜名湖鉄道の遠州森駅
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 3entities.

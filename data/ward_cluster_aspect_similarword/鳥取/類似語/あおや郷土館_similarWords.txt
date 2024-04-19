@@ -1,0 +1,11 @@
+--------------------similar_words:あおや郷土館--------------------
+top3 entities near to cluster1>>
+資料, 館, 史料
+top3 entities near to cluster3>>
+世界, 顕微鏡, 各国
+top3 entities near to cluster4>>
+砂, 海岸, 砂浜
+top3 entities near to cluster6>>
+鳴き, 砂, 鳴く
+top3 entities near to cluster7>>
+郷土, 館, ふるさと

@@ -1,0 +1,9 @@
+--------------------similar_words:湊山公園の桜--------------------
+top3 entities near to cluster0>>
+公園, 駐車, 緑地
+top3 entities near to cluster1>>
+桜, 八重桜, 山桜
+top3 entities near to cluster2>>
+屋台店, 屋台, 出店
+top3 entities near to cluster3>>
+樹勢, 枝振り, 樹高

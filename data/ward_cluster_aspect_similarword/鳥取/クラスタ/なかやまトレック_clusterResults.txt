@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なかやまトレック>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体験, 体験わ
+cluster1:(6)
+雨, 難所, 快晴, 岩場, 行程, 旅行
+cluster2:(2)
+小学, 子供たち
+cluster3:(6)
+上, 経験, 流れ, 方, 最後, 状況
+cluster4:(3)
+喜び, 疲れ, 心配
+cluster5:(18)
+レベル, インストラクター, 飛び込み, 水, ウエットスーツ, スタッフ, 日常, 口, 子ども, 子, レンタル, 自然, シャワークライミング, 大人, グループ, ひととき, 川, 娘
+cluster6:(1)
+暑さ
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

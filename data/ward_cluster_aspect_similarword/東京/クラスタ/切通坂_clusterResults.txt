@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:切通坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+切通坂, 春日通り, 都電, 湯島駅
+cluster1:(2)
+交通量, 交通
+cluster2:(3)
+勾配, 坂, 坂道
+cluster3:(3)
+学問, 電車, 道路
+cluster4:(2)
+老舗, 風情
+cluster5:(5)
+周囲, 湯島天神, 付近, 前, あたり
+cluster6:(2)
+店, 場所
+cluster7:(4)
+北, 神, 脇, 横
+cluster8:(1)
+上野
+cluster9:(1)
+場所柄
+cluster10:(1)
+石川啄木
+
+howmany entities : 28
+howmany clusters : 11
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 11
+deleted 0entities.

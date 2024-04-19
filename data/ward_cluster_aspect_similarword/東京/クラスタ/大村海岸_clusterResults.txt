@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大村海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+水, 小笠原, 場所, プライベートビーチ, 人, 東京, 子供, 気持ち, 近く, サンゴ礁, 思い出, 流れ, 時間, ウミガメ, 方, フェリー
+cluster1:(5)
+祭り, 港, 公園, 残骸, 船
+cluster2:(2)
+音, 色
+cluster3:(2)
+金属, 石
+cluster4:(1)
+カニ
+cluster5:(9)
+海岸, 大村海岸, 台風, 海, 珊瑚, 父島, 浜, 砂浜, 浜辺
+cluster6:(6)
+初泳ぎ, 証明書, 産卵, 家族連れ, 泳ぐ, 産卵場所
+
+howmany entities : 41
+howmany clusters : 7
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 7
+deleted 0entities.

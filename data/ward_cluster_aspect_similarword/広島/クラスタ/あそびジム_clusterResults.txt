@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あそびジム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, 集合場所
+cluster1:(2)
+魚, ウニ
+cluster2:(2)
+上, 別
+cluster3:(3)
+娘, SUP, ボード
+cluster4:(1)
+波
+cluster5:(1)
+箱メガネ
+cluster6:(1)
+SUP体験
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

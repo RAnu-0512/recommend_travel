@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:殉節両雄之碑・土方歳三の像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+碑, 銅像, 像, 青銅
+cluster1:(5)
+負, 姿, 事, こと, 側面
+cluster2:(14)
+高幡不動, イケメン, 不動尊, 御朱印, 門, ところ, 金剛寺, 政府, 幕府, 菩提寺, 境内, 明治, 侍, 地元
+cluster3:(1)
+日野宿
+cluster4:(1)
+忠節
+cluster5:(1)
+生誕地
+cluster6:(7)
+大日堂, 近藤勇, 新撰組, 土方歳三, 高幡不動尊, ここ高幡, 弁財天堂
+cluster7:(1)
+薩長維新志士
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 8
+deleted 0entities.

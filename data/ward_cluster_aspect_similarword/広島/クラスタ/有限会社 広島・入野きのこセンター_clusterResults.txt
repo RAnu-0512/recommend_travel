@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有限会社 広島・入野きのこセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+肥料, 収穫, 培地, 栽培
+cluster1:(2)
+体験, 見学
+cluster2:(2)
+施設, 敷地
+cluster3:(2)
+食事, 飲食スペース
+cluster4:(16)
+天ぷら, 子供, 友人, 広島空港, スーパー, 机, 社長, 道すがら気, 屑, 上, 脱サラ, キノコ博士, 他, ナイフ, 経緯, 解説
+cluster5:(5)
+ビニール袋, プラスチック瓶, 元気さ, 香り, 風味
+cluster6:(5)
+舞茸栽培, 天麩羅作れません笑笑笑, 舞茸, 舞茸収穫, 舞茸狩り
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 7
+deleted 0entities.

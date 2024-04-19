@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:万葉の小径(静岡県伊東市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+万葉, 万葉定食
+cluster1:(2)
+県道, 林道
+cluster2:(2)
+一碧湖, 山
+cluster3:(2)
+場所, 途中
+cluster4:(1)
+道
+cluster5:(1)
+城山
+cluster6:(1)
+小径
+cluster7:(1)
+松川湖
+
+howmany entities : 12
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 12entities.

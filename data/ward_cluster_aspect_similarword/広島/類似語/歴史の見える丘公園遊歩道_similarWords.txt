@@ -1,0 +1,17 @@
+--------------------similar_words:歴史の見える丘公園遊歩道--------------------
+top3 entities near to cluster0>>
+海軍, 鎮守, 造船
+top3 entities near to cluster1>>
+公園, 丘, 広場
+top3 entities near to cluster2>>
+丘, 高台, 小高い
+top3 entities near to cluster3>>
+公園, 町, 丁目
+top3 entities near to cluster4>>
+景色, 眼下, 市街
+top3 entities near to cluster5>>
+港船, 港, 歴史
+top3 entities near to cluster7>>
+展望台, 展望, 瞻星台, 瞻星
+top3 entities near to cluster8>>
+しまなみ, 海道, しま

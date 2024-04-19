@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀有地区商店街>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+古き良き商店街, 亀有地区商店街, 銀座通り商店街
+cluster1:(33)
+活気, 商店, 店, 下町情緒, 昔, オススメ, 南口, アリオ, 人, JR, アーケード, 亀, 駅, 人々, 下町, チェーン店, 南, 地名, 商店街, 個人経営, 銅像, テレビ, 世界, 大型店舗, 派出所, 大型, ショッピングモール, 雰囲気, 周辺, 嬉しさ, 発見, 北口, 亀梨
+cluster2:(3)
+亀有メンチ, アリオ亀有, 亀有
+cluster3:(2)
+亀有駅, 亀有地区
+cluster4:(2)
+ゆうろーど, こち亀
+
+howmany entities : 43
+howmany clusters : 5
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 5
+deleted 0entities.

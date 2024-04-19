@@ -1,0 +1,11 @@
+--------------------similar_words:東京都写真美術館--------------------
+top3 entities near to cluster1>>
+街並み, 町並み, 風景
+top3 entities near to cluster3>>
+上空, 空, 頭上
+top3 entities near to cluster4>>
+土砂降り
+top3 entities near to cluster5>>
+都心, 郊外, 遊新
+top3 entities near to cluster7>>
+写真, 展示, 展覧

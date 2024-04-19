@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島町 貝の博物館 ぱれ・らめーる>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三原山, 偕老同穴
+cluster1:(2)
+予定, 時間
+cluster2:(1)
+名前
+cluster3:(1)
+雨
+cluster4:(1)
+展示
+cluster5:(1)
+貝
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神功皇后神社のイチイガシ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+忌宮神社, 神功皇后, 神功皇后神社
+cluster1:(2)
+推定樹齢, 樹齢
+cluster2:(6)
+周囲, 姿, 天, 仁徳天皇, 応神天皇, イチイガシ
+cluster3:(2)
+根元, 幹
+cluster4:(2)
+神社, 巨木
+cluster5:(1)
+創建
+cluster6:(1)
+高さ
+cluster7:(1)
+美祢市
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 8
+deleted 0entities.

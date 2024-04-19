@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:家康公お手植のミカン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+目, 隣, こと, みかん, 内側, 実, 内部, 銅像, 人, 金属, 柵, 市民, 中, ミカン, 疑問, 江戸時代, 解説板, 木
+cluster1:(5)
+家康像, 家康, 徳川家康公, 駿府城公園, 家康公
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 0entities.

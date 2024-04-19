@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MOA美術館の梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+花, 梅
+cluster1:(5)
+万華鏡, デザイン, 美術館, 光景, MOA美術館
+cluster2:(1)
+天井ホール
+cluster3:(1)
+熱海観光
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 4entities.

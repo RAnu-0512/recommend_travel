@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芭蕉の句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, 写真
+cluster1:(3)
+横, 前, 富士屋
+cluster2:(3)
+車, 旅館, 道路
+cluster3:(1)
+大仁
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

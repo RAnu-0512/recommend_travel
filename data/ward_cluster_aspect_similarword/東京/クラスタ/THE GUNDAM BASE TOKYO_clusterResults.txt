@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:THE GUNDAM BASE TOKYO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ガンプラ, ガンダム
+cluster1:(1)
+スケール
+cluster2:(1)
+感情
+cluster3:(1)
+哀愁
+cluster4:(1)
+御世話
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

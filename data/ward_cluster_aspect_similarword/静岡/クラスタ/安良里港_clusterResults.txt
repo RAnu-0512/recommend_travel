@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安良里港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+人, 下見, 場所, 時間, 感じ, 景色, 次回
+cluster1:(6)
+釣竿, 船, 駿河湾, 北, 海, 入り江
+cluster2:(5)
+船釣り, 港, 釣り, 安良里港, 浮島海岸
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 0entities.

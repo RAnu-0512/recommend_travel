@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営浅草線宝町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+人, 注意, エスカレーター, 昔, 出口, 面影, 銀座, 浅草線, 階段, 入口, ホーム
+cluster1:(5)
+駅, 地下鉄網, 東京駅, 駅スタンプ, 都営
+cluster2:(1)
+上り下り
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

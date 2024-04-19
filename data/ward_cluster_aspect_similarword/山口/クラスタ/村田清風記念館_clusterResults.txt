@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:村田清風記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+維新, 財政, 改革, 変革
+cluster1:(8)
+車, 中心, 扉, 飛躍, 業績, 歴史, 原動力, 教育
+cluster2:(4)
+海防, 天保, 軍制, 明治
+cluster3:(3)
+清風, 長州藩, 村田清風
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

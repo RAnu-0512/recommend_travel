@@ -1,0 +1,11 @@
+--------------------similar_words:石畳の参道--------------------
+top3 entities near to cluster0>>
+地蔵, 菩薩, 石像
+top3 entities near to cluster1>>
+時代, 辺り, 所々
+top3 entities near to cluster2>>
+敢当, 跳川
+top3 entities near to cluster3>>
+参道, 境内, 神社
+top3 entities near to cluster4>>
+境内, 本堂, 山門

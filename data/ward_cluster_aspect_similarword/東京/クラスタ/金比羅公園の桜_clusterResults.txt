@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金比羅公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 金比羅公園
+cluster1:(3)
+桜, 花見, 散歩
+cluster2:(5)
+ツツジ, ハイキング, 金比羅山, 眺め, ヤマザクラ
+cluster3:(1)
+展望台
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

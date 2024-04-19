@@ -1,0 +1,19 @@
+--------------------similar_words:大和サンプル製作所--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 息子
+top3 entities near to cluster1>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster2>>
+子ども, 小学生, 子供
+top3 entities near to cluster3>>
+サイン, グッズ, グッツ
+top3 entities near to cluster4>>
+パフェ, カレー, カレーライス
+top3 entities near to cluster5>>
+パーツ, サイズ, 部品
+top3 entities near to cluster6>>
+トッピング, ラーメン, スイーツ
+top3 entities near to cluster7>>
+帰り道, 代わり, 帰りがけ
+top3 entities near to cluster9>>
+作る, 体験

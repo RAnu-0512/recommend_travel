@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長府観光会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+長府観光会館, 長府
+cluster1:(16)
+ツアー客, 城下町, 菓子, 土産物, 散策, 観光バス, 女性, 海産物, 昼ご飯, 写真, 蒲鉾, 駐車場, お土産物屋, 下関, 友達, 拠点
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

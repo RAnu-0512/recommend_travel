@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金町浄水場取水塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金町, 金町駅
+cluster1:(3)
+柴又駅, 柴又帝釈天, 柴又
+cluster2:(3)
+トンガリ帽子, 矢切, こち亀
+cluster3:(20)
+水, 光景, 絵, 場所, 江戸川河川敷, とんがり屋根, 映画男, 近く, とんがり帽子, 形, 江戸川, 都, 施設, 天気, 存在, 金町浄水場, 映画, 目印, 土手, 漫画
+cluster4:(2)
+浄水場, 取水塔
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 5
+deleted 0entities.

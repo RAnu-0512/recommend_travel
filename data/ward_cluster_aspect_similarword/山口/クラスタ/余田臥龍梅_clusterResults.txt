@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:余田臥龍梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+傾斜地, 日本, 地, 散策, 色, 風景, 話, 北, 赤子山
+cluster1:(4)
+余田, 室町, 桜, 梅
+cluster2:(1)
+柳井市
+cluster3:(1)
+臥龍梅
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

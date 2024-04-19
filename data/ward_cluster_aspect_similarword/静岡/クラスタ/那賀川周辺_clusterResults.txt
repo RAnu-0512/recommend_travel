@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:那賀川周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜, 桜満開
+cluster1:(16)
+周辺, なまこ壁, 川, 桜並木, 伊豆, 春, 富士山, 清流, 辺り, ホタル, 那賀川, 花畑, 水, 川岸, 時期, 下流
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 2entities.

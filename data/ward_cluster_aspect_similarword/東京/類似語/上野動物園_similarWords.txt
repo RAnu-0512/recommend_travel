@@ -1,0 +1,233 @@
+--------------------similar_words:上野動物園--------------------
+top3 entities near to cluster0>>
+猿, キッチン, ニホンザル
+top3 entities near to cluster1>>
+オカピ, キリン, ビアビレッジ
+top3 entities near to cluster3>>
+アザラシ, シロクマ, シマウマ
+top3 entities near to cluster4>>
+アリクイ, コンドル, アルマジロ
+top3 entities near to cluster5>>
+オオカンガルー, プレーリードッグ, プレーリードック
+top3 entities near to cluster6>>
+ジャイアントパンダ, オオサンショウウオ, パンダ
+top3 entities near to cluster7>>
+レッサーパンダ, ホッキョクグマ, シセンレッサーパンダ
+top3 entities near to cluster8>>
+ハシビロコウ, ハシビロコウアホ, コアリクイ
+top3 entities near to cluster9>>
+カンガルー, モルモット, ウサギ
+top3 entities near to cluster10>>
+マヌル, ポーポー, ゴシキ
+top3 entities near to cluster11>>
+コウノトリ, ライチョウ, フラミンゴ
+top3 entities near to cluster12>>
+オオワシ, オオワシ・オジロワシ, コハクチョウ
+top3 entities near to cluster13>>
+ウサギ, カエル, うさぎ
+top3 entities near to cluster14>>
+人混み, 日差し, 長時間
+top3 entities near to cluster15>>
+雰囲気, 仕草, 表情
+top3 entities near to cluster16>>
+入り口, 出入り口, 入口
+top3 entities near to cluster17>>
+ランチ, スタバ, デート
+top3 entities near to cluster18>>
+カメラ, ライブ, アングル
+top3 entities near to cluster19>>
+ネット, テレビ, ショップ
+top3 entities near to cluster20>>
+ショー, ハウス, ショウ
+top3 entities near to cluster21>>
+イベント, レストラン, スタッフ
+top3 entities near to cluster22>>
+おみやげ, おにぎり, 土産
+top3 entities near to cluster23>>
+チケット, パスポート, アクセス
+top3 entities near to cluster24>>
+くつろぎ, スペース, オアシス
+top3 entities near to cluster25>>
+デートスポット, デートコース, オススメスポット
+top3 entities near to cluster26>>
+ストレス, 待ち時間, スムース
+top3 entities near to cluster27>>
+久しぶり, 久し振り, テンション
+top3 entities near to cluster28>>
+パターン, タイミング, 手法
+top3 entities near to cluster29>>
+イメージ, インパクト, 印象
+top3 entities near to cluster31>>
+メイン, メーン, サブ
+top3 entities near to cluster32>>
+昼過ぎ, おかげ, 昼前
+top3 entities near to cluster33>>
+ペース, ハイペース, スローペース
+top3 entities near to cluster36>>
+上野動物園, 乗り物, モノレール
+top3 entities near to cluster37>>
+ゴロン, スルー, ちゃん
+top3 entities near to cluster38>>
+子ども, 子供, お子さん
+top3 entities near to cluster39>>
+つれ, 引き連れ
+top3 entities near to cluster40>>
+息子, 両親, 母
+top3 entities near to cluster41>>
+双子, 兄妹, 末っ子
+top3 entities near to cluster42>>
+親子, 父子, 夫婦
+top3 entities near to cluster43>>
+子供, 子ども, 親達
+top3 entities near to cluster44>>
+子供, 人達, 仲間
+top3 entities near to cluster45>>
+子ども, 子供, 親達
+top3 entities near to cluster46>>
+子供, 子ども, づれ
+top3 entities near to cluster47>>
+熱中症, 熱中, 体調
+top3 entities near to cluster48>>
+リー, レイ, アンド
+top3 entities near to cluster49>>
+抜き, パンダ
+top3 entities near to cluster50>>
+ママ, パパ, 宇庵
+top3 entities near to cluster51>>
+パンダ, くろかっ, コパンダ
+top3 entities near to cluster52>>
+噂, うわさ, ウワサ
+top3 entities near to cluster54>>
+もり, 森, くま
+top3 entities near to cluster55>>
+笹, 葉, 雪持ち
+top3 entities near to cluster56>>
+桜, 緑, 青
+top3 entities near to cluster57>>
+坂, 弁天, 清水
+top3 entities near to cluster58>>
+やぎ, ウオッチン, ジョネット
+top3 entities near to cluster60>>
+クマ, トラ, ゾウ
+top3 entities near to cluster62>>
+都心, 都, 近辺
+top3 entities near to cluster63>>
+余裕, 規模, 距離
+top3 entities near to cluster64>>
+入口, 正門, 入り口
+top3 entities near to cluster65>>
+正面, 端, 奥
+top3 entities near to cluster66>>
+夕方, 平日, お昼
+top3 entities near to cluster67>>
+木, 金, 土
+top3 entities near to cluster69>>
+周囲, 周り, 自然
+top3 entities near to cluster70>>
+歴史, 時代, 年間
+top3 entities near to cluster71>>
+外国人, 外国, 大勢
+top3 entities near to cluster72>>
+季節, 冬, 冬場
+top3 entities near to cluster73>>
+天気, 気温, 気候
+top3 entities near to cluster74>>
+屋内, 屋外, 室内
+top3 entities near to cluster75>>
+土産店, 値段, 土産
+top3 entities near to cluster76>>
+生態系, 癒し系, 生態, 癒し
+top3 entities near to cluster77>>
+ゾーン, アニマルゾーン, グレー
+top3 entities near to cluster78>>
+目当て, パンダ, マニア
+top3 entities near to cluster79>>
+ゴリラ, チンパンジー, チーター
+top3 entities near to cluster80>>
+エリア, アーバンエリア, パンダ
+top3 entities near to cluster81>>
+ホット, コーン, ブラック
+top3 entities near to cluster82>>
+フード, 靴, コート
+top3 entities near to cluster83>>
+ワン, コイン, オンリー
+top3 entities near to cluster84>>
+施設, 工事, 設備
+top3 entities near to cluster86>>
+定番, お決まり, 王道
+top3 entities near to cluster87>>
+人気, 大人気, 定番
+top3 entities near to cluster88>>
+見所, 見どころ, 迫力
+top3 entities near to cluster89>>
+人気者, 人気, 大人気
+top3 entities near to cluster90>>
+興奮気味, 迫力, 興奮
+top3 entities near to cluster91>>
+待つ, 待てる
+top3 entities near to cluster92>>
+購入, 予約, 持参
+top3 entities near to cluster93>>
+公開, 休止, 新設
+top3 entities near to cluster94>>
+ガラス越し, ガラス, 向こう
+top3 entities near to cluster95>>
+予約制, 予約, 制は
+top3 entities near to cluster96>>
+気分, 気持ち, 気持
+top3 entities near to cluster97>>
+工夫, 難点, 文句
+top3 entities near to cluster98>>
+目的, 予定, つもり
+top3 entities near to cluster100>>
+機会, チャンス, 好機
+top3 entities near to cluster101>>
+べし, べき, 所存
+top3 entities near to cluster102>>
+動き, 行動, 刺激
+top3 entities near to cluster104>>
+内容, 印象, 写真
+top3 entities near to cluster105>>
+見せ, 見, 並ぶ
+top3 entities near to cluster107>>
+かけ声, かけ
+top3 entities near to cluster108>>
+動物園, 動物, 園内
+top3 entities near to cluster109>>
+入園, 入場, 入館
+top3 entities near to cluster110>>
+時間, 閉園
+top3 entities near to cluster111>>
+列, 行列, 長蛇
+top3 entities near to cluster112>>
+見学園, 動物園, 見学, 動物
+top3 entities near to cluster113>>
+公園, 園内, 広場
+top3 entities near to cluster115>>
+行楽地, 名所, 行楽
+top3 entities near to cluster116>>
+展示, 撮影, 館
+top3 entities near to cluster117>>
+休憩室, 休憩, 仮眠室, 仮眠
+top3 entities near to cluster118>>
+土産, 姉さん, やつ
+top3 entities near to cluster119>>
+食事, 夕食, 昼食
+top3 entities near to cluster120>>
+行楽, 花見, 遠足
+top3 entities near to cluster121>>
+ご飯, ごはん, 夕飯
+top3 entities near to cluster122>>
+散歩, 歩く, 散策
+top3 entities near to cluster123>>
+忍池, 忍, 戴立
+top3 entities near to cluster125>>
+飼育, 飼養, 飼う
+top3 entities near to cluster126>>
+餌, エサ, えさ
+top3 entities near to cluster127>>
+動物, ゾウ, 象
+top3 entities near to cluster128>>
+夜行性, 動物性, 夜行, 動物
+top3 entities near to cluster130>>
+動物, 人間, 生き物

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿多田交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+山口県, 平生町, 周南市, 平生(ひらお)町
+cluster1:(3)
+資料, 資料館, 阿多田交流館
+cluster2:(3)
+もの, こと, 場所
+cluster3:(4)
+前, インパクト, 太平洋戦争, レプリカ
+cluster4:(2)
+部屋, 勉強
+cluster5:(1)
+実物
+cluster6:(1)
+回転
+cluster7:(8)
+命, 戦争, ロケ, 映画, 兵器, 屋外, 海軍, 海
+cluster8:(6)
+脱出装置, 潜水学校, 訓練基地, 基地, 回天, 駐車場
+cluster9:(4)
+酸素魚雷, 人間魚雷, 水中特別攻撃隊, 人間魚雷回転
+
+howmany entities : 36
+howmany clusters : 10
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小鳥がさえずる公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小鳥, 野鳥, 鳥
+cluster1:(7)
+公園, 林, 近く, 池奥, 鳴き声, チラホラ, チュンチュン ピョピョ
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

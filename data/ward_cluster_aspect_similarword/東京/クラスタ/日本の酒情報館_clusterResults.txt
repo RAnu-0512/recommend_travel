@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本の酒情報館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+酒情報館, 日本の酒情報館, 外国人観光客, 情報館
+cluster1:(2)
+観光, 土産
+cluster2:(5)
+おすすめ, イベント, パンフレット, おじさん, スポット
+cluster3:(3)
+テーブル, カウンター, スペース
+cluster4:(1)
+姉さん
+cluster5:(1)
+買い物
+cluster6:(1)
+日本酒
+cluster7:(12)
+場所, 人, 種類, 近く, 比べ, 数, 価格, 方, 中, こと, 友人, もの
+cluster8:(5)
+施設, 情報, 映像, 歴史, 勉強
+cluster9:(1)
+実物
+cluster10:(7)
+新潟, 東京, 各地, 外国, 全国, 米, 日本
+cluster11:(6)
+西新橋, 虎ノ門, 新橋, 駅, 虎ノ門駅, ビル
+cluster12:(9)
+御酒, 酒どころ, 利き酒, 酒瓶, 蔵元, 焼酎, 酒, 瓶, 地酒
+cluster13:(2)
+飲み比べ, 飲み過ぎ
+cluster14:(2)
+試飲会, 試飲
+cluster15:(2)
+館内展示, 展示
+
+howmany entities : 63
+howmany clusters : 16
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 16
+deleted 0entities.

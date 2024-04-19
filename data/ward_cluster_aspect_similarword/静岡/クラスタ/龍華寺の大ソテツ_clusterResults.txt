@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍華寺の大ソテツ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観富山・龍華寺, 龍華寺
+cluster1:(18)
+紅葉, 日蓮宗, 上海, ソテツ, 大ソテツ, 天然記念物, 左手, 日本, サボテン, マイナスイオン, 国指定天然記念物, 山門, 緑, 本堂, 境内, 場所, 小学生, 想い出
+cluster2:(2)
+拝観料, 寺務所
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 1
+deleted 4entities.

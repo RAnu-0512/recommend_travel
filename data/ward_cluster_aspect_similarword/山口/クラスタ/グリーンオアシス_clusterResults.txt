@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グリーンオアシス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供連れ, 子供達
+cluster1:(2)
+風呂, お湯
+cluster2:(4)
+他, 地元, 方, 人
+cluster3:(8)
+子供, スポット, 子ども, おじさん, ウォータースライダー, 持ち込み, スライダー, プール
+cluster4:(3)
+食事, 値段, 客
+cluster5:(2)
+牡丹, 肩
+cluster6:(2)
+休憩所, 穴場スポット
+cluster7:(1)
+温水プール
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:着物レンタル一期一会--------------------
+top3 entities near to cluster0>>
+着物, 浴衣, 振袖
+top3 entities near to cluster1>>
+料金, 子供, 大人
+top3 entities near to cluster2>>
+機会, 時間, 予定
+top3 entities near to cluster4>>
+誕生, 日, 月

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石部平六地蔵の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+た.n, た.j
+cluster1:(4)
+こと, 紹介, 機会, 方
+cluster2:(2)
+店員, 看板
+cluster3:(2)
+裸, 海
+cluster4:(9)
+ボリューム, シーズンオフ, 思い出, 昔, 女性, シャワー, 露天風呂, 知り合い, 子供
+cluster5:(2)
+食事, 味
+cluster6:(1)
+深夜ドライブ
+cluster7:(1)
+お湯
+cluster8:(5)
+水着, 入浴可, 石部海水浴場, 水着着用, 水着禁止
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 10entities.

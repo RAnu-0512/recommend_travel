@@ -1,0 +1,7 @@
+--------------------similar_words:都立尾久の原公園--------------------
+top3 entities near to cluster1>>
+野原, はら, 木
+top3 entities near to cluster2>>
+公園, 花見, 河川敷
+top3 entities near to cluster3>>
+原, 公園, 森

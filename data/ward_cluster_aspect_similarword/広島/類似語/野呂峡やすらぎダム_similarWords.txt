@@ -1,0 +1,11 @@
+--------------------similar_words:野呂峡やすらぎダム--------------------
+top3 entities near to cluster0>>
+川, 桜, 櫻
+top3 entities near to cluster1>>
+遠足, 記憶, 小学校
+top3 entities near to cluster2>>
+整備, 改修, 拡充
+top3 entities near to cluster3>>
+ダム, ダムサイト, 小里川
+top3 entities near to cluster4>>
+だり, でる, だら

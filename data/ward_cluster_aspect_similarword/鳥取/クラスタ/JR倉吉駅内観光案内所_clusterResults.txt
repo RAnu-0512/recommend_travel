@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR倉吉駅内観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+倉吉市, 倉吉駅, 三朝温泉, 米子方面, 倉吉白壁, 倉吉近郊, 倉吉観光, 倉吉の昔話, JR倉吉駅, 鳥取行き普通電車
+cluster1:(3)
+観光パンフレット, 観光, 観光客
+cluster2:(3)
+観光案内, 案内所, 観光案内所
+cluster3:(1)
+土蔵群観光
+cluster4:(28)
+保存地区, パンフレット, 切符, 車, 駅, 南口, 到着, 像, JR, 余裕, 特急スーパーおき, 地元市民, ロータリー, 駅名, 行政サービスコーナー, 駐車場, 行き方, 昔, 施設, レンタルサイクル, ホーム, 土蔵, 電車, 情報, 名称, 改札, 白壁, 時間
+cluster5:(2)
+高速バス, バス
+cluster6:(2)
+時刻, バス時刻
+cluster7:(1)
+駅名標
+
+howmany entities : 50
+howmany clusters : 8
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 8
+deleted 0entities.

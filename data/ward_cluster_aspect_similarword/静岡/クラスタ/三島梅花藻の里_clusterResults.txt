@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三島梅花藻の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+梅花藻の里, ちらほらと梅花藻, 梅花藻
+cluster1:(2)
+湧水, 湧水地
+cluster2:(3)
+三島駅, 佐野美術館, 三島市
+cluster3:(2)
+減少, 所有
+cluster4:(2)
+近く, 場所
+cluster5:(5)
+ミシマバイカモ, 湧き水, 水中花, 醒ケ井, 伊豆箱根鉄道
+cluster6:(1)
+水
+cluster7:(3)
+梅, 花, 季節
+cluster8:(1)
+和菓子屋
+cluster9:(7)
+水辺, 水神様, 川, 源兵衛川, 池, 湧き水公園, 藻
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 8entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梶井基次郎文学碑(静岡県伊豆市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湯ヶ島口, 湯ヶ島
+cluster1:(3)
+梶井, 川端康成, 梶井基次郎
+cluster2:(3)
+静養, 療養, 温泉地
+cluster3:(11)
+森林, こと, 病, 伊豆, 感動, 階段, 大正, 校正, 檸檬, 踊子, 脇
+cluster4:(3)
+松坂城跡, 文学碑, 城のある町
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 2entities.

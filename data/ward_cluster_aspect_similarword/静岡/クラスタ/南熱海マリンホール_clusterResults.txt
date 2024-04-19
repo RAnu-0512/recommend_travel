@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南熱海マリンホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊東線, JR
+cluster1:(3)
+バレーボール, スポーツ, トレーニングルーム
+cluster2:(2)
+スポーツホール, ホール
+cluster3:(2)
+館内, 音楽ホール
+cluster4:(1)
+卓球
+cluster5:(2)
+古さ, 海際
+cluster6:(8)
+ホール施設, 文化施設, 武道場, 多目的施設, トレーニング施設, 会議室, 運動施設, 施設
+cluster7:(1)
+小山臨海公園
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 10entities.

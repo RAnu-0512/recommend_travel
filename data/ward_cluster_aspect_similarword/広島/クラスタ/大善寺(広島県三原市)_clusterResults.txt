@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大善寺(広島県三原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+三原駅, 山陽本線三原駅, 三原市, 徒歩圏
+cluster1:(3)
+軍師官兵衛, 小早川隆景室, 忠真
+cluster2:(5)
+広島, 春日, 浅野, 西町, 県
+cluster3:(2)
+心, 鈴
+cluster4:(4)
+感じ, 所, こと, 場所
+cluster5:(2)
+境内, 春日局ゆかり
+cluster6:(2)
+歴史, 時間
+cluster7:(10)
+文化財, 周囲, オススメ, 母, アクセス, ゆかり, ひととき, 人, 雰囲気, 大善寺
+cluster8:(1)
+囲気
+cluster9:(1)
+散歩
+cluster10:(4)
+つぼ, 寺, 阿弥陀如来立像, 寺めぐり
+
+howmany entities : 38
+howmany clusters : 11
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 11
+deleted 0entities.

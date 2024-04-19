@@ -1,0 +1,13 @@
+--------------------similar_words:弥生式土器の発見地--------------------
+top3 entities near to cluster1>>
+農学部, 工学部, 理工学部
+top3 entities near to cluster2>>
+図書館, キャンパス, 大学
+top3 entities near to cluster3>>
+駅付近, 近辺, 駅
+top3 entities near to cluster4>>
+地名, 石碑, 土地
+top3 entities near to cluster5>>
+環状線, 環状, 三田線
+top3 entities near to cluster6>>
+土器, 弥生, 縄文

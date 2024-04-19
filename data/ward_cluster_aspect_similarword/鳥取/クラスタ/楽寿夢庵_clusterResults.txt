@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:楽寿夢庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土産物店, 土産
+cluster1:(4)
+じゅうむあん, 隣, 各種, ズラリ
+cluster2:(2)
+館, 温泉
+cluster3:(1)
+ほとり陣所
+cluster4:(1)
+とち餅
+cluster5:(1)
+三朝橋
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤羽彫金銀ゆび輪>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+彫金体験, 彫金
+cluster1:(2)
+体験, 体験教室
+cluster2:(7)
+予定時間, 行程, 標準時間, 時間, 溶解作業, 作業, 工程
+cluster3:(15)
+おすすめ, 店, 最後, 場所, 仕上がり, コーヒー, ところ, シルバー, リング, 身, こと, 側面, 先生, 雰囲気, 全て
+cluster4:(5)
+銀, 指輪, 純銀, 刻印, 玉
+cluster5:(2)
+ペアリング作り, 槌目
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 6
+deleted 0entities.

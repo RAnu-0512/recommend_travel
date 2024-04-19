@@ -1,0 +1,43 @@
+--------------------similar_words:浜松市楽器博物館--------------------
+top3 entities near to cluster0>>
+楽器, 弦楽器, 管楽器
+top3 entities near to cluster1>>
+ピアノ, バイオリン, フルート
+top3 entities near to cluster4>>
+最寄り, 買い物, なじみ
+top3 entities near to cluster5>>
+コーナー, ショップ, アイテム
+top3 entities near to cluster7>>
+イベント, デザイン, コンサート
+top3 entities near to cluster11>>
+機会, 興味, 価値
+top3 entities near to cluster13>>
+紹介, 見学, お話し
+top3 entities near to cluster18>>
+音源, 録音, 音質
+top3 entities near to cluster20>>
+音色, 奏法
+top3 entities near to cluster25>>
+歴史, 規模, 現代
+top3 entities near to cluster28>>
+土産, おみやげ, 土産物
+top3 entities near to cluster29>>
+駅, 徒歩, 距離
+top3 entities near to cluster30>>
+高校, 町, 公立
+top3 entities near to cluster36>>
+友人, 主人, 家族
+top3 entities near to cluster37>>
+子供, 子ども, 大人
+top3 entities near to cluster38>>
+指, のど
+top3 entities near to cluster39>>
+大雨, 台風
+top3 entities near to cluster40>>
+展示室, 研究室, 展示, 研究
+top3 entities near to cluster41>>
+展示, 出展, 展覧
+top3 entities near to cluster44>>
+体験, 演奏, 実演
+top3 entities near to cluster52>>
+時間, 駅, 滞在

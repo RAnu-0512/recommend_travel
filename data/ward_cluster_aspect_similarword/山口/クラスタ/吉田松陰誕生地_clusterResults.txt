@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田松陰誕生地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松陰, 吉田松陰
+cluster1:(3)
+石碑, 銅像, 墓
+cluster2:(2)
+景色, 眺め
+cluster3:(3)
+もの, かぁ, 方
+cluster4:(3)
+日本, 歴史, 誕生
+cluster5:(8)
+松陰神社, 街, バス停, 場所, 地, 高台, 近く, 山
+cluster6:(1)
+萩
+cluster7:(1)
+駐車場
+cluster8:(1)
+生誕地
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 9
+deleted 0entities.

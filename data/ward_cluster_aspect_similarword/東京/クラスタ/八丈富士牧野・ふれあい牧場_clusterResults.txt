@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丈富士牧野・ふれあい牧場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+牛たち, 鉢巻道路, 観光牧場, 休憩所, 駐車場, 放牧場, 中央部, 未舗装, ふれあい牧場, 牛, 牧場, 牧草地, 展望台
+cluster1:(2)
+砂利, 道
+cluster2:(3)
+中腹, 急坂, 登山
+cluster3:(24)
+場所, 島, 多く, 先, 景色, 手洗い, 人, 青ヶ島, 軽自動車, タイヤ, 姿, 販売, 夏, お手洗い, 八丈島, 天気, 車, 海, 風景, 方, 原因, こと, 三原山, 八丈小島
+cluster4:(1)
+レンタカ
+cluster5:(1)
+八丈富士
+cluster6:(1)
+牧草地中央の展望所
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 7
+deleted 0entities.

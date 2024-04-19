@@ -1,0 +1,23 @@
+--------------------similar_words:阿伏兎岬--------------------
+top3 entities near to cluster0>>
+伏, 阿, 兎
+top3 entities near to cluster1>>
+都合, 日程, 利益
+top3 entities near to cluster3>>
+海沿い, 断崖絶壁, 絶景
+top3 entities near to cluster4>>
+時間, 時分, 時
+top3 entities near to cluster6>>
+足, 後足, 両足
+top3 entities near to cluster7>>
+終点, 起点, 始点
+top3 entities near to cluster8>>
+猛暑, 酷暑, 暑い
+top3 entities near to cluster9>>
+景色, 崖, 海岸
+top3 entities near to cluster10>>
+神社, 境内, 寺院
+top3 entities near to cluster11>>
+入館, 宿泊, 外客
+top3 entities near to cluster13>>
+安産, 祈願, 御利益

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩青梅七福神めぐり>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お不動様, 坊様達
+cluster1:(2)
+緑, 黄緑
+cluster2:(5)
+沢山, 感じ, 上, 中, こと
+cluster3:(5)
+人, 車, マイカー, 昼, 両親
+cluster4:(4)
+七福神めぐり, 山, 庭, 神
+cluster5:(5)
+法要, 本殿, 菓子, みどりの祭り, おうどん
+cluster6:(2)
+青梅七福神巡り, 演芸大会
+cluster7:(1)
+護摩炊き
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 8
+deleted 0entities.

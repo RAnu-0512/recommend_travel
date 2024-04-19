@@ -1,0 +1,13 @@
+--------------------similar_words:漆芸工房 KOUGEI椿--------------------
+top3 entities near to cluster0>>
+継ぎ, 金, 土
+top3 entities near to cluster1>>
+漆, 皿, 漆器
+top3 entities near to cluster2>>
+勉強, 時間, 話
+top3 entities near to cluster3>>
+予約, 体験, 受付
+top3 entities near to cluster4>>
+金, 金火, 土
+top3 entities near to cluster5>>
+興味, 機会

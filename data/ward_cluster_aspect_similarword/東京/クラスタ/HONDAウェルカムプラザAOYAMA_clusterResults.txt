@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:HONDAウェルカムプラザAOYAMA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+車, 展示車, カッコイイ車, 展示
+cluster1:(6)
+肝心, 場所, 人, 時間, 方, もの
+cluster2:(16)
+ショールーム, カフェ, イベント, ホンダ, 駆け足, ところ, バイク, ASIMO, 飲み物, カスタマー, フォトセッション, クルマ, 写真, 出迎え, 不定期, ショー
+cluster3:(1)
+表
+cluster4:(6)
+店, 客, 催し, 格安, 体験, 歌
+cluster5:(4)
+本社, 角度, 接点, 手話
+cluster6:(5)
+青山, 青山一丁目駅, 青山通り, 青山辺り, 銀座線
+
+howmany entities : 42
+howmany clusters : 7
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 7
+deleted 0entities.

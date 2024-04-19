@@ -1,0 +1,25 @@
+--------------------similar_words:萩ガラス工房--------------------
+top3 entities near to cluster0>>
+ヒビ, ひび, 貫入
+top3 entities near to cluster1>>
+体験, 体感, ワークショップ
+top3 entities near to cluster2>>
+吹き, 吹く, 吹きで
+top3 entities near to cluster3>>
+ガラス細工, ガラス, びがら
+top3 entities near to cluster5>>
+醤油差し, 醤油
+top3 entities near to cluster6>>
+興味
+top3 entities near to cluster7>>
+グラス, ワイン, シャンパン
+top3 entities near to cluster8>>
+コップ, ガラス, グラス
+top3 entities near to cluster9>>
+ネックレス, アクセサリー, 思い出
+top3 entities near to cluster10>>
+晩酌, 寝酒, オツマミ
+top3 entities near to cluster11>>
+虎ヶ崎, 鈴ヶ岳, 三日月山
+top3 entities near to cluster12>>
+ガラス, 陶器, 皿

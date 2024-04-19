@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日枝神社の一位樫>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+杉, 古木, 木, 大木
+cluster1:(2)
+伊豆, 九州
+cluster2:(4)
+天然記念物, 感じ, 雰囲気, 他
+cluster3:(2)
+右側, 左前
+cluster4:(1)
+右奥
+cluster5:(1)
+静岡県
+cluster6:(7)
+拝殿, 日枝神社, 境内, 本殿, 子宝, 参道, 子宝の杉
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 6entities.

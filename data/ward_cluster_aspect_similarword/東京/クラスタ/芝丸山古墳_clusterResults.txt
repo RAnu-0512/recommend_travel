@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芝丸山古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+階段道, 登山道, 階段
+cluster1:(3)
+社会科, 体験学習, 体験
+cluster2:(2)
+築造, 古墳
+cluster3:(3)
+山, 丘, 碑
+cluster4:(2)
+価値, 原型
+cluster5:(15)
+大本山, 場所, 子供, ところ, 感じ, プリンスホテル, 上, 芝公園, 増上寺, 周り, 敷地, 前方後円墳, 真ん中, 周辺, 東京タワー
+cluster6:(1)
+都心
+cluster7:(1)
+カメラ撮影
+cluster8:(4)
+東京さ, 江戸時代, ひさしぶり, 都立芝公園
+cluster9:(3)
+伊能忠敬, 芝丸山古墳, 古墳らしさ
+
+howmany entities : 37
+howmany clusters : 10
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 10
+deleted 0entities.

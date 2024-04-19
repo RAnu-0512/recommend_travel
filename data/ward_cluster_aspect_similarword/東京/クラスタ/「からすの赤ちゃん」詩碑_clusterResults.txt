@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:「からすの赤ちゃん」詩碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歌, 童謡, 作詞
+cluster1:(6)
+こと, 石碑, 赤ちゃん, 記憶, 護国寺, 戦後
+cluster2:(1)
+作詞作曲
+cluster3:(2)
+海沼實, お猿のかごや
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

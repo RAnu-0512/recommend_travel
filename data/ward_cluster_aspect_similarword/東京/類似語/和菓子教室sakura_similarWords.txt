@@ -1,0 +1,17 @@
+--------------------similar_words:和菓子教室sakura--------------------
+top3 entities near to cluster0>>
+体験, 抹茶, 和菓子
+top3 entities near to cluster2>>
+質問, 提案, 回答
+top3 entities near to cluster3>>
+子供, 子ども
+top3 entities near to cluster4>>
+先生, 人達, 皆さん
+top3 entities near to cluster5>>
+自宅, 自室, 実家
+top3 entities near to cluster6>>
+日常, 日々, 何気ない
+top3 entities near to cluster7>>
+指揮者, 参加者, 指揮, 参加
+top3 entities near to cluster8>>
+早い, 自由

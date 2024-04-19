@@ -1,0 +1,19 @@
+--------------------similar_words:SLやまぐち号--------------------
+top3 entities near to cluster0>>
+窓口, 売店, 係員
+top3 entities near to cluster1>>
+トイレ, 車内
+top3 entities near to cluster3>>
+昼食, 夕食, お昼
+top3 entities near to cluster4>>
+写真店, 界隈, 写真
+top3 entities near to cluster5>>
+奥, 手前, 奥深い
+top3 entities near to cluster6>>
+利用, 対策, 締切
+top3 entities near to cluster8>>
+列車, 車内
+top3 entities near to cluster9>>
+トロ調, トロ, ぐち
+top3 entities near to cluster10>>
+展望室, 研究室, 展望, 研究

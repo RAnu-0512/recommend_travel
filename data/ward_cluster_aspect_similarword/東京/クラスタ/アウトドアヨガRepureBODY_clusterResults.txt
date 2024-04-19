@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アウトドアヨガRepureBODY>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+湖周遊, 駐車場, 具沢山, 精進料理
+cluster1:(11)
+SUP, 贅沢, 興味, パドル, 気持ち, 山, スタッフ, 場所, レクチャー, 奥多摩, 客
+cluster2:(3)
+ヨガ, 気功, ヨガ歴
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

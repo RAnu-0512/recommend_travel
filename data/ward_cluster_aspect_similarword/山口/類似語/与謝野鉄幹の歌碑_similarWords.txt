@@ -1,0 +1,13 @@
+--------------------similar_words:与謝野鉄幹の歌碑--------------------
+top3 entities near to cluster0>>
+俳人, 俳句
+top3 entities near to cluster1>>
+歌唱, 歌詞
+top3 entities near to cluster2>>
+季節, 時季, 時期
+top3 entities near to cluster3>>
+山頂, 頂上, 中腹
+top3 entities near to cluster4>>
+歌碑, 句碑, 詩碑
+top3 entities near to cluster5>>
+鉄幹, 晶子, 礼厳

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅蔭禅寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅地, 地
+cluster1:(5)
+墓石, 銅像, 墓, 生家, 功績
+cluster2:(4)
+否, こと, 機会, 縁
+cluster3:(2)
+英, 語
+cluster4:(9)
+御朱印, 帰り, 地元, 入口, ところ, こじんまり, 親分, 実家, 寺
+cluster5:(1)
+振興
+cluster6:(1)
+土産物店内
+cluster7:(4)
+実業家, 開校, 侠客, 開墾
+cluster8:(1)
+海運業
+cluster9:(11)
+次郎長ゆかり, 清水の次郎長, 清水市, 三保, 清水, 次郎長, 清水駅, 梅蔭寺, 松原, 次郎, 富士山麓
+
+howmany entities : 40
+howmany clusters : 10
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 7entities.

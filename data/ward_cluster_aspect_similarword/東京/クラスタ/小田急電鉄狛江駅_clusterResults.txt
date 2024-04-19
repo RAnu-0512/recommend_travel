@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急電鉄狛江駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+各駅停車, 駅停車
+cluster1:(3)
+狛江市, 登戸駅, 狛江駅
+cluster2:(12)
+駅, 市, 駐輪場, 代表駅, 小田急線, 普通電車, 電車, 感じ, 東京メトロ, 結果, 住宅地, 千代田線
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

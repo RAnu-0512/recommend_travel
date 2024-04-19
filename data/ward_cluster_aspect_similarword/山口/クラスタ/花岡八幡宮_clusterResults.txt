@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花岡八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+周囲, 問題, 方, 夕方, 足, 雰囲気, 近く, 参り, 途中, 人影
+cluster1:(5)
+本殿, 宝塔, 石段, 神社, 鳥居
+cluster2:(1)
+駐車場
+cluster3:(1)
+阿加井坊
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

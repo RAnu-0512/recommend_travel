@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:動坂遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+動坂遺跡, 動坂
+cluster1:(3)
+駒込駅, 東京都, 駒込病院
+cluster2:(2)
+縄文時代, 江戸時代
+cluster3:(5)
+見ごたえ, 場所, 地下鉄, 前, あたり
+cluster4:(2)
+高台, 遺跡
+cluster5:(1)
+坂
+cluster6:(1)
+貝塚
+cluster7:(1)
+説明板
+cluster8:(1)
+指定史跡
+
+howmany entities : 18
+howmany clusters : 9
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 9
+deleted 0entities.

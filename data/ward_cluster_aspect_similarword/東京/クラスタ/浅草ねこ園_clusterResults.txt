@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草ねこ園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+里親探し, 里親, 里親募集
+cluster1:(5)
+ねこちゃん, ねこ, こちゃん, ねこカフェ, 猫こ
+cluster2:(2)
+猫たち, 猫達
+cluster3:(2)
+猫ちゃん達, 猫ちゃんたち
+cluster4:(1)
+ネコたち
+cluster5:(3)
+子猫, 仔猫たち, 仔猫ちゃん
+cluster6:(2)
+ネコ, ネコカフェ
+cluster7:(4)
+猫, 猫カフェ, 人懐こい猫, 猫ちゃん
+cluster8:(4)
+大人猫, 親猫, 猫屋敷, 実家猫
+cluster9:(9)
+親猫子猫, 保護ねこ, 子猫大人猫, 保護猫カフェ, 保護猫たち, 保護猫ちゃん, 保護猫ちゃんたち, 違い保護猫カフェ, 保護猫
+cluster10:(6)
+浅草駅, 雑居ビル, 浅草観光, 浅草感, 浅草ねこ園, 浅草
+cluster11:(4)
+子, 子たち, 子達, どこ子
+cluster12:(2)
+癒し空間, 癒し
+cluster13:(2)
+寝て, 退散
+cluster14:(3)
+客, 観光, 外国人
+cluster15:(18)
+TV, カフェ, 夢, 普通, 雰囲気, ギャップ, スポット, おすすめ, オーナー, ところ, 人間, オススメ, 人, 年寄り, ふれあい, 上, バラエティ, イメージ
+cluster16:(3)
+方, こと, ほか
+cluster17:(2)
+気, 感じ
+cluster18:(2)
+顔, 姿
+cluster19:(12)
+保護, 料金, 施設, 膝, エサ, 部屋, 有料, 時間, 店内, 場所, 客間, 禁止
+cluster20:(1)
+時間制
+cluster21:(1)
+おせじ
+cluster22:(1)
+不信感
+cluster23:(1)
+───O
+
+howmany entities : 93
+howmany clusters : 24
+howmany entities (more than1entities) : 93
+howmany clusters (more than1entities) : 24
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:大観音寺(東京都中央区)--------------------
+top3 entities near to cluster0>>
+都会, 一寸, 奥
+top3 entities near to cluster1>>
+駅, 区, 駅前
+top3 entities near to cluster2>>
+本堂, 境内, 寺院
+top3 entities near to cluster5>>
+菩薩, 本尊, 観音
+top3 entities near to cluster6>>
+人形, 町, 水天
+top3 entities near to cluster7>>
+有形, 都, 無形

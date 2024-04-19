@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野坂オートマタ美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+常設, 常設展示, 展示, オートマタ実演, 所蔵作品, 実演会, 解説映像資料, 企画展, 映像資料, 実演, 企画展示
+cluster1:(2)
+トイレ個室内, トイレ洗面所
+cluster2:(2)
+動き, 動作
+cluster3:(3)
+所, 位置, 場所
+cluster4:(2)
+案内, 訪問
+cluster5:(19)
+隣, 椅子, 館内, 世界, 厨, 仕組み, シザーマン, 美術館, エアータオル, いくつか, 映像, 雰囲気, トイレ, 子供, DVD, ビデオ, オートマタ, 作品, オートマータ
+cluster6:(16)
+幾つか, 他, 事, 否, 若干, 大体, こと, 価値, 想像, もの, 時間, 場合, 全て, 筈, 愉快さ, 結果
+cluster7:(5)
+荷物, 人形, カラクリ人形, 折りたたみ荷物置き, からくり人形
+cluster8:(1)
+ジャキン!
+
+howmany entities : 61
+howmany clusters : 9
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 5
+deleted 7entities.

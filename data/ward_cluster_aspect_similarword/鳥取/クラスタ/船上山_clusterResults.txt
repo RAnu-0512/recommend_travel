@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船上山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+幕府方, 鎌倉幕府
+cluster1:(4)
+溶岩柱, 溶岩, 途中のぞき岩, 燈籠台
+cluster2:(6)
+豪族, 養殖キノコ, 東坂登山, 史跡, 天皇, 隠岐
+cluster3:(20)
+休憩所, コース, 初心者, 山, トイレ, 船上山, 食卓, 木々, 戦い, 雨, 後醍醐, 下草, 口, 箇所, 中腹, 上, 頂上, 近く, 方, 途中
+cluster4:(1)
+名和長
+
+howmany entities : 33
+howmany clusters : 5
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 5
+deleted 0entities.

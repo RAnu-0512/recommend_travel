@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:BBQ SPACE T-ROCK VILLAGE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+バーベキュー施設, 施設
+cluster1:(2)
+BBQ場, バーベキュー場
+cluster2:(7)
+ジュース代, 親戚, 女将, 客, 家族, 席, 金
+cluster3:(7)
+雨, 屋根, 氷, 駅, 天気, そば, 川
+cluster4:(35)
+所, スタッフ, 最後, 場所, ボリューム, 手ぶら, 自然, ドリンク, HP, 土砂降り, ドリンクバー, 利用, 他, ハロウィン, グループ, BBQ, 感じ, 近く, 意外, ポイント, トイレ, 自販機, セット, 食後, 印象, ごはん飲み物, 記載, 時間, ハンモック, 方, 中, 対応, 注文, 雰囲気, バーベキュー
+cluster5:(12)
+コロナ禍, 肉, 野菜, 子供, 娘たち, カリふわ, 食材, 脂, 焼きマシュマロ, ラム肉, 子供たち, 炭
+cluster6:(1)
+売切マーク
+
+howmany entities : 66
+howmany clusters : 7
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 7
+deleted 0entities.

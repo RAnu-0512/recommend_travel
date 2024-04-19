@@ -1,0 +1,15 @@
+--------------------similar_words:北江古田遺跡--------------------
+top3 entities near to cluster0>>
+区板, 案内板, 区, 案内
+top3 entities near to cluster1>>
+縄文, 旧石器時代, 石器
+top3 entities near to cluster2>>
+近辺, 最寄り, ほど近い
+top3 entities near to cluster3>>
+遺跡, 古墳, 遺物
+top3 entities near to cluster4>>
+古田, 遺跡, 古墳
+top3 entities near to cluster5>>
+公園, 森, 緑地
+top3 entities near to cluster6>>
+資源, 産業, 経済

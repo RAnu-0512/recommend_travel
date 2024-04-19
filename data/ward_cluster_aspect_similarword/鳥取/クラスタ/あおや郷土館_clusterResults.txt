@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あおや郷土館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青谷, 青谷町
+cluster1:(2)
+資料館, 資料
+cluster2:(2)
+こと, 基本
+cluster3:(2)
+世界, 顕微鏡
+cluster4:(2)
+砂, 海岸
+cluster5:(1)
+山陰ジオパーク
+cluster6:(1)
+鳴き砂
+cluster7:(1)
+あおや郷土館
+
+howmany entities : 13
+howmany clusters : 8
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 8
+deleted 0entities.

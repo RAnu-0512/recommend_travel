@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:「銀河」ランチ&ディナークルーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+案内, 連絡, 乗船, 出港, 開始, 受付
+cluster1:(2)
+夜景, 港
+cluster2:(12)
+ベンチ, 待合室, 友人, ランチクルーズ, ランチ, 賑わい, 妻, 感じ, 部屋, 所, クルーズ, ナイフ
+cluster3:(5)
+GW, 客, 復路, 旅行, 料金
+cluster4:(4)
+在住, 昭和, 総勢, 友人達
+cluster5:(2)
+宇品港, 広島港⇔
+cluster6:(2)
+広島, 広島駅
+cluster7:(2)
+宮島, 宮島往復
+cluster8:(1)
+路面電車
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 9
+deleted 0entities.

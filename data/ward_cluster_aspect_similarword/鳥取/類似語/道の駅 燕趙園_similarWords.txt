@@ -1,0 +1,33 @@
+--------------------similar_words:道の駅 燕趙園--------------------
+top3 entities near to cluster0>>
+趙園, 趙, 燕
+top3 entities near to cluster1>>
+龍, 嶺, 老
+top3 entities near to cluster2>>
+駅, 中華, 駅前
+top3 entities near to cluster3>>
+庭園, 中庭, 名園
+top3 entities near to cluster4>>
+建物, 敷地, 入口
+top3 entities near to cluster5>>
+県道, 道路
+top3 entities near to cluster6>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster9>>
+土産, おみやげ, 土産物
+top3 entities near to cluster10>>
+名物, 店内
+top3 entities near to cluster11>>
+生姜, 茶, 緑茶
+top3 entities near to cluster13>>
+バニラ, アーモンド, クッキー
+top3 entities near to cluster14>>
+紫陽花, ランチ, あじさい
+top3 entities near to cluster15>>
+ショー, ショウ, ミー・ラヴ
+top3 entities near to cluster16>>
+土産物, 歩道橋, みやげ物
+top3 entities near to cluster17>>
+ドライ, フルーツ, ウェット
+top3 entities near to cluster18>>
+クコ, 月餅, 実

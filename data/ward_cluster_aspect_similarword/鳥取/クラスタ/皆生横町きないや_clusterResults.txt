@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:皆生横町きないや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+交差点, 皆生温泉, 関連グッズ, 販売, 目, 限定, 買い物, 地元, じまい, おみやげ, ジェラート, もの, 雰囲気, ジェラード, 商品
+cluster1:(7)
+旅館, 客, メイン道路, 菓子, 地酒, 店員, 温泉
+cluster2:(4)
+米子, 鳥取, 朝イチ訪問, 境港の鬼太郎
+cluster3:(10)
+土産小物, 特産品, 塩饅頭, 土産ショップ, 土産, 土産処, 皆生街道, 温泉街散策, 温泉街, 皆生温泉旅館組合
+
+howmany entities : 36
+howmany clusters : 4
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 4
+deleted 0entities.

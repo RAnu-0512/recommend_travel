@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:曳舟川親水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供達, 子供たち
+cluster1:(4)
+楽器, 水遊び場, 散歩, 練習
+cluster2:(2)
+子供, 子
+cluster3:(4)
+オススメ, オフシーズン, スポット, 雰囲気
+cluster4:(2)
+水遊び, 遊び場
+cluster5:(3)
+場所, 近く, 方
+cluster6:(1)
+光景
+cluster7:(5)
+水, 夏場, 夏, 水辺, 日陰
+cluster8:(5)
+曳舟川, 道路沿い, 親水公園, 曳舟川親水公園, 京成お花茶屋駅
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 9
+deleted 0entities.

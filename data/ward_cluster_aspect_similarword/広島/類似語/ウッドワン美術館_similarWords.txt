@@ -1,0 +1,21 @@
+--------------------similar_words:ウッドワン美術館--------------------
+top3 entities near to cluster0>>
+倉本, 門坂, 西田
+top3 entities near to cluster3>>
+絵画, 作品, 美術
+top3 entities near to cluster4>>
+新館, 当館, 本館
+top3 entities near to cluster6>>
+敷地, 建物, 家屋
+top3 entities near to cluster7>>
+温泉, 施設, 旅館
+top3 entities near to cluster8>>
+磁器, 陶器, 陶磁器
+top3 entities near to cluster9>>
+農業系, 林業, 農業
+top3 entities near to cluster10>>
+常設展, 展示, 常設
+top3 entities near to cluster11>>
+美術品, 品等, 美術
+top3 entities near to cluster12>>
+ワン, 空間, ホテル

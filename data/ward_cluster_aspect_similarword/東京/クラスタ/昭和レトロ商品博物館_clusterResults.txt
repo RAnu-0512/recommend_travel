@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昭和レトロ商品博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(40)
+意味, 店構え, 管理者, 昔, 墓パッケージ, タイム, 昭和, 人, テーマ, 他, 販売品, 気, 無頓着, どこか, 商品, 感じ, 某・映画, パッケージ, 客足減少, オブジェ, 影響, 施設, 休店, 趣, ドロップ, 品々, 元気, 博物館, 前, 看板, 商店街, 世代, 映画, 中, 方, 映画看板, 雰囲気, 時代, 駄菓子屋, 展示
+cluster1:(2)
+レトロ化, チンドン屋
+cluster2:(2)
+昭和幻燈館, 古き良き昭和
+cluster3:(3)
+青梅赤塚不二夫会館, 青梅, 青梅駅
+
+howmany entities : 47
+howmany clusters : 4
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 4
+deleted 0entities.

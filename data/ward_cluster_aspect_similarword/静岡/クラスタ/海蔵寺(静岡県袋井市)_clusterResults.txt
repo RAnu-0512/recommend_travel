@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海蔵寺(静岡県袋井市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+開基, 建立, 末寺
+cluster1:(7)
+こじんまり, 父貞世, こと, 堂, 大寺, 直筆, 寺
+cluster2:(2)
+中遠地方, 今川仲秋
+cluster3:(1)
+JR 袋井駅
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 3entities.

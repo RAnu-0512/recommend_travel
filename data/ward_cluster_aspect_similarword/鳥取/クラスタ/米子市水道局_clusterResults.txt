@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米子市水道局>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+記念館, 水道記念館
+cluster1:(3)
+水道水, 水道, 地下水
+cluster2:(2)
+見学, 受付
+cluster3:(2)
+建物, 建築
+cluster4:(2)
+施設, 敷地
+cluster5:(5)
+水道局, 文化財, 国, メイン, ロマネスク風
+cluster6:(2)
+新庁舎, 米子市
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 7
+deleted 0entities.

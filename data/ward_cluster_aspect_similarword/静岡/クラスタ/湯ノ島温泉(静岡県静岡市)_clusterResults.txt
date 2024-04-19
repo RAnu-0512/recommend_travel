@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯ノ島温泉(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+お湯, 温泉, 湯
+cluster1:(2)
+紅葉, 真冬
+cluster2:(9)
+スポット, 持ち込み, 部屋, 人気, お母さんたち, 店, お隣, 地元, 時期
+cluster3:(1)
+市営
+cluster4:(1)
+手打ちそば
+cluster5:(2)
+川沿い, 泉質
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 6entities.

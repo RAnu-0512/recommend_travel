@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉川上水緑道(東京都小平市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+玉川上水沿いを東, 都立小金井公園, 住宅地, 幹線道路, 緑道公園, 上水沿い, 小平小金井, 上水, 五日市街道, 玉川上水緑道, 緑道
+cluster1:(4)
+散歩, 散策路, 散歩コース, 散策
+cluster2:(7)
+玉川, 杜, 木, 天然, 水, 都, 大和
+cluster3:(8)
+水路, 川, 距離, 地図, 道, 公園, 玉川上水駅, 範囲
+cluster4:(8)
+絨毯, 緑, 地面, 鯉, 足, 葉, 脇, 色
+cluster5:(13)
+葉っぱ, ウォーキング, インフラ, ランニング, 玉川上水, 人通り, 気持ち, ガタガタ, せせらぎ, 自転車, 木漏れ日, ガードレール, コース
+cluster6:(5)
+犬, 子連れ, 人, 子供, 車
+cluster7:(3)
+周辺, 近く, 時間
+cluster8:(1)
+声
+cluster9:(1)
+セミ
+cluster10:(4)
+木々, 木陰, 黄葉, 新緑
+cluster11:(4)
+転換, 眺め, 感じ, 気分
+cluster12:(5)
+季節, お花, 満開, 時期, 天気
+cluster13:(2)
+写メ, 都内最大級
+
+howmany entities : 76
+howmany clusters : 14
+howmany entities (more than1entities) : 76
+howmany clusters (more than1entities) : 14
+deleted 0entities.

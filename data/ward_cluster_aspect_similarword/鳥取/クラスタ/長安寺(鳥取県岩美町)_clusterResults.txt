@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長安寺(鳥取県岩美町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+オーラ, 雰囲気, 人, 気持ち, 中, マイナスイオン, 場所
+cluster1:(2)
+山, 自然
+cluster2:(2)
+寺, 建立
+cluster3:(2)
+桐山城, 岩美町
+cluster4:(1)
+宇治長者藤原冬久
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

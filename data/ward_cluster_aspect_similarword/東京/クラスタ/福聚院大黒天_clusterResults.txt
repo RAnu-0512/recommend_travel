@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福聚院大黒天>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+とうがらし地蔵, とうがらし
+cluster1:(3)
+通院, 整備, 到着
+cluster2:(4)
+場所, 趣, 敷地, 歴史
+cluster3:(4)
+小石川七福神, 大黒様, 唐辛子, 幼稚園
+cluster4:(2)
+地蔵, 本尊
+cluster5:(1)
+門
+cluster6:(5)
+大黒天坐像, 福寿幼稚園, 福聚院, 大黒天尊, 真珠院
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

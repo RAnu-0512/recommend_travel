@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵野音楽大学楽器博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+楽器博物館, 楽器資料, 伝統楽器, 鍵盤楽器, 楽器, 楽器陳列室, 民族楽器
+cluster1:(5)
+武蔵野音楽大学, 管弦楽器, 機, 世界各地, 水野佐平
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

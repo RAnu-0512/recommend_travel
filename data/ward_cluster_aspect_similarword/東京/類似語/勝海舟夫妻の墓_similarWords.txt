@@ -1,0 +1,15 @@
+--------------------similar_words:勝海舟夫妻の墓--------------------
+top3 entities near to cluster1>>
+勝, 海舟, 抜杯
+top3 entities near to cluster2>>
+官軍, 幕末, 賊軍
+top3 entities near to cluster3>>
+遺言, 墓碑
+top3 entities near to cluster4>>
+別荘地, 避暑地, 別荘, 避暑
+top3 entities near to cluster6>>
+人物, 視点, 性格
+top3 entities near to cluster7>>
+人物像, 人物, 銅像
+top3 entities near to cluster8>>
+改札口, 改札, 街道

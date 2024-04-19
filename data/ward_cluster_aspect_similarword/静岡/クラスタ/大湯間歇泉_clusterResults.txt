@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大湯間歇泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+温泉, 熱海温泉, 大湯間歇泉, 小沢, 日帰り温泉, 小沢の湯, 熱海駅, 欠泉, 温泉町, 熱海, 熱海銀座, 温泉地, 湯前神社, 自噴泉, 来宮神社, 湯巡り, 七湯めぐり
+cluster1:(7)
+宿泊先, 繁華街, 観光客, 案内看板, 観光場所, 駐車場, 観光
+cluster2:(2)
+噴出, 噴射
+cluster3:(2)
+蒸気, 湯気
+cluster4:(3)
+お湯, 源泉, 湯
+cluster5:(3)
+保育園, 停留所, バス停
+cluster6:(2)
+シュー, パーク
+cluster7:(2)
+スタンプ, スポット
+cluster8:(5)
+ところ, 関東大震災, タイトル, ニューフジヤホテル, タイミング
+cluster9:(1)
+まわり
+cluster10:(2)
+ホテル, 雰囲気
+cluster11:(1)
+湯けむり
+cluster12:(1)
+街並み
+cluster13:(1)
+間欠泉
+cluster14:(1)
+スタンプラリー
+cluster15:(1)
+バス
+cluster16:(4)
+卵, 岩, 石, タネ
+cluster17:(1)
+フリーパス
+cluster18:(8)
+世界, 摂理, 迫力, 自然, 規模, 人口, 一定, 価値
+cluster19:(6)
+事, もの, 感じ, 気分, 姿, こと
+cluster20:(2)
+市, 周辺
+cluster21:(4)
+昔, 裏手, 前, 近く
+cluster22:(8)
+人, 時間, 他, 方, 吹き出す所, 話, 場所, 目
+
+howmany entities : 84
+howmany clusters : 23
+howmany entities (more than3entities) : 65
+howmany clusters (more than3entities) : 10
+deleted 19entities.

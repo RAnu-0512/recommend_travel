@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平成百景 柴又帝釈天及び周辺の街並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+京成柴又駅, 柴又帝釈天, 柴又
+cluster1:(30)
+後世, 場所, 自然, 景色, 建物, 値段, 昭和, ところ, 感じ, 渡し, 矢切, 江戸川, 川, 歌, 交通手段, 映画, 船, 日本, 参道, 魅力, こと, 風, 土手, 雰囲気, 周辺, 風情, 境内, におい, 帝釈天, 男
+
+howmany entities : 33
+howmany clusters : 2
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 2
+deleted 0entities.

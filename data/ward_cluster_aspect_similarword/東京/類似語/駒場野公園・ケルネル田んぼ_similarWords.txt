@@ -1,0 +1,9 @@
+--------------------similar_words:駒場野公園・ケルネル田んぼ--------------------
+top3 entities near to cluster0>>
+公園, 子供, 駅前
+top3 entities near to cluster1>>
+公園, 自然, 水辺
+top3 entities near to cluster2>>
+農, 学校, 駅
+top3 entities near to cluster3>>
+公園, 野, 北江古田

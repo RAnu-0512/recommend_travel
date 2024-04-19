@@ -1,0 +1,9 @@
+--------------------similar_words:猫の細道--------------------
+top3 entities near to cluster0>>
+千光寺, 天寧寺, 光照寺
+top3 entities near to cluster1>>
+猫, ネコ, ねこ
+top3 entities near to cluster2>>
+石段, 階段, 参道
+top3 entities near to cluster3>>
+細道, 小道, 路地

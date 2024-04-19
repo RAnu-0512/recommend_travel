@@ -1,0 +1,15 @@
+--------------------similar_words:湯本温泉ホテル 枕水--------------------
+top3 entities near to cluster0>>
+., m, g
+top3 entities near to cluster1>>
+自然, 周り, 子供
+top3 entities near to cluster2>>
+ホテル, ディナー, レストラン
+top3 entities near to cluster3>>
+休日, 平日, 週末
+top3 entities near to cluster4>>
+匂い, 部屋, 建物
+top3 entities near to cluster5>>
+食事, 朝食, 風呂
+top3 entities near to cluster7>>
+お湯, 加減, 湯

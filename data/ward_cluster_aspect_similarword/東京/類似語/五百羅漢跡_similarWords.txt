@@ -1,0 +1,11 @@
+--------------------similar_words:五百羅漢跡--------------------
+top3 entities near to cluster1>>
+交差点, バス停
+top3 entities near to cluster2>>
+価値, 意義, 本質
+top3 entities near to cluster4>>
+石碑, 広場, 名所
+top3 entities near to cluster5>>
+駅, 羅漢, 駅前
+top3 entities near to cluster7>>
+羅漢, 寺, 観音

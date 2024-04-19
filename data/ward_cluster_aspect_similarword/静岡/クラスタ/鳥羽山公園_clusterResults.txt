@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥羽山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+車, 背景, 鉄道, 注意, 何か, 訪問, 花火, 方, 遠回り, 人, 徒歩, 景色, 西側, 公園, 近く, 所所, 天竜川, 方面
+cluster1:(6)
+徳川, 本陣, 石垣, 桜, 東名, 鹿島
+cluster2:(7)
+駐車場, 北浜松IC, 東側登城口, 展望, 展望台, 見晴し台, 二俣城址
+
+howmany entities : 31
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 3
+deleted 0entities.

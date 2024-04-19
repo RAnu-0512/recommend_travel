@@ -1,0 +1,11 @@
+--------------------similar_words:笠山噴火口--------------------
+top3 entities near to cluster0>>
+火口, 噴火口, 火山
+top3 entities near to cluster2>>
+山頂, 頂上, 中腹
+top3 entities near to cluster3>>
+最小, 世界, 最大
+top3 entities near to cluster4>>
+山頂, 園地, 薊岳
+top3 entities near to cluster5>>
+国定, 公園, 海岸

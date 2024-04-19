@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀山公園(山口県山口市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ザビエル記念教会, ザビエル記念聖堂
+cluster1:(3)
+長山城, 亀山, 山口市
+cluster2:(3)
+公園, 遊具, 総合公園
+cluster3:(2)
+山頂, 頂上
+cluster4:(2)
+景色, 散策
+cluster5:(7)
+施設, 街並み, 美術館, テニスコート, グランド, つつじ, 教会
+cluster6:(1)
+銅像
+cluster7:(1)
+反対側
+cluster8:(1)
+散策路
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

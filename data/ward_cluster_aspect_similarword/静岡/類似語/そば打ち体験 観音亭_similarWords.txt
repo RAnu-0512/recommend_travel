@@ -1,0 +1,29 @@
+--------------------similar_words:そば打ち体験 観音亭--------------------
+top3 entities near to cluster0>>
+麦打ち, 蕎麦, そば切り
+top3 entities near to cluster2>>
+そば打ち, そば, ソバ
+top3 entities near to cluster3>>
+そば粉, 蕎麦粉, 蕎麦, そば
+top3 entities near to cluster4>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster5>>
+蕎麦, ソバ, そば
+top3 entities near to cluster10>>
+体験, 体験談, 初
+top3 entities near to cluster11>>
+天ぷら, そば湯, 揚げたて
+top3 entities near to cluster12>>
+打ち立て, うちたて, 打ち立てる
+top3 entities near to cluster13>>
+思い出, 小学生, 姉さん
+top3 entities near to cluster15>>
+使い方, 作り方, 口コミ
+top3 entities near to cluster19>>
+作業, 見学, 工程
+top3 entities near to cluster20>>
+指導, 講師, 参加
+top3 entities near to cluster21>>
+楽しい, 上手, 不安
+top3 entities near to cluster22>>
+家族, 子供, 両親

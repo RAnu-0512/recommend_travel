@@ -1,0 +1,7 @@
+--------------------similar_words:レークサイド大栄--------------------
+top3 entities near to cluster0>>
+場内, 館内, 客席
+top3 entities near to cluster1>>
+遊具, 施設, 敷地
+top3 entities near to cluster2>>
+滑り台, 休み, 遊具

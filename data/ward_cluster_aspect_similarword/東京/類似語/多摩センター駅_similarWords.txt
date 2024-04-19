@@ -1,0 +1,17 @@
+--------------------similar_words:多摩センター駅--------------------
+top3 entities near to cluster0>>
+ホーム, シーズン, クリスマス
+top3 entities near to cluster1>>
+ショッピング, ホテル, 買い物
+top3 entities near to cluster2>>
+キティちゃん, キャラクター, サンリオ
+top3 entities near to cluster3>>
+京王線, 小田急, 京王
+top3 entities near to cluster5>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster6>>
+施設, 商業, 設備
+top3 entities near to cluster7>>
+小田急線, 改札, 小田急
+top3 entities near to cluster9>>
+駅, 駅前, 南口

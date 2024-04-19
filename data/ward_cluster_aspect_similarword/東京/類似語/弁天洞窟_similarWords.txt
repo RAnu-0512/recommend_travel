@@ -1,0 +1,19 @@
+--------------------similar_words:弁天洞窟--------------------
+top3 entities near to cluster0>>
+入口付近, 入り口付近, 入り口, 入口
+top3 entities near to cluster1>>
+仏像, 寺, お寺
+top3 entities near to cluster2>>
+洞窟, 洞穴
+top3 entities near to cluster3>>
+崩落, 閉鎖, 猛暑
+top3 entities near to cluster4>>
+弁天, 様, さま
+top3 entities near to cluster5>>
+開発, 構築, 再々
+top3 entities near to cluster6>>
+神仏, 分離, 政教
+top3 entities near to cluster7>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster8>>
+穴澤, 神社, 天

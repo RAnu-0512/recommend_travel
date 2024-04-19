@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安浦歴史民俗資料館(南薫造記念館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+旧家, 旧道
+cluster1:(5)
+奥, 方, 昔, 道具, 駅前
+cluster2:(3)
+土間, 玄関, 部屋
+cluster3:(3)
+釜戸, 当事農業, 安浦
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

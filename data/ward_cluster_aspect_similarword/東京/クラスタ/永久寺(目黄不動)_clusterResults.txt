@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永久寺(目黄不動)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+不動堂, 日比谷線
+cluster1:(2)
+見応え, 口コミ
+cluster2:(1)
+建物
+cluster3:(4)
+対応, 予想, 覚悟, 訪問
+cluster4:(3)
+住職, 本堂横, 不動明王像
+cluster5:(1)
+目黄不動
+cluster6:(1)
+江戸五色不動の目黄不動
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

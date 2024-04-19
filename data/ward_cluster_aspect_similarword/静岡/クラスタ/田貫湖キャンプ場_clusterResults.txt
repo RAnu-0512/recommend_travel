@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田貫湖キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+富士, ダイヤモンド富士, 逆さ富士
+cluster1:(4)
+眺め, 景色, 風景, 天気
+cluster2:(17)
+目, 家族, 荷物, こと, 北側, キャンプ場, 周囲, 南側, 夏, 準備, 近く, 自然, 話, 衣服, 夜, 施設, 前
+cluster3:(3)
+テントサイト, テント, フリーサイト
+cluster4:(2)
+日帰り, 日帰りバーベキュー
+cluster5:(3)
+田貫湖, 富士山, 朝霧高原
+cluster6:(2)
+テラス, デッキ
+cluster7:(8)
+サイクリングコース, 懐かしさ, キャンプ, シュラフ, 気持ち, リアカー, ロケーション, バーベキュー
+cluster8:(4)
+釣り, 湖, 芝生, ブヨ
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 7
+deleted 4entities.

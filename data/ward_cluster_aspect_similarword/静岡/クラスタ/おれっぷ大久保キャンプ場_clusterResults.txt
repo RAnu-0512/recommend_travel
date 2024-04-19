@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おれっぷ大久保キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+低料金, 料金
+cluster1:(10)
+車, キャンプ場, ひとつ, 人気, 場所, 水遊び, 入り口側, 子供たち, 大久保キャンプ場, キャンプ
+cluster2:(1)
+藤枝市
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 3entities.

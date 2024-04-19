@@ -1,0 +1,27 @@
+--------------------similar_words:鳥取港海鮮産物市場かろいち--------------------
+top3 entities near to cluster0>>
+蟹, カニ
+top3 entities near to cluster1>>
+地場, 旬, 産直
+top3 entities near to cluster2>>
+野菜, 果物, 魚介
+top3 entities near to cluster3>>
+地物, 刺身, 地酒
+top3 entities near to cluster4>>
+イカ, エビ, 白
+top3 entities near to cluster5>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster6>>
+土産店, 土産, 実家
+top3 entities near to cluster7>>
+値段, 価格, 購入
+top3 entities near to cluster9>>
+思い, 状態, 思う
+top3 entities near to cluster11>>
+活気, 身, 活況
+top3 entities near to cluster12>>
+新鮮, 驚かす, なさ
+top3 entities near to cluster13>>
+鮮魚店, 海鮮, 鮮魚
+top3 entities near to cluster14>>
+野菜, 肉, 豚肉

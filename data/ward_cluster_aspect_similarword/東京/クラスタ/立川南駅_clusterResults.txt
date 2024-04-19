@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:立川南駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+南口, 距離, グランデュオ, 名前, 駅, 車両, モノレール, 南, 印象, 歩道橋, 写真, 椅子, 座り心地, 連結部分, サイズ
+cluster1:(5)
+改札口, JR立川駅, 多摩モノレール, 立川駅, 多摩都市モノレール
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

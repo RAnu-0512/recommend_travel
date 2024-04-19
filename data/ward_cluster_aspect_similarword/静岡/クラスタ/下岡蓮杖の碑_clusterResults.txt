@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下岡蓮杖の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+写真術, 商業写真, 写真技術, 日本営業写真師, 下岡の記念館, 写真, 日本写真術, 写真館, 写真機, 技術, 写真家, 記念館
+cluster1:(22)
+ヒュースケン, 多く, 役割, こと, 紹介, 伊豆下田, 関心, 人, 弟子, 画家, 杖, 山頂, 通訳, 公園, 偉人, 人物, 先, 開祖, 良さ, 環境, 奥地, ロープウェイ
+cluster2:(2)
+横浜, 伊豆
+cluster3:(5)
+西洋, 米国, 幕末, 世界, 日本
+cluster4:(1)
+先進国
+cluster5:(1)
+領事ハリス
+cluster6:(7)
+胸像, 史跡公園, 寝姿山, 銅像, 像, 石碑, 碑
+cluster7:(6)
+下田生まれ, 静岡県, ペリー艦隊来航, 下田駅, 下田公園, 下田港
+
+howmany entities : 56
+howmany clusters : 8
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 5
+deleted 4entities.

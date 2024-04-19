@@ -1,0 +1,7 @@
+--------------------similar_words:猫のいる休憩室 谷保ねこ--------------------
+top3 entities near to cluster0>>
+猫, ネコ, ねこ
+top3 entities near to cluster1>>
+店内, 店舗
+top3 entities near to cluster3>>
+穴場, オススメスポット, ススメスポット

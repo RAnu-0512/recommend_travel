@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯島天満宮の梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+絵馬, 女坂, 参道, 境内, 感じ 境内, 階段
+cluster1:(4)
+下旬, 木, 日, 見ごろ
+cluster2:(4)
+梅園, 名所, 見頃, 満開
+cluster3:(12)
+コロナ, 花, 人, 大鳥居, 受験生, 猿回し, ライト, 天神, 軍団, ズラリ, 神, 天満宮
+cluster4:(6)
+季節, 見物, 時期, 風情, 香り, 訪問
+cluster5:(1)
+露店商
+cluster6:(8)
+湯島神社, 春日通り, 梅まつり, 湯島, 梅見, 枝垂れ梅, 梅, 梅祭り
+
+howmany entities : 41
+howmany clusters : 7
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 7
+deleted 0entities.

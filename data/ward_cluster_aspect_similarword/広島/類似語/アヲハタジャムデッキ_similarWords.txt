@@ -1,0 +1,13 @@
+--------------------similar_words:アヲハタジャムデッキ--------------------
+top3 entities near to cluster0>>
+見学, 試食, 下見
+top3 entities near to cluster2>>
+施設, 規模, 材料
+top3 entities near to cluster3>>
+土産, 地酒
+top3 entities near to cluster4>>
+ジャム, 瓶, ビン
+top3 entities near to cluster5>>
+糖度, 収量, 甘み
+top3 entities near to cluster6>>
+工場, 見学, 体験

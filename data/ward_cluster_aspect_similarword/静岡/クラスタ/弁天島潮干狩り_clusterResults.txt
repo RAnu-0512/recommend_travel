@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弁天島潮干狩り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+舞阪観光協会, 舞阪町観光協会
+cluster1:(12)
+人数, 潮干狩り, 時間, 浜名湖, 制限制, 中止, 制限, アサリ, 予約, 不作, 開催, 参加人数
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

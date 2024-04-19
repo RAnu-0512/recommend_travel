@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮野温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+道, 国道, 方面
+cluster1:(9)
+中, 石鹸, 丘, 津和野, アルカリ性, 地元, シャンプー, アメニティー, 上
+cluster2:(2)
+浴場, 温泉
+cluster3:(2)
+食事, 食堂
+cluster4:(3)
+施設, 看板, 建物
+cluster5:(7)
+格安料金, 入浴料, 小人, 大人, 料金, 大人100円, 大勢人
+cluster6:(2)
+泉質, アルカリ性単純泉
+cluster7:(2)
+山口ふれあい舘, 山口市
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 8
+deleted 0entities.

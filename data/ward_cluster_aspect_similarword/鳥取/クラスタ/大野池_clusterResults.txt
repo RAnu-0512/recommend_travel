@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大野池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大山, 大山レークホテル, 大山レーク
+cluster1:(3)
+池, 大野池, 湖
+cluster2:(5)
+大山口駅, 散策, 散歩, 観光スポット, バス
+cluster3:(6)
+新緑, 紅葉, 山々, 景色, 季節, 草木
+cluster4:(9)
+山, ところ, あたり, 周り, 空気, 自然, 周囲, ホテル, 場所
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊藤博文墓所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+伊藤家墓所, 伊藤博文, 伊東博文, 伊藤博文墓所
+cluster1:(2)
+総理大臣, 初代首相
+cluster2:(2)
+偉大さ, 大きさ
+cluster3:(12)
+手前, ホームページ, 隣, 人, 新幹線, 近く, 左, 周り, 前, 中, 横須賀線, スポット
+cluster4:(8)
+神社, 公園, 門, 坂道, 格子, 敷地, 庭, 造り
+cluster5:(3)
+別邸, 墓所, 墓
+cluster6:(6)
+品川区, 高架, 駅, 住宅街, 徒歩, 西大井駅
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 7
+deleted 0entities.

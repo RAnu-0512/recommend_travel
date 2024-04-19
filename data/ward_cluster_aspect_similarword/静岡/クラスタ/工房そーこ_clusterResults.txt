@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:工房そーこ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+気, 事, 模様, もの, 感じ, 手順, 説明
+cluster1:(2)
+記念, 結婚
+cluster2:(2)
+序盤, 話
+cluster3:(5)
+アクセサリー, 思い出, 子供, コレ, シルバー
+cluster4:(1)
+奥様
+cluster5:(3)
+指輪, ペアリング, 結婚指輪
+cluster6:(1)
+難易度
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 6entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛山城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+葛山城, 葛山
+cluster1:(2)
+山城, 城
+cluster2:(4)
+一帯, 山頂, 富士山, もののふ
+cluster3:(1)
+今川
+cluster4:(1)
+勢威
+cluster5:(1)
+東駿
+cluster6:(1)
+国人衆
+cluster7:(4)
+土塁・堀切・曲輪, 葛山 (かつらやま) 城, 室町・戦国期, 日本城郭大系 9
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 8entities.

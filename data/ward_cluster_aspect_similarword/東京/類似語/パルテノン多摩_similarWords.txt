@@ -1,0 +1,31 @@
+--------------------similar_words:パルテノン多摩--------------------
+top3 entities near to cluster0>>
+清潔感, 存在感, 清潔, 存在
+top3 entities near to cluster1>>
+大, ホール, 小
+top3 entities near to cluster2>>
+イルミネーション, サンリオピューロランド, クリスマスイルミ
+top3 entities near to cluster3>>
+イトーヨーカ堂, 京王プラザホテル, 伊勢丹
+top3 entities near to cluster4>>
+コンサート, イベント, コンサートホール
+top3 entities near to cluster5>>
+コンクール, リコーダーコンテスト, リコーダーコンクール
+top3 entities near to cluster6>>
+シンボル, パルテノン, 象徴
+top3 entities near to cluster8>>
+パーゴラ, バーゴラ, ガーデンシェッド
+top3 entities near to cluster9>>
+ホール, コンサートホール, 会館
+top3 entities near to cluster10>>
+気持ち, 気持, キモチ
+top3 entities near to cluster11>>
+最寄り, 最寄り駅, バス停
+top3 entities near to cluster12>>
+京王線, 京王, 相模原線
+top3 entities near to cluster13>>
+駅, 建物, 駅前
+top3 entities near to cluster14>>
+神殿, 遺跡, 集会
+top3 entities near to cluster15>>
+施設, 複合, 文化

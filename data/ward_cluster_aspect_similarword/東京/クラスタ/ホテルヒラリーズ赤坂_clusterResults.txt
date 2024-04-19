@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルヒラリーズ赤坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+飲み放題, 食べ放題
+cluster1:(2)
+ヘアオイル, 髪
+cluster2:(19)
+人, 他, フロント, エレベーター, 惣菜, ワイン, カード, ランチ, ラウンジ, サラサラ, 時間, 風呂, 方, バー, 操作, つまみ, 行き先, タオル, カクテル
+cluster3:(2)
+先階, 何か
+cluster4:(1)
+脱衣所
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 5
+deleted 0entities.

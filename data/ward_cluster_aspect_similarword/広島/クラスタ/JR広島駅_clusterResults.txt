@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR広島駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+新幹線口駅前広場, 飲食店, 駅ビル, 路面電車, 在来線
+cluster1:(2)
+改修工事, 完成予定
+cluster2:(19)
+広島, 新幹線のぞみ, フードコート, 南側, 全て, 帰り, 土産ショップ, 広島駅, 豪雨, コーナー, 新幹線, ホテル, 食事, 見上げ, 地下, 一部, 弁当, レストラン, 駅
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 3
+deleted 0entities.

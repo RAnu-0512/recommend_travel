@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長生寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+道, 街並み
+cluster1:(1)
+階段
+cluster2:(1)
+寺
+cluster3:(1)
+長生
+cluster4:(1)
+竹原市
+cluster5:(1)
+普明閣
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

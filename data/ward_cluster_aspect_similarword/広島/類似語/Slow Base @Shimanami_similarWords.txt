@@ -1,0 +1,11 @@
+--------------------similar_words:Slow Base @Shimanami--------------------
+top3 entities near to cluster0>>
+海, 砂浜, 海辺
+top3 entities near to cluster1>>
+大人, 子供, 子ども
+top3 entities near to cluster2>>
+娘, 息子, 母親
+top3 entities near to cluster3>>
+体験, 写真, ダイビング
+top3 entities near to cluster4>>
+しまなみ, 海道, しま

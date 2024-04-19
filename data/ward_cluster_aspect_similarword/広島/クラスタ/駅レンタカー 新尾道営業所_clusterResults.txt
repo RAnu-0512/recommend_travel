@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駅レンタカー 新尾道営業所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+レンタカー, 荷物, 駅, 場所, 駅レンタカー, 電車
+cluster1:(4)
+広島県, 尾道市, 尾道営業所, 尾道駅
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

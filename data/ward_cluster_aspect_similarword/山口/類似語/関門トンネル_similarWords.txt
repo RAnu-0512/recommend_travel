@@ -1,0 +1,33 @@
+--------------------similar_words:関門トンネル--------------------
+top3 entities near to cluster0>>
+表示, 標示, 記載
+top3 entities near to cluster1>>
+公園, 景色
+top3 entities near to cluster2>>
+自転車, バイク, サイクリング
+top3 entities near to cluster3>>
+感覚, 気分, 体験
+top3 entities near to cluster6>>
+地元, 帰り道
+top3 entities near to cluster7>>
+時間, 間, その間
+top3 entities near to cluster8>>
+県境, 府県境, 国境
+top3 entities near to cluster9>>
+距離, 直線, 徒歩
+top3 entities near to cluster10>>
+境, 境目, 境界
+top3 entities near to cluster11>>
+幅, 底, 底面
+top3 entities near to cluster12>>
+構造橋, 架かる橋, 構造, 架かる
+top3 entities near to cluster14>>
+端付近, 端, 周辺
+top3 entities near to cluster15>>
+通路, 地下, 道路
+top3 entities near to cluster16>>
+喚問, 証人, 採決
+top3 entities near to cluster19>>
+通行, 歩行, 道路
+top3 entities near to cluster20>>
+関門, トンネル, 国道

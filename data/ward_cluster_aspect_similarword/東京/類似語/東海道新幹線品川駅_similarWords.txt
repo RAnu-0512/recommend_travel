@@ -1,0 +1,69 @@
+--------------------similar_words:東海道新幹線品川駅--------------------
+top3 entities near to cluster0>>
+駅, 北品川, ビルアトレ
+top3 entities near to cluster4>>
+利点, 目的, 余裕
+top3 entities near to cluster5>>
+留意, 事項, 要注意
+top3 entities near to cluster8>>
+乗り継ぎ, 乗り換え, 乗換え
+top3 entities near to cluster10>>
+スペース, サークル, ブース
+top3 entities near to cluster11>>
+デパート, ショップ, 百貨店
+top3 entities near to cluster12>>
+オフィス, ビジネス, ビジネスマン
+top3 entities near to cluster13>>
+エスカレーター, コンコース, エレベーター
+top3 entities near to cluster14>>
+待ち合わせ, スタンバイ, 待ち合わせる
+top3 entities near to cluster15>>
+ビジネスマン, レストラン, サラリーマン
+top3 entities near to cluster16>>
+エリア, アーバンエリア, 全域
+top3 entities near to cluster17>>
+ライン, ボトム, スキニーライン
+top3 entities near to cluster18>>
+食べ物, お菓子, おみやげ
+top3 entities near to cluster19>>
+エキナカ, エキュート, グランスタ
+top3 entities near to cluster21>>
+手土産, 手みやげ, 土産
+top3 entities near to cluster22>>
+カフェ, スタバ, 喫茶店
+top3 entities near to cluster24>>
+ホテル, レストラン, 食事
+top3 entities near to cluster26>>
+立ち食い, 立ち, 喰い
+top3 entities near to cluster27>>
+駅弁屋, 駅弁, ラーメン屋, ラーメン
+top3 entities near to cluster28>>
+弁当, おにぎり, 惣菜
+top3 entities near to cluster29>>
+弁当屋, 土産屋, 弁当, 土産
+top3 entities near to cluster31>>
+時間, 期間
+top3 entities near to cluster32>>
+乗車, 通勤, 乗り継ぎ
+top3 entities near to cluster33>>
+利用, 使用, 活用
+top3 entities near to cluster34>>
+利用者, 利用
+top3 entities near to cluster35>>
+駅, 駅前, 構内
+top3 entities near to cluster36>>
+土産, おみやげ, みやげ
+top3 entities near to cluster37>>
+通路, 出入り口, 階段
+top3 entities near to cluster38>>
+休憩, 喫煙, 待合
+top3 entities near to cluster39>>
+駅店, 飲食店, 飲食, 駅
+top3 entities near to cluster41>>
+改札, 構内, コンコース
+top3 entities near to cluster42>>
+京, 急, アニオリジナル
+top3 entities near to cluster43>>
+在来線, 在来, 駅線, 駅
+top3 entities near to cluster44>>
+中央線, 本線, 中央

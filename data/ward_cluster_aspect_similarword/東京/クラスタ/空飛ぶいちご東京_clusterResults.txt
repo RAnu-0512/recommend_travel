@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:空飛ぶいちご東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+振替休日, 休日料金, 入場料
+cluster1:(3)
+イチゴ摘み, 食べ放題, いちご狩り
+cluster2:(19)
+小学生, 幼児, 大人, 場所, アイス, 苦笑, 人, アクセス, 子供, コーヒー, コスパ, ビニールハウス, いちご, 駅, 大きめ, 範囲, 大きさ, 方, 小学校
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 3
+deleted 0entities.

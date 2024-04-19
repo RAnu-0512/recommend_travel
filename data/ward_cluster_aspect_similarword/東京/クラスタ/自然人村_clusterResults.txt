@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:自然人村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+火, 禁止
+cluster1:(2)
+器具, キャンプ場
+cluster2:(7)
+鉄板, 持ち込み, 自然, 貸し切り, バーベキュー, 鍋, キャンプ
+cluster3:(1)
+都心
+cluster4:(1)
+燃料
+cluster5:(2)
+東京都, 秋川渓谷
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大慈寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住職, 本堂
+cluster1:(4)
+セキュリティ, セコム, 雰囲気, 伝統
+cluster2:(1)
+札所
+cluster3:(1)
+県北
+cluster4:(1)
+備後西国観音霊場
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

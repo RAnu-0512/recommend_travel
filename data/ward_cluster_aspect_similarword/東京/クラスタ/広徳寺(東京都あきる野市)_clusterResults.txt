@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広徳寺(東京都あきる野市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京都, 武蔵五日市駅
+cluster1:(7)
+心, 場所, 建物, 壮大, 姿, 風景, 歴史
+cluster2:(4)
+おすすめ, タラヨウ, イチョウ, 雰囲気
+cluster3:(2)
+臨済宗, 広徳寺
+cluster4:(1)
+小和田
+cluster5:(3)
+季節, 紅葉, 時期
+cluster6:(1)
+風格
+cluster7:(7)
+カヤ, あきる野市, 建長寺派, 木, 山門, 寺, 境内
+cluster8:(1)
+釣鐘
+cluster9:(3)
+小峰公園, お庭, 庭
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 10
+deleted 0entities.

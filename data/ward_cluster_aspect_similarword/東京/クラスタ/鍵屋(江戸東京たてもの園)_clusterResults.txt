@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鍵屋(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+姿, 歴史, 場所, 鍵, 居酒屋, 店内, 建物
+cluster1:(3)
+震災, 再建, 戦災
+cluster2:(1)
+鍵屋
+cluster3:(3)
+台東区, 江戸時代, 江戸東京
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飛木稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+飛木神社, 飛木, 身代り'飛木
+cluster1:(8)
+神社, 高木, 御神木, 創建, 参拝, 神社名, 高木神社, 境内
+cluster2:(22)
+駅北側, 成長, 昔, 次回, 少し先, 気, おかげ, 木, 近く, 新緑, 幹, 由来, イチョウ, 手, 江戸時代, 周り, 時間, 住宅街, 歴史, 雰囲気, パワー, 時代
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 3
+deleted 0entities.

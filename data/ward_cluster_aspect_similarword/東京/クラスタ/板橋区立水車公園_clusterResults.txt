@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:板橋区立水車公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水, 木
+cluster1:(11)
+周囲, 大人, 場所, 他, 子供, 気持ち, 感じ, 遠方, 雰囲気, 田んぼ, 目
+cluster2:(4)
+公園, 一角, 水田, 桜
+cluster3:(5)
+水車, 住宅街, 板橋区, 交通費, 水車公園
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

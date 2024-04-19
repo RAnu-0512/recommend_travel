@@ -1,0 +1,13 @@
+--------------------similar_words:ヒルトン広島--------------------
+top3 entities near to cluster1>>
+ホテル, レストラン, ランチ
+top3 entities near to cluster2>>
+パスタ, サラダ, スープ
+top3 entities near to cluster3>>
+ケーキ, スイーツ, 飲み物
+top3 entities near to cluster4>>
+料理店, 写真店, 料理, 写真
+top3 entities near to cluster5>>
+奥, 個別, 手前
+top3 entities near to cluster6>>
+スープ, サラダ

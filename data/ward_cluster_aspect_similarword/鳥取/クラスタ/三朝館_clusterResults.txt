@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三朝館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+樽, 陶器
+cluster1:(4)
+庭, 客, 玄関, 館内
+cluster2:(3)
+コロナ対応, 充実, 対応
+cluster3:(2)
+露天風呂, 内風呂
+cluster4:(4)
+ところ, スタッフ, 気持ち, 雰囲気
+cluster5:(4)
+感じ, こと, 予想, 方
+cluster6:(3)
+体験, 日常, 空間
+cluster7:(5)
+次回, 機会, 都合, 今回, 前回
+cluster8:(3)
+空気感, 泉質, 時間帯
+cluster9:(20)
+足湯, 三朝館, 岩風呂, 三朝温泉, バラ風呂, 内湯, 風呂, 風呂上り, 日本庭園, 脱衣場, ヒノキ風呂, 檜風呂, 庭園風呂, 立ち寄り湯, 薔薇風呂, 浴場, 天然ラジウム温泉, 温泉, 日帰り入浴, 日帰り温泉
+
+howmany entities : 50
+howmany clusters : 10
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 10
+deleted 0entities.

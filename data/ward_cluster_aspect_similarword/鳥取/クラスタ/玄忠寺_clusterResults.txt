@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玄忠寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+拝観料, 拝観
+cluster1:(4)
+展示, 特別展, 粘土細工, 展示替え
+cluster2:(15)
+ガイド, ユニーク, 荒木又右衛門, 墓, 作品, 拙作, 泥仏, 仏, 事, 他, 色紙, 高木, 寺, 方, 時間
+cluster3:(6)
+玄忠寺, 高木百拙, 羅漢襖絵, 荒木又右衛門記念館, 襖絵, 清水公照
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

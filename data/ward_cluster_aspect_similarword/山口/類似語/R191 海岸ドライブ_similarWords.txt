@@ -1,0 +1,31 @@
+--------------------similar_words:R191 海岸ドライブ--------------------
+top3 entities near to cluster0>>
+渋滞, 交通, 混雑
+top3 entities near to cluster1>>
+海, 海風, 紺碧
+top3 entities near to cluster3>>
+景色, 天気, 絶景
+top3 entities near to cluster4>>
+温泉地, 温泉, 遠征
+top3 entities near to cluster5>>
+確, 確低
+top3 entities near to cluster6>>
+空色, 空, 水色
+top3 entities near to cluster7>>
+海沿い, 市街地, 山側
+top3 entities near to cluster8>>
+ドライブ, リベンジ, ハイライト
+top3 entities near to cluster10>>
+マップ, ＭＡＰ, ダンジョンマップ
+top3 entities near to cluster11>>
+コース, ドライブ, ドライビングコース
+top3 entities near to cluster13>>
+本命, 意中, 有力
+top3 entities near to cluster14>>
+泣く, 泣ける, 号泣
+top3 entities near to cluster16>>
+つば, しき, きん
+top3 entities near to cluster17>>
+海岸沿い, 海岸
+top3 entities near to cluster19>>
+鳥居, 稲荷, 神社

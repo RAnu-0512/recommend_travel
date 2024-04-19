@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関市立歴史博物館(平成28年11月18日リニューアルオープン)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+特別展, 展示室, 常設展
+cluster1:(16)
+こと, 関門海峡, 幕末, 他, 画像, 参考, 資料, 書状, 博物館, 感想, 城下町, 毛利, 解説, 説明, 写真, 歴史
+cluster2:(7)
+交通, 下車, 徒歩, 乗車, バス, 料金, サンデンバス
+cluster3:(3)
+下関駅, 海峡, 長府
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 4
+deleted 0entities.

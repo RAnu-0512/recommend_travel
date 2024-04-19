@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木下杢太郎詩碑「海の入日」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+碑, 詩碑, 生誕, 記念館
+cluster1:(2)
+木下杢太郎, 伊東
+cluster2:(10)
+気, 国道, 海岸, 詩, 出身, オレンジビーチ, 景色, 背, 中央付近, 海
+cluster3:(1)
+海の入日
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 3entities.

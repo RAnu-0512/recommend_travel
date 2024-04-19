@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハンマーズアカデミー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+耳抜き, 透明度, 苦しさ
+cluster1:(2)
+家族ダイビング, 親子
+cluster2:(2)
+魚, 海
+cluster3:(10)
+人, 余裕, 中, ダイナミック, コツ, 方々, 写真, スキューバダイビング, 方, インストラクター
+cluster4:(1)
+ヒリゾ浜ダイビング
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 5entities.

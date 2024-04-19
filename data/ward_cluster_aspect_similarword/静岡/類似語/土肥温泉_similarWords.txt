@@ -1,0 +1,41 @@
+--------------------similar_words:土肥温泉--------------------
+top3 entities near to cluster1>>
+海沿い, 海水浴, 防波堤
+top3 entities near to cluster2>>
+ホテル, 泊まり, ロビー
+top3 entities near to cluster3>>
+露天風呂, 野天風呂, 内風呂
+top3 entities near to cluster6>>
+気持ち, たくさん
+top3 entities near to cluster7>>
+タクシー, マイクロバス, バス
+top3 entities near to cluster11>>
+部屋, 出入り口, 入り口
+top3 entities near to cluster12>>
+公園道, 歩道, 公園
+top3 entities near to cluster14>>
+湯, お湯, 源泉
+top3 entities near to cluster15>>
+質感, 温度, 値段
+top3 entities near to cluster21>>
+バス, タクシー, 交通
+top3 entities near to cluster22>>
+優しい, 足, 透明
+top3 entities near to cluster23>>
+海岸, 海岸沿い, 沿岸
+top3 entities near to cluster24>>
+海, 海辺, 景色
+top3 entities near to cluster26>>
+子供, 子ども, 大人
+top3 entities near to cluster28>>
+旅館, 宿, 宿泊
+top3 entities near to cluster29>>
+食事, 夕食, 夕飯
+top3 entities near to cluster32>>
+足湯, 温泉, 露天風呂
+top3 entities near to cluster34>>
+温泉, 旅館, 銭湯
+top3 entities near to cluster35>>
+温泉, 温泉郷, 露天風呂
+top3 entities near to cluster39>>
+風呂, 浴場, 露天風呂

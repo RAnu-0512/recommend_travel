@@ -1,0 +1,47 @@
+--------------------similar_words:亀戸天神社--------------------
+top3 entities near to cluster1>>
+受験, 合格, 受験生
+top3 entities near to cluster2>>
+参拝, 参詣, お参り
+top3 entities near to cluster3>>
+見物, 花見, 見物人
+top3 entities near to cluster6>>
+駅, 飲食, 駅前
+top3 entities near to cluster7>>
+ランチ, おみやげ, ススメスポット
+top3 entities near to cluster8>>
+駅, 徒歩, 駅前
+top3 entities near to cluster9>>
+多数, 大勢, 数多い
+top3 entities near to cluster10>>
+地元, 昔, 大昔
+top3 entities near to cluster11>>
+近所, 隣, お隣
+top3 entities near to cluster13>>
+記念碑, 記念, 祝い
+top3 entities near to cluster14>>
+休日, 職場
+top3 entities near to cluster15>>
+息子, 子供, 家族
+top3 entities near to cluster17>>
+B級, A級, B, A
+top3 entities near to cluster19>>
+写真, 人達
+top3 entities near to cluster20>>
+季節, 時季, 時期
+top3 entities near to cluster21>>
+人出, 穴場, 混雑
+top3 entities near to cluster22>>
+屋台店, 屋台, 店先
+top3 entities near to cluster23>>
+初詣, 天満宮, 正月
+top3 entities near to cluster24>>
+餅, 葛餅, もち
+top3 entities near to cluster26>>
+湖橋, 湖池, 湖
+top3 entities near to cluster27>>
+藤棚, 花房, 鷹匠
+top3 entities near to cluster29>>
+景色, 風情, 風景
+top3 entities near to cluster30>>
+藤, 境内, 桜

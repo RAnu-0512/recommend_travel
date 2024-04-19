@@ -1,0 +1,11 @@
+--------------------similar_words:墨田住宅センター建築道具・木組資料館--------------------
+top3 entities near to cluster0>>
+木, 土, 槌
+top3 entities near to cluster1>>
+価値, 時代, 技術
+top3 entities near to cluster2>>
+明治, 正, 大正
+top3 entities near to cluster3>>
+釘, クギ, くぎ
+top3 entities near to cluster5>>
+住宅, 区, 駅

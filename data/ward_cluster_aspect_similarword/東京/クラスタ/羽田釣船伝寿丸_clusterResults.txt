@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽田釣船伝寿丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(44)
+初心者, 親子連れ, 人たち, スタッフ, 割引, サッカー練習, 全員, 女, やり方, 隣, 口コミ, 他, 質問, 子供, 気, グループ, 話, 感じ, 大漁, 船頭, クーラーボックス, 客, 家族, 時期, 波, ボロクソ, 因み, 息子, 予約, クーポン, 愛想, 船, 止め, 方, 根掛かり, アジ, こと, 次, 全員初心者, 釣果, 魚, 方々, 参加, 経験
+cluster1:(6)
+釣り, 海釣り, 船釣り, 手軽釣り, 釣り方, 保冷袋
+
+howmany entities : 50
+howmany clusters : 2
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 2
+deleted 0entities.

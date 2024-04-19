@@ -1,0 +1,21 @@
+--------------------similar_words:錦帯橋の鵜飼--------------------
+top3 entities near to cluster0>>
+行事, 伝統, 祭事
+top3 entities near to cluster1>>
+鵜匠, 錦川, 上流
+top3 entities near to cluster2>>
+風景, 光景, 風情
+top3 entities near to cluster3>>
+土水, 土
+top3 entities near to cluster4>>
+満開, 桜, 八重桜
+top3 entities near to cluster5>>
+鳥船, 鳥
+top3 entities near to cluster6>>
+時間, 日数, 時
+top3 entities near to cluster8>>
+夏, 風物詩, 鵜飼い
+top3 entities near to cluster9>>
+掃除, 拭き掃除, 清掃
+top3 entities near to cluster10>>
+鵜, 漁師

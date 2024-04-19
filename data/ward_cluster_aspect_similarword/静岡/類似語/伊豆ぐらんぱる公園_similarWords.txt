@@ -1,0 +1,69 @@
+--------------------similar_words:伊豆ぐらんぱる公園--------------------
+top3 entities near to cluster1>>
+料金, 運賃, 割引き
+top3 entities near to cluster2>>
+入場料, 入場券, 入場
+top3 entities near to cluster3>>
+テーマパーク, アトラクション, トランポリン
+top3 entities near to cluster4>>
+コース, プラン, ランチ
+top3 entities near to cluster5>>
+エリア, レベル, イベント
+top3 entities near to cluster7>>
+オススメ, おすすめ, 楽しみ
+top3 entities near to cluster13>>
+子ども, 子供, 小学生
+top3 entities near to cluster14>>
+スカイ, カート, セブン
+top3 entities near to cluster15>>
+ショー, ショウ, ミー・ラヴ
+top3 entities near to cluster18>>
+ボール, バルーン, ウォーター
+top3 entities near to cluster21>>
+ランタン, ライト, キャンドル
+top3 entities near to cluster24>>
+エアコン, ヒーター, ストーブ
+top3 entities near to cluster25>>
+滑り台, すべり台, 遊具
+top3 entities near to cluster26>>
+時間, 体験, 遊ぶ
+top3 entities near to cluster27>>
+寒波, 寒さ
+top3 entities near to cluster28>>
+夜, 夕方, 昼間
+top3 entities near to cluster30>>
+食事, 飲食, 軽食
+top3 entities near to cluster32>>
+ゴルフ, パター, パーク
+top3 entities near to cluster33>>
+駅車, バス車, 駅, バス
+top3 entities near to cluster35>>
+広場, 敷地, 公園
+top3 entities near to cluster36>>
+花, 霧, 薔薇
+top3 entities near to cluster37>>
+鳴り
+top3 entities near to cluster39>>
+利用, 満足, 混雑
+top3 entities near to cluster43>>
+写真, 情報, 作品
+top3 entities near to cluster44>>
+大声, 笑顔
+top3 entities near to cluster45>>
+光景, 迫力, 圧巻
+top3 entities near to cluster47>>
+おば, おじ, ばば
+top3 entities near to cluster48>>
+わん, ことわん, ころべる
+top3 entities near to cluster50>>
+つれ
+top3 entities near to cluster52>>
+家族, 子供, 子ども
+top3 entities near to cluster53>>
+遊園地, ロケ地, 遊園, ロケ
+top3 entities near to cluster55>>
+恐竜, 迷路, ティラノサウルス
+top3 entities near to cluster56>>
+公園, 緑地, 広場
+top3 entities near to cluster58>>
+園内, 動物, 遊具

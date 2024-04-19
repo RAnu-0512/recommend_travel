@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熊野神社(広島県三次市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島, 明治
+cluster1:(3)
+秋, 時期, のち
+cluster2:(2)
+方, 気
+cluster3:(7)
+落ち葉, パワースポット, オススメ, スポット, 七五三, 雰囲気, 雄略天皇
+cluster4:(1)
+人気
+cluster5:(1)
+参り
+cluster6:(1)
+石
+cluster7:(6)
+利益, 風情, 人たち, 運気, 人, 人出
+cluster8:(1)
+清潔感
+cluster9:(12)
+神社, 庄原市, 三次市, 王子社, 畠敷町, 熊野町, 王子, 社伝, 分霊, 権現, 初詣, 熊野神社
+cluster10:(1)
+紀伊国熊野権現
+
+howmany entities : 37
+howmany clusters : 11
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 11
+deleted 0entities.

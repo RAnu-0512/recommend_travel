@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩国市楠町一丁目のクスノキ巨樹群及びムクノキ巨樹>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+楽しさ, 凄み, 大きさ, 迫力, 圧倒感, 美しさ
+cluster1:(13)
+姿, 幼少期, 宇部市, 懐かしさ, 足, 辺り, 用事, クスノキ, 岩国, 木, 兄さん達, 花火, 近所
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

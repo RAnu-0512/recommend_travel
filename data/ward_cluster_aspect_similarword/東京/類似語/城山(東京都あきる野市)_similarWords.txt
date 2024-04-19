@@ -1,0 +1,15 @@
+--------------------similar_words:城山(東京都あきる野市)--------------------
+top3 entities near to cluster0>>
+勾配, 標高, 難所
+top3 entities near to cluster1>>
+登山, 山頂, 山登り
+top3 entities near to cluster2>>
+城山, 山, 麓
+top3 entities near to cluster4>>
+天気, 眺め, お天気
+top3 entities near to cluster5>>
+木, 木火, 土
+top3 entities near to cluster6>>
+登山口, 登山, 山登り
+top3 entities near to cluster7>>
+神明, 神社, 稲荷

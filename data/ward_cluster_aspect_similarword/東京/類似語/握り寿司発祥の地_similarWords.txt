@@ -1,0 +1,9 @@
+--------------------similar_words:握り寿司発祥の地--------------------
+top3 entities near to cluster0>>
+回向, 両国, 文政
+top3 entities near to cluster1>>
+発祥地, 発祥, 名物
+top3 entities near to cluster2>>
+握り, 寿司, にぎり
+top3 entities near to cluster3>>
+寿司, 鮨, すし

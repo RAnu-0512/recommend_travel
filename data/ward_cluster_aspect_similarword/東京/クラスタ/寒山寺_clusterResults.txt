@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寒山寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鐘, 立寄り鐘
+cluster1:(3)
+青梅, 蘇州, 中国
+cluster2:(10)
+人, 中, 寺, 雰囲気, 自然, 寒山寺, 渓谷, 建物, 事, 階段
+cluster3:(1)
+御岳渓谷
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

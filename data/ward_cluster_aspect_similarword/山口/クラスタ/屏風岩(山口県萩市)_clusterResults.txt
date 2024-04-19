@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:屏風岩(山口県萩市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日本海, 屏風岩
+cluster1:(2)
+時間, 人
+cluster2:(1)
+名前
+cluster3:(1)
+荒波
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 4
+deleted 0entities.

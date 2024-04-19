@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大星山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地球, 丸い
+cluster1:(4)
+空, 雲, 海, 山
+cluster2:(3)
+景色, 絶景, 眺め
+cluster3:(2)
+山頂, 日没
+cluster4:(2)
+道, 方角
+cluster5:(20)
+カメラマン, 関係, 秋, 火, スポット, 旅行, 訪問, 撮影, 車, 姉, 鑑賞スポット, 大星山, マジックアワー, 地元, 妻, 時間, 瀬戸内海, 夕暮れ, 上, 人
+cluster6:(1)
+壮大さ
+cluster7:(3)
+夕日, 夕日鑑賞スポット, 展望台
+cluster8:(1)
+室津半島スカイライン
+cluster9:(1)
+風力発電機
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 10
+deleted 0entities.

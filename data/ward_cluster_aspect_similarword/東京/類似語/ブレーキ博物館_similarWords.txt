@@ -1,0 +1,21 @@
+--------------------similar_words:ブレーキ博物館--------------------
+top3 entities near to cluster0>>
+博物館, 仕組み, しくみ
+top3 entities near to cluster1>>
+人達, 大勢
+top3 entities near to cluster2>>
+企業, 中小, 会社
+top3 entities near to cluster3>>
+各種, 様々, 種々
+top3 entities near to cluster4>>
+興味, 関心, 興味津々
+top3 entities near to cluster5>>
+ミニ, 博物館, ミニサイズ
+top3 entities near to cluster6>>
+展示, 内容, 出展
+top3 entities near to cluster7>>
+駅, 錦糸町, 駅前
+top3 entities near to cluster8>>
+博物, 博物学, 考古
+top3 entities near to cluster10>>
+錦糸, 町, 駅前

@@ -1,0 +1,33 @@
+--------------------similar_words:カレッタ汐留 46階展望スペース--------------------
+top3 entities near to cluster0>>
+東京湾, 浜離宮, レインボーブリッチ
+top3 entities near to cluster1>>
+イルミネーション, レストラン, フロア
+top3 entities near to cluster2>>
+真下, 地面, 地下
+top3 entities near to cluster3>>
+窓外, 窓, 開け放す
+top3 entities near to cluster4>>
+水辺, 緑, 深緑
+top3 entities near to cluster5>>
+壮大, 壮麗, 気宇
+top3 entities near to cluster6>>
+東南, 南東, 西北
+top3 entities near to cluster7>>
+夕方, 昼間, 早朝
+top3 entities near to cluster8>>
+眺め, 展示, 食事
+top3 entities near to cluster9>>
+価値, 値段, 値打ち
+top3 entities near to cluster11>>
+臨場感, ドキドキ・ワクワク, 臨場
+top3 entities near to cluster12>>
+景色, 絶景, 眺望
+top3 entities near to cluster13>>
+高速, 低速, 道路
+top3 entities near to cluster14>>
+直通, 乗り入れ, 乗り入れる
+top3 entities near to cluster15>>
+ビル, 高層, 湾岸
+top3 entities near to cluster16>>
+展望, 眺望, 見晴らし

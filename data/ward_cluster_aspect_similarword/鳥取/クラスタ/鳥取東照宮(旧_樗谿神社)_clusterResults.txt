@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取東照宮(旧_樗谿神社)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(34)
+由緒, 参道, 感じ, ところ, 蛍, 宮, 所, 文化財, やまびこ館, 到着, 神社, 拝殿, 緑, 明治, 建築物, 彫刻, 家族, 鳥居, 門, 社名, CB, 東照宮, 石畳, 公園, 本殿, 駐車場, 社殿, もの, 街外れ, 足, 雰囲気, 季節, 参拝者, 時間
+cluster1:(5)
+鳥取東照宮, JR鳥取駅, 鳥取, 鳥取県, 樗谿公園
+
+howmany entities : 39
+howmany clusters : 2
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 2
+deleted 0entities.

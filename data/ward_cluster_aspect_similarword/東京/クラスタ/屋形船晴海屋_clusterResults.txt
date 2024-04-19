@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:屋形船晴海屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+飲み放題, 放題スタート
+cluster1:(4)
+船内, 船頭, 結局船, 船
+cluster2:(3)
+値段, 満足, 満腹
+cluster3:(3)
+客, 席, 予約
+cluster4:(2)
+写真スポット, 記念
+cluster5:(3)
+時期, 方, 問題
+cluster6:(3)
+提供タイミング, 流れスタッフ, 説明
+cluster7:(1)
+感謝
+cluster8:(3)
+雨, 屋根, 橋
+cluster9:(2)
+娘, 友達
+cluster10:(13)
+サプライズ, テーブル, スタッフ, バースデーソング, 隅田川, トイレ, すき焼き, バースデープレゼント, 揚げたて, 屋形船, コース, スマホ, マスク
+cluster11:(1)
+東京
+cluster12:(1)
+卵
+cluster13:(1)
+充電
+cluster14:(1)
+誕生日
+cluster15:(6)
+m桜, コース料理, 名所, 桜, 夜景, 料理
+cluster16:(1)
+晴海屋
+
+howmany entities : 50
+howmany clusters : 17
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 17
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金ちゃん農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+気, 客, 所, イチゴ, レーン, ハウス, クーポン, 予約者, こと, 水道, 大きさ, 注意事項, お腹, 受付, 写真, 予約, もの, 手, 時間帯, いちご, 店, 種類, 小さめ, 感じ, 近く, 説明, トイレ, 場所, 他, 方
+cluster1:(7)
+イチゴ農園, 練乳, 土産イチゴ, 金ちゃん農園, いちご狩り, 直売所, イチゴ狩り
+cluster2:(4)
+きらぴ香, 桃薫, かおり野, 紅ほっぺ
+cluster3:(1)
+紅ほっぺ.40分食べ放題
+
+howmany entities : 42
+howmany clusters : 4
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 3
+deleted 1entities.

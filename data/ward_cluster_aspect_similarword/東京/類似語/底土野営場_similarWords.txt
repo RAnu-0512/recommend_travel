@@ -1,0 +1,11 @@
+--------------------similar_words:底土野営場--------------------
+top3 entities near to cluster0>>
+施設, 設備, 宿泊
+top3 entities near to cluster1>>
+屋根, 葺材, 茅ぶき
+top3 entities near to cluster2>>
+船着き場, 漁船
+top3 entities near to cluster3>>
+野営場, 野営, キャンプ場, キャンプ
+top3 entities near to cluster4>>
+底土, 港, 港内

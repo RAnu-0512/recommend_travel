@@ -1,0 +1,51 @@
+--------------------similar_words:公共の宿天然温泉尾道ふれあいの里--------------------
+top3 entities near to cluster0>>
+利用, 案内, 予約
+top3 entities near to cluster1>>
+予定, 種類, 値段
+top3 entities near to cluster2>>
+距離, 部屋
+top3 entities near to cluster4>>
+人達, 大勢, 周り
+top3 entities near to cluster6>>
+テニス, コート, バドミントン
+top3 entities near to cluster7>>
+朝風呂, サウナ, 露天風呂
+top3 entities near to cluster8>>
+コロナ, トンボ, とんぼ
+top3 entities near to cluster9>>
+フロント, タオル, セイフティーボックス
+top3 entities near to cluster11>>
+レストラン, ラーメン, ランチ
+top3 entities near to cluster12>>
+ふれあい, グランド, グラウンド
+top3 entities near to cluster13>>
+自家用車, マイカー
+top3 entities near to cluster14>>
+露天風呂, 内風呂, 温泉
+top3 entities near to cluster15>>
+ランチ, ランチタイム, ディナー
+top3 entities near to cluster16>>
+ハズレ, 大当たり, はずれ
+top3 entities near to cluster17>>
+体育館, シーアリーナ, 校舎
+top3 entities near to cluster18>>
+塩焼き, 煮付け, 煮つけ
+top3 entities near to cluster19>>
+汗, 冷汗, かくから
+top3 entities near to cluster20>>
+教師, 生徒, 店員
+top3 entities near to cluster21>>
+山野, 泉, 川原
+top3 entities near to cluster22>>
+夫, 母, 父
+top3 entities near to cluster23>>
+夫婦, 家族, 両親
+top3 entities near to cluster24>>
+親戚, 親類, 親せき
+top3 entities near to cluster25>>
+田舎, 山, 山々
+top3 entities near to cluster26>>
+温泉, 食事, 浴場
+top3 entities near to cluster27>>
+温泉, 宿泊, 旅館

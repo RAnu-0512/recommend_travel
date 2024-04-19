@@ -1,0 +1,11 @@
+--------------------similar_words:ガラス工房 CLOVER--------------------
+top3 entities near to cluster1>>
+とんぼ玉, シャボン玉, とんぼ, シャボン
+top3 entities near to cluster3>>
+グラス, コップ, ガラス
+top3 entities near to cluster5>>
+作り方, 出来上がり, 出来栄え
+top3 entities near to cluster9>>
+家族, 友達, 夫婦
+top3 entities near to cluster10>>
+傘

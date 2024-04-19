@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法善寺(東京都新宿区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+七福神めぐり, 長寿, 都会, 山, わき道, 専福寺, 場所, ドア, 手七福神, 人, 寿老人, 佇まい, 気, 近く, 日蓮宗, 家族, 手, 効果, 必要, こじんまり, 中, 大久保, こと, 七福神, 神, 法善寺, 雰囲気
+cluster1:(3)
+寺社, 寺院, 寺
+cluster2:(4)
+拝殿, 本堂, 参拝, 境内
+cluster3:(1)
+堂前
+cluster4:(3)
+案内板, 南側奥, 不老人
+cluster5:(4)
+明神, 七面明神, 天女像, 明神像
+cluster6:(2)
+住宅地, 住宅街
+cluster7:(3)
+山の手七福神のひとつ寿老人, 新宿山手七福神, 山之手七福神の寿老人
+cluster8:(2)
+江戸, 江戸線
+cluster9:(2)
+新宿!?, 新宿
+cluster10:(2)
+新宿駅, 駅
+cluster11:(1)
+抜弁天交差点
+cluster12:(1)
+地下鉄副都心線
+
+howmany entities : 55
+howmany clusters : 13
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 13
+deleted 0entities.

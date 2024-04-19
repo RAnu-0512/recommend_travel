@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柳井醤油「甘露醤油」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+甘め, もの, 柳井, 入口, 水, 湧水, 好み, 建物
+cluster1:(3)
+専用醤油, 醤油作り, 醤油
+cluster2:(2)
+刺身醤油, 刺身
+cluster3:(1)
+街歩き中醤油
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

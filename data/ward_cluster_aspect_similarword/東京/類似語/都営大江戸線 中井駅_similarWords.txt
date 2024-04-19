@@ -1,0 +1,9 @@
+--------------------similar_words:都営大江戸線 中井駅--------------------
+top3 entities near to cluster0>>
+都営, 南口, 駅
+top3 entities near to cluster1>>
+駅線, 駅, 駅前線, 駅前
+top3 entities near to cluster2>>
+商店街, 商店, 駅前
+top3 entities near to cluster3>>
+資料室, 資料, 遺跡

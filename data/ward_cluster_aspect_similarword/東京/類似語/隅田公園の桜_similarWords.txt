@@ -1,0 +1,29 @@
+--------------------similar_words:隅田公園の桜--------------------
+top3 entities near to cluster0>>
+屋台店, 出店, 屋台
+top3 entities near to cluster1>>
+風情, 名所, 景色
+top3 entities near to cluster2>>
+バス, ツアー, マイクロバス
+top3 entities near to cluster3>>
+地元, 実家, 昔
+top3 entities near to cluster4>>
+緑, 春, 秋
+top3 entities near to cluster6>>
+川越し, 駒形橋, 対岸
+top3 entities near to cluster7>>
+ビール, 飲み物, つまみ
+top3 entities near to cluster8>>
+大道芸, ライブ, イベント
+top3 entities near to cluster9>>
+カフェ, イベント, おすすめ
+top3 entities near to cluster10>>
+シート, レジャー, パッセンジャーシート
+top3 entities near to cluster12>>
+背景, 頭
+top3 entities near to cluster13>>
+中止, 撮影, 取りやめ
+top3 entities near to cluster14>>
+桜, 花見, 満開
+top3 entities near to cluster15>>
+道路会, 道路

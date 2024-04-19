@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くらはし桂浜温泉館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+桂浜温泉館, 呉市, 広島県, 造船歴史館, 桂濱
+cluster1:(21)
+体, 施設, 館内, 時期, 海水浴シーズン, 隣, 方, 家, 露天風呂, 地元, 土産, ショップ, カフェ, サウナ, 人, 夏場, 親戚, あたり, レストラン, 気持ち, イメージ
+cluster2:(3)
+海水, 海, 台風
+cluster3:(3)
+倉橋, 桂浜, 長門
+cluster4:(13)
+露天, 石の風呂, エステバス, お湯, 近場, 温泉, 塩化物温泉, 海の風呂, 食事処, 温泉施設, 風呂, 塩風呂, 海水浴場
+cluster5:(1)
+天然温泉桂浜温泉館
+
+howmany entities : 46
+howmany clusters : 6
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:晴海ふ頭公園--------------------
+top3 entities near to cluster0>>
+客船, 埠頭, 桟橋
+top3 entities near to cluster1>>
+都心, 都, 駅前
+top3 entities near to cluster2>>
+駅, 周辺, 散策
+top3 entities near to cluster3>>
+海風, そよ吹く
+top3 entities near to cluster4>>
+デート, レストラン, バーベキュー
+top3 entities near to cluster5>>
+人通り, 人出
+top3 entities near to cluster6>>
+海, 対岸, 海外
+top3 entities near to cluster7>>
+公園, 工事, 道路

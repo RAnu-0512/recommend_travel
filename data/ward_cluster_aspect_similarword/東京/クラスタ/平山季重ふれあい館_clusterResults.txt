@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平山季重ふれあい館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+図書館, 駅, 市, 施設, 近辺, 会社帰り, 駅停車, 自然, 予約資料, 辺り, 京王線
+cluster1:(2)
+平山季重ふれあい館, 平山城址公園
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

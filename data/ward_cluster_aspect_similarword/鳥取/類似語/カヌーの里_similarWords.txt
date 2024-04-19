@@ -1,0 +1,17 @@
+--------------------similar_words:カヌーの里--------------------
+top3 entities near to cluster0>>
+カヌー, カヤック, シーカヤック
+top3 entities near to cluster1>>
+コース, フォレストコース, レイクコース
+top3 entities near to cluster3>>
+家族, 親族, 両親
+top3 entities near to cluster4>>
+大会, 選手権, 競技
+top3 entities near to cluster5>>
+里, 乃藍, 保つ
+top3 entities near to cluster6>>
+中流, 上流, 下流
+top3 entities near to cluster7>>
+屈指, 有数, 随一
+top3 entities near to cluster8>>
+適地, 適作, 用地

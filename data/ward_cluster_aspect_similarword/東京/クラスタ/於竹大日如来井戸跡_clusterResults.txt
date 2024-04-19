@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:於竹大日如来井戸跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+貧困者, 江戸時代
+cluster1:(4)
+日本橋本町, オフィス街, 界隈, ビル
+cluster2:(5)
+石碑, 跡地, 歴史, 昔話, 史跡
+cluster3:(3)
+下女, 石, 井戸
+cluster4:(5)
+佐久間家, 地, 東京, 市, 北
+cluster5:(6)
+プレート, メイン, 日本橋, 於竹, 大日如来, スポット
+cluster6:(2)
+女, 話
+cluster7:(2)
+途中, 前
+cluster8:(2)
+場所, こと
+cluster9:(1)
+愛用
+cluster10:(1)
+案内板
+cluster11:(2)
+宝田恵比寿神社, 於竹大日如来井戸跡
+
+howmany entities : 35
+howmany clusters : 12
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 12
+deleted 0entities.

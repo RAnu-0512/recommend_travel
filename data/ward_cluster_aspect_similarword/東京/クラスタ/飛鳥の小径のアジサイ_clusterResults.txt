@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飛鳥の小径のアジサイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+路面電車, JR王子駅, 王子駅
+cluster1:(23)
+紫陽花, アジサイ, 資料館, 小径, 場所, 自然, 飛鳥山公園, 公園, 昭和, JR, アクセス, 夕方, 時期, 電車, 見ごたえ, モノレール, SL, 虫よけ, 桜, 道, 雰囲気, 階段, 飛鳥
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 2
+deleted 0entities.

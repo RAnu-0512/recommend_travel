@@ -1,0 +1,15 @@
+--------------------similar_words:ワーナー ブラザース スタジオツアー東京-メイキング・オブ・ハリー・ポッター--------------------
+top3 entities near to cluster0>>
+入場料, 入場, 入館料, 入館
+top3 entities near to cluster1>>
+映画, 撮影, 上映
+top3 entities near to cluster2>>
+予約, 体験, 受付
+top3 entities near to cluster3>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster4>>
+細部, ディテール, ディティール
+top3 entities near to cluster5>>
+展示, 出展, 展覧
+top3 entities near to cluster6>>
+イチ, 朝, 早朝

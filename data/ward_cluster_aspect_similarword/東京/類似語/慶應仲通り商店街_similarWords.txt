@@ -1,0 +1,15 @@
+--------------------similar_words:慶應仲通り商店街--------------------
+top3 entities near to cluster0>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster1>>
+配布, 配付, 公開
+top3 entities near to cluster2>>
+飲食店, 飲食
+top3 entities near to cluster3>>
+駅店, 駅前店, 駅, 駅前
+top3 entities near to cluster4>>
+旧館, 図書, 本館
+top3 entities near to cluster5>>
+徒歩, 都営, 駅
+top3 entities near to cluster6>>
+應大, 應法, 慶

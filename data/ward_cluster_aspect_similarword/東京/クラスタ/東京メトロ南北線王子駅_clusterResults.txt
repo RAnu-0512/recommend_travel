@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線王子駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+JR駅, JR, JR京浜東北線, JR線, JR王子駅
+cluster1:(9)
+都電荒川線王子駅前, 飛鳥山公園, 都心方面, 赤羽, 埼玉スタジアム2002, 東京メトロ, 東京メトロ南北線, 王子, 王子駅
+cluster2:(13)
+北側, 南側, 人, 乗り換え, 距離, 乗り入れ, 駅, ほう, 時間, 利便性, 南北線, 乗り継ぎ, サッカー観戦
+cluster3:(1)
+東京メトロ南北線王子駅
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 4
+deleted 0entities.

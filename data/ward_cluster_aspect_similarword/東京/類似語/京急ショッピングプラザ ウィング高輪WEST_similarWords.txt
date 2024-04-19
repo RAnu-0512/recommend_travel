@@ -1,0 +1,9 @@
+--------------------similar_words:京急ショッピングプラザ ウィング高輪WEST--------------------
+top3 entities near to cluster0>>
+ジャズ, シネマ, ポップス
+top3 entities near to cluster1>>
+ショップ, ショッピング, モール
+top3 entities near to cluster2>>
+レストラン, ランチ, カフェ
+top3 entities near to cluster4>>
+駅前店, 飲食店, 飲食, 駅前

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:虎ヶ崎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+笠山, 半島笠山
+cluster1:(7)
+尾島, 羽島, 大島, 花付き, 椿, 花, 椿まつり
+cluster2:(3)
+灯台, 岬, 先端
+cluster3:(7)
+市, 自然, バス, 海岸, 北, 海, 山
+cluster4:(13)
+見所, こと, ところ, スポット, 景色, 櫃島, 開催, 日本海, 転換, 眺め, 見ごたえ, 気分, 虎ヶ崎
+cluster5:(1)
+お勧め
+cluster6:(1)
+北東部
+cluster7:(11)
+浮かぶ萩六島, ヤブ椿, 萩市笠谷物先端虎ヶ崎, 萩市, 椿原生林, 東萩駅, 群生林, 椿群生林, ヤブツバキ, 山口県萩市, 萩・椿まつり
+
+howmany entities : 45
+howmany clusters : 8
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 8
+deleted 0entities.

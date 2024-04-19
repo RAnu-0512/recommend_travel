@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍眼寺(萩寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+庭園, 寺院, 寺, 境内
+cluster1:(2)
+天気, 具合
+cluster2:(9)
+わき水, ホームページ, 御朱印, 手入れ, 気持ち, スカイツリー, 対応, こと, 布袋尊
+cluster3:(4)
+娘, 人, 職員, 目
+cluster4:(2)
+門, スカイスリー
+cluster5:(1)
+洗顔
+cluster6:(6)
+亀戸方面 自転車, 亀戸, 萩, 萩寺, 亀戸七福神, 江戸時代
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 7
+deleted 0entities.

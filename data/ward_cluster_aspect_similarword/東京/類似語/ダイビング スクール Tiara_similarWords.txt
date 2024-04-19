@@ -1,0 +1,23 @@
+--------------------similar_words:ダイビング スクール Tiara--------------------
+top3 entities near to cluster0>>
+会話, 掛け合い
+top3 entities near to cluster1>>
+ショップ, スタッフ, ショッピング
+top3 entities near to cluster2>>
+行き帰り, 久しぶり, 久し振り
+top3 entities near to cluster3>>
+プラン, マンスリープラン, オプショナルプラン
+top3 entities near to cluster4>>
+ボート, カヌー, ヨット
+top3 entities near to cluster6>>
+店舗, 店主
+top3 entities near to cluster7>>
+海, 海辺, 陸
+top3 entities near to cluster8>>
+車中, 車内, 泊
+top3 entities near to cluster9>>
+送迎, 送り迎え, 付き添い
+top3 entities near to cluster12>>
+休憩, 所内, 仮眠
+top3 entities near to cluster13>>
+気分, プチ, 旅

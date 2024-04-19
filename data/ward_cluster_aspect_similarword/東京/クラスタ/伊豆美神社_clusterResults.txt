@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆美神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+徒歩圏, 駅, 徒歩
+cluster1:(2)
+都会, 自然
+cluster2:(4)
+人, 感じ, 方, こと
+cluster3:(4)
+近く, 市, 時間, 地元
+cluster4:(8)
+オアシス, 建物, 多摩川, 石造り, 文化財, なか, 歴史, 雰囲気
+cluster5:(1)
+指定
+cluster6:(7)
+神社, 鳥居, 行事, 除夜, 初詣, 参道, 鐘
+cluster7:(14)
+伊豆見, 東京都, 兜塚古墳, 狛江駅, 伊豆美神社, 狛江市, 観光客, 小田急狛江駅, 虎狛神社, 狛江, 観光神社, 関東三大鳥居, o♪関東三大鳥居, 大國魂大神
+
+howmany entities : 43
+howmany clusters : 8
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 8
+deleted 0entities.

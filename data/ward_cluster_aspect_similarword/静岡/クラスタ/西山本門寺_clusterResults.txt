@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西山本門寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+信長, 織田信長
+cluster1:(4)
+日興, 本山, 日蓮, 大木
+cluster2:(5)
+何か, 幅, 行事, 歴史, 印象
+cluster3:(9)
+黒門, 裏手, 木造, 右側, 本堂, 境内, 鐘楼, 正面, 参道
+cluster4:(1)
+参拝者
+cluster5:(1)
+首塚
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 4entities.

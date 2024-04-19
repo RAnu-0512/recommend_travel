@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩~見島航路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+運航, 運賃
+cluster1:(7)
+ウェブサイト, 時刻, 情報, ドック入り, 手段, 時期, 唯一
+cluster2:(1)
+見島
+cluster3:(1)
+おにようず
+cluster4:(1)
+萩海運有限会社
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

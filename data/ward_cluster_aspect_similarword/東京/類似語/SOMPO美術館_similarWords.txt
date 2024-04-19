@@ -1,0 +1,39 @@
+--------------------similar_words:SOMPO美術館--------------------
+top3 entities near to cluster0>>
+高層, ビル, ランドマークビル
+top3 entities near to cluster1>>
+青児, 損保, 興亜
+top3 entities near to cluster2>>
+ビル, 損保, 興亜
+top3 entities near to cluster3>>
+徒歩圏, 徒歩, 圏内
+top3 entities near to cluster4>>
+地下, 駅前, 駅
+top3 entities near to cluster5>>
+カフェ, レストラン, ホテル
+top3 entities near to cluster6>>
+銀色, 茶
+top3 entities near to cluster7>>
+家族, 友人
+top3 entities near to cluster8>>
+世界, 本物, 元
+top3 entities near to cluster10>>
+会場, 動画
+top3 entities near to cluster11>>
+章名, 章, サブタイトル
+top3 entities near to cluster13>>
+穴場, 有名, 迫力
+top3 entities near to cluster14>>
+描き, 描く
+top3 entities near to cluster15>>
+良型, 体験型, 良, 体験
+top3 entities near to cluster16>>
+絵画, 美術館, 展覧
+top3 entities near to cluster17>>
+美術, 絵画, 芸術
+top3 entities near to cluster18>>
+作品, 作家, 絵本
+top3 entities near to cluster19>>
+気鋭, 新進, 作家
+top3 entities near to cluster20>>
+展示, 展覧

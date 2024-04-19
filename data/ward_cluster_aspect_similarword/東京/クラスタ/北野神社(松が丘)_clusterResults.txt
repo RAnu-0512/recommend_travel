@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北野神社(松が丘)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+天神, 神, 北野神社, 食物, 文武両道, 町, 江古田公園
+cluster1:(2)
+保食神, 新井一円
+cluster2:(1)
+総鎮守
+cluster3:(1)
+菅原道真公
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

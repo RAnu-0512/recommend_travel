@@ -1,0 +1,11 @@
+--------------------similar_words:米泉湖(末武川ダム)--------------------
+top3 entities near to cluster0>>
+釣り場, 釣
+top3 entities near to cluster1>>
+水面, 岩, 海面
+top3 entities near to cluster2>>
+たくさん, 大勢
+top3 entities near to cluster3>>
+竣工, 完工, 落成
+top3 entities near to cluster4>>
+ダム, 湖, 湖畔

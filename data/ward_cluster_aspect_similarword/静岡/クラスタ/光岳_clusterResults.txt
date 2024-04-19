@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光岳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡県, てかり, (o
+cluster1:(2)
+虫, ハチ
+cluster2:(3)
+南部, 南アルプス, 方面
+cluster3:(2)
+空気, 景色
+cluster4:(3)
+途中, 中, 場所
+cluster5:(4)
+赤石山脈, アクセス, スポット, 山
+cluster6:(1)
+足
+cluster7:(1)
+興味
+cluster8:(1)
+季節柄
+cluster9:(1)
+日本百名山
+
+howmany entities : 21
+howmany clusters : 10
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 4
+deleted 8entities.

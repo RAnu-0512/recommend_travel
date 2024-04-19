@@ -1,0 +1,11 @@
+--------------------similar_words:梅の公園--------------------
+top3 entities near to cluster1>>
+秋, 夏, 冬
+top3 entities near to cluster2>>
+小川, 赤, 青
+top3 entities near to cluster3>>
+景色, 新緑, 雪景色
+top3 entities near to cluster4>>
+花, 梅, 雪柳
+top3 entities near to cluster5>>
+枯れ, 落ち葉, 萎れ

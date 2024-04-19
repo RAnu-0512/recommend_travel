@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シーパーク大浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+期間, 受付
+cluster1:(2)
+子供, 女性
+cluster2:(6)
+ネット, トイレ, こと, バック, バーベキュー, 釣り堀
+cluster3:(1)
+訪問
+cluster4:(2)
+場所事態, 経営者
+cluster5:(1)
+声かけ
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

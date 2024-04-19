@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黄金崎花畑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+斜面, 一角, 黄金崎, 満開, 海岸, 状態, 次, 遊歩道, 花弁, 時期, ひまわり
+cluster1:(4)
+花々, 花園, 花, 花畑
+cluster2:(1)
+展望広場
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 1entities.

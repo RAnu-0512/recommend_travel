@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ことり農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+いちご狩り, イチゴ狩り, 時間無制限食べ放題, 初いちご狩り, 摘みたて, 食べ比べ
+cluster1:(2)
+お土産屋, 雑貨屋
+cluster2:(2)
+夫婦, 奥様
+cluster3:(2)
+店主, 店内
+cluster4:(8)
+テーブル, 土産, 商品, いちご, さ, イチゴ, 方, 人
+cluster5:(1)
+農園
+cluster6:(1)
+ハンドメイド品
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 7
+deleted 0entities.

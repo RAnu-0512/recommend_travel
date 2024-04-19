@@ -1,0 +1,57 @@
+--------------------similar_words:海上釣堀 筏釣りの東海--------------------
+top3 entities near to cluster1>>
+家族, 旅, 旅先
+top3 entities near to cluster2>>
+バラシ, アタリ, バラシ・・・
+top3 entities near to cluster3>>
+イサキ, イシダイ, 生け簀
+top3 entities near to cluster4>>
+焼き魚, 塩焼き, 煮付け
+top3 entities near to cluster5>>
+イカダ, ボート, 太公望
+top3 entities near to cluster6>>
+魚釣り, 釣り場, 釣り堀
+top3 entities near to cluster8>>
+クーラー, クーラ, エアコン
+top3 entities near to cluster9>>
+使い方, やり方, 初心者
+top3 entities near to cluster11>>
+プラン, コース, エリア
+top3 entities near to cluster14>>
+タバコ, カッパ, トイレ
+top3 entities near to cluster15>>
+スタッフ, 知り合い, 兄さん
+top3 entities near to cluster16>>
+気持ち, 思い出, 悔しさ
+top3 entities near to cluster19>>
+息子, 娘, 長女
+top3 entities near to cluster20>>
+飲食店, 店員, 飲食
+top3 entities near to cluster21>>
+自宅, 近所, 徒歩
+top3 entities near to cluster22>>
+子供, 子ども, 家族
+top3 entities near to cluster23>>
+大雨
+top3 entities near to cluster24>>
+予約, 受付, 時間
+top3 entities near to cluster25>>
+時間, 日数分, 日数
+top3 entities near to cluster27>>
+体験, 体験談, 初
+top3 entities near to cluster30>>
+調理, 接客, 応対
+top3 entities near to cluster31>>
+人達, 大勢, 子供
+top3 entities near to cluster36>>
+前後, 午後, 順番
+top3 entities near to cluster38>>
+確認, 予習, 対応
+top3 entities near to cluster44>>
+面倒, 嫌, 馬鹿
+top3 entities near to cluster45>>
+指示, 指導, 口調
+top3 entities near to cluster46>>
+人達, 感謝, 熱意
+top3 entities near to cluster48>>
+鯛

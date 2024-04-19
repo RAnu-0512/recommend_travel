@@ -1,0 +1,9 @@
+--------------------similar_words:三鷹市芸術文化センター--------------------
+top3 entities near to cluster0>>
+上映, 映画, 演奏
+top3 entities near to cluster1>>
+駅便, バス便, バス, 駅
+top3 entities near to cluster2>>
+コンサート, 公演, 演奏
+top3 entities near to cluster3>>
+和楽器, 和楽, 備神

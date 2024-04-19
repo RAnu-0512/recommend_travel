@@ -1,0 +1,9 @@
+--------------------similar_words:しぶや沖縄--------------------
+top3 entities near to cluster0>>
+料理, 食事, 夕食
+top3 entities near to cluster1>>
+風味, 味わい
+top3 entities near to cluster3>>
+食べごたえ, 食べ, たべ
+top3 entities near to cluster4>>
+b, o, x

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:両国高はし>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+相撲, 相撲マグカップ, 力士, 関取, 両国観光, 取組, 相撲グッズ, 両国
+cluster1:(9)
+記念, ハローキティ, 店, シール, アメショ, 座布団, 雑貨屋, グッズ, もの
+cluster2:(1)
+京葉道路
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

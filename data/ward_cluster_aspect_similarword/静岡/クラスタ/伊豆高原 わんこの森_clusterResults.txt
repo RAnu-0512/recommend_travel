@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆高原 わんこの森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+体験, 陶芸体験, 製作体験, 所要時間
+cluster1:(6)
+焼き上がり, 愛犬, シーサー作り, ワンちゃんシーサー, シーサ作り, 愛犬シーサー作り
+cluster2:(2)
+伊東, 伊豆
+cluster3:(6)
+主人, 顔, 子, 店, 旅行, 夫婦
+cluster4:(2)
+パスタ, ランチ
+cluster5:(2)
+作り方, 思い出
+cluster6:(2)
+シーサー, 伊豆高原
+cluster7:(6)
+シュナウザー, ドッグラン, 出来上がり, ひととき, カリオストロ, おかげ
+cluster8:(1)
+チワワ
+cluster9:(1)
+上がり
+cluster10:(1)
+フリードリンク
+cluster11:(1)
+シーサ
+cluster12:(2)
+雨, 大阪
+cluster13:(15)
+見本, 予定, 途中, レクチャー動画, 満点, 最初, 機会, 笑, 時間, 意外, 形, 予想, 場所, 製作, 作品
+cluster14:(1)
+しーさー作り体験
+
+howmany entities : 52
+howmany clusters : 15
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 5
+deleted 15entities.

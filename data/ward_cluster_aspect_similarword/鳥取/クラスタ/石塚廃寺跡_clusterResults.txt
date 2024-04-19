@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石塚廃寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+石塚廃寺, 寺院跡, 塔心礎, 廃寺跡, 跡, 石塚廃寺塔跡
+cluster1:(20)
+イボ神様, 関金温泉, 水, 墓, 墓地, 中, 奈良, 勇気, 信仰, 道, 時代, 深さ, イボ, 肌, 石, 国道, 円孔, 小鴨川岸, 対象, 場所
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ほたる見公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ホタル, キャンプ
+cluster1:(1)
+口コミ
+cluster2:(1)
+感じ
+cluster3:(1)
+空間
+cluster4:(1)
+星空
+cluster5:(1)
+大群
+cluster6:(1)
+源氏ホタル
+cluster7:(1)
+☆口和
+cluster8:(1)
+ほたる見公園
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

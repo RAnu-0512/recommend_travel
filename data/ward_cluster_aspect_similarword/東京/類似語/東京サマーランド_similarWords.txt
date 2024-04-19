@@ -1,0 +1,59 @@
+--------------------similar_words:東京サマーランド--------------------
+top3 entities near to cluster0>>
+子供, 子ども
+top3 entities near to cluster1>>
+そう, 言える, 楽しい
+top3 entities near to cluster2>>
+期間, 期限, 猶予
+top3 entities near to cluster3>>
+本数, 人数, 回数
+top3 entities near to cluster5>>
+時間数, 年間数, 年間, 時間
+top3 entities near to cluster6>>
+とも共, とも, 喰山
+top3 entities near to cluster7>>
+夏場, 夏, 冬
+top3 entities near to cluster8>>
+日水, 土水, 日, 土
+top3 entities near to cluster9>>
+対応, 確認, 頻発
+top3 entities near to cluster12>>
+不能, 理解, 不可能
+top3 entities near to cluster13>>
+アトラクション, テーマパーク, ホテル
+top3 entities near to cluster14>>
+電子系, 電子, マネー
+top3 entities near to cluster15>>
+着用, シワ, 皺
+top3 entities near to cluster16>>
+定番, 人気, 目玉
+top3 entities near to cluster17>>
+回転型, 回転, 円型
+top3 entities near to cluster18>>
+罪悪感, ドキドキ・ワクワク, 罪悪
+top3 entities near to cluster19>>
+外側
+top3 entities near to cluster20>>
+階段, 通路, 出入り口
+top3 entities near to cluster21>>
+足口, 足裏, 足
+top3 entities near to cluster22>>
+仕事, 食事, 家族
+top3 entities near to cluster23>>
+入園, 入場, 遊具
+top3 entities near to cluster24>>
+屋外, 屋内, 室内
+top3 entities near to cluster25>>
+屋内, 屋外, 室内
+top3 entities near to cluster26>>
+屋内, 屋外, 室内
+top3 entities near to cluster27>>
+室内, 室外, 屋内
+top3 entities near to cluster28>>
+屋外, 室内, 屋内
+top3 entities near to cluster29>>
+洗い, 浮き
+top3 entities near to cluster30>>
+プール, スイミング, ジャグジープール
+top3 entities near to cluster31>>
+施設, 駅, 駐車

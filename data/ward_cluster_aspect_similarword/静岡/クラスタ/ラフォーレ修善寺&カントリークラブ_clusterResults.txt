@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ラフォーレ修善寺&カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+南, 北
+cluster1:(2)
+醍醐味, ゴルフ
+cluster2:(1)
+景観
+cluster3:(2)
+霊峰富士, 天城連山
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千頭温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+静岡県, 温泉, 温泉街, 日帰り温泉施設, 温泉旅館, 千頭温泉, 旅館, 温泉地, 川根本町, 寸又峡温泉, 温泉施設, 日帰り温泉
+cluster1:(5)
+井川線, 大井川, SL, 大井川鉄道本線, 千頭
+cluster2:(2)
+源流, 時代
+cluster3:(2)
+体, 自然
+cluster4:(3)
+アクセス, 大井川鉄道, オススメ
+cluster5:(2)
+気持ち, 雰囲気
+cluster6:(1)
+タイム
+cluster7:(1)
+人
+cluster8:(1)
+中
+cluster9:(1)
+トーマスフェア
+cluster10:(1)
+感じ
+cluster11:(1)
+旅
+cluster12:(2)
+開催, 貸し切り状態
+cluster13:(3)
+昭和, 南アルプス, 脇
+cluster14:(8)
+終点, 周辺, 駅, 町, 橋, 先, 場所, 施設
+cluster15:(6)
+効能, お肌, 源泉, 入浴, 泉質, 湯
+cluster16:(1)
+レトロ感
+
+howmany entities : 52
+howmany clusters : 17
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 6
+deleted 15entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口銀行旧本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+山口県, 萩焼, 大内塗, 竹崎町, 下関市
+cluster1:(5)
+場所, 本店, 地方銀行, 山口銀行, 建物
+cluster2:(2)
+やまぎん, 通称
+cluster3:(1)
+変遷
+cluster4:(1)
+創業
+cluster5:(1)
+山銀
+cluster6:(4)
+史資料, 史料館, 資料, 木造建築
+cluster7:(1)
+伝統工芸品
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

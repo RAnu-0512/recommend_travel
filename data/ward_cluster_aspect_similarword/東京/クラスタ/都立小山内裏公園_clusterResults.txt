@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立小山内裏公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小山内裏公園, 都立小山内裏公園
+cluster1:(2)
+土, 火
+cluster2:(11)
+所, 場所, 休み, 気, 目的, 行事, 仕事, 散歩, 時期, 時間, こと
+cluster3:(2)
+地形, 丘陵
+cluster4:(17)
+はじ, 自然, 人達, 子ども, ランニング, 人, 緑, イス, 北, 子, 桜, バス, どん, 道, バーベキュー, 環境, 京王線
+cluster5:(3)
+焼き, 炎, 呼吸
+cluster6:(1)
+ポケモンGO
+cluster7:(1)
+朝早め
+cluster8:(4)
+多摩, 小山が丘, 多摩堤駅, 町田市
+cluster9:(2)
+都立, 都立公園
+cluster10:(4)
+公園, デカイ公園, 裏公園, 自然公園
+cluster11:(2)
+遊具, 園内
+cluster12:(1)
+駐車場
+cluster13:(1)
+自動販売機
+
+howmany entities : 53
+howmany clusters : 14
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 14
+deleted 0entities.

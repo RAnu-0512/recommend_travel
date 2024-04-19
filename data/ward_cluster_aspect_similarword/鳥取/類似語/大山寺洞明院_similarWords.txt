@@ -1,0 +1,15 @@
+--------------------similar_words:大山寺洞明院--------------------
+top3 entities near to cluster0>>
+明院, 洞院, 洞, 明
+top3 entities near to cluster1>>
+南岸, 北岸, 西岸
+top3 entities near to cluster2>>
+大山寺, 山門, 本堂
+top3 entities near to cluster3>>
+多い, 多かっ, 少ない
+top3 entities near to cluster4>>
+鉄橋, 橋梁
+top3 entities near to cluster5>>
+奥宮, 石垣, 鳥居
+top3 entities near to cluster6>>
+参道, 神社, 境内

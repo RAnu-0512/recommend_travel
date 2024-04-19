@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:バーデンハウス三丘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+歌, 折角, 人々, 気持ち, 露天風呂, 男性
+cluster1:(3)
+演歌, 風呂, 温泉
+cluster2:(1)
+ガンガン三流
+cluster3:(1)
+男性鍵
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

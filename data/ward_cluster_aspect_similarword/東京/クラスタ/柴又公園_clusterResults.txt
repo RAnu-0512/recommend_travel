@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柴又公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寅さん記念館, 山田洋次記念館
+cluster1:(4)
+柴又駅, 柴又公園, 柴又帝釈天, 柴又
+cluster2:(2)
+矢切, 江戸川矢切
+cluster3:(2)
+千葉県, 山本亭
+cluster4:(2)
+所, 場所
+cluster5:(3)
+一帯, 辺り, 付近
+cluster6:(10)
+富士山, 人, 気持ち, 渡し, 江戸川, 河川敷, 上, 方, ベンチ, 帝釈天
+cluster7:(1)
+開館
+cluster8:(2)
+川, 橋
+cluster9:(2)
+土手, 堤防
+cluster10:(1)
+上流
+cluster11:(1)
+荒川
+cluster12:(12)
+屋根, 景色, 芝生, 公園, 花壇, 緑, 丘, 駅, 広場, 階段, 参道, 高台
+cluster13:(3)
+東屋風, 休憩所, 休憩
+cluster14:(1)
+日本有数の公園
+
+howmany entities : 48
+howmany clusters : 15
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 15
+deleted 0entities.

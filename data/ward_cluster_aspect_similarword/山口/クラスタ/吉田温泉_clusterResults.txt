@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+湯, 吉田温泉, 温泉, 静かな温泉
+cluster1:(8)
+景色, 隣, 満開, 晋作, 休憩所, こと, 桜, 場所
+cluster2:(1)
+東行庵
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

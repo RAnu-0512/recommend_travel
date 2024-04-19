@@ -1,0 +1,25 @@
+--------------------similar_words:因島--------------------
+top3 entities near to cluster1>>
+はっさく, 八朔, いちご
+top3 entities near to cluster2>>
+駐車場, 駐車, 所内
+top3 entities near to cluster3>>
+島, 島内, 本島
+top3 entities near to cluster4>>
+土産, 名物, 絶景
+top3 entities near to cluster5>>
+道路, 歩道
+top3 entities near to cluster6>>
+本数, 距離, 間隔
+top3 entities near to cluster7>>
+勾配, 坂, こう配
+top3 entities near to cluster8>>
+海, 海岸, 海辺
+top3 entities near to cluster9>>
+古, 影, 青
+top3 entities near to cluster10>>
+戦国, 時代, 闘檄
+top3 entities near to cluster11>>
+反射材, 反射
+top3 entities near to cluster12>>
+海道, まなみ

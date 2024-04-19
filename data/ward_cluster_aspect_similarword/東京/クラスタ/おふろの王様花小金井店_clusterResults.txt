@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おふろの王様花小金井店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+美味いメニュー, 水風呂, 人, しょう, 他, メニュー, 構成, 露天風呂, 施設, 自宅, おすすめメニュー, 付け合わせ, 人 サウナ, サウナ, こと, サイズ
+cluster1:(3)
+売り, 受付, おススメ
+cluster2:(1)
+有料エリア
+cluster3:(1)
+秋頃
+cluster4:(9)
+食事処, そば粉, つゆ, 肉汁, そば, 味, 美味さ, 香り, 蕎麦
+cluster5:(1)
+百草園
+cluster6:(7)
+スチーム塩サウナ, 源泉風呂, 岩盤浴, 岩盤, 王寿庵, 入浴料, 無重力マッサージ機
+cluster7:(2)
+音波刺激全身運動器, 武蔵野風十割肉汁せいろ蕎麦
+
+howmany entities : 40
+howmany clusters : 8
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 8
+deleted 0entities.

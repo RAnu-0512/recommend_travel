@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大板山たたら製鉄遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+港, 萩
+cluster1:(2)
+遺構, 遺跡
+cluster2:(10)
+中, 大半市街地, 思い, 山奥, 道, 機会, 原料, 人たち, 場所, 建物
+cluster3:(1)
+世界遺産
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

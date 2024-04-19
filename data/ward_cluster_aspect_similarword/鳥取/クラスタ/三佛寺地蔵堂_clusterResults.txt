@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三佛寺地蔵堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+まわり, 御堂建築, 建立, 懸造, ところ, 気, 靴, 徳山, 縁台, 文化財, 国, 堂, 岩場, 手摺, 文殊堂, 投入堂, 地蔵堂, 時代後期, 奥の院, 鳥取県, 縁, 三徳, 足, 地蔵堂も村町, 手前
+cluster1:(2)
+三佛寺地蔵堂, 三佛寺
+cluster2:(2)
+地蔵堂(国重要文化財, 国指定重要文化財
+cluster3:(1)
+東伯郡三朝町
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 4
+deleted 0entities.

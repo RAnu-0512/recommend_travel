@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇部護国神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本殿, 社殿
+cluster1:(1)
+神社
+cluster2:(1)
+参拝
+cluster3:(1)
+護国神社
+cluster4:(2)
+前, 地元
+cluster5:(1)
+桜
+cluster6:(1)
+階段
+cluster7:(1)
+宇部
+cluster8:(1)
+駐車場
+
+howmany entities : 11
+howmany clusters : 9
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 9
+deleted 0entities.

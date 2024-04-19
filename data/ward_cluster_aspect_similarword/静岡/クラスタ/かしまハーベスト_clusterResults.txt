@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かしまハーベスト>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子どもたち, 子供たち
+cluster1:(17)
+案内, 所, 注意, 美味しさ, こと, 値段, 方, 予約, 試食, 体験, 機会, 時間, 場所, 収穫, 支払い方法, 味, 説明
+cluster2:(3)
+メロン選び, 甘いメロン, メロンがり
+cluster3:(6)
+雨, 客, 家族, 子供, 感染, 犬
+cluster4:(3)
+肝心, 別, 次
+cluster5:(13)
+スタッフ, イチゴ, 選択肢, ハウス, クーポン, ポイント, ハサミ, マスクメロン, ビニールハウス, メロン, とり方, カットメロン, 食べ頃
+cluster6:(1)
+浜松
+cluster7:(6)
+半玉メロン, メロン狩り, 完熟メロン半玉, いちご狩り, メロン狩り 前, 半玉
+
+howmany entities : 51
+howmany clusters : 8
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 6
+deleted 3entities.

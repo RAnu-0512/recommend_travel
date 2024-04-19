@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊泉の足湯処>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+河津桜まつり, 河津駅, 河津桜
+cluster1:(2)
+足湯処, 無料足湯処
+cluster2:(2)
+桜まつり, 花見スポット
+cluster3:(2)
+足, 足湯
+cluster4:(4)
+河津川, 先, 伊豆急行線, 沿い
+cluster5:(5)
+豊泉, 豊泉橋, 峰温泉, 河津川堤, 川堤
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 6entities.

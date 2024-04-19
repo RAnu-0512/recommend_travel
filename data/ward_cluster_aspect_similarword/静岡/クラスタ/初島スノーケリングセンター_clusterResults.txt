@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:初島スノーケリングセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+熱海, 初島
+cluster1:(5)
+気, 利用, 禁止, 追加, 説明
+cluster2:(5)
+目, 息子, 人, 近く, 前
+cluster3:(7)
+システム, スノーケル, シュノーケル, オンシーズン, シャワー, シュノーケルセンター, シュノーケリング
+cluster4:(3)
+ポイント, シュノーケルポイント, ところ
+cluster5:(1)
+シュノーケルセット
+cluster6:(1)
+スーツ
+cluster7:(1)
+張り紙
+cluster8:(3)
+教室, フェリー乗り場, 旅
+cluster9:(4)
+魚, 島, 海, 天気
+cluster10:(1)
+熱海港
+
+howmany entities : 33
+howmany clusters : 11
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 6
+deleted 6entities.

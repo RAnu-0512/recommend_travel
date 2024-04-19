@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテル三楽荘さかや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+狩野川慰霊祭, 慰霊祭
+cluster1:(7)
+貸切風呂, 温泉風呂, 湯船, 風呂利用, 伊豆長岡温泉, 風呂, 温泉施設
+cluster2:(2)
+部屋食, 部屋
+cluster3:(2)
+家族, 食事
+cluster4:(5)
+メニュー, タイムスケジュール, チェックイン, あらき, バリヤフリー
+cluster5:(2)
+場所, 方
+cluster6:(4)
+手軽, 値段, 量, 充実
+cluster7:(1)
+先客
+cluster8:(1)
+ソーラン絆
+cluster9:(1)
+見晴し
+cluster10:(1)
+韮山
+cluster11:(3)
+ノc味, 花火大会, 和洋室
+cluster12:(1)
+*̄ー̄
+cluster13:(1)
+江戸芸住吉踊りかっぽれ19:50〜 伊豆太鼓
+
+howmany entities : 33
+howmany clusters : 14
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 14entities.

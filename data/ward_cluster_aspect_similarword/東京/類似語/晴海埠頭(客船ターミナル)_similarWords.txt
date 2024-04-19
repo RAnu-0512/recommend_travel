@@ -1,0 +1,53 @@
+--------------------similar_words:晴海埠頭(客船ターミナル)--------------------
+top3 entities near to cluster0>>
+船舶, 船内
+top3 entities near to cluster1>>
+大人, 子供
+top3 entities near to cluster2>>
+海心, 足, 海
+top3 entities near to cluster3>>
+施設, 周辺, 近辺
+top3 entities near to cluster5>>
+中心, 数多い, 大半
+top3 entities near to cluster6>>
+昔, 母, 父
+top3 entities near to cluster7>>
+記憶, ルートセヴン, 思い出す
+top3 entities near to cluster8>>
+噂, うわさ, ウワサ
+top3 entities near to cluster9>>
+機会, チャンス, 好機
+top3 entities near to cluster11>>
+寂れ, さびれ, ひなび
+top3 entities near to cluster13>>
+デッキ, ブリッジ, レインボー
+top3 entities near to cluster14>>
+フェリー, 船着き場, タクシー
+top3 entities near to cluster15>>
+デートスポット, レストラン, オススメスポット
+top3 entities near to cluster17>>
+もんじゃ, もんじゃ焼き, お好み焼き
+top3 entities near to cluster18>>
+取り壊し, 取り壊す, 建て替え
+top3 entities near to cluster19>>
+まわり, 周り
+top3 entities near to cluster20>>
+雰囲気, 見送り, 見送っ
+top3 entities near to cluster22>>
+忘年会, 忘年, 宴会
+top3 entities near to cluster23>>
+お子様, お子さま, お子さん
+top3 entities near to cluster24>>
+マスト, アイテム, マストバイアイテム
+top3 entities near to cluster27>>
+建設, ロケ, 発着
+top3 entities near to cluster28>>
+景色, 眺望, 夜景
+top3 entities near to cluster29>>
+埠頭, 客船, ふ頭
+top3 entities near to cluster30>>
+みなと, 都, まつり
+top3 entities near to cluster32>>
+湾岸, 台場, 港
+top3 entities near to cluster33>>
+都, 区, 中央

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雁堤>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散歩, 犬
+cluster1:(6)
+富士川, 富士山, ウォーキングコース, ジョギングコース, 北側, コスモス
+cluster2:(2)
+雨, 桜
+cluster3:(1)
+富士川橋
+cluster4:(1)
+土筆
+cluster5:(1)
+雁堤
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 7entities.

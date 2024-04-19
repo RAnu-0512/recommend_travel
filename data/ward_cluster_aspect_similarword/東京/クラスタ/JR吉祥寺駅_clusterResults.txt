@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR吉祥寺駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+所, 昔, アトリエ, 場所, 吉祥寺, ロータリー, 人, 総武線, 東京, アクセス, SHIROBAKO, 街, 最適, 井の頭公園, 見学, 羽田空港, エリア, 若者, 前, アニメ, 乗り換え
+cluster1:(2)
+地帯あり, 利便性
+cluster2:(2)
+彫刻館, 動物園
+cluster3:(2)
+商店街, お店屋
+cluster4:(1)
+観光案内所
+cluster5:(19)
+徒歩圏, 中央口, 吉祥寺駅, JR吉祥寺駅, JR, アトレ, 駅, 北口周辺, JRアトレ商業施設, 中央付近, 路線バス, 中央線, ビル, バス, アトレ吉祥寺, 公園口, 京王井の頭線, 駅ビル, 北口
+
+howmany entities : 47
+howmany clusters : 6
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 6
+deleted 0entities.

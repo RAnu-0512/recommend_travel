@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花菖蒲(水元公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+花菖蒲園, 菖蒲, 葛飾しょうぶ, 都立公園, 堀切菖蒲園, 菖蒲園, 葛飾菖蒲まつり
+cluster1:(19)
+季節, 場所, 多く, 品種, 人, 一部, 本数, 種類, 近く, 意外, 時期, 写真, 中, 方, 段階, 風情, 地元, もの, 是非見
+cluster2:(3)
+木々, 花, 緑
+cluster3:(3)
+公園, 橋, バス
+cluster4:(9)
+紫陽花, 季節外れ, 花菖蒲, 菖蒲田, 都, 水元公園, ベンチ, 吹奏楽, バーベキュー
+cluster5:(1)
+読書
+cluster6:(7)
+開催, 祭り, 小雨, 花菖蒲祭り, 天気, 出店, 見頃
+cluster7:(3)
+時期外れ, 観光客, 開花時期
+cluster8:(1)
+水彩画
+
+howmany entities : 53
+howmany clusters : 9
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯本観光ホテル西京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+清掃, 世話, 応対
+cluster1:(12)
+側, スタッフ, ホテル, ボーリング, レンタルシューズ, 露天風呂, ファミリー, 方, 迷子, 気持ち, フロント, お子様
+cluster2:(9)
+風呂, 部屋, 景色, 観光ホテル, 客室, 温泉, 屋外, 日帰り入浴, 館内
+cluster3:(3)
+道路&川, 脱衣所, 駐車場
+cluster4:(1)
+湯元観光ホテル西京
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

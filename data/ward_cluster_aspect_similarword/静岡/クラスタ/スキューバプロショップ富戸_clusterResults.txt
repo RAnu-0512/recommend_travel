@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スキューバプロショップ富戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+埼玉, 三島, 富戸
+cluster1:(2)
+こと, 認識
+cluster2:(8)
+ダイビング, 人, スキューバプロ, ウエット, スタッフ, 山越え, ファンダイブ, シュノーケリング
+cluster3:(4)
+水中, 温泉, 海, 道路
+cluster4:(1)
+岐路
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 3entities.

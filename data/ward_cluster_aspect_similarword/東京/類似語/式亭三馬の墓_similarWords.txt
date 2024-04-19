@@ -1,0 +1,11 @@
+--------------------similar_words:式亭三馬の墓--------------------
+top3 entities near to cluster0>>
+泉寺, 正, 受院
+top3 entities near to cluster1>>
+お寺, 寺, 墓地
+top3 entities near to cluster3>>
+信号, 住宅
+top3 entities near to cluster5>>
+式亭, 鯉丈, 咄本
+top3 entities near to cluster6>>
+中期, 時代, 後期

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深谷大橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩, 大小
+cluster1:(2)
+山道, 中腹
+cluster2:(2)
+橋, 下
+cluster3:(5)
+所, 帰り道, ルート, 車, パーキングエリア
+cluster4:(1)
+あり川
+cluster5:(1)
+島根
+cluster6:(1)
+駐車場
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

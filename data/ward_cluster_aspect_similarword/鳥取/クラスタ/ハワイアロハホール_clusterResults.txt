@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハワイアロハホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+多目的広場, 右側, イベント, 正面, 建物外観, 方, ハワイアロハホール, 芝生地, アロハカーニバル2018, 窓, 左手, 大ホール, ホール, もの
+cluster1:(2)
+中央公民館羽合分館, 湯梨浜町
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

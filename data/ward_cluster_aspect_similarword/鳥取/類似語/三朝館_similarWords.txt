@@ -1,0 +1,19 @@
+--------------------similar_words:三朝館--------------------
+top3 entities near to cluster0>>
+樽, 陶器, 陶製
+top3 entities near to cluster1>>
+玄関, 館内, 庭
+top3 entities near to cluster2>>
+対応, 充実, 拡充
+top3 entities near to cluster3>>
+内風呂, 露天風呂, 内湯
+top3 entities near to cluster4>>
+雰囲気, 気持ち, 気持
+top3 entities near to cluster6>>
+日常, 空間, 体験
+top3 entities near to cluster7>>
+前回, 機会, 前々回
+top3 entities near to cluster8>>
+空気質, 空気
+top3 entities near to cluster9>>
+風呂, 温泉, 露天風呂

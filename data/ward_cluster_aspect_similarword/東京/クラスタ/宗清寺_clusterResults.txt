@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宗清寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+曹洞宗寺院, 寺院
+cluster1:(3)
+立川, 中野, 関東
+cluster2:(6)
+曹洞宗, 大黒天, 関係, 寺, 門構え, 雰囲気
+cluster3:(3)
+沿線, 北東, 駅
+cluster4:(1)
+青春
+cluster5:(1)
+中央線
+cluster6:(2)
+途中下車, JR中野駅
+cluster7:(1)
+宗清寺
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

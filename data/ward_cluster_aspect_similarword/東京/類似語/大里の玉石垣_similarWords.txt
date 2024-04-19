@@ -1,0 +1,11 @@
+--------------------similar_words:大里の玉石垣--------------------
+top3 entities near to cluster0>>
+敷地, 建物, 民家
+top3 entities near to cluster1>>
+ベスブ石, 玉石, ベスブ
+top3 entities near to cluster2>>
+丸い, 玉の
+top3 entities near to cluster4>>
+壁沿い, 擁, 壁
+top3 entities near to cluster5>>
+館, 民俗, 資料

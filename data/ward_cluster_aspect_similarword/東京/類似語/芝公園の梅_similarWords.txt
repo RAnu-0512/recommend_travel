@@ -1,0 +1,13 @@
+--------------------similar_words:芝公園の梅--------------------
+top3 entities near to cluster0>>
+芝公園, 芝, 港
+top3 entities near to cluster1>>
+梅, 桜, 紅梅
+top3 entities near to cluster2>>
+芝公園, 増上寺, 明治
+top3 entities near to cluster3>>
+季節, 梅雨, 時期
+top3 entities near to cluster5>>
+光景, 眺め, 眺める
+top3 entities near to cluster6>>
+公園, 遊歩道, 周辺

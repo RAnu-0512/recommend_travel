@@ -1,0 +1,49 @@
+--------------------similar_words:赤沢日帰り温泉館--------------------
+top3 entities near to cluster0>>
+露天風呂, 内風呂, 内湯
+top3 entities near to cluster2>>
+海沿い, ホテル, プール
+top3 entities near to cluster3>>
+サウナ, ジャグジー, シャワー
+top3 entities near to cluster4>>
+サービス, ショップ, サイト
+top3 entities near to cluster6>>
+コイン, カード, コスト
+top3 entities near to cluster7>>
+オムツ, マスク, コスメ
+top3 entities near to cluster9>>
+泥, 一式
+top3 entities near to cluster10>>
+温度, 角度, 音質
+top3 entities near to cluster11>>
+身体
+top3 entities near to cluster12>>
+食事, 夕食, ご飯
+top3 entities near to cluster13>>
+タオル, 仕様, プラン
+top3 entities near to cluster14>>
+訪問, 体験, 宿泊
+top3 entities near to cluster15>>
+料理, 刺身, 食材
+top3 entities near to cluster19>>
+料金, 宿泊, 予約
+top3 entities near to cluster20>>
+絶景, 眺望, 景色
+top3 entities near to cluster21>>
+海, 海辺, 海岸
+top3 entities near to cluster24>>
+入浴, 食事, 風呂
+top3 entities near to cluster25>>
+貸切, 貸し切り, 風呂
+top3 entities near to cluster26>>
+風呂, 部屋, 姉ちゃん
+top3 entities near to cluster27>>
+風呂, 湯船, 浴槽
+top3 entities near to cluster30>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster31>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster32>>
+風呂場, 駐車場, 駐車, 風呂
+top3 entities near to cluster36>>
+温泉, 湯, 露天風呂

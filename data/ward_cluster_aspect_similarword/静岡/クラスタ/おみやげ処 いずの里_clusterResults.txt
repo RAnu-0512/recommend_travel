@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おみやげ処 いずの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊豆, 伊東
+cluster1:(4)
+土産, 自宅, おみやげ処, 地元
+cluster2:(5)
+魚, 漁港, 幸, 干物, 海
+cluster3:(1)
+獲れたて
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

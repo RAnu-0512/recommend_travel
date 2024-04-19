@@ -1,0 +1,9 @@
+--------------------similar_words:東京メトロ副都心線 新宿三丁目駅--------------------
+top3 entities near to cluster0>>
+駅, 改札, 構内
+top3 entities near to cluster2>>
+路線, 入口
+top3 entities near to cluster3>>
+地下鉄, 地下道, 地上
+top3 entities near to cluster4>>
+振替, 混雑, 振り替え

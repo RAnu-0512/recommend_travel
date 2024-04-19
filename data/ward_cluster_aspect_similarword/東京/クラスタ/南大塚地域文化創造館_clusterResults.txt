@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南大塚地域文化創造館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大塚駅, 山手線
+cluster1:(2)
+スタッフ, ホール
+cluster2:(1)
+こと
+cluster3:(1)
+施設
+cluster4:(1)
+頭
+cluster5:(1)
+料金
+cluster6:(1)
+南大塚ホール
+cluster7:(2)
+JR, 駅
+cluster8:(1)
+公共
+cluster9:(1)
+近さ
+cluster10:(1)
+会議室
+cluster11:(1)
+塗装工事
+
+howmany entities : 15
+howmany clusters : 12
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 12
+deleted 0entities.

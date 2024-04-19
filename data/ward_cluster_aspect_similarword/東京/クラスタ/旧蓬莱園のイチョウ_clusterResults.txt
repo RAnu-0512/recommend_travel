@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧蓬莱園のイチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+台東区, 浅草橋5丁目
+cluster1:(2)
+イチョウ, 関東大震災
+cluster2:(2)
+こと, もの
+cluster3:(1)
+一帯
+cluster4:(3)
+蓬莱園, 名園, 柳北公園
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

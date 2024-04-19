@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:工房アリィ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+貯金箱, ポスカ
+cluster1:(3)
+体験者, クラフト体験, 駐車場
+cluster2:(4)
+店, 近所, 近く, 店内
+cluster3:(2)
+SNS, 自転車
+cluster4:(2)
+アイデア, スペース
+cluster5:(2)
+エプロン, マッキー
+cluster6:(2)
+プラン, ホテル
+cluster7:(1)
+アリィ
+cluster8:(4)
+焼き物, 一輪挿し, 箸置き, 絵の具
+cluster9:(1)
+母
+cluster10:(3)
+販売, 場合, 作品
+cluster11:(1)
+狐
+cluster12:(2)
+山口湯田温泉, 土鈴
+cluster13:(1)
+土鈴絵付け体験
+
+howmany entities : 30
+howmany clusters : 14
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 14
+deleted 0entities.

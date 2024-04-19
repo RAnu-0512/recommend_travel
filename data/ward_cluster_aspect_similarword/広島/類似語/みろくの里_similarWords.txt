@@ -1,0 +1,61 @@
+--------------------similar_words:みろくの里--------------------
+top3 entities near to cluster0>>
+ゴルフ, パーク, パター
+top3 entities near to cluster1>>
+雰囲気, 気持ち, イメージ
+top3 entities near to cluster2>>
+コースター, アルコール, ソフトドリンク
+top3 entities near to cluster3>>
+プリンシェイク, アトラクション, アイスクリーム
+top3 entities near to cluster4>>
+ライトアップ, イルミネーション, ロマンチック
+top3 entities near to cluster5>>
+テーマパーク, レストラン, アトラクション
+top3 entities near to cluster6>>
+おもちゃ, スイミング, ベビーカー
+top3 entities near to cluster8>>
+カフェ, 飲み物, アイスクリーム
+top3 entities near to cluster9>>
+みろく, 里, 三良坂
+top3 entities near to cluster10>>
+コースター, ジェット, スリル
+top3 entities near to cluster11>>
+エリア, プラン, ゾーン
+top3 entities near to cluster12>>
+プール, スイミング, 水遊び
+top3 entities near to cluster13>>
+子ども, 子供, こども
+top3 entities near to cluster14>>
+中学校, 小学校, 小中学校
+top3 entities near to cluster15>>
+春休み, 夏休み, 冬休み
+top3 entities near to cluster16>>
+クリスマス, クリスマスイブ, ハロウィン
+top3 entities near to cluster18>>
+食事, 土産, 屋台
+top3 entities near to cluster19>>
+世代, 同年代, 祖父母
+top3 entities near to cluster21>>
+冬, 夏, 秋
+top3 entities near to cluster22>>
+人達, 風景
+top3 entities near to cluster23>>
+遊具, 園内, 遊園
+top3 entities near to cluster24>>
+子供, 小学生, 子ども
+top3 entities near to cluster25>>
+子, 目の子, テレビッ
+top3 entities near to cluster26>>
+夫婦, 親子, 家族
+top3 entities near to cluster27>>
+息子, 娘, 親
+top3 entities near to cluster28>>
+遊園地, 遊園, 揚島
+top3 entities near to cluster29>>
+施設, 設備, レジャー
+top3 entities near to cluster30>>
+温泉, 施設, 温泉郷
+top3 entities near to cluster31>>
+施設, 宿泊, 入浴
+top3 entities near to cluster32>>
+駐車券, 入場券, 入場, 駐車

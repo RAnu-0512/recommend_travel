@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藍場川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鯉, 萩
+cluster1:(2)
+木, 水
+cluster2:(4)
+姿, 景色, 風景, 風情
+cluster3:(15)
+子供, 中, 昔, ところ, 流れ, ハトバ, 川, 場所, 夏, 雰囲気, 周り, 近く, 写真, 門構え, 生き物
+cluster4:(9)
+庭, 街, 生活, 屋敷, 道, 家, 壁, 歴史, 建物
+cluster5:(5)
+川沿い, 湯川家屋敷, 藍場川, 生活用水, 駐車場
+
+howmany entities : 37
+howmany clusters : 6
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クリオネダイバーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+魚, 魚達, 大型魚, 魚メイン
+cluster1:(5)
+ダイビング体験, 体験, 体験ダイビング, 洞窟遊び, 洞窟
+cluster2:(3)
+前回, 次回, 追加ダイビング
+cluster3:(6)
+こと, 方, 写真, 中, 説明, 場所
+cluster4:(2)
+経験, 初ダイビング
+cluster5:(15)
+やり方, 姉, クリオネ, ダイビング, 安全, ダイブ, ダイナミック, 思い出, ポイント, 娘, ダイビングスポット, ファンダイブ, 久しぶり, ボート, インストラクター
+cluster6:(10)
+雲見, 泳ぎ, 台風, 鯛, 田子, 水温, 景色, 海, 波, 天気
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 6
+deleted 2entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:GENIUS TOKYO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+噴射タイプ, 今時スモーク噴射
+cluster1:(2)
+大型クラブ, 大型
+cluster2:(2)
+煙, 換気
+cluster3:(22)
+コロナ, クラブ, ホコリ, ドリンク, 荷物, 人, ロッカー, 状況, 印象, 周り, 音楽, 時間, タイミング, 方, こと, 空気, 男性, 雰囲気, スモーク, スペース, 女性, 店内
+cluster4:(1)
+エントランス料金女性
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 5
+deleted 0entities.

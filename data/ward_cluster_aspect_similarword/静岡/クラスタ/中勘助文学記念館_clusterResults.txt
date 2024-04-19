@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中勘助文学記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中勘助の記念館, 中勘助文学記念館
+cluster1:(14)
+車, 話, 兄, 憂い, 静岡, 場所, 大半, 東京, 作り, 国語, 世話, 記念館, 静岡市街地, 耳
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

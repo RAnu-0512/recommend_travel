@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石松の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+一部, 何か, 清水, 鉄網, 映画, 人, 境内, 墓, 劇画, 大洞院, 説明板, 石碑, 人物, 人気, 石松, 題材, 配役
+cluster1:(3)
+東映・東宝, 戦後復興期, 任侠映画
+cluster2:(1)
+次郎長一家の一人
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 1entities.

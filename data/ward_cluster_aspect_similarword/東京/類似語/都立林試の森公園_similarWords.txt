@@ -1,0 +1,17 @@
+--------------------similar_words:都立林試の森公園--------------------
+top3 entities near to cluster2>>
+散歩, 散策, 出掛け
+top3 entities near to cluster3>>
+気温, 天気, お天気
+top3 entities near to cluster4>>
+木々, 樹木, 紅葉
+top3 entities near to cluster5>>
+子供, 子ども, 家族
+top3 entities near to cluster6>>
+遊歩道, 森林浴, 公園
+top3 entities near to cluster8>>
+憩い, 場裏
+top3 entities near to cluster9>>
+都心, 都会, 田舎
+top3 entities near to cluster12>>
+公園, 広場, 遊歩道

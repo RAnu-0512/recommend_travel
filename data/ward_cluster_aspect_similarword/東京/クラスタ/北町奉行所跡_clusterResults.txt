@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北町奉行所跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+北町奉行所, 南町奉行所, 北町奉行
+cluster1:(3)
+遠山, 遠山の金, 金
+cluster2:(2)
+呉服橋, 歩道沿い
+cluster3:(3)
+東京駅, 大丸, 八重洲口
+cluster4:(3)
+面影, 碑, 跡
+cluster5:(2)
+幕末, 奉行
+cluster6:(16)
+ホテル, 手前, 北側, 場所, グラントウキョウノースタワー, 丸の内トラスト, 人, タワー, 交差点, ビル, 敷地, 写真, 方, こと, スマホ, 道案内
+cluster7:(1)
+案内板
+cluster8:(1)
+時代劇
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 9
+deleted 0entities.

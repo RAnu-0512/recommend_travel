@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西郷寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+笑顔, 時宗, 感じ, 線, 隣り, 屋根, 唐破風, 久保小学校, 手, 文化財級
+cluster1:(4)
+参拝者, 本殿, 本堂, 石段
+cluster2:(2)
+泣き龍天井, 足利尊
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

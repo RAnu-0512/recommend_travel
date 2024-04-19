@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清鏡寺(清水宗治主従の供養塔)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+菩提寺, 水攻め
+cluster1:(2)
+城主, 家臣
+cluster2:(1)
+備中高松城
+cluster3:(1)
+毛利
+cluster4:(2)
+羽柴筑前守秀吉, 高松山清鏡寺
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

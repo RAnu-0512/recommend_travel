@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ南北線本駒込駅--------------------
+top3 entities near to cluster0>>
+駅, 徒歩, 近辺
+top3 entities near to cluster1>>
+商店街, 住宅街, 商店, 住宅
+top3 entities near to cluster2>>
+神社, ジオトレイル, 松任

@@ -1,0 +1,9 @@
+--------------------similar_words:杉山神社--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+水系, 上流, 下流
+top3 entities near to cluster2>>
+寺, 歴史, 神社
+top3 entities near to cluster3>>
+神社, 本殿, 社務

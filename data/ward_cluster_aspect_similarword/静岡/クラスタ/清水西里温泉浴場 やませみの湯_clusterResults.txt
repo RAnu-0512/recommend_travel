@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水西里温泉浴場 やませみの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+距離感, 田舎臭さ, 煙草臭
+cluster1:(3)
+清水区, 指定管理社, やすらぎの森
+cluster2:(20)
+中心部, 客, 温泉, こと, キャンプ, 晩秋, お湯, 人, キャンプ場, 山越え, ボードウォーク, 中, 道路, バーベキュー, 場所, 常連グループ, 味, 温泉施設, 森林公園, 湯
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 0entities.

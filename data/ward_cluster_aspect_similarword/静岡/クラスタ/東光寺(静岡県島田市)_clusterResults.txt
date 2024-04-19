@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東光寺(静岡県島田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日吉神社, 東光寺日吉神社
+cluster1:(2)
+舞, 猿舞
+cluster2:(7)
+自然, 面, ハイキングコース, 子ども, 東光寺, 神社, 地域
+cluster3:(1)
+県指定無形民族文化財
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

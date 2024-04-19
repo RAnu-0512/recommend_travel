@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青海湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+淡水, 淡水湖
+cluster1:(2)
+潟湖, 湖
+cluster2:(16)
+山口県, 変化, 砂州, 南西, 天橋立, 水位, 橋立, 水深, 青海湖, 海水, 波, 日本海, 水, 海, 近く, 青海島
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

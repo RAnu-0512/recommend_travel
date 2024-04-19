@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まいまいず井戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+すり鉢状, とうずまき状
+cluster1:(3)
+こと, 形, もの
+cluster2:(4)
+昔, ところ, カタツムリ, スケール
+cluster3:(1)
+技術
+cluster4:(2)
+穴, 井戸
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

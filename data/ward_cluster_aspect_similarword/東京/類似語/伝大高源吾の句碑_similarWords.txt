@@ -1,0 +1,13 @@
+--------------------similar_words:伝大高源吾の句碑--------------------
+top3 entities near to cluster0>>
+両国, 双方, 両者
+top3 entities near to cluster1>>
+意味, 趣, 趣き
+top3 entities near to cluster2>>
+俳句, 短歌
+top3 entities near to cluster3>>
+句碑, 石碑, 歌碑
+top3 entities near to cluster4>>
+恩, 一人, 正
+top3 entities near to cluster5>>
+八, 五

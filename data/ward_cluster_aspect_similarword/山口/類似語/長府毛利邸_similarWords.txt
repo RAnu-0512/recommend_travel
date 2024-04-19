@@ -1,0 +1,29 @@
+--------------------similar_words:長府毛利邸--------------------
+top3 entities near to cluster1>>
+三吉, 慎, 蔵
+top3 entities near to cluster2>>
+支藩, 当主, 祖
+top3 entities near to cluster4>>
+純, 和風, 洋風
+top3 entities near to cluster5>>
+山寺, 功, 竺原
+top3 entities near to cluster7>>
+紅葉, 木々, 新緑
+top3 entities near to cluster8>>
+神社, 寺院, 銅像
+top3 entities near to cluster9>>
+邸宅, 屋敷, 中庭
+top3 entities near to cluster10>>
+邸宅内, 邸宅
+top3 entities near to cluster12>>
+参考, 資料, 画像
+top3 entities near to cluster14>>
+ケーキ, イベント, 和菓子
+top3 entities near to cluster15>>
+道中, 旅, 旅路
+top3 entities near to cluster16>>
+さげ, もん
+top3 entities near to cluster17>>
+駅店, 宿泊, 駅
+top3 entities near to cluster18>>
+庭園, 屋敷, 中庭

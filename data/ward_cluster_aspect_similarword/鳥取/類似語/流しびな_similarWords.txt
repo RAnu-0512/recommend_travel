@@ -1,0 +1,9 @@
+--------------------similar_words:流しびな--------------------
+top3 entities near to cluster0>>
+行事, 民俗, 祭事
+top3 entities near to cluster1>>
+人形, 女の子, 子供
+top3 entities near to cluster2>>
+周辺, 川, 時期
+top3 entities near to cluster4>>
+流しびな, 流し, 流す

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リトモ・ディ・ブリブリブッスン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+所, 世代ギャップ, 店, 食事, モノマネ, キーマカレー, 人, 口コミ, 笑い, 会話, 話, 夫婦, 軽食, 席, 時間, リトモ, 記念, 方, 演者, 結婚, ショー, 料理
+cluster1:(2)
+食事付きコース, 飲み放題
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

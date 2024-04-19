@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR高田馬場駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+大学, 学生街, 学生, 学生含め人
+cluster1:(3)
+東京, 都, 東京メトロ
+cluster2:(2)
+時間, 移動時間
+cluster3:(5)
+涙, 難点, 感じ, ほう, こと
+cluster4:(2)
+JR, 路線
+cluster5:(3)
+地下, 昼, 池袋
+cluster6:(12)
+早稲田大学, 場所, 人, 他, 近く, ウィークリーマンション, ホーム, 乗換え, 東西線, 周辺, 市ヶ谷, 乗り換え
+cluster7:(8)
+西武線, 新宿駅, 山手線, 駅, 改札, 駅周辺, 飲食店, 高田馬場駅
+
+howmany entities : 39
+howmany clusters : 8
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 8
+deleted 0entities.

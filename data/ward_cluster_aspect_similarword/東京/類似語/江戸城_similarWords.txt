@@ -1,0 +1,57 @@
+--------------------similar_words:江戸城--------------------
+top3 entities near to cluster1>>
+見学, 入場, 公開
+top3 entities near to cluster2>>
+散策, 散歩, ぶらつく
+top3 entities near to cluster3>>
+散歩, 散策, 出掛け
+top3 entities near to cluster4>>
+友達, 同士
+top3 entities near to cluster5>>
+敷地, 建物, 裏手
+top3 entities near to cluster6>>
+コース, パワー, トレイル
+top3 entities near to cluster8>>
+マラソン, 警察官, イベント
+top3 entities near to cluster9>>
+世界一, ナンバーワン, 全国一
+top3 entities near to cluster10>>
+雰囲気, 風情, 気持ち
+top3 entities near to cluster11>>
+忠臣蔵, 浅野内匠頭, 討ち入り
+top3 entities near to cluster13>>
+紅葉, 桜, 木々
+top3 entities near to cluster15>>
+だし, 周り, ぐら
+top3 entities near to cluster16>>
+象徴, 誇り, 歴史
+top3 entities near to cluster17>>
+昔人, 地元人, 昔, 地元
+top3 entities near to cluster18>>
+一部, 部分, 中心
+top3 entities near to cluster19>>
+時間, 木水, 木
+top3 entities near to cluster20>>
+風情, 趣, 趣き
+top3 entities near to cluster21>>
+皇居, 東宮御所, 吹上御苑
+top3 entities near to cluster22>>
+御苑, 皇居, 外苑
+top3 entities near to cluster24>>
+天守, 本丸, 天守閣
+top3 entities near to cluster25>>
+郭, 石垣, 堀
+top3 entities near to cluster27>>
+時代, 古い, 良い
+top3 entities near to cluster28>>
+果樹園, バラ園, 果樹, バラ
+top3 entities near to cluster29>>
+庭園, 中庭, 庭
+top3 entities near to cluster30>>
+城内, 本丸, 城
+top3 entities near to cluster31>>
+櫓, 堀, 石垣
+top3 entities near to cluster32>>
+城, 城主, 城跡
+top3 entities near to cluster33>>
+家康, 井伊, 豊臣

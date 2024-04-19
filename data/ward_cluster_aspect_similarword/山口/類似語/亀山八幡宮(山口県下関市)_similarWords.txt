@@ -1,0 +1,25 @@
+--------------------similar_words:亀山八幡宮(山口県下関市)--------------------
+top3 entities near to cluster0>>
+野球場, 野球, 駐車場, 駐車
+top3 entities near to cluster1>>
+多, 直
+top3 entities near to cluster5>>
+海, 山, 鳥居
+top3 entities near to cluster6>>
+こい, のぼり, 滲音
+top3 entities near to cluster7>>
+銅像, 石像
+top3 entities near to cluster9>>
+石段, 階段, 急坂
+top3 entities near to cluster10>>
+眼下, 景色, 高台
+top3 entities near to cluster11>>
+国道, 県道
+top3 entities near to cluster13>>
+神社, 境内, 本殿
+top3 entities near to cluster14>>
+ふく, 銅像
+top3 entities near to cluster15>>
+球児, 高校, 野球
+top3 entities near to cluster17>>
+仲哀, 神功, 天皇

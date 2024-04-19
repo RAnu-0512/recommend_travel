@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:公益財団法人東京観光財団>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+藤沢市, 神奈川県, 横須賀市, 鎌倉市
+cluster1:(6)
+東京, バスタ, 目的, スタッフ, 新宿, 都庁
+cluster2:(7)
+観光, 観光情報, 外国人観光客, 東京観光財団, 全国観光PRコーナー, 公益財団法人, 観光パンフレット観光マップ
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サンドヒル鳥取 サンサンメロン園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+メロン園, 農場, 風車
+cluster1:(7)
+徒歩, 三本立て, 中, 水浴び, スプリンクラー, 周辺, 炎天下
+cluster2:(1)
+ゆず栽培場
+cluster3:(1)
+サンドヒル鳥取
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

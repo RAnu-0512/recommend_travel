@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東鳳翩山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登山道, 登山口
+cluster1:(2)
+頂上, 山
+cluster2:(2)
+車, 道
+cluster3:(4)
+事, 入口, 初心者, 場所
+cluster4:(1)
+中心部
+cluster5:(1)
+山口市
+cluster6:(1)
+踏み跡
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

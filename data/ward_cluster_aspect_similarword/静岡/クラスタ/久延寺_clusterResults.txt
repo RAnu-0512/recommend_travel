@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久延寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+夜泣石伝説, 手植え, 峠, 東海道沿い(小夜, 茶屋, 真言宗, 小夜, 扇屋, 家康, 茶亭跡, 子育て飴, 夜泣石, 日坂宿, 菊川宿, 中山峠, あたり, 五葉松, 間
+cluster1:(3)
+久延寺, 行基開創, 山内一豊
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 0entities.

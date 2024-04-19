@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土井ヶ浜遺跡・人類学ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土井が浜遺跡, 土井ヶ浜遺跡
+cluster1:(24)
+姿, 中, 施設, 海水浴, ドーム, ルーツ, 中心, 山陰海岸, 価値, 資料, 日本, ミュージアム, 骨, 女性, 田舎, 映像, 山陰, レプリカ, 方, 解説, 人, 遺跡, 3Dシアター, 建物
+cluster2:(2)
+展示品, 出土品
+cluster3:(2)
+弥生, 弥生時代
+cluster4:(2)
+人骨, 弥生人骨
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 5
+deleted 0entities.

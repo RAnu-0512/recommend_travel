@@ -1,0 +1,15 @@
+--------------------similar_words:吉祥寺滝--------------------
+top3 entities near to cluster0>>
+滝, 渓谷, 渓流
+top3 entities near to cluster1>>
+段差, 階段, 手すり
+top3 entities near to cluster2>>
+印象, 姿, 格好
+top3 entities near to cluster3>>
+目印, そば, 看板
+top3 entities near to cluster4>>
+合流, 落ち合っ, 落ち合う
+top3 entities near to cluster5>>
+落差, 高低, ギャップ
+top3 entities near to cluster6>>
+水平, 方向, 垂直

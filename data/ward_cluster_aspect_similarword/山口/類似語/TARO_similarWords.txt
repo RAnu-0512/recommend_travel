@@ -1,0 +1,21 @@
+--------------------similar_words:TARO--------------------
+top3 entities near to cluster0>>
+家族, 子供, 子ども
+top3 entities near to cluster1>>
+イチゴ, いちご, 苺
+top3 entities near to cluster2>>
+ハサミ, 葉っぱ, チョキンチョキン
+top3 entities near to cluster3>>
+トイレ, ハウス, 持ち帰り
+top3 entities near to cluster4>>
+アーム, カバー, フルカバー
+top3 entities near to cluster5>>
+補足, 理解, 解説
+top3 entities near to cluster6>>
+土産, おみやげ, 土産物
+top3 entities near to cluster7>>
+路地, 入り, 入る
+top3 entities near to cluster8>>
+サン, 子供, 子ども
+top3 entities near to cluster9>>
+イチゴ, 狩り, いちご

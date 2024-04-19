@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆スカイライン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+冷川IC, 沼津, 熱海, 伊東, 天城高原, 伊豆, 伊豆スカイライン, 東京2020オリンピック
+cluster1:(11)
+区間, 事, スカイライン, 海沿い, ナビ, 亀石峠, 富士山, ドライブ, 景色, 熱海峠, 道
+cluster2:(2)
+渋滞, 信号
+cluster3:(3)
+駐車場, 展望台, 大会期間
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 2entities.

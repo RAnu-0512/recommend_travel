@@ -1,0 +1,9 @@
+--------------------similar_words:six--------------------
+top3 entities near to cluster2>>
+子ども, 子供, こども
+top3 entities near to cluster3>>
+中心, 主軸, 主体
+top3 entities near to cluster4>>
+男性, 女性, 男女
+top3 entities near to cluster5>>
+店舗, 店主

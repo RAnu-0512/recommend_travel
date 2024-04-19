@@ -1,0 +1,15 @@
+--------------------similar_words:観音水車でかまるくん--------------------
+top3 entities near to cluster0>>
+舗装, 坂, 登り
+top3 entities near to cluster1>>
+来訪者, 協力, 来訪
+top3 entities near to cluster2>>
+清掃, 雨天, 訪問
+top3 entities near to cluster3>>
+入口付近, 入り口付近, 入り口, 入口
+top3 entities near to cluster5>>
+要, 虫除け, スプレー
+top3 entities near to cluster7>>
+駐車場, 駐車, 満車
+top3 entities near to cluster8>>
+水車, 観音, 風車

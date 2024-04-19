@@ -1,0 +1,19 @@
+--------------------similar_words:滝町(滝小路)--------------------
+top3 entities near to cluster0>>
+文化財, 史跡
+top3 entities near to cluster1>>
+趣, 趣き, 風情
+top3 entities near to cluster3>>
+建物, 建築, 住宅
+top3 entities near to cluster5>>
+主屋, 主, 稼業
+top3 entities near to cluster6>>
+林家, きく姫, ペー・パー
+top3 entities near to cluster7>>
+外客, 乗客, 名所
+top3 entities near to cluster8>>
+切妻, 入母屋
+top3 entities near to cluster9>>
+滝, 小路
+top3 entities near to cluster10>>
+厳島, 神社, 粟島

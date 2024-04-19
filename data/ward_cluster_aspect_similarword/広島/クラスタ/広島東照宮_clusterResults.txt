@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島東照宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+浅野光晟公, 家康公薨去, 徳川家康公, 徳川家ゆかり, 徳川, 徳川家, 浅野家, 徳川家康
+cluster1:(5)
+二葉山, 天海大僧正, ぶり位, 日光東照宮, 日光
+cluster2:(3)
+階段下, 石段, 階段
+cluster3:(6)
+北側, 北東, 高台, 徒歩, 山麓, 鬼門
+cluster4:(3)
+新幹線口, 足, 裏
+cluster5:(2)
+写真, 上
+cluster6:(4)
+もの, 方, こと, 場所
+cluster7:(1)
+名
+cluster8:(1)
+方向
+cluster9:(12)
+ところ, スニーカー, スポット, 建物, 庭, アクセス, ホームページ, 御朱印, 七五三, ホテル, 雰囲気, 東照宮
+cluster10:(3)
+青空, 木, 梅
+cluster11:(4)
+入れ, お気, 教え, 焼失
+cluster12:(18)
+稲荷神社, 広島藩主, 広島, 家紋, 宮詣, 御祭神, 安産祈願, 慶安元年, 広島駅, 広島東, 観光地, 広島城, 観光, 参拝, 安産, 祭事, 朱印, 神社
+
+howmany entities : 70
+howmany clusters : 13
+howmany entities (more than1entities) : 70
+howmany clusters (more than1entities) : 13
+deleted 0entities.

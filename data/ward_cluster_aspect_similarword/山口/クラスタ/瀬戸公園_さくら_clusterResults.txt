@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸公園_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+瀬戸公園, 大島大橋
+cluster1:(3)
+花, 木々, 桜
+cluster2:(2)
+船, 海
+cluster3:(2)
+橋, 下
+cluster4:(1)
+観光スポット
+cluster5:(1)
+トイレ休憩所
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

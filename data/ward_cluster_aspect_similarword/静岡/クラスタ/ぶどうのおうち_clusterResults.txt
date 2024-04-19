@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぶどうのおうち>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ぶどう, ぶどうハウス
+cluster1:(6)
+人, ハサミ, 子ども, シャインマスカット, 量り売り, スーパー
+cluster2:(1)
+ほう
+cluster3:(1)
+枝
+cluster4:(1)
+ハリ
+cluster5:(1)
+重さ
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 6entities.

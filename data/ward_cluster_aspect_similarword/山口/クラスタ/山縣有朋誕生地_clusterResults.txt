@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山縣有朋誕生地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+石碑, 明治, 政治家, 地, 人物, 軍人, 政府, ローマ法王, 存在感, 誕生
+cluster1:(3)
+元帥公爵山縣有朋誕生地, 山縣有朋誕生地, :山縣有朋
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

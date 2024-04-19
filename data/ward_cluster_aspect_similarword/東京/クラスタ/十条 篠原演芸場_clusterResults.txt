@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十条 篠原演芸場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+座椅子, 大衆演劇
+cluster1:(5)
+劇団, 公演, 映画, 劇場, 講演
+cluster2:(8)
+値段, 座布団, ファン, おにぎり, 必要, 看板, 時間, 昼
+cluster3:(2)
+距離, 道
+cluster4:(1)
+応え
+cluster5:(1)
+具
+cluster6:(1)
+握りたて
+cluster7:(1)
+通勤路
+cluster8:(1)
+篠原演芸場
+cluster9:(1)
+東十条から十条銀座
+
+howmany entities : 23
+howmany clusters : 10
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 10
+deleted 0entities.

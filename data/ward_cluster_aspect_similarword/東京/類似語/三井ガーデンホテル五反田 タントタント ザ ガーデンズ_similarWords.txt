@@ -1,0 +1,33 @@
+--------------------similar_words:三井ガーデンホテル五反田 タントタント ザ ガーデンズ--------------------
+top3 entities near to cluster0>>
+デー, ブル, マン
+top3 entities near to cluster1>>
+レストラン, ランチ, デザート
+top3 entities near to cluster2>>
+家族, 全員, 家内
+top3 entities near to cluster3>>
+予約, 体験, 受付
+top3 entities near to cluster4>>
+文字, 苗字, 名字
+top3 entities near to cluster6>>
+拍手, 万雷, 喝采
+top3 entities near to cluster7>>
+パスタ, ピザ, グラタン
+top3 entities near to cluster8>>
+席, 座席, 予約
+top3 entities near to cluster9>>
+店員, 店内, 店主
+top3 entities near to cluster10>>
+顧客, お客, お客様
+top3 entities near to cluster11>>
+音楽, 会社, 映画
+top3 entities near to cluster12>>
+料理, 食事
+top3 entities near to cluster13>>
+景観, 街並み, 町並み
+top3 entities near to cluster14>>
+内容, コース, ランチ
+top3 entities near to cluster15>>
+駅, 出入り口, 構内
+top3 entities near to cluster16>>
+誕生, 日, 月

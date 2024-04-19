@@ -1,0 +1,33 @@
+--------------------similar_words:八丈島歴史民俗資料館--------------------
+top3 entities near to cluster0>>
+出身地, 所縁, 出身
+top3 entities near to cluster1>>
+係員, 職員, 荷物
+top3 entities near to cluster2>>
+家屋, 建物, 生活
+top3 entities near to cluster4>>
+形成, 形作る, 醸成
+top3 entities near to cluster6>>
+文化, 歴史, 伝統
+top3 entities near to cluster7>>
+古代, 近代, 現代
+top3 entities near to cluster8>>
+南北, 東西, 正閏
+top3 entities near to cluster9>>
+飢饉, 凶作, 旱魃
+top3 entities near to cluster10>>
+流人, 閃真, 水沫
+top3 entities near to cluster11>>
+交易船, 難破船, 交易, 難破
+top3 entities near to cluster12>>
+展示, 出展, 展覧
+top3 entities near to cluster13>>
+資料, 館, 史料
+top3 entities near to cluster14>>
+地質, 構造, 地層
+top3 entities near to cluster15>>
+来館, 来場
+top3 entities near to cluster16>>
+町, 役場, 民俗
+top3 entities near to cluster17>>
+防止, 対策, 防ぐ

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小笠原母島観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+母島先客ターミナル, 母島, 母島港
+cluster1:(5)
+人, 中, 場所, 情報, 前
+cluster2:(2)
+出迎え, 見送り
+cluster3:(2)
+ゲット, チケット
+cluster4:(1)
+ココ
+cluster5:(1)
+船
+cluster6:(1)
+おみやげ屋
+cluster7:(2)
+待合所内, 観光協会
+cluster8:(1)
+はじま丸
+
+howmany entities : 18
+howmany clusters : 9
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 9
+deleted 0entities.

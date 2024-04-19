@@ -1,0 +1,41 @@
+--------------------similar_words:ちひろ美術館・東京--------------------
+top3 entities near to cluster0>>
+ちひろ, 美術館, いわさき
+top3 entities near to cluster2>>
+写真, 絵葉書, 作品
+top3 entities near to cluster3>>
+雰囲気, 温かみ, 気持ち
+top3 entities near to cluster4>>
+絵かき, タッチ, 絵描き
+top3 entities near to cluster5>>
+ショップ, チケット, コーナー
+top3 entities near to cluster6>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster7>>
+小さめ, 大きめ, 大き目
+top3 entities near to cluster8>>
+カフェ, 仕事場, ソファ
+top3 entities near to cluster9>>
+トット, ちゃん, ちゃーん
+top3 entities near to cluster11>>
+電柱, 標識, 電信柱
+top3 entities near to cluster12>>
+子供服, 子供, 幼児
+top3 entities near to cluster13>>
+足手, 足, 指手, 指
+top3 entities near to cluster14>>
+時間, 日数, 時
+top3 entities near to cluster15>>
+友達, 友人
+top3 entities near to cluster16>>
+昔, 大昔, 以前
+top3 entities near to cluster17>>
+自宅, 自室, 実家
+top3 entities near to cluster18>>
+周り, 中心, 部分
+top3 entities near to cluster19>>
+部屋, 建物, 窓
+top3 entities near to cluster20>>
+絵画, 絵本, 展覧
+top3 entities near to cluster21>>
+聞き, 話し, 発見

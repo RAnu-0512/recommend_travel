@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宙 SORA 渡月荘金龍>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+日帰り温泉, 修善寺温泉街, 温泉, 宿, 旅館, 宿泊
+cluster1:(7)
+疲れ, 利用, 話題, 世界, 眺め, 時間, 部屋
+cluster2:(4)
+庭園, 庭, 池, 滝
+cluster3:(1)
+非日常
+cluster4:(1)
+無料宿泊券
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 2entities.

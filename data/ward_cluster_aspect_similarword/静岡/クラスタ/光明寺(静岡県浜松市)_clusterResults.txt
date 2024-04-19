@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光明寺(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金運, 駐車場
+cluster1:(11)
+紅葉, 街, 空気, 神, 光明, 信仰, 金色, 景色, 頂上, 山, 季節
+cluster2:(21)
+気, パワースポット, 利益, リラックス効果, 水, 御利益, 日本, パワー, 歴史, 気持ち, 光明山, 光明寺, 感じ, 次, どこか, 中, 地元民, 雰囲気, 国内, 時代, 見応え
+cluster3:(1)
+高さ
+cluster4:(10)
+敷地, 開運, 天竜, 本杉, 行基, 奈良, 境内, 寺院, 名刹, 寺
+cluster5:(3)
+大黒, 大黒殿, 大黒真
+cluster6:(2)
+大黒像, 大黒天像
+cluster7:(5)
+浜松市, 静岡県, 日本最大級, 山岳霊場, 区山東
+
+howmany entities : 55
+howmany clusters : 8
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 5
+deleted 5entities.

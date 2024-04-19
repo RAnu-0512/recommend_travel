@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草公会堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+役場跡地, 改修工事, 顕彰式, 聖地巡礼マップ, スターの手形とサイン
+cluster1:(3)
+観光, 名所, 観光スポット
+cluster2:(4)
+スター達, 広場, スターの広場, スターたち
+cluster3:(2)
+手, 手型
+cluster4:(6)
+観客, 芸能, 舞台, 公演, 歌手, 場内
+cluster5:(3)
+勘九郎, 浅草寺, 歌舞伎
+cluster6:(2)
+有名人, 芸能人
+cluster7:(6)
+モデル, イベント, メインストリート, ヒロイン, スポット, アニメ
+cluster8:(3)
+パネル, サイン, スター
+cluster9:(4)
+なじみ, ホール, 入り口, 公会堂
+cluster10:(1)
+人
+cluster11:(3)
+デジタルスタンプラリー, 高校, 兄弟
+cluster12:(1)
+手形
+cluster13:(2)
+正面, 玄関
+cluster14:(6)
+オレンジ通り, 昔, 懐かし目, 近く, 前, 全部
+cluster15:(2)
+声, 受付
+cluster16:(3)
+所, 場所, こと
+cluster17:(2)
+建物, 街
+cluster18:(1)
+中村屋!
+cluster19:(1)
+天海祐希
+cluster20:(13)
+東武鉄道浅草駅, 浅草駅, 新春歌舞伎, 浅草公会堂, 浅草文化, 浅草公会, 浅草観光, 浅草, 新春浅草歌舞伎, 中村勘九郎・七之助, 浅草区, 浅草ゆかり, 民謡・民舞 今フェス2018
+
+howmany entities : 73
+howmany clusters : 21
+howmany entities (more than1entities) : 73
+howmany clusters (more than1entities) : 21
+deleted 0entities.

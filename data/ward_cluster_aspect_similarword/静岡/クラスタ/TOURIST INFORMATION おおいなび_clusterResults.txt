@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:TOURIST INFORMATION おおいなび>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+合格駅, 門出駅, 御駅印
+cluster1:(2)
+茶, 団子
+cluster2:(8)
+SL, 子供, 体験, 場所, 時間, ポップコーン, 前, 入り口側
+cluster3:(1)
+黒蜜
+cluster4:(1)
+出来立て
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 4entities.

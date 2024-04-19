@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ボニンブルーシマ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハートロック, ハートロックツアー
+cluster1:(2)
+ツアーガイド, ガイド
+cluster2:(2)
+ツアー, トレッキングツアー
+cluster3:(2)
+ツアーメンバー, ツアーグループ
+cluster4:(1)
+ナイトツアー
+cluster5:(2)
+天の川, 双眼鏡
+cluster6:(9)
+スタッフ, 小笠原, いくつか, おかげ, ライト, 思い出, スポット, コウモリ, トレッキング
+cluster7:(10)
+他, 話, 感じ, 上, あと, 時間, 写真, 方, 中, こと
+cluster8:(2)
+仕事, 帰り
+cluster9:(2)
+活動, 参加
+cluster10:(14)
+固有種, 島, 植物, 景色, 海辺, 体力, 快晴, 天候, グリーンぺぺ, 星空, 植生, 海, 気温, 知識
+cluster11:(6)
+戦跡ツアー, 小笠原到着日, 観光客, 小笠原在住35, 森歩きツアー, 戦跡
+
+howmany entities : 54
+howmany clusters : 12
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 12
+deleted 0entities.

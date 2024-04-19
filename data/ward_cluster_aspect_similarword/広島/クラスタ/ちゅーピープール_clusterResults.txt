@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ちゅーピープール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+料金, オープン時間
+cluster1:(2)
+車, レジャーシート
+cluster2:(2)
+人, 家族
+cluster3:(4)
+中, レベル, クオリティ, おまけ
+cluster4:(1)
+そば
+cluster5:(1)
+輩
+cluster6:(1)
+シャトルバス
+cluster7:(1)
+発令
+cluster8:(2)
+流し方, 管理者
+cluster9:(3)
+駐車場, 入場料, 有料指定席
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 10
+deleted 0entities.

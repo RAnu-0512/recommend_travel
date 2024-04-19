@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日比谷公園のチューリップ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 花壇
+cluster1:(3)
+季節, 植物, 花
+cluster2:(2)
+天気, 連休
+cluster3:(2)
+場所, アクセス方法
+cluster4:(7)
+メイン, 年間, 気持ち, 感じ, チューリップ, 色とりどり, 日比谷公園
+cluster5:(6)
+日比谷駅, 東京メトロ日比谷線, 千代田線, 東京駅, 15000株ものチューリップ, 日比谷門
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 6
+deleted 0entities.

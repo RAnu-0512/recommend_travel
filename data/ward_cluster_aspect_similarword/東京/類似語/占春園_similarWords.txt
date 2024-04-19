@@ -1,0 +1,11 @@
+--------------------similar_words:占春園--------------------
+top3 entities near to cluster0>>
+公園, 森, 敷地
+top3 entities near to cluster1>>
+開園, 閑散, 閉鎖
+top3 entities near to cluster2>>
+被害, 子供, 子ども
+top3 entities near to cluster3>>
+景色, 風景, 環境
+top3 entities near to cluster4>>
+自然, 散策, 修復

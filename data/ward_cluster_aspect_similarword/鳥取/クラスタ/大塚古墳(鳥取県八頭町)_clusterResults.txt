@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大塚古墳(鳥取県八頭町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+もの, 場所
+cluster1:(2)
+価値, 歴史
+cluster2:(1)
+古墳
+cluster3:(1)
+入室
+cluster4:(1)
+高さ
+cluster5:(1)
+開口部
+cluster6:(1)
+羨道天井
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

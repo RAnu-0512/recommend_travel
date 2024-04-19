@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯田温泉観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+町歩き, 町歩き程度
+cluster1:(2)
+雪, 狐
+cluster2:(9)
+マップ, スポット, オススメスポット, スタッフ, パンフレット, メイン, キャラ, 見逃し, 湯田温泉
+cluster3:(3)
+館, 地図, 歴史
+cluster4:(9)
+前, 所, 見所, 情報, 中心, 場所, 意外, 方, 周辺
+cluster5:(1)
+中心部
+cluster6:(10)
+山口県, と足湯, 敷地, 温泉街, 町, 湯田温泉街, 湯田温泉駅, 足湯, 県道, 駐車スペース
+cluster7:(3)
+無料駐車場, 駐車場, 飲泉場
+cluster8:(9)
+案内, 湯田温泉観光案内所, 観光案内所, 案内所, 案内板, 観光客, 観光, 観光案内, 観光案内しょ
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 9
+deleted 0entities.

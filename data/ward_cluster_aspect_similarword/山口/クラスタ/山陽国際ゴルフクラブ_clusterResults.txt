@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山陽国際ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東コース電磁誘導車, 電磁誘導道路
+cluster1:(12)
+管理, 東コース, マーシャル, エアレーション, コース, 芝生, ラウンド, 乗り入れ, カート, 西コースカート, フェアウェイ, 西コース
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

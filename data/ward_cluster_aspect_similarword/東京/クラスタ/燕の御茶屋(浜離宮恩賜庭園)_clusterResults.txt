@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:燕の御茶屋(浜離宮恩賜庭園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+茶屋, 池, 潮入, 浜離宮庭園
+cluster1:(4)
+中, こと, 向き, 様子
+cluster2:(2)
+再建, 建物
+cluster3:(1)
+一般公開
+cluster4:(4)
+将軍専用, 燕の御茶屋, 将軍, 大泉水
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 5
+deleted 0entities.

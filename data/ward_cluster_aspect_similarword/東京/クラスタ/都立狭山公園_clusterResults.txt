@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立狭山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+多摩湖, 鉄道, 目安, 場所, 景色, 南口, 入口, 左手, 公園, 人, 利用, アクセス, 気, 湖, 街並み, 気分, 向こう側, スロープ, 自転車, 入り口, 堤体, 貯水池, 車, 立ち, 西武遊園地駅, 前, 徒歩, 方面, 桜, こと, 目
+cluster1:(3)
+駐車場, 駐車場入り口, 駐在所
+cluster2:(4)
+西武線, 狭山公園, 西武ドーム, 武蔵大和駅
+
+howmany entities : 38
+howmany clusters : 3
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 3
+deleted 0entities.

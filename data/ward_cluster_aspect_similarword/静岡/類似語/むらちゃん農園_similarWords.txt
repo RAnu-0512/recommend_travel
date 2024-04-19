@@ -1,0 +1,17 @@
+--------------------similar_words:むらちゃん農園--------------------
+top3 entities near to cluster0>>
+ビニール, ハウス, パック
+top3 entities near to cluster1>>
+イチゴ, いちご, 苺
+top3 entities near to cluster2>>
+パフェ, イチゴ, いちご
+top3 entities near to cluster5>>
+お菓子作り, 土産, お菓子
+top3 entities near to cluster7>>
+家族, 自宅, 旦那
+top3 entities near to cluster8>>
+子供, 子ども, 子
+top3 entities near to cluster10>>
+狩り, イチゴ, 農園
+top3 entities near to cluster11>>
+食べ放題, 食べ, 満腹

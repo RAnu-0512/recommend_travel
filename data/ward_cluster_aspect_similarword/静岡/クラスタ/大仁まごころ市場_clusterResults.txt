@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大仁まごころ市場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地場産, 伊東方面
+cluster1:(4)
+大根, 漬物, 蕎麦, 野菜
+cluster2:(2)
+柿, 羊羹
+cluster3:(33)
+ママ, 気, 笑顔, 大勢, トマト, 田中山, 帰り, 地元, みかん, チョット小振り, レジ, 外, 品物, 駅, 品ぞろえ, 物, 人, 和菓子, 山道, スイカ, 開店, 感じ, 軽食, 新米, 次回, 他所, 手作り, 建物, 施設, 雑貨, 時季, トウモロコシ, 道
+cluster4:(2)
+駐車場, 季節感
+cluster5:(8)
+芋類, 野菜類, お蕎麦屋, 菓子類, 品揃え, 葉物野菜, 蕎麦屋, 肉加工品
+
+howmany entities : 51
+howmany clusters : 6
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 3
+deleted 6entities.

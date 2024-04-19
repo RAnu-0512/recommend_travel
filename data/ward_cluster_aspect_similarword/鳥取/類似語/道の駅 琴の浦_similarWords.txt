@@ -1,0 +1,17 @@
+--------------------similar_words:道の駅 琴の浦--------------------
+top3 entities near to cluster0>>
+魚介, 貝類
+top3 entities near to cluster1>>
+購入, 販売, 利用
+top3 entities near to cluster2>>
+海産物, 野菜, 食材
+top3 entities near to cluster3>>
+駅道, 駅, 駅前
+top3 entities near to cluster4>>
+知人, 地元, 友人
+top3 entities near to cluster6>>
+人気, 大人気, 定番
+top3 entities near to cluster7>>
+浦, 圃千, クンポ
+top3 entities near to cluster8>>
+土産品, 土産店, 土産

@@ -1,0 +1,7 @@
+--------------------similar_words:南伊豆亜熱帯公園--------------------
+top3 entities near to cluster0>>
+国道, 道路, 県道
+top3 entities near to cluster1>>
+園内, 公園, 海沿い
+top3 entities near to cluster4>>
+植物, 亜熱帯, 熱帯

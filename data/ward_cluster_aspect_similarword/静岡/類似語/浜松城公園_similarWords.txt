@@ -1,0 +1,41 @@
+--------------------similar_words:浜松城公園--------------------
+top3 entities near to cluster0>>
+紅葉, 黄葉, 色づく
+top3 entities near to cluster1>>
+天気雨, 天候, 天気
+top3 entities near to cluster2>>
+春, 季節, 秋
+top3 entities near to cluster3>>
+木々, 新緑, 森林
+top3 entities near to cluster6>>
+ホテル, カフェ, 市役所
+top3 entities near to cluster8>>
+住民, 人々, 周辺
+top3 entities near to cluster9>>
+歴史, 関連, 概略
+top3 entities near to cluster10>>
+時間先, 時間, あと
+top3 entities near to cluster12>>
+中心, 周り, 周囲
+top3 entities near to cluster15>>
+空間, 環境, 距離
+top3 entities near to cluster17>>
+整備, 工事, 完備
+top3 entities near to cluster18>>
+土塀, 櫓, 石垣
+top3 entities near to cluster19>>
+建物, 景色, 風景
+top3 entities near to cluster20>>
+木陰, 芝生, 席
+top3 entities near to cluster21>>
+横, 奥, 真横
+top3 entities near to cluster22>>
+滝橋, 滝
+top3 entities near to cluster24>>
+出世, 街道, 栄達
+top3 entities near to cluster25>>
+城, 城内, 城跡
+top3 entities near to cluster27>>
+天守, 城郭, 天守閣
+top3 entities near to cluster28>>
+公園, 広場, 遊歩道

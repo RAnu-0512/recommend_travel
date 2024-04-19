@@ -1,0 +1,11 @@
+--------------------similar_words:虎ノ門駅--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 港
+top3 entities near to cluster1>>
+改札, ドア, 扉
+top3 entities near to cluster2>>
+駅前付近, 駅前, ビル
+top3 entities near to cluster3>>
+飲食街, 飲食店, 飲食
+top3 entities near to cluster4>>
+科学, 館, 区立

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:砂丘YOGA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+気温, 天気予報, 予想気温
+cluster1:(4)
+カラダ, ムスメ, スタッフ, 方
+cluster2:(2)
+時間, 場所
+cluster3:(1)
+風
+cluster4:(4)
+準備, 連絡, 変化, 着
+cluster5:(1)
+ヨガ
+cluster6:(1)
+ピン
+cluster7:(4)
+鳥取市, 砂丘, 砂丘YOGA, 砂
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

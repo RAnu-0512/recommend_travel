@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立東大和南公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+変電所, 変電施設, 日立航空機株式会社 変電所
+cluster1:(6)
+大和南公園, 多摩モノレール, 東大和市, 都立東, 都営公園, 都立東大和南公園
+cluster2:(3)
+左, 右, 左回り
+cluster3:(6)
+終戦, 日立航空機, 航空機工場, 戦時, 水深, 陸上トラック
+cluster4:(3)
+石, 岩, 小石
+cluster5:(2)
+駅前ロータリー, 玉川上水駅
+cluster6:(2)
+桜, 木
+cluster7:(3)
+池, 園内, 公園
+cluster8:(7)
+トラック, トイレ, エントランス, SNS, 体育館, 交差点, バドミントン
+cluster9:(2)
+夏休み, 子ども
+cluster10:(2)
+水遊び, プール
+cluster11:(1)
+ボール
+cluster12:(11)
+子, 市民, 虫, 夏, 家族, 犬, 時代, 小さな子, 学生, 大人, 子供
+cluster13:(3)
+前, 目, 正面
+cluster14:(3)
+方法, 記憶, 場所
+cluster15:(4)
+くるぶし程度, 方, 多数, 一部
+cluster16:(10)
+壁, 銃弾, 穴, 建物, 地上, 看板, 道, 出口, 階段, 跡
+cluster17:(7)
+駐車場, 運動, 目的施設, 社会科見学, 運動場, 信号機, 投石攻撃
+
+howmany entities : 78
+howmany clusters : 18
+howmany entities (more than1entities) : 78
+howmany clusters (more than1entities) : 18
+deleted 0entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:NEWoMan(ニュウマン)--------------------
+top3 entities near to cluster1>>
+フロア, 雰囲気, フインキ
+top3 entities near to cluster2>>
+スイーツ, カフェ, レストラン
+top3 entities near to cluster3>>
+ランチ, ショップ, カフェ
+top3 entities near to cluster4>>
+バスタ, イーライナー, ジャムジャムエクスプレス
+top3 entities near to cluster5>>
+お菓子, 洋服, ケーキ
+top3 entities near to cluster6>>
+エコ, デルーカ, バッグ
+top3 entities near to cluster7>>
+パン屋, パン, 食パン
+top3 entities near to cluster8>>
+駅前店, 駅前, 店内
+top3 entities near to cluster10>>
+ムラ, ヨシ, ヤマ
+top3 entities near to cluster11>>
+施設, 改札, 構内

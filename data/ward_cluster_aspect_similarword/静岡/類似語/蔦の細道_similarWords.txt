@@ -1,0 +1,9 @@
+--------------------similar_words:蔦の細道--------------------
+top3 entities near to cluster0>>
+蔦, 雲, つた
+top3 entities near to cluster2>>
+人達, 時代, 風景
+top3 entities near to cluster3>>
+駅, 頂上, 向かう
+top3 entities near to cluster5>>
+細道, 林道

@@ -1,0 +1,11 @@
+--------------------similar_words:国木田独歩の詩碑(山口県田布施町)--------------------
+top3 entities near to cluster0>>
+町, 協会, 役場
+top3 entities near to cluster2>>
+回目, 回人, 回
+top3 entities near to cluster3>>
+入り口, 曲がる, 手前
+top3 entities near to cluster4>>
+国名, 国々
+top3 entities near to cluster5>>
+詩碑, 句碑, 歌碑

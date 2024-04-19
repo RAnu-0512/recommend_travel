@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾崎紅葉の句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+梅林, 善寺梅林, 修善寺梅林
+cluster1:(13)
+病気, 句碑, 紅葉, 療養, 金色夜叉, 尾崎, 看板, 尾崎紅葉, 修善寺, 中, 紅葉句碑, ところ, 石碑
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

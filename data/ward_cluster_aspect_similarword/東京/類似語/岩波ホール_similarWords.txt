@@ -1,0 +1,21 @@
+--------------------similar_words:岩波ホール--------------------
+top3 entities near to cluster0>>
+岩波, 岩波書店, 河出
+top3 entities near to cluster1>>
+老舗, 東西, ビル
+top3 entities near to cluster2>>
+経験, 感動, 感激
+top3 entities near to cluster3>>
+作者, 作品, 著書
+top3 entities near to cluster4>>
+内容, 映像, 場面
+top3 entities near to cluster5>>
+活字, 文字, 写植
+top3 entities near to cluster6>>
+ミニ, シアター, ミニサイズ
+top3 entities near to cluster7>>
+区, 便利, 区内
+top3 entities near to cluster8>>
+想像力, 想像, 説得力, 説得
+top3 entities near to cluster9>>
+映画, 上映, シネコン

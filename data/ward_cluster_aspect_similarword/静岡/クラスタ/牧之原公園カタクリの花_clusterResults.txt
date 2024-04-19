@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牧之原公園カタクリの花>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+カタクリ園, 牧之原公園, 開園, 公園
+cluster1:(8)
+斜面, カタクリ, 小径, 近隣, 花, 野山, 寒さ, フェンス
+cluster2:(6)
+フェンス越し, 影響, 中, つぼみ状態, 事, 上
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 0entities.

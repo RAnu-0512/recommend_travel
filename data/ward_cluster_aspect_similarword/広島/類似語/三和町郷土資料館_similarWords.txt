@@ -1,0 +1,11 @@
+--------------------similar_words:三和町郷土資料館--------------------
+top3 entities near to cluster0>>
+郷土, 歴史, 民俗
+top3 entities near to cluster1>>
+品々, 品物, 物品
+top3 entities near to cluster2>>
+農村, 文化, 農業
+top3 entities near to cluster3>>
+三和, 町, 丁目
+top3 entities near to cluster5>>
+郷土, 館, 資料

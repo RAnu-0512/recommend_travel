@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 燕趙園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+燕趙園, 中国庭園燕趙園
+cluster1:(2)
+金山嶺橋, 老龍頭
+cluster2:(5)
+駅, 駅燕, 中華橋, 駅巡り, 中華
+cluster3:(2)
+庭園, 中国庭園
+cluster4:(3)
+建物, 敷地, 建物入口
+cluster5:(3)
+道, 県道, 道路
+cluster6:(1)
+駐車場
+cluster7:(1)
+右奥
+cluster8:(6)
+梨ソフトクリーム, 東郷線, 鳥取, 東郷温泉, 鳥取道, 梨ソフト
+cluster9:(4)
+土産, お土産屋, 土産売り場, お勧め
+cluster10:(14)
+観光, 閑散, ランチ時間, 感じ, 関連, 料理, 味, 地元, 店内, 人, 人気, 途中, 商品, 場所
+cluster11:(2)
+生姜, 茶
+cluster12:(2)
+中国, 日本
+cluster13:(6)
+アーモンド, クッキー, ソフトクリーム, バニラ, 見た目, マンゴー
+cluster14:(2)
+ランチ, 紫陽花
+cluster15:(1)
+ショー
+cluster16:(2)
+歩道橋, 土産物
+cluster17:(1)
+ドライフルーツ
+cluster18:(3)
+クコ, 実, 月餅
+
+howmany entities : 62
+howmany clusters : 19
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 19
+deleted 0entities.

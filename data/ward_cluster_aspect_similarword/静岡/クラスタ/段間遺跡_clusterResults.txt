@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:段間遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こと, もの
+cluster1:(2)
+黒曜石, 小学校
+cluster2:(1)
+多量
+cluster3:(1)
+遺跡
+cluster4:(1)
+高浜
+cluster5:(1)
+小学校校庭
+cluster6:(3)
+縄文時代, 段間遺跡, 出土品
+
+howmany entities : 11
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 8entities.

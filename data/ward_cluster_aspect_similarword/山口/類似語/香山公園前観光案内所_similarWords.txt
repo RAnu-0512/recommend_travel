@@ -1,0 +1,9 @@
+--------------------similar_words:香山公園前観光案内所--------------------
+top3 entities near to cluster1>>
+半数, 裏手
+top3 entities near to cluster2>>
+建物, 公園, 資料
+top3 entities near to cluster3>>
+案内, 名所, 駐車
+top3 entities near to cluster4>>
+公園, 案内, 名所

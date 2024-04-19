@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 ピュアラインにしき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+特産品, 特産品販売所
+cluster1:(2)
+醤油漬け, 巻き寿司
+cluster2:(5)
+物品販売所, 休憩, 休憩場所, 土産屋, 駐車場
+cluster3:(2)
+島根県, 益田方面
+cluster4:(12)
+アユ, 川, 乱舞, 岩国, 河原, 錦川, 清流, 上流, 錦パレス, 小鮎, 水, 海
+cluster5:(3)
+出入り, ベンチ, トイレ
+cluster6:(11)
+天ぷら, テーブル, ところ, スマート, レストラン, コンニャク, レイアウト, こんにゃく, ドライブ, メニュー, 味付け
+cluster7:(1)
+切り身
+cluster8:(4)
+ワサビ, ホタル, 津和野, わさび
+cluster9:(3)
+次, 気, 途中
+cluster10:(6)
+多く, 場所, 種類, 地域, 地元, 近く
+cluster11:(3)
+コンニャク製品, 季節, 時期
+cluster12:(1)
+不満
+cluster13:(2)
+日帰り温泉, 温泉
+cluster14:(3)
+飲食コーナー, 食事, スタミナ定食
+cluster15:(4)
+車, 道, そば, 駅
+cluster16:(4)
+屋根, 景色, 建物, 中庭
+
+howmany entities : 68
+howmany clusters : 17
+howmany entities (more than1entities) : 68
+howmany clusters (more than1entities) : 17
+deleted 0entities.

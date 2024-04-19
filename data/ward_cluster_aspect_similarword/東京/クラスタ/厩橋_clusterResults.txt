@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:厩橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+蔵前駅, 東京スカイツリー, 墨田川
+cluster1:(3)
+江戸初期, 幕府, 明治
+cluster2:(2)
+御厩, 厩橋
+cluster3:(4)
+運ぶ馬, 馬, 米庫, 厩
+cluster4:(2)
+アーチ型, アーチ状
+cluster5:(23)
+緑色, 昔, 場所, 特徴, 人, 人気, 他, 感じ, 渡し, 形, 名前, 初期, 足, 前, 方々, 写真, 歴史, こと, 下, 幅, 唯一, 目, 時代
+cluster6:(2)
+鋼鉄, 鉄
+cluster7:(17)
+雨, おすすめ, 夜, 東京湾, 吾妻橋, 関東大震災, 隅田川, 浅草, 米, 馬小屋, スカイツリー, 隅田川めぐり, 川, 蔵, デザイン, スポット, アーチ
+cluster8:(3)
+漢字, 工事, 通勤
+cluster9:(13)
+観光, 景色, 橋名, 路面電車, 観光名所, アーチ橋, 建築美, 橋, 橋巡り, 絶景スポット, 橋全体, 橋て感じ, 橋めぐり
+
+howmany entities : 72
+howmany clusters : 10
+howmany entities (more than1entities) : 72
+howmany clusters (more than1entities) : 10
+deleted 0entities.

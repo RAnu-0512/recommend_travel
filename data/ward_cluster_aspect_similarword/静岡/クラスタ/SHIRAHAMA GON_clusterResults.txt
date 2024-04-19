@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SHIRAHAMA GON>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊豆白浜, 下田
+cluster1:(2)
+もの, 人
+cluster2:(10)
+レビュー, アジアン, アクセサリー, お気に入り, 海水浴, アクセ, 雰囲気, ファン, 子ども, GON
+cluster3:(1)
+笑
+cluster4:(7)
+レディース品, 洋服, 品物, 観光スポット, 店, 店内, 雑貨
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 5entities.

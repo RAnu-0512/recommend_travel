@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千駄木ふれあいの杜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+人, 中, こと, 樹, 風, 子孫, ところ, 千駄木ふれあい, 社, 横
+cluster1:(2)
+鬱蒼, 石段
+cluster2:(1)
+住宅地
+cluster3:(1)
+森鴎
+cluster4:(3)
+太田道灌, 屋敷跡, 旧居跡
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

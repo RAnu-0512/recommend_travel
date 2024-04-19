@@ -1,0 +1,9 @@
+--------------------similar_words:丸二商店(江戸東京たてもの園)--------------------
+top3 entities near to cluster0>>
+食器, お鍋
+top3 entities near to cluster1>>
+初期, 大正, 初頭
+top3 entities near to cluster2>>
+外観, 建物, 店構え
+top3 entities near to cluster3>>
+丸, 片, 銅板

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本庄水源地堰堤水道施設>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ダム, ダム湖
+cluster1:(2)
+水道水, 水道施設
+cluster2:(8)
+道路, 一般公開, 多く, 呉, 生活, 水, フェンス越し, 西日本豪雨
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

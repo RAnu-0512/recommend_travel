@@ -1,0 +1,31 @@
+--------------------similar_words:隅田公園(庭園)--------------------
+top3 entities near to cluster1>>
+花, 桜, 春
+top3 entities near to cluster2>>
+おすすめ, 見どころ, オススメスポット
+top3 entities near to cluster3>>
+釣り場, 乗り場, 船着き場
+top3 entities near to cluster4>>
+川べり, ビール, ベンチ
+top3 entities near to cluster6>>
+川沿い, 川, ほとり
+top3 entities near to cluster7>>
+屋敷, 跡, 邸宅
+top3 entities near to cluster8>>
+花火, 大会, 打ち上げ花火
+top3 entities near to cluster9>>
+散歩, 花見, 散策
+top3 entities near to cluster10>>
+出店, 屋台, 人出
+top3 entities near to cluster11>>
+風情, 景色, 風景
+top3 entities near to cluster12>>
+迫力, 見所, 見どころ
+top3 entities near to cluster13>>
+写真, 名所, 地図
+top3 entities near to cluster14>>
+公園, 庭園, 遊具
+top3 entities near to cluster15>>
+外客, 乗客, 名所
+top3 entities near to cluster17>>
+神社, 史跡, 境内

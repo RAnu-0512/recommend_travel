@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千林尼の大休・指月石畳道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観音堂, 石畳
+cluster1:(1)
+坂道
+cluster2:(1)
+千林尼
+cluster3:(1)
+船木逢坂
+cluster4:(1)
+大休・指月石畳道
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

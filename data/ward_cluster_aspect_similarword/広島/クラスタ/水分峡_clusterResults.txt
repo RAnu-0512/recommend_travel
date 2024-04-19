@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水分峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+紅葉シーズン, 砂, 川, 小川, 山, 上流
+cluster1:(5)
+途中, 方, 市, 車, 場所
+cluster2:(2)
+水, 夏場
+cluster3:(1)
+起点
+cluster4:(14)
+トイレ, 子供, キャンプ, 愛犬, ファミリー, 子連れ, 都会, 人, 大人, 家族, 水遊び, 自然, BBQ施設, ベビーカー
+cluster5:(1)
+広島駅
+cluster6:(1)
+喧噪
+cluster7:(4)
+駐車場, 家族連れ, 登山, 登山客
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 8
+deleted 0entities.

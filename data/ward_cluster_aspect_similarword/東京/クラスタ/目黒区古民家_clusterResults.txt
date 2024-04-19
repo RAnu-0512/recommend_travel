@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:目黒区古民家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+目黒, 竹林, 都心
+cluster1:(2)
+母屋, 分家
+cluster2:(4)
+碑文谷, ところ, 左, アナウンス
+cluster3:(3)
+建物, 一角, 構内
+cluster4:(1)
+聖地
+cluster5:(1)
+徒歩
+cluster6:(1)
+栗山家
+cluster7:(3)
+古民家, 洗足駅, 住宅街
+cluster8:(1)
+すずめのお宿公園
+
+howmany entities : 19
+howmany clusters : 9
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 9
+deleted 0entities.

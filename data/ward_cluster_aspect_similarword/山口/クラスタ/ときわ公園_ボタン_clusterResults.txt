@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ときわ公園_ボタン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ときわ公園, 公園
+cluster1:(2)
+園内, 建物
+cluster2:(1)
+牡丹
+cluster3:(1)
+茅葺き屋根
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:LUXURY FLIGHT--------------------
+top3 entities near to cluster0>>
+着陸, 離陸, 離着陸
+top3 entities near to cluster1>>
+フライト, 飛行機, 航空機
+top3 entities near to cluster2>>
+念願, 本物, 夢
+top3 entities near to cluster3>>
+子供, 息子, 母親
+top3 entities near to cluster5>>
+体験, 体験談, 体感
+top3 entities near to cluster6>>
+操縦, 搭乗, 操舵
+top3 entities near to cluster7>>
+興奮気味, 興奮

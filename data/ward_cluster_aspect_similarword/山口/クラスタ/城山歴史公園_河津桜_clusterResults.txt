@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山歴史公園_河津桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+満開, 水仙, 桜, 桜まつり
+cluster1:(11)
+祭り, 心, 中止, 公園, コラボ, 春, 穴場, 近く, ホームページ, 黄色, コントラスト
+cluster2:(1)
+上関
+cluster3:(1)
+河津桜
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

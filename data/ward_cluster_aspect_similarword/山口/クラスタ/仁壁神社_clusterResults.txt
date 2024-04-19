@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仁壁神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+路地裏, 駐車場
+cluster1:(5)
+神社, 社殿, 綿津見神社, 境内社, 仁壁神社
+cluster2:(1)
+周防三宮
+cluster3:(18)
+海神, 平安, カーナビ, 地名, 右座, 左座, 再建, 元, 神, 道路, 本拠, 焼失, 通行, 太鼓橋左, 入口, 時代, 歴史, 三の宮
+cluster4:(15)
+地主神か鎮守, 神産日神, 下照姫命, 阿須伎神社, 高御産日神, 豊玉彦命, 豊玉彦, 豊玉姫, 豊玉姫を祀る綿津見神社, 大國主神, 相殿神, 豊玉姫命, 豊玉町, 玉積産日神, 足産日神
+
+howmany entities : 41
+howmany clusters : 5
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 5
+deleted 0entities.

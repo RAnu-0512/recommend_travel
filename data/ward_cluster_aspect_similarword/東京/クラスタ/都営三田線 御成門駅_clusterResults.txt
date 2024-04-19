@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営三田線 御成門駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+港区, 区立
+cluster1:(7)
+チューリップ一般公開, 駅, 所, 御成門駅, 芝公園, オランダ大使館, エレベーター
+cluster2:(1)
+東京タワー通り〜芝給水所公園
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市湯来町>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湯来町, 広島市
+cluster1:(2)
+釣り, 魚
+cluster2:(10)
+施設, ホタル, 場所, 田舎, ところ, 夏, 温泉, 風景, 釣り堀, 中
+cluster3:(1)
+^^)町
+cluster4:(1)
+渓流釣り
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

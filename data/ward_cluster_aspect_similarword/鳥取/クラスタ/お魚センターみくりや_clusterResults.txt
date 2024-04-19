@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お魚センターみくりや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+恵比須, 食事処, 産地, 料理, ほう, 店員, 価格, 気, 境港, スーパー
+cluster1:(3)
+直売所, 水産物直売所, 漁協直営
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

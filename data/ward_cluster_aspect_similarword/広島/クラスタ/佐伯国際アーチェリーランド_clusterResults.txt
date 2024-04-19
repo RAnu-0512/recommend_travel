@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐伯国際アーチェリーランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体験, アーチェリー体験
+cluster1:(2)
+時間, 場所
+cluster2:(2)
+方, 方々
+cluster3:(2)
+気, こと
+cluster4:(8)
+フィールドアーチェリー, 初心者, スタッフ, コンパウンドボウ, ターゲットアーチェリー, 小学生, 山, コンパウンド
+cluster5:(2)
+子供, 大人
+cluster6:(2)
+友人, 家族
+cluster7:(1)
+マト
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 8
+deleted 0entities.

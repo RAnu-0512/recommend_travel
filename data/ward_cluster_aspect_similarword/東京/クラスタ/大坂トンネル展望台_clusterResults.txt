@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大坂トンネル展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(41)
+急勾配, 遠目, 場所, 島, 橋梁, 景色, レンタカー, 苦笑, 人, 島ならで, 気, 八丈島・八丈小島, 団体バスツアー, 断崖, 八丈島西側, 夕方, 八丈島, 大阪トンネル, 逢坂橋, 逢坂, 夕陽, 原山, 横間海岸, 風景, 橋, 急坂, 欄干, トンネル, 時間, 雲, 道路, ガイド, 個人, 構造物, 魚, 説明, 眺望, 頂上, バック, 飛魚, 八丈小島
+cluster1:(3)
+大坂トンネル展望台, 展望所, 展望台
+cluster2:(2)
+八丈富士, 八丈一周道路
+
+howmany entities : 46
+howmany clusters : 3
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 3
+deleted 0entities.

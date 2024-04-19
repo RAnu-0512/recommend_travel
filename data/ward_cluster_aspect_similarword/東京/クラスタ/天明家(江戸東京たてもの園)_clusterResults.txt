@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天明家(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+佇まい, 主役, 鵜ノ木, 内部
+cluster1:(2)
+旧家, 農家
+cluster2:(1)
+格式
+cluster3:(1)
+主屋
+cluster4:(1)
+天明家
+cluster5:(3)
+江戸時代後期, 大田区, 江戸東京
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

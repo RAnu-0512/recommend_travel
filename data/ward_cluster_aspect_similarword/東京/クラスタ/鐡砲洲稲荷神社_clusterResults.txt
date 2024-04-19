@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鐡砲洲稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鉄砲洲稲荷神社, 鉄砲洲通り沿い
+cluster1:(3)
+平安, 南北, 明治
+cluster2:(6)
+場所, 地域, 人々, ビジネス街, 周り, 時代
+cluster3:(7)
+富士山, 関東大震災, 富士塚, 感じ, ココ, こと, 雰囲気
+cluster4:(1)
+信仰
+cluster5:(6)
+外来, 右手, 公園, 散歩, 食後, ビル
+cluster6:(3)
+湊1丁目, 京橋地区, 中央区
+cluster7:(9)
+神社, 拝殿, 稲荷神社, 神楽殿, 初詣, 古社, 守神, 二宮尊, 波除神社
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 8
+deleted 0entities.

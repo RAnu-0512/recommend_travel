@@ -1,0 +1,19 @@
+--------------------similar_words:事任八幡宮--------------------
+top3 entities near to cluster0>>
+階段, 国道, 石段
+top3 entities near to cluster3>>
+子供, 娘
+top3 entities near to cluster8>>
+お参り, お守り, 御朱印
+top3 entities near to cluster9>>
+パワー, 雰囲気, 気持ち
+top3 entities near to cluster10>>
+履物, 靴, 礼
+top3 entities near to cluster11>>
+らし, かみ, くじ
+top3 entities near to cluster15>>
+森, 宮, 山
+top3 entities near to cluster16>>
+杉, 神木, 大木
+top3 entities near to cluster17>>
+神社, 境内, 本殿

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江古田植物化石層発見の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+氷河期, 江古田
+cluster1:(2)
+こと, 辺り
+cluster2:(1)
+地層
+cluster3:(1)
+川沿い
+cluster4:(1)
+植物化石層
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

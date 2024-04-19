@@ -1,0 +1,7 @@
+--------------------similar_words:山の神古墳--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 構内
+top3 entities near to cluster1>>
+古墳, 遺跡, 前方後円墳
+top3 entities near to cluster2>>
+流域, 山, 川

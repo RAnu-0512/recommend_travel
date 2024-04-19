@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩ガラス工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ヒビ貫入ガラス, ひび入り
+cluster1:(5)
+ガラス制作体験, 体験, 作り体験, ガラス体験, 彫刻体験
+cluster2:(2)
+吹きガラス体験, ガラス吹き
+cluster3:(2)
+ガラス細工, ガラス細工体験
+cluster4:(4)
+萩ガラス, 萩焼き, 萩, 萩ガラス工房
+cluster5:(5)
+色味, 一輪差し, 色使い, 醤油, 醤油さし
+cluster6:(17)
+子供, 姿, 土産, 絵, 気, 色, 手, 種類, 興味, 人気, 時間, 女性, 感じ, 伝統, 方, 普通, 人
+cluster7:(2)
+グラス, ワイングラス
+cluster8:(2)
+コップ, ガラス
+cluster9:(8)
+グリーン, キラキラ, 思い出, オミヤゲ, ネックレス, ストラップ, アクセサリー, イメージ
+cluster10:(1)
+晩酌
+cluster11:(1)
+笠山
+cluster12:(11)
+陶器, 器, 工房, ガラス作り, 皿, ガラス皿, ガラス製品, ガラス越し, 生産, ガラス管, 作り
+
+howmany entities : 62
+howmany clusters : 13
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 13
+deleted 0entities.

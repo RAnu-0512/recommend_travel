@@ -1,0 +1,19 @@
+--------------------similar_words:京成電鉄柴又駅--------------------
+top3 entities near to cluster0>>
+駅, 参道, 駅前
+top3 entities near to cluster1>>
+車両, 電車, 路線
+top3 entities near to cluster2>>
+銅像, 胸像
+top3 entities near to cluster3>>
+彼女, 妹, 性格
+top3 entities near to cluster4>>
+懐, 寅, 霄館
+top3 entities near to cluster6>>
+寂しい, 淋しい, さみしい
+top3 entities near to cluster7>>
+参拝, 参詣
+top3 entities near to cluster8>>
+商店街, 商店
+top3 entities near to cluster9>>
+京線, 急線, 京, 急

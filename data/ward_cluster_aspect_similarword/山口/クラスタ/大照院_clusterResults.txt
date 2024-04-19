@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大照院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+目的地, 駐車場
+cluster1:(2)
+工事, 紅葉
+cluster2:(15)
+こと, 文化財, 次, 蔵, 場所, 国, 雰囲気, かんぬき, 東光寺, お参り, 菩提寺, 注意, 歴史, 歴代, 建物
+cluster3:(2)
+偶数代, 門限
+cluster4:(13)
+赤童子像, 鐘楼門, 境内, 本堂, 寺, 墓地, 史跡, 墓所, 書院, 庫裏, 名刹, 門, 墓
+cluster5:(10)
+おり国指定, 国指定重要文化財, 大照院, 県指定文化財, 江戸時代中期, 毛利家, 歴代藩主, 藩主夫妻, 中国観音霊場, 藩主
+cluster6:(3)
+毛利家初代藩主・秀就, 萩毛利家偶数代藩主, 木造義翁和尚倚像ぎ
+
+howmany entities : 47
+howmany clusters : 7
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 7
+deleted 0entities.

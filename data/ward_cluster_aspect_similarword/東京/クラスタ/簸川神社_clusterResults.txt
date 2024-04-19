@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:簸川神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ひかわ神社, ひかわじんじゃ
+cluster1:(21)
+石段, 地, 隣, 小石川村, 漢字, 鳥居, 創建, 上, 本館, とお神酒, 歴史, 桜, 合格階段, 社殿, 雰囲気, 境内, 満開, 西隣, 時代, 階段, 大正
+cluster2:(3)
+小石川植物園, 東京医学校, 文京区
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 3
+deleted 0entities.

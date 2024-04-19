@@ -1,0 +1,13 @@
+--------------------similar_words:丸山公園(静岡県伊東市)--------------------
+top3 entities near to cluster0>>
+紅葉, 季節, 桜
+top3 entities near to cluster1>>
+山頂, 稜線, 頂上
+top3 entities near to cluster2>>
+風景, 景色, 空気
+top3 entities near to cluster5>>
+モミジ, ホタル, 紅葉
+top3 entities near to cluster7>>
+気持ち, 市街地, 気持
+top3 entities near to cluster10>>
+公園, 園内, 遊歩道

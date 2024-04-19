@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陣座ヶ谷古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+車, 先, 看板, 侵入, マックスバリュー, 片側, 買い物, 方, 前方後円墳
+cluster1:(2)
+道幅, 古墳
+cluster2:(3)
+姫街道, 登り口, 展望台
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 2entities.

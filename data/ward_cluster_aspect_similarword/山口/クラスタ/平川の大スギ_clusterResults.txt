@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平川の大スギ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山口市, 平川
+cluster1:(6)
+国, 姿, 天然記念物, スギ, 元気, 根元周囲
+cluster2:(1)
+樹齢
+cluster3:(1)
+杉の木
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

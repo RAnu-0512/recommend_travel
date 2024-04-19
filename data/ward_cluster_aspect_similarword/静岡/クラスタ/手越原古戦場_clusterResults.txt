@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手越原古戦場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+戦, 軍, 合戦
+cluster1:(5)
+地, 手越原古戦場, 故郷, 跡地, 石碑
+cluster2:(1)
+きれいに緑
+cluster3:(2)
+戦国時代の古戦場, 新田義貞
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

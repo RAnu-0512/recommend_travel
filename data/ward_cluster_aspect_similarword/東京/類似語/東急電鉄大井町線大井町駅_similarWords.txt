@@ -1,0 +1,11 @@
+--------------------similar_words:東急電鉄大井町線大井町駅--------------------
+top3 entities near to cluster0>>
+町, 駅前中央, 麻利衣
+top3 entities near to cluster1>>
+駅, 乗換, 乗換え
+top3 entities near to cluster2>>
+端
+top3 entities near to cluster3>>
+羽目, つもり
+top3 entities near to cluster4>>
+改札, 電車, 東急

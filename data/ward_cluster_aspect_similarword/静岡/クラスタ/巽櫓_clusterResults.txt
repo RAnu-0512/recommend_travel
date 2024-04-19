@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巽櫓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+畳敷き, 御門, 紅葉庭園, 復元遺構, 東御門, 原寸復元, 資料館
+cluster1:(4)
+道路側, 方角, 端, 東南
+cluster2:(11)
+こと, 現代, 内部, 全国, 歴史, 平成, 次回, 形, 中, 時代, 間
+cluster3:(2)
+駿府公園, スポット
+cluster4:(2)
+セット, 持ち越し
+cluster5:(1)
+臨済寺
+cluster6:(1)
+天守閣
+cluster7:(1)
+手習い
+cluster8:(1)
+城
+cluster9:(7)
+廊下, 戦闘, 復元, 写真, 模型, 部屋, 建物
+cluster10:(1)
+絶景
+cluster11:(1)
+守り
+cluster12:(1)
+今川
+cluster13:(3)
+真夏日, 平成元年, 暑さ
+cluster14:(3)
+L字構造, L字型, 共通入館券
+cluster15:(11)
+駿府城, 櫓, 巽櫓, 物見櫓, 竹千代, 家康, 徳川家康公, 駿府城の東南角, 竹千代手習いの間, 辰巳=巽櫓, 家康公
+
+howmany entities : 57
+howmany clusters : 16
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 7
+deleted 11entities.

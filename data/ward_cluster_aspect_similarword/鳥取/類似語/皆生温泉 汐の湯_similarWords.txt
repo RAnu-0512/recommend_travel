@@ -1,0 +1,19 @@
+--------------------similar_words:皆生温泉 汐の湯--------------------
+top3 entities near to cluster0>>
+節水, 水量, 流量
+top3 entities near to cluster1>>
+お湯, 風呂, 湯
+top3 entities near to cluster2>>
+高温, 温度, 低温
+top3 entities near to cluster4>>
+サウナ, ホテル, 朝風呂
+top3 entities near to cluster6>>
+海波, 海, 大波
+top3 entities near to cluster7>>
+設備, 施設, 部屋
+top3 entities near to cluster8>>
+男女, 時間, 日
+top3 entities near to cluster9>>
+清潔感, 不潔感, 清潔, 不潔
+top3 entities near to cluster10>>
+温泉, 宿泊, 露天風呂

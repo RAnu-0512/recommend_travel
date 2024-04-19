@@ -1,0 +1,13 @@
+--------------------similar_words:雷電為右衛門の墓--------------------
+top3 entities near to cluster0>>
+墓地, 裏道
+top3 entities near to cluster2>>
+寺, 花, 應聖
+top3 entities near to cluster3>>
+練塀, 井部, 堂谷
+top3 entities near to cluster5>>
+力士, 関取, 横綱
+top3 entities near to cluster6>>
+表示板, 標示板, 表示, 標示
+top3 entities near to cluster7>>
+博物館展, 博物館, 展示

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:もんがわアグリパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+土産, 直前予約, 滞在時間, 受付, 予約, 土産分, 電話
+cluster1:(3)
+酸味, みかん畑, みかん狩り
+cluster2:(2)
+終わり時期, 時期
+cluster3:(2)
+存分, 機会
+cluster4:(12)
+改善, 価格, こと, 方, 種類, 時間, 感じ, 違い, 説明, 味, 方々, 気分
+cluster5:(22)
+最後, ネットいっぱい, スタッフ, 終わり, おみやげ, 姉さん, 家族, みかん, スカスカ, 幼児, キウイ, キウィフルーツ, 娘, 女性, 問い合わせ, 海, 子供, 紙, ネット, 木, 見本, SNS
+cluster6:(1)
+時間無制限
+
+howmany entities : 49
+howmany clusters : 7
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 4
+deleted 5entities.

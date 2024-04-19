@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇部72カントリークラブ 江畑池コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+領収金額, 支払い金額
+cluster1:(10)
+勘違い, 草, 香り, コース, 蕎麦, 方, 初心者, 無し, 海苔, 池
+cluster2:(2)
+額面, 誤差
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

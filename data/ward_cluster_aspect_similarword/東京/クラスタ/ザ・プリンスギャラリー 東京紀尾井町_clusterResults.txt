@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ザ・プリンスギャラリー 東京紀尾井町>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+人, ホテル, ギャラリー, レストラン, 名, あちこち, ショッピングエリア, オブジェ, イルミネーション
+cluster1:(2)
+低層階, 高層階
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

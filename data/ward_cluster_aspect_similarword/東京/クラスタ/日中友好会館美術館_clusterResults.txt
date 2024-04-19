@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日中友好会館美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+友好, 友好会館, 日中友好会館
+cluster1:(5)
+展示期間, 展示数, 七夕展示, 書道展示会, 展示
+cluster2:(3)
+隣, 人, 前
+cluster3:(4)
+コンビニ, 唐獅子, 自販機, 美術館
+cluster4:(4)
+場所, 建物, 一角, 施設
+cluster5:(1)
+休憩スペース
+cluster6:(5)
+中国, 小石川後楽園, 中華レストラン, 絵画, 書道
+cluster7:(1)
+電子マネー対応
+cluster8:(1)
+宿泊ホテル隣接の日中友好会館美術館
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 9
+deleted 0entities.

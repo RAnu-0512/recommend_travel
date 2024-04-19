@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:虹ケ浜キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+虹ケ浜キャンプ場, 白砂青松, 道, 付近, トイレ
+cluster1:(3)
+山口県, 光市, 島田川
+cluster2:(1)
+虹ヶ浜海水浴場
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

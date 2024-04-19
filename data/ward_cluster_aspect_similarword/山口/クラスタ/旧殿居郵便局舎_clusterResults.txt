@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧殿居郵便局舎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+郵便局, 殿居郵便局
+cluster1:(2)
+建築物, 洋風建築
+cluster2:(3)
+建物内部, 内部, 建物
+cluster3:(2)
+隣, 鍵
+cluster4:(1)
+心訓
+cluster5:(1)
+駐車場
+cluster6:(1)
+河田寛
+cluster7:(1)
+福沢諭吉翁
+
+howmany entities : 13
+howmany clusters : 8
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 8
+deleted 0entities.

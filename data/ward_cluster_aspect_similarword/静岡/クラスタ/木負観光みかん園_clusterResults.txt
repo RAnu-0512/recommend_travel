@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木負観光みかん園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+漁港, 海岸際
+cluster1:(5)
+みかん, 風景, 富士山, イメージ, 向こう
+cluster2:(2)
+平地, みかん山
+cluster3:(1)
+みかん狩り
+cluster4:(1)
+家族旅行
+cluster5:(1)
+木負観光みかん園
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 7entities.

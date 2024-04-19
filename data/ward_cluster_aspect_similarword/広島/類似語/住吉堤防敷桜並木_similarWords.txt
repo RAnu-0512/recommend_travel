@@ -1,0 +1,27 @@
+--------------------similar_words:住吉堤防敷桜並木--------------------
+top3 entities near to cluster0>>
+敷, 堤防, 土手
+top3 entities near to cluster2>>
+焼酎, 清酒
+top3 entities near to cluster3>>
+風景, 景色, 季節
+top3 entities near to cluster4>>
+駅前, 大型, 駅
+top3 entities near to cluster7>>
+海心, 花心, 海, 花
+top3 entities near to cluster8>>
+コンサート, 映画, 園内
+top3 entities near to cluster9>>
+堤, キムジェ, 罧原
+top3 entities near to cluster10>>
+並木, 桜, 五瓶
+top3 entities near to cluster11>>
+満開, 桜, 八重桜
+top3 entities near to cluster12>>
+桜, 八重桜, 満開
+top3 entities near to cluster13>>
+一面, 一, 桜
+top3 entities near to cluster14>>
+開花, 時期, 枝
+top3 entities near to cluster15>>
+散歩, 花見, 出掛け

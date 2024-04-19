@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧日立航空機株式会社変電所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+銃撃, コロナ, 感謝, 気持ち, 終了, 中止, 攻撃, 迫力, 施設, 公開, ゼロ戦, 写真, 戦争, 跡
+cluster1:(2)
+改修工事, 工事
+cluster2:(3)
+建物保存, 建物内部, 建物
+cluster3:(1)
+変電所
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

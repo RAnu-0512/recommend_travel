@@ -1,0 +1,15 @@
+--------------------similar_words:里仁ブルーベリー農園--------------------
+top3 entities near to cluster0>>
+農園, 農場, 果樹
+top3 entities near to cluster2>>
+種類分, 種類, 数種類
+top3 entities near to cluster3>>
+影響, 及ぼし, 及ぼす
+top3 entities near to cluster4>>
+園内, 開園, 館内
+top3 entities near to cluster5>>
+台風, メーギー, ジェラワット
+top3 entities near to cluster6>>
+食べ放題, 食べ, たべ
+top3 entities near to cluster7>>
+入園料, 入場料, 入園, 入場

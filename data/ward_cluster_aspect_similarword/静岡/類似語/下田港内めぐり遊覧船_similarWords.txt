@@ -1,0 +1,37 @@
+--------------------similar_words:下田港内めぐり遊覧船--------------------
+top3 entities near to cluster0>>
+遊覧船, 港船, 遊覧, 港
+top3 entities near to cluster1>>
+割引券, 割引, 割引き
+top3 entities near to cluster2>>
+エサ, 餌, えさ
+top3 entities near to cluster3>>
+料金, 割増, 代金
+top3 entities near to cluster4>>
+時間, 所要
+top3 entities near to cluster5>>
+乗船, 出航, 出港
+top3 entities near to cluster6>>
+光波, 光風, 光
+top3 entities near to cluster7>>
+海, 海風, 潮風
+top3 entities near to cluster8>>
+開国, 黒船, 幕末
+top3 entities near to cluster9>>
+船内, 湾内
+top3 entities near to cluster10>>
+ホテル, エリア, 景色
+top3 entities near to cluster11>>
+カモメ, トンビ, ウミネコ
+top3 entities near to cluster13>>
+状況, 時期, 位置
+top3 entities near to cluster19>>
+持参, 降下, 追加
+top3 entities near to cluster24>>
+景色, 景観, 眺望
+top3 entities near to cluster26>>
+宿人, 駅人, 宿, 駅
+top3 entities near to cluster29>>
+そば
+top3 entities near to cluster31>>
+席人, 席, 人達

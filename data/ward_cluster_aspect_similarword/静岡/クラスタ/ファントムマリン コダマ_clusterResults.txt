@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ファントムマリン コダマ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+事, 洋服, 兄さん達, 用意, 店, 場所, 方
+cluster1:(12)
+パラセーリング, 浜名湖, 一生, アクティビティ, スピードボート, 空, パルパル, プロ, 星, ボート, 旅, インストラクター
+cluster2:(2)
+駐車場, 遊園地
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 2entities.

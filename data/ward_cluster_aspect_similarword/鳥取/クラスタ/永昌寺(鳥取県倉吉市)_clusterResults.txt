@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永昌寺(鳥取県倉吉市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+本堂, 読経, 住職, 寺
+cluster1:(2)
+塔, 岩
+cluster2:(3)
+駅, 紅葉, バス
+cluster3:(2)
+造り, 掃除
+cluster4:(2)
+歴史, 名称
+cluster5:(3)
+感じ, こと, 形
+cluster6:(7)
+永昌寺, 前, 人, 気持ち, 方, 御朱印, 場所
+cluster7:(1)
+左側
+cluster8:(1)
+距離
+cluster9:(1)
+高さ
+cluster10:(1)
+駐車場
+cluster11:(5)
+永昌禅, 倉吉市, 倉吉駅, 鳥取県, 岩倉城跡
+cluster12:(5)
+───O, 十三重塔, 永昌寺十三重, 永昌寺十三重塔, そうです.13もの岩
+
+howmany entities : 37
+howmany clusters : 13
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 13
+deleted 0entities.

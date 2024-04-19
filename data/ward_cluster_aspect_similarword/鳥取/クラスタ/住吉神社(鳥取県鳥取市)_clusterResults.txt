@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:住吉神社(鳥取県鳥取市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+感じ, 気, 方, こと
+cluster1:(2)
+パワースポット, パワー
+cluster2:(2)
+雰囲気, 気持ち
+cluster3:(2)
+和泉式部, 小式部内侍
+cluster4:(6)
+桜並木, こじんまり, ロケーション, オススメ, インパクト, スポット
+cluster5:(2)
+ひとつ, ところ
+cluster6:(1)
+見応え
+cluster7:(1)
+守り神
+cluster8:(1)
+一面
+cluster9:(2)
+日本, 全国
+cluster10:(2)
+歴史, 伝統
+cluster11:(10)
+時期, 地域, 周り, 季節, 中, 昔, 木, 近く, 時間, 場所
+cluster12:(2)
+人たち, 人
+cluster13:(2)
+間地元, 地元
+cluster14:(15)
+船, 山, 利益, 往来, 井戸, 神, 散歩, 緑, 森, 灯台, 巨木, 自然, 歌人, 桜, 道
+cluster15:(1)
+産湯
+cluster16:(12)
+静寂, 落ち着き心, 景色, さびれ感, 情緒, 風情, 風格, 心, 景観, 空気, 威厳, 心安らぐ雰囲気
+cluster17:(17)
+住吉神社, 参拝, 鳥取, 鹿野町, 参拝者, 鳥取市, 観光客, 住吉神社内, 参道, 拝殿, 鳥居, 境内, シイ林, 鳥取県, 神社, 本殿, 社殿
+
+howmany entities : 84
+howmany clusters : 18
+howmany entities (more than1entities) : 84
+howmany clusters (more than1entities) : 18
+deleted 0entities.

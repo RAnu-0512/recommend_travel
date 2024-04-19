@@ -1,0 +1,7 @@
+--------------------similar_words:末広酒蔵展示館--------------------
+top3 entities near to cluster0>>
+館, 酒蔵, 展示
+top3 entities near to cluster3>>
+展示品, 展示, 収蔵品, 収蔵
+top3 entities near to cluster4>>
+酒蔵, 蔵元, 地酒

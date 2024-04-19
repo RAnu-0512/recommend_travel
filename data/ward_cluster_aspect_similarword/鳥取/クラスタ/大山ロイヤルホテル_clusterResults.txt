@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山ロイヤルホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大山, ロイヤルホテル大山
+cluster1:(7)
+受け入れ姿勢, 感じ, 気, 説明, こと, 始末, 対応
+cluster2:(2)
+加湿, 電源
+cluster3:(8)
+語, 声, 客, 夕食, 土産コーナー, 部屋, 女性スタッフ, 景色
+cluster4:(15)
+露天風呂, どうせ日本, 水, 日本, 大山寺, フロント, スタッフ, フロン, タンク, 残り, ゲスト, ポット, 備え付け, ホテル, テーブル
+cluster5:(1)
+広さ
+cluster6:(5)
+衛生面, 禁煙部屋, 浴場, 温泉, 日帰り温泉
+cluster7:(1)
+空気清浄機
+
+howmany entities : 41
+howmany clusters : 8
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR目黒駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+目黒不動尊, 山手線, 目黒, 目黒線, 目黒駅, JR目黒駅
+cluster1:(2)
+東急, 都営
+cluster2:(4)
+神社, 寺, 山坂, 寄生虫館
+cluster3:(5)
+JR, 乗り換え線, 路線, 改札, 方面
+cluster4:(2)
+地上, 地下
+cluster5:(4)
+周囲, 人, こと, 大勢
+cluster6:(4)
+地下鉄乗り換え, メトロ, 地下鉄, 南北線
+cluster7:(2)
+散歩道, 寄り道
+cluster8:(4)
+三田線, アクセス, ホーム, 乗り換え
+cluster9:(1)
+目黒川
+cluster10:(1)
+アトレ
+cluster11:(1)
+散歩
+cluster12:(9)
+観光街, 主要駅, 観光名所, 駅, ビジネス街, 駅周辺, 中目黒駅, 飲食店, 乗降客
+
+howmany entities : 45
+howmany clusters : 13
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 13
+deleted 0entities.

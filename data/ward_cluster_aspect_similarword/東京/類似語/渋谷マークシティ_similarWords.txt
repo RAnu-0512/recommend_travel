@@ -1,0 +1,35 @@
+--------------------similar_words:渋谷マークシティ--------------------
+top3 entities near to cluster0>>
+東急, 京王, 井の頭線
+top3 entities near to cluster1>>
+エリア, レストラン, ホテル
+top3 entities near to cluster2>>
+タワー, ツイン, スター
+top3 entities near to cluster3>>
+京王線, 東横線, 井の頭線
+top3 entities near to cluster5>>
+カフェ, レストラン, ホテル
+top3 entities near to cluster6>>
+時間, 時間帯, 日数
+top3 entities near to cluster7>>
+マーク, シティ, ランド
+top3 entities near to cluster8>>
+繁華街, 繁華, 雑踏
+top3 entities near to cluster9>>
+建物, 絵画, 壁画
+top3 entities near to cluster11>>
+休憩, お昼, 休日
+top3 entities near to cluster12>>
+動作, 日常, 生活
+top3 entities near to cluster13>>
+利用, 移動, 使用
+top3 entities near to cluster15>>
+天気雨, 天気, 週末
+top3 entities near to cluster17>>
+茶, つば, 玻瑠
+top3 entities near to cluster18>>
+雑貨店, 飲食店, 雑貨, 飲食
+top3 entities near to cluster19>>
+雑貨屋, 雑貨店, 雑貨
+top3 entities near to cluster20>>
+駅, 駅前, バスターミナル

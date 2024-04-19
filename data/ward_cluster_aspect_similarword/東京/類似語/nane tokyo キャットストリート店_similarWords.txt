@@ -1,0 +1,53 @@
+--------------------similar_words:nane tokyo キャットストリート店--------------------
+top3 entities near to cluster0>>
+誕生, 日, 祝う
+top3 entities near to cluster1>>
+記念, 周年, 日
+top3 entities near to cluster2>>
+所要, 時間
+top3 entities near to cluster3>>
+使い方, 選び方, 作り方
+top3 entities near to cluster4>>
+雰囲気, 話し方, 居心地
+top3 entities near to cluster5>>
+ハーフ, サクラ, ニュー
+top3 entities near to cluster6>>
+待ち時間, ストレス, 苦痛
+top3 entities near to cluster7>>
+おかげ, お陰, お蔭
+top3 entities near to cluster8>>
+デザイン, アクセサリー, サイズ
+top3 entities near to cluster9>>
+手作り, 手づくり, アクセサリー
+top3 entities near to cluster10>>
+リング, ペア, マイベル
+top3 entities near to cluster11>>
+制作, 製作, 作成
+top3 entities near to cluster12>>
+写真, 動画, 撮影
+top3 entities near to cluster14>>
+店員, 店内
+top3 entities near to cluster15>>
+定員, 予算, 人数
+top3 entities near to cluster16>>
+来店, 予約, 受付
+top3 entities near to cluster17>>
+対応, 理解, 補足
+top3 entities near to cluster18>>
+種類, 好み
+top3 entities near to cluster19>>
+写真, 外観, 作品
+top3 entities near to cluster20>>
+思い出, 笑顔, 想い出
+top3 entities near to cluster21>>
+加工, 工程, 素材
+top3 entities near to cluster22>>
+片手, 両手, トンカチ
+top3 entities near to cluster23>>
+彼女, 友人, 彼
+top3 entities near to cluster24>>
+体験, 作る
+top3 entities near to cluster25>>
+ペア, リング
+top3 entities near to cluster26>>
+指輪, ネックレス, エンゲージリング

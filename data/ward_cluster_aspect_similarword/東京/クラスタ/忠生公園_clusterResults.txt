@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:忠生公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+バス停, 池, 駐車場, 公園, 人, 子供, ロウバイ, 気持ち, 弁当, 台数, 家族連れ, 花見, 散歩, 秋, 時期, 休日, 食堂, テント, 中, 桜, 遊具, 園内, 香り
+cluster1:(4)
+自然, 自然散策, 自然館, 忠生公園
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 2
+deleted 0entities.

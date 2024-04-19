@@ -1,0 +1,13 @@
+--------------------similar_words:金剛寺_金銅一光三尊立像_宝篋印塔--------------------
+top3 entities near to cluster0>>
+八, 十, 五
+top3 entities near to cluster1>>
+朱印, 霊験, 御朱印
+top3 entities near to cluster2>>
+境内, お寺, 本尊
+top3 entities near to cluster3>>
+時代, 後期, 滞在
+top3 entities near to cluster4>>
+成就, 願い, 願う
+top3 entities near to cluster5>>
+大師, さま, 地蔵

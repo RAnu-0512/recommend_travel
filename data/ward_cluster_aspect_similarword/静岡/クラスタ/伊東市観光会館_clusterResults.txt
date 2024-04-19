@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊東市観光会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光会館別館, 観光文化施設, 観光会館ホール
+cluster1:(11)
+会館, コンサート, 会議室, 海, 観光, 河口, 海岸沿い, 前, 方面, ホール, 線沿い
+cluster2:(5)
+伊東市, 伊東駅, 松川河口のなぎさ公園, 伊東大川, 川奈
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 0entities.

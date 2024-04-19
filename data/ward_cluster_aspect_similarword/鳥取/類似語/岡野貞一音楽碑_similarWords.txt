@@ -1,0 +1,15 @@
+--------------------similar_words:岡野貞一音楽碑--------------------
+top3 entities near to cluster0>>
+歌碑, 句碑, 詩碑
+top3 entities near to cluster1>>
+故郷, 学校
+top3 entities near to cluster2>>
+一流, 趣味, 三流
+top3 entities near to cluster3>>
+小川, 神田, 佐藤
+top3 entities near to cluster4>>
+歌詞
+top3 entities near to cluster5>>
+作曲, 出身, 作詞
+top3 entities near to cluster6>>
+唱歌, 合唱, 童謡

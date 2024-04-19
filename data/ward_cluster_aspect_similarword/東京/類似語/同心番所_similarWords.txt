@@ -1,0 +1,7 @@
+--------------------similar_words:同心番所--------------------
+top3 entities near to cluster0>>
+登城, 入城, 退城
+top3 entities near to cluster1>>
+建物, 城壁, 出入り口
+top3 entities near to cluster4>>
+同心, 詰所, 詰め所

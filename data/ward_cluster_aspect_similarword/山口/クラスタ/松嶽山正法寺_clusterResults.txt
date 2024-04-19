@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松嶽山正法寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+住職, 寺, 本堂
+cluster1:(2)
+某テレビ, 番組
+cluster2:(7)
+柱, 管理, 方, 元, 山中, 山, 犬
+cluster3:(1)
+修行僧
+cluster4:(1)
+山陽小野田市
+cluster5:(1)
+十一面観音
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:築土神社--------------------
+top3 entities near to cluster0>>
+神社, 本殿, 境内
+top3 entities near to cluster1>>
+ビル, 高層, タワービル
+top3 entities near to cluster2>>
+都, 区, 区内
+top3 entities near to cluster3>>
+入口, 入り口, 奥
+top3 entities near to cluster5>>
+皇居, 都内, 近所
+top3 entities near to cluster6>>
+坂, 九段, 坂道
+top3 entities near to cluster7>>
+駅, 地下鉄, 散歩

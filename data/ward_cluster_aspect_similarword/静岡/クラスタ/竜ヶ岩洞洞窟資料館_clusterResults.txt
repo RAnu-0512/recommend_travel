@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竜ヶ岩洞洞窟資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+鍾乳洞めぐり, 化石, 鍾乳石, 岩石, 出口, 石, 洞窟, 鍾乳洞
+cluster1:(4)
+調査, 展示, 見学, 公開
+cluster2:(4)
+事, 苦労, こと, 様子
+cluster3:(8)
+パネル, 竜ヶ石山, 地元, 個人, 写真, 時間, 子ども, ジオラマ
+cluster4:(1)
+私財
+cluster5:(9)
+協力者, 観光資源, 実業家, 資料, 洞内調査, 工事, 観光, 資料館, ルート開発工事
+cluster6:(4)
+戸田貞雄, 戸田, 引佐, 手堀り調査
+cluster7:(1)
+竜ヶ岩洞
+
+howmany entities : 39
+howmany clusters : 8
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 6
+deleted 2entities.

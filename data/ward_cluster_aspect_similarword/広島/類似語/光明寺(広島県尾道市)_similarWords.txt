@@ -1,0 +1,17 @@
+--------------------similar_words:光明寺(広島県尾道市)--------------------
+top3 entities near to cluster0>>
+寺碑, 観音, 寺
+top3 entities near to cluster1>>
+お寺, 弟子, 寺院
+top3 entities near to cluster3>>
+格式, 格調, 由緒
+top3 entities near to cluster4>>
+駅前, 駅, 南口
+top3 entities near to cluster5>>
+横綱, 力士, 相撲
+top3 entities near to cluster7>>
+参拝, 参詣, お参り
+top3 entities near to cluster9>>
+寺, お寺, 境内
+top3 entities near to cluster10>>
+代陣, 第, 代

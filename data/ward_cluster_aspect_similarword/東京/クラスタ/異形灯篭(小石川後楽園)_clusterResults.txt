@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:異形灯篭(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+灯篭, リーフレット, 位置, 場, わき, 道, 場所, 感じ, 真四角, 異形, 形, 周り
+cluster1:(4)
+小石川後楽園, 園内案内, 園内, 大泉水
+cluster2:(1)
+異形灯籠
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

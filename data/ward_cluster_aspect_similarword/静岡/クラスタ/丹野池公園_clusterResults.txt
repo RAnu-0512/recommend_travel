@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹野池公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水色, 色
+cluster1:(6)
+さえずり, 鳥, 場所, 周り, 歩道橋, 水
+cluster2:(1)
+池
+cluster3:(1)
+東海道線
+cluster4:(1)
+菊川駅
+cluster5:(1)
+丹野池公園
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 6entities.

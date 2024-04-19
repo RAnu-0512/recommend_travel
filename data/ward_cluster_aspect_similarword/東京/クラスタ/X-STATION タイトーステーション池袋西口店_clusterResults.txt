@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:X-STATION タイトーステーション池袋西口店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+臨場感, シューティング音, 音ゲー
+cluster1:(22)
+ゲーム, 壁, ゴースト, 壁面, お化け屋敷, 通路, プレイ, プロジェクション, 四方, 箱, PC, ゾンビ, 銃, タイミング, 専用デバイス, 指令, スマホ, ロールプレイング, シューティング, はじまり, カラオケボックス, ヘッドホン
+cluster2:(4)
+VRゲーム, 3D game, 遊ぶゲーム, ゲーム性
+cluster3:(2)
+あり体, 体
+cluster4:(2)
+投影, 撮影
+cluster5:(6)
+もの, ストーリー展開, 構成, 動き, 中, 主流
+cluster6:(2)
+混雑, 同時プレイ
+cluster7:(1)
+担当者
+cluster8:(1)
+面白さ
+cluster9:(6)
+空間, 事前予約, 宇宙空間, 予約, 料金現地, 地下室
+
+howmany entities : 49
+howmany clusters : 10
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 10
+deleted 0entities.

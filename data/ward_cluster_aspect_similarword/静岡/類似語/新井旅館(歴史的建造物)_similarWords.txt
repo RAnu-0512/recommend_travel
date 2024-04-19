@@ -1,0 +1,13 @@
+--------------------similar_words:新井旅館(歴史的建造物)--------------------
+top3 entities near to cluster1>>
+浴場, 風呂, 足湯
+top3 entities near to cluster2>>
+温泉, 旅館, 宿
+top3 entities near to cluster6>>
+鯉池, 鯉魚, 鯉
+top3 entities near to cluster8>>
+建物, 外観, 通路
+top3 entities near to cluster10>>
+一角, 部屋
+top3 entities near to cluster12>>
+風景街, 風情, 風景

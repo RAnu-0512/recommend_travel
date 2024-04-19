@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手描き友禅工房 笠原以津子>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+無線友禅, 無線友禅体験, 友禅, 糸目友禅
+cluster1:(11)
+下絵, 笠原先生, 作品, 色作り, 希望, 場, 先生, 体験, 図案, 作業, 色
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

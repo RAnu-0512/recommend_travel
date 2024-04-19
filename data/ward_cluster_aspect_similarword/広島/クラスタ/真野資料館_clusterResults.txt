@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真野資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+高杉晋作, 府中市, 世羅町, 世羅郡
+cluster1:(2)
+宝石店, 代官所
+cluster2:(3)
+財閥, 角倉家, 豪商
+cluster3:(16)
+文化財, 白壁, 眼鏡, 蔵, 中, 建物, 町並み, キリスト教会, メガネ, 国, 屋根裏, 明治, 武具, 時計, 戸張, 上下
+cluster4:(4)
+指名手配書, 真野資料館, 資料, 資料館
+cluster5:(1)
+葵の御紋入り火鉢
+cluster6:(1)
+江戸時代初期に建てられた古民家
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちごランドマサミ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+いちご, ビニールハウス, 家, イチゴ, こども, ジャム, ハウス, 友人, いちごジャム
+cluster1:(2)
+いちご狩り, ジャム用いちご
+cluster2:(1)
+駐車場
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 3entities.

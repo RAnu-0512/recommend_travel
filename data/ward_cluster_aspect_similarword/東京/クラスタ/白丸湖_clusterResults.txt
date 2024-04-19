@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白丸湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鳩ノ巣渓谷遊歩道, 鳩ノ巣渓谷
+cluster1:(2)
+ダム, ダム湖
+cluster2:(3)
+白丸湖, 白丸駅, 白丸ダム
+cluster3:(2)
+上流, 下流方面
+cluster4:(2)
+両脇, 岩々
+cluster5:(18)
+周囲, 水, 清流, 木々, 渓谷, 多摩川, エメラルドグリーン, 紅葉, 近く, ドライブ, 遊歩道, 奥多摩駅, トイレ, 上, 車, 景観, 黄葉, 色
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 6
+deleted 0entities.

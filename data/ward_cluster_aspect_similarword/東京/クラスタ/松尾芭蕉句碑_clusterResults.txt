@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松尾芭蕉句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+寺, 中庭, 石碑, 北側, 境内
+cluster1:(5)
+方, 歴史, パンフレット, 喜び, オペラシティ
+cluster2:(1)
+親切さ
+cluster3:(1)
+小道奥
+cluster4:(2)
+幡ヶ谷不動荘厳寺, 暮おしき四谷過ぎけり紙草履
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

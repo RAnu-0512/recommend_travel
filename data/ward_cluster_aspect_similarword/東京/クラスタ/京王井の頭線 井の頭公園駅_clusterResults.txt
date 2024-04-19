@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王井の頭線 井の頭公園駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+乗車券, アニメ作品, 吉祥寺駅, 改札口, 舞台, 聖地, 駅舎, 井の頭線, 駅, 井, 井の頭公園, 改札, 全線, 井の頭公園駅
+cluster1:(3)
+本園, 動物園, 動物園分園
+cluster2:(2)
+明冶大学前間と井の頭線, 京王新宿駅
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

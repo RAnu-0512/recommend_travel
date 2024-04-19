@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ銀座線 浅草駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+外国人観光客, 場所がら外国人観光客
+cluster1:(2)
+松屋, 神谷
+cluster2:(2)
+神輿, 鬼瓦
+cluster3:(8)
+店, アーケード街, 場所, 地上, 途中一部エスカレーター, 駅, 出口, 階段
+cluster4:(26)
+ガラス, 図録, アサヒビール, 出入り口, 吾妻橋, 人, 乗り換え, 浅草寺, アクセス, コインロッカー, 感じ, 浅草線, エレベーター, ホーム, カバン, 流れ, 案内, 移動, 地下鉄, あと, 日本, 雰囲気, 側, 目, もの, 展示
+cluster5:(1)
+外国人
+cluster6:(4)
+観光, 観光地, 観光客, 浅草観光地
+cluster7:(7)
+改札, 東京地下鉄, JR上野, 東京メトロ, 銀座線, 都営, 駅構内
+cluster8:(2)
+雷門方面, 雷門
+cluster9:(4)
+浅草駅, 浅草こと浅草寺, 浅草, 流石浅草
+cluster10:(2)
+東武浅草駅, 繁華街 浅草
+
+howmany entities : 60
+howmany clusters : 11
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 11
+deleted 0entities.

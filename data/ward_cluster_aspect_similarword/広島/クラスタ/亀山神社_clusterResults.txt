@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀山神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+亀山神社, 宮司, 鳥居, 厄年, 神社, 初詣
+cluster1:(3)
+祈祷数, 朱印, 祈祷
+cluster2:(2)
+呉市, 船山
+cluster3:(10)
+トイレ, 歴史, 入口, 話, 祭り, 人, 御朱印, 景色, 汽笛, 中心部
+cluster4:(1)
+駐車場
+cluster5:(1)
+登り坂
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

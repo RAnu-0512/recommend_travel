@@ -1,0 +1,7 @@
+--------------------similar_words:小川酒造--------------------
+top3 entities near to cluster0>>
+有形, 文化財, 無形
+top3 entities near to cluster1>>
+酒造, 酒蔵, 蔵元
+top3 entities near to cluster3>>
+蔵屋, 蔵, 仕込

@@ -1,0 +1,15 @@
+--------------------similar_words:下谷神社--------------------
+top3 entities near to cluster0>>
+神社, 神楽, 奉納
+top3 entities near to cluster1>>
+石碑, 周辺
+top3 entities near to cluster2>>
+神社, 参道, 境内
+top3 entities near to cluster3>>
+散歩, さんぽ, 散策
+top3 entities near to cluster4>>
+駅, 稲荷町, 駅前
+top3 entities near to cluster5>>
+流行, 現代, 流行り
+top3 entities near to cluster6>>
+神輿, 山車, 神社

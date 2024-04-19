@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大樹寺(鳥取県八頭町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本堂, 建物
+cluster1:(1)
+大樹寺
+cluster2:(1)
+建立
+cluster3:(1)
+大きさ
+cluster4:(1)
+鳥取県
+cluster5:(1)
+観光名所
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

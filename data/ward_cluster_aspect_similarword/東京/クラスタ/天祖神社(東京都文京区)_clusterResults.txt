@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天祖神社(東京都文京区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駒込, 駒込病院
+cluster1:(6)
+神社, 拝殿, 神明造り, 亀石, 参道, 境内
+cluster2:(3)
+季節, 紅葉, 銀杏
+cluster3:(5)
+意味, 所, 源頼朝, ココ, 石
+cluster4:(1)
+長寿
+cluster5:(1)
+解説文
+cluster6:(1)
+金運
+cluster7:(1)
+おみくじ
+cluster8:(1)
+天祖神社
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

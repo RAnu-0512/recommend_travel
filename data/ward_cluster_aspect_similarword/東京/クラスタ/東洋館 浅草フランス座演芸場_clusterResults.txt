@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東洋館 浅草フランス座演芸場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+老舗演芸場, 演芸, 演芸場
+cluster1:(3)
+芸人, 寄席, 漫才
+cluster2:(12)
+ブロードウェイ, 現代, 舞台, 浅草寺, 笑い, 聖地, 浅草, 文化, 感動, 時間, 日本, 時代
+cluster3:(3)
+フランス座, 席, ツアー客
+cluster4:(2)
+ホ−ル, 北野武
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

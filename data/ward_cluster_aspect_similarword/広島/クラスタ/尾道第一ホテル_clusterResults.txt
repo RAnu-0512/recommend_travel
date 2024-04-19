@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾道第一ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 近場
+cluster1:(2)
+小鉢, 蓮根サラダ
+cluster2:(4)
+雨, 途中, 突然, 前回
+cluster3:(2)
+オレンジジュース, ジュース
+cluster4:(8)
+メニュー, ハンバーグ, サイクリング, クーポン, ポイント, コーヒー, サービス, メイン
+cluster5:(2)
+ランチ, ホテル
+cluster6:(2)
+食後, 食事
+cluster7:(2)
+子供, 家族
+cluster8:(2)
+煮込みハンバーグ, 料理
+cluster9:(1)
+席
+cluster10:(7)
+好み, 利用, ほう, ランチ利用, 思いランチ, 消化, 美味しさ
+cluster11:(1)
+コロナ禍
+
+howmany entities : 35
+howmany clusters : 12
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 12
+deleted 0entities.

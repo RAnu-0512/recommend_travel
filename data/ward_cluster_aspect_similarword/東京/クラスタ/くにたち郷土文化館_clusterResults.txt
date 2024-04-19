@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くにたち郷土文化館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+展示室, 特別展, 展示物全体, 観覧者, 展示数, 展示
+cluster1:(3)
+活気, 気, 印象
+cluster2:(2)
+地下, 駐車スペース
+cluster3:(5)
+事務所, イベント, 仕事, ガラス張り, エントランス
+cluster4:(2)
+場所, 建物
+cluster5:(1)
+職員
+cluster6:(1)
+金
+cluster7:(1)
+ハコ
+cluster8:(1)
+大きさ
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

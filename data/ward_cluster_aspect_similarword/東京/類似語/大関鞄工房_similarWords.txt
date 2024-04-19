@@ -1,0 +1,19 @@
+--------------------similar_words:大関鞄工房--------------------
+top3 entities near to cluster0>>
+指導, 講師, 解説
+top3 entities near to cluster1>>
+手触り, 色合い, 質感
+top3 entities near to cluster2>>
+パーツ, イベント, アクセサリー
+top3 entities near to cluster3>>
+バッグ, ポケット, ショルダーバック
+top3 entities near to cluster5>>
+鞄, 革, 小物
+top3 entities near to cluster6>>
+鞄, 革, カバン
+top3 entities near to cluster7>>
+つくり, 作る
+top3 entities near to cluster8>>
+体験, 作成
+top3 entities near to cluster9>>
+体験, 体験談, 体感

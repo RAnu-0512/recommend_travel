@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明治百年記念公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+明治維新百年記念公園, 山口市維新公園
+cluster1:(3)
+大島町, 山口県, 大島口
+cluster2:(4)
+記念公園, 公園, 公園そのもの, 都市公園
+cluster3:(6)
+明治, 場, 噴水, 憩い, 県民, 記念碑
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

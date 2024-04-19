@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾山台駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+二子玉川駅, 二子玉川, 二子玉川方面
+cluster1:(24)
+活気, 自由が丘, 東京都市, 東横線, 等々力渓谷, 改札口, 東京, 普通電車, 大学, 大井町, 自由が丘駅, ホーム, 駅, 電車, それぞれ別, 東急の駅, 住宅街, 商店街, 方面, 大井町線, 各駅停車, 雰囲気, 東急の田園都市線, バリアフリー
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 2
+deleted 0entities.

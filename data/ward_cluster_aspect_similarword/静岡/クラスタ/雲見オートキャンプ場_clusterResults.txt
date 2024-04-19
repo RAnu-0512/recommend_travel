@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雲見オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+服装, 景観, 景色, 絶景, 天気
+cluster1:(5)
+オートキャンプ場, キャンプ場, 設備, 施設, 風呂
+cluster2:(2)
+富士山, 駿河湾
+cluster3:(10)
+オススメスポット, おすすめ, バンガロー, 露天風呂, キャンプサイト, アドバイス, トイレ, テント, おすすめポイント, オススメ
+cluster4:(1)
+水はけ
+cluster5:(4)
+車, 地面, 海, 石
+cluster6:(1)
+雲見
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 4entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南アルプスユネスコエコパーク井川ビジターセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+井川駅, 井川
+cluster1:(2)
+建物, 情報
+cluster2:(4)
+子供, 井川湖, スペース, 食事
+cluster3:(1)
+会館
+cluster4:(1)
+南アルプス
+cluster5:(1)
+飲食店
+cluster6:(1)
+井川観光会館えほんの郷
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 8entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯田温泉旅館協同組合>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観光資料, 湯田温泉観光案内所, 案内所, 駐車場
+cluster1:(13)
+中, 前, グッズ, 場所, のぞき窓, キャラ, 感じ, 詩人, 湯田温泉, 人, 様子, 歴史, パネル
+cluster2:(6)
+温泉街, 湯田温泉郷, 源泉, 温泉櫓, 温泉, 足湯
+cluster3:(6)
+中原中也, 飲泉, ゆう太くん, 湯泉舎, ゆう太, 温泉舎
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 4
+deleted 0entities.

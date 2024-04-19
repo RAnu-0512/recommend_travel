@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヘリコプター遊覧AIROSSkyview>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+所, スタッフ, 景色, パイロット, 何か, プロポーズ, 気, スリル, 会話, 感じ, スカイツリー, 天気, ヘリコプター, 前, 時間, 方, 対応, ヘッドフォン, 相方, 受付, 問題, 回線, 夜景
+cluster1:(3)
+事前連絡, 体験, ヘリコプター搭乗体験
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:戸田壱の湯温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+日帰り温泉施設, 温泉施設, たちより温泉施設
+cluster1:(2)
+温泉, 銭湯
+cluster2:(2)
+西伊豆, 達磨山
+cluster3:(3)
+グルメ, ピカピカ, キャンプ
+cluster4:(1)
+東京
+cluster5:(5)
+記憶, 現地, 喜び, 施設, 方々
+cluster6:(1)
+戸田
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 6entities.

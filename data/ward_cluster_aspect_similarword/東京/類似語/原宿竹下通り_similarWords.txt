@@ -1,0 +1,41 @@
+--------------------similar_words:原宿竹下通り--------------------
+top3 entities near to cluster0>>
+ショップ, ファッション, お菓子
+top3 entities near to cluster1>>
+人混み, 人込み, 人通り
+top3 entities near to cluster2>>
+レッツ, メイン, シャン
+top3 entities near to cluster3>>
+オシャレ, おしゃれ, ファッション
+top3 entities near to cluster4>>
+雰囲気, スリル, 気持ち
+top3 entities near to cluster6>>
+駅前店, 駅前, 繁華
+top3 entities near to cluster8>>
+人気, 定番, 個性
+top3 entities near to cluster9>>
+足手, 足, 先端
+top3 entities near to cluster10>>
+時間, 余裕
+top3 entities near to cluster11>>
+人達, 昔, 大勢
+top3 entities near to cluster12>>
+友達, 友人, 知人
+top3 entities near to cluster13>>
+世代, 年齢, 年令
+top3 entities near to cluster14>>
+親, 子, 娘
+top3 entities near to cluster15>>
+大人, 子供, 子ども
+top3 entities near to cluster16>>
+春休み, 修学旅行, 冬休み
+top3 entities near to cluster17>>
+中学生, 高校生, 小学生
+top3 entities near to cluster18>>
+若者, 学生, 大学生
+top3 entities near to cluster19>>
+洋服, 雑誌
+top3 entities near to cluster23>>
+人達, 若者
+top3 entities near to cluster24>>
+雑貨店, 雑貨屋, 雑貨

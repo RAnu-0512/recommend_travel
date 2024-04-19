@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SUNMALL>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+ロリータブランド, 中, スーパー, 店, ブランド, 食品, 方, ユニクロ, ミスド, 人, ドーナツ, 買い物, ショッピングビル, 地下, ショッピングモール, ファッション
+cluster1:(2)
+普段使い, 会社帰り
+cluster2:(3)
+広島市, 広島一, アーケード商店街
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土師ダムスポーツランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+方, 場所, 印象, 注意
+cluster1:(6)
+サッカー, 自転車, ピクニック, レンタルサイクル, それぞれ, カーブ
+cluster2:(2)
+家族, 周囲
+cluster3:(1)
+桜
+cluster4:(1)
+道
+cluster5:(1)
+天気
+cluster6:(1)
+簡易テント
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

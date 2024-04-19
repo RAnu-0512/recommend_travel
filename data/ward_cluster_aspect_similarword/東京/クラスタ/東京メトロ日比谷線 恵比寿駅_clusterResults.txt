@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線 恵比寿駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京, 東京メトロ
+cluster1:(6)
+思い, ホーム, 方, 日比谷線, 乗り換え, エスカレータ
+cluster2:(5)
+余裕, 前, 時間, 目, 昼間
+cluster3:(3)
+地上, 出口, 階段
+cluster4:(3)
+恵比寿駅, 駅, 方面
+cluster5:(2)
+駒沢通り, 途中下車
+cluster6:(7)
+山手線, JR恵比寿駅, JR, JR線, 通勤時間帯, 乗換駅, 乗降客
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七滝温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+七滝温泉, 峰温泉, 温泉地, 温泉街
+cluster1:(4)
+旅館, 温泉, 湯めぐり, 風呂
+cluster2:(7)
+川, 質, 昼, 中伊豆, ガウン, 間, 大滝温泉
+cluster3:(1)
+足元注意
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 1entities.

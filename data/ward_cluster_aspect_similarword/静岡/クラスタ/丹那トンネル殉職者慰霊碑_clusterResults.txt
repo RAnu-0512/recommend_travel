@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丹那トンネル殉職者慰霊碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+丹那トンネル, 丹那神社, 来宮, 丹那断層, 断層, 来宮神社
+cluster1:(5)
+慰霊碑, 殉職者, 犠牲者, 殉職碑, 慰霊
+cluster2:(8)
+苦労, こと, 事故, 昔, 歴史, スポット, 場所, トンネル
+cluster3:(4)
+真上, 入口, 駅, そば
+cluster4:(2)
+神社, 石碑
+cluster5:(1)
+坂
+cluster6:(1)
+熱海
+cluster7:(6)
+トンネル工事, 工事, 大工事, 梅園方面, 線路沿い, 建設
+cluster8:(1)
+丹那トンネル殉職者慰霊碑
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 5
+deleted 5entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:大塚台公園--------------------
+top3 entities near to cluster0>>
+駅, 向原, 駅前
+top3 entities near to cluster1>>
+公園, 歴史, 裏側
+top3 entities near to cluster2>>
+電車, 車輪, 列車
+top3 entities near to cluster3>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster5>>
+機関車, 蒸気, 機関

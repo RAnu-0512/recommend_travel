@@ -1,0 +1,9 @@
+--------------------similar_words:稲城中央公園--------------------
+top3 entities near to cluster1>>
+公園, 園内, 自然
+top3 entities near to cluster2>>
+総合, 運動, 運動公園
+top3 entities near to cluster3>>
+高低差, 高低, 差異
+top3 entities near to cluster4>>
+競技場, 競技, 陸上

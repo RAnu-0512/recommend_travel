@@ -1,0 +1,13 @@
+--------------------similar_words:道の駅 仁保の郷--------------------
+top3 entities near to cluster0>>
+パン屋, パン, 食パン
+top3 entities near to cluster1>>
+料理酒, 料理, 土産
+top3 entities near to cluster3>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster4>>
+特産品, 特産, 宝石
+top3 entities near to cluster5>>
+野菜, 果物, 食材
+top3 entities near to cluster6>>
+鶏, 豚, 鶏肉

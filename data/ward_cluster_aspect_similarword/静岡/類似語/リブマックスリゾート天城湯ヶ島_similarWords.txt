@@ -1,0 +1,23 @@
+--------------------similar_words:リブマックスリゾート天城湯ヶ島--------------------
+top3 entities near to cluster1>>
+ホテル, ラウンジ, リゾート
+top3 entities near to cluster2>>
+ホタル, 流れ星, ヒメホタル
+top3 entities near to cluster3>>
+ホテル, デスク, ビジネス
+top3 entities near to cluster5>>
+川, 蛍, 光
+top3 entities near to cluster6>>
+状態, イン
+top3 entities near to cluster9>>
+価格, 評価
+top3 entities near to cluster13>>
+接客, 従業員, 従業
+top3 entities near to cluster14>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster15>>
+家族, 食事, 料理
+top3 entities near to cluster16>>
+露天風呂, 温泉, 浴場
+top3 entities near to cluster17>>
+風呂, 湯船, 露天風呂

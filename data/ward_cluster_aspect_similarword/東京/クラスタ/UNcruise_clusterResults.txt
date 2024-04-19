@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:UNcruise>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+船内, 船酔い, クルーズ船, 船
+cluster1:(11)
+マウント, 外, こと, 心配, 友人, 友達, 食事, 問題, 飲み物, 景色, 天候
+cluster2:(2)
+しお酒, 誕生日パーティー
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

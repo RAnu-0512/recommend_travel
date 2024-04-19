@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:守山八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+守山八幡宮, 守山
+cluster1:(14)
+再興, 石段, 狩野川, 中腹, 令旨, 鳥居, 階段, 神社, 源頼朝, 奥, 本殿, 近く, 先, 脇
+cluster2:(2)
+舞殿, 大銀杏
+cluster3:(2)
+平家追討, 源頼朝挙兵の碑
+cluster4:(2)
+石徳高神社, 願成就院
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 8entities.

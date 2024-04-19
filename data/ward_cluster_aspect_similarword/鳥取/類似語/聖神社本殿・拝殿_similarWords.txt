@@ -1,0 +1,15 @@
+--------------------similar_words:聖神社本殿・拝殿--------------------
+top3 entities near to cluster0>>
+拝殿, 本殿, 社殿
+top3 entities near to cluster1>>
+土台, 部分, 一部分
+top3 entities near to cluster2>>
+動物, 彫刻
+top3 entities near to cluster3>>
+干支, 十二支, 酉
+top3 entities near to cluster4>>
+指定, 文化財, 天然記念物
+top3 entities near to cluster5>>
+聖, 誕劇, 也派
+top3 entities near to cluster6>>
+躍動感, 躍動, 臨場感, 臨場

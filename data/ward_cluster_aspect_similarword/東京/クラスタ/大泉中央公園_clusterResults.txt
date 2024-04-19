@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大泉中央公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+凧あげ, 安心感, 段ボール坂滑り
+cluster1:(7)
+噴水, 芝生, 公園, 散歩, 広場, 噴水広場, 遊具
+cluster2:(5)
+大人, 子供, 学年, 子ども達, 子供たち
+cluster3:(11)
+水, 場所, 隣, 花, 緑, 奥, 時間, 敷地, 道, 大泉学園町, 隣接
+cluster4:(19)
+水遊び, 子連れ, オススメ, ボール, 人, 他, 家族, アスレチック, オムツ, 上, 遊び場, 子, プール, 方, スポット, 雰囲気, あちこち, 運動公園, のび
+cluster5:(4)
+季節, 夏場, 夏, 天気
+cluster6:(2)
+水深, 保安スタッフ
+cluster7:(4)
+和光市, 樹林公園, 練馬区, 大泉中央公園
+cluster8:(5)
+駐車場, 野球場, 水場, 水遊び場, 陸上競技場
+
+howmany entities : 60
+howmany clusters : 9
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 9
+deleted 0entities.

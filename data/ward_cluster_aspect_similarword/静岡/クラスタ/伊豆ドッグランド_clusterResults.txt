@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆ドッグランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大型犬, 犬
+cluster1:(2)
+ラン, 有料ドッグラン
+cluster2:(10)
+気, 店員, ドッグラン, 当方, 注意, 無愛想, 入り口, もの, 状態, 始末
+cluster3:(3)
+穴, スエット姿, 道
+cluster4:(2)
+貸切状態, テラス席
+cluster5:(1)
+ドアノブ
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 7entities.

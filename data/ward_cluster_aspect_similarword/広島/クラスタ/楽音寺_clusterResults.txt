@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:楽音寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, 楽音寺
+cluster1:(1)
+本郷
+cluster2:(1)
+藤原
+cluster3:(1)
+三原市
+cluster4:(1)
+純友
+cluster5:(1)
+藤原倫実
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

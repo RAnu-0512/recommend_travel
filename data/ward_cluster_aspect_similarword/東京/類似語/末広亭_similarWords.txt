@@ -1,0 +1,49 @@
+--------------------similar_words:末広亭--------------------
+top3 entities near to cluster0>>
+桟敷, 席, 座席
+top3 entities near to cluster1>>
+椅子, 席, 座席
+top3 entities near to cluster2>>
+席, 座席, 客席
+top3 entities near to cluster3>>
+庶民, 町人, 民衆
+top3 entities near to cluster4>>
+世界, 国内, 現代
+top3 entities near to cluster5>>
+外国, 若手, 女性
+top3 entities near to cluster7>>
+建物, 外観, 家屋
+top3 entities near to cluster9>>
+足, 頭, 後足
+top3 entities near to cluster11>>
+時間, 間, 半年
+top3 entities near to cluster12>>
+ナマ生, ナマ
+top3 entities near to cluster14>>
+雰囲気, 見物, 娯楽
+top3 entities near to cluster15>>
+臨場感, 緊迫感, 臨場, 緊迫
+top3 entities near to cluster16>>
+雑貨屋, 土産屋, 雑貨, 土産
+top3 entities near to cluster17>>
+飲食店, 飲食, レストラン
+top3 entities near to cluster18>>
+お客, 外客, 乗客
+top3 entities near to cluster19>>
+古典芸, 芸能, 古典
+top3 entities near to cluster20>>
+演目, 前座, 演者
+top3 entities near to cluster21>>
+芸人, 漫才, お笑い
+top3 entities near to cluster22>>
+小僧
+top3 entities near to cluster23>>
+時間, 開演, 開場
+top3 entities near to cluster24>>
+生徒, 夫婦
+top3 entities near to cluster25>>
+体験, 初, 体感
+top3 entities near to cluster26>>
+活性, 化, 具現
+top3 entities near to cluster27>>
+落語, 寄席, 演芸

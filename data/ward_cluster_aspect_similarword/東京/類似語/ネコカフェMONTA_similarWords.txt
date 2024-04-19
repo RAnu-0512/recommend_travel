@@ -1,0 +1,7 @@
+--------------------similar_words:ネコカフェMONTA--------------------
+top3 entities near to cluster0>>
+猫, ネコ, ニャンコ
+top3 entities near to cluster1>>
+猫, ネコ, ねこ
+top3 entities near to cluster2>>
+感覚, 気分, 雰囲気

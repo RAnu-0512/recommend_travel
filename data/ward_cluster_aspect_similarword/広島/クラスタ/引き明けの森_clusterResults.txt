@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:引き明けの森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+森, 全体
+cluster1:(1)
+面積
+cluster2:(1)
+広島県
+cluster3:(1)
+樹齢
+cluster4:(1)
+引き明け
+cluster5:(1)
+原生林
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

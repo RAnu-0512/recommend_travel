@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ローソンストア100 四谷二丁目店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+新宿区, 東京都, 四谷
+cluster1:(18)
+コンビニ, ドリンク, ほろ苦, 値段, 野菜, スーパー, 界隈, 家族, 時期, パン, ミルク, 表, ローソン, 価格, 営業, 菓子パン, ローソンストア100, アイスコーヒー
+cluster2:(2)
+地価, 住宅街
+cluster3:(1)
+ローソンストア100四谷二丁目店
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 4
+deleted 0entities.

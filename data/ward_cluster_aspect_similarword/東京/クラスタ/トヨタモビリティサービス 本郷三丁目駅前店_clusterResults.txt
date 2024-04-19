@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタモビリティサービス 本郷三丁目駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅, 車, 郊外
+cluster1:(7)
+ココ, レンタル, トヨタレンタリース, 用, 右, 目, 前
+cluster2:(1)
+本郷
+cluster3:(1)
+トヨタレンタリース東京本郷三丁目駅
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

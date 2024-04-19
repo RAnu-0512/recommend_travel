@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お岩屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川奈, 川奈いるか浜公園
+cluster1:(8)
+到着, 俎岩, 上, 日蓮上人, 岩, 漁師, 岩屋, 海中
+cluster2:(1)
+御岩屋祖師堂
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 3entities.

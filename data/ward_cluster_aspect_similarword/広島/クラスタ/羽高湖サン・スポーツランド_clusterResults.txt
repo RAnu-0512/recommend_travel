@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽高湖サン・スポーツランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+多目的広場, 多目的グランド, 多目的グラウンド
+cluster1:(2)
+広島県, 府中市
+cluster2:(26)
+施設, 中心, 老若男女楽しめる施設, 眺望, テニス, サン・スポーツランド, 敷地, 桜, キャンプ, 花, 羽高湖, 周辺, スポーツ, 湖, スカイサイクル, 名所, キャンプ場, 森, グラウンド, 木, スポーツランド, 花見, テニスコート, 自然, 満開, ローラースケート場
+cluster3:(2)
+遊園地, 照明設備
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 4
+deleted 0entities.

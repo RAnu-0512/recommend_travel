@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:すいすいパークぷるる>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+室内温水プール, 室内温水プール., 温水プール
+cluster1:(24)
+水着, リラクゼーションプール, 温泉, カルチャースクール, 服装, 家族連れ, シム, 水泳帽, プール, 大人, 流水プール, 人, 交通手段, 車., サウナ, アドバイス, 露天, 割, ジム, おすすめポイント, 風呂, 浴場, コスパ, 昼間
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:むかし田舎体験 水車むら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供達, 子供たち
+cluster1:(2)
+薪, 刃物
+cluster2:(4)
+家族, 大人, 子供, 親子
+cluster3:(2)
+雨, 屋内
+cluster4:(17)
+魚, タル, ご飯, 小学校, つかみ取り, 川, 囲炉裏, 薪割り, やつ, 川遊び, ヤマメ, 掴み取り, 米, 昼食, おもちゃ, オーナー, 丸
+cluster5:(10)
+火, 目, 夏期間, 水まんじゅう, 半分, 時間, 状態, 様子, 形, サポート程度
+cluster6:(2)
+釜炊き体験7囲炉裏, 炊きご飯
+cluster7:(7)
+おにぎり体験9囲炉裏, 体験内容, 掴み取り体験, 田舎暮らし体験, 体験, 串打ち体験, 焼き体験
+cluster8:(3)
+野菜&魚, 煎餅, 煎餅焼き
+cluster9:(1)
+1薪割り体験大きい薪⇒斧で薪割り小さな薪⇒鉈で薪割り2魚
+
+howmany entities : 50
+howmany clusters : 10
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 5
+deleted 9entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オートキャンプ花沢>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+綺麗さ, ワクワク重視
+cluster1:(11)
+忘れ物, バス, 思い出, キリン, 利用, 風呂, キャンプ, 夏, 男の子, バンガロー, ワクワク
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 2entities.

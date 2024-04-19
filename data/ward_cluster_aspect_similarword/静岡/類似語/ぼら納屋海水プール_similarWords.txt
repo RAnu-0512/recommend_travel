@@ -1,0 +1,9 @@
+--------------------similar_words:ぼら納屋海水プール--------------------
+top3 entities near to cluster1>>
+冷水, 温水, 消毒
+top3 entities near to cluster2>>
+海水, 海, 海岸
+top3 entities near to cluster3>>
+岩石, 岩, 岩場
+top3 entities near to cluster4>>
+プール, 海水浴, ビーチ

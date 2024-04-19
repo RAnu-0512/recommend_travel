@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カイナニパドルスポーツ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+気, SUP, ルール, 友達, 内浦湾, インストラクター
+cluster1:(3)
+指導, 準備, 電話
+cluster2:(1)
+天気
+cluster3:(1)
+駐車場
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

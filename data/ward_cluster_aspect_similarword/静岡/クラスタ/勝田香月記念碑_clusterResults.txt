@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝田香月記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本居長世記念碑, 勝田香月記念碑
+cluster1:(2)
+中央辺り, 反対側
+cluster2:(3)
+詩, 歌, 詩人
+cluster3:(2)
+歌碑, 石碑
+cluster4:(19)
+案内, 園内, 記念碑, こと, 入り口, びゅう, 出身, びゅうお, 入口, 松原, 名前, 中, 公園, 近く, 松林, 場所, 港, ゆかり, 御影石
+cluster5:(1)
+出船
+cluster6:(7)
+沼津, 飲食店街, 千本浜, 勝田香, 港口公園, 沼津港, 大型展望水門
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 7entities.

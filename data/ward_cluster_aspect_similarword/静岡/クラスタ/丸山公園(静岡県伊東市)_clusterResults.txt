@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸山公園(静岡県伊東市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+雨, 紅葉, 時期, 秋, 赤, 梅雨, 梅, 花, 黄色, 桜, 紅葉シーズン, 天気, 季節
+cluster1:(13)
+起点, 往復, 稜線, 南西, 戦い, 階段, 山頂, 展望エリア, 大平山ハイキング, 到着, 穴場, 山, 道
+cluster2:(8)
+体, 心, 写真, 空気, 景色, 自然, 弁当, 風景
+cluster3:(3)
+きれいさ, こと, 感じ
+cluster4:(2)
+ハイキングコース, コース
+cluster5:(3)
+紅葉狩り, モミジ, ホタル
+cluster6:(2)
+新幹線, 富士山
+cluster7:(6)
+アクセス, スペース, ところ, 気持ち, のぼり, 市街地
+cluster8:(3)
+人, 近く, 場所
+cluster9:(1)
+東京
+cluster10:(14)
+駐車場, 鑑賞, 家族連れ, 伊東駅, 伊東, 丸山公園, ホタル観賞, 四季折々, 翌日夜, 公園全体, 公園, 鑑賞日, 自然公園, 閉園ぎりぎり
+
+howmany entities : 68
+howmany clusters : 11
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 8
+deleted 5entities.

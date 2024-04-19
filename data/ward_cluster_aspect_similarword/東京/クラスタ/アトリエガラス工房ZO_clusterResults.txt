@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アトリエガラス工房ZO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+ワインレッド, ガラス, コップ, スタッフ, グラス, ところ, ユーモア, お気に入り, フレンドリー, リズム, テキパキ, 色
+cluster1:(5)
+女, 笑顔, 子供, 口, 先生
+cluster2:(1)
+水玉
+cluster3:(3)
+制作, 作業, 工程
+cluster4:(2)
+体験, 予約
+cluster5:(2)
+自力, 段階
+cluster6:(2)
+方, もの
+cluster7:(2)
+最後, 他
+cluster8:(1)
+形
+cluster9:(1)
+説明
+cluster10:(1)
+予想
+cluster11:(1)
+歪み
+cluster12:(2)
+許容範囲, 時間帯
+cluster13:(3)
+吹き方, 熔け具合, 拭きガラス体験
+
+howmany entities : 38
+howmany clusters : 14
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 14
+deleted 0entities.

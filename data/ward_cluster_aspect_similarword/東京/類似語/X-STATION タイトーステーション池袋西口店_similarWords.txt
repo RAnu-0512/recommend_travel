@@ -1,0 +1,21 @@
+--------------------similar_words:X-STATION タイトーステーション池袋西口店--------------------
+top3 entities near to cluster0>>
+臨場感, 臨場
+top3 entities near to cluster1>>
+通路, 壁面, 屋敷
+top3 entities near to cluster2>>
+ゲーム, 遊ぶ, ドライビングゲーム
+top3 entities near to cluster3>>
+身体, からだ
+top3 entities near to cluster4>>
+投影, 撮影, 映し出す
+top3 entities near to cluster5>>
+展開, 構成, 動き
+top3 entities near to cluster6>>
+混雑, 同時, 込み合う
+top3 entities near to cluster7>>
+担当者, 担当, 携わる
+top3 entities near to cluster8>>
+楽しい, 難い, おもしろ
+top3 entities near to cluster9>>
+空間, 予約, 事前

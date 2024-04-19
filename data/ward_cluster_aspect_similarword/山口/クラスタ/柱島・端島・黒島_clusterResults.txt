@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柱島・端島・黒島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+漁業, 景観, 釣り
+cluster1:(3)
+地, 中心, 海水浴場
+cluster2:(4)
+柱島, 端島, 黒島, 岩国港
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

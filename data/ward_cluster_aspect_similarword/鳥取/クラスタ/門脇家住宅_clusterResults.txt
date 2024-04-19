@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:門脇家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光駐車場, 駐車場
+cluster1:(4)
+パンフレット, 造り, こと, もの
+cluster2:(3)
+屋根, 住宅, 住居
+cluster3:(1)
+門脇家
+cluster4:(4)
+右衛門, 大庄屋役所, 町立武道館, 明和6
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

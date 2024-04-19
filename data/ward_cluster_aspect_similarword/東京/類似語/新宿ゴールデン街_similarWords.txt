@@ -1,0 +1,75 @@
+--------------------similar_words:新宿ゴールデン街--------------------
+top3 entities near to cluster0>>
+飲み屋, 居酒屋, 行きつけ
+top3 entities near to cluster1>>
+キャリー, チャージ, キャリーバッグ
+top3 entities near to cluster2>>
+ディープ, 穴場, デートスポット
+top3 entities near to cluster3>>
+マスター, ゴールデン, グランド
+top3 entities near to cluster4>>
+イタリアン, 居酒屋, ショットバー
+top3 entities near to cluster5>>
+イメージ, 色とりどり, お気に入り
+top3 entities near to cluster6>>
+スナップ, ポートレート, ストリートスナップ
+top3 entities near to cluster7>>
+ざわざわ, ざわつく, ざわめく
+top3 entities near to cluster8>>
+エリア, テレビ, テレビ局
+top3 entities near to cluster9>>
+ススメ, オススメ, おすすめ
+top3 entities near to cluster10>>
+ネック, タイム, タイプ
+top3 entities near to cluster11>>
+街並み, 賑わい, 町並み
+top3 entities near to cluster12>>
+外国人, 外国, 人達
+top3 entities near to cluster13>>
+料理店, 料理, 飲み屋
+top3 entities near to cluster14>>
+敷地, 建物, 立地
+top3 entities near to cluster15>>
+空間, 環境, 町
+top3 entities near to cluster16>>
+面積, 表面積, 受風
+top3 entities near to cluster17>>
+通路, 出入り口
+top3 entities near to cluster18>>
+昼間, 昼, 夜
+top3 entities near to cluster19>>
+籠, ゴミ, ごみ
+top3 entities near to cluster20>>
+海外, 国内, 世界
+top3 entities near to cluster21>>
+足, 身体
+top3 entities near to cluster23>>
+時間数, 時間程度, 時間
+top3 entities near to cluster24>>
+想定外, 想定内, 想定
+top3 entities near to cluster25>>
+受付, 受付け, 予約
+top3 entities near to cluster26>>
+常連, 顔なじみ, お客
+top3 entities near to cluster27>>
+名物, 看板, 一角
+top3 entities near to cluster28>>
+友人, 昔, 地元
+top3 entities near to cluster29>>
+世代, 時代, 同年代
+top3 entities near to cluster30>>
+女性人, 女性, 若者
+top3 entities near to cluster32>>
+個性, 独特, 独創
+top3 entities near to cluster33>>
+香り
+top3 entities near to cluster34>>
+活気, 風情, 雰囲気
+top3 entities near to cluster36>>
+繁華街, 繁華, 路地
+top3 entities near to cluster37>>
+古い, 良い, よい
+top3 entities near to cluster39>>
+存在感, 存在, 漂う
+top3 entities near to cluster40>>
+異, 世界, 次元

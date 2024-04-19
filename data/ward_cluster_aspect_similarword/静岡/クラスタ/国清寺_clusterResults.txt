@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国清寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+屑野菜, 国清汁, 汁
+cluster1:(3)
+木々, 境内, 寺
+cluster2:(2)
+歴史, 規模
+cluster3:(2)
+釈迦堂, 国清寺
+cluster4:(3)
+中, 雰囲気, 方
+cluster5:(2)
+途中, 前
+cluster6:(1)
+店
+cluster7:(1)
+姿
+cluster8:(1)
+立膝
+cluster9:(1)
+味噌仕立て
+cluster10:(3)
+地蔵, 子育て地蔵, 天狗伝説
+cluster11:(1)
+思惟姿
+cluster12:(1)
+畑毛温泉
+cluster13:(1)
+楓林庵
+cluster14:(8)
+伊豆韮山, 伊豆函南町, 伊豆の国市, 韮山, 関東管領, 関東十刹, 室町時代創建, 上杉憲顕
+
+howmany entities : 33
+howmany clusters : 15
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 5
+deleted 13entities.

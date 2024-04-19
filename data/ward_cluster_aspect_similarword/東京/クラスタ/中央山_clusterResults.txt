@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中央山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展望台, 駐車場
+cluster1:(10)
+人, 山, 場所, バイク, バス停, 頂上, 港, 貸し切り状態, レンタカー, 名前
+cluster2:(3)
+夕陽, 眺め, 眺望
+cluster3:(1)
+父島
+cluster4:(1)
+中央付近
+cluster5:(1)
+固有植物
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

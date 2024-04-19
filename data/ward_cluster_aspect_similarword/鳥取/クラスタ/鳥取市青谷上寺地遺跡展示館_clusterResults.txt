@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取市青谷上寺地遺跡展示館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青谷上寺地遺跡展示館, 青谷上寺地遺跡
+cluster1:(27)
+意義, 建物, 青谷駅, 奥, 中, 仮設, 一部, 古代人, 鳥取方面, 到着, こと, 興味, 学芸員, JR, 弥生時代, 脳, 鳥取, 人, 出土品, 遺跡, 展示物, 施設, 方, 本物, 弥生, プレハブ, 展示館
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須賀神社のクス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東海道五, 三次ウォーキング
+cluster1:(2)
+楠, 大木
+cluster2:(2)
+脇, 木
+cluster3:(5)
+歴史, 東海道, クスノキ, 風情, 苔
+cluster4:(1)
+クス
+cluster5:(1)
+推定樹齢
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 8entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:書泉ブックタワー--------------------
+top3 entities near to cluster0>>
+泉書, 泉, ブックマート
+top3 entities near to cluster1>>
+書店, 本屋, 古本屋
+top3 entities near to cluster2>>
+揃え, そろえ
+top3 entities near to cluster4>>
+都, 区, 区内
+top3 entities near to cluster5>>
+書籍, 専門, 分野

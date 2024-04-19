@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善性寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+将軍徳川家宣, 徳川六代将軍家宣
+cluster1:(10)
+JR, 寺, 南東方向, 日蓮宗, 日暮里, 東日暮里5丁目, 山門, 長昌院, 将軍家ゆかり, 生母
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

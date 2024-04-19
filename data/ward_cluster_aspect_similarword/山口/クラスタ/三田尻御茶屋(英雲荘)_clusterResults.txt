@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三田尻御茶屋(英雲荘)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+釘隠し, 裏紋, 裏門, 次, 改修, 庭, 間違い, 屋根, 防府
+cluster1:(2)
+毛利邸, 英雲
+cluster2:(1)
+桧皮ぶき
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

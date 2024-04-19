@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:火の山公園_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+花見, 散り行く桜, トルコチューリップも桜, お花見, 観光客
+cluster1:(2)
+下関市, 関門橋
+cluster2:(2)
+海, 山
+cluster3:(2)
+桜, 花
+cluster4:(2)
+チューリップ畑, 斜面
+cluster5:(1)
+花園
+cluster6:(15)
+関係, 火, トルコ, コーヒーカップ, トルコチューリップ, 関門海峡, 器, 花びら, イスタンブール, 場所, チューリップ, ロープウェイ, ツツジ, 下, 周囲
+cluster7:(6)
+姉妹都市, 景色, 公園, 風景, 絶景, 山公園
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 8
+deleted 0entities.

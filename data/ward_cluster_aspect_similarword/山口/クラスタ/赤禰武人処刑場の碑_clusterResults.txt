@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤禰武人処刑場の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人, 歴史
+cluster1:(1)
+碑
+cluster2:(1)
+河原
+cluster3:(1)
+刑場
+cluster4:(1)
+赤禰
+cluster5:(1)
+赤根武
+cluster6:(1)
+ゴミ捨て場
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

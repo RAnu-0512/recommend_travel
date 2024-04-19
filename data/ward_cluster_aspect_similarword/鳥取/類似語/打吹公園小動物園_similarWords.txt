@@ -1,0 +1,13 @@
+--------------------similar_words:打吹公園小動物園--------------------
+top3 entities near to cluster0>>
+動物園, 植物園, 動物, 植物
+top3 entities near to cluster1>>
+動物, 動植物, 生き物
+top3 entities near to cluster2>>
+シカ, ヤギ, カメ
+top3 entities near to cluster3>>
+動物, 鳥, エサ
+top3 entities near to cluster4>>
+ブタ, ミニ, 豚
+top3 entities near to cluster6>>
+打吹, 公園, 桜淵

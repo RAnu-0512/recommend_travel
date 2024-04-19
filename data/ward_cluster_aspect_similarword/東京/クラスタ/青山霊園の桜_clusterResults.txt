@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青山霊園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+青山霊園, 青山一丁目駅, 外苑駅
+cluster1:(14)
+人, きれい, 間, 気持ち, ところ, 墓地, 青山, 墓, 都, 桜並木, 観察, 道, サクラ, ゴザ
+cluster2:(7)
+穴場, 桜スポット, 花見, 名所, 桜越し, 桜, 花見スポット
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 3
+deleted 0entities.

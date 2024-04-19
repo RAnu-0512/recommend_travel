@@ -1,0 +1,109 @@
+--------------------similar_words:東京大学--------------------
+top3 entities near to cluster0>>
+大学, 東大, 京大
+top3 entities near to cluster2>>
+区, 区内, 都
+top3 entities near to cluster3>>
+並木, 大木, 銀杏
+top3 entities near to cluster4>>
+三, 四, 五
+top3 entities near to cluster5>>
+トップ, 最高峰, トップクラス
+top3 entities near to cluster6>>
+図書館, 地下鉄, バス停
+top3 entities near to cluster7>>
+見応え, 出し物, 見ごたえ
+top3 entities near to cluster8>>
+一般人, 有名人, 出入り
+top3 entities near to cluster9>>
+コンビニ, ショップ, グッズ
+top3 entities near to cluster10>>
+テーマ, メイン, イメージ
+top3 entities near to cluster11>>
+シーン, 雰囲気, 場面
+top3 entities near to cluster12>>
+テスト, クラス, ノート
+top3 entities near to cluster13>>
+三四郎, みのる, さんする
+top3 entities near to cluster14>>
+カフェ, ランチ, レストラン
+top3 entities near to cluster16>>
+スター, バックス, オーシャン
+top3 entities near to cluster17>>
+時間, 時間帯
+top3 entities near to cluster18>>
+休日, 週末, 夕方
+top3 entities near to cluster19>>
+人々, 人達
+top3 entities near to cluster20>>
+家族, 友人, 知人
+top3 entities near to cluster21>>
+娘, 息子, 父親
+top3 entities near to cluster22>>
+学生, 大学生, 大学
+top3 entities near to cluster24>>
+伝統, 自然, 人間
+top3 entities near to cluster25>>
+構成, 展開
+top3 entities near to cluster26>>
+満載, 解禁, 盛り沢山
+top3 entities near to cluster27>>
+出店, 開催, 出展
+top3 entities near to cluster30>>
+風情, 趣き, 雰囲気
+top3 entities near to cluster31>>
+研究, 総合, 博物館
+top3 entities near to cluster32>>
+建築, 建造, 建物
+top3 entities near to cluster33>>
+研究会, 研究, 研究室
+top3 entities near to cluster34>>
+展示, 常設, 模型
+top3 entities near to cluster35>>
+空間, 絵画展, 絵画
+top3 entities near to cluster36>>
+記念, 館, 写真
+top3 entities near to cluster37>>
+文化祭, 文化学, 文化
+top3 entities near to cluster38>>
+敷地, 敷地内, 中庭
+top3 entities near to cluster39>>
+駅, 駅前, 構内
+top3 entities near to cluster40>>
+周辺, 近辺, 大学
+top3 entities near to cluster41>>
+構内, 大学, 駅
+top3 entities near to cluster42>>
+飲食店, 食堂, 飲食
+top3 entities near to cluster43>>
+撮影, 写真, 撮っ
+top3 entities near to cluster44>>
+見学, 視察, 展示
+top3 entities near to cluster45>>
+散歩, 散策, 出掛け
+top3 entities near to cluster46>>
+学力, 教科, 国語
+top3 entities near to cluster47>>
+銅像, 胸像
+top3 entities near to cluster48>>
+学校, 校舎, 教員
+top3 entities near to cluster49>>
+料理, 食事, 土産
+top3 entities near to cluster50>>
+都心, 南北, 東西
+top3 entities near to cluster51>>
+道路, 公園, 地図
+top3 entities near to cluster52>>
+名所, 紅葉, 紅葉狩り
+top3 entities near to cluster53>>
+展望, レストラン, 眺望
+top3 entities near to cluster54>>
+建物, 風景, 正門
+top3 entities near to cluster55>>
+豆腐屋, 定食屋, 定食, 豆腐
+top3 entities near to cluster56>>
+学生, 大学生, 大学院生
+top3 entities near to cluster57>>
+学生, 大勢, 人達
+top3 entities near to cluster58>>
+友達, 同士, 家族

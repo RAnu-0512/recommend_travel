@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シルクロードミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+民家, 古民家
+cluster1:(2)
+美しさ, 素晴らしさ
+cluster2:(2)
+思い出, 夏休み
+cluster3:(5)
+雰囲気, ミュージアム, 正倉院宝物, コーヒー, チョコレート
+cluster4:(2)
+時間, 作品
+cluster5:(2)
+庭園, 名品
+cluster6:(2)
+国立博物館, 展示数
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 12entities.

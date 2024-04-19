@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 広島
+cluster1:(2)
+神社, 清神社
+cluster2:(3)
+サンフレッチェ, サポーター, 旗
+cluster3:(1)
+必勝祈願
+cluster4:(1)
+安芸高田市
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

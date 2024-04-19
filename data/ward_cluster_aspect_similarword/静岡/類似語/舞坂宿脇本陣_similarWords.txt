@@ -1,0 +1,19 @@
+--------------------similar_words:舞坂宿脇本陣--------------------
+top3 entities near to cluster0>>
+通行, 駐車, 入館
+top3 entities near to cluster2>>
+便所, 風呂, トイレ
+top3 entities near to cluster5>>
+部屋, 和室, 寝室
+top3 entities near to cluster6>>
+建物, 施設, 設備
+top3 entities near to cluster7>>
+女性家, 女性, 男性
+top3 entities near to cluster11>>
+本陣, 陣所
+top3 entities near to cluster12>>
+宿場, 長屋, 武家
+top3 entities near to cluster13>>
+舞坂, 舞阪, 宿
+top3 entities near to cluster14>>
+宿場, 町, 宿

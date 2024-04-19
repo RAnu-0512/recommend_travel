@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大内氏遺跡附凌雲寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ヌタ場, 駐車場, 駐車可
+cluster1:(3)
+表示板, 高さ, 案内板
+cluster2:(3)
+石垣, 大内, 山口市
+cluster3:(10)
+付近, 寺, 軒先, 跡, 交差点, 国道, 場所, 道路, 集落, 民家
+cluster4:(1)
+凌雲寺
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

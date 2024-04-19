@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滑沢渓谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+紅葉, 天城山, 渓谷
+cluster1:(3)
+碑, 国道, 道
+cluster2:(1)
+猟銃
+cluster3:(1)
+駐車場
+cluster4:(1)
+井上靖
+cluster5:(1)
+御土産店
+cluster6:(1)
+ぐちやぐち
+
+howmany entities : 11
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 5entities.

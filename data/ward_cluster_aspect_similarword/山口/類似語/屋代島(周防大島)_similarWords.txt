@@ -1,0 +1,19 @@
+--------------------similar_words:屋代島(周防大島)--------------------
+top3 entities near to cluster0>>
+海沿い, 海辺, 地元
+top3 entities near to cluster1>>
+直売, 狩り, 果物
+top3 entities near to cluster2>>
+金魚, 肉
+top3 entities near to cluster3>>
+景色, 温泉, 地図
+top3 entities near to cluster4>>
+駅道, 道路, 駅
+top3 entities near to cluster5>>
+海水浴場, 海水浴, 場裏
+top3 entities near to cluster6>>
+関門, トンネル, 山越え
+top3 entities near to cluster7>>
+海岸, 港, 光
+top3 entities near to cluster8>>
+館, 記念, 記念碑

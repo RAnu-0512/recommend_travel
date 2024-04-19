@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線 二重橋前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入口, 通路
+cluster1:(2)
+地上, 地下
+cluster2:(11)
+都会, 地下道, 三田線, 有楽町線, 丸の内, 工事, 影響, 地下鉄, 丸ビル, 方, 乗り換え
+cluster3:(7)
+日比谷駅, 皇居, 千代田線, 駅, 東京駅, 大手町駅, 東京メトロ
+cluster4:(3)
+重橋駅, 橋前駅, 二重橋前駅
+cluster5:(2)
+連絡側, 連絡通路からさ
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

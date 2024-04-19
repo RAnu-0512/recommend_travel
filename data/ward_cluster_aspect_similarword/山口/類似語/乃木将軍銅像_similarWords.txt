@@ -1,0 +1,11 @@
+--------------------similar_words:乃木将軍銅像--------------------
+top3 entities near to cluster0>>
+乃木, 将軍, ぎまれすけ
+top3 entities near to cluster1>>
+墓所, 境内, 銅像
+top3 entities near to cluster2>>
+将軍, 帰省
+top3 entities near to cluster3>>
+神社, 境内, 宮司
+top3 entities near to cluster4>>
+寺, 苑, 覚

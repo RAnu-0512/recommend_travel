@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南桜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+新橋駅, 内幸町駅, 駅
+cluster1:(2)
+桜公園, 桜
+cluster2:(6)
+吉野家, 愛宕山, 人, マッカーサー, トイレ, ベンチ
+cluster3:(3)
+途中, 近く, 意外
+cluster4:(1)
+裏
+cluster5:(3)
+虎ノ門ヒルズ, 芝生, 日比谷通り
+cluster6:(1)
+雑踏
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 7
+deleted 0entities.

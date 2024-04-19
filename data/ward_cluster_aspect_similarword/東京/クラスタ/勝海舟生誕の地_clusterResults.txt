@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝海舟生誕の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+男谷家, 兵学, 公園, 両国, 両国公園, 吉良, 父小吉
+cluster1:(2)
+文章, 長文
+cluster2:(3)
+片隅, 一角, 跡
+cluster3:(9)
+意味, 地, 人, 人物, 関係, 由来, 案内, 矢印, 中
+cluster4:(2)
+勝, 生涯
+cluster5:(5)
+両国橋, 討ち入り, スマホナビ, 吾妻橋, 忠臣蔵
+cluster6:(2)
+実家, 父
+cluster7:(2)
+近く, 夕方
+cluster8:(6)
+石碑, 記念撮影, 碑文, 誕生, 碑, 生誕
+cluster9:(6)
+説明板, 案内板, ゴッホの椅子, 椅子, 子供たち, ゴーギャンの椅子
+cluster10:(9)
+松坂町公園, 勝海舟生誕の地, JR両国駅, 本所亀沢, 坂本龍馬, 西郷隆盛, 勝海舟, 本所, 吉良邸跡
+
+howmany entities : 53
+howmany clusters : 11
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 11
+deleted 0entities.

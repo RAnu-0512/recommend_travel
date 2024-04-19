@@ -1,0 +1,25 @@
+--------------------similar_words:弓ヶ浜(夜見ケ浜)--------------------
+top3 entities near to cluster0>>
+景色, 絶景, 景観
+top3 entities near to cluster1>>
+名称, 由来
+top3 entities near to cluster2>>
+先端付近, 付け根付近, 付け根, 先端
+top3 entities near to cluster4>>
+流れ, かたち
+top3 entities near to cluster5>>
+聖地, 歴史, 旅
+top3 entities near to cluster6>>
+海, 海岸, 山側
+top3 entities near to cluster7>>
+遺体, 階段, 死体
+top3 entities near to cluster8>>
+半島, 海岸, 砂浜
+top3 entities near to cluster9>>
+海岸, 海岸沿い, 砂浜
+top3 entities near to cluster10>>
+砂浜, 海岸, 浜辺
+top3 entities near to cluster11>>
+弓, 林
+top3 entities near to cluster13>>
+展望, 駐車場, 駐車

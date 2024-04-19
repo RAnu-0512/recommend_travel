@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:HMV渋谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東京都, 渋谷区, HMV渋谷店
+cluster1:(3)
+文化, 音楽関係, 音楽
+cluster2:(3)
+高木, 宇田川町, ビル
+cluster3:(2)
+CD, CDショップ
+cluster4:(4)
+曲, 時間, こと, もの
+cluster5:(9)
+タワレコ, カフェ, ジャンル, HMV, イメージ, ショップ, 取り扱い, レコードショップ, 地元
+cluster6:(1)
+視聴
+cluster7:(3)
+品揃え, 探し物, 時間潰し
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 8
+deleted 0entities.

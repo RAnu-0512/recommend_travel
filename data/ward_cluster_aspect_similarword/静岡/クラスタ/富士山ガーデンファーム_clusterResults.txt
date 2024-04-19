@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山ガーデンファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+安納芋, 安納芋そのもの
+cluster1:(8)
+気楽, 時期, こと, 体験, 時間, 感じ, 場所, 不安
+cluster2:(5)
+こっち, コロナ, おじさん, ビニールハウス, 焼き芋
+cluster3:(3)
+家族, 自宅, 旦那
+cluster4:(1)
+芋
+cluster5:(1)
+先月家族
+cluster6:(1)
+良さ
+cluster7:(6)
+駐車場, 保管方法, 保管, いちご狩り, 掘り方, 食べ方
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 5entities.

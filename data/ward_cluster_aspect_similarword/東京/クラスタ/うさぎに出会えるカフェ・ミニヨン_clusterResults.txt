@@ -1,0 +1,68 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:うさぎに出会えるカフェ・ミニヨン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+さぎ, ぞぉ, 清潔感, 可愛さ, ぬくもり感
+cluster1:(2)
+猫カフェ, 犬カフェ
+cluster2:(2)
+ウサギカフェ, うさぎカフェ
+cluster3:(2)
+うさぎちゃん, ウサギちゃん
+cluster4:(2)
+うさぎ, ウサギ
+cluster5:(1)
+^^)うさぎ
+cluster6:(3)
+子, 子うさぎ, うさちゃん
+cluster7:(2)
+ガラス戸, 撫
+cluster8:(1)
+動物園
+cluster9:(7)
+飲食スペース, 個室, 店, 部屋, 女性店員, 店内, 店員
+cluster10:(2)
+こども, 子ども
+cluster11:(2)
+ふれあいスペース, ふれあい
+cluster12:(1)
+タイム
+cluster13:(1)
+子連れ
+cluster14:(25)
+スタッフ, ドリンク, スリッパ, ベビーカー, パンケーキ, モフモフ, スタイル, ルール, スイーツ, 持ち物, 抱っこ, コメント, スポット, タイプ, オープン, ケージ, 見た目, ぬいぐるみ, フード, 仕切り, 兄さん, グループ, 男の子, マーキング, スペース
+cluster15:(6)
+カフェ, いちごアイス, カフェスペース, パフェ, 喫茶店, フレンチトースト
+cluster16:(4)
+ご飯, 食事, 食前, 食後
+cluster17:(3)
+幼児, 絵本, 大人
+cluster18:(2)
+散歩スポット, ふれあい体験
+cluster19:(2)
+世話, エサ
+cluster20:(3)
+服装, 性格, フワフワ毛並み
+cluster21:(7)
+参考, 気, こと, もの, 感じ, 説明, 注意
+cluster22:(2)
+周り, 友達
+cluster23:(4)
+方, 他, 中, 上
+cluster24:(1)
+時間
+cluster25:(1)
+外
+cluster26:(1)
+手
+cluster27:(3)
+木, 膝, 角
+cluster28:(1)
+触り方
+cluster29:(1)
+順番待ち
+
+howmany entities : 99
+howmany clusters : 30
+howmany entities (more than1entities) : 99
+howmany clusters (more than1entities) : 30
+deleted 0entities.

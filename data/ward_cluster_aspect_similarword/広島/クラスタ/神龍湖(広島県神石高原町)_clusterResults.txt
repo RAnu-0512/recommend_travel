@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神龍湖(広島県神石高原町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ダム, コンクリートダム, 湖, 神竜湖, ダム湖
+cluster1:(2)
+遊覧船, 景勝地
+cluster2:(5)
+紅葉, 橋, 紅葉時期, 水門, 紅葉橋
+cluster3:(9)
+断崖絶壁, 折角, 日本, 色, 幅, 姉, 部分, 景色, こと
+cluster4:(3)
+上帝釈峡, 陰, 龍
+cluster5:(3)
+昼食, 散策, バスツアー
+cluster6:(1)
+吐水門
+cluster7:(1)
+W広島県
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 8
+deleted 0entities.

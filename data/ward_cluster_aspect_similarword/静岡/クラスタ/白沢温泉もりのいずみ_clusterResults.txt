@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白沢温泉もりのいずみ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+一部, 大人, 内風呂, 人, シャワー, 湯上がり, 露天風呂, 中, 自然, 他
+cluster1:(3)
+値段, 感じ, 影響
+cluster2:(4)
+茶, 川, もり, 音
+cluster3:(1)
+何種類
+cluster4:(5)
+ブロワー故障, 送迎, 水質, 世話, 温度
+cluster5:(1)
+休憩所
+cluster6:(9)
+頭洗い, 男風呂, 温泉, 炭酸風呂, 日替わり湯, 風呂, 白沢温泉, 湯, 寝湯
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 5
+deleted 2entities.

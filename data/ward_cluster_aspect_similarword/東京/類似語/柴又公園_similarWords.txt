@@ -1,0 +1,23 @@
+--------------------similar_words:柴又公園--------------------
+top3 entities near to cluster0>>
+館, 記念, 洋次
+top3 entities near to cluster1>>
+帝釈天, 四ツ木, 京成金町
+top3 entities near to cluster2>>
+切, 矢, 裂魔
+top3 entities near to cluster5>>
+一帯, 辺り
+top3 entities near to cluster7>>
+開館, 閉館, 休館
+top3 entities near to cluster8>>
+川橋, 川, 鉄橋
+top3 entities near to cluster9>>
+堤防, 土手, 河川敷
+top3 entities near to cluster10>>
+上流, 下流, 中流
+top3 entities near to cluster12>>
+公園, 広場, 花壇
+top3 entities near to cluster13>>
+休憩, 東屋, 木陰
+top3 entities near to cluster14>>
+有数, 屈指, 随一

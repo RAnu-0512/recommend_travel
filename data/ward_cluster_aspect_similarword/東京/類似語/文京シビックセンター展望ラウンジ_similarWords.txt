@@ -1,0 +1,25 @@
+--------------------similar_words:文京シビックセンター展望ラウンジ--------------------
+top3 entities near to cluster0>>
+展望, 眺望, 見晴らし
+top3 entities near to cluster1>>
+高層階, 高層, ビル
+top3 entities near to cluster3>>
+ホテル, レストラン, 地下鉄
+top3 entities near to cluster4>>
+景色, 眺望, 夜景
+top3 entities near to cluster5>>
+地下階, 建物, 地下
+top3 entities near to cluster6>>
+方向, 方角, 向かう
+top3 entities near to cluster7>>
+中心, 全体, 一部
+top3 entities near to cluster8>>
+周り, 周囲
+top3 entities near to cluster10>>
+斜め, 真下, 真上
+top3 entities near to cluster11>>
+混雑, 羨望, ごった返し
+top3 entities near to cluster12>>
+高形, 円盤形, 円盤, 高
+top3 entities near to cluster13>>
+施設, 入場, 宿泊

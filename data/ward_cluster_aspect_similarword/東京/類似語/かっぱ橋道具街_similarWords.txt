@@ -1,0 +1,23 @@
+--------------------similar_words:かっぱ橋道具街--------------------
+top3 entities near to cluster0>>
+外国人, 外国, 外人
+top3 entities near to cluster3>>
+散策, 下車, 駅
+top3 entities near to cluster4>>
+暑い, 割れ
+top3 entities near to cluster5>>
+振替, 休日, 振り替え
+top3 entities near to cluster7>>
+調理, 器具, 道具
+top3 entities near to cluster8>>
+飲食店, 専門店, 飲食, 専門
+top3 entities near to cluster9>>
+食品, 食材店, 食材
+top3 entities near to cluster10>>
+道具, 小物, 料理
+top3 entities near to cluster11>>
+商店街, 繁華街, 商店, 繁華
+top3 entities near to cluster12>>
+道具街, 道具, 専門
+top3 entities near to cluster13>>
+合羽橋, 合羽, たもと

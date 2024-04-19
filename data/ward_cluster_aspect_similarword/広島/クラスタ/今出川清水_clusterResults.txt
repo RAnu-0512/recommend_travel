@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今出川清水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+方々, 地元
+cluster1:(1)
+場所
+cluster2:(1)
+水
+cluster3:(1)
+現役
+cluster4:(1)
+祠
+cluster5:(1)
+洗濯
+cluster6:(1)
+川清水
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:慶応義塾三田演説館--------------------
+top3 entities near to cluster0>>
+旧館, 本館, 新館
+top3 entities near to cluster1>>
+正門, 見学, 入口
+top3 entities near to cluster2>>
+大学国, 建物, 大学
+top3 entities near to cluster4>>
+総合, 評価, 過小
+top3 entities near to cluster6>>
+演説, 展示, 講演
+top3 entities near to cluster7>>
+館, 澤, 福

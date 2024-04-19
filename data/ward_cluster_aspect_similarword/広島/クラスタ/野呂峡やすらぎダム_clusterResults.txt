@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野呂峡やすらぎダム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川, 桜
+cluster1:(4)
+小学校, 記憶, 遠足, 時期
+cluster2:(1)
+整備
+cluster3:(1)
+ダム
+cluster4:(1)
+だり
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

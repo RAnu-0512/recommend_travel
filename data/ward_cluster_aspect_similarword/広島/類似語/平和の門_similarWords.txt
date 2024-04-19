@@ -1,0 +1,19 @@
+--------------------similar_words:平和の門--------------------
+top3 entities near to cluster1>>
+家族連れ, 反対, 家族
+top3 entities near to cluster4>>
+言語, 文字, 言葉
+top3 entities near to cluster5>>
+アート, パブリック, アーティスティック
+top3 entities near to cluster6>>
+モニュメント, メッセージ, シンボル
+top3 entities near to cluster7>>
+アーチ, ガラス, ライト
+top3 entities near to cluster8>>
+制作, 製作
+top3 entities near to cluster9>>
+被爆, 原爆, 強化
+top3 entities near to cluster10>>
+10, 11, 12
+top3 entities near to cluster11>>
+平和, 公園, 祈念

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:owlcafeふくろう茶房新宿店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+硝子ケース, 硝子, 硝子越し
+cluster1:(2)
+フクロウたち, 子達
+cluster2:(12)
+フクロウカフェ, ガラス, 他, フクロウ, 内装, 体験, オープン, 数, 写真, 中, 外, 感覚
+cluster3:(1)
+肩乗せ
+cluster4:(1)
+動物園
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

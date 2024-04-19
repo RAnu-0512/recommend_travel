@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:【休館中】晩香廬(国指定重要文化財)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+非公開, 山小屋
+cluster1:(3)
+色合い, デザイン, レンガ
+cluster2:(1)
+ダークブラウン
+cluster3:(1)
+撮影
+cluster4:(1)
+外
+cluster5:(1)
+禁止
+cluster6:(9)
+茶室, 内部, 建物, 応接, 暖炉, 庭園, 部屋, 別棟, 外観
+cluster7:(2)
+飛鳥山公園, 喜寿
+cluster8:(2)
+生活感, 付帯施設
+cluster9:(2)
+渋沢資料館, 渋沢栄一
+cluster10:(2)
+北区王子駅, 早朝街歩き
+cluster11:(2)
+青淵文庫, 晩香廬
+
+howmany entities : 28
+howmany clusters : 12
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 12
+deleted 0entities.

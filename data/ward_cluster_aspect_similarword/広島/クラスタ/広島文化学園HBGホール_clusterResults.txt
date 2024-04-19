@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島文化学園HBGホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+広島市, 平和記念公園, 広島駅, 広島市役所, 広島文化学園HBGホール
+cluster1:(2)
+舞台, 演劇
+cluster2:(3)
+会場, 客席, 演者
+cluster3:(6)
+南, 平和, 後方, 右側, 右, 南口
+cluster4:(2)
+段差, 距離
+cluster5:(2)
+タクシー代, バス
+cluster6:(14)
+コンパクトサイズ, 平和公園, ところ, アクセス, コンサート, ホール, 吹奏楽コンクール, イベント, ホテル, HBGホール, コインパーキング, 入り口, アーティスト, コンクール
+cluster7:(2)
+建物, 椅子
+cluster8:(2)
+子供, 人
+cluster9:(3)
+もの, 中, 方
+cluster10:(1)
+一体
+cluster11:(3)
+周辺, 催し, 各種コンサート
+cluster12:(1)
+収容
+cluster13:(1)
+駐車場
+cluster14:(1)
+親近感
+
+howmany entities : 48
+howmany clusters : 15
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 15
+deleted 0entities.

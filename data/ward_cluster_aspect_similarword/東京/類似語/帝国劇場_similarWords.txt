@@ -1,0 +1,85 @@
+--------------------similar_words:帝国劇場--------------------
+top3 entities near to cluster0>>
+劇場, 演劇, 舞台
+top3 entities near to cluster1>>
+地下鉄, 三田線, メトロ
+top3 entities near to cluster3>>
+コンサート, ライブ, ミュージカル
+top3 entities near to cluster4>>
+しょう, しょ, かしょう
+top3 entities near to cluster5>>
+雰囲気, 佇まい, たたずまい
+top3 entities near to cluster6>>
+コンサート, ホテル, レストラン
+top3 entities near to cluster8>>
+重厚, 風格, 迫力
+top3 entities near to cluster9>>
+某, どこぞ, 某社
+top3 entities near to cluster11>>
+娘, 妻, 息子
+top3 entities near to cluster12>>
+人々, 人達
+top3 entities near to cluster13>>
+家族, 友人, 知人
+top3 entities near to cluster14>>
+目線, 演者, 人達
+top3 entities near to cluster15>>
+昔, 時代, 人気
+top3 entities near to cluster16>>
+身近, 現実, 大人
+top3 entities near to cluster17>>
+聖地, 巡礼, 総本山
+top3 entities near to cluster18>>
+歌声, 千尋, ミス
+top3 entities near to cluster19>>
+距離, 間隔, 視野
+top3 entities near to cluster21>>
+行列, 混雑, 列
+top3 entities near to cluster22>>
+案内, 見学, 開催
+top3 entities near to cluster23>>
+設備, 施設, 建物
+top3 entities near to cluster24>>
+通路, 入り口, 出入り口
+top3 entities near to cluster25>>
+席, 座席, 全席
+top3 entities near to cluster26>>
+客席, 観客, 場内
+top3 entities near to cluster27>>
+座り心地, 座り, すわり
+top3 entities near to cluster28>>
+光一, 綾香, 平原
+top3 entities near to cluster29>>
+都, メトロ, 都内
+top3 entities near to cluster32>>
+区, 区内, 都
+top3 entities near to cluster34>>
+徒歩圏, 徒歩, 圏内
+top3 entities near to cluster35>>
+駅, 地下鉄, 各駅
+top3 entities near to cluster36>>
+都営, 交通, 都営地下鉄
+top3 entities near to cluster37>>
+駅, 勧め, 薦め
+top3 entities near to cluster38>>
+飲食店, 土産物店, 飲食, 土産物
+top3 entities near to cluster39>>
+鑑賞, 観賞
+top3 entities near to cluster40>>
+名作, 傑作, 名曲
+top3 entities near to cluster41>>
+映画, 作品, 大作
+top3 entities near to cluster42>>
+芝居, 演劇, 演技
+top3 entities near to cluster43>>
+出演陣, 俳優陣, 俳優, 出演
+top3 entities near to cluster44>>
+初演, 上演, 再演
+top3 entities near to cluster45>>
+開演, 終演, 閉演
+top3 entities near to cluster46>>
+公演, 上演, 演目
+top3 entities near to cluster47>>
+舞台, 観劇, 公演
+top3 entities near to cluster48>>
+緊張感, 漂う, 緊張

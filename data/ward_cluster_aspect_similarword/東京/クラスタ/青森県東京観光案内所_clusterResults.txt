@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青森県東京観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+観光, 途中, 店, スタッフ, メイン, アンテナショップ, りんご, 神楽坂, 青森, スイーツ, 加工品, 県, シードル, 酒, 飯田橋駅, パンフレット, 神宮, 東京大, 飯田橋, 靖国神社
+cluster1:(2)
+青森県会館, 東京観光案内所
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 2
+deleted 0entities.

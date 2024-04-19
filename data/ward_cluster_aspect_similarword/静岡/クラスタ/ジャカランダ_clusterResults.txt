@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジャカランダ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+糸川遊歩道, 街路樹, 宮, 松近く, 松, 花房, 南国, 熱海駅, 熱海, 日南市, こちら熱海, 南国風, 左前方, 宮崎, 熱帯地方, 木
+cluster1:(2)
+名刺, 視界
+cluster2:(2)
+準備, 作業
+cluster3:(4)
+方, 状態, 場所, こと
+cluster4:(2)
+色, 形
+cluster5:(7)
+母, 写真, 名前, 他, 足元, 近く, 参考
+cluster6:(1)
+匂い
+cluster7:(1)
+盛り
+cluster8:(19)
+メキシコ, ジャカランタ, ジャガランダ, 南アフリカ, サンビーチ, ビーチ, 海沿い, 遊歩道, ビジュアル, ラベンダー, ブーケンビリア, バーベナ, ジャカランダ, 手入れ, 東日本, 南半球, ライト, オーストラリア, 雰囲気
+cluster9:(3)
+海外, 日本, 南米
+cluster10:(2)
+本場, 名物
+cluster11:(3)
+観光ウェブサイト, 気候, 散歩
+cluster12:(2)
+ジャカランダ遊, 海
+cluster13:(2)
+歩道, サンビーチ沿い
+cluster14:(9)
+紫, 蕾, 花木, 満開, お花, 紫色, 黄色, 代表花, 花
+cluster15:(4)
+見頃情報, 信号待ち, ジャカランタじゃない?, 見頃
+
+howmany entities : 79
+howmany clusters : 16
+howmany entities (more than3entities) : 65
+howmany clusters (more than3entities) : 8
+deleted 14entities.

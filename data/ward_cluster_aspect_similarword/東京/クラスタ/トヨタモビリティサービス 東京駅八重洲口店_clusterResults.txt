@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタモビリティサービス 東京駅八重洲口店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レンタカー営業所, 営業所
+cluster1:(2)
+八重洲地下街, 地下街
+cluster2:(2)
+場所, レンタカー
+cluster3:(1)
+八重洲口
+cluster4:(1)
+東京駅
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:畑毛温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+薬用温泉, 畑毛温泉, 温泉街, 畑温泉, 温泉旅館
+cluster1:(24)
+フロント, 客, ぬるま湯, 温泉, 宿泊, におい, 効能, 水, スポンジ, プール, 温泉郷, メジャー温泉郷, 交互, 肌, 伊豆, 富士山, 露天風呂, 空, 様子, 入館, 保健所, 掃除, ティッシュ, 好み
+cluster2:(3)
+源泉温度, 源泉, 温度
+cluster3:(3)
+湯船, 浴槽, 風呂
+cluster4:(2)
+お湯, 湯
+cluster5:(1)
+日帰り入浴
+cluster6:(1)
+脱衣所
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 4
+deleted 4entities.

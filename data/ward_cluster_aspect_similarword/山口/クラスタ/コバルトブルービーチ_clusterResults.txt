@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コバルトブルービーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光客, 駐車場
+cluster1:(4)
+砂浜, 波, 沖縄, 海
+cluster2:(13)
+シーズン, コバルトブルー, 海水浴, 名前, ブルー, ビーチ, エメラルドグリーン, 右側, 人, コバルトブルービーチ, 気持ち, 夏場, 散歩
+cluster3:(1)
+灯台
+cluster4:(1)
+活気
+cluster5:(1)
+透明感
+cluster6:(5)
+里角島, 角島大橋, 角島, しおかぜの里 角島, しおかぜ
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

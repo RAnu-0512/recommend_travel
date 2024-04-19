@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩藩新地会所跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石碑, 場所
+cluster1:(1)
+脇
+cluster2:(1)
+鳥居
+cluster3:(1)
+解説板
+cluster4:(1)
+厳島神社
+cluster5:(1)
+萩本藩
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

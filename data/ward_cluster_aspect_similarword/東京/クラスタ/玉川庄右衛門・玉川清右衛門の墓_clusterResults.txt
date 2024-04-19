@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉川庄右衛門・玉川清右衛門の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+玉川兄弟, 玉川
+cluster1:(2)
+浅草, 松
+cluster2:(6)
+墓, 聖徳寺, ホテル, 周辺, 存在, 工事
+cluster3:(1)
+上水
+cluster4:(1)
+意味勉強
+cluster5:(1)
+寺院巡り
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

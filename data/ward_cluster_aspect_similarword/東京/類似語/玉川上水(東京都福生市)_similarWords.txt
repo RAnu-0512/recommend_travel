@@ -1,0 +1,33 @@
+--------------------similar_words:玉川上水(東京都福生市)--------------------
+top3 entities near to cluster0>>
+春, 季節, 秋
+top3 entities near to cluster1>>
+桜, 満開, 花見
+top3 entities near to cluster2>>
+小雨, 土砂降り
+top3 entities near to cluster3>>
+散歩, 散策, 出掛け
+top3 entities near to cluster5>>
+上水, 用水, 取水
+top3 entities near to cluster7>>
+散策, 周遊, 散歩
+top3 entities near to cluster8>>
+水道, 用水, 水量
+top3 entities near to cluster9>>
+下流橋, 下流, 上流
+top3 entities near to cluster10>>
+緑道, 緑, 山道
+top3 entities near to cluster11>>
+鷹, 鯉, 潭市
+top3 entities near to cluster12>>
+都心, 駅, 駅前
+top3 entities near to cluster13>>
+木陰, 椅子, 空気
+top3 entities near to cluster14>>
+森林, 自然, 清流
+top3 entities near to cluster15>>
+川, 土手, 源流
+top3 entities near to cluster16>>
+水路沿い, 川沿い, 川, 水路
+top3 entities near to cluster17>>
+太宰, 治, 嶌健

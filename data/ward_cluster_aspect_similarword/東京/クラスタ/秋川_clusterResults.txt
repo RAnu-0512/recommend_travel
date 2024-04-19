@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+人たち, 人, 頃からバーベキュー, 子供たち
+cluster1:(5)
+オススメ, オタマジャクシ, せせらぎ, ハイキング, バーベキュー
+cluster2:(2)
+トンボ, カエル
+cluster3:(1)
+山あい
+cluster4:(1)
+多摩川
+cluster5:(6)
+こども, 子ども, 子供, 家族, 遊び場, 息子
+cluster6:(1)
+こけ
+cluster7:(14)
+水, 緑色, 場所, 自然, 音, 家, JR, 近く, コースマップ, 流れ, 片手, 中, 空気, 目
+cluster8:(11)
+季節, 上流, 釣り, 河原, 夏, 新緑, BBQ場, 川, 桜, 魚, 散策コース
+cluster9:(1)
+だり釣り
+cluster10:(5)
+秋川街道, 田園風景, 秋川沿い, 武蔵五日市駅, 秋川
+
+howmany entities : 51
+howmany clusters : 11
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 11
+deleted 0entities.

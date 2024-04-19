@@ -1,0 +1,19 @@
+--------------------similar_words:三越前駅--------------------
+top3 entities near to cluster1>>
+地下, 本館, 新館
+top3 entities near to cluster2>>
+半蔵門線, 地下鉄, メトロ
+top3 entities near to cluster3>>
+最寄り駅, 乗り換え, 乗換え
+top3 entities near to cluster4>>
+デパート, 百貨店, ショッピング
+top3 entities near to cluster5>>
+デート, バレンタインデート, ダブルデート
+top3 entities near to cluster6>>
+百貨店, デパート, 高島屋
+top3 entities near to cluster7>>
+あかり, アムドラ, 京子
+top3 entities near to cluster8>>
+ホーム, メロディ, メロディー
+top3 entities near to cluster12>>
+駅, 三越, 駅前

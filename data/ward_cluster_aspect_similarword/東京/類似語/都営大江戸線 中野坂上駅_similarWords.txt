@@ -1,0 +1,9 @@
+--------------------similar_words:都営大江戸線 中野坂上駅--------------------
+top3 entities near to cluster0>>
+駅, 周辺, 駅前
+top3 entities near to cluster1>>
+地下, 地上, 地表
+top3 entities near to cluster2>>
+地下鉄, 駅, ホーム
+top3 entities near to cluster4>>
+利便性, 利便, 可能性, 可能

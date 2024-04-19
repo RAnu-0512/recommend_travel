@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ストレチア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+東京都八丈島, 八丈, 八丈町, 八丈植物園, 八丈島植物園
+cluster1:(6)
+別名極楽鳥花, 花, 別名ゴクラクチョウ花, お花, 花屋, 極楽鳥花
+cluster2:(7)
+場所, もの, 証拠, 地域, こと, 素晴らしさ, 町
+cluster3:(6)
+人, ストレチア号, 名前, 家族, 目, 色
+cluster4:(2)
+旅行, 気分
+cluster5:(2)
+南国, 極楽
+cluster6:(2)
+ノラ, 道端
+cluster7:(13)
+自然, 植物, シンボル, 東京, ところ, 本物, 生け花, 八丈島, ストレチア, ストレリチア, 極楽鳥, スポット, 鳥
+cluster8:(1)
+自生
+
+howmany entities : 44
+howmany clusters : 9
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 9
+deleted 0entities.

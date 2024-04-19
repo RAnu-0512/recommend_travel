@@ -1,0 +1,17 @@
+--------------------similar_words:出雲神社--------------------
+top3 entities near to cluster0>>
+本殿, 拝殿, 社殿
+top3 entities near to cluster1>>
+怒り, 謝り, 優勢
+top3 entities near to cluster2>>
+避難, 帰省, 疎開
+top3 entities near to cluster3>>
+小石, 屋根
+top3 entities near to cluster4>>
+隣, 手前, 無人
+top3 entities near to cluster6>>
+草刈機, 草刈, 芝刈機, 芝刈
+top3 entities near to cluster7>>
+距離, 至近, 近距離
+top3 entities near to cluster8>>
+建, 慕わしき, タケミナカタノカミ

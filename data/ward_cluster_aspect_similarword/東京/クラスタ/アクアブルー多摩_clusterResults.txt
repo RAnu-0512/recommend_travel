@@ -1,0 +1,58 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アクアブルー多摩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+入口, 料金, 施設, 信号, アクセス方法, 指導, 道, 終点
+cluster1:(2)
+左, 右
+cluster2:(2)
+方, 人
+cluster3:(3)
+気, こと, 感じ
+cluster4:(1)
+笑
+cluster5:(5)
+前, 種類, 時期, 時間, 中
+cluster6:(3)
+夏, 大人, 子供
+cluster7:(2)
+リラクゼーションプール, プール
+cluster8:(2)
+トイレ, サウナ
+cluster9:(3)
+アクアビクス, ジャグジー, ミストサウナ
+cluster10:(2)
+ロータリー, レストラン
+cluster11:(2)
+アクセス, 小田急電鉄
+cluster12:(3)
+スピード, ところ, 待ち時間
+cluster13:(4)
+小学生, クラス, スライダー, ウォータースライダー
+cluster14:(1)
+子連れ
+cluster15:(1)
+スリル
+cluster16:(1)
+小田急電鉄多摩線
+cluster17:(10)
+毛, 床, 雨, 牛乳, 天気, 昼食, 風呂, 帰宅, 軽食コーナー, 髪
+cluster18:(1)
+ひとつめ
+cluster19:(18)
+幼児, 市民プール, 駐車場, 横断歩道, 水泳, 水着, 幼児プール, 子供達, 温水プール, 屋内プール, 市営プール, 室内, 監視員, 競泳, 競泳プール, 市営, 館内, 子供たち
+cluster20:(2)
+個室更衣室, 更衣室
+cluster21:(2)
+総合福祉センター前, 総合福祉センター
+cluster22:(2)
+京王バス, 京王電鉄
+cluster23:(3)
+多摩市民, アクアブルー多摩, 多摩市
+cluster24:(2)
+永山駅, 唐木田駅
+
+howmany entities : 85
+howmany clusters : 25
+howmany entities (more than1entities) : 85
+howmany clusters (more than1entities) : 25
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水池公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+改札口, 目黒駅構内キャラクターボイス
+cluster1:(4)
+清水池公園, 池, 釣り, 釣り池
+cluster2:(4)
+観光要素, 住宅街, 聖地巡り, ロケ地
+cluster3:(2)
+目黒, 鷹番
+cluster4:(14)
+途中, 都会, 場所, ドラマ, 人, 他, 子供, 場, 交差点, 人々, 中, 方, マンガ, アナウンス
+cluster5:(5)
+公園, 憩い, 駅, こども広場, 遊具
+cluster6:(1)
+東急電鉄Xアニメ僕ヤバのコラボ洗足駅
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 7
+deleted 0entities.

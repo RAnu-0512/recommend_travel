@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小鹿渓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天候, 天気
+cluster1:(6)
+時期, あて, 人, 日, ベストシーズン, 場所
+cluster2:(3)
+新緑, 紅葉, 河原
+cluster3:(1)
+小鹿渓
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

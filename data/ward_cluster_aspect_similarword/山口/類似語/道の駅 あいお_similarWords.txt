@@ -1,0 +1,19 @@
+--------------------similar_words:道の駅 あいお--------------------
+top3 entities near to cluster0>>
+エビ, えび, 海老
+top3 entities near to cluster1>>
+特産品, 名産品, 特産, 名産
+top3 entities near to cluster2>>
+秋穂, いう, 七海
+top3 entities near to cluster3>>
+駅前店, 駅前, 建物
+top3 entities near to cluster4>>
+売店, 休憩, 販売
+top3 entities near to cluster5>>
+海産物, 農産物, 水産物
+top3 entities near to cluster6>>
+キムチ, サラダ, 漬物
+top3 entities near to cluster7>>
+小さめ, 大きめ, 大き目
+top3 entities near to cluster9>>
+駐車場, 駐車, 場裏

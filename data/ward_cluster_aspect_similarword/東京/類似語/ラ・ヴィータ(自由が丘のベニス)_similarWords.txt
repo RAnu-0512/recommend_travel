@@ -1,0 +1,43 @@
+--------------------similar_words:ラ・ヴィータ(自由が丘のベニス)--------------------
+top3 entities near to cluster0>>
+ベニス, ヴェネチア, ヴェニス
+top3 entities near to cluster1>>
+バブル, イルカ, クジラ
+top3 entities near to cluster2>>
+ショップ, カフェ, レストラン
+top3 entities near to cluster3>>
+カフェ, オープン, テラス
+top3 entities near to cluster4>>
+雰囲気, 街並み, フインキ
+top3 entities near to cluster5>>
+空間, 別世界, くつろげる
+top3 entities near to cluster6>>
+外国, 海外, 異国
+top3 entities near to cluster7>>
+家族, 子供, 友達
+top3 entities near to cluster9>>
+地元, 周辺, 昔
+top3 entities near to cluster10>>
+本物, ホンモノ, 正真正銘
+top3 entities near to cluster11>>
+足, 身体
+top3 entities near to cluster12>>
+異国, 風情
+top3 entities near to cluster13>>
+美容院, 美容室, 美容
+top3 entities near to cluster14>>
+気分, 気持ち, 気持
+top3 entities near to cluster16>>
+映え
+top3 entities near to cluster17>>
+空間, 広い, 空き
+top3 entities near to cluster19>>
+住宅街, 繁華街, 住宅, 繁華
+top3 entities near to cluster20>>
+景色, 風景, 景観
+top3 entities near to cluster21>>
+水路, 水辺, 運河
+top3 entities near to cluster22>>
+駅, 公園, 駅前
+top3 entities near to cluster23>>
+店舗, 施設

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:那賀川の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+花畑, 満開, 花, 桜
+cluster1:(8)
+菜の花, 田んぼ, 入り口, 裏, 人, 桜並木, ソメイヨシノ, 那賀川
+cluster2:(2)
+見物, 眺め
+cluster3:(2)
+写真, 風景
+cluster4:(2)
+時期, 感じ
+cluster5:(1)
+見ごろ
+cluster6:(12)
+車, 向こう側, 川沿い, 川, 駅, 反対側, 道路, 橋, 大沢温泉, 駅花, 上流, 道
+cluster7:(1)
+桜+菜
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 8entities.

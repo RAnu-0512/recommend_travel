@@ -1,0 +1,15 @@
+--------------------similar_words:水神大橋--------------------
+top3 entities near to cluster0>>
+散策, 散歩, 出掛け
+top3 entities near to cluster1>>
+駒形橋, 蔵前橋, 清洲橋
+top3 entities near to cluster2>>
+土色, 土水, 土
+top3 entities near to cluster3>>
+公園, 界隈, 景色
+top3 entities near to cluster5>>
+アーチ状, アーチ, 凹形
+top3 entities near to cluster6>>
+架かる橋, 橋梁, 架かる
+top3 entities near to cluster7>>
+神大橋, 神大, 関学

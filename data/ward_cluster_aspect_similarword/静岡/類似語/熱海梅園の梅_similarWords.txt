@@ -1,0 +1,11 @@
+--------------------similar_words:熱海梅園の梅--------------------
+top3 entities near to cluster0>>
+梅園, 梅, 白梅
+top3 entities near to cluster2>>
+紅白, ピンク, 早咲き
+top3 entities near to cluster3>>
+中旬, 初旬, 下旬
+top3 entities near to cluster6>>
+入口, 入り口
+top3 entities near to cluster7>>
+駐車, 園内, 遊歩道

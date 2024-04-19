@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:うの海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+家, 休憩所, トイレ, 閑散, 車, 小便, 仮設, 抵抗, オススメ, 海, 潮風, 遠浅, コンプレッサー, 目, 浮き輪, 岩場, 女子便, ファミリー, 空気, 安全, 人, 男子トイレ, 子連れ, 名水, 方, 茶, 子供, 遊泳場所, 腹, 砂浜
+cluster1:(2)
+東伯郡, 湯梨浜町
+cluster2:(3)
+宇野海水浴場, 宇野地区, 鳥取県
+cluster3:(4)
+無料駐車券, 羽合海水浴場, 海水浴場, 駐車場
+cluster4:(1)
+駐車代
+
+howmany entities : 40
+howmany clusters : 5
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 5
+deleted 0entities.

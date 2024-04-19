@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:2002メモリアルロード>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+W杯, W杯開催国
+cluster1:(4)
+おり道, アート作品, 作家, 作品
+cluster2:(16)
+車, エコパスタジアム, 入り口, 出身, エコパ, 駅, 見頃, モニュメント, 道中, ツツジ, 距離, ウォーキング, 準決勝, メモリアルロード NSKワーナー, 入り口周辺, 坂
+cluster3:(1)
+試合会場
+cluster4:(1)
+愛野駅
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 4entities.

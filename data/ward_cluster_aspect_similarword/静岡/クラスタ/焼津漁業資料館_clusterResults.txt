@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:焼津漁業資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+焼津漁港, 焼津
+cluster1:(6)
+歴史, 漁業資料, 歴史資料, 昔, 漁具, 展示館
+cluster2:(1)
+焼津漁業協同組合
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 3entities.

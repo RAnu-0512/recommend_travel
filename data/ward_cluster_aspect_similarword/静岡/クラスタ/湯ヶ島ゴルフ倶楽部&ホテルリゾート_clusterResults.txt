@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯ヶ島ゴルフ倶楽部&ホテルリゾート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自家源泉, 美肌の湯
+cluster1:(13)
+宝庫, 食材, 温泉, ホテル, ひととき, ラウンド, コース, 味覚, 伊豆, ひとつ, アップダウン, 魅力, 人気
+cluster2:(4)
+ゴルフ施設, パターゴルフ, ゴルフ場, 宿泊施設
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 2entities.

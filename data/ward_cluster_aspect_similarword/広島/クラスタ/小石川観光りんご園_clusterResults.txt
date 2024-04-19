@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小石川観光りんご園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ピザ, ピザ生地, ピザ釜入れ火, ピザ作り体験
+cluster1:(20)
+リンゴ, 野菜, りんご狩り, 家, 体験, 園, リンゴ達, 小さなお子, シーズン, 晴れ, りんご, 北斗, 家族, 所, 木, 笑, 近く, 薪, 場所, 薪割り
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

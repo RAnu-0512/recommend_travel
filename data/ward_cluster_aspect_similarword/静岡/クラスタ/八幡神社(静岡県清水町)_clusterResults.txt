@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡神社(静岡県清水町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+敷地, 対面, 交差点, 風情, 奥州, システム, 拝殿, 祈願, 八幡神社, 東海道五, 格式, 国, 人, 歴史, センサー, 国道, 気持ち, 山道, 神社, 兄頼朝, 八幡, 徳川家康, 雰囲気, 義経, 場所, 石, 東海道, 気分, 対面石, 白旗社, 三次ウォーキング
+cluster1:(2)
+源頼朝・義経, 源頼朝公
+cluster2:(2)
+桃沢神社, 小川泉水神社
+cluster3:(2)
+柿田川湧水群, 湧水群
+
+howmany entities : 37
+howmany clusters : 4
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 1
+deleted 6entities.

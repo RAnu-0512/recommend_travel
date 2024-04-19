@@ -1,0 +1,15 @@
+--------------------similar_words:文京区観光インフォメーション--------------------
+top3 entities near to cluster0>>
+区, 区内, 都
+top3 entities near to cluster1>>
+乗車, バス, 路線
+top3 entities near to cluster3>>
+案内, 所内, 総合
+top3 entities near to cluster4>>
+シティ, シビック, シティー
+top3 entities near to cluster5>>
+博物館, 美術館, ミュージアム
+top3 entities near to cluster6>>
+建物, 地図, 敷地
+top3 entities near to cluster7>>
+配布, 販売, 運行

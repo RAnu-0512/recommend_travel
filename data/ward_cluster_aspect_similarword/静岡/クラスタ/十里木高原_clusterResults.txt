@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十里木高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+十里木高原, 十里木高原展望台
+cluster1:(17)
+静岡県, 手洗い, 別荘地, 越前岳, 右側, 気持ち, 富士山, 裾野, 靴, 景色, 南側, 自然, 場所, 高原, 雲, 別荘, 富士サファリパーク
+cluster2:(5)
+駐車場, ゴルフ場, 登山口, 展望台, 登山者
+cluster3:(1)
+愛鷹山系
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 3entities.

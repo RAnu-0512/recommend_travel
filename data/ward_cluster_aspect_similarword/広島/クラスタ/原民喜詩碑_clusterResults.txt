@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:原民喜詩碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+佐藤春夫, 原民喜
+cluster1:(9)
+原爆ドーム, 追悼文, 胸, 碑, 疎開先, 詩人, 最期, 追悼, 広島市
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

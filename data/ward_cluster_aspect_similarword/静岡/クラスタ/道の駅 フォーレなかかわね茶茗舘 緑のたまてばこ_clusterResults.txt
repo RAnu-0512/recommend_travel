@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 フォーレなかかわね茶茗舘 緑のたまてばこ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+体験, 生産, 学ぶ, 喫茶コーナー, 方々
+cluster1:(5)
+茶, 紅茶, 茶葉, 煎れ方, 煎茶
+cluster2:(1)
+特産品
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 1entities.

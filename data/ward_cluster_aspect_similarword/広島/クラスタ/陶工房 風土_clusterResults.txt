@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶工房 風土>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 市営駐車場
+cluster1:(8)
+焼成, 体験話, 体験, 完成品, ねり体験, 陶芸体験, 陶芸, 焼き上がり
+cluster2:(31)
+子, 暖簾, 先生, 子供, もの, ところ, 女性, 完成, 店, 手伝い, 次, 車, 夫婦, 漱石くん, 感じ, 写真, 徒歩, 猫ちゃん, 人, 店主, 予約, 上手, コップ, 製作, 思い出, 他, 作品, 手直し, 多忙, 出来上がり, 周り
+
+howmany entities : 41
+howmany clusters : 3
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:早稲田大学坪内博士記念演劇博物館--------------------
+top3 entities near to cluster0>>
+坪内, 記念, 藤村
+top3 entities near to cluster1>>
+建物, 映像, 映画
+top3 entities near to cluster2>>
+構内, 廊下, 大学
+top3 entities near to cluster3>>
+きしむ音, きしむ, 軋み
+top3 entities near to cluster4>>
+モダン, 雰囲気, 歌舞伎
+top3 entities near to cluster5>>
+時代, 昔, 大昔
+top3 entities near to cluster6>>
+各地, 世界, 各国
+top3 entities near to cluster9>>
+明治, 大正, 年代
+top3 entities near to cluster10>>
+見学, 散策, 入場
+top3 entities near to cluster11>>
+展示, 建築, 展覧

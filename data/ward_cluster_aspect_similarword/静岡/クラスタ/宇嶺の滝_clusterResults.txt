@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇嶺の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+滝壺, お君の滝, 名瀑布, 滝
+cluster1:(3)
+静岡, 藤枝市, 東海
+cluster2:(2)
+清流, 上流
+cluster3:(7)
+ゴーゴー, 所, 瀬戸川, 川, 音, 宇嶺, 道路
+cluster4:(1)
+落差
+cluster5:(1)
+下り道
+cluster6:(1)
+高さ
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 5entities.

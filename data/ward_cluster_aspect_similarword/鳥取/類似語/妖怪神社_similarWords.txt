@@ -1,0 +1,19 @@
+--------------------similar_words:妖怪神社--------------------
+top3 entities near to cluster0>>
+写真, カメラ, 映像
+top3 entities near to cluster2>>
+入り口, 裏手, 入口
+top3 entities near to cluster3>>
+ロード沿い, ロード, 帰り道
+top3 entities near to cluster5>>
+石像, 人形, 茶碗
+top3 entities near to cluster6>>
+神社, 境内, 本殿
+top3 entities near to cluster7>>
+お客, 乗客, 外客
+top3 entities near to cluster8>>
+名所, 周遊, 名所旧跡
+top3 entities near to cluster9>>
+妖怪, 鬼太郎, 水木
+top3 entities near to cluster10>>
+目玉, でっかい, おやじ

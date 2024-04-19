@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小石川植物園の梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+梅, 桜, 梅林
+cluster1:(4)
+季節, 近く, 北西, 園内
+cluster2:(1)
+小石川分館
+cluster3:(2)
+小石川植物園, 東京大学総合研究博物館
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

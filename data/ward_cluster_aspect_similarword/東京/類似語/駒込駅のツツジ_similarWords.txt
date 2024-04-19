@@ -1,0 +1,13 @@
+--------------------similar_words:駒込駅のツツジ--------------------
+top3 entities near to cluster0>>
+季節, 時季, 時期
+top3 entities near to cluster1>>
+車窓, 景色, 風景
+top3 entities near to cluster2>>
+駅, 駅前, ＪＲ
+top3 entities near to cluster3>>
+線路, 電車, 列車
+top3 entities near to cluster4>>
+花, 憩い, 中庭
+top3 entities near to cluster5>>
+線路沿い, 線路

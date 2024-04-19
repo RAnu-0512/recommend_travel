@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田端(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+稲穂, 稲
+cluster1:(2)
+小石川後楽園, 梅林
+cluster2:(5)
+小学生, 農民, 田んぼ, 田植え, 稲刈り
+cluster3:(3)
+紅葉, 風景, 園内
+cluster4:(5)
+苦労, 方, 水, 場所, 跡
+cluster5:(1)
+黄門
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

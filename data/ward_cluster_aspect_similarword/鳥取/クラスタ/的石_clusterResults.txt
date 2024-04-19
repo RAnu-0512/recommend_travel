@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:的石>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+的石, 修練, 墓, 車, 弓, 一族, 強弓, 天候, 鍛錬, こと, 公園, 正方形, 土台, 上, 弓矢, 近く, 表面, 輪
+cluster1:(4)
+外柵, 石面, 石, 何とこの石
+cluster2:(7)
+名和公, 名和公一族郎党, 他観光客, 大山町観光協会, 長綱寺, 名和, 名和一族
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 3
+deleted 0entities.

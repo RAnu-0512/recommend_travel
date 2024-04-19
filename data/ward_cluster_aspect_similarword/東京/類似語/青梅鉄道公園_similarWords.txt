@@ -1,0 +1,45 @@
+--------------------similar_words:青梅鉄道公園--------------------
+top3 entities near to cluster0>>
+機関車, 機関, 蒸気
+top3 entities near to cluster1>>
+鉄道, 私鉄, 車両
+top3 entities near to cluster2>>
+展示, 収蔵, 出展
+top3 entities near to cluster3>>
+つれ, 同伴
+top3 entities near to cluster4>>
+子ども, 子供, 親達
+top3 entities near to cluster5>>
+子供, 子ども, 親達
+top3 entities near to cluster6>>
+子供, 子ども
+top3 entities near to cluster7>>
+入園料, 入場料, 入場, 入園
+top3 entities near to cluster8>>
+料金, 入場, 運賃
+top3 entities near to cluster9>>
+補給, 運動
+top3 entities near to cluster10>>
+館内, 売店, 園内
+top3 entities near to cluster11>>
+子ども, 子供, 小学生
+top3 entities near to cluster12>>
+子連れ, ランチ, ランチタイム
+top3 entities near to cluster13>>
+ジオラマ, アトラクション, ビュースポット
+top3 entities near to cluster15>>
+ベンチ, スタメン, 腰掛け
+top3 entities near to cluster16>>
+手入れ, メンテナンス, ブラッシング
+top3 entities near to cluster17>>
+上り坂, のぼり坂, 急坂
+top3 entities near to cluster18>>
+乗り物, デゴイチ, 新幹線
+top3 entities near to cluster19>>
+子供, 息子, 子ども
+top3 entities near to cluster21>>
+急坂, 山道
+top3 entities near to cluster22>>
+昔, 時代, 大昔
+top3 entities near to cluster24>>
+電車, 車両, 列車

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:月窓寺観音堂の乾漆造白衣観音坐像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+街, 内部, 建物
+cluster1:(4)
+光専寺, 境内, 蓮乗寺, 吉祥寺
+cluster2:(2)
+観音坐像, 月窓寺
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

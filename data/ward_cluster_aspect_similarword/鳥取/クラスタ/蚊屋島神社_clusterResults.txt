@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蚊屋島神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伊勢神社, 蚊屋島神社, 屋島神社
+cluster1:(9)
+参道, 神社, 住宅街, 拝殿, 鳥居, 境内, 本殿, 駐車場, 社殿
+cluster2:(10)
+中, 日吉津, 後期, 入り口, 作, 道, 先, なんどかクルマ, 村, 場所
+cluster3:(4)
+龍, 彫刻, 蚊, 金色
+cluster4:(1)
+小林如泥
+cluster5:(1)
+鳥取県
+cluster6:(1)
+江戸時代中期
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

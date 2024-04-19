@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉香公園_はなしょうぶ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紫, イメージ
+cluster1:(1)
+紅葉
+cluster2:(1)
+菖蒲
+cluster3:(1)
+花数
+cluster4:(1)
+ノラ猫
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

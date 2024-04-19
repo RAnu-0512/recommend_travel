@@ -1,0 +1,9 @@
+--------------------similar_words:根雨--------------------
+top3 entities near to cluster0>>
+町並み, 雰囲気, 街並み
+top3 entities near to cluster1>>
+オシドリ, カワセミ, ルリビタキ
+top3 entities near to cluster2>>
+降り積る, 笑雪
+top3 entities near to cluster3>>
+宿場, 宿, 関所

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古伊万里資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+古伊万里, 長火鉢
+cluster1:(1)
+湯呑みや
+cluster2:(1)
+小鉢
+cluster3:(1)
+館長
+cluster4:(1)
+年代物
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

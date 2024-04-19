@@ -1,0 +1,25 @@
+--------------------similar_words:道の駅 ポート赤碕--------------------
+top3 entities near to cluster1>>
+鯨魚, 鯨, タコ
+top3 entities near to cluster2>>
+海, 幸, 山
+top3 entities near to cluster3>>
+筋肉, 筋力, モリモリマッチョマン
+top3 entities near to cluster4>>
+ラーメン屋, 定食屋, ラーメン, 定食
+top3 entities near to cluster5>>
+食通, 美食, グルマン
+top3 entities near to cluster6>>
+駅, 公園, 時間
+top3 entities near to cluster7>>
+赤碕, 町, 駅
+top3 entities near to cluster8>>
+駅, 国道, 県道
+top3 entities near to cluster9>>
+青果, 鮮魚, 物産
+top3 entities near to cluster10>>
+鮮魚, 直売
+top3 entities near to cluster11>>
+ガニ, カニ, 蟹
+top3 entities near to cluster12>>
+友好, 日, 館

@@ -1,0 +1,13 @@
+--------------------similar_words:ひろしまリバークルーズ--------------------
+top3 entities near to cluster0>>
+案内, 貸切, 予約
+top3 entities near to cluster2>>
+景色, 風景, 紅葉
+top3 entities near to cluster3>>
+角度, 膝, 体力
+top3 entities near to cluster6>>
+勉強, 体験, 想像
+top3 entities near to cluster7>>
+桟橋, 乗客
+top3 entities near to cluster8>>
+爽快感, 爽快, 和む

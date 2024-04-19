@@ -1,0 +1,15 @@
+--------------------similar_words:杵築大社--------------------
+top3 entities near to cluster1>>
+駅, ＪＲ, 駅前
+top3 entities near to cluster2>>
+駅, 南口, 北口
+top3 entities near to cluster3>>
+神社, 初詣, 本殿
+top3 entities near to cluster4>>
+侵雪
+top3 entities near to cluster7>>
+境内, 左手, 右手
+top3 entities near to cluster9>>
+登山口, 輪口, 登山, 輪
+top3 entities near to cluster10>>
+木々, 繁る, 茂る

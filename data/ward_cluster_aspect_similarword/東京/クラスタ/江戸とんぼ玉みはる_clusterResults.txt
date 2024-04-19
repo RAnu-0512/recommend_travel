@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江戸とんぼ玉みはる>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+ライン玉, パウダー玉, とんぼ玉, とんぼ玉作り, トンボ玉, 玉
+cluster1:(2)
+砂模様, 泡模様
+cluster2:(3)
+無地, 水玉, 無地玉
+cluster3:(8)
+娘, 小学, 大人, 子ども, 子供, 娘たち, 息子, 小学生向き
+cluster4:(2)
+説明書き, 説明
+cluster5:(4)
+巻き, 修行, 手慣らし, 世話
+cluster6:(29)
+出来上がり, コツ, ガラス, マーブル, 店, サポート, やり方, プロ, 他, ところ, おかげ, 笑, テープ, 奥, 点, 予約, 模様, 前, 方, へそ, こと, 位置, アドバイス, 先生, コース, 丸, 作り, 目, 色
+cluster7:(4)
+ガラス細工体験, 伝統工芸, 体験, 体験教室
+cluster8:(1)
+とんぼ玉作りをしたい!
+
+howmany entities : 59
+howmany clusters : 9
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,31 @@
+--------------------similar_words:毛利博物館【旧毛利家本邸】--------------------
+top3 entities near to cluster0>>
+公爵, 侯爵, 伯爵
+top3 entities near to cluster1>>
+元就, 輝元, 就頼
+top3 entities near to cluster3>>
+藩主, 藩士
+top3 entities near to cluster4>>
+戦国, 幕末, 明治
+top3 entities near to cluster6>>
+中庭, 庭園, 部屋
+top3 entities near to cluster7>>
+兜, 太刀
+top3 entities near to cluster8>>
+和, 妙, 乃榎
+top3 entities near to cluster9>>
+博物館, 資料, 展示
+top3 entities near to cluster10>>
+歴史, 概略, 家系
+top3 entities near to cluster11>>
+客間, 洋間, 居間
+top3 entities near to cluster12>>
+庭園
+top3 entities near to cluster13>>
+建物, 建築, 住宅
+top3 entities near to cluster14>>
+邸宅, 豪邸, 本邸
+top3 entities near to cluster15>>
+御殿, 本丸, 三の丸
+top3 entities near to cluster16>>
+展示, 展覧

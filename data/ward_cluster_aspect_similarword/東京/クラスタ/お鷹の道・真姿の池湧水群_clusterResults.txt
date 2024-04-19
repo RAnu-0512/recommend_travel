@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お鷹の道・真姿の池湧水群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+駐車場, 散歩, 散策道, 散策路, 住宅街, 散策コース, おたかの道, 散策, 道沿い, お鷹の道, 万葉植物園
+cluster1:(3)
+地形, 立地, 天気
+cluster2:(7)
+光景, こと, 感じ, 事, 距離, 流れ, 空気
+cluster3:(2)
+標識, 看板
+cluster4:(12)
+カフェ, 雰囲気, 遊歩道, スポット, 弁財天, 気持ち, ウォーキングコース, 武蔵野, 湧き水, 木漏れ日, マナー, スペース
+cluster5:(2)
+そば, 横
+cluster6:(2)
+方, 人
+cluster7:(2)
+中, 途中
+cluster8:(1)
+場所
+cluster9:(2)
+道, 車
+cluster10:(3)
+膝, 坂, 階段
+cluster11:(2)
+自然, 緑
+cluster12:(2)
+清流, 川
+cluster13:(1)
+小川
+cluster14:(5)
+池, 砂, 蛍, 魚, 鷹
+cluster15:(3)
+子供心, 心, 真姿
+cluster16:(5)
+真夏日, 地下水, 地場産, 水, 飲用水
+cluster17:(17)
+武蔵国分寺公園, 方面, 北, 国分寺駅, 一帯, 武蔵国分寺, 国分寺河岸, 西, 東京都, 南口, 国分寺公園, 徒歩, 国分寺市, 公園, JR, 都, 西国分寺駅
+cluster18:(2)
+池湧水群, 湧水池
+cluster19:(3)
+名湧水, 湧水群, 湧水
+cluster20:(1)
+真姿の池湧水
+cluster21:(1)
+尾張徳川家のお鷹場
+
+howmany entities : 89
+howmany clusters : 22
+howmany entities (more than1entities) : 89
+howmany clusters (more than1entities) : 22
+deleted 0entities.

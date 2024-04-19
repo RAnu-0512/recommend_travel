@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柏谷横穴群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+墓, 公園, 遺跡
+cluster1:(3)
+方, 奥, 中
+cluster2:(2)
+穴, 崖
+cluster3:(1)
+伊豆
+cluster4:(1)
+横穴
+cluster5:(1)
+柏谷公園
+cluster6:(1)
+柏谷横穴群
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

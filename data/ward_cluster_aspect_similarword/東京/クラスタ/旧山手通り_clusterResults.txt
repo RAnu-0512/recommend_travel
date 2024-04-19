@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧山手通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+ブティック, 店, カフェ, 散策, 行列, 人, 公園, 交差点, 代官山, エリア, レストラン, 車, 数, 付近, 西, 道路, ショップ, 道, さんま祭り, 雰囲気, サンマ, 通り, 目, 代官山近辺, 満点, 大使館
+cluster1:(5)
+目黒, 山手通り, 渋谷, 山手, 神泉
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青梅街道(成木街道)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+雰囲気, 感じ, ロードサイド, 注意, あたり
+cluster1:(4)
+道路, 車, 近隣, 店舗
+cluster2:(1)
+交通量
+cluster3:(7)
+甲府市, 青梅市, 山梨県, 新青梅街道, 青梅街道, 新宿, 新宿駅
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

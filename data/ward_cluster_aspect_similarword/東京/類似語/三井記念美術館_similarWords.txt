@@ -1,0 +1,75 @@
+--------------------similar_words:三井記念美術館--------------------
+top3 entities near to cluster0>>
+立像, 坐像, 座像
+top3 entities near to cluster1>>
+価値, 趣き, 風情
+top3 entities near to cluster2>>
+堪能, 見, 理解
+top3 entities near to cluster3>>
+重厚感, 躍動感, 重厚, 躍動
+top3 entities near to cluster7>>
+美術館, 博物館, 館内
+top3 entities near to cluster8>>
+海外, 国内, 国外
+top3 entities near to cluster9>>
+再現, 比較, 見比べ
+top3 entities near to cluster10>>
+企画, 作品, 制作
+top3 entities near to cluster11>>
+時間, 日数, 時
+top3 entities near to cluster12>>
+頃家, 時代, 頃
+top3 entities near to cluster13>>
+数々, 数多い, 皆様
+top3 entities near to cluster14>>
+中心, 意外, ほど近い
+top3 entities near to cluster16>>
+茶室, 茶道, 茶器
+top3 entities near to cluster17>>
+本店, 本館, 別館
+top3 entities near to cluster18>>
+ビル, 本館, 新館
+top3 entities near to cluster19>>
+建物, 外観, 設備
+top3 entities near to cluster20>>
+私立, 美術館, 公立
+top3 entities near to cluster21>>
+財閥, 財力, 名家
+top3 entities near to cluster22>>
+建築, 建物, 土木
+top3 entities near to cluster23>>
+階数, 表示, 所在地
+top3 entities near to cluster24>>
+秀, 剛, 慶
+top3 entities near to cluster25>>
+都, 中央, 区
+top3 entities near to cluster26>>
+三井, 本館, 住友
+top3 entities near to cluster27>>
+駅, 駅前, 徒歩
+top3 entities near to cluster28>>
+三越, 高島屋, 伊勢丹
+top3 entities near to cluster29>>
+卯花, 茶碗, 志野
+top3 entities near to cluster30>>
+東洋, 西洋, 美術
+top3 entities near to cluster31>>
+収蔵品, 品等, 収蔵
+top3 entities near to cluster32>>
+美術, 絵画, 水墨
+top3 entities near to cluster33>>
+仏像, 仏画, 絵画
+top3 entities near to cluster34>>
+運慶, 仏師, 快慶
+top3 entities near to cluster35>>
+国宝級, 国宝, 文化財
+top3 entities near to cluster36>>
+至宝, 名品, 名店
+top3 entities near to cluster37>>
+入館料, 入場料, 入場, 入館
+top3 entities near to cluster38>>
+展示, 展覧, 出展
+top3 entities near to cluster39>>
+美術展, 美術, 展覧
+top3 entities near to cluster40>>
+展示, 展覧

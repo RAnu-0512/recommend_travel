@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ART BIRDS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+デザイン, ガラス, サンキャッチャー, 飾り物, 手作り, パーツ, もの
+cluster1:(2)
+先生, 猫
+cluster2:(1)
+工程
+cluster3:(1)
+干支
+cluster4:(1)
+恒例行事
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

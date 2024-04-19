@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:林泉寺のフジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+静岡県天然記念物, 伊東駅, 伊東, 松川湖
+cluster1:(2)
+フジ, フジ色
+cluster2:(2)
+日本庭園, お庭
+cluster3:(8)
+藤棚, 花房, 藤, 本堂, 境内, 樹, 房, 寺
+cluster4:(2)
+満開, 見頃
+cluster5:(4)
+花, 香り, 紫色, 季節
+cluster6:(2)
+こと, 見応え
+cluster7:(2)
+目, 前
+cluster8:(3)
+車, 一碧湖, 林泉寺
+cluster9:(1)
+中間あたり
+cluster10:(1)
+掃除
+cluster11:(1)
+藤花
+cluster12:(1)
+駐車場
+cluster13:(1)
+伊東温泉七福神の福禄寿
+
+howmany entities : 34
+howmany clusters : 14
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 15entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長者ケ森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+中, 伝え, 草原, 秋吉台, ポツン, 森, 場所
+cluster1:(2)
+武将, 平家
+cluster2:(4)
+カルスト台地, 展望台, 駐車場, 道路脇
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

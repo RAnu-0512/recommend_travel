@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱川海水浴場(YOU湯ビーチ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+熱川海水浴場, 熱川温泉街, 熱川館
+cluster1:(3)
+伊豆熱川温泉, 温泉旅館, JR伊豆熱川駅
+cluster2:(8)
+ビーチ沿い, 海岸, それ程波, 波, 海, 砂浜, 大型ビーチ, 岩
+cluster3:(4)
+象徴, 印象, 気分, 別名
+cluster4:(6)
+伊豆熱川, ビーチ, ホテル, スペース, サーフィン, 子連れ
+cluster5:(2)
+目, 前
+cluster6:(3)
+多く, 人, 中
+cluster7:(2)
+家, 場所
+cluster8:(1)
+近所
+cluster9:(7)
+海水浴場, 足湯, 急坂, 海水浴客, 駅, 徒歩, 宿泊
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 7
+deleted 5entities.

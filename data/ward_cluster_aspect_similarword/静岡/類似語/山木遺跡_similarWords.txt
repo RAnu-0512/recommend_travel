@@ -1,0 +1,9 @@
+--------------------similar_words:山木遺跡--------------------
+top3 entities near to cluster0>>
+風景, 一帯, 工場
+top3 entities near to cluster1>>
+出土品, 出土, 資料
+top3 entities near to cluster2>>
+農耕, 稲作, 農業
+top3 entities near to cluster3>>
+遺跡, 古墳, 土器

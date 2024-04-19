@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:末廣神社(東京都中央区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+疫病鎮め, 病気平癒
+cluster1:(5)
+大火, 昔吉原, 江戸時代, 吉原, 明暦
+cluster2:(2)
+日本橋七福神巡り, 七福神巡り
+cluster3:(2)
+藍色, 新型コロナ
+cluster4:(5)
+地, 人, 事, 地元, 方々
+cluster5:(8)
+七福神めぐり, 日本橋, 御朱印, 毘沙門天, 御利益, のぼり, 守護神, 七福神
+cluster6:(2)
+神, 信仰
+cluster7:(4)
+角, 鳥居, 幟, ビル
+cluster8:(3)
+通り沿い, 中央区, 通り
+cluster9:(9)
+神社, 日本橋人形町, 人形, 社務所, 厄除, 人形駅, 茶ノ木神社, 氏神, 末広神社
+
+howmany entities : 42
+howmany clusters : 10
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 10
+deleted 0entities.

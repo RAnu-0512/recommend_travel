@@ -1,0 +1,23 @@
+--------------------similar_words:土方歳三資料館--------------------
+top3 entities near to cluster0>>
+歳三, 土方, 雄久
+top3 entities near to cluster1>>
+土方, 新選, 新撰
+top3 entities near to cluster2>>
+民家, 俳句, 明治
+top3 entities near to cluster3>>
+外観, 写真, 実物
+top3 entities near to cluster5>>
+友人, 知人
+top3 entities near to cluster6>>
+手紙, 秘密, ラブレター
+top3 entities near to cluster7>>
+歴史, 価値, 生家
+top3 entities near to cluster8>>
+宅, 個人, 自宅
+top3 entities near to cluster10>>
+館, 資料, 史料
+top3 entities near to cluster11>>
+展示, 資料, 出展
+top3 entities near to cluster12>>
+開館, 日, 休館

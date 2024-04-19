@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:養老温泉(広島県尾道市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(34)
+体, 子供, 駄菓子, ところ, 次女, 建物, 昔, 地元, 小売り, 次男, 感じ, 新陳代謝, 年少, 朝風呂, 人, 感謝, 満載, 昭和, 雰囲気, 家族, 特徴, 置物, 前, 設置, 品々, 物, 小ぢんまり, インテリア, 小学生, 気持ち, こと, ゲーム機, 受付, 長男
+cluster1:(2)
+循環消毒, 消毒
+cluster2:(2)
+泉質, 放射能泉
+cluster3:(4)
+お湯, 湯船, 湯, 風呂
+cluster4:(3)
+ラドン温泉, 温泉, 日帰り温泉
+cluster5:(2)
+宿, 旅館
+cluster6:(10)
+湯来温泉, 尾道駅, 昭和レトロ, 養老温泉街, 尾道, 尾道市街地, 尾道方面, 養老温泉 尾道駅, 潮原温泉, 養老温泉
+
+howmany entities : 57
+howmany clusters : 7
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 7
+deleted 0entities.

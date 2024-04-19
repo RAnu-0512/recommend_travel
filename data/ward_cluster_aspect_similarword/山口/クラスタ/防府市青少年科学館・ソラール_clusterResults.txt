@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:防府市青少年科学館・ソラール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+都心部, 科学, 科学館
+cluster1:(2)
+家族連れ, 子供たち
+cluster2:(2)
+太陽, 黒点
+cluster3:(4)
+展示, 勉強, 工作, 宿題
+cluster4:(12)
+子供, コース, 全国, コマ, 望遠鏡, 要所, オススメ, イベント, 夏休み, 場所, 乳幼児, 子
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

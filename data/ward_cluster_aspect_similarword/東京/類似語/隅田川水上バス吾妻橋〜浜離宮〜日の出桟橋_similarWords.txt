@@ -1,0 +1,59 @@
+--------------------similar_words:隅田川水上バス吾妻橋〜浜離宮〜日の出桟橋--------------------
+top3 entities near to cluster0>>
+タワー, 乗り場, 地下鉄
+top3 entities near to cluster1>>
+ビール, 生ビール, つまみ
+top3 entities near to cluster2>>
+アクセス, 乗り換え, 乗り換える
+top3 entities near to cluster3>>
+見どころ, 見所, おすすめ
+top3 entities near to cluster4>>
+オブジェ, クルーズ, イルミネーション
+top3 entities near to cluster5>>
+スレスレ, すれすれ, ギリギリ
+top3 entities near to cluster6>>
+コース, プラン, 雰囲気
+top3 entities near to cluster7>>
+うとい, とう, やとう
+top3 entities near to cluster8>>
+アワー, タウン, ミュージック
+top3 entities near to cluster10>>
+案内, 解説, 予約
+top3 entities near to cluster11>>
+時間, 予定, 時
+top3 entities near to cluster12>>
+種類, 数種類
+top3 entities near to cluster13>>
+経験, 歴史, 日々
+top3 entities near to cluster14>>
+機会, チャンス, 好機
+top3 entities near to cluster16>>
+家族, 子供, 夫婦
+top3 entities near to cluster17>>
+日, 月, 11
+top3 entities near to cluster18>>
+時間, 所要, 時刻
+top3 entities near to cluster19>>
+気分, 旅
+top3 entities near to cluster20>>
+季節, 時季, 時期
+top3 entities near to cluster21>>
+満開, 花見, 桜
+top3 entities near to cluster22>>
+天気雨, 天気, 気温
+top3 entities near to cluster23>>
+風景, 景色, 写真
+top3 entities near to cluster24>>
+駅, 道路, 電車
+top3 entities near to cluster25>>
+旅, 旅だっ, 旅先
+top3 entities near to cluster26>>
+散策, 散歩, 出掛け
+top3 entities near to cluster27>>
+離宮, 宮殿, 王宮
+top3 entities near to cluster28>>
+移動, バス, 乗り継ぎ
+top3 entities near to cluster29>>
+港船, 桟橋, 港
+top3 entities near to cluster30>>
+バス, 水上, 遊覧

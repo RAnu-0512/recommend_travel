@@ -1,0 +1,15 @@
+--------------------similar_words:着付けをしない着物教室--------------------
+top3 entities near to cluster0>>
+時間帯, 時間, 着物
+top3 entities near to cluster1>>
+興奮, 不安, 緊張
+top3 entities near to cluster2>>
+笑顔, こころ
+top3 entities near to cluster3>>
+先生, 教室, 人達
+top3 entities near to cluster4>>
+暖色系, ピンク, 暖色
+top3 entities near to cluster5>>
+外国人, 外国, 外人
+top3 entities near to cluster6>>
+満足度, 満足, 好感度, 好感

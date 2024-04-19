@@ -1,0 +1,7 @@
+--------------------similar_words:貸切観光船・遊覧船--------------------
+top3 entities near to cluster0>>
+遊覧船, 遊覧, 屋形船
+top3 entities near to cluster1>>
+船舶, 漁船
+top3 entities near to cluster2>>
+貸切, 遊覧船, 遊覧

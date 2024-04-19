@@ -1,0 +1,25 @@
+--------------------similar_words:ピーズクラブ ダイビングスタジオ--------------------
+top3 entities near to cluster0>>
+レンタカー, ダイブショップ, ビーチダイブ
+top3 entities near to cluster1>>
+ショップ, オーナー, 店長
+top3 entities near to cluster2>>
+待ち時間, 待たす, 待合室
+top3 entities near to cluster3>>
+サイト, ホームページ, ウェブページ
+top3 entities near to cluster4>>
+ガイド, ガイドブック, 案内
+top3 entities near to cluster5>>
+飲み物, 飲みもの, ソフトドリンク
+top3 entities near to cluster6>>
+ダイビング, ボート, ビーチ
+top3 entities near to cluster7>>
+バッグ, クーラー, ショルダーバッグ
+top3 entities near to cluster8>>
+海, 海辺, 陸
+top3 entities near to cluster9>>
+日程, 時間, 予約
+top3 entities near to cluster11>>
+休憩, 昼, お昼
+top3 entities near to cluster12>>
+可能性, 可能, 必要性, 必要

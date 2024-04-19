@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市江波山気象館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+気象体験, 気象, 気象館
+cluster1:(2)
+天気, 天気予報
+cluster2:(2)
+雷体験, 雷
+cluster3:(2)
+台風, 台風体験
+cluster4:(1)
+広島市
+cluster5:(1)
+実験&体験
+cluster6:(3)
+子供, 大人, 子供達
+cluster7:(5)
+風, 音, 雲, 原理, 現象
+cluster8:(3)
+国内, 日本, 全国
+cluster9:(4)
+施設, 建物, 価格, 場所
+cluster10:(14)
+体, カプセル, 中, レベル, 方, テレビ, 気象台, 博物館, 目, イベント, 人, 他, 夏休み, サイエンスショー
+cluster11:(4)
+実物, 実験, ホバークラフト体験, 小中学生無料
+cluster12:(1)
+強さ
+cluster13:(2)
+駐車場, 入場料
+cluster14:(1)
+江波山気象館
+
+howmany entities : 48
+howmany clusters : 15
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 15
+deleted 0entities.

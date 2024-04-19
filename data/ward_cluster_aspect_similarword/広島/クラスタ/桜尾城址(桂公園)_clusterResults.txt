@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桜尾城址(桂公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+元勲桂太郎, 公爵・桂太郎
+cluster1:(2)
+大正, 元年
+cluster2:(2)
+城, 城主
+cluster3:(2)
+市民, 廿日市市
+cluster4:(16)
+時期, 季節, 桜, 石碑, グランド, 名前, 名所, 木, 春, こと, 花見, 場所, 遊び場, 公園, 跡地, 子孫
+cluster5:(1)
+桂公園
+cluster6:(1)
+かつらもとずみ
+cluster7:(1)
+桜尾城
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 8
+deleted 0entities.

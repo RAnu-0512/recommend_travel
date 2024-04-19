@@ -1,0 +1,7 @@
+--------------------similar_words:八千代の丘美術館--------------------
+top3 entities near to cluster0>>
+美術館, 博物館, ミュージアム
+top3 entities near to cluster1>>
+戸建て, 建て売り, 一戸建て
+top3 entities near to cluster2>>
+展示室, 展示, 展覧

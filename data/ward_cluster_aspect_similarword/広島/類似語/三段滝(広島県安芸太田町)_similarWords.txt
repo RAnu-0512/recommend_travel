@@ -1,0 +1,11 @@
+--------------------similar_words:三段滝(広島県安芸太田町)--------------------
+top3 entities near to cluster0>>
+滝, 紅葉, 川
+top3 entities near to cluster1>>
+斜め, 正面, 真正面
+top3 entities near to cluster2>>
+時間, 周囲
+top3 entities near to cluster3>>
+表情, 顔つき
+top3 entities near to cluster4>>
+展望台, 展望, 瞻星台, 瞻星

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王 永山駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小田急永山駅, 京王電鉄, 京王永山駅
+cluster1:(8)
+相模原線, 駅, 小田急電鉄, 地域, エスカレーター, 中間, 乗り換え, ホーム
+cluster2:(2)
+橋本, 調布
+cluster3:(2)
+住宅街, 時間帯
+cluster4:(1)
+通勤通学
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

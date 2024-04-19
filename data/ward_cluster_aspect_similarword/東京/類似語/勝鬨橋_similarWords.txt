@@ -1,0 +1,21 @@
+--------------------similar_words:勝鬨橋--------------------
+top3 entities near to cluster0>>
+風景, 景色, 街並み
+top3 entities near to cluster1>>
+開閉, 着脱, 脱着
+top3 entities near to cluster2>>
+可動, 関節, スライドギミック
+top3 entities near to cluster3>>
+跳ね, 上げ, あげ
+top3 entities near to cluster4>>
+館橋, 資料, 館
+top3 entities near to cluster5>>
+高層, ビル, ノッポビル
+top3 entities near to cluster7>>
+たもと, 鉄橋
+top3 entities near to cluster8>>
+交通量, 交通, 道路
+top3 entities near to cluster9>>
+通行, 船舶, 通航
+top3 entities near to cluster10>>
+中央, 駅, 徒歩

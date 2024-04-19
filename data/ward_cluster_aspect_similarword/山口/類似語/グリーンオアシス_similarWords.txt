@@ -1,0 +1,15 @@
+--------------------similar_words:グリーンオアシス--------------------
+top3 entities near to cluster0>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster1>>
+お湯, 風呂, 湯船
+top3 entities near to cluster2>>
+地元人, 地元, 大勢
+top3 entities near to cluster3>>
+子供, 子ども, プール
+top3 entities near to cluster4>>
+食事, 値段, 宿泊
+top3 entities near to cluster5>>
+牡丹, 肩, 背中
+top3 entities near to cluster7>>
+温水, プール, 冷水

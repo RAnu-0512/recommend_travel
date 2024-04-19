@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天城のブナ林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ブナ林, ブナ, 極相林, 原生林
+cluster1:(2)
+特別保護地区, 自然景観
+cluster2:(2)
+伊豆市, 天城
+cluster3:(2)
+天然, 木
+cluster4:(4)
+ひとつ, 遊歩道, 場所, 足元
+cluster5:(3)
+木々, 緑, 自然
+cluster6:(1)
+年月
+cluster7:(3)
+観光スポット, 小岳周辺, 国指定
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 4
+deleted 7entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新島ガラスアートミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+ミュージアム, 作品, ガラス, ガラスアート, 世界, ガラス体験, 方, 個人, 眺め, ガラスアーティスト, 館内
+cluster1:(2)
+新島ガラス, コーガ石
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

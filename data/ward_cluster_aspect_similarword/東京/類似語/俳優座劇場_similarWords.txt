@@ -1,0 +1,25 @@
+--------------------similar_words:俳優座劇場--------------------
+top3 entities near to cluster0>>
+駅, 出口, 地下鉄
+top3 entities near to cluster1>>
+花, お花, 草花
+top3 entities near to cluster2>>
+俳優座, オリベホール, バナナ・ボーイズ
+top3 entities near to cluster3>>
+雰囲気, カンジ, 印象
+top3 entities near to cluster4>>
+ロビー, テレビ, ＴＶ
+top3 entities near to cluster5>>
+交差点, 十字路, 三叉路
+top3 entities near to cluster7>>
+距離, 至近, 射程
+top3 entities near to cluster8>>
+演目, 席, 舞台
+top3 entities near to cluster9>>
+良さ, 憎憎し, もの憂
+top3 entities near to cluster11>>
+老舗, 名門, しにせ
+top3 entities near to cluster12>>
+劇場, 公演, ミンスコフ
+top3 entities near to cluster14>>
+俳優, 役者, 演劇

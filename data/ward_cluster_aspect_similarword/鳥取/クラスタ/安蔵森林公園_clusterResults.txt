@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安蔵森林公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+気分, 転換
+cluster1:(2)
+空気, 虫
+cluster2:(10)
+オートキャンプ場, ソロキャンプ, 関係, 人数, キャンプ, 市, バーベキュー, 場所, ドライブ, バンガロー
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

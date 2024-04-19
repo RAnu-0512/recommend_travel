@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島城遊覧船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+変更, 都合
+cluster1:(2)
+スポット, ガイド
+cluster2:(1)
+写真
+cluster3:(1)
+話
+cluster4:(1)
+周り
+cluster5:(1)
+船
+cluster6:(1)
+人数
+cluster7:(1)
+コロナ対策
+cluster8:(1)
+予約時間
+cluster9:(1)
+広島城
+cluster10:(1)
+遊覧船
+
+howmany entities : 13
+howmany clusters : 11
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MONO FACTORY>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ロクロ初体験, ロクロ体験, ロクロ, 電動ロクロ体験
+cluster1:(36)
+やり方, 指先, 所, 工房, 女, 顔, 土, アクション, 家族, オバ, 親友, 学校, 思い出, 外, スペース, 写真, 口コミ, コース, 感触, 清清, 体験, 時間, 庭, 旅行, レベル, 中, ホームページ, 雰囲気, 建物, 場所, オーナー, 先生, 作品, 旅, 施設, 他
+cluster2:(3)
+姿, 声, 手本
+cluster3:(7)
+気, 興味, こと, もの, 感じ, 不安, 説明
+cluster4:(1)
+久しぶりぶり
+cluster5:(1)
+教え方
+cluster6:(1)
+素敵過ぎ
+cluster7:(1)
+アッという間
+cluster8:(8)
+美術系, 陶芸, 授業ばり, ろくろ, 陶芸体験, 美術, 不器, 器
+
+howmany entities : 62
+howmany clusters : 9
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 5
+deleted 4entities.

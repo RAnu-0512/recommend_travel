@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井川展示館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+井川展示館, 展示館
+cluster1:(7)
+人, 撮影, 電気, 写真, 映画, もの, 仕組み
+cluster2:(3)
+ダムカード, 井川ダム, ダム
+cluster3:(1)
+中空重力式コンクリートダム
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 3entities.

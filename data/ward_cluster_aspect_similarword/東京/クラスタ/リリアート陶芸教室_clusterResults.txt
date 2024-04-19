@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リリアート陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+陶芸, 陶芸教室
+cluster1:(3)
+先生, 友人, 教室
+cluster2:(4)
+ぐい呑, スープカップ, 小鉢, 箸置き
+cluster3:(3)
+片方, 楕円, 形
+cluster4:(3)
+色味, ねり体験, 持ち手
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 5
+deleted 0entities.

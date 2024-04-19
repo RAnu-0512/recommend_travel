@@ -1,0 +1,35 @@
+--------------------similar_words:晴海トリトン--------------------
+top3 entities near to cluster0>>
+レストラン, スーパーマーケット, コンビニ
+top3 entities near to cluster1>>
+ランチ, スタバ, カフェ
+top3 entities near to cluster2>>
+フード, コート, スター
+top3 entities near to cluster3>>
+カフェ, 喫茶店, レストラン
+top3 entities near to cluster4>>
+イベント, コンサート, ライブ
+top3 entities near to cluster5>>
+エリア, オフィス, タワー
+top3 entities near to cluster6>>
+仕事, 店舗
+top3 entities near to cluster7>>
+携帯, ケータイ, 電話
+top3 entities near to cluster9>>
+雑貨店, 飲食店, 雑貨, 飲食
+top3 entities near to cluster10>>
+方向, 逆, 行く
+top3 entities near to cluster12>>
+景色, 夜景
+top3 entities near to cluster13>>
+穴場, 混雑, 見物
+top3 entities near to cluster14>>
+散歩, 用事, 歩道
+top3 entities near to cluster15>>
+施設, 食事, 建物
+top3 entities near to cluster16>>
+商業, 施設, 複合
+top3 entities near to cluster17>>
+複合, 施設, 商業
+top3 entities near to cluster19>>
+文化展, 産業展, 文化, 産業

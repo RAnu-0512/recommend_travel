@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:曲直瀬玄朔墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+歴史, 天下統一, 広尾, 和尚
+cluster1:(3)
+福岡藩主, 黒田長政, 豊臣秀吉
+cluster2:(2)
+堀部左門親真, 京都築野大徳寺
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

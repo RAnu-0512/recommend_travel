@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:女河浦海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駐車場, 無料駐車場, 更衣室, 女河浦海水浴場
+cluster1:(3)
+どこか懐かしさ, 星空鑑賞, 流星群
+cluster2:(5)
+ご飯, 釣り, 景色, 布団, 散歩
+cluster3:(2)
+営業, 食料
+cluster4:(1)
+ビール片手
+cluster5:(23)
+買い出し, 夏季シーズン, 雨, 浜名湖, 所, 中止, 途中, 心, ビーチ, 時期, ビール, 春夏秋冬, こと, 母, 海水浴, 全部, 横, 人, シャワー, 夏, 子ども, 場所, ファミリー
+cluster6:(3)
+海水浴場, 混雑, 海水浴客
+cluster7:(6)
+水辺, 遠浅, 海辺, 水質, 海, 波
+cluster8:(1)
+コロナ禍
+cluster9:(3)
+湖西市, 堤防沿い, 堤防
+cluster10:(1)
+笑笑笑 カニ
+
+howmany entities : 52
+howmany clusters : 11
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 7
+deleted 5entities.

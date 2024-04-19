@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒田家代官屋敷長屋門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+屋敷, 代官屋敷, 屋敷門
+cluster1:(2)
+梅, 堀
+cluster2:(9)
+母屋, 建物, 家, 内部, 周囲, 文化財, 長屋門, 住居, 国
+cluster3:(1)
+黒田家
+cluster4:(1)
+江戸時代
+cluster5:(1)
+茅葺
+cluster6:(1)
+黒田家代官屋敷長屋門
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 6entities.

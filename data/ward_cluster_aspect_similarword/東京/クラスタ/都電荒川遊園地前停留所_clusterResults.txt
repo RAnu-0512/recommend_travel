@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都電荒川遊園地前停留所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駅, 入り口, 遊園, 場所, 名前, 停車駅
+cluster1:(2)
+都電, 尾久駅
+cluster2:(1)
+あらかわ遊園
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

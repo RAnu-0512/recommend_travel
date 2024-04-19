@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 錦糸町店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+一方通行, 通行
+cluster1:(10)
+ドライブスタート, 駅, 駅北側, 電車, 錦糸町駅, 脇道, 北斎通り, 通り, ナビ, 設定
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

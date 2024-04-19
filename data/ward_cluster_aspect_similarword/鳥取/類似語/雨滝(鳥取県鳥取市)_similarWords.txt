@@ -1,0 +1,25 @@
+--------------------similar_words:雨滝(鳥取県鳥取市)--------------------
+top3 entities near to cluster1>>
+足元, 足場, 足下
+top3 entities near to cluster2>>
+駅車, バス車, 駅, バス
+top3 entities near to cluster3>>
+土産, おみやげ, 土産物
+top3 entities near to cluster4>>
+観覧, 入場, 来場
+top3 entities near to cluster5>>
+県道, 国道, 旧道
+top3 entities near to cluster6>>
+町民, 市民, 町営
+top3 entities near to cluster7>>
+路線, バス, 鉄道
+top3 entities near to cluster8>>
+傘, 踊り, 日傘
+top3 entities near to cluster9>>
+豪雨, 大雨
+top3 entities near to cluster10>>
+新緑, 紅葉, 黄葉
+top3 entities near to cluster11>>
+晩秋, 季節, 夏
+top3 entities near to cluster12>>
+山, 岩, 山道

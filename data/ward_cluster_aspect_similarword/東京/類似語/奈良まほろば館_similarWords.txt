@@ -1,0 +1,33 @@
+--------------------similar_words:奈良まほろば館--------------------
+top3 entities near to cluster0>>
+物産, 冷蔵, 特産
+top3 entities near to cluster2>>
+つまみ, 奈良漬け, ぐいして
+top3 entities near to cluster3>>
+ショップ, イベント, グッズ
+top3 entities near to cluster4>>
+ふきん, 文房具, 大仏殿
+top3 entities near to cluster5>>
+ショー, ウィンドウ, ウインドウ
+top3 entities near to cluster6>>
+せん, くん, たくん
+top3 entities near to cluster8>>
+回点, 回目, 回
+top3 entities near to cluster10>>
+各地, 各種, 各所
+top3 entities near to cluster11>>
+名物, 人気, 定番
+top3 entities near to cluster12>>
+めぐり, 巡る
+top3 entities near to cluster13>>
+野菜, 食品, 食材
+top3 entities near to cluster14>>
+菓子, 土産, 雑貨
+top3 entities near to cluster15>>
+青果, 鮮魚, 精肉
+top3 entities near to cluster16>>
+店内, 入り口
+top3 entities near to cluster17>>
+情報, 用品, 関連
+top3 entities near to cluster19>>
+名産品, 特産品, 名産, 特産

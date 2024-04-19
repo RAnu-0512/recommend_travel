@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:入田海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大人心, 透明度
+cluster1:(2)
+南国ムード, 南国
+cluster2:(2)
+並木, 下田
+cluster3:(4)
+雰囲気, ムード, ソテツ, ビーチ
+cluster4:(3)
+海岸, 海, 砂浜
+cluster5:(1)
+海岸沿い
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 7entities.

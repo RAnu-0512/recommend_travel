@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上千葉砂原公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+公園, 花見, 遊具
+cluster1:(3)
+馬, 動物, SL
+cluster2:(2)
+乗り物, 自転車
+cluster3:(7)
+ゴーカート, おすすめポイント, モルモット, パーキング, アドバイス, トラブル, コーナー
+cluster4:(2)
+小動物, ポニー
+cluster5:(1)
+水遊び
+cluster6:(4)
+大人, 人, 子供, 子
+cluster7:(4)
+場所, 係, 場, 信号
+cluster8:(4)
+ポニー乗馬, ミニ練習スペース, うちの子, 練習
+cluster9:(9)
+ミニ動物園, 駐車場, 子供動物園, 横断歩道, 交通公園, 路上駐車, 喜ぶ交通公園, 千葉砂原公園, ふれあい動物広場
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 10
+deleted 0entities.

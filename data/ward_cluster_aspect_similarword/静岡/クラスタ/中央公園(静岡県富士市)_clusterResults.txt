@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中央公園(静岡県富士市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+富士市, 富士市役所, 富士駅, 東名富士
+cluster1:(4)
+東側, 両側, 西側, 南側
+cluster2:(4)
+広場, 公園, 散歩, 遊具
+cluster3:(3)
+陸橋, 池, 橋
+cluster4:(2)
+バス, シャトルバス
+cluster5:(2)
+富士山, 潤井川
+cluster6:(2)
+市役所, 中央公園
+cluster7:(7)
+イベント, グラウンド, ロゼシアター, リフレッシュ, スポット, 子ども, オススメ
+cluster8:(2)
+ペット, トイレ
+cluster9:(1)
+ボール
+cluster10:(1)
+賑わい
+cluster11:(1)
+フリーマーケット
+cluster12:(7)
+車, 家族, 秋, 駅, 近く, 自然, 週末
+cluster13:(8)
+試合, 必要, 開催, 時期, もの, 競技, 距離, 方
+cluster14:(9)
+駐車場, 薔薇, 芝生広場, バラ, 芝生, 文化会館, 場所取り, バラ園, バラまつり
+
+howmany entities : 57
+howmany clusters : 15
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 8
+deleted 11entities.

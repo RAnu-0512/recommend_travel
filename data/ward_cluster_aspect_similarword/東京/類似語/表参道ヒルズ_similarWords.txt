@@ -1,0 +1,67 @@
+--------------------similar_words:表参道ヒルズ--------------------
+top3 entities near to cluster0>>
+複合, 施設, 商業
+top3 entities near to cluster1>>
+商業, 複合, 施設
+top3 entities near to cluster2>>
+商業, 施設, 大型
+top3 entities near to cluster3>>
+ブランド, カジュアル, ファッション
+top3 entities near to cluster4>>
+雰囲気, センス, 気持ち
+top3 entities near to cluster5>>
+街並み, レトロ, 町並み
+top3 entities near to cluster6>>
+コーヒー, エスプレッソ, コーヒ
+top3 entities near to cluster7>>
+スタバ, タリーズ, ドトール
+top3 entities near to cluster8>>
+ランチ, デート, 子連れ
+top3 entities near to cluster9>>
+ウインドウ, ショッピング, ウィンドー
+top3 entities near to cluster10>>
+スロープ, 車椅子, 車いす
+top3 entities near to cluster11>>
+バリア, ガラス, 防壁
+top3 entities near to cluster12>>
+チャペル, 吹き抜け, 吹抜け
+top3 entities near to cluster13>>
+カーテン, 模様替え, インテリア
+top3 entities near to cluster14>>
+ヒカリエ, デルレイ, ラフォーレ
+top3 entities near to cluster15>>
+ストリート, ファッション, ファイター
+top3 entities near to cluster16>>
+アパート, テナント, カップル
+top3 entities near to cluster17>>
+シンボル, イベント, デザイン
+top3 entities near to cluster18>>
+レストラン, ファッション, デパート
+top3 entities near to cluster19>>
+クリスマス, クリスマスツリー, クリスマスイブ
+top3 entities near to cluster20>>
+シーズン, クリスマス, オフシーズン
+top3 entities near to cluster21>>
+ツリー, クリスマスツリー, バンヤン
+top3 entities near to cluster22>>
+セール, バーゲン, クリアランスセール
+top3 entities near to cluster24>>
+ショップ, ブティック, カフェ
+top3 entities near to cluster25>>
+駅, 駅前, ビルアトレ
+top3 entities near to cluster26>>
+子供, 家族
+top3 entities near to cluster28>>
+皆人, 大勢, 皆
+top3 entities near to cluster29>>
+時間, 横, 足
+top3 entities near to cluster30>>
+中心, 全体, 構造
+top3 entities near to cluster32>>
+仕事, 土産, ケア
+top3 entities near to cluster33>>
+一色屋, 一色
+top3 entities near to cluster34>>
+建物, 階段, 通路
+top3 entities near to cluster35>>
+飲食店, 飲食, 建築

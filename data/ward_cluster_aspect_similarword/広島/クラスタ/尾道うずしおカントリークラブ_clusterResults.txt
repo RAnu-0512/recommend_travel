@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾道うずしおカントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+曇り空, 海沿い
+cluster1:(1)
+コース
+cluster2:(1)
+スコア
+cluster3:(1)
+名前
+cluster4:(1)
+山岳コース
+cluster5:(1)
+うずしお
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

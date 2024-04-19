@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆高原ダイビングスクール渋谷店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+伊豆, 大島ツアー, 和気, 伊戸, 大島
+cluster1:(2)
+大満足ダイビング, 非日常
+cluster2:(3)
+渋谷店, 店長, 店内
+cluster3:(2)
+ダイビング用品, レンタル品
+cluster4:(3)
+ライセンス講習, 講習, 体験ダイビング
+cluster5:(7)
+楽しみ方, 気, 感じ, 事, 方, こと, かた達
+cluster6:(5)
+エイ, サメ, 海, 大群, 魚
+cluster7:(3)
+ストレス, おかげ, 雰囲気
+cluster8:(2)
+ダイビング, ファンダイブ
+cluster9:(2)
+ライセンス, インストラクター
+cluster10:(1)
+ダイビングライセンス
+cluster11:(1)
+ショップ
+cluster12:(2)
+ダイコン, ウミガメ
+cluster13:(2)
+ごはん, ツアー
+cluster14:(1)
+イワシ
+cluster15:(1)
+ファンダイビング
+cluster16:(3)
+話, 写真, 説明
+cluster17:(2)
+雨, 都
+cluster18:(3)
+大物, 安定, 世話
+
+howmany entities : 50
+howmany clusters : 19
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 19
+deleted 0entities.

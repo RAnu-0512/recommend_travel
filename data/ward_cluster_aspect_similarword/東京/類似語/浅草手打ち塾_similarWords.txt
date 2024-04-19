@@ -1,0 +1,11 @@
+--------------------similar_words:浅草手打ち塾--------------------
+top3 entities near to cluster0>>
+うどん, 食べ
+top3 entities near to cluster1>>
+子供, 子ども, 親達
+top3 entities near to cluster3>>
+友人, 友達, 家族
+top3 entities near to cluster4>>
+時間, 現地, 種類
+top3 entities near to cluster5>>
+塩分, 濃度, 塩気

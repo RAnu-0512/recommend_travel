@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:隼駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+昭和, 東京
+cluster1:(3)
+映画, 国, 風景
+cluster2:(12)
+持ち主, ブルートレイン, バイク, オーナーライダー, ライダー, 乗り物, じまい, 人, バック, 周囲, ソレ, インフルエンザ
+cluster3:(1)
+愛車
+cluster4:(1)
+機種
+cluster5:(1)
+聖地
+cluster6:(1)
+予防
+cluster7:(11)
+駅舎, ロケ地, 駅, ローカル駅, 鉄道マニア, 駅本屋, 駅名, 無人駅, マイカー駐車スペース, 実物展示, 単線
+cluster8:(4)
+隼, 若桜鉄道, 隼駅, 八頭町
+cluster9:(1)
+登録有形文化財
+
+howmany entities : 37
+howmany clusters : 10
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 10
+deleted 0entities.

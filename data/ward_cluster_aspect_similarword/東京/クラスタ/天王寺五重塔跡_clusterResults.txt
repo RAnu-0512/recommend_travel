@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天王寺五重塔跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+露伴, 幸田露伴
+cluster1:(3)
+谷中感応寺, 谷中, 谷中墓
+cluster2:(2)
+塔跡, 塔
+cluster3:(2)
+五重塔跡, 跡
+cluster4:(2)
+跡地, 五重塔跡地
+cluster5:(2)
+放火, 火災
+cluster6:(2)
+消失, 焼失
+cluster7:(20)
+モデル, 説明板, 昔, 古刹, 舞台, 公園, 小説, 墓地, 柱, 古写真, 前身, 写真, 中, 歴史, 天王寺五重塔, スポット, 天王寺, 境内, 五重塔, 史跡
+cluster8:(1)
+放火心中事件
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 9
+deleted 0entities.

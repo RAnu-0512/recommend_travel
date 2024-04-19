@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日南町美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+建物, 美術館, 多く
+cluster1:(2)
+美術作品, 展示作品
+cluster2:(1)
+〇〇美術館
+cluster3:(1)
+日南町総合文化センター
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観光農園フルーツランドふの>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+リンゴ狩り, 園, 園内, リンゴ園
+cluster1:(2)
+長野, 青森
+cluster2:(3)
+期待, 思い, 感じ
+cluster3:(2)
+体, 口
+cluster4:(8)
+リンゴ, おにぎり, りんご, 持ち帰り, 時間, 近く, 発見, ナイフ
+cluster5:(1)
+土産
+cluster6:(1)
+甘さ
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

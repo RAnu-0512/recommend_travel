@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本文化体験・着物レンタルサロン 浅草桜永-ouei->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+浴衣, 浅草, 着物
+cluster1:(20)
+余裕, 店, 組み合わせ, スタッフ, ヘアメイク, 次回, 着付け, お気に入り, 体験, 機会, 友達, 予約, レース, 時間, 世話, 方, 対応, 先生, 説明, 色
+cluster2:(5)
+小物, 髪飾り, ヘア, 小物類, ヘアセット
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 3
+deleted 0entities.

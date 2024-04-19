@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新選組のふるさと歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+映像展示, 駐車場, 展示施設, 常設展, 展示
+cluster1:(18)
+人, テーマ, 子供, ところ, 話, 中身, コスプレコーナー, 意外, 始まり, ファン, コスプレ, 方, 中, アニメ, 説明, コーナー, もの, 全て
+cluster2:(3)
+社会, 歴史, 時代
+cluster3:(2)
+子孫, 親戚
+cluster4:(3)
+距離, 価値, 興味
+cluster5:(2)
+駅, 徒歩
+cluster6:(2)
+タクシー利用, 訪問
+cluster7:(5)
+場所, 近く, 施設, 写真, 周辺
+cluster8:(1)
+本陣
+cluster9:(1)
+親近感
+cluster10:(18)
+ふるさと歴史館, 新撰組ふるさと歴史館, 新撰組, 歴史館, 日野市役所, 日野宿交流館, 電動自転車, 新選組, 土方歳三, 新鮮組, 幕末維新, 甲州道, 日野宿, 新選, 幕末, 明治, 日野駅, 新選組関連
+cluster11:(1)
+京都⇒会津⇒鳥羽・伏見⇒函館
+
+howmany entities : 61
+howmany clusters : 12
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 12
+deleted 0entities.

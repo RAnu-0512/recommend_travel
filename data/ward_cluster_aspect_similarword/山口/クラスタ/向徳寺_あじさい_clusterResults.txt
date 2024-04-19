@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:向徳寺_あじさい>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, 山腹
+cluster1:(7)
+花, 日本, 気, 油谷湾, 風景, 紫陽花, 茶
+cluster2:(1)
+梅雨
+cluster3:(1)
+盛り
+cluster4:(1)
+美しさ
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

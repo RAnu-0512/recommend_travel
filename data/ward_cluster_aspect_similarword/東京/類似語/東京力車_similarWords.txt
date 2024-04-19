@@ -1,0 +1,25 @@
+--------------------similar_words:東京力車--------------------
+top3 entities near to cluster0>>
+写真, 撮っ, 撮る
+top3 entities near to cluster1>>
+子供, 劇団, 子ども
+top3 entities near to cluster2>>
+案内, 開催, 展示
+top3 entities near to cluster3>>
+m, メートル
+top3 entities near to cluster4>>
+乗り場, 人力車, 乗場
+top3 entities near to cluster5>>
+スタッフ, キャラクター, イベント
+top3 entities near to cluster6>>
+話, 女性, 息子
+top3 entities near to cluster7>>
+元気, 記念
+top3 entities near to cluster8>>
+刃, 刃先, デュエルファイター
+top3 entities near to cluster9>>
+車夫, 人力車, 俥屋
+top3 entities near to cluster10>>
+時間, 営業, 滞在
+top3 entities near to cluster11>>
+滅, 鬼, 砕士

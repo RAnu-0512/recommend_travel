@@ -1,0 +1,17 @@
+--------------------similar_words:爪木崎の水仙--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場代
+top3 entities near to cluster1>>
+バス, 駐車, タクシー
+top3 entities near to cluster2>>
+散歩道, 遊歩道, コース
+top3 entities near to cluster7>>
+施設, 会場, 敷地
+top3 entities near to cluster8>>
+花, 景色, お花
+top3 entities near to cluster9>>
+香り, 匂い, 薫り
+top3 entities near to cluster13>>
+水仙, スイセン, ニホンスイセン
+top3 entities near to cluster16>>
+海, 青, 青い

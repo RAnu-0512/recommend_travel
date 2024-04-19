@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:筏場のわさび田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+コロナ, 家族, わさび, 写真, ところ, 緑, わさび漬け, 風
+cluster1:(7)
+時期, こと, 場所, 辺り, 前, 方, 価値
+cluster2:(4)
+真夏, 道, 静寂, 山道
+cluster3:(8)
+沢, 農業遺産, わさび田, わさび丼, 名産, わさび店, 山葵畑, 山葵
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 0entities.

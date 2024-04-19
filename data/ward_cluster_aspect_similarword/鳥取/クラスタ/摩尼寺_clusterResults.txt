@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:摩尼寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中国観音霊場特別霊場, 中国観音霊場
+cluster1:(5)
+仁王門, バス停, 帝釈天, 鳥取砂丘, 般若心経
+cluster2:(4)
+地元, 事, 途中, 場所
+cluster3:(2)
+国, 歴史
+cluster4:(4)
+愛嬌, つくりだ, ほう, 方
+cluster5:(8)
+山裾, 奥, 空洞, 山頂, 立岩, 板, 凜, 岩
+cluster6:(17)
+上りベンチ, 参道, 御本堂, 朱印, 観光サイト, 古刹, 本堂, 木魚, 石段, 鐘楼, 参拝, 札所, 住職, 山門, 寺, 本尊, 階段
+cluster7:(1)
+戒壇巡り
+cluster8:(4)
+鳥取市, 登録有形文化財, JR鳥取駅, 摩尼さん
+
+howmany entities : 47
+howmany clusters : 9
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 9
+deleted 0entities.

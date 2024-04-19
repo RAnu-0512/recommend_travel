@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ペットスペース MARUKO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+機会, 場所
+cluster1:(2)
+犬, 元気
+cluster2:(1)
+朝一
+cluster3:(1)
+ひざ
+cluster4:(1)
+時間帯
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

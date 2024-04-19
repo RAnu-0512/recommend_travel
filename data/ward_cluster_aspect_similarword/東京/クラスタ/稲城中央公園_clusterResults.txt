@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲城中央公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+稲城市, 稲城駅, 稲城中央公園
+cluster1:(16)
+マラソンランナー, 自然, 中央, 体育館, 散策, ひとつ, 公園, スポーツ施設, 方法, 紅葉, グランド, 秋, スポーツ, 自然林, 園内, 中央公園
+cluster2:(3)
+総合公園, 総合運動公園, 運動量
+cluster3:(1)
+高低差
+cluster4:(1)
+陸上競技場
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

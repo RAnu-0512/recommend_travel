@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西方寺・普明閣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+観光地図, 町並み保存地区, 街中, 街, 町並み歩き
+cluster1:(26)
+瀬戸内, 入り口, 時期, 舞台, 街並み, 先, 墓地, 真下, 構造, 寺, 町並み, 高台, 清水寺, 坂, 感じ, 西方寺, 向こう, 清水, 景色, 京都, 奥, 道, 場所, 高さ, 階段, 竹原
+cluster2:(1)
+多島海
+cluster3:(1)
+普明閣
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 4
+deleted 0entities.

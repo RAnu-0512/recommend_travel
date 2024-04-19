@@ -1,0 +1,25 @@
+--------------------similar_words:奥大井音戯の郷(道の駅 併設)--------------------
+top3 entities near to cluster0>>
+川, 森, せせらぎ
+top3 entities near to cluster1>>
+展示, 体験, 出展
+top3 entities near to cluster2>>
+子供, 子ども, 大人
+top3 entities near to cluster3>>
+開店, 到着, 出店
+top3 entities near to cluster5>>
+施設, 目的, 外観
+top3 entities near to cluster8>>
+伝統, 人気, 評判
+top3 entities near to cluster11>>
+食べ物, 催し物, 乗り物
+top3 entities near to cluster12>>
+カフェ, トイレ, 喫茶店
+top3 entities near to cluster13>>
+ゲーム, イベント, コーナー
+top3 entities near to cluster17>>
+広場, 公園, 鉄道
+top3 entities near to cluster18>>
+木製, 音色
+top3 entities near to cluster19>>
+駅車, 駅, 駐車

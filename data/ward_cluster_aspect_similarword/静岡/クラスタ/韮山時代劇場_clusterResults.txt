@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:韮山時代劇場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+韮山文化センター, 韮山駅
+cluster1:(4)
+集編, 展示品, 大河ドラマ館, 資料館
+cluster2:(14)
+図書館, ボランティア, スタッフ, 終わり, 写真, 大河, ドラマ, 夫婦, 説明, 地域ぐるみ, 施設, シーン, 方, 特別インタビュ
+cluster3:(2)
+鎌倉殿, 頼朝
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 4entities.

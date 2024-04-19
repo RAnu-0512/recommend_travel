@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おんど観光文化会館うずしお>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+歴史, 館内, オススメ, 像, 方, 歴史資料, 観光, 土産, 土産コーナー, 資料館, 事, 場所
+cluster1:(6)
+呉市, 音戸, 広島県, 音戸大橋, 清盛祭, 毛利元就
+cluster2:(1)
+おんど観光文化会館
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

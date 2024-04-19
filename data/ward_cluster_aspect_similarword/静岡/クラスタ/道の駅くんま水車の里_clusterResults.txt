@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅くんま水車の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+風味, 値段, 価値
+cluster1:(2)
+感想, 体験
+cluster2:(2)
+時期, 春先
+cluster3:(2)
+こと, 勿論
+cluster4:(2)
+方々, 方
+cluster5:(1)
+場所
+cluster6:(1)
+約束
+cluster7:(1)
+何か
+cluster8:(1)
+良さ
+cluster9:(37)
+車, 光, 土産, 客, 天ぷら, 作り方, 名物, パサパサ, 売店, 子供達, バイク, 家族, 田舎, 地元, 農作業風景, 川, 阿多古川, 大人, 浜松, 天麩羅, メニュー, 全員, こんにゃく, 山菜, 母さん, 日本, 駅, 里, ロードバイク, 人参, 近く, 自然, 子供, ホタル, 上流, 旬, 道
+cluster10:(9)
+熊地区, 天ざる, ザ田舎, へい餅, 食事処, 東海自然, 熊, 商業主義, 豊かさ
+cluster11:(1)
+舞茸
+cluster12:(8)
+五平餅, 手打ち蕎麦, 蕎麦つゆ, 蕎麦打ち, 蕎麦打ち体験, 蕎麦, 蕎麦屋, 五平餅作り体験
+
+howmany entities : 70
+howmany clusters : 13
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 4
+deleted 13entities.

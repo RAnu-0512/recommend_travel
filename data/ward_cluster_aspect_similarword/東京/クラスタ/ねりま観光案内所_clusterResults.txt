@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ねりま観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+アニメ ラブライブ, スピンオフ幻日, 仮面ライダー, マンホール蓋, 配布, サンシャイン, スタンプ, 嘘 ロケーションマップ, キャラクター, 放送開始予定, マンホールカード, パネル, 練馬区, 練馬駅, 東映アニメーション, キャラクターパネル, 案内所
+cluster1:(4)
+西武バス大泉学園駅北口案内所, 嘘聖地巡礼マップ, ねりま観光案内所, ヨハネ -SUNSHINE in the MIRROR-の西武鉄道コラボスタンプラリー
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

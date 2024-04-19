@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北総鉄道北総線新柴又駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ファミレス, ドラッグストア
+cluster1:(1)
+コンビニ
+cluster2:(1)
+戸建て
+cluster3:(1)
+感じ
+cluster4:(1)
+駅
+cluster5:(1)
+電柱
+cluster6:(1)
+住宅街
+cluster7:(1)
+美容室
+cluster8:(1)
+北総線
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

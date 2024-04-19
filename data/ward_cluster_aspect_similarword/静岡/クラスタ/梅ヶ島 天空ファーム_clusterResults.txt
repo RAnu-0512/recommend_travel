@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅ヶ島 天空ファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+しいたけご飯, 椎茸ご飯, しいたけ狩り, たけピザ, 炊き込みご飯, 椎茸狩り, 椎茸, シイタケ狩り, 椎茸おにぎり, 〇〇狩り, たけ狩り, 椎茸ピザ, ピザ, たけご飯, 肉厚, お腹, たけ
+cluster1:(2)
+分, 時間
+cluster2:(2)
+最後, 途中
+cluster3:(1)
+現地
+cluster4:(1)
+木
+cluster5:(7)
+時期, 事, 感じ, 場所, 結論, こと, 場
+cluster6:(4)
+経験, 方, 手, 方々
+cluster7:(2)
+追加, 説明
+cluster8:(2)
+期待, 希望
+cluster9:(5)
+生シイタケ, シイタケ, 味噌汁, しいたけおにぎり, しいたけ
+cluster10:(2)
+すれ違い, おかげ
+cluster11:(7)
+ラーメン, メニュー, おにぎり, オプション, アヒージョ, カルピス, 地ビール
+cluster12:(1)
+コース
+cluster13:(1)
+道のり
+cluster14:(1)
+居心地
+cluster15:(4)
+娘, 子供, 家族, 店主
+cluster16:(13)
+車, 茶, 温泉, たれ, 野菜, 醤油, 農園, 美味, 猿, 道路, 塩, 味, 道
+cluster17:(4)
+炭火, 七輪, 原木, 自家
+cluster18:(6)
+対向車, 食べ方, 志村農園, 取り方, 焼き方, 案内板
+cluster19:(2)
+w県pアクセス道路, 離合不能区間
+
+howmany entities : 84
+howmany clusters : 20
+howmany entities (more than3entities) : 67
+howmany clusters (more than3entities) : 9
+deleted 17entities.

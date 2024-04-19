@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白山神社のあじさい>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(36)
+高み, 紫陽花, アジサイ, コロナ, 神社, 場所, あじさい祭り, 開催, 見物人, 祭り, 多く, まつり, 期間, 隣, 花, 人, 公園, 近さ, 富士塚, 手入れ, 種類, コロナ開け, 近く, 色とりどり, 駅, 都, 時期, テント, シーズン, あじさい, 敷地, 方, 雰囲気, 境内, 満開, 都心
+cluster1:(5)
+山手線, 白山神社, 白山公園, 白山駅, 文京区
+
+howmany entities : 41
+howmany clusters : 2
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 2
+deleted 0entities.

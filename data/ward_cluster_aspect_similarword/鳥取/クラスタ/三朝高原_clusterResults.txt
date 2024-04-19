@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三朝高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+遊具, 高原, 高原道路, 向こう, 広場, 山道, 案内板, 草木, 三朝高原, 県道, 階段, 付近, 頂上, 道路
+cluster1:(4)
+三朝温泉街展望所, 温泉街, 三朝高原児童遊園地, 三朝温泉街
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

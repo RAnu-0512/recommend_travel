@@ -1,0 +1,43 @@
+--------------------similar_words:高杉晋作誕生地--------------------
+top3 entities near to cluster0>>
+入場料, 入場, 展示
+top3 entities near to cluster1>>
+軒下, 屋内, 屋外
+top3 entities near to cluster2>>
+屋敷, 庭
+top3 entities near to cluster3>>
+敷地, 建物, 家屋
+top3 entities near to cluster4>>
+部屋, お家
+top3 entities near to cluster5>>
+写真, 画像, 風景
+top3 entities near to cluster6>>
+部隊, 小隊, 師団
+top3 entities near to cluster7>>
+井戸, 掘り抜き, ノフィカ
+top3 entities near to cluster8>>
+彦夫, 土蔵, 格子造り
+top3 entities near to cluster9>>
+小銭, 少額, 小額
+top3 entities near to cluster10>>
+史料, 資料, 書物
+top3 entities near to cluster11>>
+案内, 見学, 用意
+top3 entities near to cluster13>>
+妻, 息子, 夫
+top3 entities near to cluster14>>
+一部, 大半, 唯一
+top3 entities near to cluster16>>
+街並み, 城下町
+top3 entities near to cluster17>>
+人気, 大人気, 定番
+top3 entities near to cluster18>>
+大人, オトナ, 子供
+top3 entities near to cluster19>>
+自作, 自演, 既製
+top3 entities near to cluster20>>
+中高, 中学, 小中学
+top3 entities near to cluster21>>
+広い, 聴係, 聴室
+top3 entities near to cluster22>>
+生家, 生誕, 邸宅

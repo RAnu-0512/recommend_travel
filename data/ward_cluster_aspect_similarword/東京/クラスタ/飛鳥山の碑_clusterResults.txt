@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飛鳥山の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+一般, 場所, 屋根, 飛鳥山, 由来, 記念碑, 方, 歴史, 桜, こと, もの, 横
+cluster1:(4)
+石碑, 碑, 名所, 遊園
+cluster2:(5)
+徳川吉宗, 吉宗, 江戸時代, 江戸時代・吉宗, JR王子駅
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

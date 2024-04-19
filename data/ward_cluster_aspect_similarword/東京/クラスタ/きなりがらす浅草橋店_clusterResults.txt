@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:きなりがらす浅草橋店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+とんぼ玉, トンボ玉
+cluster1:(5)
+体験, 作成, 世話, 作業, 手本
+cluster2:(18)
+作品, ガラス, 柄もの, ストラップ, 待ち時間, 種類, 無地, 家族, 買い物, 模様, デザイン, 方, 物, 先生, お陰, パーツ, キット, 色
+cluster3:(2)
+棒状, 売店
+cluster4:(1)
+教え方
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

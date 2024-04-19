@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高燈籠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+絶景, 景色, 景観, 風景
+cluster1:(3)
+高潮, 心身, 潮風
+cluster2:(2)
+灯台, 突端
+cluster3:(2)
+役目, 補修
+cluster4:(3)
+風, 海, 夏
+cluster5:(7)
+姿, もの, スポット, 雰囲気, 気持ち, 場所, 元
+cluster6:(1)
+燈籠
+cluster7:(1)
+千砂子波止
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

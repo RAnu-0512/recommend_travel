@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍福寺資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+龍福寺資料館, 龍福寺
+cluster1:(3)
+大内弘直, 山口市, 大内
+cluster2:(8)
+器, 絵画, 展示, 資料, 瓦, 見ごたえ, 境内, 資料館
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

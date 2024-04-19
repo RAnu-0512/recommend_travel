@@ -1,0 +1,11 @@
+--------------------similar_words:早瀬大橋--------------------
+top3 entities near to cluster0>>
+其処, 此処, 彼処
+top3 entities near to cluster1>>
+近辺, 附近
+top3 entities near to cluster2>>
+対岸, 向こう岸, 北岸
+top3 entities near to cluster3>>
+鉄橋, 橋梁
+top3 entities near to cluster5>>
+郵便局, 郵便, 局員

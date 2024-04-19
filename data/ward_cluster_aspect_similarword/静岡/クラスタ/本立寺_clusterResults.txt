@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本立寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+森閑, 寺
+cluster1:(4)
+雰囲気, ざわめき, 目, 中
+cluster2:(3)
+緑, 鳥, 木々
+cluster3:(1)
+囀り
+cluster4:(1)
+江川家
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 4entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南谷寺(目赤不動)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+文京区観光ガイドマップ白山, 江戸五色不動めぐりで目赤不動, エリア聖地巡礼街歩き
+cluster1:(3)
+本堂, 山門, 境内
+cluster2:(2)
+寺院, 寺
+cluster3:(2)
+堂, 地蔵
+cluster4:(3)
+本郷, 本駒込駅, 東京メトロ
+cluster5:(11)
+正面, 右手, 吉祥寺, 不動明王, 不動堂, 右側, 雰囲気, 南北線, 通り, 目, 割
+cluster6:(1)
+護摩木
+cluster7:(12)
+目赤不動, 五色不動, 赤不動, 江戸五色不動, 赤目不動, 日赤不動, 赤, 赤不動明王, 不動堂(目赤不動明王, 目赤不動尊, 徳川家光, 目赤
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 8
+deleted 0entities.

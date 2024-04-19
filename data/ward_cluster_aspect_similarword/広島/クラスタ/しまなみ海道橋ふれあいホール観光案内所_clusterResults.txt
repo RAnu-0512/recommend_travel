@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しまなみ海道橋ふれあいホール観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イベント, スタッフ
+cluster1:(1)
+情報
+cluster2:(1)
+時間
+cluster3:(1)
+街
+cluster4:(1)
+観光
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:林芙美子記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+場所, 機会, こと, 注意
+cluster1:(2)
+緑, 道
+cluster2:(3)
+ところ, おかげ, 雰囲気
+cluster3:(5)
+アトリエ, ゴールデンウィーク, アンサンブル, 西武新宿線, テレビ
+cluster4:(1)
+鳴き声
+cluster5:(1)
+人
+cluster6:(1)
+東西線
+cluster7:(3)
+昔, 晩年, 本物
+cluster8:(1)
+面影
+cluster9:(6)
+小雨, 高架, 坂, 徒歩, 財布, 遠出
+cluster10:(2)
+舞台, 舞台装置
+cluster11:(4)
+家, 小説家, 小説, 作家
+cluster12:(8)
+民家, 展示室, 建物, 庭園, 自ら建築, 住居, 庭, 造り
+cluster13:(1)
+放浪記
+cluster14:(11)
+東京新宿, 林芙美子, 日本家屋とお庭, 中井駅, 高級住宅街, 林芙美子記念館, 住宅街, 記念館, 落合駅, 目白文化村, 新宿
+
+howmany entities : 53
+howmany clusters : 15
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 15
+deleted 0entities.

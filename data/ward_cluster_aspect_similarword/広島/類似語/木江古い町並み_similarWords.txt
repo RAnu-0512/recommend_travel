@@ -1,0 +1,15 @@
+--------------------similar_words:木江古い町並み--------------------
+top3 entities near to cluster1>>
+建築, 建物, 木造
+top3 entities near to cluster2>>
+駅前, 町, 昔
+top3 entities near to cluster3>>
+町並み, 街並み, 風景
+top3 entities near to cluster4>>
+趣, 印象, 趣き
+top3 entities near to cluster5>>
+館地, 館, 記念
+top3 entities near to cluster6>>
+保安官, 保安, 司令官, 司令
+top3 entities near to cluster7>>
+海上, 保安, 分室

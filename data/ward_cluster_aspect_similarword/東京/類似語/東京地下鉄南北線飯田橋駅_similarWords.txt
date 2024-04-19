@@ -1,0 +1,7 @@
+--------------------similar_words:東京地下鉄南北線飯田橋駅--------------------
+top3 entities near to cluster0>>
+東西線, ホーム, 地下鉄
+top3 entities near to cluster1>>
+距離, 時間, 余裕
+top3 entities near to cluster2>>
+ドア, 扉, ホーム

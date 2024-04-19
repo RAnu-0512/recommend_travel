@@ -1,0 +1,13 @@
+--------------------similar_words:瀬戸内ゴルフリゾート--------------------
+top3 entities near to cluster0>>
+端っこ, 隅っこ, 真ん中
+top3 entities near to cluster1>>
+気持ち, 気持, キモチ
+top3 entities near to cluster2>>
+クルマ, 車両
+top3 entities near to cluster3>>
+景色, 風景, 眺望
+top3 entities near to cluster5>>
+海風, 潮風, 山風
+top3 entities near to cluster6>>
+間近, 海, 目前

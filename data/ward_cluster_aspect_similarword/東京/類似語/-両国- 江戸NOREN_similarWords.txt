@@ -1,0 +1,27 @@
+--------------------similar_words:-両国- 江戸NOREN--------------------
+top3 entities near to cluster0>>
+両国, 駅, 国技
+top3 entities near to cluster1>>
+飲食店, 施設, 飲食
+top3 entities near to cluster3>>
+周辺, 裏手, 駅
+top3 entities near to cluster5>>
+天ぷら, ランチ, てんぷら
+top3 entities near to cluster6>>
+ちゃんこ, 江戸沢, チャンコ
+top3 entities near to cluster7>>
+オススメ, おすすめ, お薦め
+top3 entities near to cluster8>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster9>>
+フロア, テーブル, テープル
+top3 entities near to cluster10>>
+相手, 相手方, お互い
+top3 entities near to cluster11>>
+値段, 思い
+top3 entities near to cluster12>>
+食事, 蕎麦, 和食
+top3 entities near to cluster13>>
+土俵, 相撲, 大相撲
+top3 entities near to cluster14>>
+改札, 駅舎, コンコース

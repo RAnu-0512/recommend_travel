@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口県スポーツ交流村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口県唯一, 山口県, 山口県スポーツ交流村
+cluster1:(4)
+ヨットハーバー, マリーンスポーツ, トレーニングルーム, 小学生
+cluster2:(2)
+体育館, プール
+cluster3:(3)
+施設, 宿泊, 大型施設
+cluster4:(1)
+室積海岸
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

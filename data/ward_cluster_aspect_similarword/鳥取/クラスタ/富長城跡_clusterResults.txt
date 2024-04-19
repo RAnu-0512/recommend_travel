@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富長城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+淀江町, 尼子, 西伯郡, 鳥取県, 大山町富長西あたり, 伯耆攻め
+cluster1:(6)
+富長城, 富長神社, 神社, 富長城址, 富長城跡, 城跡
+cluster2:(2)
+海側, 深い川
+cluster3:(3)
+道路脇, 国道, 道路
+cluster4:(4)
+車, 所, 拠点, 周囲
+cluster5:(4)
+参道, 橋, 西, 堀
+cluster6:(1)
+標柱
+cluster7:(1)
+駐車場
+cluster8:(1)
+戦国時代
+cluster9:(1)
+土塁
+cluster10:(1)
+登り石段
+
+howmany entities : 30
+howmany clusters : 11
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 11
+deleted 0entities.

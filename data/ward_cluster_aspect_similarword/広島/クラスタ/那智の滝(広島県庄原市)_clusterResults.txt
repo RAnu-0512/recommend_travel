@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:那智の滝(広島県庄原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+中, 流れ方, 準備, 方, 迫力, 気, ほう, 心配, 場所, 間近, 距離
+cluster1:(13)
+鳥尾, そば, 水しぶき, 心, スニーカー, 傍, マイナスイオン, 水, 足元, 滝, 登山, 和歌山, 自然
+cluster2:(1)
+涼しさ
+cluster3:(3)
+庄原インター, 広島県, 庄原市
+cluster4:(3)
+那智の滝, 那智, 熊野神社
+cluster5:(2)
+杉並木, 西城町
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 6
+deleted 0entities.

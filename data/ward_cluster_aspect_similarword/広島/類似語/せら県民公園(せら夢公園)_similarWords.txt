@@ -1,0 +1,11 @@
+--------------------similar_words:せら県民公園(せら夢公園)--------------------
+top3 entities near to cluster1>>
+広場, 遊具, 公園
+top3 entities near to cluster4>>
+子供, 子ども, 滑り台
+top3 entities near to cluster5>>
+公園, 広場, 園内
+top3 entities near to cluster6>>
+子供, 子ども, 幼児
+top3 entities near to cluster7>>
+子供, 子ども, 年齢

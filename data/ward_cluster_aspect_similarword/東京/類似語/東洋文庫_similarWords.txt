@@ -1,0 +1,31 @@
+--------------------similar_words:東洋文庫--------------------
+top3 entities near to cluster0>>
+展示, 収蔵, 所蔵
+top3 entities near to cluster1>>
+東洋, 西洋, 医学
+top3 entities near to cluster2>>
+駅, 区, 都
+top3 entities near to cluster3>>
+博物館, ミュージアム, カフェ
+top3 entities near to cluster5>>
+興味, 価値, 関心
+top3 entities near to cluster6>>
+圧巻, 貴重, 素晴らしい
+top3 entities near to cluster7>>
+穴場, オススメスポット, ススメスポット
+top3 entities near to cluster8>>
+国宝, 文化財, カリスマレジェンド
+top3 entities near to cluster9>>
+間口, 幅, 奥行
+top3 entities near to cluster10>>
+雑誌, 書籍, 映画
+top3 entities near to cluster11>>
+文献, 資料, 史料
+top3 entities near to cluster12>>
+文化, 歴史, 伝統
+top3 entities near to cluster13>>
+館内, 施設, 建物
+top3 entities near to cluster14>>
+訪問, 初, 来訪
+top3 entities near to cluster15>>
+蔵書, 書物, 専門

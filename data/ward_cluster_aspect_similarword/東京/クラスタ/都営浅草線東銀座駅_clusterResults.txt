@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営浅草線東銀座駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+意味, 昔, オフィス, 線路, 歌舞伎, 感じ, 街, 浅草線, 京浜急行, ホーム, 路線, 駅, 入り口, 乗換え, 招待, 羽田空港, 移動, 地下, 地下鉄, 周り, 方面, 歌舞伎座, 日比谷線, 位, 周辺, 劇場, 側, 歌舞伎座側, 乗り換え, 階段, 反対
+cluster1:(2)
+古き駅, 開場時間
+cluster2:(2)
+上下線, 対面式ホーム
+cluster3:(1)
+朗読劇
+cluster4:(10)
+木挽町広場, 銀座博品館, 新橋, 浅草, 築地, 東銀座, 銀座, 東京メトロ, 銀座線, 都営
+
+howmany entities : 46
+howmany clusters : 5
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:下関つくの温泉--------------------
+top3 entities near to cluster0>>
+温泉, 風呂, 露天風呂
+top3 entities near to cluster1>>
+から外, から内, から
+top3 entities near to cluster2>>
+海風, 海, 海辺
+top3 entities near to cluster3>>
+値段, 料金, 眺望
+top3 entities near to cluster4>>
+お湯, 加減, 湯
+top3 entities near to cluster5>>
+つく, 付く, つか

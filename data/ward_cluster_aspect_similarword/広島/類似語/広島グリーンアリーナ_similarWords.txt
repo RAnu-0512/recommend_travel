@@ -1,0 +1,31 @@
+--------------------similar_words:広島グリーンアリーナ--------------------
+top3 entities near to cluster0>>
+県立, 総合, 市立
+top3 entities near to cluster1>>
+安室, コブ, クロ
+top3 entities near to cluster2>>
+長蛇, 混雑, 混む
+top3 entities near to cluster3>>
+各種, 様々, さまざま
+top3 entities near to cluster4>>
+利用, 参加, 購入
+top3 entities near to cluster6>>
+愛称名, 愛称, 名称
+top3 entities near to cluster10>>
+時間, 時期, 便利
+top3 entities near to cluster11>>
+コンサート, ライブ, イベント
+top3 entities near to cluster12>>
+ジム, 屋内, ドア
+top3 entities near to cluster14>>
+女子, 男子, 世界
+top3 entities near to cluster15>>
+子供, 子ども
+top3 entities near to cluster16>>
+周辺店, 周辺, 繁華
+top3 entities near to cluster18>>
+会場, 大会, 席
+top3 entities near to cluster19>>
+徒歩, 駅, 繁華
+top3 entities near to cluster20>>
+交通, バス, 電車

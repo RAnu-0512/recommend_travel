@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黄金崎海水浴場(根合海水浴場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+黄金崎海岸, 海岸
+cluster1:(5)
+魚, 水辺, 釣り, 岩場, 海
+cluster2:(9)
+ダイビング, 海水浴, 両方, キャンプ, 靴, プライベート, トイレ, レジャー, シュノーケリング
+cluster3:(6)
+駐車場, 海水浴場, 更衣室, キャンプ場, 各種観光施設, 自然環境
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 2entities.

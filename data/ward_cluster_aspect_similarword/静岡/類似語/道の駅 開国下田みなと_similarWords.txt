@@ -1,0 +1,81 @@
+--------------------similar_words:道の駅 開国下田みなと--------------------
+top3 entities near to cluster0>>
+黒船, 帆船
+top3 entities near to cluster5>>
+目的, 施設, 館
+top3 entities near to cluster6>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster7>>
+土産物屋, 干物, 土産物
+top3 entities near to cluster8>>
+土産, おみやげ, 土産物
+top3 entities near to cluster9>>
+飲食店, 店舗, 飲食
+top3 entities near to cluster10>>
+マグロ, カツオ, 魚市場
+top3 entities near to cluster12>>
+デザート, アイス, サラダ
+top3 entities near to cluster13>>
+スタッフ, スペース, メニュー
+top3 entities near to cluster14>>
+レストラン, ハンバーガー, バフェスタイル
+top3 entities near to cluster15>>
+イートイン, 持ち帰り, おみやげ
+top3 entities near to cluster16>>
+おすすめ, 待ち時間, クーポン
+top3 entities near to cluster17>>
+おなか, 気持ち, 気持
+top3 entities near to cluster18>>
+土産物, 売り場, 乗り場
+top3 entities near to cluster19>>
+海老, 鯛
+top3 entities near to cluster20>>
+駅, 徒歩, 駅前
+top3 entities near to cluster21>>
+海, 漁港, 海岸
+top3 entities near to cluster22>>
+駐車, 宿, 会場
+top3 entities near to cluster23>>
+電車, 運転
+top3 entities near to cluster24>>
+旅, 景色, 写真
+top3 entities near to cluster25>>
+散歩, 公園
+top3 entities near to cluster26>>
+館内, 敷地, 建物
+top3 entities near to cluster27>>
+食券, レジ, 会計
+top3 entities near to cluster30>>
+朝市, 出店, 市場
+top3 entities near to cluster41>>
+ご飯, 御飯, ごはん
+top3 entities near to cluster42>>
+購入, 利用, 探し
+top3 entities near to cluster43>>
+価値, 機会, 値段
+top3 entities near to cluster47>>
+種類
+top3 entities near to cluster53>>
+周辺, 中心, 地元
+top3 entities near to cluster59>>
+家族, 人数
+top3 entities near to cluster61>>
+建築家, 建築, 自分
+top3 entities near to cluster63>>
+開国, 鎖国, 開港
+top3 entities near to cluster76>>
+海鮮, 丼, 魚介
+top3 entities near to cluster77>>
+丼, 海鮮, 炙り
+top3 entities near to cluster78>>
+金目, 鯛, 真鯛
+top3 entities near to cluster79>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster81>>
+寿司, すし, 鮨
+top3 entities near to cluster82>>
+回転, 寿司, 寿し
+top3 entities near to cluster83>>
+寿司屋, すし屋, 寿司, すし
+top3 entities near to cluster84>>
+寿司, 鮨

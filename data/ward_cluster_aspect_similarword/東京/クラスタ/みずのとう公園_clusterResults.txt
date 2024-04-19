@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みずのとう公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+池袋駅, 東口
+cluster1:(5)
+公園, 墓, 蓮華寺, 東洋大学, バス停
+cluster2:(1)
+哲学堂
+cluster3:(1)
+都営バス
+cluster4:(1)
+井上円了
+cluster5:(1)
+聖地巡礼街歩き
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:舟仙の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+芹沢舟仙, 舟仙, 千本浜公園
+cluster1:(15)
+人, 沼津藩主, 弟子, 本名, 共同墓地, 馬, 彫刻師, 一刀彫, 沼津, 墓, 彫刻, 多芸, 江戸時代末期, 彫刻師舟, 俳句
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

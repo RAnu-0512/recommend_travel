@@ -1,0 +1,17 @@
+--------------------similar_words:ハワイ海水浴場--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 更衣
+top3 entities near to cluster1>>
+お湯, 温水, シャワー
+top3 entities near to cluster2>>
+冬, 夏, 秋
+top3 entities near to cluster3>>
+公園, 風景, ご飯
+top3 entities near to cluster4>>
+海水浴, 潮干狩り, 行楽
+top3 entities near to cluster5>>
+子供, 子ども
+top3 entities near to cluster8>>
+有料, 無料, 有償
+top3 entities near to cluster9>>
+海, 遠浅, 砂

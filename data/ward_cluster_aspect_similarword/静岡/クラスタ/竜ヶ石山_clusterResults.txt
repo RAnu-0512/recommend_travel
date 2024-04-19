@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竜ヶ石山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登山道, 登山口
+cluster1:(2)
+案内, 看板
+cluster2:(3)
+途中, 方, 道
+cluster3:(1)
+山頂
+cluster4:(1)
+駐車場
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 6entities.

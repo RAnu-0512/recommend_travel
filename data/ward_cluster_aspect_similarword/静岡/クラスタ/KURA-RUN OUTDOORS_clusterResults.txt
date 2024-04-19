@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:KURA-RUN OUTDOORS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+参加者, 運動不足, 深さ
+cluster1:(2)
+水温, 気温
+cluster2:(7)
+水, 川, 川底, 石, 葉, 岩, 木
+cluster3:(2)
+雨, 台風
+cluster4:(3)
+こと, 写真, 中
+cluster5:(2)
+ライフジャケット, ラッシュガード
+cluster6:(6)
+クララ, キャニオニング, セット, ガイド, ランチ, 滝つぼ
+cluster7:(2)
+体験, 想像
+cluster8:(3)
+鼻, 公園, 自然
+
+howmany entities : 30
+howmany clusters : 9
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 8entities.

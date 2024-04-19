@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:屋形船あみ幸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+揚げたて, 陽, 時間, コロナ, スカイツリー, 屋形船, 友人, 真夏, 夕暮れ, 天ぷら, 水辺, 夏
+cluster1:(3)
+台場, 甲板, 夜景
+cluster2:(1)
+誕生日
+cluster3:(1)
+天ぷら食べ放題コース
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

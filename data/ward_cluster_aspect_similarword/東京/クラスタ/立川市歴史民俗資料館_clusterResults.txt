@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:立川市歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, バス
+cluster1:(2)
+距離, 角度
+cluster2:(4)
+歴史, 分野, 飛行場関係, 資料
+cluster3:(3)
+こと, 興味, 感じ
+cluster4:(3)
+資料館, 展示室, 展示
+cluster5:(1)
+立川市
+cluster6:(1)
+歴史民俗資料館
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

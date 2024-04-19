@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:独立行政法人国立印刷局お札と切手の博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(29)
+所, 場所, 展示室, 印刷, カメラ, 偽造, ガイドツアー, 札, 近く, 館内, 切手, 見学, 王子駅前バス停, 自宅, 博物館, 撮影, 普通, 歴代人物, ビル, 写真, 方, 歴史, 物, トレビア, 明治, 説明, 展示物, 防止, 展示
+cluster1:(7)
+北区, 都バス, 東北線王子駅, 東京工場, JR王子駅, 王子, 王子駅
+cluster2:(2)
+偽造防止技術, 工場印刷工程
+cluster3:(1)
+聖地巡礼街歩き
+cluster4:(1)
+独立行政法人国立印刷局
+
+howmany entities : 40
+howmany clusters : 5
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 5
+deleted 0entities.

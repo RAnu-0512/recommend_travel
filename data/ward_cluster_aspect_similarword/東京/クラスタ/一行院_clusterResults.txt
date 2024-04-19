@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一行院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紀州, 紅白
+cluster1:(2)
+念仏, 行者
+cluster2:(6)
+方, 根元, 子供, 浄土宗, 場所, 出身
+cluster3:(2)
+寺, 境内
+cluster4:(2)
+墓, 死
+cluster5:(1)
+隣家
+cluster6:(1)
+諸国
+cluster7:(1)
+無常観
+cluster8:(1)
+徳本行者
+
+howmany entities : 18
+howmany clusters : 9
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 9
+deleted 0entities.

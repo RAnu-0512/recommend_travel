@@ -1,0 +1,35 @@
+--------------------similar_words:コットンクラブ--------------------
+top3 entities near to cluster0>>
+演奏, 音楽, コンサート
+top3 entities near to cluster1>>
+料理, 食事, 夕食
+top3 entities near to cluster2>>
+洋服店, 店員, 洋服
+top3 entities near to cluster3>>
+布巾, ふきん, 雑巾
+top3 entities near to cluster4>>
+駅, 駅前, 都
+top3 entities near to cluster5>>
+グラス, ワイン
+top3 entities near to cluster6>>
+ライブ, ライヴ, ジャズ
+top3 entities near to cluster7>>
+雰囲気, お洒落, 思い出
+top3 entities near to cluster8>>
+タオル, バッグ, トートバッグ
+top3 entities near to cluster9>>
+ファン, スタッフ, アーティスト
+top3 entities near to cluster10>>
+フロア, チーフ, ディレクター
+top3 entities near to cluster11>>
+時間目, 直前, 時間
+top3 entities near to cluster12>>
+納得, 大人, オトナ
+top3 entities near to cluster14>>
+予約, 受付, 申し込み
+top3 entities near to cluster15>>
+態度, 距離
+top3 entities near to cluster16>>
+替える, 換え
+top3 entities near to cluster17>>
+席, 誕生, 座席

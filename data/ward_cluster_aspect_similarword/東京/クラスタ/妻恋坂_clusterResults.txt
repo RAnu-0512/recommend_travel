@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妻恋坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+坂なり, 坂, 坂道
+cluster1:(2)
+東西, 両側
+cluster2:(3)
+裏手, 裏, 北
+cluster3:(12)
+神社, ステンレス, 建物, 人, ドイツ, 名前, 蔵前橋, マンション, 下り坂, 前, 方, 妻
+cluster4:(1)
+パン マイスター
+cluster5:(1)
+情緒
+cluster6:(1)
+案内板
+cluster7:(7)
+妻恋坂, 末広町, 妻恋神社, 神田明神, 北の妻恋神社, 文京区, たずむ神社
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 8
+deleted 0entities.

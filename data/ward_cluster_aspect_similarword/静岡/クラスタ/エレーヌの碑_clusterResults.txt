@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:エレーヌの碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松, 松原
+cluster1:(2)
+海岸, 羽衣
+cluster2:(1)
+三保
+cluster3:(10)
+人, こと, 碑, フランス, エレーヌ, 事, 下, 遺髪, 前, 記念碑
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 5entities.

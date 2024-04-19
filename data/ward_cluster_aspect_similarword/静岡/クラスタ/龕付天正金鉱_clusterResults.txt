@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龕付天正金鉱>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+金鉱掘り体験, 金掘り体験, 手掘り
+cluster1:(3)
+早口, 達者, 爺ちゃん
+cluster2:(2)
+名所, 観光
+cluster3:(6)
+幅, 斜め, 奥, 頭, 腰, 足
+cluster4:(16)
+車, 近隣, 中学生, ガイド, おじいちゃん, 大人, 昔, 人, 歴史, 時間, 近く, 話, じいちゃん, 位, 金, じいさん
+cluster5:(4)
+原因, 箇所, こと, 場所
+cluster6:(2)
+説明, 検索
+cluster7:(1)
+料金
+cluster8:(3)
+興味, 減少, 跡
+cluster9:(6)
+鑿, 金槌, 松明, 坑道, 採掘量, 灯り
+cluster10:(4)
+戦国時代, 土肥金山, 金山内, 江戸時代
+
+howmany entities : 50
+howmany clusters : 11
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 8
+deleted 5entities.

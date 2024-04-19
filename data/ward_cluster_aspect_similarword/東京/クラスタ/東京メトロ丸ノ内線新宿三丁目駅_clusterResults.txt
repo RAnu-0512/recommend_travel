@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸ノ内線新宿三丁目駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駅員, JR, 駅, 改札
+cluster1:(3)
+地上, ホーム端, 地下
+cluster2:(7)
+ビックロ, 地下道, 最寄り駅, 丸ノ内線, 乗換え, 買い物, 乗り換え
+cluster3:(3)
+人, 口コミ, 他
+cluster4:(1)
+仕事
+cluster5:(1)
+箇所
+cluster6:(1)
+雨
+cluster7:(4)
+損, 気分, 都合, 態度
+cluster8:(1)
+初乗り料金
+cluster9:(7)
+新宿駅, 副都心線, 新宿三丁目駅, 新宿伊勢丹, 新宿, 都営, 新宿線
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 10
+deleted 0entities.

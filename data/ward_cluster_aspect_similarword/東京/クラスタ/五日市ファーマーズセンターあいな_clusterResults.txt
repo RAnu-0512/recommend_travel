@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五日市ファーマーズセンターあいな>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+あいな のらぼう祭り, のらぼう
+cluster1:(3)
+周辺, 開催, 散策
+cluster2:(2)
+地元, 地場
+cluster3:(3)
+小松菜, 野菜, 花
+cluster4:(1)
+葉物野菜
+cluster5:(1)
+秋川渓谷
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:品川区立品川歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+近代戦時下展示, 常設展示, 使用中止展示コーナー
+cluster1:(12)
+向上, 大人, 子供, 保存, 見応え, 見学, 解説シート, 写真, 勉強, 側, ジオラマ, 展示
+cluster2:(2)
+茶室, 庭園
+cluster3:(2)
+古代, 日本考古学
+cluster4:(2)
+文化, 歴史
+cluster5:(4)
+地, 目的, 発祥, 徒歩
+cluster6:(1)
+土器パズル
+cluster7:(1)
+街歩き
+cluster8:(4)
+郷土資料, 江戸時代, 安田財閥, 近代年表
+cluster9:(3)
+学童疎開, 改修工事, 長期休館
+cluster10:(1)
+コロナ感染予防
+cluster11:(9)
+品川区, 品川歴史館, 大森駅, 品川, 大井町駅, 品川宿, 品川区立品川歴史館, 大森貝塚, 大森
+
+howmany entities : 44
+howmany clusters : 12
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 12
+deleted 0entities.

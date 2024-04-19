@@ -1,0 +1,17 @@
+--------------------similar_words:長瀬高浜遺跡--------------------
+top3 entities near to cluster0>>
+流域, 下水, 下水道
+top3 entities near to cluster1>>
+砂層, 黒, 白
+top3 entities near to cluster2>>
+古墳, 遺跡, 墳丘
+top3 entities near to cluster4>>
+中世, 近世, 一野渡
+top3 entities near to cluster5>>
+跡, 痕跡
+top3 entities near to cluster6>>
+直径, 内径, 径
+top3 entities near to cluster7>>
+国道, 県道, バイパス
+top3 entities near to cluster9>>
+移転, 復元, 移築

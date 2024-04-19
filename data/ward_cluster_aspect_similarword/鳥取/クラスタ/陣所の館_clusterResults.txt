@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陣所の館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+河原風呂, 三朝温泉, 花湯まつり, 街ギャラリー, 湯, 温泉街
+cluster1:(2)
+無形文化財, 伝統行事
+cluster2:(3)
+入館無料, 資料館, 館
+cluster3:(13)
+展示, GW, 豊作, コロナ, 国, メイン, 祭り, 階段, 実物, 綱引き, メインイベント, もの, たもと
+cluster4:(3)
+陣所の綱引き, 陣所, 綱
+cluster5:(3)
+大綱引き, 藤かずら, 大綱
+cluster6:(3)
+大綱引資料館, 三朝温泉街三朝橋, 東西対抗大綱引き大会
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

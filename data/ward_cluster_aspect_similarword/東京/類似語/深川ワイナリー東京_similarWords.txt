@@ -1,0 +1,13 @@
+--------------------similar_words:深川ワイナリー東京--------------------
+top3 entities near to cluster0>>
+時間帯, 時間, 所要
+top3 entities near to cluster1>>
+試飲, 見学, 試食
+top3 entities near to cluster2>>
+内容, 補足, 概要
+top3 entities near to cluster3>>
+両親, 友達, 友人
+top3 entities near to cluster4>>
+ワイン, 赤ワイン, ワイナリー
+top3 entities near to cluster5>>
+参加者, 主催者, 参加, 主催

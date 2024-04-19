@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新木場公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+人, アクセス, 天気, グループ, 場所取り, ところ, 目的, 新木場, スペース, バーベキュー, バーベキューシーズン
+cluster1:(4)
+公園, 新木場公園, 都心部, 新木場駅
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

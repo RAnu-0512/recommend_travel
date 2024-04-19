@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:セブンシーズ本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+シュノーケル講習, 送迎
+cluster1:(8)
+方, ポイント, インストラクター, 子供, スタッフ, ダイビング, 城ヶ島, 場合
+cluster2:(3)
+店, 笑顔, ダイビング施設
+cluster3:(1)
+伊豆
+cluster4:(1)
+渋谷駅
+cluster5:(1)
+かと思いセブンシーズ
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

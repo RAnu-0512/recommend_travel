@@ -1,0 +1,9 @@
+--------------------similar_words:『キャプテン翼』大空翼銅像--------------------
+top3 entities near to cluster0>>
+銅像, 石像
+top3 entities near to cluster1>>
+翼, キャプテン
+top3 entities near to cluster2>>
+駅, 駅前, 公園
+top3 entities near to cluster3>>
+京成, バス, 京成電鉄

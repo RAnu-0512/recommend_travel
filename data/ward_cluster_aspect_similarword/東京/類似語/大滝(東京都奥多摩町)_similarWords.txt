@@ -1,0 +1,13 @@
+--------------------similar_words:大滝(東京都奥多摩町)--------------------
+top3 entities near to cluster1>>
+駅, 駅前, 構内
+top3 entities near to cluster2>>
+入口, 奥, 入り口
+top3 entities near to cluster3>>
+林道, 山道
+top3 entities near to cluster4>>
+運転, 車体
+top3 entities near to cluster5>>
+落差, 迫力, 水量
+top3 entities near to cluster6>>
+視界, 角度, 視角

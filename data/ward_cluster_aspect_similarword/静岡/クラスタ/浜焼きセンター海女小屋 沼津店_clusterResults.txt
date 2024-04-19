@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜焼きセンター海女小屋 沼津店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+沼津, 幸, 寿司, ホタテ, サザエ, 干物, 海, 貝類
+cluster1:(2)
+海鮮焼き, 食べ放題
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

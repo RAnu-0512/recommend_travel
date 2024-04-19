@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SL資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+トーマス号, ジェームス号
+cluster1:(5)
+興味, 経験, トーマス大, 好み, 興奮
+cluster2:(2)
+土産, 弁当
+cluster3:(2)
+人, 子供
+cluster4:(10)
+サンタ, イベント, グッズ, 機関車, バージョン, まんまトーマス, トーマスグッズ, トーマス, ジオラマ, こども
+cluster5:(1)
+ヘッドマーク
+cluster6:(6)
+目, 限定, 期間, 時間, 次回, 場所
+cluster7:(2)
+SL, JR
+cluster8:(3)
+資料, 写真, 歴史
+cluster9:(3)
+入口, 駅, そば
+cluster10:(4)
+鉄道, 旅行者, 鉄道マニア, 鉄道ジオラマ
+cluster11:(9)
+半田駅, 特別展示イベント入場券, 千頭駅, SL資料館, 大井川鐵道, 蒸気機関車, 機関車トーマス, 資料館, 機関車トーマス号
+
+howmany entities : 49
+howmany clusters : 12
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 7
+deleted 9entities.

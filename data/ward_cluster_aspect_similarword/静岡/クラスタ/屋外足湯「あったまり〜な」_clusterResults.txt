@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:屋外足湯「あったまり〜な」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+伊東マリーナ, 伊東マリン, 伊東マリンタウン, 伊東, 伊東旅行
+cluster1:(4)
+犬ゾーン, 小型犬ゾーン, 大型犬ゾーン, ちわわん
+cluster2:(4)
+桜湯, 足湯, 屋外足湯, 湯
+cluster3:(2)
+海側, 海
+cluster4:(14)
+家族, 下, 人間, マリンタウン, 駅, 気持ち, 瞬間, 買い物, 風, 足, ワンコ, 場所, タオル, 道
+cluster5:(2)
+寒さ, 気温
+cluster6:(1)
+水位深め
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 5entities.

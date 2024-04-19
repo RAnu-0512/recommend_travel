@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河津七滝オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+別料金, 施設使用料, 利用客
+cluster1:(22)
+スノコ, 注意, 音楽, 必要, バンガロー, 記載, 大人, スペース, 禁止, ウォシュレット, リピーター, キャンプ場, サイト, オートサイトB, ホームページ, 雰囲気, 子供, 部屋, オートサイト, キャンセルポリシー, 他, 合計
+cluster2:(6)
+温泉, 布団セット, 旅館, 入浴, 布団, 風呂
+
+howmany entities : 31
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 3
+deleted 0entities.

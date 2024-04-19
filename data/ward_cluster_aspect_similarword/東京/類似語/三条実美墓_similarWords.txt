@@ -1,0 +1,13 @@
+--------------------similar_words:三条実美墓--------------------
+top3 entities near to cluster0>>
+元勲, 明治, 幕末
+top3 entities near to cluster1>>
+出身, 人物, 在住
+top3 entities near to cluster2>>
+本堂, 墓石
+top3 entities near to cluster3>>
+公家, 公卿, 武家
+top3 entities near to cluster4>>
+墓地内, 墓地, 敷地内, 敷地
+top3 entities near to cluster6>>
+真言宗, 寺院

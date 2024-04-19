@@ -1,0 +1,15 @@
+--------------------similar_words:六義園 吹上茶屋--------------------
+top3 entities near to cluster0>>
+茶屋, 吹上, ねり
+top3 entities near to cluster1>>
+泉水, 寶温, 大
+top3 entities near to cluster2>>
+菓子, 抹茶, 和菓子
+top3 entities near to cluster3>>
+景色, 風景, 季節
+top3 entities near to cluster4>>
+時間, 横
+top3 entities near to cluster5>>
+訪問, 来訪, 訪れる
+top3 entities near to cluster6>>
+葉池, 松池, 松, 葉

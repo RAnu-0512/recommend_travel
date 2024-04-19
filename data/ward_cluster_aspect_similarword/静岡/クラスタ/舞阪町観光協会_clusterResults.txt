@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:舞阪町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木, ヤシ
+cluster1:(2)
+沖, 南国
+cluster2:(9)
+弁天島, 鳥居, コンセプト, 夕日, 海, エキゾチック・ジャパン, シンボルタワー, 中, レンタサイクル
+cluster3:(1)
+弁天島海浜公園
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 5entities.

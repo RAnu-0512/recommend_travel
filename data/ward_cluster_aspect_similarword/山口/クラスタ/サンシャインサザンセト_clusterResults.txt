@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サンシャインサザンセト>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+景色, 散策, ハワイ気分
+cluster1:(2)
+庭, 敷地
+cluster2:(4)
+夏, ホテル, 部屋, ハワイアンソング
+cluster3:(1)
+水泳
+cluster4:(1)
+漫画本
+cluster5:(1)
+子供連れ
+cluster6:(1)
+宿泊施設
+cluster7:(1)
+片添ヶ浜海浜公園
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

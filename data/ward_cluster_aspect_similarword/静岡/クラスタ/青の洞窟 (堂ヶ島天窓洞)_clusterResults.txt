@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青の洞窟 (堂ヶ島天窓洞)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+青み, 伊豆, 出発, 中, ところ, 青
+cluster1:(2)
+海岸洞窟, 洞窟
+cluster2:(2)
+船, 観光船
+cluster3:(1)
+急ぎ東口洞窟出口
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 5entities.

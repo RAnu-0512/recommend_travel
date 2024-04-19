@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着物レンタル一期一会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+浴衣, 着物レンタル店, 帯飾り, 髪セット, ヘアセット, 着物
+cluster1:(22)
+観光, 店, 大人, スタッフ, 変身, 別, 使い方, プロ, 子供, 着付け, 料金, 飴, 家族, 思い出, プラス料金, プラン, セット, 財布, 籠バック, 対応, アドバイス, ペットボトル
+cluster2:(5)
+機会, 予定, 時間, こと, 帯
+cluster3:(4)
+方達, 人柄, 方, 方々
+cluster4:(1)
+誕生日
+cluster5:(1)
+大きさ
+cluster6:(5)
+浅草駅, 散策, 入学祝い旅, 浅草散策, 浅草
+
+howmany entities : 44
+howmany clusters : 7
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 7
+deleted 0entities.

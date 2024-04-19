@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石原水産(株)マリンステーション>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鰹, 焼津
+cluster1:(2)
+冷凍, 電動
+cluster2:(24)
+ネタ, 品, こぎり, 料理, こと, 質, テーブル, 外, 塩辛, バスツアー, 人, 試食, 種類, 感じ, 上, 中, 量, 建物, マリンステーション, 味, マグロ, カツオ, 他, 海産物
+cluster3:(12)
+黒揚げハンペン, 土産, 食べ放題, 回転寿司, 藁焼きショー, 寿司, 生ハム, 食感, 団体客御用達, 土産売り場, 土産店, 丸桶
+
+howmany entities : 40
+howmany clusters : 4
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 2
+deleted 4entities.

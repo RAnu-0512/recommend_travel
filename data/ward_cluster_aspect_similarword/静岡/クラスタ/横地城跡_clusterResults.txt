@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:横地城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+横地一族, 横地, 横地城
+cluster1:(3)
+駐車場, 案内板, 土塁
+cluster2:(2)
+切通, 遠江
+cluster3:(4)
+本丸, 山城, 城跡, 城
+cluster4:(2)
+遺構, 墓
+cluster5:(2)
+文明, 中世
+cluster6:(10)
+源義家, 緑, 池, 西側, 公園, 茶畑, トイレ, 先, 県道, 上池
+cluster7:(7)
+勢力, 庶子家永, 本拠, 累代, 始祖, 室町初期, 庶子
+cluster8:(1)
+日本城郭大系 9
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 7entities.

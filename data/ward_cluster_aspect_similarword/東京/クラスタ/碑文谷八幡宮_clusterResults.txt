@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:碑文谷八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+都立大学, 目黒区, 東急線
+cluster1:(14)
+碑文谷, 由来, 左, 緑, 神社, 碑文谷八幡宮, 距離, 最寄り駅, 雰囲気, 角, 真冬, 地名, 住宅街, 名前
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

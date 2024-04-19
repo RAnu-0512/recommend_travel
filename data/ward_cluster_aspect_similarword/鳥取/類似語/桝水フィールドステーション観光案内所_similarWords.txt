@@ -1,0 +1,9 @@
+--------------------similar_words:桝水フィールドステーション観光案内所--------------------
+top3 entities near to cluster1>>
+案内, 所内, 受付
+top3 entities near to cluster2>>
+駐車, レストハウス, スキー
+top3 entities near to cluster3>>
+冬, 基本, 夏
+top3 entities near to cluster4>>
+木水, 土水, 木, 土

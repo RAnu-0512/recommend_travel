@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:atelierchouchou>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+デザイン, アート, イルミネーション, グラスサンドアート, 下, 子ども, ライト, お花
+cluster1:(7)
+部屋, 指導, 先生, 話, 予約, 時間, 子どもたち
+cluster2:(1)
+初体験
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

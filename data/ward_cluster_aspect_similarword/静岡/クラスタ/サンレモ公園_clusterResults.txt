@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サンレモ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海浜公園, 親水公園
+cluster1:(2)
+バス路線, 東海バス
+cluster2:(3)
+サンレモ市, サンレモ公園, 公園
+cluster3:(2)
+ヤシ, 木
+cluster4:(2)
+バス停, トイレ
+cluster5:(5)
+イタリア, リゾート, ところ, サンレモ, ファミレス
+cluster6:(3)
+隣, 周囲, 名前
+cluster7:(2)
+熱海, スパ
+cluster8:(1)
+券
+cluster9:(2)
+駐車場, 感じ眺望
+cluster10:(1)
+熱海港
+
+howmany entities : 25
+howmany clusters : 11
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 14entities.

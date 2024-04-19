@@ -1,0 +1,23 @@
+--------------------similar_words:雄山(東京都三宅島三宅村)--------------------
+top3 entities near to cluster0>>
+禁止, 大きい, なさ
+top3 entities near to cluster1>>
+臭い, 匂い, におい
+top3 entities near to cluster2>>
+景色, 景観, 雄大
+top3 entities near to cluster3>>
+登山, 稜線, 山登り
+top3 entities near to cluster4>>
+活火山, 火山, 噴火口
+top3 entities near to cluster5>>
+スポーツ, マリン, 最高峰
+top3 entities near to cluster6>>
+山, 麓, 山山
+top3 entities near to cluster8>>
+自然人, 家族, 自然
+top3 entities near to cluster10>>
+手洗い, 姉ちゃん, 姉さん
+top3 entities near to cluster11>>
+噴火, 火山, 火口
+top3 entities near to cluster13>>
+展望台, 展望, 玉取崎

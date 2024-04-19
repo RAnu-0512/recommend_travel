@@ -1,0 +1,9 @@
+--------------------similar_words:旧マッケンジー住宅--------------------
+top3 entities near to cluster1>>
+バス車, 徒歩, バス
+top3 entities near to cluster2>>
+洋館, 建物, 庭
+top3 entities near to cluster5>>
+国道
+top3 entities near to cluster6>>
+住宅, 建築, 建物

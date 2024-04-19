@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山の神古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JR駅, 家駅
+cluster1:(2)
+古墳, 神古墳
+cluster2:(2)
+山, 流域
+cluster3:(1)
+北側丘陵端
+cluster4:(1)
+芦田川中
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

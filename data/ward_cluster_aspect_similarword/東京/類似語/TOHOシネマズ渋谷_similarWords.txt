@@ -1,0 +1,51 @@
+--------------------similar_words:TOHOシネマズ渋谷--------------------
+top3 entities near to cluster0>>
+シネマ, シネコン, 上映
+top3 entities near to cluster1>>
+シネマズ, シネマズ・, シネマズ・シャンテ
+top3 entities near to cluster2>>
+サイト, おすすめ, ショップ
+top3 entities near to cluster3>>
+ボヘミアン, ラプソディ, ボヘミアンテイスト
+top3 entities near to cluster4>>
+エレベーター, シネコン, エレベータ
+top3 entities near to cluster5>>
+チケット, ドリンク, ポスター
+top3 entities near to cluster6>>
+コーラ, コカコーラ, コカ・コーラ
+top3 entities near to cluster7>>
+トイレ, フロア, シアター
+top3 entities near to cluster8>>
+映画館, シネコン, レイトショー
+top3 entities near to cluster9>>
+地下街, 地下道, コンコース
+top3 entities near to cluster10>>
+トレイ, トレー, フューチャーナイキ
+top3 entities near to cluster11>>
+フード, フローズンフード, ドッグフード
+top3 entities near to cluster12>>
+食事, 夕食, 朝食
+top3 entities near to cluster13>>
+話題作, 話題, 作品
+top3 entities near to cluster15>>
+地下, 通路, ・・デパ
+top3 entities near to cluster16>>
+座席, 店内, 通路
+top3 entities near to cluster17>>
+利用, 会員, 割引
+top3 entities near to cluster18>>
+立地, 施設, 都心
+top3 entities near to cluster19>>
+駅, 予約, 時間
+top3 entities near to cluster20>>
+館, 映画, 上映
+top3 entities near to cluster21>>
+上映, 封切り, 映画
+top3 entities near to cluster22>>
+東宝, 松竹, 東映
+top3 entities near to cluster23>>
+館内, 映画, 園内
+top3 entities near to cluster24>>
+映画, 実写, 予告編
+top3 entities near to cluster25>>
+鑑賞, 映画, 上映

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竜ヶ岩洞あゆ狩り園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+焼きたて, 出来立て, とれたて
+cluster1:(9)
+魚, 川沿い, 川, アユ, 鮎つかみ, 鮎狩り, 鮎, あゆ狩り, あゆ
+cluster2:(11)
+流れ, コツ, 交換, もの, 予約, 体験, 場合, 感じ, 夏休み体験, 疑問, 説明
+cluster3:(3)
+店員, 接客, 座敷
+cluster4:(4)
+素手, 手, 命, 網
+cluster5:(7)
+最後, 水, 時間, 近く, 場所, 環境, 職場
+cluster6:(8)
+スタッフ, つかみ取り, メンバー, スペース, ありがたさ, 掴み取り, サクッ, 老若男女
+cluster7:(2)
+塩焼き, BBQ
+cluster8:(2)
+バケツ, 生け簀
+cluster9:(6)
+水着, 息子, 大人, 子供, 子ども, 元気
+cluster10:(6)
+駐車場, 浮き輪, 子供達, 子ども達, 忍耐力, 子供たち
+cluster11:(1)
+竜ヶ岩洞
+
+howmany entities : 62
+howmany clusters : 12
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 9
+deleted 5entities.

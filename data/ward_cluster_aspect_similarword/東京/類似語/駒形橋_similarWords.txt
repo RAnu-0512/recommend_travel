@@ -1,0 +1,15 @@
+--------------------similar_words:駒形橋--------------------
+top3 entities near to cluster0>>
+景観, 景色, 街並み
+top3 entities near to cluster2>>
+地下鉄, アーチ, ブルー
+top3 entities near to cluster5>>
+季節, 桜
+top3 entities near to cluster6>>
+徒歩, 乗り場, 駅
+top3 entities near to cluster7>>
+都営, 都営地下鉄, 三田線
+top3 entities near to cluster8>>
+鉄橋, 橋梁
+top3 entities near to cluster10>>
+架かる橋, 架かる, たもと

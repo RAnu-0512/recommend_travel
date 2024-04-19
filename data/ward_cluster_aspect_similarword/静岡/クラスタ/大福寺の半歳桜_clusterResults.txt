@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大福寺の半歳桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+満開, 桜
+cluster1:(2)
+緑, 朱色
+cluster2:(10)
+姿, 大福寺, 秋, 周辺, 所々, 人, 散策, 場所, 訪れ, 山々
+cluster3:(6)
+日本庭園, 大福寺納豆, 山門, 本堂, 境内, 寺院
+cluster4:(1)
+半歳桜
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 5entities.

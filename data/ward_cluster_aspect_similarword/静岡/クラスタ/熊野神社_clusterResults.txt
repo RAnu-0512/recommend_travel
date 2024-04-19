@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熊野神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+絵馬, 札, 縁結び, お守り御朱印, 財布, 賽銭, お守り, お参り
+cluster1:(5)
+感動, 迫力, 眺め, 景色, 絶景
+cluster2:(4)
+歴史, 利益, 吊り橋効果, 価値
+cluster3:(6)
+気, 事, もの, 感じ, 願い, こと
+cluster4:(2)
+中, 途中
+cluster5:(2)
+昔, 近く
+cluster6:(2)
+人, 方
+cluster7:(1)
+場所
+cluster8:(2)
+先端, 縁
+cluster9:(2)
+バイク, 飲み物
+cluster10:(4)
+ドライブ, ポケット, 伊豆半島, クルーズ
+cluster11:(3)
+ところ, オススメ, ほこら
+cluster12:(1)
+遊歩道
+cluster13:(1)
+ながめ
+cluster14:(1)
+口コミ
+cluster15:(3)
+パワー, パワースポット, オーシャンパーク
+cluster16:(4)
+最南端, 伊豆半島最南端, 石廊崎, 神津島
+cluster17:(7)
+色, 波, 神, 岬, 海, 影, 風
+cluster18:(1)
+式根島・御蔵島
+cluster19:(1)
+深さ
+cluster20:(1)
+おみくじ
+cluster21:(12)
+石廊崎 崖, 祠, 高所恐怖症, 脇道, 岩壁沿, 階段, 灯台, 断崖, 崖, 絶壁, 岩場, 石室
+cluster22:(9)
+宮司, 縁結び神社, 有料駐車場, 神社., 御神籤, 熊野神社, 駐車場, 神社, 石廊神社
+cluster23:(1)
+大島・利島・新島・三宅島
+
+howmany entities : 83
+howmany clusters : 24
+howmany entities (more than3entities) : 65
+howmany clusters (more than3entities) : 11
+deleted 18entities.

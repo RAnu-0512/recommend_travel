@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:向上寺三重塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+近く, 生口島, 尾道市, 塔, 場所, 指定, 案内板, 色合い, 細道, 猫, 軒下, 国宝, 三重, 付近, 造り
+cluster1:(2)
+向上寺境内, 耕三寺
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

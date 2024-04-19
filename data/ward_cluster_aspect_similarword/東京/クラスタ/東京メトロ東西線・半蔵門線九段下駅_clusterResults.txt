@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ東西線・半蔵門線九段下駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+各線, メトロ東西線, 門線, 半蔵門線大手町方面ホーム, 新宿, 都営, 新宿線
+cluster1:(10)
+人, 駅, 利用, 改札, 目的地, 混雑, 北の丸公園, 半蔵門線, 乗り換え, 家族
+cluster2:(1)
+科学技術館
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

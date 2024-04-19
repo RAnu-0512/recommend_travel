@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和菓子教室sakura>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+抹茶, 和菓子作り, 菓子, 体験, 点茶体験
+cluster1:(3)
+気, 形, 事
+cluster2:(2)
+提案, 質問
+cluster3:(6)
+人, 子供, ひと時, 和菓子, マンション, 雰囲気
+cluster4:(2)
+先生, 方々
+cluster5:(1)
+自宅
+cluster6:(1)
+日常
+cluster7:(2)
+指揮, 参加者
+cluster8:(2)
+早目, 夏休み自由研究
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 9
+deleted 0entities.

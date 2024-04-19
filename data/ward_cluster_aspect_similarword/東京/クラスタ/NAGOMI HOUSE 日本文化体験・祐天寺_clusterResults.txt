@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NAGOMI HOUSE 日本文化体験・祐天寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浴衣, 浴衣レンタル
+cluster1:(2)
+配色, 勧誘
+cluster2:(6)
+話, 最後, 残業, 教室, 人数, 時間
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

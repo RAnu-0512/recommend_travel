@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヒルサイドテラス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+パン屋, 焼き立てパン, パントリー代官山, パントリー, パン
+cluster1:(3)
+家具, インテリア雑貨, 雑貨
+cluster2:(2)
+雑貨屋, キッチン雑貨店
+cluster3:(6)
+左, 正面口, ヒルサイド, 右, 両側, 左側
+cluster4:(5)
+建築家, 建物, 建築, 住居, 設計
+cluster5:(11)
+気, 存在, 方, 近く, 通り, 時代, 昔, 流れ, 人, 陰, 空気
+cluster6:(8)
+家, 施設, クリスマス商品, 周辺, 店, アクセス方法, 名所, 場所
+cluster7:(1)
+道なり
+cluster8:(2)
+歩道橋, 交差点
+cluster9:(2)
+グッズ, カード
+cluster10:(2)
+クリスマス, オーナメント
+cluster11:(2)
+ショールーム, ギャラリー
+cluster12:(3)
+クロワッサン, ヒルサイドパントリー, ヒルサイドテラス
+cluster13:(2)
+ショッピング, レストラン
+cluster14:(1)
+ファニチャー
+cluster15:(1)
+インパクト
+cluster16:(1)
+山手通
+cluster17:(1)
+オフィス
+cluster18:(4)
+カフェ, エリア, ショップ, アパレル
+cluster19:(1)
+雰囲気
+cluster20:(1)
+代官山
+cluster21:(1)
+ランドマーク
+cluster22:(3)
+東京急行電鉄東横線, 代官山駅, 開業
+cluster23:(2)
+らしさ, T-SITE
+cluster24:(4)
+山手通り, 東京都, 神泉駅, 槇文彦
+cluster25:(8)
+反対側, 横断歩道, 歩道, 道路反対側, 商業施設, 複合施設, 信号機, 道路
+
+howmany entities : 82
+howmany clusters : 26
+howmany entities (more than1entities) : 82
+howmany clusters (more than1entities) : 26
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東広島天文台広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+施設, 天文台, 星空, 遊歩道, 方, 外, 窓, 星座, 上, 頂上, 山, 勉強, 場所, ゴルフコース
+cluster1:(2)
+広場, 東広島天文台広場
+cluster2:(2)
+西条, 東広島市
+cluster3:(1)
+駐車場
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

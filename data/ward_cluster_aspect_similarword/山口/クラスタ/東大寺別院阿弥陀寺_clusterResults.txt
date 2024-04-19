@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東大寺別院阿弥陀寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+前, 金, こと, 紫陽花, 訪問, 季節, 御朱印, 手入れ, スタート, 時期, お参り, 阿弥陀寺, 旅, 参り, 山
+cluster1:(3)
+紫陽花見物, 紅葉, 庭木
+cluster2:(2)
+自然, 景観
+cluster3:(2)
+道, 通路
+cluster4:(2)
+敷地, 高台
+cluster5:(1)
+心洗
+cluster6:(13)
+本殿, 山口県, 読経, 石段, あじさい寺, 境内, 本堂, 寺, 山門, 東大寺別院, 防府天満宮, 駐車場, 紫陽花とお寺
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

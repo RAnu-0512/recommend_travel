@@ -1,0 +1,37 @@
+--------------------similar_words:小田急電鉄新宿駅--------------------
+top3 entities near to cluster1>>
+駅, 小田急, 駅前
+top3 entities near to cluster2>>
+駅, 駅前, 南口
+top3 entities near to cluster3>>
+駅, 駅前, 南口
+top3 entities near to cluster4>>
+京王, 小田急, ＪＲ
+top3 entities near to cluster5>>
+時代, 学生, 大学
+top3 entities near to cluster6>>
+利用, 増加, 対応
+top3 entities near to cluster7>>
+小田急, 百貨店, デパート
+top3 entities near to cluster8>>
+始発駅, 地下鉄, 駅
+top3 entities near to cluster9>>
+ホーム, 仕舞い, 雰囲気
+top3 entities near to cluster12>>
+地下, 地上, 地表
+top3 entities near to cluster13>>
+教育, 文化, 語学
+top3 entities near to cluster16>>
+席, 座席, 全席
+top3 entities near to cluster18>>
+カー, ロマンス, キャンピング
+top3 entities near to cluster19>>
+券売機, 券売, 自動
+top3 entities near to cluster20>>
+駅, 改札, 構内
+top3 entities near to cluster21>>
+時間帯, 時間, 通学
+top3 entities near to cluster22>>
+特急券, 特急, 急行券, 急行
+top3 entities near to cluster23>>
+電車, 列車, 急行

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ミニチュアミュージアム スモールワールズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+混雑, 空港, 都心
+cluster1:(8)
+場所, 箇所, 仕方, 興味, 動き, 時間, 方, 操作
+cluster2:(2)
+飛行機, 離発着
+cluster3:(3)
+フィギュア, ミニチュア, ジオラマ
+cluster4:(3)
+エバンゲリオン, イベント, 連休明け
+cluster5:(1)
+雰囲気
+cluster6:(1)
+ボタン
+cluster7:(7)
+大人, 制作, 子供, 館内, 家族, 滞在, 主人
+cluster8:(1)
+値段設定
+cluster9:(1)
+入場者
+
+howmany entities : 30
+howmany clusters : 10
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 10
+deleted 0entities.

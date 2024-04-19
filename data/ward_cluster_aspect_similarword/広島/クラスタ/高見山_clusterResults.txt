@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高見山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+瀬戸, 大橋, 向島, 向島インターチェンジ
+cluster1:(2)
+三原市, 尾道市
+cluster2:(2)
+因島, 因島大橋
+cluster3:(1)
+しまなみ海道
+cluster4:(20)
+ところ, おすすめスポット, バイク, 瀬戸内海, 車, ストレス, 見晴らし, パノラマ, 感じ, 限り, 人, 桜並木, 時間, 問題, マイナスポイント, 高見山, こと, 朝焼け, 場所, 夕焼け
+cluster5:(6)
+眺望, 眺め, 絶景, 眼下, 景色, 風景
+cluster6:(2)
+島, 島々
+cluster7:(5)
+風, 空, 海, 快晴, 山
+cluster8:(3)
+桜, 紅葉, 夕日
+cluster9:(2)
+展望台, 展望
+cluster10:(5)
+山頂部, 山頂, 登山, 頂上, 標高
+cluster11:(2)
+勾配, 坂
+cluster12:(4)
+徒歩, 道, 方面, 車道
+cluster13:(6)
+駐車場, 観光客, 駐車スペース, 国立公園, 瀬戸内海国立公園, 駐車スペ
+
+howmany entities : 64
+howmany clusters : 14
+howmany entities (more than1entities) : 64
+howmany clusters (more than1entities) : 14
+deleted 0entities.

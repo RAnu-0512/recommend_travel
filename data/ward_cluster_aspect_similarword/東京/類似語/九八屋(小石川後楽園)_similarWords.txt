@@ -1,0 +1,15 @@
+--------------------similar_words:九八屋(小石川後楽園)--------------------
+top3 entities near to cluster0>>
+泉水亭, 泉水
+top3 entities near to cluster1>>
+名称, 由来, 呼び名
+top3 entities near to cluster2>>
+昼酒, 夜酒, 昼, 夜
+top3 entities near to cluster4>>
+紅葉, 東屋
+top3 entities near to cluster5>>
+休憩, 所内, 仮眠
+top3 entities near to cluster6>>
+時代, 幕末, 末期
+top3 entities near to cluster7>>
+八, 九, 五

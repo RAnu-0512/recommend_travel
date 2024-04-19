@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:映画看板の街並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+青梅, 青梅街道, 青梅駅
+cluster1:(2)
+新鮮さ, 多さ
+cluster2:(3)
+商店, 街, 商店街
+cluster3:(3)
+BOX電話, 飾り, 装飾
+cluster4:(5)
+昔, 昭和, 名作, 時代, 大昔
+cluster5:(3)
+猫, 足, 路地
+cluster6:(6)
+入口, 近く, 駅, 近辺, 右側, 町
+cluster7:(2)
+趣, 印象
+cluster8:(5)
+人, 気, 本物, 中, もの
+cluster9:(14)
+店構え, 店, バス停, ロータリー, 家, 街並み, 町並み, スナック, 映画, 懐かしさ, 写真, ベンチ, 雰囲気, 映画館
+cluster10:(4)
+俳優, 休店, 看板, 映画看板
+
+howmany entities : 50
+howmany clusters : 11
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 11
+deleted 0entities.

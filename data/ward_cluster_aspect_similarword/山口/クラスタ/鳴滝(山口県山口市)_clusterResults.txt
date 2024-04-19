@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳴滝(山口県山口市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温泉施設, 駐車場
+cluster1:(2)
+川沿い, 川
+cluster2:(3)
+子供, こどもたち, 子供たち
+cluster3:(22)
+地ビール, ストレス, こと, ところ, スポット, 体, 迫力, 車, 気, こども, イオン, 場所, レストラン, 滑り台, 子, しぶき, 水しぶき, マイナスイオン, 人, 近く, 気持ち, プール
+cluster4:(2)
+国道, 水量
+cluster5:(4)
+岩, 滝, 紅葉, 桜
+cluster6:(6)
+自然, 公園, 夏, 天然, 水, 夏場
+cluster7:(1)
+鳴滝
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 8
+deleted 0entities.

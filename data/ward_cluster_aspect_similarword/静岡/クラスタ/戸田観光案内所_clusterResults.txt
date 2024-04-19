@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:戸田観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+戸田塩, 戸田, 戸田港
+cluster1:(30)
+道の駅, お立ち寄り, 試み, 温泉, 地域, 足湯, 内湯, モップ, 方, 駅, 人, サービス精神, 富士山, 土産コーナー, 軽食, 情報, シャッター, 富豪, 宴会, 観光, 足, アラブ, 深海魚, トイレ, 場所, 素材, 駅長, 地場, 温度, 道
+cluster2:(3)
+カニミソ, 洋食ディナー, 洋食シェフ
+
+howmany entities : 36
+howmany clusters : 3
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 3
+deleted 0entities.

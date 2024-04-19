@@ -1,0 +1,53 @@
+--------------------similar_words:平和の森公園(東京都大田区)--------------------
+top3 entities near to cluster0>>
+公園, 平和, 自然
+top3 entities near to cluster1>>
+公園, 森, 緑地
+top3 entities near to cluster2>>
+公園, 緑地, 遊歩道
+top3 entities near to cluster3>>
+公園, 浜辺, 海浜
+top3 entities near to cluster4>>
+浜辺, 海辺, 公園
+top3 entities near to cluster5>>
+公園, 広い, ひろ
+top3 entities near to cluster6>>
+子ども, 子供, こども
+top3 entities near to cluster7>>
+子供, 子ども, 親達
+top3 entities near to cluster8>>
+子供, 幼児, 大人
+top3 entities near to cluster10>>
+家族連れ, 家族, つれ
+top3 entities near to cluster11>>
+甥っ子, 姪っ子, 甥, 姪
+top3 entities near to cluster12>>
+都, 区, 京
+top3 entities near to cluster13>>
+のび, どか, 伸び
+top3 entities near to cluster14>>
+コース, フォレストコース, レイクコース
+top3 entities near to cluster15>>
+子ども, こども, 子供
+top3 entities near to cluster16>>
+アスレチック, フィールド, キャンプアスレチック
+top3 entities near to cluster17>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster18>>
+ジャングルジム, 滑り台, ライトアップ
+top3 entities near to cluster19>>
+アクティブ, アドバイス, 助言
+top3 entities near to cluster20>>
+スポーツ, フリスビー, ランニング
+top3 entities near to cluster22>>
+オアシス, スペース, ふるさと
+top3 entities near to cluster23>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster24>>
+着替え, 着替える, 着替えよ
+top3 entities near to cluster25>>
+滑り台, すべり台, テニス
+top3 entities near to cluster27>>
+公園, 広場, 遊歩道
+top3 entities near to cluster28>>
+施設, 駐車場, 駐車

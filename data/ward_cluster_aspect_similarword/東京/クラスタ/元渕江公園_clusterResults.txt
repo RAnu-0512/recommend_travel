@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:元渕江公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+クリスマス, 年齢, 人たち, コインパーキング, 場所, 人, アクセス, 子供, 気持ち, 近く, クリスマスシーズン, 冬, 犬, 時期, イルミ, イルミネーション, にぎわうイベント, 地元, 祭典
+cluster1:(2)
+憩い, 木陰
+cluster2:(3)
+光, 緑, 野原
+cluster3:(5)
+駐車, 公園, 駅, 徒歩, 遊具
+cluster4:(7)
+池あり, 鯉釣り, 池, 釣り, 散歩, 散歩感覚, 生物園
+cluster5:(2)
+入場無料, 芝生広場
+cluster6:(2)
+元渕江公園, 竹ノ塚駅
+
+howmany entities : 40
+howmany clusters : 7
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 7
+deleted 0entities.

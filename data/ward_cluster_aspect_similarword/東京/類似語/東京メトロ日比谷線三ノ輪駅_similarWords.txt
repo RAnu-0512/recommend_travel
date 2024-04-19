@@ -1,0 +1,13 @@
+--------------------similar_words:東京メトロ日比谷線三ノ輪駅--------------------
+top3 entities near to cluster0>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster1>>
+都電, 明治, メトロ
+top3 entities near to cluster2>>
+ホーム, 乗り換え, ほか
+top3 entities near to cluster5>>
+改装, 改修, 改築
+top3 entities near to cluster6>>
+国道, 県道, 旧道
+top3 entities near to cluster7>>
+駅, 構内, 駅前

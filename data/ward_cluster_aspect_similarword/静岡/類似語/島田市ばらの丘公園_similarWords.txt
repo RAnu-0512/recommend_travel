@@ -1,0 +1,17 @@
+--------------------similar_words:島田市ばらの丘公園--------------------
+top3 entities near to cluster0>>
+バラ, 薔薇, ばら
+top3 entities near to cluster1>>
+入園料, 入園, 入場料, 入場
+top3 entities near to cluster2>>
+ローズ, ウッド, ラベンダー
+top3 entities near to cluster6>>
+アイス, アート, アイスクリーム
+top3 entities near to cluster7>>
+地元, 子供, 大勢
+top3 entities near to cluster8>>
+規模, 半分
+top3 entities near to cluster9>>
+土産店, 食事, 土産
+top3 entities near to cluster11>>
+公園, 園内, 敷地

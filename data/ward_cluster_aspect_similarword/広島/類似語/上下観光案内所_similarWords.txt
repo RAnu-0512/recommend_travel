@@ -1,0 +1,11 @@
+--------------------similar_words:上下観光案内所--------------------
+top3 entities near to cluster1>>
+町, 丁目, 郡
+top3 entities near to cluster2>>
+上下, 上と下, 上側
+top3 entities near to cluster4>>
+歴史, 町並み, 建物
+top3 entities near to cluster5>>
+地名, 雨水, 町並み
+top3 entities near to cluster6>>
+歴史, 資料, 文化

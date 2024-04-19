@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:登呂公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+芹沢けい介美術館, 芹沢けい介博物館
+cluster1:(3)
+登呂遺跡公園, 登呂遺跡, 登呂博物館
+cluster2:(2)
+高床式倉庫, 竪穴式
+cluster3:(3)
+こと, 場所, 方
+cluster4:(5)
+博物館, 教科書, 現代, 人, 雰囲気
+cluster5:(1)
+近所
+cluster6:(3)
+バス, 屋外, 有料
+cluster7:(6)
+公園周り, 散歩コース, 遺跡, 弥生時代, 遺跡博物館, 公園
+cluster8:(1)
+火おこし体験
+cluster9:(6)
+駐車場, 建造物, 住宅地, 復元住居, 住居, 復元水田
+cluster10:(1)
+JR静岡駅
+
+howmany entities : 33
+howmany clusters : 11
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 6
+deleted 7entities.

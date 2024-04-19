@@ -1,0 +1,11 @@
+--------------------similar_words:JR渋谷駅--------------------
+top3 entities near to cluster0>>
+外客, 乗客, 旅客
+top3 entities near to cluster2>>
+電車, 仕事, 車両
+top3 entities near to cluster4>>
+時間, 期間, 所用
+top3 entities near to cluster5>>
+罪悪感, ドキドキ・ワクワク, 罪悪
+top3 entities near to cluster7>>
+駅, 構内, 駅前

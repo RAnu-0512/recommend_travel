@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神場山神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神社, 境内
+cluster1:(2)
+相談, 悩み
+cluster2:(2)
+車, 現地
+cluster3:(2)
+紹介, 知人
+cluster4:(4)
+雰囲気, ハサミ, 御利益, 縁切り
+cluster5:(2)
+感じ, 方
+cluster6:(1)
+病気
+cluster7:(1)
+風情
+cluster8:(1)
+電話番号
+cluster9:(1)
+御殿場市観光協会
+
+howmany entities : 18
+howmany clusters : 10
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 14entities.

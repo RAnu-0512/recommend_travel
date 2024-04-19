@@ -1,0 +1,11 @@
+--------------------similar_words:笠戸島_河津桜--------------------
+top3 entities near to cluster0>>
+県道, 道路, 国道
+top3 entities near to cluster1>>
+桜, 並木, 菜の花
+top3 entities near to cluster2>>
+分岐, 箇所, 個所
+top3 entities near to cluster3>>
+宿舎, 国民, ベイリリィ
+top3 entities near to cluster4>>
+桜, 八重桜, 枝垂れ桜

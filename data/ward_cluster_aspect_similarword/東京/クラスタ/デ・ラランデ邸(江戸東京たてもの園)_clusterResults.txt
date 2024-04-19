@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:デ・ラランデ邸(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+オススメ, カフェ, 茶, 感じ, ライト, 信濃町, ヨーロッパ, 中, 雰囲気, 風情
+cluster1:(5)
+豪邸, 洋館, 屋根, 建物, デ・ラランデ邸
+cluster2:(1)
+新宿区
+cluster3:(2)
+三階建て, 建築士
+cluster4:(1)
+江戸東京たてもの園
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

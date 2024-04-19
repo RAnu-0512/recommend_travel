@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:関金のシイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+東, 木, 小鴨川沿い, 堤防, 国道, シイ, 安歩薬師堂, 関金, 大きさ, 樹冠, 緑, 県道, 樹齢, 道路
+cluster1:(3)
+倉吉市, 関金総合文化センター, 鳥取県
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

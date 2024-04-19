@@ -1,0 +1,35 @@
+--------------------similar_words:がすてなーに ガスの科学館--------------------
+top3 entities near to cluster1>>
+子供, 子ども, 親達
+top3 entities near to cluster2>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster3>>
+子ども, 子供, 大人
+top3 entities near to cluster4>>
+食事, 体験, 展示
+top3 entities near to cluster5>>
+対象外, 対象, 想定外, 想定
+top3 entities near to cluster7>>
+帰り道, 帰る
+top3 entities near to cluster8>>
+時間, 日数, 時
+top3 entities near to cluster9>>
+駐車場, 駐車, 広場
+top3 entities near to cluster10>>
+屋上, 中庭, 施設
+top3 entities near to cluster11>>
+気球, ラボ, チーム
+top3 entities near to cluster12>>
+台場, 港, 海
+top3 entities near to cluster13>>
+施設, 公園, 周辺
+top3 entities near to cluster14>>
+平日, 夕方, 早朝
+top3 entities near to cluster15>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster16>>
+ガス管, ガス, 灯管, 灯
+top3 entities near to cluster17>>
+科学, 館, 博物館
+top3 entities near to cluster18>>
+臨海, 都心, かもめ

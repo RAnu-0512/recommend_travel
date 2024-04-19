@@ -1,0 +1,13 @@
+--------------------similar_words:せと温泉--------------------
+top3 entities near to cluster0>>
+休暇, 村, 国民
+top3 entities near to cluster2>>
+湯, 女, 男
+top3 entities near to cluster3>>
+湯, お湯, 温泉
+top3 entities near to cluster4>>
+内湯, 浴場, 内風呂
+top3 entities near to cluster5>>
+施設, 宿泊, 温泉
+top3 entities near to cluster6>>
+戦跡, めぐり

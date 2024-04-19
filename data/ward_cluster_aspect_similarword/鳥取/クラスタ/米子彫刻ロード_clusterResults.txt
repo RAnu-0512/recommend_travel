@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米子彫刻ロード>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+米子駅, 米子市
+cluster1:(9)
+山陰本線, ウォーキング, 待ち時間, 遊歩道, 下り, 周辺, 駅, 新加茂川, 彫刻作品
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

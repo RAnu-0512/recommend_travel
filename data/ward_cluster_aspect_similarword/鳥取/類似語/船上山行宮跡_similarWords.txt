@@ -1,0 +1,9 @@
+--------------------similar_words:船上山行宮跡--------------------
+top3 entities near to cluster0>>
+政治, 歴史, 経済
+top3 entities near to cluster1>>
+後醍醐, 後醍醐天皇, 潜幸
+top3 entities near to cluster2>>
+天皇, 天皇陛下, 明治天皇
+top3 entities near to cluster4>>
+行宮, 跡, 行在所

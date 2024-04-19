@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豪円山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大山旅館街, 北壁, 大山北壁
+cluster1:(3)
+スキー場, 駐車場, キャンプ場
+cluster2:(8)
+時期, 気, 姿, 所, 事, 策, 跡, 場所
+cluster3:(3)
+紅葉, 絶景, 景色
+cluster4:(10)
+娘スキー, ドライブ, ところ, スキー, 上, ロッジ, ドッグラン, ネット, 日本海, 豪円山
+cluster5:(4)
+大山, 山, 山道, 野原
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 6
+deleted 0entities.

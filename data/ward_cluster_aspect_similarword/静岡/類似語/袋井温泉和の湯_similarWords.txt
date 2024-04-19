@@ -1,0 +1,17 @@
+--------------------similar_words:袋井温泉和の湯--------------------
+top3 entities near to cluster2>>
+茶色, 肌, 氷
+top3 entities near to cluster3>>
+奥, 手前, 入口
+top3 entities near to cluster8>>
+入浴券, 食事券, 食事, 入浴
+top3 entities near to cluster9>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster12>>
+風呂, 湯船, 入浴
+top3 entities near to cluster13>>
+温度, 源泉, 加水
+top3 entities near to cluster14>>
+湯, 湯船, お湯
+top3 entities near to cluster15>>
+泉, 温, 水素

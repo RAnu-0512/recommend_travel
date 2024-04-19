@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Tottori West Canoe Club>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+子どもたち, ライフジャケット, ストロー, レクチャー, マイクロプラスチック, カヤック, 母, シーカヤック, 海, 体験, 小学校高学年, 基本操作, こと, 波, 家族, ライター, 沖, テトラポット, 人, 経験, パドル操作, 写真, 子供, 最後, 砂浜, 手前
+cluster1:(5)
+ゴミゼロキャンペーン, ゴミ拾い, 空き瓶, 更衣場所, ゴミ
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:後楽園の梅--------------------
+top3 entities near to cluster0>>
+園内, 敷地, 館内
+top3 entities near to cluster2>>
+早咲き, 秋晴れ, 快晴
+top3 entities near to cluster3>>
+光景, 風景, 情景
+top3 entities near to cluster4>>
+開催, 併催, 催す
+top3 entities near to cluster5>>
+花, 季節, 紅葉
+top3 entities near to cluster6>>
+人達, 大勢
+top3 entities near to cluster7>>
+梅, 梅園, 桜

@@ -1,0 +1,29 @@
+--------------------similar_words:大久野島毒ガス資料館--------------------
+top3 entities near to cluster0>>
+造兵廠, 造兵, 衣糧廠, 衣糧
+top3 entities near to cluster1>>
+工場, 製造, 毒ガス
+top3 entities near to cluster3>>
+学校, 授業, 建物
+top3 entities near to cluster4>>
+廃墟, 楽園, 野生
+top3 entities near to cluster5>>
+後期軍, 戦時, 後期
+top3 entities near to cluster6>>
+ウサギ, 中学生, 小学生
+top3 entities near to cluster7>>
+島, 島内, シキホール
+top3 entities near to cluster8>>
+怖, 大切, 難い
+top3 entities near to cluster9>>
+子供, 子ども, 大人
+top3 entities near to cluster10>>
+支配力, 支配, 関係
+top3 entities near to cluster11>>
+途上国, 国々, 途上
+top3 entities near to cluster12>>
+戦争, 内戦, 時代
+top3 entities near to cluster13>>
+平和, 平穏, 被害
+top3 entities near to cluster14>>
+資料, 展示, 施設

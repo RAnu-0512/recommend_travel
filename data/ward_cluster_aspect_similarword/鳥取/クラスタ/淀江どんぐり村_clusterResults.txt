@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淀江どんぐり村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+プリン饅頭, 大福, どんぐり味噌, 味噌
+cluster1:(6)
+駅, 山頂, 道, 雲, 休憩, どんぐり村
+cluster2:(3)
+粉末, 茶, 袋
+cluster3:(10)
+水, 農産物, 和菓子, ひとつ, 地元, 事, ケール, もの, 途中, ハーブ
+cluster4:(3)
+健康食品, 湧水, 名水
+cluster5:(6)
+大山, 道路沿い, 大山観光道路, 鳥取, 淀江どんぐり村, 境港
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 6
+deleted 0entities.

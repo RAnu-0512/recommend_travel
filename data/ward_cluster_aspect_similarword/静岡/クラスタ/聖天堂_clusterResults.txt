@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:聖天堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+聖天堂, 聖天尊
+cluster1:(11)
+足柄峠, 堂, 好奇心, 金太郎像, 石, 富士山, 御殿場市街, 金時山, 屋根, 熊, 眺め
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 2entities.

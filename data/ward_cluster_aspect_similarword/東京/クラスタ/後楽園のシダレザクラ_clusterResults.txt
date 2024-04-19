@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後楽園のシダレザクラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+場所, 時期, もの
+cluster1:(3)
+ほとり, 前, シダレザクラ
+cluster2:(1)
+受付
+cluster3:(1)
+機会
+cluster4:(2)
+かかり具合, 見事さ
+cluster5:(17)
+季節, 夜桜, 枝ぶり, 池, 樹齢, 花, 小石川後楽園, 紅葉, 樹, 古木, 後楽園, 正門, しだれ桜, 梅, 桜, 園内, 大泉水
+cluster6:(1)
+シダレ具合
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 7
+deleted 0entities.

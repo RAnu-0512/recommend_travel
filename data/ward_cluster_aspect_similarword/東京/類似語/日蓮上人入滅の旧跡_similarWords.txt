@@ -1,0 +1,21 @@
+--------------------similar_words:日蓮上人入滅の旧跡--------------------
+top3 entities near to cluster0>>
+日蓮, 上人, 親鸞
+top3 entities near to cluster1>>
+案内, 拝観, 境内
+top3 entities near to cluster2>>
+寺院, 寺, お寺
+top3 entities near to cluster3>>
+目的地, 目的, 地点
+top3 entities near to cluster4>>
+しおり, 雰囲気, フインキ
+top3 entities near to cluster6>>
+横, 縦, 真横
+top3 entities near to cluster7>>
+晩年, 後年, 生前
+top3 entities near to cluster8>>
+鬱火病, 鬱火, 病気
+top3 entities near to cluster10>>
+宗, 公, 仲
+top3 entities near to cluster11>>
+拝観, 境内, 本殿

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石神井城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+現役時代, 鎌倉時代中期, 末期頃
+cluster1:(2)
+太田道灌, 石神井城
+cluster2:(2)
+築城, 落城
+cluster3:(4)
+城館, 城跡, 居城, 城
+cluster4:(1)
+発掘がい
+cluster5:(4)
+空堀, 豊島, 谷, 台地
+cluster6:(3)
+南口, 駅, 石神井公園駅
+cluster7:(3)
+自然, 文明, 中世
+cluster8:(9)
+石神井公園, 石神井川, 間, フェンス, 南, 下り坂, バス, ルート, 時代
+cluster9:(1)
+禁止
+cluster10:(2)
+土塁, JA東京あおば
+cluster11:(1)
+下車徒歩
+
+howmany entities : 35
+howmany clusters : 12
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 12
+deleted 0entities.

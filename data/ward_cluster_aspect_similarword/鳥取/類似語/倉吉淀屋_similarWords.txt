@@ -1,0 +1,13 @@
+--------------------similar_words:倉吉淀屋--------------------
+top3 entities near to cluster1>>
+町家, 豪商, 商家
+top3 entities near to cluster2>>
+建築, 建物, 彫刻
+top3 entities near to cluster3>>
+歴史, 関係, 中心
+top3 entities near to cluster4>>
+付属屋, 附属屋, 付属, 附属
+top3 entities near to cluster5>>
+時代, 中期
+top3 entities near to cluster6>>
+土蔵, 町家, 商家

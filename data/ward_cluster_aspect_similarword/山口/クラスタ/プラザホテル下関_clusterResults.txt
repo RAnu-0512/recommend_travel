@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:プラザホテル下関>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+洋風弁当, 和風弁当
+cluster1:(13)
+前回, 話し, 値段, ポイント, レストラン, メイン, ホテル, 感じ, 付け合わせ, 今回, パフェ, カレー, スープ
+cluster2:(7)
+食事, 魚料理, 魚, 弁当, 海, 料理, パン
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

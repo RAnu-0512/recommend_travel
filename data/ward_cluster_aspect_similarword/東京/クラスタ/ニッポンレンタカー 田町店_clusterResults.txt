@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 田町店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+から車, 国道, 道, 都心
+cluster1:(11)
+駅, 他, 返却, 無料サービス, レンタカー屋, 田町駅, お陰, ナビ, 動き, レンタカー, 帰り
+cluster2:(1)
+ドライブ.23区
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

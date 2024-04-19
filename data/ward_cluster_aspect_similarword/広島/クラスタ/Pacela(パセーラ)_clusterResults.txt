@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Pacela(パセーラ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+バスセンター, 広島バスセンター
+cluster1:(3)
+広島市, そごう広島, そごう広島店
+cluster2:(28)
+施設, お花, 服屋, もの, オススメ, 飲食店, 店, グルメ, 構造, 建物, ビル, 紙屋町, NTT, バリアフリー, 広場, リーガロイヤル, ホテル, テナント, 食事, 所, 買い物, 時間, ショッピング施設, 中心部, 場所, 公園, ファッション, そごう
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 3
+deleted 0entities.

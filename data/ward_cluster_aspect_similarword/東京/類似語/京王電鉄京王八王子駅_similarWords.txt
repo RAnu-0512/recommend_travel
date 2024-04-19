@@ -1,0 +1,15 @@
+--------------------similar_words:京王電鉄京王八王子駅--------------------
+top3 entities near to cluster0>>
+京王, 電鉄, モールアネックス
+top3 entities near to cluster1>>
+地下, 地上, 地表
+top3 entities near to cluster2>>
+駅, 駅前, 周辺
+top3 entities near to cluster6>>
+足, お客, お足
+top3 entities near to cluster7>>
+経路, ルート, 道筋
+top3 entities near to cluster8>>
+混, 混綿, 混素
+top3 entities near to cluster9>>
+駅, バス, 電車

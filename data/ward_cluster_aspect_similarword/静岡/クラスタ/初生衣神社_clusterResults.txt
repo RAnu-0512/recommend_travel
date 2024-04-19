@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:初生衣神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+駐車場, 関わり, 伊勢神宮, 着物, 神社, 難, 境内, 本殿, 駐車地, 伝統, 発祥, 地, 入場料, 良さ, 方
+cluster1:(6)
+生衣神社, 衣神社, 浜名惣社, うぶぎぬ神社, 織殿, 遠州機織り
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大久保彦左衛門の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+立行寺, 寺院巡り, 法華宗寺院立
+cluster1:(8)
+墓, 関東, 大久保, 石碑, 東京メトロ, 境内, 大久保彦左衛門, 界隈
+cluster2:(3)
+江戸時代前期, 戦国時代, 武将
+cluster3:(3)
+江戸時代初期の旗本大久保彦左衛門, 白金高輪駅, 高輪・白金・三田
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

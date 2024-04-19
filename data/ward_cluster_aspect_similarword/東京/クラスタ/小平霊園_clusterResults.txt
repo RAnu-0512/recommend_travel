@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小平霊園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+霊園, 谷中霊園, 小平霊園, 多摩霊園, オチ小平霊園, 多磨霊園, 霊園内
+cluster1:(2)
+運動, 運動量
+cluster2:(4)
+犬, 散歩, ご飯, 迷子
+cluster3:(2)
+場所, 時期
+cluster4:(3)
+人, 感じ, 方
+cluster5:(1)
+アクセス方法
+cluster6:(15)
+朝方, 緑, ところ, 保育園, 遊歩道, 大きめ, ウォーキング, SEIYU, イメージ, タイミング, 桜, スポット, ベンチ, 雰囲気, 墓参り
+cluster7:(5)
+近く, 踏切, 徒歩, 地図, 周辺
+cluster8:(12)
+園児, 墓場, 緑地, 芝生, 彼岸, 公園, 墓地, 墓, 敷地, 子供達, 園内, 管理所
+cluster9:(3)
+改札口, 横断歩道, 信号機
+cluster10:(6)
+園路, 駅, 西武鉄道新宿線, 小平駅, 久米川駅, 北口
+
+howmany entities : 60
+howmany clusters : 11
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 11
+deleted 0entities.

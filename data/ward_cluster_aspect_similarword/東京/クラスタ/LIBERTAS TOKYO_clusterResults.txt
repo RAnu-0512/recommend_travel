@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:LIBERTAS TOKYO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(41)
+コツ, 店, スタッフ, 兄さん, 作り方, 私達, 久しぶり, バリエーション, 揃い, アクセサリー販売, 商品, マンツーマン, 種類, 指輪, 日程, 優しくノリ, 思い出, 東京旅行, 顔, リング, 興味, 旅, それぞれリング, 自宅, 好み, 店員, 予約, 時間, 身, デザイン, 素材, 方, ショップ, 友人, 雰囲気, アクセサリー, 購入, サイズ, 満足, もの, 店内
+cluster1:(2)
+叩き方, 教え方
+cluster2:(3)
+リング作り, 作り, 手作りリング体験
+
+howmany entities : 46
+howmany clusters : 3
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 3
+deleted 0entities.

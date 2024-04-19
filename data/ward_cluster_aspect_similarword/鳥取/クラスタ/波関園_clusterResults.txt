@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:波関園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+梨狩り, 梨, 世紀梨, 梨狩り体験料金, 湯梨浜町
+cluster1:(6)
+味覚, こと, 秋, 小学生, 大人, 場所
+cluster2:(4)
+砂丘, 山陰, 波関園, 鳥取
+cluster3:(1)
+食べ放題
+cluster4:(4)
+東伯郡, 三朝温泉, 東郷温泉, 温泉
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

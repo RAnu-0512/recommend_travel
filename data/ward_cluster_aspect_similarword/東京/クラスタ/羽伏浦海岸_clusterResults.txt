@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽伏浦海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+青さ, きれいさ, 美しさ
+cluster1:(10)
+羽伏浦海岸, 島, 南国ムード, 新島, 青っぽい海, 海岸, 波, 海, 潮, 砂浜
+cluster2:(3)
+景色, 天気, 景観
+cluster3:(3)
+白, 香り, 色
+cluster4:(2)
+東京, 人気
+cluster5:(7)
+サーフィン, 気持ち, 伊豆諸島, リフレッシュ, シーズン, コントラスト, サーファー
+cluster6:(3)
+ビーチ, 波乗り, 海水浴
+cluster7:(1)
+パウダーサンド
+cluster8:(3)
+場所, 人, 家族
+cluster9:(1)
+広め
+cluster10:(1)
+子供たち
+
+howmany entities : 37
+howmany clusters : 11
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:LAWAKU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+着物, カフェ, 終わり時間, 夕方, 和菓子, こと, プラン, 作り方, スタッフ, 時間予約, 温泉街, 店, 職人, スタート, サービス, 着付け, 製作, 時間, 雰囲気, 瞬間, 感じ, 記念, 和菓子1個セット, 方, 自転車, 方々, 人, 写真, 飲み物, 話, 素材
+cluster1:(7)
+和体験, 和菓子製作体験, 菓子作り体験, 体験, 茶道体験, 和菓子作り体験, 抹茶体験
+cluster2:(2)
+練り切り, ねりきり和
+
+howmany entities : 40
+howmany clusters : 3
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 3
+deleted 0entities.

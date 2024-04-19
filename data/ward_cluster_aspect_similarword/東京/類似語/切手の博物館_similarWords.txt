@@ -1,0 +1,11 @@
+--------------------similar_words:切手の博物館--------------------
+top3 entities near to cluster0>>
+切手, 切手シート, 絵葉書
+top3 entities near to cluster1>>
+駅線, 線路, 駅
+top3 entities near to cluster2>>
+各地, 人々, 人達
+top3 entities near to cluster3>>
+展示, 販売, 売店
+top3 entities near to cluster4>>
+貼り, 楽しい, 貼っ

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駒形諏訪神社の大カシ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駒形諏訪神社, 諏訪駒形神社
+cluster1:(11)
+最後, 巨木, 国道, 大木, 日本, アカガシ, 高さ, 木, 迫力, 近く, カシ
+cluster2:(2)
+静岡県, 三島市
+cluster3:(2)
+本丸跡, 山中城跡
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 6entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ドマーニマティーナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+マグカップ作り体験, 丁寧さ, グラス作り, イニシャル入れ, 清潔感, 教え方
+cluster1:(2)
+図柄, 曲線
+cluster2:(3)
+予約, 先生, 教室
+cluster3:(17)
+出来栄え, サプライズ, ペア, グラス, 猫, 素人, サンドブラスト, マグカップ, 彼, 思い出, マンション, リピーター, 手仕事, 病みつき, デザイン, レッスン, 雰囲気
+cluster4:(8)
+作品, 点, 機会, 時間, 満足, 逆転, 部分, 作業
+cluster5:(1)
+はりねずみ
+cluster6:(1)
+絵心
+cluster7:(2)
+東京都, 誕生日
+
+howmany entities : 40
+howmany clusters : 8
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 8
+deleted 0entities.

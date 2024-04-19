@@ -1,0 +1,17 @@
+--------------------similar_words:JR 巣鴨駅--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 構内
+top3 entities near to cluster2>>
+改札, 券売, コンコース
+top3 entities near to cluster3>>
+トイレ, 便所, おしっこ
+top3 entities near to cluster4>>
+地下鉄, メトロ, 市営
+top3 entities near to cluster5>>
+感じる, 思う, かんじ
+top3 entities near to cluster6>>
+ぐらび屋, 定食屋, ぐらび, 定食
+top3 entities near to cluster7>>
+着る
+top3 entities near to cluster8>>
+入場料, 入館料, 入場, 入館

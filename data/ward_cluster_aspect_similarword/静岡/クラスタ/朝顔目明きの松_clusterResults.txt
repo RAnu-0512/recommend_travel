@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝顔目明きの松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+話, 駐車場, 目, 人形浄瑠璃, 場所, 向かい, 大井川, 見学, 浄瑠璃話
+cluster1:(4)
+松, 朝顔目明きの松, 朝顔日記, 朝顔
+cluster2:(2)
+島田市博物館, 蓬莱橋
+cluster3:(1)
+大井川渡し跡の河川敷公園
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 3entities.

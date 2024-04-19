@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西伊豆町営やまびこ荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+畑温泉, やまびこ荘, 加熱源泉, 温泉, 源泉, 湯, 温泉プール
+cluster1:(3)
+気持ち, プール, 日帰り
+cluster2:(3)
+人, 他, 周り
+cluster3:(1)
+時期
+cluster4:(1)
+日帰り利用
+cluster5:(1)
+祢宜
+cluster6:(1)
+温水
+cluster7:(1)
+かけ流し
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 5entities.

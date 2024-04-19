@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杉田玄白の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+墓, 墓参, 石柱, 寺
+cluster1:(2)
+解剖, 偉人
+cluster2:(11)
+年齢, 本, 大海, 裏, 近く, ビジネス街, 腑分け, 片手, 階段, 次, もの
+cluster3:(1)
+神谷町駅
+cluster4:(1)
+大変革
+cluster5:(1)
+愛宕神社
+cluster6:(3)
+前野良沢先生, 杉田玄白, 栄関院
+cluster7:(3)
+医療史跡探訪, 蘭学事始, 解体新書
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:日南町総合文化センター--------------------
+top3 entities near to cluster0>>
+美術館, 図書館, 博物館
+top3 entities near to cluster1>>
+気持ち, 気持, キモチ
+top3 entities near to cluster2>>
+地元, 隣県, 地元民
+top3 entities near to cluster3>>
+施設, 設備, 敷地
+top3 entities near to cluster4>>
+木, 木火, 土
+top3 entities near to cluster5>>
+香り, 匂い, 薫り
+top3 entities near to cluster6>>
+スギ, 杉, マツ

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アーバンドック ららぽーと豊洲>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+豊洲駅, ユナイテッドシネマ豊洲, ららぽーと豊洲, 地下鉄豊洲駅, ららぽーと豊洲1, 豊洲
+cluster1:(9)
+キッザニア, シネコン, 休日, ランチ, パレットタウン, ららぽーと, 映画, クリアファイル, ランチタイム
+cluster2:(2)
+海, 東京メトロスタンプラリー
+cluster3:(5)
+店, 場所, 建物, 客, 予約
+cluster4:(1)
+チームラボ
+cluster5:(9)
+駐車場, 地下通路, 連絡通路, オリンピック選手村, 観光船, 景品配布場所, 飲食店, 台場周辺, 連絡橋
+cluster6:(1)
+アーバンドックららぽー
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スーパーホテルPremiere銀座>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+部屋とお風呂, 風呂場
+cluster1:(2)
+スパ, 温泉
+cluster2:(2)
+鍵, 部屋
+cluster3:(2)
+時間, 受付
+cluster4:(9)
+ホテル, コロナ, スタッフ, 手ぶら, 人, 利用, アメニティ, 問題, セキュリティ
+cluster5:(1)
+番号
+cluster6:(1)
+接客
+cluster7:(2)
+出立時間, 混雑さ
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 8
+deleted 0entities.

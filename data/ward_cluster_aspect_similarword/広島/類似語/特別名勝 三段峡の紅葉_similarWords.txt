@@ -1,0 +1,67 @@
+--------------------similar_words:特別名勝 三段峡の紅葉--------------------
+top3 entities near to cluster0>>
+美しい, 豊か, 涼しい
+top3 entities near to cluster1>>
+景色, 景観, 紅葉
+top3 entities near to cluster2>>
+正面, 真正面, 真横
+top3 entities near to cluster3>>
+錦帯, 舟, 錦
+top3 entities near to cluster4>>
+木々, 山道, 山
+top3 entities near to cluster6>>
+奥, 手前, 莉奥
+top3 entities near to cluster9>>
+イオン, マイナス, ジャスコ
+top3 entities near to cluster10>>
+ボート, カヤック, カヌー
+top3 entities near to cluster11>>
+見どころ, 見所, おすすめ
+top3 entities near to cluster12>>
+ホテル, 入り口, 昼過ぎ
+top3 entities near to cluster13>>
+トイレ, カメラ, ビデオカメラ
+top3 entities near to cluster14>>
+マップ, ＭＡＰ, ダンジョンマップ
+top3 entities near to cluster15>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster16>>
+ガード, シールド, プロテクター
+top3 entities near to cluster17>>
+パンツ, スタイル, ショーツ
+top3 entities near to cluster18>>
+遊歩道, ハイキング, トレッキング
+top3 entities near to cluster20>>
+地点, 地点付近, 位置
+top3 entities near to cluster21>>
+距離, 至近, 射程
+top3 entities near to cluster23>>
+子供, 子ども
+top3 entities near to cluster25>>
+休憩, てら, 一休み
+top3 entities near to cluster26>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster27>>
+休業, 営業
+top3 entities near to cluster28>>
+片道, 往復, 乗り継ぎ
+top3 entities near to cluster29>>
+宿泊, 一泊, 滞在
+top3 entities near to cluster30>>
+歩き疲れ, 歩き
+top3 entities near to cluster31>>
+弁当, 持参, お握り
+top3 entities near to cluster32>>
+運転手, 運転, 同乗
+top3 entities near to cluster33>>
+予習, 事前, 下調べ
+top3 entities near to cluster34>>
+から, 有数, 屈指
+top3 entities near to cluster35>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster36>>
+滝, 渓谷, 宇嶺
+top3 entities near to cluster37>>
+渡船, 遊覧船, 遊覧
+top3 entities near to cluster38>>
+滝, 五, 三

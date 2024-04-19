@@ -1,0 +1,63 @@
+--------------------similar_words:寸又峡温泉--------------------
+top3 entities near to cluster0>>
+寸, 峡, 温泉
+top3 entities near to cluster1>>
+肌, 素肌, 美人
+top3 entities near to cluster2>>
+吊り橋, つり橋, 釣り橋
+top3 entities near to cluster3>>
+すべすべ, スベスベ, ツルツル
+top3 entities near to cluster4>>
+山あい, 温泉郷, カーブ
+top3 entities near to cluster5>>
+トイレ, 洗い場, タオル
+top3 entities near to cluster7>>
+雰囲気, ススメ, オススメ
+top3 entities near to cluster8>>
+湯上がり, 露天風呂, 湯上り
+top3 entities near to cluster9>>
+乗り換え, マイカー, アクセス
+top3 entities near to cluster10>>
+小奇麗, 小ぎれい, 小綺麗
+top3 entities near to cluster14>>
+周辺, 地元, 近辺
+top3 entities near to cluster18>>
+町, 商店, 幸
+top3 entities near to cluster19>>
+人達, 人々
+top3 entities near to cluster20>>
+景色, 紅葉, 季節
+top3 entities near to cluster21>>
+感触, 風情, 香り
+top3 entities near to cluster22>>
+態度, 痛み
+top3 entities near to cluster25>>
+バス, 路線, マイクロバス
+top3 entities near to cluster27>>
+旅館, 民宿, 宿
+top3 entities near to cluster30>>
+麓, 山奥, 山
+top3 entities near to cluster32>>
+道路
+top3 entities near to cluster33>>
+鉄道, 電車, 列車
+top3 entities near to cluster36>>
+町営, 温泉, 村営
+top3 entities near to cluster37>>
+温泉, 静か, 温泉郷
+top3 entities near to cluster38>>
+温泉, 宿, 旅館
+top3 entities near to cluster39>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster40>>
+温泉, 湯, 温泉郷
+top3 entities near to cluster43>>
+温泉, 散策, 宿泊
+top3 entities near to cluster44>>
+入浴, 日帰り, 入湯
+top3 entities near to cluster46>>
+風呂, 湯船, 入浴
+top3 entities near to cluster47>>
+内湯, 浴場, 内風呂
+top3 entities near to cluster51>>
+泉質, 硫黄, 泉

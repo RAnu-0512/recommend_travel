@@ -1,0 +1,9 @@
+--------------------similar_words:グリーンヒルATO_ばら--------------------
+top3 entities near to cluster0>>
+ハウス, ガラス, ビニール
+top3 entities near to cluster1>>
+バラ, 薔薇, オギン
+top3 entities near to cluster2>>
+品種, 産地, 原種
+top3 entities near to cluster3>>
+ヒル, グリーン, ウッド

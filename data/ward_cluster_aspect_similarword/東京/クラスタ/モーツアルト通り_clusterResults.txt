@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:モーツアルト通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小径, 裏道, 道
+cluster1:(13)
+店, 裏, 南側, コーヒー, 近く, 喫茶店, ブラームス, 住宅, 付近, モーツァルト通り, 雰囲気, 刻印, ボード
+cluster2:(3)
+ラフォーレ原宿, 竹下通り, 原宿
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

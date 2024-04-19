@@ -1,0 +1,35 @@
+--------------------similar_words:谷保天満宮--------------------
+top3 entities near to cluster0>>
+谷保, 国立, 天神
+top3 entities near to cluster1>>
+合格, 受験, 祈願
+top3 entities near to cluster2>>
+駅, 徒歩, 敷地
+top3 entities near to cluster3>>
+天神, 宮, 神
+top3 entities near to cluster4>>
+饅頭, 鶏, 餌
+top3 entities near to cluster5>>
+焼き芋, ニワトリ, 放し飼い
+top3 entities near to cluster6>>
+御朱印, 破魔矢, 朱印
+top3 entities near to cluster7>>
+七五三, 天満宮, 宮参り
+top3 entities near to cluster8>>
+学生, 子供
+top3 entities near to cluster9>>
+孫, 長女, 次女
+top3 entities near to cluster10>>
+世話, 怪我, ケガ
+top3 entities near to cluster13>>
+言葉遣い, 言葉
+top3 entities near to cluster14>>
+朱印帳, 御朱印帳, 朱印, 御朱印
+top3 entities near to cluster15>>
+人数, 駐車場, 駐車
+top3 entities near to cluster16>>
+神社, 祭神, 厳島
+top3 entities near to cluster17>>
+参拝, 参詣, 神社
+top3 entities near to cluster18>>
+歴史道, 歴史

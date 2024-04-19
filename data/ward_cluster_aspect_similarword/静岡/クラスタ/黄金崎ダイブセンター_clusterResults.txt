@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黄金崎ダイブセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+車, 所, 宿泊先, こと, 安全, 数, 参加, 家, 沢山, 写真, 人, 体験, 感動, 時間, 様子, 担当, 説明, 前, 他, 方
+cluster1:(2)
+キビナゴ, イワシ
+cluster2:(4)
+ビーチ, ホテル, コース, ツアー
+cluster3:(2)
+使い方, ところ
+cluster4:(10)
+スタッフ, ウェット, プレゼント, ルリホシスズメダイ, ニシキフウライウオ, スノーケル, スキューバ, シュノーケル, インストラクター, シュノーケリング
+cluster5:(4)
+中学生, 紙芝居, 雨降り, 兄さん
+cluster6:(1)
+ウェットスーツ
+cluster7:(4)
+黄金崎, 温泉, 西伊豆, 黄金崎ダイブセンター
+cluster8:(1)
+アカ
+cluster9:(10)
+雨, 魚, 子供達, 群れ, 台風, 息子, 海, 海中, 子供, 気温
+cluster10:(1)
+駐車場
+cluster11:(1)
+タイワンカマス
+
+howmany entities : 60
+howmany clusters : 12
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 6
+deleted 8entities.

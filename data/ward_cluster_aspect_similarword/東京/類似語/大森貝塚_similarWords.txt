@@ -1,0 +1,15 @@
+--------------------similar_words:大森貝塚--------------------
+top3 entities near to cluster2>>
+盛, 貝塚, 大
+top3 entities near to cluster4>>
+駅, 区, 駅前
+top3 entities near to cluster6>>
+線路沿い, 線路, 道路沿い, 道路
+top3 entities near to cluster7>>
+公園, 遺跡, 庭園
+top3 entities near to cluster8>>
+石碑, 銅像
+top3 entities near to cluster9>>
+発見, 見つかる, 目撃
+top3 entities near to cluster10>>
+駅, 駅前, 構内

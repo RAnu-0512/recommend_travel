@@ -1,0 +1,7 @@
+--------------------similar_words:長者ケ森--------------------
+top3 entities near to cluster0>>
+草原, 森, 草むら
+top3 entities near to cluster1>>
+平家, 武将, 清盛
+top3 entities near to cluster2>>
+駐車, 展望, 道路

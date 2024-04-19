@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:興亜観音>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観音, 観音像
+cluster1:(2)
+興亜観音像, 興亜観音
+cluster2:(3)
+遺骨, 慰霊, 碑
+cluster3:(2)
+裁判, 住職
+cluster4:(2)
+歴史, 人々
+cluster5:(3)
+忠魂碑, 下, 近く
+cluster6:(1)
+犠牲
+cluster7:(5)
+土, 日本, 陸軍, 東京, 南京
+cluster8:(1)
+興亜
+cluster9:(7)
+松井石根, A級戦犯, 支那事変, 血土, 日支双方, 常滑焼, 大東亜戦争
+
+howmany entities : 28
+howmany clusters : 10
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 10entities.

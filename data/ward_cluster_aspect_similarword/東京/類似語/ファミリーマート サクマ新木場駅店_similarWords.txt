@@ -1,0 +1,9 @@
+--------------------similar_words:ファミリーマート サクマ新木場駅店--------------------
+top3 entities near to cluster0>>
+改札, 駅, 構内
+top3 entities near to cluster1>>
+食べ物, 飲み物, 現地
+top3 entities near to cluster2>>
+観戦, 散歩, 大会
+top3 entities near to cluster4>>
+水泳場, 水泳, 競泳

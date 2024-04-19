@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水元かわせみの里(水質浄化センター)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水質浄化センター, 水質
+cluster1:(10)
+カワセミ, こと, 場所, 運, 金魚, 鳥, 水元公園, 学習, 奥, 展示
+cluster2:(1)
+水元かわせみの里
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

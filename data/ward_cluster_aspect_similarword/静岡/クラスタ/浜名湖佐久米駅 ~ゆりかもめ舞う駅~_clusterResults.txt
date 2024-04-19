@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜名湖佐久米駅 ~ゆりかもめ舞う駅~>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ゆるキャン△, 天浜線, 天竜浜名湖, ゆりかもめ
+cluster1:(18)
+浜名湖, 喫茶店, モチーフ, 時期, ランチ, ホーム, 写真, ユリカモメ, こじんまり, カモメ, 食事, 渡り鳥, 中, 雰囲気, 夕方, じまい, 天竜浜名湖線, 餌付け
+cluster2:(2)
+パン, 牛
+cluster3:(11)
+駅舎, 敷地, 駐車スペース, 電車, 線路, ローカル電車, 駅, 無人駅, 公衆トイレ, 佐久米駅, 入場券
+
+howmany entities : 35
+howmany clusters : 4
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀧の畑の奇岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鬼, 大田川
+cluster1:(1)
+瀧
+cluster2:(1)
+奇岩
+cluster3:(1)
+侵食作用
+cluster4:(1)
+美祢市
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高速バス東京線(東京-御殿場・箱根)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+八重洲, 使い勝手, 御殿場, バスターミナル, 意外
+cluster1:(2)
+東京, 東京駅
+cluster2:(2)
+箱根, 水戸
+cluster3:(1)
+八重洲口直結
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

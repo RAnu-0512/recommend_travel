@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取民藝美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+鳥取市, JR鳥取駅, 吉田璋也, 鳥取民藝美術館, 鳥取駅
+cluster1:(12)
+民芸館, 展示, 展示数, 民芸品, たくみ割烹店, 家具作家, たくみ工芸, 建築物, 工芸発祥地, 土蔵風, 展示物, 工芸店
+cluster2:(2)
+童子・童女, 童子地蔵堂
+cluster3:(3)
+地蔵, 御堂, 寺
+cluster4:(5)
+建物, 美術館脇, 食事, 外観, 館内
+cluster5:(18)
+感じ, 日本, 宝物, 世界, 海外, 美術館, TV, 趣味, コレクション, 興味, シーン, 隣, のりしろ, 人, もの, 近く, 雰囲気, 時間
+
+howmany entities : 45
+howmany clusters : 6
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 6
+deleted 0entities.

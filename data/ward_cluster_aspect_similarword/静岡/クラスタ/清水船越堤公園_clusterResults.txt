@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水船越堤公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駐車場, 上り階段, 子供遊具, 山斜面利用公園, 遊具, 出発地点
+cluster1:(3)
+花見ひろば, 桜, 花見
+cluster2:(9)
+最後, 気, 水, こと, 小川, 先, 他, 木, 方
+cluster3:(3)
+名所, 眺望, 雄姿
+cluster4:(12)
+釣り, せせらぎ, アスレチック, 滑り台, 富士山, 駿河湾, 自然, 清水港, 子供, 天文台, ハイキングツアー, 山
+cluster5:(3)
+池, 広場, 公園
+cluster6:(4)
+ドーム形, 斜面, 正面, 屋根
+cluster7:(1)
+接眼部
+
+howmany entities : 41
+howmany clusters : 8
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 7
+deleted 1entities.

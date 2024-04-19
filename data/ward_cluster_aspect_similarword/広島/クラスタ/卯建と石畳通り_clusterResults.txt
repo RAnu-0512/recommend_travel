@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:卯建と石畳通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三次本通り, 三次, 広島県
+cluster1:(3)
+実家, 祖父, 母方
+cluster2:(2)
+山, 名
+cluster3:(1)
+商店街
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

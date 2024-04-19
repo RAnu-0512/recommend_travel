@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大福寺宝物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+撮影, 内部, セット, 文化財, 雑多, 禁止, 館内, 中, ガラスケース
+cluster1:(3)
+寺宝, 宝物館, 庭園鑑賞
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

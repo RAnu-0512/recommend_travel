@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いいだガラス工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ガラス玉, とんぼ玉, トンボ玉
+cluster1:(3)
+体験, 工房, 来訪
+cluster2:(3)
+前回, 次回, 予定
+cluster3:(7)
+ところ, ポイント, 場所, 雰囲気, ガラス, ストラップ, 方
+cluster4:(1)
+期限
+cluster5:(1)
+違う物
+cluster6:(1)
+近場
+cluster7:(1)
+人間とは・・
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆめタウン広島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+南区, 皆実町, 広島市, 広島駅
+cluster1:(10)
+野菜, フードコート, 店, 車, 店舗, 専門店, オムライス亭, ご飯, 食事, 用品
+cluster2:(2)
+株式会社イズミ, 廿日市
+cluster3:(14)
+スペース, ショッピングセンター, スーパー, キャベツ, アクセス, ショッピング, ファストファッション, ショップ, ゆめタウン, テナント, フルーツ, レストラン, ショッピングモール, オムライス
+cluster4:(2)
+ランチ, 買い物
+cluster5:(1)
+コメダ
+cluster6:(1)
+もの
+cluster7:(2)
+地方, 中国
+cluster8:(4)
+途中, 休憩, 徒歩, 買い物途中
+cluster9:(1)
+とんかつかつまさ
+cluster10:(10)
+大型ショッピングモール, 駐車場, 食品売り場, 食料品, 大型, 大型ショッピングセンター, 食品, 観光地, 観光, 食品スーパー
+
+howmany entities : 51
+howmany clusters : 11
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 11
+deleted 0entities.

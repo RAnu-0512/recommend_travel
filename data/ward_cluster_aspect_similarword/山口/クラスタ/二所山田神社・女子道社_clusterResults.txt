@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二所山田神社・女子道社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+階段, 昔, ところ, 名神, 季節, 論社, 駐車場, 山田権, 場所, 鹿野町, 神, みそぎ, 野花, 雰囲気, 明治, 自動車, 伝統, 入口, 先, 前社, 清流通り
+cluster1:(2)
+八千矛神, 漢陽寺
+cluster2:(9)
+山田神社, 菅原神社, 境内, 周方神社, 二俣神社, 神社, 護国神社, 神仏霊場, 宮司
+cluster3:(1)
+天照大神・豊受大
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水ヶ塚公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩, 寄り道休憩
+cluster1:(11)
+車, 売店, 子供達, 菓子, 自衛隊グッズ, 食堂, 公園, シャトルバス, 登山グッズ, 子供, 施設
+cluster2:(20)
+コマーシャル, スカイライン, おみやげ, レストラン, バイク, スマホ, バス停, メニュー, タイミング, 富士宮, 気持ち, 富士山, おみやげコーナー, ドライブ, ぬくもり, 遊歩道, スポット, トイレ, 我が家, オススメ
+cluster3:(3)
+夏, 冬場, 季節
+cluster4:(2)
+事, 場所
+cluster5:(3)
+目, 他, 前
+cluster6:(1)
+期間
+cluster7:(4)
+外観, 眺め, 正面, 建物
+cluster8:(3)
+雪, 霧, 富士スカイライン
+cluster9:(2)
+ガラス越し, マイカー規制
+cluster10:(6)
+駐車場, 駐車スペース, 絶景富士山, お土産屋, 絶景, 森の駅富士山
+cluster11:(1)
+水ヶ塚公園
+
+howmany entities : 58
+howmany clusters : 12
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 7
+deleted 8entities.

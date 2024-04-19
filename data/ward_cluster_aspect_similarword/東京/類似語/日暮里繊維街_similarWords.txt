@@ -1,0 +1,37 @@
+--------------------similar_words:日暮里繊維街--------------------
+top3 entities near to cluster1>>
+バッグ, ショップ, アクセサリー
+top3 entities near to cluster2>>
+勧め, 薦め, 奨め
+top3 entities near to cluster3>>
+値段, 価格, 商品
+top3 entities near to cluster5>>
+好み, 興味, 趣向
+top3 entities near to cluster6>>
+購入, 注文, 使用
+top3 entities near to cluster7>>
+目的, 行き方, 手段
+top3 entities near to cluster10>>
+ぐらい, くらい, 週間
+top3 entities near to cluster11>>
+駅, 駅前, 繁華
+top3 entities near to cluster13>>
+繊維, 食物, 織物
+top3 entities near to cluster14>>
+服飾店, 手芸店, 服飾, 手芸
+top3 entities near to cluster15>>
+洋服屋, 雑貨屋, 洋服, 雑貨
+top3 entities near to cluster16>>
+洋服, 洋裁
+top3 entities near to cluster17>>
+生地, 布地, 裏地
+top3 entities near to cluster18>>
+布類, 布, 布地
+top3 entities near to cluster19>>
+革, レザー
+top3 entities near to cluster20>>
+毛糸, 編棒
+top3 entities near to cluster21>>
+布地, 布
+top3 entities near to cluster22>>
+布団, 掛け布団, 毛布

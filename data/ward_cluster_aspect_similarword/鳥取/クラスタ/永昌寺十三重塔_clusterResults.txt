@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:永昌寺十三重塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+参考, 多く, 感謝, こと, 時代, 方
+cluster1:(6)
+つなぎ, 永昌寺, 屋根, 田んぼ, 形, 南
+cluster2:(1)
+鎌倉
+cluster3:(1)
+何か
+cluster4:(1)
+高さ
+cluster5:(1)
+左手前
+cluster6:(1)
+格狭間
+cluster7:(12)
+寺院, 石塔, 永昌寺境内, 石材店, 地震, 石柱, 本堂, 住職, 県道, 修繕費, 寺, 境内南側
+cluster8:(7)
+関金温泉, 十三重塔, 岩倉, 鎌倉時代中期, 鳥取県, 岩倉城跡, 輝石安山
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 9
+deleted 0entities.

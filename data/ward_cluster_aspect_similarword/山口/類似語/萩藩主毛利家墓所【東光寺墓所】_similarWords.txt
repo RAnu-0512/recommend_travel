@@ -1,0 +1,21 @@
+--------------------similar_words:萩藩主毛利家墓所【東光寺墓所】--------------------
+top3 entities near to cluster0>>
+籠, 灯, 誘魚
+top3 entities near to cluster1>>
+籠石, 灯, 籠
+top3 entities near to cluster2>>
+藩主, 藩士
+top3 entities near to cluster4>>
+家来, 夫人, 侍女
+top3 entities near to cluster5>>
+寺, お寺, 境内
+top3 entities near to cluster6>>
+裏手, 参道, 奥
+top3 entities near to cluster8>>
+就, 吉, 戒修
+top3 entities near to cluster9>>
+対称, 非対称, 上下
+top3 entities near to cluster10>>
+墓所, 廟所
+top3 entities near to cluster11>>
+利家, 寶殿

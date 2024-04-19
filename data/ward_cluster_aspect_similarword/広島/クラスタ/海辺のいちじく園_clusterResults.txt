@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海辺のいちじく園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+味, 好み, 店員, 方, 種類, 対応, 感じ, 方々, 形, こと
+cluster1:(15)
+実, オススメ, テレビ, いちじく, 車, ≧∀≦, ハチ, ジュース, 持ち帰り, スタッフ, レンタサイクル, 世代, 見極め, イチジク, 場
+cluster2:(8)
+オプションなしのいちじく狩り, 収穫量, 甘さ, 探索範囲, いちじく狩り, 食べ放題, 収穫, 因島寄り
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 3
+deleted 0entities.

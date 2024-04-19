@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧丹羽家蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+住宅蔵, 住宅, 住宅街, 蔵
+cluster1:(2)
+公園, 屋敷
+cluster2:(7)
+コロナ, ボランティア, 国, 文化財, 事, 中, 雰囲気
+cluster3:(4)
+周囲, 昔, 隣, 戦前
+cluster4:(1)
+鉄筋コンクリート造り
+cluster5:(2)
+染井, 駒込小学校
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

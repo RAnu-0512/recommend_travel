@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:賽の河原(鳥取県大山町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+後ろ向き門, 金門
+cluster1:(7)
+関係, 感じ, つく場所, こと, 妨げ, ほう, 方
+cluster2:(8)
+大山, 山, 参道, 河, 賽, 河原, 鳥居, 川
+cluster3:(2)
+荒涼, ゴツゴツ起伏
+cluster4:(3)
+絵図, 地獄, 天国
+cluster5:(7)
+奥, 西側, 右手, 眺め, 東側, 全景, 下あたり
+cluster6:(10)
+雪解け, 大山寺, 石積み, ゴツゴツ, 下山口, ビューポイント, ドイツ, アルプス, たたずまい, 雰囲気
+cluster7:(2)
+別, 途中
+cluster8:(2)
+此処, 場所
+cluster9:(1)
+案内
+cluster10:(1)
+形状
+cluster11:(1)
+水
+cluster12:(6)
+樹木, 道, 自然, 石, 景観, 境界
+cluster13:(3)
+夏, 紅葉, 季節
+cluster14:(2)
+雪, 雲
+cluster15:(1)
+感染症
+cluster16:(9)
+北端部, 登山口, 北壁, 上流側, 神山神社奥, 山岳信仰, 大山北壁, 神山神社, 夏山登山口
+
+howmany entities : 67
+howmany clusters : 17
+howmany entities (more than1entities) : 67
+howmany clusters (more than1entities) : 17
+deleted 0entities.

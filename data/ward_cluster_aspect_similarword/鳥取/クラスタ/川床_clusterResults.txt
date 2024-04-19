@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川床>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+登山, 登山口, 川床駐車場, 登山道
+cluster1:(2)
+・・秋, ・・紅葉
+cluster2:(10)
+感じ, 中, 日々, こと, 周り, 準備, 人, 注意, 方, 場所
+cluster3:(10)
+大山, 山, 奥, マイナスイオン, さえずり, 効果, 音, 自然, 鳥, ハイキング
+cluster4:(6)
+清流, 山道, 滝, 紅葉, 山々, 川
+cluster5:(1)
+真夏
+cluster6:(1)
+川床
+cluster7:(6)
+無風系, 水, 自然歩道, 運動不足, 水道水, 透明度
+
+howmany entities : 40
+howmany clusters : 8
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 8
+deleted 0entities.

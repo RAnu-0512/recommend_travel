@@ -1,0 +1,13 @@
+--------------------similar_words:リーフ レイダーズ--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 息子
+top3 entities near to cluster1>>
+海魚, 海水魚, 海水, 海
+top3 entities near to cluster6>>
+ショップ, スタッフ, シャワー
+top3 entities near to cluster7>>
+シュノーケリング, スノーケリング, シュノーケル
+top3 entities near to cluster11>>
+中学生, 小学生, 高校生
+top3 entities near to cluster12>>
+イワシ, 熱帯魚, サザエ

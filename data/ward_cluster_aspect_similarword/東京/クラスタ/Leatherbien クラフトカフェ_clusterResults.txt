@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Leatherbien クラフトカフェ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+先生, 講師
+cluster1:(2)
+体験, 希望
+cluster2:(6)
+時間, 話, 作業, もの, キット, 作品キット
+cluster3:(3)
+ルームシューズ作り, 革, ルームシューズ
+cluster4:(1)
+縫う作業
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

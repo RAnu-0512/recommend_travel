@@ -1,0 +1,13 @@
+--------------------similar_words:広島東洋カープ由宇練習場--------------------
+top3 entities near to cluster1>>
+三軍, 兵士
+top3 entities near to cluster2>>
+球場, スタジアム, 野球
+top3 entities near to cluster3>>
+練習場, 練習, 特訓
+top3 entities near to cluster4>>
+野球, 試合, 選手
+top3 entities near to cluster5>>
+席, 駐車, 入場
+top3 entities near to cluster6>>
+練習場, 練習, 東洋

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巣鴨大鳥神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+神社, 拝殿, 境内
+cluster1:(2)
+稲荷神社, 稲荷
+cluster2:(1)
+ここ子育
+cluster3:(1)
+巣鴨大鳥神社
+cluster4:(3)
+昔, ところ, 近く
+cluster5:(2)
+六義園, 中山道
+cluster6:(1)
+江戸
+cluster7:(1)
+到着
+cluster8:(1)
+正門
+cluster9:(1)
+鐘
+cluster10:(1)
+巣鴨
+cluster11:(1)
+国道
+cluster12:(1)
+西方向
+cluster13:(3)
+千石駅, 文京区, 千石
+
+howmany entities : 22
+howmany clusters : 14
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 14
+deleted 0entities.

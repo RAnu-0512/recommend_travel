@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山(静岡県伊豆の国市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+気, 目, 流れ, 地元, こと, 下, 看板, 周辺, 人, 場合, 近く, 上部, ほう, 方
+cluster1:(8)
+ハイキングコース, ウバメガシ, ジオサイト, ロープウェー, ハイキング, ロッククライマー, ロッククライミング, クライミング
+cluster2:(5)
+狩野川, 駿豆線, 修善寺, 伊豆半島ジオパーク, 富士山
+cluster3:(3)
+城山, 三島, 伊豆
+cluster4:(18)
+車, 駐車場, 平地, 崖, 日本昔話, バス, 車窓, 標高, 岩山, 国道, 山頂, 列車, 景色, 頂上, 方面, 山, 岩肌, 靴
+
+howmany entities : 48
+howmany clusters : 5
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 5
+deleted 0entities.

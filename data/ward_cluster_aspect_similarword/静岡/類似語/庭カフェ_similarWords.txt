@@ -1,0 +1,19 @@
+--------------------similar_words:庭カフェ--------------------
+top3 entities near to cluster0>>
+話術, 会話, 電話
+top3 entities near to cluster1>>
+屋内, 降り
+top3 entities near to cluster2>>
+ホテル, カフェ, 雰囲気
+top3 entities near to cluster3>>
+日程, 時間, 現地
+top3 entities near to cluster9>>
+工房, 相談, 完成
+top3 entities near to cluster11>>
+子供, 息子, 子ども
+top3 entities near to cluster12>>
+人柄, 感謝
+top3 entities near to cluster14>>
+つくり
+top3 entities near to cluster15>>
+体験, 体感, 楽しい

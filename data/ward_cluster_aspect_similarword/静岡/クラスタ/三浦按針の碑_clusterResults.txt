@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三浦按針の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+銅像, 碑, 功績
+cluster1:(2)
+人, 前
+cluster2:(4)
+船大工, 記念碑, モニュメント, 遊歩道
+cluster3:(1)
+右側
+cluster4:(3)
+英国, 日本, ウィリアム・アダムス
+cluster5:(7)
+なぎさ橋, なぎさ公演, 屋敷, 海, 松川, 公園, 河口
+cluster6:(1)
+政治顧問
+cluster7:(9)
+帆船モニュメント, 伊東海岸, 伊東, 伊東港, 徳川家康, 洋式帆船, 東詰, 江戸時代, 江戸・日本橋
+cluster8:(7)
+按針祭, 三浦按針の記念碑, 三浦按針の碑, 按針, 按針メモリアルパーク, 按針像, 按針メモリアル公園
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 6
+deleted 4entities.

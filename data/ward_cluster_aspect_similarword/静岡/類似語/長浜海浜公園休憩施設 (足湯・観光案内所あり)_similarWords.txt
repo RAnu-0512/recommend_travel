@@ -1,0 +1,9 @@
+--------------------similar_words:長浜海浜公園休憩施設 (足湯・観光案内所あり)--------------------
+top3 entities near to cluster0>>
+公園, 広場, 遊具
+top3 entities near to cluster1>>
+休憩, 仮眠, 所内
+top3 entities near to cluster2>>
+足湯, 温泉, 脚湯
+top3 entities near to cluster3>>
+駐車場, 駐車, 特設

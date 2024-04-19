@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹の丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+静岡県, 山内一豊, 掛川城公園, 山之内一豊, 掛川, 掛川城, 掛川市
+cluster1:(39)
+葛布問屋, 近代和風, 昭和, 庭園, 入館料, 和風, カフェ, 松本, 古さ, 竹の丸, 邸宅, 趣き, 昔, 屋敷跡, 本宅, 趣, 城, 歴史, 屋敷地, 戦国時代, 造り, 市, 観光スポット, 貴賓室, 屋敷, 大正, 重臣, 中, 雰囲気, 明治, スポット, 建物, 場所, 建築, 時代, 丸, 江戸時代, コスパ, 重臣屋敷跡
+
+howmany entities : 46
+howmany clusters : 2
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,33 @@
+--------------------similar_words:ソニープラザ 池袋パルコ店--------------------
+top3 entities near to cluster0>>
+菓子, お菓子, 洋菓子
+top3 entities near to cluster1>>
+輸入, 輸出, 直輸入
+top3 entities near to cluster2>>
+雑貨, 雑貨屋, 小物
+top3 entities near to cluster3>>
+化粧品, 化粧, 品等
+top3 entities near to cluster5>>
+グッズ, コスメ, アイテム
+top3 entities near to cluster6>>
+パウダー, クッキー, セサミクッキー
+top3 entities near to cluster7>>
+ショップ, デザイン, デザイナー
+top3 entities near to cluster8>>
+マニキュア, チョコレート, スヌーピー
+top3 entities near to cluster9>>
+シーズン, シーズンオフ, オフシーズン
+top3 entities near to cluster10>>
+デンコム, テスト, オシロスコープ
+top3 entities near to cluster11>>
+楽しみ, オススメ, お薦め
+top3 entities near to cluster12>>
+ハンズ, パルコ, ソニプラ
+top3 entities near to cluster14>>
+グミ, ゼリー, ガブリチュウ
+top3 entities near to cluster15>>
+海外, 国内, 国外
+top3 entities near to cluster17>>
+商品, 品数
+top3 entities near to cluster18>>
+楽しい, ボー, ハリ

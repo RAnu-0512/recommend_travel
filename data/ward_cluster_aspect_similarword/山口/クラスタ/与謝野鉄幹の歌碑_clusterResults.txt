@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:与謝野鉄幹の歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+俳人, 句
+cluster1:(2)
+歌, 与謝野
+cluster2:(2)
+季節, 場所
+cluster3:(1)
+山頂
+cluster4:(1)
+歌碑
+cluster5:(1)
+鉄幹
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

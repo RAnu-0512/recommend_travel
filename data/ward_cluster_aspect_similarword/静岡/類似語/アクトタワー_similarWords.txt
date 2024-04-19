@@ -1,0 +1,43 @@
+--------------------similar_words:アクトタワー--------------------
+top3 entities near to cluster0>>
+タワー, ランド, シティ
+top3 entities near to cluster2>>
+食事, ランチ, デート
+top3 entities near to cluster3>>
+ホテル, レストラン, カフェ
+top3 entities near to cluster4>>
+パワー, イエロー, ライト
+top3 entities near to cluster5>>
+ホール, コンサート, コンサートホール
+top3 entities near to cluster6>>
+音楽, コンサート, 楽曲
+top3 entities near to cluster7>>
+ホール, 野外, 展示
+top3 entities near to cluster9>>
+駅, 周辺, 近辺
+top3 entities near to cluster11>>
+仕事, 出張, 会社
+top3 entities near to cluster12>>
+外観, 建物, 写真
+top3 entities near to cluster17>>
+東西道, 方向道, 方向, 東西
+top3 entities near to cluster18>>
+陽, 珈琲, 乃樹
+top3 entities near to cluster23>>
+展望台, 展望, 見晴らし台, 見晴らし
+top3 entities near to cluster25>>
+展望, 眺望, 見晴らし
+top3 entities near to cluster28>>
+回廊, 空中, 庭園
+top3 entities near to cluster29>>
+夜景, 景色, 夕景
+top3 entities near to cluster32>>
+景色, 風景, 眺め
+top3 entities near to cluster35>>
+ビル, 駅, 駅前
+top3 entities near to cluster37>>
+店舗, 各店
+top3 entities near to cluster40>>
+駐車場, 時間, 駐車
+top3 entities near to cluster41>>
+高層, 施設, 商業

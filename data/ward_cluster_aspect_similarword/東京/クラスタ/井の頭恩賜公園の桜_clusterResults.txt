@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井の頭恩賜公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+公園全体, 公園, 公園側
+cluster1:(2)
+外国人, 人種
+cluster2:(4)
+枝, 木々, 池, 水面
+cluster3:(22)
+季節, ボート, 場所, 吉祥寺, ソメイヨシノ, 人, 東京, ところ, 木, 通称井の頭公園, ほとり, 思い出, 井の頭公園, 時期, 好み, 注意, 周り, 日本, 写真, 方, 側, 昼間
+cluster4:(3)
+吉祥寺駅, 名所, 混雑
+cluster5:(1)
+良さ
+cluster6:(13)
+夜桜, 花見時期, 五分咲き, 井之頭公園, 満開時期, 花見シーズン, 花見, 桜一色, 花見酒, 花見客, 桜, 満開, 花見スポット
+
+howmany entities : 48
+howmany clusters : 7
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 7
+deleted 0entities.

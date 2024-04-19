@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江戸城外堀跡(東京都新宿区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+外濠公園, 外濠, 江戸城外堀, 外堀周辺, 外堀跡, 江戸城外濠普請, 外堀
+cluster1:(6)
+市ヶ谷駅, JR, 四ツ谷駅, 四谷駅, 飯田橋駅, 徒歩
+cluster2:(2)
+JR中央線, JR新橋駅
+cluster3:(10)
+千代田区, 桜名所, たまたまお堀, 皇居, 堀, 土手沿い, 江戸, 濠, 江戸時代, 史跡
+cluster4:(9)
+所, 場所, もの, 人, 歴史, こと, 大勢, 時代, 方々
+cluster5:(2)
+外側, 付近
+cluster6:(5)
+ジョギング, 総武線, 江戸城, 桜並木, あちこち
+cluster7:(1)
+寒い
+cluster8:(3)
+花, 石垣, 桜
+cluster9:(2)
+案内板, 大きさ
+
+howmany entities : 47
+howmany clusters : 10
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 10
+deleted 0entities.

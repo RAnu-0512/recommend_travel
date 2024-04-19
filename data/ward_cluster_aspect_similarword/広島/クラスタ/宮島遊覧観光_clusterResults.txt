@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮島遊覧観光>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+寒, 寒さ, 昼間, 昼, 真夏
+cluster1:(7)
+海, 岩, 満潮, 波, 引潮, 海風, 砂浜
+cluster2:(2)
+船内, 船上
+cluster3:(2)
+舟, 船
+cluster4:(2)
+荷物, 本州
+cluster5:(2)
+改修期間, 改修
+cluster6:(14)
+フェリー, 大鳥居, ライト, ライトアップ, デッキ, トイレ, ガイド, ^^), 言い伝え, ディズニーランド, ナイトクルーズ, ナイトクルージング, ホテル, 雰囲気
+cluster7:(5)
+文化, 歴史, 目線, 価値, 自然
+cluster8:(13)
+次, 人, 方, 説明, 形, 他, 中, 話, 経験, 家族, 同行, 時間, 近く
+cluster9:(5)
+下, 表, 外, 要所, 裏側
+cluster10:(2)
+景色, クルーズ旅
+cluster11:(2)
+疲れ, 気分
+cluster12:(1)
+神秘さ
+cluster13:(1)
+語り部
+cluster14:(2)
+龍頭船もみじ, ろかい舟
+cluster15:(6)
+江戸時代, 鳥居, 厳島神社, 世界遺産, 氏子, 神社
+cluster16:(2)
+時間帯, 運行本数
+cluster17:(2)
+観光, 観光案内
+cluster18:(2)
+遊覧船, 遊覧
+cluster19:(4)
+宮島観光, 宮島, 宮島., 宮島遊覧
+cluster20:(3)
+七浦巡り, 宮島七浦巡り, 七浦側
+cluster21:(1)
+日本三景安芸
+cluster22:(3)
+夕暮れ時の大鳥居・厳島神社, 宮島遊覧観光, 宮島遊覧観光船
+
+howmany entities : 88
+howmany clusters : 23
+howmany entities (more than1entities) : 88
+howmany clusters (more than1entities) : 23
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銀座・夏野 有楽町店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+銀座・夏野 有楽町店, 銀座・夏野
+cluster1:(2)
+東京交通会館, 東京都
+cluster2:(8)
+日常, 食卓, 有楽町店, 箸置き, 専門店, 箸, 有楽町, 夏野
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

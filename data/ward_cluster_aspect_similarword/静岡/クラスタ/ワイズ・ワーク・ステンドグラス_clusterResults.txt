@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ワイズ・ワーク・ステンドグラス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+夫妻, 急病, ステンドグラス, 子供達, 心, こと, ガラス, ナイトライト, 友人, ライト, 迷惑, 体験, 店, 参加予定, 作業, 雰囲気, 子供, 指導, おかげ, 製作, 色
+cluster1:(3)
+トンボ玉, ナイトライト製作体験, トンボ玉作り体験
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 0entities.

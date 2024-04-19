@@ -1,0 +1,11 @@
+--------------------similar_words:私の部屋 自由が丘店--------------------
+top3 entities near to cluster1>>
+雑貨, 雑貨店, 雑貨屋
+top3 entities near to cluster2>>
+揃え, 品等
+top3 entities near to cluster3>>
+家具店, 家具, 本店
+top3 entities near to cluster4>>
+雑貨, 小物, 食器
+top3 entities near to cluster5>>
+和食器, 洋食器, 和食, 洋食

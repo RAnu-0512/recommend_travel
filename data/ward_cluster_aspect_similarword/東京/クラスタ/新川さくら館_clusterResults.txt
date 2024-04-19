@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新川さくら館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+下櫓, 見櫓
+cluster1:(2)
+紅葉散策, 散策
+cluster2:(2)
+新川, 新川さくら
+cluster3:(3)
+東京, コーヒー, 火
+cluster4:(2)
+造り, 沿い
+cluster5:(1)
+秋空
+cluster6:(1)
+進む船
+cluster7:(1)
+江戸の町
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

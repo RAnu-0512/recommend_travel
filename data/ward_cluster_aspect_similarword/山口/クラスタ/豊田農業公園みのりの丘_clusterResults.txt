@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊田農業公園みのりの丘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光農業施設, 豊田農業公園みのり
+cluster1:(11)
+バーベーキュー, 芋ほり, 丘, 稲刈り, 体験館, 加工体験, 農業体験, 宿泊, いくつか, 気持ち, レストラン
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

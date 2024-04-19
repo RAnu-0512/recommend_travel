@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:とよまつ紙ヒコーキ・タワー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+紙飛行機, 紙ヒコーキ, 専用用紙, 紙, まつ紙ヒコーキ・タワー
+cluster1:(2)
+折り方, 高さ
+cluster2:(2)
+眺め, 絶景
+cluster3:(2)
+人, 家族
+cluster4:(4)
+子供, こども, 大人, 子ども
+cluster5:(1)
+田舎
+cluster6:(13)
+ヒコーキ, ところ, タワー, 各々, 上, 時間, 物, 飛行機, 山, 気持ち, こと, 場所, 意味
+cluster7:(1)
+飛行時間
+cluster8:(1)
+展望台
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野動物園 水と氷の回廊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ホッキョクグマ, 中
+cluster1:(1)
+水
+cluster2:(1)
+水中
+cluster3:(1)
+ガラス越し
+cluster4:(2)
+泳ぐ姿, 観覧通路
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

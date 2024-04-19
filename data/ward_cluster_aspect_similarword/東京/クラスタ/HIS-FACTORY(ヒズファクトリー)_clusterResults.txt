@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:HIS-FACTORY(ヒズファクトリー)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+糸, 革
+cluster1:(13)
+生徒, 店, 連絡, 体験, 指導, 緊張, 完成, 時間, 方, 世界, 先生, 説明, 作業
+cluster2:(5)
+組み合わせ, 仕上がり, それぞれ, アドバイス, ハンドメイド
+cluster3:(2)
+テーブル, マスター
+cluster4:(4)
+レザー, カラー, サイズ, パーツ
+cluster5:(5)
+種類, 変化, 素材, 個性, 色
+cluster6:(4)
+バッグ作り, ブックカバー作り, 手帳カバー, 物作り体験
+
+howmany entities : 35
+howmany clusters : 7
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 7
+deleted 0entities.

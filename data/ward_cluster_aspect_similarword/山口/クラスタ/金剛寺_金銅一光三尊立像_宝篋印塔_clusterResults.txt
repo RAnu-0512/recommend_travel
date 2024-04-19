@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金剛寺_金銅一光三尊立像_宝篋印塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+八十八ヶ所, 四国八十八
+cluster1:(2)
+霊験, 朱印
+cluster2:(15)
+所, 平安, コース, 大師, 訪問, 本尊, 寺, 大師堂, 裏山, 起源, 地元, トイレ, 方, 人, 歴史
+cluster3:(2)
+滞在時間, 時代後期
+cluster4:(1)
+願い成就
+cluster5:(1)
+お大師さん
+cluster6:(1)
+周防大島
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 7
+deleted 0entities.

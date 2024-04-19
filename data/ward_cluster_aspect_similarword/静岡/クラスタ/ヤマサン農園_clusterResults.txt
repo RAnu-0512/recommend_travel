@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヤマサン農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+案内, 特典, 時期, ナビ, 観光, 場所
+cluster1:(15)
+スタッフ, 疲れ, イチゴ, カフェ, ハウス, おじいちゃん, 段, 大きめ, ベビーカー, いちご, 海, 久能山, 子供, アイスクリーム, 道
+cluster2:(1)
+お腹
+cluster3:(1)
+下道
+cluster4:(1)
+駐車場
+cluster5:(7)
+登り坂, いちご園, 苺, いちご食べ放題, コロナ禍, いちご狩り, 苺〝サイコー
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 3entities.

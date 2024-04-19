@@ -1,0 +1,9 @@
+--------------------similar_words:グランスタ丸の内--------------------
+top3 entities near to cluster0>>
+飲食店, レストラン, 飲食
+top3 entities near to cluster2>>
+鈴, 銀, 銅
+top3 entities near to cluster3>>
+グランスタ, カフェ, 丸ビル
+top3 entities near to cluster4>>
+土産, おみやげ, 弁当

@@ -1,0 +1,15 @@
+--------------------similar_words:シアターグリーン--------------------
+top3 entities near to cluster0>>
+一体感, 一体, ドキドキ・ワクワク
+top3 entities near to cluster1>>
+舞台, 劇場, 客席
+top3 entities near to cluster2>>
+ビル, 建物, 社屋
+top3 entities near to cluster3>>
+女性, 男性, ホール
+top3 entities near to cluster4>>
+寺, 応顕, 戒長
+top3 entities near to cluster6>>
+公園, 緑地, 北江古田
+top3 entities near to cluster7>>
+ファン, 年代層

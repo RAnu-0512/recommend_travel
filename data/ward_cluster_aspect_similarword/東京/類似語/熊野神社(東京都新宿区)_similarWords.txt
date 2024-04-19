@@ -1,0 +1,15 @@
+--------------------similar_words:熊野神社(東京都新宿区)--------------------
+top3 entities near to cluster0>>
+敷地, 裏手, 公園
+top3 entities near to cluster1>>
+新郎, 新婦, 神前
+top3 entities near to cluster2>>
+時代, 幕末, 末期
+top3 entities near to cluster3>>
+明治, 大正, 平安
+top3 entities near to cluster4>>
+神輿, お神輿, 御神輿
+top3 entities near to cluster6>>
+本殿, 社殿, 境内
+top3 entities near to cluster7>>
+都庁, 駅前, 駅

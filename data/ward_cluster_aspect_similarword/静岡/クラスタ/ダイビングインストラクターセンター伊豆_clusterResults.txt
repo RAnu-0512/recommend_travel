@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイビングインストラクターセンター伊豆>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ダイビング初体験, 初体験
+cluster1:(2)
+水面すれすれ, 重力
+cluster2:(4)
+写真, 予約, 動画, 説明
+cluster3:(5)
+クセ, 年間, 人, 中, 方
+cluster4:(2)
+PADI, ダイビングライセンス
+cluster5:(7)
+スタッフ, カップル, ダイビング, スポーツ, マンツーマン, ベテランインストラクター, シュノーケリング
+cluster6:(1)
+ランチ
+cluster7:(2)
+初心者, 気持ち
+cluster8:(1)
+ゴールドカード
+cluster9:(1)
+海
+cluster10:(7)
+知人, イカ, 田舎, 大群, 私達, 夫婦, 世話
+
+howmany entities : 34
+howmany clusters : 11
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 11entities.

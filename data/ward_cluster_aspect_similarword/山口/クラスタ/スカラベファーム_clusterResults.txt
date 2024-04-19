@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スカラベファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ジベレリン漬け, 不作, 巨峰, ぶどう狩り, 品種
+cluster1:(4)
+メス, オス, 虫, バッタ採り
+cluster2:(1)
+飼育箱
+cluster3:(4)
+こと, 問題, 感じ, 方
+cluster4:(4)
+種, ほか, 最後, 他
+cluster5:(1)
+変更
+cluster6:(21)
+子供, 孫, テーブル, ハウス, ピオーネ, ところ, 扇風機, スタッフ, 家族, マスカット, スーパー, 客, おすすめ, 食べ頃, シャインマスカット, トイレ, ゴルビー, 目当て, スーバー, コロナ, ぶどう
+cluster7:(4)
+手洗い場, キャンセル料, 行動制限, 神対応
+cluster8:(4)
+シャインマスカット食べ放題, ぶとう園, ぶとう, 食べ放題
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 9
+deleted 0entities.

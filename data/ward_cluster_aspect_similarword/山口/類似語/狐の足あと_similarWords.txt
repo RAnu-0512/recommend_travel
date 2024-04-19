@@ -1,0 +1,31 @@
+--------------------similar_words:狐の足あと--------------------
+top3 entities near to cluster0>>
+施設, 名所, 拠点
+top3 entities near to cluster2>>
+白狐, 狐, 狸
+top3 entities near to cluster3>>
+カフェ, メニュー, パフェ
+top3 entities near to cluster4>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster5>>
+ホテル, ホテルニュータナカ, ホテルアクティブ
+top3 entities near to cluster6>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster7>>
+メニュー, カウンター, レストラン
+top3 entities near to cluster8>>
+コーヒー, スイーツ, スィーツ
+top3 entities near to cluster9>>
+ロッカー, コインロッカー, 更衣
+top3 entities near to cluster10>>
+小さめ, 大きめ, 大き目
+top3 entities near to cluster11>>
+熱さ, 熱す, 炙る
+top3 entities near to cluster12>>
+時間, 施設
+top3 entities near to cluster13>>
+地酒, 飲み
+top3 entities near to cluster14>>
+駅, 仁保津, 駅前
+top3 entities near to cluster16>>
+温泉, 足湯, 湯

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久松公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仁風閣・県立博物館, 仁風閣
+cluster1:(3)
+櫓跡, 玄関側庭園, 駐車場
+cluster2:(6)
+桜, 花見, 花見客, 夜桜, 桜まつり, 開花発表
+cluster3:(25)
+時期, 丸まで, 見所, 山上, 奥, 洋館, 橋, 芝生, 北ノ, 庭園, 右手, バス停, 屋台, 宝珠橋, 石垣, 準備, 敷地, 袂, 入口, 人, 白亜, 堀, ループバス, 手前, 西坂下御門
+cluster4:(12)
+久松公園, 鳥取県立博物館, 鳥取状, 久松山, 久松山山頂, 県立博物館, 城跡, 鳥取, 鳥取城跡, 御門跡, 中ノ御門跡, 鳥取駅
+
+howmany entities : 48
+howmany clusters : 5
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 5
+deleted 0entities.

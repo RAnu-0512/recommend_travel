@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新木場 Studio Coast>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, 周辺
+cluster1:(2)
+場所, 会場
+cluster2:(9)
+ライブ, クラブイベント, 打ち上げ, ミラーボウル, 後ろ, スラッシュ, ライブイベント, ステージ, 箱
+cluster3:(1)
+某バンド
+cluster4:(1)
+ハイハット
+cluster5:(1)
+誕生日イベントLIVE
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

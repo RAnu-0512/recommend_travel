@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:めぐみのゆ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ゆ公園, めぐみのゆ公園, 温泉たまご
+cluster1:(12)
+温泉スタンド, タンク, 公園, 施設, 景色, めぐみ, 温泉, 湖畔, 遊歩道, 周辺, 足湯, 長閑
+cluster2:(2)
+東郷湖, 西岸沿い
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山陽小野田市宿泊研修施設きらら交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+宿泊施設, 施設, 研修施設, 研究室, 研修, 研修室
+cluster1:(3)
+期間限定, 夕方頃, 利用料
+cluster2:(21)
+ホール, 日帰り, 風呂, 玄関ホール, 展示, カルチャー教室, イベント, 紹介, 場合, 洋室, レストラン, 夕日, チラシ, 露天風呂, 温泉, トロン温泉, 展示スペース, 掲示板, スペース, 作品, 個人
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 3
+deleted 0entities.

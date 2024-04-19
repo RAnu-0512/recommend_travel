@@ -1,0 +1,17 @@
+--------------------similar_words:因島水軍城--------------------
+top3 entities near to cluster0>>
+水軍, 城, 城郭
+top3 entities near to cluster2>>
+坂, 坂道, 階段
+top3 entities near to cluster3>>
+機会, 興味, 価値
+top3 entities near to cluster5>>
+景色, 建物, 写真
+top3 entities near to cluster7>>
+遺構, 居館, 城跡
+top3 entities near to cluster9>>
+天守, 天守閣, 櫓
+top3 entities near to cluster10>>
+歴史, 軍隊
+top3 entities near to cluster11>>
+城, 城郭, 城跡

@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夕やけ小やけふれあいの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駐車場, 従業員, 接客態度, 宿泊施設
+cluster1:(3)
+問い合わせ窓口, 電話口, 窓口
+cluster2:(2)
+八王子市, 八王子駅
+cluster3:(4)
+季節, 景色, 夏, 川
+cluster4:(5)
+自然, 公園, 動物, 広場, 園内
+cluster5:(6)
+場所, 期間, 費用, 施設, 時間, 資料
+cluster6:(8)
+質問, 気, 感じ, 悪さ, 記載, 対応, こと, テント利用
+cluster7:(5)
+水遊び, 子ども, 子供, BBQ, 川遊び
+cluster8:(5)
+チェックアウト, こんにちは, リピーター, イルミネーション, スポット
+cluster9:(2)
+おまけ, 我が家
+cluster10:(1)
+メール
+cluster11:(1)
+ポニー
+cluster12:(1)
+ホール
+cluster13:(1)
+ホタル
+cluster14:(1)
+チャックアウト
+cluster15:(9)
+人, 他, 土産, 客, 相手, 方, 〇〇, バス, 男性
+cluster16:(5)
+開口, 散歩, 錠, 掃除, 挨拶
+cluster17:(1)
+厳守
+cluster18:(1)
+一人
+cluster19:(1)
+夕焼け小焼け
+
+howmany entities : 66
+howmany clusters : 20
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 20
+deleted 0entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:高見山公園の桜--------------------
+top3 entities near to cluster0>>
+桜, 八重桜, 花見
+top3 entities near to cluster1>>
+弁当, おにぎり, 惣菜
+top3 entities near to cluster2>>
+公園, 緑地, 遊歩道

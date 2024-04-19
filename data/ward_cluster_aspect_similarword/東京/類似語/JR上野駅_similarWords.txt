@@ -1,0 +1,43 @@
+--------------------similar_words:JR上野駅--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 南口
+top3 entities near to cluster4>>
+三星, 四星, 三, 四
+top3 entities near to cluster6>>
+雰囲気, パターン, タイミング
+top3 entities near to cluster7>>
+タイプ, フォルム, 形状
+top3 entities near to cluster8>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster9>>
+ホテル, ショップ, レストラン
+top3 entities near to cluster10>>
+乗り場, バス停, 地下鉄
+top3 entities near to cluster11>>
+うえ, また上, 承知
+top3 entities near to cluster13>>
+余裕, 余力, ゆとり
+top3 entities near to cluster14>>
+昔, 時代, 初期
+top3 entities near to cluster15>>
+人達, 大勢
+top3 entities near to cluster18>>
+目的地, 目的
+top3 entities near to cluster19>>
+案内板, 案内, 倒連
+top3 entities near to cluster20>>
+公園, 緑地, 広場
+top3 entities near to cluster21>>
+北部, 東部, 南部
+top3 entities near to cluster22>>
+高架, 地下, 迷路
+top3 entities near to cluster23>>
+展示, 旅, 写真
+top3 entities near to cluster24>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster25>>
+玄関口, 玄関, 正面口, 正面
+top3 entities near to cluster26>>
+改札, 改札口, コンコース
+top3 entities near to cluster27>>
+駅, 構内, 駅前

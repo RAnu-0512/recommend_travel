@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:備後一宮吉備津神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+苦労, 岡山, 吉備津, 準備, 帰り, 人, イベント, 御朱印, ライト, 突然, ライトアップ, 風格, 関係者, 飾り, 席, 大雨, ステージ, 周り
+cluster1:(2)
+一之宮巡り, ライトアップ散策コンサート
+cluster2:(4)
+神木, 御池, 神池, 池
+cluster3:(1)
+朱塗り
+cluster4:(12)
+備後国一之, 吉備津神社, 境内, 櫻山神社, 神楽殿, 吉備津彦命, 福山市, 厳島神社, 社務所, 吉備津彦神社, 本殿, 神社
+
+howmany entities : 37
+howmany clusters : 5
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 5
+deleted 0entities.

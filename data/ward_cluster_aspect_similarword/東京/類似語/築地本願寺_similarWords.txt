@@ -1,0 +1,83 @@
+--------------------similar_words:築地本願寺--------------------
+top3 entities near to cluster1>>
+人気, パワー, 大人気
+top3 entities near to cluster2>>
+お参り, 御参り, 御朱印
+top3 entities near to cluster3>>
+地下鉄, メトロ, 出入口
+top3 entities near to cluster4>>
+雰囲気, 見応え, 見ごたえ
+top3 entities near to cluster5>>
+カフェ, 喫茶店, レストラン
+top3 entities near to cluster7>>
+イメージ, ネーミング, 見た目
+top3 entities near to cluster8>>
+入り口, 入口, スペース
+top3 entities near to cluster9>>
+イベント, カフェ, ショップ
+top3 entities near to cluster10>>
+食べ物, テレビ, ラジオ
+top3 entities near to cluster12>>
+和堂, 茶堂, 和, 茶
+top3 entities near to cluster13>>
+異国, 各地, 都会
+top3 entities near to cluster14>>
+重厚, 迫力, 趣き
+top3 entities near to cluster15>>
+開店, 併設, 閉店
+top3 entities near to cluster16>>
+案内, ガイド, 道案内
+top3 entities near to cluster17>>
+入場, 見学, 入館
+top3 entities near to cluster18>>
+予約, 無料, 受付
+top3 entities near to cluster19>>
+右手, 左手, 人差し指
+top3 entities near to cluster20>>
+正門, 入口, 入り口
+top3 entities near to cluster21>>
+徒歩, 駅分, 駅
+top3 entities near to cluster22>>
+気分, 天気, お腹
+top3 entities near to cluster23>>
+食事, 写真, 撮影
+top3 entities near to cluster24>>
+施設, 空間, 敷地
+top3 entities near to cluster25>>
+建物, 外観, 外壁
+top3 entities near to cluster26>>
+階段, 天井, 椅子
+top3 entities near to cluster27>>
+座席, 列, 席
+top3 entities near to cluster28>>
+パイ, ラズベリー, カスタード
+top3 entities near to cluster29>>
+人達, 大勢
+top3 entities near to cluster30>>
+経, とい, 置く
+top3 entities near to cluster33>>
+場外, 市場, 魚市場
+top3 entities near to cluster35>>
+正統派, 正統, 浄土真宗
+top3 entities near to cluster36>>
+本願寺派, 本願寺, 浄土真宗
+top3 entities near to cluster37>>
+本願寺派, 本願寺, 浄土真宗
+top3 entities near to cluster38>>
+寺院, 仏教, お寺
+top3 entities near to cluster39>>
+建築, 様式, 西洋
+top3 entities near to cluster41>>
+都, 中央, 都内
+top3 entities near to cluster42>>
+処, 食事, 夕食
+top3 entities near to cluster44>>
+駐車場, 駐車, 広場
+top3 entities near to cluster45>>
+文化財, 重要, 指定
+top3 entities near to cluster46>>
+ばん, ざい, ざいの
+top3 entities near to cluster47>>
+お寺, 境内, 本堂
+top3 entities near to cluster48>>
+内観, 外観, 観想

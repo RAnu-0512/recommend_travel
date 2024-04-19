@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:テンプルキャット>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+店員, スタッフ, ドリンク, それぞれ, 感じ, 膝, 上, 足, 交代, 説明, 場所, 方
+cluster1:(6)
+猫達, 猫, 猫ちゃん, 子猫, 猫cafe, おじいちゃん猫
+cluster2:(2)
+◎保護猫, 保護猫施設
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 2entities.

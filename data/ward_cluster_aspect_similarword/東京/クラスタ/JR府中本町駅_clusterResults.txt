@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR府中本町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+武蔵野線, 東京競馬場, 専用, 感じ, ヨーカドー, 南武線, ホーム, 関係, 乗り換え
+cluster1:(2)
+乗り換え客, 開店
+cluster2:(3)
+通路, 改札, 階段
+cluster3:(6)
+開催日, 開催, 川崎迄, 競馬場, 越谷, 横浜
+cluster4:(6)
+駅, 東京駅, JR府中本町駅, 臨時改札口, 府中駅, 駅構内
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 5
+deleted 0entities.

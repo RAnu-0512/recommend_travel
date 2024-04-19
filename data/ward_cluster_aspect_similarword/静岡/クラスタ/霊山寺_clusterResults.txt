@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霊山寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+沼津, 富士
+cluster1:(3)
+地域, 土地, 一帯
+cluster2:(2)
+麓, 斜面
+cluster3:(4)
+下部温泉駅, 墓, 観光, 寺
+cluster4:(15)
+名, 用水路, 香貫山, 寒さ, こと, 関連, 身延線, 水不足, 文化財, 歴史, 富士山, 感じ, 立役者, 冬, 方
+cluster5:(1)
+梵鐘
+cluster6:(2)
+植田内膳, 霊山寺
+cluster7:(1)
+宝篋印塔
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 8entities.

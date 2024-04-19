@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:WINDBOX>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+スタッフ, ボート, 浜名湖, オーナー, 見た目, ウェイクサーフィン, スクール
+cluster1:(2)
+全員ボード, 家族
+cluster2:(2)
+身体, 頭
+cluster3:(1)
+初体験
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

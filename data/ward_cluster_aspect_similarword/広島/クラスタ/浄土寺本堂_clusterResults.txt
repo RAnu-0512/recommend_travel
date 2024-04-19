@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浄土寺本堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+歴史, もの, 時期, 浄土寺, 建築, 浄土, 中, 建築美, 建物, 寺, 本堂そのもの, 存在, 国宝, 国, 交通, 雰囲気, 尾道, 山々, 要衝, 多宝塔, 重文, 建立, 財, 豪商, 本堂, 神社仏閣
+cluster1:(2)
+鎌倉時代末期, 足利尊氏
+
+howmany entities : 28
+howmany clusters : 2
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 2
+deleted 0entities.

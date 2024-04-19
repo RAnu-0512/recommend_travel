@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笠山風穴>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+寒暖, 気温, 外より気温, 外, 温度, 予定外
+cluster1:(2)
+風穴周辺, 風穴
+cluster2:(2)
+萩観光, 海水魚
+cluster3:(2)
+夏, 真夏
+cluster4:(2)
+体験, 訪問
+cluster5:(12)
+中, ところ, スポット, 明神池, 場所, クーラー, おすすめ, トンビ, 別世界, 間, 入口, 近く
+cluster6:(10)
+風, 自然, 岩, 空気, 池, 笠山, 天然, 空洞, イス, 洞窟
+cluster7:(1)
+集会場
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 8
+deleted 0entities.

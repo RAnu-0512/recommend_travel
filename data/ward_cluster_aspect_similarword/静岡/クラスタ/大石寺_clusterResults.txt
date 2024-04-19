@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大石寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日蓮正宗, 日蓮正宗大石
+cluster1:(2)
+駐車場, 観光客
+cluster2:(19)
+御朱印, 御影堂, 日蓮宗, 門, 信徒, しだれ桜, 富士宮駅, 山門, 富士宮, 本堂, 富士山, 境内, 桜, 橋, 大石寺, 宗教, 客殿, 寺, 塔
+cluster3:(3)
+春, 時期, 季節
+cluster4:(2)
+敷地, 建物
+cluster5:(13)
+車, 途中, 家族, こと, 入り口, ところ, 気持ち, 感じ, 中, 関係, 場所, シルエット, 方
+cluster6:(2)
+奥, 回り
+cluster7:(1)
+修復
+cluster8:(2)
+ふらっ, 広さ
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 3
+deleted 11entities.

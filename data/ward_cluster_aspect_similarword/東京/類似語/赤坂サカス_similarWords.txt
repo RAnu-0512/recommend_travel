@@ -1,0 +1,107 @@
+--------------------similar_words:赤坂サカス--------------------
+top3 entities near to cluster0>>
+テーマパーク, レストラン, アトラクション
+top3 entities near to cluster1>>
+イベント, グッズ, コンサート
+top3 entities near to cluster2>>
+ホテル, コンビニ, スーパー
+top3 entities near to cluster3>>
+入り口, まわり, こんど
+top3 entities near to cluster4>>
+使い勝手, アクセス, 利便
+top3 entities near to cluster5>>
+腹ごしらえ, オススメ, リラックス
+top3 entities near to cluster6>>
+イメージ, インパクト, テンション
+top3 entities near to cluster8>>
+ストレス, スモーカー, フラストレーション
+top3 entities near to cluster9>>
+雰囲気, テーマ, テイスト
+top3 entities near to cluster10>>
+リンク, リンクアイコン, サイト
+top3 entities near to cluster11>>
+下り坂, 上り坂, 急坂
+top3 entities near to cluster12>>
+コスパ, コストパフォーマンス, コストパ
+top3 entities near to cluster13>>
+人通り, 人混み, 人込み
+top3 entities near to cluster14>>
+モール, ショッピング, センター
+top3 entities near to cluster15>>
+ショップ, 通販, グッズ
+top3 entities near to cluster17>>
+スペース, エリア, タワー
+top3 entities near to cluster18>>
+スタバ, ランチ, デート
+top3 entities near to cluster19>>
+有名人, 芸能人, 花びら
+top3 entities near to cluster20>>
+ライヴ, ライブ, バンド
+top3 entities near to cluster21>>
+クリスマス, ハロウィン, イースター
+top3 entities near to cluster22>>
+思い出, 出来事, 夏休み
+top3 entities near to cluster23>>
+テレビ, ドラマ, ＴＶ
+top3 entities near to cluster24>>
+ＴＢＳ, フジテレビ, テレビ朝日
+top3 entities near to cluster25>>
+ストア, フジテレビ, ショップ
+top3 entities near to cluster26>>
+グッズ, 写真, 商品
+top3 entities near to cluster27>>
+スター, ビッグ, ハット
+top3 entities near to cluster28>>
+テラス, カフェ, オープン
+top3 entities near to cluster29>>
+カフェ, 喫茶店, ショップ
+top3 entities near to cluster30>>
+ショー, ショウ, シアター
+top3 entities near to cluster31>>
+フード, タイム, グルメ
+top3 entities near to cluster32>>
+桜, 広場, 満開
+top3 entities near to cluster33>>
+直結, 駅, 徒歩
+top3 entities near to cluster34>>
+ビル, 地下, 階段
+top3 entities near to cluster35>>
+繁華街, 本屋, 繁華
+top3 entities near to cluster38>>
+人達, 人々, 人間
+top3 entities near to cluster40>>
+見所, 定番, 見どころ
+top3 entities near to cluster41>>
+周辺, 近辺
+top3 entities near to cluster43>>
+お腹, おなか, オナカ
+top3 entities near to cluster44>>
+期間, 時間, 休憩
+top3 entities near to cluster45>>
+席券, 席, 座席
+top3 entities near to cluster46>>
+混雑, 行列, 混む
+top3 entities near to cluster47>>
+土産, 屋台, おみやげ
+top3 entities near to cluster48>>
+食事, 散歩, 夕食
+top3 entities near to cluster49>>
+週末, 夕方, 平日
+top3 entities near to cluster50>>
+夏, 冬, 屋外
+top3 entities near to cluster51>>
+イベント, 催し物, 映画
+top3 entities near to cluster52>>
+番組, 放送, 劇場
+top3 entities near to cluster53>>
+商業, 施設, 複合
+top3 entities near to cluster54>>
+複合, 施設, 総合
+top3 entities near to cluster55>>
+飲食店, 飲食, レストラン
+top3 entities near to cluster56>>
+雑貨店, 雑貨, 店舗
+top3 entities near to cluster57>>
+土産屋, おみやげ屋, 土産, おみやげ
+top3 entities near to cluster58>>
+雑貨屋, 雑貨店, 雑貨

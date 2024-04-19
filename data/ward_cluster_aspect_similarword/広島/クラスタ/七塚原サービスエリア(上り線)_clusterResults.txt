@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七塚原サービスエリア(上り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+中国道, 広島県, 七塚原サービスエリア
+cluster1:(15)
+ドライブ途中, リンゴ, 下りサービス, 上り線, エリア, 高野リンゴ, サービスエリア, 上りサービス, トイレ休憩, 松屋, 美味しさ, 山陰, 最後, プリン, 土産
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

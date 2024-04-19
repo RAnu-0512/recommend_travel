@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:欅屋敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+家, 所有, 非公開, 近く, 屋敷, 内部, 外側
+cluster1:(3)
+阿佐, 神明宮, ヶ谷
+cluster2:(1)
+保護樹林帯
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

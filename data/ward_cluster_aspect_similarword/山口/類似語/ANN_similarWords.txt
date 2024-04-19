@@ -1,0 +1,37 @@
+--------------------similar_words:ANN--------------------
+top3 entities near to cluster0>>
+狩り, イチゴ, 狩る
+top3 entities near to cluster1>>
+ほし, がり, がる
+top3 entities near to cluster2>>
+苺, 桃, イチゴ
+top3 entities near to cluster3>>
+イチゴ畑, 農園, イチゴ
+top3 entities near to cluster4>>
+薫, 桃, 楓
+top3 entities near to cluster5>>
+カビ, 黒カビ, かび
+top3 entities near to cluster6>>
+食べ, 過ぎ, たべ
+top3 entities near to cluster7>>
+予約制, 予約枠, 予約
+top3 entities near to cluster8>>
+女性人, 子供, 女性
+top3 entities near to cluster9>>
+ハウス, ビニール, ダスト
+top3 entities near to cluster10>>
+食べ物, 子ども, トイレ
+top3 entities near to cluster11>>
+セット, 目当て, クーポン
+top3 entities near to cluster12>>
+手入れ, メンテナンス, ブラッシング
+top3 entities near to cluster13>>
+いちご, イチゴ, 苺
+top3 entities near to cluster15>>
+ザル, 汚れ, よごれ
+top3 entities near to cluster16>>
+挨拶, 土産, 愛想
+top3 entities near to cluster17>>
+時間, 受付, 予約
+top3 entities near to cluster19>>
+種類, 香り

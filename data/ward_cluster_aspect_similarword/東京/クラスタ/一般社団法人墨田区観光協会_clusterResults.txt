@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一般社団法人墨田区観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墨田区, 墨田区観光協会
+cluster1:(10)
+観光, おすすめスポット, おすすめ, スポット, 見どころ, 昔, 各種イベント情報, 情報, ・・, ガイドブック
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

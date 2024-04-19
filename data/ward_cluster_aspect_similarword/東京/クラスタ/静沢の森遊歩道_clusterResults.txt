@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静沢の森遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+遊歩道, ガイド, 中, ジャングル
+cluster1:(2)
+道路, 車
+cluster2:(1)
+大砲
+cluster3:(1)
+高度
+cluster4:(1)
+夕陽
+cluster5:(1)
+高射砲
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

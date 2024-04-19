@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:馬場温泉楠の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+馬場, 楠, 木
+cluster1:(10)
+安楽寺, 交互, 趣, 営業, フレンドリー, 時間, 露天風呂, 次, 近く, 地区
+cluster2:(1)
+ばんば
+cluster3:(13)
+共同浴場, 内湯, ぬる湯, 湯温, 入湯料, 土肥神社, 土肥温泉, 回数券, 浴槽, 露天, 風呂, 湯, 外来客
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 1entities.

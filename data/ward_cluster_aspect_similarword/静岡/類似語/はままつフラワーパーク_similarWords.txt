@@ -1,0 +1,77 @@
+--------------------similar_words:はままつフラワーパーク--------------------
+top3 entities near to cluster2>>
+家族, 大勢
+top3 entities near to cluster3>>
+子供, 子ども, 大人
+top3 entities near to cluster6>>
+息子, 母, 娘
+top3 entities near to cluster7>>
+展示, 見学, 開催
+top3 entities near to cluster8>>
+隣, 近所, 隣接
+top3 entities near to cluster10>>
+夕方, 昼, お昼
+top3 entities near to cluster12>>
+入り口, 入口, 敷地
+top3 entities near to cluster21>>
+こっち, あっち, 入り口
+top3 entities near to cluster22>>
+見応え, 雰囲気, 見ごたえ
+top3 entities near to cluster24>>
+あちこち, アチコチ, 色とりどり
+top3 entities near to cluster25>>
+チューリップ, パンジー, ネモフィラ
+top3 entities near to cluster27>>
+多肉植物, 食虫植物, サボテン
+top3 entities near to cluster28>>
+クリスマス, ハロウィン, バレンタイン
+top3 entities near to cluster29>>
+スイーツ, パンケーキ, おみやげ
+top3 entities near to cluster30>>
+イベント, コンサート, アトラクション
+top3 entities near to cluster31>>
+ホテル, レストラン, アトラクション
+top3 entities near to cluster32>>
+アイス, フルーツ, イチゴ
+top3 entities near to cluster33>>
+花菖蒲, 紫陽花, あじさい
+top3 entities near to cluster35>>
+フラワー, パーク, トレイン
+top3 entities near to cluster36>>
+ハウス, パレス, ビニール
+top3 entities near to cluster39>>
+夏, 冬, 春
+top3 entities near to cluster40>>
+木々, 植物, 自然
+top3 entities near to cluster41>>
+蛍池, 坂池, 坂, 蛍
+top3 entities near to cluster43>>
+花壇, お花, 薔薇
+top3 entities near to cluster46>>
+サル, フジ, クマ
+top3 entities near to cluster48>>
+パン, ピザ, 丼
+top3 entities near to cluster50>>
+入場券, 入園券, 入場, 入園
+top3 entities near to cluster51>>
+植物園, 動物園, 動物, 植物
+top3 entities near to cluster52>>
+桜, 八重桜, 満開
+top3 entities near to cluster53>>
+花, お花, 咲く
+top3 entities near to cluster57>>
+季節, 時期, 時季
+top3 entities near to cluster58>>
+四季, 高低, 移ろい
+top3 entities near to cluster59>>
+園内, 公園, 噴水
+top3 entities near to cluster60>>
+子供, 子ども, 親達
+top3 entities near to cluster63>>
+汽車, 列車
+top3 entities near to cluster64>>
+散歩, 散策, 花見
+top3 entities near to cluster65>>
+土産, おみやげ, 弁当
+top3 entities near to cluster66>>
+駐車場, 駐車, 遊園

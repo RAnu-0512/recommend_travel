@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取市さじアストロパーク佐治天文台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鳥取市, 鳥取, 鳥取県
+cluster1:(3)
+星空散策, 星空観測, 星空
+cluster2:(2)
+天体観察, 天体
+cluster3:(2)
+理科, 天文
+cluster4:(3)
+展示スペース, 公開天文台, 観測
+cluster5:(2)
+大型望遠鏡, サブ天文台
+cluster6:(2)
+佐治, さじ
+cluster7:(2)
+雲, 空
+cluster8:(2)
+星, 宇宙
+cluster9:(3)
+雨, 天気, 空気
+cluster10:(28)
+山, 車, 工夫, 奥, 説明, 職員, 方々, スポット, こと, 子ども, 勉強, 望遠鏡, コテージ, ペンション, 天文台, 人, 大人, ナビ, 注意, プラネタリウム, 仕組み, 施設, 方, レンズ, 子供, 市, 時間, 場所
+cluster11:(3)
+宿泊施設, 山間部, 山間
+
+howmany entities : 55
+howmany clusters : 12
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 12
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:興津坐漁荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+別宅, 別邸, 別荘
+cluster1:(2)
+見学, 復元
+cluster2:(3)
+窓, 建物, 素材
+cluster3:(7)
+本物, もと, 日本, 政治, 元, 時代, 規模
+cluster4:(6)
+ボランティア, 処, もの, 感じ, 影響, 方
+cluster5:(2)
+竹, 元老
+cluster6:(1)
+設計図
+cluster7:(2)
+明治村, 明治
+cluster8:(2)
+昭和, 大正
+cluster9:(1)
+興津
+cluster10:(1)
+愛知県
+cluster11:(2)
+坐漁荘, 西園寺公望公
+
+howmany entities : 32
+howmany clusters : 12
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 13entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飛鳥山公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+電車, JR
+cluster1:(2)
+散歩, 小雨
+cluster2:(5)
+子連れ, 大人, 子ども, 人, 子供
+cluster3:(11)
+新幹線, 北とぴあ, シーズン, 東北線, 取り組み, スポット, おすすめ, シャトル, 荒川線, 上野公園, シート
+cluster4:(5)
+上品, 難点, 下り, 感じ, 待ち
+cluster5:(7)
+山, 北, 木, 碑, 丘, 都, 日本
+cluster6:(8)
+家, 駅, 多数, 店, 近く, 敷地, 場所, 下
+cluster7:(5)
+季節, 時期, 時代, 時間, 期間
+cluster8:(1)
+活気
+cluster9:(7)
+駐車場, 場所取り, 子供連れ, 混み方, 展望台, 平日昼, 時間帯
+cluster10:(24)
+飛鳥山公園, 滝野川公園, 都電, 花見, 桜, 見頃, 満開, 夜桜, 北区, 王子駅, 名所, 京浜, 花見客, JR王子駅, 王子, 桜たち, 遊具, 徳川吉宗公, 公園, 路面電車, 花見シーズン, 桜の名所, 児童公園, 飛鳥山博物館
+
+howmany entities : 77
+howmany clusters : 11
+howmany entities (more than1entities) : 77
+howmany clusters (more than1entities) : 11
+deleted 0entities.

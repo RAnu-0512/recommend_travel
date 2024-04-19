@@ -1,0 +1,45 @@
+--------------------similar_words:乃木神社--------------------
+top3 entities near to cluster0>>
+乃木, 希典, ぎまれすけ
+top3 entities near to cluster1>>
+都, 都心, 都内
+top3 entities near to cluster2>>
+御所, 天皇, 明治
+top3 entities near to cluster3>>
+桜, 花, 梅
+top3 entities near to cluster4>>
+花見, 散歩, 初詣
+top3 entities near to cluster5>>
+軍人, 将軍, 大将
+top3 entities near to cluster6>>
+奥, 高, 手前
+top3 entities near to cluster7>>
+駅, 建物, 敷地
+top3 entities near to cluster8>>
+縁結び, 御朱印, お守り
+top3 entities near to cluster9>>
+佇まい, 雰囲気, たたずまい
+top3 entities near to cluster10>>
+地下鉄, ミッドタウン, メトロ
+top3 entities near to cluster11>>
+気持ち, ファン, 気持
+top3 entities near to cluster12>>
+見ごたえ, 見所, 見どころ
+top3 entities near to cluster13>>
+真ん中, まわり, 周り
+top3 entities near to cluster14>>
+所縁, 結
+top3 entities near to cluster15>>
+出入り, 行き来, 出入
+top3 entities near to cluster18>>
+参拝, 邸宅, 参詣
+top3 entities near to cluster19>>
+神社, 仏閣, 稲荷
+top3 entities near to cluster20>>
+神社, 境内, 本殿
+top3 entities near to cluster21>>
+社殿, 本殿, 拝殿
+top3 entities near to cluster22>>
+歩, 一, 境内
+top3 entities near to cluster24>>
+駅, 都, 外苑

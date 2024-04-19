@@ -1,0 +1,75 @@
+--------------------similar_words:鞆の浦--------------------
+top3 entities near to cluster0>>
+民俗, 資料, 歴史
+top3 entities near to cluster2>>
+パワー, オススメスポット, デートスポット
+top3 entities near to cluster3>>
+ワイン, ボトル, コロナ
+top3 entities near to cluster4>>
+自転車, クルマ, バイク
+top3 entities near to cluster5>>
+バッグ, カメラ, デニム
+top3 entities near to cluster6>>
+買い物, ガイド, 買物
+top3 entities near to cluster7>>
+カフェ, ホテル, トイレ
+top3 entities near to cluster8>>
+タイム, ライン, ルート
+top3 entities near to cluster9>>
+コイン, パーキング, ランドリー
+top3 entities near to cluster10>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster11>>
+クレープ, 焼きそば, シロップ
+top3 entities near to cluster12>>
+カップル, ホテル, レストラン
+top3 entities near to cluster13>>
+ドライブ, ドライバー, スピード
+top3 entities near to cluster15>>
+海沿い, 町並み, 街並み
+top3 entities near to cluster16>>
+ドラマ, テレビ, 舞台
+top3 entities near to cluster18>>
+龍馬, 龍, 竜馬, 竜
+top3 entities near to cluster19>>
+良い, 古い, 時代
+top3 entities near to cluster20>>
+港, 海岸, 海
+top3 entities near to cluster24>>
+浦, 鞆, 圃千
+top3 entities near to cluster25>>
+神社, 命
+top3 entities near to cluster26>>
+路線, バス, 乗り継ぎ
+top3 entities near to cluster27>>
+運賃, バス, 乗り継ぎ
+top3 entities near to cluster28>>
+バス, トモテツバス, タクシー
+top3 entities near to cluster30>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster31>>
+町並み, 民家
+top3 entities near to cluster32>>
+離合, 往来, すれ違い
+top3 entities near to cluster33>>
+昼食, 食事, 休憩
+top3 entities near to cluster35>>
+時間帯, 時間, 滞在
+top3 entities near to cluster36>>
+施設, 地図
+top3 entities near to cluster37>>
+駐車, 渋滞, 道路
+top3 entities near to cluster38>>
+県道, 道路, 国道
+top3 entities near to cluster39>>
+酒屋, 蔵元, 造り酒屋
+top3 entities near to cluster40>>
+地酒, 餅
+top3 entities near to cluster41>>
+料理店, 飲食店, 料理, 飲食
+top3 entities near to cluster42>>
+散策, 散歩, 見学
+top3 entities near to cluster43>>
+映画, 閉館, 上映
+top3 entities near to cluster44>>
+写真, 風景, 撮影

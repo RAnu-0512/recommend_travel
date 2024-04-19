@@ -1,0 +1,35 @@
+--------------------similar_words:RAKU SPA 1010 神田--------------------
+top3 entities near to cluster0>>
+風呂, 銭湯, 湯
+top3 entities near to cluster1>>
+チェア, ルーム, パウダー
+top3 entities near to cluster2>>
+アニメ, ドラマ, マンガ
+top3 entities near to cluster3>>
+コーナー, スタッフ, 貸し出し
+top3 entities near to cluster4>>
+シャワー, ロッカー, スペース
+top3 entities near to cluster5>>
+コラボ, コラボレーション, コラボレート
+top3 entities near to cluster6>>
+気持ち, 気持, キモチ
+top3 entities near to cluster7>>
+フロア, 各階, 地階
+top3 entities near to cluster8>>
+洗い場, サウナ, 浴槽
+top3 entities near to cluster9>>
+うとい, とう, やとう
+top3 entities near to cluster11>>
+個室, 混雑, 食事
+top3 entities near to cluster12>>
+目的, 時間, ため
+top3 entities near to cluster13>>
+種類, 場合
+top3 entities near to cluster14>>
+女性人, 人達, 女性
+top3 entities near to cluster15>>
+興味, 関心, 興味津々
+top3 entities near to cluster16>>
+価格, 温度
+top3 entities near to cluster17>>
+漫画, マンガ, 作品

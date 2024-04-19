@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩往還梅林園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+種類, 中, 店, 臨時, 木
+cluster1:(4)
+花, 小川, 梅林, 梅
+cluster2:(1)
+県道
+cluster3:(1)
+案内板
+cluster4:(1)
+無料駐車場
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

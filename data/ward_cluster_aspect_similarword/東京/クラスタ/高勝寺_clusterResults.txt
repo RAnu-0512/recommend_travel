@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高勝寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寺, 木, 迫力
+cluster1:(2)
+派寺院, 真言宗豊山
+cluster2:(1)
+高勝寺
+cluster3:(1)
+岩船山大智
+cluster4:(1)
+京王相模原線
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

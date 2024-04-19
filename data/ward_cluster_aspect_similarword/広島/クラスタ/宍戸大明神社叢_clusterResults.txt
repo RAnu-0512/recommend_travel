@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宍戸大明神社叢>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人, 雰囲気
+cluster1:(1)
+中
+cluster2:(1)
+場所
+cluster3:(1)
+地元
+cluster4:(1)
+社
+cluster5:(1)
+橋
+cluster6:(1)
+龍
+cluster7:(1)
+広島市
+cluster8:(1)
+三次方面
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

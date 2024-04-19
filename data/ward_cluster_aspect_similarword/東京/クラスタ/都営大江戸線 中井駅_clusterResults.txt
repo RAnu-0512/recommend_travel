@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営大江戸線 中井駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+目白大学, 出せ不動尊, エスカレーター, 地上, ミニ博物館, ホーム, 坂, 乗換え, 西武新宿線, 案内, 時間, 長さ, 出口, 新宿, 都営, 乗り換え
+cluster1:(6)
+西武線, 乗換, 中井駅, 駅, 小駅, 江戸線
+cluster2:(6)
+目白大学〜御霊神社, 落合中央公園, 地下深い大江戸線, 落合公園, 商店街, 中井商店街
+cluster3:(1)
+目白学園遺跡資料室見学のため大江戸線
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 4
+deleted 0entities.

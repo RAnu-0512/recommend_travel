@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昭和公園(東京都昭島市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+野球場, 砂場所
+cluster1:(2)
+昭和, 昭和公園
+cluster2:(2)
+紅葉, 銀杏
+cluster3:(3)
+祭り, くじら祭り, 花火
+cluster4:(9)
+公園 格好, 公園, スポーツ施設, 動物, 小さなお子, 散歩, 駅, テニスコート, 遊具
+cluster5:(22)
+一般, 場所, 子ども, イベント, 人, 他, 夜道気, 方法, 近く, 感じ, 迫力, 近所, 刺激, 夏, 時期, 青梅線, ウォーキング, モミジ, 間近, 方, スペース, 終わり
+cluster6:(3)
+ミニ動物園, 昭島駅, 東中神駅
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 7
+deleted 0entities.

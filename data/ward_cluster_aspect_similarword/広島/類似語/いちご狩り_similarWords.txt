@@ -1,0 +1,13 @@
+--------------------similar_words:いちご狩り--------------------
+top3 entities near to cluster0>>
+狩り, 狩る, イチゴ
+top3 entities near to cluster1>>
+農園, 町, 農場
+top3 entities near to cluster2>>
+予約, 電話, 対応
+top3 entities near to cluster3>>
+大人, 子供, 子ども
+top3 entities near to cluster4>>
+友達, 家族, 友人
+top3 entities near to cluster6>>
+一杯, お腹, 一

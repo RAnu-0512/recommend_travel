@@ -1,0 +1,29 @@
+--------------------similar_words:骨董通り(アンティーク通り)--------------------
+top3 entities near to cluster0>>
+骨董品, 骨董, 美術品, 美術
+top3 entities near to cluster3>>
+ショップ, セレクト, ブランド
+top3 entities near to cluster4>>
+パンケーキ, スウィーツ, スイーツ
+top3 entities near to cluster5>>
+レストラン, デートスポット, デートスポットデート
+top3 entities near to cluster6>>
+アンティークショップ, 蚤の市, ビンテージショップ
+top3 entities near to cluster7>>
+あちこち, アチコチ, 各所
+top3 entities near to cluster8>>
+アップル, アップルジャパン, アップルコンピュータ
+top3 entities near to cluster9>>
+カフェ, 喫茶店, 喫茶
+top3 entities near to cluster10>>
+クリントン, ストリート, ヒラリー
+top3 entities near to cluster11>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster12>>
+所縁, 結
+top3 entities near to cluster13>>
+販売, 製造, 発売
+top3 entities near to cluster14>>
+散策, 散歩, ぶらつく
+top3 entities near to cluster15>>
+雑貨, 家具, 洋服

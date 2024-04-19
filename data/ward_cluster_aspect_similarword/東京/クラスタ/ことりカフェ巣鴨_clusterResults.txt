@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ことりカフェ巣鴨>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小鳥, 鳥たち, 小鳥たち
+cluster1:(2)
+体験, 訪問
+cluster2:(2)
+部屋, 店内
+cluster3:(6)
+今回, ガラス張り, 沢山, 多く, スペース, 時間
+cluster4:(1)
+茶
+cluster5:(1)
+百円
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 6
+deleted 0entities.

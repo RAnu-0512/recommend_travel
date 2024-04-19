@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆国分寺塔跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伊豆国分寺塔址, 七重塔, 国分寺塔跡
+cluster1:(18)
+廻り, 伊豆箱根鉄道, 日蓮宗, 周り, 高さ, こと, 命令, 全国, 礎石, 四方, 奈良, そば, 境内, 石碑, 天皇, 時代, 寺, 塔
+cluster2:(3)
+聖武, 伊豆国分寺, 光明四天王護国寺
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 0entities.

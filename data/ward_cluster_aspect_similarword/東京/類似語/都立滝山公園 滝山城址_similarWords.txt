@@ -1,0 +1,21 @@
+--------------------similar_words:都立滝山公園 滝山城址--------------------
+top3 entities near to cluster0>>
+城址, 城, 城跡
+top3 entities near to cluster1>>
+北口, 城, 南口
+top3 entities near to cluster3>>
+立地, 敷地, 施設
+top3 entities near to cluster4>>
+訪問, 整備, 攻撃
+top3 entities near to cluster5>>
+兵力, 軍勢, 大軍
+top3 entities near to cluster6>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster7>>
+塁, 土, 木
+top3 entities near to cluster8>>
+坂, 信玄, 登り
+top3 entities near to cluster9>>
+後期, 19, 14
+top3 entities near to cluster10>>
+11, 12, 14

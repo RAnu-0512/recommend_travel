@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柿崎海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+黒船遊覧船, 遊覧船
+cluster1:(3)
+乗り場, ビーチ, 近く
+cluster2:(2)
+海岸, 海
+cluster3:(1)
+道
+cluster4:(1)
+波
+cluster5:(1)
+内めぐり
+cluster6:(1)
+海岸線
+cluster7:(6)
+静岡県, 駅開国, 幕末史, 下田みなと, 下田港, 黒船サス
+cluster8:(1)
+間戸ヶ浜海游公園
+
+howmany entities : 18
+howmany clusters : 9
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 9entities.

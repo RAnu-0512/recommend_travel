@@ -1,0 +1,15 @@
+--------------------similar_words:OWNP Jewelry shop & cafe--------------------
+top3 entities near to cluster0>>
+原石, 鉱石
+top3 entities near to cluster1>>
+子供, 子ども, 大人
+top3 entities near to cluster2>>
+友達, 息子, 娘
+top3 entities near to cluster4>>
+危険, 安全, 危ない
+top3 entities near to cluster5>>
+工程, 作業, 手作業
+top3 entities near to cluster6>>
+パン屋, パン, 食パン
+top3 entities near to cluster7>>
+体験, 初, 実体験

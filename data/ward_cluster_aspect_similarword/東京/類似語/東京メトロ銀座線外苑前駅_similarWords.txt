@@ -1,0 +1,21 @@
+--------------------similar_words:東京メトロ銀座線外苑前駅--------------------
+top3 entities near to cluster0>>
+外苑, 神宮, 内苑
+top3 entities near to cluster2>>
+神宮球場, ヤクルト, スワローズ
+top3 entities near to cluster3>>
+イベント, ラッピング, レストラン
+top3 entities near to cluster4>>
+最寄り駅, 乗り換え, 乗換え
+top3 entities near to cluster6>>
+本拠地, 本拠, 拠点
+top3 entities near to cluster7>>
+大勢, 半数
+top3 entities near to cluster8>>
+模様, 判明, よう
+top3 entities near to cluster9>>
+球場, 試合, 競技
+top3 entities near to cluster10>>
+路線, 電車, 列車
+top3 entities near to cluster12>>
+混み, 具合, 具合い

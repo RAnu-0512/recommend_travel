@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊勢屋横町>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+横町, 江戸屋横町, 菊屋横町
+cluster1:(2)
+木戸孝允, 高杉晋作
+cluster2:(12)
+萩, 町並み, 伊勢屋, 佇まい, 風情, 萩藩, 道, 閑静, 直線, 間, 豪商屋敷, 旧宅
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

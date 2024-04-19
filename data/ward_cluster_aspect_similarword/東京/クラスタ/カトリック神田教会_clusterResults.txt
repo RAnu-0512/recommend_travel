@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カトリック神田教会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+周囲, 心, 周り
+cluster1:(6)
+光景, 感じ, 興味, 印象, 中, 方
+cluster2:(3)
+大学, 地域, 歴史
+cluster3:(13)
+ホテル, 文化庁, ひとつ, 佇まい, 結婚式, 神保町, カトリック, ヨーロッパ, スポット, 雰囲気, ステンドグラス, モノトーン, パイプオルガン
+cluster4:(1)
+由緒
+cluster5:(22)
+神田教会, 色彩, 裏通り沿い, ゴシック建築, オフィスビル, 都会, 専門学校, 建物, 空間, 神田, 雑踏, 水道橋駅, 千代田区, 都内最古, カトリック教会, ビル, 徒歩, 異空間, 聖堂, 教会, 外観, 都心
+
+howmany entities : 48
+howmany clusters : 6
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 6
+deleted 0entities.

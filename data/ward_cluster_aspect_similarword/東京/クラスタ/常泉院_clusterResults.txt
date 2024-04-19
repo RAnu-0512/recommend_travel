@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常泉院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+隣, 北
+cluster1:(7)
+中, 常泉院, 常円寺, 場所, 雰囲気, 鬼子母神, 西新宿
+cluster2:(1)
+光景
+cluster3:(1)
+寺
+cluster4:(5)
+高層ビル, 新宿駅, 青梅街道, 新宿, 新宿鬼子母神
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

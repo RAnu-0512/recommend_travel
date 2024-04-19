@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白滝山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口県, 下関市, 豊北町田
+cluster1:(2)
+白滝山, 登山道
+cluster2:(13)
+アブラハヤ, 滝つぼ, ところ, 他, 初心者, 程度, 途中, ハイキングコース, ゴルジュ, 奥, ボリューム, 方, 山
+cluster3:(2)
+準備, 注意
+cluster4:(3)
+印象, 恰好, 足元
+cluster5:(1)
+甲斐
+cluster6:(13)
+景色, 自然, 勾配, 落差, 小石, 林道, 木々, 桜, 渓流, 山桜, 標高, けれど滝, 滝
+cluster7:(1)
+岩壁地形
+cluster8:(1)
+ホンシュウジカ
+
+howmany entities : 39
+howmany clusters : 9
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 9
+deleted 0entities.

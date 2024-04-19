@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若洲ゴルフリンクス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+江東区, 若洲, 若洲ゴルフリンクス
+cluster1:(2)
+プレイ費, 交通費
+cluster2:(3)
+ゴルフ場, 練習場, 接待ゴルフ
+cluster3:(6)
+東京湾, 東京, 電車, 東京駅, 荒川, 都心
+cluster4:(17)
+おすすめ, 初心者, スコア, 食事, 初ゴルフ, 人, 人気, アクセス, ところ, 予約, ゴルフ, コース, コンペ, ゴミ, キャディ, 帰り, 練習
+cluster5:(7)
+場所, 景色, 距離, 感じ, 立地, 印象, 風
+
+howmany entities : 38
+howmany clusters : 6
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 6
+deleted 0entities.

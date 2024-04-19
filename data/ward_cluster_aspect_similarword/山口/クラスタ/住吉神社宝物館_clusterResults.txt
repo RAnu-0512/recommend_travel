@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:住吉神社宝物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本殿, 拝殿, 境内
+cluster1:(5)
+能面, 絵馬, 見ごたえ, 和歌, 文化財
+cluster2:(1)
+戦国大名
+cluster3:(5)
+長門国守護, 大内弘世公, 毛利元就公, 住吉神社宝物館, 住吉神社
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

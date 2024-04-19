@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 はっとう フルーツ総合センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+鳥取バスセンター, 鳥取, 八頭町, 鳥取駅
+cluster1:(23)
+保健センターバス停, 時期, 地域, 営業, 手洗い, 駅, 果物, 朝, 品種, こと, 地, フルーツ, 氷ノ山, フルーツ総合センター, 地元, 道, ぶどう, リンゴ, 旅行者, 季節, 国道, バス, 路線バス
+cluster2:(9)
+新水, 梨, はっとりフルーツセンター, 果物栽培, あきづき, 柿, 世紀梨, 世紀, 訪ね柿
+
+howmany entities : 36
+howmany clusters : 3
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 3
+deleted 0entities.

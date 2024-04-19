@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ東西線竹橋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+内容, 期間, 仕事, 方, こと
+cluster1:(2)
+想像, 帰宅
+cluster2:(12)
+後ろ, 最寄り駅, 人, 気持ち, ホーム, メトロ, 東西線, 飯田橋, 声, 毎日新聞社, 目, 横
+cluster3:(8)
+白杖, 車掌, 駅, 電車, 駅長, 車両, ビル, 階段
+cluster4:(7)
+中野, 平川門, 皇居, 通勤地, 首都高, 通勤, 竹橋
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 5
+deleted 0entities.

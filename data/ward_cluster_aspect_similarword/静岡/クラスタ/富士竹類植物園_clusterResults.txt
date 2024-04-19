@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士竹類植物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東名高速, 高速道路
+cluster1:(2)
+笹, 竹
+cluster2:(3)
+興味, 感, 印象
+cluster3:(2)
+復路, 到着
+cluster4:(8)
+バンブー, 看板, 音, 人, サワサワ, 種類, 場所, 施設
+cluster5:(3)
+車, 山道, 橋
+cluster6:(1)
+立地
+cluster7:(3)
+植物園, 植物名, 資料館
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 7entities.

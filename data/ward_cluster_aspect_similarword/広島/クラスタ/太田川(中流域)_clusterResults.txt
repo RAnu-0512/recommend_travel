@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太田川(中流域)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, ゴルフ場
+cluster1:(7)
+河川敷, そば, カヌー, グラウンド, 太田川, ゴルフ, ラウンド
+cluster2:(5)
+団体, 水, 流れ, 多く, 場所
+cluster3:(4)
+釣り人, 河川, 川, 水門
+cluster4:(1)
+川幅
+cluster5:(1)
+優しさ
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

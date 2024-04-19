@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧赤松家門・塀・土蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+郷土, 車, 県, 糸場, 外観, レンガ, 建築物, 塀, 渡米経験, 土蔵, 赤レンガ, 感想, こと, 門, 文化財, 磐田駅, ところ, 初期, 磐田原, 造り, 市, 屋敷, 咸臨丸, 名士, 富岡, 明治, 建物, 幕臣, 巧み, 東海道線
+cluster1:(5)
+赤松家, 赤松家門, 赤松則良, 赤松家記念館, 記念館
+
+howmany entities : 35
+howmany clusters : 2
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 2
+deleted 0entities.

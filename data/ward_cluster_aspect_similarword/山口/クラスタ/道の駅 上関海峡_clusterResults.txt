@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 上関海峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+車, 道, 駅
+cluster1:(7)
+前, 米, 目, 近く, 魚, 海産物, 人
+cluster2:(3)
+海峡, 半島, 先端
+cluster3:(3)
+海側, 道路側, 海
+cluster4:(2)
+上関海峡, 四階楼
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

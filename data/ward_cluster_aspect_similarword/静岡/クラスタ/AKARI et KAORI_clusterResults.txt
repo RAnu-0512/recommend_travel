@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:AKARI et KAORI>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+温泉, 貸切, 宿, お湯, 風呂, 外風呂
+cluster1:(17)
+茶, 外観, 勿論綺麗, 内装, 和装, 日帰り, 修善寺, 菓子, 趣, 和菓子, 湯上がり, 来客, 庭, 形, 設計, 雰囲気, 建物
+cluster2:(1)
+駐車場
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 1entities.

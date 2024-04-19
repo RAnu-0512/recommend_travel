@@ -1,0 +1,11 @@
+--------------------similar_words:夏泊海岸--------------------
+top3 entities near to cluster0>>
+関係, 密接
+top3 entities near to cluster1>>
+沖, 海岸
+top3 entities near to cluster2>>
+荒波, 大波, 荒海
+top3 entities near to cluster3>>
+海原, 大, 超大
+top3 entities near to cluster4>>
+泊, 海岸, 夏

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大関鞄工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+申込, 解説, 指導, 説明, 講師
+cluster1:(2)
+手触り, 色合い
+cluster2:(8)
+ワークショップ, 組み合わせ, ショルダーバッグ, イベント, レベル, オプション, 問い合わせ, パーツ
+cluster3:(4)
+ポケット, バック, 小さめ, バッグ
+cluster4:(10)
+基本, 話, 思い, 場合, 好み, 方, 友人, 違い, 方々, 経験
+cluster5:(19)
+穴, 店, 皮, レザーパーツ, 工程, オプション料金, 現物, 質, 鞄, 工房, 柄, 愛着, 工具, 財布, レザー, 革, 作業, 品物, 色
+cluster6:(2)
+本革バッグ, 大関鞄工房
+cluster7:(3)
+バッグ作り, ショルダーバッグ作り, 作り
+cluster8:(2)
+作成体験, ショルダーバッグ作り体験
+cluster9:(2)
+体験, 体験時間
+cluster10:(4)
+予定時間, 頂き手作業, 楽しさ, 時間
+
+howmany entities : 61
+howmany clusters : 11
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 11
+deleted 0entities.

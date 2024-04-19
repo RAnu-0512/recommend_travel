@@ -1,0 +1,103 @@
+--------------------similar_words:グランパークホテルパネックス東京--------------------
+top3 entities near to cluster0>>
+バフェスタイル, パンブッフェ, ビッフェスタイル
+top3 entities near to cluster1>>
+パンケーキ, シュークリーム, クロワッサン
+top3 entities near to cluster2>>
+ランチタイム, ファミレス, ランチ
+top3 entities near to cluster4>>
+雰囲気, タイプ, レベル
+top3 entities near to cluster5>>
+プレート, 盛り合わせ, カトラリー
+top3 entities near to cluster6>>
+ドリンク, メニュー, 飲み物
+top3 entities near to cluster7>>
+セット, 単品, フルセット
+top3 entities near to cluster9>>
+コース, フォレストコース, レイクコース
+top3 entities near to cluster10>>
+サービス, デザイン, スタイル
+top3 entities near to cluster11>>
+ソファー, ソファ, テーブル
+top3 entities near to cluster12>>
+フツー, ふつー, 無愛想
+top3 entities near to cluster13>>
+コスパ, コスト, コストパフォーマンス
+top3 entities near to cluster14>>
+値上げ, 小分け, 注文
+top3 entities near to cluster16>>
+トースト, オーブン, トースター
+top3 entities near to cluster17>>
+ハンバーグ, ソーセージ, オムレツ
+top3 entities near to cluster18>>
+シウマイ, ワンタン, シュウマイ
+top3 entities near to cluster20>>
+デザート, タルト, パンケーキ
+top3 entities near to cluster21>>
+プリン, カラメル, カスタード
+top3 entities near to cluster22>>
+フルーツ, カスタード, 生クリーム
+top3 entities near to cluster23>>
+コーヒー, ラーメン, コンポタージュ
+top3 entities near to cluster24>>
+バニラ, ストロベリー, ショコラ
+top3 entities near to cluster26>>
+パイン, パイナップル, ウッド
+top3 entities near to cluster27>>
+ビュッフェ, バイキング, ランチ
+top3 entities near to cluster28>>
+ケーキ, アイス, コーヒー
+top3 entities near to cluster29>>
+サラダ, トマト, パスタ
+top3 entities near to cluster30>>
+かゆ, あん, こく
+top3 entities near to cluster31>>
+野菜, 豚肉, 鶏肉
+top3 entities near to cluster32>>
+料理, 和食, 食事
+top3 entities near to cluster33>>
+駅, 駅前, 徒歩
+top3 entities near to cluster34>>
+接客, 店内
+top3 entities near to cluster35>>
+塩辛, 物価
+top3 entities near to cluster36>>
+決済, 銘柄, 湯煎
+top3 entities near to cluster37>>
+食事, 夕食, 昼食
+top3 entities near to cluster38>>
+ホテル, 駅, 旅館
+top3 entities near to cluster39>>
+会場, 写真, 時間
+top3 entities near to cluster40>>
+女性人, 女性, 家族
+top3 entities near to cluster41>>
+隣席, 枕元, まくら元
+top3 entities near to cluster42>>
+駐車, 宿泊, 従業
+top3 entities near to cluster43>>
+予約, 受付, 申し込み
+top3 entities near to cluster45>>
+利用, 案内, 用意
+top3 entities near to cluster46>>
+衣, 菜, 卓
+top3 entities near to cluster47>>
+満足度, 満足, 納得度, 納得
+top3 entities near to cluster48>>
+印象, 特徴点, 特徴
+top3 entities near to cluster49>>
+状態, 状況, 有様
+top3 entities near to cluster51>>
+期待, 裏切る, 乞う
+top3 entities near to cluster52>>
+価値, 値段, 価格
+top3 entities near to cluster54>>
+罪悪感, 罪悪, ドキドキ・ワクワク
+top3 entities near to cluster55>>
+ケーキ, 定食
+top3 entities near to cluster56>>
+食べ放題, 食べ
+top3 entities near to cluster57>>
+皿, 飯粒, 盛り分け
+top3 entities near to cluster58>>
+種類, 数種類

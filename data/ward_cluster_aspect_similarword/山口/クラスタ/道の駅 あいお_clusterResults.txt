@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 あいお>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+エビ, 車エビ養殖, 車えび, えび, エビフライ定食
+cluster1:(2)
+特産物, 名産品
+cluster2:(3)
+あいお, 秋穂, 秋穂地区
+cluster3:(9)
+規模, 地名, 店, 地元, 駅, 近所, 店内, 地域, 建物
+cluster4:(3)
+販売, 売店, 休憩
+cluster5:(2)
+農産物, 海産物
+cluster6:(2)
+キムチ, サラダ
+cluster7:(5)
+小さめ, カレーライス, レストラン, アットホーム, ドライブ
+cluster8:(4)
+もの, 道, 途中, 感じ
+cluster9:(1)
+駐車場
+
+howmany entities : 36
+howmany clusters : 10
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 10
+deleted 0entities.

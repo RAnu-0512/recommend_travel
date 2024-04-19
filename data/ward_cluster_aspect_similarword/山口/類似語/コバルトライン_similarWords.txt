@@ -1,0 +1,7 @@
+--------------------similar_words:コバルトライン--------------------
+top3 entities near to cluster0>>
+景色, 景観, 絶景
+top3 entities near to cluster1>>
+海道, 琳正道, 海, 琳正
+top3 entities near to cluster3>>
+舗装, アスファルト, 道路

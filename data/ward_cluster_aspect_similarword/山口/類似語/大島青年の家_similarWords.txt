@@ -1,0 +1,15 @@
+--------------------similar_words:大島青年の家--------------------
+top3 entities near to cluster0>>
+中学生, 小学生, 高校生
+top3 entities near to cluster1>>
+思い出, 想い出, 思い出深い
+top3 entities near to cluster2>>
+昔, 大昔, むかし
+top3 entities near to cluster3>>
+人間, 生き物, 生身
+top3 entities near to cluster4>>
+記憶, ルートセヴン, 思い出す
+top3 entities near to cluster5>>
+歌唱
+top3 entities near to cluster6>>
+ご飯, ごはん, 御飯

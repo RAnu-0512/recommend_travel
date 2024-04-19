@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅 ゆめランド布野--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 家族
+top3 entities near to cluster2>>
+惣菜屋, 総菜屋, 惣菜, 総菜
+top3 entities near to cluster3>>
+国道, 県境
+top3 entities near to cluster5>>
+産直, 直売, 農産物

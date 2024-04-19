@@ -1,0 +1,49 @@
+--------------------similar_words:小室山観光リフト--------------------
+top3 entities near to cluster0>>
+山, 海, 雲
+top3 entities near to cluster2>>
+梅, 鶯, 桜
+top3 entities near to cluster5>>
+天気, 天候, 晴天
+top3 entities near to cluster6>>
+駅車, 駅, 徒歩
+top3 entities near to cluster8>>
+子供, 室内, 人間
+top3 entities near to cluster9>>
+フォト, デッキ, ボード
+top3 entities near to cluster10>>
+売店, 店員, 土産物
+top3 entities near to cluster11>>
+散歩, 食事, 散策
+top3 entities near to cluster13>>
+ひと時, 気持ち, ひととき
+top3 entities near to cluster14>>
+バス停, 乗り場, 遊歩道
+top3 entities near to cluster15>>
+アトラクション, ホテル, イベント
+top3 entities near to cluster16>>
+カフェ, テラス, 飲み物
+top3 entities near to cluster27>>
+展望台, 展望, 山頂
+top3 entities near to cluster28>>
+展望, 眺望, 見晴らし
+top3 entities near to cluster29>>
+時間, 時間帯, 滞在
+top3 entities near to cluster30>>
+片道, 往復, 乗り継ぎ
+top3 entities near to cluster32>>
+往復, 片道, 発着
+top3 entities near to cluster33>>
+バス, 路線
+top3 entities near to cluster34>>
+周遊, 宿泊, 名所
+top3 entities near to cluster35>>
+リフト, 駐車, 乗り場
+top3 entities near to cluster36>>
+山頂, 景色, 頂上
+top3 entities near to cluster37>>
+恐竜, 公園, 広場
+top3 entities near to cluster38>>
+公園, 遊具, 遊歩道
+top3 entities near to cluster39>>
+つつじ祭, 祭り, つつじ

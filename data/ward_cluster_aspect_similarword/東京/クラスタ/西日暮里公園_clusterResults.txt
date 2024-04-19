@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西日暮里公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+知名度, 場所, 西日暮里公園, タバコ, 散策, 案内看板, 公園, 西側, 緑, 場, 気持ち, 近く, 喫煙者, 交番, 憩い, 坂, 上, 散策スポット, 眼下, 付近, 割, 歩道橋, 西日暮里, 高台, 目, 階段
+cluster1:(2)
+JR西日暮里駅, JR
+cluster2:(4)
+日暮里駅, 駅, 西日暮里駅, 徒歩
+cluster3:(3)
+諏方神社, 荒川区, 前田家
+
+howmany entities : 35
+howmany clusters : 4
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 4
+deleted 0entities.

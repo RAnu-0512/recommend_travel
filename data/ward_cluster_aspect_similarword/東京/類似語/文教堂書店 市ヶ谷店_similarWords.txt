@@ -1,0 +1,17 @@
+--------------------similar_words:文教堂書店 市ヶ谷店--------------------
+top3 entities near to cluster0>>
+店員, 本屋
+top3 entities near to cluster2>>
+カフェ, 文房具, フロア
+top3 entities near to cluster3>>
+割, くらい, ぐらい
+top3 entities near to cluster4>>
+時代, 隣
+top3 entities near to cluster5>>
+甲高い声, 叫び声, 甲高い
+top3 entities near to cluster6>>
+配置, 配す, 配し
+top3 entities near to cluster7>>
+愛想, 無愛想, 人当たり
+top3 entities near to cluster8>>
+書店, 本屋, 店員

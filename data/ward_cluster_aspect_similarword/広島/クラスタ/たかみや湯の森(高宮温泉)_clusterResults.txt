@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たかみや湯の森(高宮温泉)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+露天桧炭酸風呂, 露天岩酒風呂 ロックサウナイオン
+cluster1:(6)
+脱衣所, 冷水風呂, 酒風呂, 炭酸風呂, ミネラル風呂, 風呂
+cluster2:(7)
+記載, トイレ, 中, 種類, 水, 名前, 質
+cluster3:(5)
+酒, 男女, お湯, 大人, 食事
+cluster4:(2)
+掃除時間, 清掃員
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三島カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+GW, 前半, FW
+cluster1:(3)
+インター, アコーディア, 露天風呂
+cluster2:(2)
+富士山, 駿河湾
+cluster3:(1)
+人
+cluster4:(1)
+値段
+cluster5:(1)
+天気
+cluster6:(3)
+露天, 温泉, ゴルフ場
+cluster7:(1)
+株主優待券
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 6entities.

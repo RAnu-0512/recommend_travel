@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:入船山のツバキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ツバキ, 椿
+cluster1:(1)
+花
+cluster2:(1)
+施設
+cluster3:(1)
+乙女椿伝説
+cluster4:(1)
+入船山
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

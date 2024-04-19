@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Zepp DiverCity Tokyo>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+設備, 施設, 地下, 都心, 階段
+cluster1:(19)
+コンビニ, コンサート, イベント, ソニー, ワンマンライブ, ライブ, フードコート, ロッカー, キャパ, 入り口, スタンプ, 買い物, イメージ, ダイバーシティ, ライブハウス, ライブイベント, アーティスト, アニメ, チケット
+cluster2:(2)
+開場, 行列
+cluster3:(2)
+配信, PRイベント
+cluster4:(2)
+外, 箱
+cluster5:(2)
+終了, 時間
+cluster6:(4)
+手, 中, 方, もの
+cluster7:(1)
+記憶
+cluster8:(1)
+注意
+cluster9:(1)
+ドリンク代
+cluster10:(4)
+休憩時間, 席, 再入場, 自由席
+cluster11:(2)
+アニメ作品紹介無料イベント, 最後尾
+
+howmany entities : 45
+howmany clusters : 12
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 12
+deleted 0entities.

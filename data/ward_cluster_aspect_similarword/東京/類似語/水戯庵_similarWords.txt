@@ -1,0 +1,13 @@
+--------------------similar_words:水戯庵--------------------
+top3 entities near to cluster0>>
+文化, 舞踊, 歴史
+top3 entities near to cluster1>>
+夕食, 料理, 食事
+top3 entities near to cluster3>>
+食器, カトラリー, 茶碗
+top3 entities near to cluster4>>
+記念, 日, 月
+top3 entities near to cluster5>>
+懐石, 会席, 伝統
+top3 entities near to cluster6>>
+次元, 異, 空間

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋吉台エコ・ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+秋吉台, 芝生, そば
+cluster1:(3)
+施設前面, 施設, パークゴルフ場
+cluster2:(1)
+カルスト台地
+cluster3:(1)
+食事処
+cluster4:(1)
+大正洞
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

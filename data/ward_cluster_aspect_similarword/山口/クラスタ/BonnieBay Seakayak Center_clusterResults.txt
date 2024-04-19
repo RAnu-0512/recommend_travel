@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:BonnieBay Seakayak Center>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+予想, シーカヤック, 中学生, コース, 方, 時間, 体験, 無人島, 男子, 海, 思い出, 操縦, 陸, ガイド, 半日コース
+cluster1:(2)
+海上散歩, 漕ぎ方
+cluster2:(1)
+非日常体験
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

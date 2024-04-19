@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:星降る展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+野呂山, 瀬戸内海
+cluster1:(1)
+明かり
+cluster2:(1)
+バイクツーリング
+cluster3:(1)
+道
+cluster4:(1)
+オートキャンプ場
+cluster5:(1)
+眼下
+cluster6:(1)
+島々
+cluster7:(1)
+夜道
+cluster8:(1)
+展望台
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旭焼陶磁器窯跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高森公園, 森下文化センター
+cluster1:(9)
+人気, 案内板, ドイツ, 明治, 輸出品, 陶磁器, 地, 時代, 陶磁器製造
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

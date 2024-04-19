@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:atelier cafe M>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+丸, 四角
+cluster1:(2)
+瓶, 大瓶
+cluster2:(27)
+イヤリング作り, 友達, 体験, オイル, 内装, こと, 価値, 空間, 事, 道, 指導, サービス, 先生, 世代, 今回, 彼女, フラワー, もの, リボン, 友人, 写真, 作り, 方, ハーバリウム, 世間話, 時間, 場所
+cluster3:(1)
+ハーバリウム作り
+cluster4:(1)
+細~い道
+
+howmany entities : 33
+howmany clusters : 5
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昭和の森ゴルフコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+昭和, 足らず, アクセス, 外, 酒, 自動車, コース, 楽しみ, 近く, バンカー, 都心, アフター
+cluster1:(3)
+林間コース, ゴルフ場, 森ゴルフコース
+cluster2:(2)
+住宅地, 送迎バス
+cluster3:(1)
+JR昭島駅
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

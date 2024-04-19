@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮脇遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+平地, 右側
+cluster1:(1)
+上流
+cluster2:(1)
+神社
+cluster3:(1)
+石器
+cluster4:(1)
+丘陵端
+cluster5:(1)
+神谷川
+cluster6:(1)
+品治
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

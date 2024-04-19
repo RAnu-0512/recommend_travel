@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浄閑寺(投込寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地震, 安政
+cluster1:(5)
+弁財天, 七福神コース, 歴史, 寺, こと
+cluster2:(2)
+浅草七福神, 三ノ輪駅
+cluster3:(1)
+遊女たち
+cluster4:(4)
+荒川区, 吉原弁財天観音, 吉原神社, 吉原
+cluster5:(1)
+吉原遊郭遊女のゆかりの地
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 6
+deleted 0entities.

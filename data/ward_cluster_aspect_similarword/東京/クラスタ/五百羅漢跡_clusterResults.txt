@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五百羅漢跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, もの
+cluster1:(5)
+オススメ, 人, 交差点, 羅漢寺, 待ち合わせ
+cluster2:(1)
+価値
+cluster3:(1)
+チョ
+cluster4:(4)
+石碑, 跡地, 名所, 広場
+cluster5:(4)
+目黒, 駅, 西大島駅, 羅漢
+cluster6:(2)
+JR目黒駅, 江東区
+cluster7:(3)
+木造羅漢像, 天恩山五百阿羅漢寺, 羅漢像
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 8
+deleted 0entities.

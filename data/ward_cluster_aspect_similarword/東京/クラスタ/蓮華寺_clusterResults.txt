@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮華寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中野駅北口バスロータリー, 中野区立哲学堂公園
+cluster1:(3)
+徳川家康, 織田信長, 明智光秀
+cluster2:(2)
+横断歩道, 歩道
+cluster3:(4)
+京王バス, 中野, 練馬駅, 東京メトロ
+cluster4:(5)
+場所, JR, 駅, アクセス方法, バス
+cluster5:(12)
+バス停, 人, 交差点, 天皇, 正親町, たたずまい, 歴史, 桜, 浄土真宗東本願寺, 蓮華寺, 東洋大学, 雰囲気
+cluster6:(2)
+寺, 寺向かい
+cluster7:(3)
+塀, 敷地, 外
+cluster8:(3)
+散歩, 墓, 寺院
+cluster9:(3)
+創立者, 哲学堂, 大谷派
+cluster10:(1)
+井上円了
+
+howmany entities : 40
+howmany clusters : 11
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 11
+deleted 0entities.

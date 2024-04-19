@@ -1,0 +1,43 @@
+--------------------similar_words:平山郁夫美術館--------------------
+top3 entities near to cluster0>>
+景色, 風景, 絶景
+top3 entities near to cluster1>>
+施設, 宿泊, 建物
+top3 entities near to cluster2>>
+生誕, 誕生, 祝う
+top3 entities near to cluster3>>
+生涯, 一生, 人生
+top3 entities near to cluster4>>
+生家, 故郷, 夫妻
+top3 entities near to cluster5>>
+世, 文, 咨明
+top3 entities near to cluster6>>
+入り, 写し, 活躍
+top3 entities near to cluster8>>
+子供, 学生, 子ども
+top3 entities near to cluster10>>
+時間数, 時間, 日数
+top3 entities near to cluster11>>
+喜び, 気分, 葛藤
+top3 entities near to cluster12>>
+趣, 印象, 関心
+top3 entities near to cluster13>>
+感性, 生命, 技術
+top3 entities near to cluster14>>
+展示室, 展示, 展覧
+top3 entities near to cluster15>>
+仏教, 密教, 禅宗
+top3 entities near to cluster16>>
+襖絵, 襖, 陶板
+top3 entities near to cluster17>>
+芸術, 鑑賞, 作品
+top3 entities near to cluster18>>
+画家, 絵画
+top3 entities near to cluster19>>
+画伯, 作品
+top3 entities near to cluster20>>
+絵画, 画家, 版画
+top3 entities near to cluster21>>
+画展, 個展
+top3 entities near to cluster23>>
+海道, 莫高

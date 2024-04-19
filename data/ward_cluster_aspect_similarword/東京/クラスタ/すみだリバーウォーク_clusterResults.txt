@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:すみだリバーウォーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+隅田リバー, 東武スカイ
+cluster1:(12)
+公園, 散歩, こと, スカイツリー, ツリーライン, 隅田川, 浅草, ウォーク, リバーウォーク, 景色, 自転車, 歩道橋
+cluster2:(2)
+子供達, 歩道専用
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

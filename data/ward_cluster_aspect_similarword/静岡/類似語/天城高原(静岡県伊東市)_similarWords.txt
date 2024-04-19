@@ -1,0 +1,15 @@
+--------------------similar_words:天城高原(静岡県伊東市)--------------------
+top3 entities near to cluster0>>
+高原, 旺臨, 赤城
+top3 entities near to cluster1>>
+空気, 高低差, 高低
+top3 entities near to cluster3>>
+駐車場, 施設, 駐車
+top3 entities near to cluster5>>
+景色, 雲海, 標高
+top3 entities near to cluster6>>
+高原, 坂, 鹿
+top3 entities near to cluster7>>
+バス車, 運転, バス
+top3 entities near to cluster9>>
+山道, 登山, 山

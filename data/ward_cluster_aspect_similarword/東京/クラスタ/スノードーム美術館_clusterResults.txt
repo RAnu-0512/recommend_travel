@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スノードーム美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+校舎, 学校
+cluster1:(2)
+販売, 展示
+cluster2:(5)
+中, 部屋, 場所, もの, スノードーム
+cluster3:(3)
+土産品, 世田谷ものづくり大学, モノづくり学校
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

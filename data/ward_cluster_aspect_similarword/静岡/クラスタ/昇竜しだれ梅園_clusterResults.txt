@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昇竜しだれ梅園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+梅園, 桜, 花見
+cluster1:(4)
+梅, 枝垂れ梅, 垂れ梅, しだれ梅
+cluster2:(10)
+時期, 家族, こと, 個人, ところ, メール, 感じ, トイレ, トンネル, 規模
+cluster3:(2)
+香り, 道
+cluster4:(1)
+開花状況
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 3entities.

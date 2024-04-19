@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猿田淵遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+小滝, 紅葉, 猿田淵, 淵, 斜面, バス停, 落差, コース, いくつか, 遊歩道, 距離, 釜滝, 吊り橋, 先, 場所, 上流, 滝, 色, 道, 河津川
+cluster1:(4)
+河津七滝巡り, 河津ループ峡, 河津七滝, 七滝巡り
+cluster2:(4)
+初景滝, q七滝, 河津七滝の釜滝, 滝々段々橋
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 0entities.

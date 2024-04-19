@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おれっぷ大久保グラススキー場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+グラススキー場, 大久保グラススキー場
+cluster1:(2)
+せと, 反対側
+cluster2:(2)
+売店, 軽食
+cluster3:(2)
+塩, 坂
+cluster4:(11)
+コロッケ, スタッフ, ゲレンデ, 感じ, 子供, バーベキュー, グラススキー, ランニングバイク, 施設, ファミリー, 塩加減
+cluster5:(3)
+奥, 足, 道
+cluster6:(1)
+リフト券
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 9entities.

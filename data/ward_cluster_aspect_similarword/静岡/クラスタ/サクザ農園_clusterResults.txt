@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サクザ農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+サクザ農園, 練乳, たいちご農園, イチゴ, 苺, 思う存分いちご, いちご作り, いちご, ちご, いちご狩り, イチゴ狩り, 久能
+cluster1:(3)
+大きさ, ヘタ入れパック, 育て方
+cluster2:(13)
+気, ほか, こと, 方, 対応, 沢山, 時間, 中, 話, 説明, 場所, ☆サービス, 他
+cluster3:(6)
+土産, 笑顔, 家族, 遠方, 人, 子供
+cluster4:(2)
+ハウス, ビニールハウス
+cluster5:(2)
+口コミ, クチコミ
+cluster6:(3)
+イベント, メッセージ, タイミング
+cluster7:(2)
+スタッフ, サービス
+cluster8:(2)
+トイレ, ミルク
+cluster9:(1)
+海沿い
+cluster10:(1)
+箱入り
+cluster11:(1)
+子連れ
+cluster12:(1)
+手拭き
+cluster13:(2)
+外, 室内
+cluster14:(7)
+茶, 口コミ通りハウス, 苗, コロナ対策, 用紙, 繊維, ハエ
+cluster15:(8)
+駐車場, 人数分, 和式, 受付, 予約, ネット予約, 貸切ハウス, 洋式
+cluster16:(1)
+感染症対策
+
+howmany entities : 67
+howmany clusters : 17
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 7
+deleted 15entities.

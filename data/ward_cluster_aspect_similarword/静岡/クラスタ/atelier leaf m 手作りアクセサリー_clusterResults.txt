@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:atelier leaf m 手作りアクセサリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+指輪, 指輪作り, 指輪作り中, 結婚指輪
+cluster1:(36)
+やり方, 店員, アトリエ, スタッフ, 笑顔, 一期一会, 奥さん, 熱海, 恋人, 初心者, 手作りリング, カップル, アクセサリー, ゴールド, リング, バンクル, 思い出, アクリル板, 手作りアクセサリー, ピンキーリング, 友人, タイミング, 手直し, 私達, ペアリング, 景色, 基調, 海, 白, アドバイス, デザイン, 先生, オーナー, シルバー, 室内, ピンクゴールド
+cluster2:(3)
+最後, 最初, 説明
+cluster3:(6)
+こと, 模様, もの, 場所, 方, 思い
+cluster4:(1)
+満足
+cluster5:(8)
+人数, 工程, 仕事, 予約, 体験, 作業, 指導, 金額
+cluster6:(1)
+仕上がり感
+cluster7:(1)
+世間話
+cluster8:(2)
+半年記念日, 難易度
+
+howmany entities : 62
+howmany clusters : 9
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 5
+deleted 5entities.

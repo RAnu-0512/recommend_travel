@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:エイペックススポーツ(ホテルニューアカオ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+教え方, 方
+cluster1:(5)
+温泉, 波, 海, 青, 洞窟
+cluster2:(12)
+スタッフ, アカオ, ホテル, アクティビティ, 携帯, sup, 時間, sup体験, 動画, ホテルニューアカオ, ボード, ニューアカオ
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 2entities.

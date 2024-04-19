@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾高城跡梅園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ウォーク, 説明
+cluster1:(1)
+価値
+cluster2:(1)
+梅
+cluster3:(1)
+現地説明会
+cluster4:(1)
+尾高城跡
+cluster5:(1)
+国史跡指定記念シンポジウム
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

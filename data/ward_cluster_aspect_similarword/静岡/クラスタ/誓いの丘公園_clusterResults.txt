@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:誓いの丘公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+車, 足柄峠, 駐車場, 静岡, 場所, 鐘, モニュメント, 富士山, 視界, 広さ, 誓い, 丘, 方, 富士
+cluster1:(3)
+砂利敷, 足柄峠城址公園, JR御殿場線
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

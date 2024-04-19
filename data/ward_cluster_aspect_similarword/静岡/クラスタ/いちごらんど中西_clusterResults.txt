@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちごらんど中西>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+甘熟いちご, 甘熟
+cluster1:(9)
+気, 美味しさ, こと, あり色, 貸し切り状態, すずなり, 状態, 感じ, 影響
+cluster2:(5)
+送迎, 対応, 受付, 予約, 電話
+cluster3:(2)
+雑, 実
+cluster4:(2)
+手袋, ナビ
+cluster5:(3)
+イチゴ, いちご, ミルク
+cluster6:(5)
+スタッフ, 入り口, ブロック, 子ども, コンクリート
+cluster7:(2)
+テキパキ, 気持ち
+cluster8:(1)
+お迎え
+cluster9:(1)
+ハウス
+cluster10:(1)
+車椅子
+cluster11:(1)
+醍醐味
+cluster12:(1)
+赤
+cluster13:(3)
+入口, 口, 列
+cluster14:(16)
+予定, 時期, 家族, 女性スタッフ, 娘, 物, 手, 人, 何組, 時間, 私達, 話, 夫婦, 場所, 他, 方
+cluster15:(2)
+いちご狩り, イチゴ狩り
+cluster16:(7)
+ハリ, 練乳, 苺, 甘み, イチゴ園, ちご, 味
+cluster17:(8)
+雨, 坂道, 伊豆熱川駅, 電車, 砂利, 駅, 雨風, 坂
+cluster18:(1)
+駐車場
+cluster19:(1)
+繁忙期
+
+howmany entities : 73
+howmany clusters : 20
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 8
+deleted 17entities.

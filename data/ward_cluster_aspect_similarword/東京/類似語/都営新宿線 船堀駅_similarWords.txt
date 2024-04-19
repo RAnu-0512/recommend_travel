@@ -1,0 +1,15 @@
+--------------------similar_words:都営新宿線 船堀駅--------------------
+top3 entities near to cluster0>>
+船堀, 都営, 一之江
+top3 entities near to cluster2>>
+駅舎, 高架, 跨線橋
+top3 entities near to cluster3>>
+急行, 電車, 列車
+top3 entities near to cluster4>>
+駅, 町, 駅前
+top3 entities near to cluster5>>
+味噌, 醤油, ラーメン
+top3 entities near to cluster6>>
+地上区間, 地上, 全線
+top3 entities near to cluster7>>
+私鉄線, 私鉄, 沿線

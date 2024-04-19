@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中尾洞>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西北部, 西北端
+cluster1:(2)
+中尾洞, 中尾
+cluster2:(5)
+景色, 石筍, 秋吉台, 鍾乳石, 鍾乳洞
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

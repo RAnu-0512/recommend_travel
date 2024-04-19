@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高杉晋作立志像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高杉晋作立志像, 高杉晋作, 高杉晋作誕生地
+cluster1:(4)
+立志像, 討幕運動, 晋作広場, 程近い公園
+cluster2:(18)
+姿, 横, 大きさ, 幕末, エリア, 公園, 思い出, 高さ, 像, 功績, 記念写真, 人生, 役割, 風雲, 銅像, 写真, 誕生地, 推進者
+cluster3:(3)
+萩について城下町, 折角 萩城下町, 萩
+cluster4:(2)
+菊屋横町, 萩・菊屋横町
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 5
+deleted 0entities.

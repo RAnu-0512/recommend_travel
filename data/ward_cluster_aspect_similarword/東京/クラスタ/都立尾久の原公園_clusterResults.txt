@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立尾久の原公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+ポスター, 場所, ポカポカ, 自然, 中心, 荒川線, みどり, 人, 方法, 隅田川, 姿, 名称, ランチ, 前, テレビ, じまい, ピクニック, 目
+cluster1:(3)
+はら, 木, 野原
+cluster2:(15)
+陽気, 池, 公園, じゃぶじゃぶ池, 公園北側, 水鳥達, 憩い, 花見, 散歩, 都立, 広場, 荒川区, 花見客, 桜, 舎人ライナー
+cluster3:(1)
+尾久の原公園
+
+howmany entities : 37
+howmany clusters : 4
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 4
+deleted 0entities.

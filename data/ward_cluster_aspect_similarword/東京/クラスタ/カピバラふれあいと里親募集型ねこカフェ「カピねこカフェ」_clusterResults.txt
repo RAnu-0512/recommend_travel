@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カピバラふれあいと里親募集型ねこカフェ「カピねこカフェ」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+スタッフ, カフェ, かぴばら, 吉祥寺, 人, きくらげ, カピパラ, 他, 気, 膝, 客, ポイント, カピバラ, 人間, 時間, 方, 子, 部屋, 男性, 地元
+cluster1:(2)
+ネコたち, ネコ達
+cluster2:(2)
+猫達, 猫たち
+cluster3:(7)
+猫, 人懐こい猫, 猫ちゃん, 猫まみれ, 猫カフェ, 子猫, ネコ
+cluster4:(1)
+基本保護猫
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 5
+deleted 0entities.

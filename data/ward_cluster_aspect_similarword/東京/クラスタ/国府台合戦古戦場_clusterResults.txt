@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国府台合戦古戦場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+公園, 国府台合戦古戦場, 北条, 国府台城, 合戦, 戦国時代, あいだ, 里見, 一帯
+cluster1:(3)
+下総国, 千葉県, 房総諸将
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クレイスペースみなみ野陶房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+電動ろくろ, ろくろ, 電動ろくろ体験
+cluster1:(5)
+自宅時間, 声掛け, 完成品, 前段階, 時間
+cluster2:(8)
+作品, 宝物, 力, 指導, 機会, 先生, 基礎, 要望
+cluster3:(5)
+気, 感じ, 方, こと, もの
+cluster4:(2)
+想像, 想定
+cluster5:(5)
+解消, 準備, 世話, 作業, 参加
+cluster6:(1)
+教え方
+cluster7:(4)
+皿, 茶碗, 焼き上がり, 器
+cluster8:(3)
+子供, 子供達, 子どもたち
+cluster9:(2)
+粘土, 土
+cluster10:(3)
+趣味, 靴, 旅行
+cluster11:(7)
+旦那, 娘, 昔, 帰り, 近所, 友達, 息子
+cluster12:(13)
+出来上がり, 小学生, 初心者, ネックレス, 帰り道, ストレス, ところ, おかげ, イメージ, 度, 付き添い, タイミング, 唯一
+cluster13:(6)
+陶芸, 初体験, 陶芸体験, 体験, ロクロ体験, 手びねり体験
+
+howmany entities : 67
+howmany clusters : 14
+howmany entities (more than1entities) : 67
+howmany clusters (more than1entities) : 14
+deleted 0entities.

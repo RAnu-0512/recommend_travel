@@ -1,0 +1,9 @@
+--------------------similar_words:観光遊漁船--------------------
+top3 entities near to cluster0>>
+海, 家族, 海辺
+top3 entities near to cluster1>>
+体験, 体験談, 体感
+top3 entities near to cluster2>>
+遊漁船, 漁業, 名所
+top3 entities near to cluster3>>
+船旅

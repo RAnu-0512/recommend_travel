@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牛原山町民の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+車, つもり, アジサイ, 人, 場所, 時間, 紫陽花
+cluster1:(2)
+世界, 規模
+cluster2:(2)
+自然, 森
+cluster3:(1)
+松崎
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

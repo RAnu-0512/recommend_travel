@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仲哀天皇殯葬所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+九州, 北部
+cluster1:(1)
+足
+cluster2:(1)
+天皇
+cluster3:(2)
+仲哀天皇殯葬所, 熊襲征伐
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 4
+deleted 0entities.

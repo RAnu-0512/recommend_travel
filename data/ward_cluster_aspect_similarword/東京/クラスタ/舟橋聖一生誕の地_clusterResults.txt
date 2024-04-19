@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:舟橋聖一生誕の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+舟橋, 地, 入口, 人物, 小説家, 委員, 小説, 碑, 名前, 作者, 相撲, 入り口, 対面, 生誕, 西南, 日本, 方, 生涯, 目, 描写, 横
+cluster1:(2)
+国技館, 安田庭園
+cluster2:(2)
+舟橋聖一生誕, 横綱審議委員会
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 3
+deleted 0entities.

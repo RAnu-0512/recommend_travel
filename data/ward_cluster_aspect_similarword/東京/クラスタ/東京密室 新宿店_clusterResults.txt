@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京密室 新宿店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+秋葉原, ところ, クオリティ, ギミック, ヒント
+cluster1:(2)
+他, 最後
+cluster2:(1)
+謎
+cluster3:(1)
+クオリティ高
+cluster4:(1)
+脱出ゲーム
+cluster5:(1)
+世界観
+cluster6:(1)
+没入感
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

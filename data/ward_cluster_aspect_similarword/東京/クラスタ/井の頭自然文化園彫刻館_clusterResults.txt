@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井の頭自然文化園彫刻館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+作品, 屋外展示, 彫刻館, 建物, 屋外, 人, 彫刻園, 予想, 目的, 奥, 真正面, 見ごたえ, A館, 彫刻, 長崎, 撮影, 像, 大きさ, 動物園, 中, 北村西望
+cluster1:(3)
+平和祈念像, 井の頭自然文化園彫刻館, 平和記念像
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

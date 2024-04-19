@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海老山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+眺望, 子供, 時期, 季節, 桜, 花, 気候, 話, 瀬戸内海, 人たち, 地元, 登山, 人, 頂上, 海, 散歩, 空気, 景色, 五日市, 花見, 場所, 次回, 冬
+cluster1:(6)
+五日市駅, 海老山公園, 徒歩, 駅, 公園, 遊具
+cluster2:(1)
+展望台
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 3
+deleted 0entities.

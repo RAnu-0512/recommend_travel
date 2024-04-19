@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北原白秋の歌碑(東京都江戸川区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+北原白秋ゆかり, 北原白秋, 白秋, 白秋記念館
+cluster1:(2)
+神奈川県, 三浦市
+cluster2:(5)
+歌, 北小岩, 地, 全国, 大正
+cluster3:(1)
+黒柳徹子
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

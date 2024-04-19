@@ -1,0 +1,9 @@
+--------------------similar_words:竜王山--------------------
+top3 entities near to cluster1>>
+登山, 山登り, トレッキング
+top3 entities near to cluster2>>
+登山道, 登山, 山道
+top3 entities near to cluster3>>
+景色, 公園, 遊歩道
+top3 entities near to cluster4>>
+縦走路, 三山, 縦走

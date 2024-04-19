@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米山薬師(静岡県下田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+米山薬師堂, 米山薬師
+cluster1:(10)
+行基, 茶がら, 眼疾, 眼病, 利益, 薬師如来像, 山芋, 本尊, もの, 駅
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

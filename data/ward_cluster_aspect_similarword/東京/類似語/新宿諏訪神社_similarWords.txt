@@ -1,0 +1,9 @@
+--------------------similar_words:新宿諏訪神社--------------------
+top3 entities near to cluster0>>
+社殿, 本殿, 神社
+top3 entities near to cluster1>>
+駅, 凱旋, 階段
+top3 entities near to cluster2>>
+住宅街, 住宅, 商店街, 商店
+top3 entities near to cluster3>>
+衡, 頼朝, 泰

@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あうるぱーく フクロウカフェ池袋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+制限時間, 時間無制限, 時間制限
+cluster1:(4)
+フクロウたち, 子供達, フクロウ達, 子たち
+cluster2:(15)
+場, 方, お話, 種類, 感じ, 期待, 予約, 笑グッズ, 他, 方法, 時間, 中, 多く, 想像, もの
+cluster3:(2)
+扱い方, 人懐こさ
+cluster4:(2)
+蛇, 白ヘビ
+cluster5:(4)
+腕, 肩, ハリ, フン
+cluster6:(4)
+思い出, 雰囲気, ファン, 初心者
+cluster7:(8)
+スタッフ, アニマルカフェ, お気に入り, ハリネズミ, フレンドリー, フワフワ, おかげ, 触れ合い
+cluster8:(4)
+ふくろう, カワセミ, フクロウ, イグアナ
+cluster9:(1)
+こども
+cluster10:(1)
+餌付き
+cluster11:(6)
+カフェ, ふくろう・ハリネズミ, ふくろうちゃん, ハリネズミちゃん, フクロウカフェ, ハッピーちゃん
+cluster12:(3)
+店, 店内, 店員
+cluster13:(3)
+猫カフェ, 動物, ふれあい系
+cluster14:(5)
+娘, 子, 家族, 人, 子供
+cluster15:(2)
+写真, 部屋
+cluster16:(1)
+フライング体型
+cluster17:(2)
+癒されまくり, 下さり写真
+cluster18:(5)
+エサやり, エサ付き, エサ, 餌体験, 餌
+cluster19:(3)
+フライト体験, フライ体験, 体験
+cluster20:(2)
+フクロウ触り, フクロウ使い
+cluster21:(2)
+手, 手乗り
+cluster22:(1)
+手乗せ体験
+
+howmany entities : 83
+howmany clusters : 23
+howmany entities (more than1entities) : 83
+howmany clusters (more than1entities) : 23
+deleted 0entities.

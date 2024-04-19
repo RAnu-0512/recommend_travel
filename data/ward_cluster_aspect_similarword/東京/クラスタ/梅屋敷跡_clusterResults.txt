@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅屋敷跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸時代, 浅草通り
+cluster1:(6)
+浮世絵, 梅, 名所, 歩道, 木, 梅屋敷
+cluster2:(2)
+梅屋敷跡, 標柱
+cluster3:(1)
+広重
+cluster4:(1)
+案内板
+cluster5:(1)
+香梅園
+cluster6:(1)
+北十間川
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

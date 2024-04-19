@@ -1,0 +1,19 @@
+--------------------similar_words:大森 海苔のふるさと館--------------------
+top3 entities near to cluster0>>
+展望室, 展望, 休憩室, 休憩
+top3 entities near to cluster1>>
+社会科, 研究科, 社会, 研究
+top3 entities near to cluster2>>
+展示, 出展, 展覧
+top3 entities near to cluster3>>
+館, 資料, 史料
+top3 entities near to cluster4>>
+公園, 浜辺, 森
+top3 entities near to cluster5>>
+砂浜, 浜辺, 海岸
+top3 entities near to cluster6>>
+遊ぶ, あそび
+top3 entities near to cluster7>>
+時代, 子供, 歴史
+top3 entities near to cluster8>>
+海苔, 佃煮, ピーパック

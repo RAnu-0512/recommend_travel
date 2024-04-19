@@ -1,0 +1,9 @@
+--------------------similar_words:鳩の巣バンガロー--------------------
+top3 entities near to cluster0>>
+上流, 下流, 中流
+top3 entities near to cluster1>>
+蚊, ハエ
+top3 entities near to cluster2>>
+都心, 町, 台風
+top3 entities near to cluster4>>
+床張り, 床, 床や

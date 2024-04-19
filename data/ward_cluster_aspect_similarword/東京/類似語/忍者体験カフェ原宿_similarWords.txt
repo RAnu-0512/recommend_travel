@@ -1,0 +1,31 @@
+--------------------similar_words:忍者体験カフェ原宿--------------------
+top3 entities near to cluster0>>
+忍者, 忍術, 忍法
+top3 entities near to cluster1>>
+散策, 散歩, ぶらつく
+top3 entities near to cluster2>>
+手裏剣, 忍術, 剣術
+top3 entities near to cluster4>>
+体験, 体験談, 体感
+top3 entities near to cluster5>>
+子供, 子ども, 息子
+top3 entities near to cluster7>>
+姿, 衣装, 写真
+top3 entities near to cluster8>>
+予約, 対応, 受付
+top3 entities near to cluster10>>
+気分, 満足, 喜び
+top3 entities near to cluster11>>
+楽しい, 難い, 嬉しい
+top3 entities near to cluster13>>
+飲み物, イベント, カフェ
+top3 entities near to cluster14>>
+車両
+top3 entities near to cluster15>>
+帰っ
+top3 entities near to cluster16>>
+お客, 外客, 乗客
+top3 entities near to cluster17>>
+子供, 子ども, 大人
+top3 entities near to cluster18>>
+息子, 母親, 父親

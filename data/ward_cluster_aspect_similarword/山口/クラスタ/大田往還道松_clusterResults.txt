@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大田往還道松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+古木, 大木, 松
+cluster1:(5)
+クロマツ, 明治, 斜め, 道, 歴史
+cluster2:(1)
+樹齢
+cluster3:(1)
+美祢市
+cluster4:(1)
+目通り幹囲
+cluster5:(1)
+大田往還道松
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

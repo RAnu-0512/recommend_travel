@@ -1,0 +1,10 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善逝寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+和智, 寺院
+
+howmany entities : 2
+howmany clusters : 1
+howmany entities (more than1entities) : 2
+howmany clusters (more than1entities) : 1
+deleted 0entities.

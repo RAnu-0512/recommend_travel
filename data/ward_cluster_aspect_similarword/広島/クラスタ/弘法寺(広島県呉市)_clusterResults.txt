@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弘法寺(広島県呉市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+境内, 岩屋, 寺, 滝, 弘法大師空海, 霊山, 岩
+cluster1:(3)
+お花, 花, 山桜
+cluster2:(3)
+空気, 緑, 自然
+cluster3:(2)
+眼下, 景色
+cluster4:(3)
+下界, 山頂, 山
+cluster5:(1)
+閑静
+cluster6:(23)
+トイレ, 歴史, パワースポット, 中, 参りルート, スポット, 修行, 話, 弘法大師, 地元, 地, 野呂山, 人, 事, 雰囲気, 弘法大師ゆかり, 時間, 地域, 修業, 場所, 見ごたえ, 伝説, 内容
+cluster7:(4)
+弘法寺, 呉市, 展望台, 瀬戸内海国立公園
+cluster8:(2)
+───O, 八十八か所
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関市園芸センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温室, 園芸センター
+cluster1:(6)
+花, サボテン, こと, 弁当, 植物, 薔薇
+cluster2:(2)
+美しさ, つばき
+cluster3:(1)
+下関市
+cluster4:(1)
+四季折々
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

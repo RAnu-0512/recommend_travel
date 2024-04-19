@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蟠龍寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+弁財天, 場所, ひとつ, 本堂, 妙円寺, 寺, 木造, 下目黒, 突き当たり, 時間, 住宅街, 徒歩, 回り道, 直線距離, 道, 境内
+cluster1:(2)
+覚林寺, 瑞聖寺
+cluster2:(2)
+山手通り, 山手七福神
+cluster3:(2)
+目黒駅, JR目黒駅
+cluster4:(2)
+目黒不動, 目黒通り
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

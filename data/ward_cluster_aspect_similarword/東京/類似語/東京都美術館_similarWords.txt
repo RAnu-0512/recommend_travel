@@ -1,0 +1,97 @@
+--------------------similar_words:東京都美術館--------------------
+top3 entities near to cluster0>>
+浮世絵, グッズ, 写真
+top3 entities near to cluster1>>
+スペース, フロア, トレイ
+top3 entities near to cluster2>>
+スタバ, カフェ, ランチ
+top3 entities near to cluster3>>
+コロナ, ワールド, ミラクル
+top3 entities near to cluster4>>
+コンビニ, ショップ, コンビニエンスストア
+top3 entities near to cluster5>>
+オブジェ, シンボル, 入り口
+top3 entities near to cluster6>>
+エスカレーター, エスカレータ, エレベーター
+top3 entities near to cluster8>>
+レストラン, ハヤシライス, ファッション
+top3 entities near to cluster9>>
+ミュージアムショップ, パンフレット, フィン・ユール
+top3 entities near to cluster10>>
+フェルメール, ヨハネス・フェルメール, レンブラント
+top3 entities near to cluster11>>
+イベント, エネルギー, 催し物
+top3 entities near to cluster14>>
+おすすめ, 見どころ, サイト
+top3 entities near to cluster15>>
+ファン, 芸能人, 目当て
+top3 entities near to cluster16>>
+雰囲気, 見応え, 見ごたえ
+top3 entities near to cluster17>>
+画家, 美術家, 絵画
+top3 entities near to cluster18>>
+モネ, 印象派展, 印象派
+top3 entities near to cluster20>>
+鑑賞, 観賞
+top3 entities near to cluster21>>
+美術館, 博物館, 所蔵
+top3 entities near to cluster22>>
+美術館, 公立, 都
+top3 entities near to cluster23>>
+絵画, 作品, アート
+top3 entities near to cluster24>>
+入場, 来場, 入館
+top3 entities near to cluster25>>
+説得力, 説得, 期待
+top3 entities near to cluster26>>
+機会, 興味, 関心
+top3 entities near to cluster27>>
+予定, 方法, 内容
+top3 entities near to cluster29>>
+印象, 影響, 感覚
+top3 entities near to cluster30>>
+満載, 盛り沢山, 盛りだくさん
+top3 entities near to cluster31>>
+飽く, 比類, 際限
+top3 entities near to cluster32>>
+バス, 交通, ＪＲ
+top3 entities near to cluster34>>
+公園, 駅, 散歩
+top3 entities near to cluster36>>
+建物, 外観, 立地
+top3 entities near to cluster37>>
+昼間, 都会, 夕方
+top3 entities near to cluster38>>
+国立, 美術館, 都立
+top3 entities near to cluster39>>
+美術品, 美術, 品等
+top3 entities near to cluster40>>
+西洋, 絵画, 美術
+top3 entities near to cluster41>>
+美術, 絵画, 芸術
+top3 entities near to cluster42>>
+美術, 現代, 近代
+top3 entities near to cluster43>>
+美術系, 音楽系, 美術, 音楽
+top3 entities near to cluster44>>
+現代, 近, 美術
+top3 entities near to cluster46>>
+系譜展, 系譜, 作品展, 作品
+top3 entities near to cluster47>>
+美術館, 芸術
+top3 entities near to cluster48>>
+美術館, 展覧
+top3 entities near to cluster49>>
+絵画展, 絵画, 展覧
+top3 entities near to cluster50>>
+展覧, 展示
+top3 entities near to cluster51>>
+展示, 常設, 出展
+top3 entities near to cluster52>>
+展覧会, 展示会, 展覧, 展示
+top3 entities near to cluster53>>
+展示室, 企画室, 展示, 企画
+top3 entities near to cluster54>>
+展示, 入場, 受付
+top3 entities near to cluster55>>
+時間, 予約, 開館

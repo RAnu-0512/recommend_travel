@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島の珈琲 家庭焙煎教室と生豆・焙煎豆販売のお店「caffe fresco Nagi」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+知識, コツ
+cluster1:(2)
+自宅, 主人
+cluster2:(3)
+世界, ネルドリップコーヒー, コーヒー
+cluster3:(1)
+体験
+cluster4:(1)
+コーヒー舌
+cluster5:(1)
+奥深さ
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

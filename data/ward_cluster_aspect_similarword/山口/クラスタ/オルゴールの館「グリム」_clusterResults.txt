@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オルゴールの館「グリム」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+北側, 建物
+cluster1:(6)
+レトロ, 種類, オルゴール, テーマ, メインストリート, おすすめオルゴール
+cluster2:(1)
+音色
+cluster3:(1)
+柳井駅
+cluster4:(1)
+麗都路通り
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

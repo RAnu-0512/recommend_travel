@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線入谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+入谷, 入谷鬼子母神, 入谷駅, 下町 入谷
+cluster1:(2)
+下町らしさ, 下町風情
+cluster2:(25)
+上野, 上下線, 場所, 山手線, 鬼子母神, 隣, 入口, JR, 路地裏, 上下線別々, 出入口, 近く, 浅草, 街, 駅, 電車, 必要, 周り, 日比谷線, 周辺, 雰囲気, 東京メトロ, 対面式ホーム, 方向, 町
+
+howmany entities : 31
+howmany clusters : 3
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 3
+deleted 0entities.

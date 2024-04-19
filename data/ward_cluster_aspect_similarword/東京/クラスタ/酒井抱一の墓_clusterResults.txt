@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:酒井抱一の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+酒井抱一の墓, 江戸時代後期, 尾形光琳, 琳派, 江戸琳派, 酒井抱一
+cluster1:(34)
+説明板, 技法, 石碑, 東京都, 場所, 右手, 新大橋, 人, 作風, 築地駅, 北西側, 画風, 形状, 碑, 南東沿い, 墓, 俳諧, 築地3丁目, 指定旧跡, 見ごたえ, 狂歌, 折, 本願寺, 築地本願寺, 正門, 左隣り, 粋, 中, こと, 絵師, 中央区, 姫路藩, 境内, 諸派
+
+howmany entities : 40
+howmany clusters : 2
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 2
+deleted 0entities.

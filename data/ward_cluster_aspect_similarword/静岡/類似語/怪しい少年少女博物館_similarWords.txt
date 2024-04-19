@@ -1,0 +1,9 @@
+--------------------similar_words:怪しい少年少女博物館--------------------
+top3 entities near to cluster1>>
+女性, 玩具, 男性
+top3 entities near to cluster2>>
+館内, 展示, 外観
+top3 entities near to cluster3>>
+博物館, ジオラマ, オブジェ
+top3 entities near to cluster6>>
+人形, 駅前, 少女

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:境港観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観光パンフレット, 観光, 観光協会, 観光案内所
+cluster1:(3)
+妖怪たち, 妖怪, 妖怪マンガ
+cluster2:(3)
+言語, 機関, 窓口
+cluster3:(12)
+パンフレット, みどり, 様子, 中, スポット, スタッフ, レンタサイクル, マップ, 目当て, 情報, 街, 場所
+cluster4:(5)
+看板, 壁画, 地図, 入口, 案内
+cluster5:(5)
+駅舎, 駅, JR, 構内, 交通アクセス
+cluster6:(2)
+散策マップ, 前広場
+cluster7:(7)
+JR西日本・境線, 境港駅, 水木しげるロード, 水木しげる, 境港市観光協会, 大家・水木しげる, 境港市
+
+howmany entities : 41
+howmany clusters : 8
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 8
+deleted 0entities.

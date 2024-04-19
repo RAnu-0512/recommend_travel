@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多磨霊園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜は多磨霊園, 多磨霊園
+cluster1:(12)
+季節, 人, 各所, 桜, 家族, トイレ, 園内, トンネル, 多く, 目, ソメイヨシノ, 墓参り
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

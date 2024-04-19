@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡市玉川キャンプセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+川, 雨, キャンプ場, バーベキュー, 景観, 川遊び, 施設, 対応, 会社, まわり, 屋根, キャンプ, 夏, 仲間
+cluster1:(2)
+玉川キャンプセンター, 静岡市
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

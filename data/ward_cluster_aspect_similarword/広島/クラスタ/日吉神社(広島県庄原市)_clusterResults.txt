@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日吉神社(広島県庄原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島県, 庄原市, 山内隆道
+cluster1:(2)
+祭り, 行事
+cluster2:(2)
+寺, 神社
+cluster3:(6)
+お参り, 文化財, 馬, 雰囲気, 国, 北
+cluster4:(1)
+山王
+cluster5:(1)
+日吉神社
+cluster6:(1)
+はやがけ馬
+cluster7:(1)
+赤糸威鎧兜・大紬付
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

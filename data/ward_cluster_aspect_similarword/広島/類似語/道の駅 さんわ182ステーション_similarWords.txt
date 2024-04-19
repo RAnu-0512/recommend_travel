@@ -1,0 +1,13 @@
+--------------------similar_words:道の駅 さんわ182ステーション--------------------
+top3 entities near to cluster0>>
+食材, 野菜, 食べ物
+top3 entities near to cluster1>>
+駅道, 国道, 駅
+top3 entities near to cluster3>>
+店内, 店員
+top3 entities near to cluster4>>
+美味しい, 旬, おいしい
+top3 entities near to cluster5>>
+直売, 駐車場, 駐車
+top3 entities near to cluster6>>
+特産品, 名産品, 特産, 名産

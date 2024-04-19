@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桶ケ谷沼ビジターセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ドジョウ, メダカ
+cluster1:(1)
+動植物
+cluster2:(1)
+魚
+cluster3:(1)
+水槽
+cluster4:(1)
+菜の花畑
+cluster5:(1)
+水性生物
+cluster6:(1)
+入館料
+cluster7:(1)
+桶ケ谷沼
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

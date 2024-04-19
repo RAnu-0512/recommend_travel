@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上蒜山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+関門, 坂
+cluster1:(16)
+時期, 山, 誰か, 下蒜山, 中, ドライブ, 気, オススメ, 虫, 中蒜山, 紅葉, 秋, 上蒜山, 自然, 休憩, 最後
+cluster2:(10)
+登山, 下蒜山か中蒜山, 縦走, 鎖場, 下山, 登山口, 山頂, 山々, 景色, 眺望
+cluster3:(5)
+蒜山・中蒜山, 岡山県, 蒜山, 蒜山スキー場, 蒜山三山
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 4
+deleted 0entities.

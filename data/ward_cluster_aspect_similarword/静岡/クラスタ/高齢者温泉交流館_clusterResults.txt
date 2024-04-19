@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高齢者温泉交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅地, 高齢者
+cluster1:(5)
+人, スポット, 一般, 人々, 地元
+cluster2:(2)
+施設, 利用
+cluster3:(1)
+時間帯
+cluster4:(1)
+憩い場
+cluster5:(1)
+韮山温泉
+cluster6:(1)
+高齢者温泉交流館
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 8entities.

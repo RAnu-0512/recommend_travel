@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一石橋迷子しらせ石標>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+当時迷子, 迷子しらせ, 迷子探し, 迷子
+cluster1:(2)
+案内板, 告知板
+cluster2:(5)
+石碑, 入口, 石柱, 窪み, 脇
+cluster3:(16)
+場所, 特徴, 日本橋, 人, 古く, 紙, 界隈, 町内, 人々, 盛り場, 情報, 子, こと, 地図, スポット, 責任
+cluster4:(8)
+一石橋, ネット時代, 東京駅, 橋, 日本橋川, 江戸時代, 観光スポット, 八重洲口
+cluster5:(1)
+石標
+cluster6:(2)
+都指定文化財, 繁華街
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

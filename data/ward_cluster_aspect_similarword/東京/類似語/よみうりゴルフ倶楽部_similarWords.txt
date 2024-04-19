@@ -1,0 +1,13 @@
+--------------------similar_words:よみうりゴルフ倶楽部--------------------
+top3 entities near to cluster0>>
+ゴルフ, 倶楽部, カントリークラブ
+top3 entities near to cluster1>>
+ゴルフ, コンペ, パター
+top3 entities near to cluster2>>
+ゴルフ場, ゴルフ, 場裏
+top3 entities near to cluster3>>
+接待, ゴルフ, 会食
+top3 entities near to cluster4>>
+格式, 都内, 雰囲気
+top3 entities near to cluster5>>
+高級感, 高級, 会員

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クリエイションギャラリーG8>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+入館料, 入場無料, 入場料
+cluster1:(9)
+銀座ナイン, 銀座8丁目リクルート, 新橋駅, 新橋, リクルートGINZA8, 光るグラフィック展2, 銀座, クリエイションギャラリーG8, 中央区
+cluster2:(19)
+グラフィックアート, 作品, 創業, ロビー, リクルート, 場所, 角, 建物, 足跡, デザイナー, 関係, リクルートビル, 谷口, アートギャラリー, ビル, 日本, ギャラリー, 表紙, もの
+cluster3:(4)
+展示場, 出版物, 展示会, 展示
+cluster4:(1)
+グラフィックデザイナー亀倉雄策
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 5
+deleted 0entities.

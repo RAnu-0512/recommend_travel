@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:県民の浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+砂浜, 浜辺, 海, 浜
+cluster1:(4)
+釣り, 釜飯, 桜, 鯛
+cluster2:(2)
+温泉, 風呂
+cluster3:(2)
+館, 館内
+cluster4:(2)
+景色, 絵
+cluster5:(7)
+施設, 海水浴, 人, 食事, レストラン, コテージ, 場所
+cluster6:(1)
+木
+cluster7:(1)
+県民
+cluster8:(3)
+輝き館内, 入り輝き, 道沿い
+cluster9:(1)
+かぶと煮
+
+howmany entities : 27
+howmany clusters : 10
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 10
+deleted 0entities.

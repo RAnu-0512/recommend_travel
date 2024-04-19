@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉川野毛町公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+野毛大塚古墳, 玉川野毛町公園
+cluster1:(13)
+公園, テニスコート, プール, 等々力駅, 古墳, 上野毛駅, 野球場, 帆立貝式古墳, 世田谷区, スポーツ公園, 場所, 住宅街, 野毛
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

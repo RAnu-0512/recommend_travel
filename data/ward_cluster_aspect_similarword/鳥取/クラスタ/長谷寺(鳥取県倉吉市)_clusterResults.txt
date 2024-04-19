@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長谷寺(鳥取県倉吉市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+十一面観音, 江戸時代の大絵馬, 奉納絵馬, 絵馬の寺, 絵馬
+cluster1:(25)
+江戸時代, 倉吉市, 打吹公園, 中, 縁起, 中腹辺り, 名刹, 収蔵庫, 室町, 勅願, 打吹山麓, 長谷寺開山, 右側, 本堂, 法道, 鳥取, 駐車場, 寺, 本尊, 上人, 途中, 元明天皇, カーブ, 打吹山, 納経所
+
+howmany entities : 30
+howmany clusters : 2
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 2
+deleted 0entities.

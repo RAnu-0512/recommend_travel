@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐伯歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地域, 地元
+cluster1:(1)
+こと
+cluster2:(1)
+歴史
+cluster3:(1)
+藩
+cluster4:(1)
+江戸時代
+cluster5:(1)
+佐伯歴史民俗資料館
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

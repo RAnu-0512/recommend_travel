@@ -1,0 +1,51 @@
+--------------------similar_words:角島大橋--------------------
+top3 entities near to cluster0>>
+海, 海岸, 海沿い
+top3 entities near to cluster1>>
+灯台, 樫野崎, 沢崎鼻
+top3 entities near to cluster7>>
+天気, お天気, 快晴
+top3 entities near to cluster10>>
+テレビ, ドラマ, バイク
+top3 entities near to cluster11>>
+ロケーション, スタッフ, レンタカー
+top3 entities near to cluster14>>
+思い出, 想い出, 思い出深い
+top3 entities near to cluster15>>
+バター, コロナ, マーガリン
+top3 entities near to cluster17>>
+マッチ, マスト, スリル
+top3 entities near to cluster18>>
+ドライブ, リゾート, 海沿い
+top3 entities near to cluster19>>
+ブルー, グリーン, エメラルド
+top3 entities near to cluster21>>
+駐車場, 駐車, 停め
+top3 entities near to cluster22>>
+道路橋, 道路, 国道
+top3 entities near to cluster23>>
+名所, バス, ロケ
+top3 entities near to cluster25>>
+反対, 向こう, 双方
+top3 entities near to cluster26>>
+本土, 全土, 本島
+top3 entities near to cluster28>>
+国内, 世界, 有数
+top3 entities near to cluster30>>
+海鮮, 丼, 定食
+top3 entities near to cluster31>>
+写真, 撮影, 撮っ
+top3 entities near to cluster32>>
+時間帯, 時間
+top3 entities near to cluster33>>
+ＣＭ, コマーシャル, テレビ
+top3 entities near to cluster34>>
+旅, 土産, おみやげ
+top3 entities near to cluster35>>
+見学, 団体, ツアー
+top3 entities near to cluster36>>
+連休, 休日, ＧＷ
+top3 entities near to cluster37>>
+運転, 駐車
+top3 entities near to cluster38>>
+景色, 絶景, 曇り空

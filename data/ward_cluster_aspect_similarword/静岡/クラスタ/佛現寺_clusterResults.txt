@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佛現寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+伊東市役所, 伊東, 伊東祐, 伊東七福神, 伊東温泉
+cluster1:(25)
+市役所, 御朱印, 土産, 日蓮宗, 光, 石段, こと, 寺宝, 毘沙門天, 思い出, 海光山, 天狗伝説, 階段, 聖人, 高台, 天狗詫び状羊羹, 寺院, 本山, 詫び状, 天狗, 住職, 名刹, 駐車, 宿泊, 寺
+cluster2:(5)
+日蓮大, 厄除けの祖師, 伊豆法難, 日蓮聖人ゆかり, 日蓮
+cluster3:(3)
+霊跡寺院, 仏現寺, 佛現寺
+
+howmany entities : 38
+howmany clusters : 4
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 4
+deleted 0entities.

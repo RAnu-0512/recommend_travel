@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弓ヶ浜温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ビーチ, 海水浴, レジャー, オススメ, ツーリング
+cluster1:(3)
+南伊豆, 弓ヶ浜, 西伊豆
+cluster2:(3)
+水, 秋, 周辺
+cluster3:(7)
+こと, 料金, 意外, 景色, 観光, 魅力, 拠点
+cluster4:(8)
+魚, 海水浴場, 釣り, 伊勢, 海老, 波, 海, 磯
+cluster5:(10)
+加茂温泉, 温泉, 民宿, 下賀茂温泉, 宿, 旅館, 休暇村南伊豆, 引き湯, 湯, 弓ケ浜温泉
+cluster6:(1)
+水軍海賊盛り
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 6
+deleted 1entities.

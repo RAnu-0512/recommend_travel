@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菊屋横町>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+なまこ壁, 白壁, 土塀, まこ壁, まこ塀, 壁
+cluster1:(2)
+城下町らしさ, 強さ
+cluster2:(2)
+城下町風情, 風情
+cluster3:(2)
+散策, 町並み散策
+cluster4:(2)
+南北, 幕末
+cluster5:(7)
+街並み, スポット, タイム, 雰囲気, 城下町, 建設省, デザイン
+cluster6:(3)
+久保田, 日本, 伊勢屋
+cluster7:(7)
+中, 横, 多く, 家, 時代, 写真, 人
+cluster8:(1)
+蔵
+cluster9:(1)
+気分
+cluster10:(1)
+残りタイム
+cluster11:(5)
+住宅, 街, 店, 場所, 地域
+cluster12:(2)
+道, 門
+cluster13:(3)
+保存状態, 地域力, 誕生地
+cluster14:(22)
+多少格上, 横町, 日本の道100選, 町筋, 実行委員会, 菊屋横町, 菊屋, 木戸孝允, 江戸屋, 江戸屋横町, 萩城下町, 武家屋敷, 高杉晋作, 江戸時代の町, 横町筋, 菊屋家, 菊屋横町か松蔭神社, 菊屋家住宅, 萩, 江戸時代の城下町, 田中義一, 道の日
+
+howmany entities : 66
+howmany clusters : 15
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 15
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牧之原サービスエリア(上り)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+長期運転, 高速道路
+cluster1:(2)
+茶畑バージョン, 茶畑
+cluster2:(2)
+休憩, トイレ休憩
+cluster3:(2)
+SA, 上り
+cluster4:(9)
+ところ, フードコート, 東名高速道路, 自販機, サービスエリア, コンビニ, サービス, 茶どころ, エリア
+cluster5:(2)
+茶, 畑
+cluster6:(1)
+大手コンビニ
+cluster7:(3)
+静岡感, 満載, 活気
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 11entities.

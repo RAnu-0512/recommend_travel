@@ -1,0 +1,25 @@
+--------------------similar_words:大圓寺(東京都目黒区)--------------------
+top3 entities near to cluster1>>
+開帳, 本尊, 見逸れる
+top3 entities near to cluster2>>
+大火, 火事, 火災
+top3 entities near to cluster3>>
+跡碑, 裏手, 跡
+top3 entities near to cluster5>>
+町先, 丁目先, 町, 丁目
+top3 entities near to cluster6>>
+誕生, 日, 月
+top3 entities near to cluster7>>
+石仏群, 石仏, 磨崖仏
+top3 entities near to cluster8>>
+仏教, 仏像, 釈迦
+top3 entities near to cluster9>>
+本堂, 山門, 境内
+top3 entities near to cluster10>>
+寺院, 寺, お寺
+top3 entities near to cluster11>>
+金箔, 銀箔, 金ぱく
+top3 entities near to cluster12>>
+明王院, 明王, 戒蔵院, 戒蔵
+top3 entities near to cluster13>>
+文化財, 木造

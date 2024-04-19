@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+静岡県, 沼津ゴルフクラブ, 沼津インター, 沼津市
+cluster1:(8)
+整備, グリーン, スタッフ, 愛鷹山, ゴルフ場, 食事, コース, 名門コース
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

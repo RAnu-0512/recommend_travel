@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:府中の森公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+噴水, 芝生, 公園, 都市公園, 水遊び場, 芸術劇場, 広場, 遊具, 芝生広場, 森公園
+cluster1:(3)
+東府中駅, 駅, 徒歩
+cluster2:(2)
+場所, 中
+cluster3:(8)
+子ども, 子供, お気に入り, ウォーキング, 自衛隊, 美術館, ベンチ, 京王線
+cluster4:(1)
+テニスコート
+cluster5:(4)
+右手, 緑, 木陰, 左側
+cluster6:(5)
+距離, 弁当, 売店, 施設, 敷地
+cluster7:(1)
+家族連れ
+cluster8:(1)
+府中か東府中
+cluster9:(1)
+京王本線府中駅
+
+howmany entities : 36
+howmany clusters : 10
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 10
+deleted 0entities.

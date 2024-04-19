@@ -1,0 +1,9 @@
+--------------------similar_words:東京メトロ副都心線 東新宿駅--------------------
+top3 entities near to cluster0>>
+仕方, しかた, 交差点
+top3 entities near to cluster1>>
+路線, 駅, 鉄道
+top3 entities near to cluster2>>
+地下, ・・デパ, 地階
+top3 entities near to cluster3>>
+明治, 大正, 幕末

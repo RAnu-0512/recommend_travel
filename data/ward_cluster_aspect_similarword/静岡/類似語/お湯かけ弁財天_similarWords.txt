@@ -1,0 +1,19 @@
+--------------------similar_words:お湯かけ弁財天--------------------
+top3 entities near to cluster0>>
+駐車場, 案内, 駐車
+top3 entities near to cluster1>>
+お湯, 湯気, 温泉
+top3 entities near to cluster2>>
+カゴ, ザル
+top3 entities near to cluster6>>
+金源, 金, 運
+top3 entities near to cluster7>>
+駅, 海岸, 海
+top3 entities near to cluster11>>
+参拝, 散策, お参り
+top3 entities near to cluster12>>
+湯, 銭, 弁天
+top3 entities near to cluster15>>
+卵生, 卵, 玉子
+top3 entities near to cluster16>>
+温泉, 湯, 旅館

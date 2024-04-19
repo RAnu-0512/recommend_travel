@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北海道新宿アイランドタワー店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+居酒屋チェーン店, タワー店
+cluster1:(2)
+新宿アイランド, 西新宿駅
+cluster2:(5)
+北海道, タワー, ランチタイム, 値段, 最上階
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

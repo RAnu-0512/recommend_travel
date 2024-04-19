@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大賀茂川ボードウォーク〈はまぼうロード〉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡県, 下田市
+cluster1:(2)
+散策, 散策路
+cluster2:(12)
+車, 緑, 付近, ハマボウ, 周囲, 大賀茂川, 河口, 花, ボードウォーク, 歩道, ウォーキング, 魅力
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 4entities.

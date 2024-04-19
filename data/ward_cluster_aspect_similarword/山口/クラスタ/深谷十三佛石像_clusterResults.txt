@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深谷十三佛石像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+十三佛石像, 深谷十三佛石像
+cluster1:(5)
+信仰, 石像, 仏像, 仏名, 逆修
+cluster2:(3)
+徳地深谷, 山口市, 防府駅
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

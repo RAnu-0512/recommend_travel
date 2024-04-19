@@ -1,0 +1,27 @@
+--------------------similar_words:滝野川公園--------------------
+top3 entities near to cluster1>>
+都会, 緑, 田舎
+top3 entities near to cluster2>>
+地元, 近辺
+top3 entities near to cluster3>>
+遊び場, 水遊び, 子連れ
+top3 entities near to cluster4>>
+遊歩道, コース, ハイキング
+top3 entities near to cluster5>>
+気持ち, ススメ, オブジェ
+top3 entities near to cluster6>>
+子供, 子ども, 大人
+top3 entities near to cluster7>>
+木製, 鉄製, 陶製
+top3 entities near to cluster8>>
+バラ, 薔薇, オギン
+top3 entities near to cluster9>>
+公園, 施設, 広場
+top3 entities near to cluster10>>
+中心部, 中心, 主軸
+top3 entities near to cluster12>>
+駅, 駅前, 構内
+top3 entities near to cluster13>>
+都, 区, 区内
+top3 entities near to cluster14>>
+公園, 遊歩道, 自然

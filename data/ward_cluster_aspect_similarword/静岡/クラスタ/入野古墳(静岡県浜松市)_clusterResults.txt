@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:入野古墳(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, マンション駐車場側
+cluster1:(2)
+浜松市, 浜松西
+cluster2:(2)
+入野古墳, 古墳
+cluster3:(9)
+裏側, イオン, 裏手, 周辺, 自然, アクトシティ, 風景, 山, 木
+cluster4:(5)
+階段, 山道, 頂上, 道, 靴
+cluster5:(1)
+住宅街
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 7entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:熱海市観光協会--------------------
+top3 entities near to cluster1>>
+割引券, 割引, 割引き
+top3 entities near to cluster2>>
+海, 海岸, 海辺
+top3 entities near to cluster3>>
+案内, 利用, 乗換
+top3 entities near to cluster5>>
+駅, 施設, 情報

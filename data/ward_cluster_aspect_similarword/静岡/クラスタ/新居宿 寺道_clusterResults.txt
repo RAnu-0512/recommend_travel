@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新居宿 寺道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新居宿, 新居関所
+cluster1:(13)
+歴史, 山裾, 交差点, 神社, 小路, 説明板, 諏訪神社, 入口, 江戸時代, 西側, 周辺, 寺, 西方
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

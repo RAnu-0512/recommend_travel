@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大富士ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歴史, 風景, 名物
+cluster1:(6)
+雰囲気, コース, ブラインドコース, 富士山, 駿河湾, カート
+cluster2:(2)
+友人, こと
+cluster3:(1)
+指示
+cluster4:(1)
+木々
+cluster5:(1)
+富士市
+cluster6:(1)
+世界文化遺産
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 6entities.

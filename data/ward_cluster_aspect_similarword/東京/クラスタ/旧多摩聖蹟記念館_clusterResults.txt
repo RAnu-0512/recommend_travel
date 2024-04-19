@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧多摩聖蹟記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+馴染み, ヒーロー, 縦横無尽, 人, 人々, 記憶, こと, 雰囲気
+cluster1:(2)
+一定, 外
+cluster2:(7)
+四季, 建物, 公園, 施設, 画像, 外観, 展示
+cluster3:(5)
+特撮ヒーロー, 天皇, 行幸, 幕末, 明治
+cluster4:(1)
+年齢層
+cluster5:(5)
+建築物, 洋風建築, 都立桜ヶ丘公園, 建造物, ロケ地
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

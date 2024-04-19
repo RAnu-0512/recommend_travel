@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:極樂寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+安芸西国霊場, 新四国霊場
+cluster1:(9)
+手法, 広島, 境内, 極楽寺山, 山頂, 極樂寺, 極楽, 大仏, 大仏様
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

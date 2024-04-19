@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木江古い町並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+木江温泉, 木江, 宗方・今治, 天満港, 汐待, 今治方面
+cluster1:(4)
+建築, 建物, 木造, 造船
+cluster2:(13)
+フェリー, 島, フェリー乗り場, 昔, 普通, 目的, 町, 人, 昭和, 大三島, 近く, 待ち時間, 大崎上島
+cluster3:(6)
+街並み, 路地, 町並み, 生活, 映画, 風景
+cluster4:(3)
+香り, 印象, 趣
+cluster5:(4)
+清風館, 時間帯, 観光地, 記念写真
+cluster6:(1)
+保安官
+cluster7:(1)
+呉海上保安部木江分室
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 8
+deleted 0entities.

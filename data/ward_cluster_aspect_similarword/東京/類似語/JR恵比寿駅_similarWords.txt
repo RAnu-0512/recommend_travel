@@ -1,0 +1,29 @@
+--------------------similar_words:JR恵比寿駅--------------------
+top3 entities near to cluster0>>
+帰宅, 到着
+top3 entities near to cluster1>>
+埼京線, アトレ, 東横線
+top3 entities near to cluster2>>
+ビール, ジュース, 生ビール
+top3 entities near to cluster3>>
+買い物, 買物, ショッピング
+top3 entities near to cluster4>>
+ホーム, ライン, プラットホーム
+top3 entities near to cluster5>>
+タスキ, たすき, 襷
+top3 entities near to cluster6>>
+プレス, かきなぐり, イースト
+top3 entities near to cluster7>>
+麺類, 人類, 地球人
+top3 entities near to cluster10>>
+駅, 駅前, ビル
+top3 entities near to cluster11>>
+改札, 電車, 歩道
+top3 entities near to cluster12>>
+駅, 東口, 駅前
+top3 entities near to cluster13>>
+ドア, 扉, ホーム
+top3 entities near to cluster14>>
+広告, 看板, 宣伝
+top3 entities near to cluster15>>
+予防, 貝

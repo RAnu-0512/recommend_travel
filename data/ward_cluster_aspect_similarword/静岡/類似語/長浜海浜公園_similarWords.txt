@@ -1,0 +1,15 @@
+--------------------similar_words:長浜海浜公園--------------------
+top3 entities near to cluster1>>
+子供, 大人, 海沿い
+top3 entities near to cluster3>>
+間付近, 間, 横
+top3 entities near to cluster5>>
+駅道, 駅, 階段
+top3 entities near to cluster6>>
+景色, 公園, 風景
+top3 entities near to cluster7>>
+桜, 花, 宮
+top3 entities near to cluster8>>
+海岸, 海, 海風
+top3 entities near to cluster11>>
+公園, 海浜, 親水

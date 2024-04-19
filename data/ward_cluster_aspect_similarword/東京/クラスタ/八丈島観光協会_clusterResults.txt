@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丈島観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+観光, 所, 山, 島, マップ, スーパー, 人, 東山, 八丈島, 何処, こと, お勧め場所, 位置, 三原山, 伺い, 理由, 地元, ルート, 検索, 観光協会
+cluster1:(3)
+自然豊かな八丈島, 八丈富士, 八丈町
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

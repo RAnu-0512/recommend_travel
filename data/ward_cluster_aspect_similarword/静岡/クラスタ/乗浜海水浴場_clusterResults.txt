@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乗浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乗浜海水浴場, 乗浜
+cluster1:(19)
+水, 南伊豆, 無料シャワー, ホテル, ライフセイバー, 家, 海水浴, 海沿い, ところ, 人, 海水浴シーズン, 近く, 孫, 子供, テント, トイレ, 余り, 場所, シュノーケリング
+cluster2:(3)
+景色, 穴場, 道
+cluster3:(8)
+魚, 島, 三四郎島, 波, 海, 砂浜, 浜辺, 堂
+cluster4:(1)
+家族連れ
+cluster5:(2)
+公衆シャワー, 公衆トイレ
+cluster6:(2)
+駐車場, 海水浴場
+cluster7:(1)
+混み具合
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 8entities.

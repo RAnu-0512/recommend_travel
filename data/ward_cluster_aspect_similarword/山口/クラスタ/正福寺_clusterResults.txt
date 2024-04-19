@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正福寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+一時期奇兵隊, 奇兵隊
+cluster1:(2)
+高杉, 晋作
+cluster2:(23)
+もの, 陣, こと, 幕末, おススメ, 自然, 騎兵隊, おなじみ, 場所, 日本, おすすめ, 雰囲気, 口コミ, 感じ, お参り, 正福寺, 方, 時代, 人, 陣地, 旅, 歴史, 守り
+cluster3:(5)
+仏閣, 境内, 敷地, 寺, 観光ガイド
+cluster4:(4)
+山口県, 由緒正しきお寺, 防府市, じゃらんの神社
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 5
+deleted 0entities.

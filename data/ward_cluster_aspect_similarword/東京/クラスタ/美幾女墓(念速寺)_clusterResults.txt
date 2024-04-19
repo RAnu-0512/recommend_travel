@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美幾女墓(念速寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墓石, 遺体
+cluster1:(2)
+医学, 解剖
+cluster2:(6)
+方, 意思, 死, 前, 日本, 発展
+cluster3:(2)
+透明, 板
+cluster4:(1)
+みき
+cluster5:(1)
+美幾
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

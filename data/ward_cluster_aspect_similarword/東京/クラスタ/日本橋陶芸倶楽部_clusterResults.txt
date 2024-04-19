@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本橋陶芸倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+形, 色
+cluster1:(5)
+作品, アクセス, 先生, 雰囲気, 気さく
+cluster2:(1)
+体験代
+cluster3:(1)
+釉薬
+cluster4:(1)
+新日本橋駅
+cluster5:(1)
+生徒さん達
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

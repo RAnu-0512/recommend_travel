@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青海島鯨墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+階段, 石段, 墓, 石塔
+cluster1:(8)
+お腹, 所, 胎児, 生活, クジラ, 気持ち, 場所, 感謝
+cluster2:(4)
+鯨, くじら資料館, 鯨墓, 捕鯨
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

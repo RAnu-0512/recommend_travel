@@ -1,0 +1,13 @@
+--------------------similar_words:米子市水道局--------------------
+top3 entities near to cluster0>>
+館, 記念, 記念碑
+top3 entities near to cluster1>>
+地下水, 水道, 地下
+top3 entities near to cluster2>>
+見学, 受付, 予約
+top3 entities near to cluster3>>
+建築, 建物, 家屋
+top3 entities near to cluster4>>
+敷地, 施設, 建物
+top3 entities near to cluster5>>
+文化財

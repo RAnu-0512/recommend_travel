@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河津浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+河津浜海水浴場, 河津駅, 河津浜, 河津!, 伊豆河津駅, 河津桜
+cluster1:(3)
+徒歩圏, 徒歩, 沿岸部
+cluster2:(2)
+駐車場, 海水浴場
+cluster3:(2)
+監視所, 監視員
+cluster4:(3)
+家族連れ, シニア夫婦, 海水浴客
+cluster5:(5)
+気, こと, もの, 感じ, 期待
+cluster6:(5)
+所, 温泉, 街, 場所, 方面
+cluster7:(2)
+趣味, AA
+cluster8:(2)
+水, 冬
+cluster9:(7)
+ビーチ, 家, 海水浴, 写真, シーズン, コンビニ, ランク
+cluster10:(8)
+最後, 目, 隣, 昔, 人, 中, 子供, 方
+cluster11:(1)
+安心感
+cluster12:(21)
+砂, 今井浜, 台風, ゴミ, 海岸, 下田, 遠浅, 石英, 海辺, 伊豆, 国道, 流木, 水質, 波, 海, 砂浜, 浜辺, 小石, 温水シャワー, 石, 流木拾い
+
+howmany entities : 67
+howmany clusters : 13
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 8
+deleted 9entities.

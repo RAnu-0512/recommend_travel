@@ -1,0 +1,27 @@
+--------------------similar_words:芝大神宮--------------------
+top3 entities near to cluster0>>
+敷地, 入口, 入り口
+top3 entities near to cluster1>>
+訪問, 購入, 来訪
+top3 entities near to cluster2>>
+準備, 祭り, 万端
+top3 entities near to cluster3>>
+手術, 術後, 治療
+top3 entities near to cluster4>>
+祝福, 賞賛, 称賛
+top3 entities near to cluster7>>
+神社, 境内, 巫女
+top3 entities near to cluster8>>
+階段, 正面, 石段
+top3 entities near to cluster9>>
+鳥居, 如昌
+top3 entities near to cluster10>>
+境内, 参拝, 神社
+top3 entities near to cluster11>>
+時代, 一帯, 発祥
+top3 entities near to cluster12>>
+神社, 祭神, 受大
+top3 entities near to cluster13>>
+駅街, 駅, 駅前
+top3 entities near to cluster15>>
+生姜, ショウガ, 大根

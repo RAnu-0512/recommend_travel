@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大坊古墳(広島県福山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神辺, 中条
+cluster1:(2)
+谷, 平野
+cluster2:(3)
+付近, 入口, 石
+cluster3:(1)
+北縁
+cluster4:(1)
+丘陵東斜面
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

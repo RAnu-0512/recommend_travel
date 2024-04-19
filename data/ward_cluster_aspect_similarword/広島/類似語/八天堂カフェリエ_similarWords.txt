@@ -1,0 +1,23 @@
+--------------------similar_words:八天堂カフェリエ--------------------
+top3 entities near to cluster1>>
+帰り道, オマケ, 買い物
+top3 entities near to cluster2>>
+クリーム, カスタード, ディプロマットクリーム
+top3 entities near to cluster3>>
+スイーツ, パンケーキ, カスタード
+top3 entities near to cluster4>>
+ケーキ, お菓子, チョコレート
+top3 entities near to cluster5>>
+イートイン, イートインスペース, イートインコーナー
+top3 entities near to cluster6>>
+パン生地, フィリング, バターロール
+top3 entities near to cluster8>>
+手作業, 作業, 手動
+top3 entities near to cluster9>>
+パンダ, ハット, ガウン
+top3 entities near to cluster10>>
+子供, 子ども, 母親
+top3 entities near to cluster11>>
+見学, 工場, 体験
+top3 entities near to cluster12>>
+パン, 体験, 食パン

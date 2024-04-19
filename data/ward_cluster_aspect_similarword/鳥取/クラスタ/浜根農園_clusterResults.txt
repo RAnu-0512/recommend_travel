@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜根農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+シャインマスカット, 農園, いちじく, プルーン, ぶどう, イチゴ, 時間, 落花生
+cluster1:(4)
+巨峰, ぶどう狩り, 甘いぶどう, 梨
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

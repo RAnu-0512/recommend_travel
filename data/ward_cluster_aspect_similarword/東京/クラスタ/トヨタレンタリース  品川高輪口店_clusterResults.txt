@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタレンタリース  品川高輪口店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+品川高輪口店, 高輪口店
+cluster1:(5)
+品川プリンス, 品川駅, 高輪, 泉岳寺駅, 徒歩
+cluster2:(9)
+トヨタレンタリース, 坂, トヨタ, レンタカー, 道, ホテル側, 側, 途中左, 左
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

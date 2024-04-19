@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青松寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+都会, 自然, 地, ユニークさ, 小川, 愛宕山, 音, 足元, 方向, 迫力, 江戸城, 四天王, 四方, 御成門駅, 雨降り, 永田町, 足, 中, 荘厳, 一体, 鬼, 周辺, 青松寺, 拡大
+cluster1:(3)
+本堂, 山門, 境内
+cluster2:(2)
+寺院, 寺
+cluster3:(1)
+参拝
+cluster4:(1)
+古寺
+cluster5:(1)
+境内散策
+cluster6:(3)
+四天王像, 大観音, 像
+cluster7:(3)
+まち歩きコース, 外堀り, 小便小僧
+cluster8:(10)
+東京都, 連らなる龍, 愛宕, 千代田区, 港区, 愛宕神社, 愛宕ヒルズ, 室町時代創建, 都立芝公園, 高層ビル
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 9
+deleted 0entities.

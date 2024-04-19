@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しもせりんご村_りんご>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+りんご狩り, リンゴ狩り, のりんご狩り
+cluster1:(2)
+看板犬, 看板
+cluster2:(2)
+リンゴ農園, 品種
+cluster3:(2)
+敷地, 館内
+cluster4:(3)
+場所, 昼, 時間
+cluster5:(20)
+子供, 我が家, ハウス, ホームページ, 土産, パスタ, 愛犬, 自然, 外出, レストラン, ココ, 笑顔, 大人, リンゴ, 方, BBQ, ピザ, リンゴジュース, ログハウス, 祖母
+cluster6:(3)
+山口県, ワンちゃんたち, ワンちゃん
+
+howmany entities : 35
+howmany clusters : 7
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 7
+deleted 0entities.

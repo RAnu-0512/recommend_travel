@@ -1,0 +1,11 @@
+--------------------similar_words:どさんこ旅サロン--------------------
+top3 entities near to cluster0>>
+各地, 全国, あちこち
+top3 entities near to cluster1>>
+情報, 収集, 地図
+top3 entities near to cluster2>>
+駅, 駅前, 構内
+top3 entities near to cluster3>>
+良さ, 憎憎し, もの憂
+top3 entities near to cluster4>>
+交通, 名所, 商工

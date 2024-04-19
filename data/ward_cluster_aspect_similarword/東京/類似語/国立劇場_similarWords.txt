@@ -1,0 +1,47 @@
+--------------------similar_words:国立劇場--------------------
+top3 entities near to cluster0>>
+勧め, 薦め, 奨め
+top3 entities near to cluster1>>
+以下, 半値, 内堀
+top3 entities near to cluster2>>
+あぜ, くら, くろ
+top3 entities near to cluster4>>
+ホール, コンサートホール, 入り口
+top3 entities near to cluster5>>
+バス停, 地下鉄, バスターミナル
+top3 entities near to cluster6>>
+イベント, グッズ, コンサート
+top3 entities near to cluster7>>
+雰囲気, 筋書き, 言い方
+top3 entities near to cluster9>>
+皇居, 皇后, 皇族
+top3 entities near to cluster10>>
+海外, 世界, 国内
+top3 entities near to cluster13>>
+花, 桜
+top3 entities near to cluster14>>
+人達, 人々
+top3 entities near to cluster15>>
+席, 花道, 観覧
+top3 entities near to cluster16>>
+教室, 学校, 距離
+top3 entities near to cluster17>>
+解説, 資料, 概略
+top3 entities near to cluster18>>
+手紙, 言葉, 花束
+top3 entities near to cluster19>>
+土産店, 土産, 値段
+top3 entities near to cluster20>>
+施設, 展示, 館内
+top3 entities near to cluster21>>
+駅, 地下鉄, 徒歩
+top3 entities near to cluster22>>
+バス, 都営, 市営
+top3 entities near to cluster25>>
+劇場, 公演, 舞台
+top3 entities near to cluster26>>
+国立, 劇場, 文楽
+top3 entities near to cluster27>>
+演芸, 演劇, 国立
+top3 entities near to cluster28>>
+舞踊, 演劇, 演目

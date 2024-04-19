@@ -1,0 +1,7 @@
+--------------------similar_words:草戸稲荷神社--------------------
+top3 entities near to cluster0>>
+稲荷, 神社, 扇森
+top3 entities near to cluster1>>
+本殿, 拝殿, 社殿
+top3 entities near to cluster3>>
+立つ, そびえる, 建つ

@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:景清洞>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水量, 水温
+cluster1:(2)
+灯り, 照明
+cluster2:(3)
+暗闇, 暗黒, 闇
+cluster3:(1)
+途中天井
+cluster4:(7)
+地下川, 川, 秋吉, 奥地, 岩, 奥, 浅瀬
+cluster5:(1)
+誘導灯
+cluster6:(13)
+中, 追加, 途中, 支援, 手, 下手, 方, 先, 次回, 想像, 整備, 半分, 延長
+cluster7:(3)
+家族, 年配, 大人
+cluster8:(2)
+料金, 一般コース
+cluster9:(5)
+車, 所, キャンプ場, 気分, 場所
+cluster10:(3)
+膝下, 長靴, 足元
+cluster11:(23)
+コース, バリアフリー, 秋吉台, 小学生, 入り口, コウモリ, 自然, おなかいっぱい, 鍾乳洞, フリー, 気持ち, ゴール, スポット, 雨, こっち, 他県, ヘッドライト, バリア, ヘルメット, かがん, 世界, 水, ライト
+cluster12:(3)
+子供達, レンタル代かぁ, 子供連れ
+cluster13:(3)
+入洞, 秋芳洞, 大正洞
+cluster14:(3)
+冒険感, お得感, レベル感
+cluster15:(6)
+探検, 洞窟探検, 探検コース, 洞窟めぐり, マイナー洞窟, 洞窟
+cluster16:(2)
+観光コース, 観光スポット
+cluster17:(2)
+体験コース, 体験
+cluster18:(2)
+冒険, 冒険コース
+cluster19:(1)
+ザ・鍾乳洞
+cluster20:(1)
+川口探検隊
+cluster21:(1)
+懐中電灯
+cluster22:(1)
+秋芳洞・大正洞・景清洞
+
+howmany entities : 90
+howmany clusters : 23
+howmany entities (more than1entities) : 90
+howmany clusters (more than1entities) : 23
+deleted 0entities.

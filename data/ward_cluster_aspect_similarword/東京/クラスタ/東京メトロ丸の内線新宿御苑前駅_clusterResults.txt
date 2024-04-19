@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸の内線新宿御苑前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+徒歩圏, 先, 不如帰, 金色, 感じ, 近く, ラーメン, 仕事, ホーム, 駅, そば, 桜, 駅名
+cluster1:(6)
+新宿御苑, 新宿三丁目駅, 東京メトロ丸ノ内線, 御苑, 新宿御苑駅, 新宿
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

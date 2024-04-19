@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩川浅間神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展望デッキ, 展望台, 展望広場
+cluster1:(16)
+夜景スポット, 武蔵小杉, シン・ゴジラ, 大恋愛, 高層マンション群, 東急東横線, 夕景, ビル街, 東急多摩川線, 駅, 電車, 多摩川駅, ビル, ロケ地, 少しかすんで富士山, 夜景
+cluster2:(8)
+浅間神社, 石段, 神社, 御祭神, 大祭, 氏神, 古墳, 境内
+cluster3:(2)
+散歩, お宮参り
+cluster4:(2)
+山々, 空気
+cluster5:(4)
+丘, 川, 石, 高台
+cluster6:(2)
+桜色, 桜
+cluster7:(3)
+人気, 上, 周辺
+cluster8:(2)
+川越し, ほとり
+cluster9:(2)
+富士山, 多摩川
+cluster10:(5)
+ドラマ, 見通し, 人, ところ, お守り
+cluster11:(1)
+映画
+cluster12:(1)
+幟
+cluster13:(4)
+社紋, 輪くぐり, 輪, 茅
+cluster14:(1)
+木花咲耶姫命
+
+howmany entities : 56
+howmany clusters : 15
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 15
+deleted 0entities.

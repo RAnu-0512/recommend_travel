@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天方城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遠江, 天方城
+cluster1:(10)
+山城, 国, 地, 跡, 遠く小笠山, 城跡, 内堀, 痕跡, 眺め, 城
+cluster2:(3)
+駐車場, 展望台, 庭園感
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

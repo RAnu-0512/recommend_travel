@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛鷹連峰・越前岳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登山, 登山者
+cluster1:(3)
+出番, 感じ, ほう
+cluster2:(2)
+隙間, 雲
+cluster3:(8)
+愛鷹山, 馬, 越前岳, 山頂, 富士山, 景色, ストック, 道
+cluster4:(1)
+背見晴台
+cluster5:(3)
+平坦地, 黒土, 赤土
+cluster6:(1)
+愛鷹山系
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 6entities.

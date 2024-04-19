@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八雲氷川神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+目黒区, 都立大学駅, 商店街, 住宅街
+cluster1:(3)
+商売繁盛, 盛況ぶり, 参拝客
+cluster2:(34)
+パワースポット, 氷川神社, 東横線, 場所, バス停, 先, ひとつ, 佇まい, 緑, ところ, 感じ, 近く, 紅葉, 思い, 秋祭り, 流行, 都, 駅, 立地, 趣, 印象, 本院, 徒歩, 道路, 方, 歴史, 中, 外, 利益, ジジー, 雰囲気, 地元, 都心, 最寄駅
+cluster3:(3)
+神社, 参道, 境内
+cluster4:(2)
+祭, 祭り
+cluster5:(2)
+山車, 神輿
+cluster6:(1)
+ねり
+cluster7:(4)
+八雲氷川神社, 神楽殿, 江戸時代, 氷川
+cluster8:(1)
+樹齢
+
+howmany entities : 54
+howmany clusters : 9
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 9
+deleted 0entities.

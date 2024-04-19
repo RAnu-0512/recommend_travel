@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口市歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口市, 山口, 大内
+cluster1:(3)
+中心, 近く, 地味
+cluster2:(2)
+基盤, 文化
+cluster3:(1)
+県庁
+cluster4:(1)
+資料館
+cluster5:(1)
+山口=長州=毛利
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

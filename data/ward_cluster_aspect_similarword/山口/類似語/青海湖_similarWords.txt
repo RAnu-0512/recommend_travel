@@ -1,0 +1,7 @@
+--------------------similar_words:青海湖--------------------
+top3 entities near to cluster0>>
+淡水, 湖, 汽水
+top3 entities near to cluster1>>
+湖, 潟, 湖畔
+top3 entities near to cluster2>>
+海, 海水, 海面

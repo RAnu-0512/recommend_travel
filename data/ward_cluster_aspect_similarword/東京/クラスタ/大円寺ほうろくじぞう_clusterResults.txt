@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大円寺ほうろくじぞう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+東京都, 大圓寺, 樋口一葉, 白山神社, 白山駅, 渡辺九兵衛, 円乗寺, 高島秋帆, 文京区
+cluster1:(4)
+地蔵, 焙烙地蔵, ほうろく地蔵, 地蔵様
+cluster2:(2)
+曹洞宗, 大円寺
+cluster3:(2)
+八百屋, 火あぶり
+cluster4:(4)
+人, 手, 病気, 女性
+cluster5:(5)
+正面, 場所, 上, 中, 歴史
+cluster6:(1)
+首
+cluster7:(3)
+放火, 罪, 刑
+cluster8:(9)
+祠, 神社, 山門, 墓, 寺院, 霊験, 江戸時代, 住宅街, 境内
+
+howmany entities : 39
+howmany clusters : 9
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 9
+deleted 0entities.

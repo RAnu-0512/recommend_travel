@@ -1,0 +1,31 @@
+--------------------similar_words:おーゆ・ランド--------------------
+top3 entities near to cluster0>>
+人達, 大勢, 飲み物
+top3 entities near to cluster1>>
+食事, 夕食, 昼食
+top3 entities near to cluster2>>
+石鹸, 靴, 水着
+top3 entities near to cluster3>>
+施設, 設備, 館内
+top3 entities near to cluster4>>
+料金, 値段, 価格
+top3 entities near to cluster5>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster6>>
+温泉, 銭湯, 浴場
+top3 entities near to cluster7>>
+温泉, 日帰り, 露天風呂
+top3 entities near to cluster8>>
+温泉, 施設, 宿泊
+top3 entities near to cluster9>>
+宿泊, 施設, ホテル
+top3 entities near to cluster10>>
+入場料, 入場, 料っ
+top3 entities near to cluster11>>
+入浴, 施設, 宿泊
+top3 entities near to cluster12>>
+入浴, 風呂, 日帰り
+top3 entities near to cluster13>>
+入浴券, 食事券, 入浴, 食事
+top3 entities near to cluster14>>
+駐車場, 利用, 駐車

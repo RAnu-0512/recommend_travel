@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆高原からくり時計博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+時計, 入館料, 仕掛け時計, からくり時計, 毎正時計, 時計博物館
+cluster1:(2)
+個人博物館, 個人宅
+cluster2:(7)
+博物館, 鳩時計, 口コミ, からくり, 物, カレンダー腕時計, ビデオ
+cluster3:(5)
+肝心, 笑, 説明, 方, 思い
+cluster4:(5)
+一部, ほか, 時間, 中, 他
+cluster5:(5)
+名物, 早口, 館長, 耳, 魅力
+cluster6:(1)
+滑舌
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 3entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧山口藩庁門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+山口藩庁門, 長州藩, 山口へ藩庁, 脇門付薬医門, 藩庁
+cluster1:(3)
+毛利敬, 山口御屋, 山口政庁門
+cluster2:(4)
+議事堂・県庁舎, 山口県庁, 県, 県庁
+cluster3:(10)
+ところ, 文化財, 敷地, 瓦葺き, 交差点, 人々, 県会, 時代, 歴史, 親
+cluster4:(2)
+形跡, 興味
+cluster5:(2)
+表門, 門
+cluster6:(2)
+幕末, 大正
+cluster7:(2)
+堀, 萩
+cluster8:(1)
+西洋式
+cluster9:(1)
+切妻造り
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,29 @@
+--------------------similar_words:雲見・石部・岩地・松崎海岸--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster2>>
+宿, 民宿, 旅館
+top3 entities near to cluster5>>
+山道, 道路, 集落
+top3 entities near to cluster6>>
+景色, 絶景, 風景
+top3 entities near to cluster7>>
+刺身, 料理
+top3 entities near to cluster10>>
+海岸, 砂浜, 海
+top3 entities near to cluster13>>
+海水魚, 海水
+top3 entities near to cluster17>>
+岩波, 岩, 荒波
+top3 entities near to cluster20>>
+海沿い, 遊歩道, 断崖絶壁
+top3 entities near to cluster21>>
+ホテル, シャワー, シーン
+top3 entities near to cluster25>>
+雲峰, 山峰, 雲, 山
+top3 entities near to cluster30>>
+温泉, 旅館, 民宿
+top3 entities near to cluster31>>
+浜, 荘, 茶屋
+top3 entities near to cluster36>>
+海岸沿い, 海岸, 砂浜

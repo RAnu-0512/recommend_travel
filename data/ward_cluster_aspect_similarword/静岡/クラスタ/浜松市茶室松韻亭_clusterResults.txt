@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松市茶室松韻亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+庭園, 茶室
+cluster1:(2)
+裏手, 外観
+cluster2:(1)
+リス
+cluster3:(1)
+児童プール
+cluster4:(1)
+反対側
+cluster5:(1)
+浜松城
+cluster6:(1)
+駐車場
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

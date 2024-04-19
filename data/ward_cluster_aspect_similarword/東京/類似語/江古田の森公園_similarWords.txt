@@ -1,0 +1,9 @@
+--------------------similar_words:江古田の森公園--------------------
+top3 entities near to cluster0>>
+樹木, 木々, 植物
+top3 entities near to cluster1>>
+明治, 昔, 都会
+top3 entities near to cluster3>>
+公園, 園内, 森
+top3 entities near to cluster4>>
+療養, 結核, 病気

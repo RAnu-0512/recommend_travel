@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神福寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+寺, 外, 観音, 甲斐, 観音堂, 国指定重要文化財, 国指定, 拝観, 山口市, 格式, 神福寺, 雰囲気, 地蔵堂, 豊栄神社, 稲荷神社
+cluster1:(2)
+周防国三十三観音霊場29番札所, 木造十一面観音立像
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

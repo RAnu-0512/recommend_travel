@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アイタルフーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡県, 下田市
+cluster1:(3)
+アジア, エスニックファッション, バリ島
+cluster2:(2)
+雰囲気, もの
+cluster3:(1)
+レゲエグッズ
+cluster4:(4)
+店, 土産, 店内, 雑貨
+cluster5:(1)
+雑貨屋
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 6entities.

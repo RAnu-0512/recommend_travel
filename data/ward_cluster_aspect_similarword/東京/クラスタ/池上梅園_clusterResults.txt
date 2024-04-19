@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:池上梅園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+品種, 稀少品種
+cluster1:(2)
+場所, 時期
+cluster2:(2)
+遅咲き, 早咲き
+cluster3:(4)
+アップ, ピンク, ひととき, 座論梅
+cluster4:(1)
+国内
+cluster5:(7)
+散策, 花, 梅園, 梅, 園内, 満開, 牡丹
+cluster6:(2)
+けんきょう, 見驚
+cluster7:(1)
+八重揚羽
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 8
+deleted 0entities.

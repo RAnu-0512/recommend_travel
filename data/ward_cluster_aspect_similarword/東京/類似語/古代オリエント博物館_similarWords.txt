@@ -1,0 +1,37 @@
+--------------------similar_words:古代オリエント博物館--------------------
+top3 entities near to cluster0>>
+子ども, 子供, 博物館
+top3 entities near to cluster1>>
+撮影, 写真, 撮っ
+top3 entities near to cluster3>>
+複製, 利用, 使用
+top3 entities near to cluster4>>
+実物, 模型, ジオラマ
+top3 entities near to cluster5>>
+資料, 動画, 映像
+top3 entities near to cluster6>>
+15, 30, 60
+top3 entities near to cluster7>>
+施設, 建物
+top3 entities near to cluster8>>
+代金, 入場料, 入場
+top3 entities near to cluster10>>
+研究者, 研究, 調査
+top3 entities near to cluster11>>
+女神, 神, 罔象
+top3 entities near to cluster12>>
+文化, 文明, 歴史
+top3 entities near to cluster13>>
+土器, 遺跡, 古墳
+top3 entities near to cluster14>>
+紀元, 維庚, 紀元前
+top3 entities near to cluster15>>
+人達, 人々
+top3 entities near to cluster16>>
+遊戯王, 遊戯, ＺＥＸＡＬ
+top3 entities near to cluster17>>
+展示, 展覧
+top3 entities near to cluster18>>
+文化, 会館, 芸術
+top3 entities near to cluster19>>
+古代, エジプトファラオ, 文明

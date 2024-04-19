@@ -1,0 +1,13 @@
+--------------------similar_words:昭和公園(東京都昭島市)--------------------
+top3 entities near to cluster0>>
+野球場, 砂場, 野球
+top3 entities near to cluster1>>
+大正, 平成, 明治
+top3 entities near to cluster2>>
+銀杏, 紅葉, イチョウ
+top3 entities near to cluster3>>
+祭り, 花火, お祭
+top3 entities near to cluster4>>
+公園, 遊具, 散歩
+top3 entities near to cluster6>>
+駅, 中神, 南口

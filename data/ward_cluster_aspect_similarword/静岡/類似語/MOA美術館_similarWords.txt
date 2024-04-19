@@ -1,0 +1,61 @@
+--------------------similar_words:MOA美術館--------------------
+top3 entities near to cluster0>>
+美術館, 絵画, 浮世絵
+top3 entities near to cluster1>>
+雰囲気, 見どころ, 景色
+top3 entities near to cluster3>>
+ホテル, ロビー, チケット
+top3 entities near to cluster4>>
+ランチ, カフェ, ケーキ
+top3 entities near to cluster5>>
+急斜面, 新幹線, 子ども
+top3 entities near to cluster6>>
+桜, 梅, 紅葉
+top3 entities near to cluster7>>
+景色, 天気, 風景
+top3 entities near to cluster8>>
+山, 高地, 海
+top3 entities near to cluster9>>
+階段, 地下, 天井
+top3 entities near to cluster11>>
+発着, 宿泊, 散策
+top3 entities near to cluster14>>
+子供, 子ども, 母親
+top3 entities near to cluster15>>
+施設, 敷地
+top3 entities near to cluster16>>
+写真, 映像, フォト
+top3 entities near to cluster17>>
+作品, 作家, 企画
+top3 entities near to cluster18>>
+現実, 世界, 歴史
+top3 entities near to cluster19>>
+美術, 絵画, 工芸
+top3 entities near to cluster20>>
+展覧, 展示
+top3 entities near to cluster21>>
+展示, 展覧, 出展
+top3 entities near to cluster22>>
+所蔵品, 収蔵品, 収蔵, 所蔵
+top3 entities near to cluster23>>
+梅, 屏風, 紅梅
+top3 entities near to cluster25>>
+異, 次元, 世界
+top3 entities near to cluster26>>
+割引券, 入場券, 割引, 入場
+top3 entities near to cluster28>>
+庭園, 建築, 茶室
+top3 entities near to cluster29>>
+館内, 来館, 入館
+top3 entities near to cluster30>>
+美術館, 博物館, 入口
+top3 entities near to cluster31>>
+絵画, 版画
+top3 entities near to cluster32>>
+円形, 窓, 壁面
+top3 entities near to cluster33>>
+人達, 大勢
+top3 entities near to cluster37>>
+現代, 伝統, 時代
+top3 entities near to cluster38>>
+バス, 駐車, 路線

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:坪井九右衛門旧宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+平安古地区, 地図
+cluster1:(1)
+旧宅
+cluster2:(1)
+説明板
+cluster3:(1)
+観光客
+cluster4:(1)
+世界遺産萩
+cluster5:(1)
+〇〇宅
+cluster6:(1)
+坪井九右衛門
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

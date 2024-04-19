@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧野方配水塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+野方配水塔は哲学同公園, 配水搭, 配水塔, 野方配水塔てっぺん, 野方配水塔
+cluster1:(28)
+新宿区, 東京都, 水道局, フォルム, 荒玉水道, 子ども, 建物, 国, 公園, 中野区, 形, 西洋, 施設, 江古田, 高さ, 付近, 住宅地, 塔, 印象, 住宅街, 看板, デザイン, 大きさ, 給水場, 指定文化財, 災害, 地元, 史跡
+
+howmany entities : 33
+howmany clusters : 2
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 2
+deleted 0entities.

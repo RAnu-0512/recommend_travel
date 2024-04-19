@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長瀬高浜遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天神川流域下水道処理場, 天神川流域下水道終末処理場
+cluster1:(2)
+黒砂層, 白砂層
+cluster2:(6)
+墳丘, 古墳, 墓, 弥生時代, 遺跡, 弥生
+cluster3:(9)
+下, 車, 目, 周辺, 前, コンクリート, スペース, 生活, 場所
+cluster4:(2)
+中世, 南横
+cluster5:(1)
+跡
+cluster6:(1)
+直径
+cluster7:(2)
+北条バイパス, 国道
+cluster8:(1)
+高さ
+cluster9:(1)
+移転復元
+cluster10:(6)
+倉吉市, 長瀬高浜遺跡, 東伯郡, 鳥取県, 長瀬高浜1, 湯梨浜町
+
+howmany entities : 33
+howmany clusters : 11
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 11
+deleted 0entities.

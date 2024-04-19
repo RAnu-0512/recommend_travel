@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光台寺(ワンワン寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白門, 門
+cluster1:(4)
+楼門, 境内, 寺, 山門
+cluster2:(12)
+中国, 手, 辺り, 光台寺, 幼稚園, アーチ, 左側, 国, 下, わんわん, 上, 建物
+cluster3:(1)
+文学碑
+cluster4:(1)
+いぬいとみこ
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

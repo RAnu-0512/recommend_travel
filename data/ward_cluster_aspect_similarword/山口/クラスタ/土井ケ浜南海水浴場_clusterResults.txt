@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土井ケ浜南海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(35)
+子供, シーズン, 昔, こと, 海水浴, 浜, 他県ナンバー, 家, 海水浴客, 遠浅, 砂浜, 設備, ビーチ, 日本, 地元, 潮風, 透明度, 波, 書き, 夕陽, 公衆トイレ, 海岸, 土井, 音, 海水浴場, シャワー, 温水, 角島, 人, 県, キレイさ, 海, 駐車場, 下関, 散歩
+cluster1:(3)
+土井ヶ浜海水浴場, 浜人類学ミュージアム, 浜南海水浴場
+
+howmany entities : 38
+howmany clusters : 2
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 2
+deleted 0entities.

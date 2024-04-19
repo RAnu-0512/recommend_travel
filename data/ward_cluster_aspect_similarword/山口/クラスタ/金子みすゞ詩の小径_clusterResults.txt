@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金子みすゞ詩の小径>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金子みすずさん, 金子みすゞゆかり
+cluster1:(26)
+散策コース, コース, こと, 内容, 付近, 詩碑, 詩, 小径, みすず, 散策, 道, ビル, 場所, 石碑, 出身, 地, ホテル, ゆかり, 時間, 詩集, 所要時間, 歴史, 観光, 周辺, 散歩, 記念碑
+cluster2:(5)
+秋田商会, 下関観光情報センター, 唐戸, 唐戸市場, 長門市
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 3
+deleted 0entities.

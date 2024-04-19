@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅ケ島温泉の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+わき見運転, 停車
+cluster1:(4)
+紅葉, ふるさと公園, 山々, 梅ケ島温泉
+cluster2:(6)
+赤, 目, 道中, 途中, 道, 黄色
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+☆釣り, 釣り, 釣り情報, 釣り客, 釣り目当て, 釣り人
+cluster1:(27)
+南東, 島, 魚つり, あなあのスポット, 海水浴, 景色, 自然, 空気, 空, 船, 自然散策, 場所, 定期船, 夏, パワースポット, 浜市, HP, 魚釣り, 雰囲気, 魚, 水質, 瀬戸内海, 釣り場, 方, 人, 海, キャンプ
+cluster2:(7)
+沖島, 野島本島, 平島, 山口, 防府, 三田尻港, 野島
+
+howmany entities : 40
+howmany clusters : 3
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 3
+deleted 0entities.

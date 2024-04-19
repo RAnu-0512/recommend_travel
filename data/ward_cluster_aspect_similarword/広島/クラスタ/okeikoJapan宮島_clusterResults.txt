@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:okeikoJapan宮島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+着付体験, 茶教室, 抹茶, 抹茶体験
+cluster1:(2)
+宮島, 宮島チョコレート
+cluster2:(3)
+寺, とお寺, 堂
+cluster3:(6)
+もの, 方, 体験, 機会, こと, 様子
+cluster4:(12)
+久しぶり, 海外, iPhone, グループ, 途中, 別, 和菓子, 帰り, 時間, 思い出, 他, お守り
+cluster5:(5)
+店, 建物, 写真, 柄, 着物
+cluster6:(3)
+ツアー客, お守り製作, お守り袋
+
+howmany entities : 35
+howmany clusters : 7
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 7
+deleted 0entities.

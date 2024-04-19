@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ガラス工房 グラス・ズー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+アート, ガラス, ミルフィオリ, コップ, サポート, ランプ, グラスリッツェン, リボン, ライト, お気に入り, ひと時, プレゼント, テキパキ, コース, ステンドグラス, レパートリー
+cluster1:(4)
+指導, 道, 先生, 教室
+cluster2:(3)
+選べるパーツ, 柄, 色
+cluster3:(2)
+場所, 時間
+cluster4:(3)
+思い, 物, もの
+cluster5:(2)
+作品, 絵
+cluster6:(2)
+姉, 友達
+cluster7:(2)
+最後, 別
+cluster8:(1)
+電話
+cluster9:(5)
+宝物, 一生, 茶, 傷, 菓子
+cluster10:(2)
+フットランプ, 電子レンジ
+cluster11:(8)
+作業時間, 又機会, 体験, 機会, 体験時間, 体験代, 教え方, 作業
+
+howmany entities : 50
+howmany clusters : 12
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 12
+deleted 0entities.

@@ -1,0 +1,237 @@
+--------------------similar_words:羽田空港(東京国際空港)--------------------
+top3 entities near to cluster0>>
+離発着, 離着陸, 出入国
+top3 entities near to cluster1>>
+国内線, 旅客機, 飛行機
+top3 entities near to cluster2>>
+飛行機, 航空機, ヒコーキ
+top3 entities near to cluster4>>
+モノレール, 東京タワー, タワー
+top3 entities near to cluster5>>
+シャンパン, アルコール, ワイン
+top3 entities near to cluster6>>
+デートスポット, ドライブデート, デート
+top3 entities near to cluster7>>
+ターミナル, バスターミナル, スーツケース
+top3 entities near to cluster8>>
+シュミレーター, シミュレータ, シュミレータ
+top3 entities near to cluster9>>
+ファストフード, レストラン, テイクアウト
+top3 entities near to cluster10>>
+イルミネーション, クリスマスツリー, ビアガーデン
+top3 entities near to cluster11>>
+バームクーヘン, イートインスペース, イートインコーナー
+top3 entities near to cluster12>>
+クレジットカード, アライバルラウンジ, ダイヤモンドプレミアラウンジ
+top3 entities near to cluster14>>
+スカイツリー, スカイツリータワー, スカイツリースカイツリー
+top3 entities near to cluster15>>
+プライベート, プラベート, プレイベート
+top3 entities near to cluster16>>
+メゾンカイザー, メゾンカイザーカフェ, ゴントランシェリエ
+top3 entities near to cluster18>>
+キッズコーナー, おもちゃ, ベビーカー
+top3 entities near to cluster19>>
+コンビニ, ローソン, コンビニエンスストア
+top3 entities near to cluster20>>
+オープン, 売り切れ, 完売
+top3 entities near to cluster21>>
+乗り継ぎ, 乗り換え, 乗換え
+top3 entities near to cluster22>>
+待ち時間, ストレス, 苦痛
+top3 entities near to cluster23>>
+メール, イタズラメール, メルアド
+top3 entities near to cluster24>>
+コンセプト, デザイン, イベント
+top3 entities near to cluster25>>
+フライト, ドライブ, ツーリング
+top3 entities near to cluster26>>
+プレート, ショット, ナンバー
+top3 entities near to cluster27>>
+タクシー, パーキング, トラック
+top3 entities near to cluster28>>
+カウンター, ラウンジ, クーポン
+top3 entities near to cluster29>>
+サイン, 色紙, 直筆
+top3 entities near to cluster31>>
+ランチ, ラーメン, グルメ
+top3 entities near to cluster32>>
+ビール, ワイン, ジュース
+top3 entities near to cluster33>>
+ロディ, コロナ, ジェリー
+top3 entities near to cluster34>>
+テラス, ソファ, ソファー
+top3 entities near to cluster35>>
+バッグ, カバン, 買い物
+top3 entities near to cluster36>>
+エリア, 街並み, デートスポット
+top3 entities near to cluster37>>
+春休み, バイト, 冬休み
+top3 entities near to cluster38>>
+ホテル, チェックイン, ロビー
+top3 entities near to cluster39>>
+ショップ, ストア, 国内外
+top3 entities near to cluster42>>
+カード, デッキ, スカイ
+top3 entities near to cluster43>>
+バックス, スター, アイス
+top3 entities near to cluster44>>
+リップ, タイムス, 資生堂
+top3 entities near to cluster45>>
+レジャー, ランド, アミューズメント
+top3 entities near to cluster46>>
+タイム, ハード, パワー
+top3 entities near to cluster47>>
+ゲート, サウス, ホール
+top3 entities near to cluster48>>
+タウン, ショッピング, モール
+top3 entities near to cluster50>>
+ドリンク, キット, フリー
+top3 entities near to cluster51>>
+パス, プライオリティ, ロングパス
+top3 entities near to cluster52>>
+ノン, ハイ, ロス
+top3 entities near to cluster54>>
+空港, 関空, 金浦
+top3 entities near to cluster55>>
+地方, 都市, 空港
+top3 entities near to cluster56>>
+空港, 国内線, 関空
+top3 entities near to cluster57>>
+空港, ターミナル, 国内線
+top3 entities near to cluster59>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster60>>
+時間, 所要
+top3 entities near to cluster61>>
+充実, 洗練, 大きい
+top3 entities near to cluster62>>
+利用, 使用, 購入
+top3 entities near to cluster63>>
+案内, 案内板, 掲示板, 掲示
+top3 entities near to cluster64>>
+限定, 期間, 販売
+top3 entities near to cluster66>>
+勧め, 薦め
+top3 entities near to cluster67>>
+在庫, 切れ, 切れる
+top3 entities near to cluster68>>
+おむつ替え, 替える, おむつ
+top3 entities near to cluster69>>
+子供連れ, つれ, 子供
+top3 entities near to cluster70>>
+食事, ご飯, 夕食
+top3 entities near to cluster71>>
+授乳室, 授乳, 授乳期
+top3 entities near to cluster72>>
+休憩, 仮眠, 時間
+top3 entities near to cluster73>>
+方法, 目的, 利点
+top3 entities near to cluster75>>
+国内, 海外, 各国
+top3 entities near to cluster76>>
+子供, 家族, 母親
+top3 entities near to cluster77>>
+間隔, 自動, 手動
+top3 entities near to cluster79>>
+間手, 間, その間
+top3 entities near to cluster80>>
+時期, 日, 月
+top3 entities near to cluster83>>
+種類, 数種類
+top3 entities near to cluster84>>
+右端, 左下, 左端
+top3 entities near to cluster85>>
+箇所, 三, ヶ所
+top3 entities near to cluster87>>
+電話, 携帯, ケータイ
+top3 entities near to cluster88>>
+荷物, 手荷物, 検査
+top3 entities near to cluster89>>
+宿泊, 旅, 一泊
+top3 entities near to cluster90>>
+見学, 試食, 散策
+top3 entities near to cluster91>>
+料理, 大会, 文化
+top3 entities near to cluster92>>
+予約, 受付, 変更
+top3 entities near to cluster93>>
+長蛇, 行列, 列
+top3 entities near to cluster94>>
+渇き, 喉, のど
+top3 entities near to cluster95>>
+繁華街, 繁華, 活気
+top3 entities near to cluster96>>
+景色, 風景, 夜景
+top3 entities near to cluster97>>
+店員, レジ, お客
+top3 entities near to cluster98>>
+洋服, モノ
+top3 entities near to cluster99>>
+店舗, 建物, 商品
+top3 entities near to cluster100>>
+マップ, フロア, エリア
+top3 entities near to cluster101>>
+売り場, 売場, チケット
+top3 entities near to cluster103>>
+美味
+top3 entities near to cluster105>>
+迷子, 鳥, そば
+top3 entities near to cluster106>>
+和風, 喫茶, 基調
+top3 entities near to cluster107>>
+飛行機, 飛行, 離陸
+top3 entities near to cluster108>>
+新, 国際線, 新しい
+top3 entities near to cluster109>>
+国内線, 国際線, ロビー
+top3 entities near to cluster110>>
+国際線, 国内線, 空港
+top3 entities near to cluster111>>
+国内線, 国際線, チェックインカウンター
+top3 entities near to cluster112>>
+国際線, 国内線, ターミナル
+top3 entities near to cluster113>>
+国際線, 国内線, エリア
+top3 entities near to cluster115>>
+機内, 国際線, 飛行機
+top3 entities near to cluster116>>
+駅, 列車, 始発
+top3 entities near to cluster117>>
+玄関, 表玄関, 空港
+top3 entities near to cluster119>>
+屋上, 地下, ビル
+top3 entities near to cluster120>>
+席, 座席, 待合
+top3 entities near to cluster121>>
+バス, タクシー, 乗り場
+top3 entities near to cluster123>>
+航空, 航空券, 航空機
+top3 entities near to cluster124>>
+国際, 総合, 物流
+top3 entities near to cluster125>>
+施設, 設備, 商業
+top3 entities near to cluster126>>
+交通, 手段, 事故
+top3 entities near to cluster127>>
+名所, 名所旧跡
+top3 entities near to cluster128>>
+名所, 穴場, オススメスポット
+top3 entities near to cluster129>>
+遺失, 落とし物, 物品
+top3 entities near to cluster130>>
+直航便, 便っ, 直航
+top3 entities near to cluster131>>
+出発, 到着, 出立
+top3 entities near to cluster132>>
+入国, 出国, 出入国
+top3 entities near to cluster133>>
+審査, 入国, 税関
+top3 entities near to cluster134>>
+搭乗, 乗船, 同乗
+top3 entities near to cluster135>>
+展望, 眺望, 見晴らし
+top3 entities near to cluster136>>
+展望台, 展望, 見晴らし台, 見晴らし
+top3 entities near to cluster137>>
+検査場, 駐車場, 駐車, 検査

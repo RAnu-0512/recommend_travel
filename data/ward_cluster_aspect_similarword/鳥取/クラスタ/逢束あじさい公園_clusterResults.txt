@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:逢束あじさい公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+琴浦沿岸, 琴浦町, 鳥取県
+cluster1:(2)
+青い海, 海岸沿い
+cluster2:(6)
+あじさい, アジサイ, 花, 紫陽花, バック, 逢束
+cluster3:(2)
+方々, 付近
+cluster4:(2)
+紫陽花群落, 逢束あじさい公園
+cluster5:(1)
+梅雨時期
+cluster6:(1)
+防波堤新設工事
+cluster7:(1)
+塩害防止目的
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松陰記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+人形展示, 記念館, 武士人形
+cluster1:(4)
+生き方, 中, 様子, 写真
+cluster2:(2)
+施設, 駅
+cluster3:(1)
+手紙
+cluster4:(1)
+塾
+cluster5:(1)
+再現
+cluster6:(1)
+説得力
+cluster7:(4)
+松陰, 吉田松陰, 萩往還, 山口県萩市
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桜(立石さくら通り)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+景色, 機会
+cluster1:(7)
+桜, 近辺, 桜並木, さくら, 居酒屋, 立石, 日本
+cluster2:(1)
+裏では
+cluster3:(1)
+お寿司屋
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:糸川遊歩道--------------------
+top3 entities near to cluster1>>
+桜, 八重桜, 満開
+top3 entities near to cluster2>>
+蕾, 蜜, 花心
+top3 entities near to cluster3>>
+景色, 風情, 空気
+top3 entities near to cluster6>>
+季節, 花, 時季
+top3 entities near to cluster8>>
+散策, 見物, 花見
+top3 entities near to cluster9>>
+散策

@@ -1,0 +1,73 @@
+--------------------similar_words:二重橋--------------------
+top3 entities near to cluster0>>
+皇居, 正門, 参賀
+top3 entities near to cluster2>>
+名所, バス, 周遊
+top3 entities near to cluster4>>
+正成, 楠木, フサヱ
+top3 entities near to cluster5>>
+ビル, 高層, タワービル
+top3 entities near to cluster6>>
+警備員, 警備, 雑踏
+top3 entities near to cluster8>>
+正門, 石橋, 北門
+top3 entities near to cluster9>>
+駅, 駅前, 都
+top3 entities near to cluster10>>
+駅, 駅前, 構内
+top3 entities near to cluster11>>
+駅名, 駅線, 駅
+top3 entities near to cluster12>>
+たもと, 下はん
+top3 entities near to cluster13>>
+鉄橋, 橋桁
+top3 entities near to cluster15>>
+二重橋, 外苑, 都庁
+top3 entities near to cluster16>>
+堀, 堀端, 石垣
+top3 entities near to cluster17>>
+鴨石, 鴨
+top3 entities near to cluster18>>
+桜雪, 桜, 紅葉
+top3 entities near to cluster19>>
+濠, 堀, 外堀
+top3 entities near to cluster20>>
+写真, 撮影, 撮っ
+top3 entities near to cluster21>>
+距離感, 距離, 至近
+top3 entities near to cluster22>>
+重厚感, 重厚, ドキドキ・ワクワク
+top3 entities near to cluster23>>
+見学, 案内, 視察
+top3 entities near to cluster24>>
+周囲, 周り, 自然
+top3 entities near to cluster25>>
+アーチ型, アーチ部, アーチ
+top3 entities near to cluster26>>
+警備, 警官, 警察官
+top3 entities near to cluster27>>
+宮殿, 広場, 王宮
+top3 entities near to cluster28>>
+敷地, 外観, 建物
+top3 entities near to cluster29>>
+銅像, 胸像, 石像
+top3 entities near to cluster30>>
+村, テント, 村長
+top3 entities near to cluster31>>
+木造, 鉄製, 眼鏡
+top3 entities near to cluster32>>
+風景, 景色, 情景
+top3 entities near to cluster33>>
+照明, 砂利, 街灯
+top3 entities near to cluster36>>
+パワー, カメラ, ビュースポット
+top3 entities near to cluster37>>
+佇まい, 石造り, アーチ
+top3 entities near to cluster38>>
+人混み, 遠巻き, 報道陣
+top3 entities near to cluster39>>
+あたり, 気持ち, まわり
+top3 entities near to cluster40>>
+見どころ, 風情, 見ごたえ
+top3 entities near to cluster41>>
+中学校, 小学校, 中学生

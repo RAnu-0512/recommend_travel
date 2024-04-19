@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:子浦海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地魚料理, 勿論夕食つき
+cluster1:(16)
+魚, 海水浴場, 海水, 魚目的, 野球, 漁港, バス, 海水浴客, 宿, 観光, 女将, 地, 常宿, 場, 漁業, 内湾
+cluster2:(28)
+南伊豆, 台風, こと, シーカヤック, 弓ヶ浜, 子浦, 海水浴, 才能, センス, パワー, 神, シーズン, 透明度, 日帰り, 人, 技量, シャワー, 入江, ラッキ, 感じ, 波, 夏, 中, 海, 力, 場所, 方, 伊豆半島
+cluster3:(1)
+大谷翔平級
+
+howmany entities : 47
+howmany clusters : 4
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 2
+deleted 3entities.

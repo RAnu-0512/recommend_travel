@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:悴坂一里塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+萩唐樋, 萩駅, 萩往還
+cluster1:(3)
+基点, ところ, 徒歩
+cluster2:(2)
+塚, 札場
+cluster3:(1)
+悴坂一里塚
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

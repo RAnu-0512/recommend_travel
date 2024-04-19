@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上関>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+上関大橋, 道の駅上関, 上関半島, 上関島, 上関
+cluster1:(2)
+連ドラ, NHK連ドラ
+cluster2:(2)
+室津, 下関
+cluster3:(3)
+史跡, 城跡, 城壁
+cluster4:(4)
+棚田, 漁港, 温泉, 湯
+cluster5:(25)
+天ぷら, 施設, 街並み, スポット, 景色, 農産物, 空気, 店, 食材, 道, 魚介類, 場所, 食べ物, 町, おすすめ, メッカ, 魚釣り, ハンバーグ, ドライブ, 瀬戸内海, 駅, 釣り場, 料理, 海沿い, 地域
+cluster6:(11)
+エビ, 釣り, 四階楼, 鳩子, 魚貝類, 地元産, 鳩子の海, 魚天ぷら, 魚, 海側, 海
+
+howmany entities : 52
+howmany clusters : 7
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 7
+deleted 0entities.

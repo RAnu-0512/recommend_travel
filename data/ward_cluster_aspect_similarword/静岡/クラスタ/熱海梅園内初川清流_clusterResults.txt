@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海梅園内初川清流>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+紅葉, 梅園, 熱海, 流れ, 多く, 園内, 渓流, 川, 梅, 一部滝, 蛍, 気持ち, 奥, 梅まつり, 中, 雰囲気, 橋, モミジ, 清流, ホタル, 見た目, 滝, 季節, 道
+cluster1:(3)
+初川清流沿い, 初川清流, 初川
+cluster2:(2)
+熱海梅園内, 熱海梅園内初川
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 2
+deleted 2entities.

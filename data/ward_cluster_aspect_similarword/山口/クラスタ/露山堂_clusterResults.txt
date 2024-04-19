@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:露山堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+幕末, 倒幕, 幕府
+cluster1:(4)
+ところ, 日本, 瑠璃光寺, ひとつ
+cluster2:(3)
+もの, こと, 場所
+cluster3:(1)
+親
+cluster4:(1)
+山口
+cluster5:(10)
+密談, 見学, 密議, 公園, 茶, 茶室, 湯, 庭園, 歴史, 建物
+cluster6:(3)
+香山公園, 毛利敬, 露山堂
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常円寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+損保ジャパンビル, 高層ビル群, 高層ビル街, 高層ビル
+cluster1:(2)
+気分, 転換
+cluster2:(4)
+気, 様子, 対比, こと
+cluster3:(1)
+位置関係
+cluster4:(2)
+寺院, 寺
+cluster5:(2)
+山門, 境内
+cluster6:(3)
+花, 桜, 花見スポット
+cluster7:(5)
+石碑, 距離, 足, 歴史, 膝元
+cluster8:(16)
+周囲, 常円寺, 場所, 枝垂れ桜, アクセス, 常泉院, 街並み, 近く, 日蓮宗, ブロック, ライト, エリア, 門構え, 最寄り, 雰囲気, 西新宿
+cluster9:(2)
+建物, ビル
+cluster10:(2)
+都会, 街
+cluster11:(1)
+ちょうちん
+cluster12:(5)
+新宿駅, 新宿野村, 青梅街道, 新宿, 新宿西口
+
+howmany entities : 49
+howmany clusters : 13
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 13
+deleted 0entities.

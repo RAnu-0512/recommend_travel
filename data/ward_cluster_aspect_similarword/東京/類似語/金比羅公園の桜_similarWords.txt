@@ -1,0 +1,9 @@
+--------------------similar_words:金比羅公園の桜--------------------
+top3 entities near to cluster0>>
+公園, 遊歩道, 緑地
+top3 entities near to cluster1>>
+花見, 散歩, 桜
+top3 entities near to cluster2>>
+眺め, ツツジ, 眺める
+top3 entities near to cluster3>>
+展望台, 展望, 瞻星台, 瞻星

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:文教堂書店 市ヶ谷店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+店, 市ヶ谷駅, 本屋, 市ヶ谷店, チェーン系カフェ, 店員, 漫画, 店内
+cluster1:(2)
+人, 他
+cluster2:(8)
+文房具, カフェ, ガイドブック, 数カ所, 子どもコーナー, 雰囲気, フロア, 文庫本
+cluster3:(2)
+感じ, 割
+cluster4:(4)
+隣, 前, 目, 時代
+cluster5:(1)
+声
+cluster6:(1)
+配置
+cluster7:(1)
+愛想
+cluster8:(4)
+文教堂書店, 書店内, 書店, レジ店員
+cluster9:(1)
+街中の普通の本屋
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 10
+deleted 0entities.

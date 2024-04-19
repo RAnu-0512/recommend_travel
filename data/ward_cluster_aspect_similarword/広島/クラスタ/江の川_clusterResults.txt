@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江の川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+島根県, 一級水河川, 広島県, 中流域
+cluster1:(2)
+鮎釣り, アユ釣り
+cluster2:(3)
+釣り, 鮎, 川
+cluster3:(6)
+方, 流れ, 感じ, 人, 場所, 荒々しさ
+cluster4:(5)
+地方, 周辺, 中国, 北広島町, 全長
+cluster5:(1)
+悠然
+cluster6:(1)
+川幅
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 7
+deleted 0entities.

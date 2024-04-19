@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古里附のイヌグス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+古里附, 東京都, 春日神社
+cluster1:(2)
+イヌグス, 天然記念物
+cluster2:(2)
+ところ, ひとつ
+cluster3:(1)
+もの
+cluster4:(1)
+全国
+cluster5:(1)
+治療
+cluster6:(1)
+甲斐
+cluster7:(2)
+幹周, 樹齢
+cluster8:(1)
+イヌグス.1.5m
+
+howmany entities : 14
+howmany clusters : 9
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 9
+deleted 0entities.

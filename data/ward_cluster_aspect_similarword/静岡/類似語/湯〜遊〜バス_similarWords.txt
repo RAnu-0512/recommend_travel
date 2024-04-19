@@ -1,0 +1,23 @@
+--------------------similar_words:湯〜遊〜バス--------------------
+top3 entities near to cluster0>>
+車内, 車両, 荷物
+top3 entities near to cluster11>>
+子供, 子ども, お子さん
+top3 entities near to cluster12>>
+利用, 案内, 移動
+top3 entities near to cluster15>>
+喋り声, 喋り
+top3 entities near to cluster21>>
+乗車券, 割引券, 乗車, 割引
+top3 entities near to cluster22>>
+乗車, 切符, 乗り継ぎ
+top3 entities near to cluster23>>
+時刻帯, 時間帯, 時刻, 時間
+top3 entities near to cluster24>>
+温泉, 割引, 宿泊
+top3 entities near to cluster25>>
+運転手, 運転, 操縦手, 操縦
+top3 entities near to cluster28>>
+名所, 名所旧跡, 周遊
+top3 entities near to cluster29>>
+バス, タクシー, 乗り場

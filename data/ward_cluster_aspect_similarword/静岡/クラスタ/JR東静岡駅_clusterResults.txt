@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR東静岡駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+電車, 駅, 劇場
+cluster1:(3)
+当地, 土産, 訪問
+cluster2:(1)
+静岡駅
+cluster3:(1)
+商業施設
+cluster4:(1)
+護国神社
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

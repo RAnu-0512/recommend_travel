@@ -1,0 +1,21 @@
+--------------------similar_words:紙の博物館--------------------
+top3 entities near to cluster0>>
+駅, 区, 公園
+top3 entities near to cluster2>>
+中止, 禁止, 配慮
+top3 entities near to cluster3>>
+切手, 博物
+top3 entities near to cluster4>>
+子供, 子ども, 小学生
+top3 entities near to cluster5>>
+自宅, 土産, 訪問
+top3 entities near to cluster6>>
+原料, 茶色, 博物館
+top3 entities near to cluster7>>
+映像, 館内, 建物
+top3 entities near to cluster8>>
+近代, 古代, 現代
+top3 entities near to cluster9>>
+製紙, 工場
+top3 entities near to cluster10>>
+展示, 体験, 資料

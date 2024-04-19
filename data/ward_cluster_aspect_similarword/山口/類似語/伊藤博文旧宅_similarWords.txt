@@ -1,0 +1,19 @@
+--------------------similar_words:伊藤博文旧宅--------------------
+top3 entities near to cluster0>>
+伊藤, 博文, 渡邊
+top3 entities near to cluster1>>
+大臣, 総理
+top3 entities near to cluster2>>
+邸宅, 建物, 民家
+top3 entities near to cluster3>>
+萩, 明治, 維新
+top3 entities near to cluster4>>
+隣, 地元, 裏手
+top3 entities near to cluster5>>
+屋内外, 室内, 屋内
+top3 entities near to cluster6>>
+屋根, 小雨
+top3 entities near to cluster7>>
+人生, 人達, 歴史
+top3 entities near to cluster9>>
+葺, 茅, 葺職

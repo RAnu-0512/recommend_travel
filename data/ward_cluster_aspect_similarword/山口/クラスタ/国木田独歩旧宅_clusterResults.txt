@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国木田独歩旧宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+資料, 年表
+cluster1:(5)
+外部, 国, 家族, 家, 外観
+cluster2:(5)
+中, 案内, 方, 要所, こと
+cluster3:(3)
+明治, 柳井, 文豪
+cluster4:(3)
+木田独歩, 独歩之碑, 独歩
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

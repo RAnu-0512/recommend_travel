@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:緒方洪庵の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+案内板, 地下鉄南北線, 人材, 医学者, ところ, 墓地内, 墓所, 近く, 墓, 教育者, こと, 大坂, 本駒込駅, 適塾
+cluster1:(6)
+高林寺, 幕末明治, 緒方洪庵, 岡山市, 江戸末期, 文京区
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

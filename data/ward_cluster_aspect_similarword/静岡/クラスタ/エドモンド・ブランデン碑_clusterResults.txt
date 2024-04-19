@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:エドモンド・ブランデン碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+英, 英国, ブランデン, エドモンド, 河口, 東京大学, 方
+cluster1:(3)
+碑文, 石碑, 碑
+cluster2:(2)
+詩, 詩人
+cluster3:(2)
+文学者, 文学
+cluster4:(7)
+按針祭, 静岡県, 伊東市, 伊東市民, 按針メモリアルパーク, 伊東大川, 三浦按針
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 4entities.

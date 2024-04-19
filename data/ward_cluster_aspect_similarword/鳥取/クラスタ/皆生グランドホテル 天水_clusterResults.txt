@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:皆生グランドホテル 天水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+文句, 気, 変更
+cluster1:(11)
+トイレ, 時間, 日本, ベッド, 目, サービス, 人, クッション, 天ぷら, ステーキ, バイキング
+cluster2:(16)
+傘, 朝食, 旅, 海, 雨, 料理, 夕食, 皆生温泉街, 菓子, クッション言葉, 料金, 花火, 洗面, 部屋, 食事, 旅行
+cluster3:(1)
+融通
+cluster4:(1)
+駐車場
+cluster5:(1)
+皆生最大級
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:錦鶏の滝--------------------
+top3 entities near to cluster0>>
+錦鶏, 祗候, 痩西
+top3 entities near to cluster1>>
+落差, 迫力, 見応え
+top3 entities near to cluster2>>
+滝, 上流, 宇嶺
+top3 entities near to cluster3>>
+雄滝, 雌滝, 男滝
+top3 entities near to cluster4>>
+川, 坂, ダム

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋穂二島のアラカシ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アラカシ, 巨木
+cluster1:(1)
+樹高
+cluster2:(1)
+山口市
+cluster3:(1)
+推定樹齢
+cluster4:(1)
+目通り幹囲
+cluster5:(1)
+栄泰寺境内
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

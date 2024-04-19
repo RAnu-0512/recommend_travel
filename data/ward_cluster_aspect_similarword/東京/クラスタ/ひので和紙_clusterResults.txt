@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ひので和紙>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+紙作り, 和紙, 和紙作り
+cluster1:(8)
+写真, 紙すき体験, ショップ, 体験, 結婚式, 親子, 展示物, もの
+cluster2:(1)
+結婚証明書
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

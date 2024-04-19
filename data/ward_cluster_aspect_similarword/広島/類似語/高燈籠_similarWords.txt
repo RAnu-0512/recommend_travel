@@ -1,0 +1,15 @@
+--------------------similar_words:高燈籠--------------------
+top3 entities near to cluster0>>
+景色, 風景, 景観
+top3 entities near to cluster1>>
+潮風, 高潮, 心身
+top3 entities near to cluster2>>
+灯台, 突端, 立石岬
+top3 entities near to cluster3>>
+役目, 補修, 役割
+top3 entities near to cluster4>>
+海風, 夏風, 海, 夏
+top3 entities near to cluster6>>
+灯篭, 灯ろう, 提灯
+top3 entities near to cluster7>>
+砂子, 止

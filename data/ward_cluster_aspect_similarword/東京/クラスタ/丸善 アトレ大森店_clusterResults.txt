@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸善 アトレ大森店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+書店, 丸善
+cluster1:(2)
+文具, 手帳
+cluster2:(9)
+店, ボールペン, カレンダー, 用, ブックファースト, 文房具, 新年, 世話, センス
+cluster3:(1)
+デスク回り用品
+cluster4:(1)
+JR大森駅
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名和公一族郎党の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石塔, 土中
+cluster1:(3)
+多く, こと, 方
+cluster2:(2)
+菩提寺, 道のり
+cluster3:(2)
+船上山, 後醍醐
+cluster4:(1)
+左手
+cluster5:(1)
+規模
+cluster6:(1)
+甲斐
+cluster7:(8)
+墓, 一族, 靴, 道, 寺, 裏山, 館, 天皇
+cluster8:(2)
+大山町, 夏草
+cluster9:(3)
+長綱寺, 鎌倉幕府, 五輪塔
+cluster10:(4)
+名和公, 名和公一族郎党, 西伯郡, 名和
+
+howmany entities : 29
+howmany clusters : 11
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 11
+deleted 0entities.

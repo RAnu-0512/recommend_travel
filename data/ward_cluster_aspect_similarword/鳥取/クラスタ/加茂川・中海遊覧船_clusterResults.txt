@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:加茂川・中海遊覧船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+米子城址, 湊山公園
+cluster1:(2)
+米子, 中海
+cluster2:(8)
+コース, 下, 加茂川, 回り, ところ, 歴史, 町並み, いくつか
+cluster3:(5)
+橋, 町, 島, 景色, 街
+cluster4:(2)
+堀, 白壁
+cluster5:(1)
+彫刻ロード
+cluster6:(5)
+船頭, 船, 船長, 深浦橋, 遊覧船
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 7
+deleted 0entities.

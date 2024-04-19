@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍雲寺(山口県岩国市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+堂, 文殊堂
+cluster1:(6)
+屋敷, 大友, 歴史, 境内, 臨済宗, 龍雲寺
+cluster2:(1)
+江良家の御屋敷
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

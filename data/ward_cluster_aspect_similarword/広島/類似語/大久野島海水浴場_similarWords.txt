@@ -1,0 +1,27 @@
+--------------------similar_words:大久野島海水浴場--------------------
+top3 entities near to cluster0>>
+エサ, 餌, えさ
+top3 entities near to cluster1>>
+日, 休暇, 猛暑
+top3 entities near to cluster2>>
+海水浴, ビーチ, 砂浜
+top3 entities near to cluster3>>
+ウサギ, うさぎ, ヒツジ
+top3 entities near to cluster4>>
+餌付け, フェリー, シャワー
+top3 entities near to cluster6>>
+人達, 大勢
+top3 entities near to cluster7>>
+フード, ペット, ドッグフード
+top3 entities near to cluster8>>
+必須, 肝心, いい
+top3 entities near to cluster9>>
+盛, 凱清, マジモリ
+top3 entities near to cluster10>>
+乗り場, バス
+top3 entities near to cluster11>>
+島, 島内, 島民
+top3 entities near to cluster13>>
+海水, 砂浜, 海
+top3 entities near to cluster14>>
+更衣室, 更衣, 医務室, 医務

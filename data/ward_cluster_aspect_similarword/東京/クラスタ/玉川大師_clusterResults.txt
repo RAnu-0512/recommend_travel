@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉川大師>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住職, 参拝
+cluster1:(12)
+経, 途中, コロナ, 影響, 方, 天気, 準備, 赤ちゃん, 予約, 電話, 静嘉堂文庫美術館, 徒歩
+cluster2:(1)
+地下仏殿
+cluster3:(1)
+二子玉川駅
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

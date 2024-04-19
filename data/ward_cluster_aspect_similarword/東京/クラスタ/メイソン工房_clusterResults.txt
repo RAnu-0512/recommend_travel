@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:メイソン工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+フォルム, グラス, ブレスレット, サンドブラスト, ところ, パワーストーンブレス, シール, パワーストーン, 石, 同窓生, SNS, サイズ, パワーストーンブレスレット
+cluster1:(4)
+大人, 子供, 後輩, 職場
+cluster2:(2)
+思い出作り, ブレスレット作り
+cluster3:(9)
+店, 値段, 他, 種類, 悩み, 体験, 時間, 写真, 作業
+cluster4:(7)
+意味, 感じ, ほう, 範囲, 方, こと, もの
+cluster5:(1)
+跡
+cluster6:(1)
+割り増し料金
+cluster7:(1)
+じゃらん掲載
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 8
+deleted 0entities.

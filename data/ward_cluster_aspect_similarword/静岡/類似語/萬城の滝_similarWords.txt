@@ -1,0 +1,15 @@
+--------------------similar_words:萬城の滝--------------------
+top3 entities near to cluster0>>
+休憩場, 駐車場, 駐車, 休憩
+top3 entities near to cluster2>>
+落差, 幅, 迫力
+top3 entities near to cluster4>>
+到着, 移動
+top3 entities near to cluster9>>
+間, 時間, 周辺
+top3 entities near to cluster10>>
+川, 支流, 源流
+top3 entities near to cluster11>>
+道路, 歩道, 遊歩道
+top3 entities near to cluster12>>
+滝, 宇嶺, 岩

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シモジマ ワークショップ【シモジマ ラッピング倶楽部 浅草橋駅前店】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+水引, お正月飾り, ラッピング用品
+cluster1:(5)
+作品, 駅, 時間, 歴史, 先生
+cluster2:(2)
+横, 手元
+cluster3:(11)
+結び方, シモジマ, アクセス, 浅草橋, 感じ, リース, 勉強, レッスン, 雰囲気, アクセサリー, 色
+cluster4:(1)
+折形
+cluster5:(1)
+水引き
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

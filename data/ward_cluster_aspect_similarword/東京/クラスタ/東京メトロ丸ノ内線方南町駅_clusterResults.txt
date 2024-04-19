@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸ノ内線方南町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京メトロ丸ノ内線, 新宿
+cluster1:(2)
+距離, 幅
+cluster2:(2)
+工事, 階段
+cluster3:(6)
+駅, 乗り換え, 電車, 感じ, 始発駅, ホーム
+cluster4:(3)
+路線, 線, 終点
+cluster5:(1)
+改札
+cluster6:(1)
+中野坂上駅
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

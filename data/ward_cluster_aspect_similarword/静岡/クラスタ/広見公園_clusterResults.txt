@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広見公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 富士市, 広見公園
+cluster1:(2)
+建造物, 立て物
+cluster2:(3)
+住宅, 建物, 洋館
+cluster3:(4)
+園内, 公園, 遊具, 児童
+cluster4:(24)
+博物館, 薔薇, 時期, ランチ, 東側, トレーニング, バラ, 裾, 人, ピンク, 気持ち, 富士山, 奥, 次, 遊歩道, 高台, 活気, ウォーキング, 桜, 散歩, 本数, 花見, 人たち, 木
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 4
+deleted 2entities.

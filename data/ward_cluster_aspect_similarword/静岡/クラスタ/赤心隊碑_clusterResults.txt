@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤心隊碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浅間神社, 浅間大社
+cluster1:(7)
+車, 碑, 参り, 最寄り駅, 富士山, 境内, 池
+cluster2:(3)
+勤皇, 志士, 幕末
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

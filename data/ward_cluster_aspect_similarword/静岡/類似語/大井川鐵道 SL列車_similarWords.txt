@@ -1,0 +1,65 @@
+--------------------similar_words:大井川鐵道 SL列車--------------------
+top3 entities near to cluster0>>
+ヘッド, ライン, シート
+top3 entities near to cluster1>>
+アトラクション, 景色, イベント
+top3 entities near to cluster2>>
+一足先, 一足
+top3 entities near to cluster5>>
+興味, 人気, 関心
+top3 entities near to cluster6>>
+人達, 大勢
+top3 entities near to cluster8>>
+世界道, 世界, 映画
+top3 entities near to cluster9>>
+近辺, 周辺
+top3 entities near to cluster12>>
+足手, 足, 上り
+top3 entities near to cluster13>>
+景色, 風景, 車窓
+top3 entities near to cluster14>>
+ヒロ, ロコ
+top3 entities near to cluster17>>
+桜, 茶, 八重桜
+top3 entities near to cluster18>>
+弁当, おにぎり, オニギリ
+top3 entities near to cluster19>>
+構内, 駅弁, 売店
+top3 entities near to cluster21>>
+照明, 演出, 内装
+top3 entities near to cluster23>>
+窓, ドア, 壁
+top3 entities near to cluster25>>
+子供, 家族, 子ども
+top3 entities near to cluster26>>
+千頭, 鐵, 駅
+top3 entities near to cluster27>>
+機関車, 機関, 蒸気
+top3 entities near to cluster29>>
+列車, 急行, 特急
+top3 entities near to cluster31>>
+子供, 仲間, 子ども
+top3 entities near to cluster34>>
+いい
+top3 entities near to cluster36>>
+乗車, 降車, 乗り継ぎ
+top3 entities near to cluster37>>
+バス, 周遊, 名所
+top3 entities near to cluster38>>
+写真, 撮影, 撮っ
+top3 entities near to cluster39>>
+料金, 期間
+top3 entities near to cluster40>>
+運行, 運休, 往復
+top3 entities near to cluster41>>
+全線, 路線
+top3 entities near to cluster42>>
+確保, 空き, 変更
+top3 entities near to cluster43>>
+出発, 到着, 発車
+top3 entities near to cluster44>>
+予約便, 予約, 受付
+top3 entities near to cluster45>>
+車両, 車内, 列車
+top3 entities near to cluster46>>
+駅, 鉄道, 線路

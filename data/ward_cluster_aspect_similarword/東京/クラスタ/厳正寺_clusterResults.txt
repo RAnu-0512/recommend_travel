@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:厳正寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+梵鐘, 鋳造
+cluster1:(2)
+こと, 上
+cluster2:(2)
+文化財, 地元
+cluster3:(2)
+寺, 門
+cluster4:(1)
+水止舞
+cluster5:(1)
+東京都無形民俗文化財
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

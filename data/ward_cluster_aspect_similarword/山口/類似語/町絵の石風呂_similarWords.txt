@@ -1,0 +1,7 @@
+--------------------similar_words:町絵の石風呂--------------------
+top3 entities near to cluster0>>
+木こり, 五右衛門風呂, 鍛冶
+top3 entities near to cluster2>>
+町絵, 町, 丁目
+top3 entities near to cluster3>>
+風呂, サウナ, 湯船

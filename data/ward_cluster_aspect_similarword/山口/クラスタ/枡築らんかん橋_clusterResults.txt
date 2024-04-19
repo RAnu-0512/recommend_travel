@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:枡築らんかん橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+防府市, 大字田島
+cluster1:(3)
+石, 川底, 橋
+cluster2:(2)
+時間, トイレ
+cluster3:(2)
+構造, 性質
+cluster4:(1)
+アーチ型
+cluster5:(1)
+干潮
+cluster6:(1)
+駐車場
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

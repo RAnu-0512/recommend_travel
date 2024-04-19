@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:歴史の見える丘公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+昭和, 某アイドルグループ
+cluster1:(3)
+民家, 徒歩, 階段
+cluster2:(7)
+瀬戸内, スペース, 歴史, 街並み, 遊歩道, 岡村島, ゆとり
+cluster3:(4)
+先, 感じ, 時間, こと
+cluster4:(2)
+ハチ, 予防
+cluster5:(1)
+海道
+cluster6:(3)
+丘公園, 呉市, 公園
+cluster7:(1)
+MV撮影地
+cluster8:(1)
+熱中症
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 9
+deleted 0entities.

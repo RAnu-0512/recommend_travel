@@ -1,0 +1,13 @@
+--------------------similar_words:テルミナ--------------------
+top3 entities near to cluster0>>
+駅, 食品, 売り場
+top3 entities near to cluster1>>
+男性, 女性, 男女
+top3 entities near to cluster3>>
+カメラ, 出入り口, トイレ
+top3 entities near to cluster4>>
+地下, ・・デパ, 地階
+top3 entities near to cluster5>>
+良さ, 憎憎し, もの憂
+top3 entities near to cluster6>>
+電子, レンジ, レンジスイート

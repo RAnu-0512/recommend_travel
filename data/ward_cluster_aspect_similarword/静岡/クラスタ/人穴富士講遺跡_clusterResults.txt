@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:人穴富士講遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+島田, 講, 三保, 富士講, 登拝, 富士, 松原, 長谷川角行, 富士宮市, 江戸時代
+cluster1:(2)
+溶岩, 溶岩洞穴
+cluster2:(13)
+巡礼, 石段, 穴, 観光ボランティア, 聖地, 信仰, 国道, 神社, 人穴, 神霊, 洞窟, 岩, 洞穴
+cluster3:(4)
+妻, 友人, 人, 人達
+cluster4:(5)
+市役所, 富士山, 形, 雰囲気, 場所
+cluster5:(4)
+こと, 感じ, 説明, 方
+cluster6:(2)
+禁止, 入場
+cluster7:(2)
+長さ, 改組
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 6entities.

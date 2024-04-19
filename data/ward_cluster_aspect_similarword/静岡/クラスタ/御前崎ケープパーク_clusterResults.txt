@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御前崎ケープパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+車, 灯台, 駐車場, 御前崎, 歴史, 舞台, 場所, 喜び, 白亜, 途中, 日本, レンガ造り, 風, 映画, 塔
+cluster1:(2)
+見尾火灯明堂, 御前埼灯台
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 2entities.

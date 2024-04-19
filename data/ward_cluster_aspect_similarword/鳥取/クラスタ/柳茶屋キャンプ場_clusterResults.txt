@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柳茶屋キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+利用者, 施設, 設備, キャンプ場
+cluster1:(2)
+砂丘, 鳥取
+cluster2:(2)
+会話, 大声
+cluster3:(2)
+手, 魅力
+cluster4:(10)
+夜, トイレ, 鳥取砂丘こども, 申し込み, 国, 夏休み, スピーカフォン, スペース, グループ, 近く
+cluster5:(1)
+受付
+cluster6:(3)
+夏, 秋, 花火
+cluster7:(1)
+難
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 8
+deleted 0entities.

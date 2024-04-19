@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大浜海水浴場(静岡県西伊豆町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+混雑, 放題
+cluster1:(15)
+パラソル, シート, ポータブルシャワー, ビーチ, なぎさ, 西伊豆, 海水浴, シュノーケル, シーズン, ライフセーバー, シャワー, 帰り際, スーパー, コンビニ, レジャーシート
+cluster2:(4)
+必要, こと, もの, 方
+cluster3:(2)
+愛犬, 犬
+cluster4:(2)
+共用, 端
+cluster5:(2)
+女性, 男性
+cluster6:(2)
+近く, 前
+cluster7:(2)
+人, 他
+cluster8:(4)
+車, 家, 娘, 子供
+cluster9:(5)
+水, 冷水シャワー, 水道, 公共トイレ, 温水シャワー
+cluster10:(9)
+砂, 岩場, 波, 夏, 海, 砂浜, 瑪瑙, 浜辺, 砂まみれ
+cluster11:(12)
+駐車場, 海水浴場, 温泉, 海水浴目的, 風呂目的, シャワー場, 家族連れ, 海水浴客, 宿, 大浜海水浴場, 監視員, 温泉施設
+
+howmany entities : 61
+howmany clusters : 12
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 6
+deleted 12entities.

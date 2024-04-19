@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和風 SOLA SPA 呉 大和温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+印象, 名前
+cluster1:(7)
+中, 先, 別, 方, 車, 人, 事
+cluster2:(12)
+クチコミ, ボディソープ, シャワー, 露天風呂, 疲れ, 復活, サウナ, 海, 身体, SPA, 気持ち, 夕焼け
+cluster3:(6)
+浴室, 客, 顔用, 観光, 高齢, 階段
+cluster4:(7)
+シャワー稼働半分, 水圧, 泡ポンプボトル, 故障札, 何か所, コロナ禍, 故障
+cluster5:(12)
+女湯, 電気風呂, バス風呂, 大和温泉, 温泉, 呉駅, 呉, 岩盤浴, 湯, エステ風呂, ジェット風呂, 風呂
+
+howmany entities : 46
+howmany clusters : 6
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 6
+deleted 0entities.

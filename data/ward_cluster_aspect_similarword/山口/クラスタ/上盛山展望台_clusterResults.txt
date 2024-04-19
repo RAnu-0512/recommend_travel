@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上盛山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+パノラマ, 訪問, 景色, 苦労, 島々, 道, 場所, 眼下, 鑑賞, 天気
+cluster1:(5)
+九州, 水仙, 細道, 桜, 車道
+cluster2:(1)
+離合
+cluster3:(4)
+道路事情, 展望, 展望台, 駐車場
+cluster4:(1)
+上関大橋
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

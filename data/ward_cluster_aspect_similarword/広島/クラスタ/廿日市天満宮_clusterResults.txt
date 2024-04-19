@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:廿日市天満宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+城郭, 篠尾城跡
+cluster1:(2)
+廿日市, 廿日市天満宮
+cluster2:(2)
+廿日市駅, 駅
+cluster3:(10)
+入り口, 社, 下, ところ, 地, コンクリート, 上, 天満宮, クスノキ, こと
+cluster4:(3)
+境内, 鳥居, 塀
+cluster5:(7)
+南側, 西側, 正面, 景色, 平地, 道, 階段
+cluster6:(1)
+標柱
+cluster7:(1)
+学生時代
+cluster8:(2)
+広電, 蓮教寺
+
+howmany entities : 30
+howmany clusters : 9
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 9
+deleted 0entities.

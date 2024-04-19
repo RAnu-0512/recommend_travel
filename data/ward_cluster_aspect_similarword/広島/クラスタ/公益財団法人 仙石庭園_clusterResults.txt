@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:公益財団法人 仙石庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 東広島市
+cluster1:(2)
+松, 鶴
+cluster2:(5)
+滝, 説明, マイナスイオン, 時間, 景色
+cluster3:(1)
+良さ
+cluster4:(1)
+暑さ
+cluster5:(1)
+仙石庭園
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

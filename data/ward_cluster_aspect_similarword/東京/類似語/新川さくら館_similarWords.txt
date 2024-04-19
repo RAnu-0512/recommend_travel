@@ -1,0 +1,15 @@
+--------------------similar_words:新川さくら館--------------------
+top3 entities near to cluster0>>
+櫓, 天守, 天守閣
+top3 entities near to cluster1>>
+散策, 紅葉, 散歩
+top3 entities near to cluster3>>
+都火, 土, 都
+top3 entities near to cluster4>>
+面す
+top3 entities near to cluster5>>
+秋空, 秋晴れ, 青空
+top3 entities near to cluster6>>
+進む船, 進む, 進み
+top3 entities near to cluster7>>
+町, 時代, 宿場

@@ -1,0 +1,41 @@
+--------------------similar_words:目黒区美術館--------------------
+top3 entities near to cluster1>>
+美術展, 美術, 展覧
+top3 entities near to cluster2>>
+都, 区民, 区内
+top3 entities near to cluster3>>
+隣, 入り口, 手前
+top3 entities near to cluster4>>
+駅, 徒歩, 東口
+top3 entities near to cluster5>>
+都会, 景色, 紅葉
+top3 entities near to cluster6>>
+窓越し, 窓, 開け放す
+top3 entities near to cluster7>>
+イベント, ホテル, カフェ
+top3 entities near to cluster10>>
+料金, 休日, 平日
+top3 entities near to cluster11>>
+パス, ロングパス, スルーパス
+top3 entities near to cluster12>>
+本数, 回数, 便数
+top3 entities near to cluster14>>
+喫茶, 喫茶店, カフェ
+top3 entities near to cluster15>>
+入場, 入館
+top3 entities near to cluster16>>
+横断, 歩道, 信号
+top3 entities near to cluster17>>
+子供連れ, 子供, つれ
+top3 entities near to cluster18>>
+敷地, 建物, 公園
+top3 entities near to cluster19>>
+美術館, 庭園, 公立
+top3 entities near to cluster20>>
+絵画, 芸術
+top3 entities near to cluster21>>
+美術館巡り, 美術館, めぐり
+top3 entities near to cluster22>>
+散歩, 散策, 出掛け
+top3 entities near to cluster23>>
+鑑賞, 観賞, 芸術

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ワーナー ブラザース スタジオツアー東京-メイキング・オブ・ハリー・ポッター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入場, 入場料
+cluster1:(5)
+時間, 見どころ, チケット, 撮影, 映画
+cluster2:(2)
+体験, 予約
+cluster3:(1)
+休憩
+cluster4:(1)
+細部
+cluster5:(1)
+展示物
+cluster6:(1)
+朝イチ
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

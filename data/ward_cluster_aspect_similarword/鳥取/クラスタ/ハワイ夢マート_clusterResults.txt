@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハワイ夢マート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+種類, 違い
+cluster1:(3)
+気, こと, もの
+cluster2:(5)
+焼き鳥, 果物, 屋台, 肉, 温泉
+cluster3:(5)
+駅, 周辺, 道, 近隣, 日
+cluster4:(7)
+地場野菜, 東伯牛, 野菜, ☆野菜, 直売場, 緑黄色野菜, 直売所
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

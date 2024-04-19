@@ -1,0 +1,58 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR浜松町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ウォーターズ竹芝, 芝離宮恩賜庭園, 竹芝桟橋
+cluster1:(3)
+JR線, 羽田空港線, 山手線
+cluster2:(3)
+北口, JR, 改札
+cluster3:(7)
+駅, 東京駅, 乗り換え駅, 駅ビル, 大門駅, 徒歩, 浜松町駅
+cluster4:(1)
+JR浜松町駅
+cluster5:(1)
+駅ホー厶
+cluster6:(1)
+世界貿易センタービル
+cluster7:(2)
+小便小僧, 小便小僧くん
+cluster8:(5)
+東京モノレール, 東京, 京浜, 東京都区, 都
+cluster9:(2)
+羽田空港, 成田空港
+cluster10:(2)
+ビジネスマン, スーツケース
+cluster11:(2)
+エスカレーター, バリアフリー
+cluster12:(2)
+東京タワー, モノレール
+cluster13:(1)
+乗り換え
+cluster14:(1)
+プレート
+cluster15:(1)
+スムース
+cluster16:(1)
+楽しみ
+cluster17:(1)
+劇団四季
+cluster18:(1)
+ライト
+cluster19:(1)
+東北線
+cluster20:(1)
+増上寺
+cluster21:(1)
+スタンプラリー
+cluster22:(3)
+ホーム, 浅草線, 外回りホーム
+cluster23:(14)
+乗り換え口, ホーム端, 趣, 方, 目, 乗り換え側, 利用, 感じ, 片手, 側, 人, 移動バスターミナル, 印象, 暇
+cluster24:(20)
+施設, 海, 仕事終わり, 観, 観光, 学校, 傘, ビジネス街, 合羽, 飲食店, 衣装, 仕事, 梅雨時期, 田舎, 旅行, 鑑賞会, 桟橋, 劇場, 空港, 階段
+
+howmany entities : 80
+howmany clusters : 25
+howmany entities (more than1entities) : 80
+howmany clusters (more than1entities) : 25
+deleted 0entities.

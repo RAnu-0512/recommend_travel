@@ -1,0 +1,33 @@
+--------------------similar_words:聖徳記念絵画館--------------------
+top3 entities near to cluster0>>
+国会, 議事堂, 議会
+top3 entities near to cluster1>>
+建築, 現代, 建物
+top3 entities near to cluster2>>
+建造, 建築, 建物
+top3 entities near to cluster3>>
+かまう, 構える
+top3 entities near to cluster4>>
+絵画, 美術, 画家
+top3 entities near to cluster5>>
+並木, 銀杏, 五瓶
+top3 entities near to cluster6>>
+明治, 神宮, 大正
+top3 entities near to cluster7>>
+重厚感, 存在感, 重厚, 存在
+top3 entities near to cluster8>>
+迫力, 興味, 関心
+top3 entities near to cluster9>>
+構成, 中心, 存在
+top3 entities near to cluster12>>
+壁画, 建物, 広場
+top3 entities near to cluster13>>
+外見, 外観, 見た目
+top3 entities near to cluster14>>
+風景, 景色, 町並み
+top3 entities near to cluster15>>
+展示, 開館, 収蔵
+top3 entities near to cluster16>>
+場面, 文, 歴史
+top3 entities near to cluster17>>
+神宮, 外苑, 明治

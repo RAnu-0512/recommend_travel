@@ -1,0 +1,11 @@
+--------------------similar_words:田万川温泉憩いの湯--------------------
+top3 entities near to cluster0>>
+茶色, 緑色, 黄色
+top3 entities near to cluster2>>
+お湯, 湯, 温泉
+top3 entities near to cluster3>>
+内湯, 内風呂, 沸かし湯
+top3 entities near to cluster4>>
+濁り, 湯, お湯
+top3 entities near to cluster5>>
+注ぎ口, 注ぎ, 注ぐ

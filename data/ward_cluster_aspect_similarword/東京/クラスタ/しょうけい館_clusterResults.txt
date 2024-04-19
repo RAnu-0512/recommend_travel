@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しょうけい館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+カメラ撮影, 館内, 見学, 絵画, 入場プレゼント, 展示
+cluster1:(7)
+NHK, 家族, 九段下, 数々, 当事者, クリアファイル, 絆創膏
+cluster2:(2)
+証言, 戦争
+cluster3:(1)
+品々
+cluster4:(1)
+皇居
+cluster5:(1)
+情報番組
+cluster6:(3)
+移転オープン日, しょうけい館, 昭和館
+cluster7:(1)
+企画展冊子
+cluster8:(1)
+戦傷病者史料館
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

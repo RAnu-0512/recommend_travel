@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本平ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡県民, 東静岡駅, 静岡駅
+cluster1:(4)
+料理, 肉料理, 前菜, 魚料理
+cluster2:(25)
+アクセス, スタッフ, 結婚式, アフタヌーンティー, ランチ, 新幹線, ホテル, シェフ, 清水, タイミング, 雪, ガーデン, メイン, ビュッフェ, パノラマ, 富士山, 問い合わせ, 知り合い, アニバーサリー, 日本平, テラス, ドラマ, 清水港, パンケーキ, デザート
+cluster3:(2)
+送迎, シャトルバス
+cluster4:(2)
+景色, 絶景
+cluster5:(2)
+庭園, 庭
+cluster6:(8)
+事, テーマ曲, 顔, 憧れ, 感じ, 郷愁, 施設, 季節
+cluster7:(4)
+天候, 応対, 対応, 予約
+cluster8:(5)
+非日常, 時間帯, 時間, ロケ地, 代表番号
+
+howmany entities : 55
+howmany clusters : 9
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 6
+deleted 6entities.

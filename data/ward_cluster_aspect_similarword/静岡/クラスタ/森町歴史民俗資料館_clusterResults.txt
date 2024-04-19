@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森町歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+勉強, 蓮華寺, 昔, タイム, 雰囲気
+cluster1:(2)
+内部, 建物
+cluster2:(2)
+資料, 歴史
+cluster3:(1)
+明治
+cluster4:(3)
+建築物, 木造, 木造小学校
+cluster5:(6)
+駐車場, 生活用具, 入場料, 資料館, 駐車, 展示室
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 5entities.

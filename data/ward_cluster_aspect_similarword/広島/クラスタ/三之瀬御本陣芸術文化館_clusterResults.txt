@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三之瀬御本陣芸術文化館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+芸術文化館, 三之瀬御本陣芸術文化館
+cluster1:(2)
+要衝, 海上交通
+cluster2:(9)
+歴史, 途中, 巨匠, 旅, 瀬戸内海, 下蒲刈島, 事, こと, 場所
+cluster3:(4)
+本陣, 屋敷, 殿様, 三之瀬地区
+cluster4:(2)
+宿泊所, 案内役
+cluster5:(8)
+京都洋画壇, 江戸時代, 呉市, 須田国太郎, 朝鮮通信使, 江戸, 松濤園, 対馬藩
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新島ガラスアートセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+ガラス, グラス, 原料, 手形, グラス作り, 丸っこいグラス, 子供, 土産, グリーン, 体験, 旅, オリーブグリーン
+cluster1:(2)
+コーガ石, コーガ石ガラス
+cluster2:(2)
+新島, 新島ガラス
+cluster3:(6)
+色つけ, 色, 薄グリーン色, ガラス吹き体験, 発色ガラス, ガラス吹き
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

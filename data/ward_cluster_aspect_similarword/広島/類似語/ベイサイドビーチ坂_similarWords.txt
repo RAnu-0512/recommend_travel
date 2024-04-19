@@ -1,0 +1,25 @@
+--------------------similar_words:ベイサイドビーチ坂--------------------
+top3 entities near to cluster0>>
+設備, 施設
+top3 entities near to cluster2>>
+駅, 最寄駅, 駅前
+top3 entities near to cluster3>>
+クルマ
+top3 entities near to cluster4>>
+横水, 横, 土水, 土
+top3 entities near to cluster5>>
+電車, 新幹線, ＪＲ
+top3 entities near to cluster6>>
+国道, 県道, 旧道
+top3 entities near to cluster7>>
+穴場, 遠出, 散歩
+top3 entities near to cluster8>>
+海水, 海, 砂浜
+top3 entities near to cluster9>>
+アジ, メバル
+top3 entities near to cluster10>>
+夏, 海水浴, 冬
+top3 entities near to cluster11>>
+コイ, ワシ, ハツ
+top3 entities near to cluster12>>
+海水浴場, 駐車場, 駐車, 海水浴

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR静岡駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+商業施設, ビル, 観光客, ロケ地, 西武警察, 駅ビル
+cluster1:(18)
+静岡, NHK, 幼名, 都会, 姿, 人質, 新幹線, 大河ドラマ, あちこち, 地下道, 駅, 幼少期, 違い, 到着, 影響, 場所, 君像, 東海道線
+cluster2:(9)
+駿府城, JR静岡駅北口広場, 徳川家康公像, 竹千代, 家康, 竹千代君像, JR静岡駅, 家康公, 新静岡駅
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 3
+deleted 0entities.

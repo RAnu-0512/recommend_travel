@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヒロシマエバヤマザクラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+満開, 花見, 桜
+cluster1:(7)
+ソメイヨシノ, 山, 花びら, 人, ボリューム, 時期, 倍
+cluster2:(2)
+木, 道いっぱい
+cluster3:(1)
+枚数
+cluster4:(1)
+広島市
+cluster5:(1)
+樹齢
+cluster6:(1)
+江波山
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

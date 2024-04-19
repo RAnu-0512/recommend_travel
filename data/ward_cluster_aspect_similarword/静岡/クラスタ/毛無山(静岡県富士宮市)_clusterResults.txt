@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:毛無山(静岡県富士宮市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+山全体, 周辺, 雪, 山道, 山頂, 山頂周辺, 山麓, 富士宮市, 方面, 山
+cluster1:(21)
+気, ハイキングコース, 格好, 足腰, ハイキング, ナビ, 友人, 人, ススキ, 気持ち, 富士山, 朝霧高原, 景色, 自然, スポット, ふもと, 人気, 毛無山, 時代, スニーカー, 季節
+cluster2:(2)
+静岡百山, 日本200名山
+cluster3:(4)
+同乗者, 登山, 登山道, 登山者
+
+howmany entities : 37
+howmany clusters : 4
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 3
+deleted 2entities.

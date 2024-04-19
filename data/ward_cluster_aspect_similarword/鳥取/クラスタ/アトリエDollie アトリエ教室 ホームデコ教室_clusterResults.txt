@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アトリエDollie アトリエ教室 ホームデコ教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ペンギン, オーナメント
+cluster1:(1)
+娘
+cluster2:(1)
+先生
+cluster3:(1)
+色
+cluster4:(1)
+小学
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

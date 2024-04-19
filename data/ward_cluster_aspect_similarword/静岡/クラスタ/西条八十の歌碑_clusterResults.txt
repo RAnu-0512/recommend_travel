@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西条八十の歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+碑, 歌碑
+cluster1:(2)
+歌, 旅
+cluster2:(6)
+歴史, ヒロイン, 方, 近く, 物, ホテル
+cluster3:(1)
+私達
+cluster4:(1)
+お吉
+cluster5:(1)
+西条八
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 7entities.

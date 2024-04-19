@@ -1,0 +1,17 @@
+--------------------similar_words:黒田記念館--------------------
+top3 entities near to cluster0>>
+近代, 美術, 洋画
+top3 entities near to cluster1>>
+遺産, 遺言, 相続
+top3 entities near to cluster3>>
+一帯, 近辺, 建物
+top3 entities near to cluster4>>
+絵画, 作品
+top3 entities near to cluster6>>
+人達, ガイド
+top3 entities near to cluster7>>
+内容別, 一部別, 一部, 内容
+top3 entities near to cluster9>>
+素, 淮会, 焚糖
+top3 entities near to cluster10>>
+展示, 収蔵, 展覧

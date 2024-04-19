@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:実季楽農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+野菜, 畑
+cluster1:(4)
+自然, バーベキュー, イベント, 友達
+cluster2:(1)
+四季
+cluster3:(1)
+伊豆
+cluster4:(3)
+農園体験, 餅つき, 参加者
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 4entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:調布市武者小路実篤記念館・実篤公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+調布市武者小路実篤記念館, 武者小路実篤記念館蔵, 調布市武者小路実篤記念館・実篤公園
+cluster1:(2)
+池, 鯉
+cluster2:(4)
+地図アプリ, 場所, アクセス方法, こと
+cluster3:(2)
+此, 此人
+cluster4:(2)
+公園, 駅
+cluster5:(3)
+内部, 緑, 右
+cluster6:(9)
+バスターミナル, ベビーカー, 人, アクセス, 子供, ところ, 交差点, 突き当たり, 雰囲気
+cluster7:(2)
+言葉, 絵
+cluster8:(1)
+坂道
+cluster9:(1)
+エサやり
+cluster10:(11)
+武者小路実篤, 改札口, 駐車場, 小説家, 小説, 言ふ言葉, 信号機, 実篤公園, 住宅街, 記念館, 仙川駅
+cluster11:(3)
+中川一政書, 京王電鉄本線, 哲學者思想家乃至
+
+howmany entities : 43
+howmany clusters : 12
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 12
+deleted 0entities.

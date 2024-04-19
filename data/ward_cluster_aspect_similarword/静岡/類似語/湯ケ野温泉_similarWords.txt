@@ -1,0 +1,7 @@
+--------------------similar_words:湯ケ野温泉--------------------
+top3 entities near to cluster1>>
+温泉, 湯, 浴場
+top3 entities near to cluster2>>
+川橋, 山橋, 川, 山
+top3 entities near to cluster3>>
+趣, 趣き, 雰囲気

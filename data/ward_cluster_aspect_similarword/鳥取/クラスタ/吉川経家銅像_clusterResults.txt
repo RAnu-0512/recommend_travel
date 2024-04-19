@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉川経家銅像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+戦国, 戦国時代, 吉川経家
+cluster1:(27)
+家, 毛利, 懐柔, 銅像, 軍, 表現, 物語, 所, 遺書, 一軍, 援軍, 像, バス停, 秀吉, 名将, 兵, 武将, 人, 内容, もの, 開城, 自ら責任, 最後, 誘い, 公像, 引き替え, 自刃
+cluster2:(1)
+任命赴任
+cluster3:(7)
+兵糧攻め, 鳥取城, 鳥取城攻め, 鳥取, 鳥取城跡, 籠城戦, 鳥取駅
+
+howmany entities : 38
+howmany clusters : 4
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥の院公園「阿字苑」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+奥の院公園, 公園, 園内
+cluster1:(2)
+木々, 四季
+cluster2:(4)
+修禅寺, 視察, 目, 奥の院
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

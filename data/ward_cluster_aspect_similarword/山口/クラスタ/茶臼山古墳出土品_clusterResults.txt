@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:茶臼山古墳出土品>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+全長, 余裕, 上, 時間, 構造, 前方後円墳, 前方, 土, メイン
+cluster1:(2)
+建造, 古墳
+cluster2:(3)
+石, 白壁, 茶
+cluster3:(1)
+柳井
+cluster4:(1)
+街見物
+cluster5:(1)
+臼山古墳
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

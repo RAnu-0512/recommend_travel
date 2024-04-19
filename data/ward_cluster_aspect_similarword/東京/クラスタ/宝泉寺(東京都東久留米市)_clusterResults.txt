@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝泉寺(東京都東久留米市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+子育地蔵, 子育て地蔵, 地蔵, 十二支地蔵尊, 六角地蔵
+cluster1:(2)
+東京都, 埼玉県
+cluster2:(2)
+住宅, 住宅街
+cluster3:(15)
+昔, 場所, 隣, 家, 人, 待ち時間, ところ, 感じ, 境, 散歩, お参り, 参り, 雰囲気, 地元, 時代
+cluster4:(2)
+寺, 境内
+cluster5:(4)
+コインランドリー, 東久留米, 神, 東久留米七福神
+cluster6:(2)
+東久留米駅, バス
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 7
+deleted 0entities.

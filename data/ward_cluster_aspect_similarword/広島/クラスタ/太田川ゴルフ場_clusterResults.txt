@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太田川ゴルフ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+グリーン, パター
+cluster1:(1)
+スコア
+cluster2:(1)
+ゴルフコース
+cluster3:(1)
+相性
+cluster4:(1)
+太田川ゴルフ場
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

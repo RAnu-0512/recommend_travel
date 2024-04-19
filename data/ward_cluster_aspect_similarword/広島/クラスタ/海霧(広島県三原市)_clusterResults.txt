@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海霧(広島県三原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+筆影山, 三原の筆影山, 影山, 筆
+cluster1:(3)
+広島県, 三原市, 三次
+cluster2:(3)
+霧, 一面霧, 海霧
+cluster3:(2)
+寒い冬, 冬
+cluster4:(10)
+もの, 時期, 竜王山, 人々, 価値, 海, ラッキー, 場所, 風景, カップル
+cluster5:(1)
+観光客
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

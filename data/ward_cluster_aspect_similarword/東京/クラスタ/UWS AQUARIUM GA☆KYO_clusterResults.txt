@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:UWS AQUARIUM GA☆KYO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金魚たち, 金魚
+cluster1:(9)
+水族館, 写真, 入り口, エリア, 場所, 照明, 魚, 迫力, カップル
+cluster2:(1)
+内装演出
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

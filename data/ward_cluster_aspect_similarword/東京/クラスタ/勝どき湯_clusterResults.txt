@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝どき湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入浴料金, 別料金
+cluster1:(2)
+温度, バック式
+cluster2:(2)
+風呂, 銭湯
+cluster3:(7)
+汗, サウナ, 気, イベント帰り, サウナ利用, マンション, サイズ
+cluster4:(2)
+都, 地下
+cluster5:(3)
+賃貸マンション, 勝どき駅, 住宅街
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

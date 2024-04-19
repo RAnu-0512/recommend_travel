@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田安門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+門, 入口, 一角
+cluster1:(2)
+北, 国
+cluster2:(7)
+武道館, 北の丸公園, ところ, 人, 江戸城, 建物, 場所
+cluster3:(1)
+完成
+cluster4:(1)
+価値
+cluster5:(1)
+九段下駅
+cluster6:(1)
+丸北部
+cluster7:(3)
+現存唯一, 時代, 江戸時代
+cluster8:(5)
+八代将軍徳川吉宗, 田安, 徳川御三, 田安門, 江戸城の総構
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 6entities.

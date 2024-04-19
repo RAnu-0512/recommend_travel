@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玄岳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+大島, 熱海, 三保, 富士, 伊豆スカイライン, 裾野, 利島, 松原こんなにいっぺん
+cluster1:(5)
+玄岳, 登山, 玄岳ドライブイン, 山頂, 頂上
+cluster2:(2)
+感動, 景色
+cluster3:(4)
+車, 近く, 場所, 道
+cluster4:(4)
+ハイキング, 房総半島, パノラマ, ドライブイン
+cluster5:(2)
+富士山, 高尾山
+cluster6:(1)
+山
+cluster7:(1)
+己
+cluster8:(1)
+勾配
+cluster9:(1)
+駐車場
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 4
+deleted 8entities.

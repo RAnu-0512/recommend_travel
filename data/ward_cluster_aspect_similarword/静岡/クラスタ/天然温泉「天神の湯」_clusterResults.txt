@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天然温泉「天神の湯」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+磐田市, 磐田グランド
+cluster1:(9)
+気, 利用, こと, プライベート感, 人, 感じ, 話, 気分, 方
+cluster2:(15)
+客, アメニティグッズ, 宿泊, ホテル, 外, 女性, 露天風呂, アクアクララ, サウナ, ビジネスホテル, 男性, 中国, 偶然貸し切り, 天神, 施設
+cluster3:(1)
+旅行者
+cluster4:(9)
+温泉, 天然温泉, 温泉質, 肌, お湯, 風呂あがり, 風呂, 湯, 温度
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 3
+deleted 3entities.

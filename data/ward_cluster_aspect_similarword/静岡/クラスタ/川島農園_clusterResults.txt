@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川島農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+食べ放題, いちご狩り, イチゴ狩り
+cluster1:(2)
+駐車場, 路線バス
+cluster2:(2)
+美味しさ, 大きさ
+cluster3:(6)
+気, 貸し切り感, 事, 購入, 怪我, 感じ
+cluster4:(2)
+川島, ちご
+cluster5:(18)
+雨, 奥様, イチゴ, ハウス, 家族, バス停, 裏, 横, ジャム, 営業, ビニールハウス, 春休み, 自宅, 中, 孫, 建物, 場所, 我が家
+cluster6:(3)
+園長, 農園, 収穫
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 6entities.

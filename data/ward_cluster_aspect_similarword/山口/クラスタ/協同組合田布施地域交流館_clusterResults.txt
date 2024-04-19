@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:協同組合田布施地域交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+野菜, 果物
+cluster1:(1)
+地元
+cluster2:(2)
+田布施川, 田布施駅
+cluster3:(1)
+町産
+cluster4:(1)
+海産加工品
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

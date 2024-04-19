@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MRC乗馬クラブ広島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+送迎バス, 室内練習場
+cluster1:(14)
+広島, 雨, 転換, インストラクター, 動き, ボーゲン, 方, スキー, 気分, 場合, 初心者, 設備, スタッフ, チケット
+cluster2:(2)
+馬, 馬たち
+cluster3:(2)
+MRC乗馬クラブ, 乗馬
+cluster4:(1)
+滑車面
+cluster5:(1)
+爽快感
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 6
+deleted 0entities.

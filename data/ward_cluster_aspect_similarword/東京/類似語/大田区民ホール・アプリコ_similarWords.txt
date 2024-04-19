@@ -1,0 +1,25 @@
+--------------------similar_words:大田区民ホール・アプリコ--------------------
+top3 entities near to cluster1>>
+施設, 文化, 商業
+top3 entities near to cluster2>>
+座席, 席, 時間
+top3 entities near to cluster3>>
+駅, 東口, 徒歩
+top3 entities near to cluster4>>
+ホール, コンサートホール, イベント
+top3 entities near to cluster5>>
+ピアノ, バイオリン, ヴァイオリン
+top3 entities near to cluster6>>
+カフェ, コンサート, レストラン
+top3 entities near to cluster7>>
+練習場, 練習, 場裏
+top3 entities near to cluster8>>
+時間, 話, 時
+top3 entities near to cluster9>>
+大勢, 周り, 人達
+top3 entities near to cluster10>>
+昼, 夕方, 夜
+top3 entities near to cluster11>>
+区, 公園, 緑
+top3 entities near to cluster12>>
+音楽, 音響, 演劇

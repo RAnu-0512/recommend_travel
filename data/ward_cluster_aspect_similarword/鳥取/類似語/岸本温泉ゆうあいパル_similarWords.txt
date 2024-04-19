@@ -1,0 +1,17 @@
+--------------------similar_words:岸本温泉ゆうあいパル--------------------
+top3 entities near to cluster0>>
+受付, 検診, 営業
+top3 entities near to cluster1>>
+畳, 休憩, スペース
+top3 entities near to cluster3>>
+入り口, 入口, ふもと
+top3 entities near to cluster4>>
+内風呂, サウナ, 露天風呂
+top3 entities near to cluster5>>
+施設, 館内
+top3 entities near to cluster6>>
+ジム, 大山, パン
+top3 entities near to cluster7>>
+温泉, 露天風呂, 浴場
+top3 entities near to cluster8>>
+流し, 源泉

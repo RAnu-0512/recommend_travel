@@ -1,0 +1,21 @@
+--------------------similar_words:TOKYO RUSK 伊豆ファクトリー--------------------
+top3 entities near to cluster1>>
+おみやげ, 土産, 立ち寄り
+top3 entities near to cluster3>>
+ジュース, 飲み物, コーヒー
+top3 entities near to cluster5>>
+ラスク, パン, メロンパンラスク
+top3 entities near to cluster7>>
+体験, 体験談, 体感
+top3 entities near to cluster8>>
+体験, つくり
+top3 entities near to cluster10>>
+工場, 工程, 製造
+top3 entities near to cluster11>>
+限定, 数量, 期間
+top3 entities near to cluster13>>
+商品, 製品, 数量
+top3 entities near to cluster14>>
+土産, おみやげ, 土産物
+top3 entities near to cluster16>>
+直売

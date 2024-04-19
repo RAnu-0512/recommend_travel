@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なで牛>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 花見
+cluster1:(4)
+神社, 寺社, 参拝, 境内
+cluster2:(1)
+向島
+cluster3:(1)
+スカイツリー観光
+cluster4:(1)
+隅田公園
+cluster5:(2)
+あちこち撫, 撫
+cluster6:(2)
+牛, 撫で牛
+cluster7:(2)
+銅像, 像
+cluster8:(7)
+心, 頭, 顔, 体, 痛み, 心臓, 病気
+cluster9:(4)
+石造り, ところ, 牛島神社, ハート
+cluster10:(2)
+浅草寺, 御利益
+cluster11:(2)
+人, 中
+cluster12:(3)
+所, 側, 部分
+cluster13:(1)
+利益
+cluster14:(1)
+言問橋
+cluster15:(1)
+墨田区教育委員会
+
+howmany entities : 36
+howmany clusters : 16
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 16
+deleted 0entities.

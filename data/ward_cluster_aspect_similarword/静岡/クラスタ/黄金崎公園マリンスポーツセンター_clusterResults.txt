@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黄金崎公園マリンスポーツセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+魚, 魚達, 魚たち
+cluster1:(2)
+子供達, 孫たち
+cluster2:(4)
+方たち, 方達, 方々, 方
+cluster3:(3)
+体験者, 体験SUP, 体験
+cluster4:(2)
+家族, 夫婦
+cluster5:(2)
+人, 友達
+cluster6:(2)
+娘, 子供
+cluster7:(14)
+スタッフ, ロープ, ガイド, ダイビング, 持ち物, 思い出, 気持ち, SUP, 初ダイビング, シュノーケリングコース, ウェットスーツ, イメージ, インストラクター, シュノーケリング
+cluster8:(14)
+ダメ元, 持参, 疲れ, 値段, 対応, 禁止, 予約, ニコニコ感じ, 機会, 時間, 確認メール, 説明, 場所, 世話
+cluster9:(6)
+天候, 南国, 台風, 波, 天気, 陽気
+cluster10:(5)
+海SUP, 海はもちろん山, 空, 景色, 海
+cluster11:(1)
+透明度
+cluster12:(4)
+駐車場, ダム湖, 温水シャワー, シャワー室有
+
+howmany entities : 62
+howmany clusters : 13
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 8
+deleted 9entities.

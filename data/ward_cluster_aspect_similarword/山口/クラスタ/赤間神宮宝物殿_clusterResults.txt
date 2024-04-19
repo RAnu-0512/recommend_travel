@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤間神宮宝物殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+源平合戦図, 平家一門, 平家
+cluster1:(10)
+もの, 資料, 肖像画, 見ごたえ, 安徳天皇, 琵琶, フロア, 宝物殿, 屏風, 撮影
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

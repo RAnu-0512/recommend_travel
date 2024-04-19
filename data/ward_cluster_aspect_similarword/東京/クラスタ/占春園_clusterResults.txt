@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:占春園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+池, 森, 公園, 茗荷谷駅, 碑, 屋敷, 敷地, 大塚, 園内, 森公園
+cluster1:(3)
+閑散, 開園, 閉鎖
+cluster2:(2)
+暴風雨被害, 子供たち
+cluster3:(19)
+都会, 場所, 木々, 自然, 景色, 手入れ, 緑, 気持ち, 姿, 弟, 散歩, 教育, エリア, 緑地公園, 時間, こと, 居心地, 雰囲気, 環境
+cluster4:(3)
+自然派, 自然散策, 修復作業
+cluster5:(11)
+松平頼, 日本庭園, 東京都, 大名庭園, 占春園, 東京, 江戸3大庭園, 守山藩, 庭園, 江戸三大庭園, 文京区
+cluster6:(1)
+占春園(せんしゅんえん)
+
+howmany entities : 49
+howmany clusters : 7
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 7
+deleted 0entities.

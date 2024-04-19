@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡大神社「すだじぃ」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+すだじぃ, すだじい
+cluster1:(4)
+木, 椎, 神木, 大木
+cluster2:(10)
+神社, 表情, 人, 参拝, 前, 八幡前, 確か停留所, バス, 目, もの
+cluster3:(4)
+南口, 江戸時代, 徒歩, 三鷹駅
+cluster4:(1)
+八幡大神社
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

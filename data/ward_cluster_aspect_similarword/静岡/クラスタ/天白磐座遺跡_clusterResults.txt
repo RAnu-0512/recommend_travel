@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天白磐座遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+奇観, 巨石, 岩石
+cluster1:(10)
+こと, 裏, 上, 迫力, 中, 雰囲気, 場所, あたり, パワスポ, 他
+cluster2:(2)
+地面, 根
+cluster3:(4)
+森, 古代, 丘, 木
+cluster4:(8)
+駐車場, 祭祀, 祭祀遺跡, 井伊神社, 境内, 本殿, 古墳時代, 井伊谷宮
+
+howmany entities : 27
+howmany clusters : 5
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 2entities.

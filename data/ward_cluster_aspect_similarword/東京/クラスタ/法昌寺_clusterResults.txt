@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法昌寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+たこ八郎, 故・たこ八郎, こ八郎
+cluster1:(7)
+上野七福神, 下谷七福神, 下谷駅, 入谷駅, 台東区, 下谷, 入谷七福神
+cluster2:(17)
+たこ地蔵, 元ボクサー, 元プロボクサー, 場所, 俳優, 毘沙門堂, 毘沙門天, 地蔵, 本堂, 寺, 法昌寺, 地下鉄日比谷線, 菩提寺, 法華宗, 七福神, 一つ毘沙門天, 脇
+cluster3:(6)
+下町情緒, 法華宗寺院, 寺院, 寺院巡り, 参拝客, 住宅街
+
+howmany entities : 33
+howmany clusters : 4
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:京成電鉄町屋駅--------------------
+top3 entities near to cluster0>>
+京成線, 京成, 本線
+top3 entities near to cluster1>>
+路線, 駅, 鉄道
+top3 entities near to cluster2>>
+地下, 高架, 地上

@@ -1,0 +1,19 @@
+--------------------similar_words:鏡山公園--------------------
+top3 entities near to cluster0>>
+遊具, 運動, 広場
+top3 entities near to cluster2>>
+公園, 遊具, 広場
+top3 entities near to cluster3>>
+青池, 黄池, 青, 黄
+top3 entities near to cluster4>>
+花見, 桜, 八重桜
+top3 entities near to cluster5>>
+季節, 時期, 時季
+top3 entities near to cluster7>>
+子ども, 子供, 家族
+top3 entities near to cluster8>>
+子, ちゃん, 氏
+top3 entities near to cluster9>>
+駐車場, 駐車, 花見
+top3 entities near to cluster10>>
+ボー, ルドウィン, ダン

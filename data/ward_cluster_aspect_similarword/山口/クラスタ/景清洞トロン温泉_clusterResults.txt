@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:景清洞トロン温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風呂, 温泉
+cluster1:(2)
+満足, 状態
+cluster2:(2)
+施設, 建物
+cluster3:(7)
+仕事, ジャグジー, 種類, 露天風呂, スチームサウナ, 気持ち, 昼間
+cluster4:(1)
+客
+cluster5:(1)
+マッサージ機
+cluster6:(1)
+休憩スペース
+cluster7:(1)
+烏
+cluster8:(1)
+低温サウナ
+cluster9:(1)
+貸切状態
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 10
+deleted 0entities.

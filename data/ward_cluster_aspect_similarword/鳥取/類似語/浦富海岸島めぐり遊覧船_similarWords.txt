@@ -1,0 +1,77 @@
+--------------------similar_words:浦富海岸島めぐり遊覧船--------------------
+top3 entities near to cluster0>>
+遊覧船, 遊覧, 周遊船, 周遊
+top3 entities near to cluster1>>
+海岸, 砂浜, 沿岸
+top3 entities near to cluster2>>
+海岸線, 海岸
+top3 entities near to cluster3>>
+磯, 鴨, 浜
+top3 entities near to cluster6>>
+しぶき, 水しぶき, うねり
+top3 entities near to cluster7>>
+気持ち, 日差し, 思い出
+top3 entities near to cluster8>>
+コース, ルート, ガイド
+top3 entities near to cluster9>>
+アトラクション, 景色, 海沿い
+top3 entities near to cluster10>>
+兄さん, 小学生, 中学生
+top3 entities near to cluster11>>
+トーク, トゥ・ハー, ザット・トーク
+top3 entities near to cluster12>>
+クルーズ, フェリー, ボート
+top3 entities near to cluster13>>
+小回り, 融通, 取り回し
+top3 entities near to cluster14>>
+ブルー, グラス, グリーン
+top3 entities near to cluster15>>
+海, 海中, 水中
+top3 entities near to cluster16>>
+安全, 運転, 操縦
+top3 entities near to cluster17>>
+旅, 船旅, バス
+top3 entities near to cluster18>>
+座席, 席, 窓
+top3 entities near to cluster19>>
+子ども, 大勢
+top3 entities near to cluster20>>
+子供, 娘, 息子
+top3 entities near to cluster21>>
+家族, 親族
+top3 entities near to cluster22>>
+仕事, シゴト, 業務
+top3 entities near to cluster23>>
+お客, 外客, 乗客
+top3 entities near to cluster24>>
+会社, 運営, 企業
+top3 entities near to cluster25>>
+予約制, 予約, 受付
+top3 entities near to cluster26>>
+体験, 体験談, 体感
+top3 entities near to cluster27>>
+天気, 予報, 天候
+top3 entities near to cluster28>>
+勧め, 奨め, ススメ
+top3 entities near to cluster31>>
+日水, 土水, 日, 土
+top3 entities near to cluster34>>
+時間程度, 時間
+top3 entities near to cluster36>>
+間, 半年, か月
+top3 entities near to cluster37>>
+ほお, づえをつく, づえついて
+top3 entities near to cluster38>>
+迫力, 美しい, 力強い
+top3 entities near to cluster39>>
+奇岩, 洞窟, 地形
+top3 entities near to cluster40>>
+船長, 船員
+top3 entities near to cluster41>>
+大型, 小型, 中型
+top3 entities near to cluster42>>
+大型船, 小型船, 大型, 小型
+top3 entities near to cluster43>>
+船旅
+top3 entities near to cluster44>>
+乗船, 下船, 出航

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法華寺畑遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+倉吉市, 伯耆国府, 伯耆国分寺, 国府・国分寺・不入岡, 国分尼寺
+cluster1:(12)
+柱, 国庁, 入岡遺跡, 役所, 近く, 敷地, 遺跡巡り, トイレ, 跡, 国庁跡, 法華寺畑遺跡, 場所
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

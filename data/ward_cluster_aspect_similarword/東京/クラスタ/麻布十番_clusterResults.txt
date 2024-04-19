@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:麻布十番>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東洋英和女学院小学幼稚園, 東京都Xわんだふるぷりきゅあデジタルスタンプ
+cluster1:(32)
+紫陽花, 設置, 神社, 地, 散策, カメラ, 収得スポット, 人, 紫陽花まつり, 出口徒歩数分, 麻布台, 鉢植え, 感じ, 西麻布, 港区, 札, 高級車, 街, きみちゃん, 麻布十番, 名前, 芝公園, 麻布, 神社めぐり, 商店街, 麻布十番駅, 六本木, 神, 出口, 境内, 十番稲荷神社, 稲荷神社
+
+howmany entities : 34
+howmany clusters : 2
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 2
+deleted 0entities.

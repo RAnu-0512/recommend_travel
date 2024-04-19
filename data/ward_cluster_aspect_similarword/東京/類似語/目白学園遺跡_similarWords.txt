@@ -1,0 +1,13 @@
+--------------------similar_words:目白学園遺跡--------------------
+top3 entities near to cluster0>>
+資料室, 資料, 遺跡
+top3 entities near to cluster2>>
+見学, 徒歩, 視察
+top3 entities near to cluster3>>
+遺跡, 古墳, 遺蹟
+top3 entities near to cluster4>>
+構内, 駅, 大学
+top3 entities near to cluster5>>
+出土品, 出土, 品等
+top3 entities near to cluster6>>
+感染症, 感染, ウイルス

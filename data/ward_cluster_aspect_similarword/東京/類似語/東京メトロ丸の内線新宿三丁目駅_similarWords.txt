@@ -1,0 +1,13 @@
+--------------------similar_words:東京メトロ丸の内線新宿三丁目駅--------------------
+top3 entities near to cluster0>>
+地下, 通路, 地下道
+top3 entities near to cluster1>>
+駅店, 店舗, 駅
+top3 entities near to cluster2>>
+地下街, 伊勢丹, 地下道
+top3 entities near to cluster4>>
+駅線, 環状線, 環状, 駅
+top3 entities near to cluster6>>
+都営, メトロ, 都営地下鉄
+top3 entities near to cluster8>>
+都心, 駅, 丁目

@@ -1,0 +1,15 @@
+--------------------similar_words:山鹿素行の墓--------------------
+top3 entities near to cluster1>>
+墓所, 墓地
+top3 entities near to cluster2>>
+門弟, 兵法, 門人
+top3 entities near to cluster3>>
+弁天町, 早稲田, 歌島橋
+top3 entities near to cluster5>>
+山門, 寺, 本堂
+top3 entities near to cluster6>>
+石段, 石柱, 石碑
+top3 entities near to cluster7>>
+区, 区内, 都
+top3 entities near to cluster8>>
+素行, 史跡, 寺

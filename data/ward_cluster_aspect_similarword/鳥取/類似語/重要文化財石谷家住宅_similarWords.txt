@@ -1,0 +1,33 @@
+--------------------similar_words:重要文化財石谷家住宅--------------------
+top3 entities near to cluster0>>
+時代, 座敷, 幕末
+top3 entities near to cluster1>>
+庭園, 中庭, 庭
+top3 entities near to cluster2>>
+資料, 館, 駐車
+top3 entities near to cluster3>>
+商家, 土蔵, 旧家
+top3 entities near to cluster4>>
+邸宅, 豪邸, 部屋
+top3 entities near to cluster5>>
+建物, 建築, 家屋
+top3 entities near to cluster7>>
+大正, 明治, 平成
+top3 entities near to cluster8>>
+歴史, 時代
+top3 entities near to cluster9>>
+近代, 近世, 中世
+top3 entities near to cluster10>>
+雛, たつ
+top3 entities near to cluster13>>
+部分, 中心, 一部分
+top3 entities near to cluster14>>
+地元, 隣県, 地元民
+top3 entities near to cluster15>>
+風情, 町並み, 街並み
+top3 entities near to cluster16>>
+主屋, 主, 稼業
+top3 entities near to cluster17>>
+美しい, 素晴らしい, 力強い
+top3 entities near to cluster18>>
+文化財, 重要, 指定

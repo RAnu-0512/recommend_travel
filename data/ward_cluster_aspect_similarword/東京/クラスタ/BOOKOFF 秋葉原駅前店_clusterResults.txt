@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:BOOKOFF 秋葉原駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+品揃え, 探し物
+cluster1:(23)
+ゲーム, 新品, 本, 近隣, 値段, 精算, 種類, 立ち読み, 事, 都, 充実, イメージ, BOOKOFF, 印象, ブックオフ, 方, 査定, 購入, 中古, コーナー, もの, 半分, コミック
+cluster2:(15)
+高架下, 子ミツワ, 秋葉原駅, 古書, 店舗, 料金体制, 少年コミック, 大型店, 本屋, 駅, 電化製品, 秋葉原店, 前店, BOOKOFF 秋葉原駅, 店内
+
+howmany entities : 40
+howmany clusters : 3
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西国街道(広島県廿日市市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+西国街道, 街道, 宮島街道, 街道松
+cluster1:(3)
+江戸時代, 街並み保存地区, 徒歩圏
+cluster2:(6)
+廿日市, 寺, 廿日市駅, かす, 松, 神社
+cluster3:(21)
+北側, 歴史, 街並み, 宿, 建物, アクセス, ひとつ, 気, 車, 昔, 痕跡, 気分, 散策, 雰囲気, 空気, 一帯, 発見, 地域, こと, 抜け道, 場所
+cluster4:(5)
+国道, 道幅, 交通量, 道, 道路
+
+howmany entities : 39
+howmany clusters : 5
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ボニーベイ シーカヤックセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+インストラクター, ファミリー
+cluster1:(1)
+カヤック
+cluster2:(1)
+初心者
+cluster3:(1)
+オートキャンプ場
+cluster4:(1)
+伊上海浜公園
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

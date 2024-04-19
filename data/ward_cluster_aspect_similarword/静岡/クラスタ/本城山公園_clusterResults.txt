@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本城山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山頂, 山々, 山
+cluster1:(3)
+風情, 景色, 眺望
+cluster2:(12)
+こと, 全国, 人, アスレチック, 気持ち, 北条, 富士山, 駿河湾, 市街地, 上, 遊歩道, ふもと
+cluster3:(9)
+城型, 城跡, こどもの城, 城, 本城山公園, アスレチック遊具, 公園, 遊具, 憩い
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 0entities.

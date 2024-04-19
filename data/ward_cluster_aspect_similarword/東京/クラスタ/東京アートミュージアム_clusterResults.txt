@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京アートミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅地, 建築家
+cluster1:(19)
+作品, 建物, 空間, 感じ, 憩い, 芸術, 駅, 時間調整, 興味, 徒歩, 美術館, デザイン, 設計, 仙川, 雰囲気, 劇場, 受付, 東京アートミュージアム, 町
+cluster2:(1)
+安藤忠雄
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

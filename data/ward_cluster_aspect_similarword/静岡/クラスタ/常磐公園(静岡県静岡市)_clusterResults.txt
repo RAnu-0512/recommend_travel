@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常磐公園(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+街中, 数人
+cluster1:(3)
+飲み, 散策, 酒
+cluster2:(3)
+ところ, イルミネーション, 突き当り
+cluster3:(2)
+気持ち, 雰囲気
+cluster4:(1)
+中心地
+cluster5:(1)
+大道芸
+cluster6:(1)
+コインパーキング
+cluster7:(7)
+映画, 周辺, 会場, 時間, 公園, 場所, 中心
+cluster8:(1)
+徒歩
+cluster9:(4)
+噴水, 猛暑, 噴水ショー, 暑さ
+cluster10:(1)
+ロケ地
+cluster11:(2)
+静岡市, JR 静岡駅
+cluster12:(3)
+青葉通り, 青葉公園, 常盤公園
+
+howmany entities : 31
+howmany clusters : 13
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 5
+deleted 11entities.

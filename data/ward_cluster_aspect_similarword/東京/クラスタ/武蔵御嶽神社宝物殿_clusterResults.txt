@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵御嶽神社宝物殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+頂上, 山頂
+cluster1:(2)
+御岳山, 登山
+cluster2:(1)
+神社
+cluster3:(1)
+休憩
+cluster4:(1)
+国宝
+cluster5:(1)
+宝物館
+cluster6:(1)
+御嶽神社
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

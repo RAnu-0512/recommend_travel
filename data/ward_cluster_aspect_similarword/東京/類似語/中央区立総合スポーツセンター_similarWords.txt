@@ -1,0 +1,19 @@
+--------------------similar_words:中央区立総合スポーツセンター--------------------
+top3 entities near to cluster1>>
+区, 区内, 中央
+top3 entities near to cluster2>>
+区立, 区民, 区役所
+top3 entities near to cluster3>>
+北東, 方向, 南東
+top3 entities near to cluster4>>
+食堂, お客
+top3 entities near to cluster5>>
+態度, 悪口, 言動
+top3 entities near to cluster6>>
+職員, 女性, 男性
+top3 entities near to cluster7>>
+施設, 設備, 建物
+top3 entities near to cluster8>>
+小腹, コバラ, おなか
+top3 entities near to cluster9>>
+運動場, 競技場, 競技, 運動

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若桜町歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+たくみ, 銀行
+cluster1:(1)
+住宅
+cluster2:(1)
+移築
+cluster3:(1)
+百田
+cluster4:(1)
+資料館
+cluster5:(1)
+若桜支店
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

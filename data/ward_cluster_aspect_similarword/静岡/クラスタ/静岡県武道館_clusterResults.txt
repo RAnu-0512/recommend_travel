@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡県武道館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡県, 静岡県武道館, 藤枝市
+cluster1:(2)
+弓道場, 相撲場
+cluster2:(3)
+試合, 一般, 大会
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 2entities.

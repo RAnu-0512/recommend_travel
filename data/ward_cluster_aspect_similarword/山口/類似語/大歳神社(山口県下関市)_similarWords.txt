@@ -1,0 +1,17 @@
+--------------------similar_words:大歳神社(山口県下関市)--------------------
+top3 entities near to cluster0>>
+階段, 段数, 石段
+top3 entities near to cluster1>>
+戦勝, 境内, 神社
+top3 entities near to cluster2>>
+風情, 歴史, 景色
+top3 entities near to cluster3>>
+駅, 駅前, ビル
+top3 entities near to cluster5>>
+石碑, 目印, 影
+top3 entities near to cluster6>>
+段差, 直線, 直角
+top3 entities near to cluster8>>
+神社, 境内, 本殿
+top3 entities near to cluster9>>
+小路, 頼, 徳

@@ -1,0 +1,9 @@
+--------------------similar_words:奧浜名湖展望公園--------------------
+top3 entities near to cluster0>>
+展望, 公園, 入口
+top3 entities near to cluster1>>
+国道, 農道, 山道
+top3 entities near to cluster2>>
+景色, 高台, 車窓
+top3 entities near to cluster3>>
+禁止, 表示, 運転

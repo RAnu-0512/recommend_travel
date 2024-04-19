@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍華寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+徳川家ゆかり, 徳川家康, 紀伊徳川家初代当主
+cluster1:(6)
+創建, 上人, 本堂, 境内, 寺院, 寺
+cluster2:(2)
+風情, 景観
+cluster3:(3)
+庭園, 墓, 庭
+cluster4:(11)
+日蓮宗, ソテツ, 天然記念物, 茅葺き, サボテン, 駿河湾, 声, 雰囲気, 東京, 京都, 方
+cluster5:(1)
+寺務所
+cluster6:(4)
+茅葺屋根, 観富園, 樗牛, 龍華寺
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 3entities.

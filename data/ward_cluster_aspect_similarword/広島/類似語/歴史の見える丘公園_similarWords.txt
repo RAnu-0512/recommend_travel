@@ -1,0 +1,17 @@
+--------------------similar_words:歴史の見える丘公園--------------------
+top3 entities near to cluster0>>
+某, どこぞ, 当時
+top3 entities near to cluster1>>
+徒歩, 民家, 階段
+top3 entities near to cluster2>>
+歴史, 街並み, 町並み
+top3 entities near to cluster4>>
+予防, ハチ, 害虫
+top3 entities near to cluster5>>
+海道, ノブチカ, 街道
+top3 entities near to cluster6>>
+公園, 丘, 市立
+top3 entities near to cluster7>>
+撮影地, ロケ地, 撮影, ロケ
+top3 entities near to cluster8>>
+熱中症, 感染症, 熱中, 感染

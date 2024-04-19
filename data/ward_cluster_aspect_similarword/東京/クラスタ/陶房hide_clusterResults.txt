@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶房hide>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+きっかけ, 先生
+cluster1:(1)
+学校
+cluster2:(1)
+時間
+cluster3:(1)
+男性
+cluster4:(1)
+結論
+cluster5:(1)
+興味
+cluster6:(1)
+陶芸
+cluster7:(1)
+口調
+cluster8:(1)
+期間限定ポイント
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:陶芸の丘 想工房--------------------
+top3 entities near to cluster0>>
+時間, 制限, 日数
+top3 entities near to cluster1>>
+処理, 作業, 後処理
+top3 entities near to cluster3>>
+色合い
+top3 entities near to cluster4>>
+建物, 家屋, 建築
+top3 entities near to cluster5>>
+果て, 果てる, 挙げ句
+top3 entities near to cluster6>>
+気配, 兆し, 兆候
+top3 entities near to cluster7>>
+会話, 土, 日
+top3 entities near to cluster8>>
+体験, 飲み, 陶芸

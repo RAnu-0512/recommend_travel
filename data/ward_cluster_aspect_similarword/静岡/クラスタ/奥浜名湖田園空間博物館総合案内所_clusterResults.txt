@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥浜名湖田園空間博物館総合案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+甘味, 野菜, ミカンジャム, 柑橘, 果物
+cluster1:(2)
+土産, パン
+cluster2:(10)
+収集, ハチミツ, 博物館, パンフレット, 地元, ヨーグルト, 横, 人, 自宅, キンカン
+cluster3:(4)
+地域, 地域全体, 関所, 文化
+cluster4:(4)
+気賀関所, 地場産土産, 奥浜名湖田園空間博物館, 気賀駅
+
+howmany entities : 25
+howmany clusters : 5
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 2entities.

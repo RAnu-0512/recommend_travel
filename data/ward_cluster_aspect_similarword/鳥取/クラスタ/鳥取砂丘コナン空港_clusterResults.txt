@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取砂丘コナン空港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+一般駐車場, 臨時駐車場
+cluster1:(3)
+コナン空港, 送迎デッキ, 空港
+cluster2:(7)
+飛行機, 仕掛け, あちこち, トリックアート, クイズラリー, グッズショップ, コナン
+cluster3:(4)
+感じ, もの, 時間, 場所
+cluster4:(5)
+主人, 土産, 珈琲, 親, 娘
+cluster5:(4)
+GW, 年始, 鳥取, 東京
+cluster6:(1)
+登場キャラクター達
+cluster7:(1)
+早目
+cluster8:(1)
+スタンプラリー・謎解きクイズ
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:日比谷公園の梅--------------------
+top3 entities near to cluster0>>
+花心, 花, 植物
+top3 entities near to cluster1>>
+時期, 日, 時
+top3 entities near to cluster2>>
+公園, 駅, 噴水
+top3 entities near to cluster3>>
+満開, 桜, 開花
+top3 entities near to cluster4>>
+薄, 紅色, 薄い

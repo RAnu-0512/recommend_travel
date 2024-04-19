@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線 神谷町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+ラッシュ, オフィス, 運動, 工事, 東京タワー, 付近, 日比谷線, 周辺, 展開, 単独
+cluster1:(2)
+石段, 出世
+cluster2:(1)
+東京メトロ
+cluster3:(12)
+神社, 神谷町駅, 観光地, 赤羽橋, 駅, 愛宕神社, 飲食店, ビル, 御成門駅, 乗換駅, 乗り換え駅, 駅ビル
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

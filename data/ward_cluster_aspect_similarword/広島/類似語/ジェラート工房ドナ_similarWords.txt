@@ -1,0 +1,11 @@
+--------------------similar_words:ジェラート工房ドナ--------------------
+top3 entities near to cluster0>>
+高原, 赤来, 神石
+top3 entities near to cluster1>>
+牧場, 農場, 農園
+top3 entities near to cluster2>>
+山羊, ヤギ, 羊
+top3 entities near to cluster3>>
+子供, 子ども, ワン
+top3 entities near to cluster5>>
+外客, 乗客, 名所

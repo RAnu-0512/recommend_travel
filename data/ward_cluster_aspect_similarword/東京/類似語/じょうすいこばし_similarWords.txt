@@ -1,0 +1,9 @@
+--------------------similar_words:じょうすいこばし--------------------
+top3 entities near to cluster1>>
+舞台, 上演, 演劇
+top3 entities near to cluster2>>
+水面, 海面, 湖面
+top3 entities near to cluster4>>
+上水, 水道, 下水
+top3 entities near to cluster5>>
+短, 編集長, 短長, 編集

@@ -1,0 +1,27 @@
+--------------------similar_words:海とくらしの史料館--------------------
+top3 entities near to cluster0>>
+駅前, 海岸, 駅
+top3 entities near to cluster1>>
+館, 資料, 展示
+top3 entities near to cluster2>>
+魚類, フグ
+top3 entities near to cluster3>>
+子供, 子ども, 大人
+top3 entities near to cluster4>>
+駅, 終点, バス
+top3 entities near to cluster5>>
+水族館, 生き物, 深海魚
+top3 entities near to cluster7>>
+人相手, 人相
+top3 entities near to cluster8>>
+海水, 海, 海水
+top3 entities near to cluster9>>
+勉強, 使う
+top3 entities near to cluster10>>
+昔, 中心, 地味
+top3 entities near to cluster11>>
+迫力, 見ごたえ, 見応え
+top3 entities near to cluster12>>
+歯, 前歯, みがけよ
+top3 entities near to cluster13>>
+はく, せい, すい

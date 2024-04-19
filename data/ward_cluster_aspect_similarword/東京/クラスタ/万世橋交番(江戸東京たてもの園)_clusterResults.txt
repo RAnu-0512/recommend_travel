@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:万世橋交番(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+秋葉原, つくり, たもと
+cluster1:(2)
+時代, 昔
+cluster2:(1)
+建物
+cluster3:(1)
+明治
+cluster4:(1)
+交番
+cluster5:(3)
+神田の万世橋, 神田をつなぐ万世橋, 江戸東京たてもの園
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

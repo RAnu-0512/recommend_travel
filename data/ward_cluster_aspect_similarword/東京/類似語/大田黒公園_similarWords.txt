@@ -1,0 +1,51 @@
+--------------------similar_words:大田黒公園--------------------
+top3 entities near to cluster0>>
+デート, カップル, カメラ
+top3 entities near to cluster1>>
+ライト, シート, アップ
+top3 entities near to cluster2>>
+入り口, 出入り口, 入口
+top3 entities near to cluster3>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster4>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster5>>
+アトリエ, 仕事場, コンサート
+top3 entities near to cluster6>>
+手入れ, メンテナンス, ブラッシング
+top3 entities near to cluster7>>
+桜, モミジ, イチョウ
+top3 entities near to cluster8>>
+黄色, 紫色
+top3 entities near to cluster11>>
+木々, 水面
+top3 entities near to cluster12>>
+中庭, 庭園, 敷地
+top3 entities near to cluster13>>
+駅, 徒歩, 南口
+top3 entities near to cluster14>>
+正門, 入口
+top3 entities near to cluster15>>
+館, 記念, 記念碑
+top3 entities near to cluster16>>
+休憩室, 期間, 休憩
+top3 entities near to cluster17>>
+人達, 雰囲気, 風景
+top3 entities near to cluster18>>
+紅葉, 並木, 桜
+top3 entities near to cluster20>>
+回遊式, 回遊, 庭園
+top3 entities near to cluster21>>
+庭園, 公園, 中庭
+top3 entities near to cluster22>>
+庭園, 中庭, 庭
+top3 entities near to cluster23>>
+由緒, 庭園, 和風
+top3 entities near to cluster24>>
+公園, 屋敷, 城址
+top3 entities near to cluster25>>
+無料, 入場, 入園
+top3 entities near to cluster26>>
+入園料, 入場料, 入場, 入園
+top3 entities near to cluster27>>
+音楽家, 評論家, 評論, 音楽

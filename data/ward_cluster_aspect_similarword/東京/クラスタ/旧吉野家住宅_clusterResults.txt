@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧吉野家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+家, 見学, 都指定, チョットUターン, タイム, 囲炉裏, 茅葺き屋根, 看板
+cluster1:(2)
+社会科, 江戸時代
+cluster2:(1)
+古民家
+cluster3:(1)
+有形文化
+cluster4:(1)
+青梅街道
+cluster5:(1)
+藁葺き屋根
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

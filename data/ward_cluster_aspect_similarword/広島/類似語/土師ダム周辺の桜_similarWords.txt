@@ -1,0 +1,23 @@
+--------------------similar_words:土師ダム周辺の桜--------------------
+top3 entities near to cluster1>>
+サイクリング, 遊歩道, 自転車
+top3 entities near to cluster2>>
+季節, 時期, 春
+top3 entities near to cluster4>>
+時車, 時間, 時
+top3 entities near to cluster5>>
+家族, 友人
+top3 entities near to cluster6>>
+周辺, 周り, 近辺
+top3 entities near to cluster7>>
+子供, 家族, 友達
+top3 entities near to cluster8>>
+がい者, 利用者, がい, 利用
+top3 entities near to cluster9>>
+花見, 公園, 名所
+top3 entities near to cluster10>>
+ダム, ダムサイト, 小里川
+top3 entities near to cluster11>>
+湖, ダム, 湖畔
+top3 entities near to cluster13>>
+桜, 並木, 広場

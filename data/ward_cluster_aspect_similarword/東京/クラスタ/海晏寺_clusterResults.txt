@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海晏寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青物横丁駅, 青物横丁
+cluster1:(2)
+国道沿い, 国道
+cluster2:(4)
+寺後方, 墓, 寺院, 寺
+cluster3:(2)
+海岸近く, 京浜急行線
+cluster4:(11)
+あんじ, 丘, 前庭, 品川, 京浜急行, 左, 名前, 上, 海, 中間, 公
+cluster5:(2)
+鮫洲駅, 岩倉具視
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

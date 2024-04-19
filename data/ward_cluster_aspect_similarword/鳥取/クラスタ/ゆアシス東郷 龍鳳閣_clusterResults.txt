@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆアシス東郷 龍鳳閣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+スライダー, 中国, 建築, 海水浴, マナー, ウォータースライダー, スポット, ジム, 洗い場, 運動, 近隣, 人, アシス, 地元民, プール, 昭和, 雰囲気, それぞれ, ロケーション
+cluster1:(8)
+因縁, 感じ, 気, 印象, こと, 目的, 本音, 不満
+cluster2:(5)
+制限, 対応, 空き, 時間, 混雑
+cluster3:(1)
+場所取り
+cluster4:(10)
+娘たち, 男児, 女性客, 年齢, 大人, 客層, 年齢制限, 子供, 男女, 娘
+cluster5:(4)
+東郷温泉街, 東郷湖, 東郷温泉, 東郷
+cluster6:(3)
+水着着用, 水着無し, 水着
+cluster7:(5)
+施設側, 屋内施設, 更衣室, 施設, 入浴施設
+cluster8:(2)
+温水, 温水プール
+cluster9:(2)
+温泉, 湯
+cluster10:(2)
+風呂, 風呂側
+cluster11:(1)
+中華風
+cluster12:(1)
+裸専用風呂
+cluster13:(1)
+公衆浴場
+
+howmany entities : 64
+howmany clusters : 14
+howmany entities (more than1entities) : 64
+howmany clusters (more than1entities) : 14
+deleted 0entities.

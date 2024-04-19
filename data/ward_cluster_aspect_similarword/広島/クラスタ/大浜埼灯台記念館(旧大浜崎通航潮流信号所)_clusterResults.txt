@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大浜埼灯台記念館(旧大浜崎通航潮流信号所)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大浜埼, 因島大橋
+cluster1:(9)
+背景, 写真, 灯台, 建物, 閉館, 記念館, 位置関係, 空撮機材, 後ろ側
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

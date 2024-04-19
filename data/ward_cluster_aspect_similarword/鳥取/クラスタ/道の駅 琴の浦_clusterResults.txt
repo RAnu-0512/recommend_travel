@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 琴の浦>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+魚貝類, 魚介料理
+cluster1:(3)
+販売, 購入, 利用
+cluster2:(11)
+海産物, 農産物, 野菜, 海, コロッケ, レストラン, 買い物, 土産物, デザインマンホール, 日本海, 食事
+cluster3:(2)
+駅, 道
+cluster4:(3)
+地元, 知人, 人
+cluster5:(2)
+此処, 場所
+cluster6:(1)
+人気
+cluster7:(1)
+浦
+cluster8:(8)
+海産物店, 工事, 土産品, 土産, 工事期間, 冷凍品, 駐車場, 鬼しじみ
+cluster9:(11)
+東郷湖, 琴浦町, 山陰, 赤碕漁港, 島根県, 琴浦町観光協会, 駅琴, 琴浦IC, 米子道, 鳥取県, 山陰自動車道
+
+howmany entities : 44
+howmany clusters : 10
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:淵ケ平の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+滝壺, 滝
+cluster1:(2)
+中, 田んぼ
+cluster2:(1)
+道
+cluster3:(1)
+標識
+cluster4:(1)
+駐車場
+cluster5:(1)
+淵ケ平
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

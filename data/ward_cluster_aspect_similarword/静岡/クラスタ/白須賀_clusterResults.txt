@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白須賀>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+広重, 本陣, 白須賀宿, 宿場
+cluster1:(18)
+目, 家屋, 途中, 顔, 弧線, 海沿い, 白須賀, 景観, 窪地, 上, 海, 高台, 元, 場所, 東海道, 津波, 絶景, 道
+cluster2:(3)
+新宿場, 浜松, 酒小
+cluster3:(3)
+街道沿い, 脇本陣, 水平線
+cluster4:(1)
+おんやど白須賀
+cluster5:(5)
+汐見坂, 沢潟(おもだか)屋, 白須賀 汐見阪図, 保永堂版 東海道五拾三次, 東海道32番目の宿場.
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 1entities.

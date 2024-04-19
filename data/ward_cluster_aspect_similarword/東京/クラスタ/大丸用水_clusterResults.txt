@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大丸用水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+多摩川, 歴史, 時期, 水, 大丸, 流れ, 蓋
+cluster1:(4)
+支流, 水路, 農業用水路, 水辺
+cluster2:(1)
+村々
+cluster3:(3)
+大丸用水, 稲城市, 用水
+cluster4:(1)
+江戸時代初期
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

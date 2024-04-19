@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白壁の町並み(柳井市古市金屋地区伝統的建造物群保存地区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光地, 観光客
+cluster1:(2)
+駐車場, 格子窓
+cluster2:(29)
+うなぎ, 町並み, 灯り, 街並み, スポット, 柳井川, 図書館, 盆, 江戸時代, 軒先, 北側, 金魚, 白壁, 奥行き, 寝床, 祭り, 国, 町, 納戸, 雰囲気, 町割り, 商家, 商人, 時代, 提灯, 人, 室町, 地域, 通り
+cluster3:(7)
+岩国藩, 古市金屋地区, 金魚ちょうちん, 柳井, 金魚ちょうちん祭, 柳井駅, 白壁町屋
+cluster4:(1)
+建造物群保存地区
+
+howmany entities : 41
+howmany clusters : 5
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 5
+deleted 0entities.

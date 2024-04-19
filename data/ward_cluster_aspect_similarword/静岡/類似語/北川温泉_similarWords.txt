@@ -1,0 +1,11 @@
+--------------------similar_words:北川温泉--------------------
+top3 entities near to cluster0>>
+岩, 黒根, 風呂
+top3 entities near to cluster1>>
+景色, 海沿い, 風情
+top3 entities near to cluster2>>
+風呂, 入浴, 公共
+top3 entities near to cluster3>>
+食事, 風呂, 料理
+top3 entities near to cluster4>>
+温泉, 旅館, 宿

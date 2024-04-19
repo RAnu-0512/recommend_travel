@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中野の犬屋敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+生類憐み, 生類憐れみ, 生類憐みの令
+cluster1:(2)
+お囲い御用屋敷, 囲い御用屋敷
+cluster2:(30)
+場所, 令, 犬たち, 当時犬屋敷, 昔犬, 感じ, 将軍, カラフト犬像, 跡地, モニュメント, 犬, 犬屋敷, 駅, そば, 江戸, 名残, 野犬, 保護施設, 屋敷, 前, 銅像, 像, 最寄り, 歴史, 観光スポット, こと, 石像, 方, 時代, 辺り
+cluster3:(3)
+徳川, 徳川5, 徳川時代
+cluster4:(2)
+綱吉, 徳川綱吉
+cluster5:(4)
+中野駅, 中野, 中野区, 中野区役所
+cluster6:(2)
+良き中野, 古き良き中野
+cluster7:(1)
+江戸幕府5代将軍徳川綱吉
+
+howmany entities : 47
+howmany clusters : 8
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 8
+deleted 0entities.

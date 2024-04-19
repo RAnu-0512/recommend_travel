@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竜崎遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ウォーキング, スポット
+cluster1:(1)
+遊歩道
+cluster2:(1)
+夕暮れ
+cluster3:(1)
+サンシャインロード
+cluster4:(1)
+夕日
+cluster5:(1)
+竜崎半島
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

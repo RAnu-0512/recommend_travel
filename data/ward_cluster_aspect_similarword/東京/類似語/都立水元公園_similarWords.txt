@@ -1,0 +1,45 @@
+--------------------similar_words:都立水元公園--------------------
+top3 entities near to cluster1>>
+機会, 姿, 場面
+top3 entities near to cluster2>>
+持参, 用意, 渡す
+top3 entities near to cluster4>>
+だり, でる, だら
+top3 entities near to cluster5>>
+広い, 聴係, 聴室
+top3 entities near to cluster6>>
+花菖蒲, 彼岸花, 紫陽花
+top3 entities near to cluster7>>
+サイクリング, ウォーキング, 河川敷
+top3 entities near to cluster8>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster9>>
+レベル, ぐらい, くらい
+top3 entities near to cluster10>>
+聖地, 発祥, 総本山
+top3 entities near to cluster11>>
+水遊び, 釣り堀, 川遊び
+top3 entities near to cluster12>>
+自転車, サイクル, レンタル
+top3 entities near to cluster13>>
+子連れ, 子育て, 育児
+top3 entities near to cluster14>>
+シート, レジャー, パッセンジャーシート
+top3 entities near to cluster15>>
+家族, 子供, 人達
+top3 entities near to cluster16>>
+子供, 子ども, 親達
+top3 entities near to cluster18>>
+四季, 移ろい, 季節
+top3 entities near to cluster19>>
+紅葉, 並木, 桜
+top3 entities near to cluster20>>
+木々, 水辺, 自然
+top3 entities near to cluster21>>
+用水, 用水路, かんがい
+top3 entities near to cluster22>>
+菖蒲園, 菖蒲, 花菖蒲園, 花菖蒲
+top3 entities near to cluster23>>
+公園, 広場, 遊歩道
+top3 entities near to cluster24>>
+駐車, バス, 公共

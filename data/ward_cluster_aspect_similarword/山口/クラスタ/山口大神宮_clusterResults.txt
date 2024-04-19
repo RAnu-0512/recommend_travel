@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口大神宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(33)
+進行, 雪, 事項記載, 受付, 言い方, 位置, 流れ, 気力, 最後, 西, 他, きっかけ, 伊勢神宮, 車, 気, 場所, 目線, 元, パワースポット, 神, 口調, 受付け, 女性, 向き, 雰囲気, 物, 口コミ, 事, 方, 山口大, 人, 初め, 気持ち
+cluster1:(3)
+山口県庁, 美東サービスエリア, 山口駅
+cluster2:(3)
+外宮, 内宮, 伊勢
+cluster3:(3)
+参道, 階段, 石段
+cluster4:(3)
+神社, 神宮, 宮司
+cluster5:(3)
+参拝, 初詣, 祈願
+cluster6:(1)
+玉串
+cluster7:(1)
+駐車場
+cluster8:(1)
+礼儀作法
+
+howmany entities : 51
+howmany clusters : 9
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 9
+deleted 0entities.

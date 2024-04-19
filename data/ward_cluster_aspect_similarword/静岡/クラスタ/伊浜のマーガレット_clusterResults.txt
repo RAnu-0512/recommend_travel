@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊浜のマーガレット>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡県, 日本有数
+cluster1:(6)
+マーガレット, 産地, 伊浜, 風景, 花, マーガレット狩り
+cluster2:(3)
+南伊豆町, 伊浜海岸, 松崎町
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

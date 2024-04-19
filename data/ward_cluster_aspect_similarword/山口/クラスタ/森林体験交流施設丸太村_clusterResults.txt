@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森林体験交流施設丸太村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+宿泊施設, 施設内容, 調理施設
+cluster1:(8)
+自然, 地元, バーベキュー, バス, ログハウス造り, キャンプ, 場所, バンガロー
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

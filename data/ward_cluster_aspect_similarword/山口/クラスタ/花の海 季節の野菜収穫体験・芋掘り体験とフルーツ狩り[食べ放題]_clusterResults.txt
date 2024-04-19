@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花の海 季節の野菜収穫体験・芋掘り体験とフルーツ狩り[食べ放題]>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+苗, 野菜
+cluster1:(6)
+客, 花, 施設, コース, 人気, ブルーベリー
+cluster2:(1)
+女性同士
+cluster3:(5)
+フルーツ狩り, イチゴ狩り, イチゴ狩り体験, ブルーベリー狩り, 食べ放題
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

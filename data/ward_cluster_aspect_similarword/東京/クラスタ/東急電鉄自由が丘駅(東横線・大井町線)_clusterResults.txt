@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急電鉄自由が丘駅(東横線・大井町線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歩行者天国, 旅行パン屋, 乗降客数
+cluster1:(2)
+大井町, 大井町線
+cluster2:(2)
+テント, コスメ
+cluster3:(2)
+ロータリー, 乗り換え
+cluster4:(2)
+自由が丘, 田園都市線
+cluster5:(1)
+ホーム
+cluster6:(1)
+雰囲気
+cluster7:(1)
+世田谷
+cluster8:(1)
+スープストック
+cluster9:(1)
+チーズケーキ
+cluster10:(3)
+光景, 感じ, 記憶
+cluster11:(7)
+人, 一部, 人気, 前, 時間, 周り, 周辺
+cluster12:(3)
+祭り, 散策, 屋台
+cluster13:(7)
+店, 店舗, 街, 方面, 会社, 道路, 広報
+cluster14:(1)
+特急
+cluster15:(1)
+活気
+cluster16:(3)
+目黒, 区, 横浜
+cluster17:(4)
+駅, 渋谷駅, 構内, 乗り換え駅
+cluster18:(1)
+正面口
+cluster19:(1)
+東急・東横線
+
+howmany entities : 47
+howmany clusters : 20
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 20
+deleted 0entities.

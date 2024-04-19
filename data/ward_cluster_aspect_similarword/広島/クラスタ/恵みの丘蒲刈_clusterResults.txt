@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恵みの丘蒲刈>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+いちご狩りスタート, いちご狩り, 完熟いちご, 桃薫, 桃
+cluster1:(9)
+酢, 味, 香り, 天気, 薫り, ビニル袋, 刺身, 景色, 恵み
+cluster2:(2)
+回答, 説明
+cluster3:(2)
+電話, 予約
+cluster4:(4)
+日時, 種類, 時間, 場所
+cluster5:(14)
+子供, 入口, ランチ, 最後, 男性, パン, ほとんど, イチゴ, いちご, 裏庭, 芝生, 棟, レストラン, ハウス
+cluster6:(1)
+蒲刈
+cluster7:(1)
+予約制
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 8
+deleted 0entities.

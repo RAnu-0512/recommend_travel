@@ -1,0 +1,9 @@
+--------------------similar_words:舟茶屋 ニューオータニイン東京--------------------
+top3 entities near to cluster0>>
+デザート, 食後, サラダ
+top3 entities near to cluster1>>
+置き, 置く
+top3 entities near to cluster2>>
+食材, 食器, 野菜
+top3 entities near to cluster3>>
+満足感, 満足, 喜び

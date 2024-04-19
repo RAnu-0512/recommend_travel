@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立殿ヶ谷戸庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+日本庭園, 殿ケ谷戸庭園, 庭園, 都立庭園, 回遊式庭園, 三菱財閥
+cluster1:(6)
+崖線, 南口, JR, 駅, 徒歩わずか, 国分寺駅
+cluster2:(2)
+花, 花々
+cluster3:(2)
+三菱, 岩崎
+cluster4:(2)
+池, 松
+cluster5:(2)
+竹林, 美
+cluster6:(2)
+閑静, 厳粛
+cluster7:(23)
+季節, 周囲, 店, 場所, オススメ, 多く, 国分寺, 家, 公園, アクセス, 距離, 近く, 感じ, 夫婦, 時期, 印象, 中, こと, 真冬, がいせん, 雰囲気, 目, 展示
+cluster8:(6)
+樹木, 景色, 地形, 小道, 風情, 起伏
+cluster9:(11)
+雪吊り, 高低差, 紅葉亭, 紅葉, 巻き方, 鹿脅し, 来園者, 紅葉シーズン, 入園料, 紅葉スポット, 冬囲い
+cluster10:(1)
+凛とした空気
+
+howmany entities : 63
+howmany clusters : 11
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 11
+deleted 0entities.

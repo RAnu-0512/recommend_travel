@@ -1,0 +1,7 @@
+--------------------similar_words:薬王院のボタン--------------------
+top3 entities near to cluster0>>
+降る雪, 降る雨, 降る
+top3 entities near to cluster1>>
+花, お花, 牡丹
+top3 entities near to cluster2>>
+寒暖差, 寒暖, 温度差, 温度

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝どき駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+地上, 改札, 方面, 出口
+cluster1:(4)
+思い, 感じ, 印象, 注意
+cluster2:(10)
+待ち合わせ, タワーマンション, スーパー, アクセス, 住環境, 都営地下鉄, トリトンスクエア, 飲み屋, ホーム, 勝鬨橋
+cluster3:(7)
+店, 場所, 人, また屋形船, 意外, ラッシュ時, 方
+cluster4:(5)
+隣, 間, 周り, 外, 周辺
+cluster5:(14)
+勝どき駅, 築地, バス路線, 路線, 駅, 東京駅, 築地市場, 駅周辺, 飲食店, 江戸線, 勝どき橋, 月島, 都営, 駅名
+
+howmany entities : 44
+howmany clusters : 6
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 6
+deleted 0entities.

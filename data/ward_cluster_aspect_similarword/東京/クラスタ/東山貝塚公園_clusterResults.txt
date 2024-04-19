@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東山貝塚公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+竪穴式, 竪穴住居
+cluster1:(4)
+公園, 坂, 池尻大橋駅, 池
+cluster2:(9)
+解説, 東山公園, 途中, こと, 中, 雰囲気, 通り, 田園都市線, 住居
+cluster3:(1)
+住宅街
+cluster4:(1)
+東山貝塚
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

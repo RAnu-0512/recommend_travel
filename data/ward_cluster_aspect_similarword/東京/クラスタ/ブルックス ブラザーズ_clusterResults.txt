@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブルックス ブラザーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+フラッグショップ, ブランドショップ
+cluster1:(3)
+ブルックス, ブルックスブラザーズ, ブラザーズ
+cluster2:(2)
+プレゼント, クリスマス
+cluster3:(2)
+デザイン, ブランド
+cluster4:(1)
+ネクタイ
+cluster5:(1)
+ショッピングストリート
+cluster6:(1)
+丸の内
+cluster7:(1)
+主人
+cluster8:(3)
+心, 感じ, 印象
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 9
+deleted 0entities.

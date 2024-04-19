@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松崎マリーナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+イメージ, マリーナ, ヨット
+cluster1:(2)
+東伊豆, 西伊豆
+cluster2:(1)
+那賀川
+cluster3:(1)
+鉄道
+cluster4:(1)
+街松崎
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竜洋海洋公園レストハウスしおさい竜洋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+妻, 隣, レストラン, 時期, キャベツ, オートキャンプ, キャンプ, 芽キャベツ, アスレチック, ソファー, 近く, 夏場, 話, 爺さん, バーベキュー, レストハウス, ほう, 方々
+cluster1:(4)
+キャンプ客, お値打ち, 野菜, 食事
+cluster2:(1)
+人工
+cluster3:(1)
+ホカホカ感
+cluster4:(12)
+休憩, 温泉, 休憩室, 入浴料, オートキャンプ場, 女性風呂, キャンプ場, 入浴, 再入浴, 露天, 浴場, 風呂
+cluster5:(1)
+竜洋海洋公園
+
+howmany entities : 37
+howmany clusters : 6
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 3
+deleted 3entities.

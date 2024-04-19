@@ -1,0 +1,35 @@
+--------------------similar_words:港の朝市--------------------
+top3 entities near to cluster0>>
+味噌汁, みそ汁, 吸い物
+top3 entities near to cluster2>>
+ホテル, テレビ, 母さん
+top3 entities near to cluster3>>
+目当て, 代わり, おまけ
+top3 entities near to cluster6>>
+オススメ, おすすめ, もってこい
+top3 entities near to cluster11>>
+食べ物, お菓子, おみやげ
+top3 entities near to cluster13>>
+値段, 品数
+top3 entities near to cluster14>>
+補充, 販売, 終了
+top3 entities near to cluster17>>
+渋滞, 対策, 電車
+top3 entities near to cluster21>>
+和菓子屋, パン屋, パン, 和菓子
+top3 entities near to cluster23>>
+野菜, 食材, 果物
+top3 entities near to cluster24>>
+干物, 鯛
+top3 entities near to cluster26>>
+漁港, 旅館, 温泉
+top3 entities near to cluster27>>
+名物, 名産, 地元
+top3 entities near to cluster30>>
+味噌, 出汁, 漬物
+top3 entities near to cluster31>>
+ご飯, 朝食, ごはん
+top3 entities near to cluster32>>
+みかん, 果物, ミカン
+top3 entities near to cluster35>>
+金目, 鯛, 海鮮

@@ -1,0 +1,21 @@
+--------------------similar_words:芝東照宮--------------------
+top3 entities near to cluster0>>
+朱印帳, 御朱印帳, 朱印, 御朱印
+top3 entities near to cluster1>>
+御朱印
+top3 entities near to cluster2>>
+御朱印帳, 宮, 御朱印
+top3 entities near to cluster4>>
+参拝, 見学, お参り
+top3 entities near to cluster5>>
+歴史, 由緒, 風情
+top3 entities near to cluster6>>
+戦争, 運動
+top3 entities near to cluster7>>
+子供, 子ども, 親達
+top3 entities near to cluster9>>
+境内, 神社, 本殿
+top3 entities near to cluster10>>
+家康, 家光, 秀忠
+top3 entities near to cluster11>>
+芝, 芝公園, 増上寺

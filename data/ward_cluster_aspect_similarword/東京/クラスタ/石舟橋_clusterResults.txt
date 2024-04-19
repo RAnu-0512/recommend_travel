@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石舟橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+季節, 写真, 人, 大半, バス
+cluster1:(2)
+橋, 石舟橋
+cluster2:(3)
+瀬音の湯, 秋川渓谷, 十里木バス停
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

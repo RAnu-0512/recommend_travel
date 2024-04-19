@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金剛院(広島県尾道市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+重軽, 重軽天狗
+cluster1:(3)
+小天狗, 天狗, カラス天狗
+cluster2:(4)
+願い, 石づくり, 堂, 裏手
+cluster3:(1)
+西國寺
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

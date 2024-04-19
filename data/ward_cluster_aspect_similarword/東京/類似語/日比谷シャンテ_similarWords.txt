@@ -1,0 +1,43 @@
+--------------------similar_words:日比谷シャンテ--------------------
+top3 entities near to cluster0>>
+美意識, センス, 感性
+top3 entities near to cluster1>>
+雰囲気, 入り口, 入口
+top3 entities near to cluster2>>
+シンボル, モチーフ, スペース
+top3 entities near to cluster3>>
+帝国ホテル, クリスマス, イルミネーション
+top3 entities near to cluster4>>
+スパイシーキーマ, パンダエキスプレス, シュリンプバーガー
+top3 entities near to cluster5>>
+ファッション, コスメショップ, アクセサリー
+top3 entities near to cluster6>>
+レストラン, テイクアウト, オーガニック・レストラン
+top3 entities near to cluster7>>
+バラエティ, バラエティー, バライティー
+top3 entities near to cluster9>>
+ミシュラン, ミシュランガイド, ミシェラン
+top3 entities near to cluster10>>
+イベント, レストラン, デパート
+top3 entities near to cluster11>>
+コラボ, コラボレーション, コラボレート
+top3 entities near to cluster12>>
+グルメ, ショップ, ランチ
+top3 entities near to cluster13>>
+シネマ, シアター, フロア
+top3 entities near to cluster15>>
+中華街, 名店街, 中華, 名店
+top3 entities near to cluster16>>
+本屋巡り, 雑貨, 本屋
+top3 entities near to cluster17>>
+店舗, 建物
+top3 entities near to cluster18>>
+商圏, ドミナントエリア, 業態
+top3 entities near to cluster20>>
+飲食店, 食事, 飲食
+top3 entities near to cluster21>>
+楽座, 劇場, 劇
+top3 entities near to cluster22>>
+モチ, トロ, ロン
+top3 entities near to cluster23>>
+劇場, 映画, 東宝

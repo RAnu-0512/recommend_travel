@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶芸 gallery cafe 私游>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+陶芸どころ, 陶芸体験
+cluster1:(2)
+体験料金, 体験
+cluster2:(13)
+看板犬, 方, ひと時, 初心者, 景色, 店, スポット, 先生, 金額, 近く, 一輪挿し, 想像, 皿
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

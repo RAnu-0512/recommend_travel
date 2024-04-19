@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五日市観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+案内所, 観光案内所
+cluster1:(2)
+あきる野市観光協会, 観光協会
+cluster2:(13)
+観光, 方, 業種, 五日市線, 武蔵五日市駅, あきる野市, 五日市, 秋川渓谷, 情報, 近く, 中心, あきる野観光, 終点
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

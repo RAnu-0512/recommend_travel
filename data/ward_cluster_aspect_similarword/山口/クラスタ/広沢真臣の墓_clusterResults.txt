@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広沢真臣の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+赤妻神社, 赤妻町, 山口市
+cluster1:(4)
+明治, 維新, 木戸, 大久保
+cluster2:(2)
+墓, 要職
+cluster3:(1)
+復古功臣
+cluster4:(2)
+広沢真臣, 民部大輔
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

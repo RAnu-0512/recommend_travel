@@ -1,0 +1,17 @@
+--------------------similar_words:江戸とんぼ玉みはる--------------------
+top3 entities near to cluster0>>
+とんぼ玉, 阮玲玉, とんぼ, 阮玲
+top3 entities near to cluster1>>
+模様, 泡, 砂
+top3 entities near to cluster2>>
+無地, 水玉, 柄物
+top3 entities near to cluster3>>
+子供, 子ども, 娘
+top3 entities near to cluster4>>
+書く, 補足
+top3 entities near to cluster5>>
+世話, 修行
+top3 entities near to cluster7>>
+体験, 工芸, 教室
+top3 entities near to cluster8>>
+もらい, たい

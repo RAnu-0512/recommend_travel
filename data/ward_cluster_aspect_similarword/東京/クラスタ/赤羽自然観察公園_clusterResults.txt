@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤羽自然観察公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(33)
+芳香, ジンチョウゲ, 春, 良さ, 申坂, 民家, 東門, 自然, 池, 植物, 小川, 花, 公園, 家, 子供, 道路沿い, 緑, 気持ち, 試合, 松澤, 西口, 試合会場, 散歩, 住宅, 沈丁花, 敷地, 徒歩, 園外, 往復, 田んぼ, 雰囲気, 森公園, 多目的広場
+cluster1:(6)
+東京都北区, 赤羽, 赤羽緑道公園, 赤羽スポーツ, 赤羽駅, JR赤羽駅
+cluster2:(3)
+古民家体験館, 指定有形文化, 鉄道廃線跡
+
+howmany entities : 42
+howmany clusters : 3
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 3
+deleted 0entities.

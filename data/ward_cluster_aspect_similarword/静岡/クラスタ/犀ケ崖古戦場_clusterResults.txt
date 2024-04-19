@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:犀ケ崖古戦場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+犀ケ崖古戦場, 犀ヶ崖
+cluster1:(2)
+狭間崖, 崖
+cluster2:(3)
+軍, 戦い, 戦場
+cluster3:(2)
+近く, 橋
+cluster4:(2)
+要, 守り
+cluster5:(3)
+湿地, 台地, 史跡
+cluster6:(1)
+資料館
+cluster7:(6)
+静岡県, 浜松城, 武田信玄, 徳川, 徳川方, 徳川家康
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 9entities.

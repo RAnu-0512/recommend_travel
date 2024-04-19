@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小舟ヶ浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青い海, 海
+cluster1:(3)
+鳥居, 浜, 岬
+cluster2:(4)
+人, 緑, 絵, 陸地
+cluster3:(1)
+諸口神社
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:みのり庵 和み--------------------
+top3 entities near to cluster1>>
+菓子, 和菓子, 餅
+top3 entities near to cluster2>>
+授業, 学校, 教科
+top3 entities near to cluster4>>
+デザイン, オブジェ, ボウル
+top3 entities near to cluster5>>
+茶菓子, 手拭き, 和菓子
+top3 entities near to cluster6>>
+娘
+top3 entities near to cluster7>>
+金, 金火, 土
+top3 entities near to cluster8>>
+立つ, 座る, 立てる
+top3 entities near to cluster9>>
+体験, 体感

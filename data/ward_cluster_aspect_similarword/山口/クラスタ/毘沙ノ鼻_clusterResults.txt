@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:毘沙ノ鼻>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本州, 角島, 下関
+cluster1:(6)
+冬, 空, 海原, 荒波, 夏, 海
+cluster2:(2)
+灯台, 岬
+cluster3:(3)
+西, 西端, 西側
+cluster4:(3)
+後ろ, 先端, 端
+cluster5:(1)
+鼻
+cluster6:(4)
+巣, こいのぼり, 毘沙, 蜘蛛
+cluster7:(25)
+もの, こと, スポット, 空間, 旨, おススメ, 車, 名前, 道, 蓋井島, 場所, 地, 日本, 断崖絶壁, 観光スポット, 雰囲気, 市街地, 記念, 地点, 注意, 走行, 看板, 気持ち, 気分, 記念碑
+cluster8:(5)
+景色, 夕日, 感慨, 絶景, 眺め
+cluster9:(6)
+小雨混じり, 道幅, 国道, 雨, 小雨, 県道
+cluster10:(9)
+展望広場, JR吉見駅, 毘沙ノ鼻, 再西端, 展望スペース, ミニ灯台型, 展望台, 駐車場, 最西端
+
+howmany entities : 67
+howmany clusters : 11
+howmany entities (more than1entities) : 67
+howmany clusters (more than1entities) : 11
+deleted 0entities.

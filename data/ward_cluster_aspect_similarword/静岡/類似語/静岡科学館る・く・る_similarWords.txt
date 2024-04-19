@@ -1,0 +1,13 @@
+--------------------similar_words:静岡科学館る・く・る--------------------
+top3 entities near to cluster0>>
+子ども, 子供, こども
+top3 entities near to cluster1>>
+イベント, ショップ, コーナー
+top3 entities near to cluster2>>
+ブース, フロア, グッズ
+top3 entities near to cluster4>>
+子供, 子ども, 学校
+top3 entities near to cluster6>>
+年齢, 制限, 身長
+top3 entities near to cluster14>>
+施設, 体験, 展示

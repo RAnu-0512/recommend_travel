@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:満正寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+案内板, 観光者, 女子旅, 遥かな町, 祈願者
+cluster1:(3)
+声, 占い, 悩み
+cluster2:(2)
+境内, 寺
+cluster3:(8)
+菩提寺, タイム, 真ん中, 空間, 漫画, 皆無, 居心地, 打吹山
+cluster4:(4)
+麓, 京都, 町, 田舎
+cluster5:(1)
+雑踏
+cluster6:(1)
+倉吉
+cluster7:(1)
+志納
+cluster8:(1)
+九曜星占盤
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遊学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ダム, ダム管理事務所, 八田原ダム, 八田原ダム見学
+cluster1:(2)
+遊学館, 資料館
+cluster2:(2)
+展示内容, 入場無料
+cluster3:(2)
+周辺地域, 観光スポット
+cluster4:(11)
+歴史, 役割, 仕組み, 関連, 資料, スポット, 建物, 説明, 所, こと, ゲート
+cluster5:(4)
+横, 西部, 学生, 傍
+cluster6:(1)
+水車
+cluster7:(1)
+広島県
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 8
+deleted 0entities.

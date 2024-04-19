@@ -1,0 +1,55 @@
+--------------------similar_words:明治座--------------------
+top3 entities near to cluster0>>
+土産, 宿泊, 食事
+top3 entities near to cluster1>>
+涙, 嬉し涙, ふけよ
+top3 entities near to cluster3>>
+イベント, コンサート, ホテル
+top3 entities near to cluster4>>
+小学生, 男の子, 中学生
+top3 entities near to cluster5>>
+ドラマ, アニメ, テレビ
+top3 entities near to cluster6>>
+クラス, 主人公, クラスメート
+top3 entities near to cluster7>>
+人達, 大勢
+top3 entities near to cluster8>>
+ソレ, 赤ひげ, ナニ
+top3 entities near to cluster10>>
+母親, 父親, 両親
+top3 entities near to cluster11>>
+明治座, 明治, 座が
+top3 entities near to cluster12>>
+土産屋, 土産店, 土産
+top3 entities near to cluster13>>
+銀河, 稲荷, 鉄道
+top3 entities near to cluster14>>
+ビル, 高層, 建物
+top3 entities near to cluster15>>
+中央線, 区線, 中央, 区
+top3 entities near to cluster16>>
+駅, 人形町, 田原町
+top3 entities near to cluster17>>
+駅, 地下鉄, 駅前
+top3 entities near to cluster20>>
+席, 等席
+top3 entities near to cluster21>>
+座席, 席, 全席
+top3 entities near to cluster22>>
+席, 座席, 特等
+top3 entities near to cluster23>>
+演劇, 演歌, 歌謡
+top3 entities near to cluster24>>
+新派, 一座, 女形
+top3 entities near to cluster25>>
+劇場街, 劇場, 映画街, 映画
+top3 entities near to cluster26>>
+役者, 演技, 芝居
+top3 entities near to cluster27>>
+公演, 演目, 観劇
+top3 entities near to cluster28>>
+客席, 観客, 花道
+top3 entities near to cluster29>>
+公演, 舞台, 演目
+top3 entities near to cluster30>>
+志村, 一座, けん

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海龍寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+尾道七佛めぐり, 竹本弥太夫, JR尾道駅
+cluster1:(20)
+境内, お寺めぐり, 浄土寺, 裏手, 終わり, 西側, 寺, ひとつ, 文楽, お守りブレス念珠, 説明版, 墓, 古寺, 尾道, 折り返し, 駅, 岩, 山門, 技術上達祈願, ブルーレース
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

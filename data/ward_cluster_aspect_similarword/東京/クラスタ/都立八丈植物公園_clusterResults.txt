@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立八丈植物公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+左右, 整備, こと, 利用, 感じ, 小型, 写真, 回り, 時間, 中, 説明, 場所, 多く, 人, 気分, 映像, 造り, もの, 展示
+cluster1:(2)
+コナー, キョン
+cluster2:(3)
+見応え, 雰囲気, 見た目
+cluster3:(3)
+地元民, ガイド, ルート
+cluster4:(10)
+スタッフ, ジェラート, ドリンク, クジャク, レンタカー, アイス, ビジターセンター, ビデオ, オススメ, 待ち時間
+cluster5:(7)
+動植物, 葉っぱ, 八丈島, 三原山, キノコ, 日差し, 亜熱帯
+cluster6:(8)
+自然, 昭和, 動物, 木, 家族, 世代, 子供, 仲間キョン
+cluster7:(2)
+野鳥, 野鳥観察
+cluster8:(6)
+施設, 建物, 敷地, 園内, 温室, 空港
+cluster9:(4)
+散歩, 小径, 公園, 広場
+cluster10:(3)
+草, 花, ラン
+cluster11:(1)
+長居
+cluster12:(3)
+湿度, 飼育施設, 環境客
+cluster13:(1)
+入場無料
+cluster14:(2)
+大自然公園, 流血樹・キョン
+cluster15:(2)
+台湾鹿, 鹿
+cluster16:(3)
+島, 南国, 沖縄
+cluster17:(2)
+富士, 樹海
+cluster18:(1)
+明日葉
+cluster19:(1)
+八丈島近海
+cluster20:(1)
+東京都
+cluster21:(1)
+きょん
+cluster22:(11)
+熱帯, 八丈富士, 植物公園, 亜熱帯植物, 植物, 熱帯植物, 観葉植物, 八丈植物公園, 植物園, 都立八丈植物公園, 植物たち
+
+howmany entities : 96
+howmany clusters : 23
+howmany entities (more than1entities) : 96
+howmany clusters (more than1entities) : 23
+deleted 0entities.

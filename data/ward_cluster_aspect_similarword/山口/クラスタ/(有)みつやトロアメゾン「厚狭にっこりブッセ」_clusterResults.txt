@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:(有)みつやトロアメゾン「厚狭にっこりブッセ」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+季節, シューロール, 地元, 人気, シュー, 人, 抹茶, ロールケーキ, 店内, トロアメゾン, ペロッ, ケーキ
+cluster1:(2)
+ケーキ屋, 有名店
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

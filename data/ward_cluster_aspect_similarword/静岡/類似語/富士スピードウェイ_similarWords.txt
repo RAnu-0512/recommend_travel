@@ -1,0 +1,27 @@
+--------------------similar_words:富士スピードウェイ--------------------
+top3 entities near to cluster0>>
+レース, 走行, サーキット
+top3 entities near to cluster2>>
+ペット, 食べ物, 子ども
+top3 entities near to cluster5>>
+コーナー, タイムドセッション, レース
+top3 entities near to cluster6>>
+イベント, ショップ, レストラン
+top3 entities near to cluster10>>
+ガズーレーシング, スポーツカー, モータースポーツ
+top3 entities near to cluster11>>
+自転車, バイク, 自動車
+top3 entities near to cluster12>>
+コース, ドリフト, サーキット
+top3 entities near to cluster13>>
+スタンド, バンク, ゲート
+top3 entities near to cluster14>>
+表彰台, ポディウム, F
+top3 entities near to cluster15>>
+駐車場, 施設, 駐車
+top3 entities near to cluster17>>
+食事, 家族, 施設
+top3 entities near to cluster20>>
+子供, 子ども, 大人
+top3 entities near to cluster28>>
+天気雨, 音色, 天気

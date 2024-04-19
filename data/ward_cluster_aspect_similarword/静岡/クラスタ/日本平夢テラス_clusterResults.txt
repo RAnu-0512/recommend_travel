@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本平夢テラス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+茶, 抹茶ラテ, 出がらし茶
+cluster1:(4)
+清水区, 富士, 南アルプス, 松原
+cluster2:(2)
+久能山東照宮, 日本平ロープウェイ
+cluster3:(3)
+日本平夢テラス, 木製テラス, 夢テラス
+cluster4:(1)
+寒凪
+cluster5:(2)
+三保松原, 三保
+cluster6:(5)
+静岡県, 静岡駅, 静岡市, 静岡, 焼津市
+cluster7:(1)
+隈研吾
+cluster8:(3)
+晴天, 天気, 雨
+cluster9:(2)
+式典, 訪問
+cluster10:(2)
+開館, 入場
+cluster11:(6)
+余裕, 問題, 心身, 力, ハード面, 価値
+cluster12:(2)
+上り坂, 他県
+cluster13:(2)
+カフェ, テラス
+cluster14:(2)
+市街地, テレビ塔
+cluster15:(2)
+スタッフ, デザイン
+cluster16:(4)
+スケジュール, コンディション, ロープウェイ, 久しぶり
+cluster17:(1)
+パノラマ
+cluster18:(1)
+込み合い
+cluster19:(1)
+パネル
+cluster20:(1)
+ウホッ
+cluster21:(5)
+富士山, 伊豆半島, 駿河湾, 日本平, 清水港
+cluster22:(24)
+主人, 紹介, 大人, 時間, 次回, 方, バス, 駅, 階段, 設計, TV, 施設, 作品, クリスマス時期, 家族, 入口, 場所, 前, こと, 一見, 周囲, 建物, 青春, 木
+cluster23:(2)
+臨時駐車場, 駐車場
+cluster24:(7)
+伊豆旅行, 建築家, 建築事務所, 家族旅行, 屋内施設, 木造建築, 入館無料
+cluster25:(13)
+空中回廊, 風景, 絶景スポット, 展望回廊, 展望台, 自然景観, 眺望, 回廊, 眺め, パノラマ展望, 眼下, 景色, 絶景
+
+howmany entities : 101
+howmany clusters : 26
+howmany entities (more than3entities) : 77
+howmany clusters (more than3entities) : 11
+deleted 24entities.

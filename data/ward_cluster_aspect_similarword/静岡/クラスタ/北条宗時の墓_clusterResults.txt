@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北条宗時の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+北条時政, 北条宗
+cluster1:(2)
+案内, 案内板
+cluster2:(5)
+集落, 墓, 道路, 高台, 道
+cluster3:(4)
+ところ, 墓参り, 小四郎, グーグル
+cluster4:(2)
+こと, 場所
+cluster5:(1)
+気持
+cluster6:(2)
+嫡男, 三郎
+cluster7:(1)
+改札
+cluster8:(1)
+函南駅
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 11entities.

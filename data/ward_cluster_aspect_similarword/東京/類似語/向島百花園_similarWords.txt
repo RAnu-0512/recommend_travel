@@ -1,0 +1,17 @@
+--------------------similar_words:向島百花園--------------------
+top3 entities near to cluster0>>
+公園, 園内, 駅
+top3 entities near to cluster2>>
+入園料, 入場料, 入場, 入園
+top3 entities near to cluster3>>
+庭園, 中庭, 庭
+top3 entities near to cluster4>>
+町人, 武家, 公家
+top3 entities near to cluster6>>
+文人, 墨客, 文士
+top3 entities near to cluster7>>
+花園, 寿, 福
+top3 entities near to cluster8>>
+草花, 花, 植物
+top3 entities near to cluster10>>
+東武, 東武鉄道, 西武

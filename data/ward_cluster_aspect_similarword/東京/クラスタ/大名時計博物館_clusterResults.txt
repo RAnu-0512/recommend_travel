@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大名時計博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+印籠時計, 櫓時計, 大名時計, 時計
+cluster1:(2)
+抱え時計師, 御時計師達
+cluster2:(32)
+ワンボックスカー, 三角コーン, 場所, ナンバー, 建物, 案内看板, 人, 工夫, 陶芸家, TDL, 門, 谷中, 丘, ショーケース, 館内, 入り口, 上, 屋敷, 博物館, 江戸時代, 住宅地, 住宅街, ホーンテッドマンション, 周辺, 雰囲気, 展示スペース, オフロードバイク, 根津, 時代, リビング, 順路, 展示
+
+howmany entities : 38
+howmany clusters : 3
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 3
+deleted 0entities.

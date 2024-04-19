@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福山市鞆の浦歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鞆の浦歴史民俗資料館, 浦歴史民俗資料館, 浦歴史民族資料館
+cluster1:(2)
+坂, 階段
+cluster2:(3)
+高台, 丘, 海
+cluster3:(1)
+浦
+cluster4:(1)
+舟唄
+cluster5:(1)
+保名
+cluster6:(5)
+眺め, 掲示, 景色, 再現, 勉強
+cluster7:(4)
+施設, 館内, 職員, 場所
+cluster8:(2)
+印象, 疑問
+cluster9:(2)
+ところ, あちこち
+cluster10:(2)
+ひな祭り, ひな人形
+cluster11:(1)
+瀬戸内
+cluster12:(1)
+人
+cluster13:(3)
+内容, 上, 程度
+cluster14:(12)
+歴史, 酒屋, 中世, 名物, 当地, 店先, 地元, 祭り, 観光, 文化, おすすめ歴史, 城跡
+cluster15:(1)
+鞆城跡
+cluster16:(6)
+鞆, 宮城道雄, 福山市, 福島市, 福山駅, 港町 鞆
+cluster17:(6)
+民俗資料, 資料, 郷土資料館, 歴史資料, 資料館, 民俗資料館
+cluster18:(2)
+駐車場, 有料駐車場
+cluster19:(5)
+滞在時間, 関係者, 入館料, 見学者, 入館者
+cluster20:(2)
+写真撮影, 写真撮影不可
+cluster21:(4)
+展示物, 展示, パネル展示物, 展示資料
+
+howmany entities : 69
+howmany clusters : 22
+howmany entities (more than1entities) : 69
+howmany clusters (more than1entities) : 22
+deleted 0entities.

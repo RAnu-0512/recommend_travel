@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正受院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+新宿御苑, 内藤新宿, 新宿
+cluster1:(2)
+針塚, 針
+cluster2:(5)
+堂, 寺, 像, 境内, 梵鐘
+cluster3:(6)
+紆余曲折, 靖国, 綿, 幕末, 北, 縫い物
+cluster4:(1)
+おばば
+cluster5:(1)
+江戸時代
+cluster6:(1)
+参詣客
+cluster7:(1)
+奪衣婆像
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

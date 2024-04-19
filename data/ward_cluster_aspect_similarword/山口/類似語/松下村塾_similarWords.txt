@@ -1,0 +1,81 @@
+--------------------similar_words:松下村塾--------------------
+top3 entities near to cluster1>>
+勉強, 学び, 勉学
+top3 entities near to cluster2>>
+薫陶, 逸材, 素質
+top3 entities near to cluster5>>
+遣っ, 遣う
+top3 entities near to cluster6>>
+状態, 状況, まま
+top3 entities near to cluster7>>
+姿, 想像, 光景
+top3 entities near to cluster8>>
+感動, 感激, 感慨
+top3 entities near to cluster9>>
+人柄, 姿勢, 態度
+top3 entities near to cluster10>>
+凄み, 重み, 価値
+top3 entities near to cluster11>>
+印象, 興味, 影響
+top3 entities near to cluster13>>
+思い出, 雰囲気, 見どころ
+top3 entities near to cluster14>>
+実家, 両親, 子供
+top3 entities near to cluster15>>
+仕事, 人生, 学校
+top3 entities near to cluster16>>
+宿道, 宿街, 宿
+top3 entities near to cluster17>>
+志生, 志, 半生
+top3 entities near to cluster18>>
+天気雨, 天気, 天候
+top3 entities near to cluster19>>
+偉人, 先人, 名言
+top3 entities near to cluster20>>
+近代画, 肖像画, 肖像, 近代
+top3 entities near to cluster21>>
+塾生, 塾, 私塾
+top3 entities near to cluster22>>
+歴史
+top3 entities near to cluster23>>
+教育, 文化, 産業
+top3 entities near to cluster24>>
+人達, 人々
+top3 entities near to cluster25>>
+言葉, 思想, 感情
+top3 entities near to cluster26>>
+訪問者, 来訪者, 訪問, 来訪
+top3 entities near to cluster27>>
+建物, 家屋, 敷地
+top3 entities near to cluster28>>
+建築, 建物, 建造
+top3 entities near to cluster29>>
+旧宅, 史跡, 史蹟
+top3 entities near to cluster30>>
+見学, 展示, 退散
+top3 entities near to cluster31>>
+施設, 敷地
+top3 entities near to cluster32>>
+屋敷, 小屋, 跡
+top3 entities near to cluster34>>
+処, 休み, 中休み
+top3 entities near to cluster35>>
+手狭, 窮屈, 狭い
+top3 entities near to cluster36>>
+幽閉, 流刑地, 流刑
+top3 entities near to cluster37>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster38>>
+反射炉, 反射, ばた屋
+top3 entities near to cluster39>>
+晋作, 廸忠, 維新
+top3 entities near to cluster41>>
+遺産, 世界, 文化
+top3 entities near to cluster45>>
+之, 瑞, 玄
+top3 entities near to cluster47>>
+志士, 幕末, 維新
+top3 entities near to cluster49>>
+境内, 神社, 本殿
+top3 entities near to cluster50>>
+幕末, 明治, 明治維新

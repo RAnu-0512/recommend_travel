@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雲見温泉露天風呂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+雲見温泉, 石部温泉, 赤井浜, 西伊豆松崎
+cluster1:(2)
+野趣満点, 眺望抜群
+cluster2:(10)
+水着, 駐車場, 海岸情報, 写真掲載, 海岸, 時間帯, 脱衣所, 観光協会, 水着着用, 海岸沿い
+cluster3:(3)
+有料, 閉鎖, 無料露天風呂
+cluster4:(2)
+管理人, 男女
+cluster5:(8)
+時期, 店, 情報, 食事, 場所, 風景, 味, 季節
+cluster6:(2)
+参考, 想像
+cluster7:(16)
+他, 目, バス停, 入り口, チャンス, 方, メニュー, 女性, 人, 素っ裸, 露天風呂, 仕切り, ハードル, 中, 雰囲気, SNS
+cluster8:(9)
+温泉, 海原, 国道, 山道, 夕日, 海, 道路, 風呂, 混浴
+cluster9:(1)
+ます.x
+
+howmany entities : 57
+howmany clusters : 10
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 6
+deleted 7entities.

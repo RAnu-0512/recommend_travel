@@ -1,0 +1,21 @@
+--------------------similar_words:美しの湯--------------------
+top3 entities near to cluster0>>
+肌, 芯, 温度
+top3 entities near to cluster1>>
+京王線, 京王, 明大前
+top3 entities near to cluster2>>
+水風呂, サウナ, 内風呂
+top3 entities near to cluster3>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster4>>
+露天風呂, ジャグジー, ジャグジーバス
+top3 entities near to cluster5>>
+井の頭線, 永福町, 明大前
+top3 entities near to cluster6>>
+上り, 上っ
+top3 entities near to cluster8>>
+駅, 駅前, 都心
+top3 entities near to cluster9>>
+温泉, 銭湯, 風呂
+top3 entities near to cluster10>>
+温泉, 施設, 銭湯

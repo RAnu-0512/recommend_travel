@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中国自然歩道帝釈峡コース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+散策コース, 散歩, バスツアー, 自然遊歩道
+cluster1:(17)
+ウォーキング, 上帝釈峡, ところ, 遊歩道, 方, 車, 石, 中国, レンタル自転車, 滝, 徒歩, 付近, 景色, 道, こと, 帝釈峡, 場所
+cluster2:(1)
+おみやげ物店
+cluster3:(1)
+広島県
+cluster4:(8)
+養殖場, 白雲洞, 素麺滝, 渓谷沿い, 自然歩道帝釈峡コース, 紅葉時期, 神龍湖, 紅葉橋
+cluster5:(3)
+櫻橋〜神龍橋, 矢不立城址, 神石町立民族資料館
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 6
+deleted 0entities.

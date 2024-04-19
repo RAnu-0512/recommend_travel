@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三原山外輪山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+た.j川o'-', o(̄ー̄
+cluster1:(12)
+rここ, 量, 天気, 三原山, 火口, ぅ.p, メニュー, 展望台, 食事, オススメ, 味, 料理
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修福寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紙本墨書大般若経539, 重要文化財紙本墨書大般若経
+cluster1:(5)
+室町時代頃創建, 国指定重要文化財, 信仰, 裏山, 共立湊病院
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 2entities.

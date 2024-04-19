@@ -1,0 +1,31 @@
+--------------------similar_words:おふろの王様(大井町店)--------------------
+top3 entities near to cluster0>>
+町, 区, 駅
+top3 entities near to cluster1>>
+スタッフ, サービス, ルーム
+top3 entities near to cluster2>>
+サウナ, 水風呂, 露天風呂
+top3 entities near to cluster4>>
+方向, けた
+top3 entities near to cluster5>>
+具合, 混み
+top3 entities near to cluster6>>
+阪急, 電車, 満員
+top3 entities near to cluster7>>
+宿泊, 店舗
+top3 entities near to cluster8>>
+従業員, 従業, 職員
+top3 entities near to cluster9>>
+温泉, 施設, 温浴
+top3 entities near to cluster10>>
+炭酸, カルシウム・フライアッシュ
+top3 entities near to cluster11>>
+漢方, 塩, 漢方薬
+top3 entities near to cluster12>>
+岩盤浴, 岩盤, 岩床
+top3 entities near to cluster13>>
+風呂, 湯船, 入浴
+top3 entities near to cluster14>>
+銭湯, 浴槽, 湯船
+top3 entities near to cluster15>>
+湯量, 水温, 水量

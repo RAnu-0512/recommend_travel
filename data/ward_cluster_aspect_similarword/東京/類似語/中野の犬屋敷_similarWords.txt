@@ -1,0 +1,15 @@
+--------------------similar_words:中野の犬屋敷--------------------
+top3 entities near to cluster0>>
+生類, 憐, 憐れみ
+top3 entities near to cluster1>>
+御用, 屋敷, 囲い
+top3 entities near to cluster2>>
+屋敷, 銅像
+top3 entities near to cluster3>>
+豊臣, 家康, 圀順
+top3 entities near to cluster4>>
+綱吉, 家光, 家宣
+top3 entities near to cluster6>>
+良い, 古い, よい
+top3 entities near to cluster7>>
+幕府, 綱吉, 将軍

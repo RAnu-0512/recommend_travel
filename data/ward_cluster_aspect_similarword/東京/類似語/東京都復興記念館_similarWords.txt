@@ -1,0 +1,15 @@
+--------------------similar_words:東京都復興記念館--------------------
+top3 entities near to cluster0>>
+館, 記念, 記念碑
+top3 entities near to cluster1>>
+展示品, 展示, 収蔵品, 収蔵
+top3 entities near to cluster2>>
+被害, 加害, 資料
+top3 entities near to cluster3>>
+資料, 館, 史料
+top3 entities near to cluster4>>
+犠牲者, 遭難者, 犠牲, 遭難
+top3 entities near to cluster5>>
+震災, 復興, 大震災
+top3 entities near to cluster6>>
+公園, 駅, 駅前

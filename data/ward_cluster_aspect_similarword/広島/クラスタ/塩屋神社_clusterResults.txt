@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:塩屋神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駅, 鳥居, 神社, 電車
+cluster1:(11)
+目, OK, 縁結び, 人, こと, 枝, 丸, 横, 形, ケヤキ, 木
+cluster2:(1)
+大慶
+cluster3:(1)
+参拝者
+cluster4:(1)
+おおけいのき
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

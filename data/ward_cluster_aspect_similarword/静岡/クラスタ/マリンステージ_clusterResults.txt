@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マリンステージ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子ども達, 子供, 孫達
+cluster1:(4)
+感謝, 対応, 指導, 世話
+cluster2:(2)
+エアー持ち, 自信
+cluster3:(23)
+魚, スタッフ, 親方, レクチャー, エンリッチSP, ダイビング, ショップ, GW, ダイビング初心者, タイミング, マリンステージ, レベル, 次回, リクエスト, 海, イントラ, 初シュノーケリング, 体験ダイビング, おかげ, 夏休み, 方, インストラクター, シュノーケリング
+
+howmany entities : 32
+howmany clusters : 4
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 2entities.

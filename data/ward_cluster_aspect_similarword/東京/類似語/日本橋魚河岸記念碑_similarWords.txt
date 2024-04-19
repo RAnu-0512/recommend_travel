@@ -1,0 +1,31 @@
+--------------------similar_words:日本橋魚河岸記念碑--------------------
+top3 entities near to cluster0>>
+記念碑, 記念, 石碑
+top3 entities near to cluster1>>
+道路, 乗り場, 出入り口
+top3 entities near to cluster2>>
+乙姫, 竜宮, 浦島
+top3 entities near to cluster3>>
+たもと, 三越
+top3 entities near to cluster4>>
+移転, 震災, 大震災
+top3 entities near to cluster5>>
+魚河岸, やっちゃ場, 魚市場
+top3 entities near to cluster7>>
+たもと, 名残り, 名残
+top3 entities near to cluster8>>
+記念碑, 鈴蘭灯, 塩干魚
+top3 entities near to cluster9>>
+魚市場, 魚屋, 鮮魚
+top3 entities near to cluster10>>
+石碑, 銅像
+top3 entities near to cluster11>>
+意味, 価値, 意義
+top3 entities near to cluster12>>
+時代, 前身, 歴史
+top3 entities near to cluster14>>
+広場, 界隈, 台所
+top3 entities near to cluster15>>
+ずる, すずむ, ロリグラス
+top3 entities near to cluster16>>
+市場魚, 魚市場, 市場

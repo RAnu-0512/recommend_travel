@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新居関所史料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+今切, いまぎれ
+cluster1:(5)
+こと, 資料, 見学, 様子, 説明
+cluster2:(11)
+浜名湖, 船着き場, 小学校, 新居町, チケット, タイム, 中, 見応え, 雰囲気, 東海道, コインロッカー
+cluster3:(3)
+大人, 昔, 日本
+cluster4:(1)
+廃止
+cluster5:(1)
+良さ
+cluster6:(21)
+役場, 駐車場, 史跡, 敷地, 観光バス, 所, 荷物, 展示物, 新居宿, 校舎, 入口, 新居町駅, 駅, 宿, JR, 徒歩, 建物, 場所, 受付建物, 旅, 自家用車旅
+cluster7:(11)
+新居関所, 面番所, 江戸, 関所敷地, 大御門, 関所内, 明治, 江戸時代, 江戸時代末期, 昔旅籠屋, 関所
+cluster8:(3)
+紀伊国屋資料館, 史料館, 資料館
+cluster9:(2)
+関所資料館, 新居関所資料館
+cluster10:(4)
+入館料, 国指定特別史跡, セット入場券, 入場料
+
+howmany entities : 64
+howmany clusters : 11
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 7
+deleted 6entities.

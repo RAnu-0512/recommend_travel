@@ -1,0 +1,13 @@
+--------------------similar_words:百人番所--------------------
+top3 entities near to cluster0>>
+門跡, 皇居, 御苑
+top3 entities near to cluster2>>
+遺構, 建物, 城郭
+top3 entities near to cluster3>>
+解説板, 案内板, 案内, 解説
+top3 entities near to cluster4>>
+建築, 建物, 建造
+top3 entities near to cluster5>>
+本丸, 与力, 同心
+top3 entities near to cluster6>>
+詰所, 詰め所, 警備

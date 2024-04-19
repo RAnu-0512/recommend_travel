@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オリジナル香水作り×フレグランス診断 Petit 六本木店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+香水, 香水作り, 匂い, 香料, 香り
+cluster1:(3)
+親友, 友達, 性格
+cluster2:(6)
+おすすめ, スタッフ, ポイント, フレグランス, プレゼント, サイズ
+cluster3:(2)
+姉さん, 雰囲気
+cluster4:(1)
+ラベル
+cluster5:(3)
+話, 中, もの
+cluster6:(3)
+フレグランス作り, 質問, メモ
+cluster7:(1)
+個人サロン
+cluster8:(1)
+何か
+cluster9:(1)
+良さ
+cluster10:(1)
+大きさ
+
+howmany entities : 27
+howmany clusters : 11
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 11
+deleted 0entities.

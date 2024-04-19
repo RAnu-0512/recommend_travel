@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:これっしか処>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+銘品, 名産品, 特産品
+cluster1:(5)
+本舗パン, パン屋, メロンパン, 地元パン, 名物パン
+cluster2:(2)
+土産物屋, 土産屋
+cluster3:(2)
+土産, 土産店
+cluster4:(1)
+出張帰り
+cluster5:(31)
+アクセス, クラウンメロン, パーラー, 客, 地域, 方法, 電車, コンコース, 地元, 新幹線, ジェラート, 構内, 外, くず, 菓子, もの, 駅, フレッシュジュース, ところ, 野菜, 人, 口, 店, 東海旅客鉄道株式会社東海道新幹線, ビジネス, 買い物, 観光, 場所, 東海道, 待ち時間, 方
+cluster6:(5)
+新幹線掛川駅, 静岡, 静岡西部, 掛川駅, 掛川
+cluster7:(4)
+改札, 構内南口, 在来線, 改札側
+
+howmany entities : 53
+howmany clusters : 8
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 5
+deleted 5entities.

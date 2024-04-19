@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鈴木三重吉文学碑(広島県広島市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+児童文化運動, 児童雑誌
+cluster1:(4)
+像, 碑, 台座, 胸像
+cluster2:(6)
+表紙, 父, 左側, 出身, 日本, 手
+cluster3:(5)
+原爆ドーム, 広島県, 赤い鳥, 鳥, 鈴木三重吉
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

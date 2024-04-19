@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本山岬公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+干満, 潮, 干潟, 海, 満潮
+cluster1:(6)
+細道, 展望, 車, 公園, 岬, 穴
+cluster2:(3)
+岩, ためくぐり岩, 奇岩
+cluster3:(1)
+反対側
+cluster4:(1)
+住宅地
+cluster5:(2)
+公園駐車場, 本山岬公園
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

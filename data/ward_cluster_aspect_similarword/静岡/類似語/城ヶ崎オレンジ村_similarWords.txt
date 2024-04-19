@@ -1,0 +1,9 @@
+--------------------similar_words:城ヶ崎オレンジ村--------------------
+top3 entities near to cluster1>>
+ミカン, みかん, 新幹線
+top3 entities near to cluster2>>
+家族, 子供
+top3 entities near to cluster3>>
+駅, 土産, 村
+top3 entities near to cluster5>>
+狩り, 狩る, 狩っ

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野動物園 ホッキョクグマ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+肉食動物, 動物園
+cluster1:(15)
+シロクマ, ホッキョクグマ, 前, 顔, 水, 檻, 中, 場所, うれしさ, 近く, 地上, 迫力, 目, 姿, 体
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

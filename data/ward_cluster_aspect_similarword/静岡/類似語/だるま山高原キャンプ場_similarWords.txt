@@ -1,0 +1,9 @@
+--------------------similar_words:だるま山高原キャンプ場--------------------
+top3 entities near to cluster1>>
+景色, 夜景, 天気
+top3 entities near to cluster2>>
+駅車, 食材, 駅
+top3 entities near to cluster5>>
+ベッド, トイレ, ホテル
+top3 entities near to cluster9>>
+駐車場, 駐車台, 駐車

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ラフォーレ修善寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴルフ場, 体育館競技
+cluster1:(3)
+食事, 夕飯, 夕食
+cluster2:(2)
+敷地, 施設
+cluster3:(4)
+料理, 仕事, スポーツ家族, 部屋
+cluster4:(2)
+温泉, 宿泊
+cluster5:(1)
+客室
+cluster6:(27)
+車, 疲れ, チャペル, ホテル, 整備, 自家用車, テニスコート, 修善寺, ゴルフ, 緑, 体育館, 目的, 時間, 富士山, 問題, 文句, 屋外, スポーツアクティビティ, 希望, 好天, アルバイト並, 散歩, 運動, フロントスタッフ, バイキング, 移動, コテージ
+cluster7:(1)
+電子レンジ
+cluster8:(1)
+広さ
+cluster9:(4)
+団体客, 巡回バス, 子供達, 家族連れ
+
+howmany entities : 47
+howmany clusters : 10
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 4
+deleted 9entities.

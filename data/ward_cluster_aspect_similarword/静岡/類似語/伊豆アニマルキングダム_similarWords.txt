@@ -1,0 +1,53 @@
+--------------------similar_words:伊豆アニマルキングダム--------------------
+top3 entities near to cluster0>>
+動物園, 動物, 遊園
+top3 entities near to cluster1>>
+人混み, ベビーカー, マナー
+top3 entities near to cluster3>>
+キャッシュレス, キャッシュレスシステム, キングダム
+top3 entities near to cluster4>>
+アトラクション, アニマルキングダム, メリーゴーランド
+top3 entities near to cluster5>>
+ゴーカード, ゴーカート, パターゴルフ場
+top3 entities near to cluster7>>
+レストラン, チェックイン, エレベーター
+top3 entities near to cluster9>>
+ベビーカー, 赤ちゃん, スロープ
+top3 entities near to cluster10>>
+イベント, サービス, スタッフ
+top3 entities near to cluster12>>
+ラーメン, カレー, ランチ
+top3 entities near to cluster13>>
+カピバラ, 動物, ウサギ
+top3 entities near to cluster14>>
+サファリ, グリーン, ナイト
+top3 entities near to cluster17>>
+席券, 席, 座席
+top3 entities near to cluster18>>
+景色, 窓
+top3 entities near to cluster19>>
+入口, 入り口, 出口
+top3 entities near to cluster20>>
+駅道, 駅, バス
+top3 entities near to cluster21>>
+食堂, 屋台, 展望
+top3 entities near to cluster22>>
+ワン, 空間, 記念
+top3 entities near to cluster27>>
+前売り券, 入場券, 前売り, 入場
+top3 entities near to cluster28>>
+エサ, 餌, えさ
+top3 entities near to cluster31>>
+姿, 迫力, 感動
+top3 entities near to cluster32>>
+工夫, 満載
+top3 entities near to cluster36>>
+不満感, 距離感, 距離, 不満
+top3 entities near to cluster38>>
+園内, 駐車, アトラクション
+top3 entities near to cluster39>>
+子供, 子ども, 息子
+top3 entities near to cluster40>>
+森, 棲む, デブノー
+top3 entities near to cluster43>>
+ゾウ, ヤギ, ウサギ

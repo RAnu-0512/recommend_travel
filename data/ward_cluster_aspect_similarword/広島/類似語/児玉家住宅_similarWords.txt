@@ -1,0 +1,11 @@
+--------------------similar_words:児玉家住宅--------------------
+top3 entities near to cluster1>>
+住宅, 建物, 家屋
+top3 entities near to cluster2>>
+家風, 家筋
+top3 entities near to cluster3>>
+庭園, 中庭, 茶室
+top3 entities near to cluster4>>
+工事, 施工, 修繕
+top3 entities near to cluster5>>
+完成式, 竣工式, 完成, 竣工

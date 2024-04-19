@@ -1,0 +1,25 @@
+--------------------similar_words:三景園--------------------
+top3 entities near to cluster1>>
+子供, 子ども
+top3 entities near to cluster2>>
+飛行機, 航空機, 空港
+top3 entities near to cluster3>>
+紫陽花, あじさい, アジサイ
+top3 entities near to cluster4>>
+雰囲気, イベント, 景色
+top3 entities near to cluster5>>
+空港, 交通, 料金
+top3 entities near to cluster7>>
+時間程度, 期間, 時間
+top3 entities near to cluster8>>
+季節, 時期, 時季
+top3 entities near to cluster9>>
+気温, 温度, 湿度
+top3 entities near to cluster10>>
+訪問, 日, 月
+top3 entities near to cluster11>>
+密集, 高, 体系
+top3 entities near to cluster12>>
+風景, 景色, 木々
+top3 entities near to cluster13>>
+庭園, 園内, 公園

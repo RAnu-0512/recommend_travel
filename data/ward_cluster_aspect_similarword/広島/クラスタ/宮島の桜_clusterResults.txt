@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮島の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+シカ, 弁当
+cluster1:(6)
+島, 一生, 草, 木, 山, 海上
+cluster2:(1)
+神経
+cluster3:(8)
+ピンク, あちこち, オススメ, コントラスト, 想い出, スポット, 組み合わせ, おすすめ
+cluster4:(3)
+枝垂桜, 五重塔, 大鳥居
+cluster5:(8)
+間, 方, 辺り, 週末, 人, 時間, 下, 場所
+cluster6:(7)
+時期, 秋, 季節, 桜色, 朱色, 春, 緑
+cluster7:(14)
+姿, 絶景, 社殿, 桜, 島歩き, 鳥居, 紅葉, しだれ桜, 写真, 美しさ, 景色, 競演, 満開, 風景
+cluster8:(4)
+干潮, 観光客, 世界遺産, 満潮
+cluster9:(6)
+手漕ぎ舟, 宮島, 厳島神社, 宮島派秋, 宮島は桜, 豊国神社
+
+howmany entities : 59
+howmany clusters : 10
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 10
+deleted 0entities.

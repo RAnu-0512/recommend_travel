@@ -1,0 +1,13 @@
+--------------------similar_words:王子神社の大イチョウ--------------------
+top3 entities near to cluster0>>
+社殿, 本殿, 階段
+top3 entities near to cluster2>>
+幹, 葉, 木
+top3 entities near to cluster3>>
+戦災, 戦禍, 空襲
+top3 entities near to cluster4>>
+神社, 稲荷, 祓戸
+top3 entities near to cluster5>>
+樹齢, 巨木, 老木
+top3 entities near to cluster6>>
+親水, 公園, 川

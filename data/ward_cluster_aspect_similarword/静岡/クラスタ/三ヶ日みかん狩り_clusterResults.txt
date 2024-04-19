@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三ヶ日みかん狩り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+極早生, 早生, ミカン狩り, 三ケ日みかん狩り, 三ケ日みかんより有田みかん, みかん狩り
+cluster1:(27)
+食べ放題, 時期, 家族, こと, みかん, 時間無制限, 大人, バスツアー, 三ケ日みかん, ところ, 体験, みかん畑, 苦笑, ミカン, 石田農園, 農家, 子供, 三ケ日, 道路沿い, ほう, もぎたて, 三ヶ日みかん, 無人販売, 木, 棚, 収穫体験, みかん好き
+
+howmany entities : 33
+howmany clusters : 2
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 2
+deleted 0entities.

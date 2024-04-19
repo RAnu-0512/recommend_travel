@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カヤックタパ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+やり方, 雨, サップ, スタッフ, サポート, モグモグタイム, 心, ガイド, 川, コース, 女性, 機会, ヒト, 時間, 景色, 次回, ステップ, 途中サップ, 予報, カヤック, 自然, 作り, 体力, 環境, 天気, インストラクター, 思い
+cluster1:(2)
+体験, 初体験
+cluster2:(3)
+友人達, 友人, 方達
+
+howmany entities : 32
+howmany clusters : 3
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 2
+deleted 2entities.

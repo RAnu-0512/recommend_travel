@@ -1,0 +1,33 @@
+--------------------similar_words:浅草演芸ホール--------------------
+top3 entities near to cluster0>>
+ドキドキ・ワクワク, 感覚
+top3 entities near to cluster1>>
+席, 定席, 列
+top3 entities near to cluster2>>
+客席, 公演, 観客
+top3 entities near to cluster3>>
+売店, 館内, 建物
+top3 entities near to cluster4>>
+夜, 昼, 夕方
+top3 entities near to cluster6>>
+年配, 大勢, 人達
+top3 entities near to cluster7>>
+感動, 気迫, 迫力
+top3 entities near to cluster8>>
+落ちる
+top3 entities near to cluster10>>
+まね, 真似, 物まね
+top3 entities near to cluster13>>
+話し, 喋っ, 聞く
+top3 entities near to cluster14>>
+林家, 久蔵, 木
+top3 entities near to cluster16>>
+演芸, 木馬亭, 寄席
+top3 entities near to cluster17>>
+演芸, 寄席, 落語
+top3 entities near to cluster18>>
+追善, 興行, 顔見世
+top3 entities near to cluster19>>
+お客, 団体, 乗客
+top3 entities near to cluster22>>
+落語, 寄席, 噺家

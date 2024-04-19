@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シェラトン都ホテル東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+和食, 朝ごはん, イマドキ塩ジャケ, 料理, 珈琲, 鮭, 朝飯ブッフェ
+cluster1:(12)
+ホテル, ルームサービス, ネット評判, ごはん, 窓, 気持ち, 意外, ポット, 周り, 風呂, 雰囲気, フロア
+cluster2:(3)
+バスルーム, 便, 交通
+cluster3:(1)
+白金高輪
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

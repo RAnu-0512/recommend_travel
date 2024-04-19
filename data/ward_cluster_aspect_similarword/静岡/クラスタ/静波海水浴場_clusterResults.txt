@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静波海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+レスキュー, 浮き袋, 水, 海水浴, プール, ライフセーバー, 駿河湾, ルール, 夏, サーファー
+cluster1:(8)
+客, 多く, 地元, 家, 大人, 人, 子供, 子ども
+cluster2:(1)
+気持ちよさ
+cluster3:(2)
+海水浴場, 地名
+cluster4:(11)
+静岡県, 静波, 海水, 海岸, 牧之原市, 遠浅, 海開き, 波, 海, 令和, 海岸線
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 3entities.

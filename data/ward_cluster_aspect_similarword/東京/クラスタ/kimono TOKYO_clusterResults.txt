@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:kimono TOKYO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+写真, 浴衣, プレゼント, 対応, 柄, 種類, 内容, スタイリング, もの, ヘアセット, 着物
+cluster1:(2)
+希望通りドレス, 訪問着
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

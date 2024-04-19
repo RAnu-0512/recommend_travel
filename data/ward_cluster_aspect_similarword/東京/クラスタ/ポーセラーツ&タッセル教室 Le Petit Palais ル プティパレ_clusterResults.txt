@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ポーセラーツ&タッセル教室 Le Petit Palais ル プティパレ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+デザイン, サロン, 方, チャーミング, カフェ
+cluster1:(2)
+先生, 話
+cluster2:(2)
+勉強, 時間
+cluster3:(1)
+教室
+cluster4:(1)
+庭園
+cluster5:(1)
+人柄
+cluster6:(1)
+白金
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

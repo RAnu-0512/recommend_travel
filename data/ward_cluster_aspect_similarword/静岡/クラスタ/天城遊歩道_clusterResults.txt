@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天城遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自然遊歩道, 自然
+cluster1:(7)
+本谷川, 水辺, 普通, 狩野川, 次回, 遊歩道, 他
+cluster2:(2)
+売店, 階段
+cluster3:(1)
+上流
+cluster4:(1)
+マス
+cluster5:(1)
+全長
+cluster6:(1)
+年配者
+cluster7:(11)
+下田街道, 出合滝, 初景滝, 温泉口, 河津七, 大滝, 蛇滝, 天城遊歩道, 浄蓮, 滝, 湯ヶ島
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 8entities.

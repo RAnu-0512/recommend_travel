@@ -1,0 +1,17 @@
+--------------------similar_words:於大の墓--------------------
+top3 entities near to cluster0>>
+家康, 豊臣, 秀忠
+top3 entities near to cluster1>>
+於大, 於丈
+top3 entities near to cluster2>>
+墓碑, 墓地
+top3 entities near to cluster3>>
+母, 実母, 母親
+top3 entities near to cluster4>>
+歳, 同い年, 生まれ
+top3 entities near to cluster5>>
+生母, 正室, 側室
+top3 entities near to cluster6>>
+人生, 日々, 通院
+top3 entities near to cluster7>>
+生み, 生む, 生る

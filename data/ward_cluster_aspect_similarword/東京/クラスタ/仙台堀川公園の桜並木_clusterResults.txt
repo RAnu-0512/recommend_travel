@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仙台堀川公園の桜並木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+季節, 春, 夜桜, 場所, 花見時期, ポカポカ, 陽気, ソメイヨシノ, 子供, 実家, 気持ち, 花見, 散歩, 桜並木, 提灯, 心配, 花見客, 水上アスレチック, 並木, 桜, 子供達
+cluster1:(3)
+親水公園, 水路沿い, 江東区
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

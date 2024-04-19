@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水神大橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散策, 散歩
+cluster1:(10)
+両国橋, ホテル, ブルー, ジョギング, 隅田川, 浅草橋, 蔵前橋, 見ごたえ, 蔵, 駒形橋
+cluster2:(3)
+水, 名前, 色
+cluster3:(5)
+北側, 場所, 景色, 公園, 界隈
+cluster4:(1)
+堤通
+cluster5:(1)
+アーチ状
+cluster6:(2)
+橋名, 橋
+cluster7:(2)
+神大, 神大橋
+cluster8:(3)
+水神大橋, 隅田川神宮, 墨田区
+
+howmany entities : 29
+howmany clusters : 9
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 9
+deleted 0entities.

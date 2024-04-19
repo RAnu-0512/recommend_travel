@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新井天神北野神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新井薬師公園, 新井薬師
+cluster1:(2)
+牛, 牛石
+cluster2:(3)
+鳥居, 酉, 新井
+cluster3:(8)
+隣, 左手, 人, 他, 近く, 市, 像, 利益
+cluster4:(1)
+撫
+cluster5:(7)
+神社, 北野神社, 大鳥神社, 手水舎, 福面神社, 境内, 稲荷神社
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

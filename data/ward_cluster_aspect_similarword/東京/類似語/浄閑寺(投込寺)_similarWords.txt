@@ -1,0 +1,9 @@
+--------------------similar_words:浄閑寺(投込寺)--------------------
+top3 entities near to cluster0>>
+地震, 前震, 本震
+top3 entities near to cluster1>>
+寺, 七福神, 歴史
+top3 entities near to cluster3>>
+遊女, 遊郭, 娼婦
+top3 entities near to cluster5>>
+遊郭, 遊女, 遊廓

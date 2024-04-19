@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藤井谷廃寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+案内木柱, 説明板
+cluster1:(2)
+廃寺塔, 基壇中央
+cluster2:(12)
+瓦, 寺院, 建物, 土器, 奈良, 配置, 礎石, 心礎, 時代, 塔, 跡, 円孔
+cluster3:(5)
+須恵器, 倉吉市, 関金町, 関金, 土師質
+cluster4:(6)
+軒平瓦, 軒丸瓦, 蓮華文七葉, 布目瓦, 藤井谷, 藤井谷廃寺
+cluster5:(1)
+藤井谷廃寺について関金町教育委員会
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

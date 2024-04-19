@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新山口駅観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公共交通機関, 山口市公共交通委員会
+cluster1:(12)
+紙, パンフレット, 時刻, 総合時刻表, 新幹線, 方, 山口市, バス, JR, スマホ, 時刻表, 駅
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:妻恋神社--------------------
+top3 entities near to cluster0>>
+境内, 神社, 裏手
+top3 entities near to cluster1>>
+恋, 妻, 神社
+top3 entities near to cluster2>>
+明神, 神田, 坂
+top3 entities near to cluster3>>
+武, 尊, 戯武
+top3 entities near to cluster4>>
+姫, 命
+top3 entities near to cluster5>>
+命, 尊, 武

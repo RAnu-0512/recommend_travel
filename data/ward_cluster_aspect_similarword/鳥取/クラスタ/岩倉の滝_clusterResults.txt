@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩倉の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+倉吉市, 岩倉川, 岩淵寺, 岩倉, 鳥取県, 岩倉の滝
+cluster1:(24)
+石仏, 看板, 何か, 車, 不動明王, 橋, 滝, 岩肌, 枯れ枝, こと, 問題, 阿蘇山一の滝, 道, 本堂, 枯葉, 長靴, 県道, 滝口, 雰囲気, 国道, 途中, 軽自動車, タイヤ, 急坂
+cluster2:(3)
+案内板, こさ車, 駐車場
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 3
+deleted 0entities.

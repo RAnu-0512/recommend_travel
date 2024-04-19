@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三段峡交通タクシー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+正面口, 外気
+cluster1:(13)
+観光, いこいの村ひろし, 現地, 感謝, 子供, バス停, バス, 途中参加, 臨機応変, 新幹線, 広島駅, 修学旅行, 別
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北沼公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+小さい子, 子, 子供達, 子さん
+cluster1:(4)
+場所, もの, 喜ぶ, 様子
+cluster2:(2)
+乗り物, 自転車
+cluster3:(4)
+ゴーカート, 男の子, 運動公園, モニュメント
+cluster4:(1)
+滑り台
+cluster5:(2)
+子供, 息子
+cluster6:(1)
+練習
+cluster7:(1)
+恐竜
+cluster8:(1)
+駄菓子屋
+cluster9:(5)
+公園, 交通公園, 北沼公園, アスレチック遊具, 遊具
+
+howmany entities : 25
+howmany clusters : 10
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 10
+deleted 0entities.

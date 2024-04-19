@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:周南市美術博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+カフェ, 美術館, センス, イベント, 見応え, 写真
+cluster1:(2)
+内容, 場所
+cluster2:(1)
+空間
+cluster3:(1)
+戦後
+cluster4:(1)
+応え
+cluster5:(2)
+美術博物館, 県立美術館
+cluster6:(4)
+企画展, 展示, 歴史展示, 常設展示
+cluster7:(2)
+周南地域, 林忠彦
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

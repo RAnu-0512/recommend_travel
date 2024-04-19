@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都電沿線のバラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+撮り鉄, 東京さくらトラム, 都電沿線, 巣鴨, 沿線, 都電, 町屋, 駅, 飛鳥山駅, 電車, 乗車日, 早稲田駅, 町屋駅, バス, 乗客, ラッピング電車
+cluster1:(20)
+季節, ヘッドマーク, イベント, 花, 人, 薔薇, 窓, 手入れ, バンドリ公開応援コラボ, 色とりどり, ホーム, バラ, 時期, 植樹, 周り, 魅力, 見頃, 風情, 一層バラ, 色
+
+howmany entities : 36
+howmany clusters : 2
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 2
+deleted 0entities.

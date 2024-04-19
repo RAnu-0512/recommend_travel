@@ -1,0 +1,13 @@
+--------------------similar_words:東京メトロ日比谷線 恵比寿駅--------------------
+top3 entities near to cluster0>>
+都, メトロ, 都内
+top3 entities near to cluster2>>
+時間, 余裕, 昼間
+top3 entities near to cluster3>>
+階段, 地上, 出口
+top3 entities near to cluster4>>
+駅, 駅前, 南口
+top3 entities near to cluster5>>
+下車, 駒沢, 帰り道
+top3 entities near to cluster6>>
+駅, 乗換, 各駅

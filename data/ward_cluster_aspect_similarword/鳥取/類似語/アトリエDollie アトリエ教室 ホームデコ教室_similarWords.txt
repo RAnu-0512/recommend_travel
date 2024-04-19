@@ -1,0 +1,11 @@
+--------------------similar_words:アトリエDollie アトリエ教室 ホームデコ教室--------------------
+top3 entities near to cluster0>>
+ペンギン, オーナメント, シロクマ
+top3 entities near to cluster1>>
+娘, 息子, 長女
+top3 entities near to cluster2>>
+先生, センセ, センセー
+top3 entities near to cluster3>>
+色合い, 色あい
+top3 entities near to cluster4>>
+小学, 年生, 中学

@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霊火堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+窯, お湯, 大釜, 湯, 炉, 白湯, 釜
+cluster1:(3)
+堂宇, 札所, 梵鐘
+cluster2:(3)
+閉門, 賽銭, 霊水
+cluster3:(4)
+途中休憩, 観光客, 途中迷子, カップル数組
+cluster4:(4)
+火, 金, 水, 元火
+cluster5:(7)
+煙, 山頂, 山道, 麓, 徒歩, 柵, 山坂
+cluster6:(13)
+興味, しんどさ, 途中, 左, 中, 気, 目, 側, 人, 前, 必死, こと, 場所
+cluster7:(4)
+恋人, 修行, 靴, 聖地
+cluster8:(2)
+パワースポット, パワー
+cluster9:(2)
+弘法大師, 不動明王
+cluster10:(3)
+ロープウェー, ジュース, スタッフ
+cluster11:(1)
+真ん中
+cluster12:(1)
+自販機
+cluster13:(1)
+コップ
+cluster14:(3)
+文化財, 大聖院, 平宗盛
+cluster15:(1)
+国
+cluster16:(2)
+堂, 平和
+cluster17:(9)
+火とお堂, 平和記念公園, 霊火堂, 獅子岩展望台, 弥山本堂, 弥山本, 弥山, 弥山山頂, 霊火
+
+howmany entities : 70
+howmany clusters : 18
+howmany entities (more than1entities) : 70
+howmany clusters (more than1entities) : 18
+deleted 0entities.

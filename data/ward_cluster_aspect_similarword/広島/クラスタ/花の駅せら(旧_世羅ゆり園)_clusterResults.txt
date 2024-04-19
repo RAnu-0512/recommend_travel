@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花の駅せら(旧_世羅ゆり園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入園料, 入場料
+cluster1:(5)
+百合, 世羅町, ゆり祭, ゆり, ゆり園
+cluster2:(2)
+駐車場, 展望台
+cluster3:(33)
+花絵, 時期, 花文字, 季節, 敷地, 撮影スポット, 花畑, 花, ビオラ, ユリ, カープ日本一, 温室, 蕾, テレビ, 種類, 香り, 丘, 畑, 楽しみ, 感謝, 念, 沢山, 靴, コスモス, 駅, SNS投稿, ハウス, 購入持ち帰り, 変化, コロナ禍, 満開, 栽培, 切り売り
+
+howmany entities : 42
+howmany clusters : 4
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 4
+deleted 0entities.

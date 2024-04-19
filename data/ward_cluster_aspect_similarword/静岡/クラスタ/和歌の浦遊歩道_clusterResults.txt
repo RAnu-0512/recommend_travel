@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和歌の浦遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ロケ地めぐり旅行, アニメ夏色キセキ聖地巡礼
+cluster1:(5)
+下田海中水族館, 下田水族館, 下田海浜ホテル, 下田市, 下田公園
+cluster2:(20)
+目, ウニ, ホテル, 海岸, 左手, 気持ち, そば, イルカ, 遊歩道, 海, 浦遊歩道, 距離, 自然, 回り, 場所, 散歩, 水族館, 前, 和歌, 方
+cluster3:(3)
+大浦海岸, 大浦, 海岸線
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブラームスの小径>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+原宿, 原宿駅, JR原宿駅
+cluster1:(2)
+路地裏, 路地
+cluster2:(2)
+明治, 竹下
+cluster3:(16)
+散歩道, 店, 昔, 裏手, 場所, 名, 緑, 右, 喫茶店, ブラームス, レストラン, ヨーロッパ, アンティークショップ, 雰囲気, もの, 抜け道
+cluster4:(3)
+小径, 横道, 道
+cluster5:(1)
+喧騒が嘘
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:めんたいパーク伊豆--------------------
+top3 entities near to cluster1>>
+見学, 足湯, 撮影
+top3 entities near to cluster2>>
+明太子, 辛子, メンタイコ
+top3 entities near to cluster3>>
+フード, テーマパーク, パーク
+top3 entities near to cluster6>>
+駅道, 駅, 施設
+top3 entities near to cluster8>>
+工場, 菓子, お菓子
+top3 entities near to cluster9>>
+明太, 明太子, マヨ

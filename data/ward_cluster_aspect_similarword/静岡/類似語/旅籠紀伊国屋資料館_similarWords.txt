@@ -1,0 +1,9 @@
+--------------------similar_words:旅籠紀伊国屋資料館--------------------
+top3 entities near to cluster0>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster1>>
+資料, 建物, 館
+top3 entities near to cluster4>>
+紀州藩, 紀州
+top3 entities near to cluster7>>
+宿, 旅館, 民宿

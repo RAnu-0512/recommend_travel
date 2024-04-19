@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧安田楠雄邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+和洋併置式住宅, 島薗家住宅案内板, 耐震補強工事
+cluster1:(12)
+創設者, 建物, 昭和, 人, 見学, 千駄木駅, 住宅街, 邸宅, 徒歩, 中, こと, 孫
+cluster2:(5)
+藤田好三郎, 安田楠雄, 安田庭園, 安田善次郎, 安田
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

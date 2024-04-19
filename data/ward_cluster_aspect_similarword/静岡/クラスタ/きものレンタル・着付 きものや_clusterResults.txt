@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:きものレンタル・着付 きものや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+帯紐, 帯, 帯合わせ
+cluster1:(5)
+和服, 着物, 浴衣, 着物着, 浴衣選び
+cluster2:(4)
+熱海, 花火大会, 美容師, 熱海旅行
+cluster3:(3)
+誕生, 日記念, 誕生日
+cluster4:(11)
+所, こと, 余裕, 機会, 時間, 形, お陰, 度, 方々, 方, 色
+cluster5:(2)
+着付け, きもの
+cluster6:(8)
+スタッフ, 思い出, アレンジ, ヘアアレンジ, アドバイス, スポット, イメージ, 幼なじみ
+cluster7:(1)
+リラックスムード
+cluster8:(1)
+結び方
+cluster9:(7)
+写真, 地元トーク, 友人, 店, 旅行, 電話, 互い
+cluster10:(4)
+母娘, ヘアセット, 髪型, 娘
+
+howmany entities : 49
+howmany clusters : 11
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 8
+deleted 4entities.

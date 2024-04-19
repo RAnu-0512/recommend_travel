@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白浜観光ドライブイン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+博物館, 貝, 福袋, バス, 手, 店, 元旦, 情報, 観光, 裏山, 場所, ブルーヘブン, 軒, サーフショップ
+cluster1:(3)
+下田, 白浜, さんま寿司
+cluster2:(1)
+駐車場
+cluster3:(1)
+お土産屋
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 2entities.

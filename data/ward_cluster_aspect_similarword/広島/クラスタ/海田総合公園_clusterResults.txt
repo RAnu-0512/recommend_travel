@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海田総合公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+子, 子供, 休日, 娘, 大人, 家族, 子ども, 子供達
+cluster1:(5)
+中, 何箇所, 必要, 場所, 用途
+cluster2:(18)
+ベンチ, トイレ, 滑り台, 小さめ, お気に入り, ターザンロープ, アスレチック, ローラーコースター, コンビニ, コイン, シート, ローラー滑り台, ブランコ, 山, 気持ち, ダンボール, テニスコート, 自然
+cluster3:(2)
+持参, 弁当
+cluster4:(1)
+ソリ
+cluster5:(14)
+大型遊具, 駐車場, 海田町, 海田公園, 野球場, 坂滑り, 福祉トイレ, 駐車料金, 駐車代, 公園側, 海田総合公園, 芝滑り, 公園, 遊具
+
+howmany entities : 48
+howmany clusters : 6
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 6
+deleted 0entities.

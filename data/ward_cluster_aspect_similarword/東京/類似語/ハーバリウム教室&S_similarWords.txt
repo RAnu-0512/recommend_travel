@@ -1,0 +1,17 @@
+--------------------similar_words:ハーバリウム教室&S--------------------
+top3 entities near to cluster0>>
+円柱型, 円柱, 角柱
+top3 entities near to cluster1>>
+教室, 先生, 講師
+top3 entities near to cluster2>>
+体験型, 体験, 体験談
+top3 entities near to cluster3>>
+リボン, タッセル, ボトル
+top3 entities near to cluster4>>
+他所, 基本, 余所
+top3 entities near to cluster6>>
+縦長, 容量, 平面
+top3 entities near to cluster8>>
+花材, 花, 受素
+top3 entities near to cluster9>>
+ハー, バリウム

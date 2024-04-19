@@ -1,0 +1,11 @@
+--------------------similar_words:八丈富士牧野・ふれあい牧場--------------------
+top3 entities near to cluster0>>
+牧場, 放牧, 農場
+top3 entities near to cluster1>>
+砂利道, 砂利, 道路
+top3 entities near to cluster2>>
+急坂, 中腹, 登山
+top3 entities near to cluster4>>
+タカ, レン, ジャー
+top3 entities near to cluster6>>
+展望地, 牧草地, 牧草, 展望

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猫のいる休憩室 谷保ねこ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+猫ちゃん, 猫カフェ, 猫
+cluster1:(2)
+店, 店内
+cluster2:(4)
+にゃんこ, 方, 息子, ひととき
+cluster3:(1)
+穴場
+cluster4:(1)
+立川
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

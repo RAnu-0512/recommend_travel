@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ONOMICHI U2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+桜, パン, 海
+cluster1:(4)
+対応, 感じ, こと, 意味
+cluster2:(5)
+施設, 車, 売店, 近く, 場所
+cluster3:(5)
+スポット, タイミング, レンタルサイクリング, レストラン, メイン
+cluster4:(3)
+ランチ, ビュッフェスタイル, カフェ
+cluster5:(1)
+後続
+cluster6:(3)
+警備員, 観光地, 宿泊施設
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 7
+deleted 0entities.

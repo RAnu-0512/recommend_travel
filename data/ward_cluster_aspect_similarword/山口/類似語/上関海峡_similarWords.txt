@@ -1,0 +1,11 @@
+--------------------similar_words:上関海峡--------------------
+top3 entities near to cluster1>>
+景色, 風景, 天気
+top3 entities near to cluster2>>
+温泉, 食事, 夕食
+top3 entities near to cluster3>>
+釣船, 釣
+top3 entities near to cluster4>>
+駅橋, 駅道, 駅
+top3 entities near to cluster6>>
+海峡, 半島, ダータネルス

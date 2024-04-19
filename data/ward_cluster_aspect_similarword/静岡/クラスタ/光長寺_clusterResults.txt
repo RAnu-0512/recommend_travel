@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光長寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+風情, 風格, 威厳
+cluster1:(3)
+本堂, 境内, 寺
+cluster2:(8)
+御朱印, 見ごたえ, 時期, 赤ちゃん, 歴史, 近く, 桜, 前
+cluster3:(1)
+紅葉時期
+cluster4:(4)
+駐車場, 門池公園, 西之坊, 根方街道
+cluster5:(1)
+ぬまづの宝100選
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 2entities.

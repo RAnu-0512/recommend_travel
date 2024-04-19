@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トウランティー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+テンション, シール, ドリンク, クリーム
+cluster1:(2)
+タピオカミルク, ミルク
+cluster2:(2)
+ミルクティー, タピオカティー
+cluster3:(4)
+コク, 産地, 拘り, 風味
+cluster4:(3)
+お店屋, 体験, ティー作り体験
+cluster5:(1)
+茶葉
+cluster6:(1)
+密閉蓋
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

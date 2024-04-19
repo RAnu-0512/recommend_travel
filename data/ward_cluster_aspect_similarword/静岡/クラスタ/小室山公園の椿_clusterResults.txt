@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小室山公園の椿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+椿館, 小室桜, 椿, つつじ園, つばき園
+cluster1:(19)
+行程, 国道側, ツアー客, 全体, 季節もの, バスツアー, 光景, 入口, 満開, 葉っぱ, ピンク, 緑, 時間, 感じ, 花, 自然相手, 苦笑, 伊藤, 桜
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:倉田百三の墓--------------------
+top3 entities near to cluster0>>
+墓所, 墓碑
+top3 entities near to cluster1>>
+碑文, 石碑, 銘文
+top3 entities near to cluster2>>
+想い, 恋心, 気持ち

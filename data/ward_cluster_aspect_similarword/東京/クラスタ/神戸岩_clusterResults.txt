@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩, 岩壁
+cluster1:(2)
+ロッジ神戸, 神戸岩
+cluster2:(1)
+大岩峰
+cluster3:(3)
+渓谷歩き, キャンプ場, 駐車場
+cluster4:(4)
+東京都, 木, 都, 最終日
+cluster5:(11)
+山, 清流, 自然, 光, 滝, 鎖, 陽, 川, 橋, 空気, 水洗
+cluster6:(38)
+パワースポット, 小学生, 途中, 場所, 天然記念物, 通りすがり, 先, ゴールデンウィーク, 元, 人, 間, ところ, 距離, バイク, 雨上がり, 形, リフレッシュ, 指定天然記念物, トイレ, 点, 上, 車, 男の子, スチール, ロッジ, トンネル, 川べり, 徒歩, 写真, 方, バス, 下, 道, ロープ, ハイキング, パワー, ハシゴ, 横
+cluster7:(5)
+穴場, 価値, 迫力, 小さなお子, 風情
+
+howmany entities : 66
+howmany clusters : 8
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 8
+deleted 0entities.

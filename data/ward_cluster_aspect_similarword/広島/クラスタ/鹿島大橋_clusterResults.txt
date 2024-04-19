@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿島大橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+傍, 車, 倉橋島, 右
+cluster1:(2)
+道, 橋
+cluster2:(1)
+対面
+cluster3:(1)
+鹿島
+cluster4:(1)
+高所恐怖
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

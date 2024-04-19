@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リーフ レイダーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+こどもたち, 息子, 娘, 小学, 子供, 子供たち
+cluster1:(7)
+魚, 海水, 台風, 群れ, 伊東, 波, 海
+cluster2:(10)
+目, 記念, 写真, 機会, 中, 場所, 施設, 前, 間, 方
+cluster3:(2)
+対応, 予約
+cluster4:(2)
+体験, 練習
+cluster5:(2)
+疲れ, コツ
+cluster6:(4)
+スタッフ, ショップ, ところ, シャワー
+cluster7:(8)
+レクチャー, つかみ取り, シュノーケリングツアー, シュノーケル, スノーケリング, イントラ, インストラクター, シュノーケリング
+cluster8:(1)
+姉さん
+cluster9:(1)
+メール
+cluster10:(1)
+プール
+cluster11:(4)
+思い出, 高校生, ツアー, 小学生
+cluster12:(3)
+サザエ, イワシ, 熱帯魚
+cluster13:(1)
+茶
+cluster14:(1)
+イカ
+cluster15:(2)
+浮き輪, 更衣室
+cluster16:(1)
+伊東海洋公園
+cluster17:(1)
+ありがとうこざいます!
+
+howmany entities : 57
+howmany clusters : 18
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 7
+deleted 15entities.

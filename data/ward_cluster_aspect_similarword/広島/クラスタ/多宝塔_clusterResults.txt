@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多宝塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+組物, 垂木
+cluster1:(4)
+紅葉, いろは紅葉, 景色, 景観
+cluster2:(9)
+塔, 鳥居, 高台, 丘, 柵, 山, 屋根, 階段, 宝塔
+cluster3:(19)
+シンボル, 文化財, 季節, 大聖院, 桜, 薬師如来像, 花, 色, 冬枯れ, 味わい, 色合い, それぞれ, 訪問, 空, 五重塔, 多宝塔, 建造, 大願寺, 朱色
+cluster4:(23)
+そば, 建物, 西側, 存在, 驚き, 位置, 目, 感じ, 上, 写真, 部分, 人, 前, 木, 出口, 正面, 近く, 街, 道, こと, 場所, 意味, 周り
+cluster5:(3)
+観光客, 宝物館, 軒反り
+cluster6:(5)
+宮島, 厳島神社, 宮島観光, 千畳閣, 前回宮島
+
+howmany entities : 65
+howmany clusters : 7
+howmany entities (more than1entities) : 65
+howmany clusters (more than1entities) : 7
+deleted 0entities.

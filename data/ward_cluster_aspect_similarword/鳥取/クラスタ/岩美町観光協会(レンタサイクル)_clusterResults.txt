@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩美町観光協会(レンタサイクル)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+電動, 電動自転車, 電動アシスト
+cluster1:(24)
+サイクリング, 鍵, 浦富海岸, 時間, 車, 自転車, 移動, 貸し出し, オススメ, トンネル, おすすめ, 値段, レンタル, 鳥取砂丘, サービス, 料金, レンタサイクル, 気持ち, おじさん, レンタカー, レンタルサイクル, 割引き, 粗品, 場所
+cluster2:(5)
+観光, 地図, 天気, 景色, 旅行
+cluster3:(2)
+坂, 坂道
+cluster4:(4)
+奥, 大サービス, 雪, 風
+cluster5:(2)
+歩道, 砂丘
+cluster6:(1)
+レン太
+cluster7:(3)
+観光協会, 観光客, 遊覧船
+cluster8:(3)
+駅, 駅周辺, 城原海岸
+cluster9:(2)
+鳥取市, 鳥取県
+cluster10:(2)
+岩美町, 岩美駅
+
+howmany entities : 51
+howmany clusters : 11
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 11
+deleted 0entities.

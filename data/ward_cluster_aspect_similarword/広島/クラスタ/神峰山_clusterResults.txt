@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神峰山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+山, 神峰山, 瀬戸内海, ところ, 注意, 大崎上島
+cluster1:(3)
+道, 運転, 山道
+cluster2:(4)
+景色, 頂上, 山頂, 島々
+cluster3:(1)
+かもめ館
+cluster4:(4)
+休憩場所, 展望台, 見晴し, 駐車場
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

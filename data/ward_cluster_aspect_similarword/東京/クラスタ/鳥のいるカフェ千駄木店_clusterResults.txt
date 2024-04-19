@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥のいるカフェ千駄木店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+大型鳥, 癒し系鳥, 鳥ちゃん達, 鳥達, インコたち, フン, 餌, インコちゃん達, 鳥たち, 子, 鳥さんたち, 鳥, 子たち
+cluster1:(13)
+店, 荷物, 予約時間, 布製スニーカー, 靴, 中銀座, 店員, 時間, 部屋, 大声, 入店, インコ部屋, 店内
+cluster2:(9)
+気, 感じ, 体験, わーーー, 対応, こと, 方, 愛嬌, 注意
+cluster3:(2)
+肩, 腕
+cluster4:(2)
+指, 手
+cluster5:(2)
+カオス, パワー
+cluster6:(3)
+インコ, フクロウ, セキセイインコ
+cluster7:(2)
+子ども, 触れあい
+cluster8:(7)
+スタッフ, ポケット, ポンチョ, ロッカー, 入り口, ズボン, スペース
+cluster9:(1)
+フード
+cluster10:(1)
+口コミ
+cluster11:(1)
+九官鳥
+cluster12:(7)
+人, 子供, 奥, 頭, 種, 人間, 妻
+
+howmany entities : 63
+howmany clusters : 13
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 13
+deleted 0entities.

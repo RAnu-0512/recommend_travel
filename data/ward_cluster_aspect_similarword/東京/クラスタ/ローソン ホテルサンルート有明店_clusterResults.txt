@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ローソン ホテルサンルート有明店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+餅, 菓子, みたらし団子
+cluster1:(2)
+感じ, 方
+cluster2:(12)
+ホテル, コンビニ, みたらしソース, サンルート, サンドイッチ, ランチビッフェ, コンビニローソン, 飲み物, ローソン, 買い物, サイト, ホテルレストラン
+cluster3:(1)
+和
+cluster4:(1)
+東京ビッグ
+cluster5:(1)
+購入.
+cluster6:(3)
+品揃え, もち食感ロール, 食料調達
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

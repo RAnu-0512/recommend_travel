@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熊野の長フジ(行興寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ほのかな藤, 藤, 沢山の藤, 藤色, 藤 白の藤
+cluster1:(2)
+樹齢, 推定樹齢
+cluster2:(5)
+熊野, 磐田市, 熊野御前, 行興寺, 池田宿
+cluster3:(3)
+美しさ, 長さ, 長〜い藤
+cluster4:(9)
+幹回り, 藤棚, 長藤公園, 満開, 見頃, 長藤, 古木特有, 桜, 古木
+cluster5:(4)
+花, 香り, 風, 木
+cluster6:(7)
+時期, 地元, こと, もの, 国, 場所, 時代
+cluster7:(12)
+平清盛, イベント, GW, 河川敷, 天然記念物, タイミング, 買い物, スーパー, カーテン, 雰囲気, スポット, 天竜川
+cluster8:(5)
+敷地, 花房, 平安, 境内, 寺
+cluster9:(4)
+見ごろ, 混雑, ゆらゆら揺れ, 迫力
+cluster10:(1)
+駐車場
+
+howmany entities : 57
+howmany clusters : 11
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 9
+deleted 3entities.

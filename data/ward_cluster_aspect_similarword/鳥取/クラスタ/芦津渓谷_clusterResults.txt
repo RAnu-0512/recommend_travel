@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芦津渓谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+渓谷, 渓谷沿い, 三滝ダム, 自然歩道, 渓谷美
+cluster1:(17)
+上流, 智頭, 中国, 森, 山奥, 滝, 北股川, こと, 遊歩道, 観光客, 紅葉, 水源, 日本屈指, 人, 方, スポット, 芦津
+cluster2:(1)
+氷ノ山後山那岐山国定公園
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

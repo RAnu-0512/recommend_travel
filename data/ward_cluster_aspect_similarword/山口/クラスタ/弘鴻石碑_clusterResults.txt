@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弘鴻石碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+珠算, 測量, 算数, 数学者
+cluster1:(2)
+著書, 歴史
+cluster2:(2)
+明治, 江戸
+cluster3:(1)
+暦
+cluster4:(1)
+説明書き
+cluster5:(1)
+弘鴻石碑
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

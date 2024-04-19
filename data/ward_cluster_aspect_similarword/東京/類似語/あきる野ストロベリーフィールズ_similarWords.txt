@@ -1,0 +1,15 @@
+--------------------similar_words:あきる野ストロベリーフィールズ--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 清潔
+top3 entities near to cluster1>>
+摘み, 狩り, いちご
+top3 entities near to cluster2>>
+練乳, 苺, イチゴ
+top3 entities near to cluster3>>
+品種, 農園, 農場
+top3 entities near to cluster4>>
+子供, 子ども, 家族
+top3 entities near to cluster5>>
+建物, 外観, 施設
+top3 entities near to cluster7>>
+接客, 応対, 業務

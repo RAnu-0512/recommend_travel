@@ -1,0 +1,17 @@
+--------------------similar_words:長沢の池--------------------
+top3 entities near to cluster0>>
+中の間, ただ今, 中っ
+top3 entities near to cluster2>>
+周辺, 近辺
+top3 entities near to cluster3>>
+風情, 趣き, 趣
+top3 entities near to cluster4>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster5>>
+桜池, 鳥居, 桜
+top3 entities near to cluster6>>
+弁天池, 稲荷, 弁天
+top3 entities near to cluster7>>
+資料, 郷土, 館
+top3 entities near to cluster8>>
+作る, 時代, 造る

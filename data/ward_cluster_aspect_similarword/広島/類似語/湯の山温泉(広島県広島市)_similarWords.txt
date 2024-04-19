@@ -1,0 +1,21 @@
+--------------------similar_words:湯の山温泉(広島県広島市)--------------------
+top3 entities near to cluster0>>
+入浴, 受付, 予約
+top3 entities near to cluster1>>
+設備, 施設, ビル
+top3 entities near to cluster2>>
+坂, おじ, ちゃん
+top3 entities near to cluster3>>
+身体, 脳, 足
+top3 entities near to cluster4>>
+印象, 人達
+top3 entities near to cluster5>>
+矢印, 文字, 「>」
+top3 entities near to cluster6>>
+トイレ, 子ども, ロッカー
+top3 entities near to cluster7>>
+地元, 山, 麓
+top3 entities near to cluster9>>
+牛乳, ミルク, ヨーグルト
+top3 entities near to cluster12>>
+温泉, 湯, 温泉郷

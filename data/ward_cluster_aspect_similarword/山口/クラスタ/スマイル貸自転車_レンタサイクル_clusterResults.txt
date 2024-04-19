@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スマイル貸自転車_レンタサイクル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+街, 宿
+cluster1:(6)
+対応, ルート, こと, スマイル, レンタサイクル, 口コミ
+cluster2:(1)
+荷物
+cluster3:(3)
+観光地, 東萩駅, 萩
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

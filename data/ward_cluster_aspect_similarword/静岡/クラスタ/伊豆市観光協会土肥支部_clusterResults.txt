@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆市観光協会土肥支部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+案内所, 観光案内所, 案内所目
+cluster1:(2)
+松原公園, 土肥海岸
+cluster2:(9)
+場所, パンフレット, 花, シンボル, 顔, 横, 歌碑, 花時計, 女性
+cluster3:(1)
+花登筺
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 3entities.

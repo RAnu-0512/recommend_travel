@@ -1,0 +1,11 @@
+--------------------similar_words:六義園 大泉水池畔--------------------
+top3 entities near to cluster0>>
+風景, 光景, 景観
+top3 entities near to cluster1>>
+島池, 湖池, 島, 湖
+top3 entities near to cluster2>>
+中心, 中央, 中核
+top3 entities near to cluster3>>
+桜門, 桜, 駅
+top3 entities near to cluster4>>
+人工池, 泉水, 人工

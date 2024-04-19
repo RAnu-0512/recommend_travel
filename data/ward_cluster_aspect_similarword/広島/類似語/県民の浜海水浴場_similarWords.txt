@@ -1,0 +1,11 @@
+--------------------similar_words:県民の浜海水浴場--------------------
+top3 entities near to cluster1>>
+海水浴場, 海水浴, 場裏
+top3 entities near to cluster2>>
+砂浜, 海, 浜
+top3 entities near to cluster3>>
+子供, 人達
+top3 entities near to cluster4>>
+施設, 設備, 敷地
+top3 entities near to cluster6>>
+県民, 府民, 都民

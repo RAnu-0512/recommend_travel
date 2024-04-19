@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ファーマーズマーケット磐田南部どっさり市>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+野菜, 野菜ジュース
+cluster1:(3)
+時期, もの, 季節
+cluster2:(5)
+花, 手, 地元, ジェラート, スーパー
+cluster3:(1)
+藤
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

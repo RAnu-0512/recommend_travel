@@ -1,0 +1,13 @@
+--------------------similar_words:田中義一別邸--------------------
+top3 entities near to cluster0>>
+中庭, 庭, 内部
+top3 entities near to cluster1>>
+別邸, 邸宅, 別荘
+top3 entities near to cluster2>>
+景観, 建築, 街並み
+top3 entities near to cluster3>>
+内覧, モデルハウス, モデルルーム
+top3 entities near to cluster4>>
+柑橘, 公園, 柑橘類
+top3 entities near to cluster5>>
+総理, 内閣, 首相

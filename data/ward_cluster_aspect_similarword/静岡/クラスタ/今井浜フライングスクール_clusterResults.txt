@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今井浜フライングスクール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スクール, フライト
+cluster1:(2)
+パラグライダー, タンデムフライト
+cluster2:(2)
+ダンデム, インストラクター
+cluster3:(1)
+スタッフ
+cluster4:(1)
+リベンジ
+cluster5:(1)
+mスタッフ
+cluster6:(1)
+中止
+cluster7:(5)
+子どもたち, 家族, 夫, 子供, 子ども
+cluster8:(2)
+雨, 風
+cluster9:(2)
+鳥, 空
+cluster10:(1)
+命
+cluster11:(2)
+親切フレンドリー, 世話
+cluster12:(12)
+最後, 姿, 方, 感動, 瞬間, 様子, 景色, 次回, 場所, 気分, 方々, 思い
+cluster13:(6)
+パラグライダー体験, タンデム体験, 使命感, 参加者, 体験, 浮遊体験
+
+howmany entities : 40
+howmany clusters : 14
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 17entities.

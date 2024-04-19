@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:初代行司式守伊之助の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+上覧相撲, 相撲, 後期, 出身, 小稲, 南伊豆町, 墓, 行司, 伊之助
+cluster1:(2)
+徳川家斉, 江戸時代中期
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

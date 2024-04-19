@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大浜海水浴場(山口県長門市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+景色, 景観, 木々, 天気
+cluster1:(3)
+こと, 機会, 場所
+cluster2:(3)
+砂浜, 波, 海岸
+cluster3:(18)
+シーズン, 海水浴, 家族, 色, 夏, ビーチ, 日本, 日本海, 本州, サーフィン, エメラルドグリーン, 周り, 水, 人, 海, オフシーズン, 気持ち, 山
+cluster4:(1)
+青い海
+cluster5:(6)
+大浜海水浴場, 海水浴客, 海水浴場, 観光客, キャンプ場, 駐車場
+
+howmany entities : 35
+howmany clusters : 6
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 6
+deleted 0entities.

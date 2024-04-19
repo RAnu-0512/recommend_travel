@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:らんぷ SOUQ Kanz>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+仕上がり, 雰囲気, デザイン, 仕上げ
+cluster1:(3)
+ガラス, ライト, ランプ
+cluster2:(1)
+色
+cluster3:(1)
+体験
+cluster4:(1)
+デザイン決め
+cluster5:(4)
+店, 店内, 時間, 隙間
+cluster6:(1)
+石膏
+cluster7:(1)
+貼り付け
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 8
+deleted 0entities.

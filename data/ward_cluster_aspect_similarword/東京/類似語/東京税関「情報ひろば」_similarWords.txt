@@ -1,0 +1,15 @@
+--------------------similar_words:東京税関「情報ひろば」--------------------
+top3 entities near to cluster0>>
+税関, 検疫, 港
+top3 entities near to cluster1>>
+入館証, 身分証, 身分, 入館
+top3 entities near to cluster2>>
+見学, 予約, 視察
+top3 entities near to cluster3>>
+許可, 記入, 情報
+top3 entities near to cluster4>>
+出入り口付近, 出入り口
+top3 entities near to cluster5>>
+撮影, 記念, 写真
+top3 entities near to cluster6>>
+分の

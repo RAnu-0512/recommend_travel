@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有栖川宮記念公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本数, 距離, 道幅
+cluster1:(8)
+ソメイヨシノ, 八重桜, 人, 緑, すべて, 方, サクラ, のんびり
+cluster2:(3)
+季節, 時期, 風情
+cluster3:(1)
+品種
+cluster4:(1)
+泉水
+cluster5:(12)
+有栖川公園, 大島桜, 公園, 弁当, 花見, 散歩, 広場, 住宅街, 花見客, 中州, 桜, 満開
+cluster6:(1)
+騎馬像
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

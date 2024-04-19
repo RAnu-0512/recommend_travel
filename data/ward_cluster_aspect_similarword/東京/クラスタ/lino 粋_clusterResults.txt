@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:lino 粋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+娘たち, 小瓶, お花
+cluster1:(2)
+意欲, 手本
+cluster2:(11)
+作品, 状態, ハーバリウム, 体験, アドバイス, 場, 知識, 作業スペース, 制約, 周り, アイディア
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

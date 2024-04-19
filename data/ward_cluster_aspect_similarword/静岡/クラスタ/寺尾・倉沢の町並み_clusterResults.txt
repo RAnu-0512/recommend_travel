@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寺尾・倉沢の町並み>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+宗像神社, 寺尾地区, 雰囲気, 東海道五, 東海道筋, 由比駅, 途中, 金谷駅, 歩道橋, 三次ウォーキング, 間, 蒲原駅, 街道
+cluster1:(2)
+茶屋本陣跡, 宿脇本陣跡
+cluster2:(2)
+西倉澤地区, 東倉澤地区
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 4entities.

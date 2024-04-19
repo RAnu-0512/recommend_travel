@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キドキドよみうりランド店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+雨, 場所, 休日, 天気, 時間
+cluster1:(10)
+ランド, スタッフ, コンセプト, 兄さん, シェーキーズ, トランポリン, よみうりランド, スポット, 雰囲気, リクエスト
+cluster2:(5)
+キドキド, 子ども, キドキドよみうりランド, 遊び場, お子様
+cluster3:(1)
+体
+cluster4:(2)
+喜び, 夢
+cluster5:(5)
+人, 印象, 心配, 方, おりトラブル
+cluster6:(3)
+係, 管理, 安全
+cluster7:(7)
+店, 屋内, 室内, 施設, 遊具, キドキドよみうりランド店, 屋内施設
+cluster8:(14)
+大人, 娘, 遊び放題, 親, 子供, 遊び, ブロック遊び, 親御, 子様, 子供連れ, 子供たち, そこら辺, 親子, 孫
+cluster9:(1)
+稲城市
+
+howmany entities : 53
+howmany clusters : 10
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 10
+deleted 0entities.

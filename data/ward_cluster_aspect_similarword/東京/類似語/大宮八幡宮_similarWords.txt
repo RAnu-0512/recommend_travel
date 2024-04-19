@@ -1,0 +1,35 @@
+--------------------similar_words:大宮八幡宮--------------------
+top3 entities near to cluster0>>
+参拝, 祈祷, 神社
+top3 entities near to cluster1>>
+屋台, 寒い, 季節
+top3 entities near to cluster2>>
+お参り, 初参り, 御参り
+top3 entities near to cluster3>>
+駐輪場, 雨漏り, 駐車
+top3 entities near to cluster4>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster5>>
+つもり, おかげ, わけ
+top3 entities near to cluster6>>
+オーラ, ネガティブオーラ, ポジティブオーラ
+top3 entities near to cluster7>>
+こども, おでん, 子育て
+top3 entities near to cluster8>>
+パワー, エナジー, エネルギー
+top3 entities near to cluster9>>
+不二家, レストラン, ミルキークリームロール
+top3 entities near to cluster10>>
+人達, 自分
+top3 entities near to cluster12>>
+問題, 事象, ゴミ
+top3 entities near to cluster13>>
+印象, 質問, 驚き
+top3 entities near to cluster14>>
+場面, 言葉, シーン
+top3 entities near to cluster15>>
+状況, 有様, 状態
+top3 entities near to cluster17>>
+回数, 機会, 距離
+top3 entities near to cluster18>>
+反省, 憤慨, 謝罪

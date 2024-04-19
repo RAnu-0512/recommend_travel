@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新木場駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+のりんかい線, JRやりんかい線
+cluster1:(5)
+東京メトロ有楽町, 千葉, 東京メトロ, 東京ビックサイト, 新宿
+cluster2:(18)
+昔, エスカレーター, 新木場, オリンピック, 有楽町線, 人, ディズニーランド, 気, ところ, 始発駅, 京葉線, ホーム, メトロ, 施設, 手, 会社, 乗り換え, アーテスト
+cluster3:(2)
+線, 路線
+cluster4:(2)
+JR, 電車
+cluster5:(1)
+運賃
+cluster6:(1)
+本数
+cluster7:(16)
+高架下, エキナカ店, 改札口, 駅側, 池袋方面, 大宮方面, 羽田方面, 千葉方面, 埼玉方面, 駅, 改札, 舞浜駅, 駅周辺, 飲食店, 方面, 展示会
+
+howmany entities : 47
+howmany clusters : 8
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 8
+deleted 0entities.

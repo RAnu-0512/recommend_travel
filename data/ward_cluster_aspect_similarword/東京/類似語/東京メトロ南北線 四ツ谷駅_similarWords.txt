@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ南北線 四ツ谷駅--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 路線
+top3 entities near to cluster1>>
+南北線, 地下鉄, ホーム
+top3 entities near to cluster2>>
+時間, 時, 期間
+top3 entities near to cluster3>>
+地下, 地上, 南北
+top3 entities near to cluster5>>
+商業, 施設, 焚八

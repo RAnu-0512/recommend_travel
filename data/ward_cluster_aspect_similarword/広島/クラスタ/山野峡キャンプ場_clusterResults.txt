@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山野峡キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+龍頭峡, 山野峡キャンプ場
+cluster1:(4)
+広島, 河, 四方, 川
+cluster2:(3)
+常設テント, キャンプ場, 空気
+cluster3:(2)
+水, 夏
+cluster4:(11)
+キャンプ, ふたつ, キャンプシーズン, 人, テントサイト, テーブル, 思い出, 貸し出しテント, 日帰り, テント, 場所
+cluster5:(1)
+星空
+cluster6:(6)
+渓谷, 峡谷, 観光スポット, 自然公園, 山々, 自然
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

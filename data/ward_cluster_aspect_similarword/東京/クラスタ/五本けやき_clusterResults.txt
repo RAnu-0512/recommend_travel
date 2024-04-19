@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五本けやき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+道路, 景観, 景色
+cluster1:(9)
+人, 他, 都会, 緑, 中央分離帯, 場所, ケヤキ, 木, 関東大震災
+cluster2:(1)
+復興事業
+cluster3:(3)
+板橋辺り, 川越街道, けやき
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

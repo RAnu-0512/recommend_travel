@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:虹ケ浜海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+浜, 海水浴客, 遠浅, 砂浜, 海岸, 海水浴場
+cluster1:(17)
+景色, 空, 息子, 夕日, 夏, 時間, 間, 鑑賞, 夕暮れ, 事, 人, 楽しみ, 海, 様子, 旅, 夕焼け, 山
+cluster2:(4)
+花嫁, 瀬戸, 関西, 梅
+cluster3:(2)
+冠公園, 冬期間
+cluster4:(1)
+山口県
+cluster5:(1)
+虹ヶ浜
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 6
+deleted 0entities.

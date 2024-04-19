@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:築地魚河岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+築地場外市場, 築地場外
+cluster1:(2)
+場外店舗, 場外市場
+cluster2:(2)
+観光案内所, カメラ撮影禁止マーク
+cluster3:(2)
+想定外, 中央区
+cluster4:(7)
+寿司, 築地, 刺身, 小田原橋, 豊洲, 海鮮, 魚
+cluster5:(2)
+フードコート, フードコート式
+cluster6:(2)
+休業, 燃焼
+cluster7:(17)
+所, 店, 食事, 建物, 店舗, ポツポツ, ヤッパリ売り切れ店, 市場, 館内, ランチ, 食堂, 買い物, 物色, トイレ利用, こと, イートイン, 外観
+cluster8:(2)
+鉄火丼, 海幸棟
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふじのくに地球環境史ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡県, 静岡市, 静岡南高校
+cluster1:(3)
+高校, 廃校, 学校
+cluster2:(3)
+展示, 対話, 説明
+cluster3:(8)
+博物館, ミュージアム, サービススタッフ, ターゲット, 女性, ミュージアムサポーター, 雰囲気, 環境
+cluster4:(1)
+極み
+cluster5:(1)
+逆手
+cluster6:(1)
+熱量
+cluster7:(1)
+美しさ
+cluster8:(4)
+研究員, 造詣, 教育普及担当, 展示造詣
+cluster9:(1)
+ふじのくに地球環境史ミュージアム
+
+howmany entities : 26
+howmany clusters : 10
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 5entities.

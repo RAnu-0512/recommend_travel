@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まるよし農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+時間制限, 時間無制限, 時間制限無し
+cluster1:(2)
+子, 娘
+cluster2:(2)
+家族, 子供
+cluster3:(4)
+車, 容器, 店, 味
+cluster4:(2)
+ハウス, ビニールハウス
+cluster5:(3)
+鉢植え, ゴミ箱, トイレ
+cluster6:(4)
+クーポン, 心遣い, ファン, グループ
+cluster7:(4)
+イチゴ, ひし形, 鈴なり, いちご
+cluster8:(3)
+雨, 赤, 畑
+cluster9:(1)
+粒
+cluster10:(19)
+傍, 案内, 勉強, 側, 予定, 帰り, 感謝, ヘタ, お腹, 受付, 予約, 人, 時間, 魅力, 場所, 人気, 世話, 他, 方
+cluster11:(1)
+大きさ
+cluster12:(7)
+苺, 食べ放題, マルヨシ農園, 苺ハウス, いちご狩り, 苺狩り, 石垣いちご
+
+howmany entities : 55
+howmany clusters : 13
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 8
+deleted 8entities.

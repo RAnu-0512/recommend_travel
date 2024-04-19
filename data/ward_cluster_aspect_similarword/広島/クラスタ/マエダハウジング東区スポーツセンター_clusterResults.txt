@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マエダハウジング東区スポーツセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体操, 卓球
+cluster1:(8)
+交代, 人, スケート, スタッフ, バドミントン, 受付, 投げ, 禁止
+cluster2:(1)
+愛想
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

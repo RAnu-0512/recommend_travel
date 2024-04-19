@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寂地山_かたくりの花>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+カタクリ群落, 群生地, 群生
+cluster1:(3)
+登山, 山頂, 登山コース
+cluster2:(3)
+花, お花, 花達
+cluster3:(4)
+道中, 家族, 場所, 人
+cluster4:(2)
+春, 緑
+cluster5:(6)
+カタクリ, 寂地山, 錦町, イカリソウ, ハイキング, エンレイソウ
+cluster6:(1)
+滝
+cluster7:(1)
+弁当
+cluster8:(1)
+かたくり
+cluster9:(3)
+岩国観光, 岩国, 山野草
+
+howmany entities : 27
+howmany clusters : 10
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 10
+deleted 0entities.

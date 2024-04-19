@@ -1,0 +1,11 @@
+--------------------similar_words:MaxMara--------------------
+top3 entities near to cluster0>>
+ブランド, 有名ブランド, コンテンポラリーブランド
+top3 entities near to cluster4>>
+女性, 男性, 妙齢
+top3 entities near to cluster5>>
+冬, 夏, 春
+top3 entities near to cluster6>>
+値段, 安い, 価格
+top3 entities near to cluster7>>
+ハイ, ロー, ナチュラル

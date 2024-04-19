@@ -1,0 +1,9 @@
+--------------------similar_words:福一焼津流通センター--------------------
+top3 entities near to cluster1>>
+地元, 遠方, 隣県
+top3 entities near to cluster2>>
+食材店, 海産物, 食材
+top3 entities near to cluster3>>
+台所, 野菜, 足
+top3 entities near to cluster4>>
+刺身, 寿司

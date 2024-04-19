@@ -1,0 +1,15 @@
+--------------------similar_words:SL資料館--------------------
+top3 entities near to cluster1>>
+興味, 興奮
+top3 entities near to cluster4>>
+グッズ, トーマス, おもちゃ
+top3 entities near to cluster6>>
+期間, 時間, 限定
+top3 entities near to cluster8>>
+資料, 歴史, 写真
+top3 entities near to cluster9>>
+駅, 入口, そば
+top3 entities near to cluster10>>
+鉄道, 私鉄, 車両
+top3 entities near to cluster11>>
+機関車, 駅車, 機関, 駅

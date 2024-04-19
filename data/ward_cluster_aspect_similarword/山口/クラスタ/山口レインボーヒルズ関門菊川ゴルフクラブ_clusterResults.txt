@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口レインボーヒルズ関門菊川ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ナイター, ゴルフ
+cluster1:(1)
+接待ゴルフ
+cluster2:(1)
+山口レインボーヒルズ関門菊川ゴルフクラブ
+
+howmany entities : 4
+howmany clusters : 3
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 3
+deleted 0entities.

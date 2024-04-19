@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たけはら美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+美術館, 日本
+cluster1:(1)
+竹原駅
+cluster2:(1)
+横山大観
+cluster3:(1)
+入館料
+cluster4:(1)
+安井曽太郎
+cluster5:(1)
+内閣総理大臣池田勇人
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

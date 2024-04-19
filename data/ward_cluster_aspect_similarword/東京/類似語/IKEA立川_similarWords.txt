@@ -1,0 +1,103 @@
+--------------------similar_words:IKEA立川--------------------
+top3 entities near to cluster0>>
+サラダ, サーモン, スモークサーモン
+top3 entities near to cluster1>>
+子連れ, 遊び場, 駐輪場
+top3 entities near to cluster2>>
+買い物, カート, バッグ
+top3 entities near to cluster3>>
+ランチ, グルメ, ごはん
+top3 entities near to cluster4>>
+コーナー, プチコーナー, レストコーナー
+top3 entities near to cluster5>>
+おもちゃ, オモチャ, 玩具
+top3 entities near to cluster6>>
+グッズ, グッツ, クリスマス
+top3 entities near to cluster7>>
+コーナ, コーナー, ブレーキング
+top3 entities near to cluster8>>
+イケア, イケヤ, ＩＫＥＡ
+top3 entities near to cluster9>>
+ベッド, ソファー, ソファ
+top3 entities near to cluster10>>
+タンス, ジャム, クローゼット
+top3 entities near to cluster11>>
+コンセプト, イメージ, アイデア
+top3 entities near to cluster12>>
+インテリア, デザイン, ショールーム
+top3 entities near to cluster13>>
+レジャー, カップル, デートスポット
+top3 entities near to cluster14>>
+ドリンク, メニュー, プレート
+top3 entities near to cluster16>>
+コーヒー, モーニング, エスプレッソ
+top3 entities near to cluster17>>
+レストラン, 軽食, ソフトドリンク
+top3 entities near to cluster18>>
+クリスマス, イベント, ファミリー
+top3 entities near to cluster19>>
+レシート, コストコ, コストコ・
+top3 entities near to cluster20>>
+スタイル, テイスト, 雰囲気
+top3 entities near to cluster21>>
+コスパ, センス, コストパフォーマンス
+top3 entities near to cluster22>>
+並び方, 並べ方, 並びな
+top3 entities near to cluster23>>
+間取り, ＬＤＫ, ワンルーム
+top3 entities near to cluster25>>
+休み, 時間, 昼休み
+top3 entities near to cluster27>>
+態度, 思考, 現実
+top3 entities near to cluster28>>
+利用, 購入, 参考
+top3 entities near to cluster31>>
+数多い, ほか, これら
+top3 entities near to cluster32>>
+指手, なり手, 指
+top3 entities near to cluster33>>
+目的, 順路, 楽しい
+top3 entities near to cluster35>>
+レジ, 会計, 店員
+top3 entities near to cluster36>>
+配送料, 配送, 配達料, 配達
+top3 entities near to cluster37>>
+商品, 値段, 価格
+top3 entities near to cluster38>>
+料理, 食材, 食事
+top3 entities near to cluster39>>
+店舗, 各店
+top3 entities near to cluster40>>
+子供, 子ども, 家族
+top3 entities near to cluster41>>
+ベビー, フード, 赤ちゃん
+top3 entities near to cluster42>>
+フード, コート, オーガニックフード
+top3 entities near to cluster43>>
+ドック, パン, ホット
+top3 entities near to cluster45>>
+席, 座席, ソファー
+top3 entities near to cluster46>>
+大型, カゴ, 小型
+top3 entities near to cluster47>>
+混, 瓶
+top3 entities near to cluster48>>
+部屋, 厨房, 店内
+top3 entities near to cluster49>>
+駅, 軽食, 駅前
+top3 entities near to cluster51>>
+駐車場, 駐車, 満車
+top3 entities near to cluster52>>
+家具屋, いう屋, 家具, いう
+top3 entities near to cluster53>>
+家具, 雑貨, 家電
+top3 entities near to cluster54>>
+雑貨類, 家具類, 雑貨, 家具
+top3 entities near to cluster55>>
+小物, 雑貨, アクセサリー
+top3 entities near to cluster56>>
+雑貨, 小物, カフェクリエイター
+top3 entities near to cluster57>>
+売場, 売り場, 小物
+top3 entities near to cluster58>>
+揃え, そろえ

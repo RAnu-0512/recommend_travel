@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:郷倉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+中, 歴史, 外, もの, 小学校
+cluster1:(3)
+郷倉, 米, 蔵
+cluster2:(1)
+堀切小学校
+cluster3:(1)
+建造物
+cluster4:(1)
+江戸時代後期
+cluster5:(1)
+堀切菖蒲園駅
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

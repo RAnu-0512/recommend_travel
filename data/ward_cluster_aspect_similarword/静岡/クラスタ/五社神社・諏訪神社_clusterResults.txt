@@ -1,0 +1,62 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五社神社・諏訪神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+珍しさ, 大きさ
+cluster1:(2)
+御朱印帳, 達筆
+cluster2:(10)
+地元, 青空, 奥, 神, 朱色, 地方, 甘酒, JR, 両社, 西
+cluster3:(3)
+予約, 訪問, 祈祷
+cluster4:(7)
+多く, 方, 気, 周り, 感じ, こと, 参り
+cluster5:(4)
+家, 歴史, 規模, 価値
+cluster6:(4)
+時間, 名前, 途中, 場所
+cluster7:(3)
+人, 子供, 家族
+cluster8:(4)
+真ん中, ところ, サイド, 雰囲気
+cluster9:(2)
+七五三, 結婚式
+cluster10:(2)
+御朱印, お守り
+cluster11:(1)
+写真
+cluster12:(2)
+穴場, 立地
+cluster13:(6)
+車, 駅, 標識, 街, 道路, 建物
+cluster14:(1)
+完備
+cluster15:(4)
+お宮参り, 朱塗り, 御守り, お社
+cluster16:(3)
+徳川, 徳川家, 徳川家ゆかり
+cluster17:(2)
+浜松市, 浜松駅
+cluster18:(2)
+浜松城公園, 浜松城
+cluster19:(3)
+無料駐車場, 駐車場, 結婚式場
+cluster20:(7)
+参拝者, 参拝, 初詣, 初詣客, 参拝客, 家族連れ, 初詣スポット
+cluster21:(3)
+拝殿, 本殿, 社殿
+cluster22:(2)
+神社, 境内
+cluster23:(1)
+狛犬
+cluster24:(2)
+諏訪神社, 主祭神
+cluster25:(2)
+初宮詣, 五社公園
+cluster26:(10)
+事代主命, 武雷命, 太玉命, 浜松で七五三, 五社神社〓諏訪神社, 徳川二代将軍秀忠, 建御名方命, 素戔嗚命, 斎主命, 八坂刀売命
+
+howmany entities : 94
+howmany clusters : 27
+howmany entities (more than3entities) : 71
+howmany clusters (more than3entities) : 14
+deleted 23entities.

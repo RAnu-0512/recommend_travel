@@ -1,0 +1,19 @@
+--------------------similar_words:伊豆自然学校--------------------
+top3 entities near to cluster0>>
+海, 海水, 海中
+top3 entities near to cluster1>>
+子供, 息子, 母親
+top3 entities near to cluster3>>
+シュノーケル, シュノーケリング, シーカヤック
+top3 entities near to cluster7>>
+カップル, シャワー, クーポン
+top3 entities near to cluster12>>
+当方, 他社, 以前
+top3 entities near to cluster14>>
+日水, 時間, 日
+top3 entities near to cluster15>>
+周り
+top3 entities near to cluster16>>
+格好, 恰好, 景色
+top3 entities near to cluster17>>
+体験, 初, 割引

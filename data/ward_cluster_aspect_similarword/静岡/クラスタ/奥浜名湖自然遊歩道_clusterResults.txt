@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥浜名湖自然遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大崎海岸, 大崎半島
+cluster1:(3)
+抜群, 風情, 眺め
+cluster2:(7)
+松, 車, 浜名湖, レイクサイドウェイ, 頭上, 遊歩道, 枝葉
+cluster3:(1)
+湖岸遊歩道
+cluster4:(1)
+駐車場
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 4entities.

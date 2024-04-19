@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下松スポーツ公園(トラックワンアリーナ・総合グラウンド・球技場・冒険の森・温水プール「アクアピアこいじ」)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散歩コース, 周回コース
+cluster1:(16)
+子供, 健康, コスモス, スペース, ウォーキング, コース, 家族, アスレチック, ジョギング, 公園, 人, アスレチック場, スポット, 桜, グランド, プール
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

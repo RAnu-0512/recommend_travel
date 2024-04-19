@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:流しびなの館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+雛飾り, 紙雛, 雛, 流し雛
+cluster1:(2)
+景色, 景観
+cluster2:(4)
+建物, 展示, 施設, 館内
+cluster3:(12)
+全国, こと, 周り, ひな人形, あり池, 雛人形, 人形, 木, モチーフ, 時代, ローカル色, 昔
+cluster4:(3)
+大型木造建築, 展望台, 展望室
+cluster5:(1)
+無病息災
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 6
+deleted 0entities.

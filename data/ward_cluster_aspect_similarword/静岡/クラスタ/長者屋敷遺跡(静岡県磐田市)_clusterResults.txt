@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長者屋敷遺跡(静岡県磐田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+奈良, 場所, 跡, 隣, 役所, 時代, 駐車, 土塁, 遺跡, 石碑
+cluster1:(2)
+長者屋敷遺跡, 寺谷浄水場
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

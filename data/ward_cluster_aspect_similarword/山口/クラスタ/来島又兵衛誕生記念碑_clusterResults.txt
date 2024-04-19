@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:来島又兵衛誕生記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+帰り道, 京都御苑
+cluster1:(2)
+こと, 場所
+cluster2:(1)
+見学
+cluster3:(1)
+余韻
+cluster4:(5)
+御苑, 京都御所, 京都迎賓館, 厳島神社, 蛤御門
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

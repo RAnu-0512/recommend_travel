@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白猿の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+風呂, 湯二の湯, 泉質, 全国平成温泉, 塩素系, 熱め湯, 共同浴場, 俵山, 温泉, 名湯, 呑み湯, 内湯, お湯, 湯, 俵山温泉
+cluster1:(2)
+印象, 感じ
+cluster2:(2)
+休み, 営業
+cluster3:(7)
+車, 夏休み, ホテル, 朝風呂, 露天風呂, コロナ, 山
+cluster4:(2)
+昔, 地元
+cluster5:(3)
+中, 方, 人
+cluster6:(1)
+外
+cluster7:(1)
+町
+cluster8:(5)
+施設, ヌメリ感, マッサージ機, 設備, 温泉施設
+cluster9:(5)
+平日休館, 駐車場, 夜間割引, 湯治場, 観光客
+
+howmany entities : 43
+howmany clusters : 10
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 10
+deleted 0entities.

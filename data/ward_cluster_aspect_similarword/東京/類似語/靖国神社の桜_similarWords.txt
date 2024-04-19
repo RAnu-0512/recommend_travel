@@ -1,0 +1,23 @@
+--------------------similar_words:靖国神社の桜--------------------
+top3 entities near to cluster0>>
+開花, 時期, 満開
+top3 entities near to cluster1>>
+開花, 満開, 花開く
+top3 entities near to cluster2>>
+開花, 宣言, 満開
+top3 entities near to cluster3>>
+開花, 桜, 満開
+top3 entities near to cluster4>>
+桜, 八重桜, しだれ
+top3 entities near to cluster5>>
+見頃, 満開, 咲きそろう
+top3 entities near to cluster6>>
+夜桜, 花見, 桜
+top3 entities near to cluster7>>
+和, 桜, 標
+top3 entities near to cluster8>>
+淵, 千鳥, 含満
+top3 entities near to cluster11>>
+出店, 出展, 店舗
+top3 entities near to cluster12>>
+参拝, 境内, 神社

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南町田グランベリーパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+段差, 階段登り, 階段
+cluster1:(14)
+コロナ, エスカレーター, スタバ, 遠回り, 蓋, アウトレット, フードコート, タリーズ, 買い物, マナー, マック, ペット, スヌーピーミュージアム, キャンドゥ
+cluster2:(7)
+別, 自然, グランベリーモール時代, 機会, こと, 問題, 可
+cluster3:(11)
+店, 専門性, 建物, 公園, 盛土, 住民, 街, 街づくり, 駅, 道路, 道
+
+howmany entities : 35
+howmany clusters : 4
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 4
+deleted 0entities.

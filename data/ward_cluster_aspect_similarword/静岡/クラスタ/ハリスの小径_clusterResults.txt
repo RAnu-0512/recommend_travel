@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハリスの小径>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+柿崎海岸, 下田湾
+cluster1:(2)
+小径, ハリスの小径
+cluster2:(3)
+米国, 日本, 日
+cluster3:(4)
+胃潰瘍, ハリス, タウンゼント・ハリス, 遊歩道
+cluster4:(2)
+玉泉寺, 領事館
+cluster5:(1)
+近く
+cluster6:(1)
+歴史
+cluster7:(1)
+交渉
+cluster8:(1)
+夕日
+cluster9:(1)
+神経
+cluster10:(1)
+領事
+
+howmany entities : 19
+howmany clusters : 11
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 12entities.

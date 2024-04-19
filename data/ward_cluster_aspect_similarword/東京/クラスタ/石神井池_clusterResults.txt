@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石神井池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+池, 池沿い
+cluster1:(9)
+ボート, かき氷, 石神井公園, バイク, レストラン, 桜, SNS, ベンチ, 石神井
+cluster2:(8)
+人, 気, 夏, 時期, 様子, 周り, 中, 汗
+cluster3:(7)
+水路, 運動, 公園, 釣り, 石神井公園駅, 木陰, 茶店
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 4
+deleted 0entities.

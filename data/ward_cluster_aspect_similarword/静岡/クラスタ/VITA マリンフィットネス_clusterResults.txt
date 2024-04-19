@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:VITA マリンフィットネス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+田子, 田子ブルー, 田子湾, 西伊豆田子
+cluster1:(3)
+移動無し, 集合場所, 悪天候予報
+cluster2:(7)
+魚, 魚たち, 伊豆, 景色, 海, 珊瑚, 洞窟
+cluster3:(2)
+体験, SUP体験
+cluster4:(2)
+予定, 時間
+cluster5:(2)
+サップ, SUP
+cluster6:(2)
+エメラルドグリーン, サンゴ
+cluster7:(8)
+初心者, ガイド, ショップ, リピーター, ロケーション, グループ, サービス, インストラクター
+cluster8:(1)
+西伊豆
+cluster9:(3)
+妻, 写真, 方
+cluster10:(1)
+更衣室
+
+howmany entities : 35
+howmany clusters : 11
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 10entities.

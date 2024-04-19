@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百軒茶屋キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+キャンプ場, 水場, バーベキュー場
+cluster1:(2)
+釣り, マス釣り場
+cluster2:(3)
+家族みんなキャンプ, 家族, 共同トイレ
+cluster3:(8)
+場所, 感じ, 息子, 時間, 声, お陰, 昼間, 横
+cluster4:(2)
+BBQ, バーベキューコンロ
+cluster5:(6)
+レンタル, オーナー, バンガロー, トイレ, キャンプ, 奥多摩
+cluster6:(1)
+自然
+cluster7:(1)
+屋根
+cluster8:(1)
+虫
+cluster9:(1)
+奥多摩町
+
+howmany entities : 28
+howmany clusters : 10
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 10
+deleted 0entities.

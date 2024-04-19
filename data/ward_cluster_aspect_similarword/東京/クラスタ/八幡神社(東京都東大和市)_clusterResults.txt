@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡神社(東京都東大和市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+神社, 本堂, 狛犬, 八幡神社, 参拝, 初詣, 酉, 御祭神, 参道, 境内
+cluster1:(5)
+裏手, 友人家, 近く, 近所, 地元
+cluster2:(4)
+気, 感じ, 機会, 風情
+cluster3:(4)
+途中, 場所, 市, 時期
+cluster4:(5)
+ところ, 緑地公園, こじんまり, 雰囲気, パワー
+cluster5:(2)
+散歩道, ハイキングコース
+cluster6:(3)
+人, 友達, 周り
+cluster7:(3)
+車, バス, 階段
+cluster8:(12)
+春, 心, 自然, 祭り, 建物, 建築, 緑, 紅葉, 出店, 歴史, 空気, 夜景
+cluster9:(1)
+場所がら
+cluster10:(4)
+散策, 展望公園, 散歩コース, 散歩
+cluster11:(1)
+東大和市駅
+cluster12:(1)
+天照巫神大御神
+
+howmany entities : 55
+howmany clusters : 13
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 13
+deleted 0entities.

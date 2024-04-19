@@ -1,0 +1,9 @@
+--------------------similar_words:音戸大橋--------------------
+top3 entities near to cluster1>>
+螺旋状, らせん状, 螺旋, らせん
+top3 entities near to cluster2>>
+道路橋, 道路
+top3 entities near to cluster5>>
+時間帯, 時間, 短い
+top3 entities near to cluster6>>
+景色, 風景, 島々

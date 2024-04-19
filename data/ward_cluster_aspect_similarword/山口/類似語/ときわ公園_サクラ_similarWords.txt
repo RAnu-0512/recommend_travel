@@ -1,0 +1,15 @@
+--------------------similar_words:ときわ公園_サクラ--------------------
+top3 entities near to cluster0>>
+桜, 満開, 夜桜
+top3 entities near to cluster1>>
+季節, 時期, 時季
+top3 entities near to cluster2>>
+中心, 周辺, 近辺
+top3 entities near to cluster3>>
+公園, 遊歩道
+top3 entities near to cluster4>>
+公共, 公営, 公的
+top3 entities near to cluster5>>
+花見, 行楽, 見物
+top3 entities near to cluster6>>
+公園, 園内

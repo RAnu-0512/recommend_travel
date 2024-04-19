@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菊川公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+敷地, 茶, 感じ, 城跡, 山, もの, 公園, ところ
+cluster1:(5)
+菊川市街, 常葉菊川高校, 菊川公園, 菊川高校, JR菊川駅
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,39 @@
+--------------------similar_words:お鷹の道・真姿の池湧水群--------------------
+top3 entities near to cluster0>>
+散策道, 散策, 遊歩道
+top3 entities near to cluster1>>
+地形, 立地, 天気
+top3 entities near to cluster3>>
+標識, 看板, 標示
+top3 entities near to cluster4>>
+遊歩道, 湧き水, 雰囲気
+top3 entities near to cluster5>>
+そば, 横, 傍
+top3 entities near to cluster6>>
+人達, 大勢
+top3 entities near to cluster9>>
+自動車道, 自動車
+top3 entities near to cluster10>>
+階段, 坂, 膝
+top3 entities near to cluster11>>
+緑, 自然, 豊か
+top3 entities near to cluster12>>
+清流, 川, せせらぎ
+top3 entities near to cluster13>>
+小川, 神田, 佐藤
+top3 entities near to cluster14>>
+砂池, 砂
+top3 entities near to cluster15>>
+真心, 好奇心, 真, 好奇
+top3 entities near to cluster16>>
+日水, 土水, 土, 日
+top3 entities near to cluster17>>
+南口, 駅, 駅前
+top3 entities near to cluster18>>
+湧池, 湧水, 湧
+top3 entities near to cluster19>>
+湧水, 湧, 湧き水
+top3 entities near to cluster20>>
+湧池, 湧水, 湧
+top3 entities near to cluster21>>
+鷹家, 鷹, 家康

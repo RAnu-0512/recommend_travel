@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:地方神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+車, 雰囲気, スポット, こと, 敷地, 新宿, 学問, 読み方, 神, 三島, 地元
+cluster1:(3)
+地方神社, 主祭神, 神社
+cluster2:(1)
+国道沿い
+cluster3:(1)
+菅原道真公
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沢庵和尚の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+和尚, 沢庵漬け, 庵和尚, 沢庵和尚
+cluster1:(3)
+墓地, 墓所, 墓
+cluster2:(5)
+石碑, 看板, 道, 階段, 扉
+cluster3:(12)
+人気, アクセス, 新幹線, 東北線, 右, 近く, 江戸, 時間, 山手通, 中, スポット, 説明
+cluster4:(6)
+新馬場駅, 沿線, 東海道線, 山手通り, 京浜, 徳川将軍
+cluster5:(1)
+宮本武蔵
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 6
+deleted 0entities.

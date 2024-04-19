@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:筆の里工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+筆つくり, 熊野, 筆づくり, 筆作り, 熊野筆, 筆職人, 習字, 筆, 化粧筆, 習字教室, 熊野町, 熊野笛, 筆作り上げ, 化粧, いえば筆
+cluster1:(5)
+広島, 広島市, アンパンマン, パンく, 里工房
+cluster2:(7)
+もの, 書くため, 場所, 購入, 購入目的, 事, こと
+cluster3:(3)
+展示, 絵画, 展
+cluster4:(3)
+体験, 実演, 見学
+cluster5:(4)
+施設, 建物, 割引, 館内
+cluster6:(6)
+歴史, 興味, 価値, 名作, 伝統, 魅力
+cluster7:(2)
+鯉, 熊
+cluster8:(2)
+たつ, ふ
+cluster9:(4)
+自宅, 車, 町, 近く
+cluster10:(7)
+人, 中心, 手, 方, 世界, 種類, 裏側
+cluster11:(2)
+子, 子供
+cluster12:(2)
+ブランド, ショップ
+cluster13:(2)
+イベント, あちこち
+cluster14:(1)
+有名人
+cluster15:(1)
+雰囲気
+cluster16:(1)
+ジブリ
+cluster17:(1)
+なでしこジャパン
+cluster18:(2)
+産地, 紙
+cluster19:(1)
+駐車場
+cluster20:(1)
+使い心地
+cluster21:(6)
+展示型, 展示品, 企画展, 資料館, 展示物, 原画展
+cluster22:(3)
+工芸品, 名産地, 伝統工芸
+
+howmany entities : 81
+howmany clusters : 23
+howmany entities (more than1entities) : 81
+howmany clusters (more than1entities) : 23
+deleted 0entities.

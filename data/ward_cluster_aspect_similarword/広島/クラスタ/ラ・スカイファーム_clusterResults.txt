@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ラ・スカイファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+農園一帯, 一面桃色
+cluster1:(44)
+ピンク, 光景, 頭, 子供, 秋, ゴールデンウィーク, 季節, 菜の花, 桜, 花群, 入口, 間, 花, コントラスト, 色, 桃源郷, 種類, 春色, 春先, 園内, 規模, 目, 気分, 花祭, 眼下, 人, イベント, 田舎, 空気, ピンク色, 木, 景色, 他, 奥, ラ・スカイファーム, 言葉, 春, 場所, 緑, 梅, イメージ, 風景, 丘, 黄色
+cluster2:(3)
+菊桃の花まつり, 菊桃, 花桃
+cluster3:(3)
+広島県, 世羅, 世羅郡
+cluster4:(4)
+梅もぎ, 栗園, 栗拾い, 栗
+
+howmany entities : 56
+howmany clusters : 5
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 5
+deleted 0entities.

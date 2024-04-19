@@ -1,0 +1,9 @@
+--------------------similar_words:三倉岳--------------------
+top3 entities near to cluster0>>
+山, 三倉岳, 山頂
+top3 entities near to cluster1>>
+崖, 岩, 岩山
+top3 entities near to cluster2>>
+混雑, 込み合う, 混む
+top3 entities near to cluster3>>
+鎖場, 鎖, クサリ

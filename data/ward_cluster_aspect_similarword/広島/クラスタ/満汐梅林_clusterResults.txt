@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:満汐梅林>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+梅もぎ体験, 満汐梅林
+cluster1:(22)
+光景, 斜面, 風, 時期, 三原市街地, 舗装, 敷地, 桜, 花, 花びら, 入場料, スタンプラリー, コース, 山陽自動車道, 急斜面, 木, 林, 満開, 農園, 梅, 丘, 開花情報
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

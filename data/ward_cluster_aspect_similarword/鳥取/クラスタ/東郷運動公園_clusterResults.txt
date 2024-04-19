@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東郷運動公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+サッカー場, 野球場, フットサル場
+cluster1:(2)
+東郷運動公園, 川上運動公園
+cluster2:(3)
+フィットネス広場, 整備, 運動
+cluster3:(9)
+山, テニスコート, 方々, 地元, ラグビー, 運動公園, スポーツ, サッカー, 温泉
+cluster4:(2)
+芝, 人工
+cluster5:(1)
+多目的広場
+cluster6:(2)
+東伯郡, 湯梨浜町
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 7
+deleted 0entities.

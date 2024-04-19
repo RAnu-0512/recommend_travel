@@ -1,0 +1,17 @@
+--------------------similar_words:小田急電鉄--------------------
+top3 entities near to cluster0>>
+特急, 急行, 快速
+top3 entities near to cluster1>>
+特急, カー, 急行
+top3 entities near to cluster2>>
+カー, ロマンス, キャンピング
+top3 entities near to cluster5>>
+駅, 駅前, 南口
+top3 entities near to cluster7>>
+停車駅, 地下鉄, 車両
+top3 entities near to cluster10>>
+通勤, 通学, 車両
+top3 entities near to cluster11>>
+列車, 電車, 車両
+top3 entities near to cluster12>>
+展望車, 展望, 眺望

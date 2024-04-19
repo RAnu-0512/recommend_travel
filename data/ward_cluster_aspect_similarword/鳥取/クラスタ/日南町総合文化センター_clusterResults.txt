@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日南町総合文化センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+美術館, 図書館
+cluster1:(1)
+気持ち
+cluster2:(1)
+地元
+cluster3:(1)
+施設
+cluster4:(1)
+木
+cluster5:(1)
+香り
+cluster6:(1)
+スギ
+cluster7:(1)
+───O
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

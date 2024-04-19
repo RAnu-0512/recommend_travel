@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一里塚(静岡県富士市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+保存, 保存状態
+cluster1:(5)
+流れ, 姿, こと, 状態, 感じ
+cluster2:(2)
+両方, 両側
+cluster3:(3)
+富士川, 富士山, 東海道
+cluster4:(5)
+パワー, ところ, 人, 楽しみ, シンボル
+cluster5:(2)
+昔, 日本
+cluster6:(3)
+歴史, 時間, 場所
+cluster7:(8)
+道, 看板, 木陰, 目印, 街道, 石碑, 旅, 史跡
+cluster8:(3)
+江戸, 江戸中期, 戦国
+cluster9:(9)
+岩渕一里塚, 岩淵, 榎, 塚, 平民, 田畑, 木, 大木, 里塚
+cluster10:(2)
+富士市, 富士
+cluster11:(2)
+東海道五, 三次ウォーキング
+cluster12:(1)
+河岸段丘
+cluster13:(1)
+室町・鎌倉・平安
+
+howmany entities : 48
+howmany clusters : 14
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 7
+deleted 12entities.

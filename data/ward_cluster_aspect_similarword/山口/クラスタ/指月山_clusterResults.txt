@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:指月山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+海岸沿い, 指月, 指月公園, 城跡方向
+cluster1:(3)
+月, 天然, 木
+cluster2:(2)
+指先, 銃口
+cluster3:(3)
+見学, 跡, 守り
+cluster4:(8)
+志々伎山, クロガネモチ, 菊ヶ浜, シヅキ, クスノキ, 天然記念物, ハイキング, 記念碑
+cluster5:(2)
+ふもと, 夕暮れ
+cluster6:(1)
+天守閣
+cluster7:(1)
+三角州
+cluster8:(3)
+全体, 左側, 一部
+cluster9:(2)
+時間, 近く
+cluster10:(3)
+中, こと, 形
+cluster11:(1)
+部屋
+cluster12:(1)
+国
+cluster13:(1)
+価値
+cluster14:(22)
+島, 登山, 山頂, 要塞, 景色, 浜, 城内, 神社, 城, 堀, 詰丸, 夕日, 山容, 山道, 登山口, 山麓, 山, 萩, 標高, 頂上, 低山, 海
+cluster15:(6)
+リゾートホテル美萩, 萩城跡, 萩城, ワンショット萩城壁, 萩城下, 阿武川
+cluster16:(2)
+志都岐山神社, 仰徳神社
+cluster17:(1)
+暖地性原生林
+
+howmany entities : 66
+howmany clusters : 18
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 18
+deleted 0entities.

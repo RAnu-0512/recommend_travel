@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新宿交通公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+交通ルール, 新宿交通公園, 横断歩道, 交通公園, 交通
+cluster1:(2)
+ミニ電車, ミニSL
+cluster2:(17)
+青, おすすめ, 子ども, 消防車, 週末, 乗り物, 思い出, 電車, 信号, 車, 男の子, 勉強, バス, アドバイス, 目, 展示, 記者
+cluster3:(3)
+大人, 子供, 子供達
+cluster4:(3)
+公園, 遊具, 園内
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 5
+deleted 0entities.

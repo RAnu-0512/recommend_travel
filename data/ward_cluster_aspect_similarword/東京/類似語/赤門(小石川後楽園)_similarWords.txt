@@ -1,0 +1,11 @@
+--------------------similar_words:赤門(小石川後楽園)--------------------
+top3 entities near to cluster0>>
+赤色, 赤, 黄色
+top3 entities near to cluster1>>
+紅葉, 季節, 新緑
+top3 entities near to cluster2>>
+赤み, 青み, 黄み
+top3 entities near to cluster4>>
+越川, 泉水, 佐藤
+top3 entities near to cluster5>>
+八, 九, 五

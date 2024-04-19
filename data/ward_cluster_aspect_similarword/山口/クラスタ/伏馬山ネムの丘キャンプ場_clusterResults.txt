@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伏馬山ネムの丘キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+産卵, 昆虫
+cluster1:(7)
+中, カブトムシドーム, カブトムシ, こと, 娘, キャンプ, ドーム外
+cluster2:(1)
+入場料
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

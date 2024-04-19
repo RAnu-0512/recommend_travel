@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船宿西野屋(屋形船西野屋丸_江戸もんじゃ武蔵丸_釣り船西野屋)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+友だち, 屋形船
+cluster1:(1)
+子
+cluster2:(1)
+料理
+cluster3:(1)
+揺れ
+cluster4:(1)
+友人達
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

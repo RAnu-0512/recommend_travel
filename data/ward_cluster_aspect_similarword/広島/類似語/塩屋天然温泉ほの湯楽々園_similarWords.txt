@@ -1,0 +1,19 @@
+--------------------similar_words:塩屋天然温泉ほの湯楽々園--------------------
+top3 entities near to cluster0>>
+髪, 香り, 髪の毛
+top3 entities near to cluster2>>
+女性, 子供, 学生
+top3 entities near to cluster3>>
+週末, 週間, 前日
+top3 entities near to cluster4>>
+お客, 外客, 乗客
+top3 entities near to cluster5>>
+サウナ, タオル
+top3 entities near to cluster6>>
+返却, 貸し出し, 返還
+top3 entities near to cluster8>>
+窓口, 精算, 料金
+top3 entities near to cluster9>>
+脱衣場, 駐車場, 駐車, 脱衣
+top3 entities near to cluster10>>
+風呂, 温泉, 湯船

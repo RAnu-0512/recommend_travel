@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石白川海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+立地, 島, 民宿, 集落
+cluster1:(2)
+入江, 湾
+cluster2:(4)
+海水浴, 夏場, 夏, 足
+cluster3:(2)
+岩場, 海岸
+cluster4:(2)
+海水, 魚
+cluster5:(1)
+海水浴場
+cluster6:(1)
+透明度
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

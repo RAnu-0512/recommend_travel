@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大楽寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+勤皇歌人, 萩藩主
+cluster1:(9)
+幕末, 位牌, 明治, 墓地, 女優, 墓, 本堂奥, 位牌堂, 側近
+cluster2:(4)
+野村望, 東尼, 群馬県, 夏目雅子
+cluster3:(3)
+楫取素彦男爵, 貞宮多喜, 毛利敬親公
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

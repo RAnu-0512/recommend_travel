@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大峰山(広島県廿日市市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+広島, 広島市, 西方 広島県, 佐伯町, 湯来町, 佐伯郡, 廿日市市
+cluster1:(2)
+運動不足, 運動
+cluster2:(2)
+解消, ストレス発散
+cluster3:(10)
+山登り, 瀬戸内海, ストレス, 見晴らし, 初心者, つもり, 広島湾, 山, 気持ち, 大峰山
+cluster4:(2)
+方, こと
+cluster5:(2)
+友人, 人
+cluster6:(1)
+時間
+cluster7:(1)
+手軽
+cluster8:(1)
+体力
+cluster9:(1)
+初心者向き
+cluster10:(13)
+山頂, 天気, 中国, 頂上, 山容, 山々, 空気, 四国, 景色, 展望, 山地, 巨岩, 新緑
+cluster11:(6)
+駐車場, 玖島の大峰山, 登山道, 登山, 子供達, 道
+
+howmany entities : 48
+howmany clusters : 12
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 12
+deleted 0entities.

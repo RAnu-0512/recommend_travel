@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩戸窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+熱海, 岩戸窯, 熱海駅, 大角皿, 萩焼
+cluster1:(2)
+焼き上がり, ワンちゃん
+cluster2:(5)
+茶, 着色, 急須, 角, 蓋
+cluster3:(7)
+工房, 教室, 家族, 料理, バス, 駅, 先生
+cluster4:(4)
+紅葉, 鳥, 雪, 景色
+cluster5:(2)
+作品作り, 作品
+cluster6:(6)
+上がり, 出来上がり, お気に入り, 売り場, 試行錯誤, 参考
+cluster7:(4)
+終了, 完成, 作業, 移動
+cluster8:(12)
+記念, 流れ, もの, 体験, 種類, 時間, 形, 記憶, 場所, 好み, 色, 価値
+cluster9:(1)
+誕生日
+cluster10:(3)
+極力体験者, 陶芸体験, 釉薬
+
+howmany entities : 51
+howmany clusters : 11
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 8
+deleted 5entities.

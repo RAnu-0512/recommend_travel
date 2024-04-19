@@ -1,0 +1,19 @@
+--------------------similar_words:東京湾屋形船--------------------
+top3 entities near to cluster0>>
+料理, 景色, 食事
+top3 entities near to cluster2>>
+東京湾, 屋形船, 北品川
+top3 entities near to cluster3>>
+天ぷら, 天麩羅, てんぷら
+top3 entities near to cluster4>>
+飲み物, ビール, カクテル
+top3 entities near to cluster6>>
+都会, 四季, 近辺
+top3 entities near to cluster7>>
+乗合船, 乗合
+top3 entities near to cluster8>>
+納涼, 花火, 見物
+top3 entities near to cluster9>>
+台場, 駅, 駅前
+top3 entities near to cluster10>>
+食べ放題, 食べ

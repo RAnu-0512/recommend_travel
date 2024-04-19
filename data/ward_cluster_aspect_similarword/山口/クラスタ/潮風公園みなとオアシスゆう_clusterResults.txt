@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:潮風公園みなとオアシスゆう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+散歩コース, 散歩
+cluster1:(5)
+冬, 砂浜, 夏, 潮風, 海
+cluster2:(18)
+シュノーケリング, スポット, 海水浴, オススメ, レストラン, ビーチ, 地元, 笑, 子, 雰囲気, ドライバー, ドライブ, 瀬戸内海, シャワー, 人, ドライブコース, 海沿い, 夕焼け
+cluster3:(2)
+道, 国道
+cluster4:(3)
+価値, 足元, リゾート気分
+cluster5:(2)
+公園, 駅
+cluster6:(2)
+施設, 場所
+cluster7:(1)
+そば
+cluster8:(1)
+夜景
+cluster9:(1)
+海老フライ
+cluster10:(9)
+荷物運ぶ人, 由宇町, 岩国市, 駅っぽい施設, 途中トイレ休憩, 海水浴場, 由宇地域, 海水浴場利用, 駐車場
+
+howmany entities : 46
+howmany clusters : 11
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 11
+deleted 0entities.

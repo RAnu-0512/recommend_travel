@@ -1,0 +1,27 @@
+--------------------similar_words:根がらみ前水田のチューリップ--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+徒歩, 駅分, 駅
+top3 entities near to cluster2>>
+駐車, 敷地
+top3 entities near to cluster3>>
+バス, 電車, タクシー
+top3 entities near to cluster4>>
+降車, 乗車, 乗降
+top3 entities near to cluster5>>
+水門, 田圃, 水田
+top3 entities near to cluster6>>
+赤色, 黄色, 白色
+top3 entities near to cluster7>>
+河川敷, 脇, 大勢
+top3 entities near to cluster8>>
+気分, 光景, 気持ち
+top3 entities near to cluster9>>
+目的, 方法, 時間
+top3 entities near to cluster10>>
+一方, 他方
+top3 entities near to cluster11>>
+期間, 祭り, まつり
+top3 entities near to cluster12>>
+坂沿い, 川沿い, 川, 坂

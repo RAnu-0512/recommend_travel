@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下田市民スポーツセンター(サンワーク下田)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+拠点, 活動, 交流
+cluster1:(4)
+スポーツ, レクリエーション, 市民, 場
+cluster2:(1)
+文化活動
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヒルトン広島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+もの, 方, 気, 感じ, 量, 点, 事, 時間, 他, こと, 場所
+cluster1:(2)
+ホテル, ホテルランチ
+cluster2:(5)
+スープ, ランチ, サラダ, パスタ, カレー
+cluster3:(7)
+ドリンク, メニュー, ラウンジ, ケーキ, 雰囲気, スタッフ, スイーツ
+cluster4:(6)
+店, 男性, 料理, 娘, 写真, 物
+cluster5:(2)
+個別, 奥
+cluster6:(2)
+具, スープ&サラダ
+
+howmany entities : 35
+howmany clusters : 7
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 7
+deleted 0entities.

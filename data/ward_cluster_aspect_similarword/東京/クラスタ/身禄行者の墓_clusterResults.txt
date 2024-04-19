@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:身禄行者の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+庶民, 江戸
+cluster1:(2)
+墓所, 祖
+cluster2:(7)
+人, 富士山, 富士塚, 前, 手, 新宿, もの
+cluster3:(1)
+向丘
+cluster4:(1)
+身禄行者
+cluster5:(4)
+富士講, 鳩森八幡神社, 富士信仰中興, 富士信仰
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

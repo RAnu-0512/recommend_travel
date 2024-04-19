@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:老の山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+広場, 公園, 芝生, 山公園
+cluster1:(5)
+アクセス, 側, 道路, 組み合わせ, 夕日
+cluster2:(1)
+響灘
+cluster3:(1)
+遊戯具
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,23 @@
+--------------------similar_words:勝海舟生誕の地--------------------
+top3 entities near to cluster0>>
+両国, 男谷, 公園
+top3 entities near to cluster1>>
+長文, 文章, 短文
+top3 entities near to cluster2>>
+一角, 片隅, 跡
+top3 entities near to cluster3>>
+意味, 人物, 関係
+top3 entities near to cluster4>>
+生涯, 勝, 敗
+top3 entities near to cluster5>>
+忠臣蔵, 討ち入り, 駒形橋
+top3 entities near to cluster6>>
+実家, 父, 母
+top3 entities near to cluster7>>
+夕方, 昼前, 昼過ぎ
+top3 entities near to cluster8>>
+生誕碑, 石碑, 生誕
+top3 entities near to cluster9>>
+椅子, テーブル
+top3 entities near to cluster10>>
+海舟, 生家, 駅前

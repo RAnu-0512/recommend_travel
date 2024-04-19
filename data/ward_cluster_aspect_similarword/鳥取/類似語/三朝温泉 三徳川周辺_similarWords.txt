@@ -1,0 +1,47 @@
+--------------------similar_words:三朝温泉 三徳川周辺--------------------
+top3 entities near to cluster1>>
+景色, 絶景, 名所
+top3 entities near to cluster2>>
+満開, 梅雨, 季節
+top3 entities near to cluster3>>
+清流, 渓流, 川
+top3 entities near to cluster5>>
+晴れ間, 鳴き声, 曇り空
+top3 entities near to cluster6>>
+街並み, 町並み, 遊歩道
+top3 entities near to cluster7>>
+三徳川, ホタル, ヒメホタル
+top3 entities near to cluster8>>
+雰囲気, 気持ち, ロマン
+top3 entities near to cluster9>>
+カフェ, ショップ, ライト
+top3 entities near to cluster10>>
+山, 麓, 山山
+top3 entities near to cluster11>>
+灯り, 音色, 明かり
+top3 entities near to cluster12>>
+裏手, 近辺
+top3 entities near to cluster13>>
+和紙, 手漉き, 灯り
+top3 entities near to cluster14>>
+有数, 屈指, 生息
+top3 entities near to cluster16>>
+工芸品, 工芸, 伝統
+top3 entities near to cluster17>>
+温泉, 温泉郷, 旅館
+top3 entities near to cluster18>>
+温泉, 旅館, 宿
+top3 entities near to cluster19>>
+足湯, 温泉, 脚湯
+top3 entities near to cluster20>>
+旅館, 宿, 宿泊
+top3 entities near to cluster21>>
+温泉, 湯, 温泉郷
+top3 entities near to cluster22>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster24>>
+川, 川沿い, ほとり
+top3 entities near to cluster25>>
+河原, 川原, 湯
+top3 entities near to cluster26>>
+温泉, 旅館, 湯

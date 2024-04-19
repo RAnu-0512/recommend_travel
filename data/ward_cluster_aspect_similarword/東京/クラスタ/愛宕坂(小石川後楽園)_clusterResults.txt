@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛宕坂(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+愛宕坂, 坂
+cluster1:(4)
+小石川後楽園, 紅葉, 京都, 京都愛宕山
+cluster2:(3)
+石段, 勾配, 階段
+cluster3:(2)
+思い, 時期
+cluster4:(3)
+途中, 愛宕山, 上
+cluster5:(1)
+想像
+cluster6:(1)
+禁止
+cluster7:(1)
+急さ
+cluster8:(1)
+通行
+cluster9:(1)
+案内板
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 10
+deleted 0entities.

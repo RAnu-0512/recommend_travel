@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小夜の中山浮世絵美術館夢灯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示品, 展示
+cluster1:(2)
+東京, 元中学校
+cluster2:(9)
+驚き, 話, 場所, 先生, 絵, 浮世絵, 個人, 話し, 友人
+cluster3:(1)
+館長
+cluster4:(1)
+枚数
+cluster5:(2)
+歌川広重, 葛飾北斎
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 8entities.

@@ -1,0 +1,35 @@
+--------------------similar_words:リバーピア吾妻橋--------------------
+top3 entities near to cluster0>>
+高層, ビル, ノッポビル
+top3 entities near to cluster1>>
+ビル, 本社, 本部
+top3 entities near to cluster2>>
+ビル街, ビル, 駅街, 駅
+top3 entities near to cluster3>>
+ビル, タワービル, オフィス
+top3 entities near to cluster4>>
+ビル群, ビル, 高層
+top3 entities near to cluster5>>
+ビル, マンション
+top3 entities near to cluster6>>
+施設, 工場, 商業
+top3 entities near to cluster8>>
+駅, 田原町, 駅前
+top3 entities near to cluster10>>
+駅, リバーピア, ホクレンビル
+top3 entities near to cluster12>>
+オブジェ, ビュースポット, エリア
+top3 entities near to cluster14>>
+アサヒ, ビール, スーパードライ
+top3 entities near to cluster15>>
+分離形, 姿形, 姿, 分離
+top3 entities near to cluster16>>
+写真, 景色, 風景
+top3 entities near to cluster18>>
+横目, 横, 全体
+top3 entities near to cluster19>>
+雲, 桜, 金色
+top3 entities near to cluster20>>
+敷地, 建物, 跡地
+top3 entities near to cluster21>>
+撮影, 撮っ, 撮る

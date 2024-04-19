@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田松陰の墓及び墓所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+跡地, 横, 思い, 親戚, 実家, 教科書, 間取り図, 墓地, 偉人たち, 史跡, 萩本陣, お参り, イメージ, 近く, 墓, 看板, 歴史
+cluster1:(4)
+萩藩士 杉家, 高杉晋作, 久坂玄随, 吉田松陰
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

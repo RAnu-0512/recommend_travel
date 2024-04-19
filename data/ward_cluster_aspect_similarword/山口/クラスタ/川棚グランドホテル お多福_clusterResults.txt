@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川棚グランドホテル お多福>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ヒレ酒, ヒレ酒・骨酒, 骨酒
+cluster1:(3)
+食事, 夕食, 料理
+cluster2:(3)
+施設, 部屋, 館内
+cluster3:(1)
+接客
+cluster4:(2)
+温泉, お湯
+cluster5:(2)
+鍋, 雑炊
+cluster6:(25)
+日帰り, 香り, 戦地, 味, スベスベ, スタッフ, ふく, タオル, 蕎麦, ホテル, 相性, 人生, 肌, 朝風呂, 露天風呂, 感じ, デザート, 上, 方, 肉, 近く, 気持ち, ウエルカムドリンク, 〆, 素材
+cluster7:(1)
+薄味
+cluster8:(8)
+風呂, セット券, 家族旅行, コーヒー牛乳, 風呂あがり, 家族風呂, 戦国時代, 牛乳
+cluster9:(4)
+具材, 瓦そば, 瓦, 瓦蕎麦
+
+howmany entities : 52
+howmany clusters : 10
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 10
+deleted 0entities.

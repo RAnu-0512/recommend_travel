@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東屋, 休憩
+cluster1:(3)
+海辺, 海, 港
+cluster2:(5)
+人, ジャングル, シュノーケル, 集落, 辺り
+cluster3:(1)
+北村
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:OTO Workshop>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+靴, 靴作り, 靴作り体験, 靴選び
+cluster1:(8)
+先生, 結果, サイズ, パーツ, 形, OTO, 箇所, 足
+cluster2:(3)
+興味, 市販, 参考
+cluster3:(1)
+革
+cluster4:(1)
+色柄
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

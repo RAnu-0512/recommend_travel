@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高山樗牛文学碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+文学者, 文学碑, 高山樗牛文学碑
+cluster1:(12)
+高山樗牛, 滞在, 市街地, 境内, 名前, 中, 明治, 地, 病気療養, ゆかり, 一節, 寺
+cluster2:(5)
+清水区, 静岡市, 興津, 松原一文字, 樗牛
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 0entities.

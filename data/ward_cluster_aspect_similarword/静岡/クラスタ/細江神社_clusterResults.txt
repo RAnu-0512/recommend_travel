@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:細江神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+細江神社, 細江町, 細江
+cluster1:(2)
+神体, 御神体
+cluster2:(3)
+楠, 赤池, 夫婦楠
+cluster3:(7)
+地震, 隣, こと, 空間, 歴史, 中, 地
+cluster4:(2)
+神社, 境内
+cluster5:(2)
+木々, 新緑
+cluster6:(1)
+奥浜名湖
+cluster7:(1)
+資料館
+cluster8:(1)
+津波被害
+cluster9:(1)
+戦国時代の大地震
+
+howmany entities : 23
+howmany clusters : 10
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 10entities.

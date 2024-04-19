@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海眺の宿 あいお荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+夕飯, 予約, 食事, 電話, 店, 雰囲気, 海, 料理, 店内
+cluster1:(3)
+た.g, *̄ー̄, た.b
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:源兵衛川上流楽寿園の南口>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+楽寿園南口, 楽寿園
+cluster1:(3)
+三島駅, 三島大社, 三島市
+cluster2:(2)
+小浜池, 井戸ポンプ
+cluster3:(4)
+川, 源平川, 源兵衛川, 蓮沼川
+cluster4:(39)
+多く, 三島広小路, 蛍, スプレー, 人, 時間, 木陰, サンダル, 暮らし, 夏, 涼, 方, 地元, 時期, 通行, 南, 水かさ, 遊歩道, 中, 自然, ホタル, 鴨, 天気, 雨, ルート, 水, 出入り口, 飛び石, 感じ, 上, ブロック, 紫陽花, 場所, 散歩, 清流, 知恵, こと, 予想, 思い
+cluster5:(2)
+観光, 観光案内
+cluster6:(3)
+街並み散策, 散策途中, 散策
+cluster7:(4)
+南口目, 駅前口, 正面口, 南口
+cluster8:(8)
+園, 大人, 園内, 子供, 公園, 入園, 子供達, 白滝公園
+cluster9:(3)
+水量, 上流, 下流
+cluster10:(2)
+出口, 出口専用
+cluster11:(4)
+起点, 駅, 市, 橋
+cluster12:(6)
+正門, 通路, 門, 入口, 南側, 横
+cluster13:(1)
+駐車場
+
+howmany entities : 83
+howmany clusters : 14
+howmany entities (more than3entities) : 74
+howmany clusters (more than3entities) : 9
+deleted 9entities.

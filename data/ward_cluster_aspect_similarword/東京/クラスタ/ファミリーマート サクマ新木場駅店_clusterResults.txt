@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ファミリーマート サクマ新木場駅店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+改札, 新木場駅
+cluster1:(8)
+プライベートブランド, カロリー, ファミマ, ファミリーマート, チョコ, 飲み物, 現地, 食べ物
+cluster2:(3)
+観戦, 大会, 散歩
+cluster3:(3)
+ド, 軽食, CAFE&SWEETS
+cluster4:(1)
+辰巳水泳場
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

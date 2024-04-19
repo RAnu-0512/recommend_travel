@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伯耆国分寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+倉吉市, 国府・国分寺・不入岡, 伯耆国府, 伯耆国庁, 伯耆国分寺
+cluster1:(2)
+青空, 快晴
+cluster2:(3)
+感じ, 人, 雰囲気
+cluster3:(2)
+国, 国分寺
+cluster4:(1)
+全国
+cluster5:(3)
+緑, 公園, 敷地
+cluster6:(1)
+芝生地
+cluster7:(10)
+入岡遺跡, 遺跡巡り, 寺院跡, 講堂跡, 金堂跡, 史跡, 跡, 史跡公園, 法華寺畑遺跡, 柵列跡
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 8
+deleted 0entities.

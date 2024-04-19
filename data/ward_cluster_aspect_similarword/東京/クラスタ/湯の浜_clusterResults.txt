@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯の浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+人, 家, 方, トイレ, 設備, 場所, ビーチ, 時間, 隣
+cluster1:(3)
+浜, 海, 湯
+cluster2:(1)
+観光客
+cluster3:(1)
+弘法浜
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

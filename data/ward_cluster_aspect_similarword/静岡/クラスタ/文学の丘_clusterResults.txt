@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:文学の丘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歌碑, 石碑
+cluster1:(5)
+場所, 中, ベンチ, 屋根, 目印
+cluster2:(3)
+文学, 丘, 公園
+cluster3:(1)
+小高
+cluster4:(2)
+展望台, 細江公園
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

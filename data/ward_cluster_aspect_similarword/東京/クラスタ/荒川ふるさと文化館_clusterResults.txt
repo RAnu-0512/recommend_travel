@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒川ふるさと文化館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+近代ジオラマ模型展示, 展示内容, 企画展, 常設展示, 常設展示室, 展示品, 縄文土器展示
+cluster1:(20)
+図書館, 絵馬, すさ, 神社, 古代, 原始, 現代, 小松崎先生, 昭和, 時代, 南千住図書館, 近所, 解説文, すさのう神社, 観光ガイドマップ, 施設, 見学, 板碑, 歴史, コース
+cluster2:(8)
+千住宿, ふるさと文化館, 江戸〜昭和, 荒川ふるさと文化館, 荒川区, 千住大橋駅, 町南千住, JR南千住駅
+
+howmany entities : 35
+howmany clusters : 3
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 3
+deleted 0entities.

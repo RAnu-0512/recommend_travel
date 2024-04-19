@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:但沼神社の樟>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静鉄バス但沼車庫, 静鉄バス
+cluster1:(2)
+但沼神社, 但沼車庫
+cluster2:(3)
+直線, 形, 背後
+cluster3:(3)
+道, 南, 丘
+cluster4:(1)
+社殿
+cluster5:(1)
+樟
+cluster6:(1)
+左回り
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 7entities.

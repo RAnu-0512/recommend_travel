@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛飾北斎の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+葛飾北斎墓, 葛飾北斎
+cluster1:(3)
+北斎, 浅草七福神, 北斎ファン
+cluster2:(7)
+人, お断り, こと, ほか, 子ども, 方々, 客
+cluster3:(3)
+墓, 住職, 敷地
+cluster4:(1)
+価値観
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

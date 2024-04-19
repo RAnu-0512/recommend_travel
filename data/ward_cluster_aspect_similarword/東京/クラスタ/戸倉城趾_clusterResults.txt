@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:戸倉城趾>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山頂, 登山, 登山口
+cluster1:(3)
+城跡, 城, 石垣
+cluster2:(7)
+人, 会館, 友人, 感じ, ハイキング, 社, ルート
+cluster3:(3)
+神明社, 城山荘公民館, 神明
+cluster4:(1)
+里木バス停 3光厳寺 4西戸倉地区
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

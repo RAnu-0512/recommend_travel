@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線後楽園駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅, 後楽園駅, JR水道橋駅
+cluster1:(16)
+エスカレーター, 東京ドーム, 地上, イベント, 何か, 丸ノ内線, 東京ドームシティ, ライブ, ホーム, そば, 地下, 方, 混雑, 南北線, 東京メトロ, 訪問
+cluster2:(1)
+東京メトロ南北線後楽園駅
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長寿寺(十三重塔)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+他, もの
+cluster1:(3)
+長寿寺, 浄土宗, 花崗岩
+cluster2:(1)
+左側
+cluster3:(1)
+相輪
+cluster4:(1)
+高さ
+cluster5:(1)
+西山禅林寺派
+cluster6:(1)
+毛利輝元
+
+howmany entities : 10
+howmany clusters : 7
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:朝霧高原--------------------
+top3 entities near to cluster0>>
+レストラン, サイクリング, アトラクション
+top3 entities near to cluster1>>
+気持ち, 気持, おかげ
+top3 entities near to cluster2>>
+ゴルフ, スポーツ, パワー
+top3 entities near to cluster7>>
+愛車, クルマ
+top3 entities near to cluster8>>
+車中, 出張, 休憩
+top3 entities near to cluster9>>
+夏場, 休日, 夏
+top3 entities near to cluster10>>
+日, 月, 年
+top3 entities near to cluster12>>
+家族, 友人, 子供
+top3 entities near to cluster19>>
+駐車場, 駐車, 運転
+top3 entities near to cluster20>>
+駅道, 駅, 県道

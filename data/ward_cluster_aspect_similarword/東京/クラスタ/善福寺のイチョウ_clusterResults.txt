@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善福寺のイチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+季節, 都会, 場所, 地
+cluster1:(3)
+姿, 杖, 伝承
+cluster2:(12)
+善福寺, 天然記念物, 巨木, 葉, 木, 本堂, 幹, イチョウ, 銀杏, 麻布, 境内, 大木
+cluster3:(1)
+国指定
+cluster4:(1)
+親鸞聖人
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

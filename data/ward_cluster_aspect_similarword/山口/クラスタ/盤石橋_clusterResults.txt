@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:盤石橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+盤石橋, 橋, 石橋
+cluster1:(4)
+景観, 工法, 自然石, 巧み
+cluster2:(1)
+大寧川
+cluster3:(1)
+防長三奇橋
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三原市芸術文化センターポポロ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+母さん, 父さん
+cluster1:(1)
+イベント
+cluster2:(1)
+食事
+cluster3:(1)
+店内
+cluster4:(1)
+遊具
+cluster5:(1)
+子供連れ
+cluster6:(1)
+芝生広場
+cluster7:(1)
+ポポロ
+cluster8:(1)
+三原市芸術文化センターポポロ
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

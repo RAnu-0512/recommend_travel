@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ副都心線 新宿三丁目駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+地下階, 駅, 改札, 当駅, 乗り換え駅
+cluster1:(5)
+渋谷, 東京メトロ, 池袋, 横浜, 丸井
+cluster2:(3)
+入口, 路線, 道
+cluster3:(13)
+雨, 地下道, 地上, 高島屋, 伊勢丹, 丸ノ内線, 埼京線, 乗り入れ, 買い物, 完成, 地下鉄, 時間, 乗り換え
+cluster4:(2)
+振替, 混雑
+cluster5:(12)
+新宿駅, 山手線, 副都心線, 池袋方面, JR, 新宿線, 池袋〜渋谷間, JR新宿駅, 新宿店, 新宿三丁目, 丸の内線, JR線
+
+howmany entities : 40
+howmany clusters : 6
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:都営新宿線 新宿駅--------------------
+top3 entities near to cluster0>>
+地下, 壕, 地階
+top3 entities near to cluster1>>
+評価, 時間, だけ
+top3 entities near to cluster2>>
+駅, 直通, 構内
+top3 entities near to cluster3>>
+防衛, 見学, 館
+top3 entities near to cluster4>>
+駅前線, 駅線, 駅, 駅前

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅間神社(三島市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩, 溶岩
+cluster1:(5)
+隣り, こと, 気持ち, あたり, 富士山
+cluster2:(2)
+神社, 正門
+cluster3:(1)
+流れ下り
+cluster4:(3)
+浅間神社, 岩留浅間, 楽寿園
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

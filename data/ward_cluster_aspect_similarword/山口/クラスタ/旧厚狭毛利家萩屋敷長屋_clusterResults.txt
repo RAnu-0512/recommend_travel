@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧厚狭毛利家萩屋敷長屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時間, 近く
+cluster1:(4)
+こと, 文化財, オススメ, セット
+cluster2:(1)
+国
+cluster3:(1)
+季節
+cluster4:(6)
+見学, 屋敷, 公園, 城, 模型, 建物
+cluster5:(1)
+入園
+cluster6:(3)
+座敷, 部屋数, 長屋
+cluster7:(1)
+往
+cluster8:(4)
+入場券, 展示物, 建築物, 駐車場
+cluster9:(2)
+武家屋敷, 武家屋敷長屋門
+cluster10:(2)
+萩市, 長門市
+cluster11:(3)
+萩屋敷, 萩城跡, 萩城
+cluster12:(1)
+乃隅神社
+cluster13:(1)
+毛利家
+cluster14:(1)
+厚狭毛利家
+cluster15:(1)
+萩城跡指月公園
+
+howmany entities : 34
+howmany clusters : 16
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 16
+deleted 0entities.

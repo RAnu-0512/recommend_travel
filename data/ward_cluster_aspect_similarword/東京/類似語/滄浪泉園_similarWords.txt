@@ -1,0 +1,21 @@
+--------------------similar_words:滄浪泉園--------------------
+top3 entities near to cluster0>>
+水面, 柄杓
+top3 entities near to cluster2>>
+石段, 坂, 坂道
+top3 entities near to cluster3>>
+木々, 紅葉, 庭園
+top3 entities near to cluster4>>
+風鈴, 風流
+top3 entities near to cluster5>>
+箇所, 入口, 入り口
+top3 entities near to cluster6>>
+足元, 足下, 足もと
+top3 entities near to cluster7>>
+飲食, 飲食店, レストラン
+top3 entities near to cluster9>>
+イキ, バックイキ, 悶え
+top3 entities near to cluster10>>
+満足度, 満足, 好感度, 好感
+top3 entities near to cluster11>>
+入園, 滄浪

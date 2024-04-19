@@ -1,0 +1,49 @@
+--------------------similar_words:東京駅一番街--------------------
+top3 entities near to cluster0>>
+缶, ラーメン, 缶詰
+top3 entities near to cluster1>>
+グッズ, グッツ, 雑貨
+top3 entities near to cluster2>>
+おかし, カルビー, ポテト
+top3 entities near to cluster3>>
+ショップ, 通販, グッズ
+top3 entities near to cluster4>>
+買い物, ランチ, 手土産
+top3 entities near to cluster6>>
+みやげ物, おみやげ, 土産物
+top3 entities near to cluster7>>
+ストリート, ファイター, キャラクター
+top3 entities near to cluster8>>
+オススメ, お気に入り, おすすめ
+top3 entities near to cluster9>>
+レストラン, ショッピング, ホテル
+top3 entities near to cluster10>>
+キティちゃん, アンテナショップ, ハローキティカフェ
+top3 entities near to cluster11>>
+グランルーフ, グランルーフフロント, グランスタダイニング
+top3 entities near to cluster12>>
+ベジソバ, スープオフ, ビーガンラーメン
+top3 entities near to cluster13>>
+スイーツ, イラスト, スィーツ
+top3 entities near to cluster14>>
+テレビ局, アクセス, 番組
+top3 entities near to cluster15>>
+エリア, アニメ, アニメーション
+top3 entities near to cluster16>>
+カルビー, ポッキー, ぐりこ
+top3 entities near to cluster17>>
+ラーメン, グルメ, 地下街
+top3 entities near to cluster19>>
+都, 駅前, 駅
+top3 entities near to cluster21>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster22>>
+土産, おみやげ, 土産物
+top3 entities near to cluster23>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster24>>
+食事, 料理, 菓子
+top3 entities near to cluster25>>
+雑貨店, 雑貨, 生活
+top3 entities near to cluster26>>
+牛, タン, 塩

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キネカ大森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+上映, 映画ファン, 映画, 劇場
+cluster1:(3)
+場所, 感じ, こと
+cluster2:(9)
+作品, 人, アクセス, 他, エントランス, 持ち味, ラインナップ, 映画館, リニューアル
+cluster3:(1)
+足
+cluster4:(4)
+西友, 駅, 徒歩, 東口
+cluster5:(4)
+品川区, キネカ大森, 大森駅, 西友大森店
+
+howmany entities : 25
+howmany clusters : 6
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 6
+deleted 0entities.

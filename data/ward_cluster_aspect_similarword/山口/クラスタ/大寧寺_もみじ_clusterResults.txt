@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大寧寺_もみじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+俣温泉, 湯本温泉
+cluster1:(3)
+寺, 参拝, 寺院
+cluster2:(12)
+雨, 中, 一部, もみじ, 風景, 人, 風情, 写真, 雰囲気, 歴史, 紅葉, 強風
+cluster3:(1)
+赤赤
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

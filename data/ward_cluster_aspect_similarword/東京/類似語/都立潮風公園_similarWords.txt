@@ -1,0 +1,33 @@
+--------------------similar_words:都立潮風公園--------------------
+top3 entities near to cluster1>>
+ダム, 等身, ガン
+top3 entities near to cluster2>>
+ダム, ガン, 原寸
+top3 entities near to cluster3>>
+ダム, ガン, 戦士
+top3 entities near to cluster4>>
+公園, 景色, 広場
+top3 entities near to cluster5>>
+実物, 等身, 大
+top3 entities near to cluster6>>
+ホテル, サイクリング, レストラン
+top3 entities near to cluster7>>
+子供, 大人, 子ども
+top3 entities near to cluster8>>
+家族, 友人
+top3 entities near to cluster9>>
+自然風, 太陽風, 自然, 太陽
+top3 entities near to cluster11>>
+料金, 予約, 宿泊
+top3 entities near to cluster12>>
+光景, 迫力, 姿
+top3 entities near to cluster15>>
+時間目, 時間
+top3 entities near to cluster16>>
+指手, なり手, 指
+top3 entities near to cluster17>>
+気分, 価値, 気持ち
+top3 entities near to cluster19>>
+時間帯, 時間, 時の間
+top3 entities near to cluster20>>
+台場, 公園, 海浜

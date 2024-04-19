@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大高野官衙遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大高野官衙遺跡, 斎尾廃寺
+cluster1:(5)
+槻下, 時代もの, こと, 時代, 場所
+cluster2:(3)
+平安, 奈良, 古代
+cluster3:(2)
+琴浦町, 鳥取県
+cluster4:(9)
+関連遺跡, 国指定, 国史跡, 寺院跡, 町指定, 国指定史跡, 遺跡, 史跡, 跡
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

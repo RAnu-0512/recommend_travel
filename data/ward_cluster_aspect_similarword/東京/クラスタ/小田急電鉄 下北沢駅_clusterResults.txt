@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急電鉄 下北沢駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+手洗い, 小田急, イライラ, 思い出, ホーム, 下北沢, テレビ, 乗り換え, エスカレータ, 京王線
+cluster1:(3)
+昔, 小生, 時代
+cluster2:(6)
+面倒くささ, 機会, 流れ, 案内, 印象, 時間
+cluster3:(10)
+都会, 混沌, 地上, 改装, 街, 工事, 再開発, 地下鉄並み, 学生時代, 都心
+cluster4:(15)
+地下駅, 普通電車, 踏切, 駅, 挙句電車, 改札, 地下化, 電車, 地下ホーム, どんどん駅, 地下, 京王, 発着ホーム, 小田急線, 下北沢駅
+cluster5:(7)
+快速急行, 急行クラス, 急行, 急行電車, 線化工事, 各駅停車, 駅改良工事
+
+howmany entities : 51
+howmany clusters : 6
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 6
+deleted 0entities.

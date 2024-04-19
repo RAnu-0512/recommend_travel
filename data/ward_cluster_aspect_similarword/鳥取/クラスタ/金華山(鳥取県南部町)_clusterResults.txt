@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金華山(鳥取県南部町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+金華山熊野神社, 金華山山頂, 凝灰角礫岩
+cluster1:(9)
+登山道沿い, 登山者, 登山道, 登山コース, 登山口, 登山初心者, 登山ルート, 登山, 登山路
+cluster2:(4)
+美しさ, 登りやすいいい山, いった山, 登り応え
+cluster3:(2)
+小型犬, 犬連れ
+cluster4:(19)
+山, 熊野神社, 景色, 頂上, 景観, 鳥居, 気候, 紅葉, 鳥取県, 山々, 岩, 金華山, 絶景ポイント, 神社, 天気, 山頂, 眺め, 山門, 標高
+cluster5:(3)
+コース, 大回り, ハイキングコース
+cluster6:(2)
+雰囲気, 気持ち
+cluster7:(2)
+きっかけ, ところ
+cluster8:(3)
+コンテンツ, ハイキング, アクセス
+cluster9:(1)
+ルート
+cluster10:(3)
+山登り, こども, 初心者
+cluster11:(1)
+テラス
+cluster12:(4)
+友人, 方, 存在, 途中
+cluster13:(1)
+てん
+cluster14:(4)
+挨拶, 迷子, リス, エサ
+cluster15:(6)
+安全, 西部, 市, 緑, 間地元, 自然
+cluster16:(6)
+魅力, 距離, 見所, 空気, 目安, ハイキング感覚
+cluster17:(7)
+箇所, 山道, 方角, 難所, 道, 足場, 場所
+cluster18:(1)
+難易度
+
+howmany entities : 81
+howmany clusters : 19
+howmany entities (more than1entities) : 81
+howmany clusters (more than1entities) : 19
+deleted 0entities.

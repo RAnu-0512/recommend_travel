@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急第一生命ビル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高層ビル群, 高層ビル街, 高層ビル
+cluster1:(2)
+建つビル, ビル巡り
+cluster2:(5)
+ビル群, 双子ビル, ビル, 小田急第一生命ビル, 生命ビル
+cluster3:(1)
+住友ビル
+cluster4:(20)
+途中, ホテル, テナント, 竣工, 地下道, 右手, 建物, JR, 感じ, 近く, 形, 三角形, 高さ, 西, インパクト, ハイアットリージェンシーホテル, 雰囲気, ハイアットリージェンシー, 西新宿, 横
+cluster5:(6)
+新宿駅, 山手線, 新宿中央公園, 東京, 江戸線, 新宿
+
+howmany entities : 37
+howmany clusters : 6
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 6
+deleted 0entities.

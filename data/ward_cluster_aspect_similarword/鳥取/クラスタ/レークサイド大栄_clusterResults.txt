@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レークサイド大栄>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場内貸し切り, 場内
+cluster1:(4)
+敷地, 遊具, 広場, 施設
+cluster2:(14)
+バーベキュー, 貸し出し, 滑り台, 親子連れ, 弁当, 休み, 確認, グラウンドゴルフ, 場合, ソフトクリーム, ローラー滑り台, 子供, 尻, 場所
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

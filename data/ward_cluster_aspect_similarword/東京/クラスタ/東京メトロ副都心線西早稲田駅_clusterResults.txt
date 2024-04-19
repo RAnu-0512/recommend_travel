@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ副都心線西早稲田駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+早稲田駅, 駅, JR, 高田馬場駅
+cluster1:(11)
+急行, 早稲田大学, 高田馬場, 学校, 明治, 学生, 地下, 中間, 東西線, 普通, エレベーター
+cluster2:(3)
+副都心線, 各駅停車, 山手線
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

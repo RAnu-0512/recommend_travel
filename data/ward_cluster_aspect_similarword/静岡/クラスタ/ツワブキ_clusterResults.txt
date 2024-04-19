@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ツワブキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+場合, 辺り, 意外
+cluster1:(4)
+つわぶき, 花, ツワブキ, 多年草
+cluster2:(1)
+けれど葉
+cluster3:(2)
+雑草, 食用
+cluster4:(2)
+鮮黄色頭状花, つやふき
+cluster5:(1)
+キク科
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 6entities.

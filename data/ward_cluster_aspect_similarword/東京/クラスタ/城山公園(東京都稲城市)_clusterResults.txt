@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山公園(東京都稲城市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+公園, 城山公園, 改札, 通り城, 南多摩駅, 散歩
+cluster1:(6)
+方, 上, 方法, ひとつ, ファインタワー, 名前
+cluster2:(4)
+東日本旅客鉄道南武線, 高台, 南, 南側
+cluster3:(1)
+山状
+cluster4:(1)
+展望台
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

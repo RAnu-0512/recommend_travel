@@ -1,0 +1,25 @@
+--------------------similar_words:富士の国やまなし館--------------------
+top3 entities near to cluster1>>
+ワイン, レストラン, アイスクリーム
+top3 entities near to cluster2>>
+近辺, ほど近い
+top3 entities near to cluster5>>
+妻家, 夫家, 妻, 夫
+top3 entities near to cluster6>>
+その道, 道筋
+top3 entities near to cluster8>>
+駅, 駅前, 構内
+top3 entities near to cluster9>>
+高島屋, 三越, プラザ
+top3 entities near to cluster10>>
+高島屋, タカシマヤ, 三越
+top3 entities near to cluster11>>
+ビル, タワービル, ビルディング
+top3 entities near to cluster12>>
+丸善, 海文堂, 三省堂
+top3 entities near to cluster13>>
+から口, 口前
+top3 entities near to cluster14>>
+名産店, 特産, 名産
+top3 entities near to cluster15>>
+信玄, 餅, 家康

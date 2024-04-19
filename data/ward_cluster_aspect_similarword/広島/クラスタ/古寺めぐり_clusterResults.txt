@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古寺めぐり>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+風情, 個性, 体力, 価値, 満載
+cluster1:(9)
+歴史, 経路, 建物, 車, 町, 所, 地図, 駅, 場所
+cluster2:(2)
+麓, 山
+cluster3:(3)
+浄土寺, 天寧寺, 千光寺
+cluster4:(7)
+街並み, ツアー, パンフレット, 見どころ, アップダウン, マイペース, 飛行機
+cluster5:(5)
+横, 片手, 帰り, 多く, 時間
+cluster6:(5)
+石畳, 坂道, 小道, 坂, こみち
+cluster7:(20)
+観光協会, 広島, 観光マップ, 寺, とお寺, 尾道駅, 古寺めぐり, お寺・神社, 散策路, 古寺めぐりコース, 尾道にお寺, 散策, 尾道, 古寺, 天寧, ここ尾道, 観光案内所, 寺院, 古寺巡り, 神社
+
+howmany entities : 56
+howmany clusters : 8
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 8
+deleted 0entities.

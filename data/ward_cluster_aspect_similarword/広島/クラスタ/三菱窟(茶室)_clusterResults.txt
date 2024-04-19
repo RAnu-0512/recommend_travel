@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三菱窟(茶室)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島県, バス, 広島バスセンター
+cluster1:(4)
+浅野長, 建物, ところ, 厚
+cluster2:(1)
+三菱窟
+cluster3:(1)
+幕末広島支藩
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

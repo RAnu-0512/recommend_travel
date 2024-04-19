@@ -1,0 +1,15 @@
+--------------------similar_words:服部嵐雪の墓--------------------
+top3 entities near to cluster0>>
+中期, 後期, 前期
+top3 entities near to cluster1>>
+祖, 墓所
+top3 entities near to cluster2>>
+駅, ライズシティ, 駅前
+top3 entities near to cluster3>>
+都心, 都会, 田舎
+top3 entities near to cluster4>>
+経験者, 後継者, 経験, 後継
+top3 entities near to cluster5>>
+山門, 寺, 門前
+top3 entities near to cluster6>>
+芭蕉, 門下, 哲

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:活版カムパネルラ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+活版カム, 活版印刷体験
+cluster1:(3)
+インク色, 活字, 印刷
+cluster2:(2)
+夜, 黒
+cluster3:(11)
+手仕事, アルファベット小文字, 店, ノート, スタッフ, カンパネルラ, イラスト, こと, カード, カラー, インク
+cluster4:(1)
+尾道
+cluster5:(2)
+銀河鉄道, 絶滅動物
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

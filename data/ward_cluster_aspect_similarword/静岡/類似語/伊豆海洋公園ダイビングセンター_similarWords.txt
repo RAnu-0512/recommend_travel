@@ -1,0 +1,11 @@
+--------------------similar_words:伊豆海洋公園ダイビングセンター--------------------
+top3 entities near to cluster0>>
+海水魚, 海魚, 海水, 海
+top3 entities near to cluster2>>
+子供, 子ども, 家族
+top3 entities near to cluster4>>
+ダイビング, イベント, ホテル
+top3 entities near to cluster6>>
+妻, 風呂, 社長
+top3 entities near to cluster7>>
+施設, 季節, 風景

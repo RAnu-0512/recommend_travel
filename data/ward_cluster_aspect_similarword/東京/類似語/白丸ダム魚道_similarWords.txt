@@ -1,0 +1,11 @@
+--------------------similar_words:白丸ダム魚道--------------------
+top3 entities near to cluster1>>
+ダム, 湖, ダムサイト
+top3 entities near to cluster2>>
+魚道, 堰堤, 護岸
+top3 entities near to cluster3>>
+立坑, 斜坑, 縦坑
+top3 entities near to cluster4>>
+巣, 鳩, 渓谷
+top3 entities near to cluster5>>
+館, 魚道, 資料

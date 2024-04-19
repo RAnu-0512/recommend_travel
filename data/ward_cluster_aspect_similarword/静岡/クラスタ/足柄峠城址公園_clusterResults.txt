@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足柄峠城址公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+足柄峠城址公園, 足柄万葉公園, 足柄城
+cluster1:(4)
+時山, 登山, 足柄峠登り, 金時山登山口
+cluster2:(4)
+郭とめぐり, 井戸跡, 郭, 堀切
+cluster3:(2)
+側, 反対側
+cluster4:(3)
+ところ, ドライブ, ドラマ
+cluster5:(2)
+市街地, 遊歩道
+cluster6:(3)
+足柄峠, 御殿場, 富士山
+cluster7:(4)
+車, こと, 場所, 道
+cluster8:(7)
+目, 下, 裏, 階段, 分岐, 正面, 前
+cluster9:(1)
+仕掛
+cluster10:(1)
+県道
+cluster11:(13)
+休憩, 四阿, 展望, 散策, 広場, 景色, 丘, 公園, 弁当, 御殿場市, 絶景, 雲, 天気
+
+howmany entities : 47
+howmany clusters : 12
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 8
+deleted 6entities.

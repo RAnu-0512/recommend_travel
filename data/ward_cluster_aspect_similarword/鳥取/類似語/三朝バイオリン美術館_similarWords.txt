@@ -1,0 +1,19 @@
+--------------------similar_words:三朝バイオリン美術館--------------------
+top3 entities near to cluster0>>
+楽器, 西洋, バイオリン
+top3 entities near to cluster1>>
+相愛, 大学, 将来
+top3 entities near to cluster2>>
+演奏, 製作, 制作
+top3 entities near to cluster3>>
+予約制, 予約, 事前
+top3 entities near to cluster5>>
+敷地, 建物, 施設
+top3 entities near to cluster6>>
+材料, 道具, 資料
+top3 entities near to cluster7>>
+弦楽器, 楽器, 管楽器
+top3 entities near to cluster8>>
+音楽, 学校, 高等
+top3 entities near to cluster9>>
+雰囲気, 静寂, コンサート

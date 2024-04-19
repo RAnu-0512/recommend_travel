@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ 渋谷駅--------------------
+top3 entities near to cluster1>>
+地下, 地上, 地表
+top3 entities near to cluster2>>
+階段, 通路, 出入り口
+top3 entities near to cluster3>>
+駅, 路線, 列車
+top3 entities near to cluster4>>
+通行, 片側, 両側
+top3 entities near to cluster5>>
+都心線, メトロ線, 都心, メトロ

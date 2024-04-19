@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:つつじ公園(静岡県磐田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ツツジ公園, 公園
+cluster1:(2)
+参拝, 神社
+cluster2:(7)
+桜, 子供, つつじ, 池, 葉, 写真, 脇
+cluster3:(2)
+ゆるキャン△, しっぺい太郎
+cluster4:(4)
+天神, 見付天神, 磐田駅, 霊犬神社
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 6entities.

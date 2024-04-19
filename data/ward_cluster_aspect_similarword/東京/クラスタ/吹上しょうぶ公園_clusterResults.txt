@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吹上しょうぶ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+下車徒歩30分〜40分バス利用・JR青梅線, 小作駅下車:西東京バス
+cluster1:(35)
+青梅市, 塩船観音寺入口, ボランティア, 入園, 公共交通機関利用, 駐車場, しょうぶ, 花菖蒲, 公園, 里山, 花, 年寄り, 手入れ, 都営バス, 菖蒲, 行き方, 事, JR青梅線, 解説, 駐車料金, 時期, 駐車場代, 東青梅駅, 風景, 下車, 周り, 中, 方, 河辺駅, 菖蒲園, 園内, 脇, 入場料, 吹上しょうぶ公園, 臨時駐車場
+
+howmany entities : 37
+howmany clusters : 2
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 2
+deleted 0entities.

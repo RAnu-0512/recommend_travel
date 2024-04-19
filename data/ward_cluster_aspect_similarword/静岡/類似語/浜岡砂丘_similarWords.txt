@@ -1,0 +1,17 @@
+--------------------similar_words:浜岡砂丘--------------------
+top3 entities near to cluster0>>
+砂丘, アルゴドーンズ, 砂浜
+top3 entities near to cluster1>>
+浜岡, 砂丘, 浜岡原発
+top3 entities near to cluster3>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster4>>
+靴, 足, 靴下
+top3 entities near to cluster5>>
+案内, 見物, 隣接
+top3 entities near to cluster7>>
+時間, 近辺
+top3 entities near to cluster10>>
+海岸, 景色, 砂浜
+top3 entities near to cluster11>>
+海岸, 発電, 風力

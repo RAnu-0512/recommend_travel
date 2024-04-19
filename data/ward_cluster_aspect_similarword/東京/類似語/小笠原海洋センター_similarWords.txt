@@ -1,0 +1,25 @@
+--------------------similar_words:小笠原海洋センター--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 大人
+top3 entities near to cluster1>>
+離乳食, 歯磨き, 歯みがき
+top3 entities near to cluster2>>
+ウミガメ, 海ガメ, 赤ちゃん
+top3 entities near to cluster3>>
+赤ちゃん, スプーン, スタッフ
+top3 entities near to cluster5>>
+タイマイ, アオウミガメ, 玳瑁
+top3 entities near to cluster9>>
+振り, 振る
+top3 entities near to cluster10>>
+生態, 教室, ウミガメ
+top3 entities near to cluster11>>
+可能性, 可能, 必要性, 必要
+top3 entities near to cluster12>>
+展示, 出展, 展覧
+top3 entities near to cluster13>>
+入館料, 入場料, 入場, 入館
+top3 entities near to cluster14>>
+繁殖, 産卵, 餌
+top3 entities near to cluster15>>
+カメ, 亀, 甲羅

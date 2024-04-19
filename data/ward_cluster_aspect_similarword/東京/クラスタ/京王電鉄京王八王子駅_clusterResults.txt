@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王電鉄京王八王子駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+京王電鉄, 京王駅, 京王八王子駅
+cluster1:(2)
+地上, 地下
+cluster2:(10)
+高尾山, ネット, 仕事, 始発駅, 八王子, ホーム, 駅, 周辺, 新宿, 京王線
+cluster3:(2)
+場合, 方
+cluster4:(2)
+人, 他
+cluster5:(2)
+途中, 場所
+cluster6:(2)
+客, 足
+cluster7:(1)
+経路
+cluster8:(1)
+混
+cluster9:(14)
+宿泊先, JR, 観光地, 始発, 高速バス, 改札, 電車, JR八王子駅, JR八王子, 通勤時間帯, 移動手段, バス, 送迎バス, 駅構内
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 10
+deleted 0entities.

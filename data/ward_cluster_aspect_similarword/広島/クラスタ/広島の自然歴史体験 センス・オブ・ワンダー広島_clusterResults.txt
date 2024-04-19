@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島の自然歴史体験 センス・オブ・ワンダー広島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+パイ, リンゴ, 広島, 体験, アップル, 存分, 品種, 恒例, りんご, 家族, リサーチ, スタッフ, ここのりんご, 時間, 旅行, 気持ち, こと, 料金
+cluster1:(2)
+しぼりたてジュース, のりんご狩り
+cluster2:(2)
+山の空気, 標高
+cluster3:(1)
+時間無制限プラン
+cluster4:(2)
+観光りんご園, 山上観光りんご園
+cluster5:(2)
+りんご狩り, りんご狩り放題
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

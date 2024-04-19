@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田中ストロベリーファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+暑さ, 満足度, 食べ比べ, 人数制限, 食べ放題
+cluster1:(18)
+スタッフ, 市販, 通路, 種類, 感じ, 近所, 形, 葉っぱ, いちご, 都, 時期, 天気, 現地, シーズン, 価格, クーポン, 対応, イチゴ
+cluster2:(6)
+イチゴ狩り, 田中ストロベリーファーム, 練乳, イチゴ農園, いちご狩り, 苺
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 3
+deleted 0entities.

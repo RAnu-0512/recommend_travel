@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:功山寺_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+櫻, しだれ桜, 桜
+cluster1:(4)
+仏殿, 山門, 国宝, 境内
+cluster2:(7)
+種類, 気温, 秋, 雰囲気, 風情, 時期, 博物館側
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

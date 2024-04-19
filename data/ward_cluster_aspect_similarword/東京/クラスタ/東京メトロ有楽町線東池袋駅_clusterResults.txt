@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ有楽町線東池袋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+池袋駅, 東池袋駅, 豊島区役所, 要町駅, 駅, 東京メトロ有楽町線, 池袋
+cluster1:(2)
+地下階, 地下
+cluster2:(2)
+通路, 地下通路
+cluster3:(18)
+雨, サンシャイン60, 区役所, 地下道, 地上, 地下街, アクセス, 機関, サンシャイン, 事, 寒さ, 電車, サンシャイン60・シティ, 東, 付近, ビル, 方, 催事
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 4
+deleted 0entities.

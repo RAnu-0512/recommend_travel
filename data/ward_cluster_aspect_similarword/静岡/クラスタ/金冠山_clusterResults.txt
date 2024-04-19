@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金冠山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+生憎富士山, 頂上, 駿河湾, レストハウス, 上部, 雲, 達磨山, 山々, 景色, 山, アセビ, 道
+cluster1:(3)
+沼津市, 沼津アルプス, 戸田峠
+cluster2:(1)
+登山道沿い
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 1entities.

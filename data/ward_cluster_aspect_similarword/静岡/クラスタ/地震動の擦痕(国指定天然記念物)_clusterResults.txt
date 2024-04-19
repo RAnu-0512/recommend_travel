@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:地震動の擦痕(国指定天然記念物)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+こと, 角, 道, 天然記念物, 校庭, 揺れ, 傷, 衝撃, 地震, 魚雷, 西側, 地震動, もの, 表面
+cluster1:(4)
+江間小跡, 韮山, 北伊豆地震, 北条寺
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

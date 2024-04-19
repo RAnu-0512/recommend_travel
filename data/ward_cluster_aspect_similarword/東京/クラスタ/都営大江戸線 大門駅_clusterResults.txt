@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営大江戸線 大門駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+羽田空港, ところ, モノレール, 乗り入れ, 浅草線, 地下鉄, 乗り換え, ホーム
+cluster1:(2)
+所, 時間
+cluster2:(1)
+地上
+cluster3:(1)
+先頭
+cluster4:(2)
+都営, 江戸線
+cluster5:(4)
+駅, JR, 改札, 大門駅
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

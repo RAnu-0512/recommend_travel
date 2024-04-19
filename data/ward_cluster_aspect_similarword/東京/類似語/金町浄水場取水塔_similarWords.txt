@@ -1,0 +1,9 @@
+--------------------similar_words:金町浄水場取水塔--------------------
+top3 entities near to cluster1>>
+帝釈天, 京成金町, 四ツ木
+top3 entities near to cluster2>>
+亀, 矢, ガリ
+top3 entities near to cluster3>>
+屋根, 建物, 映画
+top3 entities near to cluster4>>
+取水, 浄水, 配水

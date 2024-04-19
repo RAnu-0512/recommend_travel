@@ -1,0 +1,7 @@
+--------------------similar_words:高輪大木戸跡--------------------
+top3 entities near to cluster1>>
+国道, 歩道, 県道
+top3 entities near to cluster3>>
+史跡, 石碑, 跡
+top3 entities near to cluster5>>
+委員, 文部, 大臣

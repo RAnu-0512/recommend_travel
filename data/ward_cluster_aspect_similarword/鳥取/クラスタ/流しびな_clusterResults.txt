@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:流しびな>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+民俗行事, 行事
+cluster1:(2)
+人形, 女の子たち
+cluster2:(5)
+ならわし, 時期, 川, ひな人形, 周辺
+cluster3:(1)
+鳥取市
+cluster4:(1)
+流しびな
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

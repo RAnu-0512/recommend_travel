@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋吉台国定公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+秋芳洞, 秋芳洞・・・自然
+cluster1:(2)
+石灰岩, 石灰石
+cluster2:(2)
+ホテル, カフェ
+cluster3:(2)
+あちこち, ポツポツ
+cluster4:(6)
+オススメ, トレッキング, ドライブ, チェックイン, おにぎり, コントラスト
+cluster5:(2)
+カップル, 修学旅行
+cluster6:(1)
+カメラ
+cluster7:(1)
+気持ち
+cluster8:(7)
+コース, 秋吉台, 遊歩道, 鍾乳洞, サンゴ礁, ドリーネ, カルスト
+cluster9:(5)
+車, 家族, 顔, 公園, 人
+cluster10:(20)
+中, 次, 日本, 緑, 独特, 自然, 草原, 真夏, 目, 空, 風邪, 草, 次回, 修学旅行生, 白, 地球, 岩, 地上, 下, 海中
+cluster11:(11)
+素晴らしさ, こと, 言葉, 営み, 気, 価値, 感動, 距離, 変化, 迫力, 場所
+cluster12:(7)
+景観, 訪問, 景色, 散策, 風景, 天気, 眺め
+cluster13:(2)
+駐車場, 駐車料金無料
+cluster14:(2)
+カルスト地形, 地形
+cluster15:(2)
+台地, カルスト台地
+cluster16:(7)
+山口県, 造形美, 目的地, 観光バス, 芸術作品, 展望台, 国定公園
+
+howmany entities : 81
+howmany clusters : 17
+howmany entities (more than1entities) : 81
+howmany clusters (more than1entities) : 17
+deleted 0entities.

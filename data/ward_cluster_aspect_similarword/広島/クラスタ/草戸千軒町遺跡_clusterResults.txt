@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:草戸千軒町遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+門前町, そば, 法音寺橋, 芦田川, 中州, 福山, 存在, 現地, 川, 町, 中央部, ポンペイ, 付近, 中腹, 河口, こと, 港町, ジオラマ
+cluster1:(2)
+展望デッキ, 展望
+cluster2:(2)
+資料, 歴史博物館
+cluster3:(3)
+遺跡, 遺跡保護, 遺構
+cluster4:(1)
+発掘調査
+cluster5:(1)
+明王院
+cluster6:(5)
+広島県立歴史博物館, 草戸稲荷神社, 港湾集落遺跡, 草戸千軒町, 福山城近くの県立歴史博物館
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 7
+deleted 0entities.

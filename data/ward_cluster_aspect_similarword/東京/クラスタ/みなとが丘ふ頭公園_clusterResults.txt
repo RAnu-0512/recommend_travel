@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みなとが丘ふ頭公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大井ふ頭, みなとが丘ふ頭公園
+cluster1:(2)
+品川区, 東京都
+cluster2:(4)
+緑, 山, 自然, バーベキュー
+cluster3:(3)
+間, 若者, 割
+cluster4:(6)
+公園, 都心, 景色, 施設, 場所, 散歩
+cluster5:(1)
+展望台
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

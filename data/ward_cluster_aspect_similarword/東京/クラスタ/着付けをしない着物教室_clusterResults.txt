@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着付けをしない着物教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+営業, 時間, 帯, 着物
+cluster1:(2)
+興奮, 不安
+cluster2:(2)
+心, 笑顔
+cluster3:(16)
+量, 先生めっちゃ, 人, お気に入り, 体験, 友達, 手作り, 色合い, 日本, 方, アドバイス, 先生, 雰囲気, 作業, 教室, もの
+cluster4:(1)
+ピンク系
+cluster5:(1)
+外国人
+cluster6:(1)
+満足度
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

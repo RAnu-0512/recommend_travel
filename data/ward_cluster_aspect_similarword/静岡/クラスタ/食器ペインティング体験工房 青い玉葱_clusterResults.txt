@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:食器ペインティング体験工房 青い玉葱>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+人, ペインティング, 点, 子供, 子ども, 場所, 絵, 自由度, 先生, 店内, 感じ, 内容
+cluster1:(3)
+食器選び, 色塗り, 食器
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

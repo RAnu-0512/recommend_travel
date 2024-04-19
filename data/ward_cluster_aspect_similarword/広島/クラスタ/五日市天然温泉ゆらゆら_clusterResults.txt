@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五日市天然温泉ゆらゆら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+露天, 樽, 樽風呂, スーパー銭湯, 岩風呂, 温泉, ヒノキ風呂, 塩サウナ, 天然温泉, 風呂施設, 温泉施設, 泡風呂, 檜風呂, 風呂
+cluster1:(5)
+常連客, 客, 常連組, 女性愛想, 常連
+cluster2:(6)
+駐車場, 休憩, 丸亀うどん, 時間帯, 土日祝, 休憩所
+cluster3:(2)
+喋り, 大声
+cluster4:(4)
+施設, 建物, 設備, 清掃
+cluster5:(21)
+郊外, 子供, あちこち, 髪, マナー, 家, 種類, 漫画, 話, 露天風呂, 利用, サウナ, 人, 家族, スタッフ, 食事, 他, 近く, 気持ち, 悪さ, 足
+cluster6:(7)
+時期, コロナ対策, 状態, 香り, 印象, 難点, 場所
+cluster7:(1)
+人多
+cluster8:(1)
+清潔感
+
+howmany entities : 61
+howmany clusters : 9
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 9
+deleted 0entities.

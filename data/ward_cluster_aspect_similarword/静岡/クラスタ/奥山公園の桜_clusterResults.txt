@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥山公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本数, 台数
+cluster1:(8)
+桜, ソメイヨシノ, 多く, 満開, 公園, 圧巻, 時期, サクラ
+cluster2:(1)
+浜松市
+cluster3:(1)
+駐車場
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 4entities.

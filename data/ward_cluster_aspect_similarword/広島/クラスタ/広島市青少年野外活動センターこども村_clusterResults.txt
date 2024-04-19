@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市青少年野外活動センターこども村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供たち, 子供達
+cluster1:(4)
+施設, 夏休み, 子供, 為
+cluster2:(1)
+課外活動
+cluster3:(1)
+広島市青少年野外活動センターこども村
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

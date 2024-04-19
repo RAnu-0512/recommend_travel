@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ときわミュージアムサボテン室の花サボテン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+もの, サボテン
+cluster1:(1)
+形
+cluster2:(1)
+花
+cluster3:(1)
+丸い
+cluster4:(1)
+トゲ
+cluster5:(1)
+鉢
+cluster6:(1)
+満開
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

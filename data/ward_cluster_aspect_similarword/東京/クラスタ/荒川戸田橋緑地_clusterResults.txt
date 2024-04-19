@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒川戸田橋緑地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+荒川戸田橋, 戸田橋花火大会
+cluster1:(6)
+マラソン大会, 野球場, 有料観覧席, 花火大会, 野球, 花火
+cluster2:(6)
+大宮バイパス, 河原, 戸田, 荒川, 土手, 川幅
+cluster3:(4)
+人たち, 人, 人々, 熱狂
+cluster4:(2)
+緑地, ごみ
+cluster5:(2)
+駅, 会場
+cluster6:(2)
+場所, こと
+cluster7:(4)
+気持ち, ところ, スポット, あたり
+cluster8:(3)
+戸田橋, 河川敷, 市街地
+cluster9:(1)
+近く
+cluster10:(1)
+土地
+cluster11:(6)
+季節, 自然, 夏, 夕立, 風, 大量
+cluster12:(1)
+始め頃
+cluster13:(3)
+季節柄, 散策, 散策ルート
+
+howmany entities : 43
+howmany clusters : 14
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 14
+deleted 0entities.

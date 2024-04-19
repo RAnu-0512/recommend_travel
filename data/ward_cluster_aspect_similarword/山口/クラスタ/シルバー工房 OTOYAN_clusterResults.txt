@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シルバー工房 OTOYAN>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+指導, 先生
+cluster1:(5)
+最後, イメージ, シルバーアクセサリー, 説明, スタッフ
+cluster2:(2)
+時間, 瞬間
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:賀儀城>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+拠点, 瀬戸内海, 目, 多く, 前, こと, 場所, 見ごたえ, 活路
+cluster1:(13)
+一族, 海風, 城, 丘, 曲輪, 海, 墓, 水軍, 浦, 丘陵, 景観, 公園, 城跡
+cluster2:(5)
+賀儀城, 勝運寺, 沼田小早川, 竹原市, 土塁
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 3
+deleted 0entities.

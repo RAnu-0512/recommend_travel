@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:養源寺(東京都文京区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+徒歩, 本駒込駅
+cluster1:(9)
+場所, 地, ところ, 春日局, 市, 光源寺, 様子, 境内, 最寄駅
+cluster2:(3)
+大火, 開基, 移築
+cluster3:(3)
+江戸時代頃, 稲葉正勝, 文京区
+cluster4:(1)
+養源寺
+cluster5:(1)
+三代将軍・徳川家光
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

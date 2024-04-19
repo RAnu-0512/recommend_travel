@@ -1,0 +1,21 @@
+--------------------similar_words:熱海峠パラグライダー--------------------
+top3 entities near to cluster0>>
+時間, 所要
+top3 entities near to cluster1>>
+天気, 予報, お天気
+top3 entities near to cluster2>>
+体験, 体験談, 体感
+top3 entities near to cluster3>>
+景色, 眺望, 夜景
+top3 entities near to cluster5>>
+予約, 送迎, 電話
+top3 entities near to cluster6>>
+道路, 安全, 高速
+top3 entities near to cluster11>>
+空風, 空, 上空
+top3 entities near to cluster12>>
+昼, 夕方, 昼過ぎ
+top3 entities near to cluster14>>
+飛行機, ジェット, フライト
+top3 entities near to cluster15>>
+気持ち, 口コミ, 心遣い

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なごみ果園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+いちご狩り, 苺狩り, イチゴ狩り
+cluster1:(2)
+家族, 息子家族
+cluster2:(15)
+くちコミ, ジューシィー, ドライブコース, 終わり, イチゴ, 苺, サイズ, ふじ, 下田, シーズン, いちご, 爪木崎, 水仙, ネット, インターネット
+cluster3:(8)
+途中, 肝心, 時期, こと, もの, 感じ, 場所, 方
+cluster4:(2)
+各地, 国クーポン
+cluster5:(3)
+予約, 手, 店
+cluster6:(1)
+穴場スポット
+cluster7:(1)
+大きさ
+cluster8:(4)
+小粒, 練乳無し, 大粒, 超大玉
+
+howmany entities : 39
+howmany clusters : 9
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 6entities.

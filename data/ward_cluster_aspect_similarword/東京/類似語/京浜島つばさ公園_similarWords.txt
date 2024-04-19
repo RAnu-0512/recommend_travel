@@ -1,0 +1,21 @@
+--------------------similar_words:京浜島つばさ公園--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 親達
+top3 entities near to cluster1>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster2>>
+迫力, 満点, 楽しい
+top3 entities near to cluster3>>
+徒歩, 駅, 近
+top3 entities near to cluster4>>
+真横, 手前, 端
+top3 entities near to cluster8>>
+景色, デートスポット, ホテル
+top3 entities near to cluster9>>
+子供, 家族, 景色
+top3 entities near to cluster10>>
+昼間, 夜間, 昼
+top3 entities near to cluster11>>
+空港, 離着陸, 駐車
+top3 entities near to cluster12>>
+公園, 海浜, 遊歩道

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マウンテンガイドサービス自遊舎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体調, 体力
+cluster1:(6)
+目, 陰, 交互, 後ろ, 両足, 前
+cluster2:(4)
+感謝, お陰, 方々, 脱帽
+cluster3:(5)
+言葉, 目標, こと, 経験, 声
+cluster4:(13)
+スタッフ, ツアーグループ皆さん, ガイド, 心遣い, 気持ち, ハガキ, 富士山, ツアー, 御来光, 気配り, ペース, ツアーグループ, グループ
+cluster5:(1)
+嬉しさ
+cluster6:(8)
+登山, 富士, 下山, 富士登山ツアー, 登山経験, 山頂, 頂上, 郵便局
+cluster7:(1)
+自遊舎
+
+howmany entities : 40
+howmany clusters : 8
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 4entities.

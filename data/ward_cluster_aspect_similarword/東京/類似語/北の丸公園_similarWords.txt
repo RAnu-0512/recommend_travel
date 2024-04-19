@@ -1,0 +1,27 @@
+--------------------similar_words:北の丸公園--------------------
+top3 entities near to cluster0>>
+花見, 桜, 夜桜
+top3 entities near to cluster1>>
+木々, 緑, 新緑
+top3 entities near to cluster3>>
+大木, 木, 土
+top3 entities near to cluster4>>
+濠, 外濠, 城壁
+top3 entities near to cluster5>>
+銀杏, 黄金, 時代
+top3 entities near to cluster7>>
+美術館, 博物館, ミュージアム
+top3 entities near to cluster9>>
+武道館, ライブ, ライヴ
+top3 entities near to cluster10>>
+雰囲気, カフェ, イベント
+top3 entities near to cluster12>>
+季節, 時期, 時季
+top3 entities near to cluster13>>
+園内, 会場, 見所
+top3 entities near to cluster14>>
+写真, 風景, 証拠
+top3 entities near to cluster16>>
+人達, 大勢
+top3 entities near to cluster17>>
+公園, 駅, 駅前

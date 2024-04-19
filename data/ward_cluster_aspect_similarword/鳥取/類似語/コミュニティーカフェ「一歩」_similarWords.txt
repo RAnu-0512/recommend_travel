@@ -1,0 +1,13 @@
+--------------------similar_words:コミュニティーカフェ「一歩」--------------------
+top3 entities near to cluster0>>
+コーヒー, コーヒ, エスプレッソ
+top3 entities near to cluster1>>
+カフェ, 喫茶店, 喫茶
+top3 entities near to cluster2>>
+カレー, カレーライス, キーマカレー
+top3 entities near to cluster3>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster5>>
+料金, 運賃, 費用
+top3 entities near to cluster6>>
+一歩, みち代, 速夫

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:チチヤス株式会社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ちゅーぴーパーク, ちゅーピーパーク
+cluster1:(3)
+工場見学, 製造, 製造行程
+cluster2:(4)
+広島県, ヨーグルト, こと, チチヤス株式会社
+cluster3:(1)
+甘日市市
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

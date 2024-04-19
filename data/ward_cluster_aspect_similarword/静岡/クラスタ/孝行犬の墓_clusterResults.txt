@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:孝行犬の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+犬, 母犬
+cluster1:(2)
+子犬, 子犬たち
+cluster2:(1)
+孝行犬
+cluster3:(14)
+敷地, 三島駅, 通り, 地域, 幕末, 左手, 病気, 歴史, 絵本, 墓, 話, 寺, 親子, 漫画本
+cluster4:(1)
+圓明寺
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 6entities.

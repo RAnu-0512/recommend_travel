@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三日月山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ウェザーステーション展望台, 展望所, 展望台
+cluster1:(3)
+茶, 菓子, 景観
+cluster2:(6)
+太陽, 山, 坂道, 海, 船, 島民
+cluster3:(2)
+旅行, 売店
+cluster4:(15)
+おすすめ, 場所, イルカ, 人, 東京, 気持ち, 自転車, 遊歩道, ザトウクジラ, レンタルバイク, ほう, グリーンフラッシュ, こと, 三日月山, クジラ
+cluster5:(1)
+徒歩
+cluster6:(1)
+大村
+cluster7:(4)
+夕陽, 夕日, 夕陽時間, 二見湾
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 8
+deleted 0entities.

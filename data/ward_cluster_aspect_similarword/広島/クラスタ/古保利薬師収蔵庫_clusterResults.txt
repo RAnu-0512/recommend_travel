@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古保利薬師収蔵庫>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ガイド, カメラ, 辺り, 複数
+cluster1:(2)
+時代, 物
+cluster2:(2)
+姿, 価値
+cluster3:(1)
+凡
+cluster4:(5)
+紅葉狩りバスツアー, 平安, 寺, 拝観, 仏像
+cluster5:(1)
+戦国時代
+cluster6:(6)
+薬師, 小保利薬師, 薬師像, 山県郡, 国重文, おさすり菩薩
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

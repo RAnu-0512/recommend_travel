@@ -1,0 +1,11 @@
+--------------------similar_words:横須賀城跡--------------------
+top3 entities near to cluster1>>
+交通便, バス便, 交通, バス
+top3 entities near to cluster4>>
+通路, 建物, 空間
+top3 entities near to cluster7>>
+梅, 桜, 天神
+top3 entities near to cluster12>>
+城址, 城跡, 公園
+top3 entities near to cluster15>>
+城, 城内, 城跡

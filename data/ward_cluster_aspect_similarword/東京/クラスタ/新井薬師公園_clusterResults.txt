@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新井薬師公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新井薬師公園, 新井薬師
+cluster1:(3)
+児童館, 駅公衆トイレ, 公園遊具
+cluster2:(3)
+中野駅, 中野, 住宅地
+cluster3:(27)
+足場, 場所, 池, 背, 公園, 人, 釣り, じゃぶじゃぶ池, 緑, 木, 交差点, 一角, 隣り, 庭園, 広場, トイレ, 屋台, 陸橋, 花見客, 木陰, 昼, 道路, 桜, ベンチ, 広さ, 公園側, 休憩場所
+cluster4:(1)
+お水取り
+cluster5:(1)
+未就学児童専用プールじゃぶじゃぶ池
+
+howmany entities : 37
+howmany clusters : 6
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 6
+deleted 0entities.

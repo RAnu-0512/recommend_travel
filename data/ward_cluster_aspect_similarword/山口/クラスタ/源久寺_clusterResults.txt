@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:源久寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+源久寺, 将軍源頼朝
+cluster1:(2)
+寺院, 菩提
+cluster2:(3)
+下郷, 山口市, 仁保
+cluster3:(1)
+平子重経
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

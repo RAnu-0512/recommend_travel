@@ -1,0 +1,37 @@
+--------------------similar_words:外桜田門--------------------
+top3 entities near to cluster0>>
+井伊, 直弼, 大老
+top3 entities near to cluster1>>
+警視庁, 法務省, 外務省
+top3 entities near to cluster2>>
+コース, 遊歩道, ジョギング
+top3 entities near to cluster4>>
+間目, 間次, 間
+top3 entities near to cluster5>>
+変外, 変, 嫌
+top3 entities near to cluster7>>
+木, 木火, 土
+top3 entities near to cluster8>>
+指定, 選定, 除外
+top3 entities near to cluster9>>
+丸, 丸い, ニュー
+top3 entities near to cluster11>>
+風景, 風情, 歴史
+top3 entities near to cluster12>>
+外客, 宿泊, 外国
+top3 entities near to cluster14>>
+内堀, 石垣, 外堀
+top3 entities near to cluster15>>
+外門, 内苑, 内庭
+top3 entities near to cluster16>>
+城, 城壁, 城跡
+top3 entities near to cluster17>>
+冠木門, 天守, 櫓
+top3 entities near to cluster18>>
+門柱, 門扉, 表札
+top3 entities near to cluster19>>
+門外, 阜成, 百衛
+top3 entities near to cluster20>>
+屋根, 瓦, 漆喰
+top3 entities near to cluster21>>
+藩士, 藩主

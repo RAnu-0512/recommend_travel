@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:子育て日切地蔵尊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小さなお地蔵, 地蔵尊, 地蔵
+cluster1:(6)
+子宝, 子供, 周り, 礼, 多く, 慣わし
+cluster2:(4)
+伊豆箱根鉄道駿豆線, 牧之郷駅, 修善寺駅, 日切
+cluster3:(2)
+田んぼが広がり駅, 無人駅
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 2entities.

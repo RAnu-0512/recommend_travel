@@ -1,0 +1,13 @@
+--------------------similar_words:ONOMICHI U2--------------------
+top3 entities near to cluster0>>
+海, パン, 桜
+top3 entities near to cluster2>>
+売店車, 施設, 売店
+top3 entities near to cluster3>>
+メイン, レストラン, イベント
+top3 entities near to cluster4>>
+ランチ, カフェ, ビュッフェ
+top3 entities near to cluster5>>
+後続, 後発, 先頭
+top3 entities near to cluster6>>
+施設, 宿泊, 警備

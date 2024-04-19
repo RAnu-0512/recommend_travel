@@ -1,0 +1,17 @@
+--------------------similar_words:しらかべ学遊館--------------------
+top3 entities near to cluster0>>
+商家, 間口, 土蔵
+top3 entities near to cluster1>>
+展示, 資料, 収蔵
+top3 entities near to cluster2>>
+館内, 施設, 園内
+top3 entities near to cluster3>>
+パネル, 解説, 補足
+top3 entities near to cluster4>>
+歴史, 建物, 町並み
+top3 entities near to cluster5>>
+所縁, 偉人, 人物
+top3 entities near to cluster6>>
+散策, 町並み, 街並み
+top3 entities near to cluster8>>
+金魚

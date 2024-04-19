@@ -1,0 +1,27 @@
+--------------------similar_words:広野海岸公園--------------------
+top3 entities near to cluster1>>
+暑い, 気温, 猛暑
+top3 entities near to cluster2>>
+砂浜, 海辺, 海岸
+top3 entities near to cluster3>>
+海風, 潮風
+top3 entities near to cluster5>>
+眺め, 遊ぶ
+top3 entities near to cluster11>>
+サッカー, バドミントン, おもちゃ
+top3 entities near to cluster12>>
+デートスポット, カップル, オススメスポット
+top3 entities near to cluster15>>
+子ども, 遊び場, 水遊び
+top3 entities near to cluster16>>
+子供, 家族, 子ども
+top3 entities near to cluster17>>
+日, 月, 土
+top3 entities near to cluster21>>
+つれ, 同伴
+top3 entities near to cluster23>>
+駐車場, 駐車, 公園
+top3 entities near to cluster24>>
+遊具, 公園, 芝生
+top3 entities near to cluster27>>
+港船, 難破船, 難破, 港

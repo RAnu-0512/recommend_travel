@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:曽我寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+曽我寺, 曽我兄弟
+cluster1:(3)
+JR身延線, 徒歩, 入山瀬駅
+cluster2:(8)
+石像, 美談, 墓, 昔, 風情, 木, 兄弟, 銅像
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

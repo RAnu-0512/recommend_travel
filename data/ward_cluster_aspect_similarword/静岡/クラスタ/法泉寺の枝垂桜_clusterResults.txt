@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法泉寺の枝垂桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡県, 伊豆市
+cluster1:(2)
+衰え, 老齢
+cluster2:(8)
+桜, 天然記念物, ひとつ, 法泉寺, シダレザクラ, 名所, 大樹, 枝垂桜
+cluster3:(1)
+記念物
+cluster4:(1)
+樹勢
+cluster5:(1)
+推定樹齢
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 7entities.

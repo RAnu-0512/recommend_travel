@@ -1,0 +1,27 @@
+--------------------similar_words:龍王山(憩いの森公園内)--------------------
+top3 entities near to cluster1>>
+子供, 子ども, 大人
+top3 entities near to cluster2>>
+桜, 春, 秋
+top3 entities near to cluster3>>
+飲み物, 自販機, アイスクリーム
+top3 entities near to cluster4>>
+マップ, コース, みどころ
+top3 entities near to cluster6>>
+成長, 成熟, 生長
+top3 entities near to cluster7>>
+施設, 憩い
+top3 entities near to cluster8>>
+庭園, 景色, 風景
+top3 entities near to cluster9>>
+公園, 遊具, 広場
+top3 entities near to cluster10>>
+弁当, おにぎり, 惣菜
+top3 entities near to cluster11>>
+頂上, 東屋, 日陰
+top3 entities near to cluster12>>
+公園, 森, 緑地
+top3 entities near to cluster13>>
+展望台, 展望, 瞻星台, 瞻星
+top3 entities near to cluster14>>
+散策路, 散策, 従走

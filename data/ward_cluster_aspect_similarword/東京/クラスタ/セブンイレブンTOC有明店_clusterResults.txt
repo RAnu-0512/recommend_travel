@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:セブンイレブンTOC有明店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, 朝
+cluster1:(3)
+セブンプレミアム, セブンイレブン, セブン
+cluster2:(2)
+支払い, 買い物
+cluster3:(3)
+コンビニ, コーヒー, サイト
+cluster4:(1)
+ナナコ
+cluster5:(1)
+東京ビッグ
+cluster6:(6)
+観光, 総菜, 商品, 菓子, 催事, 定番商品
+cluster7:(1)
+食料品
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

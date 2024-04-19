@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江戸前汽船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+団体客, 個人客
+cluster1:(4)
+専用バス, 新木場駅, 台場, 夜景
+cluster2:(16)
+おすすめ, テーブル, スタッフ, お好み焼き, 団体, 気分, もんじゃ, もんじゃ焼き, 飲み物, サービス, 店員, 船乗り場, 足, 屋形船, 個人, 税込
+cluster3:(3)
+コロナ対策, 詰め, 焼き方
+cluster4:(3)
+ぜんざいもちのもんじゃ, 飲み放題, 食べ放題
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

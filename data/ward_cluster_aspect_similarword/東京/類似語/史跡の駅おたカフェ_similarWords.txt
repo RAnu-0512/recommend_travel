@@ -1,0 +1,11 @@
+--------------------similar_words:史跡の駅おたカフェ--------------------
+top3 entities near to cluster0>>
+史跡, 再訪, 探訪
+top3 entities near to cluster1>>
+時間, 時分, 時
+top3 entities near to cluster2>>
+駅道, 駅, 駅前
+top3 entities near to cluster3>>
+鷹, 潭市, 落場
+top3 entities near to cluster4>>
+友人, 知人, 友達

@@ -1,0 +1,11 @@
+--------------------similar_words:万世橋交番(江戸東京たてもの園)--------------------
+top3 entities near to cluster0>>
+たもと, つくり, アキバ
+top3 entities near to cluster1>>
+時代, 昔, 大昔
+top3 entities near to cluster2>>
+建物, 家屋, 建築
+top3 entities near to cluster3>>
+明治, 大正, 幕末
+top3 entities near to cluster4>>
+交番, 消防署

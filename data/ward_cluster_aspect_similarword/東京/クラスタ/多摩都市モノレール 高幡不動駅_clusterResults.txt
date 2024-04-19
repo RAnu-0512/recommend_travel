@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩都市モノレール 高幡不動駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+多摩地区, 多摩都市モノレール, 多摩モノレール
+cluster1:(13)
+駅, 高幡不動駅, 地図, 高幡不動, 帰り, 高架線, もの, モノレール, 見晴らし, グーグル, 乗り換え, 京王線, ホーム
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

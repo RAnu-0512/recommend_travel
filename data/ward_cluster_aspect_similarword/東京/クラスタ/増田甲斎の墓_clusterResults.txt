@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:増田甲斎の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+定年, 年金
+cluster1:(9)
+墓, アクセス方法, アジア局, ロマノフ, 通訳, ロシア, 地下鉄, 外務省, 工事
+cluster2:(2)
+源昌寺, 増田甲斎
+cluster3:(4)
+東京急行電鉄目黒線, 掛川藩, 港区, 芝白金
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東郷温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+東郷温泉七福神の足湯, 関金温泉, 三朝温泉, 温泉宿, 東郷温泉, 温泉地, 温泉街, 湯梨浜店
+cluster1:(2)
+パン屋, 焼きたてパン
+cluster2:(5)
+畔一帯, 南岸, 湖面, 湖畔, 湖
+cluster3:(3)
+中国, JR, 中部
+cluster4:(5)
+こと, 人, 好み, 気分, 方
+cluster5:(3)
+水, 体, 足
+cluster6:(2)
+東郷池, 山陰本線
+cluster7:(2)
+夕暮れ, 雰囲気
+cluster8:(4)
+露天風呂, アルカリ, ひとつ, ホテル
+cluster9:(1)
+コロナ
+cluster10:(4)
+建物, 周辺, 近く, 施設
+cluster11:(4)
+雨, 天気, 波, 霧
+cluster12:(4)
+夕日, 展望イートインコーナー, 景色, 景観
+cluster13:(17)
+貸切露天風呂, 旅館, 大黒天の湯, 足湯, 宿, 松崎駅, 穏かな, 入浴可, お湯, 風呂, 泉質, 鳥取県, 温泉, 湯, 日帰り入浴, 贅沢三昧, 養生館
+
+howmany entities : 64
+howmany clusters : 14
+howmany entities (more than1entities) : 64
+howmany clusters (more than1entities) : 14
+deleted 0entities.

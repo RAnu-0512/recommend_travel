@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡マルイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JR静岡駅, 新静岡駅
+cluster1:(2)
+洋服, 靴
+cluster2:(3)
+興味, 人, 人たち
+cluster3:(16)
+マルイ, カフェ, ファッション, カップル, ショップ, サイズ, 子, 中間, メイン, 時間, 位置, おすすめスポット, トレンド, 場所, 中心, 方
+cluster4:(1)
+複合施設
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 2
+deleted 5entities.

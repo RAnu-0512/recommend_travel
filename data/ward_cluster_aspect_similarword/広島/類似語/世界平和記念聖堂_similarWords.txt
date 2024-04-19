@@ -1,0 +1,15 @@
+--------------------similar_words:世界平和記念聖堂--------------------
+top3 entities near to cluster0>>
+距離, 徒歩, 迫力
+top3 entities near to cluster1>>
+神心, 神, 鐘
+top3 entities near to cluster4>>
+聖堂, 教会, 教会堂
+top3 entities near to cluster5>>
+住宅街, 商店街, 住宅, 商店
+top3 entities near to cluster6>>
+建物, 建築, ビル
+top3 entities near to cluster7>>
+建築, 建物, 教会
+top3 entities near to cluster8>>
+平和, 聖堂, 世界

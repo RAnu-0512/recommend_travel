@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松崎海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+人, 伊豆半島, 夏, 西伊豆, 水, 松崎, 海水浴シーズン, 夜, 波, 天気, 近く, 浜辺
+cluster1:(2)
+海水浴場, 海水浴客
+cluster2:(2)
+交通, 都心
+cluster3:(2)
+混雑, 穴場
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 6entities.

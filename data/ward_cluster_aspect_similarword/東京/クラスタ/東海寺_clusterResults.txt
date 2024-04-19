@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東海寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山手通り, 森公園
+cluster1:(17)
+新馬場駅, 建物, 入口, 人気, 子供, 御朱印, 将軍, 左, 寺院, 改札, 寺, 敷地, 山手通, 東海寺, 鐘, 境内, 張り紙
+cluster2:(2)
+京急線, 徳川5将軍家光
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

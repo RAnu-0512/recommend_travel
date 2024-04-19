@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆大島波浮港踊子の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川端康成, 伊豆の踊子
+cluster1:(2)
+伊豆, 大島
+cluster2:(5)
+塀, 風景, 異国チック, 路地, 風情
+cluster3:(12)
+町, 旅館, 港, 人形, 家, 店主, 施設, 車, 部屋, 造り, 宴会, 展示
+cluster4:(4)
+舞台, 映画, 歴史, 数々
+cluster5:(8)
+昔, 場所, 人, 気, 人々, 学生, 時代, 辺り
+cluster6:(1)
+興味
+cluster7:(13)
+モデル, ゆかり, 踊り子, 昭和, 佇まい, 気持ち, 無人, レトロ, キムタク, ノスタルジック, ボタン, 浮港, 波浮港
+cluster8:(1)
+多種
+cluster9:(2)
+鯛焼き, 波浮
+cluster10:(4)
+資料館, 見学施設, 観光地, 古民家
+
+howmany entities : 54
+howmany clusters : 11
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 11
+deleted 0entities.

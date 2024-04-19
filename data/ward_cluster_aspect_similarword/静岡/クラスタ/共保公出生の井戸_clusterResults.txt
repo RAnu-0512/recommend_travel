@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:共保公出生の井戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+直虎ゆかり, 龍潭寺
+cluster1:(10)
+車, 駐車場, 井戸, 緑, 表示看板, 地巡り, 田園風景, 石組み, 白壁, 中
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

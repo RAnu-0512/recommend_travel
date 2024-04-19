@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水寺(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+静岡, 静岡市, 清水坂, 清水, 徳川家, 家康, 静岡市街地, 今川, 清水まつり
+cluster1:(37)
+仁和寺, パン, 隣, イチゴ, 地域, 夜明け, 朝市, 地元, 見晴らし, 保護, 菓子, 谷津山, 物, 清水公園, 説, 野菜, 歴史, 観音堂, 市, 店, 音羽山清水寺, 市街地, 地形, 上, 名前, 蚤, 清水寺, 果物, 場所, 屋台, 京都, 山, 地味, 方々, 手作り, 滝, 方
+cluster2:(10)
+石段, 清水山公園, 神社, 境内, 公園, 寺院, 大僧正道因, 護国神社, 開山, 寺
+cluster3:(2)
+陽光桜, 四季折々
+cluster4:(3)
+祭り, 夏, 夏祭り
+cluster5:(2)
+花火大会, 花火
+cluster6:(1)
+骨董品
+
+howmany entities : 64
+howmany clusters : 7
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 4
+deleted 5entities.

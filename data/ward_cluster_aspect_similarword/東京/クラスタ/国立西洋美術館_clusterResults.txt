@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国立西洋美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+特別展, 入館料, 常設展, 企画展
+cluster1:(3)
+自然と人のダイアローグ, 西洋絵画, 非日常
+cluster2:(2)
+事前予約, 予約
+cluster3:(2)
+指輪, 彫刻
+cluster4:(11)
+ロダン, 人, 感じ, 見応え, 時間, 敷地, プラカード, 美術館, 写真, こと, フロア
+cluster5:(3)
+入場, 窓口, 訪問
+cluster6:(1)
+モネ
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松尾芭蕉句碑(静岡県伊東市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+境内, 浄円寺境内
+cluster1:(2)
+和田, 山田
+cluster2:(3)
+字, 看板, 公園
+cluster3:(5)
+こと, 宇佐美, 解説, 旅, 生涯
+cluster4:(1)
+伊東市
+cluster5:(5)
+芭蕉句碑, 松尾芭蕉, 朝善寺, 物見塚公園, 芭蕉
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 5entities.

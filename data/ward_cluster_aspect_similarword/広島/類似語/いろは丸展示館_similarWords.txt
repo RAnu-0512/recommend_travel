@@ -1,0 +1,43 @@
+--------------------similar_words:いろは丸展示館--------------------
+top3 entities near to cluster0>>
+浦, 丸, 鞆
+top3 entities near to cluster1>>
+衝突, 事件, 追突
+top3 entities near to cluster2>>
+沈没, 事故, 座礁
+top3 entities near to cluster3>>
+金火, 土, 金
+top3 entities near to cluster4>>
+常夜灯, カフェ, ジオラマ
+top3 entities near to cluster5>>
+友人, 隣, 知人
+top3 entities near to cluster6>>
+蔵, 囲夢, クロスユナイト
+top3 entities near to cluster7>>
+いろ, 非, 是
+top3 entities near to cluster8>>
+目的, 観点, 経緯
+top3 entities near to cluster9>>
+模型, 帆船
+top3 entities near to cluster10>>
+建物, 家屋, 建築
+top3 entities near to cluster11>>
+資料, 歴史, 史料
+top3 entities near to cluster12>>
+映像, 写真, 姿
+top3 entities near to cluster13>>
+遺品, 形見, 形見分け
+top3 entities near to cluster14>>
+部屋, 館内, 開館
+top3 entities near to cluster15>>
+館, 丸, 展示
+top3 entities near to cluster16>>
+館, 資料, 展示
+top3 entities near to cluster17>>
+展示, 出展, 収蔵
+top3 entities near to cluster18>>
+営業, 入館, 時間
+top3 entities near to cluster19>>
+対策, 防止, 感染
+top3 entities near to cluster20>>
+龍馬, 龍, 虎馬, 虎

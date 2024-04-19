@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ロース記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ロース岩, ロース石, ロース記念館
+cluster1:(2)
+道路, 建物
+cluster2:(4)
+ガイド, 車, スタッフ, 問題
+cluster3:(2)
+島内観光, 駐車場
+cluster4:(1)
+知ろうかん
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

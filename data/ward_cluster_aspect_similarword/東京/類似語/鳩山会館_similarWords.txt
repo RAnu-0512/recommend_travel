@@ -1,0 +1,21 @@
+--------------------similar_words:鳩山会館--------------------
+top3 entities near to cluster0>>
+総理, 大臣, 首相
+top3 entities near to cluster1>>
+写真, 撮影, 見学
+top3 entities near to cluster3>>
+名門, 一族, 名家
+top3 entities near to cluster4>>
+女性, 男性, 大人
+top3 entities near to cluster5>>
+目的地, 目的, 時間
+top3 entities near to cluster6>>
+時代, 関係, 歴史
+top3 entities near to cluster7>>
+目線, 途端, とたん
+top3 entities near to cluster9>>
+駅, 徒歩, 駅前
+top3 entities near to cluster10>>
+中庭, 建物, 庭
+top3 entities near to cluster11>>
+館, 庭園, 絵画

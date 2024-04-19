@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奇兵隊陣屋跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+奇兵隊, 奇兵隊陣屋
+cluster1:(2)
+陣屋跡, 陣屋
+cluster2:(5)
+場所, 興味, 中国自動車道, 吉田, 下
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

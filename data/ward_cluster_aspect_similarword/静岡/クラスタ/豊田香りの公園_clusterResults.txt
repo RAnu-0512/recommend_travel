@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊田香りの公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+徒歩, 東海道線
+cluster1:(3)
+種類, 場所, 近く
+cluster2:(7)
+ラベンダー, 博物館, ドライブ, 花, ハーブ, キンモクセイ, 家族
+cluster3:(1)
+香り
+cluster4:(4)
+香木, 園内, 公園, ハーブ園
+cluster5:(1)
+豊田町駅
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 4entities.

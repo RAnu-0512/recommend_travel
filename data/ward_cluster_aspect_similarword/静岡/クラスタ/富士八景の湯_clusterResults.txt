@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士八景の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+リクライニングチェア 仮眠室, 休憩処, 休憩所
+cluster1:(18)
+フロント, スタッフ, 館内, クーポン, 家族, 露天風呂 サウナ, 御殿場, 予約, 手, ところ, 人, 手続き, 気持ち, 大声, 髪, 富士山, 露天風呂, 洗い場
+cluster2:(4)
+乳幼児風呂, 内湯, 家族風呂, 風呂
+cluster3:(1)
+清潔感
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 3
+deleted 1entities.

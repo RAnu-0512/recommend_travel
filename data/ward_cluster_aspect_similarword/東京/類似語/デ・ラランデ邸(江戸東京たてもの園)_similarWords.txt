@@ -1,0 +1,9 @@
+--------------------similar_words:デ・ラランデ邸(江戸東京たてもの園)--------------------
+top3 entities near to cluster0>>
+雰囲気, 風情, 佇まい
+top3 entities near to cluster1>>
+邸宅, 洋館, 建物
+top3 entities near to cluster2>>
+区, 区内, 都
+top3 entities near to cluster3>>
+建築

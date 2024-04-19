@@ -1,0 +1,15 @@
+--------------------similar_words:亀戸銭座跡--------------------
+top3 entities near to cluster0>>
+通宝, 寛永, 貨幣
+top3 entities near to cluster1>>
+亀戸, 亀戸水神, 天神
+top3 entities near to cluster2>>
+貨幣, 道路, 発行
+top3 entities near to cluster4>>
+間付近, 間, 近辺
+top3 entities near to cluster6>>
+曹全碑, 石碑, 曹全
+top3 entities near to cluster7>>
+時代, 幕末, 末期
+top3 entities near to cluster8>>
+機構, 都市, 再生

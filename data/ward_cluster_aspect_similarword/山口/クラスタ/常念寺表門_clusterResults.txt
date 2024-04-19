@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常念寺表門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+見ごたえ, 宿舎, くぐり戸, ひかえ柱
+cluster1:(3)
+常念寺表門, 表門, 桁行
+cluster2:(1)
+切妻造り本瓦葺き
+cluster3:(1)
+梁間3.12mの四脚門
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

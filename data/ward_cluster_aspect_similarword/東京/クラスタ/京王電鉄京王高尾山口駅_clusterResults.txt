@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王電鉄京王高尾山口駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+建築家, 登山者, 登山
+cluster1:(12)
+高尾山, ケーブルカー, 主人公達, 高尾線, 木, 聖地, ホーム, トイレ, デザイン, きっぷ, ホワッ, 京王線
+cluster2:(7)
+観光, 新宿駅, 放送回, JR, 駅舎, 駅, 改札
+cluster3:(1)
+リフト乗車券
+cluster4:(5)
+隈研吾, 高尾駅, 山口駅, 高尾山口駅, 京王高尾
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

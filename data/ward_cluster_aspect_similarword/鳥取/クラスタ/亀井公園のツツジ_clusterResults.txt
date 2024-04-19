@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀井公園のツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+城跡公園, 公園麓, 展望台, 亀井公園, 公園全域
+cluster1:(12)
+大山, 山, ピンク色, 蒜山, こと, 山名小太郎, 頂上, 城, 桃紫色, ツツジ, ハイキング, ツジ
+cluster2:(3)
+倉吉市, 関金温泉, 関金
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

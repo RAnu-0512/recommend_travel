@@ -1,0 +1,13 @@
+--------------------similar_words:ドライブインもちや--------------------
+top3 entities near to cluster0>>
+餅草, 饅頭, 餅
+top3 entities near to cluster1>>
+駐車, 国道, 遊園
+top3 entities near to cluster5>>
+特徴, 外観, 詳細
+top3 entities near to cluster6>>
+子供, 子ども, 大人
+top3 entities near to cluster7>>
+売店, 土産, 名物
+top3 entities near to cluster8>>
+公園, 敷地, 遊具

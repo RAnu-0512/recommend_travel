@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仙川平和公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+公園, 花壇, 遊具
+cluster1:(7)
+各所, 子供, 雰囲気, 場所, 平和, 形, 像
+cluster2:(1)
+何処か
+cluster3:(1)
+仙川
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

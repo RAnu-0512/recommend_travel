@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:焼津漁業協同組合>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+クレーン, 場所, 鰹節, イメージ, 営業中., 看板, マグロ, 港, 鮪丼, 現場
+cluster1:(4)
+漁協直営, 焼津市, 焼津旧港, 漁港資料館
+cluster2:(1)
+鮓飯¥200+鮪切身\300
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:Nuance--------------------
+top3 entities near to cluster0>>
+取り扱い, ブランド, 取扱い
+top3 entities near to cluster1>>
+こだわり, 拘り, こだわる
+top3 entities near to cluster2>>
+ショップ, セレクト, ファッションセレクトショップ
+top3 entities near to cluster4>>
+店舗, 店主
+top3 entities near to cluster5>>
+着眼点, 一点, 着眼

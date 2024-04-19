@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かんなみ仏の里美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+干支, 表面部, 間近, 鎌倉, ガイド, 十二支, 平安, 薬師如来, 美術館, 状態, ガラス越し, 説明コーナー, 様子, どれか, 阿弥陀, 表情, 光加減, 阿弥陀如来, 室内, 方
+cluster1:(2)
+信仰心ゆえ, 調和感
+cluster2:(3)
+仏像, 仏師制作, 仏像たち
+cluster3:(2)
+慶派, 将像
+cluster4:(1)
+函南町
+cluster5:(1)
+十二神将
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 6entities.

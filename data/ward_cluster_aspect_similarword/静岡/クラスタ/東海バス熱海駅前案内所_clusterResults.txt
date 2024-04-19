@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東海バス熱海駅前案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+バス路線, バス, 湯遊バス, 観光周遊バス, 路線バス, 基本バス, 東海バス
+cluster1:(22)
+目, 案内, 熱海, 礼, 熱海駅, 観光地, 駅, チケット, オレンジ色, 案内所, ビル, 伊豆, 知り合い, 私事, 食堂, 情報, 観光, 建物, 場所, 地下, 前, 場
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 0entities.

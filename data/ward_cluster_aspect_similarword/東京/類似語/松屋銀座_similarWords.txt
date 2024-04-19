@@ -1,0 +1,43 @@
+--------------------similar_words:松屋銀座--------------------
+top3 entities near to cluster1>>
+デザート, スイーツ, フルーツ
+top3 entities near to cluster2>>
+おにぎり, マシュマロ, おむすび
+top3 entities near to cluster3>>
+デパート, ブティック, ショップ
+top3 entities near to cluster4>>
+雰囲気, センス, 風情
+top3 entities near to cluster5>>
+ショップ, デパート, ブティック
+top3 entities near to cluster7>>
+地下階, 地下, 地上
+top3 entities near to cluster9>>
+土産, おみやげ
+top3 entities near to cluster10>>
+客層, 年配, 年輩
+top3 entities near to cluster11>>
+洋服, 試着, 福袋
+top3 entities near to cluster12>>
+店員, 店内, 接客
+top3 entities near to cluster13>>
+食材, 外観, 値段
+top3 entities near to cluster14>>
+中心, 年齢, 時代
+top3 entities near to cluster15>>
+化粧品, 品等, 化粧
+top3 entities near to cluster17>>
+高級感, 安心感, 高級, 安心
+top3 entities near to cluster18>>
+ハイ, ブランド, ロー
+top3 entities near to cluster19>>
+老舗, しにせ, 大手
+top3 entities near to cluster20>>
+高級, 有名ブランド, ブランド
+top3 entities near to cluster21>>
+食品, 生鮮, 食材
+top3 entities near to cluster22>>
+店舗, 各店
+top3 entities near to cluster23>>
+菓子屋, パン屋, 菓子, パン
+top3 entities near to cluster24>>
+展覧, 展示

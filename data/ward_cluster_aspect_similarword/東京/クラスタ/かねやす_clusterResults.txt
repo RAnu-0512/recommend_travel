@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かねやす>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+兼康祐悦, 兼康
+cluster1:(27)
+説明板, 川柳, 店, 歯磨き粉, 大火, 老舗, 元祖争い, 建物, 仮名, 町奉行, 本郷三丁目, 判決, 交差点, 雑貨店, 本郷, 医師, 口, 芝, 説明書, ビル, 外壁, 歴史, ルーツ, 要素, そのもの, 歯科医, 銘板
+cluster2:(3)
+角, 南西角, 乳香散
+cluster3:(4)
+江戸, 江戸時代, 江戸線, 文京区
+
+howmany entities : 36
+howmany clusters : 4
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 4
+deleted 0entities.

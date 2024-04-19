@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大蓮寺(鳥取県倉吉市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+参道, 境内, 本堂, 参拝, 山門
+cluster1:(4)
+寺院, 墓, 檀家, 寺
+cluster2:(2)
+弁天山道, 大連寺
+cluster3:(4)
+近郊, 道, 大阪, 県
+cluster4:(3)
+気, 影響, 存在
+cluster5:(3)
+手, 目, 弟
+cluster6:(5)
+一般, コロナ, 現在地, 佇まい, 大蓮寺
+cluster7:(1)
+禁止
+cluster8:(7)
+建物, 鉄筋コンクリート造り, 倉吉, 和風, 天正, 土蔵, 豪商
+cluster9:(1)
+木棒
+cluster10:(6)
+脇屋義助, 善蓮社然誉上人文翁, 淀屋ゆかり, 新田義貞, 建武の武将脇屋義助, 淀屋清兵衛ゆかり
+
+howmany entities : 41
+howmany clusters : 11
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 11
+deleted 0entities.

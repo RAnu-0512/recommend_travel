@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩往還(山口)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+山口, 萩往還, 防府, 山口市
+cluster1:(3)
+姿, 所, 場所
+cluster2:(3)
+横, 三田尻, 鰐石
+cluster3:(3)
+橋, 道, 歴史
+cluster4:(2)
+境詩, 漢詩
+cluster5:(1)
+かさねいわ
+cluster6:(7)
+明使, 趙秩, 岩, 雲, 景勝地, 重岩, 鰐石生雲
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かき養殖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+かき養殖, 牡蠣づくし, 剥き身牡蠣, 牡蠣養殖, 牡蠣屋, 養殖牡蠣, 牡蠣, 稚貝, カキ筏, 養殖, カキ養殖場, 筏群, 筏, 牡蠣筏
+cluster1:(2)
+カキ, かき
+cluster2:(12)
+フェリー, 西日本, スポット, 母, 瀬戸内海, いかだ, 東日本大震災, 海, 広島湾, 東日本, 宮島口, お好み焼き
+cluster3:(2)
+店, 名物
+cluster4:(2)
+一瞬, 意外
+cluster5:(3)
+もの, 方, 様子
+cluster6:(1)
+身
+cluster7:(1)
+参拝
+cluster8:(1)
+もみじ饅頭
+cluster9:(8)
+広島, 宮島水族館, 宮島, 宮島周辺, 朱い大鳥居, 宮城県, 厳島神社, あー広島
+
+howmany entities : 46
+howmany clusters : 10
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 10
+deleted 0entities.

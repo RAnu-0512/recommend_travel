@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一之江名主屋敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+葛西, 一之江, 船堀
+cluster1:(2)
+畳, 床板
+cluster2:(14)
+場所, 人, ところ, 右, 駅, 人間, 機会, 屋敷, 歴史, パネル, 高速, 側面, 目, あたり
+cluster3:(1)
+一之江名主屋敷
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大崩海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+復旧工事, 転落事故, 崩落事故現場, 復旧
+cluster1:(3)
+海岸, 海岸沿い, 県道沿い
+cluster2:(4)
+注意, 厳禁, スピード注意, 注意散漫
+cluster3:(25)
+カフェ, 見晴らし, ところ, ドライブ, カーブ, オススメ, よそ見, 海沿い, 富士山, アドバイス, ルート, 大崩海岸, ワインディングロード, 駿河湾, スリル, ドライブスポット, スポット, 通行止め, ネット, トンネル, ドライブコース, 喫茶店, ホテル, 地元民, 断崖絶壁
+cluster4:(3)
+名前, 記憶, 姿
+cluster5:(6)
+人, 方, 場所, 原因, 箇所, こと
+cluster6:(2)
+上, 側
+cluster7:(2)
+昔, 途中
+cluster8:(1)
+世界
+cluster9:(3)
+絶好, 迫力, 距離
+cluster10:(2)
+車, 運転
+cluster11:(2)
+道路, 道
+cluster12:(1)
+夜間
+cluster13:(1)
+通行
+cluster14:(1)
+橋上
+cluster15:(1)
+安全運転
+cluster16:(13)
+心霊スポット, 景観, 海上, 雨, 日本坂トンネル, 断崖, 東海, 海, 崖, 台風, 景色, 絶景, 山
+cluster17:(4)
+静岡市, 焼津, 静岡, 親不知
+
+howmany entities : 78
+howmany clusters : 18
+howmany entities (more than3entities) : 65
+howmany clusters (more than3entities) : 9
+deleted 13entities.

@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿野>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+統一感, 時代劇, 中心部
+cluster1:(4)
+郵便ポスト, 城下, 老中, 城主
+cluster2:(2)
+気遣い, 雰囲気
+cluster3:(4)
+イメージ, 懐かしさ, キーワード, ドライブ
+cluster4:(2)
+鳥取砂丘, 吉岡温泉
+cluster5:(1)
+自動車
+cluster6:(1)
+タイム
+cluster7:(1)
+日本海
+cluster8:(1)
+桜
+cluster9:(12)
+感じ, 流れ, もの, 方, こと, 形, 全体, 水, 中心, 辺り, 続き, 通り
+cluster10:(1)
+良さ
+cluster11:(33)
+地域, 友達, 祭り, 空間, 味, 西部, 外観, 食, 建物, 昔の城下町, 風情, 人, 昔, 料理, 歴史, 町, 家族, 町並み, 店, 街, 面影, 車, 旧家, 城下町, 地元, 道, 入口, 田舎, 水路, 街並み, 温泉, 時間, 場所
+cluster12:(3)
+整備, 散策, 開通
+cluster13:(2)
+道幅, 縦横
+cluster14:(2)
+急須, 側溝
+cluster15:(10)
+観光, 観光地, 蕎麦処, 蕎麦, そば, 食事処, 布団, お土産屋, 日帰り温泉施設, そば打ち
+cluster16:(8)
+江戸・明治, 鹿野城跡公園, 鳥取市, 鹿野城, 鳥取県, 古き良き昔の城下町, 鹿野, 江戸時代初期
+cluster17:(1)
+そば道場へそば打ち体験
+
+howmany entities : 91
+howmany clusters : 18
+howmany entities (more than1entities) : 91
+howmany clusters (more than1entities) : 18
+deleted 0entities.

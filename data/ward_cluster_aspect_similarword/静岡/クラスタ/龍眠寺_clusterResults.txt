@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍眠寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+掛川市, 袋井
+cluster1:(8)
+曹洞宗, 地元, 戦後, 由緒, 人, 歴史, 墓参り, 名前
+cluster2:(2)
+創建, 再建
+cluster3:(4)
+本尊, 本堂, 墓, 寺
+cluster4:(1)
+札所
+cluster5:(1)
+駐車場
+cluster6:(3)
+龍眠寺, 観光寺院, 仏教寺院
+cluster7:(1)
+遠州三十三観音霊場
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 7entities.

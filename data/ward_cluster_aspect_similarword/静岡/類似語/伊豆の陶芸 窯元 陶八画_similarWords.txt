@@ -1,0 +1,37 @@
+--------------------similar_words:伊豆の陶芸 窯元 陶八画--------------------
+top3 entities near to cluster1>>
+居心地, 雰囲気, 気持ち
+top3 entities near to cluster2>>
+ペース, コース, 上がり
+top3 entities near to cluster4>>
+やり方, おかげ, お陰
+top3 entities near to cluster5>>
+仕上がり, スタッフ, 出来上がり
+top3 entities near to cluster6>>
+手作り, 初心者, 手ほどき
+top3 entities near to cluster11>>
+料金, 代金, 代
+top3 entities near to cluster13>>
+対応, 使用, 準備
+top3 entities near to cluster14>>
+経験, 体験, 指導
+top3 entities near to cluster17>>
+陶器, 皿, 茶碗
+top3 entities near to cluster18>>
+夫婦, 夫妻, 親子
+top3 entities near to cluster22>>
+妻, 娘, 主人
+top3 entities near to cluster23>>
+料理店, 店内, 料理
+top3 entities near to cluster24>>
+先生, 作品, 生徒
+top3 entities near to cluster26>>
+予約, 配送, 宿泊
+top3 entities near to cluster31>>
+くろ, 電動, くろい
+top3 entities near to cluster32>>
+陶芸, 工芸, 陶器
+top3 entities near to cluster33>>
+体験, 教室, 講習
+top3 entities near to cluster36>>
+陶芸, 体験, 初

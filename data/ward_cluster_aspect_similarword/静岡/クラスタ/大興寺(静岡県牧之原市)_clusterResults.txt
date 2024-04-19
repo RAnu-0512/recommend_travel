@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大興寺(静岡県牧之原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+予報, 天気
+cluster1:(2)
+雨, 晴れ
+cluster2:(1)
+回復傾向
+cluster3:(13)
+古刹, 大興寺, 御前崎, 裏山, 石, 墓石, 住職, 墓, 海, 途中牧之原, 令和, 子生まれ石, 寺
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 5entities.

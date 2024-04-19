@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大澤温泉 野天風呂 山の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+大沢荘山, 大沢温泉口, 大沢荘, 大澤温泉, 大沢温泉
+cluster1:(6)
+奥, 右, 左, 左側, 横, 木
+cluster2:(8)
+決定, 道なり, 意味, 主因, 迷い, 価格, 感じ, 道
+cluster3:(9)
+車, 人, 環境, 家, 駅, 先, 量, 場所, 道路
+cluster4:(4)
+案内, 歩き, 靴, 看板
+cluster5:(3)
+温度, 炭酸, 肌
+cluster6:(11)
+ドア, 野天風呂, リピート, 西伊豆, 露天風呂, 那賀川, ボケ, シャワー, 炭酸泉, バス停, シャンプー
+cluster7:(2)
+野趣, 下車
+cluster8:(1)
+熱め
+cluster9:(1)
+た.ev
+cluster10:(17)
+松崎線, 川, 下田方面, 東海バス, バサラ峠, 野天風呂・山, 松崎町, 河畔, 桜, 清流, 清流・池代川, 川沿い, 下田, 伊豆, 橋, 下田駅, 山
+cluster11:(3)
+駐車場, 休憩所, 休憩所横
+cluster12:(3)
+温泉, 日帰り温泉, 天然温泉
+cluster13:(3)
+浴槽, 風呂, 湯船
+cluster14:(2)
+お湯, 湯
+cluster15:(1)
+露天
+cluster16:(1)
+岩風呂
+cluster17:(1)
+湯量
+cluster18:(1)
+入湯料
+
+howmany entities : 82
+howmany clusters : 19
+howmany entities (more than3entities) : 72
+howmany clusters (more than3entities) : 11
+deleted 10entities.

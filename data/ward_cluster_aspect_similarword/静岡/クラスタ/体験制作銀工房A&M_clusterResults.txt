@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:体験制作銀工房A&M>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+記念日, 記念
+cluster1:(8)
+アクセサリー, アットホーム, おすすめ, カップル, アドバイス, デザイン, レクチャー, エンゲージリング
+cluster2:(2)
+アトリエ, 作りたて
+cluster3:(1)
+ストーン
+cluster4:(1)
+伊豆高原
+cluster5:(1)
+ネット
+cluster6:(1)
+リング
+cluster7:(1)
+思い出
+cluster8:(1)
+ペンダントトップ
+cluster9:(1)
+写真
+cluster10:(2)
+工房, 制作
+cluster11:(21)
+最後, 車, 世界, 母, 全員, 人, 次回, 他, 親子, 娘, 両親, 心, 家族, 愛犬, 話, たくまちゃん, 先生, 前, 周辺, 伊豆, 旅
+cluster12:(3)
+揃い, 思い出作り, リング作り
+cluster13:(3)
+私達, 何か, 教え方
+cluster14:(2)
+時間, 作業時間
+cluster15:(4)
+光沢, 笑顔, 喋り, 笑い
+cluster16:(13)
+電話, 方, 所, 許可, 事, 模様, 対応, もの, 予約, 説明, 体験, 機会, 形
+cluster17:(1)
+不器
+cluster18:(2)
+粘土トライアル, 銀粘土
+cluster19:(2)
+ペアペンダント, ペアリング
+cluster20:(2)
+互いシルバーアクセサリー, 互い
+cluster21:(2)
+薬指, 左手
+cluster22:(3)
+指輪, ピアス, シルバーピアス
+cluster23:(1)
+婚約指輪
+
+howmany entities : 80
+howmany clusters : 24
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 7
+deleted 25entities.

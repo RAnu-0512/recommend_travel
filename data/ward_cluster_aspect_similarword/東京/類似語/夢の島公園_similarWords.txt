@@ -1,0 +1,57 @@
+--------------------similar_words:夢の島公園--------------------
+top3 entities near to cluster0>>
+館, 第, 五
+top3 entities near to cluster1>>
+熱帯, 植物, 館
+top3 entities near to cluster2>>
+植物園, 熱帯園, 植物, 熱帯
+top3 entities near to cluster3>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster4>>
+開放感, 開放, あふれる
+top3 entities near to cluster5>>
+ピクニック, サイクリング, バーベキュー
+top3 entities near to cluster6>>
+ランド, ポール, マーク
+top3 entities near to cluster7>>
+不足, 少ない, 広い
+top3 entities near to cluster8>>
+周辺, 近辺
+top3 entities near to cluster9>>
+人気, 関連, 記事
+top3 entities near to cluster10>>
+元, 国内, 当時
+top3 entities near to cluster11>>
+木, 木火, 土
+top3 entities near to cluster13>>
+時期, 頃, 幼少
+top3 entities near to cluster14>>
+緑, 緑色, 黄色
+top3 entities near to cluster15>>
+展示, 整備, 工事
+top3 entities near to cluster16>>
+散歩, 大会, 散策
+top3 entities near to cluster17>>
+気分, 旅, 気持ち
+top3 entities near to cluster18>>
+バス, 船舶
+top3 entities near to cluster19>>
+花, 自然, 植物
+top3 entities near to cluster20>>
+人々, 人達
+top3 entities near to cluster21>>
+家族, 友人, 知人
+top3 entities near to cluster22>>
+写真, 撮っ, 画像
+top3 entities near to cluster23>>
+子供, 大人, 子ども
+top3 entities near to cluster24>>
+弁当, ゴミ, ごみ
+top3 entities near to cluster25>>
+夏, 冬, 満天
+top3 entities near to cluster26>>
+漁船, まぐろ, マグロ
+top3 entities near to cluster27>>
+公園, 駅, 広場
+top3 entities near to cluster28>>
+施設, 公園

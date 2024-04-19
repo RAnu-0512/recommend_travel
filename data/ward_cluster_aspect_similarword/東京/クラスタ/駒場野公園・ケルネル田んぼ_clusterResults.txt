@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駒場野公園・ケルネル田んぼ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+心, 生き物, 場所, 次回, 宿題, 南側, 線路, 人, 夏休み, 気, 子供, 近く, 跡地, 花見, 散歩, 駅, 水田, 電車, テンコ盛り, テニスコート, 桜, 子供達, 田んぼ, 資料, 案山子, パン屋, 東大
+cluster1:(8)
+自然観察舎, 水中生物, 自然, 駒場公園, 公園, 筑波学園, 自然公園, 京王井の頭線
+cluster2:(5)
+ケルネル田圃, 駒場東大前駅, 駒場農学校, 東京農学校, 東大前駅
+cluster3:(1)
+駒場野公園→駒場公園
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 4
+deleted 0entities.

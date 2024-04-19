@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:わんぱくトマトガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+近く, 人
+cluster1:(2)
+駅, 公園
+cluster2:(1)
+道
+cluster3:(2)
+子供達, 遊具
+cluster4:(1)
+駐車場
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

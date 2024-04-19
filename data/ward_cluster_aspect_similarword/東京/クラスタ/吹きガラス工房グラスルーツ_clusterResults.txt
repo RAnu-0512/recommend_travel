@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吹きガラス工房グラスルーツ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+灰皿, 小鉢, 亀戸
+cluster1:(7)
+大人, パパ, 娘, ママ, 長女, 次男, 子どもたち
+cluster2:(2)
+ガラス, グラス
+cluster3:(5)
+スクール, マンツーマン, クーポン, プレゼント, サイト
+cluster4:(2)
+子ども, 夏休み
+cluster5:(2)
+形, 色
+cluster6:(2)
+作品, 時間
+cluster7:(5)
+何か, 経由, 興味, ほう, 方
+cluster8:(12)
+空き時間, 陶芸, 近場, 陶芸体験, 色選び, 体験, ガラス工房, 自由研究, イメージ固め, 体験分, 別施設, 花火大会
+
+howmany entities : 40
+howmany clusters : 9
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 9
+deleted 0entities.

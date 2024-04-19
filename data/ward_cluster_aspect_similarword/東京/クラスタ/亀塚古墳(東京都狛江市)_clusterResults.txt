@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀塚古墳(東京都狛江市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+狛江市, 狛江駅
+cluster1:(9)
+古墳, 小田急線, 間, 石碑, ところ, 住宅地, 前方古墳, 徒歩, 前方後円墳
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

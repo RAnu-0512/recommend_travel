@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王線 下高井戸駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乗り換え, 京王線
+cluster1:(2)
+駅, 高井戸駅
+cluster2:(1)
+改札
+cluster3:(1)
+世田谷感
+cluster4:(1)
+東急世田谷線
+cluster5:(1)
+商店街
+cluster6:(1)
+乗降客
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

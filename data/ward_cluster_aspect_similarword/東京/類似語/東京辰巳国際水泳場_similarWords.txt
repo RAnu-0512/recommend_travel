@@ -1,0 +1,23 @@
+--------------------similar_words:東京辰巳国際水泳場--------------------
+top3 entities near to cluster0>>
+競泳, 水泳, 水着
+top3 entities near to cluster1>>
+水泳場, 水泳, 競技場, 競技
+top3 entities near to cluster2>>
+水泳, 陸上, スイミング
+top3 entities near to cluster3>>
+水泳, 競技, 大会
+top3 entities near to cluster4>>
+水球, 大会, 水泳
+top3 entities near to cluster5>>
+水泳, 世界, 柔道
+top3 entities near to cluster6>>
+競技場, 競技, 駐車場, 駐車
+top3 entities near to cluster7>>
+公園, 公共, 交通
+top3 entities near to cluster9>>
+存在, 価値, 清潔
+top3 entities near to cluster11>>
+オリンピック, 国際, 五輪
+top3 entities near to cluster12>>
+康, 介, 熙奉

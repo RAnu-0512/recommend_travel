@@ -1,0 +1,21 @@
+--------------------similar_words:言問橋--------------------
+top3 entities near to cluster0>>
+問, 言, 答
+top3 entities near to cluster2>>
+ホテル, タワー, ビュースポット
+top3 entities near to cluster3>>
+桜, 花, 川
+top3 entities near to cluster4>>
+道路, 歩道, 国道
+top3 entities near to cluster5>>
+景色, 風景, 写真
+top3 entities near to cluster7>>
+由来, 名称
+top3 entities near to cluster8>>
+人々, 人達
+top3 entities near to cluster11>>
+子供, 子ども, 親達
+top3 entities near to cluster13>>
+橋梁, 鉄橋
+top3 entities near to cluster14>>
+駅前, 公園, 下町

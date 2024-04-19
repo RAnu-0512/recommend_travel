@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ekie広島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島, 宮島, 広島駅
+cluster1:(10)
+昼, 南北, スーツケース, 中, ビール, JR, ショップ, 新幹線, 改札, 選択
+cluster2:(6)
+菓子, 牡蠣入りカレーパン, 土産, 餃子, 土産屋, 餃子屋
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

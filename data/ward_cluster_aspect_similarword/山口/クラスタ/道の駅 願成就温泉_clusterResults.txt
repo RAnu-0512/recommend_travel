@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 願成就温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+風呂, 雪見風呂, ヒノキ風呂, 陶器風呂, 壺風呂ありボディーソープ, 檜風呂
+cluster1:(2)
+成就温泉, 願成就温泉
+cluster2:(10)
+生憎温泉, 露天, 入浴者, 温泉施設, 温泉, 湯加減, 足湯, 内湯, お湯, 温泉質
+cluster3:(2)
+脱衣所, 駐車場
+cluster4:(23)
+連休始め, とろとろ, 手前, pH, 津和野, 道, 芯, サウナ, トロトロ系, 外, 温度, 時間帯, ドライブ休憩, ドライヤー, 露天風呂, 度, 駅, 時期, 感じ, リンゴ, とろみ, 人, 山
+cluster5:(1)
+家族風呂完備の願成就温泉
+
+howmany entities : 44
+howmany clusters : 6
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 6
+deleted 0entities.

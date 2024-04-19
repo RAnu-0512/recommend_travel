@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR亀戸駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+どこか, どこか懐かしさ
+cluster1:(10)
+駅, 総武線, ショッピング, ドンキホーテ, 買い物, カメ, 改修, 周り, アトレ, ホーム
+cluster2:(2)
+亀戸駅, 飲食店
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

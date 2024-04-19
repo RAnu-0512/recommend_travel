@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:TOTOギャラリー・間>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+田根剛 未来の記憶, 田根 剛
+cluster1:(33)
+ショールーム, 場所, 昼食後, 寄り, 多く, 赤坂, 涙, ブックショップ, 屋外, 乃木坂駅, 地下鉄乃木坂駅, 東京, 人, 話題, 意外, ミュージアムショップ, 注目, 興味, ギャラリー間, TOTO, 会場, 書籍, 印象, アートギャラリー, 時間, 足, デザイン, ショップ, ギャラリー, うえ, 出口, 目, 東京ミッドタウン
+cluster2:(6)
+企画展示, 企画展, 展示空間, 記憶展, 展示物, 展示
+cluster3:(5)
+建築物, 建物, 建築, 建築関係, ビル
+cluster4:(2)
+建築系, 建築・デザイン系
+cluster5:(2)
+建築家, 某建築家
+
+howmany entities : 50
+howmany clusters : 6
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 6
+deleted 0entities.

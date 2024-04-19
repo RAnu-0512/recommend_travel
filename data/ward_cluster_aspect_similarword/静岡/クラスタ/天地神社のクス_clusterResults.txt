@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天地神社のクス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+函南駅, 熱函道路, 函南町
+cluster1:(22)
+役場, 存在, 目, 樹高, 大木, 推定樹齢, 幹, こと, 若々しさ, 入口, パワー, 天地神社, 巨大さ, ところ, 案内板, 記憶, 右手, クスノキ, クス, 太さ, 木, 巨樹
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 0entities.

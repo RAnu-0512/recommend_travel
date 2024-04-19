@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井伊谷城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+地域遺産センター, 井伊谷城跡, 城跡, 龍潭寺, 城山公園, 井伊谷宮, 井伊
+cluster1:(30)
+坂道, 車, 登り口, 勾配, 途中, 街並み, 下り, 大河ドラマ, 裏手, 家, 井伊谷, ベンチ, 人, 手すり, 階段, 山頂, アクトタワー, 感じ, 景色, 遊歩道, 丘, 道路, 道順, 距離, 場所, 帰り道, 山, 坂, 方, 道
+cluster2:(4)
+駐車場, 休憩所, 案内板, 解放感
+cluster3:(1)
+引佐協働センター
+
+howmany entities : 42
+howmany clusters : 4
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 3
+deleted 1entities.

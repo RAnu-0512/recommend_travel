@@ -1,0 +1,11 @@
+--------------------similar_words:長門峡県立自然公園--------------------
+top3 entities near to cluster1>>
+山々, 風景, 山並み
+top3 entities near to cluster2>>
+河川, 水系, 流域
+top3 entities near to cluster3>>
+奇岩, 巨岩, 奇勝
+top3 entities near to cluster5>>
+水墨画, 水墨, 水彩画, 水彩
+top3 entities near to cluster6>>
+県立, 公園, 自然

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲付城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+京浜, 赤羽, 赤羽駅
+cluster1:(2)
+城向き, 城
+cluster2:(5)
+マツコ, 東京, 東北線, 南北, あたり
+cluster3:(8)
+石碑, 場所, 景色, 面影, 風景, 地形, 階段, 歴史
+cluster4:(3)
+崖, 崖沿い, 地碑
+cluster5:(2)
+宅地化, 稲付城跡
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

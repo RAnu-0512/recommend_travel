@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ファーレ立川アート群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+作品群, 作品巡り, 芸術作品, アート群, 美術作品
+cluster1:(24)
+コンセプト, 場所, 経験, 他, IKEA, ところ, 楽しみ, 感じ, 近く, 街, オブジェ, 関係, 人々, 歩道, 驚き, インスタ, 時間, 美術館, 日本, アーティスト, ベンチ, アーチ, もの, 美術館分
+cluster2:(4)
+アート, パブリックアート, 現代アート, アートデザイン
+cluster3:(2)
+彫刻, 展示
+cluster4:(4)
+作品, 作家, 題名, アート作品
+cluster5:(2)
+青春, 民族
+cluster6:(10)
+関東, 東京, JR, 富士山河口湖, 駅, 西部, 駅周辺, 麻布界隈, 新宿, 埼玉
+cluster7:(8)
+立川, ファーレ立川, JR立川駅, 立川駅, ファーレ立川アート, 快速列車, JRホリー快速富士山号, 昭和記念公園
+
+howmany entities : 59
+howmany clusters : 8
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 8
+deleted 0entities.

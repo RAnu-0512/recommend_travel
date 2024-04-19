@@ -1,0 +1,11 @@
+--------------------similar_words:漢陽寺--------------------
+top3 entities near to cluster0>>
+日水, 土水, 土, 日
+top3 entities near to cluster1>>
+庭園, 庭, 中庭
+top3 entities near to cluster2>>
+寺院, 寺, お寺
+top3 entities near to cluster3>>
+正統派, 臨済宗天竜寺, 正統
+top3 entities near to cluster4>>
+名水, 湧き水, 水源

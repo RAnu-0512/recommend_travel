@@ -1,0 +1,29 @@
+--------------------similar_words:広島市こども文化科学館--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 大勢
+top3 entities near to cluster1>>
+楽しい, 興味
+top3 entities near to cluster2>>
+原理, 道具, 実験
+top3 entities near to cluster4>>
+料金, 中心, 費用
+top3 entities near to cluster5>>
+子ども, 遊び場, 子供
+top3 entities near to cluster6>>
+子供, 子ども, 遊具
+top3 entities near to cluster8>>
+建物, 敷地, 施設
+top3 entities near to cluster9>>
+館内, 展示, 入館
+top3 entities near to cluster10>>
+原爆, 被爆, ドーム
+top3 entities near to cluster11>>
+入場料, 入場, 入館料, 入館
+top3 entities near to cluster12>>
+体験型, 体験, 体験談
+top3 entities near to cluster13>>
+科学, 模型, 館
+top3 entities near to cluster14>>
+科学, 文化, 館
+top3 entities near to cluster15>>
+聞く, 学ぶ, お話

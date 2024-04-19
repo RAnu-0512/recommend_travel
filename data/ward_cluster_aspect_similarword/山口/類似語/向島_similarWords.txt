@@ -1,0 +1,19 @@
+--------------------similar_words:向島--------------------
+top3 entities near to cluster0>>
+桜, 寒, 櫻
+top3 entities near to cluster1>>
+錦橋, 架る, 錦
+top3 entities near to cluster2>>
+山船, 海船, 海, 山
+top3 entities near to cluster4>>
+生活, 自然, 日常
+top3 entities near to cluster5>>
+陸続き, 地続き
+top3 entities near to cluster6>>
+開通, 開業, 着工
+top3 entities near to cluster7>>
+面積, 表面積, 受風
+top3 entities near to cluster8>>
+本土, 本島, 島内
+top3 entities near to cluster9>>
+生息地, 棲息地, 生息, 棲息

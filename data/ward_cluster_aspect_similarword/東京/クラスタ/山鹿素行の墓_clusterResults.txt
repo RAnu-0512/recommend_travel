@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山鹿素行の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+右手, 左手, 右手前方
+cluster1:(3)
+墓所, 墓地, 墓
+cluster2:(2)
+門弟, 兵法
+cluster3:(4)
+討ち入り, 突き当り, 弁天町, 早稲田
+cluster4:(2)
+場所, 南側
+cluster5:(2)
+山門, 寺
+cluster6:(2)
+石段, 石柱
+cluster7:(1)
+新宿区
+cluster8:(7)
+宗参寺, 山鹿流, 山鹿素行先生墓所, 山鹿流兵法, 東京都指定史跡 牛込氏墓, 史跡 山鹿素行墓, 山鹿素行
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 9
+deleted 0entities.

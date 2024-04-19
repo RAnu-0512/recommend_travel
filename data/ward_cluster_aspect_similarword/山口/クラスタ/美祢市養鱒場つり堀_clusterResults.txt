@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美祢市養鱒場つり堀>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+釣竿, 魚, 釣り, 鱒
+cluster1:(11)
+子供, 中, 大人, 外, 持参, 見学, マス, 塩焼き, 買い取り, おにぎり, 場面
+cluster2:(1)
+調理代
+cluster3:(1)
+入れ食い
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

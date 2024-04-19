@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滝野川公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+池, 小川, 大谷美術館
+cluster1:(2)
+都会, 緑
+cluster2:(5)
+水, 場所, 近く, 中, 地元
+cluster3:(3)
+水遊び, 子連れ, 遊び場
+cluster4:(2)
+ランニングコース, 遊歩道
+cluster5:(6)
+ススメ, オアシス, 気持ち, オブジェ, アスレチック, スポット
+cluster6:(1)
+子供
+cluster7:(1)
+木製
+cluster8:(1)
+バラ
+cluster9:(10)
+防災センター, 西ヶ原, 土器, 西ヶ原駅, 整備, 広場, 施設, テニスコート, 展示, 滝野川体育館
+cluster10:(1)
+中心部
+cluster11:(2)
+古河, 古河庭園
+cluster12:(3)
+中里駅, 尾久駅, 王子駅
+cluster13:(3)
+東京都, 東京区, 北区
+cluster14:(9)
+自然, 散策路, 長細い公園, 飛鳥山公園, 公園, 滝野川公園, 地下連絡通路, 自然観察, 自然公園
+
+howmany entities : 52
+howmany clusters : 15
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 15
+deleted 0entities.

@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:馬場大門ケヤキ並木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+神社, 鳥居, 源義家, 源義家公, 参道
+cluster1:(5)
+大木, 駒, 木, 彩, 日本唯一
+cluster2:(2)
+散策, 木陰
+cluster3:(4)
+途中, 場所, 感じ, 中
+cluster4:(2)
+ケヤキ, 並木道
+cluster5:(2)
+ところ, 雰囲気
+cluster6:(3)
+天然記念物, ショッピング, 木漏れ日
+cluster7:(1)
+守り神
+cluster8:(2)
+高架線, 京王線
+cluster9:(1)
+冬
+cluster10:(4)
+趣, 歴史, 時代, 環境
+cluster11:(6)
+一帯, 国, 駅, ショッピング街, 付近, 道
+cluster12:(4)
+高架, 地下, 車通り, 直線
+cluster13:(1)
+良さ
+cluster14:(2)
+案内板, 雄大さ
+cluster15:(6)
+国司時代, 武蔵国, 徳川家康, 府中駅, 府中, 鎌倉・室町
+cluster16:(3)
+馬場大門ケヤキ並木, 馬場大門のケヤキ, 大門ケヤキ並木
+cluster17:(3)
+ケヤキ並木, 立ち並ぶケヤキ並木, 並木
+cluster18:(2)
+やき並木, けやき並木
+cluster19:(3)
+京王電鉄府中駅, 大國魂神社, くらやみ祭競馬
+
+howmany entities : 61
+howmany clusters : 20
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 20
+deleted 0entities.

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新居弁天わんぱくランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海水プール, 海水, 塩水プール
+cluster1:(4)
+家族, 子, もの, 人
+cluster2:(3)
+スライダープール, ちびっこプール, プール
+cluster3:(3)
+小学校, 滑り台, 小学生
+cluster4:(3)
+シート, ベンチ, テント
+cluster5:(2)
+アイス, ラスク
+cluster6:(2)
+スライダー, ウォータースライダー
+cluster7:(2)
+ロッカー, スペース
+cluster8:(4)
+焼きそば, フランクフルト, ペットボトル, オススメ
+cluster9:(1)
+自販機
+cluster10:(1)
+ランド
+cluster11:(1)
+水
+cluster12:(2)
+日陰, 持参
+cluster13:(12)
+売店, 電車, 通常価格, 幼児, 大人, 新居町駅, 小学, 子さん, 子供, 弁当, 更衣, 小学生位
+
+howmany entities : 43
+howmany clusters : 14
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 7
+deleted 11entities.

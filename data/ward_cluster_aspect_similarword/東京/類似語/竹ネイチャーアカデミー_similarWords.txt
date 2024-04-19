@@ -1,0 +1,25 @@
+--------------------similar_words:竹ネイチャーアカデミー--------------------
+top3 entities near to cluster0>>
+上陸, 西海岸, ツアー
+top3 entities near to cluster1>>
+イルカ, クジラ, ダイビング
+top3 entities near to cluster2>>
+一生, 損する
+top3 entities near to cluster3>>
+解説, 補足, レクチャー
+top3 entities near to cluster4>>
+遭遇, 体験, 目撃
+top3 entities near to cluster6>>
+海, 空, 景色
+top3 entities near to cluster7>>
+船舶
+top3 entities near to cluster8>>
+女性, 男性, 乗客
+top3 entities near to cluster10>>
+海, 海辺, 砂浜
+top3 entities near to cluster11>>
+兄島, 海岸, 大金久
+top3 entities near to cluster12>>
+鯨魚, クジラ, 鯨
+top3 entities near to cluster13>>
+乗船, ツアー, 同行

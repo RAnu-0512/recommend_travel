@@ -1,0 +1,111 @@
+--------------------similar_words:新宿御苑--------------------
+top3 entities near to cluster0>>
+シート, 列, 座席
+top3 entities near to cluster1>>
+ボトル, 飲み物, シール
+top3 entities near to cluster2>>
+ボール, ベンチ, グラウンド
+top3 entities near to cluster3>>
+花びら, ピンク, 八重桜
+top3 entities near to cluster4>>
+ドラマ, ウェブ, テレビ
+top3 entities near to cluster5>>
+オススメ, ススメ, おすすめ
+top3 entities near to cluster6>>
+カフェ, スペース, オアシス
+top3 entities near to cluster8>>
+見どころ, 見所, シーズン
+top3 entities near to cluster9>>
+レストラン, デートスポット, カップル
+top3 entities near to cluster10>>
+アレルギー, ストレス, アルコール
+top3 entities near to cluster11>>
+雰囲気, 気持ち, 楽しめる
+top3 entities near to cluster12>>
+買い物, デート, 子連れ
+top3 entities near to cluster13>>
+ガイド, 仕事, ツアー
+top3 entities near to cluster15>>
+天気雨, 天気, 小雨
+top3 entities near to cluster16>>
+木々, 新緑, 芝生
+top3 entities near to cluster17>>
+景色, 風景, 洋館
+top3 entities near to cluster18>>
+植物, 温室, バラ
+top3 entities near to cluster19>>
+気根, 吸枝, 担根
+top3 entities near to cluster20>>
+花, お花, 草花
+top3 entities near to cluster21>>
+香り, 種類, 飲み物
+top3 entities near to cluster22>>
+空気, から口
+top3 entities near to cluster23>>
+空心, 空, 鳥
+top3 entities near to cluster24>>
+シャボン玉, 阮玲玉, シャボン, 阮玲
+top3 entities near to cluster25>>
+人達, 人々
+top3 entities near to cluster26>>
+子供, 子ども, 大人
+top3 entities near to cluster27>>
+子, 娘, 家の子
+top3 entities near to cluster28>>
+家族連れ, 家族, つれ
+top3 entities near to cluster29>>
+外国, 外人, 皇室
+top3 entities near to cluster30>>
+興味, 価値, 関心
+top3 entities near to cluster33>>
+満足, 想像, 期待
+top3 entities near to cluster34>>
+表情, 目線
+top3 entities near to cluster35>>
+広い, 聴係, 聴室
+top3 entities near to cluster36>>
+日, 年, 月
+top3 entities near to cluster37>>
+映像, 撮影, 写真
+top3 entities near to cluster38>>
+人出, 混雑, 人数
+top3 entities near to cluster39>>
+そば, 入口, 入り口
+top3 entities near to cluster41>>
+徒歩, 駅, 立地
+top3 entities near to cluster42>>
+敷地, 園内, 施設
+top3 entities near to cluster43>>
+季節, 風景, 花見
+top3 entities near to cluster44>>
+駅前, 御苑, 都心
+top3 entities near to cluster46>>
+名所, 名所旧跡, 周遊
+top3 entities near to cluster47>>
+訪問, 来訪, 表敬
+top3 entities near to cluster48>>
+花見, お客, 外客
+top3 entities near to cluster49>>
+入場, 入園, 入館
+top3 entities near to cluster50>>
+開園, 閉園, 時間
+top3 entities near to cluster51>>
+時間, 時間帯
+top3 entities near to cluster53>>
+植物園, 温室, 植物
+top3 entities near to cluster54>>
+植物園, 庭園, 植物, 庭
+top3 entities near to cluster55>>
+熱帯, 植物, 亜熱帯
+top3 entities near to cluster56>>
+西洋式, 庭園, 西洋
+top3 entities near to cluster57>>
+風景式, 庭園, 風景
+top3 entities near to cluster58>>
+庭園, 洋風, 西洋
+top3 entities near to cluster59>>
+庭園, 中庭, 名園
+top3 entities near to cluster60>>
+洋風, 庭園, 様式
+top3 entities near to cluster61>>
+庭園, 中庭

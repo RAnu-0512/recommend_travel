@@ -1,0 +1,13 @@
+--------------------similar_words:福山城公園の桜--------------------
+top3 entities near to cluster1>>
+花見, ピクニック, 観桜
+top3 entities near to cluster2>>
+公園, 屋台, 城址
+top3 entities near to cluster3>>
+風情, 価値, 趣き
+top3 entities near to cluster4>>
+桜, 春, 秋
+top3 entities near to cluster5>>
+家族, 写真
+top3 entities near to cluster6>>
+本数, 回数, 便数

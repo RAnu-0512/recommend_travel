@@ -1,0 +1,9 @@
+--------------------similar_words:荒川河川敷--------------------
+top3 entities near to cluster1>>
+選手, 野球, サッカー
+top3 entities near to cluster2>>
+川, 土手, 河川敷
+top3 entities near to cluster3>>
+雰囲気, 景色, 風景
+top3 entities near to cluster4>>
+花火, 堤防, 大会

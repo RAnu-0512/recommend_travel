@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:立花いちご農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+洋便, 和便
+cluster1:(6)
+紅ほっぺ, ふくイチゴ, 苺, ちご, いちご農園, イチゴ狩り
+cluster2:(11)
+到着, 参考, 状態, 方, 体験, 自由, 断念, 事, 予定, こと, 住所
+cluster3:(2)
+お気, ヘタ
+cluster4:(31)
+ハサミ, 子供, 片手, ツヤツヤ, 砂利, 簡易トイレ, 手, 井戸水, サンダル, 幼児, 車, 水, ヒール, 大人, 家族, 入れ物, 虫, こどもたち, 腰, ビニールハウス, 子ども, イチゴ, いちご, ほっぺ, 小学生, 道, 手入れ, 自家用車, ウェットティッシュ, プレハブ, 容器
+cluster5:(2)
+駐車場, 民家街
+
+howmany entities : 54
+howmany clusters : 6
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 6
+deleted 0entities.

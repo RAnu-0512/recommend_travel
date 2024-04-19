@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菊川水掛不動尊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コンクリート, わき
+cluster1:(1)
+龍
+cluster2:(1)
+像
+cluster3:(1)
+湧水
+cluster4:(1)
+駐車場
+cluster5:(1)
+菊川水掛
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

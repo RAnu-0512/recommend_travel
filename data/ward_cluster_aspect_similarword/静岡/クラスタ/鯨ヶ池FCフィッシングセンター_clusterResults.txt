@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鯨ヶ池FCフィッシングセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+魚, フナ, 釣り, エサ, 竿
+cluster1:(2)
+日陰, 避暑
+cluster2:(2)
+店主, 店
+cluster3:(2)
+種類, 時間
+cluster4:(5)
+やり方, 初心者, アットホーム, イメージ, 手ぶら
+cluster5:(2)
+気, 方
+cluster6:(1)
+山
+cluster7:(1)
+コツ
+cluster8:(1)
+コロナ対策
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 11entities.

@@ -1,0 +1,81 @@
+--------------------similar_words:浜離宮恩賜庭園--------------------
+top3 entities near to cluster0>>
+恩賜, 庭園, 公園
+top3 entities near to cluster1>>
+庭園, 中庭, 恩寵
+top3 entities near to cluster2>>
+回遊式, 回遊, 庭園
+top3 entities near to cluster3>>
+庭園, 中庭, 茶室
+top3 entities near to cluster4>>
+庭園, 古来, 国内
+top3 entities near to cluster6>>
+雰囲気, 気持ち, シーン
+top3 entities near to cluster7>>
+おすすめ, オススメ, 見どころ
+top3 entities near to cluster8>>
+こっち, そっち, とこ
+top3 entities near to cluster9>>
+コスモス, オレンジ, サンシュユ
+top3 entities near to cluster10>>
+イベント, レッスン, コンサート
+top3 entities near to cluster13>>
+こども, 子ども, 子供
+top3 entities near to cluster14>>
+ガイド, コース, 手入れ
+top3 entities near to cluster16>>
+入り口, 真ん中, 裏手
+top3 entities near to cluster18>>
+喧騒, 喧噪, 時間
+top3 entities near to cluster19>>
+敷地, 裏手, 施設
+top3 entities near to cluster20>>
+風景, 景色, 写真
+top3 entities near to cluster21>>
+周囲, 周り, 家族
+top3 entities near to cluster23>>
+以前, 昔, 前回
+top3 entities near to cluster24>>
+同率, 順位
+top3 entities near to cluster25>>
+新旧, 両者, スゴイアニメ
+top3 entities near to cluster26>>
+木水, 木火, 木
+top3 entities near to cluster28>>
+時間, 行き方, 所要
+top3 entities near to cluster30>>
+価値, 満足, 値打ち
+top3 entities near to cluster31>>
+歴史, 時代, 背景
+top3 entities near to cluster32>>
+対比, 変化, 変容
+top3 entities near to cluster33>>
+雰囲気, 風情, 趣き
+top3 entities near to cluster34>>
+家康, 継友, 将軍家
+top3 entities near to cluster36>>
+桜, 花, 八重桜
+top3 entities near to cluster37>>
+松, 堀, 梅
+top3 entities near to cluster38>>
+水辺, 木々, 草花
+top3 entities near to cluster39>>
+茶室, 茶会, 茶席
+top3 entities near to cluster40>>
+散歩, 散策, 花見
+top3 entities near to cluster41>>
+園内, 入園
+top3 entities near to cluster43>>
+高層, ビル, ノッポビル
+top3 entities near to cluster44>>
+ビル, 高層, 建物
+top3 entities near to cluster46>>
+駅, 駅前, ＪＲ
+top3 entities near to cluster47>>
+徒歩圏, 徒歩, 圏内
+top3 entities near to cluster48>>
+駅, 燈門, 駅前
+top3 entities near to cluster49>>
+駅, 駅前, 徒歩
+top3 entities near to cluster51>>
+夏, 秋, 春

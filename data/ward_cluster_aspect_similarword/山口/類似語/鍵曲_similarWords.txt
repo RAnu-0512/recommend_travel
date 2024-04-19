@@ -1,0 +1,9 @@
+--------------------similar_words:鍵曲--------------------
+top3 entities near to cluster0>>
+風情, 雰囲気, 人達
+top3 entities near to cluster1>>
+鍵, カギ
+top3 entities near to cluster2>>
+武家, 屋敷, 商家
+top3 entities near to cluster3>>
+土塀, 塀, 城壁

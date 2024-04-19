@@ -1,0 +1,15 @@
+--------------------similar_words:湯ケ島温泉--------------------
+top3 entities near to cluster0>>
+湯, 温泉, 島
+top3 entities near to cluster1>>
+大勢, 人達
+top3 entities near to cluster2>>
+部屋, 窓, 寝室
+top3 entities near to cluster5>>
+露天風呂, 温泉, 旅館
+top3 entities near to cluster8>>
+温泉, 旅館, 宿
+top3 entities near to cluster13>>
+川沿い, 渓流沿い, 川, 渓流
+top3 entities near to cluster15>>
+湯, お湯, 温泉

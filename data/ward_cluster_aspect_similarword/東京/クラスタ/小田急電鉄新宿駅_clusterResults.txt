@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急電鉄新宿駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新宿, 小田急新宿
+cluster1:(2)
+小田急イコール新宿駅, 小田急新宿駅
+cluster2:(2)
+新宿駅, 小田急電鉄新宿駅
+cluster3:(1)
+JR新宿駅
+cluster4:(1)
+JR・京王・小田急
+cluster5:(3)
+江ノ島方面, 学生時代, 方面
+cluster6:(4)
+利用, 利用者, 増加, 対応
+cluster7:(3)
+百貨店, 小田急百貨店, 小田急
+cluster8:(2)
+始発駅, 地下鉄
+cluster9:(5)
+ロマンスカーカフェ, ホーム, 小田急電鉄, 雰囲気, 仕舞い
+cluster10:(1)
+GSE
+cluster11:(4)
+VSE, 富士山, 御殿場, 小田原
+cluster12:(2)
+地上, 地下
+cluster13:(2)
+観光, 教育
+cluster14:(4)
+西側, 大学, 駅, 付近
+cluster15:(5)
+人, 仕事, 名前, 時間, こと
+cluster16:(1)
+サルーン席
+cluster17:(4)
+箱根, 箱根方面, 箱根旅行, ふじさん号
+cluster18:(3)
+ロマンカー, 特急ロマンスカー, ロマンスカー
+cluster19:(2)
+券売機, 自動販売機
+cluster20:(8)
+駅員, 改札口, 改札, JR線, 小田急線, 駅停車, 松田駅, 駅構内
+cluster21:(2)
+通学時間, 時間帯
+cluster22:(2)
+特急券, 特急
+cluster23:(4)
+電車旅, 普通電車, 急行電車, 電車
+
+howmany entities : 69
+howmany clusters : 24
+howmany entities (more than1entities) : 69
+howmany clusters (more than1entities) : 24
+deleted 0entities.

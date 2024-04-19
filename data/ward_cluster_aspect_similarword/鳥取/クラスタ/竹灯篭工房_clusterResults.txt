@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹灯篭工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+竹灯籠, 竹, 竹灯篭
+cluster1:(2)
+大きさ, 追加料金
+cluster2:(2)
+灯り, 穴
+cluster3:(7)
+駅, 友達, 絵柄, 先生, 子供, 娘, 講師
+cluster4:(3)
+体験, 決定, 作業
+cluster5:(13)
+スベスベ, スタート, 手, ドリル, 次, カンナ, スタッフ, ストレス, 小学生, デザイン, アドバイス, 最後, 時間
+cluster6:(1)
+機会
+cluster7:(1)
+観光スポット
+cluster8:(1)
+リピ
+cluster9:(1)
+電動ドリル
+cluster10:(1)
+三朝温泉
+
+howmany entities : 35
+howmany clusters : 11
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 11
+deleted 0entities.

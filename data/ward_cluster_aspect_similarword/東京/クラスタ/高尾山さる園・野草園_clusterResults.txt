@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高尾山さる園・野草園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+別, 頭, 中, 大勢
+cluster1:(7)
+イベントスペース, スタッフ, マイク, おじさん, 写真, スマホ, ショー
+cluster2:(3)
+話し, 知人, 家族
+cluster3:(3)
+車椅子使用, 入口, 階段
+cluster4:(5)
+猿, 紅葉シーズン, 園, 軍団, 餌
+cluster5:(1)
+キヌ
+cluster6:(1)
+ミニ公演
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 7
+deleted 0entities.

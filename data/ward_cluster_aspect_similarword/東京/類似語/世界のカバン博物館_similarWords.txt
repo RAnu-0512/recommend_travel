@@ -1,0 +1,35 @@
+--------------------similar_words:世界のカバン博物館--------------------
+top3 entities near to cluster0>>
+創業者, 創業, 創始者, 創始
+top3 entities near to cluster1>>
+カバン, 鞄, かばん
+top3 entities near to cluster2>>
+エース, ブックギャロップパドック, トーキョーレーベル
+top3 entities near to cluster3>>
+サイン, 有名人, 芸能人
+top3 entities near to cluster4>>
+カード, アプリ, カードアプリ
+top3 entities near to cluster5>>
+スーツケース, カレンダー, キャリーバッグ
+top3 entities near to cluster6>>
+ミシン, ガイド, 出会い
+top3 entities near to cluster7>>
+巨人軍, ジャイアンツ, 球団
+top3 entities near to cluster8>>
+人達, 大勢
+top3 entities near to cluster9>>
+選手, コア, トラック
+top3 entities near to cluster11>>
+各国, 各地, 世界
+top3 entities near to cluster12>>
+国名, 国々
+top3 entities near to cluster13>>
+受付, 案内, 係員
+top3 entities near to cluster15>>
+歴史, 時間, 数々
+top3 entities near to cluster16>>
+企業, 本社, 会社
+top3 entities near to cluster17>>
+映像, 音声, 画面
+top3 entities near to cluster18>>
+展示, 展覧, 博物館

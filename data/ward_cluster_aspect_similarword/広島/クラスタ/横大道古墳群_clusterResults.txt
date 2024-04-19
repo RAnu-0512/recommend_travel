@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:横大道古墳群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+横穴式, 横穴式石室, 片袖式単室
+cluster1:(18)
+興味, 国道, 横, 入口, 長さ, 状態, 幅, 大きさ, 古墳, 円墳, 大道古墳群, 石室, 規模, 案内板, 複数古墳, 看板, 高さ, 入り口
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

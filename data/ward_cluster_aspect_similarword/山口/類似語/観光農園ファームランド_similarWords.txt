@@ -1,0 +1,15 @@
+--------------------similar_words:観光農園ファームランド--------------------
+top3 entities near to cluster0>>
+苺, イチゴ, いちご
+top3 entities near to cluster1>>
+イチゴ, いちご, デザート
+top3 entities near to cluster2>>
+子供, 子連れ, 子ども
+top3 entities near to cluster4>>
+施設, 食事
+top3 entities near to cluster5>>
+雨天, 通行, 天気
+top3 entities near to cluster6>>
+子供, 子ども, 親達
+top3 entities near to cluster7>>
+替える, 換え

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オフィス フェリエ アロマテラピー&スクール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+香水, 香水作り, 香水つくり
+cluster1:(5)
+満足, 体験, 要望, イメージ作り, 気分
+cluster2:(7)
+こと, 知識, もの, 機会, 時間, 場所, 過程
+cluster3:(26)
+体, 教室, 体調, 窓, お気に入り, アロマオイル, 精油, 人間, おすすめレストラン, 本能, 周辺, 仕事, 友人, 夫, アロママッサージ, 観光スポット, 庭, デスク, 香り, 関係, なか, 先生, イメージ, シーン, アロマ, 瓶
+cluster4:(1)
+方向性
+cluster5:(3)
+別荘地, お庭つき, 川奈
+
+howmany entities : 45
+howmany clusters : 6
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 5
+deleted 1entities.

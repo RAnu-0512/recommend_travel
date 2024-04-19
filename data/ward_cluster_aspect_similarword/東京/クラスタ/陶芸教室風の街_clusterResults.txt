@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶芸教室風の街>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+オプション体験コース, 陶芸体験, 体験
+cluster1:(2)
+肌色, 色
+cluster2:(3)
+先生, 友人, 教室
+cluster3:(2)
+担当, 設定
+cluster4:(9)
+途中, 初心者, 作品, やり方, 口コミ, 他, 入り口, 方, もの
+cluster5:(1)
+所
+cluster6:(1)
+金額
+cluster7:(1)
+土
+cluster8:(2)
+追加料金, 大きさ
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 9
+deleted 0entities.

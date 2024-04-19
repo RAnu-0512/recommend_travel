@@ -1,0 +1,9 @@
+--------------------similar_words:ふくろうカフェ地球--------------------
+top3 entities near to cluster1>>
+カフェ, ふくろう, うさぎ
+top3 entities near to cluster3>>
+フクロウ, リクガメ, オカメインコ
+top3 entities near to cluster7>>
+猫, 鳥, ネコ
+top3 entities near to cluster8>>
+動物, 公園, 動植物

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ループ麒麟獅子>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+鳥取港, JR鳥取駅, 鳥取, 鳥取城跡, 鳥取駅
+cluster1:(4)
+緑コース, 赤, 青, 緑
+cluster2:(9)
+コース, 本数, バス停, 効率, 方, 市, ルート, 格安, 時間
+cluster3:(3)
+砂丘, 運行, 車窓
+cluster4:(1)
+どこ迄
+cluster5:(12)
+周回バス, 観光バス, 観光, 乗車場所, 観光地, 乗車, 観光案内所, ループバス, コミュニティバス, 乗車券, バス, 路線バス
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:緑水湖オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+オートキャンプ場, 駐車スペース
+cluster1:(2)
+水道, 設備
+cluster2:(4)
+サイト, キャンプ, ほとり, タイプ
+cluster3:(2)
+テントスペース, コンロ
+cluster4:(1)
+受付
+cluster5:(1)
+湖
+cluster6:(1)
+レンガ作り
+cluster7:(1)
+緑水湖オートキャンプ場
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

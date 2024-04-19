@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宗慶寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+小石川, 寺院, 見応え, 宗慶寺, 墓碑, 寺, 桜, ビニール, 寺前, 南, 横道, 本尊
+cluster1:(4)
+茶阿局, 播磨坂, 徳川家康, 文京区
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

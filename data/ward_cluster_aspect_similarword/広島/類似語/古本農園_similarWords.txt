@@ -1,0 +1,7 @@
+--------------------similar_words:古本農園--------------------
+top3 entities near to cluster1>>
+みかん, 雰囲気, ミカン
+top3 entities near to cluster2>>
+農園, 果物, 果樹
+top3 entities near to cluster4>>
+古本, 農園, 農場

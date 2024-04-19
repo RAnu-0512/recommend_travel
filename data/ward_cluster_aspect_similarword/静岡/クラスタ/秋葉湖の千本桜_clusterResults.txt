@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋葉湖の千本桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜スポット, 桜
+cluster1:(4)
+ひとつ, 人気, パワー, サクラ
+cluster2:(3)
+新緑, 景色, 季節
+cluster3:(4)
+浜松市, 秋葉湖, 千本桜, 湖
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 2entities.

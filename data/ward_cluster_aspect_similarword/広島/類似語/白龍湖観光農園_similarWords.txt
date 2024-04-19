@@ -1,0 +1,31 @@
+--------------------similar_words:白龍湖観光農園--------------------
+top3 entities near to cluster0>>
+湖, 龍, 竜
+top3 entities near to cluster1>>
+狩り, 梨, イチゴ
+top3 entities near to cluster2>>
+制限, 制約, 無制限
+top3 entities near to cluster3>>
+イチゴ, いちご, ぶどう
+top3 entities near to cluster4>>
+ハウス, ボウル, プラン
+top3 entities near to cluster6>>
+子ども, 小学校, トイレ
+top3 entities near to cluster7>>
+手拭き, 手拭, ウエットテッシュ
+top3 entities near to cluster8>>
+バッグ, クーラー, ショルダーバッグ
+top3 entities near to cluster9>>
+全員, 皆人, 皆
+top3 entities near to cluster10>>
+家族, 子供, 子ども
+top3 entities near to cluster11>>
+近所, 現地, 地元
+top3 entities near to cluster12>>
+個性, 値段
+top3 entities near to cluster14>>
+駅店, 農園, 駅
+top3 entities near to cluster15>>
+孫, 子供, 息子
+top3 entities near to cluster17>>
+食べ, 満足, 大きい

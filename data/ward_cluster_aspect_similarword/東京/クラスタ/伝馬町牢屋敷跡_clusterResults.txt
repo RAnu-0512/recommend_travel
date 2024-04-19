@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伝馬町牢屋敷跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伝馬町牢屋敷, 牢屋敷跡の十思公園, 小伝馬町駅近くの十思公園
+cluster1:(2)
+牢屋跡, 牢屋
+cluster2:(2)
+石垣, 石垣跡
+cluster3:(2)
+説明板, 案内板
+cluster4:(3)
+江戸時代, 幕末, 東京メトロ
+cluster5:(19)
+地, 建物, 馬喰町, 公園, 模型, 感じ, 近く, 程度, 跡地, 解説, 地下, 前, 足, 中, 歴史, こと, 方, 側, 辺り
+cluster6:(8)
+思公園, 十思公園, 現在は十思公園, お隣の十思スクエア, 小伝馬町駅, 橋本佐, 十思スクエア, 吉田松陰
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 7
+deleted 0entities.

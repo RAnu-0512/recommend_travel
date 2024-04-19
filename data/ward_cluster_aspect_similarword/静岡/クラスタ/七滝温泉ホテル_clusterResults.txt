@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:七滝温泉ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+温泉, 湯めぐり, 七滝温泉ホテル, 立ち寄り湯, 檜風呂, 湯
+cluster1:(2)
+暖房設備, ストーブ石油
+cluster2:(4)
+サービス用品, 不足, 印象, サービス態度
+cluster3:(2)
+寝具, 枕
+cluster4:(4)
+絨毯, ゴミ, 床, 屋根
+cluster5:(11)
+車, ロビー, ホテル, 温かみ, 駅, 設備, 露天風呂, 石風呂, 部屋, 施設, サービス
+cluster6:(1)
+運転手
+cluster7:(3)
+た.ev, 冷たさ, 清潔感
+
+howmany entities : 33
+howmany clusters : 8
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 5entities.

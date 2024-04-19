@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二鹿野外活動センターキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+サービス, 中高生, 地元, 川, キャンプ場, キャンパー, 行事, グランド, 合宿, 滝, 場所, プール, 木陰
+cluster1:(3)
+集団宿泊, 集中学習, 管理人
+cluster2:(1)
+滝壺
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

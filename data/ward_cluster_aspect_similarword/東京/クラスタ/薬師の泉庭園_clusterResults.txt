@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:薬師の泉庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩小屋, 休憩
+cluster1:(17)
+所, 場所, 三田線, オアシス, 気, 手入れ, 距離, 感じ, 程度, 中山道, 面, あずま屋, 像, 写真, 居心地, スポット, 雰囲気
+cluster2:(4)
+季節, 自然, 草, 緑
+cluster3:(2)
+公園, 園内
+cluster4:(2)
+駅, 町
+cluster5:(1)
+国道
+cluster6:(1)
+蚊
+cluster7:(8)
+薬師, 池, 地蔵, 坂, お庭, 泉, 子供達, 都営
+cluster8:(3)
+日本庭園, 庭園, 江戸庭園
+cluster9:(2)
+池泉庭園, 泉庭園
+cluster10:(2)
+志村坂上駅, 板橋区
+
+howmany entities : 44
+howmany clusters : 11
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 11
+deleted 0entities.

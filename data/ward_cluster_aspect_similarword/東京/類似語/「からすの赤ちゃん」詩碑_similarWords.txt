@@ -1,0 +1,9 @@
+--------------------similar_words:「からすの赤ちゃん」詩碑--------------------
+top3 entities near to cluster0>>
+童謡歌, 童謡, 作詞
+top3 entities near to cluster1>>
+石碑, 記憶, 戦後
+top3 entities near to cluster2>>
+作詞, 作曲, 編曲
+top3 entities near to cluster3>>
+海沼, 海, 猿

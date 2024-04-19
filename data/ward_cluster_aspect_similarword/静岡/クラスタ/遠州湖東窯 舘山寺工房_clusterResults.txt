@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遠州湖東窯 舘山寺工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+興味, 満足, こと, 方, もの, 感じ, 教え方, 形, 愛着
+cluster1:(28)
+最後, 奥様, 浜名湖, 目, 作り方, 水, 帰り, 家族, デッキ, 思い出, 外, 口コミ, 寒い, 小学, 手, ところ, 人, お母さん, 台, 足, 子供, バケツ, 父さん, 先生, 夏休み, 前, 湯, 他
+cluster2:(4)
+年齢, 人柄, 能力, 口調
+cluster3:(7)
+所, 指輪, 工房, エサ, 店, 作家, 作品
+cluster4:(1)
+子供達
+cluster5:(3)
+身長制限, 酒注器, 勿論経験者
+cluster6:(6)
+粘土, 茶碗, 陶芸, 陶芸体験, 陶芸家, 陶器
+cluster7:(2)
+釣り, 釣り体験
+cluster8:(3)
+体験者, 体験, 初体験
+cluster9:(3)
+ろくろ体験, 電動ろくろ体験, ろくろ
+cluster10:(2)
+ロクロ, 電動ロクロ体験
+
+howmany entities : 68
+howmany clusters : 11
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 8
+deleted 5entities.

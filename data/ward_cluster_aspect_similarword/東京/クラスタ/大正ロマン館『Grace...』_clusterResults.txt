@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大正ロマン館『Grace...』>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+定員, 予約制, 予約, 記念日
+cluster1:(5)
+ペアリング, 思い出作り, 指輪作り, 指輪, リング作り
+cluster2:(3)
+接客, 店員, 店内
+cluster3:(32)
+スタッフ, 場所, 作り方, ハンマー, 仕上がり, やり方, 人, 揃い, 待ち時間, 東京, アフターサービス, ところ, 彼, 事, 意外, 思い出, リング, 体験, 希望, 機会, 案内, 作成, 時間, デザイン, 方, 対応, サイズ, 説明, 作業, 方々, リューター, 経験
+cluster4:(2)
+磨き, 手間
+cluster5:(9)
+値段, 柄, 裏側, 模様打ち付け, 模様, 表面, 刻印, 幅, 互い
+cluster6:(1)
+サイズ調節
+cluster7:(1)
+不器
+
+howmany entities : 57
+howmany clusters : 8
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 8
+deleted 0entities.

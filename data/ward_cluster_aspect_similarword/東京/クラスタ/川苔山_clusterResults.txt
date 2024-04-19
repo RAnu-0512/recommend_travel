@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川苔山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鳩ノ巣側, 鳩ノ巣駅近
+cluster1:(3)
+東京都, 川乗橋, 大根ノ山
+cluster2:(3)
+登山口, 登山者, 登山
+cluster3:(9)
+山, 小川, 下り, 滝, 山頂, 標高, 登り, 苔山, 頂上
+cluster4:(20)
+季節, 初心者, 次回, メイン, 景色, 人, 人気, ところ, 紅葉, 気分, 奥多摩駅, 車, 時間, コースタイム, 神, バス, コース, 永遠, 注意, トレッキング
+cluster5:(1)
+達成感
+cluster6:(1)
+町営駐車場
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 7
+deleted 0entities.

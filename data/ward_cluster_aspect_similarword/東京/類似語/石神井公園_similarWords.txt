@@ -1,0 +1,45 @@
+--------------------similar_words:石神井公園--------------------
+top3 entities near to cluster0>>
+コース, 遊歩道, 散歩道
+top3 entities near to cluster1>>
+デート, デートスポット, オススメスポット
+top3 entities near to cluster2>>
+レストラン, ピクニック, ジョギング
+top3 entities near to cluster3>>
+ショット, アクセス, ツーショット
+top3 entities near to cluster4>>
+シンボル, グループ, 老若男女
+top3 entities near to cluster5>>
+小さめ, かわいらしい, 可愛らしい
+top3 entities near to cluster7>>
+ボート, スワン, ボール
+top3 entities near to cluster8>>
+コイン, パーキング, ランドリー
+top3 entities near to cluster9>>
+子供, 子ども, 家族
+top3 entities near to cluster11>>
+鳥, 水鳥, 白鳥
+top3 entities near to cluster12>>
+子供連れ, 家族連れ, 子供, 家族
+top3 entities near to cluster13>>
+散歩, 散策, 出掛け
+top3 entities near to cluster14>>
+散策, 散歩, そぞろ歩き
+top3 entities near to cluster15>>
+花見, 満開, 季節
+top3 entities near to cluster16>>
+庭園, 水辺, 木々
+top3 entities near to cluster17>>
+癒し
+top3 entities near to cluster18>>
+軽食, 売店, 弁当
+top3 entities near to cluster19>>
+バス, 電車, 乗り場
+top3 entities near to cluster20>>
+施設, 公共, 設備
+top3 entities near to cluster22>>
+駅, 徒歩, 駅前
+top3 entities near to cluster23>>
+公園, 広場, 遊歩道
+top3 entities near to cluster24>>
+公園, 水辺

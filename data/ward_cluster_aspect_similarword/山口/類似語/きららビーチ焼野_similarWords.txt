@@ -1,0 +1,23 @@
+--------------------similar_words:きららビーチ焼野--------------------
+top3 entities near to cluster0>>
+海岸, 砂浜, 浜辺
+top3 entities near to cluster1>>
+海, ビーチ, 海辺
+top3 entities near to cluster2>>
+散歩, ワンコ
+top3 entities near to cluster3>>
+親子, 家族, 夫婦
+top3 entities near to cluster4>>
+料理, 食事, 夕食
+top3 entities near to cluster5>>
+絶景, 温泉, 名所
+top3 entities near to cluster6>>
+施設, 設備
+top3 entities near to cluster7>>
+時間, 周り
+top3 entities near to cluster8>>
+季節, 絶好, 時期
+top3 entities near to cluster9>>
+パン屋, パン, 食パン
+top3 entities near to cluster10>>
+館選, 館, 交流

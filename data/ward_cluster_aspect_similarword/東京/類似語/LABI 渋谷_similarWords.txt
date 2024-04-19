@@ -1,0 +1,9 @@
+--------------------similar_words:LABI 渋谷--------------------
+top3 entities near to cluster0>>
+週末, 売り場, 連休
+top3 entities near to cluster1>>
+駅, 駅前, 徒歩
+top3 entities near to cluster3>>
+電気店, 電気, 電器店, 電器
+top3 entities near to cluster4>>
+F, B, 1

@@ -1,0 +1,15 @@
+--------------------similar_words:昭和幻燈館--------------------
+top3 entities near to cluster1>>
+施設, 建物, 敷地
+top3 entities near to cluster2>>
+店舗, 本店
+top3 entities near to cluster3>>
+空間, 別世界, くつろげる
+top3 entities near to cluster4>>
+館内, 園内, 店内
+top3 entities near to cluster5>>
+別館, 本館, 新館
+top3 entities near to cluster6>>
+映画, 作品, 写真
+top3 entities near to cluster8>>
+展示, 入場券, 入場

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急電鉄玉川学園前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+薬師丸ひろ子, こと, 学校, 玉川大学, 前, 玉川学園
+cluster1:(6)
+駅, 駅名, 急行, 駅停車, 町田駅, どおり駅
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

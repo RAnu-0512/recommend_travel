@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長者ヶ原山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ヶ原山, ヶ原山つつじ公園
+cluster1:(2)
+春, 秋
+cluster2:(2)
+つつじまつり, 花
+cluster3:(5)
+色とりどり, 人, トレッキング, ツツジ, 山
+cluster4:(2)
+一帯, 景色
+cluster5:(1)
+長者
+cluster6:(5)
+敷地面積, 公園全体, つつじ公園, 自然公園, 自然散策
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 9entities.

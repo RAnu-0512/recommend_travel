@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:里山なかくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+*́∀`, (.・ω・)ノ
+cluster1:(3)
+ヤギ, 動物園, ヤギ達
+cluster2:(31)
+子供, 現地, 香り, グイグイ気味, 体験, こども達, 子ども, 土産, スタッフ, 餌, 対応, 自然, 家族, 道, 息子, 場所, 蕎麦湯, 蕎麦, ニューヨーク, 梅雨, 木, 弾力, 合間, (*^^*, 天気, コツ, 風味, ジャム, 経験, 晴れ, 友達
+cluster3:(4)
+モチモチ, ワイルド感, もぎたて, 距離感
+cluster4:(7)
+びわ酒作り, びわ, 出汁温蕎麦, びわ狩り, ビワ, びわ刈り, 蕎麦打ち
+
+howmany entities : 47
+howmany clusters : 5
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 5
+deleted 0entities.

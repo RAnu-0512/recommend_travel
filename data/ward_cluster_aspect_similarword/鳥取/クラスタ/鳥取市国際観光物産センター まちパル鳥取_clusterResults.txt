@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取市国際観光物産センター まちパル鳥取>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+若桜街道を県庁, 鳥取市, JR鳥取駅, 鳥取県, 鳥取駅
+cluster1:(8)
+観光, 観光情報, 観光施設, 国際観光, 観光者, 観光案内所, 観光相談, 徒歩観光者
+cluster2:(15)
+材料, 砂丘, 休憩スペース, 位置, 種類, 味, 地元, 菓子, 店, 外国人, 土産物, 箱売り, もの, コーナー, バス
+cluster3:(3)
+名産品, お土産屋, 商店街
+
+howmany entities : 31
+howmany clusters : 4
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:高木神社--------------------
+top3 entities near to cluster1>>
+神社, 境内, 絵馬
+top3 entities near to cluster2>>
+上手, 関係, 人間
+top3 entities near to cluster3>>
+アニメ, 声優, 放送
+top3 entities near to cluster4>>
+販売, 御朱印, 製造
+top3 entities near to cluster5>>
+駅, 自宅, 駅前
+top3 entities near to cluster6>>
+授与, 贈る, 贈呈

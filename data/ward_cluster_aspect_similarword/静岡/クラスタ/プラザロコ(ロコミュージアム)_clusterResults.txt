@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:プラザロコ(ロコミュージアム)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+SL機関車, 蒸気機関車, 機関車トーマス
+cluster1:(6)
+土産, 販売, 展示, 解説, 各種, 限定トーマスグッズ
+cluster2:(2)
+フェア, トーマスフェア
+cluster3:(2)
+フォトスポット, Gotoキャンペーンクーポン
+cluster4:(13)
+博物館, プラレール, グッズ, ミュージアム, 機関車, バック, トーマスグッズ, ジェームス, トイレ, トーマス, 待ち時間, ドイツ, オススメ
+cluster5:(2)
+大人, 映画
+cluster6:(9)
+客, 途中, 昔, もの, 奥, 時間, 店内, 場所, 前
+cluster7:(1)
+ずと
+cluster8:(11)
+家族写真, 駅舎, プラザロコ, 新金谷駅, 飲食物, 駅, SL, Goto静岡クーポン, 客車, 子供たち, ミニトーマス
+cluster9:(3)
+不通区間, お土産屋, 乗車待ち時間
+
+howmany entities : 52
+howmany clusters : 10
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 6
+deleted 7entities.

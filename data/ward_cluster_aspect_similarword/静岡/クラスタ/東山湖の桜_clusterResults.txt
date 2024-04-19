@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東山湖の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時期, 季節
+cluster1:(5)
+花びら, 桜並木, 富士山, 貯水池, 雰囲気
+cluster2:(2)
+周り, 人
+cluster3:(2)
+途中, 近く
+cluster4:(1)
+車
+cluster5:(1)
+東京
+cluster6:(1)
+弁当
+cluster7:(4)
+満開, 樹, 桜, 青葉
+cluster8:(1)
+江戸時代
+cluster9:(8)
+東山湖, 釣り, 湖, 湖面, ルアー釣り, 釣り人, 箱根芦ノ湖, 秩父宮記念公園
+
+howmany entities : 27
+howmany clusters : 10
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 10entities.

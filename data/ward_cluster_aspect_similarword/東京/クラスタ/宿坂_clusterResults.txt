@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宿坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+目白通り, 目白通り側, 目白不動
+cluster1:(3)
+横, 通行人, 周り
+cluster2:(2)
+風情, 感じ
+cluster3:(1)
+距離
+cluster4:(4)
+坂, 雑司, 坂下, 山門
+cluster5:(3)
+宿坂道, 坂道, 住宅地
+cluster6:(1)
+金乗院
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

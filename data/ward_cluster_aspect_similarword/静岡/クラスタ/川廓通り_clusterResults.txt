@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川廓通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+沼津市, 沼津夏, 沼津リバーサイドホテル
+cluster1:(10)
+石畳, 期間, まちあるきスタンプ, 通り道, ヨハネ, サンシャイン, 狩野川, 横, アニメ幻日, ラブライブ
+cluster2:(1)
+花火大会期間
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

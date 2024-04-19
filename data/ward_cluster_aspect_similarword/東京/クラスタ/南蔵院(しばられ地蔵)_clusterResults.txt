@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南蔵院(しばられ地蔵)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大岡越前, 平山南蔵院, 大岡
+cluster1:(2)
+盗難避け厄, 厄よけ
+cluster2:(2)
+しばられ地蔵, しばられ
+cluster3:(2)
+地蔵尊, 地蔵
+cluster4:(23)
+アイスどら焼, 願い, どら焼, 売り切れ, 巻き, 散策, 願, 名裁き, 他, 名, 近く, かけ縄, 寺, 縄, 時間帯, 水元公園, 大岡越前守, 足, 荒縄, 利益, 願掛け, 境内, 願い事
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 5
+deleted 0entities.

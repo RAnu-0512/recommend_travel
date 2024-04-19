@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MaxMara>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+MaxMara, ブランド
+cluster1:(1)
+イタリア
+cluster2:(1)
+コート
+cluster3:(1)
+もの
+cluster4:(1)
+女性
+cluster5:(1)
+冬
+cluster6:(1)
+値段
+cluster7:(1)
+ハイブランド
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

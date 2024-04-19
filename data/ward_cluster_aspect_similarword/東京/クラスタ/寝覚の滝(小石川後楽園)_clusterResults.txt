@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寝覚の滝(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+手前, 主張, 場所, 感じ, 雰囲気, 辺り
+cluster1:(3)
+滝, 紅葉, 名所
+cluster2:(6)
+小石川後楽園, 内庭, 後楽園, 庭, 木曽川, 園内
+cluster3:(1)
+南地域
+cluster4:(1)
+書院
+cluster5:(1)
+案内板
+cluster6:(1)
+木曽山
+cluster7:(1)
+水戸藩
+cluster8:(1)
+大泉水冨気
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

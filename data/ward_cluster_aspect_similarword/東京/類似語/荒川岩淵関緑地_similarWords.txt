@@ -1,0 +1,15 @@
+--------------------similar_words:荒川岩淵関緑地--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, ゴミ
+top3 entities near to cluster1>>
+トイレ, 貸し出し, 便所
+top3 entities near to cluster2>>
+河川敷, バーベキュー, ＢＢＱ
+top3 entities near to cluster4>>
+期間, 限定, 日数
+top3 entities near to cluster5>>
+有料, 無料, 有償
+top3 entities near to cluster8>>
+駅, 荷物, 緑地
+top3 entities near to cluster9>>
+入場, 制限, 入館

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明星山ホースガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乗馬体験, 乗馬
+cluster1:(2)
+馬, 動物
+cluster2:(8)
+人, 気, 案内, オーナー, 時間, 娘, 仕方, 道
+cluster3:(1)
+愛情
+cluster4:(1)
+立札
+cluster5:(1)
+商売優先
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 7entities.

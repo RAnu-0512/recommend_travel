@@ -1,0 +1,7 @@
+--------------------similar_words:ぬくもりの森--------------------
+top3 entities near to cluster0>>
+雑貨屋, パン屋, 雑貨, パン
+top3 entities near to cluster1>>
+建物, 空間, 通路
+top3 entities near to cluster2>>
+滞在場, 駐車場, 駐車, 滞在

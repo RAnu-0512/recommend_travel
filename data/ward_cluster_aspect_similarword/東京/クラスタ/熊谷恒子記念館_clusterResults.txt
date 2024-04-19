@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熊谷恒子記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+都営, 西馬込駅, 住宅街
+cluster1:(2)
+電車, 車
+cluster2:(3)
+中, 方, 場所
+cluster3:(5)
+浅草線, コインパーキング, スマホ, アップダウン, 地下鉄
+cluster4:(1)
+庭
+cluster5:(1)
+地図
+cluster6:(1)
+書
+cluster7:(1)
+記念館
+cluster8:(1)
+熊谷恒子
+
+howmany entities : 18
+howmany clusters : 9
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 9
+deleted 0entities.

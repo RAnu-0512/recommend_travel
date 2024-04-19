@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島国際大学>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+福祉, 福祉系
+cluster1:(2)
+広島国際大学, キャンパスライフ
+cluster2:(2)
+大学, 学生
+cluster3:(1)
+勉強
+cluster4:(1)
+教育インフラ
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

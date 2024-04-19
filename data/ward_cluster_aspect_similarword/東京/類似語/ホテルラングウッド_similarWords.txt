@@ -1,0 +1,15 @@
+--------------------similar_words:ホテルラングウッド--------------------
+top3 entities near to cluster0>>
+区営, 輪駐, 輪
+top3 entities near to cluster1>>
+食べ放題, 食べ, たべ
+top3 entities near to cluster3>>
+料理, 会計, 食材
+top3 entities near to cluster5>>
+パン, 皿, 平皿
+top3 entities near to cluster6>>
+家族, 食事, 子供
+top3 entities near to cluster7>>
+ランチ, パスタ, サラダ
+top3 entities near to cluster9>>
+従業員, 従業, 期間

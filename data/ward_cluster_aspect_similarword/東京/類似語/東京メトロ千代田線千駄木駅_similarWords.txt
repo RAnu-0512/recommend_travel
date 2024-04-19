@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ千代田線千駄木駅--------------------
+top3 entities near to cluster0>>
+趣, 趣き
+top3 entities near to cluster1>>
+最寄り駅, 店舗
+top3 entities near to cluster3>>
+駅, 周辺, 駅前
+top3 entities near to cluster4>>
+飴細工, 飴, びがら
+top3 entities near to cluster5>>
+鴎外, 森, 鷗外

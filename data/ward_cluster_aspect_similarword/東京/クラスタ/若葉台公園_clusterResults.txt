@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若葉台公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+意匠, すり鉢状, 時季, 途中, 北側, 場所, カフェ, スケール, 花, 人, スポーツ施設, 体裁, 子供, 敷, 緑, 目的, 近く, テニス, スロープ, 新緑, アスレチック, 雑木林, エリア, テニスコート, 桜, ナイター設備, 目, バーベキュー
+cluster1:(3)
+複合遊具, 大型遊具, 遊具
+cluster2:(2)
+広さ, 多目的広場
+cluster3:(2)
+駐車場, 野球場
+cluster4:(2)
+散策路, 散策
+cluster5:(3)
+広場, 歩道, 斜面
+cluster6:(2)
+駅, 若葉台駅
+cluster7:(2)
+若葉台公園, 公園
+cluster8:(1)
+芝生広場
+cluster9:(1)
+京王相模原線
+cluster10:(1)
+上谷戸親水公園
+
+howmany entities : 47
+howmany clusters : 11
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 11
+deleted 0entities.

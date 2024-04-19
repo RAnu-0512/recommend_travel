@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明治丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京海洋大学, 海洋大学
+cluster1:(2)
+明治丸, 明治
+cluster2:(4)
+海上, 陸地, 海, 船
+cluster3:(2)
+水, 土
+cluster4:(2)
+天皇, 景観
+cluster5:(9)
+近く, 文化財, 上, よさ, 橋, 中, 方, 横浜, あたり
+cluster6:(1)
+島公園
+cluster7:(1)
+修復工事
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

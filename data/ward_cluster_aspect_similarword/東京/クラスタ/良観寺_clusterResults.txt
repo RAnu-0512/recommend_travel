@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:良観寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+柴又駅, 京成線, 柴又七福神, 柴又
+cluster1:(8)
+所, 願い, 気, 印象, 前, 声, 方, こと
+cluster2:(3)
+力, 態度, 意志
+cluster3:(1)
+像
+cluster4:(17)
+七福神めぐり, ポスター, 御朱印, 言い方, 気持ち, こん, インターホン, キッカケ, 家族, 般若心経, 経, 対応, 外, 布袋, 両手, パート, お腹
+cluster5:(9)
+寺側, 参拝者, 朱印, 説教気味, 寺, 参拝, 住宅地, 納経, 宝袋尊
+
+howmany entities : 42
+howmany clusters : 6
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 6
+deleted 0entities.

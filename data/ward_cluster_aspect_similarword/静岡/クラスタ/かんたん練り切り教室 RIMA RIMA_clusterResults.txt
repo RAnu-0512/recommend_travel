@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かんたん練り切り教室 RIMA RIMA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体験, 経験
+cluster1:(2)
+料理, 味
+cluster2:(4)
+隣, 家族, 友達, 先生
+cluster3:(6)
+作り方, 喫茶店, もの, 気持ち, デザート, 作品
+cluster4:(2)
+会場, 建物
+cluster5:(1)
+喫茶
+cluster6:(1)
+満足感
+cluster7:(1)
+練り切り
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 9entities.

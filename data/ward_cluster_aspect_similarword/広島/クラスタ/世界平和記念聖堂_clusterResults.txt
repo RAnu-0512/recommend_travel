@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:世界平和記念聖堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+迫力, 距離, 徒歩
+cluster1:(4)
+地球, 心, 神, 鐘
+cluster2:(19)
+核兵器, 八丁堀, 文化財, ところ, 日本, 隣, 百貨店, 目, 感じ, 人, 雰囲気, エリザベト音楽大学, 時間, 近く, 戦争, こと, 場所, キリスト教, 講座
+cluster3:(7)
+広島, 世界平和, 広島駅, 中区, 幟町小学校, 中心部, 平和
+cluster4:(4)
+聖堂, 教会, 記念聖堂, カトリック聖堂
+cluster5:(2)
+住宅街, 街
+cluster6:(3)
+建築, 建物, ビル
+cluster7:(2)
+建築物, 教会建築
+cluster8:(1)
+世界平和記念聖堂
+
+howmany entities : 45
+howmany clusters : 9
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 9
+deleted 0entities.

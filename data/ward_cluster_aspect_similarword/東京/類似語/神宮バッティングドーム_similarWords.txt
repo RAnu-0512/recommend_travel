@@ -1,0 +1,19 @@
+--------------------similar_words:神宮バッティングドーム--------------------
+top3 entities near to cluster0>>
+観戦, 対応
+top3 entities near to cluster1>>
+設備, 施設, 機械
+top3 entities near to cluster2>>
+金, 都, 土
+top3 entities near to cluster3>>
+慣らし, 腕, 馴らし
+top3 entities near to cluster5>>
+果て, 果てる, 挙げ句
+top3 entities near to cluster7>>
+ミット, 室内, 新品
+top3 entities near to cluster8>>
+野球, プロ, サッカー
+top3 entities near to cluster9>>
+野球, 選手, サッカー
+top3 entities near to cluster10>>
+神宮, 外苑, 明治

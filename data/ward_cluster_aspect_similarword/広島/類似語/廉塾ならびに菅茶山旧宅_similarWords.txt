@@ -1,0 +1,9 @@
+--------------------similar_words:廉塾ならびに菅茶山旧宅--------------------
+top3 entities near to cluster0>>
+柳, 木, 土
+top3 entities near to cluster1>>
+建物, 空間, 本宅
+top3 entities near to cluster2>>
+字, T, 字形
+top3 entities near to cluster3>>
+塾, 講堂

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竜崎温泉ちどり>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+千鳥, 大島, ガラス戸
+cluster1:(4)
+流石, こと, 問題, 方
+cluster2:(3)
+地元, 間, 人
+cluster3:(1)
+記憶
+cluster4:(3)
+変更, 次第, 周知
+cluster5:(2)
+のんびり疲れ, ミカン作り
+cluster6:(21)
+紙, 施設, 中国, こじんまり, 繰り返し, パーキング, 畳, 車, タオル, レストラン, 客, 広間, Web ページ, Web, 露天風呂, 瀬戸内海, 湯田温泉, メニュー, 海, 気持ち, 館内
+cluster7:(9)
+風呂, 食事, 泉質, 露天, 入浴, 浴場, 塩風呂, 温泉, 竜崎温泉
+cluster8:(3)
+途中運営者, 臨時休業, 休憩室
+
+howmany entities : 49
+howmany clusters : 9
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 9
+deleted 0entities.

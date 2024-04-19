@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津兵学校址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+城岡神社, 学校址
+cluster1:(8)
+フランス, 見ごたえ, 周り, 初期, 歴史, 明治, 場所, 時代
+cluster2:(5)
+一角, ビル, 境内, 南側, 碑
+cluster3:(3)
+駿府, 徳川, 軍制
+cluster4:(1)
+境内左奥手
+cluster5:(4)
+徳川家旧臣, 沼津兵学校, 沼津兵, 沼津駅
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 3entities.

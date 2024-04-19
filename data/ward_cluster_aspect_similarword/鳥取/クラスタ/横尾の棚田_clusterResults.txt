@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:横尾の棚田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高さ, 選出
+cluster1:(2)
+々田んぼ, 棚田
+cluster2:(4)
+起伏, 山, 付近, 形
+cluster3:(1)
+良さ
+cluster4:(1)
+陽当たり
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

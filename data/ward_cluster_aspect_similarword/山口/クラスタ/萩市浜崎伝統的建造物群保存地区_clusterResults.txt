@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩市浜崎伝統的建造物群保存地区>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伝統建造物, 建造物
+cluster1:(2)
+繁栄, 貿易
+cluster2:(2)
+後ろ, 手前
+cluster3:(6)
+山陰本線, 奥行き, 部分, みかん, 写真, ガイド
+cluster4:(2)
+中庭, 建物
+cluster5:(2)
+施設, 地区
+cluster6:(1)
+住宅
+cluster7:(1)
+路地
+cluster8:(1)
+井戸
+cluster9:(5)
+山村家, 東萩駅, 保存地区, 浜崎地区, 選定地区
+
+howmany entities : 24
+howmany clusters : 10
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 10
+deleted 0entities.

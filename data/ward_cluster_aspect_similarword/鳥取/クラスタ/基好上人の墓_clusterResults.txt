@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:基好上人の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+大山, 守護神, 高僧, すべて, 上人, 農業, 名, 放牧, 阿弥陀堂, 牛馬, 大山寺
+cluster1:(4)
+地蔵菩薩, 利生地蔵, 吉持地蔵, 地蔵像
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

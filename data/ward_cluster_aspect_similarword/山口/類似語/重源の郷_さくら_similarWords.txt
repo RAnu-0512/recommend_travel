@@ -1,0 +1,21 @@
+--------------------similar_words:重源の郷_さくら--------------------
+top3 entities near to cluster0>>
+入園者, 入園
+top3 entities near to cluster2>>
+里, 桜, 櫻
+top3 entities near to cluster3>>
+子ども, 小中学生, 子供
+top3 entities near to cluster4>>
+Tシャツ, アスレチック, Ｔシャツ
+top3 entities near to cluster5>>
+遊歩道, サイクリングロード, 歩道
+top3 entities near to cluster6>>
+子供, 娘, 息子
+top3 entities near to cluster7>>
+家族, 親族
+top3 entities near to cluster8>>
+親子, 父子, 夫婦
+top3 entities near to cluster9>>
+施設, 体験, バス
+top3 entities near to cluster10>>
+藍染め, 藍, 染める

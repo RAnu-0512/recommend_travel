@@ -1,0 +1,47 @@
+--------------------similar_words:ヨドバシカメラ西口本店--------------------
+top3 entities near to cluster0>>
+家電, 量販, 電器
+top3 entities near to cluster1>>
+館, 映画, 本館
+top3 entities near to cluster2>>
+時計, 腕時計, 電池
+top3 entities near to cluster3>>
+店員, 店内, 店主
+top3 entities near to cluster4>>
+売り場, 売場, デパート
+top3 entities near to cluster5>>
+スマホ, 売り場, スマフォ
+top3 entities near to cluster6>>
+C, 売り場, B
+top3 entities near to cluster7>>
+売場, 売り場, 百貨店
+top3 entities near to cluster8>>
+小物類, 小物, 一式
+top3 entities near to cluster9>>
+カメラ, 写真, 映像
+top3 entities near to cluster10>>
+繁華街, 建物, 繁華
+top3 entities near to cluster11>>
+売れ筋, セール, お買い得
+top3 entities near to cluster13>>
+買い物, 目当て, おまけ
+top3 entities near to cluster14>>
+デジカメ, パソコン, ビデオカメラ
+top3 entities near to cluster15>>
+ビックカメラ, ヨドバシカメラ, デパート
+top3 entities near to cluster16>>
+ゲーム, 腕時計, エリア
+top3 entities near to cluster17>>
+車椅子, 車いす, 松葉杖
+top3 entities near to cluster19>>
+ネット, インターネット, カード
+top3 entities near to cluster22>>
+立場, 仕事, 目線
+top3 entities near to cluster26>>
+商品, 製品, 販売
+top3 entities near to cluster28>>
+本店, 東口, 駅前
+top3 entities near to cluster29>>
+店舗, 各店
+top3 entities near to cluster30>>
+大型店, 店舗, 大型

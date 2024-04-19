@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥浜名湖めぐり遊覧船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+発着便, 運休, 遊覧船
+cluster1:(3)
+フラワー港, 瀬戸港, フラワーパーク港
+cluster2:(7)
+乗り場, 乗船, 浜名湖, 隣, 舘山寺, 湖, カモメ
+cluster3:(3)
+台風, 復活, 影響
+cluster4:(1)
+舘山
+cluster5:(1)
+寺側
+cluster6:(1)
+駐車場
+cluster7:(1)
+三ヶ日みかん直売所
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 4entities.

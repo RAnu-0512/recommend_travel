@@ -1,0 +1,9 @@
+--------------------similar_words:ふれあいの森--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 大人
+top3 entities near to cluster1>>
+駅, 公園, 敷地
+top3 entities near to cluster2>>
+滑り台, すべり台, 遊具
+top3 entities near to cluster5>>
+温泉, 自然, 公園

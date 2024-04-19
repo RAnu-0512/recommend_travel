@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊田ホタルの里ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+中, 施設, ホタル, 成長, 展示, 念願, 種類, ミュージアム, 興味, 近く, 生き物
+cluster1:(2)
+生態, 水辺
+cluster2:(3)
+道, 里ミュージアム, 駅
+cluster3:(1)
+地域周辺
+cluster4:(1)
+雌雄
+cluster5:(1)
+入場料
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

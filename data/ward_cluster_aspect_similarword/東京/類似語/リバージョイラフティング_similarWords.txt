@@ -1,0 +1,39 @@
+--------------------similar_words:リバージョイラフティング--------------------
+top3 entities near to cluster0>>
+爽快感, 高揚感, 爽快, 高揚
+top3 entities near to cluster1>>
+家族, 友人, 友達
+top3 entities near to cluster2>>
+子供, 子ども, 親達
+top3 entities near to cluster3>>
+親, 親達, 子供
+top3 entities near to cluster4>>
+子供, 息子, 家族
+top3 entities near to cluster5>>
+ラフティング, ハイキング, サイクリング
+top3 entities near to cluster7>>
+安全, 衛生面, 衛生
+top3 entities near to cluster8>>
+岩, 岩山, 岩場
+top3 entities near to cluster9>>
+猛暑, 暑い, 台風
+top3 entities near to cluster10>>
+天気, 天候, 景観
+top3 entities near to cluster11>>
+体験, 体験談, 初
+top3 entities near to cluster12>>
+川下り, 川, 川沿い
+top3 entities near to cluster13>>
+時間, 現地
+top3 entities near to cluster15>>
+後半, 終盤, 前半
+top3 entities near to cluster16>>
+時間, 日, 最終
+top3 entities near to cluster17>>
+電話, 対応, 応対
+top3 entities near to cluster19>>
+案内, 受付, 参加
+top3 entities near to cluster20>>
+世話, 作る
+top3 entities near to cluster21>>
+行事, 恒例

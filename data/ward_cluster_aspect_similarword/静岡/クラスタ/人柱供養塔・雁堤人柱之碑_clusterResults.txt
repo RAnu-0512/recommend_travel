@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:人柱供養塔・雁堤人柱之碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+人, 話, 人柱, 江戸時代に荒れ狂う川, 堤, 憤り, 雁堤
+cluster1:(3)
+人柱供養塔, 供養塔, 雁堤人柱之碑
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 0entities.

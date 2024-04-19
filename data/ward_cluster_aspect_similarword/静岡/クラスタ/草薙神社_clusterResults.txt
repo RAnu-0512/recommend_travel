@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:草薙神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+駐車場, 拝殿, 寺社, 参拝, 神社, 境内, 御祓
+cluster1:(4)
+家, 現象, 歴史, 伝説
+cluster2:(4)
+時間, 目的, 地, 場所
+cluster3:(2)
+観光, 旅
+cluster4:(18)
+雨, 御朱印, アプリ, 火, 今回, 草, 対応, 伊勢神宮, ヤマトタケルノミコト, パワー, ところ, ひとつ, 感じ, ハンバーグチェーン, 雰囲気, ゆかり, 他, 方
+cluster5:(1)
+窮地
+cluster6:(1)
+世界遺産
+cluster7:(11)
+日本武尊, 静岡市, 三保, 森, 清水, 楠, 江尻宿, 次郎長, 宿場印, 松原, 府中宿
+cluster8:(9)
+草薙伝説, 倭比売命, 草薙駅, 草薙剣伝説にゆかりのある神社, 草薙神社, 神剣天叢雲剣, 草薙, 静岡鉄道・草薙駅, 草薙剣
+
+howmany entities : 57
+howmany clusters : 9
+howmany entities (more than3entities) : 53
+howmany clusters (more than3entities) : 6
+deleted 4entities.

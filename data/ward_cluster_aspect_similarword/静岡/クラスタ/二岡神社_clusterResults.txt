@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二岡神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+杉の木, 黒沢明, 二岡神社
+cluster1:(20)
+アクセス, 落ち葉, じゅうたん状態, 森林, 世界, 森, 空間, 癒し, ところ, イマジネーション, ひとつ, 神社, 市街地, 境内, ロケ地, 中, 自然, 雰囲気, イチョウ, 御殿場市
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 0entities.

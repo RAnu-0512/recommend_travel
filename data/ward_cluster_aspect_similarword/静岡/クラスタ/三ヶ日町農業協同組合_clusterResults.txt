@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三ヶ日町農業協同組合>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+特産物直売所, JAみっかび直売所
+cluster1:(3)
+袋詰めみかん, 袋詰め, 袋詰めミカン
+cluster2:(2)
+駐車場, 共同駐車場
+cluster3:(2)
+冷凍, 冷凍みかん
+cluster4:(2)
+完備, 広め
+cluster5:(3)
+菓子, みかん三昧, 箱サイズ
+cluster6:(2)
+敷地, 場所
+cluster7:(2)
+スーパーマーケットバロー, バロー
+cluster8:(3)
+段ボール, ジュース, オススメ
+cluster9:(3)
+みかん, ミカンサイダー, ミカン
+cluster10:(1)
+酒
+cluster11:(1)
+感想
+cluster12:(2)
+三ヶ日駅, JA
+cluster13:(1)
+青島みかん
+cluster14:(1)
+土産探し
+
+howmany entities : 30
+howmany clusters : 15
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 4
+deleted 18entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急リゾートタウン浜名湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駐車場, シャワー室付き, 更衣室, 受付棟
+cluster1:(3)
+返却なしタイプ, 笑笑アクティビティ, 貴重品
+cluster2:(2)
+湖, 湖脇
+cluster3:(7)
+ロッカー, シャワー, マリンシューズ, 仕切り, カーテン, バーベキュー, タオル
+cluster4:(2)
+パドル, ボード
+cluster5:(2)
+SUP, BBQ
+cluster6:(1)
+琵琶湖
+cluster7:(2)
+ロッカールーム, ライフジャケット
+cluster8:(6)
+気, 当方SUP, 方, 受付, 近く, 説明
+cluster9:(7)
+食材, 海水, 荷物, 設備, 肉, 波, 量
+
+howmany entities : 36
+howmany clusters : 10
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 9entities.

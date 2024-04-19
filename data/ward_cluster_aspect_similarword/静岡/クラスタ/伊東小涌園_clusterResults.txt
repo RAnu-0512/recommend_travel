@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊東小涌園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+朝食, 食事, 夕食
+cluster1:(16)
+最後, フロント, ロビー, 名物, レストラン, 家族, 料理, 居心地, トラブル, 部屋, 場所, オススメ, こども, 煮つけ, アワビ, 道
+cluster2:(8)
+予定, 利用, 対応, 感じ, 量, 出すタイミング, 印象, 方
+cluster3:(1)
+従業員
+cluster4:(17)
+飲泉, 温泉, 内湯, ぬる湯, 伊東, あつ湯, お湯, 金目鯛, 男湯, あつ湯とぬる湯, 女湯, チョット温泉, 女子旅, 露天, 伊東温泉, 風呂, 湯
+
+howmany entities : 45
+howmany clusters : 5
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 4
+deleted 1entities.

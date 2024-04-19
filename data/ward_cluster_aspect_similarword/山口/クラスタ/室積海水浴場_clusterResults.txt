@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:室積海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+室積海岸, 室積海水浴場
+cluster1:(9)
+海水浴, 砂浜, 瀬戸内, 海水, 波, 海岸, 海水浴場, 泳ぎ, 海
+cluster2:(2)
+期間, 冬期間
+cluster3:(2)
+冬, 夏場
+cluster4:(4)
+側, 地元, 間, 人
+cluster5:(4)
+場所, 場合, 日, 写真
+cluster6:(1)
+天気
+cluster7:(1)
+山陽
+cluster8:(5)
+夕日狙い, だるま夕日, 夕日オタク, 夕日, 水平線
+cluster9:(1)
+写真愛好家達
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,39 @@
+--------------------similar_words:天竜浜名湖鉄道--------------------
+top3 entities near to cluster0>>
+乗車券, 引換券, 乗車, 引換
+top3 entities near to cluster2>>
+風景, 名物, 景色
+top3 entities near to cluster3>>
+有形, 無形, 文化財
+top3 entities near to cluster4>>
+時間, 電車
+top3 entities near to cluster5>>
+駅舎, 単線, 跨線橋
+top3 entities near to cluster6>>
+沿線, 新駅, 国鉄
+top3 entities near to cluster7>>
+南口, 北口, 駅前
+top3 entities near to cluster9>>
+構内, 本社, 売店
+top3 entities near to cluster10>>
+駅, 改札, 構内
+top3 entities near to cluster11>>
+電車, 車内, 列車
+top3 entities near to cluster15>>
+列車, 急行, 特急
+top3 entities near to cluster16>>
+車両, 車輌, 車輛
+top3 entities near to cluster17>>
+予定, 祝, 出来
+top3 entities near to cluster18>>
+見学, 下車, 視察
+top3 entities near to cluster20>>
+景色, 絶景, 景観
+top3 entities near to cluster21>>
+撮影, 写真, 撮っ
+top3 entities near to cluster22>>
+路線, 鉄道, 駅
+top3 entities near to cluster23>>
+鉄道, 私鉄, ローカル線
+top3 entities near to cluster27>>
+浜線, 天線, 浜, 天

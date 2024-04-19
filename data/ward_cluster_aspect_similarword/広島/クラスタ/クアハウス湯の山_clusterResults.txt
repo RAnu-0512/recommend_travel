@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クアハウス湯の山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国民保養温泉地, 国民保健温泉地
+cluster1:(2)
+バーデゾーン, 浮き輪
+cluster2:(2)
+家族連れ, 孫たち
+cluster3:(3)
+子供, 大人, 家族
+cluster4:(3)
+プール, ゾーン, プールゾーン
+cluster5:(4)
+滑り台, ウォータースライダー, 湯の山温泉, アイスクリーム
+cluster6:(1)
+水着
+cluster7:(6)
+天候, 仲, 方, 気, 時間, 場所
+cluster8:(5)
+温泉プール, 室内, 温泉, 風呂, 室内プール
+cluster9:(3)
+温水, 温水プール, 泉質
+
+howmany entities : 31
+howmany clusters : 10
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 10
+deleted 0entities.

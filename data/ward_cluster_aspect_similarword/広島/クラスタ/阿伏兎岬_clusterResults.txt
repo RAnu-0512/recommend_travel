@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿伏兎岬>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+阿伏兎観音堂, 阿伏兎岬, 阿伏岬
+cluster1:(3)
+利益, 都合, 日程
+cluster2:(2)
+あり下, 上
+cluster3:(9)
+断崖絶壁, 観音寺, ところ, スポット, 瀬戸内海, グリーンライン, 海沿い, 観音堂, スリル
+cluster4:(3)
+クルージング途中, 時間, 場所
+cluster5:(6)
+子, 方, 気, 人, ほか, 他
+cluster6:(1)
+足
+cluster7:(1)
+終点
+cluster8:(1)
+猛暑
+cluster9:(15)
+水面, 乳, 眺め, 先端, 崖, 石碑, 建物, 岬, 突端, 船, 絵馬, 海, 景色, 景観, 階段
+cluster10:(8)
+駐車場, 航海安全, 全体像, おっぱい神社, 寺院, おっぱい寺, 神社, 海岸線
+cluster11:(3)
+観光客, 観光地, 入館料
+cluster12:(8)
+坂本龍馬, 瀬戸, 鞆, 尾道, 浦, 浦グリーンライン, 村上水軍, 藤原
+cluster13:(2)
+安産祈願, 安産
+cluster14:(4)
+崖観音, 観音寺院, 観音, 観音様
+
+howmany entities : 69
+howmany clusters : 15
+howmany entities (more than1entities) : 69
+howmany clusters (more than1entities) : 15
+deleted 0entities.

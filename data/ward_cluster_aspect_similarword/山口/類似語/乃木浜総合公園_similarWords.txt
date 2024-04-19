@@ -1,0 +1,21 @@
+--------------------similar_words:乃木浜総合公園--------------------
+top3 entities near to cluster0>>
+公園, 遊歩道, 緑地
+top3 entities near to cluster1>>
+子供, テニス, コート
+top3 entities near to cluster2>>
+管理, 運営, 一元
+top3 entities near to cluster3>>
+掃除, 拭き掃除, 清掃
+top3 entities near to cluster4>>
+遊具, 滑り台, ジャングルジム
+top3 entities near to cluster5>>
+野鳥, バードウォッチャー, 鳥
+top3 entities near to cluster6>>
+常, 圧残, 圧相
+top3 entities near to cluster7>>
+家族連れ, 家族, つれ
+top3 entities near to cluster8>>
+愛好家, 愛好, 評論家, 評論
+top3 entities near to cluster9>>
+駐車場, 駐車, 場裏

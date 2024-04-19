@@ -1,0 +1,23 @@
+--------------------similar_words:Kimono Style Cafe--------------------
+top3 entities near to cluster1>>
+撮影, 写真, 撮っ
+top3 entities near to cluster2>>
+ケーキ, カフェ, 着付け
+top3 entities near to cluster3>>
+天気雨, お天気雨, 天気, お天気
+top3 entities near to cluster4>>
+小物
+top3 entities near to cluster5>>
+町店, 駅店, 町, 駅
+top3 entities near to cluster6>>
+夫婦, 友人, 女性
+top3 entities near to cluster9>>
+疲れる, ヘトヘト
+top3 entities near to cluster10>>
+会話, やり取り, やりとり
+top3 entities near to cluster11>>
+料金, 追加, 別途
+top3 entities near to cluster12>>
+歩き, 食べ, 歩く
+top3 entities near to cluster13>>
+着付, 着物, 着付け

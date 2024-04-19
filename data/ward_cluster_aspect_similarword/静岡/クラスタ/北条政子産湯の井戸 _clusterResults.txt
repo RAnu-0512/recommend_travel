@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北条政子産湯の井戸 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+政子産湯の井戸, 北条政子産湯
+cluster1:(2)
+産湯, 安産
+cluster2:(2)
+政子, 北条
+cluster3:(4)
+光照寺, ポイント, 写真, 井戸水
+cluster4:(3)
+東側, 近く, 西
+cluster5:(1)
+道
+cluster6:(2)
+井戸, 石垣
+cluster7:(1)
+利益
+cluster8:(1)
+真偽
+cluster9:(1)
+説明板
+cluster10:(5)
+住宅地, 住宅, 閑静, 史跡巡り, 住宅街
+
+howmany entities : 24
+howmany clusters : 11
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 12entities.

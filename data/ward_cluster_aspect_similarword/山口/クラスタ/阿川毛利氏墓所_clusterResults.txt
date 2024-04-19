@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿川毛利氏墓所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+側室, 正室
+cluster1:(1)
+墓
+cluster2:(2)
+阿川毛利家, 毛利家
+cluster3:(1)
+阿川毛利氏墓所
+
+howmany entities : 6
+howmany clusters : 4
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 4
+deleted 0entities.

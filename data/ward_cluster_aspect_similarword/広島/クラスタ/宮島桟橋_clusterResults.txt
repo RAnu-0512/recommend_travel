@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮島桟橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+フェリー, 案内ポスター, 乗船ターミナル, 移動時間, 行先, 方, 帰り, 乗船, 乗車券, 乗り場, 車, 船, 鹿, 予定, 時間, 桟橋, 警察官, 対岸, 宮島口, 参詣
+cluster1:(6)
+呉行, 宮島, 宇品, 厳島神社, 呉, 宮島桟橋
+cluster2:(2)
+直行高速船, 松大汽船
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 3
+deleted 0entities.

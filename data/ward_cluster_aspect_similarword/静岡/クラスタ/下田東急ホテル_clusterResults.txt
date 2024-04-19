@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下田東急ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+自然, 鳥, 海
+cluster1:(8)
+最後, さえずり, シチュエーション, ホテル, 最高, 中, 方, 眺め
+cluster2:(1)
+配布
+cluster3:(1)
+ヨガ
+cluster4:(1)
+時間帯
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 3entities.

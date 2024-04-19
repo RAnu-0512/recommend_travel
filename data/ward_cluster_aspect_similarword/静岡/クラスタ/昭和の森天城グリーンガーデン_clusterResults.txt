@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:昭和の森天城グリーンガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+石楠花, 場所, シャクナゲ, 花, グリーンガーデン, 遊歩道, 天城, 山, 道
+cluster1:(3)
+開園時期, 満開, 咲く時期
+cluster2:(1)
+駅天城越え
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 1entities.

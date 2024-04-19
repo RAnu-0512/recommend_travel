@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法真寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+樋口一葉, 樋口一葉ゆかり, 一葉
+cluster1:(5)
+文京区, 幼少期, 赤門, 桜木の宿, 東大赤門
+cluster2:(2)
+本郷, 東大キャンパス
+cluster3:(2)
+国道, 道
+cluster4:(11)
+ガラス, ゆかり, 場所, 東京大学, 関東大震災, 浄土宗, 感じ, 近く, 歴史, こと, 外観
+cluster5:(4)
+正面, 左, 東, 南
+cluster6:(1)
+ガラス戸
+cluster7:(9)
+堂, 御本尊, 本堂, 浄土宗寺院, 寺院, 寺, 法真寺, 参道, 境内
+cluster8:(1)
+徳田秋声旧居跡
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 9
+deleted 0entities.

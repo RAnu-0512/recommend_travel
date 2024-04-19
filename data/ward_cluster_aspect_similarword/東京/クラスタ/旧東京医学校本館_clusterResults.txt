@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧東京医学校本館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小石川植物園, 小石川植物園裏門, 植物園
+cluster1:(16)
+関東大震災, 価値, 文化財, テイスト, 発祥, 奥, 趣, 火, 北西, ほう, 博物館, 中, 桜, 明治, 満開, 東大
+cluster2:(10)
+洋館, 景色, 建物, 入場, 分館, 焼失, 休憩, 本館, 外観, 展示
+cluster3:(5)
+洋風建築, 学校建築, 建築関係, 東京医学校, 日本医学
+
+howmany entities : 34
+howmany clusters : 4
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:川真珠貝広場--------------------
+top3 entities near to cluster0>>
+子供, 子ども, 大人
+top3 entities near to cluster1>>
+緑, 緑色, 黄色
+top3 entities near to cluster2>>
+生物, 生態, 生き物
+top3 entities near to cluster4>>
+川, 広場, 河畔
+top3 entities near to cluster5>>
+汚染, 環境, 水質

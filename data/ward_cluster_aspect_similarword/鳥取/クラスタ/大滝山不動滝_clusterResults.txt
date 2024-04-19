@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大滝山不動滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+不動滝, 滝, 落差, 水量
+cluster1:(7)
+様子, 多く, 左手, ほう, 近く, 周囲, 方向
+cluster2:(3)
+道標, 道, 国道
+cluster3:(3)
+倉吉市, 関金温泉, 鳥取県
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

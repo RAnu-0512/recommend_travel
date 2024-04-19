@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧久保田家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+萩市指定有形文化財, 有形文化財, 萩市文化財施設1日券
+cluster1:(28)
+土間, こだわり, 久保田, 住宅, 部屋, 参勤交代, 菊谷, 庭, 建築, 文化財, 屋敷, 絵, 透かし欄干, 道, 家, 立ち, 国, 酒屋, 主人, 城下町, 明治, 天井, 門, 後期, 風情, 写真, ガイド, 建物
+cluster2:(6)
+町歩き, 文化財施設, 高さ, 主屋, 対象施設, 中心部
+cluster3:(1)
+入場協力金
+cluster4:(10)
+萩市, 御成道, 萩城下町, 呉服商, 江戸時代後期, 菊屋家, 菊屋家住宅, 酒造業, 網代天井, 大名行列
+
+howmany entities : 48
+howmany clusters : 5
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 5
+deleted 0entities.

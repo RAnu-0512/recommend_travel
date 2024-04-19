@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関駅観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観光案内所, 案内所, 観光情報, 観光
+cluster1:(2)
+関門TOPPA!, 関門トンネル人道
+cluster2:(2)
+下関駅, 下関
+cluster3:(3)
+駅構内, 駅, 構内
+cluster4:(2)
+記念証, 記念スタンプ
+cluster5:(4)
+側, 左側, 入口, 近く
+cluster6:(4)
+パスポート, スタッフ, 情報, パンフレット
+cluster7:(1)
+JR
+cluster8:(1)
+EVホール
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

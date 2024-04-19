@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜松駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遠州バス, 遠鉄百貨店
+cluster1:(5)
+浜松城, 浜松, 浜松餃子, 浜松駅, 浜松エアパーク
+cluster2:(2)
+お土産屋, 餃子屋
+cluster3:(2)
+高層ビル, 駅ビル
+cluster4:(12)
+アクセス, タクシー, 遠州鉄道, こと, 写真, 人, 店, バスターミナル, 時間, 行き先, 乗り継ぎ, 施設
+cluster5:(5)
+周辺, 駅, 近く, 到着, 方面
+cluster6:(6)
+電車, バス, 駅弁, バス乗り場, JR, 東海道線
+cluster7:(1)
+改札口
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 7entities.

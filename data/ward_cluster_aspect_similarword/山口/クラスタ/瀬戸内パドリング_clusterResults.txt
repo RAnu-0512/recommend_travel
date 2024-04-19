@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸内パドリング>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+楽しさ, 素晴らしさ, 美しさ
+cluster1:(2)
+乗り方, 漕ぎ方
+cluster2:(2)
+朝晩, 昼間
+cluster3:(3)
+景色, 気候, 海
+cluster4:(3)
+子供, 旅行, 家族
+cluster5:(2)
+運動, 練習
+cluster6:(9)
+中, もの, シーカヤック, SUP, 夏休み, 瀬戸内海, 感じ, ペース, コンディション
+cluster7:(2)
+最終日, 経験者
+cluster8:(1)
+周防大島
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 9
+deleted 0entities.

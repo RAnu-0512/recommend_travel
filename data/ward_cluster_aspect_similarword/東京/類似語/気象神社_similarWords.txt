@@ -1,0 +1,15 @@
+--------------------similar_words:気象神社--------------------
+top3 entities near to cluster0>>
+気象, 神社, 境内
+top3 entities near to cluster1>>
+境内, 天気
+top3 entities near to cluster2>>
+絵馬, 神社, 銅像
+top3 entities near to cluster3>>
+構内, 駅, 駅前
+top3 entities near to cluster4>>
+案内板, 案内, 倒連
+top3 entities near to cluster5>>
+参拝, 参詣, お参り
+top3 entities near to cluster6>>
+陸軍, 帝国, 海軍

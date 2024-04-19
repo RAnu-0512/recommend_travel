@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陣屋跡(東京都八丈島八丈町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+石垣, 玉石垣, 玉石
+cluster1:(9)
+人, ガイド, 見ごたえ, 昔, 作り方, 説明, 地区, 美しさ, 全て
+cluster2:(1)
+団体バスツアー
+cluster3:(1)
+陣屋跡
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

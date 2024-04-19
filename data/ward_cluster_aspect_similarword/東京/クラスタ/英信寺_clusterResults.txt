@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:英信寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+英信寺の三面大黒天, 英信寺
+cluster1:(6)
+下谷七福神, 下谷七福神巡り, 入谷駅, 住宅街, 台東区, 下谷
+cluster2:(7)
+本堂, 浄土宗寺院, 七福神巡り, 寺院, 寺, 寺院巡り, 小さなお寺
+cluster3:(15)
+弁財天, ホテル, 大黒, 蔵前, ひとつ, 毘沙門堂, 毘沙門天, 浅草橋, 大黒天, 家族, 三面大黒天, 顔, 最強パワー, 欲, 健康
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急百貨店町田店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+小田急町田店, 小田急百貨店町田, 町田駅, 小田急町田駅
+cluster1:(19)
+小田急本店, 店, ホーム直結, JR, 小田急百貨店, 小田急, 札, 客, 直結, 駅, 改札, 電車賃, 地下, 町田, 小田急線, 新宿, レストラン街, 東急百貨店, 駅ビル
+cluster2:(20)
+エスカレーター, 百貨店, 完売, 目当て, 人, アクセス, 名, ブランド, マーク, ホーム, 売り場, 上, 買い物, デパート, 時間, 中, 小田急電鉄, 友人, フロア, リニューアル
+cluster3:(2)
+目線, 態度
+cluster4:(6)
+もの, 気, 目的, 印象, 方, 疑問
+cluster5:(1)
+早口
+cluster6:(1)
+くるみっ子
+cluster7:(4)
+利用者, 食料品, 再開発, 販売員
+
+howmany entities : 57
+howmany clusters : 8
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 8
+deleted 0entities.

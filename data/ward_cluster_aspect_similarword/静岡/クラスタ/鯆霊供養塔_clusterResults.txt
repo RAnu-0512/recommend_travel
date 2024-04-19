@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鯆霊供養塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イルカ, チェックイン
+cluster1:(2)
+場所, 辺り
+cluster2:(1)
+時間
+cluster3:(1)
+頭
+cluster4:(1)
+習慣
+cluster5:(1)
+観光
+cluster6:(1)
+供養塔
+cluster7:(1)
+稲取温泉
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

@@ -1,0 +1,31 @@
+--------------------similar_words:舘山寺サゴーロイヤルホテル--------------------
+top3 entities near to cluster1>>
+サラダ, バーベキュー, シーフード
+top3 entities near to cluster2>>
+ホテル, レストラン, サービス
+top3 entities near to cluster3>>
+日帰り, 泊まり, 手ぶら
+top3 entities near to cluster4>>
+ホテル, 乗り場, 最上階
+top3 entities near to cluster12>>
+内容量, 金額, 内容
+top3 entities near to cluster14>>
+平日, 昼間, 昼
+top3 entities near to cluster15>>
+ご飯, 御飯, ごはん
+top3 entities near to cluster16>>
+景色, 絶景, 屋上
+top3 entities near to cluster17>>
+宿泊, 食事, 施設
+top3 entities near to cluster18>>
+身体, 家族
+top3 entities near to cluster21>>
+時間, 会場, 部屋
+top3 entities near to cluster22>>
+肉, 野菜, エビ
+top3 entities near to cluster24>>
+海鮮, 魚介, 焼肉
+top3 entities near to cluster25>>
+遊覧船, 遊覧, 観覧船, 観覧
+top3 entities near to cluster26>>
+温泉, 風呂, 露天風呂

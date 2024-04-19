@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土肥白ビワ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+土肥, 白ビワ, 国道, 東名, 小さめ, 次, ビワ, 道路脇, 時期
+cluster1:(2)
+伊豆縦貫道, 長泉沼津IC
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

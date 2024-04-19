@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:済広寺のカヤ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+世界, スポット, 樹齢, みちびきばし, 体験, パワースポット, 境内, ビルマ, パワー
+cluster1:(6)
+かやの大樹, かやの寺, 伊豆急伊豆稲取駅, 佛鐘, 不動消災の道, 占い摩尼車
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,33 @@
+--------------------similar_words:都立東大和南公園--------------------
+top3 entities near to cluster0>>
+変電, 所内, 発電
+top3 entities near to cluster3>>
+航空機, 戦時, 陸上
+top3 entities near to cluster4>>
+岩石, 小石, 岩
+top3 entities near to cluster5>>
+駅前, 駅, 南口
+top3 entities near to cluster6>>
+木, 桜, 土
+top3 entities near to cluster7>>
+公園, 園内
+top3 entities near to cluster8>>
+体育館, トイレ, 交差点
+top3 entities near to cluster9>>
+夏休み, 子ども, 子供
+top3 entities near to cluster10>>
+水遊び, プール, 川遊び
+top3 entities near to cluster11>>
+ボール, マイボール, フリスビー
+top3 entities near to cluster12>>
+子供, 子ども, 子
+top3 entities near to cluster13>>
+正面, 真正面
+top3 entities near to cluster14>>
+方法, 記憶, 手段
+top3 entities near to cluster15>>
+多数, 大半, 一部
+top3 entities near to cluster16>>
+出入り口, 通路, 入り口
+top3 entities near to cluster17>>
+運動場, 駐車場, 運動, 駐車

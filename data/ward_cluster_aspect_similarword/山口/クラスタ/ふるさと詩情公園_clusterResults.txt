@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふるさと詩情公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+祭り, 満開, 公園, 桜
+cluster1:(2)
+童謡, 歌碑
+cluster2:(1)
+詩情公園
+cluster3:(1)
+布施町
+cluster4:(1)
+懐かしき童謡・唱歌
+cluster5:(1)
+山口県田
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

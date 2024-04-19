@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千本浜海水浴場【2022年開設中止】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+富士市, 千本浜, 沼津港
+cluster1:(30)
+雨, 松, 海水浴場, 手荷物, 日光浴, 多く, ホテル, 防犯カメラ, 砂利, 海岸, 海水浴, 大人, 景観, 人, 水シャワー, 旅館, 散策, 富士山, 海水浴シーズン, 松原, 景色, 海, 砂浜, 近く, 貴重品, 場所, 石, 家等, 風, 木
+cluster2:(1)
+新型コロナウイルス感染対策
+cluster3:(1)
+沼津滞在期間中ほぼ毎日千本浜〜海水浴場
+
+howmany entities : 35
+howmany clusters : 4
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 2
+deleted 2entities.

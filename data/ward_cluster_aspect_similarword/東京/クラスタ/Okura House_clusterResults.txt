@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Okura House>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+中, ブティック, 店, アフタヌーンティ, ハウス, グランド, bills, ビル
+cluster1:(4)
+銀座駅, カルティエ銀座, 有楽町駅, 銀座
+cluster2:(1)
+高級感
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

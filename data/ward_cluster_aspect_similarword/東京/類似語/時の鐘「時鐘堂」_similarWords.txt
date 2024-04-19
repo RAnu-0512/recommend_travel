@@ -1,0 +1,19 @@
+--------------------similar_words:時の鐘「時鐘堂」--------------------
+top3 entities near to cluster1>>
+鐘, 時, 撞堂
+top3 entities near to cluster2>>
+芭蕉, 俳聖, 曽良
+top3 entities near to cluster4>>
+鐘音, 鐘, 音色
+top3 entities near to cluster5>>
+人々, 昔, 時代
+top3 entities near to cluster7>>
+時間, 夕方, 午前
+top3 entities near to cluster8>>
+現役, 引退, 第一線
+top3 entities near to cluster9>>
+機会, チャンス, 好機
+top3 entities near to cluster10>>
+公園, 裏手, 敷地
+top3 entities near to cluster11>>
+駐車場, 駐車, 場裏

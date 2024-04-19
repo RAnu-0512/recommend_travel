@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:扇浦>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+休憩所, 場所, 対岸, 駐車場, 人, 休憩スペース, 形, 海岸, トイレ, 夕日, 車, 海, 道路, バス, 大村, 繁華街, 浜辺
+cluster1:(3)
+父島南部, 二見港, 村営バス
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

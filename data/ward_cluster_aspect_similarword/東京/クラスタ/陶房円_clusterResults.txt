@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶房円>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+湯呑み, マンツーマン, アドバイス, 母, マグカップ
+cluster1:(2)
+こと, 形
+cluster2:(1)
+夢
+cluster3:(1)
+療養
+cluster4:(4)
+陶芸, 体験, 陶芸体験, 陶器造り
+cluster5:(1)
+微調整
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

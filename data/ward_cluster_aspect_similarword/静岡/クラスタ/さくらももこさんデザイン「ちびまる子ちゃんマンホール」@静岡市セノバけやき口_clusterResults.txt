@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さくらももこさんデザイン「ちびまる子ちゃんマンホール」@静岡市セノバけやき口>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+人, 静岡鉄道, 出会い, JR, 途中, 写真
+cluster1:(2)
+新静岡駅, 静岡駅
+cluster2:(2)
+静岡, 静岡市
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 4entities.

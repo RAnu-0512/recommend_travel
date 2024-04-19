@@ -1,0 +1,13 @@
+--------------------similar_words:冨士霊園--------------------
+top3 entities near to cluster0>>
+霊園, 墓地
+top3 entities near to cluster5>>
+トイレ, 事務所, レストラン
+top3 entities near to cluster8>>
+近辺
+top3 entities near to cluster9>>
+公園, 庭, 道路
+top3 entities near to cluster10>>
+季節, 名所, 天気
+top3 entities near to cluster11>>
+桜, 満開, 八重桜

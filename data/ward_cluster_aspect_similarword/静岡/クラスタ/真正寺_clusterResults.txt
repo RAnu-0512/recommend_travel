@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真正寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+雰囲気, 感じ, 方々, 地元
+cluster1:(3)
+矢熊, 西伊豆, 寺
+cluster2:(2)
+伊豆市, 天城方面
+cluster3:(1)
+伊豆天城七福神のうちの恵比須
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 3entities.

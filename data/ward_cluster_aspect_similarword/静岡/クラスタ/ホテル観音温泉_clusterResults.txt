@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテル観音温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊豆一, 伊豆
+cluster1:(10)
+商売っけ, 誠実さ, 方, 気, 良さ, 事, 感じ, 前回気, こと, 機会
+cluster2:(6)
+詫び, 連絡, 対応, 予約, 訪問, ネット予約
+cluster3:(4)
+髪, 景観, 飲料, 肌
+cluster4:(2)
+手洗い, 日帰り
+cluster5:(3)
+スベスベ, ヌルヌル, トロトロ
+cluster6:(2)
+露天風呂, ジャグジー
+cluster7:(3)
+スタッフ, チェックイン, おもてなし
+cluster8:(2)
+アルカリ, カミソリ
+cluster9:(2)
+コスパ, 口コミ
+cluster10:(15)
+時間, 駅, 奥, 中, 部屋, 食事, 話, 場所, GW, 外, 女性, 男用, 半露天風呂, 山, 道
+cluster11:(1)
+NO1
+cluster12:(17)
+宿泊, 送迎バス, 宿泊者, 名湯, 旅館, 従業員, 日帰り入浴, 風呂, 駐車場, 宿, お湯, 浴室, 脱衣所, 浴場, 繁忙期, 部屋風呂, 湯
+cluster13:(4)
+観音, 観音温泉, 観音コスメ, 観音温泉水
+cluster14:(2)
+日帰り温泉館, 日帰り専用温泉
+cluster15:(3)
+温泉, 日帰り温泉, 温泉水
+cluster16:(2)
+温泉湯, 温泉宿
+cluster17:(3)
+化粧水, 飲温泉水, 泉質
+
+howmany entities : 83
+howmany clusters : 18
+howmany entities (more than3entities) : 68
+howmany clusters (more than3entities) : 10
+deleted 15entities.

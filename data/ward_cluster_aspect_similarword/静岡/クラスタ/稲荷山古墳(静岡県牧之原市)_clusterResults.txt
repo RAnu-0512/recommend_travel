@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲荷山古墳(静岡県牧之原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+稲荷山古墳, 古墳, 円墳
+cluster1:(2)
+社, お社
+cluster2:(3)
+歴史, 影響, 価値
+cluster3:(2)
+看板, 入口
+cluster4:(4)
+人, ソーラーパネル, 地方, 場所
+cluster5:(1)
+墓
+cluster6:(1)
+小道
+cluster7:(1)
+豪族
+cluster8:(1)
+自然災害
+cluster9:(1)
+悪路
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 9entities.

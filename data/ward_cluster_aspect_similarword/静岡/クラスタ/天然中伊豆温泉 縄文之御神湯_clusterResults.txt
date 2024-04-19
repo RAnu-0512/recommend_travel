@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天然中伊豆温泉 縄文之御神湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+水着, 洋服, 肌
+cluster1:(2)
+鍵, 棚
+cluster2:(9)
+露天, 洗い場, 露天風呂, 温泉, サウナ, 風呂, ロッカー, 水風呂, サウナマット
+cluster3:(1)
+内湯
+cluster4:(2)
+無色透明, 貴重品ロッカー
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 5entities.

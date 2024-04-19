@@ -1,0 +1,85 @@
+--------------------similar_words:GINZA SIX--------------------
+top3 entities near to cluster0>>
+雰囲気, テイスト, 街並み
+top3 entities near to cluster1>>
+入り口, 目当て, 端っこ
+top3 entities near to cluster3>>
+ブティック, ストリート, ギャラリー
+top3 entities near to cluster4>>
+エレベーター, エスカレーター, エレベータ
+top3 entities near to cluster5>>
+グランカフェ, スカイツリー, スカイツリーソラマチ
+top3 entities near to cluster6>>
+コスメカウンター, ギンザシックス, イヴ・サンローラン
+top3 entities near to cluster7>>
+ファッション, スタイリッシュ, ファッショナブル
+top3 entities near to cluster8>>
+ショッピングビル, スイーツショップ, ショッピングモール
+top3 entities near to cluster9>>
+ショッピング, ショッピングモールショッピング, モール
+top3 entities near to cluster10>>
+ディスプレイ, ディスプレー, ディズプレイ
+top3 entities near to cluster11>>
+レストラン, テイクアウト, ミュージカル
+top3 entities near to cluster13>>
+オシャレ, デザイン, おしゃれ
+top3 entities near to cluster14>>
+エノテカ, ワインショップ・エノテカ, ワインショップソムリエ
+top3 entities near to cluster15>>
+ディオール, シャネル, フェラガモ
+top3 entities near to cluster16>>
+ショッピング, 百貨店, ウインドウ
+top3 entities near to cluster17>>
+ワイン, 赤ワイン, スパークリングワイン
+top3 entities near to cluster18>>
+ブランド, アパレル, ファッション
+top3 entities near to cluster19>>
+ショップ, ブランド, セレクト
+top3 entities near to cluster20>>
+ティー, バックス, スター
+top3 entities near to cluster21>>
+アート, スペース, クラフト
+top3 entities near to cluster22>>
+オープン, テラス, グランド
+top3 entities near to cluster23>>
+ソファ, ベンチ, ソファー
+top3 entities near to cluster24>>
+スタバ, ランチ, カフェ
+top3 entities near to cluster25>>
+デザート, ケーキ, パフェ
+top3 entities near to cluster26>>
+イス, 椅子, ジル
+top3 entities near to cluster28>>
+フロア, グルメ, レストラン
+top3 entities near to cluster30>>
+駅前, 三越
+top3 entities near to cluster33>>
+休憩, 併設, 混雑
+top3 entities near to cluster34>>
+人柄, 愛想, 表情
+top3 entities near to cluster35>>
+人気, 注目, 大人気
+top3 entities near to cluster37>>
+本, 冊, 本数
+top3 entities near to cluster38>>
+言葉, 友達
+top3 entities near to cluster39>>
+中心, 周り, 大半
+top3 entities near to cluster42>>
+指手, なり手, 指
+top3 entities near to cluster43>>
+時間, 夕方, 午前
+top3 entities near to cluster45>>
+敷居, ハードル, 跨げる
+top3 entities near to cluster47>>
+飲食店, 建物, 飲食
+top3 entities near to cluster48>>
+化粧品, 品等, 化粧
+top3 entities near to cluster49>>
+高級感, 開放感, 高級, 開放
+top3 entities near to cluster50>>
+高級店, 高級, 有名ブランド
+top3 entities near to cluster51>>
+高級品, 高級, 品等
+top3 entities near to cluster52>>
+施設, 商業, 飲食

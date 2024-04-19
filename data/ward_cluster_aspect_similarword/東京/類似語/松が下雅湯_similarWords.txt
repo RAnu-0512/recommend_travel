@@ -1,0 +1,15 @@
+--------------------similar_words:松が下雅湯--------------------
+top3 entities near to cluster0>>
+電灯, 懐中, 明かり
+top3 entities near to cluster1>>
+横, 真横, 縦
+top3 entities near to cluster2>>
+水着, 海, ビキニ
+top3 entities near to cluster3>>
+湯船, 最高, 露天風呂
+top3 entities near to cluster4>>
+更衣室, 更衣, 医務室, 医務
+top3 entities near to cluster5>>
+流し, かけ
+top3 entities near to cluster6>>
+泉質, 泉, 併設

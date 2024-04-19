@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:橋津の藩倉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+橋津大橋, 橋津港, 橋津, 橋津川
+cluster1:(2)
+橋津地区公民館, 橋津入口交差点
+cluster2:(3)
+ハワイ風土記館, 御蔵, 片山蔵
+cluster3:(10)
+米, 建物, 右手, 前, 鳥取, 時代, もの, 途中, 国道, 規模
+cluster4:(2)
+年貢, 藩政
+cluster5:(1)
+海運拠点
+cluster6:(5)
+橋津の藩倉, 藩倉, 鳥取藩, 藩蔵, 古御蔵・三十
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

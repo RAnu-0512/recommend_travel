@@ -1,0 +1,35 @@
+--------------------similar_words:国立科学博物館附属自然教育園--------------------
+top3 entities near to cluster0>>
+国立, 科学, 博物館
+top3 entities near to cluster1>>
+植物園, 動物園, 植物, 動物
+top3 entities near to cluster3>>
+入場, 入園, 入館
+top3 entities near to cluster5>>
+あちこち, 遊歩道, 街なか
+top3 entities near to cluster6>>
+隣家, 叔父, 隣
+top3 entities near to cluster7>>
+人間, 人達
+top3 entities near to cluster8>>
+家族, 子供, 子ども
+top3 entities near to cluster9>>
+時代, 学生, 大学生
+top3 entities near to cluster11>>
+名所, 季節, 時季
+top3 entities near to cluster12>>
+郊外, 都市, 都会
+top3 entities near to cluster13>>
+庭園, 中庭, 美術館
+top3 entities near to cluster14>>
+国立, 紙幣
+top3 entities near to cluster15>>
+敷地, 施設, 建物
+top3 entities near to cluster16>>
+園内, 公園, 遊歩道
+top3 entities near to cluster17>>
+駅, 駅前, 徒歩
+top3 entities near to cluster18>>
+散策, 散歩, 撮影
+top3 entities near to cluster19>>
+木々, 森, 林

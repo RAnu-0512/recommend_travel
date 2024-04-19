@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木谷沢渓流>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木谷沢渓流, 木谷沢
+cluster1:(2)
+緑, 苔
+cluster2:(2)
+沢, 岩
+cluster3:(2)
+靴, 足
+cluster4:(5)
+看板, 建物, 車, CM, 写真
+cluster5:(11)
+水, 奥, 入り口, ミスト, ロックフェス, 玉造温泉, 気持ち, 近く, いくつか, 夏場, スポット
+cluster6:(1)
+徒歩
+cluster7:(1)
+曇り
+cluster8:(10)
+大山, 途中大山, 道路沿い, ブナ林, 渓流沿い, ブナ, 大山スキー場, 駐車場, 砂防ダム, 渓流
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 9
+deleted 0entities.

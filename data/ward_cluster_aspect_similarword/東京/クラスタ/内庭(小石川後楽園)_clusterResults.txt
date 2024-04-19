@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:内庭(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+場所, 感じ, こと, 雰囲気
+cluster1:(2)
+風景, 風情
+cluster2:(6)
+周囲, 中心, 人, 西側, 工事, 方面
+cluster3:(12)
+木々, 池, 中島, 書院, 葉, 小石川後楽園, 蓮, 紅葉, 内庭, 庭園, 睡蓮, 庭
+cluster4:(5)
+水戸藩, 東門(水道橋駅, 大泉水周囲, 唐門, 大泉水
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 5
+deleted 0entities.

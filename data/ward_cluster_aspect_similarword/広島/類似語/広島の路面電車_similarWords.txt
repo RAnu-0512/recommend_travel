@@ -1,0 +1,137 @@
+--------------------similar_words:広島の路面電車--------------------
+top3 entities near to cluster0>>
+乗り継ぎ, タクシー, 乗り換え
+top3 entities near to cluster2>>
+カーブ, レーン, ホーム
+top3 entities near to cluster3>>
+エラー, バリア, エラーメッセージ
+top3 entities near to cluster4>>
+むさし, むすび, おだ
+top3 entities near to cluster5>>
+タイプ, スタイル, デザイン
+top3 entities near to cluster6>>
+平和公園, 記念碑, 献水
+top3 entities near to cluster7>>
+サンフレッチェ, サンフレッチェ広島, ビックアーチ
+top3 entities near to cluster8>>
+チャギントン, チャップリン, バリアフリー
+top3 entities near to cluster9>>
+アンガールズ, アンガールズ・, ジャンガジャンガ
+top3 entities near to cluster10>>
+レジーナ, ウェンディ, キングジコチュー
+top3 entities near to cluster11>>
+パセーラ, アルパーク, クレド・パセーラ
+top3 entities near to cluster13>>
+おぼえ, 覚え, 憶え
+top3 entities near to cluster14>>
+雰囲気, スタイル, 楽しい
+top3 entities near to cluster15>>
+選手, チームメイト, 野球
+top3 entities near to cluster18>>
+乗り場, 乗場, フェリー
+top3 entities near to cluster19>>
+街並み, 市街地, 町並み
+top3 entities near to cluster20>>
+市バス, 地下鉄, 市電
+top3 entities near to cluster21>>
+バス停, 停留所, 交差点
+top3 entities near to cluster22>>
+宿, 旅館
+top3 entities near to cluster23>>
+地図, 写真, 画像
+top3 entities near to cluster24>>
+駅名
+top3 entities near to cluster25>>
+車内, 道路, 車両
+top3 entities near to cluster26>>
+人達, 大勢
+top3 entities near to cluster28>>
+種類, 両方, 数種類
+top3 entities near to cluster29>>
+二目, 二次, 二
+top3 entities near to cluster30>>
+横, 内側, 外側
+top3 entities near to cluster33>>
+全国, 世界, 各地
+top3 entities near to cluster34>>
+東西, 南北, 古今
+top3 entities near to cluster35>>
+ＪＴ, アートホールアフィニス, サンダーズ
+top3 entities near to cluster36>>
+新型, 旧型, 大型
+top3 entities near to cluster37>>
+時間, 所要, 間隔
+top3 entities near to cluster38>>
+時間, 通勤, 停車
+top3 entities near to cluster39>>
+時間, 時間帯
+top3 entities near to cluster40>>
+光景, 風景, 風情
+top3 entities near to cluster42>>
+余裕, 多め, 急ぎ
+top3 entities near to cluster44>>
+便利, できる, でき
+top3 entities near to cluster45>>
+楽しい, 難い, 嬉しい
+top3 entities near to cluster46>>
+迷惑, 掛けん, ウザイ
+top3 entities near to cluster47>>
+繁華街, 商店街, 繁華, 商店
+top3 entities near to cluster48>>
+旅, 旅先, 出張
+top3 entities near to cluster49>>
+信号機, 信号, 両替機, 両替
+top3 entities near to cluster50>>
+利用, 使用, 導入
+top3 entities near to cluster51>>
+払い込み, 払い, 込む
+top3 entities near to cluster52>>
+下車, 行き, 向かう
+top3 entities near to cluster53>>
+乗換, 案内, 乗り換え
+top3 entities near to cluster54>>
+移動, 中心付近, 中心
+top3 entities near to cluster55>>
+時刻, 本数, 最新
+top3 entities near to cluster56>>
+乗車券, 乗船券, 乗車, 乗船
+top3 entities near to cluster58>>
+公共, 交通, 機関
+top3 entities near to cluster59>>
+交通, 機関, 事故
+top3 entities near to cluster60>>
+電子, マネー, 書籍
+top3 entities near to cluster61>>
+料金, 運賃, 金額
+top3 entities near to cluster62>>
+車両, 旧型, 車輌
+top3 entities near to cluster63>>
+車両, 車輌, 車輛
+top3 entities near to cluster64>>
+車体, 車両
+top3 entities near to cluster65>>
+運転, 乗務, 車掌
+top3 entities near to cluster66>>
+路線, バス, 市電
+top3 entities near to cluster67>>
+床, 低, 床や
+top3 entities near to cluster68>>
+電車, 乗車, 運賃
+top3 entities near to cluster69>>
+電車, 車内, 列車
+top3 entities near to cluster70>>
+電車, チンコ, チンチン
+top3 entities near to cluster71>>
+トロ調, トロ, スカ
+top3 entities near to cluster72>>
+目的地, 最終地, 目的, 最終
+top3 entities near to cluster74>>
+名所, 名所旧跡, 周遊
+top3 entities near to cluster75>>
+乗る
+top3 entities near to cluster77>>
+乗車, 降車, 乗降
+top3 entities near to cluster81>>
+駅, 駅前, 七軒茶屋
+top3 entities near to cluster83>>
+電車, 路面, 市電

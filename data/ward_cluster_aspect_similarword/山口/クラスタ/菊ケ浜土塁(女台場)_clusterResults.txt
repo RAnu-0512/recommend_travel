@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菊ケ浜土塁(女台場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+土塁, 砲塁
+cluster1:(3)
+外国船, 海防, 黒船
+cluster2:(3)
+浜, 菊, 萩
+cluster3:(2)
+手, 攻撃
+cluster4:(4)
+南側, 場所, そば, 歴史
+cluster5:(1)
+住民
+cluster6:(1)
+沖合
+cluster7:(1)
+土塀
+cluster8:(1)
+文久・元治
+
+howmany entities : 18
+howmany clusters : 9
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 9
+deleted 0entities.

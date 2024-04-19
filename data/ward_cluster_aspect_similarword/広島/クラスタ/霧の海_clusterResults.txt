@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霧の海>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+気温, 確率
+cluster1:(2)
+景観, 風景
+cluster2:(8)
+ライブカメラ, 時期, 朝方, 方, 見, 地元, エリア, 雰囲気
+cluster3:(8)
+霧, 雲海, 三次名物, 展望台, 時間帯, 雲, 海, 霧の海
+cluster4:(1)
+寒暖差
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

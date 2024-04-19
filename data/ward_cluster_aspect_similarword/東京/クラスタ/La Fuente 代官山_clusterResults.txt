@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:La Fuente 代官山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+再開発施設, 駐車場完備, 複合商業施設, 商業施設
+cluster1:(6)
+八幡通り, La Fuente 代官山, 右, 左, 正面口, 左側
+cluster2:(5)
+ベビー, 子供服, ベビー用品, ベビーグッズ, 赤ちゃんグッズ
+cluster3:(21)
+デート, テラス, バス停, カフェ, ショッピング, ベビーカー, 東急バス, 代官山, XEX, レストラン, サービス, マンション, アパレルショップ, 東京急行電鉄東横線, 中心地, ショップ, スポット, ファッション, イタリアーン, 雰囲気, ショッピングセンター
+cluster4:(4)
+店, 空間, 街, 店内
+cluster5:(2)
+鉄板, 和食
+cluster6:(4)
+建設, 壁, 窓, ビル
+cluster7:(1)
+気候
+cluster8:(10)
+場所, 人, 話, 刺激, アクセス方法, 印象, 時間, こと, 友人, 目
+cluster9:(2)
+から車, 道なり
+cluster10:(1)
+女子会
+cluster11:(14)
+祐天寺駅, 代官山駅, B1, B1F, 横断歩道, 洗足駅, 駅, 歩道, 雑貨, 信号機, 渋谷駅, 飲食店, 雑貨屋, 出産祝い
+
+howmany entities : 74
+howmany clusters : 12
+howmany entities (more than1entities) : 74
+howmany clusters (more than1entities) : 12
+deleted 0entities.

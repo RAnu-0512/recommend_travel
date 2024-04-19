@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ピーズクラブ ダイビングスタジオ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+レンタカー, ダイブショップ, ビーチダイブ
+cluster1:(2)
+オーナー, ショップ
+cluster2:(1)
+待ち時間
+cluster3:(1)
+サイト
+cluster4:(1)
+ガイド
+cluster5:(1)
+飲み物
+cluster6:(4)
+ビーチ, ボートダイビング, 八丈島, ダイブ
+cluster7:(1)
+クーラーバッグ
+cluster8:(1)
+海
+cluster9:(4)
+日程, 予約, 時間, 中
+cluster10:(5)
+店, 言葉, ほう, 傾向, こと
+cluster11:(1)
+昼休憩
+cluster12:(1)
+可能性
+
+howmany entities : 26
+howmany clusters : 13
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 13
+deleted 0entities.

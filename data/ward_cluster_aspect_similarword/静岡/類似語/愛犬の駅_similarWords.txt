@@ -1,0 +1,17 @@
+--------------------similar_words:愛犬の駅--------------------
+top3 entities near to cluster0>>
+ワンコ, 飼い主, ウンチ
+top3 entities near to cluster2>>
+ショップ, スタッフ, システム
+top3 entities near to cluster3>>
+ドッグラン, ドッグカフェ, スイーツ
+top3 entities near to cluster6>>
+雰囲気, 思い出, プラン
+top3 entities near to cluster7>>
+飲み物, 飲みもの, ドリンク
+top3 entities near to cluster8>>
+トレイ, カート, マナー
+top3 entities near to cluster9>>
+ラン, ウッド, フード
+top3 entities near to cluster11>>
+ワンコ, 愛犬

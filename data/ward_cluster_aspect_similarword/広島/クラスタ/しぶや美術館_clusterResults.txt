@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しぶや美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小林和作, 広田稔
+cluster1:(11)
+中心, 奥, 福山ゆかり, 作品, 美術館, ゆかり, こじんまり, 建築, しぶや美術館, 正面入り口, 新館
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

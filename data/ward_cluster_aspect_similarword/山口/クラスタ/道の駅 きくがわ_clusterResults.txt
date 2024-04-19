@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 きくがわ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+菊川, 菊川町
+cluster1:(2)
+長門, 下関
+cluster2:(1)
+菊川名物菊川
+cluster3:(35)
+規模, 出入り, こと, レストランコーナー, 舌触り, 農産物, 車, オススメ, 道, 国道, 途中, レストラン, 種類, 地元, イチゴ, ワッフルタイプ, 休憩, 濃霧, 買い物, 焼きそば, ドライブ, 間, チケット, 駅, 出店, 隣, 方, イチゴソフトクリーム, ソフトクリーム, メニュー, 店内, 海沿い, 自販機, コーン, 建物
+cluster4:(2)
+食事処, 食事
+cluster5:(3)
+イチゴ味, 蜂蜜, 野菜
+cluster6:(3)
+名物, 土産, 菓子
+cluster7:(1)
+素麺
+cluster8:(1)
+そうめん
+cluster9:(1)
+民家風
+cluster10:(2)
+特産品, 物産品
+cluster11:(3)
+地元産, 地元産品, 地元名産
+cluster12:(7)
+物販コーナー, 直売所, 物販ブース, 飲食店, 駐車場, 物販スペース, 土産物屋野菜
+cluster13:(1)
+チャーシューメン風のチャーシューそうめん・焼きちゃんぽん風
+
+howmany entities : 64
+howmany clusters : 14
+howmany entities (more than1entities) : 64
+howmany clusters (more than1entities) : 14
+deleted 0entities.

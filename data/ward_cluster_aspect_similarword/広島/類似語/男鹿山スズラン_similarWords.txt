@@ -1,0 +1,11 @@
+--------------------similar_words:男鹿山スズラン--------------------
+top3 entities near to cluster0>>
+自生, 群生, 生息
+top3 entities near to cluster1>>
+町, 丁目, 花
+top3 entities near to cluster2>>
+花, スズラン, すずらん
+top3 entities near to cluster4>>
+頃, ころ, 中ごろ
+top3 entities near to cluster5>>
+野生, 獸木, 野性

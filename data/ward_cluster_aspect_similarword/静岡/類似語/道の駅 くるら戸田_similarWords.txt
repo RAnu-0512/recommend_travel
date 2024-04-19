@@ -1,0 +1,17 @@
+--------------------similar_words:道の駅 くるら戸田--------------------
+top3 entities near to cluster1>>
+施設, 館内, 設備
+top3 entities near to cluster5>>
+土産屋, 丼屋, 土産, 丼
+top3 entities near to cluster7>>
+温泉, 湯, 足湯
+top3 entities near to cluster11>>
+飲食店, 飲食, レストラン
+top3 entities near to cluster12>>
+販売, 展示, 予約
+top3 entities near to cluster13>>
+軽食, 売店, 休憩
+top3 entities near to cluster14>>
+パン, ひも, 野菜
+top3 entities near to cluster15>>
+駅, 駅前, 南口

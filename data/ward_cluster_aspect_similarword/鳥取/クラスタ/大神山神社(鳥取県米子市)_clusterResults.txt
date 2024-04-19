@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大神山神社(鳥取県米子市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+散策, 訪問, 到着, 参拝
+cluster1:(18)
+時期, パワースポット, 大山寺, アジサイ, きっかけ, 紅葉狩り, 天気, 目的, 達成, 参り, 予想, 紅葉, 見応え, 下り坂, 前回, 雰囲気, 趣, 場所
+cluster2:(9)
+私達, 一部, 神, 歴史, 明治, 地元, 本社, 敷地, 人々
+cluster3:(18)
+大山, 冬宮, 尾高, 奥, 神社, 米子市, 拝殿, 国幣小社, 奥社, 神山神社奥, 境内, 本殿, 地蔵菩薩, 里宮, 神山神社, 奥宮, 神仏分離令, 大山2
+
+howmany entities : 49
+howmany clusters : 4
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 4
+deleted 0entities.

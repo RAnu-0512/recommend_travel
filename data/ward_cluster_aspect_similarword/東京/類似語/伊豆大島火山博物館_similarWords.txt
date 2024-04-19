@@ -1,0 +1,17 @@
+--------------------similar_words:伊豆大島火山博物館--------------------
+top3 entities near to cluster0>>
+展示, 出展, 展覧
+top3 entities near to cluster2>>
+上映, 映画, 封切り
+top3 entities near to cluster3>>
+博物館, コロナ, 火山
+top3 entities near to cluster4>>
+歴史, 世界史, 世界
+top3 entities near to cluster5>>
+館内, 園内, 店内
+top3 entities near to cluster6>>
+地球, 宇宙, 太陽系
+top3 entities near to cluster7>>
+料金別, 料金, 運賃
+top3 entities near to cluster8>>
+火山, 噴火, 活火山

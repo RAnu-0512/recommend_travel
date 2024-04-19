@@ -1,0 +1,29 @@
+--------------------similar_words:国立オリンピック記念青少年総合センター--------------------
+top3 entities near to cluster0>>
+研修, 会議, 講習
+top3 entities near to cluster1>>
+宿泊棟, 施設棟, 宿泊, 施設
+top3 entities near to cluster2>>
+施設, 設備, 教育
+top3 entities near to cluster3>>
+国立, 総合, 記念
+top3 entities near to cluster4>>
+カビ, 黒カビ, かび
+top3 entities near to cluster5>>
+駅, 駅線, 駅前線, 駅前
+top3 entities near to cluster6>>
+騒音, 雑音
+top3 entities near to cluster7>>
+掃除, 清掃, 交換
+top3 entities near to cluster8>>
+洗濯, 建築, 建物
+top3 entities near to cluster9>>
+部屋, 廊下, 敷地
+top3 entities near to cluster10>>
+床, 壁, 椅子
+top3 entities near to cluster11>>
+アジ, フライ, カマス
+top3 entities near to cluster12>>
+飲み放題, 飲み, 呑み
+top3 entities near to cluster13>>
+洗面台, 洗面, トイレ

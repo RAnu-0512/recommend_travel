@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井上円了の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寺族, 哲学堂, 妖怪学
+cluster1:(2)
+家系図, 家系
+cluster2:(2)
+教育者, 創設者
+cluster3:(8)
+墓, 子, 東洋大学, 寺, 父, 地, 博物館, 孫
+cluster4:(1)
+井上円了
+cluster5:(1)
+蓮華寺内のお墓ゆかり
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:帝国ホテル 東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+粗食, 五臓
+cluster1:(3)
+老舗, 定評, 一流ホテル
+cluster2:(20)
+ホテル, ビジネスホテル, カレー, スタッフ, インペリアル バイキング サール, ローストビーフ, レインボーラウンジ, 帝国ホテル, 先輩, バイキング, サービス, 銀座, ディッシュ, 日本, 普通, 日比谷公園, 方, 心配り, 雰囲気, ポテトサラダ
+cluster3:(3)
+建物, 内装, 部屋
+cluster4:(3)
+場所, 空間, 時間
+cluster5:(1)
+接客
+cluster6:(5)
+東京都, 多い会, 高校時代, 千代田区, 記念会
+cluster7:(1)
+多種多様
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 8
+deleted 0entities.

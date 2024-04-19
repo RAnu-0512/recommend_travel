@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士小山ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+季節おりおり, 戦略立てプレイ
+cluster1:(24)
+アクセス, 同僚, 初心者, こと, 曇り空, 御殿場, ラウンド, 会社, もの, コース, ゴルフ, 広葉樹, バンカー, 気持ち, 富士山, 中, 距離, ラフ, アップダウン, ゴルフコース, フェアウェイ, 辺り, 方, ティーショット
+cluster2:(5)
+紅葉, ゴルフ場, 名門コース, 御殿場駅, 雄大
+cluster3:(1)
+芝目
+cluster4:(1)
+送迎バス
+cluster5:(1)
+富士小山GC
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 2
+deleted 5entities.

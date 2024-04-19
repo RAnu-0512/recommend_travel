@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野公園(広島県庄原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+つる灯り, 朝早め
+cluster1:(9)
+誘導, 大道芸人, 訪れ, 方, 人々, 人, 多く, 人出, こと
+cluster2:(12)
+上野公園, 子供, 時期, 季節, 日本, 花, 遊歩道, ひろびろ, シーズン, 臨時, ひろい, 春
+cluster3:(2)
+北部, 南部
+cluster4:(2)
+敷地, 一帯
+cluster5:(3)
+空間, 時間, 場所
+cluster6:(14)
+水面, 桜, 花火, 天気, 木々, 出店, 気分, 散歩, 夜桜, 景色, 池, 花見, 公園, 満開
+cluster7:(4)
+さくら名所, 観光客, 花見客, 名所
+cluster8:(2)
+駐車場, 警備員
+cluster9:(3)
+広島県, 広島県北, 県北
+cluster10:(3)
+庄原市, 庄原桜まつり, 庄原上野公園
+cluster11:(3)
+上野池, 上野泊, 上野
+cluster12:(1)
+備北丘陵公園
+
+howmany entities : 60
+howmany clusters : 13
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 13
+deleted 0entities.

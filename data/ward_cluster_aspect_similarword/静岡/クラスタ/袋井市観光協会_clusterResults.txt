@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:袋井市観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+東海旅客鉄道株式会社東海道, 改札, スポット, ひとつ, 詳細, ひなかざり, 外, 方法, 業務, 本線, 方
+cluster1:(6)
+観光協会, 北口出口, 案内所, 観光案内所, 袋井駅, 袋井市観光協会
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

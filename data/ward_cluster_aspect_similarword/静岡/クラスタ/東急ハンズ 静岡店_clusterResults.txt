@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急ハンズ 静岡店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+終了, 発見
+cluster1:(2)
+看板, 人気
+cluster2:(5)
+イベント, 東急ハンズ, ディスプレイ, 親子連れ, タオル
+cluster3:(2)
+もの, 物
+cluster4:(1)
+雑貨
+cluster5:(1)
+推し商品
+cluster6:(1)
+駅ビル
+cluster7:(5)
+工作体験, 整理券, 包装, 包装紙, し紙
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 9entities.

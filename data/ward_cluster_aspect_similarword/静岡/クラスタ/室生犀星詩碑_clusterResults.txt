@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:室生犀星詩碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+人, 詩碑, 対岸, 幼稚園, 詩, 伊東, 中, 松川
+cluster1:(3)
+音無神社, 伊東聖母幼稚園, 聖母幼稚園
+cluster2:(1)
+室生犀星
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 1entities.

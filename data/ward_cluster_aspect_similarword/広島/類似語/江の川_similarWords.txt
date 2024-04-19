@@ -1,0 +1,9 @@
+--------------------similar_words:江の川--------------------
+top3 entities near to cluster1>>
+鮎釣り, アユ釣り, 鮎, アユ
+top3 entities near to cluster2>>
+鮎釣り, 川釣り, 鮎, 川
+top3 entities near to cluster4>>
+周辺, 北部, 地方
+top3 entities near to cluster6>>
+川幅, 道幅, 水かさ

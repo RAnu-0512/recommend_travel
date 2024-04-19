@@ -1,0 +1,17 @@
+--------------------similar_words:昭和の森いちょう並木--------------------
+top3 entities near to cluster0>>
+並木, 銀杏, 五瓶
+top3 entities near to cluster1>>
+散歩, 出掛け, 散策
+top3 entities near to cluster2>>
+秋, 季節, 冬
+top3 entities near to cluster3>>
+天気, 寿司, お天気
+top3 entities near to cluster4>>
+映画, 映画館, シネコン
+top3 entities near to cluster5>>
+並木道, モール, ショッピング
+top3 entities near to cluster6>>
+迫力, 見ごたえ, 見応え
+top3 entities near to cluster7>>
+間付近, 間, から

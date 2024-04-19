@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久松山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+山, 麓, 山上, 山全体, 頂上, 山麓
+cluster1:(3)
+石垣, 鳥居, 堀
+cluster2:(5)
+背後, 付近, 縄張り, 時代, 方
+cluster3:(2)
+丸, 城
+cluster4:(1)
+県庁
+cluster5:(8)
+久松公園, 鳥取県立博物館, 鳥取城, 久松山, 濠端, 鳥取, 鳥取城跡, 平山城部
+
+howmany entities : 25
+howmany clusters : 6
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 6
+deleted 0entities.

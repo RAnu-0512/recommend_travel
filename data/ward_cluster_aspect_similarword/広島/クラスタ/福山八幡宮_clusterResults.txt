@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福山八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+裏参道, 合祭殿, 両社殿, 艮神社, 参道, 参拝, 本殿, 東御宮, 西社殿, 神社, 拝殿
+cluster1:(13)
+姿, 駐車場, 風情, 間, 中, 遊歩道, 人, 参集殿, 壮大, 裏側, ほか, 奥, 東西
+cluster2:(2)
+聰敏神社, 水野勝成公
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 3
+deleted 0entities.

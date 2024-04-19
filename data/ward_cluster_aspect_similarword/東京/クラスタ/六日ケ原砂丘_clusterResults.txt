@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六日ケ原砂丘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+向こう, 中, 気, 断崖絶壁, 景色
+cluster1:(4)
+海, 砂丘, 岩山, 砂
+cluster2:(1)
+駐車場
+cluster3:(1)
+命綱無し
+cluster4:(1)
+のんびり散策・・・・・
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

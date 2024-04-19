@@ -1,0 +1,21 @@
+--------------------similar_words:道の駅 おふく--------------------
+top3 entities near to cluster0>>
+店内, 名物, 地元
+top3 entities near to cluster1>>
+国道, 県道
+top3 entities near to cluster2>>
+時間, 行程, 休憩
+top3 entities near to cluster3>>
+駅巡り, 駅, めぐり
+top3 entities near to cluster4>>
+から揚げ, 期待, から
+top3 entities near to cluster5>>
+特産品, 特産, 品等
+top3 entities near to cluster6>>
+定食, ご飯, 刺身
+top3 entities near to cluster8>>
+温泉, 施設, 駐車
+top3 entities near to cluster9>>
+鶏, 鶏肉
+top3 entities near to cluster10>>
+名産, 特産, 野菜

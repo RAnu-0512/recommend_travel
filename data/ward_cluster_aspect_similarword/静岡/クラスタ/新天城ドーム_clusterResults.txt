@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新天城ドーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+開閉式, 開閉式天井
+cluster1:(4)
+静岡県, 伊豆市, 伊豆, 新天城ドーム
+cluster2:(9)
+ドーム, 日本代表チーム, BIG-SUN, こと, 内部, ソフトボール, ドーム場, 建物, 愛称
+cluster3:(2)
+ドーム型, ドーム型スポーツ施設
+cluster4:(2)
+スポー施設, 運動施設
+cluster5:(1)
+多目的スポーツ施設
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 7entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:イワシダイバーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ダイビング, カメラ
+cluster1:(2)
+黄金崎, 西伊豆
+cluster2:(1)
+次回
+cluster3:(1)
+生物
+cluster4:(1)
+世話
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

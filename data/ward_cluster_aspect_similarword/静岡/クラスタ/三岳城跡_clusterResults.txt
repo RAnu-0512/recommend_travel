@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三岳城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三岳山頂, 三岳神社, 三岳城址
+cluster1:(2)
+案内板, 説明板
+cluster2:(4)
+斯波, 家康, 信玄, 井伊
+cluster3:(8)
+すれ違い, ハイキングシューズ, 軍, 途中, 大河ドラマ, 井伊谷, 付近, 西側
+cluster4:(2)
+注意, 準備
+cluster5:(2)
+戦略, 効果
+cluster6:(2)
+所, 拠点
+cluster7:(9)
+遺構, 石段, 登山, 城跡, 車道, 石垣, 城, 神社, 山頂
+cluster8:(1)
+駐車場
+
+howmany entities : 33
+howmany clusters : 9
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 9entities.

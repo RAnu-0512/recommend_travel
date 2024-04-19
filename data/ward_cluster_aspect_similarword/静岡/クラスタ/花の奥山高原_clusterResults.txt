@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花の奥山高原>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+奥山公園, 奥山方広寺
+cluster1:(2)
+駐車場, 台数
+cluster2:(2)
+桜, 梅
+cluster3:(6)
+人, 入り口, ライトアップ, 数, 木, 季節
+cluster4:(1)
+夜桜鑑賞
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 7entities.

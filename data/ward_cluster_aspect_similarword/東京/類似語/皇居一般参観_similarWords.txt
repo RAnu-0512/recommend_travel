@@ -1,0 +1,25 @@
+--------------------similar_words:皇居一般参観--------------------
+top3 entities near to cluster0>>
+写真, 撮影, 予約
+top3 entities near to cluster1>>
+人達, 大勢
+top3 entities near to cluster2>>
+言語, 母語
+top3 entities near to cluster3>>
+模型, 遺構, ジオラマ
+top3 entities near to cluster4>>
+見学, 配布, 受付
+top3 entities near to cluster5>>
+宮殿, 庭, 庭園
+top3 entities near to cluster6>>
+ツアー, ガイド, ガイドブック
+top3 entities near to cluster7>>
+職員, 仕事, 職場
+top3 entities near to cluster8>>
+建物, 歴史, 写真
+top3 entities near to cluster9>>
+余裕, 時間, 熱意
+top3 entities near to cluster10>>
+明門, 窓, 明
+top3 entities near to cluster11>>
+皇居, 参観, 参賀

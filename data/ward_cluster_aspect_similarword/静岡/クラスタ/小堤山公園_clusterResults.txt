@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小堤山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+格好, 子どもたち
+cluster1:(4)
+年寄り, ジャングルジム, ウォーキング, ユニーク
+cluster2:(3)
+遊び場, 滑り台, 遊歩道
+cluster3:(1)
+グラウンドゴルフ
+cluster4:(1)
+運動
+cluster5:(4)
+敷地, 起伏, 公園, 遊具
+cluster6:(5)
+駐車場, 芝生広場, 展望台, 夜間照明施設, 相良海岸
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 4entities.

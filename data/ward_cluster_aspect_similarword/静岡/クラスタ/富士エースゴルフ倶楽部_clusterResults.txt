@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士エースゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+アクセス, グリーン, 愛鷹山, 入り口, クレーム, 都心, 管理, コース, 人, リゾートマンション, 木
+cluster1:(5)
+質, 距離, 印象, 接待コース, 愛想
+cluster2:(1)
+裾野インター
+cluster3:(1)
+案内板
+cluster4:(1)
+標高差
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 3entities.

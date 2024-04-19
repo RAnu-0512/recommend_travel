@@ -1,0 +1,25 @@
+--------------------similar_words:TOKYO ミナトリエ(旧_東京みなと館)--------------------
+top3 entities near to cluster0>>
+都, 港, 区
+top3 entities near to cluster1>>
+展望, 展望台, 眺望
+top3 entities near to cluster2>>
+ビル, 駅前, 駅
+top3 entities near to cluster4>>
+施設, 館内, 所内
+top3 entities near to cluster5>>
+地上, 地表, 天界
+top3 entities near to cluster6>>
+窓, 船舶
+top3 entities near to cluster7>>
+シティ, 博物館, ダイバー
+top3 entities near to cluster8>>
+時間, 歴史, 周り
+top3 entities near to cluster9>>
+天気, お天気, 予報
+top3 entities near to cluster10>>
+台場, ビーナスフォート, アクアシティ
+top3 entities near to cluster11>>
+展示, 入場, 撮影
+top3 entities near to cluster12>>
+臨海, 都心, かもめ

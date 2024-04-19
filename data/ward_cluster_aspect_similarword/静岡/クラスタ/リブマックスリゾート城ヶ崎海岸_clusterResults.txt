@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リブマックスリゾート城ヶ崎海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+部屋, 廊下, 影
+cluster1:(2)
+フォーク, スプーン
+cluster2:(2)
+フロント, ホテル
+cluster3:(1)
+ペット
+cluster4:(1)
+アウト
+cluster5:(1)
+クッションフロア
+cluster6:(1)
+全体
+cluster7:(1)
+犬
+cluster8:(1)
+作り
+cluster9:(3)
+客, 朝食, 気分
+cluster10:(1)
+空調
+cluster11:(1)
+女性従業員
+
+howmany entities : 18
+howmany clusters : 12
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 12entities.

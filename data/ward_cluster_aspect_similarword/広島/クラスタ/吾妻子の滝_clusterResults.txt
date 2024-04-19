@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吾妻子の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水源地前, 水源地
+cluster1:(13)
+滝, 近く, 吾妻子, 運転手, 西条線, 下車, 人, こと, バス停, バス, 広島国際大学, 存在, 遊歩道
+cluster2:(3)
+西条駅, 中国JRバス, 呉駅
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

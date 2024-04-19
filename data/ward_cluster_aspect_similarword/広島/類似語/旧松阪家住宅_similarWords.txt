@@ -1,0 +1,17 @@
+--------------------similar_words:旧松阪家住宅--------------------
+top3 entities near to cluster0>>
+趣き, 趣, 雰囲気
+top3 entities near to cluster1>>
+邸宅, 屋敷, 建物
+top3 entities near to cluster2>>
+窓, 屋根, 天井
+top3 entities near to cluster3>>
+籠, 篭, 霞外
+top3 entities near to cluster4>>
+曲線美, 曲線
+top3 entities near to cluster5>>
+豪商, 建築, 商家
+top3 entities near to cluster6>>
+格子, 屋根, 窓
+top3 entities near to cluster8>>
+町並み, 景観, 歴史

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛飾あらかわ水辺公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+花畑, 花
+cluster1:(8)
+公園, 土地, 総武線, 遊び, 子供, 夏場, 自然, 付近
+cluster2:(1)
+線路橋
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

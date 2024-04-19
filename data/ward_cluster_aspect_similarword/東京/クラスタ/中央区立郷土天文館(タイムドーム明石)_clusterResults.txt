@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中央区立郷土天文館(タイムドーム明石)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+常設展, 常設展示室
+cluster1:(2)
+施設, 新規施設
+cluster2:(3)
+子供, プラネタリウム, 八丁堀
+cluster3:(2)
+場所, オープン予定
+cluster4:(1)
+郷土資料
+cluster5:(1)
+入場料
+cluster6:(9)
+中央区立, 森ちゅうおう, 区立, 築地駅, タイムドーム明石, 京橋図書館, 聖ルカ, 明石町, 中央区
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

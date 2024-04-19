@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営新宿線 菊川駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+特徴, 懐かしさ
+cluster1:(1)
+気
+cluster2:(1)
+仕事
+cluster3:(1)
+駅
+cluster4:(1)
+都合
+cluster5:(1)
+学生時代
+cluster6:(1)
+都営線
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

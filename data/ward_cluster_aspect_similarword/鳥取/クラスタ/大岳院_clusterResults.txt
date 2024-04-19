@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大岳院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+寺院, 犬, 中国, 墓, ところ, モデル, 家臣, 境内, 明代, 主従, 石像, 寺, 山号, 南総里見八犬伝, 曹洞宗
+cluster1:(6)
+里見忠義, 倉吉, 倉吉白壁, 土蔵群, 万祥山, 里見
+cluster2:(1)
+県指定保護文化財
+cluster3:(4)
+里見安房守忠義, 滝沢馬琴, 滝沢馬琴の南総里見八犬伝, 古三彩鉢皿
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 4
+deleted 0entities.

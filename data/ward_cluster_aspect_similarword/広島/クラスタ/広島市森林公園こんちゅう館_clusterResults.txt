@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市森林公園こんちゅう館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+昆虫, 昆虫館, 蝶々, 蜂, 温室, 昆虫苦手, 虫, 蝶
+cluster1:(2)
+広島市, 東区
+cluster2:(2)
+息子達, 子供たち
+cluster3:(4)
+対決, 事, 機会, 様子
+cluster4:(5)
+子供, 親子, 遠足, 子ども, 公園
+cluster5:(15)
+スペース, 高速, オススメ, クワガタ, チョウ, カブトムシ, 世界, 種類, タランチュラ, アクセス, 目, 前, 森林公園, 部屋, 近く
+cluster6:(1)
+動物園 植物園 昆虫館
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オロ・アルジェント>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ペアリング, 指輪作り, 指輪
+cluster1:(2)
+作り帰り, 帰り
+cluster2:(7)
+店, 場所, 場, 価値, 事, 場合, 理由
+cluster3:(6)
+夫妻, 彼女, 手, 先生, 互い, 金
+cluster4:(11)
+阿佐ケ谷, ロジウムメッキ, 安心, 寄り道, シルバー, ポイント, リング, 仕上げ, 手直し, オプション, 雰囲気
+cluster5:(3)
+制作, 素材, 工程
+cluster6:(1)
+鉄鍋餃子
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

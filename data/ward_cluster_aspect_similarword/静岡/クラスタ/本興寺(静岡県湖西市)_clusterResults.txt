@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本興寺(静岡県湖西市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鷲津駅, 湖西市
+cluster1:(5)
+本堂, 境内, 惣門, 参道, 寺院
+cluster2:(4)
+杉, 桜, 御堂, 木
+cluster3:(7)
+人, 歴史, 大小, 正面, 雰囲気, 建物, 他
+cluster4:(3)
+庭園, 散策, 公園
+cluster5:(1)
+指定文化財
+cluster6:(1)
+駐車場
+cluster7:(1)
+国重要文化財
+cluster8:(1)
+遠州流日本庭園
+
+howmany entities : 25
+howmany clusters : 9
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 6entities.

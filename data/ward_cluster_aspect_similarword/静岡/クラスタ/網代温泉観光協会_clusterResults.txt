@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:網代温泉観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光案内所, 観光地, 観光
+cluster1:(7)
+伊東線, おすすめスポット, スタッフ, JR, 親切, パンフレット, 情報
+cluster2:(3)
+網代温泉, 伊豆, 熱海
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 0entities.

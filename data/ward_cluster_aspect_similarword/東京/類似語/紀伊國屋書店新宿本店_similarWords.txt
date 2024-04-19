@@ -1,0 +1,29 @@
+--------------------similar_words:紀伊國屋書店新宿本店--------------------
+top3 entities near to cluster0>>
+カフェ, ショップ, レストラン
+top3 entities near to cluster1>>
+時間, 半日
+top3 entities near to cluster2>>
+店内, 店員, 店頭
+top3 entities near to cluster3>>
+店舗, 各店
+top3 entities near to cluster4>>
+面積, 売り場, 売場
+top3 entities near to cluster5>>
+出入り口, 入り口
+top3 entities near to cluster6>>
+階数, 最寄駅, 所在地
+top3 entities near to cluster7>>
+書籍, 書物, 雑誌
+top3 entities near to cluster10>>
+大抵, 大半, 殆ど
+top3 entities near to cluster11>>
+分野, 関係
+top3 entities near to cluster12>>
+親, 子供, 母親
+top3 entities near to cluster13>>
+本, 探し, 薦め
+top3 entities near to cluster15>>
+専門書, 書籍, 専門
+top3 entities near to cluster16>>
+書店, 本屋, 駅前

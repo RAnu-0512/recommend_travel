@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石人の星公園(遠州灘海浜公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+人, ご飯, 種類, イベント, 自転車, 小学生, 娘
+cluster1:(4)
+遊具, 芝生, 公園, 星公園
+cluster2:(1)
+甥姪
+cluster3:(1)
+遠州灘海浜公園
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

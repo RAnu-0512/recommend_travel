@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大観音寺(東京都中央区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+一寸奥, 都会っぽ
+cluster1:(3)
+人形町駅, 駅, 中央区
+cluster2:(5)
+本堂, 寺院, 寺, 本尊, 境内
+cluster3:(3)
+鎌倉, 大観音寺, 下町
+cluster4:(13)
+事務所, 所, 小ぢんまり, 人形町, 先, 幸運, 街並み, 御利益, 歴史, 利益, 時代, もの, 階段
+cluster5:(5)
+鉄仏, 鉄造菩薩頭, 鋳鉄製菩薩頭, 菩薩頭, 本尊開帳
+cluster6:(3)
+日本橋人形町, 人形町通り, 水天宮方面
+cluster7:(1)
+東京都指定有形文化財
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 8
+deleted 0entities.

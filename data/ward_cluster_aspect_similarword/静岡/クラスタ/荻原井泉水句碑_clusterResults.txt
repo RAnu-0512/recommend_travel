@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荻原井泉水句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仏現寺, 仏現寺内
+cluster1:(5)
+俳人, 句, 句碑, 境内, 石碑
+cluster2:(7)
+隣り, 文字, 荻原井泉水, 石, 裏, 表, 迫力
+cluster3:(1)
+説明文
+cluster4:(1)
+伊東市役所
+cluster5:(1)
+おぎわら せいせんすい
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 5entities.

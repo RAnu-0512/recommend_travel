@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:照蓮寺(広島県竹原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島県, 竹原小早川, 竹原
+cluster1:(3)
+国定重要文化財, 町並み保存地区, 散策路
+cluster2:(2)
+定林寺, 寺
+cluster3:(3)
+境内, 町並み見物, 寺院
+cluster4:(3)
+折り返し地点, 所, 場
+cluster5:(8)
+歴史, 桜, 帰り, 奥, 道, 教育, 駅, 名称
+cluster6:(1)
+学問所
+cluster7:(5)
+禅宗, 時代, 浄土真宗本願寺派, 戦後時代, 室町
+cluster8:(1)
+藩子弟
+cluster9:(1)
+竹原歴史民俗資料館
+
+howmany entities : 30
+howmany clusters : 10
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 10
+deleted 0entities.

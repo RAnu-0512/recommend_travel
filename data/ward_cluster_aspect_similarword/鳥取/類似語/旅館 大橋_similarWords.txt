@@ -1,0 +1,13 @@
+--------------------similar_words:旅館 大橋--------------------
+top3 entities near to cluster1>>
+窟, 巌, 洞窟
+top3 entities near to cluster2>>
+料理, 旅館, 宿
+top3 entities near to cluster3>>
+岩, びあくま, 風呂
+top3 entities near to cluster4>>
+風呂, 洞窟, 岩窟
+top3 entities near to cluster5>>
+風呂, 湯船, 浴槽
+top3 entities near to cluster6>>
+温泉, 湯, 沸かし湯

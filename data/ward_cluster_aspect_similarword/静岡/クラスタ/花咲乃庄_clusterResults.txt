@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花咲乃庄>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天せいろ, 具材
+cluster1:(4)
+有形文化財, 庄屋屋敷, 庄屋, 花咲乃庄
+cluster2:(5)
+手打ち蕎麦, おそば, 蕎麦, そば, 食事処
+cluster3:(2)
+時代, 江戸時代
+cluster4:(2)
+テーブル席, 座敷
+cluster5:(3)
+見学, 蔵, 民家
+cluster6:(11)
+部分, 風情, レストラン, 帰り, かき揚げ, 母, 国, 趣味, 感じ, てんぷら, 施設
+cluster7:(1)
+衣
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 7entities.

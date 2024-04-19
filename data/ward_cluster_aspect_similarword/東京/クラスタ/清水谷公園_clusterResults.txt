@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水谷公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+季節, 都会, 自然, 景色, 緑, 紅葉, 桜
+cluster1:(22)
+上智大学, 途中, ホテル, 場所, 変, 八重桜, 玉川上水, ホテルニューオータニ, 復元, プリンスホテル, オブジェ, 遊歩道, 湧き水, トイレ, 休憩, 前, 周り, 方面, ガイドマップ, ビル, 真ん中, 雰囲気
+cluster2:(4)
+石碑, 池, 石, 清水
+cluster3:(3)
+水, 木, 明治
+cluster4:(5)
+千代田区, 格子型, 紀尾井坂, 江戸時代, 湧水
+cluster5:(1)
+高低差
+cluster6:(12)
+緑あふれる公園, 公園, 赤坂見附, 追悼碑, 公園一帯, 大久保利通, 上水碑, 高層ホテル群, 都立公園, 清水谷公園, 高層ビル, 清水丘公園
+
+howmany entities : 54
+howmany clusters : 7
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 7
+deleted 0entities.

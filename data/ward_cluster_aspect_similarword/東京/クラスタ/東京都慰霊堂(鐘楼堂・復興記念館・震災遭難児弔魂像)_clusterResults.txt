@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京都慰霊堂(鐘楼堂・復興記念館・震災遭難児弔魂像)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+空襲, 両国駅, 大火災, 三重塔, 築地本願寺, 横綱公園, 東京空襲, 関東大, 横網公園
+cluster1:(2)
+大工道具, 調理道具
+cluster2:(3)
+建物, 近代建築, 建築
+cluster3:(3)
+支援, 支援金, 物資
+cluster4:(9)
+恩, 堂, 国, 中国, 東京, 外国, 平和, 順, 日本
+cluster5:(5)
+金額, 多額, 震災, 遺骨, 死者
+cluster6:(2)
+世代, 子たち
+cluster7:(3)
+ホテル周辺, 公園, 施設
+cluster8:(4)
+絵, 手紙, 写真, 展示
+cluster9:(3)
+気分, 認識, 記憶
+cluster10:(3)
+多く, 多数, 方々
+cluster11:(2)
+人, 家族
+cluster12:(7)
+イギリス, 関東大震災, 気持ち, ひと時, 雰囲気, アメリカ, 東京大
+cluster13:(6)
+北側, 場所, 間, 手, 中, こと
+cluster14:(4)
+遭難者, 殉難者, 震災遭難死者, 犠牲者
+cluster15:(5)
+復興記念館, 慰霊, 慰霊堂, 慰霊大法要, 東京都慰霊堂
+cluster16:(3)
+陸軍被服廠跡地, 第二次世界大戦, 都立横網町公園
+cluster17:(1)
+東京都慰霊堂(鐘楼堂・復興記念館
+
+howmany entities : 74
+howmany clusters : 18
+howmany entities (more than1entities) : 74
+howmany clusters (more than1entities) : 18
+deleted 0entities.

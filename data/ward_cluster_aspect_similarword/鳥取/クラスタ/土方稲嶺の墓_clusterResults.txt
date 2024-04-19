@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土方稲嶺の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+感じ, 歴史, 景福寺
+cluster1:(2)
+石, 墓
+cluster2:(1)
+画家
+cluster3:(2)
+観光スポット, 別看板
+cluster4:(1)
+後藤又兵衛
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

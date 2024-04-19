@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みすゞ通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+金子みすゞゆかり, みすゞ通り, 金子みすゞ
+cluster1:(3)
+仙崎, 仙崎駅, JR仙崎駅
+cluster2:(4)
+記念かん, みすず記念館, 記念館, 記念
+cluster3:(5)
+詩, モザイク画, モザイク壁画, 詩人, 詩札
+cluster4:(2)
+大正, 明治
+cluster5:(2)
+行列, 人出
+cluster6:(10)
+店, 道, 家, 場所, 町, 景観, 港, 北, 駅, 墓
+cluster7:(7)
+昔, 本屋, 軒下, 民家, 子どもたち, 田舎, 近所
+cluster8:(2)
+かまぼこ板, 木片
+cluster9:(3)
+展示, 作品, 写真
+cluster10:(3)
+中, 中心, 世界
+cluster11:(2)
+町並み, 街並み
+cluster12:(3)
+スポット, コスプレ, あちこち
+cluster13:(2)
+雰囲気, 気持ち
+cluster14:(1)
+人
+cluster15:(1)
+みすず
+cluster16:(1)
+思い
+cluster17:(1)
+通り
+cluster18:(1)
+気分
+cluster19:(1)
+わた
+cluster20:(4)
+お店屋, 街歩き, 飲食店, 呉服太物
+
+howmany entities : 61
+howmany clusters : 21
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 21
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒滝山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+最高峰, 山
+cluster1:(2)
+市, 北部
+cluster2:(1)
+標高
+cluster3:(1)
+宇部市
+cluster4:(1)
+重量感
+cluster5:(1)
+荒滝山
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

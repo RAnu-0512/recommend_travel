@@ -1,0 +1,23 @@
+--------------------similar_words:都立小峰公園--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 公園
+top3 entities near to cluster1>>
+駅道, 駅, 山道
+top3 entities near to cluster2>>
+紅葉, 桜, 八重桜
+top3 entities near to cluster3>>
+遠足, 運動, 瞑想
+top3 entities near to cluster5>>
+家族, 自然
+top3 entities near to cluster6>>
+土, 木火, 木
+top3 entities near to cluster7>>
+男女, 老若, 男性
+top3 entities near to cluster8>>
+子供, 子ども, 親達
+top3 entities near to cluster9>>
+音響, 大, 超大
+top3 entities near to cluster10>>
+法輪, 功, 鍛針
+top3 entities near to cluster11>>
+都立, 公園, 多幸湾

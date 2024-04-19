@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取駅前食品市場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JR鳥取駅, 鳥取駅
+cluster1:(22)
+建物, 客, つまみ, 裏, 到着, 魚介類, 料理, 新鮮さ, 価格, 珈琲, 地元, 観光客, 活気, ビジネス街, 魚, もの, 安さ, 旬, 方, 食堂, 旅行, 徒歩
+cluster2:(2)
+鮮魚店, 青果店
+cluster3:(2)
+食品市場, 市場
+cluster4:(3)
+海鮮丼, カニ味噌, 甲羅
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 5
+deleted 0entities.

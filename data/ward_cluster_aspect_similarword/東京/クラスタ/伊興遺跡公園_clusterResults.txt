@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊興遺跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, 外
+cluster1:(2)
+子供, 学生
+cluster2:(1)
+公園
+cluster3:(1)
+衝撃
+cluster4:(1)
+展示物
+cluster5:(1)
+課外授業
+cluster6:(1)
+縦穴式住居
+cluster7:(1)
+東武スカイツリーライン竹ノ塚駅
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 8
+deleted 0entities.

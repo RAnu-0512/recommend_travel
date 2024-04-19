@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西伊豆歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水, 日
+cluster1:(2)
+強風, 岩場
+cluster2:(9)
+所, 周り, 感じ, 花, 遊歩道, 体感, 自然, 雰囲気, 石
+cluster3:(1)
+出発雨
+cluster4:(1)
+凄さ
+cluster5:(1)
+足ツボ
+cluster6:(8)
+丸い花時計, 亀岩見, 堂ヶ島, 迫力UP頂上, 写真断念海側, 天窓洞, 花時計, 遊覧船
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 7entities.

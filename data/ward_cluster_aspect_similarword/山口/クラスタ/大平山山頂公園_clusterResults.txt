@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大平山山頂公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+満開, 場所, 景観, 好み, 天気, 気分
+cluster1:(2)
+島, 海
+cluster2:(3)
+アスレチック, オススメ, ロープウェイ
+cluster3:(2)
+つつじ, ツツジ
+cluster4:(1)
+子供
+cluster5:(1)
+文字
+cluster6:(1)
+山頂
+cluster7:(1)
+平山
+cluster8:(9)
+展望広場, 子供連れ, 多目的広場, 広場, 公園, 遊具, 芝生広場, 展望台, 駐車場
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 9
+deleted 0entities.

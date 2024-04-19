@@ -1,0 +1,11 @@
+--------------------similar_words:上関--------------------
+top3 entities near to cluster1>>
+ドラ, 連, ドラヒロイン
+top3 entities near to cluster3>>
+城跡, 史跡, 城壁
+top3 entities near to cluster4>>
+温泉, 漁港, 湯
+top3 entities near to cluster5>>
+食材, 料理, 景色
+top3 entities near to cluster6>>
+海魚, 海, 漁師

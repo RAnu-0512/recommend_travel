@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹林寺(広島県東広島市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+広島エアポートホテル, 広島市, 広島県, 東広島市, 市指定重要文化財
+cluster1:(5)
+秋, 春先, 陽, 木, 春
+cluster2:(2)
+子さん, 良さ
+cluster3:(2)
+雨, 豪雨
+cluster4:(9)
+姿, もの, 途中, 挙げ句, 方, 感じ, 人, 名, 他
+cluster5:(10)
+文化財, 歴史, 広島空港, ランチ, 色, 土砂崩れ, 国, もみじ, 雰囲気, カーブ
+cluster6:(2)
+旅, 道中
+cluster7:(2)
+山道, 道
+cluster8:(6)
+山頂, 車, 広場, 付近, 山, 場所
+cluster9:(4)
+跡, 訪問, 散策, 微笑
+cluster10:(7)
+銀杏, 桜, 絨毯, 紅葉, 紅葉鑑賞, 新緑, 見頃
+cluster11:(2)
+竹林寺, 寺巡り
+cluster12:(3)
+林, 池, 竹林
+cluster13:(4)
+古刹, 境内, 寺, 本堂
+cluster14:(3)
+入野, 河内町, 篁山
+cluster15:(4)
+参拝者, 駐車場, 標高差, 登山道
+
+howmany entities : 70
+howmany clusters : 16
+howmany entities (more than1entities) : 70
+howmany clusters (more than1entities) : 16
+deleted 0entities.

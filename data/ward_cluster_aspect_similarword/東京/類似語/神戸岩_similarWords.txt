@@ -1,0 +1,13 @@
+--------------------similar_words:神戸岩--------------------
+top3 entities near to cluster0>>
+岩, 壁, 岩山
+top3 entities near to cluster2>>
+岩峰, 岩, ハナヌキ
+top3 entities near to cluster3>>
+駐車場, 駐車, 渓谷
+top3 entities near to cluster4>>
+都, 日, 月
+top3 entities near to cluster5>>
+川, 清流, 滝
+top3 entities near to cluster7>>
+風情, 迫力, 穴場

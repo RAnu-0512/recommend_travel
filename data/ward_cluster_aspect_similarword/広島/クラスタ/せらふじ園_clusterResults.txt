@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:せらふじ園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ふじ棚, 周りふじ, ふじ, ふじ園
+cluster1:(4)
+感じ, 話, 結果, 電話
+cluster2:(3)
+園内, 土地, 花
+cluster3:(2)
+GW, 天気
+cluster4:(1)
+藤棚
+cluster5:(1)
+世羅
+cluster6:(1)
+開花状況
+cluster7:(1)
+駐車場
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

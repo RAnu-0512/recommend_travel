@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NatureTourShop inside>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お子さん連れ, 泳ぎ
+cluster1:(15)
+シャワー, 事前, 子ども, 伊豆, ウェットスーツ, リード, 上, 子, ポイント, ライフジャケット, ガイド, 海, 娘, ブリーフィング, シュノーケリング
+cluster2:(1)
+城ヶ崎海岸駅
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 3entities.

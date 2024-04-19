@@ -1,0 +1,23 @@
+--------------------similar_words:都立小山内裏公園--------------------
+top3 entities near to cluster0>>
+内裏, 都立, 公園
+top3 entities near to cluster1>>
+土, 木火, 木
+top3 entities near to cluster3>>
+丘陵, 地形, 地勢
+top3 entities near to cluster4>>
+人達, 自然, 人々
+top3 entities near to cluster5>>
+呼吸
+top3 entities near to cluster7>>
+早め, 朝, 早い
+top3 entities near to cluster9>>
+都立, 清瀬小児病院, 多幸湾
+top3 entities near to cluster10>>
+公園, 緑地, 遊歩道
+top3 entities near to cluster11>>
+遊具, 園内, 公園
+top3 entities near to cluster12>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster13>>
+販売機, 自動, 販売

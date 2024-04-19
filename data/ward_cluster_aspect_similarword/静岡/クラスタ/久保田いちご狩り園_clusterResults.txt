@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久保田いちご狩り園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+満足度, 高さ
+cluster1:(4)
+いちご大, いちご狩り, 苺, 苺ハウス
+cluster2:(9)
+娘, いちご, 子供, ハウス, 所, 甘, 方, 手, スーパー
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

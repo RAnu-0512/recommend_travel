@@ -1,0 +1,9 @@
+--------------------similar_words:野島~三田尻航路--------------------
+top3 entities near to cluster1>>
+運航, 運行, 運休
+top3 entities near to cluster5>>
+確認, 変更, 記載
+top3 entities near to cluster6>>
+拠点, 本拠, 本拠地
+top3 entities near to cluster7>>
+港, 離島, 港湾

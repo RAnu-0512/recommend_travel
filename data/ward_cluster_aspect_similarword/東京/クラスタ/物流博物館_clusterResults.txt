@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:物流博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+物流, 物流館, 物流博物館, 物流関係, 物流関連
+cluster1:(2)
+入館料, 入場料
+cluster2:(2)
+学生時代, 江戸時代
+cluster3:(3)
+高輪, 品川, 品川駅
+cluster4:(3)
+映像展示, 特別展, 展示
+cluster5:(2)
+鉄道, フェリー・汽車
+cluster6:(12)
+量, 場所, 内容, 気, 出来, 名前, 施設, 興味, 以下, 情報, 様子, こと
+cluster7:(17)
+見どころ, 大人, メイン, トラック, 人, 子供, 移り変わり, 映像, 博物館, クロネコヤマト, 映画, 映画館, 写真, 歴史, 勉強, 中学生, ジオラマ
+cluster8:(2)
+地下, 徒歩
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 9
+deleted 0entities.

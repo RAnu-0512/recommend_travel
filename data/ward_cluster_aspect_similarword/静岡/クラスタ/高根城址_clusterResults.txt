@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高根城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+城外, 山城, 狭間, 大里, 城内, 堀切, 神原
+cluster1:(5)
+林道, 勾配, 山道, 頂上, 道
+cluster2:(2)
+徒歩, JR
+cluster3:(4)
+撮影, 発掘, 景色, 風景
+cluster4:(20)
+納得, 右, 目, NHK, ルート, 終わり, 大手門, 多く, こと, 大河ドラマ, 道しるべ, もの, 十字路, 南, 感じ, 分かれ道, 場所, カーブ, 中心, 見どころ
+cluster5:(2)
+建造物, ロケ地
+cluster6:(3)
+らしさ, 相当力, 防衛機能
+cluster7:(7)
+高根城公園, 高根城址, 城址, 上村方面, 高根城, 小畑方面, 土塁
+cluster8:(5)
+立山林道, 水窪中学校運動場, 駐車場, 水窪町, 立山林道駐車場
+cluster9:(2)
+井楼櫓, 女城主直虎
+
+howmany entities : 57
+howmany clusters : 10
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 7
+deleted 6entities.

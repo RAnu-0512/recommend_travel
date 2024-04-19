@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀甲山古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+昔, 確か昔
+cluster1:(5)
+小学生, 目蒲線, 国, 池上線, 多摩川線
+cluster2:(2)
+終点, 前方
+cluster3:(3)
+遠足, 多摩川園, 下車
+cluster4:(4)
+蒲田駅, 多摩川台公園, 多摩川駅, 大田区
+cluster5:(6)
+亀甲山古墳, 古墳群, 宝莱山古墳, 古墳, 荏原台古墳群, 史跡
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 6
+deleted 0entities.

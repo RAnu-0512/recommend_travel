@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍福寺(大内氏館跡)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+資料館, 館, 駐車場
+cluster1:(6)
+長門, 周防, 大内, 明治, 毛利, 室町
+cluster2:(4)
+もの, 事実, 場所, 時期
+cluster3:(2)
+中心, 周辺
+cluster4:(4)
+前, 他, 間, 人
+cluster5:(1)
+跡地
+cluster6:(9)
+文化財, 御朱印, 車, 雰囲気, 興隆寺, 中心地, 瑠璃光寺, 八坂神社, 菩提寺
+cluster7:(2)
+紅葉, 梅
+cluster8:(11)
+参道, 謀反, 支配, 本堂, 寺, 守護, 参拝者, 滅亡, 寺院, 時代建造, 大大名
+cluster9:(3)
+龍福寺, 陶隆房, 大内義隆
+
+howmany entities : 45
+howmany clusters : 10
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 10
+deleted 0entities.

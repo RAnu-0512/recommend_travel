@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大日本報徳社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建築物, 建造物
+cluster1:(2)
+学寮, 講堂
+cluster2:(13)
+図書館, 博物館, 見物, 学校, 日本, 個人, もの, 教え, 社, 明治, 本社, 小学生, 小田原
+cluster3:(5)
+調和, 価値, 思想, 徳育, 道徳
+cluster4:(7)
+有栖川宮, 掛川城, 経済, 経済門, 道徳門, 報徳, 城郭
+cluster5:(4)
+金二郎像, 二宮尊徳, 栃木県今市, 尊徳
+cluster6:(4)
+大日本報徳社, 宮廷建築の仰徳記念館, 遠江国報徳社, 報徳二宮神社
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 4entities.

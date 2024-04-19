@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:焼津駅前健康センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 休憩室
+cluster1:(5)
+劇団, 演劇, 芝居小屋, 劇, 芝居
+cluster2:(15)
+温泉, 昭和, リニューアル, カニ, 年季, 焼津旅, 駅, 南口, 感じ, 旅行, 雰囲気, 夕方, 着替え部屋, ポイントカード, 風呂
+cluster3:(1)
+マグロ料理屋巡り
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 3entities.

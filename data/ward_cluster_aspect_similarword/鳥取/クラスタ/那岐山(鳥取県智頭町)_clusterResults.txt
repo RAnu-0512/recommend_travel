@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:那岐山(鳥取県智頭町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+コース, 初心者, 花崗岩, 中国, 時間, 車, 北, ドライブ, 神, 機会, オススメ, 伝説, 周り, 岡山, 近隣, 名, 空気, ナビ, シーズン, 方, 風雪, 場所
+cluster1:(2)
+高さ, 国造り
+cluster2:(16)
+山, 登山, 地形, 残丘, 山頂, 眺め, 県境, 紅葉, 山地, 登山道, 峰, 頂上, 標高, 景色, 後山, 眺望
+cluster3:(5)
+鳥取市, 智頭町, 鳥取県, 東仙コース, 西仙コース
+cluster4:(1)
+伊邪那岐命と伊邪那美命
+
+howmany entities : 46
+howmany clusters : 5
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芦の湖カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+芦ノ湖, 気持ち, チャンピオンコース
+cluster1:(2)
+名, 中心
+cluster2:(3)
+芦, 湖カントリークラブ, 富士
+cluster3:(1)
+富士箱根国立公園
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

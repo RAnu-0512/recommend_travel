@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇野地蔵ダキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+名水, 生活用水, 海岸沿い, 湧水
+cluster1:(9)
+清水, 巨石, 地蔵ダキ, 宇野, 法華堂, 因伯, 宇野集落, 鳥取県, 間
+cluster2:(1)
+湯梨浜町
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

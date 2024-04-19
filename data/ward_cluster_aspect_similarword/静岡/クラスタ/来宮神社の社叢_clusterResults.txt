@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:来宮神社の社叢>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高木, 照葉樹林
+cluster1:(9)
+こと, 自然, 境内, 常緑樹, 北限, 空気, リュウビンタイ, スダジイ, 典型
+cluster2:(1)
+社叢
+cluster3:(1)
+大型シダ植物
+cluster4:(1)
+八幡宮来宮神社
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 5entities.

@@ -1,0 +1,23 @@
+--------------------similar_words:関口芭蕉庵--------------------
+top3 entities near to cluster0>>
+芭蕉, 句碑, 俳聖
+top3 entities near to cluster2>>
+庭池, 屋敷, 庭
+top3 entities near to cluster3>>
+休憩室, 休憩, 仮眠室, 仮眠
+top3 entities near to cluster4>>
+風情, 俳句, 野趣
+top3 entities near to cluster5>>
+敷地, 建物, 中庭
+top3 entities near to cluster6>>
+塚, 丸山, 清水
+top3 entities near to cluster8>>
+影響, 対象, 及ぼし
+top3 entities near to cluster9>>
+目的地, 遊園地, 遊園, 目的
+top3 entities near to cluster10>>
+坂道, のぼり坂, 上り坂
+top3 entities near to cluster11>>
+大戦, 世界, 戦時
+top3 entities near to cluster12>>
+感染症, 感染, ウイルス

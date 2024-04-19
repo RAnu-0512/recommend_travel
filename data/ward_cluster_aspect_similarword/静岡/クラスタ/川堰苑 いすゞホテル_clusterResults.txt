@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川堰苑 いすゞホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+もの, 感じ, 印象, 方
+cluster1:(2)
+子供, 子ども
+cluster2:(2)
+スタンダードルーム, プラン
+cluster3:(3)
+テキパキ, 天ぷら, 気持ち
+cluster4:(10)
+布団しき, 温泉, 部屋食, 刺身, 旅館, 旅行, 部屋, 女将, 風呂, 夕食
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 4entities.

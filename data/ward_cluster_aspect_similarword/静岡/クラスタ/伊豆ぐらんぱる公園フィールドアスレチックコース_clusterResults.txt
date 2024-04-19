@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆ぐらんぱる公園フィールドアスレチックコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供達, 子供たち, 若者向き
+cluster1:(4)
+気, 流行, 転換, 気分
+cluster2:(7)
+親, 妻, 年長, 大人, 娘, 子供, 親子
+cluster3:(6)
+アトラクション, ジップライン, アスレチック, ワイヤーロープ, 小学生, ポカポカ
+cluster4:(3)
+体, 時間, 施設
+cluster5:(1)
+補助
+cluster6:(1)
+ぐらんぱる公園
+cluster7:(1)
+滑車
+cluster8:(1)
+童心
+cluster9:(1)
+老朽化
+
+howmany entities : 28
+howmany clusters : 10
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 5entities.

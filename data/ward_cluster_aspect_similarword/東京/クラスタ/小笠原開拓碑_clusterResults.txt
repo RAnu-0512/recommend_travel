@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小笠原開拓碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+絶海, 孤島
+cluster1:(2)
+石碑, 碑
+cluster2:(2)
+小笠原, 日本
+cluster3:(2)
+意義, こと
+cluster4:(1)
+開拓
+cluster5:(1)
+歴史資料
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

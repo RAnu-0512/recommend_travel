@@ -1,0 +1,15 @@
+--------------------similar_words:浜松城天守閣--------------------
+top3 entities near to cluster1>>
+城, 再建, 城跡
+top3 entities near to cluster3>>
+階段, 通路, 入場
+top3 entities near to cluster5>>
+建物, 土地, 景色
+top3 entities near to cluster6>>
+天守閣, 天守, 最上階
+top3 entities near to cluster7>>
+雰囲気, 思い出, 気持ち
+top3 entities near to cluster8>>
+周り, 内部
+top3 entities near to cluster10>>
+展示, 入場, 入館

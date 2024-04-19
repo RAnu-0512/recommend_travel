@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あきたブルーベリー農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食べ放題+中パック, 食べ放題
+cluster1:(2)
+大山, 大山町
+cluster2:(2)
+持ち帰りパック代, 土産分
+cluster3:(19)
+時期, 笑, 中, ところ, 体験, 別, 子ども, 種類, ブルーベリー, 実, 木, ポイント, 粒, 連発, クーポン, ブルーバリー, 方, 孫, 時間
+cluster4:(2)
+蜘蛛, 巣
+cluster5:(2)
+蚊, ハエ
+cluster6:(4)
+低木, 用事, 小屋, 足場
+cluster7:(5)
+農園, 敷地, ブルーベリー畑, 園内, ブルーベリー園
+cluster8:(2)
+ブルーベリー狩り, ブルーベリーつみ
+cluster9:(1)
+得感
+cluster10:(1)
+入園料
+cluster11:(1)
+どれか買えば詰め放題食べ放題
+
+howmany entities : 43
+howmany clusters : 12
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 12
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恋しき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+庭, お庭
+cluster1:(4)
+憤り, 格, 文句, 謝罪
+cluster2:(2)
+客, 席
+cluster3:(4)
+ボリューム, ランチ, 建物, 周り
+cluster4:(2)
+ご飯, 食事
+cluster5:(2)
+店, 料理
+cluster6:(1)
+皿
+cluster7:(1)
+茶
+cluster8:(1)
+一品おかず
+cluster9:(1)
+府中市
+
+howmany entities : 20
+howmany clusters : 10
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 10
+deleted 0entities.

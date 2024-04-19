@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猿楽塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+代官山駅, 街 代官山, 代官山, 代官山ヒルサイドテラス
+cluster1:(3)
+絵馬, 祠, 古墳
+cluster2:(8)
+山, 場所, 左, 体験, 周り, 歴史, こと, 願い事
+cluster3:(2)
+都会, 立地
+cluster4:(1)
+高さ
+cluster5:(1)
+山手通り
+cluster6:(1)
+円墳
+cluster7:(1)
+猿楽塚
+cluster8:(1)
+区指定史跡
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

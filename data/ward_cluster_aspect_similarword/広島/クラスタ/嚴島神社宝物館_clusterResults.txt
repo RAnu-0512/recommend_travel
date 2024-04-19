@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:嚴島神社宝物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+鎧, 短刀, 甲冑, 刀剣, 刀
+cluster1:(3)
+銅, 和紙, 漆
+cluster2:(6)
+文化財, 以前大鳥居, 平清盛, 建物, 宝物殿, 大鳥居
+cluster3:(2)
+鳥居, 神社
+cluster4:(1)
+出口
+cluster5:(3)
+甲斐, 宮島, 平安
+cluster6:(1)
+花々
+cluster7:(3)
+登録重要文化財, 国宝, 文化財保護
+cluster8:(2)
+宝物, 宝物館
+cluster9:(2)
+歴史, 時代
+cluster10:(2)
+資料, 原本
+cluster11:(1)
+品々
+cluster12:(1)
+絵図
+cluster13:(1)
+経文
+cluster14:(1)
+扁額
+cluster15:(3)
+活用, 公開, 複製
+cluster16:(3)
+色, 印象, 模様
+cluster17:(2)
+数, 一部
+cluster18:(6)
+もの, ところ, 人, こと, セット, 場所
+cluster19:(1)
+国
+cluster20:(1)
+手
+cluster21:(5)
+丹念, 精神, 隆盛, 息, 質
+cluster22:(2)
+大きさ, 経箱
+cluster23:(17)
+宮島厳島神社, 昇殿料, 展示物, 展示, 美術工芸品, 勝海舟, 厳島神社, 宮島歴史民俗資料館, 拝観料, 美術品, 展示品, 平家一門, 入館料, 収蔵庫, 平家, 平家納経, 奉納品
+
+howmany entities : 74
+howmany clusters : 24
+howmany entities (more than1entities) : 74
+howmany clusters (more than1entities) : 24
+deleted 0entities.

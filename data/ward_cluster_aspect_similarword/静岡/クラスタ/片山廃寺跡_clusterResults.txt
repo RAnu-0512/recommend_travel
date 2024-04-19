@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:片山廃寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+金堂, 寺院, 奈良, 場所, 市, 跡, 礎石, 時代, 跡地, 保存状態, もの, 史跡
+cluster1:(3)
+片山廃寺, 古代寺院跡, 窯跡
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:ケンボーダイビングサービス--------------------
+top3 entities near to cluster0>>
+海魚, 海, 海水魚, 海水
+top3 entities near to cluster1>>
+お陰, おかげ, お蔭
+top3 entities near to cluster2>>
+装着, 体験, 着用
+top3 entities near to cluster3>>
+装具, 義肢, 義足

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マリンパーク御前崎 海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海水浴場, 御前崎マリンパーク海水浴場, 御前崎海水浴場
+cluster1:(2)
+駐車場, 駐車場無料
+cluster2:(10)
+灯台, 御前崎, 静波, マリンパーク御前崎, 弓ヶ浜, マリンパーク御前崎前, 岬, 富士山, 駿河湾, 風車
+cluster3:(22)
+目, ラーメン, 近隣, 水, こと, 下, 家, 海水浴, 定子供, 横, 写真, 滑り台, 景色, 波, 公園, 子供, 子ども, ファミリー, 前, 他, 風, ヘドロ
+cluster4:(3)
+何か, 透明度, ぶら市場
+cluster5:(14)
+砂, 牛舎, 海水, 牛糞, 海藻類, 海水浴客, 遠浅, 臭い, 水質, 海, 砂浜, プラスチックゴミ, 浜辺, ヘドロ砂
+cluster6:(1)
+静岡県最南端
+
+howmany entities : 55
+howmany clusters : 7
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 5
+deleted 3entities.

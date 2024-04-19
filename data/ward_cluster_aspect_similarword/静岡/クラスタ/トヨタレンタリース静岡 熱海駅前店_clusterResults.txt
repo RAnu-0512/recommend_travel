@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタレンタリース静岡 熱海駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+夫婦, 旅行
+cluster1:(2)
+車, 駅
+cluster2:(6)
+スタッフ, 中, レンタカー, インターネット, 問題, ホテル
+cluster3:(1)
+料金
+cluster4:(2)
+静岡, 可
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 7entities.

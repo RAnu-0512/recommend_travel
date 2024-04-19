@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:智頭往来>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+酒蔵, 酒
+cluster1:(2)
+日本, 全体
+cluster2:(7)
+参勤交代, オブジェ, あちこち, 方, 雰囲気, 思い入れ, フクロウ
+cluster3:(1)
+印象
+cluster4:(2)
+面影, 道標
+cluster5:(2)
+明治, 町屋
+cluster6:(2)
+町, 時代
+cluster7:(5)
+建物, 町並み, 街並み, 住宅, 街
+cluster8:(4)
+庭園, 木製, 家庭, 玄関
+cluster9:(3)
+大谷家, 映画監督, 杉玉
+cluster10:(1)
+駐車場
+cluster11:(1)
+特産品
+cluster12:(2)
+智頭往来の宿場町, 江戸時代に宿場町
+cluster13:(4)
+JR智頭駅, 智頭, 智頭宿, 智頭町
+cluster14:(5)
+街道沿い, 備前街道, 宿場町, 因幡, 因幡街道
+cluster15:(1)
+西河克己記念館
+
+howmany entities : 44
+howmany clusters : 16
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 16
+deleted 0entities.

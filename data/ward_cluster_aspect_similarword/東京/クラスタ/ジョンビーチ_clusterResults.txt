@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジョンビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+父島, 小笠原村父島
+cluster1:(4)
+海岸, 海, 砂浜, 秘境ビーチ
+cluster2:(7)
+ジョンビーチ, 方, 徒歩, ビーチ, 小笠原諸島, 時間, ジニービーチ
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

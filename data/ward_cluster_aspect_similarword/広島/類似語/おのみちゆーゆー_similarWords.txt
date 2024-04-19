@@ -1,0 +1,13 @@
+--------------------similar_words:おのみちゆーゆー--------------------
+top3 entities near to cluster0>>
+銭湯, 商店街, 商店
+top3 entities near to cluster1>>
+土産店, 土産
+top3 entities near to cluster2>>
+カフェ, 土産物, レストラン
+top3 entities near to cluster5>>
+土産物屋, みやげ物屋, 土産物, みやげ物
+top3 entities near to cluster6>>
+特産品, 名産品, 特産, 名産
+top3 entities near to cluster7>>
+豆腐, 杏仁, 包

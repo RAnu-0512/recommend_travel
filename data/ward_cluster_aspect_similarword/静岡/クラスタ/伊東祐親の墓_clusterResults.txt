@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊東祐親の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+伊東祐親, 伊東駅, 伊東家, 三浦義澄
+cluster1:(7)
+東林寺, 手, 人, 菩提寺, 場所, 西, 間
+cluster2:(2)
+墓, 高台
+cluster3:(1)
+台地
+cluster4:(1)
+端近く
+cluster5:(1)
+館跡
+cluster6:(3)
+住宅, 五輪塔, 住宅街
+cluster7:(1)
+物見塚公園
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 6entities.

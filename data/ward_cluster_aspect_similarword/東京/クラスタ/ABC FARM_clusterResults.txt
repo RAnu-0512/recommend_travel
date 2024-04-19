@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ABC FARM>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+苺狩り, いちご狩り, 苺
+cluster1:(2)
+車椅子使用, 併設
+cluster2:(10)
+娘, スタッフ, カフェ, ベビーカー, 他, 気, ところ, 種類, 感じ, いちご
+cluster3:(3)
+客, 施設, 道
+cluster4:(1)
+駐車場
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

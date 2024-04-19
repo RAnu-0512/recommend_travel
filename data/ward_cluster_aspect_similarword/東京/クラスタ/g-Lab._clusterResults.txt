@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:g-Lab.>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+宝石研磨, 原石の研磨, 研磨, 宝飾店, 研磨体験
+cluster1:(8)
+体験者, 興味, 体験, 機会, スタッフさんたち, Lab., 時間, 開始時間
+cluster2:(2)
+白手袋, 耐水ペーパー
+cluster3:(4)
+宝物, 宝石, 石, 原石
+cluster4:(6)
+店, 本店, 工房, 店員, 店長, 店内
+cluster5:(4)
+仕上げ作業, 指導, 案内, 清掃
+cluster6:(16)
+スタッフ, 最後, 右手, スーツケース, 天然石, 待ち時間, ルース, ココ, スティック, 前, 雰囲気, アクセサリー, 地元, スペース, 目, 階段
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 7
+deleted 0entities.

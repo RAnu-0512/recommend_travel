@@ -1,0 +1,19 @@
+--------------------similar_words:大森貝塚遺跡庭園--------------------
+top3 entities near to cluster0>>
+貝層, 貝, 貝殻
+top3 entities near to cluster1>>
+断層, 地層, 地質
+top3 entities near to cluster2>>
+線路, 電車, 車内
+top3 entities near to cluster4>>
+歴史人, 辺り, 歴史
+top3 entities near to cluster5>>
+発祥地, 起源地, 発祥, 起源
+top3 entities near to cluster8>>
+跡, 痕跡
+top3 entities near to cluster9>>
+徒歩, 駅, 距離
+top3 entities near to cluster11>>
+公園, 庭園, 広場
+top3 entities near to cluster13>>
+区, 区内, 都

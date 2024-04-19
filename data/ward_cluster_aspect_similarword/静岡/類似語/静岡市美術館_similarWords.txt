@@ -1,0 +1,13 @@
+--------------------similar_words:静岡市美術館--------------------
+top3 entities near to cluster0>>
+駅, 徒歩, 北口
+top3 entities near to cluster1>>
+基調, ロゴ, 白
+top3 entities near to cluster3>>
+美術館, デザイン, ショップ
+top3 entities near to cluster6>>
+建物, 館内, 写真
+top3 entities near to cluster7>>
+時間
+top3 entities near to cluster9>>
+美術, 絵画, 美術館

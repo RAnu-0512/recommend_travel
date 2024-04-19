@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コバルトライン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+景色, 景観, 絶景, 天気
+cluster1:(2)
+道, 海
+cluster2:(7)
+スポット, 名前, クルマ, 途中, コバルトライン, 方, 国東半島
+cluster3:(1)
+舗装
+cluster4:(7)
+平展望台, 山なみ, 萩の平, 萩, 室積海岸, 大分県, 駐車場
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

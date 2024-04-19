@@ -1,0 +1,11 @@
+--------------------similar_words:観音坂--------------------
+top3 entities near to cluster1>>
+観音, 地蔵, 坂
+top3 entities near to cluster2>>
+裏手, 裏道, 路地
+top3 entities near to cluster3>>
+勾配, 台地, 坂道
+top3 entities near to cluster4>>
+住宅地, 住宅, 徒歩
+top3 entities near to cluster5>>
+成院, 真院, 成, 真

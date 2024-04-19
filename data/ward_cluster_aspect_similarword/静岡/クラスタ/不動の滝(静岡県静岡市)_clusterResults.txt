@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:不動の滝(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+バス停, 場所, パワースポット, パワー, ところ
+cluster1:(2)
+不動, 滝
+cluster2:(1)
+駐車場
+cluster3:(1)
+観光名所
+cluster4:(1)
+不動公園自然公園
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 5entities.

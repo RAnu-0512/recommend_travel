@@ -1,0 +1,27 @@
+--------------------similar_words:陶芸工房えんのかま--------------------
+top3 entities near to cluster1>>
+くろ, 電動, じい
+top3 entities near to cluster2>>
+体験, 体験談, 陶芸
+top3 entities near to cluster8>>
+店員, 女性, 男性
+top3 entities near to cluster9>>
+態度, 指導
+top3 entities near to cluster11>>
+出来栄え, イメージ, スタイル
+top3 entities near to cluster12>>
+サポート, アドバイス, レクチャー
+top3 entities near to cluster13>>
+おかげ, 代わり, つくり
+top3 entities near to cluster14>>
+サイズ, マグカップ, アウター
+top3 entities near to cluster16>>
+気持ち, 話し方, 思い出
+top3 entities near to cluster18>>
+茶碗, 皿
+top3 entities near to cluster20>>
+苦労, 不安, 上手
+top3 entities near to cluster21>>
+完成, 作成
+top3 entities near to cluster23>>
+教え, 聞き

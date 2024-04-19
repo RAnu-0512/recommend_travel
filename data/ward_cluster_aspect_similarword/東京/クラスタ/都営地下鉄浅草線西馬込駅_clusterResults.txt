@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営地下鉄浅草線西馬込駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+近く, 時間
+cluster1:(3)
+特徴, 様子, こと
+cluster2:(13)
+地上, JR, 浅草線, 始発駅, 車庫, ホーム, 電車, 終着駅, 地下鉄, 終点, 乗り換え, 都心, 成田空港
+cluster3:(4)
+五反田駅, 西馬込駅, 駅, 都営
+cluster4:(1)
+池上梅園
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

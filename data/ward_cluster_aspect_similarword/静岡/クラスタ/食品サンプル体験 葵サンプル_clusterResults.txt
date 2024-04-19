@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:食品サンプル体験 葵サンプル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+追加, サンプル作り
+cluster1:(2)
+質問, 問題
+cluster2:(6)
+子, もの, 中, 作品, 他, 方
+cluster3:(17)
+スタッフ, 天ぷら, 作り方, 工房, おみやげ, 小学生, スイーツ, 家族, デコ, ストラップ, コース, パーツ, マグネット, サンプル, レイアウト, スイーツデコ, 親子
+cluster4:(4)
+食品サンプルづくり, 体験, 天ぷら体験, 老眼
+cluster5:(5)
+距離感, 海鮮丼, 瞬間接着剤, 具材, 職人さん達
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 4entities.

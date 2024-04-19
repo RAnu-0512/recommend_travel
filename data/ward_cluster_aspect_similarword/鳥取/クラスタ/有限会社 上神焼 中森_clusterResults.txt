@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有限会社 上神焼 中森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出発時間, 時間
+cluster1:(10)
+何か, 感じ, 気, 説明, 体験, 恨み, 予定, 事, 方, 作業
+cluster2:(18)
+初心者, イメージ, 品物, 作品, マグカップ, 真面目, 茶碗, 家族, 先生, じいさん, 気持ち, 手抜き, 湯呑み, 色, フランク, 最後, 娘, 記念
+cluster3:(1)
+焼き上がり
+cluster4:(3)
+陶芸体験, 丼ぶり, 陶芸
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 5
+deleted 0entities.

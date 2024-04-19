@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営新宿線 東大島駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+江戸川区, 江東区, 区
+cluster1:(6)
+バス, 荒川, 上, 子供達, ところ, 時間
+cluster2:(5)
+駅, 東大島駅, 小松川公園, 都営, 新宿線
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

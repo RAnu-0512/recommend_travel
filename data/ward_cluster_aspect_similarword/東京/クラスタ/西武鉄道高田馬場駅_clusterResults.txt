@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西武鉄道高田馬場駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, 難点
+cluster1:(10)
+スタバ, 手洗い, 人, アイスショー, 西武新宿, ホーム, 高田馬場, 西武新宿線, ベンチ, 乗り換え
+cluster2:(1)
+パン屋
+cluster3:(6)
+下り電車, 距離, 電車, 時間帯, 移動距離, 通勤通学
+cluster4:(14)
+西武線, 新宿駅, 山手線, 西武改札口, 所沢方面, ココ高田馬場駅, 駅, 西武鉄道高田馬場駅, 東伏見スケート場, 東京メトロ東西線, JR線, 東京メトロ, 新宿, 駅構内
+
+howmany entities : 33
+howmany clusters : 5
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 5
+deleted 0entities.

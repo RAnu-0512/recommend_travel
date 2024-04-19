@@ -1,0 +1,37 @@
+--------------------similar_words:亀有のこち亀像--------------------
+top3 entities near to cluster1>>
+中止, 開催, 延期
+top3 entities near to cluster3>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster5>>
+ポスター, パンフレット, グッズ
+top3 entities near to cluster6>>
+目当て, めぼしい, 目あて
+top3 entities near to cluster7>>
+マップ, ＭＡＰ, ダンジョンマップ
+top3 entities near to cluster8>>
+キャラ, キャラクター, アニメ
+top3 entities near to cluster9>>
+かおり, 香織, ゆい
+top3 entities near to cluster10>>
+人情味, 手弁当, 人間味
+top3 entities near to cluster12>>
+ラリー, クイズ, トーナメントボキャブ
+top3 entities near to cluster14>>
+北口, 南口, 東口
+top3 entities near to cluster15>>
+アニメ, 劇場, 漫画
+top3 entities near to cluster16>>
+店舗, 施設
+top3 entities near to cluster17>>
+駅街, 周辺街, 駅, 周辺
+top3 entities near to cluster18>>
+区, 区内, 区役所
+top3 entities near to cluster19>>
+交番, 消防署
+top3 entities near to cluster20>>
+銅像, 写真
+top3 entities near to cluster22>>
+駅, 亀戸, 駅前
+top3 entities near to cluster27>>
+公園, 公園前, 派出所

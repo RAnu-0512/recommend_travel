@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光増寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+寺, 親鸞聖人, 浄土宗, 蓮池院, 山号, 摂取山
+cluster1:(3)
+発刊葛飾区, 葛飾区教育委員会, 葛飾区
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

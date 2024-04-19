@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:釜鶴ひもの 本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+客, 店主, 妻, 熱海, 旨さ, 身, 知人, 値段, 伊勢, あじ, 太刀魚, 接客, 人, 自宅, 感じ, 鮎, オンライン, 伊勢エビ, 義母, リクエスト, 魅力, 人柄, カマス, 女将, 味, 老舗, ひもの, 五代目, 方, 旬, 塩加減
+cluster1:(4)
+干物屋, 干物, 熱海は干物屋, 釜鶴ひもの本店
+
+howmany entities : 35
+howmany clusters : 2
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 2
+deleted 0entities.

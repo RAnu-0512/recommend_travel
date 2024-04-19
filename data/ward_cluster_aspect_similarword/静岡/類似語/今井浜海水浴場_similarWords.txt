@@ -1,0 +1,41 @@
+--------------------similar_words:今井浜海水浴場--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 駐輪場
+top3 entities near to cluster2>>
+大人, 子供, 子ども
+top3 entities near to cluster3>>
+子供, 子ども, 親達
+top3 entities near to cluster6>>
+透明感, 透明度, 透明
+top3 entities near to cluster8>>
+シュノーケリング, 海水浴, アトラクション
+top3 entities near to cluster9>>
+海水浴, ビーチ, 砂浜
+top3 entities near to cluster10>>
+子人, 娘, 子
+top3 entities near to cluster12>>
+日, 時間, 時
+top3 entities near to cluster13>>
+隣, 近隣, 向かい側
+top3 entities near to cluster14>>
+利用, 到着, 目的
+top3 entities near to cluster18>>
+道路沿い, 道路, 歩道沿い, 歩道
+top3 entities near to cluster20>>
+駅, 温泉, 宿
+top3 entities near to cluster24>>
+カニ, 浮き, 遊泳
+top3 entities near to cluster26>>
+砂, 撒管, 砂利
+top3 entities near to cluster27>>
+海水, 水質, 温水
+top3 entities near to cluster28>>
+砂利, 岩, 岩場
+top3 entities near to cluster29>>
+大波, 浮輪
+top3 entities near to cluster30>>
+海岸, 浜, 砂浜
+top3 entities near to cluster31>>
+海魚, 海, 海中
+top3 entities near to cluster32>>
+拾い, ゴミ, 拾っ

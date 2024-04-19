@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ならここの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+温泉, 大東温泉, 掛川城, 湯
+cluster1:(3)
+電話相手, 電話, 電話対応
+cluster2:(2)
+自然いっぱい, 自然
+cluster3:(7)
+客, 年齢, 大人, 学生, 人, 男性, 子供
+cluster4:(10)
+折り返し, キャンプ帰り, 川, 山間, キャンプ, WiFi, 頼み, 夏, 部屋, コテージ
+cluster5:(5)
+態度, こと, 状況, キャンプ場, 場所
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 5
+deleted 2entities.

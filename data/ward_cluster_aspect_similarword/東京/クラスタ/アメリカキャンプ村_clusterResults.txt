@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アメリカキャンプ村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+大人, 子供, 家族, 息子, 子供達
+cluster1:(2)
+キャンプ場, BBQ場
+cluster2:(3)
+山, 川, アメリカキャンプ村
+cluster3:(6)
+アスレチック, カーテン, コテージ, ログハウス, キャンプ, バーベキュー
+cluster4:(2)
+釣り堀, 魚釣り
+cluster5:(1)
+釣り
+cluster6:(10)
+場所, 運動, 設備, 洋風, 近く, キャンプ地, 休憩, 部屋, 中, 目
+cluster7:(1)
+車中爆睡
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 8
+deleted 0entities.

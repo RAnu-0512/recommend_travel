@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:徳川家康公鷹狩り像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+家康像, 英雄家康, 家康, 徳川家康公, 徳川家康, 家康公
+cluster1:(2)
+駿府, 駿府城内
+cluster2:(2)
+駿府城址, 駿府城公園
+cluster3:(3)
+銅像本丸跡, 本丸跡, 天守台
+cluster4:(3)
+発掘調査, 発掘作業, 発掘調査現場
+cluster5:(2)
+鷹, 鷹狩り
+cluster6:(6)
+隣, 斜め左, 中央近く, 木, 後ろ, 脇
+cluster7:(18)
+駿府公園, 手植え, 姿, 立ち姿, 大河ドラマ, 見学, 写真, 地図, ところ, 人, 時間, ミカン, 公園, シルエット, イメージ, 前, 現場, 主役
+cluster8:(3)
+銅像, 像, 威厳
+
+howmany entities : 45
+howmany clusters : 9
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 6
+deleted 6entities.

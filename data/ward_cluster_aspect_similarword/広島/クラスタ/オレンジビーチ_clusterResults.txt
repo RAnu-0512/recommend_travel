@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オレンジビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+機会, グリーンピアせ, 海水浴場
+cluster1:(2)
+波, 潮
+cluster2:(2)
+プール側, 敷地
+cluster3:(9)
+子供, 出入り口, オレンジビーチ, シャワー, 利用, プール, 娘, 海, ビーチ
+cluster4:(1)
+透明度
+cluster5:(2)
+更衣室, 豪雨災害
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

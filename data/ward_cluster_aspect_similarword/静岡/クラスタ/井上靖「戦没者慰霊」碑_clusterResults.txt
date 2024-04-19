@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井上靖「戦没者慰霊」碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+慰霊, 慰霊碑, 戦没者
+cluster1:(8)
+井上靖, 文字, 世界大戦, 石, 間愛, 石造り, 方々, 石碑
+cluster2:(1)
+井上靖 戦没者慰霊碑
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 1entities.

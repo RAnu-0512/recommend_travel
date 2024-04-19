@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ千代田線根津駅--------------------
+top3 entities near to cluster1>>
+駅, 入口, 徒歩
+top3 entities near to cluster3>>
+駅線, 駅, 構内
+top3 entities near to cluster4>>
+忍池, 忍, 戴立

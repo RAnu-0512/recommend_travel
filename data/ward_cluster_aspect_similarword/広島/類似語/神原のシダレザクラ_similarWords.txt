@@ -1,0 +1,11 @@
+--------------------similar_words:神原のシダレザクラ--------------------
+top3 entities near to cluster1>>
+桜, 満開, 花見
+top3 entities near to cluster2>>
+枝ぶり, 枝, 枝葉
+top3 entities near to cluster3>>
+巨木, 大木, 滝
+top3 entities near to cluster5>>
+樹高, 草丈, 株立
+top3 entities near to cluster7>>
+シダ, 桜, ハギ

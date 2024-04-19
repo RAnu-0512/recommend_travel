@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山町観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大山, 大山ナショナルパークセンター, 大山観光
+cluster1:(15)
+英, パンフレット, まわり, 語, 登山, 参道, ところ, 大山寺, 拠点, 前, レンタサイクル, マップ, 方, カフェ, 情報
+cluster2:(2)
+充電コンセント, 携帯電話
+cluster3:(7)
+県営駐車場, 大山町観光案内所, 案内所, 観光客, 観光案内所, 休憩所スペース, 駐車場
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

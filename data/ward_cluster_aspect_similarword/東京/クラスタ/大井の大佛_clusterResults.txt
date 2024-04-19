@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大井の大佛>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大井, 坂
+cluster1:(18)
+雨, コッチ, 建物, 極楽浄土, 気, 気持ち, 近く, 迫力, 引き戸, 道のり, 仕事, 事, 駅, 寺, 御利益, お参り, 中, 右側
+cluster2:(1)
+住宅街
+cluster3:(1)
+芝高輪
+cluster4:(9)
+五智如来, 大佛 如来寺, 如来, 大仏, 大佛, 大佛殿, 五体満足, 大仏様, 大佛様
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 5
+deleted 0entities.

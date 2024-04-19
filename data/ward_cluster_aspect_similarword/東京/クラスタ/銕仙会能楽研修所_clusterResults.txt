@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銕仙会能楽研修所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+能, 扇, 狂言, 能面
+cluster1:(3)
+舞台, 台本, 衣装
+cluster2:(10)
+最後, 気, 気分, 文化, 体験, 点, 休憩, すり足, 方, 先生
+cluster3:(5)
+はめ, 踊り, 腕時計, 動き, 時計
+cluster4:(1)
+基礎知識
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

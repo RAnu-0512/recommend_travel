@@ -1,0 +1,23 @@
+--------------------similar_words:冠山総合公園--------------------
+top3 entities near to cluster0>>
+バラ, 四季, 季節
+top3 entities near to cluster1>>
+駐車料, 入場料, 駐車, 入場
+top3 entities near to cluster2>>
+梅, 桜, 菖蒲
+top3 entities near to cluster3>>
+時期, 季節, 時季
+top3 entities near to cluster4>>
+花, お花, 緑
+top3 entities near to cluster5>>
+散歩, 運動, ジョギング
+top3 entities near to cluster6>>
+手入れ, ジョギング, ボタン
+top3 entities near to cluster7>>
+滑り台, 上り坂, すべり台
+top3 entities near to cluster8>>
+家族, 子供, 子ども
+top3 entities near to cluster9>>
+公園, 広場, 祭り
+top3 entities near to cluster10>>
+冠山, 公園, 総合

@@ -1,0 +1,19 @@
+--------------------similar_words:東京湾納涼船_竹芝ーレインボーブリッジーお台場ー羽田--------------------
+top3 entities near to cluster0>>
+飲み放題, 飲み, 呑み
+top3 entities near to cluster2>>
+夜景, レインボーブリッチ, レンボーブリッジ
+top3 entities near to cluster3>>
+クルーズ, ライト, デッキ
+top3 entities near to cluster4>>
+ホテル, デート, ツアー
+top3 entities near to cluster6>>
+人達, 客層
+top3 entities near to cluster7>>
+割引, 混雑, 体験
+top3 entities near to cluster8>>
+祭り, 気分, 夏
+top3 entities near to cluster9>>
+日地, 予定地, 予定, 日
+top3 entities near to cluster10>>
+客船, 船内

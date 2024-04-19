@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稗田神社(東京都大田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+梅, 香
+cluster1:(6)
+季節, 中, 数, 雰囲気, 感じ, もの
+cluster2:(9)
+蒲田駅, 参道, JR, 神社, 境内, 江戸時代, 石鳥居, 住宅街, 徒歩
+cluster3:(1)
+京急蒲田駅
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

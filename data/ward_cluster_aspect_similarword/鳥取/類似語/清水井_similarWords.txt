@@ -1,0 +1,11 @@
+--------------------similar_words:清水井--------------------
+top3 entities near to cluster1>>
+命薬, 命体, 命
+top3 entities near to cluster2>>
+伝説, 策略, 陰謀
+top3 entities near to cluster4>>
+母乳, 搾乳, 乳汁
+top3 entities near to cluster5>>
+国主, 大, 超大
+top3 entities near to cluster6>>
+井, 清水, 岡

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:府中市郷土の森博物館の梅園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+河原駅, 府中市
+cluster1:(2)
+森梅園, 梅園
+cluster2:(3)
+森博物館, 森, 森公園
+cluster3:(1)
+駐車場
+cluster4:(39)
+遅咲き, 梅まつり, 開催, 多く, 入口, 花, 暖冬, 人, 足元, 訪れ, 満開時期, たんぽぽ, 鉢植え, 木, 近く, 外縁, 蝋梅, 郷土, 開催時期, 中咲き, 時期, 博物館, 見比べ, 福寿草, 左端, 写真, 敷地, 早咲き, 徒歩, 梅, 地図, 歴史, こと, 梅祭, お陰, 園内, 満開, 香り, 京王線
+
+howmany entities : 47
+howmany clusters : 5
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 5
+deleted 0entities.

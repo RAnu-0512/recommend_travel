@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香りの丘茶ピア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+茶, 茶文化, 茶道
+cluster1:(3)
+体験, 場所, 故郷
+cluster2:(2)
+静岡, 葉
+cluster3:(1)
+茶摘み体験
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 3entities.

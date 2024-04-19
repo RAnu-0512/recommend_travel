@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:筆塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+熊野, 筆, 熊野筆
+cluster1:(2)
+碑, 筆塚
+cluster2:(2)
+形, 字
+cluster3:(1)
+塚
+cluster4:(1)
+達筆祈願
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

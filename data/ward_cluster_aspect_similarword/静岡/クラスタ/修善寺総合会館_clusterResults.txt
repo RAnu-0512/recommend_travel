@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修善寺総合会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+火山, 地形, 岩石
+cluster1:(7)
+母娘, 役場, 客, 無人, 母, 職員, 教会
+cluster2:(21)
+興味, 砂, 案内, 所, ジオリア, 数々, 展示, ランチ, こと, 川, 行き方, 修善寺, 伊豆, 成り立ち, 映像, 中, 対岸, ミニシアター, 実験, 小雨, 伊豆半島
+cluster3:(5)
+駐車場, 公共施設, 温泉街, 観光散策, 観光協会
+
+howmany entities : 36
+howmany clusters : 4
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 4
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二重橋スクエア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+エリア, レストラン
+cluster1:(1)
+丸の内
+cluster2:(1)
+有楽町エリア
+cluster3:(1)
+間
+cluster4:(1)
+ビル
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

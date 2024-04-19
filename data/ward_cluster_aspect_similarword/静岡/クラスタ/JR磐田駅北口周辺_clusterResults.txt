@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR磐田駅北口周辺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+選手足型レリーフ, 足型
+cluster1:(4)
+磐田駅, 駅, 北口, 大楠
+cluster2:(13)
+選手, サッカーチーム, ホテル, ジュビロ色, ベンチ, ところ, 選手達, ジュビロ磐田, 観光, ファン, ショッピングセンター, アリオ, 方々
+cluster3:(1)
+キャラしっぺい太郎像としっぺい太郎
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 3entities.

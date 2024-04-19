@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ドンキホーテ 新宿東南口店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ドラッグストア, ドン・キホーテ
+cluster1:(1)
+他
+cluster2:(1)
+駅
+cluster3:(1)
+殿堂
+cluster4:(1)
+東南口
+cluster5:(1)
+JR新宿駅
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

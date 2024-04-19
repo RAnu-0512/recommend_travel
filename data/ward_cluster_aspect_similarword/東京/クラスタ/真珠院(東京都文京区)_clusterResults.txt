@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真珠院(東京都文京区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+全員, 隣, 家, ところ, 水野, 手, 前, 方, 布袋尊, 阿弥陀如来
+cluster1:(2)
+通院, 法事
+cluster2:(2)
+石碑, 墓所
+cluster3:(2)
+小石川七福神, 寺
+cluster4:(1)
+宝船
+cluster5:(1)
+於大
+cluster6:(4)
+丸い本堂, 御本尊, 本堂, 真珠院
+cluster7:(1)
+念速寺
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

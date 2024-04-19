@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿武町 町民センター・文化ホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ホール, 文化ホール
+cluster1:(1)
+音響
+cluster2:(1)
+町民センター
+cluster3:(1)
+固定イス
+cluster4:(1)
+阿武町
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

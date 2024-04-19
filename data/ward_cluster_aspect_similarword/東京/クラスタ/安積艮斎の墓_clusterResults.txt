@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安積艮斎の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墓, 墓地
+cluster1:(3)
+他, 江戸, 妙源寺
+cluster2:(1)
+儒学者
+cluster3:(1)
+安積艮斎
+cluster4:(1)
+江戸時代後期
+cluster5:(1)
+堀切菖蒲園駅
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

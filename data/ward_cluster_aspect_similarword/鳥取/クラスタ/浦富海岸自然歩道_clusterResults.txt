@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浦富海岸自然歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+道, 入口, 階段
+cluster1:(12)
+ガイド, ジオパーク, 浦富海岸, 中心, 説明, 遊歩道, 感動, 人, 自然, 上, 形, 途中
+cluster2:(8)
+船, 海, 港, 崖, 浦富海岸島, 景色, 景観, 砂浜
+cluster3:(1)
+自然歩道
+cluster4:(3)
+展望台, 尾根筋, 駐車場
+cluster5:(1)
+前途多難
+cluster6:(9)
+鴨ヶ磯展望所, 海岸線, 網代港, 海岸沿い, 巡り遊覧船, 城原海岸, 遊覧船, 河口港沿い, 鳥取駅
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立シンボルプロムナード公園 滝の広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+緑, 緑道
+cluster1:(2)
+水, く水
+cluster2:(3)
+噴水, 公園, 広場
+cluster3:(2)
+地上, 階段
+cluster4:(2)
+右, 縦長
+cluster5:(2)
+場所, 方法
+cluster6:(2)
+空間, 風
+cluster7:(6)
+子ども, 間, テレコムセンター, ウォーキング, 夢中, 人混み
+cluster8:(1)
+休憩
+cluster9:(1)
+広さ
+cluster10:(4)
+台場観光, 湾岸スタジオ, 都立シンボルプロムナード, 東京テレポート駅
+cluster11:(4)
+公園滝, 滝の広場, 滝, 都立シンボルプロムナード公園滝
+
+howmany entities : 31
+howmany clusters : 12
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 12
+deleted 0entities.

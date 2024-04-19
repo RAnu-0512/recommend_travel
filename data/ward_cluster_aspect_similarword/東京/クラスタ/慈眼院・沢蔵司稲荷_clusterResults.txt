@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:慈眼院・沢蔵司稲荷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+慈眼院境内のお稲荷, 沢蔵司稲荷神社, 澤蔵司稲荷
+cluster1:(4)
+小石川善光寺, 慈眼院, 源覚寺, 塔頭寺院
+cluster2:(26)
+春日駅, 神社, 狐, 御本尊, 人, 鳥居, 句碑, 本堂, こんにゃく閻魔, 善光寺坂, 通院, 発祥, 神仏混, 寺院, 寺, そば, ころ, 地下鉄, 徒歩, 歴史, こと, 芭蕉, 境内, 都営, 文京区, 最寄駅
+
+howmany entities : 33
+howmany clusters : 3
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 3
+deleted 0entities.

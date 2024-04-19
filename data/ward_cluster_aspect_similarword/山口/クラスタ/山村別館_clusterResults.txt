@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山村別館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+好感, パックツアー, JR, 泉質, 料理, 宿泊, 徒歩, 長門駅, 送迎, 和室, 露天風呂, 洋室, トイレ
+cluster1:(2)
+全室バス, 和洋室
+cluster2:(2)
+ふぐ料理付, 徴収会席
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

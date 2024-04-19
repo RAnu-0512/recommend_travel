@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堂ケ島遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+堂ヶ島, 堂ヶ島天窓洞, 堂ケ島遊歩道
+cluster1:(2)
+てんそうどう, 迫力満てん
+cluster2:(8)
+石畳, 亀岩, 段差, 岩, 岩場, 斜面, 穴, 階段
+cluster3:(6)
+写真, 景観, 夕日, 景色, 観光, 風景
+cluster4:(4)
+間近, 見学, 見所, 定番スポット
+cluster5:(9)
+西伊豆, ポイント, コース, ところ, 遊歩道, 自然, スポット, スニーカー, 風
+cluster6:(2)
+途中, 時間
+cluster7:(4)
+こと, 目的, 場所, 方
+cluster8:(3)
+下, 比較, 上
+cluster9:(4)
+地上, 周辺, 小雨, 方面
+cluster10:(1)
+見え方
+cluster11:(23)
+土肥, 船, 欠航, 陸上散策観光, 海岸, 島, 白波, 波しぶき, 伊豆, 三四郎島, 海岸伝い, 洞窟巡り, 海, 波, 松島, 堂, 天窓洞, 海岸沿い, 洞窟めぐり, 洞窟, 島々, 陸, 遊覧船
+
+howmany entities : 69
+howmany clusters : 12
+howmany entities (more than3entities) : 64
+howmany clusters (more than3entities) : 9
+deleted 5entities.

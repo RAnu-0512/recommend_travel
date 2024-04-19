@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笠山コウライタチバナ自生地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+萩市笠山, 萩市, 萩・椿まつり
+cluster1:(2)
+山口県, 山口県萩市
+cluster2:(3)
+笠山, ここ笠山, 笠山コウライタチバナ
+cluster3:(2)
+椿, ユズ
+cluster4:(6)
+各所, 北側, 北部, 国, 日本, 唯一
+cluster5:(7)
+コウライタチバナ, もの, スポット, 天然記念物, 雑木林, 植物, 虎ヶ崎
+cluster6:(1)
+幸運
+cluster7:(1)
+ミカン科
+cluster8:(1)
+案内看板
+cluster9:(7)
+自生地, 天然記念物指定, 指定地, 常緑高木, 椿群生林, 天然記念物指定地, 絶滅危惧植物
+
+howmany entities : 33
+howmany clusters : 10
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 10
+deleted 0entities.

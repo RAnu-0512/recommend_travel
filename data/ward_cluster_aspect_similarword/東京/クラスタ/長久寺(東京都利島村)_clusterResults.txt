@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長久寺(東京都利島村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, 長久寺
+cluster1:(1)
+姿
+cluster2:(1)
+島
+cluster3:(1)
+指定保護樹木
+cluster4:(1)
+東京都利島村
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

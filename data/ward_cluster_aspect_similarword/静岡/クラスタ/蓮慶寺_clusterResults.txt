@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮慶寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海岸方面, 地元漁師
+cluster1:(2)
+屋敷跡, 屋敷
+cluster2:(2)
+しだれ桜, 桜
+cluster3:(7)
+日蓮宗, 途中, こと, スペース, ツツジ, 道路, 到着
+cluster4:(5)
+岩屋, 境内, 寺院, 日蓮, 寺
+cluster5:(4)
+日蓮上人, 蓮慶寺, 日蓮上人ゆかり, 伊豆急川奈駅
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 6entities.

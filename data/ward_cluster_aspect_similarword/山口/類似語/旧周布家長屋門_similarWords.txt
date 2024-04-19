@@ -1,0 +1,17 @@
+--------------------similar_words:旧周布家長屋門--------------------
+top3 entities near to cluster1>>
+屋敷, 住宅, 武家
+top3 entities near to cluster2>>
+木造, 建物
+top3 entities near to cluster4>>
+海岸, 公園, 砂浜
+top3 entities near to cluster5>>
+時代, 歴史, 昔
+top3 entities near to cluster7>>
+長屋門, 町並み, 時代物
+top3 entities near to cluster9>>
+武士, 七衛
+top3 entities near to cluster10>>
+大きい, 重厚, 力強い
+top3 entities near to cluster11>>
+中期, 時代, 後期

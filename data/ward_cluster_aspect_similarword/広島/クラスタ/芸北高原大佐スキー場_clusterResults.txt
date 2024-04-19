@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芸北高原大佐スキー場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島市, 広島県, 山県郡北広島町
+cluster1:(5)
+駐車場, 大佐スキー場, スキー場, 駐車場代, 大佐
+cluster2:(5)
+雪, 雪質, 春スキー, 降雪, 冬
+cluster3:(7)
+レッスン, スポット, スポーツ, コース, ウィンタースポーツ, フロア, バリエーション
+cluster4:(6)
+スキー, スノボー, リフト, スノボ, スキーヤー, ゲレンデ
+cluster5:(3)
+方, 初心者コース, 初心者
+cluster6:(10)
+息子, 子供, 幼児, 学生, 孫, 人, 大人, 家族, 子ども, 遊び場
+cluster7:(18)
+施設, 高速, 希望, 団体, 状態, 電話, スキー板, 天気, 車, デー, 北広島町, 現地, コース幅, 前, 立地, 旅行, 道, 場所
+cluster8:(2)
+家族連れ, リフト券
+cluster9:(1)
+清潔感
+
+howmany entities : 60
+howmany clusters : 10
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 10
+deleted 0entities.

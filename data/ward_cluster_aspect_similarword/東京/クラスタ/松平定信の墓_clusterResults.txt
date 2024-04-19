@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松平定信の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+地蔵, 墓, 墓石, 史跡
+cluster1:(9)
+所, 子供, 緑, 改革, イメージ, 周り, 看板, 雰囲気, 復習
+cluster2:(5)
+白河, 江戸六地蔵, 清澄, 江戸時代, 寛政
+cluster3:(2)
+霊巌寺, 霊厳寺
+cluster4:(2)
+松平定信, 松平定信の墓
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

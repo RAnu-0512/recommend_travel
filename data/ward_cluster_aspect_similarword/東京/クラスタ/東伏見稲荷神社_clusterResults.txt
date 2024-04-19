@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東伏見稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+伏見稲荷, 京都伏見稲荷大社, 伏見神社, 京都伏見稲荷, 伏見稲荷神社, 伏見稲荷大社
+cluster1:(36)
+場所, 後ろ, 字, 兄さん, 手書き, 東京, 人, 公園, ハンコ, 御朱印, 気, 東伏見, 無愛想, 京都, ところ, 事, 払い, 日付, 西武新宿線, 小学生レベル, 規模, 輪, 地名, 朱色, 西武鉄道, 身, インパクト, 方, 茅, バス, 雰囲気, 地元, 部分, 厄, 目, マジック
+cluster2:(2)
+御朱印帳, 朱印
+cluster3:(2)
+参拝, 初詣
+cluster4:(4)
+神社, 本殿, 社殿, 境内
+cluster5:(2)
+分社, 分霊
+cluster6:(6)
+京都駅, 駐車場, 距離, 観光客, 徒歩, 東伏見駅
+cluster7:(5)
+朱塗り, 鳥居, 千本鳥居, 鳥居群, 厄祓
+cluster8:(2)
+東伏見稲荷, 稲荷
+cluster9:(2)
+東伏見稲荷神社, 稲荷神社
+cluster10:(1)
+西武柳沢駅
+
+howmany entities : 68
+howmany clusters : 11
+howmany entities (more than1entities) : 68
+howmany clusters (more than1entities) : 11
+deleted 0entities.

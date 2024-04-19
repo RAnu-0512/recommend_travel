@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:BEAMS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+店, 渋谷店, 値段, 店舗, 接客, 服, 店員
+cluster1:(11)
+良さ, セレクトショップ, 品性, BEAMS, アイテム, ブランド, フレンドリー, 買い物, センス, ファッション, コーディネート
+cluster2:(2)
+品揃え, 清潔感
+cluster3:(1)
+中山彩花
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

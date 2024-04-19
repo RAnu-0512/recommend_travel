@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Gallery AaMo>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+作品, 東京ドームシティ, 美術館
+cluster1:(2)
+展, TOKYO ART CITY展
+cluster2:(1)
+ねこ画展
+cluster3:(1)
+細田守
+cluster4:(1)
+未来のミライ
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

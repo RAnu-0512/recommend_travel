@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:株式会社 戸山流備前会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+重量感, 感
+cluster1:(19)
+お蔭, ガラス越し, 確認, 参考, 戦闘方法, 方法, 準備, 姿, 免状, 連絡, 興味, 体験, 予約, 感触, 方, 勉強, こと, 説明, 経験
+cluster2:(7)
+人, 外国, 語, 文化, 英, 日本, 歴史
+cluster3:(18)
+会長, 試し斬り, 師範代, 気持ち, 刀, 道具, 指導, 手, 博物館, ワクワク, 素材, ウロコ, 先生, 腕, サイズ, 試し切り, 鏡, 映画館
+cluster4:(3)
+袴, 初伝, 着物
+cluster5:(1)
+時代劇
+cluster6:(1)
+巻き藁
+cluster7:(1)
+右充可ス
+cluster8:(1)
+゚∀゚
+
+howmany entities : 53
+howmany clusters : 9
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 9
+deleted 0entities.

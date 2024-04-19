@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:(一社)焼津市観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+静岡, 焼津市, 南口駅, 南口, JR焼津駅
+cluster1:(2)
+観光, 観光協会
+cluster2:(2)
+案内所, 観光案内所
+cluster3:(3)
+資料, 仕事, 駅
+cluster4:(10)
+パンフレット, ショーウインドウ, ロータリー, 目的, キグルミ, イメージ, 前, 他, 海産物, マスコットキャラクター
+cluster5:(1)
+やいちゃん
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 5entities.

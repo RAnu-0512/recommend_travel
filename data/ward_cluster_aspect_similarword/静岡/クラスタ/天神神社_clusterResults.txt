@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天神神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+運慶, 金剛力士像, 御開帳, 如来像
+cluster1:(2)
+階段, 高台
+cluster2:(2)
+仏像, 本殿
+cluster3:(10)
+ボランティア, 地元, 祭り, 文化財, 大日如来, 蓮台寺しだれ, 国, 蓮台寺, 日, 地元ボランティア
+cluster4:(3)
+静岡県, 天神神社, 下田市
+cluster5:(1)
+蓮台寺しだれ桃の里祭り
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 5entities.

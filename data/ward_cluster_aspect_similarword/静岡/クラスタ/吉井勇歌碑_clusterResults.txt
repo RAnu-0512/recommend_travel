@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉井勇歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡県, 静岡市
+cluster1:(6)
+歴史, スポット, 歌, 昭和, もの, ところ
+cluster2:(3)
+歌人, 句, 歌碑
+cluster3:(1)
+吉井勇歌碑
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 3entities.

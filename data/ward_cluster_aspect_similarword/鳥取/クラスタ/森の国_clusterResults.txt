@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森の国>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体験料, 入場料
+cluster1:(3)
+晴れ, 雨, 雪
+cluster2:(5)
+息子, 家族, 人, 大人, 子供
+cluster3:(2)
+コロナ, アルミ
+cluster4:(7)
+バームクーヘン, バームクーヘンつくり, アスレチック, ブランコ, スタッフ, 値引き, 小学生
+cluster5:(2)
+外, 自然
+cluster6:(1)
+大山
+cluster7:(11)
+中1, 感じ, 中, 体験, アウトドア体験, コツ, 小学生&幼稚園, アスレチック場, 火おこし, 方, 状況
+cluster8:(5)
+バウムクーヘン作り, 小物レンタルあり, 生地作り, 生地, 焼きたて
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 9
+deleted 0entities.

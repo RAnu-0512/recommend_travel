@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:不動院金堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+感じ, もみじ, 不動院, 見ごたえ, 佇まい, 紅葉
+cluster1:(4)
+歴史, 木造, 外観, 敷地
+cluster2:(1)
+国宝
+cluster3:(1)
+堂
+cluster4:(1)
+期待外れ
+cluster5:(4)
+金堂, 不動院金堂, 中区, 広島市
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

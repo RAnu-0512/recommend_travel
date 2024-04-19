@@ -1,0 +1,19 @@
+--------------------similar_words:品川寺--------------------
+top3 entities near to cluster0>>
+青物, 横丁, 駅
+top3 entities near to cluster1>>
+子供, 子ども, 親達
+top3 entities near to cluster2>>
+彫刻, 絵画
+top3 entities near to cluster3>>
+御朱印, 受付, 佇まい
+top3 entities near to cluster5>>
+銀杏, 紅葉, 桜
+top3 entities near to cluster6>>
+銅門, 鐘門, 鐘, 銅
+top3 entities near to cluster7>>
+めぐり, ほん
+top3 entities near to cluster8>>
+本堂, 大仏, 寺
+top3 entities near to cluster9>>
+本山, 醍醐, 別格

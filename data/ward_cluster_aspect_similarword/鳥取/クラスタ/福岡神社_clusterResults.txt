@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福岡神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+丸太, 男たち, 神社, 鳥取, ひとつ, 祭り, 人, 裸, 福岡神社
+cluster1:(2)
+日本三大奇祭, 蛸舞式神事
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

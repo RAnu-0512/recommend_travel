@@ -1,0 +1,15 @@
+--------------------similar_words:陣所の館--------------------
+top3 entities near to cluster0>>
+温泉, 湯, 銭湯
+top3 entities near to cluster1>>
+無形, 伝統, 行事
+top3 entities near to cluster2>>
+館, 入館, 資料
+top3 entities near to cluster3>>
+祭り, 催し物, 展示
+top3 entities near to cluster4>>
+陣所, 綱, 陣鐘
+top3 entities near to cluster5>>
+大綱引き, 大綱, ずる
+top3 entities near to cluster6>>
+大会, 大綱, 温泉

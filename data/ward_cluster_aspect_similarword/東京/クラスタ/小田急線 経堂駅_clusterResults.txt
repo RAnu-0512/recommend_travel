@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急線 経堂駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+活気, カフェ, 店舗, 人, 大将, 小田急, 近く, 駅, 時間帯, 学生, パブ, 駅前, 寿司屋, 試験
+cluster1:(7)
+経堂駅, 東京農大, 急行, 急行電車, 駅周辺, 商店街, 小田急線
+cluster2:(1)
+線化工事
+cluster3:(1)
+調理師免許
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

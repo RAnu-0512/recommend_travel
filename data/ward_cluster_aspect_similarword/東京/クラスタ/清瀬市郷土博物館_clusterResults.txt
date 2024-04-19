@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清瀬市郷土博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+人, 市, 歴史, 資料館, 親子連れ, 大人, ところ, 機会, 場所, バス停, 博物館, スタンプラリー, 徒歩, 展示
+cluster1:(3)
+清瀬市, 西武池袋線, 清瀬駅
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

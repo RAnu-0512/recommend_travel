@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三条実美墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+明治, 元勲
+cluster1:(3)
+人物, 場所, 出身
+cluster2:(2)
+墓, 本堂
+cluster3:(1)
+公家
+cluster4:(1)
+墓地内
+cluster5:(1)
+三条実美
+cluster6:(1)
+真言宗豊山派寺院・護国寺
+
+howmany entities : 11
+howmany clusters : 7
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 7
+deleted 0entities.

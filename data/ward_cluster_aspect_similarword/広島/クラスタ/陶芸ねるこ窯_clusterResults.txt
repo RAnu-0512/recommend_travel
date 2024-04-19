@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶芸ねるこ窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人懐こい看板猫, 看板猫
+cluster1:(2)
+猫, 猫ちゃん
+cluster2:(30)
+エプロン持参, 先生, 教室, 駐車場, 作品作り, 口コミ, 爪, 店, 色, 方, 住宅街, 工房, 体験, 説明, 参加友人, 陶芸体験, エプロン, 人, 形, 機会, 陶芸, 満足, 仕上がり, 他, 近く, サポート, 作品, 場所, 手本, 女性
+
+howmany entities : 34
+howmany clusters : 3
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 3
+deleted 0entities.

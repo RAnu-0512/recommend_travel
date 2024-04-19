@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊島区立郷土資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+豊島区立郷土資料館, 豊島区立郷土資料館改
+cluster1:(16)
+資料館, 郷土資料, 展示室, 産業振興プラザ, 警備員, 書籍資料, 展示内容, 文学関連, 警察署, 展示品, 鈴木信太郎記念館, 民族資料, 防災館, 資料, 郷土資料館, 展示
+cluster2:(4)
+東京都, 豊島区, 豊島区域, 区立雑司
+cluster3:(4)
+隣, 入口, 看板, 受付
+cluster4:(10)
+スタッフ, 人, 浮世絵, 他, ところ, 話, 消防署, リニューアル, 方, ジオラマ
+cluster5:(2)
+感じ, 様子
+cluster6:(2)
+所, 場所
+cluster7:(2)
+年表, 歴史
+cluster8:(2)
+専門, 知識
+cluster9:(10)
+池袋駅, ビル群, 昭和, 西口, 深堀, 西池袋, ビル, 徒歩, 雑司, 池袋
+
+howmany entities : 54
+howmany clusters : 10
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 10
+deleted 0entities.

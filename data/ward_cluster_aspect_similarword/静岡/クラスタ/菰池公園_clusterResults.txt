@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菰池公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+湧水, 三嶋大社, 湧水公園
+cluster1:(4)
+地元住民, 商店街, 観光客, 住宅街
+cluster2:(3)
+菰池公園, 白滝公園, 公園
+cluster3:(2)
+三島駅, 三島
+cluster4:(2)
+遊具, 子供たち
+cluster5:(5)
+富士, 鯉, 南口, 池, 菰池
+cluster6:(2)
+左, 水
+cluster7:(8)
+富士山, 中, 近く, 場所, 辺り, 方々, 中心, 場
+cluster8:(2)
+水源, 憩い
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 8entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:小林観光ブルーベリー園--------------------
+top3 entities near to cluster0>>
+農場, 狩り, 収穫
+top3 entities near to cluster1>>
+傘
+top3 entities near to cluster2>>
+大山, 木, 土
+top3 entities near to cluster3>>
+気力, 体力, 意欲
+top3 entities near to cluster4>>
+滞在, 時間, 予約
+top3 entities near to cluster5>>
+暑い, 対策, 寒

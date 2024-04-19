@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今田巨峰園_ぶどう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+農園, ぶどう園, ぶどう栽培
+cluster1:(4)
+須金, 巨峰, 粒, ぶどう
+cluster2:(1)
+今田巨峰園
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

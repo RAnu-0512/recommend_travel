@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:益山寺の大楓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+存在感, 駐車場
+cluster1:(2)
+楓, 大楓
+cluster2:(11)
+表示, すれ違い, カーナビ, こと, 天然記念物, 直下, カエデ, 山中, 寺, 木, 道
+cluster3:(4)
+車, 急坂, 徒歩, 普通車
+cluster4:(1)
+樹齢
+cluster5:(1)
+益山寺の堂宇の前の大楓と大銀杏
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 6entities.

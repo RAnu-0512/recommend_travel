@@ -1,0 +1,68 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:人力車えびす屋宮島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+誕生日旅行, 写真撮影, 撮影, 記念写真, 写真, 記念, 節目
+cluster1:(26)
+思い人力車, 希望, もの, 最後, 気, 途中, 手, 方, 説明, 他, 場所, 興味, ガッテン×2, 話, 思い, 要望, 目, お陰, 所, ガイド付き, 話上手, 感じ, 満足度, 視点, 時間, こと
+cluster2:(4)
+俥夫くん, 俥夫, 車夫, 俥夫オススメ
+cluster3:(4)
+スマホ, 思い出, 乗り物, 女学生
+cluster4:(3)
+ホカホカ, ホカロン, シール
+cluster5:(2)
+コース, ガイド
+cluster6:(2)
+フェリー, ホテル
+cluster7:(2)
+兄さん, 兄ちゃん
+cluster8:(2)
+おかげ, ところ
+cluster9:(2)
+ショット, スポット
+cluster10:(5)
+おもてなし, スタッフ, おばあさん, スタート, とんとん拍子
+cluster11:(2)
+Tシャツ, スイーツ
+cluster12:(1)
+コチラ
+cluster13:(1)
+ゴール
+cluster14:(2)
+人混み, 大聖院
+cluster15:(1)
+憑き物
+cluster16:(5)
+走行, 店, 値, 料金, 値段
+cluster17:(14)
+人力車, 初人力車, 桟橋, カープ人力車, 新緑, 人力, フェリー乗り場, 参道, 景色, 風景, 坂, 島, 大鳥居下, 緑
+cluster18:(3)
+人, 女性, 男ひとり
+cluster19:(4)
+友人, 母, 姉, 家族
+cluster20:(1)
+旅行
+cluster21:(5)
+姿, 元気, 笑顔, 顔, 声
+cluster22:(2)
+怪我, 嘘
+cluster23:(1)
+足腰
+cluster24:(1)
+外国人
+cluster25:(3)
+礼, コロナ禍, 大聖
+cluster26:(6)
+注ぐ宮島, w宮島, 厳島神社, 宮島観光, 宮島, ♪宮島観光
+cluster27:(2)
+下車観光, 下車
+cluster28:(4)
+観光スポット, 観光, 観光地, 観光案内
+cluster29:(1)
+外国人観光客
+
+howmany entities : 118
+howmany clusters : 30
+howmany entities (more than1entities) : 118
+howmany clusters (more than1entities) : 30
+deleted 0entities.

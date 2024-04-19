@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR 五反田駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本店, どん店, 駅ビル
+cluster1:(13)
+乗換え利用, JR, 価値, 浅草線, ホーム, 駅, 乗換え, 回り道, 中, ドラッグストア, 都営, 池上, うどん
+cluster2:(6)
+乗換え専用改札, 東急, 山手線, 東急池上線, 改札, 東急の駅
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

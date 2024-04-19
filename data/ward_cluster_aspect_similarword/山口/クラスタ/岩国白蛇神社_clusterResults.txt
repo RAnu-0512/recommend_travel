@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩国白蛇神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+金運守り, 金運アップ, 金運
+cluster1:(44)
+子供, もの, 金, 施設, 真っ白, 穴場, ヘビ, 孫達, こと, 御利益, 蛇, 迫力, 他, 宝くじ, ガラス張り, 利益, 仕組み, お守り, 夢, おじさん, 左手, 赤, 途中, 間近, パワー, クスノキ, 場所, 価値, 神, 骨, 妻, 娘, 目, 鉄柵, 隣接, 感じ, 袴, タイミング, 方, 人, 近く, 歴史, 弁財天, し抜け殻
+cluster2:(2)
+岩国市, 白崎八幡宮
+cluster3:(2)
+祝詞, 縁起
+cluster4:(6)
+末社, 境内, 鳥居, 神社, 宮司, 拝殿
+cluster5:(2)
+参拝客, 駐車場
+cluster6:(1)
+灯籠
+cluster7:(4)
+白蛇, 白蛇観覧所, おみくじ, 白蛇神社
+
+howmany entities : 64
+howmany clusters : 8
+howmany entities (more than1entities) : 64
+howmany clusters (more than1entities) : 8
+deleted 0entities.

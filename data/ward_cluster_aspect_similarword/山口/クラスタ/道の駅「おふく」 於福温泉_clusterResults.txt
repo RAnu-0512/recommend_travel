@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅「おふく」 於福温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+物足りなさ, 全て, 多く, 手, 道, 刺激, おばさん, レストラン, 地元, 外, 時間, 人々, 会員証, 露天風呂, 駅, 北九州, 大半, お花, 駐車場, 気持ち, レジ
+cluster1:(2)
+泉質, 弱アルカリ単純泉
+cluster2:(9)
+風呂, 浴槽, 源泉風呂, 於福温泉, 湯量, 温泉, 足湯, お湯, エステ風呂
+
+howmany entities : 32
+howmany clusters : 3
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 3
+deleted 0entities.

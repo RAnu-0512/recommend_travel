@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二尊院(山口県長門市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+こと, 様式, 伝説, 場所, 像, 願い, 事, 世界, 時代, 墓, 歴史
+cluster1:(3)
+中国, 国, 地
+cluster2:(10)
+文化財, 楊貴妃, 向津具, 釈迦如来, 阿弥陀如来, 雰囲気, 向こう, 弘法大師, 清凉寺, 二尊院
+cluster3:(2)
+女性, 美人
+cluster4:(2)
+唐, 鎌倉
+cluster5:(6)
+古刹, 本尊, 寺, 安産, 朱印, 住職
+cluster6:(4)
+客, 電話連絡, 観光客, 観光
+cluster7:(1)
+開創
+
+howmany entities : 39
+howmany clusters : 8
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 8
+deleted 0entities.

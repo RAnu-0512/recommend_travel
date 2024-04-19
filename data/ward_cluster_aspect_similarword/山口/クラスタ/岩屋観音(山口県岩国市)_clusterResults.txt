@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩屋観音(山口県岩国市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩, 洞窟
+cluster1:(6)
+母親, 中, 合間, 足, 話し, 近辺
+cluster2:(6)
+観音, 岩屋観音, 美川町, 岩屋, 根笠川, 岩国
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

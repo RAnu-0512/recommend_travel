@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜石岳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+間ノ岳, 富士山, 駿河湾, 愛鷹山, 浜石岳, 山登り, 伊豆半島
+cluster1:(2)
+山頂, 山
+cluster2:(1)
+車
+cluster3:(1)
+山々
+cluster4:(1)
+伊豆
+cluster5:(1)
+天候
+cluster6:(1)
+甲斐駒ヶ岳
+cluster7:(1)
+由比駅
+cluster8:(1)
+草原状
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 9entities.

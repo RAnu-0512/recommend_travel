@@ -1,0 +1,33 @@
+--------------------similar_words:見島--------------------
+top3 entities near to cluster0>>
+待合, 待合い, 待合室
+top3 entities near to cluster2>>
+島, 離島, 島々
+top3 entities near to cluster3>>
+支所, 役場, 庁舎
+top3 entities near to cluster4>>
+海, 外洋, 海中
+top3 entities near to cluster5>>
+高速船, 高速, 船舶
+top3 entities near to cluster6>>
+バス, タクシー, 周遊
+top3 entities near to cluster7>>
+輸送費, 運搬費, 輸送, 運搬
+top3 entities near to cluster8>>
+況, 海, 況等
+top3 entities near to cluster9>>
+名所, 名所旧跡, 名勝
+top3 entities near to cluster11>>
+自然, 日常
+top3 entities near to cluster13>>
+子供, 子ども, 海水浴
+top3 entities near to cluster14>>
+ゴミ, ごみ, 持ち帰れよ
+top3 entities near to cluster15>>
+吉, 幸, てい
+top3 entities near to cluster16>>
+喧騒, 喧噪, 雑踏
+top3 entities near to cluster17>>
+代表格, 筆頭格, 代表, 筆頭
+top3 entities near to cluster18>>
+時間, 所要

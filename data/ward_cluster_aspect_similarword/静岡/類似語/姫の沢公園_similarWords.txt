@@ -1,0 +1,33 @@
+--------------------similar_words:姫の沢公園--------------------
+top3 entities near to cluster0>>
+コース, フォレストコース, ハイキング
+top3 entities near to cluster5>>
+ツツジ, つつじ, サクラ
+top3 entities near to cluster6>>
+アスレチック, フィールド
+top3 entities near to cluster7>>
+トイレ, ホテル, タスク
+top3 entities near to cluster8>>
+デートスポット, バーベキュー, アスレッチック
+top3 entities near to cluster12>>
+ケーブルカー, シャクナゲ, アップダウン
+top3 entities near to cluster18>>
+かんじ, とこ, カンジ
+top3 entities near to cluster19>>
+山登り, プチハイキング, 山歩き
+top3 entities near to cluster20>>
+子供, 家族, 子ども
+top3 entities near to cluster22>>
+公園, 遊歩道, 散策
+top3 entities near to cluster24>>
+斜面, 景色, 遊歩道
+top3 entities near to cluster26>>
+花, お花, 子
+top3 entities near to cluster27>>
+満開, 見頃, 紅葉
+top3 entities near to cluster28>>
+時期, 季節, 時季
+top3 entities near to cluster29>>
+遊具, 子供, 子ども
+top3 entities near to cluster30>>
+駐車場, 駐車, 場代

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:馬乗観音>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山道, 山奥, 道
+cluster1:(3)
+瀬戸内海, 神, 海
+cluster2:(2)
+高台, 景色
+cluster3:(4)
+歴史, 写真, こと, 場所
+cluster4:(1)
+利益
+cluster5:(1)
+子宝
+cluster6:(1)
+元首相
+cluster7:(6)
+手観音, 広島県, 福山市, 観音, 四国連峰, 馬乗観音
+cluster8:(1)
+故宮沢喜一
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

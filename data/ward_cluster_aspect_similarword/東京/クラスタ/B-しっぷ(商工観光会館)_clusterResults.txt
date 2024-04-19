@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:B-しっぷ(商工観光会館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小笠原観光協会, 観光協会
+cluster1:(11)
+壁, 絵, 場所, 島, 建物, 情報, ホエールウォッチング, 写真, 中, 鯉のぼり, クジラ
+cluster2:(4)
+観光, 拠点, ホエールウオッチング協会, 窓口
+cluster3:(1)
+B−しっぷ
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

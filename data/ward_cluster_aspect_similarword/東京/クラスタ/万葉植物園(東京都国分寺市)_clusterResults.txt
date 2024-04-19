@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:万葉植物園(東京都国分寺市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国分寺万葉植物園, 万葉植物園
+cluster1:(3)
+植物, 植物名, 植物園
+cluster2:(3)
+草木, 花, 草花関連
+cluster3:(20)
+図書館, 正面, 万葉集, 国分寺, 武蔵国分寺, 名, 木, 感じ, 文章, 名前, 施設, 実物, 徒歩, 桜門, 西国分寺駅, 方, こと, 古語, もの, 訪問
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:ANAクラウンプラザホテル米子--------------------
+top3 entities near to cluster0>>
+店内, お客, 店員
+top3 entities near to cluster1>>
+ランチ, ランチタイム, メニュー
+top3 entities near to cluster2>>
+料理, 食事, 夕食
+top3 entities near to cluster5>>
+制限, 時間, 制約
+top3 entities near to cluster6>>
+宿, 温泉, 旅館

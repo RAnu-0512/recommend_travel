@@ -1,0 +1,19 @@
+--------------------similar_words:荏原神社--------------------
+top3 entities near to cluster0>>
+満開, 見頃, 桜
+top3 entities near to cluster1>>
+風情, 雰囲気, 笑顔
+top3 entities near to cluster2>>
+鳥居橋, 川橋, 鳥居, 川
+top3 entities near to cluster3>>
+鯛, 活き, 真鯛
+top3 entities near to cluster4>>
+七福神, 恵比寿, 恵比須
+top3 entities near to cluster5>>
+海中, 足, 水中
+top3 entities near to cluster6>>
+団体, 歴史, 宗教
+top3 entities near to cluster9>>
+神社, 境内, 本殿
+top3 entities near to cluster10>>
+神社, 稲荷, 神田

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妙円寺【月性展示館・清狂草堂】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+門人, 塾, 多く, 討幕, 私塾, 妙円寺
+cluster1:(2)
+月性, 柳井市
+cluster2:(1)
+清狂草堂
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

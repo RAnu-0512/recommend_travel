@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アトリエ cafe chiffon>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+対応, 程度, 心配, 事
+cluster1:(2)
+ケーキ, シフォンケーキ
+cluster2:(3)
+ゴージャス, レベル, リピーター
+cluster3:(4)
+話, 旅先, 体験, 作品
+cluster4:(1)
+食器
+cluster5:(1)
+時間制限
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 6
+deleted 0entities.

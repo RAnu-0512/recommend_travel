@@ -1,0 +1,13 @@
+--------------------similar_words:旧吉野家住宅--------------------
+top3 entities near to cluster0>>
+屋根, 茅葺き, 看板
+top3 entities near to cluster1>>
+社会科, 時代, 社会
+top3 entities near to cluster2>>
+民家, 古, 峯ヶ原
+top3 entities near to cluster3>>
+有形, 無形, 文化
+top3 entities near to cluster4>>
+街道, 狐越, 芋窪
+top3 entities near to cluster5>>
+葺き, 屋根, 藁

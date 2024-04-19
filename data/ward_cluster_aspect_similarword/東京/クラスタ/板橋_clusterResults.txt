@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:板橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(40)
+季節, 途中, ゴール, 穴場, 元祖, 場所, 川沿い, 三田線, 上流, 鎌倉街道, 通年緑, 人, 石神井川, 縁切り榎, 木, 近く, 右, 交差点, 中山道, コンクリート橋, 左, 名前, 散歩, 駅, アクセス方法, 時期, 由来, 上, 橋, 信号機, 地名, 説, 地下鉄, 観光スポット, 桜, 道, 出口, 都営, 駅名, 変哲
+cluster1:(2)
+仲宿商店街, 商店街
+cluster2:(3)
+板橋本町駅, 板橋, 板橋駅
+
+howmany entities : 45
+howmany clusters : 3
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 3
+deleted 0entities.

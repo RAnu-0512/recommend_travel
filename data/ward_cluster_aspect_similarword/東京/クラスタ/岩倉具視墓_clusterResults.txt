@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩倉具視墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+花, お祈り, 羽田空港, 御参り, 墓参り
+cluster1:(2)
+一帯, 入口
+cluster2:(4)
+一般, 中, 外, 男性
+cluster3:(1)
+公
+cluster4:(1)
+空気
+cluster5:(3)
+本堂, 寺, 柵
+cluster6:(4)
+海晏寺, 墓地, 墓, 墓道
+cluster7:(1)
+岩倉具視
+cluster8:(1)
+青物横丁駅
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

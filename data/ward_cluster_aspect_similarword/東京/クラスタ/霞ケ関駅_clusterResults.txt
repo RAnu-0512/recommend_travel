@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霞ケ関駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+感じ, 方
+cluster1:(3)
+霞ヶ関, 法務省, 官公庁
+cluster2:(2)
+最寄り駅, 乗り換え
+cluster3:(2)
+日比谷公園, 農林水産省
+cluster4:(1)
+一般人
+cluster5:(4)
+地下道, 丸ノ内線, 地下鉄, 日比谷線
+cluster6:(3)
+一部, 時間, 日本
+cluster7:(1)
+路線
+cluster8:(1)
+首
+cluster9:(11)
+西門, キッチンカー, 地上, 散策, 三井, 見学, 地下, ビル, 正門, 敷地, 展示ルーム
+cluster10:(3)
+企画展, 四国大学展, 入館証
+cluster11:(20)
+六本木駅, 青山公園, 新橋駅, 東上線, 北別館, 千代田区, 霞ヶ関駅, 青山墓地, 街歩き, 官庁, 千代田線, 青山, 駅, 国立新美術館, 官庁街, 丸の内線, 駅周辺, 飲食店, 官庁舎, 最寄
+cluster12:(5)
+情報ひろば常設展示, 青山学院資料センター展示ホール, 法務資料展示室, 文部科学省, 虎の門三井ビル領土主権展示館
+
+howmany entities : 58
+howmany clusters : 13
+howmany entities (more than1entities) : 58
+howmany clusters (more than1entities) : 13
+deleted 0entities.

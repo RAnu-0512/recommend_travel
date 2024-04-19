@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南禅寺(静岡県河津町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+時期, 目的, 場所, 施設
+cluster1:(9)
+残り, こと, もの, ところ, 人, 感じ, 説明, 他, 方
+cluster2:(10)
+隣, 館長, 看板, 昔, 知識, 横, 写真, 趣味, 歴史, 時代
+cluster3:(13)
+南禅寺そのもの, 神像, 南禅寺, 平安, 像, 伊豆, 奈良, 神社, 仏閣, 京都, 津波, 山津波, 寺
+cluster4:(3)
+仏像, 仏像もろ, 仏像達
+cluster5:(2)
+展示館, 仏像展示館
+
+howmany entities : 41
+howmany clusters : 6
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 5
+deleted 2entities.

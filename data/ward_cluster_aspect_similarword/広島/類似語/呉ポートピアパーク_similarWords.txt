@@ -1,0 +1,63 @@
+--------------------similar_words:呉ポートピアパーク--------------------
+top3 entities near to cluster1>>
+パーク, ランド, プラザ
+top3 entities near to cluster2>>
+プール, 水遊び, ボール
+top3 entities near to cluster3>>
+子ども, こども, 遊び場
+top3 entities near to cluster4>>
+フリマ, ショー, マーケット
+top3 entities near to cluster5>>
+おすすめ, オススメスポット, デートスポット
+top3 entities near to cluster6>>
+海沿い, バーベキュー, ＢＢＱ
+top3 entities near to cluster7>>
+図書館, マンガ, 漫画
+top3 entities near to cluster8>>
+レンタル, 貸し出し, 貸出
+top3 entities near to cluster9>>
+テーマパーク, 家族づれ, ピクニック
+top3 entities near to cluster10>>
+スペース, オススメ, とこ
+top3 entities near to cluster12>>
+ペット, 愛犬, フェレット
+top3 entities near to cluster14>>
+車両, クルマ
+top3 entities near to cluster15>>
+遊園, 漫画, 図書館
+top3 entities near to cluster16>>
+大人, 子供, 子ども
+top3 entities near to cluster17>>
+子, 娘, 息子
+top3 entities near to cluster18>>
+家族, 親族
+top3 entities near to cluster19>>
+自転車, サイクリング, 弁当
+top3 entities near to cluster20>>
+海池, 海, 海辺
+top3 entities near to cluster21>>
+芝生, 広場, 原っぱ
+top3 entities near to cluster22>>
+室内, 屋内, 屋外
+top3 entities near to cluster23>>
+広場, 公園, 噴水
+top3 entities near to cluster24>>
+敷地, 施設, 跡地
+top3 entities near to cluster25>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster26>>
+休憩, 売店, 軽食
+top3 entities near to cluster27>>
+遊園地, 遊園, 揚島
+top3 entities near to cluster28>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster29>>
+公園, 遊具, 広場
+top3 entities near to cluster30>>
+子供, 子ども, 家族
+top3 entities near to cluster32>>
+陶芸, 工芸, 絵画
+top3 entities near to cluster33>>
+館, 写真, 映画
+top3 entities near to cluster34>>
+電車, 漁船

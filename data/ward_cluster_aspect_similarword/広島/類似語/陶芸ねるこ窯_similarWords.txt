@@ -1,0 +1,7 @@
+--------------------similar_words:陶芸ねるこ窯--------------------
+top3 entities near to cluster0>>
+猫, 看板, ネコ
+top3 entities near to cluster1>>
+猫, ネコ, ねこ
+top3 entities near to cluster2>>
+作品, 体験

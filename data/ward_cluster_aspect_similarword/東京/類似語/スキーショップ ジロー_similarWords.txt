@@ -1,0 +1,13 @@
+--------------------similar_words:スキーショップ ジロー--------------------
+top3 entities near to cluster0>>
+ショー, スキー, ウィンドウ
+top3 entities near to cluster1>>
+サイズ, 時期, 買い替え
+top3 entities near to cluster2>>
+価格, 値段, 定価
+top3 entities near to cluster3>>
+憧れ, あこがれ, 憧れる
+top3 entities near to cluster4>>
+足, 後足, 両足
+top3 entities near to cluster6>>
+創業, 創立, 設立

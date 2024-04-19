@@ -1,0 +1,7 @@
+--------------------similar_words:北野神社(松が丘)--------------------
+top3 entities near to cluster0>>
+神社, 天神, 稲荷
+top3 entities near to cluster1>>
+保, 神, 一
+top3 entities near to cluster2>>
+鎮守, 総, 司令

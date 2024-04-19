@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山本亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寄木, 石張り
+cluster1:(18)
+ガラス, 場所, 辺, 買い物し, コーヒー, 近く, 和洋折衷, 客, 参拝, 声, マントルピース, 日本, Sukiya Living, 道, 説明, アメリカ, 妻, 帝釈天
+cluster2:(3)
+光景, カメラ工場, 風景
+cluster3:(8)
+数寄屋リビング, 池, 建物, 建築, 床, 邸宅, 庭, 宅
+cluster4:(3)
+末期, 昭和, 大正
+cluster5:(3)
+抹茶, 茶, 緑
+cluster6:(2)
+数奇屋風, 和風
+cluster7:(4)
+甘味, 地元ゆかり, 情緒, 下町
+cluster8:(1)
+創立者
+cluster9:(14)
+柴又駅, 日本庭園, 洋風建築, 山本亭庭園, 入館料, 庭園, 書院庭園, 世帯住宅, 有料庭園, 山本亭, 葛飾区, 柴又帝釈天, 日本家屋, 柴又
+cluster10:(1)
+池泉・築山・滝
+
+howmany entities : 59
+howmany clusters : 11
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 11
+deleted 0entities.

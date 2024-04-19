@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新宿 末広亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+長蛇, 列
+cluster1:(4)
+気, 興味, 機会, 満載
+cluster2:(17)
+都会, 身体, 場所, 生, 建物, 人, 入れ替え, 大通り, 時間, テレビ, 昼, 東側, 世界, 友人, 雰囲気, 本物, 外観
+cluster3:(3)
+飲酒, 飲食, 客
+cluster4:(2)
+弁当, 持参
+cluster5:(1)
+友人宅
+cluster6:(16)
+レトロ感, 芸, 笑い, 椅子席, 寄席, 落語, 席, 落語家, 漫才, 桟敷席, 落語芸術協会, 入場料, 自由席, 演芸場, 畳敷き, 漫談
+cluster7:(3)
+新宿末廣亭, 新宿 末広亭, 末広亭
+cluster8:(10)
+新宿区, 上野, 徒歩圏, 新宿駅, 新宿3丁目, JR新宿駅, 杉並区, 東京滞在, 東口, 新宿
+cluster9:(1)
+東京メトロ丸ノ内線・新宿三丁目駅
+
+howmany entities : 59
+howmany clusters : 10
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 10
+deleted 0entities.

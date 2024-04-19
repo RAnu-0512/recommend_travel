@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤池公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+角避比神社, 細江神社
+cluster1:(4)
+天竜浜名湖, 赤池, 気賀駅, 浜名湖南岸
+cluster2:(2)
+地震, 津波
+cluster3:(3)
+場所, 所, 公園
+cluster4:(1)
+姫街道
+cluster5:(1)
+明応
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 6entities.

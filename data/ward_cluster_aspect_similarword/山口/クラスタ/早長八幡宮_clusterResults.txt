@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:早長八幡宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+室積, 室積地域, 室積港
+cluster1:(6)
+参拝, 山車, 氏神, 神社, 狛犬, 鳥居
+cluster2:(5)
+それぞれ, 前, 牛島, 目, パーツ
+cluster3:(3)
+まちを駆ける神社, 早長八幡宮, 手水桶
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

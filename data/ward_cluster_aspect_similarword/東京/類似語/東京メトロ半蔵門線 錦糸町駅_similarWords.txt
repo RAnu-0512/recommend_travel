@@ -1,0 +1,9 @@
+--------------------similar_words:東京メトロ半蔵門線 錦糸町駅--------------------
+top3 entities near to cluster0>>
+直通, 乗り入れる, 乗り換え
+top3 entities near to cluster1>>
+東武, メトロ, 東武鉄道
+top3 entities near to cluster2>>
+駅, 構内, 駅前
+top3 entities near to cluster3>>
+北口, 南口, 東口

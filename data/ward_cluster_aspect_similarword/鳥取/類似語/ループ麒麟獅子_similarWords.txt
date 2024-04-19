@@ -1,0 +1,9 @@
+--------------------similar_words:ループ麒麟獅子--------------------
+top3 entities near to cluster1>>
+緑, 青, 赤
+top3 entities near to cluster2>>
+本数, 時間, 効率
+top3 entities near to cluster3>>
+車窓, 運行, 砂丘
+top3 entities near to cluster5>>
+バス, 乗車, 周遊

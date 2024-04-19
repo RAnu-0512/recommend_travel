@@ -1,0 +1,11 @@
+--------------------similar_words:石町時の鐘--------------------
+top3 entities near to cluster0>>
+建物, 町並み, 境内
+top3 entities near to cluster1>>
+町, 丁目, 駅
+top3 entities near to cluster2>>
+松沢, 思公
+top3 entities near to cluster3>>
+幕末, 屋敷, 町人
+top3 entities near to cluster5>>
+撞き, 鐘, 撞堂

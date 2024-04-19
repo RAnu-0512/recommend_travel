@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:藤森天山墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+墓, 開山, 名僧, 墓所, 曹渓寺, 夫婦, 南麻布, 都旧跡
+cluster1:(5)
+古川橋, 寺坂吉右衛門, 藤森天山, 坂名, 絶江坂
+cluster2:(1)
+江戸時代の儒者藤森天山
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修善寺虹の郷しゃくなげの森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+道, バス
+cluster1:(8)
+人, 話, 石楠花, 理由, 仕事, 中, シャクナゲ, SNS
+cluster2:(3)
+季節, 服, 色
+cluster3:(5)
+植物, お花, 花粉, 動物, バラ
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 2entities.

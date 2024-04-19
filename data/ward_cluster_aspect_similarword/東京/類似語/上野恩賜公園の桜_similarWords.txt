@@ -1,0 +1,41 @@
+--------------------similar_words:上野恩賜公園の桜--------------------
+top3 entities near to cluster1>>
+ピンク, 満開, 早咲き
+top3 entities near to cluster2>>
+ハイ, ラム, ロー
+top3 entities near to cluster3>>
+外国人, 外国, 大勢
+top3 entities near to cluster4>>
+風景, 景色, 屋台
+top3 entities near to cluster5>>
+人混み, 人込み, 見物
+top3 entities near to cluster6>>
+混雑, 人出, 混む
+top3 entities near to cluster7>>
+夜桜, 提灯, ぼんぼり
+top3 entities near to cluster8>>
+席, 列, 座席
+top3 entities near to cluster9>>
+本数, 人数, 回数
+top3 entities near to cluster10>>
+長蛇, 行列, 並ぶ
+top3 entities near to cluster12>>
+夕方, 昼, 午後
+top3 entities near to cluster13>>
+人達, 人々, 大勢
+top3 entities near to cluster14>>
+会社, 友人, 写真
+top3 entities near to cluster16>>
+周辺, 近辺
+top3 entities near to cluster17>>
+巨大, ピンク
+top3 entities near to cluster19>>
+桜, 満開, 八重桜
+top3 entities near to cluster21>>
+花見, ピクニック, 散歩
+top3 entities near to cluster22>>
+名所, 名所旧跡, 名勝
+top3 entities near to cluster23>>
+お客, 外客, 見物
+top3 entities near to cluster24>>
+ゴミ, ごみ

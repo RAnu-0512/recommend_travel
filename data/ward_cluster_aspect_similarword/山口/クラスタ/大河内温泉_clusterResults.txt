@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大河内温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+子供, 日帰り, 中, ストレス, 部屋, 街並み, 解消, 家族, 日々, オススメ, 気, こぢんまり, 国道, 休憩室, 場所, カラン, 散歩, 地元, 疲れ, ツルツル, 掛け流し, 山側, トイレ, 大人, 人数制限, 人, 様子, 山
+cluster1:(3)
+入泉料金, 泉質, 良泉
+cluster2:(2)
+温湯, 加温湯
+cluster3:(7)
+温泉街, 日帰り温泉のい, いの湯, 平田旅館, 温泉地, 温泉使用, ひなびた温泉
+cluster4:(9)
+風呂, 家族風呂, 源泉, 家族湯, 源泉槽, 温泉, 内湯, お湯, 湯
+
+howmany entities : 49
+howmany clusters : 5
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 5
+deleted 0entities.

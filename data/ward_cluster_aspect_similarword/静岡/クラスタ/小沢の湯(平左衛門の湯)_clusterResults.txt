@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小沢の湯(平左衛門の湯)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+目, 勢い, 籠, 店, 施設, 前, 酒屋, 町
+cluster1:(6)
+温泉, 熱海, 小沢, 塩, 自噴, 湯
+cluster2:(5)
+卵, 温泉卵, 熱海七湯, 温泉蒸し卵, 温泉地
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 0entities.

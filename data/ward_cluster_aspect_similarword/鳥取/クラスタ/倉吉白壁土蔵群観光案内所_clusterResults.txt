@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉吉白壁土蔵群観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+甲斐, 倉吉
+cluster1:(9)
+回廊, 中, 歴史, 町, 魅力, 町並み, 網, 難点, スイカ
+cluster2:(2)
+赤瓦, 白壁土蔵
+cluster3:(6)
+観光地, 建造物保存地区, 地元産, 観光案内所, 駐車場, 倉吉市魚町
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

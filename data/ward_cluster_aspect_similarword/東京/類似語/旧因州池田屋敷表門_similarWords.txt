@@ -1,0 +1,11 @@
+--------------------similar_words:旧因州池田屋敷表門--------------------
+top3 entities near to cluster0>>
+表門, 山門, 勇孝
+top3 entities near to cluster1>>
+明治, 大正, 平成
+top3 entities near to cluster5>>
+国立, 博物館, シンバヒルズ
+top3 entities near to cluster6>>
+正門, 中庭, 裏手
+top3 entities near to cluster7>>
+大名, 武家

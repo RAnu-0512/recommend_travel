@@ -1,0 +1,63 @@
+--------------------similar_words:湯来温泉--------------------
+top3 entities near to cluster0>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster2>>
+食事, ご飯, 夕食
+top3 entities near to cluster4>>
+清流, 川, 鯉
+top3 entities near to cluster5>>
+夜空, 星空
+top3 entities near to cluster6>>
+紅葉, 桜, 蛍
+top3 entities near to cluster7>>
+冬雪, 冬, 季節
+top3 entities near to cluster8>>
+泉質, 泉, 釧雲
+top3 entities near to cluster9>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster10>>
+露天風呂, レストラン, カフェ
+top3 entities near to cluster11>>
+メイン, 見どころ, 見所
+top3 entities near to cluster12>>
+ロッジ, ウォーター, ウオーター
+top3 entities near to cluster13>>
+ホタル, 雪景色, 山あい
+top3 entities near to cluster14>>
+サウナ, 朝風呂, 温泉
+top3 entities near to cluster16>>
+奥, 横, 手前
+top3 entities near to cluster18>>
+全部, 身体
+top3 entities near to cluster19>>
+部屋, お家
+top3 entities near to cluster20>>
+子人, 家族, 子
+top3 entities near to cluster21>>
+選手, 投手, チームメイト
+top3 entities near to cluster23>>
+中心部, 中心, 主軸
+top3 entities near to cluster24>>
+景観, 景色, 環境
+top3 entities near to cluster27>>
+温泉, 温泉郷, 旅館
+top3 entities near to cluster28>>
+料理, 食材, 野菜
+top3 entities near to cluster29>>
+座敷, 奥, お座敷
+top3 entities near to cluster30>>
+入浴, 入湯, 風呂
+top3 entities near to cluster31>>
+足湯, 温泉, 無料
+top3 entities near to cluster32>>
+お湯, 湯, 温泉
+top3 entities near to cluster33>>
+浴槽, 風呂, 湯船
+top3 entities near to cluster34>>
+銭湯, 露天, 温泉
+top3 entities near to cluster35>>
+薬湯, 湯治, 温泉
+top3 entities near to cluster36>>
+温水, プール, 冷水
+top3 entities near to cluster37>>
+雪見, 風呂, 露天風呂

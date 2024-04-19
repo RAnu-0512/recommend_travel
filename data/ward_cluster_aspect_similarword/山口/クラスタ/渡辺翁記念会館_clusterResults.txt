@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渡辺翁記念会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大理石, デザイン
+cluster1:(1)
+円柱
+cluster2:(1)
+床
+cluster3:(1)
+照明
+cluster4:(1)
+玄関
+cluster5:(1)
+市松模様
+cluster6:(1)
+宇部市
+cluster7:(1)
+渡辺祐策翁
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

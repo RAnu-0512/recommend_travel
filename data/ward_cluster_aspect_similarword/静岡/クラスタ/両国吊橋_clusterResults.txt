@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:両国吊橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+千頭駅, 線路, 鉄道側, 川根両国駅
+cluster1:(17)
+紅葉, 釣り, 川, 吊橋, 子, つり橋, 両国橋, 川遊び, 人, 気持ち, 上, 川風, 道順, 吊り橋, 橋, ピーカン天気, ひと時
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 0entities.

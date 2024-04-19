@@ -1,0 +1,57 @@
+--------------------similar_words:しながわ水族館--------------------
+top3 entities near to cluster0>>
+おすすめ, オススメ, 見どころ
+top3 entities near to cluster2>>
+イメージ, インパクト, 印象
+top3 entities near to cluster3>>
+システム, コンセプト, タイミング
+top3 entities near to cluster6>>
+ショップ, スタッフ, ポイント
+top3 entities near to cluster7>>
+アングル, 角度, 構図
+top3 entities near to cluster8>>
+サイズ, 寸法, ツーサイズ
+top3 entities near to cluster9>>
+レストラン, テイクアウト, レンタサイクル
+top3 entities near to cluster10>>
+イルミネーション, アトラクション, イルカショウ
+top3 entities near to cluster11>>
+バラエティ, バラエティー, バライティー
+top3 entities near to cluster12>>
+シヨー, 当り狂言, フリマネ
+top3 entities near to cluster13>>
+アクアパーク, エプソンアクアパーク, アクアスタジアム
+top3 entities near to cluster14>>
+カップル, カポー, カッポー
+top3 entities near to cluster16>>
+アロワナ, スコール, ブラックアロワナ
+top3 entities near to cluster17>>
+マクセル, 日立マクセル, バーベイタム
+top3 entities near to cluster18>>
+コスパ, コストパフォーマンス, コストパ
+top3 entities near to cluster19>>
+イベント, アトラクション, カフェ
+top3 entities near to cluster20>>
+見処, 見所, 見どころ
+top3 entities near to cluster21>>
+イルカ, 水族館, アザラシ
+top3 entities near to cluster24>>
+町, 駅, 駅前
+top3 entities near to cluster26>>
+駅, 海岸, ＲａＲａ
+top3 entities near to cluster27>>
+京, 急, アニオリジナル
+top3 entities near to cluster28>>
+臨海
+top3 entities near to cluster29>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster30>>
+送迎, バス, マイクロバス
+top3 entities near to cluster31>>
+バス, シャトル, タクシー
+top3 entities near to cluster32>>
+バス, 無料, シャトル
+top3 entities near to cluster33>>
+入場, 入館, 入園
+top3 entities near to cluster34>>
+水族館, 水槽

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多聞寺(東京都墨田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+荒綾八十八ヶ所霊場5番札所隅田川七福神, 荒川辺八十八ヶ所霊場65番札所, 指定文化財南葛八十八ヶ所霊場79番札所
+cluster1:(2)
+鐘ヶ淵, 東武スカイツリーライン鐘ヶ淵駅
+cluster2:(2)
+真言宗智山派, 茅葺
+cluster3:(22)
+隅田川七福神, 区内最古, 多く, 毘沙門天, 本堂, 文化財, 七福神巡り, 山門, 寺, 墨田区, 案内, 下町, 現存建造物, 徒歩, 中, 方, こと, 家々, 東武線, 墨田, 色紙, 目
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 4
+deleted 0entities.

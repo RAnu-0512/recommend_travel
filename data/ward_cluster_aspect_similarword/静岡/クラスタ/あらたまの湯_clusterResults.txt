@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あらたまの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+注意, 注意書き
+cluster1:(2)
+回数, 機会
+cluster2:(5)
+所, 施設, 通路, 料金, 場所
+cluster3:(2)
+天気, お風呂屋
+cluster4:(3)
+男女, 会話, 木
+cluster5:(2)
+感じ, 感じすべすべ
+cluster6:(3)
+出身, 好評, 人気
+cluster7:(8)
+時間, 全て, 他, 方, 中, 事, 状態, 外
+cluster8:(2)
+管理, 利用
+cluster9:(3)
+人, 家族, 食事
+cluster10:(1)
+持参
+cluster11:(1)
+方達
+cluster12:(16)
+ナトリウム, 譲り合い, サラッ, ところ, サウナマット, オススメ, プラン, 露天風呂, サウナ, デザイン, リピーター, 鹿児島, タオル, たまり場, ヌルヌル, ジェットバス
+cluster13:(3)
+精神, 森林, 肌
+cluster14:(2)
+温度, 源泉
+cluster15:(7)
+定休日, 常連客, 常連, 従業員, 浜松市, 静岡, 泉質
+cluster16:(2)
+源泉掛け流し, 源泉かけ流し槽
+cluster17:(8)
+温泉感, 温泉, 日帰り温泉施設, 日帰り温泉, 温泉槽, ザ 温泉, 天然温泉, 温泉施設
+cluster18:(3)
+内湯, 露天, 浴場
+cluster19:(7)
+浴槽, 足湯, 入浴, 風呂, お湯, 浴室, 湯
+cluster20:(6)
+休憩室, 入浴室, 入浴施設, 脱衣所, 入浴料, 食事処
+cluster21:(1)
+日帰り入浴施設 人気施設
+
+howmany entities : 89
+howmany clusters : 22
+howmany entities (more than3entities) : 72
+howmany clusters (more than3entities) : 12
+deleted 17entities.

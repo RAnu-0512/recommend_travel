@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フクロウカフェ アウルの森 秋葉原店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+外国人, 外国
+cluster1:(3)
+途中, 付近, 前
+cluster2:(2)
+フクロウ, 赤ちゃんフクロウ
+cluster3:(3)
+スタッフ, お気に入り, フラッシュ
+cluster4:(1)
+秋葉原
+cluster5:(1)
+日本
+cluster6:(1)
+鳥
+cluster7:(9)
+人, 客, 体験, 印象, 声, 方, 対応, 腕, フクロウ達
+cluster8:(3)
+接客, 席, 椅子
+cluster9:(1)
+予約制
+
+howmany entities : 26
+howmany clusters : 10
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 10
+deleted 0entities.

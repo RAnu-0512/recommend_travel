@@ -1,0 +1,11 @@
+--------------------similar_words:光と風と波の塔--------------------
+top3 entities near to cluster1>>
+真横, 真上, 真後ろ
+top3 entities near to cluster2>>
+ワケ, わけ
+top3 entities near to cluster3>>
+吹き抜ける風, 吹き抜ける, 吹か
+top3 entities near to cluster4>>
+展望台, 展望, 瞻星台, 瞻星
+top3 entities near to cluster5>>
+海岸, 間々, 砂浜

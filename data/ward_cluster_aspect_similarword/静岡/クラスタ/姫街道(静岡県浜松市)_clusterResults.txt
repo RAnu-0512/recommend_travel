@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫街道(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+気賀関所, 気賀
+cluster1:(10)
+歴史, こと, 浜名湖, 東海道, 北岸, 古く, 本道, 江戸時代, 新居, 関所
+cluster2:(4)
+街道沿い, 犬くぐり道, 姫様道中, 街道
+cluster3:(1)
+浜名湖南岸の現旧東海道
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 3entities.

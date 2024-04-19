@@ -1,0 +1,39 @@
+--------------------similar_words:あわしまマリンパーク--------------------
+top3 entities near to cluster0>>
+距離, 高低, 至近
+top3 entities near to cluster1>>
+補足, 書く
+top3 entities near to cluster2>>
+透明感, 透明度, 透明
+top3 entities near to cluster4>>
+値段, 半額, 安い
+top3 entities near to cluster7>>
+時間, 本数, 日数
+top3 entities near to cluster8>>
+世界, 舞台, 規模
+top3 entities near to cluster11>>
+ショー, アシカ, イルカ
+top3 entities near to cluster12>>
+アニメ, キャラ, キャラクター
+top3 entities near to cluster13>>
+タクシー, レンタカー, 乗り場
+top3 entities near to cluster14>>
+インドア, ふれあい, ストレス
+top3 entities near to cluster15>>
+イベント, ショップ, グッズ
+top3 entities near to cluster18>>
+乗り場, ホテル, レストラン
+top3 entities near to cluster19>>
+イルカ, アザラシ, クジラ
+top3 entities near to cluster21>>
+子供, 子ども
+top3 entities near to cluster22>>
+水族館, イルカ
+top3 entities near to cluster23>>
+天気, 天候, 海風
+top3 entities near to cluster24>>
+宿泊, 食事, 滞在
+top3 entities near to cluster25>>
+神社, 山頂, 温泉
+top3 entities near to cluster26>>
+発着, 施設, 周遊

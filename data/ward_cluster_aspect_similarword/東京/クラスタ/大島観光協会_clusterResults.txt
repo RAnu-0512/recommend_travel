@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+方, 大型船, サイクリングコース, こと, 右側, ならまず, コース, 情報, ガイドブック
+cluster1:(5)
+観光, 社員旅行, 大島観光協会, 伊豆大島, 観光協会
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

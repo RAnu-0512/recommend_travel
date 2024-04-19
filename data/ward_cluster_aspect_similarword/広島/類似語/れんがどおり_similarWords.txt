@@ -1,0 +1,23 @@
+--------------------similar_words:れんがどおり--------------------
+top3 entities near to cluster0>>
+古い, 良い, よい
+top3 entities near to cluster1>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster2>>
+禁煙, 喫煙, タバコ
+top3 entities near to cluster3>>
+席, 喫煙, 禁煙
+top3 entities near to cluster4>>
+分煙, 禁煙, 対策
+top3 entities near to cluster5>>
+入場料, 入場, 無料
+top3 entities near to cluster6>>
+珈琲, 海, コーヒー
+top3 entities near to cluster8>>
+商店街, 商店, 路地
+top3 entities near to cluster10>>
+人気店, 飲食店, 人気, 飲食
+top3 entities near to cluster11>>
+訪, 立ち寄る
+top3 entities near to cluster12>>
+定休, 日, 火曜日

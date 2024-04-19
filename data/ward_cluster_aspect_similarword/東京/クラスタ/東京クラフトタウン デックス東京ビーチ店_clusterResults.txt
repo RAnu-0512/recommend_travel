@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京クラフトタウン デックス東京ビーチ店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+貝殻, 石
+cluster1:(4)
+店舗, 種類, 時間, 色
+cluster2:(8)
+小学生, ポイント, 子供, 動物, クーポン, 説明, スノードーム, ドーム
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

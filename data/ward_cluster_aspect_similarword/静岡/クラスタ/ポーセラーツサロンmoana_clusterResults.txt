@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ポーセラーツサロンmoana>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+満足, 案内, 事, 所, 材料, 方, ナビ, もの, 物, 体験, 時間, 中, 作業, 説明, 検索ポイント, 場所, 器
+cluster1:(25)
+雨, カーナビ, アロマワックスサシェ, 妻, 小学校, 結婚式, 母, 看板, 写真, 娘, Google maps, 伊豆, 店, 柄, 花, 旅行, ハーバリウム, 久しぶり, 星, アドバイス, 出来栄え, 先生, 旦那, 室内, 作品
+
+howmany entities : 42
+howmany clusters : 2
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:ペットと家族の写真館 STUDIO SIO--------------------
+top3 entities near to cluster0>>
+愛犬, 飼い主, ワンコ
+top3 entities near to cluster1>>
+写真, 撮影, 撮っ
+top3 entities near to cluster2>>
+姿, 笑顔, 表情
+top3 entities near to cluster3>>
+時間, 家族, 週末
+top3 entities near to cluster4>>
+毛, クセッ, ネコッ

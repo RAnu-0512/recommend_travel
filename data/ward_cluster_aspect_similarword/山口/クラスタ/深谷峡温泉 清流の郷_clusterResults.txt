@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深谷峡温泉 清流の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+浴槽, 温泉, ラドン温泉
+cluster1:(14)
+雨, 夏, コテージ, 閑散, 冬, 他, (*^^*, 汗, 雪, 家族, 夕方, アウトドア, 風情, 近く
+cluster2:(1)
+山口県
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

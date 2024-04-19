@@ -1,0 +1,9 @@
+--------------------similar_words:鎌倉十七の墓--------------------
+top3 entities near to cluster0>>
+角界, 力士, 関取
+top3 entities near to cluster1>>
+人物, 墓所
+top3 entities near to cluster2>>
+相撲史, 相撲, 大相撲
+top3 entities near to cluster3>>
+七, 十, 五

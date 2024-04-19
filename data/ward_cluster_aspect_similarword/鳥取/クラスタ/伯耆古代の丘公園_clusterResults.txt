@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伯耆古代の丘公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+弥生村, 弥生中期, 弥生時代
+cluster1:(3)
+古代ハス, 間ハス, ハス
+cluster2:(3)
+公園, 古代公園, 丘公園
+cluster3:(2)
+体験, 古代体験
+cluster4:(3)
+古代人, 古代風, 古代
+cluster5:(1)
+伯耆古代
+cluster6:(21)
+入園料, 帰り, 建物, イベント, 到着, こと, 勉強, 池, 時代, 入口, 昔, 花, 前方後円墳, 壺, 生活, 入園者, 季節, 子供, 途中, 住居, 場所
+cluster7:(9)
+古墳, 岩屋古墳, 妻木晩田遺跡, 角田遺跡, 伯耆古代の丘公園, 高床建物, 向山古墳群, 帆立貝式古墳, 竪穴式
+
+howmany entities : 45
+howmany clusters : 8
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 8
+deleted 0entities.

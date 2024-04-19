@@ -1,0 +1,85 @@
+--------------------similar_words:日本科学未来館--------------------
+top3 entities near to cluster0>>
+来館, 未, 科学
+top3 entities near to cluster1>>
+科学, 館, 博物館
+top3 entities near to cluster2>>
+科学, 技術, 自然
+top3 entities near to cluster3>>
+科学, 技術, 先端
+top3 entities near to cluster4>>
+カフェ, ブース, フロア
+top3 entities near to cluster5>>
+ガラス, 地球儀, コロナ
+top3 entities near to cluster6>>
+サイド, ステップ, アウィータ
+top3 entities near to cluster7>>
+ヤフー, チケット, Ｙａｈｏｏ
+top3 entities near to cluster8>>
+考え方, センス, 生き方
+top3 entities near to cluster9>>
+プラネタリウム, ロボット, ジオ・コスモス
+top3 entities near to cluster10>>
+おすすめ, お出かけ, デートスポット
+top3 entities near to cluster11>>
+イベント, ショップ, レストラン
+top3 entities near to cluster12>>
+スケール, スペース, ストレス
+top3 entities near to cluster13>>
+テーマ, テーマー, ジャンル
+top3 entities near to cluster15>>
+スマホ, スマフォ, ガラケー
+top3 entities near to cluster16>>
+小学校, 小学生, 運動会
+top3 entities near to cluster17>>
+子ども, こども, お子様
+top3 entities near to cluster18>>
+アシモ, 車いす, 車椅子
+top3 entities near to cluster19>>
+学生, 大学生, 大学院生
+top3 entities near to cluster20>>
+台場, 期間, 休み
+top3 entities near to cluster21>>
+地点, 中間
+top3 entities near to cluster23>>
+興味, 期待, 価値
+top3 entities near to cluster24>>
+影響, 工夫, 配慮
+top3 entities near to cluster26>>
+見, 発見, 訪れ
+top3 entities near to cluster27>>
+餓流, 対応, 災い
+top3 entities near to cluster28>>
+上映, 実演, 閉館
+top3 entities near to cluster29>>
+映像, 文章, 作品
+top3 entities near to cluster30>>
+滞在, 居住, 休憩
+top3 entities near to cluster31>>
+飲食, 食事, レストラン
+top3 entities near to cluster32>>
+館内, 施設, 建物
+top3 entities near to cluster33>>
+館長, 館員, 所長
+top3 entities near to cluster34>>
+料金券, 料金, 価格
+top3 entities near to cluster35>>
+外国人, 外国, 外人
+top3 entities near to cluster36>>
+人達, 大勢
+top3 entities near to cluster37>>
+子供, 子ども, 母親
+top3 entities near to cluster38>>
+一級品, 一級, 衛
+top3 entities near to cluster40>>
+展示, 出展
+top3 entities near to cluster41>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster42>>
+入館料, 入場料, 入場, 入館
+top3 entities near to cluster43>>
+名所, 施設, 宿泊
+top3 entities near to cluster44>>
+施設, 商業, 近隣
+top3 entities near to cluster46>>
+科学, 研究, 実験

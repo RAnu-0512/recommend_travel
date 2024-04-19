@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金剛院(東京都豊島区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+マンガ地蔵, 地蔵
+cluster1:(8)
+中, 寺, 趣き, 緑, 境内, カフェ, 階段, 北口
+cluster2:(1)
+椎名町駅
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:三滝ダム--------------------
+top3 entities near to cluster0>>
+落石, 道路, 運転
+top3 entities near to cluster1>>
+ダム, 下流, 上流
+top3 entities near to cluster2>>
+所々, 周り, 人達
+top3 entities near to cluster3>>
+水力, 渓谷, 発電

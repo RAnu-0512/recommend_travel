@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須佐湾自然研究路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+湾, 海, 海岸
+cluster1:(3)
+眺め, 道, 気持ち
+cluster2:(2)
+地形, 観光
+cluster3:(1)
+須佐湾自然研究路
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

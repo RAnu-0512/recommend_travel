@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:TOKYO ミナトリエ(旧_東京みなと館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+東京都, 東京港, 江東区, 東京みなと館
+cluster1:(4)
+展望, 展望施設, 展望室, 展望台
+cluster2:(5)
+フロンティアビル, 青梅, 青梅フロンティアビル, ビル, テレコムセンター駅
+cluster3:(6)
+利用, 方法, ほか, こと, 禁止, 役割
+cluster4:(3)
+所, 館内, 施設
+cluster5:(2)
+地上, 江戸
+cluster6:(2)
+窓, 船
+cluster7:(10)
+モニター, 東京湾, オススメ, イベント, ほとんど, テレコムセンター, 望遠鏡, ボタン, 博物館, ダイバーシティ
+cluster8:(4)
+近く, 周り, 時間, 歴史
+cluster9:(1)
+天気
+cluster10:(1)
+台場
+cluster11:(7)
+カメラ撮影, 展示コーナー, 入場無料, 利用料金, 成り立ちエピソード映像, 展示物, 展示
+cluster12:(1)
+東京臨海新交通臨海線ゆりかもめ
+
+howmany entities : 50
+howmany clusters : 13
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 13
+deleted 0entities.

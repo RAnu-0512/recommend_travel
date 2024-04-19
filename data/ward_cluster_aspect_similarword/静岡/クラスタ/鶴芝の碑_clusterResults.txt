@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鶴芝の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+碑, 石碑
+cluster1:(2)
+建物, 富士山
+cluster2:(1)
+市場
+cluster3:(1)
+面影
+cluster4:(1)
+間宿
+cluster5:(1)
+東海道五十三次の宿場町
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

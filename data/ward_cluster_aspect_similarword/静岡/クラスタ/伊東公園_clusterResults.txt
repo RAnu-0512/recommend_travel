@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊東公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+松月院, 木下杢太郎, 伊東公園, 伊東駅, 伊東, 李王家
+cluster1:(4)
+電車, 駅, 公園, 遊具
+cluster2:(3)
+時期, 時間, 休日
+cluster3:(6)
+つつじ, タイトル, 周り, 太平洋, 上, 桜
+cluster4:(10)
+裏手, 入口, 池, 景色, 海, 丘, 近く, 頂上, 山側, 坂
+cluster5:(1)
+子供達
+cluster6:(3)
+真裏, 案内板, 反対側
+cluster7:(1)
+展望台
+cluster8:(6)
+改札口側, 街, 温泉街, 商店街, 観光客, 文学碑
+
+howmany entities : 40
+howmany clusters : 9
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 7
+deleted 2entities.

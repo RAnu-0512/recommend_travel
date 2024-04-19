@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御胎内温泉健康センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+家族, 家族連れ, 旅行
+cluster1:(9)
+車, 所, 姿, 料金, 時間, 場所, 施設, 気分, 天気
+cluster2:(22)
+気, 静岡, 体, ぬるめ, ロッカー, 塩味, 帰り, 地元, 窓, 御殿場, 内風呂, 気持ち, ゆう, 富士山, 露天風呂, 奥, 他人, サウナ, 中, 高台, 人気, 他
+cluster3:(1)
+一か所
+cluster4:(1)
+ドーム状
+cluster5:(1)
+だり着
+cluster6:(3)
+バイブラ, 塩素臭, 無色透明
+cluster7:(2)
+溶岩風呂, 溶岩
+cluster8:(2)
+富士溶岩, 富士溶岩風呂
+cluster9:(1)
+富士檜
+cluster10:(2)
+御胎内温泉健康センター, 御胎
+cluster11:(9)
+温泉, 温泉健康センター, 日帰り温泉施設, 温泉汗, 露天, 浴場, 湯, 長湯, 温泉施設
+cluster12:(3)
+駐車場, 脱衣場, 脱衣室
+cluster13:(5)
+風呂上がり, 洞窟風呂, 露店風呂, 風呂, 洞窟風呂風
+
+howmany entities : 64
+howmany clusters : 14
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 7
+deleted 10entities.

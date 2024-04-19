@@ -1,0 +1,35 @@
+--------------------similar_words:SL「やまぐち号」(新山口~津和野)--------------------
+top3 entities near to cluster2>>
+カメラ, 写真, デジカメ
+top3 entities near to cluster3>>
+エアコン, ベンチ, ソファー
+top3 entities near to cluster4>>
+たくさん, おしゃれ, ちょっとした
+top3 entities near to cluster5>>
+乗り降り, 行き先, 乗り物
+top3 entities near to cluster6>>
+雰囲気, 気持ち, 思い出
+top3 entities near to cluster7>>
+子供, 子ども, 大人
+top3 entities near to cluster8>>
+景色, 車窓, 風景
+top3 entities near to cluster9>>
+出発, 到着, 乗り継ぎ
+top3 entities near to cluster12>>
+迫力, 間近, 感激
+top3 entities near to cluster13>>
+叫び声
+top3 entities near to cluster14>>
+笑顔, 姿
+top3 entities near to cluster15>>
+良さ, 憎憎し, もの憂
+top3 entities near to cluster16>>
+走り, 乗る
+top3 entities near to cluster19>>
+列車, 鉄道, 周遊
+top3 entities near to cluster20>>
+運転, 列車, 運行
+top3 entities near to cluster21>>
+車両, 列車
+top3 entities near to cluster22>>
+車台, 転, 煙

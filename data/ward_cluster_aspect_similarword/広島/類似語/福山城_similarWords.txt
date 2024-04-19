@@ -1,0 +1,89 @@
+--------------------similar_words:福山城--------------------
+top3 entities near to cluster0>>
+新幹線, 電車, 福塩線
+top3 entities near to cluster1>>
+ホテル, 建物, 町並み
+top3 entities near to cluster2>>
+戦前, 幕末, 戦後
+top3 entities near to cluster3>>
+季節, 時期, 時季
+top3 entities near to cluster4>>
+直前, 直後
+top3 entities near to cluster5>>
+日次, 日目, 日
+top3 entities near to cluster7>>
+路地裏, 裏側, 路地
+top3 entities near to cluster8>>
+周り, 周囲, 中心
+top3 entities near to cluster10>>
+黒, 白, 菊
+top3 entities near to cluster11>>
+壁, 城壁, 銅板
+top3 entities near to cluster12>>
+造人, 造工, 造
+top3 entities near to cluster13>>
+公園, 広場, 散歩
+top3 entities near to cluster14>>
+建物, 敷地, 設備
+top3 entities near to cluster15>>
+階段, 通路, 石段
+top3 entities near to cluster16>>
+公館, 大使館, 領事館
+top3 entities near to cluster17>>
+写真, 撮影, 撮っ
+top3 entities near to cluster18>>
+夜桜, 花見, 桜
+top3 entities near to cluster19>>
+景色, 眺望, 景観
+top3 entities near to cluster20>>
+登り, 上り
+top3 entities near to cluster21>>
+時間, 所要
+top3 entities near to cluster23>>
+迫力, 余裕, 興味
+top3 entities near to cluster25>>
+残念, 否め
+top3 entities near to cluster26>>
+見学, 訪問, 視察
+top3 entities near to cluster27>>
+紹介, 勉強, お話し
+top3 entities near to cluster28>>
+宿泊, 滞在, 出張
+top3 entities near to cluster29>>
+修学, 研学, 勉学
+top3 entities near to cluster30>>
+方法, 案内, 行う
+top3 entities near to cluster31>>
+櫓, 天守, 城
+top3 entities near to cluster32>>
+城, 城跡, 城内
+top3 entities near to cluster33>>
+城跡, 城址, 城郭
+top3 entities near to cluster34>>
+本丸, 城内, 外堀
+top3 entities near to cluster35>>
+城家, 城, 城内
+top3 entities near to cluster36>>
+駅, 徒歩, 駅前
+top3 entities near to cluster37>>
+入館料, 入館, 入場料, 入場
+top3 entities near to cluster39>>
+建築, 工事, 改修
+top3 entities near to cluster40>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster41>>
+体験, 乗馬, 見学
+top3 entities near to cluster42>>
+展示, 出展, 収蔵
+top3 entities near to cluster43>>
+資料, 館
+top3 entities near to cluster44>>
+歴史, 文化, 史跡
+top3 entities near to cluster45>>
+17, 19, 14
+top3 entities near to cluster46>>
+天守, 天守閣, 櫓
+top3 entities near to cluster47>>
+県立, 市立, 博物館
+top3 entities near to cluster50>>
+名城, 城, 城跡

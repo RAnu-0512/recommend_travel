@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上下歴史文化資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+江戸時代, 府中市, 岡田, 岡田美知代
+cluster1:(24)
+白壁, 歴史, 館内, 文豪, 資料, 上下町, 家, 建物, 木造, 客間, 明治, ヒロインモデル, 資料館, 生家, 出身, 蒲団, 展示内容, 町並み観光, 街, 紹介, 雛人形, 勉強, 作家, 上下
+cluster2:(1)
+二階建て
+cluster3:(3)
+文学者, 女流文学者, 田山花袋
+cluster4:(1)
+上下歴史文化資料館
+cluster5:(1)
+皇太子様の御成婚記念雛など町
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 6
+deleted 0entities.

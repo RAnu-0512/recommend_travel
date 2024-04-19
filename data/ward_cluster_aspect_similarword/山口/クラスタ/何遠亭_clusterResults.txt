@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:何遠亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+中, 公園, 湯田温泉, 建物
+cluster1:(2)
+離れ, 趣
+cluster2:(1)
+邸
+cluster3:(1)
+公家
+cluster4:(2)
+住居跡, 住宅街
+cluster5:(5)
+三条実美, 井上, 井上公園, 井上馨, 何遠亭
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 6
+deleted 0entities.

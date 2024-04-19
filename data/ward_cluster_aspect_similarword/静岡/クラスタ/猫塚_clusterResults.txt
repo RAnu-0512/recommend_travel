@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猫塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+飼い主, ナビゲーション
+cluster1:(1)
+ネズミ
+cluster2:(1)
+御前崎
+cluster3:(1)
+近く
+cluster4:(1)
+猫
+cluster5:(1)
+石像
+cluster6:(1)
+灯台
+cluster7:(1)
+来襲
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

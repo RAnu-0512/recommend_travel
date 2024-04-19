@@ -1,0 +1,13 @@
+--------------------similar_words:井上円了の墓--------------------
+top3 entities near to cluster0>>
+寺学, 寺堂, 寺
+top3 entities near to cluster1>>
+家系図, 家系, 血筋
+top3 entities near to cluster2>>
+創設者, 創始者, 創設, 創始
+top3 entities near to cluster3>>
+寺墓, 寺, 父
+top3 entities near to cluster4>>
+円了, 井上, 圓了
+top3 entities near to cluster5>>
+墓所内, 墓所

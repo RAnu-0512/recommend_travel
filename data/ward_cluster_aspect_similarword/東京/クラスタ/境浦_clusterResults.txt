@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:境浦>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+父島, 海岸, 坂, 沖
+cluster1:(2)
+車, 船
+cluster2:(4)
+途中, 最寄り, 太平洋戦争, 必要
+cluster3:(1)
+戦争
+cluster4:(1)
+歩き
+cluster5:(1)
+魚雷
+cluster6:(1)
+二見港
+cluster7:(1)
+駐車場
+cluster8:(1)
+濱江丸
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 9
+deleted 0entities.

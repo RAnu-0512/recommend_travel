@@ -1,0 +1,31 @@
+--------------------similar_words:海峡メッセ下関--------------------
+top3 entities near to cluster0>>
+国際, 海峡, 港
+top3 entities near to cluster1>>
+名称, 通称, 別名
+top3 entities near to cluster3>>
+タワー, シンボル, 東京タワー
+top3 entities near to cluster4>>
+オフィス, ビジネス, ビジネスマン
+top3 entities near to cluster5>>
+イベント, イメージ, レストラン
+top3 entities near to cluster6>>
+テナント, 店舗, ショッピングビル
+top3 entities near to cluster7>>
+アリーナ, スーパーアリーナスタジアムモード, スタジアム
+top3 entities near to cluster8>>
+センター, パスポート, センタ
+top3 entities near to cluster9>>
+ライト, サーチライト, ノベル
+top3 entities near to cluster11>>
+公園, 広場, 風景
+top3 entities near to cluster12>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster14>>
+展望室, 会議室, 会議, 展望
+top3 entities near to cluster15>>
+施設, 商業, 飲食
+top3 entities near to cluster16>>
+会場, 駐車場, 駐車
+top3 entities near to cluster17>>
+玄関口, 玄関, 看板

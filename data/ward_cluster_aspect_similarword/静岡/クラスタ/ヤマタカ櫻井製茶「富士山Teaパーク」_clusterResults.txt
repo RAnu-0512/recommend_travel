@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヤマタカ櫻井製茶「富士山Teaパーク」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+主人, 麺つゆ, 子供達, 時期, 家族, こと, 見学, 息子, 思い出, 外, 予約, 体験, ビニールハウス, 富士山, 時間, 畑, 工場, 茶菓子, 景色, 茶畑, 違い, 子供, 場所, 味
+cluster1:(2)
+茶摘み, 茶摘み体験
+cluster2:(2)
+茶, 茶葉
+cluster3:(1)
+淹れ方
+cluster4:(1)
+ヤマタカ櫻井製茶
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 1
+deleted 6entities.

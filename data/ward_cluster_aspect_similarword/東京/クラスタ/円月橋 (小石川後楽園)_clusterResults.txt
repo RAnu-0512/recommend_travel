@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円月橋 (小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+形, 姿, 様式, こと
+cluster1:(4)
+名前, 画像, 写真, 色
+cluster2:(7)
+周囲, シンボル, 上, たたずまい, パンフレット, サイト, 円
+cluster3:(2)
+中国, 秋
+cluster4:(5)
+木々, 小石川後楽園, 水面, 明, 橋
+cluster5:(1)
+同園
+cluster6:(1)
+建造物
+cluster7:(1)
+円月橋
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 8
+deleted 0entities.

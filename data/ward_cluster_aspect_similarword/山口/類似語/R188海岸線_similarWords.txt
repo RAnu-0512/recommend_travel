@@ -1,0 +1,15 @@
+--------------------similar_words:R188海岸線--------------------
+top3 entities near to cluster0>>
+国道, 電車
+top3 entities near to cluster1>>
+ドライブ, とこ, トコロ
+top3 entities near to cluster5>>
+夕日, 夕陽, 夕焼け
+top3 entities near to cluster7>>
+夕方, 午後, 午前
+top3 entities near to cluster8>>
+離島, 島しょ, 離れ島
+top3 entities near to cluster9>>
+海岸線, 海岸, 町線, 町
+top3 entities near to cluster10>>
+うず, したう, しよ

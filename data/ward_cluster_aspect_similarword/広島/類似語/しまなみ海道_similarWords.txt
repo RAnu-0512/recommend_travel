@@ -1,0 +1,57 @@
+--------------------similar_words:しまなみ海道--------------------
+top3 entities near to cluster1>>
+しまなみ, 海道, しま
+top3 entities near to cluster2>>
+バイク, 原付, オートバイ
+top3 entities near to cluster3>>
+ブルー, ライト, ライン
+top3 entities near to cluster4>>
+自転車, サイクリング, マウンテンバイク
+top3 entities near to cluster5>>
+レンタル, サイクル, 自転車
+top3 entities near to cluster6>>
+渡し船, 吊り橋, つり橋
+top3 entities near to cluster9>>
+サイクリング, レンタカー, 海沿い
+top3 entities near to cluster11>>
+爽快感, 罪悪感, 爽快, 罪悪
+top3 entities near to cluster12>>
+景色, 絶景, 風景
+top3 entities near to cluster14>>
+オレンジ色, オレンジ, 色合い
+top3 entities near to cluster15>>
+青, 赤, 黄
+top3 entities near to cluster16>>
+景色, 風景, 絶景
+top3 entities near to cluster17>>
+時間, 休憩
+top3 entities near to cluster18>>
+長旅, 寄り道, 旅
+top3 entities near to cluster19>>
+渡船, 鉄橋
+top3 entities near to cluster20>>
+バス車, バス, 運転
+top3 entities near to cluster21>>
+駅線, 駅, 快速線, 快速
+top3 entities near to cluster22>>
+エリア, パーキング, サービスエリア・パーキングエリア
+top3 entities near to cluster23>>
+沿道, 売店, 土産物
+top3 entities near to cluster24>>
+県境, 聖地, 神社
+top3 entities near to cluster25>>
+舗装, 工場, 展望
+top3 entities near to cluster26>>
+土産店, 土産
+top3 entities near to cluster28>>
+電動, 自転車, アシストチャリ
+top3 entities near to cluster29>>
+道路沿い, 道路
+top3 entities near to cluster30>>
+高速道, 高速, 道路
+top3 entities near to cluster31>>
+高速, バス, 低速
+top3 entities near to cluster32>>
+道路, 歩道, 国道
+top3 entities near to cluster33>>
+島, 海道, 海

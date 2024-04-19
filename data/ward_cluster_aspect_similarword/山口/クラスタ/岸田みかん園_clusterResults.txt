@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岸田みかん園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+夫婦, 夫妻
+cluster1:(2)
+景色, 味
+cluster2:(3)
+ネット, みかん, お持ち帰り
+cluster3:(1)
+みかん狩り
+cluster4:(1)
+岸田みかん園
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

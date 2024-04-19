@@ -1,0 +1,17 @@
+--------------------similar_words:豊島区立郷土資料館--------------------
+top3 entities near to cluster0>>
+区立, 郷土, 館
+top3 entities near to cluster1>>
+資料, 館, 展示
+top3 entities near to cluster2>>
+都, 区, 区立
+top3 entities near to cluster3>>
+入口, 入り口, 看板
+top3 entities near to cluster4>>
+話人, 話, 人達
+top3 entities near to cluster7>>
+年表, 歴史
+top3 entities near to cluster8>>
+知識, 専門, 知見
+top3 entities near to cluster9>>
+東口, 北口, 駅前

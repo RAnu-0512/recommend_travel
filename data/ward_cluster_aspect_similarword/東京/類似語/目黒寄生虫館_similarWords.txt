@@ -1,0 +1,17 @@
+--------------------similar_words:目黒寄生虫館--------------------
+top3 entities near to cluster0>>
+学校, 子供, 家族
+top3 entities near to cluster3>>
+想像, 予想, 想定
+top3 entities near to cluster5>>
+興味, 関心, 価値
+top3 entities near to cluster6>>
+見学, 訪問, 視察
+top3 entities near to cluster7>>
+解説, 勉強, お話し
+top3 entities near to cluster8>>
+寄付, 寄附, 募金
+top3 entities near to cluster9>>
+書く, 補足
+top3 entities near to cluster10>>
+展示, 博物館, 研究

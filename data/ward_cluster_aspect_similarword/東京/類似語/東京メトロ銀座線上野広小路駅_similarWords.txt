@@ -1,0 +1,15 @@
+--------------------similar_words:東京メトロ銀座線上野広小路駅--------------------
+top3 entities near to cluster0>>
+夕食, 名物, 到着
+top3 entities near to cluster2>>
+地下鉄, デパート, 御徒町
+top3 entities near to cluster3>>
+駅店, 駅前店, 駅, 駅前
+top3 entities near to cluster4>>
+近辺, 周辺
+top3 entities near to cluster5>>
+地上, 地下, メトロ
+top3 entities near to cluster6>>
+外国人, 外国, 外人
+top3 entities near to cluster8>>
+駅街, 商店街, 商店, 駅

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ東西線 葛西駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+快速, 人, 西葛西, 近く, バスロータリー, 意外, ホーム, 地下鉄, 東西線, 東京メトロ, 地下鉄博物館
+cluster1:(2)
+高架駅, 高架
+cluster2:(3)
+駅, 西葛西駅, 葛西駅
+cluster3:(3)
+地上, 地下, 地上駅
+cluster4:(1)
+飲食店
+cluster5:(3)
+通過待ち, 各駅停車, 幹線道路
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

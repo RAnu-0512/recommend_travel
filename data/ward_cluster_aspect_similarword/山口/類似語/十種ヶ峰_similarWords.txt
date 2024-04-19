@@ -1,0 +1,11 @@
+--------------------similar_words:十種ヶ峰--------------------
+top3 entities near to cluster0>>
+登山口, 登山道, 登山
+top3 entities near to cluster1>>
+道路, 国道, 舗装
+top3 entities near to cluster2>>
+由来, ちなむ, 名称
+top3 entities near to cluster3>>
+駐車場, スキー場, 駐車, スキー
+top3 entities near to cluster4>>
+神宝, 神器, 撤下

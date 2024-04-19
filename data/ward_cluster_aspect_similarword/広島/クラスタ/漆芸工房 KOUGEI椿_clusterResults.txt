@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:漆芸工房 KOUGEI椿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金継ぎ, 現代金継ぎ
+cluster1:(2)
+皿, 漆
+cluster2:(7)
+先生, キット, 話, コース, 時間, コスパ, 勉強
+cluster3:(2)
+体験, 予約
+cluster4:(1)
+金
+cluster5:(6)
+興味, 歪, 緊張, 気, 機会, こと
+cluster6:(1)
+不器
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,33 @@
+--------------------similar_words:CatCafeにゃんこと--------------------
+top3 entities near to cluster0>>
+罪悪感, 癒, 罪悪
+top3 entities near to cluster1>>
+店員, 店長
+top3 entities near to cluster2>>
+カフェ, 飲み物, 食べ物
+top3 entities near to cluster4>>
+留意点, 留意, 事項
+top3 entities near to cluster5>>
+利用, 情報, 案内
+top3 entities near to cluster7>>
+店内, 席, 貸切
+top3 entities near to cluster9>>
+子供, 大人, 子ども
+top3 entities near to cluster10>>
+実家, 自宅, 近所
+top3 entities near to cluster11>>
+娘, 息子, 親
+top3 entities near to cluster12>>
+ネコ, 猫, ニャンコ
+top3 entities near to cluster13>>
+猫, ネコ, ニャンコ
+top3 entities near to cluster14>>
+猫, ネコ, ちゃん
+top3 entities near to cluster16>>
+ネコ, 猫, ねこ
+top3 entities near to cluster17>>
+猫, ネコ, ねこ
+top3 entities near to cluster18>>
+猫, だし, ねこ
+top3 entities near to cluster20>>
+子供, 子ども, 大人

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:頼山陽史跡資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大坂生まれの頼山陽, 頼山陽居室
+cluster1:(17)
+館内, 江戸時代, 文学者, 日本, 境遇, 外史, 草稿, 国, 史跡, 時代, 人, 部屋, 屋敷, 廃嫡, 場所, 山陽, 学問
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

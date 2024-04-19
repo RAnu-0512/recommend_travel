@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蜂ヶ峯総合公園キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+公園, アウトドア, テント
+cluster1:(2)
+キャンプ場, キャンプ客
+cluster2:(1)
+大型遊戯施設
+cluster3:(1)
+蜂ヶ峯総合公園キャンプ場
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

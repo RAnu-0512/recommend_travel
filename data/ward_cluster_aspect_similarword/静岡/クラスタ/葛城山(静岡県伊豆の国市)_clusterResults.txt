@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛城山(静岡県伊豆の国市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+散策路, パノラマパーク, 国パノラマパーク, 国パノラマパーク山頂駅, 展望台, ロープウェイ&ランチバイキング, 国市パノラマパーク, 山麓駅
+cluster1:(4)
+かつらぎ山, 山頂, 頂上, 山
+cluster2:(3)
+妻, 家族, 子供
+cluster3:(12)
+カップルだらけ, ロープウエー, みどり, ロープウェー, ショップ, 思い出, ところ, アスレチック, パノラマ, ソファ, オススメ, ロープウェイ
+cluster4:(3)
+富士山, 駿河湾, 葛城山
+cluster5:(2)
+地上, のび
+cluster6:(1)
+大正
+cluster7:(12)
+綺麗さ, (o, 空気, 景観, 眺め, 楽しみ方, 感じ, 景色, 自然, 場所, 山々, 天気
+cluster8:(2)
+伊豆旅行, 伊豆
+cluster9:(3)
+温泉街, 旅館, 伊豆長岡温泉
+cluster10:(3)
+茶, 茶店, 喫茶
+cluster11:(2)
+足湯, 足
+cluster12:(2)
+土産, 観光スポット
+cluster13:(1)
+家族連れ
+cluster14:(1)
+桜・梅の花を愛
+
+howmany entities : 59
+howmany clusters : 15
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 8
+deleted 11entities.

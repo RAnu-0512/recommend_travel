@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海の音色>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+雨, 強風, 音色, 天気
+cluster1:(2)
+熱海, 入江
+cluster2:(3)
+SUP, 海, SUP初心者
+cluster3:(16)
+スタッフ, オール, ショップ, メンバー, 思い出, 使い方, つくり, sup, ツアー, イルカ, 熱帯魚, ボード, スポット, おかげ, 見どころ, プラン
+cluster4:(5)
+ほか, 上, 近く, 他, 方
+cluster5:(6)
+写真, 体験, 動画, 説明, 指導, 世話
+cluster6:(4)
+間近, 手取り足取りSUP, 初サップ, 機会
+cluster7:(1)
+楽しさ
+
+howmany entities : 41
+howmany clusters : 8
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 6
+deleted 3entities.

@@ -1,0 +1,41 @@
+--------------------similar_words:江東区深川江戸資料館--------------------
+top3 entities near to cluster0>>
+時代, 末期, から
+top3 entities near to cluster1>>
+庭園, 清澄, 中庭
+top3 entities near to cluster3>>
+庶民, 幕末, 下町
+top3 entities near to cluster7>>
+長屋, 船宿, 茶屋
+top3 entities near to cluster8>>
+雰囲気, イベント, 催し物
+top3 entities near to cluster9>>
+町, 区, 徒歩
+top3 entities near to cluster10>>
+子供, 昔, 父親
+top3 entities near to cluster13>>
+二次, 二, 第
+top3 entities near to cluster15>>
+木火, 土, 木
+top3 entities near to cluster17>>
+町並み, 町並, 街並み
+top3 entities near to cluster18>>
+文化, 歴史, 生活
+top3 entities near to cluster19>>
+照明, 家具, 靴
+top3 entities near to cluster20>>
+施設, 店舗
+top3 entities near to cluster21>>
+資料, 写真, 作品
+top3 entities near to cluster22>>
+実物, 現物, 原寸
+top3 entities near to cluster23>>
+地下, 内部, 館内
+top3 entities near to cluster24>>
+迷路, 迷宮, 袋小路
+top3 entities near to cluster25>>
+建物, 家屋
+top3 entities near to cluster26>>
+文化, 区民, 職業
+top3 entities near to cluster28>>
+展示, 資料, 館

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:テクノプラザかつしか>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+葛飾, 葛飾区
+cluster1:(2)
+京成青砥駅, 青砥駅
+cluster2:(2)
+駅, 徒歩
+cluster3:(4)
+場所, 難点, こと, もの
+cluster4:(8)
+祭り, 人, 子供, 地域, 産業, テクノプラザ, 地域イベント, 地元
+cluster5:(15)
+おもちゃ, 食事, バス停, イベント, アクセス, バイト, ホール, セミナー, バイキング, 施設, 見学, レストラン, イメージ, バス, 最寄駅
+cluster6:(6)
+社会科, 活性化, 職業紹介所, 期間限定イベント, 振興事業, 利用価値
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 7
+deleted 0entities.

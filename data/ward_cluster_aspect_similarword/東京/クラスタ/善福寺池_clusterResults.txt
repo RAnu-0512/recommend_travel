@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善福寺池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+氷, 雪
+cluster1:(3)
+散歩, ご飯, 小道
+cluster2:(5)
+ガチョウ, 自転車, ガーガー, 井の頭公園, 戸建て
+cluster3:(2)
+中心, 近く
+cluster4:(2)
+人, 周り
+cluster5:(1)
+場所
+cluster6:(1)
+都
+cluster7:(4)
+季節, 寺, 桜, バス
+cluster8:(1)
+地名
+cluster9:(1)
+物見
+cluster10:(4)
+緑あふれる公園, 公園専用, 池, 善福寺池
+cluster11:(3)
+駐車場, 貸ボート, 住宅地
+
+howmany entities : 29
+howmany clusters : 12
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 12
+deleted 0entities.

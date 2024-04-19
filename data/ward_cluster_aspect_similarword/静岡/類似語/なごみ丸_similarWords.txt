@@ -1,0 +1,11 @@
+--------------------similar_words:なごみ丸--------------------
+top3 entities near to cluster0>>
+魚釣り, 釣
+top3 entities near to cluster2>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster12>>
+夫婦, 家族, 旦那
+top3 entities near to cluster14>>
+餌, エサ, イワシ
+top3 entities near to cluster15>>
+光波, 光, 天気

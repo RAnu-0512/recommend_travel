@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キュープラザ二子玉川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+キュープラザ二子玉川, 二子玉川駅, 二子玉川, 二子橋
+cluster1:(2)
+雑居ビル, 飲食店
+cluster2:(12)
+帰り道, 子連れ, モンベル, 結果, 外見, 子供, 邪魔, 近く, 仕事, 暇, キューブプラザ, コロナワクチン
+cluster3:(5)
+建物, ジム, 駅, 地下, ビル
+cluster4:(1)
+ママたち
+cluster5:(1)
+集団接種
+
+howmany entities : 25
+howmany clusters : 6
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 6
+deleted 0entities.

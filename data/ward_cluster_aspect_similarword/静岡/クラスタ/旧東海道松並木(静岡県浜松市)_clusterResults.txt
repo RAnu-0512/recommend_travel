@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧東海道松並木(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+駐車場, 遺構, 通行, 公共トイレ, 景観, 標識, 散策, 国道, 道路, 道路建設当時, 駐車, 江戸時代, 歩道, 信号手前
+cluster1:(19)
+車, 気, 他, 事, 石像, 奇跡, 地元, ベンチ, 写真, 並木道, 所々, 初期, 気持ち, 買い物, トイレ, 場所, 東海道, 車内, 方
+cluster2:(5)
+直線, 側, 入口, 南側, 中央
+cluster3:(4)
+努力, 観念, 方向, 道
+cluster4:(3)
+松, 並木, 葉
+cluster5:(3)
+昭和, 新町, 木
+cluster6:(1)
+松並
+cluster7:(1)
+杏林堂
+cluster8:(8)
+松並木, 舞阪町, 東海道松並木, 舞阪宿, JR舞阪駅, 舞阪南信号, 松並木公園, 両側松並木
+
+howmany entities : 58
+howmany clusters : 9
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 7
+deleted 2entities.

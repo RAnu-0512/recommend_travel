@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東広島市観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+酒蔵観光, 観光案内所, 観光スポット, 酒蔵巡り, 観光パンフレット
+cluster1:(2)
+改札, 改札口
+cluster2:(3)
+東広島市, 山陽本線西条駅, 西条
+cluster3:(2)
+酒蔵, 酒
+cluster4:(4)
+スタート, グルメスポット, グルメマップ, スタッフ
+cluster5:(2)
+構内, JR
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

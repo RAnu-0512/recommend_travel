@@ -1,0 +1,25 @@
+--------------------similar_words:なかのZERO--------------------
+top3 entities near to cluster1>>
+駅, 徒歩, 公園
+top3 entities near to cluster2>>
+西館, 本館, 東館
+top3 entities near to cluster3>>
+公演, 舞台, 客席
+top3 entities near to cluster4>>
+美術, 展示, 展覧
+top3 entities near to cluster5>>
+大, 小, ホール
+top3 entities near to cluster6>>
+教育, 幼児, 子供
+top3 entities near to cluster7>>
+コンサート, ホール, カフェ
+top3 entities near to cluster9>>
+施設, 利用, 宿泊
+top3 entities near to cluster10>>
+目線, 視点, 視線
+top3 entities near to cluster11>>
+白酒, パイチュウ
+top3 entities near to cluster12>>
+線路沿い, 線路, 道路沿い, 道路
+top3 entities near to cluster13>>
+輔室, 輔, 室長

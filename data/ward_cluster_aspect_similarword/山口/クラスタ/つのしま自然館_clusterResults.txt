@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:つのしま自然館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+つのしまくじら, つのしま自然観館
+cluster1:(2)
+角島大橋, 角島
+cluster2:(6)
+島, 鯨, 新種, 貝, 骨, 海
+cluster3:(11)
+ツノシマクジラ, 職員, こと, 土産, 展示, 息子, 勉強, 方, キャンプ場, 話, 天井
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

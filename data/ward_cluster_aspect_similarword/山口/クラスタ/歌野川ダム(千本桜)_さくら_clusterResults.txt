@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:歌野川ダム(千本桜)_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歌野川ダム, 歌野川ダム湖畔
+cluster1:(2)
+ダム湖, ダム湖畔
+cluster2:(2)
+ダム周辺, ダム
+cluster3:(1)
+防災・かんがい排水ダム
+cluster4:(3)
+千本, 千本桜, 千本もの桜
+cluster5:(23)
+姿, ヤマザクラ, 花見, 名所, 季節, 満開, 春先, 散策, 場所, 種類, 木々, 桜, 雰囲気, 時期, 周囲, 天気, 人, 花見客, 風情, 水, 花見スポット, 周辺, 散歩
+cluster6:(3)
+菊川町, 下関市, 環状道路
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 7
+deleted 0entities.

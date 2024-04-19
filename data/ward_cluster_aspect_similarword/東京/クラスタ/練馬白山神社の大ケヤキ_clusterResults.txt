@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:練馬白山神社の大ケヤキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅地, 住宅街
+cluster1:(8)
+シンボル, 家, こと, 木, ケヤキ, 高さ, 都内, 散策
+cluster2:(2)
+白山神社, 神社
+cluster3:(3)
+練馬駅, 豊島園駅, 練馬
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

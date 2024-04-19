@@ -1,0 +1,35 @@
+--------------------similar_words:日本銀行--------------------
+top3 entities near to cluster0>>
+風格, 威厳, 貫禄
+top3 entities near to cluster1>>
+傷む, お気, 痛む
+top3 entities near to cluster2>>
+役割, 中枢, 役目
+top3 entities near to cluster3>>
+経験, 体験, 業務
+top3 entities near to cluster4>>
+価値, 興味, 歴史
+top3 entities near to cluster5>>
+雰囲気, 外観, 印象
+top3 entities near to cluster8>>
+建物, 本館, 新館
+top3 entities near to cluster9>>
+金融, 経済, 政府
+top3 entities near to cluster10>>
+貨幣, 紙幣, 硬貨
+top3 entities near to cluster11>>
+本店, 支店, 三越
+top3 entities near to cluster12>>
+感染症, 感染, ウイルス
+top3 entities near to cluster13>>
+建築, 建物, 建造
+top3 entities near to cluster14>>
+予約, 受付, 事前
+top3 entities near to cluster15>>
+見学, 視察, 展示
+top3 entities near to cluster16>>
+散策, 土産, 周遊
+top3 entities near to cluster17>>
+検査, 身体, 手荷物
+top3 entities near to cluster18>>
+工事, 改修, 修繕

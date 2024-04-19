@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城ヶ崎自然研究路>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(32)
+マップ, 灯台, 駐車場, 途中, 岩場, 目当て, つり橋, コース, 駅, 手, 人, 付近, クライマー, 時間, 自信, 遊歩道, 位置, 海, 全て, アップダウン, ウォーキング, 吊り橋, 城ケ崎海岸, トイレ, 運動, 観光案内所, 方面, 一部スポット, 崖, 伊豆高原駅, 道, 靴
+cluster1:(2)
+城ヶ崎自然研究路, 自然研究路
+cluster2:(2)
+ヶ崎, 蓮着寺
+cluster3:(2)
+門脇つり橋, 門脇
+cluster4:(2)
+八幡野港, 八幡野漁港
+cluster5:(2)
+関東近郊, 関東
+cluster6:(1)
+橋立吊橋
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 1
+deleted 11entities.

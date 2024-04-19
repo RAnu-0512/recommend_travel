@@ -1,0 +1,15 @@
+--------------------similar_words:桜トンネル--------------------
+top3 entities near to cluster0>>
+車両, 客車
+top3 entities near to cluster1>>
+蕾, 満開, 蕾み
+top3 entities near to cluster3>>
+季節, 時期, 時季
+top3 entities near to cluster4>>
+両側, 横, 真横
+top3 entities near to cluster5>>
+周辺, 時間, 近辺
+top3 entities near to cluster9>>
+宿泊場, 駐車場, 駐車, 宿泊
+top3 entities near to cluster12>>
+桜, 八重桜, しだれ

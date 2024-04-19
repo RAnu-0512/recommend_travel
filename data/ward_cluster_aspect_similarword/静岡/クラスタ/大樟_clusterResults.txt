@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大樟>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+龍, 存在感, 雰囲気, 参道, 根元, 周囲, 威厳, 楠, 形, 祭神
+cluster1:(7)
+草薙神社, 御神木, 日本武尊, 神木, 草薙剣, 来宮神社, 草薙駅
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 0entities.

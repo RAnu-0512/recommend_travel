@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ丸ノ内線方南町駅--------------------
+top3 entities near to cluster1>>
+距離, 幅, 間隔
+top3 entities near to cluster2>>
+工事, 階段, 石段
+top3 entities near to cluster3>>
+駅, 電車, 始発駅
+top3 entities near to cluster4>>
+路線, 終点
+top3 entities near to cluster5>>
+改札, 券売, コンコース

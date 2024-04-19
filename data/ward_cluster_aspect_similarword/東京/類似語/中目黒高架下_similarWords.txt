@@ -1,0 +1,15 @@
+--------------------similar_words:中目黒高架下--------------------
+top3 entities near to cluster0>>
+蔦屋, 蔦, 書店
+top3 entities near to cluster1>>
+人気店, 話題, 人気
+top3 entities near to cluster3>>
+カフェ, スタバ, ショップ
+top3 entities near to cluster4>>
+足, 後足, 両足
+top3 entities near to cluster5>>
+軒, 軒店, 候補
+top3 entities near to cluster6>>
+全長, 全高, 直径
+top3 entities near to cluster7>>
+高架, 駅, 駅前

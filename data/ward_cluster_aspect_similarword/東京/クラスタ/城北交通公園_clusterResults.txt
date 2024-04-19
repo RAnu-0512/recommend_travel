@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城北交通公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, もの
+cluster1:(2)
+乗り物, 自転車
+cluster2:(3)
+三田線, ところ, グランド
+cluster3:(1)
+子連れ
+cluster4:(1)
+子供
+cluster5:(1)
+面
+cluster6:(1)
+無料貸し出し
+cluster7:(7)
+鉄道, 公園, 花見, SL, 桜, バス, 遊具
+cluster8:(8)
+交通ルール, 交通公園, 蓮根駅, 城北交通公園, SLではD51, 城北公園, 交通資料館, 板橋区
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 9
+deleted 0entities.

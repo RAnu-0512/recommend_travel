@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:泉津の切通し>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+写真, 世界, スポット, 周り, 階段, 奥
+cluster1:(3)
+道筋, 光景, 風景
+cluster2:(1)
+根
+cluster3:(1)
+もののけ姫
+cluster4:(1)
+大島一周道路
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

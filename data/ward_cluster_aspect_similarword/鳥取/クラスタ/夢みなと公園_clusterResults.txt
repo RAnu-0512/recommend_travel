@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夢みなと公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+大山, モニュメント, 海産物, 弓ヶ浜, 中心, 中, 印象, 間, 緑地公園, センター, 竹内団地, 日時計, 円柱, 人, タワー, 東, 海沿い, 方向
+cluster1:(4)
+店, 敷地, 施設, 食事
+cluster2:(3)
+散歩, 公園, 都市
+cluster3:(3)
+海, 釣り, 景色
+cluster4:(1)
+南岸
+cluster5:(1)
+海風
+cluster6:(8)
+埋立地, 環日本海研究室, 食事処, 複合公園, 駐車場, 山下公園, 境港魚センター, 境港
+cluster7:(5)
+夢みなとタワー, 夢みなと公園, 山陰夢みなと博覧会, 境港さかなせんたーや夢みなとタワー, 天然温泉入浴施設
+
+howmany entities : 43
+howmany clusters : 8
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 8
+deleted 0entities.

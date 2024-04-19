@@ -1,0 +1,51 @@
+--------------------similar_words:T-ROOMS 西荻陶芸教室--------------------
+top3 entities near to cluster0>>
+くろ, 電動, くろい
+top3 entities near to cluster1>>
+カップル, プラン, デート
+top3 entities near to cluster2>>
+雰囲気, 思い出, 思い入れ
+top3 entities near to cluster3>>
+マグカップ, ビアマグ, 一輪挿し
+top3 entities near to cluster4>>
+スタッフ, アシスタント, スッタフ
+top3 entities near to cluster5>>
+マンツーマン, アドバイス, インストラクター
+top3 entities near to cluster6>>
+サービス, オプション, オプショナルサービス
+top3 entities near to cluster7>>
+ポイント, ロードポイント, ポイン
+top3 entities near to cluster8>>
+仕上がり, 雰囲気, アットホーム
+top3 entities near to cluster9>>
+ひとり, 独り, ふたり
+top3 entities near to cluster10>>
+プラス, マイナス, 「+（
+top3 entities near to cluster11>>
+こども, 子ども, 子供
+top3 entities near to cluster12>>
+作り方, 色付け, 仕切り
+top3 entities near to cluster13>>
+参加, 追加, 用意
+top3 entities near to cluster15>>
+笑, 苦笑, 爆
+top3 entities near to cluster16>>
+以下, 上記, 下記
+top3 entities near to cluster17>>
+土, 木火, 木
+top3 entities near to cluster18>>
+ー・, ・・・・・, ・・・・・・・・
+top3 entities near to cluster19>>
+満足, 想像, 期待
+top3 entities near to cluster22>>
+難い, むずかしい, 難しい
+top3 entities near to cluster23>>
+機会, チャンス, 好機
+top3 entities near to cluster24>>
+愛着, 余韻
+top3 entities near to cluster25>>
+楽しい, 難い, 嬉しい
+top3 entities near to cluster27>>
+茶碗, 陶器, 湯飲み
+top3 entities near to cluster28>>
+体験, 陶芸, 作品

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:持舟城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+一宮左兵衛尉, 将向井伊賀守正重
+cluster1:(5)
+海岸, 駅, 丘, 近く, 山
+cluster2:(2)
+富士山, 伊豆半島
+cluster3:(2)
+用宗港, 手越原
+cluster4:(1)
+雰囲気
+cluster5:(1)
+日本平
+cluster6:(1)
+汗
+cluster7:(2)
+山城, 城
+cluster8:(2)
+武田, 今川
+cluster9:(1)
+領国
+cluster10:(4)
+高さ, 跡, 古戦場跡, 元実
+cluster11:(1)
+天文期
+cluster12:(4)
+水軍基地, 水軍, 今川家被官, 持舟城
+cluster13:(1)
+日本城郭大系 9
+
+howmany entities : 29
+howmany clusters : 14
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 16entities.

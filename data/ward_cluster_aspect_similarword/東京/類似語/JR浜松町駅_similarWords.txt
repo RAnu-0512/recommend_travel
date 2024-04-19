@@ -1,0 +1,45 @@
+--------------------similar_words:JR浜松町駅--------------------
+top3 entities near to cluster0>>
+芝, 竹, 離宮
+top3 entities near to cluster1>>
+環状線, 本線, 環状
+top3 entities near to cluster2>>
+改札, 北口, 南口
+top3 entities near to cluster3>>
+駅, 徒歩, 駅前
+top3 entities near to cluster4>>
+駅, 浜松町, 駅前
+top3 entities near to cluster5>>
+ホー, デス・ミン, 駅
+top3 entities near to cluster6>>
+貿易, ビル, 世界
+top3 entities near to cluster7>>
+小便, 小僧, ションベン
+top3 entities near to cluster8>>
+都, 都区, 都内
+top3 entities near to cluster10>>
+スーツケース, ビジネスマン, カバン
+top3 entities near to cluster11>>
+バリアフリー, エスカレーター, エレベーター
+top3 entities near to cluster12>>
+モノレール, 東京タワー, タワー
+top3 entities near to cluster13>>
+乗り換え, 乗り換える, 乗換え
+top3 entities near to cluster14>>
+プレート, スコシアプレート, スンダプレート
+top3 entities near to cluster15>>
+スムース, スムーズ, 滑らか
+top3 entities near to cluster16>>
+楽しみ, 待ち遠しい, 楽しん
+top3 entities near to cluster17>>
+劇団四季, ライオンキング, ディズニーミュージカル
+top3 entities near to cluster18>>
+ライト, ノベル, ブルー
+top3 entities near to cluster20>>
+増上寺, 青松寺, 芝公園
+top3 entities near to cluster21>>
+ラリー, スタンプ, ボーワ
+top3 entities near to cluster22>>
+ホーム, 外回り, 三田線
+top3 entities near to cluster24>>
+仕事, 学校, 映画

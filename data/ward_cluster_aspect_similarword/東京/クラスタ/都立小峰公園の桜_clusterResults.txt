@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立小峰公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+桜, 桜祭り, 花見
+cluster1:(7)
+公園, 広場, 子供, 上, ピンク色, 桜が丘, 方々
+cluster2:(1)
+小峰公園
+cluster3:(1)
+駐車場
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

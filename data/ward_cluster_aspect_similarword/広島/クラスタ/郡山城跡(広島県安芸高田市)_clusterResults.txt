@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:郡山城跡(広島県安芸高田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+興味, 自信, 存分, 気合, 余裕
+cluster1:(17)
+途中, 中, 心, 全て, 方, 泣く泣く途中, 感無量, パンフレット, 雨天, ポイント, 博物館, リベンジ, 人, 予定, 時間, 他, 想像
+cluster2:(2)
+国道, 道
+cluster3:(2)
+山頂, 山
+cluster4:(2)
+地方, 中国
+cluster5:(3)
+規模, 徒歩, 広大
+cluster6:(1)
+完全踏破
+cluster7:(20)
+山城, 正直碑, 碑, 尾崎丸, 城, 本丸跡, 広島市, 展望台, 墓所, 跡, 本丸, 工事, 石垣, 天守台, 丸, 玄関口, 城趾, 城跡, 遺構, 堀切
+cluster8:(8)
+名城, 毛利家, 郡山城, 安芸高田市歴史民俗博物館, 吉田郡山城, 名城スタンプ, 百名城巡り, 毛利元就公
+
+howmany entities : 60
+howmany clusters : 9
+howmany entities (more than1entities) : 60
+howmany clusters (more than1entities) : 9
+deleted 0entities.

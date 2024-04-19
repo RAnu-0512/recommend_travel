@@ -1,0 +1,75 @@
+--------------------similar_words:遊園地よみうりランド--------------------
+top3 entities near to cluster0>>
+ウォーター, パーク, ランド
+top3 entities near to cluster1>>
+ＵＦＯ, ロボグレンダイザー, ユーフォー
+top3 entities near to cluster2>>
+シーズン, 夏休み, 春休み
+top3 entities near to cluster3>>
+デートスポット, オススメスポット, ビュースポット
+top3 entities near to cluster4>>
+クリスマス, イルミネーション, クリスマスツリー
+top3 entities near to cluster5>>
+イベント, 催し物, イヴェント
+top3 entities near to cluster6>>
+パレード, 行進, デイパレード
+top3 entities near to cluster7>>
+ライブ, ライヴ, コンサート
+top3 entities near to cluster8>>
+デート, バレンタインデート, ダブルデート
+top3 entities near to cluster9>>
+イルミ, ホタル, イルミネーション
+top3 entities near to cluster10>>
+乗り物, 自販機, 食べ物
+top3 entities near to cluster11>>
+こども, 子ども, 遊び場
+top3 entities near to cluster12>>
+アトラクション, テーマパーク, イベント
+top3 entities near to cluster13>>
+予約, 受付, 対応
+top3 entities near to cluster16>>
+時期, 時季, 季節
+top3 entities near to cluster18>>
+種類, 数種類, 物の数
+top3 entities near to cluster19>>
+目的, 情報, 手段
+top3 entities near to cluster21>>
+日, 月, 11
+top3 entities near to cluster22>>
+パス, ロングパス, トレイン
+top3 entities near to cluster23>>
+ショー, ショウ, 噴水
+top3 entities near to cluster24>>
+景色, 天気, 夜景
+top3 entities near to cluster25>>
+音楽, 教育, 野球
+top3 entities near to cluster26>>
+子供, 子ども, 女性
+top3 entities near to cluster27>>
+笑顔, 態度
+top3 entities near to cluster28>>
+恐怖心, 恐怖, 記憶
+top3 entities near to cluster29>>
+潔癖, 屋敷, お化け
+top3 entities near to cluster30>>
+絶叫系, 絶叫, 叫び
+top3 entities near to cluster31>>
+夜, 出入り口, 屋台
+top3 entities near to cluster32>>
+遊園地, 遊園, 揚島
+top3 entities near to cluster33>>
+前売り券, 入場券, 入場, 前売り
+top3 entities near to cluster34>>
+駅, 駅前, 南口
+top3 entities near to cluster35>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster36>>
+時間, 混雑, 人出
+top3 entities near to cluster37>>
+接客, 防寒, 介助
+top3 entities near to cluster38>>
+園内, 入場, 入園
+top3 entities near to cluster39>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster40>>
+施設, 屋内, 設備

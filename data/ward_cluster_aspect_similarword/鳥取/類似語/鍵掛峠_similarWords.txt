@@ -1,0 +1,15 @@
+--------------------similar_words:鍵掛峠--------------------
+top3 entities near to cluster0>>
+ドライブ, 景色, スノードライブ
+top3 entities near to cluster1>>
+山, 大山寺, 大山
+top3 entities near to cluster2>>
+自然, 周辺, 各地
+top3 entities near to cluster4>>
+写真, 撮影, 共演
+top3 entities near to cluster5>>
+山頂, 山肌, 斜面
+top3 entities near to cluster6>>
+景色, 絶景, 風景
+top3 entities near to cluster7>>
+大山, 林, 麓

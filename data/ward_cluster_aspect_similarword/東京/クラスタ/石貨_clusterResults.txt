@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石貨>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+説明板, ミクロネシア, 無造作, 円形, 心字池, 金, 日比谷公園
+cluster1:(3)
+北東側, 向こう側, 南太平洋ヤップ島
+cluster2:(1)
+石貨
+cluster3:(1)
+有楽門
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

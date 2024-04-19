@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長谷寺(静岡県下田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歴史, 建物, 文化財
+cluster1:(4)
+人, 場所, 昔, 国
+cluster2:(1)
+寺
+cluster3:(1)
+阿弥陀如来像
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

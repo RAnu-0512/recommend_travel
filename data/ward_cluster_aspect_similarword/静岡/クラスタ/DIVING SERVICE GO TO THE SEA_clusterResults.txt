@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:DIVING SERVICE GO TO THE SEA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京駅, 城ヶ崎駅
+cluster1:(2)
+伊豆, 下田
+cluster2:(4)
+ダイビング, 踊り子号, 途中, ダイビングショップ
+cluster3:(1)
+下車徒歩
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜名湖MIRUKI>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ゴミ回収箱, 着火剤, BBQ用具一式
+cluster1:(21)
+食材, リピート, グッドコンディション, 漕ぎ方, ゴミ, コツ, 炭, 浜名湖西岸の木, もの, コンロ等, 時間帯, SUP, 時間, 木陰, 湖畔, 人柄, 紹介文, 取り分け小皿, 場, 風, 割り箸
+cluster2:(1)
+至れり尽くせり
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 1entities.

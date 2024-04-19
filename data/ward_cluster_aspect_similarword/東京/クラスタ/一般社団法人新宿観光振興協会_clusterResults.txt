@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一般社団法人新宿観光振興協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東京メトロ丸ノ内線, 新宿, 西新宿駅
+cluster1:(2)
+観光スポット, 観光コース
+cluster2:(3)
+人, パンフレット, 参考
+cluster3:(2)
+新宿観光振興協会, 一般社団法人
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

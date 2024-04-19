@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さがらサンビーチ海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 海水浴場, 静波海水浴場
+cluster1:(10)
+アクセス, 周り, 初日の出, 家族, こと, 手, クチコミ, 場合, トイレ, 他
+cluster2:(3)
+海岸, 波, 海
+cluster3:(2)
+神事, 鳥居
+cluster4:(1)
+飲食店
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 3entities.

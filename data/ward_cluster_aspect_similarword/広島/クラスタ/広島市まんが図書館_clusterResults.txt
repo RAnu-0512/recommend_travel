@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市まんが図書館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+歴史, 子供, 館内, 資料, スポット, 漫画, 子供連れ, 図書館, マンガ, 上, 人, 大人, 多く, まんが, 子ども, 時間, 近く, 現代美術館, 山, 場所, 比治山, こども
+cluster1:(3)
+山頂部, 広島市, 市立図書館
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 2
+deleted 0entities.

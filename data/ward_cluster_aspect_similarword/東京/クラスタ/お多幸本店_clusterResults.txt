@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お多幸本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+所, 話, 受け取り方, 仕事, 態度, 発言, 上, 前, 時間, もの
+cluster1:(2)
+とうふ, 美味しさ
+cluster2:(2)
+おでん全般, 出汁
+cluster3:(2)
+ごはん, ランチ
+cluster4:(4)
+メイン, オススメ, メニュー, すべて
+cluster5:(1)
+日本橋
+cluster6:(3)
+おでん, 焼き鳥, コンビニおでん
+cluster7:(1)
+ご飯
+cluster8:(1)
+〆
+cluster9:(1)
+名物
+cluster10:(4)
+九州, 新橋, 茶, 日本
+cluster11:(1)
+多幸
+cluster12:(7)
+店, 関東風, 行列, 人気店, 平日ランチ, 混雑, 相席
+cluster13:(7)
+定食, おでん定食, 豆腐, おでん屋, とうめし, 丼, 木綿豆腐
+
+howmany entities : 46
+howmany clusters : 14
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 14
+deleted 0entities.

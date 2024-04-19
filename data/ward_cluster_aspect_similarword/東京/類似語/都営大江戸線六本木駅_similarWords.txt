@@ -1,0 +1,9 @@
+--------------------similar_words:都営大江戸線六本木駅--------------------
+top3 entities near to cluster0>>
+地下, 地上, 屋上
+top3 entities near to cluster1>>
+乗車, 乗客, 乗降
+top3 entities near to cluster2>>
+駅, 駅前, 徒歩
+top3 entities near to cluster3>>
+公園, 芸術, 美術館

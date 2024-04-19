@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:智満寺(静岡県島田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+勿論本堂, 本尊, 本堂
+cluster1:(4)
+林, 本杉, 杉, 本山
+cluster2:(12)
+千葉山ハイキング, 途中, 天台宗, 比叡山, 延暦寺, コース, 人, 階段, 山頂, 公開, 千手観音, 千葉山
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 0entities.

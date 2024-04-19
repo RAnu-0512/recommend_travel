@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千早地域文化創造館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+コロナ, 施設, 場
+cluster1:(2)
+懇談, 発表会
+cluster2:(1)
+会議室
+cluster3:(1)
+楽器練習
+cluster4:(1)
+生涯学習施設
+cluster5:(1)
+豊島区
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

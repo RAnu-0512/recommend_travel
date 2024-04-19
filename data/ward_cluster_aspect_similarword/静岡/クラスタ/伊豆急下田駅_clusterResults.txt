@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆急下田駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+下田, 伊豆, 西伊豆・松崎, 下田駅, 下田観光
+cluster1:(13)
+車, バサラ峠, 土産, 荷物, 黒船ソフト, 黒, バニラ, 観光スポット, 土産屋, 種類, 中, トイレ, ハシゴ
+cluster2:(4)
+バスロータリー, バス, 路線バス, 東海バス
+cluster3:(4)
+駅周辺, 改札, 駅, 駅構内
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 4
+deleted 0entities.

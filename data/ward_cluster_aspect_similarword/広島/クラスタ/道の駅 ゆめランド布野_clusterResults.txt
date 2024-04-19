@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 ゆめランド布野>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供, 家族連れ, 子供たち
+cluster1:(2)
+広島, 島根
+cluster2:(2)
+アイスクリーム屋, 惣菜バイキング
+cluster3:(5)
+国道, 川, 道, 駅, 県境
+cluster4:(9)
+我が家, 時期, 休憩, 味, アイス, 目, 事, バイキング, 裏
+cluster5:(1)
+産直市
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 6
+deleted 0entities.

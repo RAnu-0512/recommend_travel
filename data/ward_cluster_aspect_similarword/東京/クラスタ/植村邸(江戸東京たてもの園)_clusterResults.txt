@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:植村邸(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+見応え, 前面, 姿, 特徴
+cluster1:(5)
+看板建築, 外壁, 洋風, 銅版, 建物
+cluster2:(1)
+植村
+cluster3:(1)
+古き良き佇まい
+cluster4:(1)
+江戸東京たてもの園
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

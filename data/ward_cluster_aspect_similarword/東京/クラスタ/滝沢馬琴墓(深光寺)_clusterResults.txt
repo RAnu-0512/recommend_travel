@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滝沢馬琴墓(深光寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+茗荷谷駅, 浅草, 東京メトロ
+cluster1:(4)
+墓, 墓石, 寺, 境内
+cluster2:(10)
+南総里見八犬伝, 本, 表示, 月日, 話, 作者, こと, 時代, 生まれ, 最寄駅
+cluster3:(6)
+深光寺, 江戸時代後期, 滝沢馬琴墓, 馬琴, 滝沢馬琴, 南総里美八犬伝
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日原渓流釣場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+釣り, 魚
+cluster1:(2)
+受付, 係
+cluster2:(7)
+人, 中, 釣り堀, 気, 場, 男性, 醍醐味
+cluster3:(1)
+態度
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

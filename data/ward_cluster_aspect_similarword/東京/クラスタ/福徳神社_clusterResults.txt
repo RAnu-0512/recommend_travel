@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福徳神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+神社, 場所, 宝くじ当選, オフィス, 日本橋, アクセス, 鳥居, 気持ち, 感じ, ピカピカ, 宝くじ神社, 同僚達, 参拝客, 宝くじ, 祓い, 会社, 梅, こと, 利益, 列, 友人, 大昔, 訪問
+cluster1:(3)
+ひとつ福徳神社, 福徳神社, 薬祖神社
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ丸の内線 国会議事堂前駅--------------------
+top3 entities near to cluster0>>
+端, 両端, 端っこ
+top3 entities near to cluster2>>
+駅線, 駅, 駅前線, 駅前
+top3 entities near to cluster3>>
+国会, 議事堂, 議会
+top3 entities near to cluster4>>
+上り, 行き
+top3 entities near to cluster5>>
+国会, 議事, 議事堂

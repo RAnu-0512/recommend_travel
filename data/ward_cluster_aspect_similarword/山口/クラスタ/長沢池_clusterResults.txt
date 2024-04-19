@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長沢池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ドライブ, 途中
+cluster1:(1)
+地域
+cluster2:(1)
+海
+cluster3:(1)
+池
+cluster4:(1)
+国道
+cluster5:(1)
+溜池
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

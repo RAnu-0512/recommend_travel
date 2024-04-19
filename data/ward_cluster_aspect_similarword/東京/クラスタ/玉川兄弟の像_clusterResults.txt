@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉川兄弟の像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+玉川兄弟, 玉川, 玉川兄弟の像
+cluster1:(2)
+上水, 堰
+cluster2:(6)
+季節, 多摩川, 桜, 対岸, 説明, 像
+cluster3:(1)
+取水口
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

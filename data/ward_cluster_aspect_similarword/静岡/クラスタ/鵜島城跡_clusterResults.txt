@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鵜島城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+下田城, 平山城, 下田城址
+cluster1:(3)
+下田, 下田市, 下田港
+cluster2:(2)
+下田海中公園, 下田公園
+cluster3:(1)
+静岡県
+cluster4:(4)
+大水軍, 戦国時代, 豊臣秀吉, 水軍
+cluster5:(2)
+支配下, 高さ
+cluster6:(7)
+坂道, 敷地, 市街, 景色, 南側, 高台, 絶景
+cluster7:(2)
+精鋭, 戦力
+cluster8:(17)
+あじさい, 所, 一部, 祭り, 日本, もの, ところ, アジサイ, 花, 海, 中, アジサイ通り, スポット, 年代, 森林公園, 時代, 季節
+cluster9:(3)
+天然, 伊豆, 北条
+cluster10:(1)
+不落
+cluster11:(20)
+駐車場, 山稜地, 山稜, 要害, 跡, 城跡, 鵜島城跡, 天守台跡, 城, 城山公園, 観光客, 城址, 鵜島城址, 公園, 石碑, 自然公園, 鵜島, 開国記念碑, 空堀跡, 史跡
+
+howmany entities : 65
+howmany clusters : 12
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 7
+deleted 8entities.

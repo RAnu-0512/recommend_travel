@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:港区立郷土歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+ゾーン, 吹き抜け, 建物内部, 建物, 気, 満足度, 港区, 写真撮影可, 暮らし, 無料ゾーン, 見学, 入り口, 白瀬中尉, 時間, 写真, 講堂, バーコードリーダー, 閲覧, 中尉, 展示
+cluster1:(2)
+特別展, 特別展込み
+cluster2:(2)
+企画展示, 企画展
+cluster3:(2)
+常設展, 常設展示
+cluster4:(1)
+代替施設展示室
+cluster5:(1)
+福澤諭吉展示館
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

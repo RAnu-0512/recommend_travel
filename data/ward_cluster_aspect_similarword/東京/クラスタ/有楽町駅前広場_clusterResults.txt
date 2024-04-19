@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有楽町駅前広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+夜, 休日
+cluster1:(9)
+イベント, ワールドカップ, 大道芸, インタビュー, デパート, イメージ, イルミネーション, スペース, 待ち合わせ
+cluster2:(4)
+イトシア, 有楽町, 有楽町線, マルイ
+cluster3:(4)
+ブース, 人, 人々, テントブース
+cluster4:(4)
+時期イリュミネーション, 感じ, 前, こと
+cluster5:(2)
+ショッピング施設, 各種イベント
+cluster6:(1)
+大きさ
+cluster7:(15)
+会館, 政党, 駅前広場, 当地グルメ, 東京メトロ有楽町駅, 政治家, 交通会館, 駅, 広場, 前広場, 有楽町駅前広場, 演説, 有楽町駅, 中央口, 駅ビル
+
+howmany entities : 41
+howmany clusters : 8
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 8
+deleted 0entities.

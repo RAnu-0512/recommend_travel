@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常性寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸時代, 鎌倉時代創建
+cluster1:(2)
+不動尊, 成田山新勝寺
+cluster2:(1)
+寺院
+cluster3:(1)
+調布市
+cluster4:(1)
+真言宗豊山派
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

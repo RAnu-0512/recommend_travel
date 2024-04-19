@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サーフェイス カヤックガイドサービス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+ガイド, ランチ, 西伊豆, 代わり, シュノーケル, ラスト, 人, ファミリーカヤック, スイカ, シュノーケリングポイント, ツアー, カヤック, シーカヤック
+cluster1:(2)
+写真, 場所
+cluster2:(4)
+魚, 親, 海, 子供
+cluster3:(7)
+天候, 開催, 参加, ケア, 経験, 余裕, 方面
+cluster4:(1)
+乗り方
+
+howmany entities : 27
+howmany clusters : 5
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 3
+deleted 3entities.

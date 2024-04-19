@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草香和>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+感じ, 期待, 活躍
+cluster1:(2)
+種類, 時間
+cluster2:(5)
+店, 同級生, ドリンク, ショー, 意気込み
+cluster3:(1)
+軽食
+cluster4:(1)
+踊り
+cluster5:(1)
+和物ショー
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

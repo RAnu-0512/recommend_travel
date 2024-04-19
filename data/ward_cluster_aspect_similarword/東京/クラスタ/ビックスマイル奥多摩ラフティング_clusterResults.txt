@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビックスマイル奥多摩ラフティング>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+笑笑ラフティング, 笑笑ガイド
+cluster1:(3)
+社員, 語, 会社
+cluster2:(3)
+自然, 上手, 健康
+cluster3:(2)
+水, 時間
+cluster4:(4)
+人, 他, 家族, 仲間
+cluster5:(2)
+ジイジ, 息子
+cluster6:(5)
+兄さん, ラフティング, ネパール, おかげ, レッスン
+cluster7:(3)
+ベテランスタッフ, スタッフ, ガイド
+cluster8:(1)
+思い出
+cluster9:(1)
+ビッグスマイル
+cluster10:(1)
+英
+cluster11:(9)
+次回, 気, 方たち, 事, 機会, 今回, 方, 約束, 盛り上げ方
+
+howmany entities : 36
+howmany clusters : 12
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 12
+deleted 0entities.

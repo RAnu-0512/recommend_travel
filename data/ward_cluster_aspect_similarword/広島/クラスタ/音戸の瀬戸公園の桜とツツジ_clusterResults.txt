@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:音戸の瀬戸公園の桜とツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+第二音戸大橋, 音戸大橋, 音戸大橋公園
+cluster1:(6)
+広島, 瀬戸, 呉市, 瀬戸公園, 音戸, トイレ瀬戸公園
+cluster2:(8)
+桜, 花, 花見シーズン, 一面ツツジ, 春, 花見, 見頃, 満開
+cluster3:(13)
+写真家, 連休, 車, 温泉, 訪問, 橋, 土産, 名所, 景色, 弁当, 道路, 公園, 風景
+cluster4:(5)
+青, 空, ゆっくり海, 海, 赤
+cluster5:(9)
+一度ツツジ, 時期, 季節, 年, 価値, 環境, 時間, こと, 場所
+cluster6:(12)
+つつじ, オススメ, 倉橋島, コントラスト, スポット, 瀬戸内海, シーズン, ツツジ, コラボ, ドライブ, 江田島, 食い初め
+cluster7:(2)
+色, 絵
+cluster8:(2)
+フォトスポット, 写真
+cluster9:(2)
+人, 家族
+cluster10:(2)
+高台, 孫
+cluster11:(1)
+駐車場
+
+howmany entities : 65
+howmany clusters : 12
+howmany entities (more than1entities) : 65
+howmany clusters (more than1entities) : 12
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正護寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+木造仏, 木造薬師如来坐像, 指定有形文化財
+cluster1:(2)
+弘政, 正護寺
+cluster2:(8)
+寺, 一族右田, 山口県, 平安, ほか, 釈迦如来, 臨済宗, 本尊
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

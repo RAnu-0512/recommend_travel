@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桂太郎旧宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+邸宅, 建物
+cluster1:(2)
+庭, 庭園
+cluster2:(1)
+造り
+cluster3:(1)
+旧宅
+cluster4:(14)
+こと, 南側, 橋本川, 人物, 家, 場所, 出身, 日本, あたり, 市街地, 人, 水, 歴史, 宅
+cluster5:(3)
+維新, 萩, 明治
+cluster6:(1)
+小ささ
+cluster7:(6)
+山口県, 総理大臣, 長州藩, 松本川, 桂太郎旧, 桂太郎
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 8
+deleted 0entities.

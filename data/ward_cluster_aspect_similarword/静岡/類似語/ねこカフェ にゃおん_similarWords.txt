@@ -1,0 +1,7 @@
+--------------------similar_words:ねこカフェ にゃおん--------------------
+top3 entities near to cluster0>>
+猫, ねこ, ネコ
+top3 entities near to cluster1>>
+子, 先生, 娘
+top3 entities near to cluster7>>
+店員, 店主

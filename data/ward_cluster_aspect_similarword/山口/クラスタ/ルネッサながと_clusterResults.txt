@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ルネッサながと>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+設備, 劇場
+cluster1:(13)
+子供, 中, 小学校, コンサート, 公園, 場所, レストラン, ご飯, ローラー滑り台, 体育館, スポーツイベント, アリーナ, ニーズ
+cluster2:(1)
+学年
+cluster3:(1)
+落差
+cluster4:(1)
+仙崎
+cluster5:(4)
+舞台機構, 芝居小屋, 施設利用, 駐車場
+cluster6:(1)
+ながと総合体育館
+cluster7:(1)
+山口県民芸術文化ホール
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:堀江家住宅(広島県庄原市)--------------------
+top3 entities near to cluster0>>
+住宅, 建物, 家屋
+top3 entities near to cluster1>>
+農家, 農場, 農業
+top3 entities near to cluster3>>
+創建, 時期, 建立
+top3 entities near to cluster4>>
+葺き, 屋根, 藁

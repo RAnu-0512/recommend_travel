@@ -1,0 +1,15 @@
+--------------------similar_words:長瀬海水浴場(ヒューマンビーチ長瀬)--------------------
+top3 entities near to cluster0>>
+海水浴場, 駐車場, 駐車, 海水浴
+top3 entities near to cluster1>>
+温泉, 温泉郷, 湯
+top3 entities near to cluster3>>
+海, 海水浴, 浜辺
+top3 entities near to cluster4>>
+景色, 風景, 光景
+top3 entities near to cluster5>>
+うみ, こびよ, ねこ
+top3 entities near to cluster6>>
+幅, 奥行き, 巾
+top3 entities near to cluster7>>
+砂浜, 海岸, 沖

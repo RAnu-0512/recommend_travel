@@ -1,0 +1,9 @@
+--------------------similar_words:上野動物園 フラミンゴ舎--------------------
+top3 entities near to cluster0>>
+ピンク, ピンク色, 水色
+top3 entities near to cluster1>>
+フラミンゴ, チリーフラミンゴ, ドフラミンゴ
+top3 entities near to cluster3>>
+身体, からだ
+top3 entities near to cluster5>>
+淡い, ピンク色, 水色

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駅レンタカー 浜松営業所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+浜松アクトシティ, 浜松駅, オリックスレンタカー浜松駅
+cluster1:(4)
+オリックス, JR, アクトシティ北側, 前店内
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 0entities.

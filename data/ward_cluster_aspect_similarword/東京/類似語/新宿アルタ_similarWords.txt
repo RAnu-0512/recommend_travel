@@ -1,0 +1,83 @@
+--------------------similar_words:新宿アルタ--------------------
+top3 entities near to cluster0>>
+高校生, 大学生, 中学生
+top3 entities near to cluster2>>
+待ち合わせ, カップル, 待ちあわせ
+top3 entities near to cluster3>>
+スタジオアルタ, アルタビジョン, ショッピングビル
+top3 entities near to cluster4>>
+ランジェリー, アモスタイル, レディース
+top3 entities near to cluster5>>
+レストラン, ショッピング, ホットケーキ
+top3 entities near to cluster6>>
+パフォーマー, エキシビション, エキシビジョン
+top3 entities near to cluster7>>
+アクセサリー, ファッション, ラインナップ
+top3 entities near to cluster8>>
+プレゼント, サプライズプレゼント, プレンゼント
+top3 entities near to cluster9>>
+スクリーン, ショット, プロジェクタ
+top3 entities near to cluster10>>
+ファッショ, ファッシ, ファシスト
+top3 entities near to cluster11>>
+バイキング, スイーツ, スタジオ
+top3 entities near to cluster12>>
+モニター, モニタ, コスメモニター
+top3 entities near to cluster13>>
+シンボル, アイコン, イメージ
+top3 entities near to cluster14>>
+面白い, おもしろい, 大好き
+top3 entities near to cluster15>>
+入り口, 入口, 出入り口
+top3 entities near to cluster16>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster17>>
+ファン, ユニコーンファン, 熱狂
+top3 entities near to cluster18>>
+フロア, 各階, ショールーム
+top3 entities near to cluster19>>
+フロア, 各階, 地階
+top3 entities near to cluster20>>
+地下街, 地下道, 地下鉄
+top3 entities near to cluster21>>
+ファッション, ショップ, ショッピング
+top3 entities near to cluster22>>
+メーク, メンズ, レディース
+top3 entities near to cluster23>>
+アルタ, タモリ, テレフォンショッキング
+top3 entities near to cluster24>>
+テレビ, ＴＶ, テレビ局
+top3 entities near to cluster25>>
+ビジョン, オーロラ, ヴィジョン
+top3 entities near to cluster26>>
+ショー, ライブ, ライヴ
+top3 entities near to cluster27>>
+ショップ, 商品, アパレル
+top3 entities near to cluster28>>
+バス, 車窓, 電車
+top3 entities near to cluster29>>
+駅, 交番, 駅前
+top3 entities near to cluster30>>
+入り口, 入口, 出入り口
+top3 entities near to cluster32>>
+界隈, 駅前, 駅
+top3 entities near to cluster33>>
+東口, 南口, 北口
+top3 entities near to cluster35>>
+洋服屋, 雑貨屋, 洋服, 雑貨
+top3 entities near to cluster36>>
+雑貨屋, 雑貨店, 雑貨
+top3 entities near to cluster37>>
+雑貨屋, 雑貨
+top3 entities near to cluster40>>
+ビル, 商業, 建物
+top3 entities near to cluster41>>
+洋服, 小物
+top3 entities near to cluster42>>
+飲食店, 店舗, 飲食
+top3 entities near to cluster43>>
+コメ兵, コメ, 返ん
+top3 entities near to cluster44>>
+雑貨, 専門
+top3 entities near to cluster45>>
+テレビ, 番組, 大型

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:FUJIFILM SQUARE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+写真歴史博物館, 歴史
+cluster1:(5)
+記念写真, 写真店, 写真家, 写真, 写真ギャラリー
+cluster2:(4)
+企画展, 入場無料, 写真展, 随時展示
+cluster3:(1)
+化粧品
+cluster4:(32)
+六本木駅, アンティークカメラ, 食事, 場所, カメラ, 富士フィルム, イベント, ブース, プロ, フィルメーカー, ウェスト, 赤坂ミッドタウン, 複数, フジ, 施設, 体験, フォトギャラリー, アンティークコレクション, 富士フィルムスクエア, カメラマン, ミッドタウン, 印象, 富士フイルム, 前, 時間, 前田真三, ギャラリー, 雰囲気, フォトコンテスト, ギャラリートーク, 富良野, 東京ミッドタウン
+
+howmany entities : 44
+howmany clusters : 5
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 5
+deleted 0entities.

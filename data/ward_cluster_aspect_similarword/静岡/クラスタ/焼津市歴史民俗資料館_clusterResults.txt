@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:焼津市歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+歴史民俗資料館, 焼津市歴史民俗資料館, 歴史民族資料館, 歴史資料館, 資料館
+cluster1:(16)
+図書館, 静岡県, 水爆実験, ビキニ環礁, 焼津市, 展示, 縄文, こと, 石器, 資料, 歴史, 片隅, 農具, 事件, 民家, 漁業
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 0entities.

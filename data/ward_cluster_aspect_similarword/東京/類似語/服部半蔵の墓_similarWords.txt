@@ -1,0 +1,13 @@
+--------------------similar_words:服部半蔵の墓--------------------
+top3 entities near to cluster1>>
+功績, 墓碑
+top3 entities near to cluster2>>
+信, 聞即, 蔡阿
+top3 entities near to cluster3>>
+山門, 寺, 本堂
+top3 entities near to cluster4>>
+裏手, 入り口, 正面
+top3 entities near to cluster5>>
+家康, 豊臣, 秀吉
+top3 entities near to cluster6>>
+お寺, 入口

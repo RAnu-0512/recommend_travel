@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狩留賀海浜公園(ロマンチックビーチかるが)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アスレチック, バーベキュー
+cluster1:(1)
+海水浴
+cluster2:(1)
+人
+cluster3:(1)
+駅
+cluster4:(1)
+水道
+cluster5:(1)
+狩留賀海浜公園
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

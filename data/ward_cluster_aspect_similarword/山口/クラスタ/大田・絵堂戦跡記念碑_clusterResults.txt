@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大田・絵堂戦跡記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こと, 記念碑
+cluster1:(1)
+記念
+cluster2:(1)
+地
+cluster3:(1)
+戦争
+cluster4:(1)
+絵堂
+cluster5:(1)
+諸隊
+cluster6:(1)
+藩政府軍
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

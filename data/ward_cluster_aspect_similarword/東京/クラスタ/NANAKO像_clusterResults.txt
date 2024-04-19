@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NANAKO像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+公募, 作成, 作成者
+cluster1:(2)
+待ち合わせ場所, 場所
+cluster2:(3)
+NANAKO, 猫, 招き猫
+cluster3:(4)
+こと, 頭, 前, 名前
+cluster4:(1)
+渋谷
+cluster5:(1)
+像
+cluster6:(1)
+撫
+cluster7:(1)
+渋谷西武 Movida館
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 8
+deleted 0entities.

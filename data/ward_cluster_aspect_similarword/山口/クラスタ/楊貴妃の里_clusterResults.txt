@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:楊貴妃の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+萩観光, 観光パンフレット, 山口県, 湯本温泉, 観光地, お土産屋, 観光客
+cluster1:(20)
+中国, 旅館, こと, ところ, スポット, 行き違い, 話題, 他, 楊貴妃, ロマン, 帰り, 川尻岬, 長門, 京都, ドライブ, 美人, 感じ, ユニーク, 方, 亡くなり
+cluster2:(2)
+像, 銅像
+cluster3:(2)
+車, 建物
+cluster4:(2)
+付近, 公園
+cluster5:(3)
+愛犬, 夫婦, 墓
+cluster6:(1)
+池
+cluster7:(1)
+名所
+cluster8:(1)
+楊貴妃の里
+cluster9:(1)
+駐車場
+cluster10:(4)
+最適地, 若さ, 高さ, 信憑性
+
+howmany entities : 44
+howmany clusters : 11
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 11
+deleted 0entities.

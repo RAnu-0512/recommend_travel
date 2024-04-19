@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御手洗天満宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+菅原道真公ゆかり, 菅原道真公
+cluster1:(35)
+いわれ, 自転車, 御手洗, 碑, 境内, 街並み, 手, 井戸, 歌碑, 世界, 寺, 観光地, 石, 逸話, む 人, 菅公, 町, 名, 寺参り, 御手洗天満宮, 雰囲気, 事, 天満宮, 出身, 天, 自然石, 奥, 地名, やなか, 気持ち, こと, 場所, 歌, 九州, 神社
+cluster2:(5)
+江戸〜昭和, 呉市, 広島市, 広島県, 中村春吉
+
+howmany entities : 42
+howmany clusters : 3
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 3
+deleted 0entities.

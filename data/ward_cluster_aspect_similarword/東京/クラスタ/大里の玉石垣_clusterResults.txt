@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大里の玉石垣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+民家, 本土, 植物, 地区全体, 大里, 表示, 荒波, 青ヶ島, 一部, 状態, 太平洋, 近く, 形, ふるさと村, 八丈島, 住宅, 見学, 再開, 景観, 再建, 敷地, 基礎, 禁止, 海浜, 美しさ, 亜熱帯, 見た目
+cluster1:(4)
+玉石, 丸石, 川石, 石
+cluster2:(2)
+丸い玉, 玉
+cluster3:(2)
+玉石垣, 石垣
+cluster4:(2)
+道沿い, 擁壁
+cluster5:(3)
+大里地域の歴史民俗資料館, 陣屋跡付近に見られる玉石垣, 八丈島歴民俗資料館
+
+howmany entities : 40
+howmany clusters : 6
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 6
+deleted 0entities.

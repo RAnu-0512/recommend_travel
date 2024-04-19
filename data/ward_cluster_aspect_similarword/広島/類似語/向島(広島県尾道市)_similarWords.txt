@@ -1,0 +1,49 @@
+--------------------similar_words:向島(広島県尾道市)--------------------
+top3 entities near to cluster1>>
+ジュース, パフェ, フルーツ
+top3 entities near to cluster2>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster3>>
+サイクリング, レンタカー, レンタサイクル
+top3 entities near to cluster5>>
+ドラマ, テレビ, クドカンドラマ
+top3 entities near to cluster6>>
+ビュン, ビュンッ, ピューン
+top3 entities near to cluster7>>
+人込み, マップ, 人混み
+top3 entities near to cluster8>>
+海沿い, 自転車, フェリー
+top3 entities near to cluster9>>
+景色, 景観, 風景
+top3 entities near to cluster11>>
+空間, 時間, 距離
+top3 entities near to cluster13>>
+子供連れ, 子供, づれ
+top3 entities near to cluster14>>
+渡し船, 渡し舟
+top3 entities near to cluster15>>
+食料, 工場, 食糧
+top3 entities near to cluster16>>
+監督, 映画, 脚本
+top3 entities near to cluster17>>
+写真, フォト, パワー
+top3 entities near to cluster18>>
+バイク, クルマ
+top3 entities near to cluster19>>
+繁華街, 繁華
+top3 entities near to cluster20>>
+公園, 海岸, 市民
+top3 entities near to cluster21>>
+船旅, 旅
+top3 entities near to cluster22>>
+至便, 交通, 通学
+top3 entities near to cluster23>>
+船舶, 造船
+top3 entities near to cluster24>>
+干水, 炭酸水, 炭酸, 干
+top3 entities near to cluster25>>
+山, 桃, 海
+top3 entities near to cluster26>>
+島, 海道, 島々
+top3 entities near to cluster27>>
+パン屋, パン, コミベーカリー

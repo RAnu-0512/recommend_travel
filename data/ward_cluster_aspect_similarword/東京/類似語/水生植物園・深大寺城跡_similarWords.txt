@@ -1,0 +1,15 @@
+--------------------similar_words:水生植物園・深大寺城跡--------------------
+top3 entities near to cluster0>>
+植物園, 動物園, 植物, 動物
+top3 entities near to cluster1>>
+入場料, 入場, 入館料, 入館
+top3 entities near to cluster2>>
+敷地, 公園, 園内
+top3 entities near to cluster3>>
+自然, 深大寺, 水辺
+top3 entities near to cluster5>>
+湿地, 湿原, 沼地
+top3 entities near to cluster7>>
+施設, 設備, 時期
+top3 entities near to cluster8>>
+散策路, 散策, 従走

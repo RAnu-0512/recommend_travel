@@ -1,0 +1,61 @@
+--------------------similar_words:はわい温泉--------------------
+top3 entities near to cluster0>>
+宿泊, 温泉, 入浴
+top3 entities near to cluster1>>
+身体
+top3 entities near to cluster2>>
+小型船, 小型車, 小型
+top3 entities near to cluster3>>
+公園, 七福神, めぐり
+top3 entities near to cluster4>>
+水面, 湖面
+top3 entities near to cluster5>>
+水鳥, 野鳥, 鳥
+top3 entities near to cluster6>>
+西岸, 対岸, 北岸
+top3 entities near to cluster7>>
+看板, 入口, 脇
+top3 entities near to cluster8>>
+タグ, 人気, カテゴリー
+top3 entities near to cluster9>>
+木, 土, 09
+top3 entities near to cluster10>>
+地元, 周辺, 近辺
+top3 entities near to cluster13>>
+雰囲気, 気持ち, かんじ
+top3 entities near to cluster14>>
+プラン, ホテル, 宿泊
+top3 entities near to cluster15>>
+スタッフ, ストレス, フレンドリー
+top3 entities near to cluster16>>
+露天風呂, もてなし, おにぎり
+top3 entities near to cluster17>>
+レベル, レヴェル, 水準
+top3 entities near to cluster19>>
+タオル, バスタオルサイズ, 手ぬぐい
+top3 entities near to cluster20>>
+ほとり, 畔, 河畔
+top3 entities near to cluster21>>
+ズワイガニ, フルコース
+top3 entities near to cluster22>>
+ココ, ・・ココ, ・ココ
+top3 entities near to cluster23>>
+カニ, 蟹, ガニ
+top3 entities near to cluster26>>
+温泉, 温泉郷, 旅館
+top3 entities near to cluster27>>
+泉質, 泉, 温泉
+top3 entities near to cluster28>>
+温泉, 玉子, 卵
+top3 entities near to cluster29>>
+温泉, 旅館, 宿
+top3 entities near to cluster30>>
+温泉, 露天風呂, 浴場
+top3 entities near to cluster31>>
+温泉街, 温泉, 温泉郷
+top3 entities near to cluster32>>
+温泉, 露天風呂, 旅館
+top3 entities near to cluster33>>
+湖上, 温泉, 湖畔
+top3 entities near to cluster34>>
+部屋, 角, 温泉

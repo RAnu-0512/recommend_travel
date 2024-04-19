@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:片添ヶ浜温泉遊湯ランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+内湯, 湯, 温泉
+cluster1:(6)
+夏場, 高台, 風景, 露天風呂, サウナ, 海水浴場
+cluster2:(1)
+潮風呂
+cluster3:(1)
+片添ヶ浜
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

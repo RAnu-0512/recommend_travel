@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:子宝湯(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子宝湯, 入浴料金
+cluster1:(11)
+モデル, 富士山, 壁, 絵, 内部, 建物, 感じ, 奥, 表, 神隠し, もの
+cluster2:(3)
+神社, 銭湯, 昭和
+cluster3:(1)
+千尋
+cluster4:(1)
+物価
+cluster5:(1)
+足立区
+cluster6:(1)
+江戸東京たてもの園
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

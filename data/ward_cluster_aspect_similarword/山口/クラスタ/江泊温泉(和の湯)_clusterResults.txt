@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江泊温泉(和の湯)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+ドライヤー, 大人, タダ, 好み, 転勤, 銭湯, 温度, オトコ, 東京, 髪, 食堂, 周辺, 防府, 温泉
+cluster1:(2)
+休憩所, 入浴料
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

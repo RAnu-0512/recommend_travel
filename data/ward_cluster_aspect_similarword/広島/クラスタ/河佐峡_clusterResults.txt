@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河佐峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鉄道線路, 運搬線路
+cluster1:(2)
+廃線, 在来線
+cluster2:(3)
+ダム, ダム建設, 八田原ダム
+cluster3:(2)
+国鉄, JR
+cluster4:(14)
+子供, ユニーク, ウォータースライダー, 方, 辺り, 水, 気分, 人, 点, 家族, ウォーキングコース, 他, 水遊び, 場所
+cluster5:(4)
+下流, 橋, 川, 岩
+cluster6:(4)
+公園施設, ミニゴルフ場, キャンプ場, 渓流沿い
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

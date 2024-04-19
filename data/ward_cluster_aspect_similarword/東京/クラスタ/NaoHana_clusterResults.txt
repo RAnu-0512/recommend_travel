@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NaoHana>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+作品, 最後, 仕上がり, ケーキ, おかげ, 新年, リース, リボン, 自宅, 年賀状, 時間, 方, アドバイス, レッスン, 先生, 友人
+cluster1:(4)
+人柄, 指導, 世話, 教室
+cluster2:(4)
+クリスマス飾り, 選ぶお花, 細工, 洋風お正月飾り
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 3
+deleted 0entities.

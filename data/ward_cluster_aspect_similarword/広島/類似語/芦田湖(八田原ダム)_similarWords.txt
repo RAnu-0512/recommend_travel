@@ -1,0 +1,15 @@
+--------------------similar_words:芦田湖(八田原ダム)--------------------
+top3 entities near to cluster0>>
+ダム, ダムサイト, 堰堤
+top3 entities near to cluster3>>
+河川, 県道, 国道
+top3 entities near to cluster4>>
+自動車, ゲート
+top3 entities near to cluster6>>
+世界, 一般, 各国
+top3 entities near to cluster8>>
+桜, 八重桜, 櫻
+top3 entities near to cluster9>>
+近辺, 周辺
+top3 entities near to cluster11>>
+滝, 湖, 吊橋

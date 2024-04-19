@@ -1,0 +1,9 @@
+--------------------similar_words:三矢の訓の碑--------------------
+top3 entities near to cluster0>>
+博物館, 大河ドラマ, 美術館
+top3 entities near to cluster1>>
+時間, 日数, 時
+top3 entities near to cluster2>>
+戻り, もどり, 戻る
+top3 entities near to cluster3>>
+バス, タクシー, バス停

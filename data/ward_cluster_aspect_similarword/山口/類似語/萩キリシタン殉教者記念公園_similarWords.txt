@@ -1,0 +1,11 @@
+--------------------similar_words:萩キリシタン殉教者記念公園--------------------
+top3 entities near to cluster0>>
+信徒, 信者, キリスト教徒
+top3 entities near to cluster1>>
+流刑, 殉教, 流罪
+top3 entities near to cluster2>>
+外れ, 死, 外れる
+top3 entities near to cluster5>>
+弾圧, 政策, 迫害
+top3 entities near to cluster6>>
+城址, 城跡, 散策

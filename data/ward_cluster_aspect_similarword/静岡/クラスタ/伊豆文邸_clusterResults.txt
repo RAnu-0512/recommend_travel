@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆文邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+無料休憩所, 勿論無料
+cluster1:(2)
+伊豆, 松崎
+cluster2:(4)
+休憩, 足湯, 空調, 観光
+cluster3:(10)
+母屋, 外観, 畳, 広間, 内部, 横, 一角, 蔵, 奥, 建物
+cluster4:(13)
+コップ, もの, 町, こじんまり, ひな人形, 打ち掛け, 中, 明治, 場所, 秋祭り, 時代, 風, 季節
+cluster5:(6)
+なまこ壁通り, 呉服商, 紙皿, 伊豆文邸, 壁, まこ壁
+
+howmany entities : 37
+howmany clusters : 6
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 4
+deleted 4entities.

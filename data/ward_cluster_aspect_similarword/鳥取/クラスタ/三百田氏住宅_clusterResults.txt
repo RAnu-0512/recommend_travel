@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三百田氏住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+建物, 住宅
+cluster1:(1)
+家
+cluster2:(1)
+屋根
+cluster3:(1)
+庄屋
+cluster4:(1)
+移築
+cluster5:(1)
+若桜郷土文化の里の歴史民俗資料館隣
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

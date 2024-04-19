@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶芸の宿はなぶさ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+た.s, n今回
+cluster1:(5)
+料理, 旅館, 部屋, 味, 食事
+cluster2:(5)
+ディナー, リピート, メニュー, 濃厚, *^^*
+cluster3:(1)
+アレルギー反応
+cluster4:(1)
+陶芸体験
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 4entities.

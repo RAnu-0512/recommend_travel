@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆海洋公園ダイビングセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+海水プール, カニ, 海水, 岩場, 魚掴み取り, 伊豆, アジ, 海, 磯プール
+cluster1:(2)
+事前接客, 接客
+cluster2:(3)
+子供達, 子供, 友達家族
+cluster3:(2)
+料金, 料金アクセス
+cluster4:(18)
+スタッフ, セット, イベント, つかみ取り, 食べ物, ホテル, ダイビング, スキンダイビング, プール, シュノーケル, ダイバー, ポイント, アルバイト, 祖父母, シャワー, 宝探し, スポット, バーベキュー
+cluster5:(2)
+東伊豆, 東日本ダイバー
+cluster6:(6)
+妻, 子, 人, 社長, 電話, 風呂
+cluster7:(13)
+雨, 売店, 各所, 方, 聖地, もの, 公園, 中, 場所, 体験ダイビング, 施設, 天気, 季節
+cluster8:(1)
+伊豆海洋公園
+cluster9:(1)
+かけて電話下さり
+
+howmany entities : 57
+howmany clusters : 10
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 5
+deleted 8entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河竹黙阿弥の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鼠小僧, 狂言師
+cluster1:(11)
+墓, 所, 寺, 雰囲気, 一角, 明治, 東中野駅, 先, 作家, 商店街, 幕末
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

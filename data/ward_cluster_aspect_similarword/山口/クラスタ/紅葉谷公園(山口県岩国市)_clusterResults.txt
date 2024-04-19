@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:紅葉谷公園(山口県岩国市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+文字どおり紅葉, 紅葉, 紅葉シーズン
+cluster1:(2)
+公園, 紅葉谷公園
+cluster2:(12)
+側, ところ, 付近, エリア, 名前, 場所, 目, 木, 方, 人, 近く, 通り
+cluster3:(8)
+イチョウ, 錦帯橋, 景色, 森林浴, もみじ, 木々, モミジ, 散歩
+cluster4:(4)
+吉香公園, 寺院庭園, 寺院, 観光客
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 5
+deleted 0entities.

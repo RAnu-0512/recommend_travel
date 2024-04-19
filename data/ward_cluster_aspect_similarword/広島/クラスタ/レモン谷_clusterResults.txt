@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レモン谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大三島橋, 多々羅大橋
+cluster1:(10)
+石碑, 坂道, 看板, ミカン, 時期, 多く, ポン柑, 大三島, 入り口, レモン
+cluster2:(3)
+ミカン畑, レモン谷, レモン栽培
+cluster3:(1)
+伊予柑
+cluster4:(1)
+しまなみ海道
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

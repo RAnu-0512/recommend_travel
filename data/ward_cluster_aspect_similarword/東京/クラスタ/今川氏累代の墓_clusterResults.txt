@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今川氏累代の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観泉寺, 古刹 観泉寺
+cluster1:(3)
+駿河, 今川, 杉並
+cluster2:(7)
+墓, 墓石, 歴史, 墓所, 境内, 碑文, 看板
+cluster3:(1)
+戦国大名今川
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

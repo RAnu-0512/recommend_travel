@@ -1,0 +1,39 @@
+--------------------similar_words:柿田川公園--------------------
+top3 entities near to cluster0>>
+湧水, 湧, 清水
+top3 entities near to cluster1>>
+湧水, 湧, 湧き水
+top3 entities near to cluster2>>
+水量, 湧, 湯量
+top3 entities near to cluster4>>
+川水, 土水, 川, 土
+top3 entities near to cluster7>>
+井戸, 庭園
+top3 entities near to cluster8>>
+樹木, 草花, 雑草
+top3 entities near to cluster12>>
+自然, 水辺, 神秘
+top3 entities near to cluster13>>
+緑色, 茶色, 水色
+top3 entities near to cluster16>>
+遊歩道, 水遊び, 公園
+top3 entities near to cluster18>>
+カフェ, コンビニ, 喫茶店
+top3 entities near to cluster19>>
+イベント, コーナー, カフェ
+top3 entities near to cluster20>>
+こども, 子ども, おかず
+top3 entities near to cluster23>>
+イオン, パワー, スカイ
+top3 entities near to cluster27>>
+豆腐, 揚出し, 絹ごし
+top3 entities near to cluster28>>
+土産, 処, おみやげ
+top3 entities near to cluster30>>
+公園, 園内, 遊歩道
+top3 entities near to cluster31>>
+施設, 商業, 名所
+top3 entities near to cluster32>>
+駐車場, 駐車, 場代
+top3 entities near to cluster33>>
+国道, 号線沿い, 号線

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山静岡空港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 無料駐車場
+cluster1:(2)
+フードコート, フードコート奥
+cluster2:(14)
+飛行機, ゴールドカード, 運, 空間, クレジットカード, 人, 日数, 富士山, カードラウンジ, 中, 有料, 点, ジュース, 方
+cluster3:(6)
+土産, 蛇口, バス, 茶畑, 空港, 羽田
+cluster4:(3)
+静岡県, 東名代, 交通費
+cluster5:(1)
+2Fお土産物屋しずおかマルシェ
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 5entities.

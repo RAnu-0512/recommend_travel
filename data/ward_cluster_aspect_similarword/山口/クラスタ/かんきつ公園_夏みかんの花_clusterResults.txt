@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かんきつ公園_夏みかんの花>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+かんきつ公園, 敷地, 公園, 園内
+cluster1:(2)
+木, 実
+cluster2:(7)
+香り, 季節, 夏みかん, 種類, 祭り, ミカン, 柑橘類
+cluster3:(1)
+本数
+cluster4:(6)
+萩・夏みかんまつり, 柑橘系, 名産地, 萩, 夏ミカン, 夏ミカン畑
+cluster5:(1)
+総理大臣
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

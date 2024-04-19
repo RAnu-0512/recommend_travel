@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三段峡 黒淵渡舟>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+猿飛, 猿飛渡船
+cluster1:(7)
+渓流, 渓谷, 紅葉, 滝, 景色, 岩, 風景
+cluster2:(3)
+船, 便, 実際船
+cluster3:(2)
+所, 場所
+cluster4:(2)
+間, 先
+cluster5:(2)
+次, 元
+cluster6:(1)
+奥
+cluster7:(1)
+水
+cluster8:(16)
+子供, ところ, 遊歩道, 方, 感激, コース, 疲れ, ポイント, サイズ, ほう, 写真, 価値, 大人, 雰囲気, 家族, ライフジャケット
+cluster9:(2)
+綱, 黒渕
+cluster10:(7)
+駐車場, 渡船, 渡船黒渕, 黒淵渡船, 水梨駐車場, 水梨口, 黒渕渡船
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 11
+deleted 0entities.

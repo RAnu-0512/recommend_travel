@@ -1,0 +1,69 @@
+--------------------similar_words:御殿場プレミアム・アウトレット--------------------
+top3 entities near to cluster0>>
+ヒル, サイド, ウッド
+top3 entities near to cluster2>>
+海外, 外国, 国内
+top3 entities near to cluster6>>
+カー, カツ, カン
+top3 entities near to cluster7>>
+ファッション, ボトムス, ブランド
+top3 entities near to cluster8>>
+レストラン, パンケーキ, クレープ
+top3 entities near to cluster9>>
+アウトレット, バーバリー, ディズニーストア
+top3 entities near to cluster11>>
+テーマパーク, アトラクション, イベント
+top3 entities near to cluster14>>
+エスカレーター, エレベーター, スロープ
+top3 entities near to cluster17>>
+ランチ, カフェ, レストラン
+top3 entities near to cluster21>>
+バッグ, スーツ, コート
+top3 entities near to cluster23>>
+写真, 地図, フォト
+top3 entities near to cluster24>>
+エリア, マップ, アーバンエリア
+top3 entities near to cluster30>>
+子供, 家族, 子ども
+top3 entities near to cluster31>>
+お昼, 出掛け
+top3 entities near to cluster32>>
+荷物, 洋服, 鞄
+top3 entities near to cluster33>>
+天気, 天候, 気温
+top3 entities near to cluster34>>
+雨風, 傘
+top3 entities near to cluster35>>
+駅車, 道路, 駅
+top3 entities near to cluster38>>
+あと, その後, 結局
+top3 entities near to cluster42>>
+地元, 大半, 数多い
+top3 entities near to cluster43>>
+間, 昔, 以前
+top3 entities near to cluster45>>
+割引, 予約, 入場
+top3 entities near to cluster47>>
+利用, 購入, 活用
+top3 entities near to cluster48>>
+価格, セール, 商品
+top3 entities near to cluster49>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster50>>
+バス, 乗り場, 送迎
+top3 entities near to cluster54>>
+飲食店, 店舗, 飲食
+top3 entities near to cluster55>>
+店舗数, 店舗, 総数
+top3 entities near to cluster56>>
+敷地, 裏手, 出入り口
+top3 entities near to cluster57>>
+時間, 混雑, 渋滞
+top3 entities near to cluster59>>
+バス, 周遊, 名所
+top3 entities near to cluster61>>
+お客, 乗客, 常連
+top3 entities near to cluster62>>
+施設, 宿泊, 温泉
+top3 entities near to cluster63>>
+子供, 子ども, 皆

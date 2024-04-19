@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡市立登呂博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+貴重さ, 体験, 体験型
+cluster1:(7)
+道具, 過程, 時期, 品々, もの, 物, 場所
+cluster2:(8)
+勉強, 方, 多数, 笑, 中, 内容, 方々, 説明
+cluster3:(12)
+博物館, 小学校, 教科書, ガイド, 文化財, 人, 歴史, 時間, クオリティ, 米, パズル, 子供
+cluster4:(2)
+有料博物館, 有料
+cluster5:(2)
+雨, 梅雨
+cluster6:(2)
+建物, 施設
+cluster7:(2)
+駅, 公園
+cluster8:(3)
+土産, 客, 売店
+cluster9:(12)
+遺跡群, 土器, 展示, 遺跡, 弥生時代, 展示施設, 常設展, 発掘, 農具, 出土品, 学芸員, 弥生
+cluster10:(4)
+登呂遺跡公園, 登呂遺跡, 竪穴住居見学, 登呂博物館
+
+howmany entities : 57
+howmany clusters : 11
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 7
+deleted 8entities.

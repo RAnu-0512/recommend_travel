@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オスローバッティングセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+場所, 歌舞伎町, バッティングセンター意外, 気持ち, バッティングセンター, 施設, トイレ, 友達, 様子, 方, バッテイングセンター, 雰囲気, バッテイング, もの
+cluster1:(2)
+運動, 清掃
+cluster2:(5)
+都会, 東京, 街, 客層, 新宿
+cluster3:(1)
+少年たち
+cluster4:(1)
+卓球台
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

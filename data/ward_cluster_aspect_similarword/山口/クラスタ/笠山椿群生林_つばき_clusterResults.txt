@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笠山椿群生林_つばき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+満開, 春分
+cluster1:(5)
+木々, 木, 花, 海, 山
+cluster2:(2)
+もの, 感じ
+cluster3:(2)
+中, 目
+cluster4:(2)
+場所, 時間
+cluster5:(1)
+真ん中辺り
+cluster6:(10)
+スポット, 車, 道, 花祭り, 日本, 日本海, 雰囲気, トンネル, ツバキ, メジロ
+cluster7:(1)
+品種
+cluster8:(1)
+高さ
+cluster9:(1)
+展望台
+cluster10:(7)
+群生林, 笠山, 原生林, 椿, 萩, 椿まつり, 萩・椿まつり
+cluster11:(1)
+萩しーまー
+
+howmany entities : 35
+howmany clusters : 12
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 12
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日守山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展望スペース, 展望台
+cluster1:(4)
+面積, 公園, 遊具, 県道
+cluster2:(2)
+沼津, 箱根
+cluster3:(3)
+眺め, 景色, 山々
+cluster4:(2)
+入口, 脇
+cluster5:(2)
+高台, 頂上
+cluster6:(1)
+坂道
+cluster7:(5)
+一環, 人, 形, 中, 人気
+cluster8:(8)
+森, 狩野川, パノラマ, 富士山, 駿河湾, 遊歩道, 海, トンネル
+cluster9:(1)
+運動不足
+cluster10:(5)
+沼津・三島, 日守山, 創生事業, 守山公園, 函南町
+cluster11:(2)
+伊豆縦貫道, 風致公園
+
+howmany entities : 37
+howmany clusters : 12
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 12entities.

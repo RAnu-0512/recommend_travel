@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸ノ内線赤坂見附駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+赤坂, 日枝神社, 赤坂見附駅, 赤坂駅
+cluster1:(30)
+駅員, 線, 共用, 地上, 半蔵門線, 有楽町線, 人, 東京, 丸ノ内線, ところ, 感じ, ビックカメラ, 永田町駅, 千代田線, ホーム, 路線, 駅, 態度, 改札, 丸の内線, 便利さ, 地下, 永田町, 乗換駅, 共用ホーム, 出口, マスク, 銀座線, 乗り継ぎ, 乗り換え
+
+howmany entities : 34
+howmany clusters : 2
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 2
+deleted 0entities.

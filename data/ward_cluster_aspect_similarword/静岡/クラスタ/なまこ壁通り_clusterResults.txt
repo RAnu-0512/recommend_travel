@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なまこ壁通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+下田, 中瀬, 松崎
+cluster1:(11)
+街, 西伊豆地域, 市, 徒歩, 明治, 建物, まち, 町巡り, 商家, 町, 道
+cluster2:(22)
+一部, 全体, 箇所, 南伊豆, ノスタルジック, 世界, こと, 西伊豆, 家, 昔, なまこ, 人, 美術館, 感じ, 頭, ドラマ, ペリーロード, 雰囲気, 場所, 前, 方, 伊豆半島
+cluster3:(5)
+風情, 見学, 趣, なまこ造り, 満載
+cluster4:(1)
+西風
+cluster5:(11)
+駐車場, なまこ壁通り, 路地裏, 路地, 川沿い, 防火性, 壁, ロケ地, なまこ壁, まこ壁, 観光案内所
+cluster6:(1)
+レトロ感
+
+howmany entities : 54
+howmany clusters : 7
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 5
+deleted 2entities.

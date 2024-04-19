@@ -1,0 +1,23 @@
+--------------------similar_words:北野神社(牛天神)--------------------
+top3 entities near to cluster0>>
+朱印帳, 御朱印帳, 朱印, 御朱印
+top3 entities near to cluster1>>
+よう, わけ
+top3 entities near to cluster3>>
+願い, 願う, 願っ
+top3 entities near to cluster4>>
+期間, 金額, 時期
+top3 entities near to cluster5>>
+態度, 言動, 姿勢
+top3 entities near to cluster6>>
+状態, ラリー, スタンプ
+top3 entities near to cluster7>>
+聞き, 聞く, 聴き
+top3 entities near to cluster8>>
+嫌気, イヤ気, さし
+top3 entities near to cluster9>>
+帰宅, 帰り道
+top3 entities near to cluster10>>
+境内, 神社, 御朱印
+top3 entities near to cluster11>>
+神社, 宮司, 天神

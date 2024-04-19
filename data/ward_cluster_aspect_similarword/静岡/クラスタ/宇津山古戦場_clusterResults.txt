@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇津山古戦場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+徳川, 今川
+cluster1:(2)
+石垣, 郭
+cluster2:(12)
+浜名湖, 草, 左手, 車道, 山道, 山頂, 墓地, 説明板, 散策コース, 拠点, ふもと, 足元
+cluster3:(1)
+武者走り
+cluster4:(1)
+正太寺
+cluster5:(1)
+宇津山城址
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 7entities.

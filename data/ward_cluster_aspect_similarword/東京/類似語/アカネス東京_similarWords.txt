@@ -1,0 +1,29 @@
+--------------------similar_words:アカネス東京--------------------
+top3 entities near to cluster0>>
+体験, 作る
+top3 entities near to cluster1>>
+作業, 手作業, 組み立て
+top3 entities near to cluster2>>
+研磨, 研摩, 作業
+top3 entities near to cluster3>>
+店員, 店内
+top3 entities near to cluster4>>
+工程, 機械, 手作業
+top3 entities near to cluster5>>
+制作, 音楽, 製作
+top3 entities near to cluster6>>
+加工, 素材, 原料
+top3 entities near to cluster7>>
+手先, 器用, 指先
+top3 entities near to cluster8>>
+彼女, 自分, 友達
+top3 entities near to cluster9>>
+記念, 時間, 所要
+top3 entities near to cluster10>>
+満足度, 満足, 納得度, 納得
+top3 entities near to cluster11>>
+種類, 定員, 数種類
+top3 entities near to cluster13>>
+確認, 対応, 記載
+top3 entities near to cluster16>>
+姪っ子, 甥っ子, 姪, 甥

@@ -1,0 +1,29 @@
+--------------------similar_words:ELEANOR (エレノア)--------------------
+top3 entities near to cluster0>>
+スーツ, 上着, 着替え
+top3 entities near to cluster1>>
+みなさん, 皆さん, 思い出
+top3 entities near to cluster2>>
+スタッフ, ツアー, ショップ
+top3 entities near to cluster3>>
+ボート, カヌー, 滑り台
+top3 entities near to cluster4>>
+緊張, 不安, 焦り
+top3 entities near to cluster5>>
+対応, 迅速, 臨機応変
+top3 entities near to cluster7>>
+発見, 見つけ
+top3 entities near to cluster8>>
+だり, でる, だら
+top3 entities near to cluster10>>
+施設, 建物, 敷地
+top3 entities near to cluster11>>
+駅店, 駅車, 駅
+top3 entities near to cluster12>>
+電車, 列車
+top3 entities near to cluster13>>
+必需品, 品等, 必需
+top3 entities near to cluster14>>
+屋内, 屋外, 室内
+top3 entities near to cluster16>>
+体験手, 初手, 体験, 初

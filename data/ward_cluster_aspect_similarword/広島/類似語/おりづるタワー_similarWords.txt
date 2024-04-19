@@ -1,0 +1,75 @@
+--------------------similar_words:おりづるタワー--------------------
+top3 entities near to cluster0>>
+解放感, 解き, 解放
+top3 entities near to cluster1>>
+滑り台, すべり台, スリル
+top3 entities near to cluster2>>
+気持ち, おかげ, ひねり
+top3 entities near to cluster3>>
+イベント, ショップ, エレベーター
+top3 entities near to cluster4>>
+コーヒー, カクテル, 飲み物
+top3 entities near to cluster5>>
+オブジェ, ステンドグラス, アート
+top3 entities near to cluster6>>
+タワー, デッキ, ウッド
+top3 entities near to cluster7>>
+願い, 想い, 祈り
+top3 entities near to cluster9>>
+姿, 眺め, 見
+top3 entities near to cluster10>>
+施設, 利用, 宿泊
+top3 entities near to cluster11>>
+料金, 半額, 価格
+top3 entities near to cluster12>>
+写真, 作品, 撮影
+top3 entities near to cluster13>>
+歴史, 空間, 時間
+top3 entities near to cluster14>>
+料理酒, 料理, 地酒
+top3 entities near to cluster15>>
+土産, 立ち寄り
+top3 entities near to cluster17>>
+人々, 人達
+top3 entities near to cluster18>>
+地元, 海外, 各地
+top3 entities near to cluster19>>
+家族, 友人, 夫婦
+top3 entities near to cluster20>>
+先人, 先達, 後世
+top3 entities near to cluster21>>
+安全, 充実, 滑り
+top3 entities near to cluster22>>
+折鶴, 折り鶴
+top3 entities near to cluster23>>
+横, 真横, 真上
+top3 entities near to cluster24>>
+木雨, 木風, 木
+top3 entities near to cluster26>>
+建物, 広場
+top3 entities near to cluster27>>
+屋上, 最上階
+top3 entities near to cluster28>>
+展望台, 展望, 見晴らし台, 見晴らし
+top3 entities near to cluster29>>
+展望, 眺望, 見晴らし
+top3 entities near to cluster30>>
+入場券, 優待券, 入場, 優待
+top3 entities near to cluster31>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster32>>
+料金, 入館, 入場
+top3 entities near to cluster33>>
+入場, 入館, 来場
+top3 entities near to cluster34>>
+平和, 館, 公園
+top3 entities near to cluster37>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster38>>
+商業, 施設, 複合
+top3 entities near to cluster39>>
+景観, 街並み, 町並み
+top3 entities near to cluster41>>
+遺産, 世界, ユネスコ
+top3 entities near to cluster43>>
+地産, 消

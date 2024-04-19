@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白雲洞>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+ひんやり, 光景, もの, 中, コウモリ, 方, 外, 気, ペット, 人, 喜ぶ, コンセプト, 気持ち, 帝釈峡, 場所, 不思議, 入り口
+cluster1:(4)
+美, 水, 造形, 自然
+cluster2:(2)
+空気, 調和
+cluster3:(1)
+ワンちゃん
+cluster4:(8)
+洞窟, 石筍, 鍾乳石, 石柱, 全長, 帝釈, 鍾乳洞, 年月
+cluster5:(1)
+涼しさ
+cluster6:(9)
+駐車場, 場処, 白雲洞, 鍾乳洞窟, 広島県, 庄原市, 入場料, 東城町, 雄橋
+
+howmany entities : 42
+howmany clusters : 7
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 7
+deleted 0entities.

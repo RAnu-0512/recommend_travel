@@ -1,0 +1,13 @@
+--------------------similar_words:田原温泉5000年風呂--------------------
+top3 entities near to cluster0>>
+校舎, 中学校, 小学校
+top3 entities near to cluster1>>
+設備, 施設, 機器
+top3 entities near to cluster3>>
+学校, 小学校, 中学校
+top3 entities near to cluster4>>
+名残, 名残り, 面影
+top3 entities near to cluster6>>
+清潔感, 不潔感, 清潔, 不潔
+top3 entities near to cluster7>>
+温泉, 風呂, 銭湯

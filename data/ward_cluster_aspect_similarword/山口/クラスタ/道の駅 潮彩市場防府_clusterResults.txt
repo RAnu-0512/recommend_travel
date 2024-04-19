@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 潮彩市場防府>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+買い物, 魚介類
+cluster1:(1)
+店
+cluster2:(1)
+駅
+cluster3:(1)
+魚
+cluster4:(1)
+道
+cluster5:(1)
+農産物購入
+cluster6:(1)
+漁港
+cluster7:(1)
+海鮮物購入
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

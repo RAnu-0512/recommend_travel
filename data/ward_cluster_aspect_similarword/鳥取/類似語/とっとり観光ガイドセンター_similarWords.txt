@@ -1,0 +1,31 @@
+--------------------similar_words:とっとり観光ガイドセンター--------------------
+top3 entities near to cluster0>>
+天候, 体調, 気温
+top3 entities near to cluster1>>
+ツアー, ガイド, コース
+top3 entities near to cluster2>>
+コーヒー, サンダル, スニーカー
+top3 entities near to cluster3>>
+生き物, 気持ち, 気持
+top3 entities near to cluster4>>
+小道具, 大道具, 道具
+top3 entities near to cluster5>>
+天の川, 天の河, 七夕
+top3 entities near to cluster6>>
+写真, 撮っ, 画像
+top3 entities near to cluster7>>
+母, 娘, 父
+top3 entities near to cluster8>>
+背, 跳刀, 背丈
+top3 entities near to cluster9>>
+夕方, 時, 時間
+top3 entities near to cluster10>>
+案内, 紹介, 記載
+top3 entities near to cluster11>>
+感謝, 皆様, 皆々様
+top3 entities near to cluster13>>
+人柄, 人徳, 優しい
+top3 entities near to cluster14>>
+砂丘, 砂漠, 星空
+top3 entities near to cluster15>>
+逃避, 現実, 空想

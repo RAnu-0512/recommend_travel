@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蘭学事始の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+杉田玄白, 前野良沢
+cluster1:(4)
+石碑, 樹木, 散策, 広場
+cluster2:(12)
+ビジネスホテル, 聖路加国際病院, 光景, 場所, 背, 地, 背後, 交差点, 近く, オランダ, 付近, 日本
+cluster3:(1)
+西側角
+cluster4:(1)
+案内板
+cluster5:(6)
+築地駅, 史跡巡り, 明石町, 中央区, 慶應義塾発祥の地, 解体新書
+cluster6:(2)
+蘭学事始の地, 蘭学者
+cluster7:(2)
+日本近代文化事始の地, 日本近代事始
+cluster8:(1)
+聖ルカ通りと居留地中央通り
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 9
+deleted 0entities.

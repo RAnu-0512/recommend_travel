@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:星野哲郎記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+展示, 品々, 展示品, 建築物
+cluster1:(2)
+作詞家, 作詞
+cluster2:(2)
+工房, 里
+cluster3:(7)
+施設, カラオケ, 希望, デビュー, 歴史, パノラマスクリーン, 母
+cluster4:(2)
+劇場, 通路
+cluster5:(1)
+ヒット曲
+cluster6:(1)
+昭和
+cluster7:(2)
+休憩スペース, 入館
+cluster8:(2)
+演歌場, 都はるみ
+cluster9:(3)
+星野哲朗, 星野哲郎, 周防大島町
+
+howmany entities : 26
+howmany clusters : 10
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 10
+deleted 0entities.

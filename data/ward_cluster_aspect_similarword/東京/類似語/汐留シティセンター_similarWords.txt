@@ -1,0 +1,23 @@
+--------------------similar_words:汐留シティセンター--------------------
+top3 entities near to cluster1>>
+景色, 眺め, 眺める
+top3 entities near to cluster2>>
+地下, ・・デパ, 三越
+top3 entities near to cluster3>>
+外観
+top3 entities near to cluster4>>
+オフィス, シオサイト, レストラン
+top3 entities near to cluster5>>
+ドラマ, テレビ, ＴＶ
+top3 entities near to cluster6>>
+フロア, レストラン, 各階
+top3 entities near to cluster7>>
+流線型, フォルム, ウェッジシェイプ
+top3 entities near to cluster8>>
+中っ, ただ今, 中の間
+top3 entities near to cluster9>>
+着眼点, 一点, 着眼
+top3 entities near to cluster10>>
+お立ち寄り, 寄る, お立ち
+top3 entities near to cluster11>>
+ビル, 高層, 建物

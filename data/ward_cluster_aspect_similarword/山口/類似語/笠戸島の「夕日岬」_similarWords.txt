@@ -1,0 +1,21 @@
+--------------------similar_words:笠戸島の「夕日岬」--------------------
+top3 entities near to cluster0>>
+宿舎, 駅前, 駅
+top3 entities near to cluster1>>
+夕日, 夕陽, 夕焼け
+top3 entities near to cluster2>>
+絶景, 景色, 海辺
+top3 entities near to cluster3>>
+転換, 気分, 高揚
+top3 entities near to cluster4>>
+底, 奥底
+top3 entities near to cluster5>>
+夕方, 昼間, 早朝
+top3 entities near to cluster6>>
+家族, 大勢
+top3 entities near to cluster7>>
+屈指, 随一, 有数
+top3 entities near to cluster9>>
+どき, 夕食, 夕飯
+top3 entities near to cluster10>>
+美しい, 素晴らしい, 力強い

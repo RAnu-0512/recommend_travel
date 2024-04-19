@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士御殿場ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ゴルフ倶楽部, ゴルフ
+cluster1:(5)
+プレー, アクセス, グリーン, 富士山, コース
+cluster2:(3)
+風, 景色, 周辺
+cluster3:(1)
+背
+cluster4:(1)
+ゴルフ場
+cluster5:(2)
+芝目, 富士御殿場
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 6entities.

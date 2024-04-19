@@ -1,0 +1,83 @@
+--------------------similar_words:藤い屋--------------------
+top3 entities near to cluster1>>
+土産物, 百貨店, デパート
+top3 entities near to cluster2>>
+つもり, 気持ち, ばかり
+top3 entities near to cluster3>>
+セット, おすすめ, ススメ
+top3 entities near to cluster5>>
+カスタード, カステラ, チョコレート
+top3 entities near to cluster6>>
+カリカリ, サブレ, かりかり
+top3 entities near to cluster7>>
+我が家, 我家, わが家
+top3 entities near to cluster8>>
+レモン, グレープフルーツ, ライム
+top3 entities near to cluster9>>
+アッセ, ビルアッセ, アルパーク
+top3 entities near to cluster10>>
+あんこ, 焼き立て, アツアツ
+top3 entities near to cluster12>>
+抹茶, 餡, 小豆
+top3 entities near to cluster13>>
+店内, 店舗
+top3 entities near to cluster14>>
+しき堂, しき, しゃも
+top3 entities near to cluster15>>
+女子大生, 女子高生, 女子大, 女子高
+top3 entities near to cluster16>>
+紅葉, 紅葉狩り, 黄葉
+top3 entities near to cluster17>>
+紅葉谷, もみじ, 三滝寺
+top3 entities near to cluster18>>
+もみじ, モミジ, まんじゅう
+top3 entities near to cluster19>>
+もみじ, もち
+top3 entities near to cluster20>>
+笑, 苦笑, 爆
+top3 entities near to cluster21>>
+お茶, 茶, 紅茶
+top3 entities near to cluster22>>
+空港, 駅, 乗り場
+top3 entities near to cluster23>>
+紙袋, 包装
+top3 entities near to cluster24>>
+生地, 布地
+top3 entities near to cluster25>>
+菓子, 寒天, お菓子
+top3 entities near to cluster26>>
+個, 一, 数個
+top3 entities near to cluster27>>
+サブ, ジン, メイン
+top3 entities near to cluster28>>
+食べ, 歩き, 食する
+top3 entities near to cluster29>>
+甘い, すぎる
+top3 entities near to cluster30>>
+罪悪感, 罪悪
+top3 entities near to cluster31>>
+風味, 甘み
+top3 entities near to cluster34>>
+商店街, 商店, 参道
+top3 entities near to cluster35>>
+土産, おみやげ, 土産物
+top3 entities near to cluster36>>
+土産物屋, 土産屋, 土産物, 土産
+top3 entities near to cluster37>>
+銘菓, 老舗, 和菓子
+top3 entities near to cluster39>>
+饅頭, 餡, まんじゅう
+top3 entities near to cluster40>>
+饅頭, まんじゅう
+top3 entities near to cluster41>>
+饅頭, 紅葉, まんじゅう
+top3 entities near to cluster42>>
+饅頭, まんじゅう, もみじ
+top3 entities near to cluster43>>
+饅頭, まんじゅう, 羊羹
+top3 entities near to cluster44>>
+饅頭, まんじゅう, もみじ
+top3 entities near to cluster45>>
+饅頭, 暖か, まんじゅう
+top3 entities near to cluster46>>
+あん, こし, もち

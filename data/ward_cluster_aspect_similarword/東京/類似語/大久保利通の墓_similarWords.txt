@@ -1,0 +1,9 @@
+--------------------similar_words:大久保利通の墓--------------------
+top3 entities near to cluster0>>
+霊園, 墓地
+top3 entities near to cluster1>>
+墓地, 霊園
+top3 entities near to cluster2>>
+外国人, 墓地, 外国
+top3 entities near to cluster3>>
+駅街, 駅, 駅前

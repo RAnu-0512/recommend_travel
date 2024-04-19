@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大鳥神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+再開発工事, 再開発
+cluster1:(2)
+雑司, 東京メトロ 雑司
+cluster2:(2)
+池袋駅, 谷駅
+cluster3:(13)
+七福神めぐり, 雑司ヶ谷七福神巡り, 神社, 場所, 近く, 恵比寿, 工事, ココ, 鬼子母神堂, 大鳥神社, 周り, 維新, 明治
+cluster4:(1)
+古き良き町
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

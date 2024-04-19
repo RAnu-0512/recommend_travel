@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狩野探幽の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+案内図, 境内案内
+cluster1:(6)
+墓, 地図, こと, しおり, 場所, 池上本門寺
+cluster2:(2)
+絵師, 派
+cluster3:(2)
+江戸初期, 天才肌
+cluster4:(1)
+探幽斎
+cluster5:(1)
+池上本門寺境内案内霊宝殿拝観
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

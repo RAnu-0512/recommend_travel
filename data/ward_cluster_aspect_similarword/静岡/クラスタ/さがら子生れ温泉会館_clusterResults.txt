@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:さがら子生れ温泉会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+まゆ型, 相良, 牧之原市
+cluster1:(18)
+客, 老人, 人, 旦那, 他, 方, 常連, 地元, 誰か, 裏山, 方々, 家族, 平成, 崖, 出身, 女性, 人々, 住職
+cluster2:(7)
+感想, 匂い, 事, 感じ, 気分, 言葉, こと
+cluster3:(2)
+ドア, 全開
+cluster4:(2)
+貸し切り, 露天風呂
+cluster5:(3)
+アドバイス, 使い勝手, サービス
+cluster6:(1)
+言い方
+cluster7:(1)
+日帰り
+cluster8:(3)
+茶褐色, タバコ, サウナ
+cluster9:(2)
+大興寺, 石風呂
+cluster10:(9)
+値段, 時間, 外観, 施設, ミシン目, 予約, 場所, 外, 間サウナ
+cluster11:(1)
+灰皿
+cluster12:(2)
+電話対応, 対応
+cluster13:(2)
+連絡, 電話連絡
+cluster14:(2)
+捉え方, 子授け
+cluster15:(2)
+源泉掛け流し, かけ流し
+cluster16:(4)
+入館料, 券, 入場券, 券売機
+cluster17:(4)
+安産の石, 子生まれ石, 石, 丸い石
+cluster18:(5)
+浴槽, 皮膚, お湯, 肌, 湯
+cluster19:(3)
+風呂, 風呂数, 家族風呂
+cluster20:(2)
+源泉風呂, 源泉
+cluster21:(6)
+温泉, 家族温泉, 天然温泉, さがら子生れ温泉, 日帰り温泉お気に入り, 食事処
+cluster22:(1)
+長寿・子授け・安産の湯
+
+howmany entities : 85
+howmany clusters : 23
+howmany entities (more than3entities) : 65
+howmany clusters (more than3entities) : 11
+deleted 20entities.

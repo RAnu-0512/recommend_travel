@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関市立考古博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遺跡, 土器
+cluster1:(1)
+勾玉
+cluster2:(2)
+博物館, 歴史
+cluster3:(1)
+人々
+cluster4:(1)
+時代
+cluster5:(1)
+暮らしぶり
+cluster6:(1)
+下関
+cluster7:(1)
+弥生時代
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 8
+deleted 0entities.

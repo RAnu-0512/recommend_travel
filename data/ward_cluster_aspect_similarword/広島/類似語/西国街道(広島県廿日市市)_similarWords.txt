@@ -1,0 +1,11 @@
+--------------------similar_words:西国街道(広島県廿日市市)--------------------
+top3 entities near to cluster0>>
+街道, 狐越, 西国
+top3 entities near to cluster1>>
+地区, 時代
+top3 entities near to cluster2>>
+神社, 寺, 松
+top3 entities near to cluster3>>
+一帯, 町並み, 街並み
+top3 entities near to cluster4>>
+道路, 国道, 道幅

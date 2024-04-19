@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小休本陣常盤邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小休本陣常盤邸, 小休本陣常盤
+cluster1:(9)
+趣, 運, 邸宅, 東海道五, デザイン, 内部, 見学, 見学可能日, 三次ウォーキング
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

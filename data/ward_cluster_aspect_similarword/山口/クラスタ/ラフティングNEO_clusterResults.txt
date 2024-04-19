@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ラフティングNEO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鳥たち, 息子, 子どもたち
+cluster1:(2)
+川, 山
+cluster2:(3)
+こと, ボート, ガイド
+cluster3:(2)
+自然, 秋
+cluster4:(1)
+川底
+cluster5:(1)
+錦川
+cluster6:(1)
+ママ友
+cluster7:(1)
+透明感
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

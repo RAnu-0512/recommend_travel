@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニューバランス東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+モデル, スポーツブランド, ニューバランス, スポーツ, バランス, 靴, ショップ, 原宿, 店員, 若者, スニーカー, 老若, 品揃え, シューズ, 竹下
+cluster1:(3)
+流行発信地, 旗艦店, 大型路面店
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

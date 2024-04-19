@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:護国神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+印象, もの, 山口県, 各地, 靖国神社, 猫, 凜, 境内, 本堂, 寺, 空気, 宮野下, 山口, 神社, 山口県庁, 雰囲気, 目的, お参り, 戦没者, 霊, 人, 歴史, 狛犬目当て
+cluster1:(3)
+^^護国神社, 護国神社, 幹線道路沿い
+
+howmany entities : 26
+howmany clusters : 2
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 2
+deleted 0entities.

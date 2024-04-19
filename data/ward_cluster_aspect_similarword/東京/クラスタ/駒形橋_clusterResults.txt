@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:駒形橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+景色, 散策, 道幅, 景観
+cluster1:(3)
+昭和, 東京, 東
+cluster2:(6)
+関東大震災, ブルー, スカイツリー, 地下鉄, スポット, アーチ
+cluster3:(4)
+吾妻橋, 浅草寺, 隅田川, 駒形橋
+cluster4:(1)
+浅草線
+cluster5:(4)
+季節, 場所, 沿い, 桜
+cluster6:(9)
+アーチ型, ガイドツアー, 復路, 徒歩, バス, 出口, 側, 説明, 参加
+cluster7:(1)
+都営
+cluster8:(9)
+鉄橋, 橋桁, アーチ橋, 復興事業, 駒形橋改修工事前, 交番跡, 橋, 橋巡り, 橋全体
+cluster9:(9)
+浅草駅, 地下鉄都営浅草専, 浅草, 観音菩薩像, 墨田区, 駒形, 浅草散歩, 駒形堂, 浅草通り
+cluster10:(1)
+浅草通りを渡す橋です橋
+
+howmany entities : 51
+howmany clusters : 11
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 11
+deleted 0entities.

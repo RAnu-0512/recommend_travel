@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大師山自然観察の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+坂道, 場所, 境内, 両脇, 途中, 石段, 崖, 森林
+cluster1:(4)
+天狗谷, 油山寺, 薬師本堂, 本坊
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

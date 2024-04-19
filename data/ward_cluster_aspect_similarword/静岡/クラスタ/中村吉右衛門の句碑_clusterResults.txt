@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中村吉右衛門の句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+歌舞伎俳優, 旅館, 句碑, 人物, 脇
+cluster1:(3)
+中村吉右衛門, 新井, 修善寺梅林
+cluster2:(1)
+双皎山荘
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 1entities.

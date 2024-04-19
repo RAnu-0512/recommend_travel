@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 北条公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+特産, 土産, 旅行
+cluster1:(2)
+梨, 長芋
+cluster2:(4)
+クルマ, ドライブ, レストラン, キャンパー
+cluster3:(2)
+ジャム, 手作り
+cluster4:(1)
+とろろ
+cluster5:(1)
+目
+cluster6:(1)
+休憩
+cluster7:(5)
+砂丘, 道, 敷地, 国坂, 道路
+cluster8:(1)
+ねばりっ娘
+cluster9:(3)
+国道沿い, 国道, 山陰自動車道
+cluster10:(6)
+駅, 道の駅, 産直市場, 駐車場, 駅巡り, キャンプ場
+cluster11:(6)
+北条, 北条キャンプ場, トロロ屋ねばり, 北条公園, 北栄町, 北条町
+
+howmany entities : 35
+howmany clusters : 12
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 12
+deleted 0entities.

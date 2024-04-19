@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国史跡 由良台場跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お台場公園, 台場
+cluster1:(2)
+大砲, 幕末
+cluster2:(2)
+対策, 見学
+cluster3:(6)
+土, 道, 周囲, 公園, 駅, 場所
+cluster4:(1)
+子供達
+cluster5:(2)
+海岸防衛, 異国船
+cluster6:(1)
+円型状
+cluster7:(1)
+道の駅大栄
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

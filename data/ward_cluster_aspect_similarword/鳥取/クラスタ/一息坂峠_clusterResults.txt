@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一息坂峠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+休憩所, 展望台, 駐車場
+cluster1:(2)
+一息坂, 一息
+cluster2:(2)
+峠, 峠道
+cluster3:(2)
+寒波, 気温
+cluster4:(6)
+大山, 通行止め, 景色, 雪, 中, 除雪
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 5
+deleted 0entities.

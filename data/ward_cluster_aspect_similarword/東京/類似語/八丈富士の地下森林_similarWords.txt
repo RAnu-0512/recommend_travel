@@ -1,0 +1,13 @@
+--------------------similar_words:八丈富士の地下森林--------------------
+top3 entities near to cluster1>>
+森林, 木々, 森
+top3 entities near to cluster3>>
+噴火口, 火口, 溶岩
+top3 entities near to cluster4>>
+内側, 外側, 裏側
+top3 entities near to cluster5>>
+火口, 噴火口, 火山
+top3 entities near to cluster6>>
+登山道, 登山, 山道
+top3 entities near to cluster7>>
+鉢, 参り, まいり

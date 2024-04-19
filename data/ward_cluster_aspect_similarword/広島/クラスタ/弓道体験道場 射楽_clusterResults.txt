@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弓道体験道場 射楽>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+弓道体験, 弓道
+cluster1:(2)
+左, 右
+cluster2:(14)
+男性スタッフ, 子供, 友人, オススメ, 店内, コース, 娘, 初心者, スタッフ, 看板, 小学生, 中学生, やり方, 弓
+cluster3:(5)
+指導, 対応, 体験, 説明, 予約
+cluster4:(2)
+興味, 手元
+cluster5:(2)
+印象, 気分
+cluster6:(2)
+話, 動画
+cluster7:(3)
+方, こと, 場所
+cluster8:(1)
+手順
+cluster9:(2)
+経験者, 難しさ
+
+howmany entities : 35
+howmany clusters : 10
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古熊神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+御神幸祭, 例祭齊行
+cluster1:(2)
+本殿, 拝殿
+cluster2:(2)
+神社, 古熊神社
+cluster3:(8)
+行列, 名所, 文化財, 祭り, 国, 桜, 八坂神社, 建立
+cluster4:(1)
+商店街
+cluster5:(5)
+山口天神, 北野天神, 山口, 江戸時代前期, 山口駅
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

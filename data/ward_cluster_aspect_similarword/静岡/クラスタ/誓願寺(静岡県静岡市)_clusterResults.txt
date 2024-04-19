@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:誓願寺(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場スペース, 寺務所
+cluster1:(10)
+創建, 本堂裏, 山門, 大鑪山誓願寺, 本堂, 境内, 墓, 秀頼, 寺院, 寺
+cluster2:(18)
+左, 御朱印, 銘, 隣, 責任, 斜面, こと, 受付, 右側, 付近, 鐘, 徒歩, 案内看板, 路線, 二軒屋, 元, 場所, 方広寺
+cluster3:(2)
+片桐且, 片桐且元
+cluster4:(2)
+丸子, 丸子宿
+cluster5:(2)
+新静岡駅, 藤枝駅
+cluster6:(1)
+静鉄バス
+
+howmany entities : 37
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 2
+deleted 9entities.

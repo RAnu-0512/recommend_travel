@@ -1,0 +1,9 @@
+--------------------similar_words:鳥取市観光案内所--------------------
+top3 entities near to cluster1>>
+駅, 構内, 駅前
+top3 entities near to cluster2>>
+時刻表, 時刻, びばあ
+top3 entities near to cluster3>>
+案内, 名所, 宿泊
+top3 entities near to cluster5>>
+周遊, バス, 乗車

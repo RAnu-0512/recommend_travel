@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡サービスエリア(上り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+静岡, 静岡サービスエリア, 静岡サービス, 東名
+cluster1:(2)
+駐車場, 駐車
+cluster2:(2)
+普通自動車, 一般車
+cluster3:(2)
+土産, 方面
+cluster4:(8)
+レストラン, グルメ, こと, スペース, フードコート, サービスエリア, トイレ, エリア
+cluster5:(2)
+看板, 建物
+cluster6:(2)
+裏側, 奥
+cluster7:(1)
+海鮮系
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 11entities.

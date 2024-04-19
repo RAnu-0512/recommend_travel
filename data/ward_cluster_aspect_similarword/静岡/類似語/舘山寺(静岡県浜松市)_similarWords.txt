@@ -1,0 +1,27 @@
+--------------------similar_words:舘山寺(静岡県浜松市)--------------------
+top3 entities near to cluster0>>
+観音, 地蔵, 菩薩
+top3 entities near to cluster1>>
+山道, 山頂, 石段
+top3 entities near to cluster2>>
+景色, 絶景, 眺め
+top3 entities near to cluster3>>
+宿泊, 食事, 泊り
+top3 entities near to cluster11>>
+お守り, 縁結び, 御朱印
+top3 entities near to cluster12>>
+遊歩道, ロープウェー, ビュースポット
+top3 entities near to cluster14>>
+雰囲気, 佇まい, 気持ち
+top3 entities near to cluster22>>
+周囲, 周り, 周辺
+top3 entities near to cluster25>>
+縁, 端, 足
+top3 entities near to cluster31>>
+境内, 神社, 参拝
+top3 entities near to cluster33>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster34>>
+散策, 散歩, 歩き
+top3 entities near to cluster35>>
+温泉, 旅館, 温泉郷

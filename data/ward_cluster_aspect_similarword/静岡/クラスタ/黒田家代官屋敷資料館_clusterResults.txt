@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒田家代官屋敷資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+黒田, 堀
+cluster1:(2)
+屋敷, 代官
+cluster2:(7)
+母屋, 当地, 家, 周囲, 文化財, 長屋門, 国
+cluster3:(1)
+城郭
+cluster4:(1)
+江戸時代
+cluster5:(1)
+資料館
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 7entities.

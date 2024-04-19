@@ -1,0 +1,9 @@
+--------------------similar_words:東京メトロ有楽町線 永田町駅--------------------
+top3 entities near to cluster2>>
+耳, 澄ます, 傾ける
+top3 entities near to cluster3>>
+地下鉄, 地下, 政治
+top3 entities near to cluster4>>
+ドア, 扉, ホーム
+top3 entities near to cluster5>>
+駅, 構内, 駅前

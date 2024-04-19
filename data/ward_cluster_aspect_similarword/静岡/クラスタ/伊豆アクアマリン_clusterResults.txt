@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆アクアマリン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+単独参加, 参加
+cluster1:(2)
+スーツ, ウェットスーツ
+cluster2:(5)
+スパルタ, 中学生, 初心者, 思い出, カナヅチ
+cluster3:(3)
+スタッフ, ポイント, スポット
+cluster4:(4)
+スキンダイビング, シャンプーリンス, ウエットスーツ, インストラクター
+cluster5:(2)
+ダイビング, シュノーケル
+cluster6:(1)
+スウェット
+cluster7:(1)
+シャワー
+cluster8:(1)
+ダイバー
+cluster9:(1)
+スキル
+cluster10:(1)
+たつの
+cluster11:(6)
+家族, 息子, 娘, 子供, 先生, 親子
+cluster12:(3)
+連絡, 予約, 説明
+cluster13:(2)
+人生, 旅
+cluster14:(4)
+記念, 写真, 画像, 動画
+cluster15:(7)
+水, こと, 体験, 時間, 中, 施設, 方
+cluster16:(11)
+魚, 安心安全, 安全, 伊豆アクアマリン, 水深, 伊豆, フィン・マスク・スノーケル, 波, 海, 離島, 海底ポスト
+
+howmany entities : 56
+howmany clusters : 17
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 8
+deleted 13entities.

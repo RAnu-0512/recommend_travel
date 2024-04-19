@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真教寺公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+噴水, 児童公園, 芝生, 観光客, 公園, 真教寺公園
+cluster1:(3)
+各地, 園内, 徒歩
+cluster2:(9)
+人間, 水浴び, パラソル, 子ども, 子, 上, てる子, ウサギ, 親御
+cluster3:(3)
+感じ, 光景, 続発
+cluster4:(2)
+猛暑日, 暑さ
+cluster5:(1)
+熱中症
+cluster6:(3)
+鳥取市, JR鳥取駅, 鳥取駅
+cluster7:(2)
+動物園, ミニ動物園
+cluster8:(3)
+動物, 動物公園, 動物たち
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 9
+deleted 0entities.

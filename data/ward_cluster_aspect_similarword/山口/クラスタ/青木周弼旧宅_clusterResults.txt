@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青木周弼旧宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(24)
+もの, 武士, 説明文, こと, 大きさ, 侍医, 邸宅, 幕末, 青木周弼, 人物, 住宅街, 家, 場所, 旧宅, 建築物, 日本, シーボルト, 聞き覚え, 人たち, 方, 中心部, 人, 藩主, 見ごたえ
+cluster1:(2)
+江戸屋横町, 江戸時代後期
+cluster2:(3)
+萩城下町, 萩藩, 萩
+cluster3:(3)
+藩医, 蘭学, 蘭学医
+
+howmany entities : 32
+howmany clusters : 4
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 4
+deleted 0entities.

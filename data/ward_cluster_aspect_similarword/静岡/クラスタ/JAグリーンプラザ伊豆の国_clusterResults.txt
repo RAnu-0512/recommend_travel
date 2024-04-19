@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JAグリーンプラザ伊豆の国>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+時間, 私達, オープン時間
+cluster1:(3)
+土産, 値段, 物
+cluster2:(2)
+プリン, いちご
+cluster3:(2)
+フルーツ, ヨーグルト
+cluster4:(2)
+ドライブ, スーパー
+cluster5:(3)
+組み合わせ, シーズン, 詰め合わせ
+cluster6:(1)
+手作り
+cluster7:(6)
+茶色, 帰り, 最寄駅, 近く, 他, 方
+cluster8:(4)
+栗, JA, 玉子, 旬
+cluster9:(1)
+大きさ
+cluster10:(3)
+反射炉, 江川邸, 韮山
+cluster11:(10)
+野菜類, 丹那牛乳, 地場産, パック牛乳, 葉物野菜, 野菜, 朝採れ, 野菜炒め, 農産物直売所, コーヒー牛乳
+cluster12:(1)
+蛭ヶ島公園
+
+howmany entities : 41
+howmany clusters : 13
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 7
+deleted 9entities.

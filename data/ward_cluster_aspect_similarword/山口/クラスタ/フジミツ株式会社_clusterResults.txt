@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フジミツ株式会社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パッケージ, ムーミン
+cluster1:(1)
+チーズコロン
+cluster2:(1)
+バスツアー
+cluster3:(1)
+工場見学
+cluster4:(1)
+めんたい味
+cluster5:(1)
+フジミツ株式会社
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:爪木崎花園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+灯台, 花園, 花壇, 花, 温室, 水仙
+cluster1:(2)
+本数, 間隔
+cluster2:(5)
+人, 時間, 次, 海, アート
+cluster3:(2)
+到着, 発車
+cluster4:(1)
+路線バス
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 5entities.

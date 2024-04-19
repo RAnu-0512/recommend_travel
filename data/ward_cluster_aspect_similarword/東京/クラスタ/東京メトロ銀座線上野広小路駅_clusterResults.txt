@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ銀座線上野広小路駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+名物, 夕食, 到着
+cluster1:(4)
+直近, 隣, 中, こと
+cluster2:(7)
+ホテル, 選択肢, 御徒町, アメ横, 松坂屋, 買い物, 地下鉄
+cluster3:(2)
+店, 駅
+cluster4:(1)
+アメ横近辺
+cluster5:(4)
+地上, JR, 地下, 東京メトロ
+cluster6:(1)
+外国人
+cluster7:(6)
+上野松坂屋, 上野, 上野広小路, 上野駅, 銀座線, 田原町駅
+cluster8:(1)
+上野中通り商店街など駅
+
+howmany entities : 29
+howmany clusters : 9
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 9
+deleted 0entities.

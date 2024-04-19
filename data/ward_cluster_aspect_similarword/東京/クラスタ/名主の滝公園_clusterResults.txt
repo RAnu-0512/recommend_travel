@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:名主の滝公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+閉園, 公園, 滝, 名主, 男滝, 滝公園
+cluster1:(3)
+東京, 都, 都内
+cluster2:(4)
+都会, 自然, 空間, 環境
+cluster3:(2)
+緑, 茶
+cluster4:(3)
+水, 夏, 川
+cluster5:(1)
+日陰
+cluster6:(4)
+散策, 放送, 案内, 徒歩
+cluster7:(15)
+オアシス, 子ども, リラクゼーション, 人, 気持ち, ところ, 近く, 飛鳥山, 入り口, マイナスイオン, ポンプ, 中, ブラブラ, 雰囲気, イオン
+cluster8:(5)
+所, スポット名, 場所, 気, こと
+cluster9:(3)
+音, 門, 迫力
+cluster10:(1)
+涼しさ
+cluster11:(16)
+ありませんが公園, 街中の公園, 日本庭園, 人工滝, o♪王子駅, 独鈷の滝, 日本庭園風, 江戸時代, 住宅街, 滝公園滝, 王子, 王子村, 王寺駅, JR王子駅, 湧玉の滝, 王子駅
+
+howmany entities : 63
+howmany clusters : 12
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 12
+deleted 0entities.

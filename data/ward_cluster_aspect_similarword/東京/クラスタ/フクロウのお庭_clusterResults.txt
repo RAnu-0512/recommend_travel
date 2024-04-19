@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フクロウのお庭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鷹匠体験, 鷹匠
+cluster1:(4)
+気, 感じ, 興味, 性格
+cluster2:(2)
+解説, 体験
+cluster3:(21)
+フクロウカフェ, 店, スタッフ, 運動会, 人, 床, それぞれ, フクロウ, 犬, ガラス張り, 自販機, 息子, 時間, 子, 部屋, 中, 愛, コース, 大小, 昼間, 店内
+cluster4:(5)
+フン, ワンドリンク, 振替, タカ, フタ
+cluster5:(7)
+フクロウたち, 方たち, 人生初, 方, 鳥たち, フクロウ達, 鳥
+cluster6:(1)
+時間帯
+
+howmany entities : 42
+howmany clusters : 7
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乙千代ヶ浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乙千代ヶ浜海水浴場, 乙千代ヶ浜
+cluster1:(13)
+海水プール, 池, 岩場, 海水, 潮溜り, 底土, 海岸, 坂, 波, 海, 沖, 岩, 魚
+cluster2:(2)
+透明度, 充実度
+cluster3:(2)
+海水浴シーズン, 海水浴
+cluster4:(9)
+ダイビング, アクセス, 気持ち, パフォーマンス, シーズン, タイドプール, ダイビングスポット, シュノーケリング, バーベキュー
+cluster5:(4)
+ビーチ, シャワー, トイレ, プール
+cluster6:(1)
+八丈島
+cluster7:(1)
+擦り傷
+cluster8:(11)
+プール迄, 大人, 場所, 人, 人気, 子供, 施設, 海水浴場, 時間, 空港, 地元
+cluster9:(1)
+完備
+cluster10:(1)
+家族連れ
+
+howmany entities : 47
+howmany clusters : 11
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 11
+deleted 0entities.

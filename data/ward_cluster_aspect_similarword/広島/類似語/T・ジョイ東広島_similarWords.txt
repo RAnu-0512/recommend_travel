@@ -1,0 +1,13 @@
+--------------------similar_words:T・ジョイ東広島--------------------
+top3 entities near to cluster0>>
+映画, 映画館, シネコン
+top3 entities near to cluster1>>
+フジグラン, ショッピング, センター
+top3 entities near to cluster4>>
+店員, 耳
+top3 entities near to cluster5>>
+風邪, 鼻風邪, 風邪引き
+top3 entities near to cluster6>>
+声量, 声質, 地声
+top3 entities near to cluster7>>
+駐車場, 駐車

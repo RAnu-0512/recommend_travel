@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京都交通局>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東京都庁第二庁舎, 東京都庁第一本庁舎, 東京都庁第二本庁舎
+cluster1:(4)
+乗車券, 横断歩道, 観光客, 乗り放題
+cluster2:(2)
+都庁, 都庁前駅
+cluster3:(6)
+東京都, 都電, 都バス, 都, バス, 東京メトロ
+cluster4:(2)
+切符, 本数
+cluster5:(9)
+事務所, 車内, 本社, 都営地下鉄, 施設, 地下鉄, 徒歩, 中, 本局
+cluster6:(1)
+案内所
+cluster7:(1)
+中々使い勝手
+cluster8:(5)
+交通局, 東京都交通局, 都バス都営線, 都営, 都営線
+
+howmany entities : 33
+howmany clusters : 9
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 9
+deleted 0entities.

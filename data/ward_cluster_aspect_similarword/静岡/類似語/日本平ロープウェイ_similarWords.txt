@@ -1,0 +1,53 @@
+--------------------similar_words:日本平ロープウェイ--------------------
+top3 entities near to cluster0>>
+拝観, 入館, 参拝
+top3 entities near to cluster1>>
+時間, 所要
+top3 entities near to cluster3>>
+駐車場, 駐車, 満車
+top3 entities near to cluster6>>
+バス, 運行, 発着
+top3 entities near to cluster7>>
+往復券, 往復, 運賃
+top3 entities near to cluster9>>
+子供, 子ども, こども
+top3 entities near to cluster10>>
+ホテル, 雰囲気, アトラクション
+top3 entities near to cluster11>>
+行き先, ルート, ガイド
+top3 entities near to cluster12>>
+乗り物, 自販機, 博物館
+top3 entities near to cluster13>>
+コップ, お姫様, カップ
+top3 entities near to cluster14>>
+見応え, 見ごたえ, スリル
+top3 entities near to cluster15>>
+プラン, 写真, セット
+top3 entities near to cluster18>>
+乗り場, 売店, 混雑
+top3 entities near to cluster19>>
+行き, 案内, 行く
+top3 entities near to cluster20>>
+座席車, 座席, 乗客
+top3 entities near to cluster22>>
+赤, 青, 紫
+top3 entities near to cluster25>>
+新型, 人気, 国内
+top3 entities near to cluster26>>
+季節, 秋, 紅葉
+top3 entities near to cluster27>>
+食事, ご飯, 嫁さん
+top3 entities near to cluster31>>
+感触, 感覚, 気分
+top3 entities near to cluster33>>
+本数, 金額, 料金
+top3 entities near to cluster35>>
+ウェイ, ロープ, ゲート
+top3 entities near to cluster36>>
+景色, 絶景, 眺望
+top3 entities near to cluster37>>
+蛇口, 水道, コマパッキン
+top3 entities near to cluster38>>
+階段, 石段, 上がり口
+top3 entities near to cluster39>>
+山頂, 神社, 境内

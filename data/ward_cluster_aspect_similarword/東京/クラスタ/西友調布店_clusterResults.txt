@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西友調布店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+おすすめ, サワークリームオニオン
+cluster1:(1)
+アーモンドチョコレート
+cluster2:(1)
+買い物
+cluster3:(1)
+他
+cluster4:(1)
+商品
+cluster5:(1)
+建物
+cluster6:(1)
+味
+cluster7:(1)
+菓子
+cluster8:(1)
+カップ麺
+cluster9:(1)
+厚切りポテトチップス
+
+howmany entities : 11
+howmany clusters : 10
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 10
+deleted 0entities.

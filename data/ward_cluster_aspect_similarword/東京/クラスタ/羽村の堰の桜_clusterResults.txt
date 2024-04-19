@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:羽村の堰の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+季節, 景色, 時期, 機会
+cluster1:(9)
+タンドリーチキン, 多摩川, 近く, ソフトドリンク, チューリップ, ライト, ケバブ, ビール, 焼きそば
+cluster2:(2)
+祭り, 出店
+cluster3:(1)
+堰
+cluster4:(6)
+夜桜, 花見, 牛串, 花見鑑賞, 桜, 桜祭り
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

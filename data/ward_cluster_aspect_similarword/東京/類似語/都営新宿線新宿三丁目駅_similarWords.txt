@@ -1,0 +1,13 @@
+--------------------similar_words:都営新宿線新宿三丁目駅--------------------
+top3 entities near to cluster0>>
+地下階, 低層階, 地下, 低層
+top3 entities near to cluster1>>
+駅, ビル, 駅前
+top3 entities near to cluster3>>
+田, くろ, 渦
+top3 entities near to cluster4>>
+都心, 副, 遊新
+top3 entities near to cluster5>>
+都営線, 都営, 三田線
+top3 entities near to cluster7>>
+駅, 駅前, 南口

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:錦雲閣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩国藩, 江戸時代
+cluster1:(2)
+絵馬, 絵馬堂
+cluster2:(3)
+参拝, 境内, 神社
+cluster3:(6)
+入り口, もの, 錦帯橋, 部分, 内側, 建物
+cluster4:(3)
+姿, 見所, 風情
+cluster5:(1)
+堀
+cluster6:(1)
+ロープウェイ乗り場
+cluster7:(1)
+腰壁
+cluster8:(3)
+錦雲閣, 吉香公園, 吉香神社
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

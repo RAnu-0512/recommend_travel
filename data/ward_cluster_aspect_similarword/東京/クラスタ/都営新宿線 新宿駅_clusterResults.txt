@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営新宿線 新宿駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+厚生棟売店, 地下壕, 地下深く
+cluster1:(15)
+追記, 人, 乗り換え, 星3, 帰り, 価値, 満足星, ツアー, ホーム, 評価, 時間, 大本営, 注意, 参加, 京王線
+cluster2:(9)
+市ヶ谷駅, 新宿駅, 駅, 直通運転, 改札, 電車, 正門, 直通, 市谷本村町
+cluster3:(5)
+参加費, 防衛大学校見学ツアー, 市ヶ谷台ガイドツアー, 記念館, 防衛省
+cluster4:(9)
+新宿区, 京王電鉄, 地下鉄新宿線, 新宿線, JR新宿駅, 京王新線, 江戸線, 曙橋駅, 下車徒歩数分
+
+howmany entities : 41
+howmany clusters : 5
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 5
+deleted 0entities.

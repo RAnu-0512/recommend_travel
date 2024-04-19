@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:忠小兵衛蒲鉾本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+興味, 結果, 方, 過程, コツ, 想像, かまぼこ店, 蒲鉾, かまぼこ, 土産, 持ち帰り, 萩
+cluster1:(2)
+かまぼこ作り体験, 焼きたて
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

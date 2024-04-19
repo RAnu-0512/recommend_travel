@@ -1,0 +1,19 @@
+--------------------similar_words:鈴本演芸場--------------------
+top3 entities near to cluster0>>
+演芸場, 演芸, 鈴本
+top3 entities near to cluster1>>
+演芸場, 演芸, 寄席
+top3 entities near to cluster2>>
+演芸場, 演芸, 木馬亭
+top3 entities near to cluster3>>
+落語, 寄席, 噺家
+top3 entities near to cluster4>>
+芸術, 芸能
+top3 entities near to cluster6>>
+界隈, 人気, 老舗
+top3 entities near to cluster8>>
+公演, 会場, 食事
+top3 entities near to cluster9>>
+駅, ＡＢＡＢ, 広小路
+top3 entities near to cluster13>>
+三, 柳家, 四

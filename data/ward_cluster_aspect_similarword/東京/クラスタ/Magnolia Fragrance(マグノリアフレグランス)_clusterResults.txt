@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Magnolia Fragrance(マグノリアフレグランス)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+分量, 香料, 工程
+cluster1:(15)
+アロマテラピー, 組み合わせ, スタッフ, 仕上がり, メスシリンダー, 思い出, スポイト, リュック, リピーター, アールグレイ, デザイン, プレゼント, サロン, アドバイス, マスク
+cluster2:(14)
+季節, 最後, 次回, 人, 人気, 他, 彼, 体験, 時間, 方, 中, 友人, 理由, もの
+cluster3:(1)
+誕生日
+cluster4:(13)
+香水, 香水選び, 調香体験, 匂い, 甘さ, 男性っぽい香り, 好み, 自分好み, 瓶, 香水瓶, 香り選び, 香り, 香水調合体験
+
+howmany entities : 46
+howmany clusters : 5
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:保命酒資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(37)
+施設, 歴史, もの, 保命酒, そのもの, 鞆, 漢方入り, 出入り, 酒, 中, 店員, 店, 資料, 徳利, 観光客, 建物, 香り, みりん, 昔, 店舗, 醸造, 観光, 薬用酒, 土産, 資料館, バスセンター, ベース, 真っ先, 前, 薬酒, 看板, 試飲, 浦, 酒蔵, 道具, 土産品, 構え
+cluster1:(2)
+常夜燈, 市営駐車場
+
+howmany entities : 39
+howmany clusters : 2
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 2
+deleted 0entities.

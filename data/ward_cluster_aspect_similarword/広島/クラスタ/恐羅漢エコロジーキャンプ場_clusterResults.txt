@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:恐羅漢エコロジーキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+テント, テントスペース
+cluster1:(4)
+トイレ, スペース, カレー, キャンプ
+cluster2:(2)
+設備, キャンプ場
+cluster3:(1)
+炊飯
+cluster4:(1)
+食事作り
+cluster5:(1)
+恐羅漢トレイル
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三省堂書店神保町本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+総合書店, 新刊書店, 大型書店
+cluster1:(2)
+古書店街, 古書街
+cluster2:(2)
+古本館, 古書館
+cluster3:(2)
+専門書, 在書数
+cluster4:(8)
+古書, 店舗, 本屋, 本店, ビル, 在庫, 書店, 店内
+cluster5:(7)
+フロア数, 時代, テスト前, 時間, こと, 暇, 金
+cluster6:(2)
+応援, 世話
+cluster7:(3)
+学校, 大学, 自宅
+cluster8:(9)
+エスカレーター, 本, 子ども, 神保町, エレベーター, 三省堂, 教科書, 書籍, 取り寄せ
+cluster9:(1)
+サイン会
+cluster10:(1)
+時間潰し
+cluster11:(1)
+P.S.2009
+cluster12:(1)
+三省堂書店の本丸 三省堂書店神保町
+
+howmany entities : 42
+howmany clusters : 13
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 13
+deleted 0entities.

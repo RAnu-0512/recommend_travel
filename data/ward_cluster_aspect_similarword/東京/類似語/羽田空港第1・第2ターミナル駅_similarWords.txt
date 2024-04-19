@@ -1,0 +1,7 @@
+--------------------similar_words:羽田空港第1・第2ターミナル駅--------------------
+top3 entities near to cluster0>>
+京, 急, アニオリジナル
+top3 entities near to cluster1>>
+急行線, 快速線, 急行, 快速
+top3 entities near to cluster2>>
+駅, 乗り継ぎ, 空港

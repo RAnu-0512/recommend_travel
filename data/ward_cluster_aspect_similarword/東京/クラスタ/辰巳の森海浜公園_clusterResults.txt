@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:辰巳の森海浜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 風景
+cluster1:(5)
+建設, 桜並木, オリンピック, 会場, 辰巳国際水泳場
+cluster2:(1)
+脇
+cluster3:(1)
+演技
+cluster4:(1)
+所どころ工事
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

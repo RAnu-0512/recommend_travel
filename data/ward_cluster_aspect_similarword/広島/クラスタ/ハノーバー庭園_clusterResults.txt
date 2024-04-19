@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハノーバー庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+噴水, ドイツ, 紋章, 割, 花壇, 気, 友好, 雰囲気, 庭園, 近く, ライブ, グッズ販売箇所, 景観, 公園
+cluster1:(5)
+原爆ドーム, 広島市, ハノーバー市, 県立体育館, 広島市民球場
+cluster2:(1)
+───O
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

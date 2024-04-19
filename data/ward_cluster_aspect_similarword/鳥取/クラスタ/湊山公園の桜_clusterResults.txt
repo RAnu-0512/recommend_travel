@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湊山公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+公園そのもの, 芝生, 米子市, 公園, 駐車場, 湊山公園
+cluster1:(5)
+桜そのもの, 桜, 花見, 木, 古木
+cluster2:(9)
+埋め立て工事, エリア, 出店, 地, 風情, 屋台, 家族, 人, 事情
+cluster3:(1)
+樹勢
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

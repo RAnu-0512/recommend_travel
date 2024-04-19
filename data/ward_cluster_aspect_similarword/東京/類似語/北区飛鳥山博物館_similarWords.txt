@@ -1,0 +1,13 @@
+--------------------similar_words:北区飛鳥山博物館--------------------
+top3 entities near to cluster0>>
+駅, 区, 駅前
+top3 entities near to cluster1>>
+展示, 出展, 常設
+top3 entities near to cluster2>>
+風景, 施設, 歴史
+top3 entities near to cluster3>>
+縄文人, 縄文, 旧石器時代
+top3 entities near to cluster4>>
+弥生, 縄文
+top3 entities near to cluster5>>
+公園, 駅, 区立

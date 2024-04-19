@@ -1,0 +1,71 @@
+--------------------similar_words:東京都観光汽船--------------------
+top3 entities near to cluster0>>
+海浜, 台場, 公園
+top3 entities near to cluster1>>
+都, 水上, バス
+top3 entities near to cluster2>>
+水上, バス, 乗り場
+top3 entities near to cluster3>>
+タウン, イオン, モール
+top3 entities near to cluster4>>
+宇宙船, 母船, 宇宙
+top3 entities near to cluster5>>
+ライト, 日の出, フラッシュ
+top3 entities near to cluster6>>
+タワー, ブリッジ, デッキ
+top3 entities near to cluster7>>
+イベント, ショップ, ホテル
+top3 entities near to cluster8>>
+飲み物, 食べ物, 子ども
+top3 entities near to cluster9>>
+イス, バー, 椅子
+top3 entities near to cluster11>>
+罪悪感, 感覚, 罪悪
+top3 entities near to cluster12>>
+料金, 価格, 消費
+top3 entities near to cluster13>>
+受付, 予約, 申込
+top3 entities near to cluster14>>
+出発, 移動, 到着
+top3 entities near to cluster15>>
+購入, 販売, 利用
+top3 entities near to cluster16>>
+紹介, 確認, 記載
+top3 entities near to cluster18>>
+てれ, きし, てる
+top3 entities near to cluster19>>
+座り心地, 座り
+top3 entities near to cluster20>>
+鉄郎, 銀河, メーテル
+top3 entities near to cluster21>>
+展望, 眺望, 見晴らし
+top3 entities near to cluster22>>
+ビル群, ビル, 高層
+top3 entities near to cluster23>>
+桟橋, 駅, 埠頭
+top3 entities near to cluster24>>
+川, 川岸, 右岸
+top3 entities near to cluster25>>
+架かる橋, 架かる, 鉄橋
+top3 entities near to cluster26>>
+景色, 風景, 景観
+top3 entities near to cluster27>>
+乗客, 家族
+top3 entities near to cluster28>>
+乗船, 下船, 停泊
+top3 entities near to cluster29>>
+乗船, 出航, 出港
+top3 entities near to cluster30>>
+船内, 船体, 船室
+top3 entities near to cluster31>>
+遊覧船, 遊覧, 船舶
+top3 entities near to cluster32>>
+予約, 事前, 所要
+top3 entities near to cluster33>>
+整列, 整理, 係り
+top3 entities near to cluster34>>
+案内, 受付, 窓口
+top3 entities near to cluster35>>
+バス, タクシー, バス停
+top3 entities near to cluster36>>
+手段, 交通, 機関

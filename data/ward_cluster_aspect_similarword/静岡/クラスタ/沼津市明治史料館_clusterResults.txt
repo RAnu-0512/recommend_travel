@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津市明治史料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+郷土, 資料, 史料
+cluster1:(3)
+カメラ撮影, 旅行, 伊豆長岡温泉
+cluster2:(2)
+途中, 近所
+cluster3:(3)
+歴史, 建物, 中心
+cluster4:(8)
+ラッピングトレイン, モデル, フロア, ヨハネ, カメラ, 伊豆箱根鉄道スタンプラリー, キャラパネル, パネルポスター
+cluster5:(2)
+静岡, 明治
+cluster6:(1)
+ラブライブ
+cluster7:(1)
+直売所
+cluster8:(11)
+明冶資料館, テレビアニメ幻日, 沼津兵学校, まちあるきスタンプ, JAふじ伊豆, 障害者手帳提示, まちあるき, 明治史料館, 沼津市, 江原素, 沼津駅
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 6entities.

@@ -1,0 +1,67 @@
+--------------------similar_words:羽田エクセルホテル東急--------------------
+top3 entities near to cluster0>>
+東急, エクセルホテル, スクエアガーデンサイト
+top3 entities near to cluster1>>
+滑走路, 滑走, 路側
+top3 entities near to cluster2>>
+国際, 空港, リノ・タホ
+top3 entities near to cluster3>>
+空港, ターミナル, 国内線
+top3 entities near to cluster4>>
+搭乗, 空港, 乗り継ぎ
+top3 entities near to cluster5>>
+国内線, 国際線, ＪＡＬ
+top3 entities near to cluster6>>
+飛行機, フライト, 航空機
+top3 entities near to cluster7>>
+デザート, レストラン, ビュッフェ
+top3 entities near to cluster8>>
+フルーツ, ケーキ, パフェ
+top3 entities near to cluster9>>
+親近感, 罪悪感, 親近, 罪悪
+top3 entities near to cluster10>>
+利用, 提供, 用意
+top3 entities near to cluster12>>
+価値, 機会
+top3 entities near to cluster17>>
+遣っ, 遣う
+top3 entities near to cluster18>>
+始末, 羽目, 有様
+top3 entities near to cluster19>>
+利点, 印象
+top3 entities near to cluster21>>
+料理, 食材, 和食
+top3 entities near to cluster22>>
+アイス, デザート, ワイン
+top3 entities near to cluster23>>
+ホテル, 食事, 朝食
+top3 entities near to cluster24>>
+都市地, 出身地, 出身, 都市
+top3 entities near to cluster25>>
+席, 通路, 座席
+top3 entities near to cluster26>>
+椅子, 皿, 足
+top3 entities near to cluster27>>
+係り
+top3 entities near to cluster28>>
+友人, 母親, 両親
+top3 entities near to cluster29>>
+各地, 現地, 国内
+top3 entities near to cluster30>>
+全体, 部分, 総て
+top3 entities near to cluster31>>
+近隣, 隣, 隣り
+top3 entities near to cluster34>>
+男性, 女性, 男女
+top3 entities near to cluster35>>
+当方, 小生, 貴殿
+top3 entities near to cluster36>>
+立地, 至便, ローケーション
+top3 entities near to cluster37>>
+食材, 名産, 果物
+top3 entities near to cluster38>>
+接客, 実演, 販売
+top3 entities near to cluster39>>
+格安, 無料, 値段
+top3 entities near to cluster40>>
+種類

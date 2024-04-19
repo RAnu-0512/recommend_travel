@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今切体験の里海湖館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡, 新居インター, 浜名バイパス
+cluster1:(11)
+クラムチャウダー, 遠州灘, 浜名湖, 生き物, イベント, ウナギ, 串刺し, 出入り, 子ども, かば焼き, ウナギつかみ
+cluster2:(2)
+感じ, ヌルヌルさ
+cluster3:(3)
+ご飯, 子どもたち, 体験
+cluster4:(5)
+時期, 人, 近く, 冬, ぶり
+cluster5:(1)
+身
+cluster6:(4)
+天候, 価格, 値段, 行列
+cluster7:(8)
+魚, ワンコイン, 釣り, カニ, カキ, 海, 幸, 牡蠣
+cluster8:(12)
+駐車場, 牡蠣焼き体験, 牡蠣小屋, 海湖館, 牡蠣詰め放題, シラス丼, かき小屋, 詰め放題, 鰻蒲焼き体験, つけ焼き, 焼きかき, かきフライ
+
+howmany entities : 49
+howmany clusters : 9
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 7
+deleted 3entities.

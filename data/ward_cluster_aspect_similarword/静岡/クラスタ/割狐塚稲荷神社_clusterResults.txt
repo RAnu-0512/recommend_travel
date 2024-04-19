@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:割狐塚稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+溶岩流, 溶岩塚, 三島溶岩流, 溶岩
+cluster1:(4)
+稲荷神社, 神社, 稲荷, 割狐塚
+cluster2:(6)
+下土狩駅, 御殿場線, 三島駅, 住宅地, 三島, 徒歩
+cluster3:(9)
+車, 敷地, 目, 割れ目, 富士山, 東, 上, 距離, 場所
+cluster4:(5)
+狐, 鳥居, 朱色, 岩, 滝
+cluster5:(1)
+鮎壺
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 1entities.

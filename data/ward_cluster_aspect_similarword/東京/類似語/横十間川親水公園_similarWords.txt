@@ -1,0 +1,15 @@
+--------------------similar_words:横十間川親水公園--------------------
+top3 entities near to cluster0>>
+公園, 親水, 緑地
+top3 entities near to cluster2>>
+漕ぎ手, 漕ぎ, こぎ
+top3 entities near to cluster3>>
+和船, 体験, 乗船
+top3 entities near to cluster5>>
+検定, 資格, 地理
+top3 entities near to cluster6>>
+公園, 憩い, 散歩
+top3 entities near to cluster7>>
+水辺, 川, 水上
+top3 entities near to cluster9>>
+子供, 子ども, 親達

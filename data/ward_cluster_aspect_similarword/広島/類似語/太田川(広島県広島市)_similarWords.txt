@@ -1,0 +1,27 @@
+--------------------similar_words:太田川(広島県広島市)--------------------
+top3 entities near to cluster0>>
+散歩, 公園, 散策
+top3 entities near to cluster1>>
+遊歩道, 子ども, 子供
+top3 entities near to cluster4>>
+時間, 時期, 範囲
+top3 entities near to cluster5>>
+景色, 眺め, 面影
+top3 entities near to cluster6>>
+川幅, 水量, 水かさ
+top3 entities near to cluster7>>
+地帯, 水域, 海域
+top3 entities near to cluster8>>
+上流, 下流, 本流
+top3 entities near to cluster10>>
+河口橋, 川橋, 川, 河口
+top3 entities near to cluster11>>
+線路, 堤防, 築堤
+top3 entities near to cluster12>>
+平地, 土地, 農地
+top3 entities near to cluster13>>
+水辺, 河川敷, 川
+top3 entities near to cluster15>>
+河川, 水系, 流域
+top3 entities near to cluster16>>
+公園, 記念, 平和

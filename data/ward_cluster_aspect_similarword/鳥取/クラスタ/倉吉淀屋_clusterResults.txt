@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉吉淀屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大阪淀屋橋, 倉吉, 大阪
+cluster1:(4)
+欄間, 屋号, 町家, 豪商
+cluster2:(6)
+建物, 建築, 観光, 彫刻, 見学, 外観
+cluster3:(13)
+家, 関係, 説明, スタッフ, 歴史, 西, 淀屋橋, 佇まい, 流れ, 足, 方, 市, 部分
+cluster4:(1)
+付属屋
+cluster5:(3)
+江戸時代中期, 豪勢ぶり, 繁栄ぶり
+cluster6:(8)
+淀屋, 有形文化財, 倉吉淀屋, 市指定有形文化財, 白壁土蔵群, 町家建築今, 材木商, 町家建築
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

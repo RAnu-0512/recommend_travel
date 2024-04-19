@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都田ぶどう狩り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+都田駅, 都田, 浜松駅, 天浜線
+cluster1:(8)
+ぶどう狩り案内所, お腹一杯, ピオーネ, 直行バス, 食べ放題, 時間制限, 提携農園, くれ車
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 0entities.

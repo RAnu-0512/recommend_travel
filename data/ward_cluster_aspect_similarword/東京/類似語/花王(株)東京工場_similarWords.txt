@@ -1,0 +1,15 @@
+--------------------similar_words:花王(株)東京工場--------------------
+top3 entities near to cluster1>>
+花王, 喚作, シフォネ
+top3 entities near to cluster2>>
+予約, 見学, 受付
+top3 entities near to cluster3>>
+工場, 見学, 作業場
+top3 entities near to cluster4>>
+化粧品, 化粧, 品等
+top3 entities near to cluster5>>
+駅, 徒歩, 正門
+top3 entities near to cluster6>>
+バス, 路線, 駅
+top3 entities near to cluster7>>
+受付, 集合, 時間

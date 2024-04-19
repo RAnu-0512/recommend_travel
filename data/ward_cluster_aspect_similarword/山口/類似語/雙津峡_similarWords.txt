@@ -1,0 +1,9 @@
+--------------------similar_words:雙津峡--------------------
+top3 entities near to cluster0>>
+お家, 仕事場
+top3 entities near to cluster1>>
+バス, 山道, タクシー
+top3 entities near to cluster2>>
+憩い, 集える, 憩う
+top3 entities near to cluster3>>
+駅, 錦町, 仁保津

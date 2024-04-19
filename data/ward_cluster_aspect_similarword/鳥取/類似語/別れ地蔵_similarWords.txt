@@ -1,0 +1,11 @@
+--------------------similar_words:別れ地蔵--------------------
+top3 entities near to cluster0>>
+地蔵, 尊前, 観音
+top3 entities near to cluster1>>
+頃, ころ, 大山寺
+top3 entities near to cluster2>>
+分岐点, 分岐, 終着点, 終着
+top3 entities near to cluster3>>
+頼朝, 坊, 義仲
+top3 entities near to cluster4>>
+後期, 時代, 中期

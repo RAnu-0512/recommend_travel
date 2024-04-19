@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大堰川(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+景色, 小石川後楽園, 紅葉, 庭園, 園, 風景
+cluster1:(2)
+付近, 周辺
+cluster2:(2)
+場所, こと
+cluster3:(3)
+大堰川, エリア, 秋晴れ
+cluster4:(2)
+中, 下
+cluster5:(6)
+河口, 上流, 水面, 川, 橋, 岩
+cluster6:(6)
+京都, 京都嵐山, 渡月橋, 嵐山, 小石川後楽園内を流れる大堰川, 通天橋
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営三田線 白金高輪駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+三田線, 気象庁, 門, 都営地下鉄, ふたつ, 虎, ホーム, 駅, 施設, 徒歩, 南北線, 乗り換え
+cluster1:(4)
+千代田区内, 営団, 東京メトロ, 都営
+cluster2:(1)
+共同運用駅
+cluster3:(6)
+北里柴三郎記念館, 気象庁気象科学館, 港区立, 白金高輪駅, 区立みなと科学館, 科学館
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

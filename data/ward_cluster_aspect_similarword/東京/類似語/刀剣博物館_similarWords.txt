@@ -1,0 +1,15 @@
+--------------------similar_words:刀剣博物館--------------------
+top3 entities near to cluster0>>
+区, 区内, 都
+top3 entities near to cluster1>>
+刀剣, 三条派小狐丸, 名刀
+top3 entities near to cluster2>>
+日本刀, 武器
+top3 entities near to cluster3>>
+建物, 施設
+top3 entities near to cluster4>>
+国宝, 文化財, カリスマレジェンド
+top3 entities near to cluster6>>
+庭園, 暎胤, 中庭
+top3 entities near to cluster7>>
+展示, 開館, 博物館

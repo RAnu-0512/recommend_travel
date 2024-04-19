@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱川ダイビングサービスPONO Cafe(Arrowz)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作業, 工程
+cluster1:(5)
+練習, 体験, 作品, 見本, 制作
+cluster2:(2)
+共通, 趣味
+cluster3:(6)
+アンクレット, 作り方, オーナー, 一時, 手作り, レジンアート
+cluster4:(1)
+機会
+cluster5:(1)
+波
+cluster6:(1)
+褒め上手
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 7entities.

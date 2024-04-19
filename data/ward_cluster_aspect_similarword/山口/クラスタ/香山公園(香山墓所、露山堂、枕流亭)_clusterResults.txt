@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香山公園(香山墓所、露山堂、枕流亭)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+幕末, 長州, 歴史
+cluster1:(6)
+階段, 部屋, 会合, 五重塔, 正面, 瑠璃光寺
+cluster2:(1)
+丸窓
+cluster3:(1)
+香山公園
+cluster4:(1)
+枕流亭
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

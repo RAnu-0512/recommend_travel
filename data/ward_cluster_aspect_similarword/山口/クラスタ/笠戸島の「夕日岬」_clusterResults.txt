@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笠戸島の「夕日岬」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+笠戸ハイツ, 国民宿舎, 下松駅, 河津桜, 駐車場
+cluster1:(4)
+つる夕日, 夕日実, 夕日, 夕陽
+cluster2:(6)
+釣り, 海辺, 景色, 絶景, 温泉, 海
+cluster3:(2)
+転換, 気分
+cluster4:(2)
+心, 底
+cluster5:(5)
+夕方, 念願, 場所, 時間, 昼間
+cluster6:(13)
+スポット, 西日本, ここ笠戸島, 家族, 想像, カップル, 雰囲気, ドライブ, 瀬戸内海, 周り, 夕暮れ, 人, 笠戸島
+cluster7:(1)
+屈指
+cluster8:(1)
+大城
+cluster9:(1)
+夕食どき
+cluster10:(1)
+美しさ
+
+howmany entities : 41
+howmany clusters : 11
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 11
+deleted 0entities.

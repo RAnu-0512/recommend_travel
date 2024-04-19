@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:にぎり寿司体験 あかざわ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寿司握り, 握り寿司ネタ
+cluster1:(2)
+握り寿司体験, 握り体験
+cluster2:(31)
+職人, ネタ, プレゼント, 寿司職人, 今回, 帽子, 大将, 家族, 陶芸, 入り口, テーブル, 全国, 寿司, 沢山, 予約, 願望, 里, 事前予約, 体験, そば, 時間, 次, 教え方, ワサビ, 体感, 登場, 場所, イメージ, 気分, 上着, 方
+
+howmany entities : 35
+howmany clusters : 3
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 1
+deleted 4entities.

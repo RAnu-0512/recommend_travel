@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井上公園_さくら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ホテル, 普通
+cluster1:(1)
+場所
+cluster2:(1)
+公園
+cluster3:(1)
+足湯
+cluster4:(1)
+井上
+cluster5:(1)
+詩碑
+cluster6:(1)
+中原中也
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

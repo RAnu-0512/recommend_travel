@@ -1,0 +1,9 @@
+--------------------similar_words:桑山公園_さくら--------------------
+top3 entities near to cluster0>>
+桜, 八重桜, 満開
+top3 entities near to cluster1>>
+トンネル, 道路
+top3 entities near to cluster2>>
+花見, 行楽, 見物
+top3 entities near to cluster3>>
+桑山, 公園, 城山

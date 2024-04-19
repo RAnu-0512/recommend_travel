@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:館ヶ浴_つばき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ところ, 八重咲
+cluster1:(1)
+花
+cluster2:(1)
+車
+cluster3:(1)
+大輪
+cluster4:(1)
+つばき
+cluster5:(1)
+館ヶ浴
+cluster6:(1)
+中国自動車道小月IC
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,51 @@
+--------------------similar_words:日本近代文学館--------------------
+top3 entities near to cluster0>>
+文学, 資料, 館
+top3 entities near to cluster1>>
+文学, 近代, 小説
+top3 entities near to cluster2>>
+文学, 館, 資料
+top3 entities near to cluster3>>
+文学, 小説, 作家
+top3 entities near to cluster5>>
+休憩, 昼食, 時間
+top3 entities near to cluster6>>
+建物, 外観, 館内
+top3 entities near to cluster7>>
+徒歩, 駅分, 駅
+top3 entities near to cluster9>>
+目的, 手段, ため
+top3 entities near to cluster10>>
+時間, 時, 期間
+top3 entities near to cluster11>>
+空間, 別世界, くつろげる
+top3 entities near to cluster12>>
+受付, 手前, 入り口
+top3 entities near to cluster14>>
+博物館, 文化財, 図書館
+top3 entities near to cluster15>>
+ドリンク, メニュー, 飲み物
+top3 entities near to cluster16>>
+スィーツ, コーヒー, スイーツ
+top3 entities near to cluster17>>
+喫茶店, カフェ, 喫茶
+top3 entities near to cluster18>>
+イベント, 雰囲気, サイト
+top3 entities near to cluster19>>
+テラス, ベランダ, バルコニー
+top3 entities near to cluster20>>
+手書き, 手描き, 手書
+top3 entities near to cluster21>>
+カフェ, 併設, オープン
+top3 entities near to cluster22>>
+明治, 森, 緑
+top3 entities near to cluster23>>
+小説, 読書, 原稿
+top3 entities near to cluster24>>
+歴史系, 書物, 歴史
+top3 entities near to cluster25>>
+散歩, 公園, 休日
+top3 entities near to cluster26>>
+家族, 友人
+top3 entities near to cluster27>>
+資料, 文学, 作家

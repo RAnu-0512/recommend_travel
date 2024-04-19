@@ -1,0 +1,21 @@
+--------------------similar_words:東京トリックアート迷宮館--------------------
+top3 entities near to cluster0>>
+入館料, 入場料, 入館, 入場
+top3 entities near to cluster1>>
+写真, 撮っ, 撮り
+top3 entities near to cluster2>>
+台場, デックス, ビーナスフォート
+top3 entities near to cluster3>>
+アート, トリック, 体験
+top3 entities near to cluster4>>
+子供, 子ども, 大人
+top3 entities near to cluster5>>
+錯覚, 気分, 感覚
+top3 entities near to cluster7>>
+だり, でる, だら
+top3 entities near to cluster9>>
+ゲーム, 人達, ネタ
+top3 entities near to cluster10>>
+宝石, 景品, 鍵
+top3 entities near to cluster11>>
+宝箱, 宝, 交早

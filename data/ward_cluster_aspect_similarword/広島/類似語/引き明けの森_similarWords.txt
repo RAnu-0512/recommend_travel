@@ -1,0 +1,11 @@
+--------------------similar_words:引き明けの森--------------------
+top3 entities near to cluster0>>
+森, 全体, 森林
+top3 entities near to cluster1>>
+面積, 表面積, 受風
+top3 entities near to cluster3>>
+樹齢, 巨木, 老木
+top3 entities near to cluster4>>
+づりつつ
+top3 entities near to cluster5>>
+原生, 林, 彦峰

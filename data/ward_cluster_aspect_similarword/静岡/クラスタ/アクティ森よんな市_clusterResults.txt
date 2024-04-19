@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アクティ森よんな市>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+人気, 知名度, 地元
+cluster1:(2)
+店, 北側
+cluster2:(2)
+食材, 子どもたち
+cluster3:(6)
+静岡, 森町, 梅ジュース, アクティ森, 葉, 遠州森町
+cluster4:(1)
+名産品
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 5entities.

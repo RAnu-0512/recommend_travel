@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 伊豆月ヶ瀬>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+昼, 月ヶ瀬, スペース, 隣り, 場合, 感じ, 他所, 買い物, ソフトクリーム, 近く, トイレ, 到着, 帰り道, 方, 緑色
+cluster1:(13)
+車, 土産, 窓, 梅, 駅, 野菜, 店内, 食堂, 景色, 建物, 天井, 施設, 道
+cluster2:(2)
+混雑, 物販コーナー
+cluster3:(2)
+土肥, 新しめ
+cluster4:(3)
+駐車場, 動線, 駐車
+cluster5:(7)
+ヶ瀬インターチェンジ, わさびつけ麺, 麺, 中華麺, 山葵味, 地場産品, 山葵
+
+howmany entities : 42
+howmany clusters : 6
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 4
+deleted 4entities.

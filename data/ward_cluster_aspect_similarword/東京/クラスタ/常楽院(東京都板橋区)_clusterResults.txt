@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常楽院(東京都板橋区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+板橋区, 東京都, 前野町
+cluster1:(2)
+先代, 現職
+cluster2:(2)
+寺, 僧侶
+cluster3:(2)
+菩提寺, 長谷寺
+cluster4:(2)
+方, 雰囲気
+cluster5:(1)
+奥様
+cluster6:(1)
+鐘
+cluster7:(2)
+駐車場, 常楽院
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 8
+deleted 0entities.

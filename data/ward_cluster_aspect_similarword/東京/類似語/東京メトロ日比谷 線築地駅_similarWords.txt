@@ -1,0 +1,9 @@
+--------------------similar_words:東京メトロ日比谷 線築地駅--------------------
+top3 entities near to cluster0>>
+景色, 外観, 距離
+top3 entities near to cluster2>>
+駅線, 駅, 電車線, 電車
+top3 entities near to cluster3>>
+市場, 魚市場, 本願寺
+top3 entities near to cluster4>>
+場外, 市場, 魚市場

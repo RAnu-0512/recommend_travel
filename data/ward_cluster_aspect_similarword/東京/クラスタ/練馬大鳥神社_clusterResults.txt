@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:練馬大鳥神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+石薬師如来, 市, 入り口, 神社, 場所, 飲み屋街, 酉, 様子
+cluster1:(2)
+練馬大鳥神社, 練馬駅
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

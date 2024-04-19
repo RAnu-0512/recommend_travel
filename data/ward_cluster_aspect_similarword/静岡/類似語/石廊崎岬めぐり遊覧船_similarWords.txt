@@ -1,0 +1,23 @@
+--------------------similar_words:石廊崎岬めぐり遊覧船--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場代
+top3 entities near to cluster2>>
+乗り物, 自動車, コースター
+top3 entities near to cluster3>>
+乗り場, 遊歩道, ホテル
+top3 entities near to cluster4>>
+クルーズ, サンセットクルーズ, クルージング
+top3 entities near to cluster5>>
+思い出, 気持ち, 醍醐味
+top3 entities near to cluster6>>
+到着, 案内, 受付
+top3 entities near to cluster7>>
+人達, 子供
+top3 entities near to cluster10>>
+景色, 斜面, 地形
+top3 entities near to cluster11>>
+美しい, 勧め, 透明
+top3 entities near to cluster15>>
+代金, 高齢, 料金
+top3 entities near to cluster16>>
+遊覧船, 海岸, 遊覧

@@ -1,0 +1,15 @@
+--------------------similar_words:大仁温泉--------------------
+top3 entities near to cluster1>>
+温泉, 温泉郷, 旅館
+top3 entities near to cluster3>>
+風呂, 湯船, 入浴
+top3 entities near to cluster8>>
+梅, 桜, 鮎
+top3 entities near to cluster10>>
+宿泊, 宿, 部屋
+top3 entities near to cluster12>>
+温度, 負担, 低め
+top3 entities near to cluster13>>
+消毒, 洗浄, 徹底
+top3 entities near to cluster15>>
+長嶋, 茂雄, 正七

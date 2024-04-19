@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高島秋帆の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+砲術, 高島流砲術, 砲術家
+cluster1:(3)
+墓所案内, 墓地, 墓
+cluster2:(8)
+末期, 人, 人物, 気, 訓練, 遅れ, 手, こと
+cluster3:(5)
+高島平, 門, 奥, 長崎, 日本
+cluster4:(1)
+高島郡
+cluster5:(3)
+創始者, 江戸時代後期, 流祖).
+cluster6:(1)
+興洋兵之開祖
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 7
+deleted 0entities.

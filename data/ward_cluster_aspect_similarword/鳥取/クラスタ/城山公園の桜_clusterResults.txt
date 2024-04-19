@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城山公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川沿い, 土手沿い
+cluster1:(4)
+コラボ, (^-^, サクラ, 写真
+cluster2:(2)
+週末, 祭り
+cluster3:(6)
+地域, 車, 付近, 山頂, 公園, 場所
+cluster4:(2)
+散策, 名所
+cluster5:(2)
+桜, 花見
+cluster6:(2)
+土手, 川
+cluster7:(2)
+城山公園, 館山城
+cluster8:(1)
+鳥取県西部地区
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

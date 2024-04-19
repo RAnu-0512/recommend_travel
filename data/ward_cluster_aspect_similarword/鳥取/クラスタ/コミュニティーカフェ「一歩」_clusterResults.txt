@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コミュニティーカフェ「一歩」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コーヒーブレイク, コーヒー
+cluster1:(1)
+カフェ
+cluster2:(1)
+カレー
+cluster3:(1)
+雰囲気
+cluster4:(1)
+場所
+cluster5:(1)
+料金
+cluster6:(1)
+一歩
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

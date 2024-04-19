@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:骨董通り(アンティーク通り)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+骨董店, 美術, 骨董商, 古美術品, 骨董, うね骨董品店, 骨董通り, 美術品, 骨董品屋, 骨董品店, 古民芸, 骨董品, 骨董屋
+cluster1:(14)
+店, 昔, 場所, 人, 気, 戦後, 事, 名前, 奥, 別称, 著名レストラン, こと, もの, 辺り
+cluster2:(5)
+表参道, 西麻布, 渋谷, 南青山, 六本木
+cluster3:(3)
+セレクトショップ, ブランドショップ, ショップ
+cluster4:(2)
+パンケーキ, スウィーツ
+cluster5:(2)
+デートスポット, レストラン
+cluster6:(5)
+パンフレット, アンティークショップ, アンティーク, ベイキングカンパニー, ハンドメイド
+cluster7:(1)
+あちこち
+cluster8:(1)
+アップル
+cluster9:(1)
+カフェ
+cluster10:(1)
+クリントンストリート
+cluster11:(1)
+雰囲気
+cluster12:(1)
+ゆかり
+cluster13:(1)
+販売
+cluster14:(1)
+散策
+cluster15:(11)
+仏, 展覧会, パイ, 食器etc, 仏像, 鞄, パンケーキ屋, 飲食店, 布, 家具, 着物
+cluster16:(8)
+東京都, 港区, 青山, 高樹町, 原三渓, 南青山5丁目, 仏さま., 青山通り
+
+howmany entities : 71
+howmany clusters : 17
+howmany entities (more than1entities) : 71
+howmany clusters (more than1entities) : 17
+deleted 0entities.

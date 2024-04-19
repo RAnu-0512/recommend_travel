@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:舘山寺ビューホテル開華亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+舘山寺ビューホテル開華亭, 開華亭
+cluster1:(12)
+料理, ロケーション, 老舗ホテル, 浜名湖, た.c, 入浴, 利用, 食事, 全客室, 日帰り, 絶好, ホテル
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

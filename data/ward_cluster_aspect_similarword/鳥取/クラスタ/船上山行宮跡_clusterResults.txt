@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船上山行宮跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史, 政治
+cluster1:(3)
+後醍醐, 船上山, 場所
+cluster2:(1)
+天皇
+cluster3:(1)
+鳥取
+cluster4:(1)
+船上山行宮跡
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

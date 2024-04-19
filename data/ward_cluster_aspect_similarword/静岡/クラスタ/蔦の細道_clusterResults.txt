@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蔦の細道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+静岡, 蔦, つた, 生憎富士山, 雲
+cluster1:(3)
+山辺, 平安, 明治
+cluster2:(15)
+ガイド, ハイキング, 主人公, 在原業平, 夢, 伊勢物語, 方, 人, 宇津ノ谷峠, 感じ, 風景, トンネル, 時代, 方々, 宇津ノ谷
+cluster3:(8)
+車, 途中, 駅, 左側, 到着, 予想, 頂上, 道
+cluster4:(1)
+歌碑
+cluster5:(10)
+峠道, 岡部町, 峠, 登山支度, 沢川, 細道公園, 案内板, 丸子宿, 昔業平, 細道
+cluster6:(1)
+駿河なる 宇津
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 5
+deleted 2entities.

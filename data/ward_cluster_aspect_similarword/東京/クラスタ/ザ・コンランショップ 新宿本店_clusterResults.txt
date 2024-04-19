@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ザ・コンランショップ 新宿本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+新宿駅, ザ・コンランショップ 新宿本店, 新宿パークタワー
+cluster1:(2)
+値段, 商品
+cluster2:(7)
+他, 気持ち, インテリア関係, 様子, センス, 中, もの
+cluster3:(13)
+イギリス, ショールーム, パークハイアット, ソファ, カフェ, 東京, コンランショップ, OZONE, ショッピングエリア, ショップ, バス, インテリアショップ, インテリア
+cluster4:(3)
+穴場, 距離, 徒歩
+cluster5:(10)
+高級感, 店, 小物, キッチン雑貨, 生活雑貨, 雑貨, キッチン用品, ショップ店, 家具, 専門店
+
+howmany entities : 38
+howmany clusters : 6
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 6
+deleted 0entities.

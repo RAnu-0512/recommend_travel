@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王電鉄高幡不動駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+特急電車, 駅, 乗り換え駅, 駅構内, 駅ビル
+cluster1:(14)
+高幡不動, 人出, 日野七福神めぐり, 人, 摂り, 東京, 御朱印, 動物園線, 多摩線, 多摩モノレール, モノレール, 京王, 昼食, 昼
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

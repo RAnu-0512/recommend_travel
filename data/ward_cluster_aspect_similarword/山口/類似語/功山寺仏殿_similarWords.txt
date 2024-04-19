@@ -1,0 +1,17 @@
+--------------------similar_words:功山寺仏殿--------------------
+top3 entities near to cluster0>>
+山寺, 功, 竺原
+top3 entities near to cluster1>>
+建築, 建物, 土木
+top3 entities near to cluster2>>
+建物, 外観, 風景
+top3 entities near to cluster3>>
+般若, 殿, 心境
+top3 entities near to cluster4>>
+禅宗, 山門, 本堂
+top3 entities near to cluster5>>
+拝観, 参拝, 参詣
+top3 entities near to cluster6>>
+府地, 府, 時代
+top3 entities near to cluster7>>
+垂木, 扇, 地紙

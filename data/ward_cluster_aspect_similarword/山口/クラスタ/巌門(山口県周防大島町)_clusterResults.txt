@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巌門(山口県周防大島町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 案内板
+cluster1:(3)
+景色, 風情, 場所
+cluster2:(5)
+巌門, 自然, 岩, 門, 海
+cluster3:(1)
+空洞
+cluster4:(1)
+竜崎温泉
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

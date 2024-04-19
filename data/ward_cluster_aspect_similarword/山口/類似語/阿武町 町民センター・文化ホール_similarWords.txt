@@ -1,0 +1,11 @@
+--------------------similar_words:阿武町 町民センター・文化ホール--------------------
+top3 entities near to cluster0>>
+ホール, 文化, 会館
+top3 entities near to cluster1>>
+音響, 尽鈴, 照明
+top3 entities near to cluster2>>
+町民, 市民, 町長
+top3 entities near to cluster3>>
+イス, 固定, 椅子
+top3 entities near to cluster4>>
+町, 莉砂, 奎也

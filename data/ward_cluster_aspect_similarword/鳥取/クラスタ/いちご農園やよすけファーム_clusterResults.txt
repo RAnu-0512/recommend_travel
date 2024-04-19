@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちご農園やよすけファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大きさ, 美味しさ
+cluster1:(12)
+ハウス, クビレ, イチゴ, 家族, ハサミ, 苺, ファーム, 香り, ハズレ, 農家, 子供, いちご
+cluster2:(2)
+時間, 場所
+cluster3:(3)
+感じ, 他, 方
+cluster4:(2)
+説明, 対応
+cluster5:(1)
+ミス
+cluster6:(1)
+いちご狩り
+cluster7:(1)
+т т
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 8
+deleted 0entities.

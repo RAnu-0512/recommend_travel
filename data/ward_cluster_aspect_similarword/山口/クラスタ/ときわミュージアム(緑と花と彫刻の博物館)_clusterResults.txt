@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ときわミュージアム(緑と花と彫刻の博物館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+植物園, 熱帯植物園, 熱帯植物
+cluster1:(18)
+子供, 施設, 多く, イベント, 場所, バオバブ, ときわミュージアム, 管理, ミュージアム, おすすめ, 外, サボテン, 木, 方, 世界, 料金, 人, 館内
+cluster2:(4)
+ときわ公園, 芸術, 野外, 彫刻
+cluster3:(5)
+サボテン類, 温室, 花, 南国, 植物
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 4
+deleted 0entities.

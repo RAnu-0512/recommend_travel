@@ -1,0 +1,93 @@
+--------------------similar_words:江戸東京博物館--------------------
+top3 entities near to cluster0>>
+両国, 駅, 国技
+top3 entities near to cluster1>>
+時代
+top3 entities near to cluster3>>
+大正, 明治, 幕末
+top3 entities near to cluster4>>
+二次, 大戦, 二
+top3 entities near to cluster5>>
+トイレ, フロア, 水飲み
+top3 entities near to cluster7>>
+子ども, 小学生, 子供
+top3 entities near to cluster8>>
+ジオラマ, ミニチュア, オブジェ
+top3 entities near to cluster9>>
+エレベーター, レストラン, イベント
+top3 entities near to cluster10>>
+歌舞伎座, チケット, 帝劇
+top3 entities near to cluster11>>
+文明開化, 明治維新, 富国強兵
+top3 entities near to cluster13>>
+博物館, 乗り物, 大都市
+top3 entities near to cluster14>>
+雰囲気, 面白い, 見所
+top3 entities near to cluster15>>
+ドリア, 休日, とろ
+top3 entities near to cluster16>>
+肩部, 肩
+top3 entities near to cluster17>>
+交通, 電車, 鉄道
+top3 entities near to cluster18>>
+町橋, 駅橋, 駅, 町
+top3 entities near to cluster19>>
+ビル, 建物, 社屋
+top3 entities near to cluster20>>
+街並み, 町並み, 風景
+top3 entities near to cluster21>>
+立地, 至便, ローケーション
+top3 entities near to cluster22>>
+感覚, 雰囲気, 空間
+top3 entities near to cluster25>>
+頃, 昔, ころ
+top3 entities near to cluster26>>
+振り, 以来
+top3 entities near to cluster27>>
+伝統, 現代, 近代
+top3 entities near to cluster28>>
+子供, 家族, 庶民
+top3 entities near to cluster29>>
+大名, 屋敷, 小屋
+top3 entities near to cluster30>>
+模型, 人形, ジオラマ
+top3 entities near to cluster31>>
+土産, おみやげ, 土産物
+top3 entities near to cluster32>>
+休憩, 食事, 飲食
+top3 entities near to cluster33>>
+体験型, 体験, 体感型, 体感
+top3 entities near to cluster34>>
+入館, 開館, 休館
+top3 entities near to cluster35>>
+見学, 案内, 体験
+top3 entities near to cluster36>>
+再現, 復元, シミュレート
+top3 entities near to cluster37>>
+復元, 保存, 再現
+top3 entities near to cluster38>>
+実物, 現物, 大
+top3 entities near to cluster39>>
+写真, 撮影, 撮っ
+top3 entities near to cluster40>>
+時間, 所要
+top3 entities near to cluster42>>
+興味, 余裕, 機会
+top3 entities near to cluster43>>
+期待, 想像, 予想
+top3 entities near to cluster45>>
+内容, 話, エピソード
+top3 entities near to cluster47>>
+一端, 一翼, 役割
+top3 entities near to cluster48>>
+見, 有っ, 見れる
+top3 entities near to cluster49>>
+得感, 得, 得る
+top3 entities near to cluster50>>
+展示, 展覧
+top3 entities near to cluster51>>
+展示, 出展, 展覧
+top3 entities near to cluster52>>
+常設展, 常設, 展示
+top3 entities near to cluster53>>
+時代, 文化, 幕末

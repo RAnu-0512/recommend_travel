@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石炭記念館(山口県宇部市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+石炭記念館, 記念館展示, 記念館
+cluster1:(10)
+宇部炭鉱, 石炭産業, 石炭, 宇部市, 炭坑, 産出国, 昔石炭, 模擬坑道, 坑道, 立坑櫓
+cluster2:(3)
+展望階, 展望塔, 展望台
+cluster3:(22)
+子供, もの, 施設, ときわ公園, 昔, 反対側, 空気, 公園, 由布岳, 工具, そのもの, ソ連, 勉強, 息遣い, 道路, 人々, 佐田岬, エレベーター, 資源, ひとつ, 歴史, システム
+cluster4:(6)
+展示, 資料, 展示室, 資料館, 史料, 解説映像
+cluster5:(2)
+入場無料, 駐車場
+cluster6:(1)
+無知さ加減
+
+howmany entities : 47
+howmany clusters : 7
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 7
+deleted 0entities.

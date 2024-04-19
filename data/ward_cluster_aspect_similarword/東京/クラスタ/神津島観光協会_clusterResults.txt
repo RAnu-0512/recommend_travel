@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神津島観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+センター, 姉さん
+cluster1:(1)
+しおり
+cluster2:(1)
+神津島
+cluster3:(1)
+意味
+cluster4:(1)
+土産
+cluster5:(1)
+海藻
+cluster6:(1)
+神津島港
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

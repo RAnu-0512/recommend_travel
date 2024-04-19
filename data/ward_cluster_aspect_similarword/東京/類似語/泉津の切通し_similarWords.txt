@@ -1,0 +1,9 @@
+--------------------similar_words:泉津の切通し--------------------
+top3 entities near to cluster0>>
+奥, 階段, 周り
+top3 entities near to cluster1>>
+風景, 光景, 道筋
+top3 entities near to cluster3>>
+のけ, 姫, ひめ
+top3 entities near to cluster4>>
+一周, 道路, 周遊

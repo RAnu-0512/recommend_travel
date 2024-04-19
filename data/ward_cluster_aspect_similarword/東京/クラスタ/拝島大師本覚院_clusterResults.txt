@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:拝島大師本覚院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+神社, 仏, 寺院, 参拝, 日吉神社, 初詣, 正月, 写経, 御朱印巡り, 厄, 納経
+cluster1:(20)
+横柄, 応対, 駐車場, 人, 他, 御朱印, 言い方, 気持ち, 思い, 態度, 電話対応, 受け付け, 出店, 方, 対応, 者, 物, 受付, 電話, 女性
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 2
+deleted 0entities.

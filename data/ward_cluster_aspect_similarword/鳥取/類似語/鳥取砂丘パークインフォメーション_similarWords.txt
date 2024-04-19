@@ -1,0 +1,15 @@
+--------------------similar_words:鳥取砂丘パークインフォメーション--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+名所, 周遊, 名所旧跡
+top3 entities near to cluster3>>
+案内, 総合, 施設
+top3 entities near to cluster4>>
+情報, 料金, 資料
+top3 entities near to cluster8>>
+タオル, 洗い場, 入り口
+top3 entities near to cluster9>>
+周辺, 裏手
+top3 entities near to cluster10>>
+足, 靴, 展示

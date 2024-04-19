@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いづみ荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+伊豆一周旅行, 下田, 伊豆, マックスバリュ伊豆, マックスバリュー伊豆
+cluster1:(3)
+寝姿山, 客室風呂, 部屋風呂
+cluster2:(2)
+いずみ荘, いづみ荘
+cluster3:(14)
+目, 周り, マックスバリュー, ポイント, 駅, 人, 営業, 時間, 他人, 都合, 素泊まり, 場所, 前, 方々
+cluster4:(6)
+温泉, 宿, 旅行, 景色, リゾート施設, 浴場
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 4
+deleted 2entities.

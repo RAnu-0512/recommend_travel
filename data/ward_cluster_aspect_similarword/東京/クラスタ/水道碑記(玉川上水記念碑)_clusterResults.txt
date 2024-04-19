@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水道碑記(玉川上水記念碑)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水資源, 測量技術
+cluster1:(3)
+東京都, 江戸時代, 江戸市
+cluster2:(8)
+ココ, 玉川上水, 上水, 石碑, 明治, 玉川, 高さ, 新宿
+cluster3:(1)
+標高差
+cluster4:(1)
+四谷水番屋
+cluster5:(1)
+玉川上水の開削記念碑
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ちょこたび 日暮里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+生地選び, 生地
+cluster1:(2)
+質感, 色
+cluster2:(9)
+レザークラフト, 点, ミシン, 繋がり, 今回, 中, 歴史, こと, バッグ
+cluster3:(4)
+バッグ作り, 動作, 体験, 購入
+cluster4:(2)
+裁縫, 墓
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

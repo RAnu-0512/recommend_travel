@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東萩駅観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+車窓, 沿線
+cluster1:(3)
+山陰本線, バス停, パンフレット
+cluster2:(2)
+宍道湖, 日本海
+cluster3:(4)
+市, 車, バス, 宿
+cluster4:(1)
+荷物
+cluster5:(1)
+夜道
+cluster6:(1)
+運転手
+cluster7:(5)
+駅構内, 駅, 玄関口, 構内, 安来駅
+cluster8:(2)
+世界遺産, 産業遺産群
+cluster9:(3)
+山口県, 萩市, 東萩駅
+cluster10:(5)
+萩観光, 手ぶら萩観光, 観光案内所, 観光地, 観光
+
+howmany entities : 29
+howmany clusters : 11
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 11
+deleted 0entities.

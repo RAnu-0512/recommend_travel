@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:烏森稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+当地, 稲荷
+cluster1:(1)
+元禄
+cluster2:(1)
+新堀新左衛門
+cluster3:(1)
+下馬引沢村
+cluster4:(1)
+寿福寺
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

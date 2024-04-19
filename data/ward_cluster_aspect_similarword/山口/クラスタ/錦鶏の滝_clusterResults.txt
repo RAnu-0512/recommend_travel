@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:錦鶏の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+錦鶏, 錦鶏湖
+cluster1:(3)
+それぞれ, 落差, 迫力
+cluster2:(3)
+滝付近, 上流, 滝
+cluster3:(1)
+雄滝・雌滝
+cluster4:(1)
+坂川ダム
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

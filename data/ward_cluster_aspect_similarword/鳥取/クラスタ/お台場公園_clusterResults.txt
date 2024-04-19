@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お台場公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+季節がら芝生, 運動場, 芝生, 多目的広場, 砲台跡, 芝生公園, 駐車場, キャンプ場
+cluster1:(3)
+鳥取藩, 鳥取, 鳥取 スイカ
+cluster2:(3)
+子供達, 大人, 子供
+cluster3:(2)
+休憩, 木陰
+cluster4:(3)
+公園, 遊具, 広場
+cluster5:(26)
+トイレ, 観光, 海, テニスコート, 価値, 拠点, 土産, 子ども, 買い物, 緑, 横, 会場, コナンファン, 道, 敷地, 他, 運動公園, 人, 人気, 施設, コナン, 国道, マラソン大会, 食事, スポーツコート, 場所
+cluster6:(9)
+台場, 駅, 青山剛昌ふるさと館, 駅駅, 由良台場, 台場公園, 道の駅大栄, お台場いちば, 駅大栄
+
+howmany entities : 54
+howmany clusters : 7
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 7
+deleted 0entities.

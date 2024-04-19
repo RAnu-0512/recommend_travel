@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:茶ノ木神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水天宮前駅, 水天宮
+cluster1:(27)
+茶ノ木, 周囲, 説明板, 場所, 食事, 右手, 裏, 新大橋, ひとつ, 北西方向, 茶, ところ, 感じ, 近く, 木, 堀田, 日本橋七福神, 周り, こじんまり, ビル, 存在感, 守護神, 神, 七福神, 雰囲気, 布袋尊, 社
+cluster2:(9)
+神社らしさ, 詣り, 神社, 小網神社, 拝殿, 末廣神社, 茶ノ木神社, 由緒, 境内
+cluster3:(2)
+布袋神, 日本橋七福神のひとつ布袋様
+cluster4:(3)
+人形町駅, 日本橋人形町, 中央区
+
+howmany entities : 43
+howmany clusters : 5
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 5
+deleted 0entities.

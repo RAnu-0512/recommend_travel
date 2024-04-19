@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ボルダリングジム空の向こうへ四足歩行>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+柔軟性, ボルダリング
+cluster1:(1)
+バランス
+cluster2:(1)
+レベル
+cluster3:(1)
+ガンバ
+cluster4:(1)
+こと
+cluster5:(1)
+色
+cluster6:(1)
+戦略
+cluster7:(1)
+ジム
+cluster8:(1)
+体験パック
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

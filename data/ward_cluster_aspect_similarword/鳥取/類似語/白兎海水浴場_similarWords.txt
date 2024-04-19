@@ -1,0 +1,25 @@
+--------------------similar_words:白兎海水浴場--------------------
+top3 entities near to cluster1>>
+海, 砂浜, 海岸
+top3 entities near to cluster2>>
+駅道, 駅車, 駅
+top3 entities near to cluster3>>
+景色, 舞台, 風景
+top3 entities near to cluster4>>
+幅, 奥行き, 巾
+top3 entities near to cluster5>>
+国道, 県道, 旧道
+top3 entities near to cluster6>>
+神話, 説話, 民話
+top3 entities near to cluster7>>
+予告, 中止, 延期
+top3 entities near to cluster8>>
+海水浴, サーフ
+top3 entities near to cluster9>>
+人気, たくさん
+top3 entities near to cluster11>>
+絶好, もってこい, 好機
+top3 entities near to cluster12>>
+美しい, 素晴らしい, 力強い
+top3 entities near to cluster13>>
+防止, 感染, 拡大

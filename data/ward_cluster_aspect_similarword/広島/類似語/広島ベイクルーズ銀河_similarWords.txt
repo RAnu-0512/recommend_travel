@@ -1,0 +1,39 @@
+--------------------similar_words:広島ベイクルーズ銀河--------------------
+top3 entities near to cluster1>>
+船内, 乗船
+top3 entities near to cluster2>>
+ピアノ, バイオリン, フルート
+top3 entities near to cluster3>>
+雰囲気, 気持ち, 普段着
+top3 entities near to cluster4>>
+ランチ, ディナー, デザート
+top3 entities near to cluster5>>
+テーブル, アパルトマン, エレベーター
+top3 entities near to cluster6>>
+プレゼント, スタッフ, ポイント
+top3 entities near to cluster7>>
+カップル, ひととき, ひと時
+top3 entities near to cluster9>>
+月明かり, 星明り, 明り
+top3 entities near to cluster10>>
+メイン, メーン, サブ
+top3 entities near to cluster11>>
+クルー, 乗組, 乗員
+top3 entities near to cluster12>>
+デッキ, ワンキルデッキ, クリーチャーデッキ
+top3 entities near to cluster14>>
+クルーズ, ナイト, ライト
+top3 entities near to cluster16>>
+記念, 誕生, 日
+top3 entities near to cluster17>>
+料理, 食材, 和食
+top3 entities near to cluster18>>
+眺望, 景色, 景観
+top3 entities near to cluster19>>
+夜景, 夕日, 夕陽
+top3 entities near to cluster20>>
+風景, 景色, 名所
+top3 entities near to cluster21>>
+海岸線, 海岸, 砂浜
+top3 entities near to cluster22>>
+迎車, タクシー, 配車

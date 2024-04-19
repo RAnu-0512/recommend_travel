@@ -1,0 +1,65 @@
+--------------------similar_words:駿府城址--------------------
+top3 entities near to cluster0>>
+天守, 城跡, 発掘
+top3 entities near to cluster1>>
+城, 城跡, 城址
+top3 entities near to cluster3>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster4>>
+時間, 年月
+top3 entities near to cluster5>>
+情報量, 情報, 基礎
+top3 entities near to cluster8>>
+状況, 状態, 時期
+top3 entities near to cluster9>>
+迫力, 姿, 楽しい
+top3 entities near to cluster11>>
+銅像, 石像
+top3 entities near to cluster12>>
+散歩, 散策, 景色
+top3 entities near to cluster13>>
+暖房, 防寒, 靴下
+top3 entities near to cluster14>>
+公営, 公共, バス
+top3 entities near to cluster16>>
+敷地, 跡地, 建物
+top3 entities near to cluster17>>
+駅, 距離, 徒歩
+top3 entities near to cluster18>>
+研究, 歴史, 視察
+top3 entities near to cluster19>>
+みかん, ミカン, カラス
+top3 entities near to cluster20>>
+イベント, 催し物, アトラクション
+top3 entities near to cluster21>>
+雰囲気, 見ごたえ, 見応え
+top3 entities near to cluster22>>
+子供, 子ども, 家族
+top3 entities near to cluster23>>
+桜, 満開, 花見
+top3 entities near to cluster24>>
+豊臣, 家康, 今川
+top3 entities near to cluster25>>
+城内, 御所, 武家
+top3 entities near to cluster28>>
+家康, 秀忠, 秀吉
+top3 entities near to cluster29>>
+家康, 秀吉, 秀忠
+top3 entities near to cluster30>>
+櫓, 天守, 本丸
+top3 entities near to cluster34>>
+発掘, 遺跡, 調査
+top3 entities near to cluster36>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster38>>
+展示品, 展示, 収蔵品, 収蔵
+top3 entities near to cluster39>>
+館, 資料, 記念
+top3 entities near to cluster40>>
+見学, 視察, 施設
+top3 entities near to cluster41>>
+施設, 有料, 設備
+top3 entities near to cluster42>>
+入場券, 入館券, 入場, 入館
+top3 entities near to cluster45>>
+公園, 城址, 城跡

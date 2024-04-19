@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:町田市民文学館ことばらんど>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+坂井泉水, 遠藤周作, 町田駅, 町田市
+cluster1:(2)
+展覧会, 歌詞展示会
+cluster2:(3)
+ススメ展, 展示室, 展示
+cluster3:(1)
+文学館
+cluster4:(34)
+将棋, 駒, スタッフ, 場所, 別, もの, イベント, 建物, 難点, ケーキ, アルバイト, テーマ, JR, 気, ZARD, 戦後, 喫茶店, 館内, 施設, 入り口, モチーフ, モノ, 作家, 将棋めし, じゃらん観光ガイド, 方, こと, 知人作, 周辺, 読む将, 歩, 出版本, 乗り換え, 棋譜
+
+howmany entities : 44
+howmany clusters : 5
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 5
+deleted 0entities.

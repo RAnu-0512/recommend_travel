@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善導寺大クス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+磐田駅, 磐田市
+cluster1:(3)
+キャラ, シンボル, ベンチ
+cluster2:(2)
+街, 駅
+cluster3:(3)
+大木, 楠, 巨樹
+cluster4:(1)
+しっぺい太郎
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 5entities.

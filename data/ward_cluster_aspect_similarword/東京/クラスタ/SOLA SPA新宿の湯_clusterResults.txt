@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SOLA SPA新宿の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+入浴施設, 館内着, 銭湯, 浴槽, バスタオル, 男湯, 女湯, 浴室, 清潔さ, 泡風呂, ジェット風呂
+cluster1:(27)
+水風呂, スタッフ, 場所, カウンター, ドライヤー, 人, 努力, ところ, コスパ, 設備, 喧騒, 常連, 数, フェイスタオル, ロッカールーム, 地下, 方, サウナ, 居心地, 動線, 男性, 標準, 漫画, ダイソン, 新宿, 階段, 女性
+
+howmany entities : 38
+howmany clusters : 2
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 2
+deleted 0entities.

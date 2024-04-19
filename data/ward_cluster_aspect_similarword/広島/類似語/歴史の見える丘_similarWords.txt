@@ -1,0 +1,9 @@
+--------------------similar_words:歴史の見える丘--------------------
+top3 entities near to cluster0>>
+風景, 光景, 町並み
+top3 entities near to cluster1>>
+句碑, 偲ぶ
+top3 entities near to cluster2>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster3>>
+造船, 海軍, 艦船

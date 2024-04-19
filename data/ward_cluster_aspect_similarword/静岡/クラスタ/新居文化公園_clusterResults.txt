@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新居文化公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+新居駅, 新居文化公園, 新居高校
+cluster1:(8)
+芝生, 花壇, 花, 広場, 公園, 弁当, 遊具, 散歩
+cluster2:(6)
+図書館, ベンチ, 人, 雰囲気, 子供, オススメ
+cluster3:(2)
+場所, 場
+cluster4:(4)
+共用, JR, 南, 正面
+cluster5:(4)
+近隣, 観光スポット, 市民, 憩い
+cluster6:(1)
+駐車場
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 3entities.

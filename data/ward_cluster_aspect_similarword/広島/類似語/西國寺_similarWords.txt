@@ -1,0 +1,25 @@
+--------------------similar_words:西國寺--------------------
+top3 entities near to cluster0>>
+霊場, 札所, 観音
+top3 entities near to cluster1>>
+重文, 仁王
+top3 entities near to cluster2>>
+駐車場, 駐車, 施設
+top3 entities near to cluster3>>
+寺, 寶勝, 戒長
+top3 entities near to cluster4>>
+石段, 階段, 急坂
+top3 entities near to cluster5>>
+本堂, 金堂, 山門
+top3 entities near to cluster6>>
+境内, 神社, 本殿
+top3 entities near to cluster10>>
+仁王門, 大山寺, 二王門
+top3 entities near to cluster11>>
+周辺, 歴史, 案内
+top3 entities near to cluster12>>
+桜, 八重桜, 櫻
+top3 entities near to cluster13>>
+災害, 水害, 地震
+top3 entities near to cluster14>>
+達成感, 不足, 達成

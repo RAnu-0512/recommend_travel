@@ -1,0 +1,11 @@
+--------------------similar_words:茶道具かきぬま--------------------
+top3 entities near to cluster0>>
+禅語, 禅, 中国語
+top3 entities near to cluster1>>
+茶, モエド, 呑峠
+top3 entities near to cluster2>>
+茶道, 茶の湯, 華道
+top3 entities near to cluster3>>
+茶器, 茶室, 茶の湯
+top3 entities near to cluster4>>
+文化, 体験, 交流

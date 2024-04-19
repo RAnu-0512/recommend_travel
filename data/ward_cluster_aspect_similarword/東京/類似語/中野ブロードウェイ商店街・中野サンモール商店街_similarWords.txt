@@ -1,0 +1,21 @@
+--------------------similar_words:中野ブロードウェイ商店街・中野サンモール商店街--------------------
+top3 entities near to cluster0>>
+肉屋, 店員
+top3 entities near to cluster1>>
+グッズ, ショップ, カフェ
+top3 entities near to cluster2>>
+焼売, 抹茶
+top3 entities near to cluster3>>
+魚屋, 茶屋, 軒
+top3 entities near to cluster4>>
+雑貨店, 商店, 雑貨
+top3 entities near to cluster6>>
+本, 漫画, 段
+top3 entities near to cluster7>>
+入口, 入り口, 奥
+top3 entities near to cluster9>>
+パン屋, 雑貨屋, 雑貨, パン
+top3 entities near to cluster10>>
+衣料品, 化粧品, 衣料, 化粧
+top3 entities near to cluster11>>
+商店街, 商店, 駅前

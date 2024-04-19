@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 びんご府中>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+府中焼き, 府中駅, 府中天満屋, 府中味噌, 地元府中焼き
+cluster1:(8)
+店, 建物, JR, 販売, 看板, 道, 駅, 地図
+cluster2:(2)
+野菜, 味噌
+cluster3:(2)
+土産, 名産
+cluster4:(1)
+木工製品
+cluster5:(1)
+四季折々
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

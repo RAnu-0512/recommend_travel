@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御嶽神社(東京都豊島区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+知恵, 利益
+cluster1:(8)
+石像, 神, 神社, フクロウ, 池袋, 袋, 西, 家族
+cluster2:(1)
+不苦労
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

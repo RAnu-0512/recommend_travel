@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小金井桜堤>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+ヤマサクラ, 玉川上水, 小金井市, 小金井公園, ヤマザクラ, 堤, 横
+cluster1:(2)
+東京都, 東京都立小金井公園
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

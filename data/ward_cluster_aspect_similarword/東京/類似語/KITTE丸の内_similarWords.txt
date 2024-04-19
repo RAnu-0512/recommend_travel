@@ -1,0 +1,53 @@
+--------------------similar_words:KITTE丸の内--------------------
+top3 entities near to cluster1>>
+時間, 期間, 限定
+top3 entities near to cluster2>>
+丸ビル, ツリー, ＫＩＴＴＥ
+top3 entities near to cluster3>>
+買い物, グッズ, ショッピング
+top3 entities near to cluster4>>
+金メダル, メダリスト, 銅メダル
+top3 entities near to cluster5>>
+ショップ, レストラン, ショッピング
+top3 entities near to cluster6>>
+シンボル, 東京タワー, タワー
+top3 entities near to cluster7>>
+こだわり, 拘り, こだわる
+top3 entities near to cluster8>>
+吹き抜け, アトリウム, コーナー
+top3 entities near to cluster9>>
+カフェ, 喫茶店, 喫茶
+top3 entities near to cluster10>>
+シャレ, 洒落, 冗談
+top3 entities near to cluster11>>
+アロマ, アロマオイル, アロマテラピー
+top3 entities near to cluster12>>
+ホーム, 地下道, シーズン
+top3 entities near to cluster13>>
+ベビー, シート, チャイルド
+top3 entities near to cluster15>>
+建物, 店舗
+top3 entities near to cluster16>>
+卓球, 五輪, オリンピック
+top3 entities near to cluster17>>
+電車, ＪＲ, 私鉄
+top3 entities near to cluster18>>
+地下, 各階, 屋上
+top3 entities near to cluster19>>
+複数, 巨大, 無数
+top3 entities near to cluster20>>
+郵便局, 郵便, 局員
+top3 entities near to cluster21>>
+施設, 商業, 複合
+top3 entities near to cluster22>>
+改札, 歩道, 横断
+top3 entities near to cluster23>>
+ビル, 高層, 建物
+top3 entities near to cluster24>>
+展望, 施設, 眺望
+top3 entities near to cluster25>>
+庭園, 中庭, 屋上
+top3 entities near to cluster26>>
+等身, 大, 超大
+top3 entities near to cluster27>>
+雑貨店, 土産物店, 雑貨, 土産物

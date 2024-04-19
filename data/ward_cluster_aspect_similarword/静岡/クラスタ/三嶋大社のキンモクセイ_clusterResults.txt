@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三嶋大社のキンモクセイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+三島大社, 天然記念物 三嶋大社, 大社
+cluster1:(2)
+樹齢, 推定樹齢
+cluster2:(4)
+存在感, 高さ, 大きさ, おみくじ
+cluster3:(23)
+キンモクセイ, 時期, モクセイ, こと, 天然記念物, 横, 写真, もの, 駅, 国, 金木犀, 人, 柵, 感じ, 中, 迫力, 近く, 距離, 自然, 右手, 力, 人達, 木
+cluster4:(2)
+満開, 見頃
+cluster5:(3)
+芳香, 香り, 匂い
+cluster6:(3)
+花, キンモクセイ花, 日本一の金木犀
+cluster7:(11)
+神門, 古社, 国指定天然記念物, 参拝, 石柱, 巨木, 境内, 本殿, 参拝者, 総門, 大木
+
+howmany entities : 51
+howmany clusters : 8
+howmany entities (more than3entities) : 47
+howmany clusters (more than3entities) : 6
+deleted 4entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:赤瓦十三号館白壁倶楽部(旧国立第三銀行倉吉支店)--------------------
+top3 entities near to cluster0>>
+国立, 支店, 第三銀行
+top3 entities near to cluster1>>
+銀行, 都市銀, 支店
+top3 entities near to cluster2>>
+保存, 保管, 活動
+top3 entities near to cluster3>>
+レストラン, ランチ, カフェ
+top3 entities near to cluster4>>
+雰囲気, 賑わい
+top3 entities near to cluster5>>
+時代, 歴史, 戦前
+top3 entities near to cluster7>>
+建物, 風情, 趣
+top3 entities near to cluster8>>
+定食, 餃子, 洋食
+top3 entities near to cluster9>>
+家族連れ, 家族
+top3 entities near to cluster10>>
+土蔵, 建物, 建築

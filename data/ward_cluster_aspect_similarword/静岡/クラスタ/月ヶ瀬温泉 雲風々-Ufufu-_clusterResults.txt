@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:月ヶ瀬温泉 雲風々-Ufufu->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+宿, 雰囲気, 店内, 味, t店員
+cluster1:(2)
+た.go, ます.s川o'-'
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 2entities.

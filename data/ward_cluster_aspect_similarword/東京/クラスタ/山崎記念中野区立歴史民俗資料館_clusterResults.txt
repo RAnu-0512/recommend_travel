@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山崎記念中野区立歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+常設展示, 常設展示品
+cluster1:(3)
+展示, 企画展示, 展示品
+cluster2:(1)
+館蔵展示
+cluster3:(8)
+写真, 歴史, 施設, 入館料, 音声案内, 映像, 撮影, 中野
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

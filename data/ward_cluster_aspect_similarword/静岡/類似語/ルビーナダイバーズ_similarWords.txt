@@ -1,0 +1,11 @@
+--------------------similar_words:ルビーナダイバーズ--------------------
+top3 entities near to cluster1>>
+思い出, プラン, 想い出
+top3 entities near to cluster2>>
+ダイビング, ダイバー, スキューバダイビング
+top3 entities near to cluster8>>
+友達, 中学
+top3 entities near to cluster9>>
+海魚, 浅瀬, 海
+top3 entities near to cluster11>>
+呼吸, 練習, 息継ぎ

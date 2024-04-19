@@ -1,0 +1,93 @@
+--------------------similar_words:海上自衛隊呉史料館(てつのくじら館)--------------------
+top3 entities near to cluster0>>
+カレー, カレーライス, レトルト
+top3 entities near to cluster1>>
+グッズ, ショップ, イベント
+top3 entities near to cluster2>>
+ベット, ベッド, タウン
+top3 entities near to cluster3>>
+潜水艦, ヤマト, くじら
+top3 entities near to cluster4>>
+潜望鏡, ローションプレイ, マットテク
+top3 entities near to cluster5>>
+ドック, ホット, ドッグ
+top3 entities near to cluster6>>
+海, 海中, 子供
+top3 entities near to cluster8>>
+本命, 目玉, 念願
+top3 entities near to cluster9>>
+現役, 本物, ＯＢ
+top3 entities near to cluster10>>
+限定, 大手
+top3 entities near to cluster11>>
+あき, 飽男, あきと
+top3 entities near to cluster13>>
+価値, 意義, 有用
+top3 entities near to cluster15>>
+方法, 目的, 手段
+top3 entities near to cluster16>>
+時間, 日数, 時
+top3 entities near to cluster17>>
+空間, 作業, スペース
+top3 entities near to cluster18>>
+感激, 感動, 驚き
+top3 entities near to cluster19>>
+理解, 勉強, 体験
+top3 entities near to cluster20>>
+機会, チャンス, 好機
+top3 entities near to cluster21>>
+活動, 内容, 著述
+top3 entities near to cluster22>>
+業務, 仕事, 事務
+top3 entities near to cluster23>>
+内容, 仕事, 業務
+top3 entities near to cluster24>>
+任務, 遂行, 護衛
+top3 entities near to cluster25>>
+発令, 処理, 対応
+top3 entities near to cluster26>>
+時間, 時間帯
+top3 entities near to cluster28>>
+資料, 映像, 写真
+top3 entities near to cluster29>>
+細部, 内部, 外観
+top3 entities near to cluster30>>
+施設, 通路, 駅
+top3 entities near to cluster31>>
+案内, 土産, おみやげ
+top3 entities near to cluster32>>
+生活, 日常, 空間
+top3 entities near to cluster33>>
+見学, 視察, 案内
+top3 entities near to cluster34>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster35>>
+入館料, 入場料, 入館, 入場
+top3 entities near to cluster36>>
+入館, 入場, 無料
+top3 entities near to cluster37>>
+資料, 館, 史料
+top3 entities near to cluster38>>
+展示, 展覧, 出展
+top3 entities near to cluster39>>
+展示, 出展, 展覧
+top3 entities near to cluster40>>
+展示室, 展示, 室長
+top3 entities near to cluster41>>
+施設, 広報, 設備
+top3 entities near to cluster42>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster43>>
+実物, 展示, 現物
+top3 entities near to cluster44>>
+潜水艦, 潜水, 乗組
+top3 entities near to cluster45>>
+潜水艦, 潜水, 潜水艦
+top3 entities near to cluster46>>
+潜水艦, 潜水, 潜水艦
+top3 entities near to cluster47>>
+自衛官, 自衛, 自衛隊
+top3 entities near to cluster48>>
+掃海, 機雷, 艦艇
+top3 entities near to cluster49>>
+潜水, 海軍, 艦艇

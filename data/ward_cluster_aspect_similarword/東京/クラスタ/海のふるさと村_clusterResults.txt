@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海のふるさと村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+レンタル, 人家, 背景, 太平洋, 周辺, 自然, ふるさと村, 一帯, 地域
+cluster1:(2)
+照葉樹林, 大島
+cluster2:(3)
+包丁まな板, 巨大キャンプ場, 常設テント
+cluster3:(1)
+温水シャワー室
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

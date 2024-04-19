@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芦田湖(八田原ダム)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+ダム, 特定多目的ダム, 八田原ダム, 多目的ダム, 多目的重力式コンクリートダム, ダム下, ダム湖
+cluster1:(3)
+福山市, 府中市, 世羅町
+cluster2:(2)
+JR河佐駅, 河佐峡
+cluster3:(6)
+八田原駅, 県道, 河川, 放流ゲート, 道, 川沿い
+cluster4:(5)
+自動車, 人, エレベーター, ドライブ, ゲート
+cluster5:(2)
+芦田川, 人造湖
+cluster6:(2)
+世界, 一般
+cluster7:(1)
+西
+cluster8:(1)
+桜
+cluster9:(9)
+下, 周囲, 近辺, 周辺, ほう, 場合, 経由, 目的, 場所
+cluster10:(1)
+大きさ
+cluster11:(5)
+滝壺, 駐車場周辺, 夢吊橋, 芦田湖, コロナ渦
+
+howmany entities : 44
+howmany clusters : 12
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 12
+deleted 0entities.

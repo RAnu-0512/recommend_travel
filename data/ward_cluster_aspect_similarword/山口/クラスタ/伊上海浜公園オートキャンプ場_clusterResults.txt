@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊上海浜公園オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンプ場, 海水浴場
+cluster1:(2)
+景色, 場所
+cluster2:(5)
+インストラクター, シーカヤック, 油谷湾, アウトドア, キャンプ
+cluster3:(2)
+海, 山
+cluster4:(1)
+指導
+cluster5:(1)
+徒歩
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

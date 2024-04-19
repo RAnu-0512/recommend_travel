@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京税関「情報ひろば」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+横浜税関, 東京税関, 税関, 東京税関情報ひろば
+cluster1:(2)
+身分証, 入館書
+cluster2:(2)
+見学, 見学予約
+cluster3:(4)
+許可, 影響, 記入, 情報ひろば
+cluster4:(7)
+コロナ, カメラ, 東京, 合同庁舎内, 付近, 周り, 扉
+cluster5:(2)
+カメラ撮影, 記念スタンプ
+cluster6:(1)
+自由見学90分程度シアター
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 7
+deleted 0entities.

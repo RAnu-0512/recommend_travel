@@ -1,0 +1,27 @@
+--------------------similar_words:植田正治写真美術館--------------------
+top3 entities near to cluster1>>
+建物, 絵画, 美術
+top3 entities near to cluster2>>
+カメラ, デザイン, ロケーション
+top3 entities near to cluster3>>
+興味, 価値, 関心
+top3 entities near to cluster4>>
+時間, 日数, 時
+top3 entities near to cluster7>>
+作家, 家族, 作品
+top3 entities near to cluster8>>
+麓, 青空, 雲
+top3 entities near to cluster9>>
+展示, 展覧, 出展
+top3 entities near to cluster10>>
+風景, 景色, 情景
+top3 entities near to cluster11>>
+写真, 映像, 撮影
+top3 entities near to cluster12>>
+写真, 画像, 撮っ
+top3 entities near to cluster13>>
+作品集, 短編集, 作品, 短編
+top3 entities near to cluster14>>
+撮り, 撮っ, 撮る
+top3 entities near to cluster15>>
+針穴, 針

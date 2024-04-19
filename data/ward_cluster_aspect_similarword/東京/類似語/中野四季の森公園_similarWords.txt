@@ -1,0 +1,23 @@
+--------------------similar_words:中野四季の森公園--------------------
+top3 entities near to cluster0>>
+公園, 芝生, 広場
+top3 entities near to cluster1>>
+テント場, 簡易, テント
+top3 entities near to cluster2>>
+ボール, プール, スイミング
+top3 entities near to cluster3>>
+雰囲気, 真ん中, カンジ
+top3 entities near to cluster4>>
+カフェ, トイレ, マック
+top3 entities near to cluster5>>
+子連れ, トレイルランクライミング, ベビーカー
+top3 entities near to cluster6>>
+人達, 大勢
+top3 entities near to cluster8>>
+椅子, ソファー, ソファ
+top3 entities near to cluster9>>
+都市, 大都市, 市街地
+top3 entities near to cluster10>>
+昼寝, 弁当, パパ
+top3 entities near to cluster11>>
+飲食店, 駅前店, 飲食, 駅前

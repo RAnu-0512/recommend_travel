@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三良坂平和美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+三良坂町, 平和, 三良坂平和美術館, 奥田美術館
+cluster1:(4)
+作品, 出身, 洋画家, 美術館
+cluster2:(1)
+三次市
+cluster3:(1)
+柿手春三
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

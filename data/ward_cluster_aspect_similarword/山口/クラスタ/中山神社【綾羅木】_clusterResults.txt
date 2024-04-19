@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中山神社【綾羅木】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+豊北町, 中山神社, 中山忠光
+cluster1:(4)
+境内, 本殿, 祭神, 神社
+cluster2:(2)
+明治, 天皇
+cluster3:(4)
+地, 餌, 叔父, 公園
+cluster4:(1)
+公卿
+cluster5:(1)
+急進派
+cluster6:(1)
+元治元年
+cluster7:(1)
+長州藩の俗論党
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

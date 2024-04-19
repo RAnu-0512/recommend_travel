@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北谷稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こと, 場所
+cluster1:(2)
+途中, 近く
+cluster2:(1)
+代々木公園駅
+cluster3:(1)
+丘
+cluster4:(1)
+渋谷
+cluster5:(3)
+神社, 本殿, 稲荷神社
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

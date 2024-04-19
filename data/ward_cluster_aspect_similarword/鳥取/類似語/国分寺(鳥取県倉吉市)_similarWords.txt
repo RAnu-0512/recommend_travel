@@ -1,0 +1,9 @@
+--------------------similar_words:国分寺(鳥取県倉吉市)--------------------
+top3 entities near to cluster0>>
+お寺, 寺, 寺院
+top3 entities near to cluster1>>
+町, 時間, 丁目
+top3 entities near to cluster2>>
+地名, 名所, 町名
+top3 entities near to cluster3>>
+中心部, 中心, 主軸

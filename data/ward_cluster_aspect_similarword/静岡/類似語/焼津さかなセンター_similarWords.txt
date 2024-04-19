@@ -1,0 +1,39 @@
+--------------------similar_words:焼津さかなセンター--------------------
+top3 entities near to cluster0>>
+ランチ, 買い物, 家族づれ
+top3 entities near to cluster1>>
+なまり節, 剥身, 魚介類
+top3 entities near to cluster4>>
+レストラン, サービス, 飲食
+top3 entities near to cluster9>>
+食べ物, ゲーム, アイス
+top3 entities near to cluster12>>
+ススメ, オススメ, 薦め
+top3 entities near to cluster14>>
+海鮮, しらす, 鯛
+top3 entities near to cluster17>>
+夕食, 昼食, 食事
+top3 entities near to cluster22>>
+駅車, 駅, 入口
+top3 entities near to cluster23>>
+施設, 敷地, 建物
+top3 entities near to cluster26>>
+値段, 品物, 価格
+top3 entities near to cluster27>>
+接客, 店員, 口調
+top3 entities near to cluster28>>
+休業, 閉店, 混雑
+top3 entities near to cluster31>>
+丼, 海鮮, どんぶり
+top3 entities near to cluster33>>
+海鮮, 魚介
+top3 entities near to cluster34>>
+バス, 周遊, タクシー
+top3 entities near to cluster35>>
+寿司屋, 寿司, 食べ
+top3 entities near to cluster36>>
+食品, 鮮魚, 冷凍
+top3 entities near to cluster38>>
+土産, おみやげ, 土産物
+top3 entities near to cluster39>>
+店舗, 各店

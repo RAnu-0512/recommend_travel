@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Violalily>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+皿, 菓子
+cluster1:(12)
+人, 名前, 体験, 笑顔, 先生, 資格, メニュー, オススメ, 記念, ハーバリウム, 作品, ケーキ
+cluster2:(1)
+子供達
+cluster3:(1)
+焼津
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 4entities.

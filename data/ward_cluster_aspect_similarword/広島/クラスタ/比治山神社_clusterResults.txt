@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:比治山神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宮司, 神社
+cluster1:(3)
+気持ち, スタンプ, 参り
+cluster2:(1)
+朱印
+cluster3:(1)
+令和
+cluster4:(1)
+駐車場
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

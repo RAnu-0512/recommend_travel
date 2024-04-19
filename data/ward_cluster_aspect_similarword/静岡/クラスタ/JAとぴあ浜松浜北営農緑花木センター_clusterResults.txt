@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JAとぴあ浜松浜北営農緑花木センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+庭園木, 庭園鑑賞, 木
+cluster1:(3)
+敷地, 区画, 併設
+cluster2:(14)
+カーナビ, 販売, 地元, 売り手, 店, 花, 折, 農産物, 買い物, 声, アドバイス, 植木, スポット, 場所
+cluster3:(1)
+育て方
+cluster4:(5)
+地元野菜, 野菜, 地場野菜, ファーマーズ浜北店, 農産物直売所
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 1entities.

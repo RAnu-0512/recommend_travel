@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋のみかん狩り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+土産, 土産品, 土産類
+cluster1:(3)
+宇佐美地区, 駅, 宇佐美駅
+cluster2:(3)
+宿泊プラン, 送迎, 観光
+cluster3:(28)
+事, 所, あと, 途中, ボリューム, ホテル, 値段, みかん, 甘み, アウト, みせ, 費用, 味覚, 人, 気持ち, 周囲, 時間, 宇佐美, 夏, ミカン, 子供, 場所, ネット, 鈴木園, アウトレット店, 他, 方, 季節
+cluster4:(1)
+平均相場
+cluster5:(5)
+食べ放題, ミカン狩り, みかん狩りスポット, 機関狩り, みかん狩り
+cluster6:(4)
+農園, 温州, みかん農園, みかん園
+cluster7:(3)
+齋藤農園, 菊間農園, 斉藤農園
+cluster8:(1)
+極早生
+
+howmany entities : 51
+howmany clusters : 9
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 7
+deleted 2entities.

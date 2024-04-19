@@ -1,0 +1,17 @@
+--------------------similar_words:(有)光国本店「夏蜜柑丸漬」--------------------
+top3 entities near to cluster0>>
+漬, 丸
+top3 entities near to cluster1>>
+菓子店, 土産店, 土産, 菓子
+top3 entities near to cluster2>>
+夏蜜柑, 夏みかん, マーマレード
+top3 entities near to cluster4>>
+商品, 詳細, 内容
+top3 entities near to cluster5>>
+工程, 行程, プロセス
+top3 entities near to cluster6>>
+萩, 辣韮
+top3 entities near to cluster7>>
+朝, 一番, いちばん
+top3 entities near to cluster8>>
+製法, 伝統, 伝承

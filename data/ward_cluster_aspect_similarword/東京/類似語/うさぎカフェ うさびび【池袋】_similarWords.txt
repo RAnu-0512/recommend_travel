@@ -1,0 +1,29 @@
+--------------------similar_words:うさぎカフェ うさびび【池袋】--------------------
+top3 entities near to cluster1>>
+ちゃん, 子, 娘
+top3 entities near to cluster2>>
+うさ, ちゃん, ちび
+top3 entities near to cluster3>>
+ドア, 雑居, ビル
+top3 entities near to cluster5>>
+餌, 世話, エサ
+top3 entities near to cluster6>>
+果物, 野菜, くだもの
+top3 entities near to cluster7>>
+幼児, 子供, 子ども
+top3 entities near to cluster8>>
+うさぎ, ウサギ, 猫
+top3 entities near to cluster9>>
+子, てる子, 目の子
+top3 entities near to cluster10>>
+ケージ, ゲージ, チモシー
+top3 entities near to cluster11>>
+後ろ足, 抱っこ, 前足
+top3 entities near to cluster12>>
+トイレ, キッチン, グッズ
+top3 entities near to cluster13>>
+ヘッド, ライオン, スキン
+top3 entities near to cluster14>>
+ソッポ, そっぽ, ぷいっとそっぽを
+top3 entities near to cluster15>>
+出入り口, 内側, 外側

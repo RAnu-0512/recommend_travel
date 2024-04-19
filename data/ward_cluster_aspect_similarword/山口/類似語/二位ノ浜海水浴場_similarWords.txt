@@ -1,0 +1,13 @@
+--------------------similar_words:二位ノ浜海水浴場--------------------
+top3 entities near to cluster0>>
+水浴場, 海水浴場, 水浴, 海水浴
+top3 entities near to cluster1>>
+一つ, 全国, か所
+top3 entities near to cluster2>>
+砂浜, 海, 浜辺
+top3 entities near to cluster3>>
+水質, 河川, 水量
+top3 entities near to cluster4>>
+透明度, 透明, チェ・ジャンス
+top3 entities near to cluster5>>
+水質, 水浴, 結果

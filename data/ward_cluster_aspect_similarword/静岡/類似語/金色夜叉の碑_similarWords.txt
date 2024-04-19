@@ -1,0 +1,9 @@
+--------------------similar_words:金色夜叉の碑--------------------
+top3 entities near to cluster0>>
+お宮, 松, 境内
+top3 entities near to cluster2>>
+小説, 新聞, 雑誌
+top3 entities near to cluster3>>
+夜叉, 紅葉, 金色
+top3 entities near to cluster5>>
+銅像

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡神社(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+相撲, 子供相撲, 土俵
+cluster1:(6)
+途中, 横, 中腹, 南側, 場所, ほう
+cluster2:(4)
+神, 海, 桜, 山
+cluster3:(4)
+山登り, 八幡山, ベンチ, 富士山
+cluster4:(2)
+人, 子供
+cluster5:(1)
+歴史
+cluster6:(1)
+天気
+cluster7:(4)
+八幡神社, 八幡山公園, 神社, 静岡駅
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 4entities.

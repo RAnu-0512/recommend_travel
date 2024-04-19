@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵野市観光機構>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+マンホールカード, ファイル, ポスター, サイン色紙, アニメ作品, セット, 武蔵野市, 放送, 館内
+cluster1:(3)
+聖地巡礼マップ, 聖地アニメ, TVアニメ劇場アニメSHIROBAKO
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

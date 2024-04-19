@@ -1,0 +1,9 @@
+--------------------similar_words:高山(磁石石)--------------------
+top3 entities near to cluster0>>
+磁性, 磁気, 磁力
+top3 entities near to cluster1>>
+頂上, 山頂, 岩
+top3 entities near to cluster2>>
+方位, 磁石, 磁針
+top3 entities near to cluster3>>
+石英, はん

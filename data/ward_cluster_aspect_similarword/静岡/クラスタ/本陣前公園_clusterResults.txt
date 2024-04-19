@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本陣前公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+バス停, 建物, 目, 遊具, 本陣, 前, オススメ, 公園
+cluster1:(2)
+街並み散策, 休憩場所
+cluster2:(1)
+駐車場
+cluster3:(1)
+遠鉄バス
+cluster4:(1)
+旧気賀宿本陣を記念に作られた公園
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 5entities.

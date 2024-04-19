@@ -1,0 +1,11 @@
+--------------------similar_words:中伊豆フィッシュファーム マス釣り場--------------------
+top3 entities near to cluster0>>
+釣, 釣れ
+top3 entities near to cluster1>>
+餌, エサ
+top3 entities near to cluster2>>
+経営, 会計, 店長
+top3 entities near to cluster5>>
+飲み物, おにぎり, 持ち帰り
+top3 entities near to cluster8>>
+子供, 家族, 子ども

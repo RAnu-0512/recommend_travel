@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まちのポート(周南市観光案内所&特産品セレクトショップ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+中, 囲い, 工事, ポート, 路地, 付近, 土産, 右手, 情報, 道, 場所, 商店街, 資料, 閑散, 止まり, まち, 駅, 右側, 方, 再開発, 観光
+cluster1:(3)
+徳山駅, 徳山市, 在来線口
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

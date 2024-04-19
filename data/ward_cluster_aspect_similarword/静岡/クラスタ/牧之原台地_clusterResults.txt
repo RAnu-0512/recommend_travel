@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牧之原台地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+枝, 新芽, 葉, 木
+cluster1:(4)
+心, 緑色, 緑, 大地
+cluster2:(27)
+博物館, 春, お茶屋, セット, レストラン, 時期, 新幹線, 世界, 間, 日本, 北側, 写真, 眺め, 体験, 富士山, 景色, 形, 近く, コーナー, 場所, 風景, パワスポ, 参考, 気分, オススメ, 他, 季節
+cluster3:(4)
+標高, 国道, 郷博物館, 御前崎方面
+cluster4:(2)
+静岡空港, 静岡県民
+cluster5:(2)
+島田市, 三市
+cluster6:(5)
+静岡, 金谷, 大井川, 牧之原, 菊川
+cluster7:(8)
+北東部, 木造橋, 名産地, 学生時代, 台地, 高速道路, 蓬莱橋, 牧ノ原台地
+cluster8:(2)
+大型茶刈機, 乗用茶かり機
+cluster9:(3)
+抹茶挽き, 茶刈り, 茶摘み
+cluster10:(7)
+茶, 茶畑風景, お茶所, くに茶, 茶所, 抹茶, 茶畑
+
+howmany entities : 68
+howmany clusters : 11
+howmany entities (more than3entities) : 62
+howmany clusters (more than3entities) : 8
+deleted 6entities.

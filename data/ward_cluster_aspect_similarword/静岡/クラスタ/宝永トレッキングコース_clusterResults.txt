@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝永トレッキングコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+五合目, 富士宮口五合, 富士宮五合目
+cluster1:(30)
+富士宮口, ルート, 箇所, 初心者, 帰り, トレッキングシューズ, プリンスルート, 富士, こと, 大きさ, 上り, 富士宮ルート, 御殿場, もの, コース, 御殿場ルート, 山頂, 富士山, トレッキングコース, 遊歩道, 砂礫, 迫力, 天気, 眺望, 体力, 上り下り, オススメ, 縁, 宝永山, 甲斐
+cluster2:(3)
+登山, 登山道, 登山者
+cluster3:(2)
+火口, 宝永火口
+
+howmany entities : 38
+howmany clusters : 4
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 3
+deleted 2entities.

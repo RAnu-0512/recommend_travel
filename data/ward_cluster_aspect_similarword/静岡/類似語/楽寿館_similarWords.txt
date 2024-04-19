@@ -1,0 +1,29 @@
+--------------------similar_words:楽寿館--------------------
+top3 entities near to cluster0>>
+寿楽, 寿, 壽楽, 壽
+top3 entities near to cluster2>>
+年, 月, 日
+top3 entities near to cluster4>>
+子供, 子ども, 家族
+top3 entities near to cluster5>>
+乗り物, カピバラ, テーマパーク
+top3 entities near to cluster6>>
+静けさ, 湧き水, 散歩道
+top3 entities near to cluster7>>
+撮影, 写真, 公開
+top3 entities near to cluster8>>
+溶岩, 湧, 清水
+top3 entities near to cluster9>>
+動物園, 動物, 公園
+top3 entities near to cluster12>>
+建造, 建築, 調度
+top3 entities near to cluster15>>
+時間, 時間帯, 所要
+top3 entities near to cluster16>>
+案内, 見学, ツアー
+top3 entities near to cluster17>>
+駅, 徒歩, 南口
+top3 entities near to cluster19>>
+園内, 施設, 敷地
+top3 entities near to cluster20>>
+庭園, 庭, 中庭

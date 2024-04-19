@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:DivingShop ふらら日和>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+緊張, 不安だらけ
+cluster1:(9)
+ダイビング, こと, 性格, スタッフ, 伊豆, ビーチダイビング, おかげ, ビーチ, ブリーフィング
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

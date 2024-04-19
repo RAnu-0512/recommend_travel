@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:釣浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+釣り, 釣浜, 釣り人, 二見港
+cluster1:(12)
+海岸, 浜, 海, 高校, 雰囲気, ビーチ, シュノーケリング, 必要, 散策, 駐車場, 時間, 階段
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

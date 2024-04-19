@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奥阿武宰判勘場跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+奥阿武宰判勘場, 奥阿武宰判
+cluster1:(3)
+阿武町, 須佐町, 阿東町
+cluster2:(3)
+代官所, むつみ村, 跡
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

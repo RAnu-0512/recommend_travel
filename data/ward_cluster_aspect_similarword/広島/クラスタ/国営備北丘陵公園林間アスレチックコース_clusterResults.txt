@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国営備北丘陵公園林間アスレチックコース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アスレチック, ベビーカー
+cluster1:(1)
+不向き
+cluster2:(1)
+場所
+cluster3:(1)
+大人
+cluster4:(1)
+階段
+cluster5:(1)
+遊具
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

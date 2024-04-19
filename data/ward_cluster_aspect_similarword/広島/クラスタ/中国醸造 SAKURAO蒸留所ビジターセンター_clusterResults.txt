@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中国醸造 SAKURAO蒸留所ビジターセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+製造販売, 醸造元
+cluster1:(11)
+酒, 蔵元, 試飲, 焼酎, イベント, 国道, 直営店, リキュール類, みりん, 日本, 紙パック酒
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

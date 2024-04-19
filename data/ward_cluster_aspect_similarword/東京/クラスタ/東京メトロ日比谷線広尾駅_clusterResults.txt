@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線広尾駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(21)
+店, 学校, スーパーマーケット, 他, 明治屋, 大学, 恵比寿, 街, 聖心女子大, ホーム, 駅, 魅力たっぷり, 近辺, 賑わい, 買い物, 飲食店, 日比谷線, 周辺, 雰囲気, 単独, 大使館
+cluster1:(4)
+広尾, 広尾駅, 広尾商店街, 東京メトロ
+cluster2:(2)
+有栖川宮公園, 名門女子大学
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 3
+deleted 0entities.

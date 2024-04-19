@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:家山の足湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+閉鎖, 休業
+cluster1:(6)
+ゴールデンウィーク, 左, 待ち時間, 施設, 看板, 駅
+cluster2:(2)
+SL, 足湯
+cluster3:(1)
+杉
+cluster4:(1)
+源泉
+cluster5:(1)
+家山
+cluster6:(1)
+思いき
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 8entities.

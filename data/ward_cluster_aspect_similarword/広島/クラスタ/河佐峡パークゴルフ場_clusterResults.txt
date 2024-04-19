@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河佐峡パークゴルフ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パークゴルフ場, ゴルフ場
+cluster1:(6)
+人数, 場所, 緑, パークゴルフ, ホール, 状態
+cluster2:(2)
+充実, ナイター設備
+cluster3:(1)
+芝
+cluster4:(1)
+本格派
+cluster5:(1)
+河佐峡パークゴルフ場
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

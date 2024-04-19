@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:可部町>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+東側, マンション, 風情, 街並み, 可部線, メイン側, 方, 西側, 印象, 北部, 町, 人, 町家, 路線, こと, 駅, 地区, 一角
+cluster1:(2)
+広島市, 中央部
+cluster2:(4)
+江戸時代ごろ, 可部駅, 街道沿い, 可部町
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 3
+deleted 0entities.

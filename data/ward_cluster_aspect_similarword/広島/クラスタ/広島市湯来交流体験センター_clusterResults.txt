@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市湯来交流体験センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+追加, 体験, 人数, 事, 物, こと, 値段
+cluster1:(2)
+川, ゴミ
+cluster2:(3)
+子供, 大人, 自然
+cluster3:(17)
+ガイド, 我が家, キャンプ, 帰り, 方, 車, 乗り入れ, 人, 家族, 洗い場, スタッフ, 子ども, ロッジ, 時間, 他, サイト, 中学生
+cluster4:(1)
+満員
+cluster5:(4)
+温泉, 電源, 別料金, 宿泊キャンプ
+cluster6:(4)
+炊事場, 入浴券, キャンプ場, 火器使用料
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

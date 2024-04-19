@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆市資料館(旧中伊豆歴史民俗資料館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+民俗資料, 伊豆市資料館, 伊豆歴史民俗資料館, 歴史民俗資料館, 民俗資料館
+cluster1:(15)
+土器, 館内, 遺跡, 資料, 直ぐ横, 国指定史跡, 人, 取手, 出土品, 形, 白岩, 上白岩遺跡, 縄文時代, 中心, 湯
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 0entities.

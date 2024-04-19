@@ -1,0 +1,15 @@
+--------------------similar_words:船堀タワー--------------------
+top3 entities near to cluster0>>
+展望室, 展望, 展望台
+top3 entities near to cluster1>>
+船堀, 一之江, 瑞江
+top3 entities near to cluster3>>
+景色, 夜景, 写真
+top3 entities near to cluster4>>
+入館, 乗車, 入場
+top3 entities near to cluster5>>
+建造, 建築, 建物
+top3 entities near to cluster6>>
+体温, 測定, 計測
+top3 entities near to cluster7>>
+指手, 指, 消毒

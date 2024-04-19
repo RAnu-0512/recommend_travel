@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩川五本松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+多摩川, 西河原公園, 土手, 多摩川五本松
+cluster1:(2)
+光景, 景色
+cluster2:(3)
+人, 場所, タイム
+cluster3:(2)
+左, 背後
+cluster4:(1)
+木
+cluster5:(1)
+松
+cluster6:(1)
+大きさ
+cluster7:(1)
+改札口
+cluster8:(1)
+伊豆美神社
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 9
+deleted 0entities.

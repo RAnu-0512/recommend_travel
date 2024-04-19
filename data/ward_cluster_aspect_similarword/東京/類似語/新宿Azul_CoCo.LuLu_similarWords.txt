@@ -1,0 +1,13 @@
+--------------------similar_words:新宿Azul_CoCo.LuLu--------------------
+top3 entities near to cluster0>>
+お花, 花, フラワー
+top3 entities near to cluster2>>
+雰囲気, 色合い, 仕上がり
+top3 entities near to cluster4>>
+好み, 材料
+top3 entities near to cluster5>>
+先生, 講師, 友人
+top3 entities near to cluster6>>
+食事, 飲食店, 飲食
+top3 entities near to cluster7>>
+要望, 事前, 体験

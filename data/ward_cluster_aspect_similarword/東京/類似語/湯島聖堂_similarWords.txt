@@ -1,0 +1,57 @@
+--------------------similar_words:湯島聖堂--------------------
+top3 entities near to cluster0>>
+幕府, 家康, 家光
+top3 entities near to cluster1>>
+合格, 祈願, 祈念
+top3 entities near to cluster2>>
+参拝, 拝観, 境内
+top3 entities near to cluster3>>
+学問, 分野, 書物
+top3 entities near to cluster4>>
+建築, 建造, 建物
+top3 entities near to cluster5>>
+駅, 徒歩, 駅前
+top3 entities near to cluster6>>
+一帯, 周辺, 近辺
+top3 entities near to cluster8>>
+対岸, 向こう岸, 北岸
+top3 entities near to cluster9>>
+夕方, 日, 午前
+top3 entities near to cluster10>>
+世界国, 世界, 聖域
+top3 entities near to cluster12>>
+雰囲気, 気持ち, 静けさ
+top3 entities near to cluster13>>
+入り口, 見ごたえ, 見所
+top3 entities near to cluster15>>
+事務所, 弁護士, 税理士
+top3 entities near to cluster16>>
+所縁, 結
+top3 entities near to cluster17>>
+受験生, 下り坂, 受験
+top3 entities near to cluster18>>
+御朱印, 朱印, 参拝
+top3 entities near to cluster20>>
+黒塗り, 黒, 茶
+top3 entities near to cluster21>>
+木々, 樹木, 葉
+top3 entities near to cluster22>>
+建物, 敷地, 中庭
+top3 entities near to cluster23>>
+造門, 造, 換塔
+top3 entities near to cluster24>>
+角, 背, 兎
+top3 entities near to cluster25>>
+壁, 内部, 壁面
+top3 entities near to cluster26>>
+屋根, 階段, 手すり
+top3 entities near to cluster27>>
+回廊, ルグルー, 廻廊
+top3 entities near to cluster28>>
+静雅堂, 斯文, 静雅
+top3 entities near to cluster29>>
+羅山, 林, 鍾国
+top3 entities near to cluster30>>
+孔子, 儒学, 幕府
+top3 entities near to cluster31>>
+聖堂, 神田, 明神

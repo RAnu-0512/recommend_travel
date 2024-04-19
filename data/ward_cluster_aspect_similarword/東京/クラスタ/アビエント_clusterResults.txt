@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アビエント>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+エクセルホテル東急, 渋谷エクセルホテル東急
+cluster1:(2)
+渋谷マークシティ, 渋谷駅
+cluster2:(3)
+駅隣接, 直結, 隣接
+cluster3:(3)
+景色, 夜景, 眺め
+cluster4:(2)
+vi, nl
+cluster5:(3)
+店, 開店, 店内
+cluster6:(4)
+量, 内容, 中, こと
+cluster7:(12)
+おすすめ, デート, フランス, アクセス, メニュー, フレンチレストラン, レストラン, ランチ, 雰囲気, コース, フレンチ, エクセルホテル
+cluster8:(3)
+ホテル, 最上階, ホテルレストラン
+cluster9:(4)
+親戚, 日常, 友達, 料理
+cluster10:(1)
+た.i
+cluster11:(1)
+高層階
+
+howmany entities : 40
+howmany clusters : 12
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 12
+deleted 0entities.

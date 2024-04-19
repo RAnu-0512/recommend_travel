@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島県立みよし公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 遊具
+cluster1:(2)
+子供, 大人
+cluster2:(10)
+自販機, 滑り台, ふわふわトランポリン, 飲み物, アイス, トランポリン, スポーツセンター, ローラー滑り台, 遊び場, ふわふわドーム
+cluster3:(4)
+船, 人, 形, 近く
+cluster4:(1)
+靴
+cluster5:(1)
+陰
+cluster6:(1)
+日傘
+cluster7:(1)
+簡易テント
+cluster8:(1)
+駐車場
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

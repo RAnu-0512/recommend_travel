@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:TARO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 家族
+cluster1:(2)
+いちご, イチゴ
+cluster2:(2)
+ハサミ, 葉っぱ
+cluster3:(3)
+ハウス, トイレ, 持ち帰り
+cluster4:(1)
+アームカバー
+cluster5:(1)
+説明
+cluster6:(3)
+所, 土産, 物
+cluster7:(2)
+路地, バック入り
+cluster8:(1)
+子供サン
+cluster9:(6)
+いちご狩り, 練乳持ち込み可, イチゴ園, 甘さ, イチゴ狩りそのもの, イチゴ食べ放題
+
+howmany entities : 23
+howmany clusters : 10
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:龍雲寺--------------------
+top3 entities near to cluster1>>
+本堂, 境内, 本殿
+top3 entities near to cluster2>>
+書家, 書展, 書道
+top3 entities near to cluster4>>
+法要, 説法, 創建
+top3 entities near to cluster5>>
+山門, 寺, 本堂
+top3 entities near to cluster8>>
+境内, 庭園, 庭
+top3 entities near to cluster9>>
+拝観, 納骨, 供養

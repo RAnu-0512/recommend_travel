@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長善寺(笹寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+四谷四丁目, 四谷三丁目駅
+cluster1:(23)
+新宿区, 案内板, 外苑東, 南側, 特徴, 有形文化財, 曹洞宗寺院, 鳥居, 交差点, 近く, 本堂, 山門, 入り口, 寺, 興味, めのう観音, 指定, 西, 東側, 小さなお寺, 観音像, 境内, 笹寺
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 2
+deleted 0entities.

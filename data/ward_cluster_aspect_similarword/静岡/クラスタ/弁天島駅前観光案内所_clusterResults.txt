@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弁天島駅前観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+弁天島駅, 東海道線, 駅
+cluster1:(10)
+気, 弁天島, 観光, 海辺, 鳥居, 付近, 東海道, 臭い, 潮, 新幹線
+cluster2:(1)
+観光案内所
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

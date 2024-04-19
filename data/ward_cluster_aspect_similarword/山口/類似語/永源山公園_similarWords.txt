@@ -1,0 +1,21 @@
+--------------------similar_words:永源山公園--------------------
+top3 entities near to cluster0>>
+周源, 永源, 周, 永
+top3 entities near to cluster1>>
+子供, 子ども, 家族
+top3 entities near to cluster2>>
+家族連れ, 家族, 一
+top3 entities near to cluster3>>
+紅葉, 季節, 満開
+top3 entities near to cluster4>>
+散歩, 弁当, 運動
+top3 entities near to cluster5>>
+公園, 遊具, 園内
+top3 entities near to cluster6>>
+頂上, 山頂, 中腹
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster8>>
+トラ, 軽, バースルート
+top3 entities near to cluster9>>
+風車, 四季, 水車

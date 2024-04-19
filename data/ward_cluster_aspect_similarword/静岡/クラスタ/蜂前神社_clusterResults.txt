@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蜂前神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+文書, 資料, 音声, 古文書
+cluster1:(7)
+由来, 共用, こと, 唯一, 趣, 歴史, 説明
+cluster2:(1)
+説明板
+cluster3:(11)
+駐車場, 井伊谷徳, 御朱印帳, 防災センター, 無人, 社務所, 神社, 本殿, 天王宮, 蜂前神社, 古墳時代
+cluster4:(1)
+花押入り文書
+cluster5:(1)
+井伊直虎
+
+howmany entities : 25
+howmany clusters : 6
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 3entities.

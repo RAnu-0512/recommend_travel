@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:防府天満宮歴史館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松崎天神縁起, 防府天満宮の
+cluster1:(2)
+宝物館, 歴史館
+cluster2:(2)
+市, 県
+cluster3:(3)
+文化財, 国, 絵巻物
+cluster4:(4)
+中, もの, 他, 時代
+cluster5:(1)
+帰り
+cluster6:(1)
+指定
+cluster7:(4)
+参道, 国宝, 絵巻, 鎌倉
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

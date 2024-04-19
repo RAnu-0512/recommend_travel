@@ -1,0 +1,7 @@
+--------------------similar_words:キラー通り--------------------
+top3 entities near to cluster1>>
+キラー, 由来, ネーミング
+top3 entities near to cluster2>>
+路地, 街並み
+top3 entities near to cluster3>>
+住宅店, 飲食店, 住宅, 飲食

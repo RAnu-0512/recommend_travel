@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大浜公園(静岡県掛川市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+みんな桜, さくら色, 桜
+cluster1:(3)
+利用, 感じ, ほう
+cluster2:(4)
+所, 時期, 中, 場所
+cluster3:(1)
+何か
+cluster4:(3)
+一般人, 桜並木, アスレチック
+cluster5:(2)
+プール, 体育館
+cluster6:(1)
+遠州灘
+cluster7:(1)
+海
+cluster8:(1)
+地方
+cluster9:(4)
+車, スポーツ施設, 公園, 生活
+cluster10:(4)
+名所, 山頂, 景色, 高台
+cluster11:(1)
+恵み
+cluster12:(2)
+掛川駅, 展望台
+
+howmany entities : 30
+howmany clusters : 13
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 6
+deleted 9entities.

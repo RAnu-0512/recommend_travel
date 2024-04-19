@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安倍の大滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 駐車スペース
+cluster1:(3)
+交通アクセス, バス, 路線バス
+cluster2:(3)
+安倍, 安倍線, 静岡駅
+cluster3:(1)
+道沿い右側
+cluster4:(2)
+落差, 公称落差
+cluster5:(5)
+み荘, 温泉, 宿泊先, 旅館, 湯
+cluster6:(5)
+川, 大滝, 汗, 橋, 滝
+cluster7:(4)
+登り, 山道, 遠回りルート, 道
+cluster8:(11)
+ハイキングコース, 道のり, 山登り, アトラクション, バス停, 入り口, 日帰り, メイン, 遊歩道, 吊り橋, バイキング
+cluster9:(3)
+しぶき, 湯の花, 安倍川
+cluster10:(1)
+花
+cluster11:(2)
+敷地, 造り
+cluster12:(1)
+高所
+cluster13:(16)
+目, 事, 間近, 下車, 流れ, 高さ, こと, 眺め, 人, 場合, 別, 手前, 迫力, 先, 方, 圧巻
+cluster14:(1)
+注意書き有り
+cluster15:(8)
+安倍大滝入口, 安倍大滝, 新静岡⇔梅ヶ島温泉, 日本三大名瀑, 梅ヶ島温泉, 安倍大滝入, しずてつジャストライン安倍線, 直瀑
+
+howmany entities : 68
+howmany clusters : 16
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 9
+deleted 10entities.

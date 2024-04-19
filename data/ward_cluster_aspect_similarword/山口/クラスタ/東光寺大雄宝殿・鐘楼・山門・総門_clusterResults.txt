@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東光寺大雄宝殿・鐘楼・山門・総門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+毛利家御廟所, 長州藩主毛利吉就
+cluster1:(2)
+三門・大雄殿, 大雄殿
+cluster2:(2)
+建築, 建築物
+cluster3:(11)
+前, 文化, 文化財, 対応, 国, 目, いづれ, 奥, 東光寺, 入口, 歴史
+cluster4:(2)
+総門, 山門
+cluster5:(3)
+寺, 寺院, 墓
+cluster6:(1)
+駐車場
+cluster7:(1)
+重厚感
+cluster8:(3)
+国指定重要文化財, 毛利家墓所, お土産屋
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 9
+deleted 0entities.

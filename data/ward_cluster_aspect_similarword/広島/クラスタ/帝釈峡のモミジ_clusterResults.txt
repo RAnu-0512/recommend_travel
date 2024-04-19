@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:帝釈峡のモミジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+モミジ, バスツアー, 広島県, 上帝釈峡, 紅葉時期, 帝釈峡, もみじ, 色付き, 秋, 周辺, 紅葉
+cluster1:(2)
+神竜湖, 渓谷沿い
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

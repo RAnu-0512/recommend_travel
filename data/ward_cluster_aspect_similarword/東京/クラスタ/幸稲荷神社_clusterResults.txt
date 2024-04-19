@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:幸稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+路地沿い, 神社, 裏手, 場所, 散策, 裏, 人, 鳥居, 感じ, 近く, 銀座, 江戸時代, 夕食後, 朱色, 足, ビル, 裏道, 社殿
+cluster1:(2)
+幸稲荷神社, 稲荷神社
+cluster2:(2)
+伏見稲荷, 伏見稲荷神社
+cluster3:(2)
+銀座1丁目, 銀座八丁神社めぐり
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 4
+deleted 0entities.

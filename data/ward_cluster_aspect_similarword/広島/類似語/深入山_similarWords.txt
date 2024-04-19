@@ -1,0 +1,35 @@
+--------------------similar_words:深入山--------------------
+top3 entities near to cluster1>>
+登山, 山登り, トレッキング
+top3 entities near to cluster2>>
+山頂, 頂上, 中腹
+top3 entities near to cluster3>>
+健脚, 体力, 脚力
+top3 entities near to cluster4>>
+入山, 松原, 清水
+top3 entities near to cluster7>>
+夫婦石, 夫婦, 敢当
+top3 entities near to cluster8>>
+コース, ルート, フォレストコース
+top3 entities near to cluster9>>
+深入山, スキー, ハンタマ
+top3 entities near to cluster10>>
+手入れ, トイレ, 掃除
+top3 entities near to cluster11>>
+ガレキ, がれき, 瓦礫
+top3 entities near to cluster12>>
+山焼き, 野焼き, 雲月山
+top3 entities near to cluster14>>
+深入山, シャワー, グリーン
+top3 entities near to cluster15>>
+山, 麓, 山山
+top3 entities near to cluster16>>
+景色, 登り
+top3 entities near to cluster17>>
+スキー場, スキー, 場裏
+top3 entities near to cluster18>>
+下草, 雑木, 下生え
+top3 entities near to cluster19>>
+閉館, 開館, 休館
+top3 entities near to cluster20>>
+涼しい, 暑い, 暑苦しい

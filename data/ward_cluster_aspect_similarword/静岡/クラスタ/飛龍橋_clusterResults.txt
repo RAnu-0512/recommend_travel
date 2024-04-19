@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飛龍橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寸又峡, 寸又峡プロムナードコース, 寸又峡夢
+cluster1:(31)
+気, 静岡, トロッコ, 周り, 途中, 高さ, 台風, こと, 下, 夢, 方, 吊橋, アスファルト, 看板, 橋そのもの, 眺め, 眼下, 展望台, 階段, 渓谷, 意外, 景色, 上, 公園, 記念写真, 吊り橋, アーチ型, 橋, 山, アーチ, まさか
+cluster2:(2)
+飛龍橋, 大間川
+
+howmany entities : 36
+howmany clusters : 3
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 2
+deleted 2entities.

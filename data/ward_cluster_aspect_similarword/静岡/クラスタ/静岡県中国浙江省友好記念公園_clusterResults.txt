@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡県中国浙江省友好記念公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中国, 浜名湖
+cluster1:(2)
+付近, 公園
+cluster2:(1)
+駐車場
+cluster3:(1)
+西気賀
+cluster4:(1)
+浙江省
+cluster5:(1)
+浜名湖周遊自転車道の葭本川河口
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

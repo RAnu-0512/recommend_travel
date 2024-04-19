@@ -1,0 +1,79 @@
+--------------------similar_words:伊豆フルーツパーク--------------------
+top3 entities near to cluster1>>
+コスパ, シェア, 無制限
+top3 entities near to cluster5>>
+心遣い, マナー, 気持ち
+top3 entities near to cluster6>>
+スタッフ, サービス, ポイント
+top3 entities near to cluster13>>
+テーブル, プレート, スプーン
+top3 entities near to cluster16>>
+入り口, 真ん中, はずれ
+top3 entities near to cluster17>>
+ナイフ, ハサミ, カート
+top3 entities near to cluster18>>
+フルーツ, イチゴ, トマト
+top3 entities near to cluster21>>
+アジ, あじ, イワシ
+top3 entities near to cluster24>>
+イチゴ, メロン, 果物
+top3 entities near to cluster25>>
+カニ, カキ, 牡蠣
+top3 entities near to cluster27>>
+ハウス, ビニール, フード
+top3 entities near to cluster28>>
+ビニール袋, ビニール
+top3 entities near to cluster29>>
+完熟, 熟れ, 熟し
+top3 entities near to cluster30>>
+桃樹, 桃, 枝
+top3 entities near to cluster31>>
+引換券, 引換, フリーパスチケット
+top3 entities near to cluster32>>
+バス, タクシー, 乗客
+top3 entities near to cluster33>>
+土産, おみやげ, 土産物
+top3 entities near to cluster34>>
+釜飯, 釜めし, ぎのやで
+top3 entities near to cluster36>>
+ご飯, 昼, お昼
+top3 entities near to cluster37>>
+食事, 夕食, 昼食
+top3 entities near to cluster38>>
+昼食, 休憩, 夕食
+top3 entities near to cluster41>>
+時間, 所要, 制限
+top3 entities near to cluster42>>
+家族, 子供
+top3 entities near to cluster49>>
+人達, 周り, 大勢
+top3 entities near to cluster50>>
+種類, ほか, 数種類
+top3 entities near to cluster52>>
+隣, 横, 真横
+top3 entities near to cluster53>>
+案内, 利用, 係り
+top3 entities near to cluster54>>
+季節, 時期, 時季
+top3 entities near to cluster62>>
+写真
+top3 entities near to cluster63>>
+皿
+top3 entities near to cluster65>>
+満足感, 満腹感, 満腹, 満足
+top3 entities near to cluster66>>
+予約, 受付, 申し込み
+top3 entities near to cluster67>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster70>>
+収穫, 豊作, 定植
+top3 entities near to cluster71>>
+割引, クーポン, 無料
+top3 entities near to cluster72>>
+状態, 満足, 価値
+top3 entities near to cluster73>>
+狩り, 狩る, 狩っ
+top3 entities near to cluster74>>
+食べ放題, 食べ, たべ
+top3 entities near to cluster79>>
+食べ放題, 食べ

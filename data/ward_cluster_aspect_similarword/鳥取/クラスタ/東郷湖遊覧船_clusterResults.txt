@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東郷湖遊覧船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+形船, 遊覧船, 団体客専用, 期間限定, 湖畔, 温泉, 横, 景観, 遊覧, 屋形船, 周辺, 橋
+cluster1:(5)
+ここ望湖楼, 東郷湖, 東郷温泉, 東郷湖遊覧屋, 東郷湖湖畔
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

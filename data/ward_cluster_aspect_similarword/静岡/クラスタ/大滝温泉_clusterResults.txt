@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大滝温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+河津七滝, 河津浜温泉, 河津駅
+cluster1:(19)
+川沿い, 河津川, 土地, 大滝温泉, 周辺, 露天風呂, 客室, 景色, 中, 近く, 自然, 場所, 絶景, オススメ, ループ橋, 滝, 泊まり, 野天風呂, 後味
+cluster2:(5)
+大滝温泉郷, 大滝, 天城, 天城荘, 七滝巡り
+cluster3:(12)
+貸切風呂, 温泉, 峰温泉, 源泉掛け流し, 温泉街, お湯, 温泉宿, 混浴, 入浴, 温泉地, 水着着用, 日帰り温泉
+
+howmany entities : 39
+howmany clusters : 4
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 4
+deleted 0entities.

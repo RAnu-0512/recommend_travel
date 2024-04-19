@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国木田独歩の詩碑(山口県田布施町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+田布施町スポーツセンター, 田布施町観光協会
+cluster1:(2)
+木田独歩, 独歩
+cluster2:(4)
+前, 中, 人, 目
+cluster3:(3)
+入り口, 左側, 曲がれ
+cluster4:(1)
+国
+cluster5:(1)
+詩碑
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

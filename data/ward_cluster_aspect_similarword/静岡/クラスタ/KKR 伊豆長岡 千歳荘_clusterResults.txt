@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:KKR 伊豆長岡 千歳荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三島駅, 伊豆長岡駅
+cluster1:(3)
+露天, 温泉, 宿
+cluster2:(7)
+料理, 部屋, 露天風呂, マッサージ機, 外, ボリューム, プラン
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

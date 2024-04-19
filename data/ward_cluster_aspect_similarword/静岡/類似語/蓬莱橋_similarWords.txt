@@ -1,0 +1,57 @@
+--------------------similar_words:蓬莱橋--------------------
+top3 entities near to cluster0>>
+パワー, フォト, スカイ
+top3 entities near to cluster1>>
+飲み物, カフェ, シチュエーション
+top3 entities near to cluster2>>
+吊り橋, 歩道橋, たもと
+top3 entities near to cluster3>>
+ギネス, 長生き, 世界一
+top3 entities near to cluster7>>
+アトラクション, ウォーキング, ダジャレ
+top3 entities near to cluster12>>
+自転車, マイカー, タクシー
+top3 entities near to cluster13>>
+ススキ, ツバメ, 紫陽花
+top3 entities near to cluster16>>
+子, 勧め, 友達
+top3 entities near to cluster17>>
+案内, 受付, 対応
+top3 entities near to cluster22>>
+土産物店, 名物, 土産物
+top3 entities near to cluster23>>
+駅, 徒歩, 駅前
+top3 entities near to cluster24>>
+距離, 時間, 全長
+top3 entities near to cluster25>>
+荷物車, 荷物台, 荷物
+top3 entities near to cluster30>>
+緊張, 恐怖, 感動
+top3 entities near to cluster35>>
+夏風, 花風, 花, 夏
+top3 entities near to cluster36>>
+子供, 子ども, 大人
+top3 entities near to cluster38>>
+茶, お茶, 摘機
+top3 entities near to cluster39>>
+川, 川べり, 土手
+top3 entities near to cluster40>>
+木造, 平屋, 石造り
+top3 entities near to cluster42>>
+たもと, 鉄橋
+top3 entities near to cluster43>>
+料金, 工事, 通行
+top3 entities near to cluster44>>
+大会, 花火, 競技
+top3 entities near to cluster45>>
+写真, 撮影, 撮っ
+top3 entities near to cluster46>>
+景色, 風情, 風景
+top3 entities near to cluster47>>
+天気雨, 大雨, 天気
+top3 entities near to cluster52>>
+往復, 片道, 一泊
+top3 entities near to cluster56>>
+ナシ, ない
+top3 entities near to cluster57>>
+駐車, 駅前, 駅

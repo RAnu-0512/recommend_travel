@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アドベンチャークルーズ21>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+ファッション, ショッピングスポット, テナント, UFOキャッチャー, アウトドア, デックス
+cluster1:(3)
+中, 店, 場所
+cluster2:(1)
+くじ
+cluster3:(1)
+態度
+cluster4:(1)
+お台場
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

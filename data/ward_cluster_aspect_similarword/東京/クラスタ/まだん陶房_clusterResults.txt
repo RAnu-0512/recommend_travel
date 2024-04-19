@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:まだん陶房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+最後, 思い出作り, アクティビティ, 笑顔, 陶芸, マグカップ, 感じ, 右, 人柄, 人生, 形, ワクワク感, 左, 家族, 記念写真, 改札, 体験, 時間帯, 皿, 方, 中, 先生, 友人, お子さん方, 説明, 小学校, 参加
+cluster1:(2)
+ザ・工房, 図工室
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 2
+deleted 0entities.

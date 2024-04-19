@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:満畑達磨堂「青海苔ようかん」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青のり, 青海苔
+cluster1:(2)
+おみやげ, 茶請け
+cluster2:(1)
+地元
+cluster3:(1)
+青
+cluster4:(2)
+峠, 羊羹
+cluster5:(6)
+景色, 香り, 発想, 青のり感, 味, 後味
+cluster6:(1)
+甘さ
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 7
+deleted 0entities.

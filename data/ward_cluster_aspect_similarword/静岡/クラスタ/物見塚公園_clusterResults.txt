@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:物見塚公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+市役所, 敷地, 親, 隣, 地元, 上り坂, 付近, 景色, 公園, 見どころ
+cluster1:(2)
+像, 句碑
+cluster2:(1)
+町並みや海
+cluster3:(2)
+松尾芭蕉, 物見塚公園
+cluster4:(6)
+伊東市役所, 伊東駅, 伊東, 伊東祐, 伊東祐親公, 尾上柴舟歌碑
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 5entities.

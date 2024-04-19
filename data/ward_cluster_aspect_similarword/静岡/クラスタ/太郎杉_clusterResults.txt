@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太郎杉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+紅葉, 太郎, 杉
+cluster1:(2)
+駅, 徒歩
+cluster2:(8)
+途中, 水, 周辺, 人, 名前, 近く, 場所, 他
+cluster3:(7)
+ルート, レンタカー, 山歩き, 最寄り, 天城峠, グループ, 山
+cluster4:(2)
+車, 道
+cluster5:(1)
+趣味
+cluster6:(1)
+迫力
+cluster7:(2)
+大きさ, 自然観察
+cluster8:(6)
+天城一, 天城越え, 天城, 太郎杉, 太郎杉う, 有保堂
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 8entities.

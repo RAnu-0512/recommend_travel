@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大浜公園(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+夏休み期間, 家族連れ, シーズンオフ, 子, プール, ビーチバレー, 幼児プール, 店, いくつか, 軽食, 雷, 夏, 公園, 夕方, コインロッカー, 閉鎖, 前, 大会, 遊泳, ウォータースライダー
+cluster1:(3)
+駐車場, 駐車スペース, 更衣室
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 0entities.

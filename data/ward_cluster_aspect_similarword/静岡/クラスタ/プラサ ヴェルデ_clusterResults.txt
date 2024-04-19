@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:プラサ ヴェルデ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ラブライブ, テレビアニメ作品ラブライブ
+cluster1:(2)
+ヨハネイラスト垂幕, イラスト垂幕
+cluster2:(5)
+駅, 市, JR, 施設, 北口
+cluster3:(10)
+横断幕, 今回, イベント, カフェ, コラボ, ホテル, サンシャイン, スタンプイラスト, 伊豆箱根鉄道スタンプラリー, 追加
+cluster4:(2)
+展示, 訪問
+cluster5:(2)
+運, 人出
+cluster6:(3)
+カメラ撮影, 試験会場, 撮影スポット
+cluster7:(7)
+まちあるきスタンプ, ヨハネ聖地めぐり, アニメ幻日, 聖地スポット, 休館日, 沼津市, 沼津駅
+cluster8:(2)
+JR東海X幻日, 沼津夏まつり花火大会
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 4
+deleted 10entities.

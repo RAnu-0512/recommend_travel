@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+御浜ビーチ, 御浜岬, 御浜, 御浜岬公園
+cluster1:(6)
+旅館, 天気, 散歩, 恐竜, 遊具, 絶景
+cluster2:(25)
+ロシア, シュノーケル, 大人, 人, ターザンロープ, 夏, 熱帯魚, オススメ, 色, 防波堤, ビーチ, 西伊豆, 富士山, 子供, フロート, 子, 滑り台, ライフガード, テント, ファミリー, お気に入り, 海水浴, 子ども, 人気, 子連れ
+cluster3:(7)
+足, 内側, 水, 裏手, 目, 根元, 辺り
+cluster4:(3)
+家, 場所, こと
+cluster5:(2)
+注意, 安心
+cluster6:(1)
+荷物
+cluster7:(1)
+ライフセイバー常駐
+cluster8:(2)
+透明度, お勧め
+cluster9:(2)
+波, おかげ波
+cluster10:(4)
+浜, 戸田, 松林, 浮島
+cluster11:(10)
+魚, 泳ぎ, 海岸, 砂浜, 海水, 水深, 遠浅, 海, 岩場, 浜辺
+cluster12:(3)
+湾, 港, 嘴
+cluster13:(3)
+海水浴場, 駐車場, 遊泳区域
+cluster14:(6)
+孫たち, 浮き輪, 友達家族, 子供連れ, 浮き台, 家族連れ
+
+howmany entities : 79
+howmany clusters : 15
+howmany entities (more than3entities) : 71
+howmany clusters (more than3entities) : 10
+deleted 8entities.

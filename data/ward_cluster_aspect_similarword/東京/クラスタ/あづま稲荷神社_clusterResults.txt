@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あづま稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+銀, GINZA SIX, 都, 銀座, あづま通り
+cluster1:(4)
+街並み, 街, 風情, 路地
+cluster2:(2)
+一角, 裏側
+cluster3:(3)
+ぶどう, 百貨店, のぼり
+cluster4:(3)
+場所, 中, こと
+cluster5:(2)
+近く, 地元
+cluster6:(2)
+人, 方々
+cluster7:(1)
+幟
+cluster8:(1)
+参拝者
+cluster9:(1)
+一等地
+cluster10:(11)
+神社, 東銀座駅, 伏見稲荷, あすま稲荷神社, あづま稲荷, 銀座駅, あづま稲荷神社, 古き良き銀座, 三原小路, 稲荷神社, 稲荷
+
+howmany entities : 35
+howmany clusters : 11
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 11
+deleted 0entities.

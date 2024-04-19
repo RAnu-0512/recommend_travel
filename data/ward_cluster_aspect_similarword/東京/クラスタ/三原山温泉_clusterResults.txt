@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三原山温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+身体, 芯, 体
+cluster1:(7)
+景色, 会話, 土産, 夫婦, 天気, 旅, 風景
+cluster2:(17)
+ホテル, 支払い, ぬるめ, 他, 海上, 思い, 感じ, 露天風呂, 料金, 山麓, 夕方, ココ, 施設, 周り, 風, 三原山, 海沿い
+cluster3:(1)
+通貨
+cluster4:(2)
+宿泊先, 古さ
+cluster5:(2)
+登山道, 登山
+cluster6:(3)
+温泉場, 三原山温泉, 温泉
+cluster7:(3)
+露天, 浴場, 風呂
+cluster8:(5)
+大島温泉, 自然, 椿祭り, 自然林, 大島
+cluster9:(1)
+大島温泉ホテルの日帰り温泉
+
+howmany entities : 44
+howmany clusters : 10
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 10
+deleted 0entities.

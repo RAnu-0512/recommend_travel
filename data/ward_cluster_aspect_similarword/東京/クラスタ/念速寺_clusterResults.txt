@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:念速寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+墓, 到着, 墓地, 本堂, 旧居跡, 井上哲次郎
+cluster1:(3)
+小石川植物園, 美幾女, 念速寺
+cluster2:(1)
+文京区立井上公園
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

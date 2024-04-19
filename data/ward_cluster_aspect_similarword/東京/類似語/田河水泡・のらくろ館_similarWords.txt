@@ -1,0 +1,27 @@
+--------------------similar_words:田河水泡・のらくろ館--------------------
+top3 entities near to cluster0>>
+泡, 田, 河
+top3 entities near to cluster3>>
+清澄, 亀戸, 大正
+top3 entities near to cluster4>>
+遺品, 遺族, 本棚
+top3 entities near to cluster5>>
+歴史, 資料, 文化
+top3 entities near to cluster6>>
+シーン, アニメ, マンガ
+top3 entities near to cluster7>>
+人達, 大勢
+top3 entities near to cluster8>>
+違う別, 別々, 違う
+top3 entities near to cluster9>>
+昔, 時代, 大昔
+top3 entities near to cluster10>>
+柏, 黒, 白
+top3 entities near to cluster11>>
+ガム, チューイングガム, チューインガム
+top3 entities near to cluster12>>
+漫画家, 漫画, マンガ家, マンガ
+top3 entities near to cluster13>>
+子供, 子ども, 大人
+top3 entities near to cluster14>>
+展示, 会場, 展覧

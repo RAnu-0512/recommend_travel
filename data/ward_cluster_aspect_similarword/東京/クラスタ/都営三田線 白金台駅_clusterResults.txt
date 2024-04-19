@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営三田線 白金台駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+八芳園, 白金高輪駅
+cluster1:(3)
+高級感, イヤホン, 音漏れ
+cluster2:(12)
+駅, 客層, 両方, 目黒駅, エスカレーター, 白金台駅, 南北線, 東京メトロ南北線, 三田線, 都営, 乗り換え, ホーム
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

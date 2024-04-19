@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小山町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+金太郎, 地, 富士山, 絵, 金太郎生誕, 駅, 町, 道
+cluster1:(3)
+観光, 観光案内所, 観光情報
+cluster2:(2)
+小山町, 小山町観光協会
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

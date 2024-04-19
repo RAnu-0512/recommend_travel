@@ -1,0 +1,11 @@
+--------------------similar_words:スルメづくり・魚の干物づくり--------------------
+top3 entities near to cluster0>>
+スルメ, イカ, 塩辛
+top3 entities near to cluster1>>
+地元, 隣県, 地元民
+top3 entities near to cluster2>>
+魚類, サカナ
+top3 entities near to cluster3>>
+イカ, ゲソ, スルメ
+top3 entities near to cluster4>>
+干物, 乾物

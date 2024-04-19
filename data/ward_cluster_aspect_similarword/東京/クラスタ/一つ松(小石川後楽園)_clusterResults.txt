@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一つ松(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+左右, 池, 琵琶湖, 小石川後楽園, 常緑樹, 紅葉, 木, ほとり, 姿, 間近, 季節感, 落葉, 素晴らしさ
+cluster1:(7)
+一つ松, 雪吊り, 枝ぶり, 大津市, 唐崎, 松, 大泉水
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

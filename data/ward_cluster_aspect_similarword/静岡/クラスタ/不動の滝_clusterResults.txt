@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:不動の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+涼しさ, 最高気温
+cluster1:(2)
+大井川鉄道下泉駅, 上駅
+cluster2:(4)
+勢い, 落差, 迫力, 距離
+cluster3:(9)
+気, 姿, 全容, もの, 機会, 名前, 予想, 場所, 気分
+cluster4:(11)
+周り, 途中, 真下, 全国, 中間, 奥, 別, 少し先, 手前, 近く, 間
+cluster5:(5)
+紅葉, 木々, 倒木, 景色, 水量
+cluster6:(3)
+涼み, 夏, 夏場
+cluster7:(3)
+橋, 滝, 道
+cluster8:(2)
+イオン, マイナスイオン
+cluster9:(2)
+身代わり不動尊, 不動堂
+cluster10:(7)
+お茶屋, 不動の滝, 味わい, 竹細工, 口コミ, キャンプ, 遊歩道
+cluster11:(1)
+不動
+cluster12:(4)
+茶, 水, 音, 自然
+cluster13:(3)
+休憩, 整備, 出会
+cluster14:(1)
+土産物屋
+cluster15:(6)
+駐車場, 奥大井湖, オートキャンプ場, 滝駐車場, キャンプ場, 滝キャンプ場
+cluster16:(1)
+接岨峡温泉駅
+
+howmany entities : 66
+howmany clusters : 17
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 10
+deleted 11entities.

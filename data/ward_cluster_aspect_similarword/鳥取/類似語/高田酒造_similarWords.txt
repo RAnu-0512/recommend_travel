@@ -1,0 +1,13 @@
+--------------------similar_words:高田酒造--------------------
+top3 entities near to cluster0>>
+保護地, 保護, 文化財
+top3 entities near to cluster2>>
+歴史, 大人
+top3 entities near to cluster4>>
+庄屋, 名主, 百姓
+top3 entities near to cluster6>>
+広い, 聴係, 聴室
+top3 entities near to cluster7>>
+蕎麦屋, そば屋, 蕎麦, そば
+top3 entities near to cluster8>>
+酒蔵, 蔵元, 酒造

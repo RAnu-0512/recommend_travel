@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石畳の参道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+地蔵菩薩石像, 大山寺は裏参道, 等身地蔵, 神仏分離令, 吉持地蔵
+cluster1:(30)
+江戸時代, 足元, バランス, 凸凹, 下り, 日本, 多く, 気, 大山寺, 辺り一帯, こと, 緑, 風情, 天気, 明治, 大神神社, 石垣, 事, 道, 石畳, 東京オリンピック, 辺り, 朝露, 時代, 国内最長, 昔, 注意, 足, 雰囲気, 途中
+cluster2:(4)
+石畳み, 自然石参道, 石, 自然石
+cluster3:(4)
+参道, 神山神社奥, 御幸参道, 参道脇
+cluster4:(12)
+大山, 灯篭, 寺院, 佐々木高綱, 僧坊, 神社, 大山町, 鳥居, 本堂, 境内, 山門, 奥宮
+
+howmany entities : 55
+howmany clusters : 5
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 5
+deleted 0entities.

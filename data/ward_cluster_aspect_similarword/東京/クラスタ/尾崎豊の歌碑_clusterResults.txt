@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾崎豊の歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+歌碑, 歌詞, 歌
+cluster1:(15)
+周囲, 心, 場所, 人, 思い, 証拠, 此処, 青山学院, 渋谷, ファン, 時間, 歩道橋, 地図, クロスタワー, 寄せ書き
+cluster2:(1)
+良き場所
+cluster3:(1)
+再開発
+cluster4:(1)
+尾崎豊
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

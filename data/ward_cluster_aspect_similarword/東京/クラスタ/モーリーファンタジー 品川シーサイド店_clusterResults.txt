@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:モーリーファンタジー 品川シーサイド店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+品川シーサイド, 品川, 品川駅
+cluster1:(3)
+企業, サイド店, 意見
+cluster2:(6)
+場所, 流石, 当方, 模様, 設定, もの
+cluster3:(3)
+子ども, 子供, お子様
+cluster4:(11)
+ゲーム, アーム, クレーンゲーム, ショッピング, モーリーファンタジー, ゲーセン, ゲームセンター, ユーザー, おすすめスポット, ショッピングモール, イオン
+cluster5:(2)
+雨, 腕
+cluster6:(1)
+クレゲ歴
+cluster7:(1)
+子供達
+cluster8:(1)
+確率機
+cluster9:(1)
+モーリーファンタジー 品川シー
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 10
+deleted 0entities.

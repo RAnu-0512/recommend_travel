@@ -1,0 +1,55 @@
+--------------------similar_words:御前崎海鮮なぶら市場--------------------
+top3 entities near to cluster0>>
+カツオ, マグロ, 刺身
+top3 entities near to cluster2>>
+土産物, ホテル, レストラン
+top3 entities near to cluster3>>
+値打ち, セット, パック
+top3 entities near to cluster4>>
+美味しい, おいしい, ケーキ
+top3 entities near to cluster5>>
+発送
+top3 entities near to cluster6>>
+アイス, アイスクリーム, ソフトクリーム
+top3 entities near to cluster7>>
+しらす, シラス, 桜えび
+top3 entities near to cluster8>>
+かに, カニ, イカ
+top3 entities near to cluster9>>
+施設, 駐車, 宿泊
+top3 entities near to cluster10>>
+店舗, 店内
+top3 entities near to cluster11>>
+宿泊, 施設, 建物
+top3 entities near to cluster12>>
+景色, 食堂
+top3 entities near to cluster13>>
+家族, 子供, 映画
+top3 entities near to cluster14>>
+値段, 価格, 価値
+top3 entities near to cluster16>>
+横, 入口, 入り口
+top3 entities near to cluster17>>
+灯台, 岬, 樫野崎
+top3 entities near to cluster18>>
+海, 近海, 海中
+top3 entities near to cluster20>>
+丼, 定食, 海鮮
+top3 entities near to cluster21>>
+魚介, 魚類
+top3 entities near to cluster23>>
+魚介, 海鮮, 鰹
+top3 entities near to cluster24>>
+鮮魚, 刺身, 生魚
+top3 entities near to cluster26>>
+市場, 野菜, 農産物
+top3 entities near to cluster28>>
+食事, 処, 夕食
+top3 entities near to cluster30>>
+土産, おみやげ, 土産物
+top3 entities near to cluster31>>
+寿司, 饅頭
+top3 entities near to cluster33>>
+菓子, お菓子
+top3 entities near to cluster34>>
+冷凍品, 冷凍, 冷蔵

@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:きのえ温泉ホテル清風館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+眺め, 絶景, 景色, 中景色
+cluster1:(11)
+接客, 肌, 太陽, 料理, 笑顔, 部屋, 食事, 絵, オレンジ色, 素材, 日程
+cluster2:(4)
+フェリー, 瀬戸内海, 大三島, 大崎上島
+cluster3:(6)
+露天風呂, 気配り, ホテル, スタッフ, 気持ち, 夕焼け
+cluster4:(2)
+フェリー乗り場, 車
+cluster5:(3)
+手, 目, 前
+cluster6:(6)
+方, 対応, 気, 方々, 仕方, こと
+cluster7:(3)
+瀬戸, ゆず, 冬至
+cluster8:(5)
+塩分, 島, 海, 塩, 島々
+cluster9:(6)
+大崎上島にあるきのえ温泉, 温泉, 天然温泉露天風呂, 天然温泉, 日帰り温泉, 温泉ホテル
+cluster10:(4)
+お湯, レモン風呂, 浴槽, 風呂
+cluster11:(2)
+露天, 浴場
+cluster12:(1)
+柑橘風呂
+cluster13:(2)
+従業員, 駐車場
+cluster14:(1)
+大崎上島の木江港
+cluster15:(1)
+塩化物冷鉱泉
+
+howmany entities : 61
+howmany clusters : 16
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 16
+deleted 0entities.

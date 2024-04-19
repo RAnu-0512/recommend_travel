@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平家の一杯水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国道, 道路沿い
+cluster1:(2)
+何か, お社
+cluster2:(12)
+脇, 水, 井戸, 先, 壇ノ浦, 平家, 物, 場所, 海沿い, レストラン, 関門海峡, 戦い
+cluster3:(1)
+案内板
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長沢の池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, コントラスト
+cluster1:(2)
+こと, 時期
+cluster2:(1)
+周辺
+cluster3:(1)
+風情
+cluster4:(1)
+休憩
+cluster5:(4)
+鳥居, 漢文, 池, 桜
+cluster6:(6)
+稲荷神社, 人工池, 芝桜, 弁天社, 大村益次郎, 長沢池
+cluster7:(1)
+郷土資料館前
+cluster8:(1)
+江戸時代に作られた灌漑
+
+howmany entities : 19
+howmany clusters : 9
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 9
+deleted 0entities.

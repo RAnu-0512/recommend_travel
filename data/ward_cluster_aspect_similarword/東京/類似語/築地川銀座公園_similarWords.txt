@@ -1,0 +1,13 @@
+--------------------similar_words:築地川銀座公園--------------------
+top3 entities near to cluster0>>
+環状, 高速, 道路
+top3 entities near to cluster1>>
+会社, 昼休み, 同僚
+top3 entities near to cluster3>>
+姿, 後姿, 格好
+top3 entities near to cluster4>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster5>>
+都心, 駅, 駅前
+top3 entities near to cluster6>>
+首都, 環状, 道路

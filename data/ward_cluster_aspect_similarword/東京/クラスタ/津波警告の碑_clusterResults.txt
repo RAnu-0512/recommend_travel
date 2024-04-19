@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:津波警告の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸時代, 江戸時代寛政
+cluster1:(2)
+犠牲者, 行方不明者
+cluster2:(2)
+被害, 死者
+cluster3:(3)
+津波, 東日本大震災, 地震
+cluster4:(1)
+高潮
+cluster5:(20)
+運河, 水, 石碑, 神社, 昔, 場所, 南側, 近く, 南西一帯, 碑, 事, 奥, ココ, 海岸, 付近, こと, 埋め立て地, 家屋, 多数, 辺り
+cluster6:(1)
+洲崎神社
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スカシユリ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+色使い, オレンジ色, 色
+cluster1:(2)
+ゆり, ユリ
+cluster2:(2)
+御前崎, 御前崎サンロード
+cluster3:(2)
+目, 時期
+cluster4:(5)
+ライダー, オレンジ, スカシユリ, ドライブ, 花
+cluster5:(1)
+元気
+cluster6:(6)
+灯台, 海岸, 旅行, 景色, 丘, 海
+cluster7:(1)
+海岸沿い
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 8entities.

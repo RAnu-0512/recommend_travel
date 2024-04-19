@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷 線築地駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+有楽町線, 新大橋, 距離, 夜景, 市場, 姿, 入り口, 本願寺, パターン, 間隔, 外, 外観, 乗り換え
+cluster1:(3)
+豊洲, 銀座, 東京メトロ
+cluster2:(4)
+駅, 電車, 新富町駅, 日比谷 線
+cluster3:(4)
+築地駅, 築地, 築地市場, 築地本願寺
+cluster4:(2)
+築地場外市場, 場外市場
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 5
+deleted 0entities.

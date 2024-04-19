@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧古河庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+古河庭園, 古河庭園+六義園
+cluster1:(3)
+日本庭園, 庭園, 庭園内
+cluster2:(2)
+洋風庭園, 西洋庭園
+cluster3:(1)
+庭園散策時間
+cluster4:(1)
+回遊式
+cluster5:(4)
+入館料, 入館, 入園料, 入場料
+cluster6:(3)
+洋, 和, 大正
+cluster7:(5)
+香り, 植物, 薔薇, バラ, お花
+cluster8:(4)
+洋館, 池, 敷地, 階段
+cluster9:(1)
+バラ園
+cluster10:(4)
+ガイドツアー, 見所, 興味, 見学
+cluster11:(11)
+六義園, ゲーム, 和洋折衷, クレジットカード, メイド, イメージ, セット, 日本, ベンチ, 雰囲気, アップダウン
+cluster12:(3)
+人, 中, 方
+cluster13:(2)
+場所, 近く
+cluster14:(1)
+時代
+cluster15:(1)
+名前
+cluster16:(1)
+形式
+cluster17:(1)
+具合
+cluster18:(3)
+休憩, 徒歩, 現金
+cluster19:(2)
+別料金, 交通系
+cluster20:(1)
+和+洋
+
+howmany entities : 56
+howmany clusters : 21
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 21
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡の自然歴史体験 センス・オブ・ワンダー静岡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木負観光みかん園, ^^)/木負観光みかん園
+cluster1:(3)
+食べ比べ, 園内食べ放題, 食べ放題
+cluster2:(4)
+予約時間, 開園時間, 予約, 集合時間
+cluster3:(7)
+母親, 子どもたち, 家族, 田舎, 大人, 子供, 子供たち
+cluster4:(2)
+手, 足
+cluster5:(2)
+方, 見分け方
+cluster6:(2)
+観, 体験
+cluster7:(4)
+こと, 種類, 時間, 位置
+cluster8:(4)
+収穫シーズン, 農園, 品種, みかん狩り
+cluster9:(7)
+みかんほ, 紅葉, みかん, 富士山, ドライブ, ミカン, 鈴木園
+cluster10:(5)
+土産, 園内, 道中, 現地, 天気
+cluster11:(3)
+箱根, 伊豆, 日帰り旅行
+
+howmany entities : 45
+howmany clusters : 12
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 8
+deleted 8entities.

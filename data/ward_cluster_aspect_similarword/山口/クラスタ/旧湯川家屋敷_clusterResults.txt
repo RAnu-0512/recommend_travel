@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧湯川家屋敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水回り, 水
+cluster1:(2)
+庭, お庭
+cluster2:(11)
+中, 前, 見学, 前情報, 知恵, ハトバ, アトラクション, 外, 想像, 見ごたえ, 人
+cluster3:(2)
+川, 鯉
+cluster4:(2)
+様式, 風情
+cluster5:(6)
+施設, 部屋, 屋敷, 家, 庭園, 建物
+cluster6:(3)
+階段, 生活, 台所
+cluster7:(12)
+風呂, 拝観料, 湯川家屋敷, 武家屋敷, 藍場川沿い, 下級武士, 風呂場, 藍場川, 生活用水, 家屋敷, ハトバとお風呂場, 駐車場
+cluster8:(1)
+萩市文化財施設1日券
+
+howmany entities : 41
+howmany clusters : 9
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 9
+deleted 0entities.

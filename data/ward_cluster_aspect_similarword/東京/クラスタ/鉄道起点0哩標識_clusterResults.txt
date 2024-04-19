@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鉄道起点0哩標識>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+新橋駅, 新橋, 汐留シティセンター, 汐留, JR新橋, 汐留駅, 新橋・横浜, 新橋停車場, 汐留シティーセンター
+cluster1:(28)
+鉄道, リニア, 鉄道レール, 案内板, 裏手, 場所, 地, 日本鉄道, 線路, 人, プラットホーム, 起点, 新幹線, ゼロ哩標識, 近く, 駅舎, 発祥, 興味, 始まり, プラットフォーム, 鉄道開設, 博物館, 日本, 歴史, 鉄道発祥, こと, レール, 横浜
+
+howmany entities : 37
+howmany clusters : 2
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 2
+deleted 0entities.

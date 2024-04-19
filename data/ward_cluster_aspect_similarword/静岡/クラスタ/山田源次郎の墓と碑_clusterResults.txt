@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山田源次郎の墓と碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+沼津藩, 藩
+cluster1:(2)
+困窮, 不作
+cluster2:(5)
+村人, 名主, 農民, 墓, 農作物
+cluster3:(4)
+取立, 税, 減免, 年貢
+cluster4:(1)
+水野忠成
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 5entities.

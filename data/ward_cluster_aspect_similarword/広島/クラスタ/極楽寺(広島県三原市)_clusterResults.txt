@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:極楽寺(広島県三原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+心, 気分, 空間
+cluster1:(2)
+別名, 名前
+cluster2:(2)
+人, 家族
+cluster3:(4)
+お参り, 間違え, 雰囲気, 気持ち
+cluster4:(2)
+もの, 方
+cluster5:(4)
+文化財, 浄土宗, 極楽寺, 日本
+cluster6:(2)
+歴史, 規模
+cluster7:(5)
+東町, JR, 徒歩, 駅, 県
+cluster8:(1)
+高さ
+cluster9:(3)
+登り車, 研修所, 急坂
+cluster10:(5)
+境内, 阿弥陀如来大仏, 寺, 寺院, 本堂
+cluster11:(6)
+達磨, ここ極楽寺, 極楽寺山, 紅葉, 高台, 極楽
+cluster12:(1)
+江戸時代
+cluster13:(6)
+達磨記念堂, 三原のだるまの寺, 三原駅, 三原城跡, 三原市, 青山コレクション達磨記念堂
+
+howmany entities : 46
+howmany clusters : 14
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 14
+deleted 0entities.

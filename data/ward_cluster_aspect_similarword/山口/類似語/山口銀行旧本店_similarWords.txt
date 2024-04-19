@@ -1,0 +1,15 @@
+--------------------similar_words:山口銀行旧本店--------------------
+top3 entities near to cluster1>>
+本店, 建物, 支店
+top3 entities near to cluster2>>
+通称, 別名, 俗称
+top3 entities near to cluster3>>
+変遷, 移り変わり, 変化
+top3 entities near to cluster4>>
+創業, 創立, 設立
+top3 entities near to cluster5>>
+銀, 山, 銅
+top3 entities near to cluster6>>
+資料, 史料, 文献
+top3 entities near to cluster7>>
+工芸品, 工芸, 伝統

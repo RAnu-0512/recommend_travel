@@ -1,0 +1,13 @@
+--------------------similar_words:星条旗通り--------------------
+top3 entities near to cluster0>>
+新聞社, 新聞, 朝刊社, 朝刊
+top3 entities near to cluster1>>
+とおり
+top3 entities near to cluster2>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster3>>
+外国人, 外国, 大勢
+top3 entities near to cluster5>>
+昼, 昼間, 夕方
+top3 entities near to cluster6>>
+高層, ビル, ノッポビル

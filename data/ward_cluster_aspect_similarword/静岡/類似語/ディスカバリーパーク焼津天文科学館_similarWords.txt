@@ -1,0 +1,19 @@
+--------------------similar_words:ディスカバリーパーク焼津天文科学館--------------------
+top3 entities near to cluster1>>
+宇宙, 地球, 海
+top3 entities near to cluster2>>
+天文台, 望遠鏡, 天文学
+top3 entities near to cluster5>>
+プラネタリウム, アトラクション, テーマパーク
+top3 entities near to cluster10>>
+子供, 大勢, 子ども
+top3 entities near to cluster11>>
+新型, 量産, 形式
+top3 entities near to cluster12>>
+対応, 心配, 利用
+top3 entities near to cluster16>>
+科学, 館, 天文
+top3 entities near to cluster18>>
+施設, 屋内, 屋外
+top3 entities near to cluster20>>
+子供連れ, 子供, 好奇

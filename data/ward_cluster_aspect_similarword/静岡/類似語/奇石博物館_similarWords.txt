@@ -1,0 +1,31 @@
+--------------------similar_words:奇石博物館--------------------
+top3 entities near to cluster0>>
+展示, 出展
+top3 entities near to cluster1>>
+子供, 子ども, 息子
+top3 entities near to cluster4>>
+屋内, 敷地, 屋外
+top3 entities near to cluster5>>
+おみやげ, カフェ, グッズ
+top3 entities near to cluster6>>
+風景, 広場, 光景
+top3 entities near to cluster7>>
+隣, 真後ろ
+top3 entities near to cluster10>>
+前回, 前々回, 先日
+top3 entities near to cluster11>>
+世界
+top3 entities near to cluster12>>
+日水, 時間, 日
+top3 entities near to cluster14>>
+土産, 滞在, 見学
+top3 entities near to cluster15>>
+白糸, 滝, 長蛇
+top3 entities near to cluster16>>
+宝石, 原石, 宝飾
+top3 entities near to cluster17>>
+宝石, 探し, 捜し
+top3 entities near to cluster18>>
+探し, 捜し, さがし
+top3 entities near to cluster19>>
+敢当, 鉱石

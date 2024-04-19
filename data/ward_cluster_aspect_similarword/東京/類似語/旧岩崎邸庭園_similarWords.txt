@@ -1,0 +1,65 @@
+--------------------similar_words:旧岩崎邸庭園--------------------
+top3 entities near to cluster0>>
+見どころ, 見所, 入り口
+top3 entities near to cluster1>>
+解説, 補足, 割愛
+top3 entities near to cluster4>>
+気分, 贅沢, ぜいたく
+top3 entities near to cluster6>>
+., 05, ＯＫ
+top3 entities near to cluster7>>
+坂生, 子生, 坂, 子
+top3 entities near to cluster8>>
+途上国, 国々, 途上
+top3 entities near to cluster9>>
+歴史, 価値, 時代
+top3 entities near to cluster10>>
+外国人, 外国, 人々
+top3 entities near to cluster11>>
+世界, 国内, 各国
+top3 entities near to cluster12>>
+地上, 地表, 地下
+top3 entities near to cluster13>>
+目的地, 遊園地, 遊園, 目的
+top3 entities near to cluster14>>
+明治, 大正, 幕末
+top3 entities near to cluster15>>
+時代, 幕末, 末期
+top3 entities near to cluster16>>
+写真, 布地, 紙袋
+top3 entities near to cluster17>>
+内装, 外観, 外装
+top3 entities near to cluster18>>
+装飾, 室内, 内装
+top3 entities near to cluster19>>
+調度品, 調度, 品等
+top3 entities near to cluster20>>
+家具, 建具, 壁
+top3 entities near to cluster21>>
+客間, 和室, 洋間
+top3 entities near to cluster22>>
+館内, 室内, 屋内
+top3 entities near to cluster23>>
+来客, 応対, 来訪
+top3 entities near to cluster24>>
+暖炉, ストーブ, ストーヴ
+top3 entities near to cluster25>>
+各館, ＯＰＡＣ, 同館
+top3 entities near to cluster26>>
+建物, 外観, 邸宅
+top3 entities near to cluster27>>
+喫茶室, 喫茶
+top3 entities near to cluster28>>
+ドア, 窓, 入口
+top3 entities near to cluster29>>
+邸宅, 豪邸, 別荘
+top3 entities near to cluster30>>
+創始, 先駆
+top3 entities near to cluster31>>
+内観, 外観, 観想
+top3 entities near to cluster32>>
+庭園, 中庭, 洋館
+top3 entities near to cluster33>>
+工事, 修繕, 改修
+top3 entities near to cluster34>>
+財閥, 三菱, 撞球

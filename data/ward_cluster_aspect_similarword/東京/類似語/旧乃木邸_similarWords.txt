@@ -1,0 +1,23 @@
+--------------------similar_words:旧乃木邸--------------------
+top3 entities near to cluster0>>
+乃木, 将軍, 希典
+top3 entities near to cluster1>>
+建物, 敷地, 通路
+top3 entities near to cluster2>>
+小雨, 土砂降り
+top3 entities near to cluster4>>
+庭, 花, 草花
+top3 entities near to cluster5>>
+自宅, お家
+top3 entities near to cluster6>>
+居間, 部屋, 寝室
+top3 entities near to cluster7>>
+布団, 毛布, ふとん
+top3 entities near to cluster8>>
+小屋, 掘っ建て, 掘立て
+top3 entities near to cluster9>>
+時代, 彼女
+top3 entities near to cluster11>>
+駅, 乃木坂, メトロ
+top3 entities near to cluster12>>
+大将, 陸軍, 中将

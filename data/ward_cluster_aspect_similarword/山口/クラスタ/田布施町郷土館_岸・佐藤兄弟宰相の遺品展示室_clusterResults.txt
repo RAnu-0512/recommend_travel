@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田布施町郷土館_岸・佐藤兄弟宰相の遺品展示室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岸信介, 佐藤栄作
+cluster1:(4)
+出身, 山口県, 田布施町, 布施町
+cluster2:(3)
+展示, 遺品展示, 郷土館
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

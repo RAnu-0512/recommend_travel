@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:染の里 二葉苑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+泥染体験, 染体験
+cluster1:(3)
+見学, 体験, 勿論体験
+cluster2:(2)
+染め体験, 染色体験
+cluster3:(3)
+濃さ, 大きさ, 凄さ
+cluster4:(2)
+更紗, 更紗型染め
+cluster5:(2)
+中井駅, 幅帯
+cluster6:(25)
+作品, スタッフ, 方達, もの, 玄関, 子ども, テーブルセンター, 当方, 人, 他, 感じ, 横, ハンカチ, 参加者, 人数, パターン, 時間, デザイン, 歴史, 方, こと, 対応, 知識, 説明, 経験
+cluster7:(2)
+工房, 職人
+cluster8:(2)
+作業, 工程
+cluster9:(2)
+染物, 型紙
+cluster10:(5)
+色味, 柄, 均等, 個性, 色
+
+howmany entities : 50
+howmany clusters : 11
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 11
+deleted 0entities.

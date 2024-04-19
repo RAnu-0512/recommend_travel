@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:防府市文化財郷土資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桑山, 防府市
+cluster1:(3)
+展示, 見ごたえ, 文化財
+cluster2:(3)
+産業, 文化, 歴史
+cluster3:(1)
+土器
+cluster4:(1)
+出土品
+cluster5:(1)
+製塩事業
+cluster6:(1)
+郷土資料館
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

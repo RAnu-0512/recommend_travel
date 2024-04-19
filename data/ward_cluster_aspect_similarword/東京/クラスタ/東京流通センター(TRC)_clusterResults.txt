@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京流通センター(TRC)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食事, 弁当
+cluster1:(3)
+セール, イベントセール, ファミリーセール
+cluster2:(7)
+イベント, アクセス, セミナー, レストラン, 流通センター, ローソン, モノレール
+cluster3:(3)
+人, 前, 目
+cluster4:(2)
+場所, 会場
+cluster5:(1)
+Fホール
+cluster6:(14)
+流通センター駅目, 休憩所, 東京モノレール, 来場者, 平和島インター, 首都高速, 環状, 展示場, 流通センター駅, 流通センター駅正面, 飲食店, 東京流通センター, 電子レンジ, 展示会
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 7
+deleted 0entities.

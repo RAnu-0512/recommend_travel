@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弁天島海浜公園ターミナル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+車, 周辺, 駅, そば, 公園
+cluster1:(7)
+浜名湖, レンタサイクル, ターミナル, 新居町, 弁天島, 自転車, サイクリングロード
+cluster2:(2)
+場合, 別
+cluster3:(1)
+颯爽
+cluster4:(1)
+数人
+cluster5:(4)
+乗り放題, 海浜公園ターミナル, 観光客, 解体工事
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 4entities.

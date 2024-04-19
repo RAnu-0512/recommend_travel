@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:月ケ瀬温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+旅館, 月ケ瀬温泉, 温泉, 船原温泉
+cluster1:(2)
+肌, 身体
+cluster2:(2)
+狩野川, 修善寺
+cluster3:(3)
+気持ち, 露天風呂, とろみ
+cluster4:(1)
+場所
+cluster5:(1)
+風情
+cluster6:(1)
+名所
+cluster7:(1)
+お月見
+cluster8:(3)
+静岡県, 伊豆市, ケ瀬温泉
+
+howmany entities : 18
+howmany clusters : 9
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 8entities.

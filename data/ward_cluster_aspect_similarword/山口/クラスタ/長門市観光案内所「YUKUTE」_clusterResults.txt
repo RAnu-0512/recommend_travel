@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長門市観光案内所「YUKUTE」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パンフレット, スタッフ
+cluster1:(1)
+オススメ
+cluster2:(1)
+スポット
+cluster3:(1)
+場所
+cluster4:(1)
+観光
+cluster5:(1)
+お勧めスポット
+cluster6:(1)
+長門市観光案内所
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

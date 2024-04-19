@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中央公園(東京都北区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+日本, 公園, 文化センター, エリア, 音無親水公園, 滝公園, 醸造跡地公園, 街歩き, 常設展, 中央公園
+cluster1:(2)
+東京家政大学百周年記念館, 北区観光ガイドマップ王子十条エリア
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

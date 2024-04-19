@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:べっ甲資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+やくし, ショーウィンドー, 北側, 時代, 脇, 博物館, 訪問, ショーウインドー
+cluster1:(2)
+べっ甲商品, 輝き
+cluster2:(1)
+渋め
+cluster3:(6)
+磯貝べっ甲, 資料館, 芸術品, べっ甲資料館, 横網町公園, 磯貝べっ甲専門店
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小室山市営テニスコート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+大室山, コート, 小室山, テニスコート, ラケット, 笑, サイト, リフト, 場所, テニス, 手ぶら, 山, 方
+cluster1:(4)
+営業, 観光, 公共, 施設
+cluster2:(3)
+運動靴, コロナ禍, 際球
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 0entities.

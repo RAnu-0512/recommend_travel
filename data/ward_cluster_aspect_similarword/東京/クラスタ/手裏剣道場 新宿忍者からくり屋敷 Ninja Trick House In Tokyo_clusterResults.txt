@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手裏剣道場 新宿忍者からくり屋敷 Ninja Trick House In Tokyo>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+忍者, 屋敷
+cluster1:(8)
+小学生, 子, 両親, 演出, 必須, 歌舞伎町, 武器, 建物
+cluster2:(1)
+女子会
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白倉峡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+駐車場, 下側, 観光客, 対向車, 下側入口
+cluster1:(39)
+禍, 車, アクセス, 紅葉, 道端, 所, 必要, 勇気, 白倉, 天竜, 時期, 川沿い, こと, 川, 豊橋, 上側, スペース, 入口, 空気, もの, 競演, せせらぎ, 舗装, 人, 感じ, 渓谷, レベル, 遊歩道, たがら, 涼しさ, 愛知県, 先, 県道, 昼下がり, もみじ, 方面, 他, 方, 道
+
+howmany entities : 44
+howmany clusters : 2
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 2
+deleted 0entities.

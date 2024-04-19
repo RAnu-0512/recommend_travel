@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三宅島自然ふれあいセンターアカコッコ館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+さえずり, 固有種, アカコッコ, 生き物, 自然, 植物, 野鳥, 動物, 施設, 時期, 野生, 住処, 三宅島, 三宅村, 観察, 資料, 鳥, アカコッコ館, 展示
+cluster1:(4)
+自然観察施設, 可能性, 見学者, 自由研究
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

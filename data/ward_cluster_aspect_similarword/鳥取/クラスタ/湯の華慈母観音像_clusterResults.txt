@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯の華慈母観音像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+慈母観音像, 華慈母観音像, 湯の華慈母観音
+cluster1:(14)
+華慈, 雪空, 駅, 松崎駅, 徳下泰明, 周辺, 高野山, 米子駅, 山陰本線鳥取行, 参拝, 建つ池, 出身, 温泉, 湯
+cluster2:(4)
+東郷温泉街, 東郷池畔, 東郷温泉, 湯梨浜町
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

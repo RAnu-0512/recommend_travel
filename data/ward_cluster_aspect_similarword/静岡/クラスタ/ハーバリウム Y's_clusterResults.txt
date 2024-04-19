@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハーバリウム Y's>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, ☆駐車場
+cluster1:(39)
+リース, 親族, リボン, 小中学生, 子供達, タグ, 帰り, コインパーキング, 売り物, 娘達, テーブル, 空間, 子, 大人, 家, オイル, シール, 駅, 友人, 体験, 気持ち, 時間, お花, ビン, 次, ハーバリウム, 近く, アドバイス, 作業, 雰囲気, 子供, 場所, 先生, オーナー, 旅, 中身, 瓶, 前, 作品
+cluster2:(2)
+予約時間, 予約
+cluster3:(2)
+連絡, 事前連絡
+cluster4:(2)
+完成度, 親切さ
+cluster5:(1)
+交通手段
+cluster6:(3)
+伊東駅, 伊豆旅行, ハーバリウム作り
+
+howmany entities : 51
+howmany clusters : 7
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 2
+deleted 9entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:摩利支天(東雲寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+成就, 開運, 安産, 必勝, 家内安全
+cluster1:(3)
+散策, 新緑, 山道
+cluster2:(3)
+戦, 勝負, スポーツ選手
+cluster3:(3)
+トキワマンサク, 武士, 植物
+cluster4:(2)
+神, 信仰
+cluster5:(5)
+多く, 裏手, 守り神, お参り, 場所
+cluster6:(1)
+無人
+cluster7:(6)
+里, 本堂, 戸, 境内, 御堂, 天井
+cluster8:(1)
+東雲寺
+cluster9:(3)
+古墳群, 摩利支天, 神座古墳群
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 7
+deleted 4entities.

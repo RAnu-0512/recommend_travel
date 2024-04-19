@@ -1,0 +1,23 @@
+--------------------similar_words:ラビットライン(三原-大久野島航路)--------------------
+top3 entities near to cluster1>>
+滞在, 逗留, 時間
+top3 entities near to cluster2>>
+エサ, 島, 餌
+top3 entities near to cluster3>>
+状態, どう, よう
+top3 entities near to cluster4>>
+子孫, 歴史
+top3 entities near to cluster5>>
+子供, 子ども, 大人
+top3 entities near to cluster6>>
+足, ウサギ, うさぎ
+top3 entities near to cluster8>>
+徒歩, 駅分, 駅
+top3 entities near to cluster9>>
+お腹, おなか, オナカ
+top3 entities near to cluster10>>
+ガス台, 展望台, 展望, ガス
+top3 entities near to cluster11>>
+踏み, 食べ, 残し
+top3 entities near to cluster12>>
+立ち乗り, 乗る, 立ち

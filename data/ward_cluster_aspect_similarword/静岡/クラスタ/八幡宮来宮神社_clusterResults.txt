@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡宮来宮神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+八幡宮来宮神社, 来宮神社
+cluster1:(7)
+大木, 杉の木, 苔, 鳥居, 伊豆, 杉, 楠木
+cluster2:(34)
+パワースポット, 手入れ, 周り, 何か, 顔, 恋人, 箇所, 神聖, 音, 口コミ, パワー, 神, 心持ち, 来訪, 空気, 人, ビアガーデン, 大小, 気持ち, 階段, 現実, 状態, 見, 感じ, 伊豆高原, ジブリ, 話し, 社, 中, 自然, 雰囲気, 場所, 施設, ほう
+cluster3:(4)
+雨, 雨風, 天気, SNS映えスポット
+cluster4:(1)
+異空間
+cluster5:(11)
+拍手一礼, 詣り, 霊験, 八幡宮, 参拝, 神社, 境内, 参拝者, 本殿, 参道, 狛犬
+
+howmany entities : 59
+howmany clusters : 6
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 4
+deleted 3entities.

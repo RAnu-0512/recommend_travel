@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:槍倒し松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+柳, 松
+cluster1:(2)
+人, 錦帯橋
+cluster2:(2)
+経緯, 形
+cluster3:(1)
+役割
+cluster4:(1)
+景観
+cluster5:(1)
+袂
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

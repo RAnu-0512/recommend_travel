@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふわふわ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+顔, 表情
+cluster1:(2)
+フリータイム, 時間
+cluster2:(2)
+生き物, 気持ち
+cluster3:(2)
+スコーン, フロート
+cluster4:(3)
+ストレス, スタッフ, フクロウ
+cluster5:(1)
+カフェ
+cluster6:(1)
+コース
+cluster7:(5)
+最後, 相手, 子, 人間, 人
+cluster8:(1)
+店
+cluster9:(4)
+混雑, 対応, 予約, 密度
+cluster10:(5)
+動物たち, 猫達, 動物, 動物カフェ, 沼津港
+
+howmany entities : 28
+howmany clusters : 11
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 11entities.

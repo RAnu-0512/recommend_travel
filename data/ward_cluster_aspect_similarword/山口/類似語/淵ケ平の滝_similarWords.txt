@@ -1,0 +1,11 @@
+--------------------similar_words:淵ケ平の滝--------------------
+top3 entities near to cluster0>>
+滝, 壺, 宇嶺
+top3 entities near to cluster1>>
+田んぼ, 田圃, ただ今
+top3 entities near to cluster2>>
+その道, 道筋
+top3 entities near to cluster3>>
+標識, 標示, 看板
+top3 entities near to cluster4>>
+駐車場, 駐車, 場裏

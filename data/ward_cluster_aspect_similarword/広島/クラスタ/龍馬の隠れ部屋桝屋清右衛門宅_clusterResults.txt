@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍馬の隠れ部屋桝屋清右衛門宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+坂本龍馬, 司馬遼太郎
+cluster1:(8)
+鞆, 幕府, 紀州藩, 江戸末期, いろは丸事件, 入館料, 浦, 商家
+cluster2:(2)
+隠れ部屋, 隠し部屋
+cluster3:(3)
+屋根裏部屋, ☆部屋, 部屋
+cluster4:(4)
+土, 金, 営業日, 祝
+cluster5:(2)
+身, 命
+cluster6:(10)
+間, 舞台, 家, 建物, 次, 手つかず, 屋根裏, 写真, 手入れ, 場所
+cluster7:(6)
+状態, 方, 存在, 考え, 若干, こと
+cluster8:(1)
+坂本龍馬たち土佐海援隊
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 9
+deleted 0entities.

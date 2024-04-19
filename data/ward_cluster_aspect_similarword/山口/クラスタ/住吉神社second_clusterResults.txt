@@ -1,0 +1,74 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:住吉神社second>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+空気, 環境, 安全
+cluster1:(2)
+おススメ, すご利益
+cluster2:(2)
+御朱印, 御利益
+cluster3:(2)
+雰囲気, 気持ち
+cluster4:(4)
+イベント, スポット, アクセス, ひとつ
+cluster5:(2)
+結婚式, 保育園
+cluster6:(1)
+街並み
+cluster7:(3)
+仕事, 祭り, 週末
+cluster8:(14)
+こと, 付近, 方, 近く, 地域, もの, 人々, 利用, 多く, 場所, 時間, 周り, 人, 歴史
+cluster9:(9)
+近隣, 日本, 地元, 全国, 駅, 人気, 国宝, 徒歩, 県
+cluster10:(2)
+地位, 格式
+cluster11:(4)
+庭, 建物, 景色, 外観
+cluster12:(3)
+風情, 印象, 迫力
+cluster13:(1)
+建物群
+cluster14:(2)
+船謡, 謡
+cluster15:(2)
+海運, 漁業
+cluster16:(4)
+船, 海, 神, 河口
+cluster17:(3)
+潮風, 散歩, 散策
+cluster18:(1)
+海岸沿い
+cluster19:(4)
+松蔭神社, 住吉大神, 住吉神社, 住吉三神
+cluster20:(2)
+参拝, 参拝客
+cluster21:(2)
+観光客, 観光
+cluster22:(2)
+神事, 山車
+cluster23:(3)
+社殿, 拝殿, 本殿
+cluster24:(2)
+神社, 境内
+cluster25:(2)
+鳥居, 狛犬
+cluster26:(1)
+主祭神
+cluster27:(1)
+夏大祭
+cluster28:(1)
+趣深い神社
+cluster29:(2)
+JR東萩駅, 山口県萩市
+cluster30:(2)
+毛利藩, 藩主
+cluster31:(4)
+山口県, 萩, 萩市, 下関市
+cluster32:(4)
+重要伝統的保存地区, 無形民俗文化財, 日本三大住吉神社, 日本三大住吉のひとつ
+
+howmany entities : 96
+howmany clusters : 33
+howmany entities (more than1entities) : 96
+howmany clusters (more than1entities) : 33
+deleted 0entities.

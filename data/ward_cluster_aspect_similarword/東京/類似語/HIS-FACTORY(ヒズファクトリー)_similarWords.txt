@@ -1,0 +1,15 @@
+--------------------similar_words:HIS-FACTORY(ヒズファクトリー)--------------------
+top3 entities near to cluster0>>
+革, 牛革
+top3 entities near to cluster1>>
+指導, 体験, 講習
+top3 entities near to cluster2>>
+仕上がり, 組み合わせ, それぞれ
+top3 entities near to cluster3>>
+テーブル, マスター, ダイニング
+top3 entities near to cluster4>>
+カラー, レザー, サイズ
+top3 entities near to cluster5>>
+種類, 個性
+top3 entities near to cluster6>>
+つくり, 作る

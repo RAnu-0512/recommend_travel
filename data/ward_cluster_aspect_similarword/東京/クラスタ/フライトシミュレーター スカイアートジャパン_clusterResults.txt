@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フライトシミュレーター スカイアートジャパン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+A320キャビン, B777-300ER, B737MAX
+cluster1:(2)
+体験内容, 体験
+cluster2:(3)
+終了, 時間, 受付
+cluster3:(4)
+長男, 家族, 友達, 息子
+cluster4:(3)
+パイロット, コクピット, コックピット
+cluster5:(2)
+スタッフ, アシスタント
+cluster6:(1)
+キャビン
+cluster7:(1)
+コーヒー
+cluster8:(1)
+コース
+cluster9:(1)
+オートパイロット
+cluster10:(8)
+他, 話題, 映像, 日本, 方, こと, 唯一, 本物
+cluster11:(5)
+小型機, 操縦, 操縦かん, 操縦経験, 大型機
+
+howmany entities : 34
+howmany clusters : 12
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 12
+deleted 0entities.

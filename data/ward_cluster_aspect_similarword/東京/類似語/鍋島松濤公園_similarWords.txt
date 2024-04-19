@@ -1,0 +1,27 @@
+--------------------similar_words:鍋島松濤公園--------------------
+top3 entities near to cluster0>>
+住宅街, 住宅, 商店街, 商店
+top3 entities near to cluster1>>
+住宅地, 分譲地, 住宅, 分譲
+top3 entities near to cluster4>>
+松涛, モデルノトッレ, アクターズギムナジウム
+top3 entities near to cluster5>>
+風情, 都会, 雑踏
+top3 entities near to cluster6>>
+周り, 人達, 中心
+top3 entities near to cluster8>>
+隣, 子供, 子ども
+top3 entities near to cluster9>>
+桜池, 桜, 緑
+top3 entities near to cluster10>>
+水車, 風車, 小屋
+top3 entities near to cluster11>>
+公園, 自然, 遊歩道
+top3 entities near to cluster12>>
+遊具, 施設, 滑り台
+top3 entities near to cluster13>>
+地価, 土地, 地代
+top3 entities near to cluster14>>
+徒歩圏, 高級, 徒歩
+top3 entities near to cluster15>>
+湧池, 湧水, 湧

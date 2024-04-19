@@ -1,0 +1,21 @@
+--------------------similar_words:富長城跡--------------------
+top3 entities near to cluster1>>
+城跡, 城址, 神社
+top3 entities near to cluster2>>
+海, 深い, 川
+top3 entities near to cluster3>>
+道路, 国道, 県道
+top3 entities near to cluster4>>
+拠点, 近辺
+top3 entities near to cluster5>>
+堀橋, 堀, 参道
+top3 entities near to cluster6>>
+標柱, 石碑, 標識
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster8>>
+戦国, 時代, 闘檄
+top3 entities near to cluster9>>
+塁, 土, 木
+top3 entities near to cluster10>>
+石段, 登り, 急坂

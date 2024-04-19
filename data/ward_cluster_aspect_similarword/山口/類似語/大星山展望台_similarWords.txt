@@ -1,0 +1,21 @@
+--------------------similar_words:大星山展望台--------------------
+top3 entities near to cluster0>>
+地球, 丸い, 四角い
+top3 entities near to cluster1>>
+雲, 空, 海
+top3 entities near to cluster2>>
+景色, 絶景, 眺め
+top3 entities near to cluster3>>
+日没, 山頂, 頂上
+top3 entities near to cluster4>>
+方向道, 方角, 方向
+top3 entities near to cluster5>>
+友人, 家族, 時間
+top3 entities near to cluster6>>
+壮大, なさ, 壮麗
+top3 entities near to cluster7>>
+夕日, 夕陽, 夜景
+top3 entities near to cluster8>>
+半島, 俵ケ浦, 俵ヶ浦
+top3 entities near to cluster9>>
+発電機, 発電, 風力

@@ -1,0 +1,25 @@
+--------------------similar_words:福山城公園--------------------
+top3 entities near to cluster0>>
+資料, 館, 展覧
+top3 entities near to cluster1>>
+駅, 北口, 南口
+top3 entities near to cluster2>>
+真横, 真下, 真後ろ
+top3 entities near to cluster5>>
+時間, 半年分, 半年
+top3 entities near to cluster6>>
+美術館, 博物館, 天守閣
+top3 entities near to cluster7>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster8>>
+アクセス, ブランコ, とこ
+top3 entities near to cluster9>>
+新幹線, ホーム, 電車
+top3 entities near to cluster10>>
+猫, ネコ, ねこ
+top3 entities near to cluster11>>
+桜, 夜桜, 花見
+top3 entities near to cluster12>>
+公園, 周辺, 散策
+top3 entities near to cluster13>>
+天守, 櫓, 城壁

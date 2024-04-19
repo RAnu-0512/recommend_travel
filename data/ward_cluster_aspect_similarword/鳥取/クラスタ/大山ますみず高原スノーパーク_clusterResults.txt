@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山ますみず高原スノーパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+大山, 大山桝水高原, やぎのはなちゃん, 鳥取県
+cluster1:(21)
+コース, 高原, スキー場, 遊び, 稼働標高, 途中雨模様, リフト, レストラン, ウィンタースポーツ, 曇り空, 雪, 自然, 今回, 大人, シーズン, 景色, 子供, 食堂, 天空リフト, 空中散歩, 断念ふもと
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 2
+deleted 0entities.

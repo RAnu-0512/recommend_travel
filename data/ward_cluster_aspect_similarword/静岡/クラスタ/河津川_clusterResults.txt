@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河津川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+伊豆河津, 河津, 河津桜まつり, 河津桜
+cluster1:(2)
+川沿い, 川畔
+cluster2:(3)
+光景, 景観, 景色
+cluster3:(2)
+開催, 設営
+cluster4:(5)
+流れ, 桜並木, 時間, 方, 河津川
+cluster5:(2)
+魚, 花
+cluster6:(3)
+河原, 川, 上流
+cluster7:(7)
+開花, 臨時露店, 桜まつり, 満開, 花見客, ほうでも桜, 桜
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 6entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:澤乃井櫛かんざし美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+玉堂美術館, 酒蔵見学
+cluster1:(2)
+江戸時代, 非日常
+cluster2:(2)
+紅板, 豆腐料理
+cluster3:(2)
+櫛, 簪
+cluster4:(2)
+季節, 窓
+cluster5:(8)
+食事, 日本髪, 多摩川, 他, 美術館, 目, あたり, 帰り
+cluster6:(1)
+昭和
+cluster7:(1)
+点数
+cluster8:(1)
+矢立
+cluster9:(1)
+櫛・笄・かんざし
+
+howmany entities : 22
+howmany clusters : 10
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 10
+deleted 0entities.

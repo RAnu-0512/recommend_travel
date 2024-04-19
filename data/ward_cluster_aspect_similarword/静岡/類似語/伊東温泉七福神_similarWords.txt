@@ -1,0 +1,9 @@
+--------------------similar_words:伊東温泉七福神--------------------
+top3 entities near to cluster0>>
+湯, お湯, 温泉
+top3 entities near to cluster5>>
+各所, 中心, 近辺
+top3 entities near to cluster6>>
+神社, 七福神, 境内
+top3 entities near to cluster7>>
+寺, 温泉, 門前

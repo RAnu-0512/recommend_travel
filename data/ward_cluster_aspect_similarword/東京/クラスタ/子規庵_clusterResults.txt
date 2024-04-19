@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:子規庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子規庵, 子規庵周囲
+cluster1:(8)
+山手線, 日暮里駅, 鶯谷駅, 駅, 鶯谷, 南口側, 出口, 北口
+cluster2:(4)
+俳人, 正岡, 俳句, 子規
+cluster3:(9)
+場所, 玄関, 縁側, 窓, 住宅, 机, 庭, 部屋, 門扉
+cluster4:(2)
+明治, 生家
+cluster5:(3)
+保存, 都合, 工夫
+cluster6:(8)
+心, 光, 靴, ポツポツ, 袋, ビデオ, ショップ, 正岡子規
+cluster7:(1)
+どこか
+cluster8:(3)
+観光, 予備知識, 観光地
+
+howmany entities : 40
+howmany clusters : 9
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 9
+deleted 0entities.

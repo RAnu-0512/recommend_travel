@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急電鉄大井町線大井町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大井町, 大井町線
+cluster1:(11)
+乗り場, 自由が丘, JR, アトレ, 始発駅, ホーム, 路線, 駅, 乗換え, ラクラク乗換え, 乗り換え
+cluster2:(5)
+後ろ, 端, 前, 次, 目
+cluster3:(3)
+気, こと, 羽目
+cluster4:(3)
+下り電車, 場合 東急, 改札
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

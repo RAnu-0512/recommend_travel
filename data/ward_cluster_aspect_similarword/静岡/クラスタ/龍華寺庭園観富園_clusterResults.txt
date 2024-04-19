@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍華寺庭園観富園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+日本庭園, 富士山, 境内, 庭, 日近大僧都, 観富園, 絶景, サボテン, 木, ソテツ, 見応え, 寺
+cluster1:(4)
+龍華寺庭園観富園, 龍華寺, 須弥山式庭園, 観富山龍華寺
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

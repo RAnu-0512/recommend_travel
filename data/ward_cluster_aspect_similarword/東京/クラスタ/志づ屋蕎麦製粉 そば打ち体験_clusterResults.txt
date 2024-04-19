@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:志づ屋蕎麦製粉 そば打ち体験>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+初心者, YouTube, 最後, 食事, 自己流, 内容, 打ち立て, プロ, 気, 持ち帰り, 夫婦, 初体験, 形, 天ぷら, 体験, 奥さん, 指導, コチラ, 蕎麦, 完全自己流, 今回, 動画, 先生, 雰囲気, 満足, 香り, 上達, 料理
+cluster1:(3)
+そば打ち体験, そば打ち, 蕎麦打ち
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 2
+deleted 0entities.

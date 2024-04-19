@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観音滝(静岡県函南町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+風景, 気分, 心
+cluster1:(5)
+上流, 観音滝, 水, 清流, 滝
+cluster2:(1)
+水量
+cluster3:(1)
+来光川
+cluster4:(1)
+箱根山麓
+cluster5:(1)
+清涼感
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 4entities.

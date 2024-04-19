@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧官修墳墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+西南戦争, 光明寺, 美祢市, 墓, 地方庁, 墳墓, 戦い
+cluster1:(2)
+旧官修墳墓, 官製墳墓明細帳
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

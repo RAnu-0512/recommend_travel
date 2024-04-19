@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鬼子母神大門ケヤキ並木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+途中, 店, 都会, 昔, ケヤキ, 荒川線, 天然記念物, 鬼子母神前, 鬼子母神, 人, ところ, 感じ, 枯れ木, 雑司ヶ谷鬼子母神, 歴史, こと, 雰囲気, 雑司, ありがたみ, 並木道
+cluster1:(6)
+鬼子母神境内, 巨木, 鬼子母神堂, ケヤキ道, 参道, 大木
+cluster2:(3)
+都電, 駅, 鬼子母神前駅
+cluster3:(2)
+大銀杏, 江戸時代
+cluster4:(1)
+商店街
+cluster5:(2)
+きしもじん, 東京都天然記念物
+cluster6:(1)
+観光名所
+cluster7:(7)
+荒川都電鬼子母神駅, ケヤキ並木, 並木ハウス, 鬼子母神大門ケヤキ並木, ケヤキ並木沿い, 並木, けやき並木
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 8
+deleted 0entities.

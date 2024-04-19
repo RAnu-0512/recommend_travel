@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田万川の柱状節理と水中自破砕溶岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+もの, ところ
+cluster1:(2)
+中学生, 六角形
+cluster2:(1)
+玄武岩
+cluster3:(1)
+名前
+cluster4:(1)
+所
+cluster5:(1)
+片側
+cluster6:(1)
+鱗状
+cluster7:(4)
+火山活動, 農道工事, 展望台, 駐車場
+cluster8:(3)
+古田万川, 柱状節理, 龍鱗郷
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 9
+deleted 0entities.

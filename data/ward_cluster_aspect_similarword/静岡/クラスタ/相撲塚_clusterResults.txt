@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:相撲塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+人, 話, 河津掛け, 相撲, 親, 敵, 子供, 絵, 相撲塚, 曽我兄弟, 仇討ち
+cluster1:(5)
+伊東祐親, 河津祐泰, 工藤祐経, 俣野景久, 伊東家
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

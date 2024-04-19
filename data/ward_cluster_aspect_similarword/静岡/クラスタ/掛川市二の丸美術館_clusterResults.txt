@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:掛川市二の丸美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+鈴木コレクション, 目, 今回, 展示, 絵画, 日本, 写真, 丸美術館, 城, 画, 美術館, 木下コレクション, 近代, 美術, 細工, 子供, 印籠, 中心
+cluster1:(4)
+刀剣, 刀, 刀装具, 煙草道具
+cluster2:(4)
+掛川市二の丸美術館, 古美術品, 掛川城公園, 細密工芸品
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 0entities.

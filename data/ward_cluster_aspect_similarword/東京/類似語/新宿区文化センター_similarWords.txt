@@ -1,0 +1,19 @@
+--------------------similar_words:新宿区文化センター--------------------
+top3 entities near to cluster0>>
+文化, 区, 駅前
+top3 entities near to cluster1>>
+会議室, 会議, 室長
+top3 entities near to cluster2>>
+小, ホール, 中規模
+top3 entities near to cluster4>>
+音楽, 公演, コンサート
+top3 entities near to cluster5>>
+駅線, 駅道, 駅
+top3 entities near to cluster6>>
+ホール, コンサート, 区役所
+top3 entities near to cluster7>>
+昔, 大昔, 以前
+top3 entities near to cluster9>>
+施設, 建物, 会場
+top3 entities near to cluster10>>
+四季, 春夏秋冬, 移ろい

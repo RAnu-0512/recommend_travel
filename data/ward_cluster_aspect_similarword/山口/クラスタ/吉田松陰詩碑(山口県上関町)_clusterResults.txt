@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田松陰詩碑(山口県上関町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+吉田松陰詩碑, 松陰, 吉田松陰
+cluster1:(9)
+三厩駅, 山口県, 詩, バス, こと, ところ, 東北遊歴, 場所, 詩碑
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

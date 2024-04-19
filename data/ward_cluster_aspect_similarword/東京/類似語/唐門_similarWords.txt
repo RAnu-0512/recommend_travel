@@ -1,0 +1,13 @@
+--------------------similar_words:唐門--------------------
+top3 entities near to cluster0>>
+唐門, 唐, 門跡
+top3 entities near to cluster1>>
+案内板, 案内, 解説板, 解説
+top3 entities near to cluster3>>
+滝橋, 滝, 宇嶺
+top3 entities near to cluster4>>
+彫刻, 土台, 彫像
+top3 entities near to cluster6>>
+戦災, 戦禍, 空襲
+top3 entities near to cluster7>>
+建造, 建築, 建物

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:錦帯橋温泉 岩国国際観光ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+岩国, 岩国城, 岩国国際観光ホテル
+cluster1:(18)
+印象, もの, こと, 錦帯橋, 量, ポイント, 場所, ホテル, 室内, 時間, 露天風呂, 利用, 方, 人, 湯田温泉, フェイスタオル, 当方, フロント
+cluster2:(8)
+味, 体験, 景色, 季節, 紅葉, 身体, 桜, 料理
+cluster3:(4)
+小皿, 昼食セット, 皿, 昼食
+cluster4:(14)
+風呂, 温泉らしさ, バスタオル, 露天, 温泉街, 四川料理, 中華料理, 入浴, 浴場, 観光ホテル, 風呂場, 温泉, 観光, 中華
+
+howmany entities : 47
+howmany clusters : 5
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 5
+deleted 0entities.

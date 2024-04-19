@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大村能章の部屋(アスピラート)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+部屋, 遺品
+cluster1:(2)
+昭和, 徒歩
+cluster2:(1)
+作曲家
+cluster3:(3)
+大村能章, 防府駅, 防府市
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲取文化公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+文化公園, 児童公園, 文化公園雛, 稲取文化公園, 公園, 稲取, 稲取散策
+cluster1:(2)
+入館料, 入場料
+cluster2:(4)
+雛, 大つるし雛, 五月人形, つるし雛
+cluster3:(2)
+駐車場, 駐車スペース
+cluster4:(6)
+土産, 温泉街, 足湯, 旅行, 眺望, 気分
+cluster5:(20)
+日本三, マックスバリュー, メイン会場, 温度, 展示, 地元, ひな祭り, 芝生, 飾り, 出入り口, 女の子, 付近, ひな人形, サイド, 雛人形, 中, 場所, タオル, 男の子, 館
+cluster6:(4)
+美しさ, 息物, 屋根つき, 屋根
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 5
+deleted 4entities.

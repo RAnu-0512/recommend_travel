@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熊野町観光案内所「筆の駅」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光案内所, 観光案内, 観光
+cluster1:(3)
+ギャラリー, スポット, パンフレット
+cluster2:(2)
+カフェ, コーヒー
+cluster3:(1)
+感じ
+cluster4:(1)
+ウッドデッキ
+cluster5:(1)
+町
+cluster6:(1)
+売店
+cluster7:(1)
+気候
+cluster8:(5)
+熊野, 熊野町, 筆, 筆づくり, 筆の駅
+
+howmany entities : 18
+howmany clusters : 9
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 9
+deleted 0entities.

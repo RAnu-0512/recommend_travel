@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ステンドハウス・アモー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+難し, 笑顔, 喜び, 手本
+cluster1:(3)
+教室, 生徒, 先生
+cluster2:(3)
+終了, 時間, 作業
+cluster3:(3)
+スタッフ, 仕上がり, フォロー
+cluster4:(5)
+スイッチ, アトリエ, ハンダゴテ, ステンドグラス, サンキャッチャー
+cluster5:(1)
+ハードル
+cluster6:(1)
+初心者
+cluster7:(1)
+ガラス
+cluster8:(4)
+作品, 家, 部分, 色
+cluster9:(1)
+扉
+cluster10:(2)
+指導経験, 経験
+cluster11:(2)
+ステンドグラス体験, 体験
+cluster12:(2)
+ティッシュケース作り, ステンドグラス作り
+cluster13:(1)
+国立駅
+
+howmany entities : 33
+howmany clusters : 14
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 14
+deleted 0entities.

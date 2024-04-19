@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 富士>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+静岡県, 新富士川橋, 富士, 富士川橋, バイパス新富士川橋, 富士由比バイパス, 駅富士
+cluster1:(4)
+そば屋, 当地感, 孫, 孫たち
+cluster2:(4)
+休憩, トイレ休憩, 仮設トイレ, 立入
+cluster3:(2)
+下り, 上り
+cluster4:(2)
+トイレペーパー, トイレ
+cluster5:(2)
+富士川, 富士山
+cluster6:(2)
+ぐらい, 我が家
+cluster7:(6)
+レストラン, おすすめ, テーブル, ドライブ, バイパス, ソフトクリーム
+cluster8:(1)
+ベンチ
+cluster9:(1)
+農産物
+cluster10:(1)
+地下道
+cluster11:(1)
+竹の子
+cluster12:(1)
+紙
+cluster13:(6)
+途中, 方, もの, 状態, 中, 場所
+cluster14:(2)
+外, 移動
+cluster15:(2)
+満載, 抜き
+cluster16:(3)
+国道, 道路, 道
+cluster17:(2)
+ドライブ疲れ, 天気
+cluster18:(2)
+穴場, 旬
+cluster19:(3)
+土産, 売店, 弁当
+cluster20:(4)
+販売, 値段, 営業, 店
+cluster21:(2)
+車, 駅
+cluster22:(2)
+建物, 施設
+cluster23:(1)
+屋上
+cluster24:(1)
+大型トラック
+cluster25:(8)
+駐車場, 上下線, 上り線側, 展望台, 自動販売機, 改修工事, 展望所, 上下
+
+howmany entities : 72
+howmany clusters : 26
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 9
+deleted 27entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩地温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入り放題, かけながし
+cluster1:(6)
+海水浴, 南, 温泉, 丸, 近く, 宿
+cluster2:(2)
+石部, 松崎
+cluster3:(2)
+岩地, 雲見
+cluster4:(1)
+櫻田温泉
+cluster5:(1)
+エ門
+cluster6:(2)
+掛塚屋, 海光苑
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 10entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オフィスナッツ ウォータードライビング浜名湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜松, 浜松駅
+cluster1:(6)
+雨, 寒さ, 暖, 小雨, 気温, 天気
+cluster2:(15)
+スロー, 浜名湖, ストーブ, 中学生, スピード, ホテル, 新幹線, 思い出, ドリンク, カモメ, (*^^*, ティータイム, スタート, 東京, 小学生
+cluster3:(4)
+所, 時期, 時間, 場所
+cluster4:(3)
+心配, 感謝, 気分
+cluster5:(3)
+一生, 手, 体験
+cluster6:(10)
+子供達, 家族, 会話, 餌, 歳, 湖面, 乗船中, 性別, 子供, 船長
+cluster7:(1)
+ママ友
+cluster8:(1)
+小学校低学年
+
+howmany entities : 45
+howmany clusters : 9
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 6
+deleted 4entities.

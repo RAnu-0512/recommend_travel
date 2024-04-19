@@ -1,0 +1,17 @@
+--------------------similar_words:東京メトロ銀座線日本橋駅--------------------
+top3 entities near to cluster0>>
+駅, 地下鉄, 乗換
+top3 entities near to cluster1>>
+改装, 設備, 改修
+top3 entities near to cluster2>>
+東西線, 地下鉄, メトロ
+top3 entities near to cluster3>>
+ホーム, エスカレーター, エレベータ
+top3 entities near to cluster6>>
+東西, 南北, 古今
+top3 entities near to cluster7>>
+化, 具現, 顕在
+top3 entities near to cluster8>>
+壁, 工事, 線路
+top3 entities near to cluster9>>
+高低差, 乗降, 高低

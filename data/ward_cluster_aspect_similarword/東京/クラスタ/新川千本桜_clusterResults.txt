@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新川千本桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+人, 時期, ウォーキングコース
+cluster1:(2)
+両側, 境
+cluster2:(2)
+桜, 花弁
+cluster3:(4)
+江戸川区, 船堀地区, 新川, 葛西地区
+cluster4:(1)
+千本桜
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

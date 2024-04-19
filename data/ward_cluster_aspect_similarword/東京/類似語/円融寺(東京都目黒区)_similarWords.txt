@@ -1,0 +1,13 @@
+--------------------similar_words:円融寺(東京都目黒区)--------------------
+top3 entities near to cluster0>>
+構内, 駅前, 裏手
+top3 entities near to cluster1>>
+寺, 寺院, 座禅
+top3 entities near to cluster3>>
+工事, 改修, 修繕
+top3 entities near to cluster4>>
+改札機, 信号機, 改札, 信号
+top3 entities near to cluster5>>
+歩道, 道幅, 道路
+top3 entities near to cluster6>>
+東急, 駅, 駅前

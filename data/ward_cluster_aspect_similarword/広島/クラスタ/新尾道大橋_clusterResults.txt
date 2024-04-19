@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新尾道大橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+西瀬戸, 本州尾道, 尾道大橋, 尾道, 新尾道大橋, 尾道IC
+cluster1:(2)
+海道最初, 海道
+cluster2:(2)
+本州側, 本州
+cluster3:(25)
+東, 移動, シンボル, 姿, シチュエーション, 駐車場, 下, 車内アナウンス, 此処, 自動車, 市, 千光寺公園, 朝陽, 水道, 橋, 坂の町, 側, アングル, 目線, 付近, 景色, 地域, 向島, 高さ, 橋長
+cluster4:(3)
+市街中心地, 糸崎行き電車, 車窓景観
+cluster5:(1)
+斜張橋でしまなみ海道
+
+howmany entities : 39
+howmany clusters : 6
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 6
+deleted 0entities.

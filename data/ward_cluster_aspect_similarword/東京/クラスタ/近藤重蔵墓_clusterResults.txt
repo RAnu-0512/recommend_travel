@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:近藤重蔵墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+波乱万丈, 北海道, 蓮光寺
+cluster1:(2)
+方, もの
+cluster2:(1)
+人生
+cluster3:(2)
+墓地, 墓標
+cluster4:(2)
+寺号, 西善寺
+cluster5:(4)
+最上徳内, 滋賀県, 近藤, 近藤重蔵
+cluster6:(2)
+瑞雪院, 生涯歩行距離
+cluster7:(1)
+樺太・千島・利尻
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:古川親水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+古川親水公園, 仲井掘親水緑道, 一之江親水公園, 親水公園, けやき公園, 親水緑道
+cluster1:(3)
+子供, 子供達, 子供たち
+cluster2:(25)
+季節, 紫陽花, 水, 散歩道, 場所, ポカポカ, 自然, まつり, 花, ジョギング, 気, 気持ち, ところ, 会話, 感じ, 夏, イベント情報, 関係, 時期, コンクリ, マイナスイオン, 桜, バス, コース, 横長
+cluster3:(3)
+公園, 散歩, 木陰
+cluster4:(2)
+陽気, 天気
+cluster5:(2)
+時間帯, 涼しさ
+cluster6:(12)
+一之江駅, 川沿い, 小川, 一之江コース, 新川古川コース, 船堀駅, 川, 区, 笑)緑, 古川まつり, 江戸川区, 葛西駅
+
+howmany entities : 53
+howmany clusters : 7
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 7
+deleted 0entities.

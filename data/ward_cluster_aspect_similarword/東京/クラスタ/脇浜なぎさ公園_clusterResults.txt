@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:脇浜なぎさ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+養殖場, 駐車場
+cluster1:(11)
+公園, 脇浜, トイレ, 入り口, 浜, ベンチ, 砂浜, 脇, 母島, 人工, 芝生
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

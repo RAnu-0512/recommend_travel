@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山菜観光農園たけのこ狩り園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+人, こと, 子ども, 市, 体験, 注意, 大人, 竹林, 募集, 口コミ, ほう, 地図, 量, タケノコ
+cluster1:(3)
+管理者, 幼稚園児, 安全面
+cluster2:(1)
+たけのこ狩り
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 1entities.

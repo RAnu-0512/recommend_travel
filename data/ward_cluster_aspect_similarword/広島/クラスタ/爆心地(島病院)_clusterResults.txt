@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:爆心地(島病院)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島平和記念資料館, 平和記念公園
+cluster1:(4)
+原子力爆弾, 爆弾, 核爆弾, 原子爆弾
+cluster2:(2)
+爆心, 爆心地
+cluster3:(4)
+昔原爆, 原爆, 原爆ドーム, 原爆地
+cluster4:(2)
+広島原爆ドーム, 原爆ドーム裏
+cluster5:(8)
+島内科医院, 島内科病院, 内科, 病院, 個人病院, 外科病院, 内科病院, 内科医院
+cluster6:(11)
+人類史, 紙屋町方面, 観光客, 商業地域, ツアーコン, 島医院, テニアン島, 街中, 外国人, 中心部, 観光地
+cluster7:(4)
+復興, 平和, 爆発, 戦争
+cluster8:(3)
+広島, 被爆, 長崎
+cluster9:(7)
+もの, 気, 説明, 勉強, 感動, 事, こと
+cluster10:(4)
+地上, ビル, 建物, 上空
+cluster11:(2)
+胸, 心
+cluster12:(10)
+海外, 横, 米, 一角, 前, 天, 周り, こちらへ, 昔, 近く
+cluster13:(2)
+歴史, 資料
+cluster14:(8)
+モニュメント, 平和公園, ガイド, ドライブ, ところ, 拍子抜け, 記念碑, 市街地
+cluster15:(3)
+場所, 写真, 看板
+cluster16:(3)
+車, 人, 家族
+cluster17:(1)
+距離
+cluster18:(4)
+展示写真, 石碑, 碑, 玄関横
+cluster19:(6)
+大事さ, 大切さ, 説明文, 説明板, 恐ろしさ, 案内板
+cluster20:(1)
+軍機B- 29
+
+howmany entities : 91
+howmany clusters : 21
+howmany entities (more than1entities) : 91
+howmany clusters (more than1entities) : 21
+deleted 0entities.

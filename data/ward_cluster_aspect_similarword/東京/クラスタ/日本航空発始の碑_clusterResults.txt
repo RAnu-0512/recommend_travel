@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本航空発始の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石碑, 碑
+cluster1:(4)
+中, こと, 場所, 話題
+cluster2:(6)
+ココ, 飛行機, 日本航空, 代々木公園, サラッ, 日本
+cluster3:(1)
+明治
+cluster4:(3)
+飛行, 初飛行, 日本航空発始
+cluster5:(1)
+代々木練兵場
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:pignic farm&cafe>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ミニブタちゃん, ブタちゃん, ブタちゃん達, ブタちゃんたち, 人懐こいブタちゃん達
+cluster1:(2)
+個室予約, 個室
+cluster2:(2)
+餌, 餌やり
+cluster3:(6)
+大人, 洋服, 女性スタッフ, 店員, おやつ, こどもたち
+cluster4:(18)
+スタッフ, 場所, 口コミ, 他, 坂, 案内, 予約, 焦り, (*^^*, 様子, 庭, 方, 外, 部屋, こと, 忙し, 脚, ズボン
+cluster5:(1)
+撫
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 6
+deleted 0entities.

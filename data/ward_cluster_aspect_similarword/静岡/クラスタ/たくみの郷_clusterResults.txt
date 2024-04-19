@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たくみの郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+ニンジン, 隣, 地元, みくり, 御殿場地方, 蕎麦, 店, そば, 鶏肉, 昼食, 椎茸, 味
+cluster1:(2)
+郷土料理, 食事処
+cluster2:(3)
+田舎風, 田舎蕎麦, そば粉
+cluster3:(4)
+事前予約制, そば打ち体験, そば作り体験, 手作り体験工房
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 2entities.

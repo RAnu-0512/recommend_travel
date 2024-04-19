@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ワタリウム美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+現代アート, 都, 地下
+cluster1:(3)
+建物, 設計, 外観
+cluster2:(2)
+ポストカード, カード
+cluster3:(2)
+ワタリウム美術館, 美術館
+cluster4:(6)
+マリオ・ボッタ, コンテンポラリーアート, カフェ, グリーティングカード, デザイン, ショップ
+cluster5:(7)
+内容, 人, 近く, 注目, 興味, 中, もの
+cluster6:(1)
+ポストカード類
+cluster7:(3)
+私立美術館, 建築家, 外苑
+cluster8:(1)
+異彩
+cluster9:(4)
+ワタリウム美術館#ワタリウム#, 展覧会, 坂本龍一, 企画展
+
+howmany entities : 32
+howmany clusters : 10
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 10
+deleted 0entities.

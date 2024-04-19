@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:服部半蔵の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+場所, 西念寺, 一部, 人物, 四ツ谷, 思い, 江戸城, 手, イメージ, 南, 菩提寺, 中, 漫画
+cluster1:(2)
+墓, 功績
+cluster2:(1)
+信
+cluster3:(11)
+警備, 北門, 槍, 四ツ谷駅, 忍者, 伊賀, 山門, 半蔵, 寺, 国道, 小さなお寺
+cluster4:(5)
+正面奥, 案内板, 本堂脇, 代表格, 住宅街
+cluster5:(5)
+徳川, 服部半蔵, ハットリくん, 徳川家康, 家康
+cluster6:(1)
+お寺入口とお墓
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

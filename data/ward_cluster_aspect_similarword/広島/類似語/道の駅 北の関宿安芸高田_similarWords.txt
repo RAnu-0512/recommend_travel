@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅 北の関宿安芸高田--------------------
+top3 entities near to cluster1>>
+休憩場, 駐車場, 駐車, 休憩
+top3 entities near to cluster2>>
+駅, 構内, 駅前
+top3 entities near to cluster3>>
+隣, 向かい側, 裏手
+top3 entities near to cluster4>>
+焼く

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長楽寺宝物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+七福神めぐり, 寺
+cluster1:(1)
+伊豆
+cluster2:(1)
+悲恋
+cluster3:(1)
+吉観音
+cluster4:(1)
+おすみ弁天
+cluster5:(1)
+長楽寺宝物館
+cluster6:(1)
+日露和親条約
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

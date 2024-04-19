@@ -1,0 +1,11 @@
+--------------------similar_words:特別名勝 三段峡--------------------
+top3 entities near to cluster0>>
+景色, 木々, 季節
+top3 entities near to cluster1>>
+赤, 黄色, 赤色
+top3 entities near to cluster2>>
+紅葉, 黄葉, モミジ
+top3 entities near to cluster3>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster4>>
+辿り, 着く, 着き

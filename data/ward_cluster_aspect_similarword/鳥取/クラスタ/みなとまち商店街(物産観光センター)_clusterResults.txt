@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みなとまち商店街(物産観光センター)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+商店街, まち商店街, みなとまち商店街
+cluster1:(2)
+ピンク醤油, 醤油
+cluster2:(2)
+鳥取, 昭和
+cluster3:(4)
+建物, 内装, 店内, 外観
+cluster4:(8)
+イメージ, 感じ, 中, タワー, 数, もの, 雰囲気, 黒色
+cluster5:(4)
+おみやげもの, 土産, 値段, 商品
+cluster6:(6)
+夢みなとタワー, 特産品, 物産物, 土産屋, 駄菓子屋, 境港市
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

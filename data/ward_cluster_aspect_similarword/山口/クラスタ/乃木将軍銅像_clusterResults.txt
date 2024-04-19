@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乃木将軍銅像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+乃木将軍, 乃木将軍銅像
+cluster1:(3)
+墓所, 銅像, 境内
+cluster2:(3)
+帰省, 将軍, 度
+cluster3:(1)
+東郷神社
+cluster4:(1)
+覚苑寺
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

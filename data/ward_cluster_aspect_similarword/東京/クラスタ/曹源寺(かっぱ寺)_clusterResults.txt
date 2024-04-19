@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:曹源寺(かっぱ寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+合羽屋喜八, 浅草五丁目
+cluster1:(2)
+かっぱ河太郎像, 像
+cluster2:(4)
+河童, 浅草, 松, 上野駅
+cluster3:(4)
+墓, 地名, 土地, コンクリート造り
+cluster4:(2)
+かっぱ橋, 浅草寺
+cluster5:(2)
+ホテル, 関わり
+cluster6:(2)
+近く, 辺り
+cluster7:(3)
+人, 名, 由来
+cluster8:(4)
+価値, 興味, 歴史, 風情
+cluster9:(1)
+私財
+cluster10:(8)
+寺そのもの, 深い寺, 曹洞宗寺院, 曹源寺(かっぱ寺), かっぱ寺, 寺院, 寺, 周辺寺院
+
+howmany entities : 34
+howmany clusters : 11
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海福寺四脚門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+目黒散策, JR目黒駅, 目黒不動, 目黒通り
+cluster1:(2)
+徒歩, 西口
+cluster2:(2)
+形, 事
+cluster3:(3)
+海福寺, 近く, 羅漢寺
+cluster4:(1)
+朱色
+cluster5:(1)
+門
+cluster6:(1)
+明治
+cluster7:(1)
+大きさ
+cluster8:(1)
+建築学
+cluster9:(1)
+四脚門
+
+howmany entities : 17
+howmany clusters : 10
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 10
+deleted 0entities.

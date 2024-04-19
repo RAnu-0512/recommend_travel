@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:メークリヒカイト>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+印象, 味
+cluster1:(6)
+スターナイト, スタッフ, イチゴ, オススメ, ハウス, 時期
+cluster2:(1)
+予約
+cluster3:(1)
+形跡
+cluster4:(1)
+いちご狩り
+cluster5:(3)
+下半分, 半分, 時間帯
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 5entities.

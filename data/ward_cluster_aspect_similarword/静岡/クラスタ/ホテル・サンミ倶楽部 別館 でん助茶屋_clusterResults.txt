@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテル・サンミ倶楽部 別館 でん助茶屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+駐車場, 窓側, テーブル席, 座敷席, 予約, 席, 予約席
+cluster1:(5)
+店員, 客, 店, 開店, 愛想
+cluster2:(23)
+他, 目, 定食, 熱海, たたき, クーポン, ホットペッパー, 窓, ドリンククーポン, 茶碗蒸し, 外, 写真, 果て, 遊び, 文句, 食事, 足, セコイ, 挙げ句, フライ, 気分, オススメ, 金額
+cluster3:(1)
+記念日
+cluster4:(10)
+海側, 魚, アジフライ, カニ, 鯵, エビ天丼, 海, だら油, だらお味噌汁, 生簀
+
+howmany entities : 46
+howmany clusters : 5
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 4
+deleted 1entities.

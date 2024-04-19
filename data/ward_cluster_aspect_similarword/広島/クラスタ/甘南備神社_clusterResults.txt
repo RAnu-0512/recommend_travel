@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:甘南備神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アクセス, 場所
+cluster1:(1)
+神社
+cluster2:(1)
+ナビ
+cluster3:(1)
+流行
+cluster4:(1)
+南備神社
+cluster5:(1)
+駐車場スペース
+cluster6:(1)
+備後国守
+cluster7:(1)
+和銅元年悪疫
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光峨嵋山護国神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+参道, 本殿
+cluster1:(2)
+歴史, 場所
+cluster2:(2)
+戦士たち, 光市
+cluster3:(1)
+山口藩
+cluster4:(1)
+島又兵衛ほか遊撃隊
+cluster5:(1)
+光峨嵋山護国神社
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

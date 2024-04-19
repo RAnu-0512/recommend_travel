@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:【赤坂 まつげと眉の専門店】chiffon>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+店, スタッフ, 空間, 使い方, 担当スタッフ, パウダー, こだわり, メイク, 声, 時間, サロン, 中, 部屋, 雰囲気
+cluster1:(2)
+まつ毛パーマ, 眉毛
+cluster2:(2)
+施術, 予約
+cluster3:(1)
+描き方
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

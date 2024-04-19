@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲取池尻海浜プール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 大人
+cluster1:(3)
+見守り, 目, プール
+cluster2:(1)
+記憶
+cluster3:(1)
+洋服
+cluster4:(1)
+子供連れ
+cluster5:(1)
+保護者
+cluster6:(1)
+稲取
+cluster7:(1)
+海岸沿い
+cluster8:(1)
+施設利用料
+
+howmany entities : 12
+howmany clusters : 9
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 9entities.

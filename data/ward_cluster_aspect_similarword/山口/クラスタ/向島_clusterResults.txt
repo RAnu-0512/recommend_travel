@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:向島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蓬莱桜, 寒桜
+cluster1:(2)
+錦橋, 可動橋
+cluster2:(11)
+橋, 大型, 船, 校庭, 運, 桜, 木, 山, 南部, 中央, 海
+cluster3:(4)
+こと, 場所, 時期, 感じ
+cluster4:(2)
+生活, 自然
+cluster5:(12)
+小学校, スポット, タヌキ, 国, 天然記念物, アクセス, タイプ, 雰囲気, 瀬戸内海, 陸続き, 上, おかげ
+cluster6:(1)
+開通
+cluster7:(1)
+面積
+cluster8:(13)
+島, 本島, 防府市, 向島, 製塩, 島々, 本土タヌキ, 本土, 事実上陸続き, 観光スポット, 瀬戸内海上, 中関, 観光
+cluster9:(6)
+生息地, タヌキ生息地, 瀬戸内海上に浮かぶ島, 瀬戸内海に浮かぶ島, 向島タヌキ生息地, 生息数
+
+howmany entities : 54
+howmany clusters : 10
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 10
+deleted 0entities.

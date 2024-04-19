@@ -1,0 +1,13 @@
+--------------------similar_words:上下画廊(ランプ展示館)--------------------
+top3 entities near to cluster0>>
+ランプ, 雰囲気, ムード
+top3 entities near to cluster1>>
+人達, 大勢
+top3 entities near to cluster2>>
+作品, 作風
+top3 entities near to cluster3>>
+人気, 大人気, 定番
+top3 entities near to cluster4>>
+天井, 壁面, 棧敷
+top3 entities near to cluster6>>
+画廊, 上下, 個展

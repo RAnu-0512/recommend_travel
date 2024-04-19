@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かまがり温泉やすらぎの館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+温泉やすらぎ, 館, サウナ, 設備, 温泉, 景色
+cluster1:(2)
+蒲刈島, 蒲刈温泉
+cluster2:(2)
+広島県, 呉市
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩温泉郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+萩温泉郷, 萩
+cluster1:(2)
+カニ, フグ
+cluster2:(2)
+中心, 温泉
+cluster3:(2)
+萩本陣温泉, 萩彩会席
+cluster4:(1)
+萩温泉郷・弘法寺の湯・萩グランドホテル天空
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

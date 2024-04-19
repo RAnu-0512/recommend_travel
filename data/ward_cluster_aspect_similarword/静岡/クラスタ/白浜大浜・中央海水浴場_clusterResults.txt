@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白浜大浜・中央海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(36)
+車, 駐車場, 海水浴場, 目, 風情, 顔, 泳ぎ, 水, ビーチ, ホテル, 秋, 家族連れ, こと, 海岸, 夕暮れ, 浜, 北側, 海水浴客, 人, 気持ち, 別, 感じ, 旅行, (*^^*, 海, 道路, 砂浜, 浜辺, コンビニ, 砂丘, 場所, ブルーヘブン, 昼間, 前, 若者, 方
+cluster1:(6)
+静岡県, 白浜大浜海水浴場, 伊豆白浜, 下田, 白浜, 白浜中央海水浴場
+
+howmany entities : 42
+howmany clusters : 2
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 2
+deleted 0entities.

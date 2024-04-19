@@ -1,0 +1,11 @@
+--------------------similar_words:瀬戸公園_さくら--------------------
+top3 entities near to cluster0>>
+大橋, 瀬戸, 内海
+top3 entities near to cluster1>>
+木々, 桜, 花
+top3 entities near to cluster2>>
+海船, 海, 船舶
+top3 entities near to cluster3>>
+架かる橋, 架かる, 陸橋
+top3 entities near to cluster5>>
+休憩, 所内, トイレ

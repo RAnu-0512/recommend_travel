@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新稲子川温泉ユー・トリオ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+温泉, 内湯, 温泉プール, 露天, 風呂
+cluster1:(3)
+心配, 思いスマホ, 感じ
+cluster2:(2)
+屋根, 室内
+cluster3:(3)
+時間, 日, 位
+cluster4:(8)
+道のり, 帰り, 使用, プール, 露天風呂, 子供, 湯上り, 施設
+cluster5:(1)
+白糸
+cluster6:(1)
+休息所
+cluster7:(1)
+開放感
+cluster8:(1)
+かけ流し風呂
+
+howmany entities : 25
+howmany clusters : 9
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 6entities.

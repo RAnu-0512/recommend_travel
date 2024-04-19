@@ -1,0 +1,11 @@
+--------------------similar_words:歌碑と万葉陶壁--------------------
+top3 entities near to cluster1>>
+壁, 壁面, 内壁
+top3 entities near to cluster2>>
+駅, 駅前, 南口
+top3 entities near to cluster3>>
+歌碑, 句碑, 詩碑
+top3 entities near to cluster4>>
+万葉, 陶, 九谷
+top3 entities near to cluster5>>
+呉線, 福塩線, ＪＲ

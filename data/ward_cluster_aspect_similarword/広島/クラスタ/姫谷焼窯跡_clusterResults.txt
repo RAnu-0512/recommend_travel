@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:姫谷焼窯跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+窯跡, 茶碗
+cluster1:(1)
+右衛門
+cluster2:(1)
+姫谷焼
+cluster3:(1)
+初期色絵磁器
+cluster4:(1)
+江戸時代前期に陶工市
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:男鹿山スズラン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+自生すずらん, 自生スズラン
+cluster1:(2)
+町花, 町
+cluster2:(5)
+人, すずらん, スズラン, 日本, 花
+cluster3:(3)
+場所, もの, 別名
+cluster4:(1)
+終わり頃
+cluster5:(1)
+野生
+cluster6:(4)
+広島県, きみかげ草, 世羅町, 世羅郡
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 7
+deleted 0entities.

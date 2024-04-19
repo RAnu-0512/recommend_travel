@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桜ケ池不動尊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+池不動尊, 池
+cluster1:(6)
+不動尊, 心, 味わい, 雰囲気, 場所, あたり
+cluster2:(2)
+新井薬師前駅, 中野
+cluster3:(3)
+手水鉢, 桜ヶ池, 龍吐
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

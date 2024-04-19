@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ東西線東陽町駅--------------------
+top3 entities near to cluster0>>
+駅, 始発, 駅前
+top3 entities near to cluster1>>
+免許人, 免許, バス
+top3 entities near to cluster2>>
+北方面, 西方面, 北方, 西方
+top3 entities near to cluster3>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster4>>
+永代, 蔵前橋

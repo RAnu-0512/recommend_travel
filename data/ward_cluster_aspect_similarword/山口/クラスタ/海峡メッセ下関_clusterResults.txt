@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海峡メッセ下関>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+下関駅, 海峡夢タワー, 国際拠点港湾, 海峡メッセ, 海峡ゆめタワー, 山口国際総合センター, 国際貿易ビル, 下関港国際ターミナル, 下関港, 下関
+cluster1:(2)
+名称, 通称
+cluster2:(2)
+中, 方
+cluster3:(2)
+タワー, シンボルタワー
+cluster4:(2)
+オフィス, ビジネス
+cluster5:(4)
+イベント, ランドマークタワー, レストラン, イメージ
+cluster6:(1)
+テナント
+cluster7:(1)
+アリーナ
+cluster8:(1)
+パスポートセンター
+cluster9:(2)
+関門海峡, ライト
+cluster10:(1)
+巌流島
+cluster11:(8)
+施設, 広場, 橋, ゆめタワー, 公園, 風景, 天気, 建物
+cluster12:(2)
+お土産屋, お土産物屋
+cluster13:(3)
+観光案内所, 観光客, 観光
+cluster14:(2)
+会議室, 展望室
+cluster15:(3)
+飲食店, 施設群, 商業施設
+cluster16:(3)
+展示会場, イベント会場, 駐車場
+cluster17:(2)
+立て看板, 玄関口
+
+howmany entities : 51
+howmany clusters : 18
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 18
+deleted 0entities.

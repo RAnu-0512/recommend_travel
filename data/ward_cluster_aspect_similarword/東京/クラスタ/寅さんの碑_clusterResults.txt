@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寅さんの碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+柴又駅, 柴又帝釈天, 葛飾柴又, 柴又
+cluster1:(4)
+渥美, 寅, 寅さん, 山田洋二
+cluster2:(2)
+帝釈天参道, 参道
+cluster3:(2)
+石碑, 碑
+cluster4:(3)
+字, 付近, 脇
+cluster5:(9)
+フーテン, セリフ, 昔, 泣き笑い, 思い出, 入り口, スポット, 帝釈天, 男
+cluster6:(3)
+作品, 言葉, 文章
+cluster7:(1)
+気分
+cluster8:(1)
+口上
+cluster9:(4)
+観光, 映画男, 名台詞, 映画
+
+howmany entities : 33
+howmany clusters : 10
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 10
+deleted 0entities.

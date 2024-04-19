@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口萩焼ヤマトズギャラリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+姿, もの, 予約, 見学, こと, 体験, 機会, 最後, 形, 気, 追加, 参考, 最初作り方, 世話, 納得, 作成, 経験, 愛着
+cluster1:(2)
+コップ, 焼き物
+cluster2:(11)
+スタイリッシュ, 久しぶり, 仕上がり, 子ども, 出来上がり, 初心者, 思い出, ギャラリー, 小学生, 出来事, イメージ
+cluster3:(3)
+店, 一品, 料理
+cluster4:(3)
+家族, 夫婦, 妻
+cluster5:(6)
+先生, 色, 手, 笑顔, 指導, 作品
+cluster6:(3)
+それぞれ裏, 時間, 自宅
+cluster7:(3)
+乾燥, 梱包, 粘土
+cluster8:(1)
+距離感
+cluster9:(15)
+器, 大皿造り, 完成品, 皿, 焼き, 甥っ子, 子供達, 陶芸初心者, 茶碗, 絵付け体験, 子供たち, 釜, 絵付け, 焼き上がり, 陶芸体験
+cluster10:(2)
+ろくろ体験, ろくろ
+cluster11:(3)
+萩焼, 萩焼き, 萩焼体験
+cluster12:(3)
+山口, 萩, 山口市
+
+howmany entities : 73
+howmany clusters : 13
+howmany entities (more than1entities) : 73
+howmany clusters (more than1entities) : 13
+deleted 0entities.

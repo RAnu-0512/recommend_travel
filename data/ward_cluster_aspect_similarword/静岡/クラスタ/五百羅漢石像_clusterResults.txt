@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五百羅漢石像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+羅漢像, 羅漢, 羅漢石像
+cluster1:(2)
+朝鮮通信使ゆかり, 江戸時代
+cluster2:(10)
+斜面, 石像, 家康, 表情, 本堂, 境内, 顔, 興津, 違い, 姿
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:蛇窪神社--------------------
+top3 entities near to cluster0>>
+御朱印, 小学校, 中学校
+top3 entities near to cluster1>>
+神社, 境内, 本殿
+top3 entities near to cluster3>>
+白蛇, 吐信, 蛇
+top3 entities near to cluster4>>
+中延, 駅, 荏原町
+top3 entities near to cluster5>>
+東急線, 町線, 東急, 町

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:調布飛行場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小田急バス調40系統調布飛行場, 陸軍三式戦
+cluster1:(8)
+都立武蔵野, 小山, 伊豆大島, 豪, 調布飛行場, 堤豪, 羽田, 三鷹台駅
+cluster2:(17)
+周囲, 北側, バス停, 深大寺, 飛行機, 家, 離着陸, 人, 思い, 素スタジアム, 姿, 大戦, 見学, 写真, こと, 飛行場, もの
+cluster3:(4)
+芝生, 公園, 散歩先, 森公園
+cluster4:(3)
+地方空港, 空港ロビー, 空港
+cluster5:(2)
+コミュニティーバス, 電気バス
+cluster6:(15)
+小型機, 機体形状, 荷物, 消毒アルコール, 航空ファン, 運航, 距離, 予約制, 重量配分, 座席, 体重, プロペラ機, 計量, ドルニエ機, 重量
+cluster7:(1)
+滑走路
+
+howmany entities : 52
+howmany clusters : 8
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 8
+deleted 0entities.

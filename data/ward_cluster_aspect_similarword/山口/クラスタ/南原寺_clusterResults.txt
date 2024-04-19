@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南原寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+しだれ桜, 芙蓉
+cluster1:(12)
+種類, 寺, 花, ネット, ピンク, 紫, 群生, 猫, こと, 盛り, 近く, 彼岸花
+cluster2:(2)
+四季折々, 神宮皇后
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

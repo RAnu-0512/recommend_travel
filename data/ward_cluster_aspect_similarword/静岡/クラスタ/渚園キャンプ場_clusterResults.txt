@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渚園キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+車, 浜名湖, イベント, 音楽, バイク, 小春日和, キャラクター, リヤカー, キャンプ, バイクイベント, 気持ち, キャラ, ウォット, トイレ, テント, バーベキュー, タープ
+cluster1:(5)
+敷地, 売店, バーベキュー設備, 奥, 広場
+cluster2:(3)
+開催, 野外イベント, キャンプ日和
+cluster3:(2)
+完備, 使用料
+cluster4:(2)
+何か忘れ物, 関係者
+cluster5:(2)
+各家, 当地キャラ
+cluster6:(3)
+機会, 活気, 絶好
+cluster7:(9)
+処, こと, 男たち, 楽しみつつ, 人, 迷惑, 友達, 声, 話
+cluster8:(7)
+格安キャンプ場, 芝生, 浜名湖体験学習施設ウォット, キャンプ場, 大型駐車場, 芝生場, 渚園駐車場
+
+howmany entities : 50
+howmany clusters : 9
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 6
+deleted 6entities.

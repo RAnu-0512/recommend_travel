@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花畑大鷲神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+市, 歴史, 利益, 神社, お宮参り, 木, 酉, 宮参り, 世話
+cluster1:(2)
+浅草の鷲神社, 花畑大鷲神社
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

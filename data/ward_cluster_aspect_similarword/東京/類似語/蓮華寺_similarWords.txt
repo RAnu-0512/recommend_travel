@@ -1,0 +1,21 @@
+--------------------similar_words:蓮華寺--------------------
+top3 entities near to cluster0>>
+北口, 駅前, 南口
+top3 entities near to cluster1>>
+信長, 家康, 光秀
+top3 entities near to cluster2>>
+歩道, 横断, 道路
+top3 entities near to cluster4>>
+駅, バス, 最寄り駅
+top3 entities near to cluster5>>
+天皇, 歴史, 境内
+top3 entities near to cluster6>>
+寺, 戒長, 寶勝
+top3 entities near to cluster7>>
+敷地外, 塀, 敷地
+top3 entities near to cluster8>>
+寺院, 散歩
+top3 entities near to cluster9>>
+哲学堂, 哲学
+top3 entities near to cluster10>>
+円了, 井上, 圓了

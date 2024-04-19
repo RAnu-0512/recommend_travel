@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草寺 手水舎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+龍神像, 墨絵の龍, 像
+cluster1:(3)
+龍神, 龍, 神
+cluster2:(2)
+本堂, 天井
+cluster3:(7)
+水, 観音堂, 浅草寺, 御影石, 近く, 手, 石
+cluster4:(1)
+遺構
+cluster5:(1)
+手前右手
+cluster6:(1)
+八角形
+cluster7:(5)
+沙竭羅龍王, 浅草寺の二天門, 高村光雲作, 手水舎, 手水鉢
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

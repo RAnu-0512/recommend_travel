@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鋳銭司郷土館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示室, 展示
+cluster1:(8)
+明治, 関係, 日本, 本物, 部屋, 文書, ところ, 徒歩
+cluster2:(2)
+貨幣, 鋳銭司村
+cluster3:(1)
+大村益次郎
+cluster4:(1)
+JR四辻駅
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,43 @@
+--------------------similar_words:浜名湖ガーデンパーク--------------------
+top3 entities near to cluster0>>
+カフェ, ショップ, アート
+top3 entities near to cluster1>>
+色とりどり, 子ども, 紫陽花
+top3 entities near to cluster3>>
+家族連れ, つれ, 家族
+top3 entities near to cluster5>>
+人達, 大勢
+top3 entities near to cluster8>>
+庭園, 中庭, 美術館
+top3 entities near to cluster11>>
+散歩, 散策, 出掛け
+top3 entities near to cluster12>>
+公園, 広場, 噴水
+top3 entities near to cluster13>>
+水遊び, 川遊び, 砂遊び
+top3 entities near to cluster14>>
+庭, 花壇
+top3 entities near to cluster15>>
+桟橋, 花
+top3 entities near to cluster16>>
+木水, 土水, 土, 木
+top3 entities near to cluster19>>
+子供, 動物, 子ども
+top3 entities near to cluster20>>
+季節, 満開, 梅雨
+top3 entities near to cluster21>>
+駐車場, 駐車, 満車
+top3 entities near to cluster22>>
+花, お花, 草花
+top3 entities near to cluster23>>
+入園, 入場, 入館
+top3 entities near to cluster24>>
+公園, 博覧, 万博
+top3 entities near to cluster25>>
+展望, 展望台, 眺望
+top3 entities near to cluster27>>
+植物園, 動物園, 動物, 植物
+top3 entities near to cluster28>>
+宿泊者, 施設, 宿泊
+top3 entities near to cluster29>>
+園内, 有料, 館内

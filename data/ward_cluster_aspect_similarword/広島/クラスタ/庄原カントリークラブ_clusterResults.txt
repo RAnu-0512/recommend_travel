@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:庄原カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+会員制クラブ, 女性参加者
+cluster1:(20)
+上級ゴルファー, コンディション, 評判, 方, 良さ, コース, グリーン, コ, 設備, ドレスコード, コンペ, 名門クラブ, ゴルフ, コース設計, 手入れ, クラブ紹介, 戦略性, フェアウェイ, ゴルフコース, 女性
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 2
+deleted 0entities.

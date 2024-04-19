@@ -1,0 +1,39 @@
+--------------------similar_words:東京おもちゃ美術館--------------------
+top3 entities near to cluster0>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster2>>
+美術館, 博物館, ミュージアム
+top3 entities near to cluster3>>
+子ども, 子供, おもちゃ
+top3 entities near to cluster5>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster6>>
+ぬくもり, なつかしい, 温もり
+top3 entities near to cluster7>>
+ロッカー, スペース, ルーム
+top3 entities near to cluster8>>
+おすすめ, スタッフ, イメージ
+top3 entities near to cluster9>>
+セット, 単品, フルセット
+top3 entities near to cluster10>>
+国内外, 世界中, 内外
+top3 entities near to cluster11>>
+仕掛け, 仕掛ける, 仕掛けよ
+top3 entities near to cluster12>>
+ショップ, カフェ, ギャラリー
+top3 entities near to cluster14>>
+館内, 店内, 室内
+top3 entities near to cluster15>>
+施設, 建物, 駅
+top3 entities near to cluster16>>
+子供, 子ども, 家族
+top3 entities near to cluster18>>
+おむつ替え, 授乳, おむつ
+top3 entities near to cluster19>>
+展示, 出展, 展覧
+top3 entities near to cluster20>>
+閉館, 開館, 休館
+top3 entities near to cluster21>>
+木製, 雑貨, 木
+top3 entities near to cluster22>>
+子供, 子ども, 学校

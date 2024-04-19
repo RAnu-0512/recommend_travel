@@ -1,0 +1,17 @@
+--------------------similar_words:学習院旧正門--------------------
+top3 entities near to cluster0>>
+重厚感, 存在感, 重厚, 存在
+top3 entities near to cluster1>>
+特徴, 印象, 雰囲気
+top3 entities near to cluster2>>
+目白, 正門, 駅前
+top3 entities near to cluster3>>
+建造, 建築, 建物
+top3 entities near to cluster4>>
+重要, 指定, 文化財
+top3 entities near to cluster5>>
+町, 錦, 神田
+top3 entities near to cluster6>>
+学習院, 教育院, 学習, 教育
+top3 entities near to cluster7>>
+中学, 高校, 中高

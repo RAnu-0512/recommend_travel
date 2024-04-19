@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳩の巣バンガロー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+上流, 上流沿い
+cluster1:(2)
+虫, 蚊
+cluster2:(6)
+木, 川, 台風, 奥多摩町, 都心, 規格
+cluster3:(22)
+所, 水浸し, 匂い, 自然, 私達, いくつか, 人, 多摩川, 口コミ, 気, 上手, 話, 夫婦, バンガロー, 家族, 施設, 階段, キャンプ, 部屋, 方, 中, バーベキュー
+cluster4:(1)
+床張り
+cluster5:(1)
+東京都
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 6
+deleted 0entities.

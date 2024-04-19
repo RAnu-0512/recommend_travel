@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大手門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+入口, 鉤手先, 門, 入り口側, 正門, 側
+cluster1:(10)
+大手町, チェック, 光景, 場所, 現代, 江戸城, 入り口, 大手門, 歴史, 訪問
+cluster2:(2)
+荷物, 天気
+cluster3:(3)
+オフィス街, 皇居, 大手町駅
+cluster4:(1)
+豪壮さ
+cluster5:(4)
+渡櫓門, 高麗門, 皇居東御苑, 枡形門
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 6
+deleted 0entities.

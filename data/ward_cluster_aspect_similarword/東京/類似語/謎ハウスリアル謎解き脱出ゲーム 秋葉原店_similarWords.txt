@@ -1,0 +1,27 @@
+--------------------similar_words:謎ハウスリアル謎解き脱出ゲーム 秋葉原店--------------------
+top3 entities near to cluster0>>
+解き, 謎, 解く
+top3 entities near to cluster1>>
+方向性, 可能性, 方向, 可能
+top3 entities near to cluster2>>
+受付店, 店舗, 受付
+top3 entities near to cluster3>>
+中級, 初級, 上級
+top3 entities near to cluster4>>
+部屋, 鍵, 階段
+top3 entities near to cluster5>>
+仕組み, ヒント, 雰囲気
+top3 entities near to cluster6>>
+不具合, トイレ, トラブル
+top3 entities near to cluster7>>
+ストーリー, ゲーム, コース
+top3 entities near to cluster8>>
+口コミ, 評判, クチコミ
+top3 entities near to cluster9>>
+コール, ボタン, リダイヤルボタン
+top3 entities near to cluster11>>
+愛想, 態度, 無愛想
+top3 entities near to cluster13>>
+埒, ラチ, あか
+top3 entities near to cluster14>>
+脱出, ビル, 雑居

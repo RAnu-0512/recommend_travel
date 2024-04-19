@@ -1,0 +1,17 @@
+--------------------similar_words:真教寺公園--------------------
+top3 entities near to cluster0>>
+公園, 遊歩道, 噴水
+top3 entities near to cluster1>>
+園内, 徒歩, 各地
+top3 entities near to cluster2>>
+子供, 子, 子ども
+top3 entities near to cluster3>>
+光景, 続発, 頻発
+top3 entities near to cluster4>>
+暑い, 猛暑, 酷暑
+top3 entities near to cluster5>>
+熱中症, 感染症, 熱中, 感染
+top3 entities near to cluster7>>
+動物園, 植物園, 動物, 植物
+top3 entities near to cluster8>>
+動物, 動植物, 公園

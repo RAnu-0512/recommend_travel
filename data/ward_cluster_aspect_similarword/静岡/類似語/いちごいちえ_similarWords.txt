@@ -1,0 +1,27 @@
+--------------------similar_words:いちごいちえ--------------------
+top3 entities near to cluster0>>
+イチゴ, ハウス, 苺
+top3 entities near to cluster1>>
+自宅, 夕方, 昼間
+top3 entities near to cluster6>>
+椅子, 列, 自由
+top3 entities near to cluster8>>
+人達, 家族
+top3 entities near to cluster9>>
+店員, 接客
+top3 entities near to cluster10>>
+土産, 旅, 荷物
+top3 entities near to cluster12>>
+受付, 予約, 案内
+top3 entities near to cluster19>>
+印象, 気分, 評判
+top3 entities near to cluster20>>
+機会, 是非
+top3 entities near to cluster22>>
+狩り, 狩る, イチゴ
+top3 entities near to cluster25>>
+農園, 農場, 一人
+top3 entities near to cluster27>>
+練乳, 甘い, イチゴ
+top3 entities near to cluster28>>
+いち, こく, がり

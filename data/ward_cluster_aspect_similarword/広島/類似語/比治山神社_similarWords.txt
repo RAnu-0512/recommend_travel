@@ -1,0 +1,11 @@
+--------------------similar_words:比治山神社--------------------
+top3 entities near to cluster0>>
+宮司, 神社, 神主
+top3 entities near to cluster1>>
+参り, まいり, いき
+top3 entities near to cluster2>>
+朱印, 御朱印, 寶印
+top3 entities near to cluster3>>
+和令, 遷界令, 和, 遷界
+top3 entities near to cluster4>>
+駐車場, 駐車, 場裏

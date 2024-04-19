@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大仁温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+脱衣所, コロナ対策で脱衣所
+cluster1:(4)
+日帰り温泉, 温泉, 温泉地, 温泉効果
+cluster2:(2)
+足湯, 湯
+cluster3:(3)
+湯船, 入浴, 風呂
+cluster4:(1)
+浴場
+cluster5:(1)
+熱湯
+cluster6:(1)
+長湯
+cluster7:(2)
+玄関, 玄関入り口
+cluster8:(3)
+梅, 鮎, 桜
+cluster9:(28)
+終了, 所, バイク, ホテル, ジャイアンツ, こと, 伺い, 外, カラン, スペース, バイカー, カラオケ, 手, 富士山, 露天風呂, 汗, 神社, バルコニー, イス, 高台, 足, 体感, トイレ, 到着, ツルツル, バイキング, タオル, 方
+cluster10:(6)
+宿泊, 料理, 料金, 宿, 部屋, 夫婦
+cluster11:(2)
+鉄道, 走行
+cluster12:(4)
+低め, 肌, 負担, 温度
+cluster13:(8)
+徹底ぶり, 清掃, 洗い, 熱め, 無料室, アルコール消毒, 予約制, マスク着用
+cluster14:(1)
+実働
+cluster15:(6)
+大仁駅, 長嶋茂雄ロード, 大仁, 大仁温泉, 長嶋茂雄, 大仁神社
+
+howmany entities : 74
+howmany clusters : 16
+howmany entities (more than3entities) : 62
+howmany clusters (more than3entities) : 8
+deleted 12entities.

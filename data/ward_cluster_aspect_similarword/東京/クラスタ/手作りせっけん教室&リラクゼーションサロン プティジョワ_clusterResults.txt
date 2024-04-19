@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:手作りせっけん教室&リラクゼーションサロン プティジョワ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+石鹸, 宝石石けん, 手作り石けん
+cluster1:(11)
+娘, 組み合わせ, 先生, 匂い, 形, 教室, 個性, もの, 趣き, 仕上がり, 色
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

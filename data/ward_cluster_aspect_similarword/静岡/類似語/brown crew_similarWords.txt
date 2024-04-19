@@ -1,0 +1,13 @@
+--------------------similar_words:brown crew--------------------
+top3 entities near to cluster0>>
+イチゴ, 苺, いちご
+top3 entities near to cluster1>>
+子供, 子ども, 大人
+top3 entities near to cluster4>>
+口コミ, スタッフ, 思い出
+top3 entities near to cluster6>>
+通路, 接客
+top3 entities near to cluster8>>
+予約, 受付, 事前
+top3 entities near to cluster11>>
+心境, 姿勢, 気分

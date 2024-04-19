@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東大寺別院阿弥陀寺_あじさい>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+アジサイ祭り, 名所, 祭り, 品種
+cluster1:(18)
+階段, 思い, こと, 紫陽花, 季節, 山アジサイ, 気, 車, 種類, 緑, 雰囲気, バランス, 足元, アジサイ, あじさい, 色とりどり, 列, 靴
+cluster2:(7)
+あじさい寺, 境内, 本堂, 寺, 仁王像, 山門, アジサイとお寺
+cluster3:(5)
+寺.4000株ものアジサイ, 入山料, 西のアジサイ寺, 駐車場待ち, 茅葺
+
+howmany entities : 34
+howmany clusters : 4
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 4
+deleted 0entities.

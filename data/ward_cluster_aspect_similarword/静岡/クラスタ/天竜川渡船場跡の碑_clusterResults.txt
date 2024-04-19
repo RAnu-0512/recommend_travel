@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天竜川渡船場跡の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+南, 脇
+cluster1:(5)
+場所, 渡し, 天竜川, 事件, 渡し船
+cluster2:(1)
+碑
+cluster3:(1)
+西行
+cluster4:(5)
+渡し船場跡, 駐車場, 堤防道路, 堤防沿い, 池田の渡し公園
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 4entities.

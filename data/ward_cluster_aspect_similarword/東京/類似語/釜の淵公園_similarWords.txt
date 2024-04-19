@@ -1,0 +1,13 @@
+--------------------similar_words:釜の淵公園--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 満車
+top3 entities near to cluster1>>
+灰皿, 喫煙, タバコ
+top3 entities near to cluster2>>
+木火, 土, 木
+top3 entities near to cluster3>>
+駅橋, 駅, 陸橋
+top3 entities near to cluster4>>
+ゴミ, ごみ, ゴミ箱
+top3 entities near to cluster5>>
+川, 河原, 炭

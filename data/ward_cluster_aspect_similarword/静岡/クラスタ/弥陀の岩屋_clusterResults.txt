@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥陀の岩屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+弥陀山, 弥陀
+cluster1:(6)
+うわさ, こと, 弓ヶ浜, 別, 中, 夏休み
+cluster2:(3)
+奥, 南側, 近く
+cluster3:(1)
+日光
+cluster4:(2)
+本坑, 岸壁
+cluster5:(5)
+暗闇, 穴, 岩屋, 洞, 洞窟
+cluster6:(1)
+断層
+cluster7:(2)
+海蝕洞窟, 集塊岩
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 8entities.

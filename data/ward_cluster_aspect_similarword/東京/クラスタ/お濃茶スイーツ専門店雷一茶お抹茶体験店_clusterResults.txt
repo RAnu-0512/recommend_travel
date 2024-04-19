@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お濃茶スイーツ専門店雷一茶お抹茶体験店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+浅草寺, 子供, 茶, 上手, 和室, 作法, 和菓子, 体験, 店員, 椅子, 方, 説明, 講師
+cluster1:(3)
+抹茶, 抹茶体験, 石臼
+cluster2:(1)
+貸切状態
+cluster3:(1)
+練りきり
+cluster4:(1)
+濃茶ソフト
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

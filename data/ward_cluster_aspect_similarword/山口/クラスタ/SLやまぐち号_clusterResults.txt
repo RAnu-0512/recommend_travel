@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SLやまぐち号>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+窓口, 売店
+cluster1:(13)
+機関車, テーブル, グリーン車, スタイル, 津和野, スマホ, トイレ, コンセント, グループ, 仕切り, スペース, 人, コロナ
+cluster2:(3)
+もの, こと, 物
+cluster3:(2)
+途中, 昼食
+cluster4:(3)
+店, 写真, 界隈
+cluster5:(1)
+奥
+cluster6:(5)
+締切, 記念写真, ウイルス対策, 確保, 利用者
+cluster7:(1)
+新山口
+cluster8:(18)
+津和野城, 長時間停車, 窓, 観光列車, 普通席, 車, 車窓, 普通車, グリーン席, 乗車, 客車, 車内販売, SL, 車内, 列車, 席, 駅, 津和野駅
+cluster9:(2)
+やまぐち号, レトロ調
+cluster10:(6)
+乗務員室, 至れり尽くせり, 多目的室, 往路展望室, 復路展望室, 展望室
+
+howmany entities : 56
+howmany clusters : 11
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中山晋平記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中山晋平の記念館, 中山晋平記念館
+cluster1:(5)
+梅園, 夫婦熱海梅園, 梅園内, 熱海梅園, 熱海市
+cluster2:(2)
+中山, 中山晋平
+cluster3:(2)
+入館無料, 記念館
+cluster4:(2)
+作曲, 作曲家
+cluster5:(4)
+玄関, 宅, 別荘, 靴
+cluster6:(7)
+音楽, 昔, 人, 歴史, 中, ピアノ, 曲
+cluster7:(3)
+こと, もの, 物
+cluster8:(2)
+建物, 施設
+cluster9:(2)
+年配, 趣
+cluster10:(2)
+昭和, 童謡
+cluster11:(1)
+シャボン玉
+
+howmany entities : 34
+howmany clusters : 12
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 15entities.

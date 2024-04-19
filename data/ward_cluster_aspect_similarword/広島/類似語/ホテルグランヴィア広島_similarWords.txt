@@ -1,0 +1,37 @@
+--------------------similar_words:ホテルグランヴィア広島--------------------
+top3 entities near to cluster1>>
+利用券, 割引券, 利用, 割引
+top3 entities near to cluster2>>
+ムース, アイス, アイスクリーム
+top3 entities near to cluster3>>
+スタッフ, サービス, 雰囲気
+top3 entities near to cluster4>>
+ステーキ, フレンチ, アツアツ
+top3 entities near to cluster5>>
+コーヒー, ドリンク, ラウンジ
+top3 entities near to cluster6>>
+デザート, ビュッフェ, ビッフェスタイル
+top3 entities near to cluster8>>
+コース, フォレストコース, レイクコース
+top3 entities near to cluster9>>
+フロア, 各階, 地階
+top3 entities near to cluster10>>
+フェア, 酉市, スカボロウ
+top3 entities near to cluster12>>
+チョコ, チョコレート, キャラメル
+top3 entities near to cluster13>>
+手作り, 手づくり, スイーツ
+top3 entities near to cluster14>>
+スープ, サラダ, 玉ねぎ
+top3 entities near to cluster15>>
+パン, アユ, 花
+top3 entities near to cluster17>>
+料理, 食材, 食事
+top3 entities near to cluster18>>
+料理, 食材, 懐石
+top3 entities near to cluster19>>
+料理, 肉
+top3 entities near to cluster20>>
+正規, 料理店, 料理
+top3 entities near to cluster22>>
+苺, イチゴ, いちご

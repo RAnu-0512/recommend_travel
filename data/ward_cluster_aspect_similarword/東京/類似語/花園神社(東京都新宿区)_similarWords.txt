@@ -1,0 +1,53 @@
+--------------------similar_words:花園神社(東京都新宿区)--------------------
+top3 entities near to cluster0>>
+風情, 雰囲気, 趣き
+top3 entities near to cluster1>>
+入り口, 雰囲気, 賑やか
+top3 entities near to cluster2>>
+劇, 香り, 風味
+top3 entities near to cluster4>>
+右端, 左下, 左端
+top3 entities near to cluster5>>
+縁, 端, 両端
+top3 entities near to cluster6>>
+外れ, 外れる
+top3 entities near to cluster7>>
+飾る, 飾っ
+top3 entities near to cluster8>>
+人気, 歴史, 有名
+top3 entities near to cluster10>>
+瞬間, 写真, 一瞬
+top3 entities near to cluster12>>
+裏側
+top3 entities near to cluster13>>
+建物, 入口
+top3 entities near to cluster14>>
+大勢, 人達
+top3 entities near to cluster15>>
+初詣, 新年, 初もうで
+top3 entities near to cluster16>>
+祭り, 屋台, 人出
+top3 entities near to cluster17>>
+工事, 修理, 修繕
+top3 entities near to cluster18>>
+開催, 案内, 参り
+top3 entities near to cluster19>>
+上達, 習得, 下意
+top3 entities near to cluster20>>
+秋, 月, 年
+top3 entities near to cluster21>>
+書店, 小社, 本屋
+top3 entities near to cluster23>>
+歓楽街, 繁華街, 繁華
+top3 entities near to cluster24>>
+用事, 駅
+top3 entities near to cluster25>>
+桜, 梅, 花
+top3 entities near to cluster27>>
+東口, 南口, 北口
+top3 entities near to cluster28>>
+駅, 駅前, 南口
+top3 entities near to cluster33>>
+神社, 境内, 本殿
+top3 entities near to cluster34>>
+11, 12, 07

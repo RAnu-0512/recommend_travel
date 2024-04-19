@@ -1,0 +1,13 @@
+--------------------similar_words:周防大島温泉--------------------
+top3 entities near to cluster0>>
+演歌, 歌謡, 風呂
+top3 entities near to cluster1>>
+入浴, 風呂, 湯船
+top3 entities near to cluster2>>
+温泉, 露天風呂, 旅館
+top3 entities near to cluster3>>
+肌, 素肌, 皮膚
+top3 entities near to cluster5>>
+潮騒, 海鳴り, 潮風
+top3 entities near to cluster6>>
+生誕, 誕生, 没後

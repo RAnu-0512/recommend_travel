@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸火自然公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+麓, 新緑, うぐいす, ボール, 富士山, 弁当, キャンプサイト, 芝生
+cluster1:(6)
+自然, 丸火自然公園, 自然体験, 自然公園, 体験学習, 自然観察路
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

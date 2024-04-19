@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田代の郷温泉 伊太和里の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湯質, 泉質
+cluster1:(14)
+炭酸, 温泉, 銭湯, 内湯, 郷温泉, 入浴, 食堂, 食事, シルク風呂, 炭酸風呂, 風呂, 浴場, 湯, 日帰り温泉
+cluster2:(4)
+川根温泉, 日帰り温泉施設, 公共温泉, 温泉施設
+cluster3:(16)
+炭酸泉, スタッフ, 地元, 居心地, 外, 内風呂, 個人, 人, 露天風呂, サウナ, 見回り, 子供, マット, 他, マナー, 方々
+cluster4:(2)
+特徴, 問題
+cluster5:(3)
+こと, 時間, 場所
+cluster6:(1)
+施設
+cluster7:(1)
+注意
+cluster8:(1)
+料金
+cluster9:(2)
+効能, 肌
+cluster10:(1)
+大声
+cluster11:(1)
+キー
+cluster12:(5)
+利用, 入場制限, JAF割引, 利用者, 割引
+cluster13:(6)
+客, 休憩室, 客足, 常連客, 休憩所, 従業員
+
+howmany entities : 59
+howmany clusters : 14
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 6
+deleted 11entities.

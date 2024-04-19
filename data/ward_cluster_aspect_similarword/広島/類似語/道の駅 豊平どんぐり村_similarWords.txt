@@ -1,0 +1,11 @@
+--------------------similar_words:道の駅 豊平どんぐり村--------------------
+top3 entities near to cluster0>>
+公園, 駅, 施設
+top3 entities near to cluster1>>
+神楽, 訪神, かぐら
+top3 entities near to cluster2>>
+野菜, 地元, 食材
+top3 entities near to cluster3>>
+揃え, そろえ
+top3 entities near to cluster4>>
+そば打ち, そば, 体験

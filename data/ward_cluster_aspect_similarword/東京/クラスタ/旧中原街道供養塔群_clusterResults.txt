@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧中原街道供養塔群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+大名屋敷跡巡り, 柳生家屋敷跡, 武家屋敷跡, 三日月家屋敷跡
+cluster1:(3)
+供養塔群, 星薬科大学歴史資料館, 薬用植物園
+cluster2:(2)
+池田山公園, ねむの木の庭公園
+cluster3:(4)
+最後, 近隣, 大学, 多数
+cluster4:(2)
+跡地, 実家跡
+cluster5:(1)
+皇后美智子
+cluster6:(2)
+清泉女子大旧島津邸, 松平家屋敷
+cluster7:(3)
+品川区, 中原街道, 備前池田
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 8
+deleted 0entities.

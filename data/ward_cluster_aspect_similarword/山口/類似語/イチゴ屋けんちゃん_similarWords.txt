@@ -1,0 +1,9 @@
+--------------------similar_words:イチゴ屋けんちゃん--------------------
+top3 entities near to cluster0>>
+苺, イチゴ, いちご
+top3 entities near to cluster3>>
+品種, 農園
+top3 entities near to cluster4>>
+簡易, トイレ, 便所
+top3 entities near to cluster5>>
+けん, ちゃん

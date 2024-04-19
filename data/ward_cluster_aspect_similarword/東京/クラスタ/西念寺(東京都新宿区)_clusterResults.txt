@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西念寺(東京都新宿区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+服部半蔵, 半蔵
+cluster1:(3)
+住職, 本堂, 寺
+cluster2:(6)
+西念寺, 半蔵門, 四ツ谷, 御朱印, 菩提寺, 墓参り
+cluster3:(4)
+場所, 方, 両親, 男性
+cluster4:(1)
+墓
+cluster5:(1)
+表紙
+cluster6:(1)
+世話
+cluster7:(1)
+四ツ谷駅
+cluster8:(3)
+御朱印帳, 朱印, 江戸時代
+cluster9:(1)
+社務所
+
+howmany entities : 23
+howmany clusters : 10
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 10
+deleted 0entities.

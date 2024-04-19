@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大東ビーチスポーツ公園運動場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+掛川城, 掛川市街地
+cluster1:(8)
+車, 名, 場所, メッカ, スポーツ, 人出, ビーチスポーツ, ビーチバレーコート
+cluster2:(1)
+大東ビーチスポーツ公園運動場
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 3entities.

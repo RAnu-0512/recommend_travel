@@ -1,0 +1,17 @@
+--------------------similar_words:弓道体験道場 射楽--------------------
+top3 entities near to cluster0>>
+弓道, 剣道, 空手
+top3 entities near to cluster2>>
+子供, 小学生, 女性
+top3 entities near to cluster3>>
+指導, 対応, 体験
+top3 entities near to cluster4>>
+興味, 手元, 関心
+top3 entities near to cluster5>>
+気分, 印象, 雰囲気
+top3 entities near to cluster6>>
+動画, 話, エピソード
+top3 entities near to cluster8>>
+手順, 方法, やり方
+top3 entities near to cluster9>>
+経験者, 経験, 難い

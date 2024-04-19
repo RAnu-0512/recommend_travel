@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田松陰寓寄処>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+吉田松陰先生, 吉田松陰寓寄処, 吉田松陰, 松陰先生
+cluster1:(6)
+石畳, 斜面, 裏道, 距離, 傾斜, 道
+cluster2:(2)
+感染, 密航
+cluster3:(25)
+ボランティア, アクセス, 事, コロナ, 風情, ペリー, ガイド, 祭り, こと, 方, 茅葺き, 随所, 歴史, 体験, 蓮台寺, しだれ, 時間, 中, 雰囲気, 話, 場所, 地元ボランティア, 先生, 散歩道, 説明
+cluster4:(1)
+お勧め
+cluster5:(2)
+コロナ感染防止, 皮膚病
+cluster6:(6)
+温泉場, 温泉, 蓮台寺温泉, 湯量, 湯, 湯治
+cluster7:(5)
+散策路, 見学料, 華小路, 古民家, 学芸員
+cluster8:(8)
+静岡県, 歴史観光, 幕末開港, 下田, 石垣, 松蔭, まんが日本昔ばなし, 市原悦子
+
+howmany entities : 59
+howmany clusters : 9
+howmany entities (more than3entities) : 54
+howmany clusters (more than3entities) : 6
+deleted 5entities.

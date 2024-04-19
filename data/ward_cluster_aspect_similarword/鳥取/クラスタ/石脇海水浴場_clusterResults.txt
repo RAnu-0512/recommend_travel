@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石脇海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石脇海水浴場, 海水浴場
+cluster1:(5)
+海水, 水, 砂浜, 海岸, 海
+cluster2:(7)
+看板, 方, シャワー, 日本海, 宝, 日本, ロケーション
+cluster3:(1)
+泣き砂
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

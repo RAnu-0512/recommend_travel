@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MORI Building DIGITAL ART MUSEUM_EPSON teamLab Borderless>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アトラクション感, 満足感
+cluster1:(2)
+迷路, 彷徨
+cluster2:(7)
+コツ, 次回, 気, 感じ, 予定, 方, 次
+cluster3:(8)
+水, 場所, 光, 空間, 森, 時間, 部屋, 世界
+cluster4:(12)
+大人, 子連れ, アトラクション, 子ども, ランプ, 子供, 家族, スカート, トイレ, 足, 列, チケット
+cluster5:(2)
+現代アート, デジタルアート
+cluster6:(3)
+作品, 映像, 写真
+cluster7:(1)
+チームラボ
+cluster8:(3)
+場内案内, 作品製作, 訪問日
+
+howmany entities : 40
+howmany clusters : 9
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 9
+deleted 0entities.

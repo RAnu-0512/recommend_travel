@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩往還夏木原交流施設(休止中)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+交流施設, 施設
+cluster1:(2)
+JR, 歴史
+cluster2:(3)
+萩往還夏木原, 萩往還, 山陰本線萩駅
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:小石川植物園の梅--------------------
+top3 entities near to cluster0>>
+梅, 桜, 梅園
+top3 entities near to cluster1>>
+園内, 北西, 南西
+top3 entities near to cluster2>>
+分館, デッダム, 図書館
+top3 entities near to cluster3>>
+植物園, 動物園, 植物, 動物

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:涙松跡(萩往還)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地下道, 左側
+cluster1:(1)
+地蔵
+cluster2:(1)
+跡
+cluster3:(1)
+江戸時代
+cluster4:(1)
+大屋刑場
+cluster5:(1)
+涙松跡
+cluster6:(1)
+萩有料道路県道
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

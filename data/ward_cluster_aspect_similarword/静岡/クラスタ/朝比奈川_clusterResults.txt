@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝比奈川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+最後, 駐車場, 開花, まつり, 山の手さくら祭り, 在住, 時期, 山の手さくら, 仮設トイレ, 朝比奈川, 地図, 野菜, 東名高速道路, ピンク, 程近い朝比奈川, 夫婦, あたり, 早咲き, 花見, 上流
+cluster1:(2)
+河津桜堤, 河津桜
+cluster2:(2)
+浜松市, 焼津市
+cluster3:(3)
+焼津魚センター, 焼津, 焼津インター
+cluster4:(1)
+地場産
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 2
+deleted 5entities.

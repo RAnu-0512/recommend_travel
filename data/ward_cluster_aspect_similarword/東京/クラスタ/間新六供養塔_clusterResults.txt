@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:間新六供養塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+墓, 供養, 指定旧跡, 供養塔
+cluster1:(26)
+正面, 説明板, 一人, 石碑, 士, 場所, 兄, 討ち入り, 右手, 新大橋, 本堂, 義兄, 泉岳寺, 折, 吉良, 本願寺, 正門, 看板, 歴史, こと, 次男, 中, 境内, 父, 境内隅, 吉良上野介
+cluster2:(12)
+東京都, 新六, 北西側, 赤穂藩, 高輪泉岳寺, 南東沿い, 築地3丁目, 築地本願寺, 左隣り, 浅野長矩, 中央区, 赤穂義
+
+howmany entities : 42
+howmany clusters : 3
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 3
+deleted 0entities.

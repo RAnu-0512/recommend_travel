@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:めがひらスキー場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駐車場, スキー場, ひらスキー場, めがひらスキー場
+cluster1:(3)
+人口雪, バリエーション多く山林コース, 雪道
+cluster2:(2)
+広島, 九州
+cluster3:(4)
+雪, 滑り, 冬, 芯
+cluster4:(19)
+体, 中, オススメ, 帰り, 方, 市, コース, 疲れ, ウィンタースポーツ, スキー, 人, 初心者, 立地, スノーボード, 近く, 場所, 形状, スキーヤー, おすすめ
+cluster5:(5)
+ひら温泉, 温泉, ^^)温泉, 吉和インター, 風呂
+
+howmany entities : 37
+howmany clusters : 6
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 6
+deleted 0entities.

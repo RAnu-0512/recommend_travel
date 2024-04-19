@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:尾崎放哉の句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出身, おざきほうさい
+cluster1:(2)
+句碑, 代表句
+cluster2:(1)
+鳥取市
+cluster3:(1)
+自由律
+cluster4:(1)
+尾崎放哉
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

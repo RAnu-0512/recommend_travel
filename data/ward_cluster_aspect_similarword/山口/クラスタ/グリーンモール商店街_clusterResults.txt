@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グリーンモール商店街>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+下関駅, 博多, 山陽道, 韓国, 広島, 下関
+cluster1:(2)
+味, 本場
+cluster2:(5)
+店, 雑貨, 飲食, 出店, 料理
+cluster3:(2)
+SA, TT夕方
+cluster4:(14)
+ところ, 付近, はめ, イベント, テント, 途中, 予定, 昼食, キムチ, 感じ, 方, 近く, 焼き肉, 昼間
+cluster5:(1)
+商店街
+cluster6:(1)
+事故渋滞
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

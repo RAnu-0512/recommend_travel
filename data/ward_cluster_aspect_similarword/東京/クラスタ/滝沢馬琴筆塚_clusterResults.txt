@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滝沢馬琴筆塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+青雲寺, 青雲禅寺, 青雲禅寺自体
+cluster1:(2)
+JR西日暮里駅, 西日暮里駅
+cluster2:(21)
+途中, 石碑, 南総里見八犬伝, 実体験, 画面, 子供, 西側, 歴史勉強, 近く, 作者, 夢, 入り口, 筆塚, 教科書振り返り, 記憶, 記念, 歴史, 道, 子供達, 境内, 説明
+cluster3:(3)
+TVドラマ, 人形劇, 映画化
+cluster4:(1)
+滝沢馬琴
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 5
+deleted 0entities.

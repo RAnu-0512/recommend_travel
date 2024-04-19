@@ -1,0 +1,19 @@
+--------------------similar_words:野見宿禰神社(東京都墨田区)--------------------
+top3 entities near to cluster0>>
+宿禰, 神社, 縣主
+top3 entities near to cluster1>>
+相撲, 大相撲, 力士
+top3 entities near to cluster2>>
+横綱, 関脇, 力士
+top3 entities near to cluster3>>
+境内, 神社, 石碑
+top3 entities near to cluster4>>
+地上, 神, 天界
+top3 entities near to cluster5>>
+町目, 町, 丁目
+top3 entities near to cluster6>>
+3, A, 4
+top3 entities near to cluster7>>
+両国, 北斎, 駅
+top3 entities near to cluster8>>
+信号機, 信号, 扱手

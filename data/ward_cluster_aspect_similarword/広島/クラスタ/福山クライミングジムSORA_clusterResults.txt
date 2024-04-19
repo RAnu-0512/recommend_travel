@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福山クライミングジムSORA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+男性, 女性
+cluster1:(2)
+使い方, 子供
+cluster2:(1)
+手
+cluster3:(1)
+体験
+cluster4:(1)
+講師
+cluster5:(1)
+登り方
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

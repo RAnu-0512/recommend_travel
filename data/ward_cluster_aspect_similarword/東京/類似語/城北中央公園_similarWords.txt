@@ -1,0 +1,21 @@
+--------------------similar_words:城北中央公園--------------------
+top3 entities near to cluster1>>
+小型犬, 中型犬, 小型, 中型
+top3 entities near to cluster2>>
+遊具, 広場, 公園
+top3 entities near to cluster3>>
+芝生, 広場, 原っぱ
+top3 entities near to cluster4>>
+駐車場, 駐車, 住宅
+top3 entities near to cluster6>>
+緑, 新緑, 木々
+top3 entities near to cluster7>>
+桜, 銀杏, 花見
+top3 entities near to cluster8>>
+秋, 夏, 春
+top3 entities near to cluster9>>
+公園, 駅, 広場
+top3 entities near to cluster10>>
+登録, 接種, 鑑札
+top3 entities near to cluster11>>
+子供, 子ども, 幼児

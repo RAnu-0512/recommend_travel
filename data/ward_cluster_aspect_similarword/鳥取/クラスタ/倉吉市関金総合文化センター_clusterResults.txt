@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉吉市関金総合文化センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+関金図書館, 倉吉市, 役所関金庁舎, 関金, 総合文化センター, 関金総合文化センター
+cluster1:(10)
+所, 調理実習室, 敷地, 何か, 会議室, 駐車場, 料理教室, 公民館, 会合, 地元
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

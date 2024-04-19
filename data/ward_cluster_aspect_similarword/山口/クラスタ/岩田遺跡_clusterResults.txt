@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩田遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+縄文時代, 縄文時代後期
+cluster1:(2)
+古墳時代後期, 古墳時代
+cluster2:(8)
+岩田遺跡, 時代, 見ごたえ, 晩期, 遺跡そのもの, 遺跡, 平生町, 縄文遺跡
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

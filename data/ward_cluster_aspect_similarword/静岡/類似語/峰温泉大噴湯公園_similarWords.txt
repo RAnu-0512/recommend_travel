@@ -1,0 +1,61 @@
+--------------------similar_words:峰温泉大噴湯公園--------------------
+top3 entities near to cluster0>>
+時間, 所要
+top3 entities near to cluster2>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster4>>
+入場料, 入場, 入館料, 入館
+top3 entities near to cluster5>>
+駐車場, 駐車, 料金
+top3 entities near to cluster9>>
+一瞬, 瞬間, 記憶
+top3 entities near to cluster11>>
+飲み物, ベンチ, 買い物
+top3 entities near to cluster12>>
+噴き上げ, 吹き上げ, 吹き上げる
+top3 entities near to cluster13>>
+キャラ, ラスト, キャラクター
+top3 entities near to cluster14>>
+待ち時間, 帰り際, スタッフ
+top3 entities near to cluster18>>
+曇り空, 風向き, 気持ち
+top3 entities near to cluster20>>
+時刻表, 時刻
+top3 entities near to cluster21>>
+終了, 最終, 期間
+top3 entities near to cluster23>>
+訪問, 案内, 出発
+top3 entities near to cluster27>>
+隣, 周辺, 近辺
+top3 entities near to cluster28>>
+家族, 子供, 夫婦
+top3 entities near to cluster29>>
+堤防, 道路, 公園
+top3 entities near to cluster30>>
+敷地, 施設, 建物
+top3 entities near to cluster32>>
+売店, 土産, 土産物
+top3 entities near to cluster33>>
+天気雨, 天気, 天候
+top3 entities near to cluster35>>
+噴出, 噴き出し, 噴き出す
+top3 entities near to cluster37>>
+噴湯, 噴水, 噴泉
+top3 entities near to cluster39>>
+湯, お湯, 源泉
+top3 entities near to cluster40>>
+地熱, 温水, 掘削
+top3 entities near to cluster44>>
+温泉, 卵, 玉子
+top3 entities near to cluster45>>
+卵, 玉子, タマゴ
+top3 entities near to cluster46>>
+ゆで, 卵, 玉子
+top3 entities near to cluster49>>
+噴湯, 大, 温泉
+top3 entities near to cluster51>>
+川熱, 川, 温泉
+top3 entities near to cluster53>>
+温泉, 宿, 旅館
+top3 entities near to cluster54>>
+足湯, 湯, 温泉

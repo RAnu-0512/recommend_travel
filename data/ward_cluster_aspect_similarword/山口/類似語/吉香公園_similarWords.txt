@@ -1,0 +1,33 @@
+--------------------similar_words:吉香公園--------------------
+top3 entities near to cluster0>>
+郷土, 文化, 市民
+top3 entities near to cluster1>>
+家族, 学校
+top3 entities near to cluster2>>
+雰囲気, 見ごたえ, 見応え
+top3 entities near to cluster3>>
+紅葉狩り, 紅葉, シロヘビ
+top3 entities near to cluster4>>
+博物館, 図書館, 城下町
+top3 entities near to cluster6>>
+ツツジ, 早咲き, ボタンザクラ
+top3 entities near to cluster8>>
+山麓, 緑, 山頂
+top3 entities near to cluster9>>
+桜, 梅, 紅葉
+top3 entities near to cluster10>>
+鵜池, 鵜
+top3 entities near to cluster12>>
+秋, 春, 冬
+top3 entities near to cluster14>>
+散歩, 散策, 出掛け
+top3 entities near to cluster15>>
+上映, 鑑賞, 観賞
+top3 entities near to cluster16>>
+小, 旅, 修学旅行
+top3 entities near to cluster17>>
+公園, 園内, 敷地
+top3 entities near to cluster18>>
+徒歩圏, 徒歩, 圏内
+top3 entities near to cluster19>>
+屋敷, 居館, 武家

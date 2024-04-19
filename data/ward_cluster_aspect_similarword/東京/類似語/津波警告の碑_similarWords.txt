@@ -1,0 +1,9 @@
+--------------------similar_words:津波警告の碑--------------------
+top3 entities near to cluster1>>
+犠牲者, 行方, 犠牲
+top3 entities near to cluster2>>
+死者, 被害, 死傷
+top3 entities near to cluster3>>
+地震, 津波, 大震災
+top3 entities near to cluster4>>
+高潮, 津波, 潮位

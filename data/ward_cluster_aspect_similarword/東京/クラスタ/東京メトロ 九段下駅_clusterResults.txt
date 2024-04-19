@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ 九段下駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+皇居, 花見, 濠, 桜, 満開
+cluster1:(6)
+観光, 九段下駅, 路線, 駅, 方面, 直通
+cluster2:(2)
+半蔵門線, 東西線
+cluster3:(8)
+見どころ, イベント, 田園都市線, 日本武道館, 武道館, アーティスト, 靖国神社, 乗り換え
+cluster4:(2)
+九段下, 神奈川
+cluster5:(7)
+よりか, 距離, 近く, 勝手, 気温, 横乗り換え, 階段
+cluster6:(1)
+発表会
+cluster7:(2)
+門線, 新宿線
+cluster8:(2)
+東京メトロ半蔵, 東京メトロ九段下駅
+cluster9:(4)
+東京, 渋谷, 東京メトロ, 都営
+cluster10:(1)
+千鳥ヶ淵
+
+howmany entities : 40
+howmany clusters : 11
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 11
+deleted 0entities.

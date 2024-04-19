@@ -1,0 +1,17 @@
+--------------------similar_words:道の駅 遊YOUさろん東城--------------------
+top3 entities near to cluster0>>
+土産, 地酒, おみやげ
+top3 entities near to cluster2>>
+店内
+top3 entities near to cluster3>>
+町並み, 城下町, 街並み
+top3 entities near to cluster4>>
+ステーキ, レストラン, メニュー
+top3 entities near to cluster5>>
+ハウス, ステーキ, ハンバーグ
+top3 entities near to cluster8>>
+自慢, 見せびらかし, ひけらかし
+top3 entities near to cluster10>>
+駅道, 駅, 国道
+top3 entities near to cluster11>>
+駐車場, 駐車, 場裏

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:板垣退助の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+立役者, 国, 表示, 先人, 礎, 実家, ところ, 感じ, 著名人, 奥, 墓, 墓参, 案内, 突き当たり, 板垣, 日本, 中, 歴史, 墓参り
+cluster1:(6)
+新馬場駅, 神社, 品川神社, 本殿, 改札, 境内
+cluster2:(1)
+いしずえ
+cluster3:(1)
+自由民権運動
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

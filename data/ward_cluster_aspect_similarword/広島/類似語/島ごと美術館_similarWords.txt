@@ -1,0 +1,17 @@
+--------------------similar_words:島ごと美術館--------------------
+top3 entities near to cluster0>>
+美術, 屋外, 絵画
+top3 entities near to cluster1>>
+島内, 島, 本島
+top3 entities near to cluster2>>
+美術館, オブジェ, 絵画
+top3 entities near to cluster4>>
+地元, 終了, その後
+top3 entities near to cluster5>>
+作品, 風景, 作家
+top3 entities near to cluster6>>
+期間, 限定, 設置
+top3 entities near to cluster7>>
+道路, 走行, 距離
+top3 entities near to cluster8>>
+芸術祭, 芸術, 国際

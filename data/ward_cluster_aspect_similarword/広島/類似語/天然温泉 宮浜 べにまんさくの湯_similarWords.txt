@@ -1,0 +1,37 @@
+--------------------similar_words:天然温泉 宮浜 べにまんさくの湯--------------------
+top3 entities near to cluster0>>
+常連, お客, 外客
+top3 entities near to cluster3>>
+帰宅, 自宅
+top3 entities near to cluster4>>
+ランチ, ランチタイム, ディナー
+top3 entities near to cluster5>>
+水風呂, サウナ, ジャグジー
+top3 entities near to cluster6>>
+長時間, 夜通し, ぶっ続け
+top3 entities near to cluster7>>
+口コミ, 気持ち, 張り紙
+top3 entities near to cluster8>>
+露天風呂, テラス, テレビ
+top3 entities near to cluster9>>
+タオル, シッポ, シート
+top3 entities near to cluster10>>
+足元, 足下, 足
+top3 entities near to cluster12>>
+笑顔, 子供, 子
+top3 entities near to cluster13>>
+国道, 海老
+top3 entities near to cluster14>>
+騒音, 大声, 席
+top3 entities near to cluster15>>
+食事, 施設, 処
+top3 entities near to cluster16>>
+湯, よも, おと
+top3 entities near to cluster17>>
+檜, 桧, ヒノキ
+top3 entities near to cluster18>>
+風呂, 泡, 湯船
+top3 entities near to cluster19>>
+風呂, 湯船, 露天風呂
+top3 entities near to cluster20>>
+温泉, 湯, 露天

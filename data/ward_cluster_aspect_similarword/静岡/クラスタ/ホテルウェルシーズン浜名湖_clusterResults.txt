@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルウェルシーズン浜名湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+浜松城, 浜松シティマラソン, 浜松餃子
+cluster1:(2)
+オルゴール館, 家康大河ドラマ館
+cluster2:(3)
+食事時間, 時間, 食事
+cluster3:(4)
+利用, 感じ, 他, 方
+cluster4:(7)
+ライブキッチン, 浜名湖, ランチ, コース, ビュッフェ, 友達, バイキング
+cluster5:(3)
+店員, ローストビーフ, ピザ
+cluster6:(3)
+温泉, カニ目当て, 風呂
+cluster7:(1)
+焼きたて
+cluster8:(1)
+従業員
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 6
+deleted 4entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あじさい公園(東京都小平市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+公園, 遊歩道, 季節, 緑, 道, 車, 雰囲気
+cluster1:(2)
+木陰, 散策
+cluster2:(1)
+小平駅
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

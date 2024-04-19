@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:UraUraTour 東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅, 東京駅, 駅裏
+cluster1:(19)
+上野, 神社, 場所, 子ども, 値段, 縦横無尽, 上野公園, 気, アメ横, 楽しみ, 感じ, ツアー, トコロ, ハート, モノ, 時間, ガイド, スポット, 路地
+cluster2:(2)
+クイズ出題, 参加者
+
+howmany entities : 24
+howmany clusters : 3
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 3
+deleted 0entities.

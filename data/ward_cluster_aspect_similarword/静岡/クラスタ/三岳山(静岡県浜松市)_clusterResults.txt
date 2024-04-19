@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三岳山(静岡県浜松市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+大河ドラマ, 雨, 気, 浜名湖, 三岳山, 足元
+cluster1:(3)
+神社, 山頂, 景色
+cluster2:(1)
+片道
+cluster3:(3)
+登山口, 三岳神社, 本殿左側
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 1entities.

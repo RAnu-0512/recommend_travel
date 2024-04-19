@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荻生徂徠の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+三田, 長松寺, 将軍, 界隈, エリア, 見ごたえ, 方, 風情, のち, 個性, 訪問
+cluster1:(2)
+浄土宗寺院, 寺院
+cluster2:(3)
+本堂, 山門, 境内
+cluster3:(2)
+石碑, 墓
+cluster4:(2)
+荻生徂徠の墓, 徳川綱吉
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いちごらんど>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+受付, テーブル席, 購入, 精算, 棚, 売り
+cluster1:(2)
+ハウス, ビニールハウス
+cluster2:(3)
+かおり, いちご, イチゴ
+cluster3:(2)
+支払い, 飲み物
+cluster4:(7)
+スィーツ, サイト, スタート, 摘み取り, キッズスペース, ファン, システム
+cluster5:(1)
+コスパ
+cluster6:(11)
+中, 数, 他, 種類, 場, 間, 感じ, 結果, 人, 残り, 太め
+cluster7:(3)
+いちごはかおり, イチゴ代, 苺
+cluster8:(8)
+子供, 孫, 長男, 子ども, 家族, 幼児, 娘, 大人
+cluster9:(1)
+広さ
+cluster10:(1)
+タイパ
+cluster11:(10)
+いちご狩り, イチゴ狩り, 土産, いちご食べ比べ, 入園料, 摘み, 栽培, 土産イチゴ, 食べ放題, 品種
+
+howmany entities : 55
+howmany clusters : 12
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 12
+deleted 0entities.

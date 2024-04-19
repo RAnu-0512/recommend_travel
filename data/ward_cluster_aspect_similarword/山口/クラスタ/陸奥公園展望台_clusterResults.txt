@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陸奥公園展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+時期, 地, 上, スクリュー, 花びら
+cluster1:(2)
+海中, 船員
+cluster2:(1)
+展望台
+cluster3:(1)
+副砲
+cluster4:(5)
+戦艦陸奥, 陸奥記念館手前岡, 陸奥公園, 陸奥, 陸奥記念公園
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

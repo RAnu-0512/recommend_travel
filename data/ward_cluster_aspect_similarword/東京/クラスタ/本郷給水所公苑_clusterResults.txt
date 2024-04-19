@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本郷給水所公苑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本郷給水所, 都市型公園, 屋上緑化
+cluster1:(2)
+バラ, バラ園
+cluster2:(6)
+小川, 東京, 水道橋駅, 地元, 水道, 都心
+cluster3:(2)
+艶, かさ
+cluster4:(10)
+季節, 光景, 人, フェンス, 施設, 上, イメージ, 歩道橋, 桜, 階段
+cluster5:(3)
+穴場, 公園, 庭園
+cluster6:(1)
+丸橋忠弥
+cluster7:(3)
+東京都水道歴史館, 水道歴史館, 金刀比羅神社
+
+howmany entities : 30
+howmany clusters : 8
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 8
+deleted 0entities.

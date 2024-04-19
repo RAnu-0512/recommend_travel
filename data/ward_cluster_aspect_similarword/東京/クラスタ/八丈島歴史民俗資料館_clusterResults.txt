@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八丈島歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+所縁, 出身地
+cluster1:(4)
+荷物, 記帳, 係員, 職員
+cluster2:(8)
+家内, 島, 建物, 生活, 文化財, 日蓮宗, 八丈島, 自宅
+cluster3:(10)
+場所, 人, 一部, 話, 興味, 方, 勉強, 説明, 違い, もの
+cluster4:(1)
+形成
+cluster5:(2)
+石巻, 堀之内妙法寺
+cluster6:(2)
+文化, 歴史
+cluster7:(2)
+古代, 近代
+cluster8:(1)
+南北
+cluster9:(1)
+飢饉
+cluster10:(1)
+流人
+cluster11:(2)
+島間交易, 難破船
+cluster12:(2)
+展示内容, 展示物
+cluster13:(2)
+資料館, 資料
+cluster14:(1)
+地質構造
+cluster15:(1)
+来館票
+cluster16:(5)
+八丈町, 町役場, 三原山・八丈富士, 歴史民俗資料館, 不受不施
+cluster17:(1)
+感染拡大防止対策
+cluster18:(1)
+大賀郷1186 旧八丈支庁庁舎→八丈町
+
+howmany entities : 49
+howmany clusters : 19
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 19
+deleted 0entities.

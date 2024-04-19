@@ -1,0 +1,15 @@
+--------------------similar_words:富士仏舎利塔平和公園--------------------
+top3 entities near to cluster0>>
+外国, 海外, 国内
+top3 entities near to cluster1>>
+本堂, 仏像, 寺
+top3 entities near to cluster2>>
+公園, 園内, 広場
+top3 entities near to cluster3>>
+子供, 乗客
+top3 entities near to cluster7>>
+花見, 桜, 絶景
+top3 entities near to cluster8>>
+鯉, 鳩, 鳥
+top3 entities near to cluster11>>
+駐車, 施設

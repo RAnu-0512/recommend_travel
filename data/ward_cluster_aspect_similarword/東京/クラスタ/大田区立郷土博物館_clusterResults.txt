@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大田区立郷土博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入館料無料, 入館料無料施設
+cluster1:(2)
+弥生石器, 縄文石器時代
+cluster2:(4)
+展示品数, 常設展示室, 展示品, 時代出土品
+cluster3:(2)
+養殖, 海苔
+cluster4:(3)
+葉書, 書簡, 原稿
+cluster5:(9)
+見どころ, 人達, 中心, 人, 興味, 書籍, 歴史, コーナー, ジオラマ
+cluster6:(8)
+カメラ撮影, 模型, 郷土博物館, 見学, レプリカ展示, 入場無料, 模型展示, 展示
+cluster7:(7)
+西馬込駅, 下車徒歩, 馬込文, 徒歩, 蒲田撮影所, 都営交通, 大田区
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 8
+deleted 0entities.

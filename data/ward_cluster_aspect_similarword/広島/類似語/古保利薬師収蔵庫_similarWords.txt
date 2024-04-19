@@ -1,0 +1,15 @@
+--------------------similar_words:古保利薬師収蔵庫--------------------
+top3 entities near to cluster0>>
+複数, 辺り, あたり
+top3 entities near to cluster1>>
+時代, モノ, 時期
+top3 entities near to cluster2>>
+価値, 姿, 意義
+top3 entities near to cluster3>>
+凡, 袁了, ミス
+top3 entities near to cluster4>>
+拝観, 仏像, お寺
+top3 entities near to cluster5>>
+戦国, 時代, 闘檄
+top3 entities near to cluster6>>
+薬師, 菩薩, 観音

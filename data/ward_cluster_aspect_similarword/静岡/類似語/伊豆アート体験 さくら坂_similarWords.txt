@@ -1,0 +1,19 @@
+--------------------similar_words:伊豆アート体験 さくら坂--------------------
+top3 entities near to cluster1>>
+おみやげ, ショップ, ケーキ
+top3 entities near to cluster2>>
+敷地, 庭, 中庭
+top3 entities near to cluster3>>
+階段, 坂, 丘
+top3 entities near to cluster4>>
+散歩, 散策, 旅
+top3 entities near to cluster5>>
+ガラス, 貝殻, 砂
+top3 entities near to cluster7>>
+ガラス細工, ガラス, びがら
+top3 entities near to cluster8>>
+体験, 体験談, 工房
+top3 entities near to cluster9>>
+時間, 受付, 予約
+top3 entities near to cluster10>>
+つくり

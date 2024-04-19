@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長門国一の宮住吉神社社叢>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+本殿, 宮津・籠神社, 神社, 宮住吉神社, 住吉神社, 武内宿禰
+cluster1:(2)
+眞名井神社, ほぼ原生林
+cluster2:(17)
+もの, 山口県, 丘, 南東, 一之宮, 自然, 空気, 国, 天然記念物, 長門, 下関市, 新下関駅, 上, 状態, 坂, 駐車場, 下関
+
+howmany entities : 25
+howmany clusters : 3
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 3
+deleted 0entities.

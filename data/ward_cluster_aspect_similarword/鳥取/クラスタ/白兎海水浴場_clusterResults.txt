@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白兎海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+山陰一, 白うさぎ, 因幡, 白兎海水浴場, 白兎
+cluster1:(5)
+海, 海開き, 海岸, 紺碧, 砂浜
+cluster2:(3)
+車, 駅, 道
+cluster3:(2)
+舞台, 景色
+cluster4:(1)
+幅
+cluster5:(1)
+国道
+cluster6:(1)
+神話
+cluster7:(2)
+予告, 中止
+cluster8:(10)
+サーフポイント, 日本, 天然記念物, サーファー, 海水浴シーズン, アクセス, うさぎ, 人, 淤岐ノ島, シーズン
+cluster9:(2)
+人気, 沢山
+cluster10:(3)
+水, 波, 風
+cluster11:(1)
+絶好
+cluster12:(1)
+美しさ
+cluster13:(1)
+コロナ感染拡大防止
+
+howmany entities : 38
+howmany clusters : 14
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 14
+deleted 0entities.

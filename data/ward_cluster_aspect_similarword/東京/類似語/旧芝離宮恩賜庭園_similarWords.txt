@@ -1,0 +1,49 @@
+--------------------similar_words:旧芝離宮恩賜庭園--------------------
+top3 entities near to cluster0>>
+風情, 雰囲気, 趣き
+top3 entities near to cluster1>>
+都心部, 都心, 郊外部, 郊外
+top3 entities near to cluster2>>
+電車, ＪＲ, 私鉄
+top3 entities near to cluster3>>
+駅, 徒歩, 浜松町
+top3 entities near to cluster4>>
+発車, メロディ, メロディー
+top3 entities near to cluster5>>
+水上, バス, バトービュス
+top3 entities near to cluster6>>
+風景, 景色, 人々
+top3 entities near to cluster7>>
+仕事帰り, 仕事, 出掛け
+top3 entities near to cluster8>>
+外国, 国内, 海外
+top3 entities near to cluster9>>
+景色, 中庭, 風景
+top3 entities near to cluster10>>
+片道, 距離, 往復
+top3 entities near to cluster11>>
+回週, 回目, 回
+top3 entities near to cluster13>>
+時間, 日数, 時
+top3 entities near to cluster14>>
+半分, 大半, 半数
+top3 entities near to cluster15>>
+目的地, 遊園地, 遊園, 目的
+top3 entities near to cluster16>>
+木, 木火, 土
+top3 entities near to cluster18>>
+夜, 昼, 晩
+top3 entities near to cluster20>>
+桜, 紅葉, 木々
+top3 entities near to cluster21>>
+庭園, 離宮
+top3 entities near to cluster22>>
+庭園, 中庭, 庭
+top3 entities near to cluster23>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster24>>
+ビル, 高層, 建物
+top3 entities near to cluster25>>
+駅, 駅前, 南口
+top3 entities near to cluster26>>
+都, 港, 区

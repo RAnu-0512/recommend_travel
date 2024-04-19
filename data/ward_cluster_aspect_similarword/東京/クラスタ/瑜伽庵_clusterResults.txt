@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瑜伽庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+菓子作り体験, 和菓子作り体験, 和菓子作りの体験めっちゃ
+cluster1:(12)
+観光, 茶室, 正座, 生和菓子, 和菓子作り, 茶, 青楓, 語, 香道, 椅子, 花火, 着物
+cluster2:(21)
+季節, 風物詩, 最後, 作り方, 海外, 干菓子, レベル, 掛け軸, 和菓子, 前回, 実物, 予約, 英, 時間, 日本, センス, 金平糖, ひまわり, 目, おススメ, 飾り付け
+cluster3:(11)
+意味, 目線, 私達, 場, 事, 友達, 方, 先生, 説明, 講師, もの
+cluster4:(1)
+あられ
+cluster5:(3)
+文化体験, 日本文化, 文化
+cluster6:(2)
+抹茶, 抹茶体験
+cluster7:(3)
+和菓子体験, 体験, 製作体験
+cluster8:(7)
+老舗和菓子店, 菓子皿, 菓子, 丸皿, 茶碗, 椀, 器
+
+howmany entities : 63
+howmany clusters : 9
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 9
+deleted 0entities.

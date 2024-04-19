@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大衆演劇せら温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+片肘, 世羅町
+cluster1:(5)
+フロント, サウナ, スタッフ, リクライニングシート, タイミング
+cluster2:(2)
+近く, 時間
+cluster3:(1)
+女性スタッフ
+cluster4:(1)
+休憩室
+cluster5:(6)
+大衆演劇, せら温泉, 塩サウナ, 風呂, 温泉, 生薬風呂
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

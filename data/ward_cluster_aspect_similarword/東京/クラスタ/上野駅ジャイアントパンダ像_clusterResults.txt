@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野駅ジャイアントパンダ像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+上野, 入谷, 上野駅, 動物園, 橋口
+cluster1:(3)
+ジャイアントパンダ像, パンダ像, 銅像
+cluster2:(5)
+所, 場所, 駅, 構内, 待ち合わせ場所
+cluster3:(12)
+感じ, 代名詞, エキナカ, ジャイアントパンダ, パンダちゃん, 親パンダ, 方, ハチ, パンダ, 赤ちゃんパンダ, サイズ, 待ち合わせ
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

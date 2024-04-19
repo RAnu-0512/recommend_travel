@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乙女森林公園キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+シャンプー類, リネン類
+cluster1:(12)
+車, 埃, 虫, 窓, 夜景, キャンプ場, 死骸, 部屋, 網戸, 眺望, コンセント周り, 天井
+cluster2:(27)
+換気扇, オートキャンプサイト, コロナ, BBQスペース, ベランダ, 当方, ロフト, 焚き火, こと, ロストル, テントサイト, スポンジ, 目線, スペース, キャンプ, ランタン, 乙女, サッシ, 富士山, BBQ, サイト, コテージベランダ, アレ, トイレ, テント, ベッド, コテージ
+cluster3:(6)
+利用, 完備, コテージ利用, 食事, 作り, 宿泊
+cluster4:(2)
+冷蔵庫裏, 老朽化
+
+howmany entities : 49
+howmany clusters : 5
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 3
+deleted 4entities.

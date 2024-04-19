@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルリステル浜名湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+努力, こと, ぬるい点, 体験, 感じ, 希望, 訪問気持ち, 点
+cluster1:(2)
+暖房, 接客
+cluster2:(2)
+温泉, 風呂
+cluster3:(15)
+親, スタッフ, うなぎ, 家族, 思い出, 口コミ, 人, 食事, 次回, 部屋, 度, バイキング, 他, 方, インストラクター
+cluster4:(3)
+浜名湖, 牛肉, リステル浜名湖
+cluster5:(1)
+陶板焼き
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 5entities.

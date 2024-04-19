@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日吉神社のオガタマノキ巨樹群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+モクレン科, 日吉神社
+cluster1:(1)
+オガタマノキ巨樹群
+cluster2:(1)
+常緑高木
+cluster3:(1)
+暖地性植物
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

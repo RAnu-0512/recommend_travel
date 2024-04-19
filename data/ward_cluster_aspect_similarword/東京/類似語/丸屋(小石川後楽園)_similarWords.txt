@@ -1,0 +1,9 @@
+--------------------similar_words:丸屋(小石川後楽園)--------------------
+top3 entities near to cluster1>>
+東屋, 茶屋, あずま屋
+top3 entities near to cluster2>>
+風情, 雰囲気, 景色
+top3 entities near to cluster3>>
+丸屋, 屋根, 茅葺き
+top3 entities near to cluster4>>
+泉水, 大, 山大

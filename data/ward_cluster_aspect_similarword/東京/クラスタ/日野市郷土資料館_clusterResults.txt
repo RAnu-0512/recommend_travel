@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日野市郷土資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体験型学習会, 学習会
+cluster1:(5)
+講座, 子供, 一部, 大人, 日野
+cluster2:(3)
+展示テーマ, 資料館, 展示
+cluster3:(1)
+元小学校校舎
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

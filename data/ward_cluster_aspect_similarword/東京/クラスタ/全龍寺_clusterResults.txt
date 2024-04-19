@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:全龍寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+料理店, 観光客, 大久保駅, 繁華街, 新大久保駅
+cluster1:(6)
+俗世, 本堂, 山門, 寺, 参道, 境内
+cluster2:(2)
+語, 韓国
+cluster3:(5)
+途中, 先, 近く, 東, 通り
+cluster4:(12)
+周囲, 全龍寺コリアン, 人, 全龍寺, ところ, コリアンタウン, ガラス張り, 大久保, 真ん中, 世界, こと, 張り紙
+cluster5:(1)
+JR
+cluster6:(5)
+建物, 対策, 店舗, 素材, 空気
+cluster7:(1)
+金文字
+cluster8:(1)
+禁止事項
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木戸神社、木戸孝允旧邸跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+偉人, 幕末, 明治, 維新
+cluster1:(4)
+中, お庭, 神社, 敷地
+cluster2:(1)
+邸宅跡
+cluster3:(5)
+木戸家, 木戸, 長州藩, 木戸高允, 木戸孝允
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

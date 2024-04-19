@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジェラート工房ドナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+世羅高原, 世羅町
+cluster1:(2)
+牧場, 農場
+cluster2:(2)
+山羊, ヤギ
+cluster3:(3)
+子供, ワンちゃん, 子供たち
+cluster4:(23)
+ダルメシアン, 愛情, 愛想, ところ, 毛布, 店員, アイス, 相手, ジェラート, 囲い, 車, ほう, 感じ, コンクリート, 上, 板張り, 足首, カップ, 看板, リード, こと, ハウス, 匂い
+cluster5:(1)
+観光客
+
+howmany entities : 33
+howmany clusters : 6
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 6
+deleted 0entities.

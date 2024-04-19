@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:家康公松鎧掛松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+伝記, 周辺, 看板, 西側, 景観, 工事, 木, 説明
+cluster1:(2)
+松, 鎧
+cluster2:(2)
+敗戦, 家康
+cluster3:(5)
+道路沿い西側, 鎧掛松, 浜松城, 浜松城公園, 浜松市役所
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 4entities.

@@ -1,0 +1,13 @@
+--------------------similar_words:井上公園_さくら--------------------
+top3 entities near to cluster0>>
+普通, ホテル, フツー
+top3 entities near to cluster2>>
+公園, 緑地, 遊歩道
+top3 entities near to cluster3>>
+足湯, 脚湯, 温泉
+top3 entities near to cluster4>>
+井上, 伊藤, 佐藤
+top3 entities near to cluster5>>
+詩碑, 句碑, 歌碑
+top3 entities near to cluster6>>
+中也, 謹司, 致時

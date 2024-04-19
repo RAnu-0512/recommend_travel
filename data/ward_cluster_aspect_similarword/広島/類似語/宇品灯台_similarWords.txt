@@ -1,0 +1,15 @@
+--------------------similar_words:宇品灯台--------------------
+top3 entities near to cluster1>>
+灯台, 海面, 沖合
+top3 entities near to cluster3>>
+位置, 地点, 位地
+top3 entities near to cluster4>>
+木, 木火, 土
+top3 entities near to cluster5>>
+同型, 同形, レンズ
+top3 entities near to cluster6>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster7>>
+頭頂部, 頭頂, 頭部
+top3 entities near to cluster8>>
+灯台, 桟橋, 港

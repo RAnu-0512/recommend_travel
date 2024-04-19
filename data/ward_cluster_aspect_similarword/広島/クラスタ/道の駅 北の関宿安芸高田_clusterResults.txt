@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 北の関宿安芸高田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高田市, 高田IC
+cluster1:(2)
+駐車場, 休憩所
+cluster2:(5)
+開店, 構内, 麺, 道, 駅
+cluster3:(18)
+ポプラ, 小さめ, 横, ラーメン 顔出しパネル, 出入り口, 隣, 独特, 建物, コンビニ, 天気, ウコン, 昔, 方々, 感じ, 雰囲気, 近く, 中国自動車道, バスターミナル
+cluster4:(1)
+焼きたて
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

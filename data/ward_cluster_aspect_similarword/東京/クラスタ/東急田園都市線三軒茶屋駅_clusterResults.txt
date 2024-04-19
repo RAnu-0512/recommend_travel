@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急田園都市線三軒茶屋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+東急, 東急世田谷線, 東急田園都市線, 東急の田園都市線
+cluster1:(4)
+駅, 三軒茶屋駅, 駅周辺, 飲食店
+cluster2:(3)
+距離, 路線, 急行
+cluster3:(2)
+地下, 出口
+cluster4:(14)
+店, 地下道, 夜中, 人, ところ, 街, 飲み屋, キャロットタワー, ランチ, 世田谷線, 酔っ払い, ほう, こと, 乗り換え
+cluster5:(1)
+都市化
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

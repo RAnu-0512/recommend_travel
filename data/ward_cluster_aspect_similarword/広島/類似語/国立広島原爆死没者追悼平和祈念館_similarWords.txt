@@ -1,0 +1,41 @@
+--------------------similar_words:国立広島原爆死没者追悼平和祈念館--------------------
+top3 entities near to cluster0>>
+慰霊, 祈念, 原爆
+top3 entities near to cluster2>>
+途上国, 国々, 途上
+top3 entities near to cluster3>>
+胸心, 胸, 奥底
+top3 entities near to cluster4>>
+空間, 世界, 時間
+top3 entities near to cluster7>>
+人々, 人達
+top3 entities near to cluster8>>
+団体, 営利, 組織
+top3 entities near to cluster9>>
+時刻, 時計, 腕時計
+top3 entities near to cluster10>>
+閲覧, 収集, 蒐集
+top3 entities near to cluster11>>
+館内, 施設, 建物
+top3 entities near to cluster12>>
+建築史, 思想史, 思想, 建築
+top3 entities near to cluster13>>
+法人, 財団, 団体
+top3 entities near to cluster14>>
+平和碑, 祈念碑, 平和, 祈念
+top3 entities near to cluster15>>
+祈念, 平和, 祈り
+top3 entities near to cluster16>>
+祈念, 祈願, お祈り
+top3 entities near to cluster17>>
+館, 資料, 記念
+top3 entities near to cluster18>>
+追悼, 戦没, 犠牲
+top3 entities near to cluster19>>
+爆弾, 原子, 核
+top3 entities near to cluster20>>
+平和, 世界, 平穏
+top3 entities near to cluster21>>
+平和, 恒久, 平穏
+top3 entities near to cluster22>>
+原爆, 被爆, 爆心

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王井の頭線 永福町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駅, 待避駅, 永福町駅, 明大前駅, 駅停車, 当線
+cluster1:(6)
+こと, 以下, 唯一, 特徴, 隣, 京王線
+cluster2:(2)
+急行, 電車
+cluster3:(1)
+京王井の頭線
+cluster4:(1)
+各停
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

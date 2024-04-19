@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中ノ浜遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遺跡, 砂丘
+cluster1:(1)
+跡
+cluster2:(1)
+弥生時代
+cluster3:(1)
+響灘
+cluster4:(1)
+集団墓地
+cluster5:(1)
+箱式棺墓
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

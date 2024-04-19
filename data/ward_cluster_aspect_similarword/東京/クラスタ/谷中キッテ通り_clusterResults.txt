@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:谷中キッテ通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+谷中郵便局, 台東谷中郵便局, 郵便局
+cluster1:(3)
+谷中, 谷中墓地, 三崎坂
+cluster2:(3)
+ヘビ道, 道, へび道
+cluster3:(2)
+辺, 気
+cluster4:(2)
+名前, 通り
+cluster5:(4)
+店, カフェ, 車, 裏道
+cluster6:(4)
+山側, 千駄木駅, 東, 東側
+cluster7:(1)
+観光地
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 8
+deleted 0entities.

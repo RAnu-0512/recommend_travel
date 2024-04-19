@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新道橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大分新しい橋, 橋, 新道橋
+cluster1:(7)
+寺川, 場所, 平和, 江戸時代, 赤蛙, あたり, 森公園
+cluster2:(1)
+沼袋駅
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

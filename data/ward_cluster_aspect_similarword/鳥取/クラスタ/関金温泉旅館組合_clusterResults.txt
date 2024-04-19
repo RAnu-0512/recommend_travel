@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:関金温泉旅館組合>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+国民保養温泉地, 関金温泉旅館組合, 関金温泉旅館組合のせき
+cluster1:(20)
+入浴, それぞれ個性, 関金温泉, 白金の湯, 足湯, グリーンスコーレせき, 延命茶屋, せき, 湯命館, 交流館, すべて, 湯楽里, 山陰KAMIあかり, 白銀の湯, 静かな温泉, 温泉, 関, 湯, 温泉街, 規模
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

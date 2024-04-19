@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳴き砂ビーチうしろはま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天気, 天気予報
+cluster1:(10)
+客, 声, バーベキュー, 余程, 恒例, 電話, キャンセル, バーベキューメイン, スタッフ, 海水浴
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

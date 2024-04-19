@@ -1,0 +1,9 @@
+--------------------similar_words:【休業中】鮎の里公園--------------------
+top3 entities near to cluster0>>
+施設, 温泉, 公園
+top3 entities near to cluster1>>
+釜飯, 鮎, 釜めし
+top3 entities near to cluster2>>
+料理, 食事, 夕食
+top3 entities near to cluster3>>
+流し, かけ

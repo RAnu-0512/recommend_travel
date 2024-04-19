@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:町田GIONスタジアム(町田市立陸上競技場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+町田市立陸上競技場, 競技場, 陸上競技場, サッカー場
+cluster1:(4)
+鶴川駅, 町田駅, 町田ゼルビア, 町田市
+cluster2:(5)
+直行バス, 車庫, 車庫行き, シャトルバス, バス
+cluster3:(17)
+スタッフ, バス停, アクセス, ジョギング, 野津田, ホームグラウンド, 小田急, バイク, テニス, 最寄駅, 自家用車, サッカー, スタジアム, スポーツ, スタンド, 最寄り, ハイキングルート
+cluster4:(3)
+人, 他, 名
+cluster5:(2)
+気, ほう
+cluster6:(7)
+山, 東京, 緑, 都, バラ, 天空, ゼルビアVSトリニータ
+cluster7:(2)
+公園, 野津田公園
+cluster8:(7)
+場所, JR, 駅, 施設, 車, 徒歩, 周辺
+cluster9:(3)
+開催, 散策, 試合
+cluster10:(1)
+本数
+cluster11:(1)
+渋滞
+cluster12:(1)
+大きさ
+cluster13:(1)
+虫よけスプレー
+
+howmany entities : 58
+howmany clusters : 14
+howmany entities (more than1entities) : 58
+howmany clusters (more than1entities) : 14
+deleted 0entities.

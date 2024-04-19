@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いきみikiikiセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+御飯, 食堂
+cluster1:(6)
+手作り, 地元, 食材, 野菜, 物, 土産
+cluster2:(1)
+駐車場
+cluster3:(1)
+岩国市
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

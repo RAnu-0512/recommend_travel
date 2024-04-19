@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅ヶ島温泉ホテル梅薫楼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+温泉場, 温泉, 泉質, 目的地, 湯, 笑)温泉
+cluster1:(2)
+静岡, 新静岡
+cluster2:(2)
+花, 冬
+cluster3:(10)
+気, インター, 道のり, クーポン, ホテル, 人, 店, 時間, 近く, 場所
+cluster4:(3)
+笑顔, 迷惑, 声
+cluster5:(2)
+広間, 温
+cluster6:(3)
+期限, 時間調整, し体
+cluster7:(1)
+緊張感
+cluster8:(1)
+梅ヶ島
+
+howmany entities : 30
+howmany clusters : 9
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 4
+deleted 8entities.

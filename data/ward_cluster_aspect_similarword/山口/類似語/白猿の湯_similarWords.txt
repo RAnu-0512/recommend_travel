@@ -1,0 +1,15 @@
+--------------------similar_words:白猿の湯--------------------
+top3 entities near to cluster0>>
+湯, 温泉, お湯
+top3 entities near to cluster2>>
+営業, 休み, 休業
+top3 entities near to cluster3>>
+ホテル, 温泉
+top3 entities near to cluster4>>
+地元, 昔, 大昔
+top3 entities near to cluster6>>
+想定外, 想定内, 想定
+top3 entities near to cluster8>>
+施設, 設備, 温泉
+top3 entities near to cluster9>>
+駐車場, 駐車, 休館

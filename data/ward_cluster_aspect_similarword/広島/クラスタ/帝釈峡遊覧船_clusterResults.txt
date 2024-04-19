@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:帝釈峡遊覧船>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+湖面, 湖, 水鳥, 岸, 紅葉, 景色, 風景, 秋, ダム, 天気, 上流, 景観, 自然, 雪, 時期, 季節, 水量, 量
+cluster1:(2)
+乗り場, 乗り物
+cluster2:(10)
+コース, ガイド, スタッフ, マイペース, タイミング, インストラクター, クレープ, カヤック, 気持ち, クルーズ
+cluster3:(2)
+オール, バック
+cluster4:(4)
+帝釈峡, 雪景色, 晴れ間, 写真
+cluster5:(2)
+人, 女性
+cluster6:(2)
+家族, 子供
+cluster7:(2)
+母, 親
+cluster8:(1)
+主人
+cluster9:(8)
+方, 説明, 感, 有無, 話し, 意外, こと, 内容
+cluster10:(7)
+方向, 待ち合わせ場所, 場所, 階段, 視点, 道, 足
+cluster11:(1)
+反対側
+cluster12:(19)
+乗船客, 休憩所, 船から見る紅葉, 桟橋, 遊覧船, 駐車場, 畳敷き, 体験, カヤック初体験, 船内ガイド, 船, 帝釈峡遊覧船, 神龍湖, 船内, 遊覧, 新龍湖, 乗船, 紅葉橋, 竹屋饅頭
+
+howmany entities : 78
+howmany clusters : 13
+howmany entities (more than1entities) : 78
+howmany clusters (more than1entities) : 13
+deleted 0entities.

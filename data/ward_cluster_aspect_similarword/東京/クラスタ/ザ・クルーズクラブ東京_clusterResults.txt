@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ザ・クルーズクラブ東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+食事, 軽食, パン, 夜景
+cluster1:(16)
+レディークリスタル, 東京湾, 光, クルーズターミナル, 気, 追加オーダー, レインボーブリッジ, 飲み物, スナック, ラウンジ, 揺れ, 欲, クルーズ, 持ち込み, 真下, 禁止
+cluster2:(3)
+何か, どこか, オリンピック選手村
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

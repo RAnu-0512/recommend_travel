@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:temps lent>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+石鹸づくり, 石けんづくり, 石鹸作り, 石鹸
+cluster1:(2)
+材料, 品質
+cluster2:(4)
+種類, 好み, 香り, 色
+cluster3:(1)
+肌
+cluster4:(3)
+人数, 先生, 教室
+cluster5:(13)
+出来上がり, 沢山, ひとつ, 気, 気持ち, 期待, 相談, 興味, 時間, デザイン, こと, レシピ, 説明
+cluster6:(1)
+良さ
+cluster7:(1)
+大槻先生
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 8
+deleted 0entities.

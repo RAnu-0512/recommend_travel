@@ -1,0 +1,13 @@
+--------------------similar_words:真野資料館--------------------
+top3 entities near to cluster1>>
+宝石店, 代官, 宝石
+top3 entities near to cluster2>>
+豪商, 財閥, 名家
+top3 entities near to cluster3>>
+建物, 土蔵, 教会
+top3 entities near to cluster4>>
+資料, 館書, 館
+top3 entities near to cluster5>>
+紋, 葵, 火鉢
+top3 entities near to cluster6>>
+時代, 初期, 当時

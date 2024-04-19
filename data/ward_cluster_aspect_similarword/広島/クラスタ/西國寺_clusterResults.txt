@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西國寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+霊場, 札所, 中国観音霊場
+cluster1:(3)
+三重塔, 国重文, 仁王像
+cluster2:(2)
+駐車場, 観光場所
+cluster3:(2)
+寺, 寺巡り
+cluster4:(2)
+石段, 階段
+cluster5:(3)
+金堂, 山門, 本堂
+cluster6:(3)
+境内, 境内裏側, 神社
+cluster7:(1)
+西國寺
+cluster8:(2)
+尾道, 西国
+cluster9:(9)
+ボリューム, 途中, ひとつ, 大き目, カーナビ, 他, こと, 大きなわらじ, 表参道
+cluster10:(5)
+文化財, 大山寺, 仁王門, 持仏堂, 山
+cluster11:(3)
+案内, 歴史, 周辺
+cluster12:(1)
+桜
+cluster13:(1)
+災害
+cluster14:(2)
+運動不足, 達成感
+
+howmany entities : 42
+howmany clusters : 15
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 15
+deleted 0entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:熱川YOU湯ビーチ--------------------
+top3 entities near to cluster0>>
+川熱, 川, 水系
+top3 entities near to cluster2>>
+トイレ, ホテル, シャワー
+top3 entities near to cluster3>>
+雰囲気, 昼過ぎ, カンジ
+top3 entities near to cluster5>>
+家族
+top3 entities near to cluster14>>
+岩波, 砂波, 岩, 砂
+top3 entities near to cluster15>>
+ビーチ, 砂浜, 浜辺
+top3 entities near to cluster17>>
+温泉, 宿, 旅館
+top3 entities near to cluster20>>
+家族連れ, 家族, 宿泊
+top3 entities near to cluster21>>
+海水浴, 公衆, お客
+top3 entities near to cluster24>>
+駐車場, 輪場, 駐車, 輪

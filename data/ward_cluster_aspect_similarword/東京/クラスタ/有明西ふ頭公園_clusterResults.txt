@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有明西ふ頭公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京ビッグサイト, 東京ビックサイト
+cluster1:(2)
+景色, 事
+cluster2:(1)
+展示会
+cluster3:(1)
+海岸沿い
+cluster4:(1)
+水上バス乗り場
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

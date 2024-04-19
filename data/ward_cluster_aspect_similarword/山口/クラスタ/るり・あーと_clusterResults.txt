@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:るり・あーと>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+マイグラス, マイグラス製作体験
+cluster1:(3)
+特性, 色, 模様
+cluster2:(5)
+もの, 他, 次, 名前, 時間
+cluster3:(2)
+マドラー作り, 配置
+cluster4:(2)
+体験, 作業
+cluster5:(1)
+難し
+cluster6:(1)
+カット済み
+cluster7:(15)
+久しぶり, コップ, シールカット, 出来上がり, イラスト, 初心者, アルファベット, サンドブラスト, グラス, マドラー, アドバイス, 組み合わせ, ガラス, ガラスフュージング, オーナー
+cluster8:(5)
+子供, 子ども, 小学生, 娘, 大人
+cluster9:(2)
+先生, 大学
+cluster10:(1)
+小学
+cluster11:(3)
+ガラス彫刻, 砂, 家路
+
+howmany entities : 42
+howmany clusters : 12
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 12
+deleted 0entities.

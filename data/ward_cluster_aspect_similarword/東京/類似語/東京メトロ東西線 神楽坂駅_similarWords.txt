@@ -1,0 +1,17 @@
+--------------------similar_words:東京メトロ東西線 神楽坂駅--------------------
+top3 entities near to cluster0>>
+武家, 神社, 屋敷
+top3 entities near to cluster1>>
+出口, 地上, 出入口
+top3 entities near to cluster2>>
+道路, 路地, 歩道
+top3 entities near to cluster3>>
+東西線, 地下鉄, メトロ
+top3 entities near to cluster4>>
+カフェ, ホーム, 雰囲気
+top3 entities near to cluster6>>
+人達
+top3 entities near to cluster8>>
+広い, 聴係, 聴室
+top3 entities near to cluster9>>
+乗降, 合格, 祈願

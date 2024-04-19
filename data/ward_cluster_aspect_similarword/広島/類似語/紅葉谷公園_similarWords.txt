@@ -1,0 +1,25 @@
+--------------------similar_words:紅葉谷公園--------------------
+top3 entities near to cluster2>>
+紅葉, 新緑, 黄葉
+top3 entities near to cluster3>>
+落葉, 落枝, 落葉樹
+top3 entities near to cluster4>>
+絨毯, じゅうたん, 絨緞
+top3 entities near to cluster5>>
+鹿, シカ, 牛
+top3 entities near to cluster6>>
+公園, 駅, 遊歩道
+top3 entities near to cluster8>>
+登山, 散策, 山登り
+top3 entities near to cluster9>>
+新緑, 季節, 紅葉
+top3 entities near to cluster10>>
+緑, 朱色, 青
+top3 entities near to cluster11>>
+情緒, 景色, 空気
+top3 entities near to cluster12>>
+旅館, 茶屋
+top3 entities near to cluster13>>
+外国人, 外国, 外人
+top3 entities near to cluster14>>
+暑い, 蒸し暑い, 涼しい

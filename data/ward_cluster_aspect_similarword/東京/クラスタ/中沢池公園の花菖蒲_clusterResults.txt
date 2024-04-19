@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中沢池公園の花菖蒲>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+必要, 隙, 左
+cluster1:(5)
+花菖蒲, 公園, カラス, 菖蒲, 弁当
+cluster2:(3)
+中沢池公園, 唐木田駅, 多摩センター駅
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

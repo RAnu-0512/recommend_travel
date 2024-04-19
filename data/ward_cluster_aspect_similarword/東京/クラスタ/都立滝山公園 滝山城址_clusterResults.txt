@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立滝山公園 滝山城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+本丸・中丸・二の丸, 滝山城, 滝山城址
+cluster1:(6)
+本丸, 八王子駅, 城, 北条, 丸, 北口
+cluster2:(12)
+途中, 場所, バス停, 人, 感じ, 正方形, 趣, 橋, 時間, こと, バス, 二の丸
+cluster3:(2)
+立地, 敷地
+cluster4:(3)
+攻撃, 整備, 訪問
+cluster5:(1)
+兵力
+cluster6:(1)
+駐車場
+cluster7:(1)
+土塁
+cluster8:(3)
+登り坂, 坂, 武田信玄
+cluster9:(2)
+思います.15, 戦国時代後期
+cluster10:(1)
+1→2→5→7→6→10→11→14→13→12→9→8→15
+
+howmany entities : 35
+howmany clusters : 11
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 11
+deleted 0entities.

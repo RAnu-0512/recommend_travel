@@ -1,0 +1,23 @@
+--------------------similar_words:二宮神社--------------------
+top3 entities near to cluster0>>
+パワー, 湧き水, たくさん
+top3 entities near to cluster1>>
+風情, 趣, 趣き
+top3 entities near to cluster3>>
+季節, 時期, 秋
+top3 entities near to cluster4>>
+娘, 息子, 好み
+top3 entities near to cluster5>>
+名物, 時代, 昔
+top3 entities near to cluster7>>
+人々, 家族
+top3 entities near to cluster10>>
+有形, 文化財, 無形
+top3 entities near to cluster11>>
+祭り, お祭
+top3 entities near to cluster12>>
+花見, 散歩, 初詣
+top3 entities near to cluster13>>
+本殿, 境内, 社殿
+top3 entities near to cluster14>>
+神社, 境内, 稲荷

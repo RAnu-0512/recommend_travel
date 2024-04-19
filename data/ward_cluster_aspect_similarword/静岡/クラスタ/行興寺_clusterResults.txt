@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:行興寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 開催期間
+cluster1:(3)
+熊野, 熊野御前, 御前
+cluster2:(6)
+藤棚, 藤, 平安, 磐田, 長藤, 古木
+cluster3:(20)
+車, ゴールデンウィーク, 母親, 供養, 時期, 家族, 河川敷, 入り口, 大きめ, 満開, 境内, 平宗盛, 花, 紫色, ゴールデンウイーク, ゴールデンウィークあたり, 天竜川, さぞ, 圧巻, 寺
+cluster4:(1)
+樹齢
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 3
+deleted 3entities.

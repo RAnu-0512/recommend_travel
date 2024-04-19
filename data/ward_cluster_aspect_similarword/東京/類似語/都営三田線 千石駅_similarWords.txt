@@ -1,0 +1,9 @@
+--------------------similar_words:都営三田線 千石駅--------------------
+top3 entities near to cluster0>>
+駅, 三田線, 駅前
+top3 entities near to cluster1>>
+数多い, 少ない, たくさん
+top3 entities near to cluster2>>
+都営, 都営地下鉄, 三田線
+top3 entities near to cluster3>>
+利用者, 参加者, 利用, 参加

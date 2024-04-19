@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Appleショップ 広島本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ショップ, Appleショップ
+cluster1:(3)
+iPhone, アップル, エディオン
+cluster2:(2)
+近く, 中
+cluster3:(1)
+ビル
+cluster4:(1)
+修理
+cluster5:(1)
+広島駅
+cluster6:(1)
+安心感
+cluster7:(1)
+蔦屋家電
+
+howmany entities : 12
+howmany clusters : 8
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 8
+deleted 0entities.

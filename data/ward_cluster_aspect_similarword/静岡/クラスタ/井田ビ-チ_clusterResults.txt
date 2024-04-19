@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井田ビ-チ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海岸, ちいさい海岸
+cluster1:(2)
+気分, 元気
+cluster2:(7)
+車, こと, マリンシューズ, 水, 方, 地元, ビーチ
+cluster3:(1)
+幹線道路
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 5entities.

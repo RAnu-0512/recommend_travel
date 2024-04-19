@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いしかわ百万石物語・江戸本店【店舗移転に伴い閉店】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+起上, 加賀八幡, うら田, 石川県, 金時芋
+cluster1:(11)
+プレゼント, スイートポテト, 土産, 職場, アンテナショップ, 銀座, 帰省, 有楽町, 五郎島, 個別包装, あぶらとり紙
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

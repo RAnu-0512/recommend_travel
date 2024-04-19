@@ -1,0 +1,9 @@
+--------------------similar_words:小土肥温泉--------------------
+top3 entities near to cluster1>>
+土水, 土
+top3 entities near to cluster2>>
+海水魚, 水中魚, 海水, 水中
+top3 entities near to cluster3>>
+砂浜, 砂, 海
+top3 entities near to cluster6>>
+温泉, 温泉郷, 旅館

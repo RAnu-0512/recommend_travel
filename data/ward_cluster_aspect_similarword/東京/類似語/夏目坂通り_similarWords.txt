@@ -1,0 +1,19 @@
+--------------------similar_words:夏目坂通り--------------------
+top3 entities near to cluster0>>
+家柄, 姓, 名字
+top3 entities near to cluster1>>
+駅道, 駅, 系統
+top3 entities near to cluster2>>
+開催, 参加, 併催
+top3 entities near to cluster3>>
+クイズ, ラリー, なぞなぞ
+top3 entities near to cluster5>>
+誕生, 父, 母
+top3 entities near to cluster6>>
+光景, 風景, 情景
+top3 entities near to cluster10>>
+坂, 漱石, インフォアセット
+top3 entities near to cluster11>>
+漱石, 子規, 伸六
+top3 entities near to cluster12>>
+肖像画, 肖像, 紙幣

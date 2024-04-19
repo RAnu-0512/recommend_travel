@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜岡原子力発電所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展望エレベーター, 展望台, 展望室
+cluster1:(4)
+子供連れ, 子供達, 警備員, 子供たち
+cluster2:(5)
+震災, 地震, 事故, 東日本大震災, 東海地震
+cluster3:(6)
+館内, 電気, 工事, 原子力館, 炉, 施設
+cluster4:(3)
+大人, 子供, 親子
+cluster5:(2)
+原子力, 浜岡原発
+cluster6:(2)
+夏休み, こども
+cluster7:(7)
+ストップ, テーマ, 仕組み, みどころ, プラネタリウム, スポット, オススメ
+cluster8:(1)
+最上階
+cluster9:(2)
+人, 近く
+cluster10:(4)
+中部電力唯一, 全て, 夏場, 合間
+cluster11:(8)
+試合, 勉強, 観戦, 見学, 写真, 眺め, 模型, 中身
+cluster12:(3)
+対処, 停止, 対策
+cluster13:(2)
+興味, 機会
+cluster14:(5)
+時期, こと, もの, 場合, 場所
+cluster15:(2)
+印象, 影響
+cluster16:(1)
+事体
+cluster17:(2)
+安全性, 自由研究
+cluster18:(2)
+原子炉模型, 原子炉
+cluster19:(2)
+原子力発電, 発電
+cluster20:(2)
+発電所, 原子力発電所
+cluster21:(1)
+風力発電
+cluster22:(4)
+浜岡原子力館, 原発, 福島原発, 原発方面
+
+howmany entities : 73
+howmany clusters : 23
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 11
+deleted 21entities.

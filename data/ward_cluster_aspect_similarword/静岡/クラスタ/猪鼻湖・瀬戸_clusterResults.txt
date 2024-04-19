@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:猪鼻湖・瀬戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+湖沿い, 湖, 猪鼻神社
+cluster1:(10)
+車, ランチ, つり橋, 人, 猪鼻湖, 遊歩道, 近く, 場所, ポンカン, オススメ
+cluster2:(2)
+景観, 天気
+cluster3:(2)
+釣り, 散策
+cluster4:(3)
+水道, 水質, 橋
+cluster5:(1)
+海風
+cluster6:(2)
+透明度, 日替り
+cluster7:(1)
+三ヶ日みかん直売所
+cluster8:(1)
+御食事処元録館
+
+howmany entities : 25
+howmany clusters : 9
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 9entities.

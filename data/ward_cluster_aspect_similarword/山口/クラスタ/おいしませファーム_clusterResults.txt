@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おいしませファーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+お腹, 薫り, 後味
+cluster1:(10)
+量り売り, パック, 他, 桃, いちご, 粒, スーパー, イチゴ, 苺, 実
+cluster2:(4)
+土産, 時間, 人数, 電車
+cluster3:(1)
+いちごがり
+cluster4:(3)
+食べ比べ, 予約制, 食べ放題
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

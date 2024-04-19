@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野山北公園・あそびの森・冒険の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スパ温泉, 温泉
+cluster1:(4)
+山, 池, 森, 斜面
+cluster2:(2)
+弁当, 遊具
+cluster3:(3)
+大人, 子供, 子どもたち
+cluster4:(7)
+小学生, アクティブ, アスレチック, 子, 中, 方, プール
+cluster5:(1)
+オススメ冒険
+cluster6:(1)
+うちの子
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

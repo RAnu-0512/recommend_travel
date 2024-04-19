@@ -1,0 +1,23 @@
+--------------------similar_words:東京都檜原都民の森--------------------
+top3 entities near to cluster0>>
+森, 檜原, 里山
+top3 entities near to cluster1>>
+木工, 工芸, 木材
+top3 entities near to cluster2>>
+出発点, 出発, 足場
+top3 entities near to cluster4>>
+バス, ウッド, チップ
+top3 entities near to cluster5>>
+気温, ハイキング, 登山
+top3 entities near to cluster6>>
+初心者, 未経験, 気持ち
+top3 entities near to cluster7>>
+山登り, 山歩き, ハイキング
+top3 entities near to cluster8>>
+コース, フォレストコース, トレッキング
+top3 entities near to cluster9>>
+子供, 子ども, 大人
+top3 entities near to cluster10>>
+滝, 岩, 坂
+top3 entities near to cluster11>>
+休憩, 時間, 駐車

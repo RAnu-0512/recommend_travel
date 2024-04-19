@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カネサ鰹節商店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+人, 明治, 感覚, しおかつお, 老舗, 自宅感覚, かつお, 手, 逸品西
+cluster1:(4)
+伝統製法, 手火山式, 老舗鰹節店, 製法
+cluster2:(1)
+伊豆町田子地区
+cluster3:(1)
+香りうまみMAXないくつかの加工品 購入西伊豆田子
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明徳寺(静岡県伊豆市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(34)
+気, 納得, シモ, 曹洞宗, 注意, おばあさん, 売店, 途中, 下半身, 田舎, 祭り, 手洗い, 下, 商売気, 方, 横, パンツ, 神, バリア, 人, シンボル, お守り, 男性, 元気, トイレ, 子供, 効果, 相性, 場所, 世話, 我が家, 他, 健康, 商売
+cluster1:(2)
+絵馬, 札
+cluster2:(3)
+本尊, 寺院, 寺
+cluster3:(2)
+明徳, 伊豆
+cluster4:(9)
+東司, おさすり おまたぎ, 和式トイレ, 参拝時間, そうそうお寺, トイレの神様, うすさま明王, 天城方面, 尼仏
+cluster5:(2)
+烏枢沙摩明王, 金龍山明徳寺
+
+howmany entities : 52
+howmany clusters : 6
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 3
+deleted 6entities.

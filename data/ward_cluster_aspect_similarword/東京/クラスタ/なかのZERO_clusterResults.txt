@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なかのZERO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+中野駅, 中野, 中野区, JR中野駅
+cluster1:(3)
+駅, 徒歩, 紅葉山公園
+cluster2:(2)
+本館, 西館
+cluster3:(3)
+舞台, 公演, 客席
+cluster4:(2)
+美術ギャラリー, 展示ギャラリー
+cluster5:(4)
+大ホール, なかのZERO, ロケット団, 小ホール
+cluster6:(6)
+幼児, 子供, 健康フェスティバル, 教育, 味, 視聴覚ホール
+cluster7:(10)
+図書館, カレー, コンサート, カフェ, イベント, ステージ, 他, ホール, プラネタリウム, コンサートホール
+cluster8:(4)
+場所, 目的, 話, 事
+cluster9:(2)
+利用, 施設
+cluster10:(1)
+目線
+cluster11:(1)
+白酒
+cluster12:(1)
+線路沿い
+cluster13:(4)
+リハーサル室, 学習室, 一之輔, 音楽練習室
+
+howmany entities : 47
+howmany clusters : 14
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 14
+deleted 0entities.

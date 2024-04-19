@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜当目海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駐車場, 海水浴場, 更衣室, 監視員
+cluster1:(2)
+安心感, 透明度
+cluster2:(22)
+カメ, 虚空蔵山, 水, 焼津, フグ, 海水浴, ハゼ, シーズン, 人, シャワー, 感じ, 波, 夏, 海, 足, 砂浜, トイレ, 子供, 石, 津波, 天気, 小山
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 2entities.

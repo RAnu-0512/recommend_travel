@@ -1,0 +1,19 @@
+--------------------similar_words:竹の子狩り(静岡県南伊豆町)--------------------
+top3 entities near to cluster0>>
+のこ, ぐみ, まさん
+top3 entities near to cluster1>>
+たけ, うちあい, おさん
+top3 entities near to cluster2>>
+狩り, 狩る, 狩っ
+top3 entities near to cluster4>>
+体験, 友達, 家族
+top3 entities near to cluster5>>
+子供, 大人, 服装
+top3 entities near to cluster7>>
+土水, 土
+top3 entities near to cluster8>>
+子, 芽, 村
+top3 entities near to cluster11>>
+裏山, 山, 海
+top3 entities near to cluster12>>
+煮物, 刺身, 料理

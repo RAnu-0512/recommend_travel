@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白岩温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+共同浴場, 小川温泉共同浴場, 浴場, 公営浴場
+cluster1:(14)
+お湯, 扇方, 湯船, 無料休憩所, 値上げ, 注, 伊豆市, 洗い場, 体, ロッカー, 市民, 年寄り, 浴槽, 地元
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

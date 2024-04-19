@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金刀比羅神社(東京都文京区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+穴場, 都会, 絶叫, 規模, ビル
+cluster1:(2)
+金刀比羅宮, アトラクション
+cluster2:(2)
+三田線, 白山通り
+cluster3:(1)
+雰囲気
+cluster4:(1)
+水道橋
+cluster5:(2)
+東京, 東京ドームシティ
+cluster6:(1)
+四国
+cluster7:(12)
+人たち, 場所, 人, 水道橋駅, 間, 仕事途中, 近く, 奥, 趣, 方, 右側, 通り
+cluster8:(1)
+都営
+cluster9:(2)
+分社, 東京分社
+cluster10:(5)
+神社, 金毘羅神社, 鳥居, 本殿, 境内
+cluster11:(1)
+こんぴら参り
+cluster12:(1)
+金刀比羅神社
+
+howmany entities : 36
+howmany clusters : 13
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 13
+deleted 0entities.

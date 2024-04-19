@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森の駅 富士山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+そばもどき, そば, そば粉
+cluster1:(11)
+雰囲気, 土産, 店, 富士山, 施設, 味, 小麦粉, レストラン, カレー, レトルト, 駅
+cluster2:(3)
+火口, 登山, 富士
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 0entities.

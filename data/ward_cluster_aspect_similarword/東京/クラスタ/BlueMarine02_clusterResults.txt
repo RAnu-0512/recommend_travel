@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:BlueMarine02>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+体験, 体験ダイビング
+cluster1:(9)
+ボートダイブ, スタッフ, ダイビング, スキューバダイビング, シュノーケル, スクリュー, インストラクター, ダイバー, アフターダイブ
+cluster2:(2)
+ところ, おかげ
+cluster3:(3)
+おすすめ, オススメ, おすすめスポット
+cluster4:(4)
+ファンダイビング, グルメ, ランチ, 餌付け
+cluster5:(1)
+式根島
+cluster6:(12)
+沢山, 参考, 近く, 案内, 予約, ダイビングし, 時間, 方, 中, こと, 魅力, 友人
+cluster7:(6)
+観光, 島, 根島, 海, 地形ダイブ, 観光スポット
+cluster8:(9)
+昼ご飯, 魚たち, 魚さん達, 透明度, 漬け丼, 浦海岸, 浦海水浴場, 海水浴場, 魚
+
+howmany entities : 48
+howmany clusters : 9
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 9
+deleted 0entities.

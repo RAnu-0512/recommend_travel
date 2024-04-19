@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:油谷青年の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+施設, 宿泊
+cluster1:(3)
+管理, 油谷湾, アクティビティ
+cluster2:(2)
+指導, 職員
+cluster3:(1)
+安全
+cluster4:(1)
+プライベートビーチ&カヤック
+cluster5:(1)
+油谷
+cluster6:(1)
+計画書
+
+howmany entities : 11
+howmany clusters : 7
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 7
+deleted 0entities.

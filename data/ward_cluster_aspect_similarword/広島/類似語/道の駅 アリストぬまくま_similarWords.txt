@@ -1,0 +1,11 @@
+--------------------similar_words:道の駅 アリストぬまくま--------------------
+top3 entities near to cluster1>>
+海魚, 海, 海水魚, 海水
+top3 entities near to cluster2>>
+フリー, ペーパー, 子ども
+top3 entities near to cluster3>>
+地元, 遠方, 近隣
+top3 entities near to cluster4>>
+野菜, 果物, 土産
+top3 entities near to cluster5>>
+鮮魚, 魚市場, 漁港

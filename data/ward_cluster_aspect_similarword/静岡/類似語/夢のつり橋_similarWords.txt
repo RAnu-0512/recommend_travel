@@ -1,0 +1,71 @@
+--------------------similar_words:夢のつり橋--------------------
+top3 entities near to cluster0>>
+峡, 寸, 温泉
+top3 entities near to cluster1>>
+ブルー, グリーン, イエロー
+top3 entities near to cluster2>>
+コース, フォレストコース, ハイキング
+top3 entities near to cluster3>>
+上り坂, 下り坂, 道のり
+top3 entities near to cluster5>>
+カモシカ, カエル, ヤクザル
+top3 entities near to cluster6>>
+ガレージ, 自動車, マイカー
+top3 entities near to cluster7>>
+行き帰り, 帰り道
+top3 entities near to cluster8>>
+カップル, スタッフ, グループ
+top3 entities near to cluster9>>
+オフシーズン, シーズンオフ, アトラクション
+top3 entities near to cluster11>>
+ほんとう, ホント, おもしろい
+top3 entities near to cluster17>>
+気持ち, 気持, 気分
+top3 entities near to cluster18>>
+ホテル, 遊歩道, 入り口
+top3 entities near to cluster23>>
+足元, 足場, 足
+top3 entities near to cluster26>>
+家族, 子供, 年配
+top3 entities near to cluster30>>
+時間程度, 時間, 距離
+top3 entities near to cluster31>>
+自信, 余裕, 価値
+top3 entities near to cluster32>>
+感動, 興奮, 行列
+top3 entities near to cluster34>>
+駐車, 駅, 駅前
+top3 entities near to cluster36>>
+ダム, 湖, 湖畔
+top3 entities near to cluster37>>
+階段, 登り, 石段
+top3 entities near to cluster38>>
+時間, 混雑
+top3 entities near to cluster39>>
+景色, 紅葉, 木々
+top3 entities near to cluster40>>
+吊橋, 吊り橋, 夢
+top3 entities near to cluster41>>
+散策, 歩く, 散歩
+top3 entities near to cluster43>>
+高所, 落石, 恐怖症
+top3 entities near to cluster44>>
+往復, 片道, 徒歩
+top3 entities near to cluster48>>
+岩, 山, 川
+top3 entities near to cluster50>>
+吊り橋, つり橋, 吊橋
+top3 entities near to cluster51>>
+大橋, 架る
+top3 entities near to cluster52>>
+その道, 道筋
+top3 entities near to cluster53>>
+入口, 入り口, 出入り口
+top3 entities near to cluster54>>
+温泉, 駅, 宿
+top3 entities near to cluster55>>
+歩道, 道路, 通路
+top3 entities near to cluster56>>
+駐車, 自家用車
+top3 entities near to cluster57>>
+温泉, 旅館, 土産物

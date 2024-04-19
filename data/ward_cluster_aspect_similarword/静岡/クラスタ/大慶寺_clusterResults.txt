@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大慶寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+こと, シェアサイクル, 目的, 閑散
+cluster1:(4)
+宿場印, 日蓮聖人, 藤枝駅, 久遠の松
+cluster2:(1)
+日本文化遺産
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 1entities.

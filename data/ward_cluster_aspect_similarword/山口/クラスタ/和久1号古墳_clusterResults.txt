@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和久1号古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+道, 古墳, 敷地
+cluster1:(2)
+下関駅, 豊北
+cluster2:(1)
+展望台
+cluster3:(1)
+北浦街道
+cluster4:(1)
+角島大橋
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

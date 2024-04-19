@@ -1,0 +1,23 @@
+--------------------similar_words:龍宮城工作室--------------------
+top3 entities near to cluster1>>
+早朝, 自宅, 夕方
+top3 entities near to cluster2>>
+本丸, 皇居, 石垣
+top3 entities near to cluster3>>
+天候, 天気, お天気
+top3 entities near to cluster4>>
+人柄, 手製, 心遣い
+top3 entities near to cluster6>>
+興味, 知識, 関心
+top3 entities near to cluster7>>
+歴史, 時代
+top3 entities near to cluster8>>
+資料, 情報, 文献
+top3 entities near to cluster9>>
+内容, 話, お話
+top3 entities near to cluster10>>
+雑学, トリビア・, トリビア
+top3 entities near to cluster11>>
+伝説, 都市, 大都市
+top3 entities near to cluster12>>
+事態, 緊急, 宣言

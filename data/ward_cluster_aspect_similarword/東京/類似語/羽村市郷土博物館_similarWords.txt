@@ -1,0 +1,11 @@
+--------------------similar_words:羽村市郷土博物館--------------------
+top3 entities near to cluster0>>
+郷土, 資料, 館
+top3 entities near to cluster1>>
+資料, 館, 史料
+top3 entities near to cluster2>>
+展示, 歴史, 展覧
+top3 entities near to cluster3>>
+民家, 歴史, 文化
+top3 entities near to cluster4>>
+村羽, 村橋, 村

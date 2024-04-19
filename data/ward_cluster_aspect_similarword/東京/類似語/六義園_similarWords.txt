@@ -1,0 +1,51 @@
+--------------------similar_words:六義園--------------------
+top3 entities near to cluster0>>
+遊歩道, 園内, 入り口
+top3 entities near to cluster1>>
+巣窟, 餓流, 巣くつ
+top3 entities near to cluster2>>
+花盛り, 盛, 花
+top3 entities near to cluster3>>
+緑, 水辺, 木々
+top3 entities near to cluster4>>
+抹茶, 茶, 緑茶
+top3 entities near to cluster5>>
+茶店, 売店, 土産物
+top3 entities near to cluster6>>
+花, お花, 駅
+top3 entities near to cluster7>>
+りく, ぎえん, ざんかい
+top3 entities near to cluster8>>
+冬, 秋, 晩秋
+top3 entities near to cluster11>>
+高層, 建築
+top3 entities near to cluster12>>
+混雑, 長蛇, 行列
+top3 entities near to cluster13>>
+風情, 趣, 趣き
+top3 entities near to cluster14>>
+景色, 風景, 景観
+top3 entities near to cluster15>>
+名所, 見所, 見どころ
+top3 entities near to cluster16>>
+気分, 境地, 気持ち
+top3 entities near to cluster17>>
+休憩, 所内
+top3 entities near to cluster18>>
+事態, 緊急, 宣言
+top3 entities near to cluster19>>
+庭園, 中庭, 茶室
+top3 entities near to cluster20>>
+清水, 林, 城山
+top3 entities near to cluster21>>
+紅葉, 桜, 満開
+top3 entities near to cluster22>>
+外客, 外国, 乗客
+top3 entities near to cluster23>>
+入場, 入館, 来場
+top3 entities near to cluster24>>
+入園料, 入場料, 入場, 入園
+top3 entities near to cluster25>>
+入園券, 入場券, 入園, 入場
+top3 entities near to cluster26>>
+園内, 散策, 公園

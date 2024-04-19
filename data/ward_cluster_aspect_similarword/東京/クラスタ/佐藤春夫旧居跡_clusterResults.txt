@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐藤春夫旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+谷崎潤一郎, 佐藤春夫
+cluster1:(4)
+明星, 明治, 佐藤, 千代
+cluster2:(2)
+家, 自宅
+cluster3:(3)
+作品, スバル, 中学生
+cluster4:(1)
+詩人
+cluster5:(1)
+地
+cluster6:(1)
+交友
+cluster7:(1)
+小説家
+cluster8:(1)
+歌壇
+cluster9:(1)
+石川啄木選
+
+howmany entities : 17
+howmany clusters : 10
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 10
+deleted 0entities.

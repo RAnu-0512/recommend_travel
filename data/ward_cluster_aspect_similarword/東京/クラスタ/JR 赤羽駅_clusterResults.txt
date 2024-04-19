@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR 赤羽駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+商店, 昔, バスターミナル, 金曜日, 昭和, 東京, 人, 東北線, 埼京線, 終電間際, 街, 飲み屋, 仲間, 路線, 駅, 京浜, 列車, 仕事帰り, イメージ, 商店街, 飲食店, 時間, 中, 地図, エキュート, 周辺, 雰囲気, 飲屋街, 乗り換え, 浜松町
+cluster1:(8)
+上野東京ライン, 東京都北区, JR 赤羽駅, 湘南新宿, 赤羽, 湘南新宿ライン, 赤羽駅, 駅構内
+
+howmany entities : 38
+howmany clusters : 2
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 2
+deleted 0entities.

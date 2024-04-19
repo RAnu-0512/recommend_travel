@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雨田草堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+記念, 明治
+cluster1:(1)
+出身
+cluster2:(1)
+堂
+cluster3:(1)
+浄土真宗本願寺派
+cluster4:(1)
+地黙雷上人
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

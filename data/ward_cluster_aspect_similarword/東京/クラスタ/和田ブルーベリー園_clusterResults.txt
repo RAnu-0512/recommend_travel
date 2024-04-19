@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和田ブルーベリー園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+和田, 和田洋介
+cluster1:(2)
+農園, ブルーベリー園
+cluster2:(8)
+中, 方, ブルーベリー, 左, 虫除けスプレー, 口, ブルーベリー摘み取り, 紫色
+cluster3:(1)
+取れたて
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

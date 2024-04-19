@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千畳敷高原キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+風, 野原, 夏, 緑, 海, 夏場
+cluster1:(2)
+日本, 人
+cluster2:(10)
+カフェ, アスレチック, サイト, キッチン, 千畳敷, 日本海, カントリーキッチン, トイレ, 夕暮れ, キャンプ
+cluster3:(3)
+場所, 物, キャンプ場
+cluster4:(4)
+眼下, 高台, 漁火, 絶景
+cluster5:(1)
+避暑地
+cluster6:(1)
+イカ釣り漁船
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

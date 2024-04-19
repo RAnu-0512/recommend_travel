@@ -1,0 +1,13 @@
+--------------------similar_words:西湖の堤(小石川後楽園)--------------------
+top3 entities near to cluster0>>
+中央部, 中央, 反対
+top3 entities near to cluster1>>
+景色, 風景, 光景
+top3 entities near to cluster3>>
+開園, 庭園
+top3 entities near to cluster4>>
+堤地, 景勝地, 景勝, 堤
+top3 entities near to cluster5>>
+高層, ビル, ノッポビル
+top3 entities near to cluster6>>
+離宮, 庭園, 恩賜

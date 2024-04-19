@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハウス食品(株)静岡工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+見学, 見学内容, 写真撮影タイム
+cluster1:(14)
+こと, 子供, 土産, 勢い, 製品, 方, こらーー, 施設, 工場, 瞬間, 姉さん, もの, 説明, 物
+cluster2:(1)
+一人
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 1entities.

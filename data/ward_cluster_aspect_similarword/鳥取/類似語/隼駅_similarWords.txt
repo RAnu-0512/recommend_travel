@@ -1,0 +1,19 @@
+--------------------similar_words:隼駅--------------------
+top3 entities near to cluster0>>
+都, 大正, 平成
+top3 entities near to cluster1>>
+映画国, 風景, 映画
+top3 entities near to cluster2>>
+バイク, ライダー, 人達
+top3 entities near to cluster3>>
+愛車, クルマ, 下取り
+top3 entities near to cluster4>>
+機種, スペック, 端末
+top3 entities near to cluster5>>
+聖地, 巡礼, 総本山
+top3 entities near to cluster6>>
+予防, 接種, 対策
+top3 entities near to cluster7>>
+駅, 駅舎, 構内
+top3 entities near to cluster9>>
+有形, 登録, 文化財

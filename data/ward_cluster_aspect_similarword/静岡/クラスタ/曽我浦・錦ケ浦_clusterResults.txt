@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:曽我浦・錦ケ浦>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+熱海, 伊東, 熱海城
+cluster1:(2)
+断崖, 絶壁
+cluster2:(7)
+間近, 注意, こと, もの, 迫力, 方, 高度
+cluster3:(2)
+車, 道路
+cluster4:(2)
+自然, 風景
+cluster5:(5)
+ホテル, アカオハーブ, 海沿い, 海, 断崖絶壁
+cluster6:(4)
+周辺, 時間, 近く, 場所
+cluster7:(1)
+波
+cluster8:(1)
+名所
+cluster9:(1)
+横断
+cluster10:(2)
+高さ, 途中坂
+
+howmany entities : 30
+howmany clusters : 11
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 11entities.

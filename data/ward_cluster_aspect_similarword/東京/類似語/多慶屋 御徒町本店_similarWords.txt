@@ -1,0 +1,53 @@
+--------------------similar_words:多慶屋 御徒町本店--------------------
+top3 entities near to cluster0>>
+ショップ, デパート, 売り場
+top3 entities near to cluster1>>
+商品, 値段, 価格
+top3 entities near to cluster2>>
+紫色, 紫, 緑色
+top3 entities near to cluster3>>
+同僚, 会社, 友人
+top3 entities near to cluster5>>
+大型, 混雑, 多
+top3 entities near to cluster6>>
+子供, 家族, 家庭
+top3 entities near to cluster7>>
+大抵, 昔, 以前
+top3 entities near to cluster8>>
+地元, 近所, 近辺
+top3 entities near to cluster9>>
+周辺, 近辺
+top3 entities near to cluster11>>
+意地, 悪ば, 張り合い
+top3 entities near to cluster12>>
+大正, 平成, 明治
+top3 entities near to cluster13>>
+海外, 土産, 輸入
+top3 entities near to cluster14>>
+爆買い, 税, 爆
+top3 entities near to cluster15>>
+菓子屋, 菓子, お菓子
+top3 entities near to cluster16>>
+雑貨店, 雑貨, 生活
+top3 entities near to cluster17>>
+家具, 家電, 雑貨
+top3 entities near to cluster18>>
+店員, 店内
+top3 entities near to cluster19>>
+ビル, 駅, 駅前
+top3 entities near to cluster21>>
+外国語, 母国語, 外国, 母国
+top3 entities near to cluster22>>
+外客, お客, 乗客
+top3 entities near to cluster24>>
+雑貨品, 食料品, 雑貨, 食料
+top3 entities near to cluster25>>
+用品, グッズ, 雑貨
+top3 entities near to cluster26>>
+食料品, 品等, 食料
+top3 entities near to cluster27>>
+食品, 売場, 売り場
+top3 entities near to cluster28>>
+電化, 電池, 製品
+top3 entities near to cluster29>>
+安い, ウマスイーツ, 沈上

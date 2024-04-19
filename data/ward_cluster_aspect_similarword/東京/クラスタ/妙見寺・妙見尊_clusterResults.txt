@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:妙見寺・妙見尊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+稲城駅, 京王相模原線
+cluster1:(2)
+寺院, 寺
+cluster2:(5)
+高台, 名残, 南口, 京王線, 横
+cluster3:(1)
+妙見宮
+cluster4:(1)
+神仏混淆
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

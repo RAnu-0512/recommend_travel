@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:可睡齋ぼたん苑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ぼたん, ぼたん苑
+cluster1:(2)
+苑, 牡丹
+cluster2:(5)
+花, セット, 花びら, こども, 七草粥
+cluster3:(2)
+数, 時期
+cluster4:(1)
+煮物
+cluster5:(1)
+大きなお寺
+cluster6:(1)
+こいのぼり
+cluster7:(1)
+広さ
+cluster8:(1)
+精進料理
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 11entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島ごと美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+美術作品, 屋外アート
+cluster1:(2)
+島内, 島
+cluster2:(6)
+サンセットビーチ, インスピレーション, オブジェ, サイクリング, 美術館, アーティスト
+cluster3:(2)
+瀬戸内, 生口島
+cluster4:(3)
+地元, 今回, 終了
+cluster5:(9)
+もの, 心, 個性, 形, 旅行, 作品, 場所, 風景, 作家
+cluster6:(2)
+自ら設置場所, 期間限定
+cluster7:(2)
+走行距離, 道路沿い
+cluster8:(1)
+国際芸術祭
+
+howmany entities : 29
+howmany clusters : 9
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 9
+deleted 0entities.

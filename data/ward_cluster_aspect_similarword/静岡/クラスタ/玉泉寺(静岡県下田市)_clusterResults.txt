@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉泉寺(静岡県下田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+下田水仙まつり, 初代日本総領事ハリス, 街下田, 下田, 開港, 黒船, 吉田松陰, 開国
+cluster1:(11)
+車, 事, 史実, 足跡, もの, 歴史, 階段, 人々, 難点, 場所, 地
+cluster2:(2)
+展示, 併設
+cluster3:(13)
+米国, 領事館, 途中, ペリー, ハリス, 日本, 伊豆下田, 見送り, 爪木崎, アメリカ総領事館, チラシ, 前後, ハリス博物館
+cluster4:(4)
+境内, 墓地, 領事, 寺
+cluster5:(2)
+割引券, 観光案内所
+
+howmany entities : 40
+howmany clusters : 6
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 4
+deleted 4entities.

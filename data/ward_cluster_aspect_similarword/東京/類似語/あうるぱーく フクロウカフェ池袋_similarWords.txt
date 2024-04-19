@@ -1,0 +1,43 @@
+--------------------similar_words:あうるぱーく フクロウカフェ池袋--------------------
+top3 entities near to cluster0>>
+制限, 時間, 制約
+top3 entities near to cluster1>>
+子供, 子ども, 子
+top3 entities near to cluster4>>
+蛇, ヘビ, 白
+top3 entities near to cluster5>>
+肩, 腕, ハリ
+top3 entities near to cluster6>>
+思い出, ファン, 雰囲気
+top3 entities near to cluster7>>
+触れ合い, フレンドリー, おかげ
+top3 entities near to cluster8>>
+フクロウ, ふくろう, カワセミ
+top3 entities near to cluster9>>
+こども, 子ども, 子供
+top3 entities near to cluster10>>
+餌付き, 餌付い, 餌付か
+top3 entities near to cluster11>>
+ちゃん, カフェ, フクロウ
+top3 entities near to cluster12>>
+店員, 店内
+top3 entities near to cluster13>>
+動物, 猫, ネコ
+top3 entities near to cluster14>>
+子供, 娘, 家族
+top3 entities near to cluster15>>
+部屋, 写真, 画像
+top3 entities near to cluster16>>
+体型, 体形, 体格
+top3 entities near to cluster17>>
+下す, くだす, 癒す
+top3 entities near to cluster18>>
+エサ, 餌, えさ
+top3 entities near to cluster19>>
+体験, 体験談, 体感
+top3 entities near to cluster20>>
+触り, 触っ
+top3 entities near to cluster21>>
+漕ぎ手, 漕ぎ
+top3 entities near to cluster22>>
+体験手, 乗せ, 体験

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千春楽城山窯_萩焼体験>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+制作体験, 体験, 陶芸体験
+cluster1:(3)
+お皿, 皿, 窯元
+cluster2:(2)
+食事, 料理
+cluster3:(8)
+師匠, 喜び, フランク, グラス, 違い, 色合い, 今回, 気持ち
+cluster4:(3)
+GW, 雨, 土
+cluster5:(1)
+ど素人
+cluster6:(1)
+萩焼
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

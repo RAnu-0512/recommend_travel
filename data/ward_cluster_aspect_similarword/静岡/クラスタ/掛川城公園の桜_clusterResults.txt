@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:掛川城公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+掛川城公園, 掛川駅, なあ掛川城, 掛川, 掛川城
+cluster1:(5)
+満開, 枝垂れ梅, しだれ桜, 四季桜, 桜
+cluster2:(2)
+駐車場, 川沿い
+cluster3:(3)
+時期, 種類, 色
+cluster4:(6)
+博物館, ステンドグラス, ホテル, 日本, ソメイヨシノ, 桜並木
+cluster5:(3)
+周り, 家族, 写真
+cluster6:(1)
+帰り
+cluster7:(1)
+城
+cluster8:(2)
+蓮池, 東海
+cluster9:(1)
+時間外
+cluster10:(1)
+海抜
+cluster11:(2)
+名城, 木造天守閣最上階
+
+howmany entities : 32
+howmany clusters : 12
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 10entities.

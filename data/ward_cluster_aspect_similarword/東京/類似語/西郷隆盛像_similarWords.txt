@@ -1,0 +1,43 @@
+--------------------similar_words:西郷隆盛像--------------------
+top3 entities near to cluster0>>
+撮影, 写真, 記念
+top3 entities near to cluster1>>
+お客, 外客, 乗客
+top3 entities near to cluster4>>
+正面, 横, 真横
+top3 entities near to cluster5>>
+公園, 駅, 駅前
+top3 entities near to cluster7>>
+街並み, 雰囲気, 風情
+top3 entities near to cluster9>>
+テレビ, ドラマ, 映画
+top3 entities near to cluster10>>
+シート, トラック, バッグ
+top3 entities near to cluster11>>
+隅っこ, 入り口, 端っこ
+top3 entities near to cluster12>>
+ホテル, 修学旅行, ラブホテル
+top3 entities near to cluster13>>
+シンボル, 見どころ, おなじみ
+top3 entities near to cluster14>>
+主人公, メイン, モデル
+top3 entities near to cluster16>>
+ハチ公, さくら, テラス
+top3 entities near to cluster17>>
+名物, 人気, 貫禄
+top3 entities near to cluster19>>
+庶民, 精神, 民衆
+top3 entities near to cluster20>>
+大河, 大河ドラマ, ＮＨＫ
+top3 entities near to cluster21>>
+話作, 話, 作者
+top3 entities near to cluster22>>
+父, 父親, 中学
+top3 entities near to cluster23>>
+動物, 海外
+top3 entities near to cluster25>>
+光雲, 彰, 豊周
+top3 entities near to cluster26>>
+姿, 銅像
+top3 entities near to cluster27>>
+隆盛, 西郷, 銅像

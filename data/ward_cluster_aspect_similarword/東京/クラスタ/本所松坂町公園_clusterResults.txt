@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本所松坂町公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+討ち入り, 元, 名, 脚色, 感じ, 記憶, イメージ, 忠臣蔵, 本所, 方, 吉良上野介, 地元
+cluster1:(2)
+像, 座像
+cluster2:(3)
+跡地, 遺構, 跡
+cluster3:(2)
+公園, 井戸
+cluster4:(1)
+なまこ壁
+cluster5:(3)
+供養碑, 首洗い, 首
+cluster6:(8)
+吉良町, 吉良公, 赤穂浪士, 吉良, 吉良邸, 江戸時代, 吉良方, 江戸情緒
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

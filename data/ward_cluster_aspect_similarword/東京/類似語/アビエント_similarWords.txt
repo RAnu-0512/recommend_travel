@@ -1,0 +1,19 @@
+--------------------similar_words:アビエント--------------------
+top3 entities near to cluster0>>
+東急, エクセルホテル, スクエアガーデンサイト
+top3 entities near to cluster2>>
+隣接, 直結, 駅
+top3 entities near to cluster3>>
+景色, 夜景, 眺め
+top3 entities near to cluster5>>
+開店, 店内
+top3 entities near to cluster7>>
+レストラン, ランチ, イタリアン
+top3 entities near to cluster8>>
+ホテル, レストラン, 最上階
+top3 entities near to cluster9>>
+友達, 親戚, 料理
+top3 entities near to cluster10>>
+., i, 05
+top3 entities near to cluster11>>
+高層階, 高層, 低層階, 低層

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:テルミナ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+錦糸町駅, 食品売り場
+cluster1:(2)
+男性, 女性
+cluster2:(2)
+物, 場所
+cluster3:(9)
+使い勝手, トイレ, 手前, BABY ROOM, ヨドバシ, 買い物, カーテン, カメラ, テルミナ
+cluster4:(1)
+地下
+cluster5:(1)
+良さ
+cluster6:(1)
+電子レンジ
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 7
+deleted 0entities.

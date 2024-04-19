@@ -1,0 +1,15 @@
+--------------------similar_words:仁王堂公園--------------------
+top3 entities near to cluster0>>
+天狗, カラス, 烏天狗
+top3 entities near to cluster1>>
+周辺, 周囲, 辺り
+top3 entities near to cluster3>>
+眺め, 眺める, ながめ
+top3 entities near to cluster4>>
+掲画, 銅像
+top3 entities near to cluster5>>
+視界, 視認, 視程
+top3 entities near to cluster6>>
+公園, 田園, 蕎麦
+top3 entities near to cluster7>>
+海, 山側, 向こう

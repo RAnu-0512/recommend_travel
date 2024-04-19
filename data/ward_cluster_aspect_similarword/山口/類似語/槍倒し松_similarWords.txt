@@ -1,0 +1,13 @@
+--------------------similar_words:槍倒し松--------------------
+top3 entities near to cluster0>>
+松, 柳, 岡
+top3 entities near to cluster1>>
+大勢, 人達
+top3 entities near to cluster2>>
+経緯, いきさつ
+top3 entities near to cluster3>>
+役割, 役目, 責務
+top3 entities near to cluster4>>
+景観, 街並み, 町並み
+top3 entities near to cluster5>>
+袂, たもと, 分かつ

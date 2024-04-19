@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スビアコ モザイクタイル体験工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+写真立て, 写真たて
+cluster1:(6)
+姉, 赤ちゃん連れ, 家族, 息子, 娘, お子
+cluster2:(5)
+パネルアート, 工房, タイル, モザイクタイル, 表札
+cluster3:(2)
+予約, 体験
+cluster4:(17)
+最後, アトリエ, 制作, 思い出, 日本, 写真, 物, もの, 時間, 名前, 中, デザイン, モザイクタイルアート, オーナー, 作品, 小学生, 方
+cluster5:(1)
+移転
+cluster6:(1)
+不器
+
+howmany entities : 34
+howmany clusters : 7
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 6entities.

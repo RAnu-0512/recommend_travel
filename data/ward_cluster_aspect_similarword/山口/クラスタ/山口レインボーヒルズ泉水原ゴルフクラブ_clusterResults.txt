@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口レインボーヒルズ泉水原ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ショット, グリーン
+cluster1:(1)
+バンカー
+cluster2:(1)
+ゴルフコース
+cluster3:(1)
+周辺
+cluster4:(1)
+狙い
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:伊豆大島--------------------
+top3 entities near to cluster0>>
+周遊, バス, 土産物
+top3 entities near to cluster1>>
+人数, 少, 定員
+top3 entities near to cluster2>>
+参加, ツアー, 日帰り
+top3 entities near to cluster3>>
+ツアー, コース
+top3 entities near to cluster5>>
+日, 月, 年
+top3 entities near to cluster6>>
+島, シキホール, 島内
+top3 entities near to cluster9>>
+出発, 到着, 出立

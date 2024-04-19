@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝海舟邸跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+森タワー52階水木しげるの妖怪展, まち歩きコースマップBエリア赤坂青山
+cluster1:(3)
+城西大学水田記念博物館, 坂本龍馬像, 高円宮記念ギャラリー企画展
+cluster2:(26)
+途中, 幕末ファン, 石碑, 場所, 赤坂, 氷川小学校, 六本木ヒルズ, ところ, 街歩き, 街中, 日枝神社, 港区, 跡地, 勝海舟, 見学, カナダ大使館, 師弟像, アクリル板, 邸宅, 像, 写真, 化石ギャラリー, 赤坂駅, 道, 大石道夫, 赤坂氷川神社
+
+howmany entities : 31
+howmany clusters : 3
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 3
+deleted 0entities.

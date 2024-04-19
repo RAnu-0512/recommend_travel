@@ -1,0 +1,33 @@
+--------------------similar_words:東京都慰霊堂(鐘楼堂・復興記念館・震災遭難児弔魂像)--------------------
+top3 entities near to cluster0>>
+空襲, 公園, 両国
+top3 entities near to cluster1>>
+道具, 大工, 調理
+top3 entities near to cluster2>>
+建築, 建物, 家屋
+top3 entities near to cluster3>>
+支援, 物資, 援助
+top3 entities near to cluster5>>
+多額, 死者, 遺骨
+top3 entities near to cluster6>>
+世代, 子, 若い
+top3 entities near to cluster7>>
+施設, 公園, 周辺
+top3 entities near to cluster8>>
+写真絵, 写真, 展示
+top3 entities near to cluster9>>
+認識, 記憶, 気分
+top3 entities near to cluster10>>
+多数, 大勢, 数多い
+top3 entities near to cluster11>>
+家族, 親族
+top3 entities near to cluster12>>
+雰囲気, ひと時, 気持ち
+top3 entities near to cluster14>>
+遭難, 犠牲, 殉難
+top3 entities near to cluster15>>
+慰霊, 法要, 供養
+top3 entities near to cluster16>>
+陸軍, 大戦, 戦時
+top3 entities near to cluster17>>
+慰霊堂, 館堂, 慰霊, 館

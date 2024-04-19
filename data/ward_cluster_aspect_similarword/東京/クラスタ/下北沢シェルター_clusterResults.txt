@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下北沢シェルター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハードロック, コア
+cluster1:(2)
+全国, 夏
+cluster2:(8)
+ステージ, ライブ, インディーズバンド, ライブハウス, バンド, アーティスト, ロックバンド, ペットボトル
+cluster3:(2)
+思い出, 雰囲気
+cluster4:(1)
+下北沢
+cluster5:(1)
+人
+cluster6:(2)
+場所, ほう
+cluster7:(1)
+観
+cluster8:(7)
+ライブ感, 背, 距離, 段差, 熱気, 水分, 足
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 9
+deleted 0entities.

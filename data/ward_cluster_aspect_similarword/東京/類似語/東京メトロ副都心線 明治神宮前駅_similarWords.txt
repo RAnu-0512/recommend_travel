@@ -1,0 +1,15 @@
+--------------------similar_words:東京メトロ副都心線 明治神宮前駅--------------------
+top3 entities near to cluster0>>
+乗り継ぎ, 乗り換え, 乗換え
+top3 entities near to cluster1>>
+出入り口, エスカレーター, 入り口
+top3 entities near to cluster2>>
+出入り, 行き来, 出入
+top3 entities near to cluster3>>
+地下鉄, メトロ, 市営
+top3 entities near to cluster4>>
+利用, 使用, 活用
+top3 entities near to cluster5>>
+時間, 余裕
+top3 entities near to cluster6>>
+地下, 改札, 地上

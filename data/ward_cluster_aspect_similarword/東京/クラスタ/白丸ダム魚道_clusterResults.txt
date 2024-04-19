@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白丸ダム魚道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+観光, 途中, 見学路, 下流, 上流, 水中, 景色, 表示, 新型コロナ蔓延, 状態, 深さ, 改修, 姿, 構造, 遊歩道, 施設, 見学, 時期, 前回, 景観, 地下, 様子, 合えば魚, 流入口, 魚, 脇, 観光施設, 階段
+cluster1:(4)
+ダム, ダム湖, 白丸ダム, エコっと白丸
+cluster2:(2)
+魚道管理棟, 魚道
+cluster3:(2)
+立坑, 立坑底部
+cluster4:(1)
+鳩ノ巣渓谷
+cluster5:(1)
+魚道管理棟と再生可能エネルギーPR館
+
+howmany entities : 38
+howmany clusters : 6
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 6
+deleted 0entities.

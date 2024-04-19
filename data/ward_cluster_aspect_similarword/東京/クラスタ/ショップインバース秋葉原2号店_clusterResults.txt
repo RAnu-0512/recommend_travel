@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ショップインバース秋葉原2号店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パソコンパーツ, パーツ
+cluster1:(1)
+パソコン
+cluster2:(1)
+秋葉原
+cluster3:(1)
+店
+cluster4:(1)
+裏道
+cluster5:(1)
+電気街
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:勝どき駅--------------------
+top3 entities near to cluster0>>
+改札, 出口, 地上
+top3 entities near to cluster1>>
+思い, 印象, 思う
+top3 entities near to cluster2>>
+マンション, タワー, 都心
+top3 entities near to cluster4>>
+周り, 周辺, 隣
+top3 entities near to cluster5>>
+駅, 駅前, 地下鉄

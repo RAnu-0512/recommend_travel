@@ -1,0 +1,9 @@
+--------------------similar_words:ファーマーズテーブル--------------------
+top3 entities near to cluster0>>
+カフェ, メニュー, 喫茶店
+top3 entities near to cluster1>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster2>>
+店舗, 店主
+top3 entities near to cluster3>>
+雑貨, カフェクリエイター, 小物

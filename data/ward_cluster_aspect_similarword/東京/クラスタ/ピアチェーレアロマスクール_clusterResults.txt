@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ピアチェーレアロマスクール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アロマスプレー, イメージ
+cluster1:(1)
+アロマ
+cluster2:(1)
+お守り
+cluster3:(2)
+話, 事
+cluster4:(1)
+先生
+cluster5:(1)
+香り
+cluster6:(1)
+蜜蝋クリーム作り
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

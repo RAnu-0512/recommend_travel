@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金剛寺の青梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+金剛寺, 平将門
+cluster1:(1)
+梅
+cluster2:(1)
+木
+cluster3:(1)
+幹
+cluster4:(1)
+青梅
+cluster5:(1)
+地名
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

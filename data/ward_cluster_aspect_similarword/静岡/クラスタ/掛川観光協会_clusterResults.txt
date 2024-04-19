@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:掛川観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+掛川駅, ドーミーイン掛川, 掛川, 掛川宿, 掛川城
+cluster1:(2)
+宿場印, 御城印
+cluster2:(2)
+観光協会, 協会
+cluster3:(7)
+種類, 中山, 販売, 別, 小夜, 素人, 城
+cluster4:(1)
+自動販売機
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 5entities.

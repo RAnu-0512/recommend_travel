@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瓦屋跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口県, 長女・龍子, 松田屋
+cluster1:(13)
+場所, 幕末, 石碑, 瓦屋跡, 維新, 旅館, 碑, 瓦屋, 意識, 跡地, 志士たち, 駐車場, 湯田温泉街
+cluster2:(1)
+長州藩士桂小五郎
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

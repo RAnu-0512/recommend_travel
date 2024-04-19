@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国森家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白漆喰土蔵, 二階建て
+cluster1:(4)
+江戸時代, 富商, 商家, 豪商
+cluster2:(2)
+細部, 内部
+cluster3:(2)
+造り, 工夫
+cluster4:(7)
+町並み, 文化財, 堂々, 往時, 国, 佇まい, 盗賊
+cluster5:(4)
+国森家, 柳井, 財, 油
+cluster6:(1)
+建築物
+cluster7:(1)
+びんつけ油
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

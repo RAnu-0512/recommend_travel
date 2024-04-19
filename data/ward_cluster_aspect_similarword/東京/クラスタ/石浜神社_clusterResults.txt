@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石浜神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+茶屋, 七福神めぐり, 神社, 場所, 変更, 隅田川, 領地, 天皇, 自転車, 記念碑, 参道, 社殿, 明治, 側, じゅろう神, 伯爵
+cluster1:(2)
+荒川区, 台東区
+cluster2:(2)
+浅草七福神, 浅草観光
+cluster3:(2)
+石浜, 石浜神社
+cluster4:(3)
+ミカド 明治, 松平伯爵碑, ひげ橋
+cluster5:(1)
+玉姫稲荷神社
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 6
+deleted 0entities.

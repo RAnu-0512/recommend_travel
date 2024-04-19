@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桝水フィールドステーション観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お隣島根県, 鳥取県
+cluster1:(2)
+案内, 案内所
+cluster2:(10)
+大山, 桝水フィールドステーション, 休憩スペース, ステーション, スキー場, スキーオフシーズン, 無料パンフ, レストラン, 営業, 周辺
+cluster3:(2)
+基本冬, 観光途中
+cluster4:(1)
+枡水フィールドステーション
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

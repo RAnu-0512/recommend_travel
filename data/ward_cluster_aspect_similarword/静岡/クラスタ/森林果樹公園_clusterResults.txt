@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森林果樹公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+パン屋, パン, 焼きたてピザ
+cluster1:(2)
+静岡県, 掛川市
+cluster2:(11)
+ランチビュッフェ, ヘルシー, ビュッフェ, 品切れ, 補充, デザートコーナー, 下俣, 先, 場所, デザート, 中心
+cluster3:(5)
+敷地, 料理, 野菜, 墓, 公園
+cluster4:(1)
+自然派
+cluster5:(1)
+森林果樹公園
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 4entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米山梅吉記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+創始者, 実業家, 篤志家
+cluster1:(3)
+展示物, 展示品, 記念館
+cluster2:(2)
+遺品, 功績
+cluster3:(8)
+興味, ロータリークラブ, 館内, 日本, スペース, 歴史, ロータリー, 方
+cluster4:(1)
+扁額
+cluster5:(1)
+正面玄関
+cluster6:(4)
+山晴春色繁, 米山梅吉の記念館, 米山梅吉記念館, 米山梅吉
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 4
+deleted 4entities.

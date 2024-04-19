@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:縣居神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+賀茂馬淵, 賀茂馬淵記念館
+cluster1:(9)
+学業, 駐車場, 神社, 境内, 記念館, 江戸時代, 国学者, 道, 賀茂真淵
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

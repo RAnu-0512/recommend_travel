@@ -1,0 +1,29 @@
+--------------------similar_words:維新百年記念公園--------------------
+top3 entities near to cluster0>>
+水遊び, 公園, 遊具
+top3 entities near to cluster1>>
+テニス, コート, バドミントン
+top3 entities near to cluster3>>
+スタジアム, サッカー, スタンド
+top3 entities near to cluster4>>
+知り合い, スタッフ, オススメ
+top3 entities near to cluster5>>
+ピクニック, アスレチック, ウォーキング
+top3 entities near to cluster7>>
+落葉樹, 常緑樹, 落葉
+top3 entities near to cluster8>>
+プール, 遊び場, 体育館
+top3 entities near to cluster10>>
+結論, 名称, 呼び名
+top3 entities near to cluster11>>
+本数, 距離, 間隔
+top3 entities near to cluster12>>
+地元人, 子供, 地元
+top3 entities near to cluster13>>
+記念, 百, 公園
+top3 entities near to cluster14>>
+児童, 館, 養護
+top3 entities near to cluster15>>
+公園, 緑地, 遊歩道
+top3 entities near to cluster17>>
+競技場, 競技, 席

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:応賀寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+行基, 奈良, 本堂, 境内, 応賀寺, 寺
+cluster1:(6)
+車, 途中, 真言宗, 北側, 薬師堂, 裏山
+cluster2:(2)
+看板, 歴史
+cluster3:(2)
+所, 場所
+cluster4:(2)
+時期, 時代
+cluster5:(1)
+指定文化財
+cluster6:(1)
+宝物館
+cluster7:(1)
+静岡県
+cluster8:(5)
+駐車場, 新居関所, 散策路, 拝観料, 散策
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 9entities.

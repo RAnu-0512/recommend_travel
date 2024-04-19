@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:温井スプリングス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+目隠し, 知り合い, 味, 日本, 店, 広島県, 泉質, 露天風呂, 料理, 温泉, プラン, 北部, 土産, 休み, ほう, 昼食探し, ホテル, 空気, 木, 売店, ぅ.h, 温泉施設, レストラン, 紹介, 価格, 場所
+cluster1:(3)
+ダム, 温井ダム, 龍姫湖
+cluster2:(1)
+*^b^*
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 3
+deleted 0entities.

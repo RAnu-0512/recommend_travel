@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:来嶋又兵衛の旧宅跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石碑, 銅像
+cluster1:(1)
+甲冑
+cluster2:(1)
+出陣姿
+cluster3:(1)
+来嶋又兵衛
+cluster4:(1)
+旧宅跡
+cluster5:(1)
+遊撃隊
+cluster6:(1)
+長州藩士
+cluster7:(1)
+尊皇攘夷派
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:つるや吉祥亭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+気分, 景色, 眺め
+cluster1:(2)
+伊豆熱川駅, 宿
+cluster2:(7)
+到着, テラス, ドライバー, 前, 食事, ランチ, ホテル
+cluster3:(1)
+凡
+cluster4:(1)
+送迎バス
+cluster5:(2)
+金目鯛, 黒根岩風呂
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 6entities.

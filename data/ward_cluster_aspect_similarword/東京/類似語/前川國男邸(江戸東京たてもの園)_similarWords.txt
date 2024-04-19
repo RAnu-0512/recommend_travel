@@ -1,0 +1,11 @@
+--------------------similar_words:前川國男邸(江戸東京たてもの園)--------------------
+top3 entities near to cluster0>>
+建築家, 建築, 民家
+top3 entities near to cluster1>>
+邸宅, 別荘, 自邸
+top3 entities near to cluster2>>
+お家
+top3 entities near to cluster3>>
+中心部, 中心, 主軸
+top3 entities near to cluster5>>
+國男, 前川, 伶早

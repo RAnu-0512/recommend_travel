@@ -1,0 +1,41 @@
+--------------------similar_words:ユートピアサイオト--------------------
+top3 entities near to cluster0>>
+人工雪, 人工, 降雪
+top3 entities near to cluster1>>
+休憩場, 休憩
+top3 entities near to cluster2>>
+コース, プラン, 初心者
+top3 entities near to cluster3>>
+スキー, スノーボード, ゲレンデ
+top3 entities near to cluster4>>
+ゲレンデ, スキーヤー, スキー
+top3 entities near to cluster5>>
+スノボ, スノーボード, スキー
+top3 entities near to cluster7>>
+セット, スリップ, 単品
+top3 entities near to cluster8>>
+スペース, ストレス, ハイハイ
+top3 entities near to cluster9>>
+スクール, レッスン, 教室
+top3 entities near to cluster10>>
+レンタル, シーズン, オフシーズン
+top3 entities near to cluster11>>
+ファミリー, レストラン, キッズスペース
+top3 entities near to cluster12>>
+ジップライン, オフピステ, アウトドアアクティビティー
+top3 entities near to cluster13>>
+イベント, スタッフ, アルバイト
+top3 entities near to cluster14>>
+兄さん, 兄ちゃん, 姉さん
+top3 entities near to cluster15>>
+遊び場, ウェア, パンツ
+top3 entities near to cluster16>>
+清潔感, 清潔
+top3 entities near to cluster18>>
+山, 雪山, 山頂
+top3 entities near to cluster19>>
+女性, 男性, 家族
+top3 entities near to cluster20>>
+愛想, 挨拶, 受付
+top3 entities near to cluster21>>
+子供, 子ども, 身長

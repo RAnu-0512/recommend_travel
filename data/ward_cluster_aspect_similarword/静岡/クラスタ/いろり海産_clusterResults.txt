@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いろり海産>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+交通渋滞, 高次渋滞
+cluster1:(3)
+客, 観光バス, 観光客
+cluster2:(4)
+干物屋, 肉厚, 干物, 金目鯛
+cluster3:(4)
+看板, 店, 店内, 開店
+cluster4:(2)
+巨海, 道
+cluster5:(2)
+団体, 関係
+cluster6:(7)
+こんぶ, 商品, 目当て, 大きめ, 買い物, オススメ, 海産物
+cluster7:(6)
+土産, 宿, 時間, 立地, 帰路, 夕食
+cluster8:(4)
+鯵, 油, 伊豆, 東名
+cluster9:(3)
+駐車場, 反対側, 線沿い
+
+howmany entities : 37
+howmany clusters : 10
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 7
+deleted 6entities.

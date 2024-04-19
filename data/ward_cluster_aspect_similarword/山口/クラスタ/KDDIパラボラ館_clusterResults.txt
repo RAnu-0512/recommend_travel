@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:KDDIパラボラ館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入場無料, 入場料
+cluster1:(3)
+KDDIパラボナ館, 資料, 館内
+cluster2:(2)
+受付, 通信
+cluster3:(2)
+子供, 日本
+cluster4:(4)
+パラボラ, 寄り道, 帰り, パラボナアンテナ
+cluster5:(1)
+場所
+cluster6:(1)
+庭
+cluster7:(1)
+範囲
+cluster8:(1)
+山口
+cluster9:(1)
+東北旅行
+
+howmany entities : 18
+howmany clusters : 10
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 10
+deleted 0entities.

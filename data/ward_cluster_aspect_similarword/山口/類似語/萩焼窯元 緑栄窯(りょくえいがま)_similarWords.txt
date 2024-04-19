@@ -1,0 +1,17 @@
+--------------------similar_words:萩焼窯元 緑栄窯(りょくえいがま)--------------------
+top3 entities near to cluster1>>
+所要, 時間, 料金
+top3 entities near to cluster2>>
+茶碗, 皿
+top3 entities near to cluster4>>
+授業, 指導, 先生
+top3 entities near to cluster5>>
+対応, 理解, 用意
+top3 entities near to cluster6>>
+体験, 経験, 実体験
+top3 entities near to cluster7>>
+教え, 知る, 教わる
+top3 entities near to cluster8>>
+楽しい, 難い, 嬉しい
+top3 entities near to cluster9>>
+窯焼, 陶芸, 窯

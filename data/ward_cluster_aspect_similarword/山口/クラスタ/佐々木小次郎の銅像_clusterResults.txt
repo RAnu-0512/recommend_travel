@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐々木小次郎の銅像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+山口県, 岩国, 吉川英治, 岩国城, 武蔵小次郎, 宮本武蔵
+cluster1:(3)
+柳, 錦川, 燕
+cluster2:(3)
+像, 実像, 銅像
+cluster3:(3)
+出生, 出身, 地
+cluster4:(4)
+側, 近辺, 周囲, 近く
+cluster5:(5)
+中, こと, 場所, 途中, 上
+cluster6:(20)
+姿, 燕返し, 錦帯橋, 河岸, エリア, 顔, 公園, 船, 道, 対決, 伝承, 佐々木小次郎, 民家, 小次郎ゆかり, 小説, 一撃, イケメン, 写真, 観光, 山
+cluster7:(1)
+ふも
+cluster8:(11)
+秘剣燕返し, 剣, 必殺燕返し, 必殺, 吉香公園, 徒歩圏, 一乗滝, 剣術修練, 物干竿, 刀, 太刀
+
+howmany entities : 56
+howmany clusters : 9
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 9
+deleted 0entities.

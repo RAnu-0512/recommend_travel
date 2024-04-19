@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小笠山憩の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, 小笠山
+cluster1:(2)
+森, 木々
+cluster2:(1)
+空気
+cluster3:(2)
+掛川駅, 東海道線
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

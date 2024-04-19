@@ -1,0 +1,13 @@
+--------------------similar_words:ボウリングの・森--------------------
+top3 entities near to cluster0>>
+施設, 団体
+top3 entities near to cluster1>>
+練習, 特訓, 素振り
+top3 entities near to cluster2>>
+地元, 息子, 父親
+top3 entities near to cluster3>>
+階段, 石段, エスカレーター
+top3 entities near to cluster4>>
+志向, 指向, 嗜好
+top3 entities near to cluster5>>
+競技, 大会, 団体

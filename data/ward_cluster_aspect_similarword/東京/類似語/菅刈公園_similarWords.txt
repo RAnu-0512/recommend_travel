@@ -1,0 +1,7 @@
+--------------------similar_words:菅刈公園--------------------
+top3 entities near to cluster1>>
+歩道, 横断, 道路
+top3 entities near to cluster2>>
+公園, 遊歩道, 遊具
+top3 entities near to cluster3>>
+西郷, 公園, 山

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大津島航路(徳山~大津島)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+史跡, 回天, 船内, 高速船, フェリー乗り場, 乗り場, 航路, 大津島, フェリー
+cluster1:(2)
+回天記念館, 資料館
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

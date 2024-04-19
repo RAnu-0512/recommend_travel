@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:箕浦家武家門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+県立図書館, 鳥取城, 県庁, JR鳥取駅, 鳥取市街地, 鳥取, 鳥取城跡, 鳥取県庁
+cluster1:(2)
+門, 武家門
+cluster2:(5)
+一部, 一角, 相当, 事, 地位
+cluster3:(7)
+家, 建物, 観光, 車, 城下町, 城跡, 城
+cluster4:(1)
+駐車場
+cluster5:(1)
+箕浦家武家門
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 6
+deleted 0entities.

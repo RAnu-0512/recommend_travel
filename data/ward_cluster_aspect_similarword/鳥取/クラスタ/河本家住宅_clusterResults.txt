@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:河本家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+琴浦町, 東伯郡, 鳥取県民, 鳥取, 山陰地方
+cluster1:(3)
+専用駐車場, 住宅正面道, 河本家住宅
+cluster2:(4)
+建物, 観光, 民家, 住宅
+cluster3:(7)
+家, 指定, 庭, 文化財, 国, 門, もの
+cluster4:(1)
+河本
+cluster5:(1)
+建築年代
+cluster6:(1)
+右衛門
+cluster7:(2)
+鳥取県有形保護文化財, 茅葺屋根
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 8
+deleted 0entities.

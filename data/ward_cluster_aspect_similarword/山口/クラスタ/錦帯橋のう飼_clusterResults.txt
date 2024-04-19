@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:錦帯橋のう飼>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鵜飼い, かがり火
+cluster1:(1)
+錦帯橋
+cluster2:(1)
+歴史
+cluster3:(1)
+衣装
+cluster4:(1)
+小舟
+cluster5:(1)
+飼
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

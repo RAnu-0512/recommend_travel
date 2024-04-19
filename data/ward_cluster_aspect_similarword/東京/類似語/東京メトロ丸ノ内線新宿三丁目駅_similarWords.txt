@@ -1,0 +1,19 @@
+--------------------similar_words:東京メトロ丸ノ内線新宿三丁目駅--------------------
+top3 entities near to cluster0>>
+改札, 駅員, 駅
+top3 entities near to cluster1>>
+地上, 地下, 端
+top3 entities near to cluster2>>
+乗換え, 乗り換え, 乗換
+top3 entities near to cluster3>>
+口コミ, 大勢
+top3 entities near to cluster4>>
+仕事, シゴト, 業務
+top3 entities near to cluster5>>
+箇所, 個所, か所
+top3 entities near to cluster6>>
+雨降り, 小雨
+top3 entities near to cluster7>>
+気分, 態度, 気持ち
+top3 entities near to cluster8>>
+料金, 初乗り, 運賃

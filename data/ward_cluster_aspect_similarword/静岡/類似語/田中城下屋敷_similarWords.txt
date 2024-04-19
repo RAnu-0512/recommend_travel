@@ -1,0 +1,7 @@
+--------------------similar_words:田中城下屋敷--------------------
+top3 entities near to cluster1>>
+城, 屋敷, 城内
+top3 entities near to cluster4>>
+建物, 敷地, 景色
+top3 entities near to cluster5>>
+入場, 見学, 施設

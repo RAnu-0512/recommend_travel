@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯本館(静岡県伊豆市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+旅館, 老舗旅館, 温泉宿, 宿
+cluster1:(9)
+自然, 歴史, 伊豆の踊り子, 体, 露天風呂, 入浴, 外観, 絶景, 日帰り入浴
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,91 @@
+--------------------similar_words:ABAB UENO--------------------
+top3 entities near to cluster0>>
+ドレス, ブーツ, スーツ
+top3 entities near to cluster1>>
+買い物, 買物, 買いもの
+top3 entities near to cluster2>>
+ショップ, アパレル, ファッション
+top3 entities near to cluster3>>
+デパート, フロア, カフェ
+top3 entities near to cluster4>>
+セール, クーポン, シール
+top3 entities near to cluster5>>
+ショップ, デパート
+top3 entities near to cluster6>>
+オススメ, おすすめ, お薦め
+top3 entities near to cluster7>>
+トラブル, アクセス, アクシデント
+top3 entities near to cluster8>>
+シンボル, シーズン, 名所
+top3 entities near to cluster9>>
+サイズ, 売れ筋, タイプ
+top3 entities near to cluster10>>
+プチプラ, 中学生, コスメ
+top3 entities near to cluster11>>
+ケーキ, スイーツ, デザート
+top3 entities near to cluster12>>
+パンプス, ブーティー, ローヒールパンプス
+top3 entities near to cluster13>>
+シューズ, サンダル, スニーカー
+top3 entities near to cluster14>>
+ブーツ, 靴, ウェスタンブーツ
+top3 entities near to cluster15>>
+アイテム, アクセサリー, ファッション
+top3 entities near to cluster16>>
+レディース, ブラウス, カットソー
+top3 entities near to cluster17>>
+スーツ, 背広, ワイシャツ
+top3 entities near to cluster18>>
+ヤング, ファッション, ファン
+top3 entities near to cluster19>>
+パンダ, 仏頂面, 無愛想
+top3 entities near to cluster20>>
+態度, 姿勢, 言動
+top3 entities near to cluster21>>
+感覚, 印象, 価値
+top3 entities near to cluster22>>
+原因, 結果, 要因
+top3 entities near to cluster25>>
+遣っ, 遣う
+top3 entities near to cluster26>>
+判断, 対応, 対処
+top3 entities near to cluster27>>
+疑い, 疑う, 疑念
+top3 entities near to cluster28>>
+罪悪感, ドキドキ・ワクワク, 罪悪
+top3 entities near to cluster29>>
+中毒性, 中毒, 可能性, 可能
+top3 entities near to cluster31>>
+口調, 大声
+top3 entities near to cluster32>>
+お客, 顧客, 外客
+top3 entities near to cluster33>>
+女性, 男性, 若者
+top3 entities near to cluster34>>
+子, 娘, 女の子
+top3 entities near to cluster35>>
+同士, 仲間, スタッフ
+top3 entities near to cluster36>>
+中学, 時代, 高校
+top3 entities near to cluster38>>
+駅, 駅前, 南口
+top3 entities near to cluster43>>
+京成, 京成上野, 京成電鉄
+top3 entities near to cluster45>>
+食料品, 食糧品, 食料, 食糧
+top3 entities near to cluster46>>
+化粧品, 化粧, 品等
+top3 entities near to cluster47>>
+揃え, そろえ
+top3 entities near to cluster48>>
+パン屋, 雑貨屋, パン, 雑貨
+top3 entities near to cluster49>>
+安い, アブ, ウマスイーツ
+top3 entities near to cluster50>>
+地下階, ビル, 地下
+top3 entities near to cluster51>>
+接客, 接客業, 態度
+top3 entities near to cluster52>>
+レジ, レジ打ち, 店員
+top3 entities near to cluster53>>
+洋服店, 洋服, 店舗

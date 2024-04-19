@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中之郷温泉・やすらぎの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+中之郷温泉, みはらしの湯, 足湯, 温泉施設, 足湯きらめき, 温泉, やすらぎの湯, ふれあいの湯, 湯
+cluster1:(2)
+料金良し, 料金
+cluster2:(5)
+曇り, 入浴, 浴室, 石鹸, 眺望
+cluster3:(2)
+どこか, 拍子
+cluster4:(4)
+所, 建物, 風景, 写真
+cluster5:(2)
+自慢, 地元
+cluster6:(2)
+八丈島, 中之郷
+cluster7:(5)
+メルト, ロッカー, パンフレット, サウナ, 雰囲気
+cluster8:(1)
+方
+cluster9:(1)
+残り
+cluster10:(1)
+海
+cluster11:(1)
+足元
+cluster12:(1)
+共用
+cluster13:(2)
+身, 沢
+cluster14:(7)
+水着着用, 駐車場, 無休, 時間窓, 営業時間, 脱衣所, 無料月休
+cluster15:(6)
+末吉かん沢温泉, 裏見ヶ滝, 樫立向里温泉, 裏見ヶ滝温泉, 中之郷尾越温泉, 洞輪沢
+
+howmany entities : 51
+howmany clusters : 16
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 16
+deleted 0entities.

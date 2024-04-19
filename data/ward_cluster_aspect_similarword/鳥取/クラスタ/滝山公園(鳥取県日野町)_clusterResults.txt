@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滝山公園(鳥取県日野町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+日野町, 日野, 日南町, 滝山公園
+cluster1:(9)
+躑躅, 桜, ミツバツツジ, 名所, 紅葉, 花, 季節, にぎわうツツジ, ツツジ
+cluster2:(19)
+サワガニ, 山, ピンク色, 橋, パワースポット, ところ, 滝, オオサンショウウオ, ピクニック, 小川, 屋台, 公園, 木, 素晴らしさ, 自然, 南部, 近く, 方, 場所
+cluster3:(1)
+ツジ
+cluster4:(4)
+神社, 石段, 駐車場, 神社奥
+
+howmany entities : 37
+howmany clusters : 5
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かぶと岩展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩展望台, 展望台
+cluster1:(2)
+駐車場, 国民宿舎
+cluster2:(3)
+絶景, 山々, 景色
+cluster3:(5)
+周辺, 車, 時間, 近く, 場所
+cluster4:(2)
+休憩, 売店
+cluster5:(10)
+かぶ, 瀬戸内海, 登山, 野呂山, 頂上, 海, 呉, ドライブ, 山, 岩
+cluster6:(1)
+四国山脈
+cluster7:(1)
+───O
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 8
+deleted 0entities.

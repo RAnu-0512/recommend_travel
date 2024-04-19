@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船岡竹林公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+公園, 竹林公園, バーベキュー施設, 遊具
+cluster1:(8)
+竹, 鉄板, 丘, バーベキュー, 炭, 緑, ミニトレイン, バンガロー
+cluster2:(2)
+手間, 火力
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

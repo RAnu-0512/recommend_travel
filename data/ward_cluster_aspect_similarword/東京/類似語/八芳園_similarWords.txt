@@ -1,0 +1,57 @@
+--------------------similar_words:八芳園--------------------
+top3 entities near to cluster0>>
+写真, 虫除け
+top3 entities near to cluster1>>
+ホテル, ランチ, 結婚式
+top3 entities near to cluster2>>
+カップル, デートスポット, オススメスポット
+top3 entities near to cluster3>>
+レストラン, ホスピタリティー, ホテル
+top3 entities near to cluster4>>
+パーティー, パーティ, プロジェクタ
+top3 entities near to cluster5>>
+スタッフ, アンケート, スッタフ
+top3 entities near to cluster7>>
+オススメ, おすすめ, こっち
+top3 entities near to cluster8>>
+雰囲気, 思い出, 華やかさ
+top3 entities near to cluster9>>
+みどり, 瑚海, 選りどり
+top3 entities near to cluster10>>
+こぼれ, こぼれる, 零れ
+top3 entities near to cluster11>>
+カフェ, 喫茶店, バイト
+top3 entities near to cluster13>>
+子供, 大人, 子ども
+top3 entities near to cluster15>>
+景観, 街並み, 町並み
+top3 entities near to cluster16>>
+鯉池, 鯉, 錦鯉
+top3 entities near to cluster17>>
+四季, 庭, 花
+top3 entities near to cluster18>>
+環境心, 自然, 環境
+top3 entities near to cluster19>>
+盆栽, 庭師, 窓際
+top3 entities near to cluster20>>
+新緑, 紅葉, 桜
+top3 entities near to cluster21>>
+季節, 週末, 時期
+top3 entities near to cluster22>>
+友人, 知人, 親戚
+top3 entities near to cluster23>>
+代, 宿泊, 歳
+top3 entities near to cluster25>>
+使用料, 利用料, 使用, 利用
+top3 entities near to cluster26>>
+会合, 会談, 会議
+top3 entities near to cluster27>>
+予約, 対応, 営業
+top3 entities near to cluster28>>
+会食, 宴会, 食事
+top3 entities near to cluster29>>
+見学, 散策, 試食
+top3 entities near to cluster30>>
+飲み放題, 飲み, 呑み
+top3 entities near to cluster31>>
+庭園, 会場, 邸宅

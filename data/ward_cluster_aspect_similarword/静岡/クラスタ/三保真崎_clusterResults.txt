@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三保真崎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+真崎, 松, 灯台, 明治, 松林, 先端, 設置, 富士山, 羽衣, 鉄筋コンクリート, 日本, 岬
+cluster1:(3)
+海岸, 海岸線, 三保半島
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 0entities.

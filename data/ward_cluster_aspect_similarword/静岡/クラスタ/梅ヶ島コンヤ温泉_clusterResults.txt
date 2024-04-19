@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅ヶ島コンヤ温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+梅ヶ島温泉郷, 梅ヶ島温泉
+cluster1:(2)
+木野木荘, 大野木荘
+cluster2:(13)
+ぬる感, 入浴料, 気持ち, 風景, 温泉宿, 露天風呂, 温泉, コンヤ温泉, 日帰り入浴, 中, 静岡市街, 宿, 下流
+cluster3:(1)
+国民保養温泉地
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 5entities.

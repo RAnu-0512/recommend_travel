@@ -1,0 +1,45 @@
+--------------------similar_words:科学技術館--------------------
+top3 entities near to cluster1>>
+子供連れ, つれ, 子供
+top3 entities near to cluster2>>
+子ども, 子供, こども
+top3 entities near to cluster3>>
+子供, 子ども, 親達
+top3 entities near to cluster4>>
+子供, 大人, 子ども
+top3 entities near to cluster5>>
+づれ, 子供, づれで
+top3 entities near to cluster6>>
+ショー, ショウ, ミー・ラヴ
+top3 entities near to cluster7>>
+子ども, 小学生, 子供
+top3 entities near to cluster8>>
+イベント, グッズ, ゲーム
+top3 entities near to cluster9>>
+試金石, ヒント, 仕組み
+top3 entities near to cluster10>>
+フロア, ブース, ホール
+top3 entities near to cluster12>>
+公園, 桜, 皇居
+top3 entities near to cluster13>>
+土産, おみやげ, 穴場
+top3 entities near to cluster14>>
+学校, 施設, 企業
+top3 entities near to cluster15>>
+散策, 見学, 訪問
+top3 entities near to cluster16>>
+実験, 研究, 実証
+top3 entities near to cluster17>>
+学習, 郊外, 校外
+top3 entities near to cluster18>>
+混雑, 運転, 渋滞
+top3 entities near to cluster19>>
+科学, 技術, 研究
+top3 entities near to cluster20>>
+放送, 駅, 建設
+top3 entities near to cluster21>>
+体験, 体験談, 体感
+top3 entities near to cluster22>>
+展示室, 展示, 常設
+top3 entities near to cluster23>>
+展示, 出展, 展覧

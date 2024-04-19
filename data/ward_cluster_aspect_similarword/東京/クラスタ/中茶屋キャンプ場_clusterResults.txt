@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中茶屋キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中茶屋キャンプ場, キャンプ場
+cluster1:(6)
+中, 東側, 気, 価格, 時間, 横
+cluster2:(8)
+レンタル, キャンプ, 釣り, BBQ, 現地, 自然, 奥多摩, 日帰りBBQ
+cluster3:(1)
+東京駅
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

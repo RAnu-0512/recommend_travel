@@ -1,0 +1,17 @@
+--------------------similar_words:三人五輪--------------------
+top3 entities near to cluster0>>
+利志子, 義高, 頼
+top3 entities near to cluster1>>
+五輪, オリンピック, パラリンピック
+top3 entities near to cluster2>>
+田んぼ
+top3 entities near to cluster3>>
+息子, 父親, 隣
+top3 entities near to cluster5>>
+裏側, ウラ
+top3 entities near to cluster6>>
+へり, へる, へず
+top3 entities near to cluster7>>
+石塔, 遺跡
+top3 entities near to cluster8>>
+道標, 案内, 標識

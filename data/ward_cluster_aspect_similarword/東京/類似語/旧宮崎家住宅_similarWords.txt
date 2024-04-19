@@ -1,0 +1,11 @@
+--------------------similar_words:旧宮崎家住宅--------------------
+top3 entities near to cluster0>>
+農機具, 文化財, いろり
+top3 entities near to cluster2>>
+住宅, 戸建て, 建売
+top3 entities near to cluster3>>
+淵, 公園
+top3 entities near to cluster4>>
+葺, 茅, 葺職
+top3 entities near to cluster5>>
+郷土, 館, 資料

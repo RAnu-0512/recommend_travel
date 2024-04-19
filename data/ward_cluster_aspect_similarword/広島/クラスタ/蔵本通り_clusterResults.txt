@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蔵本通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+訳, 時期, 公園, 呉, イルミネーション, モチーフ
+cluster1:(2)
+空母赤城, 戦艦大和
+cluster2:(1)
+軍港の街・呉
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

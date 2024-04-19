@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清雄寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東京ソラマチ, 浅草, 吾妻橋
+cluster1:(5)
+観光, 寺院, 途中, 本堂, 時代
+cluster2:(1)
+清雄寺
+cluster3:(1)
+本門佛立宗
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

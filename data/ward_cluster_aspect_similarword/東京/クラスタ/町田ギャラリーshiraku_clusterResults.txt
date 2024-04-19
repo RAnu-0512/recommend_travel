@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:町田ギャラリーshiraku>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+電動ろくろ, 電動ろくろ体験
+cluster1:(4)
+丁寧さ, 口調, 丁寧語, 命令口調
+cluster2:(13)
+経験, 管理事務所, 座席, 態度, 担当, 体験, 予約, 完成, 郵送, 徒歩, 先生, 店内, 講師
+cluster3:(2)
+指輪, 工房
+cluster4:(9)
+作り方, カップル, ところ, ペンダント, シルバー, 思い出, リング, 引き取り, 手直し
+cluster5:(2)
+彼女, 彼
+cluster6:(2)
+子ども, 子供
+cluster7:(11)
+他, 話, 形, 横, 希望, 時間, 方, 中, こと, 位置, 色
+cluster8:(1)
+愛着
+cluster9:(8)
+湯呑, 公園, 坂, 皿, 町田, 茶碗, 谷公園, 芹
+cluster10:(9)
+ペアリング, ペア, 陶芸, クリスマス旅行, ペアリング作り, 陶芸体験, シルバー指輪つくり体験, 住宅街, 旅行先
+
+howmany entities : 63
+howmany clusters : 11
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:品川台場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お台場海浜公園駅, お台場海浜公園
+cluster1:(4)
+品川台場, 台三台場, 台場, 港区台場
+cluster2:(22)
+場所, 最後, 炎天下, 一つ, 東京, 灼熱, 公園群, 品川, 仕事, レインボーブリッジ, 東京方面, 海風, 駅, ペリー来航, 砲台, 江戸時代, 野鳥天国, ひとけ, 名城, 禁止, 定番, バック
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 3
+deleted 0entities.

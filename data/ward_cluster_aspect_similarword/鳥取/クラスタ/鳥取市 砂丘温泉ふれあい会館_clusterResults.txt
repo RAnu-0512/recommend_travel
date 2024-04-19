@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取市 砂丘温泉ふれあい会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+券売機, 自動券売機
+cluster1:(2)
+鳥取市, JR鳥取駅
+cluster2:(12)
+旅館, お湯, 風呂, 展望温泉, ボディソープ, 天然温泉, シャンプー&リンス, 水道水, 温泉, 浴室, 風呂上がり, 日帰り入浴
+cluster3:(25)
+レベル, 露天風呂, 紙, 砂丘, 日本, 気, 正面, 海, 居住, 配置, ボー, 目, 矢継ぎ早, ひとつ, 横, 雷, 改善, 子, つもり, 鳥取砂丘, 名前, 方, 日本海, ホテル, 女性
+cluster4:(2)
+設備, 機械
+cluster5:(2)
+受付, 料金
+cluster6:(2)
+市, 場所
+cluster7:(2)
+看板, 建物
+cluster8:(1)
+刺青
+cluster9:(1)
+接客レベル
+cluster10:(1)
+体温
+cluster11:(1)
+ガラス越し
+cluster12:(1)
+値段相応
+cluster13:(2)
+動線, 怒り気味
+
+howmany entities : 56
+howmany clusters : 14
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 14
+deleted 0entities.

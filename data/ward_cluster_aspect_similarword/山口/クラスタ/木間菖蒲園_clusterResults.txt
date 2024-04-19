@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木間菖蒲園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こと, 場合
+cluster1:(1)
+方
+cluster2:(1)
+道
+cluster3:(1)
+山田方面
+cluster4:(1)
+対向車
+cluster5:(1)
+木間菖蒲園
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

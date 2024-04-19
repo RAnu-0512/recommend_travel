@@ -1,0 +1,15 @@
+--------------------similar_words:だいせんホワイトリゾート--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+リフト券, 乗り継ぎ券, リフト, 乗り継ぎ
+top3 entities near to cluster2>>
+国際, 上級, 初級
+top3 entities near to cluster5>>
+コース, 乗り場, リフト
+top3 entities near to cluster6>>
+ゲレンデ, スノーボード, スキー
+top3 entities near to cluster7>>
+スキー, ロッジ, リゾート
+top3 entities near to cluster8>>
+人達, 景色, 大勢

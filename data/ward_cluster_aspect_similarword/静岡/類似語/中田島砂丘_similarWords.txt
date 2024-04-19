@@ -1,0 +1,23 @@
+--------------------similar_words:中田島砂丘--------------------
+top3 entities near to cluster0>>
+バス, 路線, 広い
+top3 entities near to cluster1>>
+砂浜, 砂, 海辺
+top3 entities near to cluster3>>
+全員, 子供
+top3 entities near to cluster4>>
+各地, 全国, 規模
+top3 entities near to cluster7>>
+景色, 風景, 写真
+top3 entities near to cluster9>>
+自販機, 飲み物, トイレ
+top3 entities near to cluster10>>
+ホテル, 気持ち, ロケーション
+top3 entities near to cluster11>>
+ごはん, こども, 夕暮れ
+top3 entities near to cluster14>>
+天気, 昼間, 夕方
+top3 entities near to cluster15>>
+散歩, 旅, 冒険
+top3 entities near to cluster16>>
+斜面, 階段, 急斜面

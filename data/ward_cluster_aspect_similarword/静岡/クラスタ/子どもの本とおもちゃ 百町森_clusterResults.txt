@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:子どもの本とおもちゃ 百町森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+店, オモチャ, おもちゃ, プレイルーム
+cluster1:(3)
+子供, 大人, 親子
+cluster2:(1)
+プレイオン
+cluster3:(1)
+静岡市
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

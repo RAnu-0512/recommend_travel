@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浜名湖フィッシングリゾート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+釣り, 投げ釣り, テラピア釣り, 海釣り, 餌釣り
+cluster1:(3)
+大人, 私達, 子供
+cluster2:(3)
+浜名湖, 目立つ浜名湖, 浜名湖フィッシングリゾート
+cluster3:(4)
+魚釣り, 釣り場, 釣り堀, 手ぶら
+cluster4:(8)
+ロイヤルホテル, 初心者, ハウス, ビニルハウス, 気持ち, スポット, ペンチ, こども
+cluster5:(9)
+道具, 客, 水, 子, 外, 人, 時間, 問題, 中
+cluster6:(7)
+魚, 餌, 鯛, 外す間魚, 針, 池, イズミ鯛
+
+howmany entities : 39
+howmany clusters : 7
+howmany entities (more than3entities) : 39
+howmany clusters (more than3entities) : 7
+deleted 0entities.

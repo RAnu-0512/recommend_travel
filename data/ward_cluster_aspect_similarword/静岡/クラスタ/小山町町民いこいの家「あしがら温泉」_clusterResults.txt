@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小山町町民いこいの家「あしがら温泉」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高速道路沿い, 東名高速, 高速道路
+cluster1:(2)
+裾野, 足柄サービスエリア
+cluster2:(4)
+館内, 立地, 建物, 施設
+cluster3:(2)
+雨, 天気
+cluster4:(11)
+車, カーナビ, スタッフ, アウトレット, ガラス, そば, 富士山, 露天風呂, ミュージック, 正面, TV
+cluster5:(9)
+客, 帰り, 地元, 外, 受付, 時間, 中, 到着, 方
+cluster6:(2)
+音量, ガラス越し
+cluster7:(1)
+スマートIC
+cluster8:(9)
+温泉, 休憩室, 内湯, 日帰り温泉施設, 休憩所, 食事処, 露天, ・・・ 温泉, 風呂
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 5
+deleted 7entities.

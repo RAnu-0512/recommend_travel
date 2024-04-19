@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大覚寺のビャクシン巨樹>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ビャクシン, 雰囲気
+cluster1:(1)
+大覚寺
+cluster2:(1)
+気
+cluster3:(1)
+風情
+cluster4:(1)
+寺
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

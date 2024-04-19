@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:徳田秋声旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+説明板, 案内板
+cluster1:(3)
+居跡, 道沿い, 跡
+cluster2:(17)
+周囲, 光景, 石碑, 建物, 家, 小説家, 本郷, 姿, 住宅, 下町, 初期, 住居, 前, 住宅街, 文人, 風情, 明治
+cluster3:(1)
+文京区
+cluster4:(1)
+徳田秋声
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

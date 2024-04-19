@@ -1,0 +1,60 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善福寺公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅, 距離, 徒歩
+cluster1:(17)
+意外, 方, 雰囲気, 地元, 感じ, 近く, 周り, 気持ち, 基本, 時間, 目印, 中, 場所, 中心, 人, 印象, 本物
+cluster2:(4)
+心, 裏, 足, 奥
+cluster3:(2)
+ボート, ポンプ
+cluster4:(4)
+シンボル, スポット, おすすめ, オススメ
+cluster5:(6)
+ジョギング, スポーツ, 井の頭公園, 石神井公園, サイクリング, カワセミ
+cluster6:(2)
+初日の出, 鯉のぼり
+cluster7:(1)
+こども
+cluster8:(4)
+バス停, 吉祥寺, 東京女子大, 阿佐ヶ谷
+cluster9:(1)
+善福寺
+cluster10:(2)
+緑, 森
+cluster11:(2)
+季節, 春
+cluster12:(2)
+桜, 花
+cluster13:(4)
+朝日, 南阿佐ヶ谷, 東京, 都
+cluster14:(5)
+花見, 散歩, 散歩コース, 散策, お花見
+cluster15:(3)
+遊具, 芝生, 広場
+cluster16:(4)
+風景, 撮影, 景色, 野鳥
+cluster17:(3)
+休日, 天気, GW
+cluster18:(2)
+運動, 遊び
+cluster19:(4)
+犬, レジャーシート, 車, 道路
+cluster20:(1)
+ボート場
+cluster21:(4)
+お子, 友人宅, 子供, 子供たち
+cluster22:(2)
+JR荻窪駅, JR西荻窪駅
+cluster23:(2)
+足漕ぎボート, 足こぎ
+cluster24:(17)
+商店街, 緑豊か, 善福寺公園, 善福寺川, 池, 水道水, 都立公園, 和田堀公園, 池周り, 公園ぽさ, 川沿い, 杉並, 杉並区, ひなびた公園, 緑あふれる公園, 公園, 湧水
+cluster25:(2)
+遅野井, 井之頭公園
+
+howmany entities : 103
+howmany clusters : 26
+howmany entities (more than1entities) : 103
+howmany clusters (more than1entities) : 26
+deleted 0entities.

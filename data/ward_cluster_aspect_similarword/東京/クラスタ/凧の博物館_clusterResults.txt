@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:凧の博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+凧の博物館, 凧, 江戸錦絵凧, 江戸凧
+cluster1:(3)
+たいめいけん, 日本橋たいめいけん, 茂出木心護
+cluster2:(3)
+洋食, 老舗洋食店, 洋食屋
+cluster3:(6)
+博物館巡り, 貨幣博物館, 個性派博物館, 展示物, 入場料, 展示
+cluster4:(4)
+海外, 全国, 日本, 世界
+cluster5:(10)
+日本橋, 子供, 帰り, エレベーター, 見応え, 入り口, 見ごたえ, 博物館, オムライス, もの
+cluster6:(6)
+沢山, 中心, 左, 上, 数, 個人
+cluster7:(1)
+趣味
+cluster8:(1)
+機会
+cluster9:(4)
+階, 行列, コレド日本橋, ビル
+cluster10:(6)
+創業者, けん, けんビル, 江戸時代, 初代社長, 中央区
+
+howmany entities : 48
+howmany clusters : 11
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 11
+deleted 0entities.

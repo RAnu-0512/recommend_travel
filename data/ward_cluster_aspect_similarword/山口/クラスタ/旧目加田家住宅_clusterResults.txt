@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧目加田家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+屋敷, 御屋敷
+cluster1:(2)
+江戸時代, 江戸
+cluster2:(2)
+武士, 武家
+cluster3:(2)
+道, 道沿い
+cluster4:(8)
+窓, 住宅, 屋根, 遺構, 造り, 平屋, 家屋, 建物
+cluster5:(2)
+氾濫, 錦川
+cluster6:(2)
+側, 表通り側
+cluster7:(5)
+もの, こと, 場所, 特徴, デザイン性
+cluster8:(5)
+中, 途中, 外, そば, 隣
+cluster9:(7)
+乗り場, 山陽本線, 文化財, 車, 家, ロープウェイ, 雰囲気
+cluster10:(2)
+国, 歴史
+cluster11:(1)
+館
+cluster12:(1)
+JR
+cluster13:(1)
+ロープウェイ乗り場
+cluster14:(5)
+袖瓦, 吉香公園, 屋根瓦, 瓦, 筋葺き
+cluster15:(7)
+岩国駅, 岩国藩, 岩国シロヘビ, 岩国市, 岩国城, 岩国城ロープウエー乗り場, 山陽本線岩国駅
+cluster16:(2)
+中級武家屋敷, 武家屋敷
+cluster17:(3)
+中級武士, 中級武家, 上級武家
+cluster18:(3)
+中流武士, 上位身分, 中流階級
+cluster19:(1)
+江戸時代後期の武家屋敷
+
+howmany entities : 63
+howmany clusters : 20
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 20
+deleted 0entities.

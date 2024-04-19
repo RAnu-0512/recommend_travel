@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三ッ滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三ツ滝, 聖湖
+cluster1:(2)
+高さ, 深さ
+cluster2:(2)
+観光地, 名勝
+cluster3:(2)
+時期, 所
+cluster4:(3)
+車, 国, 道
+cluster5:(8)
+音, スポット, 三段滝, 水, 滝, 人, 滝つぼ, 三段峡
+cluster6:(3)
+迫力, 紅葉, 景色
+cluster7:(1)
+泳ぎ
+cluster8:(1)
+透明度
+cluster9:(1)
+広島県北広島町
+
+howmany entities : 25
+howmany clusters : 10
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 10
+deleted 0entities.

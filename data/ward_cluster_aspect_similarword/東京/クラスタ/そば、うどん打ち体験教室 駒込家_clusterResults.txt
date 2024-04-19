@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:そば、うどん打ち体験教室 駒込家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+そば打ち体験, 蕎麦打ち, 蕎麦打ち体験
+cluster1:(28)
+途中, 店, スタッフ, もの, 子ども, 年長, 夏休み, 子供, 楽しさ, ところ, 思い出, 体験, 麺, スナック, 友だち家族, 様子, ビル, 手袋, 子ども達, 写真, 太さ, 方, こと, 友人, 雰囲気, スマホ, 蕎麦, 経験
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 2
+deleted 0entities.

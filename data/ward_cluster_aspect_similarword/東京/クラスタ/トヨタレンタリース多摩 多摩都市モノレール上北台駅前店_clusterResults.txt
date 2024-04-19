@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタレンタリース多摩 多摩都市モノレール上北台駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+多摩地域, 多摩モノレール
+cluster1:(9)
+道路, 駅, 多摩湖, 下, 場所, モノレール, 南, 都内, 帰り
+cluster2:(1)
+新青梅街道
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

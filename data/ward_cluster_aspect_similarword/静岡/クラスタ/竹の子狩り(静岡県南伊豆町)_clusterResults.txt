@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹の子狩り(静岡県南伊豆町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+のこがり, えぐみ, けのこ
+cluster1:(4)
+たけのこ狩り, たけのこ, 一条たけのこ村, たけのこ園
+cluster2:(4)
+竹の子狩り, 楽しみタケノコ狩り, タケノコ狩り, 子狩り
+cluster3:(3)
+静岡県, 一条竹, 一条
+cluster4:(5)
+家族連れ, 体験, 友達同士, 訪問者, 体験型
+cluster5:(4)
+服装, 大人, 子供, 体力
+cluster6:(19)
+場, 天ぷら, イベント, 南伊豆, 味わい, 春巻き, もの, 経験, 気持ち, 香り, 提供, タケノコ, スポット, 場所, 様子見, 一つ, オススメ, 想像, 方
+cluster7:(3)
+土, アク, お水
+cluster8:(3)
+子村, 芽, 子
+cluster9:(2)
+伊豆, 竹
+cluster10:(2)
+内陸, 産業
+cluster11:(6)
+春, 自宅, 海, 裏山, 自然, 山
+cluster12:(6)
+土地柄, 煮物, 料理, 刺身, 椎茸, 焼きタケノコ
+
+howmany entities : 64
+howmany clusters : 13
+howmany entities (more than3entities) : 60
+howmany clusters (more than3entities) : 11
+deleted 4entities.

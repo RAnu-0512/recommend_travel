@@ -1,0 +1,125 @@
+--------------------similar_words:三鷹の森ジブリ美術館(三鷹市立アニメーション美術館)--------------------
+top3 entities near to cluster0>>
+予約, 時間, 受付
+top3 entities near to cluster1>>
+バス, 駅前, 森
+top3 entities near to cluster2>>
+カフェ, アイス, パフェ
+top3 entities near to cluster3>>
+アニメ, テレビ, ゲーム
+top3 entities near to cluster4>>
+コンビニ, ローソン, ロッピー
+top3 entities near to cluster5>>
+雰囲気, 気持ち, シーン
+top3 entities near to cluster6>>
+気に入る, こっち, 気にいる
+top3 entities near to cluster7>>
+ストレス, 待ち時間, ショック
+top3 entities near to cluster8>>
+見どころ, 見所, チャンス
+top3 entities near to cluster9>>
+作り方, レシピ, 作れる
+top3 entities near to cluster10>>
+キャラクター, ジオラマ, アトラクション
+top3 entities near to cluster11>>
+キッチン, スペース, リビング
+top3 entities near to cluster12>>
+コーヒー, スタンド, エスプレッソ
+top3 entities near to cluster13>>
+ポケット, ポッケ, スマホポケット
+top3 entities near to cluster14>>
+シアター, アカサカ, ＢＹＪ
+top3 entities near to cluster15>>
+入り口, メイン, 入口
+top3 entities near to cluster16>>
+カード, ワンダーカード, ドラマチックカード
+top3 entities near to cluster17>>
+映画館, 人混み, 人込み
+top3 entities near to cluster18>>
+ジブリ, トトロ, ラピュタ
+top3 entities near to cluster21>>
+展示, 展覧
+top3 entities near to cluster22>>
+短編, 長編, 短篇
+top3 entities near to cluster23>>
+ミニ, 映画, シアター
+top3 entities near to cluster24>>
+作品, 上映, 映画
+top3 entities near to cluster25>>
+映画, 実写, アニメ
+top3 entities near to cluster26>>
+原画
+top3 entities near to cluster27>>
+子供, 子ども, 大人
+top3 entities near to cluster28>>
+限定, 一部, 屋外
+top3 entities near to cluster29>>
+外国人, 外国, 外人
+top3 entities near to cluster30>>
+海外, 国内, 人気
+top3 entities near to cluster31>>
+土産, おみやげ, みやげ
+top3 entities near to cluster32>>
+旅, 旅先, 修学旅行
+top3 entities near to cluster33>>
+外客, 乗客, 名所
+top3 entities near to cluster34>>
+来訪者, 来訪, 来場者, 来場
+top3 entities near to cluster35>>
+罪悪感, ドキドキ・ワクワク, 罪悪
+top3 entities near to cluster36>>
+楽しい, 素晴らしい, 難い
+top3 entities near to cluster37>>
+状況, 時期, 状態
+top3 entities near to cluster39>>
+気分, 気持ち, 気持
+top3 entities near to cluster40>>
+興味, 価値, 存分
+top3 entities near to cluster42>>
+購入, 使用, 入手
+top3 entities near to cluster43>>
+案内状, 案内板, 案内
+top3 entities near to cluster44>>
+撮影, 写真, 撮る
+top3 entities near to cluster45>>
+一人, 土星
+top3 entities near to cluster46>>
+混雑, 席, 人数
+top3 entities near to cluster48>>
+駅, 駅前, 構内
+top3 entities near to cluster49>>
+階段, 屋上, 踊り場
+top3 entities near to cluster50>>
+施設, 所内, 設備
+top3 entities near to cluster51>>
+建物, 外観, 部屋
+top3 entities near to cluster52>>
+入口, 入り口, 待合
+top3 entities near to cluster53>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster54>>
+世界, 大, 世界中
+top3 entities near to cluster55>>
+子供, 息子, 子ども
+top3 entities near to cluster56>>
+料理, 休日, 食材
+top3 entities near to cluster57>>
+猫, 夢, ネコ
+top3 entities near to cluster58>>
+美術館, 公園, 博物館
+top3 entities near to cluster60>>
+メイ, ・・メイ, メイパパ
+top3 entities near to cluster61>>
+麦わら, ぼうし, 麦藁
+top3 entities near to cluster62>>
+大佐, 少佐, 中佐
+top3 entities near to cluster63>>
+井星, 井, 3
+top3 entities near to cluster64>>
+ネガ, キリ, ワン
+top3 entities near to cluster65>>
+話, ネタ, 見所
+top3 entities near to cluster66>>
+笑, 苦笑, 事なき
+top3 entities near to cluster69>>
+自然, 空間

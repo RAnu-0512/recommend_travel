@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥生式土器の発見地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本郷キャンパス, 根津
+cluster1:(2)
+農学部, 工学部
+cluster2:(3)
+図書館, 東京大学, キャンパス
+cluster3:(6)
+場所, 境, 駅, 近辺, こと, 時代
+cluster4:(5)
+石碑, 地, 文字, 地名, 土地
+cluster5:(1)
+千代田線
+cluster6:(8)
+竹久夢二美術館, 土器, 弥生土器, 弥生町, 弥生式土器, 弥生式土器発掘ゆかりの地, 弥生時代, 縄文式
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

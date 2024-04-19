@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太華山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+夕日鑑賞, 夜景観賞
+cluster1:(2)
+夕方, 日没
+cluster2:(3)
+頂上, 太華山, 山
+cluster3:(1)
+野犬
+cluster4:(3)
+瀬戸内海国立公園, 大島半島, 工業地帯
+cluster5:(1)
+周南市
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

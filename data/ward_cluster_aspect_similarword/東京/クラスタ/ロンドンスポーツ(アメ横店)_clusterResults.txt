@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ロンドンスポーツ(アメ横店)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+スポーツ用品, ゴルフ用品, サッカー用品
+cluster1:(2)
+スポーツウェア, ウェア
+cluster2:(3)
+息子, もの, 辺り
+cluster3:(2)
+御徒町, アメ横
+cluster4:(8)
+ワゴン, シューズ, ランチ, スニーカー, 掘り出し物, メーカー, ロンドンスポーツ, サイズ
+cluster5:(1)
+もた
+cluster6:(5)
+店舗, スポーツ屋, 商品, 店頭, 店員
+cluster7:(2)
+値段設定, アメ横散策
+cluster8:(1)
+激安店
+
+howmany entities : 27
+howmany clusters : 9
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 9
+deleted 0entities.

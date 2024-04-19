@@ -1,0 +1,13 @@
+--------------------similar_words:井の頭恩賜公園の桜--------------------
+top3 entities near to cluster0>>
+公園, 緑地, 遊歩道
+top3 entities near to cluster1>>
+外国人, 人種, 外国
+top3 entities near to cluster2>>
+木々, 水面
+top3 entities near to cluster4>>
+名所, 混雑, 駅
+top3 entities near to cluster5>>
+良さ, 憎憎し, もの憂
+top3 entities near to cluster6>>
+花見, 桜, 満開

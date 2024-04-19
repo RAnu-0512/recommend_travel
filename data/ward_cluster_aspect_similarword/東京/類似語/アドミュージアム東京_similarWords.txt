@@ -1,0 +1,41 @@
+--------------------similar_words:アドミュージアム東京--------------------
+top3 entities near to cluster0>>
+展示, 出展
+top3 entities near to cluster1>>
+入場, 入館, 無料
+top3 entities near to cluster2>>
+入館料, 入場料, 入場, 入館
+top3 entities near to cluster3>>
+隅々, 細部
+top3 entities near to cluster4>>
+媒体, 広告
+top3 entities near to cluster6>>
+子ども, こども, 子連れ
+top3 entities near to cluster7>>
+口コミ, おすすめ, オススメ
+top3 entities near to cluster9>>
+ライブラリー, ミュージアム, 博物館
+top3 entities near to cluster10>>
+コマーシャル, クリエイティブ, プロモーション
+top3 entities near to cluster11>>
+デザイン, デサイン, デザイナー
+top3 entities near to cluster12>>
+ポスター, パンフレット, チラシ
+top3 entities near to cluster13>>
+小中学校, 小学校, 小・中学校
+top3 entities near to cluster14>>
+テーマ, テーマー, ジャンル
+top3 entities near to cluster15>>
+大学生, 高校生, 学生
+top3 entities near to cluster16>>
+アート, 博物館, 美術館
+top3 entities near to cluster17>>
+ラリー, スタンプ, ボーワ
+top3 entities near to cluster18>>
+若者, 週末, ママ
+top3 entities near to cluster19>>
+現代, 世界, 地下
+top3 entities near to cluster20>>
+歴史, 時代, 明治
+top3 entities near to cluster21>>
+広告, アド, インターネットバナー

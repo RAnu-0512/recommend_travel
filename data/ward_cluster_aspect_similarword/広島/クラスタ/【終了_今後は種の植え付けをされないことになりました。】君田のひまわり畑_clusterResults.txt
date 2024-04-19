@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:【終了_今後は種の植え付けをされないことになりました。】君田のひまわり畑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+畑, ひまわり畑
+cluster1:(2)
+道, 国道
+cluster2:(8)
+近く, 価値, 駅, 客, 場所, 一面, ひまわり, 黄色
+cluster3:(1)
+見頃時期
+cluster4:(1)
+ます.2019-7-14
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ロープウェイ山麓駅観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+千光寺観光の際にロープウェイ, 乗車券売り場, 案内所, 観光案内所
+cluster1:(5)
+資料, 収集, 観光, 情報, 地図
+cluster2:(8)
+ロープウェイ, 隣, おじさん, パンフレット, チケット購入, ロープウエー, チケット, 千光寺
+cluster3:(6)
+千光寺公園, 尾道駅, 千光寺ロープウェイ, 山麓駅, 尾道, ロープウェイ山麓駅
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:奥多摩水と緑のふれあい館--------------------
+top3 entities near to cluster1>>
+入場, 入館, 同伴
+top3 entities near to cluster2>>
+施設, 駐車場, 駐車
+top3 entities near to cluster3>>
+展示, 映像, 出展
+top3 entities near to cluster4>>
+駅, 駅前, 景色

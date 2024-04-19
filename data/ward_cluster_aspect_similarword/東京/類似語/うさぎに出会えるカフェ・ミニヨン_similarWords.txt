@@ -1,0 +1,53 @@
+--------------------similar_words:うさぎに出会えるカフェ・ミニヨン--------------------
+top3 entities near to cluster1>>
+猫, カフェ
+top3 entities near to cluster2>>
+カフェ, うさぎ, ウサギ
+top3 entities near to cluster3>>
+ちゃん, うさぎ, ウサギ
+top3 entities near to cluster4>>
+うさぎ, ウサギ, ロップイヤー
+top3 entities near to cluster6>>
+子, うさ, ちゃん
+top3 entities near to cluster7>>
+撫, 戸, 玖良
+top3 entities near to cluster8>>
+動物園, 植物園, 動物, 植物
+top3 entities near to cluster9>>
+店員, 店内
+top3 entities near to cluster10>>
+こども, 子ども, 子供
+top3 entities near to cluster11>>
+ふれあい, ふれ合い, スペース
+top3 entities near to cluster12>>
+タイム, スリップ, マシン
+top3 entities near to cluster13>>
+子連れ, トレイルランクライミング, ベビーカー
+top3 entities near to cluster14>>
+飲み物, バッグ, フード
+top3 entities near to cluster15>>
+カフェ, パフェ, 喫茶店
+top3 entities near to cluster16>>
+食前, 食後, 食事
+top3 entities near to cluster17>>
+幼児, 絵本, 大人
+top3 entities near to cluster18>>
+散歩, 体験, 散策
+top3 entities near to cluster19>>
+世話, エサ, 餌
+top3 entities near to cluster20>>
+性格, 服装, 容姿
+top3 entities near to cluster22>>
+友達, 周り, 友人
+top3 entities near to cluster24>>
+時間, 日数分, 日数
+top3 entities near to cluster25>>
+想定外, 想定内, 想定
+top3 entities near to cluster26>>
+指手, なり手, 指
+top3 entities near to cluster27>>
+膝, 角, 木
+top3 entities near to cluster28>>
+触り, 触っ, 触る
+top3 entities near to cluster29>>
+順番待ち, 順番, 待つ

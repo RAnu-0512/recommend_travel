@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スルメづくり・魚の干物づくり>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スルメ, スルメづくり
+cluster1:(1)
+地元
+cluster2:(1)
+魚
+cluster3:(1)
+イカ
+cluster4:(1)
+干物づくり
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

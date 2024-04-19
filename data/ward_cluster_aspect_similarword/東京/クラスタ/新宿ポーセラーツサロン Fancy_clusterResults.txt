@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新宿ポーセラーツサロン Fancy>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+四谷三丁目, 新宿駅, 曙橋
+cluster1:(16)
+クリスマス, コップ, プレート, ベビープレート, ポーセラーツ, イベント, わがまま, クマ, 子供, キッズプレート, シート, イメージ, サロン, プレゼント, 居心地, レッスン
+cluster2:(2)
+案内, 作成
+cluster3:(5)
+作品, 人, 他, 先生, 友人
+cluster4:(5)
+形, 意外, 方, こと, もの
+cluster5:(1)
+自宅サロン
+cluster6:(1)
+><
+cluster7:(1)
+焼き上がり
+cluster8:(2)
+転写紙, 笑柄選び
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 9
+deleted 0entities.

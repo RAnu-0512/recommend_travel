@@ -1,0 +1,15 @@
+--------------------similar_words:橋津古墳群--------------------
+top3 entities near to cluster0>>
+山馬, 山, 麓
+top3 entities near to cluster1>>
+古墳群, 古墳, 遺跡群, 遺跡
+top3 entities near to cluster2>>
+通称, 俗称, 別名
+top3 entities near to cluster3>>
+丘陵, 古墳, 公園
+top3 entities near to cluster4>>
+館, 風土記, 映画
+top3 entities near to cluster5>>
+円, 古墳, 出崎山
+top3 entities near to cluster6>>
+古墳, 史跡, 遺跡

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西武新宿駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+西武線, JR新宿駅, 西武新宿駅, O^)JR新宿駅
+cluster1:(2)
+距離, 経費
+cluster2:(26)
+店, 地下道, 場所, サブナード, 歌舞伎町, まわり, 地下街, 人, 他, スイーツ, GU, 近く, 始発駅, 乗換え, 到着, 高田馬場, 上, 買い物, 地下鉄, PePe, 東側, 方, 次, ショッピングモール, 作り, 乗り換え
+cluster3:(2)
+限定発売所, 無印良品
+cluster4:(5)
+新宿駅, 新宿PePe, 西口, 東口, 新宿
+cluster5:(6)
+JR, 始発, 路線, 改札, 私鉄, バス
+cluster6:(4)
+仮の駅, 駅, 高田馬場駅, 駅ビル
+cluster7:(1)
+乗降客
+cluster8:(1)
+ペペ
+
+howmany entities : 51
+howmany clusters : 9
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:見付天神・矢奈比賣神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+賣神社, 霊犬早太郎像, 霊犬神社方, 霊犬神社
+cluster1:(5)
+両脇, 見付天神, 赤鳥居, 天神, 天神様
+cluster2:(7)
+北, 側, 東側, 南, 南側, 本社, お社
+cluster3:(2)
+聖地, 地
+cluster4:(6)
+コラボ, 作中, お守り, キャラ, ステッカー, 作品
+cluster5:(2)
+神, 伝説
+cluster6:(1)
+牛
+cluster7:(1)
+しっぺい
+cluster8:(1)
+磐田
+cluster9:(8)
+絵馬, 拝殿, ワンコ神社, 神社, 正真正銘学問, 裸祭り, つつじ公園, 学問
+cluster10:(1)
+犬みくじ
+
+howmany entities : 38
+howmany clusters : 11
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 8entities.

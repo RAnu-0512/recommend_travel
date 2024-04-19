@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:煎茶堂東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+店, 品種, 東京, 土産, 種類, 全国, 道具, 好み, 農園, 銀座, 試飲, 日本, プレゼント, 方, こと, 雰囲気, 祖母, 香り, もの, お茶屋, 女性, 店内
+cluster1:(3)
+緑茶, 煎茶, 急須
+cluster2:(3)
+茶, 茶農家, 日本茶
+cluster3:(1)
+日本茶専門店
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 4
+deleted 0entities.

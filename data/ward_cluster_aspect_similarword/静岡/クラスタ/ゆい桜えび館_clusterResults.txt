@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ゆい桜えび館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+生桜エビ, 桜エビレストラン海
+cluster1:(2)
+ゆい桜えび館, 潮の華
+cluster2:(5)
+いわし節, カツオぶし, 片口いわし, 醤油, 鰹節
+cluster3:(9)
+えび入り, 生桜えび, 桜えび茶屋, 海老, 蕎麦, 桜えび揚げ, 桜, さくらえび, かき揚げそば
+cluster4:(5)
+静岡県, 静岡, 由比漁港, 由比宿, 由比
+cluster5:(2)
+かき揚げ, サクラエビ
+cluster6:(2)
+ふりかけ, 削りぶし
+cluster7:(5)
+セット, おみやげ, おすすめ, アツアツ, ふんわり
+cluster8:(1)
+うどん
+cluster9:(1)
+サクッ
+cluster10:(6)
+桜海老, イワシふりかけ, 桜えび, 駿河湾, 削り節, 海産物
+cluster11:(2)
+機械, 港
+cluster12:(2)
+名前, おかわり
+cluster13:(7)
+サクサク度, 時期, もの, 時間, 別, 中, 方
+cluster14:(2)
+立ち寄り所, 見所
+cluster15:(1)
+美味しさ
+cluster16:(15)
+工場見学, 産地, 土産, 販売, 関連施設, 料理, 特産, 名産, 試食, 店, 製造見学, 直売所, 食事処, 物産, 施設
+cluster17:(5)
+団体客, 観光バス, 個人客, 観光地, 国道沿い
+
+howmany entities : 74
+howmany clusters : 18
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 8
+deleted 17entities.

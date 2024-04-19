@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はりねずみのパン教室 el erizo>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+パン, パンづくり, パン作り, パン教室
+cluster1:(2)
+先生, 教室
+cluster2:(2)
+子供, お子様
+cluster3:(8)
+バルコニー, カフェ, 手入れ, メニュー, グリーン, アレンジパン, パン生地, レシピ
+cluster4:(2)
+花, 自宅
+cluster5:(1)
+人柄
+cluster6:(1)
+多さ
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

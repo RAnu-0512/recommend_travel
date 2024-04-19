@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニトリ ヴィーナスフォート店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+台場, お台場ヴィーナスフォート
+cluster1:(5)
+店舗, 家具, 雑貨, フォート店, 客
+cluster2:(9)
+東京, 人気, 海外, ニトリ ヴィーナス, ニトリ, スタッフ, 外国, フォート, ヴィーナス
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

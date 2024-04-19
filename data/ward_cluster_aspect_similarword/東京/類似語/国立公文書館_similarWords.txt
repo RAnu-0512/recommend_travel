@@ -1,0 +1,23 @@
+--------------------similar_words:国立公文書館--------------------
+top3 entities near to cluster0>>
+博物館展, 博物館, 美術館
+top3 entities near to cluster1>>
+見学, 展示, 開催
+top3 entities near to cluster3>>
+人達, 人々
+top3 entities near to cluster4>>
+博物館, 美術館, 文化財
+top3 entities near to cluster7>>
+一般, 多数, 数多い
+top3 entities near to cluster9>>
+物腰, 人当たり, 口調
+top3 entities near to cluster10>>
+文書, 書物, 資料
+top3 entities near to cluster11>>
+公文書, 資料, 館
+top3 entities near to cluster12>>
+歴史, 資料
+top3 entities near to cluster13>>
+展示, 施設, 出展
+top3 entities near to cluster14>>
+国立, 近代, 現代

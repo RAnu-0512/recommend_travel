@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米泉湖(末武川ダム)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+釣り, 観光スポット
+cluster1:(2)
+岩, 水面
+cluster2:(9)
+コバルトブルー, オススメ, 夏, 米, 沢山, 人々, ロックフィルダム, 水, 気分
+cluster3:(1)
+竣工
+cluster4:(5)
+ダム湖, 末武川ダム, 下松市, ダム, 泉湖
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

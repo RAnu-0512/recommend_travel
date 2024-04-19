@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竜洋昆虫自然観察公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+子ども, カブトムシ, 方, 昆虫, クワガタ, メダカ
+cluster1:(3)
+施設, 池, 公園
+cluster2:(1)
+野外公園
+cluster3:(1)
+入館料
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 2entities.

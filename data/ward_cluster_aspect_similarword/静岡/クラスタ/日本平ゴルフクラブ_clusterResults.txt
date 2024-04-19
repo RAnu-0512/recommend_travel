@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本平ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日本平ホテル, 日本平パークウエイ
+cluster1:(1)
+静岡
+cluster2:(2)
+アップダウン, ところ
+cluster3:(1)
+コース
+cluster4:(1)
+ゴルフ
+cluster5:(1)
+富士山
+cluster6:(1)
+途中
+cluster7:(1)
+景色
+cluster8:(1)
+ゴルフ場
+cluster9:(1)
+女子風呂
+
+howmany entities : 12
+howmany clusters : 10
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 12entities.

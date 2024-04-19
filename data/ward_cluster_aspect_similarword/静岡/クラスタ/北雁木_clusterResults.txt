@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北雁木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+海路, 本陣, 関所
+cluster1:(12)
+小分け, 浜名湖, 常夜灯, 船着き場, 昔, 今切れ口, 歴史, そば, 雰囲気, スポット, 場所, 東海道
+cluster2:(2)
+石畳, 石垣
+cluster3:(5)
+史跡, 駐車場, 渡船場跡, 跡地, 跡
+cluster4:(9)
+浜松市, 静岡県, 舞阪, 舞阪宿, 江戸時代の船着き場, 脇本陣, 舞阪郷土資料館, 北雁木, 江戸時代
+cluster5:(1)
+東海道五十三次の宿場町
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 4
+deleted 3entities.

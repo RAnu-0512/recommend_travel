@@ -1,0 +1,11 @@
+--------------------similar_words:愛らんどセンター 御神火温泉--------------------
+top3 entities near to cluster0>>
+温泉, 露天風呂, 旅館
+top3 entities near to cluster1>>
+掃除, 風呂, 清掃
+top3 entities near to cluster2>>
+窓, 室内, 光
+top3 entities near to cluster3>>
+水着, 施設, プール
+top3 entities near to cluster5>>
+じん, じんと, わりき

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武部養鱒場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+塩焼定食, 刺身定食, 塩焼き定食
+cluster1:(2)
+鱒料理, 鱒
+cluster2:(2)
+虹鱒料理, 虹鱒
+cluster3:(13)
+徳山入口, みとく苑, 所, 食事処, 釣り堀, こと, ニジマス, 下方, 川岸, 勢い, 店, 近く, 食事
+cluster4:(3)
+養鱒場, 徳山三佛寺, 武部養鱒場
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

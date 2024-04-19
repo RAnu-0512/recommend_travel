@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:FIRST AIRLINES>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+旅行, カリフォルニア旅行
+cluster1:(4)
+プロジェクションマッピングVR, 語, 花火, 料理
+cluster2:(3)
+気分, 方, 感覚
+cluster3:(2)
+昼, 本業
+cluster4:(6)
+フランス, タブレット, イタリア, フィンランド, 日本, デザート盛り合わせ
+cluster5:(2)
+画像, 次
+cluster6:(1)
+細部
+cluster7:(1)
+誕生日
+cluster8:(1)
+客室乗務員
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

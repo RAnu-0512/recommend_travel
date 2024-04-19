@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ドローンリゾート南熱海>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+パスワード, メール, 場所, WiFi, 中, 不満だらけ, 返信, 別荘地帯, 網代駅, 外, スペース, タクシー, ドローン, 山, 練習
+cluster1:(3)
+緊急連絡先, 電話番号, ドローン練習場
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

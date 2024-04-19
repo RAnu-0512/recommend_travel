@@ -1,0 +1,13 @@
+--------------------similar_words:ニッポンレンタカー 三軒茶屋駅前店--------------------
+top3 entities near to cluster0>>
+家族, 親族, 両親
+top3 entities near to cluster1>>
+種類, 数種類, 箇所
+top3 entities near to cluster2>>
+店舗, 値段
+top3 entities near to cluster3>>
+立地, 至便, ローケーション
+top3 entities near to cluster4>>
+駅, 駅前, 東急
+top3 entities near to cluster5>>
+利便性, 利便, 可能性, 可能

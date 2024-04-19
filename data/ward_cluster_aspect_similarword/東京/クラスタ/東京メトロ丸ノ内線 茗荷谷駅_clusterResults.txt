@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸ノ内線 茗荷谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+文京歴史探訪シンポジウム, 発掘成果展
+cluster1:(12)
+学校, 開催, 文京キャンパス, 丸ノ内線, 筑波大学, 浅草線, 見学, 学生, 跡見学園女子大学, 東京メトロ, 大塚, 入校
+cluster2:(4)
+地下鉄三田線, 品川区, 蔵前駅, 目黒駅
+cluster3:(9)
+茗荷谷駅, 街歩き, 守衛所, 駅, 駅周辺, 方面, 徒歩, 学園出口, 水大学
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

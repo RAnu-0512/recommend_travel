@@ -1,0 +1,41 @@
+--------------------similar_words:浅草ねこ園--------------------
+top3 entities near to cluster0>>
+里親, 募集, 貰い手
+top3 entities near to cluster1>>
+ねこ, 猫, ネコ
+top3 entities near to cluster2>>
+猫, ネコ, ニャンコ
+top3 entities near to cluster3>>
+猫, ネコ, ちゃん
+top3 entities near to cluster4>>
+ネコ, 猫, ニャンコ
+top3 entities near to cluster5>>
+仔猫, 子猫, 猫
+top3 entities near to cluster6>>
+ネコ, 猫, ねこ
+top3 entities near to cluster7>>
+猫, ネコ, ねこ
+top3 entities near to cluster8>>
+猫, ネコ, 子猫
+top3 entities near to cluster9>>
+猫, 子猫, 保護
+top3 entities near to cluster11>>
+子, 娘, 子供
+top3 entities near to cluster12>>
+癒し, 癒, 安らぎ
+top3 entities near to cluster13>>
+退散, 寝, しまう
+top3 entities near to cluster15>>
+人達, 人間
+top3 entities near to cluster17>>
+思う気, よう, 思う
+top3 entities near to cluster18>>
+姿, 表情
+top3 entities near to cluster19>>
+部屋, 料金, 出入り口
+top3 entities near to cluster20>>
+時間制, 時間, 制は
+top3 entities near to cluster21>>
+おせる, したおす, お節
+top3 entities near to cluster22>>
+不信感, 嫌悪感, 不信, 嫌悪

@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草たい焼き工房「求楽」ASAKUSAGURAKU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+焼き作り, 焼き, 焼き体験, 焼きづくり
+cluster1:(2)
+焼き器, 焼き機
+cluster2:(3)
+できたて, 甘さ, 急かし気味
+cluster3:(4)
+時間配分, 予約時間, 誕生日, 時間
+cluster4:(2)
+体験, 社会体験
+cluster5:(2)
+料理体験, 料理
+cluster6:(3)
+参加者みんな, 食べ方, 家族連れ
+cluster7:(1)
+浅草観光
+cluster8:(2)
+具材, 具
+cluster9:(5)
+大人, 子供, 半分こ, あんバター, 子供達
+cluster10:(2)
+ごはん系, スイーツ系
+cluster11:(21)
+アップル, コロナ, 消費, スタッフ, HB, もぐもぐタイム, タレント, 作り方, 朝ごはん, 羽, 持ち帰り, キャラメル, ゆとり, ポイント, オルゴール, 飲み物, 焼き立て, テレビ, パネル, オーダー, バター
+cluster12:(10)
+想像, 笑顔, 中身, 文句, 前提, 写真, 方, 対応, こと, もの
+cluster13:(7)
+店, 人, 土産, 家族, 友達, 店員, 友人
+
+howmany entities : 68
+howmany clusters : 14
+howmany entities (more than1entities) : 68
+howmany clusters (more than1entities) : 14
+deleted 0entities.

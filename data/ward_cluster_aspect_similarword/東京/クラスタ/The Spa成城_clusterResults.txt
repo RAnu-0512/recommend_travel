@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:The Spa成城>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+日帰り天然温泉, 天然温泉, 天然温泉施設, 炭酸水素塩温泉
+cluster1:(8)
+身体, 温度, 床, 女性ミストサウナ, 成分, 正常, 肌, 女性
+cluster2:(15)
+おすすめ, 水風呂, 支払い, 張り紙, ジェットバス, Spa, 気持ち, フロント, 露天風呂, バーコード, ユニクロ, 日帰り, サウナ, スポット, バイブラバス
+cluster3:(2)
+疲れ, 気分
+cluster4:(8)
+場所, 人気, 種類, 事, 時間, 方, 中, もの
+cluster5:(3)
+割引, 値段, 料金
+cluster6:(3)
+業者, 客, 電話
+cluster7:(2)
+入館, クーポン券
+cluster8:(1)
+食事処
+cluster9:(4)
+かけ流し, 何か, なんらか, 満足感
+cluster10:(3)
+銭湯, 温泉, 湯
+cluster11:(3)
+お湯, 浴槽, 風呂
+cluster12:(1)
+浴場
+cluster13:(1)
+黒湯
+cluster14:(1)
+ろ過ポンプ
+cluster15:(6)
+日帰り温泉施設, スパ施設, 温泉施設, 施設, シャトルバス, 送迎バス
+cluster16:(7)
+成城, 世田谷区, 地下, 千歳船橋駅, 小田急線, The Spa成城, 都心
+
+howmany entities : 72
+howmany clusters : 17
+howmany entities (more than1entities) : 72
+howmany clusters (more than1entities) : 17
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:智方神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+鎌倉, 後醍醐, 黄瀬川, 護良, 木々, パワー, 歴史, 緑, 護良親王, 首, スポット, 地, 東海道, 氾濫, 標
+cluster1:(3)
+神社, 境内, 祭神
+cluster2:(4)
+寵姫, 皇子, 親王, 天皇
+cluster3:(1)
+清水町
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 1entities.

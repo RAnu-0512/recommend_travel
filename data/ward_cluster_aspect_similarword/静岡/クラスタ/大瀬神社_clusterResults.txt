@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大瀬神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+周り, 裏手, 周辺, そば, 奥, 近く, 脇
+cluster1:(2)
+先, 場所
+cluster2:(2)
+気, 感じ
+cluster3:(2)
+人, 方
+cluster4:(1)
+気分
+cluster5:(1)
+眺め
+cluster6:(1)
+機会
+cluster7:(1)
+基本情報
+cluster8:(6)
+灯台, 海岸, 神社, 神池, 海, 警察
+cluster9:(7)
+鳥, 動物, 鯉, エサ, 池, 自然, 淡水
+cluster10:(16)
+終わり, スノーケル, ダイビング, 守護神, ダイバー, ビャクシン, 富士山, 大瀬崎, 富士見, 有料, ビャクシン樹林, 天然記念物ビャクシン, 水族館, 見どころ, 道, 冬季
+cluster11:(3)
+駐車場, 休憩時間, 路駐
+cluster12:(6)
+沼津, 内浦, 御神木, 大瀬神社, 海岸線, 沼津駅
+
+howmany entities : 55
+howmany clusters : 13
+howmany entities (more than3entities) : 45
+howmany clusters (more than3entities) : 6
+deleted 10entities.

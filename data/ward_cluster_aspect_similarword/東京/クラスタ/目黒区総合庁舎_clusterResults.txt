@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:目黒区総合庁舎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+建築物, 駐車場, 改札口, 場, 憩い, 総合庁舎, 商店街, 建築家, 庁舎
+cluster1:(24)
+区役所, 場所, 食事, 建物, 入口, 人, 右, 近く, 構造, 役所, 係り, 付近, 経路, 何か所, ビル, 土地, 方, 手続き, 中目黒, こと, 設計, 夜間, 職員, 側
+cluster2:(2)
+東急東横線, 中目黒駅
+cluster3:(2)
+表示, 行先
+cluster4:(2)
+便, 交通
+cluster5:(1)
+案内専門
+cluster6:(1)
+高低差
+cluster7:(4)
+目黒銀座, 目黒区役所, 目黒区総合庁舎, 駒沢通り側
+
+howmany entities : 45
+howmany clusters : 8
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 8
+deleted 0entities.

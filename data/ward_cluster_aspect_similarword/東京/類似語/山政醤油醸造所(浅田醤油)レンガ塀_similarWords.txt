@@ -1,0 +1,11 @@
+--------------------similar_words:山政醤油醸造所(浅田醤油)レンガ塀--------------------
+top3 entities near to cluster0>>
+醸造, 醤油, 酒造
+top3 entities near to cluster1>>
+資産家, 政家, 資産, 政
+top3 entities near to cluster3>>
+土地, 公園, 緑地
+top3 entities near to cluster4>>
+醤油, しょうゆ, しょう油
+top3 entities near to cluster6>>
+塀, レンガ, トンバイ

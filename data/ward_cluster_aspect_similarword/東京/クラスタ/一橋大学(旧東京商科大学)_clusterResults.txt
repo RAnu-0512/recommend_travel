@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一橋大学(旧東京商科大学)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+吉田茂, 大平正芳
+cluster1:(5)
+天下市, 学園祭, 総理大臣, 多摩地区, 新駅
+cluster2:(7)
+立川, 紅葉, 木, 秋, 一橋, 南, れん
+cluster3:(28)
+一般, 人たち, 伝統, サイド, 建物, 国分寺, 学校関係, 人, 間, 受験生, 子供, 中核, 漢字, レンガ造り, 大学, 名称, 関係, 大学通り, 因み, 学生, 受験シーズン, 方, 歴史, こと, 雰囲気, 側, 通り, キャンパス
+cluster4:(1)
+政治家
+cluster5:(1)
+こくりつ
+cluster6:(2)
+JR中央線, JR中央線国立駅
+cluster7:(2)
+国立市, 国立駅
+cluster8:(3)
+国立大学, 国立, 国立一橋大学
+cluster9:(1)
+文教指定都市国立
+
+howmany entities : 52
+howmany clusters : 10
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 10
+deleted 0entities.

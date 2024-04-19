@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:耕心窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+陶芸, 陶芸教室, 陶芸体験
+cluster1:(2)
+夫婦, 家族
+cluster2:(2)
+子供, 旦那
+cluster3:(6)
+話, 店, 機会, サプライズ, 対応, もの
+cluster4:(1)
+優しさ
+cluster5:(1)
+マグカップとお皿
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 6entities.

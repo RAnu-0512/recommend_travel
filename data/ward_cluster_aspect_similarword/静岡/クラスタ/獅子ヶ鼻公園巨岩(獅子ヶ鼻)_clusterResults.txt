@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:獅子ヶ鼻公園巨岩(獅子ヶ鼻)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+車, ボックスタイプ, 地名, 感じ, 顔, 横顔, 名前
+cluster1:(3)
+獅子, 岩, 古里
+cluster2:(1)
+家族連れ
+cluster3:(1)
+武速神社
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 2entities.

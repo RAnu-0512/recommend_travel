@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明王院本堂(国宝)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+禅宗, 禅宗様
+cluster1:(2)
+門前町, 福山市
+cluster2:(2)
+解説板, 元応
+cluster3:(7)
+平安, 鎌倉, 国宝, 本尊, 寺そのもの, 大仏, 本堂
+cluster4:(5)
+文化財, 国内, 芦田川, 素人, 五重塔
+cluster5:(5)
+隣, 記述, 時代, 前, 様子
+cluster6:(1)
+折衷
+cluster7:(1)
+代表例
+cluster8:(6)
+建築, 建物, 建築学, 築, 屋根, 棟札
+cluster9:(1)
+開創
+cluster10:(4)
+明王院本堂, 明王院, 十一面観音立像, 草戸千軒遺跡
+
+howmany entities : 36
+howmany clusters : 11
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 11
+deleted 0entities.

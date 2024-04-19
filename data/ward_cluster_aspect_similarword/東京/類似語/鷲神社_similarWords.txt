@@ -1,0 +1,19 @@
+--------------------similar_words:鷲神社--------------------
+top3 entities near to cluster0>>
+神社, 稲荷, 明神
+top3 entities near to cluster1>>
+混み, 食べ, 歩き
+top3 entities near to cluster2>>
+時間, 時間帯
+top3 entities near to cluster3>>
+酉, 干支, 丑
+top3 entities near to cluster4>>
+境内, 神社, 屋台
+top3 entities near to cluster5>>
+バス, ツアー, タクシー
+top3 entities near to cluster7>>
+掛け声, 雰囲気
+top3 entities near to cluster8>>
+酉の市, 御朱印, 寿老人
+top3 entities near to cluster10>>
+縁起, 利益, 収益

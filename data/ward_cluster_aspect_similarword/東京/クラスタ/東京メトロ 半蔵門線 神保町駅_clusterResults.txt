@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ 半蔵門線 神保町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+駅, 御茶ノ水, 三田線, ゼビオ, 神保町, 半蔵門線, 乗り換え, 東西線, 東西
+cluster1:(2)
+都営, 新宿線
+cluster2:(1)
+古書街
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アルファディア リムジンサービス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+クルージング, サプライズ, レストラン, 車, 会社, スポット, コース, スケジュール, ドライバー
+cluster1:(6)
+場所, 無理, 他, 感じ, 前, 方
+cluster2:(2)
+裏側, 成功
+cluster3:(2)
+銀座, 会食
+cluster4:(7)
+夜景スポット, 記念写真, 帰宅時間, 写真, 発着場所, 写真アングル, 夜景
+cluster5:(1)
+抜群◎母
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

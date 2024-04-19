@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR日暮里駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+通路, ホステル滞在, 案内, 移動, 窓口, 清掃
+cluster1:(19)
+常磐線, 京成電鉄, 人, コスパ, スカイライナー, 東北線, ホーム, 影響, ココ, トイレ, 乗換え, レストラン, 時間, 西日暮里, 方, こと, 系列, 側, 乗り換え
+cluster2:(3)
+上野, 谷中, 京浜
+cluster3:(1)
+ラッシュ時間帯
+cluster4:(1)
+改修工事
+cluster5:(2)
+谷中霊園, 日暮里舎人ライナー
+cluster6:(2)
+京成線, 山手線
+cluster7:(6)
+JR日暮里駅, JR, 日暮里駅, 駅, 周辺, 駅構内
+cluster8:(1)
+繊維街方面
+
+howmany entities : 41
+howmany clusters : 9
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 9
+deleted 0entities.

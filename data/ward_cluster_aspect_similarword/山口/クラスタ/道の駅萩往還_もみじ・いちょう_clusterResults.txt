@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅萩往還_もみじ・いちょう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+地元, おすすめ, もみじ, 道, スポット, 紅葉
+cluster1:(3)
+駅萩往還, 吉田松陰, 久坂玄瑞
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

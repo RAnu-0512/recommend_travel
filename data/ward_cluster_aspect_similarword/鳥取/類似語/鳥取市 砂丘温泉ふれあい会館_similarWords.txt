@@ -1,0 +1,21 @@
+--------------------similar_words:鳥取市 砂丘温泉ふれあい会館--------------------
+top3 entities near to cluster0>>
+券売機, 券売, 改札機, 改札
+top3 entities near to cluster2>>
+温泉, 風呂, 露天風呂
+top3 entities near to cluster4>>
+設備, 機械, 機器
+top3 entities near to cluster5>>
+料金, 受付, 予約
+top3 entities near to cluster7>>
+看板, 建物, 店構え
+top3 entities near to cluster8>>
+刺青, 入れ墨, 入墨
+top3 entities near to cluster9>>
+接客, 応対, 業務
+top3 entities near to cluster10>>
+体温, 温度, 気温
+top3 entities near to cluster11>>
+ガラス越し, ガラス, 向こう
+top3 entities near to cluster12>>
+値段, 相応, 見合う

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒲原城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蒲原, 蒲原城
+cluster1:(2)
+天文, 今川
+cluster2:(2)
+史料, 役割
+cluster3:(3)
+城郭, 支城, 城代
+cluster4:(1)
+駐車場
+cluster5:(1)
+創築
+cluster6:(2)
+南北朝期, 日本城郭大系 9
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 10entities.

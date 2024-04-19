@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆漁協協同組合大薮直売所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊勢, 海老
+cluster1:(2)
+珍味, 干物
+cluster2:(5)
+値段, 土産, 小さめ, もの, サザエ
+cluster3:(1)
+魚貝
+cluster4:(1)
+加工品
+cluster5:(3)
+土肥漁港, 漁協直営, 直売所
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 6entities.

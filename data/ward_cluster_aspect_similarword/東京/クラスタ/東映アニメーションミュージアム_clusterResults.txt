@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東映アニメーションミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東映, 東映アニメーション
+cluster1:(19)
+作品, 年齢, ショールーム, 場所, ほとんど, 他, 名前, 入り口, 記入, 映像, 世話, こと, アニメ, 資料, フェア, スペース, 鬼太郎, 感想, 展示
+cluster2:(3)
+大泉学園駅, 駅, ゲゲゲの鬼太郎
+cluster3:(1)
+ドロロンえん魔
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

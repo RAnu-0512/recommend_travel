@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大久野島海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+エサやり, 戦艦ぽい船, エサ, 餌
+cluster1:(3)
+広島県, 猛暑日, 休暇村
+cluster2:(2)
+海水浴, ビーチ
+cluster3:(3)
+ウサギ, うさぎ, 大久野島
+cluster4:(7)
+フェリー, ところ, キャベツ, シャワー, 瀬戸内海, ダッシュ, 餌付け
+cluster5:(1)
+大三島
+cluster6:(1)
+人
+cluster7:(1)
+ペットフード
+cluster8:(4)
+勝手, ほう, 肝心, アクアシューズ必須
+cluster9:(1)
+盛
+cluster10:(14)
+フェリー待ち, 子供, 専用コイン, 木陰, フェリー乗り場, 船, 子供たち, 昼食, 港, 景色, 売店, バス, 便, 海水浴場
+cluster11:(3)
+島内, 島, うさぎ島
+cluster12:(2)
+小島, 三原
+cluster13:(8)
+素足, 砂利, 海流, 砂浜, 石, 海水, 海, 海藻
+cluster14:(1)
+更衣室
+cluster15:(3)
+忠海港フェリー乗り場, しまなみ海道の大三島, 忠海港
+
+howmany entities : 58
+howmany clusters : 16
+howmany entities (more than1entities) : 58
+howmany clusters (more than1entities) : 16
+deleted 0entities.

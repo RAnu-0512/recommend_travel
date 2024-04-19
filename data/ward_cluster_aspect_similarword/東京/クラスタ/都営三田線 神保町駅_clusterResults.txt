@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営三田線 神保町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+新宿, 都営, 新宿線
+cluster1:(2)
+駅, 神保町駅
+cluster2:(5)
+階段, 行き先, 三田線, 神保町, 乗り換え
+cluster3:(1)
+学生時代
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:灰ヶ峰--------------------
+top3 entities near to cluster0>>
+対策, 温度
+top3 entities near to cluster2>>
+山頂, 頂上, 山
+top3 entities near to cluster3>>
+積雪, 路面, 道幅
+top3 entities near to cluster4>>
+昼, 冬, 夏場
+top3 entities near to cluster5>>
+景色, 夜景, 絶景
+top3 entities near to cluster6>>
+大, 三, 夜景
+top3 entities near to cluster7>>
+市街, 市街地, 郊外

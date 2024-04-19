@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牛原山展望塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+車, 山道, 道路, 道
+cluster1:(2)
+公園, 町
+cluster2:(1)
+駐車スペース
+cluster3:(1)
+弁当
+cluster4:(18)
+ハイキングコース, 開花, スポーツカー, 世界, 西伊豆, タイミング, 人, 眼下, 愛, 富士山, 駿河湾, 景色, 海, ドラマ, スポット, 場所, 中心, 遠く
+cluster5:(3)
+撮影, 撮影場所, ロケ地
+cluster6:(7)
+伊那下神社, T字路, 松崎海水浴場, 松崎町, 堂ヶ島, 展望塔, 展望台
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 4entities.

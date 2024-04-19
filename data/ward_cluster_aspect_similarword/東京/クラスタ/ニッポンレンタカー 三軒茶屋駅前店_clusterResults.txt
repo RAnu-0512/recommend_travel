@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 三軒茶屋駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+アクセス, レンタカー, 家族
+cluster1:(2)
+種類, 場所
+cluster2:(3)
+店舗, 店, 値段
+cluster3:(1)
+立地
+cluster4:(4)
+ニッポンレンタカー三軒茶屋駅, 三軒茶屋駅, 東急世田谷線, 首都高
+cluster5:(1)
+利便性
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

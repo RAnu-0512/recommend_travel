@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観音院(鳥取県鳥取市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+寺, 拝観料, 庭園, 隣, キリシタン灯篭桜, 寺宝, 抹茶, 聖観音菩薩, 札所, 広徳寺, 出世, 観音院, 訪問
+cluster1:(2)
+名勝観音院庭園, 御本尊 聖観世音菩薩 阿弥陀如来 通称
+cluster2:(1)
+観音開山・創建宣伝法印・寛永九年
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

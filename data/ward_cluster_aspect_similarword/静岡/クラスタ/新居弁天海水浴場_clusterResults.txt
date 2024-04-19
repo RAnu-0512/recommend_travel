@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新居弁天海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+中心部, 子供達, 家族連れ, 海水浴客
+cluster1:(8)
+潮, 海水, 海岸, 遠浅, 海藻, 波, 海, 砂浜
+cluster2:(2)
+新居インター, 浜松
+cluster3:(2)
+夏, 風
+cluster4:(5)
+家族, 家, 人, 近く, 場所
+cluster5:(9)
+浜名湖, 海水浴, プール, シーズン, タコ, シャワー, バーベキュー, 潮干狩り, オススメ
+cluster6:(2)
+散策, 加減
+cluster7:(7)
+駐車場, 海水浴場, 海湖館, 更衣室, 海釣り公園, 国一パイパス, 新居弁天海水浴場
+
+howmany entities : 39
+howmany clusters : 8
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 6entities.

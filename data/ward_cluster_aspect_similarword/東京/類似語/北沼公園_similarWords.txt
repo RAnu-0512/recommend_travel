@@ -1,0 +1,19 @@
+--------------------similar_words:北沼公園--------------------
+top3 entities near to cluster0>>
+子, 子供, 娘
+top3 entities near to cluster2>>
+乗り物, 自転車, 三輪車
+top3 entities near to cluster3>>
+運動公園, 男の子, 公園
+top3 entities near to cluster4>>
+滑り台, すべり台, 遊具
+top3 entities near to cluster5>>
+子供, 息子, 子ども
+top3 entities near to cluster6>>
+練習, 特訓, トレーニング
+top3 entities near to cluster7>>
+恐竜, ティラノサウルス, トリケラトプス
+top3 entities near to cluster8>>
+駄菓子屋, 雑貨屋, 駄菓子, 雑貨
+top3 entities near to cluster9>>
+公園, 遊具, 遊歩道

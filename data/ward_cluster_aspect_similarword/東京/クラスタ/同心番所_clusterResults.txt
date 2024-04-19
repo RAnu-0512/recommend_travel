@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:同心番所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+登城, 登城者
+cluster1:(13)
+大手, 説明板, 警備, 建物, 大名, 江戸城, 濠, 橋, 付近, 大手門, 監視, こと, 挿絵
+cluster2:(2)
+本丸, 江戸城本丸
+cluster3:(2)
+江戸, 江戸時代
+cluster4:(7)
+同心, 百人番所, 警備詰所, 番所, 同心番所, 大番所, 皇居東御苑
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 5
+deleted 0entities.

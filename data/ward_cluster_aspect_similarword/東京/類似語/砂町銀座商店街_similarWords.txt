@@ -1,0 +1,27 @@
+--------------------similar_words:砂町銀座商店街--------------------
+top3 entities near to cluster0>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster3>>
+大勢, 人達, 人々
+top3 entities near to cluster6>>
+塩, どん, 温い
+top3 entities near to cluster7>>
+トラジ, 焼き肉, 焼肉
+top3 entities near to cluster8>>
+雰囲気, テイスト, 風情
+top3 entities near to cluster9>>
+揚げ物, 食べ物, コロッケ
+top3 entities near to cluster10>>
+東西線, 南北線, 地下鉄
+top3 entities near to cluster11>>
+活気, 人情, 人情味
+top3 entities near to cluster12>>
+風景, 風情, ロケ
+top3 entities near to cluster13>>
+商品, 値段
+top3 entities near to cluster14>>
+惣菜屋, 寿司屋, 惣菜, 寿司
+top3 entities near to cluster15>>
+砂, 町, 区
+top3 entities near to cluster16>>
+料理店, 商店, 料理

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:元祖食品サンプル屋 合羽橋ショールーム(本店)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+サンプル, 店, 食品サンプル, 手持ち, カツカレー, 本物, 芸術作品, 成田空港, 寿司, マグネット
+cluster1:(3)
+合羽橋界隈, 東京美研, 元祖食品サンプル屋
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

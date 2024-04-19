@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高徳寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新井白石, 新井白石記念ホール
+cluster1:(2)
+長野, 明治
+cluster2:(4)
+所, 早稲田, 付近, セレモニー施設
+cluster3:(2)
+寺院, 寺
+cluster4:(2)
+墓, 葬儀
+cluster5:(1)
+大谷派
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千坊川砂防公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川砂防公園, 砂防公園
+cluster1:(6)
+石鹸, 洗剤, 油, 汚れ, 修理, 合成
+cluster2:(9)
+支所, 自然, 公園, キャンプ場, 人, 消し炭, キャンプ, 浄化槽, 大金
+cluster3:(1)
+炊事棟
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

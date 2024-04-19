@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:斎藤鶴磯の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史, 人物
+cluster1:(2)
+近く, 慈眼寺
+cluster2:(1)
+奥
+cluster3:(1)
+墓
+cluster4:(1)
+巣鴨
+cluster5:(1)
+芥川龍之介
+cluster6:(1)
+案内板
+cluster7:(1)
+儒教者
+cluster8:(1)
+江戸中期
+cluster9:(1)
+染井霊園
+cluster10:(1)
+斎藤鶴磯
+
+howmany entities : 13
+howmany clusters : 11
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 11
+deleted 0entities.

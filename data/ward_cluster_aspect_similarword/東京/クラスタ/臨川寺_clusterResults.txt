@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:臨川寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+亀山上皇, 亀山殿
+cluster1:(7)
+住宅, 寺, 雰囲気, 芭蕉, 近く, 建物, 町
+cluster2:(3)
+江東区, 清澄, 白河駅
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

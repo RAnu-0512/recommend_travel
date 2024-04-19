@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島青年の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中学生, カッター
+cluster1:(1)
+思い出
+cluster2:(1)
+昔
+cluster3:(1)
+人間
+cluster4:(1)
+記憶
+cluster5:(1)
+歌
+cluster6:(1)
+ご飯
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

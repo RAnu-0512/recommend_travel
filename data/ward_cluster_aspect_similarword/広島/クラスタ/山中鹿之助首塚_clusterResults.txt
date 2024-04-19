@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山中鹿之助首塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+兵, 家臣, 武将, 信長, 主君
+cluster1:(13)
+中心, 歴史, もの, 最後, 人生, 観光, 人, 首実検, 形, 雰囲気, 前, 場所, 感慨
+cluster2:(2)
+再興, 復興
+cluster3:(2)
+寺, 寺町
+cluster4:(1)
+住宅街
+cluster5:(5)
+首塚, 榊, 阿井, 山中鹿之助, 毛利方
+cluster6:(5)
+戦国大名, 戦国武将, 足利義昭, 尼子残党, 尼子
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線 国会議事堂前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+千代田線, 銀座線
+cluster1:(2)
+新宿方面, 方面
+cluster2:(18)
+国会議事堂, エスカレーター, 昔, 地上, 丸ノ内線, 東京, 乗り換え, ホーム端, ホーム, 駅, 乗換え, 銀座, 必要, 地下, 南北線, 東京メトロ, 乗り換え駅, 駅名
+cluster3:(2)
+溜池山王駅, 国会議事堂前駅
+
+howmany entities : 24
+howmany clusters : 4
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円月橋(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+写真, 姿, シーン
+cluster1:(2)
+水面, 橋
+cluster2:(1)
+木
+cluster3:(1)
+ようでなかなか
+cluster4:(1)
+丸み
+cluster5:(1)
+小石川後楽園内
+cluster6:(1)
+時間帯
+cluster7:(2)
+円月橋, 石造アーチ橋
+
+howmany entities : 12
+howmany clusters : 8
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 8
+deleted 0entities.

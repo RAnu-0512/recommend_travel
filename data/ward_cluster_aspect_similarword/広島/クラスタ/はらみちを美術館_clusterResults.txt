@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:はらみちを美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+近く, 美術館
+cluster1:(1)
+感じ
+cluster2:(1)
+絵
+cluster3:(1)
+温泉
+cluster4:(1)
+はらさん
+cluster5:(1)
+はらみちを先生の絵
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

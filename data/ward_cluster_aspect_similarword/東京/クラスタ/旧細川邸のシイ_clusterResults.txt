@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧細川邸のシイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白金高輪駅, 白金高輪台駅
+cluster1:(13)
+場所, 天然記念物, シイ, 家, どこか, 木, 迫力, 指定天然記念物, 跡地, 泉岳寺, 写真, 切腹, 道
+cluster2:(4)
+東京都, 高輪, 熊本藩, 細川
+cluster3:(1)
+赤穂浪士
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

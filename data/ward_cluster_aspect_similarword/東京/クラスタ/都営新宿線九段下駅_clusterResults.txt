@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営新宿線九段下駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+大手町, 途中, 最後, 公開予定, 半蔵門線, MXテレビ, 日本武道館, ガイドツアー, 裁判所, 開門, ホーム, 見学, 公開, 注意, 時間, 東西線, 外, 乗り換え, 最寄駅
+cluster1:(2)
+皇居ガイドツアー, 書庫見学ガイドツアー
+cluster2:(3)
+東京メトロ, 都営, 新宿線
+cluster3:(2)
+国会方面, 方面
+cluster4:(2)
+国立国会図書館, 国民公園
+cluster5:(5)
+九段下駅, 大使館跡地, 駅, 改札, 九段下公園
+cluster6:(1)
+昭和館
+cluster7:(1)
+ラジオ局まえ
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベリーランドあきひめ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+練乳, イチゴ, ハウス, いちご, イチゴハウス, イチゴジャム
+cluster1:(11)
+他, 土産, 客, 目, 帰り, 海沿い, 想定, 店舗, 久しぶり, 角, 信号
+cluster2:(1)
+時期外れ
+cluster3:(3)
+あきひめ, いちご狩り, イチゴ狩り
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 1entities.

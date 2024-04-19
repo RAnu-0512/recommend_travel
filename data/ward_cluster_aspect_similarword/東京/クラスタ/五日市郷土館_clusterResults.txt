@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五日市郷土館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+五日市憲法草案, 憲法草案
+cluster1:(4)
+法律, 本草案, 憲法, 政治
+cluster2:(2)
+元年, 明治
+cluster3:(4)
+討論, 学習サークル, 資料, 展示
+cluster4:(8)
+昔, 中心, 五日市, 地域, 暮らし, 人々, ブーム, 時代
+cluster5:(3)
+内容, 件, こと
+cluster6:(1)
+関心
+cluster7:(3)
+郷土館, 民具, 企画展
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 8
+deleted 0entities.

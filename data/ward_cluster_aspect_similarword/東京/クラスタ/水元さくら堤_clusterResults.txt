@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水元さくら堤>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+観光, 公園, 散歩, 駅, 車, 景観
+cluster1:(2)
+両側, 側
+cluster2:(8)
+人, 気持ち, 桜並木, トンネル, 水元公園, 日本, 中, サクラ
+cluster3:(6)
+季節, 場所, 価値, 時期, 風景, 空気
+cluster4:(4)
+水元, 桜, 桜並木道, 満開
+cluster5:(3)
+合わず桜, 土手沿い, 公園沿い
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 6
+deleted 0entities.

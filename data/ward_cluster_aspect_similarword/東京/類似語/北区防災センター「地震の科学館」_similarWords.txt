@@ -1,0 +1,15 @@
+--------------------similar_words:北区防災センター「地震の科学館」--------------------
+top3 entities near to cluster1>>
+体験, 体験談, 体感
+top3 entities near to cluster2>>
+消火, 煙, 着火
+top3 entities near to cluster3>>
+階段, 廊下, 通路
+top3 entities near to cluster4>>
+学習, 勉強, 自習
+top3 entities near to cluster6>>
+別棟, 建物, 館内
+top3 entities near to cluster7>>
+揺れ, ゆれ, 揺れる
+top3 entities near to cluster8>>
+防災, 災害, 地震

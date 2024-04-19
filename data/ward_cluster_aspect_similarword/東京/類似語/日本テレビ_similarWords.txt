@@ -1,0 +1,37 @@
+--------------------similar_words:日本テレビ--------------------
+top3 entities near to cluster0>>
+イベント, テレビ, 番組
+top3 entities near to cluster1>>
+時間, 期間, 日数
+top3 entities near to cluster2>>
+撮影, 写真, 撮っ
+top3 entities near to cluster3>>
+グッズ, アニメ, 日テレ
+top3 entities near to cluster4>>
+混雑, 盛況, 定刻
+top3 entities near to cluster5>>
+散策, 見学, 土産
+top3 entities near to cluster6>>
+新年会, 新年, 互例
+top3 entities near to cluster8>>
+ビル, 高層, タワービル
+top3 entities near to cluster9>>
+駅, 駅前, 構内
+top3 entities near to cluster10>>
+駅, 燈門, 駅前
+top3 entities near to cluster11>>
+東口, 南口, 北口
+top3 entities near to cluster12>>
+一帯, 商業, 施設
+top3 entities near to cluster13>>
+子供, ぼく, 息子
+top3 entities near to cluster14>>
+恩賜, 公園, 浜離宮
+top3 entities near to cluster16>>
+天気, お天気, 予報
+top3 entities near to cluster17>>
+放送, テレビ, 中継
+top3 entities near to cluster18>>
+番組, テレビ, 特番
+top3 entities near to cluster19>>
+時計, 腕時計, 柱時計

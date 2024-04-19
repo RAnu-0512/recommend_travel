@@ -1,0 +1,9 @@
+--------------------similar_words:森の都温泉 ならここの湯--------------------
+top3 entities near to cluster0>>
+泉質, 泉, 塩化
+top3 entities near to cluster5>>
+気持ち, 露天風呂, 気持
+top3 entities near to cluster9>>
+温泉, お湯, 露天風呂
+top3 entities near to cluster11>>
+山奥, 奥, 山

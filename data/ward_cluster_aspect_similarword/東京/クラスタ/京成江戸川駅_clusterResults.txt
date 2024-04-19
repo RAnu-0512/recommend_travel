@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京成江戸川駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+京成江戸川駅, リブレ京成, 菖蒲園
+cluster1:(6)
+駅名, 駅, 改札, 駅裏, 商店街, 各駅停車
+cluster2:(2)
+開放感, ローカル感
+cluster3:(14)
+先, 景色, スーパー, 右, 名前, 江戸川, 散歩, 河川敷, 千葉, 上, 鼻, 土手, 目, もの
+
+howmany entities : 25
+howmany clusters : 4
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 4
+deleted 0entities.

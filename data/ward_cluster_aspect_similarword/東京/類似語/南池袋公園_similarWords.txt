@@ -1,0 +1,39 @@
+--------------------similar_words:南池袋公園--------------------
+top3 entities near to cluster0>>
+飲食店, 料理店, 飲食, 料理
+top3 entities near to cluster1>>
+ビニル, シート, ビニール
+top3 entities near to cluster2>>
+アイス, カフェ, コーヒー
+top3 entities near to cluster3>>
+滑り台, 遊び場, すべり台
+top3 entities near to cluster4>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster5>>
+オススメ, おすすめ, お薦め
+top3 entities near to cluster6>>
+フライドポテト, サンドウィッチ, サンドイッチ
+top3 entities near to cluster7>>
+スプリンクラー, リニューアル, 改修
+top3 entities near to cluster8>>
+おじさん, おっさん, おっちゃん
+top3 entities near to cluster9>>
+ラグマット, シャギーラグマット, シャギーラグ
+top3 entities near to cluster10>>
+カップル, カポー, カッポー
+top3 entities near to cluster11>>
+ラシーヌ, ジャン・ラシーヌ, アンドロマック
+top3 entities near to cluster13>>
+大勢, 人達, 人々
+top3 entities near to cluster14>>
+駅前, 東口, 都心
+top3 entities near to cluster15>>
+昼間, 昼, 週末
+top3 entities near to cluster16>>
+天気, お天気
+top3 entities near to cluster17>>
+昼寝, 木陰, 弁当
+top3 entities near to cluster18>>
+桜, 花見, 芝
+top3 entities near to cluster19>>
+公園, 芝生, 広場

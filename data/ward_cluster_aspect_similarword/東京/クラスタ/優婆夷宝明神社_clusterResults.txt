@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:優婆夷宝明神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+神社, 拝殿, 鳥居, 境内
+cluster1:(21)
+場所, 島, 手書き, 宿, ソテツ, 感謝, 人, 御朱印, 土産, お守り, 親友, 奥, 八丈島, 彼氏, 縁お守り, 塩, 後輩, 歴史, 振る舞い酒, 茶色い, 唯一
+cluster2:(1)
+運転手
+cluster3:(1)
+赤白
+cluster4:(1)
+優婆夷宝明神社
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

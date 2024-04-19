@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:遠江国分寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+跡地, 跡, 礎石, 公園, 寺院, 建物, 往時, 史跡
+cluster1:(8)
+注意, 側, 国分寺, こと, ところ, 場合, 天皇, 場所
+cluster2:(1)
+駐車場スペース
+cluster3:(4)
+磐田市, 磐田駅, 遠江国分寺, 磐田市役所
+cluster4:(2)
+遠州国分寺, 聖武
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 3entities.

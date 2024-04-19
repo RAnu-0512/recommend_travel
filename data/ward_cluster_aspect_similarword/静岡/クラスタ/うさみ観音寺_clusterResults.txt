@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:うさみ観音寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+おみくじエリア, うさみ観音寺
+cluster1:(8)
+タクシー, 自家用車, 願い事, 神, メディア, 亀石峠, 宇佐美, 山
+cluster2:(3)
+事, 感じ, 説明
+cluster3:(5)
+多く, 人, 近く, 場所, 方
+cluster4:(1)
+願い
+cluster5:(1)
+役目
+cluster6:(2)
+横側, 関係者
+cluster7:(2)
+交通網, 海岸線
+cluster8:(9)
+仏像, 神像, 観音, 手水, 本堂, 高台, 廃寺, 彫刻, 坂
+cluster9:(6)
+参拝道, 朱印, 観光目的, 参拝, 拝観, 見学時間
+cluster10:(1)
+老朽化
+
+howmany entities : 40
+howmany clusters : 11
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 5
+deleted 9entities.

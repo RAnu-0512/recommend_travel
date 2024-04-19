@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベルビュー長尾ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+雨, グリーン, ドレスコード, ゴルフ場, 風呂, クラブハウス, コース, プレーフィー, スループレー, 芝生, 天気
+cluster1:(3)
+静岡県, 御殿場市, ベルビュー長尾ゴルフ倶楽部
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 0entities.

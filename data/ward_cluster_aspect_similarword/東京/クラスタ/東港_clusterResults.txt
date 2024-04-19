@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東港>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+捕鯨基地, 捕鯨
+cluster1:(2)
+釣り, 堤防
+cluster2:(8)
+人, 東側, 大きめ, 海, 車, 港, 景色, ドライブ
+cluster3:(2)
+東港, 母島
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

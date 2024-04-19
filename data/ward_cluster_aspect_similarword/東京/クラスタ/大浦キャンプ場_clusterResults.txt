@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大浦キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンプ場, 海水浴場
+cluster1:(2)
+大浦海水浴場, 大浦キャンプ場
+cluster2:(22)
+海キャンプ, 場所取り, ところ, 感じ, 充電コーナー, 観点, 争奪戦, 砂地, トイレ, 地面, 内陸側, 海, 開放感, 杭, テント, 周り, 石, キャンプ, 簡易テント, 海側, セキュリティ, 横
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 3
+deleted 0entities.

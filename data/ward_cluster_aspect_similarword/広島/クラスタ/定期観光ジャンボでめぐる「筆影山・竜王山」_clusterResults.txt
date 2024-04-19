@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:定期観光ジャンボでめぐる「筆影山・竜王山」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展望台, 駐車場
+cluster1:(10)
+四国, パノラマ, 三原駅, 瀬戸内海, 絶景, 季節, 桜, 空気, JR, 定期観光ジャンボ
+cluster2:(1)
+筆影山・竜王山
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

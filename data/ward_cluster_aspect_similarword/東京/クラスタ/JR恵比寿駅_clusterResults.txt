@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR恵比寿駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+帰宅, 到着, 仕事帰り
+cluster1:(4)
+埼京線, アトレ, 中目黒, 日比谷線
+cluster2:(2)
+ジューススタンド, ビール
+cluster3:(10)
+恵比寿ガーデンプレイス, ガーデンプレイス, ショッピング, アクセス, おなじみ, ラーメン, 買い物, エビスビール, コマーシャル, 乗り換え
+cluster4:(2)
+ライン, ホーム
+cluster5:(1)
+タスキ
+cluster6:(1)
+ガーデンプレス
+cluster7:(2)
+麺類, 人類
+cluster8:(14)
+恵比寿天, 正面, 時世, 恵比寿様, 音, 人, 距離, 秋, 印象, 時間, 像, 写真, こと, 親子
+cluster9:(2)
+山手線, 湘南新宿
+cluster10:(2)
+JR恵比寿駅, 駅ビル
+cluster11:(4)
+JR, 改札, 歩道, 電車
+cluster12:(5)
+恵比寿駅, 駅, 東口, 周辺, 新宿
+cluster13:(1)
+ホームドア
+cluster14:(1)
+広告看板
+cluster15:(3)
+魚貝スープ, デイ阿多, 火災予防運動
+
+howmany entities : 57
+howmany clusters : 16
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 16
+deleted 0entities.

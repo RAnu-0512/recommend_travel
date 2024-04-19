@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竜王山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+写真, 自然, コース, 竜王山
+cluster1:(2)
+絶景, 新緑
+cluster2:(3)
+運転手, 展望台, 対向車
+cluster3:(3)
+三原観光タクシー, 三原交通, 多島美
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

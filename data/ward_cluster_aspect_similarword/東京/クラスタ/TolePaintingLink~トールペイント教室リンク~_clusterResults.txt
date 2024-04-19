@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:TolePaintingLink~トールペイント教室リンク~>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作品, 絵
+cluster1:(3)
+教室, 生徒, 先生
+cluster2:(1)
+体験レッスン
+cluster3:(9)
+人, 材料, 方, 部屋, 自宅, 近く, トールペイント, 意外, 道具
+cluster4:(1)
+まぁまぁ自信
+cluster5:(1)
+図画工作
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

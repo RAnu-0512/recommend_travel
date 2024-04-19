@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六義園 出汐の湊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+正面, 対岸, 右手, 後ろ, 左手, 正門, 側
+cluster1:(3)
+光景, 景色, 眺め
+cluster2:(2)
+池, 池畔
+cluster3:(2)
+湊, 出汐
+cluster4:(10)
+六義園, 吹上浜, 場所, 蓬莱島, 島, ほとり, 海, 案内, 中, 中の島
+cluster5:(1)
+休憩所
+cluster6:(3)
+大海原, 藤代峠, 大泉水
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:サンシャインサザンセト--------------------
+top3 entities near to cluster0>>
+景色, 散策, 気分
+top3 entities near to cluster1>>
+敷地, 庭, 裏庭
+top3 entities near to cluster2>>
+部屋, 夏, ホテル
+top3 entities near to cluster3>>
+水泳, スイミング, 競泳
+top3 entities near to cluster4>>
+漫画, 本, マンガ
+top3 entities near to cluster5>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster6>>
+宿泊, 施設, ホテル
+top3 entities near to cluster7>>
+海浜, 浜, 公園

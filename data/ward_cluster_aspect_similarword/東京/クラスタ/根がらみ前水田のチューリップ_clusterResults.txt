@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:根がらみ前水田のチューリップ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 臨時駐車場
+cluster1:(2)
+駅, 徒歩
+cluster2:(3)
+駐車, 車, 敷地
+cluster3:(2)
+電車, コミュニティバス
+cluster4:(1)
+降車
+cluster5:(6)
+上流, 水門, 水田, 信号, 像, チューリップ畑
+cluster6:(3)
+白色, 黄色, 赤色
+cluster7:(15)
+自然, 人, 玉川上水, 多摩川, 気持ち, チューリップ, 色とりどり, 河川敷, 上, チューリップまつり, 今回, 方, 桜, 脇, スペース
+cluster8:(2)
+光景, 気分
+cluster9:(5)
+場所, 方法, 目的, 会場, 時間
+cluster10:(1)
+一方院
+cluster11:(1)
+チューリップ祭り期間
+cluster12:(5)
+川沿い, 奥多摩街道, 間坂, 玉川兄弟, 根がらみ前水田
+
+howmany entities : 48
+howmany clusters : 13
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 13
+deleted 0entities.

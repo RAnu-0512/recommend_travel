@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三永の石門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 東広島市
+cluster1:(2)
+散歩, てら子連れ
+cluster2:(2)
+国道, 水路
+cluster3:(5)
+石造り, 歴史, 名残り, 子ども, 地域
+cluster4:(3)
+気, 近所, 周り
+cluster5:(1)
+わき
+cluster6:(1)
+上部
+cluster7:(1)
+レンガ造り
+cluster8:(1)
+石門
+cluster9:(1)
+水門跡
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 10
+deleted 0entities.

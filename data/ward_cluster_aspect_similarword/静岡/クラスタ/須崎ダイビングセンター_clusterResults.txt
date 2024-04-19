@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須崎ダイビングセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+魚, 客, ゴミ, 海, 港
+cluster1:(16)
+所, 途中, 帰り, 地元, お迎え, 対応, シュノーケル, 人, 時間, 知り合い, 電話, 話, 挨拶, 他, 説明, 道
+cluster2:(1)
+承諾確認
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 1entities.

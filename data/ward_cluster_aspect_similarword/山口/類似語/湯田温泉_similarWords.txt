@@ -1,0 +1,51 @@
+--------------------similar_words:湯田温泉--------------------
+top3 entities near to cluster0>>
+白狐, 伝説, 白虎
+top3 entities near to cluster1>>
+飲, 泉, 温泉
+top3 entities near to cluster2>>
+泉質, 泉, 釧雲
+top3 entities near to cluster3>>
+湯, 風呂, 温泉
+top3 entities near to cluster4>>
+源泉, 自家, 置兼
+top3 entities near to cluster5>>
+温泉, 旅館, 足湯
+top3 entities near to cluster7>>
+タオル, マット, 手ぬぐい
+top3 entities near to cluster8>>
+おすすめ, たくさん, あちこち
+top3 entities near to cluster9>>
+ホテル, レストラン, 飲み物
+top3 entities near to cluster10>>
+子ども, 大学生, キツネ
+top3 entities near to cluster12>>
+飲み屋, 雰囲気, 居酒屋
+top3 entities near to cluster13>>
+露天風呂, 温泉, 素泊まり
+top3 entities near to cluster14>>
+風情, 雰囲気, 情緒
+top3 entities near to cluster16>>
+値段, 約束, 内容
+top3 entities near to cluster17>>
+利用, 案内, 対応
+top3 entities near to cluster18>>
+身体, 肌
+top3 entities near to cluster23>>
+友人, 夫婦, 友達
+top3 entities near to cluster24>>
+幕府, 武士, 武家
+top3 entities near to cluster25>>
+大勢, 人達
+top3 entities near to cluster27>>
+食事, 夕食, 宿泊
+top3 entities near to cluster28>>
+駅付近, 駅, 近辺
+top3 entities near to cluster29>>
+浴衣, 祭り, ゆかた
+top3 entities near to cluster30>>
+町, 丁目, 町中
+top3 entities near to cluster31>>
+繁華街, 商店街, 繁華, 商店
+top3 entities near to cluster32>>
+旅館, 宿, 民宿

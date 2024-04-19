@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グラスファクトリー 創吉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+切子体験, 江戸切子, 切子グラス
+cluster1:(9)
+妹, 電車, 誕生日, 家族, 息子, 両親, 父, 修学旅行生, 観劇
+cluster2:(3)
+教え方, プラン説明, 説明
+cluster3:(11)
+前, 目, 帰り, 店, 最後, 時間, 中, 途中, 場所, 念願, 日本
+cluster4:(6)
+こと, 感じ, つもり, 笑, 形, もの
+cluster5:(4)
+方, ほう, 方々, 先生
+cluster6:(1)
+機会
+cluster7:(2)
+ショップ, レビュー
+cluster8:(2)
+スタッフ, グループ
+cluster9:(2)
+イラスト, デザイン
+cluster10:(3)
+オリジナル, テーマパーク, プレゼント
+cluster11:(2)
+チャレンジ, アドバイス
+cluster12:(1)
+時間切れ
+cluster13:(1)
+サイズ
+cluster14:(1)
+プラス
+cluster15:(1)
+プラン
+cluster16:(3)
+小学生, 初心者, 長時間
+cluster17:(3)
+グラス, 付け根, エッジ
+cluster18:(9)
+左右, 作業, 安全, 追加, 想像, もち, 失敗, 完成, 練習
+cluster19:(15)
+不器, 草, ガラス製品, 藤, 色, 薔薇, 創吉, 高速バス, 右利き, 絵柄, 作品, 花, 柄, 透明グラス, 色ガラス
+cluster20:(8)
+体験者, ^ー^, 友達同士模様, 体験, 初体験, 距離感, 再挑戦, 体験時間
+
+howmany entities : 90
+howmany clusters : 21
+howmany entities (more than1entities) : 90
+howmany clusters (more than1entities) : 21
+deleted 0entities.

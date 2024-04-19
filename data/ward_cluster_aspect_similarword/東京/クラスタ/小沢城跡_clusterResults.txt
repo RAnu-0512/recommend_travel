@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小沢城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+遊歩道, 城跡, 城, 気持ち, 緑, 側, 自然, 境, 遺構, 丘陵
+cluster1:(2)
+小沢城, 小沢城跡
+cluster2:(2)
+川崎市, 稲城市
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛鷹シックスハンドレッドクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アクセス, コース
+cluster1:(1)
+気持ち
+cluster2:(1)
+駿河湾
+cluster3:(1)
+冬場
+cluster4:(1)
+天気
+cluster5:(1)
+南向き
+cluster6:(1)
+首都圏
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

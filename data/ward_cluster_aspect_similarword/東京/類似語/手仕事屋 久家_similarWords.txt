@@ -1,0 +1,21 @@
+--------------------similar_words:手仕事屋 久家--------------------
+top3 entities near to cluster0>>
+継ぎ, 金
+top3 entities near to cluster1>>
+陶器, 磁器, 食器
+top3 entities near to cluster2>>
+急須, 茶, 茶器
+top3 entities near to cluster3>>
+磁器, 陶器, 陶磁器
+top3 entities near to cluster4>>
+ひと時, 雰囲気, ひととき
+top3 entities near to cluster5>>
+メール, おかげ, お気に入り
+top3 entities near to cluster6>>
+ヤスリ, コップ, 陶磁器
+top3 entities near to cluster7>>
+自宅, 時間, 食事
+top3 entities near to cluster9>>
+パテ, エポパテ, エポキシパテ
+top3 entities near to cluster10>>
+つけ

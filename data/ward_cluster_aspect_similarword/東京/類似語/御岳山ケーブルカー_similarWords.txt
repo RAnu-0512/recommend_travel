@@ -1,0 +1,25 @@
+--------------------similar_words:御岳山ケーブルカー--------------------
+top3 entities near to cluster0>>
+御嶽, 御岳, 神社
+top3 entities near to cluster1>>
+山頂, 急坂, 中腹
+top3 entities near to cluster2>>
+同伴, 付き添い
+top3 entities near to cluster3>>
+愛犬, 健康
+top3 entities near to cluster4>>
+コロナ, スイカ, ペット
+top3 entities near to cluster5>>
+ケーブルカー, バス停, ふもと
+top3 entities near to cluster7>>
+乗り場, ケーブルカー, ロープウェー
+top3 entities near to cluster8>>
+人気, 専用, 大人気
+top3 entities near to cluster9>>
+夕方, 昼過ぎ, 午前
+top3 entities near to cluster10>>
+景色, 時刻, 窓
+top3 entities near to cluster12>>
+バス, 車内, 乗り継ぎ
+top3 entities near to cluster13>>
+駐車, 停車, 発着

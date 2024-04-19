@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福山市神辺歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+道のり, 駐車場, ところ, 方, バス停, 徒歩, 上, 資料館, 人, こじんまり, 山, 場所, 自然
+cluster1:(3)
+神辺城, 神辺町, 神辺駅
+cluster2:(2)
+広島県, 福山市
+cluster3:(1)
+備後国守護所
+cluster4:(1)
+神辺歴史民俗資料館
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

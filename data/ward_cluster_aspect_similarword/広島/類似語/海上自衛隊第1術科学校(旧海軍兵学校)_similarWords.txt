@@ -1,0 +1,93 @@
+--------------------similar_words:海上自衛隊第1術科学校(旧海軍兵学校)--------------------
+top3 entities near to cluster0>>
+自衛官, 自衛, 官等
+top3 entities near to cluster1>>
+自衛, 海上, 自衛隊
+top3 entities near to cluster2>>
+自衛権, 自衛, 集団
+top3 entities near to cluster3>>
+威容, 威厳, 偉容
+top3 entities near to cluster4>>
+関係者, 関係, 立場
+top3 entities near to cluster6>>
+興味, 価値, 機会
+top3 entities near to cluster7>>
+勉強, 解説, 予習
+top3 entities near to cluster8>>
+勧め, 参照, 薦め
+top3 entities near to cluster9>>
+直筆, 遺書, 自筆
+top3 entities near to cluster10>>
+空間, 部屋, 時間
+top3 entities near to cluster11>>
+施設, 敷地
+top3 entities near to cluster12>>
+空気, よめよ, 大気
+top3 entities near to cluster13>>
+服装, 制服, 私服
+top3 entities near to cluster14>>
+昼食, 食事, 夕食
+top3 entities near to cluster15>>
+展示, 資料, 収蔵
+top3 entities near to cluster16>>
+広報, 職員, 部署
+top3 entities near to cluster17>>
+予約, ホームページ
+top3 entities near to cluster18>>
+自衛隊, 特攻隊, 陸自
+top3 entities near to cluster19>>
+レストラン, 町並み, グッズ
+top3 entities near to cluster20>>
+湖船, 湖, バス
+top3 entities near to cluster21>>
+人達, 人々, 若者
+top3 entities near to cluster22>>
+悪, 饒舌, 最高
+top3 entities near to cluster23>>
+息子, 愚息, 父
+top3 entities near to cluster24>>
+横, 真横
+top3 entities near to cluster25>>
+写真, 撮っ, 風景
+top3 entities near to cluster26>>
+話目, 回目, 話, 回
+top3 entities near to cluster27>>
+涙, 嬉し涙, ふけよ
+top3 entities near to cluster28>>
+戦前, 現代, 当時
+top3 entities near to cluster30>>
+校舎, 講堂, 構内
+top3 entities near to cluster31>>
+海, 海岸, 海辺
+top3 entities near to cluster32>>
+戦争, 国家, 防衛
+top3 entities near to cluster33>>
+海軍, 戦艦, 陸軍
+top3 entities near to cluster34>>
+非, 日常, 現実
+top3 entities near to cluster35>>
+建築, 建物, 煉瓦
+top3 entities near to cluster36>>
+教育, 学校, 部隊
+top3 entities near to cluster37>>
+海舟, 幹部
+top3 entities near to cluster38>>
+ロケ地, 遊園地, 遊園, ロケ
+top3 entities near to cluster40>>
+路線, バス, 停留所
+top3 entities near to cluster42>>
+見学, 視察, 展示
+top3 entities near to cluster43>>
+緊張感, 重厚感, 緊張, 重厚
+top3 entities near to cluster44>>
+時間, 所要, 制限
+top3 entities near to cluster45>>
+資料, 館, 史料
+top3 entities near to cluster46>>
+館, 参考, 資料
+top3 entities near to cluster47>>
+館, 生徒, 学校
+top3 entities near to cluster48>>
+資料室, 史料室, 資料, 史料
+top3 entities near to cluster49>>
+学科

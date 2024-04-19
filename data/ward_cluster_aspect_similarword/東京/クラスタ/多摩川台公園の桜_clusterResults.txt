@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩川台公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+葉桜, 花見スポット, 花見
+cluster1:(4)
+春, 多摩川, 紫陽花, 桜
+cluster2:(2)
+緑, 森
+cluster3:(2)
+迫力, 景色
+cluster4:(5)
+東急多摩川線, 公園, 東急東横線, 多摩川台公園, 多摩川駅
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

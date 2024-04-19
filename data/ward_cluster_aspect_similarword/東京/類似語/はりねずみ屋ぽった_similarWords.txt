@@ -1,0 +1,29 @@
+--------------------similar_words:はりねずみ屋ぽった--------------------
+top3 entities near to cluster0>>
+衛生, 換気, 階段
+top3 entities near to cluster1>>
+あげ, はり, やり
+top3 entities near to cluster2>>
+子, ちゃん, 目の子
+top3 entities near to cluster3>>
+子供, 子ども, 親達
+top3 entities near to cluster4>>
+時間, 予約分, 予約
+top3 entities near to cluster5>>
+真下, 真横, 真上
+top3 entities near to cluster6>>
+店内, 席
+top3 entities near to cluster7>>
+カフェ, 喫茶店, 飲み物
+top3 entities near to cluster10>>
+写真, 撮っ, 画像
+top3 entities near to cluster11>>
+主人, 旦那, だんな
+top3 entities near to cluster12>>
+案内, 紹介, 道案内
+top3 entities near to cluster13>>
+印象, イメージ, 雰囲気
+top3 entities near to cluster14>>
+素手, 動物
+top3 entities near to cluster15>>
+埃, ほこり, ホコリ

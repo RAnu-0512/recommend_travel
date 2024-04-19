@@ -1,0 +1,21 @@
+--------------------similar_words:東京都夢の島熱帯植物館--------------------
+top3 entities near to cluster0>>
+熱帯, 植物, 樹木
+top3 entities near to cluster1>>
+展示, 映像, 展覧
+top3 entities near to cluster2>>
+カフェ, 入り口, レストラン
+top3 entities near to cluster3>>
+温室, 南国, ミニ
+top3 entities near to cluster4>>
+木水, 土水, 木, 土
+top3 entities near to cluster5>>
+花, 光, 植物
+top3 entities near to cluster6>>
+奥, 森, 出口
+top3 entities near to cluster7>>
+ドーム型, ドーム, 円型
+top3 entities near to cluster10>>
+館内, 施設, 駅
+top3 entities near to cluster12>>
+島, 公園, ヤシ

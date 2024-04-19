@@ -1,0 +1,15 @@
+--------------------similar_words:明治丸--------------------
+top3 entities near to cluster0>>
+海洋, 大学, 国立
+top3 entities near to cluster1>>
+明治, 大正, 幕末
+top3 entities near to cluster2>>
+海上, 陸地
+top3 entities near to cluster3>>
+土水, 土
+top3 entities near to cluster4>>
+景観, 天皇, 天皇陵
+top3 entities near to cluster6>>
+公園, 島, 緑地
+top3 entities near to cluster7>>
+修復, 工事, 修繕

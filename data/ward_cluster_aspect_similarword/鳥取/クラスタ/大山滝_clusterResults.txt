@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+大山, 山, 新緑, 中腹, 段, 遠望, 坂道, 景色, 階段
+cluster1:(4)
+勢い, アスレチック感, 迫力, 落差
+cluster2:(3)
+終点, 冒険, バス
+cluster3:(7)
+下, 感じ, 中, 姿, もの, 方, 場所
+cluster4:(2)
+クルマ, 気持ち
+cluster5:(6)
+コース, 遊歩道, 野井倉, ハイキング, スポット, 大山滝
+cluster6:(1)
+マイナスイオン
+cluster7:(3)
+水, 日本, 夏
+cluster8:(1)
+お勧め
+cluster9:(1)
+翡翠色
+cluster10:(1)
+辿り着く
+cluster11:(16)
+展望スペース, 琴浦町, 東伯郡, 滝, キャンプ場, 滝全体, 登山口, 滝百選, 展望台, 駐車場, 鳥取県, 日本百名山, 滝壺, 一向平キャンプ場, 滝観台, JR浦安駅
+
+howmany entities : 54
+howmany clusters : 12
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 12
+deleted 0entities.

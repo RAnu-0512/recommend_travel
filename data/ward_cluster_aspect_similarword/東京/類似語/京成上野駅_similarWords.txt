@@ -1,0 +1,17 @@
+--------------------similar_words:京成上野駅--------------------
+top3 entities near to cluster0>>
+京成, 駅, 京成上野
+top3 entities near to cluster2>>
+駅線, 地下鉄, 駅
+top3 entities near to cluster3>>
+工事, 販売, 窓口
+top3 entities near to cluster4>>
+距離区間, 距離, 全線
+top3 entities near to cluster5>>
+駅, 構内, 改札
+top3 entities near to cluster6>>
+特急, 電車, 列車
+top3 entities near to cluster7>>
+空港, タクシー, バスターミナル
+top3 entities near to cluster8>>
+乗車券, 乗車, 記念

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:彫金工房ANTHOLOGY>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+時間, 徒歩, 余裕, 工程
+cluster1:(8)
+主人, ところ, リング, anthology, バス, シルバーアクセ, 世話, 仕上げ
+cluster2:(1)
+三島
+cluster3:(1)
+スポーツ観戦
+cluster4:(1)
+彫金体験
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 3entities.

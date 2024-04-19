@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:紅葉谷公園_もみじ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+紅葉見, 紅葉谷公園, 紅葉
+cluster1:(13)
+陽, 足元, 頭上, 方, 宮島, 人, 森, オレンジ, モミジ, 赤, 紅葉谷, 時期, 黄色
+cluster2:(1)
+岩国城
+cluster3:(1)
+混雑覚悟
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

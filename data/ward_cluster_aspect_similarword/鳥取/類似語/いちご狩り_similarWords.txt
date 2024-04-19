@@ -1,0 +1,23 @@
+--------------------similar_words:いちご狩り--------------------
+top3 entities near to cluster0>>
+出身, 念願, 在住
+top3 entities near to cluster1>>
+いちご, イチゴ, 苺
+top3 entities near to cluster2>>
+オススメ, アイベリー, おすすめ
+top3 entities near to cluster3>>
+子供, 大人
+top3 entities near to cluster5>>
+技術, 最先端, 革新
+top3 entities near to cluster6>>
+家族連れ, 家族, つれ
+top3 entities near to cluster8>>
+国立, 大学, 州立
+top3 entities near to cluster9>>
+狩り, イチゴ, 栽培
+top3 entities near to cluster10>>
+苺, イチゴ, いちご
+top3 entities near to cluster11>>
+もぎたて, もぎ, 立て
+top3 entities near to cluster12>>
+有機, 肥料, 農薬

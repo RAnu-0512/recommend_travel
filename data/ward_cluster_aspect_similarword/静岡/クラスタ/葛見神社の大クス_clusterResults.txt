@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛見神社の大クス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊東, 大楠
+cluster1:(10)
+歴史, 模様, 天然記念物, 人々, 境内, 東林寺, 声, 迫力, 国, ところ
+cluster2:(3)
+皮, 木, 樹
+cluster3:(1)
+クス
+cluster4:(1)
+葛見神社
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 4entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:品川寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青物横丁駅, 京急青物横丁駅
+cluster1:(2)
+子供達, 子供
+cluster2:(5)
+絵, 顔, 彫刻, 雑貨, 色
+cluster3:(11)
+見どころ, カフェ, 東海道, 御朱印, 佇まい, 読み方, 毘沙門天, イチョウ, 管理, 色合い, 受付
+cluster4:(15)
+場所, 会話, 近く, 感じ, 木, 事, 人々, 時期, 周り, 前, 徒歩, 方, 歴史, 目, 時代
+cluster5:(4)
+紅葉, 銀杏, 大イチョウ, 桜
+cluster6:(4)
+馬, 銅, 門, 鐘
+cluster7:(2)
+七福神巡り, ほんせんじ
+cluster8:(23)
+地蔵菩薩, 開山, 住職, 大きなお地蔵, 地蔵, 平安, 本堂, 大仏, 東海七, 品川, 寺院, 東海七福神, 仏像, 寺, 江戸六地蔵, 江戸, 伽藍, 本尊, 品川宿, 創建年代, 品川寺, 境内, 大仏様
+cluster9:(1)
+醍醐派別格本山
+
+howmany entities : 69
+howmany clusters : 10
+howmany entities (more than1entities) : 69
+howmany clusters (more than1entities) : 10
+deleted 0entities.

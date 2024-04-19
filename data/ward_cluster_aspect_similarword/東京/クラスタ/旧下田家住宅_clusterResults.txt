@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧下田家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+市, 家
+cluster1:(6)
+中, こと, 雰囲気, 場所, 近く, 別
+cluster2:(1)
+匂い
+cluster3:(1)
+住宅
+cluster4:(1)
+古民家
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

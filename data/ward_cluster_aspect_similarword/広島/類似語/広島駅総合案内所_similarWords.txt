@@ -1,0 +1,21 @@
+--------------------similar_words:広島駅総合案内所--------------------
+top3 entities near to cluster0>>
+南口, 改札, 北口
+top3 entities near to cluster1>>
+基調, 赤, 黄色
+top3 entities near to cluster2>>
+大型, 新人, 地下
+top3 entities near to cluster3>>
+土産, 席, 優勝
+top3 entities near to cluster5>>
+ベテラン, スタッフ, 若手
+top3 entities near to cluster6>>
+デザイン, カウンター, パンフレット
+top3 entities near to cluster8>>
+売り切れ, 売りきれ, 完売
+top3 entities near to cluster9>>
+売り場, 本拠地, 売場
+top3 entities near to cluster11>>
+はっさく, 塩豆, いちご
+top3 entities near to cluster12>>
+情報, 案内, 資料

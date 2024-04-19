@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:エデンの海パーキングエリア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島県, 竹原市, 竹原港
+cluster1:(3)
+景色, 風景, 島々
+cluster2:(2)
+気, 名前
+cluster3:(6)
+トイレ, ランチ, スポット, 瀬戸内海, コンビニ, 映画
+cluster4:(1)
+休憩
+cluster5:(1)
+石碑
+cluster6:(1)
+国道
+cluster7:(4)
+沿岸部, 展望場, エデンの海, 海
+cluster8:(1)
+トイレ付展望場です.185号線
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

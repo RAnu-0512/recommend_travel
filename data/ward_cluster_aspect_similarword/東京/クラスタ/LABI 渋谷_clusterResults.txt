@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:LABI 渋谷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+売り場, 週末
+cluster1:(1)
+駅
+cluster2:(1)
+渋谷
+cluster3:(1)
+電気店
+cluster4:(1)
+B1F
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

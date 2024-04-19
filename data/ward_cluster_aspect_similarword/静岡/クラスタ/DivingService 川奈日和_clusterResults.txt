@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:DivingService 川奈日和>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+対応, 説明, 方達, 指導, 方
+cluster1:(25)
+ストレス, 魚, スタッフ, 人生, 大学生, 家族, ダイビング, 兄さん, 海水浴, 思い出, ダイバー, ウミガメ, 写真, 娘, 気持ち, 時間, ウエットスーツ, 近く, 子供, 場所, 夏休み, 前, 小学生, インストラクター, シュノーケリング
+cluster2:(4)
+予約時間, ダイビング体験, スノーケリング体験, 体験
+cluster3:(6)
+浮き輪, いざ海, 海亀, イルカ浜, 海, 笑 海
+
+howmany entities : 40
+howmany clusters : 4
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 4
+deleted 0entities.

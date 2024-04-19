@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八王子観光コンベンション協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高尾山口駅, 改札口横
+cluster1:(5)
+観光, 観光案内所, 観光協会, コンベンション協会, 観光スポット
+cluster2:(6)
+場所, 楽しみ方, 事, 施設, 情報, 印象
+cluster3:(2)
+登山, 下山
+cluster4:(14)
+八王子インフォメーションセンター, 別, 高尾山, イベント, ケーブルカー, 人, 露天風呂, エレベーター, 自力, 八王子, 桜並木, パンフレット, ハイキング, 京王線
+cluster5:(3)
+電車, 八王子祭り, 温泉
+cluster6:(2)
+ビル, TCビル
+cluster7:(3)
+八王子駅, 駅, 北口
+cluster8:(1)
+極楽湯
+cluster9:(1)
+八王子市観光協会観光協会
+
+howmany entities : 39
+howmany clusters : 10
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 10
+deleted 0entities.

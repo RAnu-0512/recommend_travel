@@ -1,0 +1,13 @@
+--------------------similar_words:JR水道橋駅--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 各駅
+top3 entities near to cluster1>>
+巨人, 巨人軍, 球団
+top3 entities near to cluster2>>
+野球, サッカー, 選手
+top3 entities near to cluster3>>
+子供, 子ども
+top3 entities near to cluster4>>
+対面式, 対面, 多
+top3 entities near to cluster5>>
+駅, 駅前, 構内

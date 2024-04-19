@@ -1,0 +1,9 @@
+--------------------similar_words:三朝神社--------------------
+top3 entities near to cluster1>>
+神社, 温泉, 境内
+top3 entities near to cluster2>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster3>>
+歴史, 一帯, 境内
+top3 entities near to cluster5>>
+手水, 手水舎, ちょうずる

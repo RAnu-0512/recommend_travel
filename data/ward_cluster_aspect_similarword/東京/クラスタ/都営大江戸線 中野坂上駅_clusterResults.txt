@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営大江戸線 中野坂上駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, 駅周辺
+cluster1:(2)
+地上, 地下
+cluster2:(5)
+エスカレーター, 場所, 地下鉄, 乗り換え, ホーム
+cluster3:(1)
+東京メトロ丸ノ内線
+cluster4:(1)
+利便性
+cluster5:(1)
+中野坂上駅
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

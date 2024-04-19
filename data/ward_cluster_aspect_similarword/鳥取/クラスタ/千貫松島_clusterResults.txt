@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千貫松島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩つき, 岩
+cluster1:(2)
+松島, 松
+cluster2:(5)
+旧港, 庭, 海, 波, 島
+cluster3:(13)
+条件, 浦富海岸, 車, 中, 殿様, 絶景, スペース, 上, 形, 距離, 方, 景色, 趣
+cluster4:(1)
+展望所
+cluster5:(7)
+千貫松島, 海岸線, 網代港, 浦富海岸自然探勝路, 景勝地, 遊覧船, 海食洞門
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 6
+deleted 0entities.

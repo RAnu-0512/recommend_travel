@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ガイド, 同行, 道, ところ, 場所
+cluster1:(2)
+足場, 地形
+cluster2:(1)
+石門
+cluster3:(1)
+子供連れ
+cluster4:(1)
+東京都自然ガイド
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

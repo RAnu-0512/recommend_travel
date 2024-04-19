@@ -1,0 +1,15 @@
+--------------------similar_words:葛城山(静岡県伊豆の国市)--------------------
+top3 entities near to cluster0>>
+駅, 公園, 山頂
+top3 entities near to cluster1>>
+山頂, 山, 頂上
+top3 entities near to cluster2>>
+家族, 子供, 妻
+top3 entities near to cluster3>>
+カップル, 景色, 絶景
+top3 entities near to cluster7>>
+景色, 風景, 景観
+top3 entities near to cluster9>>
+温泉, 旅館, 宿
+top3 entities near to cluster10>>
+茶店, 喫茶, 茶

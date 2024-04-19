@@ -1,0 +1,35 @@
+--------------------similar_words:地下鉄博物館--------------------
+top3 entities near to cluster0>>
+入館券, 入館, 入場券, 入場
+top3 entities near to cluster1>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster2>>
+難い, 楽しい, コツ
+top3 entities near to cluster3>>
+挙動, 動き, デモ
+top3 entities near to cluster4>>
+構造, 仕組み, 形状
+top3 entities near to cluster5>>
+歴史, 伝統, 我が国
+top3 entities near to cluster7>>
+知識, 技術, 興味
+top3 entities near to cluster8>>
+不問, 付す, 問う
+top3 entities near to cluster9>>
+子ども, 小学生, アトラクション
+top3 entities near to cluster10>>
+子供, 息子, 子ども
+top3 entities near to cluster11>>
+地下鉄, 駅, 電車
+top3 entities near to cluster12>>
+施設, 体験, 見学
+top3 entities near to cluster13>>
+運転, 同乗, 操縦
+top3 entities near to cluster14>>
+展示, 展覧
+top3 entities near to cluster15>>
+実物, 現物, 大
+top3 entities near to cluster16>>
+展示, 実物, 実演
+top3 entities near to cluster17>>
+鉄道, 車両, 線路

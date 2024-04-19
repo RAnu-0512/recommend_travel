@@ -1,0 +1,52 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宮島サービスエリア(下り線)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+鳥居, 赤い鳥居, 餡子, メープルもみじ饅頭, キジトラ猫, 廿日市SA, もみじ饅頭, 宮島SA, 厳島神社, 鳥居越し, SA, 宮島, ゴマ粒大, 熊野筆やまち, 宮島サービスエリア
+cluster1:(5)
+気, 方, 場所, 特徴, こと
+cluster2:(3)
+上, 中, 外
+cluster3:(3)
+広島, カープグッズ, カープ
+cluster4:(2)
+トイレ, スタバ
+cluster5:(2)
+サービス, レストラン
+cluster6:(3)
+カープファン, ユニフォーム, スヌーピー
+cluster7:(1)
+コーヒー
+cluster8:(1)
+スペース
+cluster9:(1)
+ドライブ
+cluster10:(1)
+気持ち
+cluster11:(1)
+手入れ
+cluster12:(1)
+売り場
+cluster13:(1)
+望遠鏡
+cluster14:(3)
+人, エリア, サービスエリア
+cluster15:(1)
+スターバックス
+cluster16:(2)
+長距離移動, 売り
+cluster17:(2)
+チン, 冷凍
+cluster18:(1)
+肉眼
+cluster19:(1)
+中車
+cluster20:(25)
+御愛嬌, 海, 食事, 一角, 石畳, 名物, 物産コーナー, 広場, 景色, 土産選び, 休憩, フードコート, 敷地, 休息, 建物, 紅葉まんじゅう, 土産, 散歩, 海側, 笑)スタバ, 景観, 公園, 連休, おみやげ物, 売店
+cluster21:(11)
+展望台, 芝生広場, 散策路, 駐車場, 山陽道, 交通安全, 運転手, 芝生, 展望所, 駐車スペース, 運転疲れ
+
+howmany entities : 86
+howmany clusters : 22
+howmany entities (more than1entities) : 86
+howmany clusters (more than1entities) : 22
+deleted 0entities.

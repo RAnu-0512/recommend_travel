@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松島神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水天宮, 東京メトロ半蔵門線水天宮前駅
+cluster1:(6)
+都会, 新大橋, 日本橋, 松, 日本橋七福神, ビル
+cluster2:(4)
+意味, 場所, 感じ, もの
+cluster3:(2)
+多く, 中
+cluster4:(5)
+パワースポット, ひとつ, アクセス, 御朱印, インターホン
+cluster5:(1)
+夢
+cluster6:(1)
+感
+cluster7:(1)
+穢れ
+cluster8:(15)
+神社, 神主, 日本橋人形町, 社務所, 鳥居, 松島神社, 七福神巡り, 大国神, 祭神, 大鳥神社, 信仰心, 神, 中央区, 社, 社号
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 9
+deleted 0entities.

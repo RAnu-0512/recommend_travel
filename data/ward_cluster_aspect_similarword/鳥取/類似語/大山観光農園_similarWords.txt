@@ -1,0 +1,11 @@
+--------------------similar_words:大山観光農園--------------------
+top3 entities near to cluster0>>
+農園, 農場, 果樹
+top3 entities near to cluster1>>
+梨, 沙ゆり, 旺走
+top3 entities near to cluster3>>
+時期, 頃, その後
+top3 entities near to cluster4>>
+土産, おみやげ, 土産物
+top3 entities near to cluster5>>
+入園料, 入場料, 入園, 入場

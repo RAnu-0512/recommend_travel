@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆畑毛温泉 大仙家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+陶芸室, 陶芸, 海鮮丼, 体験, 陶芸体験, 手回しろくろ
+cluster1:(8)
+焼き上がり, 温泉, ぬる湯, お湯, 露天, 風呂, 湯, 温度
+cluster2:(12)
+途中, こと, 母, 方, 指示, 形, 印象, 先生, 他, 象徴, 説明, 幸運
+cluster3:(15)
+カエル, フロント, 客, ランチ, ホテル, 外, 茶碗蒸し, コース, 席, 日帰りプラン, サワガニ, 庭, サンダル, 子ども, プラン
+cluster4:(2)
+黒トンボ, 畦道
+cluster5:(1)
+大仙家
+
+howmany entities : 44
+howmany clusters : 6
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 4
+deleted 3entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着物&浴衣レンタル 浅草和装>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+接客, レンタル店, 玩具
+cluster1:(2)
+雨, 天気
+cluster2:(7)
+工夫, 話, 事, 数, 機会, 方, 中
+cluster3:(3)
+柄, 価格, 帯
+cluster4:(17)
+スタッフ, プロ, こっち, 気持ち, ところ, コスパ, 着付け, おかげ, 思い出, ロケーション写真, カメラマン, 着付けスペース, 色合い, 写真, 待ち合いスペース, スペース, プラン
+cluster5:(3)
+流れ作業, 子さん, 同行者
+cluster6:(8)
+大人着物, 髪飾り, 着物選び, 浅草, 草履, 被布着物, ヘアセット, 着物
+
+howmany entities : 43
+howmany clusters : 7
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 7
+deleted 0entities.

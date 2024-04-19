@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小山台遺跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山, 気持ち
+cluster1:(1)
+駅
+cluster2:(1)
+斜面
+cluster3:(1)
+散歩
+cluster4:(1)
+注意
+cluster5:(1)
+住宅街
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

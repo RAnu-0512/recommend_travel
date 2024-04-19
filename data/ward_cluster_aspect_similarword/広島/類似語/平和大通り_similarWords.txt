@@ -1,0 +1,39 @@
+--------------------similar_words:平和大通り--------------------
+top3 entities near to cluster0>>
+平和, 大通り, 平穏
+top3 entities near to cluster1>>
+平和, 記念, 公園
+top3 entities near to cluster3>>
+公園, 訪れ, 平和
+top3 entities near to cluster4>>
+ホテル, イベント, 繁華
+top3 entities near to cluster5>>
+散策, 散歩, 歩く
+top3 entities near to cluster6>>
+期間, ゴールデンウィーク, ＧＷ
+top3 entities near to cluster7>>
+時間, 日数, 時
+top3 entities near to cluster9>>
+移動, 行き来, 移る
+top3 entities near to cluster12>>
+別名, 木, 土
+top3 entities near to cluster14>>
+木々, 空間
+top3 entities near to cluster15>>
+猛暑, 日陰, 暑い
+top3 entities near to cluster16>>
+季節, 時期, 冬
+top3 entities near to cluster17>>
+夜, 昼間, 昼
+top3 entities near to cluster19>>
+道路, 歩道, 幹線
+top3 entities near to cluster20>>
+中央部, 中心部, 中心, 中央
+top3 entities near to cluster21>>
+繁華街, 繁華, 歓楽街
+top3 entities near to cluster22>>
+街路樹, 街路, 飾
+top3 entities near to cluster25>>
+記念碑, 公園, 記念
+top3 entities near to cluster26>>
+原爆, 復興, 被爆

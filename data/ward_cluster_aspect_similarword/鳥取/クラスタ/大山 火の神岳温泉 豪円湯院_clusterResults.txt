@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山 火の神岳温泉 豪円湯院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+期待値, 開放感
+cluster1:(2)
+星, 星4
+cluster2:(8)
+露天風呂, 場所, 値打ち, バリエーション, 内風呂, メニュー, 周囲, 雰囲気
+cluster3:(2)
+設備, 館内
+cluster4:(2)
+火, 斜め
+cluster5:(5)
+大山, 登山, 参道, 大山寺, 標高
+cluster6:(3)
+食事処, 泉質, 鳥取県
+cluster7:(12)
+貸切, 神岳温泉足湯, 足湯, 岩風呂, 内湯, 風呂, 観光客, 日帰り温泉施設, 温泉, 豪円湯院, 湯, 日帰り温泉
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 8
+deleted 0entities.

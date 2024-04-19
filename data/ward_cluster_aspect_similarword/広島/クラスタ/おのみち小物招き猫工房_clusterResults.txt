@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おのみち小物招き猫工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島, 尾道
+cluster1:(3)
+猫, 猫作り, 猫ちゃん
+cluster2:(5)
+庭, 空間, 時間, 景色, 場所
+cluster3:(2)
+色, 背景
+cluster4:(3)
+写真, 絵, 作品
+cluster5:(8)
+久しぶり, 姉たち, 記念, 居心地, 招き猫, オーナー, 思い出, 和気あいあい
+cluster6:(2)
+水道, 郷
+cluster7:(9)
+他母, 先生, 友人, 社会人, 姉, 娘, 家族, 親戚, 彼氏
+cluster8:(7)
+到着, 完成, 帰り, 工房, 作業, 作成, 作成時間
+cluster9:(2)
+方, 今回
+cluster10:(4)
+感じ, 事, 仕方, こと
+cluster11:(1)
+模様
+cluster12:(1)
+説明
+cluster13:(1)
+何か
+cluster14:(1)
+ゆっくり心地
+cluster15:(1)
+童心
+cluster16:(9)
+絵付け, 初体験, 体験, 結婚記念日, 現地集合, 写真撮影, 絵付, 絵付け体験, 道路渋滞
+
+howmany entities : 61
+howmany clusters : 17
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 17
+deleted 0entities.

@@ -1,0 +1,125 @@
+--------------------similar_words:京王百貨店新宿店--------------------
+top3 entities near to cluster0>>
+パネル, スーツ, タッチ
+top3 entities near to cluster1>>
+スウィーツコレクション, バッグ, ウェスタンショップ
+top3 entities near to cluster2>>
+イメージ, ブランド, デザイン
+top3 entities near to cluster3>>
+サービス, スタッフ, ポイント
+top3 entities near to cluster4>>
+イベント, スケジュール, アップダウン
+top3 entities near to cluster7>>
+スキル, レベル, スピード
+top3 entities near to cluster8>>
+テレビ, ネット, ファン
+top3 entities near to cluster9>>
+品ぞろえ, 売り場, 売り出し
+top3 entities near to cluster10>>
+ショップ, デパート, レストラン
+top3 entities near to cluster11>>
+スイーツ, ランチ, デザート
+top3 entities near to cluster12>>
+利用, 重宝, 薦め
+top3 entities near to cluster13>>
+値段, 品質, 品物
+top3 entities near to cluster15>>
+約束, 目的, 口実
+top3 entities near to cluster17>>
+利点, 価値, 印象
+top3 entities near to cluster18>>
+満足感, 満足, 喜び
+top3 entities near to cluster20>>
+物産展, 物産, ナンセイ
+top3 entities near to cluster21>>
+駅弁, 名物, 丸政
+top3 entities near to cluster22>>
+駅弁, 大会, 名物
+top3 entities near to cluster23>>
+大会, 全国, 各地
+top3 entities near to cluster24>>
+年配層, 年配, 年輩
+top3 entities near to cluster25>>
+限定, 期間, 数量
+top3 entities near to cluster26>>
+大展, 大, 催場
+top3 entities near to cluster27>>
+2, 1, 3
+top3 entities near to cluster28>>
+土産, 出掛け
+top3 entities near to cluster29>>
+老舗, 有名, 最大手
+top3 entities near to cluster30>>
+飲食店, 店舗, 飲食
+top3 entities near to cluster31>>
+雑貨, 洋服, 小物
+top3 entities near to cluster32>>
+繁華街, 商店街, 繁華, 商店
+top3 entities near to cluster33>>
+ビル, 建物, 社屋
+top3 entities near to cluster34>>
+店内, 店舗
+top3 entities near to cluster35>>
+立地, ロケーション, ローケーション
+top3 entities near to cluster36>>
+料理店, 人達, 料理
+top3 entities near to cluster37>>
+催し, 開催
+top3 entities near to cluster38>>
+セール, 閉店, 開店
+top3 entities near to cluster39>>
+催事, 催物, 催し物
+top3 entities near to cluster40>>
+出店, 出展, 初
+top3 entities near to cluster41>>
+接客, 実演, 販売
+top3 entities near to cluster42>>
+電鉄, 鉄道, 私鉄
+top3 entities near to cluster43>>
+駅, 駅前, 徒歩
+top3 entities near to cluster44>>
+地下, 地階, 通路
+top3 entities near to cluster45>>
+草木
+top3 entities near to cluster46>>
+商店, 富澤, 冨澤
+top3 entities near to cluster47>>
+当地, グルメ, 名物
+top3 entities near to cluster48>>
+チーズ, ケーキ, クリームチーズ
+top3 entities near to cluster49>>
+ラスク, チョコ, チョコレート
+top3 entities near to cluster50>>
+パイ, チョコ, ラズベリー
+top3 entities near to cluster51>>
+バン, ラブ, ジル
+top3 entities near to cluster52>>
+ロク, マイ, 豚
+top3 entities near to cluster54>>
+品等, 揃え
+top3 entities near to cluster55>>
+食料品, 食料, 品等
+top3 entities near to cluster56>>
+化粧品, 化粧, 品等
+top3 entities near to cluster57>>
+雑貨, 洋服
+top3 entities near to cluster58>>
+地下, 食品, デパート
+top3 entities near to cluster59>>
+小物類, 食品, 小物
+top3 entities near to cluster60>>
+食品, 食材, 飲料
+top3 entities near to cluster61>>
+海鮮, 丼, 弁当
+top3 entities near to cluster62>>
+惣菜, 総菜, 弁当
+top3 entities near to cluster63>>
+パン屋, 菓子屋, パン, 菓子
+top3 entities near to cluster64>>
+東口, 駅前, 南口
+top3 entities near to cluster66>>
+東口, 南口, 北口
+top3 entities near to cluster67>>
+京王, モールアネックス, 小田急
+top3 entities near to cluster68>>
+西武, 京王, 東急

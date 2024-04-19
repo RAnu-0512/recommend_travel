@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天祖神社(東京都豊島区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天祖神社, 刺抜き地蔵
+cluster1:(5)
+巣鴨村, 都電沿い, 都電, 大塚駅, 大塚
+cluster2:(25)
+夫婦円満, 神社, 別, 何か, 人, 御朱印, 鳥居, 会話, 大御神, 伊勢神宮, キッカケ, 事, うん, 鎌倉, 銀杏, 御祭神, 夫婦銀杏, サイト, 神, 雰囲気, 境内, 鎮守, 時代, 妻, 辺り
+
+howmany entities : 32
+howmany clusters : 3
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 3
+deleted 0entities.

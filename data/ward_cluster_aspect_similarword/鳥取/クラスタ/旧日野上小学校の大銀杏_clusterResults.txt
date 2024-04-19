@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧日野上小学校の大銀杏>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+銀杏, 大銀杏
+cluster1:(9)
+日野上小学校, 川下, イチョウ, 木, 昔小学校, 真ん中, 場所, 校庭, ライハ
+cluster2:(1)
+日野郡
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

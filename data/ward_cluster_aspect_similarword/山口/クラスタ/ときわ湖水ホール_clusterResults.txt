@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ときわ湖水ホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+カルチャーホール, 収容, 無言, マンホールカード, 男性, イベントホール
+cluster1:(3)
+ときわ公園, ときわ湖水ホール, ときわ湖畔
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

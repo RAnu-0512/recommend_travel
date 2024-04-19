@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スカイファイト静岡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ドローン体験, ドローン操縦
+cluster1:(14)
+店員, スタッフ, 種類, 卓球, 時間, 進行感覚, ドローン, 旋回, 金額, 小型, 教え方, コース, 体験時間, 操作
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 1
+deleted 2entities.

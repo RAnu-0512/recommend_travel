@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井の頭自然文化園の山野草園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+井の頭公園, ボランティア
+cluster1:(2)
+方, こと
+cluster2:(1)
+場所
+cluster3:(1)
+手
+cluster4:(1)
+散策
+cluster5:(1)
+花々
+cluster6:(1)
+動物園
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

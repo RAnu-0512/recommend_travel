@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆クルーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+黒船風, 下田, 伊豆旅行, 黒船, 伊豆, 下田港
+cluster1:(27)
+子供連れ, スタッフ, 船, 妻, クルーズ, 餌, 操舵室, 揺れ, 海風, 思い出, 人, エサ, 体験, 気持ち, 船旅, カモメ, 景色, アナウンス, サス, 海, 餌やり, 子供, 場所, 小学生, 方, エンジン, 潮風
+
+howmany entities : 33
+howmany clusters : 2
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:八卦堂跡(小石川後楽園)--------------------
+top3 entities near to cluster1>>
+階段, 建物, 通路
+top3 entities near to cluster2>>
+礎石, 基壇, 遺構
+top3 entities near to cluster3>>
+坂池, 坂, 紅葉
+top3 entities near to cluster4>>
+銅像
+top3 entities near to cluster5>>
+案内板, 案内, 倒連
+top3 entities near to cluster6>>
+昌, 文, 泰
+top3 entities near to cluster7>>
+光圀, 家康, 斉昭

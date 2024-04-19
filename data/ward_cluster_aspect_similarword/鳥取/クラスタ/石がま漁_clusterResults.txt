@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石がま漁>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+ま漁, 石がま漁, 漁, 漁法, 寒ブナ漁, 無形民俗文化財, 伝統漁法
+cluster1:(30)
+江戸時代, 厳冬期, 鮒, 鳥取市, 習性, 観光, 伝統, 池周辺, 日本, 棒, 隙間, 湖山池, 青島公園, 小島, こと, 湖底, 歴史, 山陰海岸ジオパーク, 興味, 池, コイ, 冬, 青島, 見応え, 八重桜, 鳥取県, もの, 魚, 石, 鯉
+
+howmany entities : 37
+howmany clusters : 2
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 2
+deleted 0entities.

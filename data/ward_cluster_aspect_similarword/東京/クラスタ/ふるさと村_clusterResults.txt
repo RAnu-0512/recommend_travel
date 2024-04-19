@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふるさと村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高床式倉庫, 高床式
+cluster1:(6)
+玉石垣, 大里, 馬屋, 大里地区, 陣屋跡, 明日葉茶
+cluster2:(2)
+古さ, 昔らしさ
+cluster3:(19)
+長居, 昔, 家, ところ, 話, 感じ, 八丈島, 思い出, ストレチア, 丈夫, フリージア, 時間, ロベレニー, ガイド, こと, 中, フェニックス, 地元, もの
+cluster4:(2)
+地震, 台風
+cluster5:(5)
+民家, 建物, 建築, 施設, 敷地
+cluster6:(12)
+観光, 島, 祭り, 村, 生活, 沖縄, 茶, ふるさと村, 文化, 南方文化, 歴史, 子供達
+
+howmany entities : 48
+howmany clusters : 7
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 7
+deleted 0entities.

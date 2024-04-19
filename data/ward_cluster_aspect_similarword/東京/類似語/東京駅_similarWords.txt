@@ -1,0 +1,193 @@
+--------------------similar_words:東京駅--------------------
+top3 entities near to cluster0>>
+ビジネスマン, カメラマン, インバウンド
+top3 entities near to cluster1>>
+エレベーター, エスカレーター, エレベータ
+top3 entities near to cluster2>>
+バージョン, キャラクター, ストラップバージョン
+top3 entities near to cluster3>>
+ブラックサンダー, バレンタイン, ソフトクリーム
+top3 entities near to cluster4>>
+ジブリショップ, ショッピングビル, ラスカルショップ
+top3 entities near to cluster5>>
+リラクゼーション, レイクリゾート, デイスパ
+top3 entities near to cluster6>>
+コラボショップ, コラボショッパー, コラボショット
+top3 entities near to cluster7>>
+イルミネーション, テーマパーク, レストラン
+top3 entities near to cluster8>>
+バラエティ, バラエティー, バライティー
+top3 entities near to cluster9>>
+帝国ホテル, 東京タワー, ディズニー
+top3 entities near to cluster10>>
+フォルム, デザイン, オブジェ
+top3 entities near to cluster11>>
+シャワー, スペース, オフィス
+top3 entities near to cluster12>>
+パノラマ, スロープ, 手すり
+top3 entities near to cluster13>>
+フラスコ, 試験管, ビーカー
+top3 entities near to cluster16>>
+趣き, 雰囲気, 風情
+top3 entities near to cluster17>>
+オススメ, おすすめ, お薦め
+top3 entities near to cluster18>>
+おみやげ, Tシャツ, 土産
+top3 entities near to cluster19>>
+メニュー, スタッフ, イベント
+top3 entities near to cluster20>>
+つくり, つくる
+top3 entities near to cluster21>>
+気持ち, 雰囲気, 思い出
+top3 entities near to cluster23>>
+ストリート, ラーメン, アート
+top3 entities near to cluster24>>
+ケーキ, スィーツ, スイーツ
+top3 entities near to cluster25>>
+ランチ, ディナー, パスタ
+top3 entities near to cluster26>>
+和菓子, 手土産, ラスク
+top3 entities near to cluster27>>
+コーヒー, スタバ, カフェラテ
+top3 entities near to cluster28>>
+アーチ, ライト, デッキ
+top3 entities near to cluster29>>
+デパート, ホテル, 土産物
+top3 entities near to cluster32>>
+異国, 都会, 遠方
+top3 entities near to cluster35>>
+菓子, 和菓子, お菓子
+top3 entities near to cluster36>>
+カツ, バル, サンド
+top3 entities near to cluster37>>
+シティ, フォト, ウェディング
+top3 entities near to cluster38>>
+グミ, バナナ, チョコ
+top3 entities near to cluster40>>
+ワラ, デルーカ, ディーン
+top3 entities near to cluster41>>
+繁華街, 広場, 繁華
+top3 entities near to cluster42>>
+景色, 絶景, 夜景
+top3 entities near to cluster43>>
+新幹線, 電車, 列車
+top3 entities near to cluster44>>
+店員, 本屋, 駅員
+top3 entities near to cluster45>>
+料理, 旅, 仕事
+top3 entities near to cluster46>>
+建物, 店舗, 外観
+top3 entities near to cluster47>>
+通路, 連絡, 出入り口
+top3 entities near to cluster48>>
+地下, 地上, 地表
+top3 entities near to cluster49>>
+外側, 内側, 入り口
+top3 entities near to cluster51>>
+夜, 昼, お昼
+top3 entities near to cluster52>>
+人達, 大勢
+top3 entities near to cluster54>>
+空き, 余裕, ごみ
+top3 entities near to cluster55>>
+態度, 姿, 距離
+top3 entities near to cluster56>>
+様式, 要領
+top3 entities near to cluster58>>
+思う気, よう, 思う
+top3 entities near to cluster60>>
+必須, 必要, 不可欠
+top3 entities near to cluster61>>
+つく, 見え, 付く
+top3 entities near to cluster62>>
+感動, 感激, 感銘
+top3 entities near to cluster63>>
+人気, 憧れ, 象徴
+top3 entities near to cluster64>>
+価値, 機会, 重み
+top3 entities near to cluster66>>
+時間, 何分
+top3 entities near to cluster67>>
+記念, 写真, 撮影
+top3 entities near to cluster68>>
+写真, 撮っ, 画像
+top3 entities near to cluster69>>
+撮影, 撮る, 撮っ
+top3 entities near to cluster70>>
+撮り, 写真, 撮っ
+top3 entities near to cluster71>>
+土産品, 品等, 土産
+top3 entities near to cluster72>>
+限定, 期間, 数量
+top3 entities near to cluster73>>
+案内, 掲示, 表示
+top3 entities near to cluster74>>
+出発, 到着, 出張
+top3 entities near to cluster75>>
+対応, 応対, 迅速
+top3 entities near to cluster76>>
+利用, 使用, 移動
+top3 entities near to cluster78>>
+融合, 共存, 昇華
+top3 entities near to cluster79>>
+改装, 整備, 開業
+top3 entities near to cluster80>>
+迷子, 迷い子, はぐれ
+top3 entities near to cluster81>>
+混み, 混雑, 混む
+top3 entities near to cluster82>>
+行列, 列, と列
+top3 entities near to cluster83>>
+信号待ち, 信号, 待つ
+top3 entities near to cluster85>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster86>>
+土産屋, 土産物屋, 土産, 土産物
+top3 entities near to cluster87>>
+丼, 海鮮, どんぶり
+top3 entities near to cluster88>>
+駅弁, 名物, 売店
+top3 entities near to cluster89>>
+駅弁屋, 駅弁, 屋台
+top3 entities near to cluster92>>
+工事, 改修, 修繕
+top3 entities near to cluster93>>
+建築, 建物, 土木
+top3 entities near to cluster94>>
+近代, 建築, 現代
+top3 entities near to cluster95>>
+レンガ, 煉瓦, 赤
+top3 entities near to cluster96>>
+ビル, 高層, 地下
+top3 entities near to cluster100>>
+土産, おみやげ, 大丸
+top3 entities near to cluster102>>
+改札, 券売, コンコース
+top3 entities near to cluster103>>
+から口, 口前
+top3 entities near to cluster104>>
+中央口, 中央, 口前
+top3 entities near to cluster105>>
+玄関口, 玄関, 表玄関
+top3 entities near to cluster106>>
+中央口, 地下, 中央
+top3 entities near to cluster107>>
+在来線, 環状線, 在来, 環状
+top3 entities near to cluster108>>
+北口, 南口, 駅前
+top3 entities near to cluster109>>
+構内, 駅舎, 駅
+top3 entities near to cluster110>>
+ナカ, 駅, 構内
+top3 entities near to cluster111>>
+駅, 駅前, 徒歩
+top3 entities near to cluster112>>
+駅, 構内, 徒歩
+top3 entities near to cluster113>>
+駅, 周辺, 駅前
+top3 entities near to cluster114>>
+駅, 徒歩, 駅前
+top3 entities near to cluster115>>
+立派, 駅, 有名
+top3 entities near to cluster116>>
+駅, 駅前, 南口

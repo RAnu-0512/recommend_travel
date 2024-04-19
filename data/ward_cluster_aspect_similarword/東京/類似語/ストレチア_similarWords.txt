@@ -1,0 +1,13 @@
+--------------------similar_words:ストレチア--------------------
+top3 entities near to cluster1>>
+花, お花, 花屋
+top3 entities near to cluster4>>
+気分, 旅, 気持ち
+top3 entities near to cluster5>>
+南国, 極楽, 常夏
+top3 entities near to cluster6>>
+道端, ノラ, 道ばた
+top3 entities near to cluster7>>
+植物, 自然, 鳥
+top3 entities near to cluster8>>
+自生, 群生, 生息

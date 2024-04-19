@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:フルーツフィールド鳥取砂丘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+大粒, 高級ブランドいちご, 苺, 粒, イチゴ狩り, コロナ禍
+cluster1:(4)
+受付, 予約, コード決済, 物販
+cluster2:(3)
+塩, 味, 一口
+cluster3:(17)
+コラボ, フライドポテト, ハンバーガー, ハウス, スタッフ, 撮影, 子ども, イチゴ, スーパー, デザート, 葉っぱ, シーズン, デパート, バーガー, 見た目, いちご, スポット
+cluster4:(3)
+感じ, 気, 方
+cluster5:(2)
+大人, 女性スタッフ
+cluster6:(2)
+友達, 周り
+cluster7:(3)
+他スタッフ, 他, 最後
+cluster8:(1)
+腰
+cluster9:(1)
+友人達
+cluster10:(1)
+施設全体
+cluster11:(3)
+清潔感, 駐車場, レジ横
+
+howmany entities : 46
+howmany clusters : 12
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 12
+deleted 0entities.

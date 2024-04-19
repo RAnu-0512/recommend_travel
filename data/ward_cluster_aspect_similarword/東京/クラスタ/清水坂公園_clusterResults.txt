@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水坂公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+清水坂公園, 北区, JR京浜東北線, 駅, 電車, 東十条駅, 徒歩, 赤羽駅
+cluster1:(4)
+家族連れ, 子供連れ, 子供達, 子供たち
+cluster2:(5)
+芝生, 公園, 広場, 遊具, 園内
+cluster3:(2)
+キャンプ用品, 水遊び場
+cluster4:(1)
+自然館
+cluster5:(3)
+虫, 昆虫, 鳥
+cluster6:(2)
+夏, 秋
+cluster7:(2)
+水, 川
+cluster8:(2)
+緑, 桜
+cluster9:(1)
+小川
+cluster10:(29)
+水遊び, 生き物, ローラー滑り台, 場所, オアシス, 子ども, 景色, ボール, 人, 人気, 他, 子供, 遊び, 近く, 滑り台, 意外, 家族, ココ, 楽し, ローラー, ロング, 声, 子, 禁止, ピクニック, 作り, お子様, ロング滑り台, バーベキュー
+cluster11:(3)
+体力, 人工, 傾斜
+cluster12:(3)
+ローラー式, 距離, 感
+cluster13:(1)
+高低差
+
+howmany entities : 66
+howmany clusters : 14
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 14
+deleted 0entities.

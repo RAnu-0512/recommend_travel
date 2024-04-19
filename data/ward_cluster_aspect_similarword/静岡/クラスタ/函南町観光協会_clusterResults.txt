@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:函南町観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+函南町観光協会, 函南町
+cluster1:(3)
+伊豆, 熱海, 三島
+cluster2:(4)
+場所, 徒歩, 国市, 伊豆仁田駅
+cluster3:(1)
+名産品
+cluster4:(1)
+商工会議所
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 4entities.

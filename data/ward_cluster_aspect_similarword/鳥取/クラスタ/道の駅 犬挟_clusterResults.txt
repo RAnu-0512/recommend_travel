@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 犬挟>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅犬挟, 駅 犬挟, 犬挟
+cluster1:(11)
+関金温泉, 倉吉, 大山, 真庭市, 岡山県, 関金わさび, いぬばしり, 鳥取県, 倉敷, 蒜山, 関金
+cluster2:(7)
+野菜, 梨, 食事, 野菜たっぷり, 果物, 食事処, 麺類
+cluster3:(2)
+R482, R313
+cluster4:(10)
+建物, 地, 駅, 施設, 街, 土地, 立地, 道, 県境, 場所
+cluster5:(5)
+内容, もの, こと, 思い, 物
+cluster6:(6)
+地域, 中心, 自然, 名物, 遠方, 地元
+cluster7:(2)
+下, 左側
+cluster8:(3)
+他, 途中, 今回
+cluster9:(1)
+サッカー台
+cluster10:(12)
+アイス, わさびアイス, 農産物, ミッション, 小さめ, 休憩, 雰囲気, わさび, グレード, カレー, スポット, 見た目
+cluster11:(1)
+新米
+cluster12:(6)
+値段, 店員, 品物, 視界, 苦情, 段ボール箱
+cluster13:(1)
+舵
+cluster14:(6)
+国道沿い, 牛骨ラーメン, 駅 規模, 国道, 道の駅, 駐車場
+cluster15:(9)
+特産, 土産品, 特産品, 薬膳, 土産, 名産地, 土産探し, 特産物, 薬膳ランチ
+
+howmany entities : 85
+howmany clusters : 16
+howmany entities (more than1entities) : 85
+howmany clusters (more than1entities) : 16
+deleted 0entities.

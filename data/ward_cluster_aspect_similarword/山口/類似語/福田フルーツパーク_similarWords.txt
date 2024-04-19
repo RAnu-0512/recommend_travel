@@ -1,0 +1,25 @@
+--------------------similar_words:福田フルーツパーク--------------------
+top3 entities near to cluster0>>
+従業員, 従業, 女性
+top3 entities near to cluster1>>
+肉, 豚肉, 鶏肉
+top3 entities near to cluster2>>
+狩り, 梨, 狩る
+top3 entities near to cluster3>>
+パン, ドック, ホット
+top3 entities near to cluster4>>
+イチゴ, いちご, ジャム
+top3 entities near to cluster5>>
+バーベキュー, ＢＢＱ, コンロ
+top3 entities near to cluster6>>
+デザート, ケーキ, 飲み物
+top3 entities near to cluster7>>
+子供, 母親
+top3 entities near to cluster8>>
+ボリューム感, 満点, ボリューム
+top3 entities near to cluster10>>
+移動, 転換, 持ち込み
+top3 entities near to cluster12>>
+体験, 試食, 食べ
+top3 entities near to cluster13>>
+暑い, 対策, 寒

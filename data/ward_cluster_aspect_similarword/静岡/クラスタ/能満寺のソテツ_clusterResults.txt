@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:能満寺のソテツ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小山城, 能満寺
+cluster1:(11)
+真下, こと, 展望台, 大ソテツ, 目, 本堂, 横, 前, 枝, ソテツ, 天守閣
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 2entities.

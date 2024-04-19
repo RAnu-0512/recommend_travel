@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明倫館兵学寮跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+長州藩士, 兵学寮
+cluster1:(8)
+石碑, 山口市, 跡, 明倫館, 近く, スポット, 歴史, 県立博物館
+cluster2:(1)
+上田鳳陽
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

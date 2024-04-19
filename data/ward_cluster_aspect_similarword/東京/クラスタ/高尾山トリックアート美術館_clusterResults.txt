@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高尾山トリックアート美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大人, 子供, 子どもたち
+cluster1:(3)
+娘, 息子, 孫
+cluster2:(1)
+小学
+cluster3:(1)
+泊り
+cluster4:(4)
+雨, 寒さ, 天気, 生憎
+cluster5:(3)
+気, 必要, 方
+cluster6:(5)
+トリックアート, 高尾山口, トリック, テレビ, トリックアートあたり
+cluster7:(3)
+絵, 写真スポット, 写真
+cluster8:(9)
+所, 場所, 階, 床, 館内, 駅, 施設, 年, 国道
+cluster9:(1)
+駐車場
+
+howmany entities : 33
+howmany clusters : 10
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 10
+deleted 0entities.

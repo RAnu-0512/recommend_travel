@@ -1,0 +1,15 @@
+--------------------similar_words:とっとり出合いの森--------------------
+top3 entities near to cluster0>>
+木々, 芝生, 花
+top3 entities near to cluster1>>
+子供, 子ども, 大人
+top3 entities near to cluster2>>
+施設, 学校, 養護
+top3 entities near to cluster3>>
+天気, 弁当, お天気
+top3 entities near to cluster4>>
+行事, 保育園, 幼稚園
+top3 entities near to cluster5>>
+家族連れ, 家族, つれ
+top3 entities near to cluster6>>
+駐車場, 駐車, 場裏

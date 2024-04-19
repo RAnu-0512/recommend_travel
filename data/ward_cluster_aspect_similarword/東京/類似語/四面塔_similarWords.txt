@@ -1,0 +1,11 @@
+--------------------similar_words:四面塔--------------------
+top3 entities near to cluster0>>
+東口, 南口, 北口
+top3 entities near to cluster2>>
+供養塔, 石塔, 供養
+top3 entities near to cluster3>>
+案内板, 案内, 倒連
+top3 entities near to cluster4>>
+時代, 幕末, 末期
+top3 entities near to cluster5>>
+線路沿い, 線路, 道路沿い, 道路

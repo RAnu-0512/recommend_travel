@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平成庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+場所, オススメ, 中心, 子ども, 建物, 隣, ところ, ベース, 東西線, 写真, 地元
+cluster1:(2)
+カメラ撮影, 見学
+cluster2:(3)
+江戸川区役所, 田中, 東京メトロ
+cluster3:(6)
+季節, 池, 花, 茶, 鯉, 桜
+cluster4:(1)
+垂れ桜
+cluster5:(13)
+喜田公園, 日本庭園, 一帯, 公園, 街歩き, 東大島駅, 政治家, 庭園, 徒歩, 西葛西駅, 宇喜田地区, 小松川公園, 平成庭園
+cluster6:(9)
+徳川家由来の碑, 北葛西の行船公園, 江戸川区平和祈念展示室, 自然動物園, 源心庵, 動物園, 江戸川区立行船公園, 回遊式庭園, 行船公園
+
+howmany entities : 45
+howmany clusters : 7
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 7
+deleted 0entities.

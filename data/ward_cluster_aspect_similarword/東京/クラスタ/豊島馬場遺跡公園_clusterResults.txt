@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊島馬場遺跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+中, 子供達, 周り, モニュメント, 北
+cluster1:(6)
+公園, 広場, 遊具, 遺跡, 公団, カワイイ公園
+cluster2:(1)
+住宅街
+cluster3:(1)
+王子神谷駅
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福山城博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+福山城天守閣, 福山, 福山城, かな福山城, 草戸千軒, 福山駅
+cluster1:(6)
+出土品, 展示物, 展示, 埋蔵文化財, 入場料, 展示品
+cluster2:(8)
+眺望, 内部, 天守閣内部, 甲冑, 市街, 城そのもの, 北口, 駅
+cluster3:(2)
+時間, 場所
+cluster4:(9)
+テーマ, 鉄筋コンクリート, ところ, オススメ, 方, 天守閣, 博物館, 新幹線, 最上階
+cluster5:(4)
+歴史, 資料, 価値, 解説
+cluster6:(1)
+事績
+cluster7:(5)
+水野家, 江戸時代, お勧め, 阿部家, 階毎
+cluster8:(2)
+展望台, 展望
+cluster9:(2)
+天守, 再建天守
+
+howmany entities : 45
+howmany clusters : 10
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 10
+deleted 0entities.

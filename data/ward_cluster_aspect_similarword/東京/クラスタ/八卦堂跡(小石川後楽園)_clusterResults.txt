@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八卦堂跡(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+人, こと, 辺り, 説明, 周り, 関東大震災
+cluster1:(2)
+建物, 階段
+cluster2:(1)
+礎石
+cluster3:(5)
+坂, 小石川後楽園, 紅葉, 将軍家光, 池
+cluster4:(1)
+星像
+cluster5:(1)
+案内板
+cluster6:(1)
+文昌
+cluster7:(1)
+徳川光圀
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 8
+deleted 0entities.

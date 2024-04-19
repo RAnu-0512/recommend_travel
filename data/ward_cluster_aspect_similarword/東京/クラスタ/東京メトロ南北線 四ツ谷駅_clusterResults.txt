@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線 四ツ谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+JR, 路線, 駅, アトレ四ツ谷, 丸の内線, 乗り換え駅
+cluster1:(4)
+丸ノ内線, ホーム, 南北線, 乗り換え
+cluster2:(3)
+場所, 時間, 中
+cluster3:(3)
+地上, 地下, 南北
+cluster4:(4)
+東京, 東京駅, 江戸時代, 東京メトロ
+cluster5:(1)
+商業施設
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スノーリゾート猫山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+雪, これぞ雪国, 小さなお子, スキー城, 道路
+cluster1:(18)
+母さん, スピード, コンディション, ところ, 個人, 自宅, 客, コース, スキー, スノボ初心者, 人, 初心者, リフト, 子ども, 人間, 父さん, スキーヤー, ゲレンデ
+cluster2:(2)
+目的, 場所
+cluster3:(4)
+あと, 気, 昔, こと
+cluster4:(1)
+姿
+cluster5:(3)
+指導, 拡大, 影響
+cluster6:(1)
+活気
+cluster7:(1)
+コロナ感染
+cluster8:(2)
+スキー場, コース場
+cluster9:(2)
+板, シーズンスキー板
+cluster10:(1)
+滑り具合
+cluster11:(1)
+猫山
+
+howmany entities : 41
+howmany clusters : 12
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 12
+deleted 0entities.

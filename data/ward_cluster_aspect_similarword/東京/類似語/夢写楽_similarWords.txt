@@ -1,0 +1,11 @@
+--------------------similar_words:夢写楽--------------------
+top3 entities near to cluster1>>
+機会, 人達, 姿
+top3 entities near to cluster2>>
+甲冑, 着物, 和服
+top3 entities near to cluster3>>
+夢, 写楽, 写
+top3 entities near to cluster4>>
+写真, 館, 画像
+top3 entities near to cluster5>>
+コス, プレ, プレイベント

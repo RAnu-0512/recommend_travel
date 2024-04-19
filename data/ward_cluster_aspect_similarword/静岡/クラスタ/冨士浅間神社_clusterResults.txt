@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:冨士浅間神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浅間神社, 冨士浅間神社
+cluster1:(2)
+社務所, 休憩所
+cluster2:(2)
+コロナ禍, 星3
+cluster3:(9)
+気, 態度, 評価, もの, 感じ, 声, 理由, 気分, 方
+cluster4:(3)
+森, 静寂, 空気
+cluster5:(4)
+周り, 唯一, 裏, 他
+cluster6:(3)
+御朱印, 手入れ, 富士山
+cluster7:(3)
+女, 人, 男性
+cluster8:(1)
+親子
+cluster9:(1)
+登山
+cluster10:(1)
+千尋
+cluster11:(7)
+湧水, 参拝, 精神病院, 神社, 境内, 参拝者, 狛犬
+
+howmany entities : 38
+howmany clusters : 12
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 6
+deleted 9entities.

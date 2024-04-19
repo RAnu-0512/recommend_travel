@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:横十間川親水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+川親水公園, 仙台堀川親水公園, 親水公園, 猿江恩賜公園, 猿江恩恵公園
+cluster1:(3)
+江東区民, 東京都, 江東区役所
+cluster2:(2)
+足漕ぎ, 手漕ぎ
+cluster3:(4)
+乗船体験, 体験, 和船, 和船友の会
+cluster4:(6)
+もの, 解消, 方法, 感じ, こと, 羽目
+cluster5:(3)
+地理, 検定, 資格
+cluster6:(5)
+運動, 公園, 場, 憩い, 散歩
+cluster7:(5)
+緑, 水辺, 川, 水上アスレチック, 桜
+cluster8:(15)
+途中, ボート, 水, ボランティア, 場所, 中心, 飛行機, ストレス, 実家, ほとり, 時間, 漕, 船, 方々, 横
+cluster9:(1)
+子供達
+
+howmany entities : 49
+howmany clusters : 10
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 10
+deleted 0entities.

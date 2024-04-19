@@ -1,0 +1,9 @@
+--------------------similar_words:SHIBUYA CAST.(渋谷キャスト)--------------------
+top3 entities near to cluster1>>
+施設, 建物, 敷地
+top3 entities near to cluster2>>
+店舗, 店内
+top3 entities near to cluster4>>
+複合, 施設, 商業
+top3 entities near to cluster5>>
+., 06, 05

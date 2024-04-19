@@ -1,0 +1,9 @@
+--------------------similar_words:これっしか処--------------------
+top3 entities near to cluster0>>
+特産品, 名産品, 特産, 名産
+top3 entities near to cluster1>>
+パン, パン屋, 食パン
+top3 entities near to cluster5>>
+構内店, 駅店, 駅, 構内
+top3 entities near to cluster7>>
+改札, 構内, 南口

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:築地川銀座公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高速都心環状線, 首都高速道路環状線
+cluster1:(8)
+オアシス, サラリーマン, 人, ランチ, 昼休み, 会社, 歌舞伎座, 真ん中
+cluster2:(5)
+途中, 場所, 感じ, 上, 中
+cluster3:(1)
+姿
+cluster4:(1)
+休憩
+cluster5:(7)
+都会, 公園, 緑, 駅, そば, ビル, 都心
+cluster6:(8)
+高速道路, 首都, 晴海通り, 銀座, 環状線, 銀座公園, 築地川, 首都高
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 7
+deleted 0entities.

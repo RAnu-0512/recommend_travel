@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津城本丸跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+本丸跡, 碑, テント, 沼津, 子供プール, 聖地, 途中, アニメ幻日, ヨハネ聖地, 石碑
+cluster1:(3)
+JR沼津駅, 沼津夏まつり花火大会, 沼津Xラブライブ
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

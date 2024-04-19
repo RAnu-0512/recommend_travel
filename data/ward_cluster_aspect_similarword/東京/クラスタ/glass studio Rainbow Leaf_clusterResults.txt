@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:glass studio Rainbow Leaf>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+軍手, 手首
+cluster1:(5)
+道具, 工房, 素材, 作業, 工程
+cluster2:(5)
+作品, 人, 作家, もの, 経験
+cluster3:(4)
+全体, 全部, 世界, 概要
+cluster4:(9)
+ガラス, ゴール, レインボーリーフ, グラス, ガード, 花瓶, 間違い, ショップ, レクチャー
+cluster5:(1)
+ハシ
+cluster6:(3)
+完成形, 体験, ガラス体験
+cluster7:(1)
+琉球ガラス
+cluster8:(1)
+飲み口
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 9
+deleted 0entities.

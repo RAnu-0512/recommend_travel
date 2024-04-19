@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小林和作画伯・浜村秀雄(ボストンマラソン優勝者)展示室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小林和, 秋穂東, 山口市
+cluster1:(4)
+当地出身, 作品, 作画伯, 愛用品
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 2
+deleted 0entities.

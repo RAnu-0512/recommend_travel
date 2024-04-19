@@ -1,0 +1,41 @@
+--------------------similar_words:東京シティ競馬(大井競馬場)--------------------
+top3 entities near to cluster0>>
+競馬, 競輪, 馬券
+top3 entities near to cluster1>>
+夜遊び, デート, 合コン
+top3 entities near to cluster2>>
+グッズ, カフェ, ショップ
+top3 entities near to cluster3>>
+イルミ, サンタ, イルミネーション
+top3 entities near to cluster4>>
+雰囲気, レベル, テイスト
+top3 entities near to cluster5>>
+イベント, イルミネーション, アトラクション
+top3 entities near to cluster6>>
+レース, パドック, ショー
+top3 entities near to cluster7>>
+フォト, ミアガイド, ギャラリー
+top3 entities near to cluster8>>
+光玉, 和玉, 光, 和
+top3 entities near to cluster9>>
+子供, 子ども, 大人
+top3 entities near to cluster10>>
+遊具, 馬券
+top3 entities near to cluster11>>
+仕事帰り, 仕事, 用事
+top3 entities near to cluster13>>
+室内, 全体
+top3 entities near to cluster14>>
+場内, 売店, 館内
+top3 entities near to cluster15>>
+笑顔, 友達
+top3 entities near to cluster16>>
+美しい, 素晴らしい, 力強い
+top3 entities near to cluster17>>
+入場料, 料金, 入場
+top3 entities near to cluster18>>
+来場, 撮影, 記念
+top3 entities near to cluster19>>
+所要, 時間
+top3 entities near to cluster20>>
+接種, 証明, 提示

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高茂温泉 鵜の子荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+案内, シニア, しつらえ, 西城川, グループ, オススメ, 良さ, こぶし, 全員, 店主, 雰囲気, すべすべ, 米, 沢山, バラエティ
+cluster1:(12)
+窓際, 蛍, 肌, 魚中心, 温泉, 川面, 手作り料理, 部屋, 景色, 山菜, 情景, 風呂
+cluster2:(1)
+美しさ
+cluster3:(6)
+西条川, 泉質, 庄原市, 一軒宿, 山野草, 湯質
+
+howmany entities : 34
+howmany clusters : 4
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 4
+deleted 0entities.

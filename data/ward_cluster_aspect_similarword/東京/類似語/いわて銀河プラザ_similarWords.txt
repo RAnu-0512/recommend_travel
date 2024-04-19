@@ -1,0 +1,21 @@
+--------------------similar_words:いわて銀河プラザ--------------------
+top3 entities near to cluster1>>
+土産, 惣菜, 土産物
+top3 entities near to cluster4>>
+当地, 地元, 各地
+top3 entities near to cluster5>>
+土地, 建物
+top3 entities near to cluster6>>
+商品, 店内, 情報
+top3 entities near to cluster7>>
+フロア, エリア, 各階
+top3 entities near to cluster8>>
+ショップ, ネット, コンビニ
+top3 entities near to cluster9>>
+海産物, ビール, ワイン
+top3 entities near to cluster11>>
+幸, 海, 海鮮
+top3 entities near to cluster13>>
+名産品, 特産品, 名産, 特産
+top3 entities near to cluster15>>
+物産, 復興, 特産

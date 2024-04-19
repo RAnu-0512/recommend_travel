@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆トゥク アクティビティ道具のレンタル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+河口, 為海
+cluster1:(2)
+伊豆, 千葉
+cluster2:(2)
+河津, 桜
+cluster3:(33)
+車, スタッフ, SUPレンタル, 今回, レストラン, 流れ, アフリカンドリーム, ボリューム, クセ, 料理, こと, どか, 兄さん, ポテト, 日本, 受付, 空気, もの, 名所, 人, シャワー, 店, sup, 時間, SUP, 感じ, 勧め, セネガル, 場所, イメージ, フィン, ポンプ, 泊まり
+cluster4:(4)
+強風高波, 駐車場, 強風, 電動空気ポンプ
+
+howmany entities : 43
+howmany clusters : 5
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 2
+deleted 6entities.

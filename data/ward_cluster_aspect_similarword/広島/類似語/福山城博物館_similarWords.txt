@@ -1,0 +1,17 @@
+--------------------similar_words:福山城博物館--------------------
+top3 entities near to cluster1>>
+展示, 収蔵, 出土
+top3 entities near to cluster2>>
+市街, 駅, 城壁
+top3 entities near to cluster3>>
+時間, 日数, 時
+top3 entities near to cluster4>>
+天守閣, 最上階, 博物館
+top3 entities near to cluster5>>
+歴史, 資料, 価値
+top3 entities near to cluster6>>
+事績, 事跡, 事蹟
+top3 entities near to cluster8>>
+展望台, 展望, 鼻戸崎
+top3 entities near to cluster9>>
+天守, 天守閣, 城郭

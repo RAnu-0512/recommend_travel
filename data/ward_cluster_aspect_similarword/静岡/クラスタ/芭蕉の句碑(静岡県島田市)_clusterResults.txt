@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芭蕉の句碑(静岡県島田市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+芭蕉句碑, 下旬 芭蕉, 松尾芭蕉, 芭蕉
+cluster1:(2)
+句, 俳句
+cluster2:(2)
+句碑, 歌碑
+cluster3:(8)
+静岡, 島田宿, 旅人, 大井川, 川止め, 庭, 馬方, 他
+cluster4:(2)
+街道筋, 角形ぽい句碑
+cluster5:(4)
+馬かたは しらじしぐれ, 大井川橋東詰北側に芭蕉, 川越遺跡 川会所, 川会所
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 6entities.

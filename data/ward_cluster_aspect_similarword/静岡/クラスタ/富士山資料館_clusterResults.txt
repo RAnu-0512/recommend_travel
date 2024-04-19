@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+火山, 富士
+cluster1:(7)
+こと, 子ども, 勉強, 富士山, 成り立ち, 感じ, 夏休み
+cluster2:(3)
+郷土, 資料, 展示
+cluster3:(3)
+富士山資料館, 資料館, 入館料
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 2entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花の海_ひまわり>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+フルーツ狩り, ひまわり畑, 体験農園, 果物, 野菜, パン
+cluster1:(5)
+もの, 多く, 時期, 目的, 人
+cluster2:(6)
+ひまわり, 夏休み, 夏, 花, スペース, カレー
+cluster3:(1)
+背
+cluster4:(1)
+満開
+cluster5:(1)
+天候
+cluster6:(1)
+SNS映え
+cluster7:(1)
+咲こ
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 8
+deleted 0entities.

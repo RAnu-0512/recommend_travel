@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR高尾駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+地元駅, JR中央線, 石和温泉, 南口, 長野駅, バスロータリー, 運行バス, 大天狗頭像, 始発, 高尾駅, 駅舎, 夜行バス, 駅, 城跡行, 下諏訪駅, 電車, 八王子城跡, 温泉入湯, 中央線, 終点, バス, 北口
+cluster1:(2)
+謹賀新年, 梅雨明け直後
+cluster2:(2)
+表示, 行き先表示
+cluster3:(2)
+東京, 日本
+cluster4:(3)
+高尾山, 陣馬山, 京王線
+cluster5:(8)
+バス停, バスターミナル, 人, 墓参り, ホーム, 中央本線, 雰囲気, 乗り換え
+cluster6:(3)
+途中, 時間, 周辺
+cluster7:(1)
+年配
+cluster8:(3)
+天気, 旅, 登山
+cluster9:(6)
+気, 目的, 予定, 像, 方, こと
+cluster10:(1)
+酷暑
+cluster11:(10)
+安全祈願, 下社, デカイ天狗, 諏訪大社, 八丈字, 大月, 甲府, 仏花, 天狗, 土日祝
+
+howmany entities : 63
+howmany clusters : 12
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 12
+deleted 0entities.

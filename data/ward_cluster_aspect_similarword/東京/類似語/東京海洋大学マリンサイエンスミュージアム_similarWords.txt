@@ -1,0 +1,17 @@
+--------------------similar_words:東京海洋大学マリンサイエンスミュージアム--------------------
+top3 entities near to cluster0>>
+海洋, 大学, 国立
+top3 entities near to cluster1>>
+標本, 剥製, 鯨
+top3 entities near to cluster3>>
+禁止, 再開, 開始
+top3 entities near to cluster4>>
+展示, 見学, 撮影
+top3 entities near to cluster5>>
+駅, 北品川, ビルアトレ
+top3 entities near to cluster6>>
+見学, 予約, 入場
+top3 entities near to cluster7>>
+徒歩, 分の
+top3 entities near to cluster8>>
+水産, 商務, 農

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弓ヶ浜公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+米子市, 境港市
+cluster1:(3)
+子ども, 大人, 子供
+cluster2:(2)
+子, 親
+cluster3:(1)
+親戚
+cluster4:(1)
+子供たち
+cluster5:(1)
+小さなお子
+cluster6:(1)
+家族連れ
+cluster7:(17)
+大山, 弓ヶ浜, ブランコ, 散歩, ちぶっこ, ブランコ大, 目, 天気, 公園, 遊具, 範囲, ランニング, 鬼ごっこ, 弓ヶ浜公園, 点, スポット, 場所
+cluster8:(3)
+場所がら風, 駐車場, 飲食施設
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 9
+deleted 0entities.

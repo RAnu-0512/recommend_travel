@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:袋町公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 遊具
+cluster1:(9)
+パルコ, 限定, 近く, 広島, 人, コンビニ, 折鶴, 観光, コーヒー
+cluster2:(1)
+袋町公園
+cluster3:(1)
+広島PARCOや袋町小学校平和資料館
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

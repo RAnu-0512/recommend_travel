@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巣鴨プリズン跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+東池袋中央公園, 池袋駅, 巣鴨プリズン, 徒歩, 東口
+cluster1:(3)
+石碑, 碑石, 碑
+cluster2:(16)
+穏やかさ, 場所, 隣, 花, 公園, 人, ココ, 人々, 西巣鴨, 刑務所, 東池袋, 方, 歴史, 雰囲気, サンシャインシティ, 現在サンシャイン
+cluster3:(5)
+建物, 跡地, ビル, 敷地, 跡
+cluster4:(9)
+執行場所, 極東国際軍事裁判, 平和, 刑, 戦勝国, 戦争犯罪人, 永久平和, 死刑囚, 死刑執行
+cluster5:(1)
+第二次世界大戦
+
+howmany entities : 39
+howmany clusters : 6
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 6
+deleted 0entities.

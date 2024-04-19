@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼津市芹沢光治良記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+芹沢光治良の記念館, 芹沢光治良記念館, 芹沢光治良
+cluster1:(2)
+沼津港, 沼津市
+cluster2:(3)
+財団, 建物, 施設
+cluster3:(3)
+文学, 作家, 作品
+cluster4:(2)
+者, 出身
+cluster5:(1)
+文豪
+cluster6:(1)
+シングルPV
+cluster7:(2)
+海岸, 河口
+cluster8:(2)
+我入道, 狩野川
+cluster9:(5)
+見ごたえ, バス停, サンシャイン, Aqours, ゆかり
+cluster10:(1)
+昭和
+cluster11:(1)
+禁止
+cluster12:(1)
+芹沢
+cluster13:(1)
+ラブライブ
+cluster14:(11)
+人間の運命, カメラ撮影, 入館料, カメラ撮影スポット, 展示, まちあるきスタンプ, 文化財収蔵庫, 展示品, 合併高校分校, ロケ地, 記念館
+
+howmany entities : 39
+howmany clusters : 15
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 5
+deleted 14entities.

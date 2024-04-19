@@ -1,0 +1,23 @@
+--------------------similar_words:和田倉噴水公園--------------------
+top3 entities near to cluster0>>
+倉, 岡, 丸山
+top3 entities near to cluster1>>
+ランド, ティー, タイム
+top3 entities near to cluster3>>
+レストラン, カフェ, ホテル
+top3 entities near to cluster4>>
+ランチ, デザート, 弁当
+top3 entities near to cluster7>>
+景色, 光景, 風景
+top3 entities near to cluster9>>
+散策, 散歩, 出掛け
+top3 entities near to cluster10>>
+皇居, 天皇, 皇太子
+top3 entities near to cluster11>>
+休憩, 仮眠, 時間
+top3 entities near to cluster12>>
+公園, 緑地, 広場
+top3 entities near to cluster13>>
+噴水, 広場, 中庭
+top3 entities near to cluster14>>
+駅, ビル, 駅前

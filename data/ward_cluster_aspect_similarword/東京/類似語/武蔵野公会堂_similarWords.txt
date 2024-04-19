@@ -1,0 +1,29 @@
+--------------------similar_words:武蔵野公会堂--------------------
+top3 entities near to cluster0>>
+講演会, 発表会, 講演, 発表
+top3 entities near to cluster1>>
+会場, 会議, 出席
+top3 entities near to cluster3>>
+コンサート, イベント, ピアノ
+top3 entities near to cluster4>>
+ホール, コンサートホール, コンサート
+top3 entities near to cluster5>>
+公会堂, 公民館, パープルホール
+top3 entities near to cluster7>>
+市民, 憩い, 町民
+top3 entities near to cluster8>>
+音楽, 音響, 声楽
+top3 entities near to cluster9>>
+施設, 規模, 設備
+top3 entities near to cluster10>>
+勾配, 脇道, こう配
+top3 entities near to cluster11>>
+妙音, 妙味, 妙
+top3 entities near to cluster12>>
+足裏, 足
+top3 entities near to cluster13>>
+総合, プロ, 専門
+top3 entities near to cluster14>>
+建物, 町並み, 街並み
+top3 entities near to cluster15>>
+駅, 駅前, 南口

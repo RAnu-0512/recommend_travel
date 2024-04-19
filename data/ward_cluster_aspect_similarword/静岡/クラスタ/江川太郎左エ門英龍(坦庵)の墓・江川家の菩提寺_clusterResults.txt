@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江川太郎左エ門英龍(坦庵)の墓・江川家の菩提寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+江川坦庵, 江川太郎, 江川邸, 左衛門英龍, 江川家, 江川
+cluster1:(19)
+敷地, 墓石, こと, 先覚者, 号, 江戸末, 本堂, 少し先, 墓, 寺全体, 海防, 本立寺, 一族, 雰囲気, 菩提寺, 山麓, 時代, 山, 寺
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:周防国衙跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+避難所, 園路
+cluster1:(6)
+平安, 社領, 奈良, 国衙, 鎌倉, 国府
+cluster2:(2)
+跡形, 八幡宮跡
+cluster3:(20)
+跡地, 使い途, 施設, 古代, 役所, スオウ, 他, 公園, 遺物, 場所, 映画, サイクリング, 見た目, 折, 山, 遠足, 時代, 東大寺, 海, 建物
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 4
+deleted 0entities.

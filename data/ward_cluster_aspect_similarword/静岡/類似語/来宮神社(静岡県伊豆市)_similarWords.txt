@@ -1,0 +1,13 @@
+--------------------similar_words:来宮神社(静岡県伊豆市)--------------------
+top3 entities near to cluster0>>
+駅車, 駐車, 駅
+top3 entities near to cluster1>>
+写真, 景色, デートスポット
+top3 entities near to cluster2>>
+幹, 満, 木
+top3 entities near to cluster3>>
+子供, 家族
+top3 entities near to cluster6>>
+自然, 偉大, 歴史
+top3 entities near to cluster10>>
+神社, 境内, 本殿

@@ -1,0 +1,11 @@
+--------------------similar_words:萩阿武川温泉ふれあい会館--------------------
+top3 entities near to cluster0>>
+温泉, 露天風呂, 旅館
+top3 entities near to cluster2>>
+内湯, 内風呂, 沸かし湯
+top3 entities near to cluster3>>
+ダム, ダムサイト, 小里川
+top3 entities near to cluster4>>
+温, 湯, 温む
+top3 entities near to cluster5>>
+無色, 透明, 透き通っ

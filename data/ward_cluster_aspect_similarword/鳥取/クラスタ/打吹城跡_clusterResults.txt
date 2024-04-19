@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:打吹城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+山, 気色, 案内板, 歴史, 勉強, 打吹山公園, 山頂, 道, つもり, 展望台, 中腹, 上司, 方, 途中, 跡
+cluster1:(3)
+城跡入口, 神社仏閣, 打吹城
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

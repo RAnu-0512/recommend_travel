@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:目白の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+目白通り, 目白, 目白駅, 西武池袋線, 椎名町駅
+cluster1:(2)
+住宅地, 住宅街
+cluster2:(2)
+都, 都内
+cluster3:(2)
+都会, 都心
+cluster4:(4)
+季節, 場所, 中, 雰囲気
+cluster5:(4)
+自然, 森, 公園, 緑
+cluster6:(1)
+花々
+
+howmany entities : 20
+howmany clusters : 7
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あゆみ農園_ぶどう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ぶどう, 魚釣り
+cluster1:(1)
+巨峰
+cluster2:(1)
+須金フルーツランド
+cluster3:(1)
+ぶどう狩り
+cluster4:(1)
+あゆみ農園
+cluster5:(1)
+黄玉
+cluster6:(1)
+藤稔
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

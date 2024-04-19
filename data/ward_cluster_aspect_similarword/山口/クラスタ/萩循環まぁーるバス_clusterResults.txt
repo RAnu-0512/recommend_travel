@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩循環まぁーるバス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+萩観光, 山口県, 萩市, 萩バスセンター, 秋芳洞行, 萩, 萩循環
+cluster1:(26)
+ルート, コース, 松陰神社, 表示, こと, 乗り放題, 市, バス停, 名所, 役所, 西回り, 景色, 名前, 値段, 足, 行き先, 本数, 地元, 東回り, 時間, 方面, プレート, 距離, 城下町方面, 人, 乗り間違え
+cluster2:(2)
+公共交通機関, 交通手段
+cluster3:(5)
+バス観光, 観光地, 観光スポット, 観光パンフ, 観光
+cluster4:(3)
+乗車, 乗車券, 運賃
+cluster5:(2)
+路線, 鉄道路線
+cluster6:(3)
+バスセンター, 循環バス, バス
+
+howmany entities : 48
+howmany clusters : 7
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 7
+deleted 0entities.

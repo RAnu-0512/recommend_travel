@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山ガーデンプレイス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+野菜, ドーナツ屋, お花, 豆腐, 麺類, 花
+cluster1:(4)
+軽食コーナー, 昼食, 食事, 眺望
+cluster2:(3)
+市販スーパー, 品, 値段
+cluster3:(2)
+農産物, 切り花
+cluster4:(9)
+パンフ, トイレ, バーベキュー, ところ, レストラン, クラブハウス, 気持ち, テニス, 目当て
+cluster5:(2)
+日, 場所
+cluster6:(4)
+多く, 地元, 人, 方
+cluster7:(1)
+風
+cluster8:(1)
+大山
+cluster9:(8)
+本館, 休業, 出店, 断念, スポーツ施設, 交流センター, 施設, 販売者
+cluster10:(5)
+休憩所, 農産物直売コーナー, 観光案内所, 農産物直売所, 直売所
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 11
+deleted 0entities.

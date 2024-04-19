@@ -1,0 +1,21 @@
+--------------------similar_words:調布PARCO--------------------
+top3 entities near to cluster0>>
+京王, 電鉄, 仙川
+top3 entities near to cluster2>>
+機嫌, 気分, 印象
+top3 entities near to cluster3>>
+食品, 機器, 果物
+top3 entities near to cluster4>>
+店舗, 商品
+top3 entities near to cluster5>>
+駅街, 駅, 駅前
+top3 entities near to cluster6>>
+地下, 館内, 地階
+top3 entities near to cluster7>>
+デパート, パルコ, スーパーマーケット
+top3 entities near to cluster8>>
+画面表, 裏側, 画面
+top3 entities near to cluster10>>
+ワン, コイン, オンリー
+top3 entities near to cluster11>>
+飲み薬, 接客, 飲み

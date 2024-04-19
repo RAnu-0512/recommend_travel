@@ -1,0 +1,15 @@
+--------------------similar_words:米子市児童文化センター--------------------
+top3 entities near to cluster0>>
+図書館, おもちゃ, まわり
+top3 entities near to cluster1>>
+施設, 建物, 敷地
+top3 entities near to cluster3>>
+昆虫, 甲虫
+top3 entities near to cluster4>>
+徒歩, 駅分, 駅
+top3 entities near to cluster5>>
+子供, 子ども, 親達
+top3 entities near to cluster6>>
+卓球場, 卓球, 競技場, 競技
+top3 entities near to cluster7>>
+駅, 駅前, ＪＲ

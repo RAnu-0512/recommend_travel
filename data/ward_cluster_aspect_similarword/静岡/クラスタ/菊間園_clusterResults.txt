@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菊間園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駅, 宇佐駅, 駐車場, 宇佐美駅, 伊東, 温泉宿
+cluster1:(2)
+ミカン狩り, みかん狩り
+cluster2:(2)
+ミカン園, みかん園
+cluster3:(2)
+みかん畑, 畑
+cluster4:(1)
+温州みかんシーズン
+cluster5:(1)
+菊間園
+cluster6:(4)
+浴びたみかん, 食べ放題, 重さ, 美味しさ
+cluster7:(7)
+小さなお子, 子供, 孫達, うち孫, 家族, 娘家族, 親御
+cluster8:(2)
+トイレ, ベンチ
+cluster9:(9)
+スタッフ, シーズン, おすすめ, 伊豆高原, 我が家, サービス, おばあさん, 子ども, 送り迎え
+cluster10:(3)
+目当て, 持ち帰り, 量り売り
+cluster11:(1)
+気持ち
+cluster12:(1)
+子守り
+cluster13:(5)
+レモン, ミカン, みかん, ◎みかん, ミカンジュース
+cluster14:(5)
+ミカン買い, 網, 足, 袋, 皮
+cluster15:(5)
+方, 方々, 喜び, 感じ, 声
+cluster16:(2)
+機会, 体験そのもの
+cluster17:(4)
+受付, 世話, 対応, 説明
+cluster18:(23)
+客, 売店, 電車, トイレ数, 種類, 時間, 割, 土産, 時期, 買取, 季節, 雨, 価格, 料金, 地方, 場所, 経営, 店, 日, 景色, 近く, 味, 木
+cluster19:(6)
+甘味, 夏, コロナ禍, 酸味, 甘夏, 夏マーマレード
+
+howmany entities : 91
+howmany clusters : 20
+howmany entities (more than3entities) : 77
+howmany clusters (more than3entities) : 11
+deleted 14entities.

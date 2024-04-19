@@ -1,0 +1,19 @@
+--------------------similar_words:須賀神社(東京都新宿区)--------------------
+top3 entities near to cluster0>>
+三, 五, 六
+top3 entities near to cluster2>>
+写真, シーン, 作品
+top3 entities near to cluster4>>
+名称, 由来
+top3 entities near to cluster5>>
+神, 土砂降り
+top3 entities near to cluster7>>
+地元, 友人, 知人
+top3 entities near to cluster8>>
+互い, お互い, 双方
+top3 entities near to cluster10>>
+映画, 実写, 舞台
+top3 entities near to cluster11>>
+風景, 風情, 景色
+top3 entities near to cluster12>>
+神社, 境内, 本殿

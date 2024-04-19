@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:細江公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 無料駐車場, 満車状態
+cluster1:(2)
+細江公園, 細江
+cluster2:(2)
+奥, 奥浜名湖
+cluster3:(2)
+公園, 遊具
+cluster4:(2)
+街並み, 小学生
+cluster5:(2)
+浜名湖, 都田川
+cluster6:(1)
+風景
+cluster7:(1)
+桜
+cluster8:(1)
+GW
+cluster9:(1)
+高台
+cluster10:(1)
+子供達
+cluster11:(1)
+展望台
+cluster12:(1)
+国民宿舎
+
+howmany entities : 20
+howmany clusters : 13
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 17entities.

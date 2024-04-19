@@ -1,0 +1,7 @@
+--------------------similar_words:KDDIビル--------------------
+top3 entities near to cluster0>>
+ビル, 高層, タワービル
+top3 entities near to cluster1>>
+国際, 電電, 電話
+top3 entities near to cluster2>>
+駅, 本社, 建物

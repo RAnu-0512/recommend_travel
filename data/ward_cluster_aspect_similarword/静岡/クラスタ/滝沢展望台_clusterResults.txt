@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滝沢展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+滝沢小学校, 静岡, 簡易トイレ
+cluster1:(21)
+車, 平地, 林道, 夜間, 注意, 街, 東屋, ところ, 人, アクトタワー, 景色, 風車, 自信, 中, トイレ, 頂上, あたり, 運転, 駐車, 前方, 道
+cluster2:(3)
+舗装道路, 展望台, 対向車
+cluster3:(3)
+浜松市, 浜松市街, 風力発電
+
+howmany entities : 30
+howmany clusters : 4
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 0entities.

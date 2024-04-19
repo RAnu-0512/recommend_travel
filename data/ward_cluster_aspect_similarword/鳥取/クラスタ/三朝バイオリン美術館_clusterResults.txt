@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三朝バイオリン美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鳥取バイオリン製作学校, 西洋楽器バイオリン
+cluster1:(2)
+将来の匠, 相愛大学
+cluster2:(13)
+製作過程, 製作, バイオリン体験レッスン, 演奏家, 製作体験コース, 演奏会, バイオリン製作, 演奏者, バイオリン試奏体験, 制作過程, 生演奏, 博物館貸切状態, 演奏
+cluster3:(1)
+事前予約制
+cluster4:(2)
+三朝バイオリン美術館, 三朝温泉
+cluster5:(4)
+建物, 一角, 敷地, 施設
+cluster6:(3)
+材料, 資料, 道具
+cluster7:(3)
+楽器, 弦楽器バイオリン, 弦楽器
+cluster8:(2)
+学校, 音楽
+cluster9:(18)
+レベル, 初心者, テーマ, 感じ, 静寂, バイオリン, 夏休み, バイオリン美術館, 美術館, スタッフ, 子ども, コーヒー, コンサート, 音, ガイドツアー, 聖地, 雰囲気, 時間
+
+howmany entities : 50
+howmany clusters : 10
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 10
+deleted 0entities.

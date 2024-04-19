@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西光寺(東京都調布市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ウォーキング, 観世音菩薩, 像, 観音堂
+cluster1:(4)
+参拝, 境内入り口, 法要, 山門
+cluster2:(5)
+十一面, 西調布駅, 近藤勇, 甲州街道, 改札口
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

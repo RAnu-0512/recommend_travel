@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝海舟夫妻の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+洗足池公園, 洗足池駅
+cluster1:(2)
+勝先生 実物, 勝海舟
+cluster2:(2)
+官軍, 幕末
+cluster3:(2)
+墓, 遺言
+cluster4:(2)
+地, 別荘
+cluster5:(6)
+途中, 所, ところ, それぞれ, 中, 池上本門寺
+cluster6:(4)
+人物, 性格, 視点, 漫画
+cluster7:(1)
+人物像
+cluster8:(2)
+中原街道, 改札口
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

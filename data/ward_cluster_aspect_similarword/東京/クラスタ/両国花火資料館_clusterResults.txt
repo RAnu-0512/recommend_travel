@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:両国花火資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+花火師, 長岡まつり大花火大会, 花火玉, 相当花火, 花火大会, 隅田川花火大会, 実物大花火, 両国花火資料館, 花火
+cluster1:(8)
+資料館, 展示室, 開館時間, 展示品, 開館日, 開館, 資料, 展示
+cluster2:(2)
+両国駅, 両国
+cluster3:(2)
+火薬, 打ち上げ筒
+cluster4:(2)
+断面, 模型
+cluster5:(2)
+南, 脇
+cluster6:(3)
+原点, 歴史, 世界
+cluster7:(4)
+構造, こと, 説明, もの
+cluster8:(8)
+場所, 隅田川, 近く, 施設, 部屋, スポット, 中, 友人
+cluster9:(1)
+オフィスビル
+cluster10:(1)
+大きさ
+cluster11:(2)
+京葉道路, 回向院
+
+howmany entities : 44
+howmany clusters : 12
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 12
+deleted 0entities.

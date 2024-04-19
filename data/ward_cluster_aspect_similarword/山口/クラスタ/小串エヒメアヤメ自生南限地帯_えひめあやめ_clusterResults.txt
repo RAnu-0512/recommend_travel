@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小串エヒメアヤメ自生南限地帯_えひめあやめ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天然記念物, エヒメアヤメ
+cluster1:(1)
+西日本
+cluster2:(1)
+日本
+cluster3:(1)
+国
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

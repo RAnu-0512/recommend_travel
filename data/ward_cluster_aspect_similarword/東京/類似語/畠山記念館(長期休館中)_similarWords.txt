@@ -1,0 +1,17 @@
+--------------------similar_words:畠山記念館(長期休館中)--------------------
+top3 entities near to cluster1>>
+茶器, 茶道, 茶杓
+top3 entities near to cluster2>>
+駅, 駅前, 徒歩
+top3 entities near to cluster3>>
+建物, 茶室, 庭園
+top3 entities near to cluster4>>
+東洋, 美術, 西洋
+top3 entities near to cluster5>>
+記念, 館, 周年
+top3 entities near to cluster6>>
+美術品, 美術, 絵画
+top3 entities near to cluster7>>
+美術, 古, 骨董
+top3 entities near to cluster8>>
+展示品, 収蔵品, 展示, 収蔵

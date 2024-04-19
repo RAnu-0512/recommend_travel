@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西武鉄道 豊島園駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駅, 西武鉄道スタンプラリー, 豊島園, 乗り換え
+cluster1:(3)
+施設, 跡地, オープン予定
+cluster2:(1)
+日帰り温泉施設
+cluster3:(1)
+都立練馬城址公園
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

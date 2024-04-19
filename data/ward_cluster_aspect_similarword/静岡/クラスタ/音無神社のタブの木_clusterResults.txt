@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:音無神社のタブの木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+音無神社, 鬱蒼, 鎮守, 神社, 境内
+cluster1:(2)
+天然記念物タブの木, タブ
+cluster2:(2)
+幹回り, 幹
+cluster3:(7)
+こと, 天然記念物, 人, 源頼朝, 現地, 他, 見た目
+cluster4:(5)
+森, 樹, 古木, 木, 大木
+cluster5:(1)
+樹齢
+
+howmany entities : 22
+howmany clusters : 6
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 5entities.

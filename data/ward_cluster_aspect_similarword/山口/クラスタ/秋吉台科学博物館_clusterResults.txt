@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋吉台科学博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+施設, 秋吉台, サンゴ礁, 勉強, 博物館, 事, 右側, 方, 成り立ち, 近く, 歴史
+cluster1:(3)
+化石, 太古, 生物
+cluster2:(1)
+カルスト台地
+cluster3:(1)
+黒谷支洞
+cluster4:(3)
+入場無料, 駐車場, 秋吉台カルスト展望台
+cluster5:(1)
+秋芳洞
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

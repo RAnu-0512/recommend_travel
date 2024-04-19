@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あうるすぽっと>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, 東池袋駅
+cluster1:(2)
+池袋, 東池袋
+cluster2:(10)
+図書館, 奥あたり, ロビー, ところ, 劇場, 場所, サンシャイン, 地下道, 地上, イベント
+cluster3:(2)
+座席数, 地下階
+cluster4:(1)
+東京メトロ有楽町線
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

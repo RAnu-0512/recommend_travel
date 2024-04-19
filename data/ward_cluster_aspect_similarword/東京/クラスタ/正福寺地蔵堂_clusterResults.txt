@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正福寺地蔵堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+東京都, 西武線, 北山公園, 都, 西武国分寺線, 菖蒲園
+cluster1:(7)
+建築物, 建物内部, 屋根, 建物, 建築, 国宝建築, 国宝
+cluster2:(12)
+灯篭, 禅宗, 地蔵祭, 地蔵, 仏殿, 正福寺地蔵堂, 本殿, 鎌倉, 寺, 板碑, 地蔵堂, 境内
+cluster3:(4)
+貫禄, 風格, 趣, 年季
+cluster4:(4)
+文化, 名所, 地図, 東村山駅
+cluster5:(2)
+西武新宿線, 東村山
+cluster6:(2)
+ドーン, 雰囲気
+cluster7:(1)
+こと
+cluster8:(1)
+人気
+cluster9:(1)
+外部
+cluster10:(1)
+指定
+cluster11:(3)
+散歩, 見学, 建立
+cluster12:(1)
+代表作
+cluster13:(1)
+国宝木造建築物
+
+howmany entities : 46
+howmany clusters : 14
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 14
+deleted 0entities.

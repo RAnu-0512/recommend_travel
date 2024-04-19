@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:赤門(小石川後楽園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+赤, 色
+cluster1:(2)
+季節, 紅葉
+cluster2:(1)
+赤み
+cluster3:(10)
+門, 西側, 東京ドーム, 雰囲気, 場所, 外側, 側, 辺り, 奥, 赤門
+cluster4:(2)
+大泉水, 越川後楽園
+cluster5:(1)
+九八屋
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ehaco>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+車移動, 集合場所
+cluster1:(2)
+熱海, 長瀞
+cluster2:(3)
+魚, クルージング海, 海面
+cluster3:(11)
+今回, ポイント, 前回, うねり, それぞれ, 特徴, 笑, SUP, 奥多摩, コンディション, インストラクター
+cluster4:(1)
+前回熱海旅行
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 5entities.

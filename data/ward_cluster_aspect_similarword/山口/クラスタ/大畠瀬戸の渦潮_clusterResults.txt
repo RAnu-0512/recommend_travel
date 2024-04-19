@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大畠瀬戸の渦潮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+景色, 車
+cluster1:(3)
+上, 橋, 下
+cluster2:(1)
+運
+cluster3:(1)
+渦潮
+cluster4:(1)
+大島大橋
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

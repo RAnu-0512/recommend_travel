@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営三田線 日比谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+利用客, 開始時間
+cluster1:(2)
+有楽町, 日比谷
+cluster2:(2)
+ところ, 乗り換え
+cluster3:(2)
+三田線, 日比谷公園
+cluster4:(3)
+有楽町線, 地下鉄, 日比谷線
+cluster5:(2)
+賑わい, 中
+cluster6:(1)
+地下
+cluster7:(4)
+傘, 運賃, 天候, ホームドア
+cluster8:(1)
+帝国劇場
+cluster9:(10)
+各線, 日比谷駅, 千代田線, 駅, 江戸線, 乗換駅, 有楽町駅, 都営, 駅構内, 都営線
+
+howmany entities : 29
+howmany clusters : 10
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 10
+deleted 0entities.

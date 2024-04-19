@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梶栗浜遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石, 砂丘
+cluster1:(1)
+南北
+cluster2:(1)
+下関市街地
+cluster3:(1)
+海岸線
+cluster4:(1)
+梶栗浜遺跡
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西井堀せせらぎパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+jr新小岩駅, 新小岩駅
+cluster1:(6)
+公園, アクセス, 蔵前橋通り, 水, 距離, 交差点
+cluster2:(1)
+西井堀せせらぎパーク
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

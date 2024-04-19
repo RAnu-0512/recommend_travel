@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:呉市野外活動センター(つつじが丘キャンプ場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ボール蹴り, ボール投げ
+cluster1:(7)
+練習, 自転車, 大人, ダメ, 注意, 子ども, 地元民
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

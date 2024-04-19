@@ -1,0 +1,11 @@
+--------------------similar_words:妙見寺・妙見尊--------------------
+top3 entities near to cluster0>>
+京王, 小田急, モールアネックス
+top3 entities near to cluster1>>
+寺院, 寺, お寺
+top3 entities near to cluster2>>
+南口, 裏手, 北口
+top3 entities near to cluster3>>
+妙見, 宮, 宇都
+top3 entities near to cluster4>>
+神仏, 混淆, 習合

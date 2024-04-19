@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島田市博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+常設展示, 展示, 展示品, 企画展示
+cluster1:(9)
+大井川橋, 川越, 大名, 百人, 大井川, 川幅, 諏訪原城, ダム, 蓮台
+cluster2:(4)
+本館, 建物., 分館, 建物
+cluster3:(14)
+博物館, イベント, 水, 人, 歴史, 解説, 様子, 映像, 足, 中, 内容, 浮世絵, ビデオ, 他
+cluster4:(3)
+密集, 迫力, 充実
+cluster5:(1)
+長さ
+cluster6:(1)
+駐車場
+cluster7:(8)
+川越え制度, 島田宿, 武田勝頼, 島田市, 江戸時代の川越え, 徳川家康, 島田駅, 島田市博物館
+
+howmany entities : 44
+howmany clusters : 8
+howmany entities (more than3entities) : 42
+howmany clusters (more than3entities) : 6
+deleted 2entities.

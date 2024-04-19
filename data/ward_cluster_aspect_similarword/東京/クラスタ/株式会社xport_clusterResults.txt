@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:株式会社xport>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+小学生, 初心者, 仕上り, スタッフ, ブレスレット, 他, ホイップ, 感じ, ビーズ, 思い出, 妹, 体験, 姉さん, 方, ホイップデコ, 店内
+cluster1:(2)
+手芸, ビーズ制作
+cluster2:(1)
+姪っ子
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

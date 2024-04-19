@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小松楼まちづくり交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+旅籠紀伊国屋資料館, 小松楼まちづくり交流館
+cluster1:(2)
+置屋, 芸者置屋
+cluster2:(6)
+学習, 関連, 歴史, 場所, 歓楽街, 方
+cluster3:(5)
+土蔵, 庭, 平屋, 建物, 南側出入り口
+cluster4:(3)
+南隣, 大正, 明治
+cluster5:(6)
+芸者, 新居, 小料理屋, 旅籠紀伊国屋, 新居宿, 宿場街
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 4
+deleted 4entities.

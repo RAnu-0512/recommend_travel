@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡県立森林公園 森の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+地公体, 天竜市, 県立森林公園, 長野県, 二俣, 二俣本町
+cluster1:(4)
+宿泊先, 宿泊先探し, 宿泊施設, 宿泊
+cluster2:(7)
+対象, こと, アスレチックあり, 機会, 中, 感, 印象
+cluster3:(2)
+鬼無里, 天竜川
+cluster4:(2)
+ビジネスホテル, ネイチャーウォーク
+cluster5:(11)
+ベット, こだわり, レストラン, ウォシュレット, 日帰り, アスレチック, 気持ち, サイト, 今どき, バーベキュー, 森林公園
+cluster6:(2)
+森, 木
+cluster7:(1)
+東名
+cluster8:(7)
+朝食, 温泉, 法要, 宿, 旅館, 和食, 浴場
+cluster9:(2)
+公共, 屋外バーベキュー
+cluster10:(2)
+叔母, 子供
+cluster11:(2)
+家, 部屋
+cluster12:(4)
+近辺, 休日, 場所, 施設
+cluster13:(4)
+景色, 高台, 自然, 環境
+cluster14:(1)
+在住
+cluster15:(1)
+友達家族
+
+howmany entities : 58
+howmany clusters : 16
+howmany entities (more than3entities) : 43
+howmany clusters (more than3entities) : 7
+deleted 15entities.

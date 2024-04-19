@@ -1,0 +1,11 @@
+--------------------similar_words:奥多摩都民の森(体験の森)--------------------
+top3 entities near to cluster0>>
+施設, 拠点, 建物
+top3 entities near to cluster1>>
+大人, 子供, 森
+top3 entities near to cluster2>>
+お気, 為さる, くれぐれ
+top3 entities near to cluster3>>
+体験, 宿泊, 施設
+top3 entities near to cluster4>>
+森家, 冨家, 森, 冨

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:廃寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+文化財, 廃仏毀釈, 阿弥陀堂
+cluster1:(2)
+こと, 多く
+cluster2:(1)
+跡地
+cluster3:(5)
+寺, 大山寺阿弥陀堂, 寺院, 参道, 大山寺
+cluster4:(1)
+石材
+cluster5:(1)
+僧兵の道
+cluster6:(1)
+廃寺跡
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

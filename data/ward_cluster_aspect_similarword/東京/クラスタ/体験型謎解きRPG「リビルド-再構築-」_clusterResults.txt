@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:体験型謎解きRPG「リビルド-再構築-」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+謎, 本物
+cluster1:(12)
+スタッフ, 最後, オススメ, ヒント, 結果, 人, こだわり, 笑, やり取り, キャスト, キャラクター, ストーリー
+cluster2:(5)
+役者, 友達, 方, 友人, 方々
+cluster3:(1)
+機会
+cluster4:(5)
+脱出ゲーム, 駅, 到着, ビル, 位置
+cluster5:(1)
+世界観
+cluster6:(1)
+謎解き
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 7
+deleted 0entities.

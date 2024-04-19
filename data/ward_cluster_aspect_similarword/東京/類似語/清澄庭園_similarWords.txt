@@ -1,0 +1,23 @@
+--------------------similar_words:清澄庭園--------------------
+top3 entities near to cluster0>>
+泉水, 築山, 寶温
+top3 entities near to cluster1>>
+清水, 芝山
+top3 entities near to cluster4>>
+入場料, 入園料, 入場, 入園
+top3 entities near to cluster6>>
+カフェ, 入り口, 出入り口
+top3 entities near to cluster9>>
+値段, 価格, 定価
+top3 entities near to cluster10>>
+気分, 休日, 日々
+top3 entities near to cluster11>>
+友達, 友人, 知り合い
+top3 entities near to cluster12>>
+出張, 旅, 旅先
+top3 entities near to cluster13>>
+結婚, 披露宴, 結婚式
+top3 entities near to cluster14>>
+景色, 風景, 木々
+top3 entities near to cluster15>>
+庭園, 中庭, 園内

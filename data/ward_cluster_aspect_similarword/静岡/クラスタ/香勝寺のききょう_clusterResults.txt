@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香勝寺のききょう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桔梗, 桔梗寺
+cluster1:(2)
+ききょう庭園, ききょう
+cluster2:(3)
+満開, 散策, 訪れ
+cluster3:(5)
+目, 手入れ, 時期, ピンク色, オススメ
+cluster4:(2)
+言葉, 姿
+cluster5:(4)
+車, 斜面, 景色, 駐車
+cluster6:(12)
+日本三, 花畑, 地蔵, 紫, 音, 風鈴, 遠州森町スマートインター, 境内, 花, 星形, 山, 寺
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 6entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桂橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+修善寺温泉, 温泉街, 観光客, 湯
+cluster1:(3)
+橋めぐり, 橋, 桂橋
+cluster2:(14)
+紅葉, 利益, 大勢, 竹林, 混雑, 小径, 写真, 沿い, 周辺, 朱色, 恋, 遊歩道, 撮影スポット, モミジ
+cluster3:(2)
+独鈷, 桂川
+cluster4:(2)
+中心部, とっこ
+cluster5:(1)
+子宝祈願
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 5entities.

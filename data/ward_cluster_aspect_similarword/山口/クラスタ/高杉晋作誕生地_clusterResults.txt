@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高杉晋作誕生地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+展示品, 見学料, 建造物, 観覧料, 展示物, 入場料
+cluster1:(2)
+軒下, 屋内
+cluster2:(3)
+庭, 屋敷, 邸
+cluster3:(2)
+建物, 敷地
+cluster4:(2)
+部屋, 家
+cluster5:(2)
+写真, 場所
+cluster6:(1)
+部隊
+cluster7:(1)
+井戸
+cluster8:(1)
+白壁
+cluster9:(2)
+小銭, 少額
+cluster10:(9)
+生涯, 料金, 記念, 書物, 資料, 証, 史料, 銅像, 歴史
+cluster11:(3)
+見学, 用意, 案内
+cluster12:(4)
+一端, こと, 感じ, 範囲
+cluster13:(3)
+息子, 初湯, 妻
+cluster14:(3)
+中, 日本, 一部
+cluster15:(2)
+近く, 意外
+cluster16:(7)
+オススメ, 風雲児, ところ, 城下町, 街並み, 人, 人気者
+cluster17:(1)
+人気
+cluster18:(1)
+大人
+cluster19:(1)
+自作
+cluster20:(1)
+中高
+cluster21:(1)
+広さ
+cluster22:(17)
+生家, 観光客, 生誕地, 住宅街, 倒幕, 産湯, 作生誕, 誕生地, 作生家, 父親宅, 幕末, 句碑, 武家屋敷, 歌碑, 地, 志士, 奇兵隊
+cluster23:(22)
+高杉晋作生誕地, 高杉晋作, 晋作広場, 久坂玄端, 菊屋横丁, 萩城下町, 長州・萩, 藩校明倫館, 高杉家, 横丁, 萩, 萩城城下町並, 高杉晋作立志像, 長州藩, 菊屋横町, 人萩, 田中義一, 木戸孝允, 松門の双璧, 萩駅, 晋作, 萩出身
+
+howmany entities : 97
+howmany clusters : 24
+howmany entities (more than1entities) : 97
+howmany clusters (more than1entities) : 24
+deleted 0entities.

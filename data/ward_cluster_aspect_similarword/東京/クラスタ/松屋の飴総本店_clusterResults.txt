@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松屋の飴総本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+飴作り, 飴総本店, 飴, セキトメ飴, たんきり飴, きな粉飴, セキトリ飴
+cluster1:(5)
+柴又駅, 帝釈天参道, 柴又帝釈天, 参道, 柴又
+cluster2:(22)
+川甚, 雨, 途中, 店, 場所, 松屋, 老舗, 音, 寅, 人, トントン, 土産, 気持ち, 種類, 飴屋, 形, リズム, 手作り, 様子, こと, 帝釈天, 店内
+
+howmany entities : 34
+howmany clusters : 3
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 3
+deleted 0entities.

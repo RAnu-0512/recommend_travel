@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ソウル市場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食べ歩き, お勧め
+cluster1:(11)
+スナック菓子, メイン, スーパー, 子供, コリアンタウン, スナック, 韓国, キムチ, 女性, 大久保, ハードル
+cluster2:(2)
+場, 棚
+cluster3:(12)
+店, カップ麺, レジ, 接客, 食材, 菓子, 店員, 総菜コーナー, 食材専門スーパーマーケット, 新大久保駅, 料理, 店内
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

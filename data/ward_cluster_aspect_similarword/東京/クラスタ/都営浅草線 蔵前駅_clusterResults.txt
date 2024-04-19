@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営浅草線 蔵前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+コラボ, バンダイ, 浅草線, 駅, デジタルスタンプラリー, キャラクター, ビル, 乗り換え
+cluster1:(2)
+設置, 配布
+cluster2:(2)
+展示コーナー, 見学
+cluster3:(1)
+開催期間
+cluster4:(1)
+アニメ制作会社
+cluster5:(4)
+蔵前駅, 大江戸線, 台東区, 都営
+cluster6:(1)
+聖地巡礼マップ
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 7
+deleted 0entities.

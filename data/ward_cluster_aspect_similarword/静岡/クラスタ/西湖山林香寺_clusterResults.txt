@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西湖山林香寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+逸話, 境内, 駿河湾, 絶景, 趣味, 寺
+cluster1:(2)
+西湖, 由比
+cluster2:(1)
+鷹狩
+cluster3:(1)
+家康公
+cluster4:(1)
+隠居生活
+cluster5:(1)
+林香寺
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 6entities.

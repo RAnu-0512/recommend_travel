@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法華寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+静岡, 静岡市, 焼津, 富士, JR 焼津駅, 焼津港
+cluster1:(2)
+里, 寺
+cluster2:(11)
+名, 山登り, 初心者, こと, 四方八方, 境, 日本, 入口, 法華寺, 頂上, 山
+cluster3:(1)
+低め
+cluster4:(3)
+親戚, 利益, 親族
+cluster5:(1)
+花沢
+cluster6:(4)
+乳観音, プチ登山, 観光地, 安産
+cluster7:(1)
+満観峰
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 5entities.

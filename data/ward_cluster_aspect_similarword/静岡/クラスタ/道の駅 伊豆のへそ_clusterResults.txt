@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 伊豆のへそ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+土産, トイレ側, 駅スタンプ, 予定, 周り, ボンボンベリー店, 品, 駅, 機会, 種類, 店内, 感じ, 場所, 瓶, 誘惑, 道
+cluster1:(6)
+終わり, スイーツ, ホテル, 品ぞろえ, 原材料, トイレ
+cluster2:(5)
+イチゴ, いちごソフト, いちごグルメ, いちご, わさびソフトクリーム
+cluster3:(1)
+いちごPR
+cluster4:(1)
+伊豆
+cluster5:(1)
+いちご大福
+cluster6:(1)
+キャンピングカー
+cluster7:(6)
+駐車場, へそ店, へそ店内中央, 自動販売機, 産直市, 野菜果物
+
+howmany entities : 37
+howmany clusters : 8
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 4
+deleted 4entities.

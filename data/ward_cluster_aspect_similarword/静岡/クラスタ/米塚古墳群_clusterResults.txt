@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:米塚古墳群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+銚子塚古墳, 塚古墳群
+cluster1:(3)
+円墳, 古墳, 古墳時代
+cluster2:(2)
+磐田駅, 東海道線
+cluster3:(2)
+草, 米
+cluster4:(4)
+場所, 周囲, 比較, 駐車
+cluster5:(2)
+説明板, 高さ
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 8entities.

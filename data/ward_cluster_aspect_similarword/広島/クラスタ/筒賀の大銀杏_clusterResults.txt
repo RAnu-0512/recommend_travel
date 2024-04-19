@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:筒賀の大銀杏>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+広島県, 広島県天然記念物, 大歳神社, 山県郡, 安芸太田町, 広島県天然記念物の大銀杏
+cluster1:(3)
+国道, 指定天然記念物, 筒賀
+cluster2:(3)
+迫力, 香り, 気配
+cluster3:(2)
+黄金, 絨毯
+cluster4:(3)
+葉, 木, 県
+cluster5:(2)
+所, 場所
+cluster6:(10)
+落ち葉, 歴史, 上筒賀, かおり, 一面, 写真, 天然記念物, 気持ち, 見ごたえ, イチョウ
+cluster7:(5)
+秋, 時期, 周囲, 近く, 黄色
+cluster8:(5)
+銀杏, 巨樹, 境内全体, 境内, 大銀杏
+cluster9:(3)
+淡い期待, 辺り一面黄色, 推定樹齢
+cluster10:(1)
+;̄◇̄
+
+howmany entities : 43
+howmany clusters : 11
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京王電鉄府中駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+京王電鉄, 東京都, 府中本町駅, 京王府中, 府中市, 府中駅
+cluster1:(23)
+徒歩圏, 店, ステーション, 場所, 京王線, 遠征, 主要駅, 多く, 地方, 人, 重賞, 構造, 駅, 急行, 駅周辺, ビル, デザイン, 駅ナカ, 賑やかな駅, 競馬場, 周辺, 商業施設, 駅ビル
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 2
+deleted 0entities.

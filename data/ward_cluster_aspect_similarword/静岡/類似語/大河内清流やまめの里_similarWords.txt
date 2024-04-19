@@ -1,0 +1,15 @@
+--------------------similar_words:大河内清流やまめの里--------------------
+top3 entities near to cluster0>>
+山女魚, 鮎魚, 山女, 鮎
+top3 entities near to cluster2>>
+釣, 魚釣り
+top3 entities near to cluster5>>
+高校生, 初心者, 中学生
+top3 entities near to cluster6>>
+イワナ, ニジマス, アマゴ
+top3 entities near to cluster7>>
+子供, 家族
+top3 entities near to cluster8>>
+山道, 山, 里
+top3 entities near to cluster9>>
+家族, 時間, 滞在

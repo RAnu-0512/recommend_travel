@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:2.26事件慰霊像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+陸軍青年将校, 東京陸軍刑務所, 陸軍, 代々木練兵場, 陸軍刑務所, 反乱将校
+cluster1:(2)
+慰霊像, 慰霊碑
+cluster2:(17)
+場所, NHK, 行為, 慣習, 一角, 近所, 平和, 施設, 事件, 機会, 存在, 代々木公園, 鎮魂, 前, 日本, 像, 歴史
+cluster3:(2)
+渋谷公会堂, 永田事件
+cluster4:(1)
+クーデター未遂事件
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

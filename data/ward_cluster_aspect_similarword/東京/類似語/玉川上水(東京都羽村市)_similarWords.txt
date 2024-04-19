@@ -1,0 +1,11 @@
+--------------------similar_words:玉川上水(東京都羽村市)--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+上水, 用水, 水道
+top3 entities near to cluster2>>
+歴史, 源流, 緑
+top3 entities near to cluster3>>
+学習, 体験, 実践
+top3 entities near to cluster4>>
+取水, 堰, 堰堤

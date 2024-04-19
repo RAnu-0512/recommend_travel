@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧警察署>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+江戸時代, 明治, 時代, 天領, 幕府直轄
+cluster1:(18)
+期間, 家々, 白壁, 地方, 見張り櫓, 店, 建物, 解説板, 上, 町, 散策, 軒, こと, 場所, 様子, 屋根, 中心地, 上下
+cluster2:(3)
+食事屋, ひなさま, 代官所
+cluster3:(3)
+旧警察署, 府中市上下町, 警察署
+
+howmany entities : 29
+howmany clusters : 4
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 4
+deleted 0entities.

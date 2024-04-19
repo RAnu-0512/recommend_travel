@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝霧高原オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+写真, コテージ
+cluster1:(1)
+場所
+cluster2:(1)
+別
+cluster3:(1)
+奥
+cluster4:(1)
+屋根
+cluster5:(1)
+キャンプ場
+cluster6:(1)
+芝生
+cluster7:(1)
+富士ミルクランド
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

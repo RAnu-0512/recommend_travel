@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杉並公会堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+杉並公会堂, 荻窪駅
+cluster1:(11)
+クラッシックコンサート, 公会堂, 気持ち, 音響施設, 場所, 本番, ホール, カフェ, 観客, 吹奏楽, 舞台
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

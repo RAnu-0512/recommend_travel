@@ -1,0 +1,29 @@
+--------------------similar_words:吉香公園・錦帯橋_さくら--------------------
+top3 entities near to cluster0>>
+夕方, 午後, 昼
+top3 entities near to cluster1>>
+夫婦, 子供, 子ども
+top3 entities near to cluster2>>
+施設, 車両
+top3 entities near to cluster4>>
+季節, 春, 秋
+top3 entities near to cluster5>>
+名所, 穴場, オススメスポット
+top3 entities near to cluster6>>
+景色, 天気, 紅葉
+top3 entities near to cluster7>>
+混雑, 込み合う, 混む
+top3 entities near to cluster8>>
+公園, 散歩, 噴水
+top3 entities near to cluster9>>
+美しい, 素晴らしい, 力強い
+top3 entities near to cluster10>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster11>>
+香, 吉, 公園
+top3 entities near to cluster14>>
+夜桜, 見物, 花見
+top3 entities near to cluster15>>
+花見, 行楽, 観桜
+top3 entities near to cluster16>>
+桜, 満開, 八重桜

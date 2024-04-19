@@ -1,0 +1,33 @@
+--------------------similar_words:爆心地(島病院)--------------------
+top3 entities near to cluster0>>
+平和, 記念, 館
+top3 entities near to cluster1>>
+爆弾, 原子, 核
+top3 entities near to cluster2>>
+爆心地, 爆心, 被爆地, 被爆
+top3 entities near to cluster3>>
+原爆, 被爆, 核兵器
+top3 entities near to cluster4>>
+原爆, ドーム, 被爆
+top3 entities near to cluster5>>
+内科, 病院, 医院
+top3 entities near to cluster7>>
+戦争, 復興, 平和
+top3 entities near to cluster10>>
+上空, 建物, 地上
+top3 entities near to cluster11>>
+胸心, 胸, 奥底
+top3 entities near to cluster13>>
+資料, 歴史, 史料
+top3 entities near to cluster14>>
+市街地, 市街, 記念碑
+top3 entities near to cluster15>>
+看板, 写真, 目印
+top3 entities near to cluster16>>
+家族
+top3 entities near to cluster17>>
+距離, 至近, 射程
+top3 entities near to cluster18>>
+石碑, 銅像
+top3 entities near to cluster20>>
+29, 11, 月

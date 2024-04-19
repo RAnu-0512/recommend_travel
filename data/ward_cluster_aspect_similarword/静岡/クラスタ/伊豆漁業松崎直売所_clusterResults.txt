@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆漁業松崎直売所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+アジ, 値段, 煮付け, 町並み, 土産, 家族, 時間, 鯛コース, 訂正, オススメ, 干物, 口コミ, 海鮮, 張り紙, 刺身・しゃぶしゃぶ
+cluster1:(3)
+豪華金, 定休日, 松崎町
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

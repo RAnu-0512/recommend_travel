@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:板橋区立郷土資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+右折表示版, 案内表示
+cluster1:(2)
+常設展示, 屋外展示品
+cluster2:(17)
+高島平駅, 西高島平駅, 都営地下鉄, ところ, 古民家, トンネル, 下車, スタンプラリー, 徒歩, 美術館, 歩道橋, 歴史, 勉強, 滝公園, 指示, 丸源ラーメン, 東京大仏
+cluster3:(6)
+板橋区立赤塚植物園, 赤塚城址公園, 板橋区立郷土資料館, 赤塚溜池公園, 板橋区, 郷土資料館
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

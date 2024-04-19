@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湖畔の陶工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+楽しさ, 工夫方法
+cluster1:(15)
+陶芸, こと, 体験コース, 最初, 体験, 事, 時間, 先生, 方, 手元, 教室, 旅, リスク, 作品, 女性
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 1
+deleted 2entities.

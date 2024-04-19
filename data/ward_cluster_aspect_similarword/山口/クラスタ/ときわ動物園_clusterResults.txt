@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ときわ動物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ときわ公園, 公園, 園内
+cluster1:(8)
+規模, 場所, 種類, 飲食スペース, 時間, 環境, 系, 国内
+cluster2:(2)
+姿, 声
+cluster3:(4)
+子供, 家族, 大人, 人
+cluster4:(2)
+カピバラ, アルパカ
+cluster5:(4)
+リニューアル, ランニング, コツメカワウソ, ウォーキング
+cluster6:(1)
+見ごたえ
+cluster7:(1)
+ふれあいコーナー
+cluster8:(1)
+ココ
+cluster9:(1)
+半額
+cluster10:(5)
+サル, 枝, 檻, 天気, 木陰
+cluster11:(4)
+同居展示, 展示, 滞在時間, 動線
+cluster12:(4)
+動物, 動物たち, 野生動物, 異種動物
+cluster13:(4)
+旭山動物園, ミニ動物園, ときわ動物園, 動物園
+
+howmany entities : 44
+howmany clusters : 14
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 14
+deleted 0entities.

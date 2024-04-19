@@ -1,0 +1,43 @@
+--------------------similar_words:駿河湾フェリー--------------------
+top3 entities near to cluster1>>
+フェリー, カーフェリー, 軽自動車
+top3 entities near to cluster2>>
+サービス, スタッフ, イベント
+top3 entities near to cluster3>>
+たこ焼き, 飲み物, コーヒー
+top3 entities near to cluster4>>
+行き先, 乗り場, ルート
+top3 entities near to cluster5>>
+トイレ, フロア, 待合室
+top3 entities near to cluster6>>
+雰囲気, 気持ち, 貼り紙
+top3 entities near to cluster8>>
+眺め, 見物, 姿
+top3 entities near to cluster9>>
+景色, 絶景, 山肌
+top3 entities near to cluster11>>
+皆人, 大勢, 皆
+top3 entities near to cluster12>>
+客室, 番組, フロア
+top3 entities near to cluster13>>
+裾
+top3 entities near to cluster15>>
+海船, 海, 海上
+top3 entities near to cluster17>>
+乗船, 船旅, 船内
+top3 entities near to cluster18>>
+料金, 割引, 割引き
+top3 entities near to cluster19>>
+県道, 国道, 旧道
+top3 entities near to cluster20>>
+旅, 周遊, 温泉
+top3 entities near to cluster21>>
+バス, 高速, 道路
+top3 entities near to cluster22>>
+到着, 昼食
+top3 entities near to cluster23>>
+片道, 運賃, 半額
+top3 entities near to cluster24>>
+運転, 運行, 航行
+top3 entities near to cluster25>>
+目的, 期間, 記念

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋川ファーマーズセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(30)
+農産物, 野市, 食事, 畑, 値段, 花, スーパー, 人, 人気, 状態, 他, 五日市, 鉢植え, 手作りパン, 近所, 地域, ファーマーズセンター, 都, レストラン, パン, 手, JA, 買い物, バーベキューコーナー, 軽食コーナー, こと, 農作物, 地元, 隣接, もの
+cluster1:(2)
+特産物, 特産品
+cluster2:(3)
+野菜, 地元野菜, 新鮮野菜
+cluster3:(4)
+駐車場, 農産物直売所, 街道沿い, 直売所
+cluster4:(4)
+秋川地区, 黒毛和牛, 都内最大級, 秋川牛
+
+howmany entities : 43
+howmany clusters : 5
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 5
+deleted 0entities.

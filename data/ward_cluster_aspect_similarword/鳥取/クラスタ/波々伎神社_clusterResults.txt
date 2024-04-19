@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:波々伎神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+波波伎神社, 波々伎神社
+cluster1:(22)
+重み, 倉吉市, 倉吉駅, 参道, 福庭, 中心, 社叢, 福庭古墳, 国, 神社, 照葉樹林帯, 歴史, 鳥居, 巨木, 石段, 社殿, 古来, 鳥取県, 倭文神社, 雰囲気, スダジイ, 古社
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

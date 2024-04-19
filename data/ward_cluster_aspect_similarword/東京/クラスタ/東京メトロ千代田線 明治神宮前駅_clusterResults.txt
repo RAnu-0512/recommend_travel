@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線 明治神宮前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+明治神宮駅, 明治神宮
+cluster1:(9)
+誕生, ホーム, ラッシュ時, エリア, 神宮, 雰囲気, 東京メトロ, 明治, 乗り換え
+cluster2:(7)
+原宿, 駅, 原宿駅, JR原宿駅, 神宮前駅, 駅周辺, 乗換駅
+cluster3:(3)
+副都心線, 千代田線, JR線
+cluster4:(1)
+乗降客数
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

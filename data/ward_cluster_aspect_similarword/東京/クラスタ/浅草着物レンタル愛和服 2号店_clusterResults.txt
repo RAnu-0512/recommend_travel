@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草着物レンタル愛和服 2号店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+推し活, 浅草観光, 浅草, 大正ロマン, 浅草愛和服店
+cluster1:(10)
+浴衣, 着物レンタル, 和服レンタル店, 着物着, 和服, 振袖, レース浴衣, 和服文化, レース着物, 着物
+cluster2:(4)
+袴, 卒業式, 袴レンタル, 卒業袴
+cluster3:(43)
+定員, 店, サポート, スタッフ, もの, 笑顔, 値段, 自信, 髪型, 人気, それぞれ, 種類, 着付け, メール, 着用, 接客, 駅, フレンドリー, 助言, 見学, 体験, 柄, 機会, プラン, 店員, 予約, 下見, 印象, 髪, 時間, デザイン, 魅力, 対応, 方, 居心地, 問い合わせ, 友人, コース, サイズ, And the flow is very smooth, スタイル, 方々, ヘアセット
+
+howmany entities : 62
+howmany clusters : 4
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 4
+deleted 0entities.

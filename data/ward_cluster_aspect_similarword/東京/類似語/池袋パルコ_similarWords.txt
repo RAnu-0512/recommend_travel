@@ -1,0 +1,89 @@
+--------------------similar_words:池袋パルコ--------------------
+top3 entities near to cluster1>>
+西武, 東武, 西武鉄道
+top3 entities near to cluster7>>
+パルコ店, パルコ, シネマロサ
+top3 entities near to cluster9>>
+東口, 駅, 南口
+top3 entities near to cluster12>>
+デパート, バーゲン, 百貨店
+top3 entities near to cluster13>>
+アパレル, ブランド, ブティック
+top3 entities near to cluster14>>
+スタイル, イメージ, コンセプト
+top3 entities near to cluster15>>
+アイテム, イベント, コンテンツ
+top3 entities near to cluster16>>
+ファッション, インテリア, デザイン
+top3 entities near to cluster17>>
+レディス, レディース, メンズ
+top3 entities near to cluster18>>
+シューズ, スニーカー, 靴
+top3 entities near to cluster19>>
+Tシャツ, タオルケット, Ｔシャツ
+top3 entities near to cluster20>>
+アクセス, 貸し出し, アンテナ
+top3 entities near to cluster21>>
+おすすめ, メイン, オススメ
+top3 entities near to cluster22>>
+スヌーピータウンショップ, ショッピングビル, ハローキティカフェ
+top3 entities near to cluster23>>
+レストラン, イタリアン, ビアガーデン
+top3 entities near to cluster25>>
+スイーツ, チョコレート, パンケーキ
+top3 entities near to cluster26>>
+アニメイト, タワレコ, コラボカフェ
+top3 entities near to cluster28>>
+ランチ, オシャレランチ, カフェ
+top3 entities near to cluster29>>
+ダンス, ショー, フラダンス
+top3 entities near to cluster30>>
+アニメ, オタク, 文房具
+top3 entities near to cluster31>>
+シャツ, バンド, グッチ
+top3 entities near to cluster32>>
+シーン, 気持ち, 場面
+top3 entities near to cluster33>>
+シート, トイレ, オシッコシート
+top3 entities near to cluster34>>
+ショッピング, エリア, センター
+top3 entities near to cluster35>>
+カード, アプリ, カードアプリ
+top3 entities near to cluster36>>
+ショップ, 店舗, デパート
+top3 entities near to cluster37>>
+洋服屋, 雑貨屋, 雑貨, 洋服
+top3 entities near to cluster38>>
+小物類, 雑貨類, 小物, 雑貨
+top3 entities near to cluster39>>
+雑貨, 雑貨店, カフェクリエイター
+top3 entities near to cluster40>>
+勧め, 奨め
+top3 entities near to cluster41>>
+若者, 子供, 子ども
+top3 entities near to cluster42>>
+家族連れ, 友達, 家族
+top3 entities near to cluster43>>
+洋服, 靴, 靴下
+top3 entities near to cluster44>>
+屋外, 天候
+top3 entities near to cluster45>>
+繁華街, 繁華, 仕事場
+top3 entities near to cluster46>>
+買い物帰り, 買物, 買い物
+top3 entities near to cluster47>>
+食事, ご飯, 料理
+top3 entities near to cluster48>>
+出張, 旅, 旅先
+top3 entities near to cluster49>>
+監視, カメラ
+top3 entities near to cluster51>>
+ファッション, 系列
+top3 entities near to cluster52>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster53>>
+時間, 期間
+top3 entities near to cluster54>>
+東口, 南口, 駅
+top3 entities near to cluster55>>
+本館, 屋上

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鞆の浦観光情報センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+お土産屋, 土産屋, 実質お土産屋
+cluster1:(3)
+土産探し, 土産, 土産品
+cluster2:(31)
+マップ, 朝食, 駐車場, パネル, お腹, 拠点, 前進駐車, ボランティアガイド, バック駐車, 資料, 手, 土産物, バス停, 客, パンフレット, 目, マイカー, 人, 資料館, 情報, ホテル, 案内板, 前, 私一, 予定, 買い物, 他, 奥, こと, バイキング, 役立つ情報
+cluster3:(3)
+浦観光, 鞆, 浦
+cluster4:(2)
+鞆鉄バスセンター, 福山駅
+cluster5:(8)
+観光情報, 観光マップ, 観光地, 観光, ロケ地情報, 観光情報センター, 観光面, 観光パンフレット
+
+howmany entities : 50
+howmany clusters : 6
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 6
+deleted 0entities.

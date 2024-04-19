@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東神田繊維街>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+婦人服, 寝具類, 紳士服, 衣料品
+cluster1:(2)
+貝印製品, 貝印
+cluster2:(2)
+東神田一丁目, 岩本町
+cluster3:(2)
+問屋, 問屋街
+cluster4:(5)
+東神田ファミリーバザール時期, オフィス街, 街, 東神田ファミリーバザール, 町内
+cluster5:(13)
+セール, 小売り, 場所, 開催, 馬喰町, 西側, バザール, ファミリーバザール, 出店, 個人, 原則, 注意, レパートリー
+cluster6:(5)
+本社, 洋服, 服飾, 生地, 卸売
+cluster7:(1)
+気味気
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 8
+deleted 0entities.

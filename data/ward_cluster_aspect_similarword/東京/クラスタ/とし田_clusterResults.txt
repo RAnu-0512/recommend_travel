@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:とし田>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+京葉道路, 京葉道路沿いの和菓子屋
+cluster1:(10)
+相撲, 和菓子屋, 和菓子, 両国力士最中, 土産, 焼き, 町, すもうねこ, 猫, 両国
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

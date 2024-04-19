@@ -1,0 +1,11 @@
+--------------------similar_words:長谷寺の絵馬群--------------------
+top3 entities near to cluster0>>
+寺, 本堂, 境内
+top3 entities near to cluster2>>
+木板, 土板, 木, 土
+top3 entities near to cluster3>>
+駐車場, 駐車, 海水浴場, 海水浴
+top3 entities near to cluster4>>
+絵馬, 拝観, 境内
+top3 entities near to cluster5>>
+有形, 文化財, 無形

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ガラス工房 CLOVER>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+吹きガラス体験, ガラス吹き体験子供たち
+cluster1:(4)
+ガラス玉, とんぼ玉, トンボ玉, とんぼ玉作り
+cluster2:(2)
+工程, 作業
+cluster3:(3)
+コップ, ガラス, グラス
+cluster4:(2)
+思い出, 小学生
+cluster5:(6)
+スタッフ, 作り方, クーポン, 出来上がり, 出来栄え, 待ち時間
+cluster6:(1)
+SNS
+cluster7:(1)
+上がり
+cluster8:(10)
+完成, 今回, 方, 想像, もの, 失敗, 笑, 機会, 形, 説明
+cluster9:(16)
+主人, 笑顔, 記念, 工房, 家族, 家, 娘, 友人, 店, 時間, 旅行, 宝物, 子供, 夫婦, 散歩, 先生
+cluster10:(6)
+雨, 傘, 紐, 柄, 盆, 色
+cluster11:(11)
+ガラス体験, 高校時代, 作品達, 体験, 行き道, 子ども達, 作り体験, 行き下, 楽しさ, 子供たち, 作品
+
+howmany entities : 64
+howmany clusters : 12
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 7
+deleted 8entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日比谷公園の梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+心, 植物, 花
+cluster1:(11)
+季節, 場所, 多く, 人, 木, 姿, 日比谷, 時期, 年, 前, 日比谷公園
+cluster2:(4)
+公園, 東京駅, 噴水あたり, 気温
+cluster3:(5)
+開花時期, 白梅, 梅, 桜, 満開
+cluster4:(1)
+薄紅色
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

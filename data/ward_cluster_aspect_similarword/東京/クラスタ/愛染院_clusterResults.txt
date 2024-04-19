@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛染院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+御本尊, 案内図, 説明書き
+cluster1:(5)
+堂前, 新宿駅, 四ツ谷駅, 新宿, 四ツ谷小学校
+cluster2:(8)
+途中, 入口, ローソン100, 谷, 入り口, 登り, 路地, 階段
+cluster3:(5)
+寺院, 寺, 境内, 真言, 史跡
+cluster4:(3)
+四谷須賀神社, 東福院坂, 愛染院
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

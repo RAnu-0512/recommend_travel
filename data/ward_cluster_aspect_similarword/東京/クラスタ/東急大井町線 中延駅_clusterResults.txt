@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急大井町線 中延駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+中延商店街, 荏原中延駅, 中延駅
+cluster1:(2)
+都営浅草線, 都営
+cluster2:(4)
+のりかえ, 東急, 浅草線, 乗り換え
+cluster3:(3)
+駅, 改札, 駅周辺
+cluster4:(4)
+商店, 立ちそばや, 商店街, 飲食店
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

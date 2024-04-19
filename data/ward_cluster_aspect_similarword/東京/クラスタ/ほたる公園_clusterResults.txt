@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ほたる公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+開催, 祭り, 夏
+cluster1:(2)
+場所, 近く
+cluster2:(3)
+ホタル, 方, イベント
+cluster3:(1)
+食事
+cluster4:(1)
+公園
+cluster5:(3)
+坂, 蛍, 料亭
+cluster6:(3)
+混雑, 注意祭り, 天候
+cluster7:(1)
+駐車場
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

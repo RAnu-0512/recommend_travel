@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いがいが根>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+曇り, 景色, 散歩, 天気
+cluster1:(2)
+猫, 野良猫
+cluster2:(8)
+帰りがけ, スニーカー, 割れ目, ネーミング, おまけ, アップダウン, スポット, 贈り物
+cluster3:(11)
+目, 大昔, 人, 様子, 中, 名前, 近く, 子供, 前, 人達, 道
+cluster4:(1)
+徒歩
+cluster5:(1)
+鳥肌
+cluster6:(15)
+駐車場, 大島, 岩場, 根, 海岸, 林, 火山, 溶岩, 波, 海, 猫餌, 海岸線, 釣り人, 岩, 崖
+
+howmany entities : 42
+howmany clusters : 7
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 4
+deleted 4entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日韓友好交流公園「風の丘」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+友好, 公園, 石像, 石, 風車
+cluster1:(13)
+大山, 船, 多く, 目, こと, 地, 史実, 韓国, 隣, 永遠, 日, これ風, 日本海
+cluster2:(1)
+日韓友好資料館
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

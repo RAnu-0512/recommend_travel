@@ -1,0 +1,35 @@
+--------------------similar_words:道の駅 舞ロードIC千代田--------------------
+top3 entities near to cluster0>>
+販売, 営業, 物販
+top3 entities near to cluster1>>
+休憩, 昼食, 一休み
+top3 entities near to cluster2>>
+目印, 入口, 入り口
+top3 entities near to cluster3>>
+太鼓, 和, チャッパ
+top3 entities near to cluster4>>
+料理, 食事, 食材
+top3 entities near to cluster5>>
+野菜, 食材, 果物
+top3 entities near to cluster6>>
+響, ＨＩＢＩＫＩ, 騒曲
+top3 entities near to cluster7>>
+神楽, 天狗, 奈楽
+top3 entities near to cluster8>>
+饅頭, まんじゅう, もち
+top3 entities near to cluster9>>
+駅, レストラン, 駅前
+top3 entities near to cluster12>>
+特産品, 特産, 名産品, 名産
+top3 entities near to cluster13>>
+土産, おみやげ, みやげ
+top3 entities near to cluster14>>
+直送, 産地, 名産
+top3 entities near to cluster15>>
+生鮮, 野菜, 魚介
+top3 entities near to cluster16>>
+・・・・・, ・・・・・・・・, ・・・・
+top3 entities near to cluster18>>
+案内書, 案内, パンフレット
+top3 entities near to cluster19>>
+バス, 高速, 道路

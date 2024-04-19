@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白鳥古墳 付陪_及び周濠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+白鳥古墳, 古墳時代中期, 古墳
+cluster1:(4)
+全長, 規模, 付陪塚, 前方
+cluster2:(2)
+山口県, 平生町
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:清水山の森--------------------
+top3 entities near to cluster0>>
+緑, 自然, 豊か
+top3 entities near to cluster1>>
+花, 季節, お花
+top3 entities near to cluster2>>
+見方, 考え方, 見解
+top3 entities near to cluster3>>
+群生, 自生, 群落

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:うさぎカフェ もふれる>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スタッフ, コーナー
+cluster1:(1)
+思う存分
+cluster2:(1)
+雰囲気
+cluster3:(1)
+うさぎ
+cluster4:(1)
+ゲージ
+cluster5:(1)
+人
+cluster6:(1)
+時間
+cluster7:(1)
+店
+cluster8:(1)
+ふもふ
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

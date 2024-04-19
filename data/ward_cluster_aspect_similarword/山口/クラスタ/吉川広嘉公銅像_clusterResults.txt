@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉川広嘉公銅像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+前, 改修工事, 岩国藩, 橋, 錦帯橋, 建設者, 建造, 公園, 吉香公園, 現代, 錦川, 目, そば, 入口, 銅像, 人, 藩主
+cluster1:(3)
+岩国藩三代目藩主, 吉川広嘉公, 領主吉川広嘉公
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

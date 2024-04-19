@@ -1,0 +1,33 @@
+--------------------similar_words:鬼ヶ城--------------------
+top3 entities near to cluster0>>
+山道, 子供, 公園
+top3 entities near to cluster1>>
+コース, フォレストコース, ハイキング
+top3 entities near to cluster2>>
+道のり, 初心者, 気持ち
+top3 entities near to cluster3>>
+言い伝え, イメージ, 俗説
+top3 entities near to cluster4>>
+おすすめ, オススメ, お薦め
+top3 entities near to cluster5>>
+ハイキング, トレッキング, ドライブ
+top3 entities near to cluster7>>
+山小屋, 小屋, ログハウス
+top3 entities near to cluster8>>
+街並み, 町並み, 町並
+top3 entities near to cluster10>>
+子分, 手下
+top3 entities near to cluster11>>
+果て, 苦心
+top3 entities near to cluster12>>
+近辺, 周辺, 地元
+top3 entities near to cluster13>>
+眺め, 表示, 眺める
+top3 entities near to cluster15>>
+いきん, ぐとか, ぐと
+top3 entities near to cluster16>>
+景色, 眺望, 山頂
+top3 entities near to cluster17>>
+登山, 山頂, 林道
+top3 entities near to cluster18>>
+陰, 鬼, 霞

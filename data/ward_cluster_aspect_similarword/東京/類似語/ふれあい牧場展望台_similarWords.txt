@@ -1,0 +1,9 @@
+--------------------similar_words:ふれあい牧場展望台--------------------
+top3 entities near to cluster0>>
+展望台, 展望, 駐車台, 駐車
+top3 entities near to cluster2>>
+牧場, 農場, 酪農
+top3 entities near to cluster3>>
+海風, 霧風, 海, 霧
+top3 entities near to cluster4>>
+景色, 車窓, 山頂

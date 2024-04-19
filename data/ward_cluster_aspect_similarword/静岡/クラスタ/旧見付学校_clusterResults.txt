@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧見付学校>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日本最古の木造疑似洋風小学校, 日本最古の木造擬洋風小学校
+cluster1:(4)
+磐田文庫, 木造小学校舎, 見付学校, 見付
+cluster2:(20)
+左右対称, 建物内部, 開校, 校舎, 学校, 昔, ウサギ, 木造, 教室風景, 授業, 階段, 生徒, 人形, 明治, 子供, 建物, 先生, 最上階, 日本最古, 価値
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 2entities.

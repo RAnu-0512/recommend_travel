@@ -1,0 +1,21 @@
+--------------------similar_words:大神山神社奥宮--------------------
+top3 entities near to cluster0>>
+休憩場, 駐車場, 駐車, 休憩
+top3 entities near to cluster1>>
+階段, 石段, 石畳
+top3 entities near to cluster2>>
+裏門, 扉
+top3 entities near to cluster3>>
+登山, 山登り, ハイキング
+top3 entities near to cluster4>>
+積雪, 降雪
+top3 entities near to cluster5>>
+霧, 雲, モルエラニ
+top3 entities near to cluster6>>
+景色, 景観, 新緑
+top3 entities near to cluster7>>
+改装, 訪問, 改築
+top3 entities near to cluster8>>
+撮影, 逆光, 写真
+top3 entities near to cluster10>>
+神社, 境内, 本殿

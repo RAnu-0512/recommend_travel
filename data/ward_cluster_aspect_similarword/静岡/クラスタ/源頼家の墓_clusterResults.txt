@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:源頼家の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+指月堂, 指月殿, 元久元年, 若さゆえに御家人
+cluster1:(5)
+ブラック集団・北条, 鎌倉, 北条, 鎌倉幕府, 伊豆修善寺
+cluster2:(4)
+墓石, 墓, 石, 伺い石
+cluster3:(2)
+座, 地位
+cluster4:(7)
+興味, 願い, こと, もの, 感じ, 反発, ほう
+cluster5:(6)
+道, 徒歩, 境内, 正面, 広場, 方面
+cluster6:(3)
+人生, 歴史, 時代
+cluster7:(4)
+御家人, 母, 家, 子
+cluster8:(4)
+最後, 隣, 中, 場所
+cluster9:(1)
+そば
+cluster10:(1)
+地
+cluster11:(4)
+修禅寺, 森, 修善寺, ここ修善寺
+cluster12:(1)
+入浴
+cluster13:(1)
+桂川
+cluster14:(1)
+冥福
+cluster15:(9)
+権力争い, 家臣, 頼家, 将軍, 頼朝, 在位, 観光客, 将軍職, 源氏公園
+cluster16:(8)
+鎌倉殿・源頼, 鎌倉二代将軍, 源頼家関連, 源頼家, 鎌倉幕府二代将軍, 源頼家の墓, 鎌倉二代目将軍, 鎌倉2代将軍・源頼家
+
+howmany entities : 65
+howmany clusters : 17
+howmany entities (more than3entities) : 58
+howmany clusters (more than3entities) : 11
+deleted 7entities.

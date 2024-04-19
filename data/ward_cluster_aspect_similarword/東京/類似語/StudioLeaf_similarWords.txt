@@ -1,0 +1,9 @@
+--------------------similar_words:StudioLeaf--------------------
+top3 entities near to cluster0>>
+ヨガ, ヨーガ, ピラティス
+top3 entities near to cluster1>>
+先生, インストラクター
+top3 entities near to cluster2>>
+予定, 配慮
+top3 entities near to cluster3>>
+安全, 衛生面, 衛生

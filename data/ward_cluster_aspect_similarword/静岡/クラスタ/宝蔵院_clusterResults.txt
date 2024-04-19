@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝蔵院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+霊石, 竹に虎, 命石
+cluster1:(3)
+書体, 欄間, 彫刻
+cluster2:(10)
+曹洞宗, こと, 関連, 弘法大師, 修善寺, 伝説, 近辺, 花, 地区, 季節
+cluster3:(3)
+趣, 表情, 威厳
+cluster4:(1)
+撫
+cluster5:(10)
+駐車場, 表門, 創建, 空海, 山門, 古寺, 船原山, 本堂左側, 山号, 寺
+cluster6:(1)
+書道学芸
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than3entities) : 29
+howmany clusters (more than3entities) : 5
+deleted 2entities.

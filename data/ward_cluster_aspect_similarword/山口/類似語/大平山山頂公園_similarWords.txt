@@ -1,0 +1,17 @@
+--------------------similar_words:大平山山頂公園--------------------
+top3 entities near to cluster0>>
+天気, 気分, 景色
+top3 entities near to cluster1>>
+島, 海, 海辺
+top3 entities near to cluster2>>
+アスレチック, オススメ, おすすめ
+top3 entities near to cluster3>>
+ツツジ, つつじ, シャクナゲ
+top3 entities near to cluster4>>
+子供, 子ども, 大人
+top3 entities near to cluster5>>
+文字, 漢字, アルファベット
+top3 entities near to cluster6>>
+山頂, 頂上, 中腹
+top3 entities near to cluster8>>
+広場, 公園, 遊具

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:首切り地蔵(小塚原刑場跡)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+小塚原刑場, 首切地蔵, 刑場, 地蔵菩薩像, 南の鈴ヶ森刑場
+cluster1:(2)
+江戸, 江戸時代
+cluster2:(2)
+地蔵, 首切り地蔵
+cluster3:(10)
+正面, カメラ, 人, ガイドツアー, 延命寺, 墓, 解説, スポット, 日比谷線, 境内
+cluster4:(3)
+南口, 跡, 跡地
+cluster5:(1)
+別院
+cluster6:(5)
+鉄道建築, 回向院, JR南千住駅, 南千住駅, 吉田松陰
+cluster7:(1)
+あらかわくまちあるきマップ
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 8
+deleted 0entities.

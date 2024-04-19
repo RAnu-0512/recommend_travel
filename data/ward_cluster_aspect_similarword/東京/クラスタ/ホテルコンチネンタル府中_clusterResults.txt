@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルコンチネンタル府中>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+一口丼, 食べ盛り, 天ぷら食べ放題, 飲み放題, 食べ放題, 食べき
+cluster1:(8)
+鯛, 寿司, 野菜, 中華, 前菜, 和洋, 皿, 料理
+cluster2:(17)
+場所, 開催, 他, 消化, 気, 場, 種類, 感じ, フェア内容, 事, 味, 前, 評判, 期限, 方, おいしさ, もの
+cluster3:(2)
+ホテル, ビジネスホテル
+cluster4:(10)
+スタッフ, メイン, ポイント, トイレ, 小さめ, サイト, カジュアル, コース, 雰囲気, フェア
+cluster5:(2)
+ホタテ, マグロ
+cluster6:(2)
+ケーキ, プリン
+cluster7:(2)
+バイキング, デザート
+cluster8:(3)
+オムレツ, オムライス, 焼きそば
+cluster9:(2)
+すき焼き, スペアリブ
+cluster10:(1)
+サラダ
+cluster11:(1)
+ワイン
+cluster12:(1)
+家族
+cluster13:(1)
+青森フェア
+cluster14:(9)
+卵料理, 生卵, 焼き野菜, 期間限定ポイント, ブランド卵, 冷製スープ, 自社農場, 生姜焼き, 卵
+
+howmany entities : 67
+howmany clusters : 15
+howmany entities (more than1entities) : 67
+howmany clusters (more than1entities) : 15
+deleted 0entities.

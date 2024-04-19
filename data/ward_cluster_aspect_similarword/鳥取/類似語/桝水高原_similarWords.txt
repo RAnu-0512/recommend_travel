@@ -1,0 +1,19 @@
+--------------------similar_words:桝水高原--------------------
+top3 entities near to cluster0>>
+ゲレンデ, スキー, スノーボード
+top3 entities near to cluster1>>
+子供, 子ども, 大人
+top3 entities near to cluster2>>
+近辺, 拠点
+top3 entities near to cluster4>>
+中腹, 山麓, 山頂
+top3 entities near to cluster5>>
+稜線, 景色, 道路
+top3 entities near to cluster6>>
+木々, 植物, 樹木
+top3 entities near to cluster7>>
+斜面, 地面, 急斜面
+top3 entities near to cluster9>>
+大山, 高原, 温泉
+top3 entities near to cluster10>>
+駐車場, 駐車, 場裏

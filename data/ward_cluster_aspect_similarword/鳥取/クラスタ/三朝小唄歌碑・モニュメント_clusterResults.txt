@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三朝小唄歌碑・モニュメント>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+河原風呂, 河原
+cluster1:(2)
+小唄, 詩碑
+cluster2:(19)
+モニュメント, 名物, 日本, 映画, 曲, 全国, クライマックスシーン, ワンシーン, 斜め向かい, 入り口, 中心地, 像, 昭和, 近く, 脇, 作詞, 温泉, たもと, 階段
+cluster3:(1)
+プラ座
+cluster4:(4)
+野口雨情, 童謡詩人, 北原白秋, 中山晋平
+cluster5:(7)
+恋愛無声映画, 無声映画, 温泉街メイン, 三朝小唄, 温泉街側, 三朝温泉街, 三朝橋
+
+howmany entities : 35
+howmany clusters : 6
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 6
+deleted 0entities.

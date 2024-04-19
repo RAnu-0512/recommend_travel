@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホロンゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+初心者, コース
+cluster1:(1)
+人気
+cluster2:(1)
+設備
+cluster3:(1)
+ゴルフ場
+cluster4:(1)
+丘陵コース
+cluster5:(1)
+菊川市
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:浜岡原子力発電所--------------------
+top3 entities near to cluster0>>
+展望台, 展望, 展望室
+top3 entities near to cluster1>>
+子供, 子ども, 親達
+top3 entities near to cluster2>>
+地震, 震災, 大震災
+top3 entities near to cluster3>>
+施設, 電気, 工事
+top3 entities near to cluster4>>
+子供, 大人, 子ども
+top3 entities near to cluster7>>
+仕組み, テーマ, 見どころ
+top3 entities near to cluster10>>
+唯一, 殆ど, 大半
+top3 entities near to cluster11>>
+観戦, 見学, 勉強
+top3 entities near to cluster12>>
+対処, 対策, 停止
+top3 entities near to cluster22>>
+原発, 原子力, 浜岡

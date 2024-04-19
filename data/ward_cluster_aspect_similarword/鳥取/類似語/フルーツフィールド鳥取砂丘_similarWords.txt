@@ -1,0 +1,21 @@
+--------------------similar_words:フルーツフィールド鳥取砂丘--------------------
+top3 entities near to cluster0>>
+イチゴ, 大粒, 苺
+top3 entities near to cluster1>>
+予約, 受付, 決済
+top3 entities near to cluster2>>
+塩味, 塩, 一口
+top3 entities near to cluster3>>
+イチゴ, ケーキ, デザート
+top3 entities near to cluster5>>
+女性, 大人, 男性
+top3 entities near to cluster6>>
+友達, 周り, 友人
+top3 entities near to cluster8>>
+腰, ・・ギックリ, プチギックリ
+top3 entities near to cluster9>>
+友人, 知人, 友達
+top3 entities near to cluster10>>
+施設, 全体, 設備
+top3 entities near to cluster11>>
+駐車場, 駐車, 清潔

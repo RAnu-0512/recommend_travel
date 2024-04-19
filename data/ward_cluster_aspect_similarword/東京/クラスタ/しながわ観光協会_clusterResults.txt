@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しながわ観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東京急行電鉄大井町線, 大井町駅, 東急大井町線
+cluster1:(3)
+品川区, 品川駅, 神明駅
+cluster2:(23)
+しながわ観光協会, 途中, シナモロール, イベント, 在る情報館, グルメ, 観光案内所, 人, 観光大使, キャラ, 地域, 左, 駅, アクセス方法, 観光情報, シナモン, 情報, サンリオショップ, キャラクター, 歴史, 梅, キャッツシアター, 観光協会
+
+howmany entities : 29
+howmany clusters : 3
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 3
+deleted 0entities.

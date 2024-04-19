@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川崎観音>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+横, スロープ
+cluster1:(2)
+本堂, 石段
+cluster2:(1)
+国道
+cluster3:(1)
+足腰
+cluster4:(2)
+交通量, 駐車場
+cluster5:(1)
+上り線側
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

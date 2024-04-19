@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白田川親水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+庭園, 園内, 公園脇, 池, 公園
+cluster1:(10)
+車, 途中, アヒル, 東伊豆, 左手, 駅, 猫ちゃん, 国道, 時間, 白
+cluster2:(5)
+家族温泉旅行, 片瀬温泉, 稲取温泉, 田川親水公園, 熱川館
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 3
+deleted 0entities.

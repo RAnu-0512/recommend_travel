@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常盤台写真場(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+写真館, 常盤台写真場
+cluster1:(7)
+写真, 昭和, 窓, 常盤台, 昔, 外観, 建物
+cluster2:(1)
+江戸東京
+cluster3:(1)
+江戸東京たてもの園
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

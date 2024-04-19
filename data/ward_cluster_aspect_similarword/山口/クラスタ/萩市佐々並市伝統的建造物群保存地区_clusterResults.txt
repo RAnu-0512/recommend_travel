@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩市佐々並市伝統的建造物群保存地区>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸時代, 時代
+cluster1:(3)
+模擬結婚式, 屋内, 屋外
+cluster2:(9)
+維新, 宿場, 志士, 駅あさひ, 車, 参勤交代, 道, 家, 小林
+cluster3:(1)
+地蔵婚
+cluster4:(1)
+駐車場
+cluster5:(1)
+江戸時代の萩往還
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

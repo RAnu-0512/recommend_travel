@@ -1,0 +1,11 @@
+--------------------similar_words:下関くじら館--------------------
+top3 entities near to cluster0>>
+刺身, 鯨, 料理
+top3 entities near to cluster1>>
+独特, クセ
+top3 entities near to cluster3>>
+庶民, 民衆, 貴族
+top3 entities near to cluster5>>
+給食, 昔, 小中学校
+top3 entities near to cluster6>>
+竜田揚げ, 竜田, 唐揚げ, 唐

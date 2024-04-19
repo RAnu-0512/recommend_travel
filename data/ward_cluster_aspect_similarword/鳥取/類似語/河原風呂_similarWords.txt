@@ -1,0 +1,33 @@
+--------------------similar_words:河原風呂--------------------
+top3 entities near to cluster0>>
+私有地, 地元民, 地権
+top3 entities near to cluster1>>
+露天風呂, 野天風呂, 気持ち
+top3 entities near to cluster2>>
+明かり, 丸見え, 真っ暗
+top3 entities near to cluster3>>
+利用, 使用, 活用
+top3 entities near to cluster4>>
+部屋, 隣
+top3 entities near to cluster5>>
+気分, 気持ち, 気持
+top3 entities near to cluster6>>
+女性, 男性, 人達
+top3 entities near to cluster7>>
+昼間, 地元, 夜間
+top3 entities near to cluster8>>
+木製橋, 木製, 欄干
+top3 entities near to cluster9>>
+奇数, 偶数, 日
+top3 entities near to cluster10>>
+開放感, 開放
+top3 entities near to cluster12>>
+風呂, 湯船, 温泉
+top3 entities near to cluster13>>
+温泉, 旅館, 宿
+top3 entities near to cluster14>>
+脱衣場, 温泉場, 脱衣, 温泉
+top3 entities near to cluster15>>
+浴場, 公衆, 露天風呂
+top3 entities near to cluster16>>
+外客, 乗客, 名所

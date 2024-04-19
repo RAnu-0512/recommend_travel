@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弥栄湖情報センター「レイクプラザやさか」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, レストラン
+cluster1:(1)
+地元
+cluster2:(1)
+売店
+cluster3:(1)
+展望
+cluster4:(1)
+昼休憩
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

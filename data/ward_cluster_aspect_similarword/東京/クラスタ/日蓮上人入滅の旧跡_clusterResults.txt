@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日蓮上人入滅の旧跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日蓮, 日蓮上人
+cluster1:(3)
+案内板, 境内案内, 拝観
+cluster2:(2)
+寺院, 寺
+cluster3:(2)
+場所, 地
+cluster4:(2)
+しおり, 雰囲気
+cluster5:(3)
+身延山, 日蓮宗, 池上本門寺
+cluster6:(1)
+横
+cluster7:(1)
+晩年
+cluster8:(1)
+病
+cluster9:(1)
+甲斐国
+cluster10:(1)
+池上宗仲公
+cluster11:(1)
+池上本門寺境内案内霊宝殿拝観
+
+howmany entities : 20
+howmany clusters : 12
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 12
+deleted 0entities.

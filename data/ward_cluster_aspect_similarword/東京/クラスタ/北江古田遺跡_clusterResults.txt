@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北江古田遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+案内板, 中野区
+cluster1:(2)
+縄文, 縄文時代
+cluster2:(2)
+江古田, 近く
+cluster3:(3)
+遺物, 古墳, 遺跡
+cluster4:(1)
+古田遺跡
+cluster5:(1)
+森公園
+cluster6:(1)
+観光資源
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

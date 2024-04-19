@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇佐美海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中村敬宇, 伊東旅行
+cluster1:(2)
+顕彰碑, 森米城句碑
+cluster2:(4)
+海岸, 宇佐美海岸, 海岸全体, 海岸沿い
+cluster3:(2)
+閑散, 海水浴客
+cluster4:(3)
+車, 家, ボディボード
+cluster5:(2)
+賑わい, 雰囲気
+cluster6:(2)
+シーズンオフ, シーズン
+cluster7:(2)
+サーフィン, サーファー
+cluster8:(1)
+帰り道
+cluster9:(1)
+宇佐美
+cluster10:(4)
+両方, 人, 近く, 方
+cluster11:(1)
+嘘
+cluster12:(5)
+波, 夏, 海, 砂浜, 風
+cluster13:(2)
+青空, 散歩
+cluster14:(1)
+寒さ
+cluster15:(1)
+駐車場
+
+howmany entities : 35
+howmany clusters : 16
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 19entities.

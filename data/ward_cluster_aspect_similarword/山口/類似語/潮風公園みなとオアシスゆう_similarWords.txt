@@ -1,0 +1,23 @@
+--------------------similar_words:潮風公園みなとオアシスゆう--------------------
+top3 entities near to cluster0>>
+散歩, 散策, 出掛け
+top3 entities near to cluster1>>
+海, 砂浜, 海辺
+top3 entities near to cluster2>>
+海沿い, ビーチ, 海水浴
+top3 entities near to cluster3>>
+国道, 県道
+top3 entities near to cluster4>>
+気分, 価値, 足元
+top3 entities near to cluster5>>
+公園, 駅, 駅前
+top3 entities near to cluster6>>
+施設, 設備, 敷地
+top3 entities near to cluster7>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster8>>
+夜景, 夕景, 景色
+top3 entities near to cluster9>>
+海老, エビ, フライ
+top3 entities near to cluster10>>
+駅場, 駐車場, 駐車, 駅

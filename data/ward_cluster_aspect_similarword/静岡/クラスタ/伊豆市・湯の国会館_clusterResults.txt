@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆市・湯の国会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+質, 肌
+cluster1:(2)
+店員, 牛乳
+cluster2:(16)
+最後, 何れ, 感じサウナ, レストラン, 商品, 帰り, 地元, 内風呂, 湯上がり, 露天風呂, 感じ, サウナ, 自販機, 其, とろとろ, 方
+cluster3:(8)
+温泉, 薬草風呂, お湯, 薬草, 入浴, 源泉, 露天, 湯
+cluster4:(2)
+下田海中水族館, 経費節減
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 6entities.

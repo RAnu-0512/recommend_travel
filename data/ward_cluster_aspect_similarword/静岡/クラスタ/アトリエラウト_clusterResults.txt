@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アトリエラウト>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+ダイビング, 快晴, 春濁り, 魚定食, スーツ, 初ショップ, 食事処, ガイド
+cluster1:(2)
+熱海, 熱海駅
+cluster2:(2)
+熱海沈船, 沈船ダイビング
+cluster3:(1)
+熱海港
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 5entities.

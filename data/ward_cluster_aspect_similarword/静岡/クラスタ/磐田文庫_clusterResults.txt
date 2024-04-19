@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:磐田文庫>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+磐田文庫, 磐田駅
+cluster1:(2)
+歴史, 日本
+cluster2:(2)
+車, 場所
+cluster3:(1)
+明治
+cluster4:(1)
+東海道線
+cluster5:(1)
+私設図書館
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 9entities.

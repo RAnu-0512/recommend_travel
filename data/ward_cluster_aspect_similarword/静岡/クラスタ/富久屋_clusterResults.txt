@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富久屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+練乳, 苺, 苺ハウス迄, いちご狩り, 苺狩り, 石垣苺, イチゴ狩り
+cluster1:(2)
+駐車場, 駐車場代
+cluster2:(3)
+方たち, 子供, 子供たち
+cluster3:(2)
+支柱, ヘタ
+cluster4:(15)
+イチゴ, 久し振り, ハウス, おじさん, ポイント, ところ, いちご, ビニールハウス, たばこ, 別, 友達, 久能山, グループ, ファイル, イラッ
+cluster5:(2)
+車, 味
+cluster6:(1)
+小学校中学年
+cluster7:(3)
+こと, もの, 感じ
+cluster8:(2)
+勿論, 方
+cluster9:(1)
+時期
+cluster10:(3)
+全部, 半分, グループ毎
+cluster11:(11)
+案内, 送迎, 代金, 訪問, 対応, 他店, 予約, 店, 消化目的, 現金, 共有
+cluster12:(4)
+感染対策, 大きさ, 富久屋, 甘さ
+
+howmany entities : 56
+howmany clusters : 13
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 7
+deleted 10entities.

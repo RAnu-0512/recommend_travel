@@ -1,0 +1,9 @@
+--------------------similar_words:八丈町役場--------------------
+top3 entities near to cluster0>>
+発着, 案内, 所内
+top3 entities near to cluster1>>
+バス, トイレ, タクシー
+top3 entities near to cluster2>>
+庁舎, 役場, 支所
+top3 entities near to cluster3>>
+町営, バス, 村営

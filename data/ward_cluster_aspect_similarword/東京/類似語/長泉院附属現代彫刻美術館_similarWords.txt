@@ -1,0 +1,15 @@
+--------------------similar_words:長泉院附属現代彫刻美術館--------------------
+top3 entities near to cluster0>>
+駅, 駅前, ビルアトレ
+top3 entities near to cluster1>>
+施設, 設備, 敷地
+top3 entities near to cluster2>>
+美術館, 作品, 博物館
+top3 entities near to cluster3>>
+彫像, 石像, 銅像
+top3 entities near to cluster4>>
+興味, 関心, 興味津々
+top3 entities near to cluster5>>
+中間, あたり, 辺り
+top3 entities near to cluster6>>
+芸術院, 附属, 芸術

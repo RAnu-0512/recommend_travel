@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:RED°TOKYO TOWER>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+VRゲーム, VR, VRボートレース
+cluster1:(2)
+場所, 事
+cluster2:(4)
+ゲーム, 息子, アトラクション, スペース
+cluster3:(1)
+各種ゲーム
+cluster4:(1)
+訪問
+cluster5:(1)
+故障
+cluster6:(1)
+フリーパス
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

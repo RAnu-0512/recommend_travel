@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:エルローザ杉山バラ園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+薔薇, バラ
+cluster1:(2)
+バラ園内, バラ園
+cluster2:(10)
+ケーキ屋, 店, バス, 周り, 三島駅, 入口, シーズン, 駅, 時期, レンタサイクル
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 4entities.

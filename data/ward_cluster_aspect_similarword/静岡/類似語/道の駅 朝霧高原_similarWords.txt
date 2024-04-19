@@ -1,0 +1,55 @@
+--------------------similar_words:道の駅 朝霧高原--------------------
+top3 entities near to cluster0>>
+雰囲気, 気持ち, レベル
+top3 entities near to cluster2>>
+おにぎり, コロッケ, キャベツ
+top3 entities near to cluster5>>
+バイキング, レストラン, チェックイン
+top3 entities near to cluster6>>
+とうもろこし, ソフトクリーム, アイスクリーム
+top3 entities near to cluster7>>
+ヨーグルト, フレーバー, ソーセージ
+top3 entities near to cluster8>>
+ツーリング, ドライブ, キャンプ
+top3 entities near to cluster10>>
+買い物, おすすめ, レジャー
+top3 entities near to cluster11>>
+アイス, ミルク, アイスクリーム
+top3 entities near to cluster12>>
+ソフト, ソフトクリーム, バニラ
+top3 entities near to cluster13>>
+和菓子, コロッケ, 豚カツ
+top3 entities near to cluster14>>
+チーズ, ソーセージ, ベーコン
+top3 entities near to cluster16>>
+絶景, 気温, 天気
+top3 entities near to cluster19>>
+好み, 匂い
+top3 entities near to cluster20>>
+予想, 苦戦
+top3 entities near to cluster22>>
+目的, 時間, ため
+top3 entities near to cluster25>>
+販売, 購入, 商品
+top3 entities near to cluster29>>
+施設, 敷地, 立地
+top3 entities near to cluster31>>
+景色, 眺め, 風景
+top3 entities near to cluster34>>
+土産物屋, 土産物店, 土産物
+top3 entities near to cluster36>>
+土産, おみやげ, 土産物
+top3 entities near to cluster37>>
+朝霧, 牛乳, ミルク
+top3 entities near to cluster39>>
+朝霧, フィールドドッグズガーデン, フィールドドッグガーデン
+top3 entities near to cluster40>>
+牛乳, ミルク, ヨーグルト
+top3 entities near to cluster42>>
+軽食, 食事, お菓子
+top3 entities near to cluster43>>
+肉, 豚, 豚肉
+top3 entities near to cluster44>>
+野菜, 果物, 食材
+top3 entities near to cluster45>>
+駐車, 休憩, 駅

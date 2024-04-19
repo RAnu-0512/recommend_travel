@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:游心楼 山へい>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+人, 気, 点, 対応, コスパ, サービス, 内容
+cluster1:(2)
+値段, 量
+cluster2:(6)
+料理, 旅館, 部屋, ご飯, 部屋食, 食事
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

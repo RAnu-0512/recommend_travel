@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大雲院(鳥取市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+寺院, 整備, 建物, 歌碑, 句碑, 感じ, お守り, 木々, 池田, 祇園祭, 阿弥陀如来, 到着, 正月旅行, 分家, 右端, 境内, 本堂, 遺品, 東館, 自然, 入口, 墓碑, もの, 近く, 寺, 方, 本尊, 雰囲気, 心, 祈願, 場所
+cluster1:(4)
+池田慶栄, 池田家墓所, 池田光仲, 大雲院
+cluster2:(7)
+鳥取市, 国府町, 鳥取藩主, 徳川家康, 尾崎放哉, 鳥取, 鳥取県
+cluster3:(1)
+中国観音霊場
+
+howmany entities : 43
+howmany clusters : 4
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:境港水木しげるロード「あとりえgtp」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時計作り, 時計
+cluster1:(2)
+破片, じっくり石
+cluster2:(2)
+見本, 色
+cluster3:(6)
+壁掛け, ガラス, 小学生, デザイン, 人, ブレスレット
+cluster4:(3)
+店, 時間, 場所
+cluster5:(2)
+説明, 作業
+cluster6:(3)
+子供達, GW中, 子供
+cluster7:(3)
+駐車場, せかさず時間, 予約時間
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

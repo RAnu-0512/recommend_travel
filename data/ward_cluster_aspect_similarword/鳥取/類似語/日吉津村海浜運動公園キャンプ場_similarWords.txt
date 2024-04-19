@@ -1,0 +1,9 @@
+--------------------similar_words:日吉津村海浜運動公園キャンプ場--------------------
+top3 entities near to cluster0>>
+海辺, 海岸, 海
+top3 entities near to cluster1>>
+キャンプ, テント, ファミキャン
+top3 entities near to cluster2>>
+樋口, 佐藤
+top3 entities near to cluster3>>
+海浜, 村, 運動公園

@@ -1,0 +1,11 @@
+--------------------similar_words:蕎麦道楽百古里庵(そばどうらく すがりあん)--------------------
+top3 entities near to cluster0>>
+蕎麦屋, そば屋, 蕎麦, そば
+top3 entities near to cluster2>>
+家族連れ, 家族, 友達
+top3 entities near to cluster5>>
+帽子, 対策
+top3 entities near to cluster6>>
+川道, 景色, 川
+top3 entities near to cluster11>>
+狩り, 収穫

@@ -1,0 +1,9 @@
+--------------------similar_words:大橋牧場--------------------
+top3 entities near to cluster0>>
+売店, 牧場, 高級
+top3 entities near to cluster1>>
+チーズ, バター, ケーキ
+top3 entities near to cluster3>>
+女性人, 女性, 子供
+top3 entities near to cluster9>>
+食べ, 体験

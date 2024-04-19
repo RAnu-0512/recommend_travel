@@ -1,0 +1,41 @@
+--------------------similar_words:道の駅 はわい--------------------
+top3 entities near to cluster0>>
+土産, おみやげ, 土産物
+top3 entities near to cluster1>>
+土産, おみやげ, 探し
+top3 entities near to cluster2>>
+土産品, 土産, おみやげ
+top3 entities near to cluster3>>
+デザート, フルーツ, アイスクリーム
+top3 entities near to cluster4>>
+レジ, 掃除, 清掃
+top3 entities near to cluster5>>
+販売, 購入, 設置
+top3 entities near to cluster6>>
+リピ, リピート, ・・リピ
+top3 entities near to cluster7>>
+身, 入り, 着け
+top3 entities near to cluster8>>
+地元, 遠方, 近辺
+top3 entities near to cluster10>>
+景色, 町並み, 名物
+top3 entities near to cluster11>>
+丼, 醤油, 味噌
+top3 entities near to cluster12>>
+イモ, 芋, いも
+top3 entities near to cluster13>>
+魚介, 海鮮, 海産
+top3 entities near to cluster14>>
+イカ, カニ, タコ
+top3 entities near to cluster15>>
+干物, 魚屋
+top3 entities near to cluster16>>
+地物, 刺身, 地酒
+top3 entities near to cluster17>>
+野菜, 果物, 食材
+top3 entities near to cluster19>>
+駅, 駅前, 徒歩
+top3 entities near to cluster20>>
+その道, 道路
+top3 entities near to cluster22>>
+休憩場, 休憩, 駐車場, 駐車

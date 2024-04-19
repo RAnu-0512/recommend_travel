@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あきる野ストロベリーフィールズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駐車場, 予約制, 清潔感
+cluster1:(2)
+いちご摘み, いちご狩り
+cluster2:(2)
+練乳, 苺
+cluster3:(2)
+品種, 農園
+cluster4:(14)
+スタッフ, 子供, モール, 家族, ビニールハウス, いちご, ハサミ, 都, 待合室, イチゴ, ベンチ, 孫, コーナー, ゴミ箱
+cluster5:(4)
+建物, 施設, 車, 外観
+cluster6:(6)
+前後, 種類, 近く, こと, 位置, 説明
+cluster7:(1)
+接客
+cluster8:(3)
+味比べ, 高さ, 入口側
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 9
+deleted 0entities.

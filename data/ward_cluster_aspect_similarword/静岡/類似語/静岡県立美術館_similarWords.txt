@@ -1,0 +1,35 @@
+--------------------similar_words:静岡県立美術館--------------------
+top3 entities near to cluster0>>
+美術館, 絵画, ミュージアム
+top3 entities near to cluster1>>
+作品, 映像, 催し
+top3 entities near to cluster3>>
+女性人, 女性, 子供
+top3 entities near to cluster4>>
+家族, 友人, 主人
+top3 entities near to cluster6>>
+芸術, 世界, 大学
+top3 entities near to cluster9>>
+駐車場, 駐車, 跡
+top3 entities near to cluster10>>
+公園, 遊歩道, 駅
+top3 entities near to cluster11>>
+周辺, 美術館, 近辺
+top3 entities near to cluster12>>
+館内, 入館, 当館
+top3 entities near to cluster13>>
+市民, 子供, 子ども
+top3 entities near to cluster14>>
+体験型, 体験, 持参
+top3 entities near to cluster16>>
+美術, 絵画, 工芸
+top3 entities near to cluster18>>
+彫刻, 彫塑, 絵画
+top3 entities near to cluster19>>
+写生, 絵画
+top3 entities near to cluster22>>
+常設展, 常設, 展示
+top3 entities near to cluster26>>
+展示, 出展, 収蔵
+top3 entities near to cluster28>>
+展覧, 個展

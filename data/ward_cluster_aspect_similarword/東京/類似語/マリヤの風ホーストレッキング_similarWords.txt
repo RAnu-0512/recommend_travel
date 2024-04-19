@@ -1,0 +1,61 @@
+--------------------similar_words:マリヤの風ホーストレッキング--------------------
+top3 entities near to cluster0>>
+合図, 指示, 命令
+top3 entities near to cluster1>>
+話し, 返答, 質問
+top3 entities near to cluster2>>
+現金, 現地, 時間
+top3 entities near to cluster3>>
+喜び, 感激, 感謝
+top3 entities near to cluster4>>
+感覚, 状態, 状況
+top3 entities near to cluster5>>
+心配, 不安
+top3 entities near to cluster8>>
+機会, チャンス, 好機
+top3 entities near to cluster9>>
+悩み, 悩む
+top3 entities near to cluster10>>
+季節, 秋, 時期
+top3 entities near to cluster12>>
+満足度, 満足, 好感度, 好感
+top3 entities near to cluster13>>
+もぎ, よも, もぎと
+top3 entities near to cluster14>>
+帰り道, 帰り際, 楽しい
+top3 entities near to cluster15>>
+マリヤ, エリサベツ, ウラジーミロヴナ
+top3 entities near to cluster16>>
+ちゃん, 聖母, リトルホラーズ
+top3 entities near to cluster17>>
+ちゃん, マリヤ, 言う
+top3 entities near to cluster18>>
+行く, 来る, 行き
+top3 entities near to cluster20>>
+足手, 足, 椅子
+top3 entities near to cluster21>>
+娘, 息子, 父親
+top3 entities near to cluster22>>
+子供, 子ども, こども
+top3 entities near to cluster23>>
+幼児, 乳幼児, 乳児
+top3 entities near to cluster24>>
+人々, 人間, 家族
+top3 entities near to cluster25>>
+女性, 男性, 肌
+top3 entities near to cluster26>>
+瞬間, 人間, 一瞬
+top3 entities near to cluster27>>
+水筒, 息子, 朝
+top3 entities near to cluster28>>
+土手, 河川敷
+top3 entities near to cluster29>>
+窓, 建物, 景色
+top3 entities near to cluster30>>
+川沿い, 川, 河畔
+top3 entities near to cluster31>>
+やり, 話し, まくる
+top3 entities near to cluster32>>
+体験, 経験, 貴重
+top3 entities near to cluster33>>
+乗馬, 馬術

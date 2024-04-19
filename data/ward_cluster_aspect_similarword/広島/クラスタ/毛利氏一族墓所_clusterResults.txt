@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:毛利氏一族墓所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+毛利元就公, 毛利豊
+cluster1:(12)
+天候, 山, 目的, 資料館, 歴史, 雨, 墓所, 家紋, 先, 城跡, 麓, 墓地
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

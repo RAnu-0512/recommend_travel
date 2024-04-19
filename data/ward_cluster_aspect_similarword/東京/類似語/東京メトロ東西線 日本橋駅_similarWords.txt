@@ -1,0 +1,5 @@
+--------------------similar_words:東京メトロ東西線 日本橋駅--------------------
+top3 entities near to cluster0>>
+都, メトロ, 都内
+top3 entities near to cluster2>>
+駅, 駅前, 構内

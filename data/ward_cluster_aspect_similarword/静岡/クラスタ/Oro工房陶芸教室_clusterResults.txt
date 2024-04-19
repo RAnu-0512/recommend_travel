@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Oro工房陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+あめ, ねり
+cluster1:(7)
+主人, ハンカチ, たたら, エプロン, クーラー, 子供, タオル
+cluster2:(4)
+こと, 形, 希望, 作品
+cluster3:(2)
+作業, 環境
+cluster4:(1)
+注意ポイント
+cluster5:(1)
+水分
+cluster6:(1)
+カップ類
+cluster7:(1)
+手びねり
+cluster8:(3)
+皿, 陶芸品, 取り皿
+cluster9:(1)
+先生か釉薬
+
+howmany entities : 23
+howmany clusters : 10
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 9entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サッポロビール株式会社静岡工場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ビール, 見学
+cluster1:(1)
+ビオトープ園
+cluster2:(1)
+サッポロビール静岡工場
+cluster3:(1)
+設備拡張工事
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 5entities.

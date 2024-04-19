@@ -1,0 +1,21 @@
+--------------------similar_words:森の城 美ing--------------------
+top3 entities near to cluster0>>
+効果, 相乗, 効き目
+top3 entities near to cluster1>>
+女性, 男性, 同僚
+top3 entities near to cluster2>>
+ホテル, ポンパレチケット, 口コミ
+top3 entities near to cluster4>>
+バス, 駅, 乗客
+top3 entities near to cluster6>>
+肌, 全身, 漢方
+top3 entities near to cluster7>>
+建物, 施設, 食事
+top3 entities near to cluster9>>
+罪悪感, 状態, 罪悪
+top3 entities near to cluster10>>
+予約, 電話, 受付
+top3 entities near to cluster11>>
+評価, 改善, 対応
+top3 entities near to cluster15>>
+温泉, サウナ, 送迎

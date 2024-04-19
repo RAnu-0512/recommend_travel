@@ -1,0 +1,57 @@
+--------------------similar_words:ペリーロード--------------------
+top3 entities near to cluster0>>
+町並み, 街並み, 雰囲気
+top3 entities near to cluster1>>
+喫茶店, カフェ, 居酒屋
+top3 entities near to cluster3>>
+カメラ, カレー, テント
+top3 entities near to cluster4>>
+レストラン, カフェ, ホテル
+top3 entities near to cluster5>>
+ススメ, オススメ, おすすめ
+top3 entities near to cluster6>>
+寄り道, 散歩道, つまみ
+top3 entities near to cluster8>>
+町並み, 風情, 風景
+top3 entities near to cluster9>>
+価値, 値段
+top3 entities near to cluster15>>
+興味, 影響, 印象
+top3 entities near to cluster17>>
+料理店, レストラン, 料理
+top3 entities near to cluster19>>
+木水, 土水, 木, 土
+top3 entities near to cluster21>>
+子供, 家族, 人々
+top3 entities near to cluster22>>
+想い風, 想い, 気持ち
+top3 entities near to cluster23>>
+季節, 時期, 時季
+top3 entities near to cluster24>>
+駅, 町, 駅前
+top3 entities near to cluster25>>
+ロード, ランド, アップ
+top3 entities near to cluster30>>
+黒船, ペルリ, ペリー
+top3 entities near to cluster31>>
+花魚, 鯛, 花
+top3 entities near to cluster33>>
+容堂, 山内, 竜馬
+top3 entities near to cluster42>>
+情緒, 異国, 叙情
+top3 entities near to cluster43>>
+土産屋, 雑貨屋, 雑貨, 土産
+top3 entities near to cluster44>>
+雑貨店, 雑貨, 飲食店, 飲食
+top3 entities near to cluster47>>
+駐車場, 駐車, 場代
+top3 entities near to cluster48>>
+時間, 時間帯, 午前帯, 午前
+top3 entities near to cluster49>>
+撮影, 出発, 位置
+top3 entities near to cluster54>>
+バス, 周遊, 名所
+top3 entities near to cluster55>>
+旅, 旅先, 海外
+top3 entities near to cluster59>>
+散策, 散歩

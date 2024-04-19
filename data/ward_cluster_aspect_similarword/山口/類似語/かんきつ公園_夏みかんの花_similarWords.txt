@@ -1,0 +1,13 @@
+--------------------similar_words:かんきつ公園_夏みかんの花--------------------
+top3 entities near to cluster0>>
+公園, 園内, 敷地
+top3 entities near to cluster1>>
+木, 実, 土
+top3 entities near to cluster2>>
+季節, 香り, 柑橘類
+top3 entities near to cluster3>>
+本数, 回数, 便数
+top3 entities near to cluster4>>
+柑橘, 萩, 夏
+top3 entities near to cluster5>>
+大臣, 総理, 首相

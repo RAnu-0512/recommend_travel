@@ -1,0 +1,15 @@
+--------------------similar_words:古寺めぐり--------------------
+top3 entities near to cluster0>>
+風情, 価値, 個性
+top3 entities near to cluster1>>
+駅, 経路, 建物
+top3 entities near to cluster2>>
+麓, 山, ふもと
+top3 entities near to cluster4>>
+街並み, ツアー, 町並み
+top3 entities near to cluster5>>
+片手, 横, 時間
+top3 entities near to cluster6>>
+坂道, 小道, 石畳
+top3 entities near to cluster7>>
+お寺, 寺, 境内

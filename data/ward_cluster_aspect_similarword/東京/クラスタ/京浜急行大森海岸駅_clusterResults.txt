@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京浜急行大森海岸駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+玉川, 大森
+cluster1:(7)
+海岸, 周辺, 海苔, マンション, 遠浅, 栄養, モース
+cluster2:(1)
+江戸時代
+cluster3:(1)
+休憩所
+cluster4:(1)
+農漁村
+cluster5:(1)
+しながわ水族館
+cluster6:(1)
+荏原群大森
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

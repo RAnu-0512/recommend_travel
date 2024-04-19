@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:めん公望>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+加減, トーク, 人, 大将, 店主, 語, 文化, 体験, 手, 友達, 機会, 韓国, 英, 日本, 方, 手打ち体験, 奥深さ, 友人, 幅, 作業, 蕎麦, 主人
+cluster1:(3)
+そば打ち体験, 初蕎麦打ち体験, 蕎麦打ち体験
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 2
+deleted 0entities.

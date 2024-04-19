@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口県旧県庁舎及び旧県会議事堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+古き良き, 東洋風
+cluster1:(9)
+部屋, 見学, 建築, 敷地, 意匠, 桜, 天気, 和風, 建物
+cluster2:(8)
+中, 心, こと, 議論, 重み, 熱, 方, 気持ち
+cluster3:(3)
+西ヨーロッパ, 大正, 県
+cluster4:(5)
+細部, 産物, 時代, 近世, 歴史
+cluster5:(1)
+重厚さ
+cluster6:(1)
+駐車場
+cluster7:(7)
+庁舎, 県政, 副知事, 洋風建築, 建築物, 知事, 議場
+cluster8:(7)
+山口県, 県会議事堂, 議長席, 山口県庁, 傍聴席, 旧県庁舎, 議員席
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 9
+deleted 0entities.

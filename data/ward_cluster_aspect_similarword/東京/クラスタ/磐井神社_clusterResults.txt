@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:磐井神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+境内通り沿い, 平和島方面, 大森海岸駅
+cluster1:(26)
+季節, 弁財天, 神社, 場所, 本, 巨木, 池, 筆致, 子ども, 限定, 人, 御朱印, 近く, 七福神巡り, 砂利道, 御朱印一緒, 京浜, ファイル, 国道, イチョウ, 交通量, キャラクター, デザイン, 歴史, 境内, もの
+cluster2:(11)
+主祭神, 家族狛犬, 京急, 武蔵国, 狛犬, 東海七, 総社八幡宮, 東海七福神, 磐井神社, 友禅紙, 鈴ヶ森八幡
+cluster3:(1)
+京急本線大森海岸駅
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 4
+deleted 0entities.

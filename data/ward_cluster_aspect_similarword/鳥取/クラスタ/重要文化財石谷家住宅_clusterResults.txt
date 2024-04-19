@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:重要文化財石谷家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸時代, 江戸座敷
+cluster1:(3)
+芝庭園, 日本庭園, 庭園
+cluster2:(5)
+資料, 階段室, 観光客, 資料館, 駐車場
+cluster3:(5)
+母屋, 庄屋, 商家, 土蔵, 旧家
+cluster4:(8)
+庭, 屋敷, 敷地, 邸宅, 部屋, 部屋数, 豪邸, 家
+cluster5:(14)
+屋号, 洋風, 建物, 天井, 住宅, 玄関, 建築, 窓, 展示, 梁, 造り, 木材, 土間, 蔵
+cluster6:(3)
+塩屋, 石谷家, 鳥取県
+cluster7:(2)
+大正, 昭和
+cluster8:(2)
+歴史, 時代
+cluster9:(3)
+近世, 日本, 近代
+cluster10:(3)
+たつ, 雛, 雪
+cluster11:(4)
+つもり, もの, こと, 事
+cluster12:(4)
+他, 方, ほか, 多く
+cluster13:(2)
+部分, 中心
+cluster14:(1)
+地元
+cluster15:(15)
+文化財, 季節, 風情, ゆとり, 雰囲気, 見所, 町, 町並み, 見ごたえ, 手入れ, 車, 国, 道, 吹き抜け, 時間
+cluster16:(1)
+主屋
+cluster17:(1)
+美しさ
+cluster18:(1)
+国指定重要文化財
+cluster19:(3)
+智頭宿, 智頭町, 池泉回遊式
+
+howmany entities : 82
+howmany clusters : 20
+howmany entities (more than1entities) : 82
+howmany clusters (more than1entities) : 20
+deleted 0entities.

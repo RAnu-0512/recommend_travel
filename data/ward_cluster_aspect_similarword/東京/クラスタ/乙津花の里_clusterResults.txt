@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:乙津花の里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+桜, 夜桜, 満開
+cluster1:(2)
+里山, 民家
+cluster2:(10)
+周囲, 時間, 時期, ツツジ, ピンク色, 風景, 流れ, 声, ライト, 花
+cluster3:(1)
+動く物
+cluster4:(1)
+観光客
+cluster5:(1)
+龍珠院
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:栃山川堤防の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+桜, 桜スポット, 満開, 花見スポット
+cluster1:(4)
+ひとつ, 人気, 景色, 時期
+cluster2:(1)
+島田市
+cluster3:(1)
+堤防沿い
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

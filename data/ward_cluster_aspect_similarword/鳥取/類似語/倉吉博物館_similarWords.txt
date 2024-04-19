@@ -1,0 +1,17 @@
+--------------------similar_words:倉吉博物館--------------------
+top3 entities near to cluster0>>
+美術, 絵画, 芸術
+top3 entities near to cluster1>>
+前田, 寛治, 谷川
+top3 entities near to cluster2>>
+余裕, 応え, 癒し
+top3 entities near to cluster3>>
+遺跡, 公園, 城跡
+top3 entities near to cluster4>>
+歴史, 博物館, 文化財
+top3 entities near to cluster5>>
+出身, 在住, 同郷
+top3 entities near to cluster6>>
+展示, 展覧, 作品
+top3 entities near to cluster7>>
+駐車料, 入館料, 駐車, 入館

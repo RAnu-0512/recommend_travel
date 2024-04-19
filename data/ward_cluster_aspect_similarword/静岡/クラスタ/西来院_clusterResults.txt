@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西来院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+車, 門扉, 駐車, 道路
+cluster1:(3)
+本堂, 墓, 寺
+cluster2:(6)
+周辺, 訪問, 中, 方, 曹洞宗, お参り
+cluster3:(1)
+住宅街
+cluster4:(4)
+信康事件, 家康, 徳川家康, 築山御前
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 1entities.

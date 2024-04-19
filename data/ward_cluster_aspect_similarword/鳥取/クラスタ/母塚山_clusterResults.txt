@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:母塚山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+休憩所, 像, 展望台, 駐車場, 観音像
+cluster1:(17)
+関係, 山, 車, 宗教, イザナミ, 歴史, 個人, 山頂, 道, 中腹, 島根半島, 絶景, 絶景スポット, もの, 方, 景色, 場所
+cluster2:(6)
+大山, 南部町, ダイアモンド大山, 米子, 母塚山, 境港
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,29 @@
+--------------------similar_words:戸越公園--------------------
+top3 entities near to cluster0>>
+散歩, 公園, 散策
+top3 entities near to cluster1>>
+子, 鳥, 娘
+top3 entities near to cluster2>>
+友達, 同士, 家族
+top3 entities near to cluster4>>
+裏手, 界隈, 近辺
+top3 entities near to cluster5>>
+鯉池, 鯉, 滝
+top3 entities near to cluster6>>
+秋, 春, 夏
+top3 entities near to cluster7>>
+新緑, 紅葉, 木々
+top3 entities near to cluster8>>
+桜, 花見, 花
+top3 entities near to cluster9>>
+木水, 土水, 木, 土
+top3 entities near to cluster11>>
+森, 緑, 深緑
+top3 entities near to cluster12>>
+都会, 自然, 田舎
+top3 entities near to cluster13>>
+ミニ, ミニサイズ, スカ
+top3 entities near to cluster15>>
+屋敷, 庭園, 邸宅
+top3 entities near to cluster16>>
+公園, 駅前, 区立

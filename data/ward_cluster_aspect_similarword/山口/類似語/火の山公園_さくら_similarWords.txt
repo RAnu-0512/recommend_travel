@@ -1,0 +1,11 @@
+--------------------similar_words:火の山公園_さくら--------------------
+top3 entities near to cluster0>>
+花見, 桜, 満開
+top3 entities near to cluster2>>
+海, 山, 陸
+top3 entities near to cluster3>>
+桜, 花, 八重桜
+top3 entities near to cluster4>>
+斜面, 急斜面
+top3 entities near to cluster7>>
+公園, 景色, 風景

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀井公園自然歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+こと, 遊歩道, 周辺
+cluster1:(2)
+歴史, 文化
+cluster2:(2)
+風景, 景観
+cluster3:(1)
+亀井公園
+cluster4:(1)
+日本風景街道
+cluster5:(1)
+関金温泉
+cluster6:(1)
+国交省
+cluster7:(1)
+大山遠望歴史の道
+
+howmany entities : 12
+howmany clusters : 8
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビー玉海岸海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+近く, ラーメン
+cluster1:(2)
+海, 魚
+cluster2:(1)
+波
+cluster3:(1)
+混雑
+cluster4:(1)
+竜ヶ崎温泉
+cluster5:(1)
+家族連れ
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

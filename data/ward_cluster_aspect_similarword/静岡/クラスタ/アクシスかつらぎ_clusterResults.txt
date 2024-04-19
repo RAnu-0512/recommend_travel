@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アクシスかつらぎ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+市民ギャラリー, 市民
+cluster1:(2)
+客, 娯楽
+cluster2:(4)
+交流, アクシスかつらぎ, ホール, 場
+cluster3:(1)
+楽屋
+cluster4:(1)
+足湯
+cluster5:(1)
+収容
+cluster6:(1)
+大ホール
+cluster7:(4)
+総合会館, 会館, 文化発信, 会議室
+cluster8:(3)
+多目的施設, 伊豆の国市, 多目的ホール
+
+howmany entities : 19
+howmany clusters : 9
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 8entities.

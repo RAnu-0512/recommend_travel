@@ -1,0 +1,79 @@
+--------------------similar_words:東京芸術劇場--------------------
+top3 entities near to cluster0>>
+芸術, 文化, 演劇
+top3 entities near to cluster1>>
+学院, 立教, 館
+top3 entities near to cluster2>>
+館, 郷土, 資料
+top3 entities near to cluster3>>
+丁目, 1, 館内
+top3 entities near to cluster4>>
+送迎, バス, ホテル
+top3 entities near to cluster5>>
+東口, 南口, 駅前
+top3 entities near to cluster6>>
+食事, パン, お茶
+top3 entities near to cluster8>>
+コンサート, リサイタル, オペラ
+top3 entities near to cluster9>>
+レストラン, ロビー, イタリアン
+top3 entities near to cluster10>>
+まわり, ひとつ, 一つ
+top3 entities near to cluster11>>
+コンサート, イベント, オーケストラ
+top3 entities near to cluster12>>
+エレベーター, エスカレーター, エレベータ
+top3 entities near to cluster13>>
+プレイハウス, プレイハウス・, プレイハウスディズニー
+top3 entities near to cluster14>>
+カップル, カポー, カッポー
+top3 entities near to cluster15>>
+おにぎり, オニギリ, おむすび
+top3 entities near to cluster16>>
+アクセス, オススメ, おすすめ
+top3 entities near to cluster17>>
+インテリア, デザイン, ショップ
+top3 entities near to cluster18>>
+イースト, 法政大学, 中央大学
+top3 entities near to cluster19>>
+ベンチ, トイレ, ビール
+top3 entities near to cluster20>>
+風呂敷, ふろしき, フロシキ
+top3 entities near to cluster21>>
+ダーン, ガシャン, ダンッ
+top3 entities near to cluster22>>
+カフェ, 喫茶店, レストラン
+top3 entities near to cluster23>>
+シアター, ルミネ, ウエスト
+top3 entities near to cluster24>>
+ワン, コイン, オンリー
+top3 entities near to cluster25>>
+座り心地, 座り
+top3 entities near to cluster26>>
+音響, 効果, 尽鈴
+top3 entities near to cluster28>>
+広場, 公園, 遊歩道
+top3 entities near to cluster29>>
+徒歩, 駅分, 駅
+top3 entities near to cluster30>>
+穴場, 交通, 名所
+top3 entities near to cluster31>>
+建物, 会場, 客席
+top3 entities near to cluster32>>
+乱歩, エドガワ, 大下宇陀児
+top3 entities near to cluster33>>
+観劇, 演劇, 公演
+top3 entities near to cluster34>>
+芸術, 劇場, 演劇
+top3 entities near to cluster35>>
+劇場, 公演, 小
+top3 entities near to cluster36>>
+演奏会, 講演会, 演奏, 講演
+top3 entities near to cluster37>>
+絵画展, 絵画, 展覧
+top3 entities near to cluster38>>
+配布, 配付, 配る
+top3 entities near to cluster39>>
+展示会, 展示, 展覧会, 展覧
+top3 entities near to cluster40>>
+休憩, 施設, 時間

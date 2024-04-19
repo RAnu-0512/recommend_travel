@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中野氷川神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+神社, 祭り, 元旦, 家族連れ, 屋台, 初詣, 夏祭り, 参道, 神楽, 境内, 階段
+cluster1:(3)
+神霊, 乱, 蚊
+cluster2:(10)
+おすすめ, 氷川神社, 東中野, 厄除け, 結婚式, ところ, サラサラ, 真ん中, w氷川神社, 雰囲気
+cluster3:(8)
+人, 家, 間, 近く, 中間, 歴史, 中, 地元
+cluster4:(2)
+水, 緑
+cluster5:(1)
+中野
+cluster6:(9)
+場所, 音, 趣き, 気, 時期, 方, こと, 利益, 空気
+cluster7:(1)
+環状
+cluster8:(1)
+カッコーン
+cluster9:(1)
+大きさ
+cluster10:(18)
+塩竃神社, 山手通り, 源頼宣, 別名沼袋神社, 和装前撮り, 駅, 北野神社, 武蔵国一ノ宮, 中野坂上駅, 御嶽神社, 前撮り写真, 交通量, 住宅地, 手水舎, 気象神社, JR東中野駅, 東中野駅, 稲荷神社
+
+howmany entities : 65
+howmany clusters : 11
+howmany entities (more than1entities) : 65
+howmany clusters (more than1entities) : 11
+deleted 0entities.

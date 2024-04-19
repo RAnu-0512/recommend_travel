@@ -1,0 +1,15 @@
+--------------------similar_words:恵みの丘蒲刈--------------------
+top3 entities near to cluster0>>
+桃, イチゴ, いちご
+top3 entities near to cluster1>>
+香り, 風味
+top3 entities near to cluster2>>
+回答, 質問, 返答
+top3 entities near to cluster3>>
+予約, 電話, 受付
+top3 entities near to cluster4>>
+日時, 時間, 種類
+top3 entities near to cluster5>>
+裏庭, 中庭, 敷地
+top3 entities near to cluster7>>
+予約制, 予約, 制は

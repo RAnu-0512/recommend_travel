@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長崎屋跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+新日本橋駅, JR, JR総武本線, 中央区
+cluster1:(2)
+説明板, 案内板
+cluster2:(4)
+宿, 商人, 宿場, 定宿
+cluster3:(6)
+所, 場所, 場, 感じ, 想い, 様子
+cluster4:(2)
+館長, 訪問
+cluster5:(7)
+日本橋, 交差点, 長崎屋, オランダ, 入り口, 長崎, 日本
+cluster6:(7)
+外国貿易, オランダ商館, 江戸, 江戸時代, 外国文化, 江戸参府, 外国人専用
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 7
+deleted 0entities.

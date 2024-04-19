@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リブマックスリゾート伊東川奈>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+ベッドルーム, フロント, 敷地, ベランダ, レストラン, ホテル, 和室, 窓, テレビ ベット, サマーベット, 太平洋, 伊豆, 階段, 米, 露天風呂, 場所, ダブルベッド
+cluster1:(4)
+眺め, 到着, 経由, 離れ棟
+cluster2:(9)
+駐車場, 温泉, 屋外プール, 客室, 壷風呂, 朝食バイキング, 露天, 浴場, 宿泊
+cluster3:(1)
+大海原
+cluster4:(1)
+露天風呂付2食バイキング
+cluster5:(2)
+伊東川奈駅, 聖地巡礼ハイキング旅
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 3
+deleted 4entities.

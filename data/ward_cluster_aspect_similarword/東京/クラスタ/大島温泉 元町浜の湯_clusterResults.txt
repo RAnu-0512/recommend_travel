@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島温泉 元町浜の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+更衣室, 更衣室内
+cluster1:(2)
+元町, 元町港
+cluster2:(10)
+途中, 場所, ◎三原山, 日, 夕方, 前, 時間, 時刻, 地元, 目
+cluster3:(2)
+会話, 男女
+cluster4:(11)
+富士山, レンタル, ストレス, 夏休み, 気, 露天風呂, ドライブ, 欲, 方, こと, もの
+cluster5:(4)
+伊豆, 海, 浜, 日光
+cluster6:(2)
+荒天, 天気
+cluster7:(3)
+景色, 夕日, 眺望
+cluster8:(10)
+水着着用, 水着, 温泉, 日帰り入浴施設, 御神火温泉, 風呂, 混浴, 脱衣所, 混浴露天風呂, 湯
+
+howmany entities : 46
+howmany clusters : 9
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 9
+deleted 0entities.

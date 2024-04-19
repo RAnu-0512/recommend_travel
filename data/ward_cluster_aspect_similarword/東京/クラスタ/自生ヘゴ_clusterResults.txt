@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:自生ヘゴ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ジュラシックパーク, ポンチョ
+cluster1:(1)
+カッパ
+cluster2:(1)
+トイレ
+cluster3:(1)
+八丈島
+cluster4:(1)
+世界
+cluster5:(1)
+森
+cluster6:(1)
+恐竜
+cluster7:(1)
+天候
+cluster8:(1)
+ヘゴ
+cluster9:(1)
+注意事項
+cluster10:(1)
+原生林ウォーク
+
+howmany entities : 12
+howmany clusters : 11
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 11
+deleted 0entities.

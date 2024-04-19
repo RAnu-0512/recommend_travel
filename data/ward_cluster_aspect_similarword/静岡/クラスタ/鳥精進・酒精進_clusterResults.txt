@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥精進・酒精進>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+河津駅, 来宮神社
+cluster1:(3)
+酒精進, 鳥精進, 酒
+cluster2:(2)
+昔ばなし, 近く
+cluster3:(2)
+こと, 説明
+cluster4:(1)
+所
+cluster5:(3)
+卵, 鳥, 神
+cluster6:(1)
+野火
+cluster7:(1)
+小鳥たち
+cluster8:(1)
+大クス
+cluster9:(1)
+かわづ
+
+howmany entities : 17
+howmany clusters : 10
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 11entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:立石仲見世商店街--------------------
+top3 entities near to cluster0>>
+駅前店, 駅前, 界隈
+top3 entities near to cluster1>>
+定食屋, 定食, 屋並
+top3 entities near to cluster2>>
+総菜, 惣菜, 弁当
+top3 entities near to cluster3>>
+総菜屋, 惣菜屋, 惣菜, 総菜
+top3 entities near to cluster5>>
+商店街, 商店, 繁華街, 繁華

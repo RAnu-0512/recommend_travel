@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊藤博文旧宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊藤博文, 吉田松陰
+cluster1:(2)
+総理大臣, 幼年期
+cluster2:(9)
+住宅, 別邸, 邸宅, 旧宅, 民家, 外観, 資料館, 陶像, 建物
+cluster3:(7)
+維新, 松下村, 東京, 日本, 松蔭エリア, 萩, 明治
+cluster4:(6)
+横, 昔, 地元, 隣, 近く, 宅
+cluster5:(2)
+室内, 外
+cluster6:(2)
+屋根, 雨
+cluster7:(21)
+中, まわり, 松陰神社, シート, 雨漏り, 土台, 生活, ボランティア, 車, 家, 両方, 波乱万丈, 人生, 時間, 雰囲気, 有料, 方, 人, 歴史, ぐるり, ガイド
+cluster8:(9)
+もの, 見学, こと, 勉強, 事, 感じ, 少し先, 説明, 様子
+cluster9:(1)
+茅葺屋根
+
+howmany entities : 61
+howmany clusters : 10
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 10
+deleted 0entities.

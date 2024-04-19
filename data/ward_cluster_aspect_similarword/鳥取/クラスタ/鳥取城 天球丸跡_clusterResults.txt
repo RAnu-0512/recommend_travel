@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取城 天球丸跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+池田長吉, 池田恒興
+cluster1:(12)
+巻き石垣, 鳥取城, 特徴, 丸い石垣, 目的, 石垣, デザイン, 巻石垣, 形, 鳥取城跡, もの, 曲輪
+cluster2:(2)
+球面状, 球体状
+cluster3:(3)
+天球院, 天球, 天球丸
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

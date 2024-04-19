@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国立能楽堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入り口, ロビー
+cluster1:(8)
+イベント, ファミリー, コインロッカー, エントランス, チケット, たたずまい, オススメ, ロッカー
+cluster2:(2)
+ひとつ, おかげ
+cluster3:(1)
+エリア
+cluster4:(3)
+雰囲気, 気持ち, 初心者
+cluster5:(1)
+おそう
+cluster6:(3)
+能楽堂, 歌舞伎, 日本
+cluster7:(1)
+総武線
+cluster8:(3)
+左, 腹, 右
+cluster9:(12)
+こちら側, 友人, 周囲, 門, 近く, 程度, 時間, 庭, 中, 能, 存分, 外
+cluster10:(18)
+字幕, 家柄, 翻訳, 方, こと, 必携, どこか, 普及, 感じ, 事, 知識, 方法, 見所, ほう, 勉強, 部類, 保存, 違い
+cluster11:(2)
+住宅街, 商業施設
+cluster12:(3)
+駅, 千駄ヶ谷駅, 改札
+cluster13:(4)
+座席, 傘, 荷物, 椅子
+cluster14:(2)
+歩道, 路地
+cluster15:(5)
+施設, 建物, 看板, 地図, 資料
+cluster16:(3)
+空間, 所, 場所
+cluster17:(1)
+外国人
+cluster18:(1)
+座り心地
+cluster19:(1)
+各駅停車
+cluster20:(1)
+資料展示室
+cluster21:(1)
+Wi-Fi
+cluster22:(20)
+楽屋入り口, 公演, 狂言, 伝統, 独立行政法人, 文化, 定例公演, 能楽師, 主催公演, 能楽堂内, 公演場, 国立能楽堂, 開演, 伝統文化, 日本芸術文化振興会, 能楽専門, 落語, 演目, 伝統芸能, 能楽
+
+howmany entities : 98
+howmany clusters : 23
+howmany entities (more than1entities) : 98
+howmany clusters (more than1entities) : 23
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蛇窪神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+御朱印, 小学校
+cluster1:(1)
+神社
+cluster2:(1)
+所
+cluster3:(1)
+白蛇
+cluster4:(1)
+中延駅
+cluster5:(1)
+東急大井町線
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

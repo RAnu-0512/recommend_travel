@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八木キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+アウトドア, 車, トイレ, アバウト, 大井川, チェックイン アウト, 老舗, フリーサイト, 初心者
+cluster1:(2)
+キャンプ場, 河畔
+cluster2:(2)
+大井川鐵道, 千頭駅
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 4entities.

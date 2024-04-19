@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:虚空蔵尊養願寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+明鏡山善光院, 養願寺
+cluster1:(2)
+商店街沿い, 商店街
+cluster2:(2)
+新馬場駅, 改札
+cluster3:(7)
+言葉, 場所, 人, 左, 前, 目印, 路地
+cluster4:(9)
+守り本尊, 最寄り駅, 東海道, 天台宗, 北品川, 天界, つとめ, 七福神, 布袋尊
+cluster5:(1)
+感
+cluster6:(7)
+線香, 本堂, 七福神巡り, 寺, 坊, 虚空蔵尊, 境内
+cluster7:(1)
+脇侍
+cluster8:(5)
+品川神社, 東海七, 磐井神社, 京急新馬場, 十三参り
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 9
+deleted 0entities.

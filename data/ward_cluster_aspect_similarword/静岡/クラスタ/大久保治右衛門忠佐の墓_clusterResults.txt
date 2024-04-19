@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大久保治右衛門忠佐の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+戦い, 交差点, 西間門, 妙伝寺, 近く
+cluster1:(3)
+門, 墓, 寺
+cluster2:(2)
+東海道筋, 沼津宿
+cluster3:(1)
+大久保治右衛門忠佐
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

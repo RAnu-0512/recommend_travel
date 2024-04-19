@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長門峡県立自然公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+長門峡, 中国
+cluster1:(2)
+山々, 風景
+cluster2:(1)
+河川
+cluster3:(1)
+奇岩
+cluster4:(1)
+山口市
+cluster5:(1)
+水墨画
+cluster6:(1)
+長門峡県立自然公園
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小金井市文化財センター(旧浴恩館)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小金井市, 東小金井駅, 下村湖
+cluster1:(2)
+右, 左
+cluster2:(3)
+中, 昔, 場所
+cluster3:(2)
+内部, 建物
+cluster4:(1)
+小道
+cluster5:(1)
+資料館
+cluster6:(2)
+浴恩館公園, 青年団講習所
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,19 @@
+--------------------similar_words:西六郷公園--------------------
+top3 entities near to cluster0>>
+公園, 園内, 開園
+top3 entities near to cluster1>>
+駅, 徒歩, 東口
+top3 entities near to cluster2>>
+珍, おもしろ, 面白い
+top3 entities near to cluster3>>
+孫, 子供, 息子
+top3 entities near to cluster4>>
+滑り台, 遊具, すべり台
+top3 entities near to cluster5>>
+種類, 数種類, 箇所
+top3 entities near to cluster6>>
+怪獣, 棲星, ウルトラマン
+top3 entities near to cluster7>>
+廃, 置藩, タイヤ
+top3 entities near to cluster8>>
+雑色, 京, 急

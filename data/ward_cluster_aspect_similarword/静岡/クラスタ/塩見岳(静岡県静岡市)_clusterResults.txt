@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:塩見岳(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+南アルプス, 中央
+cluster1:(5)
+山頂, 天狗岩, 日帰り, 塩見岳, 直下
+cluster2:(1)
+距離
+cluster3:(1)
+高原植物
+cluster4:(1)
+鳥倉登山口
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than3entities) : 5
+howmany clusters (more than3entities) : 1
+deleted 5entities.

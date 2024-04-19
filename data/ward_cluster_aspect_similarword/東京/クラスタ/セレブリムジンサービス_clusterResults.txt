@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:セレブリムジンサービス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+クルージング, ドライバー
+cluster1:(1)
+方
+cluster2:(1)
+場所
+cluster3:(1)
+都
+cluster4:(1)
+SNS映え
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

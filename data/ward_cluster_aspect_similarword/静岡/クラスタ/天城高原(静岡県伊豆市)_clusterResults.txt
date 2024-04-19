@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天城高原(静岡県伊豆市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+天城越え, ホテルハーベスト天城高原, 天城高原
+cluster1:(2)
+伊豆, 伊豆スカイライン
+cluster2:(4)
+ベランダ側, 前回, 笑, ほう
+cluster3:(2)
+天城山ビュー, ビュー
+cluster4:(3)
+富士山, 天城峠, 天城山
+cluster5:(15)
+ツインベッド, ディナー, ドッグラン, バイク, ホテル, ソフトドリンク, テーブル, ポイント, 人, ビュッフェ, ハンモック, ドライブ, バーーン, 最上階, バイキング
+cluster6:(5)
+和コーナー, 雪, 野生, 鹿, 道
+cluster7:(2)
+ユニットバス, バスツアー
+cluster8:(9)
+窓, 額縁, 空気, 景観, 展望デッキ, 景色, 部屋, 場所, 天気
+cluster9:(10)
+朝食, 温泉, ゴルフ場, 団体ツアー, コース料理, 浴室, コロナ対策, 長風呂, 洋室, 宿泊
+cluster10:(1)
+品数種類
+cluster11:(1)
+星空観測エリア
+
+howmany entities : 57
+howmany clusters : 12
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 7
+deleted 8entities.

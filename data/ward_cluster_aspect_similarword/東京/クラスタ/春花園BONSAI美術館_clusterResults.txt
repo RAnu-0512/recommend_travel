@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:春花園BONSAI美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+外国人, 外国, 外国人観光客, 客, 観光客
+cluster1:(3)
+花園BONSAI, 花園BONSAI美術館, 春花園
+cluster2:(4)
+量, 値段, 上手, 興味
+cluster3:(5)
+海外, 人気, 素人, 界隈, 日本
+cluster4:(2)
+次回, 目
+cluster5:(6)
+作品, 場所, 人, 方, 中, もの
+cluster6:(8)
+手入れ, BONSAI美術館, すばらしさ, 見ごたえ, BONSAI, 美術館, スポット, 祖母
+cluster7:(1)
+訪問
+cluster8:(12)
+建物, 駐車場, 鉢, 和室, 美術品, 盆栽作品, 庭園, 体験教室, 盆栽, 住宅街, 江戸川区, 家屋
+cluster9:(1)
+BONSAIイズ ワールドワイドなアート春花園
+
+howmany entities : 47
+howmany clusters : 10
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 10
+deleted 0entities.

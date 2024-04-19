@@ -1,0 +1,17 @@
+--------------------similar_words:平和の時計塔--------------------
+top3 entities near to cluster0>>
+原爆, 被爆, 核兵器
+top3 entities near to cluster1>>
+平和, 公園, 祈念
+top3 entities near to cluster4>>
+胸心, 胸, 奥底
+top3 entities near to cluster5>>
+鐘音, 鐘, ゴーンゴーン
+top3 entities near to cluster7>>
+鉄柱, 鉄柵, 鉄塔
+top3 entities near to cluster8>>
+三方, 活栓, 二方
+top3 entities near to cluster9>>
+平和, 平穏, 象徴
+top3 entities near to cluster10>>
+時計塔, 時計, 腕時計

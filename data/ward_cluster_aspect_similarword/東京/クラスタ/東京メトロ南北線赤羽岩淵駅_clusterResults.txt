@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線赤羽岩淵駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+終着, 終着口
+cluster1:(5)
+JR, 駅, 列車, 終点, 赤羽岩淵駅
+cluster2:(7)
+近く, ルヴァンカップ, 注意, 北, 全部, 南北線, 側
+cluster3:(2)
+本数, 距離
+cluster4:(1)
+専門店
+cluster5:(1)
+鰺
+cluster6:(1)
+決勝戦
+cluster7:(8)
+赤羽, 埼玉スタジアム2002, 埼玉県, 赤羽駅, 東京メトロ, JR赤羽駅, 東京メトロ南北線, 埼玉高速鉄道
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 8
+deleted 0entities.

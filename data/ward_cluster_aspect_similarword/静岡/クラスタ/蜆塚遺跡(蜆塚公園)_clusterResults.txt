@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蜆塚遺跡(蜆塚公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+縦穴式住居, 竪穴式住居
+cluster1:(12)
+縄文人, 貝, 貝殻, 地層, 蜆塚, 蜆塚遺跡, 遺跡, 貝層, 古代, 浜松市博物館, 貝塚, 浜松駅
+cluster2:(5)
+駐車場, 観光施設, 展示品, 案内版, 開館時間
+cluster3:(5)
+照明, 再現家屋, 住居, 住宅, 屋根
+cluster4:(21)
+博物館, 目, 本物, 再現, イベント, こと, 内部, 昔, 人, 体験, 目的, 時間, 感じ, お母さん, 中, 一般, 場所, 印象, 冬, 複製, 時代
+cluster5:(5)
+バス, 徒歩, 旅行, 生活, 道
+cluster6:(2)
+桜, 花見
+cluster7:(2)
+公園, 散歩
+cluster8:(1)
+寒さ
+cluster9:(3)
+高山家, 子供, 子供たち
+
+howmany entities : 58
+howmany clusters : 10
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 6
+deleted 7entities.

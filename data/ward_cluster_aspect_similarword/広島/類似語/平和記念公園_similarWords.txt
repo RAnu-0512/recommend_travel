@@ -1,0 +1,75 @@
+--------------------similar_words:平和記念公園--------------------
+top3 entities near to cluster0>>
+核兵器, 折り鶴, 原爆
+top3 entities near to cluster1>>
+アート, ライト, フロート
+top3 entities near to cluster2>>
+アーチ, ドーム, 丸天井
+top3 entities near to cluster4>>
+中心地, 市街地, 市街
+top3 entities near to cluster5>>
+思い出, 気持ち, 読み物
+top3 entities near to cluster6>>
+ベンチ, テント, トイレ
+top3 entities near to cluster7>>
+モニュメント, オブジェ, イベント
+top3 entities near to cluster8>>
+ネット, テレビ, インターネット
+top3 entities near to cluster9>>
+子ども, 修学旅行, 子供
+top3 entities near to cluster11>>
+鶴, 千代, 岡
+top3 entities near to cluster12>>
+ゴミ, ごみ, 塵
+top3 entities near to cluster13>>
+花見, 満開, 散歩
+top3 entities near to cluster14>>
+ゴム, 窓, ガラス
+top3 entities near to cluster15>>
+灯, 誘魚
+top3 entities near to cluster16>>
+電車, バス, 車内
+top3 entities near to cluster17>>
+川, 海, 河
+top3 entities near to cluster18>>
+緑, 花, 黄色
+top3 entities near to cluster19>>
+鐘, 噴水, 撞堂
+top3 entities near to cluster20>>
+祈り, 願い, 感謝
+top3 entities near to cluster21>>
+印象, 関心, 衝撃
+top3 entities near to cluster23>>
+人達, 人々, 大勢
+top3 entities near to cluster24>>
+人達, 大勢
+top3 entities near to cluster25>>
+夫婦, 子供, 家族
+top3 entities near to cluster27>>
+外国, 各国, 海外
+top3 entities near to cluster28>>
+公園, 遊具, 緑地
+top3 entities near to cluster31>>
+記念像, 記念碑, 記念
+top3 entities near to cluster32>>
+展示, 見学, 建設
+top3 entities near to cluster33>>
+園内, 開園, 閉園
+top3 entities near to cluster34>>
+木陰, 憩い, 休憩
+top3 entities near to cluster35>>
+敷地, 施設
+top3 entities near to cluster36>>
+時間, 日数, 所要
+top3 entities near to cluster37>>
+生活, 区
+top3 entities near to cluster38>>
+被爆地, 宿泊地, 被爆, 宿泊
+top3 entities near to cluster40>>
+原爆, 被爆, 爆弾
+top3 entities near to cluster41>>
+慰霊碑, 慰霊, 戦没
+top3 entities near to cluster42>>
+平和, 平穏, 恒久
+top3 entities near to cluster43>>
+記念, 館, 平和

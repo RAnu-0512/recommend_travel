@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:パークウェイ~火の山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+駐車料金, 料金無料, 自動車専用道路, 道路, 関門橋
+cluster1:(18)
+姿, 火, 春, 関門海峡, 対岸, 場所, チューリップ, ロープウェイ, 木, 下, ツツジ, ほう, 時期, パークウェイ, ロープウエイ, 方, 海, 近く
+cluster2:(3)
+山頂, 山駅, 山ロープーウェイ
+cluster3:(2)
+山パークウェイ, ロープウェイ乗り場
+cluster4:(9)
+道中, 眺望, 回転レストラン, 景色, 車, 夜景, 観光スポット, 絶景, 運転
+cluster5:(1)
+山山頂
+cluster6:(3)
+山立体駐車場, 立体駐車場, 駐車場
+cluster7:(5)
+山展望台, 展望所, 展望台, 回転展望台, 展望室
+
+howmany entities : 46
+howmany clusters : 8
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 8
+deleted 0entities.

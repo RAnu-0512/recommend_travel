@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ごうどブルーベリー園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+最後, 主人, 土産, 帰り, 家族, 美味しさ, こと, 奥さま, 大人, ポイント, 娘, 持ち帰り, ブルーベリー, 子供, アットホーム, 子ども, ハズレ, オーナー, 他, 説明
+cluster1:(4)
+虫, 実, 容器, 木
+cluster2:(2)
+酸味, ブルーベリー狩り
+cluster3:(1)
+富士市
+cluster4:(1)
+食べ放題
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 4entities.

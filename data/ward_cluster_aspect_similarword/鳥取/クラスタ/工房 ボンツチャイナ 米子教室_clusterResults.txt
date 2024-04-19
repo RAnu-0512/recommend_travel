@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:工房 ボンツチャイナ 米子教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+初心者, 主人, 感じ, 母, 説明, 体験, ホワイトデー, 焼き上がり, 陶芸体験, 茶碗, 陶芸, 先生, 形, 話, 教え方, おじぃちゃん, プレゼント, 出来上がり
+cluster1:(3)
+電動ロクロ, 電動ろくろ体験, 電動ろくろ
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

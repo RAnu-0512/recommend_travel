@@ -1,0 +1,35 @@
+--------------------similar_words:根津神社のツツジ--------------------
+top3 entities near to cluster0>>
+楽しい, 美しい, 素晴らしい
+top3 entities near to cluster1>>
+駅, 徒歩, 都心
+top3 entities near to cluster2>>
+木々, 斜面, 花
+top3 entities near to cluster3>>
+木, 金, 土
+top3 entities near to cluster4>>
+鳥居, 井戸
+top3 entities near to cluster7>>
+時期, 種類, 季節
+top3 entities near to cluster8>>
+遅咲き, 早咲き, 満開
+top3 entities near to cluster9>>
+見応え, 見ごたえ, 素人目
+top3 entities near to cluster11>>
+イベント, 雰囲気, つまみ
+top3 entities near to cluster12>>
+昔, 以前, 大昔
+top3 entities near to cluster13>>
+近所, 隣, 近辺
+top3 entities near to cluster14>>
+大勢, 多数, 大半
+top3 entities near to cluster15>>
+光景, 景色, 風景
+top3 entities near to cluster17>>
+屋台店, 屋台, 神社
+top3 entities near to cluster18>>
+つつじ, ツツジ, 満開
+top3 entities near to cluster19>>
+苑, 入場, 入園
+top3 entities near to cluster20>>
+神輿, 渡御, 神楽

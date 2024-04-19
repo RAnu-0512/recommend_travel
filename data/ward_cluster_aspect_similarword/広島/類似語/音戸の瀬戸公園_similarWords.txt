@@ -1,0 +1,11 @@
+--------------------similar_words:音戸の瀬戸公園--------------------
+top3 entities near to cluster1>>
+駐車場, 駐車, 展望
+top3 entities near to cluster3>>
+景色, 天気, 景観
+top3 entities near to cluster5>>
+里, 伝説
+top3 entities near to cluster6>>
+公園, 名所, 園内
+top3 entities near to cluster7>>
+満開, 桜, 季節

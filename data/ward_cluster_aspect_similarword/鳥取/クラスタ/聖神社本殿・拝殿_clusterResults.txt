@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:聖神社本殿・拝殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+本殿, 拝殿
+cluster1:(2)
+部分, 土台
+cluster2:(3)
+国, 動物, 彫刻
+cluster3:(1)
+干支
+cluster4:(1)
+文化財指定
+cluster5:(1)
+聖さん
+cluster6:(1)
+躍動感
+
+howmany entities : 11
+howmany clusters : 7
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 7
+deleted 0entities.

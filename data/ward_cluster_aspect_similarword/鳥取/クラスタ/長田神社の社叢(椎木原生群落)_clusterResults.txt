@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長田神社の社叢(椎木原生群落)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+神社, 社叢, 長田神社
+cluster1:(8)
+地元, 椎, 指定, 方, 感じ, 観光スポット, 鳥取県, 天然記念物
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

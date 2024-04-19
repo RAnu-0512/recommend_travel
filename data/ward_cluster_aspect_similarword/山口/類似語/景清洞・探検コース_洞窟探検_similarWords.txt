@@ -1,0 +1,7 @@
+--------------------similar_words:景清洞・探検コース_洞窟探検--------------------
+top3 entities near to cluster0>>
+探検, 探険, 洞窟
+top3 entities near to cluster2>>
+清, 景, 洞
+top3 entities near to cluster3>>
+洞窟, 洞, 探検

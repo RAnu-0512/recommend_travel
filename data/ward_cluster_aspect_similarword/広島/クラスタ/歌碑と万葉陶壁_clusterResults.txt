@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:歌碑と万葉陶壁>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+タクシー, ところ
+cluster1:(1)
+壁
+cluster2:(1)
+安芸津駅
+cluster3:(1)
+歌碑
+cluster4:(1)
+万葉陶
+cluster5:(1)
+JR呉線
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

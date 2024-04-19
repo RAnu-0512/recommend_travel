@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:素戔雄神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+都, 富士塚, 神社, 雰囲気, 起源, 静寂
+cluster1:(2)
+桃, 身
+cluster2:(1)
+地下水
+cluster3:(4)
+御神水, 瑞光石, 飛鳥大神千住大橋, 手水舎
+cluster4:(1)
+御祭神:素戔雄大神
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

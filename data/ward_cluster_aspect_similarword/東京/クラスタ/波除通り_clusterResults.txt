@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:波除通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+休憩所, 観光案内所
+cluster1:(2)
+神社, 波除
+cluster2:(2)
+店, 場所
+cluster3:(4)
+新大橋, 交差点, ポイント, パンフレット
+cluster4:(3)
+多く, 人, 前
+cluster5:(1)
+計画
+cluster6:(1)
+軒
+cluster7:(1)
+腰
+cluster8:(2)
+晴海通り, 中央区
+cluster9:(2)
+飲食店, 市場橋交差点
+cluster10:(11)
+築地6丁目, 築地エリア, 場内市場, 場外, 築地, 波除稲荷神社, 築地場外市場, 場外市場めぐり, ぷらっと築地, 築地市場, 築地六丁目
+
+howmany entities : 31
+howmany clusters : 11
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 11
+deleted 0entities.

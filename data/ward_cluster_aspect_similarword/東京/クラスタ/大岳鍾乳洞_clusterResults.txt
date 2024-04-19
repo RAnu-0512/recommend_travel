@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大岳鍾乳洞>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+足場, 岩, 天井
+cluster1:(3)
+服装, 荷物, 靴
+cluster2:(11)
+手ぶら, スリル, ところ, ひんやり, ヘルメット, 入り口, リュック, 不向き, スニーカー, 雰囲気, アップダウン
+cluster3:(2)
+御岳山, 大岳山
+cluster4:(2)
+鍾乳石, 鍾乳洞
+cluster5:(1)
+女性
+cluster6:(6)
+自然, 東京, あきる野市, 神秘, 規模, 歴史
+cluster7:(20)
+途中, 所, 場所, 箇所, 気, 邪魔, 本数, 感じ, 形, 頭, 機会, ほう, 中, こと, バス, バス停側, かたは お気, 方, 受付, 最初
+cluster8:(8)
+重要さ, 鍾乳洞らしさ, 冒険気分, 採石場, 観光地, 探険気分, 体験談, 大岳鍾乳洞
+
+howmany entities : 56
+howmany clusters : 9
+howmany entities (more than1entities) : 56
+howmany clusters (more than1entities) : 9
+deleted 0entities.

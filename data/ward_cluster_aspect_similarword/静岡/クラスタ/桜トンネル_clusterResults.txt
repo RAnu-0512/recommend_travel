@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桜トンネル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+車, 車両, 客車
+cluster1:(3)
+枝, 蕾, 満開
+cluster2:(2)
+下旬, 木
+cluster3:(3)
+恒例, 時期, 季節
+cluster4:(5)
+側, 横, 両側, 頭上, 後ろ
+cluster5:(3)
+周辺, 時間, 近く
+cluster6:(2)
+景色, 風景
+cluster7:(2)
+撮影, 写真
+cluster8:(19)
+後ろ向き, こと, 機関車, 大井川, ホーム, 方, 並木道, ところ, 葉っぱ, 桜並木, 向き, 道中, トイレ, 待ち時間, カメラマン, トンネル, 花盛り, 方々, 道
+cluster9:(4)
+駐車場, ツアー客, 宿泊先, 連結作業
+cluster10:(3)
+下 SL, SLファン, SL
+cluster11:(2)
+臨時SL急行, SL急行
+cluster12:(5)
+是非桜, 桜祭り, 桜トンネル, しだれ桜, 桜
+cluster13:(2)
+家山駅, 家山桜トンネル
+cluster14:(1)
+大井川鐵道
+
+howmany entities : 59
+howmany clusters : 15
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 9
+deleted 11entities.

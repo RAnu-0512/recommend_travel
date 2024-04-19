@@ -1,0 +1,7 @@
+--------------------similar_words:ふれあいサウナ--------------------
+top3 entities near to cluster0>>
+時間, 当番, ご飯
+top3 entities near to cluster1>>
+サウナ, タオル, バス
+top3 entities near to cluster2>>
+地熱, 温度, 気温

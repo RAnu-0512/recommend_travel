@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営浅草線 浅草橋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+乗換, 駅, 浅草橋駅, 駅入り口
+cluster1:(4)
+東京, 浅草, 東京メトロ, 都営
+cluster2:(2)
+人たち, 人
+cluster3:(3)
+下りエスカレーター, 地上, 真下
+cluster4:(2)
+余裕, 感じ
+cluster5:(10)
+出入り口, 年寄り, 都営地下鉄, 浅草橋, 浅草線, 羽田空港, 地下鉄, 行き先, 乗り換え, 成田空港
+cluster6:(1)
+jr
+cluster7:(1)
+商談
+cluster8:(5)
+JR浅草橋駅, JR浅草橋, 北総線, JR総武線, JR線
+
+howmany entities : 32
+howmany clusters : 9
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 9
+deleted 0entities.

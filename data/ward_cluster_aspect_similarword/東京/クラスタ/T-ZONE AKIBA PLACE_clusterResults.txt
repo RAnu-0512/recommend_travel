@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:T-ZONE AKIBA PLACE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+開催, 結論
+cluster1:(1)
+閉店
+cluster2:(1)
+臨時取締役会
+cluster3:(1)
+黒字転換
+cluster4:(1)
+T・ZONE.AKIBA PLACE
+cluster5:(1)
+業績改善策
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

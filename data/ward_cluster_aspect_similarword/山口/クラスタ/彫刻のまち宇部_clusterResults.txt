@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:彫刻のまち宇部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+版, ときわ公園, 芸術, アート, 作品, 宇部, マップ, 街
+cluster1:(4)
+彫刻展, 彫刻, 受賞作品, 彫刻マップ
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

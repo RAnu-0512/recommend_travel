@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:晴海トリトンスクエア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+言葉, 声
+cluster1:(2)
+係員, 客
+cluster2:(4)
+店, 場所, 施設, 案内
+cluster3:(18)
+途中, オリンピック, 食事, オフィス, ドラマ, スーパー, 人, 他, フードコート, トリトンスクエア, 入り口, 休日, 夕飯, 方, スポット, ファッション, ドラッグストア, 仕組み
+cluster4:(1)
+数人
+cluster5:(1)
+ロック板
+cluster6:(4)
+勝どき駅, 晴海, ハイルーフ車, 中央区
+cluster7:(3)
+オフィスビル, オフィスビル街, 高層ビル
+cluster8:(5)
+駐車, 駐車場, 複合施設, 飲食店, 商業施設
+cluster9:(3)
+発券機, 機械式, 割引券
+
+howmany entities : 43
+howmany clusters : 10
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 10
+deleted 0entities.

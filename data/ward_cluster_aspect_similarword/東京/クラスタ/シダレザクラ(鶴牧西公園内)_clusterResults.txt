@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シダレザクラ(鶴牧西公園内)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+小田急電鉄多摩線, 唐木田駅, 小田急多摩線
+cluster1:(9)
+アクセス方法, 桜, 道, 信号, バスロータリー, シダレザクラ, 終点, 入口, 花
+cluster2:(3)
+複数本, 左, 右
+cluster3:(1)
+珈琲店
+cluster4:(1)
+鶴牧西公園
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

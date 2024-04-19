@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ東西線 神楽坂駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+牛込神楽坂駅, 赤城神社, 江戸時代, 武家屋敷
+cluster1:(2)
+地上出口, 出口
+cluster2:(4)
+車, 道路, 脇, 路地
+cluster3:(2)
+地下鉄, 東西線
+cluster4:(4)
+カフェ, スーパー, ホーム, 雰囲気
+cluster5:(3)
+神楽坂, 飯田橋, 大久保
+cluster6:(6)
+場所, 多く, 人, 感じ, コジャレタ店, 町
+cluster7:(10)
+観光, 神楽坂通り, 神楽坂駅, 神楽坂観光, 神楽坂散策, 神楽坂下, 駅, 坂, 神楽坂上, 東京メトロ
+cluster8:(1)
+広さ
+cluster9:(2)
+乗降客層, 合格祈願
+
+howmany entities : 38
+howmany clusters : 10
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 10
+deleted 0entities.

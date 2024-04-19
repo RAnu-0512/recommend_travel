@@ -1,0 +1,11 @@
+--------------------similar_words:小笠原水産センター--------------------
+top3 entities near to cluster0>>
+出入り, 裏手, 隣
+top3 entities near to cluster1>>
+規模, 施設, 設備
+top3 entities near to cluster2>>
+入館, 入場, 拝観
+top3 entities near to cluster3>>
+二見, 港, 甚郷
+top3 entities near to cluster4>>
+生物, 海洋, 繁殖

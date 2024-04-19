@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉吉パークスクエア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+倉吉未来中心, 倉吉市, 倉吉交流プラザ, 倉吉パークスクエア
+cluster1:(2)
+文化ホール, 文化施設
+cluster2:(2)
+複合文化施設, 複合施設
+cluster3:(2)
+温水プール, 駐車場
+cluster4:(2)
+中心部, 食べ比べ
+cluster5:(12)
+テーマ, クイズ, 出迎え, スクエア, ミュージアム, 子ども, デザイン, プール, 博物館, 吹き抜け, 子供, 図書館
+cluster6:(8)
+日本, 多く, 唯一, 歴史, 地元, 楽しみ方, 情報, 場所
+cluster7:(2)
+木, なし
+cluster8:(6)
+建物, 公園, 敷地, 市営, 遊具, 施設
+cluster9:(4)
+梨ジュース, 梨, 梨ソフト, っこ館
+cluster10:(1)
+鳥取二十世紀梨記念館
+
+howmany entities : 45
+howmany clusters : 11
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 11
+deleted 0entities.

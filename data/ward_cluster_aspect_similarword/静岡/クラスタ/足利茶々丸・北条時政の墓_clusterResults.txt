@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足利茶々丸・北条時政の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+北条時政, 北条政子
+cluster1:(2)
+時政, 北条
+cluster2:(22)
+元服, 親近感, 仏像, 恩恵, 大河ドラマ, 足利茶々丸, 墓所, 墓地周辺, 程度年齢, 人, 歴史, 源頼朝, 奥, 境内, 墓, 願成就院, 岳父, 人物, 場所, イメージ, 丸, 父
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 1
+deleted 4entities.

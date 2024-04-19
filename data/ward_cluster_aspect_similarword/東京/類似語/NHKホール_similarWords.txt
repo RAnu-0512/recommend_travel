@@ -1,0 +1,29 @@
+--------------------similar_words:NHKホール--------------------
+top3 entities near to cluster0>>
+高揚感, 高級感, 高揚, 高級
+top3 entities near to cluster2>>
+座席, 席, 人数
+top3 entities near to cluster4>>
+コンサート, ライブ, ライヴ
+top3 entities near to cluster5>>
+家族, 番組
+top3 entities near to cluster6>>
+駅, 帰り道
+top3 entities near to cluster7>>
+荷物, 手荷物, スーツケース
+top3 entities near to cluster8>>
+清掃, 掃除, 掃き掃除
+top3 entities near to cluster9>>
+軽食, 飲み物, 昼食
+top3 entities near to cluster10>>
+会場, ホール, コンサート
+top3 entities near to cluster11>>
+歌謡, 演歌, ポップス
+top3 entities near to cluster14>>
+紅白, 歌合戦, 大みそか
+top3 entities near to cluster15>>
+放送, 番組, 公開
+top3 entities near to cluster16>>
+収録, 公開, 発売
+top3 entities near to cluster17>>
+楽団, 交響, 演奏

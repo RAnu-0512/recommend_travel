@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おのみち文学の館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+志賀直哉, 志賀直哉旧居
+cluster1:(2)
+旧宅, 旧居
+cluster2:(3)
+広島, 林芙美子, 尾道
+cluster3:(2)
+地, 観光
+cluster4:(3)
+眺め, 感じ, こと
+cluster5:(5)
+途中, 街並み, 家, 名, 千光寺
+cluster6:(3)
+足跡, 館, 資料
+cluster7:(5)
+山腹, 千光寺公園, 小道, 坂, 階段
+cluster8:(9)
+中村憲吉, おのみち文学, 文化人, 文学者, 作家たち, 文学, 作家, 文学記念館, こみち
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 9
+deleted 0entities.

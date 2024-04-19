@@ -1,0 +1,25 @@
+--------------------similar_words:ストロベリー 金指園--------------------
+top3 entities near to cluster0>>
+駅車, 駅, 列車
+top3 entities near to cluster1>>
+雰囲気, 気持ち, スタッフ
+top3 entities near to cluster3>>
+イチゴ, いちご, 苺
+top3 entities near to cluster4>>
+息子, 長男, 次男
+top3 entities near to cluster5>>
+家族, 子供, 主人
+top3 entities near to cluster7>>
+脇, 裏手, 入り口
+top3 entities near to cluster9>>
+景色, 温泉, 果物
+top3 entities near to cluster10>>
+時間, 制限, 制約
+top3 entities near to cluster11>>
+受付, 予約, 案内
+top3 entities near to cluster12>>
+電話, 番号, 携帯
+top3 entities near to cluster14>>
+大きい, 重視
+top3 entities near to cluster16>>
+狩り, イチゴ, 苺

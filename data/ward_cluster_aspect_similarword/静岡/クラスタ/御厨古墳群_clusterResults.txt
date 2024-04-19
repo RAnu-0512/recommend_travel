@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御厨古墳群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+御厨古墳群, 御厨堂山, 西側約1kmn堂山古墳, 鎌田神明宮
+cluster1:(5)
+古墳群, 古墳巡り, 円墳, 中心古墳, 古墳
+cluster2:(9)
+車, 雰囲気, 磐田駅, 東海道線, 山, 周辺, 形, 前方後円墳, 小山
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久能山石垣いちご栽培誕生の家明治二十九年創業 常吉いちご園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イチゴ狩り, いちご狩りシーズン
+cluster1:(3)
+いちご, 子供, イチゴ
+cluster2:(2)
+車, バス
+cluster3:(1)
+店員
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 5entities.

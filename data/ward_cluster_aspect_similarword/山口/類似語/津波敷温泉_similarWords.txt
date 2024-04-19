@@ -1,0 +1,11 @@
+--------------------similar_words:津波敷温泉--------------------
+top3 entities near to cluster0>>
+海, アワビ, サザエ
+top3 entities near to cluster1>>
+温泉, 食事, 夕食
+top3 entities near to cluster2>>
+刺身, 刺し身, 煮付け
+top3 entities near to cluster3>>
+食べごたえ, 食べ, たべ
+top3 entities near to cluster4>>
+敷, 津波, 温泉

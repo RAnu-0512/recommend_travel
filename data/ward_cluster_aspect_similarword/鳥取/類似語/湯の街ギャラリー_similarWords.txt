@@ -1,0 +1,21 @@
+--------------------similar_words:湯の街ギャラリー--------------------
+top3 entities near to cluster0>>
+影響, 参考, 及ぼし
+top3 entities near to cluster1>>
+メイン, 中心, カメラ
+top3 entities near to cluster2>>
+施設, 店舗
+top3 entities near to cluster3>>
+繁華街, 活気, 繁華
+top3 entities near to cluster4>>
+館, 写真, 資料
+top3 entities near to cluster5>>
+歩き, まち, あるき
+top3 entities near to cluster6>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster7>>
+足湯, 湯, 温泉
+top3 entities near to cluster8>>
+薬師, 湯, 温泉
+top3 entities near to cluster10>>
+飲場, 泉場, 飲, 泉

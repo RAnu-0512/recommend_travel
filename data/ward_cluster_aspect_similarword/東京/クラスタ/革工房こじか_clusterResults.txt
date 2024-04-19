@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:革工房こじか>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+//, ショルダーバッグ, 穴あけ, 家, こっち, ちょ, ランドセル, 帰宅, お気に入り, 体験, 母, 時間, 次, 先生, 雰囲気, テンションマックス, 作業, バッグ, 瞬間
+cluster1:(2)
+興味, 香り
+cluster2:(6)
+糸, 穴, ドア, レザークラフト, 裁断, 革
+cluster3:(2)
+不器, 嬉しさ
+cluster4:(1)
+*́∀`
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 5
+deleted 0entities.

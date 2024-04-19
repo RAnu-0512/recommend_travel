@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ネコカフェMONTA>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+猫達, 猫たち
+cluster1:(3)
+猫ちゃん, 猫カフェ, 猫
+cluster2:(12)
+おもちゃ, 時間, 入口, 子供, 商売, 体験, 次元, 感じ, 問題, 気分, 浅草, 思い出す度
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 3
+deleted 0entities.

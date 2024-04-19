@@ -1,0 +1,41 @@
+--------------------similar_words:宮益坂--------------------
+top3 entities near to cluster0>>
+宮益, 宮, 坂
+top3 entities near to cluster1>>
+宮, 御嶽, 神社
+top3 entities near to cluster3>>
+シアター, カード, プレミア
+top3 entities near to cluster4>>
+メイン, ホール, サイド
+top3 entities near to cluster5>>
+フード, ケーキ, デザート
+top3 entities near to cluster6>>
+喫茶店, カフェ, レストラン
+top3 entities near to cluster7>>
+充実, 眺め, もつ
+top3 entities near to cluster10>>
+散策, 散歩, 食事
+top3 entities near to cluster11>>
+ビル, バー, ミニ
+top3 entities near to cluster12>>
+坂道, 勾配, 階段
+top3 entities near to cluster13>>
+通行, 混雑, 渋滞
+top3 entities near to cluster14>>
+道筋, 距離
+top3 entities near to cluster15>>
+人々, 人達
+top3 entities near to cluster16>>
+歩道, 路地, 電車
+top3 entities near to cluster20>>
+パン屋, 定食屋, 定食, パン
+top3 entities near to cluster21>>
+飲食店, 店舗, 飲食
+top3 entities near to cluster22>>
+繁華街, 商店街, 繁華, 商店
+top3 entities near to cluster23>>
+電話, 携帯, 会社
+top3 entities near to cluster25>>
+坂道
+top3 entities near to cluster26>>
+郵便局, 街路, 郵便

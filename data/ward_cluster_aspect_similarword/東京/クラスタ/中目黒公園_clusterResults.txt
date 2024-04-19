@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中目黒公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+目黒川沿い, 川沿い, 目黒川添い
+cluster1:(9)
+横断歩道, ちびっこ広場, 芝生広場, 改札口, 四季折々, 信号機, 芝生, 広場, 足つぼ歩道
+cluster2:(4)
+駒沢通り, 山手通り, 東京メトロ, 東京都
+cluster3:(2)
+家族連れ, 子供連れ
+cluster4:(9)
+前, 方面, 方, 感じ, 近く, アクセス方法, 側, 場所, 印象
+cluster5:(8)
+週末, 施設, 休日, 人たち, 家族, 仕事, 人, 子供
+cluster6:(2)
+左, 右
+cluster7:(5)
+ゴール, バスケットコート, バスケットゴール, サッカーコート, バスケ
+cluster8:(2)
+遊び場, 子連れ
+cluster9:(6)
+親子連れ, のんびり, おにぎり, スポット, おすすめ, スペース
+cluster10:(2)
+雰囲気, 気持ち
+cluster11:(1)
+歩道橋
+cluster12:(5)
+東京急行電鉄東横線, 中目黒, 日比谷線, 目黒川, 五反田
+cluster13:(7)
+駅, 歩道, 橋, 中目黒駅, 路地, 都会, 都心
+cluster14:(5)
+季節, 桜, 池, 花, 緑
+cluster15:(4)
+花見, 散歩, 中目黒公園, 公園
+cluster16:(3)
+道幅, 天気, 気温
+cluster17:(2)
+暑さ, 昼休憩
+
+howmany entities : 79
+howmany clusters : 18
+howmany entities (more than1entities) : 79
+howmany clusters (more than1entities) : 18
+deleted 0entities.

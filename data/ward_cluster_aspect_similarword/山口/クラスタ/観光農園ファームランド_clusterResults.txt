@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観光農園ファームランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+いちご狩り, 苺, 大粒
+cluster1:(9)
+量り売り, ハウス, ストロベリーピクニック, いちご, イチゴ, おにぎり, トイレ, デザート, うどん
+cluster2:(2)
+子供, 子連れ
+cluster3:(1)
+米
+cluster4:(9)
+接客, 施設, 食事, 土産, 敷地, 車, 台, 席, 風車
+cluster5:(3)
+雨天, 通行, 天気
+cluster6:(1)
+子供達
+cluster7:(1)
+おむつ替え
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:うさぎさん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ウサギ, うさぎ
+cluster1:(6)
+キュッキュッ, マーモット, オーナー, アルマジロ, オブジェ, プレーリードッグ
+cluster2:(2)
+チンチラ, ペレット
+cluster3:(1)
+マーモット目当て
+cluster4:(4)
+草, 数, 記憶, アレ
+cluster5:(1)
+フン
+cluster6:(8)
+店, 入口, 場, ペットホテル, 顔, 予約, 声, 子たち
+cluster7:(5)
+丸いボディ, 右, 左, 撫, モーマット
+cluster8:(2)
+触り心地, 清潔感
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 9
+deleted 0entities.

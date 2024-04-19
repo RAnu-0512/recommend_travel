@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安楽寺まぶ湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+子授かり, 病気, 先, イメージ, 曹洞宗, 金, 安楽寺
+cluster1:(3)
+お湯, 温泉, 湯
+cluster2:(3)
+坑道, 洞窟, 採掘
+cluster3:(3)
+薬師如来様, まぶ湯, 土肥温泉
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 0entities.

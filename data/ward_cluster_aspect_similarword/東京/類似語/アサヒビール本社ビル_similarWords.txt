@@ -1,0 +1,47 @@
+--------------------similar_words:アサヒビール本社ビル--------------------
+top3 entities near to cluster0>>
+レストラン, ビアガーデン, ビール
+top3 entities near to cluster1>>
+ゴールド, コーヒー, エスプレッソ
+top3 entities near to cluster2>>
+モチーフ, デザイン, オブジェ
+top3 entities near to cluster3>>
+かたち, 向こう, たもと
+top3 entities near to cluster4>>
+ビール, スーパードライ, ジョッキ
+top3 entities near to cluster7>>
+写真, 撮影, 撮っ
+top3 entities near to cluster8>>
+金, 金火, 土
+top3 entities near to cluster9>>
+奥, 上部, 真
+top3 entities near to cluster10>>
+琥珀色, ビール, 琥珀
+top3 entities near to cluster11>>
+天井, 屋上, 外壁
+top3 entities near to cluster12>>
+外観, 建物, 竣工
+top3 entities near to cluster13>>
+目印, 飾っ
+top3 entities near to cluster14>>
+金色, 黄金, 黄色
+top3 entities near to cluster15>>
+雲
+top3 entities near to cluster16>>
+川橋, 川沿い, 川
+top3 entities near to cluster17>>
+飲食店, 料理店, 飲食, 料理
+top3 entities near to cluster18>>
+景色, 車窓, 風景
+top3 entities near to cluster19>>
+名所, 定番, 名物
+top3 entities near to cluster20>>
+泡状, 聖火, 泡
+top3 entities near to cluster21>>
+本社, ビル, 社屋
+top3 entities near to cluster22>>
+本社, 支社, 社屋
+top3 entities near to cluster23>>
+ビル, 高層, 建物
+top3 entities near to cluster24>>
+バス, タクシー, 周遊

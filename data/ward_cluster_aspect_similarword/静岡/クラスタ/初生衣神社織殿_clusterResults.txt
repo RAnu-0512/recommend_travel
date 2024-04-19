@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:初生衣神社織殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+右側, 駐車場, 建物, 初生, 先, 難, 境内, 伊勢神宮, 駐車地, 屋根, 神, 織殿
+cluster1:(2)
+うぶぎぬ神社, 浜名惣社
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 2entities.

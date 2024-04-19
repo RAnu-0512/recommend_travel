@@ -1,0 +1,13 @@
+--------------------similar_words:由宇温泉--------------------
+top3 entities near to cluster0>>
+温泉, 旅館, 湯
+top3 entities near to cluster1>>
+低下, 高騰
+top3 entities near to cluster2>>
+接客, 料金, 内容
+top3 entities near to cluster3>>
+汗, 末期, サウナ
+top3 entities near to cluster5>>
+燃料費, 燃料, ガソリン
+top3 entities near to cluster6>>
+岩盤浴, 岩盤, 岩床

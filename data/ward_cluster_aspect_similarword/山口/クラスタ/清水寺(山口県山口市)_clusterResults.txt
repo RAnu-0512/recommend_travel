@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水寺(山口県山口市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+せいすいじ, せいすい寺, きよみず寺
+cluster1:(3)
+階段, 建築, 建物
+cluster2:(9)
+もの, 特色, 昔, 味, 様式, 場所, 時代, 風情, 歴史
+cluster3:(17)
+文化財, 本尊, 寺, 宮野下, 清水寺, 山口盆地, 紅葉, 地元, 指定文化財, 観音堂, 寺院, 雰囲気, 京都, トイレ, 県, 室町, お気
+cluster4:(1)
+組物
+cluster5:(1)
+禅宗様式
+cluster6:(4)
+千手観音菩薩立像, 山口県, 大内政弘, 山口市
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

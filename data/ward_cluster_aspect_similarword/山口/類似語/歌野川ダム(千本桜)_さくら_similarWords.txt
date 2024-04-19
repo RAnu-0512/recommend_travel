@@ -1,0 +1,13 @@
+--------------------similar_words:歌野川ダム(千本桜)_さくら--------------------
+top3 entities near to cluster0>>
+ダム, 湖畔, 湖
+top3 entities near to cluster1>>
+ダム, 湖, 湖畔
+top3 entities near to cluster2>>
+ダム, ダムサイト, 小里川
+top3 entities near to cluster3>>
+排水, 防災, ダム
+top3 entities near to cluster4>>
+桜, 千, 櫻
+top3 entities near to cluster5>>
+花見, 名所, 季節

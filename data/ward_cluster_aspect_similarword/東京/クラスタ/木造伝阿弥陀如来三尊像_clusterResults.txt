@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木造伝阿弥陀如来三尊像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+鎌倉, 文化財, もの, 悲願, 時代, 国, 阿弥陀如来
+cluster1:(3)
+木造伝阿弥陀, 御開帳, 大悲願寺
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くじら資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+古式捕鯨, 捕鯨, 捕鯨船
+cluster1:(3)
+クジラ資料館, くじら資料館, 資料館
+cluster2:(5)
+漁師, 鯨, 漁港, くじら唄, 胎児
+cluster3:(18)
+法要, 昔, こと, 道具, 最後, 館員, 資料, 地元, 年配, 人たち, クジラ, 説明, 写真, 墓, 歴史, 様子, 地域, 青海島
+cluster4:(1)
+長門市
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 5
+deleted 0entities.

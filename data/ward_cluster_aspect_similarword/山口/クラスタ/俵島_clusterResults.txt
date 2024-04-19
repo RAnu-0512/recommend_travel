@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:俵島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+事, 形, 名前, こと, 高さ
+cluster1:(2)
+海, 俵島
+cluster2:(2)
+岩, 岩石
+cluster3:(3)
+俵, 米, 小島
+cluster4:(1)
+向津具半島
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

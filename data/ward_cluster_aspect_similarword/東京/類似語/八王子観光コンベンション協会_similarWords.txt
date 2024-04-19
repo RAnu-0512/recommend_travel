@@ -1,0 +1,17 @@
+--------------------similar_words:八王子観光コンベンション協会--------------------
+top3 entities near to cluster0>>
+改札, 駅, 南口
+top3 entities near to cluster1>>
+協会, 名所, 振興
+top3 entities near to cluster3>>
+登山, 下山, 山登り
+top3 entities near to cluster5>>
+温泉, 電車, 祭り
+top3 entities near to cluster6>>
+ビル, タワービル, 社屋
+top3 entities near to cluster7>>
+駅, 北口, 南口
+top3 entities near to cluster8>>
+極楽, 湯, 温泉
+top3 entities near to cluster9>>
+協会, 振興, 公社

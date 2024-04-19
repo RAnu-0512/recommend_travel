@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹原まちなみ竹工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+形, ハート形
+cluster1:(6)
+興味, 目, 売り物, 前, ところ, 棚
+cluster2:(5)
+竹細工づくり, 竹, 工房, 体験, 竹細工
+cluster3:(1)
+竹原市
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

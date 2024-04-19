@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:最勝寺(目黄不動)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+目黄不動堂, 目黄不動尊, 五色不動
+cluster1:(2)
+荒川, 土手
+cluster2:(3)
+中, 近く, 時代
+cluster3:(3)
+不動尊, 不動堂, 不動
+cluster4:(1)
+門
+cluster5:(1)
+墓地
+cluster6:(1)
+仁王像
+cluster7:(1)
+JR平井駅
+cluster8:(1)
+江戸五色不動めぐりで目黄不動
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 9
+deleted 0entities.

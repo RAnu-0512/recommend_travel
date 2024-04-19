@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城原展望所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+晴天, 強風, 景色, 眺望
+cluster1:(2)
+浦富, 海底
+cluster2:(11)
+定番スポット, 浦富海岸, 車, 海, 予定, 自動車, 菜種島, 日本海, 此処, ドライブウエイ, 場所
+cluster3:(3)
+駐車スペース, 展望所, 駐車場
+cluster4:(6)
+海岸線, 岩美観光, 海岸沿い, 欠航, 遊覧船, 菜穂島
+cluster5:(1)
+鳥取&湯村温泉
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

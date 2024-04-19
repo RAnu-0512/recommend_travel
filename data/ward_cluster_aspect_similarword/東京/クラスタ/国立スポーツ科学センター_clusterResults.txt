@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国立スポーツ科学センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仙台, 浦和
+cluster1:(2)
+結果, 勝利
+cluster2:(2)
+施設, 会場
+cluster3:(7)
+一般, オリンピック, 最上階, 人, 西が丘, スポーツ, チェア
+cluster4:(1)
+食堂
+cluster5:(4)
+WEリーグ, 試合, 高校サッカー, 選手
+cluster6:(1)
+高田春奈
+cluster7:(1)
+押し気味
+cluster8:(1)
+マイナビ仙台対三菱重工浦和
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

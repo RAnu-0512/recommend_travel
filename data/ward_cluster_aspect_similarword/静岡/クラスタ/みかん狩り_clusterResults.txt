@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:みかん狩り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+みかん狩り園, みかん園, みかん狩り, 沢山のみかん山
+cluster1:(21)
+静岡, こたつ, 甘いみかん, 酸味, 斜面, みかん, 海外, 大人, (o, みかんかり, 手, 人, 体験, もぐ, 景色, ミカン, 花沢, 子供, 場所, 木, 方
+cluster2:(3)
+大きさ, もぎたて, 食べ応え
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 0entities.

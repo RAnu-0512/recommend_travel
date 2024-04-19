@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:修禅寺宝物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+拝観料, 本尊大日如来坐像
+cluster1:(2)
+源頼家, 頼家
+cluster2:(2)
+仏像, 品々
+cluster3:(3)
+顔, 印象, 価値
+cluster4:(2)
+修禅寺, 修善寺
+cluster5:(2)
+木彫り, ゆかり
+cluster6:(1)
+中
+cluster7:(3)
+歴史, 境内, 建物
+cluster8:(1)
+散歩
+cluster9:(1)
+源氏
+cluster10:(1)
+宝物館
+cluster11:(1)
+仏教系
+
+howmany entities : 21
+howmany clusters : 12
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 15entities.

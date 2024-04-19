@@ -1,0 +1,13 @@
+--------------------similar_words:神田の家 井政--------------------
+top3 entities near to cluster0>>
+木造, 建築, 家屋
+top3 entities near to cluster1>>
+店舗, 併用
+top3 entities near to cluster2>>
+箇所, か所
+top3 entities near to cluster3>>
+保存, 指定, 保管
+top3 entities near to cluster5>>
+カフェ, ケーキ, チーズ
+top3 entities near to cluster6>>
+建物, 家屋, 裏手

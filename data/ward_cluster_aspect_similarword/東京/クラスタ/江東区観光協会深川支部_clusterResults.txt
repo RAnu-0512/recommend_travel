@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江東区観光協会深川支部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地図, 観光地図
+cluster1:(5)
+中, 手, 有力情報, 地元, キャラクター
+cluster2:(7)
+深川観光協会, 深川モダン館, 観光地, 江東おでかけ情報局, 深川, 江東区, 観光案内所
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

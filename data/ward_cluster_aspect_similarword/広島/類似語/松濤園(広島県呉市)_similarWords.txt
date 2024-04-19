@@ -1,0 +1,19 @@
+--------------------similar_words:松濤園(広島県呉市)--------------------
+top3 entities near to cluster0>>
+時代, 鎖国, 通信使
+top3 entities near to cluster1>>
+外交, 民間, 軍事
+top3 entities near to cluster3>>
+家屋, 歴史, 展示
+top3 entities near to cluster4>>
+庭, 海, 海辺
+top3 entities near to cluster5>>
+景色, 料理, 風景
+top3 entities near to cluster6>>
+服装, 髪型, 私服
+top3 entities near to cluster7>>
+海道, ノブチカ, 街道
+top3 entities near to cluster8>>
+館, 資料, 史料
+top3 entities near to cluster9>>
+交通, 海上, 船舶

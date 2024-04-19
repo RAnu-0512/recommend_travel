@@ -1,0 +1,9 @@
+--------------------similar_words:日本航空発始の碑--------------------
+top3 entities near to cluster0>>
+石碑, 碑石
+top3 entities near to cluster3>>
+明治, 大正, 幕末
+top3 entities near to cluster4>>
+飛行, 初, 離陸
+top3 entities near to cluster5>>
+練兵場, 練兵, 場裏

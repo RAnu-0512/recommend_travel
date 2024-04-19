@@ -1,0 +1,51 @@
+--------------------similar_words:午前2時のハリネズミさん--------------------
+top3 entities near to cluster0>>
+人達, 仲間, 大勢
+top3 entities near to cluster1>>
+子, 娘, 子供
+top3 entities near to cluster3>>
+生態, 地上, ビル
+top3 entities near to cluster4>>
+スタッフ, 待ち時間, カップル
+top3 entities near to cluster5>>
+兄さん, 兄ちゃん, ちゃーん
+top3 entities near to cluster6>>
+小学生, 中学生, 小中学生
+top3 entities near to cluster7>>
+見送り, 見送っ, 見送る
+top3 entities near to cluster8>>
+口コミ, 評判, クチコミ
+top3 entities near to cluster9>>
+デグー, ハムスター, フェレット
+top3 entities near to cluster10>>
+マウス, パンダ, ざぐる
+top3 entities near to cluster11>>
+息子, 娘, 子供
+top3 entities near to cluster12>>
+消化, ボッカス, 吸収
+top3 entities near to cluster13>>
+店員, 店主
+top3 entities near to cluster14>>
+触り, やつ, 触っ
+top3 entities near to cluster17>>
+時間, 直前
+top3 entities near to cluster18>>
+話, 写真, 顔ぶれ
+top3 entities near to cluster20>>
+訪問, 来訪, 表敬
+top3 entities near to cluster21>>
+c, 6, 9
+top3 entities near to cluster22>>
+横断, 歩道, 道路
+top3 entities near to cluster23>>
+夜行性, 夜行, 動物性, 動物
+top3 entities near to cluster24>>
+動物, 小, 子供
+top3 entities near to cluster25>>
+動物, 人間, 生き物
+top3 entities near to cluster26>>
+動物, 動植物, 植物
+top3 entities near to cluster27>>
+動物園, 植物園, 動物, 植物
+top3 entities near to cluster28>>
+動物, 臭い

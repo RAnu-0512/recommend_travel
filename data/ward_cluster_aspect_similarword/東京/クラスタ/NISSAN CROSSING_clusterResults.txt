@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NISSAN CROSSING>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+日産, 銀座
+cluster1:(17)
+ショールーム, コロナ, カフェ, 入口, 目当て, 気, 子供, 感じ, 交差点, 夫婦, 名前, ピカピカ, レーシングカー, 車, 写真, ギャラリー, 先端
+cluster2:(2)
+ザ・銀座, GT-R
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久野城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+袋井駅, 今川家
+cluster1:(3)
+城跡, 城, 城址
+cluster2:(13)
+旗, 訪問, 感想, 東側, 真骨頂, 看板, アスレチック, 家康, 徒歩, 上, 丘, 関係, ドラマ
+cluster3:(2)
+周り道, 大手口
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 4entities.

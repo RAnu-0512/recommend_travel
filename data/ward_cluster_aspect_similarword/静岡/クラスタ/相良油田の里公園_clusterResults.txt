@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:相良油田の里公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+川沿い, 川
+cluster1:(17)
+車, パターゴルフ, 可, 家族, 近所, 面, 油井, 公園, 雰囲気, 印象, バーベキュー, 遊具, 油田, 子連れ, サークル, 気分, 親子
+cluster2:(3)
+駐車場, 資料館, 広さ
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 2
+deleted 2entities.

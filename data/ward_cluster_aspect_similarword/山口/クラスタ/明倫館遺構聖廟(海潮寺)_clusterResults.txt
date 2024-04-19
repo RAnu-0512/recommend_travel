@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明倫館遺構聖廟(海潮寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JR, 徒歩
+cluster1:(3)
+聖廟, 遺構, 本堂
+cluster2:(1)
+山陰本線東萩駅
+cluster3:(1)
+明倫館遺構聖廟
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

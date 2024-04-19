@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御殿場高原ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+噴水ショー, 箱根, 展望レストラン, 雪, 大雪
+cluster1:(6)
+朝食, 中止, 会合, 開店, 食事, 夕食
+cluster2:(7)
+敷地, 料理, 量, 部屋, 場所, 味, 道
+cluster3:(4)
+大勢, 晩, 人, 方
+cluster4:(10)
+ホテル, ビール, スカイラウンジ, 富士山, ハーフバイキング, イルミネーション, アルトピアノ, d, アウトレットモール, オススメ
+cluster5:(1)
+何か
+cluster6:(1)
+気楽坊
+cluster7:(2)
+御殿場高原, 御殿場高原ホテル
+cluster8:(2)
+内湯, 浴場
+cluster9:(3)
+温泉, 天然温泉, 温泉地
+
+howmany entities : 41
+howmany clusters : 10
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 6
+deleted 6entities.

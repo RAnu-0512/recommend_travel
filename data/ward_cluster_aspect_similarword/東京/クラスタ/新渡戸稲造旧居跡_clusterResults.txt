@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新渡戸稲造旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国際連盟事務局, 国際連盟
+cluster1:(2)
+説明板, 案内板
+cluster2:(2)
+居跡, 住居跡
+cluster3:(12)
+人, 人物, 往時, 紙幣, 新渡戸稲造, 太平洋, 場所, 札, 次長, 貢献, 農政学者, 名前
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

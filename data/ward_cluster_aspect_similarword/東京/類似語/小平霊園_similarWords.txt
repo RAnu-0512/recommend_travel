@@ -1,0 +1,19 @@
+--------------------similar_words:小平霊園--------------------
+top3 entities near to cluster0>>
+霊園, 斎場, 墓地
+top3 entities near to cluster1>>
+運動量, 運動, 神経
+top3 entities near to cluster2>>
+迷子犬, 散歩, 迷子
+top3 entities near to cluster5>>
+方法, 手段, やり方
+top3 entities near to cluster6>>
+遊歩道, 八重桜, 夕方
+top3 entities near to cluster7>>
+周辺, 徒歩, 駅
+top3 entities near to cluster8>>
+公園, 墓地, 園内
+top3 entities near to cluster9>>
+改札, 歩道, 信号
+top3 entities near to cluster10>>
+駅, 南口, 北口

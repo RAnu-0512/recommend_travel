@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青梅市吉川英治記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+吉川英治, 吉川英治記念館
+cluster1:(6)
+展示室, 展示内容, 企画展, 記念館, 展示物, 展示
+cluster2:(15)
+季節, 交流, 原稿, 小説家, 小説, 説明パネル, 館内, ドライブ, 家族, 住居, 作家, 邸宅, 敷地, 写真, こと
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

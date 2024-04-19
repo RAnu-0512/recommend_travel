@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松崎伊那下神社のイチョウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(27)
+右, 隣, 周り, しめ縄, 幹, 拝殿, こと, 左右, 看板, 左側, 像, 木彫り, 奉納, 伊豆, 付近, 鳥居, 神社, 境内, 道路, 木彫, イチョウ, 中央, 秋祭り, 舞, 松崎, 木, 説明
+cluster1:(2)
+伊那下神社, 御神木
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 1
+deleted 2entities.

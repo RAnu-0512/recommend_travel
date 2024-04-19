@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しまなみ交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+尾道市, 尾道駅
+cluster1:(2)
+施設, 中心施設
+cluster2:(5)
+イベント, 周辺, 休憩, 各地, ホール
+cluster3:(1)
+会議室
+cluster4:(1)
+多目的ホ
+cluster5:(1)
+市民文化会館
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+深さ, 不満点
+cluster1:(8)
+浜, 海, 遠浅, 波, 鳥取, 海底, 魚, 岩
+cluster2:(6)
+西側, 隣, 西, 東西, 東, 東側
+cluster3:(2)
+子, 子達
+cluster4:(4)
+水, 端, 表面, 足
+cluster5:(4)
+家族, 人, 大人, 子供
+cluster6:(7)
+トイレ, あたり, シャワー, 中学生, 飛び込み台, コンクリート, 山陰線
+cluster7:(2)
+海水浴, 日差し
+cluster8:(2)
+停車駅, 駅
+cluster9:(1)
+設備
+cluster10:(8)
+支度, こと, ほう, もの, 方, 部分, 不足, 場所
+cluster11:(5)
+浦富海水浴場, 東浜駅, 海水浴場, 駐車場, 東浜海岸
+
+howmany entities : 51
+howmany clusters : 12
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 12
+deleted 0entities.

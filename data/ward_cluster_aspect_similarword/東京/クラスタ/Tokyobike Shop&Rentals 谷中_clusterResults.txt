@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Tokyobike Shop&Rentals 谷中>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+レンタサイクル, ガラス張り, レンタルバイク
+cluster1:(3)
+店, 外観, 様子
+cluster2:(1)
+谷中
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

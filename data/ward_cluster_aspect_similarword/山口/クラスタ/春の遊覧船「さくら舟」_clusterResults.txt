@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:春の遊覧船「さくら舟」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+舟, 船, 船頭, 水面
+cluster1:(2)
+さくら, 屋形船
+cluster2:(2)
+鵜飼い, 錦帯橋
+cluster3:(4)
+景色, 食事, 風, 女性
+cluster4:(1)
+予約
+cluster5:(1)
+満開
+cluster6:(1)
+錦川
+cluster7:(1)
+遊覧船
+
+howmany entities : 16
+howmany clusters : 8
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 8
+deleted 0entities.

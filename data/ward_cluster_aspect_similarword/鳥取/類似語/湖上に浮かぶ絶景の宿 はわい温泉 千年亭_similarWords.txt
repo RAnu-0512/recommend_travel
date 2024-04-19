@@ -1,0 +1,17 @@
+--------------------similar_words:湖上に浮かぶ絶景の宿 はわい温泉 千年亭--------------------
+top3 entities near to cluster0>>
+昼間, 夕方, 両方
+top3 entities near to cluster2>>
+女性人, 男性人, 女性, 男性
+top3 entities near to cluster4>>
+露天風呂, シャワー, ホテル
+top3 entities near to cluster5>>
+良さ, 憎憎し, もの憂
+top3 entities near to cluster6>>
+温度, 距離, 垣根
+top3 entities near to cluster7>>
+肌, 素肌, 身体
+top3 entities near to cluster8>>
+景色, 料理, 宿泊
+top3 entities near to cluster9>>
+温泉, 風呂, 露天風呂

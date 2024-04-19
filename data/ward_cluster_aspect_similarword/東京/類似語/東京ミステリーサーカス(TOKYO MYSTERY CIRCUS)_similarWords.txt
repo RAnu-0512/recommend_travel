@@ -1,0 +1,19 @@
+--------------------similar_words:東京ミステリーサーカス(TOKYO MYSTERY CIRCUS)--------------------
+top3 entities near to cluster0>>
+没入感, 没入, 解き
+top3 entities near to cluster1>>
+人数, 少, 定員
+top3 entities near to cluster2>>
+参加, 受付, 案内
+top3 entities near to cluster3>>
+値段, 購入, 安い
+top3 entities near to cluster5>>
+グループ, イベント, コラボ
+top3 entities near to cluster6>>
+支払い, メール, 支払
+top3 entities near to cluster7>>
+家族, 子供
+top3 entities near to cluster8>>
+表情, 才能
+top3 entities near to cluster9>>
+劇風, 大人, 劇

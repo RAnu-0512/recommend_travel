@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士の杜ゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+避難小屋, 避難アナウンス
+cluster1:(21)
+雷雨, 気, 終了, フロント, グリーン, 途中, 日没, 対応, 料金, 状況, ハーフ, ゴルフ, ティーグランド, 日, 雷, スタート, 近く, 全て, フェアウエー, スコア, ホール
+cluster2:(3)
+遅延プレイ組, 一部補助, 最終組
+cluster3:(1)
+距離感
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:転車台・鉄道歴史館 天竜二俣駅構内>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+見学ツアー, 見学会, 見学, 見学参加者, ありませんが見学
+cluster1:(3)
+方向転換, 開業, 開業当時
+cluster2:(2)
+煤煙, 煤だらけ
+cluster3:(3)
+人力, 電動, 物資
+cluster4:(3)
+迫力, 力, 身体
+cluster5:(7)
+電車, ガイド, 機関車, SL, タイム, ツアー, 気動車
+cluster6:(5)
+終了, 案内, 一部, 使用, 説明
+cluster7:(5)
+言葉, 事, 仕事, 話, 場所
+cluster8:(2)
+資料, 歴史
+cluster9:(2)
+駅, 施設
+cluster10:(4)
+横, ホーム横, 扇形, 垂涎
+cluster11:(16)
+機関区, 鉄道, 鉄道ファン, 鉄道歴史館, 車庫, 木造建屋, 風呂場, 機関士, 鉄道資料, 木造, 転車台, 蒸気機関車, 転車, 天浜線, 車庫隣, 資料館
+cluster12:(1)
+第二次世界大戦
+
+howmany entities : 58
+howmany clusters : 13
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 9
+deleted 7entities.

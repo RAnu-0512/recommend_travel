@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:温泉館ホットピア鹿野>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+バラ風呂, 風呂, ジェット風呂, 浴室, 電気風呂
+cluster1:(3)
+休憩, 空き, 時間
+cluster2:(12)
+ボディーソープ, 露天風呂, 声, 車, イベント, サウナ, 地元, 人, 体, 会員, 温泉, 階段
+cluster3:(3)
+鳥取空港, 駐車場, 時間帯
+cluster4:(1)
+た.2017/12/31
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

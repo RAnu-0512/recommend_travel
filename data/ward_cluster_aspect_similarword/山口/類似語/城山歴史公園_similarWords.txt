@@ -1,0 +1,19 @@
+--------------------similar_words:城山歴史公園--------------------
+top3 entities near to cluster0>>
+満開, 桜, 八重桜
+top3 entities near to cluster1>>
+開花, 満開, 桜
+top3 entities near to cluster2>>
+桜, 八重桜, 枝垂れ桜
+top3 entities near to cluster3>>
+島内, 海, 島
+top3 entities near to cluster4>>
+道路, 公園
+top3 entities near to cluster5>>
+展望, 眺望, 鼻戸崎
+top3 entities near to cluster6>>
+支障, 差し障り, 差し支える
+top3 entities near to cluster7>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster8>>
+城山, 公園, 城址

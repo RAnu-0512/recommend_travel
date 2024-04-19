@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一般社団法人清水町ゆうすい未来機構>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観光パンフレット, 景品配布場所, 観光協会, 観光案内所
+cluster1:(7)
+景品, サンシャイン, ヨハネ, 公園, 地元民, ビデオ, 館
+cluster2:(5)
+静岡県, 湧水, 田川, 泉, 清水町
+cluster3:(1)
+わくら柿
+cluster4:(1)
+清水町Xラブライブ
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 2entities.

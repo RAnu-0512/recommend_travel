@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:笑顔がはずむパン教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+食器, 初心者, おすすめ, 場所, スポンジ, 人, 家, マンツーマン, 上り, メニュー, 種類, レベル, 感じ, 事, シナモンロール, 家族, パクパク, 人数, 時間, バターフレーキー, こと, 先生, 作業, 教室, 水洗い, リクエスト
+cluster1:(7)
+パン生, ハードパン系, 焼きたて, パン, 作りたいパン, パン作り, パン教室
+
+howmany entities : 33
+howmany clusters : 2
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 2
+deleted 0entities.

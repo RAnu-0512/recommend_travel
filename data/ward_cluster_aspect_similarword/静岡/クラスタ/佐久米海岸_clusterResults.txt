@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐久米海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+ホテルグリーンプラザ浜名湖, 海岸, 舘山寺方面, 奥, 佐久米海岸, 湖畔, 奥浜名湖, 浜名
+cluster1:(2)
+家族連れ, 人たち
+cluster2:(3)
+浜名湖, 佐久米, 舘山寺
+cluster3:(3)
+潮干狩りシーズン, 海水浴, 潮干狩り
+cluster4:(2)
+呼び名, 無意識
+cluster5:(2)
+ホテル, ランチバイキング
+cluster6:(1)
+北側
+cluster7:(3)
+姿, 眺め, 天気
+cluster8:(2)
+海水浴場, 泳ぎ
+cluster9:(1)
+天竜浜名湖鉄道浜名湖
+
+howmany entities : 27
+howmany clusters : 10
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 10entities.

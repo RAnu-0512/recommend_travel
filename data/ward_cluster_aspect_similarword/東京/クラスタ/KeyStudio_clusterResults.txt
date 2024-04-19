@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:KeyStudio>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+最新式, ミュージック&カフェタイム
+cluster1:(5)
+オムライス, スタジオアルタ, 上映システム, テレビ, 撮影地
+cluster2:(1)
+U字スクリーン
+cluster3:(1)
+シアターです.3D
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

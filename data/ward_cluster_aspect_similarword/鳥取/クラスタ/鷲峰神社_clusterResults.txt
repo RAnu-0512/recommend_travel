@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鷲峰神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+出雲風土記, 出雲
+cluster1:(2)
+祭神, 神社
+cluster2:(5)
+鷲峰山, スサノオ, オオクニヌシ, イナダヒメ, 神
+cluster3:(2)
+土, 別名
+cluster4:(1)
+大山
+cluster5:(1)
+杓子
+cluster6:(1)
+じゅうぼう
+cluster7:(1)
+国引き神話
+cluster8:(1)
+大巳貴命
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 9
+deleted 0entities.

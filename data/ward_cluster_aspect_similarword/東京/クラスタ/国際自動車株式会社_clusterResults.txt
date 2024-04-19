@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国際自動車株式会社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京, 東京都
+cluster1:(1)
+川崎インター
+cluster2:(2)
+自由が丘, ドライバー
+cluster3:(1)
+コース
+cluster4:(1)
+つもり
+cluster5:(2)
+気, 笑
+cluster6:(1)
+時間
+cluster7:(1)
+一点張り.
+cluster8:(1)
+拉致
+cluster9:(1)
+効率
+cluster10:(1)
+運転手
+cluster11:(1)
+きた先輩
+cluster12:(1)
+つけば第三京浜道路
+
+howmany entities : 16
+howmany clusters : 13
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 13
+deleted 0entities.

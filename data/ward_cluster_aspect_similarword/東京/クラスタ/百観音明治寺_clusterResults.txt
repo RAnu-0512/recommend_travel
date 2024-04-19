@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百観音明治寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+草野栄照尼, 栄照法尼
+cluster1:(9)
+尼, 直接, きっかけ, こと, 改札, 右, 明治, 開基, 天皇
+cluster2:(3)
+観音石像一体, 観音像, 百観音明治寺
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

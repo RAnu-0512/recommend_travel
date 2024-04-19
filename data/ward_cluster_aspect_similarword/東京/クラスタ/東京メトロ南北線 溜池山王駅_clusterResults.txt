@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線 溜池山王駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+丸の内線, 銀座線, 千代田線
+cluster1:(12)
+丸ノ内線, 駅, 乗り換え, 警官, 距離, 警備, 出口, 地上, 多く, 乗り換え駅, 駅名, ホーム
+cluster2:(1)
+国会議事堂前駅
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 3
+deleted 0entities.

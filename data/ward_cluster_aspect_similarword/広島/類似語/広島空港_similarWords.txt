@@ -1,0 +1,15 @@
+--------------------similar_words:広島空港--------------------
+top3 entities near to cluster0>>
+空港, バス, ターミナル
+top3 entities near to cluster1>>
+バス, タクシー, バス停
+top3 entities near to cluster2>>
+時間, 自販機
+top3 entities near to cluster4>>
+仕事, 関係, 関わり
+top3 entities near to cluster5>>
+展望, デッキ, 眺望
+top3 entities near to cluster6>>
+饅頭, まんじゅう, もみじ
+top3 entities near to cluster8>>
+満員, 状態, すし詰め

@@ -1,0 +1,21 @@
+--------------------similar_words:川本喜八郎人形ギャラリー--------------------
+top3 entities near to cluster0>>
+人形, 劇, ぬいぐるみ
+top3 entities near to cluster1>>
+展示, 常設, 出展
+top3 entities near to cluster2>>
+テレビ, ＮＨＫ, 民放
+top3 entities near to cluster3>>
+スペース, ヒカリエ, ギャラリー
+top3 entities near to cluster4>>
+三国志, タクティクスデルタ, 演義
+top3 entities near to cluster5>>
+中っ, ただ今, 中の間
+top3 entities near to cluster6>>
+写真, 撮っ, 画像
+top3 entities near to cluster7>>
+物語, 物語り, ストーリー
+top3 entities near to cluster9>>
+表情, 顔つき
+top3 entities near to cluster11>>
+平家, 物語, 義経

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石神井公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+人, 近く, あと
+cluster1:(11)
+石神井公園, 目当て, 石神井川, 上野公園, ウォーキングコース, ほとり, 中山道, 桜並木, エリア, スポット, コース
+cluster2:(1)
+近隣
+cluster3:(1)
+下流
+cluster4:(5)
+季節, 時季, 感じ, 景観, 風情
+cluster5:(9)
+池, 飛鳥山公園, 紅葉, 花見, 散歩, 石神井公園駅, 桜, 満開, 王子駅
+cluster6:(2)
+川沿い, 城北中央公園
+
+howmany entities : 32
+howmany clusters : 7
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 7
+deleted 0entities.

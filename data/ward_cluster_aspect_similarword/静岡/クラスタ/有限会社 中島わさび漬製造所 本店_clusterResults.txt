@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有限会社 中島わさび漬製造所 本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中島わさび漬, わさび漬
+cluster1:(2)
+熱海, 熱海駅
+cluster2:(2)
+揚げ物, 焼き魚
+cluster3:(3)
+わさび, わさび漬け, イメージ
+cluster4:(2)
+意外, 中心
+cluster5:(4)
+ご飯, 肉, 味, 酒
+cluster6:(1)
+食卓
+cluster7:(1)
+中島
+cluster8:(1)
+シャキシャキ感
+cluster9:(1)
+辛さ
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 12entities.

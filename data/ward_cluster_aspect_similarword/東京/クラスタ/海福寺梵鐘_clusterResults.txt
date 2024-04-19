@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海福寺梵鐘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+武州江戸中村喜兵衞, 武州江戸中村喜兵衛藤原正次
+cluster1:(7)
+銅, 指定, 海福寺, 信号, 文化財, 銅製, 左
+cluster2:(2)
+釣鐘, 梵鐘
+cluster3:(2)
+案内板, 高さ
+cluster4:(5)
+四脚門, 目黒駅, 藤原正次, 東京急行電鉄目黒線, 目黒
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

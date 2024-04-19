@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大道理芝桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+芝桜, 芝
+cluster1:(9)
+賜物, 差, 努力, チョット早い, 承知, 感じ, 方, 方々, 人
+cluster2:(14)
+休耕田, 軽食, ネット, 車, 色, 場所, 本数, アップ, 田, 地元, 花, 近く, 看板, 斜面
+cluster3:(3)
+村民, 村民ガールズ, 協力金
+cluster4:(2)
+観光客, 駐車場
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一般財団法人 足立区観光交流協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+方, 感じ
+cluster1:(1)
+区役所
+cluster2:(1)
+資料
+cluster3:(1)
+一角
+cluster4:(1)
+観光地
+cluster5:(1)
+足立区
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

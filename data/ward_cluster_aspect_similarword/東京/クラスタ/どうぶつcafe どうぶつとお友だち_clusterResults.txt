@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:どうぶつcafe どうぶつとお友だち>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+動物, 動物たち, 動物カフェ
+cluster1:(2)
+店員, えさ
+cluster2:(6)
+中, 小動物, 上, ふれあい, ミーアキャット, 時間
+cluster3:(2)
+対応, 延長
+cluster4:(1)
+膝
+cluster5:(1)
+立地
+cluster6:(1)
+好感
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

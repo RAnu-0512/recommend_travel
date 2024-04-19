@@ -1,0 +1,11 @@
+--------------------similar_words:牛島(山口県光市)--------------------
+top3 entities near to cluster0>>
+島波, 島, 大波
+top3 entities near to cluster1>>
+状態, 状況, まま
+top3 entities near to cluster2>>
+夕日, 夕陽, 夕焼け
+top3 entities near to cluster3>>
+一夜, 夜, 晩
+top3 entities near to cluster5>>
+光, 市立, 区

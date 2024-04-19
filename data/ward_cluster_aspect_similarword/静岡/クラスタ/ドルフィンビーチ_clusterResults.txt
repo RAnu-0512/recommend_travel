@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ドルフィンビーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+下田駅, 下田海中水族館
+cluster1:(2)
+体験, 体験可
+cluster2:(12)
+アシカ, ショー, ドルフィンシュノーケル, 事, 水族館, シュノーケル, 思い出, イルカ, イルカ達, 水, 方, インストラクター
+
+howmany entities : 16
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 1
+deleted 4entities.

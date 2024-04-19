@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸岡古墳群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+古墳群, 古墳, にくい古墳群
+cluster1:(2)
+地図, 草原
+cluster2:(2)
+こと, 気
+cluster3:(3)
+人, 中, フェンス
+cluster4:(1)
+素人
+cluster5:(1)
+人たち
+cluster6:(1)
+良さ
+cluster7:(1)
+フェンスごし
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

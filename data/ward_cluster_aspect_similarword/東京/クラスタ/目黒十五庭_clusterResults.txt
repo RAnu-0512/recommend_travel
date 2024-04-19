@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:目黒十五庭>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山手通り, 目黒区
+cluster1:(2)
+右, 左
+cluster2:(2)
+屋上, 建物
+cluster3:(4)
+ココ, 富士山, 区役所, 冬
+cluster4:(1)
+中目黒駅
+cluster5:(2)
+改札口, 屋上緑化
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

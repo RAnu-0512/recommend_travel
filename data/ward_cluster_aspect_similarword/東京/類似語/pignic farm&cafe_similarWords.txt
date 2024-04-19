@@ -1,0 +1,9 @@
+--------------------similar_words:pignic farm&cafe--------------------
+top3 entities near to cluster0>>
+ブタ, 豚, ちゃん
+top3 entities near to cluster1>>
+個室, 予約, 貸切
+top3 entities near to cluster2>>
+餌, エサ, えさ
+top3 entities near to cluster3>>
+洋服, 子供, 女性

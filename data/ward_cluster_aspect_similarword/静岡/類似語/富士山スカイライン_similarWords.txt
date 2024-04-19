@@ -1,0 +1,17 @@
+--------------------similar_words:富士山スカイライン--------------------
+top3 entities near to cluster0>>
+合, 五, 四
+top3 entities near to cluster2>>
+雲, 空, 太陽
+top3 entities near to cluster3>>
+天気雨, 天気
+top3 entities near to cluster4>>
+景色, 眺望, 紅葉
+top3 entities near to cluster8>>
+ドライブ, タクシー, コース
+top3 entities near to cluster9>>
+羽織, 半袖, 長袖
+top3 entities near to cluster11>>
+通行料, 通行, 料金
+top3 entities near to cluster14>>
+道路, 渋滞, 有料

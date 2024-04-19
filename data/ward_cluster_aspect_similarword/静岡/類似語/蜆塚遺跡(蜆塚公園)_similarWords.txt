@@ -1,0 +1,11 @@
+--------------------similar_words:蜆塚遺跡(蜆塚公園)--------------------
+top3 entities near to cluster1>>
+遺跡, 貝塚, 縄文
+top3 entities near to cluster2>>
+施設, 展示, 駐車
+top3 entities near to cluster3>>
+家屋, 住居, 建物
+top3 entities near to cluster5>>
+バス, 徒歩, 駅
+top3 entities near to cluster9>>
+子供, 子ども, 小学生

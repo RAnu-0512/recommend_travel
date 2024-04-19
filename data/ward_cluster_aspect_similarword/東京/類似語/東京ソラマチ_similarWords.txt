@@ -1,0 +1,165 @@
+--------------------similar_words:東京ソラマチ--------------------
+top3 entities near to cluster1>>
+エレベーター, エレベータ, エスカレーター
+top3 entities near to cluster2>>
+イベント, グッズ, キャラクター
+top3 entities near to cluster3>>
+アクセス, マッピング, プロジェクト
+top3 entities near to cluster4>>
+モチーフ, イメージ, シンボル
+top3 entities near to cluster5>>
+インフォ, ネットビジネスワールド, ホットインフォ
+top3 entities near to cluster6>>
+コトノハ, コトノハクロニクル, コトノハポエム
+top3 entities near to cluster7>>
+クリスマス, イルミネーション, クリスマスツリー
+top3 entities near to cluster8>>
+ラスカルショップ, ムーミンショップ, プラレールショップ
+top3 entities near to cluster9>>
+家族づれ, カップル, 親子づれ
+top3 entities near to cluster10>>
+ランチ, レストラン, ランチタイム
+top3 entities near to cluster11>>
+ラーメン, キャベツ, チャーハン
+top3 entities near to cluster12>>
+ポケモン, レックウザ, カービィ
+top3 entities near to cluster13>>
+スケート, スケーター, フィギュア
+top3 entities near to cluster14>>
+Tシャツ, 手ぬぐい, おみやげ
+top3 entities near to cluster15>>
+プラレール, おもちゃ, オモチャ
+top3 entities near to cluster16>>
+スヌーピー, リラックマ, キティちゃん
+top3 entities near to cluster18>>
+シール, ステッカー, ラミネートシール
+top3 entities near to cluster19>>
+スタバ, ソニプラ, ソラマチ
+top3 entities near to cluster20>>
+夏休み, 思い出, 想い出
+top3 entities near to cluster21>>
+子ども, 子供, お子さん
+top3 entities near to cluster22>>
+トミカ, トミカコレクション, ミニカー
+top3 entities near to cluster23>>
+トトロ, ジブリ, ・・ジブリ
+top3 entities near to cluster24>>
+子供, 娘, 大人
+top3 entities near to cluster25>>
+ショー, プール, タイム
+top3 entities near to cluster26>>
+ランチ, 食べ物, レストラン
+top3 entities near to cluster27>>
+オススメスポット, デートスポット, ススメスポット
+top3 entities near to cluster28>>
+カフェ, 喫茶店, レストラン
+top3 entities near to cluster29>>
+アイス, チョコレート, デザート
+top3 entities near to cluster30>>
+パーツ, ソフビ, プラパーツ
+top3 entities near to cluster31>>
+ベンチ, シート, 背もたれ
+top3 entities near to cluster32>>
+最上階, タワー, 高層
+top3 entities near to cluster33>>
+プラン, コース, デイプラン
+top3 entities near to cluster34>>
+カメラ, シーン, ソフト
+top3 entities near to cluster35>>
+ブース, スペース, フロア
+top3 entities near to cluster36>>
+ソファ, ソファー, テラス
+top3 entities near to cluster38>>
+ショッピング, モール, ショップ
+top3 entities near to cluster40>>
+話題, 世間, 人気
+top3 entities near to cluster41>>
+印象, 個性, 評価
+top3 entities near to cluster42>>
+迫力, 余裕, 活気
+top3 entities near to cluster43>>
+お腹, 良さ, おなか
+top3 entities near to cluster44>>
+席数, 人数, 席
+top3 entities near to cluster45>>
+食べ物, 料理, 洋服
+top3 entities near to cluster46>>
+人々, 家族
+top3 entities near to cluster47>>
+親子, 関係, 父子
+top3 entities near to cluster48>>
+文化, 歴史, 教育
+top3 entities near to cluster49>>
+運動, 行動, 活動
+top3 entities near to cluster50>>
+友達, 友人, 出張
+top3 entities near to cluster51>>
+笑, 苦笑, てら
+top3 entities near to cluster52>>
+夕方, 週末, 夜
+top3 entities near to cluster53>>
+回目, 回, 第
+top3 entities near to cluster56>>
+郵政, 民放, テレビ局
+top3 entities near to cluster57>>
+外国, 外人, 海外
+top3 entities near to cluster58>>
+和, 和風, 天空
+top3 entities near to cluster59>>
+チーズ, フード, ケーキ
+top3 entities near to cluster60>>
+テレビ, テレビ局, アニメ
+top3 entities near to cluster61>>
+ショップ, セレクト, アパレル
+top3 entities near to cluster62>>
+グッズ, 商品, 店舗
+top3 entities near to cluster63>>
+当地, ハロー, キティ
+top3 entities near to cluster64>>
+フロア, 店内, 建物
+top3 entities near to cluster65>>
+雑貨, 食品, 惣菜
+top3 entities near to cluster66>>
+土産屋, おみやげ屋, 土産, おみやげ
+top3 entities near to cluster67>>
+土産, おみやげ, 土産物
+top3 entities near to cluster68>>
+繁華街, 商店街, 繁華, 商店
+top3 entities near to cluster69>>
+商店街, 商店, 繁華街, 繁華
+top3 entities near to cluster70>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster71>>
+雑貨屋, 定食屋, 雑貨, 定食
+top3 entities near to cluster72>>
+施設, 駐車, 設備
+top3 entities near to cluster73>>
+限定, 期間, 数量
+top3 entities near to cluster75>>
+食べ放題, 食べ
+top3 entities near to cluster76>>
+時間, 休憩
+top3 entities near to cluster77>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster78>>
+食事, 夕食, 昼食
+top3 entities near to cluster79>>
+撮影, 予約, 見学
+top3 entities near to cluster80>>
+穴場, 広場, 祭り
+top3 entities near to cluster82>>
+名所, ハトバス, 周遊
+top3 entities near to cluster83>>
+産業, 都市, 商工
+top3 entities near to cluster86>>
+駅, スカイ, ツリー
+top3 entities near to cluster87>>
+スカイ, 笑, ツリー
+top3 entities near to cluster88>>
+スカイ, ツリー, たつ
+top3 entities near to cluster89>>
+ツリー, スカイ, タワー
+top3 entities near to cluster90>>
+飲み, 呑み, 飲む
+top3 entities near to cluster92>>
+雑貨屋, 雑貨, ざし

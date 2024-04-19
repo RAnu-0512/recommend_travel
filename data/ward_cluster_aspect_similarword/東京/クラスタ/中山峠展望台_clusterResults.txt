@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中山峠展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+野良ヤギ, 野ヤギ
+cluster1:(2)
+南島, 瀬川
+cluster2:(11)
+遊歩道, 靴, コバルトブルー, 風, 海, 消毒, 橋, 眺め, 裏, 入口, 山道
+cluster3:(1)
+自然保護
+cluster4:(1)
+展望台
+cluster5:(1)
+小港海岸
+
+howmany entities : 18
+howmany clusters : 6
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 6
+deleted 0entities.

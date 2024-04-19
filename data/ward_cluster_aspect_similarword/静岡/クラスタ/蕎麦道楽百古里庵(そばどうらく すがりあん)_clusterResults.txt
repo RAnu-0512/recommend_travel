@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蕎麦道楽百古里庵(そばどうらく すがりあん)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+お蕎麦屋, ずお蕎麦屋, 蕎麦屋
+cluster1:(2)
+駐車場, 浮き輪
+cluster2:(7)
+家族, 荷物, 家族連れ, 人, 遊び, 子ども達, 友達
+cluster3:(15)
+事, シート, 注意, 流れ, ライフジャケット, 受付, .., もの, 時間, 近く, ブルーベリー, スポット, 場所, おにぎり, 木
+cluster4:(2)
+酸味, 品種
+cluster5:(4)
+水着, 帽子, 虫, 対策
+cluster6:(3)
+川, 景色, 道
+cluster7:(2)
+茶, 蕎麦
+cluster8:(1)
+天候
+cluster9:(1)
+焼きおにぎり
+cluster10:(1)
+場所取り
+cluster11:(6)
+◯ブルーベリー畑, ◯ブルーベリー, ブルーベリ狩り, 畑, ブルーベリー狩り, ブルーベリー畑
+cluster12:(1)
+小学生低学年
+
+howmany entities : 48
+howmany clusters : 13
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 6
+deleted 10entities.

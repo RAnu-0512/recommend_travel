@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JA鳥取中央東伯梨選果場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+琴浦梨選果場, JA鳥取中央東伯梨選果場, 東伯農協梨選果所
+cluster1:(3)
+自販機, ドリンク, 種類
+cluster2:(2)
+周囲, 建物
+cluster3:(1)
+廊下
+cluster4:(1)
+休憩
+cluster5:(1)
+梨
+cluster6:(5)
+中央野菜集出荷所, 東伯西部カントリーエレベーター, JA鳥取中央, JA鳥取中央琴浦営農センター, 鳥取県
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

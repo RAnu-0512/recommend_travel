@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉吉市営温水プール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+倉吉市営温水プール, 倉吉市, 三朝温泉
+cluster1:(7)
+温水, 遊泳プール, 歩行, 市民プール, 温水プール, 流水プール, 水泳
+cluster2:(3)
+利用料金, 利用料, 料金
+cluster3:(6)
+外, 中, 心配, 値段, 楽しみ方, 場所
+cluster4:(2)
+プール, リラクゼーションプール
+cluster5:(2)
+スライダー, ウォータースライダー
+cluster6:(2)
+ウォーキング, ジャグジー
+cluster7:(1)
+メイン
+cluster8:(7)
+夏, 真冬, 家族, 人, 大人, 友人, 子供
+cluster9:(1)
+暑さ
+
+howmany entities : 34
+howmany clusters : 10
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 10
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:光明山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+ハイキング, 時間, 光明寺, 光明山, 途中, 太平洋, 木, 駅, 近く, 道
+cluster1:(3)
+山頂, 光明山遺跡, 展望
+cluster2:(1)
+横川
+cluster3:(1)
+浜松市
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 2entities.

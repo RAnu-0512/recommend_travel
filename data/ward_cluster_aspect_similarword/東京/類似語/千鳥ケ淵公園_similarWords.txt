@@ -1,0 +1,25 @@
+--------------------similar_words:千鳥ケ淵公園--------------------
+top3 entities near to cluster0>>
+淵, 千鳥, 含満
+top3 entities near to cluster2>>
+桜, 花, 夜桜
+top3 entities near to cluster3>>
+景色, 風景, 光景
+top3 entities near to cluster4>>
+散策, 散歩, 撮影
+top3 entities near to cluster5>>
+歩道, 道路
+top3 entities near to cluster6>>
+名所, 石碑
+top3 entities near to cluster7>>
+露店, 混雑, ごみ
+top3 entities near to cluster8>>
+花見, 行楽, 観桜
+top3 entities near to cluster9>>
+満開, 開花, 見頃
+top3 entities near to cluster10>>
+歩行者, 飲食, 歩行
+top3 entities near to cluster11>>
+ゴミ, 捨て, ごみ
+top3 entities near to cluster12>>
+公園, 皇居, 駅

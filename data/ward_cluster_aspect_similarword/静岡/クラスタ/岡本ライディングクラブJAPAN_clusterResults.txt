@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡本ライディングクラブJAPAN>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+乗馬初体験, 早足体験, 場外体験
+cluster1:(5)
+体験, 馬, スタッフ, 散歩, 乗馬
+cluster2:(2)
+揺れ, コツ
+cluster3:(1)
+手綱
+cluster4:(1)
+注意事項
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 4entities.

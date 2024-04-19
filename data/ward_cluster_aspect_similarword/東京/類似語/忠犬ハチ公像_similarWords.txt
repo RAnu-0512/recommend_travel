@@ -1,0 +1,39 @@
+--------------------similar_words:忠犬ハチ公像--------------------
+top3 entities near to cluster0>>
+忠犬, 忠, ハチ公
+top3 entities near to cluster1>>
+外国人, 外国, 大勢
+top3 entities near to cluster3>>
+定番, 人気, 大人気
+top3 entities near to cluster4>>
+ハチ, スズメバチ, マキ
+top3 entities near to cluster5>>
+混雑, 行列, 混む
+top3 entities near to cluster6>>
+駅街, 繁華街, 駅, 繁華
+top3 entities near to cluster7>>
+傘, 衣装
+top3 entities near to cluster8>>
+出張, 休み, 会社
+top3 entities near to cluster9>>
+繁華, 駅前, 待ち合わせ
+top3 entities near to cluster10>>
+人達, 人々, 友人
+top3 entities near to cluster12>>
+周り, まわり, 周囲
+top3 entities near to cluster13>>
+足, ココ
+top3 entities near to cluster14>>
+陰, 悶妻, 影
+top3 entities near to cluster18>>
+順番待ち, 順番, 待つ
+top3 entities near to cluster19>>
+写真, 撮影, 撮っ
+top3 entities near to cluster20>>
+記念, 撮影, 写真
+top3 entities near to cluster21>>
+銅像, 胸像, 石像
+top3 entities near to cluster22>>
+掲画, 銅像
+top3 entities near to cluster23>>
+ハチ公, 駅前, 南口

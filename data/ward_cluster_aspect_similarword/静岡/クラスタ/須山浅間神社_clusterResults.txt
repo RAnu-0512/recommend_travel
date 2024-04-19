@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須山浅間神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浅間神社, 須山浅間神社
+cluster1:(2)
+関連施設, パワースポット情報
+cluster2:(8)
+パワースポット, くり抜き, 本物, パワー, 知名度, 富士山, ハート, 雰囲気
+cluster3:(6)
+気, 事, 手, 中, 場所, 方
+cluster4:(1)
+参り
+cluster5:(1)
+被害
+cluster6:(1)
+ハート型
+cluster7:(1)
+噴火
+cluster8:(9)
+宝永大, 拝殿, 森, 神木, 社殿, 木々, 鳥居, 神社, 灯籠
+cluster9:(9)
+富士宮口, 世界遺産, 一か所目, 世界遺産富士山, 登山道, 予備知識, 景行天皇, 左後ろ, 須山口
+
+howmany entities : 40
+howmany clusters : 10
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 4
+deleted 8entities.

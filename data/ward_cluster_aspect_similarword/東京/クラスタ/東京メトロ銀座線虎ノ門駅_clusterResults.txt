@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ銀座線虎ノ門駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+昭和, 中, 日比谷線, 雰囲気, 弁護士事務所, 町, 地上, 風情, 会計事務所, 霞ヶ関, 隣
+cluster1:(6)
+駅, 虎ノ門駅, 霞ヶ関駅, 官庁街, 銀座線, 駅構内
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

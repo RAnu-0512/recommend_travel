@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:-両国- 江戸NOREN>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+国技館, 総武本線の両国駅, 両国駅, 両国らしさ, 両国駅西口
+cluster1:(7)
+観光, 観光案内所, 喫煙所, 観光客, 飲食店, 環境情報, 商業施設
+cluster2:(4)
+江戸博物館, 江戸, 江戸時代, 江戸NOREN
+cluster3:(14)
+茶屋, 名物, 店, 場所, 中心, 建物, 入口, 隣, 近く, 駅, 施設, 休憩, 周り, 周辺
+cluster4:(3)
+東京, 両国, 日本
+cluster5:(2)
+天ぷら, ランチ
+cluster6:(2)
+NOREN, ちゃんこ
+cluster7:(4)
+スタート, オススメ, ところ, スポット
+cluster8:(1)
+雰囲気
+cluster9:(1)
+テーブルフロア
+cluster10:(1)
+相手
+cluster11:(3)
+値段, 気, 感じ
+cluster12:(6)
+食事処, 甘味, 食事, 寿司, 雑煮, 蕎麦
+cluster13:(2)
+土俵, 相撲
+cluster14:(2)
+駅舎, 改札
+
+howmany entities : 57
+howmany clusters : 15
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 15
+deleted 0entities.

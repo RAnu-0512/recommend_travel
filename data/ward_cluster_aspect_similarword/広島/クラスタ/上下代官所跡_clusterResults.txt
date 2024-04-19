@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上下代官所跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+代官所, 上下代官所跡
+cluster1:(10)
+一部, 藩主, 直轄領, 天領, 場所, 江戸時代, 福山藩, 跡, 幕府, 検地
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

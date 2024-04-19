@@ -1,0 +1,35 @@
+--------------------similar_words:宮島サービスエリア(下り線)--------------------
+top3 entities near to cluster0>>
+鳥居, 厳島, 神社
+top3 entities near to cluster4>>
+スタバ, トイレ, ドトール
+top3 entities near to cluster5>>
+サービス, レストラン, ホテル
+top3 entities near to cluster6>>
+スヌーピー, ユニフォーム, ユニホーム
+top3 entities near to cluster7>>
+コーヒー, コーヒ, エスプレッソ
+top3 entities near to cluster10>>
+気持ち, 気持, キモチ
+top3 entities near to cluster11>>
+手入れ, メンテナンス, ブラッシング
+top3 entities near to cluster12>>
+売り場, 売場, デパート
+top3 entities near to cluster13>>
+望遠鏡, 天文台, 双眼鏡
+top3 entities near to cluster14>>
+エリア, サービス
+top3 entities near to cluster15>>
+スター, バックス, オーシャン
+top3 entities near to cluster16>>
+移動, 長距離
+top3 entities near to cluster17>>
+冷凍, 冷蔵, 冷凍庫
+top3 entities near to cluster18>>
+肉眼, 目視, 遠目
+top3 entities near to cluster19>>
+中車, 猿之助, 段四郎
+top3 entities near to cluster20>>
+土産, 土産物, 景色
+top3 entities near to cluster21>>
+駐車, 展望, 道路

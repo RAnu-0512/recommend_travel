@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北条オートキャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+整備, 中心, 次回, ところ, テント, こと, スタッフ, バンガロー, 家族, 専門, ジェラート, 施設, 子供, 筆頭, 大学生, 宿泊, オートサイト
+cluster1:(3)
+大山, 松林, 山行き
+cluster2:(1)
+温水シャワー
+cluster3:(1)
+管理棟事務所
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

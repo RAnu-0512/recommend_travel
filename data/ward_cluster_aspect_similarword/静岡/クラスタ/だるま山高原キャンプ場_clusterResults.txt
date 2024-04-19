@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:だるま山高原キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+沼津, 修善寺温泉, 伊豆
+cluster1:(3)
+夜景, 景色, 天気
+cluster2:(6)
+車, 食材, 駅, 設備, 酒, 道
+cluster3:(2)
+海, 山
+cluster4:(2)
+一部, 上
+cluster5:(11)
+ロッジ, コストパフォーマンス, カレー, 富士山, 駿河湾, ソファー, サイト, トイレ, コントラスト, オートサイト, ベッド
+cluster6:(1)
+抜群
+cluster7:(1)
+良さ
+cluster8:(1)
+利用料金
+cluster9:(5)
+駐車場, ベットx2個, 炊事場, キャンプ場, 展望台
+
+howmany entities : 35
+howmany clusters : 10
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 7entities.

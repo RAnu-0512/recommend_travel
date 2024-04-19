@@ -1,0 +1,27 @@
+--------------------similar_words:とことこトレイン--------------------
+top3 entities near to cluster0>>
+夢, 夢見, 悪夢
+top3 entities near to cluster1>>
+ライト, イルミネーション, 乗り物
+top3 entities near to cluster2>>
+壁絵, 壁画, 壁
+top3 entities near to cluster3>>
+子供, 子ども, 大人
+top3 entities near to cluster4>>
+自然, 世界, 地球
+top3 entities near to cluster5>>
+いけ, 喚起, こども
+top3 entities near to cluster6>>
+桜風, 桜雨, 桜
+top3 entities near to cluster8>>
+峡, 温泉, ホテル層雲
+top3 entities near to cluster9>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster10>>
+周遊, 遊覧, 乗り継ぎ
+top3 entities near to cluster11>>
+錦町, 駅, 仁保津
+top3 entities near to cluster12>>
+錦川, 鉄道, 岩日線
+top3 entities near to cluster13>>
+列車, 電車, 車両

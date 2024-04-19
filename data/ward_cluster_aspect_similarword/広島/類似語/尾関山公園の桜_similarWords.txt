@@ -1,0 +1,23 @@
+--------------------similar_words:尾関山公園の桜--------------------
+top3 entities near to cluster1>>
+満開, 桜, 八重桜
+top3 entities near to cluster2>>
+満開, 桜, 八重桜
+top3 entities near to cluster3>>
+山, 麓, 山山
+top3 entities near to cluster4>>
+花, お花, 草花
+top3 entities near to cluster5>>
+時期, 時季, 季節
+top3 entities near to cluster6>>
+北部, 南部, 東部
+top3 entities near to cluster7>>
+廃止, 全廃, 新設
+top3 entities near to cluster8>>
+国道, 県道, 旧道
+top3 entities near to cluster9>>
+川沿い, 川, 河畔
+top3 entities near to cluster10>>
+山, 公園, 麓
+top3 entities near to cluster11>>
+4, 1, 5

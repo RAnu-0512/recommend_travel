@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蒲原夜之雪記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+記念碑., 和泉屋, 献上使節, 途中, こと, 幕府, ベンチ, 傑作, 雪, お休み処, 宿場印, 一行, 朝廷, モノクローム, 碑, 地, 浮世絵
+cluster1:(4)
+蒲原宿, 新蒲原駅, 歌川広重, 蒲原夜之雪
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 0entities.

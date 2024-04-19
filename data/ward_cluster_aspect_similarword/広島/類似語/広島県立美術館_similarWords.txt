@@ -1,0 +1,31 @@
+--------------------similar_words:広島県立美術館--------------------
+top3 entities near to cluster0>>
+景園, 景, 縮
+top3 entities near to cluster1>>
+展示, 展覧
+top3 entities near to cluster3>>
+ロビー, カフェ, テレビ
+top3 entities near to cluster4>>
+子供, 子ども, 友人
+top3 entities near to cluster5>>
+休憩, 時間, 合間
+top3 entities near to cluster6>>
+背, 足, 背中
+top3 entities near to cluster8>>
+隣, 横, 向かい側
+top3 entities near to cluster9>>
+内部, 外側, 内側
+top3 entities near to cluster11>>
+景色, 建物, 庭園
+top3 entities near to cluster12>>
+美術館, 博物館, 公立
+top3 entities near to cluster13>>
+作家, 作品, 企画
+top3 entities near to cluster14>>
+絵画, 美術
+top3 entities near to cluster15>>
+芸術, 作品, 作家
+top3 entities near to cluster16>>
+館内, ロビー, 会場
+top3 entities near to cluster17>>
+中心, 徒歩, 駅

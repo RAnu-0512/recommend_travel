@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:市川左団次の句碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+修善寺, 次, 歌舞伎
+cluster1:(2)
+案内, 看板
+cluster2:(1)
+岩
+cluster3:(1)
+市川
+cluster4:(1)
+句碑
+cluster5:(1)
+修善寺梅林
+cluster6:(1)
+長谷川伸
+cluster7:(3)
+市川左団, 酒泉健夫, 左団次
+
+howmany entities : 13
+howmany clusters : 8
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 7entities.

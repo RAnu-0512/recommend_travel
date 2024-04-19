@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:びく石>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+茶摘, 茶籠
+cluster1:(12)
+ハイキングコース, 岡部町, 側, 途中, 地元, 通称, ハイキング, 人, 付近, 徒歩, 山頂, 形
+cluster2:(5)
+巨岩, ビク, 奇岩, びく石, 岩
+cluster3:(1)
+笹川八十八石
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 3entities.

@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:饒津神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+安産祈願, 芸州鎮護, 藩祖, 饒津神社
+cluster1:(2)
+時代初期, 江戸時代後期
+cluster2:(3)
+広島, 広島駅, 被爆松
+cluster3:(5)
+境内, 参道, 参拝, 神社, 初詣
+cluster4:(4)
+神, 明治, 川, 西
+cluster5:(9)
+方, 印象, 人気, 感じ, 多く, 交差点, 気持ち, 場所, 文武両道
+cluster6:(2)
+景色, 道
+cluster7:(3)
+新幹線口, 距離, 徒歩
+cluster8:(1)
+───O
+
+howmany entities : 33
+howmany clusters : 9
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 9
+deleted 0entities.

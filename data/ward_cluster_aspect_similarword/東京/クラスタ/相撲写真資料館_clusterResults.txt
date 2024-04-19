@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:相撲写真資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+東京, 東京場所, 両国, 本所
+cluster1:(9)
+裏手, 場所, 一角, 北西, 博物館, 写真, 開館, 吉良上野介, 展示
+cluster2:(4)
+力士プライベート写真, 写真館, 相撲, 屋敷跡
+cluster3:(2)
+松坂町公園, JR両国駅
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小田急永山駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+エスカレーター, 場所, 乗換, 小田急, エレベーター, ホーム, 駅, 改札, 電車, 急行電車, 多摩線, 駅構内, 買い物, 駅周辺, 小田急電鉄, 乗降客, 乗り換え, 階段, 京王線
+cluster1:(3)
+京王電鉄, 京王相模原線, 小田急線
+cluster2:(2)
+多摩急行, 多摩センター駅
+cluster3:(3)
+小田急永山駅, 永山駅, 京王永山駅
+cluster4:(1)
+新百合ヶ丘
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

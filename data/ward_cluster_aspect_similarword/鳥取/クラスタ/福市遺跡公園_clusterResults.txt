@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福市遺跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(25)
+骨組み, 散策, 吉塚地区, 扉, 中, つつじ, こと, 米子市, 思い先, 弥生時代, 公園, 日差し, 距離, 炎天下, 園内, 復元住居, 復元竪穴, 遺跡, 方, 冷房, 国道, 史跡, 住居, 竪穴式, 爽快
+cluster1:(5)
+遺跡公園, 福市遺跡公園, 福市公園, 福市史跡公園, 史跡公園
+cluster2:(2)
+福市考古資料館, 資料館
+cluster3:(2)
+入口付近の日焼山地区, 日焼山地区
+cluster4:(5)
+駐車場側, 奥側, 駐車場, 公園入口手前, 公園入口
+cluster5:(3)
+臨時休館日, 入館料, 休館日
+
+howmany entities : 42
+howmany clusters : 6
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 6
+deleted 0entities.

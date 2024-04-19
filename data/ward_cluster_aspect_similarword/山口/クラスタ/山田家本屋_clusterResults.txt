@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山田家本屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+領主竪田, 在郷武家
+cluster1:(12)
+もの, 山田, 小早川隆景, 慶長, 古式, 山陽道, 住宅, 湯野, 元慶, 家臣, 湯野地区, 村田清風
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶工房 月と羊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+興味, 縁
+cluster1:(7)
+出来上がり, 世界, 子供, 初め, 先生, 時間, 女性
+cluster2:(2)
+陶芸, 体験
+cluster3:(1)
+下さり気持ち
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:打吹公園の桜・ツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+打吹公園, 倉吉市市役所
+cluster1:(13)
+ガラン, 花, 時期, 公園, 庭, 花見スポット, 桜, 混雑, 駐車場, 時間, ツツジ, 池, 近く
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

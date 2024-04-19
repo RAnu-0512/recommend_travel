@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:斎尾廃寺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山陰唯一の国指定特別史跡, 国指定特別史跡
+cluster1:(2)
+法隆寺式伽藍, 法隆寺式伽藍配置
+cluster2:(2)
+琴浦町, 東伯郡
+cluster3:(11)
+白鳳時代, 山陰唯一, 槻下, 配置, 金堂, 見応え, 塔, 寺, 草原, 史跡, 石碑
+cluster4:(4)
+斎尾廃寺, 寺院跡, 廃寺跡, 跡
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

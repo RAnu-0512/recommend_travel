@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線代々木公園駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+商店街, 飲食店, 住宅街
+cluster1:(7)
+代々木公園駅, 駅名, 代々木八幡駅, 千代田線, 駅, 改札, 小田急線
+cluster2:(2)
+食事, 仕事
+cluster3:(8)
+場所, ところ, 感じ, 近く, 裏側, 代々木公園, 周り, 乗り換え
+cluster4:(1)
+地上
+cluster5:(2)
+公園利用者, 訪問先
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

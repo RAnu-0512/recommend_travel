@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ千代田線乃木坂駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+乃木, 乃木神社, 乃木駅
+cluster1:(8)
+発車メロディ, 六本木駅, 乃木坂駅, 駅名, 発車メロディー, 千代田線, 駅, メトロ六本木駅
+cluster2:(6)
+葬儀所, 新美術館, 青山墓地, 国立新美術館最寄り駅, 美術鑑賞, 一等地
+cluster3:(23)
+使い勝手, 某アイドル, 東京都, 東京, 公園, 昭和, 気持ち, 近く, 都, 和, 乃木坂46, そば, ミッドタウン, 出張, イメージ, 美術館, 六本木, 乃木坂, 出口, 東京メトロ, 東京ミッドタウン, 乗り換え, 反対
+
+howmany entities : 40
+howmany clusters : 4
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 4
+deleted 0entities.

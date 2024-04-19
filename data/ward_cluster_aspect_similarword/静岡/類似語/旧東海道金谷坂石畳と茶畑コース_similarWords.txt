@@ -1,0 +1,13 @@
+--------------------similar_words:旧東海道金谷坂石畳と茶畑コース--------------------
+top3 entities near to cluster0>>
+坂, 石畳, 清水
+top3 entities near to cluster3>>
+石畳, 石だたみ, 石段
+top3 entities near to cluster4>>
+駐車場, 駐車
+top3 entities near to cluster6>>
+駅, 徒歩, 駅前
+top3 entities near to cluster7>>
+新緑, 紅葉, 初夏
+top3 entities near to cluster9>>
+坂, 城, 坂道

@@ -1,0 +1,15 @@
+--------------------similar_words:萩城下町夏みかんのかおり--------------------
+top3 entities near to cluster0>>
+時代, 地元, 昔
+top3 entities near to cluster1>>
+みかん, ミカン, 花
+top3 entities near to cluster2>>
+町並み, 景観, 地区
+top3 entities near to cluster3>>
+鍵, カギ
+top3 entities near to cluster5>>
+柑橘系, 柑橘, 柑橘類
+top3 entities near to cluster6>>
+藩士, 藩邸
+top3 entities near to cluster7>>
+臨場感, 臨場, 緊迫感, 緊迫

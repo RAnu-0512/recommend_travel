@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:脇浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+中, 展望, 海, 仕切り, 近く, アオウミガメ, 自然, ウミガメ
+cluster1:(3)
+脇浜, 浜, 鮫
+cluster2:(1)
+母島港
+cluster3:(1)
+崎展望台
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

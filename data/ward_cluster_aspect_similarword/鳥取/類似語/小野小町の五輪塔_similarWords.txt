@@ -1,0 +1,7 @@
+--------------------similar_words:小野小町の五輪塔--------------------
+top3 entities near to cluster0>>
+美女, 美人, 美少女
+top3 entities near to cluster1>>
+墓石, 墓碑
+top3 entities near to cluster2>>
+五輪塔, 五輪, オリンピック

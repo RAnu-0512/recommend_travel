@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:荒川岩淵関緑地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, ゴミ捨て場
+cluster1:(3)
+トイレ, スポット, 貸し出し
+cluster2:(2)
+BBQ, 河川敷
+cluster3:(1)
+場所
+cluster4:(1)
+期間
+cluster5:(1)
+有料
+cluster6:(1)
+QW
+cluster7:(1)
+荒川
+cluster8:(6)
+荷物, 緑地, BBQ機材, 管理事務所, 簡易トイレ, 赤羽岩淵駅
+cluster9:(1)
+入場制限
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 10
+deleted 0entities.

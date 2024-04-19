@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大門大塚古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+ところ, 尾根, 西, 中心, 古墳, 小笠山, 段丘, 史跡
+cluster1:(3)
+静岡県, 袋井駅, 袋井南公民館
+cluster2:(2)
+大門大塚古墳, 古墳時代後期
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

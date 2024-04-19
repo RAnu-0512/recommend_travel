@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湧永満之記念庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島県, 甲田町, 安芸高田市
+cluster1:(17)
+時期, 季節, ところ, 中, 心, 手, 手作り, シーズン, 人, 見どころ, 機会, 他, 手入れ, こと, 場所, 社員, 湧永製薬株式会社
+cluster2:(3)
+庭園内, 庭園, 洋風庭園
+cluster3:(2)
+バラ園, バラ
+cluster4:(2)
+入場, 入園
+cluster5:(4)
+桜, 花, 紅葉, 木々
+cluster6:(4)
+敷地, 庭, 園内, 公園
+cluster7:(3)
+植物, 森林, 薬草
+cluster8:(1)
+国道
+cluster9:(1)
+観光スポット花
+cluster10:(1)
+駐車場
+cluster11:(2)
+湧永, 四季折々
+cluster12:(1)
+薬用植物園
+cluster13:(1)
+湧永満之記念庭園
+
+howmany entities : 45
+howmany clusters : 14
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 14
+deleted 0entities.

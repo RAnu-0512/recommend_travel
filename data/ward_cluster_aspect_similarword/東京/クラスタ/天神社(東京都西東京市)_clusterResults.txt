@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天神社(東京都西東京市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+市, 西東京市
+cluster1:(5)
+歴史, 神社, 雰囲気, 秋祭り, 花火
+cluster2:(1)
+指定文化財
+cluster3:(1)
+菅原道真
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

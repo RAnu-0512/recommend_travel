@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:馬込文士村資料展示室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大田区立山王会館, 大田区立, 大田区
+cluster1:(2)
+資料館, 資料
+cluster2:(2)
+展示室, 資料展示室
+cluster3:(2)
+展示品, 展示物
+cluster4:(26)
+原稿, 子連れ, 場所, 小中学, 多く, 土器, 入口, 昭和, 場所柄, マニアック, 文学, 文士, 家族, 駅, そば, マンション, 文学者, 住宅街, 徒歩, 歴史, こと, 世界, 芸術家, 小学校, 教科書, 大正
+cluster5:(4)
+馬込, 大森駅, 山王, 山王会館
+cluster6:(2)
+宇野千代, 尾崎士郎
+cluster7:(1)
+馬込文士村
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 8
+deleted 0entities.

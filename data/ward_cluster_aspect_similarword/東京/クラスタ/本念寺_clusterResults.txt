@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本念寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墓, 墓地
+cluster1:(5)
+人, 寺, 本念寺, 日蓮宗, 名前
+cluster2:(1)
+一行院
+cluster3:(1)
+大田蜀山
+cluster4:(1)
+日量上人開山
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

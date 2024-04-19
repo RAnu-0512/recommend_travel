@@ -1,0 +1,91 @@
+--------------------similar_words:フジテレビ本社ビル--------------------
+top3 entities near to cluster0>>
+セット, ライト, ウォーター
+top3 entities near to cluster1>>
+エグザイル, 東京タワー, スパイラル
+top3 entities near to cluster2>>
+アトラクション, プロジェクションマッピング, イルミネーション
+top3 entities near to cluster3>>
+イチオシ, ビッグイベント, インタビュー
+top3 entities near to cluster4>>
+レストラン, イタリアン, ビストロレストラン
+top3 entities near to cluster5>>
+アクアシティ, アクアシティー, ビーナスフォート
+top3 entities near to cluster6>>
+キャラクター, キャラクタ, キャラ
+top3 entities near to cluster7>>
+フィギュア, ワンピース, ワンピースフィギュアワンピースプラモデル・
+top3 entities near to cluster8>>
+フジサン, 臨客, 特急
+top3 entities near to cluster9>>
+スライム, キングスライム, スライムベス
+top3 entities near to cluster10>>
+エスカレーター, エレベーター, エレベータ
+top3 entities near to cluster11>>
+テレビ, テレビ局, ＴＶ
+top3 entities near to cluster12>>
+アナウンサー, タレント, キャスター
+top3 entities near to cluster13>>
+ホームセンターグッデイ, ヤングオーオー, グッディ
+top3 entities near to cluster14>>
+ポイント, タイミング, アクセス
+top3 entities near to cluster15>>
+おすすめ, オススメ, 見どころ
+top3 entities near to cluster16>>
+シンボル, デザイン, イメージ
+top3 entities near to cluster17>>
+気持ち, 気持, キモチ
+top3 entities near to cluster18>>
+シール, スタンプ, ボタン
+top3 entities near to cluster19>>
+イベント, ライブ, コンサート
+top3 entities near to cluster20>>
+買い物, 買物, クルーズ
+top3 entities near to cluster21>>
+カフェ, 喫茶店, ショップ
+top3 entities near to cluster22>>
+グッズ, 売り場, 販売
+top3 entities near to cluster23>>
+バス, シャトル, タクシー
+top3 entities near to cluster24>>
+球体, 模型, ジオラマ
+top3 entities near to cluster25>>
+形状, 丸い, 部分
+top3 entities near to cluster26>>
+建物, 建築, 外観
+top3 entities near to cluster27>>
+館内, 施設, 園内
+top3 entities near to cluster28>>
+通路, 階段, 出入り口
+top3 entities near to cluster29>>
+写真, 撮影, 撮っ
+top3 entities near to cluster30>>
+野外
+top3 entities near to cluster31>>
+景色, 風景, 夜景
+top3 entities near to cluster32>>
+天気, 気分, 運
+top3 entities near to cluster34>>
+テレビ, 子供, アニメ
+top3 entities near to cluster36>>
+夜, 昼, 都内
+top3 entities near to cluster37>>
+台場, ビーナスフォート, 港
+top3 entities near to cluster38>>
+展望台, 展望室, 展望
+top3 entities near to cluster39>>
+展示, 出展, 展覧
+top3 entities near to cluster40>>
+ビル, 本社, 社屋
+top3 entities near to cluster41>>
+番組, テレビ, 放送
+top3 entities near to cluster43>>
+土産, おみやげ, 土産物
+top3 entities near to cluster44>>
+入場料, 入場, 入館料, 入館
+top3 entities near to cluster45>>
+見学, 視察, 見物
+top3 entities near to cluster46>>
+子供, 家族, 子ども
+top3 entities near to cluster47>>
+優待, 株主, ヴィアホールディングス

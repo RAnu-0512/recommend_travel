@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湯らぎの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+お湯, 風呂, 湯
+cluster1:(2)
+削減, 経費
+cluster2:(3)
+店員, 客, 常連
+cluster3:(2)
+挙句, 文句
+cluster4:(3)
+不具合, サービス, マナー
+cluster5:(2)
+水風呂, ゆらぎ
+cluster6:(3)
+周り, こと, 人
+cluster7:(1)
+里
+cluster8:(1)
+休憩
+cluster9:(1)
+ドア
+
+howmany entities : 21
+howmany clusters : 10
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 4
+deleted 9entities.

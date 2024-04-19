@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:景清洞・探検コース_洞窟探検>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+探検コース, 洞窟探検
+cluster1:(5)
+山口県, カルスト台地, 秋吉台, ほか, 鍾乳洞
+cluster2:(1)
+景清洞
+cluster3:(1)
+洞窟探検コース入洞料
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

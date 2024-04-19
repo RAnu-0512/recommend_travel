@@ -1,0 +1,11 @@
+--------------------similar_words:辰巳の森海浜公園--------------------
+top3 entities near to cluster0>>
+公園, 風景, 景色
+top3 entities near to cluster1>>
+建設, 会場, 着工
+top3 entities near to cluster2>>
+脇, リギオ, 横
+top3 entities near to cluster3>>
+演技, 役者, 役柄
+top3 entities near to cluster4>>
+工事, 所内

@@ -1,0 +1,17 @@
+--------------------similar_words:青松寺--------------------
+top3 entities near to cluster1>>
+本堂, 山門, 境内
+top3 entities near to cluster2>>
+寺院, 寺, お寺
+top3 entities near to cluster3>>
+参拝, お参り, 参詣
+top3 entities near to cluster4>>
+名刹, 古刹, 巡礼
+top3 entities near to cluster5>>
+散策, 境内, 参拝
+top3 entities near to cluster6>>
+観音像, 観音, 立像
+top3 entities near to cluster7>>
+小便, 歩き, 小僧
+top3 entities near to cluster8>>
+港, 区, 都

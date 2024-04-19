@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:弁天山公園のムラサキツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 弁天山公園
+cluster1:(2)
+桜, 満開
+cluster2:(10)
+ツツジ, ムラサキツツジ, ほか, ところ, ハイキング, 山頂, 眺め, ハイキングコース, ほう, 弁天山
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

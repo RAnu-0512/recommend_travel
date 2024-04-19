@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白金陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ろくろ体験, ろくろで壺を作りたい!, 電動ろくろ, ろくろ, 電動ろくろコース
+cluster1:(7)
+陶芸, 親子体験, 初体験, 陶芸体験, ねり陶芸体験, 体験, 体験代
+cluster2:(14)
+難し, 何か, 状態, 気, 形, 機会, 先生方, 方, こと, 教え方, 先生, 説明, 講師, もの
+cluster3:(2)
+店, 店員
+cluster4:(2)
+初心者, 作り方
+cluster5:(2)
+ところ, おかげ
+cluster6:(3)
+サポート, スタッフ, アシスト
+cluster7:(5)
+出来上がり, 仕上がり, マグカップ, イメージ, デザイン
+cluster8:(1)
+とっくり
+cluster9:(1)
+コース
+cluster10:(1)
+コーヒーカップ
+cluster11:(8)
+作品, 人, 手, 友達, 時間, 次, 友人, 色
+cluster12:(1)
+土
+cluster13:(4)
+アクセサリー置き, 皿, 焼き上がり, 器
+cluster14:(3)
+距離感, 満足感, 満足
+cluster15:(2)
+次回絵付け, 作りたい作品
+
+howmany entities : 61
+howmany clusters : 16
+howmany entities (more than1entities) : 61
+howmany clusters (more than1entities) : 16
+deleted 0entities.

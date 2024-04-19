@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:錦小路頼徳の墓と碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墓, 事件
+cluster1:(2)
+地, 京都
+cluster2:(3)
+政変, 公家, 朝廷
+cluster3:(1)
+威信
+cluster4:(1)
+文久
+cluster5:(1)
+一人
+cluster6:(2)
+三条実美, 小路頼徳
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

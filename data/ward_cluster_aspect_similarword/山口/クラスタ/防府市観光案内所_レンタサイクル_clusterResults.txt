@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:防府市観光案内所_レンタサイクル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+防府市, 防府駅
+cluster1:(11)
+中, 部類, ウェブサイト, 案内, 各地, 自転車, 全国, 事実, レンタサイクル, 市街地, 利用
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

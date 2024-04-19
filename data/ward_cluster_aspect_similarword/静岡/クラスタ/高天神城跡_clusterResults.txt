@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高天神城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+厳しさ, 高さ
+cluster1:(7)
+北, 北側, 一角, 徒歩, 南側, 南北, 西
+cluster2:(6)
+歴史, 階段, 遺構, 神社, 崖, 道
+cluster3:(3)
+攻略, 分岐, 合戦
+cluster4:(1)
+後詰
+cluster5:(1)
+間道
+cluster6:(6)
+囲い, 四角, 池, 井戸, 牢屋, 縁
+cluster7:(2)
+右, 左
+cluster8:(2)
+眼, 体力
+cluster9:(18)
+トイレ, あたり, 方, 周り, 天神山, 大手門, 先程, 両方, 馬場平, 感じ, 上, 声, 夏場, 脇, こと, バス停, 雰囲気, 難攻不落
+cluster10:(7)
+井戸郭, 武田, 土方バス停, 織田, 郭, 堀切, 馬場
+cluster11:(6)
+路線バス, 遠州, 路家康, 掛川駅, 家康, 徳川家康
+cluster12:(3)
+本丸, 本丸跡地, 本丸跡
+cluster13:(4)
+天神城, 天神, 天神城山城, 高天神社
+cluster14:(6)
+持ち城, 城跡, 城域, 城, 石牢, 平山城
+cluster15:(3)
+北側駐車場, 食料武器弾薬, 駐車場
+cluster16:(7)
+搦手門・追手門, 徳川・織田vs武田, 搦手門, 遠州の要高天神城, 徳川対武田ゆかり, 北・東・南, 天神城追手門口
+cluster17:(1)
+搦手門⇒高天神社⇒馬場平⇒堀切⇒本丸・三の丸⇒追手門
+
+howmany entities : 85
+howmany clusters : 18
+howmany entities (more than3entities) : 76
+howmany clusters (more than3entities) : 12
+deleted 9entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新下関駅観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+観光パンフレット, 観光旅行, 観光案内所, 観光
+cluster1:(2)
+新山口駅, 下関駅
+cluster2:(5)
+周辺, 湯田温泉, 山口, パンフレット, 駅
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

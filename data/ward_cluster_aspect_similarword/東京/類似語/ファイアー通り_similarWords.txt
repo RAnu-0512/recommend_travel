@@ -1,0 +1,17 @@
+--------------------similar_words:ファイアー通り--------------------
+top3 entities near to cluster0>>
+飲食店, 飲食, 買物
+top3 entities near to cluster1>>
+とおり
+top3 entities near to cluster3>>
+交差点, 消防署, 交番
+top3 entities near to cluster4>>
+アパレル, ショップ, ファッション
+top3 entities near to cluster5>>
+スタバ, カフェ, タリーズ
+top3 entities near to cluster6>>
+マルイ, ＯＩＯＩ, ウエスタンアームズ
+top3 entities near to cluster7>>
+タワー, レコード, ＶｉＸ
+top3 entities near to cluster8>>
+駅店, 駅, 線路

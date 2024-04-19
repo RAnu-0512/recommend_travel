@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:源泉掛け流し黒湯天然温泉 SPA&HOTEL和-なごみ-(日帰り温泉)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+買い物帰り, 仕事帰り
+cluster1:(5)
+人, 基本, 数, 方, 中
+cluster2:(4)
+もの, 感じ, 影響, 印象
+cluster3:(1)
+機会
+cluster4:(3)
+停止, 挨拶, 清掃
+cluster5:(3)
+客, 常連, 愛想
+cluster6:(20)
+コロナ, ホテル, 水, 水風呂, スタッフ, 値段, ライン, 駅, 立地, サービス, ジャグジー, 水飲み, 黒, ビル, 風呂, 部屋, サウナ, 肌, ペットボトル, ご飯どころ
+cluster7:(1)
+仲良さ
+cluster8:(14)
+蒲田駅, 日帰りスパ, 温泉巡り, お湯, 岩盤浴, 天然温泉, スーパー銭湯, くらい入館, 温泉施設, 蒲田, 施設, 温泉, 白湯, 湯
+cluster9:(4)
+黒湯, 露天黒湯, 内湯黒湯, 黒湯温泉
+cluster10:(2)
+かけ流し, 源泉かけ流し風呂
+
+howmany entities : 59
+howmany clusters : 11
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 11
+deleted 0entities.

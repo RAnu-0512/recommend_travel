@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西六郷公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+公園全体, 公園, タイヤ公園, 開園
+cluster1:(4)
+JR, 西口, 電車, 徒歩
+cluster2:(2)
+面白スポット, 珍スポット
+cluster3:(2)
+子供, 孫
+cluster4:(9)
+メディア, コインパーキング, ブルトーザー, トランポリン, ブランコ, 滑り台, タイヤ, 思い出, トイレ
+cluster5:(2)
+場所, 種類
+cluster6:(1)
+怪獣
+cluster7:(1)
+廃タイヤ
+cluster8:(1)
+京急雑色駅
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 9
+deleted 0entities.

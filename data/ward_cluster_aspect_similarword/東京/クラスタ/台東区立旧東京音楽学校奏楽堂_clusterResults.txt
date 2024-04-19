@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:台東区立旧東京音楽学校奏楽堂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+洋式音楽ホール, 洋式音楽堂, 木造音楽堂, 近代音楽教育発祥
+cluster1:(11)
+上野, 音楽堂, 芸大, 滝廉太郎, 東京音楽学校, 東京ぐるっとパス2022, 芸大生, 上野駅, 音楽, 音楽ホール, 音楽史
+cluster2:(5)
+校舎, 洋館, 建物, 建築, 外観
+cluster3:(4)
+もの, 感じ, 価値, 名前
+cluster4:(6)
+ピアノ, 上野公園, おなじみ, ホール, 日本, スマホチケット
+cluster5:(3)
+非公開ゾーン, 内部, 中
+cluster6:(1)
+地
+cluster7:(1)
+木曜コンサート
+cluster8:(1)
+修復
+cluster9:(6)
+企画展示, 閲覧時間, 演奏会, 展示物, 入場料, 展示
+
+howmany entities : 42
+howmany clusters : 10
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 10
+deleted 0entities.

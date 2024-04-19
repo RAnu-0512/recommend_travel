@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:目白学園遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+遺跡資料室, 目白学園遺跡資料室, 資料室展示品
+cluster1:(2)
+新宿区, 新宿ミニ博物館
+cluster2:(8)
+非公開, 目白学園, 見学者, カメラ, ストーンサークル, 見学, 徒歩, 時代
+cluster3:(3)
+遺跡, 目白学園遺跡, 落合遺跡
+cluster4:(3)
+大学構内, 中井駅, 構内
+cluster5:(1)
+出土品
+cluster6:(1)
+新型コロナ感染症
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

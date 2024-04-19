@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長登銅山文化交流館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石見銀山, 島根県
+cluster1:(16)
+町, 資料, 中国, 交流館, 地方, 製鉄, こと, 鉱物資源, 数々, 様子, 銅, 想い, 歴史, 重み, 銅山, 展示品
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

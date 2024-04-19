@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柳井市町並み資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松島詩子, 故松島詩子
+cluster1:(4)
+観光施設, 伝建地区, 観光客, 専用駐車場
+cluster2:(4)
+周防銀行, 柳井, 柳井駅, 周防
+cluster3:(7)
+金魚ちょうちん, 洋風建築, 本店, 銀行本店, マロニエの木陰, 町歩きマップ, 銀行
+cluster4:(23)
+町並み, もの, 金, 再利用, 係, すほう, 展示, 白壁, 地元出身, 国, 地元生まれ, 町, 資料, 出身, 女性, 歌手, 資料館, 係り, 歌, 明治, 方, 時代, 建物
+
+howmany entities : 40
+howmany clusters : 5
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 5
+deleted 0entities.

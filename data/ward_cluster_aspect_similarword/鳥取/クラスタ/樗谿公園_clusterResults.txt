@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:樗谿公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+参道, 木々, 紅葉
+cluster1:(3)
+山, ホタル, 表参道
+cluster2:(4)
+人, 方, 途中, 場所
+cluster3:(1)
+公園
+cluster4:(1)
+奥
+cluster5:(1)
+里
+cluster6:(1)
+谷間
+cluster7:(1)
+徒歩
+cluster8:(7)
+鳥取東照宮, 鳥取市, JR鳥取駅, 梨赤コースバス停, 鳥取, 樗谿川, 樗谿公園
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

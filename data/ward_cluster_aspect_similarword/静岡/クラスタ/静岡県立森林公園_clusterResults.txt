@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡県立森林公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+敷地, 所, 園内, 広場, 公園, 橋, 場所
+cluster1:(2)
+パターゴルフ, 弁当
+cluster2:(3)
+森林, 自然, 山
+cluster3:(11)
+レストラン, あちこち, アスレチック, 気持ち, 森林浴, ウォーキング, アスレッチック, アドバイス, 子供, 子ども, 吊り橋
+cluster4:(4)
+体, 全体, 感じ, 中
+cluster5:(3)
+駐車場, ゴルフ場, 散策路
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 5
+deleted 2entities.

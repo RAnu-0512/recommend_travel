@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急世田谷線 山下駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+住宅街, 商店街
+cluster1:(5)
+人, 小田急線, 場所, 東急世田谷線, 乗り換え
+cluster2:(7)
+駅, 山下駅, 高井戸駅, 駅周辺, 交差し豪徳寺駅, 乗り換え駅, 豪徳寺駅
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

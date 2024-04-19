@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:CRUISE ME 東京湾チャータークルーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高層マンション, オフィスビル, 高層ビル
+cluster1:(2)
+人柄, 船長
+cluster2:(2)
+東京湾, 勝鬨橋
+cluster3:(9)
+クルージング, カモメ, カップル, ナイトクルーズ, レインボーブリッジ, 思い出, ビール, クルーズ, 東京タワー
+cluster4:(1)
+橋
+cluster5:(12)
+予想, 価値, 室内, ピザ, 家族, 顔, 友達, 間近, ネタ, 風, 友人, 昼間
+cluster6:(2)
+ナイトクルーズ体験, 台場
+cluster7:(1)
+満足感
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 8
+deleted 0entities.

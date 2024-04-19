@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マヨテラス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+館内カメラ撮影, 館内見学カメラ
+cluster1:(4)
+参加, 試食, 開始, 展示
+cluster2:(2)
+子供, 大人
+cluster3:(3)
+ガイドツアー, ガイドスタート, ツアー
+cluster4:(4)
+自家製マヨネーズ, マヨネーズ, チョコホイップクリーム, キューピー
+cluster5:(1)
+歴史
+cluster6:(1)
+ミニマヨネーズ
+cluster7:(1)
+コロナ感染対策のためキッチン
+
+howmany entities : 18
+howmany clusters : 8
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 8
+deleted 0entities.

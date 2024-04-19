@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大川温泉竹ヶ沢公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+送迎バス, 駐車場, 送迎
+cluster1:(21)
+ハイシーズン, 現代社会, マイクロバス, 何か, 身, イベント, かなり力, 通り道, 料金, 人, イベント実行, 気持ち, 時間, カンパ, 地方, 景色, 公園, 力, 場所, 気分, ホタル
+cluster2:(4)
+大川温泉, 蛍, ホタル観賞祭り, 蛍イベント
+
+howmany entities : 28
+howmany clusters : 3
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 3
+deleted 0entities.

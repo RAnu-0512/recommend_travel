@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:功山寺仏殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+功山寺仏殿, 功山寺
+cluster1:(3)
+建築, 建築物, 寺院建築史
+cluster2:(27)
+姿, 見学, 工事, こと, 屋根, 文化財, 柵, 紅葉, 間近, 売店, 外, 一部, 緑, 桜, 山道, 外観, 曹洞宗, 時期, 周囲, カッパ, 時代, 近く, 写真, 特徴, 歴史, 技術, 建物
+cluster3:(2)
+般若心境, 佛殿
+cluster4:(4)
+国宝, 山門, 禅宗, 仏殿
+cluster5:(2)
+拝観, 参拝者
+cluster6:(3)
+鎌倉時代, 観光地, 長府
+cluster7:(1)
+扇垂木
+
+howmany entities : 44
+howmany clusters : 8
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 8
+deleted 0entities.

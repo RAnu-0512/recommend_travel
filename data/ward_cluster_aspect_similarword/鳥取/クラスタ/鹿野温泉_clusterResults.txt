@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿野温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国民保養温泉地, 国民宿舎山紫苑
+cluster1:(2)
+日帰り入浴客, 常連客
+cluster2:(3)
+温泉, 足湯, 宿
+cluster3:(6)
+ユニーク, 方, 日帰り, 気持ち, 外, 地元
+cluster4:(3)
+堀の湯, 展望浴場, 鹿野町
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

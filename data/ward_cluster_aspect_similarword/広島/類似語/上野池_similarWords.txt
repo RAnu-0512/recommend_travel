@@ -1,0 +1,23 @@
+--------------------similar_words:上野池--------------------
+top3 entities near to cluster0>>
+名所, 桜, しだれ
+top3 entities near to cluster2>>
+花見, 行楽, 観桜
+top3 entities near to cluster3>>
+冬, 夏, 春
+top3 entities near to cluster4>>
+木水, 木, 土水, 土
+top3 entities near to cluster5>>
+ツツジ, 遊歩道, シャクナゲ
+top3 entities near to cluster6>>
+気持ち, 雰囲気, 気持
+top3 entities near to cluster7>>
+ビュースポット, 穴場, ススメスポット
+top3 entities near to cluster10>>
+老若男女, 高校生, まわり
+top3 entities near to cluster11>>
+ボート, カヌー, ヨット
+top3 entities near to cluster12>>
+県外, 他県, 隣県
+top3 entities near to cluster14>>
+桜, 木々, 景色

@@ -1,0 +1,43 @@
+--------------------similar_words:水木しげる記念館--------------------
+top3 entities near to cluster0>>
+水木, しげる, 祝
+top3 entities near to cluster2>>
+記念, 記念碑, 館
+top3 entities near to cluster3>>
+時間, 所要
+top3 entities near to cluster4>>
+展示, 出展, 収蔵
+top3 entities near to cluster5>>
+入場, 入場券, 入館券, 入館
+top3 entities near to cluster6>>
+閉館, 開館, 休館
+top3 entities near to cluster7>>
+施設, 名所, 宿泊
+top3 entities near to cluster8>>
+庭外, 中庭, 庭
+top3 entities near to cluster9>>
+見学, 視察
+top3 entities near to cluster10>>
+写真, 紹介, 撮っ
+top3 entities near to cluster12>>
+妖怪, 鬼太郎, 猫娘
+top3 entities near to cluster13>>
+漫画, マンガ, 小説
+top3 entities near to cluster14>>
+漫画家, 評論家, 漫画, 評論
+top3 entities near to cluster15>>
+人生, 戦争, 世界
+top3 entities near to cluster16>>
+子, 目の子, ちゃん
+top3 entities near to cluster17>>
+子供, 子ども, 親達
+top3 entities near to cluster18>>
+大勢, 子供, 人達
+top3 entities near to cluster19>>
+孫, ひ孫, 孫娘
+top3 entities near to cluster20>>
+多胎, 子供, 子ども
+top3 entities near to cluster21>>
+年配者, 来館者, 年配, 来館
+top3 entities near to cluster22>>
+対策, 感染, 予防

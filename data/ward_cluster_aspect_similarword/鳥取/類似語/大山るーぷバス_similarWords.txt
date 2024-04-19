@@ -1,0 +1,11 @@
+--------------------similar_words:大山るーぷバス--------------------
+top3 entities near to cluster0>>
+停車, 乗車, 運行
+top3 entities near to cluster1>>
+大山, 大山寺, 祗命
+top3 entities near to cluster2>>
+バス, 中心, 路線
+top3 entities near to cluster4>>
+祝日, 土日, 祭日
+top3 entities near to cluster5>>
+バス, 周遊, 乗車

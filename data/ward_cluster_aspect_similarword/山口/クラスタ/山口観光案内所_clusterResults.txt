@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山口観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+改札口, 改札
+cluster1:(3)
+駅構内, 駅, 構内
+cluster2:(13)
+観光パンフレット, JR, 土産, スタッフ, カード, 案内, 情報, マンホールカード, 場所, 案内所, 配布場所, 観光場所, 観光スポット
+cluster3:(3)
+山口県, 山口市, 山口駅
+cluster4:(2)
+観光案内所, 山口観光案内所
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 5
+deleted 0entities.

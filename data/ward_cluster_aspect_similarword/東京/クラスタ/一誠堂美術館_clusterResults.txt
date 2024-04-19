@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一誠堂美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+真ん中, 入れ替え
+cluster1:(1)
+美術館
+cluster2:(1)
+意外
+cluster3:(1)
+アールヌーボー
+cluster4:(1)
+展示
+cluster5:(1)
+家具
+cluster6:(1)
+相性
+cluster7:(1)
+常設展示品
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

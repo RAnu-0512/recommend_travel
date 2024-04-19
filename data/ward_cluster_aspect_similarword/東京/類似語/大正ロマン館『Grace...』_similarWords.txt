@@ -1,0 +1,13 @@
+--------------------similar_words:大正ロマン館『Grace...』--------------------
+top3 entities near to cluster0>>
+予約制, 予約, 定員制, 定員
+top3 entities near to cluster1>>
+指輪, リング
+top3 entities near to cluster2>>
+店員, 接客, 店内
+top3 entities near to cluster4>>
+手間, 磨き, 手間隙
+top3 entities near to cluster5>>
+模様, 裏側
+top3 entities near to cluster6>>
+調節, 調整, サイズ

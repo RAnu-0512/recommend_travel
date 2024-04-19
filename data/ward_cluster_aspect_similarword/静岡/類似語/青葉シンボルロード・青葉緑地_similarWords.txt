@@ -1,0 +1,11 @@
+--------------------similar_words:青葉シンボルロード・青葉緑地--------------------
+top3 entities near to cluster1>>
+イルミネーション, イベント, カフェ
+top3 entities near to cluster2>>
+季節, 時季, 時期
+top3 entities near to cluster4>>
+人達, 大勢
+top3 entities near to cluster12>>
+中心街, 中心, 繁華街, 繁華
+top3 entities near to cluster14>>
+公園, 遊歩道, 散策

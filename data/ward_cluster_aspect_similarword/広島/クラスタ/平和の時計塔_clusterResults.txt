@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平和の時計塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+原爆ドーム, 原爆投下, 原爆
+cluster1:(2)
+広島平和記念公園, 平和祈念公園
+cluster2:(3)
+こと., 中心部, 高さ
+cluster3:(4)
+北側, 広島, 端, 北
+cluster4:(2)
+胸, 心
+cluster5:(2)
+音, 鐘
+cluster6:(16)
+もの, 中, 時刻, チャイム, 方, デザイン, ノーモアヒロシマ, 建物, 祈り, 柱, 気分, 上, 形, 時間, 被害, 球体
+cluster7:(1)
+鉄柱
+cluster8:(1)
+三方
+cluster9:(3)
+象徴平和, チャイム平和, 平和
+cluster10:(3)
+塔, 時計塔, 時計
+cluster11:(1)
+───O
+
+howmany entities : 41
+howmany clusters : 12
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 12
+deleted 0entities.

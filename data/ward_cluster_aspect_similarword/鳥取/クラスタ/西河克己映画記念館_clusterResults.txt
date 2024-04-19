@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西河克己映画記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+和泉雅子, 舟木一夫
+cluster1:(5)
+ヒット映画, 映画, 記念館, 映画監督, 展示物
+cluster2:(15)
+映写機, 庭, 智頭, 頃裏庭, 洋館, 国, 出店, 目, 生まれ, 塩屋, 昭和, もの, 出身, ポスター, 主屋
+cluster3:(1)
+登録有形文化財
+cluster4:(1)
+西河克己映画記念館
+
+howmany entities : 24
+howmany clusters : 5
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 5
+deleted 0entities.

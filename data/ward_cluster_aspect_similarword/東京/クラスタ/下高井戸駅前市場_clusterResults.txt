@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下高井戸駅前市場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三軒茶屋駅, 高井戸駅
+cluster1:(1)
+電車
+cluster2:(1)
+駅前市場
+cluster3:(1)
+線路際
+cluster4:(1)
+住宅街
+cluster5:(1)
+東急世田谷線
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

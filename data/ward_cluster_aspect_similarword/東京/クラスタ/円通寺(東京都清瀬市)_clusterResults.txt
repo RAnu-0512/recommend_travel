@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円通寺(東京都清瀬市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東京都, 清瀬市, 清瀬駅
+cluster1:(2)
+建物, 歴史
+cluster2:(4)
+長屋門, 文化財, 円通寺, 観世音
+cluster3:(5)
+前掛け, 手入れ, ところ, 感じ, 雰囲気
+cluster4:(1)
+複数
+cluster5:(1)
+季節
+cluster6:(1)
+趣
+cluster7:(6)
+地蔵, 庭園, 市, 寺, 庭, バス
+cluster8:(1)
+前立
+cluster9:(1)
+有形文化財
+cluster10:(1)
+菩薩立像
+cluster11:(1)
+江戸時代後期に建てられた長屋門
+
+howmany entities : 27
+howmany clusters : 12
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 12
+deleted 0entities.

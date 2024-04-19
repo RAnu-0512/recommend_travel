@@ -1,0 +1,19 @@
+--------------------similar_words:波勝崎--------------------
+top3 entities near to cluster1>>
+猿, 落君, 啄城
+top3 entities near to cluster2>>
+餌, エサ, 土産
+top3 entities near to cluster4>>
+施設地, 施設, 所内
+top3 entities near to cluster6>>
+人間, 子供
+top3 entities near to cluster10>>
+群れ, 野生, 小屋
+top3 entities near to cluster13>>
+浜園, 海園, 海, 浜
+top3 entities near to cluster14>>
+海岸, 崖, 島
+top3 entities near to cluster15>>
+駐車場, 駐車, 広場
+top3 entities near to cluster16>>
+休園, 閉園, 開園

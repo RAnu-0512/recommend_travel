@@ -1,0 +1,13 @@
+--------------------similar_words:倉田百三文学館--------------------
+top3 entities near to cluster0>>
+小説, 文学, 原稿
+top3 entities near to cluster1>>
+施設, 建物, 敷地
+top3 entities near to cluster2>>
+写真
+top3 entities near to cluster3>>
+私物, 私有, お古
+top3 entities near to cluster5>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster6>>
+民俗, 資料, 館

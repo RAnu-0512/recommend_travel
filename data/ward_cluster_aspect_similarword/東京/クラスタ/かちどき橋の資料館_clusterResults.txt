@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かちどき橋の資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+築地, 築地本願寺
+cluster1:(2)
+側, 奥
+cluster2:(2)
+勝鬨橋, 橋
+cluster3:(2)
+場所, 建物
+cluster4:(4)
+人, 映像, ビデオ, ツアー
+cluster5:(1)
+展示
+cluster6:(1)
+土
+cluster7:(1)
+興味
+cluster8:(2)
+一般見学者, 資料館
+cluster9:(1)
+火・木・金
+
+howmany entities : 18
+howmany clusters : 10
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 10
+deleted 0entities.

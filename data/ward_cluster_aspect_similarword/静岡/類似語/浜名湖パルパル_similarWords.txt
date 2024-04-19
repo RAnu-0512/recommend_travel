@@ -1,0 +1,85 @@
+--------------------similar_words:浜名湖パルパル--------------------
+top3 entities near to cluster0>>
+遊園地, 遊園, テーマパーク
+top3 entities near to cluster1>>
+小学生, 子ども, 子供
+top3 entities near to cluster2>>
+気配り, 無愛想, テキパキ
+top3 entities near to cluster4>>
+やり方, おかげ, お陰
+top3 entities near to cluster5>>
+スタイル, バランス, イメージ
+top3 entities near to cluster8>>
+気持ち, 雰囲気, 思い出
+top3 entities near to cluster10>>
+テレビ, 我が家, ウェブ
+top3 entities near to cluster11>>
+アトラクション, テーマパーク, イベント
+top3 entities near to cluster12>>
+アトラクション, エリア, スタッフ
+top3 entities near to cluster14>>
+パーク, フラワー, バスライド
+top3 entities near to cluster16>>
+ショー, ゲーム, ショウ
+top3 entities near to cluster18>>
+ジェット, バルーン, スター
+top3 entities near to cluster19>>
+プール, ベッド, シャワー
+top3 entities near to cluster20>>
+利用, 改善, 対応
+top3 entities near to cluster22>>
+印象, 意外
+top3 entities near to cluster25>>
+気分, 楽しい, 香り
+top3 entities near to cluster29>>
+身長, 年齢, 学年
+top3 entities near to cluster30>>
+小学生, 高学年, 子供
+top3 entities near to cluster31>>
+学年, 年齢, 年長
+top3 entities near to cluster32>>
+息子, パパ, 娘
+top3 entities near to cluster34>>
+2, 3, 四
+top3 entities near to cluster38>>
+料金, 金額, 半額
+top3 entities near to cluster39>>
+年間, 世紀, 初頭
+top3 entities near to cluster42>>
+時間数, 種類数, 時間, 種類
+top3 entities near to cluster46>>
+子供連れ, 子供, つれ
+top3 entities near to cluster47>>
+子供, 子ども, 大人
+top3 entities near to cluster48>>
+孫, ひ孫, 孫娘
+top3 entities near to cluster49>>
+子供, 子ども, 息子
+top3 entities near to cluster52>>
+人達, 家族
+top3 entities near to cluster53>>
+入園券, 入場券, 入園, 入場
+top3 entities near to cluster54>>
+温泉, 露天風呂, 温泉郷
+top3 entities near to cluster56>>
+絶叫系, 絶叫, 叫び声
+top3 entities near to cluster57>>
+観覧車, 観覧
+top3 entities near to cluster58>>
+パス, パスポート, フリー
+top3 entities near to cluster59>>
+時間, 日, 閉園
+top3 entities near to cluster60>>
+泡, 泡立ち, 泡立つ
+top3 entities near to cluster61>>
+イス, パル, メガ
+top3 entities near to cluster62>>
+園内, 館内, 係員
+top3 entities near to cluster63>>
+景色, 絶景, 夜景
+top3 entities near to cluster64>>
+天気雨, 天候, 天気
+top3 entities near to cluster65>>
+食事, 土産, 家族
+top3 entities near to cluster66>>
+施設, 宿泊, 駐車

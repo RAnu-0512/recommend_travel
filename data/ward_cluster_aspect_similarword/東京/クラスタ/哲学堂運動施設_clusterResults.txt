@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:哲学堂運動施設>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+テーマ, スポーツ
+cluster1:(1)
+テニスコート
+cluster2:(1)
+公園
+cluster3:(1)
+哲学
+cluster4:(1)
+季節
+cluster5:(1)
+区民
+cluster6:(2)
+弓道場, 野球場
+cluster7:(1)
+哲学堂公園
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 8
+deleted 0entities.

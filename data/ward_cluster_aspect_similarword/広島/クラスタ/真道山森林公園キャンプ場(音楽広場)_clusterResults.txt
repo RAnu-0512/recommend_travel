@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真道山森林公園キャンプ場(音楽広場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 江田島市
+cluster1:(4)
+施設, 展望台, 音楽広場, オートキャンプ場
+cluster2:(1)
+真道山森林公園キャンプ場
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

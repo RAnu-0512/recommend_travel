@@ -1,0 +1,13 @@
+--------------------similar_words:天理ギャラリー--------------------
+top3 entities near to cluster0>>
+所蔵, 掲示, 開催
+top3 entities near to cluster1>>
+歴史, 資料, 記憶
+top3 entities near to cluster2>>
+区, 区内, 都
+top3 entities near to cluster3>>
+文化, 生活, 芸術
+top3 entities near to cluster4>>
+入館, 無料, 入場
+top3 entities near to cluster6>>
+丁目, 町, 錦

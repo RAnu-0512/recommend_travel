@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ボウリングの・森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+施設, レーン数, 団体, 方々, ボウリング場
+cluster1:(2)
+様子, 練習
+cluster2:(6)
+ダーツ, 息子, 地元, ボーリング, 気合い, ボウリング
+cluster3:(1)
+階段
+cluster4:(1)
+レジャー志向
+cluster5:(4)
+競技, 競技団体, 温泉街, 月例会
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

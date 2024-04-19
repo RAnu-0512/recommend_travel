@@ -1,0 +1,27 @@
+--------------------similar_words:猫カフェ MOCHA 原宿店 --------------------
+top3 entities near to cluster0>>
+駅前店, 駅店, 駅前, 駅
+top3 entities near to cluster1>>
+猫, ネコ, ニャンコ
+top3 entities near to cluster2>>
+猫, 子供, ネコ
+top3 entities near to cluster3>>
+猫, 子猫, ネコ
+top3 entities near to cluster4>>
+子供, 娘, 息子
+top3 entities near to cluster5>>
+持ち帰り, 猫じゃらし, じゃらし
+top3 entities near to cluster6>>
+カップル, おすすめ, デートスポット
+top3 entities near to cluster7>>
+カフェ, 喫茶店, 喫茶
+top3 entities near to cluster8>>
+街並み, 町並み, 町並
+top3 entities near to cluster9>>
+写真, 撮っ, 画像
+top3 entities near to cluster11>>
+料金, お客, 運賃
+top3 entities near to cluster12>>
+空間, 店内, 窓
+top3 entities near to cluster13>>
+格安, 価格, 値段

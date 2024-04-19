@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:超密室 リアル体験型脱出ゲーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+隅, 建物, 室内ゲーム, 部屋
+cluster1:(4)
+人, 家族, 友達, 友人
+cluster2:(2)
+相手, 互い
+cluster3:(1)
+人数
+cluster4:(1)
+店員
+cluster5:(20)
+ゲーム, スタート, 初心者, 合同, スタッフ, 最後, 時間切れ, ヒント, 仕掛け, 他グループ, 口コミ, 他, グループ, レーザー, おかげ, ところ, 現地, 時間, 中, オンラインゲーム
+cluster6:(2)
+笑)スタッフ, こー
+cluster7:(10)
+気, 感じ, 形, 点, 評価, 方, こと, 遠慮, 問題, 説明
+cluster8:(3)
+動揺, 謎, 運動
+cluster9:(1)
+期待はずれ
+cluster10:(5)
+体験ゲーム, 挑戦, 出し方, 人生, 作り
+cluster11:(1)
+次機会
+cluster12:(7)
+延長, 色々頭, 時間体, 頭, 体, 延長料金, 体使
+cluster13:(4)
+リアル感, 体験型ゲーム, 臨場感, リアル体験型ゲーム
+cluster14:(2)
+牢屋, 牢屋脱出
+cluster15:(3)
+脱出, 脱出ゲーム, 脱出成功
+cluster16:(1)
+謎解き
+cluster17:(1)
+脱出成功率
+cluster18:(1)
+雑居ビル
+
+howmany entities : 73
+howmany clusters : 19
+howmany entities (more than1entities) : 73
+howmany clusters (more than1entities) : 19
+deleted 0entities.

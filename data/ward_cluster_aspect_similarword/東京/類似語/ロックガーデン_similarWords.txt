@@ -1,0 +1,29 @@
+--------------------similar_words:ロックガーデン--------------------
+top3 entities near to cluster0>>
+ロック, ミュージック, カントリー
+top3 entities near to cluster1>>
+コース, フォレストコース, ハイキング
+top3 entities near to cluster2>>
+天狗岩, 御岳, 継子岳
+top3 entities near to cluster3>>
+見どころ, 見所, みどころ
+top3 entities near to cluster4>>
+ハイライト, パンフレット, レンゲショウマ
+top3 entities near to cluster5>>
+ハイキング, トレッキング, 山登り
+top3 entities near to cluster6>>
+リュック, リュックサック, デイパック
+top3 entities near to cluster8>>
+紅葉狩り, 紅葉, 行楽
+top3 entities near to cluster9>>
+ゴツゴツ, ごつごつ, 硬い
+top3 entities near to cluster10>>
+普段着, トイレ, 気持ち
+top3 entities near to cluster11>>
+未経験, 経験, ＯＫ
+top3 entities near to cluster12>>
+尻もち, 尻餅, 蹴躓い
+top3 entities near to cluster13>>
+自然, 天然, 金属
+top3 entities near to cluster15>>
+岩場, 遊歩道, 山道

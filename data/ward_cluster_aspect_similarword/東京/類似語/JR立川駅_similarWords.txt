@@ -1,0 +1,25 @@
+--------------------similar_words:JR立川駅--------------------
+top3 entities near to cluster0>>
+ルミネ, 伊勢丹, 高島屋
+top3 entities near to cluster1>>
+スコーン, オレンジ, マフィン
+top3 entities near to cluster2>>
+乗り換え, モノレール, 乗り換える
+top3 entities near to cluster3>>
+デパート, 百貨店, ファッション
+top3 entities near to cluster4>>
+エキュート, イセタン, タカシマヤ
+top3 entities near to cluster5>>
+買い物, 買物, 買いもの
+top3 entities near to cluster6>>
+カフェ, 雰囲気, 喫茶店
+top3 entities near to cluster7>>
+デッキ, ワンキルデッキ, クリーチャーデッキ
+top3 entities near to cluster8>>
+シネマ, コナン, 映画
+top3 entities near to cluster9>>
+南武線, ラリー, 五日市線
+top3 entities near to cluster11>>
+人達, 人々, 界隈
+top3 entities near to cluster12>>
+駅, 駅前, 南口

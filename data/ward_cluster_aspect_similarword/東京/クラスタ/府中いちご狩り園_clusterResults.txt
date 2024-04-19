@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:府中いちご狩り園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大きさと数, 大きさ
+cluster1:(5)
+メロン, ウェットティッシュ, いちご, イチゴ, チョコレートソース
+cluster2:(12)
+こども, ゾーン, スタッフ, カフェ, 子ども, アクセス, メニュー, ロッカー, ハウス, サービス, シーズン, 雰囲気
+cluster3:(18)
+大人, 場所, 最後, 別, 人, 人気, 市場, 笑, 都, 手, 自宅, 予約, ほう, 時間, 方, 園内, 説明, 辺り
+cluster4:(4)
+アルコール消毒, 世話, ヘタ, 満腹
+cluster5:(6)
+服装, 駅, 電車, 分倍河原駅, 集合時間, 椅子
+cluster6:(2)
+完熟いちご, 完熟苺
+cluster7:(2)
+かけ放題, 食べ比べ
+cluster8:(2)
+イチゴ狩り, いちご狩り
+cluster9:(4)
+味変, 品種, 果肉, 味
+cluster10:(6)
+削りいちご, ひらサイズ, いちごがり, 練乳, ゆめ, 苺
+
+howmany entities : 63
+howmany clusters : 11
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:いちご農園やよすけファーム--------------------
+top3 entities near to cluster1>>
+イチゴ, 苺, 農家
+top3 entities near to cluster2>>
+時間, 日数, 時
+top3 entities near to cluster4>>
+対応, 理解, 用意
+top3 entities near to cluster5>>
+ミス, ケアレスミス, 痛恨
+top3 entities near to cluster6>>
+狩り, 狩る, 狩っ

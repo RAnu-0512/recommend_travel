@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海城の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+絶景♪桜, 熱海温泉, 熱海桜, 桜とお城, 熱海城
+cluster1:(16)
+駐車場, 天守閣風, 観光施設, 武家文化, もの, 城, 錦ヶ浦, 山頂, 景色, 高台, 桜, コーナー, 建物, 江戸体験, 浮世絵, 資料館
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 0entities.

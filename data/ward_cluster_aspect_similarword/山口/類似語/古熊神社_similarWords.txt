@@ -1,0 +1,9 @@
+--------------------similar_words:古熊神社--------------------
+top3 entities near to cluster0>>
+例祭, 祭礼, 神事
+top3 entities near to cluster1>>
+拝殿, 本殿, 社殿
+top3 entities near to cluster3>>
+名所, 祭り, 史跡
+top3 entities near to cluster4>>
+商店街, 商店, 繁華街, 繁華

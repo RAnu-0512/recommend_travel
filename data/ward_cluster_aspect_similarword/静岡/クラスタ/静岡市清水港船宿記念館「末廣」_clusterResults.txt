@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:静岡市清水港船宿記念館「末廣」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+品, 語, 映画, 人形
+cluster1:(3)
+エスパルスドリームプラザ, 一面, 美濃輪
+cluster2:(4)
+最初, 人, 中, 方
+cluster3:(2)
+近く, 場所
+cluster4:(1)
+購入
+cluster5:(1)
+居間
+cluster6:(1)
+係
+cluster7:(1)
+英
+cluster8:(4)
+稲荷神社, 船宿, 宿場印, 地巡り
+cluster9:(7)
+次郎長ゆかり, 三保, 末廣, 清水, 次郎長, 清水次郎, 松原
+
+howmany entities : 28
+howmany clusters : 10
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 5
+deleted 6entities.

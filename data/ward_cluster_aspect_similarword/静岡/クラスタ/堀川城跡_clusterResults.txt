@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堀川城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+堀川城, 気賀関所, 今川義元, 獄門畷
+cluster1:(2)
+駐車場, 駐車可能地
+cluster2:(2)
+落城, 侵攻
+cluster3:(6)
+車, 国道, 路肩, 場所, 短時間, 駐車
+cluster4:(5)
+跡, 城, 家康, 首, 村人
+cluster5:(1)
+姫街道
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 5entities.

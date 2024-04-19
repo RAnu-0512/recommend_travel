@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:車塚古墳(山口県防府市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+境内, 神社
+cluster1:(2)
+守り神, 場所
+cluster2:(1)
+古墳
+cluster3:(1)
+妙見社
+cluster4:(1)
+車塚古墳
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

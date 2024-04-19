@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八幡宮一の鳥居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+富岡八幡宮, 街並み, 場所, 鳥居跡
+cluster1:(3)
+方, 話題, 様子
+cluster2:(1)
+想い
+cluster3:(1)
+跡
+cluster4:(5)
+八幡, 鳥居, 松屋, 下町, 八幡宮一
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ウォーターアクティビティ浜名湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+湖, 湖面, 奥浜名湖
+cluster1:(2)
+笑, 笑多分
+cluster2:(2)
+もん, 問題
+cluster3:(3)
+方, 始め, 方々
+cluster4:(3)
+対応, 体験, 説明
+cluster5:(1)
+緊張
+cluster6:(31)
+サップ, スタッフ, レクチャー, バランス, 水, 家族, ペダル, ホテル, アクティビティ, 思い出, 時間, SUP, sup, 風, 足, ペース, 子供, 割引, 運動, ボート, 場所, フォロー, ペダルボート, 風呂, マリンスポーツ, 手足, 秋晴れ, 乗り物, タオル, ペット, Sap
+cluster7:(10)
+子供連れ, 案内, 立ち漕ぎSap, 安定感, 方たち, 私達, 海上案内, 教え方, 案内人, 乗り方
+
+howmany entities : 55
+howmany clusters : 8
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 5
+deleted 5entities.

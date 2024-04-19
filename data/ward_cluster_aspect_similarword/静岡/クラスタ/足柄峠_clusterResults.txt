@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足柄峠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+静岡県, 御殿場IC, 箱根外輪山, 駿東郡, 南足柄市, 小山町, 裾野, 足柄路, 足柄山, 神奈川県, 足柄, 路
+cluster1:(2)
+観光スポット, 観光客
+cluster2:(29)
+車, 足柄峠, 時山, 富士, ハイキング, ふじ, 御殿場, 東国, 空気, 眺め, 朝日, 気持ち, 山頂, 富士山, ドライブ, 景色, 西国, 中, 自然, ドライブスポット, スポット, 頂上, 場所, 金, 絶景, オススメ, 山々, 山, 天気
+cluster3:(2)
+海抜, 標高
+cluster4:(2)
+峠道, 峠
+
+howmany entities : 47
+howmany clusters : 5
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 2
+deleted 6entities.

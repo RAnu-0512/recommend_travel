@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:むさし野深大寺窯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+娘, 小学, 子供
+cluster1:(2)
+体験, 予約
+cluster2:(7)
+店, 場所, 建物, 時期, 時間, こと, 風情
+cluster3:(12)
+絵, スタッフ, 作り方, 焼き物, 深大寺, 気持ち, 形, 冬, ストーブ, ほう, 皿, 色
+cluster4:(1)
+土
+cluster5:(1)
+防寒
+cluster6:(8)
+本焼き, 絵付, 絵付け体験, 轆轤, 手, 茶碗作り, 手びねり, 手捻り
+
+howmany entities : 34
+howmany clusters : 7
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 7
+deleted 0entities.

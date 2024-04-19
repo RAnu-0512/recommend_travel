@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長泉院附属現代彫刻美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+目黒駅, 祐天寺駅, 中目黒駅
+cluster1:(2)
+施設, 場所
+cluster2:(4)
+作品, アクセス, 博物館, 美術館
+cluster3:(1)
+彫像
+cluster4:(1)
+興味
+cluster5:(1)
+中間あたり
+cluster6:(1)
+長泉院附属現代彫刻美術館
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

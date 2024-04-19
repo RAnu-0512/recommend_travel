@@ -1,0 +1,59 @@
+--------------------similar_words:回天記念館--------------------
+top3 entities near to cluster0>>
+若者, 若い, 人々
+top3 entities near to cluster1>>
+人達, 大勢
+top3 entities near to cluster2>>
+子供, 子ども, 大人
+top3 entities near to cluster3>>
+家族連れ, 家族, つれ
+top3 entities near to cluster4>>
+中学, 時代, 高校
+top3 entities near to cluster5>>
+特攻, 神風, 戦艦
+top3 entities near to cluster6>>
+坂道, 上り坂, 急坂
+top3 entities near to cluster7>>
+海, 港, 海辺
+top3 entities near to cluster8>>
+爆薬, 爆弾, 機密
+top3 entities near to cluster9>>
+人生, 歴史, 悲劇
+top3 entities near to cluster10>>
+平和, 戦争, 内戦
+top3 entities near to cluster11>>
+兵士, 敵, 人間
+top3 entities near to cluster12>>
+世界国, 世界, 各国
+top3 entities near to cluster13>>
+資源, リソース, 鉱産
+top3 entities near to cluster14>>
+遺書, 手紙, 遺品
+top3 entities near to cluster15>>
+想い, 胸, 言葉
+top3 entities near to cluster17>>
+時間, 徒歩, 訪問
+top3 entities near to cluster18>>
+展示, 出展, 展覧
+top3 entities near to cluster19>>
+売店, 軽食, 食堂
+top3 entities near to cluster20>>
+菓子, 模型, お菓子
+top3 entities near to cluster21>>
+飲料, 自販機, 清涼飲料水
+top3 entities near to cluster22>>
+記名, 芳名
+top3 entities near to cluster23>>
+二次, 大戦, 二
+top3 entities near to cluster24>>
+回天, 魚雷, 特攻
+top3 entities near to cluster26>>
+基地, 魚雷, 兵器
+top3 entities near to cluster27>>
+館, 回天, 記念
+top3 entities near to cluster28>>
+遺構, 遺跡, 戦争
+top3 entities near to cluster29>>
+資料, 館, 史料
+top3 entities near to cluster30>>
+記念, 館, 原爆

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白浜マリーナサーフショップ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浜, 白浜
+cluster1:(2)
+感じ, 気分
+cluster2:(3)
+時間, 場所, 夕方
+cluster3:(3)
+多く, 人, 男性
+cluster4:(4)
+スタッフ, コーヒー, ショップ, サーフィン
+cluster5:(2)
+カフェ, ランチ
+cluster6:(1)
+夕暮れ
+cluster7:(1)
+商品
+cluster8:(1)
+紅茶
+cluster9:(1)
+雑貨屋
+
+howmany entities : 20
+howmany clusters : 10
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 10entities.

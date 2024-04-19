@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新交通ゆりかもめ汐留駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新交通ゆりかもめ, ゆりかもめ
+cluster1:(9)
+新橋駅, 違う駅, ホテル, 電車, 子供達, 距離, パナソニック, パークホテル, 周り
+cluster2:(4)
+お台場, 汐留, 汐留シオサイト, カレッタ汐留
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

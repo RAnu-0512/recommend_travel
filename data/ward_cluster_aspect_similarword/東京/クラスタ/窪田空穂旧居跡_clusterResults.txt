@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:窪田空穂旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東, 窪田空穂
+cluster1:(1)
+明治
+cluster2:(1)
+日本女子大学目白キャンパス
+cluster3:(1)
+案内板
+cluster4:(1)
+旧居跡
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:白滝公園--------------------
+top3 entities near to cluster0>>
+人形, 子供, ぬいぐるみ
+top3 entities near to cluster1>>
+川池, 川, 溶岩
+top3 entities near to cluster2>>
+公園, 道路, 散歩
+top3 entities near to cluster4>>
+駅付近, 駅, 近辺
+top3 entities near to cluster5>>
+案内板, 案内, 滞在

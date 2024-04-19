@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:角川大映スタジオ(※施設見学不可)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+角川大映スタジオ, 大映
+cluster1:(2)
+大魔神, 魔神
+cluster2:(3)
+ガメラ, グッズショップ, 映画
+cluster3:(2)
+菓子, 土産
+cluster4:(1)
+調布駅
+cluster5:(1)
+メモ帳
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

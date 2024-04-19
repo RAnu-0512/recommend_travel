@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島市郷土資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+被爆建物, 展示物, 展示, 資料, 工場施設, 資料館, 現物資料, 入館料
+cluster1:(3)
+赤レンガ造り, 赤レンガ, レンガ造り
+cluster2:(3)
+江戸時代, 広島市域, 広島市
+cluster3:(30)
+施設, 文化財, 歴史, テーマ, 風情, ところ, スーパ, レトロ, スポット, 人々, 建物, 天井, 倉庫, 昔, 鉄骨, 博物館, 戦前, お化け屋敷, 雰囲気, 陸軍, 梁, 暮らし, 地域, 文化, 勉強, 外観, 様子, 場所, 事柄, 爆風
+cluster4:(1)
+レトロ調
+cluster5:(6)
+郷土資料館, 陸軍糧秣廠, 郷土史, 郷土, 郷土資料, 郷土文化
+
+howmany entities : 51
+howmany clusters : 6
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 6
+deleted 0entities.

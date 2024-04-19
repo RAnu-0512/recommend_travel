@@ -1,0 +1,23 @@
+--------------------similar_words:渓泉閣--------------------
+top3 entities near to cluster0>>
+洋食, 和食, 料理
+top3 entities near to cluster1>>
+料理, 食事, 夕食
+top3 entities near to cluster2>>
+夫婦, ふたり, 家族
+top3 entities near to cluster3>>
+種類
+top3 entities near to cluster4>>
+アメニティ, スタッフ, スッタフ
+top3 entities near to cluster5>>
+ランチ, ステーキ, ディナー
+top3 entities near to cluster6>>
+ビール, 生ビール, 地ビール
+top3 entities near to cluster7>>
+ソース, ブラウンソース, ドミグラス
+top3 entities near to cluster8>>
+温泉, 温泉郷, 湯
+top3 entities near to cluster9>>
+ワン, ドリンク, オンリー
+top3 entities near to cluster10>>
+利用, お客, 常連

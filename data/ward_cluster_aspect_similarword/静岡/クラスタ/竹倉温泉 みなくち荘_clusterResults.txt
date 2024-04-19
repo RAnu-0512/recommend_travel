@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:竹倉温泉 みなくち荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+最後, 車, 体, 赤湯, 温泉, 三島駅, 評価, 下車, 竹倉温泉, バス停, ズーン, 看板, 周辺, 駅, お湯, 汗, 茶色い温泉, 入浴, 感じ, 近く, 色, ネット, 旅, 身体, 湯, 鉄分, 三島, 日帰り温泉
+cluster1:(3)
+東海バス玉沢線, 不老ふ死温泉, みなくち荘
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than3entities) : 31
+howmany clusters (more than3entities) : 2
+deleted 0entities.

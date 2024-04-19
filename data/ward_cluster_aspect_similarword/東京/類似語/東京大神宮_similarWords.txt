@@ -1,0 +1,63 @@
+--------------------similar_words:東京大神宮--------------------
+top3 entities near to cluster0>>
+周り, 中心, 周囲
+top3 entities near to cluster2>>
+有名, 人気, 大人気
+top3 entities near to cluster4>>
+関係, 連絡, 関わり
+top3 entities near to cluster7>>
+お参り, 参拝, 御朱印
+top3 entities near to cluster8>>
+御利益, 願い事, お守り
+top3 entities near to cluster9>>
+イベント, ホテル, グッズ
+top3 entities near to cluster10>>
+結婚, 縁談, 交際
+top3 entities near to cluster11>>
+女性, 男性, 男女
+top3 entities near to cluster12>>
+友達, 親友, 友人
+top3 entities near to cluster13>>
+子供, 娘
+top3 entities near to cluster14>>
+夫婦, 家内, 主人
+top3 entities near to cluster15>>
+携帯, ケータイ, 電話
+top3 entities near to cluster16>>
+良い, よい, 古い
+top3 entities near to cluster17>>
+宿泊, 地図, ホテル
+top3 entities near to cluster18>>
+都心, 都会, 田舎
+top3 entities near to cluster19>>
+受験, 大学, 教育
+top3 entities near to cluster20>>
+神社, 境内, 参拝
+top3 entities near to cluster21>>
+照, 天, 神宮
+top3 entities near to cluster22>>
+神宮, 明治, 備林
+top3 entities near to cluster24>>
+大, 芝, 超大
+top3 entities near to cluster27>>
+駅, 徒歩, 駅前
+top3 entities near to cluster28>>
+神社, 本殿, 境内
+top3 entities near to cluster29>>
+女性人, 男性人, 女性, 男性
+top3 entities near to cluster30>>
+乗客, 女性, お客
+top3 entities near to cluster31>>
+参拝者, 参詣者, 参拝, 参詣
+top3 entities near to cluster32>>
+参拝, お参り, 参詣
+top3 entities near to cluster33>>
+くじ, くじっ, セガラッキー
+top3 entities near to cluster34>>
+恋愛, 成就, 片思い
+top3 entities near to cluster35>>
+祈願祭, 祈願, 祭り
+top3 entities near to cluster36>>
+当選, 祈願, 落選
+top3 entities near to cluster37>>
+祈願, 合格, 願掛け

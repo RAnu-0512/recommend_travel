@@ -1,0 +1,7 @@
+--------------------similar_words:千代田運動公園--------------------
+top3 entities near to cluster0>>
+野球場, 野球, 高校
+top3 entities near to cluster1>>
+運動, 体育館, 運動公園
+top3 entities near to cluster2>>
+遊具, 屋内, 屋外

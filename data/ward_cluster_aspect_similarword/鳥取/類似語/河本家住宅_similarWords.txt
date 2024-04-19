@@ -1,0 +1,13 @@
+--------------------similar_words:河本家住宅--------------------
+top3 entities near to cluster1>>
+住宅, 駐車
+top3 entities near to cluster2>>
+住宅, 民家, 建物
+top3 entities near to cluster3>>
+文化財
+top3 entities near to cluster5>>
+年代, 建築, 初頭
+top3 entities near to cluster6>>
+衛門, 悶左, 播左
+top3 entities near to cluster7>>
+茅葺き, 有形, 屋根

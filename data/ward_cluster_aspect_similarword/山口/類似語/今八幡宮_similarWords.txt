@@ -1,0 +1,9 @@
+--------------------similar_words:今八幡宮--------------------
+top3 entities near to cluster0>>
+拝殿, 神社, 本殿
+top3 entities near to cluster1>>
+時代, 遠景, 末期
+top3 entities near to cluster2>>
+楼門, 本殿
+top3 entities near to cluster3>>
+日赤, 病院, 赤十字

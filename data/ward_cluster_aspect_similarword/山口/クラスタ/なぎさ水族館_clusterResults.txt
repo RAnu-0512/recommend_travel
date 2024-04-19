@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なぎさ水族館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+子供, 子供連れ, 娘達, こども達, 子供たち
+cluster1:(7)
+繁殖, 生態, サメ, 生物, 魚, 海, エイ
+cluster2:(2)
+良さ, 手作り感
+cluster3:(26)
+規模, ふれあいコーナー, 多く, ところ, ニホンアワサンゴ, コーナー, 子ども, タツノオトシゴ, ヒトデ, 家族, オススメ, 着替え, 夏休み, タッチプール, 種類, 日本, タッチングプール, 子, 建物, ナマコ, 水族館, 世界, コブダイ, クラゲ, 生き物, プール
+cluster4:(9)
+思い, 仕方, こと, 濡れ, 体験, 展示, 間近, ほう, 説明
+cluster5:(5)
+水槽館, 日本最大級, 陸奥記念館, 展示水槽, 水槽
+
+howmany entities : 54
+howmany clusters : 6
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 6
+deleted 0entities.

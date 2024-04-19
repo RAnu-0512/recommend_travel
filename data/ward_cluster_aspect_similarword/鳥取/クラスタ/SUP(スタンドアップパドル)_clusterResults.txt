@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SUP(スタンドアップパドル)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スタッフ, フレンドリー
+cluster1:(1)
+sup
+cluster2:(1)
+方
+cluster3:(1)
+写真
+cluster4:(1)
+休憩ポイント
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

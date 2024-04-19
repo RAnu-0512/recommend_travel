@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:満天の湯 可部店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+風呂, 食事
+cluster1:(4)
+サウナ, 水風呂, スーパーマルナカ, 露天風呂
+cluster2:(3)
+種類, 人, 中
+cluster3:(1)
+タン
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

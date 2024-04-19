@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山岡鉄舟墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸開城, 無血開城
+cluster1:(4)
+江戸, 幕末, 維新, 明治
+cluster2:(2)
+三島, 谷中
+cluster3:(17)
+場所, 人, 逸話, 墓地, 彼, 達人, あっけらかん, 修行, 墓, 人々, 千駄木駅, 開基, 剣, 徒歩, 中, 方, もの
+cluster4:(5)
+一人, 功労者, 禅も書, 山岡鉄舟, 全生庵
+cluster5:(1)
+龍沢寺まで禅
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 6
+deleted 0entities.

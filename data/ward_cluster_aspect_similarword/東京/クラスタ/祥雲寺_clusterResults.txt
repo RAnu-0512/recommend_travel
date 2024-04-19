@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:祥雲寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広尾商店街, 商店街
+cluster1:(8)
+ココ, ロケ, 雰囲気, 突き当り, 祥雲寺, 周り, ビル, 奥
+cluster2:(3)
+寺, 小路, 山門
+cluster3:(1)
+東江寺
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

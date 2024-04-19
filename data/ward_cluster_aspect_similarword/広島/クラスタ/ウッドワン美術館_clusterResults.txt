@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ウッドワン美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ガレ・マイセン・上村松園, 倉本聰点描画展
+cluster1:(2)
+広島市, 広島県
+cluster2:(27)
+森林浴, 外れ, 広がり, テーマ, もの, 日本, 周囲, 隣, 企業, 方, 車, カフェ, 人, ティータイム, マイセン, 美術館, 田舎, ケーキセット, 時間, カップ, 気持ち, レストラン, 余裕, 北西, 緑, 自然, イメージ
+cluster3:(5)
+展示, ガラス作品, 絵画, 美術, 作品
+cluster4:(2)
+当館, 新館
+cluster5:(2)
+所, 場所
+cluster6:(2)
+敷地, 建物
+cluster7:(1)
+温泉施設
+cluster8:(1)
+マイセン磁器
+cluster9:(1)
+林業系
+cluster10:(2)
+企画展, 常設展
+cluster11:(2)
+収蔵品, 美術品
+cluster12:(3)
+広さと空間, 宿泊とウッドワン美術館, ウッドワン美術館
+
+howmany entities : 52
+howmany clusters : 13
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 13
+deleted 0entities.

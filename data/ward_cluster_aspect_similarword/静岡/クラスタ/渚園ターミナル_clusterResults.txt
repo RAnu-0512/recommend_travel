@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渚園ターミナル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+渚園, 渚園キャンプ場
+cluster1:(8)
+運動公園使用受付, 許可受付, レンタサイクル受付, 事務所, 受付, キャンプ場入場, バイクイベント, 関係者
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:万華鏡専門店カレイドスコープ昔館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+場所, もの
+cluster1:(2)
+友だち, 先生
+cluster2:(1)
+興味
+cluster3:(1)
+そっとき
+cluster4:(1)
+麻布
+cluster5:(1)
+予約時間
+cluster6:(1)
+た.i
+cluster7:(1)
+商店街
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 8
+deleted 0entities.

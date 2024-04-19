@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 経堂店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+経堂駅, ニッポンレンタカー経堂駅
+cluster1:(12)
+ニッポン, エリア, 西側, 道, 場所, あたり, 北口, コルティ, 裏, レンタカー, 店舗, 横
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

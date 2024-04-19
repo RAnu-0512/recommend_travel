@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Props Art School>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+ガラス, イギリス, 小学生, サプライズ, ハーバリウム, エステ, スタッフ, 箸置き, ガラスアクセサリー, ブリザードフラワー, 作り方, グラス, ベネチアングラス, サンドブラスト, グループ, ポイント, セレクト, お花, フラワーアレンジ, デザイン, マッサージ, センス, アドバイス, レッスン, 先生, アクセサリー, コース, パーツ, アメリカ, 器, 教室
+cluster1:(7)
+全員, 姉妹, 子供, 愛犬, 友人, 主人, 女性
+cluster2:(3)
+別, 他, 複数グループ
+cluster3:(2)
+種類, 好み
+cluster4:(1)
+満足
+cluster5:(2)
+大手, 前回フュージョンガラス
+cluster6:(2)
+作品, 作品作り
+cluster7:(2)
+興味, 知識
+cluster8:(2)
+付近, 時間
+cluster9:(6)
+方々, 方, こと, 説明, 部分, もの
+cluster10:(1)
+手順
+cluster11:(1)
+随時アドバイス
+cluster12:(1)
+楽しさ
+cluster13:(8)
+陶芸, フュージョン体験, 陶芸体験, 初挑戦, サンドブラスト体験, 体験, 陶芸コース, ガラス体験
+cluster14:(2)
+新宿駅, 新宿三丁目
+cluster15:(2)
+開店時間, 月命日
+cluster16:(2)
+花材, お花屋
+
+howmany entities : 75
+howmany clusters : 17
+howmany entities (more than1entities) : 75
+howmany clusters (more than1entities) : 17
+deleted 0entities.

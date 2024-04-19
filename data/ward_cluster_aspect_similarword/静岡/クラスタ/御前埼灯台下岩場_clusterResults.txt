@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御前埼灯台下岩場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+家族連れ, 人たち
+cluster1:(11)
+車, 御前崎, 生き物, カフェ, ヤドカリ, 子, あちこち, 太平洋, 気持ち, 雰囲気, 子供
+cluster2:(2)
+事, 感じ
+cluster3:(3)
+近く, 場所, 辺り
+cluster4:(2)
+写真, 上
+cluster5:(1)
+独特
+cluster6:(2)
+新年, 実物
+cluster7:(26)
+灯台, 駐車場, 静岡県, 貝, 灯台下, 荒波, 釣り, カニ, 潮だまり, 岩場, 御前崎海岸, 白波, 御前崎ケープパーク, 波状岩, 海辺, 階段, 海藻, 夕陽, 小魚, 景色, 波, 海, 砂浜, 干潮, 海岸線, 岩
+cluster8:(2)
+御前埼灯台下岩場, 浜岡原子力発電所
+
+howmany entities : 51
+howmany clusters : 9
+howmany entities (more than3entities) : 40
+howmany clusters (more than3entities) : 3
+deleted 11entities.

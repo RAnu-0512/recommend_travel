@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下関土産品センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口県, 地方卸売市場, 下関市
+cluster1:(3)
+土産, 土産品, 土産屋
+cluster2:(4)
+ふく, にぎり寿司, ふぐ, フグ
+cluster3:(12)
+もの, 販売, 漁師, グッズ, 店, 市場, 地元, カモンワーフ, 外国人, 方々, 様子, 販売形態
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

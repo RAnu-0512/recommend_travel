@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高浜虚子の句碑(静岡県伊豆市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+句碑, 看板, 石碑
+cluster1:(4)
+梅林, 伊豆, ひとつ, 修善寺
+cluster2:(1)
+文学者
+cluster3:(1)
+高浜虚子
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

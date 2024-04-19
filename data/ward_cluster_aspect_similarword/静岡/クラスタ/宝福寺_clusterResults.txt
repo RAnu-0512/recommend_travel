@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝福寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+心, 罪, 許し
+cluster1:(12)
+計らい, ハリス, 浄土真宗, 伊豆下田, 日本, 人, 出会い, 木彫り, 総領事ハリス, 菩提寺, アメリカ, ゆかり
+cluster2:(3)
+吉, 勝, 波
+cluster3:(16)
+敷地, 展示, こと, 看板, 入口, 写真, 銅像, 参拝, 像, 本堂, 墓, 会見, 印象, 場所, マイマイ通り, 寺
+cluster4:(6)
+幕末, 脱藩, 歴史, 開国, 竜馬, 記念館
+cluster5:(10)
+下田奉行所, 唐人お吉記念館, 唐人, 下田芸者お吉, 唐人お吉, 勝海舟, お吉・坂本龍馬・勝海舟, 下田駅, お吉の記念館, 山内容堂
+
+howmany entities : 50
+howmany clusters : 6
+howmany entities (more than3entities) : 50
+howmany clusters (more than3entities) : 6
+deleted 0entities.

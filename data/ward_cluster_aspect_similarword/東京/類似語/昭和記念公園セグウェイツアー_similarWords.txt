@@ -1,0 +1,33 @@
+--------------------similar_words:昭和記念公園セグウェイツアー--------------------
+top3 entities near to cluster0>>
+記念, 公園, 周年
+top3 entities near to cluster2>>
+花, 景色, 草花
+top3 entities near to cluster3>>
+ツアー, ガイド, オプショナル・ツアー
+top3 entities near to cluster4>>
+生菓子, 和菓子, 洋菓子
+top3 entities near to cluster5>>
+ツツジ, サザンカ, 向日葵
+top3 entities near to cluster6>>
+見どころ, アトラクション, 思い出
+top3 entities near to cluster8>>
+休憩, 一休み, ひと休み
+top3 entities near to cluster10>>
+貸切, 直営, 貸し切り
+top3 entities near to cluster11>>
+体験, 体験談, 体感
+top3 entities near to cluster12>>
+解説, 案内, 紹介
+top3 entities near to cluster13>>
+発見, 参加, 見つかる
+top3 entities near to cluster14>>
+講習, 知識, 操作
+top3 entities near to cluster15>>
+接客, 応対, 業務
+top3 entities near to cluster17>>
+人数, 大, 人員
+top3 entities near to cluster18>>
+切っ
+top3 entities near to cluster19>>
+紅葉, 神経, 名所

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あおや和紙工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+和紙体験, 和紙づくり, あおや和紙工房, 手すき和紙体験, 和紙, 因州和紙, 和紙加工体験, 手漉き和紙製作体験
+cluster1:(21)
+ひと時, 作品, 展示, 説明, 体験, イベント, 夏休み, 企画展示, 子ども, ハガキ, 紙漉き, 地元, 和紙漉き体験, 昔, 手漉き体験, 思い出, 紹介施設, 紙すき, 土地, スポット, 指導員
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,23 @@
+--------------------similar_words:帝釈峡遊覧船--------------------
+top3 entities near to cluster0>>
+景色, 湖面, 風景
+top3 entities near to cluster1>>
+乗り場, 乗り物, 乗場
+top3 entities near to cluster2>>
+ガイド, コース, スタッフ
+top3 entities near to cluster4>>
+写真, 雪景色, 晴れ間
+top3 entities near to cluster5>>
+女性人, 男性人, 女性, 男性
+top3 entities near to cluster6>>
+家族, 子供, 子ども
+top3 entities near to cluster7>>
+親, 母, 母親
+top3 entities near to cluster8>>
+主人, 旦那, だんな
+top3 entities near to cluster10>>
+方向道, 方向, 方角
+top3 entities near to cluster11>>
+反対, 賛成, 押し切る
+top3 entities near to cluster12>>
+遊覧船, 遊覧, 桟橋

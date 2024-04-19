@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:常福院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+浪切白不動明王, 高水山山頂
+cluster1:(3)
+趣, 手前, 山頂
+cluster2:(7)
+寺院, 彫刻, 本堂, 境内, 拝殿, 山門, 本尊
+cluster3:(2)
+高水山, 軍畑駅
+cluster4:(1)
+真言宗豊山派
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 5
+deleted 0entities.

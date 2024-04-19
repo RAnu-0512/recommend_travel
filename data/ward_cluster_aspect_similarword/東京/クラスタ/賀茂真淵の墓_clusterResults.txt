@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:賀茂真淵の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東海道線, JR線, 京急線
+cluster1:(18)
+新馬場駅, 民家, 沿線, 子供, 新幹線, 墓所, 右, 東北線, スーパービュー踊り子号, 京浜, 改札, 間近, 踊り子号, 方面, 山手通, 道, 森公園, 横
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:道の駅 花の三聖苑伊豆松崎--------------------
+top3 entities near to cluster1>>
+食事, 夕食, 昼食
+top3 entities near to cluster2>>
+敷地, 建物, 施設
+top3 entities near to cluster3>>
+彫刻家, 学校家, 彫刻, 学校
+top3 entities near to cluster6>>
+時期, 時間, 種類
+top3 entities near to cluster8>>
+人達, 大勢
+top3 entities near to cluster10>>
+景色, 風景, 雰囲気
+top3 entities near to cluster12>>
+花, 蕎麦, 特産
+top3 entities near to cluster14>>
+施設, 温泉, 入浴
+top3 entities near to cluster15>>
+温泉, 湯, 温泉郷
+top3 entities near to cluster16>>
+処, 食事, 夕食

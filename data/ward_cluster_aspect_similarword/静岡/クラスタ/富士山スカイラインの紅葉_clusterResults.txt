@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山スカイラインの紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+紅葉, 黄葉
+cluster1:(3)
+車, 景色, 道路
+cluster2:(2)
+ダケカンバ, カラマツ
+cluster3:(3)
+スカイライン, ドライブ, トンネル
+cluster4:(1)
+富士山
+cluster5:(1)
+上着
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 6entities.

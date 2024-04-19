@@ -1,0 +1,31 @@
+--------------------similar_words:屋形船晴海屋--------------------
+top3 entities near to cluster0>>
+飲み放題, 飲み, やり
+top3 entities near to cluster1>>
+船内, 船頭
+top3 entities near to cluster2>>
+満足, 満腹, 値段
+top3 entities near to cluster3>>
+席, 予約, 座席
+top3 entities near to cluster4>>
+記念, 写真, 撮影
+top3 entities near to cluster6>>
+流れ, 提供, 案内
+top3 entities near to cluster7>>
+感謝, 感激, 謝意
+top3 entities near to cluster8>>
+屋根
+top3 entities near to cluster9>>
+友達, 娘, 友人
+top3 entities near to cluster10>>
+バースデー, すき焼き, ケーキ
+top3 entities near to cluster12>>
+卵, タマゴ, 玉子
+top3 entities near to cluster13>>
+充電, 給電, バッテリ
+top3 entities near to cluster14>>
+誕生, 日, 月
+top3 entities near to cluster15>>
+名所, 料理, 夜景
+top3 entities near to cluster16>>
+鮨屋, 鮨, 屋並

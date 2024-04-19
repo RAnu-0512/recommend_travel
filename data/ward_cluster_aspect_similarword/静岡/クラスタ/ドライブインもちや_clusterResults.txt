@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ドライブインもちや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+鍋焼き風うどん, 草大福」., 大福, 草大福
+cluster1:(3)
+駐車場, 国道沿い, 遊園地
+cluster2:(4)
+もち作り, 餅, おろし餅, もち
+cluster3:(4)
+松本方面, 白糸, 富士, 山梨
+cluster4:(5)
+途中, こと, 感じ, 場所, 方
+cluster5:(4)
+外観, 詳細, 特徴, 一般
+cluster6:(17)
+スタッフ, おみやげ, レストラン, 食べ物, 大人, 本栖湖, 娘, アスレチック, 朝霧高原, 雰囲気, 子供, スポット, ドライブイン, おかげ, 土産物, こども, うどん
+cluster7:(7)
+土産, 休憩, 販売, 名物, 売店, 看板, 出汁
+cluster8:(8)
+敷地, 家族連れ, 垣根, 広大, 広場, 公園, 樹木, 遊具
+cluster9:(1)
+あんころもちやきなこもち
+
+howmany entities : 57
+howmany clusters : 10
+howmany entities (more than3entities) : 56
+howmany clusters (more than3entities) : 9
+deleted 1entities.

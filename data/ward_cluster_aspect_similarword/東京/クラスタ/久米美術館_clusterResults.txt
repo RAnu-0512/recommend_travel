@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:久米美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京美術学校の教え子たち展, 岩倉具視使節団
+cluster1:(18)
+作品, 展示室, 次回, 開催, アクセス, 久米桂一郎, 西口, 久米邦武, 目黒駅, 東京急行電鉄目黒線, JR目黒駅, 前, ビル, 美術館, 久米美術館, 目, 久米桂一朗, 黒田清輝
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

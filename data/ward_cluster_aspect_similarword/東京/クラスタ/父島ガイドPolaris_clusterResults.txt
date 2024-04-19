@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:父島ガイドPolaris>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小笠原, 小笠原オオコウモリ
+cluster1:(3)
+ツアー, ゲスト, ガイド
+cluster2:(2)
+イルカ, ウミガメ
+cluster3:(10)
+オススメ, ドルフィンスイム, グループ, ミナミハンドウイルカ, グリーンペペ, オオコウモリ, シュノーケル, おまけ, もろもろ, シュノーケリング
+cluster4:(3)
+シュノーケルレッスン, シュノーケルポイント, ポイント
+cluster5:(1)
+≧▽≦
+cluster6:(1)
+見送り
+cluster7:(1)
+気配り
+cluster8:(1)
+ナイトツアー
+cluster9:(6)
+場所, 他, 気, 念願, 足, 次
+cluster10:(11)
+:... o, 帰り, 世話, 解説, 連絡, 指導, 案内, 写真, 撮影, 放流, 説明
+cluster11:(16)
+娘, 宿, 屋根, 子供, 旅行, 設備, 家族, 日陰, 天気, 海, 珊瑚, 船, 父島, 魚達, 親子, 南島
+cluster12:(4)
+食事時間, ツアー時間, 時間, 夕食時間
+cluster13:(2)
+星撮影, 星
+cluster14:(2)
+星空, 星空観察
+cluster15:(5)
+透明度, 生憎 波, 初体験, 波, 参加者
+cluster16:(1)
+滑りにくい床
+
+howmany entities : 71
+howmany clusters : 17
+howmany entities (more than1entities) : 71
+howmany clusters (more than1entities) : 17
+deleted 0entities.

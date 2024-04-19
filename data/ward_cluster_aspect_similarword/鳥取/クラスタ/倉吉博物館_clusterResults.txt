@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉吉博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+郷土ゆかり, 歴史部門, 洋画家, 考古資料, 公立美術館, 美術作品, 美術部門, 美術絵画作品
+cluster1:(2)
+家長谷川富三郎, 前田寛治
+cluster2:(4)
+期間, 余裕, 応え, 癒し
+cluster3:(2)
+公園, 遺跡
+cluster4:(6)
+日本, 文化財, 美術館, 歴史, 博物館, 倉吉線
+cluster5:(1)
+出身
+cluster6:(6)
+作品, 展示, 企画, 絵, 版画, 催し
+cluster7:(2)
+入館料, 駐車場
+cluster8:(7)
+倉吉市, 打吹公園, 倉吉近辺, 倉吉絣, 鳥取県, 倉吉歴史民俗資料館, JR倉吉駅
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 9
+deleted 0entities.

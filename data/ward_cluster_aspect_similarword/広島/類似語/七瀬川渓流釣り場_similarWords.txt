@@ -1,0 +1,11 @@
+--------------------similar_words:七瀬川渓流釣り場--------------------
+top3 entities near to cluster0>>
+小学生, 子ども, 子供
+top3 entities near to cluster1>>
+イベント, 催し物, イヴェント
+top3 entities near to cluster2>>
+子, 目の子, テレビッ
+top3 entities near to cluster3>>
+魚類, サカナ
+top3 entities near to cluster4>>
+大会, 優勝, 出場

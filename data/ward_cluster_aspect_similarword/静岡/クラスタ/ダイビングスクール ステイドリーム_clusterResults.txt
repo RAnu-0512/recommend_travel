@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイビングスクール ステイドリーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+魚, 鯛
+cluster1:(2)
+浅瀬, 海
+cluster2:(11)
+アオウミガメ, 体験ダイビング, ウツボ, アプローチ, ウミガメ, 大型, 姿, 色とりどり, 方, 家族, ところ
+cluster3:(1)
+川奈
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 5entities.

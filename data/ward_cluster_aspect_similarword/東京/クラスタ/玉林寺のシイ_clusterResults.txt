@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:玉林寺のシイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+玉林寺創建, 玉林寺
+cluster1:(17)
+案内板, 裏手, 巨木, 裏, シイ, スケール, スダジイ, 子供, 木, 本堂, 都指定天然記念物, 創建, 地域, 墓, 臨江寺, 東, 貴重
+cluster2:(1)
+蒲生君平・徳田秋声
+
+howmany entities : 20
+howmany clusters : 3
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 3
+deleted 0entities.

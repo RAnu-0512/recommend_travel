@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森の市>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+天竜 山, 天竜 山の市
+cluster1:(2)
+次郎柿, 柿
+cluster2:(3)
+本場, 産地, 発祥
+cluster3:(7)
+親戚, 茶, 柿の木, 種, しいたけ, 子ども, 山
+cluster4:(2)
+具合, 味
+cluster5:(6)
+もの, 市, 目的, 名前, 地, 場所
+cluster6:(1)
+友人宅
+cluster7:(1)
+大きさ
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 8entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:浅草 茶禅--------------------
+top3 entities near to cluster0>>
+季節, 部屋
+top3 entities near to cluster1>>
+梅, 抹茶, 花
+top3 entities near to cluster2>>
+体験, 講義, 授業
+top3 entities near to cluster3>>
+製菓, 菓子, 洋菓子
+top3 entities near to cluster4>>
+経験者, 経験, 資格者, 資格

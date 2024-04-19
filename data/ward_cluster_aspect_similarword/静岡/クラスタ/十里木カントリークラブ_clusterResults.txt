@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十里木カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+曇り, 天気
+cluster1:(3)
+景観, 景色, 絶景
+cluster2:(2)
+標高, コスト面
+cluster3:(5)
+麓, 芝, 富士, 霧, 冬
+cluster4:(18)
+グリーン, アコーディア, ゴルフ場, 手入れ, 初心者, フェアウエイ, こと, コース, ゴルフ, 気持ち, 時間, 富士山, 近く, アップダウン, ゴルフコース, 場所, フェアウェイ, ティーショット
+cluster5:(1)
+10M先
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 5entities.

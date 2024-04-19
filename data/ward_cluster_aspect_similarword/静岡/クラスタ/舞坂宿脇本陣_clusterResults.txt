@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:舞坂宿脇本陣>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駐車場, 建造物, 通行, 宿泊施設, 入館, 通行者
+cluster1:(9)
+案内, 利用, こと, 受付, 嘆願, 説明板, 様子, 結果, 説明
+cluster2:(3)
+厠, 便所, 御風呂
+cluster3:(2)
+地震, 津波
+cluster4:(2)
+間横, 間口
+cluster5:(6)
+台所, 間取り部屋, 和室, 上段, 部屋, 縁側
+cluster6:(4)
+物, 建物, 場所, 施設
+cluster7:(5)
+家, 女性, タイム, 雰囲気, 東海道
+cluster8:(1)
+庭園
+cluster9:(1)
+航路
+cluster10:(2)
+上湯殿, 下湯殿
+cluster11:(3)
+本陣跡, 本陣, 脇本陣
+cluster12:(7)
+江戸, 長屋, 旅籠, 宿場, 吉田, 京都, 江戸時代
+cluster13:(3)
+舞坂宿, 舞阪, 荒井宿
+cluster14:(6)
+江戸時代の脇本陣, 東海道宿場町, 浜松・新居・白須賀・二川, 昔の宿場町, 舞阪郷土資料館, 迂回路本坂通
+
+howmany entities : 60
+howmany clusters : 15
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 10
+deleted 8entities.

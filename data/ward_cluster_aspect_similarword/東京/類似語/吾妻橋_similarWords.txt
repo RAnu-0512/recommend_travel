@@ -1,0 +1,11 @@
+--------------------similar_words:吾妻橋--------------------
+top3 entities near to cluster0>>
+写真, 撮影, 撮っ
+top3 entities near to cluster1>>
+景色, 夜景
+top3 entities near to cluster2>>
+イルミネーション, イベント, オブジェ
+top3 entities near to cluster6>>
+アレ, 笑, コレ
+top3 entities near to cluster7>>
+会社, 駅, 建物

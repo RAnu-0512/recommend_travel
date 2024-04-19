@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三蔵稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三蔵稲荷神社, 備後護国神社
+cluster1:(4)
+福山城天守閣, 福山藩, 福山城主, 福山城
+cluster2:(6)
+北側, 訪問, 初代城主, 城, 途中, 能舞台
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ東西線竹橋駅--------------------
+top3 entities near to cluster0>>
+内容, 期間, 仕事
+top3 entities near to cluster1>>
+想像, 帰宅
+top3 entities near to cluster2>>
+真横, 横
+top3 entities near to cluster3>>
+車掌, 駅, 電車
+top3 entities near to cluster4>>
+皇居, 通勤, 首都

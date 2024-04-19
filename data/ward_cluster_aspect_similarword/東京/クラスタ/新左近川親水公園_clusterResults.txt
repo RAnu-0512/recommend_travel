@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:新左近川親水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+バーベキュー場, デイキャンプ場
+cluster1:(11)
+貸し出しボート, ボート, デート, オススメ, アトラクション, ジョギング, デイキャンプ, 気持ち, 方, 雰囲気, バーベキュー
+cluster2:(2)
+池, 桜
+cluster3:(4)
+水, 西側, 近く, 敷地
+cluster4:(1)
+恵み
+cluster5:(1)
+利用料
+cluster6:(10)
+水辺公園, 芝生, 公園, 散歩コース, 水辺, 散歩, 広場, 水路沿い, 遊具, 左近川
+cluster7:(3)
+新左近川親水公園, 臨海公園駅, 臨海町
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 8
+deleted 0entities.

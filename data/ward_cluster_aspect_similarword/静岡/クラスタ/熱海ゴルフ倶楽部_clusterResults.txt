@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱海ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+熱海, 熱海駅
+cluster1:(2)
+リゾート感, 良さ
+cluster2:(7)
+雨, 温泉, 眺め, 景色, 食事, 海, 予報
+cluster3:(2)
+対応, 予約
+cluster4:(4)
+ショートコース, コース, ゴルフ, ゴルフコース
+cluster5:(14)
+プレー, スタッフ, おもてなし, レストラン, 初心者, クローズ, ラウンド, クラブハウス, 気持ち, コンペ, 気配り, スタート, アップダウン, スコアー
+cluster6:(8)
+ゴルフ場, こと, 会社, 人, 機会, 中, 家内, 方々
+cluster7:(1)
+上級者
+cluster8:(1)
+天気予報
+
+howmany entities : 41
+howmany clusters : 9
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 4
+deleted 8entities.

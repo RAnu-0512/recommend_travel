@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一般社団法人めぐろ観光まちづくり協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+社団法人めぐろ観光まちづくり協会, めぐろ観光まちづくり協会
+cluster1:(19)
+事務所, 自然, イベント, 目黒区, グルメ, 東急東横線, 文化財, オブジェ, ガイドブック, 組織, 寺, 観光情報, 好奇心, 歩道, 中目黒駅, 前, こと, 中目黒GT, 史跡
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,46 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着物レンタルVASARA新宿駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+新宿, 浅草, 新宿店
+cluster1:(2)
+茶会, サイン会
+cluster2:(8)
+対応, 予約, 価格, イベント日, \, アイテム数, 帯, 時間
+cluster3:(6)
+気, こと, 満足, 機会, 印象, もの
+cluster4:(6)
+小物, 種類, 用途, 柄, 好み, 色
+cluster5:(21)
+スタッフ, イベント, コールセンター, 目当て, 知り合い, 雰囲気, ヘアメ, 赤ちゃん, コミュニケーション, センス, アドバイス, サイズ, 着替え, アイテム, 着付け, プライベート, レンタル, ヘアアレンジ, ストール, お母さん, スペース
+cluster6:(8)
+方, 友人, 参加, 他, 友達, 方々, 人, 子供
+cluster7:(4)
+海外, 夏, 緑, プロ
+cluster8:(3)
+店, 接客, 店員
+cluster9:(2)
+髪型, ヘアセット
+cluster10:(8)
+定員, 追加料金, 料金, 手際, 是非き, 丁寧さ, 定員さん, 程度融通
+cluster11:(2)
+卒業式, 入学式
+cluster12:(2)
+花火大会, 祭り気分
+cluster13:(2)
+訪問着, 着
+cluster14:(3)
+袴, 下駄, 袴レンタル
+cluster15:(2)
+着物選び, 浴衣選び
+cluster16:(2)
+着物レンタル, 着物
+cluster17:(3)
+浴衣, 浴衣コーディネート, 持ち込み浴衣
+cluster18:(1)
+着付師
+
+howmany entities : 88
+howmany clusters : 19
+howmany entities (more than1entities) : 88
+howmany clusters (more than1entities) : 19
+deleted 0entities.

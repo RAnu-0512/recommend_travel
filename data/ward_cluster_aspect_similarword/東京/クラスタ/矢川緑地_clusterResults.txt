@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:矢川緑地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+場所, 自然, 散策路, JR南武線, カッコウ, 緑地, 空間, 公園, 里山, 散歩コース, 間, カルガモ, 緑, 気持ち, 近く, 湿地, 散歩, 雑木林, 湧き水, 川, 天気, 徒歩, 癒し, スポット, 湧水, 周辺
+cluster1:(5)
+矢川緑地い, 西国立駅, 西国立, 矢川, 矢川駅
+
+howmany entities : 31
+howmany clusters : 2
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 2
+deleted 0entities.

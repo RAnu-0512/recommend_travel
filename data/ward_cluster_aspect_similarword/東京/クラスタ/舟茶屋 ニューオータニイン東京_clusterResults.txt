@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:舟茶屋 ニューオータニイン東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+ブッフェ, サラダバー, メイン, 多く, ケーキ, コーヒー, キヌア, デザート, トッピング, 食後, サラダ
+cluster1:(2)
+取りサラダ, カトラリー置き
+cluster2:(5)
+食器, 野菜, プリティ弁当, 食材, 皿
+cluster3:(1)
+満足感
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

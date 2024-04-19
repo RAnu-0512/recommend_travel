@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:定光寺(鳥取県倉吉市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+倉吉駅, 倉吉
+cluster1:(2)
+参拝客, 緑多いお寺
+cluster2:(9)
+文献, 方法, 情緒, 車, 歴史, 時代, 上, 気持ち, 場所
+cluster3:(5)
+石塔, 境内, 本堂, 寺, 小さなお寺
+cluster4:(2)
+室町, 坂
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

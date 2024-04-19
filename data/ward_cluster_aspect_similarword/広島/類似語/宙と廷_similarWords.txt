@@ -1,0 +1,11 @@
+--------------------similar_words:宙と廷--------------------
+top3 entities near to cluster0>>
+民家, 古, 家屋
+top3 entities near to cluster1>>
+体験, 対応, 体感
+top3 entities near to cluster2>>
+子供, 小学生, 子ども
+top3 entities near to cluster3>>
+歴史, 時間, 分間
+top3 entities near to cluster4>>
+夫婦, 主人, 料理

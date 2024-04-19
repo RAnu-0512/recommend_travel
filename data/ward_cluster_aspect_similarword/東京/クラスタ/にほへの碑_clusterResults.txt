@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:にほへの碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+開拓民, 小笠原開拓民
+cluster1:(2)
+絶海, 孤島
+cluster2:(8)
+筆, 歴史, こと, 勉学, 勉強, 碑, もの, 石
+cluster3:(1)
+供養塔
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

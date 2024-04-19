@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:田中義一別邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+窓, 庭, 夏みかん, 川辺, 船着き場, 木, 見応え, 総理, 光, 明治, 説明, 昔ガラス, 人, 内部, ガイド, 個人
+cluster1:(2)
+別邸, 邸宅
+cluster2:(2)
+建築, 景観
+cluster3:(1)
+内覧
+cluster4:(1)
+柑橘公園
+cluster5:(3)
+内閣総理大臣, 田中儀一元総理, 田中義一
+
+howmany entities : 25
+howmany clusters : 6
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 6
+deleted 0entities.

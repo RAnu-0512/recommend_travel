@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ZAKUROらんぷ家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+製作, ランプ製作, 接着, 作業, 工程, 貼り付け方, 作成, ランプ作り, 完成品, 完成
+cluster1:(8)
+電話, 到着, 予約, 連絡, 取材, 説明, 指摘, 返答
+cluster2:(19)
+現状, 箇所, 気, 声, 方, 部分, 結果, 何か, 感じ, 満足, 話, 態度, 所, 場所, 人, 形, 印象, 違い, もの
+cluster3:(3)
+昔母, 友人, 母
+cluster4:(5)
+件, 問い合わせ先, 他, 以下, 上記
+cluster5:(2)
+斜め, 奥
+cluster6:(4)
+追加料金, 注意書, 大きさ, 注意
+cluster7:(4)
+石膏コーティング, 破片, 全滅ガラス, 糸ビーズ
+cluster8:(14)
+ガラス, スタッフ, メール, モチーフ, スタンス, サイズ, タイル, チェック, 口コミ, ところ, コーティング, 手作業, ビーズ, デザイン
+cluster9:(2)
+スタンドライト, ライト
+cluster10:(2)
+ランプづくり, ランプ
+cluster11:(2)
+トルコランプ, トルコ
+cluster12:(9)
+店, 値段, 単色, 種類, 価格, 在庫, 店内, 店員, 色
+cluster13:(4)
+全面, 客, 客側, 全面ガラス
+cluster14:(1)
+ZAKUROらんぷ家
+
+howmany entities : 89
+howmany clusters : 15
+howmany entities (more than1entities) : 89
+howmany clusters (more than1entities) : 15
+deleted 0entities.

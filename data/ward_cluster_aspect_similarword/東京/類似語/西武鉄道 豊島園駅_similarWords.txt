@@ -1,0 +1,9 @@
+--------------------similar_words:西武鉄道 豊島園駅--------------------
+top3 entities near to cluster0>>
+駅, 西武鉄道, 各駅
+top3 entities near to cluster1>>
+跡地, 施設, 予定
+top3 entities near to cluster2>>
+温泉, 施設, 日帰り
+top3 entities near to cluster3>>
+城址, 都立, 公園

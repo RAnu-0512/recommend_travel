@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:愛らんどセンター 御神火温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+温泉プール, 温泉
+cluster1:(2)
+風呂, 掃除
+cluster2:(3)
+窓, 室内, 光
+cluster3:(7)
+サイクリング, プール, 水着, 施設, ダイビング, 時間, 帰り
+cluster4:(1)
+大島
+cluster5:(1)
+じんか
+cluster6:(1)
+御神火
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

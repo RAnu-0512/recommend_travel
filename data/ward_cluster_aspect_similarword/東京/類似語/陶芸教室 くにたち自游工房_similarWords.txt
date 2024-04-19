@@ -1,0 +1,13 @@
+--------------------similar_words:陶芸教室 くにたち自游工房--------------------
+top3 entities near to cluster0>>
+くろ, くろい, なぶろ
+top3 entities near to cluster2>>
+体験者, 体験, 体験談
+top3 entities near to cluster3>>
+陶芸, 体験, 焼き物
+top3 entities near to cluster4>>
+作業, 工房, 仕事
+top3 entities near to cluster5>>
+捻り, ひねり
+top3 entities near to cluster6>>
+游, 自, 工房

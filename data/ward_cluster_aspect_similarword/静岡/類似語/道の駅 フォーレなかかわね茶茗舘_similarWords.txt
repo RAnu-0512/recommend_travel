@@ -1,0 +1,15 @@
+--------------------similar_words:道の駅 フォーレなかかわね茶茗舘--------------------
+top3 entities near to cluster0>>
+土産, 土産物, 名産
+top3 entities near to cluster2>>
+庭園, 茶室, 庭
+top3 entities near to cluster3>>
+敷地, 別棟, 建物
+top3 entities near to cluster4>>
+品種
+top3 entities near to cluster6>>
+参加, 体験, 薦め
+top3 entities near to cluster10>>
+新茶, 抹茶, 紅葉
+top3 entities near to cluster13>>
+茶, 銘茶, 茶どころ

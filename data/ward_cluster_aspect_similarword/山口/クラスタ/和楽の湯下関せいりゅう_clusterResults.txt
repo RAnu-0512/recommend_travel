@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和楽の湯下関せいりゅう>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+風呂, 入浴料, 混浴, 露天, 家族風呂, 男湯, 入浴, 銭湯, 女性風呂, 女風呂, 風呂場, 温泉, 男風呂, 塩サウナ, お湯
+cluster1:(5)
+予約, 受付, 時間帯, クーポン獲得画面, ネット予約
+cluster2:(2)
+人たち, 隣同士
+cluster3:(5)
+男女, 男児, 毛, 年齢, 髪
+cluster4:(2)
+接客, 態度
+cluster5:(4)
+拒否, 対応, 注意, 作り
+cluster6:(2)
+食事, 家族
+cluster7:(2)
+施設, 場所
+cluster8:(1)
+客
+cluster9:(14)
+ロッカー数, クーポン, 鍵, サイト, スタッフ, 問い合わせ, サウナ, ロッカー, 種類, バイキング, 露天風呂, 入れ替え, 忘れ物, 両方
+cluster10:(6)
+山口県, 従業員, 障害, 発達障害, 母子家庭, 高級感
+
+howmany entities : 58
+howmany clusters : 11
+howmany entities (more than1entities) : 58
+howmany clusters (more than1entities) : 11
+deleted 0entities.

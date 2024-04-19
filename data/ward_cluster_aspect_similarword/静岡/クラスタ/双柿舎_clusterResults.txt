@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:双柿舎>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+坪内逍遥, 文豪坪内逍遥
+cluster1:(4)
+庭園, むかし観光, 庭, 建物
+cluster2:(7)
+ボランティア, ガイド, 雰囲気, スポット, 明治, 点, 説明
+cluster3:(6)
+静岡県, 熱海駅, 水口町, 熱海市, 双柿舎, 愛知県
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 3
+deleted 2entities.

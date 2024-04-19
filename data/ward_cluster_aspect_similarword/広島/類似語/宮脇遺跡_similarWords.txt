@@ -1,0 +1,13 @@
+--------------------similar_words:宮脇遺跡--------------------
+top3 entities near to cluster1>>
+上流, 下流, 中流
+top3 entities near to cluster2>>
+神社, 境内, 本殿
+top3 entities near to cluster3>>
+石器, 旧石器時代, 青銅器
+top3 entities near to cluster4>>
+丘陵, 端, 台地
+top3 entities near to cluster5>>
+川, 神田, 小川
+top3 entities near to cluster6>>
+治, 品等

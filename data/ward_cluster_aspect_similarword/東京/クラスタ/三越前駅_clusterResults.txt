@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三越前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+ビつ, 真南, 東京, A6, 都, 東京メトロ
+cluster1:(8)
+地上, 東西, 新館, 地下, 谷間, 本館, ビル, 出口
+cluster2:(2)
+半蔵門線, 地下鉄
+cluster3:(2)
+最寄り駅, 乗り換え
+cluster4:(4)
+ショッピング, ダイレクト, COREDO, デパート
+cluster5:(1)
+デート
+cluster6:(1)
+百貨店
+cluster7:(1)
+あかり
+cluster8:(1)
+ホームメロディ
+cluster9:(3)
+日本橋, コレド, 仲通り
+cluster10:(1)
+仲通
+cluster11:(25)
+雨, 店, 都会, 北側, 場所, 食事, 老舗, 気楽, 人, 間, 目的, 距離, 夫婦, 近く, 名前, 散歩, 本店, そば, 趣, 提灯, 前, 時間, 日本, 参道, 風情
+cluster12:(17)
+越前駅, 三越, 新日本橋駅, 門線, 福徳神社, 徳川家康, 日本橋三越前駅, 駅, 江戸, 日本橋三越, 江戸時代, 日本橋駅, 東京メトロ三越前駅, コレド室町1, 銀座線, 乗り換え駅, 駅名
+
+howmany entities : 72
+howmany clusters : 13
+howmany entities (more than1entities) : 72
+howmany clusters (more than1entities) : 13
+deleted 0entities.

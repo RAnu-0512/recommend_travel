@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:延命院のシイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+シイの樹, シイ, ブナ科
+cluster1:(3)
+木, 樹, 椎
+cluster2:(2)
+JR, 日暮里駅
+cluster3:(2)
+場所, 近く
+cluster4:(3)
+手入れ, 西日暮里, 方
+cluster5:(1)
+目
+cluster6:(1)
+西
+cluster7:(1)
+住所
+cluster8:(3)
+谷中エリア, 山門, 境内
+cluster9:(2)
+日蓮宗寺院です., 延命院
+cluster10:(1)
+谷中銀座商店街
+
+howmany entities : 22
+howmany clusters : 11
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 11
+deleted 0entities.

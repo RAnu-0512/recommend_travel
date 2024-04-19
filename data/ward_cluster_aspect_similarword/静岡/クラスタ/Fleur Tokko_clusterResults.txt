@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Fleur Tokko>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作品作り, 作品
+cluster1:(11)
+話, 夫婦, こと, 体験, クリスマス, 箸置き, 先生, 時間, 思い出, お花, オススメ
+cluster2:(1)
+家族旅行
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 1
+deleted 3entities.

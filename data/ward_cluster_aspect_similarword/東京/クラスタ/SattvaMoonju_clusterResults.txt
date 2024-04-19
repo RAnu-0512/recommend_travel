@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SattvaMoonju>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+南口, 国立駅
+cluster1:(25)
+スイートマジョラム, フットバス, オイル, アロマテラピー, ラベンダー, プレゼントポイント, セラピスト, エッセンシャルオイル, トリートメント, ブレンドオイル, 人当たり, アロマオイル, ポイント, アロマトリートメント, マンション, オレンジ, リピーター, イメージ, アロマ, マッサージ, アロマテラピートリートメント, BGM, アドバイス, 雰囲気, ペース
+cluster2:(3)
+自宅, 部屋, 一室
+cluster3:(5)
+体験, 前回, 次, 先生, 説明
+cluster4:(8)
+場所, 種類, 気分, 好み, 時間, こと, もの, 感覚
+cluster5:(7)
+疲れ, 指圧, 施術, マッサージ屋, 精油, 癒し, 香り
+cluster6:(1)
+安心感
+cluster7:(2)
+調香体験, 何種類もの香り
+
+howmany entities : 53
+howmany clusters : 8
+howmany entities (more than1entities) : 53
+howmany clusters (more than1entities) : 8
+deleted 0entities.

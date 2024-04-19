@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海が庭 みなとや>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+感じ駐車場, 脱衣所, 感じ休憩所
+cluster1:(15)
+プラス, 館内, こと, 昼, 扇風機, ところ, 水シャワー, 波止場, 汗, スキューバダイビング, 近く, 釣人, 暑, タオル, プラン
+cluster2:(6)
+温泉, 滞在湯, 滞在, 宿, 日帰り温泉プラン, 湯
+cluster3:(2)
+展望風呂, 展望
+cluster4:(3)
+風呂場, 貸し切り風呂, 風呂
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 4
+deleted 2entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:通化寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+環境, 軍
+cluster1:(1)
+石碑
+cluster2:(1)
+紅葉
+cluster3:(1)
+長州
+cluster4:(1)
+雪舟庭
+cluster5:(1)
+通化寺
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:住雲寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ふじ寺, ふじ祭り
+cluster1:(14)
+下, 別名, 満開, 茶会, イベント, マスク, こと, 香り, 花, 藤棚, フジ, コロナ禍, 顔辺り, ジブリメドレー
+cluster2:(2)
+女子生徒, 一般客
+cluster3:(2)
+大型連休, 開花時期
+cluster4:(1)
+地元高校筝曲部
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

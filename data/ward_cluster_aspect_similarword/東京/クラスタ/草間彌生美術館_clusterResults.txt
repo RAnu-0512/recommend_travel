@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:草間彌生美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+草間彌, 草間彌生美術館, 草間彌生, 草間彌生ワールド
+cluster1:(5)
+ネット予約, 予約時間, 予約制, 予約制&入れ替え制, 予約
+cluster2:(2)
+外国人観光客, 観光客
+cluster3:(5)
+灼熱地獄, 新宿区, 山房, 松本市美術館, 国立新美術館
+cluster4:(9)
+迷惑行為, 人たち, 外国人, 迷惑, 近隣住民, 人, 歩行, 歩行者, 訪問者
+cluster5:(21)
+仕掛け, 入口, 最上階, 人気, ところ, 近所, 行き方, 独特, ダンススタジオ, 路上, 日本, 美術館, 強気, 様子, 魅力, 中, こと, スポット, 弁天町, チケット, もの
+cluster6:(4)
+サービス精神, 質, 頻度, 人数
+cluster7:(1)
+高さ
+cluster8:(9)
+建物, 建築, 施設建設, 施設, 冷房, ビル, 道路, 生活道路, 外観
+cluster9:(2)
+展示作品, 展示
+cluster10:(2)
+作品, 作品数
+cluster11:(2)
+美術品, 芸術家
+
+howmany entities : 66
+howmany clusters : 12
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 12
+deleted 0entities.

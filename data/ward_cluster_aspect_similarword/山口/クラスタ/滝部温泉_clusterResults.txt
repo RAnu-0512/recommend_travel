@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滝部温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+風呂, 泉質, 露天, 立ち寄り湯, 湯量, 効能, 肌, 日帰り入浴, お湯, 湯
+cluster1:(7)
+施設, 外観, 宿, 温泉, 列車, 宿泊, 建物
+cluster2:(2)
+穴場, 都会
+cluster3:(3)
+食事, 家族, 人
+cluster4:(2)
+帰り, 旅
+cluster5:(7)
+すべすべ, アルカリ性, 辺り, 場所, もみじ, 露天風呂, 川棚温泉
+cluster6:(1)
+休憩
+cluster7:(1)
+騒音
+cluster8:(1)
+ドライブついでに癒し
+cluster9:(1)
+徒歩圏
+cluster10:(8)
+滝部駅, アトピー皮膚炎, 硫黄温泉, 温泉地, 滝部温泉, 温泉施設, 角島大橋, 角島
+
+howmany entities : 43
+howmany clusters : 11
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 11
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋芳洞ふれあい広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+秋芳, 秋芳洞
+cluster1:(9)
+ふれあい広場, バスターミナル, 大理石, トイレ, 入口, 広場, 秋吉台, 機械, 途中
+cluster2:(4)
+土産店, 観光案内所, 展示館, 商店街
+cluster3:(1)
+大理石加工産業展示館
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

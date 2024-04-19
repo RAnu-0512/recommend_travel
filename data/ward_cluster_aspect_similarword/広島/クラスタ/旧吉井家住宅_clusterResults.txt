@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧吉井家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+建築, 中, 応え, 家, 建物, 母屋, 本陣, 付近, 見学, 屋敷, 情緒, 場所, 外観, 豪商, 商家, メイン
+cluster1:(2)
+江戸時代, 江戸時代の本陣
+cluster2:(3)
+保存地区, 竹原保存地区, 地区
+cluster3:(2)
+竹原格子, 格子
+cluster4:(3)
+吉井, 竹原駅, 竹原
+cluster5:(1)
+広島藩
+cluster6:(1)
+小京都・竹原
+cluster7:(1)
+棒瓦入母屋
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 8
+deleted 0entities.

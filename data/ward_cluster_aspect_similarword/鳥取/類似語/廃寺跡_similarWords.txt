@@ -1,0 +1,13 @@
+--------------------similar_words:廃寺跡--------------------
+top3 entities near to cluster0>>
+文化財, 廃仏毀釈, 本堂
+top3 entities near to cluster2>>
+跡地, 裏手, 跡
+top3 entities near to cluster3>>
+大山寺, 寺, 参道
+top3 entities near to cluster4>>
+石材, 墓石, 押軌
+top3 entities near to cluster5>>
+修験道, 僧兵, 修験
+top3 entities near to cluster6>>
+廃寺, 跡, 遺構

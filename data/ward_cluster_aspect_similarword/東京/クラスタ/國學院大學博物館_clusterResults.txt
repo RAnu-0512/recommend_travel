@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:國學院大學博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+土器, 郷土博物館, 山ノ神遺跡
+cluster1:(3)
+神学, 神饌, 神道
+cluster2:(12)
+学校, 同期, 模型, 人物, キャンパス群, 大学, 文化, 教育, 施設, 地下, 歴史, 資料
+cluster3:(2)
+日本, 小生
+cluster4:(10)
+勤め先, メイン, 国学院, ほとんど, 御朱印, 考古学, 博物館, ライティング, 大嘗祭, キャンパス
+cluster5:(3)
+見学, 予約, 電話
+cluster6:(2)
+説明版, 解説シート
+cluster7:(2)
+価値, 興味
+cluster8:(5)
+仕方, 方, こと, 注意, もの
+cluster9:(1)
+どころ文字
+cluster10:(2)
+学生対象, 身分
+cluster11:(3)
+学術メディアセンター棟, 学術メディアセンター, 縄文時代主体
+cluster12:(5)
+國大博物館, 大嘗宮, 渋谷キャンパス, 渋谷区, 皇典
+cluster13:(10)
+カメラ撮影, 特別展, 考古展示コーナー展示品, 企画展, 開館時間, 常設展示, 展示品, 写真撮影, 展示物, 展示
+
+howmany entities : 63
+howmany clusters : 14
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 14
+deleted 0entities.

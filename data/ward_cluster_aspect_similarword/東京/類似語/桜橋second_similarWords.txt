@@ -1,0 +1,7 @@
+--------------------similar_words:桜橋second--------------------
+top3 entities near to cluster0>>
+歩行者, 歩行, 専用
+top3 entities near to cluster1>>
+拡大, 縮小, 中止
+top3 entities near to cluster2>>
+風景, 景色, 遊歩道

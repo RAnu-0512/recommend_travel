@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:嵩山山頂展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展望テラス, 展望台
+cluster1:(16)
+山頂, テイクオフ, 景色, 勾配, 道, 禁止, 落ち葉, 大島, 山道, 側溝, そば, 絶景, SNS, 眺め, 星, 覚悟
+cluster2:(3)
+大型車, 先数, 車
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

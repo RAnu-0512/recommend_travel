@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Glassworks negy>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+やけど対策, 冷却
+cluster1:(8)
+意味, 受け取り, アドバイス, 子供, バーナー, エプロン, クーポン, 炎
+cluster2:(1)
+ガラス棒
+cluster3:(1)
+完成品
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

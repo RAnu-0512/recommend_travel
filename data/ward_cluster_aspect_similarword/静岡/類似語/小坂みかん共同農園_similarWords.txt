@@ -1,0 +1,13 @@
+--------------------similar_words:小坂みかん共同農園--------------------
+top3 entities near to cluster0>>
+みかん, ミカン, 果物
+top3 entities near to cluster2>>
+息子, 子供, 親子
+top3 entities near to cluster3>>
+予定, 覚悟, つもり
+top3 entities near to cluster5>>
+スーパー, タクシー, シーズン
+top3 entities near to cluster12>>
+丘, 坂, 斜面
+top3 entities near to cluster16>>
+体力

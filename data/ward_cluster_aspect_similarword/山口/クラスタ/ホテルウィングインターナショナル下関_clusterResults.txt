@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルウィングインターナショナル下関>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+消費, 利用手出し
+cluster1:(6)
+アブリ, ホテル, 体験, 店員, ポイント, 支払い
+cluster2:(1)
+弁当
+cluster3:(1)
+フグ
+cluster4:(1)
+じゃらんポイント
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

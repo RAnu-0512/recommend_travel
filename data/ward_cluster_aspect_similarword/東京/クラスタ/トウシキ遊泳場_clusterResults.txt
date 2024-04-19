@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トウシキ遊泳場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+人, 人気, 水, ところ, シュノーケリング, 多く
+cluster1:(4)
+海底, 岩, 海, 景色
+cluster2:(2)
+青み, 綺麗さ
+cluster3:(1)
+トウシキ遊泳場
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

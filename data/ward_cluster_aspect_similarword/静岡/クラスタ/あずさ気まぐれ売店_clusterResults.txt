@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あずさ気まぐれ売店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡県, 下田市
+cluster1:(2)
+春, 冬
+cluster2:(2)
+野菜, 小松菜
+cluster3:(1)
+魚
+cluster4:(1)
+地元
+cluster5:(1)
+フキ
+cluster6:(1)
+あずさ気まぐれ売店
+cluster7:(1)
+朝採り野菜
+
+howmany entities : 11
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 11entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大寧寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+色付き始め, 案内, 持参
+cluster1:(2)
+中, 周り
+cluster2:(4)
+前, 昔, 隣, 近く
+cluster3:(1)
+正面
+cluster4:(1)
+そば
+cluster5:(10)
+バイク, 十六羅漢, 車, 御朱印, 遊歩道, 地, 深川湯本, 雰囲気, タイミング, ライト
+cluster6:(8)
+こと, 由緒, 空気, 価値, 時期, 感じ, 趣, 歴史
+cluster7:(7)
+広場, 境内, 本堂, 敷地, 寺, 散策, 庭園
+cluster8:(8)
+橋, 川, 池, 緑, 木々, 桜, 大内, 林
+cluster9:(1)
+盤石橋
+cluster10:(6)
+紅葉時期, 満開時期, 紅葉, 観光バス, 家族連れ, 駐車場
+cluster11:(11)
+湯本温泉, 寺本堂, 豊川稲荷神社, 陶隆房, 豊川稲荷, 大寧寺, 大寧寺川, 大内義隆, 戦国大名, 長門市, 俵山温泉
+
+howmany entities : 62
+howmany clusters : 12
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 12
+deleted 0entities.

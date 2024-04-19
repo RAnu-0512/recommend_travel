@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一般社団法人 大田観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+蒲田駅, 大田区観光協会, 京急蒲田駅, 大田区
+cluster1:(15)
+おすすめ, pio, 散策, イベント, 人, 事務所ぽい感じ, 駅, 情報, 案内, パンフレット, 普通, 徒歩, 地図, 始め, 各種
+cluster2:(4)
+観光, 観光スポット, 地場産業, 観光協会
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

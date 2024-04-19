@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サンライフ焼津>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+内湯, 天然温泉, 温泉
+cluster1:(10)
+人, 露天風呂, ワンコイン, ナトリウム系, 客層, 塩気, 中心, 老人, 焼津, 地元
+cluster2:(1)
+満足感
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 1entities.

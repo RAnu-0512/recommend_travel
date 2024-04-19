@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日産レンタカー 品川駅港南口店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+バス, 車
+cluster1:(6)
+人, 作品, 新幹線, 場所, 別, グランドセントラルタワー
+cluster2:(1)
+注意
+cluster3:(3)
+駅, 東京駅, 品川
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

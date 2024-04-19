@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸内ゴルフリゾート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+レストラン, 端っこ
+cluster1:(1)
+気持ち
+cluster2:(1)
+車
+cluster3:(1)
+景色
+cluster4:(1)
+吉名
+cluster5:(1)
+海風
+cluster6:(1)
+海間近
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

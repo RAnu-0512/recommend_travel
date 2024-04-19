@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江戸川区郷土資料室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+郷土資料室, 郷土資料室企画展
+cluster1:(2)
+街歩き, 園内散策
+cluster2:(2)
+展, 散歩
+cluster3:(2)
+中央森林公園, 東小松川公園
+cluster4:(4)
+近く, 施設, 歴史, 地元
+cluster5:(1)
+始発
+cluster6:(1)
+博物
+cluster7:(3)
+江戸川区役所, 江戸川区, 亀戸駅
+cluster8:(2)
+広報誌, 常設展示
+cluster9:(1)
+都営バス
+cluster10:(1)
+東京23区
+cluster11:(1)
+小松川境川親水公園
+
+howmany entities : 22
+howmany clusters : 12
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 12
+deleted 0entities.

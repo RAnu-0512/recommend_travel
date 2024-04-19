@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:地福梨組合_なし>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+梨狩り, あたふた梨, 梨
+cluster1:(5)
+方, 家族, 受付, こと, 説明
+cluster2:(2)
+園内, 試食
+cluster3:(1)
+贈答
+cluster4:(1)
+梨園
+cluster5:(1)
+地福
+cluster6:(1)
+入園料
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

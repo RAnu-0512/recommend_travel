@@ -1,0 +1,11 @@
+--------------------similar_words:広島大学大学院理学研究科附属宮島自然植物実験所--------------------
+top3 entities near to cluster0>>
+施設, 設備, 敷地
+top3 entities near to cluster1>>
+実験, 研究, 実証
+top3 entities near to cluster2>>
+大学院, 大学, 学部
+top3 entities near to cluster3>>
+植物, 樹木, 動植物
+top3 entities near to cluster4>>
+研究, 理学, 附属

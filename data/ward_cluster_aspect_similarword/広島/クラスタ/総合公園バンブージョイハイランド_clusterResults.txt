@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:総合公園バンブージョイハイランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供連れ, 子供たち
+cluster1:(2)
+公園, 遊具
+cluster2:(3)
+季節, 桜, 弁当
+cluster3:(4)
+日, 名前, 時間, 場所
+cluster4:(8)
+子供, モチーフ, 体育館, アスレチック, 地元, 人, 大人, 子ども
+cluster5:(4)
+蚊, セミ, 竹, 竹原
+cluster6:(2)
+竹取物語, 芝滑り
+
+howmany entities : 25
+howmany clusters : 7
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 7
+deleted 0entities.

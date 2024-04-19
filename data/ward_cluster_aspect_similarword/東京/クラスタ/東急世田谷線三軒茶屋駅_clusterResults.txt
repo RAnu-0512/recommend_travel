@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急世田谷線三軒茶屋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+軌道線, 路線, 駅, 車両, 構内
+cluster1:(3)
+設備, 建屋, 外観
+cluster2:(6)
+キャロットタワー下, 人, 感じ, 地域, 中, 方
+cluster3:(12)
+センター, 田園都市線, カラーリング, 三軒茶屋, キャロットタワー, ホーム, ヨーロッパ, 世田谷線, フェス, 雰囲気, 乗り換え, お洒落
+cluster4:(2)
+幸福, 気分
+cluster5:(4)
+都電, 路面電車, 電車, 猫電車
+cluster6:(3)
+中心部, 煉瓦風, 北隣
+cluster7:(3)
+遊園地, 住宅街, 商業施設
+
+howmany entities : 38
+howmany clusters : 8
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 8
+deleted 0entities.

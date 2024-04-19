@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松田農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+練乳, イチゴ, 苺, ハウス, 西伊豆, 温室, ところ, いちご, 西伊豆いちご, ビニールハウス, 別売り, コンデンスミルク, クオリティー, オススメ, ザル
+cluster1:(4)
+章姫, 子供達, 娘, 子供
+cluster2:(2)
+席, 列
+cluster3:(2)
+所, 場所
+cluster4:(2)
+途中, 時間
+cluster5:(4)
+唯一, 人, 他, 方
+cluster6:(1)
+奥
+cluster7:(6)
+車, 客, 貸し切り状態, 予約, 味, 上着
+cluster8:(1)
+穴場
+cluster9:(1)
+オプション別売スタイル
+cluster10:(1)
+場所柄
+cluster11:(3)
+農園, 松田農園, 伊豆旅行
+cluster12:(2)
+取り放題, よつぼし
+cluster13:(5)
+堂ヶ島, いちご狩り, いちご狩り屋, イチゴ狩り, 苺狩り園
+
+howmany entities : 49
+howmany clusters : 14
+howmany entities (more than3entities) : 37
+howmany clusters (more than3entities) : 6
+deleted 12entities.

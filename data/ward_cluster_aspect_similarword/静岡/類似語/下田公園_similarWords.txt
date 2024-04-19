@@ -1,0 +1,25 @@
+--------------------similar_words:下田公園--------------------
+top3 entities near to cluster1>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster3>>
+坂, 鳥居, 坂道
+top3 entities near to cluster4>>
+公園, 広場, 園内
+top3 entities near to cluster5>>
+駅号, 徒歩, 駅
+top3 entities near to cluster6>>
+敵人, 敵, 人生
+top3 entities near to cluster7>>
+丘, 海, 高台
+top3 entities near to cluster8>>
+足腰, 足元, 足
+top3 entities near to cluster9>>
+あじさい, 紫陽花, アジサイ
+top3 entities near to cluster11>>
+祭り, まつり
+top3 entities near to cluster14>>
+景色, 風景, 眺め
+top3 entities near to cluster16>>
+散策, 名所, 周遊
+top3 entities near to cluster17>>
+記念碑, 記念, 石碑

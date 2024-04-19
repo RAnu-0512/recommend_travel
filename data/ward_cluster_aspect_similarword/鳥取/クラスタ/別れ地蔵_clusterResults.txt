@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:別れ地蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+別れ地蔵, 地蔵
+cluster1:(5)
+肥後, 義之助, 帰り道, 終わり頃, 大山寺
+cluster2:(1)
+分岐点
+cluster3:(1)
+頼朝坊
+cluster4:(1)
+江戸時代後期
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

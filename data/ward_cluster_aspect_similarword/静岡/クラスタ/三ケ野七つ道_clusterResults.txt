@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三ケ野七つ道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+昭和, 大正
+cluster1:(2)
+鎌倉, 江戸
+cluster2:(1)
+磐田駅
+cluster3:(13)
+車, 要衝, こと, 古道, 国道, 三ケ野, 石碑, 場所, あたり, 東海道線, 中継地, 道, 交通
+cluster4:(1)
+七ツ道
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 6entities.

@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八坂神社(東京都日野市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+経由, 駅, 日野宿, 徒歩, 八王子方面, 改札
+cluster1:(2)
+風情, 気分
+cluster2:(2)
+興味, 機会
+cluster3:(7)
+方, こと, 感じ, 人々, 多く, 人, もの
+cluster4:(4)
+前, 近く, 時間, 場所
+cluster5:(2)
+歴史, 時代
+cluster6:(1)
+距離
+cluster7:(1)
+所縁
+cluster8:(8)
+限定, 種類, 月替わり, 名, 次, 京都, 名前, 代表
+cluster9:(4)
+字, 町, 書き手さん, 隊員
+cluster10:(3)
+電話, 予約, 仕事
+cluster11:(2)
+御朱印, 御朱印ガイドブック
+cluster12:(3)
+月参り, 八坂神社, お参り
+cluster13:(3)
+雰囲気, だらけ, 気持ち
+cluster14:(1)
+祭り
+cluster15:(1)
+散歩
+cluster16:(1)
+木刀
+cluster17:(1)
+厳粛
+cluster18:(21)
+奉納額, 朱印, 普門寺, 甲州街道, 創建年代, お宮参り, 土方歳三, 境内, 日野駅, 剣術額, 神社, 牛頭天王社, 社務所, 日枝神社, 八幡神社, 大げさな神社, 近藤勇, 鳥居, 日野, 本殿, お社
+cluster19:(8)
+新選組, 天然理心流, 天然理心流奉納額, 新選組ゆかり, 新選組まつり, 新撰組, 新選組ファン, 新撰組関連の観光スポット
+
+howmany entities : 81
+howmany clusters : 20
+howmany entities (more than1entities) : 81
+howmany clusters (more than1entities) : 20
+deleted 0entities.

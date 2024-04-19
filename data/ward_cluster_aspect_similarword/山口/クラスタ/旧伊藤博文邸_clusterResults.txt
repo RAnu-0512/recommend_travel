@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧伊藤博文邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+総理大臣, 初代総理大臣
+cluster1:(2)
+初代内閣, 初代総理
+cluster2:(3)
+伊藤公資料館, 総理大臣伊藤博文, 伊藤博文
+cluster3:(12)
+建ルネサンス風, 西洋風, 邸宅, 古き時代, 西洋, 洋風建築, 西洋建築, 田舎, 日本家屋, 洋風, 洋館, 建物
+cluster4:(3)
+細部, 基本設計, 部屋数
+cluster5:(3)
+想い, 苦労, 先祖
+cluster6:(13)
+所, 多く, 最後, 人物, 公園, 迎賓館, 家, 場所, 日本, 有名人, 方, 歴史, 周辺
+cluster7:(1)
+偉人
+cluster8:(6)
+法要, 成長, 完成, 感じ映画, 感じ, 技巧
+cluster9:(4)
+記念館, VR体験, 資料, 館
+cluster10:(1)
+木造2階建て
+
+howmany entities : 50
+howmany clusters : 11
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 11
+deleted 0entities.

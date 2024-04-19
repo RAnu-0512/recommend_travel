@@ -1,0 +1,15 @@
+--------------------similar_words:弓ヶ浜公園--------------------
+top3 entities near to cluster1>>
+子供, 大人, 子ども
+top3 entities near to cluster2>>
+親, 子, 家の子
+top3 entities near to cluster3>>
+親戚, 親類, 親せき
+top3 entities near to cluster4>>
+子供, 子ども, 親達
+top3 entities near to cluster6>>
+家族連れ, 家族, つれ
+top3 entities near to cluster7>>
+公園, 遊具, 散歩
+top3 entities near to cluster8>>
+駐車場, 駐車, 施設

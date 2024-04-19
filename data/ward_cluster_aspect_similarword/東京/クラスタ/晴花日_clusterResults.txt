@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:晴花日>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+八丈富士トレッキング, 八丈富士, ひとは八丈富士
+cluster1:(5)
+散策, 解説, 案内, 世話, 説明
+cluster2:(6)
+余裕, 結果, 感じ, 事, こと, 経験
+cluster3:(3)
+沢山, 感謝, 見所
+cluster4:(10)
+途中, 趣味, 場所, 間, 話, 木, 近く, 念願, 予定, 時間
+cluster5:(1)
+ます.
+cluster6:(26)
+初心者, 強風, 出羽三山, 植物, 下山, 光, ピストン, テンション, おかげ, お薦め, 風除け, 八丈島, 絶景, スカート, ポットホール, 槍ヶ岳, 千両, 御利益, フリージア, ガイド, 三原山, ロープ, 登山, 頂上, 路, 階段
+cluster7:(9)
+昼ご飯, お鉢巡り, 晴花日, 蕎麦屋, 唐滝, 三原山縦走, 縦走, 天麩羅蕎麦, エコツアーコース
+
+howmany entities : 63
+howmany clusters : 8
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 8
+deleted 0entities.

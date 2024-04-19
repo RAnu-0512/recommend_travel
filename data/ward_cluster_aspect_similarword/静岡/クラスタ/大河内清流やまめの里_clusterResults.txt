@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大河内清流やまめの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+魚, 川魚, 山女魚
+cluster1:(2)
+釣堀, 竿
+cluster2:(4)
+釣り, 河釣り, 釣りたて, ヤマメ釣り
+cluster3:(2)
+ル-ト, スケジュ-ル
+cluster4:(11)
+敷地, 注意, 途中, 苦労, 感動, 場合, 準備, 記憶, 場所, 他, 方
+cluster5:(10)
+スタッフ, ナビゲーション, 初心者, ナント, 高校生, アイテム, オジサン, バーベキュー, 通行止め, コスパ
+cluster6:(4)
+イモリ, ニジマス, イワナ, 生け簀
+cluster7:(8)
+客, 家族, 大人, 女性, 人, 両親, 子供, 運転
+cluster8:(12)
+2山道, 水, 愛知, 門, 里, 皮, 山道, 池, 夏, 自然, 清流, 山
+cluster9:(10)
+子供達, 滞在時間, 家族連れ, 長期連休, 従業員, 私達, OPEN時間, 地, 入場料, 山間地
+
+howmany entities : 66
+howmany clusters : 10
+howmany entities (more than3entities) : 62
+howmany clusters (more than3entities) : 8
+deleted 4entities.

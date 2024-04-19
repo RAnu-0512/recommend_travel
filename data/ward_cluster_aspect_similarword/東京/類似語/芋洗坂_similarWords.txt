@@ -1,0 +1,13 @@
+--------------------similar_words:芋洗坂--------------------
+top3 entities near to cluster0>>
+洗, 芋, 濯っ
+top3 entities near to cluster1>>
+芋, 洗, 坂
+top3 entities near to cluster3>>
+神社, 仏閣, 稲荷
+top3 entities near to cluster6>>
+芋, さつま芋, さつまいも
+top3 entities near to cluster7>>
+問屋, 卸, 祭原
+top3 entities near to cluster8>>
+芸人, お笑い, 飲食

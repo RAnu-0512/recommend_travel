@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大藪区共同浴場 弁天の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+銭湯, 内湯, 風呂, 湯
+cluster1:(11)
+客, 贅沢, 地元, 漁港, 内風呂, 肌, 露天風呂, 中, 湯上り, 建物, 他
+cluster2:(1)
+直ぐ先
+cluster3:(7)
+土肥漁協, 湯船の湯, 源泉掛け流し, 入浴料, 日帰り温泉施設, 土肥温泉, 温泉施設
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 3
+deleted 1entities.

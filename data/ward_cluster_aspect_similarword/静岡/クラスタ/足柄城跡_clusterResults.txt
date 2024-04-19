@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足柄城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+元城郭, 土の城, 城, 空堀, 北条, 城址, 郭
+cluster1:(2)
+看板, 写真
+cluster2:(3)
+ポイント, ベンチ, 原っぱ
+cluster3:(2)
+足柄峠, 富士山
+cluster4:(3)
+意外, 形, 方
+cluster5:(3)
+快晴, 景色, 絶景
+cluster6:(1)
+駐車場
+cluster7:(5)
+足柄城址, 足柄峠=足柄城, 足柄山, 足柄城の二の郭, 足柄駅
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 5
+deleted 5entities.

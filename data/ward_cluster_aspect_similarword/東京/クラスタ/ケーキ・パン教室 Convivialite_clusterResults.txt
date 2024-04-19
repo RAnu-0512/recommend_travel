@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ケーキ・パン教室 Convivialite>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ぶどうパン, パン, パン作り, パン教室
+cluster1:(21)
+発酵, 初心者, 店, 階, ドラマ, プログラム, ⌒∇⌒, 他, 気, 種類, 仕方, 幼稚園児, 住宅街, 星, 中, 世界, 下, 先生, 友人, 高峰, クッキー
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 2
+deleted 0entities.

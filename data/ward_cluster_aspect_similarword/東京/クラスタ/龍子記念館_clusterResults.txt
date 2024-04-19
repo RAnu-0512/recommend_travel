@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍子記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+龍子記念館, 記念館
+cluster1:(2)
+川端, 川端龍子
+cluster2:(17)
+作品, 源義経, アトリエ, 絵, 場所, 維持, イケメン, 建物, 迫力, お気に入り, 見応え, 管理, 時間, こと, ジンギスカン, 地図, 理由
+cluster3:(5)
+西馬込駅, 駅, 便, バス, 交通
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 4
+deleted 0entities.

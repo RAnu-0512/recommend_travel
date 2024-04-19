@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本橋魚河岸記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+魚河岸記念碑, 日本橋魚河岸記念碑
+cluster1:(10)
+説明板, 反対側, 船着場, 高速道路, 観光案内所, 場所柄, 水上交通, 高架下手前, 説明書き, 道路
+cluster2:(2)
+乙姫広場, 乙姫
+cluster3:(6)
+河岸, 橋, 日本橋三越, 日本橋川, 日本橋駅, 袂
+cluster4:(2)
+震災, 移転
+cluster5:(2)
+日本橋魚河岸, 魚河岸
+cluster6:(2)
+日本橋, 江戸橋
+cluster7:(2)
+たもと, 名残り
+cluster8:(4)
+関東大震災, 記念碑, スポット, 塩干魚
+cluster9:(1)
+魚市場
+cluster10:(2)
+石碑, 像
+cluster11:(4)
+意味, 価値, 存在, こと
+cluster12:(3)
+前身, 歴史, 時代
+cluster13:(13)
+途中, 昔, 北側, 場所, 地, 人, 口コミ, 他, 話, 前, 日本, 方, 女性
+cluster14:(4)
+界隈, 広場, 海, 台所
+cluster15:(1)
+ずん
+cluster16:(8)
+魚売り, 築地, 江戸, 築地市場, 江戸時代, 魚市, 魚, 江戸っ子
+cluster17:(1)
+豊洲市場・築地市場
+
+howmany entities : 69
+howmany clusters : 18
+howmany entities (more than1entities) : 69
+howmany clusters (more than1entities) : 18
+deleted 0entities.

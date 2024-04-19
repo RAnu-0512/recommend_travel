@@ -1,0 +1,11 @@
+--------------------similar_words:ショップインバース秋葉原2号店--------------------
+top3 entities near to cluster0>>
+パーツ, 部品, パソコン
+top3 entities near to cluster1>>
+パソコン, ＰＣ, パソ
+top3 entities near to cluster3>>
+店舗, 店主
+top3 entities near to cluster4>>
+裏道, 路地, 抜け道
+top3 entities near to cluster5>>
+電気街, 電気, 繁華街, 繁華

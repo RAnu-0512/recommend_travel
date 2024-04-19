@@ -1,0 +1,9 @@
+--------------------similar_words:湯らぎの里--------------------
+top3 entities near to cluster0>>
+お湯, 湯, 風呂
+top3 entities near to cluster2>>
+常連, 店員, お客
+top3 entities near to cluster4>>
+マナー, 不具合, サービス
+top3 entities near to cluster6>>
+周り, 人達

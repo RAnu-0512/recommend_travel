@@ -1,0 +1,11 @@
+--------------------similar_words:若洲の風車--------------------
+top3 entities near to cluster1>>
+風車, 風力, 発電
+top3 entities near to cluster2>>
+駐車場, 駐車, 広場
+top3 entities near to cluster3>>
+存在感, 存在, 大きい
+top3 entities near to cluster4>>
+景色, 天気, 風景
+top3 entities near to cluster5>>
+子供, 遊具, 子ども

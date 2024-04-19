@@ -1,0 +1,13 @@
+--------------------similar_words:都営大江戸線 麻布十番駅--------------------
+top3 entities near to cluster0>>
+時間, 南北線, 駅
+top3 entities near to cluster1>>
+地下, 地上, 出口
+top3 entities near to cluster2>>
+都営, 都営地下鉄, 三田線
+top3 entities near to cluster3>>
+戦士, 美少女, 捜獣
+top3 entities near to cluster4>>
+蓋, 配布, 冊子
+top3 entities near to cluster5>>
+駅, 港, 区

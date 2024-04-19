@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:めぐろ歴史資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+目黒, 常設コーナー目黒, 目黒駅, 中目黒駅
+cluster1:(2)
+近現代, 縄文時代
+cluster2:(2)
+閉校, 廃校
+cluster3:(8)
+ノート, 文字数, 暮らし, 新型コロナ, 今回, 中目黒, 勉強, 予防
+cluster4:(10)
+校舎, 人たち, 遺跡, 場所, 学校, 建物, 文化, 施設, 徒歩, 歴史
+cluster5:(2)
+資料館, 歴史館
+cluster6:(2)
+資料室, 資料
+cluster7:(2)
+年表形式, 情報量
+cluster8:(10)
+カメラ撮影, 屋外展示, 入館, 屋内展示, 企画展, 常設展示コーナー, 展示数, 外展示, 入場料, 展示
+cluster9:(6)
+めぐろ歴史資料館, 区立資料館, 目黒区立第二中学校, 聖地巡礼街歩き, 歴史資料館, よめぐろ歴史資料館
+
+howmany entities : 48
+howmany clusters : 10
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 10
+deleted 0entities.

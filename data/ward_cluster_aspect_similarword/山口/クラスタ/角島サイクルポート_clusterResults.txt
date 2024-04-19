@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:角島サイクルポート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+角島, 角島サイクルポート, 角島サイクリング
+cluster1:(2)
+電動自転車, 電動アシストつき自転車
+cluster2:(2)
+景色, 観光
+cluster3:(7)
+自転車, 風, 値段, 人, サイクルポート, 気持ち, レンタサイクル
+cluster4:(1)
+近場
+cluster5:(1)
+しおかぜの里 角島
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

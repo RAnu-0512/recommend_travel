@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:風炎窯アクティブアーチ陶芸倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+陶芸経験, 陶芸体験, 陶芸
+cluster1:(3)
+体験, 失敗, 挑戦
+cluster2:(4)
+興味, 方, 気, こと
+cluster3:(21)
+手ほどき, 土, 先生, カメラ, おすすめスポット, 手, カフェタイム, 次, 喋り, 人当たり, 奥様手づくり, テラス, 写真, 初心者, ホットドッグ, 顔, オーナー, 時間, 言葉, 気持ち, 器
+cluster4:(1)
+加計
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 5
+deleted 0entities.

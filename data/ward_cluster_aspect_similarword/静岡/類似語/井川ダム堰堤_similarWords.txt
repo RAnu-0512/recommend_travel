@@ -1,0 +1,7 @@
+--------------------similar_words:井川ダム堰堤--------------------
+top3 entities near to cluster1>>
+景観, 景色, 風景
+top3 entities near to cluster2>>
+水系, ダム, 電力
+top3 entities near to cluster4>>
+大きい, 広い

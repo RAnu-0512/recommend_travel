@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士仏舎利塔平和公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+各国, 海外, 日本, 外国人, 中国, 外国, 無人販売
+cluster1:(3)
+仏像, 本堂, 寺
+cluster2:(4)
+園内, 広場, 公園, 入場
+cluster3:(3)
+客, 人, 子供
+cluster4:(2)
+街, 建物
+cluster5:(2)
+車, バス
+cluster6:(1)
+ごみ
+cluster7:(8)
+花, 丘, 桜, 弁当, 絶景, 花見, 坂, 天気
+cluster8:(6)
+餌, コロナ禍, 人懐こい鯉, 獅子, 鳩, 池
+cluster9:(26)
+^^), 事, タクシー, 時期, ホテル, 真面目, アウトレット, 方, 金木犀, 平和公園, 富士山, うね, 向き, 時間, サイド, 上, 風, チェックイン, スポット, 場所, 雰囲気, 富士見台, 前, 拝み方, 季節, 東アジア
+cluster10:(6)
+御殿場線, 熱海, 入口脇, 沼津経由, 御殿場駅, 御殿場市
+cluster11:(8)
+駐車場, 団体観光客, 観光バス, 白い仏舎利塔, 駐車場脇, 仏舎利塔, 観光客, 白い度仏舎利塔
+
+howmany entities : 76
+howmany clusters : 12
+howmany entities (more than3entities) : 71
+howmany clusters (more than3entities) : 9
+deleted 5entities.

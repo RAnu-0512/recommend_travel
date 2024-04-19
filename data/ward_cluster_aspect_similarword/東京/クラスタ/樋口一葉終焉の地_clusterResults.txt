@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:樋口一葉終焉の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+才能, 名作, たけくらべ, 滞在, 白山通り, 終焉, 地, 結核, 西, 灯
+cluster1:(2)
+解説板, 作家生活
+cluster2:(1)
+求道会館
+cluster3:(1)
+樋口一葉終焉
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

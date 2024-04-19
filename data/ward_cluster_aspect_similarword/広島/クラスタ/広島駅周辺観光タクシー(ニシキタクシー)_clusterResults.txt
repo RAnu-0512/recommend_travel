@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島駅周辺観光タクシー(ニシキタクシー)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島, 宮島
+cluster1:(4)
+観光タクシー, 旅館, 料金, 割引
+cluster2:(2)
+人柄, 無口
+cluster3:(2)
+ママ, 妊婦
+cluster4:(2)
+対応, 支援
+cluster5:(6)
+ニシキ, ドライバー, タクシー, カーナビ, 錦帯橋, 行き先
+cluster6:(2)
+話, 時間
+cluster7:(1)
+土地勘
+cluster8:(1)
+乗務員
+
+howmany entities : 22
+howmany clusters : 9
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 9
+deleted 0entities.

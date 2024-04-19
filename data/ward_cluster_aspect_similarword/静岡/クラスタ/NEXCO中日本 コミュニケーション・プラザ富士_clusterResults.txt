@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:NEXCO中日本 コミュニケーション・プラザ富士>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+見学, 施設, 工場
+cluster1:(2)
+映像, 技術
+cluster2:(5)
+関係, こと, スポット, 富士山, インターチェンジ
+cluster3:(1)
+窓
+cluster4:(1)
+年齢
+cluster5:(1)
+天気
+cluster6:(3)
+コミュニケーションプラザ富士, 東名, 高速道路
+cluster7:(1)
+NEXCO中日本 コミュニケーション・プラザ富士
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 3
+deleted 6entities.

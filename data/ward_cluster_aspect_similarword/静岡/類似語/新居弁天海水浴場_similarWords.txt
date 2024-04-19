@@ -1,0 +1,11 @@
+--------------------similar_words:新居弁天海水浴場--------------------
+top3 entities near to cluster0>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster1>>
+砂浜, 海岸, 海
+top3 entities near to cluster4>>
+家族
+top3 entities near to cluster5>>
+海水浴, 潮干狩り, プール
+top3 entities near to cluster7>>
+海水浴場, 海水浴, 公園

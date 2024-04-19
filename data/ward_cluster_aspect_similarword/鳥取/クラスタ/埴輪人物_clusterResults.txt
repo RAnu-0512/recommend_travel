@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:埴輪人物>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+家形埴輪, 人形象埴輪, 埴輪人物, 埴輪, 円筒埴輪, 人物埴輪, 形象埴輪, 器財埴輪
+cluster1:(4)
+武人像, 身, 鎧, 兜
+cluster2:(5)
+倉吉博物館, 倉吉市, 仲ノ町, 打吹公園, 鳥取県
+cluster3:(1)
+倉吉歴史民俗資料館
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

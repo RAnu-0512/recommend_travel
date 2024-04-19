@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長崎神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+歴史, ポツポツ, 神社, 感じ, 近く, 風情, 木製, 拝殿, 住宅街, 長崎神社
+cluster1:(2)
+西武池袋線, 椎名町駅
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

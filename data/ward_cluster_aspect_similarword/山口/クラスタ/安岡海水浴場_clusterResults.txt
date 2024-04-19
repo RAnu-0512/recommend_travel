@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安岡海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+下関市, 安岡
+cluster1:(2)
+海水浴客, 海水浴場
+cluster2:(5)
+砂浜, シーズン, 車, 人, 駅
+cluster3:(1)
+(o
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

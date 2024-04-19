@@ -1,0 +1,21 @@
+--------------------similar_words:恵美須ケ鼻造船所跡--------------------
+top3 entities near to cluster0>>
+造船, 鼻, 恵美
+top3 entities near to cluster1>>
+建物, 家屋, 土地
+top3 entities near to cluster2>>
+歴史, 技術, 伝統
+top3 entities near to cluster4>>
+興味, 関心, 興味津々
+top3 entities near to cluster5>>
+桟橋車, 桟橋
+top3 entities near to cluster6>>
+漁港, 漁協, 魚市場
+top3 entities near to cluster7>>
+遺構, 史跡, 発掘
+top3 entities near to cluster8>>
+遺産, 産業, 文化
+top3 entities near to cluster9>>
+遺産, 世界, アル・カラル
+top3 entities near to cluster10>>
+造船, 製鉄, 製鋼

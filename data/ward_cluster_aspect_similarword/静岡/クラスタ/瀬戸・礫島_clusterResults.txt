@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸・礫島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 遊覧船
+cluster1:(2)
+背後, 右
+cluster2:(3)
+猪鼻湖, 瀬戸橋, 入口
+cluster3:(1)
+高台
+cluster4:(1)
+瀬戸
+cluster5:(1)
+大崎半島
+cluster6:(1)
+東名高速浜名湖橋
+
+howmany entities : 11
+howmany clusters : 7
+howmany entities (more than3entities) : 3
+howmany clusters (more than3entities) : 1
+deleted 8entities.

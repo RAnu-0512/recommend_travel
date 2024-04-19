@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小川酒造>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国登録有形文化財, 鳥取県指定保護文化財
+cluster1:(5)
+小川酒造主屋, 松井酒造合, 小川住宅, 酒造業, 小川酒造
+cluster2:(12)
+建物, 旧家, 西側, 住居部分, 明治, 東側半分, 店舗部分, もの, 軒, 造形, 町家, 理由
+cluster3:(3)
+仕込蔵, 主屋, ふな場
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

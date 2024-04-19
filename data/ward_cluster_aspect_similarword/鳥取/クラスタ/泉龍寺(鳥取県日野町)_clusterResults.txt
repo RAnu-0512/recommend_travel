@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:泉龍寺(鳥取県日野町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+関一政, 泉龍寺
+cluster1:(19)
+指定, 日野町, 夕景文化財, 堂, こと, 書画, 戦利品, 不在, 本殿, 本堂, 遺品, 資料, 清潔感, 札所, 気持ち, 幕末, 寺, 口コミ, 曹洞宗
+cluster2:(1)
+伯耆三十三ヶ所観音霊場
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

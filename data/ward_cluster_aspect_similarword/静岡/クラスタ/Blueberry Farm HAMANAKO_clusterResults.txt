@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Blueberry Farm HAMANAKO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+摘み取り体験, 到着, 予約
+cluster1:(7)
+ブルーベリー, 種類, ネット, 木, ブルーム, 板, プラン
+cluster2:(5)
+ピザセット, ブルベリー, ピザ, ブルーベリー狩り, 栽培ハウス
+cluster3:(1)
+小粒中粒大粒
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 1entities.

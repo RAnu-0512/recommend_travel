@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿弥陀寺(広島県大崎上島町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大木, 東野
+cluster1:(14)
+文化財, 中, 花, 天井, 母, 車, 感じ, 雰囲気, 機会, 阿弥陀寺, 空気, 絵, ドライブ, 場所
+cluster2:(5)
+境内, 寺, 曹洞宗, 大崎上島町, 浄土宗阿弥陀寺
+cluster3:(1)
+地獄絵
+cluster4:(1)
+参禅者
+cluster5:(4)
+広島県, 金毘羅堂, 座禅堂, 豊田郡
+cluster6:(1)
+しまなみ海道
+cluster7:(1)
+金毘羅堂経机・五鈷鈴
+
+howmany entities : 29
+howmany clusters : 8
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 8
+deleted 0entities.

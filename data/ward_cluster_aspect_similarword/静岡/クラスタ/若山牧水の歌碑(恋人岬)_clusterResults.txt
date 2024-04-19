@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若山牧水の歌碑(恋人岬)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+富士見遊歩道, 西伊豆
+cluster1:(1)
+手前
+cluster2:(1)
+金
+cluster3:(1)
+鍾
+cluster4:(1)
+歌碑
+cluster5:(1)
+恋人岬
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 7entities.

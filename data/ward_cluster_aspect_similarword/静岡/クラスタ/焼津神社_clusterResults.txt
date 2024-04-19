@@ -1,0 +1,56 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:焼津神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+参集殿, 御守り
+cluster1:(4)
+本殿, 寺院, 神社, 境内
+cluster2:(2)
+神職, 参拝
+cluster3:(1)
+大祭
+cluster4:(1)
+御霊神社
+cluster5:(2)
+社務所, 駐車場
+cluster6:(3)
+さざれ石, 豆, 豆まき
+cluster7:(6)
+凛, 英, 森, 神, 美, 字
+cluster8:(2)
+身, 肌
+cluster9:(3)
+ヒグラシ, 見ごたえ, ヤキツ
+cluster10:(2)
+ヤマト, タケル
+cluster11:(1)
+火攻め
+cluster12:(1)
+静けさ
+cluster13:(3)
+御朱印, パワースポット, お守り
+cluster14:(1)
+釣り
+cluster15:(1)
+盆
+cluster16:(9)
+閑散, 途上, 駅, 大阪, 東京, 天候, 周辺, JR, 難
+cluster17:(1)
+東征
+cluster18:(5)
+想像, 事, 目的, 感じ, こと
+cluster19:(2)
+開催, 参り
+cluster20:(1)
+壮大さ
+cluster21:(17)
+人, 時間, 地元, 時期, 手, 歴史, 社, 人達, 方々, 声, 話, 人たち, 時代, 伝承, ヤマトタケル像, 土産売り場, 青春
+cluster22:(1)
+世界大戦
+cluster23:(9)
+焼津神社, JR 焼津駅, 焼津, 焼津天満宮, 焼津地域, 日本武尊, 反正天皇, 東海一の荒祭, 景行天皇
+
+howmany entities : 80
+howmany clusters : 24
+howmany entities (more than3entities) : 59
+howmany clusters (more than3entities) : 9
+deleted 21entities.

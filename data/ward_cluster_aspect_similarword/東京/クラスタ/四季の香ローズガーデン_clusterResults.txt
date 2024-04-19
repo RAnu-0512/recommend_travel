@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四季の香ローズガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+バラ, 薔薇
+cluster1:(16)
+家, 中, 外, 早期, 人気, 密, 早咲き, ゴールデンウィーク, 禁止, 日, 場所, 人出, ガーデニング, 園内, 姿, 時間
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

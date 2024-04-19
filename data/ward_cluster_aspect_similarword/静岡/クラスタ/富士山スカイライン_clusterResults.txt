@@ -1,0 +1,42 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山スカイライン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+富士山五合目, 五合目, 富士宮五合目, 御殿場口新五合目, 西臼塚駐車場
+cluster1:(2)
+標高, 気圧
+cluster2:(3)
+太陽, 空, 雲
+cluster3:(3)
+雨, 雪, 天気
+cluster4:(6)
+スカイライン経由富士山, 紅葉, 登山, 視界, 眺め, 景色
+cluster5:(2)
+目, 夏
+cluster6:(2)
+車, スバルライン
+cluster7:(4)
+富士宮, 富士山, 駿河湾, 伊豆半島
+cluster8:(13)
+スカイライン, ゲート, タクシー, スピード, 自家用車, コース, 気持ち, 中学校, ドライブ, ランニング, 修学旅行, ポテトチップス, カーブ
+cluster9:(7)
+袋, 富士, 高齢, 正月, 羽織, 鹿, 半袖
+cluster10:(10)
+何か, 側, 下, 現象, 上, 関係, 場所, 辺り, 人達, 仲間たち
+cluster11:(3)
+通行料金, 通行無料, 通行料
+cluster12:(2)
+静岡県, 国内最高地点
+cluster13:(2)
+駐車場, 周辺施設
+cluster14:(7)
+有料道路, 渋滞, 道路, シャトルバス, 有料, マイカー規制, 道
+cluster15:(2)
+舗装工事, 冬期閉鎖
+cluster16:(1)
+表富士周遊道路
+
+howmany entities : 74
+howmany clusters : 17
+howmany entities (more than3entities) : 61
+howmany clusters (more than3entities) : 10
+deleted 13entities.

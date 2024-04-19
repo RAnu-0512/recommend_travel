@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御岳ビジターセンター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+御岳ビジターセンター, 御嶽神社
+cluster1:(4)
+予備知識, 事前情報, 追加情報, 情報
+cluster2:(2)
+休憩所, 休憩
+cluster3:(6)
+区画, 入口, 西側, 付近, ロックガーデン方面, 御嶽山駅
+cluster4:(9)
+雨, スタッフ, ハイキングコース, 多少, 花, 山道, トイレ, 御岳山, トレッキング
+cluster5:(7)
+拠点, 場所, 質問, 事, トレッキング予定, 状況, 資料
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 6
+deleted 0entities.

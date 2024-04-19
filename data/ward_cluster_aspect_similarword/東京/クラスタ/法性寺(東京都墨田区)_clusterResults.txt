@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:法性寺(東京都墨田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+葛飾北斎, 葛飾北斎ゆかり, 葛飾北斎碑
+cluster1:(15)
+観光, 途中, おすすめ, ホテル, 訪問, 法性寺, 人, 気, 日蓮宗, 碑, 界隈, スカイツリー, 歴史, 雰囲気, パワー
+cluster2:(4)
+寺院, 寺, 寺院巡り, 境内
+cluster3:(10)
+妙見堂, 北斎, 浅草, 墨田区, 浅草橋&蔵, 近松門左衛門, 東京スカイツリー, 押上駅, 近松門左衛門碑, 東福寺の並びの小さなお寺
+
+howmany entities : 32
+howmany clusters : 4
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 4
+deleted 0entities.

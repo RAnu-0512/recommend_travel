@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サムライニンジャシアター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+迫力, 迫力満載
+cluster1:(8)
+アトラクション, ニンジャ, 子供, ショー, スポット, テクノ, サムライ, ロック
+cluster2:(3)
+舞, 巫女, 扇
+cluster3:(3)
+忍者, 侍, 殺陣
+cluster4:(1)
+剣舞
+cluster5:(4)
+広島市, 体感型エンターテイメント, 聴覚, 視覚
+cluster6:(1)
+外国人観光客
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,87 @@
+--------------------similar_words:MAZDA ZOOM-ZOOM スタジアム広島--------------------
+top3 entities near to cluster0>>
+雰囲気, 気持ち, 楽しい
+top3 entities near to cluster1>>
+スタジアム, 球場, 外野席
+top3 entities near to cluster2>>
+シート, 座布団, ビニール
+top3 entities near to cluster3>>
+コップ, カップ, マグカップ
+top3 entities near to cluster4>>
+ビール, 飲み物, つまみ
+top3 entities near to cluster5>>
+コロナ, アサヒ, スーパードライ
+top3 entities near to cluster6>>
+コンビニ, ライブ, 買い物
+top3 entities near to cluster7>>
+スタジアム, スタンド, グラウンド
+top3 entities near to cluster9>>
+道路沿い, 道路
+top3 entities near to cluster11>>
+缶, バッチガチャ, 空き缶
+top3 entities near to cluster12>>
+コップ, 新聞紙
+top3 entities near to cluster13>>
+フード, オーガニックフード, ドッグフード
+top3 entities near to cluster14>>
+フード, コート, アーミーコート
+top3 entities near to cluster15>>
+ノン, ユニ, カン
+top3 entities near to cluster16>>
+芝, 天然, 翫茶
+top3 entities near to cluster17>>
+飲食店, 飲食
+top3 entities near to cluster18>>
+気合, 気合い
+top3 entities near to cluster20>>
+時間数, 種類数, 時間, 種類
+top3 entities near to cluster21>>
+多量, 大量, 少量
+top3 entities near to cluster22>>
+間隔, 角度
+top3 entities near to cluster23>>
+内部, 出入り口
+top3 entities near to cluster24>>
+駅, 徒歩, 駅前
+top3 entities near to cluster25>>
+発祥地, 起源地, 発祥, 起源
+top3 entities near to cluster26>>
+近辺, 位置
+top3 entities near to cluster27>>
+立地, 至便, ローケーション
+top3 entities near to cluster28>>
+画面, 大, 超大
+top3 entities near to cluster29>>
+グッズ, 土産, 名物
+top3 entities near to cluster31>>
+駅, ビルアッセ, 駅前
+top3 entities near to cluster34>>
+原爆, ドーム, 被爆
+top3 entities near to cluster36>>
+球場, 臭い, 匂い
+top3 entities near to cluster37>>
+球場, スタジアム, 外野席
+top3 entities near to cluster38>>
+球団, 球場, 球界
+top3 entities near to cluster39>>
+外野, 内野, 一塁
+top3 entities near to cluster40>>
+野球, サッカー, 選手
+top3 entities near to cluster41>>
+席, 座席, 全席
+top3 entities near to cluster42>>
+応援, 声援, 激励
+top3 entities near to cluster43>>
+観戦, 試合, 中継
+top3 entities near to cluster44>>
+入場, 観客, 客席
+top3 entities near to cluster45>>
+選手, チームメイト, 投手
+top3 entities near to cluster46>>
+試合, 日, 開場
+top3 entities near to cluster47>>
+試合, 対戦
+top3 entities near to cluster48>>
+臨場感, 臨場, あふれる
+top3 entities near to cluster49>>
+熱中症, 対策, 熱中

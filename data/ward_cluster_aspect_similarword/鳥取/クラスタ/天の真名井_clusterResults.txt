@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天の真名井>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+手洗い場, 駐車場
+cluster1:(2)
+女性達, どこか
+cluster2:(2)
+家具, 小物
+cluster3:(2)
+気持ち, 口コミ
+cluster4:(2)
+トイレ, 手入れ
+cluster5:(2)
+前, 人
+cluster6:(1)
+ほう
+cluster7:(1)
+車
+cluster8:(1)
+評価
+cluster9:(1)
+水
+cluster10:(7)
+様子, 風景, 空間, 部屋, 気分, 季節, 場所
+cluster11:(10)
+トマトパフェ, 苺パフェ, 畑, 滝, 池, 食欲, パフェ, 名水, 食事, 蕎麦
+cluster12:(1)
+古民家カフェ
+cluster13:(3)
+JR淀江駅, 淀江町, 名水百選
+
+howmany entities : 37
+howmany clusters : 14
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 14
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円満寺(蕗の門)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+掛川駅, 掛川城
+cluster1:(10)
+別名蕗, 門, 浄土真宗, 阿弥陀如来, 大谷派, 東海道線, 円満寺, 風格, 本尊, もの
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

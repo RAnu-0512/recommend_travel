@@ -1,0 +1,17 @@
+--------------------similar_words:三段峡 黒淵渡舟--------------------
+top3 entities near to cluster0>>
+猿, 飛, 落君
+top3 entities near to cluster1>>
+渓谷, 景色, 渓流
+top3 entities near to cluster2>>
+航路
+top3 entities near to cluster4>>
+間先, 間, その間
+top3 entities near to cluster6>>
+奥, 手前, 奥深い
+top3 entities near to cluster7>>
+土水, 土
+top3 entities near to cluster9>>
+綱, 梵寿, 婁正
+top3 entities near to cluster10>>
+渡船, 駐車, 渡船場

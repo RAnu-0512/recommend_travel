@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高杉晋作墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高杉晋作の墓・像, 高杉晋作, 高杉晋
+cluster1:(24)
+作, 松下村, 中腹, 名所, 逸材, 幕末, 裏手, 遺言, 場所, 塾門下, 資料, 地, 興味, 菖蒲, 東行墓, 桜, 東行庵, 資料館, 梅, 花, 方, 銅像, 墓, 歴史
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 2
+deleted 0entities.

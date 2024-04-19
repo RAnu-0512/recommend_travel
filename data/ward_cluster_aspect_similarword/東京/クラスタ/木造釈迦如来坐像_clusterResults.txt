@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木造釈迦如来坐像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+名所, 光厳寺, 仏像, 寺, 東京都, ヤマザクラ, もの
+cluster1:(3)
+木造釈迦如来坐像, 木造釈迦如来座像, 指定有形文化財
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

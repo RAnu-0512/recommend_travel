@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下松スポーツ公園_しだれ桜・ポピー・コスモス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+確認, 皆さん方, こと, 範囲
+cluster1:(10)
+コース, アスレチック, オススメ, 色, 値段, 画像, 種類, コスモス, 友人, 花
+cluster2:(4)
+コスモス祭, 訪問, 公園, 散歩
+cluster3:(1)
+家族連れ
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

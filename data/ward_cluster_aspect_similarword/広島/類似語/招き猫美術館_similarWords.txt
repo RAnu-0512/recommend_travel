@@ -1,0 +1,23 @@
+--------------------similar_words:招き猫美術館--------------------
+top3 entities near to cluster0>>
+猫石, 砂石, 猫, 砂
+top3 entities near to cluster1>>
+猫, ネコ, ニャンコ
+top3 entities near to cluster2>>
+民家, 古, 家屋
+top3 entities near to cluster4>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster5>>
+坂, 神社, 細道
+top3 entities near to cluster10>>
+写真絵, 写真, 展示
+top3 entities near to cluster11>>
+美術館, 招き猫, ミュージアム
+top3 entities near to cluster12>>
+入り口, 入口, 施設
+top3 entities near to cluster13>>
+土産, 徒歩, おみやげ
+top3 entities near to cluster14>>
+撮影, 写真, 撮っ
+top3 entities near to cluster15>>
+入館料, 入場料, 入館, 入場

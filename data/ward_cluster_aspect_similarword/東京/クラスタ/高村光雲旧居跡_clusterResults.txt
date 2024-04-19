@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高村光雲旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+楠木公像, 西郷隆盛像
+cluster1:(4)
+彫刻家, 彫刻, 東京美術学校, 彫刻科
+cluster2:(3)
+上野, 皇居, 高村
+cluster3:(8)
+ロマン, 場所, 街中, 彼, 現住所, 完成, 看板, 記念碑
+cluster4:(1)
+代表作
+cluster5:(2)
+高村光雲, 江戸下谷
+cluster6:(1)
+千駄木5-20-6
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

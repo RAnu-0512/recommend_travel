@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイビング&トレッキングぴっころ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+多種類, 深さ, 伊東方面
+cluster1:(2)
+シュノーケリング初体験, 体験ダイビング
+cluster2:(5)
+事, こと, 場所, 世話, 想像
+cluster3:(4)
+ダイビング, 息子, 人, シュノーケリング
+cluster4:(2)
+沢山, 中
+cluster5:(1)
+世界
+cluster6:(1)
+プロ
+cluster7:(1)
+安全
+cluster8:(4)
+魚, 温泉, 海, 施設
+cluster9:(1)
+髪
+cluster10:(1)
+少人数
+
+howmany entities : 25
+howmany clusters : 11
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 4
+deleted 9entities.

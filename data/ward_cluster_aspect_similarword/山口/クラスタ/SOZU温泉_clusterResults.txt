@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SOZU温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+泉質, 温泉水, 温泉宿泊施設, 雙津峡温泉, 静かな温泉, 温泉
+cluster1:(2)
+客, 施設
+cluster2:(7)
+感じ, 中, 他, 気, 唐突, 雰囲気, 山
+cluster3:(2)
+貸切, 混雑
+cluster4:(1)
+老朽化
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

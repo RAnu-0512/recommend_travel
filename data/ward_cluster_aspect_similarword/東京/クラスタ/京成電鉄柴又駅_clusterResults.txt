@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京成電鉄柴又駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅, 参道, 途中駅
+cluster1:(4)
+単線, 路線, 電車, 車両
+cluster2:(2)
+銅像, 像
+cluster3:(16)
+妹さくら, 人, 短気, さくら, ホーム, 妹, 独特, 旅, 映画, こと, 金町線, 心情, 雰囲気, 京成電鉄, 帝釈天, 男
+cluster4:(2)
+懐, 寅
+cluster5:(3)
+昭和, 高砂, 下町
+cluster6:(1)
+寂しさ
+cluster7:(2)
+観光地, 参拝客
+cluster8:(2)
+商店街, 土産店
+cluster9:(1)
+京急線
+cluster10:(6)
+柴又駅, 金町, 葛飾柴又, ふーてんの寅さん, 金町駅, 柴又
+
+howmany entities : 42
+howmany clusters : 11
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 11
+deleted 0entities.

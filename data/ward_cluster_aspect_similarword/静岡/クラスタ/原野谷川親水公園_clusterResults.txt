@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:原野谷川親水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+最後, 雨, 間近, 心配, 何か, 花火大会, 花火, こと, テレビ, 全国, 避難場所, アンパンマン, 避難地, お花, 新作, 形, 後ろ, 対岸, 場所, 防災関係, テレビ中継, 打ち上げ花火
+cluster1:(2)
+ふくろい遠州の花火, 全国花火名人選抜競技大会
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 1
+deleted 2entities.

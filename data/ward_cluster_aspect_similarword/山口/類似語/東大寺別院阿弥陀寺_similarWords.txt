@@ -1,0 +1,15 @@
+--------------------similar_words:東大寺別院阿弥陀寺--------------------
+top3 entities near to cluster0>>
+時期, 季節, 時季
+top3 entities near to cluster1>>
+紅葉, 庭木, 紫陽花
+top3 entities near to cluster2>>
+景観, 自然, 景色
+top3 entities near to cluster3>>
+通路, 出入り口
+top3 entities near to cluster4>>
+敷地, 高台, 裏手
+top3 entities near to cluster5>>
+洗心, 洗, 濯っ
+top3 entities near to cluster6>>
+境内, 本堂, お寺

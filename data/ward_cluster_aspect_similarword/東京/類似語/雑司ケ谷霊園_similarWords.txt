@@ -1,0 +1,13 @@
+--------------------similar_words:雑司ケ谷霊園--------------------
+top3 entities near to cluster1>>
+霊園, 谷中, 斎場
+top3 entities near to cluster2>>
+墓地, 霊園
+top3 entities near to cluster3>>
+爵位, 位階, 官位
+top3 entities near to cluster5>>
+駅, 徒歩, 駅前
+top3 entities near to cluster6>>
+人々, 人達
+top3 entities near to cluster7>>
+漱石, 谷崎, 小泉

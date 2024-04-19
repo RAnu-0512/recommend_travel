@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:谷川浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+船から浜, 遊覧船
+cluster1:(2)
+天気, 気分
+cluster2:(4)
+最後, こと, 右側, 方
+cluster3:(10)
+アイス, 小学生, サザエ, 南伊豆, 家族, シュノーケル, 大人, 谷川浜, 熱帯魚, トイレ
+cluster4:(11)
+魚, 船, イカ, フグ, 仮設トイレ, 海上アスレチック, 浜, 足場, 海, 洞窟, 岩
+cluster5:(1)
+貸切状態
+
+howmany entities : 30
+howmany clusters : 6
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 3
+deleted 5entities.

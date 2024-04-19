@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神引展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展望台台, 展望台, 絶景展望台
+cluster1:(2)
+道, 階段
+cluster2:(4)
+富士山, 伊豆半島, 東京, 式根島
+cluster3:(4)
+場所, 周り, 時間, 中
+cluster4:(2)
+景色, 絶景スポット
+cluster5:(2)
+海, 船
+cluster6:(2)
+島, 島々
+cluster7:(1)
+民宿
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

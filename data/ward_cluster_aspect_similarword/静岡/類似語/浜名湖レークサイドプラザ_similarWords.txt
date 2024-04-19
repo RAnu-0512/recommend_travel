@@ -1,0 +1,35 @@
+--------------------similar_words:浜名湖レークサイドプラザ--------------------
+top3 entities near to cluster1>>
+ランチ, ランチタイム, ディナー
+top3 entities near to cluster3>>
+プール, フライ, うなぎ
+top3 entities near to cluster4>>
+気持ち, 無愛想, 親切
+top3 entities near to cluster5>>
+デザート, レストラン, バイキング
+top3 entities near to cluster6>>
+ホテル, 口コミ, サイト
+top3 entities near to cluster8>>
+限定, 期間, 日
+top3 entities near to cluster10>>
+利用, 対応, 返却
+top3 entities near to cluster11>>
+受付, 接客, レジ
+top3 entities near to cluster12>>
+食材, 料理
+top3 entities near to cluster14>>
+会場, 建物, 写真
+top3 entities near to cluster15>>
+入り口, 裏手, 入口
+top3 entities near to cluster19>>
+ほか, 種類, 数種類
+top3 entities near to cluster21>>
+食事, 夕食, 席
+top3 entities near to cluster22>>
+湯, 温泉, 露天風呂
+top3 entities near to cluster24>>
+泊り, 泊まり, 日帰り
+top3 entities near to cluster26>>
+温泉, 宿, 旅館
+top3 entities near to cluster28>>
+丼

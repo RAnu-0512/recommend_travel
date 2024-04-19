@@ -1,0 +1,19 @@
+--------------------similar_words:台東区立旧東京音楽学校奏楽堂--------------------
+top3 entities near to cluster0>>
+音楽, 洋式, 近代
+top3 entities near to cluster1>>
+音楽, 芸大, 芸術
+top3 entities near to cluster2>>
+建物, 洋館, 校舎
+top3 entities near to cluster4>>
+国内, ホール, ピアノ
+top3 entities near to cluster5>>
+内部, 非公開
+top3 entities near to cluster6>>
+目的地, 遊園地, 遊園, 目的
+top3 entities near to cluster7>>
+木曜, 火曜, 金曜
+top3 entities near to cluster8>>
+修復, 復元, 補修
+top3 entities near to cluster9>>
+展示, 出展, 入場

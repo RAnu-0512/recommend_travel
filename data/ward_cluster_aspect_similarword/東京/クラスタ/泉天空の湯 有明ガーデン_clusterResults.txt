@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:泉天空の湯 有明ガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ミストサウナ, 露天風呂, レストラン
+cluster1:(2)
+シャワー, ロッカー
+cluster2:(1)
+マイナス
+cluster3:(1)
+カフェ
+cluster4:(1)
+サウナ
+cluster5:(1)
+他
+cluster6:(3)
+感じ, 気分, 説明
+cluster7:(6)
+空間, 温泉, 間隔, 風呂, 部屋, 天井
+cluster8:(4)
+有明ガーデン, 東京駅, 天空, GO!
+cluster9:(12)
+受付店員, 館内着, 岩盤浴, 料金, 入館料, 部屋着, 入館, 駐車料金, 開放感, 温浴施設, 清潔感, 茶色い天然温泉
+
+howmany entities : 34
+howmany clusters : 10
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 10
+deleted 0entities.

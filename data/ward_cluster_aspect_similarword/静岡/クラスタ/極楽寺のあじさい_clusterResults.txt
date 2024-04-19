@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:極楽寺のあじさい>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+干支, 絵馬, あじさい寺, 境内, 寺
+cluster1:(6)
+時期, こと, 場所, 本数, 数, 方
+cluster2:(2)
+祖母, 高齢
+cluster3:(2)
+車, ナビ
+cluster4:(12)
+あじさい, 虫除けスプレー, 水まんじゅう, 肌, アジサイ, 散策, 緑, 階段, 極楽寺, 花, 紫陽花, 色
+cluster5:(2)
+駐車場, 食感
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 6entities.

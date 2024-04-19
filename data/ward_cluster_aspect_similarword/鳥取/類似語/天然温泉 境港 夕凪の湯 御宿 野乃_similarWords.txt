@@ -1,0 +1,11 @@
+--------------------similar_words:天然温泉 境港 夕凪の湯 御宿 野乃--------------------
+top3 entities near to cluster0>>
+館内, 足湯, 当館
+top3 entities near to cluster1>>
+備品, 部屋, 一角
+top3 entities near to cluster2>>
+良さ, 憎憎し, もの憂
+top3 entities near to cluster3>>
+妖怪, 魔物, 妖魔
+top3 entities near to cluster5>>
+乃, 宇身, 香る

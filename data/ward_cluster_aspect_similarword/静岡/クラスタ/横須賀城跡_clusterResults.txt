@@ -1,0 +1,48 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:横須賀城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時代, 江戸時代
+cluster1:(3)
+便, バス, 交通
+cluster2:(2)
+場所名, 場所
+cluster3:(3)
+跡地, 南側, 公園
+cluster4:(3)
+通路, 空間, 建物
+cluster5:(1)
+駐車スペース
+cluster6:(1)
+海側
+cluster7:(3)
+梅, 桜, 天神
+cluster8:(2)
+明治, 木
+cluster9:(1)
+丸石
+cluster10:(29)
+アクセス, 遠州灘, 他, 見ごたえ, 周り, 横須賀, こと, 入り口, 昼, 外, 普通, 光景, 両方, 写真, 人, 造り, 気持ち, 時間, 松尾山, 感じ, 様子, 読書, 後ろ, ふーん, 構図, 作り, チェック, 方, 価値
+cluster11:(2)
+観光客, 所要時間
+cluster12:(4)
+横須賀城跡, 城跡, 城址公園, 城址
+cluster13:(2)
+天守, 城郭
+cluster14:(2)
+本丸, 石垣
+cluster15:(3)
+城, 城下, 横須賀城
+cluster16:(1)
+両頭の城
+cluster17:(1)
+土塁
+cluster18:(1)
+街路樹
+cluster19:(7)
+静岡県, 大須賀康, 掛川駅, 掛川市, 遠江横須賀, 徳川家康, 好感.the・平城
+
+howmany entities : 73
+howmany clusters : 20
+howmany entities (more than3entities) : 55
+howmany clusters (more than3entities) : 8
+deleted 18entities.

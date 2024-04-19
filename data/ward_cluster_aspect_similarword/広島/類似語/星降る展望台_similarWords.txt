@@ -1,0 +1,17 @@
+--------------------similar_words:星降る展望台--------------------
+top3 entities near to cluster1>>
+明かり, 灯り, 明り
+top3 entities near to cluster2>>
+バイク, ツーリング, オートバイ
+top3 entities near to cluster3>>
+その道, 道筋
+top3 entities near to cluster4>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster5>>
+眼下, 眼前, 見下ろす
+top3 entities near to cluster6>>
+島々, 島嶼, 島
+top3 entities near to cluster7>>
+夜道, 暗がり, 帰り道
+top3 entities near to cluster8>>
+展望台, 展望, 瞻星台, 瞻星

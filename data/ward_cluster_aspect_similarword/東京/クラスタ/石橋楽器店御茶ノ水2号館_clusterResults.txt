@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石橋楽器店御茶ノ水2号館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+JR, 信号, 御茶ノ水駅, 御茶ノ水橋
+cluster1:(2)
+南, 方向
+cluster2:(3)
+左手, 奥, 口
+cluster3:(13)
+ホテル, 多く, 気, ところ, 近く, 大学, 学生, ギター, 方, 中, こと, 明治大学, キャンパス
+cluster4:(6)
+間口, 店, 店舗, 軒, 販売, 店員
+cluster5:(2)
+中古ギター, 中古屋
+cluster6:(2)
+石橋楽器, 石橋楽器店
+cluster7:(3)
+楽器, 楽器屋, 楽器店
+cluster8:(2)
+水楽器街, 楽器店街
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 9
+deleted 0entities.

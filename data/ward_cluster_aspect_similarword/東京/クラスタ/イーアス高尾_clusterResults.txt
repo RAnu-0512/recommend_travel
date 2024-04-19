@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:イーアス高尾>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+塩パン, パン, 焼き上がり
+cluster1:(4)
+雨, 休日, 印象, 時間
+cluster2:(14)
+名古屋, ブラックフライデー, ミルクチョコ, フードコート, ハートブレッド, 阿倍野, タイムセール, 小さ目, 買い物, 地元民, アンティーク, ファッション, 大阪, ショッピングセンター
+cluster3:(1)
+買い物帰り
+cluster4:(6)
+店, 店舗, 商品, 高尾駅, 駅, 目玉店舗
+cluster5:(1)
+駐車場
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 6
+deleted 0entities.

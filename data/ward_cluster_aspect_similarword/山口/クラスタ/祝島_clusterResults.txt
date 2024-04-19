@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:祝島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+柳井港, 山口県, 上関町
+cluster1:(4)
+猫, ハゲ, 親父, ギャング釣り
+cluster2:(6)
+周防灘, ハート, カワハギ, 思い出, 問題, アクセス
+cluster3:(3)
+島, 船, 海
+cluster4:(1)
+漁村
+cluster5:(3)
+離島, 祝島, 原発
+cluster6:(1)
+立地計画
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 7
+deleted 0entities.

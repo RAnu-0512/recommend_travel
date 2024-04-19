@@ -1,0 +1,7 @@
+--------------------similar_words:カルビー株式会社 広島工場--------------------
+top3 entities near to cluster0>>
+サックサク, サクサクッ, くさい
+top3 entities near to cluster1>>
+カルビー, 株式会社, （株）
+top3 entities near to cluster2>>
+製造, 生産, 販売

@@ -1,0 +1,17 @@
+--------------------similar_words:熊野町観光案内所「筆の駅」--------------------
+top3 entities near to cluster0>>
+案内, 名所, 宿泊
+top3 entities near to cluster1>>
+ギャラリー, パンフレット, ミュージアム
+top3 entities near to cluster2>>
+カフェ, コーヒー, 喫茶店
+top3 entities near to cluster3>>
+感じる, 思う, かんじ
+top3 entities near to cluster4>>
+ウッド, デッキ, デック
+top3 entities near to cluster6>>
+売店, キオスク, 土産物
+top3 entities near to cluster7>>
+気候, 季候, 気温
+top3 entities near to cluster8>>
+頭株, インターロン

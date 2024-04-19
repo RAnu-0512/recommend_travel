@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平和公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光客, 観光バス
+cluster1:(5)
+桜, 平和公園, 富士山, 門, 外国
+cluster2:(3)
+急坂, 勾配, 坂
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 2entities.

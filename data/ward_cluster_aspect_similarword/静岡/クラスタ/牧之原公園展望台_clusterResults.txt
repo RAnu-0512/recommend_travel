@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牧之原公園展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+茶畑, 虫, 高台, 眺め, 茶, 富士山, 駿河湾, 時間, 町, 子供たち, 景色, 木, 公園, 近く, ところ, 天気
+cluster1:(2)
+駐車場, 展望台
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 2entities.

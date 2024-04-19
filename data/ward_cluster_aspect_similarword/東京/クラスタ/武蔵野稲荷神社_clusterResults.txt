@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵野稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+武蔵野稲荷神社, 狐の神様稲荷神社, 武蔵野稲荷, 稲荷神社
+cluster1:(5)
+東京都, 豊島, 西武池袋線, 練馬区, 千川通り
+cluster2:(2)
+監視カメラ, リアルタイム監視
+cluster3:(8)
+建物, 駅, 歩道, 彫刻, 撮影, 徒歩, 敷地, 写真
+cluster4:(4)
+塚, 門, 旗, 目印
+cluster5:(2)
+落ち着き, 雰囲気
+cluster6:(4)
+桜並木, トンネル, スピーカー, アナウンス
+cluster7:(1)
+カメラ
+cluster8:(1)
+手入れ
+cluster9:(1)
+森林浴
+cluster10:(1)
+江古田
+cluster11:(4)
+気, 感じ, 中, 瞬間
+cluster12:(1)
+禁止
+cluster13:(8)
+季節, 春, 森, 緑, 時期, 朱色, 桜, 神
+cluster14:(8)
+神社, 拝殿, 鳥居, 山門, 商売繁盛, 参道奥, 住宅街, 参道
+
+howmany entities : 54
+howmany clusters : 15
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 15
+deleted 0entities.

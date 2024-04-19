@@ -1,0 +1,31 @@
+--------------------similar_words:鳥取砂丘パラグライダースクール(砂丘本舗)--------------------
+top3 entities near to cluster0>>
+小学生, 中学生, 小中学生
+top3 entities near to cluster1>>
+おかげ, 待ち時間, お陰
+top3 entities near to cluster2>>
+スタッフ, インストラクター, おもてなし
+top3 entities near to cluster3>>
+カップル, デートスポット, オススメスポット
+top3 entities near to cluster4>>
+フライト, スクール, スイミング
+top3 entities near to cluster5>>
+コース, フォレストコース, レイクコース
+top3 entities near to cluster6>>
+事務所, 弁護士, 税理士
+top3 entities near to cluster7>>
+気持ち, 気持, 風向き
+top3 entities near to cluster8>>
+ハング, グライダー, パラグライダー
+top3 entities near to cluster9>>
+子供, 子ども, 景色
+top3 entities near to cluster10>>
+会場地, 時間, 会場
+top3 entities near to cluster11>>
+体力, 気力, 筋力
+top3 entities near to cluster12>>
+不安, 緊張, 自信
+top3 entities near to cluster13>>
+機会, 価値, 意義
+top3 entities near to cluster14>>
+興味, 経験, 関心

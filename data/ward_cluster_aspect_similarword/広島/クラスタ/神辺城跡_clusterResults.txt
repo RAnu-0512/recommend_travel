@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神辺城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+本丸跡, 歴史民俗資料館, 本丸, 神辺昔, 城跡巡り, 二ノ丸跡, 神辺城跡地, 城跡めぐり, 神辺, 神辺駅
+cluster1:(2)
+広島県, 戦国時代
+cluster2:(4)
+山城, 城, 中世, 遺構
+cluster3:(2)
+眺め, 景色
+cluster4:(10)
+途中, ところ, 夫, 町並み, ひとつ, ≧∇≦, 目, 上, ハイキング, 気持ち
+cluster5:(6)
+車, 国, 位置, 土地, 町, 場所
+cluster6:(4)
+山頂, 広場, 正面, 山
+cluster7:(1)
+徒歩
+cluster8:(1)
+蚊
+cluster9:(1)
+駐車場
+cluster10:(1)
+───O
+
+howmany entities : 42
+howmany clusters : 11
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 11
+deleted 0entities.

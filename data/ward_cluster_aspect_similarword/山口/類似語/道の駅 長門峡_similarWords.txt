@@ -1,0 +1,9 @@
+--------------------similar_words:道の駅 長門峡--------------------
+top3 entities near to cluster0>>
+駅店, 駅, 名物
+top3 entities near to cluster1>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster3>>
+特産, 名産, 名所
+top3 entities near to cluster4>>
+和牛, 牛, 牛肉

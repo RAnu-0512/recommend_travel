@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:最誓寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伊東祐親の娘八重姫, 伊東祐親の娘・八重姫, 源頼朝の子・千鶴丸
+cluster1:(4)
+境内, 樹, 地, 寺
+cluster2:(2)
+悲劇, 象徴
+cluster3:(7)
+ソテツ, 父親, ロマンス, 天然記念物, 子, 源頼朝, 子供
+cluster4:(6)
+隣, 通り, 側, 舞台, 左側, 関係
+cluster5:(1)
+仲
+cluster6:(1)
+法事
+cluster7:(1)
+遊歩道沿い
+cluster8:(2)
+札所, 菩提
+cluster9:(7)
+八重姫, 千鶴丸, 伊東駅, 伊東, 伊豆, 平家, 松川
+cluster10:(6)
+音無神社, 伊東七福神巡りの一つ寿老人, 参拝客, 葛見神社, 最誓寺, 境内本堂
+
+howmany entities : 40
+howmany clusters : 11
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 6
+deleted 7entities.

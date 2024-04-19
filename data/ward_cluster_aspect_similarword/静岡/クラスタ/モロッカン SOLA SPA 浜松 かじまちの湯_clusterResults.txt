@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:モロッカン SOLA SPA 浜松 かじまちの湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+貴重品, 貴重品ロッカー
+cluster1:(10)
+人, 設備, 所, 感じ, 風呂, ロッカー, 鍵, ロッカー鍵, ロッカールーム, 中
+cluster2:(2)
+脱衣所, 宿泊施設
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 4entities.

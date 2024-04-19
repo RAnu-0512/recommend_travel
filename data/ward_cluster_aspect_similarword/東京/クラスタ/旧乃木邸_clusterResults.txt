@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧乃木邸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+乃木, 乃木神社, 乃木将軍, 乃木将軍自ら
+cluster1:(10)
+地上, 建物, 空間, 通路, 入口横, 地下, 邸宅, 和洋折衷建築, 敷地, 設計
+cluster2:(3)
+雨, 小雨, ガク紫陽花
+cluster3:(2)
+赤坂, 明治
+cluster4:(2)
+花, 庭
+cluster5:(2)
+家, 自宅
+cluster6:(2)
+部屋, 居間
+cluster7:(1)
+布団
+cluster8:(1)
+小屋
+cluster9:(15)
+紫陽花, フランス, 軍人, シンガーミシン, 隣, 人, 出自, 夫人, 馬小屋, 時期, 外, 中, 六本木, 乃木坂, 時代
+cluster10:(14)
+自決, 一般公開, 保存, 感じ, 一層趣, 事, 解説, 驚き, 公開, 写真, 券, こと, 優先, 展示
+cluster11:(2)
+乃木坂駅, 東京メトロ乃木坂駅
+cluster12:(2)
+大将, 陸軍大将
+cluster13:(4)
+馬, 馬名, 副馬, 主馬
+
+howmany entities : 64
+howmany clusters : 14
+howmany entities (more than1entities) : 64
+howmany clusters (more than1entities) : 14
+deleted 0entities.

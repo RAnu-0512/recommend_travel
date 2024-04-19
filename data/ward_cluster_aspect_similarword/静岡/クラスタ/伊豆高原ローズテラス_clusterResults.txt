@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆高原ローズテラス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+品物, 建物
+cluster1:(3)
+店全体, 店, 店内
+cluster2:(1)
+玄関
+cluster3:(5)
+ペット連れ, 土産, 旅行, 小物, 雑貨
+cluster4:(1)
+テラス席
+cluster5:(1)
+雑貨屋
+cluster6:(2)
+伊豆, 静岡一
+cluster7:(2)
+どこか, GW中
+cluster8:(14)
+主人, 所, 今回, もの, 女性, 手, 転換, 気持ち, 時間, 中, 足, 雰囲気, 気分, 方
+cluster9:(19)
+薔薇, カフェ, フレグランス, 手洗い, お気に入り, ローズ, ローズソフトクリーム, バラ, ジャム, 伊豆高原, 香り, 買い物, ソフトクリーム, テラス, 香, カシミヤストール, アイスクリーム, ローズテラス, ルームフレグランス
+
+howmany entities : 50
+howmany clusters : 10
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 4
+deleted 9entities.

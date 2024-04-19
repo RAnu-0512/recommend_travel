@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:済広寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+稲取駅, 稲取漁港, 静岡県指定天然記念物
+cluster1:(9)
+仏像, 佛鐘, かやの寺, 鐘, 境内, 堂, 寺, 仏教寺院, 末寺
+cluster2:(3)
+伊豆, 伊豆パワースポット, 東伊豆町
+cluster3:(2)
+世界, 日本
+cluster4:(5)
+かやの木, 御朱印, ビルマ, 臨済宗, ユニーク
+cluster5:(1)
+かや
+cluster6:(1)
+価値
+cluster7:(1)
+急行
+cluster8:(7)
+大樹, 実, 看板, 奥, 後ろ, 右手, 木
+cluster9:(1)
+樹齢
+
+howmany entities : 33
+howmany clusters : 10
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 6entities.

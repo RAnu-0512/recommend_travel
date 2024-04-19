@@ -1,0 +1,13 @@
+--------------------similar_words:瀬戸田パーキングエリア(上り線)--------------------
+top3 entities near to cluster1>>
+土産品, 特産品, 土産, 特産
+top3 entities near to cluster2>>
+休憩, 売店, 行列
+top3 entities near to cluster3>>
+海橋, 海, 景色
+top3 entities near to cluster4>>
+フード, レストラン, 食べ物
+top3 entities near to cluster5>>
+絶好, もってこい, 好機
+top3 entities near to cluster6>>
+美しい, 素晴らしい, 力強い

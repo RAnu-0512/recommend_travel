@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:似島(安芸小富士)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+似島, 広島市, 宇品旅客ターミナル, 宇品港
+cluster1:(19)
+北側, フェリー, 途中, 島内, あり島, 安芸小富士, 島, 方, 釣り人, タクシー, 富士, 名, 広島湾, 山, フェリー乗場, 富士山, 取り合わせ, クレーン, バス
+cluster2:(3)
+自然環境, 山容, 標高
+cluster3:(1)
+観光名所
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

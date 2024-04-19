@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:武蔵野総合体育館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+北口ロータリー, 武蔵野総合体育館, 三鷹駅, 武蔵野市
+cluster1:(2)
+市民カード, 市民
+cluster2:(2)
+体育館側, 客席
+cluster3:(6)
+ランニングマシーン, JFL, トラック, グランド, サッカー, 勝手
+cluster4:(2)
+試合, 展開
+cluster5:(1)
+道
+cluster6:(2)
+卓球台, 試合観戦
+cluster7:(1)
+陸上競技場
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

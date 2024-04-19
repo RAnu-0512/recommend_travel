@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木の花の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+炭酸, 炭酸風呂
+cluster1:(10)
+気, ラウンド, スペース, 人, 富士山, 感じ, 近く, 効果, 子供, 男の子
+cluster2:(2)
+質, 客層
+cluster3:(5)
+温泉, ゴルフ場, スーパー銭湯, GW中, 施設
+cluster4:(1)
+立ち湯
+cluster5:(1)
+価格帯
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 6entities.

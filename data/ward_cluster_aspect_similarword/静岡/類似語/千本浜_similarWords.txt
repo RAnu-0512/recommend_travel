@@ -1,0 +1,21 @@
+--------------------similar_words:千本浜--------------------
+top3 entities near to cluster0>>
+海, 海岸, 砂浜
+top3 entities near to cluster1>>
+時刻, 間隔, 定刻
+top3 entities near to cluster3>>
+遊歩道, サイクリング, 景色
+top3 entities near to cluster6>>
+地元, 現地, 周辺
+top3 entities near to cluster10>>
+バス車, バス, ゴミ
+top3 entities near to cluster11>>
+駐車場, 駐車, 展望
+top3 entities near to cluster14>>
+道路, 歩道, 堤防
+top3 entities near to cluster15>>
+釣果, 釣れ
+top3 entities near to cluster18>>
+景色, 絶景, 景観
+top3 entities near to cluster19>>
+海岸沿い, 海岸, 漂着

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:歴史と文学の館志麻利>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歴史, 資料
+cluster1:(1)
+文学
+cluster2:(1)
+雨
+cluster3:(1)
+興味
+cluster4:(1)
+資料館
+cluster5:(1)
+文芸誌
+cluster6:(1)
+館志麻利
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

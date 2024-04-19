@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆山神社のなぎの木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+伊豆山神社, 参拝, 神社, 本殿
+cluster1:(2)
+雌木, 木
+cluster2:(3)
+ホテル, 雰囲気, オススメ
+cluster3:(2)
+縁結び, お守り
+cluster4:(1)
+人
+cluster5:(1)
+近く
+cluster6:(1)
+車
+cluster7:(1)
+価値
+cluster8:(1)
+ナギ
+cluster9:(7)
+枝, 木々, 小鳥達, 景色, 苗木, 葉, 大木
+
+howmany entities : 23
+howmany clusters : 10
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 9entities.

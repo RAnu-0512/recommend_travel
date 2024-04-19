@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営三田線 白山駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+白山神社, 駒込エリア白山駅, 白山, 文京区
+cluster1:(8)
+駅, 観光ガイドマップ, 八百屋, 見学, 見学散策, ギャラリートーク, 水木しげる, 散策スタート
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

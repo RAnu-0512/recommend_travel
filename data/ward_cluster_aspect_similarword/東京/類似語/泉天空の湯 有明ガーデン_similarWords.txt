@@ -1,0 +1,17 @@
+--------------------similar_words:泉天空の湯 有明ガーデン--------------------
+top3 entities near to cluster0>>
+露天風呂, ミストサウナ, ジャグジーバス
+top3 entities near to cluster1>>
+シャワー, ロッカー, シャワールーム
+top3 entities near to cluster2>>
+マイナス, プラス, ネガティブ
+top3 entities near to cluster3>>
+カフェ, 喫茶店, 喫茶
+top3 entities near to cluster4>>
+サウナ, メイクアップフォト, アウフグース
+top3 entities near to cluster7>>
+部屋, 風呂, 天井
+top3 entities near to cluster8>>
+有明, 天空, 駅前
+top3 entities near to cluster9>>
+入館, 館内, 料金

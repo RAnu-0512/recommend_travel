@@ -1,0 +1,13 @@
+--------------------similar_words:上村農園--------------------
+top3 entities near to cluster0>>
+制限, 時間, 制約
+top3 entities near to cluster3>>
+予約, 受付, 時間
+top3 entities near to cluster8>>
+イチゴ, ハウス, チョコ
+top3 entities near to cluster12>>
+子供, 孫, 子ども
+top3 entities near to cluster13>>
+荷物車, 荷物, 土産
+top3 entities near to cluster14>>
+イチゴ, 苺, いちご

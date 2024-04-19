@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩城下町夏みかんのかおり>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+地元, 時代
+cluster1:(5)
+夏みかん, 連休明け, ミカン, 花, みかん
+cluster2:(6)
+香り, 白壁, 町, 景観, 民家, 平安古地区
+cluster3:(1)
+鍵曲
+cluster4:(3)
+萩の城下町, 萩, 堀内地区
+cluster5:(1)
+柑橘系
+cluster6:(1)
+長州藩
+cluster7:(1)
+臨場感
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

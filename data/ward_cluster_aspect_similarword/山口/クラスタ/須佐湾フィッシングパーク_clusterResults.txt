@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:須佐湾フィッシングパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+状態, 須佐湾フィッシングパーク, 須佐湾, オススメ, 釣り堀, ファミリー
+cluster1:(3)
+天然, 海水, 魚
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

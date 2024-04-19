@@ -1,0 +1,15 @@
+--------------------similar_words:岩倉具視墓--------------------
+top3 entities near to cluster0>>
+お参り, 墓参り, 御参り
+top3 entities near to cluster1>>
+一帯, 入口, 入り口
+top3 entities near to cluster2>>
+一般外, 一般, 男性
+top3 entities near to cluster4>>
+空気, よめよ, 大気
+top3 entities near to cluster5>>
+本堂, 寺, 柵
+top3 entities near to cluster6>>
+墓地, 墓所
+top3 entities near to cluster8>>
+横丁, 青物, 駅

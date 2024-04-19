@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平和の門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大切さ, 高さ, 尊さ
+cluster1:(2)
+家族連れ, 反対側
+cluster2:(10)
+もの, 希望, 通り, 幅, 願い, 方, 祈り, 方々, 目的, こと
+cluster3:(18)
+昼, 中, 門, 別, 世界, 建物, 車, 国, 目, 写真, 各国, 家族, 地獄, 近く, 未来, 場所, 一角, 公園
+cluster4:(3)
+文字, 言葉, 言語
+cluster5:(2)
+パブリックアート, アート
+cluster6:(11)
+モニュメント, 平和公園, ことば, スポット, デザイン, オススメ, フランス, ライトアップ, インパクト, メッセージ, 平和通り
+cluster7:(3)
+アーチ, ガラス, ライト
+cluster8:(2)
+制作, 造り
+cluster9:(4)
+広島, 被爆, 強化ガラス, 観光スポット
+cluster10:(1)
+モニュメント.10
+cluster11:(8)
+平和の門, 平和大通り沿い, 平和大通り, 平和記念公園, 世界平和, 平和記念資料館, 平和祈念公園, 平和
+
+howmany entities : 67
+howmany clusters : 12
+howmany entities (more than1entities) : 67
+howmany clusters (more than1entities) : 12
+deleted 0entities.

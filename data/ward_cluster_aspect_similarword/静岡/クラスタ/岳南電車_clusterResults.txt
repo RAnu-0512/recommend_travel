@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岳南電車>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+岳南電車, 岳南七尾駅, 岳南鉄道
+cluster1:(2)
+迫力, 距離
+cluster2:(2)
+散歩, 旅
+cluster3:(2)
+販売, 商品
+cluster4:(2)
+地元, 間
+cluster5:(2)
+こと, 方
+cluster6:(6)
+始発駅, 富士山, 触れ込み, スポット, イメージ, 触れ合い
+cluster7:(1)
+客
+cluster8:(12)
+車両, 夜景電車, 電車, ローカル電車, 車内灯, 夜景, 駅弁, 沿線, 住宅, 工場, 路線, 途中工場
+cluster9:(14)
+路線周辺案内図, 硬券, 全駅, 乗車券, 団体旅行客, 乗車旅, 駅, 終点駅, 吉原駅, 自動券売機, 本吉原駅, 乗車数, 乗車, 比奈駅
+
+howmany entities : 46
+howmany clusters : 10
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 4
+deleted 11entities.

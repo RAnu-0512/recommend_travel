@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホタルまつりin伊豆の国(伊豆長岡温泉 反射炉会場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+こと, 程度, 数, 評判
+cluster1:(4)
+観賞, 光, ホタル, 伊豆長岡
+cluster2:(1)
+小川
+cluster3:(1)
+韮山
+cluster4:(1)
+温泉 反射炉
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 3entities.

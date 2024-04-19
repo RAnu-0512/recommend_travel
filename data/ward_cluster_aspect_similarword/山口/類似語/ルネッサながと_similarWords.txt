@@ -1,0 +1,13 @@
+--------------------similar_words:ルネッサながと--------------------
+top3 entities near to cluster0>>
+劇場, 設備, 施設
+top3 entities near to cluster1>>
+公園, 遊具, 体育館
+top3 entities near to cluster2>>
+学年, 年生, 高学年
+top3 entities near to cluster3>>
+落差, 高低, ギャップ
+top3 entities near to cluster5>>
+駐車場, 施設, 駐車
+top3 entities near to cluster7>>
+県民, 芸術, 文化

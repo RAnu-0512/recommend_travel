@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉川元春館跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+吉川元春, 吉川
+cluster1:(2)
+館, 跡地
+cluster2:(2)
+設備, 整備
+cluster3:(15)
+子供, 雨, もの, 台所, 北, 陣羽織, 生活, 辺り, かめ, 甲冑, 息吹き, 人, 事, 小学生, 食べ物
+cluster4:(2)
+元就, 北広島町
+cluster5:(1)
+中心部
+cluster6:(1)
+広さ
+cluster7:(1)
+居館跡
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 8
+deleted 0entities.

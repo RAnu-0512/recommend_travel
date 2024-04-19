@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ザ・フォレストカントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+祝日ハーフプラン, 祝日
+cluster1:(6)
+値段, 入り口, コンペ, ハーフプラン, 感じ, コース
+cluster2:(2)
+薄暮プラン, 特典プラン
+cluster3:(1)
+台風予報
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 1
+deleted 5entities.

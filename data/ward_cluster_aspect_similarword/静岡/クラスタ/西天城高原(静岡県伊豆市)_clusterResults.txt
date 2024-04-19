@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西天城高原(静岡県伊豆市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+天城高原, 高原, 戸田峠
+cluster1:(5)
+標高, 名所, 国道, 防寒, 道
+cluster2:(2)
+牧場, 牛
+cluster3:(3)
+視界, 霧, 風
+cluster4:(8)
+注意, 地域, 恐怖, 家, そば, 近く, 場所, 他
+cluster5:(11)
+アクセス, 西伊豆, メニュー, カレー, 眺め, ところ, 富士山, 駿河湾, 宇久須, ソフトクリーム, 山
+cluster6:(2)
+達成感, 緑地帯
+
+howmany entities : 34
+howmany clusters : 7
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 5
+deleted 4entities.

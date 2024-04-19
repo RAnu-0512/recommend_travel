@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 にちなん 日野川の郷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+木材, 建物
+cluster1:(5)
+ショップ, 道, トマト, レストラン, 気持ち
+cluster2:(1)
+名産
+cluster3:(2)
+愛想, トイレ休憩
+cluster4:(1)
+産直市場
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

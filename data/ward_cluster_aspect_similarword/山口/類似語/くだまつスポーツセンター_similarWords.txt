@@ -1,0 +1,19 @@
+--------------------similar_words:くだまつスポーツセンター--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster1>>
+卓球, バドミントン, テニス
+top3 entities near to cluster2>>
+ボウリング, ボーリング, スポーツ
+top3 entities near to cluster4>>
+子ども, 子供, こども
+top3 entities near to cluster5>>
+ゴルフ, ゴルファー, パター
+top3 entities near to cluster6>>
+ゲーム, コーナー, ミニゲーム
+top3 entities near to cluster7>>
+レーン, アナブラニー, グラープフェルト
+top3 entities near to cluster9>>
+テニス, コート, バドミントン
+top3 entities near to cluster10>>
+行事, くだ

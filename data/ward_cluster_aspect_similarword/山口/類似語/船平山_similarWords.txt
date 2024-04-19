@@ -1,0 +1,9 @@
+--------------------similar_words:船平山--------------------
+top3 entities near to cluster0>>
+山頂, 木々, 山
+top3 entities near to cluster1>>
+列車, 車両
+top3 entities near to cluster2>>
+撮影, 写真, 撮る
+top3 entities near to cluster3>>
+視界, 視認, 視程

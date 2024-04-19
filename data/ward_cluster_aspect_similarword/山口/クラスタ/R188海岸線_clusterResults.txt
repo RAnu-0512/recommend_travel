@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:R188海岸線>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+車, 国道, 信号, 電車
+cluster1:(2)
+ところ, ドライブ
+cluster2:(3)
+大畠瀬戸, 瀬戸内, 瀬戸内海
+cluster3:(1)
+もの
+cluster4:(3)
+前, 途中, 目
+cluster5:(1)
+夕日
+cluster6:(1)
+大島
+cluster7:(1)
+夕方西
+cluster8:(1)
+離島
+cluster9:(3)
+海岸ぎりぎり, 大畠町, 海岸線
+cluster10:(1)
+うずしお
+
+howmany entities : 21
+howmany clusters : 11
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 11
+deleted 0entities.

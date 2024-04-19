@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ひこっとらんどマリンビーチ(西山海水浴場)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海水浴場, 駐車場
+cluster1:(2)
+海水浴, ビーチ
+cluster2:(3)
+ビーチバレー, アクセス, トイレ
+cluster3:(4)
+多く, 夏, 時期, 人
+cluster4:(5)
+砂浜, キス, 道路, 海, 散歩
+cluster5:(1)
+海水浴客
+cluster6:(1)
+下関
+cluster7:(1)
+中心部
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

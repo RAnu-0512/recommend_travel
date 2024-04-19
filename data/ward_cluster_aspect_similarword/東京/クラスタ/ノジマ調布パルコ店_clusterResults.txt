@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ノジマ調布パルコ店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+セール, パルコ, 買い物, イメージ, ビックカメラ, 隣
+cluster1:(2)
+店舗, 値段
+cluster2:(1)
+本屋
+cluster3:(2)
+小ささ, 品揃え
+cluster4:(1)
+大型量販店舗
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

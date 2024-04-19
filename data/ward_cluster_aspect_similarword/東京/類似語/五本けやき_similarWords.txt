@@ -1,0 +1,7 @@
+--------------------similar_words:五本けやき--------------------
+top3 entities near to cluster0>>
+景観, 景色, 道路
+top3 entities near to cluster1>>
+都会, 木, 木々
+top3 entities near to cluster2>>
+復興, 事業, 再建

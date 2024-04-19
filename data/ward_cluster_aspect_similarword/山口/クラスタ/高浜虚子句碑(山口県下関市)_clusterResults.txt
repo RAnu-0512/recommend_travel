@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高浜虚子句碑(山口県下関市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+句碑, 句
+cluster1:(5)
+他, 囲い, 墓所, 看板, 境内
+cluster2:(1)
+平家一門
+cluster3:(1)
+高浜虚子句碑
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

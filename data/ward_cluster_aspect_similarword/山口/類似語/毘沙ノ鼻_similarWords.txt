@@ -1,0 +1,15 @@
+--------------------similar_words:毘沙ノ鼻--------------------
+top3 entities near to cluster1>>
+海, 海原, 冬
+top3 entities near to cluster2>>
+灯台, 岬, 燈台
+top3 entities near to cluster4>>
+端, 先端, 両端
+top3 entities near to cluster5>>
+鼻, ブタッ, 鼻先
+top3 entities near to cluster6>>
+巣, 蜘蛛, こい
+top3 entities near to cluster8>>
+景色, 絶景, 眺め
+top3 entities near to cluster9>>
+小雨, 県道, 国道

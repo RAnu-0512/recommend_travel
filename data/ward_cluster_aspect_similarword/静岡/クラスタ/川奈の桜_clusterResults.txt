@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川奈の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+川奈口, 川奈駅, 川奈寄り, 川奈
+cluster1:(4)
+伊東, 河津, 伊東魚市場, 河津桜
+cluster2:(5)
+春, 時期, 満開, 桜, 季節
+cluster3:(7)
+ライン, 交差点, 途中, 方, 桜並木, 種類, 伊豆高原
+cluster4:(2)
+北, 風
+cluster5:(2)
+斜面, 坂
+cluster6:(1)
+小田原方面
+cluster7:(7)
+海岸, 国道, 渋滞, 道路, 殿山交差点, 海岸線, 道路下
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than3entities) : 27
+howmany clusters (more than3entities) : 5
+deleted 5entities.

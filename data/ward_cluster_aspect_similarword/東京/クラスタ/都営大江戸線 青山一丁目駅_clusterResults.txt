@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営大江戸線 青山一丁目駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+銀座線, 江戸線
+cluster1:(6)
+駅, 球場, こと, 半蔵門線, 乗り換え, ホーム
+cluster2:(2)
+外苑, 明治神宮球場
+cluster3:(1)
+青山一丁目駅
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

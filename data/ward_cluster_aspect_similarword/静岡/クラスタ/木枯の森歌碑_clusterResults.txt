@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木枯の森歌碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ケ谷橋, 最下流牧
+cluster1:(13)
+森, 藁科川, 川, 森歌碑, 付近, バーベキュー, 山頂, 中州, 安倍川, 木枯, 光景, 歌碑, 上
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

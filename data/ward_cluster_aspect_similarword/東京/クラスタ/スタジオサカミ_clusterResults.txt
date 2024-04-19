@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スタジオサカミ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ケガ, 右手人差し指
+cluster1:(6)
+作品, 仕上がりも, 話, 形, 時間, もの
+cluster2:(3)
+理想, 上, 世界
+cluster3:(2)
+覚悟, 体験
+cluster4:(1)
+工程
+cluster5:(22)
+枠, 上がり, ネックレス, ミルフィオリ, ガラス, 娘, 仕上がり, ひとつ, 子供, ペンダント, イタリア, オリジナル, コーデ, ペンダントトップ, オープンハート, しずく型, 時計, デザイン, くすみカラー, 先生, イヤリング, 色
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛飾区観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+柴又の寅さん記念館, 寅さん記念館
+cluster1:(2)
+葛飾区観光協会, 葛飾区
+cluster2:(2)
+柴又観光, 柴又
+cluster3:(2)
+観光, 観光協会
+cluster4:(8)
+他, 店, 見どころ, 寅, 近く, 帝釈天, イメージ, ガイドマップ
+
+howmany entities : 16
+howmany clusters : 5
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クアハウス石橋旅館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+横柄さ, 清潔さ
+cluster1:(2)
+かけら, 終了時間
+cluster2:(7)
+客, 接客, 宿, 旅先, 食事, 風呂, 日帰り温泉
+cluster3:(5)
+光景, 感じ, 気分, 信じ, 思い
+cluster4:(2)
+入口, 奥
+cluster5:(2)
+主体, 対応
+cluster6:(2)
+歳, 母
+cluster7:(2)
+家, 部屋
+cluster8:(9)
+他, 入り口, メニュー, 写真, 近く, 雰囲気, トイレ, 場所, 方
+cluster9:(1)
+苔
+
+howmany entities : 34
+howmany clusters : 10
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 3
+deleted 13entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:湖山池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大きさ, 広さ
+cluster1:(4)
+散策, 散歩, 天気, 景色
+cluster2:(2)
+橋, 公園
+cluster3:(2)
+桜, 緑
+cluster4:(1)
+小道
+cluster5:(1)
+野鳥
+cluster6:(7)
+南岸, 背, 池, 島々, 湖沼, 島, 湖
+cluster7:(29)
+時期, 休憩スポット, ほとり, 感じ, 日本, 中, 湖山池, ナチュラルガーデン, イベント, ガーデン, デッキ, 地元, 前, カメラ, 道, 自動車, 人, 休憩, タネ, 気持ち, 道なり, 話, 周囲, 静けさ, 途中, ホテル, 定義, スポット, 時間
+cluster8:(4)
+観光, 観光スポット, 観光客, 遊覧船
+cluster9:(3)
+展望所, 道路標示, 駐車場
+cluster10:(10)
+鳥取市, 青島大橋, 湖山池1周コース, 鳥取空港, 池〜!!, 青島, 鳥取, 鳥取市街, 鴨系, 文教地区
+
+howmany entities : 65
+howmany clusters : 11
+howmany entities (more than1entities) : 65
+howmany clusters (more than1entities) : 11
+deleted 0entities.

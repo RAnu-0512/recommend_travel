@@ -1,0 +1,19 @@
+--------------------similar_words:錦川清流線--------------------
+top3 entities near to cluster0>>
+鉄道, 列車, 車両
+top3 entities near to cluster1>>
+桜, 満開, 花
+top3 entities near to cluster2>>
+清流, 川, 滝
+top3 entities near to cluster3>>
+自然石, 自然, 敢当
+top3 entities near to cluster4>>
+水量, 流量, 水かさ
+top3 entities near to cluster5>>
+対岸, 川, 向こう岸
+top3 entities near to cluster7>>
+趣き, 地名, 郷愁
+top3 entities near to cluster8>>
+終点, 駅, 駅前
+top3 entities near to cluster10>>
+錦町, 駅, 錦川

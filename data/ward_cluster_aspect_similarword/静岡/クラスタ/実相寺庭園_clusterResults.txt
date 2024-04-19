@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:実相寺庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 入場料
+cluster1:(13)
+登り坂, 枯山水, 日本庭園, 本堂, 実相寺, 注意, 感じ, 庭園, 実相寺庭園, 車道, 横, 隅, 金指小学校
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 2entities.

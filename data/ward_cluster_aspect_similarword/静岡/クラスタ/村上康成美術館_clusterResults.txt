@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:村上康成美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 大人
+cluster1:(2)
+美術館, グッズ
+cluster2:(1)
+新作
+cluster3:(1)
+絵本
+cluster4:(1)
+川
+cluster5:(1)
+原画
+cluster6:(1)
+伊豆
+cluster7:(1)
+村上康成
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

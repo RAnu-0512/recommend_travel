@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小石川大神宮>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+小石川大, 御神, 皇大, 遥宮, 文京区, 天照大神
+cluster1:(24)
+案内板, 建つビル, 都会, 位置づけ, 春日通, 建物, 小石川大神宮, 東京, 間, 小石川後楽園, 佇まい, 通路, 近く, 伊勢神宮, 奥, 坂道, 案内, 後楽園, 御社, 前, ビル, 後楽園駅, 中, 行き着く
+cluster2:(9)
+神社, 拝殿, 鳥居, 社務所, 本殿, 参拝, 提灯, 神宮, 社殿
+
+howmany entities : 39
+howmany clusters : 3
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 3
+deleted 0entities.

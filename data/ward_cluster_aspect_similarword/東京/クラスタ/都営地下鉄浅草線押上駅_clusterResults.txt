@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営地下鉄浅草線押上駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+エスカレーター, 京成電鉄, アクセス, ストレス, 都営地下鉄, スカイツリー, 羽田空港, ソラマチ, 乗り継ぎ, 乗り換え, 成田空港
+cluster1:(2)
+半蔵門線, 地下鉄
+cluster2:(1)
+錦糸町
+cluster3:(1)
+浅草線
+cluster4:(5)
+人, 気, 相談, 方, 作り
+cluster5:(3)
+利用, 利用者, 仕事帰り
+cluster6:(13)
+観光, 駅員, 切符, 店, 路線, 駅, 観光客, 改札, ホーム階段, 切符売り場, 地下, 直通, 階段
+cluster7:(2)
+地下鉄押上駅, 押上駅
+cluster8:(4)
+東京都, 都, 東京スカイツリー, 東京メトロ
+cluster9:(3)
+東武スカイ, 浅草, 成田アクセス
+cluster10:(2)
+宝町, 都営
+cluster11:(1)
+京成線
+cluster12:(1)
+京急羽田空港
+cluster13:(1)
+京成立石駅 → 住吉駅
+
+howmany entities : 50
+howmany clusters : 14
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 14
+deleted 0entities.

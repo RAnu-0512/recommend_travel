@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高松喜六の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+江戸浅草阿部川町, 江戸時代前期
+cluster1:(8)
+墓, 寺院, 寺, 名主, 町人, 幕府, 宿場, 境内
+cluster2:(8)
+きっかけ, 人物, 名, 名前, 興味, 方, こと, 位置
+cluster3:(2)
+請願, 開設
+cluster4:(1)
+中心部
+cluster5:(1)
+案内板
+cluster6:(11)
+JR中央線, 若葉二丁目, 東京, 内藤新宿, 高松喜, 中央線, 甲州街道, 大道, 愛染院, 新宿, 高松喜六
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

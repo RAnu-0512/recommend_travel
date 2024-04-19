@@ -1,0 +1,13 @@
+--------------------similar_words:大衆演劇せら温泉--------------------
+top3 entities near to cluster0>>
+肘, 片, 町
+top3 entities near to cluster1>>
+シート, フロント, サウナ
+top3 entities near to cluster2>>
+時間, 分の
+top3 entities near to cluster3>>
+女性, 男性, スタッフ
+top3 entities near to cluster4>>
+休憩室, 仮眠室, 休憩, 仮眠
+top3 entities near to cluster5>>
+温泉, 風呂, 銭湯

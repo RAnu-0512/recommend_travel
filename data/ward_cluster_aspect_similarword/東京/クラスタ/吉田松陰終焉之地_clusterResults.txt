@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田松陰終焉之地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+牢屋敷, 小伝馬町駅
+cluster1:(4)
+獄, 安政, 大獄, 幕末
+cluster2:(19)
+ホテル, 石碑, 場所, 地, 馬喰町, 公園, 思想, 端, 大河ドラマ, 近く, 碑, ビジネス街, ファン, シーン, 足, 日本, 方, 日比谷線, もの
+cluster3:(1)
+花燃ゆ
+cluster4:(8)
+吉田松陰終焉之地, 思公園, 小伝馬町の十思公園, 十思公園, 現在の十思公園, 松陰先生終焉の地, 吉田松陰辞世, 吉田松陰
+
+howmany entities : 34
+howmany clusters : 5
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 5
+deleted 0entities.

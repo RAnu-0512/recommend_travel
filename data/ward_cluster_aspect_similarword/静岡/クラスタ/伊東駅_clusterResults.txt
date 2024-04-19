@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊東駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊東駅, 伊東
+cluster1:(2)
+下田, 伊豆
+cluster2:(1)
+伊東までリゾート21
+cluster3:(2)
+土産屋, 観光案内所
+cluster4:(16)
+荷台, 電車, 往復, 伊東線, 桜まつり, キンメ電車, バス, スペース, 駅, アロハ電車, 仕様, 乗り換え, 桜, 造花, 車内, 方面
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 1
+deleted 7entities.

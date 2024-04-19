@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉田松陰幽囚ノ旧宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+松陰先生, 松陰, 松田松陰, 吉田松陰
+cluster1:(2)
+産業革命遺産, 世界遺産
+cluster2:(4)
+密航未遂, 幽閉, 謹慎生活, 謹慎
+cluster3:(7)
+松下村, 松蔭, 伊豆下田港, 吉田, 江戸, 萩, 明治日本
+cluster4:(4)
+住宅, 建築, 借家, 建物
+cluster5:(7)
+実家, 旧家, 屋敷, 家, 旧宅, 杉家, 本宅
+cluster6:(23)
+前, 本殿, 部屋, 松陰神社, 見学, 参拝, こと, 境内, 学問, 読書, いきさつ, 東側, 神社, 左側, 場所, 地, 外, 目, 奥, 塾生, 隣, 部屋数, 歴史
+
+howmany entities : 51
+howmany clusters : 7
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:世羅向井農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ピオーネ食べ放題, 食べ放題
+cluster1:(3)
+ぶどう狩り, ブドウ狩り, ピオーネ狩り
+cluster2:(2)
+子供, 子供たち
+cluster3:(2)
+もの, 感じ
+cluster4:(2)
+蚊取り線香, サービス
+cluster5:(2)
+ブドウ, ピオーネ
+cluster6:(1)
+レジャーシート
+cluster7:(1)
+家族
+cluster8:(1)
+虫除けスプレー
+cluster9:(1)
+神
+cluster10:(1)
+農業
+cluster11:(1)
+敷物
+cluster12:(1)
+雨模様
+
+howmany entities : 20
+howmany clusters : 13
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 13
+deleted 0entities.

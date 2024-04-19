@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熱川温泉旅館協同組合>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+海側, ネット網, 目, 案内, 伊豆熱川駅, 華パーク, オブジェ, コーヒー, 外, 横, 案内所, 伊豆, 広場, 中, 雰囲気, 場所, 前, パンフ
+cluster1:(2)
+観光, 観光協会
+cluster2:(5)
+温泉, 足湯, 湯気, 湯, 玉子
+cluster3:(3)
+温泉櫓, 温泉卵, 温泉地
+cluster4:(1)
+熱川駅
+
+howmany entities : 29
+howmany clusters : 5
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 3
+deleted 3entities.

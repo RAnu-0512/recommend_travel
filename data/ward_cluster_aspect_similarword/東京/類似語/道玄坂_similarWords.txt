@@ -1,0 +1,45 @@
+--------------------similar_words:道玄坂--------------------
+top3 entities near to cluster0>>
+フード, ロイヤル, ホスト
+top3 entities near to cluster1>>
+カフェ, ランチ, 居酒屋
+top3 entities near to cluster2>>
+イベント, エリア, ホテル
+top3 entities near to cluster3>>
+ラーメン, コンビニ, カップラーメン
+top3 entities near to cluster4>>
+ショップ, 東急ハンズ, ドラッグストア
+top3 entities near to cluster5>>
+マツエク, マツエク・, カラーマツエク
+top3 entities near to cluster7>>
+ストリート, メイン, サイド
+top3 entities near to cluster10>>
+同系, 系統
+top3 entities near to cluster12>>
+印象, カンジ, かんじ
+top3 entities near to cluster14>>
+夕方帯, 時間帯, 夕方, 時間
+top3 entities near to cluster15>>
+ビル, シティ, オフィス
+top3 entities near to cluster16>>
+昼食, 食事, 夕食
+top3 entities near to cluster18>>
+休日, 時間, 平日
+top3 entities near to cluster19>>
+会社, 仕事, 企業
+top3 entities near to cluster20>>
+駅車, 駅, 駅前
+top3 entities near to cluster21>>
+店舗, 各店
+top3 entities near to cluster22>>
+物販, 飲食, アニメイトブース
+top3 entities near to cluster23>>
+人出, 穴場, 活気
+top3 entities near to cluster24>>
+歩道, 道路, 路上
+top3 entities near to cluster25>>
+少, 人数, 弐家
+top3 entities near to cluster26>>
+飲食街, 飲食店, 飲食
+top3 entities near to cluster28>>
+坂道, 坂, 坂峠

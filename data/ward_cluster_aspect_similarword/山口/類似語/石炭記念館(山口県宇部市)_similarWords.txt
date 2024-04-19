@@ -1,0 +1,15 @@
+--------------------similar_words:石炭記念館(山口県宇部市)--------------------
+top3 entities near to cluster0>>
+館, 記念, 展示
+top3 entities near to cluster1>>
+石炭, 炭鉱, 炭坑
+top3 entities near to cluster2>>
+展望, 展望台, 展望塔
+top3 entities near to cluster3>>
+公園, 人々, 人達
+top3 entities near to cluster4>>
+資料, 展示, 史料
+top3 entities near to cluster5>>
+駐車場, 駐車, 入場
+top3 entities near to cluster6>>
+加減, 無知, 露呈

@@ -1,0 +1,15 @@
+--------------------similar_words:つく米棚田--------------------
+top3 entities near to cluster0>>
+棚田, 集落, 稲作
+top3 entities near to cluster1>>
+時間, 日数, 時
+top3 entities near to cluster2>>
+地元, 人達, 大勢
+top3 entities near to cluster3>>
+写真, カメラ, デジカメ
+top3 entities near to cluster4>>
+角度, アングル, 視点
+top3 entities near to cluster5>>
+谷間, 息吹, 息吹き
+top3 entities near to cluster6>>
+撮影, 写真, 撮っ

@@ -1,0 +1,49 @@
+--------------------similar_words:和光--------------------
+top3 entities near to cluster0>>
+ショー, ショウ, ウインドウ
+top3 entities near to cluster1>>
+ランド, ウェア, マーク
+top3 entities near to cluster2>>
+ウインドウ, ウィンドー, ウインドー
+top3 entities near to cluster3>>
+アーチ, 交差点, 歩道橋
+top3 entities near to cluster4>>
+雰囲気, おかげ, ヒット
+top3 entities near to cluster5>>
+クリスマス, ハロウィン, クリスマスイブ
+top3 entities near to cluster6>>
+テレビ, アナログ, 地上波
+top3 entities near to cluster7>>
+ハンカチ, スイーツ, シロクマ
+top3 entities near to cluster8>>
+デザイン, キャラクター, シンボル
+top3 entities near to cluster9>>
+ジュエリー, ファッション, アクセサリー
+top3 entities near to cluster10>>
+腕時計, セイコー, ゴジラ
+top3 entities near to cluster11>>
+買い物, 買物, 買いもの
+top3 entities near to cluster12>>
+百貨店, デパート, テナント
+top3 entities near to cluster13>>
+ショップ, カフェ, セレクト
+top3 entities near to cluster14>>
+フロア, インテリア, ショールーム
+top3 entities near to cluster15>>
+ケーキ, パフェ, タルト
+top3 entities near to cluster16>>
+贈り物, 手土産, お祝い
+top3 entities near to cluster18>>
+象徴, 存在, 目印
+top3 entities near to cluster20>>
+重厚, 風格, 気品
+top3 entities near to cluster21>>
+美しい, 素晴らしい, 力強い
+top3 entities near to cluster22>>
+店舗, 建物
+top3 entities near to cluster24>>
+時計, 腕時計, 柱時計
+top3 entities near to cluster25>>
+時計, 腕時計, 和光
+top3 entities near to cluster26>>
+高級品, 宝飾品, 高級, 宝飾

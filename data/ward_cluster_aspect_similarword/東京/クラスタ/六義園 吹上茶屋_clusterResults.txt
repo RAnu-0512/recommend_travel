@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:六義園 吹上茶屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+茶屋, ねりきり, 吹上茶屋
+cluster1:(2)
+泉水, 大泉水
+cluster2:(2)
+抹茶, 菓子
+cluster3:(4)
+季節, 景色, 風景, お花
+cluster4:(8)
+六義園, 紫陽花, 人, ライトアップ, 時間, こと, お茶屋, 横
+cluster5:(2)
+訪問, 客
+cluster6:(7)
+池, 葉, 緑, 木, 松, グリーン系, 池畔
+
+howmany entities : 28
+howmany clusters : 7
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 7
+deleted 0entities.

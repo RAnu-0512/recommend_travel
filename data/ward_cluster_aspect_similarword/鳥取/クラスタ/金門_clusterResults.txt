@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神山神社奥, 宮の参道
+cluster1:(3)
+門, 後ろ向き門, 金門
+cluster2:(2)
+鳥居, 参道
+cluster3:(3)
+大山, 南, 河原
+cluster4:(6)
+下, 賽, 名, 下あたり, 岩, 場所
+cluster5:(1)
+両岸
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:四ツ谷駅前広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ホテルニューオータニ日本庭園内, JR四谷駅, タワー26階サテライト, 外堀公園, 外堀公園一帯
+cluster1:(2)
+企画展, 法政大学企画展
+cluster2:(2)
+駅前広場, 広場
+cluster3:(6)
+市ヶ谷駅, JR, 麹町, 駅, 北, 新宿
+cluster4:(2)
+場所, 空間
+cluster5:(2)
+交差点, 地下鉄
+cluster6:(4)
+法政大学ミュージアム, トイレ, ベンチ, 雰囲気
+cluster7:(1)
+人
+cluster8:(1)
+アトレ
+cluster9:(1)
+気
+cluster10:(1)
+脇
+cluster11:(4)
+校舎, 窓, 教会, 眺望
+
+howmany entities : 31
+howmany clusters : 12
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 12
+deleted 0entities.

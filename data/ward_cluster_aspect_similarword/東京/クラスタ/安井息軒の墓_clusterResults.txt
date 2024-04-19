@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安井息軒の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+国指定文化財, 宮崎県
+cluster1:(4)
+方, 明治, 儒官, 地
+cluster2:(2)
+石柱, 石碑
+cluster3:(2)
+墓, 墓地
+cluster4:(2)
+旧宅, 生誕
+cluster5:(1)
+江戸時代
+cluster6:(1)
+儒学者
+cluster7:(1)
+昌平黌
+cluster8:(1)
+臨済宗寺院養源寺
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 9
+deleted 0entities.

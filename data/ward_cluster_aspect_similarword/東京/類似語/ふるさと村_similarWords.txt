@@ -1,0 +1,13 @@
+--------------------similar_words:ふるさと村--------------------
+top3 entities near to cluster0>>
+高床式, 高床, 倉庫
+top3 entities near to cluster1>>
+石垣, 城, 馬屋
+top3 entities near to cluster2>>
+らし, そう, 新しい
+top3 entities near to cluster4>>
+台風, 地震, 大雨
+top3 entities near to cluster5>>
+建物, 敷地, 民家
+top3 entities near to cluster6>>
+文化, 民俗, 村

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たきびの歌発祥の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+新井薬師前駅, 西武新宿線, 垣根, 雰囲気, 場所, 近く, 歌, 中野
+cluster1:(2)
+歌発祥, 発祥
+cluster2:(2)
+地, 住宅地
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

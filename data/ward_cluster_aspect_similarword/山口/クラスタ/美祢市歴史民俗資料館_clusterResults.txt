@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:美祢市歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+美祢市歴史民俗資料館, 歴史民俗資料館
+cluster1:(5)
+化石, 化石掘り体験, 植物化石, 化石資料, 化石展示
+cluster2:(2)
+売薬資料, 資料館
+cluster3:(10)
+目玉, 高校, 他, 軍艦, 資料, 地元, 方, 人, 歴史, 館内
+cluster4:(3)
+原料, 燃料, 練炭
+cluster5:(1)
+帝国海軍
+cluster6:(3)
+岡藤先生, 美祢市, 大嶺炭田
+
+howmany entities : 26
+howmany clusters : 7
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 7
+deleted 0entities.

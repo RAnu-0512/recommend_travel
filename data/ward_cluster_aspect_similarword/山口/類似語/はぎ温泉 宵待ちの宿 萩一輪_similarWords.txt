@@ -1,0 +1,31 @@
+--------------------similar_words:はぎ温泉 宵待ちの宿 萩一輪--------------------
+top3 entities near to cluster0>>
+温泉, 旅館, 露天風呂
+top3 entities near to cluster1>>
+肉, 棒, 刺身
+top3 entities near to cluster3>>
+景色, 部屋, 窓
+top3 entities near to cluster4>>
+萩, 香, 芳
+top3 entities near to cluster5>>
+プラン, ビジネス, サイクル
+top3 entities near to cluster6>>
+ソフトドリンク, ドリンク, 飲み物
+top3 entities near to cluster7>>
+こだわり, 入れ替え, 拘り
+top3 entities near to cluster8>>
+ホテル, 露天風呂, サイト
+top3 entities near to cluster9>>
+ビール, カレー, 海沿い
+top3 entities near to cluster10>>
+テープ, マスキング, エンドレステープ
+top3 entities near to cluster11>>
+サシェ, サッシェ, ラベンダーサシェ
+top3 entities near to cluster12>>
+基本, 有料
+top3 entities near to cluster13>>
+会長, 漫画, 理事
+top3 entities near to cluster14>>
+料金, 期間, 時間
+top3 entities near to cluster15>>
+萩, 温泉, 露天

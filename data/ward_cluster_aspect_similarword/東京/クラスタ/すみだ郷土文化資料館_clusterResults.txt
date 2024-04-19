@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:すみだ郷土文化資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(20)
+絵, 開催, 補修工事, 人, 人形, 模型, 東京, 隅田川, ほか, 著名人, 修繕, 施設, すみ, 太平洋戦争, 沿い, 様子, ジオラマ模型, 花見客, 歴史, 東京大
+cluster1:(2)
+言問橋, 墨田区
+cluster2:(3)
+空襲, 空襲体験画, 東京大空襲
+cluster3:(6)
+歴史資料展示, 企画展示, 企画展, 常設展示, 展示物, 展示
+cluster4:(1)
+明治時代末期の桜のお花見ジオラマ
+
+howmany entities : 32
+howmany clusters : 5
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 5
+deleted 0entities.

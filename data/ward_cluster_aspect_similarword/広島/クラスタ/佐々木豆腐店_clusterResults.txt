@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佐々木豆腐店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人気店, 人気
+cluster1:(9)
+売り切れ, 人, こと, おいしさ, もの, 豆腐, 商品, 地元, 油揚げ
+cluster2:(1)
+観光客
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

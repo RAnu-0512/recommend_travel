@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小林観光ブルーベリー園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ブルーベリー狩り, 収穫, ブルーベリー園, 農場
+cluster1:(3)
+傘, 雨, 旗
+cluster2:(7)
+大山, 持ち帰り, ブルーベリー, 木, マフィン, パック, 場所
+cluster3:(1)
+気力
+cluster4:(7)
+家族みんな持ち帰りパック, 滞在, 食べ放題, 別料金, 予約時間, 時間制限, 長時間滞在
+cluster5:(1)
+暑さ対策
+cluster6:(1)
+大自然の中日本海見えたくさんのブルーベリー
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 7
+deleted 0entities.

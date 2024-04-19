@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハチ公ファミリーレリーフ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハチ公像, 銅像
+cluster1:(2)
+場所, 待ち合わせ場所
+cluster2:(8)
+ファミリー, テーマ, 待ち合わせスポット, ハロウィン, ハチ公, レリーフ, 人混み, 待ち合わせ
+cluster3:(3)
+人, 家族, 方
+cluster4:(1)
+壁
+cluster5:(1)
+ハチ
+cluster6:(1)
+虹
+cluster7:(9)
+JR渋谷駅, 忠犬ハチ公, ハチ公口, 渋谷ハチ公口, もしも忠犬ハチ公, ハチ公口脇, 東京観光の記念撮影スポット, 忠犬ハチ公像, JRハチ公口
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 8
+deleted 0entities.

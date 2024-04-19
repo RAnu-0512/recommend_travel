@@ -1,0 +1,39 @@
+--------------------similar_words:道の駅 大山恵みの里--------------------
+top3 entities near to cluster0>>
+余裕, 元気, 余力
+top3 entities near to cluster1>>
+地元, 近所, 近辺
+top3 entities near to cluster3>>
+自然, 外側
+top3 entities near to cluster5>>
+大小, 様々, 種々
+top3 entities near to cluster6>>
+当地, 名物, 地元
+top3 entities near to cluster8>>
+果物, アイスクリーム, ソフトクリーム
+top3 entities near to cluster9>>
+紅茶, コーヒー, お茶
+top3 entities near to cluster10>>
+風味, 表情
+top3 entities near to cluster11>>
+食材, 野菜, 料理
+top3 entities near to cluster12>>
+処, 食べ, 食する
+top3 entities near to cluster13>>
+醤油, しょうゆ, 味噌
+top3 entities near to cluster14>>
+物販, 売店, 接客
+top3 entities near to cluster15>>
+駅店, 駅, 施設
+top3 entities near to cluster16>>
+史跡, 史蹟, 旧跡
+top3 entities near to cluster17>>
+可能性, 利便性, 可能, 利便
+top3 entities near to cluster18>>
+口脇, 開店
+top3 entities near to cluster19>>
+時間, 休憩, 昼休み
+top3 entities near to cluster20>>
+接客, レジ, 作業
+top3 entities near to cluster21>>
+御飯, ご飯, 定食

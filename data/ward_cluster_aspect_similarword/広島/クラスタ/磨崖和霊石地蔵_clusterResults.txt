@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:磨崖和霊石地蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+地蔵, 頭部, もの, 花崗岩, 中, 輪郭, 像, 幅, 地蔵岩, 中央, 石, 厚さ, 舟形, 左右, 波打際, 潮, 浮き彫り, 巨岩, 見ごたえ, 岩, 高さ, 満潮
+cluster1:(5)
+半円形, 坐像, 蓮華座, 地蔵坐像, 円光背
+cluster2:(5)
+霊石地蔵, 磨崖和, 磨崖式半肉彫, 磨崖和霊石地蔵, 石灯籠
+
+howmany entities : 32
+howmany clusters : 3
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 3
+deleted 0entities.

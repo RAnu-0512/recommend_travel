@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧自証院霊屋(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+赤, 黒
+cluster1:(5)
+見応え, 方, 母, 感じ, もの
+cluster2:(1)
+母方
+cluster3:(1)
+振
+cluster4:(1)
+霊廟
+cluster5:(5)
+自証院霊屋, 徳川光友, 尾張藩主徳川光友, 正室千代姫, 江戸東京たてもの園
+
+howmany entities : 15
+howmany clusters : 6
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 6
+deleted 0entities.

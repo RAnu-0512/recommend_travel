@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鹿野城跡の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+車, 感じ, 中心, 階段状, 本丸, 観光客, 二の丸・三, 山頂, 鹿野, 人, 花, 鳥取県, 人気, 昼間, 方, 趣, 見, 水面
+cluster1:(5)
+桜満開, 桜, 散りゆく桜, 夜桜, 桜スポット
+
+howmany entities : 23
+howmany clusters : 2
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東運寺(釜寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+身代わり地蔵尊, 念仏堂
+cluster1:(8)
+上人, 東寺運, 僧, 通称, 浄土宗寺院, 釜寺, 備前, 大正
+
+howmany entities : 10
+howmany clusters : 2
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 2
+deleted 0entities.

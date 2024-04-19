@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:コンクリート船 武智丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+武智丸, 広島県, 安浦町
+cluster1:(10)
+三津口港, コンクリート, コンクリート船, 地図, くだん, 駅, 世界大戦, 防波堤, 船, 普通
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

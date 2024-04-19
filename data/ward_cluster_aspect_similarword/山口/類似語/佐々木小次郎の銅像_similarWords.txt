@@ -1,0 +1,13 @@
+--------------------similar_words:佐々木小次郎の銅像--------------------
+top3 entities near to cluster1>>
+燕, 柳, 錦川
+top3 entities near to cluster2>>
+銅像, 実像
+top3 entities near to cluster3>>
+出生地, 出身地, 出生, 出身
+top3 entities near to cluster4>>
+近辺, 周囲
+top3 entities near to cluster6>>
+風景, 公園, 民家
+top3 entities near to cluster8>>
+剣, 太刀

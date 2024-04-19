@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:用宗みなと温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+化粧品, 洗顔料
+cluster1:(2)
+施設, 機種
+cluster2:(2)
+記載, 次回
+cluster3:(8)
+アメニティ, シャワーヘッド, ドライヤー, リンスインシャンプー, ブラシ, シャンプー, ホームページ, トリートメント
+cluster4:(2)
+富士山, テラス
+cluster5:(1)
+炭酸泉
+cluster6:(1)
+もの
+cluster7:(1)
+ボディソープ
+cluster8:(1)
+念
+cluster9:(3)
+浴室, 綿棒, 風呂
+cluster10:(1)
+脱衣所
+
+howmany entities : 24
+howmany clusters : 11
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 13entities.

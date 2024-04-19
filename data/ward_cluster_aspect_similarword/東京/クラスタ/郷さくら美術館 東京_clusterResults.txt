@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:郷さくら美術館 東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+桜花賞展, 展覧会, 展示替え, 展示館, 展示
+cluster1:(3)
+現代美術, 現代日本画, 現代美術館
+cluster2:(2)
+郷さくら美術館, 郷さくらミュージアム
+cluster3:(10)
+季節, 花, 土産, 花見, 名所, 寺, 中目黒駅, 中目黒川, 河川, 桜
+cluster4:(4)
+絵, 画家, 絵画, 画
+cluster5:(6)
+多く, 中心, 近く, 数, 付近, 割
+cluster6:(8)
+キャンバス, 人, テーマ, 目黒川, 雪景色, 美術館, 中目黒, 雰囲気
+cluster7:(3)
+作品, 場所, もの
+cluster8:(1)
+心
+cluster9:(6)
+東京メトロ日比谷線, 東京, 京都, 日本, プチ美術館, 都市部
+
+howmany entities : 48
+howmany clusters : 10
+howmany entities (more than1entities) : 48
+howmany clusters (more than1entities) : 10
+deleted 0entities.

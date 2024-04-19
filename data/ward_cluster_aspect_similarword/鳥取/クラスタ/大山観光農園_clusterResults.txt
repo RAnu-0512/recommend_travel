@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山観光農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大山観光農園, 観光農園
+cluster1:(3)
+梨狩り, 世紀梨, 梨
+cluster2:(2)
+大山, 鳥取
+cluster3:(4)
+追加, 時期, 子供, 途中
+cluster4:(2)
+土産, 観光スポット
+cluster5:(1)
+入園料
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

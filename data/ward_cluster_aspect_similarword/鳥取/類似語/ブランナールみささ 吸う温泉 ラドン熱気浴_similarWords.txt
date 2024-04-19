@@ -1,0 +1,21 @@
+--------------------similar_words:ブランナールみささ 吸う温泉 ラドン熱気浴--------------------
+top3 entities near to cluster0>>
+風呂, 浴室, 浴場
+top3 entities near to cluster1>>
+感覚, 時間, 感触
+top3 entities near to cluster2>>
+時間, 経過, 日数
+top3 entities near to cluster3>>
+不調
+top3 entities near to cluster4>>
+サウナ, タオル, スチーム
+top3 entities near to cluster5>>
+念水, 汗水, 念, 汗
+top3 entities near to cluster7>>
+施設, 体験, 所内
+top3 entities near to cluster8>>
+髪, 髪の毛, 霧
+top3 entities near to cluster9>>
+水分, 補給, 油分
+top3 entities near to cluster10>>
+温泉浴, 温浴, 温泉, 温

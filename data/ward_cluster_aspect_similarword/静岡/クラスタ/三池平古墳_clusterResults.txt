@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三池平古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+史跡, 史跡巡り
+cluster1:(7)
+全長, 見ごたえ, もの, 想像, 高台, 前方後円墳, エリア
+cluster2:(2)
+三池平, 古墳
+cluster3:(2)
+長さ, 保存状態
+cluster4:(1)
+三池平古墳
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 1
+deleted 7entities.

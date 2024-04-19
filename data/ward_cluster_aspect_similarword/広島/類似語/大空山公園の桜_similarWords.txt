@@ -1,0 +1,9 @@
+--------------------similar_words:大空山公園の桜--------------------
+top3 entities near to cluster0>>
+方向, 方角
+top3 entities near to cluster1>>
+桜, 公園, 太陽
+top3 entities near to cluster2>>
+展望台, 展望, 瞻星台, 瞻星
+top3 entities near to cluster3>>
+尺八, 演奏, 合奏

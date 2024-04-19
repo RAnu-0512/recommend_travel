@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蜂ヶ峯総合公園_冒険の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+子供, アスレチック, 冒険, 森, フィールドアスレチック
+cluster1:(2)
+全長, 大型ローラー滑り台
+cluster2:(1)
+観覧車
+cluster3:(1)
+蜂ヶ峯総合公園
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:仏光寺(木造文殊菩薩騎獅像)--------------------
+top3 entities near to cluster0>>
+姿, 後姿
+top3 entities near to cluster1>>
+仏像, 寺, お寺
+top3 entities near to cluster2>>
+上杉家, 豊臣家, 上杉, 豊臣
+top3 entities near to cluster3>>
+寺, 光, 専寺
+top3 entities near to cluster4>>
+菩薩, 文殊, 騎

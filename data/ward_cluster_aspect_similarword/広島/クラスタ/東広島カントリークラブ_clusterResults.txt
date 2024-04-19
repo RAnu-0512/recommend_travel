@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東広島カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+スタート, 規模, 南コース, コーヒー, 客, 雪, 車, コース, 北コース, クラブハウス
+cluster1:(2)
+山陽自動車道志和インターチェンジ, 丘陵地
+cluster2:(1)
+西日本最大級
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都営大江戸線六本木駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+エスカレーター, 地上, 霞ヶ関, 三井, 人, 交差点, 見回り, 虎, ホーム, 見学, 地下, 時間, ビル, 六本木, 日比谷線, 白, Tシャツ
+cluster1:(2)
+女性客利用, 乗車待ち時間壁
+cluster2:(6)
+六本木駅, 新橋駅, 街歩き, 駅, 徒歩, 江戸線
+cluster3:(7)
+青山公園, 領土主権展示館, 青山墓地, 聖地巡礼街歩き, 門三井ビル, 国立新美術館, 青山学園展示ホール
+
+howmany entities : 32
+howmany clusters : 4
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 4
+deleted 0entities.

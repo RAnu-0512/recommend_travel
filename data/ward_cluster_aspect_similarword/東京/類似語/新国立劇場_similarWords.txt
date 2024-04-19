@@ -1,0 +1,21 @@
+--------------------similar_words:新国立劇場--------------------
+top3 entities near to cluster0>>
+京王, 初台, 駅
+top3 entities near to cluster1>>
+劇場, 公演, 舞台
+top3 entities near to cluster3>>
+建物, 駅, 外観
+top3 entities near to cluster4>>
+コンサート, ミュージカル, オーケストラ
+top3 entities near to cluster6>>
+子供, 大人, 家族
+top3 entities near to cluster8>>
+音量, 演奏, 迫力
+top3 entities near to cluster9>>
+音響, 設備, 照明
+top3 entities near to cluster10>>
+上演, 公演, 再演
+top3 entities near to cluster11>>
+公演, 上演, 演目
+top3 entities near to cluster12>>
+座席, 席, 客席

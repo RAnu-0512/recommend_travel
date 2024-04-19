@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金田川 「ほたるの里」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+川, 光, 蛍
+cluster1:(5)
+フラッシュ, ピーク, 他, ホタル, スポット
+cluster2:(2)
+時期, 場所
+cluster3:(1)
+屋台
+cluster4:(1)
+南部町
+cluster5:(1)
+年々数
+cluster6:(1)
+駐車場
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上原美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+急行, 山間, 伊豆, 郊外, 山中
+cluster1:(4)
+絵画, モネ, 洋画, 画
+cluster2:(3)
+風情, 趣き, 迫力
+cluster3:(11)
+印象派, 見ごたえ, リニューアル, ミュージアムコンパクト, テーマ, スペース, フリードリンク, 美術館, 子ども, イメージ, コレクション
+cluster4:(2)
+日本, 個人
+cluster5:(2)
+もの, 場所
+cluster6:(2)
+近く, 中心
+cluster7:(1)
+空間
+cluster8:(3)
+休憩, 展示, 開催
+cluster9:(8)
+静岡県, 上原昭二, 無人駅, 山阿, 下田市, 上原美術館, 海岸沿い, 稲梓駅
+cluster10:(10)
+仏像, 美術書, 仏画ルノワール, 仏教館近代館, 仏像彫刻, 西洋美術, 近代美術館, 蒐集品, 仏教, 近代館
+
+howmany entities : 51
+howmany clusters : 11
+howmany entities (more than3entities) : 44
+howmany clusters (more than3entities) : 7
+deleted 7entities.

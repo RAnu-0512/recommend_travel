@@ -1,0 +1,13 @@
+--------------------similar_words:司馬江漢の墓--------------------
+top3 entities near to cluster1>>
+日蓮宗, 慈眼寺, 地元
+top3 entities near to cluster2>>
+墓石, 墓碑
+top3 entities near to cluster3>>
+画師, 画工, 潑墨
+top3 entities near to cluster4>>
+駅, 駅前, 南口
+top3 entities near to cluster5>>
+案内画, 案内板, 案内
+top3 entities near to cluster6>>
+蘭学, 江漢, 司馬

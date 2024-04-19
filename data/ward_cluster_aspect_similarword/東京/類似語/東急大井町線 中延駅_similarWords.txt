@@ -1,0 +1,9 @@
+--------------------similar_words:東急大井町線 中延駅--------------------
+top3 entities near to cluster0>>
+中延, 荏原, 荏原町
+top3 entities near to cluster1>>
+都営, 都営地下鉄, 三田線
+top3 entities near to cluster3>>
+駅, 改札, 構内
+top3 entities near to cluster4>>
+商店街, 商店

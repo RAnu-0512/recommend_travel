@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江戸城外堀跡(東京都千代田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+人, 春, カップル, 水, 電車, こと, 靖国神社, ベンチ, 場所, 規模, 面影, 江戸城
+cluster1:(5)
+桜, 城, 外堀, 堀, 桜シーズン
+cluster2:(1)
+大きさ
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

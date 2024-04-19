@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高杉晋作終焉の地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高杉晋作終焉, 高杉晋作ゆかり, 高杉晋作療養
+cluster1:(21)
+高杉, 下関駅, 敷地, 幕末, 一角, マンション, 肺結核, 若さ, 徒歩, 場所, 地, 碑, 地元, 目立つ施設, 晋作, 生涯, 療養, 方, 英雄, 周辺, 角
+cluster2:(3)
+街歩き, 旅行記, 住宅街
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 3
+deleted 0entities.

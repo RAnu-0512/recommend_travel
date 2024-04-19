@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:公益社団法人富士宮市観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+駅前, 駅, 富士宮駅, 富士宮駅舎, 富士宮市, 北口
+cluster1:(2)
+身延線, 東海旅客鉄道株式会社身延線
+cluster2:(3)
+方法, 地図, 情報
+cluster3:(7)
+左, ペデストリアンデッキ, コンコース, 階段, ひとつ, 富士山, デッキ
+cluster4:(3)
+富士宮市観光協会, 公益社団法人, 観光案内
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 2entities.

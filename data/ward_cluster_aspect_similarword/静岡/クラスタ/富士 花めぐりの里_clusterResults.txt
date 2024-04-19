@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士 花めぐりの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+草, 庭, 冬, 花, お花, 花畑, 霧
+cluster1:(9)
+物, トイレ, プランター, 富士山, 足湯, 仮設, 一面, 時期, 規模
+cluster2:(1)
+地植え
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 1entities.

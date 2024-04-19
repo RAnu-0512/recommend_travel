@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黄波戸温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+泉質, 温泉街, 黄波戸温泉, 温泉, 波戸温泉, 長門市
+cluster1:(3)
+入浴料, 浴室換気, 駐車場
+cluster2:(4)
+石鹸, 風呂, 温度, お湯
+cluster3:(13)
+中, 値段, ロッカー代, ロッカー, 日本, 地元, ドライヤー, 露天風呂, ドライブ, ボディシャンプー, 晴天, リンスインシャンプー, 気持ち
+cluster4:(2)
+ため海, 海
+cluster5:(2)
+交流センター, コロナ対策
+cluster6:(6)
+施設, 景色, 高台, 景観, 入口, 建物
+cluster7:(1)
+検温
+cluster8:(3)
+連絡先記載, 無色透明, ぬる感
+
+howmany entities : 40
+howmany clusters : 9
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:atami_sup>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+台風, 予報
+cluster1:(7)
+サップ, 代表, レクチャー, SAP, 写真, 悪天候, インストラクター
+cluster2:(2)
+体験, 経験
+cluster3:(3)
+話, 方, 思い
+cluster4:(5)
+真夏, 温泉, 冒険, 勇気, 海
+cluster5:(1)
+ゆらゆら感
+cluster6:(4)
+出発準備, 面白さ, 楽しさ, 準備運動
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 5entities.

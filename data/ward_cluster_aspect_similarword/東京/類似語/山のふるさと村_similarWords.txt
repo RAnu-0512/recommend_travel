@@ -1,0 +1,23 @@
+--------------------similar_words:山のふるさと村--------------------
+top3 entities near to cluster1>>
+陶芸, 体験, 木工
+top3 entities near to cluster2>>
+自然, 体験, 神秘
+top3 entities near to cluster3>>
+体験, 体験談, 体感
+top3 entities near to cluster4>>
+体験, つくり
+top3 entities near to cluster5>>
+芸能, 伝統, 文化
+top3 entities near to cluster6>>
+駅, バス停, バス
+top3 entities near to cluster7>>
+宿泊, 施設, 交通
+top3 entities near to cluster10>>
+遊歩道, 停留所, キャンプ
+top3 entities near to cluster11>>
+家族, 子供, 子ども
+top3 entities near to cluster12>>
+家族連れ, 家族, つれ
+top3 entities near to cluster13>>
+川, 湖, 対岸

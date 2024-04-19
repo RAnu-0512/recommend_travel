@@ -1,0 +1,43 @@
+--------------------similar_words:季節体験農場 花の海--------------------
+top3 entities near to cluster0>>
+入口, 通路, 出入り口
+top3 entities near to cluster1>>
+パン, 軽食, ピザ
+top3 entities near to cluster2>>
+ハウス, コート, フード
+top3 entities near to cluster3>>
+食べ物, 飲み物, お菓子
+top3 entities near to cluster4>>
+パスタ, ランチ, サラダ
+top3 entities near to cluster5>>
+苗畑, 農家, 苗
+top3 entities near to cluster6>>
+花雪, 花, 花畑
+top3 entities near to cluster7>>
+イチゴ, 苺, いちご
+top3 entities near to cluster8>>
+酸味, 気候
+top3 entities near to cluster9>>
+体験, 案内, 販売
+top3 entities near to cluster11>>
+問題, 部分, 個所
+top3 entities near to cluster12>>
+状態, 貸し切り, 状況
+top3 entities near to cluster13>>
+分量, 量的
+top3 entities near to cluster15>>
+息子, 娘, 母
+top3 entities near to cluster16>>
+友達, 友人
+top3 entities near to cluster17>>
+家族, 子供, 子ども
+top3 entities near to cluster18>>
+子供連れ, 子供, 子ども
+top3 entities near to cluster19>>
+誕生, 日, 月
+top3 entities near to cluster20>>
+食べ, やり, 制限
+top3 entities near to cluster21>>
+野菜, 果物, 食材
+top3 entities near to cluster22>>
+狩り, 狩る, イチゴ

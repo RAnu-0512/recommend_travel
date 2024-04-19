@@ -1,0 +1,15 @@
+--------------------similar_words:陶芸教室風の街--------------------
+top3 entities near to cluster0>>
+体験, 体験談, 陶芸
+top3 entities near to cluster1>>
+肌色, 色合い
+top3 entities near to cluster2>>
+先生, 教室, 友人
+top3 entities near to cluster3>>
+担当, 設定, 変更
+top3 entities near to cluster6>>
+金額, 総額
+top3 entities near to cluster7>>
+土, 木火, 木
+top3 entities near to cluster8>>
+大きい, 追加, 料金

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇津ノ谷峠の旧東海道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+岡部 宇津之山, 宇津の山, 宇津
+cluster1:(14)
+途中, 側, 間, バス, 昔, 日本, 周辺, 駅, 歴史, 社, 近く, 明治, 往時, 時代
+cluster2:(18)
+東海道ウォーキング, 地蔵堂, 街並み, ハイキング, こと, トロロ, 上り, 写真, ところ, 富士山, 人々, 感じ, 雰囲気, 場所, 東海道, 気分, トンネル, 宇津ノ谷
+cluster3:(5)
+枝, 蔦, 左手, 右手, 木
+cluster4:(11)
+斜面, 山道, 街道, 細道, 難所, 地蔵堂跡, 暑, 弘法, 高低さ, 山, 道
+cluster5:(1)
+熱中症
+cluster6:(12)
+東海度, 峠道, 岡部, 青緑色, 峠, 金谷駅, 慶龍寺, 谷峠, 江戸期, 丸子宿, 岡部宿, 静岡駅
+cluster7:(1)
+保永堂版 東海道五拾三次
+
+howmany entities : 65
+howmany clusters : 8
+howmany entities (more than3entities) : 63
+howmany clusters (more than3entities) : 6
+deleted 2entities.

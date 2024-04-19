@@ -1,0 +1,55 @@
+--------------------similar_words:金王八幡宮--------------------
+top3 entities near to cluster0>>
+ビル, 高層, 建物
+top3 entities near to cluster1>>
+繁華街, 商店街, 繁華, 商店
+top3 entities near to cluster2>>
+喧騒, 雑踏, 喧噪
+top3 entities near to cluster3>>
+青, 朱色, 緑
+top3 entities near to cluster5>>
+坂, 鯛, 鳩
+top3 entities near to cluster6>>
+花見, 桜, 八重桜
+top3 entities near to cluster7>>
+祭り, 秋, 夏
+top3 entities near to cluster8>>
+八重, 桜, 千代
+top3 entities near to cluster9>>
+一枝, 修平, 佳代
+top3 entities near to cluster11>>
+時間外, 時間帯, 時間
+top3 entities near to cluster12>>
+憩い, 空間, 散策
+top3 entities near to cluster13>>
+出版社, 幻怪社, 出版, 幻怪
+top3 entities near to cluster14>>
+駅, 徒歩, 東口
+top3 entities near to cluster16>>
+工場, 敷地, 作業場
+top3 entities near to cluster18>>
+音痴, 方向, オンチ
+top3 entities near to cluster19>>
+社殿, 拝殿, 本殿
+top3 entities near to cluster20>>
+神社, 境内, 本殿
+top3 entities near to cluster21>>
+神輿, お神輿, 御神輿
+top3 entities near to cluster22>>
+絵馬, 彫刻, 道標
+top3 entities near to cluster23>>
+祓う, 祓
+top3 entities near to cluster24>>
+参拝, 朱印, 参詣
+top3 entities near to cluster25>>
+社務, 所内, 寺務
+top3 entities near to cluster26>>
+休暇, 乗車券, 乗車
+top3 entities near to cluster27>>
+稲荷, 桜, 神社
+top3 entities near to cluster28>>
+警察署, 警察, 署長
+top3 entities near to cluster29>>
+金王, 金, 八幡宮
+top3 entities near to cluster31>>
+神社, 稲荷, 境内

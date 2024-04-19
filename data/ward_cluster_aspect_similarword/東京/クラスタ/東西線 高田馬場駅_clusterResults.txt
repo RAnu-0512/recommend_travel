@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東西線 高田馬場駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+地上, 中野, 東京, JR, 地下鉄東西線, 西口, 改札, 地下, 東西線, 東京メトロ, 都営
+cluster1:(4)
+余裕, 全体, 時間, 魅力
+cluster2:(8)
+人達, 人, 都営地下鉄, ジェーアール, 西武新宿線, 学生, こと, 乗り換え
+cluster3:(1)
+痛み
+cluster4:(1)
+朝夕
+cluster5:(1)
+時間帯
+cluster6:(2)
+西武線, 山手線
+cluster7:(5)
+駅, 大塚駅, 乗換駅, 高田馬場駅, 駅構内
+cluster8:(1)
+乗降客数
+
+howmany entities : 34
+howmany clusters : 9
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 9
+deleted 0entities.

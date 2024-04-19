@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:EXPASA足柄(下り)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高速, 高速バス, JR高速バス
+cluster1:(2)
+京都・大阪, 旅行最終日
+cluster2:(2)
+時間調整, 時間
+cluster3:(2)
+休憩, 休憩地
+cluster4:(1)
+昼ご飯
+cluster5:(3)
+駐車場, 温泉, 温泉施設
+cluster6:(2)
+足柄サービスエリア, 足柄
+cluster7:(4)
+出張, 店, 施設, 写真スポット
+cluster8:(3)
+ススメ, ガチャガチャ, 金太郎
+cluster9:(3)
+御殿場, 富士山, 名古屋
+cluster10:(1)
+サービスエリア
+cluster11:(1)
+東京
+cluster12:(3)
+途中, 帰宅, 下り
+cluster13:(1)
+ペヤング
+
+howmany entities : 31
+howmany clusters : 14
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 6
+deleted 12entities.

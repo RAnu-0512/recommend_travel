@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓋井島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+毘沙ノ鼻, 地 毘沙ノ鼻展望台, 毘沙ノ鼻展望台
+cluster1:(2)
+海岸線, 吉見漁港
+cluster2:(5)
+こと, 正面, 真正面, 男性, 意外
+cluster3:(3)
+舞, 蝶, 花
+cluster4:(10)
+島, 浜, 響灘, 蓋井島, 西端, 港, 本州, 沖合, 海, 下関
+cluster5:(1)
+定期船
+cluster6:(1)
+展望台
+cluster7:(1)
+最西端
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 8
+deleted 0entities.

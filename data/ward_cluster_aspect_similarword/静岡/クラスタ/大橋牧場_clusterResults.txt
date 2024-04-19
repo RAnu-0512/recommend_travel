@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大橋牧場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+売店, 高級ソフトクリーム, 牧場
+cluster1:(11)
+こっち, チーズ, ジャガイモ, バター, 母さん, モッツァレラチーズ, ソフトクリーム, クラッカー, アットホーム, アイスクリーム, ホットケーキ
+cluster2:(7)
+対応, 投稿, もの, 中, 他, ほう, 方
+cluster3:(3)
+女性, 人, 子供
+cluster4:(2)
+友人, 近く
+cluster5:(1)
+自然
+cluster6:(1)
+大阪
+cluster7:(1)
+空気
+cluster8:(1)
+カゴ
+cluster9:(10)
+牛乳ジャム, バター作り, ジャム作り, 体験, 夕方遊び, ミルクジャム, チーズ作り, 体験予約, 牛乳, 食べごたえ
+cluster10:(1)
+虫獲り網
+
+howmany entities : 41
+howmany clusters : 11
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 5
+deleted 7entities.

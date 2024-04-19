@@ -1,0 +1,15 @@
+--------------------similar_words:口羽家住宅--------------------
+top3 entities near to cluster0>>
+屋敷, 庭, 住宅
+top3 entities near to cluster2>>
+周辺, 間, 近辺
+top3 entities near to cluster3>>
+建物, 内部, 外観
+top3 entities near to cluster4>>
+光景, 贅沢, ぜいたく
+top3 entities near to cluster6>>
+喧騒, 喧噪, 雑踏
+top3 entities near to cluster7>>
+鍵, カギ
+top3 entities near to cluster8>>
+武家, 屋敷, 武士

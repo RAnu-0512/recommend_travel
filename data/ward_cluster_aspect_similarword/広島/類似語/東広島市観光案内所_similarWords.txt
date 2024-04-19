@@ -1,0 +1,11 @@
+--------------------similar_words:東広島市観光案内所--------------------
+top3 entities near to cluster0>>
+酒蔵, 名所, 名所旧跡
+top3 entities near to cluster1>>
+改札口, 改札, コンコース
+top3 entities near to cluster3>>
+酒蔵, 蔵元
+top3 entities near to cluster4>>
+グルメ, マップ, エリア
+top3 entities near to cluster5>>
+構内, 駅, ＪＲ

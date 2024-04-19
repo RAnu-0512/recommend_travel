@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千代田区観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+観光, 観光マップ, 千代田区観光協会, 観光案内所, 東京観光, 地図, 観光地図, 観光協会
+cluster1:(3)
+皇居周辺, 内堀通り, 江戸東京事件
+cluster2:(4)
+散策, 歴史散策, 現場めぐりMAP, 史跡
+cluster3:(3)
+九段下駅, 九段下交差点, 千代田区
+cluster4:(17)
+所, 千代田, 北側, 場所, マップ, 他種, 江戸城, 事, 語, 折, 情報, パンフレット, 北の丸公園, 日本, こと, 靖国神社, 発見
+cluster5:(1)
+多言語対応
+
+howmany entities : 36
+howmany clusters : 6
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 6
+deleted 0entities.

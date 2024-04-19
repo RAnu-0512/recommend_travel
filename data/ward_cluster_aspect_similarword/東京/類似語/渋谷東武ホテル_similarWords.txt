@@ -1,0 +1,59 @@
+--------------------similar_words:渋谷東武ホテル--------------------
+top3 entities near to cluster0>>
+スープ, キャベツ, サラダ
+top3 entities near to cluster1>>
+見た目, 美味しい, 雰囲気
+top3 entities near to cluster2>>
+ランプ, プラン, コース
+top3 entities near to cluster3>>
+デザート, ドリンク, 飲み物
+top3 entities near to cluster4>>
+ソファー, テーブル, ソファ
+top3 entities near to cluster5>>
+テイクアウト, ソフトドリンク, レストラン
+top3 entities near to cluster6>>
+ジャスミン, ドラッグストア, ホワイトティ
+top3 entities near to cluster7>>
+ボリューム, タイミング, ヴォリューム
+top3 entities near to cluster8>>
+サービス, スタッフ, おもてなし
+top3 entities near to cluster9>>
+シェフ, タッフ, スタッフ
+top3 entities near to cluster10>>
+ランチ, カレー, スープ
+top3 entities near to cluster12>>
+近辺, 駅, 立地
+top3 entities near to cluster13>>
+同僚, 友人
+top3 entities near to cluster15>>
+日, 時間, 予定
+top3 entities near to cluster16>>
+昼間, 夜間, 昼
+top3 entities near to cluster17>>
+季節, 気分, 年末
+top3 entities near to cluster19>>
+価格帯, 都心, 価格
+top3 entities near to cluster20>>
+予約, 料金, 受付
+top3 entities near to cluster21>>
+予習, 用事, 挨拶
+top3 entities near to cluster22>>
+食事, 夕食, ご飯
+top3 entities near to cluster23>>
+褒美, ほうび, タイム
+top3 entities near to cluster24>>
+接客, 応対, 受け答え
+top3 entities near to cluster25>>
+お客, 顧客, 外客
+top3 entities near to cluster26>>
+店舗, 店主
+top3 entities near to cluster27>>
+店員, 店内, 店主
+top3 entities near to cluster28>>
+大人, 男性, 女性
+top3 entities near to cluster29>>
+肉, エビ, 牛肉
+top3 entities near to cluster30>>
+牛肉, 海鮮, 豚肉
+top3 entities near to cluster31>>
+料理, 定食, 中華

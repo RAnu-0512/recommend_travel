@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三鷹市芸術文化センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+演奏会, 映画上映
+cluster1:(2)
+三鷹駅, バス便
+cluster2:(16)
+コロナ禍, 難し, ロビー, 三味線, コンサート, 開催, 編成, 海外, 公演, ホール, 本條, 響き, クラシックコンサート, アーティスト, 秀慈郎, オーケストラ
+cluster3:(1)
+和楽器
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

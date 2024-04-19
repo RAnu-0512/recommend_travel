@@ -1,0 +1,13 @@
+--------------------similar_words:東京都交通局--------------------
+top3 entities near to cluster0>>
+都庁, 庁舎, 第
+top3 entities near to cluster1>>
+周遊券, 乗車券, 乗車, 周遊
+top3 entities near to cluster2>>
+都庁, 駅, 府庁
+top3 entities near to cluster4>>
+切符, 本数, 列車
+top3 entities near to cluster5>>
+本社, 徒歩, 本局
+top3 entities near to cluster8>>
+都営, 都営地下鉄, 交通

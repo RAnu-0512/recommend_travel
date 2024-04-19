@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広島大学大学院理学研究科附属宮島自然植物実験所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+施設, 場所
+cluster1:(2)
+研究, 実験
+cluster2:(1)
+広島大学大学院
+cluster3:(1)
+植物
+cluster4:(1)
+広島大学大学院理学研究科附属宮島自然植物実験所
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

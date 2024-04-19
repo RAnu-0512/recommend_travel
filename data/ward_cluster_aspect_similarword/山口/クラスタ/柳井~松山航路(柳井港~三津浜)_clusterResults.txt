@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柳井~松山航路(柳井港~三津浜)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三津浜港, JR柳井港駅
+cluster1:(19)
+車両待機場, 山陽本線, 中間点, ソファー, 他, 案内, 切符, 車, 係員, 船, フェリー, 待合室, 電話, 雑魚寝ルーム, 乗船, 駅, 船内, 座席, 車両
+cluster2:(12)
+柳井港, 伊保田港, 中国, 航路, 四国, 三津, 柳井, 地方, 波風, 港, 松山, 松山航路
+cluster3:(2)
+防予フェリー, 伊予鉄
+cluster4:(1)
+フェリーおれんじじゅぴたー
+
+howmany entities : 36
+howmany clusters : 5
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 5
+deleted 0entities.

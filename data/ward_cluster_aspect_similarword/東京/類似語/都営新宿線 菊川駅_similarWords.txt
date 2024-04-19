@@ -1,0 +1,15 @@
+--------------------similar_words:都営新宿線 菊川駅--------------------
+top3 entities near to cluster0>>
+特徴, 特長, 特色
+top3 entities near to cluster1>>
+遣っ, 遣う
+top3 entities near to cluster2>>
+仕事, シゴト, 業務
+top3 entities near to cluster3>>
+駅, 駅前, 徒歩
+top3 entities near to cluster4>>
+都合, 一身上, 兼ね合い
+top3 entities near to cluster5>>
+時代, 学生, 大学生
+top3 entities near to cluster6>>
+都営線, 都営, 都営地下鉄線, 都営地下鉄

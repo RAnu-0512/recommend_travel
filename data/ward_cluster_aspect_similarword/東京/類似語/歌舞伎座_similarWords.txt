@@ -1,0 +1,57 @@
+--------------------similar_words:歌舞伎座--------------------
+top3 entities near to cluster0>>
+よえ, 付く, ついて
+top3 entities near to cluster1>>
+観客人, 観覧席, 観客
+top3 entities near to cluster2>>
+おすすめ, 入り口, 最寄り駅
+top3 entities near to cluster3>>
+おみやげ, チケット, コンサート
+top3 entities near to cluster4>>
+カフェ, ランチ, レストラン
+top3 entities near to cluster5>>
+ギャグ, 十八番, パロディ
+top3 entities near to cluster6>>
+マニア, ファン, 初心者
+top3 entities near to cluster7>>
+雰囲気, 気持ち, 気持
+top3 entities near to cluster8>>
+御朱印, 朱印, 参拝
+top3 entities near to cluster9>>
+地下鉄, 地下街, タワー
+top3 entities near to cluster11>>
+全体, 一つ, 世界
+top3 entities near to cluster12>>
+合間, 折, 最中
+top3 entities near to cluster15>>
+お隣, 昼間, 隣
+top3 entities near to cluster17>>
+作品, 舞台, イベント
+top3 entities near to cluster18>>
+とろ, とろう
+top3 entities near to cluster19>>
+館内, 名物, 建物
+top3 entities near to cluster21>>
+伝統, 芸能, 文化
+top3 entities near to cluster22>>
+公演, 上演, 劇場
+top3 entities near to cluster23>>
+観劇, 鑑賞, 観賞
+top3 entities near to cluster24>>
+歌舞伎, 役者, 女形
+top3 entities near to cluster25>>
+存在感, 存在, 際立つ
+top3 entities near to cluster26>>
+建築, 庭園, 建物
+top3 entities near to cluster27>>
+席, 座席, 客席
+top3 entities near to cluster28>>
+駅, 地下鉄, 直結
+top3 entities near to cluster29>>
+時間, 休憩
+top3 entities near to cluster30>>
+土産, おみやげ, 土産物
+top3 entities near to cluster31>>
+土産屋, おみやげ屋, 土産, おみやげ
+top3 entities near to cluster32>>
+雑貨店, 飲食店, 雑貨, 飲食

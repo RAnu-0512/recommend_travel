@@ -1,0 +1,125 @@
+--------------------similar_words:東京国立博物館--------------------
+top3 entities near to cluster0>>
+観音, 一, 十
+top3 entities near to cluster1>>
+坐像, 重文, 立像
+top3 entities near to cluster2>>
+立像, 重文, 坐像
+top3 entities near to cluster3>>
+国宝, 立像, 坐像
+top3 entities near to cluster5>>
+子ども, 小学生, テレビ
+top3 entities near to cluster6>>
+ススメ, おすすめ, オススメ
+top3 entities near to cluster7>>
+レベル, スケール, ジャンル
+top3 entities near to cluster8>>
+見どころ, 見所, チャンス
+top3 entities near to cluster9>>
+チケット, コンビニ, コンビニエンスストア
+top3 entities near to cluster10>>
+ラウンジ, ガラス張り, オーナーズラウンジ
+top3 entities near to cluster11>>
+アクセス, パスワード, ログイン
+top3 entities near to cluster12>>
+テンション, ボリューム, タイミング
+top3 entities near to cluster13>>
+イベント, アナウンス, コンサート
+top3 entities near to cluster14>>
+ショップ, コーナー, グッズ
+top3 entities near to cluster15>>
+待ち時間, 待たす, 待合室
+top3 entities near to cluster16>>
+シアター, アカサカ, ＢＹＪ
+top3 entities near to cluster17>>
+ランチ, アート, コース
+top3 entities near to cluster18>>
+見応え, 見ごたえ, 読み応え
+top3 entities near to cluster19>>
+オーラ, トーク, ポジティブオーラ
+top3 entities near to cluster20>>
+シーン, 切り口, 雰囲気
+top3 entities near to cluster21>>
+パワー, エナジー, エネルギー
+top3 entities near to cluster22>>
+博物館, 美術館, 文化財
+top3 entities near to cluster24>>
+仏像, 阿弥陀如来, 阿弥陀
+top3 entities near to cluster26>>
+大勢, 人達
+top3 entities near to cluster27>>
+施設, 宿泊, 設備
+top3 entities near to cluster28>>
+建築, 建物, 建造
+top3 entities near to cluster29>>
+庭園, 中庭, 名園
+top3 entities near to cluster30>>
+敷地内, 敷地, 裏手
+top3 entities near to cluster31>>
+雪舟, 空海, 琵琶
+top3 entities near to cluster32>>
+絵画
+top3 entities near to cluster33>>
+刀剣, 三条派小狐丸, 百物語山姥切国広
+top3 entities near to cluster34>>
+文化, 文明, 歴史
+top3 entities near to cluster36>>
+東洋, 西洋, 近代
+top3 entities near to cluster37>>
+土器, 埴輪, 土偶
+top3 entities near to cluster39>>
+寺, 禅, 臨勝
+top3 entities near to cluster40>>
+時間, 期間
+top3 entities near to cluster41>>
+即位, 崩御, 天皇
+top3 entities near to cluster42>>
+撮影, 写真, 撮っ
+top3 entities near to cluster43>>
+入館, 拝観, 開園
+top3 entities near to cluster44>>
+観覧, 入場, 来場
+top3 entities near to cluster45>>
+鑑賞会, 鑑賞, 観賞会, 観賞
+top3 entities near to cluster46>>
+休憩, 入り口, 手前
+top3 entities near to cluster52>>
+料金, 制限, 人数
+top3 entities near to cluster53>>
+企画, 計画, ツアー
+top3 entities near to cluster54>>
+窓口, 販売, 売り場
+top3 entities near to cluster55>>
+放映, テレビ, ＴＶ
+top3 entities near to cluster56>>
+内容, 関係, 流れ
+top3 entities near to cluster57>>
+映像, 写真, 作品
+top3 entities near to cluster58>>
+開催, 参加, 再開
+top3 entities near to cluster60>>
+宝物, 名品, 品々
+top3 entities near to cluster61>>
+姿, 感動, 雰囲気
+top3 entities near to cluster62>>
+入り口, 建物, 裏手
+top3 entities near to cluster63>>
+展示, 展覧
+top3 entities near to cluster64>>
+入場, 入館, 予約
+top3 entities near to cluster65>>
+快慶, 運慶, 仏像
+top3 entities near to cluster66>>
+文化史, 文化, 歴史
+top3 entities near to cluster68>>
+縄文, 旧石器時代, 土器
+top3 entities near to cluster69>>
+屏風図, 屏風, 屛風
+top3 entities near to cluster70>>
+彩色, 屏風, 金箔
+top3 entities near to cluster71>>
+泉石, 鷹見, 蛍狩
+top3 entities near to cluster72>>
+鳥獣, 戯画
+top3 entities near to cluster73>>
+国宝, 館, 美術

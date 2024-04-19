@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中里介山の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+世界最長, 世界感
+cluster1:(2)
+小説家, 小説
+cluster2:(2)
+墓, 寺
+cluster3:(3)
+こと, 出身, 大菩薩峠
+cluster4:(1)
+中里介山
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

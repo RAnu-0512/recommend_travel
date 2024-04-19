@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桜ヶ池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+周り, 横, 伝説, 鳴き声, 形, 雄大, 場所
+cluster1:(2)
+龍神, 龍
+cluster2:(2)
+空, 雲
+cluster3:(10)
+湖, 森, 鯉, 鳥居, 神社, 池, 桜, 散歩, 野鳥, 鴨
+cluster4:(1)
+池上神社
+cluster5:(1)
+桜ヶ池
+cluster6:(1)
+P.A.works
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 7entities.

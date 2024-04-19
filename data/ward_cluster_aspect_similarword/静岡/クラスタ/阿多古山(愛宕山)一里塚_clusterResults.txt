@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿多古山(愛宕山)一里塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+磐田駅, 東海道線
+cluster1:(8)
+車, 白看板, 場所, 塚, 丘, 上, 木, 里塚
+cluster2:(1)
+阿多古山一里塚
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 1
+deleted 3entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:全勝寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+山県大弐, 山県大弐の墓
+cluster1:(2)
+曙橋, 新宿線
+cluster2:(11)
+所, 都会, 場所, 凡人, 名前, 墓, 寺院, 寺, 前, 徒歩, 中
+cluster3:(3)
+全勝, 全勝寺, 負け無し
+cluster4:(3)
+江戸時代中期, 四谷三丁目駅, 外苑東通り
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

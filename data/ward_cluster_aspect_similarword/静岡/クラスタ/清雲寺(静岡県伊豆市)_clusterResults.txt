@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清雲寺(静岡県伊豆市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 社務所
+cluster1:(3)
+土肥, 伊豆市, 一楽山
+cluster2:(3)
+笑顔, 元気, 気分
+cluster3:(2)
+車, 時間
+cluster4:(3)
+御朱印, 日蓮宗, 絵
+cluster5:(1)
+奥様
+cluster6:(3)
+石像, 階段, 靴
+cluster7:(1)
+息
+cluster8:(8)
+門, 朱印, 本堂, 境内, 堂, 住職, 日蓮, 寺
+
+howmany entities : 26
+howmany clusters : 9
+howmany entities (more than3entities) : 20
+howmany clusters (more than3entities) : 5
+deleted 6entities.

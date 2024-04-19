@@ -1,0 +1,31 @@
+--------------------similar_words:La Bottega Nero--------------------
+top3 entities near to cluster0>>
+内装, 建物
+top3 entities near to cluster1>>
+作業, 工房, 工程
+top3 entities near to cluster2>>
+丸い形, 形状, 丸い
+top3 entities near to cluster3>>
+文字, 写真
+top3 entities near to cluster7>>
+リング, 手作り, アクセサリー
+top3 entities near to cluster8>>
+雰囲気, 仕上がり, デザイン
+top3 entities near to cluster9>>
+夫婦, 家族, 主人
+top3 entities near to cluster10>>
+周辺, 近辺
+top3 entities near to cluster11>>
+予定, 久々
+top3 entities near to cluster16>>
+打つ
+top3 entities near to cluster17>>
+日, 誕生, 記念
+top3 entities near to cluster18>>
+指輪, 結婚, ネックレス
+top3 entities near to cluster19>>
+時間, 時間帯, 時帯, 時
+top3 entities near to cluster20>>
+体験, 体感
+top3 entities near to cluster23>>
+予定, 手順, 完成

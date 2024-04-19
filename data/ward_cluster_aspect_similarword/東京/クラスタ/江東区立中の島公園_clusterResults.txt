@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:江東区立中の島公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, 近く
+cluster1:(1)
+公園
+cluster2:(1)
+川
+cluster3:(1)
+行き交う船
+cluster4:(1)
+越中島公園
+cluster5:(1)
+丸い水上公園
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:東急世田谷線三軒茶屋駅--------------------
+top3 entities near to cluster0>>
+駅, 車両, 構内
+top3 entities near to cluster1>>
+設備, 外観, 建物
+top3 entities near to cluster3>>
+カラー, ホーム, お洒落
+top3 entities near to cluster4>>
+幸福, 気分, 幸せ
+top3 entities near to cluster5>>
+電車, 路面, 都電
+top3 entities near to cluster6>>
+北東, 中心, 南東
+top3 entities near to cluster7>>
+住宅, 遊園, 商業

@@ -1,0 +1,15 @@
+--------------------similar_words:アクアシティお台場神社--------------------
+top3 entities near to cluster0>>
+ビル, 屋上, 高層
+top3 entities near to cluster1>>
+アクアシティ, エスカレーター, エスカレータ
+top3 entities near to cluster2>>
+フジテレビ, テレビ朝日, テレビ東京
+top3 entities near to cluster3>>
+人達, 大勢
+top3 entities near to cluster5>>
+景色, 風景, 眺望
+top3 entities near to cluster6>>
+神社, 境内, 本殿
+top3 entities near to cluster7>>
+台場, ビーナスフォート, アクアシティ

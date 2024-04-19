@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:比婆山温泉 熊野湯旅館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+低温度, 価格帯
+cluster1:(8)
+途中, 周囲, 周辺, どこか, 最寄り駅, へん, 山奥, 必要
+cluster2:(3)
+買物, 食事, 送迎
+cluster3:(4)
+宿, 温泉, 虫, 湯
+cluster4:(1)
+落合駅
+cluster5:(3)
+鉄道旅, 掛流, 交通事情
+cluster6:(1)
+゚Д゚
+
+howmany entities : 22
+howmany clusters : 7
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 7
+deleted 0entities.

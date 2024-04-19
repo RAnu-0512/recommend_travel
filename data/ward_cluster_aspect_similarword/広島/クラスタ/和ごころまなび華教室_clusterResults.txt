@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:和ごころまなび華教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+子, 父, 先生, 皿, 子供, 車椅子, 半身不随, 植物, 敬老, 娘, ショップ, 海, 家族, 両親, タイミング, メッセージ
+cluster1:(3)
+興味, 不安, 愛着
+cluster2:(4)
+案内, 参考, 参加, 説明
+cluster3:(3)
+予定, こと, 結果
+cluster4:(2)
+時間, 場所
+cluster5:(1)
+土
+cluster6:(1)
+リース体験
+cluster7:(4)
+苔玉作り, 苔玉たち, 観葉植物, 苔玉
+
+howmany entities : 34
+howmany clusters : 8
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 8
+deleted 0entities.

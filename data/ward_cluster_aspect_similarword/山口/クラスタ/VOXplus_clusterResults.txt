@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:VOXplus>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+所, プラン, ダイビング, スタッフ, インストラクター, 青海島ダイビングセンター, メッセージカード, 場所, ポイント, ダイビング体験, 声, 長門, 人生, 時間, 目, 魚, 評価, ダイビングスーツ, 酸素ボンベ, 利用, 方, ペース, 海, 写真, 青海島, 建物
+cluster1:(10)
+近場, 操作方法, 誕生日, 着方, 脱ぎ方, 高さ, 集合場所, 美しさ, 事前説明, 説明
+
+howmany entities : 36
+howmany clusters : 2
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 2
+deleted 0entities.

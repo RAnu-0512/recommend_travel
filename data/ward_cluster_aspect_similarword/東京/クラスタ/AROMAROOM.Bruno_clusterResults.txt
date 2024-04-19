@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:AROMAROOM.Bruno>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ボディマッサージ, オイル
+cluster1:(3)
+ハーブ, ローズ, アロマ
+cluster2:(8)
+フットバス, 気持ち, アロマオイル, ポイント, アロマトリートメント, マッサージ, アドバイス, クラフト
+cluster3:(1)
+ヒップアップ
+cluster4:(16)
+楽しみ方, 凝り, 感じ, 笑, 至福, 力, 過程, 体験, 希望, 好み, 時間, 足, こと, 冊子, 説明, 香り
+cluster5:(5)
+美容オイル, 施術, アロマ&マッサージ, 美容オイル作り, 指圧マッサージ
+
+howmany entities : 35
+howmany clusters : 6
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 6
+deleted 0entities.

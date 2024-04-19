@@ -1,0 +1,7 @@
+--------------------similar_words:青梅きもの博物館--------------------
+top3 entities near to cluster0>>
+着物, 和服, 振袖
+top3 entities near to cluster1>>
+館長, 現地, 経営
+top3 entities near to cluster2>>
+駐車場, 駐車, 場裏

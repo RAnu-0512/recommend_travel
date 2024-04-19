@@ -1,0 +1,25 @@
+--------------------similar_words:江戸川区郷土資料室--------------------
+top3 entities near to cluster0>>
+郷土室, 資料室, 資料, 郷土
+top3 entities near to cluster1>>
+散策, 歩き, 歩く
+top3 entities near to cluster2>>
+散歩, 展覧
+top3 entities near to cluster3>>
+公園, 中央, 森林公園
+top3 entities near to cluster4>>
+地元, 施設, 歴史
+top3 entities near to cluster5>>
+始発, 終発, 終電
+top3 entities near to cluster6>>
+博物, 博物学, 考古
+top3 entities near to cluster7>>
+区, 亀戸, 区役所
+top3 entities near to cluster8>>
+展示, 広報, 常設
+top3 entities near to cluster9>>
+都営, バス, 都営地下鉄
+top3 entities near to cluster10>>
+区, 23, 都
+top3 entities near to cluster11>>
+親水, 公園, 河川敷

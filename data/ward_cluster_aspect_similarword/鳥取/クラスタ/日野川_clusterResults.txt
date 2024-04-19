@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日野川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+しろ駐車場, 駐車場
+cluster1:(3)
+オシドリ達, 姿, 仕草
+cluster2:(3)
+観察, 世話, 餌
+cluster3:(11)
+志, 環境, ラフティング, 壁, 双眼鏡, オシドリ, 案内, 穴, 近く, 方, 川
+cluster4:(3)
+観察小屋, 小屋, 飛来時季
+cluster5:(1)
+募金箱
+
+howmany entities : 23
+howmany clusters : 6
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 6
+deleted 0entities.

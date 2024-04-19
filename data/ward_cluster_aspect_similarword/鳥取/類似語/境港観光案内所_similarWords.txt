@@ -1,0 +1,35 @@
+--------------------similar_words:境港観光案内所--------------------
+top3 entities near to cluster1>>
+案内, 土産, 名所
+top3 entities near to cluster2>>
+バス, タクシー, バス停
+top3 entities near to cluster4>>
+始発, 発着, 夕方
+top3 entities near to cluster5>>
+駅, 町, 神社
+top3 entities near to cluster6>>
+建物, 看板
+top3 entities near to cluster7>>
+灯台, 燈台, フロストフロウ
+top3 entities near to cluster8>>
+荷物, 土産, 空港
+top3 entities near to cluster9>>
+風呂, 食事, 入浴
+top3 entities near to cluster10>>
+子, 姉ちゃん, 兄ちゃん
+top3 entities near to cluster11>>
+当地, グッズ, 名物
+top3 entities near to cluster12>>
+収集, 蒐集
+top3 entities near to cluster14>>
+案内, 到着, 受付
+top3 entities near to cluster15>>
+展示, 出展, 展覧
+top3 entities near to cluster16>>
+頼り, かけ, あり
+top3 entities near to cluster17>>
+か所, カ所, ヶ所
+top3 entities near to cluster18>>
+持, 大漁, 丸
+top3 entities near to cluster19>>
+妖怪, 鬼太郎, ゲゲゲ

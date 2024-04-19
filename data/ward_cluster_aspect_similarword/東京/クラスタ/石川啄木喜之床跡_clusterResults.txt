@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石川啄木喜之床跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+作品, 説明板, 案内板, 場所, 建物, 理髪店, 気持ち, 面影, 家族, 国道, 喜之床, 勉強, 床屋
+cluster1:(6)
+石川啄木, 櫻木神社, 本郷2丁目, 明治, 明治村, 愛知県
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

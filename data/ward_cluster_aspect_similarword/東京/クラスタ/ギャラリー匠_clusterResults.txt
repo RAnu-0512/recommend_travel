@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ギャラリー匠>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ギャラリー匠, 匠
+cluster1:(2)
+実演, 体験コーナー
+cluster2:(4)
+江戸, ギャラリー, 技, スペース
+cluster3:(1)
+簪
+cluster4:(1)
+伝統工芸品
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

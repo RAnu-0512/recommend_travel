@@ -1,0 +1,23 @@
+--------------------similar_words:蚕糸の森公園--------------------
+top3 entities near to cluster0>>
+公園, 区立, 駅前
+top3 entities near to cluster2>>
+子供, 子ども, 友人
+top3 entities near to cluster3>>
+川池, 川, 滝
+top3 entities near to cluster4>>
+紅葉, 花見, 桜
+top3 entities near to cluster5>>
+季節, 夏, 秋
+top3 entities near to cluster6>>
+子供, 子ども, 小学生
+top3 entities near to cluster7>>
+滑り台, 水遊び, すべり台
+top3 entities near to cluster8>>
+マーケット, イベント, フリマ
+top3 entities near to cluster9>>
+憩い, 風景, 界隈
+top3 entities near to cluster10>>
+運動, 生活, 日常
+top3 entities near to cluster11>>
+校庭, 遊具, 園内

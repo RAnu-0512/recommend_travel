@@ -1,0 +1,19 @@
+--------------------similar_words:宮島手づくり工房--------------------
+top3 entities near to cluster0>>
+予約, 時間, 事前
+top3 entities near to cluster2>>
+焼印, 体験, 焼き印
+top3 entities near to cluster3>>
+家族, 子供, 友達
+top3 entities near to cluster4>>
+やり方, サイズ, 小学生
+top3 entities near to cluster5>>
+値打ち, 思い出, 想い出
+top3 entities near to cluster6>>
+やけど, 火傷, ヤケド
+top3 entities near to cluster7>>
+土産物, 箸置き, みやげ物
+top3 entities near to cluster9>>
+手伝い, 時間
+top3 entities near to cluster10>>
+写真, 画像, 見本

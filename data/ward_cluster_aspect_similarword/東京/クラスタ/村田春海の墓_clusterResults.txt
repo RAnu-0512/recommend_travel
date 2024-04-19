@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:村田春海の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+石碑, 場所, 本誓寺, アクセス, 近く, 歌人, 碑, 左, 国学者, 墓, 駅, 寺, 足, 次男, 雰囲気
+cluster1:(7)
+東京都, 村田春海, 江戸時代, 江東区, 村田春道, 清澄庭園, 日本橋小舟町
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 2
+deleted 0entities.

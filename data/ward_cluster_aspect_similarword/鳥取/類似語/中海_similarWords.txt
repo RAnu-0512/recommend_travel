@@ -1,0 +1,13 @@
+--------------------similar_words:中海--------------------
+top3 entities near to cluster0>>
+鴨, 白鳥, 鳥
+top3 entities near to cluster2>>
+雰囲気, 気持ち
+top3 entities near to cluster3>>
+近辺, 地形
+top3 entities near to cluster4>>
+参加者, 主催者, 参加, 主催
+top3 entities near to cluster5>>
+景色, 海岸, 湾内
+top3 entities near to cluster6>>
+漁獲量, 大きい, 漁獲

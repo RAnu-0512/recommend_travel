@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三嶋暦師の館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+三嶋暦, 三嶋, 三嶋暦師, 三嶋大社, 大社
+cluster1:(6)
+河合家, 河合, 旧暦, 三島暦, 三島市, 暦
+cluster2:(7)
+家屋, 和風, 観光地図, 家族旅行, 建物, 建築, 住宅街
+cluster3:(3)
+年配, 女店員, 私達
+cluster4:(6)
+東側, 庭, 奥, 東, 近く, 辺り
+cluster5:(6)
+案内, 歴史, 説明, 場所, 施設, 館
+cluster6:(13)
+最後, 気, ボランティア, 程度, プレゼント, 今回, 日本, もの, 時間, 中, コンビニ, 余裕, 方
+cluster7:(1)
+占い
+cluster8:(1)
+後味
+cluster9:(2)
+仮名文字, 案内板
+
+howmany entities : 50
+howmany clusters : 10
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 7
+deleted 4entities.

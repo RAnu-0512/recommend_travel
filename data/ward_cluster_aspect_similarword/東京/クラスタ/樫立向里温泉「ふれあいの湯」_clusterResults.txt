@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:樫立向里温泉「ふれあいの湯」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+総檜造り, 樫立向里温泉
+cluster1:(33)
+休憩所, 入浴客, 鍵付きロッカー, お湯, 建物, 案内看板, 人, 年寄り, 気持ち, ロッカー, 露天風呂, 館内, 八丈島, 樫立エリア, 露天, 浴室, 温泉, 数, 路線バス, 杉, 熱め, 檜, 浴場, 入浴料, 時間, 脱衣所, GW, バス, ふれあいの湯, 地元, スペース, 訪問, 色
+
+howmany entities : 35
+howmany clusters : 2
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 2
+deleted 0entities.

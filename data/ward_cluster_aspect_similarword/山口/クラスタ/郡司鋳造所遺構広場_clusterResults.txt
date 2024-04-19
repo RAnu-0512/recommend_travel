@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:郡司鋳造所遺構広場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+もの, 鋳物師, 公園, 松陰神社, 家
+cluster1:(2)
+復元, 遺構
+cluster2:(1)
+郡司
+cluster3:(2)
+鋳造所, 解説板
+cluster4:(1)
+毛利家
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

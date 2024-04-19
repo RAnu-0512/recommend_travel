@@ -1,0 +1,39 @@
+--------------------similar_words:目黒川(桜並木)--------------------
+top3 entities near to cluster0>>
+桜, 満開, 八重桜
+top3 entities near to cluster1>>
+開花, 満開, 咲く
+top3 entities near to cluster2>>
+名所, 名所旧跡, 旧跡
+top3 entities near to cluster3>>
+花見, ピクニック, 行楽
+top3 entities near to cluster4>>
+見物, 花見, 見物人
+top3 entities near to cluster5>>
+カフェ, レストラン, イルミネーション
+top3 entities near to cluster6>>
+川沿い, 川橋, 川
+top3 entities near to cluster8>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster9>>
+散歩, 歩き, 散策
+top3 entities near to cluster10>>
+混雑, 混み, 人出
+top3 entities near to cluster11>>
+駅, 電車, 通勤
+top3 entities near to cluster12>>
+光景, 風情, 眺め
+top3 entities near to cluster13>>
+景色, 絶景, 景観
+top3 entities near to cluster14>>
+屋台, 散策, 見物
+top3 entities near to cluster15>>
+樹齢, 巨木, 老木
+top3 entities near to cluster16>>
+夕方, 晩秋, 秋
+top3 entities near to cluster17>>
+外国人, 外国, 人達
+top3 entities near to cluster18>>
+近辺, 周辺
+top3 entities near to cluster19>>
+発生, 迂回, 入り

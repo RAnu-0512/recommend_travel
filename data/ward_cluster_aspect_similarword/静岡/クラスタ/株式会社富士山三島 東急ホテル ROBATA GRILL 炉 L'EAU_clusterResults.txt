@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:株式会社富士山三島 東急ホテル ROBATA GRILL 炉 L'EAU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+景色料, 景色夜景
+cluster1:(11)
+パン, コース料理, 料理, 家, 接客, 駅, 店, 前菜, 鶏肉, 食事, 味
+cluster2:(3)
+中学生, 年寄り, 子ども
+cluster3:(9)
+スタッフ, レストラン, スイーツ, コーヒー, ステーキ, メイン, ゴールデンウイーク, デザート, 待ち時間
+cluster4:(2)
+ランチ, ケーキ
+cluster5:(1)
+ホテル
+cluster6:(1)
+富士山
+cluster7:(1)
+フリーデザート
+cluster8:(2)
+東京, 三島
+cluster9:(12)
+他, まぁあと, 料金, 半額, 笑, 時間, 感じ, 中, 内容, クーポン利用, 前, 方
+cluster10:(1)
+誕生日
+cluster11:(1)
+既製品
+
+howmany entities : 46
+howmany clusters : 12
+howmany entities (more than3entities) : 35
+howmany clusters (more than3entities) : 4
+deleted 11entities.

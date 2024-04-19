@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大井神社(静岡県川根本町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中, 周り
+cluster1:(1)
+地元
+cluster2:(2)
+神社, 公園
+cluster3:(1)
+売店
+cluster4:(1)
+初詣
+cluster5:(1)
+行列
+cluster6:(1)
+島田駅
+cluster7:(1)
+駐車場
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 10entities.

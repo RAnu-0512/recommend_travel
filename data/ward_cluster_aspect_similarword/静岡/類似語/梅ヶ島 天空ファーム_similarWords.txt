@@ -1,0 +1,13 @@
+--------------------similar_words:梅ヶ島 天空ファーム--------------------
+top3 entities near to cluster0>>
+椎茸, しいたけ, シイタケ
+top3 entities near to cluster9>>
+しいたけ, シイタケ, 椎茸
+top3 entities near to cluster11>>
+ラーメン, 地ビール, メニュー
+top3 entities near to cluster15>>
+子供, 娘, 家族
+top3 entities near to cluster16>>
+醤油味, 醤油, 野菜
+top3 entities near to cluster17>>
+炭火, 七輪, 七厘

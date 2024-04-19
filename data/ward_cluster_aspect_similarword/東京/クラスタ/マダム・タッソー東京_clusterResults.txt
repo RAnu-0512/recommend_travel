@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マダム・タッソー東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+蝋人形館, 蝋人形
+cluster1:(2)
+小道具, マスク
+cluster2:(4)
+フィギュア, コスプレ, ゲーム, フィギア
+cluster3:(6)
+テンション, ビートルズ, ハリウッドスター, クオリティ, 東京タワー, マダム・タッソー
+cluster4:(2)
+貸し出し, 動きだし
+cluster5:(1)
+使い捨て
+cluster6:(6)
+目当て, ポイント, スポット, 気持ち, チャンス, ススメ
+cluster7:(4)
+バイク, 有名人, 中学生, スター
+cluster8:(1)
+口コミ
+cluster9:(1)
+コロナ
+cluster10:(7)
+気, 意外, 感じ, 期待, 評価, 驚き, 気分
+cluster11:(4)
+小物, 大人, 子供, 服
+cluster12:(4)
+故人, マイケル・ジャクソン, 新作有名人, 本物
+cluster13:(2)
+顔, 横
+cluster14:(5)
+方, 家族, 友達, 方々, 人
+cluster15:(4)
+連続, 時間, 場所, 前回
+cluster16:(2)
+人物, 場面
+cluster17:(2)
+歴史, 世界
+cluster18:(9)
+デックス東京ビーチ, 羽生, 東京, ウィリアム王子, 選手, 俳優, キャサリン妃, 身長, スポーツ選手
+cluster19:(5)
+実物大フィギュア, 等身, 精巧, 人形, 人形たち
+cluster20:(7)
+記念写真, 撮影, 撮影場所, 写真, 一体一体写真, 笑顔写真, 面白写真
+cluster21:(3)
+所要時間, 貸切状態, 百聞
+cluster22:(1)
+草間彌
+
+howmany entities : 84
+howmany clusters : 23
+howmany entities (more than1entities) : 84
+howmany clusters (more than1entities) : 23
+deleted 0entities.

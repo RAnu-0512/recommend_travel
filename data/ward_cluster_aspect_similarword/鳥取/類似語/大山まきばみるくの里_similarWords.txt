@@ -1,0 +1,63 @@
+--------------------similar_words:大山まきばみるくの里--------------------
+top3 entities near to cluster0>>
+ソフトクリーム, ランチ, レストラン
+top3 entities near to cluster1>>
+シート, バイク, ハウス
+top3 entities near to cluster2>>
+ミルク, 牛乳, カフェオレ
+top3 entities near to cluster3>>
+ソフト, バニラ, ミルク
+top3 entities near to cluster4>>
+アイス, パフェ, プリン
+top3 entities near to cluster5>>
+チーズ, 乳製品, バター
+top3 entities near to cluster6>>
+ソース, ホワイト, ケチャップ
+top3 entities near to cluster8>>
+体験, 食べ, 濃厚
+top3 entities near to cluster10>>
+飴玉, 飴
+top3 entities near to cluster12>>
+景色, 眺望, 景観
+top3 entities near to cluster13>>
+利用, 対応, 追加
+top3 entities near to cluster15>>
+特性値, 特性, 価値
+top3 entities near to cluster17>>
+眺め, 見, 間近
+top3 entities near to cluster18>>
+f, 1, 2
+top3 entities near to cluster19>>
+垂れ, 垂れる
+top3 entities near to cluster20>>
+値段, 買う, 安い
+top3 entities near to cluster21>>
+売店, 土産物, 直営
+top3 entities near to cluster22>>
+週末, 冬, 連休
+top3 entities near to cluster23>>
+時間, 休憩, 昼休み
+top3 entities near to cluster24>>
+食事, 朝食, 夕食
+top3 entities near to cluster25>>
+ご飯, 昼, お昼
+top3 entities near to cluster26>>
+お腹, おなか, オナカ
+top3 entities near to cluster27>>
+料理店, 料理
+top3 entities near to cluster28>>
+土産, おみやげ, 土産物
+top3 entities near to cluster29>>
+評判, 人気, 最高
+top3 entities near to cluster30>>
+名物, 定番, 特製
+top3 entities near to cluster31>>
+子供, 息子
+top3 entities near to cluster32>>
+盆, お盆, 休み
+top3 entities near to cluster33>>
+勧め, 奨め, ススメ
+top3 entities near to cluster34>>
+施設, 宿泊, 家族
+top3 entities near to cluster35>>
+牛乳, 牛, 牧場

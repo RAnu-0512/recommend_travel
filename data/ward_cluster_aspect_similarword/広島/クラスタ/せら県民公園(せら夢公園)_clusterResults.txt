@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:せら県民公園(せら夢公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+世羅ワイナリー, 広島県, 世羅夢公園, 世羅
+cluster1:(4)
+多目的広場, 交流広場, 遊具場, 遊具
+cluster2:(6)
+ほう, 気分, 加速, せらワイナリー, こと, 楽しみ方
+cluster3:(5)
+上, 近く, 場所, 屋根, 表面
+cluster4:(15)
+子, 体, スピード, アスパラ, 滑り台, 芝公園, 小学校, デザイン, オブジェ, レプリカ, ファミリー, 小学生, ピクニック, レストラン, こども
+cluster5:(4)
+園内, 広場, 弁当, 公園
+cluster6:(5)
+子供, 幼児, 学年, 大人, 家族
+cluster7:(3)
+対象年齢, 子供たち, 子供達
+
+howmany entities : 46
+howmany clusters : 8
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 8
+deleted 0entities.

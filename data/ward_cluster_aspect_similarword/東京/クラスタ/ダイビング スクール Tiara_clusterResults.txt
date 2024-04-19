@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイビング スクール Tiara>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+会話, 声
+cluster1:(3)
+ショップ, スタッフ, ショッピング
+cluster2:(2)
+行き帰り, 久しぶり
+cluster3:(1)
+プラン
+cluster4:(1)
+ボート
+cluster5:(1)
+方
+cluster6:(1)
+店
+cluster7:(1)
+海
+cluster8:(1)
+車中
+cluster9:(1)
+送迎
+cluster10:(1)
+☆次
+cluster11:(1)
+初島
+cluster12:(1)
+休憩所
+cluster13:(1)
+プチ旅行気分
+
+howmany entities : 18
+howmany clusters : 14
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 14
+deleted 0entities.

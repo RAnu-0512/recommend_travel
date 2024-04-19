@@ -1,0 +1,85 @@
+--------------------similar_words:宮島水族館「みやじマリン」--------------------
+top3 entities near to cluster0>>
+厳島, 嚴島, 神社
+top3 entities near to cluster4>>
+喜び, 姿, 機会
+top3 entities near to cluster5>>
+見せ, みせ, 見
+top3 entities near to cluster6>>
+年長, 成人, 年少
+top3 entities near to cluster7>>
+娘, 孫娘, 子
+top3 entities near to cluster8>>
+子供, 子ども, 大人
+top3 entities near to cluster9>>
+料金, 値段, 価格
+top3 entities near to cluster10>>
+種類, 数種類, 物の数
+top3 entities near to cluster11>>
+予定, 内容, 主旨
+top3 entities near to cluster12>>
+時間, 日数, 時
+top3 entities near to cluster13>>
+規模, 人数, 合同
+top3 entities near to cluster15>>
+一線, 画す, 第一線
+top3 entities near to cluster16>>
+ふれあい, 水族館, ペンギン
+top3 entities near to cluster17>>
+雰囲気, 印象, 楽しみ
+top3 entities near to cluster18>>
+グッド, コスパ, コストパフォーマンス
+top3 entities near to cluster19>>
+グッズ, マスク, カメラ
+top3 entities near to cluster20>>
+フェリー, タクシー, 旅客船
+top3 entities near to cluster21>>
+水族館, トラフザメ, イロワケイルカ
+top3 entities near to cluster22>>
+ベビーカー, カップル, 赤ちゃん
+top3 entities near to cluster23>>
+イベント, アトラクション, テーマパーク
+top3 entities near to cluster24>>
+スタンプ, おにぎり, Tシャツ
+top3 entities near to cluster25>>
+カフェ, ベンチ, トイレ
+top3 entities near to cluster26>>
+スナメリ, イルカ, スナメリクジラ
+top3 entities near to cluster27>>
+クラゲ, ヒトデ, イルカ
+top3 entities near to cluster28>>
+アザラシ, アシカ, ラッコ
+top3 entities near to cluster29>>
+太刀魚, イワシ, タチウオ
+top3 entities near to cluster30>>
+なまこ, ナマコ, あなご
+top3 entities near to cluster31>>
+イカダ, いかだ, 筏
+top3 entities near to cluster32>>
+イルカ, タコ, ショー
+top3 entities near to cluster33>>
+養殖, 水槽, 牡蠣
+top3 entities near to cluster34>>
+子供, 動物, 子ども
+top3 entities near to cluster36>>
+距離感, 距離, 親近感, 親近
+top3 entities near to cluster37>>
+時間, 日数, 年数
+top3 entities near to cluster38>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster40>>
+写真, 建物, 外観
+top3 entities near to cluster41>>
+バス, ミニ, マイクロバス
+top3 entities near to cluster42>>
+徒歩, 出口, 駅
+top3 entities near to cluster43>>
+桟橋, 島, 広場
+top3 entities near to cluster44>>
+土産, 散歩, おみやげ
+top3 entities near to cluster45>>
+見学, 実演, 展示
+top3 entities near to cluster46>>
+警報, 大雨, 豪雨
+top3 entities near to cluster47>>
+体験, 展示, 出展

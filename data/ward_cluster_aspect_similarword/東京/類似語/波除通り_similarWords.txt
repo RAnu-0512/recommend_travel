@@ -1,0 +1,23 @@
+--------------------similar_words:波除通り--------------------
+top3 entities near to cluster0>>
+案内, 所内, 休憩
+top3 entities near to cluster1>>
+神社, 境内, 稲荷
+top3 entities near to cluster2>>
+店舗, 本店
+top3 entities near to cluster3>>
+交差点, 清洲橋, 曹橋
+top3 entities near to cluster4>>
+大勢, 大半
+top3 entities near to cluster5>>
+計画, 構想, 立案
+top3 entities near to cluster6>>
+軒, 蕭亜, 耿伯
+top3 entities near to cluster7>>
+腰, ・・ギックリ, プチギックリ
+top3 entities near to cluster8>>
+中央, 区, 区内
+top3 entities near to cluster9>>
+市場店, 飲食店, 飲食, 市場
+top3 entities near to cluster10>>
+市場, 場外, 魚市場

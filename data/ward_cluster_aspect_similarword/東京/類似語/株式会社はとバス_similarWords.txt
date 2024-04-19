@@ -1,0 +1,29 @@
+--------------------similar_words:株式会社はとバス--------------------
+top3 entities near to cluster0>>
+挨拶, 案内, 受付
+top3 entities near to cluster1>>
+ツアー, 内容
+top3 entities near to cluster2>>
+ネタ, 話, 歴史
+top3 entities near to cluster3>>
+よう, わけ
+top3 entities near to cluster4>>
+個人, 会社, 企業
+top3 entities near to cluster6>>
+金, 金火, 土
+top3 entities near to cluster7>>
+予定, 時間, 参加
+top3 entities near to cluster8>>
+ツアー, ガイド, ガイドブック
+top3 entities near to cluster9>>
+トマト, スープ, イチゴ
+top3 entities near to cluster10>>
+街並み, 町並み, 町並
+top3 entities near to cluster12>>
+渋滞, 狩り, 混雑
+top3 entities near to cluster13>>
+料理, 座席, 女性
+top3 entities near to cluster14>>
+知識, 豆, 乃畑
+top3 entities near to cluster16>>
+バス, タクシー, 乗り継ぎ

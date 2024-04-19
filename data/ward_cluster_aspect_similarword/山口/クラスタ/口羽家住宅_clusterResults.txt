@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:口羽家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+住宅, 庭, 屋敷, 川
+cluster1:(5)
+間取り, 場所, 勉強, 方, ガイド
+cluster2:(3)
+周辺, 間, 近く
+cluster3:(2)
+内部, 建物
+cluster4:(2)
+光景, 贅沢
+cluster5:(1)
+萩
+cluster6:(1)
+喧騒
+cluster7:(1)
+鍵曲
+cluster8:(4)
+上級武士, 武家屋敷, 夏ミカン畑, 堀内地区
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

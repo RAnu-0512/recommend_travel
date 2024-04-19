@@ -1,0 +1,13 @@
+--------------------similar_words:萩藩主毛利家墓所[香山墓所]--------------------
+top3 entities near to cluster0>>
+萩, 石畳, 石垣
+top3 entities near to cluster1>>
+藩主, 正室, 世子
+top3 entities near to cluster2>>
+墓所, 墓碑
+top3 entities near to cluster3>>
+功労者, 功労, 功労賞
+top3 entities near to cluster4>>
+幕末, 維新, 明治維新
+top3 entities near to cluster5>>
+敬, 臨校, 就頼

@@ -1,0 +1,9 @@
+--------------------similar_words:大島全島観光ハイヤー(大島交通)--------------------
+top3 entities near to cluster1>>
+対応, 移動, 移行
+top3 entities near to cluster2>>
+時間, 所要
+top3 entities near to cluster3>>
+費用, 旅費, 経費
+top3 entities near to cluster4>>
+予約, 事前, 運転

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Deeva OCEAN FIELD 熱海>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+熱海, 熱海駅
+cluster1:(9)
+ダイビング, 面倒見, OWD, ダイブ, ライセンス, 施設, ファンダイブ, 初心者, 取得
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 1
+deleted 2entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:火山体験遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+遊歩道, 体育館
+cluster1:(1)
+近く
+cluster2:(1)
+内部
+cluster3:(1)
+跡地
+cluster4:(1)
+教室
+cluster5:(1)
+溶岩
+cluster6:(1)
+阿古小学校
+cluster7:(1)
+火山体験遊歩道
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

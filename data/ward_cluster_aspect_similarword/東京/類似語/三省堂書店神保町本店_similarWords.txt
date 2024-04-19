@@ -1,0 +1,27 @@
+--------------------similar_words:三省堂書店神保町本店--------------------
+top3 entities near to cluster0>>
+書店, 本屋, 古本屋
+top3 entities near to cluster1>>
+古書街, 古書店, 古書
+top3 entities near to cluster2>>
+館, 古書, 古本
+top3 entities near to cluster3>>
+専門書, 取扱書, 専門, 取扱
+top3 entities near to cluster4>>
+書店, 店舗, 本屋
+top3 entities near to cluster5>>
+時間数, 時数, 時間, 時
+top3 entities near to cluster6>>
+世話, 応援, 看病
+top3 entities near to cluster7>>
+学校, 大学, 自宅
+top3 entities near to cluster8>>
+書籍, 教科書, 本
+top3 entities near to cluster9>>
+サイン会, 委員会, サイン, 委員
+top3 entities near to cluster10>>
+潰し, つぶし, 時間
+top3 entities near to cluster11>>
+., 02, 01
+top3 entities near to cluster12>>
+書店, 三省堂, 本屋

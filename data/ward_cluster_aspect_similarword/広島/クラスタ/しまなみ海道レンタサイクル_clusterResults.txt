@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しまなみ海道レンタサイクル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+尾道〜今治, しまなみ海道, 尾道, 今治, 尾道港
+cluster1:(3)
+途中, 残り, 時間
+cluster2:(13)
+自転車, ペース, タイプ, ステーション, サドル, サイクリング, ガイドライン, ガイドブック, わがまま, レンタサイクル, ブルー, おすすめ, 上り坂
+cluster3:(2)
+クロスバイク, シティサイクル
+cluster4:(1)
+橋
+cluster5:(1)
+ギア
+cluster6:(13)
+もの, 係, 限界, 方, 有無, 場合, 体力, 理由, 返却, 事, 予約, 物, 故障
+cluster7:(6)
+絶景, 前側, 観光, 後ろ側, 景色, 電動自転車
+cluster8:(1)
+変速ギア
+
+howmany entities : 45
+howmany clusters : 9
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 9
+deleted 0entities.

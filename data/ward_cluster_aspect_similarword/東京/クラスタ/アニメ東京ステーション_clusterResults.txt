@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アニメ東京ステーション>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アニメ制作資料展示, 地下鉄車両展示
+cluster1:(2)
+東京都, 渋谷丸井2
+cluster2:(14)
+鉄腕アトム, ラリーARポイントスポット, フィギュア, キャラクターパネル, アニメファン, サイズクリアファイル, ガンダム, 地下, アニメツーリズム主催, 池袋, ミニフィギュア, デジタルスタンプ, 共催, 展示
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

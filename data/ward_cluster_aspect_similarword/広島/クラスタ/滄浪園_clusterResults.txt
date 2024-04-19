@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:滄浪園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+庭園, もの
+cluster1:(1)
+江戸時代
+cluster2:(1)
+豪農沖
+cluster3:(1)
+ダム建設
+cluster4:(1)
+滄浪園
+cluster5:(1)
+昭和49年記念公園
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

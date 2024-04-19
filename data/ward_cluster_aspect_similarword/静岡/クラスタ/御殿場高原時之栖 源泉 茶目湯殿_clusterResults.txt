@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御殿場高原時之栖 源泉 茶目湯殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+猛威, 寒さ, 寒波
+cluster1:(2)
+土, 木
+cluster2:(2)
+案内, 受付
+cluster3:(2)
+温泉, 絶景
+cluster4:(4)
+アメニティ, フィンランド, 囲炉裏, 富士山
+cluster5:(2)
+人, 方
+cluster6:(1)
+桜
+cluster7:(1)
+露天横
+cluster8:(3)
+開放感, 料金, 祝日料金
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 10entities.

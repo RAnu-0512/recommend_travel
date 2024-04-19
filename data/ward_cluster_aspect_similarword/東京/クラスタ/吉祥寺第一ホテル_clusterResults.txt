@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉祥寺第一ホテル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+目玉料理, 牛脂サイズ, 料理
+cluster1:(3)
+何種類, 種類, 種類ポット
+cluster2:(3)
+アフタヌーンティー, 紅茶, ティータイム
+cluster3:(2)
+量, 味
+cluster4:(7)
+娘, 最後, ろうそく, ポット, フォアグラ, 今回, 盛り付け
+cluster5:(2)
+状態, 時間
+cluster6:(1)
+訪問
+cluster7:(1)
+私達
+cluster8:(1)
+茶葉
+
+howmany entities : 23
+howmany clusters : 9
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 9
+deleted 0entities.

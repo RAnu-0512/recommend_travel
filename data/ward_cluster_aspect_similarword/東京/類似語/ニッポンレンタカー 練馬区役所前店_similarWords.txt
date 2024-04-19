@@ -1,0 +1,11 @@
+--------------------similar_words:ニッポンレンタカー 練馬区役所前店--------------------
+top3 entities near to cluster0>>
+スマホ, カーナビ, スマフォ
+top3 entities near to cluster1>>
+クルマ, 車両
+top3 entities near to cluster3>>
+設定, 変更, 描写
+top3 entities near to cluster4>>
+男性, 女性, スタッフ
+top3 entities near to cluster6>>
+首都, 高速, 道路

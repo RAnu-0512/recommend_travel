@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:皆生サニーテニスクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+皆生サニーテニスクラブ, 皆生温泉観光で皆生サニーテニスクラブ, 皆生海岸
+cluster1:(19)
+ショップ, トレーニングマシーン, インドアハードコート, テニスクラブ, オムニコート, シャワー, シングル, 屋外, アウトドアコート, 屋外コート, 皆生温泉街, 全天候型コート, 予想, 海岸横, シーズン, ハードコート, テニス, 友人, 施設
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 2
+deleted 0entities.

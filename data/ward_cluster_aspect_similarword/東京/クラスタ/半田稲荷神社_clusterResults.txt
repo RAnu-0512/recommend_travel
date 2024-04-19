@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:半田稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+歴史, 間, 感じ, 金町, 水元公園
+cluster1:(2)
+主祭神, 稲荷神社
+cluster2:(2)
+尾張徳川家の立願所, 倉稲魂神
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

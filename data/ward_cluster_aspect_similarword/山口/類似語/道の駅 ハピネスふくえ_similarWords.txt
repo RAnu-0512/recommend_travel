@@ -1,0 +1,13 @@
+--------------------similar_words:道の駅 ハピネスふくえ--------------------
+top3 entities near to cluster0>>
+駅道, 駅, 駅前
+top3 entities near to cluster1>>
+売店, 地元, 土産物
+top3 entities near to cluster2>>
+野菜, 果物, 食材
+top3 entities near to cluster3>>
+甘い, 夏, 冬
+top3 entities near to cluster4>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster5>>
+花屋, 苗, お花

@@ -1,0 +1,15 @@
+--------------------similar_words:JR原宿駅--------------------
+top3 entities near to cluster0>>
+建物, 外観, ビル
+top3 entities near to cluster1>>
+建築, 木造, 建設
+top3 entities near to cluster2>>
+記念, 撮影, 写真
+top3 entities near to cluster3>>
+工事, 改良, 改修
+top3 entities near to cluster4>>
+若者, 年寄, 文化
+top3 entities near to cluster6>>
+裏手, 世界, 入り口
+top3 entities near to cluster8>>
+駅, 駅前, 構内

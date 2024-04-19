@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大圓寺(東京都目黒区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+目黒, 山手七福神, 目黒駅, 坂, 東京急行電鉄目黒線, 東急目黒線, JR目黒駅, 目黒行人坂, 行人坂, 東急目黒駅
+cluster1:(4)
+御開帳, 御本尊, 御開帳日, 御賽銭
+cluster2:(2)
+大火, 火事
+cluster3:(9)
+開祖, 左側, 開催, 左手, 迫力, 碑, 由来, 参り, 跡
+cluster4:(19)
+途中, 商店, 近隣, 国, 日本橋, 人, 時代, 目黒川, アジア, 文化財, 浅草, ホテル雅叙園, 鎌倉, ルンビニ, 被害, 下り坂, 阿弥陀堂, 釈迦堂, 花祭り
+cluster5:(1)
+町先
+cluster6:(1)
+誕生日
+cluster7:(2)
+石仏, 石仏群
+cluster8:(3)
+仏像, 釈迦, 仏教
+cluster9:(3)
+本堂, 山門, 境内
+cluster10:(2)
+寺院, 寺
+cluster11:(1)
+金箔
+cluster12:(1)
+明王院
+cluster13:(10)
+生身釈迦如来像, 町民長屋, 羅漢像, 犠牲者供養, 東京都指定文化財, 甲子祭, 武家屋敷, 木造釈迦如来像, 八百屋お七ゆかり, 国指定文化財
+
+howmany entities : 68
+howmany clusters : 14
+howmany entities (more than1entities) : 68
+howmany clusters (more than1entities) : 14
+deleted 0entities.

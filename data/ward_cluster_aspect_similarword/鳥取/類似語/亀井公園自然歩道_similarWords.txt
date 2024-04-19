@@ -1,0 +1,13 @@
+--------------------similar_words:亀井公園自然歩道--------------------
+top3 entities near to cluster0>>
+周辺, 一帯, 遊歩道
+top3 entities near to cluster1>>
+文化, 歴史, 伝統
+top3 entities near to cluster2>>
+景観, 風景, 景色
+top3 entities near to cluster4>>
+街道, 風景, 町並み
+top3 entities near to cluster6>>
+国交省, 国交, 省内
+top3 entities near to cluster7>>
+歴史道, 遠望, 歴史

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジオリア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+成り立ち, ジオリア, 太平洋
+cluster1:(3)
+修善寺, 伊豆半島ジオパーク, 伊豆半島
+cluster2:(2)
+時間, 手前
+cluster3:(9)
+見学施設, 修善寺総合会館, 修善寺温泉街, 観光案内所, 学習施設, 施設, バス停総合会館, 展示施設, 海底火山
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 2entities.

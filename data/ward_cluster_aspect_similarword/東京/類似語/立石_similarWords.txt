@@ -1,0 +1,21 @@
+--------------------similar_words:立石--------------------
+top3 entities near to cluster0>>
+寿司屋, 寿司
+top3 entities near to cluster1>>
+寿司屋, 惣菜屋, 寿司, 惣菜
+top3 entities near to cluster2>>
+寿司, 鮨, すし
+top3 entities near to cluster3>>
+遊園, 児童, 子ども
+top3 entities near to cluster4>>
+繁華街, 路地, 繁華
+top3 entities near to cluster5>>
+立ち食い, 飲み食い, 立ち, 飲み
+top3 entities near to cluster6>>
+名称, 由来, 案内
+top3 entities near to cluster8>>
+飲食店, 店主, 飲食
+top3 entities near to cluster9>>
+駅, 改札, 構内
+top3 entities near to cluster12>>
+京成線, 京成, 京成電鉄

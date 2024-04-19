@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:CREA BASE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+陶芸, 芸術センス
+cluster1:(11)
+上手, 形, 機会, 方, こと, 満足, 部分, 手法, 作業, 器, もの
+cluster2:(15)
+出来上がり, 上がり, 初心者, ワークショップ, カップ, マーブル, プレート, 作り方, カフェ, クラス, ところ, マグカップ, コスパ, 姉さん, デザイン
+cluster3:(3)
+空間, 休日, 時間
+cluster4:(2)
+先生, 講師
+cluster5:(5)
+作品, 最後, 他, 最初, 参加
+cluster6:(4)
+店, 人, 彼氏, 友達
+cluster7:(1)
+完全初心者
+cluster8:(14)
+アクセサリー入れ, 楽しさ, マグカップ作り, 柄, 完成品, 柄付け, 模様, 完成, マーブル模様, 教え方, 併設, 記念日, 焼き上がり, 色
+cluster9:(13)
+絵画体験, カラー粘土, 皿作り, 体験会, 粘土, 皿づくり, 陶芸体験, 皿作り体験, 色粘土, 陶芸初体験, 体験, 皿, アートプレート体験
+
+howmany entities : 70
+howmany clusters : 10
+howmany entities (more than1entities) : 70
+howmany clusters (more than1entities) : 10
+deleted 0entities.

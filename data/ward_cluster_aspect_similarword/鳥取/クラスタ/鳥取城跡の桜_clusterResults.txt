@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取城跡の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鳥取市, 鳥取, 鳥取城跡
+cluster1:(2)
+夜桜, 桜
+cluster2:(2)
+東京, スマホ
+cluster3:(1)
+夜桜見物
+cluster4:(2)
+城跡入口, 観光客
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

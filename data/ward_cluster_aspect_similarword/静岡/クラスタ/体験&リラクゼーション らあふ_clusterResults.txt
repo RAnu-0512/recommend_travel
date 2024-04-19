@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:体験&リラクゼーション らあふ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+美味しさ, 料理, 味, 生地
+cluster1:(2)
+橋, 道
+cluster2:(3)
+最後, 次, 中
+cluster3:(2)
+時間, 場所
+cluster4:(10)
+ペンション, クリスマス, スタッフ, 笑, 感じ, 雰囲気, デザート, 待ち時間, サービス, 方
+cluster5:(1)
+体験
+cluster6:(6)
+自分達, 奥様, 竜人, 家族, 夫婦, 先生
+cluster7:(2)
+蕎麦打ち, 蕎麦打ち体験
+cluster8:(2)
+そば打ち体験, そば打ち
+cluster9:(2)
+そばうち体験, 蕎麦体験
+cluster10:(10)
+手作り豆乳プリン, 蕎麦うち, そば作り, 年越し蕎麦, そば粉, 茶そば, そば茶, 蕎麦, そば, ゆず蕎麦
+
+howmany entities : 44
+howmany clusters : 11
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 5
+deleted 11entities.

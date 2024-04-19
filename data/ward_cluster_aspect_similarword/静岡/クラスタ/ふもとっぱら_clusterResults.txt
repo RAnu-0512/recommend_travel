@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふもとっぱら>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+雨天, 野外
+cluster1:(2)
+時間, 背後
+cluster2:(3)
+テントサイズ, テント, タープ
+cluster3:(2)
+人, 子供
+cluster4:(5)
+マイナス, キャンパー, 薪割り, 富士山, ファミリー
+cluster5:(1)
+景色
+cluster6:(1)
+重視
+cluster7:(1)
+裾野
+cluster8:(1)
+子供連れ
+cluster9:(1)
+大泣き・富士山
+
+howmany entities : 19
+howmany clusters : 10
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 11entities.

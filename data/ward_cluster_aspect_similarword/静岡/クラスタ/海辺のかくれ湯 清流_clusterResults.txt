@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海辺のかくれ湯 清流>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+家族, 宿, 客室, 旅行, 食事, 部屋, 風呂
+cluster1:(4)
+貸切露天風呂, 温泉, 浴場, 日帰り温泉
+cluster2:(27)
+海側, フロント, 目, 恋人, 多く, 初めて, po, 西伊豆, 親友, プライベート感, 人, 気持ち, 夕日, 露天風呂, 景色, 祝い, 友達, 海, 中, 近く, 量, 清流, 味, 前, オーシャン, 想像, ns
+cluster3:(3)
+*^b^*, た.l(^, ぅ.g
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 4
+deleted 0entities.

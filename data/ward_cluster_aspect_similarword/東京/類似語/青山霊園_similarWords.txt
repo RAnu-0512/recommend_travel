@@ -1,0 +1,11 @@
+--------------------similar_words:青山霊園--------------------
+top3 entities near to cluster0>>
+人達, 名所, 人々
+top3 entities near to cluster1>>
+都立, 清瀬小児病院, 霊園
+top3 entities near to cluster2>>
+霊園, 斎場, 墓地
+top3 entities near to cluster3>>
+墓地, 霊園, 公営
+top3 entities near to cluster4>>
+外苑, 駅前, 駅

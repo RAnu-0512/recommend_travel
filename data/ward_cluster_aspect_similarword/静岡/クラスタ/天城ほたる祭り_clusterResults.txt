@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天城ほたる祭り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+男橋, 女橋
+cluster1:(2)
+出会い橋, 橋
+cluster2:(3)
+鑑賞, 観賞, ホタル観賞
+cluster3:(2)
+天城, 伊豆旅行
+cluster4:(8)
+光, 暗闇, ホタル達, 灯り, 祭り, ホタル祭り, 蛍, 提灯
+cluster5:(30)
+気, 雨, スロープ, 妻, 都会, 多く, 時期, ホテル, 川, 協会, シーズン, 係, 酒, 車椅子, 人, 付近, 会場, 感動, 感じ, ウチ, 上, 近く, 雰囲気, 夫婦, トイレ, ポツポツ, ホタル, サービス, 夕食, 方
+cluster6:(3)
+勾配, 混雑, 迷惑
+cluster7:(1)
+飛び方
+cluster8:(7)
+車, 送迎, バス, 宿, 旅館, 夜市, 公衆トイレ
+cluster9:(1)
+駐車場
+cluster10:(1)
+湯ヶ島温泉
+
+howmany entities : 60
+howmany clusters : 11
+howmany entities (more than3entities) : 51
+howmany clusters (more than3entities) : 5
+deleted 9entities.

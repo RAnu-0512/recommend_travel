@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:くのわき親水公園キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+もの, 問題, 感じ, 他, ほか, 方
+cluster1:(6)
+テント, 時間, コメント, ホームセンター, ウォシュレット, チェックアウト
+cluster2:(1)
+予約
+cluster3:(1)
+地面
+cluster4:(4)
+静岡県, 榛原郡, わき親水公園キャンプ場, 川根本町久野
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 3
+deleted 2entities.

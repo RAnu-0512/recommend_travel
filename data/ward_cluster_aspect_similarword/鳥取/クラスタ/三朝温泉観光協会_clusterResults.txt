@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三朝温泉観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+男性, 女性
+cluster1:(2)
+目, 前
+cluster2:(2)
+方々, 人
+cluster3:(2)
+地元, 隣
+cluster4:(1)
+私達
+cluster5:(11)
+パンフレット, マスコットキャラクター, ポケット, 出迎え, キャラ, 琴, 三味線, レンタサイクル, グループ, ホテル, 館内
+cluster6:(1)
+着ぐるみ
+cluster7:(3)
+演奏会, 毎週金, 演奏
+cluster8:(16)
+旅館, 観光, 三朝温泉, 満車状態, 小さなお土産屋, 宿泊案内, 公衆浴場, 三沢温泉, 観光案内, 旅館組合・商工会, たまわりの湯, 観光案内所, 駐車場, 温泉, 湯, 温泉街
+
+howmany entities : 40
+howmany clusters : 9
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 9
+deleted 0entities.

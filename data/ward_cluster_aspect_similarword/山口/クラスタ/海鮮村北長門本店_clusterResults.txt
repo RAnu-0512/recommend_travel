@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海鮮村北長門本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+試食, 土産コーナー, 土産, 昼食会場, 菓子, 土産物屋
+cluster1:(2)
+ショッピングコーナー, スナックコーナー
+cluster2:(3)
+ドライブイン, 魚介類, レストラン
+cluster3:(2)
+わさび, アワビ
+cluster4:(1)
+わかめふりかけ
+cluster5:(2)
+魚, 海鮮
+cluster6:(1)
+山口
+cluster7:(2)
+国道, バスツアー
+cluster8:(1)
+魚介系
+cluster9:(1)
+刺身食べ放題
+
+howmany entities : 21
+howmany clusters : 10
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 10
+deleted 0entities.

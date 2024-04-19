@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黒鐘公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+改札, 西国分寺駅
+cluster1:(2)
+季節, 桜
+cluster2:(2)
+周囲, 自然
+cluster3:(4)
+武蔵野線, 山, 国分寺, 滑り台
+cluster4:(2)
+途中, 中
+cluster5:(2)
+場所, 近く
+cluster6:(1)
+右
+cluster7:(3)
+散策, 傾斜, 跡
+cluster8:(6)
+鎌倉街道, 公園, 歴史公園, 黒鐘公園, 国分尼寺, 遺蹟公園
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 9
+deleted 0entities.

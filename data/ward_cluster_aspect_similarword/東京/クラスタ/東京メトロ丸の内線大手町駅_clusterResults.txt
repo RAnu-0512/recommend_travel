@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ丸の内線大手町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(26)
+大手町, 茶色, 割込み, オリンピック, もの, 三田線, 丸ノ内線, 丸の内, 他, 気持ち, ところ, 距離, 笑, 工事, ホーム, 路線, 案内, ぅー, 地下, 地下鉄, 東西線, 中, トラブル, 乗り継ぎ, 注意, 乗り換え
+cluster1:(3)
+線, 門線, 丸の内線
+cluster2:(2)
+東京駅, 東京メトロ
+cluster3:(2)
+乗り換え口, 改札
+cluster4:(3)
+JR, 駅, 大手町駅
+cluster5:(1)
+地下鉄各線
+cluster6:(1)
+整列乗車位置
+
+howmany entities : 38
+howmany clusters : 7
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 7
+deleted 0entities.

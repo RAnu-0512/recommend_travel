@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:龍神・仏陀の湯(北ホテル)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+サウナ, 女性
+cluster1:(1)
+ほう
+cluster2:(1)
+種類
+cluster3:(1)
+入浴
+cluster4:(1)
+日がえり
+cluster5:(1)
+龍神の湯
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

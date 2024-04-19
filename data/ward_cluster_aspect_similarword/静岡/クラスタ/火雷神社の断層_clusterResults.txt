@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:火雷神社の断層>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+伊豆, 地震, 横ずれ
+cluster1:(2)
+価値, 威力
+cluster2:(4)
+場所, 方, 近く, 地元
+cluster3:(2)
+神社, 公園
+cluster4:(3)
+断層, 北伊豆地震, 丹那断層
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 3
+deleted 4entities.

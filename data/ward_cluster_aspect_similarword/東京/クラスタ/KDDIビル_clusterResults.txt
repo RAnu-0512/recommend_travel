@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:KDDIビル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+オフィスビル, 建つビル, ビル, 高層ビル, KDDIビル
+cluster1:(2)
+国際電話, 国際電電
+cluster2:(16)
+入居, ホテル, 場所, テナント, 本社, 新宿駅, 建物, ロケ, 感じ, 見所, KDDI, 徒歩, 会社, KDD, こと, 西新宿
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

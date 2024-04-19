@@ -1,0 +1,9 @@
+--------------------similar_words:柳井醤油「甘露醤油」--------------------
+top3 entities near to cluster0>>
+甘い水, 湧水, 湧, 甘い
+top3 entities near to cluster1>>
+醤油, しょうゆ, しょう油
+top3 entities near to cluster2>>
+刺身, 刺し身, 醤油
+top3 entities near to cluster3>>
+歩き, 醤油

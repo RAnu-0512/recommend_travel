@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:nocturne candle>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+作品, 質問, テーマ性, 体験, キャンドル作り, 完成, 時間, 方, こと, 不安
+cluster1:(16)
+アロマサシェ, 店, 娘, キャンドル, 作り方, テーマ, アロマオイル, アロマキャンドル, 孫娘, 友達, キラキラ, 部屋, スポット, アドバイス, 先生, 雰囲気
+cluster2:(7)
+種類, 写真スポット, 写真, 素材, 貝殻, 香り, 色
+cluster3:(1)
+清潔感
+
+howmany entities : 34
+howmany clusters : 4
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 4
+deleted 0entities.

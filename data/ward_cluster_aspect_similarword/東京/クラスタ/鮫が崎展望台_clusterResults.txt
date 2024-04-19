@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鮫が崎展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東屋, 銅像
+cluster1:(10)
+意外, クジラ, 階段, こと, 夕日, 海, 目, 眺め, 船, 徒歩
+cluster2:(2)
+トウクジラ, 母島
+cluster3:(1)
+待合所
+cluster4:(1)
+展望台.
+cluster5:(1)
+ははじま丸
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城ヶ崎オレンジ村>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+時期, 方, 対応, もの, 時間, 感じ, 遅れ, 説明, 到着, 場所, 違うみかん
+cluster1:(12)
+タクシー, ニワトリ, ニューサマーオレンジ, 新幹線, オレンジ, みかん, 無制限, 持ち帰り, ベビーカー, ミカン, トイレ, ネット
+cluster2:(3)
+家族, 人, 子供
+cluster3:(5)
+オレンジ村, 土産, 鶏, 駅, 色
+cluster4:(6)
+別料金, 子供達, 大きさ, 電話連絡, 放置状態, 子供数
+cluster5:(4)
+ミカン狩り, 園内みかん食べ放題, みかん狩り, オレンジ狩り
+cluster6:(1)
+みかんじゅーす
+
+howmany entities : 42
+howmany clusters : 7
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 6
+deleted 1entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宇根のかたくり>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宇根のかたくりの里, 宇根かたくりの里
+cluster1:(2)
+かたくり, かたくり祭り
+cluster2:(9)
+こん, 下, 花, カタクリ, 水芭蕉, ピンク色, 加減, ドライブ, 里
+cluster3:(6)
+期間, 姿, 祭り, 人出, 飲食コーナー, 食事
+cluster4:(1)
+薄紫色
+cluster5:(4)
+特産品, 広島県, 観光客, 府中市
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 6
+deleted 0entities.

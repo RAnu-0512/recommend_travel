@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:洞慶院の梅園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+トイレ, 多く
+cluster1:(2)
+場所, 時期
+cluster2:(1)
+車
+cluster3:(4)
+梅園, 花, 梅, 静岡市街地
+cluster4:(2)
+道元禅師, 洞慶院
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 7entities.

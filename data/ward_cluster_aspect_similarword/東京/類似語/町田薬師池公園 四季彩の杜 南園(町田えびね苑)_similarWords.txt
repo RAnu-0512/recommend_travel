@@ -1,0 +1,11 @@
+--------------------similar_words:町田薬師池公園 四季彩の杜 南園(町田えびね苑)--------------------
+top3 entities near to cluster0>>
+両方, どちら, 双方
+top3 entities near to cluster1>>
+時期, 時季, 季節
+top3 entities near to cluster2>>
+自然, 豊か, 摂理
+top3 entities near to cluster3>>
+花壇, プランター, ガーデニングスペース
+top3 entities near to cluster4>>
+えび, エビ, 海老

@@ -1,0 +1,21 @@
+--------------------similar_words:日本文化体験 庵an東京--------------------
+top3 entities near to cluster0>>
+子供, 子ども
+top3 entities near to cluster1>>
+部屋, 和室, 椅子
+top3 entities near to cluster2>>
+洗面, お湯, 浴槽
+top3 entities near to cluster3>>
+靴, 靴箱, 手袋
+top3 entities near to cluster4>>
+衛生面, 衛生, 救業
+top3 entities near to cluster5>>
+雑居, ビル, 荷物
+top3 entities near to cluster8>>
+私語, 予約, 時間
+top3 entities near to cluster9>>
+参加, 作業, 準備
+top3 entities near to cluster10>>
+人数, 会議室, 会議
+top3 entities near to cluster11>>
+体験, 和菓子

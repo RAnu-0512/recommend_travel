@@ -1,0 +1,13 @@
+--------------------similar_words:夢みなと公園--------------------
+top3 entities near to cluster1>>
+施設, 敷地
+top3 entities near to cluster2>>
+公園, 散歩, 都市
+top3 entities near to cluster3>>
+海釣り, 景色, 海
+top3 entities near to cluster4>>
+南岸, 北岸, 西岸
+top3 entities near to cluster5>>
+海風, 潮風, 山風
+top3 entities near to cluster6>>
+公園, 駅前, 駐車

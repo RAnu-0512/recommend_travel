@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:呉探訪ループバスくれたん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+運転手, 運転
+cluster1:(10)
+方, タイト, 本数, レンタサイクル, 時間, 終了, 駅, 場所, バスターミナル, 合間
+cluster2:(4)
+運行, 散策, バス, ループバス
+cluster3:(9)
+呉探訪ループバス, 観光地, 呉駅, 呉観光, 観光スポット, 呉, 戦艦大和, 路線バス利用, 路線バス
+cluster4:(1)
+呉探訪ループバスくれたん
+
+howmany entities : 26
+howmany clusters : 5
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:亀甲山古墳--------------------
+top3 entities near to cluster0>>
+昔, 大昔, 確か
+top3 entities near to cluster1>>
+目蒲線, 東横線, 東急目蒲線
+top3 entities near to cluster2>>
+終点, 起点, 始点
+top3 entities near to cluster3>>
+遠足, 下車
+top3 entities near to cluster4>>
+駅, 駅前, 区

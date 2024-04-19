@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アニメイト池袋本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アニメイト池袋店, 池袋本店
+cluster1:(3)
+池袋駅, 池袋公園, 池袋
+cluster2:(1)
+豊島保健所
+cluster3:(1)
+日本最大級
+cluster4:(2)
+無料配布会, 製作委員会
+cluster5:(3)
+利用, 感じ, こと
+cluster6:(4)
+他, 前, 多数, 女性
+cluster7:(1)
+配布
+cluster8:(21)
+ゲーム, アニメイト, キャラクターグッズ, ガチャ, アニメ作品, カフェ, グッズ, DVD, イベント, ブラックホール, ムック, サンシャイン, ホール, 雑誌, CD, 書籍, メロンブックス, アニメグッズ, アニメ, マンガ, ゲーマーズ
+cluster9:(2)
+聖地, 聖地アニメイト
+cluster10:(3)
+跡地, 地下, 各階フロアー
+cluster11:(6)
+グループ店, アニメイト店舗, 店舗, 本店, 品数, 店内
+cluster12:(1)
+コラボ展示イベントギャラリー
+
+howmany entities : 50
+howmany clusters : 13
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 13
+deleted 0entities.

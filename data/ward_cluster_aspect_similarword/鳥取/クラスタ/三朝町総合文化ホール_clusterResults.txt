@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三朝町総合文化ホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+ロイヤルホテル, 役場, イベント, 建物, 掲示板, 観光, 休館日, 左隣り, 温泉街, 情報, 大ホール
+cluster1:(4)
+三朝温泉, 町みささ図書館, 三朝町総合文化ホール, 三朝町
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

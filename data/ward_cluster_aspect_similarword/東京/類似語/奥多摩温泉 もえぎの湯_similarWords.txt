@@ -1,0 +1,15 @@
+--------------------similar_words:奥多摩温泉 もえぎの湯--------------------
+top3 entities near to cluster1>>
+キー, 靴, シューズ
+top3 entities near to cluster2>>
+規制, 制限, 制約
+top3 entities near to cluster3>>
+旅, 緑
+top3 entities near to cluster4>>
+駅, 入口, 階段
+top3 entities near to cluster6>>
+温泉, 露天風呂, 内湯
+top3 entities near to cluster7>>
+温泉, 施設, 温泉郷
+top3 entities near to cluster8>>
+駐車場, 駐車料, 駐車

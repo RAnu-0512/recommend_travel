@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝陽カントリークラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コース, 手入れ
+cluster1:(1)
+周辺
+cluster2:(1)
+ゴルフ場
+cluster3:(1)
+丘陵コース
+cluster4:(1)
+朝陽カントリークラブ
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

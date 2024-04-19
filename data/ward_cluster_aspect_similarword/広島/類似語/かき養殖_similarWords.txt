@@ -1,0 +1,13 @@
+--------------------similar_words:かき養殖--------------------
+top3 entities near to cluster0>>
+牡蠣, 養殖, カキ
+top3 entities near to cluster1>>
+カキ, かき, 牡蠣
+top3 entities near to cluster3>>
+名物, 名店
+top3 entities near to cluster6>>
+身, 挺する, 挺す
+top3 entities near to cluster7>>
+参拝, お参り, 参詣
+top3 entities near to cluster8>>
+饅頭, まんじゅう, もみじ

@@ -1,0 +1,11 @@
+--------------------similar_words:松川湖--------------------
+top3 entities near to cluster0>>
+湖, 湖畔, ダム
+top3 entities near to cluster1>>
+光, 陽, 蛍
+top3 entities near to cluster3>>
+周り, 周囲, 外側
+top3 entities near to cluster4>>
+自然, 人工, 空気
+top3 entities near to cluster6>>
+紅葉, 桜, 満開

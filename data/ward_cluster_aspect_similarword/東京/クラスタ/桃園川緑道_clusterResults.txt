@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桃園川緑道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中野区, 杉並区
+cluster1:(2)
+緑, 緑道
+cluster2:(5)
+公園, フタ, 手前, 部分, 新宿
+cluster3:(1)
+桃園川
+cluster4:(1)
+住宅地
+cluster5:(1)
+阿佐
+cluster6:(1)
+ヶ谷
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

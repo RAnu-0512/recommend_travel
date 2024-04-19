@@ -1,0 +1,58 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清見寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+拝観者, 拝観料, 拝観
+cluster1:(6)
+東海道線, 朝鮮通信使, 東海道五, JR東海道, 王座, JR
+cluster2:(25)
+写真撮影, 電車, 本尊, 写真, 創建, 線路, 山門, 寺院, 天井, 寺, 敷地, 羅漢, 鐘, 庭, 桜, 名勝, 史跡, 和, 庭園, 方丈, 境内, 僧, 建物, 住職, 畳
+cluster3:(2)
+政治, 軍事
+cluster4:(2)
+庇護, 補佐
+cluster5:(2)
+接待, 訪問
+cluster6:(2)
+身, 勉学
+cluster7:(2)
+先回, 徒歩
+cluster8:(2)
+中, 上
+cluster9:(2)
+時間, 前
+cluster10:(1)
+続き
+cluster11:(1)
+受付
+cluster12:(3)
+奥, 箱, 外
+cluster13:(2)
+ガイド, ボランティア
+cluster14:(2)
+気持ち, 雰囲気
+cluster15:(3)
+御朱印, 手習い, 東海道
+cluster16:(1)
+血染め
+cluster17:(1)
+旅
+cluster18:(5)
+空間, 匂い, 所, 部屋, 場所
+cluster19:(11)
+見所, 方, 時期, 国, 歴史, もの, 感じ, 時代, 説明, こと, 価値
+cluster20:(3)
+空気感, 駐車場, 空気
+cluster21:(2)
+家康手植えの臥龍梅, 太原雪斎
+cluster22:(6)
+江尻宿, 興津駅, 興津宿, 清水駅, 清見潟, 清見興国寺
+cluster23:(4)
+幼少期, 江戸時代, 人質時代, 戦国時代
+cluster24:(5)
+家康公, 徳川家, 家康, 今川家, 徳川家康
+
+howmany entities : 98
+howmany clusters : 25
+howmany entities (more than3entities) : 74
+howmany clusters (more than3entities) : 11
+deleted 24entities.

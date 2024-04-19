@@ -1,0 +1,21 @@
+--------------------similar_words:須崎恵比須島--------------------
+top3 entities near to cluster0>>
+手袋, 装備, スーツ
+top3 entities near to cluster1>>
+遊歩道, 海沿い, 無人島
+top3 entities near to cluster3>>
+シュノーケル, シュノーケリング, スノーケリング
+top3 entities near to cluster4>>
+子供, 子ども, 母親
+top3 entities near to cluster7>>
+家族連れ, 子供連れ, 家族, 子供
+top3 entities near to cluster8>>
+大波, 高波, 台風
+top3 entities near to cluster10>>
+フグ, カニ
+top3 entities near to cluster11>>
+島岸, 島, 中洲
+top3 entities near to cluster12>>
+岩場, 砂浜, 浅瀬
+top3 entities near to cluster13>>
+散歩, 泳ぎ

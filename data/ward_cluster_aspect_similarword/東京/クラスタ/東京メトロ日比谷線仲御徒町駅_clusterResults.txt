@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ日比谷線仲御徒町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+上野, 昭和通り, JR, 御徒町, アメ横, 近く, 国道, 下, 日比谷線, 通称, ブラブラ, 乗り換え
+cluster1:(2)
+江戸線, 銀座線
+cluster2:(2)
+上野御徒町駅, JR御徒町駅
+cluster3:(5)
+仲御徒町駅, 駅名, 御徒町駅, 駅, 乗換駅
+
+howmany entities : 21
+howmany clusters : 4
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 4
+deleted 0entities.

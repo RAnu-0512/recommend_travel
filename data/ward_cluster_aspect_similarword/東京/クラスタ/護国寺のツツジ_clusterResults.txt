@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:護国寺のツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ツツジ, 仁王門
+cluster1:(1)
+護国寺
+cluster2:(1)
+花
+cluster3:(1)
+季節
+cluster4:(1)
+様子
+cluster5:(1)
+株
+cluster6:(1)
+階段
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

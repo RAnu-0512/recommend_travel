@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青海島観光汽船 特別企画サンセット漁火クルーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+岩, 夕陽
+cluster1:(1)
+芸術作品
+cluster2:(1)
+遊覧船
+cluster3:(1)
+青海島観光汽船 特別企画サンセット漁火クルーズ
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

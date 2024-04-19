@@ -1,0 +1,29 @@
+--------------------similar_words:道の駅 阿武町--------------------
+top3 entities near to cluster0>>
+カフェ, レストラン, ランチ
+top3 entities near to cluster1>>
+アイス, キウイ, ジャム
+top3 entities near to cluster2>>
+コート, フード
+top3 entities near to cluster4>>
+温泉, 湯, 露天風呂
+top3 entities near to cluster5>>
+食事, 飲み, 夕食
+top3 entities near to cluster6>>
+地酒, 土産, おみやげ
+top3 entities near to cluster7>>
+魚類, 淡水魚
+top3 entities near to cluster8>>
+食材, 野菜, 果物
+top3 entities near to cluster9>>
+店内, 店員
+top3 entities near to cluster10>>
+ふぐ, フグ, 河豚
+top3 entities near to cluster11>>
+塩, 萩, 鹿島
+top3 entities near to cluster12>>
+海, 夕日, 夕陽
+top3 entities near to cluster13>>
+施設, 駅, 駅前
+top3 entities near to cluster14>>
+稲荷, 神社, 太鼓

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急電鉄 渋谷駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+東横線, 地下道, 場所, 田園都市線, 人, 昭和, 工事, ホーム, 博物館, 中, ルート, 横浜, 乗り換え, 色
+cluster1:(2)
+迷宮, 女子大学
+cluster2:(14)
+地下駅, 両駅, 沿線, 路線, 駅, 再開発, 改札, 急行, 電車, 地下, 通勤, 方面, 周辺, 路線名
+cluster3:(5)
+副都心線, 二子玉川園駅, 東急線, 東急渋谷駅, 渋谷駅
+
+howmany entities : 35
+howmany clusters : 4
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 4
+deleted 0entities.

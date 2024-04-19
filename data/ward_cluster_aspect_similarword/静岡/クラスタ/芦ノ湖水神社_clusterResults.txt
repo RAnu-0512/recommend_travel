@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:芦ノ湖水神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水, 川
+cluster1:(9)
+もの, ところ, こじんまり, 歴史, 芦ノ湖, 元締め, 名前, 雰囲気, 前
+cluster2:(1)
+書体
+cluster3:(4)
+石柱, 神社, 境内, 本殿
+cluster4:(2)
+隧道, 御殿場線
+cluster5:(2)
+蘆, 箱根外輪山
+cluster6:(1)
+元締たち
+cluster7:(2)
+深良用水, 芦ノ湖水神社
+cluster8:(1)
+江戸時代初期の寛文
+
+howmany entities : 24
+howmany clusters : 9
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 11entities.

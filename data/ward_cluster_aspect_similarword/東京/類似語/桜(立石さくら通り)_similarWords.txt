@@ -1,0 +1,7 @@
+--------------------similar_words:桜(立石さくら通り)--------------------
+top3 entities near to cluster0>>
+機会, 景色, 光景
+top3 entities near to cluster1>>
+桜, さくら, 櫻
+top3 entities near to cluster3>>
+寿司屋, すし屋, 寿司, すし

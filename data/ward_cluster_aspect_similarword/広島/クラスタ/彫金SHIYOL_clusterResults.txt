@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:彫金SHIYOL>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島, 東京
+cluster1:(2)
+バングル作り, サイズ調整
+cluster2:(6)
+もの, 話, 経験, 機会, 時間, こと
+cluster3:(8)
+ワークショップ, 記念, ツチメ, お気に入り, 母, リング, 師匠, 思い出
+cluster4:(3)
+雑談, 職人, 講師
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉川経家公忌魂碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+碑, 岩国市, 命, 豊臣秀吉, 吉川経家, 食糧, 籠城, 家, 歴史, 話, 城兵, 鳥取城, 助命, 条件
+cluster1:(2)
+吉川経家公忌魂碑, 弔魂碑
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

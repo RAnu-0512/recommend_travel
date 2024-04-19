@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広電宮島口駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+原爆ドーム, JR, 広島, 街, こと, 駅, フェリー乗り場, 宮島, 広島駅, 時間
+cluster1:(2)
+広電, 路面電車
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

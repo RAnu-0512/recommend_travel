@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シーフロント初島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+初島, 熱海市
+cluster1:(7)
+ダイビング, 子ども, 外, ダイビングセンター, 顔, 説明, ところ
+cluster2:(2)
+水中, 水面
+cluster3:(3)
+魚, 船, 海
+cluster4:(1)
+注意事項
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 2
+deleted 5entities.

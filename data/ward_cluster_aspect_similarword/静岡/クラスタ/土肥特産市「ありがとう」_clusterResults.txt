@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:土肥特産市「ありがとう」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+直売所, 観光案内所
+cluster1:(3)
+土肥, 赤枇杷, 土肥温泉
+cluster2:(2)
+目, 前
+cluster3:(4)
+海産物, 柑橘類, 気持ち, スーパー
+cluster4:(2)
+もの, 方
+cluster5:(1)
+地元
+cluster6:(1)
+季節
+cluster7:(1)
+特大
+cluster8:(4)
+土産, 足湯, 野菜, 果物
+cluster9:(1)
+加工品
+cluster10:(6)
+駐車場, 駐車スペース, 店舗横, 店店員, 店, 店舗
+
+howmany entities : 27
+howmany clusters : 11
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 10entities.

@@ -1,0 +1,64 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京オペラシティアートギャラリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展示会, 展覧会, 展覧会内容
+cluster1:(2)
+常設展示, 常設展
+cluster2:(2)
+展示場, 展示物
+cluster3:(2)
+展, 展示
+cluster4:(2)
+企画展示, 企画展
+cluster5:(3)
+ロッカー室, 収蔵品, 展示室
+cluster6:(2)
+初台駅, 初台
+cluster7:(3)
+東京オペラシティアートギャラリー, 東京都, 東京ミュージアム
+cluster8:(2)
+新宿駅, 新宿区
+cluster9:(2)
+床, 天井
+cluster10:(2)
+アート, アートギャラリー
+cluster11:(2)
+クリスマスシーズン, こども
+cluster12:(2)
+ラジカセ, ロッカー
+cluster13:(11)
+コンサートホール, オブジェ, キリスト教, スポット, チケット, アクセス, キャンバス, オススメ, ミュージアムショップ, レストラン, ギャラリー
+cluster14:(1)
+国内外
+cluster15:(1)
+美術館
+cluster16:(1)
+西新宿
+cluster17:(2)
+人, ほか
+cluster18:(1)
+オペラシティ
+cluster19:(2)
+配列, 刀
+cluster20:(13)
+空間, 直結, 苦労, 動画, 企画, 作品, 割引, 時間, 足, 出口, 場所, 階, 上
+cluster21:(1)
+アラーキー
+cluster22:(1)
+広さ
+cluster23:(2)
+現代美術, 近代美術
+cluster24:(2)
+現代アート作品, 現代アート
+cluster25:(9)
+施設, 交通アクセス, 音楽, 建物, 建築, 美術, 宗教画, 芸術施設, パスチケット料金
+cluster26:(2)
+庁前駅, 白髪一雄
+cluster27:(1)
+京王線新線初台駅
+
+howmany entities : 79
+howmany clusters : 28
+howmany entities (more than1entities) : 79
+howmany clusters (more than1entities) : 28
+deleted 0entities.

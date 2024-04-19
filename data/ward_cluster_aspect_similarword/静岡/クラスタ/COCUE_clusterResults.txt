@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:COCUE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+思い出, 笑, 次, ハーバリウム, 仕上がり, アドバイス, ボトル
+cluster1:(4)
+事, 時間, 形, 話
+cluster2:(2)
+会話, 作成
+cluster3:(8)
+人生, 体験, お花, 祝い, 友達, 仲間, 先生, 季節
+cluster4:(1)
+何種類
+cluster5:(1)
+浜松
+cluster6:(1)
+駐車場
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 5entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:虎ヶ崎--------------------
+top3 entities near to cluster0>>
+半島, 虎ヶ崎, 俵ケ浦
+top3 entities near to cluster2>>
+灯台, 岬, 先端
+top3 entities near to cluster3>>
+海, 海岸, 山
+top3 entities near to cluster4>>
+景色, 眺め, 見所
+top3 entities near to cluster5>>
+勧め, 奨め, 薦め
+top3 entities near to cluster6>>
+北東部, 南東部, 北東, 南東
+top3 entities near to cluster7>>
+萩, 椿, 林

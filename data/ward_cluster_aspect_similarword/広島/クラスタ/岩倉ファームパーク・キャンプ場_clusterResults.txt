@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岩倉ファームパーク・キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+水場, 駐車場, キャンプ場
+cluster1:(14)
+日帰りBBQ, 近く, 川, トイレ, ☆川, BBQ, 場所, 値段, 夏場, キャンプ, 手続き, 受付, ほう, 広島市
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

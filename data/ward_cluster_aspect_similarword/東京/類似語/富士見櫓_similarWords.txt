@@ -1,0 +1,11 @@
+--------------------similar_words:富士見櫓--------------------
+top3 entities near to cluster1>>
+櫓, 天守, 天守閣
+top3 entities near to cluster2>>
+建物, 写真, 景色
+top3 entities near to cluster4>>
+上手, 下手, 上手い
+top3 entities near to cluster5>>
+逆光, 斜光, ピンぼけ
+top3 entities near to cluster7>>
+広い, 聴係, 聴室

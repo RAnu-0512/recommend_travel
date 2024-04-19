@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:帝釈川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+帝釈峡観光, 紅葉時期, バスツアー
+cluster1:(2)
+犬連れ, 自分たち
+cluster2:(18)
+上帝釈峡, 森林浴, 時期, 天然, 愛犬, 遊歩道, 方, 帝釈川周囲, 周辺, マイナスイオン, レンタル自転車, 徒歩, 帝釈川, 人, 散策, 清流, 帝釈峡, 緑
+cluster3:(1)
+広島県
+cluster4:(3)
+白雲洞, 帝釈川沿い, 清流沿い
+
+howmany entities : 27
+howmany clusters : 5
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 5
+deleted 0entities.

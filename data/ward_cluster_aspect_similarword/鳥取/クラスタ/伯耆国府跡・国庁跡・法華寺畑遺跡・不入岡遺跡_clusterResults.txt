@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伯耆国府跡・国庁跡・法華寺畑遺跡・不入岡遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+国庁, 国庁裏神社, 伯耆国庁
+cluster1:(4)
+国府・国分寺・不入岡, 国分尼寺, 伯耆国府跡, 伯耆国分寺
+cluster2:(12)
+平安, 入岡遺跡, 倉吉市, 遺跡巡り, 役所跡, 奈良, 国指定史跡, 指定名称, 時代, 国府, 倉庫, 跡
+cluster3:(4)
+伯耆国府跡 国庁跡 法華, 寺畑遺跡 不入岡遺跡, 法華寺畑遺跡・不入岡遺跡, 法華寺畑遺跡
+
+howmany entities : 23
+howmany clusters : 4
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 4
+deleted 0entities.

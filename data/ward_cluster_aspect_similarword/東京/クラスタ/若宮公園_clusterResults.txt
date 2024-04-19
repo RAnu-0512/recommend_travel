@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:若宮公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+外濠公園, 上が公園, 区立公園, 若宮公園
+cluster1:(5)
+裏手, 公園, 飯田橋駅, ビル, 徒歩
+cluster2:(9)
+所, 場所, 何か, 神楽坂, 週末, 喜び, 東京理科大学, 対応, こと
+cluster3:(1)
+休憩所
+cluster4:(9)
+和風公園, 子供, 菓子付きゲーム, 和風, 夏祭り, 江戸時代, 武家屋敷, 金魚すくい, 子供たち
+
+howmany entities : 28
+howmany clusters : 5
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 5
+deleted 0entities.

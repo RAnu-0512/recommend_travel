@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ東西線 日本橋駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京駅, 東京メトロ
+cluster1:(2)
+東京都, 都
+cluster2:(28)
+店, 越前駅, 三越, COREDO日本橋, 高島屋, 日本橋, エスカレーター工事, 神戸屋, 近く, 交差点, 浅草線, 名前, 構造, ホーム, 停車駅, 駅, 改札, 地下, 地下鉄, 前, 東西線, 日本橋駅, 銀座線, 目, 乗り換え駅, 乗り換え, パン屋, 階段
+
+howmany entities : 32
+howmany clusters : 3
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 3
+deleted 0entities.

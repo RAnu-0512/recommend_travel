@@ -1,0 +1,19 @@
+--------------------similar_words:都営三田線 日比谷駅--------------------
+top3 entities near to cluster0>>
+開始, 利用, 時間
+top3 entities near to cluster2>>
+乗り換え, 乗り換える, 乗換え
+top3 entities near to cluster3>>
+三田線, 営団赤塚, 麹町
+top3 entities near to cluster4>>
+地下鉄, 有楽町線, メトロ
+top3 entities near to cluster5>>
+賑わい, 真っ最中, 賑わう
+top3 entities near to cluster6>>
+地下, ・・デパ, 地階
+top3 entities near to cluster7>>
+運賃, 傘, ドア
+top3 entities near to cluster8>>
+帝国, 劇場, アエリカ
+top3 entities near to cluster9>>
+駅線, 駅, 構内

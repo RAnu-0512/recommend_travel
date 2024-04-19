@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北条時頼の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+緑, 地, 人々, 紫陽花, ゆかり, 入口, 時期, 左側
+cluster1:(3)
+分骨, 墓, 廟
+cluster2:(4)
+北条, 北条時頼, 明月院, 執権
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 0entities.

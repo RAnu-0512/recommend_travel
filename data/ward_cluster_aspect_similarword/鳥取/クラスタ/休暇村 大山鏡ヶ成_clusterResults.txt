@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:休暇村 大山鏡ヶ成>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+景色, 絵
+cluster1:(7)
+シャンプー, ボディーソープ, コンディショナー, 温泉, 子供, 物, 大人
+cluster2:(1)
+日帰り入浴
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

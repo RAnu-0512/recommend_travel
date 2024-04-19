@@ -1,0 +1,11 @@
+--------------------similar_words:錦帯橋のう飼--------------------
+top3 entities near to cluster0>>
+鵜飼い, かがり火, 鵜匠
+top3 entities near to cluster2>>
+歴史, 伝統
+top3 entities near to cluster3>>
+衣装, 衣裳, コスチューム
+top3 entities near to cluster4>>
+小舟, 舟
+top3 entities near to cluster5>>
+飼, 飼い, 羊

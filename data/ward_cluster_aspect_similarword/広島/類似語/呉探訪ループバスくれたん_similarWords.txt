@@ -1,0 +1,9 @@
+--------------------similar_words:呉探訪ループバスくれたん--------------------
+top3 entities near to cluster0>>
+運転手, 運転, 同乗
+top3 entities near to cluster1>>
+時間, 本数, 合間
+top3 entities near to cluster2>>
+バス, 運行, 周遊
+top3 entities near to cluster3>>
+バス, 路線, 周遊

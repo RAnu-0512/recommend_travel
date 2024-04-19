@@ -1,0 +1,5 @@
+--------------------similar_words:東京メトロ丸ノ内線中野坂上駅--------------------
+top3 entities near to cluster1>>
+駅, 電車, 地下鉄
+top3 entities near to cluster2>>
+乗降, 降車, 乗客

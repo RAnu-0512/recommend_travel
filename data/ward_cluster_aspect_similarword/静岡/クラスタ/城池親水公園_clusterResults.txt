@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:城池親水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+親水, 親水公園
+cluster1:(2)
+池, 城池
+cluster2:(7)
+車, 所, 釣り, 釣り場, 人, 向こう, 道
+cluster3:(6)
+裏手, 緑, 丘, 公園, 右手, 民家
+cluster4:(1)
+堰
+cluster5:(1)
+左中央
+cluster6:(1)
+駐車場
+cluster7:(6)
+韮山反射炉, 代官江川邸, 江川邸, 伊豆の国市, 韮山, 韮山城址
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 7entities.

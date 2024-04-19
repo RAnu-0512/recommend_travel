@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シェルミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+手形, フロンティアビル
+cluster1:(13)
+オイル, カフェ, グッズ, 人, ガソリンスタンド, 方法, 施設, 興味, 時間, ミュージアム, シェルミュージアム, シューマッハ, 展示
+cluster2:(4)
+F1ドライバー・シューマッハ, 昭和シェル, F1, 東京テレポート駅
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

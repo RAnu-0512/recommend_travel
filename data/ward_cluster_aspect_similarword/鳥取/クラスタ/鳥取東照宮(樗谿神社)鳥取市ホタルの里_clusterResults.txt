@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥取東照宮(樗谿神社)鳥取市ホタルの里>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+樗谿神社, 樗谿川
+cluster1:(18)
+時期, 交通, ホタル, 外, 蛍, 神社, 公園, 紅葉, 表参道, 駐車場, 気持ち, 多数, 里, 雰囲気, 掃除, 子供, 川, 場所
+cluster2:(3)
+おうちだに公園, 鳥取市, 鳥取駅
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

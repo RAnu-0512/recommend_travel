@@ -1,0 +1,11 @@
+--------------------similar_words:南桜公園--------------------
+top3 entities near to cluster0>>
+駅, 駅前, 構内
+top3 entities near to cluster1>>
+桜, 八重桜, 公園
+top3 entities near to cluster2>>
+トイレ, ベンチ
+top3 entities near to cluster4>>
+裏側, ウラ
+top3 entities near to cluster6>>
+雑踏, 喧騒, 喧噪

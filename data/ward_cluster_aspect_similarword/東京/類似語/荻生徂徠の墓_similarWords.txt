@@ -1,0 +1,11 @@
+--------------------similar_words:荻生徂徠の墓--------------------
+top3 entities near to cluster0>>
+風情, 界隈, 趣き
+top3 entities near to cluster1>>
+寺院, お寺, 浄土宗
+top3 entities near to cluster2>>
+本堂, 山門, 境内
+top3 entities near to cluster3>>
+石碑, 墓碑
+top3 entities near to cluster4>>
+徂徠, 綱吉, 家光

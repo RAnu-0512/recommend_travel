@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ビーズ装飾デザイン研究所 colore labo>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+色選び, 色
+cluster1:(22)
+作品, ガラス, スタート, モンペ, ヴェネチアンガラス, 薔薇, 花びら, 他, 街並み, ところ, とりどり, チューリップ, ビーズ, 体験, colore labo, 時間, お花, 中, 次, アドバイス, 先生, シルク
+cluster2:(2)
+日暮里駅, 電車
+cluster3:(3)
+店, 脇道, 店先
+cluster4:(1)
+谷中
+cluster5:(1)
+谷中ぎんざ入口
+
+howmany entities : 31
+howmany clusters : 6
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Eucalyblue aroma.t 東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(31)
+方達, 別, アロマ作り, 人, 姉さんたち, 誕生日, 種類, 思い, ほか, 初体験, 夢, 興味, 体験, 数, 友達, 効果, 好み, 時間, 中, 勉強, こと, 方, 物, 祝い, 先生, 感じ方, 満足, 説明, 複数人, もの, 経験
+cluster1:(3)
+ベースノート, ミドルノート, トップノート
+cluster2:(3)
+オイル, ランプ, アロマ
+cluster3:(6)
+エジプト, アトリエ, アロマテラピー, エッセンシャルオイル, アロマオイル, ロールオン
+cluster4:(2)
+ところ, ポイント
+cluster5:(8)
+組み合わせ, オススメ, オリジナル, お気に入り, イメージ, プレゼント, アドバイス, ハプニング
+cluster6:(1)
+オマケ
+cluster7:(3)
+作り方, 思い出, 入れ物
+cluster8:(1)
+プラン
+cluster9:(6)
+匂い, 容器, 精油, 瓶, 香料, 香り
+cluster10:(8)
+香水, 香水作り, 香水作り体験, 香水選び, 香水ビン, 種類もの香り, アロマ香水, 香水瓶
+
+howmany entities : 72
+howmany clusters : 11
+howmany entities (more than1entities) : 72
+howmany clusters (more than1entities) : 11
+deleted 0entities.

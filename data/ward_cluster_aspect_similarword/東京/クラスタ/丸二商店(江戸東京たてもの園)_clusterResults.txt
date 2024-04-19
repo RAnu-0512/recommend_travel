@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:丸二商店(江戸東京たてもの園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食器, 鍋
+cluster1:(2)
+昭和, 初期
+cluster2:(6)
+造り, 模様, 外観, 建物, 荒物屋, 店内
+cluster3:(2)
+丸二商店, 銅板片
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

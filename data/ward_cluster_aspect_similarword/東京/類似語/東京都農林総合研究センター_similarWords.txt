@@ -1,0 +1,11 @@
+--------------------similar_words:東京都農林総合研究センター--------------------
+top3 entities near to cluster0>>
+建物, 一部, 家屋
+top3 entities near to cluster1>>
+庭園, 中庭, 茶室
+top3 entities near to cluster2>>
+試験, 受験, 合格
+top3 entities near to cluster3>>
+農園, 農場, 農家
+top3 entities near to cluster4>>
+開館, 時間, 閉館

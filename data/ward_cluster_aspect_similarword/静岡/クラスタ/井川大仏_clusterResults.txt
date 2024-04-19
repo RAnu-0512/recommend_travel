@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井川大仏>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大仏様, 井川大仏, 大仏
+cluster1:(2)
+御利益, 歯科医
+cluster2:(2)
+こと, 方
+cluster3:(1)
+地元
+cluster4:(3)
+階段, 掃除, 歯
+cluster5:(1)
+駐車場
+cluster6:(1)
+歯科医師
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 7entities.

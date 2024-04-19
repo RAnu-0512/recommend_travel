@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:時代おくれの宿 山岸園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山岸園, 昭和, 昭和感
+cluster1:(2)
+温泉, 湯
+cluster2:(10)
+周辺, 車, 子供, 部屋, ご飯, 意味, 露天風呂, 日帰り, 中, 量
+cluster3:(1)
+湾岸
+cluster4:(1)
+貸切風呂
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 4entities.

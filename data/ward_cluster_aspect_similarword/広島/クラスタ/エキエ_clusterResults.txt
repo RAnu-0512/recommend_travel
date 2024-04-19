@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:エキエ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+商業施設., 商業施設
+cluster1:(13)
+店, 飲食店, 雑貨, 土産売り場, 開店, 本屋, おみやげ館, 土産, 品数, 土産屋, 銘菓, 駅, 土産物屋
+cluster2:(3)
+レモン大福, みかん大福, 大福
+cluster3:(2)
+広島, 広島駅
+cluster4:(2)
+もの, 人
+cluster5:(2)
+目, 前
+cluster6:(1)
+次回
+cluster7:(3)
+味, 客, 食事
+cluster8:(1)
+新幹線口
+cluster9:(8)
+ランチ, スーパー, ドラッグストア, コンビニ, イタリアンロール, アンデルセン, アバンセ, レストラン
+cluster10:(2)
+明太子, やまや
+cluster11:(1)
+江田島
+cluster12:(2)
+中央, 中国
+cluster13:(1)
+高菜
+
+howmany entities : 43
+howmany clusters : 14
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 14
+deleted 0entities.

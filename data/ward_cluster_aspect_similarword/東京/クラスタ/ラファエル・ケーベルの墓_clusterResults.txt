@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ラファエル・ケーベルの墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+谷霊園, 雑司ヶ谷霊園
+cluster1:(17)
+場所, 外国人, 一帯, 外国, 形, 墓, 影響, 墓石, 音楽, 日本, 哲学, 横浜, 雰囲気, 明治, 雑司, 十字架, 音楽史
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

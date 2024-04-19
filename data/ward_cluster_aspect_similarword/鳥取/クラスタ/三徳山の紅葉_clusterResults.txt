@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三徳山の紅葉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三朝温泉, 国宝投げ入れ堂
+cluster1:(25)
+時期, 山, 車, 赤, 中, 黄色, ドライブ, 木々, 徳山, 雨, 紅葉狩り, 紅葉, 素晴らしさ, ほう, 自然, 人, 見頃, ・・・・・, オレンジ, 景色, 岩, 赤黄, かなり車, 時間, コントラスト
+
+howmany entities : 27
+howmany clusters : 2
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 2
+deleted 0entities.

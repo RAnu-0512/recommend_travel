@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ふるさと農具館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+館内, 昔, 町田, 野菜, 農協, 前, 販売, 展示
+cluster1:(3)
+ふるさと農具館, 大工道具, 農具
+cluster2:(3)
+資料館, 昔の丸い郵便ポスト, 郷土資料館
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

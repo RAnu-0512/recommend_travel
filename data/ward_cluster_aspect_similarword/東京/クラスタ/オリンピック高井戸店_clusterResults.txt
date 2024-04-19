@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オリンピック高井戸店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+オリンピック高井戸店, 食品, 袋菓子, 駐車場, 食品利用, ペット用品
+cluster1:(18)
+ディスカウント価格, 東京都, 高井戸, ガーデニング, スーパー, ペットコーナー, 利用, 感じ, 販売, 花見, 家族, 車, 買い物, 徒歩, 高井戸東, 来店, 高井戸駅, もの
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

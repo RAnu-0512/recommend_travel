@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鬼岩寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+鬼岩寺, 御朱印, 穴, 伝説, 鬼, 石塔, 人々, 鬼岩, 弘法大師空海, 護摩堂, 岩穴, 裏山, 寺
+cluster1:(2)
+黒犬, 写真左
+cluster2:(1)
+鬼かき石
+cluster3:(1)
+行基上人
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 1
+deleted 4entities.

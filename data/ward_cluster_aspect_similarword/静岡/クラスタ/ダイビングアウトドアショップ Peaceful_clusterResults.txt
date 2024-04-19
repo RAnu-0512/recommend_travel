@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイビングアウトドアショップ Peaceful>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+ダイビング, 手洗い, スタッフ, ウェットスーツ, 気さく, インストラクター, ペース
+cluster1:(3)
+こと, 場所, 方
+cluster2:(3)
+現地, 建物, 写真
+cluster3:(1)
+要望
+cluster4:(1)
+更衣室
+
+howmany entities : 15
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 2entities.

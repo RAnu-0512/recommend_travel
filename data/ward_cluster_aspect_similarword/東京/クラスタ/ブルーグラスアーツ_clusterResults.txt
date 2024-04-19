@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブルーグラスアーツ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大人, 子供, 子供たち
+cluster1:(2)
+ガラス細工, 色ガラス
+cluster2:(2)
+配送, 店頭
+cluster3:(2)
+道具, 器
+cluster4:(2)
+スタッフ, マンツーマン
+cluster5:(2)
+イメージ, デザイン
+cluster6:(1)
+雰囲気
+cluster7:(1)
+小学校
+cluster8:(1)
+ガラス
+cluster9:(7)
+作品, 話, 失敗, 模様, 方, 説明, もの
+cluster10:(1)
+相談
+cluster11:(1)
+都
+cluster12:(1)
+所要時間
+cluster13:(1)
+某科学漫画
+
+howmany entities : 27
+howmany clusters : 14
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 14
+deleted 0entities.

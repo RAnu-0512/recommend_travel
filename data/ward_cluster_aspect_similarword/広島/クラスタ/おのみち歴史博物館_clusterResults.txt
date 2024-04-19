@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おのみち歴史博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+映画資料館, 資料館
+cluster1:(2)
+銀行, 銀行浜
+cluster2:(2)
+尾道, 尾道銀行
+cluster3:(2)
+扉, 金庫
+cluster4:(3)
+もの, 方, 感じ
+cluster5:(3)
+建物, ゆかり, 博物館
+cluster6:(2)
+展示, 資料
+cluster7:(1)
+本店
+cluster8:(1)
+地
+cluster9:(2)
+書画, 土器
+cluster10:(1)
+展示室
+cluster11:(1)
+共通券
+
+howmany entities : 22
+howmany clusters : 12
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 12
+deleted 0entities.

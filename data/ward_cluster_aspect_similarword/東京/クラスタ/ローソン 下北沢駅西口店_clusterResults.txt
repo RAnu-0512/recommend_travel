@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ローソン 下北沢駅西口店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+販売, 縮小
+cluster1:(4)
+場所, 付近, こと, くせ
+cluster2:(9)
+コンビニ, バックルーム, コーヒー, おなじみ, ローソン, 下北沢, 買い物, ホットコーヒー, マスク
+cluster3:(3)
+人, 雑誌, 女性
+cluster4:(1)
+深夜
+cluster5:(1)
+パン
+cluster6:(1)
+態度
+cluster7:(4)
+マチカフェ, 西口, 駅, 下北沢駅
+cluster8:(8)
+からあげクン, 大部分カード, 酒類棚, レジ, 雑誌売り場半分以下, 南西口店, 空棚, セルフレジ
+
+howmany entities : 33
+howmany clusters : 9
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 9
+deleted 0entities.

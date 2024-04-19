@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雄橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+素晴らしさ, 雄大さ
+cluster1:(2)
+峡谷, 洞窟
+cluster2:(2)
+鬼, 岩
+cluster3:(3)
+晩秋, 水, 夏
+cluster4:(13)
+閑寂, 遊歩道, コラボレーション, スニーカー, スポット, ドラマ, 帝釈川, アップダウン, 石灰岩, 天然記念物, 帝釈峡, 自然, せせらぎ
+cluster5:(3)
+迫力, 自信, 力
+cluster6:(2)
+アーチ形, 形
+cluster7:(5)
+歴史, 世界, 国, 道, 年間
+cluster8:(7)
+もの, 途中, 下, 方, 気分, こと, 場所
+cluster9:(2)
+供養塔, 浸食作用
+cluster10:(11)
+駐車場, 気温, 紅葉, 造形美, 帝釈峡観光, 紅葉時期, 散策路, 造形, 景色, バスツアー, 景観
+cluster11:(11)
+白雲洞, 渓谷沿い, 広島県, 庄原市, 川沿い, 天然橋, 橋, 川, 唐門, 東城町, 雄橋
+
+howmany entities : 63
+howmany clusters : 12
+howmany entities (more than1entities) : 63
+howmany clusters (more than1entities) : 12
+deleted 0entities.

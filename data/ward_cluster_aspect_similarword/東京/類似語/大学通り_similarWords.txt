@@ -1,0 +1,27 @@
+--------------------similar_words:大学通り--------------------
+top3 entities near to cluster1>>
+モミジ, 葉っぱ, イチョウ
+top3 entities near to cluster2>>
+カフェ, ホテル, カップル
+top3 entities near to cluster3>>
+サイド, メイン, ストリート
+top3 entities near to cluster4>>
+歩道橋, 大通り, 陸橋
+top3 entities near to cluster8>>
+景色, 散策, 景観
+top3 entities near to cluster9>>
+道路, 歩道
+top3 entities near to cluster10>>
+季節, 新緑, 紅葉
+top3 entities near to cluster11>>
+大学店, 駅前店, 大学, 駅前
+top3 entities near to cluster12>>
+駅, 国立, 駅前
+top3 entities near to cluster13>>
+国立, シンバヒルズ, 大学
+top3 entities near to cluster14>>
+谷保, 谷保天満宮, 国立
+top3 entities near to cluster15>>
+桜, 並木, 道路
+top3 entities near to cluster16>>
+満開, 桜, 春

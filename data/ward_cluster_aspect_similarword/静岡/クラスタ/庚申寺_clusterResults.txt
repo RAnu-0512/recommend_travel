@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:庚申寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石畳, 参道
+cluster1:(4)
+雰囲気, 花, 造り酒屋, 寺
+cluster2:(2)
+門前町, 紺屋
+cluster3:(1)
+舞 酒造
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 5entities.

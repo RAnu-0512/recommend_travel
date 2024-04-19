@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真田城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+終了, 大河ドラマ, こと, ドラマ, テレビ, DVD, 放送, 光景, 遅れ
+cluster1:(5)
+桜, 開花, 屋台, 花見, 季節
+cluster2:(1)
+見物客
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 2
+deleted 1entities.

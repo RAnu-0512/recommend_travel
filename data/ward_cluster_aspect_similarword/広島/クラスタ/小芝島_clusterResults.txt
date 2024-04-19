@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小芝島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+大芝島, 引き潮, 方, 海, ハート
+cluster1:(2)
+道, 橋
+cluster2:(1)
+潮
+cluster3:(1)
+ハート型
+cluster4:(3)
+広島県, 安芸津町, 東広島市
+cluster5:(1)
+大芝大橋
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

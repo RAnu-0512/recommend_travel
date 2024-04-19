@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:太閤平>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+秀吉本陣, 鳥取城
+cluster1:(9)
+感, 山, 写真, 到着, 案内板, 右手, 草木, 跡, 場所
+cluster2:(1)
+太閤ヶ平
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

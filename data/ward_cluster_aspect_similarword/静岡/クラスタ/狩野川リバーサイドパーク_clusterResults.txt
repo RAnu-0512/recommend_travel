@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狩野川リバーサイドパーク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+富士山, 富士見, 上
+cluster1:(2)
+子供, 夏
+cluster2:(1)
+程度
+cluster3:(5)
+散歩, 遊具, テニスコート, 公園, 伊豆長岡駅
+cluster4:(1)
+缶コーヒー
+cluster5:(1)
+総合公園
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than3entities) : 8
+howmany clusters (more than3entities) : 2
+deleted 5entities.

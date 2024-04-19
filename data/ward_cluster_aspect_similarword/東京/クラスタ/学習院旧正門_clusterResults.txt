@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:学習院旧正門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+重厚感, 存在感
+cluster1:(17)
+欠点, 場所, 国, 学習院大学, 感じ, 和洋折衷, 女子大, 所在地, 経緯, 赤, 印象, 朱色, 看板, デザイン, 歴史, スポット, 色
+cluster2:(9)
+目白, 門, 西早稲田駅, 正門, 田中, 公家, 明治, 女子大学, 新宿
+cluster3:(4)
+警備員, 年代物, 建造物, 建造
+cluster4:(2)
+指定重要文化財, 国指定重要文化財
+cluster5:(2)
+神田錦町, 戸山町
+cluster6:(3)
+学習院女子大学, 学習院, 学習所
+cluster7:(2)
+付属中高女子, 女子大・高校・中学
+
+howmany entities : 41
+howmany clusters : 8
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 8
+deleted 0entities.

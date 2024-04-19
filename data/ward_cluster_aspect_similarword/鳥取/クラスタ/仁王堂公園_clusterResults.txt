@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:仁王堂公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+カラス天狗, カラス天狗像
+cluster1:(3)
+周辺, 辺り, 周囲
+cluster2:(2)
+目, もの
+cluster3:(1)
+眺め
+cluster4:(1)
+像
+cluster5:(1)
+視界
+cluster6:(9)
+大山, 車, 所子, 芝生, 公園, 田園, 雲, 昼食, 蕎麦
+cluster7:(1)
+海側
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

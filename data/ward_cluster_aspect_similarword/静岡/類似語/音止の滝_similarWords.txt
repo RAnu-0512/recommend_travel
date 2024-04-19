@@ -1,0 +1,13 @@
+--------------------similar_words:音止の滝--------------------
+top3 entities near to cluster1>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster2>>
+止音, 止, 鳴り
+top3 entities near to cluster5>>
+迫力, 勢い, 落差
+top3 entities near to cluster9>>
+イオン, 遊歩道, バス停
+top3 entities near to cluster12>>
+駅, 公園, 構内
+top3 entities near to cluster13>>
+滝, 展望, 瀑布

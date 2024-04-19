@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:菖蒲沢海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+石拾い, 石, 水晶
+cluster1:(2)
+気分, 転換
+cluster2:(2)
+海岸, 岩場
+cluster3:(4)
+場所, 人気, 金, 冬場
+cluster4:(1)
+透明度
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 5entities.

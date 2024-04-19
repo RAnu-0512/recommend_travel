@@ -1,0 +1,13 @@
+--------------------similar_words:お茶の水貝塚--------------------
+top3 entities near to cluster0>>
+工事, 施工, 建設
+top3 entities near to cluster1>>
+貝類, 貝塚, 貝
+top3 entities near to cluster2>>
+駅, 地下鉄, 構内
+top3 entities near to cluster3>>
+石碑, 遺跡, 遺構
+top3 entities near to cluster4>>
+フェンス, 出入り口, 入り口
+top3 entities near to cluster5>>
+縄文, 土器, 石器

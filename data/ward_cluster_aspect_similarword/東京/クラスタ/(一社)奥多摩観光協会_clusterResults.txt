@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:(一社)奥多摩観光協会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光客, 観光案内所
+cluster1:(14)
+方, 応対, 対応, 奥多摩駅, スタッフ, 情報, 職員, パンフレット, 目, 駅目, 奥多摩, 前, 飲食店, 散策マップ
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

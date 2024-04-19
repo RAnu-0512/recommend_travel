@@ -1,0 +1,19 @@
+--------------------similar_words:赤瓦十号館 倉吉白壁土蔵群観光案内所--------------------
+top3 entities near to cluster0>>
+絶景, 穴場, 秘境
+top3 entities near to cluster1>>
+建物, 外観, 外壁
+top3 entities near to cluster4>>
+駐車場, 駐車, 満車
+top3 entities near to cluster5>>
+散策, 歩き, 散歩
+top3 entities near to cluster6>>
+名所, 周遊, 名所旧跡
+top3 entities near to cluster7>>
+案内, 名所, 宿泊
+top3 entities near to cluster9>>
+琴, 櫻, 桜
+top3 entities near to cluster10>>
+瓦, 赤, 煉瓦
+top3 entities near to cluster11>>
+土蔵群, 土蔵, 商家群, 商家

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 青砥駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+時間ぎりぎり, 予約, 説明, 営業, 事前, レンタカー
+cluster1:(6)
+駅, 車種, レンタカー店, 店, 道, 値段
+cluster2:(1)
+青砥駅
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

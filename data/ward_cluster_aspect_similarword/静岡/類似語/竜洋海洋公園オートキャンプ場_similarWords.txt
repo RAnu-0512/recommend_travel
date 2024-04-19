@@ -1,0 +1,23 @@
+--------------------similar_words:竜洋海洋公園オートキャンプ場--------------------
+top3 entities near to cluster0>>
+海洋, 公園, 交園
+top3 entities near to cluster2>>
+キャンプ, バーベキュー, コテージ
+top3 entities near to cluster3>>
+ビール, カレー, バーベキュー
+top3 entities near to cluster5>>
+ベッド, サウナ, プール
+top3 entities near to cluster7>>
+サイト, 初心者, ビギナー
+top3 entities near to cluster8>>
+女性人, 子供, 女性
+top3 entities near to cluster14>>
+充実, 安全, 謝罪
+top3 entities near to cluster17>>
+子供, 家族, 子ども
+top3 entities near to cluster21>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster23>>
+施設, 敷地, 設備
+top3 entities near to cluster24>>
+野菜, 食材, 産直

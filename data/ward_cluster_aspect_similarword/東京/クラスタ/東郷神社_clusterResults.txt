@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東郷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+勝負, 勝守り, いざっ勝負
+cluster1:(2)
+近く, 程度
+cluster2:(2)
+自体, 当時
+cluster3:(2)
+中, 途中
+cluster4:(1)
+目
+cluster5:(8)
+方, こと, 感じ, 事, 位置, 所, 場所, もの
+cluster6:(2)
+人, 男性
+cluster7:(10)
+最寄り駅, 御朱印, お守り, 雰囲気, 横須賀, これ程, カメラ, 結婚式, 気持ち, 博物館
+cluster8:(5)
+笑顔, そば, 神, 裏, 勝利
+cluster9:(1)
+勝守
+cluster10:(1)
+釣り
+cluster11:(1)
+運
+cluster12:(3)
+風格, 態度, 名将
+cluster13:(31)
+公園工事, 三笠, 海軍, 渋谷, 邸宅, 結婚式場, 軍, 千代田区, 街歩き, 解説文, 艦隊, 庭園, 神前式, 軍艦, 写真, 参道, 歴史画, 境内, 都会, 神社, 緑, 明治, 新宿, 元帥, 公園, 喧騒, 関係写真, 神宮, Z旗, 空気, ゴミ
+cluster14:(9)
+原宿観光, ラフォーレ原宿, 竹下口, 竹下通り, 街 原宿, 原宿, 原宿駅, 原宿竹下通り, JR原宿駅
+cluster15:(2)
+東郷公園, 東郷神社
+cluster16:(3)
+東郷, 東郷平八郎, 東郷大将
+cluster17:(1)
+東郷記念館
+cluster18:(6)
+由緒正しき神社, 日露戦争, 司令官画像, 海軍大将, 社務所, 乃木大将
+cluster19:(1)
+軍艦三笠記念館
+cluster20:(1)
+明治神宮→竹下通り→東郷神社
+
+howmany entities : 95
+howmany clusters : 21
+howmany entities (more than1entities) : 95
+howmany clusters (more than1entities) : 21
+deleted 0entities.

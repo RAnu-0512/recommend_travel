@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:GREENLife JOURNAL>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+夫婦, 男性
+cluster1:(5)
+作品, 次, レベル, STEP, 時間
+cluster2:(3)
+緑, 民家, 植物
+cluster3:(1)
+不器
+cluster4:(1)
+観葉植物
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

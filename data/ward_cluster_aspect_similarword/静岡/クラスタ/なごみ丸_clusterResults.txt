@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:なごみ丸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+釣り, 船釣り, 釣りたて, 釣り初心者
+cluster1:(2)
+釣具, 釣果
+cluster2:(3)
+子供連れ, 連れ, 子供たち
+cluster3:(2)
+魚, 鯛
+cluster4:(2)
+鯵, アジ
+cluster5:(1)
+鯖
+cluster6:(4)
+途中, 止め, 上, 前
+cluster7:(3)
+こと, 方, もの
+cluster8:(2)
+問題, 違い
+cluster9:(1)
+経験
+cluster10:(1)
+味
+cluster11:(1)
+親切
+cluster12:(5)
+家族, 息子, 夫婦, 子供, 旦那
+cluster13:(2)
+船, 船長
+cluster14:(10)
+サポート, イサキ, 餌, イワシ, 思い出, 魚群, ポイント, 大きめサイズ, アコウダイ, 棚
+cluster15:(3)
+光, 波, 天気
+
+howmany entities : 46
+howmany clusters : 16
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 7
+deleted 14entities.

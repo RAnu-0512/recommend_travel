@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Stainedglass Pastel>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+間近, 完成, 工程
+cluster1:(11)
+作品, 空間, 彼女, 他, 話, 顔, 友達, 時間, 先生, キャンドル作品, 妻
+cluster2:(18)
+ガラス, サプライズ, 初心者, アトリエ, グラス, キャンドル, 作り方, テーブルキャンドル, こだわり, テープ, 軍手, 思い出, ランプハウス, グリップ, デザイン, 半田, ステンドグラス, アクシデント
+cluster3:(1)
+ヒビ
+cluster4:(8)
+何か, 誕生日, 思い, 感激, 事, 機会, 教え方, 伺い
+cluster5:(6)
+品作り, 職人技, 体験, キャンドル作り, キャンドル作り体験, ステンドグラス作り
+
+howmany entities : 47
+howmany clusters : 6
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 6
+deleted 0entities.

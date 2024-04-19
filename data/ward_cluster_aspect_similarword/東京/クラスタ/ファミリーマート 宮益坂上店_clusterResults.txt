@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ファミリーマート 宮益坂上店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+旨味抹茶, 抹茶
+cluster1:(8)
+人, ファミマ, ファミリーマート, 渋谷, 道, 期待マックス, 時間, 通りがかり
+cluster2:(1)
+宮益坂
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

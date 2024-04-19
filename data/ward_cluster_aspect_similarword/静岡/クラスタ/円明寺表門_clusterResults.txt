@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円明寺表門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+目, 日蓮宗, 表門, こと, 門, 風格, もの, 山門, 初め, 花, 正門, 明治, 東海道, 火事, 円明寺, 季節, 寺
+cluster1:(2)
+三島駅, 三島宿
+cluster2:(2)
+本陣, 樋口本陣
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 1
+deleted 4entities.

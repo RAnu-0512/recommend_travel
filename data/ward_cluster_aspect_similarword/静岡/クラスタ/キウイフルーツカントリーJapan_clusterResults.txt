@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キウイフルーツカントリーJapan>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+食べ比べ, 食べ放題, キウイ食べ放題, キーウィ食べ放題, キウイが食べ放題
+cluster1:(2)
+バーべキュー, キイウイ
+cluster2:(18)
+意見, 投稿, 種類, 時間, 方, 時期, 中何時間, 笑, 様子, 中, 点, 施設, もの, 目的, 場所, 投稿者, こと, 別
+cluster3:(3)
+動物達, 動物, 動物たち
+cluster4:(6)
+キウイ, ゴールドキウイ, キウイ狩り, キウイパン, おもしろキウイ, キウイフルーツ
+cluster5:(2)
+散歩, 散策
+cluster6:(22)
+スタッフ, アクセサリー, ウサギ, ターザンロープ, トイレ, 草刈り, ポニー, 食べ頃, コスパ, ランチバッグ, 生き生き, ゲージ, ターザン, 恩返し, BBQ, スポット, うさぎ, スタイル, キューイ, 口コミ, バーベキュー, キュウイフルーツ
+cluster7:(6)
+環境, 改善, 管理, 自然, 猛暑, 呼吸
+cluster8:(2)
+売店, 農園
+cluster9:(2)
+水, 命
+cluster10:(2)
+子供, 子
+cluster11:(3)
+人, 周り, 友人
+cluster12:(1)
+顔
+cluster13:(1)
+客
+cluster14:(1)
+陰
+cluster15:(2)
+情熱, 愛情
+cluster16:(3)
+鳥, ヤギ, 羊
+cluster17:(2)
+縄, 鎖
+
+howmany entities : 83
+howmany clusters : 18
+howmany entities (more than3entities) : 66
+howmany clusters (more than3entities) : 8
+deleted 17entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白山比_神社(白山神社)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西, 神
+cluster1:(7)
+こと, 由来, 間, 方, 東照宮, 人, エジソン
+cluster2:(2)
+絢爛, 加賀
+cluster3:(5)
+御由緒, 岩国藩, 白山神社, 神社, 社殿
+cluster4:(5)
+錦帯橋近くの吉香公園, 白山比め神社, 明治二十三, 岩国城ロープウェイ麓駅, 吉香神社
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

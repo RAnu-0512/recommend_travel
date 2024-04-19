@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天然温泉ざぶ〜ん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+最後, 落ち着き久しぶり, ヌルヌル, コロナ, 施設, 温泉, すべて, 普通, ポスター, 湯, かけ流し, 塩分, 日帰り温泉
+cluster1:(3)
+露天つぶ風呂, 高濃度温泉, 天然温泉ざぶ
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 0entities.

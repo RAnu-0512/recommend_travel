@@ -1,0 +1,15 @@
+--------------------similar_words:すずめのお宿緑地公園--------------------
+top3 entities near to cluster0>>
+区内, 区, 駅
+top3 entities near to cluster1>>
+水辺, 憩い, 都会
+top3 entities near to cluster2>>
+在地, 領主, 豪族
+top3 entities near to cluster5>>
+公園, 宿, 温泉
+top3 entities near to cluster6>>
+民家, 古, 家屋
+top3 entities near to cluster7>>
+住宅地, 住宅街, 住宅
+top3 entities near to cluster8>>
+ヤバ, 構内, ヤバイ

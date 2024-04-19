@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中村正直墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+墓, 墓石, 墓碑, 墓地
+cluster1:(3)
+五重塔跡地, 寺, 境内
+cluster2:(5)
+方, 明治, 目, りょうごんじ, 西
+cluster3:(2)
+説明板, 中村正直
+cluster4:(1)
+谷中霊園
+cluster5:(1)
+了ごん寺
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

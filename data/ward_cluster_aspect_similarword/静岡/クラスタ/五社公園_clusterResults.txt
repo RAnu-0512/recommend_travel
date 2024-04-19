@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:五社公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+市役所, 入り口, 草, 昔, オススメ, 道
+cluster1:(4)
+散策, 広場, 跡地, 石碑
+cluster2:(5)
+五社公園, 五社神社, 参拝ついでに公園, 諏訪神社, 復興記念館
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 3
+deleted 0entities.

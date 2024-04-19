@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士山御殿場・はこね観光案内所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光案内所, 観光地, 御殿場市観光協会
+cluster1:(12)
+御殿場駅, 東海旅客鉄道御殿場線, 目, 御殿場市, 電動レンタサイクル, 普通, 前, 逆側, 自転車, 御殿場アウトレット, 駅, レンタサイクル
+cluster2:(2)
+箱根乙女口, 富士山口
+
+howmany entities : 17
+howmany clusters : 3
+howmany entities (more than3entities) : 15
+howmany clusters (more than3entities) : 2
+deleted 2entities.

@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三明寺古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+倉吉市, 倉吉観光
+cluster1:(2)
+道順, 案内標識
+cluster2:(2)
+柵, 石柱柵
+cluster3:(5)
+山, 山道, 中腹あたり, 裏山, 斜面
+cluster4:(2)
+三明寺橋, 寺
+cluster5:(5)
+扉, コ, 大型, 石, 周囲
+cluster6:(1)
+巌城
+cluster7:(1)
+南向き
+cluster8:(1)
+山名寺
+cluster9:(1)
+石屋形状施設
+cluster10:(5)
+古墳, 岩屋延命地蔵尊, 三明寺古墳, 史蹟三明寺古墳, 横穴式石室
+
+howmany entities : 27
+howmany clusters : 11
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 11
+deleted 0entities.

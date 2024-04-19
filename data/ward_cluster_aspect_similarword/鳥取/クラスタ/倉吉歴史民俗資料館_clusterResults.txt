@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉吉歴史民俗資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+民俗資料, 倉吉資料館, 民俗資料館, 資料館, 歴史民俗資料館
+cluster1:(5)
+倉吉市, 打吹公園, 倉吉絣, 倉吉博物館, 鳥取県
+cluster2:(16)
+農業, 歴史, 勉強, 明治, 農機具, 考古, 時代, 昔, 展示室, 生活, 見ごたえ, 博物館, 展示物, 大正, 打吹山, 廊下
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 3
+deleted 0entities.

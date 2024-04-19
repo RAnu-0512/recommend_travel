@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:朝日稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+東銀座駅, 銀座三越, 松屋銀座店, 松屋銀座, 銀座, 松屋通り
+cluster1:(2)
+朝日稲荷神社, 稲荷神社
+cluster2:(2)
+拝殿, 本殿
+cluster3:(3)
+屋上, 真ん中ビル, ビル
+cluster4:(7)
+前あたり, 場所, 最寄り駅, 間, 方, 中, 道
+cluster5:(2)
+都会, 京都
+cluster6:(2)
+森, 鳥居
+cluster7:(1)
+王子ホール
+cluster8:(1)
+場所柄
+cluster9:(1)
+商売繁盛
+
+howmany entities : 27
+howmany clusters : 10
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 10
+deleted 0entities.

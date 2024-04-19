@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ステンドグラス体験工房「グラスメイト」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供達, 子供
+cluster1:(2)
+製作時間, 時間
+cluster2:(2)
+作品, 話
+cluster3:(6)
+作り方, リクエスト, 醍醐味, おやすみランプ, お気に入り, リピート
+cluster4:(2)
+方, 利用
+cluster5:(1)
+主人
+cluster6:(4)
+予約, 都合, 予定, 変更
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 7
+deleted 0entities.

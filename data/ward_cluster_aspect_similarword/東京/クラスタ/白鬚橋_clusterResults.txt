@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白鬚橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+南千住, 東向島
+cluster1:(4)
+スカイツリー, 隅田川, 白鬚橋, 最寄り駅
+cluster2:(1)
+浅草
+cluster3:(1)
+橋
+cluster4:(4)
+光景, 車, 場所, 改修
+cluster5:(1)
+通行
+cluster6:(4)
+隅田川花火大会, 石浜神社, 花火, 白髭公園
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:MAKAI HALE>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+興味, 通勤, デトックス, アロマ, スペース, カフェ, こと, 香り, 精油, 海, スプレー, ルームスプレー, ハーブティー, 心
+cluster1:(2)
+住む市, 和菓子屋
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

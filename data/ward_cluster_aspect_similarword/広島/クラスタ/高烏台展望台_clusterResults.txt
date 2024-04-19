@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高烏台展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+眺め, 心, 砲台, 瀬戸内海, 高台, 車, 夕日, 要塞, 海軍, 海, 扇子, 景色, 近く, 伝説, 名称, 右手, 島々
+cluster1:(5)
+瀬戸, 瀬戸公園, 音戸, 四国, 清盛
+cluster2:(5)
+駐車場, 砲台跡, 展望台, 高烏台, 日招き像
+
+howmany entities : 27
+howmany clusters : 3
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,17 @@
+--------------------similar_words:キドキドよみうりランド店--------------------
+top3 entities near to cluster0>>
+天気雨, 天気, 休日
+top3 entities near to cluster1>>
+スタッフ, ランド, アトラクション
+top3 entities near to cluster2>>
+キドキド, 遊び場, 子ども
+top3 entities near to cluster3>>
+身体, からだ
+top3 entities near to cluster4>>
+喜び, 夢, 歓び
+top3 entities near to cluster6>>
+安全係, 管理係, 安全, 管理
+top3 entities near to cluster7>>
+屋内, 施設, 遊具
+top3 entities near to cluster8>>
+子供, 子ども

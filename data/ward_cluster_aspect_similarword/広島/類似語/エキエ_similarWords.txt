@@ -1,0 +1,19 @@
+--------------------similar_words:エキエ--------------------
+top3 entities near to cluster0>>
+商業, 施設, 焚八
+top3 entities near to cluster1>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster2>>
+いちご, 塩豆, 大福餅
+top3 entities near to cluster6>>
+次週, 来週, 前回
+top3 entities near to cluster7>>
+食事, 料理
+top3 entities near to cluster8>>
+新幹線口, 新幹線, から口
+top3 entities near to cluster9>>
+コンビニ, ランチ, レストラン
+top3 entities near to cluster10>>
+やまや, 明太子, かねふく
+top3 entities near to cluster13>>
+高菜, 紅しょうが, 明太子

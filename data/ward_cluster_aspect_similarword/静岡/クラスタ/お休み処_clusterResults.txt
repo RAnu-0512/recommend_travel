@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お休み処>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+天保年間, 江戸時代, 時代劇
+cluster1:(8)
+本陣跡, 木造家屋, 建物, 和泉屋, 東海道, 旅籠, 蒲原宿, 感じ
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 0entities.

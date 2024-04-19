@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:呉市水道局三永水源地堰堤>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+藤, 花
+cluster1:(7)
+名物, こと, 印象, 効果, 下, 禁止, レベル
+cluster2:(1)
+衰弱
+cluster3:(3)
+藤棚, 駐車場, 藤棚全体
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

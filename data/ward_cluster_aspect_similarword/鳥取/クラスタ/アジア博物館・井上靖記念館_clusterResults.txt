@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アジア博物館・井上靖記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アジア館, 記念館
+cluster1:(15)
+舞台, 本, 中心, 作品, 展示, 中, モンゴル, アジア, 交流, 敷地, 今回, ペルシャ, 博物館, 施設, 文化
+cluster2:(3)
+中国, 大陸, 日本モンゴル博物館
+cluster3:(2)
+西域, 敦煌
+cluster4:(2)
+ペルシャ織, ゲル
+cluster5:(3)
+出石町, 豊岡市, 近隣諸国
+cluster6:(3)
+井上靖, 司馬遼太郎, 井上靖記念館
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 7
+deleted 0entities.

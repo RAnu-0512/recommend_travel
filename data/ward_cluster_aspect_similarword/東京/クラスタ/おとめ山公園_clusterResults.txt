@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おとめ山公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ホタル飼育小屋, 徳川家の狩猟場, ホタル鑑賞会, 狩猟場
+cluster1:(2)
+住宅地, 住宅街
+cluster2:(25)
+都会, 氷川神社, 北側, 木々, 自然, 池, 芝生, 公園, ホタル, 野鳥, 開園時間, 子供, 近く, 広場, 江戸時代, 将軍家, 猫寺, 鬱蒼, 中, 雰囲気, GWあけ, 注意, 高田馬場駅, 都心, 森公園
+cluster3:(3)
+御留山, 新目白通り, 湧水
+cluster4:(1)
+自性院
+cluster5:(4)
+新宿区観光マップ落合地区, 林芙美子記念館, 佐伯祐三アトリエ記念館, 中村つねアトリエ記念館
+
+howmany entities : 39
+howmany clusters : 6
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:亀屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+亀屋の川通り餅, 菓子川通り餅
+cluster1:(5)
+川餅, 川通りもち, 川通り餅, 川通餅, 川通り
+cluster2:(6)
+味, 甘さ, 風味, 甘み, 美味しさ, 食感
+cluster3:(33)
+広島, もの, 一口サイズ, オススメ, 中, 店, 和菓子, 方, 広島駅, 昔, 期限, 友達, 粉, 人気, サイズ, 定番, CM, 人, くせ, もみじ, 機会, きな粉, クルミ, 爪楊枝, 他, 手土産, こと, 上質, 値段, 桃, 胡桃, おみやげ, もみじまんじゅう
+cluster4:(2)
+和菓子屋, 菓子屋
+cluster5:(2)
+菓子類, 菓子
+cluster6:(14)
+亀屋, 元祖きなこ餅, 御土産, 饅頭, 名店, 名物, 求肥, もみじ饅頭, 土産, 名物和菓子, きなこ餅, 銘菓, 餅, 豆大福
+cluster7:(1)
+デパ地下
+
+howmany entities : 65
+howmany clusters : 8
+howmany entities (more than1entities) : 65
+howmany clusters (more than1entities) : 8
+deleted 0entities.

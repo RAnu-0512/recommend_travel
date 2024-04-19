@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:牧之原公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡県, 島田市
+cluster1:(8)
+駐車場, 牧ノ原公園, 茶, 牧之原公園, 茶園, 公園, 茶畑, 牧ノ原台地
+cluster2:(2)
+牧之原大, 高峰
+cluster3:(16)
+カップル, きらきら, 大井川, 一角, 像, 富士見町, カタクリ, 富士山, 駿河湾, 正面, 高台, スポット, 町並み, 場所, 夕方, 伊豆半島
+cluster4:(9)
+美しさ, 夜景, 景観, 眺め, 展望スポット, 景色, 眺望, 山々, 天気
+
+howmany entities : 37
+howmany clusters : 5
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 3
+deleted 4entities.

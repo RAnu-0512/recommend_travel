@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千頭峯城址>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+遺構, 城跡, 城
+cluster1:(6)
+秋, 草, 途中, トンネル, 木, 方
+cluster2:(2)
+山道, 靴
+cluster3:(1)
+オレンジロード沿い
+cluster4:(1)
+駐車場
+cluster5:(3)
+曲輪, 南北朝時代, 南曲輪
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 3
+deleted 4entities.

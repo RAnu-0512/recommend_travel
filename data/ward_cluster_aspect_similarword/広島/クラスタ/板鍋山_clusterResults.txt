@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:板鍋山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 東広島市
+cluster1:(2)
+山頂, 紅葉
+cluster2:(2)
+板鍋山, アンテナ
+cluster3:(1)
+紅葉狩り
+cluster4:(1)
+周辺
+cluster5:(1)
+赤
+cluster6:(1)
+眺め
+cluster7:(1)
+鍋山
+cluster8:(1)
+展望台
+
+howmany entities : 12
+howmany clusters : 9
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 9
+deleted 0entities.

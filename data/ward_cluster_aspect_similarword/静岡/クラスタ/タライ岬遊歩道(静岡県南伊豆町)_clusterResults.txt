@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:タライ岬遊歩道(静岡県南伊豆町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+逢ヶ浜, 龍宮窟
+cluster1:(7)
+タライ岬, タライ岬遊歩道, 海岸, 岬, 海岸コース, 海岸沿い, 海岸線
+cluster2:(35)
+車, 石廊崎, 魚, 周り, お薦め, 田牛, 途中, 帽子, 岩場, 南伊豆, 森, 弓ヶ浜, 穴, 林, 方, 伊豆諸島, 海沿い, 太平洋, コース, 階段, 気持ち, 奥, 方向, 遊歩道, 海, 中, 距離, 先, 場所, 先端, 石, トンネル, オススメ, 竜宮, 道
+cluster3:(2)
+静岡県, 休暇村南伊豆
+cluster4:(2)
+駐車場, 運動靴
+cluster5:(7)
+散歩コース, 健脚コース, 奇岩, 景色, 観光, 散策途中, 絶景
+
+howmany entities : 55
+howmany clusters : 6
+howmany entities (more than3entities) : 49
+howmany clusters (more than3entities) : 3
+deleted 6entities.

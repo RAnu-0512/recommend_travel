@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梨一筋百年さんこうえん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+秋甘泉, 梨狩り, 梨そのもの, 梨, 世紀梨
+cluster1:(9)
+傘, 泉, 黄色, 雨, 緑, 山崎, 和式, 屋根, ちょっと腹
+cluster2:(32)
+時期, 渋滞, 笑, 指定, トイレ, 場所, 予約, 中, 気, 印象, 客, こと, 土産, 持ち帰り, 種類, 世話, 子ども, 改善, みずみずしさ, 常連, トコ, 鳥取砂丘, 我慢, 辺, 今回, ジェラート, 方, ほとんど, ジェラード, 老舗, 対応, 袋
+cluster3:(5)
+品種, 梨園, 味, 甘み, 量
+cluster4:(3)
+佐用JCT, 従業員, 近場
+
+howmany entities : 54
+howmany clusters : 5
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 5
+deleted 0entities.

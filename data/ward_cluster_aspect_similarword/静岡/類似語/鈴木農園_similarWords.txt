@@ -1,0 +1,19 @@
+--------------------similar_words:鈴木農園--------------------
+top3 entities near to cluster0>>
+時間, 制限, 制約
+top3 entities near to cluster1>>
+狩り, イチゴ, 狩る
+top3 entities near to cluster2>>
+天気雨, 土日, 天気
+top3 entities near to cluster3>>
+汚れ, ヘタ, 水分
+top3 entities near to cluster4>>
+美味しい, イチゴ, ハウス
+top3 entities near to cluster12>>
+価値, 機会, 相性
+top3 entities near to cluster13>>
+評価, 利用, 購入
+top3 entities near to cluster15>>
+甘み, 品種, 農園
+top3 entities near to cluster16>>
+予約, 案内, 受付

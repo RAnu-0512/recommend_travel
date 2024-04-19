@@ -1,0 +1,11 @@
+--------------------similar_words:大浦海水浴場(東京都新島村)--------------------
+top3 entities near to cluster0>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster1>>
+海, 海辺
+top3 entities near to cluster2>>
+夕陽, 夕日, 夕焼け
+top3 entities near to cluster3>>
+オレンジ色, 太陽, オレンジ
+top3 entities near to cluster4>>
+岩, モリ

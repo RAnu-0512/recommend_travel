@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:グラススタジオケグラニアン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+アクセサリー, 初心者
+cluster1:(1)
+方
+cluster2:(1)
+娘
+cluster3:(1)
+笑
+cluster4:(1)
+場所
+cluster5:(1)
+好み
+cluster6:(1)
+工房
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than3entities) : 0
+howmany clusters (more than3entities) : 0
+deleted 8entities.

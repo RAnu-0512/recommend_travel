@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狩野ドーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+静岡県, 伊豆市
+cluster1:(2)
+充実度, 開放感
+cluster2:(3)
+体育館, 施設, 外観
+cluster3:(2)
+天井, 柱
+cluster4:(4)
+ドーム型, 大型総合体育館, ドーム状, ドーム型スポーツ施設
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 6entities.

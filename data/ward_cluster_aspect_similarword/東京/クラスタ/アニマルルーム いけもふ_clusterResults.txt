@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アニマルルーム いけもふ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京都, 豊島区
+cluster1:(3)
+動物, 小動物コーナー, 動物たち
+cluster2:(9)
+爬虫類, 小動物, フェレット, フクロウ, ウサギ, モルモット, ふくろう, フェネック, モモンガ
+cluster3:(6)
+スタッフ, トーク, ストレス, ルーム, コース, スペース
+cluster4:(1)
+東池袋
+cluster5:(1)
+ヘビ
+cluster6:(11)
+場所, 容器, 人, 姉さんたち, 客, 店員, 休憩, 時間, チンチラ触り, 対応, こと
+
+howmany entities : 33
+howmany clusters : 7
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 7
+deleted 0entities.

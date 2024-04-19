@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:圓福寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+板橋区, 西台
+cluster1:(5)
+寺院, 曹洞宗, 寺, 境内, お参り
+cluster2:(3)
+歴史, 駅, 場所
+cluster3:(1)
+迫力
+cluster4:(1)
+住宅街
+cluster5:(1)
+仁王像
+cluster6:(1)
+東武東上線
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

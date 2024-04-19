@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:庚申塚古墳(静岡県富士市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+東田子の浦駅, 線路沿い, 吉原駅, 再下車, 東海道線
+cluster1:(8)
+庚申塚, こんもり, 富士山, 辺り, 庚申塚古墳, 東, 古墳, 間
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 2
+deleted 0entities.

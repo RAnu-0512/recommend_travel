@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:やまだ屋 おおのファクトリー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島, 大野ファクトリー
+cluster1:(2)
+味, 各種味
+cluster2:(2)
+茶サービス, 茶室
+cluster3:(14)
+トイレ, 商品, 工場, 種類, 建物, 車, バラ, レモン, 椅子, 製作, 生地, 他, 場所, もみじまんじゅう
+cluster4:(3)
+店員, 店, 店内
+cluster5:(2)
+菓子, 土産
+cluster6:(1)
+ガラス越し
+cluster7:(6)
+やまだ屋, 株式会社やまだ屋, もみじまんじゅうはやまだ屋, 桐葉菓, 手焼き体験場, やまだ屋推し
+
+howmany entities : 32
+howmany clusters : 8
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 8
+deleted 0entities.

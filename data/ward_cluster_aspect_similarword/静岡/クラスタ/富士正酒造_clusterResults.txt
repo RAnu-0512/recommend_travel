@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:富士正酒造>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+梅酒, 酒
+cluster1:(3)
+車, 駅, 道
+cluster2:(2)
+客, 旅行
+cluster3:(14)
+主人, 顔, 姉さん, 味わい, 日本, にごり, 空模様, 富士山, 朝霧高原, 香り, 中, 魅力, パンチ, 雲
+cluster4:(2)
+富士正酒造, 千代乃峯 原酒ひ
+
+howmany entities : 23
+howmany clusters : 5
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 2
+deleted 6entities.

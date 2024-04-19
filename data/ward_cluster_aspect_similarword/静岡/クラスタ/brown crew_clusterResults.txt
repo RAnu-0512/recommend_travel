@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:brown crew>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+章姫, 練乳, 農園側, 苺, 果肉, 甘み, 甘味, ちご, いちご狩り, 紅ほっぺ, ちご狩り, 味, いちごがり, イチゴ狩り
+cluster1:(5)
+息子, 大人, 子供, 子ども, 春休みシーズン
+cluster2:(2)
+イチゴ, いちご
+cluster3:(2)
+ゆとり, クレカ
+cluster4:(7)
+スタッフ, ハウス, クーポン, 初めて, 思い出, 口コミ, くらべ
+cluster5:(1)
+ビニールシート
+cluster6:(7)
+車, 中外, 客, 土産, 通路, 接客, 列
+cluster7:(2)
+謝罪パレード, 謝罪
+cluster8:(4)
+受付, 予約, 事前支払い, 開催時間
+cluster9:(6)
+あと, 詳細, 次, 中, 他, 方
+cluster10:(5)
+時期, こと, 時間, 場所, 事実
+cluster11:(4)
+姿勢, 心境, 拒否, 気分
+cluster12:(1)
+食べ比べ
+cluster13:(1)
+駐車場
+cluster14:(1)
+時間無制限
+
+howmany entities : 62
+howmany clusters : 15
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 8
+deleted 10entities.

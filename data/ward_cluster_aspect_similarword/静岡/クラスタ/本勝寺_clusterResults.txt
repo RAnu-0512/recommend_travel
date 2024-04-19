@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本勝寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+仏像, 修復
+cluster1:(2)
+下, 奥
+cluster2:(3)
+由来, こと, ほう
+cluster3:(2)
+斜面, 道
+cluster4:(6)
+御朱印, 車椅子, 種類, いくつか, 紫陽花, トイレ
+cluster5:(2)
+庭, お花
+cluster6:(1)
+距離
+cluster7:(2)
+御開帳, 開帳
+cluster8:(2)
+散策路, 土手沿い
+cluster9:(2)
+駐車場, 入場料
+
+howmany entities : 24
+howmany clusters : 10
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 2
+deleted 15entities.

@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:sora〜studio&gallery>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+そらねこ作り体験, 電動ろくろ体験
+cluster1:(4)
+広島, 尾道駅, 商店街, 尾道
+cluster2:(6)
+丼, 茶碗, 陶芸体験, 手びねり, 陶芸, 泥
+cluster3:(13)
+会計, クーポン使用, 納得, 店, 対応, 体験, 表示, 説明, 量, 予約, 料金, 値段, 評価
+cluster4:(3)
+口コミ, 居心地, 思い出
+cluster5:(8)
+オプション, 色付け, タンブラー, sora, 仕上がり, スタッフ, 焼き物, 出来上がり
+cluster6:(3)
+先生, 娘, 作品
+cluster7:(1)
+左手
+cluster8:(4)
+感じ, 形, 事, こと
+cluster9:(2)
+時間, 場所
+cluster10:(3)
+中, 先, 方
+cluster11:(1)
+空間
+cluster12:(1)
+コツ
+cluster13:(1)
+何か
+cluster14:(2)
+完成度, 大きさ
+
+howmany entities : 54
+howmany clusters : 15
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 15
+deleted 0entities.

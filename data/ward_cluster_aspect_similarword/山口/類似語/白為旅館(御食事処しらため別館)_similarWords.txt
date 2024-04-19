@@ -1,0 +1,11 @@
+--------------------similar_words:白為旅館(御食事処しらため別館)--------------------
+top3 entities near to cluster0>>
+景色, 食事, 部屋
+top3 entities near to cluster2>>
+うどん, 蕎麦, セット
+top3 entities near to cluster3>>
+鉄橋, 橋梁
+top3 entities near to cluster4>>
+家族, 新婚, 旅
+top3 entities near to cluster5>>
+寿司, すし, 鮨

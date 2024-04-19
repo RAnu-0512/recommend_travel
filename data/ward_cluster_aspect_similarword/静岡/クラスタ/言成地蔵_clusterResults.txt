@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:言成地蔵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+三島田町駅, 東海道三島宿, 三嶋大社, 三島市
+cluster1:(25)
+手打ち, 言葉, 地蔵堂, 母親, 憐れんだ町, こと, なり, 各地, 有無, 恒例行事, 町, 人々, 東本町, 反対側, 願掛け, 霊, 名前, 話, 前掛け, 場所, 前, 移動, 方面, 出来事, 道
+cluster2:(3)
+地蔵, 地蔵尊, 言成地蔵
+cluster3:(2)
+薩英戦争, 生麦事件
+cluster4:(4)
+大名側, 大名, 江戸時代東海道, 大名行列
+
+howmany entities : 38
+howmany clusters : 5
+howmany entities (more than3entities) : 36
+howmany clusters (more than3entities) : 4
+deleted 2entities.

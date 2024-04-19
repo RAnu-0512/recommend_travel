@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ヤマダ電機 LABI新橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+家電量販店, 洗濯機, 家電, 大手家電, 電気屋
+cluster1:(3)
+調べ, 参考, 物色
+cluster2:(2)
+仕事, 仕事終わり
+cluster3:(6)
+場所, 印象, 前, 時間, 目, もの
+cluster4:(2)
+製品, 価格
+cluster5:(5)
+乗り換え, ヤマダ電機, 品ぞろえ, 冷蔵庫, 帰り
+cluster6:(2)
+駅, そば
+cluster7:(1)
+店員
+cluster8:(1)
+神社
+cluster9:(1)
+増税
+cluster10:(2)
+場所柄, 営業時間
+cluster11:(5)
+新橋駅, SL広場, 新橋, LABI新橋, 西口広場
+
+howmany entities : 35
+howmany clusters : 12
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 12
+deleted 0entities.

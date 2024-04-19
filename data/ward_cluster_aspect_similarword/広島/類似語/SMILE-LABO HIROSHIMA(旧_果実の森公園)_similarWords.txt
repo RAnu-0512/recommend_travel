@@ -1,0 +1,29 @@
+--------------------similar_words:SMILE-LABO HIROSHIMA(旧_果実の森公園)--------------------
+top3 entities near to cluster0>>
+狩り, 狩る, 狩っ
+top3 entities near to cluster1>>
+甘み, 酸味
+top3 entities near to cluster2>>
+食べ物, 子ども, 食べもの
+top3 entities near to cluster3>>
+スーパー, スタッフ, ブルーベリー
+top3 entities near to cluster4>>
+量り売り, 持ち帰り, 計り売り
+top3 entities near to cluster6>>
+道のり, 道程, 険しい
+top3 entities near to cluster7>>
+イチゴ, いちご, リンゴ
+top3 entities near to cluster8>>
+糞, ウンコ
+top3 entities near to cluster9>>
+佐藤, 伊藤, 鈴木
+top3 entities near to cluster10>>
+風景, 園内, 季節
+top3 entities near to cluster11>>
+夫婦, 家族, 近所
+top3 entities near to cluster13>>
+案内, 購入, 受付
+top3 entities near to cluster14>>
+種類, 数種類, 時間
+top3 entities near to cluster15>>
+割高, 大きい

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白田川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+向こう側, こちら側
+cluster1:(2)
+東伊豆, 伊豆諸島
+cluster2:(4)
+白田川河口, 片瀬白田, 白田温泉, 片瀬温泉
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 4entities.

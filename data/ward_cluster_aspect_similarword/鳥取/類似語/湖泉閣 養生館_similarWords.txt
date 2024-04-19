@@ -1,0 +1,11 @@
+--------------------similar_words:湖泉閣 養生館--------------------
+top3 entities near to cluster0>>
+気分, 景色, 気持ち
+top3 entities near to cluster1>>
+貸切, 風呂, 貸し切り
+top3 entities near to cluster2>>
+人目, はばかる
+top3 entities near to cluster3>>
+解放感, 開放感, 解放, 開放
+top3 entities near to cluster5>>
+流し, 源泉

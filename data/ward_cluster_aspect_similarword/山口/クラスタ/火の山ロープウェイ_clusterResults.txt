@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:火の山ロープウェイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口県, 下関・門司, 下関市
+cluster1:(2)
+往復券, 駐車料金無料
+cluster2:(17)
+往復, 火, 春, 街並み, 山上, トルコチューリップ, 景色, チューリップ, スタート時間, ロープウェイ, 桜, 絶景, 時期, ネモフィラ, 料金, 海, 山
+cluster3:(2)
+山パークウェイ, ロープウェイ乗り場
+cluster4:(2)
+公園, 山公園
+cluster5:(2)
+山頂, 山頂駅
+cluster6:(2)
+壇ノ浦駅, 山駅
+cluster7:(1)
+関門橋
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 8
+deleted 0entities.

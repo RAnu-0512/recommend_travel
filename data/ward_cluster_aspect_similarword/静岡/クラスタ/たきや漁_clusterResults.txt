@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たきや漁>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+魚, カニ, 銛, 海, 漁, 漁師
+cluster1:(5)
+間近, もの, 皆無, 感じ, 迫力
+cluster2:(2)
+暴言, 目線
+cluster3:(8)
+水, 手洗い, 体験, てんぷら, レベル, 上, 子供, ノウハウ
+cluster4:(1)
+接客
+cluster5:(1)
+こつ
+cluster6:(1)
+無教養
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 3
+deleted 5entities.

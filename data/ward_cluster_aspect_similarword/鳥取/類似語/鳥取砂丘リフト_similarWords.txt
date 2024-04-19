@@ -1,0 +1,35 @@
+--------------------similar_words:鳥取砂丘リフト--------------------
+top3 entities near to cluster1>>
+試食, 食事, 財布
+top3 entities near to cluster3>>
+リフト, ゴンドラ, ゲレンデ
+top3 entities near to cluster4>>
+乗り場, バス, バス停
+top3 entities near to cluster5>>
+家族, 子ども, 子供
+top3 entities near to cluster6>>
+景色, 道路, 斜面
+top3 entities near to cluster7>>
+写真, 撮影, 記念
+top3 entities near to cluster8>>
+子供, 長靴, 子ども
+top3 entities near to cluster9>>
+絶好, 機会, チャンス
+top3 entities near to cluster12>>
+価値, 値段, 距離
+top3 entities near to cluster13>>
+初, 利用, 体験
+top3 entities near to cluster14>>
+高低差, 高低, 差異
+top3 entities near to cluster15>>
+砂丘, 砂浜, 海岸
+top3 entities near to cluster16>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster17>>
+乗り場, 片道, 往復
+top3 entities near to cluster18>>
+展望台, 展望, 予報
+top3 entities near to cluster19>>
+土産, おみやげ, 土産物
+top3 entities near to cluster20>>
+周遊, 名所, 砂丘

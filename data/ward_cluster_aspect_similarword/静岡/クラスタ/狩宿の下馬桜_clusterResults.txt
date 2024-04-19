@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狩宿の下馬桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(35)
+敷地, 菜の花, 周り, イベント, 時期, 地元, こと, 馬, ライトアップ, 出店, シーズン, 満開, 国, 人, 歴史, ピンク, 特別天然記念物, 感動, 周囲, 源頼朝, 富士山, お花, 花, 迫力, 近く, 黄色, 桜, ロケーション, コントラスト, 狩宿, 風景, 下馬桜, 想像, 数, 木
+cluster1:(3)
+開花時期, 美しさ, 綺麗さ
+cluster2:(2)
+駐車場, 土産品
+cluster3:(1)
+国指定特別天然記念物
+
+howmany entities : 41
+howmany clusters : 4
+howmany entities (more than3entities) : 38
+howmany clusters (more than3entities) : 2
+deleted 3entities.

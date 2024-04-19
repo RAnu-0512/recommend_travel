@@ -1,0 +1,43 @@
+--------------------similar_words:萩本陣温泉(萩本陣 湯の丸)--------------------
+top3 entities near to cluster1>>
+湯呑, 皿, 湯呑み
+top3 entities near to cluster2>>
+ランチ, ランチタイム, バイキング
+top3 entities near to cluster3>>
+心遣い, 気持ち, 気遣い
+top3 entities near to cluster4>>
+スタッフ, フロント, マイカー
+top3 entities near to cluster5>>
+ホテル, 露天風呂, 旅館
+top3 entities near to cluster7>>
+コップ, プラカップ, マグカップ
+top3 entities near to cluster8>>
+ワイヤ, ロープ, ワイア
+top3 entities near to cluster9>>
+朝風呂, 朝ぶろ, 朝湯
+top3 entities near to cluster11>>
+旅, 休日, 周遊
+top3 entities near to cluster12>>
+景色, 風情, 街並み
+top3 entities near to cluster13>>
+山頂, 高台, 中腹
+top3 entities near to cluster14>>
+地下, 階層, 下層
+top3 entities near to cluster15>>
+世話, 応対, 清掃
+top3 entities near to cluster16>>
+料理, 食材, 卵
+top3 entities near to cluster17>>
+朝食, 昼食, 食事
+top3 entities near to cluster18>>
+ご飯, 夕飯, ごはん
+top3 entities near to cluster19>>
+お湯, 湯船, 浴槽
+top3 entities near to cluster20>>
+露天, 足湯, 露天風呂
+top3 entities near to cluster21>>
+湯船, 湯ぶね, 湯槽
+top3 entities near to cluster22>>
+旅館, 宿, 宿泊
+top3 entities near to cluster23>>
+温泉, 風呂, 湯

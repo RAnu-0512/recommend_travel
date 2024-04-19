@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉田百三文学館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+原稿, 文学, 小説家
+cluster1:(2)
+施設, 建物
+cluster2:(4)
+方, 写真, 人, 車
+cluster3:(1)
+私物
+cluster4:(1)
+倉田
+cluster5:(1)
+駐車場
+cluster6:(1)
+民俗資料館
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

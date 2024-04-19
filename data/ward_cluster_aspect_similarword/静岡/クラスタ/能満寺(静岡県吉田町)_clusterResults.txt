@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:能満寺(静岡県吉田町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+安部晴明ゆかり, 安部晴明
+cluster1:(2)
+樹齢, 枝数
+cluster2:(18)
+興味, ソテツ, 大ソテツ, 門, 脇, 木, 多数, もの, 歴史, ひとつ, 古寺, 境内, 蘇鉄, 迫力, もこじんまり, 雰囲気, 建物, 場所
+cluster3:(1)
+駐車場
+cluster4:(8)
+静岡県, 能満寺, 吉田町, 日本三大ソテツ, 小山城, 陰陽師, ソテツ寺, 寺
+
+howmany entities : 31
+howmany clusters : 5
+howmany entities (more than3entities) : 26
+howmany clusters (more than3entities) : 2
+deleted 5entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩阿武川温泉ふれあい会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+露天風呂, 温泉
+cluster1:(1)
+湯
+cluster2:(1)
+内湯
+cluster3:(1)
+ダム
+cluster4:(1)
+湯温
+cluster5:(1)
+無色透明
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

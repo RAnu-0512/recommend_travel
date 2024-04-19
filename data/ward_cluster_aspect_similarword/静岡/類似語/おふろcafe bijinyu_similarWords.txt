@@ -1,0 +1,41 @@
+--------------------similar_words:おふろcafe bijinyu--------------------
+top3 entities near to cluster0>>
+フリー, タイム, ペーパー
+top3 entities near to cluster1>>
+サウナ, 水風呂, 朝風呂
+top3 entities near to cluster2>>
+気持ち, 不手際, 雰囲気
+top3 entities near to cluster4>>
+カフェ, ラウンジ, 露天風呂
+top3 entities near to cluster5>>
+マンガ, ソフト, コミック
+top3 entities near to cluster7>>
+チェア, ソファ, ソファー
+top3 entities near to cluster8>>
+アイス, コーヒー, ホット
+top3 entities near to cluster10>>
+対応, 利用, 用意
+top3 entities near to cluster11>>
+受付, 予約, 入館
+top3 entities near to cluster14>>
+自分, 子供
+top3 entities near to cluster15>>
+掃除機, 掃除
+top3 entities near to cluster16>>
+ご飯, 玄米, 食事
+top3 entities near to cluster17>>
+館内, 照明, 空間
+top3 entities near to cluster19>>
+身体, 肌, 健康
+top3 entities near to cluster20>>
+風味, 温度, 麺
+top3 entities near to cluster21>>
+椅子, 机, 館内
+top3 entities near to cluster22>>
+温泉, 風呂, 湯
+top3 entities near to cluster23>>
+読み放題, 飲み放題, 読み, 飲み
+top3 entities near to cluster24>>
+空間, 広い
+top3 entities near to cluster25>>
+食事, 飲食, 休憩

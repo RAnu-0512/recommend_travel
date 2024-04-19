@@ -1,0 +1,21 @@
+--------------------similar_words:井上源三郎資料館--------------------
+top3 entities near to cluster0>>
+住宅地, 住宅街, 住宅
+top3 entities near to cluster1>>
+隣, 一軒家, お隣
+top3 entities near to cluster4>>
+隊長, 隊員
+top3 entities near to cluster5>>
+路地, 裏通り, 裏道
+top3 entities near to cluster6>>
+子孫, 祖先, 末裔
+top3 entities near to cluster7>>
+剣術, 槍術, 武術
+top3 entities near to cluster8>>
+表札, 門札, 門柱
+top3 entities near to cluster9>>
+改札, 券売, コンコース
+top3 entities near to cluster11>>
+井上, 新撰, 新選
+top3 entities near to cluster12>>
+理流, 理心, 理

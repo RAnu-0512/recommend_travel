@@ -1,0 +1,11 @@
+--------------------similar_words:磯沼ミルクファーム--------------------
+top3 entities near to cluster0>>
+雰囲気, よう
+top3 entities near to cluster2>>
+臭い, におい, 匂い
+top3 entities near to cluster3>>
+牧場, 農場, 酪農
+top3 entities near to cluster4>>
+牛舎, 牛, 農家
+top3 entities near to cluster5>>
+搾り, 乳, 搾っ

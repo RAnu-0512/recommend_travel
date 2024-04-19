@@ -1,0 +1,9 @@
+--------------------similar_words:小鹿渓--------------------
+top3 entities near to cluster0>>
+天候, 天気, お天気
+top3 entities near to cluster1>>
+時期, 日, 時
+top3 entities near to cluster2>>
+新緑, 紅葉, 河原
+top3 entities near to cluster3>>
+渓, 救馬, 溪

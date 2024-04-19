@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三段の滝(静岡県静岡市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+秘湯, 名湯, 温泉街
+cluster1:(2)
+雄大, 徒歩
+cluster2:(3)
+奥, 所, 感じ
+cluster3:(3)
+イオン, マイナスイオン, 滝
+cluster4:(1)
+相性
+cluster5:(1)
+岩間
+cluster6:(1)
+静岡市
+cluster7:(1)
+駐車場
+cluster8:(1)
+梅ヶ島
+
+howmany entities : 16
+howmany clusters : 9
+howmany entities (more than3entities) : 9
+howmany clusters (more than3entities) : 3
+deleted 7entities.

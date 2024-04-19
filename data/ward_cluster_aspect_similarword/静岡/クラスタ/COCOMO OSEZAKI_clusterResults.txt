@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:COCOMO OSEZAKI>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+水, 使う時間, 木
+cluster1:(4)
+子どもたち, 息子, 子供, 親子
+cluster2:(13)
+スタッフ, 体, 茶, 顔, ガイド, コーヒー, シュノーケリング, 兄さん, 人, シャワー, 初対面, レンタル, トイレ
+cluster3:(5)
+こと, 体験, 場所, 施設, 説明
+cluster4:(2)
+反応, 匂い
+cluster5:(1)
+器材
+cluster6:(1)
+好感
+cluster7:(7)
+駐車場, 更衣室, 海開き前, 海辺, あり海, 海遊び, 海
+cluster8:(1)
+給茶機
+
+howmany entities : 37
+howmany clusters : 9
+howmany entities (more than3entities) : 32
+howmany clusters (more than3entities) : 5
+deleted 5entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:南山資料館--------------------
+top3 entities near to cluster0>>
+窓, 扉, 明り取り
+top3 entities near to cluster1>>
+中央付近, 位置, 中央
+top3 entities near to cluster2>>
+歴史, 外観, 町並み
+top3 entities near to cluster3>>
+玄関, 内玄関, 表玄関
+top3 entities near to cluster4>>
+上部, 下部, 上端
+top3 entities near to cluster5>>
+石積み, 石組み
+top3 entities near to cluster6>>
+館, 資料, 史料

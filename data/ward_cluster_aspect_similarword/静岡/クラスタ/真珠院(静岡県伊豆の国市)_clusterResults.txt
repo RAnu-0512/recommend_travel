@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真珠院(静岡県伊豆の国市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+真珠院, 真珠院方面へ, 真珠ヶ淵
+cluster1:(10)
+曹洞宗, 恋人, 狩野川, 悲恋, 娘, 下り坂, 源頼朝, 名前, 道標, 時代
+cluster2:(2)
+鎌倉, 室町
+cluster3:(3)
+本堂, 境内, 寺
+cluster4:(2)
+説明板, 自ら命
+cluster5:(3)
+登山口, 展望台, 守山山頂
+cluster6:(4)
+供養塔, 八重姫, 供養堂, 伊藤祐親
+
+howmany entities : 27
+howmany clusters : 7
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 5
+deleted 4entities.

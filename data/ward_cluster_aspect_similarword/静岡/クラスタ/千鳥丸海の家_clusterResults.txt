@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:千鳥丸海の家>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+主人, 子どもたち, 家族, 小学生男児, 男性, 子供
+cluster1:(15)
+最後, 水着, 魚, スタッフ, 休憩, ライフジャケット, 写真, バック, 時間, 海, バナナボート, 落とし物, ドライバー, マリンスポーツ, 方
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than3entities) : 21
+howmany clusters (more than3entities) : 2
+deleted 0entities.

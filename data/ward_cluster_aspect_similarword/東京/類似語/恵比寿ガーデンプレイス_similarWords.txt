@@ -1,0 +1,97 @@
+--------------------similar_words:恵比寿ガーデンプレイス--------------------
+top3 entities near to cluster0>>
+エレベータ, エレベーター, エスカレーター
+top3 entities near to cluster1>>
+フラッシュ, クリスタル, ライト
+top3 entities near to cluster2>>
+クリスマスデート, クリスマスイルミ, イルミネーションデート
+top3 entities near to cluster3>>
+イルミネーション, クリスマスツリー, クリスマスイルミ
+top3 entities near to cluster4>>
+ライトアップ, イルミネーション, クリスマスイルミ
+top3 entities near to cluster5>>
+シャンデリア, プチシャンデリア, ステンドグラス
+top3 entities near to cluster6>>
+ロマンチック, ハイビスカス, エレガント
+top3 entities near to cluster7>>
+東京タワー, タワー, スカイツリータワー
+top3 entities near to cluster8>>
+レストラン, テーマパーク, ビアガーデン
+top3 entities near to cluster9>>
+ヱビスビール, エビスビール, サッポロビール
+top3 entities near to cluster10>>
+オススメ, ススメ, おすすめ
+top3 entities near to cluster11>>
+待ち時間, ストレス, 苦痛
+top3 entities near to cluster12>>
+デザイン, オブジェ, イメージ
+top3 entities near to cluster13>>
+タイミング, 言い回し, ポイント
+top3 entities near to cluster14>>
+つくし, つくさ, つくす
+top3 entities near to cluster15>>
+ホール, ランド, マーク
+top3 entities near to cluster16>>
+雰囲気, 街並み, 町並み
+top3 entities near to cluster17>>
+シック, ピンク, ダーク
+top3 entities near to cluster18>>
+デートスポット, オススメスポット, おすすめ
+top3 entities near to cluster19>>
+ビュッフェ, ディナー, レストラン
+top3 entities near to cluster20>>
+ショップ, セレクト, 通販
+top3 entities near to cluster21>>
+カフェ, マルシェ, ビストロカフェ
+top3 entities near to cluster22>>
+デパート, おみやげ, 土産物
+top3 entities near to cluster23>>
+コーヒー, ラーメン, 珈琲
+top3 entities near to cluster24>>
+オフィス, テナント, スタッフ
+top3 entities near to cluster25>>
+エリア, アーバンエリア, 全域
+top3 entities near to cluster26>>
+デート, クリスマス, ドラマ
+top3 entities near to cluster27>>
+ウインドウ, ウィンドウ, ウィンドー
+top3 entities near to cluster28>>
+タワー, ツリー, イルミ
+top3 entities near to cluster29>>
+ビール, ワイン, シャンパン
+top3 entities near to cluster30>>
+パン屋, ぐらび屋, パン, ぐらび
+top3 entities near to cluster31>>
+子供連れ, つれ, 子供
+top3 entities near to cluster32>>
+映画街, 映画
+top3 entities near to cluster34>>
+時期, 年末, 時季
+top3 entities near to cluster36>>
+混雑, レジ, 混む
+top3 entities near to cluster37>>
+昼間, 週末, 昼
+top3 entities near to cluster38>>
+順番待ち, 遅い, 順番
+top3 entities near to cluster39>>
+撮影, 写真, 時間
+top3 entities near to cluster40>>
+高級感, 高級, 空間
+top3 entities near to cluster41>>
+食料品, 食料, 品等
+top3 entities near to cluster42>>
+飲食店, 飲食, レストラン
+top3 entities near to cluster44>>
+循環, バス, 停留所
+top3 entities near to cluster45>>
+工場, 建物, 建築
+top3 entities near to cluster46>>
+ロケ地, ロケ
+top3 entities near to cluster47>>
+駅前, 三越, ビル
+top3 entities near to cluster49>>
+館, 記念, 記念碑
+top3 entities near to cluster50>>
+複合, 施設, 大型
+top3 entities near to cluster51>>
+商業, 施設, 複合

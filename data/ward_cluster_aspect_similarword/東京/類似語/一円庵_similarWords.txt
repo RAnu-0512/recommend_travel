@@ -1,0 +1,11 @@
+--------------------similar_words:一円庵--------------------
+top3 entities near to cluster1>>
+現在地, 裏手, 門構え
+top3 entities near to cluster2>>
+そば, 蕎麦, ソバ
+top3 entities near to cluster3>>
+拠点, 本拠, 本拠地
+top3 entities near to cluster4>>
+趣, 趣き, 風情
+top3 entities near to cluster6>>
+藩主, 家老

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伯耆町総合スポーツ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スポーツ公園, 公園
+cluster1:(2)
+(*^^*, ふもと
+cluster2:(2)
+体育館, プール
+cluster3:(1)
+子供
+cluster4:(2)
+施設, サッカー場
+cluster5:(1)
+大山
+cluster6:(1)
+ラジコン場
+
+howmany entities : 11
+howmany clusters : 7
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 7
+deleted 0entities.

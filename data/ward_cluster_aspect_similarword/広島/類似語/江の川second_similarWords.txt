@@ -1,0 +1,19 @@
+--------------------similar_words:江の川second--------------------
+top3 entities near to cluster1>>
+次郎, 太朗, 一郎
+top3 entities near to cluster3>>
+全国, 各地, 地方
+top3 entities near to cluster5>>
+道路, 施設, 放送
+top3 entities near to cluster6>>
+海, 自然, 山
+top3 entities near to cluster7>>
+景色, 風景, 車窓
+top3 entities near to cluster8>>
+山々, 山地, 山並み
+top3 entities near to cluster9>>
+鉄路, 鉄道, オベリスト
+top3 entities near to cluster10>>
+花火, 大会, 祭り
+top3 entities near to cluster11>>
+流域, 河川, 川

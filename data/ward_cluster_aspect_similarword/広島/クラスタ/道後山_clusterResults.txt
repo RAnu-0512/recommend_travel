@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道後山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+山, アクセス, 仲間, 境, 深み, 自然, 足, ペース
+cluster1:(2)
+スキー場, 高原
+cluster2:(1)
+登山道
+cluster3:(5)
+広島県, 鳥取県, 庄原市, 多里大山, 日南町
+cluster4:(1)
+───O
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

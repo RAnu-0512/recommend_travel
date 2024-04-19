@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山吹の里の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鬼子母神堂前停留場, 面影橋停留場
+cluster1:(2)
+意味, 歴史
+cluster2:(5)
+娘, 花, 近く, 面影橋, 神田川
+cluster3:(1)
+碑
+cluster4:(1)
+農家
+cluster5:(5)
+東京さくらトラム, みの, 蓑, 山吹, 里
+cluster6:(1)
+案内板
+cluster7:(3)
+太田道灌, 山吹の里, 咲けども山吹
+cluster8:(1)
+七重八重 花
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

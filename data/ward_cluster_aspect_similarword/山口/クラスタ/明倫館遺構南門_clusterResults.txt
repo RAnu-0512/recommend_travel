@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明倫館遺構南門>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+力, 平成, 萩市, 位置, 遺構, 敷地, 里帰り, 家, 途中, 毛利, 毛利吉元, 門, 正門, 駐車場, 南門
+cluster1:(4)
+役所の前、市立明倫小学校, 藩校明倫館, 新明倫館, 藩校
+
+howmany entities : 19
+howmany clusters : 2
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中央公園(東京都小平市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小平市, 小平中央公園
+cluster1:(38)
+季節, 周囲, 場所, 噴水, 中央, 体育館, トラック, 人, 公園, スポーツ施設, 野球場, 気持ち, 紅葉, 木, 感じ, 気分, 夕暮れ, マラソンコース, 黄色, 夕方, 散歩, 秋, 駅, 彼氏, 時期, 台, イチョウ, 銀杏, トンネル, 中央公園, 前, 敷地, 転換, テニスコート, 方, 風, 遊具, 昼間
+cluster2:(5)
+銀杏並木, 上水, 西武国分寺線, 玉川, 鷹
+cluster3:(1)
+玉川上水緑道沿いの総合公園
+
+howmany entities : 46
+howmany clusters : 4
+howmany entities (more than1entities) : 46
+howmany clusters (more than1entities) : 4
+deleted 0entities.

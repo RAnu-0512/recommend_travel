@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中島観光農園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+梨やりんご, 世紀梨
+cluster1:(5)
+種類, 時間, もぎとり, イノシシ, ぶどう数種類
+cluster2:(2)
+果物, 土産
+cluster3:(1)
+くり
+cluster4:(1)
+食べ放題
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

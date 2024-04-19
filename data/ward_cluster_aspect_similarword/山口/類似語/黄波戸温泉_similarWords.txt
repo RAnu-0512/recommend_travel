@@ -1,0 +1,19 @@
+--------------------similar_words:黄波戸温泉--------------------
+top3 entities near to cluster0>>
+温泉, 旅館, 湯
+top3 entities near to cluster1>>
+駐車, 入浴, 浴室
+top3 entities near to cluster2>>
+お湯, 風呂, 石鹸
+top3 entities near to cluster3>>
+値段, 晴天, 地元
+top3 entities near to cluster4>>
+海, 海辺, 海中
+top3 entities near to cluster5>>
+交流, 対策, 研究
+top3 entities near to cluster6>>
+景色, 建物, 景観
+top3 entities near to cluster7>>
+検温, 体温計, 採血
+top3 entities near to cluster8>>
+透明感, 透明, 無色

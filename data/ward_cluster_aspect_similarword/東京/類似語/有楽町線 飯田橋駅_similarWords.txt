@@ -1,0 +1,13 @@
+--------------------similar_words:有楽町線 飯田橋駅--------------------
+top3 entities near to cluster0>>
+地下鉄, 通路, 地下道
+top3 entities near to cluster1>>
+仕事場, 夕方, 駅
+top3 entities near to cluster2>>
+時間, 通勤, 距離
+top3 entities near to cluster3>>
+駅, 駅前, 徒歩
+top3 entities near to cluster4>>
+改札, コンコース, 構内
+top3 entities near to cluster5>>
+都営, メトロ, 都営地下鉄

@@ -1,0 +1,19 @@
+--------------------similar_words:萩焼窯元 天龍窯--------------------
+top3 entities near to cluster1>>
+焼物, 陶芸, 焼き物
+top3 entities near to cluster2>>
+子供, 子ども, 息子
+top3 entities near to cluster3>>
+店内, イベント
+top3 entities near to cluster4>>
+指導, 経験, 助言
+top3 entities near to cluster6>>
+内容, 作品, タイトル
+top3 entities near to cluster7>>
+時間, 日数, 時
+top3 entities near to cluster8>>
+感触, 満足, 手元
+top3 entities near to cluster10>>
+体験, 時間
+top3 entities near to cluster11>>
+体験, 陶芸, くろ

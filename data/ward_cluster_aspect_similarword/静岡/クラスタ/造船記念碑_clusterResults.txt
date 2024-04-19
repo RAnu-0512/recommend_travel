@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:造船記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+造船技術, 造船記念碑
+cluster1:(4)
+安政, 幕末, ロシア, 石碑
+cluster2:(3)
+戸田湾, 沼津市, 戸田港
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than3entities) : 7
+howmany clusters (more than3entities) : 2
+deleted 2entities.

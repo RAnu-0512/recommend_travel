@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北長門海岸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海岸線, 海岸沿い
+cluster1:(3)
+海岸美, 海岸, 海
+cluster2:(13)
+岩, 車, 須佐湾, 奇岩, 日本, 長門, 沈下, 浸食, 阿武町, 看板, 駐車場, 気持ち, 隆起
+cluster3:(1)
+北長門海岸国定公園
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

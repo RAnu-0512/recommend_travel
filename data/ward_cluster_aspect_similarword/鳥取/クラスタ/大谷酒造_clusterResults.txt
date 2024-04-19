@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大谷酒造>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+東伯イン, 琴浦町, 鳥取県
+cluster1:(2)
+鷹勇, 鷹
+cluster2:(4)
+酒, 酒林, 酒屋, 大谷酒造
+cluster3:(2)
+街道, 白壁
+cluster4:(2)
+明治, 創業
+cluster5:(10)
+玉, ブランド, 日本, 目, 歴史, ブランド名, 前, 途中, 玄関, ホテル
+cluster6:(3)
+勇姿, 見学, 大空
+cluster7:(1)
+愛鳥
+cluster8:(1)
+初代当主
+
+howmany entities : 28
+howmany clusters : 9
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神護寺(山口県平生町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神護寺, 松蓮寺
+cluster1:(16)
+子供, 山口県, 銅鐘, 寺, 石城山, 場所, 地, 地元, 指定文化財, 雰囲気, 指定, 明治, 方, 県, 光市, 大和町
+cluster2:(1)
+県指定有形文化財
+cluster3:(1)
+木像延命地蔵菩薩座像
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

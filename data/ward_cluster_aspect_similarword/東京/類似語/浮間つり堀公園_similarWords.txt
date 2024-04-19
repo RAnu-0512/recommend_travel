@@ -1,0 +1,17 @@
+--------------------similar_words:浮間つり堀公園--------------------
+top3 entities near to cluster0>>
+金魚, メダカ
+top3 entities near to cluster2>>
+釣り堀, 釣堀, 釣り場
+top3 entities near to cluster4>>
+常連, 顔なじみ, 顔馴染み
+top3 entities near to cluster5>>
+料金, 運賃, 費用
+top3 entities near to cluster6>>
+釣果, 釣れ, 釣れれ
+top3 entities near to cluster7>>
+家族連れ, 家族, つれ
+top3 entities near to cluster8>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster9>>
+堀, つり, 公園

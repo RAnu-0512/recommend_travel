@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大可島城跡附伝桑原一族墓地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人, 場所
+cluster1:(1)
+背景
+cluster2:(1)
+勉強
+cluster3:(1)
+桑原
+cluster4:(1)
+史跡
+cluster5:(1)
+桑原一族墓地
+cluster6:(1)
+大可島城跡附伝
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

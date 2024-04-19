@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:萩藩主毛利家墓所[香山墓所]>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+香山公園, 石段, 石畳, 山口, 萩が城下町, 張石畳, 萩
+cluster1:(3)
+正室, 世子, 藩主
+cluster2:(12)
+夫人, 政治, 横, 手, 中心, 息子, 場所, 墓所, 雰囲気, 瑠璃光寺, 墓, 親
+cluster3:(1)
+功労者
+cluster4:(6)
+維新, 幕末維新, 長州藩, 幕末, 幕末史, 明治
+cluster5:(3)
+敬親, 毛利敬, 毛利家墓所
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 6
+deleted 0entities.

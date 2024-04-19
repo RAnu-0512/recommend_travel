@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サイクリングツアー&レンタサイクル トレックリング>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+豆知識, 知識
+cluster1:(2)
+電車自転車, 電動自転車
+cluster2:(2)
+距離, 機会
+cluster3:(7)
+サイクリング, 奥多摩サイクリング, 自転車, レンタルサイクル, 奥多摩湖, コース, 奥多摩
+cluster4:(2)
+自然, 景色
+cluster5:(8)
+店, 人, 車, マイナスイオン, 時間, 余りスポーツ, 方, 地元
+cluster6:(1)
+都心
+cluster7:(2)
+お勧め, 乗り方
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 8
+deleted 0entities.

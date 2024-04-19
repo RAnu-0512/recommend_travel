@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:巣雲山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ところ, スポット, トイレ, オススメ
+cluster1:(2)
+巣雲山, 伊豆高原
+cluster2:(2)
+初日の出, 富士山
+cluster3:(1)
+大室山
+cluster4:(1)
+山
+cluster5:(1)
+冬
+cluster6:(9)
+車, 目, こと, 人, 頭, 足, 近く, 安心, 前
+cluster7:(6)
+伊豆スカイライン, 山頂, 渋滞, 景色, 頂上, 天気
+cluster8:(5)
+駐車スペース脇, 駐車場, 展望スポット, 展望台, 巣雲山園地
+
+howmany entities : 31
+howmany clusters : 9
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 4
+deleted 7entities.

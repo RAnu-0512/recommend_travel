@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大間ダム湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ダム湖, 大間ダム
+cluster1:(10)
+吊り橋, 川, 紅葉, 夢, 湖面, エメラルドグリーン, 夢の吊り橋, 毛布, 湖, 色
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 2entities.

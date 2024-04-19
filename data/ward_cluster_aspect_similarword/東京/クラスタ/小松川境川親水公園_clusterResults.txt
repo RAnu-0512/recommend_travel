@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小松川境川親水公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+親水公園, 親水緑道, 親水公園散策
+cluster1:(4)
+中川, 千葉街道, 江戸川区, 菅原橋
+cluster2:(2)
+場所, 目的
+cluster3:(5)
+子ども, 気持ち, 感じ, 流れ, こと
+cluster4:(6)
+浅瀬, 中央森林公園, 夏, 水辺, グリーンパレス, ボート場
+cluster5:(10)
+さくら公園, 散策, 公園, 花見, 散歩, 名所, 見学, 水辺沿い, 東小松川公園, 桜
+cluster6:(1)
+郷土資料室
+
+howmany entities : 31
+howmany clusters : 7
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 7
+deleted 0entities.

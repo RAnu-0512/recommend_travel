@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:不動の滝(静岡県富士市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+道沿い, 道
+cluster1:(10)
+雨, 静岡, 水, 虫, 苔, 虹, 巣, 階段, 蜘蛛, 滝
+cluster2:(10)
+車, 周り, スペース, マイナスイオン, ところ, 人, 近辺, 旅行, 先, 場所
+cluster3:(3)
+谷間, 空気, 迫力
+cluster4:(2)
+ゴルフ場, 跡
+cluster5:(1)
+水量
+cluster6:(1)
+上りいざ滝
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 3
+deleted 6entities.

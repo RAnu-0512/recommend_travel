@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高瀬湖>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+アクセス, カーブ, 人造湖
+cluster1:(2)
+周り, 人
+cluster2:(1)
+建設
+cluster3:(2)
+湖, 高瀬湖
+cluster4:(1)
+島地川ダム
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

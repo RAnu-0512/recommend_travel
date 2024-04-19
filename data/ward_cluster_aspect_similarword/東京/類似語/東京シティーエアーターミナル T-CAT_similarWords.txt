@@ -1,0 +1,7 @@
+--------------------similar_words:東京シティーエアーターミナル T-CAT--------------------
+top3 entities near to cluster0>>
+運賃, 駅, バス
+top3 entities near to cluster1>>
+飲食店, 飲食
+top3 entities near to cluster2>>
+郵便局, 郵便, 局員

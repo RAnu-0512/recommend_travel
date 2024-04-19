@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草着物レンタルCOCOMO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+写真, 写真撮影
+cluster1:(3)
+浴衣, 芸者, 着物
+cluster2:(3)
+終わり予約, 時間, 帯
+cluster3:(14)
+所, 店, 感謝, 感じ, 気分, 体験, 友達, 緊張, 方, 対応, 中, お陰, 満足, 方々
+cluster4:(18)
+出来栄え, スタッフ, 手ぶら, 人見知り, 仕上がり, 他, 着付け, 小道具, ホーチミン, 台風, メイク, 赤, (*^^*, 日本, 照明, 扮装, スペース, 見た目
+cluster5:(1)
+持ち方
+cluster6:(3)
+浅草散策, 浅草, 花火大会
+cluster7:(3)
+白塗り体験, 古典花魁, 古典花魁お勧め
+
+howmany entities : 47
+howmany clusters : 8
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 8
+deleted 0entities.

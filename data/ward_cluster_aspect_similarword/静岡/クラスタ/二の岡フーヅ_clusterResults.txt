@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二の岡フーヅ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+御殿場インター, 御殿場, 箱根, 河口湖方面
+cluster1:(2)
+親戚, 友人
+cluster2:(3)
+客, 店構え, 店
+cluster3:(4)
+土産, 仕事, アウトレット帰り, 旅行
+cluster4:(3)
+塩味, 肉類, 味
+cluster5:(17)
+ソーセージ, ハーフサイズ, 美味しさ, サラダ, ところ, スモークベーコン, 次回, 中, 近く, ボロニアソーセージ, トイレ, 人気, リピ, 参考, 前, 他, ベーコン
+cluster6:(1)
+駐車場
+cluster7:(10)
+塩胡椒, 岡フーズ, 老舗ハム工房, ハム屋, 岡, 牛タンスモーク, ハム, 手造りハム, 岡ハム, 燻製ハム
+
+howmany entities : 44
+howmany clusters : 8
+howmany entities (more than3entities) : 41
+howmany clusters (more than3entities) : 6
+deleted 3entities.

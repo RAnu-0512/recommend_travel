@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大覺寺全珠院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+焼津観光, 丁度観光バス
+cluster1:(26)
+ピカピカ, 利益, 地域, 何か, 地元, こと, 値段, 特売, 甘酒, 菓子, もの, 手, 野菜, 地名, 金色, 正面, 感じ, お守り, 中, 迫力, 話, コーナー, 作品, 千手観音, 黄金, 方
+cluster2:(7)
+数珠, 観音, 説法, 堂, 宗教心, 住職, 寺
+
+howmany entities : 35
+howmany clusters : 3
+howmany entities (more than3entities) : 33
+howmany clusters (more than3entities) : 2
+deleted 2entities.

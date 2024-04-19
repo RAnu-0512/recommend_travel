@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 よがんす白竜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+白竜湖畔, 三原市
+cluster1:(2)
+道, 駅
+cluster2:(6)
+施設, 販売, レストラン, パスタ, ワイン, 食事
+cluster3:(3)
+手作りピザ, 野菜, 野菜売り場
+cluster4:(1)
+洋風建築
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

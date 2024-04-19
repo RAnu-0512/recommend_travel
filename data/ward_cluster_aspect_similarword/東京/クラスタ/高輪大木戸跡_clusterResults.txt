@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高輪大木戸跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+昔, 場所, 現代, 東海道, 緑, 感じ, 左, アクセス方法, 入り口, オートバイ, 地下鉄, 歴史, 目, 大木戸
+cluster1:(2)
+歩道, 国道
+cluster2:(6)
+北側, 地上, 南側, 入口, 出口, 側
+cluster3:(5)
+説明板, 石碑, 新駅, 史跡, 跡
+cluster4:(11)
+改札口, 江戸府, 高輪大木戸, 土塁, 石垣, 三田駅, 木戸, 田町, 芝口門, 品川駅, 泉岳寺駅
+cluster5:(2)
+文部大臣指定, 東京都教育委員会
+
+howmany entities : 40
+howmany clusters : 6
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 6
+deleted 0entities.

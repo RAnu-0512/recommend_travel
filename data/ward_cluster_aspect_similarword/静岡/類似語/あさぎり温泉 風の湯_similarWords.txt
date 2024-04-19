@@ -1,0 +1,11 @@
+--------------------similar_words:あさぎり温泉 風の湯--------------------
+top3 entities near to cluster2>>
+温泉, 湯, お湯
+top3 entities near to cluster3>>
+洗い場, 内風呂, 洗面所
+top3 entities near to cluster5>>
+シャワー, ドライヤー, フロント
+top3 entities near to cluster10>>
+床, 蓋
+top3 entities near to cluster12>>
+脱衣場, 更衣, 脱衣

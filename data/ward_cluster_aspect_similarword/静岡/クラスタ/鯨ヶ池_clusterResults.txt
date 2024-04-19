@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鯨ヶ池>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+静岡市, 住宅地, 静岡駅
+cluster1:(3)
+釣り, 餌, 釣り餌
+cluster2:(2)
+虫, 蚊
+cluster3:(7)
+虫除けスプレー, レンタカー, 店長, ポイント, 釣り堀, 夏場, 方
+cluster4:(2)
+池, 鰻
+cluster5:(1)
+無臭
+cluster6:(1)
+場合必死
+cluster7:(1)
+鯨ケ池
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 3
+deleted 7entities.

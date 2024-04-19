@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:飯の山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+周防大橋, 大島大橋, 周防大島
+cluster1:(14)
+山頂, 訪問, 景色, 道, 真下, 場合, 日没鑑賞, 場所, 大島, 時間, 夕暮れ, スペース, 天気, 注意
+cluster2:(4)
+車, 対向車, 展望台, 探し車
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

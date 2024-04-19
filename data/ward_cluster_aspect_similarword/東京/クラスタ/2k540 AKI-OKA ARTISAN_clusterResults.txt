@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:2k540 AKI-OKA ARTISAN>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+高架下, JR秋葉原駅, 御徒町駅
+cluster1:(15)
+デザイン, 店, 気, TV, 技, メニュー, こだわり商品, 軒, 秋葉原, 雑貨店, アパレル, 街, もの, 時間, 匠
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:パパスダイビングスタジオ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(11)
+宿泊, 宿, 設備, 接客, 客, 家族, 世話, 船, 経営, 部屋, 先輩インスト
+cluster1:(7)
+小笠原, ダイビング, ツアー, シャワーブース, ブランクダイバー, インスト, インストラクター
+cluster2:(2)
+感じ, 予定
+cluster3:(3)
+別, 上, 外
+cluster4:(1)
+心地
+cluster5:(1)
+機材洗い場干し場
+
+howmany entities : 25
+howmany clusters : 6
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 6
+deleted 0entities.

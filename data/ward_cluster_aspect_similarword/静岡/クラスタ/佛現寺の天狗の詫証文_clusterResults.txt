@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:佛現寺の天狗の詫証文>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+温泉, 天狗詫状, 伊東, 天狗, 寺
+cluster1:(2)
+悪さ, 拝見
+cluster2:(5)
+こと, 価値, 体験, 感動, 経験
+cluster3:(4)
+写真, 一般, 場, 非公開
+cluster4:(1)
+重要さ
+cluster5:(2)
+仏現寺, 詫証文
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than3entities) : 14
+howmany clusters (more than3entities) : 3
+deleted 5entities.

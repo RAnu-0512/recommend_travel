@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足湯きらめき>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+藍ケ江, 藍ヶ江港
+cluster1:(3)
+清掃作業, 作業, 清掃
+cluster2:(2)
+足湯, 湯
+cluster3:(8)
+場所, 人達, 建物, 太平洋, 思いやり, 海, 周り, 前
+cluster4:(3)
+終了, 散歩, 帰り
+cluster5:(1)
+岸壁
+cluster6:(1)
+鉢花
+cluster7:(3)
+時間外, 利用時間制限, 年中無休
+
+howmany entities : 23
+howmany clusters : 8
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 8
+deleted 0entities.

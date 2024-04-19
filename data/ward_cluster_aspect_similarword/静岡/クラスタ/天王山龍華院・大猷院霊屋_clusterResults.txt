@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:天王山龍華院・大猷院霊屋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駐車場, 無料駐車場, 駐車場所, 龍華院駐車場
+cluster1:(4)
+掛川城主北条, 掛川古城跡地, 掛川城, 掛川古城
+cluster2:(10)
+存在, 外観, 側, 北東, こと, 春日, 東側, 家, 城, 存続
+cluster3:(3)
+霊廟, 霊, 将軍家光
+cluster4:(1)
+厨子
+cluster5:(1)
+方型造り
+cluster6:(2)
+三間四方, 子角山公園
+cluster7:(3)
+今川義忠, 大猷院霊屋, 朝比奈泰煕
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than3entities) : 24
+howmany clusters (more than3entities) : 5
+deleted 4entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:慶応義塾三田演説館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+図書館旧館, 旧館
+cluster1:(2)
+見学, 正門
+cluster2:(10)
+図書館, イラスト, 内部, 国, 建物, 慶応義塾大学, 大学, 文化財, 写真, 星
+cluster3:(1)
+三田キャンパス
+cluster4:(1)
+総合評価
+cluster5:(1)
+福沢諭吉
+cluster6:(8)
+常設展示資料, 演説風景, 企画展示, 演説会堂, 慶応義塾三田演説館, 三田演説館, 演説, 常設展示室ガイドマップ
+cluster7:(1)
+福澤諭吉記念慶應義塾史展示館
+
+howmany entities : 26
+howmany clusters : 8
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 8
+deleted 0entities.

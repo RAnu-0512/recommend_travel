@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:後藤又兵衛の墓(鳥取県鳥取市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+真ん中, 知名度
+cluster1:(2)
+隣, 横
+cluster2:(1)
+お家
+cluster3:(1)
+感激
+cluster4:(1)
+墓
+cluster5:(1)
+鳥取
+cluster6:(1)
+後藤又兵衛
+cluster7:(1)
+潔さ
+
+howmany entities : 10
+howmany clusters : 8
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松の御茶屋(浜離宮恩賜庭園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+工法, 建築材料
+cluster1:(10)
+外, ガイド付き, こと, 復元, 非公開, 様子, 潮入, 浜離宮庭園, 内部, 建物
+cluster2:(6)
+茶屋, 離宮, 中島の御茶屋, 池側, 大泉水ほとり, 池
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

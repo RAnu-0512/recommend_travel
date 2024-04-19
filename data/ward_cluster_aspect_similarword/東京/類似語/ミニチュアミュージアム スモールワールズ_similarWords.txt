@@ -1,0 +1,19 @@
+--------------------similar_words:ミニチュアミュージアム スモールワールズ--------------------
+top3 entities near to cluster0>>
+都心, 空港, 混雑
+top3 entities near to cluster2>>
+離発着, 飛行機, 離着陸
+top3 entities near to cluster3>>
+ジオラマ, ミニチュア, フィギュア
+top3 entities near to cluster4>>
+イベント, エバンゲリオン, 催し物
+top3 entities near to cluster5>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster6>>
+ボタン, かけちがい, ビューボタン
+top3 entities near to cluster7>>
+子供, 家族, 子ども
+top3 entities near to cluster8>>
+値段, 設定, 価格
+top3 entities near to cluster9>>
+入場者, 入場, 来場者, 来場

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瀬戸谷温泉ゆらく>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+注意喚起, 点が.
+cluster1:(7)
+駐車場, 入浴料金, 常連客, 女性側, 施設側, 施設, 各種割引サービス
+cluster2:(10)
+温泉, 風呂セット, お湯, 浴室, 黙浴, 源泉, 源泉ポンプ, 浴場, 風呂, 湯
+cluster3:(3)
+喋り, 喋り声, 声
+cluster4:(28)
+炭酸泉, スタッフ, 修理, スタンプカード, 安さ, 地元, こと, 制度, 対応, 張り紙, 営業, 人, 緑, 伊豆, 気持ち, 時間, 露天風呂, サウナ, 食事, アナウンス, 元気, スポット, 方々, コスパ, ポンプ, 方, 常連, エリア
+
+howmany entities : 50
+howmany clusters : 5
+howmany entities (more than3entities) : 48
+howmany clusters (more than3entities) : 4
+deleted 2entities.

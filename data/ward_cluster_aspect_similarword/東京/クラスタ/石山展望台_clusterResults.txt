@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石山展望台>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+石山展望, 展望台, 石山展望台, 石山展望台見晴らし
+cluster1:(2)
+モアイ像, モヤイ像
+cluster2:(2)
+新島, 新島村
+cluster3:(4)
+周囲, 海, 景色, 島々
+cluster4:(1)
+採石場
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お種弁天>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+砂丘, 鳥取
+cluster1:(2)
+鳥取砂丘, ほとり
+cluster2:(1)
+南側
+cluster3:(1)
+川
+cluster4:(1)
+池
+cluster5:(1)
+神社
+cluster6:(1)
+白蛇
+cluster7:(1)
+お種弁天
+cluster8:(1)
+ヶ池弁天宮
+cluster9:(1)
+金運・財運
+
+howmany entities : 12
+howmany clusters : 10
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 10
+deleted 0entities.

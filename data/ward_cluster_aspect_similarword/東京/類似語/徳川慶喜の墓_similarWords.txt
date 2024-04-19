@@ -1,0 +1,27 @@
+--------------------similar_words:徳川慶喜の墓--------------------
+top3 entities near to cluster0>>
+墓石, 墓所
+top3 entities near to cluster1>>
+墓地, 霊園, 墓所
+top3 entities near to cluster2>>
+幕府, 慶喜, 将軍
+top3 entities near to cluster3>>
+塀, 鉄柵
+top3 entities near to cluster4>>
+徒歩, 駅, 駅前
+top3 entities near to cluster5>>
+明治, 幕末, 明治維新
+top3 entities near to cluster6>>
+案内, 流れ, 流れる
+top3 entities near to cluster7>>
+気持ち, 雰囲気
+top3 entities near to cluster11>>
+寛永寺, 敷地, 増上寺
+top3 entities near to cluster12>>
+歴史, 時代, 生涯
+top3 entities near to cluster14>>
+案内板, 案内, 倒連
+top3 entities near to cluster15>>
+征, 大, 圧戦
+top3 entities near to cluster16>>
+慶喜, 将軍家, 家康

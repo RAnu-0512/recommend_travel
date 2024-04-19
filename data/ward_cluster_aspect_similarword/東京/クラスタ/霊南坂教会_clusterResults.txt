@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霊南坂教会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+茱萸坂, 汐見坂, 霊南坂, 霊南坂教会, ぐみざか, 汐見坂・霊南坂
+cluster1:(2)
+三浦友和, 山口百恵
+cluster2:(6)
+関ビル, 赤坂, 東京, 虎ノ門金毘羅宮, 東京駅, 江戸時代
+cluster3:(7)
+コンサート, オルガン, キリスト教, アークヒルズ, ステンドグラス, アメリカ, パイプオルガン
+cluster4:(2)
+オススメ, フゥフゥ
+cluster5:(2)
+おまけ, あたり
+cluster6:(1)
+雰囲気
+cluster7:(1)
+ルート
+cluster8:(6)
+結婚式, 有名人, 永田町, 警察官, 幼稚園, 大使館
+cluster9:(10)
+手前, 建物, 内容, 感じ, 見所, 前半, 周り, 方, こと, 周辺
+cluster10:(7)
+息, 音色, 霞, 海, 外, 荘厳, 歩
+cluster11:(4)
+坂, 山坂, 登り, 案内柱
+cluster12:(4)
+国会議事堂, プロテスタント教会, 礼拝, 教会
+cluster13:(1)
+高低差
+
+howmany entities : 59
+howmany clusters : 14
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 14
+deleted 0entities.

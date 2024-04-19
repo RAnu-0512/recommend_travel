@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三原市白竜湖スポーツ村公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 三原市
+cluster1:(10)
+施設, 園内, フットサル, 高校生, スポーツ施設, 場所, スポーツ, 雰囲気, テニスコート, 桜
+cluster2:(3)
+白竜湖スポーツ村公園, 野球場, ドーム型体育館
+cluster3:(1)
+多目的運動場
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

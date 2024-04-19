@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:マツムシソウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+高原野草, 高原植物
+cluster1:(7)
+時期, マツムシソウ, 桝水高原, こと, 人, 数, 終わり
+cluster2:(3)
+名前, 写真, データブック
+cluster3:(5)
+紫, 植物, 紫色, 花, 高山
+cluster4:(1)
+松虫
+cluster5:(1)
+保護活動
+cluster6:(1)
+鳥取県
+cluster7:(1)
+絶滅危惧種
+
+howmany entities : 21
+howmany clusters : 8
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 8
+deleted 0entities.

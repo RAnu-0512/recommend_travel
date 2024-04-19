@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:呉婆々宇山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+眺望, 山頂, 登山道, 観光, 登山, 景色, 登りごたえ
+cluster1:(2)
+市, 山
+cluster2:(6)
+途中, バス停, アクセス, コンビニ, 感じ, 見どころ
+cluster3:(1)
+草花
+cluster4:(1)
+宇山
+cluster5:(4)
+岩壁, 岩屋観音岩峰, 水分峡森林公園, 岩
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 6
+deleted 0entities.

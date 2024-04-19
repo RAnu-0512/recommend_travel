@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:雷5656会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+缶, 土産, 味, 包装, キャラメル味, おこし土産
+cluster1:(5)
+銀, 浅草, 雷, 演芸, 雷神
+cluster2:(2)
+元気, 命
+cluster3:(2)
+実家, 自宅
+cluster4:(2)
+家, 先生
+cluster5:(4)
+娘, 子供, 家族, 友人
+cluster6:(3)
+人, 日本, 女性
+cluster7:(1)
+店員
+cluster8:(1)
+思春
+cluster9:(31)
+イベントスペース, スタッフ, 特典, オススメ, 兄さん, 作り方, 建物, いくつか, 待ち時間, 浅草寺, 場, 作りたて, 手順, お笑い, 思い出, すべて, 雷おこし, デモンストレーション, 流れ, おみやげコーナー, 映像, イメージ, 時間, 写真, デザイン, 方, 歴史, 中, 全部, 工程, キット
+cluster10:(1)
+甥っ子
+cluster11:(2)
+雷おこし体験, 体験
+cluster12:(2)
+おこし作り体験, 作り体験
+cluster13:(9)
+おこしキット, 試し, おこしづくり, 生おこし, おこし, 雷おこし作り, 参加者, 行き生おこし, おこし作り
+cluster14:(3)
+速さ, 出来立て, 出来たて
+cluster15:(1)
+浅草観光の時に雷おこし
+
+howmany entities : 75
+howmany clusters : 16
+howmany entities (more than1entities) : 75
+howmany clusters (more than1entities) : 16
+deleted 0entities.

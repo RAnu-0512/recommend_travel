@@ -1,0 +1,11 @@
+--------------------similar_words:マルハチ--------------------
+top3 entities near to cluster0>>
+山, 麓, なか
+top3 entities near to cluster1>>
+植物, 樹木, 動植物
+top3 entities near to cluster2>>
+固有種, 固有, 種類
+top3 entities near to cluster3>>
+戦跡, ツアー, 史跡
+top3 entities near to cluster4>>
+マル, ハチ, ロク

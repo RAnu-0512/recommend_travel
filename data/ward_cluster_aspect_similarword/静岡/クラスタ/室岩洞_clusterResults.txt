@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:室岩洞>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+駐車場, 跡, 松崎海水浴場, 採掘跡, 採石場跡
+cluster1:(20)
+水, 照明, タイマー, こと, 伊豆石, ライト, 洞窟入り口, 伊豆, 断崖, 江戸城, 壁面, 道路, 終戦, 場所, 地, 石, 下り階段, 国道脇, 江戸時代, 説明
+
+howmany entities : 25
+howmany clusters : 2
+howmany entities (more than3entities) : 25
+howmany clusters (more than3entities) : 2
+deleted 0entities.

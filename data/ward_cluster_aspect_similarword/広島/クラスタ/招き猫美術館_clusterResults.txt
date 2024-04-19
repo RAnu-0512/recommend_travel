@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:招き猫美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+福猫石, 猫石, 石, 石猫, 自然石
+cluster1:(13)
+他猫, 猫美術館, 猫, ネコ, 福石猫, 猫グッズ, 仏猫, 猫ちゃん, 猫好き, 猫ちゃん達, 猫たち, 看板猫, 招き猫ちゃん達
+cluster2:(3)
+民家, 民家風, 古民家
+cluster3:(3)
+岡山の招き猫美術館, 尾道, 前回尾道
+cluster4:(2)
+子供連れ, 子供たち
+cluster5:(4)
+小梅ちゃん, 細道, 坂, 招き猫神社
+cluster6:(3)
+もの, 感じ, こと
+cluster7:(3)
+方, 人, 多く
+cluster8:(2)
+途中, 中
+cluster9:(1)
+何か
+cluster10:(6)
+完成, 展示, 写真, 顔, 絵, 価格
+cluster11:(10)
+スポット, デザイン, フェア, 雰囲気, 美術館, 招き猫, 招き猫美術館, 全国, 入り口, 千光寺
+cluster12:(6)
+施設, 館内, 入口, 部屋, 付近, 場所
+cluster13:(3)
+観光, 土産, 徒歩
+cluster14:(1)
+写真撮影
+cluster15:(1)
+入館料
+
+howmany entities : 66
+howmany clusters : 16
+howmany entities (more than1entities) : 66
+howmany clusters (more than1entities) : 16
+deleted 0entities.

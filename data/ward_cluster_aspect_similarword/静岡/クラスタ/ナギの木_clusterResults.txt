@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ナギの木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+宗像神社, 天宮神社
+cluster1:(3)
+御守り, 御神木, 神木
+cluster2:(8)
+貫禄, 樹高, 利益, 丈夫さ, 葉, ナギ, 木, 縁
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than3entities) : 11
+howmany clusters (more than3entities) : 2
+deleted 2entities.

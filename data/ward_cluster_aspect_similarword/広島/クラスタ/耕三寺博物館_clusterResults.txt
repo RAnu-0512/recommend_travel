@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:耕三寺博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+耕三寺博物館, 耕三寺, 耕三寺家, 耕三寺耕三
+cluster1:(3)
+近代美術品, 美術品, 美術コレクション
+cluster2:(3)
+別館, 展示, 博物館施設
+cluster3:(7)
+中, 大阪, 母, 博物館, 形式, 一部, 場所
+cluster4:(2)
+工夫, 感謝
+cluster5:(1)
+丘
+cluster6:(1)
+寺内
+cluster7:(7)
+金剛館, 寺, 観光地, 寺境内, 寺院耕三, 寺院, 仏像
+
+howmany entities : 28
+howmany clusters : 8
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 8
+deleted 0entities.

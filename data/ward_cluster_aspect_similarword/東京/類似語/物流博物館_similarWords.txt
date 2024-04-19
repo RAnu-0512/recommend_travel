@@ -1,0 +1,15 @@
+--------------------similar_words:物流博物館--------------------
+top3 entities near to cluster0>>
+物流, ロジスティクス, 運送
+top3 entities near to cluster1>>
+入館料, 入場料, 入場, 入館
+top3 entities near to cluster2>>
+時代, 学生, 末期
+top3 entities near to cluster4>>
+展示, 展覧
+top3 entities near to cluster5>>
+鉄道, 汽車, 列車
+top3 entities near to cluster7>>
+映画, 映像, 子供
+top3 entities near to cluster8>>
+徒歩, 地下, 駅

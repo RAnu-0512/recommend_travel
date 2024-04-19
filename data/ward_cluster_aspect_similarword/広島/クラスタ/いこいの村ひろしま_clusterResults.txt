@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:いこいの村ひろしま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+スキー, バラエティー, スキー場, レジャー, スタッフ, 愛想, 雰囲気, 食事
+cluster1:(4)
+バストイレ, セラミック温泉, 温泉, 送迎
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

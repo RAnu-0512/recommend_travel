@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:回天訓練基地跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+予備知識, 訓練基地, 訓練, 搭乗員, 操縦訓練
+cluster1:(2)
+黒木博司, 市川海老蔵
+cluster2:(17)
+もの, 島, 反対側, 出口, ロケ, 平和, 場所, 地, 主演, 観光客, ひとつ, 大津島, 海, イカ, 海沿い, 建物, 釣り人
+cluster3:(9)
+発射跡地, 発射試験場, 武器, 敵艦, 回天, 兵器, 特攻兵器, 特攻, 海軍
+cluster4:(9)
+回天訓練場跡, 酸素魚雷, 大津島馬島港, 人間魚雷回天, 人間魚雷, 回天資料館, 資料館, 回天記念館, 魚雷
+
+howmany entities : 42
+howmany clusters : 5
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 5
+deleted 0entities.

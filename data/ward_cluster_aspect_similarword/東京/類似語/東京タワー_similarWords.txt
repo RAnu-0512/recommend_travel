@@ -1,0 +1,97 @@
+--------------------similar_words:東京タワー--------------------
+top3 entities near to cluster0>>
+展望台, 展望, 見晴らし台, 見晴らし
+top3 entities near to cluster1>>
+増上寺, 芝公園, 東京湾
+top3 entities near to cluster2>>
+パネル, フロア, シート
+top3 entities near to cluster3>>
+景色, 街並み, 夕暮れ
+top3 entities near to cluster4>>
+オレンジ, ピンク, カラフル
+top3 entities near to cluster5>>
+アラフォー, アドバイス, アラサー
+top3 entities near to cluster6>>
+オススメ, お気に入り, 久しぶり
+top3 entities near to cluster8>>
+エッフェル塔, タワー, アトラクション
+top3 entities near to cluster9>>
+鯉のぼり, 鯉幟, 千厩川
+top3 entities near to cluster11>>
+スタイル, シーン, システム
+top3 entities near to cluster12>>
+イベント, ショップ, カフェ
+top3 entities near to cluster13>>
+修学旅行, 小学校, 小学生
+top3 entities near to cluster14>>
+ツアー, ガイド, 乗り場
+top3 entities near to cluster15>>
+タワー, スカイ, ツリー
+top3 entities near to cluster17>>
+時間, 予約, 受付
+top3 entities near to cluster18>>
+混雑, 長蛇, 行列
+top3 entities near to cluster19>>
+案内, ガイド, 表示
+top3 entities near to cluster20>>
+店舗, 値段
+top3 entities near to cluster21>>
+入場, 開場, 開演
+top3 entities near to cluster22>>
+見学, 見物, 視察
+top3 entities near to cluster23>>
+対応, 購入, 使用
+top3 entities near to cluster24>>
+消化, ボッカス, 吸収
+top3 entities near to cluster25>>
+こい, のぼり, 滲音
+top3 entities near to cluster26>>
+床, 床や, 壁面
+top3 entities near to cluster27>>
+簡易, 小, 部屋
+top3 entities near to cluster28>>
+階段, 廊下
+top3 entities near to cluster29>>
+登り口, 登り, 登る
+top3 entities near to cluster30>>
+子供, 家族, 子ども
+top3 entities near to cluster31>>
+外国, 海外, 外人
+top3 entities near to cluster32>>
+夕方, 昼過ぎ, 昼前
+top3 entities near to cluster33>>
+日, 月, 年
+top3 entities near to cluster34>>
+頃, 時, 以前
+top3 entities near to cluster35>>
+目線, 真上, 足元
+top3 entities near to cluster36>>
+窓, ガラス
+top3 entities near to cluster37>>
+光心, 光, こころ
+top3 entities near to cluster38>>
+方角, 方向, 方位
+top3 entities near to cluster39>>
+撮影, 写真, 撮っ
+top3 entities near to cluster40>>
+夜景, 景色, 絶景
+top3 entities near to cluster41>>
+ビル街, 繁華街, ビル, 繁華
+top3 entities near to cluster42>>
+駅, 周辺, 駅前
+top3 entities near to cluster43>>
+建築, 工事, 土木
+top3 entities near to cluster44>>
+台場, ビーナスフォート, 港
+top3 entities near to cluster45>>
+高層, ビル, ノッポビル
+top3 entities near to cluster48>>
+タワー, 都, 都内
+top3 entities near to cluster49>>
+タワー, ミニ, 都
+top3 entities near to cluster50>>
+都派, タワー, 都
+top3 entities near to cluster51>>
+入場, タワー, チケット
+top3 entities near to cluster52>>
+土産, 土産物, おみやげ

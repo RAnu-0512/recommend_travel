@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:G Info>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+外国人, 観光案内所, 外国人観光客, 外国語, 語, 観光情報, インバウンド外国
+cluster1:(15)
+反対側, メイン, 海外, 人, G Info, 数寄屋橋公園側, 情報, パンフレット, パンフレット類, 日本, 方, こと, スポット, スペース, もの
+cluster2:(2)
+外堀, 外堀通り
+cluster3:(2)
+東急プラザ, 東急プラザ銀座
+cluster4:(4)
+銀座数寄屋橋, 原宿, 銀座, 新宿
+
+howmany entities : 30
+howmany clusters : 5
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 5
+deleted 0entities.

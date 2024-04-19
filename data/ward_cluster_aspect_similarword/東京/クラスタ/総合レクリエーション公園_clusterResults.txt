@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:総合レクリエーション公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(12)
+季節, バラ, 方, おすすめ, ポニーランド, 端, 子供, 植木, 乗車, イベント, ポニー, 花
+cluster1:(3)
+公園, 江戸川区, 総合レクリエーション公園
+
+howmany entities : 15
+howmany clusters : 2
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 2
+deleted 0entities.

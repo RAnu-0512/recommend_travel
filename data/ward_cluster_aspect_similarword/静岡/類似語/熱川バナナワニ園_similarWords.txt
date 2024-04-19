@@ -1,0 +1,49 @@
+--------------------similar_words:熱川バナナワニ園--------------------
+top3 entities near to cluster0>>
+施設, 駐車, バス
+top3 entities near to cluster1>>
+子ども, 動物, 赤ちゃん
+top3 entities near to cluster2>>
+見応え, 見ごたえ, 見所
+top3 entities near to cluster3>>
+フルーツ, ジュース, パイナップル
+top3 entities near to cluster4>>
+おすすめ, オススメ, 見どころ
+top3 entities near to cluster6>>
+イベント, アイテム, スタッフ
+top3 entities near to cluster12>>
+エリア, キャラ, レベル
+top3 entities near to cluster13>>
+カピバラ, アニマルゾーン, テディベアー
+top3 entities near to cluster15>>
+バナナ, パフェ, パイナップル
+top3 entities near to cluster16>>
+フルーツ, パイン, ジュース
+top3 entities near to cluster22>>
+熱帯魚, 熱帯, 動物
+top3 entities near to cluster23>>
+エサ, 餌, えさ
+top3 entities near to cluster24>>
+子供, 子ども, 息子
+top3 entities near to cluster25>>
+屋根, 階段
+top3 entities near to cluster28>>
+駅, 施設, 敷地
+top3 entities near to cluster29>>
+子供, お母さん, 家族
+top3 entities near to cluster32>>
+構成, 動き, 記述
+top3 entities near to cluster34>>
+季節感, 季節, 時期
+top3 entities near to cluster35>>
+姿, 匂い
+top3 entities near to cluster38>>
+興奮, 迫力, 興味
+top3 entities near to cluster40>>
+ワニ, ゾウ, アザラシ
+top3 entities near to cluster41>>
+ワニ, アザラシ, ヘビ
+top3 entities near to cluster42>>
+ワニ, ヘビ, アザラシ
+top3 entities near to cluster46>>
+植物園, 動物園, 植物, 動物

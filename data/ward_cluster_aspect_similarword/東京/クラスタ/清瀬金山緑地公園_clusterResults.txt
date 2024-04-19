@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清瀬金山緑地公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 有料駐車場
+cluster1:(7)
+公園じ, 花見時期, 公園, 花見, 散歩, 名所, 三脚カメラ
+cluster2:(2)
+人たち, 人
+cluster3:(11)
+こども, ワンコ, タイムズ, カワセミ, 子供, 気持ち, 方, マナー, こと, 雰囲気, バーベキュー
+cluster4:(2)
+春, 冬場
+cluster5:(2)
+自然, 緑
+cluster6:(1)
+ゴミ
+cluster7:(7)
+池, カモ, 蛍, 川, 年中鴨, 水鳥, 桜
+cluster8:(1)
+直火
+
+howmany entities : 35
+howmany clusters : 9
+howmany entities (more than1entities) : 35
+howmany clusters (more than1entities) : 9
+deleted 0entities.

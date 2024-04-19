@@ -1,0 +1,13 @@
+--------------------similar_words:フクロウのお庭--------------------
+top3 entities near to cluster0>>
+鷹匠, 体験, 猛禽
+top3 entities near to cluster1>>
+興味, 性格
+top3 entities near to cluster2>>
+体験, 解説, レクチャー
+top3 entities near to cluster3>>
+店内, 部屋
+top3 entities near to cluster4>>
+タカ, フン, フタ
+top3 entities near to cluster6>>
+時間帯, 時間, 時の間

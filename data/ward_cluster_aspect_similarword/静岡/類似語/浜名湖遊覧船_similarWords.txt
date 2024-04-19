@@ -1,0 +1,31 @@
+--------------------similar_words:浜名湖遊覧船--------------------
+top3 entities near to cluster0>>
+遊覧船, 遊覧, 周遊船, 周遊
+top3 entities near to cluster1>>
+曇り空, 天気, 晴天
+top3 entities near to cluster2>>
+夕日, 夕陽, 夕焼け
+top3 entities near to cluster4>>
+景色, 風景, 夕景
+top3 entities near to cluster6>>
+湖, 湖畔, フェワ
+top3 entities near to cluster9>>
+餌, 群れ, 子供
+top3 entities near to cluster11>>
+ホテル, アトラクション, ランチ
+top3 entities near to cluster14>>
+子供, 大人, 子ども
+top3 entities near to cluster16>>
+家族, 友人
+top3 entities near to cluster19>>
+港, 温泉, 駅前
+top3 entities near to cluster23>>
+周遊, 遊覧, クルージング
+top3 entities near to cluster24>>
+時間, 所要
+top3 entities near to cluster25>>
+乗船券, 乗車券, 乗車, 乗船
+top3 entities near to cluster27>>
+乗船, 出航, 出港
+top3 entities near to cluster28>>
+船内, 船上

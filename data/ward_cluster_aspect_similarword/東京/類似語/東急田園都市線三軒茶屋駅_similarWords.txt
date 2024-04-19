@@ -1,0 +1,11 @@
+--------------------similar_words:東急田園都市線三軒茶屋駅--------------------
+top3 entities near to cluster1>>
+駅, 駅前, 周辺
+top3 entities near to cluster2>>
+路線, 距離, 急行
+top3 entities near to cluster3>>
+地下, 出口, 地下道
+top3 entities near to cluster4>>
+飲み屋街, 飲み屋
+top3 entities near to cluster5>>
+化, 都市, 擬人

@@ -1,0 +1,11 @@
+--------------------similar_words:田代の郷温泉 伊太和里の湯--------------------
+top3 entities near to cluster1>>
+温泉, 風呂, 銭湯
+top3 entities near to cluster2>>
+温泉, 旅館, 温泉郷
+top3 entities near to cluster3>>
+大勢, 人達
+top3 entities near to cluster12>>
+割引, 利用, 割り引き
+top3 entities near to cluster13>>
+従業員, 従業, 常連

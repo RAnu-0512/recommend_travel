@@ -1,0 +1,33 @@
+--------------------similar_words:半潜水式水中展望船 ベルクルーズいとう ゆーみんフック--------------------
+top3 entities near to cluster1>>
+カモメ, ウミネコ, トンビ
+top3 entities near to cluster3>>
+トイレ, ペット, エアコン
+top3 entities near to cluster5>>
+ビーチ, グラス, ガラス
+top3 entities near to cluster7>>
+カッパえびせん, カッパエビセン, かっぱえびせん
+top3 entities near to cluster9>>
+スタッフ, ポイント, コンテンツ
+top3 entities near to cluster13>>
+思い出, 絵日記, 夏休み
+top3 entities near to cluster15>>
+迫力, 感動, 存分
+top3 entities near to cluster18>>
+心配, 問題
+top3 entities near to cluster23>>
+案内, 予約, 利用
+top3 entities near to cluster24>>
+景色, 風景, 屋根
+top3 entities near to cluster26>>
+子供, 息子, 子ども
+top3 entities near to cluster28>>
+時間, 予約, 割引
+top3 entities near to cluster32>>
+海中, 海, 海辺
+top3 entities near to cluster33>>
+子供, 子ども, 親達
+top3 entities near to cluster34>>
+魚類, サカナ
+top3 entities near to cluster35>>
+船内, 乗船

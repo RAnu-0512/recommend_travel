@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊勢塚古墳(静岡県富士市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+境内, 墓地, 古墳, 土地
+cluster1:(3)
+一角, 下, 丘
+cluster2:(3)
+形状, 全長, 小型
+cluster3:(1)
+何世紀
+cluster4:(3)
+富士市, 玄龍寺, 伊勢塚
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than3entities) : 13
+howmany clusters (more than3entities) : 4
+deleted 1entities.

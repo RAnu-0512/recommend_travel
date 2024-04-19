@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大悲願寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+武蔵増戸, 観音堂
+cluster1:(1)
+駅
+cluster2:(1)
+奥
+cluster3:(1)
+彫刻
+cluster4:(1)
+線路沿い
+cluster5:(1)
+武蔵五日市駅
+cluster6:(1)
+観光案内所
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

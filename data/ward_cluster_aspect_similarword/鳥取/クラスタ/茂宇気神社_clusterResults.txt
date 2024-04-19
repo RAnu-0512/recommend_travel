@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:茂宇気神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+祭神, 神社
+cluster1:(2)
+山, 人
+cluster2:(1)
+橋
+cluster3:(1)
+金
+cluster4:(1)
+県道
+cluster5:(1)
+アマテラス
+cluster6:(1)
+もうけじんじゃ
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

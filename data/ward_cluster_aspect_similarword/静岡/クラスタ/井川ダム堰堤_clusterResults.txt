@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:井川ダム堰堤>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+井川ダム, 大井川鐵道トロッコ, 井川駅
+cluster1:(10)
+静岡, トロッコ, コラボ, 大井川, 写真, 景観, 列車, 迫力, 自然, コンクリート
+cluster2:(3)
+電力, ダム, 水系
+cluster3:(1)
+建造物
+cluster4:(3)
+大きさ, 貯水量, 広さ
+cluster5:(1)
+発電専用中空式コンクリートダム
+
+howmany entities : 21
+howmany clusters : 6
+howmany entities (more than3entities) : 19
+howmany clusters (more than3entities) : 4
+deleted 2entities.

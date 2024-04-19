@@ -1,0 +1,66 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:午前2時のハリネズミさん>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハリネズミたち, ハリネズミ達
+cluster1:(2)
+子たち, 子達
+cluster2:(1)
+どの子
+cluster3:(3)
+ビル, 生態, 地上
+cluster4:(6)
+スタッフ, エレベーター, ポイント, カップル, 待ち時間, 触れ合い
+cluster5:(3)
+モッチー, ちゃーん, 兄さん
+cluster6:(1)
+小学生
+cluster7:(1)
+見送り
+cluster8:(1)
+口コミ
+cluster9:(11)
+赤ちゃんハリネズミ, チンチラ, モモンガ, デグー, ハムスター, フクロモモンガ, 生き物, ペットショップ, ハリネズミ, モルモット, 小動物
+cluster10:(1)
+パンダマウス
+cluster11:(7)
+娘, 子, 旦那, 息子, ハリネズミくん, 子供, ミントちゃん
+cluster12:(1)
+消化
+cluster13:(9)
+客, 店, 店名, 看板, 店内, 名前, 店員, 店長, パチンコ屋
+cluster14:(2)
+おやつ, 触り方
+cluster15:(11)
+気, 性格, 方, こと, 納得, 感じ, 理由, 都合, 機会, 説明, 姿
+cluster16:(4)
+ふれあい場所, 部屋, 所, 場所
+cluster17:(4)
+前, 最後, 時間, 次
+cluster18:(6)
+写真, 他, 話, 笑, 行き方, 顔ぶれ
+cluster19:(1)
+左
+cluster20:(1)
+訪問
+cluster21:(1)
+エチカc6
+cluster22:(1)
+横断歩道
+cluster23:(2)
+夜行性動物, 夜行性
+cluster24:(2)
+小動物達, 小動物たち
+cluster25:(2)
+動物たち, 動物達
+cluster26:(2)
+動物, 動物カフェ
+cluster27:(1)
+動物園
+cluster28:(1)
+動物臭
+
+howmany entities : 90
+howmany clusters : 29
+howmany entities (more than1entities) : 90
+howmany clusters (more than1entities) : 29
+deleted 0entities.

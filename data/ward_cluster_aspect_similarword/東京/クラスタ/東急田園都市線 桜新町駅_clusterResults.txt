@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東急田園都市線 桜新町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(22)
+所, 田園都市線, 人, 街並み, 気分, 写真スポット, 街, 桜色, 新町, 夕方, エレベーター, 駅, 桜新町, サザエ, 地下鉄, 銅像, 美術館, 写真, 出迎え, こちら山, 気迫, 町
+cluster1:(3)
+御一家, 磯野家, 一家
+cluster2:(12)
+地下駅, 地上, 改札階, 商店会, 長谷川町子美術館, 地下, 渋谷駅, 長谷川町子, 商店街, 飲食店, 桜新町駅, 駅名
+
+howmany entities : 37
+howmany clusters : 3
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 3
+deleted 0entities.

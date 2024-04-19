@@ -1,0 +1,47 @@
+--------------------similar_words:東京オペラシティアートギャラリー--------------------
+top3 entities near to cluster0>>
+展覧会, 展示会, 展覧, 展示
+top3 entities near to cluster1>>
+常設展, 常設, 展示
+top3 entities near to cluster2>>
+展示場, 展示, 出展
+top3 entities near to cluster3>>
+展示, 展覧
+top3 entities near to cluster4>>
+企画展, 企画, 展示
+top3 entities near to cluster5>>
+収蔵室, 展示室, 展示, 収蔵
+top3 entities near to cluster6>>
+初台, 明大前, 参宮橋
+top3 entities near to cluster9>>
+天井, 床, 床や
+top3 entities near to cluster10>>
+アート, ギャラリー, ドローイング
+top3 entities near to cluster11>>
+こども, クリスマス, 子ども
+top3 entities near to cluster12>>
+ラジカセ, ロッカー, ビデオデッキ
+top3 entities near to cluster13>>
+レストラン, オブジェ, イベント
+top3 entities near to cluster14>>
+国内外, 世界中, 内外
+top3 entities near to cluster18>>
+シティ, オペラ, シティー
+top3 entities near to cluster19>>
+配列, 刀身
+top3 entities near to cluster20>>
+時間, 作品, 動画
+top3 entities near to cluster21>>
+キー, アラー, ジャー
+top3 entities near to cluster22>>
+広い, 聴係, 聴室
+top3 entities near to cluster23>>
+美術, 現代, 近代
+top3 entities near to cluster24>>
+現代, アート, 作品
+top3 entities near to cluster25>>
+美術, 施設, 建築
+top3 entities near to cluster26>>
+一雄, 駅
+top3 entities near to cluster27>>
+京王線, 駅線, 京王, 駅

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三恵second>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+メンズ, 人, セール, 一部, マダム, 店, 紳士, 下着, メイン, もの, 三軒茶屋, 地元, アイテム
+cluster1:(4)
+服, 婦人もの, 子供服, 婦人服
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

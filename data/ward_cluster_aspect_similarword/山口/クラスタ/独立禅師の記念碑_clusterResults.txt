@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:独立禅師の記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+もの, 一節, 水, 錦帯橋, 記念碑
+cluster1:(2)
+漢詩, 碑文
+cluster2:(1)
+独立禅師
+cluster3:(1)
+流通頼あり 何んぞ
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

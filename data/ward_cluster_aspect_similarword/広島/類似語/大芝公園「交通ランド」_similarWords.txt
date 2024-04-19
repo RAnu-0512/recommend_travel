@@ -1,0 +1,21 @@
+--------------------similar_words:大芝公園「交通ランド」--------------------
+top3 entities near to cluster0>>
+町車, 施設, 町
+top3 entities near to cluster1>>
+小学生, 子ども, 子供
+top3 entities near to cluster2>>
+幼稚園, 保育園, 小学校
+top3 entities near to cluster3>>
+子連れ, 滑り台, 待ち時間
+top3 entities near to cluster4>>
+子, 目の子, テレビッ
+top3 entities near to cluster5>>
+子供, 子ども, 大人
+top3 entities near to cluster6>>
+休日, 弁当, 朝
+top3 entities near to cluster7>>
+遊具, 公園, 園内
+top3 entities near to cluster8>>
+同伴, 付き添い
+top3 entities near to cluster9>>
+交通, 信号, 道路

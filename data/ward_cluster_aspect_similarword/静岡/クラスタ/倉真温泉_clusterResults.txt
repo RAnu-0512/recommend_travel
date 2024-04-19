@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉真温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+IC, 東名
+cluster1:(2)
+蛙, 鳥
+cluster2:(11)
+車, アクセス, クセ, 数件, 冷蔵庫, 思い出, サラッ, 人, 感じ, 到着, 想像
+cluster3:(2)
+風情, 声
+cluster4:(1)
+街中
+cluster5:(2)
+掛川駅, 掛川
+cluster6:(2)
+倉真温泉, 温泉地
+cluster7:(5)
+温泉, 肌, 宿, お湯, 湯
+
+howmany entities : 27
+howmany clusters : 8
+howmany entities (more than3entities) : 16
+howmany clusters (more than3entities) : 2
+deleted 11entities.

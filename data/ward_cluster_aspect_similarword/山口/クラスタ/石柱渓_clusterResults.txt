@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:石柱渓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+渓谷, 景観, 上流, 滝
+cluster1:(8)
+雨, 札, 多く, 道, ところ, 禁止, 箇所, 場所
+cluster2:(1)
+駐車場
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

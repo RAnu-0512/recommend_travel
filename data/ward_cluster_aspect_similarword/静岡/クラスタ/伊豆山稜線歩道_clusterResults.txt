@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆山稜線歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+車, 展望台, マメザクラ, 仁科峠, 富士山, 駐車スペース, 達磨山レストハウス, 達磨山, 景色, 修善寺, 中, 天城峠, アセビ, 天気
+cluster1:(4)
+稜線歩き, 自然公園, 自然歩道, 稜線歩道
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than3entities) : 18
+howmany clusters (more than3entities) : 2
+deleted 0entities.

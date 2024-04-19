@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:洞春寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+戦国武将毛利元就, 毛利家墓所, 毛利元就公
+cluster1:(3)
+洞春寺, 観音霊場, 萌春寺
+cluster2:(15)
+いくつか, 見どころ, コラボ, 文化財, 山口線, 造り, グッズ, 売り上げ, 御朱印, ゆかり, 観音堂, 雰囲気, 瑠璃光寺, 菩提寺, 建物
+cluster3:(8)
+もの, 気持, 場所, 縁, 時間, 人々, 時代, 歴史
+cluster4:(7)
+中国, 職員, 全国, 国, 隣, 西側, 近く
+cluster5:(1)
+戦国時代
+cluster6:(1)
+重厚感
+cluster7:(3)
+寺巡り, 参拝者, 札所
+cluster8:(14)
+参道, 境内, 重文, 本堂, 寺, 山門, 禅宗, 観音寺仏殿, 寺院, 大内, 室町, 仏殿, 寺領, 墓
+cluster9:(7)
+上山口駅, とうしゅんじ, 山口市, 養護施設, 駐車場, 緑豊か, 山口駅
+
+howmany entities : 62
+howmany clusters : 10
+howmany entities (more than1entities) : 62
+howmany clusters (more than1entities) : 10
+deleted 0entities.

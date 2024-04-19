@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鶴ヶ嶺八幡宮のクスノキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+JR, クスノキ
+cluster1:(1)
+徒歩
+cluster2:(1)
+高さ
+cluster3:(1)
+山陰本線奈古駅
+cluster4:(1)
+鶴ヶ嶺八幡宮
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,49 @@
+--------------------similar_words:ホテルJALシティ羽田東京 Cafe&Dining HARUHORO--------------------
+top3 entities near to cluster0>>
+料理, 肉, 食材
+top3 entities near to cluster1>>
+予約, 限定, 期間
+top3 entities near to cluster2>>
+味噌, 生姜, みそ
+top3 entities near to cluster3>>
+チキン, カレー, ビーフ
+top3 entities near to cluster4>>
+カレー, カレーライス, キーマカレー
+top3 entities near to cluster5>>
+ポーク, ロースト, ビーフ
+top3 entities near to cluster6>>
+ケーキ, アイス, アイスクリーム
+top3 entities near to cluster7>>
+パスタ, サラダ, スープ
+top3 entities near to cluster8>>
+ラテ, モカ, カフェラテ
+top3 entities near to cluster9>>
+肉盛り, 皿盛り, 肉, 皿
+top3 entities near to cluster10>>
+前菜, アペタイザー, アンティパストミスト
+top3 entities near to cluster11>>
+料理, 食材, 和食
+top3 entities near to cluster12>>
+ランチ, ディナー, 夕食
+top3 entities near to cluster13>>
+配膳, 配ぜん, ベッドメイキング
+top3 entities near to cluster14>>
+選択肢, プラン, 気配り
+top3 entities near to cluster15>>
+ホール, コート, ウイーク
+top3 entities near to cluster16>>
+飲み物, デザート, コーヒー
+top3 entities near to cluster17>>
+スタッフ, サービス, メッセージ
+top3 entities near to cluster19>>
+待ち時間, 待たす, 待合室
+top3 entities near to cluster20>>
+入り口, メイン, 入口
+top3 entities near to cluster21>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster22>>
+テレビ, 我が家, わが家
+top3 entities near to cluster23>>
+ディナー, レストラン, ランチ
+top3 entities near to cluster24>>
+大鳥居, 大森町, 六郷土手

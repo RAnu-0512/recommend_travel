@@ -1,0 +1,7 @@
+--------------------similar_words:京浜急行平和島駅--------------------
+top3 entities near to cluster0>>
+特急, 快速, 急行
+top3 entities near to cluster1>>
+駅, バス, 駅前
+top3 entities near to cluster2>>
+競艇, 平和, 島

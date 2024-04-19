@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東海道袋井宿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+街道沿い, 宿場町, 宿場
+cluster1:(2)
+鎌倉, 東西
+cluster2:(13)
+女, こと, 火加減, 左手, 男, 出店, 駅, 様子, 東海道, 日本橋, 中心, 秋晴れ, 道
+cluster3:(5)
+本陣, 茶屋, 飛脚, 宿, 旅籠
+cluster4:(1)
+休憩所
+cluster5:(1)
+脇本陣
+cluster6:(9)
+袋井 出茶屋ノ図, JR袋井駅, 遺塵和歌集, 掛川・見附, 遠州凧, 袋井宿, 京都三条, 袋井, 駕籠かき
+cluster7:(1)
+保永堂版 東海道五拾三次
+
+howmany entities : 35
+howmany clusters : 8
+howmany entities (more than3entities) : 30
+howmany clusters (more than3entities) : 4
+deleted 5entities.

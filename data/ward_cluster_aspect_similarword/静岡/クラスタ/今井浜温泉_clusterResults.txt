@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今井浜温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+疲れ, 転換, 気分
+cluster1:(11)
+ベッドルーム, ナトリウム, 海水浴, 肌, 気持ち, 露天風呂, 白砂青松, 夏, 部屋, あたり, LED
+cluster2:(8)
+目, 予定, 利用, 訪問, こと, 近く, 魅力, 前
+cluster3:(5)
+入浴, 食事, 観光, 風呂, 土産物店
+cluster4:(1)
+かけ流し
+cluster5:(21)
+伊豆熱川温泉, 温泉感, 温泉, 絶景露天風呂, 温泉街, 夜桜照明, 海岸, 無色透明, 今井浜海岸に峰, 客室数, 宿, 源泉, 泉質, 海, 温泉地, 感, 客室露天風呂, 海岸沿い, 幸, 湯, 絶景
+cluster6:(2)
+今井浜温泉宿, 今井浜温泉
+cluster7:(2)
+河津温泉, 河津桜
+cluster8:(4)
+張性・弱アルカリ性・高温泉, 塩化物温泉温泉, 家族旅行向き温泉, 塩化物温泉
+
+howmany entities : 57
+howmany clusters : 9
+howmany entities (more than3entities) : 52
+howmany clusters (more than3entities) : 6
+deleted 5entities.

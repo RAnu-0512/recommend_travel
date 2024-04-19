@@ -1,0 +1,9 @@
+--------------------similar_words:鮎原剣神社--------------------
+top3 entities near to cluster0>>
+神, 神様, パワー
+top3 entities near to cluster1>>
+武道, 武術, 剣道
+top3 entities near to cluster2>>
+妙見, 様, 稲荷
+top3 entities near to cluster3>>
+鮎原, 神社, 剣

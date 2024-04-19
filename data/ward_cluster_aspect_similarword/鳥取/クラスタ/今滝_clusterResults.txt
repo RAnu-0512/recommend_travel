@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:今滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+涼しさ, 高さ
+cluster1:(3)
+昼, 秋, 水
+cluster2:(6)
+道, 今滝, 訪れ, 子ども, そば, オススメ
+cluster3:(1)
+方たち
+cluster4:(1)
+コロナ禍
+cluster5:(3)
+滝壺, 駐車場, 滝
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

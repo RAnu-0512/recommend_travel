@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:道の駅 アリストぬまくま>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+施設, 方, 建物, かた, 物, 道, こと, 駅, 場所
+cluster1:(2)
+魚, 海
+cluster2:(11)
+ハンドメイド, 目当て, 目, フリースペース, 子ども, フリーペーパー, ドライブ, ハーブ, レストラン, おすすめ, 年寄り
+cluster3:(6)
+隣, 地元, 人気, 遠方, 新聞, 地域
+cluster4:(14)
+お花, 野菜, 総菜, 昼寝休憩, 旅, 地元野菜, 果物, 土産, 販売, 園芸品, おみやげ物品, 食事, 弁当, 値段
+cluster5:(8)
+福山産, 浦漁港, 鞆, 福山, 観光名所, ぴちぴち鮮魚, 鮮魚, 果物 鮮魚
+
+howmany entities : 50
+howmany clusters : 6
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山政醤油醸造所(浅田醤油)レンガ塀>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+醤油醸造所跡, 醤油醸造所
+cluster1:(2)
+資産家, 政家
+cluster2:(5)
+こと, レンガ, 近く, 技術, フランス
+cluster3:(2)
+土地, 公園
+cluster4:(1)
+醤油
+cluster5:(1)
+中野
+cluster6:(1)
+レンガ塀
+cluster7:(1)
+中野坂上駅
+
+howmany entities : 15
+howmany clusters : 8
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 8
+deleted 0entities.

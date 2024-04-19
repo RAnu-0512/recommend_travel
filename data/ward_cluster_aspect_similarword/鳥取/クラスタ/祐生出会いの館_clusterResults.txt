@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:祐生出会いの館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入場料, 入館料
+cluster1:(11)
+アート作品, 館, 版画作品, 大正, 価値, 反比例, コレクション, 作品, 展示, 観光スポット, 版画
+cluster2:(2)
+鳥取県, 祐生出会い
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

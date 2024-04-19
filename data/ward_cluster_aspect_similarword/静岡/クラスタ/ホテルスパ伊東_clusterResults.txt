@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルスパ伊東>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+温泉気分, 温泉, ホテルゎ駅
+cluster1:(2)
+伊豆, 伊東
+cluster2:(9)
+ユニットバス, オレンジビーチ, 会社, ビジネス, 夏休み, 時代, 無理, サラリーマン, ビジネス特有
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than3entities) : 12
+howmany clusters (more than3entities) : 2
+deleted 2entities.

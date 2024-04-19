@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:JR西立川駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+改札, 自動, ドア
+cluster1:(8)
+コンビニ, 青梅線, 気, 最寄り駅, 近く, ボタン, 最寄駅, スーパー
+cluster2:(3)
+公園, 駅, 徒歩
+cluster3:(1)
+立川駅
+cluster4:(2)
+昭和記念公園, JR東日本 青梅線
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

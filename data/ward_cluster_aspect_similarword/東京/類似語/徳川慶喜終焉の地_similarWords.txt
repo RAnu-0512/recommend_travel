@@ -1,0 +1,13 @@
+--------------------similar_words:徳川慶喜終焉の地--------------------
+top3 entities near to cluster0>>
+案内板, 案内, 倒連
+top3 entities near to cluster3>>
+明治, 大正, 目白
+top3 entities near to cluster6>>
+地上, 地表, 地下
+top3 entities near to cluster7>>
+目的地, 遊園地, 遊園, 目的
+top3 entities near to cluster11>>
+線路, 脇, 踏切
+top3 entities near to cluster12>>
+慶喜, 家康, 家慶

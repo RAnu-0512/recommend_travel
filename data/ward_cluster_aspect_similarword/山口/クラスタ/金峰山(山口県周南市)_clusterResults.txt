@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金峰山(山口県周南市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+山口県, 大向, 金峰
+cluster1:(2)
+国道, 標高
+cluster2:(3)
+景色, 展望, 絶景
+cluster3:(4)
+登山, 山頂, 岳, 頂上
+cluster4:(1)
+山容
+cluster5:(19)
+向道湖, 装備, こぶ, 光景, 自然, 最高峰, 場所, 境, 西中国山地, 日本, 金峰山, 緑, 愛称, 雰囲気, 瀬戸内海, ボリューム, 感じ, 水, 山
+cluster6:(1)
+線沿い
+cluster7:(3)
+周南市街, 周南市, 双耳峰
+
+howmany entities : 36
+howmany clusters : 8
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 8
+deleted 0entities.

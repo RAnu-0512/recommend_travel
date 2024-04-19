@@ -1,0 +1,9 @@
+--------------------similar_words:東京さくらトラム(都電荒川線)鬼子母神前--------------------
+top3 entities near to cluster0>>
+乗降, 電車, 路面
+top3 entities near to cluster1>>
+駅, 電車, 改札
+top3 entities near to cluster2>>
+する, 用意, 優先
+top3 entities near to cluster3>>
+副線, 都心線, 都心, 副

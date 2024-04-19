@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鏡山城跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+坂道, 勾配
+cluster1:(3)
+禁止, 支配, 進入
+cluster2:(6)
+かなり道, 拠点, 事, 所, こと, 場所
+cluster3:(3)
+途中, 休憩スペース, 途中椅子
+cluster4:(1)
+トラロープ
+cluster5:(9)
+安芸, 広島県, 山口, 東広島市, 守護大名, 大内, 鏡山城跡, 毛利元就, 尼子
+
+howmany entities : 24
+howmany clusters : 6
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 6
+deleted 0entities.

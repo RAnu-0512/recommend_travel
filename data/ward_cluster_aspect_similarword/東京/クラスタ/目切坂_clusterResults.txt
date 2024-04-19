@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:目切坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+代官山, 坂, 中目黒, 体力, 雰囲気, 交番, 意外, 名坂
+cluster1:(2)
+山手通り, 江戸時代
+cluster2:(1)
+目切坂
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

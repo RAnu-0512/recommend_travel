@@ -1,0 +1,11 @@
+--------------------similar_words:テクノプラザかつしか--------------------
+top3 entities near to cluster1>>
+京成, 駅, 京成八幡
+top3 entities near to cluster2>>
+徒歩, 駅分, 駅
+top3 entities near to cluster4>>
+産業, 地元, 文化
+top3 entities near to cluster5>>
+施設, 食事, レストラン
+top3 entities near to cluster6>>
+事業, 振興, 活動

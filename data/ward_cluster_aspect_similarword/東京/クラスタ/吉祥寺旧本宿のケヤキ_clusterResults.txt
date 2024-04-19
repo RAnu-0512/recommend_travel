@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉祥寺旧本宿のケヤキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ケヤキ, マンション
+cluster1:(1)
+気
+cluster2:(1)
+裏
+cluster3:(1)
+空洞
+cluster4:(1)
+吉祥寺駅
+cluster5:(1)
+幹周り
+cluster6:(1)
+線路北側
+cluster7:(1)
+樹齢
+cluster8:(1)
+東京都指定天然記念物
+
+howmany entities : 10
+howmany clusters : 9
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 9
+deleted 0entities.

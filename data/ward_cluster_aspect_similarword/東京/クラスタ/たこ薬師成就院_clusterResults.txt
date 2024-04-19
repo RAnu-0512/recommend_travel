@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:たこ薬師成就院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(19)
+絵, 城主, 出世, 子供, 疫病, 将軍, 近く, 本堂, 側室, 改札, 寺, 母, 本尊, 方, 歴史, こと, 利益, 蛸薬師, 説明
+cluster1:(2)
+目黒, 目黒不動
+cluster2:(3)
+静地蔵, 静, 子育
+cluster3:(4)
+子宝, 福, 福徳, 開運
+cluster4:(3)
+タコ, たこ薬師, 蛸
+cluster5:(3)
+その子 保科正之, 徳川秀忠公, 秀忠公
+
+howmany entities : 34
+howmany clusters : 6
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 6
+deleted 0entities.

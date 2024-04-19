@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:奧浜名湖展望公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+展望台, 展望公園, 公園入口
+cluster1:(5)
+農道, 国道, 山道, 道幅, 道
+cluster2:(11)
+浜名湖, 舘山寺, 途中, ところ, 人, オレンジロード, 富士山, 景色, 片側, 高台, 方
+cluster3:(4)
+表示, 注意, 禁止, 運転
+cluster4:(2)
+修理状況, 案内板
+cluster5:(1)
+老朽化
+
+howmany entities : 26
+howmany clusters : 6
+howmany entities (more than3entities) : 23
+howmany clusters (more than3entities) : 4
+deleted 3entities.

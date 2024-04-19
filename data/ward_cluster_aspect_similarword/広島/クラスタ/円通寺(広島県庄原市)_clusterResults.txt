@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円通寺(広島県庄原市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県史跡甲山城跡, 備後西国観音霊場
+cluster1:(28)
+山城, 文化財, 境内, 菩提寺, 建築, 鎌倉末期, 山内, 広島県, 庄原市, 寺, 通資, 円通寺, 本郷町, 国, 雪舟, 雰囲気, 参拝, 中腹, 日本庭園, ───O, 庭園, 気持ち, 名刹, 朱印, 重厚感, 本堂, 甲山, 裏
+
+howmany entities : 30
+howmany clusters : 2
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 2
+deleted 0entities.

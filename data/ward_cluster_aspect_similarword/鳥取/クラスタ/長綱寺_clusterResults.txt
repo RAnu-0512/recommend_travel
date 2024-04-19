@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長綱寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+名和公, 名和長年公
+cluster1:(3)
+名和行高, 名和, 名和一族
+cluster2:(5)
+大山町, 硯石, 後醍醐天皇の硯石, 弁慶の硯石, 石
+cluster3:(12)
+裏手, 墓, 菩提寺, 一族, 後醍醐, こと, 父, ゆかり, 公園, 近く, 寺, お告げ
+cluster4:(2)
+寵臣, 天皇
+cluster5:(2)
+屋敷跡, 隠居所
+cluster6:(3)
+三木一草, 後醍醐天皇が休んだ石, 長綱寺
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

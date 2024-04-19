@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:阿野全成・時元の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+奥さん, 常盤御前, 源頼朝, 後見人
+cluster1:(4)
+弟, 次男, 母, 妹
+cluster2:(2)
+死, 墓
+cluster3:(4)
+家, 将軍, 歴史, 一族
+cluster4:(1)
+義経
+cluster5:(1)
+信任
+cluster6:(5)
+全成, 阿野全成, 将軍・源頼, 範頼, 北条政子
+
+howmany entities : 21
+howmany clusters : 7
+howmany entities (more than3entities) : 17
+howmany clusters (more than3entities) : 4
+deleted 4entities.

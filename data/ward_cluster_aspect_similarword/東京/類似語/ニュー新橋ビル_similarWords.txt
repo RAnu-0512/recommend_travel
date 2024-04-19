@@ -1,0 +1,57 @@
+--------------------similar_words:ニュー新橋ビル--------------------
+top3 entities near to cluster0>>
+カフェ, ショップ, レストラン
+top3 entities near to cluster1>>
+大人, 女性, 年配
+top3 entities near to cluster2>>
+テレビ, 新幹線, ＴＶ
+top3 entities near to cluster3>>
+麻雀, マージャン, プロパイポ
+top3 entities near to cluster4>>
+びる, おやじ, びふりゃ
+top3 entities near to cluster6>>
+入口付近, 裏手, 入口
+top3 entities near to cluster7>>
+独特, 基本, 特徴
+top3 entities near to cluster8>>
+存在感, 存在, 否め
+top3 entities near to cluster9>>
+ー・, ・・・・・, ・・・・・・・・
+top3 entities near to cluster10>>
+電池, バッテリ, バッテリー
+top3 entities near to cluster11>>
+時計, 腕時計, 修理
+top3 entities near to cluster12>>
+防水, 新型, 肺炎
+top3 entities near to cluster13>>
+格子状, 網目状, 格子, 網目
+top3 entities near to cluster14>>
+広場, ＳＬ, ナボーナ
+top3 entities near to cluster15>>
+食事, 夕食, 飲み
+top3 entities near to cluster16>>
+駅街, 駅前, 駅
+top3 entities near to cluster17>>
+値段, 料金, 価格
+top3 entities near to cluster18>>
+駅前, 燈門, 駅
+top3 entities near to cluster19>>
+ビル, 高層, 商業
+top3 entities near to cluster20>>
+ビル, 雑居, 高層
+top3 entities near to cluster21>>
+金券, 優待券, 優待
+top3 entities near to cluster22>>
+定食屋, 丼屋, 定食, 丼
+top3 entities near to cluster23>>
+飲食店, 飲食, レストラン
+top3 entities near to cluster24>>
+飲食街, 飲食店, 飲食
+top3 entities near to cluster25>>
+店舗, 店主
+top3 entities near to cluster26>>
+比べ, 店舗
+top3 entities near to cluster27>>
+探し, 捜し
+top3 entities near to cluster28>>
+量販店, 量販, 大手

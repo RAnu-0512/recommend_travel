@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:観音山石仏群>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+場所, 看板, 箇所, 近く
+cluster1:(2)
+集落, 道
+cluster2:(2)
+幅, 表情
+cluster3:(1)
+登山口
+cluster4:(1)
+石仏群
+cluster5:(1)
+河津七滝
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 7entities.

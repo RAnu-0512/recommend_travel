@@ -1,0 +1,45 @@
+--------------------similar_words:靖国神社遊就館--------------------
+top3 entities near to cluster0>>
+館, 戦争, 博物館
+top3 entities near to cluster1>>
+大義, 犠牲, 命懸け
+top3 entities near to cluster2>>
+実物, 写真, 現物
+top3 entities near to cluster3>>
+問題, 心配
+top3 entities near to cluster5>>
+描写, 表現, 描か
+top3 entities near to cluster6>>
+時間先, 時先, 時間, 時
+top3 entities near to cluster7>>
+内容, 名称
+top3 entities near to cluster8>>
+情報, 資料, 状況
+top3 entities near to cluster9>>
+歴史, 情勢, 時代
+top3 entities near to cluster10>>
+人々, 人達, 大半
+top3 entities near to cluster12>>
+戦争, 陸軍
+top3 entities near to cluster13>>
+展示室, 展示, 博物館
+top3 entities near to cluster14>>
+展示, 大型, 小型
+top3 entities near to cluster15>>
+展示, 常設, 出展
+top3 entities near to cluster16>>
+展示, 出展, 収蔵
+top3 entities near to cluster17>>
+全館, 展示, 施設
+top3 entities near to cluster18>>
+館, 表慶, 資料
+top3 entities near to cluster19>>
+戦争, 開戦, 内戦
+top3 entities near to cluster20>>
+戦闘機, 艦上機, 戦闘, 艦上
+top3 entities near to cluster21>>
+判決, 死刑, 主文
+top3 entities near to cluster22>>
+政治家, 政治, 軍事
+top3 entities near to cluster23>>
+戦没者, 戦犯者, 戦没, 戦犯

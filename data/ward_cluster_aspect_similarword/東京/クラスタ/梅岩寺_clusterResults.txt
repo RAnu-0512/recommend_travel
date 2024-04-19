@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅岩寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+夜桜, 場所, 枝垂れ桜, 中継先, 入口, 木, 感じ, 姿, 寺院, 時期, 寺, ほう, テレビ, しだれ桜, 方, 桜, 満開, コーナー
+cluster1:(2)
+お勧め時期, 天気予報
+cluster2:(1)
+威風堂々
+cluster3:(6)
+シダレ桜, 青梅市, 梅岩寺, 青梅駅, 枝垂, 青梅在中
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

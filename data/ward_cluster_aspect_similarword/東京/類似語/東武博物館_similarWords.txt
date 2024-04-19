@@ -1,0 +1,45 @@
+--------------------similar_words:東武博物館--------------------
+top3 entities near to cluster0>>
+駅, 構内, 車両
+top3 entities near to cluster1>>
+子供, 子ども, お子さん
+top3 entities near to cluster2>>
+ジオラマ, アトラクション, ショー
+top3 entities near to cluster3>>
+対応, 文句, 配慮
+top3 entities near to cluster6>>
+ほか, 各種, 数々
+top3 entities near to cluster7>>
+昔, 意外, 地味
+top3 entities near to cluster8>>
+規模, 小規模
+top3 entities near to cluster9>>
+迫力, 見ごたえ, 見応え
+top3 entities near to cluster10>>
+活躍, 現在, 第一線
+top3 entities near to cluster11>>
+ひさしぶり, ひさし, 久々
+top3 entities near to cluster12>>
+東武, 東武鉄道, サウスヒルズ
+top3 entities near to cluster13>>
+機関車, 蒸気, 機関
+top3 entities near to cluster14>>
+電車, 路面, 汽車
+top3 entities near to cluster15>>
+鉄道, 私鉄, 車両
+top3 entities near to cluster16>>
+車両, 鉄道, 電車
+top3 entities near to cluster17>>
+模型, 鉄道, 電車
+top3 entities near to cluster18>>
+運転, 同乗, 操縦
+top3 entities near to cluster19>>
+実物, 展示, 現物
+top3 entities near to cluster20>>
+展示, 出展, 収蔵
+top3 entities near to cluster21>>
+展示, 車両, 歴代
+top3 entities near to cluster22>>
+入場料, 入館料, 入場, 入館
+top3 entities near to cluster23>>
+料金, 入場, 運賃

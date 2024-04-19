@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:金剛寺(東京都青梅市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+将門誓い, 将門の梅, 将門誓いの梅
+cluster1:(3)
+青梅, JR青梅線, 青梅駅
+cluster2:(5)
+開花, しだれ桜, 梅, 桜, 満開
+cluster3:(3)
+本堂, 寺, 境内
+cluster4:(3)
+建築, 敷地, 土地
+cluster5:(3)
+名前, 由来, 地名
+cluster6:(18)
+季節, 春, 沢山, 枝, 枝垂れ桜, 場所, 人, 木, 見所, 金剛寺, 時期, 金剛地, 前, 感動, 方, 空気, 大勢, 友人
+cluster7:(1)
+観光客
+
+howmany entities : 39
+howmany clusters : 8
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 8
+deleted 0entities.

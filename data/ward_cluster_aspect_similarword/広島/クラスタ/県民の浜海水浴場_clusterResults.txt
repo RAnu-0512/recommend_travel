@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:県民の浜海水浴場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+広島県, 呉市
+cluster1:(2)
+浜海水浴場, 海水浴場
+cluster2:(3)
+砂浜, 海, 浜
+cluster3:(3)
+方, 人, 子供
+cluster4:(2)
+施設, 場所
+cluster5:(3)
+GW, 温泉, 旅行
+cluster6:(1)
+県民
+cluster7:(1)
+外国人観光客
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

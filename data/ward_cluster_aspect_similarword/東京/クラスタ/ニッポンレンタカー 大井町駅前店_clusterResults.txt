@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 大井町駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ニッポンレンタカー大井町駅, JR大井町駅, 東京急行電鉄大井町線, 大井町駅
+cluster1:(6)
+王, 方, ニッポン, 側, 営業, レンタカー
+cluster2:(2)
+改札, 西口
+cluster3:(1)
+東急側
+cluster4:(1)
+横断歩道
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

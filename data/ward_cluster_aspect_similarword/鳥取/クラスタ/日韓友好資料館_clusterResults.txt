@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日韓友好資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+楽器, 試着, 品, 雑貨, 食品, 玩具
+cluster1:(10)
+目的, 事, 韓国, 人, 日, コーナー, 疑問, 規模, 場所, コントラスト
+cluster2:(4)
+観光, 交流, 歴史, 文化
+cluster3:(2)
+道, 国道
+cluster4:(4)
+建物, 駅, 公園, 石碑
+cluster5:(1)
+燈篭
+cluster6:(1)
+必然性
+cluster7:(4)
+友好公園, 韓服, 友好, 民族衣装
+cluster8:(12)
+有料施設, 資料館入り口辺り, 駅 ポート赤碕, 琴浦町, 物産館, 資料, 入館料, 鳥取県, 付帯設備, 施設, 資料館, 隣接施設
+cluster9:(1)
+日韓友好資料館
+
+howmany entities : 45
+howmany clusters : 10
+howmany entities (more than1entities) : 45
+howmany clusters (more than1entities) : 10
+deleted 0entities.

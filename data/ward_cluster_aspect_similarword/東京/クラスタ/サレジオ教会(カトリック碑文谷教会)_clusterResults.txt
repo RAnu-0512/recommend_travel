@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:サレジオ教会(カトリック碑文谷教会)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+建物, 挙式, ドレス姿, 響き, 造り, 鐘, 外観
+cluster1:(4)
+駅, 天気, 電車, 周辺
+cluster2:(5)
+裏, 光, 白色, 足, 式
+cluster3:(3)
+田舎町, 佇まい, 雰囲気
+cluster4:(8)
+東急バス, 結婚式, 有名人, ヨーロッパ, 芸能人, ダイエー, スポット, ステンドグラス
+cluster5:(1)
+碑文谷
+cluster6:(3)
+人, 前, 目
+cluster7:(3)
+場所, 方, こと
+cluster8:(1)
+名前
+cluster9:(1)
+価値
+cluster10:(1)
+どこか
+cluster11:(1)
+美しさ
+cluster12:(1)
+信号機
+cluster13:(11)
+異国情緒溢れる教会, 目黒, 教会建築, 目黒駅, サレジオ教会, 学芸大学駅, 松田聖子, カトリック教会, 住宅街, まあサレジオ教会, 教会
+
+howmany entities : 50
+howmany clusters : 14
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 14
+deleted 0entities.

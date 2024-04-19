@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:塩船観音寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+平和観音, 塩船観音寺, 観音, 観音像, 塩船観音
+cluster1:(11)
+時季, 季節, 景色, 絶好, 陰影, 青空, 天候, 天気, 景観, 眺め, 美しさ
+cluster2:(2)
+青梅, 陽
+cluster3:(4)
+門, 本堂, 寺, 境内
+cluster4:(2)
+当地, 頂上
+cluster5:(4)
+鉄道, 建物, 車, 敷地
+cluster6:(1)
+ツツジ園
+cluster7:(1)
+建物群
+cluster8:(6)
+閑散, 売り, 初詣, 都心, 出発, 訪問
+cluster9:(23)
+紫陽花, アジサイ, 薬師堂, 人, アクセス, ところ, 日, 文化財, ツヅジ, 時期, つつじ, 流れ, 木漏れ日, 記憶, 印象, ツツジ, 風, こと, 下, 阿弥陀堂, 雰囲気, デジャブ, 観音寺
+cluster10:(1)
+塩大福
+cluster11:(12)
+下り方向, 目的地, 休憩所, 駐車場, 観光客, 予定時刻, 上り方向, 時間帯, 支障事故, 観光日和, 駐車車両, 参拝者専用
+
+howmany entities : 72
+howmany clusters : 12
+howmany entities (more than1entities) : 72
+howmany clusters (more than1entities) : 12
+deleted 0entities.

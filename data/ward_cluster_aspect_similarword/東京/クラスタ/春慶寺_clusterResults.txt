@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:春慶寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+墓, 寺院, 寺
+cluster1:(5)
+スカイツリー, 都会, つくり, 前, ビル
+cluster2:(1)
+春慶寺
+cluster3:(2)
+鬼平犯科帳, 岸井左馬之助
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

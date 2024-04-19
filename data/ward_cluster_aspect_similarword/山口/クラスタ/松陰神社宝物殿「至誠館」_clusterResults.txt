@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松陰神社宝物殿「至誠館」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+前, 保存運動, 松陰神社, 境内, 手紙, 展示, 至誠館, 直筆, 神社, 場所, 遺品, 旧宅, 蝋人形, 展示物, 資料, 有料展示室, 目, 宝物殿, 入場料, 資料館, 遺書, 幕末ファン, 歴史館
+cluster1:(2)
+松陰, 松陰ファン
+cluster2:(2)
+吉田松陰先生, 吉田松陰
+cluster3:(1)
+山口県萩市
+
+howmany entities : 28
+howmany clusters : 4
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 4
+deleted 0entities.

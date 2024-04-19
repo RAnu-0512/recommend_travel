@@ -1,0 +1,11 @@
+--------------------similar_words:河佐峡--------------------
+top3 entities near to cluster0>>
+線路, 鉄道, 保線
+top3 entities near to cluster1>>
+在来線, 廃線, 在来, 廃
+top3 entities near to cluster3>>
+国鉄, ＪＲ, 私鉄
+top3 entities near to cluster5>>
+川橋, 下流橋, 川, 下流
+top3 entities near to cluster6>>
+公園, 施設

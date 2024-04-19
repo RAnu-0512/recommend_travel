@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立夢の島公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+熱帯植物園, 植物館, 島亜熱帯植物館
+cluster1:(18)
+バーベキュー広場, 島, 新木場駅, 公園, マリーナ, 子供, 緑, ジョギングコース, 目玉, 島公園, 夢, 埋め立て, ジムプール, 充実, 都民, ハイキング, ゴミ, もの
+
+howmany entities : 21
+howmany clusters : 2
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:東急歌舞伎町タワー--------------------
+top3 entities near to cluster0>>
+宿泊, 建物, ホテル
+top3 entities near to cluster1>>
+劇場, シネマ, 映画
+top3 entities near to cluster2>>
+横丁, 横町, 歌舞伎
+top3 entities near to cluster3>>
+処, 食事, 夕食

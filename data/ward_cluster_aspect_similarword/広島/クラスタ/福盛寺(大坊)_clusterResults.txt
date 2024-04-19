@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福盛寺(大坊)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西国観音霊場, 瀬戸内観音霊場
+cluster1:(2)
+札所, 霊場
+cluster2:(2)
+千手観音菩薩, 観音様
+cluster3:(5)
+大坊さん, 弟子, 寺, 縁起, 福
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

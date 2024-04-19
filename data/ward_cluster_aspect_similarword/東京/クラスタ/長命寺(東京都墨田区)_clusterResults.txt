@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長命寺(東京都墨田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+参拝, 参拝客
+cluster1:(20)
+弁財天, 店, 隣, 人, 逸話, 気, 名, 近く, 奥, 見応え, 入り口, 機会, お参り, 雰囲気, 不詳, 幼稚園, 外観, もの, 長命寺, 最寄駅
+cluster2:(7)
+隅田川七福神, 七福神めぐり, 隅田川七福神の弁財天, 東京, 隅田川, 桜餅, 桜
+cluster3:(7)
+石碑, 開山, 本堂, 碑, 慶長, 寺, 境内
+cluster4:(1)
+長命水
+cluster5:(7)
+平安時代円仁, 松尾芭蕉, 曳舟駅, 水戸街道, 公共交通アクセス, 創建年代, 徳川家光
+
+howmany entities : 44
+howmany clusters : 6
+howmany entities (more than1entities) : 44
+howmany clusters (more than1entities) : 6
+deleted 0entities.

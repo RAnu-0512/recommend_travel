@@ -1,0 +1,11 @@
+--------------------similar_words:流しびなの館--------------------
+top3 entities near to cluster0>>
+雛飾り, 雛, ひな飾り, ひな
+top3 entities near to cluster1>>
+景観, 景色, 眺望
+top3 entities near to cluster2>>
+館内, 建物, 施設
+top3 entities near to cluster4>>
+展望台, 展望, 木造
+top3 entities near to cluster5>>
+無病, 息災, 息災延命

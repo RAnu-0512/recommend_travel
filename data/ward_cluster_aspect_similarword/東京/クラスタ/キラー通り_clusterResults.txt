@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:キラー通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+外苑西通り, 青山, 外苑西, 外苑, 青山通り
+cluster1:(12)
+キラーストリート, 昔, キラー通り, メイン, アルバム, 交差点, 話題, 名前, 由来, キラー, ベルコモンズ, サザンオールスターズ
+cluster2:(8)
+店, 場所, 散策, 街並み, 街, 車, 往来, 路地
+cluster3:(2)
+飲食店, 住宅街
+
+howmany entities : 27
+howmany clusters : 4
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 4
+deleted 0entities.

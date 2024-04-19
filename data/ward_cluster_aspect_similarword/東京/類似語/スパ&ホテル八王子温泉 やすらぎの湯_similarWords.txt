@@ -1,0 +1,13 @@
+--------------------similar_words:スパ&ホテル八王子温泉 やすらぎの湯--------------------
+top3 entities near to cluster0>>
+岩盤浴, 温泉浴, 岩盤, 温泉
+top3 entities near to cluster1>>
+駅, 西武, 駅前
+top3 entities near to cluster2>>
+卓球, 浴衣, 焼肉
+top3 entities near to cluster4>>
+ホテル, 露天風呂, サウナ
+top3 entities near to cluster5>>
+建物, 立地, 施設
+top3 entities near to cluster6>>
+温泉, 風呂, 露天風呂

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東海道松並木(静岡県清水町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+松並木, 東海道松並木
+cluster1:(4)
+松, 静岡県, 沼津, 清水町
+cluster2:(2)
+こと, 場所
+cluster3:(2)
+東海道, 昔
+cluster4:(1)
+風景
+cluster5:(2)
+橋, 区間
+cluster6:(1)
+距離
+cluster7:(1)
+面影
+cluster8:(1)
+江戸時代
+cluster9:(1)
+力強さ
+
+howmany entities : 17
+howmany clusters : 10
+howmany entities (more than3entities) : 4
+howmany clusters (more than3entities) : 1
+deleted 13entities.

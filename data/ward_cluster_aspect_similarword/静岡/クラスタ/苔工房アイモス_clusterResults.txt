@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:苔工房アイモス>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+苔, 苔テラリウム
+cluster1:(2)
+こと, 場所
+cluster2:(2)
+中, お陰
+cluster3:(2)
+種類, 説明
+cluster4:(1)
+体験
+cluster5:(2)
+興味, 意見
+cluster6:(10)
+学年, 夫妻, 奥様, 家族, テラリウム, 娘, 人, 子供, 世話, 小学生
+cluster7:(1)
+静岡旅行
+
+howmany entities : 22
+howmany clusters : 8
+howmany entities (more than3entities) : 10
+howmany clusters (more than3entities) : 1
+deleted 12entities.

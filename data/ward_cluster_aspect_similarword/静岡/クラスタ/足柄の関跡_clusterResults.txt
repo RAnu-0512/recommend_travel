@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足柄の関跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+足柄山, 足柄, 足柄道
+cluster1:(2)
+関, に関
+cluster2:(3)
+記事, こと, 場所
+cluster3:(2)
+足柄峠, 峠
+cluster4:(1)
+歌枕
+cluster5:(1)
+平家物語
+cluster6:(1)
+源平盛衰記
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than3entities) : 6
+howmany clusters (more than3entities) : 2
+deleted 7entities.

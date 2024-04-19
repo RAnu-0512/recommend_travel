@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大芝公園「交通ランド」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+施設, 方, 車, 町, 場所, コインパーキング
+cluster1:(2)
+子ども, 小学生
+cluster2:(3)
+小学校, 幼稚園, 保育園
+cluster3:(6)
+滑り台, 小さめ, ゴーカート, 子連れ, ルール, 待ち時間
+cluster4:(1)
+子
+cluster5:(4)
+パパ, 子供, 大人, 家族
+cluster6:(3)
+休日, 弁当, 朝
+cluster7:(6)
+砂場, 園内, 標識, 道路, 公園, 遊具
+cluster8:(7)
+保護者, 入場, 家族連れ, 日曜祭日, 子供達, 同伴, 順番待ち
+cluster9:(9)
+駐車場, 交通標識, 横断歩道, 交通公園, 信号機, 交通, 交通ルール, 途中信号, 信号
+
+howmany entities : 47
+howmany clusters : 10
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 10
+deleted 0entities.

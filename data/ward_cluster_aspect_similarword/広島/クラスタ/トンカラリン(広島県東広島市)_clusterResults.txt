@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トンカラリン(広島県東広島市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+広島県, 東広島市, 安芸津駅
+cluster1:(2)
+トル程, 軽トラック程度
+cluster2:(2)
+横穴, 遺跡
+cluster3:(2)
+コケ, 昆虫
+cluster4:(6)
+カマドウマ, オススメ, ところ, トンカラリン, 雰囲気, トンネル
+cluster5:(2)
+御利益, 厄払い
+cluster6:(1)
+山
+cluster7:(8)
+途中, 中, 方, 辺り, 名前, 木, こと, 場所
+cluster8:(9)
+内部, 入口, 穴, 男性, 服, 車, 右側, 看板, 道
+cluster9:(1)
+厄
+
+howmany entities : 36
+howmany clusters : 10
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 10
+deleted 0entities.

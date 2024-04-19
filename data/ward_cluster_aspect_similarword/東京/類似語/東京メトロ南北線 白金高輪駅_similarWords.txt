@@ -1,0 +1,11 @@
+--------------------similar_words:東京メトロ南北線 白金高輪駅--------------------
+top3 entities near to cluster1>>
+都営線, 都営, 地下鉄
+top3 entities near to cluster2>>
+印象, 主体, イメージ
+top3 entities near to cluster3>>
+駅, 乗換, 地下鉄
+top3 entities near to cluster4>>
+改札, ドア, 扉
+top3 entities near to cluster5>>
+安全, 衛生面, 衛生

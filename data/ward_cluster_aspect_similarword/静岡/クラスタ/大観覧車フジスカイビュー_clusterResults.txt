@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大観覧車フジスカイビュー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観覧車, 観覧車乗り場, 観覧車セット
+cluster1:(19)
+アイス, カフェ, 高さ, 帰り, SA, カップル, ゴンドラ, シースルーゴンドラ, 夜景, カフェ店, シースルー, 富士山, 日, 近く, 富士川サービスエリア, 子供, 場所, 行き, 浜松旅行
+
+howmany entities : 22
+howmany clusters : 2
+howmany entities (more than3entities) : 22
+howmany clusters (more than3entities) : 2
+deleted 0entities.

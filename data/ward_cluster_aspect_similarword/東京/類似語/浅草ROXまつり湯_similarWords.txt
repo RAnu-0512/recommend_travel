@@ -1,0 +1,29 @@
+--------------------similar_words:浅草ROXまつり湯--------------------
+top3 entities near to cluster0>>
+休憩, 仮眠, 施設
+top3 entities near to cluster1>>
+風呂, 入浴, 湯船
+top3 entities near to cluster2>>
+種類, どれ, 数種類
+top3 entities near to cluster3>>
+不満, 疲労
+top3 entities near to cluster4>>
+人達, 大勢
+top3 entities near to cluster6>>
+文章, 謎, ナゾ
+top3 entities near to cluster7>>
+女性, 店員, 男性
+top3 entities near to cluster8>>
+デー, 女性, 男性
+top3 entities near to cluster9>>
+サウナ, タオル, 露天風呂
+top3 entities near to cluster11>>
+漫画, マンガ, アニメ
+top3 entities near to cluster12>>
+施設, 館内, 所内
+top3 entities near to cluster13>>
+部屋, 窓, 空間
+top3 entities near to cluster14>>
+入浴, 食事, 宿泊
+top3 entities near to cluster15>>
+利用, 案内, 配布

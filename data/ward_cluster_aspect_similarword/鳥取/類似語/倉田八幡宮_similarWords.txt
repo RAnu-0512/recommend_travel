@@ -1,0 +1,11 @@
+--------------------similar_words:倉田八幡宮--------------------
+top3 entities near to cluster0>>
+銀杏, 標識
+top3 entities near to cluster1>>
+神社, 本殿, 社殿
+top3 entities near to cluster2>>
+樹齢, 巨木, 老木
+top3 entities near to cluster3>>
+期待値, 期待, 数値
+top3 entities near to cluster4>>
+外客, 乗客, 名所

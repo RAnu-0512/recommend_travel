@@ -1,0 +1,31 @@
+--------------------similar_words:公園通り--------------------
+top3 entities near to cluster1>>
+ホール, ＮＨＫ, 総合テレビ
+top3 entities near to cluster2>>
+パルコ, 公園通り, ＰＡＲＣＯ
+top3 entities near to cluster3>>
+ショップ, カフェ
+top3 entities near to cluster4>>
+マルイ, ＯＩＯＩ, ウエスタンアームズ
+top3 entities near to cluster5>>
+タワー, レコード, ＶｉＸ
+top3 entities near to cluster7>>
+場合, 多い, 少ない
+top3 entities near to cluster8>>
+人々, 人達
+top3 entities near to cluster10>>
+坂道, 坂, のぼり坂
+top3 entities near to cluster11>>
+店舗, ショップ
+top3 entities near to cluster12>>
+散歩, 休日, 出掛け
+top3 entities near to cluster13>>
+駅, 公園, 入口
+top3 entities near to cluster14>>
+国旗, 軍旗
+top3 entities near to cluster15>>
+工事, 建て替え, 修繕
+top3 entities near to cluster16>>
+ハチ公口, ハチ公, パクアイドル
+top3 entities near to cluster17>>
+商店

@@ -1,0 +1,33 @@
+--------------------similar_words:オリエンタルホテル広島--------------------
+top3 entities near to cluster1>>
+スライス, ステーキ, 薄切り
+top3 entities near to cluster2>>
+じゅうたん, カーペット, 絨毯
+top3 entities near to cluster3>>
+スーツケース, チェックアウト, アップグレード
+top3 entities near to cluster4>>
+ハンバーグ, サンドイッチ, クロワッサン
+top3 entities near to cluster5>>
+トースター, オーブン, トースタ
+top3 entities near to cluster6>>
+コーヒー, ディカフェ, コーヒ
+top3 entities near to cluster7>>
+メニュー, メイン, スタッフ
+top3 entities near to cluster9>>
+デザート, ランチ, ケーキ
+top3 entities near to cluster10>>
+検温, 体温計, 採血
+top3 entities near to cluster11>>
+スープ, 味噌, シチュー
+top3 entities near to cluster12>>
+料理, 酸味
+top3 entities near to cluster13>>
+埃, カビ, ホコリ
+top3 entities near to cluster14>>
+ホテル, 家族, 旅館
+top3 entities near to cluster15>>
+部屋, 廊下, 改装
+top3 entities near to cluster16>>
+ホテル, 中級
+top3 entities near to cluster18>>
+冷製, 冷, 閉自

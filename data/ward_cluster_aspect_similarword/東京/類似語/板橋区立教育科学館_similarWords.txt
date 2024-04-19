@@ -1,0 +1,21 @@
+--------------------similar_words:板橋区立教育科学館--------------------
+top3 entities near to cluster0>>
+科学, 体験, 実験
+top3 entities near to cluster2>>
+小学生, 中学生, 高校生
+top3 entities near to cluster3>>
+イベント, コンサート, アニメ
+top3 entities near to cluster4>>
+子供, 子ども, 家族
+top3 entities near to cluster5>>
+実験, 展示, 研究
+top3 entities near to cluster6>>
+星空, 星座
+top3 entities near to cluster7>>
+平行, 斜め, 方向
+top3 entities near to cluster8>>
+駅, 構内, 線路
+top3 entities near to cluster10>>
+動物園, 植物園, 動物, 植物
+top3 entities near to cluster13>>
+区立, 科学, 市立

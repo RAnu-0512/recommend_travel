@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:おふろの王様 多摩百草店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+聖蹟桜ヶ丘駅, 多摩地区
+cluster1:(2)
+電車, 高幡不動駅
+cluster2:(2)
+減少, 体重
+cluster3:(4)
+美貌, 効果, エステ・マッサージ, マッサージ技術
+cluster4:(13)
+山, 場所, 感謝, JEWEL, 思い, MAX, 館内, マッサージ, マイクロバブル, サイズ, 地元, アンチエイジング, ジュエル
+cluster5:(1)
+期待度
+cluster6:(6)
+塩スチームサウナ, 最終バス, 湯舟, 天然温泉, 温泉, 送迎バス
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 7
+deleted 0entities.

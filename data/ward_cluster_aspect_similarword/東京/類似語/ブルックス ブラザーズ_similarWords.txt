@@ -1,0 +1,17 @@
+--------------------similar_words:ブルックス ブラザーズ--------------------
+top3 entities near to cluster0>>
+ショップ, ブランド, フラッグ
+top3 entities near to cluster1>>
+ブラザーズ, ブルックス, ブルックスブラザーズ
+top3 entities near to cluster2>>
+クリスマス, プレゼント, クリスマスイブ
+top3 entities near to cluster3>>
+ブランド, デザイン, デザイナー
+top3 entities near to cluster4>>
+ネクタイ, ワイシャツ, レジメンタルタイ
+top3 entities near to cluster5>>
+ストリート, ショッピング, モール
+top3 entities near to cluster7>>
+主人, 旦那, だんな
+top3 entities near to cluster8>>
+印象, 気持ち

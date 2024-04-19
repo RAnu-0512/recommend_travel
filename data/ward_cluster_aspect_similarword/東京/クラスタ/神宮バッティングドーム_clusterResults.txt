@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神宮バッティングドーム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観戦帰り, 対応はなし
+cluster1:(4)
+バーチャル映像, 設備, 機械, 施設
+cluster2:(2)
+都, 金
+cluster3:(3)
+ミット慣らし, 慣らし, 腕
+cluster4:(21)
+昔, 別, バラエティー, ボール, 神宮球場, ストレス, 気持ち, ピッチング, 近く, バーチャル, バッティングセンター, 入り口, ゲームセンター, バッティング, 挙げ句, トップレベル, タイミング, サイドスロー, 張り紙, ショック, 女性
+cluster5:(1)
+果て
+cluster6:(8)
+利用, 客, 態度, 店員, 始末, 対応, こと, 問題
+cluster7:(3)
+ミット慣, 新品ミット, 室内型バッティングセンター
+cluster8:(2)
+プロ野球, 野球
+cluster9:(2)
+野球選手, プロ野球選手
+cluster10:(3)
+明治神宮外苑, 神宮バッティングドーム, 神宮
+
+howmany entities : 51
+howmany clusters : 11
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 11
+deleted 0entities.

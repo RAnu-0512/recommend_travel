@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:御手洗町並み保存地区>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+重要伝統的建造物群保存地区, 豊町御手洗重要伝統的建造物群保存地区
+cluster1:(4)
+観光客, 土産店, 観光スポット, 建造物
+cluster2:(17)
+御手洗, 西向きコース, 子供, 劇場, カメラ, 方, 瀬戸内海, 道筋, 大崎下島, 流れ, 時代, CM, カフェ, 待ち, 事, レンタカー, 滞在
+cluster3:(14)
+風情, 御手洗地区, 街並み, 神社, 建物, 町並み, 国, 潮待ち 風, 町, 地域, 地名, 街, 地区, 港町
+cluster4:(3)
+広島, 呉駅, 呉
+cluster5:(2)
+江戸時代, 江戸
+cluster6:(3)
+大正, 明治, 昭和
+cluster7:(2)
+中継貿易港, 中継港
+cluster8:(4)
+保存地区, 御手洗町並み保存地区, 町並み保存地区, 保存会
+cluster9:(1)
+瀬戸内クルーズ船 シースピカ 三原港
+
+howmany entities : 52
+howmany clusters : 10
+howmany entities (more than1entities) : 52
+howmany clusters (more than1entities) : 10
+deleted 0entities.

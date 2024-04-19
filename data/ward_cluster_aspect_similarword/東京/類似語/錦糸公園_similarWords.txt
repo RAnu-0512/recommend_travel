@@ -1,0 +1,53 @@
+--------------------similar_words:錦糸公園--------------------
+top3 entities near to cluster0>>
+子供連れ, つれ, 子供
+top3 entities near to cluster1>>
+子, 家の子, 娘
+top3 entities near to cluster2>>
+子ども, 子供, 親達
+top3 entities near to cluster3>>
+子供, 子ども, 親達
+top3 entities near to cluster4>>
+ママ, パパ, お母さん
+top3 entities near to cluster6>>
+子供, 子ども, 大人
+top3 entities near to cluster7>>
+花見, 夜桜, 桜
+top3 entities near to cluster8>>
+祭り, 花火, 屋台
+top3 entities near to cluster9>>
+広場, 噴水, 芝生
+top3 entities near to cluster10>>
+散歩, お昼, 休日
+top3 entities near to cluster11>>
+球技, 競技, 野球
+top3 entities near to cluster12>>
+イベント, カフェ, コンサート
+top3 entities near to cluster13>>
+ランチ, サイクリング, 自転車
+top3 entities near to cluster14>>
+子供, 子ども, 小学生
+top3 entities near to cluster16>>
+テニス, コート, ボート
+top3 entities near to cluster17>>
+フェア, 酉市, おでん
+top3 entities near to cluster18>>
+テント, シート, タープ
+top3 entities near to cluster19>>
+イベント, 催し物, ライブ
+top3 entities near to cluster20>>
+有志者, 犠牲者, 犠牲, 有志
+top3 entities near to cluster21>>
+各地, 地元, 一帯
+top3 entities near to cluster22>>
+人達, 人々
+top3 entities near to cluster23>>
+話題, 共演, 開催
+top3 entities near to cluster24>>
+順番, 周り, 真後ろ
+top3 entities near to cluster25>>
+時間程度, 時間, くらい
+top3 entities near to cluster28>>
+お腹, おなか, オナカ
+top3 entities near to cluster30>>
+公園, 駅前, 駅

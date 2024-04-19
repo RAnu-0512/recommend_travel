@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:りんかい線大井町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大井町駅, 大井町線
+cluster1:(2)
+池袋, 新宿
+cluster2:(4)
+線, JR, 駅, 改札
+cluster3:(2)
+地上, 地下
+cluster4:(2)
+アトレ側, 客
+cluster5:(9)
+謎, エスカレーター, 埼京線, 乗り入れ, ホーム, 入り口, 時間, 列, 乗り換え
+cluster6:(2)
+りんかい線, 通行路
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

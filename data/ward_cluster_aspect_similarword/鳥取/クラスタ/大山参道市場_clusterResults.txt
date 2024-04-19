@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大山参道市場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+大山, 大山ナショナルパーク, 大山町
+cluster1:(2)
+参道, 大山参道
+cluster2:(16)
+マンホール, グッズ, 宿, 大山寺, 朝, パン, 蓋, 価格, 間食, 店, ミニチュア, モンベル, 文字, 小食, カフェ, 日帰り温泉
+
+howmany entities : 21
+howmany clusters : 3
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 3
+deleted 0entities.

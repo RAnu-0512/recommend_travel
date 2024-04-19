@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宿根の大桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大桜, カメラ
+cluster1:(2)
+方, 中
+cluster2:(3)
+春, 桜, 木
+cluster3:(1)
+品種
+cluster4:(1)
+観光客
+cluster5:(1)
+広島県同品種
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

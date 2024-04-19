@@ -1,0 +1,27 @@
+--------------------similar_words:株式会社エイチ・アイ・エス--------------------
+top3 entities near to cluster0>>
+運転, 添乗, 乗務
+top3 entities near to cluster1>>
+バス, ツアー, タクシー
+top3 entities near to cluster2>>
+狩り, 丼, 海鮮
+top3 entities near to cluster4>>
+急坂, 坂道, 渋滞
+top3 entities near to cluster5>>
+紅葉, 季節, 秋
+top3 entities near to cluster6>>
+噴水, 夢, ショー
+top3 entities near to cluster7>>
+眺望, 席, 景色
+top3 entities near to cluster8>>
+食事, 土産, 料理
+top3 entities near to cluster9>>
+イチゴ, ランチ, ソフトクリーム
+top3 entities near to cluster10>>
+土水, 土
+top3 entities near to cluster11>>
+参加者, 参加, 飛び入り
+top3 entities near to cluster14>>
+非, 日常, 現実
+top3 entities near to cluster15>>
+食べ放題, 食べ, たべ

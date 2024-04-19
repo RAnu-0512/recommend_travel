@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:矢野温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+日帰り, 人, 建物, 料金, 食事
+cluster1:(2)
+風呂, 入浴
+cluster2:(2)
+お湯, 湯
+cluster3:(1)
+大衆演劇
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

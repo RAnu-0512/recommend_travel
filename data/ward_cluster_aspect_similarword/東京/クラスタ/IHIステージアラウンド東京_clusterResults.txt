@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:IHIステージアラウンド東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+髑髏城公演, 髑髏城 専門劇場
+cluster1:(8)
+状態, 気, こと, どこか, 感じ, 理由, 場面, 工夫
+cluster2:(6)
+鑑賞スタイル, 観, 体験, 余韻, 面白, 感覚
+cluster3:(3)
+渋滞, 列, 行列
+cluster4:(13)
+施設, 回転, 誘導, 音, 建物, 構造, 外観, 傾斜, 尻, 出口, 場所, 女子トイレ, バス
+cluster5:(17)
+スタッフ, アトラクション, シーズン, ステージ, ウエストサイドストーリー, トイレ, 劇団四季, 案の定, チケット, サイズ, アクセス, つね, 入り口, ポツン, ロビー, ダンス, レベル
+cluster6:(8)
+普通, 方, 頭, 周り, 他, 半分, 人, 男性
+cluster7:(5)
+前, 横, 近く, 前方, 外
+cluster8:(2)
+新橋, 金
+cluster9:(2)
+豊洲, 豊洲市場
+cluster10:(2)
+回転型舞台, 新感線
+cluster11:(2)
+入場, 入場料
+cluster12:(4)
+作品, 舞台, 演劇, 役者
+cluster13:(2)
+ステージアラウンド劇場, 劇場
+cluster14:(2)
+こけら落とし公演, 公演
+cluster15:(4)
+座席間隔, 座席, 座高, 席
+
+howmany entities : 82
+howmany clusters : 16
+howmany entities (more than1entities) : 82
+howmany clusters (more than1entities) : 16
+deleted 0entities.

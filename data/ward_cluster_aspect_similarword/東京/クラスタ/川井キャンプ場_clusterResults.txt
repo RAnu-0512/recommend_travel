@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川井キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+川井駅, 水, キャンプ場, 水場, 手洗い場, 川井キャンプ場
+cluster1:(6)
+トイレ汚, 経年, 劣化, 掃除, 塗装, 清掃
+cluster2:(3)
+大人, 子供, 子供たち
+cluster3:(5)
+東京, 駅, 電車, 徒歩, 都心
+cluster4:(10)
+水遊び, 壁, 山, 自然, 釣り, 遊び, 河原, 坂, 川, 川遊び
+cluster5:(2)
+粒, 米
+cluster6:(3)
+客, 家族, 友人
+cluster7:(10)
+コロナ, レンタル, 気持ち, ところ, バンガロー, トイレ, キャンプ, メリット, 気遣い, バーベキュー
+cluster8:(2)
+前, 目
+cluster9:(3)
+多く, 人, 中
+cluster10:(3)
+場所, 仕方, 様子
+cluster11:(1)
+ハイ
+cluster12:(1)
+緊張感
+cluster13:(3)
+売店レジ端末, JR青梅線, 受付レジ
+
+howmany entities : 58
+howmany clusters : 14
+howmany entities (more than1entities) : 58
+howmany clusters (more than1entities) : 14
+deleted 0entities.

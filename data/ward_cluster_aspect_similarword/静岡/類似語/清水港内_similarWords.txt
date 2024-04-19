@@ -1,0 +1,33 @@
+--------------------similar_words:清水港内--------------------
+top3 entities near to cluster0>>
+価格, 値段, 適正
+top3 entities near to cluster2>>
+時間, 間, その間
+top3 entities near to cluster4>>
+接客, 展示, 場内
+top3 entities near to cluster6>>
+出発, 到着, 一泊
+top3 entities near to cluster7>>
+県道, 駐車, 国道
+top3 entities near to cluster9>>
+食事, ご飯, 夕食
+top3 entities near to cluster12>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster13>>
+海鮮, マグロ, まぐろ
+top3 entities near to cluster14>>
+景色, 景観, 風景
+top3 entities near to cluster15>>
+桟橋, 漁港
+top3 entities near to cluster16>>
+海, 磯, 深海
+top3 entities near to cluster17>>
+松原, 海岸, 播田
+top3 entities near to cluster18>>
+港, 港湾, 港町
+top3 entities near to cluster20>>
+駅, 駅前, 新清水
+top3 entities near to cluster25>>
+海鮮, 丼, マグロ
+top3 entities near to cluster27>>
+水上, バス, 乗り場

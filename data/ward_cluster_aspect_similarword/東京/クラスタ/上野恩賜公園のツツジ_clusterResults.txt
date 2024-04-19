@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上野恩賜公園のツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ツツジ, つつじ
+cluster1:(3)
+上野公園, ピンク, カメラ
+cluster2:(1)
+桜
+cluster3:(1)
+四季
+cluster4:(1)
+名所
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

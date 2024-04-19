@@ -1,0 +1,21 @@
+--------------------similar_words:新宿アイランドタワー--------------------
+top3 entities near to cluster0>>
+高層, ビル, ノッポビル
+top3 entities near to cluster1>>
+カフェ, レストラン, アート
+top3 entities near to cluster2>>
+夜, 昼間, 冬
+top3 entities near to cluster3>>
+大勢, 人達, 周り
+top3 entities near to cluster4>>
+光景, 風景, 場面
+top3 entities near to cluster5>>
+穴場, オススメスポット, ススメスポット
+top3 entities near to cluster6>>
+広場, 駅前
+top3 entities near to cluster7>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster8>>
+駅, 駅前, 南口
+top3 entities near to cluster11>>
+警察署, 警察, 西署

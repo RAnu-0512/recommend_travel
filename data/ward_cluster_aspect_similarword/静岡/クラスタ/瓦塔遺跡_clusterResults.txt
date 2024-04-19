@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:瓦塔遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+瓦塔遺跡, 姫街道, 小塔
+cluster1:(25)
+車, 案内, きた道, タイヤ, こと, 札, 看板, 木々, もの, 立て札, 舗装, 歴史, 案内板, 気持ち, 山道, オレンジロード, 柵, 案内看板, 恐ろしさ, 土砂, 先, 道幅, ほうほう, 時代, 道
+
+howmany entities : 28
+howmany clusters : 2
+howmany entities (more than3entities) : 28
+howmany clusters (more than3entities) : 2
+deleted 0entities.

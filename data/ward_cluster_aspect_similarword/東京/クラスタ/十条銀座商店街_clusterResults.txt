@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十条銀座商店街>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+活気, アーケード有, 感
+cluster1:(2)
+埼京線, 赤羽線
+cluster2:(17)
+カレー, アーケイド, グルメ, アーケード, TIME, 思い出, 食べ物, 雰囲気, 差し入れ, おにぎり, テレビ, たこ焼き, スーパー, 揚げ物, ところ, 賑わい, 買い物
+cluster3:(10)
+地元, 値段, 感じ, 量, 昔, 他, 沢山, 人, 商品, もの
+cluster4:(6)
+風, 洋服, 雨, 天気, 昼, 衣類
+cluster5:(16)
+屋根, 入口, 駅, 焼鳥, 昭和, 下町, 路地, 人出, 端, 魚屋, 脇道, 方向, 穴場, 買い物客, 改札, 銀座
+cluster6:(1)
+スイ−
+cluster7:(3)
+お惣菜屋, 総菜屋, 惣菜屋
+cluster8:(3)
+揚げ物屋, 雑貨屋, 食べ物屋
+cluster9:(1)
+衣料品屋
+cluster10:(7)
+店, 惣菜, チェーン店, 飲食店, 惣菜店, 食べ歩き, 大衆演劇
+cluster11:(3)
+商店街, 銀座商店街, シャッター商店街
+cluster12:(2)
+アーケード街, 商品街
+cluster13:(2)
+商店, 個人商店
+cluster14:(1)
+十条駅
+cluster15:(1)
+古き良き商店街
+
+howmany entities : 78
+howmany clusters : 16
+howmany entities (more than1entities) : 78
+howmany clusters (more than1entities) : 16
+deleted 0entities.

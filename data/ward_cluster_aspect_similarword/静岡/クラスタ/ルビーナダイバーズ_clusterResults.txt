@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ルビーナダイバーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+事故渋滞, 渋滞
+cluster1:(3)
+思い出, プラン, SNS
+cluster2:(9)
+初心者, ダイビング, キャンセル, ダイバー, ところ, ダイビングスポット, ルビーナ, スキューバダイビング, インストラクター
+cluster3:(1)
+ファンダイビング
+cluster4:(1)
+西伊豆
+cluster5:(1)
+行き方
+cluster6:(1)
+ウェットスーツ
+cluster7:(1)
+写真
+cluster8:(5)
+息子, 人, 中学, 友達, 人あたり
+cluster9:(6)
+魚, 陽気, 海, 足, 浅瀬, 室内
+cluster10:(20)
+流れ, こと, 方, 予約, 移動, もの, 体験, 機会, 時間, 練習, 電話, 違い, 中, 確認, 途方, 旨, 体験ダイビング, 世話, 他, 説明
+cluster11:(3)
+呼吸, 耳抜き, 呼吸練習
+
+howmany entities : 53
+howmany clusters : 12
+howmany entities (more than3entities) : 46
+howmany clusters (more than3entities) : 6
+deleted 7entities.

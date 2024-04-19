@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:関口芭蕉庵>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+芭蕉句碑, 歌碑, 関口芭蕉庵, 松尾芭蕉, 句碑, 芭蕉堂, 関口芭蕉, 芭蕉庵, 芭蕉, 関口芭蕉庵芭蕉
+cluster1:(2)
+肥後徳川庭園, 文京区
+cluster2:(6)
+大名屋敷, 池, 散策路, お庭側, ひょうたん池, あり池
+cluster3:(2)
+休憩室, 休憩スペース
+cluster4:(6)
+感傷, 都会, 短歌, 俳句, 風情, 野趣
+cluster5:(9)
+散策, 建物, 一角, 庭園, 見学, 住居, 敷地, 庭, 一室
+cluster6:(2)
+関口, 塚
+cluster7:(11)
+途中, 場所, 人, 椿山荘, 神田川, イメージ, 周り, 中, スポット, 雰囲気, もの
+cluster8:(2)
+影響, 対象
+cluster9:(1)
+地
+cluster10:(1)
+坂道
+cluster11:(1)
+世界大戦
+cluster12:(1)
+新型コロナ感染症
+
+howmany entities : 54
+howmany clusters : 13
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 13
+deleted 0entities.

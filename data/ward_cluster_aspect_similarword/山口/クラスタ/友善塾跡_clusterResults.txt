@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:友善塾跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+塾跡, 説明ボード
+cluster1:(3)
+高木謙蔵, 三戸久五郎, 山口県
+cluster2:(1)
+志道源蔵
+cluster3:(1)
+在郷藩士
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

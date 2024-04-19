@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アクアヒルやない>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+健康運動施設, 駐車場
+cluster1:(2)
+風呂, 運動
+cluster2:(7)
+目的, 料金, 人, こと, 沢山, 気持ち, サウナ
+cluster3:(1)
+スポーツジム
+cluster4:(1)
+水深
+cluster5:(1)
+アクアヒル
+cluster6:(3)
+温水プール, 可動床, 柳井市
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:建築倉庫ミュージアム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+見学, 見学ツアー
+cluster1:(3)
+構造家, 思想, 哲学
+cluster2:(4)
+開催, 館内, 受付, 展示
+cluster3:(10)
+言葉, 目当て, 他, 数, 映像, 写真, 方, ハーバー, 方々, リニューアル
+cluster4:(1)
+割高感
+cluster5:(6)
+模型, 入館料, 構造展, 企画展, 常設展示, 建築模型
+cluster6:(4)
+港南口, モノレールとりんかい線, 品川駅, 天王洲アイル
+
+howmany entities : 30
+howmany clusters : 7
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:町の湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+張り紙, 注意喚起, 状況, ドア, 管理側, 改善, 殆どの, 値段, 利用客, 全員, 身体, 問題, ドボン, 方, 利用者, 湯船, 近く, 衛生
+cluster1:(11)
+飲む湯, 旅館, 湯温, 泉質, 湯治, 温泉街, 温泉, 公衆浴場, 掛け湯, 湯, 俵山温泉
+
+howmany entities : 29
+howmany clusters : 2
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 2
+deleted 0entities.

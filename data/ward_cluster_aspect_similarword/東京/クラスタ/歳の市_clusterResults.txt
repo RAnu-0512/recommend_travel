@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:歳の市>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+堀不動尊, 多く, 薬研, 人, 靴, 歳の市, 市, 薬研堀, 格安, 雑貨, 江戸時代, こと, 大勢, 周辺, 歳
+cluster1:(3)
+衣料, 日用雑貨, 衣料品
+cluster2:(3)
+正月用品, 商店街, 納めの市
+cluster3:(1)
+セールス大出庫市
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

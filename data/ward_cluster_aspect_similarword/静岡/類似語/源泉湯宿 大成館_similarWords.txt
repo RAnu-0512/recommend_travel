@@ -1,0 +1,9 @@
+--------------------similar_words:源泉湯宿 大成館--------------------
+top3 entities near to cluster1>>
+窓, 部屋, 駅
+top3 entities near to cluster2>>
+温泉, 旅館, 露天
+top3 entities near to cluster3>>
+食事, 夕食, 風呂
+top3 entities near to cluster4>>
+予約, 接客, 料金

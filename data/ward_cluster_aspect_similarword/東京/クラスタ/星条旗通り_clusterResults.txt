@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:星条旗通り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+新聞社, 星条旗新聞, 星条旗新聞社
+cluster1:(2)
+星条旗通り, 星条旗通り沿い
+cluster2:(2)
+店, 飲食店
+cluster3:(9)
+まわり, ショッピング, 人, 外国, 交差点, 西麻布, 近く, 六本木, 雰囲気
+cluster4:(4)
+場所, 気分, 名前, こと
+cluster5:(3)
+六本木駅, 昼, 昼間
+cluster6:(1)
+高層ビル
+
+howmany entities : 24
+howmany clusters : 7
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 7
+deleted 0entities.

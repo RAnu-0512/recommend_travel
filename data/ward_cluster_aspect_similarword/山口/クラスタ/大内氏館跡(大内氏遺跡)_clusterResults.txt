@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大内氏館跡(大内氏遺跡)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(14)
+力, 建築, 街, 敷地, 寺, 跡, 城, 問題, 時間, 背後, 館, 体力, 正方形, 内側
+cluster1:(4)
+京, 山口, 大内, 詰
+cluster2:(1)
+高嶺城
+cluster3:(1)
+続日本百名城攻略
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

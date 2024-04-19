@@ -1,0 +1,153 @@
+--------------------similar_words:六本木ヒルズ--------------------
+top3 entities near to cluster0>>
+展望台, 展望, 見晴らし台, 見晴らし
+top3 entities near to cluster1>>
+施設, 商業, 複合
+top3 entities near to cluster2>>
+施設, 文化, 総合
+top3 entities near to cluster3>>
+施設, 設備, 近隣
+top3 entities near to cluster4>>
+駐車場, 駐車, 場裏
+top3 entities near to cluster5>>
+複合型, 複合, 施設
+top3 entities near to cluster6>>
+ワールド, スペース, サテライト
+top3 entities near to cluster7>>
+レストラン, ブティック, ビュッフェ
+top3 entities near to cluster8>>
+マンション, オフィス, レジデンス
+top3 entities near to cluster10>>
+テナント, 店舗, ショッピングビル
+top3 entities near to cluster11>>
+チケット, タクシー, 待ち時間
+top3 entities near to cluster12>>
+スィーツ, デザート, フルーツ
+top3 entities near to cluster13>>
+インポート, シッピング, インポートウィザード
+top3 entities near to cluster14>>
+ハーブス, ロイヤルガーデンカフェ, トシ・ヨロイヅカ
+top3 entities near to cluster15>>
+ショッピング, ファッション, ショッピングビル
+top3 entities near to cluster16>>
+コンセプト, キャラクター, パンフレット
+top3 entities near to cluster17>>
+インバウンド, インバウンドツーリズム, インバウント
+top3 entities near to cluster18>>
+エレベーター, エレベータ, エスカレーター
+top3 entities near to cluster19>>
+オブジェ, クリスマスツリー, イルミネーション
+top3 entities near to cluster20>>
+東京タワー, シティビュー, シティービュー
+top3 entities near to cluster21>>
+プラプラ, ぷらぷらと, ぶらつく
+top3 entities near to cluster22>>
+アーティスト, イベント, コンサート
+top3 entities near to cluster24>>
+イメージ, デザイン, おすすめ
+top3 entities near to cluster25>>
+センス, 雰囲気, 見応え
+top3 entities near to cluster27>>
+デッキ, スカイ, ワンキルデッキ
+top3 entities near to cluster28>>
+ショップ, ペット, ルーム
+top3 entities near to cluster29>>
+映画, 映画館, シネコン
+top3 entities near to cluster30>>
+テレ朝, テレビ朝日, ＴＢＳ
+top3 entities near to cluster33>>
+最上階, タワー, 高層
+top3 entities near to cluster34>>
+テレビ, テレビ局, ＮＨＫ
+top3 entities near to cluster35>>
+飛行機, カメラ, ベビーカー
+top3 entities near to cluster36>>
+ロビー, ホテル, ベンチ
+top3 entities near to cluster37>>
+東京湾, 相模湾, アクアライン・
+top3 entities near to cluster38>>
+ナイト, タウン, ライト
+top3 entities near to cluster39>>
+買い物, ショッピング, 買いもの
+top3 entities near to cluster40>>
+スタバ, マック, カフェ
+top3 entities near to cluster41>>
+ディナー, ランチ, シェフ
+top3 entities near to cluster42>>
+グルメ, 食べ物, ビール
+top3 entities near to cluster43>>
+クリスマス, 子供, 子ども
+top3 entities near to cluster44>>
+高円宮, 皇后, プログレスリーグ
+top3 entities near to cluster45>>
+ヒルズ, ヒル, ウッド
+top3 entities near to cluster46>>
+国語, 算数, 理科
+top3 entities near to cluster47>>
+道路, 建物
+top3 entities near to cluster48>>
+屋台, 広場, 公園
+top3 entities near to cluster49>>
+辱病棟, マリナサイド, 辱病
+top3 entities near to cluster50>>
+迷路, 迷宮, 袋小路
+top3 entities near to cluster51>>
+紅葉, 桜, 夕日
+top3 entities near to cluster52>>
+茶色, 緑色, 緑, 茶
+top3 entities near to cluster53>>
+外国人, 外国, 外人
+top3 entities near to cluster55>>
+芸術, 社会, 現代
+top3 entities near to cluster56>>
+都心, 都会, 都内
+top3 entities near to cluster57>>
+地下, 地上, 地表
+top3 entities near to cluster58>>
+元日, 世界, 各国
+top3 entities near to cluster59>>
+屋外, 大型, 屋内
+top3 entities near to cluster60>>
+夜景, 庭園, 景色
+top3 entities near to cluster62>>
+ビル, 高層, 駅
+top3 entities near to cluster63>>
+展示, 展覧
+top3 entities near to cluster64>>
+高級店, 高級, 有名ブランド
+top3 entities near to cluster65>>
+飲食店, 飲食, 店舗
+top3 entities near to cluster66>>
+土産店, 土産物店, 土産, 土産物
+top3 entities near to cluster67>>
+存在感, 存在, 漂う
+top3 entities near to cluster68>>
+時期, 祭り, 季節
+top3 entities near to cluster70>>
+満面, 笑顔
+top3 entities near to cluster71>>
+子供, 家族, 友達
+top3 entities near to cluster73>>
+から, 周り, 周辺
+top3 entities near to cluster74>>
+金, 金火, 土
+top3 entities near to cluster75>>
+休憩, 授乳, 仮眠
+top3 entities near to cluster76>>
+夕食, 食事, 昼食
+top3 entities near to cluster77>>
+写真, 撮っ, 画像
+top3 entities near to cluster78>>
+撮影, 撮る, 撮っ
+top3 entities near to cluster79>>
+生誕, 記念, 誕生
+top3 entities near to cluster80>>
+展示, 見学, 開催
+top3 entities near to cluster81>>
+見, 眺め, 姿
+top3 entities near to cluster82>>
+購入, 利用, 使用
+top3 entities near to cluster83>>
+案内, 発見, 紹介
+top3 entities near to cluster84>>
+売る

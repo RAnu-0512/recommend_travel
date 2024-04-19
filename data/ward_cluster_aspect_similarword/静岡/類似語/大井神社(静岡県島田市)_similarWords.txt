@@ -1,0 +1,13 @@
+--------------------similar_words:大井神社(静岡県島田市)--------------------
+top3 entities near to cluster0>>
+神, 四, 三
+top3 entities near to cluster4>>
+参拝, 参詣, お参り
+top3 entities near to cluster5>>
+祭り, お祭, まつり
+top3 entities near to cluster7>>
+境内, 参道, 神社
+top3 entities near to cluster11>>
+大名, 飛脚, 行列
+top3 entities near to cluster12>>
+銅像

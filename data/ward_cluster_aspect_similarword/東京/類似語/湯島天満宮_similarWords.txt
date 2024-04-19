@@ -1,0 +1,43 @@
+--------------------similar_words:湯島天満宮--------------------
+top3 entities near to cluster0>>
+お参り, ご利益, 人混み
+top3 entities near to cluster2>>
+大勢, 人達
+top3 entities near to cluster3>>
+茶, 牛, 龍
+top3 entities near to cluster4>>
+駅水, 駅, 徒歩
+top3 entities near to cluster5>>
+建物, 地形
+top3 entities near to cluster6>>
+階段, 工事, 入口
+top3 entities near to cluster7>>
+土地柄, 土地, 絵柄
+top3 entities near to cluster8>>
+人出, 散策, 屋台
+top3 entities near to cluster9>>
+庭園, 中庭
+top3 entities near to cluster10>>
+薦め, 勧め, くじ
+top3 entities near to cluster12>>
+空気, 匂い, 足
+top3 entities near to cluster13>>
+態度, 世話, 言動
+top3 entities near to cluster14>>
+光景, 風情, 印象
+top3 entities near to cluster15>>
+願い, 想い, 成就
+top3 entities near to cluster16>>
+奥底, 活力
+top3 entities near to cluster18>>
+大声, 私語, 早口
+top3 entities near to cluster20>>
+梅, 桜, 菊
+top3 entities near to cluster21>>
+学問, 受験, 勉学
+top3 entities near to cluster26>>
+神社, 境内, 本殿
+top3 entities near to cluster27>>
+受験, 合格, 試験
+top3 entities near to cluster28>>
+神社, 神田, 稲荷

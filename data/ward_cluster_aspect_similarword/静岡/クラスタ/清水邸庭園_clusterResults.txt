@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水邸庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+回遊式庭園, 清水邸庭園
+cluster1:(2)
+景観形成地区, 復元整備
+cluster2:(28)
+母屋, 遠州灘, 庭園, 横須賀, アルミシェルター, 横須賀城跡, 交通アクセス, 地元, 会話, 見学, 甘酒, 透明度, 駅, 抹茶, 屋敷, 周囲, 湧き水, JR, 池, 広場, 南側, 豪商, 建物, 中心, 東海道線, 新横須賀バス停, 江戸時代, 町
+cluster3:(6)
+袋井駅, 清水家, 秋葉バス, 清水亭, 掛川市, 遠州横須賀
+
+howmany entities : 38
+howmany clusters : 4
+howmany entities (more than3entities) : 34
+howmany clusters (more than3entities) : 2
+deleted 4entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:間々下温泉>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+砂, 砂蒸し風呂
+cluster1:(10)
+申し込み順, 値段, 気持ち, 仕方, 時間, 待ち, 方, 答え, 問題, もの
+cluster2:(7)
+景色, 露天風呂, 星空, 温泉, マッサージチェア, 風呂, 砂風呂
+cluster3:(1)
+番号札
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

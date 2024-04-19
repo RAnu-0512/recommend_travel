@@ -1,0 +1,13 @@
+--------------------similar_words:ハードオフ秋葉原1号店--------------------
+top3 entities near to cluster0>>
+パソコン, ＰＣ, アキバ
+top3 entities near to cluster1>>
+店舗, 店主
+top3 entities near to cluster2>>
+家電, デジモノ・, 家具
+top3 entities near to cluster3>>
+裏道, 路地, 抜け道
+top3 entities near to cluster4>>
+電気街, 電気, 繁華街, 繁華
+top3 entities near to cluster5>>
+中古品, 中古, 品等

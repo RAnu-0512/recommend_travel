@@ -1,0 +1,21 @@
+--------------------similar_words:小笠山総合運動公園「エコパ」--------------------
+top3 entities near to cluster0>>
+競技場, 駐車場, 競技, 駐車
+top3 entities near to cluster1>>
+コンサート, ライブ, イベント
+top3 entities near to cluster3>>
+施設, 大きい, 目的
+top3 entities near to cluster5>>
+試合, リーグ, 観戦
+top3 entities near to cluster6>>
+屋根, 公園
+top3 entities near to cluster7>>
+渋滞, 混雑, 道路
+top3 entities near to cluster8>>
+駅, 徒歩, 最寄り駅
+top3 entities near to cluster9>>
+敷地, 施設, 建物
+top3 entities near to cluster13>>
+番号
+top3 entities near to cluster14>>
+会場, 大会, 開催

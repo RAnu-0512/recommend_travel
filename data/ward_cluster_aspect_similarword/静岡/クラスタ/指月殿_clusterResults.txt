@@ -1,0 +1,40 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:指月殿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+鎌倉二代将軍源頼, 鎌倉幕府二代将軍・源頼
+cluster1:(2)
+源頼家, 源頼
+cluster2:(2)
+頼家, 息子頼
+cluster3:(3)
+母政子, 北条執権, 北条政子
+cluster4:(2)
+木造建築, 木造建築物
+cluster5:(7)
+仏像, 釈迦如来坐像, 本尊, 冥福, 祈り建立, 釈迦如来座像, 阿弥陀如来像
+cluster6:(2)
+ロマン亭, 堂
+cluster7:(5)
+暗殺, 将軍, 散策, 墓, 観光
+cluster8:(4)
+木造, 造り, 建物, 細部
+cluster9:(19)
+所, 大河ドラマ, こと, 母, 重み, 家, 息子, もの, ところ, 人, 歴史, 時間, 感じ, 釈迦如来, 中, 近く, 場所, ミシュラン, たたずまい
+cluster10:(5)
+静寂, 金色, 花, 蓮, 右手
+cluster11:(1)
+派手さ
+cluster12:(10)
+修禅寺, 経堂, 鎌倉, 修善寺, 伊豆, 北条, 菩提, 伊豆最古, 修善寺温泉郷, 桂川
+cluster13:(2)
+公園側, 源氏公園
+cluster14:(4)
+古刹, 神社, 仏閣, 境内
+cluster15:(1)
+指月殿
+
+howmany entities : 71
+howmany clusters : 16
+howmany entities (more than3entities) : 57
+howmany clusters (more than3entities) : 8
+deleted 14entities.

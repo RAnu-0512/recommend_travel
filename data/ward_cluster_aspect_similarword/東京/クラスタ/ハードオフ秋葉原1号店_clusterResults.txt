@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ハードオフ秋葉原1号店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+秋葉原, PC
+cluster1:(1)
+店
+cluster2:(1)
+家電
+cluster3:(1)
+裏道
+cluster4:(1)
+電気街
+cluster5:(1)
+中古品
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

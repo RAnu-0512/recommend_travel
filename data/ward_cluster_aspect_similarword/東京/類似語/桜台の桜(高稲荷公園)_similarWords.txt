@@ -1,0 +1,7 @@
+--------------------similar_words:桜台の桜(高稲荷公園)--------------------
+top3 entities near to cluster0>>
+神社, 公園, 境内
+top3 entities near to cluster1>>
+地元人, 地元, 大勢
+top3 entities near to cluster2>>
+季節, 桜, 時季

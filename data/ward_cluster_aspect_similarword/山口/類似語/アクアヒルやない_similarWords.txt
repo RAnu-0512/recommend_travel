@@ -1,0 +1,13 @@
+--------------------similar_words:アクアヒルやない--------------------
+top3 entities near to cluster0>>
+駐車場, 駐車, 施設
+top3 entities near to cluster1>>
+風呂, 運動, 入浴
+top3 entities near to cluster3>>
+ジム, スポーツ, ボクシング
+top3 entities near to cluster4>>
+水深, 深度, 潮位
+top3 entities near to cluster5>>
+アク, オス, ラス
+top3 entities near to cluster6>>
+温水, 床, 可動
