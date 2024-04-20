@@ -14,8 +14,9 @@ def get_spotinfo():
     ]
     pref_dict = {}
     for pref in pref_list:
-        if get_pref_spot_info(pref) != []:
-            pref_dict[pref] = get_pref_spot_info(pref)
+        pref_info = get_pref_spot_info(pref)
+        if pref_info != []:
+            pref_dict[pref] = pref_info
     return pref_dict
 
 #県のスポットの情報を読み込む
@@ -59,7 +60,6 @@ def get_pref_spot_info(pref):
             url_info = {row[0]: row[1] for row in reader}
 
         for spot_index in range(len(spots_info)):
-    #        print(spots_info[spot_index][0])
             aspect_path = aspect_folder_path + spots_info[spot_index][0] + "_aspects_vecs_deleted.csv"
             with open(aspect_path,"r",encoding="utf-8") as f_aspect:
                 reader = csv.reader(f_aspect)
@@ -78,13 +78,13 @@ def get_pref_spot_info(pref):
             for aspect_index in range(len(spot_n_aspect)) :
                 asp_vec_float.append([float(value) for value in asp_vec_str[aspect_index].replace("[", "").replace("]", "").replace("\n", "").split()])
                 cluster_vec_float.append([float(value) for value in cluster_vec_str[aspect_index].replace("[", "").replace("]", "").replace("\n", "").split()])
-            
             spots_info[spot_index].append(spot_n_aspect)
             spots_info[spot_index].append(asp_vec_float)
             spots_info[spot_index].append(cluster_vec_float)
             spots_info[spot_index].append(spots_aspectsVector_float[spot_index])
             spots_info[spot_index].append(spot_and_numOfrev.get(spots_info[spot_index][0],None))
             spots_info[spot_index].append(url_info.get(spots_info[spot_index][0],None))
+        print(f"ファイルが見つかりました!! : {pref}")
     except FileNotFoundError:
         print(f"ファイルが見つかりませんでした。:{pref}")
         spots_info = []
