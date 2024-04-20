@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝来山古墳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+アクセス方法, 古墳, ケンタッキー, 右, 前, 階段
+cluster1:(2)
+宝来公園, 駅前ロータリー脇
+cluster2:(1)
+宝来山古墳
+cluster3:(1)
+東急目黒線
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.

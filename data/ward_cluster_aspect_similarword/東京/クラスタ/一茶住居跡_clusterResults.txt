@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一茶住居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神社, 愛宕神社
+cluster1:(2)
+亀戸, 小林一
+cluster2:(2)
+句碑, 俳人
+cluster3:(5)
+子, 雀, 茶, 近く, 場所
+cluster4:(1)
+江戸時代の俳人小林一
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

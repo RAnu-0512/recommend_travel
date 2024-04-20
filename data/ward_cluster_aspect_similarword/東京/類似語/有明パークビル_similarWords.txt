@@ -1,0 +1,15 @@
+--------------------similar_words:有明パークビル--------------------
+top3 entities near to cluster1>>
+レストラン, ホテル, コンビニ
+top3 entities near to cluster2>>
+ランチ, ブッフェ, ランチブッフェ
+top3 entities near to cluster3>>
+ホテル, レストラン, ブティック
+top3 entities near to cluster4>>
+ココス, マクドナルド, デニーズ
+top3 entities near to cluster5>>
+ビーフ, ロースト, チキン
+top3 entities near to cluster7>>
+ビル店, ビル, 飲食店, 飲食
+top3 entities near to cluster8>>
+有明, 施設, 展示

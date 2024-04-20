@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着物レンタルVASARA浅草駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東武浅草駅, 浅草駅
+cluster1:(7)
+浴衣, 髪型, 着付, 毛, 髪, ヘアセット, 着物
+cluster2:(2)
+追加料金, 初回利用
+cluster3:(17)
+コロナ, 組み合わせ, 秘密, スタッフ, 店舗, 地方, 嵐, 着付け, 思い出, 本店, 電車, スタイリスト, 現地, 写真, オプション, 装飾, プラン
+cluster4:(4)
+確認, 相談, 対応, 説明
+cluster5:(3)
+事, 方々, 方
+cluster6:(2)
+近く, 友達
+cluster7:(1)
+機会
+cluster8:(1)
+友人達
+
+howmany entities : 39
+howmany clusters : 9
+howmany entities (more than1entities) : 39
+howmany clusters (more than1entities) : 9
+deleted 0entities.

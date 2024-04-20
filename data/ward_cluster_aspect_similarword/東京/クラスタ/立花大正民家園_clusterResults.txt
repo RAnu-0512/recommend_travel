@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:立花大正民家園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京大, 関東大震災
+cluster1:(2)
+特徴, もの
+cluster2:(1)
+近代
+cluster3:(1)
+大正
+cluster4:(4)
+住宅, 空襲, 家屋, 庭園
+cluster5:(1)
+都市近郊住宅
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

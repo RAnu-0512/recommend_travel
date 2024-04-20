@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京成電鉄青砥駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+ほう, 方向, 乗り換え, ユアエルム, 構造, ホーム
+cluster1:(2)
+階, 階段
+cluster2:(2)
+駅, 電車
+cluster3:(2)
+飲食店, 商業施設
+cluster4:(6)
+成田方面, 羽田方面, 京成押上線, 青砥駅, 京成, 上野方面
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

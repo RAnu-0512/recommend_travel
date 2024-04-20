@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆大島 ダイビング うみのわ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(23)
+スタッフ, 送迎, ダイビング, 次回, 群れ, 笑顔, マンツーマン, 思い出, ポイント, ダイビング体験, 顔, 指導, 海, いざ海, 心配, 世話, 写真, 方, 中, インストラクター, ダイブ, 体験ダイビング, 魚
+cluster1:(2)
+恐怖心, 楽しさ
+cluster2:(1)
+宿泊込み
+
+howmany entities : 26
+howmany clusters : 3
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 3
+deleted 0entities.

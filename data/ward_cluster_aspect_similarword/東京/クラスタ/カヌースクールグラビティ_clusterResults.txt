@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カヌースクールグラビティ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+春, 山, 自然, 緑, 新緑, 川
+cluster1:(3)
+カヌースクール, カヌー, カヤック
+cluster2:(2)
+初心者, カヌー初心者
+cluster3:(1)
+船
+cluster4:(1)
+講習
+cluster5:(8)
+人達, クラス, レベル, 機会, 中, 個人, クセ, 女性
+cluster6:(1)
+乗り方
+cluster7:(2)
+青梅市, 白丸湖
+
+howmany entities : 24
+howmany clusters : 8
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 8
+deleted 0entities.

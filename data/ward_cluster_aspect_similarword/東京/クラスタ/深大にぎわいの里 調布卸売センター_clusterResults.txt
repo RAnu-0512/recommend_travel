@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:深大にぎわいの里 調布卸売センター>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+卵, 品種, 食材, 野菜
+cluster1:(7)
+深大寺, こだわり, 場所, 買い物, 近所, バーベキュー, 調布
+cluster2:(1)
+産地直売
+cluster3:(1)
+深大にぎわいの里 調布卸売センター
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

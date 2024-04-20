@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:正福寺(東京都墨田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+首塚地蔵, 首塚
+cluster1:(26)
+場所, イベント, 隅田川, 話, 価値, 近く, 地域, 家族, 名前, 工事, 修理, お気に入り, 趣, 上, 御利益, 日本, 正福寺, こと, 利益, 雰囲気, 父, 側, 病, 地元, 頭蓋骨, 病気
+cluster2:(7)
+神社, 祭り, 団地, 文化, 散歩, 寺, 境内
+cluster3:(3)
+白髭, 首, 釈迦
+cluster4:(1)
+川床
+cluster5:(1)
+板碑
+cluster6:(2)
+墨田区, 都内最古
+
+howmany entities : 42
+howmany clusters : 7
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 7
+deleted 0entities.

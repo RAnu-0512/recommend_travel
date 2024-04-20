@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松木公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+テニスコート, 遊具
+cluster1:(3)
+松木公園, 八王子市, 別所
+
+howmany entities : 5
+howmany clusters : 2
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 2
+deleted 0entities.

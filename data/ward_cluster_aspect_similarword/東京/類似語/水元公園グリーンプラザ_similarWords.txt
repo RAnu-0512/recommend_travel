@@ -1,0 +1,11 @@
+--------------------similar_words:水元公園グリーンプラザ--------------------
+top3 entities near to cluster1>>
+写真, 撮っ, ベストショット
+top3 entities near to cluster2>>
+公園, 歴史, 城址
+top3 entities near to cluster3>>
+展示, 出展, 展覧
+top3 entities near to cluster4>>
+お花, 花, 花かご
+top3 entities near to cluster5>>
+水産, 試験場, 煉製品

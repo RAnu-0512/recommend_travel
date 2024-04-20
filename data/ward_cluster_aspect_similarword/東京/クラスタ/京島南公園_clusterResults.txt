@@ -1,0 +1,10 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京島南公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 怪我
+
+howmany entities : 2
+howmany clusters : 1
+howmany entities (more than1entities) : 2
+howmany clusters (more than1entities) : 1
+deleted 0entities.

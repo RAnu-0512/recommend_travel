@@ -1,0 +1,11 @@
+--------------------similar_words:小さな貝の博物館--------------------
+top3 entities near to cluster0>>
+コレクション, コレクターズアイテム, マニア
+top3 entities near to cluster1>>
+オーナー, オーナ, 店主
+top3 entities near to cluster2>>
+博物館, 美術館, テパパ
+top3 entities near to cluster3>>
+世界, 各国, 世界中
+top3 entities near to cluster5>>
+貝, 貝殻, イケチョウ

@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ南北線 永田町駅--------------------
+top3 entities near to cluster0>>
+駅, 空港, 駅前
+top3 entities near to cluster1>>
+駅, 通路, 出入り口
+top3 entities near to cluster3>>
+深い, 地下, 奥深い

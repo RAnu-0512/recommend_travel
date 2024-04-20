@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:茶屋坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+坂, 茶屋坂
+cluster1:(3)
+道標, 道, 脇道
+cluster2:(5)
+バスターミナル, 年寄り, 下, 名前, モスバーガー
+cluster3:(1)
+バス停留所
+cluster4:(1)
+改札口
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊豆大島リゾートゴルフクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+レンタル, ゴルフ, コース, オーシャンビュー
+cluster1:(2)
+海, 景色
+cluster2:(1)
+ゴルフ場
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

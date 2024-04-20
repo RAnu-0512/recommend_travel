@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三輪里稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お社, 地域
+cluster1:(1)
+授与所
+cluster2:(1)
+ふんいき
+
+howmany entities : 4
+howmany clusters : 3
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 3
+deleted 0entities.

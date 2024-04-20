@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大悲願寺の白萩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊達政宗, 奥州伊達家
+cluster1:(11)
+本堂周辺, 花, 他, あきる野市, 本堂, 時期, 寺, 彼岸花, こと, 美しさ, 悲願
+cluster2:(2)
+白萩, 白萩所
+cluster3:(2)
+白い萩, 萩
+cluster4:(1)
+東京都
+cluster5:(1)
+望状
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

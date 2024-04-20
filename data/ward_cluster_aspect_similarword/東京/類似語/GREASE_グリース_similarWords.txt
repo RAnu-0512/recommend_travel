@@ -1,0 +1,11 @@
+--------------------similar_words:GREASE_グリース--------------------
+top3 entities near to cluster0>>
+写真, カフェ, タウン
+top3 entities near to cluster1>>
+人達
+top3 entities near to cluster2>>
+資料, 史料, 文献
+top3 entities near to cluster3>>
+模型, プラモ, プラモデル
+top3 entities near to cluster4>>
+軽食, 飲み物, 昼食

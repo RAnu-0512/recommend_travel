@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:馬頭刈山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+瀬音, 湯
+cluster1:(2)
+初心者, 山
+cluster2:(2)
+山頂, 登山
+cluster3:(3)
+疲れ, 眺め, 帰り
+cluster4:(1)
+難易度
+cluster5:(1)
+武蔵五日市駅
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

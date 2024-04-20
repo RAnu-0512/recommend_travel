@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:セガ渋谷ギーゴ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ゲーム, 化粧, ゲームセンター, 道玄坂, プリクラ
+cluster1:(3)
+渋谷区, 東京都, セガ渋谷ギーゴ
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 2
+deleted 0entities.

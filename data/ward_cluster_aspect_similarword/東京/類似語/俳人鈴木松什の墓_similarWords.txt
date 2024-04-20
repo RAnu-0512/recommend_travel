@@ -1,0 +1,11 @@
+--------------------similar_words:俳人鈴木松什の墓--------------------
+top3 entities near to cluster0>>
+瓦, 桟瓦, 葺く
+top3 entities near to cluster1>>
+俳諧, 俳人, 俳句
+top3 entities near to cluster2>>
+生業, 製造
+top3 entities near to cluster3>>
+村, 四ツ木, 本埜
+top3 entities near to cluster4>>
+松, 鈴木, 岡

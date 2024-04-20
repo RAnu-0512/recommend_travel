@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:あずま百樹園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+外, 方法, 右, 明治, 交差点, 東武鉄道, ひとつ
+cluster1:(3)
+改札, 歩道, 工事
+cluster2:(1)
+信号機
+cluster3:(3)
+あずま百樹園, 小村井駅, 東武亀戸線
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

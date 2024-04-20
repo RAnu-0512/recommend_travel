@@ -1,0 +1,11 @@
+--------------------similar_words:霞ケ関公園のハナミズキ--------------------
+top3 entities near to cluster0>>
+記念, 館, 会館
+top3 entities near to cluster1>>
+衆議院, 憲政記念館, 参議院
+top3 entities near to cluster3>>
+花壇, 噴水, 広場
+top3 entities near to cluster4>>
+前庭, 国会
+top3 entities near to cluster5>>
+前庭, 庭, 国会

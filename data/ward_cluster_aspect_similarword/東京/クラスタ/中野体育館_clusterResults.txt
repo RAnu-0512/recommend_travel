@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中野体育館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+スポーツ, 格安, トレーニングルーム
+cluster1:(2)
+設備, トレーニング場
+cluster2:(2)
+区民体育館, 中野駅
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

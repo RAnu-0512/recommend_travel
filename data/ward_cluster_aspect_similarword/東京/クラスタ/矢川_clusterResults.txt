@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:矢川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+ホタル, 湧き水, 間, 川, 場所, 安全, 水辺
+cluster1:(2)
+底, 砂利
+cluster2:(1)
+崖下
+cluster3:(1)
+流速
+cluster4:(3)
+矢川, 矢川駅, 西国立駅
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

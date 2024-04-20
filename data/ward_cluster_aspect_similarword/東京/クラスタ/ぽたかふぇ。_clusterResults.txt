@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぽたかふぇ。>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+期間限定, 休業期間
+cluster1:(2)
+陶器, 皿
+cluster2:(2)
+気分, 転換
+cluster3:(9)
+コロナ, 酒, 狙い, 格別, 自宅, 次回, 味, 作業, チョコレート
+cluster4:(1)
+絵付け
+cluster5:(1)
+衛生対策
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

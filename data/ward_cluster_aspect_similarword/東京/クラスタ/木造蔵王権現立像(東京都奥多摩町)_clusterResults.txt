@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木造蔵王権現立像(東京都奥多摩町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+人, 思い, 価値, ほう, もの, 痛み
+cluster1:(2)
+仏像, 木像
+cluster2:(2)
+奥多摩町, 小河内神社
+cluster3:(1)
+尚且つ仏像
+cluster4:(1)
+蔵王権現
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

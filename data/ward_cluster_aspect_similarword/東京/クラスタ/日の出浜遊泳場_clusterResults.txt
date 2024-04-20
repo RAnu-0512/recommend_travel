@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日の出浜遊泳場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+子供, 波, 設備, ビーチ, 日の出
+cluster1:(2)
+人口ビーチ, 人工ビーチ
+cluster2:(1)
+磯遊び
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

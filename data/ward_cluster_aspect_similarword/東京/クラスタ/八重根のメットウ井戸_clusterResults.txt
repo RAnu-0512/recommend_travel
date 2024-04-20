@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八重根のメットウ井戸>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+水, 場所, イメージ, あたり, 名前
+cluster1:(2)
+穴, 井戸
+cluster2:(1)
+見当
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

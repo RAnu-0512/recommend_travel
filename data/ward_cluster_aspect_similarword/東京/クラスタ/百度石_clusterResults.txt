@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:百度石>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+切実さ, 篤さ
+cluster1:(5)
+願い, 氷川神社, 加護, お百度参り, 信仰心
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 2
+deleted 0entities.

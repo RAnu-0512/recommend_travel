@@ -1,0 +1,21 @@
+--------------------similar_words:折形礼法、水引カルチャー倶楽部--------------------
+top3 entities near to cluster0>>
+時間帯, 時間, 結び
+top3 entities near to cluster1>>
+文化, 伝統, 芸術
+top3 entities near to cluster2>>
+機会, 興味, 本数
+top3 entities near to cluster3>>
+種類, 好み
+top3 entities near to cluster5>>
+想像, 心配, 分かり
+top3 entities near to cluster6>>
+違う, 違っ
+top3 entities near to cluster7>>
+自由度, 楽しい, 自由
+top3 entities near to cluster8>>
+講座, 受講, 講師
+top3 entities near to cluster9>>
+アクセサリー, 絵画, ブローチ
+top3 entities near to cluster10>>
+水引, 祝儀

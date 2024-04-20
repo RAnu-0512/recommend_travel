@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中山の滝>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+檜原村, 檜原
+cluster1:(2)
+あきる野, 意外
+cluster2:(3)
+流れ, 感じ, もの
+cluster3:(3)
+落差, 滝, 迫力
+cluster4:(1)
+車道
+cluster5:(1)
+水量
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

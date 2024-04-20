@@ -1,0 +1,13 @@
+--------------------similar_words:かたらいの道 市民スペース--------------------
+top3 entities near to cluster0>>
+改札, 駅, 構内
+top3 entities near to cluster1>>
+方法, 手段
+top3 entities near to cluster2>>
+トイレ, 自販機
+top3 entities near to cluster3>>
+なつ, 搭堂, メロブーム
+top3 entities near to cluster4>>
+点字, 点訳, 盲学校
+top3 entities near to cluster5>>
+駐車場, 駐車, 一般

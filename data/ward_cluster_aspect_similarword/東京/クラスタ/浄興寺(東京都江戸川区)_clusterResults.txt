@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浄興寺(東京都江戸川区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+墓, 寺, 鐘
+cluster1:(4)
+大きなお, 菓子, 年末, 地域
+cluster2:(1)
+除夜
+cluster3:(1)
+末寺
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

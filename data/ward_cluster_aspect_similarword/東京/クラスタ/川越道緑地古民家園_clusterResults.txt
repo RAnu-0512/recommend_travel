@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:川越道緑地古民家園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+見学, 移築
+cluster1:(6)
+家, 住宅, 部屋, 施設, 駅, 農家
+cluster2:(4)
+判断, 帰路, もの, 道具
+cluster3:(1)
+農具
+cluster4:(1)
+豊かさ
+cluster5:(3)
+高松駅, 立川市, 古民家ファン
+cluster6:(1)
+川越道緑地古民家園
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 7
+deleted 0entities.

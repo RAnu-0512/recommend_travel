@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:長円寺(東京都武蔵村山市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+寺院, 寺, 地蔵, 創建
+cluster1:(2)
+武蔵村山市, 本町
+cluster2:(7)
+中, 曹洞宗, 長円寺, 大河内, 雰囲気, 目, あたり
+cluster3:(2)
+歴史, 自然
+cluster4:(1)
+横中馬獅子舞
+cluster5:(1)
+市指定無形民俗文化財
+
+howmany entities : 17
+howmany clusters : 6
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 6
+deleted 0entities.

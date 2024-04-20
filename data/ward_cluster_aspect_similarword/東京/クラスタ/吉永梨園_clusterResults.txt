@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吉永梨園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+梨狩り, 梨
+cluster1:(4)
+東京, 梨園, 都内, もの
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 2
+deleted 0entities.

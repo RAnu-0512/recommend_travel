@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堀切水辺公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+堀切水辺公園, 堀切菖蒲園
+cluster1:(2)
+野球場, サッカー場
+cluster2:(2)
+荒川, 菖蒲
+cluster3:(10)
+サイクリング, ジョギング, 散歩, 試合, 自転車, 場所, 少年チーム, 河川敷, 前, 徒歩
+cluster4:(1)
+川沿い
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

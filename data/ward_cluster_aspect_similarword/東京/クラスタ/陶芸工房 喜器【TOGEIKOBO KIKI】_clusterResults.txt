@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶芸工房 喜器【TOGEIKOBO KIKI】>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作りたい物, 作りたいもの
+cluster1:(2)
+だり, だり色
+cluster2:(6)
+陶芸, 陶芸体験, 貸切, 工房, 陶器, 手びねり
+cluster3:(2)
+手作り感, 完成品
+cluster4:(2)
+大きさ, 教え方
+cluster5:(3)
+理想, 機会, 満足
+cluster6:(2)
+生徒, 先生
+cluster7:(4)
+作品, 形, 物, もの
+cluster8:(3)
+ビアマグ, マグカップ, 雰囲気
+cluster9:(2)
+作り方, 色付け
+cluster10:(2)
+友達, お陰
+cluster11:(1)
+ビールグラス
+cluster12:(1)
+こち
+cluster13:(1)
+電動ロクロ
+
+howmany entities : 33
+howmany clusters : 14
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 14
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:円乗院(東京都東大和市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+寺院, ふう, 階段
+cluster1:(2)
+大和市, 狭山
+cluster2:(1)
+真言宗智山派
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 3
+deleted 0entities.

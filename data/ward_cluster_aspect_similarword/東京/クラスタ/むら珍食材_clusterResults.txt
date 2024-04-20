@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:むら珍食材>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+店, 人, 気分, 手, 方, 方々
+cluster1:(10)
+タイ, 海外, アジア, マーケット, アジアン, 地下, ナンプラー, 日本, 雰囲気, 東南アジア
+cluster2:(5)
+アジアン食材, 食材, アメ横センタービル, 食品街, アミエビ
+cluster3:(1)
+調味料
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

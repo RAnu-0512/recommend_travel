@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:circol チルコロ靴工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+トーク, 夫婦, 機会, 度, 時間, ペンケース, 雰囲気, カラー, スペース, 色
+cluster1:(2)
+工房, 職人
+cluster2:(2)
+制作, 作業
+cluster3:(5)
+教室, 体験, 指導, 世話, 先生
+cluster4:(1)
+受講者
+cluster5:(1)
+進行具合
+cluster6:(2)
+プロ仕事部屋ムード, 革靴屋
+
+howmany entities : 23
+howmany clusters : 7
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 7
+deleted 0entities.

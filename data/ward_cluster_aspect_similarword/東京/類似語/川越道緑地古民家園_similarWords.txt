@@ -1,0 +1,11 @@
+--------------------similar_words:川越道緑地古民家園--------------------
+top3 entities near to cluster0>>
+移築, 見学, 改築
+top3 entities near to cluster1>>
+駅家, 住宅, 駅
+top3 entities near to cluster3>>
+農具, 農機具, 農耕
+top3 entities near to cluster4>>
+豊か, 富む, 育む
+top3 entities near to cluster6>>
+民家園, 民家, 緑地

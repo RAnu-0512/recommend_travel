@@ -1,0 +1,31 @@
+--------------------similar_words:狭山池(東京都瑞穂町)--------------------
+top3 entities near to cluster1>>
+散策, 公園, 散歩
+top3 entities near to cluster2>>
+家族連れ, 家族
+top3 entities near to cluster3>>
+木水, 土水, 木, 土
+top3 entities near to cluster4>>
+遊歩道, 森林浴, 雑木林
+top3 entities near to cluster5>>
+家族
+top3 entities near to cluster6>>
+転換, 気分, 高揚
+top3 entities near to cluster7>>
+休憩, 観察, 休息
+top3 entities near to cluster9>>
+周辺, 周り, 近辺
+top3 entities near to cluster11>>
+時間, 夕方, 午前
+top3 entities near to cluster13>>
+足, 後足, 両足
+top3 entities near to cluster15>>
+緑, 緑色, 豊
+top3 entities near to cluster17>>
+庭園, 公園, 森林
+top3 entities near to cluster18>>
+街灯, 照明, 外灯
+top3 entities near to cluster19>>
+夜景, 景色, 紅葉
+top3 entities near to cluster20>>
+鳥, 野鳥

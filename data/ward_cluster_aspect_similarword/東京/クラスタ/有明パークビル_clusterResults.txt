@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:有明パークビル>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京ベイ有明, 東京ベイ有明ワシントンホテル
+cluster1:(10)
+コンビニ, ビッグサイト, イベント, パイナップル, マクドナルド, レストラン, ワシントン, サイト, ホテルブッフェ, ビックサイト
+cluster2:(2)
+ブッフェ, ランチ
+cluster3:(2)
+ホテル, レストランフロアー
+cluster4:(1)
+ココス
+cluster5:(1)
+ローストビーフ
+cluster6:(10)
+途中, 地上, 建物, 他, 東京ビッグ, 移動, 休憩, 昼, 外, 多数
+cluster7:(3)
+ビル, 飲食店, パークビル
+cluster8:(7)
+有明パークビル, りんかい線, 有明, 有明駅, 複合商業施設, 展示会期間, 展示会
+
+howmany entities : 38
+howmany clusters : 9
+howmany entities (more than1entities) : 38
+howmany clusters (more than1entities) : 9
+deleted 0entities.

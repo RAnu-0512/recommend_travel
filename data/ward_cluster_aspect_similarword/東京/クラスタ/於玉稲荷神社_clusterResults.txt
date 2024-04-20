@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:於玉稲荷神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+灯篭, 神社
+cluster1:(4)
+たしか春日大社, 気, 七五三, 姿
+cluster2:(2)
+鹿, 玉
+cluster3:(1)
+神田
+cluster4:(1)
+池稲荷神社
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

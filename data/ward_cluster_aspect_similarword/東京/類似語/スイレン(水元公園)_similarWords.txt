@@ -1,0 +1,11 @@
+--------------------similar_words:スイレン(水元公園)--------------------
+top3 entities near to cluster0>>
+目的, 時期, ため
+top3 entities near to cluster1>>
+公園, 遊歩道, 河川敷
+top3 entities near to cluster2>>
+睡蓮, 花, 植物
+top3 entities near to cluster3>>
+水連, 陸連, ＢＷＦ
+top3 entities near to cluster4>>
+ごろ, 見, 頃

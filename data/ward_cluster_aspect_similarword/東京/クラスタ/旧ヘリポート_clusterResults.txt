@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:旧ヘリポート>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+バス, 車, 宿
+cluster1:(4)
+場所, 下見, 気分, 昼間
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 2
+deleted 0entities.

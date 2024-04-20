@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ことりカフェ表参道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小鳥, インコたち
+cluster1:(10)
+ケーキ, 個室, 名, 脇道, 場所, 食事, 雰囲気, 大学, 値段, 店内
+cluster2:(1)
+骨董
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

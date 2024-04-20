@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:熊野神社(東京都東大和市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+多摩地区, 多摩モノレール, 青梅街道
+cluster1:(5)
+感じ, 事, 興味, 印象, もの
+cluster2:(5)
+昔, 東京, 近く, 近所, 地元
+cluster3:(2)
+祭り, 散歩
+cluster4:(15)
+場所, ハイキングコース, 人, ところ, 話, 夫婦, 地域, 八王子, 比べ, 狭山丘陵, 日差し, 方, 中, 雰囲気, パワー
+cluster5:(3)
+歴史, 道, 時代
+cluster6:(1)
+仕事帰り
+cluster7:(3)
+神社, 参道, 境内
+cluster8:(2)
+斜面, 階段
+cluster9:(4)
+自然, 森, 竹林, 緑
+cluster10:(2)
+鳥居, 石
+cluster11:(1)
+東大和市
+cluster12:(1)
+力石
+cluster13:(2)
+大きさ, 注ぐ境内
+cluster14:(5)
+あちこち熊野神社, 熊野古道, 厳島神社, 隣厳島神社 ここ熊野神社, 熊野神社
+
+howmany entities : 54
+howmany clusters : 15
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 15
+deleted 0entities.

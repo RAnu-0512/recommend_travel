@@ -1,0 +1,15 @@
+--------------------similar_words:勝海舟銅像--------------------
+top3 entities near to cluster1>>
+銅像, 胸像
+top3 entities near to cluster2>>
+空, 冬, 夏
+top3 entities near to cluster3>>
+広場, そば, 公園
+top3 entities near to cluster4>>
+幕末, 人物, 背景
+top3 entities near to cluster5>>
+本社, 支社, 社屋
+top3 entities near to cluster6>>
+青み, 黄み, 赤み
+top3 entities near to cluster7>>
+海舟, 勝, 抜杯

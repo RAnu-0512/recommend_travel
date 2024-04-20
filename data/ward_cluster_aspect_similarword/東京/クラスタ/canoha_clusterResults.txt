@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:canoha>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ピアス, パーツ
+cluster1:(1)
+初心者
+cluster2:(1)
+道具
+
+howmany entities : 4
+howmany clusters : 3
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 3
+deleted 0entities.

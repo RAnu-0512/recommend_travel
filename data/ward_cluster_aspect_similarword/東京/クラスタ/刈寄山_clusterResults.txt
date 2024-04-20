@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:刈寄山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+間, 南側
+cluster1:(4)
+山, ところ, コース, 臼杵山
+cluster2:(1)
+山頂
+cluster3:(1)
+眺め
+cluster4:(1)
+標高
+cluster5:(3)
+市道山, あきる野市, 八王子市
+cluster6:(1)
+難易度
+cluster7:(1)
+戸倉三山
+
+howmany entities : 14
+howmany clusters : 8
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 8
+deleted 0entities.

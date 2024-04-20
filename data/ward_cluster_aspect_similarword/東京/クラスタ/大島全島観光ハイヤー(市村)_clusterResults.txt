@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島全島観光ハイヤー(市村)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+観光, 大島観光
+cluster1:(4)
+費用, こと, 運転手, タクシー
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 2
+deleted 0entities.

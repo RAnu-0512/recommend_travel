@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東部公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+プール, 夏
+cluster1:(1)
+公園
+cluster2:(1)
+野外プール
+cluster3:(1)
+安全性
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

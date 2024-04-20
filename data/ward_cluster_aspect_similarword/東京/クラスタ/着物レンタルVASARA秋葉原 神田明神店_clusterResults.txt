@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着物レンタルVASARA秋葉原 神田明神店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ヘアセット, 髪
+cluster1:(10)
+浴衣, 駅, 待ち時間, テキパキ, スタッフ, 着付け, 印象, イベント, 時間, 割
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:小留浦の太子堂--------------------
+top3 entities near to cluster0>>
+ダム, ダムサイト, 建設
+top3 entities near to cluster1>>
+人達, 大勢
+top3 entities near to cluster3>>
+建物, 家屋, 五重塔
+top3 entities near to cluster4>>
+芝居, 役者, 演劇
+top3 entities near to cluster5>>
+掲画, 銅像
+top3 entities near to cluster6>>
+村, 祓郷, 村民
+top3 entities near to cluster7>>
+施設, 山間, 娯楽

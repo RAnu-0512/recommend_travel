@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:海老屋総本舗>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+あさり佃煮, 佃煮屋, 佃煮
+cluster1:(11)
+あさり, 江戸, しらす, 土産, 種類, 浅草, 老舗, 昆布, くるみ, 吾妻橋, たもと
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

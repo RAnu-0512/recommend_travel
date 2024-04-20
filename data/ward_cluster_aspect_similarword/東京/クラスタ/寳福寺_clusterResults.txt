@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:寳福寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, 境内
+cluster1:(3)
+ネズミ, 伝説, 涙
+cluster2:(1)
+雪舟
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 3
+deleted 0entities.

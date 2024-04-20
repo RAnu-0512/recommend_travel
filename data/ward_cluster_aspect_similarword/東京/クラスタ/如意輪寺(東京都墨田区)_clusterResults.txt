@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:如意輪寺(東京都墨田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+地蔵, 寺, 境内
+cluster1:(2)
+吾妻橋, 隅田川
+cluster2:(5)
+如意輪寺, アサヒビール, ところ, 天台宗, 見ごたえ
+cluster3:(1)
+浅草線
+cluster4:(3)
+場所, 側面, 通り
+cluster5:(1)
+金色
+cluster6:(1)
+本所吾妻橋
+cluster7:(3)
+慈覚大師, 如意輪, 六角柱
+
+howmany entities : 19
+howmany clusters : 8
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:品川フィッシングガーデン>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+品川フィッシングガーデン, 東京都, 品川駅, 港区
+cluster1:(2)
+態度, 罵声
+cluster2:(2)
+解消, 引き
+cluster3:(9)
+釣り, ストレス, そば, 魚釣り, 鯉, 仕事, 都心, シナガワグース, ロケーション
+cluster4:(1)
+従業員
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

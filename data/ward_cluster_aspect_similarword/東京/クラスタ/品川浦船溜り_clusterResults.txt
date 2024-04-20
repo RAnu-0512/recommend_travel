@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:品川浦船溜り>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+品川浦, 江戸湾, 品川駅
+cluster1:(3)
+屋形船屋, 船, 屋台船
+cluster2:(2)
+建物, ビル
+cluster3:(2)
+東海道, 北品川
+cluster4:(3)
+ネット, 屋形船, 釣り船
+cluster5:(3)
+場所, こと, 辺り
+cluster6:(1)
+新旧
+cluster7:(3)
+生産地, オフィス街, 商店街
+cluster8:(1)
+高層ビル群
+
+howmany entities : 21
+howmany clusters : 9
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 9
+deleted 0entities.

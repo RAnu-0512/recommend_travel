@@ -1,0 +1,50 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狭山池(東京都瑞穂町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+釣り池, 池, 自然観察池, 狭山池公園, 狭山池, 大きなお池, 庭園観賞池
+cluster1:(11)
+駐車場, 観光地, 散歩, 親水公園, 観光, 住宅街, 散歩コース, 自然散策, 厳島神社, 空気感, 散策
+cluster2:(3)
+家族連れ, 人たち, 人
+cluster3:(2)
+木, 水
+cluster4:(17)
+ウォーキング, 食べ物, ツツジ, 受験生, ほとり, 森林浴, 雑木林, 遊歩道, スポット, 女の子, カワセミ, 気持ち, ところ, マイナスイオン, パワースポット, バランス, オススメ
+cluster5:(4)
+家, 家族, 犬, 写真
+cluster6:(2)
+転換, 気分
+cluster7:(2)
+休憩, 観察
+cluster8:(5)
+気, こと, 時期, 所, 場所
+cluster9:(3)
+周辺, 近く, 周り
+cluster10:(2)
+基本, 中
+cluster11:(2)
+夕方, 時間
+cluster12:(1)
+東京
+cluster13:(1)
+足
+cluster14:(1)
+〓おすすめ
+cluster15:(4)
+緑豊か, 瑞穂町, 緑いっぱい, 緑
+cluster16:(2)
+狭山, 西武ドーム
+cluster17:(6)
+噴水, 自然, 空間, 森林, 庭園, 公園
+cluster18:(2)
+照明, 街灯
+cluster19:(3)
+紅葉, 景色, 夜景
+cluster20:(10)
+釣り, ザリガニ釣り, 鳥, 花, 鯉, 野鳥, 石, 星, 水鳥, 魚
+
+howmany entities : 90
+howmany clusters : 21
+howmany entities (more than1entities) : 90
+howmany clusters (more than1entities) : 21
+deleted 0entities.

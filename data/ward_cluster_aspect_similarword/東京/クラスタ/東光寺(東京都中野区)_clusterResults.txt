@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東光寺(東京都中野区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+新井薬師, 新井薬師駅
+cluster1:(21)
+正面, 場所, つめ, ファミリーマート, 感じ, 右, 交差点, 左, アクセス方法, 高田馬場, 西武新宿線, 申塚, 薬師如来, 印象, こじんまり, 方面, 外, 本川越, 東光寺, 雰囲気, 方向
+cluster2:(3)
+豊島八十八, 所沢, 新宿
+cluster3:(3)
+駅, 改札, 新井薬師前駅
+cluster4:(2)
+創建, 整備
+cluster5:(6)
+神社, 山門, 坂, 寺, 上高田氷川神社, 路地
+cluster6:(5)
+哲学堂公園, 札所, 箇所霊場, 江戸時代初期, 商店街
+cluster7:(1)
+各駅停車鹿停まらない新井薬師前駅
+
+howmany entities : 43
+howmany clusters : 8
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 8
+deleted 0entities.

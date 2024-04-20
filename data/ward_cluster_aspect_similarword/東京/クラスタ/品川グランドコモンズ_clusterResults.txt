@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:品川グランドコモンズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+港南, 港南口, 品川インターシティ, 港南エリア, 品川グランドコモンズ, 品川駅, 品川セントラルガーデン, JR品川駅, 品川グランド
+cluster1:(2)
+高層ビル群, 高層ビル
+cluster2:(6)
+オフィスビル, 要塞, 建物, オフィス街, オフィス群, 周辺
+cluster3:(3)
+花, 橋, 桜
+cluster4:(2)
+感じ, 違い
+cluster5:(8)
+コンビニ, カフェ, オフィス, 人, 街並み, エリア, 見ごたえ, レストラン
+cluster6:(1)
+休憩
+cluster7:(4)
+再開発, 名所, 観光要素, 会社員
+cluster8:(1)
+混み具合
+
+howmany entities : 36
+howmany clusters : 9
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 9
+deleted 0entities.

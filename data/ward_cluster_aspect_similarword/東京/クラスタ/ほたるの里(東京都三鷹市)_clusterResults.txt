@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ほたるの里(東京都三鷹市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+東京, 調布近辺, 都, 三鷹, 国分寺崖線, 湧水, 野川
+cluster1:(21)
+育児, 水, 場所, 自然, 多く, イベント, ホタル, 人気, 文化, 家族, チャンス, 武蔵野, 鑑賞, 方, 勉強, スポット, 雰囲気, はけ, 田んぼ, お子様, 別名
+cluster2:(3)
+崖, 里, 道
+cluster3:(2)
+花園, 蛍
+cluster4:(1)
+わさび田
+cluster5:(1)
+ママ友
+cluster6:(1)
+湿性
+
+howmany entities : 36
+howmany clusters : 7
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 7
+deleted 0entities.

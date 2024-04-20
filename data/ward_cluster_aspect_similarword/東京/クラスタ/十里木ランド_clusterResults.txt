@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十里木ランド>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+十里木ランド, BBQメジャースポット十里木ランド
+cluster1:(4)
+駐車場, 海水浴場, 駐車場代, バーベキュー場
+cluster2:(34)
+川原, トーン, 水, おばさん, テーブル, 場所, 上下ビキニ, ビキニ, 自然, 子ども, 人, 散歩コース, ところ, 童心, 奥, トイレ, 川, 上, 車, テント, 川遊び, 声, 子, 対応, 養沢川, 風, こと, 魚, テント脇, 電話, バーベキュー, Tシャツ, 休憩場所, 女性
+
+howmany entities : 40
+howmany clusters : 3
+howmany entities (more than1entities) : 40
+howmany clusters (more than1entities) : 3
+deleted 0entities.

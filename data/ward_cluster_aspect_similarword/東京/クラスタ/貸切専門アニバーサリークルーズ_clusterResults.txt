@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:貸切専門アニバーサリークルーズ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+がれ, 嵐
+cluster1:(10)
+クルージング, 追加書き込み, スカイツリー, ニアミス, 桜, オリンピックカラー, スタッフ, 放送, 弁当, 揺れ
+cluster2:(1)
+松潤
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

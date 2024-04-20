@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青梅市立美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青梅市, 青梅市立美術館
+cluster1:(4)
+作品展, 講演会, 展示物, 展示
+cluster2:(12)
+作品, 中心, 景色, 窓, 講座, 有料, 作家, 時間, 美術館, 実技, 企画, 知識
+cluster3:(4)
+美術, 洋画, 日本画, 美術作品
+
+howmany entities : 22
+howmany clusters : 4
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 4
+deleted 0entities.

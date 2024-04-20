@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小金井神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小金井神社, 神社
+cluster1:(7)
+坂, 武蔵小金井駅, ネット, 近く, 此処, 目印, 帰り
+cluster2:(1)
+茅野輪
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

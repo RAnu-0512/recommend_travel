@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ドゥ・セー自由が丘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+食器, 雑貨, 家具
+cluster1:(2)
+セール価格, 値段
+cluster2:(2)
+店, 商品
+cluster3:(2)
+雰囲気, テイスト
+cluster4:(2)
+自由が丘, 掘り出し物
+cluster5:(2)
+気, 感じ
+cluster6:(1)
+外
+
+howmany entities : 14
+howmany clusters : 7
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 7
+deleted 0entities.

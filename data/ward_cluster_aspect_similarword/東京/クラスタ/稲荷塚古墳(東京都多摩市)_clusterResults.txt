@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:稲荷塚古墳(東京都多摩市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+古墳, 稲荷塚古墳群
+cluster1:(3)
+駅, 案内板, 場所
+
+howmany entities : 5
+howmany clusters : 2
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 2
+deleted 0entities.

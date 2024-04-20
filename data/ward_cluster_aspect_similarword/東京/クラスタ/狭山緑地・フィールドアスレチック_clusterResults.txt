@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:狭山緑地・フィールドアスレチック>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 家族
+cluster1:(2)
+方, 場所
+cluster2:(1)
+季節
+cluster3:(1)
+多摩湖
+cluster4:(1)
+機会
+cluster5:(1)
+アスレチック用具
+cluster6:(1)
+駐車場
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

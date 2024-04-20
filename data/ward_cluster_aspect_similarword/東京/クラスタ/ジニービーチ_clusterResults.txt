@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ジニービーチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+プライベートビーチ, ビーチ
+cluster1:(1)
+ジョンビーチ
+cluster2:(1)
+他
+cluster3:(1)
+海
+cluster4:(1)
+島内
+cluster5:(1)
+崖
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

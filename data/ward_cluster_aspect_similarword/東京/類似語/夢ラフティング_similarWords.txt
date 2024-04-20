@@ -1,0 +1,51 @@
+--------------------similar_words:夢ラフティング--------------------
+top3 entities near to cluster0>>
+安心, 楽しい
+top3 entities near to cluster1>>
+運転手, 運転, なり手
+top3 entities near to cluster2>>
+漕ぎ, 歩き
+top3 entities near to cluster3>>
+座り, 位置, 座る
+top3 entities near to cluster4>>
+参加, 撮影, 同行
+top3 entities near to cluster5>>
+ダイビング, ラフティング, スーツ
+top3 entities near to cluster7>>
+問題, 部分, 個所
+top3 entities near to cluster9>>
+時間, 流れ, 時
+top3 entities near to cluster10>>
+出発, 移動, 案内
+top3 entities near to cluster11>>
+経験, 知識, 不安
+top3 entities near to cluster12>>
+会話, 英語
+top3 entities near to cluster13>>
+船頭, お客, 乗客
+top3 entities near to cluster15>>
+子供, 子ども, 息子
+top3 entities near to cluster16>>
+全員, 大勢
+top3 entities near to cluster17>>
+家族, 友達, 友人
+top3 entities near to cluster18>>
+女性, 男性, 国内
+top3 entities near to cluster19>>
+送迎, 無料, 送料
+top3 entities near to cluster20>>
+写真, 動画, ＨＰ
+top3 entities near to cluster21>>
+体験, 夢談, 体験談, 夢
+top3 entities near to cluster22>>
+電話, 予約, 書類
+top3 entities near to cluster23>>
+天気雨, 天気, 寒い
+top3 entities near to cluster24>>
+電車, 車中, 車内
+top3 entities near to cluster25>>
+麦茶, 烏龍茶, スポーツドリンク
+top3 entities near to cluster26>>
+救助, 上下, セット
+top3 entities near to cluster27>>
+川, 岩, 川岸

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:分倍河原駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅員, 改札
+cluster1:(10)
+駅, 利用, 娘, 管轄, 印象, バリアフリー, 乗り換え, 南武線, 階段, 京王線
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

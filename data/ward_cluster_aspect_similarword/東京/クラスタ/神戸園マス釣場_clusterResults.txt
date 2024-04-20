@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:神戸園マス釣場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神戸園, 神戸園キャンプ場
+cluster1:(9)
+キャンプ, 費用, 釣り, 場, 持ち帰り, 釣り場, 魚, キャンプ場, 塩焼き
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

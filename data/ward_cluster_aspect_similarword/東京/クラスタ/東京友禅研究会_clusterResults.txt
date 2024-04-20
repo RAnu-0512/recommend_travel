@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京友禅研究会>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+シルク生地, 生地, 染料
+cluster1:(14)
+作品, 線, 雑, 仕上げ作業, スカーフ, 体験, 上, 柄, アイロン, 先生, タオル, 工程, もの, 色
+cluster2:(1)
+敷紙
+cluster3:(1)
+色挿し体験自体
+
+howmany entities : 19
+howmany clusters : 4
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 4
+deleted 0entities.

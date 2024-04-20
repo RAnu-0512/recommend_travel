@@ -1,0 +1,9 @@
+--------------------similar_words:神津島西海岸コース--------------------
+top3 entities near to cluster0>>
+天気雨, お天気雨, 天気, お天気
+top3 entities near to cluster1>>
+海, 山, バス
+top3 entities near to cluster2>>
+海岸, 浜辺, 海辺
+top3 entities near to cluster3>>
+だり, やん, でる

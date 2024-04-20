@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:薬師堂(東京都八丈島八丈町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+神社, 堂
+cluster1:(5)
+プレハブ, 薬師如来, 仮, 八丈島, 工事
+cluster2:(1)
+薬師様
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

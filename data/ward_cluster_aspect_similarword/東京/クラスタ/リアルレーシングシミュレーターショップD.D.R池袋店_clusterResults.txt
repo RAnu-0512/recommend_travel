@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:リアルレーシングシミュレーターショップD.D.R池袋店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+運転免許, 免許
+cluster1:(7)
+店長, イケメン店長, 画像, 子供, 大人, シュミレーション, 時間
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

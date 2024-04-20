@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西多摩霊園のツツジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+あきる野市, 霊園
+cluster1:(2)
+花見, 機会
+
+howmany entities : 4
+howmany clusters : 2
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 2
+deleted 0entities.

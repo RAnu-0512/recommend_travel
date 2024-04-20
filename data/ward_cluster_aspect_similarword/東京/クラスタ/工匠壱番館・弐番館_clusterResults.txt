@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:工匠壱番館・弐番館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+工匠館, 工匠
+cluster1:(2)
+展示施設, 作品展示
+cluster2:(2)
+職人, 職人技
+cluster3:(1)
+技
+cluster4:(2)
+背景, 見ごたえ
+cluster5:(1)
+歴史
+cluster6:(1)
+地域
+cluster7:(1)
+町工場
+cluster8:(1)
+伝統工芸
+cluster9:(1)
+江東区
+
+howmany entities : 14
+howmany clusters : 10
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 10
+deleted 0entities.

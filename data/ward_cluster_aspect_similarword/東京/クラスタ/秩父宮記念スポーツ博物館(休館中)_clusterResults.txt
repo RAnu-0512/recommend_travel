@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秩父宮記念スポーツ博物館(休館中)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+名場面, 名
+cluster1:(4)
+スポーツ, 総合スポーツ, 秩父宮, 館
+cluster2:(1)
+国立競技場
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日の出陶房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+陶芸, 陶芸体験
+cluster1:(2)
+子供, 自然
+cluster2:(5)
+中, 作品, 湯飲み, もの, 時間
+cluster3:(1)
+割引
+cluster4:(1)
+回数チケット
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

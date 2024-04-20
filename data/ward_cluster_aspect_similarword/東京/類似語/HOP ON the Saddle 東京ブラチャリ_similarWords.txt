@@ -1,0 +1,25 @@
+--------------------similar_words:HOP ON the Saddle 東京ブラチャリ--------------------
+top3 entities near to cluster0>>
+., 05, 07
+top3 entities near to cluster1>>
+連絡, 電話, 番号
+top3 entities near to cluster4>>
+下町, 町, 丁目
+top3 entities near to cluster5>>
+皇居, 東宮御所, 吹上御苑
+top3 entities near to cluster6>>
+体験, 体験談, 苦い
+top3 entities near to cluster7>>
+新緑, 季節, 時季
+top3 entities near to cluster8>>
+料理, 食事
+top3 entities near to cluster9>>
+返答, 返事, 電話
+top3 entities near to cluster10>>
+出発, 昼, 夕方
+top3 entities near to cluster11>>
+情報, 予定, ほか
+top3 entities near to cluster12>>
+よさ, たさ, こさ
+top3 entities near to cluster13>>
+薫る

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アクアメイトダイビングクラブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ボートダイブ, ビーチダイブ
+cluster1:(1)
+インストラクター
+cluster2:(1)
+ダイビング
+cluster3:(1)
+夜光虫
+cluster4:(1)
+神津島
+cluster5:(1)
+方
+cluster6:(1)
+子供
+cluster7:(1)
+時間
+
+howmany entities : 9
+howmany clusters : 8
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:total care salon HOGUREST>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+決定, 説明
+cluster1:(1)
+再訪
+
+howmany entities : 3
+howmany clusters : 2
+howmany entities (more than1entities) : 3
+howmany clusters (more than1entities) : 2
+deleted 0entities.

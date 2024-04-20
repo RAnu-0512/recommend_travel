@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本仁田山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, バス
+cluster1:(3)
+山, 奥多摩, 場合
+cluster2:(1)
+利便性
+cluster3:(1)
+登り鳩ノ巣
+
+howmany entities : 7
+howmany clusters : 4
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ガラス工芸・ラッピング★NOKKO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+家, 先生
+cluster1:(4)
+人, 近く, 時間, 方
+cluster2:(4)
+質問, 感じ, 笑, 体験
+cluster3:(3)
+趣味, 道具, 力
+cluster4:(2)
+グラス, タオル
+cluster5:(6)
+初心者, サンドブラスト, グラスリッツェン, シール, デザイン, プレゼント
+cluster6:(1)
+桜
+cluster7:(1)
+砂
+cluster8:(3)
+作業説明, お勧め, 作業
+cluster9:(1)
+方向音痴
+
+howmany entities : 27
+howmany clusters : 10
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 10
+deleted 0entities.

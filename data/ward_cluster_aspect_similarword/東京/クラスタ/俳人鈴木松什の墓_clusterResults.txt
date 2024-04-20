@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:俳人鈴木松什の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+瓦製造, 瓦
+cluster1:(2)
+俳諧, 俳人
+cluster2:(4)
+有名人, 生業, 墓, 製造
+cluster3:(1)
+柴又村
+cluster4:(1)
+鈴木松什
+cluster5:(1)
+文政天保頃
+
+howmany entities : 11
+howmany clusters : 6
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 6
+deleted 0entities.

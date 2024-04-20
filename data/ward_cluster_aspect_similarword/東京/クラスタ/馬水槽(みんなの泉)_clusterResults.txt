@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:馬水槽(みんなの泉)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ロンドン水槽協会, 馬水槽, 犬猫
+cluster1:(2)
+指定文化財, 史跡
+cluster2:(8)
+光景, 裏面, 端, 前, 方, 下, 時代, もの
+cluster3:(9)
+水, 馬, 文化財, 駅, アルタ, ヨーロッパ, 人間, 大理石, 影
+cluster4:(2)
+上部, 大正
+cluster5:(8)
+水飲み場, 新宿駅, 東側のアルタ前広場, 広場, 前広場, 東口広場, 東口, 新宿
+
+howmany entities : 32
+howmany clusters : 6
+howmany entities (more than1entities) : 32
+howmany clusters (more than1entities) : 6
+deleted 0entities.

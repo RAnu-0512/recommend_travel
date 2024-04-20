@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:香取神社(東水元)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+香取神宮, 亀戸香取神社
+cluster1:(2)
+創建年代, 創建
+cluster2:(7)
+関係, JR, 神社, 近く, 境内, 水元公園, 徒歩
+cluster3:(2)
+東武線, 亀戸駅
+cluster4:(1)
+下総国
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

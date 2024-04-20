@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:西円寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+庭, 門, 寺, 石垣, 山門
+cluster1:(3)
+観光, こと, 先
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 2
+deleted 0entities.

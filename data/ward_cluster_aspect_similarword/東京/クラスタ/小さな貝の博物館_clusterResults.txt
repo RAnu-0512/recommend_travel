@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小さな貝の博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コレクション, コレクター
+cluster1:(1)
+オーナー
+cluster2:(1)
+博物館
+cluster3:(1)
+世界
+cluster4:(1)
+場所
+cluster5:(1)
+貝
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:葛飾区金魚展示場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+数, 真夏, 水元公園, 姿, 品種
+cluster1:(4)
+金魚展示場, 江戸前金魚, 金魚売, 金魚
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

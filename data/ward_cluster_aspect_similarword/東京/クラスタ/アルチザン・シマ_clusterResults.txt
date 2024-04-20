@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アルチザン・シマ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+修正, 輪郭
+cluster1:(3)
+場所, 通り, 時間
+cluster2:(6)
+写真, フエルト, 素人, アドバイス, 先生, 母
+cluster3:(1)
+暴走
+cluster4:(1)
+浅草橋駅
+cluster5:(1)
+飼い猫
+cluster6:(1)
+羊毛フエルト初体験
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 7
+deleted 0entities.

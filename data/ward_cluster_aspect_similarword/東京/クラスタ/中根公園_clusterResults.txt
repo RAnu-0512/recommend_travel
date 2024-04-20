@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中根公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+公園, 遊具
+cluster1:(2)
+歴史, 自然
+cluster2:(2)
+昔, 隣
+cluster3:(5)
+タイヤブランコ, 子供, ところ, 滑り台, すべり台
+cluster4:(1)
+管理
+cluster5:(1)
+ゴミ
+cluster6:(3)
+岡田, 目黒区, 岡田の森
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

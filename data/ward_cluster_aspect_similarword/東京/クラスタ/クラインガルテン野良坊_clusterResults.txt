@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:クラインガルテン野良坊>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+設備, キャンプ場
+cluster1:(2)
+コテージ, ログハウス
+cluster2:(2)
+バーベキュー, キャンプ
+cluster3:(1)
+暖か
+cluster4:(6)
+自然体験, 農業体験, 体験, 宿泊体験, 農業, 農園体験
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

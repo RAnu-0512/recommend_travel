@@ -1,0 +1,9 @@
+--------------------similar_words:重要文化財 小林家住宅--------------------
+top3 entities near to cluster0>>
+檜原, 村営, 村
+top3 entities near to cluster1>>
+修復, 文化財, 工事
+top3 entities near to cluster2>>
+駅, バス, 改札
+top3 entities near to cluster4>>
+建築, 建物, 家屋

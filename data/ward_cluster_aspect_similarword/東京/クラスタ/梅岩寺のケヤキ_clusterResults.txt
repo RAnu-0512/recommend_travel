@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅岩寺のケヤキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+青梅, 東村山市
+cluster1:(4)
+寺, 機会, 木, 建物
+cluster2:(1)
+幹周
+cluster3:(1)
+梅岩寺
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

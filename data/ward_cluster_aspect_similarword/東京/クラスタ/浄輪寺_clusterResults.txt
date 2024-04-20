@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浄輪寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墓, 墓地
+cluster1:(4)
+門, 大通り, 先, 左側
+cluster2:(3)
+坂, 寺, 堂
+cluster3:(2)
+新宿区, 住宅地
+cluster4:(1)
+江戸時代の数学者関孝和
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

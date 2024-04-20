@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:十軒店跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+再開発, 説明板, 解説版
+cluster1:(2)
+雛人形師, 人形店
+cluster2:(2)
+京都, 長屋
+cluster3:(7)
+こと, 立て札, 壁, 交差点, 説明, 付近, 仕事
+cluster4:(3)
+室町三丁目, 室町センタービル, 軒店跡
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

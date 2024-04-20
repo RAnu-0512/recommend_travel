@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ぬり絵美術館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+町屋駅, 町屋
+cluster1:(2)
+塗り絵, 思い出
+cluster2:(1)
+場所
+cluster3:(1)
+従妹
+cluster4:(1)
+足跡
+cluster5:(1)
+しのぶ記念館
+cluster6:(1)
+塗り絵作家きいち
+
+howmany entities : 9
+howmany clusters : 7
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日本一丸ポスト>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+丸ポスト, 丸いポスト
+cluster1:(2)
+ポスト, 近く
+cluster2:(1)
+機会
+cluster3:(1)
+小平
+cluster4:(1)
+写真とり
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:日産レンタカー 大手町サンケイビル店--------------------
+top3 entities near to cluster0>>
+新幹線, ボックス, プラレールカー
+top3 entities near to cluster1>>
+クルマ, 車両
+top3 entities near to cluster3>>
+店舗, レンタカー
+top3 entities near to cluster4>>
+ビル, タワービル, ビルディング
+top3 entities near to cluster5>>
+人数, 人員, 定員

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:二宮考古館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+縄文時代, 石器時代, 石器
+cluster1:(2)
+土偶, 土器
+cluster2:(9)
+歴史, 生活, こと, 家族, 興味, あきる野市, 周辺, 資料, もの
+cluster3:(1)
+出土品
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

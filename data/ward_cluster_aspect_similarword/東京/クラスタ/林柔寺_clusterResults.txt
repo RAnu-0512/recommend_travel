@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:林柔寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, バイク
+cluster1:(1)
+花見
+cluster2:(1)
+位牌
+cluster3:(1)
+葛飾区
+cluster4:(1)
+徳川家継の生母月光院
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

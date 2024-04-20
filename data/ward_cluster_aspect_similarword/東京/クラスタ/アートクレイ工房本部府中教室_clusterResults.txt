@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アートクレイ工房本部府中教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+焼き時間, 時間
+cluster1:(11)
+初心者, サプライズ, ペンダント, 指輪, リング, デザイン, プレゼント, アクセサリー, サイズ, 妻, 主人
+cluster2:(4)
+興味, 工房, 体験, 世話
+cluster3:(3)
+注射器, 粘土, 銀粘土
+
+howmany entities : 20
+howmany clusters : 4
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 4
+deleted 0entities.

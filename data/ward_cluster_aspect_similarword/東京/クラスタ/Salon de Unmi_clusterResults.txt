@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Salon de Unmi>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+コロナ禍, コロナ渦
+cluster1:(15)
+パンデミック, 作品, ハーバリウム, ボールペン, ポーセラーツ, 素人, 外国, マグカップ, 思い出, 規模, 時間, 日本, 今回, サイト, 目
+cluster2:(9)
+姿, イベント事, 事, 驚き, 感動, 方々, 方, 要望, もの
+cluster3:(1)
+良さ
+cluster4:(15)
+つまみ細工, 夫妻, ペア, 陶芸, 彼女達, 人柄, 水引, 和, 柄, プロ製作, 親睦, 友人, 先生, 教室, 色
+cluster5:(7)
+在住外国人, 制作体験, 体験, 所要時間, 体験教室, 作業, 作業工程
+cluster6:(8)
+ガラス和風鈴製作, 灯籠製作, 竹灯籠製作体験, 日本伝統工芸, 工芸サイト, 体験工芸, 手漉き和紙作り, 手漉き和紙
+
+howmany entities : 57
+howmany clusters : 7
+howmany entities (more than1entities) : 57
+howmany clusters (more than1entities) : 7
+deleted 0entities.

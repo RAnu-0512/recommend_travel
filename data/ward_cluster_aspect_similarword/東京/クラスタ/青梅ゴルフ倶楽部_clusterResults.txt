@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青梅ゴルフ倶楽部>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+東京, クラブハウス, 手入れ, ゴルフ場, コース, 自然, キャディー
+cluster1:(4)
+JR青梅線, 青梅ゴルフクラブ, 青梅駅, 青梅ゴルフ倶楽部
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小菅東スポーツ公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+小菅西公園, 小菅公園
+cluster1:(3)
+こちら東, 東, 西
+cluster2:(2)
+芝生スペース, 芝生
+cluster3:(9)
+春, 公園, 花見, 自転車, 都, 坂道, テニスコート, 桜, 下
+cluster4:(4)
+スポーツ施設, 施設, 子供たち, 遊具
+
+howmany entities : 20
+howmany clusters : 5
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 5
+deleted 0entities.

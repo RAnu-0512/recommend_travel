@@ -1,0 +1,11 @@
+--------------------similar_words:一茶住居跡--------------------
+top3 entities near to cluster0>>
+神社, 境内, 本殿
+top3 entities near to cluster1>>
+亀戸, 伊藤, 佐藤
+top3 entities near to cluster2>>
+句碑, 俳人, 歌人
+top3 entities near to cluster3>>
+雀, 茶, 子
+top3 entities near to cluster4>>
+時代, 俳人, 戦前

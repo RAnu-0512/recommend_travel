@@ -1,0 +1,13 @@
+--------------------similar_words:アクアメイトダイビングクラブ--------------------
+top3 entities near to cluster0>>
+ボートダイブ, ビーチダイブ, ファンダイブ
+top3 entities near to cluster1>>
+インストラクター, インストラクタ, 講師
+top3 entities near to cluster2>>
+ダイビング, スキューバダイビング, シュノーケリング
+top3 entities near to cluster3>>
+夜光虫, ヤコウチュウ, ウミホタル
+top3 entities near to cluster6>>
+子供, 子ども, 大人
+top3 entities near to cluster7>>
+時間, 日数分, 日数

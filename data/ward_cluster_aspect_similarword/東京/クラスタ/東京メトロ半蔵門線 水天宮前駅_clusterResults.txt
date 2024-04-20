@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ半蔵門線 水天宮前駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+日比谷線人形町駅, 乗換駅, 人形町駅
+cluster1:(9)
+駅, 外, 人気, 間, 人形焼き, 店, 半蔵門線, 商店街, 最寄り駅
+cluster2:(1)
+水天宮
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

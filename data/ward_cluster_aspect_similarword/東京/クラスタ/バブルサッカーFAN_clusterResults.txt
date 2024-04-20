@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:バブルサッカーFAN>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+友達, 家族
+cluster1:(1)
+こと
+
+howmany entities : 3
+howmany clusters : 2
+howmany entities (more than1entities) : 3
+howmany clusters (more than1entities) : 2
+deleted 0entities.

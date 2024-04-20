@@ -1,0 +1,11 @@
+--------------------similar_words:自由が丘ガラス工房Girasole--------------------
+top3 entities near to cluster0>>
+ガラス, 仕上げ, フロストガラス
+top3 entities near to cluster1>>
+作品, 作風
+top3 entities near to cluster2>>
+先生, センセ, センセー
+top3 entities near to cluster3>>
+壁掛け, ミラー, ウォールミラー
+top3 entities near to cluster4>>
+選ぶ, えらび

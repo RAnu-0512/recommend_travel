@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタモビリティサービス 田町グランパーク店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+周囲, コンビニ
+cluster1:(1)
+様子
+cluster2:(1)
+店舗
+
+howmany entities : 4
+howmany clusters : 3
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 3
+deleted 0entities.

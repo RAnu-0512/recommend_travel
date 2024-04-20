@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蔵味珈琲 三軒茶屋店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+好み, 味
+cluster1:(5)
+コーヒー, 食事, サンドイッチ, パスタ, チャート
+cluster2:(1)
+珈琲
+cluster3:(1)
+ご飯定食
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

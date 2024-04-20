@@ -1,0 +1,9 @@
+--------------------similar_words:鳥の工房つばさ--------------------
+top3 entities near to cluster0>>
+鳥, 動物, 野鳥
+top3 entities near to cluster1>>
+ゴミ, 木, ごみ
+top3 entities near to cluster2>>
+教室, 生徒, 作品
+top3 entities near to cluster3>>
+ドア, 扉

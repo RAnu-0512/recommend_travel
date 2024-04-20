@@ -1,0 +1,9 @@
+--------------------similar_words:渋谷プライム--------------------
+top3 entities near to cluster0>>
+ダンス, 姉さん, カンジ
+top3 entities near to cluster1>>
+店員, 店内
+top3 entities near to cluster2>>
+看板, 入口, 入り口
+top3 entities near to cluster3>>
+地下, ビル, 劇場

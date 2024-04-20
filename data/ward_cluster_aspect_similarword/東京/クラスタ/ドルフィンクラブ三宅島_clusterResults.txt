@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ドルフィンクラブ三宅島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+スタッフ, 久しぶり
+cluster1:(1)
+他
+cluster2:(1)
+三宅島
+cluster3:(1)
+ふり
+cluster4:(1)
+声
+cluster5:(1)
+傷
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

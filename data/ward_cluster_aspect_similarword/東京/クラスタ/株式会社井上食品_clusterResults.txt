@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:株式会社井上食品>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+食品, こんにゃく
+cluster1:(1)
+土産
+cluster2:(1)
+刺身こんにゃく
+cluster3:(1)
+機会
+cluster4:(1)
+製法
+cluster5:(1)
+トロこんにゃく
+cluster6:(1)
+井上食品
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

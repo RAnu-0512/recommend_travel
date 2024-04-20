@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国木田独歩の詩碑(東京都武蔵野市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+独歩, 木田独歩
+cluster1:(2)
+詩碑, 碑
+cluster2:(3)
+国, 場所, もの
+cluster3:(2)
+詩, 冬
+cluster4:(1)
+波
+cluster5:(1)
+銚子
+cluster6:(1)
+三鷹駅
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

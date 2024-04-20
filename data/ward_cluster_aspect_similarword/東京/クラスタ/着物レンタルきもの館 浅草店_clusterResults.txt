@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着物レンタルきもの館 浅草店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+着付, 着物プラン, 着物選び, 着物
+cluster1:(2)
+髪, ヘアセット
+cluster2:(10)
+絹, 対応, 方, 沢山, アドバイス, スタッフ, コーデ, 荷物, 帯, 事
+cluster3:(1)
+カップルお勧め絹
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

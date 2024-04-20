@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島全島観光ハイヤー(宮本交通)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+情報, タクシー
+cluster1:(1)
+旅行
+cluster2:(1)
+穴場スポット
+cluster3:(1)
+大島
+cluster4:(1)
+運転手
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

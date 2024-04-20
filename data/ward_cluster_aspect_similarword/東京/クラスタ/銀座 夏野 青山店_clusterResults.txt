@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:銀座 夏野 青山店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+子供, 銀座, 箸
+cluster1:(2)
+専門店, 支店
+cluster2:(1)
+表参道近くの脇道商店街
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 3
+deleted 0entities.

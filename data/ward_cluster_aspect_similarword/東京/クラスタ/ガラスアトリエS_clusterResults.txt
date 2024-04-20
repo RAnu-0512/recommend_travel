@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ガラスアトリエS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+体験, 先生, 指導
+cluster1:(3)
+駅, 場所, 時間
+cluster2:(4)
+お気に入り, デザイン, ワガママ, イメージ
+cluster3:(2)
+ガラス, グラス
+cluster4:(2)
+絵柄, 皿
+cluster5:(1)
+適格
+cluster6:(1)
+花柄
+cluster7:(1)
+作りたいグラス
+
+howmany entities : 17
+howmany clusters : 8
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 8
+deleted 0entities.

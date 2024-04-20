@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レスポワール青山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+初心者, ハーバリウム, 組み合わせ, クリスマスリース, 作り方
+cluster1:(2)
+色, お花
+cluster2:(1)
+配置
+cluster3:(1)
+お花体験
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

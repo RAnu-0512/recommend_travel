@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鎌倉街道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+鎌倉街道, 道沿い, 街道名, 街道, 町田街道, 街道筋, 街道沿い
+cluster1:(5)
+小平, 鎌倉, 府中, 新小平駅, 町田市
+cluster2:(7)
+思い, 感じ, 面影, 姿, 機会, こと, 風情
+cluster3:(2)
+普段車, 車
+cluster4:(4)
+表示, 名前, 名称, 通称
+cluster5:(2)
+徒歩, 往復
+cluster6:(2)
+お家, 自宅
+cluster7:(2)
+前後, 時間
+cluster8:(3)
+昔, 近く, 日本
+cluster9:(4)
+場所, 人, 気持ち, 雰囲気
+cluster10:(1)
+歴史
+cluster11:(11)
+道筋, 建物, 古道, 道幅, 街, 散歩, 住宅, 交通量, 道路, 裏道, 道
+cluster12:(1)
+東京都道18号府中町田線
+
+howmany entities : 51
+howmany clusters : 13
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 13
+deleted 0entities.

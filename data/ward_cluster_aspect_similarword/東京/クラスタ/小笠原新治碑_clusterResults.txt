@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小笠原新治碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こと, もの
+cluster1:(3)
+咸臨丸, 小笠原, 日本
+cluster2:(1)
+碑
+cluster3:(1)
+領土
+cluster4:(1)
+小笠原神社
+cluster5:(1)
+水野忠徳
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

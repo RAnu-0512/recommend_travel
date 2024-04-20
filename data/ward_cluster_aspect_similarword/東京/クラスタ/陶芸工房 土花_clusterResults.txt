@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:陶芸工房 土花>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+指導, 先生, 教室
+cluster1:(2)
+学び, 体験
+cluster2:(11)
+写真, 人, 都, 初心者, 子連れ, 友達, 選択, 気遣い, 器, 時間, 色
+cluster3:(2)
+幼児連れ, 滞在時間
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

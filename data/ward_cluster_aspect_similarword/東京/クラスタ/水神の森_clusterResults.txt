@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水神の森>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+隅田神社, 浮島神社, 神社, 浮島, 隅田川神社
+cluster1:(2)
+水神社, 水神
+cluster2:(2)
+隅田川, 森
+cluster3:(2)
+東白髭神社, 浮島神社鎮守
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

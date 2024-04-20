@@ -1,0 +1,9 @@
+--------------------similar_words:ニッポンレンタカー 神保町九段下店--------------------
+top3 entities near to cluster0>>
+ショップ, レンタカー, ガソリンスタンド
+top3 entities near to cluster1>>
+移動, 行き来, 移る
+top3 entities near to cluster2>>
+価格, 値段, 定価
+top3 entities near to cluster4>>
+総数

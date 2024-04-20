@@ -1,0 +1,9 @@
+--------------------similar_words:大島全島観光ハイヤー(花交通)--------------------
+top3 entities near to cluster0>>
+希望, 気分, 出身
+top3 entities near to cluster1>>
+島, 島内, 本島
+top3 entities near to cluster2>>
+名勝, 天然記念物, 史跡
+top3 entities near to cluster3>>
+会社, バス, 元

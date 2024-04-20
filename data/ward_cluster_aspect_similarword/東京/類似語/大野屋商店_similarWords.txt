@@ -1,0 +1,11 @@
+--------------------similar_words:大野屋商店--------------------
+top3 entities near to cluster0>>
+プロ, 専門店, 専門
+top3 entities near to cluster1>>
+料理人, 料理, 食材
+top3 entities near to cluster2>>
+調理, 道具, 器具
+top3 entities near to cluster3>>
+日, 休, 月
+top3 entities near to cluster4>>
+道具屋, 道具

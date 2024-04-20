@@ -1,0 +1,30 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京マイスターアカデミー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京, 土
+cluster1:(3)
+形, 土台, 印象
+cluster2:(4)
+時間切れ, オススメ, ポイント, コーヒーカップ
+cluster3:(2)
+場所, 時間
+cluster4:(1)
+難点
+cluster5:(1)
+記念
+cluster6:(1)
+器
+cluster7:(9)
+陶芸, 早口, 夫婦, 指導, 友達, 教え方, 先生, 電話, 講師
+cluster8:(1)
+釉薬
+cluster9:(1)
+電車遅延
+cluster10:(1)
+ロクロ
+
+howmany entities : 26
+howmany clusters : 11
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 11
+deleted 0entities.

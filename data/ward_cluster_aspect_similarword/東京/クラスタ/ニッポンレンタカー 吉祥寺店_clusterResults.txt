@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 吉祥寺店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+スタッフ, ニッポンレンタカー, 乗用車, 色とりどり, 吉祥寺, レンタカー
+cluster1:(2)
+方, 場所
+cluster2:(1)
+灰色
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

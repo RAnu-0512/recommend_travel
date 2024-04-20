@@ -1,0 +1,15 @@
+--------------------similar_words:ドゥ・セー自由が丘--------------------
+top3 entities near to cluster0>>
+家具, 食器, 雑貨
+top3 entities near to cluster1>>
+価格, 値段, 定価
+top3 entities near to cluster2>>
+商品, 店舗
+top3 entities near to cluster3>>
+雰囲気, テイスト, 趣き
+top3 entities near to cluster4>>
+掘り出し物, フレル・ウィズ, 掘出し物
+top3 entities near to cluster5>>
+思う気, よう, 思う
+top3 entities near to cluster6>>
+想定外, 想定内, 想定

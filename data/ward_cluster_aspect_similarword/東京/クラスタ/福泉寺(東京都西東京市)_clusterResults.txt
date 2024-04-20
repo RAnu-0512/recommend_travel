@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福泉寺(東京都西東京市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+五重塔, 多宝塔
+cluster1:(1)
+寺
+cluster2:(1)
+歴史
+
+howmany entities : 4
+howmany clusters : 3
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 3
+deleted 0entities.

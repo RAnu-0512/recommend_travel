@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:皇居東御苑の梅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東御苑, 皇居東御苑
+cluster1:(16)
+季節, 春, 千代田, 東京都, 花, 千代田区, 皇居, 桃色, 大手門, 中, 梅, 方, こと, 城, 白, 側
+cluster2:(5)
+梅林坂, 平川門, 坂, 天守台, 梅樹
+
+howmany entities : 23
+howmany clusters : 3
+howmany entities (more than1entities) : 23
+howmany clusters (more than1entities) : 3
+deleted 0entities.

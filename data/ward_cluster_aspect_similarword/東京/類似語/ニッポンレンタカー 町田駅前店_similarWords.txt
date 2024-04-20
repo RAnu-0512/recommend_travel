@@ -1,0 +1,9 @@
+--------------------similar_words:ニッポンレンタカー 町田駅前店--------------------
+top3 entities near to cluster0>>
+店舗, レンタカー
+top3 entities near to cluster1>>
+店員, 店長, 店主
+top3 entities near to cluster2>>
+問題, 死活, 難問
+top3 entities near to cluster3>>
+駅, 南口, 北口

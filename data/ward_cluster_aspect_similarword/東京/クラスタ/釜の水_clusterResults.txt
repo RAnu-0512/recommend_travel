@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:釜の水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水, 場所
+cluster1:(1)
+容器
+cluster2:(1)
+釜
+cluster3:(1)
+名水
+cluster4:(1)
+名湧水
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

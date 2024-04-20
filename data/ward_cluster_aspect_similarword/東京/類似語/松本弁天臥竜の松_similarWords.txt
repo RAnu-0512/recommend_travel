@@ -1,0 +1,9 @@
+--------------------similar_words:松本弁天臥竜の松--------------------
+top3 entities near to cluster0>>
+臥竜, 弁天, 松
+top3 entities near to cluster1>>
+区, 中心, 高
+top3 entities near to cluster2>>
+樹齢, 枝, 巨木
+top3 entities near to cluster3>>
+12, 11, 14

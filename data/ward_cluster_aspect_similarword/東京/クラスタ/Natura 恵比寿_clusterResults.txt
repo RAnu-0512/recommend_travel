@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Natura 恵比寿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+代官山, 恵比寿
+cluster1:(1)
+マッサージ
+cluster2:(1)
+リラックスくうかん
+
+howmany entities : 4
+howmany clusters : 3
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 3
+deleted 0entities.

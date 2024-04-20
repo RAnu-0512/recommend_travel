@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京メトロ南北線 永田町駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駅, 他線, 永田町駅, 空港み
+cluster1:(11)
+経由, 歩道, 距離, 地下道, 南北線, ホームドア, 地上, 半蔵門線, 乗り換え, 時間, ホーム
+cluster2:(1)
+うちの子
+cluster3:(1)
+地下深く
+cluster4:(1)
+赤坂見附駅
+
+howmany entities : 18
+howmany clusters : 5
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 5
+deleted 0entities.

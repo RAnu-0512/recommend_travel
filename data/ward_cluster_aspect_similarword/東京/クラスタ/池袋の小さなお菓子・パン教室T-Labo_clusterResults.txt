@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:池袋の小さなお菓子・パン教室T-Labo>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+菓子, パン
+cluster1:(3)
+子供, 娘, 先生
+cluster2:(6)
+ケーキ, 段取り, レッスン, ほか, 説明, カップケーキ
+cluster3:(1)
+料理
+cluster4:(1)
+上手
+cluster5:(1)
+機会
+cluster6:(1)
+幼稚園年長
+
+howmany entities : 15
+howmany clusters : 7
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 7
+deleted 0entities.

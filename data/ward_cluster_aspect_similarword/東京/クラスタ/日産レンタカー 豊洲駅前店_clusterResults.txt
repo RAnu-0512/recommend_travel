@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日産レンタカー 豊洲駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+豊洲キュービックガーデン, 豊洲, レンタカー
+cluster1:(2)
+東京都, 江東区
+
+howmany entities : 5
+howmany clusters : 2
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 2
+deleted 0entities.

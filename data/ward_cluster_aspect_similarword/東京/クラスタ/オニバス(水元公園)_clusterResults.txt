@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オニバス(水元公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+水面, 突起
+cluster1:(2)
+幻, 都
+cluster2:(6)
+天然記念物, 夏, 時期, オニバス, 水元公園, スイレン
+cluster3:(6)
+ハス, 自然, 植物, 花, 葉, お花
+cluster4:(1)
+宝庫
+cluster5:(1)
+大きさ
+cluster6:(1)
+絶滅危惧
+
+howmany entities : 19
+howmany clusters : 7
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 7
+deleted 0entities.

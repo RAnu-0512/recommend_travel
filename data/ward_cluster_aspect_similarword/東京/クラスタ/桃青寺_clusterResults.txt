@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:桃青寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+墓, 浅草線, ところ, 都営, 地下鉄, 俳人, 徒歩
+cluster1:(2)
+江戸時代, 一般参詣
+cluster2:(1)
+本所吾妻橋駅
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

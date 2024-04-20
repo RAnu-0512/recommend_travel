@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:梅若公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+榎本像, 榎本武揚
+cluster1:(7)
+中, 中庭, 政府, 墨堤通り, 団地, 銅像, 梅若公園
+cluster2:(1)
+鐘ヶ淵駅
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

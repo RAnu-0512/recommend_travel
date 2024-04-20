@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタレンタリース多摩 京王堀之内駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+京王電鉄, 京王堀之内駅
+cluster1:(7)
+多摩ニュータウン, 立地, トヨタ, 店, 建物, レンタカー, 店舗
+cluster2:(2)
+営業所, 駐車場
+
+howmany entities : 11
+howmany clusters : 3
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 3
+deleted 0entities.

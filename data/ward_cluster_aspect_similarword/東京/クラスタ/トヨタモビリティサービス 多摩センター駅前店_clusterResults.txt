@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタモビリティサービス 多摩センター駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+多摩センター, 多摩ニュータウン
+cluster1:(4)
+トヨタ, 店, レンタカー, バリエーション
+cluster2:(2)
+東口, 改札
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堀切菖蒲園駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+普通電車, 電車, 私鉄
+cluster1:(6)
+駅, ローカル駅, 距離, オススメ, 注意, 京成電鉄
+cluster2:(1)
+各駅停車
+cluster3:(1)
+堀切菖蒲園
+
+howmany entities : 11
+howmany clusters : 4
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:世田谷パブリックシアター--------------------
+top3 entities near to cluster0>>
+シアター, レストラン, 井の頭線
+top3 entities near to cluster2>>
+建物, 景色, 外観
+top3 entities near to cluster3>>
+空間, 演出, 雰囲気
+top3 entities near to cluster4>>
+劇, 時代, 末期
+top3 entities near to cluster5>>
+舞台観, 映画観, 映画, 舞台
+top3 entities near to cluster6>>
+館長, 館員, 所長
+top3 entities near to cluster8>>
+パン屋, パン, 食パン
+top3 entities near to cluster9>>
+円筒状, 円筒
+top3 entities near to cluster10>>
+写, も写, メゲット
+top3 entities near to cluster11>>
+劇場, 客席, 座席

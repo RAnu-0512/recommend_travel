@@ -1,0 +1,9 @@
+--------------------similar_words:深大にぎわいの里 調布卸売センター--------------------
+top3 entities near to cluster0>>
+野菜, 食材, 果物
+top3 entities near to cluster1>>
+近所, 深大寺, 地元
+top3 entities near to cluster2>>
+直売, 産地, 農産物
+top3 entities near to cluster3>>
+卸売, 深い, 里

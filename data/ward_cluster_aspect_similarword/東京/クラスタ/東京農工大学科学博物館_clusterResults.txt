@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京農工大学科学博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンパス, 東京農工大学
+cluster1:(1)
+博物館
+cluster2:(1)
+もの
+cluster3:(1)
+展示
+cluster4:(1)
+科学博物館
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

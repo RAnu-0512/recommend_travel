@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野村柿園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+柿もぎ, 柿
+cluster1:(7)
+家, 庭, 都, アクセス, 体験, もの, 柿の木
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

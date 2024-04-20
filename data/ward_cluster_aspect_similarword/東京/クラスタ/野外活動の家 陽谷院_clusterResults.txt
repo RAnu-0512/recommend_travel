@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:野外活動の家 陽谷院>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+林間学校, 方, こと, 団体, 自然, 大人数
+cluster1:(2)
+陽谷院, 秋川渓谷
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 2
+deleted 0entities.

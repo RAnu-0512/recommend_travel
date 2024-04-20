@@ -1,0 +1,11 @@
+--------------------similar_words:馬水槽(みんなの泉)--------------------
+top3 entities near to cluster0>>
+水槽
+top3 entities near to cluster1>>
+史跡, 文化財, 指定
+top3 entities near to cluster3>>
+駅馬, 駅, 人間
+top3 entities near to cluster4>>
+上部, 大正, 下部
+top3 entities near to cluster5>>
+広場, 東口, 駅前

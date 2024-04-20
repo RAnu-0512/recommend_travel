@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:都立狭山公園second>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駐車場, 信号機
+cluster1:(2)
+狭山公園, 西武多摩湖線
+cluster2:(5)
+公園, 車, 西武遊園地駅, 道路, 遊具
+cluster3:(5)
+多摩湖, 交差点, 左, 雑木林, 入り口
+cluster4:(2)
+敷地, 外
+cluster5:(1)
+階段
+cluster6:(1)
+方法
+cluster7:(1)
+西口
+cluster8:(1)
+ひとつめ
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:船木山の滝遊歩道>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+船木山, 船木山の滝遊歩道
+cluster1:(4)
+遊歩道, 観光スポット, 東京都, 小笠原村
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 2
+deleted 0entities.

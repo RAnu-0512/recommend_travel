@@ -1,0 +1,7 @@
+--------------------similar_words:表参道GROUND--------------------
+top3 entities near to cluster0>>
+駅, 距離, 脇道
+top3 entities near to cluster1>>
+ライブハウス, 会場, ライブ
+top3 entities near to cluster2>>
+舞台, 芝居, 客席

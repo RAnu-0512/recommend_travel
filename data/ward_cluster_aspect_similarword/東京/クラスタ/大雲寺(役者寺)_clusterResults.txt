@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大雲寺(役者寺)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+歌舞伎役者, 役者
+cluster1:(2)
+役者寺, 寺
+cluster2:(11)
+墓, 三門, 名取り, こと, 参拝, 寺地, 問題, 浅草, セキュリティ, 江戸時代, 地
+cluster3:(2)
+本所押上, 徳川秀忠
+
+howmany entities : 17
+howmany clusters : 4
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東覚寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+光景, 伝説
+cluster1:(9)
+途中, 場所, 多く, ところ, 目印, 中, 部分, ぺたぺた, もの
+cluster2:(1)
+紙
+cluster3:(6)
+寺, 坂道, 塔, 体, 治癒, 病気
+cluster4:(3)
+寺務所, 田端駅, 東覚寺
+cluster5:(6)
+仁王, 仁王像, 赤紙, 赤紙仁王, 福禄寿, 赤紙仁王像
+
+howmany entities : 27
+howmany clusters : 6
+howmany entities (more than1entities) : 27
+howmany clusters (more than1entities) : 6
+deleted 0entities.

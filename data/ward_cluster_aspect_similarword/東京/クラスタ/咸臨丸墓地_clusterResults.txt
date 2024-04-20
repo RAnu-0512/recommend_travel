@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:咸臨丸墓地>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+中腹, 墓地, 付近
+cluster1:(2)
+方, 方々
+cluster2:(3)
+咸臨丸, 小笠原, 日本
+cluster3:(1)
+宿
+cluster4:(1)
+開拓
+cluster5:(1)
+奥村
+cluster6:(1)
+旭山
+cluster7:(1)
+冥福
+cluster8:(1)
+国土保全
+
+howmany entities : 14
+howmany clusters : 9
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 9
+deleted 0entities.

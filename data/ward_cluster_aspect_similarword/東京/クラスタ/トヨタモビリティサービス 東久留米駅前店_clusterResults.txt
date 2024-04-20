@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トヨタモビリティサービス 東久留米駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+方, スタッフ
+cluster1:(1)
+こと
+
+howmany entities : 3
+howmany clusters : 2
+howmany entities (more than1entities) : 3
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:下野谷遺跡公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+駅, 東伏見駅, 南口
+cluster1:(5)
+公園, 外, 方法, 西武新宿線, 西武鉄道
+cluster2:(1)
+下野谷遺跡公園
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

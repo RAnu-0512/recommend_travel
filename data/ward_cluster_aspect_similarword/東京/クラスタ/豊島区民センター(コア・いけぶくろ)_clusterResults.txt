@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:豊島区民センター(コア・いけぶくろ)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+池袋公園, 豊島区民センター, 中池袋公園
+cluster1:(2)
+食料品, 生活用品
+cluster2:(3)
+施設, 催事, ビル
+cluster3:(5)
+バーゲン, セール, 中, 池袋, 前
+cluster4:(1)
+会議室
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

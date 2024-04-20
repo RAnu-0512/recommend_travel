@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アトリエシリカ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+小皿, 皿, 茶碗, 器
+cluster1:(23)
+茶色, 材料, 足つき, 初心者, カップ, アトリエ, 子連れ, 箸置き, 仕上がり, ストレス, 色付け, ところ, 粘土, マグカップ, 筆, コーヒーカップ, スカイツリー, 持ち込み, 取り寄せ, 雰囲気, 未経験, ゴブレット, 色
+cluster2:(15)
+作品, 絵, 内容, 他, 話, 形, 横, ほう, 時間, 方, こと, 友人, 部分, 目, もの
+cluster3:(2)
+都合, 機会
+cluster4:(7)
+生徒, 動物, 料金, 客, 常連, 先生, 教室
+cluster5:(4)
+手捻り, 染付, 作品展示販売コーナー, 作りたいもの
+
+howmany entities : 55
+howmany clusters : 6
+howmany entities (more than1entities) : 55
+howmany clusters (more than1entities) : 6
+deleted 0entities.

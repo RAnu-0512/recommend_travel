@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイアログ・イン・ザ・ダーク 東京 外苑前会場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+思います.g, た.l
+cluster1:(10)
+人, ディナー, あり量, 食事, スタッフ, ボリューム, 人達, イベント, 事, 感覚
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

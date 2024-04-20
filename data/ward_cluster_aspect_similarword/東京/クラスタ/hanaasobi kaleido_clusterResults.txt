@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:hanaasobi kaleido>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+花, 蓮
+cluster1:(3)
+体験, 作成, 作業
+cluster2:(5)
+作品, 家, 話, 時間, 先生
+cluster3:(10)
+ワークショップ, ハーバリウム, プリザーブドフラワー, 組み合わせ, 最後, 仕上がり, 感じ, 母, デザイン, 色
+cluster4:(1)
+手先
+
+howmany entities : 21
+howmany clusters : 5
+howmany entities (more than1entities) : 21
+howmany clusters (more than1entities) : 5
+deleted 0entities.

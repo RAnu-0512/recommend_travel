@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島全島観光ハイヤー(長岡交通)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ところ, タクシー
+cluster1:(1)
+注文
+cluster2:(1)
+旅行
+cluster3:(1)
+大島
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

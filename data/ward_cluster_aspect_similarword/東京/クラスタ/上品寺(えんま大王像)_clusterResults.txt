@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:上品寺(えんま大王像)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+閻魔様, 大王像, 閻魔, 閻魔大王坐像
+cluster1:(5)
+上品寺, 価値, 迫力, 高さ, 葛飾区
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

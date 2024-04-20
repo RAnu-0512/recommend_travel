@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:GrandBlueお台場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ホテル, 台場
+cluster1:(2)
+東京都, 港区
+
+howmany entities : 4
+howmany clusters : 2
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 2
+deleted 0entities.

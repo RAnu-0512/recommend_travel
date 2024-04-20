@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島全島観光ハイヤー(大島観光自動車)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+観光, 観光スポット, 旅行
+cluster1:(4)
+ところ, 場所, 貸し切り, 大島
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 2
+deleted 0entities.

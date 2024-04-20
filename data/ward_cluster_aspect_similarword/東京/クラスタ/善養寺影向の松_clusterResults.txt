@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:善養寺影向の松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+ところ, 境内, 善養寺, 東, 日本一, 日本, 江戸川
+cluster1:(3)
+枝, 木, 松
+cluster2:(1)
+横綱
+cluster3:(1)
+名木
+cluster4:(1)
+繁茂面積
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

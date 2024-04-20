@@ -1,0 +1,34 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:岡倉天心記念公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+入口, 跡地, 奥, 付近, 周辺, 辺り
+cluster1:(4)
+所, 場所, 目的, もの
+cluster2:(2)
+途中, 中
+cluster3:(2)
+トイレ, シート
+cluster4:(3)
+六角形, 記念碑, 雰囲気
+cluster5:(1)
+日本
+cluster6:(1)
+歴史
+cluster7:(1)
+工事
+cluster8:(9)
+掃除道具, 散策, 公園, 中散策, 寺院, 寺院めぐり, 商店街, 公園入口, 園内
+cluster9:(7)
+谷中エリア, 六角堂, 堂, 谷中, 谷中小学校, 台東区, カキ氷屋
+cluster10:(3)
+前期美術院跡, 日本美術院, 伝統美術
+cluster11:(4)
+岡倉天心像, 天心像, 岡倉天心, 天心坐像
+cluster12:(7)
+岡倉天心の記念公園, 岡倉天心史跡記念堂, 岡倉天心宅跡, 岡倉天心さんに関する記念公園, 岡倉天心記念公園, 岡倉天心宅跡を公園, 岡倉天心と言えば茨城五浦の六角堂
+
+howmany entities : 50
+howmany clusters : 13
+howmany entities (more than1entities) : 50
+howmany clusters (more than1entities) : 13
+deleted 0entities.

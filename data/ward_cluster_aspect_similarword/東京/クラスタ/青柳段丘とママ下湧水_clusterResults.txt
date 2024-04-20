@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:青柳段丘とママ下湧水>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+方, 下, 上
+cluster1:(2)
+農村風景, 国立市
+cluster2:(1)
+段丘崖
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 3
+deleted 0entities.

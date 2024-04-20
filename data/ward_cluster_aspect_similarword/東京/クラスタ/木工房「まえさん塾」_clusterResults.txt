@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:木工房「まえさん塾」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+皿づくり体験, 皿
+cluster1:(2)
+豆カンナ, ノミ
+cluster2:(4)
+こと, 方法, 機会, 感覚
+cluster3:(2)
+DIY, カンナ
+cluster4:(4)
+初心者, それぞれ, 手触り, 気持ち
+cluster5:(2)
+娘, 先生
+cluster6:(2)
+木, 板
+
+howmany entities : 18
+howmany clusters : 7
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 7
+deleted 0entities.

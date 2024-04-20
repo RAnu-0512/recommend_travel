@@ -1,0 +1,9 @@
+--------------------similar_words:木造蔵王権現立像(東京都奥多摩町)--------------------
+top3 entities near to cluster1>>
+木像, 仏像, 尊像
+top3 entities near to cluster2>>
+神社, 町, 稲荷
+top3 entities near to cluster3>>
+尚, 仏像, かつ
+top3 entities near to cluster4>>
+権現, ライザワールド, 七日原

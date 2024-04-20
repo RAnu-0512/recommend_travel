@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国立市古民家(旧柳澤家住宅)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+途中, 歴史, 勉強, 天神, コース, 座敷
+cluster1:(2)
+国立市, 谷保
+cluster2:(1)
+開館時間
+cluster3:(1)
+古民家
+cluster4:(1)
+国立郷土文化館
+
+howmany entities : 11
+howmany clusters : 5
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 5
+deleted 0entities.

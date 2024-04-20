@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:清水苑キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+キャンプ場, 道具
+cluster1:(7)
+レンタル, 時間, バス, ところ, バンガロー, 自然, バーベキュー
+cluster2:(1)
+河原
+cluster3:(4)
+武蔵五日市線, 檜原村, 武蔵五日市駅, 清水苑キャンプ場
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

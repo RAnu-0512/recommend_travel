@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:南京浜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+海底, 海中
+cluster1:(4)
+サンゴ, 遊歩道, 昼寝, 場所
+cluster2:(1)
+岩陰
+cluster3:(1)
+御幸之浜
+
+howmany entities : 8
+howmany clusters : 4
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 4
+deleted 0entities.

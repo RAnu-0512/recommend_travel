@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:お玉ケ池跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+千代田区, 江戸時代, 岩本町
+cluster1:(15)
+神社, 初め, 場所, 池, 西側, ほとり, 標柱, 名前, ビル, 身, 説明書き, 茶店, こと, 玉, 女性
+cluster2:(4)
+不忍池, 繁栄お玉稲荷大明神, 水天宮通り, お玉が池跡
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

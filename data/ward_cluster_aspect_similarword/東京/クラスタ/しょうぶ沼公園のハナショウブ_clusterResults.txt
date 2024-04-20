@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:しょうぶ沼公園のハナショウブ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+入場, 訪問
+cluster1:(9)
+花菖蒲, 季節, 公園, 駅, メトロ, 時期, 見ごたえ, 満開, 花
+cluster2:(2)
+苗, 菖蒲
+cluster3:(1)
+北綾瀬駅
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

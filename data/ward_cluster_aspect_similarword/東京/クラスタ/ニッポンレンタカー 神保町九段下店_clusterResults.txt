@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 神保町九段下店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ショップ, レンタカー
+cluster1:(1)
+移動
+cluster2:(1)
+価格
+cluster3:(1)
+観光
+cluster4:(1)
+数人
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

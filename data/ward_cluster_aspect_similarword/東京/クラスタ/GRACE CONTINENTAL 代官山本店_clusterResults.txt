@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:GRACE CONTINENTAL 代官山本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+店, 洋服
+cluster1:(6)
+デザイン, 所, 他, ブランド, グレースコンチネンタル, 女の子
+cluster2:(1)
+代官山駅
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

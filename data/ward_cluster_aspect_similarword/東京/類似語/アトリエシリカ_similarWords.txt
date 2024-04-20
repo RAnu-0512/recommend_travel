@@ -1,0 +1,11 @@
+--------------------similar_words:アトリエシリカ--------------------
+top3 entities near to cluster0>>
+皿, 小皿, 茶碗
+top3 entities near to cluster1>>
+粘土, 色合い
+top3 entities near to cluster3>>
+機会, 都合, 口実
+top3 entities near to cluster4>>
+生徒, 教室, 先生
+top3 entities near to cluster5>>
+展示, 実演

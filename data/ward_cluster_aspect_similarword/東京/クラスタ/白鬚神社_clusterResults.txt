@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:白鬚神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+太陽, ロケーション, 神社, 時代, 奥
+cluster1:(2)
+徳川綱吉, 江戸幕府
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 2
+deleted 0entities.

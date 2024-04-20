@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:北港忠魂碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+北港忠魂碑, 北港
+cluster1:(5)
+遊歩道, 忠魂碑, ロース石, 駐車場, 入口
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 2
+deleted 0entities.

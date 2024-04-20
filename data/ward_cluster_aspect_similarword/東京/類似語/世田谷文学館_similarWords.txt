@@ -1,0 +1,25 @@
+--------------------similar_words:世田谷文学館--------------------
+top3 entities near to cluster0>>
+作家, 作品, 漫画
+top3 entities near to cluster2>>
+雰囲気, テイスト
+top3 entities near to cluster3>>
+年齢層, 年齢, 年令
+top3 entities near to cluster4>>
+文化, 視点, 空間
+top3 entities near to cluster5>>
+家族, 友達, 子供
+top3 entities near to cluster6>>
+時間, 料金, 駅
+top3 entities near to cluster7>>
+庭園, 公園, 建物
+top3 entities near to cluster8>>
+文学, 児童, 館
+top3 entities near to cluster9>>
+展覧会, 展示会, 展覧, 展示
+top3 entities near to cluster10>>
+展示, 展覧
+top3 entities near to cluster11>>
+展示, 収蔵, 出展
+top3 entities near to cluster12>>
+花展, 花, 賢治

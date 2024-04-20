@@ -1,0 +1,51 @@
+--------------------similar_words:カナル カフェ--------------------
+top3 entities near to cluster0>>
+川沿い, 川線, 川
+top3 entities near to cluster1>>
+桜, 外堀, 堀
+top3 entities near to cluster3>>
+冬, 夏, 春
+top3 entities near to cluster4>>
+天気, 花見, 週末
+top3 entities near to cluster5>>
+q, r, 、\
+top3 entities near to cluster6>>
+カフェ, 喫茶店, イタリアン
+top3 entities near to cluster7>>
+テラス, デッキ, ボート
+top3 entities near to cluster8>>
+オススメ, おすすめ, お薦め
+top3 entities near to cluster9>>
+レストラン, ランチ, イタリアン
+top3 entities near to cluster10>>
+貸し切り, カップル, 貸切
+top3 entities near to cluster11>>
+雰囲気, フインキ, ムード
+top3 entities near to cluster12>>
+結婚式, デート, 披露宴
+top3 entities near to cluster13>>
+ランチ, パスタ, ディナー
+top3 entities near to cluster14>>
+ケーキ, デザート, コーヒー
+top3 entities near to cluster15>>
+充実, 満足, 素晴らしい
+top3 entities near to cluster18>>
+利用, 中心, 使用
+top3 entities near to cluster19>>
+撮影, 撮る, 撮っ
+top3 entities near to cluster20>>
+席, 座席, 立ち見
+top3 entities near to cluster21>>
+匂い, 香り
+top3 entities near to cluster22>>
+店内, 店舗
+top3 entities near to cluster23>>
+茶外, 茶, そば
+top3 entities near to cluster24>>
+女性, 男性, 雑誌
+top3 entities near to cluster25>>
+料理, 食事, ピザ
+top3 entities near to cluster26>>
+外国人, 外国, 外人
+top3 entities near to cluster27>>
+景色, 絶景, 景観

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蟲塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+伊勢 長島, 増山雪斎
+cluster1:(6)
+写生, 虫塚, 文政四年, 藩主, 農業, 遺志
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 2
+deleted 0entities.

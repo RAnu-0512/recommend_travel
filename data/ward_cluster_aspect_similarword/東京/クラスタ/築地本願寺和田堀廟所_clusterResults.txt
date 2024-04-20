@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:築地本願寺和田堀廟所>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+肖像画, 樋口一葉
+cluster1:(2)
+墓, 墓所
+cluster2:(2)
+人, 関東大震災
+cluster3:(2)
+方, 方々
+cluster4:(2)
+地図, 札
+cluster5:(1)
+案内所
+cluster6:(1)
+築地本願
+
+howmany entities : 12
+howmany clusters : 7
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 7
+deleted 0entities.

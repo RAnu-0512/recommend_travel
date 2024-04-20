@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:多摩川堤防沿いの桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+桜, 満開
+cluster1:(4)
+写真, 多摩川, 桜並木, 自転車
+cluster2:(2)
+近辺, 方面
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,7 @@
+--------------------similar_words:東京メトロ半蔵門線 水天宮前駅--------------------
+top3 entities near to cluster0>>
+駅, 乗換, 駅前
+top3 entities near to cluster1>>
+駅街, 商店街, 駅, 商店
+top3 entities near to cluster2>>
+水天, 宮, 宇都

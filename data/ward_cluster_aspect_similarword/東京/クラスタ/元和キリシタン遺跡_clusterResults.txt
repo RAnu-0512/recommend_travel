@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:元和キリシタン遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+住友不動産, 将軍, 信者, キリシタン, キリスト教, ビル, こと, 階段
+cluster1:(3)
+裏手, 面影, 跡
+cluster2:(3)
+石碑, 遺跡, 丘
+cluster3:(1)
+石垣
+cluster4:(1)
+刑場
+cluster5:(1)
+殉教遺跡
+cluster6:(1)
+東京都
+cluster7:(1)
+徳川家光
+cluster8:(1)
+三田ツインビル西館
+
+howmany entities : 20
+howmany clusters : 9
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 9
+deleted 0entities.

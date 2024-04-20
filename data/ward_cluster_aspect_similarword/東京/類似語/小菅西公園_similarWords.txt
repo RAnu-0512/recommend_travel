@@ -1,0 +1,11 @@
+--------------------similar_words:小菅西公園--------------------
+top3 entities near to cluster0>>
+最寄り駅, フットサルコート, 駅
+top3 entities near to cluster1>>
+施設, 設備, 敷地
+top3 entities near to cluster2>>
+公園, 緑地, 遊歩道
+top3 entities near to cluster3>>
+階段, 石段, エスカレーター
+top3 entities near to cluster6>>
+公共, 施設, 福祉

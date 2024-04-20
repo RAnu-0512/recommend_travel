@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:SAVOY CLOTHING>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+た.d, た.s
+cluster1:(6)
+ロック系, 店, 食事, ボリューム, ロカビリー, 料理
+
+howmany entities : 8
+howmany clusters : 2
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 2
+deleted 0entities.

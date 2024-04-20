@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スイレン(水元公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+時期, 目的
+cluster1:(5)
+公園, スイレン, 遊歩道, 近く, 水元公園
+cluster2:(4)
+睡蓮, 池, 植物, 花
+cluster3:(1)
+水連
+cluster4:(1)
+見ごろ
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

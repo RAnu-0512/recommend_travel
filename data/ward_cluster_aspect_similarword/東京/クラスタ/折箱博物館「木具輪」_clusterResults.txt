@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:折箱博物館「木具輪」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+人, 折箱, 小さな博物館, 木箱, 北, 博物館, 地下鉄, 横
+cluster1:(4)
+墨田区, 森下駅, 清澄通り, 都営
+cluster2:(1)
+墨田区立川1丁目
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

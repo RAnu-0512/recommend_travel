@@ -1,0 +1,5 @@
+--------------------similar_words:地蔵菩薩像(長坂橋の笠地蔵)--------------------
+top3 entities near to cluster0>>
+駅地, 駅前地, 駅, 駅前
+top3 entities near to cluster1>>
+地蔵, 菩薩, 石仏

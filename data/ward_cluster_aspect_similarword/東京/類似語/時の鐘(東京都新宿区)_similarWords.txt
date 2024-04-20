@@ -1,0 +1,11 @@
+--------------------similar_words:時の鐘(東京都新宿区)--------------------
+top3 entities near to cluster1>>
+可能性, 可能
+top3 entities near to cluster2>>
+風情, 雰囲気, 風景
+top3 entities near to cluster3>>
+寺, 本堂, 山門
+top3 entities near to cluster4>>
+高層, ビル, ノッポビル
+top3 entities near to cluster5>>
+ビル, 高層, 建物

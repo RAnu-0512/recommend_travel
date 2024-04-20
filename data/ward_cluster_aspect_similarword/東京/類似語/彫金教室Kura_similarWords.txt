@@ -1,0 +1,19 @@
+--------------------similar_words:彫金教室Kura--------------------
+top3 entities near to cluster0>>
+工程, 作業, 行程
+top3 entities near to cluster1>>
+工具, 金属, 部品
+top3 entities near to cluster2>>
+シーン, 思い出, 想い出
+top3 entities near to cluster3>>
+リング, バーナー, カラー
+top3 entities near to cluster4>>
+風合い, 質感, 色合い
+top3 entities near to cluster5>>
+妻, 夫, 奥さん
+top3 entities near to cluster6>>
+先生, センセ, センセー
+top3 entities near to cluster8>>
+作成, 作業, 刻印
+top3 entities near to cluster9>>
+指輪, リング

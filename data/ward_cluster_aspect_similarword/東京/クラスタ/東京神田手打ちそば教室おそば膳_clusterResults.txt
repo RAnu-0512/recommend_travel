@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京神田手打ちそば教室おそば膳>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(7)
+作法, 師匠, 指導, 勉強, 先生, 知識, 経験
+cluster1:(6)
+食事, 旅行, 夫婦, 酒, 友達, 友人
+cluster2:(8)
+干菓子, トーク, こだわり, それぞれ, つまみ, 蕎麦湯, 雰囲気, ペース
+cluster3:(3)
+他, 日本, 全て
+cluster4:(2)
+途中, 時間
+cluster5:(4)
+人, 話, 方, こと
+cluster6:(1)
+笑
+cluster7:(2)
+口, 本わさび
+cluster8:(1)
+実
+cluster9:(6)
+小ネタ, 抹茶, 茶, 菓子, 塩, 味噌
+cluster10:(9)
+食べ比べ, つくせり, 体験, 美味しさ, 添え付け, 手打ち体験, 教え方, 体験料金, 発見
+cluster11:(10)
+打ち方, できたて, そば打ち, つゆとワサビ, 絶品蕎麦, 神田明神, 蕎麦打ち, 打ちたて, 蕎麦粉, 蕎麦
+
+howmany entities : 59
+howmany clusters : 12
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 12
+deleted 0entities.

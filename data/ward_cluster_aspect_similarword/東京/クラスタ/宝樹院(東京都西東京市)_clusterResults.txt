@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:宝樹院(東京都西東京市)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 近所
+cluster1:(1)
+散歩
+
+howmany entities : 3
+howmany clusters : 2
+howmany entities (more than1entities) : 3
+howmany clusters (more than1entities) : 2
+deleted 0entities.

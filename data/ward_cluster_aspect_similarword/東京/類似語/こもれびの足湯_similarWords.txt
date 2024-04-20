@@ -1,0 +1,15 @@
+--------------------similar_words:こもれびの足湯--------------------
+top3 entities near to cluster0>>
+焼却, ごみ, ゴミ
+top3 entities near to cluster1>>
+定休, 営業, 木曜
+top3 entities near to cluster2>>
+足, 脚, 手足
+top3 entities near to cluster5>>
+施設, 団体, ゴミ
+top3 entities near to cluster6>>
+憩い, 集える, 憩う
+top3 entities near to cluster7>>
+お湯, 湯, 湯船
+top3 entities near to cluster8>>
+ふく, はぎ, はぎの

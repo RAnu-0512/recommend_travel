@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アクアデルレイ大島>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+方, 初心者, 体験, マンツーマン, ダイビング, 魚, ゴーグル, シュノーケリング
+cluster1:(3)
+準備, 確認, 世話
+cluster2:(1)
+大島
+cluster3:(1)
+恐怖心
+
+howmany entities : 13
+howmany clusters : 4
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 4
+deleted 0entities.

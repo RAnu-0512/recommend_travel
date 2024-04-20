@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:彫金教室Kura>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+作業工程, 工程
+cluster1:(2)
+金属, 工具
+cluster2:(2)
+思い出, シーン
+cluster3:(4)
+バーナー, シルバー, サンプル, リング
+cluster4:(1)
+風合い
+cluster5:(1)
+妻
+cluster6:(1)
+先生
+cluster7:(6)
+値段, 他, 心配, 方, もの, 経験
+cluster8:(3)
+作成, 刻印, 作業
+cluster9:(6)
+リング作り体験, 指輪作り, ペアリング作り, 指輪, 板状, 結婚記念日
+
+howmany entities : 28
+howmany clusters : 10
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 10
+deleted 0entities.

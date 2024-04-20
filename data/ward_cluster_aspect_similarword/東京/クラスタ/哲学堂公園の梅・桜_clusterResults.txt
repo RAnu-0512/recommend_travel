@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:哲学堂公園の梅・桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+モモ, ツツジ, 桜, サクラ, 樹木, ウメ, 木, 花見, 花
+cluster1:(2)
+東京都, 中野区
+cluster2:(1)
+哲学堂公園
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

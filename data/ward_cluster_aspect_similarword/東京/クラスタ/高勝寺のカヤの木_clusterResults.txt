@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:高勝寺のカヤの木>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+若葉台駅, 稲城駅
+cluster1:(3)
+木, カヤ, 境内
+cluster2:(1)
+線路沿い
+cluster3:(1)
+高勝寺
+cluster4:(1)
+京王相模原線
+
+howmany entities : 8
+howmany clusters : 5
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 5
+deleted 0entities.

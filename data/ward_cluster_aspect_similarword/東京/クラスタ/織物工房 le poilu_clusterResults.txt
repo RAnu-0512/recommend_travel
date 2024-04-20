@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:織物工房 le poilu>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+糸, 経糸
+cluster1:(2)
+店, 店内
+cluster2:(2)
+洋服, 雑貨
+cluster3:(1)
+千駄木駅
+cluster4:(12)
+つむぎ, 最後, マフラー, 憧れ, 上手, 長時間, ミニマット, 手織りマフラー, 羊毛, 体験, 時間, 先生
+
+howmany entities : 19
+howmany clusters : 5
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 5
+deleted 0entities.

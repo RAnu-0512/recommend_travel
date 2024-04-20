@@ -1,0 +1,7 @@
+--------------------similar_words:閘門橋--------------------
+top3 entities near to cluster0>>
+アーチ橋, 鉄橋, アーチ
+top3 entities near to cluster1>>
+時代, 明治, 当時
+top3 entities near to cluster2>>
+年, 11, 12

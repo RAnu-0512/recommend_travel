@@ -1,0 +1,11 @@
+--------------------similar_words:京成高砂駅--------------------
+top3 entities near to cluster0>>
+京成高砂, 京成電鉄, 京成
+top3 entities near to cluster2>>
+ダイヤ, ダイア, ダイヤモンド
+top3 entities near to cluster3>>
+人達, 大勢
+top3 entities near to cluster4>>
+電車, 車内, 列車
+top3 entities near to cluster6>>
+特急, 駅, 駅前

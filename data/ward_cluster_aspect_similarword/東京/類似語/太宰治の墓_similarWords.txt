@@ -1,0 +1,9 @@
+--------------------similar_words:太宰治の墓--------------------
+top3 entities near to cluster0>>
+太宰, 治, 施門
+top3 entities near to cluster1>>
+運賃, 乗車, バス
+top3 entities near to cluster2>>
+墓地, 墓所
+top3 entities near to cluster3>>
+芸文, バス停, 駅前

@@ -1,0 +1,9 @@
+--------------------similar_words:大島全島観光ハイヤー(倉田交通)--------------------
+top3 entities near to cluster0>>
+移動, 乗り込む, 向かう
+top3 entities near to cluster1>>
+周遊, 宿泊, 旅
+top3 entities near to cluster2>>
+費用, 経費
+top3 entities near to cluster4>>
+運転手, 運転, 同乗

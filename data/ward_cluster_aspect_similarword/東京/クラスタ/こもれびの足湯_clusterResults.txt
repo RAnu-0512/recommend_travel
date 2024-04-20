@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:こもれびの足湯>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+ごみ焼却炉, ゴミ焼却施設, ゴミ焼却所, ゴミ焼却場
+cluster1:(2)
+営業時間, 木曜定休
+cluster2:(6)
+身体, 全身, 顔, 足, 脚, 足先
+cluster3:(2)
+上水, 玉川
+cluster4:(16)
+途中, 場所, ストラップ, つもり, 隣, 人, 玉川上水, 気, 近所, ドングリ, 晩秋, 時期, ウォーキング, 子, 方, 友人
+cluster5:(3)
+団体, 施設, ゴミ
+cluster6:(1)
+憩い
+cluster7:(8)
+お湯, 熱さ, 温度, 足湯, 熱, 湯船, 入浴料, 湯
+cluster8:(1)
+ふくらはぎ
+
+howmany entities : 43
+howmany clusters : 9
+howmany entities (more than1entities) : 43
+howmany clusters (more than1entities) : 9
+deleted 0entities.

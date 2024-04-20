@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:つづら岩>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+岩, 壁, 岩壁, ツヅラ岩
+cluster1:(5)
+ロッククライミング, ところ, ハイキング, 登山, 名前
+
+howmany entities : 9
+howmany clusters : 2
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 2
+deleted 0entities.

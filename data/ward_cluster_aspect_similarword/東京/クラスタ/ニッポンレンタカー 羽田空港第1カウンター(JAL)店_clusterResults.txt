@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 羽田空港第1カウンター(JAL)店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+羽田空港, ところ, 悪天候, ニッポンレンタカー, ターミナル
+cluster1:(2)
+空港, 飛行機移動
+cluster2:(1)
+専用バス
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

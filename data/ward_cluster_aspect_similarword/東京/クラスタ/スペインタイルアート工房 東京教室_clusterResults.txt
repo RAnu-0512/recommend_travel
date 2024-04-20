@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スペインタイルアート工房 東京教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(16)
+意味, 沢山, 店, 子ども, 別コメント, 感じ, スペインタイル, 目玉, 体験, グラデーション, 時間, 写真, 先生, 添付, 教室, 辺り
+cluster1:(2)
+粉, 密
+cluster2:(12)
+図柄, 赤系統, 表札, 絵心, 見本, 系統, 絵付け, 赤, 絵柄, 配色, 淡い色, 色
+
+howmany entities : 30
+howmany clusters : 3
+howmany entities (more than1entities) : 30
+howmany clusters (more than1entities) : 3
+deleted 0entities.

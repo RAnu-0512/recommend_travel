@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:臼杵山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+檜原村, 戸倉三山
+cluster1:(12)
+人, バス, 天気, あきる野市, 山, 難易度, 神社, 山頂, 登山, 境, もの, 蚕
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

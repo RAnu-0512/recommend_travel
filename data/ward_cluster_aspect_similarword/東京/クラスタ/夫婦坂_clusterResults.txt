@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:夫婦坂>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京よみうりカントリークラブ, 南
+cluster1:(3)
+公園, 階段, 敷地
+cluster2:(1)
+平尾夫婦坂記念公園
+
+howmany entities : 6
+howmany clusters : 3
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 3
+deleted 0entities.

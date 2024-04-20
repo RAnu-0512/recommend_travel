@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中目黒しぜんとなかよし公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中目黒小学校, 区役所
+cluster1:(1)
+公園
+cluster2:(1)
+右
+cluster3:(1)
+山手通り
+cluster4:(1)
+───O
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:わんダフルネイチャーヴィレッジ 「あじさい園」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+あじさい園, 園, 入園口
+cluster1:(2)
+東京サマーランド, サマーランド
+cluster2:(6)
+息, 山, 雪山, 山道, 坂, 起伏
+cluster3:(9)
+右手, 種類, 近く, 時期, 周り, 前, 敷地, 写真, 目
+cluster4:(3)
+客, 歩道, 沿道
+cluster5:(17)
+紫陽花, 雨, アジサイ, アナベル, 紫, 花, ピンクアナベル, それぞれ, 真っ白, ピンク, 群生, アスファルト, 水色, あじさい, お花, 雨粒, 白
+cluster6:(1)
+美しさ
+cluster7:(1)
+圏央道あきる野インター
+
+howmany entities : 42
+howmany clusters : 8
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 8
+deleted 0entities.

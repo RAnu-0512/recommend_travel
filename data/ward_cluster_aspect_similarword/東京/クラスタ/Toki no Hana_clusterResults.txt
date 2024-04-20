@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Toki no Hana>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+方, 作品, プレゼント, こと, プリザーブドフラワー, レッスン, 先生, 相手
+cluster1:(2)
+体験, 作り
+cluster2:(2)
+個人宅, 仏花
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

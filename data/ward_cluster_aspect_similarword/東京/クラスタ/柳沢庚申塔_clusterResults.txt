@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:柳沢庚申塔>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+西武柳沢駅, 柳沢
+cluster1:(3)
+庚申塔, 富士街道, 青梅街道
+
+howmany entities : 5
+howmany clusters : 2
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,15 @@
+--------------------similar_words:株式会社井上食品--------------------
+top3 entities near to cluster0>>
+食品, 飲料, 食材
+top3 entities near to cluster1>>
+土産, おみやげ, みやげ
+top3 entities near to cluster2>>
+刺身, 刺し身, 煮付け
+top3 entities near to cluster3>>
+機会, チャンス, 好機
+top3 entities near to cluster4>>
+製法, 原料, 蒸練
+top3 entities near to cluster5>>
+トロ, ランナンバン, スカ
+top3 entities near to cluster6>>
+井上, 食品, 佐藤

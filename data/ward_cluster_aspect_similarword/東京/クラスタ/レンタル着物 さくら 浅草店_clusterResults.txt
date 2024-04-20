@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:レンタル着物 さくら 浅草店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(9)
+写真, 方, 出迎え, 気, サービス, ところ, 着付け, 次回, 思い出
+cluster1:(3)
+両親, 田舎, 店員
+cluster2:(3)
+着物選び, お勧めスポット, 着物
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

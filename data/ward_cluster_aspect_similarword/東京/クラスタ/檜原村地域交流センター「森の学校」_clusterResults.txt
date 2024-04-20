@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:檜原村地域交流センター「森の学校」>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+土産, 森, 学校, おやき, 焼き, 地元, 作り方, 日替わり, 方々, 料理
+cluster1:(2)
+観光客, 特産品
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

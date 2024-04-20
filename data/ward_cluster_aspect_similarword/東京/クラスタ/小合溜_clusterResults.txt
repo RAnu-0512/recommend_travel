@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小合溜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+湖, 魚, 白鳥, 池
+cluster1:(7)
+東京, 中, 真ん中, 距離, 風景, 水元公園, まわり
+
+howmany entities : 11
+howmany clusters : 2
+howmany entities (more than1entities) : 11
+howmany clusters (more than1entities) : 2
+deleted 0entities.

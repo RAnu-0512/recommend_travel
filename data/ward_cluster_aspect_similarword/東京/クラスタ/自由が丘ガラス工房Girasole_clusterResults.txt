@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:自由が丘ガラス工房Girasole>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ガラス, 仕上げ
+cluster1:(1)
+作品
+cluster2:(1)
+先生
+cluster3:(1)
+壁掛けミラー
+cluster4:(1)
+ガラス選び
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

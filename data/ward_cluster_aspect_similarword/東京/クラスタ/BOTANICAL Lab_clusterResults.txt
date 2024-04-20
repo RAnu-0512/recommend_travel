@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:BOTANICAL Lab>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+アロマサシェ, サシェ, ハーバリウム, アドバイス, 感じ, 息抜き, ボタニカルラボ, イメージ, 作業, ワンツーマン
+cluster1:(6)
+子供, 合同, 先生, 教室, 隣, 他グループ
+cluster2:(1)
+産休
+cluster3:(1)
+完成度
+
+howmany entities : 18
+howmany clusters : 4
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 4
+deleted 0entities.

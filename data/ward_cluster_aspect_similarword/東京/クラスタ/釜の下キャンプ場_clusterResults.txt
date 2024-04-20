@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:釜の下キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+ところ, テント, スーパー
+cluster1:(2)
+前, 近く
+cluster2:(1)
+目
+cluster3:(3)
+海岸, 温泉, 釜
+cluster4:(5)
+使用料, 大浦キャンプ場, 無料キャンプ場, 下キャンプ場, キャンプ場
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

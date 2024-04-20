@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:霞ケ関公園のハナミズキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+尾崎記念会館, 尾崎幸雄, 記念館
+cluster1:(5)
+ハナミズキ, 憲政記念館, 米国, 衆議院, 桜田門
+cluster2:(2)
+こと, 横
+cluster3:(5)
+噴水, 花, 花壇, 樹, 広場
+cluster4:(3)
+前庭, 国会前庭, 時計塔
+cluster5:(1)
+国会前庭・北庭
+
+howmany entities : 19
+howmany clusters : 6
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 6
+deleted 0entities.

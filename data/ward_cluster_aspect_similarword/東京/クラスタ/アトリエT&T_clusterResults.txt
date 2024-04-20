@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アトリエT&T>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+先生, 講師
+cluster1:(12)
+デザイン, スタート, ガラス, バランス, アドバイス, ペンダント, 説明, ビーズ, バイキング, もの, 時間, 主人
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

@@ -1,0 +1,21 @@
+--------------------similar_words:東京マイスターアカデミー--------------------
+top3 entities near to cluster0>>
+土, 木, 23
+top3 entities near to cluster1>>
+印象, 土台
+top3 entities near to cluster2>>
+カップ, コーヒー, ポイント
+top3 entities near to cluster3>>
+時間, 日数, 時
+top3 entities near to cluster4>>
+難点, 欠点, 利点
+top3 entities near to cluster5>>
+記念, 周年, 祝し
+top3 entities near to cluster6>>
+濾波器, 濾波, 設機
+top3 entities near to cluster7>>
+講師, 先生, 指導
+top3 entities near to cluster8>>
+釉薬, うわ薬, 上薬
+top3 entities near to cluster9>>
+遅延, 電車, 列車

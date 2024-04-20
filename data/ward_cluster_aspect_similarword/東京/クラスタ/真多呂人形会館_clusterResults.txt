@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:真多呂人形会館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+人形, 木目込み人形, 毬, 雛
+cluster1:(7)
+初心者, 妻, 興味, 製作体験, 説明, もの, 時間
+cluster2:(1)
+伝統工芸
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

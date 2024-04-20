@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:養沢毛鉤専用釣場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+光景, 機会
+cluster1:(2)
+あきる野市, 釣り
+
+howmany entities : 4
+howmany clusters : 2
+howmany entities (more than1entities) : 4
+howmany clusters (more than1entities) : 2
+deleted 0entities.

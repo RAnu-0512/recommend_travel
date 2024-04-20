@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:CandleStudio RADIUS>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京都, 千代田区
+cluster1:(18)
+良さ, キャンドル, ジェルキャンドル, 九段南, 事, アロマオイル, サービス, 押し花, 価格, 時間, お花, デザイン, ハーブティー, 次, シリーズ, 作業, 香り, スイスイ
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

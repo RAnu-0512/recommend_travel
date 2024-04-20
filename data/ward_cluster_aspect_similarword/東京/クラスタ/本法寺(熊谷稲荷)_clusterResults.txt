@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本法寺(熊谷稲荷)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+熊谷稲荷, 田原町駅
+cluster1:(14)
+落語, 本法寺, 新作落語, 時期, 太平洋戦争, 寺, ガソリンスタンド, 場所, 境内, 南, 地下鉄, はなし塚, 白狐, 稲荷
+
+howmany entities : 16
+howmany clusters : 2
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 2
+deleted 0entities.

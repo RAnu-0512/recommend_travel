@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島公園の椿>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+椿まつり, 椿
+cluster1:(3)
+あんこ, 全部, 花
+cluster2:(4)
+こと, 時期, もの, 時間
+cluster3:(1)
+踊り
+cluster4:(2)
+資料館, 植物園
+
+howmany entities : 12
+howmany clusters : 5
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 5
+deleted 0entities.

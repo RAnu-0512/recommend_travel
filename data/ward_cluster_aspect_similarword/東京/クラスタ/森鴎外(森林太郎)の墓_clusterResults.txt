@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森鴎外(森林太郎)の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+人間森鴎, 森鴎
+cluster1:(15)
+人物, 美学, 墓地, ドイツ, 文学, 墓, 墓石, 森先生, 三鷹, 偉人, 文豪, 哲学, 外, 右側, 明治
+cluster2:(2)
+衛生学, 軍医総監
+
+howmany entities : 19
+howmany clusters : 3
+howmany entities (more than1entities) : 19
+howmany clusters (more than1entities) : 3
+deleted 0entities.

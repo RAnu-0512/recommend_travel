@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:テン・フォレスト シルバー教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+石選び, 石
+cluster1:(4)
+リング, 娘, サファイア, タンザナイト
+cluster2:(2)
+記念, 完成
+cluster3:(1)
+入籍
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

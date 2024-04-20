@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:福厳寺(東京都墨田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+寺, 池
+cluster1:(3)
+場所, 木, ほとり
+cluster2:(2)
+根, 巨木
+cluster3:(1)
+楢
+cluster4:(1)
+座禅会
+cluster5:(1)
+本所吾妻橋駅
+
+howmany entities : 10
+howmany clusters : 6
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 6
+deleted 0entities.

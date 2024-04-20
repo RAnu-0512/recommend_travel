@@ -1,0 +1,19 @@
+--------------------similar_words:都立猿江恩賜公園--------------------
+top3 entities near to cluster0>>
+公園, 遊歩道, 景色
+top3 entities near to cluster1>>
+花見, 行楽, 観桜
+top3 entities near to cluster2>>
+子供, 子ども, 親達
+top3 entities near to cluster3>>
+家族, 友人, 知人
+top3 entities near to cluster4>>
+人達, 大勢
+top3 entities near to cluster5>>
+子, 姉ちゃん, 兄ちゃん
+top3 entities near to cluster6>>
+遊具, 公園, 野球
+top3 entities near to cluster7>>
+公園, 都立, 北江古田
+top3 entities near to cluster8>>
+駅, 都営, 地下鉄

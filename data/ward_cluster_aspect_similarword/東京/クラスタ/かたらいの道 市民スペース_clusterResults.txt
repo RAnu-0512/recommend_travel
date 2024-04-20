@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かたらいの道 市民スペース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+三鷹駅, 改札
+cluster1:(2)
+アクセス方法, 者
+cluster2:(5)
+風, トイレ, ローソン, ロータリー, AED
+cluster3:(1)
+なつ
+cluster4:(1)
+点字ブロック
+cluster5:(1)
+一般駐車場
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:国際基督教大学博物館湯浅八郎記念館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+素材, 衣食住, 造形, 紙工品, 和紙, バス停, 陶磁器, 国際基督教大学博物館
+cluster1:(4)
+力, アクセス方法, 場, 多才
+cluster2:(1)
+三鷹駅
+cluster3:(1)
+湯浅八郎記念館
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:為朝神社(東京都八丈島八丈町)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+名, 島, とおり源, 地蔵堂, 木像
+cluster1:(2)
+漁民, 浜町
+cluster2:(1)
+寛政
+cluster3:(1)
+為朝神社
+
+howmany entities : 9
+howmany clusters : 4
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:grappe BANNISTER>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+セレクトショップ, バッグ
+cluster1:(1)
+商品
+cluster2:(1)
+中心
+cluster3:(1)
+世界
+cluster4:(1)
+靴
+cluster5:(1)
+選り
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

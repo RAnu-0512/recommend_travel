@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:松本弁天臥竜の松>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+松本弁天, 臥竜の松, 松本弁天臥竜
+cluster1:(6)
+区登録天然記念物, 南北, 見ごたえ, 高さ, 中心, 松
+cluster2:(2)
+枝張り, 樹齢
+cluster3:(1)
+東西16.5
+
+howmany entities : 12
+howmany clusters : 4
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 4
+deleted 0entities.

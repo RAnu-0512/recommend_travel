@@ -1,0 +1,9 @@
+--------------------similar_words:陶芸工房 土花--------------------
+top3 entities near to cluster0>>
+教室, 指導, 先生
+top3 entities near to cluster1>>
+学び, 体験, 学ぶ
+top3 entities near to cluster2>>
+友達, 時間
+top3 entities near to cluster3>>
+幼児連れ, 滞在, 幼児

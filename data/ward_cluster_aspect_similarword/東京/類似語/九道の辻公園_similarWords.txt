@@ -1,0 +1,11 @@
+--------------------similar_words:九道の辻公園--------------------
+top3 entities near to cluster0>>
+雰囲気, カンジ, 印象
+top3 entities near to cluster1>>
+ほとり, 畔, 川べり
+top3 entities near to cluster2>>
+土水, 土
+top3 entities near to cluster3>>
+駐車場, 場裏, 駐車
+top3 entities near to cluster4>>
+公園, 団地, 憩い

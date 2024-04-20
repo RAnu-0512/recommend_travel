@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一般社団法人 立川観光コンベンション協会(旧_立川観光協会)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+スタッフ, デスク, パンフレット, 役所サービスセンター
+cluster1:(2)
+立川市, 立川観光協会
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 2
+deleted 0entities.

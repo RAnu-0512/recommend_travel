@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:着物レンタルVASARA池袋店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(17)
+スタッフ, 手ぶら, 七五三, ライブ, 着付け, グレード, 思い出, 柄, サービス, 母, 店員, セット, プロフェッショナル, オプション, 香港, プラン, バッグ
+cluster1:(11)
+場所, 気, 料金, 体験, 機会, 予定, 時間, 方, 対応, 要望, 満足
+cluster2:(2)
+袴, 下駄
+cluster3:(4)
+浴衣, 浴衣選び, 浴衣ライフ, 着物
+cluster4:(3)
+ヘアセット, 髪型, 有料グレードアップ
+cluster5:(3)
+卒業式, 訪問着, 義理母
+cluster6:(1)
+I FEEL SO GOOD娘の七五三
+
+howmany entities : 41
+howmany clusters : 7
+howmany entities (more than1entities) : 41
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ダイブハウスタック>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+インストラクター, 中高生, 姉ちゃん, ダイビング, ダイビングショップ, ボード
+cluster1:(2)
+人, 方
+cluster2:(1)
+希望
+cluster3:(1)
+初ダイビング
+cluster4:(1)
+魚
+cluster5:(1)
+知識
+cluster6:(1)
+強風
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

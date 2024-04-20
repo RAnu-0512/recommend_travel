@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:分倍河原古戦場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+河原, 河原駅
+cluster1:(2)
+新田, 新田勢
+cluster2:(1)
+京王中川原駅
+cluster3:(20)
+石碑, 戦場跡, 軍, 舞台, 公園, 人, 多摩川, 面影, 碑, 鎌倉, 分倍河原, 討幕, 合戦, 中間, 幕府軍, 銅像, 記念碑, 兵, もの, 分倍
+cluster4:(1)
+鎌倉時代末期
+cluster5:(3)
+北条対新田義貞, 北条泰家率いる幕府軍, 新田義貞
+
+howmany entities : 29
+howmany clusters : 6
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 6
+deleted 0entities.

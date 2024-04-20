@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:地蔵菩薩像(長坂橋の笠地蔵)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+唐木田駅, 位置, 下, 道, 開発, 場所, 変遷, 角, 柘植, 住宅地, 八王子往還, 樹, 小田急多摩線
+cluster1:(4)
+石仏, 地蔵, 地蔵菩薩像, 笠地蔵
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

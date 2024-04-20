@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Feel The Garden>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+成長, 作成, 説明, 作業
+cluster1:(3)
+体験, 先生, 教室
+cluster2:(6)
+最後, テラリウム, プレゼント, パーツ, 目, スペース
+cluster3:(5)
+場所, 仕方, 意外, 事, 情報
+cluster4:(1)
+水
+cluster5:(1)
+コツ
+cluster6:(9)
+狐, 根, 植物, 猫, 緑, 苔, 動物シリーズ, 癒しタイム, 石
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

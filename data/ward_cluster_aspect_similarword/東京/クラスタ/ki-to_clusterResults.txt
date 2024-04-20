@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ki-to>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+お気に入り, プレゼント
+cluster1:(1)
+マフラー
+cluster2:(1)
+ランチマット
+cluster3:(1)
+先生
+cluster4:(2)
+時間, 色
+cluster5:(1)
+糸
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

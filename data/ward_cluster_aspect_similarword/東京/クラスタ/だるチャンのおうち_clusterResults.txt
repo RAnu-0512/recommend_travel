@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:だるチャンのおうち>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+だるま作り, 達磨
+cluster1:(19)
+店, スタッフ, 深大寺, だるまちゃん, 端切れ, 子供, ところ, だるま, 顔, 体験, 中, プレゼント, こと, 世界, アドバイス, 布, 雰囲気, 目, もの
+cluster2:(1)
+駐車場
+
+howmany entities : 22
+howmany clusters : 3
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 3
+deleted 0entities.

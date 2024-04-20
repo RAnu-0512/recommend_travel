@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森田靴工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+靴作り, 靴
+cluster1:(8)
+プレゼント, 素人, 子供, マンツーマン, 基本, 先生, ベビーシューズ, 予定
+cluster2:(2)
+工房, 革
+
+howmany entities : 12
+howmany clusters : 3
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Maison de Blanc>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+体験そのもの, 体験, 体験レッスン
+cluster1:(3)
+製作, 製作日, 焼成
+cluster2:(2)
+子供たち, ガラス達
+cluster3:(5)
+ガラス, セット, アクセサリー, ガラスフュージング, 雰囲気
+cluster4:(2)
+ピアス, ペンダントトップ
+cluster5:(2)
+形, 色
+cluster6:(11)
+お話, 作品, 会話, 家族, 時間, 方, 中, こと, 先生, 作業, 教室
+cluster7:(3)
+ゆうパック, 到着, 郵送
+
+howmany entities : 31
+howmany clusters : 8
+howmany entities (more than1entities) : 31
+howmany clusters (more than1entities) : 8
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:島酒の碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+中心街, 街
+cluster1:(2)
+焼酎, 酒
+cluster2:(4)
+人, 木々, 碑, 看板
+cluster3:(1)
+南国風
+cluster4:(1)
+幹線道路沿い
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

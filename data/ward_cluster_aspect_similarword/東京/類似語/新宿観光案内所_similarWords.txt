@@ -1,0 +1,7 @@
+--------------------similar_words:新宿観光案内所--------------------
+top3 entities near to cluster0>>
+案内, 名所, ガイド
+top3 entities near to cluster3>>
+駅, 南口, 建物
+top3 entities near to cluster5>>
+東南, 西北

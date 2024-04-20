@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:かつしかハープ橋>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ハープ橋, 橋
+cluster1:(2)
+首都, 渋滞
+cluster2:(2)
+微妙, 気
+cluster3:(5)
+デザイン, ハープ, 場所, 形, もの
+cluster4:(1)
+中川
+cluster5:(1)
+環状線
+
+howmany entities : 13
+howmany clusters : 6
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 6
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:Donna RK ドンナルク>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+結果, 終了, 形, 体験, 今回, こと, 作業, もの
+cluster1:(12)
+ネックレス, 娘, ポーセラーツ, 人, 指輪, チャレンジ, フレーム, スワロフスキー, イメージ, 先生, 宇宙, 親子
+cluster2:(5)
+季節, 黒ベース, 丸, ラブリー系, 色
+cluster3:(1)
+前回白系
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 4
+deleted 0entities.

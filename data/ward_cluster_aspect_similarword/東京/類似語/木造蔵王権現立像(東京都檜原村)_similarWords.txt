@@ -1,0 +1,11 @@
+--------------------similar_words:木造蔵王権現立像(東京都檜原村)--------------------
+top3 entities near to cluster0>>
+興味, 価値, 感覚
+top3 entities near to cluster1>>
+仏像, 立像, 坐像
+top3 entities near to cluster2>>
+存在感, 存在, 否め
+top3 entities near to cluster3>>
+檜原, 神社, 村
+top3 entities near to cluster4>>
+権現, 立像, 坐像

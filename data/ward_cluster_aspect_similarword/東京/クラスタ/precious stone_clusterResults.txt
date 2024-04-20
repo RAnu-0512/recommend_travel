@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:precious stone>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+バラ, 時計, お花
+cluster1:(10)
+お気に入り, 作品, ハーバリウム, ボールペン, 気, アドバイス, 先生, 特典, おかげ, バリエーション
+cluster2:(1)
+花材
+cluster3:(1)
+ハーバリウム時計
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

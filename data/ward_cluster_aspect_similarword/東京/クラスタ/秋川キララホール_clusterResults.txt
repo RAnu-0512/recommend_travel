@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:秋川キララホール>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(13)
+図書館, 駅, 個人, 数, 規模, コンサート, ホール, 華美さ, 客席, 建物, ソリスト, 新人, 隣
+cluster1:(2)
+都心, あきる野市
+cluster2:(3)
+大物歌手, 演奏家, 成人式
+
+howmany entities : 18
+howmany clusters : 3
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 3
+deleted 0entities.

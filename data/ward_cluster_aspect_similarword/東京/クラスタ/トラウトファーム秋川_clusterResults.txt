@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:トラウトファーム秋川>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+昭和, CM, こと, 世代
+cluster1:(3)
+ヤマメ釣り, 魚, 管理釣り場
+cluster2:(1)
+丸大ハム
+
+howmany entities : 8
+howmany clusters : 3
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 3
+deleted 0entities.

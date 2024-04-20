@@ -1,0 +1,13 @@
+--------------------similar_words:東京都薬用植物園--------------------
+top3 entities near to cluster0>>
+ケシ, イヌ, カシ
+top3 entities near to cluster1>>
+植物, 温室, 花壇
+top3 entities near to cluster2>>
+風景, 終点, 展示
+top3 entities near to cluster3>>
+南国風, 南国, トロピカル
+top3 entities near to cluster4>>
+駐車場, 駐車, 入場
+top3 entities near to cluster6>>
+植物園, 植物, 薬用

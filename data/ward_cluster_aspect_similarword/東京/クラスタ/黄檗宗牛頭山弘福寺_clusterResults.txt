@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:黄檗宗牛頭山弘福寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+隅田川七福神, 隅田川沿い, 隅田川, 途中 隅田川七福神, 七福神
+cluster1:(4)
+本山, 寺内, 京都萬福寺, 布袋
+cluster2:(2)
+唐風, 禅宗
+cluster3:(6)
+建物, 建築, 本堂, 寺院, 寺, 石像
+cluster4:(10)
+萬福寺, 所, 番茶, 他, 黄檗宗, 咳, 代用, 雰囲気, 風情, ペットボトル
+cluster5:(1)
+爺婆尊
+
+howmany entities : 28
+howmany clusters : 6
+howmany entities (more than1entities) : 28
+howmany clusters (more than1entities) : 6
+deleted 0entities.

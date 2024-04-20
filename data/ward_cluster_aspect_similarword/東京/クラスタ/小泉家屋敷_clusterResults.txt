@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小泉家屋敷>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+実家, 祖父
+cluster1:(4)
+話, 学校, 資料, 道具
+cluster2:(1)
+匂い
+
+howmany entities : 7
+howmany clusters : 3
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,11 @@
+--------------------similar_words:島酒の碑--------------------
+top3 entities near to cluster0>>
+中心街, 繁華街, 繁華, 中心
+top3 entities near to cluster1>>
+焼酎, 地酒
+top3 entities near to cluster2>>
+石碑, 看板
+top3 entities near to cluster3>>
+南国風, 南国, トロピカル
+top3 entities near to cluster4>>
+道路沿い, 幹線, 道路

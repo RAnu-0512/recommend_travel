@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:倉沢のヒノキ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大きさ, 高さ
+cluster1:(3)
+樹高, 幹周, 樹齢
+cluster2:(8)
+ヒノキ, 倉沢, 東京都, 日原, 天然記念物, 奥多摩町, もの, 大木
+
+howmany entities : 13
+howmany clusters : 3
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 3
+deleted 0entities.

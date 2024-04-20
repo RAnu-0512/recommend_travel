@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:H. P. DECO>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+店, 家具, 雑貨
+cluster1:(11)
+方, 部屋, 場所, 表参道, インテリアショップ, 雰囲気, オリジナリティ, フランス, インテリア, 値段, 地方
+cluster2:(1)
+ハイセンス
+cluster3:(1)
+原宿近辺
+cluster4:(1)
+雑貨屋
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

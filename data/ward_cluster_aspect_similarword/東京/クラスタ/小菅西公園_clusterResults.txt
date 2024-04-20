@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小菅西公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+フットサルコート, 最寄り駅
+cluster1:(1)
+施設
+cluster2:(1)
+公園
+cluster3:(1)
+階段
+cluster4:(1)
+高さ
+cluster5:(1)
+小菅西公園
+cluster6:(1)
+公共施設
+
+howmany entities : 8
+howmany clusters : 7
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 7
+deleted 0entities.

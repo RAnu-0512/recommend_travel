@@ -1,0 +1,21 @@
+--------------------similar_words:工匠壱番館・弐番館--------------------
+top3 entities near to cluster0>>
+工匠, 石工, 名工
+top3 entities near to cluster1>>
+展示, 展覧, 作品
+top3 entities near to cluster2>>
+職人技, 職人, 尽絵
+top3 entities near to cluster3>>
+ワザ, 大技
+top3 entities near to cluster4>>
+背景, 構図, 見ごたえ
+top3 entities near to cluster5>>
+歴史, 伝統
+top3 entities near to cluster6>>
+地区, 地方, 北部
+top3 entities near to cluster7>>
+工場, 町, 支店
+top3 entities near to cluster8>>
+工芸, 伝統, 文化
+top3 entities near to cluster9>>
+区, 区内, 都

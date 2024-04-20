@@ -1,0 +1,44 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:工房萌陶芸教室>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+電動ろくろ, ろくろ, ろくろ体験
+cluster1:(6)
+陶芸教室, 陶芸家, 陶芸品, 陶芸体験, 釉薬, 陶芸
+cluster2:(3)
+完成楽しみ, 完成度, 完成
+cluster3:(5)
+参加者, 参加, 大人数, 教え方, 人数
+cluster4:(6)
+意向, 喋り, 声, 厚意, 手取り足取り, 希望
+cluster5:(2)
+補正, 修正
+cluster6:(2)
+側, 外
+cluster7:(3)
+マンツーマン, アドバイス, サポート
+cluster8:(2)
+出来上がり, アレンジ
+cluster9:(1)
+スピード
+cluster10:(1)
+お迎え
+cluster11:(1)
+初心者
+cluster12:(1)
+道のり
+cluster13:(8)
+最後, 他, 話, 笑, 時間, 場所, 形, 色
+cluster14:(3)
+納得, 満足, 無事
+cluster15:(9)
+心配, 方, こと, 感じ, 事, 機会, 質問, もの, 感覚
+cluster16:(26)
+食器, 娘, 趣味, テレビ番組, 駅, 作家, 友人, 私達ふたり, 作業, 主人, 建物, 夫婦, 素人なり, 作品, 生活, 個人レッスン, 指導, 看板, 足, 教室, 指つかい, 小学, 素人, 子供, 指先, 先生
+cluster17:(9)
+贅沢さ, 絵付け体験, 体験, 少人数制, 作りたいもの, 体験込み, 体験会, 難しさ, 力加減
+
+howmany entities : 91
+howmany clusters : 18
+howmany entities (more than1entities) : 91
+howmany clusters (more than1entities) : 18
+deleted 0entities.

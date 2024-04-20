@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:勝海舟銅像>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墨田区役所下, 墨田区役所
+cluster1:(2)
+銅像, 像
+cluster2:(2)
+冬, 空
+cluster3:(2)
+広場, そば
+cluster4:(9)
+区役所, アサヒビール, ドラマ, 人物, 時代物, 幕末, 背景, 勝, 生まれ
+cluster5:(1)
+本社
+cluster6:(1)
+青み
+cluster7:(1)
+勝海舟
+
+howmany entities : 20
+howmany clusters : 8
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 8
+deleted 0entities.

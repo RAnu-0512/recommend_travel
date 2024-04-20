@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ニッポンレンタカー 市ケ谷駅前店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+駅, 市ヶ谷駅
+cluster1:(3)
+距離, 場所, 店舗
+
+howmany entities : 5
+howmany clusters : 2
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 2
+deleted 0entities.

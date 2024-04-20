@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:パン教室 ブランシュ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+パン教室, パン作り教室
+cluster1:(4)
+生徒, 先生, パン, 教室
+cluster2:(6)
+人, 方, ポイント, イベント, メンバー, コロンバ
+cluster3:(2)
+体験, 経験
+cluster4:(1)
+単発
+cluster5:(1)
+人柄
+cluster6:(1)
+湯
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

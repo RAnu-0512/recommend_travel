@@ -1,0 +1,59 @@
+--------------------similar_words:東京体育館--------------------
+top3 entities near to cluster0>>
+競技場, 競技, 国立
+top3 entities near to cluster1>>
+大会, 選手権, 競技
+top3 entities near to cluster2>>
+競技, 大会, 種目
+top3 entities near to cluster3>>
+体育, 学校, 高校
+top3 entities near to cluster4>>
+トイレ, スタジオ, アトラクション
+top3 entities near to cluster5>>
+体育館, シーアリーナ, 校舎
+top3 entities near to cluster6>>
+スポーツ, 格闘技, モータースポーツ
+top3 entities near to cluster7>>
+アリーナ, スポーツ, スタジアム
+top3 entities near to cluster8>>
+フェス, ロックフェス, フリーフェス
+top3 entities near to cluster9>>
+選手権, スケート, フィギュア
+top3 entities near to cluster10>>
+バスケ, バレー, バスケットボール
+top3 entities near to cluster11>>
+カフェ, フード, ベンチ
+top3 entities near to cluster13>>
+人達, 大勢, 人々
+top3 entities near to cluster15>>
+予想外, 想定外, 予想, 想定
+top3 entities near to cluster16>>
+接続, 移動, 行き来
+top3 entities near to cluster17>>
+つれ, 連れ出し
+top3 entities near to cluster19>>
+席者, 参加者, 席, 参加
+top3 entities near to cluster20>>
+建築, 改築, 改修
+top3 entities near to cluster21>>
+体育館, 屋内, 屋外
+top3 entities near to cluster22>>
+駅, 各駅, 改札
+top3 entities near to cluster23>>
+立地, 至便, ローケーション
+top3 entities near to cluster24>>
+飲食店, 飲食, レストラン
+top3 entities near to cluster25>>
+音楽, 音響, 放送
+top3 entities near to cluster26>>
+料金, 価格, 金額
+top3 entities near to cluster27>>
+敷地, 建物, 会場
+top3 entities near to cluster28>>
+施設, 設備, 宿泊
+top3 entities near to cluster29>>
+設備, 施設, 機器
+top3 entities near to cluster30>>
+器具, 空調, 椅子
+top3 entities near to cluster31>>
+観戦, サッカー, 試合

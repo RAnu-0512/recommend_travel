@@ -1,0 +1,24 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:京成高砂駅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+金町線, 京成高砂, 京成電鉄
+cluster1:(3)
+アクセス, 羽田空港, 成田空港
+cluster2:(1)
+ダイヤ
+cluster3:(1)
+人
+cluster4:(1)
+電車
+cluster5:(5)
+上野, 金町, 東京, 下町, 成田
+cluster6:(10)
+京成線, 青戸駅, 主要駅, 北総線, 平面交差, 運賃, アクセス特急, 駅, 特急成田行き, 特急
+cluster7:(1)
+押上・青砥・高砂
+
+howmany entities : 25
+howmany clusters : 8
+howmany entities (more than1entities) : 25
+howmany clusters (more than1entities) : 8
+deleted 0entities.

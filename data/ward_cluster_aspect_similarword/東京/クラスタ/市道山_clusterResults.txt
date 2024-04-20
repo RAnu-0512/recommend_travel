@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:市道山>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+湯, 瀬音
+cluster1:(3)
+疲れ, 不安, 帰り
+cluster2:(2)
+JR, バス
+cluster3:(4)
+刈寄山, 山, 臼杵山, 登山
+cluster4:(1)
+市道山
+cluster5:(1)
+難易度
+cluster6:(3)
+武蔵五日市線, 武蔵五日市駅, 戸倉三山
+
+howmany entities : 16
+howmany clusters : 7
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 7
+deleted 0entities.

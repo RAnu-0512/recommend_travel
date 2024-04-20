@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:森林館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+都, 東京, 木, 森, 大木
+cluster1:(4)
+施設, 情報, 全国, 眺め
+cluster2:(3)
+銘木, 森林館, 巨樹
+cluster3:(1)
+展望室
+cluster4:(1)
+稲村岩
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

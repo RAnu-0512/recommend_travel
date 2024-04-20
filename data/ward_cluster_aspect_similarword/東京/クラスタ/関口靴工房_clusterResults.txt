@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:関口靴工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+靴, 靴作り, 子供靴
+cluster1:(15)
+思いつき, 教室, 作品, 店, 体験, 工房, 先生, 機会, 近く, サイズ, 気楽, 形, 環境, 内側, 色
+
+howmany entities : 18
+howmany clusters : 2
+howmany entities (more than1entities) : 18
+howmany clusters (more than1entities) : 2
+deleted 0entities.

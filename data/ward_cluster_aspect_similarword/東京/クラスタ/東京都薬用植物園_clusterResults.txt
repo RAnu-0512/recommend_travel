@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東京都薬用植物園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+イヌサフラン, ゴマ, ケシ
+cluster1:(6)
+温室, 植物, 花, 花壇, 園内, 薬草
+cluster2:(8)
+ロウバイ, ヒガンバナ, 名前, ヒマワリ, ウォーキング, 風景, 終点, 展示
+cluster3:(1)
+南国風
+cluster4:(2)
+駐車場, 入場無料
+cluster5:(2)
+東京都, 西武拝島線
+cluster6:(7)
+薬用, 有害植物, 薬用植物園, 東大和市駅, 東京都薬用植物園, 植物園, 薬用植物
+
+howmany entities : 29
+howmany clusters : 7
+howmany entities (more than1entities) : 29
+howmany clusters (more than1entities) : 7
+deleted 0entities.

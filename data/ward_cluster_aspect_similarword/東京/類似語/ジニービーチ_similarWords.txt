@@ -1,0 +1,11 @@
+--------------------similar_words:ジニービーチ--------------------
+top3 entities near to cluster0>>
+ビーチ, 砂浜, パトン・ビーチ
+top3 entities near to cluster1>>
+ビーチ, ジョン, ハワード
+top3 entities near to cluster3>>
+海, 海辺, 陸
+top3 entities near to cluster4>>
+島内, 桓太, 本島
+top3 entities near to cluster5>>
+崖, 断崖, 断崖絶壁

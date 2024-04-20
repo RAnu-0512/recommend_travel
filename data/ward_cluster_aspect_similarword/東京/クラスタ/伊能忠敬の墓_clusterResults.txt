@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:伊能忠敬の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+墓, 墓地
+cluster1:(3)
+事件, 謎, 疑問
+cluster2:(2)
+日本, 東上野
+cluster3:(4)
+人, 師匠, 隣, 事
+cluster4:(1)
+地
+cluster5:(1)
+地図
+cluster6:(1)
+上野
+cluster7:(1)
+伊能
+cluster8:(1)
+高橋至
+cluster9:(1)
+源空寺
+
+howmany entities : 17
+howmany clusters : 10
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 10
+deleted 0entities.

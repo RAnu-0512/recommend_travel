@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:小さな蔵の資料館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+資料館, 資料
+cluster1:(7)
+中, 一部, 興味, 日の出町, 多く, もの, 蔵
+cluster2:(1)
+江戸時代
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

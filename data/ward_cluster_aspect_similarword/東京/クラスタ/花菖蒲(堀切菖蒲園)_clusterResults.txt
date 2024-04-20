@@ -1,0 +1,32 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花菖蒲(堀切菖蒲園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+改良工事, 工事
+cluster1:(3)
+季節, 時期, 風情
+cluster2:(2)
+チャンス, 水元公園
+cluster3:(2)
+花菖蒲, 菖蒲田
+cluster4:(1)
+駐輪場
+cluster5:(1)
+日本
+cluster6:(1)
+水
+cluster7:(7)
+心, 人, 気, 種類, 名前, 方, 中
+cluster8:(6)
+品種, 花, 公園, 駅, お花, 園内
+cluster9:(1)
+混雑
+cluster10:(3)
+6000株の花菖蒲, 花菖蒲開花, どこか品
+cluster11:(8)
+菖蒲それぞれ, 菖蒲祭, 菖蒲, 堀切菖蒲園駅, 堀切菖蒲園, 菖蒲まつり, 葛飾菖蒲まつり, 江戸菖蒲
+
+howmany entities : 37
+howmany clusters : 12
+howmany entities (more than1entities) : 37
+howmany clusters (more than1entities) : 12
+deleted 0entities.

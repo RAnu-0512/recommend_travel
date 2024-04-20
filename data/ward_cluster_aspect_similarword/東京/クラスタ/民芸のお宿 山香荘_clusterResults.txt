@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:民芸のお宿 山香荘>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+開店, 店
+cluster1:(4)
+量, 好み, 味, 価格
+cluster2:(6)
+御岳山, 人, 雰囲気, 食事, 宿, 日本
+cluster3:(2)
+ぅ.u, た.l川o'-'
+
+howmany entities : 14
+howmany clusters : 4
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 4
+deleted 0entities.

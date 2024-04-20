@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:戸倉キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+五日市駅, 都心
+cluster1:(8)
+時間, バス, ところ, 紅葉, 自然, キャンプ場, キャンプ, 秋
+cluster2:(4)
+戸倉キャンプ場, 武蔵五日市線, 秋川渓谷, 秋川
+
+howmany entities : 14
+howmany clusters : 3
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 3
+deleted 0entities.

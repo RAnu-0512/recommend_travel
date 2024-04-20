@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:本郷氷川神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+パワースポット, 氷川神社, 雰囲気, スサノオノミコト, 御参り
+cluster1:(2)
+中, 大勢
+cluster2:(2)
+元旦, 神社
+cluster3:(1)
+あじ
+cluster4:(1)
+本郷氷川神社
+cluster5:(1)
+住宅地
+
+howmany entities : 12
+howmany clusters : 6
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 6
+deleted 0entities.

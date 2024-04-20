@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:スプラッシュ東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+運営会社, 会社
+cluster1:(2)
+奥多摩エリア, 奥多摩
+cluster2:(6)
+コロナ, オススメ, バリエーション, キャニオニング, ガイド, スプラッシュ
+cluster3:(2)
+最後, 他
+cluster4:(1)
+気
+cluster5:(7)
+水, 家族, 温泉, 時間, バーベキュー場, キャニオニング体験, 方々
+
+howmany entities : 20
+howmany clusters : 6
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 6
+deleted 0entities.

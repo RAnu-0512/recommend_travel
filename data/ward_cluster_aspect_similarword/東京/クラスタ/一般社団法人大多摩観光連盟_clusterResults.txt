@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:一般社団法人大多摩観光連盟>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大多摩観光, 大多摩観光連盟
+cluster1:(2)
+観光, 観光情報
+cluster2:(6)
+インターネット, 問い合わせ, ネット, 情報, パンフレット, 西多摩
+
+howmany entities : 10
+howmany clusters : 3
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 3
+deleted 0entities.

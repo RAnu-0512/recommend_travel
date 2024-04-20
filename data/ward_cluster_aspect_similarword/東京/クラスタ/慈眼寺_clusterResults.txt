@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:慈眼寺>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(4)
+駅, 丸の内線, 新中野駅, 徒歩
+cluster1:(2)
+気, 印象
+cluster2:(2)
+場所, 近く
+cluster3:(10)
+人, アクセス, 気持ち, 文化財, 通りがかり, 有名人, 見応え, エリア, 真言宗, 雰囲気
+cluster4:(3)
+別, 日本, 歴史
+cluster5:(4)
+堂, タイ, 中野, 金色
+cluster6:(4)
+本堂, 山門, 寺院, 寺
+cluster7:(3)
+墓地, 葬儀, 墓
+cluster8:(1)
+石仏群
+
+howmany entities : 33
+howmany clusters : 9
+howmany entities (more than1entities) : 33
+howmany clusters (more than1entities) : 9
+deleted 0entities.

@@ -1,0 +1,9 @@
+--------------------similar_words:京成電鉄青砥駅--------------------
+top3 entities near to cluster0>>
+方向, 構造
+top3 entities near to cluster1>>
+階段, 階下
+top3 entities near to cluster2>>
+電車, 駅, 構内
+top3 entities near to cluster3>>
+飲食, 商業, 施設

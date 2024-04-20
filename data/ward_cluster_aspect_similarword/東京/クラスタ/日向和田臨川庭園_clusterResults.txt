@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:日向和田臨川庭園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+別荘, 庭園
+cluster1:(4)
+ツツジ, 代議士, 自然, 植物
+cluster2:(2)
+四季, 紅葉
+cluster3:(1)
+シダレ桜
+cluster4:(1)
+津雲国利
+
+howmany entities : 10
+howmany clusters : 5
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 5
+deleted 0entities.

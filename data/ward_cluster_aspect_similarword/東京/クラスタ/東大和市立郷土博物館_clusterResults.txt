@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東大和市立郷土博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+子供, 大人
+cluster1:(4)
+プラネタリウム, 他, ところ, 近く
+cluster2:(1)
+展示内容
+cluster3:(1)
+メガスター
+cluster4:(1)
+郷土資料館
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

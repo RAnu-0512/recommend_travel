@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:渋谷プライム>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+呼び込み, エンタメ, ユニクロ, レストラン, 感じ, ライブハウス, 姉さん, ダンス
+cluster1:(3)
+店, 店員, 店内
+cluster2:(2)
+看板, 入口
+cluster3:(3)
+劇場, 地下, ビル
+cluster4:(1)
+渋谷プライム
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

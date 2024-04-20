@@ -1,0 +1,15 @@
+--------------------similar_words:手作り雑貨の雅(miyabi)--------------------
+top3 entities near to cluster0>>
+雰囲気, 気持ち, 居心地
+top3 entities near to cluster1>>
+アレンジメント, デコレーション, お花
+top3 entities near to cluster2>>
+フラワー, アート, アレンジメント
+top3 entities near to cluster3>>
+ビー玉, 子供, 子ども
+top3 entities near to cluster4>>
+時間, 時分, 時
+top3 entities near to cluster7>>
+定期, コース, 毎月
+top3 entities near to cluster8>>
+雑貨店, 雑貨, 教室

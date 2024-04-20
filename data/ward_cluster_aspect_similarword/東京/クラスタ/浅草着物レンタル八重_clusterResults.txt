@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:浅草着物レンタル八重>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+写真スポット, 写真館, 撮影
+cluster1:(19)
+スタッフ, カメラ, 海外, 人, ショット, ライブ, 口コミ, 子供, 着付け, メール, MC, シニア, セット, GW, アドバイス, キャリーケース, 友人, サイズ, データ
+cluster2:(8)
+もの, 名, 種類, 機会, 時間, 中, 方, 帯
+cluster3:(10)
+店, 荷物, 利用, 相談, 専門, 手際, 店員, 予約, 世話, 対応
+cluster4:(18)
+浴衣, 着付師, 小物, 色合わせ, 髪型, 龍雲, 浅草観光, 着物選び, 浅草, 歌花火, 柄, ヘアメーク, 下着, 和風レンタル, 着物, 髪, ヘアセット, 色
+cluster5:(1)
+選べたし店員
+
+howmany entities : 59
+howmany clusters : 6
+howmany entities (more than1entities) : 59
+howmany clusters (more than1entities) : 6
+deleted 0entities.

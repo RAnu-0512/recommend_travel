@@ -1,0 +1,26 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:足立区立郷土博物館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+展示物, 展示
+cluster1:(20)
+大人, 昔, バス停, 子ども, 屋根, ピクニックスペース, 近く, トイレ, フリースペース, パズル, 中間, 博物館, エントランス, 日本, 近代, 外, 勉強, 父, 時代, 塗り絵
+cluster2:(4)
+池, 土蔵, 東屋, 城
+cluster3:(5)
+場所, 建物, 飲食, 郷土, 施設
+cluster4:(1)
+日本庭園
+cluster5:(1)
+お化け煙突
+cluster6:(1)
+江戸時代
+cluster7:(6)
+南口, 亀有駅, 足立区, 新小岩駅, 東武バス, 北口
+cluster8:(2)
+足立区立郷土博物館, 東渕江庭園
+
+howmany entities : 42
+howmany clusters : 9
+howmany entities (more than1entities) : 42
+howmany clusters (more than1entities) : 9
+deleted 0entities.

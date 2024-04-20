@@ -1,0 +1,9 @@
+--------------------similar_words:BOTANICAL Lab--------------------
+top3 entities near to cluster0>>
+作業, 息抜き, カンジ
+top3 entities near to cluster1>>
+教室, 先生, 隣
+top3 entities near to cluster2>>
+産休, 育休, 出産
+top3 entities near to cluster3>>
+完成度, 完成, 出来上がる

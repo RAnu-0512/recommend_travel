@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:バイキング号記念碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+バイキング号, 香港, 救助, アメリカ, サンフランシスコ, 記念碑
+cluster1:(2)
+参道脇, 稲根神社
+cluster2:(1)
+和文・英文両方
+
+howmany entities : 9
+howmany clusters : 3
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 3
+deleted 0entities.

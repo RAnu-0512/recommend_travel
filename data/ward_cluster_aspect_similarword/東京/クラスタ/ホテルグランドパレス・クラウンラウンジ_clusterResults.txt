@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ホテルグランドパレス・クラウンラウンジ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+ホテルグランドパレス, コーヒー, 雰囲気, クラウンラウンジ, 飯田橋
+cluster1:(2)
+千代田区, 東京都
+
+howmany entities : 7
+howmany clusters : 2
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 2
+deleted 0entities.

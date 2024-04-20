@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アニヤ・ハインドマーチ 青山本店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+デザイン, イギリス, カバン, 世界, こと, ブランド, セレブ, ウェア, バッグ, ロンドン
+cluster1:(2)
+靴, 小物
+cluster2:(1)
+本社
+cluster3:(2)
+故ダイアナ元妃, キャサリン妃
+
+howmany entities : 15
+howmany clusters : 4
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 4
+deleted 0entities.

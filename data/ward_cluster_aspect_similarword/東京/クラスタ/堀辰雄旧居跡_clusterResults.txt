@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:堀辰雄旧居跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+史跡案内板, 住居跡
+cluster1:(3)
+こと, アニメ, 幼少
+cluster2:(2)
+宮崎, 牛
+cluster3:(4)
+小説家, 小説, 文学史, 幼年時代
+cluster4:(3)
+隅田公園, 風立ちぬ, 堀辰雄
+
+howmany entities : 14
+howmany clusters : 5
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 5
+deleted 0entities.

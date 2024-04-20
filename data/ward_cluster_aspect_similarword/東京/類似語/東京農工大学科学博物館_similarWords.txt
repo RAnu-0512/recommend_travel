@@ -1,0 +1,9 @@
+--------------------similar_words:東京農工大学科学博物館--------------------
+top3 entities near to cluster0>>
+キャンパス, 工学部, 農学部
+top3 entities near to cluster1>>
+博物館, 美術館, テパパ
+top3 entities near to cluster3>>
+展示, 出展, 展覧
+top3 entities near to cluster4>>
+科学, 博物館, 人文

@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:メタセコイアの森(水元公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+青さ, 高さ, 美しさ
+cluster1:(13)
+場所, 経験, 利用, 写り, メタセコイヤ状態, 感じ, 迫力, 姿, 趣, 写真, 対比, もの, 辺り
+cluster2:(2)
+季節, 時期
+cluster3:(2)
+秋冬, 冬
+cluster4:(16)
+楓, シン, みやげ, 北欧, 化石, 葉っぱ, レンタルサイクル, 朝, 水元公園, メタセコイヤ, 日本, スポット, 雰囲気, 空, スマホ, メタセコイア
+cluster5:(12)
+木々, 背, 池, 森, ポプラ並木, 公園, 水面, 紅葉, 木, 幹, 銀杏, 園内
+cluster6:(1)
+黄金色
+
+howmany entities : 49
+howmany clusters : 7
+howmany entities (more than1entities) : 49
+howmany clusters (more than1entities) : 7
+deleted 0entities.

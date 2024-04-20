@@ -1,0 +1,7 @@
+--------------------similar_words:水神の森--------------------
+top3 entities near to cluster0>>
+神社, 浮島, 境内
+top3 entities near to cluster2>>
+森, 水辺, 林
+top3 entities near to cluster3>>
+神社, 鎮守, 境内

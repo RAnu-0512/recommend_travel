@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:杉山検校頌徳碑>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(18)
+石碑, 神社, 下町御朱印, 池, 拝殿, 建物, 点字, 鍼術, 人, 御朱印, 社務所, 杉山検校, 自転車, 自宅, 神, 境内, 回向院, 横
+cluster1:(2)
+江島杉山神社, 杉山和一記念館
+
+howmany entities : 20
+howmany clusters : 2
+howmany entities (more than1entities) : 20
+howmany clusters (more than1entities) : 2
+deleted 0entities.

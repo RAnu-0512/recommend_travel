@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:茂呂遺跡>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京都, 城北中央公園
+cluster1:(10)
+茂呂遺跡, 中, こと, 都会, 遺跡, 全国, 調査, 近所, 歴史ファン, 地方
+
+howmany entities : 12
+howmany clusters : 2
+howmany entities (more than1entities) : 12
+howmany clusters (more than1entities) : 2
+deleted 0entities.

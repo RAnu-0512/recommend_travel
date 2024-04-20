@@ -1,0 +1,17 @@
+--------------------similar_words:品川グランドコモンズ--------------------
+top3 entities near to cluster1>>
+高層, ビル, ノッポビル
+top3 entities near to cluster2>>
+ビル街, 建物, ビル
+top3 entities near to cluster3>>
+桜橋, 花橋, 桜, 花
+top3 entities near to cluster4>>
+違う, 違っ
+top3 entities near to cluster5>>
+街並み, カフェ, レストラン
+top3 entities near to cluster6>>
+休憩, 仮眠, 一休み
+top3 entities near to cluster7>>
+会社員, 名所, 会社
+top3 entities near to cluster8>>
+混み, 具合, 具合い

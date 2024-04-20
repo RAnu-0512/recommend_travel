@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:蓮(水元公園)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(8)
+季節, 遊歩道, 方, 中, 側, 水元公園, 犬, 散歩
+cluster1:(6)
+睡蓮, 蓮池, 蓮, ハス, 池, 水辺
+
+howmany entities : 14
+howmany clusters : 2
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 2
+deleted 0entities.

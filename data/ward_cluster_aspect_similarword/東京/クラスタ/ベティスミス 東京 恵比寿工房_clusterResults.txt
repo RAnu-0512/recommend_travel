@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ベティスミス 東京 恵比寿工房>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ボタン止め, リベット付け
+cluster1:(14)
+娘, スタッフ, パッチ, ところ, ワイドパンツ, ボタン, ジーパン, キャラクター, リベット, ベティスミス, ペット, リベット・パッチ, ジーンズ, デニム
+cluster2:(9)
+形, 機械, ジーパン作り, 体験, 機会, 時間, 方, 世界, こと
+cluster3:(1)
+定員
+
+howmany entities : 26
+howmany clusters : 4
+howmany entities (more than1entities) : 26
+howmany clusters (more than1entities) : 4
+deleted 0entities.

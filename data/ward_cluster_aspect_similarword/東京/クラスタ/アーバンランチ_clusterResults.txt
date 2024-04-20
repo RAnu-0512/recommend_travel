@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アーバンランチ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+水上バス, 航路, 開拓
+cluster1:(3)
+豊洲, ららぽーと豊洲, 東京湾岸エリア
+
+howmany entities : 6
+howmany clusters : 2
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 2
+deleted 0entities.

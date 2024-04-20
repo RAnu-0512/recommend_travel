@@ -1,0 +1,9 @@
+--------------------similar_words:日の出陶房--------------------
+top3 entities near to cluster0>>
+陶芸, 体験, 焼き物
+top3 entities near to cluster1>>
+自然, 子供, 子ども
+top3 entities near to cluster3>>
+割引, 割引き, 割り引き
+top3 entities near to cluster4>>
+回数, 枚数, 本数

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:平久保のシイ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東京都, 多摩センター駅
+cluster1:(3)
+木, 南, 森
+cluster2:(6)
+スダジイ, 公園, 方, 追加, 天然記念物, 近く
+cluster3:(1)
+樹高
+cluster4:(1)
+東京医療学院大学
+
+howmany entities : 13
+howmany clusters : 5
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 5
+deleted 0entities.

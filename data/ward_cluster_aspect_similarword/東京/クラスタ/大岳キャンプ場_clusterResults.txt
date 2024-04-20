@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大岳キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+大岳山麓, 大岳鍾乳洞
+cluster1:(22)
+自然, 野営, キャンプ場, 家, 東京, 釣り, 夏休み, 子供, あきる野市, 鍾乳洞, ところ, 家族, 川, 車, かんじ, キャンプ, 中, こと, 子供たち, 受付, ハイキング, バーベキュー
+
+howmany entities : 24
+howmany clusters : 2
+howmany entities (more than1entities) : 24
+howmany clusters (more than1entities) : 2
+deleted 0entities.

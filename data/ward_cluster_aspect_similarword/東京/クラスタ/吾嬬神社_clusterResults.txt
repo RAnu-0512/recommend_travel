@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:吾嬬神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(10)
+立地, 神社, 海, 折, 東征, 暴風, 亀戸駅, 妻, 身, 着物
+cluster1:(2)
+吾嬬神社, ああ吾嬬恋し
+cluster2:(3)
+弟橘媛, おすすめ日本武尊, 弟橘姫
+
+howmany entities : 15
+howmany clusters : 3
+howmany entities (more than1entities) : 15
+howmany clusters (more than1entities) : 3
+deleted 0entities.

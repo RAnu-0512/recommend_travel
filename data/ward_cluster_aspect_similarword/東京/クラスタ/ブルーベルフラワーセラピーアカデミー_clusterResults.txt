@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:ブルーベルフラワーセラピーアカデミー>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こと, 場合
+cluster1:(2)
+人, カード
+cluster2:(1)
+時間
+cluster3:(1)
+順番
+cluster4:(1)
+都合
+cluster5:(1)
+深層心理
+
+howmany entities : 8
+howmany clusters : 6
+howmany entities (more than1entities) : 8
+howmany clusters (more than1entities) : 6
+deleted 0entities.

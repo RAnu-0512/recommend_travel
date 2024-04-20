@@ -1,0 +1,28 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:アルテリーベ東京>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+食事, 休憩, 食事タイム
+cluster1:(15)
+美女, 他人, 店, 来客, 別, 空間, 大皿, 客, 家族, 野獣, 日本, 経営, 歴史, 若手, 料理
+cluster2:(5)
+立場, ビュッフェ形式, 方, こと, もの
+cluster3:(2)
+ケーキ, 飲み物
+cluster4:(8)
+アラジン, コンサート, ドリンク, ソリスト, デザート, サービス, ゲスト, プレゼント
+cluster5:(3)
+ドイツ, オペラ, 歌謡曲
+cluster6:(2)
+クイーン曲, 唄
+cluster7:(2)
+指, 口
+cluster8:(6)
+出演者, 関係者, 誕生日, 日, 声楽家, 入店
+cluster9:(1)
+飲み放題
+
+howmany entities : 47
+howmany clusters : 10
+howmany entities (more than1entities) : 47
+howmany clusters (more than1entities) : 10
+deleted 0entities.

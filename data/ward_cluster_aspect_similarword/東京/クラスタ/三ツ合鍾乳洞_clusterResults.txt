@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:三ツ合鍾乳洞>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+荷物, 山道, 運転, 車, バス, 道
+cluster1:(3)
+通路, 天井, 階段
+cluster2:(8)
+小学生, 鍾乳石, 場所, スイッチバック, 冒険, 鍾乳洞, ほう, 孫
+cluster3:(4)
+茶色, すそ, 軍手, 上着
+cluster4:(1)
+駐車場
+
+howmany entities : 22
+howmany clusters : 5
+howmany entities (more than1entities) : 22
+howmany clusters (more than1entities) : 5
+deleted 0entities.

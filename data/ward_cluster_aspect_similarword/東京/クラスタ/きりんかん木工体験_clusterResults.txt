@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:きりんかん木工体験>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+おもちゃ, もの
+cluster1:(1)
+地元
+cluster2:(1)
+木
+cluster3:(1)
+木材
+cluster4:(1)
+きりんかん
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

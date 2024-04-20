@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:安藤広重の墓>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+東岳寺自体, 東岳寺
+cluster1:(5)
+中, 歴史, ところ, 幅, 入口
+cluster2:(3)
+参拝, 石碑, 墓所
+cluster3:(1)
+左手すぐ
+cluster4:(4)
+徒歩圏, 指定旧跡, 東京都, 東武線
+cluster5:(1)
+竹ノ塚駅
+cluster6:(1)
+安藤広重墓及び記念碑
+
+howmany entities : 17
+howmany clusters : 7
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 7
+deleted 0entities.

@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:八王子市戸吹湯ったり館>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(15)
+館内, 風呂, 露天, レストラン, 車, 露天風呂, オススメ, お湯, 熱, 畳, 漫画, 事, 清掃, つかれ, 店内
+cluster1:(2)
+休憩所, 駐車場
+
+howmany entities : 17
+howmany clusters : 2
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 2
+deleted 0entities.

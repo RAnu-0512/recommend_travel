@@ -1,0 +1,15 @@
+--------------------similar_words:都立狭山公園second--------------------
+top3 entities near to cluster0>>
+信号場, 駐車場, 信号, 駐車
+top3 entities near to cluster2>>
+公園, 遊具, 道路
+top3 entities near to cluster4>>
+敷地外, 敷地内, 敷地
+top3 entities near to cluster5>>
+階段, 石段, エスカレーター
+top3 entities near to cluster6>>
+方法, やり方, 手段
+top3 entities near to cluster7>>
+東口, 南口, 北口
+top3 entities near to cluster8>>
+ひと, つめ, びとは

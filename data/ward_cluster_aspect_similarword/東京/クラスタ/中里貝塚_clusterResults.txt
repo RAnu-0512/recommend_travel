@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:中里貝塚>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+れきし, スペース
+cluster1:(1)
+勉強
+cluster2:(1)
+公園
+cluster3:(1)
+貝塚
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

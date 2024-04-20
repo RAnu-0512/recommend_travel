@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:HEADROCK CLIMBING GYM>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+初心者, レッスン
+cluster1:(1)
+プラン
+cluster2:(1)
+基礎
+cluster3:(1)
+感謝
+cluster4:(1)
+今回意
+cluster5:(1)
+菊川駅
+
+howmany entities : 7
+howmany clusters : 6
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 6
+deleted 0entities.

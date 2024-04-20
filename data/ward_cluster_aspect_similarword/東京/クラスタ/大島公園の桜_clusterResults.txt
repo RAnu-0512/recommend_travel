@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島公園の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+一面, 並木道
+cluster1:(1)
+桜
+cluster2:(1)
+木
+cluster3:(1)
+大島町
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:山田大橋キャンプ場>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+川, あきる野市, 河原
+cluster1:(8)
+コテージ, サイト, あきる, パーティー, ところ, バンガロー, ログハウス, キャンプ
+cluster2:(2)
+設備, キャンプ場
+cluster3:(2)
+都心, 別荘
+cluster4:(2)
+秋川渓谷, 山田大橋
+
+howmany entities : 17
+howmany clusters : 5
+howmany entities (more than1entities) : 17
+howmany clusters (more than1entities) : 5
+deleted 0entities.

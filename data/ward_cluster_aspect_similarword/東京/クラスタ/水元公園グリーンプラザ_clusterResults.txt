@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:水元公園グリーンプラザ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+こと, 場所
+cluster1:(2)
+写真, 水元公園
+cluster2:(2)
+公園, 歴史
+cluster3:(1)
+展示
+cluster4:(1)
+お花
+cluster5:(1)
+水産試験場
+
+howmany entities : 9
+howmany clusters : 6
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 6
+deleted 0entities.

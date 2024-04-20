@@ -1,0 +1,38 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:オーダーメイドジュエリーADAM>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+太子堂, 等々力
+cluster1:(2)
+ネックレス, アクセサリー
+cluster2:(2)
+アニバーサリー, プレゼント
+cluster3:(3)
+オーダーメイド, オーダーメイドジュエリー, ハンドメイド
+cluster4:(2)
+マリッジリング, エンゲージリング
+cluster5:(1)
+リフォーム
+cluster6:(4)
+リメイク, スタッフ, デザイン, ネーミング
+cluster7:(1)
+アクセス
+cluster8:(1)
+三軒茶屋
+cluster9:(1)
+手持ち
+cluster10:(1)
+エリア
+cluster11:(9)
+オリジナルジュエリー, デザインオーダー, リング, ジュエリーショップ, オーダー, カップルリング, オーダージュエリー, ハンド, ジュエリー
+cluster12:(1)
+もち
+cluster13:(19)
+店, 場所, 宝石, 人, 何か, 商品, 茶, 料金, 指輪, 相談, 工房, 母, 店員, 地名, 石, 方, 世界, 店内, もの
+cluster14:(5)
+立地条件, 三軒茶屋駅, 三宿 三, 地元住民, 駅そば
+
+howmany entities : 54
+howmany clusters : 15
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 15
+deleted 0entities.

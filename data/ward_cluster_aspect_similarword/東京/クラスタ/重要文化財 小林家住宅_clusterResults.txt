@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:重要文化財 小林家住宅>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+藤倉, 檜原村, 小林家, 村営, 武蔵五日市駅
+cluster1:(2)
+修復工事, 国指定文化財
+cluster2:(6)
+西東京バス, 駅, 改札, 終点, バス, 周辺
+cluster3:(25)
+昔, 場所, 香り, ぬくもり, バスターミナル, ひとつ, 人, 生活, アクセス, 方法, 思い, 木, 価値, 文化財, 暮らし, 知恵, 趣, 興味, モノレール, 東日本旅客鉄道五日市線, 初期, 日本, 外, こと, 時代
+cluster4:(13)
+歴史感, 建物, 建築, 家, 住宅, 内装, 江戸, 江戸時代, 屋敷, 歴史, 建築様式, 旧家, 農家
+
+howmany entities : 51
+howmany clusters : 5
+howmany entities (more than1entities) : 51
+howmany clusters (more than1entities) : 5
+deleted 0entities.

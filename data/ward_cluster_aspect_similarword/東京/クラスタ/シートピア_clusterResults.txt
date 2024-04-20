@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:シートピア>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+魚, 料理
+cluster1:(1)
+民宿
+cluster2:(1)
+対応
+cluster3:(1)
+宿泊施設
+
+howmany entities : 5
+howmany clusters : 4
+howmany entities (more than1entities) : 5
+howmany clusters (more than1entities) : 4
+deleted 0entities.

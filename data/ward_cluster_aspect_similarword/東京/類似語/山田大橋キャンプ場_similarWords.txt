@@ -1,0 +1,9 @@
+--------------------similar_words:山田大橋キャンプ場--------------------
+top3 entities near to cluster0>>
+河原, 川, 川原
+top3 entities near to cluster1>>
+コテージ, バンガロー, ログハウス
+top3 entities near to cluster2>>
+設備, 施設
+top3 entities near to cluster3>>
+都心, 別荘, 郊外

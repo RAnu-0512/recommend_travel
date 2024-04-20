@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:九道の辻公園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+ところ, 雰囲気
+cluster1:(2)
+玉川上水, ほとり
+cluster2:(1)
+水
+cluster3:(1)
+場
+cluster4:(3)
+公園, 団地, 憩い
+
+howmany entities : 9
+howmany clusters : 5
+howmany entities (more than1entities) : 9
+howmany clusters (more than1entities) : 5
+deleted 0entities.

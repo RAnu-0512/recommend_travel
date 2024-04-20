@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島全島観光ハイヤー(倉田交通)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+移動, タクシー
+cluster1:(2)
+観光, 旅行
+cluster2:(1)
+費用
+cluster3:(1)
+大島
+cluster4:(1)
+運転手
+
+howmany entities : 7
+howmany clusters : 5
+howmany entities (more than1entities) : 7
+howmany clusters (more than1entities) : 5
+deleted 0entities.

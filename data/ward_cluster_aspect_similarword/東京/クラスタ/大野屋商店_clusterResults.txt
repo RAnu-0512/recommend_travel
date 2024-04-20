@@ -1,0 +1,18 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大野屋商店>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+プロ, 店
+cluster1:(1)
+料理人
+cluster2:(1)
+調理道具
+cluster3:(1)
+休市日
+cluster4:(1)
+カッパ橋道具屋街
+
+howmany entities : 6
+howmany clusters : 5
+howmany entities (more than1entities) : 6
+howmany clusters (more than1entities) : 5
+deleted 0entities.

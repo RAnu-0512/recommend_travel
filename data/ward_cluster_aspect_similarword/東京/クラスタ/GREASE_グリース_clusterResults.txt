@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:GREASE_グリース>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(6)
+写真, ミニカー, レーシングカー, パレットタウン, サイン, カフェ
+cluster1:(4)
+人, 方, 車, 場所
+cluster2:(1)
+資料
+cluster3:(1)
+模型
+cluster4:(1)
+軽食
+cluster5:(1)
+名ドライバー達
+
+howmany entities : 14
+howmany clusters : 6
+howmany entities (more than1entities) : 14
+howmany clusters (more than1entities) : 6
+deleted 0entities.

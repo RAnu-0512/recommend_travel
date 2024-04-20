@@ -1,0 +1,9 @@
+--------------------similar_words:矢川--------------------
+top3 entities near to cluster0>>
+水辺, 川, 湧き水
+top3 entities near to cluster1>>
+砂利, 底, 抜池
+top3 entities near to cluster3>>
+流速, 流量, レーザドップラー
+top3 entities near to cluster4>>
+駅, 国立, 谷保

@@ -1,0 +1,54 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:沼袋氷川神社>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+安産祈願, 安産
+cluster1:(2)
+縁起, 利益
+cluster2:(2)
+氷川神社, ぷらっと氷川神社
+cluster3:(3)
+オススメ, 西武新宿線, 雰囲気
+cluster4:(2)
+七五三, 結婚式
+cluster5:(1)
+神
+cluster6:(6)
+大人, 親戚, 人, 子供, 家族, 友人
+cluster7:(2)
+像, 跡
+cluster8:(4)
+感じ, 体験, 参り, 対応
+cluster9:(7)
+場所, 多く, 近く, 見所, 名前, 時期, 時間
+cluster10:(2)
+清掃, 整備
+cluster11:(3)
+神社, 参道, 境内
+cluster12:(2)
+祭り, 屋台
+cluster13:(3)
+店, 駅, 駅前
+cluster14:(1)
+着物レンタル
+cluster15:(1)
+射的
+cluster16:(2)
+観光地, 御祭神
+cluster17:(2)
+太田道灌, 道灌杉
+cluster18:(2)
+沼袋駅, 沼袋
+cluster19:(2)
+中野七福神, 中野駅
+cluster20:(1)
+江古田原合戦
+cluster21:(1)
+新井天神こと北野神社
+cluster22:(1)
+西武新宿線沼袋駅
+
+howmany entities : 54
+howmany clusters : 23
+howmany entities (more than1entities) : 54
+howmany clusters (more than1entities) : 23
+deleted 0entities.

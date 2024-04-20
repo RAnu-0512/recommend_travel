@@ -1,0 +1,12 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:広徳寺のカヤ・タラヨウ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+樹高, 幹周
+cluster1:(11)
+広徳寺, タラヨウ, イチョウ, 東京都, カヤ, 天然記念物, 木, 銀杏, 巨木, もの, 大木
+
+howmany entities : 13
+howmany clusters : 2
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 2
+deleted 0entities.

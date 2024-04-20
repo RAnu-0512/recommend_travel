@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:鳥の工房つばさ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+鳥たち, 動物, 鳥
+cluster1:(2)
+木, ゴミ
+cluster2:(10)
+生き生き, 作品, 方, 生徒, 体験, 先生, バードカービング, 存在, 教室, 美術館
+cluster3:(1)
+ドア飾り
+
+howmany entities : 16
+howmany clusters : 4
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 4
+deleted 0entities.

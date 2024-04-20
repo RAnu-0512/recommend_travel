@@ -1,0 +1,22 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:明治神宮外苑の桜>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+イチョウ並木, ポプラ並木
+cluster1:(4)
+人, 桜並木, カフェ, オープンテラス
+cluster2:(3)
+春, 桜, 秋
+cluster3:(1)
+名所
+cluster4:(1)
+外苑
+cluster5:(1)
+周回道路
+cluster6:(1)
+明治神宮
+
+howmany entities : 13
+howmany clusters : 7
+howmany entities (more than1entities) : 13
+howmany clusters (more than1entities) : 7
+deleted 0entities.

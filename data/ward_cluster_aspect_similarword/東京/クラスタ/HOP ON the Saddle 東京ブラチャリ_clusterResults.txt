@@ -1,0 +1,36 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:HOP ON the Saddle 東京ブラチャリ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+た.tv, た.i
+cluster1:(2)
+連絡不備, 電話番号
+cluster2:(2)
+東銀座, 銀座
+cluster3:(2)
+虎ノ門ヒルズ, 築地
+cluster4:(2)
+下町, 町
+cluster5:(1)
+皇居
+cluster6:(2)
+体験, 苦い体験
+cluster7:(2)
+季節, 新緑
+cluster8:(3)
+食事, 味, 料理
+cluster9:(4)
+確認, 休み, 返答, 電話
+cluster10:(2)
+昼, 出発
+cluster11:(10)
+オススメ, もの, サイクリング, 他, 自転車, 情報, 予定, 日比谷公園, ガイド, プラン
+cluster12:(1)
+よさ
+cluster13:(1)
+江戸が薫る街並み
+
+howmany entities : 36
+howmany clusters : 14
+howmany entities (more than1entities) : 36
+howmany clusters (more than1entities) : 14
+deleted 0entities.

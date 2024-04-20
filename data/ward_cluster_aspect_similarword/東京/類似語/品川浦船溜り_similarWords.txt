@@ -1,0 +1,13 @@
+--------------------similar_words:品川浦船溜り--------------------
+top3 entities near to cluster1>>
+屋台, 屋形船
+top3 entities near to cluster2>>
+ビル, 建物, 社屋
+top3 entities near to cluster4>>
+釣り船, 屋形船, 漁船
+top3 entities near to cluster6>>
+新旧, 両者, スゴイアニメ
+top3 entities near to cluster7>>
+商店街, 繁華街, 商店, 繁華
+top3 entities near to cluster8>>
+ビル群, 高層, ビル

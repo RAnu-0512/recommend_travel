@@ -1,0 +1,20 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:東漸寺(東京都墨田区)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(2)
+庚申塔, 庚申信仰
+cluster1:(6)
+人気, 明治, 時代, もの, あたり, ロケーション
+cluster2:(5)
+寺院, 道標, 寺, 信仰, 神社
+cluster3:(1)
+江戸時代
+cluster4:(1)
+平井駅
+cluster5:(1)
+街道沿い
+
+howmany entities : 16
+howmany clusters : 6
+howmany entities (more than1entities) : 16
+howmany clusters (more than1entities) : 6
+deleted 0entities.

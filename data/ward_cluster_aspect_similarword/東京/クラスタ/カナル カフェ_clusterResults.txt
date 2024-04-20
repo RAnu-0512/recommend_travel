@@ -1,0 +1,66 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:カナル カフェ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(3)
+川, 川沿い, 中央線
+cluster1:(4)
+堀, 桜, 外堀, w桜
+cluster2:(9)
+東京, 飯田橋駅, 水上レストラン, 飯田橋, 都会, 右手, 都心, 水, 神楽坂
+cluster3:(5)
+季節, 春, 夏, 冬, 時期
+cluster4:(4)
+花見, 休日, 天気, GW
+cluster5:(1)
+q\
+cluster6:(4)
+カフェ, イタリアンカフェ, オープンカフェ, グリーンカレー
+cluster7:(3)
+テラス, ボート, デッキ
+cluster8:(2)
+おすすめ, オススメ
+cluster9:(9)
+カフェレストラン, カナルカフェ, テイクアウト, カウンター, アクセス, メニュー, イタリアン, 桜並木, レストラン
+cluster10:(2)
+貸し切り, カップル
+cluster11:(1)
+雰囲気
+cluster12:(2)
+デート, 結婚式
+cluster13:(3)
+ディナー, ランチ, パスタ
+cluster14:(6)
+ドリンク, ケーキ, コーヒー, スイーツ, デザート, 紙カップ
+cluster15:(2)
+満足, 充実
+cluster16:(7)
+前, 今回, 目, 近く, 時間, 瞬間, 場所
+cluster17:(3)
+方, 感じ, 必要
+cluster18:(2)
+利用, 中心
+cluster19:(1)
+撮影
+cluster20:(2)
+席, テラス席
+cluster21:(6)
+味, 素材, 風, 心地, 音, 匂い
+cluster22:(3)
+店, 店内, 店全体
+cluster23:(3)
+茶, そば, 外
+cluster24:(5)
+客, 家族, 雑誌, 女性, 人気
+cluster25:(3)
+食事, ピザ, 料理
+cluster26:(1)
+外国人
+cluster27:(6)
+混雑, 名物カフェ, 行列, 景観, 景色, 絶景カフェ
+cluster28:(1)
+た.s.o@
+
+howmany entities : 103
+howmany clusters : 29
+howmany entities (more than1entities) : 103
+howmany clusters (more than1entities) : 29
+deleted 0entities.

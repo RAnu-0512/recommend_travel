@@ -1,0 +1,14 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:花木園>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(28)
+雨, 離れ, ローラー滑り台, 宿泊, 場所, 食事, 自然, 子ども, レジャー, 傘, お尻, 子供, 気分, 滑り台, 湯浴み, アスレチック, 売店, 入り口, 休日, 遊び場, ビート板, 付近, 段ボール, 尾瀬, ダンボール, 中, 遊具, 子供たち
+cluster1:(4)
+宿, 温泉付部屋, 温泉, 温泉宿
+cluster2:(2)
+駐車場, 飲食物持参
+
+howmany entities : 34
+howmany clusters : 3
+howmany entities (more than1entities) : 34
+howmany clusters (more than1entities) : 3
+deleted 0entities.

@@ -1,0 +1,16 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<clustering:大島全島観光ハイヤー(花交通)>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+cluster0:(5)
+方, 希望, 気分, 出身, ドライバー
+cluster1:(3)
+観光, 島, 大島
+cluster2:(1)
+名勝
+cluster3:(1)
+元バス会社
+
+howmany entities : 10
+howmany clusters : 4
+howmany entities (more than1entities) : 10
+howmany clusters (more than1entities) : 4
+deleted 0entities.
