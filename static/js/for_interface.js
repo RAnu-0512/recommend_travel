@@ -134,9 +134,32 @@ function add_html(index, url, spot_name, outerHTML_text) {
             // 場所を指定する(緑色)
             const selectedPopup = L.marker([cliked_lat, cliked_lng], { icon: greenIcon }).addTo(mymap).bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
             popups.push(selectedPopup)
-            console.log("cliked : ", cliked_lat, cliked_lng)
+            console.log("clicked : ", cliked_lat, cliked_lng)
             mymap.off('click', onMapClick);
 
+
+            //クリックされたときの選択した観点,推薦範囲を読み取る
+            const selectedResults = document.getElementsByClassName('selected_result');
+            const selectedResults_Array = Array.from(selectedResults);
+            const selectedResultsTextArray = []
+            selectedResults_Array.forEach(selectedresults_array_n=>{
+                selectedResultsTextArray.push(selectedresults_array_n.textContent)
+                //console.log(selectedresults_array_n.textContent)
+            })
+
+            let lastSelectedValue = distanceBar.value;
+            console.log("選択した観点",selectedResultsTextArray);
+            console.log("距離",lastSelectedValue);
+            console.log("選択地点",cliked_lat,cliked_lng);
+
+
+            // fetch("/get_recommended_spots",{
+            //     method: 'POST',
+            //     headers: {
+            //         'Content-Type': 'application/json'
+            //     },
+            //     body: JSON.stringify({ cliked_lat:cliked_lat, cliked_lng:cliked_lng, range:lastSelectedValue,selected_aspects:selectedResultsTextArray,selected_pref:selected_pref })
+            // })
 
             // クリックした緯度経度を送る
             fetch('/send_latlng', {
