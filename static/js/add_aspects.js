@@ -26,9 +26,9 @@ function addSearchResults(result) {
     selected_aspect.textContent = result;
     resultElement.appendChild(selected_aspect);
 
-    const removeButton = document.createElement("span");
+    const removeButton = document.createElement("button");
     removeButton.className = "remove_button";
-    removeButton.textContent = '  【削除】';
+    removeButton.textContent = '削除';
     removeButton.onclick = function () {
         removeItem(resultElement);
     };
@@ -41,3 +41,10 @@ function removeItem(element) {
     const parent = element.parentNode;
     parent.removeChild(element);
 }
+
+document.getElementById("delete_button").addEventListener("click", function() {
+    var selectedResults = document.getElementById("selected_results");
+    while (selectedResults.firstChild) {
+        selectedResults.removeChild(selectedResults.firstChild);
+    }
+});

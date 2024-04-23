@@ -111,12 +111,10 @@ function findCircleInMap(mymap) {
     return foundCircle;
 }
 
+
 (async () => {
     try {
         function onMapClick(e) {
-            // aspects中にsimilarAspectsが含まれていればaspectsを赤く表示
-
-            //クリック位置経緯度取得
             const cliked_lat = e.latlng.lat;
             const cliked_lng = e.latlng.lng;
 
@@ -129,10 +127,11 @@ function findCircleInMap(mymap) {
             clearPopups(mymap, popups);
 
             // 場所を指定する(緑色)
-            const selectedPopup = L.marker([cliked_lat, cliked_lng], { icon: greenIcon }).addTo(mymap).bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
+            const selectedPopup = L.marker([cliked_lat, cliked_lng], { icon: greenIcon }).addTo(mymap).bindPopup("~計算中です~<br>少々お待ちください", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
             popups.push(selectedPopup)
+
             console.log("clicked : ", cliked_lat, cliked_lng)
-            //mymap.off('click', onMapClick);
+            mymap.off('click', onMapClick);
 
 
             //クリックされたときの選択した観点,推薦範囲を読み取る
@@ -188,7 +187,7 @@ function findCircleInMap(mymap) {
                             imgElement.src = await loadSpotImage(photo_url, noImageUrl);
                             const spotAspectPopup = add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
                             const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId }).openPopup();
-                            const tooltip_text = `<b>${(index + 1)}</b>`;
+                            const tooltip_text = `<b>[${(index + 1)}]</b>`;
                             marker.bindTooltip(tooltip_text, { permanent: true }).openTooltip();
                             popups.push(marker);
                             marker.closePopup();
@@ -211,11 +210,17 @@ function findCircleInMap(mymap) {
                                 else if (spotOffsetTop < scrollOffsetTop) {
                                     recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop;
                                 }
+                                setTimeout(() => {
+                                    mymap.off("click", onMapClick);
+                                }, 1);
                             })
                             marker.on('popupclose', () => {
                                 recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
                                     element.classList.value = "normal_info";
                                 });
+                                setTimeout(() => {
+                                    mymap.on("click", onMapClick);
+                                }, 1);
                             });
                             // スポット情報がクリックされたときのイベント追加
                             popupInfo.addEventListener("click", () => {
@@ -277,11 +282,15 @@ function findCircleInMap(mymap) {
 
                     // 地図を指定された半径の範囲にズームアップ
                     mymap.fitBounds(circle.getBounds());
+
+                    mymap.on("click", onMapClick);
+                    selectedPopup.bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
                 })
                 .catch(error => {
                     console.error('マップクリック:エラー:', error);
                 });
         }
+
 
         [lat_start, lng_start] = await readStartLatLngFile(selected_pref.replace("都", "").replace("道", "").replace("県", ""));
         console.log(selected_pref.replace("都", "").replace("道", "").replace("県", ""), lat_start, lng_start);

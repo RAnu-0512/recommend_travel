@@ -27,6 +27,10 @@
 }
 
 
+.parameters_howtouse {
+    display: flex;
+}
+
 
 .header {
     margin-top: -10px;
@@ -101,6 +105,25 @@
     cursor: pointer;
 }
 
+.remove_button{
+    background-color: rgba(116, 10, 19, 0.74);
+    color: white;
+    border: none;
+    padding: 2px 2px;
+    text-align: center;
+    height: 23px;
+    width: 40px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-left: 2px;
+    cursor: pointer;
+}
+
+.remove_button:hover{
+    background-color: rgba(116, 10, 19);
+}
+
 .button:disabled {
     opacity: 0.4;
     /* 透明度を調整して薄く表示 */
@@ -120,8 +143,22 @@
     margin-top: 3px;
 }
 
-#decide_button {
+#delete_button {
     margin-top: 3px;
+    background-color: rgba(116, 10, 19, 0.74);
+    color: white;
+    border: none;
+    padding: 5px 5px;
+    text-align: center;
+    height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#delete_button:hover {
+    background-color: rgba(116, 10, 19);
 }
 
 #fix_aspect {
@@ -164,7 +201,7 @@
 }
 
 .recommend_aspect_button {
-    background-color: rgba(10, 86, 116, 0.74);
+    background-color: rgba(12, 116, 10, 0.74);
     color: white;
     border: none;
     padding: 5px 5px;
@@ -277,6 +314,11 @@
     background-color: rgb(241, 241, 241);
 }
 
+#makecheckboxes div{
+    display: inline-block;
+    margin-right: 10px; /* チェックボックス間の余白を調整する場合は適宜変更 */
+}
+
 #search_keyword {
     height: 25px;
 }
@@ -299,6 +341,26 @@
     background-color: rgb(241, 241, 241);
 }
 
+#selected_results div{
+    display: inline-block;
+    margin-right: 10px; /* チェックボックス間の余白を調整する場合は適宜変更 */
+}
+
+
+.howtouse {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 3px;
+    max-width: 450px;
+    max-height: 175px;
+    padding: 8px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow-y: scroll;
+}
+
 
 .parameters {
     display: flex;
@@ -315,13 +377,6 @@
     border: 1px solid #ddd;
     border-radius: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-
-
-.remove_button {
-    cursor: pointer;
-    color: black;
 }
 
 .leaflet-popup-content-wrapper {
