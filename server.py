@@ -61,6 +61,34 @@ def get_prefLatLng():
     return {"pref":"Error","start_lat": 0 , "start_lng":0}
 
 
+@app.route("/get_recommended_spots",methods=["POST"])
+def get_recommended_spots():
+    data = request.get_json()
+    lat = float(data.get('cliked_lat'))
+    lng = float(data.get('cliked_lng'))
+    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
+    rec_range = int(data.get('range'))
+    selected_aspects = data.get('selected_aspects')
+    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}")
+    spots_info = allpref_spots_info[pref]
+    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,spots_info,pref,top_n) #形式 : [[spot_name,[lat,lng],aspects,[similar_aspect],score,url], ...]
+    print("recommend_spots: ", recommend_spots)
+    response_data = []
+    #    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
+    for recommend_spot in recommend_spots:
+        converted_data = {
+            "spot_name" : recommend_spot[0],
+            "lat" : recommend_spot[1][0],
+            "lng" : recommend_spot[1][1],
+            "aspects" : recommend_spot[2],
+            "similar_aspects" : recommend_spot[3],
+            "score" : recommend_spot[4],
+            "url" : recommend_spot[5]
+        }
+        response_data.append(converted_data)
+        # print("converted_data : ",converted_data)
+    return jsonify(response_data)
+
 @app.route("/send_latlng", methods=['POST'])
 def send_latlng():
     data = request.get_json()

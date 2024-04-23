@@ -135,43 +135,34 @@ function add_html(index, url, spot_name, outerHTML_text) {
             const selectedPopup = L.marker([cliked_lat, cliked_lng], { icon: greenIcon }).addTo(mymap).bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
             popups.push(selectedPopup)
             console.log("clicked : ", cliked_lat, cliked_lng)
-            mymap.off('click', onMapClick);
+            //mymap.off('click', onMapClick);
 
 
             //クリックされたときの選択した観点,推薦範囲を読み取る
             const selectedResults = document.getElementsByClassName('selected_result');
             const selectedResults_Array = Array.from(selectedResults);
             const selectedResultsTextArray = []
-            selectedResults_Array.forEach(selectedresults_array_n=>{
+            selectedResults_Array.forEach(selectedresults_array_n => {
                 selectedResultsTextArray.push(selectedresults_array_n.textContent)
                 //console.log(selectedresults_array_n.textContent)
             })
 
             let lastSelectedValue = distanceBar.value;
-            console.log("選択した観点",selectedResultsTextArray);
-            console.log("距離",lastSelectedValue);
-            console.log("選択地点",cliked_lat,cliked_lng);
+            console.log("選択した観点", selectedResultsTextArray);
+            console.log("距離", lastSelectedValue);
+            console.log("選択地点", cliked_lat, cliked_lng);
 
 
-            // fetch("/get_recommended_spots",{
-            //     method: 'POST',
-            //     headers: {
-            //         'Content-Type': 'application/json'
-            //     },
-            //     body: JSON.stringify({ cliked_lat:cliked_lat, cliked_lng:cliked_lng, range:lastSelectedValue,selected_aspects:selectedResultsTextArray,selected_pref:selected_pref })
-            // })
-
-            // クリックした緯度経度を送る
-            fetch('/send_latlng', {
+            fetch("/get_recommended_spots", {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ cliked_lat, cliked_lng, selected_pref })
+                body: JSON.stringify({ cliked_lat: cliked_lat, cliked_lng: cliked_lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref })
             })
                 .then((res) => {
                     if (!res.ok) {
-                        throw new Error("fetchに失敗しました");
+                        throw new Error("マップクリック:fetchに失敗しました");
                     }
                     return res.json()
                 })
@@ -293,8 +284,143 @@ function add_html(index, url, spot_name, outerHTML_text) {
                     recommend_mode = "end_recommend"
                 })
                 .catch(error => {
-                    console.error('エラー:', error);
+                    console.error('マップクリック:エラー:', error);
                 });
+
+            // クリックした緯度経度を送る
+            // fetch('/send_latlng', {
+            //     method: 'POST',
+            //     headers: {
+            //         'Content-Type': 'application/json'
+            //     },
+            //     body: JSON.stringify({ cliked_lat, cliked_lng, selected_pref })
+            // })
+            //     .then((res) => {
+            //         if (!res.ok) {
+            //             throw new Error("fetchに失敗しました");
+            //         }
+            //         return res.json()
+            //     })
+            //     .then(data => {
+            //         console.log("推薦された全スポット情報", data);
+
+            //         data.forEach(async (element, index) => {
+            //             console.log("スポットの情報", element)
+            //             const similarAspects = element.similar_aspects
+            //             const prefecture = selected_pref.replace("都", "").replace("道", "").replace("県", "");
+            //             const photo_url = "static/images/" + prefecture + "/" + element.spot_name + ".jpg";
+            //             const noImageUrl = "static/images/NoImage.jpg";
+            //             const imgElement = document.createElement("img");
+            //             imgElement.className = "spot_image"
+            //             try {
+            //                 const popupId = "popup_" + index;
+            //                 const replaced_spot_name = element.spot_name.replace("second", "").replace("third", "");
+            //                 const spotAspectExplain = "<b>[" + (index + 1) + "]" + replaced_spot_name + "</b><br>" + highlightSimilarAspects(element.aspects, similarAspects).join(",");
+            //                 const recommendSpotInfo = document.getElementById("recommend_spot_info");
+            //                 const popupInfo = document.createElement("div");
+            //                 popupInfo.innerHTML = spotAspectExplain;
+            //                 popupInfo.dataset.popupId = popupId; // 表示するスポット情報に，マップのポップアップIDを設定
+            //                 popupInfo.className = "normal_info"
+            //                 recommendSpotInfo.appendChild(popupInfo);
+
+            //                 imgElement.src = await loadSpotImage(photo_url, noImageUrl);
+            //                 const spotAspectPopup = add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
+            //                 const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId }).openPopup();
+            //                 const tooltip_text = `<b>${(index + 1)}</b>`;
+            //                 marker.bindTooltip(tooltip_text, { permanent: true }).openTooltip();
+            //                 popups.push(marker);
+            //                 marker.closePopup();
+
+
+            //                 //map中のピンが上がった場合と下がった場合の処理
+            //                 marker.on("popupopen", () => {
+            //                     recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+            //                         element.classList.value = "unhighlighted_info";
+            //                     });
+            //                     const select_spotinfo = recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]')
+            //                     select_spotinfo.classList.value = "highlighted_info"
+            //                     scrollOffsetTop = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop
+            //                     scrollOffsetBottom = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop + recommendSpotInfo.clientHeight
+            //                     spotOffsetTop = select_spotinfo.offsetTop
+            //                     spotOffsetBottom = select_spotinfo.offsetTop + select_spotinfo.offsetHeight
+            //                     if (spotOffsetBottom > scrollOffsetBottom) {
+            //                         recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop - recommendSpotInfo.clientHeight + select_spotinfo.offsetHeight
+            //                     }
+            //                     else if (spotOffsetTop < scrollOffsetTop) {
+            //                         recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop;
+            //                     }
+            //                 })
+            //                 marker.on('popupclose', () => {
+            //                     recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+            //                         element.classList.value = "normal_info";
+            //                     });
+            //                 });
+            //                 // スポット情報がクリックされたときのイベント追加
+            //                 popupInfo.addEventListener("click", () => {
+            //                     if (popupInfo.classList.contains("highlighted_info")) {
+            //                         popups.forEach(marker => {
+            //                             marker.closePopup(); // ポップアップを閉じる
+            //                         });
+            //                         recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+            //                             element.classList.value = "normal_info";
+            //                         });
+            //                     }
+            //                     else {
+            //                         const findMarker = popups.find(marker => marker._popup.options.id === popupId);
+            //                         // 対応するポップアップに移動
+            //                         if (findMarker) {
+            //                             mymap.panTo(findMarker.getLatLng());
+            //                             findMarker.openPopup();
+            //                         }
+
+            //                         // recommend_spot_info内の全ての要素から強調表示を削除
+            //                         recommendSpotInfo.querySelectorAll(".highlighted_info").forEach(element => {
+            //                             element.classList.remove("highlighted_info");
+            //                             element.classList.remove("unhighlighted_info");
+            //                         });
+
+            //                         // クリックされたポップアップの情報を強調表示
+            //                         popupInfo.classList.remove("unhighlighted_info");
+            //                         popupInfo.classList.add("highlighted_info");
+
+
+            //                         var AllSpotsAspectsInfo = recommendSpotInfo.getElementsByTagName("div");
+            //                         // <div> 要素に対して処理を実行
+            //                         for (var i = 0; i < AllSpotsAspectsInfo.length; i++) {
+            //                             var divElement = AllSpotsAspectsInfo[i];
+
+            //                             // highlighted クラスが付与されていない場合に unhighlighted クラスを追加
+            //                             if (!divElement.classList.contains("highlighted_info")) {
+            //                                 divElement.classList.add("unhighlighted_info");
+            //                             }
+            //                         }
+            //                     }
+
+            //                 });
+
+            //             } catch (error) {
+            //                 console.error("Error loading image:", error.message);
+            //             }
+            //         });
+            //         // マップ上の中心座標（例：東京タワーの座標）
+            //         const centerCoordinates = [cliked_lat, cliked_lng];
+            //         // 半径50kmの円を描画
+            //         const distance = document.getElementById('distance_bar').value;
+            //         const circle = L.circle(centerCoordinates, {
+            //             radius: distance * 1000, // 半径50km
+            //             color: 'rgba(255, 0, 0, 0.3)',
+            //             fillColor: 'rgba(255, 0, 0, 0.1)', // 赤色で透明度0.2
+            //             fillOpacity: 0.5
+            //         }).addTo(mymap);
+
+            //         // 地図を指定された半径の範囲にズームアップ
+            //         mymap.fitBounds(circle.getBounds());
+
+            //         recommend_mode = "end_recommend"
+            //     })
+            //     .catch(error => {
+            //         console.error('エラー:', error);
+            //     });
         }
 
 
@@ -320,7 +446,7 @@ function add_html(index, url, spot_name, outerHTML_text) {
                 console.error("エラー", error);
             }
         })();
-
+        mymap.on("click",onMapClick);
 
         // fix_distanceをクリックしたときの処理
         document.getElementById('fix_distance').addEventListener('click', async function () {
