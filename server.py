@@ -42,7 +42,6 @@ def return_pref_html(pref):
     print(f"{pref} html")
     return render_template("travel_recommend.html",pref=pref) 
 
-
 @app.route("/get_prefLatLng", methods=["POST"])
 def get_prefLatLng():
     data = request.get_json()
@@ -59,7 +58,6 @@ def get_prefLatLng():
             if pref_r == pref:
                 return {"pref":pref,"start_lat": lat , "start_lng":lng}
     return {"pref":"Error","start_lat": 0 , "start_lng":0}
-
 
 @app.route("/get_recommended_spots",methods=["POST"])
 def get_recommended_spots():
@@ -89,33 +87,6 @@ def get_recommended_spots():
         # print("converted_data : ",converted_data)
     return jsonify(response_data)
 
-@app.route("/send_latlng", methods=['POST'])
-def send_latlng():
-    data = request.get_json()
-    lat = float(data.get('cliked_lat'))
-    lng = float(data.get('cliked_lng'))
-    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
-    print("selected_pref : ", pref)
-    print("clicked latlng:",lat,", ",lng)
-    spots_info = allpref_spots_info[pref]
-    recommend_spots = return_spot(lat,lng,returned_distance_range,returned_aspect_list,spots_info,pref,top_n) #形式 : [[spot_name,[lat,lng],aspects,[similar_aspect],score,url], ...]
-    print("recommend_spots: ", recommend_spots)
-    response_data = []
-    #    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
-    for recommend_spot in recommend_spots:
-        converted_data = {
-            "spot_name" : recommend_spot[0],
-            "lat" : recommend_spot[1][0],
-            "lng" : recommend_spot[1][1],
-            "aspects" : recommend_spot[2],
-            "similar_aspects" : recommend_spot[3],
-            "score" : recommend_spot[4],
-            "url" : recommend_spot[5]
-        }
-        response_data.append(converted_data)
-        print("converted_data : ",converted_data)
-    return jsonify(response_data)
-
 @app.route("/search_form", methods=["POST"])
 def get_search_keyword():
     print("get serach keyword")
@@ -140,34 +111,11 @@ def recommend_aspects():
     return_aspects = [{"label": result, "value": result} for result in recommended_aspects]
     return jsonify({"recommend_aspects": return_aspects})
 
-@app.route("/process_selected_results", methods=["POST"])
-def process_selected_results():
-    global returned_aspect_list
-    data = request.get_json()
-    selected_results = data.get("selected_results")
-    send_result = []
-    for result in selected_results:
-        send_result.append(result)
-    response_data = {"message": send_result }
-    returned_aspect_list = send_result
-    print("選ばれた観点 : ", returned_aspect_list)
-    return jsonify(response_data)
-
-@app.route("/distance_bar",methods = ["POST"])
-def get_range():
-    global returned_distance_range
-    returned_distance_range = int(request.get_json().get("value"))
-    print("推薦範囲 : ",  returned_distance_range, "(km)")
-    return str(returned_distance_range)
-
-
-
 def parse_args():
     parser = argparse.ArgumentParser(description='Process some arguments.')
     parser.add_argument('--port', dest='port_num', type=int, help='Port number to be assigned')
     args = parser.parse_args()
     return args
-
 
 def main():
     args = parse_args()

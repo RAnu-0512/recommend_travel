@@ -28,6 +28,7 @@ function get_keyword(selected_pref) {
             });
     });
 
+    //おすすめ観点
     document.getElementById("recommend_aspect_button").addEventListener("click", () => {
         console.log("aspect recommend button clicked!")
         fetch('/recommend_aspects', {
