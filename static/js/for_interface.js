@@ -115,6 +115,7 @@ function findCircleInMap(mymap) {
 (async () => {
     try {
         function onMapClick(e) {
+            const startTime = Date.now(); // 開始時間
             const cliked_lat = e.latlng.lat;
             const cliked_lng = e.latlng.lng;
 
@@ -285,6 +286,9 @@ function findCircleInMap(mymap) {
 
                     mymap.on("click", onMapClick);
                     selectedPopup.bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
+                    const endTime = Date.now(); // 終了時間
+                    console.log("処理にかかった時間 : ",endTime - startTime,"ミリ秒"); // 何ミリ秒かかったかを表示する
+
                 })
                 .catch(error => {
                     console.error('マップクリック:エラー:', error);

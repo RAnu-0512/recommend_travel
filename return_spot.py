@@ -4,11 +4,11 @@ import numpy as np
 
 
 #レビュー数を読み込みこむ
-review_num_path  = "data/number_of_review/岡山_numOfRview.csv"
-with open(review_num_path,"r",encoding="utf-8") as f_r:
-    reader = csv.reader(f_r)
-    spot_and_numOfrev = {row[0]: int(row[1]) for row in reader}
-max_review_num = max(spot_and_numOfrev.values())
+# review_num_path  = "data/number_of_review/岡山_numOfRview.csv"
+# with open(review_num_path,"r",encoding="utf-8") as f_r:
+#     reader = csv.reader(f_r)
+#     spot_and_numOfrev = {row[0]: int(row[1]) for row in reader}
+# max_review_num = max(spot_and_numOfrev.values())
 
 
 #スコアが高いtop nスポットのスポットを返却

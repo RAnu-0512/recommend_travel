@@ -10,13 +10,16 @@ def get_spotinfo():
         "静岡", "愛知", "三重", "滋賀", "京都", "大阪", "兵庫",
         "奈良", "和歌山", "鳥取", "島根", "岡山", "広島", "山口",
         "徳島", "香川", "愛媛", "高知", "福岡", "佐賀", "長崎",
-        "熊本", "大分", "宮崎", "鹿児島", "沖縄"
+        "熊本", "大分", "宮崎", "鹿児島", "沖縄"#,"全国"
     ]
     pref_dict = {}
+#    pref_dict["全国"] = []
     for pref in pref_list:
         pref_info = get_pref_spot_info(pref)
         if pref_info != []:
             pref_dict[pref] = pref_info
+            # if pref_dict["全国"] != []:
+            #     pref_dict["全国"] += pref_info
     return pref_dict
 
 #県のスポットの情報を読み込む
