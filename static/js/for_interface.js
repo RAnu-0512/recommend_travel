@@ -188,7 +188,7 @@ function findCircleInMap(mymap) {
                             imgElement.src = await loadSpotImage(photo_url, noImageUrl);
                             const spotAspectPopup = add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
                             const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId }).openPopup();
-                            const tooltip_text = `<b>[${(index + 1)}]</b>`;
+                            const tooltip_text = `<b>[${(index + 1)}]${replaced_spot_name}</b>`;
                             marker.bindTooltip(tooltip_text, { permanent: true }).openTooltip();
                             popups.push(marker);
                             marker.closePopup();

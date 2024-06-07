@@ -7,7 +7,7 @@ function get_keyword(selected_pref) {
 
         // fetchリクエストを送信
         fetch('/search_form', {
-            method: 'POST', // または 'GET'、サーバーの要件に合わせて設定
+            method: 'POST', 
             headers: {
                 'Content-Type': 'application/json',
             },

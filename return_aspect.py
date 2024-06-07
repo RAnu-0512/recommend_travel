@@ -62,24 +62,24 @@ def divide_list_int(list1,num1):
 #spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
 #上位top_nの観点を返す[観点1,観点2,観点3, ... ]
 #クエリと似ている観点を返す
-def return_aspect(query,spots_info,aspect_top_n,model):
-    result = []
-    all_aspectsAndvector = []
-    for spot in spots_info:
-        aspects = spot[2]
-        vectors = spot[3]
-        for aspect,vector in zip(aspects,vectors):
-            all_aspectsAndvector.append([aspect,vector])
-    all_aspectsAndvector = deduplication(all_aspectsAndvector)
-    all_aspects_score = calc_aspect_score(query,all_aspectsAndvector,model)
+# def return_aspect(query,spots_info,aspect_top_n,model):
+#     result = []
+#     all_aspectsAndvector = []
+#     for spot in spots_info:
+#         aspects = spot[2]
+#         vectors = spot[3]
+#         for aspect,vector in zip(aspects,vectors):
+#             all_aspectsAndvector.append([aspect,vector])
+#     all_aspectsAndvector = deduplication(all_aspectsAndvector)
+#     all_aspects_score = calc_aspect_score(query,all_aspectsAndvector,model)
 
-    sorted_aspect = sorted(zip(all_aspectsAndvector,all_aspects_score), key=lambda x:x[-1],reverse=True)
-    result = [item[0][0] for item in sorted_aspect[:aspect_top_n]]
-    return result
+#     sorted_aspect = sorted(zip(all_aspectsAndvector,all_aspects_score), key=lambda x:x[-1],reverse=True)
+#     result = [item[0][0] for item in sorted_aspect[:aspect_top_n]]
+#     return result
 
 # # #テスト関数
-# def return_aspect(query,spots_info,aspect_top_n,model):
-#     return ["自然","絶景","温泉","ひな祭り","自転車","散策","神社","子供","家族","ホテル"]
+def return_aspect(query,spots_info,aspect_top_n,model):
+    return ["自然","絶景","温泉","ひな祭り","自転車","散策","神社","子供","家族","ホテル"]
 
 def popular_aspects(spots_info,n):
   min_numberOfaspects = 10
