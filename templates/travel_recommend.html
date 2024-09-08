@@ -10,15 +10,9 @@
 </head>
 
 <body>
-    <header class="header">
-        <h1 id="header_tag">
-            <div> 観光スポット推薦システム </div>
-            <div id="selected_pref"> {{pref}} </div>
-        </h1>
-    </header>
-    <form action="/岡山県" name="pref_form" method="POST">
+
+    <form id="pref-select-form" action="/岡山県" name="pref_form" method="POST">
         <div class="pref-select-container">
-            観光予定の都道府県を選択してください。
             <select name="prefecture" id="pref_select">
                 <option value="岡山県" {% if pref=="岡山県" %} selected {% endif %}>岡山県</option>
                 <option value="島根県" {% if pref=="島根県" %} selected {% endif %}>島根県</option>
@@ -32,43 +26,7 @@
             <input class="button" type="submit" id="pref-select-button" value="移動">
         </div>
     </form>
-    <p id="explain">検索したい観光スポットの特徴を入力してください</p>
-
-    <div class = "parameters_howtouse">
-        <div class="parameters">
-            <form class="search_form" id="search_form" action="/search_form" method="POST">
-                <input type="search" id="search_keyword" name="search_keyword" placeholder="検索キーワード・文を入力">
-                <input type="submit" class="button" id="submit_query" name="submit" value="検索">
-                <div id="makecheckboxes"></div>
-                <input type="button" class="button" id="add_selected_aspects" value="観点を追加">
-                <input type="button" class="recommend_aspect_button" id="recommend_aspect_button" value="オススメの観点">
-            </form>
-            <div class="selected_results">
-                <div id="head-selected_results">選択した観点</div>
-                <div id="selected_results"></div>
-                <input type="button" class="button" name="delete" id="delete_button" value="全て削除">
-                <!-- <input type="button" class="button" name="decide" id="decide_button" value="観点を決定"> -->
-                <!-- <input type="button" class="button" name="fix_aspect" id="fix_aspect" value="観点を修正"> -->
-            </div>
-            <div class="recommend_range" role="group">
-                <p>推薦範囲: <output id="selected_range"></output> (km) </p>
-                <input type="range" name="distance_bar" id="distance_bar" min="1" max="150" step="1" value="50">
-                <!-- <input type="button" class="button" name="distance_decide_button" id="distance_decide_button" value="距離を決定"> -->
-                <!-- <input type="button" class="button" name="fix_distance" id="fix_distance" value="距離を修正"> -->
-            </div>
-        </div>
-        <div class="howtouse">
-            <b>使い方</b><br>
-            ①検索欄で観光スポットの特徴等を入力してください。<br>
-            ②検索結果に出力された観点を「観点を追加」ボタンで「選択した観点」のボックスに入れてください。<br>
-            ③推薦範囲を適宜調整してください。<br>
-            ④マップ上で観光予定の中心地をクリックすると、「選択した観点」が考慮された観光スポットが推薦されます。<br>
-            ⑤再度推薦を受けたい場合は条件を変更し、マップ上でもう一度中心地を選んでください。
-        </div>
-    </div>
-    <div class="fixed-button-container">
-        <input type="button" class="resetButton" name="resetButton" id="resetButton" value="全てをリセット">
-    </div>
+    <!-- <p id="explain">検索したい観光スポットの特徴を入力してください</p> -->
     <div id="map_info">
         <div id="mapid"></div>
         <div id="recommend_spot_info_frame">
@@ -76,10 +34,57 @@
             <div id="recommend_spot_info"></div>
         </div>
     </div>
+    <div class="parameters" id="parameters">
+        <form class="search_form" id="search_form" action="/search_form" method="POST">
+            <input type="search" id="search_keyword" name="search_keyword" placeholder="検索キーワード・文を入力">
+            <input type="submit" class="button" id="submit_query" name="submit" value="検索">
+            <div id="makecheckboxes"></div>
+            <input type="button" class="button" id="add_selected_aspects" value="観点を追加">
+            <input type="button" class="recommend_aspect_button" id="recommend_aspect_button" value="オススメの観点">
+        </form>
+        <div class="selected_results">
+            <div id="head-selected_results">選択した観点</div>
+            <div id="selected_results"></div>
+            <input type="button" class="button" name="delete" id="delete_button" value="全て削除">
+        </div>
+        <div class="recommend_range" role="group">
+            <p>推薦範囲: <output id="selected_range"></output> (km) </p>
+            <input type="range" name="distance_bar" id="distance_bar" min="1" max="150" step="1" value="50">
+        </div>
+        <input type="button" class="button close-button" id="close_button_parm" value="閉じる">
+    </div>
+    <input type="button" class="button open-button" id="open_button_parm" value="検索条件を設定する" style="display:none;">
+    <div class="recommend_style_box" id="recommend_style_box">
+        <div class="recommend_plan" id="plan_level1">
+            <div class="recom_plan_header" id="plan_level1_header">選択した旅行スタイル</div>
+            <div class="recom_plan_body" id="plan_level1_body"><button id="openButton">旅行スタイルを選択</button></div>
+            <div id="modal" class="modal">
+                <div class="modal-content">
+                    <span id="closeButton" class="close">&times;</span>
+                    <p>新しい枠の内容です。ここにテキストや他のコンテンツを配置できます。</p>
+                </div>
+            </div>
+        </div>
+        <div class="recommend_plan" id="plan_level2">
+            <div class="recom_plan_header" id="plan_level2_header">選択したランダムスポット</div>
+            <div class="recom_plan_body" id="plan_level2_body">行ってみたいスポットを選択</div>
+        </div>
+        <div class="recommend_plan" id="plan_level3">
+            <div class="recom_plan_header" id="plan_level3_header">選択した良かったスポット</div>
+            <div class="recom_plan_body" id="plan_level3_body">行って良かったスポットを選択</div>
+        </div>
+        <input type="button" class="button close-button" id="close_button_recom" value="閉じる">
+    </div>
+    <input type="button" class="button open-button" id="open_button_recom" value="推薦スタイルを選ぶ" style="display:none;">
+    <div class="fixed-button-container">
+        <input type="button" class="resetButton" name="resetButton" id="resetButton" value="再読み込み">
+    </div>
+    <div id="selected_pref"> {{pref}} </div>
     <script src="{{ url_for('static',filename = 'js/get_keywords.js') }}"></script>
     <script src="{{ url_for('static',filename = 'js/add_aspects.js') }}"></script>
     <script src="{{ url_for('static',filename = 'js/range_bar.js') }}"></script>
     <script src="{{ url_for('static',filename = 'js/for_interface.js') }}"></script>
+
 </body>
 
 </html>

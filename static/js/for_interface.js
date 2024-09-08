@@ -7,7 +7,7 @@ const fix_aspect_button = document.getElementById('fix_aspect');
 
 //何県の推薦か
 const selected_pref = document.getElementById("selected_pref").innerText;
-
+// const selected_pref = "岡山県"
 //leaflet
 const tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '© <a href="http://osm.org/copyright">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
@@ -287,7 +287,7 @@ function findCircleInMap(mymap) {
                     mymap.on("click", onMapClick);
                     selectedPopup.bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
                     const endTime = Date.now(); // 終了時間
-                    console.log("処理にかかった時間 : ",endTime - startTime,"ミリ秒"); // 何ミリ秒かかったかを表示する
+                    console.log("処理にかかった時間 : ", endTime - startTime, "ミリ秒"); // 何ミリ秒かかったかを表示する
 
                 })
                 .catch(error => {
@@ -300,8 +300,12 @@ function findCircleInMap(mymap) {
         console.log(selected_pref.replace("都", "").replace("道", "").replace("県", ""), lat_start, lng_start);
         const mymap = L.map('mapid', {
             center: [lat_start, lng_start],
+            zoomControl: false,
             zoom: 14.5,
         });
+        L.control.zoom({
+            position: 'topright' // 右上にズームコントロールを表示
+        }).addTo(mymap);
         tileLayer.addTo(mymap);
         const popups = []; //ポップアップのリスト
         range_bar_always();
@@ -318,4 +322,70 @@ document.getElementById('resetButton').addEventListener('click', function () {
     location.reload();
 });
 
+//検索ボックス
+document.getElementById("close_button_parm").addEventListener("click", function () {
+    if (document.getElementById("recommend_style_box").style.display == "none") {
+        document.getElementById("open_button_recom").style.top = "100px";
+    }
+    else {
+        document.getElementById("recommend_style_box").style.top = "100px";
+    }
+    document.getElementById("parameters").style.display = "none";
+    document.getElementById("open_button_parm").style.display = "";
+});
 
+document.getElementById("open_button_parm").addEventListener("click", function () {
+    if (document.getElementById("recommend_style_box").style.display == "none") {
+        document.getElementById("open_button_recom").style.top = "230px";
+    }
+    else {
+        document.getElementById("recommend_style_box").style.top = "230px";
+    }
+    document.getElementById("parameters").style.display = "";
+    document.getElementById("open_button_parm").style.display = "none";
+});
+
+//推薦プランの選択ボックス
+document.getElementById("close_button_recom").addEventListener("click", function () {
+    if (document.getElementById("parameters").style.display == "none") {
+        document.getElementById("open_button_recom").style.top = "100px";
+    }
+    else {
+        document.getElementById("open_button_recom").style.top = "230px";
+    }
+    document.getElementById("recommend_style_box").style.display = "none";
+    document.getElementById("open_button_recom").style.display = "";
+});
+
+document.getElementById("open_button_recom").addEventListener("click", function () {
+    if (document.getElementById("parameters").style.display == "none") {
+        document.getElementById("recommend_style_box").style.top = "100px";
+    }
+    else {
+        document.getElementById("recommend_style_box").style.top = "230px"
+    }
+    document.getElementById("recommend_style_box").style.display = "";
+    document.getElementById("open_button_recom").style.display = "none";
+});
+
+
+const modal = document.getElementById('modal');
+const openButton = document.getElementById('openButton');
+const closeButton = document.getElementById('closeButton');
+
+// ボタンがクリックされたときにモーダルを表示
+openButton.addEventListener('click', function () {
+    modal.style.display = 'block';
+});
+
+// 「X」ボタンがクリックされたときにモーダルを非表示にする
+closeButton.addEventListener('click', function () {
+    modal.style.display = 'none';
+});
+
+// モーダル外をクリックした場合も閉じるようにする（オプション）
+window.addEventListener('click', function (event) {
+    if (event.target === modal) {
+        modal.style.display = 'none';
+    }
+});
