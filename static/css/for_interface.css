@@ -40,7 +40,7 @@ body {
     position: fixed;
     left: 22px;
     top: 5px;
-    z-index: 3;
+    z-index: 2;
 }
 
 .recom_plan_header {
@@ -147,21 +147,21 @@ body {
     position: absolute;
     bottom: 2px;
     right: 7px;
-    z-index: 3;
+    z-index: 2;
 }
 
 .close-button {
     position: absolute;
     bottom: 7px;
     right: 7px;
-    z-index: 3;
+    z-index: 2;
 }
 
 .open-button {
     position: fixed;
     top: 50px;
     left: 20px;
-    z-index: 3;
+    z-index: 2;
 }
 
 .remove_button {
@@ -245,7 +245,7 @@ body {
     top: 0;
     right: 255px;
     padding: 10px;
-    z-index: 10;
+    z-index: 3;
 }
 
 .resetButton {
@@ -490,7 +490,7 @@ body {
     width: 100%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5); /* 背景を半透明に */
-    z-index: 1;
+    z-index: 99;
 }
 
 /* モーダル内のコンテンツ */
@@ -504,15 +504,15 @@ body {
 }
 
 /* 「X」ボタンのスタイル */
-.close {
+.modal-close-button {
     color: #aaa;
     float: right;
     font-size: 28px;
     font-weight: bold;
 }
 
-.close:hover,
-.close:focus {
+.modal-close-button:hover,
+.modal-close-button:focus {
     color: black;
     text-decoration: none;
     cursor: pointer;

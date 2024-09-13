@@ -369,23 +369,23 @@ document.getElementById("open_button_recom").addEventListener("click", function 
 });
 
 
-const modal = document.getElementById('modal');
+const modal_level1 = document.getElementById('modal_level1');
 const openButton = document.getElementById('openButton');
-const closeButton = document.getElementById('closeButton');
+const modal1_closeButton = document.getElementById('modal_level1_closeButton');
 
 // ボタンがクリックされたときにモーダルを表示
 openButton.addEventListener('click', function () {
-    modal.style.display = 'block';
+    modal_level1.style.display = 'block';
 });
 
 // 「X」ボタンがクリックされたときにモーダルを非表示にする
-closeButton.addEventListener('click', function () {
-    modal.style.display = 'none';
+modal1_closeButton.addEventListener('click', function () {
+    modal_level1.style.display = 'none';
 });
 
 // モーダル外をクリックした場合も閉じるようにする（オプション）
 window.addEventListener('click', function (event) {
-    if (event.target === modal) {
-        modal.style.display = 'none';
+    if (event.target === modal_level1) {
+        modal_level1.style.display = 'none';
     }
 });
