@@ -59,8 +59,7 @@ def divide_list_int(list1,num1):
     return [x/num1 for x in list1]
 
 
-#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
-#上位top_nの観点を返す[観点1,観点2,観点3, ... ]
+# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},spots_aspectsVector:vector,spot_numOfRev:number,spot_url:url}}]#上位top_nの観点を返す[観点1,観点2,観点3, ... ]
 #クエリと似ている観点を返す
 # def return_aspect(query,spots_info,aspect_top_n,model):
 #     result = []
@@ -81,12 +80,14 @@ def divide_list_int(list1,num1):
 def return_aspect(query,spots_info,aspect_top_n,model):
     return ["自然","絶景","温泉","ひな祭り","自転車","散策","神社","子供","家族","ホテル"]
 
+
+# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},spots_aspectsVector:vector,spot_numOfRev:number,spot_url:url}}]
 def popular_aspects(spots_info,n):
   min_numberOfaspects = 10
 
   all_aspect_dict = {}
-  for spot_info in spots_info:
-    for aspect in spot_info[2]:
+  for spot_name,spot_info in spots_info.items():
+    for aspect in list(spot_info["aspects"].keys()):
       # 観点が辞書に存在するか確認
       if aspect in all_aspect_dict:
           all_aspect_dict[aspect] += 1

@@ -8,7 +8,7 @@ from return_spot import return_spot
 import argparse
 import csv
 
-top_n = 10 #推薦スポット数
+top_n = 30 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
 
 print(".....モデル読み込み中")
@@ -25,8 +25,9 @@ model = "test_model"  #テストするときのモデル
 # model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False) #モデルの読み込み
 print(".....モデル読み込み完了!!")
 
-#allpref_spots_info = {pref : [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ] , pref : , ...}
+#allpref_spots_info = {pref : [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ] , pref : , ...}
 allpref_spots_info = get_spotinfo()
+print(len(allpref_spots_info["岡山"]))
 returned_aspect_list = []
 returned_distance_range = 0
 
@@ -47,7 +48,7 @@ def get_prefLatLng():
     data = request.get_json()
     pref = data.get('pref')
     print(f"select : {pref}")
-    startLatLng_path = "data/start_latlng/start_latlng.csv"
+    startLatLng_path = "./data_beta/start_latlng/start_latlng.csv"
     with open(startLatLng_path,"r",encoding="UTF-8") as f_r:
         reader = csv.reader(f_r)
         for row in reader:
@@ -67,10 +68,11 @@ def get_recommended_spots():
     pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
     rec_range = int(data.get('range'))
     selected_aspects = data.get('selected_aspects')
-    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}")
+    selected_style = data.get("selected_style")
+    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_style: {selected_style}")
     spots_info = allpref_spots_info[pref]
-    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,spots_info,pref,top_n) #形式 : [[spot_name,[lat,lng],aspects,[similar_aspect],score,url], ...]
-    print("recommend_spots: ", recommend_spots)
+    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,spots_info,selected_style,pref,top_n) #形式 : [[spot_name,[lat,lng],aspects,[similar_aspect],score,url], ...]
+    print("recommend_spots: ", recommend_spots[:1],"等")
     response_data = []
     #    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
     for recommend_spot in recommend_spots:

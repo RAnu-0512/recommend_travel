@@ -150,6 +150,13 @@ body {
     z-index: 2;
 }
 
+#rerecommend_button_parm{
+    position: absolute;
+    bottom: 7px;
+    right: 67px;
+    z-index: 2;
+}
+
 .close-button {
     position: absolute;
     bottom: 7px;
@@ -203,6 +210,20 @@ body {
 }
 
 #delete_button {
+    margin-top: 3px;
+    background-color: rgba(116, 10, 19, 0.74);
+    color: white;
+    border: none;
+    padding: 5px 5px;
+    text-align: center;
+    height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#deselect_button {
     margin-top: 3px;
     background-color: rgba(116, 10, 19, 0.74);
     color: white;
@@ -493,27 +514,79 @@ body {
     z-index: 99;
 }
 
-/* モーダル内のコンテンツ */
-.modal-content {
-    background-color: white;
-    margin: 15% auto;
-    padding: 20px;
-    border: 1px solid #888;
-    width: 80%; /* コンテンツの幅 */
-    max-width: 600px; /* 最大幅 */
+/* モーダルのスタイル */
+.modal {
+    display: none; /* 初期状態は非表示 */
+    position: fixed; /* 固定位置 */
+    z-index: 1; /* 他の要素より前面に表示 */
+    left: 0;
+    top: 0;
+    width: 100%; /* 幅100% */
+    height: 100%; /* 高さ100% */
+    overflow: auto; /* 必要に応じてスクロール */
+    background-color: rgba(0, 0, 0, 0.4); /* 背景の半透明 */
 }
 
-/* 「X」ボタンのスタイル */
+/* モーダルコンテンツのスタイル */
+.modal-content {
+    background-color: #fefefe;
+    margin: 5% auto; /* 縦中央 */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 60%; /* 幅60% */
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+/* 閉じるボタンのスタイル */
 .modal-close-button {
     color: #aaa;
     float: right;
     font-size: 28px;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .modal-close-button:hover,
 .modal-close-button:focus {
     color: black;
     text-decoration: none;
+}
+
+
+/* カードのスタイル */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.card {
+    flex: 1 1 calc(33.333% - 30px);
+    background-color: #f1f1f1;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
     cursor: pointer;
+    transition: border-color 0.3s, background-color 0.3s;
+}
+
+.card.selected {
+    border-color: #4CAF50;
+    background-color: #e0ffe0;
+}
+
+.card:hover {
+    border-color: #888;
+}
+
+#deselect_modal_button{
+    margin-top: 10px;
+    background-color: rgba(116, 10, 19, 0.74);
+}
+
+#submit_selection_button{
+    margin-top: 10px;
 }

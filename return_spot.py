@@ -12,23 +12,59 @@ import numpy as np
 
 
 #スコアが高いtop nスポットのスポットを返却
-#spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
-#形式は[[spot_name,[lat,lng],aspects,score,url], ...]
-def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, spots_info,pref,n):
+# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url}}]
+#返却形式は[[spot_name,[lat,lng],aspects,score,url], ...]
+def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, spots_info,selected_style,pref,n):
+    read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99_NoIN.csv"
+    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99.csv"
+    #スタイルベクトルを読み込む
+    style_vectors_dcit = {}
+    with open(read_style_vector_path, 'r', newline='', encoding='utf-8') as csvfile:
+        csv_reader = csv.reader(csvfile)
+        for row in csv_reader:
+            style_name = row[0]
+            style_vector = row[1]
+            style_vector_float = [float(value) for value in style_vector.replace("[", "").replace("]", "").replace("\n", "").replace(",","").split()]
+            style_vectors_dcit[style_name] = style_vector_float
+    
+    #クラスタリングした観点を読み込む
+    clustering_aspect_dict = {}
+    with open(read_clustering_path, 'r', newline='', encoding='utf-8') as csvfile:
+        csv_reader = csv.reader(csvfile)
+        for row in csv_reader:
+            # 各行の要素数を取得
+            clustering_aspect_dict[row[0]] = row[1:]     
+            
+    style_dict = {"アートを楽しむ":"art",
+                  "体験を満喫する":"experience",
+                  "家族で過ごす":"family",
+                  "自然を楽しむ":"nature",
+                  "食事を楽しむ":"eating",
+                  "買い物を楽しむ":"shopping",
+                  "写真映えを狙う":"picture",
+                  "教養を高める":"learning",
+                  "歴史を感じる":"history",
+                  "エンタメを楽しむ":"entertainment"}
+    if selected_style != "何も選択されていません":    
+        selected_style_word = style_dict[selected_style]
+        check_needed_aspect_forStyle =return_check_needed_aspects(style_vectors_dcit[selected_style_word],clustering_aspect_dict)
+    
+    
     recommend_spots_info = []
-    for spot_info in spots_info:
-        sn = spot_info[0]
-        lat = spot_info[1][0]
-        lng = spot_info[1][1]
-        aspect_list = spot_info[2]
-        asp_vec_list = spot_info[3]
-        cluster_vec_list = spot_info[4]
-        spots_aspectsVector = spot_info[5]
-        spot_numOfRev = spot_info[6]
-        spot_url = spot_info[7]
+    for sn,spot_info in spots_info.items():
+        lat = spot_info["lat"]
+        lng = spot_info["lng"]
+        aspect_list = list(spot_info["aspects"].keys())
+        asp_vec_list = list(spot_info["aspects"].values())
+        spots_aspectsVector = spot_info["aspectsVector"]
+        spot_numOfRev = spot_info["numOfRev"]
+        spot_url = spot_info["spot_url"]
         if haversine_distance(selected_lat,selected_lng,lat,lng) <= recommend_range:
             selected_aspects_parm = [1] * len(selected_aspect_list)
             selected_aspectsVector,check_needed_aspect = return_selected_aspectsVector(selected_aspect_list,selected_aspects_parm,pref)
+            if selected_style != "何も選択されていません":   
+                check_needed_aspect += check_needed_aspect_forStyle
+                selected_aspectsVector = [a + b for a, b in zip(selected_aspectsVector, style_vectors_dcit[selected_style_word])]
             score = calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev)
             if score != 0:
                 similar_aspects = []
@@ -38,10 +74,8 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                 recommend_spots_info.append([sn,[lat,lng],aspect_list,similar_aspects,score,spot_url])
         sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[4],reverse=True)
     if len(sorted_recommend_spots_info) <= n:
-        #print("return_spot : " ,sorted_recommend_spots_info)
         return sorted_recommend_spots_info
     else:
-        #print("return_spot : " ,sorted_recommend_spots_info[0:n])
         return sorted_recommend_spots_info[0:n]
 
 def cos_sim(v1, v2):
@@ -49,8 +83,20 @@ def cos_sim(v1, v2):
     return np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2))
   else:
     return 0.0
+
+#チェックが必要な観点リストを返す(推薦スタイルに応じた)
+def return_check_needed_aspects(style_vector,clustering_aspect_dict):
+    #チェックが必要な観点を返す
+    check_needed_aspect = []
+    for vector_index in range(len(style_vector)):
+        if style_vector[vector_index] != 0:
+            check_needed_aspect += clustering_aspect_dict[f"cluster{vector_index:03}"]
+    return check_needed_aspect
+    #return値は選択ベクトルと、そのベクトルが1以上のインデックス
+    
+    
 def return_selected_aspectsVector(selected_aspect_list,selected_aspect_parm_list,pref):
-    read_clustering_path = f"data/all_aspect_clustering/{pref}aspect_clustering_result.csv"
+    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99.csv"
     #全ての観点のクラスタリング結果から、選択した観点のベクトルを生成
     #含まれる位置で指定されたパラメータ * 1を足す
     list_aspects = []

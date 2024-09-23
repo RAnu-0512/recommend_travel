@@ -25,73 +25,67 @@ def get_spotinfo():
 
 #県のスポットの情報を読み込む
 def get_pref_spot_info(pref):
-    # spots_info = [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[cluster_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ]
-    try:
-        spots_info = []
-        latlng_info_path = f"data/latlng/{pref}_latlng_review_exist3.csv"
-        with open(latlng_info_path, 'r', encoding='utf-8') as f_latlng:
-            reader = csv.reader(f_latlng)
-            for row in reader:
-                sn = row[0]
-                latlng=[]
-                if(len(row) == 3):  # 最低3つの要素があることを確認
-                    latlng.append(float(row[1]))
-                    latlng.append(float(row[2]))
-                spots_info.append([sn,latlng])
+    # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url}}]
+    # try:
+    spots_info = {}
+    latlng_info_path = f"data_beta/latlng/{pref}_latlng_review_top150.csv"
+    with open(latlng_info_path, 'r', encoding='utf-8') as f_latlng:
+        reader = csv.reader(f_latlng)
+        for row in reader:
+            spot_name = row[0]
+            lat = float(row[1])
+            lng = float(row[2])
+            spots_info[spot_name]={}
+            spots_info[spot_name]["lat"] = lat
+            spots_info[spot_name]["lng"] = lng
+            spots_info[spot_name]["aspects"] = {}
+            
+    aspect_folder_path = f"./data_beta/aspects_and_vectors/{pref}/"
+    read_aspectsVector_path = f"./data_beta/spots_aspect_vector/{pref}aspectVector_fromCluster_GPT.csv"
 
-        aspect_folder_path = f"data/aspects_and_vectors_rm_dup/{pref}/"
-        read_aspectsVector_path = f"data/spots_aspect_vector/{pref}aspectVector.csv"
+    with open(read_aspectsVector_path, 'r', newline='', encoding='utf-8') as csvfile:
+        csv_reader = csv.reader(csvfile)
+        for row in csv_reader:
+            spot_name = row[0]
+            spots_aspectVector_str = row[1]
+            if spot_name in spots_info:
+                spots_info[spot_name]["aspectsVector"] = [float(value) for value in spots_aspectVector_str.replace("[", "").replace("]", "").replace("\n", "").replace(",","").split()]
+            
+    #レビュー数を読み込みこむ
+    review_num_path  = f"data_beta/number_of_review/{pref}_numOfRview.csv"
+    with open(review_num_path,"r",encoding="utf-8") as f_r:
+        reader = csv.reader(f_r)
+        for row in reader:
+            spot_name = row[0]
+            numOfrev = int(row[1])
+            if spot_name in spots_info:
+                spots_info[spot_name]["numOfRev"] = numOfrev
 
-        spots_aspectsVector = []
-        spots_aspectsVector_float = []
-        with open(read_aspectsVector_path, 'r', newline='', encoding='utf-8') as csvfile:
-            csv_reader = csv.reader(csvfile)
-            for row in csv_reader:
-                spots_aspectsVector.append(row[1])
-            for spot_index in range(len(spots_aspectsVector)):
-                spots_aspectsVector_float.append([float(value) for value in spots_aspectsVector[spot_index].replace("[", "").replace("]", "").replace("\n", "").replace(",","").split()])
+    #スポットのurlを読み込む
+    url_info_path = f"data_beta/url/{pref}_Spots_url_exist_3.csv"
+    with open(url_info_path,"r",encoding="utf-8") as f_r:
+        reader = csv.reader(f_r)
+        for row in reader:
+            spot_name = row[0]
+            url = row[1]
+            if spot_name in spots_info:
+                spots_info[spot_name]["spot_url"] = url
 
-        #レビュー数を読み込みこむ
-        review_num_path  = f"data/number_of_review/{pref}_numOfRview.csv"
-        with open(review_num_path,"r",encoding="utf-8") as f_r:
-            reader = csv.reader(f_r)
-            spot_and_numOfrev = {row[0]: int(row[1]) for row in reader}
-
-        #スポットのurlを読み込む
-        url_info_path = f"data/url/{pref}_Spots_url_exist_3.csv"
-        with open(url_info_path,"r",encoding="utf-8") as f_r:
-            reader = csv.reader(f_r)
-            url_info = {row[0]: row[1] for row in reader}
-
-        for spot_index in range(len(spots_info)):
-            aspect_path = aspect_folder_path + spots_info[spot_index][0] + "_aspects_vecs_deleted.csv"
-            with open(aspect_path,"r",encoding="utf-8") as f_aspect:
-                reader = csv.reader(f_aspect)
-                header = next(reader)
-                rows = list(reader)
-            spot_n_aspect = []
-            asp_vec_str = []
-            asp_vec_float = []
-            cluster_vec_str = []
-            cluster_vec_float = []
-
-            for row in rows:
-                spot_n_aspect.append(row[0])
-                asp_vec_str.append(row[1])
-                cluster_vec_str.append(row[2])
-            for aspect_index in range(len(spot_n_aspect)) :
-                asp_vec_float.append([float(value) for value in asp_vec_str[aspect_index].replace("[", "").replace("]", "").replace("\n", "").split()])
-                cluster_vec_float.append([float(value) for value in cluster_vec_str[aspect_index].replace("[", "").replace("]", "").replace("\n", "").split()])
-            spots_info[spot_index].append(spot_n_aspect)
-            spots_info[spot_index].append(asp_vec_float)
-            spots_info[spot_index].append(cluster_vec_float)
-            spots_info[spot_index].append(spots_aspectsVector_float[spot_index])
-            spots_info[spot_index].append(spot_and_numOfrev.get(spots_info[spot_index][0],None))
-            spots_info[spot_index].append(url_info.get(spots_info[spot_index][0],None))
-        print(f"ファイルが見つかりました!! : {pref}")
-    except FileNotFoundError:
-        print(f"ファイルが見つかりませんでした。:{pref}")
-        spots_info = []
+    for spot_name,spot_info in spots_info.items():
+        aspect_path = aspect_folder_path + spot_name + "aspect_from_gpt_cluster_with_embeddings.csv"
+        with open(aspect_path,"r",encoding="utf-8") as f_aspect:
+            reader = csv.reader(f_aspect)
+            header = next(reader)
+            rows = list(reader)
+        for row in rows:
+            aspect = row[0]
+            vector_str = row[5]
+            vector_float = [float(value) for value in vector_str.replace("[", "").replace("]", "").replace("\n", "").split(",")]
+            spot_info["aspects"][aspect] = vector_float
+    print(f"ファイルが見つかりました!! : {pref}")
+    # except FileNotFoundError:
+    #     print(f"ファイルが見つかりませんでした。:{pref}")
+    #     spots_info = []
 
     return spots_info
 

@@ -51,17 +51,39 @@
             <p>推薦範囲: <output id="selected_range"></output> (km) </p>
             <input type="range" name="distance_bar" id="distance_bar" min="1" max="150" step="1" value="50">
         </div>
+        <input type="button" class="button rerecommend-button" id="rerecommend_button_parm" value="再推薦">
         <input type="button" class="button close-button" id="close_button_parm" value="閉じる">
     </div>
     <input type="button" class="button open-button" id="open_button_parm" value="検索条件を設定する" style="display:none;">
     <div class="recommend_style_box" id="recommend_style_box">
         <div class="recommend_plan" id="plan_level1">
             <div class="recom_plan_header" id="plan_level1_header">選択した旅行スタイル</div>
-            <div class="recom_plan_body" id="plan_level1_body"><button id="openButton">旅行スタイルを選択</button></div>
+            <div class="recom_plan_body" id="plan_level1_body">
+                <button class = "button" id="modal_level1_openButton">旅行スタイルを選択</button>
+                <button class = "button" id="deselect_button">選択解除</button>
+                <p id="selected_style">何も選択されていません</p>
+                
+            </div>
             <div id="modal_level1" class="modal">
                 <div class="modal-content">
                     <span id="modal_level1_closeButton" class="modal-close-button">&times;</span>
-                    <p>新しい枠の内容です。ここにテキストや他のコンテンツを配置できます。</p>
+                    <h2>旅行スタイルを選択してください</h2>
+                    <div class="card-container" id="travelStyleContainer">
+                        <div class="card" data-value="エンタメを楽しむ">エンタメを楽しむ</div>
+                        <div class="card" data-value="歴史を感じる">歴史を感じる</div>
+                        <div class="card" data-value="教養を高める">教養を高める</div>
+                        <div class="card" data-value="写真映えを狙う">写真映えを狙う</div>
+                        <div class="card" data-value="買い物を楽しむ">買い物を楽しむ</div>
+                        <div class="card" data-value="食事を楽しむ">食事を楽しむ</div>
+                        <div class="card" data-value="自然を楽しむ">自然を楽しむ</div>
+                        <div class="card" data-value="家族で過ごす">家族で過ごす</div>
+                        <div class="card" data-value="体験を満喫する">体験を満喫する</div>
+                        <div class="card" data-value="アートを楽しむ">アートを楽しむ</div>
+                    </div>
+                    <div class="form-buttons">
+                        <button type="button" class="button" id="submit_selection_button">選択</button>
+                        <button type="button" class="button" id="deselect_modal_button">選択解除</button>
+                    </div>
                 </div>
             </div>
         </div>

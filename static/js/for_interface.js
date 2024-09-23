@@ -114,11 +114,14 @@ function findCircleInMap(mymap) {
 
 (async () => {
     try {
+        // マップがクリックされたときの動作
         function onMapClick(e) {
             const startTime = Date.now(); // 開始時間
             const cliked_lat = e.latlng.lat;
             const cliked_lng = e.latlng.lng;
+            const selectedStyle = document.getElementById('selected_style').textContent;
 
+            console.log("選択した推薦スタイル:",selectedStyle)
             //最初に以前の推薦情報を削除する(推薦スポットのピン，情報，推薦範囲円)
             let circle = findCircleInMap(mymap)
             if (circle) {
@@ -155,7 +158,7 @@ function findCircleInMap(mymap) {
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ cliked_lat: cliked_lat, cliked_lng: cliked_lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref })
+                body: JSON.stringify({ cliked_lat: cliked_lat, cliked_lng: cliked_lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref ,selected_style:selectedStyle})
             })
                 .then((res) => {
                     if (!res.ok) {
@@ -296,6 +299,197 @@ function findCircleInMap(mymap) {
         }
 
 
+        function onReRecommendButtonClick() {
+            if (popups[0] != undefined) {
+                const startTime = Date.now();
+                const cur_lat = popups[0]._latlng.lat;
+                const cur_lng = popups[0]._latlng.lng;
+                const selectedStyle = document.getElementById('selected_style').textContent;
+
+                console.log("再推薦ボタンがクリックされました");
+                console.log("選択した推薦スタイル:",selectedStyle)
+                //最初に以前の推薦情報を削除する(推薦スポットのピン，情報，推薦範囲円)
+                let circle = findCircleInMap(mymap)
+                if (circle) {
+                    circle.remove();
+                }
+                clearRecommendInfo();
+                clearPopups(mymap, popups);
+
+                // 場所を指定する(緑色)
+                const selectedPopup = L.marker([cur_lat, cur_lng], { icon: greenIcon }).addTo(mymap).bindPopup("~計算中です~<br>少々お待ちください", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
+                popups.push(selectedPopup)
+
+                mymap.off('click', onMapClick);
+
+
+                //クリックされたときの選択した観点,推薦範囲を読み取る
+                const selectedResults = document.getElementsByClassName('selected_result');
+                const selectedResults_Array = Array.from(selectedResults);
+                const selectedResultsTextArray = []
+                selectedResults_Array.forEach(selectedresults_array_n => {
+                    selectedResultsTextArray.push(selectedresults_array_n.textContent)
+                    //console.log(selectedresults_array_n.textContent)
+                })
+
+                let lastSelectedValue = distanceBar.value;
+                console.log("選択した観点", selectedResultsTextArray);
+                console.log("距離", lastSelectedValue);
+                console.log("選択地点", cur_lat, cur_lng);
+
+
+                fetch("/get_recommended_spots", {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ cliked_lat: cur_lat, cliked_lng: cur_lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref ,selected_style:selectedStyle})
+                })
+                    .then((res) => {
+                        if (!res.ok) {
+                            throw new Error("マップクリック:fetchに失敗しました");
+                        }
+                        return res.json()
+                    })
+                    .then(data => {
+                        console.log("推薦された全スポット情報", data);
+
+                        data.forEach(async (element, index) => {
+                            console.log("スポットの情報", element)
+                            const similarAspects = element.similar_aspects
+                            const prefecture = selected_pref.replace("都", "").replace("道", "").replace("県", "");
+                            const photo_url = "static/images/" + prefecture + "/" + element.spot_name + ".jpg";
+                            const noImageUrl = "static/images/NoImage.jpg";
+                            const imgElement = document.createElement("img");
+                            imgElement.className = "spot_image"
+                            try {
+                                const popupId = "popup_" + index;
+                                const replaced_spot_name = element.spot_name.replace("second", "").replace("third", "");
+                                const spotAspectExplain = "<b>[" + (index + 1) + "]" + replaced_spot_name + "</b><br>" + highlightSimilarAspects(element.aspects, similarAspects).join(",");
+                                const recommendSpotInfo = document.getElementById("recommend_spot_info");
+                                const popupInfo = document.createElement("div");
+                                popupInfo.innerHTML = spotAspectExplain;
+                                popupInfo.dataset.popupId = popupId; // 表示するスポット情報に，マップのポップアップIDを設定
+                                popupInfo.className = "normal_info"
+                                recommendSpotInfo.appendChild(popupInfo);
+
+                                imgElement.src = await loadSpotImage(photo_url, noImageUrl);
+                                const spotAspectPopup = add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
+                                const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId }).openPopup();
+                                const tooltip_text = `<b>[${(index + 1)}]${replaced_spot_name}</b>`;
+                                marker.bindTooltip(tooltip_text, { permanent: true }).openTooltip();
+                                popups.push(marker);
+                                marker.closePopup();
+
+
+                                //map中のピンが上がった場合と下がった場合の処理
+                                marker.on("popupopen", () => {
+                                    recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+                                        element.classList.value = "unhighlighted_info";
+                                    });
+                                    const select_spotinfo = recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]')
+                                    select_spotinfo.classList.value = "highlighted_info"
+                                    scrollOffsetTop = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop
+                                    scrollOffsetBottom = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop + recommendSpotInfo.clientHeight
+                                    spotOffsetTop = select_spotinfo.offsetTop
+                                    spotOffsetBottom = select_spotinfo.offsetTop + select_spotinfo.offsetHeight
+                                    if (spotOffsetBottom > scrollOffsetBottom) {
+                                        recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop - recommendSpotInfo.clientHeight + select_spotinfo.offsetHeight
+                                    }
+                                    else if (spotOffsetTop < scrollOffsetTop) {
+                                        recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop;
+                                    }
+                                    setTimeout(() => {
+                                        mymap.off("click", onMapClick);
+                                    }, 1);
+                                })
+                                marker.on('popupclose', () => {
+                                    recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+                                        element.classList.value = "normal_info";
+                                    });
+                                    setTimeout(() => {
+                                        mymap.on("click", onMapClick);
+                                    }, 1);
+                                });
+                                // スポット情報がクリックされたときのイベント追加
+                                popupInfo.addEventListener("click", () => {
+                                    if (popupInfo.classList.contains("highlighted_info")) {
+                                        popups.forEach(marker => {
+                                            marker.closePopup(); // ポップアップを閉じる
+                                        });
+                                        recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
+                                            element.classList.value = "normal_info";
+                                        });
+                                    }
+                                    else {
+                                        const findMarker = popups.find(marker => marker._popup.options.id === popupId);
+                                        // 対応するポップアップに移動
+                                        if (findMarker) {
+                                            mymap.panTo(findMarker.getLatLng());
+                                            findMarker.openPopup();
+                                        }
+
+                                        // recommend_spot_info内の全ての要素から強調表示を削除
+                                        recommendSpotInfo.querySelectorAll(".highlighted_info").forEach(element => {
+                                            element.classList.remove("highlighted_info");
+                                            element.classList.remove("unhighlighted_info");
+                                        });
+
+                                        // クリックされたポップアップの情報を強調表示
+                                        popupInfo.classList.remove("unhighlighted_info");
+                                        popupInfo.classList.add("highlighted_info");
+
+
+                                        var AllSpotsAspectsInfo = recommendSpotInfo.getElementsByTagName("div");
+                                        // <div> 要素に対して処理を実行
+                                        for (var i = 0; i < AllSpotsAspectsInfo.length; i++) {
+                                            var divElement = AllSpotsAspectsInfo[i];
+
+                                            // highlighted クラスが付与されていない場合に unhighlighted クラスを追加
+                                            if (!divElement.classList.contains("highlighted_info")) {
+                                                divElement.classList.add("unhighlighted_info");
+                                            }
+                                        }
+                                    }
+
+                                });
+
+                            } catch (error) {
+                                console.error("Error loading image:", error.message);
+                            }
+                        });
+                        // マップ上の中心座標（例：東京タワーの座標）
+                        const centerCoordinates = [cur_lat, cur_lng];
+                        // 半径50kmの円を描画
+                        const distance = document.getElementById('distance_bar').value;
+                        const circle = L.circle(centerCoordinates, {
+                            radius: distance * 1000, // 半径50km
+                            color: 'rgba(255, 0, 0, 0.3)',
+                            fillColor: 'rgba(255, 0, 0, 0.1)', // 赤色で透明度0.2
+                            fillOpacity: 0.5
+                        }).addTo(mymap);
+
+                        // 地図を指定された半径の範囲にズームアップ
+                        mymap.fitBounds(circle.getBounds());
+
+                        mymap.on("click", onMapClick);
+                        selectedPopup.bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
+                        const endTime = Date.now(); // 終了時間
+                        console.log("処理にかかった時間 : ", endTime - startTime, "ミリ秒"); // 何ミリ秒かかったかを表示する
+
+                    })
+                    .catch(error => {
+                        console.error('マップクリック:エラー:', error);
+                    });
+            }
+            else {
+                alert("観光予定の中心地をマップをクリックして選択してください！")
+            }
+
+        }
+
+
+
         [lat_start, lng_start] = await readStartLatLngFile(selected_pref.replace("都", "").replace("道", "").replace("県", ""));
         console.log(selected_pref.replace("都", "").replace("道", "").replace("県", ""), lat_start, lng_start);
         const mymap = L.map('mapid', {
@@ -311,7 +505,15 @@ function findCircleInMap(mymap) {
         range_bar_always();
         get_keyword(selected_pref);
         add_selected_aspects();
+        // DOMが完全に読み込まれた後にイベントリスナーを設定
+        document.addEventListener('click', (event) => {
+            const button = document.getElementById('rerecommend_button_parm');
+            if (button) {
+                button.addEventListener('click', onReRecommendButtonClick);
+            }
+        });
         mymap.on("click", onMapClick);
+
     }
     catch (error) {
         console.error("Error loading pref lat and lng :", error.message);
@@ -369,23 +571,109 @@ document.getElementById("open_button_recom").addEventListener("click", function 
 });
 
 
+
+
+
+
+
+
+
+
+
+// ----------------推薦スタイルボックスを表示するコード
 const modal_level1 = document.getElementById('modal_level1');
-const openButton = document.getElementById('openButton');
+const openButton = document.getElementById('modal_level1_openButton');
 const modal1_closeButton = document.getElementById('modal_level1_closeButton');
+const cards = document.querySelectorAll('.card');
+const travelStyleContainer = document.getElementById('travelStyleContainer');
+const selectedStyle = document.getElementById('selected_style');
+const deselect_main = document.getElementById('deselect_button');
+const deselect_modal = document.getElementById('deselect_modal_button');
+const submit_selection = document.getElementById('submit_selection_button');
+
+let selected_recommend_style = null;
+
+
+function openModal() {
+    modal_level1.style.display = 'block';
+    // 既に選択されているスタイルがあれば、そのカードを選択状態にする
+    if (selected_recommend_style) {
+        cards.forEach(card => {
+            if (card.getAttribute('data-value') === selected_recommend_style) {
+                card.classList.add('selected');
+            } else {
+                card.classList.remove('selected');
+            }
+        });
+    } else {
+        cards.forEach(card => card.classList.remove('selected'));
+    }
+}
+// モーダルを閉じる関数
+function closeModal() {
+    modal_level1.style.display = 'none';
+}
+
 
 // ボタンがクリックされたときにモーダルを表示
-openButton.addEventListener('click', function () {
-    modal_level1.style.display = 'block';
-});
-
+openButton.addEventListener('click', openModal);
 // 「X」ボタンがクリックされたときにモーダルを非表示にする
-modal1_closeButton.addEventListener('click', function () {
-    modal_level1.style.display = 'none';
-});
-
+modal1_closeButton.addEventListener('click', closeModal);
 // モーダル外をクリックした場合も閉じるようにする（オプション）
 window.addEventListener('click', function (event) {
     if (event.target === modal_level1) {
         modal_level1.style.display = 'none';
     }
 });
+
+// カードがクリックされたときの処理
+travelStyleContainer.addEventListener('click', function (event) {
+    const clickedCard = event.target.closest('.card');
+    if (!clickedCard) return; // カード以外がクリックされた場合は無視
+
+    // クリックされたカードを選択状態にし、他のカードの選択を解除
+    cards.forEach(card => {
+        if (card === clickedCard) {
+            card.classList.toggle('selected');
+        } else {
+            card.classList.remove('selected');
+        }
+    });
+
+    // 選択された値を更新
+    if (clickedCard.classList.contains('selected')) {
+        selected_recommend_style = clickedCard.getAttribute('data-value');
+    } else {
+        selected_recommend_style = null;
+    }
+});
+
+// フォームの送信を処理（「選択」ボタン）
+submit_selection.addEventListener('click', function () {
+    if (selected_recommend_style) {
+        selectedStyle.textContent = selected_recommend_style;
+        closeModal();
+    } else {
+        alert('旅行スタイルを選択してください。');
+    }
+});
+
+// メインページの「選択解除」ボタンをクリックしたときの処理
+deselect_main.addEventListener('click', function () {
+    selectedStyle.textContent = '何も選択されていません';
+    selected_recommend_style = null;
+    cards.forEach(card => card.classList.remove('selected'));
+});
+
+// モーダル内の「選択解除」ボタンをクリックしたときの処理
+deselect_modal.addEventListener('click', function () {
+    // 選択されたスタイルをリセット
+    selectedStyle.textContent = '何も選択されていません';
+    selected_recommend_style = null;
+    // 全てのカードの選択状態を解除
+    cards.forEach(card => card.classList.remove('selected'));
+    // モーダルを閉じる
+    closeModal();
+});
+
+//-------------------------------------------------
