@@ -48,7 +48,7 @@ body {
     height: 20px;
     font-weight: bold;
     text-align: center;
-    color:white;
+    color: white;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     margin-bottom: 2px;
@@ -116,7 +116,6 @@ body {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     /* 文字の色を薄くする */
 }
-
 .normal_info {
     font-weight: bold;
     margin-top: 2px;
@@ -128,6 +127,8 @@ body {
     background-color: rgb(255, 255, 255);
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    overflow: visible; /* 子要素の溢れを許可 */
+    position: relative; /* 必要に応じて位置決め */
 }
 
 .button {
@@ -147,28 +148,28 @@ body {
     position: absolute;
     bottom: 2px;
     right: 7px;
-    z-index: 2;
+    z-index: 1;
 }
 
-#rerecommend_button_parm{
+#rerecommend_button_parm {
     position: absolute;
     bottom: 7px;
     right: 67px;
-    z-index: 2;
+    z-index: 1;
 }
 
 .close-button {
     position: absolute;
     bottom: 7px;
     right: 7px;
-    z-index: 2;
+    z-index: 1;
 }
 
 .open-button {
     position: fixed;
     top: 50px;
     left: 20px;
-    z-index: 2;
+    z-index: 1;
 }
 
 .remove_button {
@@ -359,8 +360,9 @@ body {
 }
 
 #recommend_spot_info {
+    position: relative;
     height: 95%;
-    width: 200px;
+    width: 250px;
     cursor: pointer;
     background-color: rgb(238, 238, 238);
     overflow-y: scroll;
@@ -377,8 +379,52 @@ body {
 
 }
 
+.star-ratings {
+    position: relative;
+    display: inline-block;
+    font-size: 17px;
+    color: lightgray;
+}
 
+.star-ratings-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    color: rgb(251, 255, 0);
+    -webkit-text-stroke: 1px black; /* 枠線の太さと色 */
+    z-index: 2;
+}
 
+.star-ratings-bottom {
+    -webkit-text-stroke: 1px black; /* 枠線の太さと色 */
+    z-index: 1;
+}
+
+.aspect-plus-rating{
+    display: flex;
+    align-items: flex-start; /* 上揃え */
+    background-color: rgb(241, 241, 241,0.5);/* 背景色（オプション） */
+    border: 1px solid #ccc; /* 枠線 */
+    border-radius: 10px;
+    margin-bottom: 2px;
+    padding: 2px;
+}
+
+.aspect{
+    max-width: 90px;
+    word-wrap: break-word;
+    flex:1;
+}
+.rating-num{
+    color:#c14343
+}
+.aspect-rating{
+    display: flex;
+    align-items:center;
+    right:5px;
+}
 
 #send_selected_results {
     display: end;
@@ -504,38 +550,50 @@ body {
 /* ーーーーーーーーーーーーーーーーー */
 
 .modal {
-    display: none; /* 初期状態では非表示 */
-    position: fixed; /* 画面全体に固定 */
+    display: none;
+    /* 初期状態では非表示 */
+    position: fixed;
+    /* 画面全体に固定 */
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.5); /* 背景を半透明に */
-    z-index: 99;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* 背景を半透明に */
+    z-index: 100;
 }
 
 /* モーダルのスタイル */
 .modal {
-    display: none; /* 初期状態は非表示 */
-    position: fixed; /* 固定位置 */
-    z-index: 1; /* 他の要素より前面に表示 */
+    display: none;
+    /* 初期状態は非表示 */
+    position: fixed;
+    /* 固定位置 */
+    z-index: 100;
+    /* 他の要素より前面に表示 */
     left: 0;
     top: 0;
-    width: 100%; /* 幅100% */
-    height: 100%; /* 高さ100% */
-    overflow: auto; /* 必要に応じてスクロール */
-    background-color: rgba(0, 0, 0, 0.4); /* 背景の半透明 */
+    width: 100%;
+    /* 幅100% */
+    height: 100%;
+    /* 高さ100% */
+    overflow: auto;
+    /* 必要に応じてスクロール */
+    background-color: rgba(0, 0, 0, 0.4);
+    /* 背景の半透明 */
 }
 
 /* モーダルコンテンツのスタイル */
 .modal-content {
     background-color: #fefefe;
-    margin: 5% auto; /* 縦中央 */
+    margin: 5% auto;
+    /* 縦中央 */
     padding: 20px;
     border: 1px solid #888;
-    width: 60%; /* 幅60% */
+    width: 60%;
+    /* 幅60% */
     border-radius: 8px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
 /* 閉じるボタンのスタイル */
@@ -582,11 +640,11 @@ body {
     border-color: #888;
 }
 
-#deselect_modal_button{
+#deselect_modal_button {
     margin-top: 10px;
     background-color: rgba(116, 10, 19, 0.74);
 }
 
-#submit_selection_button{
+#submit_selection_button {
     margin-top: 10px;
 }

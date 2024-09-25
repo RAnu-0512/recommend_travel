@@ -8,7 +8,7 @@ from return_spot import return_spot
 import argparse
 import csv
 
-top_n = 30 #推薦スポット数
+top_n = 5 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
 
 print(".....モデル読み込み中")
@@ -25,7 +25,7 @@ model = "test_model"  #テストするときのモデル
 # model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False) #モデルの読み込み
 print(".....モデル読み込み完了!!")
 
-#allpref_spots_info = {pref : [[spot_name_1, [lat_1,lng_1], [aspects_1],[asp_vectors_1],[spots_aspectsVector_float_1],spot_numOfRev,spot_url], ... ] , pref : , ...}
+# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}]
 allpref_spots_info = get_spotinfo()
 print(len(allpref_spots_info["岡山"]))
 returned_aspect_list = []
@@ -63,27 +63,30 @@ def get_prefLatLng():
 @app.route("/get_recommended_spots",methods=["POST"])
 def get_recommended_spots():
     data = request.get_json()
-    lat = float(data.get('cliked_lat'))
-    lng = float(data.get('cliked_lng'))
+    lat = float(data.get('clicked_lat'))
+    lng = float(data.get('clicked_lng'))
     pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
     rec_range = int(data.get('range'))
     selected_aspects = data.get('selected_aspects')
     selected_style = data.get("selected_style")
     print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_style: {selected_style}")
     spots_info = allpref_spots_info[pref]
-    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,spots_info,selected_style,pref,top_n) #形式 : [[spot_name,[lat,lng],aspects,[similar_aspect],score,url], ...]
+    
+    #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
+    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,spots_info,selected_style,pref,top_n) 
+    
     print("recommend_spots: ", recommend_spots[:1],"等")
     response_data = []
     #    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
     for recommend_spot in recommend_spots:
         converted_data = {
             "spot_name" : recommend_spot[0],
-            "lat" : recommend_spot[1][0],
-            "lng" : recommend_spot[1][1],
-            "aspects" : recommend_spot[2],
-            "similar_aspects" : recommend_spot[3],
-            "score" : recommend_spot[4],
-            "url" : recommend_spot[5]
+            "lat" : recommend_spot[1]["lat"],
+            "lng" : recommend_spot[1]["lng"],
+            "aspects" : recommend_spot[1]["aspects"],
+            "similar_aspects" : recommend_spot[1]["similar_aspects"],
+            "score" : recommend_spot[1]["score"],
+            "url" : recommend_spot[1]["spot_url"]
         }
         response_data.append(converted_data)
         # print("converted_data : ",converted_data)

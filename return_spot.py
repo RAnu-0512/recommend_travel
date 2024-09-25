@@ -12,8 +12,8 @@ import numpy as np
 
 
 #スコアが高いtop nスポットのスポットを返却
-# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url}}]
-#返却形式は[[spot_name,[lat,lng],aspects,score,url], ...]
+# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
+#返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
 def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, spots_info,selected_style,pref,n):
     read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99_NoIN.csv"
     read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99.csv"
@@ -49,13 +49,15 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         selected_style_word = style_dict[selected_style]
         check_needed_aspect_forStyle =return_check_needed_aspects(style_vectors_dcit[selected_style_word],clustering_aspect_dict)
     
-    
-    recommend_spots_info = []
+    #{aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}
+    recommend_spots_info = {}
     for sn,spot_info in spots_info.items():
         lat = spot_info["lat"]
         lng = spot_info["lng"]
-        aspect_list = list(spot_info["aspects"].keys())
-        asp_vec_list = list(spot_info["aspects"].values())
+        aspects_need_info = ["senti_score","count"]
+        new_aspects_dict = {} #spots_info["apsects"]を必要な情報だけに更新
+        for aspect,aspects_info_dict in spot_info["aspects"].items():
+            new_aspects_dict[aspect] = {key: aspects_info_dict[key] for key in aspects_need_info if key in aspects_info_dict}
         spots_aspectsVector = spot_info["aspectsVector"]
         spot_numOfRev = spot_info["numOfRev"]
         spot_url = spot_info["spot_url"]
@@ -67,16 +69,18 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                 selected_aspectsVector = [a + b for a, b in zip(selected_aspectsVector, style_vectors_dcit[selected_style_word])]
             score = calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev)
             if score != 0:
-                similar_aspects = []
-                for aspect in aspect_list:
+                similar_aspects_dict = {}
+                for aspect,aspects_info_dict in new_aspects_dict.items():
                     if aspect in check_needed_aspect:
-                        similar_aspects.append(aspect)
-                recommend_spots_info.append([sn,[lat,lng],aspect_list,similar_aspects,score,spot_url])
-        sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[4],reverse=True)
+                        similar_aspects_dict[aspect] = aspects_info_dict
+                recommend_spots_info[sn] = {"lat":lat,"lng":lng,"aspects":new_aspects_dict,"similar_aspects":similar_aspects_dict,"score":score,"spot_url":spot_url}
+        # sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[4],reverse=True)
+        sorted_recommend_spots_info = sorted(recommend_spots_info.items(), key=lambda item: item[1]["score"], reverse=True)
     if len(sorted_recommend_spots_info) <= n:
         return sorted_recommend_spots_info
     else:
         return sorted_recommend_spots_info[0:n]
+
 
 def cos_sim(v1, v2):
   if v1 != [0.0]*len(v1) and v2 != [0.0]*len(v2) :

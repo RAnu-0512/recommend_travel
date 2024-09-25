@@ -25,7 +25,7 @@ def get_spotinfo():
 
 #県のスポットの情報を読み込む
 def get_pref_spot_info(pref):
-    # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url}}]
+    # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
     # try:
     spots_info = {}
     latlng_info_path = f"data_beta/latlng/{pref}_latlng_review_top150.csv"
@@ -77,11 +77,19 @@ def get_pref_spot_info(pref):
             reader = csv.reader(f_aspect)
             header = next(reader)
             rows = list(reader)
-        for row in rows:
+        for row in rows:#{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}
             aspect = row[0]
+            whichFrom = row[1]
+            senti_score = row[2]
+            count = row[3]
+            count_percentage = row[4]
             vector_str = row[5]
             vector_float = [float(value) for value in vector_str.replace("[", "").replace("]", "").replace("\n", "").split(",")]
-            spot_info["aspects"][aspect] = vector_float
+            spot_info["aspects"][aspect] = {"vector":vector_float,
+                                            "whichFrom":whichFrom,
+                                            "senti_score":senti_score,
+                                            "count":count,
+                                            "count_percentage":count_percentage}
     print(f"ファイルが見つかりました!! : {pref}")
     # except FileNotFoundError:
     #     print(f"ファイルが見つかりませんでした。:{pref}")
