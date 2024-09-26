@@ -88,6 +88,12 @@ def cos_sim(v1, v2):
   else:
     return 0.0
 
+def dot_sim(v1,v2):
+    if v1 != [0.0]*len(v1) and v2 != [0.0]*len(v2) :
+        return np.dot(v1, v2)
+    else:
+        return 0.0
+
 #チェックが必要な観点リストを返す(推薦スタイルに応じた)
 def return_check_needed_aspects(style_vector,clustering_aspect_dict):
     #チェックが必要な観点を返す
@@ -129,7 +135,7 @@ def calc_w(revnum):
 
 def calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev):
     score = 0.0
-    similarity = cos_sim(selected_aspectsVector,spots_aspectsVector)
+    similarity = dot_sim(selected_aspectsVector,spots_aspectsVector)
     if spot_numOfRev != None:
         #popularity  = spot_numOfRev/max_review_num
         popularity = calc_w(spot_numOfRev)

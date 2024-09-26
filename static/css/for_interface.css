@@ -265,7 +265,7 @@ body {
 .fixed-button-container {
     position: fixed;
     top: 0;
-    right: 255px;
+    right: 305px;
     padding: 10px;
     z-index: 3;
 }
