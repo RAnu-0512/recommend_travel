@@ -517,15 +517,15 @@ function openModal() {
     }
 }
 // モーダルを閉じる関数
-function closeModal() {
-    modal_level1.style.display = 'none';
+function closeModal1() {
+    modal_level1.style.display = "none";
 }
 
 
 // ボタンがクリックされたときにモーダルを表示
 openButton.addEventListener('click', openModal);
 // 「X」ボタンがクリックされたときにモーダルを非表示にする
-modal1_closeButton.addEventListener('click', closeModal);
+modal1_closeButton.addEventListener('click', closeModal1);
 // モーダル外をクリックした場合も閉じるようにする（オプション）
 window.addEventListener('click', function (event) {
     if (event.target === modal_level1) {
@@ -559,7 +559,7 @@ travelStyleContainer.addEventListener('click', function (event) {
 submit_selection.addEventListener('click', function () {
     if (selected_recommend_style) {
         selectedStyle.textContent = selected_recommend_style;
-        closeModal();
+        closeModal1();
     } else {
         alert('旅行スタイルを選択してください。');
     }
@@ -580,7 +580,7 @@ deselect_modal.addEventListener('click', function () {
     // 全てのカードの選択状態を解除
     cards.forEach(card => card.classList.remove('selected'));
     // モーダルを閉じる
-    closeModal();
+    closeModal1();
 });
 
 //-------------------------------------------------
@@ -598,4 +598,235 @@ window.addEventListener("click", (event) => {
     if (event.target === modal) {
         modal.style.display = "none";
     }
+});
+
+
+//----------------------------ランダムスポット
+
+// モーダルの要素を取得
+const modal_level2 = document.getElementById("modal_level2");
+const closeButton = modal_level2.querySelector(".modal-level2-close-button");
+const spotsContainer = document.getElementById("spots_container");
+const refreshSpotButton = document.getElementById("refresh_spot_button");
+const loadingIndicator = document.getElementById("loading_indicator");
+
+// 選択したスポットを表示するコンテナの要素を取得
+const selectedSpotsContainer = document.getElementById("selected_spots_container");
+const selectedSpotsList = document.getElementById("selected_spots_list");
+
+// メインページの選択したスポットを表示する要素
+const selected_spot_level2 = document.getElementById("selected_spot_level2");
+
+//ボタンの要素を取得
+const completeButton = document.getElementById("complete_button");
+const deselectAllButton = document.getElementById("deselect_all_button");
+const deselect_button_level2 = document.getElementById("deselect_button_level2");
+
+// 選択したスポットを保持する配列
+let selectedSpots = [];
+
+// モーダルを閉じる関数
+function closeModal2() {
+    modal_level2.style.display = "none";
+    updateSelectedSpotsDisplay();
+}
+
+// モーダルを閉じるイベントリスナー
+closeButton.addEventListener("click", closeModal2);
+
+// モーダル外をクリックしたら閉じる
+window.addEventListener("click", (event) => {
+    if (event.target == modal_level2) {
+        closeModal2();
+    }
+});
+
+// ランダムスポットを取得してモーダルに表示する関数
+async function fetchAndDisplayRandomSpot() {
+    console.log("ランダムスポットを取得中...");
+    loadingIndicator.style.display = "block"; // ローディング開始
+    spotsContainer.innerHTML = ""; // 既存のスポット情報をクリア
+
+    try {
+        const response = await fetch('/get_random_spot', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ selected_pref: selected_pref }),
+        });
+
+        if (!response.ok) {
+            throw new Error("fetchに失敗しました");
+        }
+        const data = await response.json();
+        console.log(data); // Pythonからのデータをログに出力
+
+        const randomSpots = data.random_spots;
+        const noImageUrl = "static/images/NoImage.jpg";
+
+        // 各スポットを表示
+        for (const spot of randomSpots) {
+            const [spotName, prefecture] = spot;
+
+            // ここで写真URLがないため、代替画像を使用します
+            const photoUrl = "static/images/" + prefecture + "/" + spotName + ".jpg";
+
+            // スポットカードの作成
+            const spotCard = document.createElement("div");
+            spotCard.classList.add("spot-card");
+
+            // スポット画像の追加
+            const spotImage = document.createElement("img");
+            spotImage.src = await loadSpotImage(photoUrl, noImageUrl); // デフォルトで代替画像を設定
+            spotImage.alt = "スポット画像";
+            spotCard.appendChild(spotImage);
+
+            // スポット情報のコンテナ
+            const spotInfo = document.createElement("div");
+            spotInfo.style.flex = "1";
+
+            // スポット名の追加
+            const spotNameElement = document.createElement("h3");
+            spotNameElement.textContent = spotName;
+            spotInfo.appendChild(spotNameElement);
+
+            // スポットの都道府県の追加
+            const prefectureElement = document.createElement("p");
+            prefectureElement.textContent = prefecture;
+            spotInfo.appendChild(prefectureElement);
+
+            // チェックボックスの追加
+            const checkbox = document.createElement("input");
+            checkbox.type = "checkbox";
+            checkbox.id = `spot_${spotName}`;
+            checkbox.value = spotName;
+            checkbox.checked = selectedSpots.includes(spotName);
+            checkbox.addEventListener("change", handleSpotSelection);
+
+            const label = document.createElement("label");
+            label.htmlFor = `spot_${spotName}`;
+            label.textContent = "選択";
+
+            spotInfo.appendChild(checkbox);
+            spotInfo.appendChild(label);
+
+            spotCard.appendChild(spotInfo);
+
+            // スポットカードをコンテナに追加
+            spotsContainer.appendChild(spotCard);
+        }
+
+    } catch (error) {
+        console.error('エラー:', error);
+        const errorMsg = document.createElement("p");
+        errorMsg.textContent = "スポットの取得中にエラーが発生しました。";
+        spotsContainer.appendChild(errorMsg);
+        const noImage = document.createElement("img");
+        noImage.src = "/static/images/no_image_available.png"; // 代替画像を設定
+        noImage.alt = "スポット画像";
+        noImage.style.width = "100%";
+        noImage.style.maxHeight = "400px";
+        spotsContainer.appendChild(noImage);
+    } finally {
+        loadingIndicator.style.display = "none"; // ローディング終了
+    }
+}
+
+// スポットの選択/解除を処理する関数
+function handleSpotSelection(event) {
+    const spotName = event.target.value;
+    if (event.target.checked) {
+        if (!selectedSpots.includes(spotName)) {
+            selectedSpots.push(spotName);
+        }
+    } else {
+        selectedSpots = selectedSpots.filter(name => name !== spotName);
+    }
+    updateSelectedSpotsInModal();
+}
+
+// モーダル内の選択したスポットを更新する関数
+function updateSelectedSpotsInModal() {
+    selectedSpotsList.innerHTML = '';
+    selectedSpots.forEach(spot => {
+        const li = document.createElement('li');
+
+        const span = document.createElement('span');
+        span.textContent = spot;
+
+        const removeButton = document.createElement('button');
+        removeButton.textContent = 'X';
+        removeButton.classList.add('remove-spot');
+        removeButton.addEventListener('click', () => {
+            removeSpot(spot);
+        });
+
+        li.appendChild(span);
+        li.appendChild(removeButton);
+        selectedSpotsList.appendChild(li);
+    });
+}
+// スポットを個別に削除する関数
+function removeSpot(spotName) {
+    // selectedSpotsから削除
+    selectedSpots = selectedSpots.filter(name => name !== spotName);
+
+    // チェックボックスを解除
+    const checkbox = document.getElementById(`spot_${spotName}`);
+    if (checkbox) {
+        checkbox.checked = false;
+    }
+
+    // モーダル内のリストを更新
+    updateSelectedSpotsInModal();
+}
+
+// モーダルを閉じた際に選択したスポットをメインに表示する関数
+function updateSelectedSpotsDisplay() {
+    if (selectedSpots.length > 0) {
+        selected_spot_level2.textContent = selectedSpots.join(', ');
+    } else {
+        selected_spot_level2.textContent = '何も選択されていません';
+    }
+}
+
+// 「完了」ボタンのクリックイベント
+completeButton.addEventListener("click", () => {
+    closeModal2();
+});
+
+// 「すべて解除」ボタンのクリックイベント
+deselectAllButton.addEventListener("click", () => {
+    selectedSpots = [];
+    updateSelectedSpotsInModal();
+    // チェックボックスも全て解除
+    const checkboxes = spotsContainer.querySelectorAll('input[type="checkbox"]');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = false;
+    });
+    updateSelectedSpotsDisplay();
+});
+
+// 「違うスポットを見る」ボタンのクリックイベント
+refreshSpotButton.addEventListener("click", async () => {
+    await fetchAndDisplayRandomSpot();
+});
+
+// 「スポットを選択」ボタンが押されたらモーダルを開く
+document.getElementById("modal_level2_openButton").addEventListener("click", async () => {
+    await fetchAndDisplayRandomSpot();
+    modal_level2.style.display = "block";
+});
+
+// 「選択解除」ボタンのクリックイベント
+deselect_button_level2.addEventListener("click", function () {
+    selectedSpots = [];
+    updateSelectedSpotsInModal();
+    // チェックボックスも全て解除
+    const checkboxes = spotsContainer.querySelectorAll('input[type="checkbox"]');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = false;
+    });
+    updateSelectedSpotsDisplay();
 });

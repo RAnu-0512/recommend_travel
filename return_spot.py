@@ -14,9 +14,9 @@ import numpy as np
 #スコアが高いtop nスポットのスポットを返却
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
 #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
-def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, spots_info,selected_style,pref,n):
+def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, spots_info,cluster_info,selected_style,pref,n):
     read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99_NoIN.csv"
-    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99.csv"
+    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99_withEmbeddings.csv"
     #スタイルベクトルを読み込む
     style_vectors_dcit = {}
     with open(read_style_vector_path, 'r', newline='', encoding='utf-8') as csvfile:
@@ -28,13 +28,12 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
             style_vectors_dcit[style_name] = style_vector_float
     
     #クラスタリングした観点を読み込む
-    clustering_aspect_dict = {}
-    with open(read_clustering_path, 'r', newline='', encoding='utf-8') as csvfile:
-        csv_reader = csv.reader(csvfile)
-        for row in csv_reader:
-            # 各行の要素数を取得
-            clustering_aspect_dict[row[0]] = row[1:]     
-            
+    # clustering_aspect_dict = {}
+    # with open(read_clustering_path, 'r', newline='', encoding='utf-8') as csvfile:
+    #     csv_reader = csv.reader(csvfile)
+    #     for row in csv_reader:
+    #         # 各行の要素数を取得
+    #         clustering_aspect_dict[row[0]] = row[2:]     
     style_dict = {"アートを楽しむ":"art",
                   "体験を満喫する":"experience",
                   "家族で過ごす":"family",
@@ -47,7 +46,7 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                   "エンタメを楽しむ":"entertainment"}
     if selected_style != "何も選択されていません":    
         selected_style_word = style_dict[selected_style]
-        check_needed_aspect_forStyle =return_check_needed_aspects(style_vectors_dcit[selected_style_word],clustering_aspect_dict)
+        check_needed_aspect_forStyle =return_check_needed_aspects(style_vectors_dcit[selected_style_word],cluster_info)
     
     #{aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}
     recommend_spots_info = {}
@@ -99,8 +98,8 @@ def return_check_needed_aspects(style_vector,clustering_aspect_dict):
     #チェックが必要な観点を返す
     check_needed_aspect = []
     for vector_index in range(len(style_vector)):
-        if style_vector[vector_index] != 0:
-            check_needed_aspect += clustering_aspect_dict[f"cluster{vector_index:03}"]
+        if style_vector[vector_index] > 0.1:
+            check_needed_aspect += clustering_aspect_dict[f"cluster{vector_index:04}"]
     return check_needed_aspect
     #return値は選択ベクトルと、そのベクトルが1以上のインデックス
     

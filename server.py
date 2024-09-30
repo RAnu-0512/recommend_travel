@@ -5,9 +5,10 @@ from read_sp_info import get_spotinfo
 from return_aspect import return_aspect,popular_aspects
 from calculate_distance import calc_near_spot
 from return_spot import return_spot
+from read_cluster_info import get_clusterinfo
 import argparse
 import csv
-
+import random
 top_n = 5 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
 
@@ -27,6 +28,7 @@ print(".....モデル読み込み完了!!")
 
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}]
 allpref_spots_info = get_spotinfo()
+allpref_clusters_info = get_clusterinfo()
 print(len(allpref_spots_info["岡山"]))
 returned_aspect_list = []
 returned_distance_range = 0
@@ -71,9 +73,10 @@ def get_recommended_spots():
     selected_style = data.get("selected_style")
     print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_style: {selected_style}")
     spots_info = allpref_spots_info[pref]
+    cluster_info = allpref_clusters_info[pref]
     
     #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
-    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,spots_info,selected_style,pref,top_n) 
+    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,spots_info,cluster_info,selected_style,pref,top_n) 
     
     print("recommend_spots: ", recommend_spots[:1],"等")
     response_data = []
@@ -91,6 +94,15 @@ def get_recommended_spots():
         response_data.append(converted_data)
         # print("converted_data : ",converted_data)
     return jsonify(response_data)
+
+@app.route("/get_random_spot",methods=["POST"])
+def get_random_spot():
+    data=request.get_json()
+    pref = data.get("selected_pref")
+    print(f"get_random_spot selected_pref:{pref}")
+    list_spots = [["金の湯","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["金の湯","兵庫"],["金の湯","兵庫"],["金の湯","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"]]
+    random_spots = random.sample(list_spots, min(len(list_spots), 5)) 
+    return {"random_spots":random_spots}
 
 @app.route("/search_form", methods=["POST"])
 def get_search_keyword():

@@ -26,20 +26,17 @@
             <input class="button" type="submit" id="pref-select-button" value="移動">
         </div>
     </form>
-    <!-- <p id="explain">検索したい観光スポットの特徴を入力してください</p> -->
     <div id="map_info">
         <div id="mapid"></div>
         <div id="recommend_spot_info_frame">
             <div id="recommend_spot_info_header">推薦されたスポット</div>
             <div id="recommend_spot_info"></div>
         </div>
-        <!-- 詳細モーダル -->
+        <!-- スポットの詳細モーダル -->
         <div id="spotinfo_modal" class="spotinfo_modal">
             <div class="spotinfo-modal-content">
                 <span class="spot-modal-close-button">&times;</span>
-                <div id="spot-modal-content">
-                    <!-- 詳細情報がここに挿入されます -->
-                </div>
+                <div id="spot-modal-content"></div>
             </div>
         </div>
     </div>
@@ -72,8 +69,8 @@
                 <button class="deselect_button" id="deselect_button_level1">選択解除</button>
                 <p id="selected_style">何も選択されていません</p>
             </div>
-            <div id="modal_level1" class="modal">
-                <div class="modal-content">
+            <div id="modal_level1" class="modal_level1">
+                <div class="modal-content-level1">
                     <span id="modal_level1_closeButton" class="modal-close-button">&times;</span>
                     <h2>旅行スタイルを選択してください</h2>
                     <div class="card-container" id="travelStyleContainer">
@@ -90,7 +87,7 @@
                     </div>
                     <div class="form-buttons">
                         <button type="button" class="button" id="submit_selection_button">選択</button>
-                        <button type="button" class="button" id="deselect_modal_button">選択解除</button>
+                        <button type="button" class="deselect_button" id="deselect_modal_button">選択解除</button>
                     </div>
                 </div>
             </div>
@@ -101,6 +98,30 @@
                 <button class="button" id="modal_level2_openButton">スポットを選択</button>
                 <button class="deselect_button" id="deselect_button_level2">選択解除</button>
                 <p id="selected_spot_level2">何も選択されていません</p>
+            </div>
+            <div id="modal_level2" class="modal_level2">
+                <div class="modal-content-level2">
+                    <span class="modal-level2-close-button">&times;</span>
+                    <h2>ランダムスポット</h2>
+                    <div class="modal-body">
+                        <div id="spots_container" class="spots-container">
+                            <!-- スポット情報がここに表示されます -->
+                        </div>
+                        <div id="selected_spots_container" class="selected-spots-container">
+                            <h3>選択したスポット</h3>
+                            <ul id="selected_spots_list">
+                                <!-- 選択したスポットがここにリスト表示されます -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div id="loading_indicator">読み込み中...</div>
+                    <div class="modal-level2-buttons">
+                        <button id="complete_button" class="button">完了</button>
+                        <button id="deselect_all_button" class="deselect_button">すべて解除</button>
+                        <button id="refresh_spot_button" class="button">違うスポットを見る</button>
+
+                    </div>
+                </div>
             </div>
         </div>
         <div class="recommend_plan" id="plan_level3">

@@ -36,7 +36,7 @@ function get_keyword(selected_pref) {
             headers: {
                 'Content-Type': 'application/json',
             },
-            body: JSON.stringify({ search_keyword: search_keyword ,selected_pref: selected_pref }), 
+            body: JSON.stringify({selected_pref: selected_pref }), 
         })
             .then((res) => {
                 if (!res.ok) {
