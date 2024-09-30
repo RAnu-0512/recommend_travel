@@ -184,7 +184,7 @@ function senti2StarsEval(senti_socre) {
                                 return scoreB - scoreA; // 降順にソート
                             });
                         const similarAspects = sortedSimilarAspects
-                            .map(([aspect, data]) => 
+                            .map(([aspect, data]) =>
                                 `<span class = "aspect-plus-rating">
                                     <span class = "aspect">${aspect}</span>
                                     <span class = "aspect-rating"> 
@@ -204,44 +204,91 @@ function senti2StarsEval(senti_socre) {
                         try {
                             const popupId = "popup_" + index;
                             const replaced_spot_name = element.spot_name.replace("second", "").replace("third", "");
-                            const spotAspectExplain = "<b>[" + (index + 1) + "]" + replaced_spot_name + "</b><br>" + similarAspects
+                            const spotAspectExplain = `
+                                                        <span class="spot-info-container">
+                                                            <span class="spot-info-name">
+                                                            <b>[${index + 1}] ${replaced_spot_name}</b>
+                                                            </span>
+                                                            <button class="spotinfo_detailButton" data-popup-id="${popupId}">詳細を見る</button>
+                                                            <span class="spot-aspects">
+                                                            ${similarAspects}
+                                                            </span>
+                                                        </span>
+                                                    `;
                             const recommendSpotInfo = document.getElementById("recommend_spot_info");
+
+                            // ポップアップ情報の作成
                             const popupInfo = document.createElement("div");
                             popupInfo.innerHTML = spotAspectExplain;
-                            popupInfo.dataset.popupId = popupId; // 表示するスポット情報に，マップのポップアップIDを設定
-                            popupInfo.className = "normal_info"
+                            popupInfo.dataset.popupId = popupId; // マップのポップアップIDを設定
+                            popupInfo.className = "normal_info";
+
+                            // スポット情報リストに追加
                             recommendSpotInfo.appendChild(popupInfo);
 
+                            // 「詳細を見る」ボタンのクリックイベントを設定
+                            const spotinfo_detailButton = popupInfo.querySelector(".spotinfo_detailButton");
+                            spotinfo_detailButton.addEventListener("click", (event) => {
+                                event.stopPropagation(); // 親要素のクリックイベントを防ぐ
+                                const modal = document.getElementById("spotinfo_modal");
+                                const modalBody = document.getElementById("spot-modal-content");
+
+                                // モーダルの内容を設定（必要に応じて詳細情報を追加）
+                                modalBody.innerHTML = `
+                                    <h2>${replaced_spot_name} の詳細</h2>
+                                    <p>URL: <a href="${element.url}" target="_blank">${element.url}</a></p>
+                                    <img src="${photo_url}" alt="${replaced_spot_name}" style="max-width: 100%; height: auto;">
+                                    <p>詳細な説明や他の情報をここに追加できます。</p>
+                                `;
+
+                                // モーダルを表示
+                                modal.style.display = "block";
+                            });
+
+                            // 画像の読み込み
                             imgElement.src = await loadSpotImage(photo_url, noImageUrl);
+
+                            // ポップアップHTMLの作成
                             const spotAspectPopup = add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
-                            const marker = L.marker([element.lat, element.lng]).addTo(mymap).bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId }).openPopup();
-                            const tooltip_text = `<b>[${(index + 1)}]${replaced_spot_name}</b>`;
+
+                            // マーカーの作成と設定
+                            const marker = L.marker([element.lat, element.lng])
+                                .addTo(mymap)
+                                .bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId })
+                                .openPopup();
+
+                            // ツールチップの設定
+                            const tooltip_text = `<b>[${index + 1}]${replaced_spot_name}</b>`;
                             marker.bindTooltip(tooltip_text, { permanent: true }).openTooltip();
+
+                            // マーカーをポップアップ配列に追加
                             popups.push(marker);
                             marker.closePopup();
 
-
-                            //map中のピンが上がった場合と下がった場合の処理
+                            // ポップアップのイベント設定
                             marker.on("popupopen", () => {
                                 recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
                                     element.classList.value = "unhighlighted_info";
                                 });
-                                const select_spotinfo = recommendSpotInfo.querySelector('[data-popup-id="' + marker._popup.options.id + '"]')
-                                select_spotinfo.classList.value = "highlighted_info"
-                                scrollOffsetTop = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop
-                                scrollOffsetBottom = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop + recommendSpotInfo.clientHeight
-                                spotOffsetTop = select_spotinfo.offsetTop
-                                spotOffsetBottom = select_spotinfo.offsetTop + select_spotinfo.offsetHeight
+                                const select_spotinfo = recommendSpotInfo.querySelector(`[data-popup-id="${marker._popup.options.id}"]`);
+                                select_spotinfo.classList.value = "highlighted_info";
+
+                                const scrollOffsetTop = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop;
+                                const scrollOffsetBottom = recommendSpotInfo.scrollTop + recommendSpotInfo.offsetTop + recommendSpotInfo.clientHeight;
+                                const spotOffsetTop = select_spotinfo.offsetTop;
+                                const spotOffsetBottom = select_spotinfo.offsetTop + select_spotinfo.offsetHeight;
+
                                 if (spotOffsetBottom > scrollOffsetBottom) {
-                                    recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop - recommendSpotInfo.clientHeight + select_spotinfo.offsetHeight
-                                }
-                                else if (spotOffsetTop < scrollOffsetTop) {
+                                    recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop - recommendSpotInfo.clientHeight + select_spotinfo.offsetHeight;
+                                } else if (spotOffsetTop < scrollOffsetTop) {
                                     recommendSpotInfo.scrollTop = spotOffsetTop - recommendSpotInfo.offsetTop;
                                 }
+
                                 setTimeout(() => {
                                     mymap.off("click", onMapClick);
                                 }, 1);
-                            })
+                            });
+
                             marker.on('popupclose', () => {
                                 recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
                                     element.classList.value = "normal_info";
@@ -250,6 +297,7 @@ function senti2StarsEval(senti_socre) {
                                     mymap.on("click", onMapClick);
                                 }, 1);
                             });
+
                             // スポット情報がクリックされたときのイベント追加
                             popupInfo.addEventListener("click", () => {
                                 if (popupInfo.classList.contains("highlighted_info")) {
@@ -259,8 +307,7 @@ function senti2StarsEval(senti_socre) {
                                     recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
                                         element.classList.value = "normal_info";
                                     });
-                                }
-                                else {
+                                } else {
                                     const findMarker = popups.find(marker => marker._popup.options.id === popupId);
                                     // 対応するポップアップに移動
                                     if (findMarker) {
@@ -278,11 +325,10 @@ function senti2StarsEval(senti_socre) {
                                     popupInfo.classList.remove("unhighlighted_info");
                                     popupInfo.classList.add("highlighted_info");
 
-
-                                    var AllSpotsAspectsInfo = recommendSpotInfo.getElementsByTagName("div");
+                                    const AllSpotsAspectsInfo = recommendSpotInfo.getElementsByTagName("div");
                                     // <div> 要素に対して処理を実行
-                                    for (var i = 0; i < AllSpotsAspectsInfo.length; i++) {
-                                        var divElement = AllSpotsAspectsInfo[i];
+                                    for (let i = 0; i < AllSpotsAspectsInfo.length; i++) {
+                                        const divElement = AllSpotsAspectsInfo[i];
 
                                         // highlighted クラスが付与されていない場合に unhighlighted クラスを追加
                                         if (!divElement.classList.contains("highlighted_info")) {
@@ -290,8 +336,8 @@ function senti2StarsEval(senti_socre) {
                                         }
                                     }
                                 }
-
                             });
+
 
                         } catch (error) {
                             console.error("Error loading image:", error.message);
@@ -448,7 +494,7 @@ const modal1_closeButton = document.getElementById('modal_level1_closeButton');
 const cards = document.querySelectorAll('.card');
 const travelStyleContainer = document.getElementById('travelStyleContainer');
 const selectedStyle = document.getElementById('selected_style');
-const deselect_main = document.getElementById('deselect_button');
+const deselect_level1 = document.getElementById('deselect_button_level1');
 const deselect_modal = document.getElementById('deselect_modal_button');
 const submit_selection = document.getElementById('submit_selection_button');
 
@@ -520,7 +566,7 @@ submit_selection.addEventListener('click', function () {
 });
 
 // メインページの「選択解除」ボタンをクリックしたときの処理
-deselect_main.addEventListener('click', function () {
+deselect_level1.addEventListener('click', function () {
     selectedStyle.textContent = '何も選択されていません';
     selected_recommend_style = null;
     cards.forEach(card => card.classList.remove('selected'));
@@ -538,3 +584,18 @@ deselect_modal.addEventListener('click', function () {
 });
 
 //-------------------------------------------------
+
+// モーダルの閉じるボタン
+const spot_modal_closeButton = document.querySelector(".spot-modal-close-button");
+spot_modal_closeButton.addEventListener("click", () => {
+    const modal = document.getElementById("spotinfo_modal");
+    modal.style.display = "none";
+});
+
+// モーダル外をクリックしたら閉じる
+window.addEventListener("click", (event) => {
+    const modal = document.getElementById("spotinfo_modal");
+    if (event.target === modal) {
+        modal.style.display = "none";
+    }
+});

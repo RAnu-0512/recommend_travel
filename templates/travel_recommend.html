@@ -33,6 +33,15 @@
             <div id="recommend_spot_info_header">推薦されたスポット</div>
             <div id="recommend_spot_info"></div>
         </div>
+        <!-- 詳細モーダル -->
+        <div id="spotinfo_modal" class="spotinfo_modal">
+            <div class="spotinfo-modal-content">
+                <span class="spot-modal-close-button">&times;</span>
+                <div id="spot-modal-content">
+                    <!-- 詳細情報がここに挿入されます -->
+                </div>
+            </div>
+        </div>
     </div>
     <div class="parameters" id="parameters">
         <form class="search_form" id="search_form" action="/search_form" method="POST">
@@ -59,10 +68,9 @@
         <div class="recommend_plan" id="plan_level1">
             <div class="recom_plan_header" id="plan_level1_header">あなたの旅行スタイル</div>
             <div class="recom_plan_body" id="plan_level1_body">
-                <button class = "button" id="modal_level1_openButton">旅行スタイルを選択</button>
-                <button class = "button" id="deselect_button">選択解除</button>
+                <button class="button" id="modal_level1_openButton">旅行スタイルを選択</button>
+                <button class="deselect_button" id="deselect_button_level1">選択解除</button>
                 <p id="selected_style">何も選択されていません</p>
-                
             </div>
             <div id="modal_level1" class="modal">
                 <div class="modal-content">
@@ -89,11 +97,19 @@
         </div>
         <div class="recommend_plan" id="plan_level2">
             <div class="recom_plan_header" id="plan_level2_header">行ってみたいスポット</div>
-            <div class="recom_plan_body" id="plan_level2_body">行ってみたいスポットを選択</div>
+            <div class="recom_plan_body" id="plan_level2_body">
+                <button class="button" id="modal_level2_openButton">スポットを選択</button>
+                <button class="deselect_button" id="deselect_button_level2">選択解除</button>
+                <p id="selected_spot_level2">何も選択されていません</p>
+            </div>
         </div>
         <div class="recommend_plan" id="plan_level3">
             <div class="recom_plan_header" id="plan_level3_header">行って良かったスポット</div>
-            <div class="recom_plan_body" id="plan_level3_body">行って良かったスポットを選択</div>
+            <div class="recom_plan_body" id="plan_level3_body">
+                <button class="button" id="modal_level3_openButton">スポットを検索</button>
+                <button class="deselect_button" id="deselect_button_level3">選択解除</button>
+                <p id="selected_spot_level3">何も選択されていません</p>
+            </div>
         </div>
         <input type="button" class="button close-button" id="close_button_recom" value="閉じる">
     </div>
