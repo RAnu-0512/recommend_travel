@@ -177,13 +177,14 @@ function senti2StarsEval(senti_socre) {
                     //      "similar_aspects":{aspect:{"senti_score":float,"count":float}},"score" :float,"url":str}
                     data.forEach(async (element, index) => {
                         console.log("スポットの情報", element)
-                        const sortedSimilarAspects = Object.entries(element.similar_aspects)
+                        function aspectsAddEvaluation(aspects){
+                            const sortedAspects = Object.entries(aspects)
                             .sort((a, b) => {
                                 const scoreA = senti2StarsEval(a[1].senti_score);
                                 const scoreB = senti2StarsEval(b[1].senti_score);
                                 return scoreB - scoreA; // 降順にソート
                             });
-                        const similarAspects = sortedSimilarAspects
+                        const aspectsHtml = sortedAspects
                             .map(([aspect, data]) =>
                                 `<span class = "aspect-plus-rating">
                                     <span class = "aspect">${aspect}</span>
@@ -196,6 +197,9 @@ function senti2StarsEval(senti_socre) {
                                     </span>
                                 </span>`)
                             .join("");
+                            return aspectsHtml
+                        }
+                        const similarAspects = aspectsAddEvaluation(element.similar_aspects)
                         const prefecture = selected_pref.replace("都", "").replace("道", "").replace("県", "");
                         const photo_url = "static/images/" + prefecture + "/" + element.spot_name + ".jpg";
                         const noImageUrl = "static/images/NoImage.jpg";
@@ -238,7 +242,7 @@ function senti2StarsEval(senti_socre) {
                                     <h2>${replaced_spot_name} の詳細</h2>
                                     <p>URL: <a href="${element.url}" target="_blank">${element.url}</a></p>
                                     <img src="${photo_url}" alt="${replaced_spot_name}" style="max-width: 100%; height: auto;">
-                                    <p>詳細な説明や他の情報をここに追加できます。</p>
+                                    <p>${aspectsAddEvaluation(element.aspects)}</p>
                                 `;
 
                                 // モーダルを表示

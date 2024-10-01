@@ -9,7 +9,7 @@ from read_cluster_info import get_clusterinfo
 import argparse
 import csv
 import random
-top_n = 5 #推薦スポット数
+top_n = 20 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
 
 print(".....モデル読み込み中")

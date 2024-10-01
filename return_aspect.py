@@ -59,7 +59,7 @@ def divide_list_int(list1,num1):
     return [x/num1 for x in list1]
 
 
-# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},spots_aspectsVector:vector,spot_numOfRev:number,spot_url:url}}]#上位top_nの観点を返す[観点1,観点2,観点3, ... ]
+# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
 #クエリと似ている観点を返す
 # def return_aspect(query,spots_info,aspect_top_n,model):
 #     result = []
@@ -76,10 +76,19 @@ def divide_list_int(list1,num1):
 #     result = [item[0][0] for item in sorted_aspect[:aspect_top_n]]
 #     return result
 
+# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
 # # #テスト関数
 def return_aspect(query,spots_info,aspect_top_n,model):
-    return ["自然","絶景","温泉","ひな祭り","自転車","散策","神社","子供","家族","ホテル"]
-
+    similar_aspect = []
+    kanzen_icchi = []
+    for spot_name,spot_info in spots_info.items():
+        for aspect,aspect_info in spot_info["aspects"].items():     
+            if aspect == query:
+                kanzen_icchi.append(aspect)
+            elif query in aspect:
+                similar_aspect.append(aspect)
+    similar_aspect = list(set(kanzen_icchi))+list(set(similar_aspect))
+    return similar_aspect[:aspect_top_n]
 
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},spots_aspectsVector:vector,spot_numOfRev:number,spot_url:url}}]
 def popular_aspects(spots_info,n):
