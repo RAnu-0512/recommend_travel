@@ -62,6 +62,7 @@ body {
     border-bottom-right-radius: 20px;
     margin-bottom: 5px;
     background-color: rgb(241, 241, 241);
+    overflow: auto;
 }
 
 
@@ -559,21 +560,6 @@ body {
 }
 
 /* ーーーーーーーーーーーーーーーーー */
-
-.modal_level1 {
-    display: none;
-    /* 初期状態では非表示 */
-    position: fixed;
-    /* 画面全体に固定 */
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.5);
-    /* 背景を半透明に */
-    z-index: 100;
-}
-
 /* モーダルのスタイル */
 .modal_level1 {
     display: none;
@@ -662,6 +648,9 @@ body {
 
 /* ーーーーーーーーーーーーーーーーー */
 
+
+
+
 /* モーダルのオーバーレイ */
 .modal_level2 {
     display: none; /* 初期状態は非表示 */
@@ -680,11 +669,10 @@ body {
 .modal-content-level2 {
     position: relative; /* 絶対位置の子要素（閉じるボタン）を相対的に配置 */
     background-color: #fefefe;
-    margin: auto;
-    padding: 20px;
+    margin: -3.5% auto;
+    padding: 10px;
     border: 1px solid #888;
-    width: 80%;
-    max-width: 600px;
+    width: 70%;
     box-shadow: 0 5px 15px rgba(0,0,0,0.3);
     border-radius: 5px;
     display: flex;
@@ -692,12 +680,12 @@ body {
     align-items: center; /* 必要に応じて調整 */
 }
 
+
 /* モーダルボディ */
 .modal-body {
     display: flex;
     justify-content: space-between;
     width: 100%;
-    margin-top: 20px;
 }
 
 /* 閉じるボタンのスタイル */
@@ -719,16 +707,21 @@ body {
 }
 /* スポットコンテナ */
 .spots-container {
-    width: 60%;
-    max-height: 400px;
+    display: flex;               /* Flexboxを有効にする */
+    flex-wrap: wrap;             /* 必要に応じて折り返す */
+    justify-content: flex-start; /* 左寄せに揃える */
+    gap: 5px;                   /* アイテム間のスペース */
+    width: 100%;
+    max-height: 500px;
     overflow-y: auto;
     border-right: 1px solid #ccc;
     padding-right: 10px;
 }
 
+
 /* 選択されたスポットコンテナ */
 .selected-spots-container {
-    width: 35%;
+    width: 20%;
     max-height: 400px;
     overflow-y: auto;
     padding-left: 10px;
@@ -797,7 +790,8 @@ body {
     justify-content: flex-start; /* 初期位置は左寄せ */
     align-items: center;
     width: 100%; /* ボタンコンテナの幅を100%に設定 */
-    margin-top: 20px;
+    margin-top: 15px;
+    overflow: auto;
 }
 
 /* ボタン共通のスタイル */
@@ -857,20 +851,27 @@ body {
     }
 
     .spot-card {
-        width: 100%;
+        width: calc(50% - 15px); /* 2列に調整 */
     }
 
     .modal-level2-buttons {
         flex-direction: column;
         align-items: stretch;
+        overflow: auto;
     }
-    #complete_button,
-    #deselect_all_button,
-    #refresh_spot_button {
+
+    .complete-button,
+    .deselect-all-button,
+    .refresh-spot-button {
         width: 100%;
         margin: 5px 0;
     }
+}
 
+@media (max-width: 480px) {
+    .spot-card {
+        width: 100%;              /* 1列に調整 */
+    }
 }
 
 #refresh_spot_button{
@@ -907,7 +908,7 @@ body {
 
 .spotinfo-modal-content {
     background-color: #fefefe;
-    margin: 10% auto;
+    margin: 8% auto;
     /* 上下に余白 */
     padding: 20px;
     border: 1px solid #888;

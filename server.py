@@ -4,7 +4,7 @@ import gensim
 from read_sp_info import get_spotinfo
 from return_aspect import return_aspect,popular_aspects
 from calculate_distance import calc_near_spot
-from return_spot import return_spot
+from return_spot import return_spot,get_other_pref_spot
 from read_cluster_info import get_clusterinfo
 import argparse
 import csv
@@ -29,7 +29,8 @@ print(".....モデル読み込み完了!!")
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}]
 allpref_spots_info = get_spotinfo()
 allpref_clusters_info = get_clusterinfo()
-print(len(allpref_spots_info["岡山"]))
+
+list_spots = []
 returned_aspect_list = []
 returned_distance_range = 0
 
@@ -71,12 +72,13 @@ def get_recommended_spots():
     rec_range = int(data.get('range'))
     selected_aspects = data.get('selected_aspects')
     selected_style = data.get("selected_style")
-    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_style: {selected_style}")
+    selected_spots = data.get("selectedSpots")
+    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_style: {selected_style}\n selected_spots: {selected_spots}")
     spots_info = allpref_spots_info[pref]
     cluster_info = allpref_clusters_info[pref]
     
     #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
-    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,spots_info,cluster_info,selected_style,pref,top_n) 
+    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,selected_style,selected_spots,pref,top_n) 
     
     print("recommend_spots: ", recommend_spots[:1],"等")
     response_data = []
@@ -97,11 +99,17 @@ def get_recommended_spots():
 
 @app.route("/get_random_spot",methods=["POST"])
 def get_random_spot():
+    global list_spots
     data=request.get_json()
-    pref = data.get("selected_pref")
+    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
     print(f"get_random_spot selected_pref:{pref}")
-    list_spots = [["金の湯","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["金の湯","兵庫"],["金の湯","兵庫"],["金の湯","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"]]
-    random_spots = random.sample(list_spots, min(len(list_spots), 5)) 
+    if list_spots != []: #計算量を減らすため
+        if list_spots[0][0] != pref:
+            list_spots = get_other_pref_spot(pref,allpref_spots_info)
+    else:
+        list_spots = get_other_pref_spot(pref,allpref_spots_info)
+    # list_spots = [["金の湯","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["金の湯","兵庫"],["金の湯","兵庫"],["金の湯","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"]]
+    random_spots = random.sample(list_spots[1:], min(len(list_spots[1:]), 15)) 
     return {"random_spots":random_spots}
 
 @app.route("/search_form", methods=["POST"])

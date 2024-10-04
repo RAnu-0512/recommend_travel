@@ -80,9 +80,9 @@ def get_pref_spot_info(pref):
         for row in rows:#{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}
             aspect = row[0]
             whichFrom = row[1]
-            senti_score = row[2]
-            count = row[3]
-            count_percentage = row[4]
+            senti_score = float(row[2])
+            count = float(row[3])
+            count_percentage = float(row[4])
             vector_str = row[5]
             vector_float = [float(value) for value in vector_str.replace("[", "").replace("]", "").replace("\n", "").split(",")]
             spot_info["aspects"][aspect] = {"vector":vector_float,

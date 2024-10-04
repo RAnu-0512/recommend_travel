@@ -125,8 +125,8 @@ function senti2StarsEval(senti_socre) {
         // 推薦情報を受け取り、displayに表示する
         function display_recommend_spot(lat, lng) {
             const selectedStyle = document.getElementById('selected_style').textContent;
+            const selectedSpotsHTML = document.getElementById('selected_spot_level2').innerHTML;
             const startTime = Date.now(); // 開始時間
-            console.log("選択した推薦スタイル:", selectedStyle)
             //最初に以前の推薦情報を削除する(推薦スポットのピン，情報，推薦範囲円)
             let circle = findCircleInMap(mymap)
             if (circle) {
@@ -151,19 +151,21 @@ function senti2StarsEval(senti_socre) {
                 selectedResultsTextArray.push(selectedresults_array_n.textContent)
                 //console.log(selectedresults_array_n.textContent)
             })
-
+            const selectedSpots = selectedSpotsHTML.split("<br>");
             let lastSelectedValue = distanceBar.value;
+            console.log("選択した推薦スタイル:", selectedStyle)
+            console.log("選択したスポット:",selectedSpots)
             console.log("選択した観点", selectedResultsTextArray);
             console.log("距離", lastSelectedValue);
             console.log("選択地点", lat, lng);
-
+            
 
             fetch("/get_recommended_spots", {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref, selected_style: selectedStyle })
+                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref, selected_style: selectedStyle,selectedSpots:selectedSpots})
             })
                 .then((res) => {
                     if (!res.ok) {
@@ -423,6 +425,13 @@ function senti2StarsEval(senti_socre) {
             }
             );
         }
+        const modal2_complete_button = document.getElementById("complete_button");
+        if (modal2_complete_button) {
+            modal2_complete_button.addEventListener('click', () => {
+                onStyleSelectButtonClick(lat_start, lng_start)
+            }
+            );
+        }
         mymap.on("click", onMapClick);
 
     }
@@ -491,7 +500,7 @@ document.getElementById("open_button_recom").addEventListener("click", function 
 
 
 
-// ----------------推薦スタイルボックスを表示するコード
+// ----------------推薦スタイルボックスを表示するコード(modal1)
 const modal_level1 = document.getElementById('modal_level1');
 const openButton = document.getElementById('modal_level1_openButton');
 const modal1_closeButton = document.getElementById('modal_level1_closeButton');
@@ -587,7 +596,7 @@ deselect_modal.addEventListener('click', function () {
     closeModal1();
 });
 
-//-------------------------------------------------
+//-------------------------------------------------スポット詳細モーダルを閉じる
 
 // モーダルの閉じるボタン
 const spot_modal_closeButton = document.querySelector(".spot-modal-close-button");
@@ -605,7 +614,7 @@ window.addEventListener("click", (event) => {
 });
 
 
-//----------------------------ランダムスポット
+//----------------------------ランダムスポットを表示するモーダル
 
 // モーダルの要素を取得
 const modal_level2 = document.getElementById("modal_level2");
@@ -704,7 +713,7 @@ async function fetchAndDisplayRandomSpot() {
             const checkbox = document.createElement("input");
             checkbox.type = "checkbox";
             checkbox.id = `spot_${spotName}`;
-            checkbox.value = spotName;
+            checkbox.value = spotName+`[地域:${prefecture}]`;
             checkbox.checked = selectedSpots.includes(spotName);
             checkbox.addEventListener("change", handleSpotSelection);
 
@@ -789,7 +798,7 @@ function removeSpot(spotName) {
 // モーダルを閉じた際に選択したスポットをメインに表示する関数
 function updateSelectedSpotsDisplay() {
     if (selectedSpots.length > 0) {
-        selected_spot_level2.textContent = selectedSpots.join(', ');
+        selected_spot_level2.innerHTML = selectedSpots.join('<br>');
     } else {
         selected_spot_level2.textContent = '何も選択されていません';
     }

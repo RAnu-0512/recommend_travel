@@ -1,6 +1,8 @@
 from calculate_distance import haversine_distance 
 import csv
 import numpy as np
+from sklearn.preprocessing import normalize
+
 
 
 #レビュー数を読み込みこむ
@@ -14,9 +16,9 @@ import numpy as np
 #スコアが高いtop nスポットのスポットを返却
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
 #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
-def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, spots_info,cluster_info,selected_style,pref,n):
+def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, allpref_spots_info,cluster_info,selected_style,selected_spots,pref,n):
+    spots_info = allpref_spots_info[pref]
     read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99_NoIN.csv"
-    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99_withEmbeddings.csv"
     #スタイルベクトルを読み込む
     style_vectors_dcit = {}
     with open(read_style_vector_path, 'r', newline='', encoding='utf-8') as csvfile:
@@ -26,14 +28,7 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
             style_vector = row[1]
             style_vector_float = [float(value) for value in style_vector.replace("[", "").replace("]", "").replace("\n", "").replace(",","").split()]
             style_vectors_dcit[style_name] = style_vector_float
-    
-    #クラスタリングした観点を読み込む
-    # clustering_aspect_dict = {}
-    # with open(read_clustering_path, 'r', newline='', encoding='utf-8') as csvfile:
-    #     csv_reader = csv.reader(csvfile)
-    #     for row in csv_reader:
-    #         # 各行の要素数を取得
-    #         clustering_aspect_dict[row[0]] = row[2:]     
+
     style_dict = {"アートを楽しむ":"art",
                   "体験を満喫する":"experience",
                   "家族で過ごす":"family",
@@ -48,6 +43,20 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         selected_style_word = style_dict[selected_style]
         check_needed_aspect_forStyle =return_check_needed_aspects(style_vectors_dcit[selected_style_word],cluster_info)
     
+
+    #スタイル2のベクトルを読み込む
+    cluster_ids = list(cluster_info.keys())
+    num_clusters = len(cluster_ids)
+    style2_vector = np.zeros(num_clusters)
+    if selected_spots != ["何も選択されていません"]:
+        for selected_spot in selected_spots:
+            splited_spot = selected_spot.split("[地域:")
+            spot_name = splited_spot[0]
+            spot_prefecture = splited_spot[1].replace("]","")
+            style2_vector_2 = calc_style2_vector(allpref_spots_info[spot_prefecture][spot_name]["aspects"],cluster_info)
+            style2_vector = [a + b for a, b in zip(style2_vector, style2_vector_2)]
+
+
     #{aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}
     recommend_spots_info = {}
     for sn,spot_info in spots_info.items():
@@ -63,9 +72,11 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         if haversine_distance(selected_lat,selected_lng,lat,lng) <= recommend_range:
             selected_aspects_parm = [1] * len(selected_aspect_list)
             selected_aspectsVector,check_needed_aspect = return_selected_aspectsVector(selected_aspect_list,selected_aspects_parm,pref)
-            if selected_style != "何も選択されていません":   
+            if selected_style != "何も選択されていません" :   
                 check_needed_aspect += check_needed_aspect_forStyle
-                selected_aspectsVector = [a + b for a, b in zip(selected_aspectsVector, style_vectors_dcit[selected_style_word])]
+                selected_aspectsVector = [a + b  for a, b in zip(selected_aspectsVector, style_vectors_dcit[selected_style_word])]
+            if selected_spots != ["何も選択されていません"] :
+                selected_aspectsVector = [a + b  for a, b in zip(selected_aspectsVector,style2_vector)]
             score = calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev)
             if score != 0:
                 similar_aspects_dict = {}
@@ -80,6 +91,85 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
     else:
         return sorted_recommend_spots_info[0:n]
 
+
+def calc_style2_vector(aspect_dict, cluster_dict):
+    similarity_threshold=0.6
+    # クラスタIDのリストとクラスタ数
+    cluster_ids = list(cluster_dict.keys())
+    num_clusters = len(cluster_ids)
+    result_vector = np.zeros(num_clusters)
+    # クラスタIDからインデックスへのマッピング
+    cluster_id_to_index = {cluster_id: idx for idx, cluster_id in enumerate(cluster_ids)}    
+
+    # アスペクトがどのクラスタに属しているかをマッピング
+    aspect_to_cluster = {}
+    for cluster_id, cluster_info in cluster_dict.items():
+        for aspect in cluster_info["entities"]:
+            aspect_to_cluster[aspect] = cluster_id
+    
+    # クラスタとアスペクトのエンベディングを取得
+    cluster_embeddings = np.array([cluster_dict[cluster_id]["embedding"] for cluster_id in cluster_ids])
+    aspect_ids = list(aspect_dict.keys())
+    aspect_embeddings = np.array([aspect_dict[aspect]["vector"] for aspect in aspect_ids])
+    
+    # エンベディングを正規化（L2ノルム）
+    cluster_embeddings_normalized = normalize(cluster_embeddings, axis=1)
+    aspect_embeddings_normalized = normalize(aspect_embeddings, axis=1)
+    
+    # アスペクトが既にクラスタに属しているものとそうでないものに分ける
+    assigned_aspects = {}
+    unassigned_aspects = []
+    
+    for aspect in aspect_ids:
+        if aspect in aspect_to_cluster:
+            assigned_aspects[aspect] = aspect_to_cluster[aspect]
+        else:
+            unassigned_aspects.append(aspect)
+    
+    # 未割り当てアスペクトのインデックス取得
+    unassigned_indices = [aspect_ids.index(aspect) for aspect in unassigned_aspects]
+    
+    if unassigned_aspects:
+        # 未割り当てアスペクトのエンベディング
+        unassigned_embeddings = aspect_embeddings_normalized[unassigned_indices]
+        
+        # コサイン類似度の計算（内積）
+        similarity_matrix = np.dot(unassigned_embeddings, cluster_embeddings_normalized.T)  # shape: (num_unassigned, num_clusters)
+        
+        # 類似度が閾値未満のものを無効化
+        similarity_matrix[similarity_matrix < similarity_threshold] = 0
+        
+        # 各アスペクトに対して最大類似度を持つクラスタを選択
+        max_indices = similarity_matrix.argmax(axis=1)
+        max_similarities = similarity_matrix.max(axis=1)
+        
+        # 割り当て処理
+        for i, aspect in enumerate(unassigned_aspects):
+            if max_similarities[i] > 0:
+                cluster_id = cluster_ids[max_indices[i]]
+                assigned_aspects[aspect] = cluster_id
+            else:
+                assigned_aspects[aspect] = None  # 類似するクラスタが見つからなかった場合
+    
+    # senti_scoreをresult_vectorに加算
+    for aspect, cluster_id in assigned_aspects.items():
+        if cluster_id is not None:
+            index = cluster_id_to_index[cluster_id]
+            senti_score = aspect_dict[aspect]["senti_score"]
+            result_vector[index] += senti_score  # 同じクラスタに複数のアスペクトがある場合は加算
+    
+    # result_vectorをリストに変換して返す
+    return result_vector.tolist()
+
+# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}]
+def get_other_pref_spot(pref,allpref_spots_info):
+    # 辞書をループしてスポット名と県名を収集
+    list_spotname = [[pref]]
+    for other_pref, spots in allpref_spots_info.items():
+        if other_pref != pref:
+            for spot in spots.keys():
+                list_spotname.append([spot, other_pref])
+    return list_spotname
 
 def cos_sim(v1, v2):
   if v1 != [0.0]*len(v1) and v2 != [0.0]*len(v2) :
@@ -99,7 +189,7 @@ def return_check_needed_aspects(style_vector,clustering_aspect_dict):
     check_needed_aspect = []
     for vector_index in range(len(style_vector)):
         if style_vector[vector_index] > 0.1:
-            check_needed_aspect += clustering_aspect_dict[f"cluster{vector_index:04}"]
+            check_needed_aspect += clustering_aspect_dict[f"cluster{vector_index:04}"]["entities"]
     return check_needed_aspect
     #return値は選択ベクトルと、そのベクトルが1以上のインデックス
     

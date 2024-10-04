@@ -1,5 +1,6 @@
 import csv
 
+#
 def get_clusterinfo():
     pref_list = [
         "北海道", "青森", "岩手", "宮城", "秋田", "山形", "福島",
@@ -29,5 +30,5 @@ def get_pref_cluster_info(pref):
         csv_reader = csv.reader(csvfile)
         for row in csv_reader:
             # 各行の要素数を取得
-            clustering_aspect_dict[row[0]] = row[2:]     
+            clustering_aspect_dict[row[0]] = {"embedding":[float(value) for value in row[1].replace("[", "").replace("]", "").replace("\n", "").replace(",","").split()],"entities":row[2:]} 
     return clustering_aspect_dict
