@@ -1,6 +1,6 @@
 function add_selected_aspects() {
     document.getElementById("add_selected_aspects").addEventListener('click', function () {
-        const selectedCheckboxes = document.querySelectorAll('input[type=checkbox]:checked');
+        const selectedCheckboxes = document.querySelectorAll('#makecheckboxes input[type=checkbox]:checked');
         const selectedValues = Array.from(selectedCheckboxes).map(checkbox => checkbox.value);
 
         selectedValues.forEach((selectedValue, index) => {

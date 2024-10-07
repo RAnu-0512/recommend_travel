@@ -29,6 +29,8 @@ def get_pref_spot_info(pref):
     # try:
     spots_info = {}
     latlng_info_path = f"data_beta/latlng/{pref}_latlng_review_top150.csv"
+    major_path = f"data_beta/major_miner/{pref}major_aspects.csv"
+    miner_path = f"data_beta/major_miner/{pref}miner_aspects.csv"
     with open(latlng_info_path, 'r', encoding='utf-8') as f_latlng:
         reader = csv.reader(f_latlng)
         for row in reader:
@@ -39,7 +41,19 @@ def get_pref_spot_info(pref):
             spots_info[spot_name]["lat"] = lat
             spots_info[spot_name]["lng"] = lng
             spots_info[spot_name]["aspects"] = {}
+            spots_info[spot_name]["major_aspects"] = []
+            spots_info[spot_name]["miner_aspects"] = []
             
+    major_list = []
+    miner_list = []
+    with open(major_path,"r",encoding="utf-8") as f_major,open(miner_path,"r",encoding="utf-8") as f_miner:
+        reader_major = csv.reader(f_major)
+        reader_miner = csv.reader(f_miner)
+        for row in reader_major:
+            major_list.append(row[0])
+        for row in reader_miner:
+            miner_list.append(row[0])
+    
     aspect_folder_path = f"./data_beta/aspects_and_vectors/{pref}/"
     read_aspectsVector_path = f"./data_beta/spots_aspect_vector/{pref}aspectVector_fromCluster_GPT.csv"
 
@@ -90,6 +104,10 @@ def get_pref_spot_info(pref):
                                             "senti_score":senti_score,
                                             "count":count,
                                             "count_percentage":count_percentage}
+            if aspect in major_list:
+                spot_info["major_aspects"].append(aspect)
+            if aspect in miner_list:
+                spot_info["miner_aspects"].append(aspect)
     print(f"ファイルが見つかりました!! : {pref}")
     # except FileNotFoundError:
     #     print(f"ファイルが見つかりませんでした。:{pref}")

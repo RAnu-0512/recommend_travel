@@ -77,7 +77,7 @@ def get_recommended_spots():
     spots_info = allpref_spots_info[pref]
     cluster_info = allpref_clusters_info[pref]
     
-    #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
+    #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},major_aspects:{},miner_aspects:{},"score":score,"spot_url":url}),(spot_name,{}), ...]
     recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,selected_style,selected_spots,pref,top_n) 
     
     print("recommend_spots: ", recommend_spots[:1],"等")
@@ -90,6 +90,8 @@ def get_recommended_spots():
             "lng" : recommend_spot[1]["lng"],
             "aspects" : recommend_spot[1]["aspects"],
             "similar_aspects" : recommend_spot[1]["similar_aspects"],
+            "major_aspects" :recommend_spot[1]["major_aspects"],
+            "miner_aspects" :recommend_spot[1]["miner_aspects"],
             "score" : recommend_spot[1]["score"],
             "url" : recommend_spot[1]["spot_url"]
         }
@@ -108,10 +110,30 @@ def get_random_spot():
             list_spots = get_other_pref_spot(pref,allpref_spots_info)
     else:
         list_spots = get_other_pref_spot(pref,allpref_spots_info)
-    # list_spots = [["金の湯","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["金の湯","兵庫"],["金の湯","兵庫"],["金の湯","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"],["住吉神社(兵庫県明石市)","兵庫"]]
     random_spots = random.sample(list_spots[1:], min(len(list_spots[1:]), 15)) 
     return {"random_spots":random_spots}
 
+@app.route("/search_spot", methods=["POST"])
+def search_spot():
+    global list_spots
+    data = request.get_json()
+    query = data.get("query")
+    pref = data.get("pref").replace("県","").replace("府","").replace("都","")
+    if list_spots != []: #計算量を減らすため
+        if list_spots[0][0] != pref:
+            list_spots = get_other_pref_spot(pref,allpref_spots_info)
+    else:
+        list_spots = get_other_pref_spot(pref,allpref_spots_info)
+    
+    # 完全一致するスポットを抽出
+    exact_matches = [spot for spot in list_spots[1:] if spot[0] == query]
+    # 部分一致するスポットを抽出（完全一致は除く）
+    partial_matches = [spot for spot in list_spots[1:] if query in spot[0] and spot[0] != query]
+    # 結果を結合：完全一致が先頭に、部分一致が続く
+    print(f"検索スポット結果:{exact_matches + partial_matches}")
+    return {"search_spots" : exact_matches + partial_matches}
+    
+    
 @app.route("/search_form", methods=["POST"])
 def get_search_keyword():
     print("get serach keyword")

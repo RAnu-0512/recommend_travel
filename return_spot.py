@@ -41,20 +41,21 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                   "エンタメを楽しむ":"entertainment"}
     if selected_style != "何も選択されていません":    
         selected_style_word = style_dict[selected_style]
-        check_needed_aspect_forStyle =return_check_needed_aspects(style_vectors_dcit[selected_style_word],cluster_info)
+        check_needed_aspect_forStyle1 =return_check_needed_aspects(style_vectors_dcit[selected_style_word],cluster_info)
     
 
     #スタイル2のベクトルを読み込む
     cluster_ids = list(cluster_info.keys())
     num_clusters = len(cluster_ids)
     style2_vector = np.zeros(num_clusters)
-    if selected_spots != ["何も選択されていません"]:
+    if selected_spots != ["何も選択されていません"] :
         for selected_spot in selected_spots:
             splited_spot = selected_spot.split("[地域:")
             spot_name = splited_spot[0]
             spot_prefecture = splited_spot[1].replace("]","")
-            style2_vector_2 = calc_style2_vector(allpref_spots_info[spot_prefecture][spot_name]["aspects"],cluster_info)
-            style2_vector = [a + b for a, b in zip(style2_vector, style2_vector_2)]
+            style2_vector_add = calc_style2_vector(allpref_spots_info[spot_prefecture][spot_name]["aspects"],cluster_info)
+            style2_vector = [a + b for a, b in zip(style2_vector, style2_vector_add)]
+        check_needed_aspect_forStyle2 = return_check_needed_aspects(style2_vector,cluster_info)
 
 
     #{aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}
@@ -69,21 +70,32 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         spots_aspectsVector = spot_info["aspectsVector"]
         spot_numOfRev = spot_info["numOfRev"]
         spot_url = spot_info["spot_url"]
+        major_aspect_list = spot_info["major_aspects"]
+        miner_aspect_list = spot_info["miner_aspects"]
         if haversine_distance(selected_lat,selected_lng,lat,lng) <= recommend_range:
             selected_aspects_parm = [1] * len(selected_aspect_list)
             selected_aspectsVector,check_needed_aspect = return_selected_aspectsVector(selected_aspect_list,selected_aspects_parm,pref)
             if selected_style != "何も選択されていません" :   
-                check_needed_aspect += check_needed_aspect_forStyle
+                check_needed_aspect += check_needed_aspect_forStyle1
                 selected_aspectsVector = [a + b  for a, b in zip(selected_aspectsVector, style_vectors_dcit[selected_style_word])]
             if selected_spots != ["何も選択されていません"] :
                 selected_aspectsVector = [a + b  for a, b in zip(selected_aspectsVector,style2_vector)]
+                check_needed_aspect += check_needed_aspect_forStyle2
             score = calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev)
             if score != 0:
                 similar_aspects_dict = {}
+                major_aspects_dict = {}
+                miner_aspects_dict = {}
                 for aspect,aspects_info_dict in new_aspects_dict.items():
                     if aspect in check_needed_aspect:
                         similar_aspects_dict[aspect] = aspects_info_dict
-                recommend_spots_info[sn] = {"lat":lat,"lng":lng,"aspects":new_aspects_dict,"similar_aspects":similar_aspects_dict,"score":score,"spot_url":spot_url}
+                for aspect,aspects_info_dict in new_aspects_dict.items():
+                    if aspect in major_aspect_list:
+                        major_aspects_dict[aspect] = aspects_info_dict
+                for aspect,aspects_info_dict in new_aspects_dict.items():
+                    if aspect in miner_aspect_list:
+                        miner_aspects_dict[aspect] = aspects_info_dict
+                recommend_spots_info[sn] = {"lat":lat,"lng":lng,"aspects":new_aspects_dict,"similar_aspects":similar_aspects_dict,"major_aspects":major_aspects_dict,"miner_aspects":miner_aspects_dict,"score":score,"spot_url":spot_url}
         # sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[4],reverse=True)
         sorted_recommend_spots_info = sorted(recommend_spots_info.items(), key=lambda item: item[1]["score"], reverse=True)
     if len(sorted_recommend_spots_info) <= n:
@@ -166,7 +178,7 @@ def get_other_pref_spot(pref,allpref_spots_info):
     # 辞書をループしてスポット名と県名を収集
     list_spotname = [[pref]]
     for other_pref, spots in allpref_spots_info.items():
-        if other_pref != pref:
+        # if other_pref != pref:
             for spot in spots.keys():
                 list_spotname.append([spot, other_pref])
     return list_spotname
@@ -188,10 +200,9 @@ def return_check_needed_aspects(style_vector,clustering_aspect_dict):
     #チェックが必要な観点を返す
     check_needed_aspect = []
     for vector_index in range(len(style_vector)):
-        if style_vector[vector_index] > 0.1:
+        if style_vector[vector_index] != 0:
             check_needed_aspect += clustering_aspect_dict[f"cluster{vector_index:04}"]["entities"]
     return check_needed_aspect
-    #return値は選択ベクトルと、そのベクトルが1以上のインデックス
     
     
 def return_selected_aspectsVector(selected_aspect_list,selected_aspect_parm_list,pref):
@@ -224,7 +235,7 @@ def calc_w(revnum):
 
 def calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev):
     score = 0.0
-    similarity = dot_sim(selected_aspectsVector,spots_aspectsVector)
+    similarity = cos_sim(selected_aspectsVector,spots_aspectsVector)
     if spot_numOfRev != None:
         #popularity  = spot_numOfRev/max_review_num
         popularity = calc_w(spot_numOfRev)

@@ -79,15 +79,19 @@ function add_html(index, url, spot_name, outerHTML_text) {
     return "<b>[" + (index + 1) + "] <a href='" + url + "' target='_blank'>" + spot_name + "</a></b><br>" + outerHTML_text;
 }
 
-function highlightSimilarAspects(aspects, similarAspects) {
-    // 含まれている場合は強調表示するスタイルを追加
-    const highlightedAspects = aspects.map(aspect => {
-        return similarAspects.includes(aspect) ? `<b class="aspect" style="color: red;">${aspect}</b>` : `<b class="aspect">${aspect}</b>`;
-    });
-
-    // 強調表示した結果を返す
-    return highlightedAspects;
+function highlightSimilarAspects(aspect, similarAspects) {
+    if (aspect in similarAspects)  {
+        return `
+            <span class="aspect highlighted">
+                ${aspect}
+                <span class="tooltip">関連性が高い観点</span>
+            </span>
+        `;
+    } else {
+        return `<span class="aspect">${aspect}</span>`;
+    }
 }
+
 // すべてのポップアップを消す関数
 function clearPopups(mymap, popups) {
     popups.forEach(popup => {
@@ -125,7 +129,8 @@ function senti2StarsEval(senti_socre) {
         // 推薦情報を受け取り、displayに表示する
         function display_recommend_spot(lat, lng) {
             const selectedStyle = document.getElementById('selected_style').textContent;
-            const selectedSpotsHTML = document.getElementById('selected_spot_level2').innerHTML;
+            const selectedSpotsHTML_level2 = document.getElementById('selected_spot_level2').innerHTML;
+            const selectedSpotsHTML_level3 = document.getElementById('selected_spot_level3').innerHTML;
             const startTime = Date.now(); // 開始時間
             //最初に以前の推薦情報を削除する(推薦スポットのピン，情報，推薦範囲円)
             let circle = findCircleInMap(mymap)
@@ -151,21 +156,31 @@ function senti2StarsEval(senti_socre) {
                 selectedResultsTextArray.push(selectedresults_array_n.textContent)
                 //console.log(selectedresults_array_n.textContent)
             })
-            const selectedSpots = selectedSpotsHTML.split("<br>");
+            const selectedSpots_level2 = selectedSpotsHTML_level2.split("<br>");
+            const selectedSpots_level3 = selectedSpotsHTML_level3.split("<br>");
+            // "何も選択されていません" を除外したフィルタリング済み配列
+            const filtered_level2 = selectedSpots_level2.filter(s => s !== "何も選択されていません");
+            const filtered_level3 = selectedSpots_level3.filter(s => s !== "何も選択されていません");
+            let selectedSpots;
+            if (filtered_level2.length === 0 && filtered_level3.length === 0) {
+                selectedSpots = ["何も選択されていません"];
+            } else {
+                selectedSpots = filtered_level2.concat(filtered_level3);
+            }
             let lastSelectedValue = distanceBar.value;
             console.log("選択した推薦スタイル:", selectedStyle)
-            console.log("選択したスポット:",selectedSpots)
+            console.log("選択したスポット:", selectedSpots)
             console.log("選択した観点", selectedResultsTextArray);
             console.log("距離", lastSelectedValue);
             console.log("選択地点", lat, lng);
-            
+
 
             fetch("/get_recommended_spots", {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref, selected_style: selectedStyle,selectedSpots:selectedSpots})
+                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots })
             })
                 .then((res) => {
                     if (!res.ok) {
@@ -179,29 +194,85 @@ function senti2StarsEval(senti_socre) {
                     //      "similar_aspects":{aspect:{"senti_score":float,"count":float}},"score" :float,"url":str}
                     data.forEach(async (element, index) => {
                         console.log("スポットの情報", element)
-                        function aspectsAddEvaluation(aspects){
-                            const sortedAspects = Object.entries(aspects)
-                            .sort((a, b) => {
-                                const scoreA = senti2StarsEval(a[1].senti_score);
-                                const scoreB = senti2StarsEval(b[1].senti_score);
-                                return scoreB - scoreA; // 降順にソート
-                            });
-                        const aspectsHtml = sortedAspects
-                            .map(([aspect, data]) =>
-                                `<span class = "aspect-plus-rating">
-                                    <span class = "aspect">${aspect}</span>
-                                    <span class = "aspect-rating"> 
-                                        <span class = "rating-num">${senti2StarsEval(data.senti_score)} </span>
-                                        <span class = "star-ratings">
-                                            <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});"> ★★★★★ </span>
-                                            <span class = "star-ratings-bottom"> ★★★★★ </span>
-                                        </span>
-                                    </span>
-                                </span>`)
-                            .join("");
-                            return aspectsHtml
+                        // 観点を表示する関数を更新
+                        function renderAspects(aspects, sortOption, filterOption,similarAspects,majorAspects,minerAspects) {
+                            return aspectsAddEvaluation(aspects, sortOption, filterOption,similarAspects,majorAspects,minerAspects);
                         }
-                        const similarAspects = aspectsAddEvaluation(element.similar_aspects)
+
+                        function aspectsAddEvaluation(aspects, sortOption = "senti_score_high", filterOption,similarAspects,majorAspects,minerAspects) {
+                            let aspectsArray = Object.entries(aspects);
+
+                            // フィルタリングの適用
+                            if (filterOption === "universal") {
+                                aspectsArray = Object.entries(majorAspects);
+                            } else if (filterOption === "unique") {
+                                aspectsArray = Object.entries(minerAspects);
+                            } else if (filterOption == "relative") {
+                                aspectsArray = Object.entries(similarAspects);
+                            }
+                            // ソートの適用
+                            aspectsArray.sort((a, b) => {
+                                switch (sortOption) {
+                                    case "senti_score_high":
+                                        return b[1].senti_score - a[1].senti_score;
+                                    case "senti_score_low":
+                                        return a[1].senti_score - b[1].senti_score;
+                                    case "count_high":
+                                        return b[1].count - a[1].count;
+                                    case "count_low":
+                                        return a[1].count - b[1].count;
+                                    default:
+                                        return 0;
+                                }
+                            });
+                            const aspectsHtml = aspectsArray
+                                .map(([aspect, data]) =>
+                                    `<span class="aspect-plus-rating">
+                                        <span class="aspect">${highlightSimilarAspects(aspect, similarAspects)}</span>
+                                        <span class="aspect-rating"> 
+                                            <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
+                                            <span class="star-ratings">
+                                                <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});">★★★★★</span>
+                                                <span class="star-ratings-bottom">★★★★★</span>
+                                            </span>
+                                            <span class="count-display-title">レビューでの言及数: <span class="count-display"> ${data.count} </span></span>
+                                        </span>
+                                    </span>`)
+                                .join("");
+                            return aspectsHtml;
+                        }
+
+
+                        function aspectsAddEvaluation_noCount(aspects) {
+                            const sortedAspects = Object.entries(aspects)
+                                .sort((a, b) => {
+                                    const scoreA = senti2StarsEval(a[1].senti_score);
+                                    const scoreB = senti2StarsEval(b[1].senti_score);
+                                    return scoreB - scoreA; // 降順にソート
+                                });
+                            const aspectsHtml = sortedAspects
+                                .map(([aspect, data]) =>
+                                    `<span class="aspect-plus-rating">
+                                
+                                        <span class="aspect">${aspect}</span>
+                                        <span class="aspect-rating">
+                                            <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
+                                            <span class="star-ratings">
+                                                <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});">★★★★★</span>
+                                                <span class="star-ratings-bottom">★★★★★</span>
+                                            </span>
+                                        </span>
+                                    </span>`)
+                                .join("");
+                            return aspectsHtml;
+                        }
+
+
+
+                        const similarAspectsHTML = aspectsAddEvaluation_noCount(element.similar_aspects)
+                        const similarAspects = element.similar_aspects
+                        const majorAspects = element.major_aspects
+                        const minerAspects = element.miner_aspects
                         const prefecture = selected_pref.replace("都", "").replace("道", "").replace("県", "");
                         const photo_url = "static/images/" + prefecture + "/" + element.spot_name + ".jpg";
                         const noImageUrl = "static/images/NoImage.jpg";
@@ -216,8 +287,9 @@ function senti2StarsEval(senti_socre) {
                                                             <b>[${index + 1}] ${replaced_spot_name}</b>
                                                             </span>
                                                             <button class="spotinfo_detailButton" data-popup-id="${popupId}">詳細を見る</button>
+                                                            <p class = "spotinfo-aspect-type">関連性が高い観点</p>
                                                             <span class="spot-aspects">
-                                                            ${similarAspects}
+                                                            ${similarAspectsHTML}
                                                             </span>
                                                         </span>
                                                     `;
@@ -241,14 +313,56 @@ function senti2StarsEval(senti_socre) {
 
                                 // モーダルの内容を設定（必要に応じて詳細情報を追加）
                                 modalBody.innerHTML = `
-                                    <h2>${replaced_spot_name} の詳細</h2>
-                                    <p>URL: <a href="${element.url}" target="_blank">${element.url}</a></p>
-                                    <img src="${photo_url}" alt="${replaced_spot_name}" style="max-width: 100%; height: auto;">
-                                    <p>${aspectsAddEvaluation(element.aspects)}</p>
-                                `;
+                                <h2>${replaced_spot_name} の詳細</h2>
+                                <p>じゃらんnet: <a href="${element.url}" target="_blank">${element.url}</a></p>
+                                <img src="${photo_url || noImageUrl}" alt="${replaced_spot_name}" style="max-width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
+                                <div id="modal-controls">
+                                    <!-- 並べ替えプルダウン -->
+                                    <label for="sort-select">並べ替え:</label>
+                                    <select id="sort-select">
+                                        <option value="senti_score_high">評価の高い順</option>
+                                        <option value="senti_score_low">評価の低い順</option>
+                                        <option value="count_high">レビューでの言及数が多い順</option>
+                                        <option value="count_low">レビューでの言及数が少ない順</option>
+                                    </select>
+
+                                    <!-- 観点フィルタリングプルダウン -->
+                                    <label for="filter-select">観点表示:</label>
+                                    <select id="filter-select">
+                                        <option value="all">全ての観点</option>
+                                        <option value="universal">普遍的な観点</option>
+                                        <option value="unique">独自の観点</option>
+                                        <option value="relative">関連性の高い観点</option>
+                                    </select>
+                                </div>
+                                <div id="aspects-container">
+                                    ${renderAspects(element.aspects, "senti_score_high", "all",similarAspects,majorAspects,minerAspects)}
+                                </div>
+                            `;
 
                                 // モーダルを表示
                                 modal.style.display = "block";
+
+                                // プルダウンのイベントリスナーを設定
+                                const sortSelect = document.getElementById("sort-select");
+                                const filterSelect = document.getElementById("filter-select");
+                                const aspectsContainer = document.getElementById("aspects-container");
+
+                                // 並べ替えイベントリスナー
+                                sortSelect.addEventListener("change", () => {
+                                    const selectedSort = sortSelect.value;
+                                    const selectedFilter = filterSelect.value;
+                                    console.log("選択された並べ替え方法:", selectedSort);
+                                    aspectsContainer.innerHTML = renderAspects(element.aspects, selectedSort, selectedFilter,similarAspects,majorAspects,minerAspects);
+                                });
+
+                                // フィルタリングイベントリスナー
+                                filterSelect.addEventListener("change", () => {
+                                    const selectedSort = sortSelect.value;
+                                    const selectedFilter = filterSelect.value;
+                                    console.log("選択された観点フィルタ:", selectedFilter);
+                                    aspectsContainer.innerHTML = renderAspects(element.aspects, selectedSort, selectedFilter,similarAspects,majorAspects,minerAspects);
+                                });
                             });
 
                             // 画像の読み込み
@@ -428,6 +542,27 @@ function senti2StarsEval(senti_socre) {
         const modal2_complete_button = document.getElementById("complete_button");
         if (modal2_complete_button) {
             modal2_complete_button.addEventListener('click', () => {
+                onStyleSelectButtonClick(lat_start, lng_start)
+            }
+            );
+        }
+        const modal2_close_button = document.querySelector(".modal-level2-close-button");
+        if (modal2_close_button) {
+            modal2_close_button.addEventListener('click', () => {
+                onStyleSelectButtonClick(lat_start, lng_start)
+            }
+            );
+        }
+        const modal3_complete_button = document.getElementById("complete_button_modal3");
+        if (modal3_complete_button) {
+            modal3_complete_button.addEventListener('click', () => {
+                onStyleSelectButtonClick(lat_start, lng_start)
+            }
+            );
+        }
+        const modal3_close_button = document.querySelector(".modal-level3-close-button");
+        if (modal3_close_button) {
+            modal3_close_button.addEventListener('click', () => {
                 onStyleSelectButtonClick(lat_start, lng_start)
             }
             );
@@ -713,7 +848,7 @@ async function fetchAndDisplayRandomSpot() {
             const checkbox = document.createElement("input");
             checkbox.type = "checkbox";
             checkbox.id = `spot_${spotName}`;
-            checkbox.value = spotName+`[地域:${prefecture}]`;
+            checkbox.value = spotName + `[地域:${prefecture}]`;
             checkbox.checked = selectedSpots.includes(spotName);
             checkbox.addEventListener("change", handleSpotSelection);
 
@@ -736,7 +871,7 @@ async function fetchAndDisplayRandomSpot() {
         errorMsg.textContent = "スポットの取得中にエラーが発生しました。";
         spotsContainer.appendChild(errorMsg);
         const noImage = document.createElement("img");
-        noImage.src = "/static/images/no_image_available.png"; // 代替画像を設定
+        noImage.src = "static/images/NoImage.jpg";// 代替画像を設定
         noImage.alt = "スポット画像";
         noImage.style.width = "100%";
         noImage.style.maxHeight = "400px";
@@ -843,3 +978,272 @@ deselect_button_level2.addEventListener("click", function () {
     });
     updateSelectedSpotsDisplay();
 });
+
+
+// --------モーダル3
+
+// モーダルレベル3のJavaScript
+
+// モーダルの要素を取得
+const modal_level3 = document.getElementById("modal_level3");
+const closeButton_level3 = modal_level3.querySelector(".modal-level3-close-button");
+const searchInput_modal3 = document.getElementById("search_input_modal3");
+const searchButton_modal3 = document.getElementById("search_button_modal3");
+const spotsContainer_modal3 = document.getElementById("spots_container_modal3");
+const loadingIndicator_modal3 = document.getElementById("loading_indicator_modal3");
+
+// 選択したスポットを表示するコンテナの要素を取得
+const selectedSpotsContainer_modal3 = document.getElementById("selected_spots_container_modal3");
+const selectedSpotsList_modal3 = document.getElementById("selected_spots_list_modal3");
+
+// メインページの選択したスポットを表示する要素
+const selected_spot_level3 = document.getElementById("selected_spot_level3");
+
+// ボタンの要素を取得
+const completeButton_modal3 = document.getElementById("complete_button_modal3");
+const deselectAllButton_modal3 = document.getElementById("deselect_all_button_modal3");
+const deselect_button_level3 = document.getElementById("deselect_button_level3");
+
+// 「スポットを検索」ボタンの要素を取得
+const openButton_modal3 = document.getElementById("modal_level3_openButton");
+
+// 選択したスポットを保持する配列
+let selectedSpots_modal3 = [];
+
+// モーダルを開く関数
+function openModal3() {
+    modal_level3.style.display = "block";
+    // オプション: モーダルが開いたときに検索入力にフォーカスを当てる
+    searchInput_modal3.focus();
+}
+
+// モーダルを閉じる関数
+function closeModal3() {
+    modal_level3.style.display = "none";
+    updateSelectedSpotsDisplay_modal3();
+}
+
+// モーダルを閉じるイベントリスナー
+closeButton_level3.addEventListener("click", closeModal3);
+
+// モーダル外をクリックしたら閉じる
+window.addEventListener("click", (event) => {
+    if (event.target == modal_level3) {
+        closeModal3();
+    }
+});
+
+// 「スポットを検索」ボタンが押されたらモーダルを開く
+openButton_modal3.addEventListener("click", () => {
+    openModal3();
+});
+
+// 検索ボタンのクリックイベント
+searchButton_modal3.addEventListener("click", () => {
+    const query = searchInput_modal3.value.trim();
+    if (query !== "") {
+        performSearch_modal3(query, selected_pref);
+    }
+});
+
+// Enterキーで検索を実行
+searchInput_modal3.addEventListener("keypress", (event) => {
+    if (event.key === "Enter") {
+        event.preventDefault();
+        searchButton_modal3.click();
+    }
+});
+
+// スポットを検索して表示する関数
+async function performSearch_modal3(query, pref) {
+    console.log(`検索クエリ: ${query}`);
+    loadingIndicator_modal3.style.display = "block"; // ローディング開始
+    spotsContainer_modal3.innerHTML = ""; // 既存のスポット情報をクリア
+
+    try {
+        const response = await fetch('/search_spot', { // 適切なエンドポイントに変更してください
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ query: query, pref: pref }),
+        });
+
+        if (!response.ok) {
+            throw new Error("検索に失敗しました");
+        }
+
+        const data = await response.json();
+        console.log(data); // サーバーからのデータをログに出力
+
+        const searchResults = data.search_spots; // サーバーから返されるデータに合わせて変更
+        const noImageUrl = "static/images/NoImage.jpg";
+
+        // 各スポットを表示
+        for (const spot of searchResults) {
+            const spotName = spot[0];
+            const prefecture = spot[1];
+            const photoUrl = "static/images/" + prefecture + "/" + spotName + ".jpg";
+            // スポットカードの作成
+            const spotCard = document.createElement("div");
+            spotCard.classList.add("spot-card");
+
+            // スポット画像の追加
+            const spotImage = document.createElement("img");
+            spotImage.src = await loadSpotImage(photoUrl, noImageUrl); // デフォルトで代替画像を設定
+            spotImage.alt = "スポット画像";
+            spotCard.appendChild(spotImage);
+
+            // スポット情報のコンテナ
+            const spotInfo = document.createElement("div");
+            spotInfo.style.flex = "1";
+
+            // スポット名の追加
+            const spotNameElement = document.createElement("h3");
+            spotNameElement.textContent = spotName;
+            spotInfo.appendChild(spotNameElement);
+
+            // スポットの都道府県の追加
+            const prefectureElement = document.createElement("p");
+            prefectureElement.textContent = prefecture;
+            spotInfo.appendChild(prefectureElement);
+
+            // チェックボックスの追加
+            const checkbox = document.createElement("input");
+            checkbox.type = "checkbox";
+            checkbox.id = `modal3_spot_${spotName}`;
+            checkbox.value = `${spotName}[地域:${prefecture}]`;
+            checkbox.checked = selectedSpots_modal3.includes(spotName);
+            checkbox.addEventListener("change", handleSpotSelection_modal3);
+
+            const label = document.createElement("label");
+            label.htmlFor = `modal3_spot_${spotName}`;
+            label.textContent = "選択";
+
+            spotInfo.appendChild(checkbox);
+            spotInfo.appendChild(label);
+
+            spotCard.appendChild(spotInfo);
+
+            // スポットカードをコンテナに追加
+            spotsContainer_modal3.appendChild(spotCard);
+        }
+
+    } catch (error) {
+        console.error('エラー:', error);
+        const errorMsg = document.createElement("p");
+        errorMsg.textContent = "スポットの取得中にエラーが発生しました。";
+        spotsContainer_modal3.appendChild(errorMsg);
+        const noImage = document.createElement("img");
+        noImage.src = "/static/images/no_image_available.png"; // 代替画像を設定
+        noImage.alt = "スポット画像";
+        noImage.style.width = "100%";
+        noImage.style.maxHeight = "400px";
+        spotsContainer_modal3.appendChild(noImage);
+    } finally {
+        loadingIndicator_modal3.style.display = "none"; // ローディング終了
+    }
+}
+
+// スポットの選択/解除を処理する関数
+function handleSpotSelection_modal3(event) {
+    const spotName = event.target.value;
+    if (event.target.checked) {
+        if (!selectedSpots_modal3.includes(spotName)) {
+            selectedSpots_modal3.push(spotName);
+        }
+    } else {
+        selectedSpots_modal3 = selectedSpots_modal3.filter(name => name !== spotName);
+    }
+    updateSelectedSpotsInModal_modal3();
+}
+
+// モーダル内の選択したスポットを更新する関数
+function updateSelectedSpotsInModal_modal3() {
+    selectedSpotsList_modal3.innerHTML = '';
+    selectedSpots_modal3.forEach(spot => {
+        const li = document.createElement('li');
+
+        const span = document.createElement('span');
+        span.textContent = spot;
+
+        const removeButton = document.createElement('button');
+        removeButton.textContent = 'X';
+        removeButton.classList.add('remove-spot');
+        removeButton.addEventListener('click', () => {
+            removeSpot_modal3(spot);
+        });
+
+        li.appendChild(span);
+        li.appendChild(removeButton);
+        selectedSpotsList_modal3.appendChild(li);
+    });
+}
+
+// スポットを個別に削除する関数
+function removeSpot_modal3(spotName) {
+    // selectedSpots_modal3から削除
+    selectedSpots_modal3 = selectedSpots_modal3.filter(name => name !== spotName);
+
+    // チェックボックスを解除
+    const checkbox = document.getElementById(`modal3_spot_${spotName}`);
+    if (checkbox) {
+        checkbox.checked = false;
+    }
+
+    // モーダル内のリストを更新
+    updateSelectedSpotsInModal_modal3();
+}
+
+// モーダルを閉じた際に選択したスポットをメインに表示する関数
+function updateSelectedSpotsDisplay_modal3() {
+    if (selectedSpots_modal3.length > 0) {
+        selected_spot_level3.innerHTML = selectedSpots_modal3.join('<br>');
+    } else {
+        selected_spot_level3.textContent = '何も選択されていません';
+    }
+}
+
+// 「完了」ボタンのクリックイベント
+completeButton_modal3.addEventListener("click", () => {
+    closeModal3();
+});
+
+// 「すべて解除」ボタンのクリックイベント
+deselectAllButton_modal3.addEventListener("click", () => {
+    selectedSpots_modal3 = [];
+    updateSelectedSpotsInModal_modal3();
+    // チェックボックスも全て解除
+    const checkboxes = spotsContainer_modal3.querySelectorAll('input[type="checkbox"]');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = false;
+    });
+    updateSelectedSpotsDisplay_modal3();
+});
+
+// 「選択解除」ボタンのクリックイベント（メインページ側）
+deselect_button_level3.addEventListener("click", function () {
+    selectedSpots_modal3 = [];
+    updateSelectedSpotsInModal_modal3();
+    // チェックボックスも全て解除
+    const checkboxes = spotsContainer_modal3.querySelectorAll('input[type="checkbox"]');
+    checkboxes.forEach(checkbox => {
+        checkbox.checked = false;
+    });
+    updateSelectedSpotsDisplay_modal3();
+});
+
+// スポット画像をロードする関数
+async function loadSpotImage(photoUrl, defaultUrl) {
+    try {
+        const response = await fetch(photoUrl, { method: 'HEAD' });
+        if (response.ok) {
+            return photoUrl;
+        } else {
+            return defaultUrl;
+        }
+    } catch (error) {
+        console.error('画像のロード中にエラー:', error);
+        return defaultUrl;
+    }
+}
