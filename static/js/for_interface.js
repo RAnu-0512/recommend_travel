@@ -75,12 +75,23 @@ function loadSpotImage(photo_url, noImageUrl) {
     });
 }
 
-function add_html(index, url, spot_name, outerHTML_text) {
-    return "<b>[" + (index + 1) + "] <a href='" + url + "' target='_blank'>" + spot_name + "</a></b><br>" + outerHTML_text;
+function add_html(index, url, spot_name, outerHTML_text, popupId) {
+    return `
+        <b>[${index + 1}] 
+            <span class="aspect highlighted">
+                <a href="#" class="popup-spot-link" data-popup-id="${popupId}">
+                    ${spot_name}
+                </a>
+                <span class="tooltip">スポットの詳細を確認できます</span>
+            </span>
+        </b>
+        <br>${outerHTML_text}
+    `;
 }
 
+
 function highlightSimilarAspects(aspect, similarAspects) {
-    if (aspect in similarAspects)  {
+    if (aspect in similarAspects) {
         return `
             <span class="aspect highlighted">
                 ${aspect}
@@ -195,11 +206,11 @@ function senti2StarsEval(senti_socre) {
                     data.forEach(async (element, index) => {
                         console.log("スポットの情報", element)
                         // 観点を表示する関数を更新
-                        function renderAspects(aspects, sortOption, filterOption,similarAspects,majorAspects,minerAspects) {
-                            return aspectsAddEvaluation(aspects, sortOption, filterOption,similarAspects,majorAspects,minerAspects);
+                        function renderAspects(aspects, sortOption, filterOption, similarAspects, majorAspects, minerAspects) {
+                            return aspectsAddEvaluation(aspects, sortOption, filterOption, similarAspects, majorAspects, minerAspects);
                         }
 
-                        function aspectsAddEvaluation(aspects, sortOption = "senti_score_high", filterOption,similarAspects,majorAspects,minerAspects) {
+                        function aspectsAddEvaluation(aspects, sortOption = "senti_score_high", filterOption, similarAspects, majorAspects, minerAspects) {
                             let aspectsArray = Object.entries(aspects);
 
                             // フィルタリングの適用
@@ -242,34 +253,48 @@ function senti2StarsEval(senti_socre) {
                             return aspectsHtml;
                         }
 
-
-                        function aspectsAddEvaluation_noCount(aspects) {
+                        function aspectsAddEvaluation_noCount_top(aspects, n) {
+                            // 観点を配列に変換し、senti_scoreで降順にソート
                             const sortedAspects = Object.entries(aspects)
                                 .sort((a, b) => {
                                     const scoreA = senti2StarsEval(a[1].senti_score);
                                     const scoreB = senti2StarsEval(b[1].senti_score);
                                     return scoreB - scoreA; // 降順にソート
                                 });
+
+                            // 全ての観点をマッピングしてHTMLを生成
                             const aspectsHtml = sortedAspects
-                                .map(([aspect, data]) =>
-                                    `<span class="aspect-plus-rating">
-                                
-                                        <span class="aspect">${aspect}</span>
-                                        <span class="aspect-rating">
-                                            <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
-                                            <span class="star-ratings">
-                                                <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});">★★★★★</span>
-                                                <span class="star-ratings-bottom">★★★★★</span>
+                                .map(([aspect, data], index) => {
+                                    const className = index < n ? 'top-aspect-plus-rating' : 'buttom-aspect-plus-rating';
+
+                                    return `
+                                        <span class="${className}">
+                                            <span class="aspect">${aspect}</span>
+                                            <span class="aspect-rating">
+                                                <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
+                                                <span class="star-ratings">
+                                                    <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});">★★★★★</span>
+                                                    <span class="star-ratings-bottom">★★★★★</span>
+                                                </span>
                                             </span>
                                         </span>
-                                    </span>`)
+                                    `;
+                                })
                                 .join("");
-                            return aspectsHtml;
+
+                            // 'buttom-aspect-plus-rating' クラスが含まれているかをチェック
+                            const hasAdditionalAspects = aspectsHtml.includes('class="buttom-aspect-plus-rating"');
+
+                            // '...' を追加するかどうかを決定
+                            const displayHtml = hasAdditionalAspects
+                                ? `${aspectsHtml}<span class="etcStr">...</span>`
+                                : aspectsHtml;
+
+                            return displayHtml;
                         }
 
 
-
-                        const similarAspectsHTML = aspectsAddEvaluation_noCount(element.similar_aspects)
+                        const similarAspectsHTML = aspectsAddEvaluation_noCount_top(element.similar_aspects, 4)
                         const similarAspects = element.similar_aspects
                         const majorAspects = element.major_aspects
                         const minerAspects = element.miner_aspects
@@ -317,26 +342,30 @@ function senti2StarsEval(senti_socre) {
                                 <p>じゃらんnet: <a href="${element.url}" target="_blank">${element.url}</a></p>
                                 <img src="${photo_url || noImageUrl}" alt="${replaced_spot_name}" style="max-width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
                                 <div id="modal-controls">
-                                    <!-- 並べ替えプルダウン -->
-                                    <label for="sort-select">並べ替え:</label>
-                                    <select id="sort-select">
-                                        <option value="senti_score_high">評価の高い順</option>
-                                        <option value="senti_score_low">評価の低い順</option>
-                                        <option value="count_high">レビューでの言及数が多い順</option>
-                                        <option value="count_low">レビューでの言及数が少ない順</option>
-                                    </select>
+                                    <div class="control-group">
+                                        <!-- 並べ替えプルダウン -->
+                                        <label for="sort-select">観点の並べ替え</label>
+                                        <select id="sort-select">
+                                            <option value="senti_score_high">評価の高い順</option>
+                                            <option value="senti_score_low">評価の低い順</option>
+                                            <option value="count_high">レビューでの言及数が多い順</option>
+                                            <option value="count_low">レビューでの言及数が少ない順</option>
+                                        </select>
+                                    </div>
 
-                                    <!-- 観点フィルタリングプルダウン -->
-                                    <label for="filter-select">観点表示:</label>
-                                    <select id="filter-select">
-                                        <option value="all">全ての観点</option>
-                                        <option value="universal">普遍的な観点</option>
-                                        <option value="unique">独自の観点</option>
-                                        <option value="relative">関連性の高い観点</option>
-                                    </select>
+                                    <div class="control-group">
+                                        <!-- 観点フィルタリングプルダウン -->
+                                        <label for="filter-select">表示する観点</label>
+                                        <select id="filter-select">
+                                            <option value="all">全ての観点</option>
+                                            <option value="relative">関連性の高い観点</option>
+                                            <option value="universal">他のスポットでもよく見る観点</option>
+                                            <option value="unique">このスポットのオリジナル観点</option>
+                                        </select>
+                                    </div>
                                 </div>
                                 <div id="aspects-container">
-                                    ${renderAspects(element.aspects, "senti_score_high", "all",similarAspects,majorAspects,minerAspects)}
+                                    ${renderAspects(element.aspects, "senti_score_high", "all", similarAspects, majorAspects, minerAspects)}
                                 </div>
                             `;
 
@@ -353,7 +382,7 @@ function senti2StarsEval(senti_socre) {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
                                     console.log("選択された並べ替え方法:", selectedSort);
-                                    aspectsContainer.innerHTML = renderAspects(element.aspects, selectedSort, selectedFilter,similarAspects,majorAspects,minerAspects);
+                                    aspectsContainer.innerHTML = renderAspects(element.aspects, selectedSort, selectedFilter, similarAspects, majorAspects, minerAspects);
                                 });
 
                                 // フィルタリングイベントリスナー
@@ -361,21 +390,38 @@ function senti2StarsEval(senti_socre) {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
                                     console.log("選択された観点フィルタ:", selectedFilter);
-                                    aspectsContainer.innerHTML = renderAspects(element.aspects, selectedSort, selectedFilter,similarAspects,majorAspects,minerAspects);
+                                    aspectsContainer.innerHTML = renderAspects(element.aspects, selectedSort, selectedFilter, similarAspects, majorAspects, minerAspects);
                                 });
                             });
 
                             // 画像の読み込み
                             imgElement.src = await loadSpotImage(photo_url, noImageUrl);
 
-                            // ポップアップHTMLの作成
-                            const spotAspectPopup = add_html(index, element.url, replaced_spot_name, imgElement.outerHTML);
+                            // ポップアップHTMLの作成（popupId を渡す）
+                            const spotAspectPopup = add_html(index, element.url, replaced_spot_name, imgElement.outerHTML, popupId);
 
                             // マーカーの作成と設定
                             const marker = L.marker([element.lat, element.lng])
                                 .addTo(mymap)
                                 .bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId })
                                 .openPopup();
+                            // ドキュメント全体にクリックイベントリスナーを追加
+                            document.addEventListener('click', function (event) {
+                                // クリックされた要素が .popup-spot-link クラスを持つ <a> タグか確認
+                                if (event.target.matches('.popup-spot-link')) {
+                                    event.preventDefault(); // デフォルトのリンク動作を防止
+                                    // data-popup-id 属性から popupId を取得
+                                    const popupId = event.target.getAttribute('data-popup-id');
+                                    // 対応するボタンを取得
+                                    const button = document.querySelector(`.spotinfo_detailButton[data-popup-id="${popupId}"]`);
+                                    // ボタンが存在する場合、クリックイベントをトリガー
+                                    if (button) {
+                                        button.click();
+                                    } else {
+                                        console.warn(`Button with data-popup-id="${popupId}" not found.`);
+                                    }
+                                }
+                            });
 
                             // ツールチップの設定
                             const tooltip_text = `<b>[${index + 1}]${replaced_spot_name}</b>`;
