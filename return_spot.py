@@ -18,7 +18,7 @@ from sklearn.preprocessing import normalize
 #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
 def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, allpref_spots_info,cluster_info,selected_style,selected_spots,pref,n):
     spots_info = allpref_spots_info[pref]
-    read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99_NoIN.csv"
+    read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99_NoIN_ReClustering.csv"
     #スタイルベクトルを読み込む
     style_vectors_dcit = {}
     with open(read_style_vector_path, 'r', newline='', encoding='utf-8') as csvfile:
@@ -206,7 +206,7 @@ def return_check_needed_aspects(style_vector,clustering_aspect_dict):
     
     
 def return_selected_aspectsVector(selected_aspect_list,selected_aspect_parm_list,pref):
-    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99.csv"
+    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99_re.csv"
     #全ての観点のクラスタリング結果から、選択した観点のベクトルを生成
     #含まれる位置で指定されたパラメータ * 1を足す
     list_aspects = []

@@ -22,13 +22,14 @@ def get_clusterinfo():
             #     pref_dict["全国"] += pref_info
     return pref_dict
 
+import csv
 def get_pref_cluster_info(pref):
-    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99_withEmbeddings.csv"
+    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99_withEmbeddings_re.csv"
     #クラスタリングした観点を読み込む
     clustering_aspect_dict = {}
     with open(read_clustering_path, 'r', newline='', encoding='utf-8') as csvfile:
         csv_reader = csv.reader(csvfile)
-        for row in csv_reader:
+        for index,row in enumerate(csv_reader):
             # 各行の要素数を取得
-            clustering_aspect_dict[row[0]] = {"embedding":[float(value) for value in row[1].replace("[", "").replace("]", "").replace("\n", "").replace(",","").split()],"entities":row[2:]} 
+            clustering_aspect_dict[f"cluster{index:04d}"] = {"embedding":[float(value) for value in row[1].replace("[", "").replace("]", "").replace("\n", "").replace(",","").split()],"entities":row[2:]} 
     return clustering_aspect_dict

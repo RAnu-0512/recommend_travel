@@ -55,7 +55,7 @@ def get_pref_spot_info(pref):
             miner_list.append(row[0])
     
     aspect_folder_path = f"./data_beta/aspects_and_vectors/{pref}/"
-    read_aspectsVector_path = f"./data_beta/spots_aspect_vector/{pref}aspectVector_fromCluster_GPT.csv"
+    read_aspectsVector_path = f"./data_beta/spots_aspect_vector/{pref}aspectVector_fromCluster_GPT_reClustering.csv"
 
     with open(read_aspectsVector_path, 'r', newline='', encoding='utf-8') as csvfile:
         csv_reader = csv.reader(csvfile)
