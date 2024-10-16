@@ -51,7 +51,7 @@ body {
     color: white;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    margin-bottom: 2px;
+    margin-bottom: 1px;
     background-color: rgba(12, 116, 10, 0.74);
 }
 
@@ -62,7 +62,6 @@ body {
     border-bottom-right-radius: 20px;
     margin-bottom: 5px;
     background-color: rgb(241, 241, 241);
-    overflow: auto;
 }
 
 
@@ -216,7 +215,7 @@ body {
 }
 
 #delete_button {
-    margin-top: 3px;
+    margin-top: 2px;
     background-color: rgba(116, 10, 19, 0.74);
     color: white;
     border: none;
@@ -231,7 +230,7 @@ body {
 }
 
 .deselect_button {
-    margin-top: 3px;
+    margin-top: 2px;
     background-color: rgba(116, 10, 19, 0.74);
     color: white;
     border: none;
@@ -561,9 +560,9 @@ body {
 }
 
 #makecheckboxes {
-    width: 250px;
+    width: 230px;
     /* 任意の幅を指定 */
-    height: 100px;
+    height: 90px;
     /* 任意の高さを指定 */
     overflow-y: scroll;
     background-color: rgb(241, 241, 241);
@@ -589,9 +588,9 @@ body {
 }
 
 #selected_results {
-    width: 250px;
+    width: 230px;
     /* 任意の幅を指定 */
-    height: 100px;
+    height: 90px;
     /* 任意の高さを指定 */
     overflow-y: scroll;
     background-color: rgb(241, 241, 241);
@@ -624,7 +623,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 250px;
-    height: 490px;
+    height: 464px;
     margin-top: 5px;
     margin-bottom: 5px;
     padding: 5px 5px;
@@ -634,7 +633,7 @@ body {
     border-radius: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     z-index: 2;
-    top: 230px;
+    top: 212px;
 }
 
 
@@ -652,7 +651,7 @@ body {
     margin-bottom: 5px;
     padding: 5px 5px;
     left: 20px;
-    top: 35px;
+    top: 32px;
 }
 
 
@@ -806,14 +805,21 @@ body {
     margin-top: 10px;
 }
 
-#selected_style{
+#selected_style {
     font-size: 16px;
     text-align: center;
+    margin-top: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 48%;
+    width: 95%;
     font-weight: bold;
     color: #555;
-    white-space: pre-line; /* 改行を有効にする */
+    white-space: pre-line;
     transition: color 0.3s;
+    overflow: auto;
 }
+
 #selected_style:hover {
     color: #000;
 }
@@ -1093,9 +1099,16 @@ body {
 #selected_spot_level2{
     font-size: 16px;
     text-align: center;
+    margin-top: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 48%;
+    width: 95%;
     font-weight: bold;
     color: #555;
+    white-space: pre-line;
     transition: color 0.3s;
+    overflow: auto;
 }
 #selected_spot_level2:hover {
     color: #000;
@@ -1448,9 +1461,16 @@ body {
 #selected_spot_level3{
     font-size: 16px;
     text-align: center;
+    margin-top: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 48%;
+    width: 95%;
     font-weight: bold;
     color: #555;
+    white-space: pre-line;
     transition: color 0.3s;
+    overflow: auto;
 }
 #selected_spot_level3:hover {
     color: #000;
@@ -1462,7 +1482,7 @@ body {
     display: flex; /* Flexboxを有効にする */
     justify-content: center; /* 水平方向に中央揃え */
     align-items: center;
-    height: 50px;
+    height: 35px;
 
 }
 
