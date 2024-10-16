@@ -1,6 +1,6 @@
 import csv
 
-#
+
 def get_clusterinfo():
     pref_list = [
         "北海道", "青森", "岩手", "宮城", "秋田", "山形", "福島",
@@ -22,9 +22,8 @@ def get_clusterinfo():
             #     pref_dict["全国"] += pref_info
     return pref_dict
 
-import csv
 def get_pref_cluster_info(pref):
-    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99_withEmbeddings_re.csv"
+    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99_withEmbeddings.csv"
     #クラスタリングした観点を読み込む
     clustering_aspect_dict = {}
     with open(read_clustering_path, 'r', newline='', encoding='utf-8') as csvfile:

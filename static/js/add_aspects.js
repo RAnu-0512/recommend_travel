@@ -11,10 +11,17 @@ function add_selected_aspects() {
                     if (selectedValue == selectedAspect.textContent) isAspectInList = 1;
                 })
             }
-            else console.log("No element selected"); 
+            else console.log("No element selected");
 
-            if (isAspectInList == 0) addSearchResults(selectedValue);
-        })
+            if (isAspectInList == 0) {
+                addSearchResults(selectedValue);
+            }
+        });
+        // すべてのチェックボックスの選択を解除
+        const allCheckboxes = document.querySelectorAll('#makecheckboxes input[type=checkbox]');
+        allCheckboxes.forEach(checkbox => {
+            checkbox.checked = false;
+        });
     });
 }
 
@@ -42,7 +49,7 @@ function removeItem(element) {
     parent.removeChild(element);
 }
 
-document.getElementById("delete_button").addEventListener("click", function() {
+document.getElementById("delete_button").addEventListener("click", function () {
     var selectedResults = document.getElementById("selected_results");
     while (selectedResults.firstChild) {
         selectedResults.removeChild(selectedResults.firstChild);

@@ -91,20 +91,15 @@ def return_aspect(query,spots_info,aspect_top_n,model):
     return similar_aspect[:aspect_top_n]
 
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},spots_aspectsVector:vector,spot_numOfRev:number,spot_url:url}}]
-def popular_aspects(spots_info,n):
-  min_numberOfaspects = 10
+def popular_aspects(pref_majorminer_info,n):
 
-  all_aspect_dict = {}
-  for spot_name,spot_info in spots_info.items():
-    for aspect in list(spot_info["aspects"].keys()):
-      # 観点が辞書に存在するか確認
-      if aspect in all_aspect_dict:
-          all_aspect_dict[aspect] += 1
-      else:
-        all_aspect_dict[aspect] = 1
-  popular_aspects = [key for key, value in all_aspect_dict.items() if value >= min_numberOfaspects]
-  recommend_aspect = random.sample(popular_aspects, k=n)
-  return recommend_aspect
+    major_list = pref_majorminer_info["major_aspects"]
+    miner_list = pref_majorminer_info["miner_aspects"]
+    recommend_aspect = random.sample(major_list, k=n)
+    return recommend_aspect
+
+
+
 
 def calc_aspect_score(query,all_aspects_vectors,model):
     score_list = []

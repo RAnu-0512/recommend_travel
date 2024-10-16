@@ -179,19 +179,24 @@ function senti2StarsEval(senti_socre) {
                 selectedSpots = filtered_level2.concat(filtered_level3);
             }
             let lastSelectedValue = distanceBar.value;
+
+            const slider = document.getElementById('preference-slider');
+            const popularityType = slider.value;
+            
             console.log("選択した推薦スタイル:", selectedStyle)
             console.log("選択したスポット:", selectedSpots)
             console.log("選択した観点", selectedResultsTextArray);
+            console.log('スポット人気度の考慮:', popularityType);  //0:穴場優先  1:人気度考慮しない 2:人気スポット優先
             console.log("距離", lastSelectedValue);
             console.log("選択地点", lat, lng);
-
+           
 
             fetch("/get_recommended_spots", {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots })
+                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots, popularityType: popularityType })
             })
                 .then((res) => {
                     if (!res.ok) {
@@ -504,7 +509,6 @@ function senti2StarsEval(senti_socre) {
                                 }
                             });
 
-
                         } catch (error) {
                             console.error("Error loading image:", error.message);
                         }
@@ -527,7 +531,8 @@ function senti2StarsEval(senti_socre) {
                     selectedPopup.bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
                     const endTime = Date.now(); // 終了時間
                     console.log("処理にかかった時間 : ", endTime - startTime, "ミリ秒"); // 何ミリ秒かかったかを表示する
-
+                    const rerecommend_button = document.getElementById('rerecommend_button_parm');
+                    rerecommend_button.disabled = false;
                 })
                 .catch(error => {
                     console.error('マップクリック:エラー:', error);
@@ -539,10 +544,12 @@ function senti2StarsEval(senti_socre) {
             display_recommend_spot(clicked_lat, clicked_lng)
         }
         function onReRecommendButtonClick() {
+            const rerecommend_button = document.getElementById('rerecommend_button_parm');
             if (popups[0] != undefined) {
+                rerecommend_button.disabled = true;
                 const cur_lat = popups[0]._latlng.lat;
                 const cur_lng = popups[0]._latlng.lng;
-                display_recommend_spot(cur_lat, cur_lng)
+                display_recommend_spot(cur_lat, cur_lng);
             }
             else {
                 alert("観光予定の中心地をマップをクリックして選択してください！")
@@ -576,8 +583,9 @@ function senti2StarsEval(senti_socre) {
         // DOMが完全に読み込まれた後にイベントリスナーを設定
         const rerecommend_button = document.getElementById('rerecommend_button_parm');
         if (rerecommend_button) {
-            rerecommend_button.addEventListener('click', onReRecommendButtonClick);
+            rerecommend_button.addEventListener("click", onReRecommendButtonClick);
         }
+
         const submit_selection_button = document.getElementById("submit_selection_button");
         if (submit_selection_button) {
             submit_selection_button.addEventListener('click', () => {

@@ -16,9 +16,9 @@ from sklearn.preprocessing import normalize
 #スコアが高いtop nスポットのスポットを返却
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
 #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
-def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, allpref_spots_info,cluster_info,selected_style,selected_spots,pref,n):
+def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, allpref_spots_info,cluster_info,selected_style,selected_spots,popularity_type,pref,n):
     spots_info = allpref_spots_info[pref]
-    read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99_NoIN_ReClustering.csv"
+    read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99.csv"
     #スタイルベクトルを読み込む
     style_vectors_dcit = {}
     with open(read_style_vector_path, 'r', newline='', encoding='utf-8') as csvfile:
@@ -81,7 +81,7 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
             if selected_spots != ["何も選択されていません"] :
                 selected_aspectsVector = [a + b  for a, b in zip(selected_aspectsVector,style2_vector)]
                 check_needed_aspect += check_needed_aspect_forStyle2
-            score = calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev)
+            score = calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev,popularity_type)
             if score != 0:
                 similar_aspects_dict = {}
                 major_aspects_dict = {}
@@ -206,7 +206,7 @@ def return_check_needed_aspects(style_vector,clustering_aspect_dict):
     
     
 def return_selected_aspectsVector(selected_aspect_list,selected_aspect_parm_list,pref):
-    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99_re.csv"
+    read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99.csv"
     #全ての観点のクラスタリング結果から、選択した観点のベクトルを生成
     #含まれる位置で指定されたパラメータ * 1を足す
     list_aspects = []
@@ -224,20 +224,35 @@ def return_selected_aspectsVector(selected_aspect_list,selected_aspect_parm_list
                 check_needed_aspect += list_aspects[index]
     return selected_aspectsVector,check_needed_aspect
     #return値は選択ベクトルと、選択観点が含まれるクラスタに含まれるすべての観点のリスト
-def calc_w(revnum):
-    ranges = list(range(0, 201, 10))
-    ranges.append( float('inf'))
-
-    for i in range(len(ranges) - 1):
+def calc_weight(revnum,popularity_type):
+    # 範囲の定義: 0, 10, 20, ..., 200, inf
+    ranges = list(range(0, 201, 10))  # [0, 10, 20, ..., 200]
+    ranges.append(float('inf'))       # [0, 10, 20, ..., 200, inf]
+    num_ranges = len(ranges) - 1      # 21
+    for i in range(num_ranges):
         if ranges[i] < revnum <= ranges[i + 1]:
-            return (i + 1) / (len(ranges)-1)  # 1-indexed範囲 / 範囲の数
+            if popularity_type == "有名":
+                # 有名の場合: 1/21 から 21/21
+                normalized_value = (i + 1) / num_ranges
+                return normalized_value
+            elif popularity_type == "穴場":
+                # 穴場の場合: 21/21 から 1/21
+                normalized_value = (num_ranges - i) / num_ranges
+                return normalized_value
+            else:
+                raise ValueError("popularity_type は '有名' または '穴場' のいずれかでなければなりません。")
+    
+    # revnum が範囲に含まれない場合（通常はあり得ないが念のため）
+    raise ValueError("revnum が範囲外です。")
         
 
-def calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev):
+def calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev,popularity_type):
     score = 0.0
     similarity = cos_sim(selected_aspectsVector,spots_aspectsVector)
-    if spot_numOfRev != None:
-        #popularity  = spot_numOfRev/max_review_num
-        popularity = calc_w(spot_numOfRev)
-        score = popularity * similarity
+    if popularity_type == "普通":
+        score = similarity
+    elif popularity_type == "有名" or popularity_type == "人気":
+        if spot_numOfRev != None:
+            weight = calc_weight(spot_numOfRev,popularity_type)
+            score = weight * similarity
     return score

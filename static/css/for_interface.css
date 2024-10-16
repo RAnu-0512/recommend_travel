@@ -619,7 +619,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 250px;
-    height: 410px;
+    height: 490px;
     margin-top: 5px;
     margin-bottom: 5px;
     padding: 5px 5px;
@@ -753,6 +753,17 @@ body {
 
 #submit_selection_button {
     margin-top: 10px;
+}
+
+#selected_style{
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    color: #555;
+    transition: color 0.3s;
+}
+#selected_style:hover {
+    color: #000;
 }
 
 /* ーーーーーーーーーーーーーーーーー */
@@ -1027,6 +1038,19 @@ body {
     margin-right: 5px;
 }
 
+#selected_spot_level2{
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    color: #555;
+    transition: color 0.3s;
+}
+#selected_spot_level2:hover {
+    color: #000;
+}
+
+
+
 /*------------------------------------*/
 /* モーダルのスタイル */
 .spotinfo_modal {
@@ -1164,6 +1188,7 @@ body {
         width: 100%; /* セレクトボックスを全幅に */
     }
 }
+
 
 /* ----------モーダル3----------- */
 /* modal_level3 のスタイル */
@@ -1366,4 +1391,42 @@ body {
     #modal_level3 .spot-card {
         width: 100%;
     }
+}
+
+#selected_spot_level3{
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    color: #555;
+    transition: color 0.3s;
+}
+#selected_spot_level3:hover {
+    color: #000;
+}
+/* ------------------------ */
+/* 有名所穴場所スライダー */
+
+#slider_container {
+    display: flex; /* Flexboxを有効にする */
+    justify-content: center; /* 水平方向に中央揃え */
+    align-items: center;
+    height: 50px;
+
+}
+
+.slider-label {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: bold;
+    color: #555;
+    transition: color 0.3s;
+}
+.slider-label:hover {
+    color: #000;
+}
+
+.slider {
+    width: 95px; /* スライダーの幅を調整 */
+    cursor: pointer;
 }
