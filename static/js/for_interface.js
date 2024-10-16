@@ -78,7 +78,7 @@ function loadSpotImage(photo_url, noImageUrl) {
 function add_html(index, url, spot_name, outerHTML_text, popupId) {
     return `
         <b>[${index + 1}] 
-            <span class="aspect highlighted">
+            <span class="tooltip-box" id="spotname_label">
                 <a href="#" class="popup-spot-link" data-popup-id="${popupId}">
                     ${spot_name}
                 </a>
@@ -93,7 +93,7 @@ function add_html(index, url, spot_name, outerHTML_text, popupId) {
 function highlightSimilarAspects(aspect, similarAspects) {
     if (aspect in similarAspects) {
         return `
-            <span class="aspect highlighted">
+            <span class="tooltip-box" id="aspect_highlighted">
                 ${aspect}
                 <span class="tooltip">関連性が高い観点</span>
             </span>
@@ -179,19 +179,24 @@ function senti2StarsEval(senti_socre) {
                 selectedSpots = filtered_level2.concat(filtered_level3);
             }
             let lastSelectedValue = distanceBar.value;
+
+            const slider = document.getElementById('preference-slider');
+            const popularityType = slider.value;
+            
             console.log("選択した推薦スタイル:", selectedStyle)
             console.log("選択したスポット:", selectedSpots)
             console.log("選択した観点", selectedResultsTextArray);
+            console.log('スポット人気度の考慮:', popularityType);  //0:穴場優先  1:人気度考慮しない 2:人気スポット優先
             console.log("距離", lastSelectedValue);
             console.log("選択地点", lat, lng);
-
+           
 
             fetch("/get_recommended_spots", {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots })
+                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots, popularityType: popularityType })
             })
                 .then((res) => {
                     if (!res.ok) {
@@ -504,7 +509,6 @@ function senti2StarsEval(senti_socre) {
                                 }
                             });
 
-
                         } catch (error) {
                             console.error("Error loading image:", error.message);
                         }
@@ -527,7 +531,8 @@ function senti2StarsEval(senti_socre) {
                     selectedPopup.bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
                     const endTime = Date.now(); // 終了時間
                     console.log("処理にかかった時間 : ", endTime - startTime, "ミリ秒"); // 何ミリ秒かかったかを表示する
-
+                    const rerecommend_button = document.getElementById('rerecommend_button_parm');
+                    rerecommend_button.disabled = false;
                 })
                 .catch(error => {
                     console.error('マップクリック:エラー:', error);
@@ -539,10 +544,12 @@ function senti2StarsEval(senti_socre) {
             display_recommend_spot(clicked_lat, clicked_lng)
         }
         function onReRecommendButtonClick() {
+            const rerecommend_button = document.getElementById('rerecommend_button_parm');
             if (popups[0] != undefined) {
+                rerecommend_button.disabled = true;
                 const cur_lat = popups[0]._latlng.lat;
                 const cur_lng = popups[0]._latlng.lng;
-                display_recommend_spot(cur_lat, cur_lng)
+                display_recommend_spot(cur_lat, cur_lng);
             }
             else {
                 alert("観光予定の中心地をマップをクリックして選択してください！")
@@ -576,8 +583,9 @@ function senti2StarsEval(senti_socre) {
         // DOMが完全に読み込まれた後にイベントリスナーを設定
         const rerecommend_button = document.getElementById('rerecommend_button_parm');
         if (rerecommend_button) {
-            rerecommend_button.addEventListener('click', onReRecommendButtonClick);
+            rerecommend_button.addEventListener("click", onReRecommendButtonClick);
         }
+
         const submit_selection_button = document.getElementById("submit_selection_button");
         if (submit_selection_button) {
             submit_selection_button.addEventListener('click', () => {
@@ -692,15 +700,16 @@ const deselect_level1 = document.getElementById('deselect_button_level1');
 const deselect_modal = document.getElementById('deselect_modal_button');
 const submit_selection = document.getElementById('submit_selection_button');
 
-let selected_recommend_style = null;
+// 複数選択を管理するために配列に変更
+let selected_recommend_style = [];
 
-
+// モーダルを開く関数
 function openModal() {
     modal_level1.style.display = 'block';
     // 既に選択されているスタイルがあれば、そのカードを選択状態にする
-    if (selected_recommend_style) {
+    if (selected_recommend_style.length > 0) {
         cards.forEach(card => {
-            if (card.getAttribute('data-value') === selected_recommend_style) {
+            if (selected_recommend_style.includes(card.getAttribute('data-value'))) {
                 card.classList.add('selected');
             } else {
                 card.classList.remove('selected');
@@ -710,11 +719,11 @@ function openModal() {
         cards.forEach(card => card.classList.remove('selected'));
     }
 }
+
 // モーダルを閉じる関数
 function closeModal1() {
     modal_level1.style.display = "none";
 }
-
 
 // ボタンがクリックされたときにモーダルを表示
 openButton.addEventListener('click', openModal);
@@ -732,27 +741,27 @@ travelStyleContainer.addEventListener('click', function (event) {
     const clickedCard = event.target.closest('.card');
     if (!clickedCard) return; // カード以外がクリックされた場合は無視
 
-    // クリックされたカードを選択状態にし、他のカードの選択を解除
-    cards.forEach(card => {
-        if (card === clickedCard) {
-            card.classList.toggle('selected');
-        } else {
-            card.classList.remove('selected');
-        }
-    });
+    const value = clickedCard.getAttribute('data-value');
 
-    // 選択された値を更新
+    // クリックされたカードの選択状態をトグル
+    clickedCard.classList.toggle('selected');
+
     if (clickedCard.classList.contains('selected')) {
-        selected_recommend_style = clickedCard.getAttribute('data-value');
+        // まだ選択されていなければ追加
+        if (!selected_recommend_style.includes(value)) {
+            selected_recommend_style.push(value);
+        }
     } else {
-        selected_recommend_style = null;
+        // 選択解除された場合は配列から削除
+        selected_recommend_style = selected_recommend_style.filter(item => item !== value);
     }
 });
 
 // フォームの送信を処理（「選択」ボタン）
 submit_selection.addEventListener('click', function () {
-    if (selected_recommend_style) {
-        selectedStyle.textContent = selected_recommend_style;
+    if (selected_recommend_style.length > 0) {
+        // 選択されたスタイルを改行で結合して表示
+        selectedStyle.textContent = selected_recommend_style.join('\n');
         closeModal1();
     } else {
         alert('旅行スタイルを選択してください。');
@@ -762,7 +771,7 @@ submit_selection.addEventListener('click', function () {
 // メインページの「選択解除」ボタンをクリックしたときの処理
 deselect_level1.addEventListener('click', function () {
     selectedStyle.textContent = '何も選択されていません';
-    selected_recommend_style = null;
+    selected_recommend_style = [];
     cards.forEach(card => card.classList.remove('selected'));
 });
 
@@ -770,12 +779,13 @@ deselect_level1.addEventListener('click', function () {
 deselect_modal.addEventListener('click', function () {
     // 選択されたスタイルをリセット
     selectedStyle.textContent = '何も選択されていません';
-    selected_recommend_style = null;
+    selected_recommend_style = [];
     // 全てのカードの選択状態を解除
     cards.forEach(card => card.classList.remove('selected'));
     // モーダルを閉じる
     closeModal1();
 });
+
 
 //-------------------------------------------------スポット詳細モーダルを閉じる
 

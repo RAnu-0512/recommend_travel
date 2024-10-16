@@ -6,13 +6,14 @@ from return_aspect import return_aspect,popular_aspects
 from calculate_distance import calc_near_spot
 from return_spot import return_spot,get_other_pref_spot
 from read_cluster_info import get_clusterinfo
+from read_majorminer_info import get_majorminer_info
 import argparse
 import csv
 import random
 top_n = 20 #推薦スポット数
 aspect_top_n = 10 #ヒットする観点数
 
-print(".....モデル読み込み中")
+print(".....word2vecモデル読み込み中")
 # wor2vecモデル読み込み   :  絶対パス
 #model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
 #model_path = "C:/Users/kobayashi/Desktop/小林_B4/プログラムおよびデータ/02.Google Colab/drive/cc.ja.300.vec.gz"
@@ -24,11 +25,21 @@ model_path = "../word2vec/cc.ja.300.vec.gz"
 
 model = "test_model"  #テストするときのモデル
 # model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False) #モデルの読み込み
-print(".....モデル読み込み完了!!")
+print(".....word2vecモデル読み込み完了!!")
 
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}]
+print(".....スポット情報読み込み中")
 allpref_spots_info = get_spotinfo()
+print(".....スポット情報読み込み完了!!")
+
+print(".....クラスタリング情報読み込み中")
 allpref_clusters_info = get_clusterinfo()
+print(".....クラスタリング情報読み込み完了!!")
+
+print(".....メジャーマイナー観点情報読み込み中")
+allpref_majorminer_info = get_majorminer_info()
+print(".....メジャーマイナー観点情報読み込み完了!!")
+
 
 list_spots = []
 returned_aspect_list = []
@@ -71,14 +82,21 @@ def get_recommended_spots():
     pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
     rec_range = int(data.get('range'))
     selected_aspects = data.get('selected_aspects')
-    selected_style = data.get("selected_style")
+    selected_styles = data.get("selected_style").split("\n")
     selected_spots = data.get("selectedSpots")
-    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_style: {selected_style}\n selected_spots: {selected_spots}")
+    popularity_type_value = data.get("popularityType")
+    popularity_types = {
+        "0": "穴場",
+        "1": "普通",
+        "2": "有名"
+    }
+    popularity_type = popularity_types[popularity_type_value]
+    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_styles: {selected_styles}\n selected_spots: {selected_spots}\n 人気度考慮タイプ: {popularity_type}")
     spots_info = allpref_spots_info[pref]
     cluster_info = allpref_clusters_info[pref]
     
     #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},major_aspects:{},miner_aspects:{},"score":score,"spot_url":url}),(spot_name,{}), ...]
-    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,selected_style,selected_spots,pref,top_n) 
+    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,selected_styles,selected_spots,popularity_type,pref,top_n) 
     
     print("recommend_spots: ", recommend_spots[:1],"等")
     response_data = []
@@ -152,9 +170,9 @@ def recommend_aspects():
     print("recommend aspects")
     data=request.get_json()
     pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
-    print("selected_pref : ", pref)
-    spots_info = allpref_spots_info[pref]
-    recommended_aspects = popular_aspects(spots_info,aspect_top_n)
+    print("おすすめ観点クリック> selected_pref : ", pref)
+    pref_majorminer_info = allpref_majorminer_info[pref]
+    recommended_aspects = popular_aspects(pref_majorminer_info,aspect_top_n)
     return_aspects = [{"label": result, "value": result} for result in recommended_aspects]
     return jsonify({"recommend_aspects": return_aspects})
 
