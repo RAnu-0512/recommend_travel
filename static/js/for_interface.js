@@ -78,7 +78,7 @@ function loadSpotImage(photo_url, noImageUrl) {
 function add_html(index, url, spot_name, outerHTML_text, popupId) {
     return `
         <b>[${index + 1}] 
-            <span class="aspect highlighted">
+            <span class="tooltip-box" id="spotname_label">
                 <a href="#" class="popup-spot-link" data-popup-id="${popupId}">
                     ${spot_name}
                 </a>
@@ -93,7 +93,7 @@ function add_html(index, url, spot_name, outerHTML_text, popupId) {
 function highlightSimilarAspects(aspect, similarAspects) {
     if (aspect in similarAspects) {
         return `
-            <span class="aspect highlighted">
+            <span class="tooltip-box" id="aspect_highlighted">
                 ${aspect}
                 <span class="tooltip">関連性が高い観点</span>
             </span>
@@ -700,15 +700,16 @@ const deselect_level1 = document.getElementById('deselect_button_level1');
 const deselect_modal = document.getElementById('deselect_modal_button');
 const submit_selection = document.getElementById('submit_selection_button');
 
-let selected_recommend_style = null;
+// 複数選択を管理するために配列に変更
+let selected_recommend_style = [];
 
-
+// モーダルを開く関数
 function openModal() {
     modal_level1.style.display = 'block';
     // 既に選択されているスタイルがあれば、そのカードを選択状態にする
-    if (selected_recommend_style) {
+    if (selected_recommend_style.length > 0) {
         cards.forEach(card => {
-            if (card.getAttribute('data-value') === selected_recommend_style) {
+            if (selected_recommend_style.includes(card.getAttribute('data-value'))) {
                 card.classList.add('selected');
             } else {
                 card.classList.remove('selected');
@@ -718,11 +719,11 @@ function openModal() {
         cards.forEach(card => card.classList.remove('selected'));
     }
 }
+
 // モーダルを閉じる関数
 function closeModal1() {
     modal_level1.style.display = "none";
 }
-
 
 // ボタンがクリックされたときにモーダルを表示
 openButton.addEventListener('click', openModal);
@@ -740,27 +741,27 @@ travelStyleContainer.addEventListener('click', function (event) {
     const clickedCard = event.target.closest('.card');
     if (!clickedCard) return; // カード以外がクリックされた場合は無視
 
-    // クリックされたカードを選択状態にし、他のカードの選択を解除
-    cards.forEach(card => {
-        if (card === clickedCard) {
-            card.classList.toggle('selected');
-        } else {
-            card.classList.remove('selected');
-        }
-    });
+    const value = clickedCard.getAttribute('data-value');
 
-    // 選択された値を更新
+    // クリックされたカードの選択状態をトグル
+    clickedCard.classList.toggle('selected');
+
     if (clickedCard.classList.contains('selected')) {
-        selected_recommend_style = clickedCard.getAttribute('data-value');
+        // まだ選択されていなければ追加
+        if (!selected_recommend_style.includes(value)) {
+            selected_recommend_style.push(value);
+        }
     } else {
-        selected_recommend_style = null;
+        // 選択解除された場合は配列から削除
+        selected_recommend_style = selected_recommend_style.filter(item => item !== value);
     }
 });
 
 // フォームの送信を処理（「選択」ボタン）
 submit_selection.addEventListener('click', function () {
-    if (selected_recommend_style) {
-        selectedStyle.textContent = selected_recommend_style;
+    if (selected_recommend_style.length > 0) {
+        // 選択されたスタイルを改行で結合して表示
+        selectedStyle.textContent = selected_recommend_style.join('\n');
         closeModal1();
     } else {
         alert('旅行スタイルを選択してください。');
@@ -770,7 +771,7 @@ submit_selection.addEventListener('click', function () {
 // メインページの「選択解除」ボタンをクリックしたときの処理
 deselect_level1.addEventListener('click', function () {
     selectedStyle.textContent = '何も選択されていません';
-    selected_recommend_style = null;
+    selected_recommend_style = [];
     cards.forEach(card => card.classList.remove('selected'));
 });
 
@@ -778,12 +779,13 @@ deselect_level1.addEventListener('click', function () {
 deselect_modal.addEventListener('click', function () {
     // 選択されたスタイルをリセット
     selectedStyle.textContent = '何も選択されていません';
-    selected_recommend_style = null;
+    selected_recommend_style = [];
     // 全てのカードの選択状態を解除
     cards.forEach(card => card.classList.remove('selected'));
     // モーダルを閉じる
     closeModal1();
 });
+
 
 //-------------------------------------------------スポット詳細モーダルを閉じる
 

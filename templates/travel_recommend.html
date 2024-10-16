@@ -55,7 +55,7 @@
         </div>
         <div class="recommend_range" role="group">
             <p>推薦範囲: <output id="selected_range"></output> (km) </p>
-            <input type="range" name="distance_bar" id="distance_bar" min="1" max="150" step="1" value="50">
+            <input type="range" name="distance_bar" id="distance_bar" min="1" max="150" step="1" value="100">
         </div>
         <input type="button" class="button rerecommend-button" id="rerecommend_button_parm" value="再推薦">
         <input type="button" class="button close-button" id="close_button_parm" value="閉じる">
@@ -74,16 +74,86 @@
                     <span id="modal_level1_closeButton" class="modal-close-button">&times;</span>
                     <h2 style="text-align: center;">旅行スタイルを選択してください</h2>
                     <div class="card-container" id="travelStyleContainer">
-                        <div class="card" data-value="エンタメを楽しむ">エンタメを楽しむ</div>
-                        <div class="card" data-value="歴史を感じる">歴史を感じる</div>
-                        <div class="card" data-value="教養を高める">教養を高める</div>
-                        <div class="card" data-value="写真映えを狙う">写真映えを狙う</div>
-                        <div class="card" data-value="買い物を楽しむ">買い物を楽しむ</div>
-                        <div class="card" data-value="食事を楽しむ">食事を楽しむ</div>
-                        <div class="card" data-value="自然を楽しむ">自然を楽しむ</div>
-                        <div class="card" data-value="家族で過ごす">家族で過ごす</div>
-                        <div class="card" data-value="体験を満喫する">体験を満喫する</div>
-                        <div class="card" data-value="アートを楽しむ">アートを楽しむ</div>
+                        <div class="card" data-value="エンタメを楽しむ">
+                            エンタメを楽しむ
+                            <span class="tooltip">
+                                <span class="tooltip-title">関連する単語</span>
+                                <br>
+                                エンタメ,ゲーム,ショー,ライブ,映画館,コンサート,レジャー,イベント,アトラクション,遊園地,演劇,ミュージカル,娯楽,花火,カラオケ,ボーリング
+                            </span>
+                        </div>
+                        <div class="card" data-value="歴史を感じる">
+                            歴史を感じる
+                            <span class="tooltip">
+                                <span class="tooltip-title">関連する単語</span>
+                                <br>
+                                歴史,遺跡,博物館,城,城跡,史跡,古墳,古代,寺院,遺産,伝説,時代,古い,大正,昭和,明治,戦国,文化財,国宝,天守閣,遺構,文明
+                            </span>
+                        </div>
+                        <div class="card" data-value="教養を高める">
+                            教養を高める
+                            <span class="tooltip">
+                                <span class="tooltip-title">関連する単語</span>
+                                <br>
+                                教養,学び,書籍,大学,学校,勉強,文化,図書館,科学,歴史,教科書,博物館,研究,学問,文学,哲学,知識,資料
+                            </span>
+                        </div>
+                        <div class="card" data-value="写真映えを狙う">
+                            写真映えを狙う
+                            <span class="tooltip">
+                                <span class="tooltip-title">関連する単語</span>
+                                <br>
+                                写真,映え,インスタグラム,SNS,撮影,街並み,景色,風景,夜景,紅葉,桜,イルミネーション,展望台,フォト,見晴らし,眺め,シャッター,夕日
+                            </span>
+                        </div>
+                        <div class="card" data-value="買い物を楽しむ">
+                            買い物を楽しむ
+                            <span class="tooltip">
+                                <span class="tooltip-title">関連する単語</span>
+                                <br>
+                                買い物,ショッピング,市場,特産品,アウトレット,土産,ブランド,雑貨,商品,購買,購入,ファッション,免税,デパート,ショップ,売店
+                            </span>
+                        </div>
+                        <div class="card" data-value="食事を楽しむ">
+                            食事を楽しむ
+                            <span class="tooltip">
+                                <span class="tooltip-title">関連する単語</span>
+                                <br>
+                                食事,料理,屋台,レストラン,食べ,グルメ,スイーツ,お酒,海産物,和食,洋食,バーベキュー,美味しい,デザート,焼肉,ランチ,テイクアウト,定食,ラーメン,居酒屋,フード,ステーキ,朝食,喫茶,寿司,バイキング,ビュッフェ,ケーキ,肉,野菜,果物
+                            </span>
+                        </div>
+                        <div class="card" data-value="自然を楽しむ">
+                            自然を楽しむ
+                            <span class="tooltip">
+                                <span class="tooltip-title">関連する単語</span>
+                                <br>
+                                自然,景観,景色,夜景,絶景,展望,山,海,川,森,植物,滝,ハイキング,紅葉,桜,星空,花,砂漠,草原,畑,登山,山岳,緑,木々,森林,渓流,湖
+                            </span>
+                        </div>
+                        <div class="card" data-value="家族で過ごす">
+                            家族で過ごす
+                            <span class="tooltip">
+                                <span class="tooltip-title">関連する単語</span>
+                                <br>
+                                家族,子供,夫婦,ピクニック,親,兄弟,ファミリー,親子,祖父母,キャンプ,おじいちゃん,おばあちゃん,祖父,祖母,母,父,息子,娘
+                            </span>
+                        </div>
+                        <div class="card" data-value="体験を満喫する">
+                            体験を満喫する
+                            <span class="tooltip">
+                                <span class="tooltip-title">関連する単語</span>
+                                <br>
+                                体験,手作り,アスレチック,陶芸,乗馬,工芸,サイクリング,ダイビング,イチゴ狩り,ブドウ狩り,農業体験,セグウェイ,射撃,釣り,ジップライン,カヌー,スキー,スノーボード,熱気球,キャンドル,クライミング,サバイバル
+                            </span>
+                        </div>
+                        <div class="card" data-value="アートを楽しむ">
+                            アートを楽しむ
+                            <span class="tooltip">
+                                <span class="tooltip-title">関連する単語</span>
+                                <br>
+                                アート,美術,芸術,展示,彫刻,絵画,作品,映像,デザイン,建築,ミュージアム,画家,美術館,展示会
+                            </span>
+                        </div>
                     </div>
                     <div class="form-buttons">
                         <button type="button" class="button" id="submit_selection_button">選択</button>
@@ -160,7 +230,7 @@
         <div class="recom_plan_header" id="recom_plan_header_slider">スポットの人気度</div>
         <div class="recom_plan_body" id="slider_container">
             <span class="slider-label" id="label-hidden">穴場優先</span>
-            <input type="range" min="" max="2" step="1" value="1" class="slider" id="preference-slider">
+            <input type="range" min="" max="2" step="1" value="2" class="slider" id="preference-slider">
             <span class="slider-label" id="label-famous">有名所優先</span>
         </div>
 

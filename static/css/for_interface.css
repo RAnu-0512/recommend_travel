@@ -426,15 +426,20 @@ body {
     color: #c14343;
 }
 
-/* ハイライトされた観点のスタイル */
-.aspect.highlighted {
+
+
+#aspect_highlighted{
     color: #c14343;
     font-weight: bold;
+}
+
+
+.tooltip-box {
     position: relative; /* ツールチップの位置決めに必要 */
 }
 
 /* ツールチップの基本スタイル */
-.aspect.highlighted .tooltip {
+.tooltip-box .tooltip {
     visibility: hidden; /* デフォルトでは非表示 */
     width: 140px;
     background-color: #797979;
@@ -456,7 +461,7 @@ body {
 }
 
 /* ツールチップの矢印 */
-.aspect.highlighted .tooltip::after {
+.tooltip-box .tooltip::after {
     content: "";
     position: absolute;
     top: 100%; /* ツールチップの下部に配置 */
@@ -470,7 +475,7 @@ body {
 
 
 /* ホバー時にツールチップを表示 */
-.aspect.highlighted:hover .tooltip {
+.tooltip-box:hover .tooltip {
     visibility: visible;
     opacity: 1;
 }
@@ -732,6 +737,7 @@ body {
 }
 
 .card {
+    position: relative;
     flex: 1 1 calc(33.333% - 30px);
     background-color: #f1f1f1;
     border: 2px solid #ccc;
@@ -751,6 +757,51 @@ body {
     border-color: #888;
 }
 
+.card:hover .tooltip{
+    visibility: visible;
+    opacity: 1;
+}
+
+
+/* ツールチップの基本スタイル */
+.card .tooltip {
+    visibility: hidden; /* デフォルトでは非表示 */
+    width: 300px;
+    background-color: #797979;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 10px;
+    
+    /* ツールチップの位置 */
+    position: absolute;
+    z-index: 1;
+    bottom: 113%; /* 親要素の上に表示 */
+    left: 0%;
+    margin-left: -60px; /* ツールチップを中央揃え */
+    
+    /* ツールチップのフェードイン効果 */
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+/* ツールチップの矢印 */
+.card .tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%; /* ツールチップの下部に配置 */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip-title{
+    font-weight: bold;
+}
+
+
 #submit_selection_button {
     margin-top: 10px;
 }
@@ -760,6 +811,7 @@ body {
     text-align: center;
     font-weight: bold;
     color: #555;
+    white-space: pre-line; /* 改行を有効にする */
     transition: color 0.3s;
 }
 #selected_style:hover {

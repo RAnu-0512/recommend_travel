@@ -82,21 +82,21 @@ def get_recommended_spots():
     pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
     rec_range = int(data.get('range'))
     selected_aspects = data.get('selected_aspects')
-    selected_style = data.get("selected_style")
+    selected_styles = data.get("selected_style").split("\n")
     selected_spots = data.get("selectedSpots")
     popularity_type_value = data.get("popularityType")
     popularity_types = {
-        0: "穴場",
-        1: "普通",
-        2: "有名"
+        "0": "穴場",
+        "1": "普通",
+        "2": "有名"
     }
     popularity_type = popularity_types[popularity_type_value]
-    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_style: {selected_style}\n selected_spots: {selected_spots}\n 人気度考慮タイプ: {popularity_type}")
+    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_styles: {selected_styles}\n selected_spots: {selected_spots}\n 人気度考慮タイプ: {popularity_type}")
     spots_info = allpref_spots_info[pref]
     cluster_info = allpref_clusters_info[pref]
     
     #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},major_aspects:{},miner_aspects:{},"score":score,"spot_url":url}),(spot_name,{}), ...]
-    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,selected_style,selected_spots,popularity_type,pref,top_n) 
+    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,selected_styles,selected_spots,popularity_type,pref,top_n) 
     
     print("recommend_spots: ", recommend_spots[:1],"等")
     response_data = []

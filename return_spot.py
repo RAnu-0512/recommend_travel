@@ -16,7 +16,7 @@ from sklearn.preprocessing import normalize
 #スコアが高いtop nスポットのスポットを返却
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
 #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
-def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, allpref_spots_info,cluster_info,selected_style,selected_spots,popularity_type,pref,n):
+def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, allpref_spots_info,cluster_info,selected_styles,selected_spots,popularity_type,pref,n):
     spots_info = allpref_spots_info[pref]
     read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99.csv"
     #スタイルベクトルを読み込む
@@ -39,9 +39,11 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                   "教養を高める":"learning",
                   "歴史を感じる":"history",
                   "エンタメを楽しむ":"entertainment"}
-    if selected_style != "何も選択されていません":    
-        selected_style_word = style_dict[selected_style]
-        check_needed_aspect_forStyle1 =return_check_needed_aspects(style_vectors_dcit[selected_style_word],cluster_info)
+    if selected_styles != ["何も選択されていません"]:
+        check_needed_aspect_forStyle1 = []
+        for selected_style in selected_styles:
+            selected_style_word = style_dict[selected_style]
+            check_needed_aspect_forStyle1 +=return_check_needed_aspects(style_vectors_dcit[selected_style_word],cluster_info)
     
 
     #スタイル2のベクトルを読み込む
@@ -75,9 +77,11 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         if haversine_distance(selected_lat,selected_lng,lat,lng) <= recommend_range:
             selected_aspects_parm = [1] * len(selected_aspect_list)
             selected_aspectsVector,check_needed_aspect = return_selected_aspectsVector(selected_aspect_list,selected_aspects_parm,pref)
-            if selected_style != "何も選択されていません" :   
+            if selected_styles != ["何も選択されていません"] :   
                 check_needed_aspect += check_needed_aspect_forStyle1
-                selected_aspectsVector = [a + b  for a, b in zip(selected_aspectsVector, style_vectors_dcit[selected_style_word])]
+                for selected_style in selected_styles:
+                    selected_style_word = style_dict[selected_style]
+                    selected_aspectsVector = [a + b  for a, b in zip(selected_aspectsVector, style_vectors_dcit[selected_style_word])]
             if selected_spots != ["何も選択されていません"] :
                 selected_aspectsVector = [a + b  for a, b in zip(selected_aspectsVector,style2_vector)]
                 check_needed_aspect += check_needed_aspect_forStyle2
@@ -248,10 +252,10 @@ def calc_weight(revnum,popularity_type):
 
 def calc_spot_score(selected_aspectsVector, spots_aspectsVector, spot_numOfRev,popularity_type):
     score = 0.0
-    similarity = cos_sim(selected_aspectsVector,spots_aspectsVector)
+    similarity = dot_sim(selected_aspectsVector,spots_aspectsVector)
     if popularity_type == "普通":
         score = similarity
-    elif popularity_type == "有名" or popularity_type == "人気":
+    elif popularity_type == "有名" or popularity_type == "穴場":
         if spot_numOfRev != None:
             weight = calc_weight(spot_numOfRev,popularity_type)
             score = weight * similarity
