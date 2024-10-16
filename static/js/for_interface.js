@@ -636,10 +636,10 @@ document.getElementById('resetButton').addEventListener('click', function () {
 //検索ボックス
 document.getElementById("close_button_parm").addEventListener("click", function () {
     if (document.getElementById("recommend_style_box").style.display == "none") {
-        document.getElementById("open_button_recom").style.top = "100px";
+        document.getElementById("open_button_recom").style.top = "83px";
     }
     else {
-        document.getElementById("recommend_style_box").style.top = "100px";
+        document.getElementById("recommend_style_box").style.top = "83px";
     }
     document.getElementById("parameters").style.display = "none";
     document.getElementById("open_button_parm").style.display = "";
@@ -647,10 +647,10 @@ document.getElementById("close_button_parm").addEventListener("click", function 
 
 document.getElementById("open_button_parm").addEventListener("click", function () {
     if (document.getElementById("recommend_style_box").style.display == "none") {
-        document.getElementById("open_button_recom").style.top = "230px";
+        document.getElementById("open_button_recom").style.top = "213px";
     }
     else {
-        document.getElementById("recommend_style_box").style.top = "230px";
+        document.getElementById("recommend_style_box").style.top = "213px";
     }
     document.getElementById("parameters").style.display = "";
     document.getElementById("open_button_parm").style.display = "none";
@@ -659,10 +659,10 @@ document.getElementById("open_button_parm").addEventListener("click", function (
 //推薦プランの選択ボックス
 document.getElementById("close_button_recom").addEventListener("click", function () {
     if (document.getElementById("parameters").style.display == "none") {
-        document.getElementById("open_button_recom").style.top = "100px";
+        document.getElementById("open_button_recom").style.top = "83px";
     }
     else {
-        document.getElementById("open_button_recom").style.top = "230px";
+        document.getElementById("open_button_recom").style.top = "217px";
     }
     document.getElementById("recommend_style_box").style.display = "none";
     document.getElementById("open_button_recom").style.display = "";
@@ -670,10 +670,10 @@ document.getElementById("close_button_recom").addEventListener("click", function
 
 document.getElementById("open_button_recom").addEventListener("click", function () {
     if (document.getElementById("parameters").style.display == "none") {
-        document.getElementById("recommend_style_box").style.top = "100px";
+        document.getElementById("recommend_style_box").style.top = "83px";
     }
     else {
-        document.getElementById("recommend_style_box").style.top = "230px"
+        document.getElementById("recommend_style_box").style.top = "213px"
     }
     document.getElementById("recommend_style_box").style.display = "";
     document.getElementById("open_button_recom").style.display = "none";
