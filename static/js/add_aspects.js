@@ -1,13 +1,9 @@
 function removeItem(element) {
-    console.log("受けとったエレメント", element)
     const parent = element.parentNode;
     parent.removeChild(element);
-    console.log("削除するエレメント:",element)
     aspect = element.querySelector(".selected_result").textContent;
-    console.log(aspect)
     // チェックボックスを解除
     const checkbox = document.querySelector(`input[name="search_result"][value="${aspect}"]`);
-    console.log("削除する項目" + aspect +checkbox);
     if (checkbox) {
         checkbox.checked = false;
     }
@@ -17,14 +13,10 @@ function removeItem(element) {
 // スポットの選択/解除を処理する関数
 function handleAspectSelection(event) {
     const aspectName = event.target.value;
-    console.log("handleAspectSelection" + aspectName);
     const selectedAspects = Array.from(document.querySelectorAll('#selected_results .selected_result')).map(el => el.textContent);
-    console.log("handleAspectSelection" + selectedAspects);
 
     if (event.target.checked) {
-        console.log("1");
         if (!selectedAspects.includes(aspectName)) {
-            console.log("2");
             AddSelectedAspectsDisplay(aspectName);
         }
     } else {
@@ -34,7 +26,6 @@ function handleAspectSelection(event) {
                 const selectedResult = div.querySelector('.selected_result');
                 return selectedResult && selectedResult.textContent === aspectName;
             });
-            console.log("チェックボックスが外れた",aspectName);
             removeItem(aspectNameElement)
         }
     }
@@ -46,7 +37,6 @@ function AddSelectedAspectsDisplay(aspectName) {
     const selected_aspect = document.createElement('span');
     const removeButton = document.createElement('button');
     const priorityDropdown = document.createElement('select')
-    const titleDropdown = document.createElement("span");
 
     const priorityLevel1 = document.createElement('option');
     const priorityLevel2 = document.createElement('option');
@@ -56,9 +46,10 @@ function AddSelectedAspectsDisplay(aspectName) {
 
 
     resultElement.appendChild(selected_aspect);
-    resultElement.appendChild(removeButton);
-    resultElement.appendChild(titleDropdown);
     resultElement.appendChild(priorityDropdown);
+    resultElement.appendChild(removeButton);
+    
+    
 
     
 
@@ -70,30 +61,32 @@ function AddSelectedAspectsDisplay(aspectName) {
 
     resultsContainer.appendChild(resultElement);
 
+    resultElement.className = "selected_aspect_container"
+
     selected_aspect.className = "selected_result";
     selected_aspect.textContent = aspectName;
     
     removeButton.className = "remove_button";
     removeButton.textContent = '削除';
     removeButton.onclick = function () {
-        console.log("削除ボタンが押された",resultElement)
         removeItem(resultElement);
     };
 
-    
-    titleDropdown.textContent = "優先度";
+
+    priorityDropdown.className = "prioritySelectDropdown";
 
     priorityLevel1.value = "1";
-    priorityLevel1.textContent = 1;
+    priorityLevel1.textContent = "優先度A";
     priorityLevel2.value = "2";
-    priorityLevel2.textContent = 2;
+    priorityLevel2.textContent = "優先度B";
     priorityLevel3.value = "3";
-    priorityLevel3.textContent = 3;
+    priorityLevel3.textContent = "優先度C";
     priorityLevel4.value = "4";
-    priorityLevel4.textContent = 4;
+    priorityLevel4.textContent = "優先度D";
     priorityLevel5.value = "5";
-    priorityLevel5.textContent = 5;
+    priorityLevel5.textContent = "優先度E";
 
+    
     
 }
 

@@ -81,7 +81,7 @@ def get_recommended_spots():
     lng = float(data.get('clicked_lng'))
     pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
     rec_range = int(data.get('range'))
-    selected_aspects = data.get('selected_aspects')
+    selected_aspects = data.get('selected_aspects') #[{"aspect":asp1,"priority":prio1},{...}]
     selected_styles = data.get("selected_style").split("\n")
     selected_spots = data.get("selectedSpots")
     popularity_type_value = data.get("popularityType")

@@ -59,7 +59,18 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
             style2_vector = [a + b for a, b in zip(style2_vector, style2_vector_add)]
         check_needed_aspect_forStyle2 = return_check_needed_aspects(style2_vector,cluster_info)
 
-
+    priority_score_map = {
+        "1": 1.0,
+        "2": 0.8,
+        "3": 0.6,
+        "4": 0.4,
+        "5": 0.2
+    }
+    selected_aspects_parm = [priority_score_map[aspect["priority"]] for aspect in selected_aspect_list]
+    selected_aspects = [aspect["aspect"] for aspect in selected_aspect_list]
+    print("選択した観点 : ",selected_aspects)
+    print("選択した観点の重み : ",selected_aspects_parm)
+    
     #{aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}
     recommend_spots_info = {}
     for sn,spot_info in spots_info.items():
@@ -74,9 +85,10 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         spot_url = spot_info["spot_url"]
         major_aspect_list = spot_info["major_aspects"]
         miner_aspect_list = spot_info["miner_aspects"]
+        
+        
         if haversine_distance(selected_lat,selected_lng,lat,lng) <= recommend_range:
-            selected_aspects_parm = [1] * len(selected_aspect_list)
-            selected_aspectsVector,check_needed_aspect = return_selected_aspectsVector(selected_aspect_list,selected_aspects_parm,pref)
+            selected_aspectsVector,check_needed_aspect = return_selected_aspectsVector(selected_aspects,selected_aspects_parm,pref)
             if selected_styles != ["何も選択されていません"] :   
                 check_needed_aspect += check_needed_aspect_forStyle1
                 for selected_style in selected_styles:

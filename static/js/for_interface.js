@@ -159,14 +159,22 @@ function senti2StarsEval(senti_socre) {
             mymap.off('click', onMapClick);
 
 
-            //クリックされたときの選択した観点,推薦範囲を読み取る
-            const selectedResults = document.getElementsByClassName('selected_result');
-            const selectedResults_Array = Array.from(selectedResults);
-            const selectedResultsTextArray = []
-            selectedResults_Array.forEach(selectedresults_array_n => {
-                selectedResultsTextArray.push(selectedresults_array_n.textContent)
-                //console.log(selectedresults_array_n.textContent)
-            })
+            // クリックされたときの選択した観点を読み取る
+            const selectedResultsContainers = document.getElementsByClassName('selected_aspect_container');
+            const selectedResultsArray = Array.from(selectedResultsContainers);
+            const selectedResultsDataArray = [];
+
+            selectedResultsArray.forEach(container => {
+                const aspectName = container.querySelector('.selected_result').textContent; // 観点の名前
+                const priorityValue = container.querySelector('.prioritySelectDropdown').value; // 現在の優先度
+
+                // オブジェクトとして格納
+                selectedResultsDataArray.push({
+                    aspect: aspectName,
+                    priority: priorityValue
+                });
+            });
+
             const selectedSpots_level2 = selectedSpotsHTML_level2.split("<br>");
             const selectedSpots_level3 = selectedSpotsHTML_level3.split("<br>");
             // "何も選択されていません" を除外したフィルタリング済み配列
@@ -182,21 +190,23 @@ function senti2StarsEval(senti_socre) {
 
             const slider = document.getElementById('preference-slider');
             const popularityType = slider.value;
-            
+
+
+
             console.log("選択した推薦スタイル:", selectedStyle)
             console.log("選択したスポット:", selectedSpots)
-            console.log("選択した観点", selectedResultsTextArray);
+            console.log("選択した観点(優先度)", selectedResultsDataArray);
             console.log('スポット人気度の考慮:', popularityType);  //0:穴場優先  1:人気度考慮しない 2:人気スポット優先
             console.log("距離", lastSelectedValue);
             console.log("選択地点", lat, lng);
-           
+
 
             fetch("/get_recommended_spots", {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsTextArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots, popularityType: popularityType })
+                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsDataArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots, popularityType: popularityType })
             })
                 .then((res) => {
                     if (!res.ok) {
@@ -888,7 +898,7 @@ async function fetchAndDisplayRandomSpot() {
             const checkbox = document.createElement("input");
             checkbox.type = "checkbox";
             checkbox.id = `spot_${spotName}`;
-            checkbox.value =  `${spotName}[地域:${prefecture}]`;
+            checkbox.value = `${spotName}[地域:${prefecture}]`;
             checkbox.checked = selectedSpots.includes(`${spotName}[地域:${prefecture}]`);
             checkbox.addEventListener("change", handleSpotSelection);
 
@@ -1091,7 +1101,7 @@ searchButton_modal3.addEventListener("click", () => {
     if (query !== "") {
         performSearch_modal3(query, selected_pref);
     }
-    if (query == ""){
+    if (query == "") {
         alert("検索キーワードを入力してください。")
         searchButton_modal3.disabled = false;
     }
@@ -1299,3 +1309,29 @@ async function loadSpotImage(photoUrl, defaultUrl) {
         return defaultUrl;
     }
 }
+
+
+// -----------------
+// 選択した観点の説明tooltip
+
+document.addEventListener('DOMContentLoaded', function() {
+    const tooltipTrigger = document.querySelector('.question-tooltip');
+    const tooltipContent = document.querySelector('.question-tooltip-content');
+
+    // ツールチップの表示/非表示を切り替える関数
+    function toggleTooltip(event) {
+        event.stopPropagation(); // イベントのバブリングを防ぐ
+        tooltipTrigger.classList.toggle('active');
+    }
+
+    // ページのクリックでツールチップを閉じる
+    function closeTooltip() {
+        tooltipTrigger.classList.remove('active');
+    }
+
+    // はてなマークをクリックしたときにツールチップを切り替える
+    tooltipTrigger.addEventListener('click', toggleTooltip);
+
+    // ページ全体をクリックしたときにツールチップを閉じる
+    document.addEventListener('click', closeTooltip);
+});
