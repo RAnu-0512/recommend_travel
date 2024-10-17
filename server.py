@@ -2,7 +2,7 @@ from flask import Flask, render_template, jsonify, request, url_for,redirect
 import webbrowser
 import gensim
 from read_sp_info import get_spotinfo
-from return_aspect import return_aspect,popular_aspects
+from return_aspect import return_aspect,popular_aspects,get_random_aspects
 from calculate_distance import calc_near_spot
 from return_spot import return_spot,get_other_pref_spot
 from read_cluster_info import get_clusterinfo
@@ -175,6 +175,17 @@ def recommend_aspects():
     recommended_aspects = popular_aspects(pref_majorminer_info,aspect_top_n)
     return_aspects = [{"label": result, "value": result} for result in recommended_aspects]
     return jsonify({"recommend_aspects": return_aspects})
+
+@app.route("/random_aspects", methods = ["POST"])
+def random_aspects():
+    print("random aspects")
+    data=request.get_json()
+    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
+    print("ランダム観点クリック> random_aspects : ", pref)
+    spots_info = allpref_spots_info[pref]
+    random_aspects = get_random_aspects(spots_info,aspect_top_n)
+    return_aspects = [{"label": result, "value": result} for result in random_aspects]
+    return jsonify({"random_aspects": return_aspects})
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Process some arguments.')

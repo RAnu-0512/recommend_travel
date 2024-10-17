@@ -210,10 +210,6 @@ body {
     margin-top: 10px;
 }
 
-#add_selected_aspects {
-    margin-top: 3px;
-}
-
 #delete_button {
     margin-top: 2px;
     background-color: rgba(116, 10, 19, 0.74);
@@ -295,6 +291,7 @@ body {
 }
 
 .recommend_aspect_button {
+    margin-top: 3px;
     background-color: rgba(12, 116, 10, 0.74);
     color: white;
     border: none;
@@ -623,7 +620,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 250px;
-    height: 464px;
+    height: 460px;
     margin-top: 5px;
     margin-bottom: 5px;
     padding: 5px 5px;
@@ -806,7 +803,7 @@ body {
 }
 
 #selected_style {
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
     margin-top: 6px;
     margin-left: auto;
@@ -1097,7 +1094,7 @@ body {
 }
 
 #selected_spot_level2{
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
     margin-top: 6px;
     margin-left: auto;
@@ -1349,7 +1346,6 @@ body {
     list-style-type: none;
     padding: 0;
     max-height: 150px;
-    overflow-y: auto;
 }
 
 #modal_level3 #selected_spots_list_modal3 li {
@@ -1459,7 +1455,7 @@ body {
 }
 
 #selected_spot_level3{
-    font-size: 16px;
+    font-size: 14px;
     text-align: center;
     margin-top: 6px;
     margin-left: auto;
@@ -1482,14 +1478,14 @@ body {
     display: flex; /* Flexboxを有効にする */
     justify-content: center; /* 水平方向に中央揃え */
     align-items: center;
-    height: 35px;
+    height: 30px;
 
 }
 
 .slider-label {
     display: flex;
     align-items: center;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
     color: #555;
     transition: color 0.3s;

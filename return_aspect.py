@@ -98,7 +98,13 @@ def popular_aspects(pref_majorminer_info,n):
     recommend_aspect = random.sample(major_list, k=n)
     return recommend_aspect
 
-
+def get_random_aspects(spots_info,n):
+    all_aspects = []
+    for spot_name,spot_info in spots_info.items():
+        for aspect,aspect_info in spot_info["aspects"].items():     
+            all_aspects.append(aspect)
+    random_aspects = random.sample(all_aspects, k=n)
+    return random_aspects
 
 
 def calc_aspect_score(query,all_aspects_vectors,model):

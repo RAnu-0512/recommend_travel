@@ -579,7 +579,6 @@ function senti2StarsEval(senti_socre) {
         const popups = []; //ポップアップのリスト
         range_bar_always();
         get_keyword(selected_pref);
-        add_selected_aspects();
         // DOMが完全に読み込まれた後にイベントリスナーを設定
         const rerecommend_button = document.getElementById('rerecommend_button_parm');
         if (rerecommend_button) {
@@ -600,23 +599,9 @@ function senti2StarsEval(senti_socre) {
             }
             );
         }
-        const modal2_close_button = document.querySelector(".modal-level2-close-button");
-        if (modal2_close_button) {
-            modal2_close_button.addEventListener('click', () => {
-                onStyleSelectButtonClick(lat_start, lng_start)
-            }
-            );
-        }
         const modal3_complete_button = document.getElementById("complete_button_modal3");
         if (modal3_complete_button) {
             modal3_complete_button.addEventListener('click', () => {
-                onStyleSelectButtonClick(lat_start, lng_start)
-            }
-            );
-        }
-        const modal3_close_button = document.querySelector(".modal-level3-close-button");
-        if (modal3_close_button) {
-            modal3_close_button.addEventListener('click', () => {
                 onStyleSelectButtonClick(lat_start, lng_start)
             }
             );
@@ -872,7 +857,6 @@ async function fetchAndDisplayRandomSpot() {
         // 各スポットを表示
         for (const spot of randomSpots) {
             const [spotName, prefecture] = spot;
-
             // ここで写真URLがないため、代替画像を使用します
             const photoUrl = "static/images/" + prefecture + "/" + spotName + ".jpg";
 
@@ -904,8 +888,8 @@ async function fetchAndDisplayRandomSpot() {
             const checkbox = document.createElement("input");
             checkbox.type = "checkbox";
             checkbox.id = `spot_${spotName}`;
-            checkbox.value = spotName + `[地域:${prefecture}]`;
-            checkbox.checked = selectedSpots.includes(spotName);
+            checkbox.value =  `${spotName}[地域:${prefecture}]`;
+            checkbox.checked = selectedSpots.includes(`${spotName}[地域:${prefecture}]`);
             checkbox.addEventListener("change", handleSpotSelection);
 
             const label = document.createElement("label");
@@ -920,7 +904,10 @@ async function fetchAndDisplayRandomSpot() {
             // スポットカードをコンテナに追加
             spotsContainer.appendChild(spotCard);
         }
-
+        const refreshSpotButton = document.getElementById("refresh_spot_button");
+        const modal2OppenButton = document.getElementById("modal_level2_openButton");
+        modal2OppenButton.disabled = false;
+        refreshSpotButton.disabled = false;
     } catch (error) {
         console.error('エラー:', error);
         const errorMsg = document.createElement("p");
@@ -1014,11 +1001,14 @@ deselectAllButton.addEventListener("click", () => {
 
 // 「違うスポットを見る」ボタンのクリックイベント
 refreshSpotButton.addEventListener("click", async () => {
+    refreshSpotButton.disabled = true;
     await fetchAndDisplayRandomSpot();
 });
 
 // 「スポットを選択」ボタンが押されたらモーダルを開く
-document.getElementById("modal_level2_openButton").addEventListener("click", async () => {
+const modal2OppenButton = document.getElementById("modal_level2_openButton");
+modal2OppenButton.addEventListener("click", async () => {
+    modal2OppenButton.disabled = true;
     await fetchAndDisplayRandomSpot();
     modal_level2.style.display = "block";
 });
@@ -1097,8 +1087,13 @@ openButton_modal3.addEventListener("click", () => {
 // 検索ボタンのクリックイベント
 searchButton_modal3.addEventListener("click", () => {
     const query = searchInput_modal3.value.trim();
+    searchButton_modal3.disabled = true;
     if (query !== "") {
         performSearch_modal3(query, selected_pref);
+    }
+    if (query == ""){
+        alert("検索キーワードを入力してください。")
+        searchButton_modal3.disabled = false;
     }
 });
 
@@ -1169,7 +1164,7 @@ async function performSearch_modal3(query, pref) {
             checkbox.type = "checkbox";
             checkbox.id = `modal3_spot_${spotName}`;
             checkbox.value = `${spotName}[地域:${prefecture}]`;
-            checkbox.checked = selectedSpots_modal3.includes(spotName);
+            checkbox.checked = selectedSpots_modal3.includes(`${spotName}[地域:${prefecture}]`);
             checkbox.addEventListener("change", handleSpotSelection_modal3);
 
             const label = document.createElement("label");
@@ -1184,7 +1179,8 @@ async function performSearch_modal3(query, pref) {
             // スポットカードをコンテナに追加
             spotsContainer_modal3.appendChild(spotCard);
         }
-
+        const searchButton_modal3 = document.getElementById("search_button_modal3");
+        searchButton_modal3.disabled = false;
     } catch (error) {
         console.error('エラー:', error);
         const errorMsg = document.createElement("p");
