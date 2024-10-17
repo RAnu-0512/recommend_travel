@@ -44,21 +44,57 @@ function AddSelectedAspectsDisplay(aspectName) {
     const resultsContainer = document.getElementById("selected_results");
     const resultElement = document.createElement('div');
     const selected_aspect = document.createElement('span');
+    const removeButton = document.createElement('button');
+    const priorityDropdown = document.createElement('select')
+    const titleDropdown = document.createElement("span");
+
+    const priorityLevel1 = document.createElement('option');
+    const priorityLevel2 = document.createElement('option');
+    const priorityLevel3 = document.createElement('option');
+    const priorityLevel4 = document.createElement('option');
+    const priorityLevel5 = document.createElement('option');
+
+
+    resultElement.appendChild(selected_aspect);
+    resultElement.appendChild(removeButton);
+    resultElement.appendChild(titleDropdown);
+    resultElement.appendChild(priorityDropdown);
+
+    
+
+    priorityDropdown.appendChild(priorityLevel1);
+    priorityDropdown.appendChild(priorityLevel2);
+    priorityDropdown.appendChild(priorityLevel3);
+    priorityDropdown.appendChild(priorityLevel4);
+    priorityDropdown.appendChild(priorityLevel5);
+
+    resultsContainer.appendChild(resultElement);
+
     selected_aspect.className = "selected_result";
     selected_aspect.textContent = aspectName;
-    resultElement.appendChild(selected_aspect);
-
-    const removeButton = document.createElement('button');
+    
     removeButton.className = "remove_button";
     removeButton.textContent = '削除';
-
     removeButton.onclick = function () {
         console.log("削除ボタンが押された",resultElement)
         removeItem(resultElement);
     };
 
-    resultElement.appendChild(removeButton);
-    resultsContainer.appendChild(resultElement);
+    
+    titleDropdown.textContent = "優先度";
+
+    priorityLevel1.value = "1";
+    priorityLevel1.textContent = 1;
+    priorityLevel2.value = "2";
+    priorityLevel2.textContent = 2;
+    priorityLevel3.value = "3";
+    priorityLevel3.textContent = 3;
+    priorityLevel4.value = "4";
+    priorityLevel4.textContent = 4;
+    priorityLevel5.value = "5";
+    priorityLevel5.textContent = 5;
+
+    
 }
 
 

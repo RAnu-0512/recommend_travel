@@ -187,7 +187,7 @@ body {
     font-size: 14px;
     font-weight: bold;
     border-radius: 8px;
-    margin-left: 2px;
+    margin-left: -5px;
     cursor: pointer;
 }
 
@@ -261,8 +261,15 @@ body {
 
 /* 選択結果のスタイル */
 .selected_results {
+    display:block;
     margin-top: 15px;
     margin-right: 5px;
+}
+
+
+.selected_result{
+    width: 85px;
+    font-size: 15px;
 }
 
 #fix_distance {
@@ -594,9 +601,13 @@ body {
 }
 
 #selected_results div {
-    display: inline-block;
-    margin-right: 10px;
-    /* チェックボックス間の余白を調整する場合は適宜変更 */
+    margin-bottom: 3px;
+    display: flex;
+    border: 1px solid #ccc;
+    background: rgb(241, 241, 241, 0.5);
+    padding: 3px;
+    border-radius: 10px;
+    align-items: center;
 }
 
 
