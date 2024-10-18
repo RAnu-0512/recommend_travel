@@ -57,7 +57,7 @@ body {
 
 .recom_plan_body {
     width: 250px;
-    height: 100px;
+    height: 90px;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     margin-bottom: 5px;
@@ -138,9 +138,9 @@ body {
     background-color: rgba(12, 116, 10, 0.74);
     color: white;
     border: none;
-    padding: 5px 5px;
+    padding: 0px 5px;
     text-align: center;
-    height: 30px;
+    height: 25px;
     font-size: 14px;
     font-weight: bold;
     border-radius: 8px;
@@ -211,18 +211,8 @@ body {
 }
 
 #delete_button {
-    margin-top: 2px;
+    margin-top: 3px;
     background-color: rgba(116, 10, 19, 0.74);
-    color: white;
-    border: none;
-    padding: 5px 5px;
-    text-align: center;
-    height: 30px;
-    font-size: 14px;
-    font-weight: bold;
-    border-radius: 8px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
 }
 
 .deselect_button {
@@ -230,9 +220,9 @@ body {
     background-color: rgba(116, 10, 19, 0.74);
     color: white;
     border: none;
-    padding: 5px 5px;
+    padding: 0px 5px;
     text-align: center;
-    height: 30px;
+    height: 25px;
     font-size: 14px;
     font-weight: bold;
     border-radius: 8px;
@@ -262,7 +252,7 @@ body {
 /* 選択結果のスタイル */
 .selected_results {
     display: block;
-    margin-top: 15px;
+    margin-top: 10px;
     margin-right: 5px;
 }
 
@@ -336,9 +326,9 @@ body {
     background-color: rgba(12, 116, 10, 0.74);
     color: white;
     border: none;
-    padding: 5px 5px;
+    padding: 0px 5px;
     text-align: center;
-    height: 30px;
+    height: 25px;
     font-size: 14px;
     font-weight: bold;
     border-radius: 8px;
@@ -628,10 +618,10 @@ body {
 
 #head-selected_results {
     position: relative; /* ツールチップの位置基準にするために相対位置を設定 */
-    display: flex;
     align-items: center; /* 垂直方向に中央揃え */
     height: 25px;
     font-weight: bold;
+    text-align: center;
 }
 
 .question-tooltip {
@@ -643,7 +633,7 @@ body {
     background: gray;
     border-radius: 50%; /* 完全な円形にする */
     color: white; /* テキストの色を白に */
-    margin-left: 8px; /* テキストとの間隔を調整 */
+    margin-left: -4px; /* テキストとの間隔を調整 */
     cursor: pointer;
     position: relative; /* ツールチップの位置基準にする */
 }
@@ -652,7 +642,7 @@ body {
     display: none;
     position: absolute;
     bottom: -115%;
-    left: 116%;
+    left: 142%;
     transform: translateX(-50%);
     margin-top: 8px;
     padding: 8px;
@@ -670,7 +660,7 @@ body {
     content: '';
     position: absolute;
     bottom: 34%;
-    left: -6px;
+    left: -5px;
     transform: translateX(-50%);
     border-width: 6px;
     border-style: solid;
@@ -1635,11 +1625,10 @@ body {
 /* ------------------------ */
 /* 有名所穴場所スライダー */
 
+/* 
 #slider_container {
     display: flex;
-    /* Flexboxを有効にする */
     justify-content: center;
-    /* 水平方向に中央揃え */
     align-items: center;
     height: 30px;
 
@@ -1660,6 +1649,30 @@ body {
 
 .slider {
     width: 95px;
-    /* スライダーの幅を調整 */
     cursor: pointer;
+} */
+
+
+
+#radio_container {
+    height: 66px;
+
+}
+
+.radio-label {
+    display: block;
+    margin-bottom: 0px;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: bold;
+    color: #555;
+    transition: color 0.3s;
+}
+
+.radio-label:hover {
+    color: #000000;
+}
+
+.radio-label input {
+    margin-right: 8px;
 }

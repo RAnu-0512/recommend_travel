@@ -188,15 +188,15 @@ function senti2StarsEval(senti_socre) {
             }
             let lastSelectedValue = distanceBar.value;
 
-            const slider = document.getElementById('preference-slider');
-            const popularityType = slider.value;
+            const selectedRadio = document.querySelector('input[name="spot_preference"]:checked');
+            const recommendSpotsType = selectedRadio ? selectedRadio.value : null;
 
 
 
             console.log("選択した推薦スタイル:", selectedStyle)
             console.log("選択したスポット:", selectedSpots)
             console.log("選択した観点(優先度)", selectedResultsDataArray);
-            console.log('スポット人気度の考慮:', popularityType);  //0:穴場優先  1:人気度考慮しない 2:人気スポット優先
+            console.log('推薦するスポット:', recommendSpotsType); 
             console.log("距離", lastSelectedValue);
             console.log("選択地点", lat, lng);
 
@@ -206,7 +206,7 @@ function senti2StarsEval(senti_socre) {
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsDataArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots, popularityType: popularityType })
+                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsDataArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots, recommendSpotsType: recommendSpotsType })
             })
                 .then((res) => {
                     if (!res.ok) {
@@ -1313,7 +1313,7 @@ async function loadSpotImage(photoUrl, defaultUrl) {
 // -----------------
 // 選択した観点の説明tooltip
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     const tooltipTrigger = document.querySelector('.question-tooltip');
     const tooltipContent = document.querySelector('.question-tooltip-content');
 

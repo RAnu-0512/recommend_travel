@@ -6,7 +6,7 @@ from return_aspect import return_aspect,popular_aspects,get_random_aspects
 from calculate_distance import calc_near_spot
 from return_spot import return_spot,get_other_pref_spot
 from read_cluster_info import get_clusterinfo
-from read_majorminer_info import get_majorminer_info
+from get_pref_info import get_allpref_info
 import argparse
 import csv
 import random
@@ -36,9 +36,9 @@ print(".....クラスタリング情報読み込み中")
 allpref_clusters_info = get_clusterinfo()
 print(".....クラスタリング情報読み込み完了!!")
 
-print(".....メジャーマイナー観点情報読み込み中")
-allpref_majorminer_info = get_majorminer_info()
-print(".....メジャーマイナー観点情報読み込み完了!!")
+print(".....県情報読み込み中")
+allpref_info = get_allpref_info(allpref_spots_info)
+print(".....県情報読み込み完了!!")
 
 
 list_spots = []
@@ -84,20 +84,16 @@ def get_recommended_spots():
     selected_aspects = data.get('selected_aspects') #[{"aspect":asp1,"priority":prio1},{...}]
     selected_styles = data.get("selected_style").split("\n")
     selected_spots = data.get("selectedSpots")
-    popularity_type_value = data.get("popularityType")
-    popularity_types = {
-        "0": "穴場",
-        "1": "普通",
-        "2": "有名"
-    }
-    popularity_type = popularity_types[popularity_type_value]
-    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_styles: {selected_styles}\n selected_spots: {selected_spots}\n 人気度考慮タイプ: {popularity_type}")
+    recommendSpotsType = data.get("recommendSpotsType")
+
+    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_styles: {selected_styles}\n selected_spots: {selected_spots}\n 推薦するスポットタイプ: {recommendSpotsType}")
     spots_info = allpref_spots_info[pref]
     cluster_info = allpref_clusters_info[pref]
+    pref_info = allpref_info[pref]
 
     #返却形式は[[spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},major_aspects:{},miner_aspects:{},"score":score,"spot_url":url,
     # "selectAspectSim":sim1,"selectStyleSim":sim2,"selectSpotSim":sim3,"popularWight":popular_wight}],[spot_name,{}], ...]
-    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,selected_styles,selected_spots,popularity_type,pref,top_n) 
+    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,pref_info,selected_styles,selected_spots,recommendSpotsType,pref,top_n) 
     
     print("recommend_spots: ", recommend_spots[:1],"等")
     response_data = []
@@ -176,8 +172,8 @@ def recommend_aspects():
     data=request.get_json()
     pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
     print("おすすめ観点クリック> selected_pref : ", pref)
-    pref_majorminer_info = allpref_majorminer_info[pref]
-    recommended_aspects = popular_aspects(pref_majorminer_info,aspect_top_n)
+    pref_info = allpref_info[pref]
+    recommended_aspects = popular_aspects(pref_info,aspect_top_n)
     return_aspects = [{"label": result, "value": result} for result in recommended_aspects]
     return jsonify({"recommend_aspects": return_aspects})
 
