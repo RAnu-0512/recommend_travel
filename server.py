@@ -94,8 +94,9 @@ def get_recommended_spots():
     print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_styles: {selected_styles}\n selected_spots: {selected_spots}\n 人気度考慮タイプ: {popularity_type}")
     spots_info = allpref_spots_info[pref]
     cluster_info = allpref_clusters_info[pref]
-    
-    #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},major_aspects:{},miner_aspects:{},"score":score,"spot_url":url}),(spot_name,{}), ...]
+
+    #返却形式は[[spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},major_aspects:{},miner_aspects:{},"score":score,"spot_url":url,
+    # "selectAspectSim":sim1,"selectStyleSim":sim2,"selectSpotSim":sim3,"popularWight":popular_wight}],[spot_name,{}], ...]
     recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,selected_styles,selected_spots,popularity_type,pref,top_n) 
     
     print("recommend_spots: ", recommend_spots[:1],"等")
@@ -111,6 +112,10 @@ def get_recommended_spots():
             "major_aspects" :recommend_spot[1]["major_aspects"],
             "miner_aspects" :recommend_spot[1]["miner_aspects"],
             "score" : recommend_spot[1]["score"],
+            "selectAspectSim" : recommend_spot[1]["selectAspectSim"],
+            "selectStyleSim" : recommend_spot[1]["selectStyleSim"],
+            "selectSpotSim" : recommend_spot[1]["selectSpotSim"],
+            "popularWight" : recommend_spot[1]["popularWight"],
             "url" : recommend_spot[1]["spot_url"]
         }
         response_data.append(converted_data)

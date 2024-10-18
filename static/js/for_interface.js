@@ -217,9 +217,8 @@ function senti2StarsEval(senti_socre) {
                 .then(data => {
                     console.log("推薦された全スポット情報", data);
                     //dataは{"spot_name":str,"lat":float,"lng":float,"aspects":{aspect:{"senti_score":float,"count":float}},
-                    //      "similar_aspects":{aspect:{"senti_score":float,"count":float}},"score" :float,"url":str}
+                    //      "similar_aspects":{aspect:{"senti_score":float,"count":float}},"score" :float,"selectAspectSim":float, "selectStyleSim":float,"selectSpotSim":float,"popularWight":float,"url":str}
                     data.forEach(async (element, index) => {
-                        console.log("スポットの情報", element)
                         // 観点を表示する関数を更新
                         function renderAspects(aspects, sortOption, filterOption, similarAspects, majorAspects, minerAspects) {
                             return aspectsAddEvaluation(aspects, sortOption, filterOption, similarAspects, majorAspects, minerAspects);
