@@ -19,6 +19,7 @@ body {
 
 #distance_bar {
     width: 100%;
+    margin-top: 4px;
 }
 
 #pref_select {
@@ -347,7 +348,7 @@ body {
     background-color: rgb(10, 21, 116);
 }
 
-.recommend_range p output {
+.recommend_range div output {
     width: 30px;
     /* 固定したい output 要素の幅 */
     display: inline-block;
@@ -479,7 +480,6 @@ body {
 
     /* ツールチップの位置 */
     position: absolute;
-    z-index: 1;
     bottom: 125%;
     /* 親要素の上に表示 */
     left: 50%;
@@ -670,6 +670,65 @@ body {
 .question-tooltip.active + .question-tooltip-content {
     display: block; /* クラスが追加されたら表示 */
 }
+
+
+
+
+
+
+.distance-question-tooltip {
+    display: inline-flex; /* フレックスボックスに変更 */
+    justify-content: center; /* 水平方向に中央揃え */
+    align-items: center;     /* 垂直方向に中央揃え */
+    width: 1.2em;
+    height: 1.2em;
+    background: gray;
+    border-radius: 50%; /* 完全な円形にする */
+    color: white; /* テキストの色を白に */
+    margin-left: -4px; /* テキストとの間隔を調整 */
+    cursor: pointer;
+    position: relative; /* ツールチップの位置基準にする */
+    font-weight: bold;
+}
+
+.distance-question-tooltip-content {
+    display: none;
+    position: absolute;
+    bottom: 49%;
+    left: 124%;
+    transform: translateX(-50%);
+    margin-top: 8px;
+    padding: 8px;
+    background-color: #333333db;
+    color: #fff;
+    border-radius: 4px;
+    width: 295px;
+    text-align: left;
+    z-index: 1000;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.distance-question-tooltip-content::after {
+    content: '';
+    position: absolute;
+    bottom: 34%;
+    left: -5px;
+    transform: translateX(-50%);
+    border-width: 6px;
+    border-style: solid;
+    border-color: transparent #333333db transparent transparent;
+}
+
+.distance-question-tooltip.active + .distance-question-tooltip-content {
+    display: block; /* クラスが追加されたら表示 */
+}
+
+
+
+
+
 
 .selected_aspect_container {
     justify-content: space-between;
@@ -1625,14 +1684,56 @@ body {
 /* ------------------------ */
 /* 有名所穴場所スライダー */
 
-/* 
+
 #slider_container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 30px;
+    height: 55px;
 
 }
+
+#slider_container input[type=range] {
+    width: 95%;
+    background: transparent;
+}
+
+/* スライダーのトラック */
+#slider_container input[type=range]::-webkit-slider-runnable-track {
+    height: 10px;
+    background: #ddd;
+    border-radius: 4px;
+}
+/* 
+#slider_container input[type=range]::-moz-range-track {
+    height: 8px;
+    background: #ddd;
+    border-radius: 4px;
+}
+
+#slider_container input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    background: #4CAF50;
+    border-radius: 50%;
+    cursor: pointer;
+    margin-top: -6px;
+    transition: background 0.3s;
+    border: none;
+}
+
+#slider_container input[type=range]::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    background: #4CAF50;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background 0.3s;
+} */
+
+
+
+
+
 
 .slider-label {
     display: flex;
@@ -1650,11 +1751,11 @@ body {
 .slider {
     width: 95px;
     cursor: pointer;
-} */
+}
 
 
 
-#radio_container {
+/* #radio_container {
     height: 66px;
 
 }
@@ -1675,4 +1776,4 @@ body {
 
 .radio-label input {
     margin-right: 8px;
-}
+} */

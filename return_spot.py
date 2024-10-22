@@ -270,9 +270,9 @@ def calc_weight(revnum,recommendSpotsType,averageRviewNum):
 def calc_spot_score(selected_aspectsVector,selected_style_vector,selected_spot_vector,spots_aspectsVector, spot_numOfRev,averageRviewNum,recommendSpotsType):
     score = 0.0
     #dot_sim : 内積/cos_sim : コサイン類似度
-    similarity_selectedAspectsVector = dot_sim(selected_aspectsVector,spots_aspectsVector)
-    similarity_selectedStyleVector = dot_sim(selected_style_vector,spots_aspectsVector)
-    similarity_selectedSpotVector = dot_sim(selected_spot_vector,spots_aspectsVector)
+    similarity_selectedAspectsVector = cos_sim(selected_aspectsVector,spots_aspectsVector)
+    similarity_selectedStyleVector = cos_sim(selected_style_vector,spots_aspectsVector)
+    similarity_selectedSpotVector = cos_sim(selected_spot_vector,spots_aspectsVector)
 
     similarity = similarity_selectedAspectsVector +  similarity_selectedStyleVector + similarity_selectedSpotVector
 

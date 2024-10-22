@@ -54,13 +54,23 @@
                 選択した観点
                 <span class='question-tooltip'>?</span>
                 <div class="question-tooltip-content">
-                    選択した観点と類似する観点の評価が高いスポットが推薦されます。観点の優先度を高く設定すると、その観点が優先的に考慮されます。<br>優先度はAが最も高く、Eが最も低いです。</div>
+                    選択した観点と類似する観点の評価が高いスポットが推薦されます。観点の優先度を高く設定すると、その観点が優先的に考慮されます。<br>優先度はAが最も高く、Eが最も低いです。
+                </div>
             </div>
             <div id="selected_results"></div>
             <input type="button" class="button" name="delete" id="delete_button" value="全て削除">
         </div>
         <div class="recommend_range" role="group">
-            <p>推薦範囲: <output id="selected_range"></output> (km) </p>
+            <div style="margin-top: 30px;">
+                推薦範囲:
+                <output id="selected_range"></output> (km)
+                <span class="distance-question-tooltip">?</span>
+                <div class="distance-question-tooltip-content">
+                    推薦対象スポットの範囲を制限できます。観光予定の中心地からの半径距離が、設定範囲以内のスポットが推薦されます。
+                </div>
+            </div>
+            
+
             <input type="range" name="distance_bar" id="distance_bar" min="1" max="150" step="1" value="100">
         </div>
         <input type="button" class="button rerecommend-button" id="rerecommend_button_parm" value="再推薦">
@@ -233,7 +243,7 @@
                 </div>
             </div>
         </div>
-        <div class="recom_plan_header" id="recom_plan_header_radio">推薦するスポット</div>
+        <!-- <div class="recom_plan_header" id="recom_plan_header_radio">推薦するスポット</div>
         <div class="recom_plan_body" id="radio_container">
             <label class="radio-label">
                 <input type="radio" name="spot_preference" value="all" checked>
@@ -247,13 +257,16 @@
                 <input type="radio" name="spot_preference" value="hidden">
                 穴場スポット
             </label>
-        </div>
-        <!-- <div class="recom_plan_header" id="recom_plan_header_slider">スポットの人気度</div> -->
-        <!-- <div class="recom_plan_body" id="slider_container">
-            <span class="slider-label" id="label-hidden">穴場優先</span>
-            <input type="range" min="" max="2" step="1" value="2" class="slider" id="preference-slider">
-            <span class="slider-label" id="label-famous">有名所優先</span>
         </div> -->
+        <div class="recom_plan_header" id="recom_plan_header_slider">スポットの人気度</div>
+        <div class="recom_plan_body" id="slider_container">
+            <input type="range" min="0" max="22" step="1" value="11" id="locationSlider">
+            <div class="labels">
+                <span data-value="0">穴場</span>
+                <span data-value="11">全て</span>
+                <span data-value="22">有名所</span>
+            </div>
+        </div>
 
 
         <input type="button" class="button close-button" id="close_button_recom" value="閉じる">

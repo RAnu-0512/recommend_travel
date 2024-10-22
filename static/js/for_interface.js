@@ -360,10 +360,10 @@ function senti2StarsEval(senti_socre) {
                                         <!-- 並べ替えプルダウン -->
                                         <label for="sort-select">観点の並べ替え</label>
                                         <select id="sort-select">
-                                            <option value="senti_score_high">評価の高い順</option>
-                                            <option value="senti_score_low">評価の低い順</option>
                                             <option value="count_high">レビューでの言及数が多い順</option>
                                             <option value="count_low">レビューでの言及数が少ない順</option>
+                                            <option value="senti_score_high">評価の高い順</option>
+                                            <option value="senti_score_low">評価の低い順</option>
                                         </select>
                                     </div>
 
@@ -379,7 +379,7 @@ function senti2StarsEval(senti_socre) {
                                     </div>
                                 </div>
                                 <div id="aspects-container">
-                                    ${renderAspects(element.aspects, "senti_score_high", "all", similarAspects, majorAspects, minerAspects)}
+                                    ${renderAspects(element.aspects, "count_high", "all", similarAspects, majorAspects, minerAspects)}
                                 </div>
                             `;
 
@@ -1330,6 +1330,28 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // はてなマークをクリックしたときにツールチップを切り替える
     tooltipTrigger.addEventListener('click', toggleTooltip);
+
+    // ページ全体をクリックしたときにツールチップを閉じる
+    document.addEventListener('click', closeTooltip);
+});
+
+document.addEventListener('DOMContentLoaded', function () {
+    const distanceTooltipTrigger = document.querySelector(".distance-question-tooltip");
+    const distanceTooltipContent = document.querySelector(".distance-question-tooltip-content");
+
+    // ツールチップの表示/非表示を切り替える関数
+    function toggleTooltip(event) {
+        event.stopPropagation(); // イベントのバブリングを防ぐ
+        distanceTooltipTrigger.classList.toggle('active');
+    }
+
+    // ページのクリックでツールチップを閉じる
+    function closeTooltip() {
+        distanceTooltipTrigger.classList.remove('active');
+    }
+
+    // はてなマークをクリックしたときにツールチップを切り替える
+    distanceTooltipTrigger.addEventListener('click', toggleTooltip);
 
     // ページ全体をクリックしたときにツールチップを閉じる
     document.addEventListener('click', closeTooltip);
