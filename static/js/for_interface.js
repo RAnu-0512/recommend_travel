@@ -188,15 +188,14 @@ function senti2StarsEval(senti_socre) {
             }
             let lastSelectedValue = distanceBar.value;
 
-            const selectedRadio = document.querySelector('input[name="spot_preference"]:checked');
-            const recommendSpotsType = selectedRadio ? selectedRadio.value : null;
-
+            const slider = document.getElementById('locationSlider');
+            const popularityLevel = slider.value;
 
 
             console.log("選択した推薦スタイル:", selectedStyle)
             console.log("選択したスポット:", selectedSpots)
             console.log("選択した観点(優先度)", selectedResultsDataArray);
-            console.log('推薦するスポット:', recommendSpotsType); 
+            console.log('推薦するスポットレベル:', popularityLevel); // 0-7-14
             console.log("距離", lastSelectedValue);
             console.log("選択地点", lat, lng);
 
@@ -206,7 +205,7 @@ function senti2StarsEval(senti_socre) {
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsDataArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots, recommendSpotsType: recommendSpotsType })
+                body: JSON.stringify({ clicked_lat: lat, clicked_lng: lng, range: lastSelectedValue, selected_aspects: selectedResultsDataArray, selected_pref: selected_pref, selected_style: selectedStyle, selectedSpots: selectedSpots, popularityLevel: popularityLevel })
             })
                 .then((res) => {
                     if (!res.ok) {
@@ -250,6 +249,7 @@ function senti2StarsEval(senti_socre) {
                                         return 0;
                                 }
                             });
+                            
                             const aspectsHtml = aspectsArray
                                 .map(([aspect, data]) =>
                                     `<span class="aspect-plus-rating">
@@ -257,10 +257,21 @@ function senti2StarsEval(senti_socre) {
                                         <span class="aspect-rating"> 
                                             <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
                                             <span class="star-ratings">
-                                                <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});">★★★★★</span>
-                                                <span class="star-ratings-bottom">★★★★★</span>
+                                                <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});">
+                                                    ★★★★★
+                                                </span>
+                                                <span class="star-ratings-bottom">
+                                                    ★★★★★
+                                                </span>
                                             </span>
-                                            <span class="count-display-title">レビューでの言及数: <span class="count-display"> ${data.count} </span></span>
+                                            <span class="count-display-title">
+                                                言及数: 
+                                                <span class="count-display"> ${data.count} </span>
+                                            </span>
+                                            <span class="recommnend-factors">
+                                                ${data.recommendFactors ? '次に関連しています:' + 
+                                                    "<span style='font-weight: bold; color : #c14343'>"+ data.recommendFactors + '</span>': ''}
+                                            </span>
                                         </span>
                                     </span>`)
                                 .join("");
@@ -1355,4 +1366,28 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // ページ全体をクリックしたときにツールチップを閉じる
     document.addEventListener('click', closeTooltip);
+});
+
+
+//-----------------------------select recommend spots populairty 
+document.addEventListener('DOMContentLoaded', function () {
+    // スライダー要素を取得
+    const slider = document.getElementById('locationSlider');
+
+    // すべてのラベルspan要素を取得
+    const labels = document.querySelectorAll('.recoomend_spots_labels span');
+
+    // 各ラベルにクリックイベントリスナーを追加
+    labels.forEach(function (label) {
+        label.addEventListener('click', function () {
+            // data-value属性から値を取得
+            const value = label.getAttribute('data-value');
+
+            // スライダーの値を設定
+            slider.value = value;
+
+            // スライダーの値が変わったことを他のスクリプトに通知するためにイベントを発火
+            slider.dispatchEvent(new Event('input'));
+        });
+    });
 });

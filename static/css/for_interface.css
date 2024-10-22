@@ -424,6 +424,7 @@ body {
     position: relative;
     display: inline-block;
     font-size: 20px;
+    white-space: nowrap;
     color: rgb(255, 255, 255);
 }
 
@@ -448,6 +449,7 @@ body {
 .count-display-title {
     color: black;
     margin-left: 20px;
+    width: 95px;
 }
 
 .count-display {
@@ -540,6 +542,10 @@ body {
     padding: 2px;
 }
 
+.recommnend-factors{
+    margin-left: 20px;
+}
+
 .highlighted_info .buttom-aspect-plus-rating {
     display: flex;
 }
@@ -568,12 +574,16 @@ body {
 
 
 
+.aspect-plus-rating .aspect{
+    width: 20%;
+}
 
-
+.aspect-plus-rating .aspect-rating{
+    width: 80%; 
+}
 
 
 .aspect {
-    max-width: 90px;
     word-wrap: break-word;
     flex: 1;
 }
@@ -1692,49 +1702,93 @@ body {
 
 #slider_container input[type=range] {
     width: 95%;
+    -webkit-appearance: none;
+    appearance: none;         
     background: transparent;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
 }
 
-/* スライダーのトラック */
+/* スライダーのバー */
 #slider_container input[type=range]::-webkit-slider-runnable-track {
-    height: 10px;
-    background: #ddd;
+    height: 9px;
+    background: #dfdfdf;
     border-radius: 4px;
+    border: 1px solid #969494; /* border-color を含む */
+    transition: backgrrgb(155, 155, 155) 0.3s;
+    cursor: pointer;
 }
-/* 
-#slider_container input[type=range]::-moz-range-track {
-    height: 8px;
-    background: #ddd;
-    border-radius: 4px;
-}
-
+ 
+/* スライダーの動かす点 */
 #slider_container input[type=range]::-webkit-slider-thumb {
     -webkit-appearance: none;
-    width: 20px;
-    height: 20px;
-    background: #4CAF50;
+    width: 18px;
+    height: 18px;
+    background: #5482ff;
     border-radius: 50%;
     cursor: pointer;
-    margin-top: -6px;
+    margin-top: -4px;
     transition: background 0.3s;
     border: none;
 }
 
-#slider_container input[type=range]::-moz-range-thumb {
-    width: 20px;
-    height: 20px;
-    background: #4CAF50;
-    border: none;
-    border-radius: 50%;
+#slider_container input[type=range]:hover::-webkit-slider-thumb {
+    background: #3369ff;
+}
+
+
+.recoomend_spots_labels{
+    display: flex;
+    position: relative;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+
+
+.recoomend_spots_labels span {
+    position: absolute;
+    transform: translateX(-50%);
+    font-weight: bold;
+    color: #555;
+}
+
+/* 主要ラベルの位置調整 */
+.recoomend_spots_labels span[data-value="0"] {
+    left: 6%;
+    font-size: 14px;
+    color: #555;
+}
+
+.recoomend_spots_labels span[data-value="7"] {
+    left: 50%;
+    font-size: 14px;
+    color: #555;
+}
+
+.recoomend_spots_labels span[data-value="14"] {
+    left: 89%;
+    white-space: nowrap;
+    font-size: 14px;
+    color: #555;
+}
+
+.recoomend_spots_labels span[data-value="0"]:hover {
+    color: #000;
     cursor: pointer;
-    transition: background 0.3s;
-} */
+}
 
+.recoomend_spots_labels span[data-value="7"]:hover {
+    color: #000;
+    cursor: pointer;
+}
 
+.recoomend_spots_labels span[data-value="14"]:hover {
+    color: #000;
+    cursor: pointer;
+}
 
-
-
-
+/*
 .slider-label {
     display: flex;
     align-items: center;

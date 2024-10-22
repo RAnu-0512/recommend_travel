@@ -84,18 +84,19 @@ def get_recommended_spots():
     selected_aspects = data.get('selected_aspects') #[{"aspect":asp1,"priority":prio1},{...}]
     selected_styles = data.get("selected_style").split("\n")
     selected_spots = data.get("selectedSpots")
-    recommendSpotsType = data.get("recommendSpotsType")
+    popularityLevel = int(data.get("popularityLevel"))
 
-    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_styles: {selected_styles}\n selected_spots: {selected_spots}\n 推薦するスポットタイプ: {recommendSpotsType}")
+    print(f"lat : {lat}\nlng : {lng}\npref : {pref}\nrec_range : {rec_range}\n selected_aspects : {selected_aspects}\n selected_styles: {selected_styles}\n selected_spots: {selected_spots}\n 推薦するスポットタイプ: {popularityLevel}")
     spots_info = allpref_spots_info[pref]
     cluster_info = allpref_clusters_info[pref]
     pref_info = allpref_info[pref]
 
     #返却形式は[[spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},major_aspects:{},miner_aspects:{},"score":score,"spot_url":url,
     # "selectAspectSim":sim1,"selectStyleSim":sim2,"selectSpotSim":sim3,"popularWight":popular_wight}],[spot_name,{}], ...]
-    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,pref_info,selected_styles,selected_spots,recommendSpotsType,pref,top_n) 
+    recommend_spots = return_spot(lat,lng,rec_range,selected_aspects,allpref_spots_info,cluster_info,pref_info,selected_styles,selected_spots,popularityLevel,pref,top_n) 
     
-    print("recommend_spots: ", recommend_spots[:1],"等")
+    if recommend_spots:
+        print("recommend_spots: ", [sublist[0] for sublist in recommend_spots[:5]],"等")
     response_data = []
     #    response_data = {'spot_name': sp_info[0] , 'lat': sp_info[1][0], 'lng': sp_info[1][1], "distance": sp_info[-1] }
     for recommend_spot in recommend_spots:

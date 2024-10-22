@@ -75,15 +75,15 @@ function AddSelectedAspectsDisplay(aspectName) {
 
     priorityDropdown.className = "prioritySelectDropdown";
 
-    priorityLevel1.value = "1";
+    priorityLevel1.value = "A";
     priorityLevel1.textContent = "優先度A";
-    priorityLevel2.value = "2";
+    priorityLevel2.value = "B";
     priorityLevel2.textContent = "優先度B";
-    priorityLevel3.value = "3";
+    priorityLevel3.value = "C";
     priorityLevel3.textContent = "優先度C";
-    priorityLevel4.value = "4";
+    priorityLevel4.value = "D";
     priorityLevel4.textContent = "優先度D";
-    priorityLevel5.value = "5";
+    priorityLevel5.value = "E";
     priorityLevel5.textContent = "優先度E";
 
     

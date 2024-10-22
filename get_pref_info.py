@@ -40,14 +40,29 @@ def get_pref_info(pref,spots_info):
     pref_info["miner_aspects"] = miner_list
     
     numOfreview_list = []
+    spot_count = 0 
     for spotname,spot_info in spots_info.items():
-        numOfreview_list.append(spot_info["numOfRev"])
+        numOfreview_list.append(int(spot_info["numOfRev"]))
+        spot_count += 1
     reviewMedian = calculate_median(numOfreview_list)
     averageRviewNum = sum(numOfreview_list)/len(numOfreview_list)
     pref_info["reviewMedian"] = reviewMedian
     pref_info["averageRviewNum"] = averageRviewNum
+    pref_info["numOfSpots"] = spot_count
     print(f"<{pref}>レビュー数中央値は'{reviewMedian}'です。")
     print(f"<{pref}>レビュー数平均は'{averageRviewNum}'です。")
+    print(f"<{pref}>スポット数は'{spot_count}'です。")
+    
+        
+    # 求めたいパーセンテージ
+    percentages = list(range(100, 0, -10))  # [100, 90, 80, ..., 10]
+    # しきい値を取得
+    sorted_reviews = sorted(numOfreview_list, reverse=True)
+    thresholds = get_thresholds(sorted_reviews, percentages)
+    print(f"<{pref}>スポット人気度辞書は'{thresholds}'です。")
+    for threshold,revnum in thresholds.items():
+        pref_info[f"top{threshold}"] = revnum
+    pref_info["top0"] = max(numOfreview_list)
 
     count_miner = 0
     count_major = 0
@@ -87,3 +102,25 @@ def calculate_median(numberList):
         # 要素数が偶数の場合、中央の2つの値の平均が中央値
         median = (sorted_list[mid - 1] + sorted_list[mid]) / 2
     return median
+
+
+import math
+
+def get_thresholds(sorted_list, percentages):
+    """
+    sorted_list: 降順にソートされた数値リスト
+    percentages: 求めたいパーセンテージのリスト（例: [100, 90, ..., 10]）
+    """
+    n = len(sorted_list)
+    thresholds = {}
+    
+    for p in percentages:
+        # パーセンテージに対応するインデックスを計算
+        # 例: p=90%なら、上位90%の最後の要素のインデックス
+        index = math.ceil((p / 100) * n) - 1
+        # インデックスが範囲内か確認
+        index = min(max(index, 0), n - 1)
+        threshold_value = sorted_list[index]
+        thresholds[p] = threshold_value
+    
+    return thresholds
