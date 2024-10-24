@@ -560,7 +560,8 @@ function senti2StarsEval(senti_socre) {
         }
         function onMapClick(e) {
             const clicked_lat = e.latlng.lat;
-            const clicked_lng = e.latlng.lng;
+            const clicked_lng = e.latlng.lng;const rerecommend_button = document.getElementById('rerecommend_button_parm');
+            rerecommend_button.disabled = true;
             display_recommend_spot(clicked_lat, clicked_lng)
         }
         function onReRecommendButtonClick() {
@@ -869,7 +870,7 @@ async function fetchAndDisplayRandomSpot() {
             throw new Error("fetchに失敗しました");
         }
         const data = await response.json();
-        console.log(data); // Pythonからのデータをログに出力
+        console.log("スポットを取得しました",data); // Pythonからのデータをログに出力
 
         const randomSpots = data.random_spots;
         const noImageUrl = "static/images/NoImage.jpg";
@@ -904,6 +905,21 @@ async function fetchAndDisplayRandomSpot() {
             prefectureElement.textContent = prefecture;
             spotInfo.appendChild(prefectureElement);
 
+            //スポットの観点を追加3つだけ
+            const spotAspectList = document.createElement("span");
+            spotAspectList.textContent = "子供連れ,子供の国,温泉"
+            spotAspectList.className = "spot-card-apsect";
+
+            //スポットの観点tooltip
+            const spotAspectListTooltip = document.createElement("span");
+            spotAspectListTooltip.textContent = "言及数が多い観点"
+            spotAspectListTooltip.className = "tooltip-spot-card-apsect";
+            spotAspectList.appendChild(spotAspectListTooltip)
+
+            spotInfo.appendChild(spotAspectList)
+
+            
+            
             // チェックボックスの追加
             const checkbox = document.createElement("input");
             checkbox.type = "checkbox";
@@ -916,11 +932,12 @@ async function fetchAndDisplayRandomSpot() {
             label.htmlFor = `spot_${spotName}`;
             label.textContent = "選択";
 
+            spotInfo.appendChild(document.createElement("br"));
             spotInfo.appendChild(checkbox);
             spotInfo.appendChild(label);
 
-            spotCard.appendChild(spotInfo);
 
+            spotCard.appendChild(spotInfo);
             // スポットカードをコンテナに追加
             spotsContainer.appendChild(spotCard);
         }
