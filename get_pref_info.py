@@ -11,7 +11,7 @@ def get_allpref_info(allpref_spots_info):
         "徳島", "香川", "愛媛", "高知", "福岡", "佐賀", "長崎",
         "熊本", "大分", "宮崎", "鹿児島", "沖縄"#,"全国"
     ]
-    pref_list = ["岡山"]
+    pref_list = ["岡山","京都"]
     pref_dict = {}
     for pref in pref_list:
         pref_info = get_pref_info(pref,allpref_spots_info[pref])
@@ -59,7 +59,7 @@ def get_pref_info(pref,spots_info):
     # しきい値を取得
     sorted_reviews = sorted(numOfreview_list, reverse=True)
     thresholds = get_thresholds(sorted_reviews, percentages)
-    print(f"<{pref}>スポット人気度辞書は'{thresholds}'です。")
+    # print(f"<{pref}>スポット人気度辞書は'{thresholds}'です。")
     for threshold,revnum in thresholds.items():
         pref_info[f"top{threshold}"] = revnum
     pref_info["top0"] = max(numOfreview_list)
@@ -72,7 +72,7 @@ def get_pref_info(pref,spots_info):
             count_miner += 1
         else:
             count_major += 1
-    print(f"<{pref}>中央値を基準にマイナースポット{count_miner}県,メジャースポット{count_major}県です。")
+    # print(f"<{pref}>中央値を基準にマイナースポット{count_miner}県,メジャースポット{count_major}県です。")
 
     count_miner = 0
     count_major = 0
@@ -82,7 +82,7 @@ def get_pref_info(pref,spots_info):
             count_miner += 1
         else:
             count_major += 1
-    print(f"<{pref}>平均値を基準にマイナースポット{count_miner}県,メジャースポット{count_major}県です。")
+    # print(f"<{pref}>平均値を基準にマイナースポット{count_miner}県,メジャースポット{count_major}県です。")
     return pref_info
 
 

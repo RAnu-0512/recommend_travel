@@ -41,7 +41,10 @@ allpref_info = get_allpref_info(allpref_spots_info)
 print(".....県情報読み込み完了!!")
 
 
-list_spots = []
+list_spots_popular = get_other_pref_spot(allpref_spots_info)
+list_spots_all = get_other_pref_spot(allpref_spots_info)
+
+
 returned_aspect_list = []
 returned_distance_range = 0
 
@@ -79,7 +82,7 @@ def get_recommended_spots():
     data = request.get_json()
     lat = float(data.get('clicked_lat'))
     lng = float(data.get('clicked_lng'))
-    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
+    pref = data.get("selected_pref").replace("県","").replace("京都府","京都").replace("東京都","東京").replace("大阪府","大阪")
     rec_range = int(data.get('range'))
     selected_aspects = data.get('selected_aspects') #[{"aspect":asp1,"priority":prio1},{...}]
     selected_styles = data.get("selected_style").split("\n")
@@ -121,36 +124,26 @@ def get_recommended_spots():
 
 @app.route("/get_random_spot",methods=["POST"])
 def get_random_spot():
-    global list_spots
+    global list_spots_popular
     data=request.get_json()
-    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
+    pref = data.get("selected_pref").replace("県","").replace("京都府","京都").replace("東京都","東京").replace("大阪府","大阪")
     print(f"get_random_spot selected_pref:{pref}")
-    if list_spots != []: #計算量を減らすため
-        if list_spots[0][0] != pref:
-            list_spots = get_other_pref_spot(pref,allpref_spots_info)
-    else:
-        list_spots = get_other_pref_spot(pref,allpref_spots_info)
-    random_spots = random.sample(list_spots[1:], min(len(list_spots[1:]), 15)) 
+    random_spots = random.sample(list_spots_popular, min(len(list_spots_popular), 15)) 
     return {"random_spots":random_spots}
 
 @app.route("/search_spot", methods=["POST"])
 def search_spot():
-    global list_spots
+    global list_spots_all
     data = request.get_json()
     query = data.get("query")
-    pref = data.get("pref").replace("県","").replace("府","").replace("都","")
-    if list_spots != []: #計算量を減らすため
-        if list_spots[0][0] != pref:
-            list_spots = get_other_pref_spot(pref,allpref_spots_info)
-    else:
-        list_spots = get_other_pref_spot(pref,allpref_spots_info)
     
-    # 完全一致するスポットを抽出
-    exact_matches = [spot for spot in list_spots[1:] if spot[0] == query]
+    #{"spot_name":spotname,"prefectrue":cur_pref,"aspects":new_aspects,"spot_url":url}
+    # # 完全一致するスポットを抽出
+    exact_matches = [spotinfo for spotinfo in list_spots_all if spotinfo["spot_name"] == query]
     # 部分一致するスポットを抽出（完全一致は除く）
-    partial_matches = [spot for spot in list_spots[1:] if query in spot[0] and spot[0] != query]
+    partial_matches = [spotinfo for spotinfo in list_spots_all if query in spotinfo["spot_name"] and spotinfo["spot_name"] != query]
     # 結果を結合：完全一致が先頭に、部分一致が続く
-    print(f"検索スポット結果:{exact_matches + partial_matches}")
+    # print(f"検索スポット結果:{exact_matches + partial_matches}")
     return {"search_spots" : exact_matches + partial_matches}
     
     
@@ -159,7 +152,7 @@ def get_search_keyword():
     print("get serach keyword")
     data=request.get_json()
     search_keyword = data.get("search_keyword")
-    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
+    pref = data.get("selected_pref").replace("県","").replace("京都府","京都").replace("東京都","東京").replace("大阪府","大阪")
     print("selected_pref : ", pref)
     print("serach_keyword : " ,search_keyword)
     spots_info = allpref_spots_info[pref]
@@ -171,7 +164,7 @@ def get_search_keyword():
 def recommend_aspects():
     print("recommend aspects")
     data=request.get_json()
-    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
+    pref = data.get("selected_pref").replace("県","").replace("京都府","京都").replace("東京都","東京").replace("大阪府","大阪")
     print("おすすめ観点クリック> selected_pref : ", pref)
     pref_info = allpref_info[pref]
     recommended_aspects = popular_aspects(pref_info,aspect_top_n)
@@ -182,7 +175,7 @@ def recommend_aspects():
 def random_aspects():
     print("random aspects")
     data=request.get_json()
-    pref = data.get("selected_pref").replace("県","").replace("府","").replace("都","")
+    pref = data.get("selected_pref").replace("県","").replace("京都府","京都").replace("東京都","東京").replace("大阪府","大阪")
     print("ランダム観点クリック> random_aspects : ", pref)
     spots_info = allpref_spots_info[pref]
     random_aspects = get_random_aspects(spots_info,aspect_top_n)

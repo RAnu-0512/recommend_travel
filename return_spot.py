@@ -205,17 +205,23 @@ def calc_selected_spot_vector(aspect_dict, cluster_dict):
     # result_vectorをリストに変換して返す
     return result_vector.tolist()
 
-# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}]
-def get_other_pref_spot(pref,allpref_spots_info):
+# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
+def get_other_pref_spot(allpref_spots_info):
     # 辞書をループしてスポット名と県名を収集
     # 最初の要素に選択県,その後はスポット情報
-    list_spotname = [[pref]]
+    list_spotname = []
     for cur_pref, spots in allpref_spots_info.items():
-        # if other_pref != pref:
-            for spotname,spotinfo in spots.items():
-                size = sys.getsizeof(spotinfo)
-                print(f"Spot: {spotname}, Pref: {cur_pref}, Size of spotinfo: {size} bytes")
-                list_spotname.append([spotname, cur_pref,spotinfo])
+        for spotname,spotinfo in spots.items():
+            aspects = spotinfo.get('aspects', {})
+            url = spotinfo.get('spot_url')
+            new_aspects = {}
+            for aspect_name,aspect_info in aspects.items():
+                new_aspects[aspect_name] = {
+                    'senti_score': aspect_info.get('senti_score'),
+                    'count': aspect_info.get('count')
+                }
+            list_spotname.append({"spot_name":spotname,"prefecture":cur_pref,"aspects":new_aspects,"spot_url":url})
+
     return list_spotname
 
 def cos_sim(v1, v2):

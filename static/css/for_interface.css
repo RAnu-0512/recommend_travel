@@ -1156,12 +1156,62 @@ body {
     border-radius: 4px;
 }
 
-.spot-card h3 {
-    font-size: 18px;
+/* スポット名をリンク風にスタイリング */
+.spotname-in-card {
+    color: #0078A8;
+    text-decoration: underline;
+    cursor: pointer;
+    transition: color 0.3s ease;
+    font-size: 17px;
     margin: 10px 0 5px 0;
+    font-weight: bold;
 }
 
-.spot-card p {
+/* ツールチップの基本スタイル */
+.spotname-in-card .tooltip {
+    visibility: hidden; /* デフォルトでは非表示 */
+    width: 145px; /* 必要に応じて調整 */
+    background-color: #797979; /* 背景色 */
+    color: #fff; /* テキスト色 */
+    text-align: center; /* テキスト中央揃え */
+    border-radius: 6px; /* 角丸 */
+    padding: 5px 0; /* パディング */
+    
+    position: absolute; /* 親要素を基準に絶対配置 */
+    top: -73px; /* 親要素の下に配置 */
+    left: 50%; /* 親要素の中央に配置 */
+    transform: translateX(-50%) translateY(10px); /* 水平中央揃えと下方向に少しオフセット */
+    
+    opacity: 0; /* デフォルトは透明 */
+    transition: opacity 0.3s ease, transform 0.3s ease; /* スムーズな表示/非表示 */
+    
+    z-index: 10; /* 他の要素より前面に表示 */
+}
+
+/* ツールチップの矢印 */
+.spotname-in-card .tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    /* ツールチップの下部に配置 */
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+
+
+/* ホバー時にツールチップを表示 */
+.spotname-in-card:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+.spot-card-prefecture{
+    position: relative;
     font-size: 14px;
     margin-top: auto;
     margin-bottom: 5px;
@@ -1171,7 +1221,6 @@ body {
 .spot-card-apsect{
     font-weight: bold;
     color: rgb(68 62 62);
-    position: relative;
 }
 
 
@@ -1186,13 +1235,9 @@ body {
     border-radius: 6px;
     padding: 5px 0;
 
-    /* ツールチップの位置 */
     position: absolute;
-    bottom: 125%;
-    /* 親要素の上に表示 */
-    left: 44%;
-    margin-left: -60px;
-    /* ツールチップを中央揃え */
+    top: -37px;
+    right: 30px;
 
     /* ツールチップのフェードイン効果 */
     opacity: 0;
@@ -1659,6 +1704,7 @@ body {
 
 #modal_level2 .spot-card input[type="checkbox"] {
     margin-right: 5px;
+    margin-top: 10px;
     cursor: pointer;
 }
 
@@ -1668,6 +1714,8 @@ body {
 
 #modal_level2 .spot-card label {
     cursor: pointer;
+    color: #ed6363;
+    font-weight: bold;
 }
 
 /* ローディングインジケーターのスタイル */
@@ -1845,46 +1893,51 @@ body {
     cursor: pointer;
 }
 
-/*
-.slider-label {
-    display: flex;
-    align-items: center;
-    font-size: 14px;
+/* --------------------- */
+.random_spotinfo_modal {
+    display: none;
+    /* デフォルトでは非表示 */
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* 半透明の背景 */
+}
+
+.random-spotinfo-modal-content {
+    background-color: #fefefe;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    ;
+    margin-bottom: 10%;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+    /* 幅を80%に */
+    max-width: 740px;
+    /* 最大幅 */
+    border-radius: 8px;
+    position: relative;
+}
+
+.random-spot-modal-close-button {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
     font-weight: bold;
-    color: #555;
-    transition: color 0.3s;
-}
-
-.slider-label:hover {
-    color: #000;
-}
-
-.slider {
-    width: 95px;
+    position: absolute;
+    top: 10px;
+    right: 20px;
     cursor: pointer;
 }
 
-
-
-/* #radio_container {
-    height: 66px;
-
+.random-spot-modal-close-button:hover,
+.random-spot-modal-close-button:focus {
+    color: black;
+    text-decoration: none;
 }
-
-.radio-label {
-    display: block;
-    margin-bottom: 0px;
-    font-size: 14px;
-    cursor: pointer;
-    font-weight: bold;
-    color: #555;
-    transition: color 0.3s;
-}
-
-.radio-label:hover {
-    color: #000000;
-}
-
-.radio-label input {
-    margin-right: 8px;
-} */

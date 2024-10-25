@@ -15,6 +15,7 @@
         <div class="pref-select-container">
             <select name="prefecture" id="pref_select">
                 <option value="岡山県" {% if pref=="岡山県" %} selected {% endif %}>岡山県</option>
+                <option value="京都府" {% if pref=="京都府" %} selected {% endif %}>京都府</option>
                 <!-- <option value="島根県" {% if pref=="島根県" %} selected {% endif %}>島根県</option>
                 <option value="鳥取県" {% if pref=="鳥取県" %} selected {% endif %}>鳥取県</option>
                 <option value="山口県" {% if pref=="山口県" %} selected {% endif %}>山口県</option>
@@ -45,7 +46,7 @@
             <input type="search" id="search_keyword" name="search_keyword" placeholder="検索キーワード・文を入力">
             <input type="submit" class="button" id="submit_query" name="submit" value="検索">
             <div id="makecheckboxes"></div>
-            <input type="button" class="recommend_aspect_button" id="recommend_aspect_button" value="オススメの観点">
+            <input type="button" class="recommend_aspect_button" id="recommend_aspect_button" value="よく見る観点">
             <input type="button" class="recommend_aspect_button" id="random_aspect_button" value="ランダム観点">
 
         </form>
@@ -193,6 +194,12 @@
                         <div id="spots_container" class="spots-container">
                             <!-- スポット情報がここに表示されます -->
                         </div>
+                        <div id="random_spotinfo_modal" class="random_spotinfo_modal">
+                            <div class="random-spotinfo-modal-content">
+                                <span class="random-spot-modal-close-button">&times;</span>
+                                <div id="random-spot-modal-content"></div>
+                            </div>
+                        </div>
                         <div id="selected_spots_container" class="selected-spots-container">
                             <h3>選択したスポット</h3>
                             <ul id="selected_spots_list">
@@ -243,21 +250,6 @@
                 </div>
             </div>
         </div>
-        <!-- <div class="recom_plan_header" id="recom_plan_header_radio">推薦するスポット</div>
-        <div class="recom_plan_body" id="radio_container">
-            <label class="radio-label">
-                <input type="radio" name="spot_preference" value="all" checked>
-                すべてのスポット
-            </label>
-            <label class="radio-label">
-                <input type="radio" name="spot_preference" value="famous">
-                有名スポット
-            </label>
-            <label class="radio-label">
-                <input type="radio" name="spot_preference" value="hidden">
-                穴場スポット
-            </label>
-        </div> -->
         <div class="recom_plan_header" id="recom_plan_header_slider">推薦対象スポットの人気度</div>
         <div class="recom_plan_body" id="slider_container">
             <input type="range" min="0" max="14" step="1" value="7" id="locationSlider">
