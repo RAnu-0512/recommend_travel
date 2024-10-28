@@ -269,7 +269,7 @@ function senti2StarsEval(senti_socre) {
                                                 <span class="count-display"> ${data.count} </span>
                                             </span>
                                             <span class="recommnend-factors">
-                                                ${data.recommendFactors ? '次に関連しています:' +
+                                                ${data.recommendFactors ? '関連:' +
                                         "<span style='font-weight: bold; color : #c14343'>" + data.recommendFactors + '</span>' : ''}
                                             </span>
                                         </span>
@@ -911,7 +911,7 @@ async function fetchAndDisplayRandomSpot() {
             // クリックイベントを追加
             spotNameElement.style.cursor = "pointer"; // カーソルをポインターに変更
             spotNameElement.addEventListener("click", () => {
-                showSpotDetails(spot);
+                showSpotDetails(spot, photoUrl, noImageUrl,"random");
             });
             const spotNameElementTooltip = document.createElement("span");
             spotNameElementTooltip.className = "tooltip";
@@ -927,17 +927,17 @@ async function fetchAndDisplayRandomSpot() {
             prefectureElement.textContent = prefecture;
             spotInfo.appendChild(prefectureElement);
             spotInfo.appendChild(document.createElement("br")); // 新しいbr要素を追加
-            
+
             // スポットの観点を追加（3つだけ）
             const spotAsepctContainer = document.createElement("div");
             spotAsepctContainer.style = "position:relative;"
             const spotAspectList = document.createElement("span");
             spotAspectList.textContent = top3Aspects.join(",");
-            spotAspectList.className = "spot-card-apsect";
+            spotAspectList.className = "spot-card-aspect";
             // スポットの観点tooltip
             const spotAspectListTooltip = document.createElement("span");
             spotAspectListTooltip.textContent = "言及が多い観点";
-            spotAspectListTooltip.className = "tooltip-spot-card-apsect";
+            spotAspectListTooltip.className = "tooltip-spot-card-aspect";
             spotAspectList.appendChild(spotAspectListTooltip);
             spotAsepctContainer.appendChild(spotAspectList)
             spotInfo.appendChild(spotAsepctContainer);
@@ -982,56 +982,116 @@ async function fetchAndDisplayRandomSpot() {
 }
 
 // スポットの詳細情報を表示する関数
-function showSpotDetails(spot) {
+function showSpotDetails(spot, photoUrl, noImageUrl,modal_type) {
     const spotName = spot.spot_name;
-    const prefecture = spot.prefecture;
     const spot_url = spot.spot_url;
     const spot_aspects = spot.aspects;
 
     // 詳細情報を表示する要素を取得
-    const randomSpotModalContent = document.getElementById("random-spot-modal-content");
+    const randomSpotModalContent = document.getElementById(`spot_modal_content_${modal_type}`);
 
     // コンテンツをクリア
-    randomSpotModalContent.innerHTML = "";
+    randomSpotModalContent.innerHTML = `
+    <h2>${spotName} の詳細</h2>
+    <p>じゃらんnet: <a href="${spot_url}" target="_blank">${spot_url}</a></p>
+    <img src="${photoUrl || noImageUrl}" alt="${spotName}" style="max-width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
+    <div id="modal-controls-${modal_type}Spot">
+        <div class="control-group">
+            <!-- 並べ替えプルダウン -->
+            <label for="sort-select-${modal_type}Spot">観点の並べ替え</label>
+            <select id="sort-select-${modal_type}Spot">
+                <option value="count_high">レビューでの言及が多い順</option>
+                <option value="count_low">レビューでの言及が少ない順</option>
+                <option value="senti_score_high">評価の高い順</option>
+                <option value="senti_score_low">評価の低い順</option>
+            </select>
+        </div>
+    </div>
+    <div id="aspects-container-${modal_type}Spot">
+        ${renderAspects_light(spot_aspects, "count_high")}
+    </div>
+    `;
 
-    // スポット名
-    const nameElement = document.createElement("h3");
-    nameElement.textContent = spotName;
-    randomSpotModalContent.appendChild(nameElement);
+    // プルダウンのイベントリスナーを設定
+    const sortSelect = document.getElementById(`sort-select-${modal_type}Spot`);
+    const aspectsContainer = document.getElementById(`aspects-container-${modal_type}Spot`);
 
-    // 都道府県
-    const prefectureElement = document.createElement("p");
-    prefectureElement.innerHTML = `<strong>都道府県:</strong> ${prefecture}`;
-    randomSpotModalContent.appendChild(prefectureElement);
+    // 並べ替えイベントリスナー
+    sortSelect.addEventListener("change", () => {
+        const selectedSort = sortSelect.value;
+        console.log("選択された並べ替え方法:", selectedSort);
+        aspectsContainer.innerHTML = renderAspects_light(spot_aspects, selectedSort);
+    });
 
-    // スポットURL
-    const urlElement = document.createElement("p");
-    urlElement.innerHTML = `<strong>URL:</strong> <a href="${spot_url}" target="_blank">${spot_url}</a>`;
-    randomSpotModalContent.appendChild(urlElement);
-
-    // 観点
-    const aspectsElement = document.createElement("p");
-    aspectsElement.innerHTML = `<strong>観点:</strong> ${Object.entries(spot_aspects).map(entry => `${entry[0]} (${entry[1].count})`).join(", ")}`;
-    randomSpotModalContent.appendChild(aspectsElement);
 
     // モーダルを表示
-    const randomSpotModal = document.getElementById("random_spotinfo_modal");
-    randomSpotModal.style.display = "block";
+    const SpotModal = document.getElementById(`spotinfo_modal_${modal_type}`);
+    SpotModal.style.display = "block";
+
+
+
+    function renderAspects_light(aspects, sortOption) {
+        return aspectsAddEvaluation_light(aspects, sortOption);
+    }
+
+    function aspectsAddEvaluation_light(aspects, sortOption) {
+        let aspectsArray = Object.entries(aspects);
+
+        // ソートの適用
+        aspectsArray.sort((a, b) => {
+            switch (sortOption) {
+                case "senti_score_high":
+                    return b[1].senti_score - a[1].senti_score;
+                case "senti_score_low":
+                    return a[1].senti_score - b[1].senti_score;
+                case "count_high":
+                    return b[1].count - a[1].count;
+                case "count_low":
+                    return a[1].count - b[1].count;
+                default:
+                    return 0;
+            }
+        });
+
+        const aspectsHtml = aspectsArray
+            .map(([aspect, data]) =>
+                `<span class="aspect-plus-rating">
+                    <span class="aspect">${aspect}</span>
+                    <span class="aspect-rating">
+                        <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
+                        <span class="star-ratings">
+                            <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});">
+                                ★★★★★
+                            </span>
+                            <span class="star-ratings-bottom">
+                                ★★★★★
+                            </span>
+                        </span>
+                        <span class="count-display-title">
+                            言及数:
+                            <span class="count-display"> ${data.count} </span>
+                        </span>
+                    </span>
+                </span>`)
+            .join("");
+        return aspectsHtml;
+    }
+
 }
 
 // モーダルを閉じる関数
 function closeRandomSpotModal() {
-    const randomSpotModal = document.getElementById("random_spotinfo_modal");
+    const randomSpotModal = document.getElementById("spotinfo_modal_random");
     randomSpotModal.style.display = "none";
 }
 
 // 閉じるボタンにイベントリスナーを追加
-const randomSpotCloseButton = document.querySelector(".random-spot-modal-close-button");
+const randomSpotCloseButton = document.getElementById("close_button_spotinfo_random");
 randomSpotCloseButton.addEventListener("click", closeRandomSpotModal);
 
 // モーダル外をクリックしたら閉じる
 window.addEventListener("click", (event) => {
-    const randomSpotModal = document.getElementById("random_spotinfo_modal");
+    const randomSpotModal = document.getElementById("spotinfo_modal_random");
     if (event.target == randomSpotModal) {
         closeRandomSpotModal();
     }
@@ -1248,9 +1308,17 @@ async function performSearch_modal3(query, pref) {
             const spotName = spot.spot_name;
             const prefecture = spot.prefecture;
             const spot_url = spot.spot_url;
-            const spot_apsects = spot.aspects;
+            const spot_aspects = spot.aspects;
+
+            // Object.entriesを使用してオブジェクトを配列に変換
+            const entries = Object.entries(spot_aspects);
+            // countで降順にソート
+            entries.sort((a, b) => b[1].count - a[1].count);
+            // 上位3つを取得
+            const top3Aspects = entries.slice(0, 3).map(entry => entry[0]);
 
             const photoUrl = "static/images/" + prefecture + "/" + spotName + ".jpg";
+
             // スポットカードの作成
             const spotCard = document.createElement("div");
             spotCard.classList.add("spot-card");
@@ -1264,16 +1332,43 @@ async function performSearch_modal3(query, pref) {
             // スポット情報のコンテナ
             const spotInfo = document.createElement("div");
             spotInfo.style = "position: relative;"
-
             // スポット名の追加
-            const spotNameElement = document.createElement("h3");
+            const spotNameElement = document.createElement("span");
+            spotNameElement.className = "spotname-in-card"
             spotNameElement.textContent = spotName;
+            // クリックイベントを追加
+            spotNameElement.style.cursor = "pointer"; // カーソルをポインターに変更
+            spotNameElement.addEventListener("click", () => {
+                showSpotDetails(spot, photoUrl, noImageUrl,"search");
+            });
+            const spotNameElementTooltip = document.createElement("span");
+            spotNameElementTooltip.className = "tooltip";
+            spotNameElementTooltip.textContent = "スポットの詳細を確認できます"
+
+            spotNameElement.append(spotNameElementTooltip);
             spotInfo.appendChild(spotNameElement);
+            spotInfo.appendChild(document.createElement("br")); // 新しいbr要素を追加
 
             // スポットの都道府県の追加
-            const prefectureElement = document.createElement("p");
+            const prefectureElement = document.createElement("span");
+            prefectureElement.className = "spot-card-prefecture"
             prefectureElement.textContent = prefecture;
             spotInfo.appendChild(prefectureElement);
+            spotInfo.appendChild(document.createElement("br")); // 新しいbr要素を追加
+
+            // スポットの観点を追加（3つだけ）
+            const spotAsepctContainer = document.createElement("div");
+            spotAsepctContainer.style = "position:relative;"
+            const spotAspectList = document.createElement("span");
+            spotAspectList.textContent = top3Aspects.join(",");
+            spotAspectList.className = "spot-card-aspect";
+            // スポットの観点tooltip
+            const spotAspectListTooltip = document.createElement("span");
+            spotAspectListTooltip.textContent = "言及が多い観点";
+            spotAspectListTooltip.className = "tooltip-spot-card-aspect";
+            spotAspectList.appendChild(spotAspectListTooltip);
+            spotAsepctContainer.appendChild(spotAspectList)
+            spotInfo.appendChild(spotAsepctContainer);
 
             // チェックボックスの追加
             const checkbox = document.createElement("input");
@@ -1313,6 +1408,24 @@ async function performSearch_modal3(query, pref) {
         loadingIndicator_modal3.style.display = "none"; // ローディング終了
     }
 }
+
+// モーダルを閉じる関数
+function closeSearchSpotModal() {
+    const searchSpotModal = document.getElementById("spotinfo_modal_search");
+    searchSpotModal.style.display = "none";
+}
+
+// 閉じるボタンにイベントリスナーを追加
+const searchSpotCloseButton = document.getElementById("close_button_spotinfo_search");
+searchSpotCloseButton.addEventListener("click", closeSearchSpotModal);
+
+// モーダル外をクリックしたら閉じる
+window.addEventListener("click", (event) => {
+    const searchSpotModal = document.getElementById("spotinfo_modal_search");
+    if (event.target == searchSpotModal) {
+        closeSearchSpotModal();
+    }
+});
 
 // スポットの選択/解除を処理する関数
 function handleSpotSelection_modal3(event) {
@@ -1493,94 +1606,3 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-
-const spotinfo_detailButton = popupInfo.querySelector(".spotinfo_detailButton");
-spotinfo_detailButton.addEventListener("click", (event) => {
-    event.stopPropagation(); // 親要素のクリックイベントを防ぐ
-    const modal = document.getElementById("spotinfo_modal");
-    const modalBody = document.getElementById("spot-modal-content");
-
-    // モーダルの内容を設定（必要に応じて詳細情報を追加）
-    modalBody.innerHTML = `
-    <h2>${replaced_spot_name} の詳細</h2>
-    <p>じゃらんnet: <a href="${element.url}" target="_blank">${element.url}</a></p>
-    <img src="${photo_url || noImageUrl}" alt="${replaced_spot_name}" style="max-width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
-    <div id="modal-controls">
-        <div class="control-group">
-            <!-- 並べ替えプルダウン -->
-            <label for="sort-select">観点の並べ替え</label>
-            <select id="sort-select">
-                <option value="count_high">レビューでの言及が多い順</option>
-                <option value="count_low">レビューでの言及が少ない順</option>
-                <option value="senti_score_high">評価の高い順</option>
-                <option value="senti_score_low">評価の低い順</option>
-            </select>
-        </div>
-    </div>
-    <div id="aspects-container">
-        ${renderAspects_light(element.aspects, "count_high")}
-    </div>
-`;
-
-    // モーダルを表示
-    modal.style.display = "block";
-
-    // プルダウンのイベントリスナーを設定
-    const sortSelect = document.getElementById("sort-select");
-    const aspectsContainer = document.getElementById("aspects-container");
-
-    // 並べ替えイベントリスナー
-    sortSelect.addEventListener("change", () => {
-        const selectedSort = sortSelect.value;
-        console.log("選択された並べ替え方法:", selectedSort);
-        aspectsContainer.innerHTML = renderAspects_light(element.aspects, selectedSort);
-    });
-});
-
-
-function renderAspects_light(aspects, sortOption) {
-    return aspectsAddEvaluation_light(aspects, sortOption);
-}
-
-function aspectsAddEvaluation_light(aspects, sortOption) {
-    let aspectsArray = Object.entries(aspects);
-
-    // ソートの適用
-    aspectsArray.sort((a, b) => {
-        switch (sortOption) {
-            case "senti_score_high":
-                return b[1].senti_score - a[1].senti_score;
-            case "senti_score_low":
-                return a[1].senti_score - b[1].senti_score;
-            case "count_high":
-                return b[1].count - a[1].count;
-            case "count_low":
-                return a[1].count - b[1].count;
-            default:
-                return 0;
-        }
-    });
-
-    const aspectsHtml = aspectsArray
-        .map(([aspect, data]) =>
-            `<span class="aspect-plus-rating">
-                <span class="aspect">${aspect}</span>
-                <span class="aspect-rating">
-                    <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
-                    <span class="star-ratings">
-                        <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});">
-                            ★★★★★
-                        </span>
-                        <span class="star-ratings-bottom">
-                            ★★★★★
-                        </span>
-                    </span>
-                    <span class="count-display-title">
-                        言及数:
-                        <span class="count-display"> ${data.count} </span>
-                    </span>
-                </span>
-            </span>`)
-        .join("");
-    return aspectsHtml;
-}

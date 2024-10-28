@@ -544,6 +544,7 @@ body {
 
 .recommnend-factors{
     margin-left: 20px;
+    width: 50%;
 }
 
 .highlighted_info .buttom-aspect-plus-rating {
@@ -1089,7 +1090,7 @@ body {
 /* 選択されたスポットコンテナ */
 .selected-spots-container {
     width: 30%;
-    max-height: 400px;
+    max-height: 509px;
     overflow-y: auto;
     padding-left: 10px;
     font-size: 15px;
@@ -1142,6 +1143,7 @@ body {
     border-radius: 8px;
     width: 200px;
     height: auto;
+    max-height: 330px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     text-align: center;
     padding: 10px;
@@ -1170,15 +1172,15 @@ body {
 /* ツールチップの基本スタイル */
 .spotname-in-card .tooltip {
     visibility: hidden; /* デフォルトでは非表示 */
-    width: 145px; /* 必要に応じて調整 */
+    width: 116px; /* 必要に応じて調整 */
     background-color: #797979; /* 背景色 */
     color: #fff; /* テキスト色 */
     text-align: center; /* テキスト中央揃え */
     border-radius: 6px; /* 角丸 */
     padding: 5px 0; /* パディング */
-    
+    font-size: 14px;
     position: absolute; /* 親要素を基準に絶対配置 */
-    top: -73px; /* 親要素の下に配置 */
+    top: -70px; /* 親要素の下に配置 */
     left: 50%; /* 親要素の中央に配置 */
     transform: translateX(-50%) translateY(10px); /* 水平中央揃えと下方向に少しオフセット */
     
@@ -1218,36 +1220,32 @@ body {
     color: #555;
 }
 
-.spot-card-apsect{
+.spot-card-aspect{
     font-weight: bold;
     color: rgb(68 62 62);
 }
 
 
 /* ツールチップの基本スタイル */
-.tooltip-spot-card-apsect {
+.tooltip-spot-card-aspect {
     visibility: hidden;
-    /* デフォルトでは非表示 */
-    width: 140px;
+    font-size: 14px;
+    width: 110px;
     background-color: #797979;
     color: #fff;
     text-align: center;
     border-radius: 6px;
-    padding: 5px 0;
-
+    padding: 2px 0;
     position: absolute;
-    top: -37px;
-    right: 30px;
-
-    /* ツールチップのフェードイン効果 */
+    top: -28px;
+    right: 45px;
     opacity: 0;
     transition: opacity 0.3s;
-
     z-index: 1000;
 }
 
 /* ツールチップの矢印 */
-.tooltip-spot-card-apsect::after {
+.tooltip-spot-card-aspect::after {
     content: "";
     position: absolute;
     top: 100%;
@@ -1262,7 +1260,7 @@ body {
 
 
 /* ホバー時にツールチップを表示 */
-.spot-card-apsect:hover .tooltip-spot-card-apsect {
+.spot-card-aspect:hover .tooltip-spot-card-aspect {
     visibility: visible;
     opacity: 1;
 }
@@ -1430,10 +1428,8 @@ body {
     margin-bottom: 10%;
     padding: 20px;
     border: 1px solid #888;
-    width: 80%;
-    /* 幅を80%に */
-    max-width: 740px;
-    /* 最大幅 */
+    width: 50%;
+    max-width: 700px;
     border-radius: 8px;
     position: relative;
 }
@@ -1495,6 +1491,13 @@ body {
     /* 子要素間の間隔 */
     padding: 5px;
     /* 任意のパディング */
+}
+
+#modal-controls-randomSpot{
+    padding:5px
+}
+#modal-controls-searchSpot{
+    padding:5px
 }
 
 /* 各コントロールグループのスタイル */
@@ -1699,6 +1702,7 @@ body {
 /* チェックボックスとラベルのスタイル (modal_level3 内専用) */
 #modal_level3 .spot-card input[type="checkbox"] {
     margin-right: 5px;
+    margin-top: 10px;
     cursor: pointer;
 }
 
@@ -1710,6 +1714,8 @@ body {
 
 #modal_level3 .spot-card label {
     cursor: pointer;
+    color: #ed6363;
+    font-weight: bold;
 }
 
 #modal_level2 .spot-card label {
@@ -1894,7 +1900,7 @@ body {
 }
 
 /* --------------------- */
-.random_spotinfo_modal {
+.select-spotinfo-modal {
     display: none;
     /* デフォルトでは非表示 */
     position: fixed;
@@ -1908,7 +1914,7 @@ body {
     /* 半透明の背景 */
 }
 
-.random-spotinfo-modal-content {
+.select-spotinfo-modal-content {
     background-color: #fefefe;
     margin-left: auto;
     margin-right: auto;
@@ -1917,15 +1923,13 @@ body {
     margin-bottom: 10%;
     padding: 20px;
     border: 1px solid #888;
-    width: 80%;
-    /* 幅を80%に */
-    max-width: 740px;
-    /* 最大幅 */
+    width: 50%;
+    max-width: 700px;
     border-radius: 8px;
     position: relative;
 }
 
-.random-spot-modal-close-button {
+.select-spot-modal-close-button {
     color: #aaa;
     float: right;
     font-size: 28px;
@@ -1936,8 +1940,8 @@ body {
     cursor: pointer;
 }
 
-.random-spot-modal-close-button:hover,
-.random-spot-modal-close-button:focus {
+.select-spot-modal-close-button:hover,
+.select-spot-modal-close-button:focus {
     color: black;
     text-decoration: none;
 }

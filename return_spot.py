@@ -92,6 +92,9 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
 
     #spot_info[aspects]の形式 : {aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}
     recommend_spots_info = {}
+    max_selectAspectSim = 0
+    max_selectStyleSim = 0
+    max_selectSpotSim = 0
     for sn,spot_info in spots_info.items():
         lat = spot_info["lat"]
         lng = spot_info["lng"]
@@ -108,8 +111,14 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         #recommendationFactors
         if haversine_distance(selected_lat,selected_lng,lat,lng) <= recommend_range:
             selected_aspectsVector,check_needed_aspect_dict = return_selected_aspectsVector(selected_aspects,selected_aspects_parm,pref,check_needed_aspect_dict)
-            sim1,sim2,sim3,popular_wight,score = calc_spot_score(selected_aspectsVector,selected_style_vector,selected_spot_vector,spot_aspectsVector, spot_numOfRev,pref_info,popularityLevel)
-            if score != 0:
+            sim1,sim2,sim3,popular_wight,sum_score = calc_spot_score(selected_aspectsVector,selected_style_vector,selected_spot_vector,spot_aspectsVector, spot_numOfRev,pref_info,popularityLevel)
+            
+            max_selectAspectSim = sim1 if max_selectAspectSim < sim1 else max_selectAspectSim
+            max_selectStyleSim = sim2 if max_selectStyleSim < sim2 else max_selectStyleSim
+            max_selectSpotSim = sim3 if max_selectSpotSim < sim3 else max_selectSpotSim
+            
+            
+            if sum_score != 0:
                 similar_aspects_dict = {}
                 major_aspects_dict = {}
                 miner_aspects_dict = {}
@@ -123,17 +132,30 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                 for aspect,aspects_info_dict in new_aspects_dict.items():
                     if aspect in miner_aspect_list:
                         miner_aspects_dict[aspect] = aspects_info_dict
-                recommend_spots_info[sn] = {"lat":lat,"lng":lng,"aspects":new_aspects_dict,"similar_aspects":similar_aspects_dict,"major_aspects":major_aspects_dict,"miner_aspects":miner_aspects_dict,"score":score,"spot_url":spot_url,
-                                            "selectAspectSim":sim1,"selectStyleSim":sim2,"selectSpotSim":sim3,"popularWight":popular_wight}
+                recommend_spots_info[sn] = {"lat":lat,"lng":lng,"aspects":new_aspects_dict,"similar_aspects":similar_aspects_dict,"major_aspects":major_aspects_dict,"miner_aspects":miner_aspects_dict,
+                                            "sum_score":sum_score,"spot_url":spot_url,"selectAspectSim":sim1,"selectStyleSim":sim2,"selectSpotSim":sim3,"popularWight":popular_wight}
         # sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[4],reverse=True)
-        sorted_recommend_spots_info = sorted(recommend_spots_info.items(), key=lambda item: item[1]["score"], reverse=True)
+    sorted_recommend_spots_info = dict(sorted(recommend_spots_info.items(), key=lambda item: item[1]["sum_score"], reverse=True))
+    for sn,recommend_spot_info in sorted_recommend_spots_info.items():
+        selectAspectSim = recommend_spot_info["selectAspectSim"]
+        selectStyleSim = recommend_spot_info["selectStyleSim"]
+        selectSpotSim = recommend_spot_info["selectSpotSim"]
+        popular_wight = recommend_spot_info["popularWight"]
+        
+        normalized_selectAspectSim = selectAspectSim/max_selectAspectSim if max_selectAspectSim != 0 else  selectAspectSim
+        normalized_selectStyleSim =  selectStyleSim/max_selectStyleSim if max_selectStyleSim != 0 else selectStyleSim
+        normalized_selectSpotSim = selectSpotSim/max_selectSpotSim if max_selectSpotSim != 0  else  selectSpotSim
+            
+        sorted_recommend_spots_info[sn]["score"] = (normalized_selectAspectSim+normalized_selectStyleSim+normalized_selectSpotSim) * popular_wight
+
+    sorted_recommend_spots_info_new = sorted(sorted_recommend_spots_info.items(), key=lambda item: item[1]["score"], reverse=True)
     
     print("辞書は以下: ", check_needed_aspect_dict)
 
-    if len(sorted_recommend_spots_info) <= n:
-        return sorted_recommend_spots_info
+    if len(sorted_recommend_spots_info_new) <= n:
+        return sorted_recommend_spots_info_new
     else:
-        return sorted_recommend_spots_info[0:n]
+        return sorted_recommend_spots_info_new[0:n]
 
 
 def calc_selected_spot_vector(aspect_dict, cluster_dict):
@@ -313,15 +335,15 @@ def calc_weight(revnum,popularityLevel,pref_info):
         
 #スポットのスコア計算
 def calc_spot_score(selected_aspectsVector,selected_style_vector,selected_spot_vector,spot_aspectsVector, spot_numOfRev,pref_info,popularityLevel):
-    score = 0.0
+    sum_score = 0.0
     #dot_sim : 内積/cos_sim : コサイン類似度
-    similarity_selectedAspectsVector = cos_sim(selected_aspectsVector,spot_aspectsVector)
-    similarity_selectedStyleVector = cos_sim(selected_style_vector,spot_aspectsVector)
-    similarity_selectedSpotVector = cos_sim(selected_spot_vector,spot_aspectsVector)
+    similarity_selectedAspectsVector = dot_sim(selected_aspectsVector,spot_aspectsVector)
+    similarity_selectedStyleVector = dot_sim(selected_style_vector,spot_aspectsVector)
+    similarity_selectedSpotVector = dot_sim(selected_spot_vector,spot_aspectsVector)
 
     similarity = similarity_selectedAspectsVector +  similarity_selectedStyleVector + similarity_selectedSpotVector
 
     if spot_numOfRev != None:
         weight = calc_weight(spot_numOfRev,popularityLevel,pref_info)
-    score = weight * similarity
-    return similarity_selectedAspectsVector,similarity_selectedStyleVector,similarity_selectedSpotVector,weight,score
+    sum_score = weight * similarity
+    return similarity_selectedAspectsVector,similarity_selectedStyleVector,similarity_selectedSpotVector,weight,sum_score
