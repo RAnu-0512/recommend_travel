@@ -990,7 +990,6 @@ function showSpotDetails(spot, photoUrl, noImageUrl,modal_type) {
     // 詳細情報を表示する要素を取得
     const randomSpotModalContent = document.getElementById(`spot_modal_content_${modal_type}`);
 
-    // コンテンツをクリア
     randomSpotModalContent.innerHTML = `
     <h2>${spotName} の詳細</h2>
     <p>じゃらんnet: <a href="${spot_url}" target="_blank">${spot_url}</a></p>

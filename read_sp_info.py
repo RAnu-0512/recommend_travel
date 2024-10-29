@@ -12,7 +12,7 @@ def get_spotinfo():
         "徳島", "香川", "愛媛", "高知", "福岡", "佐賀", "長崎",
         "熊本", "大分", "宮崎", "鹿児島", "沖縄"#,"全国"
     ]
-    pref_list = ["岡山","兵庫","京都"]
+    pref_list = ["岡山"]
     pref_dict = {}
 #    pref_dict["全国"] = []
     for pref in pref_list:
@@ -23,12 +23,33 @@ def get_spotinfo():
             #     pref_dict["全国"] += pref_info
     return pref_dict
 
+def get_popular_spotinfo(allpref_spots_info):
+    popular_spots_info_path = f"./data_beta/popular_spots/popular_spots_final.csv"
+    popular_spots_info = []
+    with open(popular_spots_info_path,"r",encoding="utf-8") as f_r:
+        popular_spots_reader = csv.reader(f_r) 
+        for row in popular_spots_reader:
+            spotname = row[0]
+            prefecture = row[1]
+            popular_spots_info.append({"spotname":spotname,"prefecture":prefecture})
+    
+    poplular_spot_info_dict  = {}
+    for popular_spot_info in popular_spots_info:
+        spotname = popular_spot_info["spotname"] 
+        prefecture = popular_spot_info["prefecture"]
+        if prefecture not in poplular_spot_info_dict:
+            poplular_spot_info_dict[prefecture] = {}
+            poplular_spot_info_dict[prefecture][spotname] = allpref_spots_info[prefecture][spotname]
+        else:
+            poplular_spot_info_dict[prefecture][spotname] = allpref_spots_info[prefecture][spotname]
+    return poplular_spot_info_dict
+
 #県のスポットの情報を読み込む
 def get_pref_spot_info(pref):
     # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
     # try:
     spots_info = {}
-    latlng_info_path = f"data_beta/latlng/{pref}_latlng_review_top150.csv"
+    latlng_info_path = f"data_beta/latlng/{pref}_latlng_review_exist_aspects.csv"
     major_path = f"data_beta/major_miner/{pref}major_aspects.csv"
     miner_path = f"data_beta/major_miner/{pref}miner_aspects.csv"
     with open(latlng_info_path, 'r', encoding='utf-8') as f_latlng:

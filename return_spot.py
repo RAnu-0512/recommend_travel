@@ -230,7 +230,6 @@ def calc_selected_spot_vector(aspect_dict, cluster_dict):
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
 def get_other_pref_spot(allpref_spots_info):
     # 辞書をループしてスポット名と県名を収集
-    # 最初の要素に選択県,その後はスポット情報
     list_spotname = []
     for cur_pref, spots in allpref_spots_info.items():
         for spotname,spotinfo in spots.items():

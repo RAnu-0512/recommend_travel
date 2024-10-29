@@ -1,7 +1,7 @@
 from flask import Flask, render_template, jsonify, request, url_for,redirect
 import webbrowser
 import gensim
-from read_sp_info import get_spotinfo
+from read_sp_info import get_spotinfo,get_popular_spotinfo
 from return_aspect import return_aspect,popular_aspects,get_random_aspects
 from calculate_distance import calc_near_spot
 from return_spot import return_spot,get_other_pref_spot
@@ -40,8 +40,15 @@ print(".....県情報読み込み中")
 allpref_info = get_allpref_info(allpref_spots_info)
 print(".....県情報読み込み完了!!")
 
+print(".....有名スポットの情報読み込み中")
+# popluar_spots_info = get_popular_spotinfo(allpref_spots_info) #allpref_clusters_infoと同じ形式 
+# テスト用でコメントアウト
+print(".....有名スポットの情報読み込み完了")
 
-list_spots_popular = get_other_pref_spot(allpref_spots_info)
+
+
+# list_spots_popular = get_other_pref_spot(popluar_spots_info) #テスト用でコメントアウト
+list_spots_popular = get_other_pref_spot(allpref_spots_info) #本番はコメントアウト
 list_spots_all = get_other_pref_spot(allpref_spots_info)
 
 
