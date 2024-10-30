@@ -1,6 +1,6 @@
 #スポットの情報を読み込む
 import csv
-
+import os
 
 def get_spotinfo():
     pref_list = [
@@ -12,7 +12,7 @@ def get_spotinfo():
         "徳島", "香川", "愛媛", "高知", "福岡", "佐賀", "長崎",
         "熊本", "大分", "宮崎", "鹿児島", "沖縄"#,"全国"
     ]
-    # pref_list = ["岡山"]
+    pref_list = ["岡山"]
     pref_dict = {}
 #    pref_dict["全国"] = []
     for pref in pref_list:
@@ -64,6 +64,7 @@ def get_pref_spot_info(pref):
             spots_info[spot_name]["aspects"] = {}
             spots_info[spot_name]["major_aspects"] = []
             spots_info[spot_name]["miner_aspects"] = []
+            spots_info[spot_name]["aspects_label"] = {}
             
     major_list = []
     miner_list = []
@@ -129,6 +130,23 @@ def get_pref_spot_info(pref):
                 spot_info["major_aspects"].append(aspect)
             if aspect in miner_list:
                 spot_info["miner_aspects"].append(aspect)
+    aspects_label_folder_path = f"data_beta/aspects_labels/{pref}/"
+    for spot_name,spot_info in spots_info.items():
+        aspects_label_path = f"{aspects_label_folder_path}{spot_name}aspects_labels.csv"
+        with open(aspects_label_path,"r",encoding="utf-8") as f_label:
+            reader = csv.reader(f_label)
+            rows = list(reader)
+        for row in rows:
+            aspects_label = row[0]
+            count = float(row[1])
+            senti_score = float(row[2])
+            aspects = row[3:]
+            if aspects_label not in spot_info["aspects_label"]:
+                spot_info["aspects_label"][aspects_label] = {"count":count,"senti_score":senti_score,"aspects":[{"aspect": aspect, "display": "on"} for aspect in aspects]}
+            else:
+                spot_info["aspects_label"][aspects_label]["count"] += count
+                spot_info["aspects_label"][aspects_label]["senti_score"] += senti_score
+                spot_info["aspects_label"][aspects_label]["aspects"] += [{"aspect": aspect, "display": "on"} for aspect in aspects]
     print(f"ファイルが見つかりました!! : {pref}")
     # except FileNotFoundError:
     #     print(f"ファイルが見つかりませんでした。:{pref}")

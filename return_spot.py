@@ -89,7 +89,6 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
     print("選択した観点 : ",selected_aspects)
     print("選択した観点の重み : ",selected_aspects_parm)
     
-
     #spot_info[aspects]の形式 : {aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}
     recommend_spots_info = {}
     max_selectAspectSim = 0
@@ -107,6 +106,7 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         spot_url = spot_info["spot_url"]
         major_aspect_list = spot_info["major_aspects"]
         miner_aspect_list = spot_info["miner_aspects"]
+        aspects_label = spot_info["aspects_label"]
         
         #recommendationFactors
         if haversine_distance(selected_lat,selected_lng,lat,lng) <= recommend_range:
@@ -132,7 +132,14 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                 for aspect,aspects_info_dict in new_aspects_dict.items():
                     if aspect in miner_aspect_list:
                         miner_aspects_dict[aspect] = aspects_info_dict
-                recommend_spots_info[sn] = {"lat":lat,"lng":lng,"aspects":new_aspects_dict,"similar_aspects":similar_aspects_dict,"major_aspects":major_aspects_dict,"miner_aspects":miner_aspects_dict,
+
+                similar_aspects_label = update_aspects_display(aspects_label, similar_aspects_dict)
+                major_aspects_label = update_aspects_display(aspects_label, major_aspects_dict)
+                miner_aspects_label = update_aspects_display(aspects_label, miner_aspects_dict)
+                recommend_spots_info[sn] = {"lat":lat,"lng":lng,"aspects":new_aspects_dict,"aspects_label":aspects_label,
+                                            "similar_aspects":similar_aspects_dict,"similar_aspects_label":similar_aspects_label,
+                                            "major_aspects":major_aspects_dict,"major_aspects_label":major_aspects_label,
+                                            "miner_aspects":miner_aspects_dict,"miner_aspects_label":miner_aspects_label,
                                             "sum_score":sum_score,"spot_url":spot_url,"selectAspectSim":sim1,"selectStyleSim":sim2,"selectSpotSim":sim3,"popularWight":popular_wight}
         # sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[4],reverse=True)
     sorted_recommend_spots_info = dict(sorted(recommend_spots_info.items(), key=lambda item: item[1]["sum_score"], reverse=True))
@@ -157,6 +164,46 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
     else:
         return sorted_recommend_spots_info_new[0:n]
 
+def update_aspects_display(aspects_label, similar_aspects_dict):
+    """
+    aspects_labelの各aspectに対して、similar_aspects_dictに存在する場合は"display"を'on'に、
+    存在しない場合は'off'に設定した新しい辞書を返す。
+    ただし、すべてのaspectの"display"が'off'の場合、そのaspects_labelのキーは追加しない。
+
+    :param aspects_label: 辞書形式のaspects_label
+    :param similar_aspects_dict: 辞書形式のsimilar_aspects_dict
+    :return: 更新された辞書
+    """
+    updated_aspects_label = {}
+
+    for aspect_key, aspect_info in aspects_label.items():
+        # 新しいエントリのコピー
+        updated_entry = {
+            'count': aspect_info.get('count', 0.0),
+            'senti_score': aspect_info.get('senti_score', 0.0),
+            'aspects': []
+        }
+
+        # 各aspectをチェック
+        for aspect in aspect_info.get('aspects', []):
+            aspect_name = aspect.get('aspect', '')
+            if not aspect_name:
+                continue  # aspect名が存在しない場合はスキップ
+
+            # similar_aspects_dictに存在するか確認
+            display_status = 'on' if aspect_name in similar_aspects_dict else 'off'
+
+            # 更新されたaspectを追加
+            updated_entry['aspects'].append({
+                'aspect': aspect_name,
+                'display': display_status
+            })
+
+        # 更新後、少なくとも1つのaspectが"display": 'on'であるか確認
+        if any(a['display'] == 'on' for a in updated_entry['aspects']):
+            updated_aspects_label[aspect_key] = updated_entry
+
+    return updated_aspects_label
 
 def calc_selected_spot_vector(aspect_dict, cluster_dict):
     similarity_threshold=0.6

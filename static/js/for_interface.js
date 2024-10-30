@@ -219,20 +219,16 @@ function senti2StarsEval(senti_socre) {
                     //      "similar_aspects":{aspect:{"senti_score":float,"count":float}},"score" :float,"selectAspectSim":float, "selectStyleSim":float,"selectSpotSim":float,"popularWight":float,"url":str}
                     data.forEach(async (element, index) => {
                         // 観点を表示する関数を更新
-                        function renderAspects(aspects, sortOption, filterOption, similarAspects, majorAspects, minerAspects) {
-                            return aspectsAddEvaluation(aspects, sortOption, filterOption, similarAspects, majorAspects, minerAspects);
-                        }
-
-                        function aspectsAddEvaluation(aspects, sortOption = "senti_score_high", filterOption, similarAspects, majorAspects, minerAspects) {
-                            let aspectsArray = Object.entries(aspects);
+                        function renderAspects(all_aspects, aspects_label, sortOption, filterOption, similarAspects_label, majorAspects_label, minerAspects_label) {
+                            let aspectsArray = Object.entries(aspects_label);
 
                             // フィルタリングの適用
                             if (filterOption === "universal") {
-                                aspectsArray = Object.entries(majorAspects);
+                                aspectsArray = Object.entries(majorAspects_label);
                             } else if (filterOption === "unique") {
-                                aspectsArray = Object.entries(minerAspects);
+                                aspectsArray = Object.entries(minerAspects_label);
                             } else if (filterOption == "relative") {
-                                aspectsArray = Object.entries(similarAspects);
+                                aspectsArray = Object.entries(similarAspects_label);
                             }
                             // ソートの適用
                             aspectsArray.sort((a, b) => {
@@ -268,9 +264,25 @@ function senti2StarsEval(senti_socre) {
                                                 言及数: 
                                                 <span class="count-display"> ${data.count} </span>
                                             </span>
-                                            <span class="recommnend-factors">
-                                                ${data.recommendFactors ? '関連:' +
-                                        "<span style='font-weight: bold; color : #c14343'>" + data.recommendFactors + '</span>' : ''}
+                                            <span class="recommend-factors">
+                                            ${(() => {
+                                                const factors = data.aspects
+                                                    .filter(aspectObj => 
+                                                        aspectObj.display === 'on' && 
+                                                        all_aspects[aspectObj.aspect] && 
+                                                        all_aspects[aspectObj.aspect].recommendFactors
+                                                    )
+                                                    .flatMap(aspectObj => all_aspects[aspectObj.aspect].recommendFactors);
+                                            
+                                                // 重複を排除
+                                                const uniqueFactors = [...new Set(factors)];
+                                            
+                                                // `uniqueFactors` が存在する場合にのみ表示
+                                                return uniqueFactors.length > 0
+                                                    ? `関連: <span style="font-weight: bold; color: #c14343">${uniqueFactors.join(', ')}</span>`
+                                                    : '';
+                                            })()
+                                            }
                                             </span>
                                         </span>
                                     </span>`)
@@ -321,8 +333,13 @@ function senti2StarsEval(senti_socre) {
 
                         const similarAspectsHTML = aspectsAddEvaluation_noCount_top(element.similar_aspects, 4)
                         const similarAspects = element.similar_aspects
+                        const similarAspects_label = element.similar_aspects_label
                         const majorAspects = element.major_aspects
+                        const majorAspects_label = element.major_aspects_label
                         const minerAspects = element.miner_aspects
+                        const minerAspects_label = element.miner_aspects_label
+                        const aspects = element.aspects
+                        const aspects_label = element.aspects_label
                         const prefecture = selected_pref.replace("東京都", "東京").replace("道", "").replace("県", "").replace("京都府", "京都").replace("大阪府", "大阪");
                         const photo_url = "static/images/" + prefecture + "/" + element.spot_name + ".jpg";
                         const noImageUrl = "static/images/NoImage.jpg";
@@ -390,7 +407,7 @@ function senti2StarsEval(senti_socre) {
                                     </div>
                                 </div>
                                 <div id="aspects-container">
-                                    ${renderAspects(element.aspects, "count_high", "all", similarAspects, majorAspects, minerAspects)}
+                                    ${renderAspects(aspects, aspects_label, "count_high", "all", similarAspects_label, majorAspects_label, minerAspects_label)}
                                 </div>
                             `;
 
@@ -407,7 +424,7 @@ function senti2StarsEval(senti_socre) {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
                                     console.log("選択された並べ替え方法:", selectedSort);
-                                    aspectsContainer.innerHTML = renderAspects(element.aspects, selectedSort, selectedFilter, similarAspects, majorAspects, minerAspects);
+                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects_label, majorAspects_label, minerAspects_label);
                                 });
 
                                 // フィルタリングイベントリスナー
@@ -415,7 +432,7 @@ function senti2StarsEval(senti_socre) {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
                                     console.log("選択された観点フィルタ:", selectedFilter);
-                                    aspectsContainer.innerHTML = renderAspects(element.aspects, selectedSort, selectedFilter, similarAspects, majorAspects, minerAspects);
+                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects_label, majorAspects_label, minerAspects_label);
                                 });
                             });
 
@@ -911,7 +928,7 @@ async function fetchAndDisplayRandomSpot() {
             // クリックイベントを追加
             spotNameElement.style.cursor = "pointer"; // カーソルをポインターに変更
             spotNameElement.addEventListener("click", () => {
-                showSpotDetails(spot, photoUrl, noImageUrl,"random");
+                showSpotDetails(spot, photoUrl, noImageUrl, "random");
             });
             const spotNameElementTooltip = document.createElement("span");
             spotNameElementTooltip.className = "tooltip";
@@ -982,10 +999,11 @@ async function fetchAndDisplayRandomSpot() {
 }
 
 // スポットの詳細情報を表示する関数
-function showSpotDetails(spot, photoUrl, noImageUrl,modal_type) {
+function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
     const spotName = spot.spot_name;
     const spot_url = spot.spot_url;
     const spot_aspects = spot.aspects;
+    const spot_aspects_label = spot.aspects_label;
 
     // 詳細情報を表示する要素を取得
     const randomSpotModalContent = document.getElementById(`spot_modal_content_${modal_type}`);
@@ -1030,12 +1048,7 @@ function showSpotDetails(spot, photoUrl, noImageUrl,modal_type) {
 
 
     function renderAspects_light(aspects, sortOption) {
-        return aspectsAddEvaluation_light(aspects, sortOption);
-    }
-
-    function aspectsAddEvaluation_light(aspects, sortOption) {
         let aspectsArray = Object.entries(aspects);
-
         // ソートの適用
         aspectsArray.sort((a, b) => {
             switch (sortOption) {
@@ -1338,7 +1351,7 @@ async function performSearch_modal3(query, pref) {
             // クリックイベントを追加
             spotNameElement.style.cursor = "pointer"; // カーソルをポインターに変更
             spotNameElement.addEventListener("click", () => {
-                showSpotDetails(spot, photoUrl, noImageUrl,"search");
+                showSpotDetails(spot, photoUrl, noImageUrl, "search");
             });
             const spotNameElementTooltip = document.createElement("span");
             spotNameElementTooltip.className = "tooltip";

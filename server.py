@@ -41,15 +41,14 @@ allpref_info = get_allpref_info(allpref_spots_info)
 print(".....県情報読み込み完了!!")
 
 print(".....有名スポットの情報読み込み中")
-popluar_spots_info = get_popular_spotinfo(allpref_spots_info) #allpref_clusters_infoと同じ形式 
-# テスト用でコメントアウト
+# popluar_spots_info = get_popular_spotinfo(allpref_spots_info) #allpref_clusters_infoと同じ形式  # テスト用でコメントアウト
 print(".....有名スポットの情報読み込み完了")
-
-
-
-list_spots_popular = get_other_pref_spot(popluar_spots_info) #テスト用でコメントアウト
-# list_spots_popular = get_other_pref_spot(allpref_spots_info) #本番はコメントアウト
+# list_spots_popular = get_other_pref_spot(popluar_spots_info) #テスト用でコメントアウト
+list_spots_popular = get_other_pref_spot(allpref_spots_info) #本番はコメントアウト
 list_spots_all = get_other_pref_spot(allpref_spots_info)
+
+
+
 
 
 returned_aspect_list = []
@@ -115,9 +114,13 @@ def get_recommended_spots():
             "lat" : recommend_spot[1]["lat"],
             "lng" : recommend_spot[1]["lng"],
             "aspects" : recommend_spot[1]["aspects"],
+            "aspects_label" : recommend_spot[1]["aspects_label"],
             "similar_aspects" : recommend_spot[1]["similar_aspects"],
+            "similar_aspects_label" : recommend_spot[1]["similar_aspects_label"],
             "major_aspects" :recommend_spot[1]["major_aspects"],
+            "major_aspects_label" : recommend_spot[1]["major_aspects_label"],
             "miner_aspects" :recommend_spot[1]["miner_aspects"],
+            "miner_aspects_label" : recommend_spot[1]["miner_aspects_label"],
             "score" : recommend_spot[1]["score"],
             "selectAspectSim" : recommend_spot[1]["selectAspectSim"],
             "selectStyleSim" : recommend_spot[1]["selectStyleSim"],
