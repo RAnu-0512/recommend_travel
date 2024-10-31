@@ -90,8 +90,8 @@ function add_html(index, url, spot_name, outerHTML_text, popupId) {
 }
 
 
-function highlightSimilarAspects(aspect, similarAspects) {
-    if (aspect in similarAspects) {
+function highlightSimilarAspects(aspect, similarAspects_label) {
+    if (aspect in similarAspects_label) {
         return `
             <span class="tooltip-box" id="aspect_highlighted">
                 ${aspect}
@@ -247,9 +247,54 @@ function senti2StarsEval(senti_socre) {
                             });
 
                             const aspectsHtml = aspectsArray
-                                .map(([aspect, data]) =>
-                                    `<span class="aspect-plus-rating">
-                                        <span class="aspect">${highlightSimilarAspects(aspect, similarAspects)}</span>
+                                .map(([aspect, data]) => {
+                                    // `data.aspects` の長さをチェック
+                                    const isMultipleAspects = data.aspects.length >= 2;
+                                    // 使用するタグを決定
+                                    const Tag = isMultipleAspects ? 'details' : 'span';
+                                    const ClosingTag = isMultipleAspects ? 'details' : 'span';
+
+                                    // 必要に応じて <summary> を追加（<details> を使用する場合）
+                                    const summaryTag = isMultipleAspects
+                                        ? `<summary>`
+                                        : ``;
+                                    const summary_endTag = isMultipleAspects
+                                    ? `</summary>`
+                                    : ``;
+                                    const accordionContent = isMultipleAspects
+                                    ?`
+                                    <span class="accordion-content">
+                                        <span class="aspect-plus-rating">
+                                            <span class="aspect_content">
+                                                <span class="aspect">${data.aspects[0].aspect}</span>
+                                                <span class="aspect-rating"> 
+                                                    <span class="rating-num">${senti2StarsEval(0.80)}</span>
+                                                    <span class="star-ratings">
+                                                        <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(0.80)});">
+                                                            ★★★★★
+                                                        </span>
+                                                        <span class="star-ratings-bottom">
+                                                            ★★★★★
+                                                        </span>
+                                                    </span>
+                                                    <span class="count-display-title">
+                                                        言及数: 
+                                                        <span class="count-display"> ${35} </span>
+                                                    </span>
+                                                    <span class="recommend-factors">
+                                                        関連: <span style="font-weight: bold; color: #c14343">景色を楽しむ</span>
+                                                    </span>
+                                                </span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                    `
+                                    :"";
+                                    return `
+                                <${Tag} class="aspect-plus-rating">
+                                    ${summaryTag}
+                                    <span class="aspect_content">
+                                        <span class="aspect">${highlightSimilarAspects(aspect, similarAspects_label)}</span>
                                         <span class="aspect-rating"> 
                                             <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
                                             <span class="star-ratings">
@@ -265,19 +310,19 @@ function senti2StarsEval(senti_socre) {
                                                 <span class="count-display"> ${data.count} </span>
                                             </span>
                                             <span class="recommend-factors">
-                                            ${(() => {
+                                                ${(() => {
                                                 const factors = data.aspects
-                                                    .filter(aspectObj => 
-                                                        aspectObj.display === 'on' && 
-                                                        all_aspects[aspectObj.aspect] && 
+                                                    .filter(aspectObj =>
+                                                        aspectObj.display === 'on' &&
+                                                        all_aspects[aspectObj.aspect] &&
                                                         all_aspects[aspectObj.aspect].recommendFactors
                                                     )
                                                     .flatMap(aspectObj => all_aspects[aspectObj.aspect].recommendFactors);
-                                            
+
                                                 // 重複を排除
                                                 const uniqueFactors = [...new Set(factors)];
-                                            
-                                                // `uniqueFactors` が存在する場合にのみ表示
+
+                                                // uniqueFactors が存在する場合にのみ表示
                                                 return uniqueFactors.length > 0
                                                     ? `関連: <span style="font-weight: bold; color: #c14343">${uniqueFactors.join(', ')}</span>`
                                                     : '';
@@ -285,7 +330,17 @@ function senti2StarsEval(senti_socre) {
                                             }
                                             </span>
                                         </span>
-                                    </span>`)
+                                    </span>
+                                    ${summary_endTag}
+                                    ${(()=>{
+                                        return isMultipleAspects
+                                        ? accordionContent
+                                        : ``;
+
+                                    })()}
+                                </${ClosingTag}>
+                            `;
+                                })
                                 .join("");
                             return aspectsHtml;
                         }
