@@ -133,7 +133,27 @@ function senti2StarsEval(senti_socre) {
     return stars.toFixed(1);
 }
 
+function accordionOpenClose() {
+    // スポット詳細modal内の、観点アコーディオンメニュー
+    var acc = document.getElementsByClassName("accordion-trigger");
+    var i;
 
+    // 各アコーディオンボタンにクリックイベントを追加
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function () {
+            // 「active」クラスの切り替え
+            this.classList.toggle("active");
+
+            // 次の兄弟要素（.panel）の表示を切り替え
+            var panel = this.nextElementSibling;
+            if (panel.style.maxHeight) {
+                panel.style.maxHeight = null;
+            } else {
+                panel.style.maxHeight = panel.scrollHeight + 100 + "px";
+            }
+        });
+    }
+}
 
 (async () => {
     try {
@@ -219,7 +239,7 @@ function senti2StarsEval(senti_socre) {
                     //      "similar_aspects":{aspect:{"senti_score":float,"count":float}},"score" :float,"selectAspectSim":float, "selectStyleSim":float,"selectSpotSim":float,"popularWight":float,"url":str}
                     data.forEach(async (element, index) => {
                         // 観点を表示する関数を更新
-                        function renderAspects(all_aspects, aspects_label, sortOption, filterOption, similarAspects,similarAspects_label, majorAspects_label, minerAspects_label) {
+                        function renderAspects(all_aspects, aspects_label, sortOption, filterOption, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label) {
                             let aspectsArray = Object.entries(aspects_label);
 
                             // フィルタリングの適用
@@ -250,14 +270,19 @@ function senti2StarsEval(senti_socre) {
                                 .map(([aspect, data]) => {
                                     // `data.aspects` の長さをチェック
                                     const isMultipleAspects = data.aspects.length >= 2;
-                                    const accordionTriggerTag = isMultipleAspects ? '<span class="accordion-trigger">' : '';
+                                    const accordionTriggerTag = isMultipleAspects ?'<span class="accordion-trigger">' : '';
                                     const accordionTriggerCloseTag = isMultipleAspects ? '</span>' : '';
 
                                     const accordionContent = isMultipleAspects
                                         ? `
                                         <span class="accordion-content">
                                             ${data.aspects.map(aspectInlabel => `
-                                                <span class="aspect-plus-rating">
+                                                ${(() => {
+                                                    isDisplayOn = aspectInlabel.display == "on";
+                                                    return isDisplayOn
+                                                    ?'<span class="aspect-plus-rating">'
+                                                    :'<span class="aspect-plus-rating display-off">';
+                                                })()}
                                                     <span class="aspect">
                                                         ${highlightSimilarAspects(aspectInlabel.aspect, similarAspects)}
                                                     </span>
@@ -276,7 +301,18 @@ function senti2StarsEval(senti_socre) {
                                                             <span class="count-display"> ${all_aspects[aspectInlabel.aspect].count} </span>
                                                         </span>
                                                         <span class="recommend-factors">
-                                                            関連: <span style="font-weight: bold; color: #c14343">${"景色を楽しむ"}</span>
+                                                            ${(() => {
+                                                                const recommendFactors = all_aspects[aspectInlabel.aspect].recommendFactors;
+
+                                                                return `
+                                                                        <span class="recommend-factors">
+                                                                            ${recommendFactors && recommendFactors.length > 0
+                                                                            ? `関連: <span style="font-weight: bold; color: #c14343">${recommendFactors.join(",")}</span>`
+                                                                            : ""}
+                                                                        </span>
+                                                                        `;
+                                                                })()
+                                                            }
                                                         </span>
                                                     </span>
                                                 </span>
@@ -337,12 +373,12 @@ function senti2StarsEval(senti_socre) {
                             return aspectsHtml;
                         }
 
-                        function aspectsAddEvaluation_noCount_top(aspects, n) {
-                            // 観点を配列に変換し、senti_scoreで降順にソート
-                            const sortedAspects = Object.entries(aspects)
+                        function aspectsAddEvaluation_noCount_top(aspects_label, n) {
+                            // 観点を配列に変換し、count降順にソート
+                            const sortedAspects = Object.entries(aspects_label)
                                 .sort((a, b) => {
-                                    const scoreA = senti2StarsEval(a[1].senti_score);
-                                    const scoreB = senti2StarsEval(b[1].senti_score);
+                                    const scoreA = a[1].count;
+                                    const scoreB = b[1].count;
                                     return scoreB - scoreA; // 降順にソート
                                 });
 
@@ -377,10 +413,9 @@ function senti2StarsEval(senti_socre) {
                             return displayHtml;
                         }
 
-
-                        const similarAspectsHTML = aspectsAddEvaluation_noCount_top(element.similar_aspects, 4)
                         const similarAspects = element.similar_aspects
                         const similarAspects_label = element.similar_aspects_label
+                        const similarAspectsHTML = aspectsAddEvaluation_noCount_top(similarAspects_label, 3)
                         const majorAspects = element.major_aspects
                         const majorAspects_label = element.major_aspects_label
                         const minerAspects = element.miner_aspects
@@ -454,30 +489,10 @@ function senti2StarsEval(senti_socre) {
                                     </div>
                                 </div>
                                 <div id="aspects-container">
-                                    ${renderAspects(aspects, aspects_label, "count_high", "all",similarAspects ,similarAspects_label, majorAspects_label, minerAspects_label)}
+                                    ${renderAspects(aspects, aspects_label, "count_high", "all", similarAspects, similarAspects_label, majorAspects_label, minerAspects_label)}
                                 </div>
                             `;
-                                function accordionOpenClose() {
-                                    // スポット詳細modal内の、観点アコーディオンメニュー
-                                    var acc = document.getElementsByClassName("accordion-trigger");
-                                    var i;
-
-                                    // 各アコーディオンボタンにクリックイベントを追加
-                                    for (i = 0; i < acc.length; i++) {
-                                        acc[i].addEventListener("click", function () {
-                                            // 「active」クラスの切り替え
-                                            this.classList.toggle("active");
-
-                                            // 次の兄弟要素（.panel）の表示を切り替え
-                                            var panel = this.nextElementSibling;
-                                            if (panel.style.maxHeight) {
-                                                panel.style.maxHeight = null;
-                                            } else {
-                                                panel.style.maxHeight = panel.scrollHeight + 100 + "px";
-                                            }
-                                        });
-                                    }
-                                }
+                            
                                 accordionOpenClose();
                                 // モーダルを表示
                                 modal.style.display = "block";
@@ -492,7 +507,7 @@ function senti2StarsEval(senti_socre) {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
                                     console.log("選択された並べ替え方法:", selectedSort);
-                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects,similarAspects_label, majorAspects_label, minerAspects_label);
+                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label);
                                     accordionOpenClose();
                                 });
 
@@ -501,7 +516,7 @@ function senti2StarsEval(senti_socre) {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
                                     console.log("選択された観点フィルタ:", selectedFilter);
-                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects,similarAspects_label, majorAspects_label, minerAspects_label);
+                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label);
                                     accordionOpenClose();
                                 });
                             });
@@ -1095,10 +1110,10 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
         </div>
     </div>
     <div id="aspects-container-${modal_type}Spot">
-        ${renderAspects_light(spot_aspects, "count_high")}
+        ${renderAspects_light(spot_aspects, spot_aspects_label,"count_high")}
     </div>
     `;
-
+    accordionOpenClose();
     // プルダウンのイベントリスナーを設定
     const sortSelect = document.getElementById(`sort-select-${modal_type}Spot`);
     const aspectsContainer = document.getElementById(`aspects-container-${modal_type}Spot`);
@@ -1107,7 +1122,8 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
     sortSelect.addEventListener("change", () => {
         const selectedSort = sortSelect.value;
         console.log("選択された並べ替え方法:", selectedSort);
-        aspectsContainer.innerHTML = renderAspects_light(spot_aspects, selectedSort);
+        aspectsContainer.innerHTML = renderAspects_light(spot_aspects,spot_aspects_label,selectedSort);
+        accordionOpenClose();
     });
 
 
@@ -1117,8 +1133,8 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
 
 
 
-    function renderAspects_light(aspects, sortOption) {
-        let aspectsArray = Object.entries(aspects);
+    function renderAspects_light(all_aspects, aspects_label, sortOption) {
+        let aspectsArray = Object.entries(aspects_label);
         // ソートの適用
         aspectsArray.sort((a, b) => {
             switch (sortOption) {
@@ -1136,29 +1152,72 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
         });
 
         const aspectsHtml = aspectsArray
-            .map(([aspect, data]) =>
-                `<span class="aspect-plus-rating">
-                    <span class="aspect">${aspect}</span>
-                    <span class="aspect-rating">
-                        <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
-                        <span class="star-ratings">
-                            <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});">
-                                ★★★★★
+            .map(([aspect, data]) => {
+                // `data.aspects` の長さをチェック
+                const isMultipleAspects = data.aspects.length >= 2;
+                const accordionTriggerTag = isMultipleAspects ? '<span class="accordion-trigger">' : '';
+                const accordionTriggerCloseTag = isMultipleAspects ? '</span>' : '';
+
+                const accordionContent = isMultipleAspects
+                    ? `
+                <span class="accordion-content">
+                    ${data.aspects.map(aspectInlabel => `
+                        <span class="aspect-plus-rating">
+                            <span class="aspect">
+                                ${aspectInlabel.aspect}
                             </span>
-                            <span class="star-ratings-bottom">
-                                ★★★★★
+                            <span class="aspect-rating"> 
+                                <span class="rating-num">${senti2StarsEval(all_aspects[aspectInlabel.aspect].senti_score)}</span>
+                                <span class="star-ratings">
+                                    <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(all_aspects[aspectInlabel.aspect].senti_score)});">
+                                        ★★★★★
+                                    </span>
+                                    <span class="star-ratings-bottom">
+                                        ★★★★★
+                                    </span>
+                                </span>
+                                <span class="count-display-title">
+                                    言及数: 
+                                    <span class="count-display"> ${all_aspects[aspectInlabel.aspect].count} </span>
+                                </span>
                             </span>
                         </span>
-                        <span class="count-display-title">
-                            言及数:
-                            <span class="count-display"> ${data.count} </span>
+                    `).join('')}
+                </span>
+                `
+                    : "";
+                return `
+        ${accordionTriggerTag}  
+            <span class="aspect-plus-rating">
+                <span class="aspect">${aspect}</span>
+                <span class="aspect-rating"> 
+                    <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
+                    <span class="star-ratings">
+                        <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(data.senti_score)});">
+                            ★★★★★
+                        </span>
+                        <span class="star-ratings-bottom">
+                            ★★★★★
                         </span>
                     </span>
-                </span>`)
+                    <span class="count-display-title">
+                        言及数: 
+                        <span class="count-display"> ${data.count} </span>
+                    </span>
+                </span>
+            </span>
+        ${accordionTriggerCloseTag}  
+        ${(() => {
+                        return isMultipleAspects
+                            ? accordionContent
+                            : ``;
+
+                    })()}
+    `;
+            })
             .join("");
         return aspectsHtml;
     }
-
 }
 
 // モーダルを閉じる関数

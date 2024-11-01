@@ -4,13 +4,23 @@ import numpy as np
 from sklearn.preprocessing import normalize
 import html
 import sys
+import MeCab
+import re
+import ipadic
 
-#レビュー数を読み込みこむ
-# review_num_path  = "data/number_of_review/岡山_numOfRview.csv"
-# with open(review_num_path,"r",encoding="utf-8") as f_r:
-#     reader = csv.reader(f_r)
-#     spot_and_numOfrev = {row[0]: int(row[1]) for row in reader}
-# max_review_num = max(spot_and_numOfrev.values())
+mecab = MeCab.Tagger(ipadic.MECAB_ARGS)
+def candidates_maker_mecab(str,num) :
+  candidates_list= []
+  mecab_candidates = mecab.parseNBest(num, str).split("EOS")
+  mecab_candidates[0] = "\n"+mecab_candidates[0]
+  for mecab_candidate in mecab_candidates:
+    mecab_splited = mecab_candidate.strip().split("\n")
+    candidates_list.append(mecab_splited)
+  copy_cand = [[] for i in range(len(candidates_list))]
+  for c in range(len(candidates_list)):
+    for c2 in candidates_list[c]:
+      copy_cand[c].append([a for a in re.split('[\t,]+',c2) if a != ''])
+  return copy_cand[:-1]
 
 
 #スコアが高いtop nスポットのスポットを返却
@@ -18,7 +28,7 @@ import sys
 #返却形式は[(spot_name,{"lat":lat,"lng":lng,"aspects":{aspect1:{senti_score:senti_score,count:count},..},"similar_aspects":{},"score":score,"spot_url":url}),(spot_name,{}), ...]
 def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_list, allpref_spots_info,cluster_info,pref_info,selected_styles,selected_spots,popularityLevel,pref,n):
     spots_info = allpref_spots_info[pref]
-    read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99.csv"
+    read_style_vector_path = f"./data_beta/style_vector/{pref}recStyle1_vector0.99_NoIN.csv"
     #スタイルベクトルを読み込む(旅行スタイル選択)
     style_vectors_dcit = {}
     with open(read_style_vector_path, 'r', newline='', encoding='utf-8') as csvfile:
@@ -39,7 +49,7 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                   "教養を高める":"learning",
                   "歴史を感じる":"history",
                   "エンタメを楽しむ":"entertainment"}
-    check_needed_aspect_dict =  {}
+    check_needed_aspect_dict =  {} #{aspect:[factor1,factor2,...]}
     
     cluster_ids = list(cluster_info.keys())
     num_clusters = len(cluster_ids)
@@ -95,6 +105,7 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
     max_selectStyleSim = 0
     max_selectSpotSim = 0
     for sn,spot_info in spots_info.items():
+        #スポット毎の情報
         lat = spot_info["lat"]
         lng = spot_info["lng"]
         aspects_need_info = ["senti_score","count"]
@@ -123,16 +134,28 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                 major_aspects_dict = {}
                 miner_aspects_dict = {}
                 for aspect,aspects_info_dict in new_aspects_dict.items():
+                    aspects_mecab = []
+                    for i in candidates_maker_mecab(aspect,1)[0]:
+                        aspects_mecab.append(i[0])
                     if aspect in check_needed_aspect_dict:
                         similar_aspects_dict[aspect] = aspects_info_dict
                         similar_aspects_dict[aspect]["recommendFactors"] = check_needed_aspect_dict[aspect]
-                for aspect,aspects_info_dict in new_aspects_dict.items():
+
+                    #形態素解析した時の結果も格納
+                    for aspect_in_mecab in aspects_mecab:
+                        if aspect_in_mecab in check_needed_aspect_dict:
+                            if aspect not in similar_aspects_dict:
+                                similar_aspects_dict[aspect] = aspects_info_dict
+                            if "recommendFactors" not in similar_aspects_dict[aspect]:
+                                similar_aspects_dict[aspect]["recommendFactors"] = check_needed_aspect_dict[aspect_in_mecab]
+                            elif check_needed_aspect_dict[aspect_in_mecab] not in similar_aspects_dict[aspect]["recommendFactors"]:
+                                similar_aspects_dict[aspect]["recommendFactors"] = list(set(similar_aspects_dict[aspect]["recommendFactors"] + check_needed_aspect_dict[aspect_in_mecab]))
+                                
                     if aspect in major_aspect_list:
                         major_aspects_dict[aspect] = aspects_info_dict
-                for aspect,aspects_info_dict in new_aspects_dict.items():
                     if aspect in miner_aspect_list:
                         miner_aspects_dict[aspect] = aspects_info_dict
-
+                
                 similar_aspects_label = update_aspects_display(aspects_label, similar_aspects_dict)
                 major_aspects_label = update_aspects_display(aspects_label, major_aspects_dict)
                 miner_aspects_label = update_aspects_display(aspects_label, miner_aspects_dict)
@@ -143,6 +166,8 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                                             "sum_score":sum_score,"spot_url":spot_url,"selectAspectSim":sim1,"selectStyleSim":sim2,"selectSpotSim":sim3,"popularWight":popular_wight}
         # sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[4],reverse=True)
     sorted_recommend_spots_info = dict(sorted(recommend_spots_info.items(), key=lambda item: item[1]["sum_score"], reverse=True))
+
+    #スポットのスコアの和を最大値で割って正規化(内積のため)
     for sn,recommend_spot_info in sorted_recommend_spots_info.items():
         selectAspectSim = recommend_spot_info["selectAspectSim"]
         selectStyleSim = recommend_spot_info["selectStyleSim"]
@@ -157,7 +182,7 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
 
     sorted_recommend_spots_info_new = sorted(sorted_recommend_spots_info.items(), key=lambda item: item[1]["score"], reverse=True)
     
-    print("辞書は以下: ", check_needed_aspect_dict)
+    print("辞書は以下(チェックが必要な観点:[factors,..]): ", check_needed_aspect_dict)
 
     if len(sorted_recommend_spots_info_new) <= n:
         return sorted_recommend_spots_info_new
@@ -282,13 +307,14 @@ def get_other_pref_spot(allpref_spots_info):
         for spotname,spotinfo in spots.items():
             aspects = spotinfo.get('aspects', {})
             url = spotinfo.get('spot_url')
+            aspects_label = spotinfo.get("aspects_label",{})
             new_aspects = {}
             for aspect_name,aspect_info in aspects.items():
                 new_aspects[aspect_name] = {
                     'senti_score': aspect_info.get('senti_score'),
                     'count': aspect_info.get('count')
                 }
-            list_spotname.append({"spot_name":spotname,"prefecture":cur_pref,"aspects":new_aspects,"spot_url":url})
+            list_spotname.append({"spot_name":spotname,"prefecture":cur_pref,"aspects":new_aspects,"aspects_label":aspects_label,"spot_url":url})
 
     return list_spotname
 
@@ -322,7 +348,6 @@ def return_check_needed_aspects(style_vector,clustering_aspect_dict):
 def return_selected_aspectsVector(selected_aspect_list,selected_aspect_parm_list,pref,check_needed_aspect_dict):
     read_clustering_path = f"./data_beta/all_aspect_clustering/{pref}clustering_aspectFromCluster0.99.csv"
     #全ての観点のクラスタリング結果から、選択した観点のベクトルを生成
-    #含まれる位置で指定されたパラメータ * 1を足す
     list_aspects = []
     with open(read_clustering_path, 'r', newline='', encoding='utf-8') as csvfile:
         csv_reader = csv.reader(csvfile)
