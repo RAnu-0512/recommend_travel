@@ -488,6 +488,8 @@ body {
     margin-left: -60px;
     /* ツールチップを中央揃え */
 
+    z-index: 1500;
+
     /* ツールチップのフェードイン効果 */
     opacity: 0;
     transition: opacity 0.3s;
@@ -524,76 +526,84 @@ body {
     border: 1px solid #ccc;
     /* 枠線 */
     border-radius: 10px;
-    margin-bottom: 2px;
-    padding: 2px;
+    margin-bottom: 3px;
+    padding: 3px;
+    width: 100%;
     transition: background-color 0.3s ease;
+}
+
+.accordion-trigger .aspect-plus-rating {
+    display: flex;
+    align-items: center;
+    /* 上揃え */
+    background-color: rgb(241, 241, 241, 0.0);
+    /* 背景色（オプション） */
+    border: 0 solid #cccccc00;
+    /* 枠線 */
+    border-radius: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+.accordion-content .aspect-plus-rating{
+    width: 95%;
+    margin-left: 1.5%;
 }
 
 .aspect-plus-rating:hover {
     background-color: rgb(211, 211, 211,0.5);
 }
 
-/* 基本のスタイル */
-details.aspect-plus-rating summary {
-    list-style: none; /* デフォルトのディスクを消す */
-    cursor: pointer; /* カーソルをポインターに変更 */
-    display: flex;
+.accordion-trigger .aspect-plus-rating:hover {
+    background-color: rgba(211, 211, 211, 0);
+}
+
+.accordion-trigger{
+    display:flex;
+    cursor: pointer;
+    width: 100%;
     align-items: center;
-    justify-content: space-between;
-}
-
-/* 矢印のスタイル */
-details.aspect-plus-rating summary::after {
-    content: '';
-    display: inline-block;
-    width: 0.6em;
-    height: 0.6em;
-    border-right: 2px solid #928d8d;
-    border-bottom: 2px solid #928d8d;
-    transform: rotate(45deg);
-    transition: transform 0.3s ease;
+    /* 上揃え */
+    background-color: rgb(241, 241, 241, 0.5);
+    /* 背景色（オプション） */
+    border: 1px solid #ccc;
+    /* 枠線 */
+    border-radius: 10px;
+    margin-bottom: 3px;
+    padding: 3px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     transition: background-color 0.3s ease;
-    margin-right: 5px;
-}
-.accordion-content .aspect-plus-rating{
-    margin:5px;
-}
-/* 開いた状態の矢印 */
-details.aspect-plus-rating[open] summary::after {
-    transform: rotate(-135deg);
 }
 
-/* アコーディオンコンテンツのアニメーション */
-details.aspect-plus-rating .accordion-content {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.5s ease;
-}
-
-details.aspect-plus-rating[open] .accordion-content {
-    max-height: 1000px; /* コンテンツの最大高さに合わせて調整 */
-}
-
-/* ホバー時のエフェクト */
-details.aspect-plus-rating summary:hover {
+.accordion-trigger:hover {
     background-color: rgb(211, 211, 211,0.5);
 }
 
-/* フォーカス時のエフェクト（アクセシビリティ向上） */
-/* details.aspect-plus-rating summary:focus {
-    outline: none;
-    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
-} */
-.accordion-content{
-    margin-top:5px;
+.accordion-trigger::after {
+    content: '\002B';
+    font-size: 1.5em;
+    color: #777;
+    transition: transform 0.3s;
 }
-.aspect_content {
-    display: flex;
-    align-items: center;
-    margin-bottom: 2px;
-    padding: 2px;
-    width: 100%;
+
+.accordion-trigger.active{
+    background-color: rgb(215 215 215)
 }
+
+.accordion-trigger.active::after {
+    transform: rotate(45deg);
+}
+
+.accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out;
+    display:block;
+}
+
 
 .buttom-aspect-plus-rating {
     display: none;
@@ -649,6 +659,9 @@ details.aspect-plus-rating summary:hover {
     width: 80%; 
 }
 
+.accordion-trigger .aspect-rating{
+    width:79.7%
+}
 
 .aspect {
     word-wrap: break-word;

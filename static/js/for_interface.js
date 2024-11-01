@@ -219,7 +219,7 @@ function senti2StarsEval(senti_socre) {
                     //      "similar_aspects":{aspect:{"senti_score":float,"count":float}},"score" :float,"selectAspectSim":float, "selectStyleSim":float,"selectSpotSim":float,"popularWight":float,"url":str}
                     data.forEach(async (element, index) => {
                         // 観点を表示する関数を更新
-                        function renderAspects(all_aspects, aspects_label, sortOption, filterOption, similarAspects_label, majorAspects_label, minerAspects_label) {
+                        function renderAspects(all_aspects, aspects_label, sortOption, filterOption, similarAspects,similarAspects_label, majorAspects_label, minerAspects_label) {
                             let aspectsArray = Object.entries(aspects_label);
 
                             // フィルタリングの適用
@@ -250,50 +250,43 @@ function senti2StarsEval(senti_socre) {
                                 .map(([aspect, data]) => {
                                     // `data.aspects` の長さをチェック
                                     const isMultipleAspects = data.aspects.length >= 2;
-                                    // 使用するタグを決定
-                                    const Tag = isMultipleAspects ? 'details' : 'span';
-                                    const ClosingTag = isMultipleAspects ? 'details' : 'span';
+                                    const accordionTriggerTag = isMultipleAspects ? '<span class="accordion-trigger">' : '';
+                                    const accordionTriggerCloseTag = isMultipleAspects ? '</span>' : '';
 
-                                    // 必要に応じて <summary> を追加（<details> を使用する場合）
-                                    const summaryTag = isMultipleAspects
-                                        ? `<summary>`
-                                        : ``;
-                                    const summary_endTag = isMultipleAspects
-                                    ? `</summary>`
-                                    : ``;
                                     const accordionContent = isMultipleAspects
-                                    ?`
-                                    <span class="accordion-content">
-                                        <span class="aspect-plus-rating">
-                                            <span class="aspect_content">
-                                                <span class="aspect">${data.aspects[0].aspect}</span>
-                                                <span class="aspect-rating"> 
-                                                    <span class="rating-num">${senti2StarsEval(0.80)}</span>
-                                                    <span class="star-ratings">
-                                                        <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(0.80)});">
-                                                            ★★★★★
-                                                        </span>
-                                                        <span class="star-ratings-bottom">
-                                                            ★★★★★
-                                                        </span>
+                                        ? `
+                                        <span class="accordion-content">
+                                            ${data.aspects.map(aspectInlabel => `
+                                                <span class="aspect-plus-rating">
+                                                    <span class="aspect">
+                                                        ${highlightSimilarAspects(aspectInlabel.aspect, similarAspects)}
                                                     </span>
-                                                    <span class="count-display-title">
-                                                        言及数: 
-                                                        <span class="count-display"> ${35} </span>
-                                                    </span>
-                                                    <span class="recommend-factors">
-                                                        関連: <span style="font-weight: bold; color: #c14343">景色を楽しむ</span>
+                                                    <span class="aspect-rating"> 
+                                                        <span class="rating-num">${senti2StarsEval(all_aspects[aspectInlabel.aspect].senti_score)}</span>
+                                                        <span class="star-ratings">
+                                                            <span class="star-ratings-top" style="width: calc(20% * ${senti2StarsEval(all_aspects[aspectInlabel.aspect].senti_score)});">
+                                                                ★★★★★
+                                                            </span>
+                                                            <span class="star-ratings-bottom">
+                                                                ★★★★★
+                                                            </span>
+                                                        </span>
+                                                        <span class="count-display-title">
+                                                            言及数: 
+                                                            <span class="count-display"> ${all_aspects[aspectInlabel.aspect].count} </span>
+                                                        </span>
+                                                        <span class="recommend-factors">
+                                                            関連: <span style="font-weight: bold; color: #c14343">${"景色を楽しむ"}</span>
+                                                        </span>
                                                     </span>
                                                 </span>
-                                            </span>
+                                            `).join('')}
                                         </span>
-                                    </span>
-                                    `
-                                    :"";
+                                        `
+                                        : "";
                                     return `
-                                <${Tag} class="aspect-plus-rating">
-                                    ${summaryTag}
-                                    <span class="aspect_content">
+                                ${accordionTriggerTag}  
+                                    <span class="aspect-plus-rating">
                                         <span class="aspect">${highlightSimilarAspects(aspect, similarAspects_label)}</span>
                                         <span class="aspect-rating"> 
                                             <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
@@ -310,35 +303,34 @@ function senti2StarsEval(senti_socre) {
                                                 <span class="count-display"> ${data.count} </span>
                                             </span>
                                             <span class="recommend-factors">
-                                                ${(() => {
-                                                const factors = data.aspects
-                                                    .filter(aspectObj =>
-                                                        aspectObj.display === 'on' &&
-                                                        all_aspects[aspectObj.aspect] &&
-                                                        all_aspects[aspectObj.aspect].recommendFactors
-                                                    )
-                                                    .flatMap(aspectObj => all_aspects[aspectObj.aspect].recommendFactors);
+                                                            ${(() => {
+                                            const factors = data.aspects
+                                                .filter(aspectObj =>
+                                                    aspectObj.display === 'on' &&
+                                                    all_aspects[aspectObj.aspect] &&
+                                                    all_aspects[aspectObj.aspect].recommendFactors
+                                                )
+                                                .flatMap(aspectObj => all_aspects[aspectObj.aspect].recommendFactors);
 
-                                                // 重複を排除
-                                                const uniqueFactors = [...new Set(factors)];
+                                            // 重複を排除
+                                            const uniqueFactors = [...new Set(factors)];
 
-                                                // uniqueFactors が存在する場合にのみ表示
-                                                return uniqueFactors.length > 0
-                                                    ? `関連: <span style="font-weight: bold; color: #c14343">${uniqueFactors.join(', ')}</span>`
-                                                    : '';
-                                            })()
-                                            }
+                                            // uniqueFactors が存在する場合にのみ表示
+                                            return uniqueFactors.length > 0
+                                                ? `関連: <span style="font-weight: bold; color: #c14343">${uniqueFactors.join(', ')}</span>`
+                                                : '';
+                                        })()
+                                        }
                                             </span>
                                         </span>
                                     </span>
-                                    ${summary_endTag}
-                                    ${(()=>{
-                                        return isMultipleAspects
-                                        ? accordionContent
-                                        : ``;
+                                ${accordionTriggerCloseTag}  
+                                ${(() => {
+                                            return isMultipleAspects
+                                                ? accordionContent
+                                                : ``;
 
-                                    })()}
-                                </${ClosingTag}>
+                                        })()}
                             `;
                                 })
                                 .join("");
@@ -462,10 +454,31 @@ function senti2StarsEval(senti_socre) {
                                     </div>
                                 </div>
                                 <div id="aspects-container">
-                                    ${renderAspects(aspects, aspects_label, "count_high", "all", similarAspects_label, majorAspects_label, minerAspects_label)}
+                                    ${renderAspects(aspects, aspects_label, "count_high", "all",similarAspects ,similarAspects_label, majorAspects_label, minerAspects_label)}
                                 </div>
                             `;
+                                function accordionOpenClose() {
+                                    // スポット詳細modal内の、観点アコーディオンメニュー
+                                    var acc = document.getElementsByClassName("accordion-trigger");
+                                    var i;
 
+                                    // 各アコーディオンボタンにクリックイベントを追加
+                                    for (i = 0; i < acc.length; i++) {
+                                        acc[i].addEventListener("click", function () {
+                                            // 「active」クラスの切り替え
+                                            this.classList.toggle("active");
+
+                                            // 次の兄弟要素（.panel）の表示を切り替え
+                                            var panel = this.nextElementSibling;
+                                            if (panel.style.maxHeight) {
+                                                panel.style.maxHeight = null;
+                                            } else {
+                                                panel.style.maxHeight = panel.scrollHeight + 100 + "px";
+                                            }
+                                        });
+                                    }
+                                }
+                                accordionOpenClose();
                                 // モーダルを表示
                                 modal.style.display = "block";
 
@@ -479,7 +492,8 @@ function senti2StarsEval(senti_socre) {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
                                     console.log("選択された並べ替え方法:", selectedSort);
-                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects_label, majorAspects_label, minerAspects_label);
+                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects,similarAspects_label, majorAspects_label, minerAspects_label);
+                                    accordionOpenClose();
                                 });
 
                                 // フィルタリングイベントリスナー
@@ -487,7 +501,8 @@ function senti2StarsEval(senti_socre) {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
                                     console.log("選択された観点フィルタ:", selectedFilter);
-                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects_label, majorAspects_label, minerAspects_label);
+                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects,similarAspects_label, majorAspects_label, minerAspects_label);
+                                    accordionOpenClose();
                                 });
                             });
 
@@ -1668,8 +1683,4 @@ document.addEventListener('DOMContentLoaded', function () {
         });
     });
 });
-
-
-
-
 
