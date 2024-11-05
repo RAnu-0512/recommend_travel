@@ -70,7 +70,7 @@
                     推薦対象スポットの範囲を制限できます。観光予定の中心地からの半径が、設定範囲以内のスポットが推薦されます。
                 </div>
             </div>
-            
+
 
             <input type="range" name="distance_bar" id="distance_bar" min="1" max="150" step="1" value="100">
         </div>
@@ -196,7 +196,8 @@
                         </div>
                         <div id="spotinfo_modal_random" class="select-spotinfo-modal">
                             <div class="select-spotinfo-modal-content">
-                                <span id = "close_button_spotinfo_random" class="select-spot-modal-close-button">&times;</span>
+                                <span id="close_button_spotinfo_random"
+                                    class="select-spot-modal-close-button">&times;</span>
                                 <div id="spot_modal_content_random"></div>
                             </div>
                         </div>
@@ -237,7 +238,8 @@
                         </div>
                         <div id="spotinfo_modal_search" class="select-spotinfo-modal">
                             <div class="select-spotinfo-modal-content">
-                                <span id = "close_button_spotinfo_search" class="select-spot-modal-close-button">&times;</span>
+                                <span id="close_button_spotinfo_search"
+                                    class="select-spot-modal-close-button">&times;</span>
                                 <div id="spot_modal_content_search"></div>
                             </div>
                         </div>
@@ -264,7 +266,7 @@
                 <span data-value="7">全て</span>
                 <span data-value="14">人気</span>
             </div>
-            
+
         </div>
 
 
@@ -274,6 +276,24 @@
     <div class="fixed-button-container">
         <input type="button" class="resetButton" name="resetButton" id="resetButton" value="再読み込み">
     </div>
+    <!-- レビューモーダル -->
+    <div class="review-modal">
+        <div class="review-modal-content">
+            <h2 class="review-modal-header">
+                <span class="review-modal-title">
+                    関連するレビュー
+                </span>
+                <span class="review-modal-close">&times;</span>
+            </h2>
+            <ul class="review-list">
+                <!-- レビューリストがここに追加されます -->
+            </ul>
+            <button class="different-review-btn button">違うレビューを見る</button>
+        </div>
+    </div>
+
+
+
     <div id="selected_pref"> {{pref}} </div>
     <script src="{{ url_for('static',filename = 'js/get_keywords.js') }}"></script>
     <script src="{{ url_for('static',filename = 'js/add_aspects.js') }}"></script>

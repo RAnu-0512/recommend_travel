@@ -99,7 +99,7 @@ function highlightSimilarAspects(aspect, similarAspects_label) {
             </span>
         `;
     } else {
-        return `<span class="aspect">${aspect}</span>`;
+        return `${aspect}`;
     }
 }
 
@@ -133,6 +133,7 @@ function senti2StarsEval(senti_socre) {
     return stars.toFixed(1);
 }
 
+//アコーディオンメニューが開くとき閉じるときのmaxheightを調節
 function accordionOpenClose() {
     // スポット詳細modal内の、観点アコーディオンメニュー
     var acc = document.getElementsByClassName("accordion-trigger");
@@ -154,6 +155,129 @@ function accordionOpenClose() {
         });
     }
 }
+
+// 関数: モーダルを閉じる
+function closeReviewModal() {
+    const reviewModal = document.querySelector(".review-modal");
+    const reviewList = reviewModal.querySelector(".review-list");
+    const reviewModalTitle = reviewModal.querySelector(".review-modal-title");
+
+    reviewModal.style.display = "none";
+    // レビューリストとタイトルをリセット（必要に応じて）
+    reviewList.innerHTML = "";
+    reviewModalTitle.textContent = "関連するレビュー";
+}
+
+
+// 関数: レビューアイコンがクリックされたときの処理
+function reviewIconClicked(event) {
+    // クリックされたアイコンを取得
+    const icon = event.currentTarget;
+    const prefecture = icon.getAttribute("data-prefecture");
+    const spotname = icon.getAttribute("data-spotname");
+    const aspect = icon.getAttribute("data-aspect");
+    console.log("レビューアイコンが押されました");
+
+    // モーダルとその関連要素を取得
+    const reviewModal = document.querySelector(".review-modal");
+    const reviewList = reviewModal.querySelector(".review-list");
+    const reviewModalCloseBtn = reviewModal.querySelector(".review-modal-close");
+    const reviewModalTitle = reviewModal.querySelector(".review-modal-title");
+    const differentReviewBtn = reviewModal.querySelector(".different-review-btn");
+
+    // 現在の選択情報を更新
+    const currentSelection = { prefecture, spotname, aspect };
+
+    // モーダルタイトルを更新
+    reviewModalTitle.textContent = `「${aspect}」に関連したレビュー`;
+    // レビューを取得して表示
+    fetchAndDisplayReviews(currentSelection);
+
+
+    // 関数: 「違うレビューを見る」ボタンがクリックされたときの処理
+    function differentReviewClicked(currentSelection) {
+        console.log("「違うレビューを見る」ボタンが押されました");
+        fetchAndDisplayReviews(currentSelection);
+    }
+
+    // イベントリスナー: モーダルの閉じるボタン
+    reviewModalCloseBtn.addEventListener("click", closeReviewModal);
+
+    // イベントリスナー: モーダルの外側をクリックしたときにモーダルを閉じる
+    window.addEventListener("click", function (event) {
+        if (event.target == reviewModal) {
+            closeReviewModal();
+        }
+    });
+    // イベントリスナー: 「違うレビューを見る」ボタン
+    differentReviewBtn.addEventListener("click", () => differentReviewClicked(currentSelection));
+}
+
+// 関数: レビューを取得して表示する
+function fetchAndDisplayReviews(currentSelection) {
+    const { prefecture, spotname, aspect } = currentSelection;
+    const reviewModal = document.querySelector(".review-modal");
+    const reviewList = reviewModal.querySelector(".review-list");
+    // フェッチリクエストを送信
+    fetch("/get_random_reviews", {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+            prefecture: prefecture,
+            spot_name: spotname,
+            aspect: aspect
+        })
+    })
+        .then((res) => {
+            if (!res.ok) {
+                throw new Error("レビューの取得に失敗しました。");
+            }
+            return res.json();
+        })
+        .then(data => {
+            console.log(data);
+            // レビューリストをクリア
+            reviewList.innerHTML = "";
+
+            // レビューが配列であり、要素が存在する場合
+            if (Array.isArray(data) && data.length > 0) {
+                data.forEach(item => {
+                    const li = document.createElement("li");
+
+                    // 'entity' に一致する部分を強調表示
+                    // 正規表現を使用して全ての一致を強調
+                    const regex = new RegExp(item.entity, 'g');
+                    // テンプレートリテラルを使用してHTMLタグを有効化
+                    const highlightedReview = item.review.replace(regex, `<span class="highlight-entity">${item.entity}</span>`);
+
+                    li.innerHTML = highlightedReview;
+                    reviewList.appendChild(li);
+                });
+            } else {
+                // レビューが存在しない場合のメッセージ
+                const li = document.createElement("li");
+                li.textContent = "レビューがありません。";
+                reviewList.appendChild(li);
+            }
+
+            // モーダルを表示
+            reviewModal.style.display = "block";
+        })
+        .catch(error => {
+            console.error('レビュー取得エラー:', error);
+            // エラーメッセージをモーダルに表示
+            reviewList.innerHTML = "";
+            const li = document.createElement("li");
+            li.textContent = "レビューの取得に失敗しました。";
+            reviewList.appendChild(li);
+
+            // モーダルを表示
+            reviewModal.style.display = "block";
+        });
+}
+
 
 (async () => {
     try {
@@ -239,7 +363,7 @@ function accordionOpenClose() {
                     //      "similar_aspects":{aspect:{"senti_score":float,"count":float}},"score" :float,"selectAspectSim":float, "selectStyleSim":float,"selectSpotSim":float,"popularWight":float,"url":str}
                     data.forEach(async (element, index) => {
                         // 観点を表示する関数を更新
-                        function renderAspects(all_aspects, aspects_label, sortOption, filterOption, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label) {
+                        function renderAspects(all_aspects, aspects_label, sortOption, filterOption, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label, prefecture, spot_name) {
                             let aspectsArray = Object.entries(aspects_label);
 
                             // フィルタリングの適用
@@ -270,7 +394,7 @@ function accordionOpenClose() {
                                 .map(([aspect, data]) => {
                                     // `data.aspects` の長さをチェック
                                     const isMultipleAspects = data.aspects.length >= 2;
-                                    const accordionTriggerTag = isMultipleAspects ?'<span class="accordion-trigger">' : '';
+                                    const accordionTriggerTag = isMultipleAspects ? '<span class="accordion-trigger">' : '';
                                     const accordionTriggerCloseTag = isMultipleAspects ? '</span>' : '';
 
                                     const accordionContent = isMultipleAspects
@@ -278,13 +402,18 @@ function accordionOpenClose() {
                                         <span class="accordion-content">
                                             ${data.aspects.map(aspectInlabel => `
                                                 ${(() => {
-                                                    isDisplayOn = aspectInlabel.display == "on";
-                                                    return isDisplayOn
-                                                    ?'<span class="aspect-plus-rating">'
-                                                    :'<span class="aspect-plus-rating display-off">';
-                                                })()}
+                                                isDisplayOn = aspectInlabel.display == "on";
+                                                return isDisplayOn
+                                                    ? '<span class="aspect-plus-rating">'
+                                                    : '<span class="aspect-plus-rating display-off">';
+                                            })()}
                                                     <span class="aspect">
                                                         ${highlightSimilarAspects(aspectInlabel.aspect, similarAspects)}
+                                                        <img src="static/images/reviews_icon.png" alt="レビューを見る" 
+                                                        class="reviewIcon"
+                                                        data-prefecture = "${prefecture}"
+                                                        data-spotname = "${spot_name}"
+                                                        data-aspect = "${aspectInlabel.aspect}"></img>
                                                     </span>
                                                     <span class="aspect-rating"> 
                                                         <span class="rating-num">${senti2StarsEval(all_aspects[aspectInlabel.aspect].senti_score)}</span>
@@ -302,17 +431,17 @@ function accordionOpenClose() {
                                                         </span>
                                                         <span class="recommend-factors">
                                                             ${(() => {
-                                                                const recommendFactors = all_aspects[aspectInlabel.aspect].recommendFactors;
+                                                const recommendFactors = all_aspects[aspectInlabel.aspect].recommendFactors;
 
-                                                                return `
+                                                return `
                                                                         <span class="recommend-factors">
                                                                             ${recommendFactors && recommendFactors.length > 0
-                                                                            ? `関連: <span style="font-weight: bold; color: #c14343">${recommendFactors.join(",")}</span>`
-                                                                            : ""}
+                                                        ? `関連: <span style="font-weight: bold; color: #c14343">${recommendFactors.join(",")}</span>`
+                                                        : ""}
                                                                         </span>
                                                                         `;
-                                                                })()
-                                                            }
+                                            })()
+                                            }
                                                         </span>
                                                     </span>
                                                 </span>
@@ -323,7 +452,19 @@ function accordionOpenClose() {
                                     return `
                                 ${accordionTriggerTag}  
                                     <span class="aspect-plus-rating">
-                                        <span class="aspect">${highlightSimilarAspects(aspect, similarAspects_label)}</span>
+                                        <span class="aspect">
+                                            ${highlightSimilarAspects(aspect, similarAspects_label)}
+                                            ${(() => {
+                                            return !isMultipleAspects
+                                                ? `<img src="static/images/reviews_icon.png" alt="レビューを見る" 
+                                                        class="reviewIcon"
+                                                        data-prefecture = "${prefecture}"
+                                                        data-spotname = "${spot_name}"
+                                                        data-aspect = "${aspect}"></img>`
+                                                : ""
+                                        })()
+                                        }
+                                        </span>
                                         <span class="aspect-rating"> 
                                             <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
                                             <span class="star-ratings">
@@ -489,11 +630,15 @@ function accordionOpenClose() {
                                     </div>
                                 </div>
                                 <div id="aspects-container">
-                                    ${renderAspects(aspects, aspects_label, "count_high", "all", similarAspects, similarAspects_label, majorAspects_label, minerAspects_label)}
+                                    ${renderAspects(aspects, aspects_label, "count_high", "all", similarAspects, similarAspects_label, majorAspects_label, minerAspects_label, prefecture, replaced_spot_name)}
                                 </div>
                             `;
-                            
                                 accordionOpenClose();
+                                const reviewIcons = document.querySelectorAll(".reviewIcon");
+                                // 各アイコンにクリックイベントリスナーを追加
+                                reviewIcons.forEach(function (icon) {
+                                    icon.addEventListener("click", reviewIconClicked);
+                                });
                                 // モーダルを表示
                                 modal.style.display = "block";
 
@@ -507,8 +652,13 @@ function accordionOpenClose() {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
                                     console.log("選択された並べ替え方法:", selectedSort);
-                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label);
+                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label, prefecture, replaced_spot_name);
                                     accordionOpenClose();
+                                    const reviewIcons = document.querySelectorAll(".reviewIcon");
+                                    // 各アイコンにクリックイベントリスナーを追加
+                                    reviewIcons.forEach(function (icon) {
+                                        icon.addEventListener("click", reviewIconClicked);
+                                    });
                                 });
 
                                 // フィルタリングイベントリスナー
@@ -516,8 +666,13 @@ function accordionOpenClose() {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
                                     console.log("選択された観点フィルタ:", selectedFilter);
-                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label);
+                                    aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label, prefecture, replaced_spot_name);
                                     accordionOpenClose();
+                                    const reviewIcons = document.querySelectorAll(".reviewIcon");
+                                    // 各アイコンにクリックイベントリスナーを追加
+                                    reviewIcons.forEach(function (icon) {
+                                        icon.addEventListener("click", reviewIconClicked);
+                                    });
                                 });
                             });
 
@@ -902,6 +1057,7 @@ const spot_modal_closeButton = document.querySelector(".spot-modal-close-button"
 spot_modal_closeButton.addEventListener("click", () => {
     const modal = document.getElementById("spotinfo_modal");
     modal.style.display = "none";
+    closeReviewModal();
 });
 
 // モーダル外をクリックしたら閉じる
@@ -909,6 +1065,7 @@ window.addEventListener("click", (event) => {
     const modal = document.getElementById("spotinfo_modal");
     if (event.target === modal) {
         modal.style.display = "none";
+        closeReviewModal();
     }
 });
 
@@ -1013,7 +1170,7 @@ async function fetchAndDisplayRandomSpot() {
             // クリックイベントを追加
             spotNameElement.style.cursor = "pointer"; // カーソルをポインターに変更
             spotNameElement.addEventListener("click", () => {
-                showSpotDetails(spot, photoUrl, noImageUrl, "random");
+                showSpotDetails(spot, photoUrl, noImageUrl, "random", prefecture);
             });
             const spotNameElementTooltip = document.createElement("span");
             spotNameElementTooltip.className = "tooltip";
@@ -1084,7 +1241,7 @@ async function fetchAndDisplayRandomSpot() {
 }
 
 // スポットの詳細情報を表示する関数
-function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
+function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
     const spotName = spot.spot_name;
     const spot_url = spot.spot_url;
     const spot_aspects = spot.aspects;
@@ -1110,10 +1267,15 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
         </div>
     </div>
     <div id="aspects-container-${modal_type}Spot">
-        ${renderAspects_light(spot_aspects, spot_aspects_label,"count_high")}
+        ${renderAspects_light(spot_aspects, spot_aspects_label, "count_high", prefecture, spotName)}
     </div>
     `;
     accordionOpenClose();
+    const reviewIcons = document.querySelectorAll(".reviewIcon");
+    // 各アイコンにクリックイベントリスナーを追加
+    reviewIcons.forEach(function (icon) {
+        icon.addEventListener("click", reviewIconClicked);
+    });
     // プルダウンのイベントリスナーを設定
     const sortSelect = document.getElementById(`sort-select-${modal_type}Spot`);
     const aspectsContainer = document.getElementById(`aspects-container-${modal_type}Spot`);
@@ -1122,8 +1284,13 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
     sortSelect.addEventListener("change", () => {
         const selectedSort = sortSelect.value;
         console.log("選択された並べ替え方法:", selectedSort);
-        aspectsContainer.innerHTML = renderAspects_light(spot_aspects,spot_aspects_label,selectedSort);
+        aspectsContainer.innerHTML = renderAspects_light(spot_aspects, spot_aspects_label, selectedSort, prefecture, spotName);
         accordionOpenClose();
+        const reviewIcons = document.querySelectorAll(".reviewIcon");
+        // 各アイコンにクリックイベントリスナーを追加
+        reviewIcons.forEach(function (icon) {
+            icon.addEventListener("click", reviewIconClicked);
+        });
     });
 
 
@@ -1133,7 +1300,7 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
 
 
 
-    function renderAspects_light(all_aspects, aspects_label, sortOption) {
+    function renderAspects_light(all_aspects, aspects_label, sortOption, prefecture, spot_name) {
         let aspectsArray = Object.entries(aspects_label);
         // ソートの適用
         aspectsArray.sort((a, b) => {
@@ -1165,6 +1332,11 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
                         <span class="aspect-plus-rating">
                             <span class="aspect">
                                 ${aspectInlabel.aspect}
+                                <img src="static/images/reviews_icon.png" alt="レビューを見る" 
+                                class="reviewIcon"
+                                data-prefecture = "${prefecture}"
+                                data-spotname = "${spot_name}"
+                                data-aspect = "${aspectInlabel.aspect}"></img>
                             </span>
                             <span class="aspect-rating"> 
                                 <span class="rating-num">${senti2StarsEval(all_aspects[aspectInlabel.aspect].senti_score)}</span>
@@ -1189,7 +1361,19 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
                 return `
         ${accordionTriggerTag}  
             <span class="aspect-plus-rating">
-                <span class="aspect">${aspect}</span>
+                <span class="aspect">
+                    ${aspect}
+                    ${(() => {
+                        return !isMultipleAspects
+                            ? `<img src="static/images/reviews_icon.png" alt="レビューを見る" 
+                                class="reviewIcon"
+                                data-prefecture = "${prefecture}"
+                                data-spotname = "${spot_name}"
+                                data-aspect = "${aspect}"></img>`
+                            : ""
+                    })()
+                    }
+                </span>
                 <span class="aspect-rating"> 
                     <span class="rating-num">${senti2StarsEval(data.senti_score)}</span>
                     <span class="star-ratings">
@@ -1224,6 +1408,7 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type) {
 function closeRandomSpotModal() {
     const randomSpotModal = document.getElementById("spotinfo_modal_random");
     randomSpotModal.style.display = "none";
+    closeReviewModal();
 }
 
 // 閉じるボタンにイベントリスナーを追加
@@ -1235,6 +1420,7 @@ window.addEventListener("click", (event) => {
     const randomSpotModal = document.getElementById("spotinfo_modal_random");
     if (event.target == randomSpotModal) {
         closeRandomSpotModal();
+        closeReviewModal();
     }
 });
 
@@ -1480,7 +1666,7 @@ async function performSearch_modal3(query, pref) {
             // クリックイベントを追加
             spotNameElement.style.cursor = "pointer"; // カーソルをポインターに変更
             spotNameElement.addEventListener("click", () => {
-                showSpotDetails(spot, photoUrl, noImageUrl, "search");
+                showSpotDetails(spot, photoUrl, noImageUrl, "search", prefecture);
             });
             const spotNameElementTooltip = document.createElement("span");
             spotNameElementTooltip.className = "tooltip";
@@ -1554,6 +1740,7 @@ async function performSearch_modal3(query, pref) {
 function closeSearchSpotModal() {
     const searchSpotModal = document.getElementById("spotinfo_modal_search");
     searchSpotModal.style.display = "none";
+    closeReviewModal();
 }
 
 // 閉じるボタンにイベントリスナーを追加
@@ -1565,6 +1752,7 @@ window.addEventListener("click", (event) => {
     const searchSpotModal = document.getElementById("spotinfo_modal_search");
     if (event.target == searchSpotModal) {
         closeSearchSpotModal();
+        closeReviewModal();
     }
 });
 
@@ -1743,3 +1931,63 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 });
 
+
+
+
+//----------------------レビューモーダルを動かせるようにする
+document.addEventListener('DOMContentLoaded', function() {
+    const modal = document.querySelector('.review-modal');
+    const header = document.querySelector('.review-modal-header');
+
+    let isDragging = false;
+    let offsetX = 0;
+    let offsetY = 0;
+
+    // マウスボタンが押されたとき
+    header.addEventListener('mousedown', function(e) {
+        isDragging = true;
+        const rect = modal.getBoundingClientRect();
+        offsetX = e.clientX - rect.left;
+        offsetY = e.clientY - rect.top;
+
+        // ドラッグ開始時に `right` プロパティをリセットし、`left` を設定
+        modal.style.right = 'auto';
+        modal.style.left = rect.left + 'px';
+        modal.style.top = rect.top + 'px';
+
+        // マウス移動とマウスボタンが離されたときのイベントリスナーを追加
+        document.addEventListener('mousemove', onMouseMove);
+        document.addEventListener('mouseup', onMouseUp);
+
+        // テキスト選択を防止
+        e.preventDefault();
+    });
+
+    // マウスが移動したときの処理
+    function onMouseMove(e) {
+        if (isDragging) {
+            let left = e.clientX - offsetX;
+            let top = e.clientY - offsetY;
+
+            // ビューポート内に収まるように制限
+            const modalWidth = modal.offsetWidth;
+            const modalHeight = modal.offsetHeight;
+            const windowWidth = window.innerWidth;
+            const windowHeight = window.innerHeight;
+
+            left = Math.max(0, Math.min(left, windowWidth - modalWidth));
+            top = Math.max(0, Math.min(top, windowHeight - modalHeight));
+
+            modal.style.position = 'fixed';
+            modal.style.left = left + 'px';
+            modal.style.top = top + 'px';
+        }
+    }
+
+    // マウスボタンが離されたときの処理
+    function onMouseUp() {
+        isDragging = false;
+        document.removeEventListener('mousemove', onMouseMove);
+        document.removeEventListener('mouseup', onMouseUp);
+    }
+});

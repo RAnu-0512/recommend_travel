@@ -504,7 +504,7 @@ body {
     left: -7%;
     border-width: 5px;
     border-style: solid;
-    border-color:  transparent #797979 transparent transparent;
+    border-color: transparent #797979 transparent transparent;
 }
 
 
@@ -532,7 +532,8 @@ body {
 }
 
 .display-off {
-    opacity: 0.3; /* 透明度を60%に設定 */
+    opacity: 0.3;
+    /* 透明度を60%に設定 */
 }
 
 .accordion-trigger .aspect-plus-rating {
@@ -550,21 +551,21 @@ body {
     transition: background-color 0.3s ease;
 }
 
-.accordion-content .aspect-plus-rating{
+.accordion-content .aspect-plus-rating {
     width: 95%;
     margin-left: 1.5%;
 }
 
 .aspect-plus-rating:hover {
-    background-color: rgb(211, 211, 211,0.5);
+    background-color: rgb(211, 211, 211, 0.5);
 }
 
 .accordion-trigger .aspect-plus-rating:hover {
     background-color: rgba(211, 211, 211, 0);
 }
 
-.accordion-trigger{
-    display:flex;
+.accordion-trigger {
+    display: flex;
     cursor: pointer;
     width: 100%;
     align-items: center;
@@ -582,7 +583,7 @@ body {
 }
 
 .accordion-trigger:hover {
-    background-color: rgb(211, 211, 211,0.5);
+    background-color: rgb(211, 211, 211, 0.5);
 }
 
 .accordion-trigger::after {
@@ -592,7 +593,7 @@ body {
     transition: transform 0.3s;
 }
 
-.accordion-trigger.active{
+.accordion-trigger.active {
     background-color: rgb(215 215 215)
 }
 
@@ -604,7 +605,7 @@ body {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.3s ease-out;
-    display:block;
+    display: block;
 }
 
 
@@ -621,7 +622,7 @@ body {
     padding: 2px;
 }
 
-.recommend-factors{
+.recommend-factors {
     margin-left: 20px;
     width: 50%;
 }
@@ -652,18 +653,32 @@ body {
     padding: 2px;
 }
 
+.reviewIcon {
+    width: 18px;
+    height: auto;
+    cursor: pointer;
+    margin-left: 2px;
+    transition: transform 0.3s;
+    /* ホバー時のアニメーション */
+}
 
+.reviewIcon:hover {
+    transform: scale(1.1);
+    /* ホバー時にアイコンを拡大 */
+}
 
-.aspect-plus-rating .aspect{
+.aspect-plus-rating .aspect {
     width: 20%;
+    align-items: center;
+    display: flex;
 }
 
-.aspect-plus-rating .aspect-rating{
-    width: 80%; 
+.aspect-plus-rating .aspect-rating {
+    width: 80%;
 }
 
-.accordion-trigger .aspect-rating{
-    width:79.7%
+.accordion-trigger .aspect-rating {
+    width: 79.7%
 }
 
 .aspect {
@@ -710,25 +725,34 @@ body {
 }
 
 #head-selected_results {
-    position: relative; /* ツールチップの位置基準にするために相対位置を設定 */
-    align-items: center; /* 垂直方向に中央揃え */
+    position: relative;
+    /* ツールチップの位置基準にするために相対位置を設定 */
+    align-items: center;
+    /* 垂直方向に中央揃え */
     height: 25px;
     font-weight: bold;
     text-align: center;
 }
 
 .question-tooltip {
-    display: inline-flex; /* フレックスボックスに変更 */
-    justify-content: center; /* 水平方向に中央揃え */
-    align-items: center;     /* 垂直方向に中央揃え */
+    display: inline-flex;
+    /* フレックスボックスに変更 */
+    justify-content: center;
+    /* 水平方向に中央揃え */
+    align-items: center;
+    /* 垂直方向に中央揃え */
     width: 1.2em;
     height: 1.2em;
     background: gray;
-    border-radius: 50%; /* 完全な円形にする */
-    color: white; /* テキストの色を白に */
-    margin-left: -4px; /* テキストとの間隔を調整 */
+    border-radius: 50%;
+    /* 完全な円形にする */
+    color: white;
+    /* テキストの色を白に */
+    margin-left: -4px;
+    /* テキストとの間隔を調整 */
     cursor: pointer;
-    position: relative; /* ツールチップの位置基準にする */
+    position: relative;
+    /* ツールチップの位置基準にする */
 }
 
 .question-tooltip-content {
@@ -760,8 +784,9 @@ body {
     border-color: transparent #333333db transparent transparent;
 }
 
-.question-tooltip.active + .question-tooltip-content {
-    display: block; /* クラスが追加されたら表示 */
+.question-tooltip.active+.question-tooltip-content {
+    display: block;
+    /* クラスが追加されたら表示 */
 }
 
 
@@ -770,17 +795,24 @@ body {
 
 
 .distance-question-tooltip {
-    display: inline-flex; /* フレックスボックスに変更 */
-    justify-content: center; /* 水平方向に中央揃え */
-    align-items: center;     /* 垂直方向に中央揃え */
+    display: inline-flex;
+    /* フレックスボックスに変更 */
+    justify-content: center;
+    /* 水平方向に中央揃え */
+    align-items: center;
+    /* 垂直方向に中央揃え */
     width: 1.2em;
     height: 1.2em;
     background: gray;
-    border-radius: 50%; /* 完全な円形にする */
-    color: white; /* テキストの色を白に */
-    margin-left: -4px; /* テキストとの間隔を調整 */
+    border-radius: 50%;
+    /* 完全な円形にする */
+    color: white;
+    /* テキストの色を白に */
+    margin-left: -4px;
+    /* テキストとの間隔を調整 */
     cursor: pointer;
-    position: relative; /* ツールチップの位置基準にする */
+    position: relative;
+    /* ツールチップの位置基準にする */
     font-weight: bold;
 }
 
@@ -814,8 +846,9 @@ body {
     border-color: transparent #333333db transparent transparent;
 }
 
-.distance-question-tooltip.active + .distance-question-tooltip-content {
-    display: block; /* クラスが追加されたら表示 */
+.distance-question-tooltip.active+.distance-question-tooltip-content {
+    display: block;
+    /* クラスが追加されたら表示 */
 }
 
 
@@ -1253,23 +1286,37 @@ body {
 
 /* ツールチップの基本スタイル */
 .spotname-in-card .tooltip {
-    visibility: hidden; /* デフォルトでは非表示 */
-    width: 116px; /* 必要に応じて調整 */
-    background-color: #797979; /* 背景色 */
-    color: #fff; /* テキスト色 */
-    text-align: center; /* テキスト中央揃え */
-    border-radius: 6px; /* 角丸 */
-    padding: 5px 0; /* パディング */
+    visibility: hidden;
+    /* デフォルトでは非表示 */
+    width: 116px;
+    /* 必要に応じて調整 */
+    background-color: #797979;
+    /* 背景色 */
+    color: #fff;
+    /* テキスト色 */
+    text-align: center;
+    /* テキスト中央揃え */
+    border-radius: 6px;
+    /* 角丸 */
+    padding: 5px 0;
+    /* パディング */
     font-size: 14px;
-    position: absolute; /* 親要素を基準に絶対配置 */
-    top: -70px; /* 親要素の下に配置 */
-    left: 50%; /* 親要素の中央に配置 */
-    transform: translateX(-50%) translateY(10px); /* 水平中央揃えと下方向に少しオフセット */
-    
-    opacity: 0; /* デフォルトは透明 */
-    transition: opacity 0.3s ease, transform 0.3s ease; /* スムーズな表示/非表示 */
-    
-    z-index: 10; /* 他の要素より前面に表示 */
+    position: absolute;
+    /* 親要素を基準に絶対配置 */
+    top: -70px;
+    /* 親要素の下に配置 */
+    left: 50%;
+    /* 親要素の中央に配置 */
+    transform: translateX(-50%) translateY(10px);
+    /* 水平中央揃えと下方向に少しオフセット */
+
+    opacity: 0;
+    /* デフォルトは透明 */
+    transition: opacity 0.3s ease, transform 0.3s ease;
+    /* スムーズな表示/非表示 */
+
+    z-index: 10;
+    /* 他の要素より前面に表示 */
 }
 
 /* ツールチップの矢印 */
@@ -1294,7 +1341,7 @@ body {
 }
 
 
-.spot-card-prefecture{
+.spot-card-prefecture {
     position: relative;
     font-size: 14px;
     margin-top: auto;
@@ -1302,7 +1349,7 @@ body {
     color: #555;
 }
 
-.spot-card-aspect{
+.spot-card-aspect {
     font-weight: bold;
     color: rgb(68 62 62);
 }
@@ -1575,11 +1622,12 @@ body {
     /* 任意のパディング */
 }
 
-#modal-controls-randomSpot{
-    padding:5px
+#modal-controls-randomSpot {
+    padding: 5px
 }
-#modal-controls-searchSpot{
-    padding:5px
+
+#modal-controls-searchSpot {
+    padding: 5px
 }
 
 /* 各コントロールグループのスタイル */
@@ -1896,7 +1944,7 @@ body {
 #slider_container input[type=range] {
     width: 95%;
     -webkit-appearance: none;
-    appearance: none;         
+    appearance: none;
     background: transparent;
     margin-left: 2.5%;
     margin-right: 2.5%;
@@ -1907,11 +1955,12 @@ body {
     height: 9px;
     background: #dfdfdf;
     border-radius: 4px;
-    border: 1px solid #969494; /* border-color を含む */
+    border: 1px solid #969494;
+    /* border-color を含む */
     transition: backgrrgb(155, 155, 155) 0.3s;
     cursor: pointer;
 }
- 
+
 /* スライダーの動かす点 */
 #slider_container input[type=range]::-webkit-slider-thumb {
     -webkit-appearance: none;
@@ -1930,7 +1979,7 @@ body {
 }
 
 
-.recoomend_spots_labels{
+.recoomend_spots_labels {
     display: flex;
     position: relative;
     width: 95%;
@@ -2026,4 +2075,83 @@ body {
 .select-spot-modal-close-button:focus {
     color: black;
     text-decoration: none;
+}
+
+
+
+/* --------------レビューのモーダル */
+/* レビューモーダルのスタイル */ 
+.review-modal {
+    display: none; /* モーダルを初期非表示に設定 */
+    position: fixed;
+    z-index: 1000;
+    left: 65%; /* 中央に配置 */
+    top: 100px;
+    height: 70%;
+}
+
+
+
+.review-modal-content {
+    background-color: #fff;
+    padding: 0; /* パディングをリセット */
+    border: 1px solid #888;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    height: 100%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden; /* 内部のスクロールを管理 */
+}
+
+/* モーダルヘッダーのスタイル */
+.review-modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 5px;
+    background-color: #fff;
+    border-bottom: 1px solid #ddd;
+    position: sticky;
+    z-index: 1000;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: move;
+}
+
+/* タイトルのスタイル */
+.review-modal-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* 閉じるボタンのスタイル */
+.review-modal-close {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #aaa;
+    cursor: pointer;
+}
+
+.review-modal-close:hover,
+.review-modal-close:focus {
+    color: black;
+    text-decoration: none;
+}
+
+/* レビューモーダルコンテンツのスクロール可能部分 */
+.review-modal-content .review-list {
+    list-style-type: disc;
+    padding: 5px 20px;
+    margin-left: 10px;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.highlight-entity {
+    font-weight: bold;
+    color: #FF5722; /* オレンジ色に設定（必要に応じて変更可能） */
 }
