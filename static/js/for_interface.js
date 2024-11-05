@@ -1,4 +1,7 @@
 
+// グローバル変数として現在の選択情報を保持
+let currentSelection = null;
+
 const fix_distance_button = document.getElementById('fix_distance');
 const fix_aspect_button = document.getElementById('fix_aspect');
 
@@ -179,28 +182,20 @@ function reviewIconClicked(event) {
     const spotname = icon.getAttribute("data-spotname");
     const aspect = icon.getAttribute("data-aspect");
     console.log("レビューアイコンが押されました");
+    console.log(prefecture, spotname, aspect, "です。")
 
     // モーダルとその関連要素を取得
     const reviewModal = document.querySelector(".review-modal");
-    const reviewList = reviewModal.querySelector(".review-list");
     const reviewModalCloseBtn = reviewModal.querySelector(".review-modal-close");
     const reviewModalTitle = reviewModal.querySelector(".review-modal-title");
-    const differentReviewBtn = reviewModal.querySelector(".different-review-btn");
 
     // 現在の選択情報を更新
-    const currentSelection = { prefecture, spotname, aspect };
+    currentSelection = { prefecture, spotname, aspect };
 
     // モーダルタイトルを更新
     reviewModalTitle.innerHTML = `「${aspect}」<br>に関連したレビュー`;
     // レビューを取得して表示
-    fetchAndDisplayReviews(currentSelection);
-
-
-    // 関数: 「違うレビューを見る」ボタンがクリックされたときの処理
-    function differentReviewClicked(currentSelection) {
-        console.log("「違うレビューを見る」ボタンが押されました");
-        fetchAndDisplayReviews(currentSelection);
-    }
+    fetchAndDisplayReviews();
 
     // イベントリスナー: モーダルの閉じるボタン
     reviewModalCloseBtn.addEventListener("click", closeReviewModal);
@@ -211,12 +206,17 @@ function reviewIconClicked(event) {
             closeReviewModal();
         }
     });
-    // イベントリスナー: 「違うレビューを見る」ボタン
-    differentReviewBtn.addEventListener("click", () => differentReviewClicked(currentSelection));
+
+}
+
+// 関数: 「違うレビューを見る」ボタンがクリックされたときの処理
+function differentReviewClicked() {
+    console.log("「違うレビューを見る」ボタンが押されました");
+    fetchAndDisplayReviews();
 }
 
 // 関数: レビューを取得して表示する
-function fetchAndDisplayReviews(currentSelection) {
+function fetchAndDisplayReviews() {
     const { prefecture, spotname, aspect } = currentSelection;
     const reviewModal = document.querySelector(".review-modal");
     const reviewList = reviewModal.querySelector(".review-list");
@@ -646,7 +646,10 @@ function fetchAndDisplayReviews(currentSelection) {
                                 </div>
                             `;
                                 accordionOpenClose();
+                                const reviewModal = document.querySelector(".review-modal");
                                 const reviewIcons = document.querySelectorAll(".reviewIcon");
+                                const differentReviewBtn = reviewModal.querySelector(".different-review-btn");
+                                differentReviewBtn.addEventListener("click", () => differentReviewClicked(currentSelection));
                                 // 各アイコンにクリックイベントリスナーを追加
                                 reviewIcons.forEach(function (icon) {
                                     icon.addEventListener("click", reviewIconClicked);
@@ -666,7 +669,10 @@ function fetchAndDisplayReviews(currentSelection) {
                                     console.log("選択された並べ替え方法:", selectedSort);
                                     aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label, prefecture, replaced_spot_name);
                                     accordionOpenClose();
+                                    const reviewModal = document.querySelector(".review-modal");
                                     const reviewIcons = document.querySelectorAll(".reviewIcon");
+                                    const differentReviewBtn = reviewModal.querySelector(".different-review-btn");
+                                    differentReviewBtn.addEventListener("click", () => differentReviewClicked(currentSelection));
                                     // 各アイコンにクリックイベントリスナーを追加
                                     reviewIcons.forEach(function (icon) {
                                         icon.addEventListener("click", reviewIconClicked);
@@ -680,7 +686,10 @@ function fetchAndDisplayReviews(currentSelection) {
                                     console.log("選択された観点フィルタ:", selectedFilter);
                                     aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label, prefecture, replaced_spot_name);
                                     accordionOpenClose();
+                                    const reviewModal = document.querySelector(".review-modal");
                                     const reviewIcons = document.querySelectorAll(".reviewIcon");
+                                    const differentReviewBtn = reviewModal.querySelector(".different-review-btn");
+                                    differentReviewBtn.addEventListener("click", () => differentReviewClicked(currentSelection));
                                     // 各アイコンにクリックイベントリスナーを追加
                                     reviewIcons.forEach(function (icon) {
                                         icon.addEventListener("click", reviewIconClicked);
@@ -1283,7 +1292,10 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
     </div>
     `;
     accordionOpenClose();
+    const reviewModal = document.querySelector(".review-modal");
     const reviewIcons = document.querySelectorAll(".reviewIcon");
+    const differentReviewBtn = reviewModal.querySelector(".different-review-btn");
+    differentReviewBtn.addEventListener("click", () => differentReviewClicked(currentSelection));
     // 各アイコンにクリックイベントリスナーを追加
     reviewIcons.forEach(function (icon) {
         icon.addEventListener("click", reviewIconClicked);
@@ -1298,7 +1310,10 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
         console.log("選択された並べ替え方法:", selectedSort);
         aspectsContainer.innerHTML = renderAspects_light(spot_aspects, spot_aspects_label, selectedSort, prefecture, spotName);
         accordionOpenClose();
+        const reviewModal = document.querySelector(".review-modal");
         const reviewIcons = document.querySelectorAll(".reviewIcon");
+        const differentReviewBtn = reviewModal.querySelector(".different-review-btn");
+        differentReviewBtn.addEventListener("click", () => differentReviewClicked(currentSelection));
         // 各アイコンにクリックイベントリスナーを追加
         reviewIcons.forEach(function (icon) {
             icon.addEventListener("click", reviewIconClicked);
@@ -1957,7 +1972,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 //----------------------レビューモーダルを動かせるようにする
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     const modal = document.querySelector('.review-modal');
     const header = document.querySelector('.review-modal-header');
 
@@ -1966,7 +1981,7 @@ document.addEventListener('DOMContentLoaded', function() {
     let offsetY = 0;
 
     // マウスボタンが押されたとき
-    header.addEventListener('mousedown', function(e) {
+    header.addEventListener('mousedown', function (e) {
         isDragging = true;
         const rect = modal.getBoundingClientRect();
         offsetX = e.clientX - rect.left;

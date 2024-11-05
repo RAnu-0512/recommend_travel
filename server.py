@@ -42,15 +42,15 @@ allpref_info = get_allpref_info(allpref_spots_info)
 print(".....県情報読み込み完了!!")
 
 print(".....有名スポットの情報読み込み中")
-# popluar_spots_info = get_popular_spotinfo(allpref_spots_info) #allpref_clusters_infoと同じ形式  # テスト用の時コメントアウト
+popluar_spots_info = get_popular_spotinfo(allpref_spots_info) #allpref_clusters_infoと同じ形式  # テスト用の時コメントアウト
 print(".....有名スポットの情報読み込み完了")
-# list_spots_popular = get_other_pref_spot(popluar_spots_info) # テスト用の時コメントアウト
-list_spots_popular = get_other_pref_spot(allpref_spots_info) #本番環境ではコメントアウト
+list_spots_popular = get_other_pref_spot(popluar_spots_info) # テスト用の時コメントアウト
+# list_spots_popular = get_other_pref_spot(allpref_spots_info) #本番環境ではコメントアウト
 list_spots_all = get_other_pref_spot(allpref_spots_info)
 
 
 print(".....レビュー情報読み込み中")
-allpref_reviews_info = get_reviews_info() #all_pref_reviews_info-->{pref:{spotname:{aspect:[{"entity":entity,"review":review}]}}   テスト用の時コメントアウト
+allpref_reviews_info = get_reviews_info() #all_pref_reviews_info-->{pref:{spotname:{aspect:[{"entity":entity,"review":review}]}} 
 print(".....レビュー情報読み込み完了")
 
 
@@ -141,8 +141,11 @@ def get_random_reviews():
     pref = data.get("prefecture")
     spot_name = data.get("spot_name")
     aspect = data.get("aspect")
-    reviewsEntityPair = allpref_reviews_info[pref][spot_name][aspect]
-    return random.sample(reviewsEntityPair, min(len(reviewsEntityPair), 20)) 
+    try:
+        reviewsEntityPair = allpref_reviews_info[pref][spot_name][aspect]
+    except KeyError:
+        reviewsEntityPair = allpref_reviews_info[pref][spot_name+"second"][aspect]
+    return jsonify(random.sample(reviewsEntityPair, min(len(reviewsEntityPair), 20)) )
 
 @app.route("/get_random_spot",methods=["POST"])
 def get_random_spot():
