@@ -482,10 +482,9 @@ body {
 
     /* ツールチップの位置 */
     position: absolute;
-    bottom: -18%;
-    /* 親要素の上に表示 */
-    right: -146px;
-    margin-left: -60px;
+    bottom: 111%;
+    left: -62px;
+
     /* ツールチップを中央揃え */
 
     z-index: 1500;
@@ -499,12 +498,11 @@ body {
 .tooltip-box .tooltip::after {
     content: "";
     position: absolute;
-    top: 37%;
-    /* ツールチップの下部に配置 */
-    left: -7%;
+    bottom: -27%;
+    left: 46%;
     border-width: 5px;
     border-style: solid;
-    border-color: transparent #797979 transparent transparent;
+    border-color: #797979 transparent transparent transparent;
 }
 
 
@@ -661,11 +659,50 @@ body {
     transition: transform 0.3s;
     /* ホバー時のアニメーション */
 }
-
 .reviewIcon:hover {
     transform: scale(1.1);
-    /* ホバー時にアイコンを拡大 */
 }
+.reviewIconContainer{
+    position: relative;
+}
+
+/* ツールチップの基本スタイル */
+.review-tooltip {
+    position: absolute;
+    visibility: hidden;
+    width: 120px;
+    font-weight: bold;
+    background-color: #797979;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    bottom: 128%;
+    left: -52px;
+    z-index: 1500;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+/* ツールチップの矢印 */
+.review-tooltip::after {
+    content: "";
+    position: absolute;
+    bottom: -27%;
+    left: 46%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #797979 transparent transparent transparent;
+}
+
+/* ホバー時にツールチップを表示 */
+.reviewIconContainer:hover .review-tooltip{
+    visibility: visible;
+    opacity: 1;
+}
+
+
+
 
 .aspect-plus-rating .aspect {
     width: 20%;
@@ -2080,12 +2117,14 @@ body {
 
 
 /* --------------レビューのモーダル */
-/* レビューモーダルのスタイル */ 
+/* レビューモーダルのスタイル */
 .review-modal {
-    display: none; /* モーダルを初期非表示に設定 */
+    display: none;
+    /* モーダルを初期非表示に設定 */
     position: fixed;
     z-index: 1000;
-    left: 65%; /* 中央に配置 */
+    left: 65%;
+    /* 中央に配置 */
     top: 100px;
     height: 70%;
 }
@@ -2094,7 +2133,8 @@ body {
 
 .review-modal-content {
     background-color: #fff;
-    padding: 0; /* パディングをリセット */
+    padding: 0;
+    /* パディングをリセット */
     border: 1px solid #888;
     border-radius: 8px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
@@ -2104,28 +2144,34 @@ body {
     display: flex;
     flex-direction: column;
     position: relative;
-    overflow: hidden; /* 内部のスクロールを管理 */
+    overflow: hidden;
+    /* 内部のスクロールを管理 */
 }
 
 /* モーダルヘッダーのスタイル */
 .review-modal-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     padding: 0px 5px;
     background-color: #fff;
     border-bottom: 1px solid #ddd;
-    position: sticky;
     z-index: 1000;
     margin-top: 5px;
-    margin-bottom: 5px;
+    margin-bottom: -10px;
     cursor: move;
+    justify-items: center;
 }
 
 /* タイトルのスタイル */
 .review-modal-title {
     font-size: 20px;
     font-weight: bold;
+    text-align: center;
+    display: block;
+}
+
+.review-note{
+    font-size: 10px;
+    font-weight: 100;
+    margin-top: 0;
 }
 
 /* 閉じるボタンのスタイル */
@@ -2134,6 +2180,9 @@ body {
     font-weight: bold;
     color: #aaa;
     cursor: pointer;
+    position: absolute;
+    right: 7px;
+    top: 0;
 }
 
 .review-modal-close:hover,
@@ -2144,7 +2193,7 @@ body {
 
 /* レビューモーダルコンテンツのスクロール可能部分 */
 .review-modal-content .review-list {
-    list-style-type: disc;
+    list-style: none;
     padding: 5px 20px;
     margin-left: 10px;
     overflow-y: auto;
@@ -2153,5 +2202,31 @@ body {
 
 .highlight-entity {
     font-weight: bold;
-    color: #FF5722; /* オレンジ色に設定（必要に応じて変更可能） */
+    color: #FF5722;
+    /* オレンジ色に設定（必要に応じて変更可能） */
+}
+
+/* 各レビュー項目のスタイル */
+.review-list li {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+/* ホバー時の効果 */
+.review-list li:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* テキストのスタイル */
+.review-list li p {
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
 }

@@ -149,8 +149,10 @@ function accordionOpenClose() {
             var panel = this.nextElementSibling;
             if (panel.style.maxHeight) {
                 panel.style.maxHeight = null;
+                panel.style.overflow = "hidden"
             } else {
                 panel.style.maxHeight = panel.scrollHeight + 100 + "px";
+                panel.style.overflow = "visible"
             }
         });
     }
@@ -189,7 +191,7 @@ function reviewIconClicked(event) {
     const currentSelection = { prefecture, spotname, aspect };
 
     // モーダルタイトルを更新
-    reviewModalTitle.textContent = `「${aspect}」に関連したレビュー`;
+    reviewModalTitle.innerHTML = `「${aspect}」<br>に関連したレビュー`;
     // レビューを取得して表示
     fetchAndDisplayReviews(currentSelection);
 
@@ -409,11 +411,16 @@ function fetchAndDisplayReviews(currentSelection) {
                                             })()}
                                                     <span class="aspect">
                                                         ${highlightSimilarAspects(aspectInlabel.aspect, similarAspects)}
-                                                        <img src="static/images/reviews_icon.png" alt="レビューを見る" 
-                                                        class="reviewIcon"
-                                                        data-prefecture = "${prefecture}"
-                                                        data-spotname = "${spot_name}"
-                                                        data-aspect = "${aspectInlabel.aspect}"></img>
+                                                        <span class="reviewIconContainer">
+                                                            <img src="static/images/reviews_icon.png" alt="レビューを見る" 
+                                                            class="reviewIcon"
+                                                            data-prefecture = "${prefecture}"
+                                                            data-spotname = "${spot_name}"
+                                                            data-aspect = "${aspectInlabel.aspect}">
+                                                            <span class="review-tooltip">
+                                                                レビューを見る
+                                                            </span>
+                                                        </span>    
                                                     </span>
                                                     <span class="aspect-rating"> 
                                                         <span class="rating-num">${senti2StarsEval(all_aspects[aspectInlabel.aspect].senti_score)}</span>
@@ -456,11 +463,16 @@ function fetchAndDisplayReviews(currentSelection) {
                                             ${highlightSimilarAspects(aspect, similarAspects_label)}
                                             ${(() => {
                                             return !isMultipleAspects
-                                                ? `<img src="static/images/reviews_icon.png" alt="レビューを見る" 
+                                                ? `<span class="reviewIconContainer">
+                                                        <img src="static/images/reviews_icon.png" alt="レビューを見る" 
                                                         class="reviewIcon"
                                                         data-prefecture = "${prefecture}"
                                                         data-spotname = "${spot_name}"
-                                                        data-aspect = "${aspect}"></img>`
+                                                        data-aspect = "${aspect}">
+                                                        <span class="review-tooltip">
+                                                            レビューを見る
+                                                        </span>
+                                                    </span>`
                                                 : ""
                                         })()
                                         }
@@ -1332,11 +1344,16 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
                         <span class="aspect-plus-rating">
                             <span class="aspect">
                                 ${aspectInlabel.aspect}
-                                <img src="static/images/reviews_icon.png" alt="レビューを見る" 
-                                class="reviewIcon"
-                                data-prefecture = "${prefecture}"
-                                data-spotname = "${spot_name}"
-                                data-aspect = "${aspectInlabel.aspect}"></img>
+                                <span class="reviewIconContainer">
+                                    <img src="static/images/reviews_icon.png" alt="レビューを見る" 
+                                    class="reviewIcon"
+                                    data-prefecture = "${prefecture}"
+                                    data-spotname = "${spot_name}"
+                                    data-aspect = "${aspectInlabel.aspect}">
+                                    <span class="review-tooltip">
+                                        レビューを見る
+                                    </span>
+                                </span>
                             </span>
                             <span class="aspect-rating"> 
                                 <span class="rating-num">${senti2StarsEval(all_aspects[aspectInlabel.aspect].senti_score)}</span>
@@ -1365,11 +1382,16 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
                     ${aspect}
                     ${(() => {
                         return !isMultipleAspects
-                            ? `<img src="static/images/reviews_icon.png" alt="レビューを見る" 
-                                class="reviewIcon"
-                                data-prefecture = "${prefecture}"
-                                data-spotname = "${spot_name}"
-                                data-aspect = "${aspect}"></img>`
+                            ? `<span class="reviewIconContainer">
+                                    <img src="static/images/reviews_icon.png" alt="レビューを見る" 
+                                    class="reviewIcon"
+                                    data-prefecture = "${prefecture}"
+                                    data-spotname = "${spot_name}"
+                                    data-aspect = "${aspect}">
+                                    <span class="review-tooltip">
+                                        レビューを見る
+                                    </span>
+                                </span>`
                             : ""
                     })()
                     }
