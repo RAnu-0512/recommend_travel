@@ -617,7 +617,7 @@ function fetchAndDisplayReviews() {
                                 modalBody.innerHTML = `
                                 <h2>${replaced_spot_name} の詳細</h2>
                                 <p>じゃらんnet: <a href="${element.url}" target="_blank">${element.url}</a></p>
-                                <img src="${photo_url || noImageUrl}" alt="${replaced_spot_name}" style="max-width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
+                                <img src="${photo_url || noImageUrl}" alt="${replaced_spot_name}" style="width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
                                 <div id="modal-controls">
                                     <div class="control-group">
                                         <!-- 並べ替えプルダウン -->
@@ -1274,7 +1274,7 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
     randomSpotModalContent.innerHTML = `
     <h2>${spotName} の詳細</h2>
     <p>じゃらんnet: <a href="${spot_url}" target="_blank">${spot_url}</a></p>
-    <img src="${photoUrl || noImageUrl}" alt="${spotName}" style="max-width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
+    <img src="${photoUrl || noImageUrl}" alt="${spotName}" style="width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
     <div id="modal-controls-${modal_type}Spot">
         <div class="control-group">
             <!-- 並べ替えプルダウン -->
