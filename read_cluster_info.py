@@ -30,5 +30,5 @@ def get_pref_cluster_info(pref):
         csv_reader = csv.reader(csvfile)
         for index,row in enumerate(csv_reader):
             # 各行の要素数を取得
-            clustering_aspect_dict[f"cluster{index:04d}"] = {"embedding":[float(value) for value in row[1].replace("[", "").replace("]", "").replace("\n", "").replace(",","").split()],"entities":row[2:]} 
+            clustering_aspect_dict[f"cluster{index:04d}"] = {"embedding":[float(value) for value in row[1].replace("[", "").replace("]", "").replace("\n", "").replace(",","").split()],"aspects":row[2:]} 
     return clustering_aspect_dict

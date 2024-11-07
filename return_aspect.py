@@ -52,43 +52,47 @@ def deduplication(aspect_vector_list):
 
 
 def cos_sim(v1, v2):
-    return np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2))
+    if np.linalg.norm(v1) * np.linalg.norm(v2) != 0:
+        return np.dot(v1, v2) / (np.linalg.norm(v1) * np.linalg.norm(v2))
+    else : 
+        return 0 
 def add_list_int(list1,list2):
     return [x + y for x, y in zip(list1, list2)]
 def divide_list_int(list1,num1):
     return [x/num1 for x in list1]
 
 
-# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
+# spots_info = {spotname:{lat:lat,lng:lng,
+# aspects:{apsect1:{vector:vector1,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage,fastText_vector:vector},
+#           aspect2:{vector:vector2,...},..},
+# aspectsVector:vector,numOfRev:number,major_aspects:,miner_aspects:,aspects_label:},...}
 #クエリと似ている観点を返す
-# def return_aspect(query,spots_info,aspect_top_n,model):
-#     result = []
-#     all_aspectsAndvector = []
-#     for spot in spots_info:
-#         aspects = spot[2]
-#         vectors = spot[3]
-#         for aspect,vector in zip(aspects,vectors):
-#             all_aspectsAndvector.append([aspect,vector])
-#     all_aspectsAndvector = deduplication(all_aspectsAndvector)
-#     all_aspects_score = calc_aspect_score(query,all_aspectsAndvector,model)
-
-#     sorted_aspect = sorted(zip(all_aspectsAndvector,all_aspects_score), key=lambda x:x[-1],reverse=True)
-#     result = [item[0][0] for item in sorted_aspect[:aspect_top_n]]
-#     return result
-
-# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
-# # #テスト関数
 def return_aspect(query,spots_info,aspect_top_n,model):
-    similar_aspect = []
-    kanzen_icchi = []
+    result = []
+    all_aspectsAndvector = []
     for spot_name,spot_info in spots_info.items():
-        for aspect,aspect_info in spot_info["aspects"].items():     
-            if aspect == query:
-                kanzen_icchi.append(aspect)
-            elif query in aspect:
-                similar_aspect.append(aspect)
-    similar_aspect = list(set(kanzen_icchi))+list(set(similar_aspect))
-    return similar_aspect[:aspect_top_n]
+        for aspect,aspect_info in spot_info["aspects"].items():
+            fastText_vector = aspect_info["fastText_vector"]
+            all_aspectsAndvector.append([aspect,fastText_vector])
+    all_aspectsAndvector = deduplication(all_aspectsAndvector) #重複削除
+    all_aspects_score = calc_aspect_score(query,all_aspectsAndvector,model)
+
+    sorted_aspect = sorted(zip(all_aspectsAndvector,all_aspects_score), key=lambda x:x[-1],reverse=True)
+    result = [item[0][0] for item in sorted_aspect[:aspect_top_n]]
+    return result
+
+# # #テスト関数 
+# def return_aspect(query,spots_info,aspect_top_n,model):
+#     similar_aspect = []
+#     kanzen_icchi = []
+#     for spot_name,spot_info in spots_info.items():
+#         for aspect,aspect_info in spot_info["aspects"].items():     
+#             if aspect == query:
+#                 kanzen_icchi.append(aspect)
+#             elif query in aspect:
+#                 similar_aspect.append(aspect)
+#     similar_aspect = list(set(kanzen_icchi))+list(set(similar_aspect))
+#     return similar_aspect[:aspect_top_n]
 
 # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},spots_aspectsVector:vector,spot_numOfRev:number,spot_url:url}}]
 def popular_aspects(pref_majorminer_info,n):

@@ -12,48 +12,44 @@ import argparse
 import csv
 import random
 top_n = 20 #推薦スポット数
-aspect_top_n = 10 #ヒットする観点数
+aspect_top_n = 15 #ヒットする観点数
 
-print(".....word2vecモデル読み込み中")
-# wor2vecモデル読み込み   :  絶対パス
-#model_path = "D:\\Desktop\\研究B4\\小林_B4\\プログラムおよびデータ\\02.Google_Colab\\drive\\cc.ja.300.vec.gz"
-#model_path = "C:/Users/kobayashi/Desktop/小林_B4/プログラムおよびデータ/02.Google Colab/drive/cc.ja.300.vec.gz"
-#model_path = "C:\\Users\\fkddn\\OneDrive\\デスクトップ\\cc.ja.300.vec.gz"
-#model_path = "/home/kobayashi/word2vec/cc.ja.300.vec.gz"
 
-#相対パス(relative_path)
-model_path = "../word2vec/cc.ja.300.vec.gz"
-
-model = "test_model"  #テストするときのモデル
-# model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False) #モデルの読み込み
-print(".....word2vecモデル読み込み完了!!")
-
-# spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:vector1,aspect2:vector,..},aspectsVector:vector,numOfRev:number,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}}]
+# ------------------------------------------------------------------------------------------------------------------------------------------------
+# spots_info = {spotname:{lat:lat,lng:lng,
+# aspects:{apsect1:{vector:vector1,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage,fastText_vector:vector},
+# aspect2:{vector:vector2,...},..},
+# aspectsVector:vector,numOfRev:number,major_aspects:,miner_aspects:,aspects_label:},...}
 print(".....スポット情報読み込み中")
 allpref_spots_info = get_spotinfo()
 print(".....スポット情報読み込み完了!!")
-
+# ------------------------------------------------------------------------------------------------------------------------------------------------
 print(".....クラスタリング情報読み込み中")
 allpref_clusters_info = get_clusterinfo()
 print(".....クラスタリング情報読み込み完了!!")
-
+# ------------------------------------------------------------------------------------------------------------------------------------------------
 print(".....県情報読み込み中")
 allpref_info = get_allpref_info(allpref_spots_info)
 print(".....県情報読み込み完了!!")
-
+# ------------------------------------------------------------------------------------------------------------------------------------------------
 print(".....有名スポットの情報読み込み中")
-popluar_spots_info = get_popular_spotinfo(allpref_spots_info) #allpref_clusters_infoと同じ形式  # テスト用の時コメントアウト
+popluar_spots_info = get_popular_spotinfo(allpref_spots_info) #allpref_spots_infoと同じ形式  # テスト用の時コメントアウト
 print(".....有名スポットの情報読み込み完了")
 list_spots_popular = get_other_pref_spot(popluar_spots_info) # テスト用の時コメントアウト
 # list_spots_popular = get_other_pref_spot(allpref_spots_info) #本番環境ではコメントアウト
 list_spots_all = get_other_pref_spot(allpref_spots_info)
-
-
+# ------------------------------------------------------------------------------------------------------------------------------------------------
 print(".....レビュー情報読み込み中")
 allpref_reviews_info = get_reviews_info() #all_pref_reviews_info-->{pref:{spotname:{aspect:[{"entity":entity,"review":review}]}} 
 print(".....レビュー情報読み込み完了")
-
-
+# ------------------------------------------------------------------------------------------------------------------------------------------------
+print(".....word2vecモデル読み込み中")
+#相対パス(relative_path)
+model_path = "../word2vec/cc.ja.300.vec.gz"
+# model = "test_model"  #テストするときのモデル #本番コメントアウト
+model = gensim.models.KeyedVectors.load_word2vec_format(model_path, binary=False) #モデルの読み込み #テストの時コメントアウト
+print(".....word2vecモデル読み込み完了!!")
+# ------------------------------------------------------------------------------------------------------------------------------------------------
 
 returned_aspect_list = []
 returned_distance_range = 0
@@ -166,7 +162,10 @@ def search_spot():
     # # 完全一致するスポットを抽出
     exact_matches = [spotinfo for spotinfo in list_spots_all if spotinfo["spot_name"] == query]
     # 部分一致するスポットを抽出（完全一致は除く）
-    partial_matches = [spotinfo for spotinfo in list_spots_all if query in spotinfo["spot_name"] and spotinfo["spot_name"] != query]
+    partial_matches = [spotinfo 
+                       for spotinfo in list_spots_all 
+                       if (query in spotinfo["spot_name"] or query.replace("県","").replace("京都府","京都").replace("東京都","東京").replace("大阪府","大阪") == spotinfo["prefecture"]) 
+                       and spotinfo["spot_name"] != query]
     # 結果を結合：完全一致が先頭に、部分一致が続く
     # print(f"検索スポット結果:{exact_matches + partial_matches}")
     return {"search_spots" : exact_matches + partial_matches}

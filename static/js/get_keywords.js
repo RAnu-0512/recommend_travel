@@ -4,7 +4,7 @@ function get_keyword(selected_pref) {
         e.preventDefault(); // ページの再読み込みを防ぐ
         const search_keyword = document.getElementById("search_keyword").value;
         console.log(search_keyword)
-
+        document.getElementById("submit_query").disabled = true;
         // fetchリクエストを送信
         fetch('/search_form', {
             method: 'POST', 
@@ -22,9 +22,11 @@ function get_keyword(selected_pref) {
             .then(data => {
                 console.log(data); // Pythonからの観点を返却
                 displaySearchResults(data.keyword);
+                document.getElementById("submit_query").disabled = false;
             })
             .catch(error => {
                 console.error('エラー:', error);
+                document.getElementById("submit_query").disabled = false;
             });
     });
 

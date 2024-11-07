@@ -46,8 +46,10 @@ def get_popular_spotinfo(allpref_spots_info):
 
 #県のスポットの情報を読み込む
 def get_pref_spot_info(pref):
-    # spots_info = {spotname:{lat:lat,lng:lng,aspects:{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage},aspect2:{vector:vector2,...},..},aspectsVector:vector,numOfRev:number,},...}
-    # try:
+    # spots_info = {spotname:{lat:lat,lng:lng,
+    # aspects:{apsect1:{vector:vector1,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage,fastText_vector:vector},
+    # aspect2:{vector:vector2,...},..},
+    # aspectsVector:vector,numOfRev:number,major_aspects:,miner_aspects:,aspects_label:},...}
     spots_info = {}
     latlng_info_path = f"data_beta/latlng/{pref}_latlng_review_exist_aspects.csv"
     major_path = f"data_beta/major_miner/{pref}major_aspects.csv"
@@ -78,7 +80,7 @@ def get_pref_spot_info(pref):
     
     aspect_folder_path = f"./data_beta/aspects_and_vectors/{pref}/"
     read_aspectsVector_path = f"./data_beta/spots_aspect_vector/{pref}aspectVector_fromCluster_GPT.csv"
-
+    fastText_folder_path = f"./data_beta/aspect_with_fastText_vector/{pref}/"
     with open(read_aspectsVector_path, 'r', newline='', encoding='utf-8') as csvfile:
         csv_reader = csv.reader(csvfile)
         for row in csv_reader:
@@ -109,27 +111,37 @@ def get_pref_spot_info(pref):
 
     for spot_name,spot_info in spots_info.items():
         aspect_path = aspect_folder_path + spot_name + "aspect_from_gpt_cluster_with_embeddings.csv"
+        fastText_path = fastText_folder_path + spot_name + "_aspects_with_fastTextVector.csv"
         with open(aspect_path,"r",encoding="utf-8") as f_aspect:
             reader = csv.reader(f_aspect)
             header = next(reader)
             rows = list(reader)
-        for row in rows:#{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}
-            aspect = row[0]
-            whichFrom = row[1]
-            senti_score = float(row[2])
-            count = float(row[3])
-            count_percentage = float(row[4])
-            vector_str = row[5]
-            vector_float = [float(value) for value in vector_str.replace("[", "").replace("]", "").replace("\n", "").split(",")]
-            spot_info["aspects"][aspect] = {"vector":vector_float,
-                                            "whichFrom":whichFrom,
-                                            "senti_score":senti_score,
-                                            "count":count,
-                                            "count_percentage":count_percentage}
-            if aspect in major_list:
-                spot_info["major_aspects"].append(aspect)
-            if aspect in miner_list:
-                spot_info["miner_aspects"].append(aspect)
+            for row in rows:#{apsect1:{vector:vector1,spot_url:url,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage}
+                aspect = row[0]
+                whichFrom = row[1]
+                senti_score = float(row[2])
+                count = float(row[3])
+                count_percentage = float(row[4])
+                vector_str = row[5]
+                vector_float = [float(value) for value in vector_str.replace("[", "").replace("]", "").replace("\n", "").split(",")]
+                spot_info["aspects"][aspect] = {"vector":vector_float,
+                                                "whichFrom":whichFrom,
+                                                "senti_score":senti_score,
+                                                "count":count,
+                                                "count_percentage":count_percentage}
+                if aspect in major_list:
+                    spot_info["major_aspects"].append(aspect)
+                if aspect in miner_list:
+                    spot_info["miner_aspects"].append(aspect)
+        with open(fastText_path,"r",encoding="utf-8") as f_fastText:
+            reader = csv.reader(f_fastText)
+            header = next(reader)
+            rows = list(reader)
+            for row in rows:
+                aspect = row[0]
+                fastText_vector_str = row[1]
+                fastText_vector_float = [float(value) for value in fastText_vector_str.replace("[", "").replace("]", "").replace("\n", "").split(",")]
+                spot_info["aspects"][aspect]["fastText_vector"] = fastText_vector_float
     aspects_label_folder_path = f"data_beta/aspects_labels/{pref}/"
     for spot_name,spot_info in spots_info.items():
         aspects_label_path = f"{aspects_label_folder_path}{spot_name}aspects_labels.csv"

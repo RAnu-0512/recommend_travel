@@ -242,7 +242,7 @@ def calc_selected_spot_vector(aspect_dict, cluster_dict):
     # アスペクトがどのクラスタに属しているかをマッピング
     aspect_to_cluster = {}
     for cluster_id, cluster_info in cluster_dict.items():
-        for aspect in cluster_info["entities"]:
+        for aspect in cluster_info["aspects"]:
             aspect_to_cluster[aspect] = cluster_id
     
     # クラスタとアスペクトのエンベディングを取得
@@ -340,7 +340,7 @@ def return_check_needed_aspects(style_vector,clustering_aspect_dict):
     check_needed_aspect = []
     for vector_index in range(len(style_vector)):
         if style_vector[vector_index] != 0:
-            check_needed_aspect += clustering_aspect_dict[f"cluster{vector_index:04}"]["entities"]
+            check_needed_aspect += clustering_aspect_dict[f"cluster{vector_index:04}"]["aspects"]
     return check_needed_aspect
 
 
