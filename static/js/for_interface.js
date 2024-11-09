@@ -1,6 +1,7 @@
 
 // グローバル変数として現在の選択情報を保持
 let currentSelection = null;
+let logHistory = [];
 
 const fix_distance_button = document.getElementById('fix_distance');
 const fix_aspect_button = document.getElementById('fix_aspect');
@@ -35,6 +36,24 @@ window.onload = function () {
     });
 };
 
+// テキストファイルをダウンロードする関数
+function downloadLogFile() {
+    // ログの配列を文字列に変換
+    const logContent = logHistory.join("\n");
+
+    // Blobオブジェクトを作成し、テキストデータを設定
+    const blob = new Blob([logContent], { type: "text/plain" });
+
+    // ダウンロード用のリンクを作成
+    const link = document.createElement("a");
+    link.href = URL.createObjectURL(blob);
+    link.download = "log.csv"; // ファイル名を指定
+    link.click();
+
+    // メモリの解放
+    URL.revokeObjectURL(link.href);
+}
+
 function readStartLatLngFile(pref) {
     return new Promise((resolve, rejcet) => {
         fetch("/get_prefLatLng", {
@@ -64,6 +83,32 @@ function readStartLatLngFile(pref) {
             });
     });
 }
+
+
+// スライダーの値が変更されたときに実行される関数
+function loggingPopluarSliderChange() {
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `スポット人気度変更,${timestamp}`;
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+}
+
+
+// スライダーの値が変更されたときに実行される関数
+function loggingDistanceBarChange() {
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `推薦範囲変更,${timestamp}`;
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+}
+
+
 
 function loadSpotImage(photo_url, noImageUrl) {
     return new Promise((resolve) => {
@@ -163,6 +208,17 @@ function accordionOpenClose() {
 
 // 関数: モーダルを閉じる
 function closeReviewModal() {
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `レビューを見る閉じる,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+
+
     const reviewModal = document.querySelector(".review-modal");
     const reviewList = reviewModal.querySelector(".review-list");
     const reviewModalTitle = reviewModal.querySelector(".review-modal-title");
@@ -176,13 +232,24 @@ function closeReviewModal() {
 
 // 関数: レビューアイコンがクリックされたときの処理
 function reviewIconClicked(event) {
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `レビューを見るクリック,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+
+
     // クリックされたアイコンを取得
     const icon = event.currentTarget;
     const prefecture = icon.getAttribute("data-prefecture");
     const spotname = icon.getAttribute("data-spotname");
     const aspect = icon.getAttribute("data-aspect");
-    console.log("レビューアイコンが押されました");
-    console.log(prefecture, spotname, aspect, "です。")
+    // console.log("レビューアイコンが押されました");
+    // console.log(prefecture, spotname, aspect, "です。")
 
     // モーダルとその関連要素を取得
     const reviewModal = document.querySelector(".review-modal");
@@ -211,7 +278,16 @@ function reviewIconClicked(event) {
 
 // 関数: 「違うレビューを見る」ボタンがクリックされたときの処理
 function differentReviewClicked() {
-    console.log("「違うレビューを見る」ボタンが押されました");
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `違うレビュークリック,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+    // console.log("「違うレビューを見る」ボタンが押されました");
     fetchAndDisplayReviews();
 }
 
@@ -239,7 +315,7 @@ function fetchAndDisplayReviews() {
             return res.json();
         })
         .then(data => {
-            console.log(data);
+            // console.log(data);
             // レビューリストをクリア
             reviewList.innerHTML = "";
 
@@ -301,7 +377,7 @@ function fetchAndDisplayReviews() {
             const selectedPopup = L.marker([lat, lng], { icon: greenIcon }).addTo(mymap).bindPopup("~計算中です~<br>少々お待ちください", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
             popups.push(selectedPopup)
 
-            console.log("clicked : ", lat, lng)
+            // console.log("clicked : ", lat, lng)
             mymap.off('click', onMapClick);
 
 
@@ -334,16 +410,17 @@ function fetchAndDisplayReviews() {
             }
             let lastSelectedValue = distanceBar.value;
 
+
             const slider = document.getElementById('locationSlider');
             const popularityLevel = slider.value;
+            slider.addEventListener('change', loggingPopluarSliderChange);
 
-
-            console.log("選択した推薦スタイル:", selectedStyle)
-            console.log("選択したスポット:", selectedSpots)
-            console.log("選択した観点(優先度)", selectedResultsDataArray);
-            console.log('推薦するスポットレベル:', popularityLevel); // 0-7-14
-            console.log("距離", lastSelectedValue);
-            console.log("選択地点", lat, lng);
+            // console.log("選択した推薦スタイル:", selectedStyle)
+            // console.log("選択したスポット:", selectedSpots)
+            // console.log("選択した観点(優先度)", selectedResultsDataArray);
+            // console.log('推薦するスポットレベル:', popularityLevel); // 0-7-14
+            // console.log("距離", lastSelectedValue);
+            // console.log("選択地点", lat, lng);
 
 
             fetch("/get_recommended_spots", {
@@ -360,7 +437,7 @@ function fetchAndDisplayReviews() {
                     return res.json()
                 })
                 .then(data => {
-                    console.log("推薦された全スポット情報", data);
+                    // console.log("推薦された全スポット情報", data);
                     //dataは{"spot_name":str,"lat":float,"lng":float,"aspects":{aspect:{"senti_score":float,"count":float}},
                     //      "similar_aspects":{aspect:{"senti_score":float,"count":float}},"score" :float,"selectAspectSim":float, "selectStyleSim":float,"selectSpotSim":float,"popularWight":float,"url":str}
                     data.forEach(async (element, index) => {
@@ -609,6 +686,18 @@ function fetchAndDisplayReviews() {
                             // 「詳細を見る」ボタンのクリックイベントを設定
                             const spotinfo_detailButton = popupInfo.querySelector(".spotinfo_detailButton");
                             spotinfo_detailButton.addEventListener("click", (event) => {
+                                const now = new Date();
+                                const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+                                const logEntry = `詳細を見る開く,${timestamp}`;
+                                const adjustedTime = new Date(now.getTime() + 1000); //現在時刻に1秒足した時間
+                                const logEntryAdjustedTime = `詳細を見る開く,${adjustedTime}`;
+                                // logHistoryに既に同じエントリが存在しない場合のみ実行
+                                if (!logHistory.includes(logEntry) && !logHistory.includes(logEntryAdjustedTime)) {
+                                    console.log(logEntry);
+                                    logHistory.push(logEntry);
+                                }
+
+
                                 event.stopPropagation(); // 親要素のクリックイベントを防ぐ
                                 const modal = document.getElementById("spotinfo_modal");
                                 const modalBody = document.getElementById("spot-modal-content");
@@ -616,7 +705,7 @@ function fetchAndDisplayReviews() {
                                 // モーダルの内容を設定（必要に応じて詳細情報を追加）
                                 modalBody.innerHTML = `
                                 <h2>${replaced_spot_name} の詳細</h2>
-                                <p>じゃらんnet: <a href="${element.url}" target="_blank">${element.url}</a></p>
+                                <p>じゃらんnet: <a href="${element.url}" target="_blank" class = "jaran_url">${element.url}</a></p>
                                 <img src="${photo_url || noImageUrl}" alt="${replaced_spot_name}" style="width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
                                 <div id="modal-controls">
                                     <div class="control-group">
@@ -666,7 +755,7 @@ function fetchAndDisplayReviews() {
                                 sortSelect.addEventListener("change", () => {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
-                                    console.log("選択された並べ替え方法:", selectedSort);
+                                    // console.log("選択された並べ替え方法:", selectedSort);
                                     aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label, prefecture, replaced_spot_name);
                                     accordionOpenClose();
                                     const reviewModal = document.querySelector(".review-modal");
@@ -683,7 +772,7 @@ function fetchAndDisplayReviews() {
                                 filterSelect.addEventListener("change", () => {
                                     const selectedSort = sortSelect.value;
                                     const selectedFilter = filterSelect.value;
-                                    console.log("選択された観点フィルタ:", selectedFilter);
+                                    // console.log("選択された観点フィルタ:", selectedFilter);
                                     aspectsContainer.innerHTML = renderAspects(aspects, aspects_label, selectedSort, selectedFilter, similarAspects, similarAspects_label, majorAspects_label, minerAspects_label, prefecture, replaced_spot_name);
                                     accordionOpenClose();
                                     const reviewModal = document.querySelector(".review-modal");
@@ -708,6 +797,8 @@ function fetchAndDisplayReviews() {
                                 .addTo(mymap)
                                 .bindPopup(spotAspectPopup, { className: 'custom_popup', id: popupId })
                                 .openPopup();
+
+
                             // ドキュメント全体にクリックイベントリスナーを追加
                             document.addEventListener('click', function (event) {
                                 // クリックされた要素が .popup-spot-link クラスを持つ <a> タグか確認
@@ -739,6 +830,14 @@ function fetchAndDisplayReviews() {
                                 recommendSpotInfo.querySelectorAll("#recommend_spot_info div").forEach(element => {
                                     element.classList.value = "unhighlighted_info";
                                 });
+                                const now = new Date();
+                                const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+                                const logEntry = `スポットをハイライト(popup),${timestamp}`;
+                                const logEntry_info = `スポットをハイライト(info),${timestamp}`;
+                                if (!logHistory.includes(logEntry) && !logHistory.includes(logEntry_info)) {
+                                    console.log(logEntry);
+                                    logHistory.push(logEntry);
+                                }
                                 const select_spotinfo = recommendSpotInfo.querySelector(`[data-popup-id="${marker._popup.options.id}"]`);
                                 select_spotinfo.classList.value = "highlighted_info";
 
@@ -777,6 +876,14 @@ function fetchAndDisplayReviews() {
                                         element.classList.value = "normal_info";
                                     });
                                 } else {
+                                    const now = new Date();
+                                    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+                                    const logEntry = `スポットをハイライト(info),${timestamp}`;
+                                    if (!logHistory.includes(logEntry)) {
+                                        console.log(logEntry);
+                                        logHistory.push(logEntry);
+                                    }
+
                                     const findMarker = popups.find(marker => marker._popup.options.id === popupId);
                                     // 対応するポップアップに移動
                                     if (findMarker) {
@@ -828,7 +935,7 @@ function fetchAndDisplayReviews() {
                     mymap.on("click", onMapClick);
                     selectedPopup.bindPopup("選択された位置", { className: 'selected_latlng', id: "popup_selected" }).openPopup();
                     const endTime = Date.now(); // 終了時間
-                    console.log("処理にかかった時間 : ", endTime - startTime, "ミリ秒"); // 何ミリ秒かかったかを表示する
+                    // console.log("処理にかかった時間 : ", endTime - startTime, "ミリ秒"); // 何ミリ秒かかったかを表示する
                     const rerecommend_button = document.getElementById('rerecommend_button_parm');
                     rerecommend_button.disabled = false;
                 })
@@ -844,11 +951,21 @@ function fetchAndDisplayReviews() {
         }
         function onReRecommendButtonClick() {
             const rerecommend_button = document.getElementById('rerecommend_button_parm');
+
             if (popups[0] != undefined) {
+                const now = new Date();
+                const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+                const logEntry = `再推薦ボタンクリック,${timestamp}`;
+                if (!logHistory.includes(logEntry)) {
+                    console.log(logEntry);
+                    logHistory.push(logEntry);
+                }
+
                 rerecommend_button.disabled = true;
                 const cur_lat = popups[0]._latlng.lat;
                 const cur_lng = popups[0]._latlng.lng;
                 display_recommend_spot(cur_lat, cur_lng);
+
             }
             else {
                 alert("観光予定の中心地をマップをクリックして選択してください！")
@@ -865,7 +982,7 @@ function fetchAndDisplayReviews() {
             }
         }
         [lat_start, lng_start] = await readStartLatLngFile(selected_pref.replace("東京都", "東京").replace("道", "").replace("県", "").replace("京都府", "京都").replace("大阪府", "大阪"));
-        console.log(selected_pref.replace("東京都", "東京").replace("道", "").replace("県", "").replace("京都府", "京都").replace("大阪府", "大阪"), lat_start, lng_start);
+        // console.log(selected_pref.replace("東京都", "東京").replace("道", "").replace("県", "").replace("京都府", "京都").replace("大阪府", "大阪"), lat_start, lng_start);
         const mymap = L.map('mapid', {
             center: [lat_start, lng_start],
             zoomControl: false,
@@ -914,7 +1031,11 @@ function fetchAndDisplayReviews() {
 })();
 
 document.getElementById('resetButton').addEventListener('click', function () {
-    location.reload();
+    // 確認ダイアログを表示
+    const userConfirmed = confirm('ページをリロードしますか？');
+    if (userConfirmed) {
+        location.reload();
+    }
 });
 
 //検索ボックス
@@ -989,6 +1110,17 @@ let selected_recommend_style = [];
 
 // モーダルを開く関数
 function openModal() {
+
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `旅行スタイル選択ボタンクリック,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+
     modal_level1.style.display = 'block';
     // 既に選択されているスタイルがあれば、そのカードを選択状態にする
     if (selected_recommend_style.length > 0) {
@@ -1076,6 +1208,15 @@ deselect_modal.addEventListener('click', function () {
 // モーダルの閉じるボタン
 const spot_modal_closeButton = document.querySelector(".spot-modal-close-button");
 spot_modal_closeButton.addEventListener("click", () => {
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `詳細を見る閉じる,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
     const modal = document.getElementById("spotinfo_modal");
     modal.style.display = "none";
     closeReviewModal();
@@ -1085,6 +1226,15 @@ spot_modal_closeButton.addEventListener("click", () => {
 window.addEventListener("click", (event) => {
     const modal = document.getElementById("spotinfo_modal");
     if (event.target === modal) {
+        const now = new Date();
+        const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+        const logEntry = `詳細を見る閉じる,${timestamp}`;
+
+        // logHistoryに既に同じエントリが存在しない場合のみ実行
+        if (!logHistory.includes(logEntry)) {
+            console.log(logEntry);
+            logHistory.push(logEntry);
+        }
         modal.style.display = "none";
         closeReviewModal();
     }
@@ -1133,7 +1283,7 @@ window.addEventListener("click", (event) => {
 
 // ランダムスポットを取得してモーダルに表示する関数
 async function fetchAndDisplayRandomSpot() {
-    console.log("ランダムスポットを取得中...");
+    // console.log("ランダムスポットを取得中...");
     loadingIndicator.style.display = "block"; // ローディング開始
     spotsContainer.innerHTML = ""; // 既存のスポット情報をクリア
 
@@ -1150,7 +1300,7 @@ async function fetchAndDisplayRandomSpot() {
             throw new Error("fetchに失敗しました");
         }
         const data = await response.json();
-        console.log("スポットを取得しました", data); // Pythonからのデータをログに出力
+        // console.log("スポットを取得しました", data); // Pythonからのデータをログに出力
 
         const randomSpots = data.random_spots;
         const noImageUrl = "static/images/NoImage.jpg";
@@ -1307,7 +1457,7 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
     // 並べ替えイベントリスナー
     sortSelect.addEventListener("change", () => {
         const selectedSort = sortSelect.value;
-        console.log("選択された並べ替え方法:", selectedSort);
+        // console.log("選択された並べ替え方法:", selectedSort);
         aspectsContainer.innerHTML = renderAspects_light(spot_aspects, spot_aspects_label, selectedSort, prefecture, spotName);
         accordionOpenClose();
         const reviewModal = document.querySelector(".review-modal");
@@ -1538,6 +1688,16 @@ deselectAllButton.addEventListener("click", () => {
 
 // 「違うスポットを見る」ボタンのクリックイベント
 refreshSpotButton.addEventListener("click", async () => {
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `違うスポットを見るクリック,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+
     refreshSpotButton.disabled = true;
     await fetchAndDisplayRandomSpot();
 });
@@ -1545,6 +1705,15 @@ refreshSpotButton.addEventListener("click", async () => {
 // 「スポットを選択」ボタンが押されたらモーダルを開く
 const modal2OppenButton = document.getElementById("modal_level2_openButton");
 modal2OppenButton.addEventListener("click", async () => {
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `行ってみたいスポットクリック,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
     modal2OppenButton.disabled = true;
     await fetchAndDisplayRandomSpot();
     modal_level2.style.display = "block";
@@ -1595,6 +1764,17 @@ let selectedSpots_modal3 = [];
 
 // モーダルを開く関数
 function openModal3() {
+
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `行ってよかったスポットクリック,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+
     modal_level3.style.display = "block";
     // オプション: モーダルが開いたときに検索入力にフォーカスを当てる
     searchInput_modal3.focus();
@@ -1644,7 +1824,7 @@ searchInput_modal3.addEventListener("keypress", (event) => {
 
 // スポットを検索して表示する関数
 async function performSearch_modal3(query, pref) {
-    console.log(`検索クエリ: ${query}`);
+    // console.log(`検索クエリ: ${query}`);
     loadingIndicator_modal3.style.display = "block"; // ローディング開始
     spotsContainer_modal3.innerHTML = ""; // 既存のスポット情報をクリア
 
@@ -1662,7 +1842,7 @@ async function performSearch_modal3(query, pref) {
         }
 
         const data = await response.json();
-        console.log(data); // サーバーからのデータをログに出力
+        // console.log(data); // サーバーからのデータをログに出力
 
         const searchResults = data.search_spots; // サーバーから返されるデータに合わせて変更
         const noImageUrl = "static/images/NoImage.jpg";
@@ -1968,7 +2148,8 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 });
 
-
+const slider = document.getElementById('locationSlider');
+slider.addEventListener('change', loggingPopluarSliderChange);
 
 
 //----------------------レビューモーダルを動かせるようにする
@@ -2026,5 +2207,22 @@ document.addEventListener('DOMContentLoaded', function () {
         isDragging = false;
         document.removeEventListener('mousemove', onMouseMove);
         document.removeEventListener('mouseup', onMouseUp);
+    }
+});
+
+
+
+distanceBar.addEventListener('change', loggingDistanceBarChange);
+
+//じゃらんのurlが押されたらログにいれる
+document.addEventListener('click', function (event) {
+    if (event.target.matches('a.jaran_url')) {
+        const now = new Date();
+        const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+        const logEntry = `じゃらんnetに移動,${timestamp}`;
+        if (!logHistory.includes(logEntry)) {
+            console.log(logEntry);
+            logHistory.push(logEntry);
+        }
     }
 });
