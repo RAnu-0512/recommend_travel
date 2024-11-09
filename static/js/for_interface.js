@@ -1311,8 +1311,9 @@ async function fetchAndDisplayRandomSpot() {
             const prefecture = spot.prefecture;
             const spot_url = spot.spot_url;
             const spot_aspects = spot.aspects;
+            const spot_aspects_label = spot.aspects_label;
             // Object.entriesを使用してオブジェクトを配列に変換
-            const entries = Object.entries(spot_aspects);
+            const entries = Object.entries(spot_aspects_label);
             // countで降順にソート
             entries.sort((a, b) => b[1].count - a[1].count);
             // 上位3つを取得
@@ -1413,6 +1414,17 @@ async function fetchAndDisplayRandomSpot() {
 
 // スポットの詳細情報を表示する関数
 function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
+
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `検索スポットの詳細を開く,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+
     const spotName = spot.spot_name;
     const spot_url = spot.spot_url;
     const spot_aspects = spot.aspects;
@@ -1593,6 +1605,16 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
 
 // モーダルを閉じる関数
 function closeRandomSpotModal() {
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `検索スポットの詳細を閉じる,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+
     const randomSpotModal = document.getElementById("spotinfo_modal_random");
     randomSpotModal.style.display = "none";
     closeReviewModal();
@@ -1853,9 +1875,10 @@ async function performSearch_modal3(query, pref) {
             const prefecture = spot.prefecture;
             const spot_url = spot.spot_url;
             const spot_aspects = spot.aspects;
-
+            const spot_aspects_label = spot.aspects_label;
+            
             // Object.entriesを使用してオブジェクトを配列に変換
-            const entries = Object.entries(spot_aspects);
+            const entries = Object.entries(spot_aspects_label);
             // countで降順にソート
             entries.sort((a, b) => b[1].count - a[1].count);
             // 上位3つを取得
@@ -1955,6 +1978,16 @@ async function performSearch_modal3(query, pref) {
 
 // モーダルを閉じる関数
 function closeSearchSpotModal() {
+    const now = new Date();
+    const timestamp = `${now.toLocaleDateString()} ${now.toLocaleTimeString()}`;
+    const logEntry = `検索スポットの詳細を閉じる,${timestamp}`;
+
+    // logHistoryに既に同じエントリが存在しない場合のみ実行
+    if (!logHistory.includes(logEntry)) {
+        console.log(logEntry);
+        logHistory.push(logEntry);
+    }
+
     const searchSpotModal = document.getElementById("spotinfo_modal_search");
     searchSpotModal.style.display = "none";
     closeReviewModal();

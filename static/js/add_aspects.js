@@ -20,7 +20,7 @@ function handleAspectSelection(event) {
             AddSelectedAspectsDisplay(aspectName);
         }
     } else {
-        console.log("3");
+        // console.log("3");
         if (selectedAspects.includes(aspectName)) {
             const  aspectNameElement = Array.from(document.querySelectorAll('#selected_results > div')).find(div => {
                 const selectedResult = div.querySelector('.selected_result');
