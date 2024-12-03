@@ -115,6 +115,8 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
         spot_aspectsVector = spot_info["aspectsVector"]
         spot_numOfRev = spot_info["numOfRev"]
         spot_url = spot_info["spot_url"]
+        homepage_name = spot_info["homepage_name"]
+        img_url = spot_info["img_url"]
         major_aspect_list = spot_info["major_aspects"]
         miner_aspect_list = spot_info["miner_aspects"]
         aspects_label = spot_info["aspects_label"]
@@ -163,7 +165,8 @@ def return_spot(selected_lat, selected_lng, recommend_range, selected_aspect_lis
                                             "similar_aspects":similar_aspects_dict,"similar_aspects_label":similar_aspects_label,
                                             "major_aspects":major_aspects_dict,"major_aspects_label":major_aspects_label,
                                             "miner_aspects":miner_aspects_dict,"miner_aspects_label":miner_aspects_label,
-                                            "sum_score":sum_score,"spot_url":spot_url,"selectAspectSim":sim1,"selectStyleSim":sim2,"selectSpotSim":sim3,"popularWight":popular_wight}
+                                            "sum_score":sum_score,"spot_url":spot_url,"homepage_name":homepage_name,"img_url":img_url,
+                                            "selectAspectSim":sim1,"selectStyleSim":sim2,"selectSpotSim":sim3,"popularWight":popular_wight}
         # sorted_recommend_spots_info = sorted(recommend_spots_info, key = lambda x:x[4],reverse=True)
     sorted_recommend_spots_info = dict(sorted(recommend_spots_info.items(), key=lambda item: item[1]["sum_score"], reverse=True))
 
@@ -308,13 +311,15 @@ def get_other_pref_spot(allpref_spots_info):
             aspects = spotinfo.get('aspects', {})
             url = spotinfo.get('spot_url')
             aspects_label = spotinfo.get("aspects_label",{})
+            homepage_name = spotinfo["homepage_name"]
+            img_url = spotinfo["img_url"]
             new_aspects = {}
             for aspect_name,aspect_info in aspects.items():
                 new_aspects[aspect_name] = {
                     'senti_score': aspect_info.get('senti_score'),
                     'count': aspect_info.get('count')
                 }
-            list_spotname.append({"spot_name":spotname,"prefecture":cur_pref,"aspects":new_aspects,"aspects_label":aspects_label,"spot_url":url})
+            list_spotname.append({"spot_name":spotname,"prefecture":cur_pref,"aspects":new_aspects,"aspects_label":aspects_label,"spot_url":url,"homepage_name":homepage_name,"img_url":img_url})
 
     return list_spotname
 

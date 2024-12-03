@@ -11,7 +11,7 @@ def get_reviews_info():
         "徳島", "香川", "愛媛", "高知", "福岡", "佐賀", "長崎",
         "熊本", "大分", "宮崎", "鹿児島", "沖縄"#,"全国"
     ]
-    # pref_list = ["岡山"] #本番環境の時コメントアウト
+    # pref_list = ["佐賀","岡山"] #本番環境の時コメントアウト
     pref_dict = {}
     for pref in pref_list:
         pref_reviews_info = get_pref_reviews_info(pref)

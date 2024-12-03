@@ -707,6 +707,7 @@ function fetchAndDisplayReviews() {
                                 <h2>${replaced_spot_name} の詳細</h2>
                                 <p>じゃらんnet: <a href="${element.url}" target="_blank" class = "jaran_url">${element.url}</a></p>
                                 <img src="${photo_url || noImageUrl}" alt="${replaced_spot_name}" style="width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
+                                <p>写真: <a href="${element.img_url}" target="_blank" class = "jaran_url">${element.homepage_name}</a></p>
                                 <div id="modal-controls">
                                     <div class="control-group">
                                         <!-- 並べ替えプルダウン -->
@@ -1429,6 +1430,8 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
     const spot_url = spot.spot_url;
     const spot_aspects = spot.aspects;
     const spot_aspects_label = spot.aspects_label;
+    const img_url = spot.img_url
+    const homepage_name = spot.homepage_name
 
     // 詳細情報を表示する要素を取得
     const randomSpotModalContent = document.getElementById(`spot_modal_content_${modal_type}`);
@@ -1437,6 +1440,7 @@ function showSpotDetails(spot, photoUrl, noImageUrl, modal_type, prefecture) {
     <h2>${spotName} の詳細</h2>
     <p>じゃらんnet: <a href="${spot_url}" target="_blank">${spot_url}</a></p>
     <img src="${photoUrl || noImageUrl}" alt="${spotName}" style="width: 100%; height: auto;" onerror="this.onerror=null; this.src='${noImageUrl}';">
+    <p>写真: <a href="${img_url}" target="_blank">${homepage_name}</a></p>
     <div id="modal-controls-${modal_type}Spot">
         <div class="control-group">
             <!-- 並べ替えプルダウン -->

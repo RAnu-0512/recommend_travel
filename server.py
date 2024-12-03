@@ -126,7 +126,9 @@ def get_recommended_spots():
             "selectStyleSim" : recommend_spot[1]["selectStyleSim"],
             "selectSpotSim" : recommend_spot[1]["selectSpotSim"],
             "popularWight" : recommend_spot[1]["popularWight"],
-            "url" : recommend_spot[1]["spot_url"]
+            "url" : recommend_spot[1]["spot_url"],
+            "homepage_name" : recommend_spot[1]["homepage_name"],
+            "img_url" : recommend_spot[1]["img_url"]
         }
         response_data.append(converted_data)
         # print("converted_data : ",converted_data)

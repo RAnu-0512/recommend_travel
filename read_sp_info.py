@@ -12,7 +12,7 @@ def get_spotinfo():
         "徳島", "香川", "愛媛", "高知", "福岡", "佐賀", "長崎",
         "熊本", "大分", "宮崎", "鹿児島", "沖縄"#,"全国"
     ]
-    # pref_list = ["岡山"] #本番環境の時コメントアウト
+    # pref_list = ["佐賀","岡山"] #本番環境の時コメントアウト
     pref_dict = {}
 #    pref_dict["全国"] = []
     for pref in pref_list:
@@ -47,9 +47,12 @@ def get_popular_spotinfo(allpref_spots_info):
 #県のスポットの情報を読み込む
 def get_pref_spot_info(pref):
     # spots_info = {spotname:{lat:lat,lng:lng,
-    # aspects:{apsect1:{vector:vector1,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage,fastText_vector:vector},
-    # aspect2:{vector:vector2,...},..},
-    # aspectsVector:vector,numOfRev:number,major_aspects:,miner_aspects:,aspects_label:},...}
+    # aspects:
+    # { apsect1:{vector:vector1,whichFrom:whichFrom,senti_score:senti_score,count:count,count_percentage:count_percentage,fastText_vector:vector},
+    #   aspect2:{vector:vector2,...},..
+    # },
+    # aspectsVector:vector,numOfRev:number,major_aspects:,miner_aspects:,aspects_label:,homepage_name:,img_url}
+    # ,...}
     spots_info = {}
     latlng_info_path = f"data_beta/latlng/{pref}_latlng_review_exist_aspects.csv"
     major_path = f"data_beta/major_miner/{pref}major_aspects.csv"
@@ -108,6 +111,19 @@ def get_pref_spot_info(pref):
             url = row[1]
             if spot_name in spots_info:
                 spots_info[spot_name]["spot_url"] = url
+    #スポットの画像urlを読み込む
+    image_url_path = f"./data_beta/imageUrl/{pref}_imageUrl.csv" 
+    # print(f"----画像urlを読み込む:{pref}--")
+    with open(image_url_path,"r",encoding="utf-8") as f_r:
+        reader = csv.reader(f_r)
+        for row in reader:
+            spot_name = row[0]
+            homepage_name = row[1]
+            img_url = row[2]
+            if spot_name in spots_info:
+                spots_info[spot_name]["homepage_name"] = homepage_name
+                spots_info[spot_name]["img_url"] = img_url
+
 
     for spot_name,spot_info in spots_info.items():
         aspect_path = aspect_folder_path + spot_name + "aspect_from_gpt_cluster_with_embeddings.csv"
